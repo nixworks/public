@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/6/index.html)  [JSON](2008/12/6/index.json)  [XML](2008/
 
 ##### Philippines
 ### [ Filipino boxer Manny Pacquiao defeats Mexican American Oscar De La Hoya during a welterweight bout at the MGM Grand Garden Arena in Las Vegas, Nevada. ](/news/2008/12/6/filipino-boxer-manny-pacquiao-defeats-mexican-american-oscar-de-la-hoya-during-a-welterweight-bout-at-the-mgm-grand-garden-arena-in-las-veg.md)
-_Context: bout, Mexican American, Las Vegas Strip, welterweight, MGM Grand Garden Arena, Nevada, Manny Pacquiao, Philippines, Oscar De La Hoya_
+_Context: Las Vegas Strip, MGM Grand Garden Arena, Nevada, bout, Philippines, Oscar De La Hoya, Manny Pacquiao, Mexican American, welterweight_
 
 ##### United States
 ### [ United States President-elect Barack Obama nominates General Eric Shinseki to be the next Secretary of Veterans Affairs. ](/news/2008/12/6/united-states-president-elect-barack-obama-nominates-general-eric-shinseki-to-be-the-next-secretary-of-veterans-affairs.md)
@@ -13,15 +13,15 @@ US President-elect Barack Obama has selected retired General Eric Shinseki, who 
 
 ##### India
 ### [ India arrests two men accused of providing mobile phone cards to the gunmen in the November 2008 Mumbai attacks. ](/news/2008/12/6/india-arrests-two-men-accused-of-providing-mobile-phone-cards-to-the-gunmen-in-the-november-2008-mumbai-attacks.md)
-_Context: cards, mobile phone, India, November terrorist attacks_
+_Context: cards, India, mobile phone, November terrorist attacks_
 
 ##### Irish
 ### [ The Republic of Ireland recalls all Irish pork products after the discovery of contaminated fodder. ](/news/2008/12/6/the-republic-of-ireland-recalls-all-irish-pork-products-after-the-discovery-of-contaminated-fodder.md)
-_Context: fodder, 2008 Irish pork crisis, Irish, pork_
+_Context: pork, 2008 Irish pork crisis, fodder, Irish_
 
 ##### Joseph Cao
 ### [ Joseph Cao defeats William J. Jefferson in Louisiana's 2nd congressional election, a major upset victory for the Republican Party. He is the first Vietnamese American ever to be elected to the U.S. House of Representatives. ](/news/2008/12/6/joseph-cao-defeats-william-j-jefferson-in-louisiana-s-2nd-congressional-election-a-major-upset-victory-for-the-republican-party-he-is-th.md)
-_Context: Vietnamese American, Republican, Louisiana, United States House of Representatives, Joseph Cao, 2nd congressional election, William J. Jefferson_
+_Context: Vietnamese American, Joseph Cao, Louisiana, United States House of Representatives, 2nd congressional election, Republican, William J. Jefferson_
 
 ## [Previous Day...](/news/2008/12/5/index.md)
 

@@ -17,19 +17,19 @@ A railroad bridge collapsed on Friday over a creek in southern New Jersey, causi
 
 ##### Gas explosion
 ### [Two people are killed and more than ten others injured in a gas explosion and fire in an apartment building in the Siberian city of Tomsk, Russia. ](/news/2012/11/30/two-people-are-killed-and-more-than-ten-others-injured-in-a-gas-explosion-and-fire-in-an-apartment-building-in-the-siberian-city-of-tomsk-r.md)
-_Context: Siberian, Tomsk, gas explosion, Russia_
+_Context: gas explosion, Tomsk, Siberian, Russia_
 
 ##### Freight train
 ### [A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. ](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerbach-station-germany-after-a-collision-with-the-railway-platform-there-were-no-reports-of-i.md)
-_Context: freight train, Stuttgart-Feuerbach station, German, railway platform_
+_Context: German, Stuttgart-Feuerbach station, railway platform, freight train_
 
 ##### Murder-suicide
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Casper, Wyoming, Casper College, United States, murder-suicide_
+_Context: Casper, Wyoming, murder-suicide, Casper College, United States_
 
 ##### New Hampshire
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
-_Context: Exeter, New Hampshire, fraud, hepatitis C, grand jury, New Hampshire_
+_Context: grand jury, New Hampshire, hepatitis C, Exeter, New Hampshire, fraud_
 
 ##### Qatar
 ### [Qatari author Mohammed al-Ajami is given a life sentence for a poem insulting emir Hamad bin Khalifa Al Thani. ](/news/2012/11/30/qatari-author-mohammed-al-ajami-is-given-a-life-sentence-for-a-poem-insulting-emir-hamad-bin-khalifa-al-thani.md)
@@ -37,7 +37,7 @@ A Qatari court has sentenced a poet to life in prison for his verse ‘insulting
 
 ##### Time
 ### ["Time" magazine editors announce their list of 38 contenders nominated as the 2012 Time Person of the Year, including Barack Obama, Mitt Romney, Sheldon Adelson, Malala Yousafzai, Sandra Fluke, Felix Baumgartner, Curiosity rover, Bashar Assad, Mohamed Morsi, Psy, Pussy Riot, Higgs boson, Michael Phelps, and others. The winner of the people's choice will be announced on 14 December. ](/news/2012/11/30/time-magazine-editors-announce-their-list-of-38-contenders-nominated-as-the-2012-time-person-of-the-year-including-barack-obama-mitt-rom.md)
-_Context: Sandra Fluke, Higgs boson, Psy, Barack Obama, Malala Yousafzai, Michael Phelps, Curiosity rover, Mohamed Morsi, Pussy Riot, Time Person of the Year, Time, Mitt Romney, Felix Baumgartner, Bashar Assad's, Sheldon Adelson_
+_Context: Sheldon Adelson, Sandra Fluke, Psy, Curiosity rover, Mohamed Morsi, Time Person of the Year, Felix Baumgartner, Time, Bashar Assad's, Barack Obama, Higgs boson, Malala Yousafzai, Pussy Riot, Michael Phelps, Mitt Romney_
 
 ##### Labour Party
 ### [The Labour Party wins the three by-elections held in the United Kingdom on Thursday. Steve Reed is elected in Croydon North, Andy McDonald in Middlesbrough and Sarah Champion in Rotherham. The UK Independence Party achieve second place in Middlesbrough and Rotherham, beating the Conservatives and Liberal Democrats. ](/news/2012/11/30/the-labour-party-wins-the-three-by-elections-held-in-the-united-kingdom-on-thursday-steve-reed-is-elected-in-croydon-north-andy-mcdonald-i.md)
@@ -45,11 +45,11 @@ Labour retain Croydon North, Middlesbrough and Rotherham in by-elections, with U
 
 ##### Conspiracy to hack mobile phones
 ### [Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. ](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-campaign-to-urge-british-prime-minister-david-cameron-to-fully-implement-the-recommendations-of.md)
-_Context: David Cameron, conspiracy to hack mobile phones, Prime Minister, Leveson report_
+_Context: Leveson report, conspiracy to hack mobile phones, David Cameron, Prime Minister_
 
 ##### Humanoid
 ### [A small humanoid robot that can talk will be sent into space to provide conversational company for Japanese astronaut Koichi Wakata on a six-month mission to the ISS during Soyuz TMA-11M in 2013. ](/news/2012/11/30/a-small-humanoid-robot-that-can-talk-will-be-sent-into-space-to-provide-conversational-company-for-japanese-astronaut-koichi-wakata-on-a-six.md)
-_Context: astronaut, Japanese, humanoid, Soyuz TMA-11M, robot, Koichi Wakata, ISS, space_
+_Context: Japanese, ISS, space, Koichi Wakata, Soyuz TMA-11M, robot, humanoid, astronaut_
 
 ##### NASA
 ### [NASA debunks rumors of new evidence of life on Mars, but its Curiosity rover continues to make many smaller discoveries. ](/news/2012/11/30/nasa-debunks-rumors-of-new-evidence-of-life-on-mars-but-its-curiosity-rover-continues-to-make-many-smaller-discoveries.md)

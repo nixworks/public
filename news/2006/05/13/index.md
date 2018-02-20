@@ -5,11 +5,11 @@ Formats: [HTML](2006/05/13/index.html)  [JSON](2006/05/13/index.json)  [XML](200
 
 ##### CIA
 ### [ CIA officials try to get the case of Khalid El-Masri, who says he was abducted and tortured, dismissed as it "could undermine U.S. relations with foreign countries". ](/news/2006/05/13/cia-officials-try-to-get-the-case-of-khalid-el-masri-who-says-he-was-abducted-and-tortured-dismissed-as-it-could-undermine-u-s-relation.md)
-_Context: CIA, extraordinary rendition, torture, Khalid El-Masri_
+_Context: extraordinary rendition, Khalid El-Masri, torture, CIA_
 
 ##### International Committee of the Red Cross
 ### [ The International Committee of the Red Cross criticizes the United States for denying access to detainees in violation of the Geneva Convention. The US admits holding detainees secretly but claims they do not fall under that convention. ](/news/2006/05/13/the-international-committee-of-the-red-cross-criticizes-the-united-states-for-denying-access-to-detainees-in-violation-of-the-geneva-conven.md)
-_Context: United States, Geneva Convention, International Committee of the Red Cross_
+_Context: International Committee of the Red Cross, Geneva Convention, United States_
 
 ##### Typhoon Chanchu
 ### [ Typhoon Chanchu makes landfall twice in the Philippines. 23 people are killed and five remain missing after a boat capsizes in the stormy seas off Masbate island. ](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.md)
@@ -17,11 +17,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### UFDC
 ### [ FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.md)
-_Context: ARFWS, second Dby administration, Sudanese cabinet, UFDC_
+_Context: Sudanese cabinet, ARFWS, second Dby administration, UFDC_
 
 ##### George Seitz
 ### [ George Seitz, a Labor Party Member of the state Legislative Assembly in Victoria, Australia, is accused of running an elaborate branch stacking operation to manipulate results in state and federal elections and pre-selections. ](/news/2006/05/13/george-seitz-a-labor-party-member-of-the-state-legislative-assembly-in-victoria-australia-is-accused-of-running-an-elaborate-branch-stac.md)
-_Context: Australia, Victoria, George Seitz, Victorian Legislative Assembly, branch stacking, Australian Labor Party_
+_Context: Australia, George Seitz, Victorian Legislative Assembly, branch stacking, Australian Labor Party, Victoria_
 
 ##### Indonesia
 ### [ Authorities in Indonesia issue a red alert for active volcano Mount Merapi, evacuating 17,000 people in expectation of an eruption. ](/news/2006/05/13/authorities-in-indonesia-issue-a-red-alert-for-active-volcano-mount-merapi-evacuating-17-000-people-in-expectation-of-an-eruption.md)

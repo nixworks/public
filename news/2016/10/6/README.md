@@ -25,7 +25,7 @@ President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott
 
 ##### Pakistan
 ### [Pakistan's government removes a loophole allowing those behind so-called honor killings to go free with the new legislation instead requiring a mandatory life sentence. ](/news/2016/10/6/pakistan-s-government-removes-a-loophole-allowing-those-behind-so-called-honor-killings-to-go-free-with-the-new-legislation-instead-requirin.md)
-_Context: honor killing, Pakistan_
+_Context: Pakistan, honor killing_
 
 ##### European Parliament
 ### [An altercation with a fellow UKIP MEP inside the European Parliament leaves UK Independence Party, Member of the European Parliament, and current UKIP party leadership favorite Steven Woolfe hospitalized. ](/news/2016/10/6/an-altercation-with-a-fellow-ukip-mep-inside-the-european-parliament-leaves-uk-independence-party-member-of-the-european-parliament-and-cu.md)

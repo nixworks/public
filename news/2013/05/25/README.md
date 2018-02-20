@@ -13,7 +13,7 @@ A female suicide bomber has injured at least 11 police officers and civilians, i
 
 ##### Al-Qusayr
 ### [Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-heavy-artillery.md)
-_Context: Syrian Army, Hezbollah, Homs, Al-Qusayr_
+_Context: Hezbollah, Homs, Al-Qusayr, Syrian Army_
 
 ##### Baghdad
 ### [A bomb explodes near a bus north of Baghdad, Iraq, killing six Iranians, one Iraqi, and wounding fourteen people. ](/news/2013/05/25/a-bomb-explodes-near-a-bus-north-of-baghdad-iraq-killing-six-iranians-one-iraqi-and-wounding-fourteen-people.md)
@@ -41,7 +41,7 @@ _Context: San Antonio, Texas_
 
 ##### Freight train
 ### [Two freight trains collide in southeast Missouri, United States, causing a highway overpass to collapse. ](/news/2013/05/25/two-freight-trains-collide-in-southeast-missouri-united-states-causing-a-highway-overpass-to-collapse.md)
-_Context: overpass, Missouri, freight train_
+_Context: Missouri, overpass, freight train_
 
 ##### African Union
 ### [The African Union celebrates its 50th anniversary. ](/news/2013/05/25/the-african-union-celebrates-its-50th-anniversary.md)
@@ -49,7 +49,7 @@ African leaders have opened extravagant celebrations for the 50th jubilee of the
 
 ##### Michael Adebolajo
 ### [British counter-terrorism police arrest a man who was a childhood friend of the terrorist Michael Adebolajo after he gives an interview to the BBC in which he claims that the MI5 had contacted him in the past. ](/news/2013/05/25/british-counter-terrorism-police-arrest-a-man-who-was-a-childhood-friend-of-the-terrorist-michael-adebolajo-after-he-gives-an-interview-to-t.md)
-_Context: BBC, Michael Adebolajo, MI5_
+_Context: MI5, BBC, Michael Adebolajo_
 
 ##### French Army
 ### [A French anti-terror soldier is stabbed in the neck in a suspected copycat of the 2013 Woolwich attack. ](/news/2013/05/25/a-french-anti-terror-soldier-is-stabbed-in-the-neck-in-a-suspected-copycat-of-the-2013-woolwich-attack.md)
@@ -57,7 +57,7 @@ French authorities believe the attack may have been inspired by Drummer Lee Rigb
 
 ##### Spring Ford High School
 ### [A Spring Ford High School (Royersford, PA) senior, Julianne Siller, 17, is allegedly stabbed to death by her boyfriend, 16-year-old Tristan Stahley after a fight during a breakup. ](/news/2013/05/25/a-spring-ford-high-school-royersford-pa-senior-julianne-siller-17-is-allegedly-stabbed-to-death-by-her-boyfriend-16-year-old-tristan.md)
-_Context: Spring Ford High School, Royersford, PA_
+_Context: Royersford, PA, Spring Ford High School_
 
 ##### Same-sex marriages
 ### [Fifty people are arrested ahead of a major rally against France's new law allowing same-sex marriage. ](/news/2013/05/25/fifty-people-are-arrested-ahead-of-a-major-rally-against-france-s-new-law-allowing-same-sex-marriage.md)

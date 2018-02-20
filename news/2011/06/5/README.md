@@ -37,7 +37,7 @@ A levee breach along the swollen Missouri River prompted the evacuation Sunday o
 
 ##### Nairobi
 ### [At least one person is dead and 29 are injured after an underground fuel pipe explodes in Nairobi, Kenya. ](/news/2011/06/5/at-least-one-person-is-dead-and-29-are-injured-after-an-underground-fuel-pipe-explodes-in-nairobi-kenya.md)
-_Context: Kenya, Nairobi_
+_Context: Nairobi, Kenya_
 
 ##### Vietnam
 ### [Hundreds of people in Vietnam take part in a rare demonstration against Chinese naval operations in disputed waters in the South China Sea. ](/news/2011/06/5/hundreds-of-people-in-vietnam-take-part-in-a-rare-demonstration-against-chinese-naval-operations-in-disputed-waters-in-the-south-china-sea.md)
@@ -45,7 +45,7 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 
 ##### Portugal
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
-_Context: Pedro Passos Coelho, international bailout, Portugal, Social Democratic Party, Portuguese legislative election_
+_Context: Social Democratic Party, Portugal, Pedro Passos Coelho, international bailout, Portuguese legislative election_
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
@@ -61,7 +61,7 @@ _Context: Bangladesh_
 
 ##### Greek
 ### [Tens of thousands of people protest outside the Parliament of Greece in Athens against budget cuts. ](/news/2011/06/5/tens-of-thousands-of-people-protest-outside-the-parliament-of-greece-in-athens-against-budget-cuts.md)
-_Context: Greek, Athens, Parliament of Greece_
+_Context: Parliament of Greece, Greek, Athens_
 
 ## [Previous Day...](/news/2011/06/4/index.md)
 

@@ -9,7 +9,7 @@ _Context: Cambodia, Battambang province_
 
 ##### United States
 ### [A suspected US missile attack on insurgents in the village of Bangi Dar in the North Waziristan region of Pakistan kills at least 15. ](/news/2010/11/16/a-suspected-us-missile-attack-on-insurgents-in-the-village-of-bangi-dar-in-the-north-waziristan-region-of-pakistan-kills-at-least-15.md)
-_Context: North Waziristan, Pakistan, United States_
+_Context: Pakistan, United States, North Waziristan_
 
 ##### Iran
 ### [Iran started a 5-day air defense drill, claimed by its government to be the biggest drill of its kind ever. The drills are held near its nuclear facilities. ](/news/2010/11/16/iran-started-a-5-day-air-defense-drill-claimed-by-its-government-to-be-the-biggest-drill-of-its-kind-ever-the-drills-are-held-near-its-nuc.md)
@@ -25,7 +25,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 
 ##### UNESCO
 ### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
-_Context: Representative List of the Intangible Cultural Heritage of Humanity, UNESCO, France, Mexico, Nairobi_
+_Context: UNESCO, Nairobi, Mexico, France, Representative List of the Intangible Cultural Heritage of Humanity_
 
 ##### New York archbishop
 ### [New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. ](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.md)
@@ -33,7 +33,7 @@ Archbishop Timothy M. Dolan of New York will lead the United States Conference o
 
 ##### Facebook
 ### [Facebook announces that it will launch a new messaging platform, providing an email address of "@facebook.com." ](/news/2010/11/16/facebook-announces-that-it-will-launch-a-new-messaging-platform-providing-an-email-address-of-facebook-com.md)
-_Context: email, @facebook.com, Facebook_
+_Context: Facebook, @facebook.com, email_
 
 ##### ExxonMobil Corporation
 ### [ExxonMobil says a raid by Movement for the Emancipation of the Niger Delta, a militant Nigerian group, has eliminated 45,000 barrels a day of production of natural gas liquids and condensates. ](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.md)
@@ -45,11 +45,11 @@ Health officials in Haiti say more than 1,000 people have died from cholera, as 
 
 ##### Collapse of an apartment building
 ### [The death toll from the collapse of an apartment building in the Indian capital New Delhi rises to 66 with the search for victims continuing. ](/news/2010/11/16/the-death-toll-from-the-collapse-of-an-apartment-building-in-the-indian-capital-new-delhi-rises-to-66-with-the-search-for-victims-continuing.md)
-_Context: India, New Delhi, collapse of an apartment building_
+_Context: collapse of an apartment building, India, New Delhi_
 
 ##### Shanghai
 ### [Authorities in Shanghai arrest four people for unlicensed welding following the 2010 Shanghai fire. ](/news/2010/11/16/authorities-in-shanghai-arrest-four-people-for-unlicensed-welding-following-the-2010-shanghai-fire.md)
-_Context: Shanghai, 2010 Shanghai fire, welding_
+_Context: 2010 Shanghai fire, welding, Shanghai_
 
 ##### Nigeria
 ### [Nigeria reports Iran to the United Nations Security Council over the seizure of a shipment of weapons. ](/news/2010/11/16/nigeria-reports-iran-to-the-united-nations-security-council-over-the-seizure-of-a-shipment-of-weapons.md)
@@ -57,7 +57,7 @@ Foreign minister says it has reported Iran to UN Security Council for possible s
 
 ##### Villawood Immigration Detention Centre
 ### [Detainees at the Villawood Immigration Detention Centre in Sydney, Australia, go on a hunger strike following the suicide of an Iraqi detainee. ](/news/2010/11/16/detainees-at-the-villawood-immigration-detention-centre-in-sydney-australia-go-on-a-hunger-strike-following-the-suicide-of-an-iraqi-detain.md)
-_Context: Iraq, Australia, Villawood Immigration Detention Centre, Sydney, hunger strike_
+_Context: Iraq, Australia, Sydney, Villawood Immigration Detention Centre, hunger strike_
 
 ##### Thailand
 ### [Thailand extradites suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges. ](/news/2010/11/16/thailand-extradites-suspected-russian-arms-dealer-viktor-bout-to-the-united-states-to-face-terrorism-charges.md)
@@ -65,7 +65,7 @@ Thailand extradited on Tuesday suspected Russian arms dealer Viktor Bout to the 
 
 ##### United Kingdom
 ### [British author Alan Shadrake is jailed for six weeks in Singapore for contempt of court. ](/news/2010/11/16/british-author-alan-shadrake-is-jailed-for-six-weeks-in-singapore-for-contempt-of-court.md)
-_Context: contempt of court, Alan Shadrake, United Kingdom, Singapore_
+_Context: contempt of court, Alan Shadrake, Singapore, United Kingdom_
 
 ##### Government
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
@@ -85,11 +85,11 @@ _Context: Charlie Rangel, United States House Committee on Standards of Official
 
 ##### U.S. President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
-_Context: Salvatore Giunta, U.S. President, Medal of Honor, Barack Obama, United States, White House_
+_Context: U.S. President, White House, Medal of Honor, Barack Obama, Salvatore Giunta, United States_
 
 ##### Republican
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
-_Context: United States Senate, earmarking, Republican_
+_Context: earmarking, Republican, United States Senate_
 
 ##### Potsdam Institute for Climate Impact Research
 ### [A study done by the Potsdam Institute for Climate Impact Research concluded that reduced wintertime Arctic sea ice cover could create anomalies in wind patterns, resulting in overall cooler winters in continents across the northern hemisphere. ](/news/2010/11/16/a-study-done-by-the-potsdam-institute-for-climate-impact-research-concluded-that-reduced-wintertime-arctic-sea-ice-cover-could-create-anomal.md)

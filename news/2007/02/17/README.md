@@ -5,11 +5,11 @@ Formats: [HTML](2007/02/17/index.html)  [JSON](2007/02/17/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Presidential contender and U. S. Senator Hillary Clinton (D-NY) has called for a 90-day deadline to start withdrawing U.S. troops from Iraq. She states in a video on her website: "If George Bush doesn't end the war before he leaves office, when I'm president, I will." ](/news/2007/02/17/united-states-presidential-election-2008-presidential-contender-and-u-s-senator-hillary-clinton-d-ny-has-called-for-a-90-day-deadline.md)
-_Context: U.S. troops, Hillary Clinton, 2008, George W. Bush, U.S. President, United States Senate, New York, Democrat, Iraq War_
+_Context: United States Senate, George W. Bush, Hillary Clinton, 2008, U.S. troops, Democrat, New York, Iraq War, U.S. President_
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Condoleezza Rice visits Iraq for talks. ](/news/2007/02/17/united-states-secretary-of-state-condoleezza-rice-visits-iraq-for-talks.md)
-_Context: Condoleezza Rice, United States Secretary of State, Iraq_
+_Context: Iraq, United States Secretary of State, Condoleezza Rice_
 
 ##### Suicide bomb
 ### [ A suicide bomb in a district court in Quetta, the capital of Balochistan, Pakistan kills at least 13 people. ](/news/2007/02/17/a-suicide-bomb-in-a-district-court-in-quetta-the-capital-of-balochistan-pakistan-kills-at-least-13-people.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/23/index.html)  [JSON](2007/07/23/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The British MP George Galloway is thrown out of the House of Commons chamber and then suspended for 18 days after an inquiry into his Mariam Appeal campaign. ](/news/2007/07/23/the-british-mp-george-galloway-is-thrown-out-of-the-house-of-commons-chamber-and-then-suspended-for-18-days-after-an-inquiry-into-his-maria.md)
-_Context: United Kingdom, George Galloway, Mariam Appeal, British House of Commons_
+_Context: United Kingdom, Mariam Appeal, George Galloway, British House of Commons_
 
 ##### United States
 ### [ The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. ](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexican-citizen-accused-of-making-large-amounts-of-crystal-meth-in-a-laboratory.md)
@@ -29,15 +29,15 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Japan
 ### [ Japan allows International Atomic Energy Agency inspectors to visit the Kashiwazaki-Kariwa Nuclear Power Plant shut down after the recent 2007 Chuetsu offshore earthquake. ](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.md)
-_Context: 2007 Chuetsu offshore earthquake, IAEA, Kashiwazaki-Kariwa Nuclear Power Plant, Japan_
+_Context: Kashiwazaki-Kariwa Nuclear Power Plant, IAEA, Japan, 2007 Chuetsu offshore earthquake_
 
 ##### Flood
 ### [ Flash floods and landslides in central Indonesia kill at least 30 people. ](/news/2007/07/23/flash-floods-and-landslides-in-central-indonesia-kill-at-least-30-people.md)
-_Context: flood, landslide, Indonesia_
+_Context: landslide, Indonesia, flood_
 
 ##### Release 23 of its captured fighters
 ### [ The 2007 Taliban-seized South Korean hostage crisis: The Taliban sets a new deadline for the South Korean captives. ](/news/2007/07/23/the-2007-taliban-seized-south-korean-hostage-crisis-the-taliban-sets-a-new-deadline-for-the-south-korean-captives.md)
-_Context: South Korea, release 23 of its captured fighters, Taliban_
+_Context: Taliban, South Korea, release 23 of its captured fighters_
 
 ##### Chinese
 ### [ Storms continue in China with floods and landslides with 150 deaths occurring last week in the country due to storms. ](/news/2007/07/23/storms-continue-in-china-with-floods-and-landslides-with-150-deaths-occurring-last-week-in-the-country-due-to-storms.md)

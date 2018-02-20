@@ -9,7 +9,7 @@ Denmark raised its terror attack preparedness on Saturday, the ninth anniversary
 
 ##### U.S. Army
 ### [U.S. Army Staff Sergeant Salvatore Giunta is awarded the Medal of Honor for his actions during the ongoing War in Afghanistan, the first living recipient to be so honored since the Vietnam War. ](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.md)
-_Context: Staff Sergeant, Salvatore Giunta, Medal of Honor, War in Afghanistan, Vietnam War, U.S. Army_
+_Context: Vietnam War, War in Afghanistan, Staff Sergeant, U.S. Army, Salvatore Giunta, Medal of Honor_
 
 ##### Muslim
 ### [Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md)
@@ -21,7 +21,7 @@ Director Sofia Coppola has taken the top prize at the Venice Film Festival for h
 
 ##### United States
 ### [US actor Kevin McCarthy best known for his roles in "Invasion of the Body Snatchers" and "Death of a Salesman" dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
-_Context: Death of a Salesman, United States, Kevin McCarthy, Invasion of the Body Snatchers_
+_Context: Death of a Salesman, Kevin McCarthy, United States, Invasion of the Body Snatchers_
 
 ##### Thessaloniki
 ### [Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-george-papandreou-s-austerity-plans.md)
@@ -41,7 +41,7 @@ Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring 
 
 ##### Egypt
 ### [Officials in 3 Egyptian governorates declare a state of emergency after a barge leaked some 100 tons of gasoline into the Nile River north of Aswan. ](/news/2010/09/11/officials-in-3-egyptian-governorates-declare-a-state-of-emergency-after-a-barge-leaked-some-100-tons-of-gasoline-into-the-nile-river-north-o.md)
-_Context: Aswan, Egypt, gas, governorates, Nile River_
+_Context: gas, governorates, Nile River, Egypt, Aswan_
 
 ##### Mexico
 ### [Mexico experiences its record worst ever rainy season. ](/news/2010/09/11/mexico-experiences-its-record-worst-ever-rainy-season.md)
@@ -53,15 +53,15 @@ A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku provinc
 
 ##### Pipeline explosion
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: pipeline explosion, United States, San Bruno, San Francisco, California, California_
+_Context: United States, San Francisco, California, San Bruno, pipeline explosion, California_
 
 ##### Coach USA
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
-_Context: Salina, New York, Megabus, overpass, railroad, Coach USA_
+_Context: railroad, New York, Megabus, overpass, Coach USA, Salina_
 
 ##### Shanghai
 ### [More than 300 flights from Shanghai, China are delayed due to torrential rain caused by Tropical Storm Meranti. ](/news/2010/09/11/more-than-300-flights-from-shanghai-china-are-delayed-due-to-torrential-rain-caused-by-tropical-storm-meranti.md)
-_Context: Shanghai, Chinese, Typhoon Chaba_
+_Context: Chinese, Shanghai, Typhoon Chaba_
 
 ##### 2010 Atlantic hurricane season
 ### [Hurricane Igor reaches Category 1 in the Atlantic Ocean. ](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.md)
@@ -81,7 +81,7 @@ _Context: nuclear power, Jordan, Japan_
 
 ##### Islington
 ### [Sex abuse campaigners meet at a conference in Islington, North London, to call for "action not words" from Pope Benedict XVI ahead of his visit to the UK. ](/news/2010/09/11/sex-abuse-campaigners-meet-at-a-conference-in-islington-north-london-to-call-for-action-not-words-from-pope-benedict-xvi-ahead-of-his-vi.md)
-_Context: North London, Islington, Pope Benedict XVI_
+_Context: Islington, North London, Pope Benedict XVI_
 
 ##### Serb
 ### [9 Serb paramilitaries are indicted over the deaths of 43 ethnic Albanians in May 1999. ](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.md)

@@ -13,7 +13,7 @@ A European road safety watchdog has criticised Ireland&#39;s continued failure t
 
 ##### Are shot
 ### [ At least two people are shot at the United States Holocaust Memorial Museum in Washington D.C., with an elderly white supremacist as the main suspect. ](/news/2009/06/10/at-least-two-people-are-shot-at-the-united-states-holocaust-memorial-museum-in-washington-d-c-with-an-elderly-white-supremacist-as-the-ma.md)
-_Context: United States Holocaust Memorial Museum, white supremacist, are shot, Washington D.C._
+_Context: white supremacist, United States Holocaust Memorial Museum, are shot, Washington D.C._
 
 ##### Dublin
 ### [ Thousands of people demonstrate in solidarity with victims of child abuse in Dublin as hundreds of victims are invited to meet Irish President Mary McAleese. ](/news/2009/06/10/thousands-of-people-demonstrate-in-solidarity-with-victims-of-child-abuse-in-dublin-as-hundreds-of-victims-are-invited-to-meet-irish-presid.md)
@@ -29,35 +29,35 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 
 ##### Bathaa
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)
-_Context: Bathaa, Dhi Qar Governorate_
+_Context: Dhi Qar Governorate, Bathaa_
 
 ##### Demonstration
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)
-_Context: Philippines, demonstration, Constituent Assembly, constitutional constraints_
+_Context: Constituent Assembly, constitutional constraints, demonstration, Philippines_
 
 ##### Strike
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
-_Context: London, strike, United Kingdom, National Union of Rail, Maritime and Transport Workers_
+_Context: strike, National Union of Rail, Maritime and Transport Workers, London, United Kingdom_
 
 ##### Russia
 ### [ Russia begins destroying 6,000 tons of nerve gas in Shchuchye, Kurgan Oblast. ](/news/2009/06/10/russia-begins-destroying-6-000-tons-of-nerve-gas-in-shchuchye-kurgan-oblast.md)
-_Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
+_Context: nerve agent, Shchuchye, Kurgan Oblast, Russia_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)
-_Context: Japan, North Korea, United Nations Security Council, United Nations Security Council resolution, South Korea_
+_Context: United Nations Security Council, North Korea, United Nations Security Council resolution, South Korea, Japan_
 
 ##### Palau
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: Guantanamo Bay detention camp, Palau, Chinese, Uyghur_
+_Context: Guantanamo Bay detention camp, Chinese, Uyghur, Palau_
 
 ##### Thailand
 ### [ The Thai army is sent to reinforce positions along Thailand's border with Burma after an influx of Karen refugees following a Burmese army offensive in Karen state. ](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.md)
-_Context: Thailand, Royal Thai Army, Burma, Karen state, Karen, Myanmar Army, Internal conflict in Burma_
+_Context: Burma, Royal Thai Army, Myanmar Army, Internal conflict in Burma, Karen state, Karen, Thailand_
 
 ##### Rose Francine Rogomb
 ### [ Rose Francine Rogomb is sworn in as acting head of state in Gabon, following the death of Omar Bongo Ondimba. ](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.md)
-_Context: Gabon, Rose Francine Rogomb, Omar Bongo Ondimba_
+_Context: Rose Francine Rogomb, Omar Bongo Ondimba, Gabon_
 
 ##### Donetsk
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
@@ -65,7 +65,7 @@ _Context: Ukraine, Donetsk_
 
 ##### Libya
 ### [ Libyan leader Muammar Gaddafi arrives in Rome on his first visit to Italy, Libya's former colonial ruler and now its biggest trading partner, wearing a photograph of Omar Mukhtar. ](/news/2009/06/10/libyan-leader-muammar-gaddafi-arrives-in-rome-on-his-first-visit-to-italy-libya-s-former-colonial-ruler-and-now-its-biggest-trading-partne.md)
-_Context: Libya, Omar Mukhtar, Muammar Gaddafi, Rome, Italy, Italy_
+_Context: Muammar Gaddafi, Rome, Italy, Italy, Omar Mukhtar, Libya_
 
 ##### Google
 ### [ Google Inc. announced that it has received notice from the United States Department of Justice that antitrust investigators are studying its settlement with publishers designed to put millions of books online consistent with the property rights of authors. ](/news/2009/06/10/google-inc-announced-that-it-has-received-notice-from-the-united-states-department-of-justice-that-antitrust-investigators-are-studying-it.md)

@@ -9,7 +9,7 @@ A 22-year-old man died in a hospital after being shot during protests in souther
 
 ##### Narkh
 ### [Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/three-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whose-deaths-locals-blame-on-the-presence.md)
-_Context: Maidan Shar, United States, Narkh_
+_Context: United States, Maidan Shar, Narkh_
 
 ##### United States
 ### [The United States expands its military presence in Jordan, sending a Patriot missile battery and an undeclared number of F-16 fighters to the area. ](/news/2013/06/4/the-united-states-expands-its-military-presence-in-jordan-sending-a-patriot-missile-battery-and-an-undeclared-number-of-f-16-fighters-to-th.md)
@@ -21,11 +21,11 @@ UN investigators say they have reasonable grounds to believe chemical weapons we
 
 ##### Krystian Zimerman
 ### [Krystian Zimerman, one of the world's leading concert pianists, angrily exits a concert in Essen, North Rhine-Westphalia, over a dispute with YouTube which he says is "destroying music". ](/news/2013/06/4/krystian-zimerman-one-of-the-world-s-leading-concert-pianists-angrily-exits-a-concert-in-essen-north-rhine-westphalia-over-a-dispute-wit.md)
-_Context: YouTube, North Rhine-Westphalia, Essen, Krystian Zimerman_
+_Context: Krystian Zimerman, Essen, North Rhine-Westphalia, YouTube_
 
 ##### Ohio State University
 ### [Ohio State University president E. Gordon Gee announces his retirement effective July 1 amidst controversy over insulting remarks he made in December 2012. ](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.md)
-_Context: E. Gordon Gee, Ohio State University_
+_Context: Ohio State University, E. Gordon Gee_
 
 ##### Trade deficit
 ### [The United States trade deficit widens 8.5% during April as growth in imports outpaces growth in exports. ](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.md)
@@ -33,7 +33,7 @@ A wide trade gap can restrain growth because it means Americans are spending mor
 
 ##### IBM
 ### [IBM agrees to buy cloud computing firm SoftLayer Technologies for US$2 billion. ](/news/2013/06/4/ibm-agrees-to-buy-cloud-computing-firm-softlayer-technologies-for-us-2-billion.md)
-_Context: IBM, cloud computing, SoftLayer Technologies_
+_Context: IBM, SoftLayer Technologies, cloud computing_
 
 ##### Angela Merkel
 ### [German chancellor Angela Merkel pledges 100 million euros of aid to flood victims as the death toll from ongoing flooding hits 11. ](/news/2013/06/4/german-chancellor-angela-merkel-pledges-100-million-euros-of-aid-to-flood-victims-as-the-death-toll-from-ongoing-flooding-hits-11.md)
@@ -53,7 +53,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United States soldier
 ### [The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/the-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in-fort-meade-maryland-former-computer.md)
-_Context: Adrian Lamo, Fort Meade, Maryland, United States soldier, Bradley Manning, WikiLeaks_
+_Context: Adrian Lamo, United States soldier, Fort Meade, Maryland, Bradley Manning, WikiLeaks_
 
 ##### 
 ### [Lawyers gather outside Britain's Ministry of Justice to demonstrate against GBP220 million of proposed legal aid cuts and removal of the right of defendants to choose their own solicitor. ](/news/2013/06/4/lawyers-gather-outside-britain-s-ministry-of-justice-to-demonstrate-against-agbp220-million-of-proposed-legal-aid-cuts-and-removal-of-the-ri.md)
@@ -67,7 +67,7 @@ Family denies wrongdoing, says she has mental and physical health issues
 
 ##### Gang rape
 ### [An America tourist is allegedly gang raped and robbed by three men in Manali, India. ](/news/2013/06/4/an-america-tourist-is-allegedly-gang-raped-and-robbed-by-three-men-in-manali-india.md)
-_Context: robbery, gang rape, Manali_
+_Context: Manali, robbery, gang rape_
 
 ##### Indigenous
 ### [A group of approximately 300 indigenous manifestants march toward the Brazilian capital of Brasilia to protest the death of Oziel Gabriel. ](/news/2013/06/4/a-group-of-approximately-300-indigenous-manifestants-march-toward-the-brazilian-capital-of-brasilia-to-protest-the-death-of-oziel-gabriel.md)

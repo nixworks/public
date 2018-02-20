@@ -9,11 +9,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Israel
 ### [ Israel has announced plans to add 3,500 homes to the Ma'ale Adummim settlement in occupied territories east of Jerusalem. Chief Palestinian negotiator Saeb Erekat said this would "sabotage" peace efforts. ](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.md)
-_Context: Ma'ale Adummim, Saeb Erekat, Israel, Israeli settlement, Palestinian, Jerusalem_
+_Context: Israel, Jerusalem, Israeli settlement, Palestinian, Saeb Erekat, Ma'ale Adummim_
 
 ##### Red Lake shootings
 ### [ Red Lake shootings: In a U.S. school shooting, Jeff Weise opened fire at Red Lake High School in Minnesota, killing nine people and then himself. ](/news/2005/03/21/red-lake-shootings-in-a-u-s-school-shooting-jeff-weise-opened-fire-at-red-lake-high-school-in-minnesota-killing-nine-people-and-then-hi.md)
-_Context: Jeff Weise, Red Lake shootings, Minnesota, Red Lake High School, school shooting_
+_Context: Red Lake High School, Jeff Weise, Red Lake shootings, Minnesota, school shooting_
 
 ##### United Nations Secretary-General
 ### [ UN Secretary-General Kofi Annan proposes to have the Security Council expanded from 15 members to 24 members. ](/news/2005/03/21/un-secretary-general-kofi-annan-proposes-to-have-the-security-council-expanded-from-15-members-to-24-members.md)
@@ -21,15 +21,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Tulip Revolution
 ### [ Tulip Revolution: After taking Jalal-Abad in southern Kyrgyzstan one day earlier, opposition protesters against electoral fraud in the 2005 parliamentary elections take over the northern city of Osh and seize government buildings. Prime minister states the government does not intend to use force. ](/news/2005/03/21/tulip-revolution-after-taking-jalal-abad-in-southern-kyrgyzstan-one-day-earlier-opposition-protesters-against-electoral-fraud-in-the-2005.md)
-_Context: Kyrgyzstan, Tulip Revolution, Osh, 2005 parliamentary elections, protest, Jalal-Abad, electoral fraud_
+_Context: Kyrgyzstan, 2005 parliamentary elections, electoral fraud, Jalal-Abad, Osh, protest, Tulip Revolution_
 
 ##### Narendra Modi
 ### [ Indian politician Narendra Modi addresses a meeting of Indian-Americans via satellite. He claims there is a "disinformation campaign" against India. ](/news/2005/03/21/indian-politician-narendra-modi-addresses-a-meeting-of-indian-americans-via-satellite-he-claims-there-is-a-disinformation-campaign-again.md)
-_Context: Indian-American, Narendra Modi_
+_Context: Narendra Modi, Indian-American_
 
 ##### World Wildlife Fund
 ### [ World Wildlife Fund states that Asian river dolphins are in danger due to pollution and damming of rivers. ](/news/2005/03/21/world-wildlife-fund-states-that-asian-river-dolphins-are-in-danger-due-to-pollution-and-damming-of-rivers.md)
-_Context: World Wildlife Fund, pollution, Chinese River Dolphin, dam_
+_Context: Chinese River Dolphin, dam, World Wildlife Fund, pollution_
 
 ##### Tornado
 ### [ Tornadoes in northern Bangladesh kills 27. ](/news/2005/03/21/tornadoes-in-northern-bangladesh-kills-27.md)
@@ -37,7 +37,7 @@ _Context: tornado, Bangladesh_
 
 ##### Bangladesh
 ### [ Bangladeshi police charge 10 people accused of murder of opposition politician Shah AMS Kibria, member of Awami League. They include eight members of the ruling Bangladesh Nationalist Party. Kibria was killed in a grenade attack January 27. ](/news/2005/03/21/bangladeshi-police-charge-10-people-accused-of-murder-of-opposition-politician-shah-ams-kibria-member-of-awami-league-they-include-eight.md)
-_Context: Shah AMS Kibria, Bangladesh Nationalist Party, Awami League, Bangladesh, January 27_
+_Context: Shah AMS Kibria, Bangladesh, Awami League, Bangladesh Nationalist Party, January 27_
 
 ##### Haiti
 ### [ In Haiti, four people, including two UN peacekeepers, are killed in a shootout between peacekeepers and former rebels. ](/news/2005/03/21/in-haiti-four-people-including-two-un-peacekeepers-are-killed-in-a-shootout-between-peacekeepers-and-former-rebels.md)
@@ -53,11 +53,11 @@ _Context: Warsaw, Chechnya, Djokhar Dudayev_
 
 ##### Netherlands
 ### [ Dutch lumber merchant Guus van Kouwenhoven is charged with war crimes and arms smuggling to then-president Charles Taylor during civil war in Liberia ](/news/2005/03/21/dutch-lumber-merchant-guus-van-kouwenhoven-is-charged-with-war-crimes-and-arms-smuggling-to-then-president-charles-taylor-during-civil-war.md)
-_Context: Charles G. Taylor, Netherlands, Guus van Kouwenhoven, war crime, Liberia_
+_Context: Guus van Kouwenhoven, Liberia, Charles G. Taylor, war crime, Netherlands_
 
 ##### Estonia
 ### [ In Estonia, prime minister Juhan Parts announces his resignation after vote of no confidence against justice minister Ken-Marti Vaher. That also means his government is dissolved ](/news/2005/03/21/in-estonia-prime-minister-juhan-parts-announces-his-resignation-after-vote-of-no-confidence-against-justice-minister-ken-marti-vaher-that.md)
-_Context: Estonia, Ken-Marti Vaher, vote of no confidence, Juhan Parts_
+_Context: vote of no confidence, Juhan Parts, Estonia, Ken-Marti Vaher_
 
 ## [Previous Day...](/news/2005/03/20/index.md)
 

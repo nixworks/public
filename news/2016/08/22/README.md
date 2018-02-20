@@ -17,7 +17,7 @@ SEOUL, South Korea (AP) — South Korea and the United States began annual milit
 
 ##### Iran-Russia relations
 ### [Iran confirms that Russia will stop using its Hamadan Airbase to launch attacks in Syria, saying Russia's use of Hamadan Airbase was "temporary, based on a Russian request," and that Russian operations are "finished for now". Iranian Defence Minister Hossein Dehghan earlier criticized Russia's announcement of its use of the base in Iran, saying "There has been a kind of showing-off and inconsiderate attitude behind the announcement of this news." ](/news/2016/08/22/iran-confirms-that-russia-will-stop-using-its-hamadan-airbase-to-launch-attacks-in-syria-saying-russia-s-use-of-hamadan-airbase-was-tempor.md)
-_Context: Hossein Dehghan, Iran-Russia relations, Hamadan Airbase, Iran, Syrian civil war, Russia, Minister of Defence_
+_Context: Iran, Russia, Minister of Defence, Syrian civil war, Hossein Dehghan, Hamadan Airbase, Iran-Russia relations_
 
 ##### Ahmad al-Mahdi
 ### [Ahmad al-Mahdi pleads guilty at the start of his trial before the International Criminal Court for the war crime of destroying cultural sites in Timbuktu. ](/news/2016/08/22/ahmad-al-mahdi-pleads-guilty-at-the-start-of-his-trial-before-the-international-criminal-court-for-the-war-crime-of-destroying-cultural-site.md)

@@ -13,11 +13,11 @@ _Context: 2006 Atlantic hurricane season_
 
 ##### 2004-2007 Bush War
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)
-_Context: Central African Republic, France, 2004-2007 Bush War_
+_Context: 2004-2007 Bush War, France, Central African Republic_
 
 ##### ''Nature''
 ### [ The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.md)
-_Context: ''Nature'', Antikythera mechanism_
+_Context: Antikythera mechanism, ''Nature''_
 
 ##### U.S. Institute of Peace
 ### [ The U.S. Institute of Peace announces that the Iraq Study Group report will be released to the public December 6, 2006. The group, charged with conducting a forward-looking assessment of the situation in Iraq, is expected to present their findings to President George W. Bush on that day. The report will be available for download on USIP's ](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.md)
@@ -37,11 +37,11 @@ _Context: Hezbollah, Lebanese_
 
 ##### U.S. President
 ### [ A meeting between the President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki in Jordan is cancelled. A classified Bush administration memo critical of the ability of al-Maliki to bring sectarian conflict under control had previously been published in "The New York Times". In a later meeting, they decided that Iraq should not be divided into semi-autonomous zones. ](/news/2006/11/30/a-meeting-between-the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-in-jordan-is-cancelled.md)
-_Context: The New York Times, George W. Bush administration, Iraq Prime Minister, sectarian conflict, Nouri al-Maliki, George W. Bush, U.S. President, Jordan_
+_Context: Jordan, sectarian conflict, George W. Bush, U.S. President, George W. Bush administration, The New York Times, Iraq Prime Minister, Nouri al-Maliki_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase partially agrees to demands by the head of the Fijian military Commodore Frank Bainimarama in order to avert a coup. Bainimarama rejects the compromise and issues a deadline of noon on Friday. ](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.md)
-_Context: Prime Minister, Fiji, Voreqe Bainimarama, Laisenia Qarase_
+_Context: Prime Minister, Laisenia Qarase, Voreqe Bainimarama, Fiji_
 
 ## [Previous Day...](/news/2006/11/29/index.md)
 

@@ -5,19 +5,19 @@ Formats: [HTML](2009/04/19/index.html)  [JSON](2009/04/19/index.json)  [XML](200
 
 ##### Corrections officer
 ### [ Eight corrections officers are killed in an ambush during a prisoner transfer in Nayarit, Mexico. ](/news/2009/04/19/eight-corrections-officers-are-killed-in-an-ambush-during-a-prisoner-transfer-in-nayarit-mexico.md)
-_Context: prisoner transfer, corrections officer, ambush, Nayarit, Mexico_
+_Context: prisoner transfer, Nayarit, ambush, corrections officer, Mexico_
 
 ##### United States
 ### [ United States President Barack Obama announces that Central Intelligence Agency personnel who employed enhanced interrogation techniques on terrorism suspects will not be prosecuted. ](/news/2009/04/19/united-states-president-barack-obama-announces-that-central-intelligence-agency-personnel-who-employed-enhanced-interrogation-techniques-on.md)
-_Context: U.S. President, terrorism, enhanced interrogation techniques, CIA, United States, Barack Obama_
+_Context: United States, enhanced interrogation techniques, Barack Obama, CIA, U.S. President, terrorism_
 
 ##### Fifth
 ### [ The Fifth Summit of the Americas ends in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/19/the-fifth-summit-of-the-americas-ends-in-port-of-spain-trinidad-and-tobago.md)
-_Context: Port-of-Spain, Summit of the Americas, Fifth, Trinidad and Tobago_
+_Context: Fifth, Trinidad and Tobago, Summit of the Americas, Port-of-Spain_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta releases British hostage Robin Barry Hughes. ](/news/2009/04/19/the-movement-for-the-emancipation-of-the-niger-delta-releases-british-hostage-robin-barry-hughes.md)
-_Context: hostage, United Kingdom, Movement for the Emancipation of the Niger Delta, Niger Delta_
+_Context: Movement for the Emancipation of the Niger Delta, United Kingdom, Niger Delta, hostage_
 
 ## [Previous Day...](/news/2009/04/18/index.md)
 

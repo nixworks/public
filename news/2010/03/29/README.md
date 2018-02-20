@@ -9,15 +9,15 @@ _Context: Bethlehem, Israel_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's party, the National League for Democracy, announces it will boycott the upcoming general elections in Burma. ](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.md)
-_Context: National League for Democracy, Burma, general elections, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, National League for Democracy, general elections, Burma_
 
 ##### Suicide bombing
 ### [Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. ](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-metro-stations-lubyanka-and-park-kultury-killing-at-least-36-with-the-death-toll-expected-to-r.md)
-_Context: suicide bombing, Lubyanka, Park Kultury, 2010 Moscow Metro bombings, Moscow Metro_
+_Context: suicide bombing, Park Kultury, Moscow Metro, Lubyanka, 2010 Moscow Metro bombings_
 
 ##### Stern
 ### [The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. ](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.md)
-_Context: stern, ROKS ''Cheonan'', South Korea_
+_Context: ROKS ''Cheonan'', stern, South Korea_
 
 ##### Maule
 ### [Maule, Chile, is rattled by a 6.1 magnitude aftershock on Monday 08.43 a.m. AEDT (5:43 p.m. Sunday local time). ](/news/2010/03/29/maule-chile-is-rattled-by-a-6-1-magnitude-aftershock-on-monday-08-43-a-m-aedt-5-43-p-m-sunday-local-time.md)
@@ -41,7 +41,7 @@ MORE than 300 southern right whales, most of them young calves, have been found 
 
 ##### Architecture
 ### [In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. ](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizawa-cofounders-of-the-firm-sanaa-win-the-2010-pritzker-prize.md)
-_Context: architecture, Ryue Nishizawa, Kazuyo Sejima, Pritzker Prize, SANAA_
+_Context: Kazuyo Sejima, Pritzker Prize, SANAA, Ryue Nishizawa, architecture_
 
 ##### Hutaree
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)

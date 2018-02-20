@@ -9,7 +9,7 @@ Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people
 
 ##### Yemeni Crisis (2011-present)
 ### [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
-_Context: truce, Yemen, Houthi, Yemeni Crisis (2011-present)_
+_Context: Yemen, Yemeni Crisis (2011-present), truce, Houthi_
 
 ##### Ghardaia
 ### [At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. ](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.md)
@@ -41,7 +41,7 @@ The grounding of hundreds of United Airlines flights because of a computer glitc
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md)
-_Context: 2015 Pacific typhoon season, Philippines_
+_Context: Philippines, 2015 Pacific typhoon season_
 
 ##### Russia
 ### [Russia vetoes a UN resolution that would have condemned the July 1995 Srebrenica massacre of more than 8,000 Bosniaks as a genocide. ](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.md)
@@ -49,7 +49,7 @@ Russia vetoed a United Nations Security Council resolution on Wednesday that wou
 
 ##### Canadian
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
-_Context: Saskatchewan, Canadian, British Columbia, wildfire, Alberta_
+_Context: Canadian, British Columbia, Saskatchewan, wildfire, Alberta_
 
 ##### 1Malaysia Development Berhad scandal
 ### [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md)

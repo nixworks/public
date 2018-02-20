@@ -5,11 +5,11 @@ Formats: [HTML](2011/01/3/index.html)  [JSON](2011/01/3/index.json)  [XML](2011/
 
 ##### Bangladesh
 ### [A further 35 officers in Bangladesh are sentenced over their involvement in a mutiny in February 2009. ](/news/2011/01/3/a-further-35-officers-in-bangladesh-are-sentenced-over-their-involvement-in-a-mutiny-in-february-2009.md)
-_Context: 2009 Bangladesh Rifles revolt, Bangladesh_
+_Context: Bangladesh, 2009 Bangladesh Rifles revolt_
 
 ##### Coptic Christians
 ### [Coptic Christians clash with police in Cairo and Alexandria, Egypt, as they demand more protection for Egypt's Christian minority following a New Year's Day bombing of a Coptic church that killed 21. ](/news/2011/01/3/coptic-christians-clash-with-police-in-cairo-and-alexandria-egypt-as-they-demand-more-protection-for-egypt-s-christian-minority-following.md)
-_Context: Cairo, Coptic Christians, Alexandria, Egypt, police officers, New Year's Day church bombing, Copt_
+_Context: Coptic Christians, police officers, Cairo, New Year's Day church bombing, Egypt, Alexandria, Copt_
 
 ##### Sudanese soldiers
 ### [Sudanese soldiers kill one woman and rape six others near Attash Camp in South Darfur. ](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.md)
@@ -21,7 +21,7 @@ The air force hit three targets in the Strip including weapons factory; IDF says
 
 ##### Pakistan Army
 ### [Pakistani forces fire on Indian posts along the border along the Line of Control in the Poonch district of the disputed Kashmir region, in a second ceasefire violation since December 29. ](/news/2011/01/3/pakistani-forces-fire-on-indian-posts-along-the-border-along-the-line-of-control-in-the-poonch-district-of-the-disputed-kashmir-region-in-a.md)
-_Context: Pakistan Army, Line of Control, Kashmir, India, Poonch district_
+_Context: Poonch district, Line of Control, India, Pakistan Army, Kashmir_
 
 ##### Facebook
 ### [Investments in Facebook totaling US$500 million lead to speculation that its value could be as high as US$50 billion. ](/news/2011/01/3/investments-in-facebook-totaling-us-500-million-lead-to-speculation-that-its-value-could-be-as-high-as-us-50-billion.md)
@@ -45,15 +45,15 @@ The face of Yonge Street in Downtown Toronto has been forever changed thanks to 
 
 ##### Africa
 ### [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md)
-_Context: Benin, Cote d'Ivoire, Cape Verde, President, Kenya, Sierra Leone, amnesty, Africa, Laurent Gbagbo_
+_Context: Laurent Gbagbo, Benin, Sierra Leone, Africa, Kenya, Cape Verde, Cote d'Ivoire, President, amnesty_
 
 ##### 250,000 documents
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
-_Context: U.S., genetically modified crops, 250,000 documents, France, Craig Stapleton_
+_Context: genetically modified crops, 250,000 documents, France, U.S., Craig Stapleton_
 
 ##### Iran's conservative judiciary
 ### [An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. ](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-mohammadi-ashtiani-could-be-spared-execution-by-stoning-for-murder-manslaughter-and-adulte.md)
-_Context: Iran's conservative judiciary, Capital punishment in Iran, murder, adultery, manslaughter by gross negligence, Sakineh Mohammadi Ashtiani_
+_Context: adultery, murder, manslaughter by gross negligence, Iran's conservative judiciary, Capital punishment in Iran, Sakineh Mohammadi Ashtiani_
 
 ##### Pakistan
 ### [The second-largest party in Pakistan's coalition, Muttahida Qaumi Movement, quits the government leaving it with a minority in parliament. ](/news/2011/01/3/the-second-largest-party-in-pakistan-s-coalition-muttahida-qaumi-movement-quits-the-government-leaving-it-with-a-minority-in-parliament.md)
@@ -65,11 +65,11 @@ Most Americans think the United States should raise taxes for the rich to balanc
 
 ##### Republican
 ### [Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. ](/news/2011/01/3/republican-u-s-representative-darrell-issa-calls-for-attorney-general-eric-holder-to-resign-over-lack-of-progress-in-prosecuting-julian-ass.md)
-_Context: Julian Assange, Wikileaks, Republican, Darrell Issa, congressional inquiry, United States Attorney General, Eric Holder, United States House of Representatives_
+_Context: congressional inquiry, Republican, Eric Holder, Julian Assange, United States House of Representatives, Darrell Issa, Wikileaks, United States Attorney General_
 
 ##### Red-winged blackbird
 ### [Scientists are investigating the sudden dieoff of over 5,000 red-winged blackbirds in Beebe, Arkansas, United States, on New Year's Eve. ](/news/2011/01/3/scientists-are-investigating-the-sudden-dieoff-of-over-5-000-red-winged-blackbirds-in-beebe-arkansas-united-states-on-new-year-s-eve.md)
-_Context: United States, red-winged blackbird, Beebe, Arkansas_
+_Context: Beebe, Arkansas, United States, red-winged blackbird_
 
 ##### China
 ### [China announces a breakthrough in spent nuclear fuel reprocessing technology that could solve the country's uranium supply problem. ](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.md)

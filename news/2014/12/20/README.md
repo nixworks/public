@@ -13,7 +13,7 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 
 ##### Bani Jamra
 ### [A bomb detonates in Bani Jamra, Bahrain, injuring 3 police officers. ](/news/2014/12/20/a-bomb-detonates-in-bani-jamra-bahrain-injuring-3-police-officers.md)
-_Context: Bahrain, Bani Jamra_
+_Context: Bani Jamra, Bahrain_
 
 ##### Sony Pictures Entertainment hack
 ### [The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involvement-in-hacking-sony-s-computers.md)
@@ -33,7 +33,7 @@ The suspect posted anti-police rants on Instagram before the fatal shooting.
 
 ##### Black Lives Matter
 ### [Hundreds of people from the group Black Lives Matter Minneapolis protest at the Mall of America, leading to its partial shutdown and 25 arrests. ](/news/2014/12/20/hundreds-of-people-from-the-group-black-lives-matter-minneapolis-protest-at-the-mall-of-america-leading-to-its-partial-shutdown-and-25-arre.md)
-_Context: Mall of America, Black Lives Matter_
+_Context: Black Lives Matter, Mall of America_
 
 ##### Anthropologists
 ### [In preparation for a government-proposed transportation tunnel, anthropologists discover 6,000-year-old charcoal at a site near Stonehenge suggesting an encampment existed much earlier than previously theorized. ](/news/2014/12/20/in-preparation-for-a-government-proposed-transportation-tunnel-anthropologists-discover-6-000-year-old-charcoal-at-a-site-near-stonehenge-s.md)

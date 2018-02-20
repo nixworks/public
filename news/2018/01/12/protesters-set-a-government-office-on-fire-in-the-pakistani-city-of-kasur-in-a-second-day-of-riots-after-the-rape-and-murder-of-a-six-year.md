@@ -17,4 +17,3 @@ The body of six-year-old Zainab, who was raped and strangled, was found in a rub
 ### Related:
 
 1. [The rape and murder of six-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md) _Context: Kasur, Murder of Zainab Ansari_
-2. [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md) _Context: Murder of Zainab Ansari_

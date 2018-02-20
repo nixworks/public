@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/8/index.html)  [JSON](2014/04/8/index.json)  [XML](2014/
 
 ##### Sibi
 ### [A bomb detonates on a rail car in Sibi, Pakistan, killing 13 people and injuring another 35. ](/news/2014/04/8/a-bomb-detonates-on-a-rail-car-in-sibi-pakistan-killing-13-people-and-injuring-another-35.md)
-_Context: Pakistan, Sibi_
+_Context: Sibi, Pakistan_
 
 ##### Yala
 ### [The southern town of Yala is hit by a series of explosions that have killed one and injured others. ](/news/2014/04/8/the-southern-town-of-yala-is-hit-by-a-series-of-explosions-that-have-killed-one-and-injured-others.md)
@@ -25,7 +25,7 @@ _Context: Chuck Hagel, United States Secretary of Defense_
 
 ##### President
 ### [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md)
-_Context: Michael D. Higgins, President, Elizabeth II, Houses of Parliament, Windsor Castle, banquet_
+_Context: President, Elizabeth II, Houses of Parliament, Michael D. Higgins, banquet, Windsor Castle_
 
 ##### European Court of Justice
 ### [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-al.md)

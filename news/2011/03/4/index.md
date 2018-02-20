@@ -9,7 +9,7 @@ Libyan forces loyal to leader Muammar Gaddafi fought their way into a town near 
 
 ##### Bomb
 ### [A bomb explodes outside a mosque in Peshawar in the Pakistani province of Khyber-Pakhtunkhwa with casualties feared. ](/news/2011/03/4/a-bomb-explodes-outside-a-mosque-in-peshawar-in-the-pakistani-province-of-khyber-pakhtunkhwa-with-casualties-feared.md)
-_Context: Khyber-Pakhtunkhwa, bomb, mosque, Pakistan, Peshawar_
+_Context: bomb, Pakistan, mosque, Khyber-Pakhtunkhwa, Peshawar_
 
 ##### North Yemen
 ### [North Yemen rebels claim that Government of Yemen forces have bombed a protest resulting in two people dead and seven injured. ](/news/2011/03/4/north-yemen-rebels-claim-that-government-of-yemen-forces-have-bombed-a-protest-resulting-in-two-people-dead-and-seven-injured.md)
@@ -25,7 +25,7 @@ _Context: African Union, Somalia_
 
 ##### Broadway
 ### [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md)
-_Context: OSHA, occupational safety and health, Broadway, Spider-Man: Turn Off the Dark_
+_Context: Broadway, occupational safety and health, Spider-Man: Turn Off the Dark, OSHA_
 
 ##### Research in Motion
 ### [The marketing chief at Research in Motion, the Canadian company best known for the BlackBerry smart phone, is leaving. This surprise announcement concerning Keith Pardy may have an impact on the launch of a new product, the PlayBook tablet. ](/news/2011/03/4/the-marketing-chief-at-research-in-motion-the-canadian-company-best-known-for-the-blackberry-smart-phone-is-leaving-this-surprise-announc.md)
@@ -33,11 +33,11 @@ _Context: OSHA, occupational safety and health, Broadway, Spider-Man: Turn Off t
 
 ##### Government Accountability Office
 ### [A report by the Government Accountability Office claims that the US Government could save $5.5 billion over the next 30 years by replacing dollar bills with coins. ](/news/2011/03/4/a-report-by-the-government-accountability-office-claims-that-the-us-government-could-save-5-5-billion-over-the-next-30-years-by-replacing-d.md)
-_Context: United States government, $, Government Accountability Office_
+_Context: United States government, Government Accountability Office, $_
 
 ##### Earthquake
 ### [An earthquake occurs offshore near the Philippines city of Surigao causing property damage. ](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.md)
-_Context: earthquake, Philippines, Surigao City_
+_Context: Philippines, earthquake, Surigao City_
 
 ##### U.S. Chemical Safety and Hazard Investigation Board
 ### [The U.S. Chemical Safety and Hazard Investigation Board believes that there may have been a fundamental safety design problems with the device that failed to stop the Deepwater Horizon oil spill and has asked for more time to test it. ](/news/2011/03/4/the-u-s-chemical-safety-and-hazard-investigation-board-believes-that-there-may-have-been-a-fundamental-safety-design-problems-with-the-devi.md)
@@ -49,11 +49,11 @@ _Context: North Korea_
 
 ##### Blue House
 ### [The Blue House, the executive office and residence of the President of the Republic of Korea, and other Government of South Korea and South Korean financial corporations come under attack from a distributed denial-of-service. ](/news/2011/03/4/the-blue-house-the-executive-office-and-residence-of-the-president-of-the-republic-of-korea-and-other-government-of-south-korea-and-south.md)
-_Context: distributed denial-of-service, President of the Republic of Korea, Blue House, South Korea, government_
+_Context: government, South Korea, distributed denial-of-service, Blue House, President of the Republic of Korea_
 
 ##### United Nations
 ### [The United Nations is investigating suspected transfer of weapons from Zimbabwe to Ivory Coast's incumbent President of the Ivory Coast Laurent Gbagbo in violation of UN sanctions. ](/news/2011/03/4/the-united-nations-is-investigating-suspected-transfer-of-weapons-from-zimbabwe-to-ivory-coast-s-incumbent-president-of-the-ivory-coast-laur.md)
-_Context: President of the Ivory Coast, Zimbabwe, Laurent Gbagbo, sanctions, Ivory Coast, United Nations_
+_Context: United Nations, Zimbabwe, President of the Ivory Coast, Ivory Coast, Laurent Gbagbo, sanctions_
 
 ##### Queen Elizabeth II
 ### [Queen Elizabeth II accepts an invitation from President of Ireland Mary McAleese to visit Ireland in May. ](/news/2011/03/4/queen-elizabeth-ii-accepts-an-invitation-from-president-of-ireland-mary-mcaleese-to-visit-ireland-in-may.md)
@@ -81,7 +81,7 @@ Nick Clegg says people should not &quot;write off&quot; the Lib Dems despite the
 
 ##### NASA
 ### [NASA's attempt to launch the Glory satellite aboard a Taurus XL rocket fails. ](/news/2011/03/4/nasa-s-attempt-to-launch-the-glory-satellite-aboard-a-taurus-xl-rocket-fails.md)
-_Context: NASA, Glory, Taurus XL_
+_Context: NASA, Taurus XL, Glory_
 
 ## [Previous Day...](/news/2011/03/3/index.md)
 

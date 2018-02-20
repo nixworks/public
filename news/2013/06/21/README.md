@@ -5,11 +5,11 @@ Formats: [HTML](2013/06/21/index.html)  [JSON](2013/06/21/index.json)  [XML](201
 
 ##### Suicide bomber
 ### [A suicide bomber kills 15 and injures 20 in a Shi'ite mosque in the northwestern Pakistani city of Peshawar. ](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.md)
-_Context: kills 15 and injures 20, suicide bomber, Shi'ite, Peshawar, Pakistan_
+_Context: kills 15 and injures 20, Shi'ite, Pakistan, Peshawar, suicide bomber_
 
 ##### Jews
 ### [A Jewish Israeli man is shot dead near Jerusalem's Western Wall after a guard mistakes him for a Palestinian militant after hearing him shout "Allahu Akbar". ](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.md)
-_Context: Palestinian, Jerusalem, Jews, Israel, Allahu Akbar, Western Wall_
+_Context: Palestinian, Allahu Akbar, Western Wall, Jews, Israel, Jerusalem_
 
 ##### Law firm
 ### [A gunman opens fire at a law firm and a Walmart in Greenville, North Carolina, U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. ](/news/2013/06/21/a-gunman-opens-fire-at-a-law-firm-and-a-walmart-in-greenville-north-carolina-u-s-injuring-four-people-the-gunman-is-later-shot-by-the-p.md)
@@ -17,7 +17,7 @@ A suspect is reportedly in custody after 4 were injured in a shooting in or arou
 
 ##### People's Bank of China
 ### [The People's Bank of China intervenes to alleviate a cash crunch as it continues to act to reduce over-leveraging in the People's Republic of China. ](/news/2013/06/21/the-people-s-bank-of-china-intervenes-to-alleviate-a-cash-crunch-as-it-continues-to-act-to-reduce-over-leveraging-in-the-people-s-republic-o.md)
-_Context: cash crunch, People's Bank of China, Chinese_
+_Context: cash crunch, Chinese, People's Bank of China_
 
 ##### Latvia
 ### [Latvian authorities say the overnight fire has extensively damaged Riga Castle, the medieval fortress that houses the Baltic nation's National History Museum, and presidential residence. ](/news/2013/06/21/latvian-authorities-say-the-overnight-fire-has-extensively-damaged-riga-castle-the-medieval-fortress-that-houses-the-baltic-nation-s-nation.md)
@@ -33,7 +33,7 @@ Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakh
 
 ##### Flooding in Alberta
 ### [75,000 people are evacuated from their homes during flooding in Calgary, Alberta, Canada. ](/news/2013/06/21/75-000-people-are-evacuated-from-their-homes-during-flooding-in-calgary-alberta-canada.md)
-_Context: Calgary, Alberta, Canadian, flooding in Alberta, Alberta_
+_Context: Canadian, flooding in Alberta, Calgary, Alberta, Alberta_
 
 ##### Taiwan
 ### [Taiwan reports the first human case of the H6N1 virus. ](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.md)

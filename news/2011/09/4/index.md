@@ -3,7 +3,7 @@ Formats: [HTML](2011/09/4/index.html)  [JSON](2011/09/4/index.json)  [XML](2011/
 
 ## [2011-09-4](/news/2011/09/4/index.md)
 
-##### Syria
+##### 2011 Syrian uprising
 ### [At least 24 people are killed in violence across Syria. ](/news/2011/09/4/at-least-24-people-are-killed-in-violence-across-syria.md)
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the
 
@@ -17,7 +17,7 @@ _Context: Texas, Wildfire_
 
 ##### German
 ### [Voters in the German state of Mecklenburg-Vorpommern go to the polls for a state election with the Social Democrats and Greens performing well and the Christian Democrats and Free Democrats performing poorly. ](/news/2011/09/4/voters-in-the-german-state-of-mecklenburg-vorpommern-go-to-the-polls-for-a-state-election-with-the-social-democrats-and-greens-performing-we.md)
-_Context: Free Democratic Party (FDP), Social Democratic Party of Germany, Landtag of Mecklenburg-Vorpommern, German, state election, CDU, Greens_
+_Context: Social Democratic Party of Germany, state election, CDU, Free Democratic Party (FDP), German, Greens, Landtag of Mecklenburg-Vorpommern_
 
 ## [Previous Day...](/news/2011/09/3/index.md)
 

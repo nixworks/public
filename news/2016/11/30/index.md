@@ -17,7 +17,7 @@ Israeli jets fired two missiles from Lebanese airspace that struck near Damascus
 
 ##### Lasting peace
 ### [The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-colombian-conflict.md)
-_Context: FARC, Congress of Colombia, government, Colombian conflict, lasting peace_
+_Context: government, Colombian conflict, lasting peace, FARC, Congress of Colombia_
 
 ##### Austrian
 ### [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md)
@@ -25,7 +25,7 @@ A handwritten score by Gustav Mahler fetches a record-breaking £4.5m at auction
 
 ##### OPEC
 ### [OPEC agrees to cut oil production by 1.2 million barrels a day. Key non-OPEC producers most notably Russia have also agreed to cut their production. Oil futures have risen by 9%. ](/news/2016/11/30/opec-agrees-to-cut-oil-production-by-1-2-million-barrels-a-day-key-non-opec-producers-most-notably-russia-have-also-agreed-to-cut-their-pro.md)
-_Context: OPEC, Russia_
+_Context: Russia, OPEC_
 
 ##### Financial Industry Regulatory Authority
 ### [The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. ](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.md)
@@ -45,11 +45,11 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama, the current governor of Jakarta, faces charges of blasphemy for allegedly insulting Islam. ](/news/2016/11/30/basuki-tjahaja-purnama-the-current-governor-of-jakarta-faces-charges-of-blasphemy-for-allegedly-insulting-islam.md)
-_Context: Basuki Tjahaja Purnama, Jakarta_
+_Context: Jakarta, Basuki Tjahaja Purnama_
 
 ##### Hong Kong Legislative Council oath-taking controversy
 ### [Two Hong Kong Youngspiration party Legislative Council election victors lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. ](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.md)
-_Context: legislature, Youngspiration party, High Court, Court of Final Appeal, Hong Kong, Hong Kong Legislative Council oath-taking controversy_
+_Context: Hong Kong Legislative Council oath-taking controversy, Court of Final Appeal, Hong Kong, High Court, Youngspiration party, legislature_
 
 ##### Supreme Court of India
 ### [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-film.md)
@@ -81,7 +81,7 @@ Minority Leader Nancy Pelosi held onto her job leading House Democrats today as 
 
 ##### South Africa
 ### [South Africa launches the HVTN 702 trial for an experimental AIDS vaccine, which will involve over 5,400 men and women over the course of four years. ](/news/2016/11/30/south-africa-launches-the-hvtn-702-trial-for-an-experimental-aids-vaccine-which-will-involve-over-5-400-men-and-women-over-the-course-of-fo.md)
-_Context: HVTN 702, South Africa, AIDS_
+_Context: AIDS, South Africa, HVTN 702_
 
 ## [Previous Day...](/news/2016/11/29/index.md)
 

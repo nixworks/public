@@ -25,11 +25,11 @@ Diamond oceans are possible on Uranus and Neptune. Learn how scientists discover
 
 ##### Afghan
 ### [The Afghan parliament for a second time rejects most of President Hamid Karzai's cabinet nominees. ](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.md)
-_Context: Hamid Karzai, Afghan_
+_Context: Afghan, Hamid Karzai_
 
 ##### India
 ### [India's National Security Advisor M K Narayanan steps down as part of an overhaul of security in the country. ](/news/2010/01/16/india-s-national-security-advisor-m-k-narayanan-steps-down-as-part-of-an-overhaul-of-security-in-the-country.md)
-_Context: India, M K Narayanan, National Security Advisor_
+_Context: National Security Advisor, India, M K Narayanan_
 
 ##### China
 ### [China announces an increase of 28% in the number of internet users in the country, now at 384 million. ](/news/2010/01/16/china-announces-an-increase-of-28-in-the-number-of-internet-users-in-the-country-now-at-384-million.md)
@@ -49,11 +49,11 @@ Kenya will deport jailed Jamaican Muslim cleric Sheikh Abdullah al-Faisal &quot;
 
 ##### Australian
 ### [Australian police bust a $A18 million cannabis crop. The cannabis crop has been found growing on leased land in a national park in northern New South Wales. ](/news/2010/01/16/australian-police-bust-a-a18-million-cannabis-crop-the-cannabis-crop-has-been-found-growing-on-leased-land-in-a-national-park-in-northern.md)
-_Context: Australian, national park, NSW, cannabis_
+_Context: Australian, NSW, national park, cannabis_
 
 ##### Japan
 ### [Japanese politician Ichiro Ozawa vows to stay on after the arrests of several of his aides in a growing funding scandal in the Democratic Party of Japan. ](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.md)
-_Context: Ichiro Ozawa, Japan, Democratic Party_
+_Context: Ichiro Ozawa, Democratic Party, Japan_
 
 ## [Previous Day...](/news/2010/01/15/index.md)
 

@@ -17,7 +17,7 @@ _Context: Iraq_
 
 ##### John Garang
 ### [ Former rebel leader John Garang is sworn in as vice president of Sudan as part of the agreement ending the Second Sudanese Civil War. ](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.md)
-_Context: John Garang, civil war, Sudan_
+_Context: civil war, Sudan, John Garang_
 
 ##### Azerbaijan
 ### [ In Azerbaijan, about 30,000 (other sources varying from 10,000 up to 50,000) opposition members demonstrated in the country's capital, calling for fair parliamentary elections. ](/news/2005/07/10/in-azerbaijan-about-30-000-other-sources-varying-from-10-000-up-to-50-000-opposition-members-demonstrated-in-the-country-s-capital-call.md)
@@ -25,7 +25,7 @@ _Context: Azerbaijan_
 
 ##### Karl Rove
 ### [ Karl Rove's lawyer, Robert Luskin, acknowledges that Rove was connected to the leak that led to the revelation of Valerie Plame's position as a CIA agent. Luskin confirmed that Rove had been interviewed by Cooper for the article. It is unclear, however, what passed between Cooper and Rove. "Rove did not mention her name to Cooper," Luskin said. "This was not an effort to encourage "Time" [magazine] to disclose her identity. What he was doing was discouraging "Time" from perpetuating some statements that had been made publicly and weren't true." Luskin had previously said that Rove "absolutely did not identify Valerie Plame." ](/news/2005/07/10/karl-rove-s-lawyer-robert-luskin-acknowledges-that-rove-was-connected-to-the-leak-that-led-to-the-revelation-of-valerie-plame-s-position.md)
-_Context: Valerie Plame, Robert Luskin, Karl Rove_
+_Context: Karl Rove, Robert Luskin, Valerie Plame_
 
 ##### Turkey
 ### [ In Turkey, bomb in Cesme injures 22. Group called the Kurdish Liberation Hawks takes responsibility ](/news/2005/07/10/in-turkey-bomb-in-cesme-injures-22-group-called-the-kurdish-liberation-hawks-takes-responsibility.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2016/03/25/index.html)  [JSON](2016/03/25/index.json)  [XML](201
 
 ##### 2016 Brussels bombings
 ### [Six suspects are arrested in the Brussels Schaerbeek district. ](/news/2016/03/25/six-suspects-are-arrested-in-the-brussels-schaerbeek-district.md)
-_Context: 2016 Brussels bombings, Brussels, Schaerbeek_
+_Context: Brussels, Schaerbeek, 2016 Brussels bombings_
 
 ##### Boko Haram insurgency
 ### [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md)
-_Context: Boko Haram insurgency, Nigerian Army, Boko Haram, Nigeria_
+_Context: Boko Haram insurgency, Nigeria, Boko Haram, Nigerian Army_
 
 ##### Military intervention against ISIL
 ### [The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-leader-abu-ala-al-afri.md)
-_Context: Military intervention against ISIL, Pentagon, Abu Ala al-Afri, ISIL_
+_Context: Abu Ala al-Afri, ISIL, Pentagon, Military intervention against ISIL_
 
 ##### Syrian Civil War
 ### [The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-start-pulling-out-its-equipment-from-the-town.md)
@@ -29,7 +29,7 @@ At least 22 people have been killed by three suicide bombings targeting checkpoi
 
 ##### War in Donbass
 ### [The body of Ukrainian lawyer Yurij Grabovsky, who defended two ex-Russian soldiers charged in Eastern Ukraine with terrorism and waging an aggressive war against the country, is found on the grounds of a former farming collective in Zhashkiv, Ukraine. Grabovsky went missing from Kiev on March 9. Information from one of two men being held in this case led police to the remains. ](/news/2016/03/25/the-body-of-ukrainian-lawyer-yurij-grabovsky-who-defended-two-ex-russian-soldiers-charged-in-eastern-ukraine-with-terrorism-and-waging-an-a.md)
-_Context: Eastern Ukraine, War in Donbass, Ukraine, Zhashkiv, Russia, Kiev_
+_Context: War in Donbass, Ukraine, Eastern Ukraine, Russia, Zhashkiv, Kiev_
 
 ##### Callaway train crash
 ### [The evacuation order for the 200-person town of Callaway, Minnesota, which was emptied after a Canadian Pacific train crashed with a propane truck, is lifted. None of the train cars were carrying hazardous materials. ](/news/2016/03/25/the-evacuation-order-for-the-200-person-town-of-callaway-minnesota-which-was-emptied-after-a-canadian-pacific-train-crashed-with-a-propane.md)
@@ -37,15 +37,15 @@ The town of Callaway, Minnesota, has been evacuated after a train crash involvin
 
 ##### Portuguese nationals
 ### [Twelve Portuguese nationals, who were residents of Fribourg, Switzerland, are killed in a head-on collision between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-truc.md)
-_Context: France, Italy, Paris, Portuguese nationals, Fribourg, minibus, Switzerland_
+_Context: Italy, France, Portuguese nationals, Fribourg, minibus, Switzerland, Paris_
 
 ##### Air ambulance
 ### [An air ambulance helicopter crashes in Iran's southern Fars Province, killing everyone on board. The official Islamic Republic News Agency (IRNA) put the death toll at 10. ](/news/2016/03/25/an-air-ambulance-helicopter-crashes-in-iran-s-southern-fars-province-killing-everyone-on-board-the-official-islamic-republic-news-agency.md)
-_Context: Iran, air ambulance, Fars Province, Islamic Republic News Agency_
+_Context: air ambulance, Islamic Republic News Agency, Iran, Fars Province_
 
 ##### Japan-Russia relations
 ### [Russia announces it will deploy state-of-the art missile defense systems to the far eastern Kuril Islands where they and Japan have rival territorial claims dating to the end of the Second World War. Russian Defence Minister Sergey Shoygu also says that Russia will form new defence units in the country's Western Military District in response to NATO's recent deployment of forces to member states near its border. ](/news/2016/03/25/russia-announces-it-will-deploy-state-of-the-art-missile-defense-systems-to-the-far-eastern-kuril-islands-where-they-and-japan-have-rival-te.md)
-_Context: Ministry of Defence, membership, Sergey Shoygu, Japan-Russia relations, NATO, NATO-Russia relations, Japan, Kuril Islands, Western Military District, rival territorial claims, Russia, World War II_
+_Context: Sergey Shoygu, NATO, World War II, rival territorial claims, membership, Kuril Islands, Russia, Western Military District, NATO-Russia relations, Japan-Russia relations, Japan, Ministry of Defence_
 
 ##### U.S. federal court
 ### [A United States federal district judge rules unconstitutional a provision in an Alabama state law that requires doctors who perform abortions to have admitting privileges at a local hospital. A Florida law enacted today contains a comparable provision to Alabama's. The U.S. Supreme Court heard arguments a few weeks ago on the constitutionality of similar abortion restrictions in Texas. ](/news/2016/03/25/a-united-states-federal-district-judge-rules-unconstitutional-a-provision-in-an-alabama-state-law-that-requires-doctors-who-perform-abortion.md)

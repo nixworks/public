@@ -23,7 +23,7 @@ Afghan officials and villagers said 18 people, including women and children, wer
 ### [Controversy is stoked after a video emerges of a U.S. religious minister outlining his plan to imprison the country's gay and lesbian population behind an electric fence until they die. ](/news/2012/06/6/controversy-is-stoked-after-a-video-emerges-of-a-u-s-religious-minister-outlining-his-plan-to-imprison-the-country-s-gay-and-lesbian-popula.md)
 ##### J. M. Coetzee
 ### [J. M. Coetzee and Nadine Gordimer are among those to criticise South Africa's "secrecy bill" which they say could fundamentally threaten free speech and investigative journalism. ](/news/2012/06/6/j-m-coetzee-and-nadine-gordimer-are-among-those-to-criticise-south-africa-s-secrecy-bill-which-they-say-could-fundamentally-threaten-fre.md)
-_Context: J. M. Coetzee, South Africa, Nadine Gordimer_
+_Context: Nadine Gordimer, J. M. Coetzee, South Africa_
 
 ##### Ray Bradbury
 ### [Ray Bradbury, author of "The Martian Chronicles" and "Fahrenheit 451", dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborhood-o.md)
@@ -39,7 +39,7 @@ The singer has told her fans not to worry after she was diagnosed with a benign 
 
 ##### Marlborough House
 ### [The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-and-commonwealth-leaders.md)
-_Context: Commonwealth of Nations, Pall Mall, Marlborough House, Elizabeth II_
+_Context: Elizabeth II, Pall Mall, Marlborough House, Commonwealth of Nations_
 
 ##### European Central Bank
 ### [A group of Irish people are thrown out of the European Central Bank in Frankfurt after attempting to hand a letter of protest to the bank's president Mario Draghi. ](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.md)
@@ -55,7 +55,7 @@ It has been confirmed that a magnitude four earthquake struck off the west coast
 
 ##### Bradley Manning
 ### [The defence of imprisoned U.S. serviceman Bradley Manning receives a boost with a ruling by the judge presiding over his trial at Fort Meade in Maryland ordering the Obama administration to hand over several documents the government had hoped would remain confidential. ](/news/2012/06/6/the-defence-of-imprisoned-u-s-serviceman-bradley-manning-receives-a-boost-with-a-ruling-by-the-judge-presiding-over-his-trial-at-fort-meade.md)
-_Context: Bradley Manning, Maryland, Obama administration, Fort Meade_
+_Context: Obama administration, Fort Meade, Maryland, Bradley Manning_
 
 ##### Israel
 ### [Hours after a bill to legalise settlement outposts is rejected, Israeli prime minister Benjamin Netanyahu orders the construction of 300 new homes at the Jewish settlement of Beit El in the West Bank. ](/news/2012/06/6/hours-after-a-bill-to-legalise-settlement-outposts-is-rejected-israeli-prime-minister-benjamin-netanyahu-orders-the-construction-of-300-new.md)
@@ -71,11 +71,11 @@ President Felipe Calderon signs a law making Mexico only the second country in t
 
 ##### Kwame R. Brown
 ### [Kwame R. Brown, the Chair of the Council of the District of Columbia responsible for the US capital Washington D.C., resigns after being charged with bank fraud. ](/news/2012/06/6/kwame-r-brown-the-chair-of-the-council-of-the-district-of-columbia-responsible-for-the-us-capital-washington-d-c-resigns-after-being-cha.md)
-_Context: Kwame R. Brown, Washington D.C., Council of the District of Columbia_
+_Context: Washington D.C., Kwame R. Brown, Council of the District of Columbia_
 
 ##### Solar Impulse
 ### [The Solar Impulse, a solar plane, lands in Morocco, completing the world's first intercontinental flight powered by the Sun. ](/news/2012/06/6/the-solar-impulse-a-solar-plane-lands-in-morocco-completing-the-world-s-first-intercontinental-flight-powered-by-the-sun.md)
-_Context: solar plane, Morocco, Sun, Solar Impulse_
+_Context: Morocco, solar plane, Solar Impulse, Sun_
 
 ## [Previous Day...](/news/2012/06/5/index.md)
 

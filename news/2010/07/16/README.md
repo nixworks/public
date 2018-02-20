@@ -21,7 +21,7 @@ Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for 
 
 ##### Recent bombings
 ### [The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md)
-_Context: Zahedan, recent bombings_
+_Context: recent bombings, Zahedan_
 
 ##### Bangladesh
 ### [The Bangladeshi government outlaws the works of Abul Ala Maududi. ](/news/2010/07/16/the-bangladeshi-government-outlaws-the-works-of-abul-ala-maududi.md)
@@ -61,7 +61,7 @@ A US judge sentences a former State Department worker to life in prison without 
 
 ##### Philip Alston
 ### [Philip Alston expresses concern at the rise in murders in Ecuador and the declining number of murderers being caught. ](/news/2010/07/16/philip-alston-expresses-concern-at-the-rise-in-murders-in-ecuador-and-the-declining-number-of-murderers-being-caught.md)
-_Context: Ecuador, Philip Alston_
+_Context: Philip Alston, Ecuador_
 
 ##### Chechnya
 ### [Three Chechens are charged by France in connection with a conspiracy to attack Russia; another man is released. ](/news/2010/07/16/three-chechens-are-charged-by-france-in-connection-with-a-conspiracy-to-attack-russia-another-man-is-released.md)
@@ -89,7 +89,7 @@ Guinea has released the son of former president Lansana Conte, held for the past
 
 ##### Human Rights Watch
 ### [Human Rights Watch expresses its dissatisfaction with President of Syria Bashar al-Assad's human rights record on the tenth anniversary of his rise to the top, calling it "a wasted decade". ](/news/2010/07/16/human-rights-watch-expresses-its-dissatisfaction-with-president-of-syria-bashar-al-assad-s-human-rights-record-on-the-tenth-anniversary-of-h.md)
-_Context: Bashar al-Assad, Human Rights Watch, President_
+_Context: President, Bashar al-Assad, Human Rights Watch_
 
 ##### Mount Everest
 ### [Photos taken on Mount Everest from the same spot where similar pictures were taken by George Mallory in 1921 reveal what is described as an "alarming" loss of ice. ](/news/2010/07/16/photos-taken-on-mount-everest-from-the-same-spot-where-similar-pictures-were-taken-by-george-mallory-in-1921-reveal-what-is-described-as-an.md)
@@ -97,7 +97,7 @@ Photos taken by a mountaineer on Everest from the same spot where similar pictur
 
 ##### President
 ### [President of Venezuela Hugo Chvez announces the exhumation of 19th-century revolutionary Simn Bolvar to investigate suspected foul play in Bolvar's death. ](/news/2010/07/16/president-of-venezuela-hugo-chavez-announces-the-exhumation-of-19th-century-revolutionary-simon-bolivar-to-investigate-suspected-foul-play-i.md)
-_Context: exhumed, President, Simn Bolvar, Hugo Chvez_
+_Context: exhumed, Hugo Chvez, President, Simn Bolvar_
 
 ##### Nigeria
 ### [Police in Nigeria seize the passports of four top football officials who were sacked after the national football team's poor performance at the 2010 FIFA World Cup leads to fraud allegations. ](/news/2010/07/16/police-in-nigeria-seize-the-passports-of-four-top-football-officials-who-were-sacked-after-the-national-football-team-s-poor-performance-at.md)

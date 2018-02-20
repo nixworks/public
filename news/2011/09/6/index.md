@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/6/index.html)  [JSON](2011/09/6/index.json)  [XML](2011/
 
 ##### English
 ### [English musician PJ Harvey wins her second Mercury Prize for best album from the United Kingdom and Ireland for her album "Let England Shake". ](/news/2011/09/6/english-musician-pj-harvey-wins-her-second-mercury-prize-for-best-album-from-the-united-kingdom-and-ireland-for-her-album-let-england-shake.md)
-_Context: Let England Shake, English, PJ Harvey, Mercury Prize, Ireland, United Kingdom_
+_Context: English, Let England Shake, Mercury Prize, Ireland, United Kingdom, PJ Harvey_
 
 ##### Russian Air Force
 ### [A Russian Air Force Mikoyan MiG-31 crashes in Perm Krai in the Ural Mountains. ](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.md)
-_Context: MiG-31, Russian Air Force, Perm Krai, Ural Mountains_
+_Context: MiG-31, Russian Air Force, Ural Mountains, Perm Krai_
 
 ##### Wildfire
 ### [A wildfire destroys at least 118,500 acres and destroys over 700 homes in Central Texas since Saturday with two deaths. ](/news/2011/09/6/a-wildfire-destroys-at-least-118-500-acres-and-destroys-over-700-homes-in-central-texas-since-saturday-with-two-deaths.md)
@@ -33,7 +33,7 @@ Former MP for Luton South Margaret Moran is to face 21 charges of claiming parli
 
 ##### Mass shooting
 ### [A mass shooting at an International House of Pancakes restaurant in Carson City, Nevada (U.S.A.) leaves four dead, including the shooter, and six wounded. ](/news/2011/09/6/a-mass-shooting-at-an-international-house-of-pancakes-restaurant-in-carson-city-nevada-u-s-a-leaves-four-dead-including-the-shooter-an.md)
-_Context: mass shooting, International House of Pancakes, Carson City, Nevada_
+_Context: International House of Pancakes, mass shooting, Carson City, Nevada_
 
 ## [Previous Day...](/news/2011/09/5/index.md)
 

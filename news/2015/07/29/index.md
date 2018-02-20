@@ -17,7 +17,7 @@ _Context: Wragg Fire_
 
 ##### Indian
 ### [Debris found near the Indian Ocean island of Reunion is consistent with material from a Boeing 777 and is being examined to confirm whether it is from Malaysia Airlines Flight 370. ](/news/2015/07/29/debris-found-near-the-indian-ocean-island-of-ra-c-union-is-consistent-with-material-from-a-boeing-777-and-is-being-examined-to-confirm-whether.md)
-_Context: Boeing 777, Reunion, Indian, Malaysia Airlines Flight 370_
+_Context: Malaysia Airlines Flight 370, Indian, Reunion, Boeing 777_
 
 ##### Mexico
 ### [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md)
@@ -29,7 +29,7 @@ When Zion Harvey was a toddler, he developed a serious infection that resulted i
 
 ##### Nigeria
 ### [Nigerian President Muhammadu Buhari visits neighboring Cameroon to bolster support for a multinational army to fight Boko Haram. ](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.md)
-_Context: Muhammadu Buhari, Cameroon, Boko Haram, Nigeria_
+_Context: Boko Haram, Nigeria, Muhammadu Buhari, Cameroon_
 
 ##### University of Cincinnati
 ### [University of Cincinnati Police officer Ray Tensing is charged with murder for the July 19, 2015 shooting death of Samuel DuBose. ](/news/2015/07/29/university-of-cincinnati-police-officer-ray-tensing-is-charged-with-murder-for-the-july-19-2015-shooting-death-of-samuel-dubose.md)

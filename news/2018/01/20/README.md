@@ -37,7 +37,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 
 ##### Odebrecht case in Guatemala
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, United States, Odebrecht case in Guatemala_
+_Context: United States, Manuel Baldizon, Odebrecht case in Guatemala_
 
 ## [Previous Day...](/news/2018/01/19/index.md)
 

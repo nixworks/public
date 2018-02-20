@@ -5,7 +5,7 @@ Formats: [HTML](2012/11/25/index.html)  [JSON](2012/11/25/index.json)  [XML](201
 
 ##### Protestant church
 ### [At least 11 people are killed and about 30 wounded in twin car bombs that hits a Protestant church in a major military establishment in Jaji, Kaduna State, north central Nigeria. ](/news/2012/11/25/at-least-11-people-are-killed-and-about-30-wounded-in-twin-car-bombs-that-hits-a-protestant-church-in-a-major-military-establishment-in-jaji.md)
-_Context: Nigeria, Kaduna State, Jaji, Protestant church_
+_Context: Nigeria, Protestant church, Jaji, Kaduna State_
 
 ##### Muslim Brotherhood
 ### [A teenager is killed and 40 wounded while storming the Muslim Brotherhood headquarters in Damanhur, Egypt, during the third day of protests as a result from the power grab by Mohamed Morsi. ](/news/2012/11/25/a-teenager-is-killed-and-40-wounded-while-storming-the-muslim-brotherhood-headquarters-in-damanhur-egypt-during-the-third-day-of-protests.md)
@@ -13,7 +13,7 @@ A 15-year-old is dead after rioters stormed a Muslim Brotherhood headquarters bu
 
 ##### Cluj-Napoca
 ### [The city of Cluj-Napoca, Romania, is chosen as 2015 European Youth Capital. ](/news/2012/11/25/the-city-of-cluj-napoca-romania-is-chosen-as-2015-european-youth-capital.md)
-_Context: Cluj-Napoca, Romania, European Youth Capital_
+_Context: Romania, Cluj-Napoca, European Youth Capital_
 
 ##### Dinah Sheridan
 ### [Veteran British film actress Dinah Sheridan dies aged 92. ](/news/2012/11/25/veteran-british-film-actress-dinah-sheridan-dies-aged-92.md)
@@ -21,7 +21,7 @@ Dinah Sheridan, who appeared in classic British films including The Railway Chil
 
 ##### A fire in a garment factory
 ### [The death toll from a fire in a garment factory in the Bangladeshi capital Dhaka rises to 112 as the search for victims continues. ](/news/2012/11/25/the-death-toll-from-a-fire-in-a-garment-factory-in-the-bangladeshi-capital-dhaka-rises-to-112-as-the-search-for-victims-continues.md)
-_Context: Bangladesh, a fire in a garment factory, Dhaka_
+_Context: Dhaka, Bangladesh, a fire in a garment factory_
 
 ##### Train
 ### [A train hits a van at a level crossing near Rossano, Province of Cosenza, Calabria region, Italy, killing at least six workers from Romania and Bulgaria. ](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.md)
@@ -29,7 +29,7 @@ A train hit a van in southern Italyon Saturday, killing at least six people, the
 
 ##### Collision
 ### [In a collision between a bus and a truck at kilometer 90 of the highway Anaco-Cantaura, state of Anzoategui, Venezuela, 8 killed and at least 25 injured. ](/news/2012/11/25/in-a-collision-between-a-bus-and-a-truck-at-kilometer-90-of-the-highway-anaco-cantaura-state-of-anzoa-tegui-venezuela-8-killed-and-at-lea.md)
-_Context: Anaco, Cantaura, bus, Anzoategui, Venezuela, truck, collision_
+_Context: collision, Cantaura, Venezuela, bus, Anaco, Anzoategui, truck_
 
 ##### Wedding
 ### [16 people are killed and 44 others injured on the spot when a bus carrying a wedding party skids off the road and plunges into a 300-feet deep gorge in Udhampur district, Jammu and Kashmir, India. ](/news/2012/11/25/16-people-are-killed-and-44-others-injured-on-the-spot-when-a-bus-carrying-a-wedding-party-skids-off-the-road-and-plunges-into-a-300-feet-de.md)

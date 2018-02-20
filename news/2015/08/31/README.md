@@ -9,11 +9,11 @@ _Context: Bangkok, 2015 Bangkok bombing, Thai police officers_
 
 ##### Denali
 ### [Denali, the highest mountain peak in North America, officially regains its original Alaska Native name through an executive order issued by American President Barack Obama. Previously, since 1917, it had been known as Mount McKinley. ](/news/2015/08/31/denali-the-highest-mountain-peak-in-north-america-officially-regains-its-original-alaska-native-name-through-an-executive-order-issued-by.md)
-_Context: Barack Obama, Alaska Native, U.S. President, executive order, North America, Denali_
+_Context: North America, Barack Obama, U.S. President, Denali, executive order, Alaska Native_
 
 ##### 2015 Atlantic hurricane season
 ### [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md)
-_Context: Tropical Storm Fred's, Cape Verde, 2015 Atlantic hurricane season_
+_Context: Cape Verde, 2015 Atlantic hurricane season, Tropical Storm Fred's_
 
 ##### Turkey-PKK conflict
 ### [A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-followi.md)

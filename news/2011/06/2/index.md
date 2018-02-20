@@ -5,19 +5,19 @@ Formats: [HTML](2011/06/2/index.html)  [JSON](2011/06/2/index.json)  [XML](2011/
 
 ##### Abyei
 ### [Almost 100 civilians are killed in the disputed Abyei region between North and South Sudan since northern troops seized the area on 21 May. ](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.md)
-_Context: South Sudan, Abyei, Sudan_
+_Context: South Sudan, Sudan, Abyei_
 
 ##### Syrian civil war
 ### [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md)
-_Context: President, Syrian civil war, Bashar al-Assad, Turkey, Syria_
+_Context: Syria, Syrian civil war, President, Bashar al-Assad, Turkey_
 
 ##### Pakistan Army
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
-_Context: Dir District, Pakistan Army, Afghan_
+_Context: Afghan, Dir District, Pakistan Army_
 
 ##### Sniper
 ### [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: Sana'a, sniper, Yemen, 2011 Yemeni uprising_
+_Context: Yemen, Sana'a, 2011 Yemeni uprising, sniper_
 
 ##### FBI
 ### [The FBI investigate claims that hackers in China attacked the Google email accounts of officials in the United States and Asian countries, as well as Chinese pro-democracy activists. ](/news/2011/06/2/the-fbi-investigate-claims-that-hackers-in-china-attacked-the-google-email-accounts-of-officials-in-the-united-states-and-asian-countries-a.md)
@@ -29,7 +29,7 @@ Judges including journalist John Pilger voted unanimously for the WikiLeaks foun
 
 ##### Scripps National Spelling Bee
 ### [The finals of the Scripps National Spelling Bee are held in the US town of Oxon Hill, Maryland with Sukanya Roy of South Abington, Pennsylvania. ](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.md)
-_Context: Oxon Hill, South Abington, Pennsylvania, Maryland, Scripps National Spelling Bee_
+_Context: Pennsylvania, Maryland, Scripps National Spelling Bee, South Abington, Oxon Hill_
 
 ##### PlayStation Network outage
 ### [Following the PlayStation Network outage, the Sony website SonyPictures.com has been hacked, with unencrypted passwords and personal information of Sony customers within the website's database being discovered by the hackers. ](/news/2011/06/2/following-the-playstation-network-outage-the-sony-website-sonypictures-com-has-been-hacked-with-unencrypted-passwords-and-personal-informa.md)
@@ -45,7 +45,7 @@ At a climate meeting in Brazil, the bank agreed to help cities pay for projects 
 
 ##### Chevron Corporation
 ### [Four people die after an explosion and fire at a Chevron oil refinery in Pembroke Dock, Wales. ](/news/2011/06/2/four-people-die-after-an-explosion-and-fire-at-a-chevron-oil-refinery-in-pembroke-dock-wales.md)
-_Context: Wales, Chevron Corporation, Pembroke Dock, oil refinery_
+_Context: Chevron Corporation, Wales, Pembroke Dock, oil refinery_
 
 ##### Russia
 ### [42 people are injured and 13,000 people evacuated from settlements in Russia's Udmurt Republic following an ammo depot fire. ](/news/2011/06/2/42-people-are-injured-and-13-000-people-evacuated-from-settlements-in-russia-s-udmurt-republic-following-an-ammo-depot-fire.md)
@@ -57,7 +57,7 @@ UN says up to 150 bodies found off the Tunisian coast a day after a boat reporte
 
 ##### South Korea
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Daegu, South Korea, United States, Camp Carroll, United States soldier_
+_Context: Agent Orange, United States, South Korea, Daegu, United States soldier, Camp Carroll_
 
 ##### Yuma County
 ### [Five people are killed and one person injured in a multiple shooting at Yuma County, Arizona. ](/news/2011/06/2/five-people-are-killed-and-one-person-injured-in-a-multiple-shooting-at-yuma-county-arizona.md)
@@ -65,7 +65,7 @@ _Context: Arizona, Yuma County_
 
 ##### California
 ### [Philip and Nancy Garrido are given life sentences in the US state of California for the Kidnapping of Jaycee Lee Dugard. ](/news/2011/06/2/philip-and-nancy-garrido-are-given-life-sentences-in-the-us-state-of-california-for-the-kidnapping-of-jaycee-lee-dugard.md)
-_Context: Kidnapping of Jaycee Lee Dugard, California_
+_Context: California, Kidnapping of Jaycee Lee Dugard_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)

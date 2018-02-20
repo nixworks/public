@@ -9,7 +9,7 @@ Killing Of Palestinian Schoolgirl, 10, Sparks Renewed Violence
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S. guards shoot dead four Iraqi prisoners following an alleged riot at the Camp Bucca prison in southern Iraq. ](/news/2005/01/31/conflict-in-iraq-u-s-guards-shoot-dead-four-iraqi-prisoners-following-an-alleged-riot-at-the-camp-bucca-prison-in-southern-iraq.md)
-_Context: United States, Iraq, Conflict in Iraq, Camp Bucca_
+_Context: Conflict in Iraq, United States, Camp Bucca, Iraq_
 
 ##### Michael Jackson
 ### [ US entertainer Michael Jackson pleads his innocence before his trial for alleged child molestation begins in Santa Maria, California. ](/news/2005/01/31/us-entertainer-michael-jackson-pleads-his-innocence-before-his-trial-for-alleged-child-molestation-begins-in-santa-maria-california.md)
@@ -21,11 +21,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Uganda
 ### [ In Uganda, police find the body of Shaban Kirunda Nkutu, killed in 1973 during the reign of Idi Amin. ](/news/2005/01/31/in-uganda-police-find-the-body-of-shaban-kirunda-nkutu-killed-in-1973-during-the-reign-of-idi-amin.md)
-_Context: Idi Amin, 1973, Shaban Kirunda Nkutu, Uganda_
+_Context: 1973, Uganda, Shaban Kirunda Nkutu, Idi Amin_
 
 ##### African Union
 ### [ The summit of the African Union begins in Nigeria, with 25 African heads of state and United Nations Secretary General Kofi Annan in attendance. ](/news/2005/01/31/the-summit-of-the-african-union-begins-in-nigeria-with-25-african-heads-of-state-and-united-nations-secretary-general-kofi-annan-in-attend.md)
-_Context: Nigeria, United Nations Secretary General, African Union, Africa, Kofi Annan_
+_Context: Kofi Annan, Africa, United Nations Secretary General, African Union, Nigeria_
 
 ##### Bird flu
 ### [ Bird flu spreads in Vietnam with the 12th reported death. ](/news/2005/01/31/bird-flu-spreads-in-vietnam-with-the-12th-reported-death.md)
@@ -33,15 +33,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Solomon Islands
 ### [ In the Solomon Islands, former rebel leader Harold Keke is put on trial for the murder of a priest Augustine Geve. ](/news/2005/01/31/in-the-solomon-islands-former-rebel-leader-harold-keke-is-put-on-trial-for-the-murder-of-a-priest-augustine-geve.md)
-_Context: Augustine Geve, Harold Keke, Solomon Islands_
+_Context: Solomon Islands, Harold Keke, Augustine Geve_
 
 ##### Sefer Halilovic
 ### [ Sefer Halilovic, former head of the Bosnian army, goes on trial for killing Bosnian Croats during the Yugoslav wars. ](/news/2005/01/31/sefer-halilovia-former-head-of-the-bosnian-army-goes-on-trial-for-killing-bosnian-croats-during-the-yugoslav-wars.md)
-_Context: Yugoslav wars, Sefer Halilovic, Croat, Bosnia and Herzegovina_
+_Context: Croat, Yugoslav wars, Sefer Halilovic, Bosnia and Herzegovina_
 
 ##### France
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)
-_Context: Mont Blanc Tunnel, France, 1999, manslaughter by gross negligence_
+_Context: France, Mont Blanc Tunnel, 1999, manslaughter by gross negligence_
 
 ##### Car bomb
 ### [ Car bomb explodes in Dushanbe, the capital of Tajikistan. ](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.md)

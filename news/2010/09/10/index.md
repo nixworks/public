@@ -17,7 +17,7 @@ _Context: Copenhagen, Denmark_
 
 ##### Russia
 ### [A Russian Ministry of Emergency Situations plane loaded with victims of the 2010 Vladikavkaz bombing lands at Moscow's Ramenskoye Airport as the death toll reaches 17. ](/news/2010/09/10/a-russian-ministry-of-emergency-situations-plane-loaded-with-victims-of-the-2010-vladikavkaz-bombing-lands-at-moscow-s-ramenskoye-airport-as.md)
-_Context: Russia, 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Ramenskoye Airport, Moscow_
+_Context: Russia, Ministry of Emergency Situations, Ramenskoye Airport, Moscow, 2010 Vladikavkaz bombing_
 
 ##### British Army
 ### [A British Army soldier from the Duke of Lancaster's Regiment dies of injuries he received in the war in Afghanistan. ](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.md)
@@ -45,7 +45,7 @@ Cause has not been determined; includes pogies, redfish, drum, crabs and shrimp
 
 ##### Yang
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, calls for Japan to immediately release a fishing boat captain captured in disputed waters in the East China Sea. ](/news/2010/09/10/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-calls-for-japan-to-immediately-release-a-fishing-boat-captain-captured.md)
-_Context: fishing boat, Foreign Minister, East China Sea, Yang, Japan_
+_Context: Japan, fishing boat, Foreign Minister, East China Sea, Yang_
 
 ##### Iran
 ### [Iran delays the release of United States detainee Sarah Shourd because the legal processes have not been completed. ](/news/2010/09/10/iran-delays-the-release-of-united-states-detainee-sarah-shourd-because-the-legal-processes-have-not-been-completed.md)
@@ -57,11 +57,11 @@ President Obama said Friday that he had urged Israeli Prime Minister Benjamin Ne
 
 ##### Mexico
 ### [At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md)
-_Context: Tamaulipas, Reynosa, U.S. border, McAllen, Mexico, Texas_
+_Context: McAllen, Tamaulipas, Texas, U.S. border, Reynosa, Mexico_
 
 ##### Mario Viegas CarrascalGBPo
 ### [Mario Viegas CarrascalGBPo resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana GusmGBPo without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalagbpo-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmagbpo-without-a-majori.md)
-_Context: East Timor, Mario Viegas CarrascalGBPo, Xanana GusmGBPo, Prime Minister of East Timor, Deputy Prime Minister, Parliament_
+_Context: Deputy Prime Minister, East Timor, Xanana GusmGBPo, Prime Minister of East Timor, Parliament, Mario Viegas CarrascalGBPo_
 
 ## [Previous Day...](/news/2010/09/9/index.md)
 

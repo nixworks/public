@@ -9,7 +9,7 @@ _Context: Wardak Province, Taliban, Kabul_
 
 ##### State police
 ### [Two Russian police and seven militants are killed in firefights in the southern republic of Dagestan while thirty people are injured in a suicide bombing. ](/news/2010/09/25/two-russian-police-and-seven-militants-are-killed-in-firefights-in-the-southern-republic-of-dagestan-while-thirty-people-are-injured-in-a-su.md)
-_Context: Dagestan, suicide bombing, state police_
+_Context: state police, suicide bombing, Dagestan_
 
 ##### Israeli Navy
 ### [The Israeli Navy kills a Palestinian fisherman off Gaza. ](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.md)
@@ -17,7 +17,7 @@ _Context: Gaza Strip, Israeli Navy_
 
 ##### Israel
 ### [One of three Palestinians wounded by Israeli tank fire on 14 September dies in the Gaza Strip. ](/news/2010/09/25/one-of-three-palestinians-wounded-by-israeli-tank-fire-on-14-september-dies-in-the-gaza-strip.md)
-_Context: Israel, Gaza Strip_
+_Context: Gaza Strip, Israel_
 
 ##### Verona
 ### [Those sexually abused as children by Catholic priests in Italy gather in public for the first time in Verona to campaign for the act to be made a crime against humanity and to organise an international demonstration outside the Vatican next month. ](/news/2010/09/25/those-sexually-abused-as-children-by-catholic-priests-in-italy-gather-in-public-for-the-first-time-in-verona-to-campaign-for-the-act-to-be-m.md)
@@ -29,7 +29,7 @@ Nobel literature laureate Wole Soyinka launches a political party in Nigeria, mo
 
 ##### United Nations
 ### [The United Nations estimates on a preliminary basis that at least 2,000 tents were damaged or destroyed in the storm that struck Haiti's capital Port-au-Prince. ](/news/2010/09/25/the-united-nations-estimates-on-a-preliminary-basis-that-at-least-2-000-tents-were-damaged-or-destroyed-in-the-storm-that-struck-haiti-s-cap.md)
-_Context: Port-au-Prince, Haiti, United Nations_
+_Context: Haiti, Port-au-Prince, United Nations_
 
 ##### Schaerbeek
 ### [At least two people are killed and seventeen injured in a domestic gas explosion in the Schaerbeek area of Brussels, Belgium. ](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.md)
@@ -45,11 +45,11 @@ Japan refused to apologize on Saturday for detaining a Chinese boat captain, sho
 
 ##### United States
 ### [A U.S. federal court judge denies convicted murderer and rapist Albert Green's request for a stay of execution, clearing the way for California's first execution in five years. ](/news/2010/09/25/a-u-s-federal-court-judge-denies-convicted-murderer-and-rapist-albert-green-s-request-for-a-stay-of-execution-clearing-the-way-for-califor.md)
-_Context: United States, California, federal court_
+_Context: federal court, California, United States_
 
 ##### Pakistan International Airlines
 ### [Pakistan International Airlines Flight 782 departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat. A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda-a.md)
-_Context: bomb threat, Pakistan, Toronto, Pakistan International Airlines, Sweden, Canadian, Stockholm, Karachi, National Task Force, Arlanda Airport_
+_Context: Karachi, National Task Force, bomb threat, Stockholm, Pakistan International Airlines, Canadian, Arlanda Airport, Toronto, Sweden, Pakistan_
 
 ##### American targeted killing program
 ### [The U.S. government urges a judge to dismiss a lawsuit which challenges an American targeted killing program which is currently hunting an American citizen who has no charges brought against him. ](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.md)
@@ -65,7 +65,7 @@ Ed Miliband beats his brother David by a wafer thin margin to be elected leader 
 
 ##### Soyuz TMA-18
 ### [The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. ](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.md)
-_Context: Soyuz TMA-18, Kazakhstan, International Space Station_
+_Context: International Space Station, Kazakhstan, Soyuz TMA-18_
 
 ##### Uganda Wildlife Authority
 ### [The Uganda Wildlife Authority (UWA) states that the population of some animals in the country's national parks and game reserves has doubled since 1999. ](/news/2010/09/25/the-uganda-wildlife-authority-uwa-states-that-the-population-of-some-animals-in-the-country-s-national-parks-and-game-reserves-has-doubled.md)

@@ -37,7 +37,7 @@ FBI-led investigation was part of a civil rights program focused on official mis
 
 ##### Colombian conflict
 ### [The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. ](/news/2016/08/24/the-government-of-colombia-and-farc-finalise-a-peace-deal-ending-50-years-of-conflict.md)
-_Context: Colombian conflict, Colombia, FARC_
+_Context: Colombia, Colombian conflict, FARC_
 
 ##### Proxima Centauri b
 ### [Proxima Centauri b is discovered as the closest exoplanet to Earth that may be habitable. ](/news/2016/08/24/proxima-centauri-b-is-discovered-as-the-closest-exoplanet-to-earth-that-may-be-habitable.md)

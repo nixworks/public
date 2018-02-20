@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/4/index.html)  [JSON](2016/11/4/index.json)  [XML](2016/
 
 ##### Kurdish-Turkish conflict
 ### [ A car bomb kills at least eight people and injures up to 100 in Diyarbakir, Turkey. ](/news/2016/11/4/a-car-bomb-kills-at-least-eight-people-and-injures-up-to-100-in-diyarbaka-r-turkey.md)
-_Context: Turkey, Kurdish-Turkish conflict, Diyarbakir_
+_Context: Kurdish-Turkish conflict, Diyarbakir, Turkey_
 
 ##### United States
 ### [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jafr.md)

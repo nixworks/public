@@ -29,7 +29,7 @@ Thousands of mourners turned out Saturday for funerals for 15 of the people kill
 
 ##### Death toll in Wangjialing coal mine's flood
 ### [The death toll in Wangjialing coal mine's flood in Shanxi rises to 28 after the recovery of another corpse. ](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood-in-shanxi-rises-to-28-after-the-recovery-of-another-corpse.md)
-_Context: Shanxi province, death toll in Wangjialing coal mine's flood_
+_Context: death toll in Wangjialing coal mine's flood, Shanxi province_
 
 ##### London
 ### [Thousands of people protest against public sector cuts in London. ](/news/2010/04/10/thousands-of-people-protest-against-public-sector-cuts-in-london.md)

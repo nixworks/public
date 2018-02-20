@@ -5,11 +5,11 @@ Formats: [HTML](2011/11/28/index.html)  [JSON](2011/11/28/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: At least 25 people are killed in fighting between Sunni and Shia groups in Yemen. ](/news/2011/11/28/2011-yemeni-uprising-at-least-25-people-are-killed-in-fighting-between-sunni-and-shia-groups-in-yemen.md)
-_Context: Sunni, Yemen, 2011 Yemeni uprising, Shia_
+_Context: 2011 Yemeni uprising, Shia, Sunni, Yemen_
 
 ##### Saboteur
 ### [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md)
-_Context: Sinai, Jordan, Saboteur, Israel, al-Arish, Egypt_
+_Context: Jordan, Sinai, al-Arish, Saboteur, Egypt, Israel_
 
 ##### Fitch Ratings
 ### [Fitch Ratings maintains the credit rating of the United States government at AAA, but downgrades its outlook on the government to negative. This follows rival ratings agency Standard & Poor's downgrade of the U.S. credit rating in August. ](/news/2011/11/28/fitch-ratings-maintains-the-credit-rating-of-the-united-states-government-at-aaa-but-downgrades-its-outlook-on-the-government-to-negative.md)
@@ -21,11 +21,11 @@ Judge Jed Rakoff said the proposed $285 million settlement over the sale of toxi
 
 ##### Sudan
 ### [The government of Sudan expels Kenya's ambassador, following the Kenyan High Court's ruling that it will arrest Omar al-Bashir, the President of Sudan, if he enters Kenya. ](/news/2011/11/28/the-government-of-sudan-expels-kenya-s-ambassador-following-the-kenyan-high-court-s-ruling-that-it-will-arrest-omar-al-bashir-the-presiden.md)
-_Context: Kenya, Omar al-Bashir, High Court, President of Sudan, Sudan_
+_Context: President of Sudan, High Court, Sudan, Kenya, Omar al-Bashir_
 
 ##### 2011 United Nations Climate Change Conference
 ### [The 2011 United Nations Climate Change Conference (also known as COP 17) begins in Durban, South Africa. ](/news/2011/11/28/the-2011-united-nations-climate-change-conference-also-known-as-cop-17-begins-in-durban-south-africa.md)
-_Context: Durban, South Africa, 2011 United Nations Climate Change Conference_
+_Context: Durban, 2011 United Nations Climate Change Conference, South Africa_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for the first round of voting in parliamentary elections. ](/news/2011/11/28/voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-parliamentary-elections.md)

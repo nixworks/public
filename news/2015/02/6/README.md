@@ -9,15 +9,15 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 
 ##### Boko Haram
 ### [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md)
-_Context: Niger Army, Boko Haram, Niger, Chad Air Force_
+_Context: Niger, Chad Air Force, Niger Army, Boko Haram_
 
 ##### German
 ### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000 of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
-_Context: Siemens, German, German_
+_Context: German, German, Siemens_
 
 ##### Ecuador
 ### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, "The Floreana", carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-januar.md)
-_Context: state of emergency, Galpagos Islands, Ecuador_
+_Context: Galpagos Islands, state of emergency, Ecuador_
 
 ##### Mexican police
 ### [Mexican police find at least 61 bodies in an abandoned crematorium in Acapulco. ](/news/2015/02/6/mexican-police-find-at-least-61-bodies-in-an-abandoned-crematorium-in-acapulco.md)
@@ -33,11 +33,11 @@ Embattled Australian Prime Minister Tony Abbott said he will fight a challenge t
 
 ##### Xanana Gusmo
 ### [Xanana Gusmo resigns as the Prime Minister of East Timor ahead of an expected government restructure next week. ](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.md)
-_Context: Prime Minister of East Timor, Xanana Gusmo_
+_Context: Xanana Gusmo, Prime Minister of East Timor_
 
 ##### Houthi insurgency in Yemen
 ### [Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md)
-_Context: Houthi insurgency in Yemen, parliament, Yemen_
+_Context: Yemen, Houthi insurgency in Yemen, parliament_
 
 ## [Previous Day...](/news/2015/02/5/index.md)
 

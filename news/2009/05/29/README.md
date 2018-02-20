@@ -5,11 +5,11 @@ Formats: [HTML](2009/05/29/index.html)  [JSON](2009/05/29/index.json)  [XML](200
 
 ##### MP
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: United Kingdom, 2010 general election, MP, Scunthorpe, resignation, Parliament, Elliot Morley_
+_Context: 2010 general election, Scunthorpe, resignation, Parliament, Elliot Morley, United Kingdom, MP_
 
 ##### United States
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
-_Context: Phil Spector, United States, record producer, Lana Clarkson, murder_
+_Context: Phil Spector, Lana Clarkson, United States, record producer, murder_
 
 ##### Media
 ### [ American media companies Time Warner and AOL terminate their merger. ](/news/2009/05/29/american-media-companies-time-warner-and-aol-terminate-their-merger.md)
@@ -17,11 +17,11 @@ Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc
 
 ##### Irish
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Irish, brewery, Beamish and Crawford_
+_Context: Irish, Beamish and Crawford, brewery_
 
 ##### Broadcaster
 ### [ Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
-_Context: broadcaster, Pat Kenny, The Late Late Show_
+_Context: The Late Late Show, Pat Kenny, broadcaster_
 
 ##### Kavya Shivashankar
 ### [ Kavya Shivashankar of Kansas wins the Scripps National Spelling Bee in Washington, D.C. ](/news/2009/05/29/kavya-shivashankar-of-kansas-wins-the-scripps-national-spelling-bee-in-washington-d-c.md)
@@ -29,11 +29,11 @@ Kavya Shivashankar emerges spelling bee winner after spelling her final word, &q
 
 ##### South Korean President
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: South Korea, Roh Moo-hyun, state funeral, Seoul, South Korean President_
+_Context: South Korean President, Roh Moo-hyun, state funeral, South Korea, Seoul_
 
 ##### United States
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: U.S. military, Computer security, United States, military command_
+_Context: United States, military command, U.S. military, Computer security_
 
 ##### Dam
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
@@ -41,15 +41,15 @@ _Context: dam, Piaui, Brazil_
 
 ##### Lujo
 ### [ The lethal Lujo virus is identified in Africa. ](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.md)
-_Context: Lujo, Africa, virus_
+_Context: Lujo, virus, Africa_
 
 ##### North Korea
 ### [ North Korea launches a short-range ballistic missile. ](/news/2009/05/29/north-korea-launches-a-short-range-ballistic-missile.md)
-_Context: short-range ballistic missile, North Korea, North Korea's nuclear program_
+_Context: North Korea's nuclear program, North Korea, short-range ballistic missile_
 
 ##### Soyuz TMA-15
 ### [ Soyuz TMA-15 docks with the International Space Station. ](/news/2009/05/29/soyuz-tma-15-docks-with-the-international-space-station.md)
-_Context: Soyuz TMA-15, International Space Station, docks_
+_Context: Soyuz TMA-15, docks, International Space Station_
 
 ##### Government of Ireland
 ### [ Ireland's government intends to further recapitalize Anglo Irish Bank by EUR4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-a-4-billion.md)
@@ -57,7 +57,7 @@ The Government is to seek EU approval to inject up to &euro;4 billion of capital
 
 ##### Civilian
 ### [ At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. ](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.md)
-_Context: Sri Lanka, killed, civilian, Sri Lankan Civil War_
+_Context: Sri Lanka, killed, Sri Lankan Civil War, civilian_
 
 ## [Previous Day...](/news/2009/05/28/index.md)
 

@@ -17,7 +17,7 @@ Nato says it has lost an unmanned helicopter drone over Libya, as state TV shows
 
 ##### At least 20 people are killed
 ### [At least 20 people are killed when a car bomb explodes outside a local governor's house in Al Diwaniyah in Iraq. ](/news/2011/06/21/at-least-20-people-are-killed-when-a-car-bomb-explodes-outside-a-local-governor-s-house-in-al-diwaniyah-in-iraq.md)
-_Context: Iraq, Al Diwaniyah, car bomb, At least 20 people are killed_
+_Context: Al Diwaniyah, At least 20 people are killed, car bomb, Iraq_
 
 ##### EUR
 ### [Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billion-loan-from-the-european-union-a.md)
@@ -29,7 +29,7 @@ Pilot error suspected as Tupolev passenger jet misses runway in northwestern Kar
 
 ##### Australia
 ### [Flights in Australia are again disrupted due to volcanic ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.md)
-_Context: 2011 Puyehue-Cordon Caulle eruption, Chile, Australia_
+_Context: 2011 Puyehue-Cordon Caulle eruption, Australia, Chile_
 
 ##### Indian state
 ### [At least 28 children die mysteriously in the Indian state of Bihar. ](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.md)
@@ -53,7 +53,7 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 
 ##### First Lady
 ### [First Lady of the United States Michelle Obama begins a six-day visit to southern Africa with her daughters; they are granted an audience with Nelson Mandela. ](/news/2011/06/21/first-lady-of-the-united-states-michelle-obama-begins-a-six-day-visit-to-southern-africa-with-her-daughters-they-are-granted-an-audience-wi.md)
-_Context: Michelle Obama, Nelson Mandela, First Lady, southern Africa_
+_Context: Nelson Mandela, Michelle Obama, First Lady, southern Africa_
 
 ##### China
 ### [A Chinese court sentences a forklift driver to death for killing a protester in an incident that started unrest in Inner Mongolia. ](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.md)
@@ -61,7 +61,7 @@ _Context: Inner Mongolia, China_
 
 ##### Yvan Colonna
 ### [A French court upholds a life sentence for Yvan Colonna, a former shepherd and Corsican separatist convicted of fatally shooting police prefect Claude Erignac near a concert hall in Ajaccio in 1998. Colonna has denied killing Erignac. ](/news/2011/06/21/a-french-court-upholds-a-life-sentence-for-yvan-colonna-a-former-shepherd-and-corsican-separatist-convicted-of-fatally-shooting-police-pref.md)
-_Context: Claude Erignac, Ajaccio, Yvan Colonna, prefect, shepherd_
+_Context: Ajaccio, prefect, Claude Erignac, Yvan Colonna, shepherd_
 
 ##### Georges Tron
 ### [Former French minister Georges Tron, who resigned last month due to allegations of sexual assault, is arrested by police. ](/news/2011/06/21/former-french-minister-georges-tron-who-resigned-last-month-due-to-allegations-of-sexual-assault-is-arrested-by-police.md)

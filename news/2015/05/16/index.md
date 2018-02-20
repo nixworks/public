@@ -9,15 +9,15 @@ _Context: special forces, Abu Sayyaf, ISIL_
 
 ##### Egypt
 ### [An Egyptian court sentences deposed President Mohamed Morsi to death for his part in the Egyptian Revolution of 2011. ](/news/2015/05/16/an-egyptian-court-sentences-deposed-president-mohamed-morsi-to-death-for-his-part-in-the-egyptian-revolution-of-2011.md)
-_Context: President, Mohamed Morsi, Egyptian Revolution of 2011, Egypt_
+_Context: Egypt, Mohamed Morsi, President, Egyptian Revolution of 2011_
 
 ##### Sinai insurgency
 ### [Sinai insurgency: In response to Morsi's sentence, gunmen fatally shoot three Egyptian judges in the Sinai Peninsula. ](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.md)
-_Context: term, Sinai insurgency, Sinai Peninsula_
+_Context: Sinai insurgency, term, Sinai Peninsula_
 
 ##### Football
 ### [An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot. ](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-over-terrorism-accusations-in-2012-over-70-football-fans-were-killed-and-500-injured-in-the.md)
-_Context: football, Port Said Stadium riot_
+_Context: Port Said Stadium riot, football_
 
 ##### Collides with a tractor and trailer on a level crossing
 ### [A passenger train collides with a tractor and trailer on a level crossing at Ibbenbren, Germany. Two people are killed and twenty are injured.](/news/2015/05/16/a-passenger-train-collides-with-a-tractor-and-trailer-on-a-level-crossing-at-ibbenburen-germany-two-people-are-killed-and-twenty-are-injur.md)

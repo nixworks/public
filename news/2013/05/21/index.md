@@ -13,11 +13,11 @@ A far-right historian shoots himself dead inside the cathedral of Notre-Dame de 
 
 ##### Chinua Achebe
 ### [Chinua Achebe's body is flown into Lagos to be greeted by a funeral processional. His remains await burial in Ogidi, the author's hometown. ](/news/2013/05/21/chinua-achebe-s-body-is-flown-into-lagos-to-be-greeted-by-a-funeral-processional-his-remains-await-burial-in-ogidi-the-author-s-hometown.md)
-_Context: funeral, Chinua Achebe, Lagos, Ogidi_
+_Context: funeral, Lagos, Ogidi, Chinua Achebe_
 
 ##### Gerbrand Bakker
 ### [Gerbrand Bakker wins the Independent Foreign Fiction Prize for translation. ](/news/2013/05/21/gerbrand-bakker-wins-the-independent-foreign-fiction-prize-for-translation.md)
-_Context: Gerbrand Bakker, Independent Foreign Fiction Prize_
+_Context: Independent Foreign Fiction Prize, Gerbrand Bakker_
 
 ##### Iain Banks
 ### [Iain Banks posts an update on his cancer battle for the first time since announcing his impending death. ](/news/2013/05/21/iain-banks-posts-an-update-on-his-cancer-battle-for-the-first-time-since-announcing-his-impending-death.md)
@@ -41,15 +41,15 @@ The brother of South African athletics star Oscar Pistorius, Carl, is acquitted 
 
 ##### U.S. Army
 ### [U.S. Army Brigadier General Bryan T. Roberts, the Commanding General of the U.S. Army Training Center and Fort Jackson in Fort Jackson, South Carolina, is suspended from his duties because of an investigation into alleged adultery (which is treated as a criminal violation, not just a civil matter, in the U.S. military), and for allegedly being in a physical altercation. ](/news/2013/05/21/u-s-army-brigadier-general-bryan-t-roberts-the-commanding-general-of-the-u-s-army-training-center-and-fort-jackson-in-fort-jackson-sout.md)
-_Context: Commanding General, Fort Jackson, Fort Jackson, South Carolina, U.S. Army, U.S. Army Training Center, Bryan T. Roberts, adultery, Brigadier General_
+_Context: Commanding General, U.S. Army, Brigadier General, Fort Jackson, South Carolina, Bryan T. Roberts, Fort Jackson, adultery, U.S. Army Training Center_
 
 ##### House of Commons
 ### [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-mar.md)
-_Context: House of Commons, Same-sex marriage, Marriage (Same Sex Couples) Bill_
+_Context: House of Commons, Marriage (Same Sex Couples) Bill, Same-sex marriage_
 
 ##### Guardian Council
 ### [Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-hassan-rouhani-saeed-jalili-mohsen-rez.md)
-_Context: Guardian Council, Mohsen Rezaei, Saeed Jalili, Mohammad-Bagher Ghalibaf, Hassan Rouhani_
+_Context: Guardian Council, Hassan Rouhani, Mohammad-Bagher Ghalibaf, Saeed Jalili, Mohsen Rezaei_
 
 ##### U.S. Senate Judiciary Committee
 ### [The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. ](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.md)

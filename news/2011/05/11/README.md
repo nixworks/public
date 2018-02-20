@@ -13,11 +13,11 @@ Opposition fighters in besieged western city continue advance after breaking thr
 
 ##### Grenade
 ### [Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. ](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-consulate-in-karachi-pakistan-no-injures-are-reported.md)
-_Context: Saudi Arabia, Pakistan, Karachi, grenade_
+_Context: Karachi, Saudi Arabia, grenade, Pakistan_
 
 ##### Zambia
 ### [Four Zambian peacekeepers are shot and injured after their convoy comes under attack by suspected armed tribal groups in the disputed border area between Sudan and Southern Sudan. ](/news/2011/05/11/four-zambian-peacekeepers-are-shot-and-injured-after-their-convoy-comes-under-attack-by-suspected-armed-tribal-groups-in-the-disputed-border.md)
-_Context: Zambia, Southern Sudan, Sudan_
+_Context: Sudan, Zambia, Southern Sudan_
 
 ##### Venezuela
 ### [Venezuela starts rationing electricity in the wake of nationwide blackouts earlier in the week. ](/news/2011/05/11/venezuela-starts-rationing-electricity-in-the-wake-of-nationwide-blackouts-earlier-in-the-week.md)
@@ -37,7 +37,7 @@ Two strong earthquakes in quick succession rattle southern Spain, toppling build
 
 ##### Tokyo Electric Power Company
 ### [Tokyo Electric Power Company will accept involvement from the Government of Japan and will not cap compensation payments resulting from the Fukushima I nuclear accidents. ](/news/2011/05/11/tokyo-electric-power-company-will-accept-involvement-from-the-government-of-japan-and-will-not-cap-compensation-payments-resulting-from-the.md)
-_Context: Japanese government, Fukushima I nuclear accidents, Tokyo Electric Power Company_
+_Context: Fukushima I nuclear accidents, Japanese government, Tokyo Electric Power Company_
 
 ##### Julian Assange
 ### [Julian Assange, founder of Wikileaks, receives an award for "exceptional courage in pursuit of human rights" from the Sydney Peace Foundation. ](/news/2011/05/11/julian-assange-founder-of-wikileaks-receives-an-award-for-exceptional-courage-in-pursuit-of-human-rights-from-the-sydney-peace-foundatio.md)
@@ -49,19 +49,19 @@ A US report says 48 women and girls are raped every hour in DR Congo, a rate sig
 
 ##### United States
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, United States, Tehran, espionage_
+_Context: Tehran, Josh Fattal and Shane Bauer, espionage, United States, Iran_
 
 ##### Supreme Court of India
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
-_Context: Government of India, Bhopal disaster, Supreme Court of India_
+_Context: Supreme Court of India, Government of India, Bhopal disaster_
 
 ##### Virginia House of Delegates
 ### [Former member of the Virginia House of Delegates Phillip A. Hamilton is convicted of bribery and extortion. ](/news/2011/05/11/former-member-of-the-virginia-house-of-delegates-phillip-a-hamilton-is-convicted-of-bribery-and-extortion.md)
-_Context: Virginia House of Delegates, Phillip A. Hamilton_
+_Context: Phillip A. Hamilton, Virginia House of Delegates_
 
 ##### John Hinckley, Jr.
 ### [A judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-vi.md)
-_Context: U.S. President, shot by John W. Hinckley, John Hinckley, Jr., Washington, DC, Ronald Reagan_
+_Context: Ronald Reagan, John Hinckley, Jr., U.S. President, Washington, DC, shot by John W. Hinckley_
 
 ##### New York City
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
@@ -69,23 +69,23 @@ The suspects, whom a law enforcement official characterized as “homegrown,” 
 
 ##### Edinburgh
 ### [John Clark Wilson is arrested in Edinburgh, Scotland, during a high-profile Hearts v Celtic tie in the SPL; the 26-year-old Hearts fan invaded the pitch and attempted to attack Celtic manager Neil Lennon. He is charged with breach of the peace and assault. ](/news/2011/05/11/john-clark-wilson-is-arrested-in-edinburgh-scotland-during-a-high-profile-hearts-v-celtic-tie-in-the-spl-the-26-year-old-hearts-fan-invad.md)
-_Context: Celtic, SPL, Hearts, Neil Lennon, Edinburgh, Scotland_
+_Context: Scotland, SPL, Neil Lennon, Hearts, Edinburgh, Celtic_
 
 ##### President
 ### [President Manny Mori and Vice President Alik Alik are re-elected to a second term in the Federated States of Micronesia. ](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.md)
-_Context: President, re-elected to a second term, Alik Alik, Manny Mori, Federated States of Micronesia, Vice President_
+_Context: re-elected to a second term, Alik Alik, Manny Mori, Federated States of Micronesia, President, Vice President_
 
 ##### Premier
 ### [Former Premier of the Australian state of Tasmania David Bartlett resigns as a government minister and will resign from the House of Assembly. ](/news/2011/05/11/former-premier-of-the-australian-state-of-tasmania-david-bartlett-resigns-as-a-government-minister-and-will-resign-from-the-house-of-assembl.md)
-_Context: David Bartlett, House of Assembly, Premier, Tasmania, Australia_
+_Context: Tasmania, David Bartlett, Australia, Premier, House of Assembly_
 
 ##### Scottish Parliament
 ### [The Scottish Parliament meets for the first time since the victory of the Scottish National Party in the recent general election. ](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.md)
-_Context: Scottish Parliament, recently victorious, Scottish National Party_
+_Context: Scottish National Party, recently victorious, Scottish Parliament_
 
 ##### Uganda
 ### [The Ugandan political opposition, the Forum for Democratic Change, claims that its leader Kizza Besigye has been barred from boarding a flight to Kampala from the Kenyan capital Nairobi. ](/news/2011/05/11/the-ugandan-political-opposition-the-forum-for-democratic-change-claims-that-its-leader-kizza-besigye-has-been-barred-from-boarding-a-flig.md)
-_Context: Nairobi, Kizza Besigye, Forum for Democratic Change, Kenya, Kampala, Uganda_
+_Context: Forum for Democratic Change, Kizza Besigye, Uganda, Kenya, Kampala, Nairobi_
 
 ##### Greek police
 ### [Greek police fire teargas at leftist demonstrators, as thousands of striking Greeks protest against austerity measures. ](/news/2011/05/11/greek-police-fire-teargas-at-leftist-demonstrators-as-thousands-of-striking-greeks-protest-against-austerity-measures.md)
@@ -93,7 +93,7 @@ Greek police fired teargas atdozens of leftist demonstrators in the centre of At
 
 ##### Deputy Prime Minister
 ### [British Deputy Prime Minister Nick Clegg says his party will be more "muscular" and mark out their identity more clearly, following their poor results in recent council elections and the Scottish Parliament general election. ](/news/2011/05/11/british-deputy-prime-minister-nick-clegg-says-his-party-will-be-more-muscular-and-mark-out-their-identity-more-clearly-following-their-po.md)
-_Context: recently victorious, Deputy Prime Minister, council elections, Nick Clegg_
+_Context: Deputy Prime Minister, recently victorious, Nick Clegg, council elections_
 
 ##### Police commissioner
 ### [British government plans for the introduction of directly-elected police commissioners in England and Wales are defeated with the help of Liberal Democrat peers in the House of Lords. ](/news/2011/05/11/british-government-plans-for-the-introduction-of-directly-elected-police-commissioners-in-england-and-wales-are-defeated-with-the-help-of-li.md)

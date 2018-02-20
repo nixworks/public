@@ -9,11 +9,11 @@ By Michael Flaherty and Supantha MukherjeeActivist hedge fund Starboard Value LP
 
 ##### Lebanese
 ### [Lebanese daily newspaper "As-Safir" ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falling.md)
-_Context: As-Safir, Hezbollah, Lebanese_
+_Context: Hezbollah, As-Safir, Lebanese_
 
 ##### Malaysia Airlines Flight 370
 ### [Australian infrastructure and transport minister Darren Chester says in a statement that debris recovered this month in Mozambique was highly likely to be from the missing Malaysia Airlines flight. ](/news/2016/03/24/australian-infrastructure-and-transport-minister-darren-chester-says-in-a-statement-that-debris-recovered-this-month-in-mozambique-was-highl.md)
-_Context: Malaysia Airlines Flight 370, Malaysia Airlines, Darren Chester, Australia, Mozambique_
+_Context: Darren Chester, Malaysia Airlines, Malaysia Airlines Flight 370, Mozambique, Australia_
 
 ##### England
 ### [England international footballer Adam Johnson is sentenced to six years in prison for child grooming and child sexual activity. ](/news/2016/03/24/england-international-footballer-adam-johnson-is-sentenced-to-six-years-in-prison-for-child-grooming-and-child-sexual-activity.md)
@@ -29,7 +29,7 @@ _Context: due process, Jian Ghomeshi_
 
 ##### New York
 ### [In New York, an appeals court upheld a lower court's decision to dismiss a lawsuit trying to keep Ted Cruz off the ballot in the U.S. Presidential contest on the ground of his Canadian birth. ](/news/2016/03/24/in-new-york-an-appeals-court-upheld-a-lower-court-s-decision-to-dismiss-a-lawsuit-trying-to-keep-ted-cruz-off-the-ballot-in-the-u-s-presid.md)
-_Context: Ted Cruz, New York_
+_Context: New York, Ted Cruz_
 
 ##### Myanmar general election, 2015
 ### [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md)

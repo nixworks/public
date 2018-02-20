@@ -13,7 +13,7 @@ Images posted on social-network sites show police intervening to halt disturbanc
 
 ##### Herat
 ### [Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. ](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.md)
-_Context: Herat, Afghan_
+_Context: Afghan, Herat_
 
 ##### U.S.
 ### [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md)
@@ -21,7 +21,7 @@ A U.S. missile strike killed seven militants Thursday in a Pakistani region clos
 
 ##### European Union
 ### [European Union leaders agree to change the constitution to establish a mechanism to tackle sovereign debt problems. ](/news/2010/12/16/european-union-leaders-agree-to-change-the-constitution-to-establish-a-mechanism-to-tackle-sovereign-debt-problems.md)
-_Context: European Union, constitution, sovereign debt_
+_Context: constitution, European Union, sovereign debt_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund approves a 22.5bn euro loan to the Republic of Ireland. ](/news/2010/12/16/the-international-monetary-fund-approves-a-22-5bn-euro-loan-to-the-republic-of-ireland.md)
@@ -33,15 +33,15 @@ The International Monetary Fund approves a 22.5bn-euro three-year loan for the R
 
 ##### Yahoo!
 ### [Yahoo! announces plans to axe 600 jobs and phase out services such as Delicious. ](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.md)
-_Context: Yahoo!, Delicious_
+_Context: Delicious, Yahoo!_
 
 ##### Hangzhou
 ### [Six people were killed and a dozen injured when two buses collided in Hangzhou City, east China's Zhejiang Province, China. ](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.md)
-_Context: Hangzhou, Zhejiang_
+_Context: Zhejiang, Hangzhou_
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island boat wreck rises to 28 as the search for survivors continues. ](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.md)
-_Context: wreck, Christmas Island_
+_Context: Christmas Island, wreck_
 
 ##### Tara Air
 ### [Wreckage of a Tara Air de Havilland Canada DHC-6 Twin Otter that crashed on Wednesday with twenty people aboard is found in Nepal. ](/news/2010/12/16/wreckage-of-a-tara-air-de-havilland-canada-dhc-6-twin-otter-that-crashed-on-wednesday-with-twenty-people-aboard-is-found-in-nepal.md)
@@ -53,11 +53,11 @@ New Brunswick is promising financial help for people whose homes and businesses 
 
 ##### Lake-effect snow
 ### [One person is killed by Lake effect snowsqualls from Lake Huron on Highway 402 in Southwestern Ontario as the Canadian military rescues people trapped under snowdrifts for over a day. ](/news/2010/12/16/one-person-is-killed-by-lake-effect-snowsqualls-from-lake-huron-on-highway-402-in-southwestern-ontario-as-the-canadian-military-rescues-peop.md)
-_Context: Highway 402, Southwestern Ontario, Canadian military, snowdrift, Lake-effect snow, snowsquall, Lake Huron_
+_Context: snowdrift, Canadian military, snowsquall, Southwestern Ontario, Highway 402, Lake Huron, Lake-effect snow_
 
 ##### Governor
 ### [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md)
-_Context: Korean peninsula, New Mexico, Governor, Bill Richardson, North Korea, Pyongyang_
+_Context: Governor, New Mexico, Korean peninsula, Bill Richardson, North Korea, Pyongyang_
 
 ##### WikiLeaks
 ### [WikiLeaks founder Julian Assange appears in the British High Court of Justice to successfully apply for bail on sexual assault charges. ](/news/2010/12/16/wikileaks-founder-julian-assange-appears-in-the-british-high-court-of-justice-to-successfully-apply-for-bail-on-sexual-assault-charges.md)
@@ -69,7 +69,7 @@ Officials in Oklahoma execute a prison inmate using a drug cocktail that include
 
 ##### Malaysia
 ### [Malaysian opposition leader Anwar Ibrahim and three others are suspended from parliament for six months after allegedly suggesting a government unity policy was inspired by an Israeli initiative. ](/news/2010/12/16/malaysian-opposition-leader-anwar-ibrahim-and-three-others-are-suspended-from-parliament-for-six-months-after-allegedly-suggesting-a-governm.md)
-_Context: Israel, Malaysia, Anwar Ibrahim_
+_Context: Malaysia, Anwar Ibrahim, Israel_
 
 ##### Chinese Academy of Social Sciences
 ### [The Chinese Academy of Social Sciences says social discontent among the population has increased. ](/news/2010/12/16/the-chinese-academy-of-social-sciences-says-social-discontent-among-the-population-has-increased.md)

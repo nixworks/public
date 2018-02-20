@@ -13,7 +13,7 @@ _Context: suicide bomber, LPG (propane), Baghdad, U.S. presence in Iraq_
 
 ##### KMT chairmanship election, 2005
 ### [ KMT chairmanship election, 2005: Ma Ying-jeou defeats Wang Jin-pyng in a vote for the chairmanship of the Kuomintang (KMT) by 72% to 28% in the first direct election for the post in the party's history. ](/news/2005/07/16/kmt-chairmanship-election-2005-ma-ying-jeou-defeats-wang-jin-pyng-in-a-vote-for-the-chairmanship-of-the-kuomintang-kmt-by-72-to-28-in.md)
-_Context: Wang Jin-pyng, election, chairman, KMT chairmanship election, 2005, Kuomintang (Chinese Nationalist Party), Ma Ying-jeou_
+_Context: Kuomintang (Chinese Nationalist Party), Ma Ying-jeou, Wang Jin-pyng, election, KMT chairmanship election, 2005, chairman_
 
 ## [Previous Day...](/news/2005/07/15/index.md)
 

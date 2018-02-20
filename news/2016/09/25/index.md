@@ -9,7 +9,7 @@ UN chief Ban Ki-moon said Saturday he was &quot;appalled by the chilling militar
 
 ##### Jordan
 ### [A Muslim preacher from a local mosque shoots and kills Jordanian writer and cartoonist Nahed Hattar in front of a courthouse in the capital Amman. Authorities take the gunman into custody.](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.md)
-_Context: Nahed Hattar, Jordan, Amman_
+_Context: Jordan, Nahed Hattar, Amman_
 
 ##### Malm
 ### [A gunman kills one person and injures three others in Malm, Sweden. An explosion occurs later. ](/news/2016/09/25/a-gunman-kills-one-person-and-injures-three-others-in-malmo-sweden-an-explosion-occurs-later.md)

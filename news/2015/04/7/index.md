@@ -33,11 +33,11 @@ _Context: London, Hatton Garden_
 
 ##### Shooting of Walter Scott
 ### [A North Charleston, South Carolina policeman is charged with murder after video footage emerges of him shooting an unarmed suspect attempting to flee on foot following a daytime traffic stop. ](/news/2015/04/7/a-north-charleston-south-carolina-policeman-is-charged-with-murder-after-video-footage-emerges-of-him-shooting-an-unarmed-suspect-attemptin.md)
-_Context: North Charleston, South Carolina, Shooting of Walter Scott, policeman_
+_Context: policeman, North Charleston, South Carolina, Shooting of Walter Scott_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)
-_Context: Rand Paul, presidential primaries, Kentucky U.S. Senator_
+_Context: presidential primaries, Kentucky U.S. Senator, Rand Paul_
 
 ##### Chicago mayoral election
 ### [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md)

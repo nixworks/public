@@ -13,7 +13,7 @@ _Context: Mexico, Creel, Chihuahua, quinceanera_
 
 ##### Tropical Storm Fay
 ### [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md)
-_Context: Tropical Storm Fay, Dominican Republic, Florida Keys, Haiti_
+_Context: Dominican Republic, Tropical Storm Fay, Haiti, Florida Keys_
 
 ##### Afghan National Army
 ### [ The Afghan National Army kills 28 Taliban insurgents as the militants attempt an ambush of a convoy in Zabul province. ](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.md)

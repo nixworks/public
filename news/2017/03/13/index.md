@@ -25,11 +25,11 @@ Threat comes as Dutch ambassador banned from re-entry by Ankara and President Er
 
 ##### Proposed second Scottish independence referendum
 ### [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md)
-_Context: Scotland, First Minister, United Kingdom, Scottish independence, Proposed second Scottish independence referendum, Nicola Sturgeon_
+_Context: Nicola Sturgeon, Proposed second Scottish independence referendum, United Kingdom, Scottish independence, First Minister, Scotland_
 
 ##### United States immigration ban
 ### [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to stop, on constitutional grounds, the revised federal immigration-refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-on.md)
-_Context: New York, Maryland, California, Massachusetts, Hawaii, Washington, United States immigration ban, Oregon_
+_Context: Hawaii, Maryland, Washington, United States immigration ban, California, Oregon, New York, Massachusetts_
 
 ##### Hungarian presidential election, 2017
 ### [Janos Ader is re-elected President of Hungary by the National Assembly. ](/news/2017/03/13/ja-nos-ader-is-re-elected-president-of-hungary-by-the-national-assembly.md)

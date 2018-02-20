@@ -17,19 +17,19 @@ Jerusalem schools to close at noon ahead of expected flurries.
 
 ##### Several world powers
 ### [Members of the P5+1 powers meet with representatives of Iran in Geneva to discuss Iran's nuclear program. ](/news/2015/02/19/members-of-the-p5-1-powers-meet-with-representatives-of-iran-in-geneva-to-discuss-iran-s-nuclear-program.md)
-_Context: several world powers, Geneva, Iran, nuclear program_
+_Context: Geneva, several world powers, nuclear program, Iran_
 
 ##### Qatar
 ### [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md)
-_Context: Egyptian Air Force, Islamic State in Iraq and the Levant, execution of 21 Coptic Christian, Qatar, Egypt, Libya_
+_Context: execution of 21 Coptic Christian, Qatar, Islamic State in Iraq and the Levant, Libya, Egypt, Egyptian Air Force_
 
 ##### Ronald Reagan UCLA Medical Center
 ### [2 people are dead and 7 others infected at the Ronald Reagan UCLA Medical Center, in Los Angeles County, California, after contracting a super-resistant bacterial infection of Carbapenem-resistant Enterobacteriaceae (CRE). 179 other people may have been exposed to the bacteria as well. ](/news/2015/02/19/2-people-are-dead-and-7-others-infected-at-the-ronald-reagan-ucla-medical-center-in-los-angeles-county-california-after-contracting-a-sup.md)
-_Context: Carbapenem-resistant Enterobacteriaceae, Ronald Reagan UCLA Medical Center, Los Angeles County, California_
+_Context: Ronald Reagan UCLA Medical Center, Carbapenem-resistant Enterobacteriaceae, Los Angeles County, California_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md)
-_Context: Prime Minister, Yingluck Shinawatra, indicted_
+_Context: Yingluck Shinawatra, indicted, Prime Minister_
 
 ##### Police
 ### [Venezuelan police arrest the Opposition Mayor of Caracas Antonio Ledezma without a warrant on the anniversary of the arrest of another opposition leader Leopoldo Lopez. The President of Venezuela Nicolas Maduro accused him of organizing a coup d'etat with the support of the United States but the US has denied this. ](/news/2015/02/19/venezuelan-police-arrest-the-opposition-mayor-of-caracas-antonio-ledezma-without-a-warrant-on-the-anniversary-of-the-arrest-of-another-oppos.md)

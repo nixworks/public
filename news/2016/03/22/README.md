@@ -17,7 +17,7 @@ Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded doze
 
 ##### 2016 Brussels bombings
 ### [In light of the Belgian attacks, Warner Bros. cancels the red carpet but will hold the European premiere of the highly-publicized film, "Batman v Superman: Dawn of Justice", at London's Leicester Square tonight. ](/news/2016/03/22/in-light-of-the-belgian-attacks-warner-bros-cancels-the-red-carpet-but-will-hold-the-european-premiere-of-the-highly-publicized-film-bat.md)
-_Context: red carpet, Leicester Square, London, 2016 Brussels bombings, Batman v Superman: Dawn of Justice, Belgium, Warner Bros._
+_Context: 2016 Brussels bombings, red carpet, Batman v Superman: Dawn of Justice, Leicester Square, Belgium, Warner Bros., London_
 
 ##### Colombian conflict
 ### [U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s-half-century-old-con.md)
@@ -41,7 +41,7 @@ A federal judge has postponed a hearing set for Tuesday that would have been the
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court, in a 6-2 ruling written by Justice Anthony Kennedy, upholds the 8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-mil.md)
-_Context: Iowa, 8th U.S. Circuit Court of Appeals', Justice Anthony Kennedy, Tyson Foods Incorporated, class action, Supreme Court of the United States_
+_Context: Iowa, Tyson Foods Incorporated, Justice Anthony Kennedy, 8th U.S. Circuit Court of Appeals', Supreme Court of the United States, class action_
 
 ##### 2016 U.S. election
 ### [Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-head-to-the-polls-for-republican-and-democrat.md)
@@ -53,7 +53,7 @@ He may never be commemorated with a statue or have a park named after him, but R
 
 ##### 2015-16 protests in Brazil
 ### [Brazil President Dilma Rousseff says she will not resign under any circumstances because she hadn't committed a crime, and equated a bid to impeach her to a coup d'etat against democratic rule. A congressional impeachment committee has started hearings. Rousseff could be suspended if the Chamber of Deputies approves the motion to impeach. The president urged the Supreme Court to remain impartial in this political crisis. ](/news/2016/03/22/brazil-president-dilma-rousseff-says-she-will-not-resign-under-any-circumstances-because-she-hadn-t-committed-a-crime-and-equated-a-bid-to.md)
-_Context: Brazil's Chamber of Deputies, president, Supreme Court, 2015-16 protests in Brazil, Dilma Rousseff, coup_
+_Context: 2015-16 protests in Brazil, Dilma Rousseff, Supreme Court, Brazil's Chamber of Deputies, coup, president_
 
 ## [Previous Day...](/news/2016/03/21/index.md)
 

@@ -9,11 +9,11 @@ _Context: United Nations Security Council, United Nations General Assembly, Inte
 
 ##### United States Senate
 ### [ The final report of the US Senate Intelligence Committee states that the Central Intelligence Agency described the danger presented by weapons of mass destruction in Iraq in an unreasonable way, largely unsupported by the available intelligence. ](/news/2004/07/9/the-final-report-of-the-us-senate-intelligence-committee-states-that-the-central-intelligence-agency-described-the-danger-presented-by-weap.md)
-_Context: United States Senate, Iraq, weapons of mass destruction, CIA_
+_Context: United States Senate, weapons of mass destruction, Iraq, CIA_
 
 ##### Ahmed Nazif
 ### [ Ahmed Nazif is appointed the new Prime Minister of Egypt after the resignation of previous Prime Minister Atef Obeid, and the entire cabinet of OT. ](/news/2004/07/9/ahmed-nazif-is-appointed-the-new-prime-minister-of-egypt-after-the-resignation-of-previous-prime-minister-atef-obeid-and-the-entire-cabine.md)
-_Context: Prime Minister, Atef Obeid, Egypt, Ahmed Nazif_
+_Context: Atef Obeid, Prime Minister, Egypt, Ahmed Nazif_
 
 ## [Previous Day...](/news/2004/07/8/index.md)
 

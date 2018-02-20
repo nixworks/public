@@ -5,11 +5,11 @@ Formats: [HTML](2010/06/20/index.html)  [JSON](2010/06/20/index.json)  [XML](201
 
 ##### Chicago
 ### [At least 40 people were shot over the weekend across Chicago, with seven of them slain, Chicago Tribune reported. ](/news/2010/06/20/at-least-40-people-were-shot-over-the-weekend-across-chicago-with-seven-of-them-slain-chicago-tribune-reported.md)
-_Context: Chicago, Chicago Tribune_
+_Context: Chicago Tribune, Chicago_
 
 ##### Graeme McDowell
 ### [Graeme McDowell of Northern Ireland wins the 2010 U.S. Open at Pebble Beach Golf Links in California. ](/news/2010/06/20/graeme-mcdowell-of-northern-ireland-wins-the-2010-u-s-open-at-pebble-beach-golf-links-in-california.md)
-_Context: California, Graeme McDowell, Pebble Beach Golf Links, 2010 U.S. Open, Northern Ireland_
+_Context: Graeme McDowell, California, Pebble Beach Golf Links, Northern Ireland, 2010 U.S. Open_
 
 ##### Israel
 ### [Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuation-of-its-naval-blockade-against.md)
@@ -17,11 +17,11 @@ Germany sharply criticized Israel on Sunday for denying its development minister
 
 ##### Poland
 ### [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md)
-_Context: the death, Polish President, 2010 Polish Air Force Tu-154 crash, Poland, Lech Kaczynski, Polish presidential election, 2010_
+_Context: Polish President, Lech Kaczynski, the death, 2010 Polish Air Force Tu-154 crash, Poland, Polish presidential election, 2010_
 
 ##### Colombian presidential election
 ### [In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-defeats-his-green-party-adversary-antana.md)
-_Context: Party of the U, Colombian presidential election, Antanas Mockus, Juan Manuel Santos, Green Party_
+_Context: Antanas Mockus, Party of the U, Colombian presidential election, Juan Manuel Santos, Green Party_
 
 ##### Jundallah
 ### [Jundallah's leader Abdolmalek Rigi is executed in Tehran. ](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.md)
@@ -41,7 +41,7 @@ At least 26 people are killed in a twin car bombing in Baghdad, officials say, a
 
 ##### Bell 412 model helicopter
 ### [A Bell 412 Mexican military helicopter crashes in Durango state in northern Mexico Saturday, killing all 11 people on board. ](/news/2010/06/20/a-bell-412-mexican-military-helicopter-crashes-in-durango-state-in-northern-mexico-saturday-killing-all-11-people-on-board.md)
-_Context: Durango, Mexican military helicopter, Mexico, Bell 412 model helicopter_
+_Context: Bell 412 model helicopter, Durango, Mexican military helicopter, Mexico_
 
 ##### Australia
 ### [A plane carrying several Australian mining executives including Ken Talbot disappears in either Cameroon or the Republic of the Congo. ](/news/2010/06/20/a-plane-carrying-several-australian-mining-executives-including-ken-talbot-disappears-in-either-cameroon-or-the-republic-of-the-congo.md)

@@ -9,7 +9,7 @@ At least 13 people have died and 53 others have been injured in northeast Nigeri
 
 ##### Universal Orlando
 ### [Universal Orlando decides to close Wet 'n Wild Orlando at the end of 2016. It will be replaced by Volcano Bay, which is expected to open in 2017. ](/news/2015/06/18/universal-orlando-decides-to-close-wet-n-wild-orlando-at-the-end-of-2016-it-will-be-replaced-by-volcano-bay-which-is-expected-to-open-in.md)
-_Context: Volcano Bay, Wet 'n Wild Orlando, Universal Orlando_
+_Context: Universal Orlando, Wet 'n Wild Orlando, Volcano Bay_
 
 ##### Charleston church shooting
 ### [Suspected shooter Dylann Roof is arrested at a traffic stop. Roof is suspected of killing nine people including a South Carolinian state senator. He was charged with multiple drug possession in April and reportedly (by CNN) legally bought the gun at a store after passing a background check despite his criminal record. ](/news/2015/06/18/suspected-shooter-dylann-roof-is-arrested-at-a-traffic-stop-roof-is-suspected-of-killing-nine-people-including-a-south-carolinian-state-sen.md)
@@ -25,7 +25,7 @@ Hong Kong’s legislature rejected a Beijing-backed election-reform plan, dealin
 
 ##### Holy See
 ### [At the Vatican, Pope Francis's officials in the Roman Curia formally release the text of his most recent encyclical, "Laudato si"'. The text, which had been quite anticipated by many sides on the climate change debate and been criticized by some for his involvement in the politicized and charged issue, had been previously leaked. ](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-roman-curia-formally-release-the-text-of-his-most-recent-encyclical-laudato-si-the-text.md)
-_Context: encyclical, Laudato si', Pope Francis, Roman Curia, Holy See_
+_Context: Roman Curia, Pope Francis, Holy See, Laudato si', encyclical_
 
 ## [Previous Day...](/news/2015/06/17/index.md)
 

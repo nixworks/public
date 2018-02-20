@@ -13,11 +13,11 @@ _Context: Instagram_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average and S&P 500 record their worst day of 2013, with the Dow Jones dropping 353 points (2.3 percent) and S&P 500 dropping 2.5 percent. ](/news/2013/06/20/the-dow-jones-industrial-average-and-s-p-500-record-their-worst-day-of-2013-with-the-dow-jones-dropping-353-points-2-3-percent-and-s-p-50.md)
-_Context: S&P 500, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, S&P 500_
 
 ##### Riga Castle fire
 ### [Riga Castle fire: A major fire breaks out at the Riga Castle, the Latvian presidential palace. ](/news/2013/06/20/riga-castle-fire-a-major-fire-breaks-out-at-the-riga-castle-the-latvian-presidential-palace.md)
-_Context: Riga Castle fire, Latvia, Riga Castle_
+_Context: Latvia, Riga Castle, Riga Castle fire_
 
 ##### Hurricane Ingrid
 ### [2013 Atlantic hurricane season: Tropical Storm Barry is due to make landfall in the Mexican state of Veracruz bringing heavy rain and the risk of flooding. ](/news/2013/06/20/2013-atlantic-hurricane-season-tropical-storm-barry-is-due-to-make-landfall-in-the-mexican-state-of-veracruz-bringing-heavy-rain-and-the-ri.md)
@@ -29,7 +29,7 @@ _Context: 2013 North India floods, Uttarakhand_
 
 ##### 2013 Southeast Asian haze
 ### [2013 Southeast Asian haze: Haze from Indonesian forest fires in Sumatra increase air pollution in Singapore and Malaysia to hazardous levels. ](/news/2013/06/20/2013-southeast-asian-haze-haze-from-indonesian-forest-fires-in-sumatra-increase-air-pollution-in-singapore-and-malaysia-to-hazardous-levels.md)
-_Context: 2013 Southeast Asian haze, forest fire, Malaysia, Sumatra, air pollution, Indonesia, Singapore_
+_Context: forest fire, Indonesia, 2013 Southeast Asian haze, Sumatra, air pollution, Malaysia, Singapore_
 
 ##### Coteau-du-Lac, Quebec
 ### [Two people have died in an explosion at a fireworks warehouse in Coteau-du-Lac, Quebec, Canada. ](/news/2013/06/20/two-people-have-died-in-an-explosion-at-a-fireworks-warehouse-in-coteau-du-lac-quebec-canada.md)
@@ -37,7 +37,7 @@ _Context: Coteau-du-Lac, Quebec, Canadian_
 
 ##### South Island
 ### [New Zealand's South Island is lashed by wild weather. Dunedin and Christchurch have roads cut off and flights cancelled as conditions worsen. Heavy snow and flooding is reported in parts of Canterbury, Otago and Southland. ](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.md)
-_Context: Dunedin, Christchurch, South Island_
+_Context: South Island, Dunedin, Christchurch_
 
 ##### Argentinian
 ### [Argentinian football star Lionel Messi and his father are summoned to appear before a Spanish court on tax charges in September. ](/news/2013/06/20/argentinian-football-star-lionel-messi-and-his-father-are-summoned-to-appear-before-a-spanish-court-on-tax-charges-in-september.md)

@@ -17,7 +17,7 @@ SINGAPORE - June 8 has been declared a Day of National Remembrance for the victi
 
 ##### Sinking of ''Dong Fang Zhi Xing''
 ### [The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and-14-survivors.md)
-_Context: Sinking of ''Dong Fang Zhi Xing'', Chinese, Yangtze River_
+_Context: Yangtze River, Sinking of ''Dong Fang Zhi Xing'', Chinese_
 
 ##### 2015 South Korean MERS outbreak
 ### [The number of deaths from MERS in South Korea rises to six with 23 new cases reported. ](/news/2015/06/8/the-number-of-deaths-from-mers-in-south-korea-rises-to-six-with-23-new-cases-reported.md)

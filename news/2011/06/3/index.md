@@ -17,7 +17,7 @@ At least 150 people drowned when a boat leaving Libya capsized off the Tunisian 
 
 ##### Sudanese government troops
 ### [Sudanese government troops and Sudan Liberation Army rebels clash in the western Darfur region; two SLA rebels are reported killed. ](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.md)
-_Context: Sudan Liberation Army, Darfur, conflict, Sudanese government troops_
+_Context: Sudanese government troops, Darfur, Sudan Liberation Army, conflict_
 
 ##### Afghan
 ### [More than 200 Afghan militants cross over into Pakistan and attack a security checkpoint in northwest Pakistan, sparking a clash in which 28 Pakistani security forces and six civilians die, along with 45 Afghans. ](/news/2011/06/3/more-than-200-afghan-militants-cross-over-into-pakistan-and-attack-a-security-checkpoint-in-northwest-pakistan-sparking-a-clash-in-which-28.md)
@@ -33,7 +33,7 @@ Seventeen people were killed and 50 others wounded in a blast from a container f
 
 ##### 2011 Egyptian revolution
 ### [2011 Egyptian revolution: A female journalist is attacked in Cairo's Tahrir Square while covering a demonstration demanding an immediate trial for former President of Egypt Hosni Mubarak. ](/news/2011/06/3/2011-egyptian-revolution-a-female-journalist-is-attacked-in-cairo-s-tahrir-square-while-covering-a-demonstration-demanding-an-immediate-tri.md)
-_Context: 2011 Egyptian revolution, President, Tahrir Square, Cairo, Hosni Mubarak_
+_Context: 2011 Egyptian revolution, Hosni Mubarak, President, Tahrir Square, Cairo_
 
 ##### James Arness
 ### [American actor James Arness, best known for playing Marshal Matt Dillon in "Gunsmoke", dies in Brentwood, California, aged 88. ](/news/2011/06/3/american-actor-james-arness-best-known-for-playing-marshal-matt-dillon-in-gunsmoke-dies-in-brentwood-california-aged-88.md)
@@ -45,11 +45,11 @@ Greece is set to impose further austerity measures and a number of privatization
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
-_Context: United States Government, Ohio, Fiat, Barack Obama, Toledo, Chrysler, U.S. President, Italian_
+_Context: Ohio, Barack Obama, U.S. President, Toledo, Italian, United States Government, Chrysler, Fiat_
 
 ##### Qantas
 ### [Australian airline Qantas announces plans to offer 350 flight attendants voluntary redundancies. ](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.md)
-_Context: flight attendant, Qantas, voluntary redundancies_
+_Context: voluntary redundancies, flight attendant, Qantas_
 
 ##### Canada Post
 ### [Workers for Canada Post start a mail strike. ](/news/2011/06/3/workers-for-canada-post-start-a-mail-strike.md)
@@ -69,7 +69,7 @@ Residents evacuated some affluent areas of North Dakota and South Dakota on Frid
 
 ##### Agent Orange
 ### [A South Korean report claims that South Korea and the United States sprayed Agent Orange on the Demilitarized Zone in 1968-69 in order to prevent infiltrations from North Korea. ](/news/2011/06/3/a-south-korean-report-claims-that-south-korea-and-the-united-states-sprayed-agent-orange-on-the-demilitarized-zone-in-1968-69-in-order-to-pr.md)
-_Context: North Korea, DMZ, Agent Orange_
+_Context: Agent Orange, DMZ, North Korea_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council expresses "grave concern about the ongoing violence and rapidly deteriorating situation in Abyei in southern Sudan. ](/news/2011/06/3/the-united-nations-security-council-expresses-grave-concern-about-the-ongoing-violence-and-rapidly-deteriorating-situation-in-abyei-in-sout.md)
@@ -85,11 +85,11 @@ Former Democratic vice presidential nominee and two-time presidential candidate 
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md)
-_Context: Congress, Libya, Obama administration, Libyan Civil War, United States House of Representatives_
+_Context: Congress, Libya, Libyan Civil War, United States House of Representatives, Obama administration_
 
 ##### Right-to-die
 ### [American right-to-die activist Jack Kevorkian dies in Royal Oak, Michigan of pneumonia and kidney problems. ](/news/2011/06/3/american-right-to-die-activist-jack-kevorkian-dies-in-royal-oak-michigan-of-pneumonia-and-kidney-problems.md)
-_Context: pneumonia, Jack Kevorkian, right-to-die, Royal Oak, Michigan_
+_Context: Jack Kevorkian, right-to-die, Royal Oak, Michigan, pneumonia_
 
 ## [Previous Day...](/news/2011/06/2/index.md)
 

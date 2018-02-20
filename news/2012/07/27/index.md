@@ -13,15 +13,15 @@ Security forces detain a number of protesters in eastern Saudi Arabia, after the
 
 ##### Landslide
 ### [Landslides and flooding caused by Typhoon Vicente kill seven people in northern Vietnam. ](/news/2012/07/27/landslides-and-flooding-caused-by-typhoon-vicente-kill-seven-people-in-northern-vietnam.md)
-_Context: Typhoon Vicente, flood, Vietnam, Landslide_
+_Context: flood, Typhoon Vicente, Landslide, Vietnam_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon urges countries to bridge differences ahead of a deadline for a draft of a new global agreement to control international arms sales. Despite this, no agreement is reached. ](/news/2012/07/27/united-nations-secretary-general-ban-ki-moon-urges-countries-to-bridge-differences-ahead-of-a-deadline-for-a-draft-of-a-new-global-agreement.md)
-_Context: Ban Ki-moon, United Nations_
+_Context: United Nations, Ban Ki-moon_
 
 ##### Chinese
 ### [Lawyers for imprisoned disabled Chinese rights activist Ni Yulan challenge her convictions for fraud and "picking quarrels" in court. ](/news/2012/07/27/lawyers-for-imprisoned-disabled-chinese-rights-activist-ni-yulan-challenge-her-convictions-for-fraud-and-picking-quarrels-in-court.md)
-_Context: Ni Yulan, picking quarrels, Chinese_
+_Context: Ni Yulan, Chinese, picking quarrels_
 
 ##### Fifth Harmony
 ### [Multi-platinum recording artists and American girl-group Fifth Harmony were put together on this very day on the The X Factor USA. ](/news/2012/07/27/multi-platinum-recording-artists-and-american-girl-group-fifth-harmony-were-put-together-on-this-very-day-on-the-the-x-factor-usa.md)

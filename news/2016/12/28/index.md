@@ -5,15 +5,15 @@ Formats: [HTML](2016/12/28/index.html)  [JSON](2016/12/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a-member-of-the-national-assembly-fako.md)
-_Context: Afghan police, Kabul, National Assembly, War in Afghanistan (2015-present)_
+_Context: Kabul, National Assembly, Afghan police, War in Afghanistan (2015-present)_
 
 ##### Colombian conflict
 ### [As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc-rebels-the-amnesty.md)
-_Context: FARC, human rights violations, Congress of Colombia, Colombian conflict, war crime, lasting peace_
+_Context: FARC, Congress of Colombia, war crime, lasting peace, human rights violations, Colombian conflict_
 
 ##### Debbie Reynolds
 ### [American actress Debbie Reynolds has a stroke and dies one day after her daughter Carrie Fisher's death. ](/news/2016/12/28/american-actress-debbie-reynolds-has-a-stroke-and-dies-one-day-after-her-daughter-carrie-fisher-s-death.md)
-_Context: Debbie Reynolds, stroke, Carrie Fisher_
+_Context: Carrie Fisher, Debbie Reynolds, stroke_
 
 ##### Pan Pan
 ### [Pan Pan, the oldest male panda on Earth, dies at the age of 31. ](/news/2016/12/28/pan-pan-the-oldest-male-panda-on-earth-dies-at-the-age-of-31.md)
@@ -25,7 +25,7 @@ A train derailed in northern India on Wednesday injuring at least 43 people, pol
 
 ##### 2016 Djebel Jelloud train accident
 ### [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md)
-_Context: 2016 Djebel Jelloud train accident, Tunis, Tunisia_
+_Context: Tunis, Tunisia, 2016 Djebel Jelloud train accident_
 
 ##### South Korea
 ### [The Korea Fair Trade Commission fines U.S. company Qualcomm $852.9 million for alleged antitrust violations for restricting access of its competitors to its patents. ](/news/2016/12/28/the-korea-fair-trade-commission-fines-u-s-company-qualcomm-852-9-million-for-alleged-antitrust-violations-for-restricting-access-of-its-co.md)

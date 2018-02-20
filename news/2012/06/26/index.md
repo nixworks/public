@@ -13,7 +13,7 @@ _Context: Mexican Drug War, Apaxtla, Guerrero, List of politicians killed in the
 
 ##### Rohingya
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Rohingya, Burma, Buddhist_
+_Context: Burma, Buddhist, Rohingya_
 
 ##### Libya
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
@@ -37,11 +37,11 @@ The five members of the Spice Girls reunite to launch Viva Forever!, a new West 
 
 ##### Salman Rushdie
 ### ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md)
-_Context: Tehran, Salman Rushdie, ''The Satanic Verses'' controversy_
+_Context: Tehran, ''The Satanic Verses'' controversy, Salman Rushdie_
 
 ##### University of Virginia
 ### [The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. ](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.md)
-_Context: University of Virginia, Teresa Sullivan_
+_Context: Teresa Sullivan, University of Virginia_
 
 ##### Stockton, California
 ### [The city of Stockton, California's mediation with creditors fails, forcing the city to declare bankruptcy, making it the largest in the U.S. to do so. ](/news/2012/06/26/the-city-of-stockton-california-s-mediation-with-creditors-fails-forcing-the-city-to-declare-bankruptcy-making-it-the-largest-in-the-u-s.md)
@@ -69,7 +69,7 @@ _Context: Bradley Manning_
 
 ##### Yannis Stournaras
 ### [Yannis Stournaras is appointed as Greece's new finance minister. ](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.md)
-_Context: Yannis Stournaras, Greek Minister of Finance_
+_Context: Greek Minister of Finance, Yannis Stournaras_
 
 ##### Colombia
 ### [The vice president of Colombia, Angelino Garzon, awakes from an induced coma following his ischemic stroke. ](/news/2012/06/26/the-vice-president-of-colombia-angelino-garza3n-awakes-from-an-induced-coma-following-his-ischemic-stroke.md)

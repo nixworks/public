@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/10/index.html)  [JSON](2005/08/10/index.json)  [XML](200
 
 ##### Sergio Muoz
 ### [ In Chile, special Judge Sergio Muoz indicts Luca Hiriart and Marco Antonio Pinochet, wife and youngest son of Augusto Pinochet, on charges of tax evasion. Hiriart is confined in a military facility in Santiago and Marco Pinochet in Santiago's Capuchinos Jail ](/news/2005/08/10/in-chile-special-judge-sergio-munoz-indicts-lucia-hiriart-and-marco-antonio-pinochet-wife-and-youngest-son-of-augusto-pinochet-on-charge.md)
-_Context: Sergio Muoz, Santiago, Augusto Pinochet, Luca Hiriart, Marco Antonio Pinochet_
+_Context: Augusto Pinochet, Santiago, Marco Antonio Pinochet, Sergio Muoz, Luca Hiriart_
 
 ##### Transportation Equity Act of 2005
 ### [ The Transportation Equity Act of 2005 is signed into law in the United States by President George W. Bush. ](/news/2005/08/10/the-transportation-equity-act-of-2005-is-signed-into-law-in-the-united-states-by-president-george-w-bush.md)
@@ -13,11 +13,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Six US soldiers are killed in insurgent attacks throughout Iraq, including four killed in one attack in the northern oil-producing Kurdish town of Baiji, bringing the total US military death toll in Iraq to 1,841. ](/news/2005/08/10/conflict-in-iraq-six-us-soldiers-are-killed-in-insurgent-attacks-throughout-iraq-including-four-killed-in-one-attack-in-the-northern-oil.md)
-_Context: oil, Iraqi insurgency, Kurdish, Baiji, Military of the United States, Conflict in Iraq_
+_Context: Baiji, oil, Iraqi insurgency, Kurdish, Military of the United States, Conflict in Iraq_
 
 ##### Sikorsky S-76
 ### [ A Sikorsky S-76 helicopter of the Finnish company Copterline has crashed into the Gulf of Finland near Estonia's capital Tallinn with 14 on board; eight Finns, four Estonians and two Americans. There are no survivors. ](/news/2005/08/10/a-sikorsky-s-76-helicopter-of-the-finnish-company-copterline-has-crashed-into-the-gulf-of-finland-near-estonia-s-capital-tallinn-with-14-on.md)
-_Context: helicopter, Copterline, crashed, Tallinn, Finland, Estonia, Gulf of Finland, Sikorsky S-76_
+_Context: crashed, Sikorsky S-76, Copterline, helicopter, Estonia, Finland, Tallinn, Gulf of Finland_
 
 ##### African Union
 ### [ The United States and the African Union have dropped their demands that last week's coup in Mauritania be reversed. The US is working with the military junta to ensure that multi-party elections are held as soon as possible ](/news/2005/08/10/the-united-states-and-the-african-union-have-dropped-their-demands-that-last-week-s-coup-in-mauritania-be-reversed-the-us-is-working-with.md)
@@ -33,7 +33,7 @@ _Context: $, Space Adventures_
 
 ##### Gate Gourmet
 ### [ The airline catering firm Gate Gourmet sack 670 workers at London's Heathrow Airport, sparking a sympathy strike from British Airways staff. ](/news/2005/08/10/the-airline-catering-firm-gate-gourmet-sack-670-workers-at-london-s-heathrow-airport-sparking-a-sympathy-strike-from-british-airways-staff.md)
-_Context: London, Heathrow Airport, British Airways, Gate Gourmet_
+_Context: London, Heathrow Airport, Gate Gourmet, British Airways_
 
 ## [Previous Day...](/news/2005/08/9/index.md)
 

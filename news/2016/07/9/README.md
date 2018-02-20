@@ -5,11 +5,11 @@ Formats: [HTML](2016/07/9/index.html)  [JSON](2016/07/9/index.json)  [XML](2016/
 
 ##### Insurgency in Jammu and Kashmir
 ### [At least three people are killed and dozens more are wounded when protesters clash with Indian Army soldiers. The protesters defied an army curfew and took part in the funeral of a top rebel commander of Hizbul Mujahideen. ](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.md)
-_Context: 2016 Kashmir unrest, Insurgency in Jammu and Kashmir, Indian Army, Hizbul Mujahideen_
+_Context: Insurgency in Jammu and Kashmir, Indian Army, Hizbul Mujahideen, 2016 Kashmir unrest_
 
 ##### South Sudanese Civil War
 ### [According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. ](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-splm-io-at-least-115-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions.md)
-_Context: South Sudanese Civil War, Sudan People's Liberation Army, SPLM-IO, local clashes, Juba_
+_Context: SPLM-IO, South Sudanese Civil War, Juba, local clashes, Sudan People's Liberation Army_
 
 ##### Russian intervention
 ### [A Russian Air Force Mi-24 helicopter crashes near Palmyra, Syria, while assisting Syrian Army forces in the area. Russia's Ministry of Defence confirms two Russian pilots, Riafa'at Habibulin and Yevgeny Dolgin, are killed. ](/news/2016/07/9/a-russian-air-force-mi-24-helicopter-crashes-near-palmyra-syria-while-assisting-syrian-army-forces-in-the-area-russia-s-ministry-of-defen.md)
@@ -21,7 +21,7 @@ Power is being restored in parts of Taiwan after a powerful typhoon slammed into
 
 ##### International reactions to Philippines v. China
 ### [Ahead of a court decision by the Permanent Court of Arbitration, China holds a naval drill in the disputed South China Sea raising tensions in the region. ](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.md)
-_Context: court decision, Permanent Court of Arbitration's, International reactions to Philippines v. China, South China Sea, Chinese_
+_Context: South China Sea, International reactions to Philippines v. China, Chinese, Permanent Court of Arbitration's, court decision_
 
 ##### North Korea's nuclear program
 ### [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md)
@@ -29,7 +29,7 @@ _Context: South Korea, ballistic missile, North Korea, North Korea's nuclear pro
 
 ##### 2016 Warsaw summit
 ### [NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-continue-to-fund-the-afg.md)
-_Context: Warsaw, Afghan, 2016 Warsaw summit, Resolute Support, Poland, military personnel, NATO_
+_Context: Afghan, Poland, NATO, military personnel, Warsaw, 2016 Warsaw summit, Resolute Support_
 
 ##### Bahamian-United States relations
 ### [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md)
@@ -37,7 +37,7 @@ The Bahamas issues a rare travel advisory for its citizens visiting the US, reco
 
 ##### Human rights in the Philippines
 ### [The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations-conducted-during-its-drug-war.md)
-_Context: Human rights in the Philippines, Philippines, drug crackdown, human rights violations_
+_Context: drug crackdown, Human rights in the Philippines, Philippines, human rights violations_
 
 ##### Child marriage
 ### [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the "Msichana Initiative", a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiativ.md)
@@ -45,7 +45,7 @@ The Gambia and Tanzania, both countries where more than 30% of girls are married
 
 ##### The shooting of Dallas police officers
 ### [Multiple gunshots strike the public safety headquarters of the San Antonio, Texas, Police Department. No injuries are reported. ](/news/2016/07/9/multiple-gunshots-strike-the-public-safety-headquarters-of-the-san-antonio-texas-police-department-no-injuries-are-reported.md)
-_Context: Police Department, Texas, San Antonio, the shooting of Dallas police officers_
+_Context: the shooting of Dallas police officers, Police Department, Texas, San Antonio_
 
 ##### 2016 Zimbabwe protests
 ### [The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. ](/news/2016/07/9/the-zimbabwe-economy-is-crippled-after-a-week-of-protests-as-a-result-of-dissatisfaction-with-the-regime-of-robert-mugabe.md)

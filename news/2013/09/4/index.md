@@ -9,7 +9,7 @@ A Russian expert report shows a makeshift weapon used in a chemical attack near 
 
 ##### Stabbing
 ### [Police arrest a student for allegedly stabbing another student to death and injuring three more at Spring High School in Spring, Texas, U.S. ](/news/2013/09/4/police-arrest-a-student-for-allegedly-stabbing-another-student-to-death-and-injuring-three-more-at-spring-high-school-in-spring-texas-u-s.md)
-_Context: stabbing, Spring High School, Spring, Texas_
+_Context: Spring High School, stabbing, Spring, Texas_
 
 ## [Previous Day...](/news/2013/09/3/index.md)
 

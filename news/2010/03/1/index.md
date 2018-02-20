@@ -29,11 +29,11 @@ Georgian official says move does not indicate warming of ties between nations.
 
 ##### Spain
 ### [Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. ](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-concerning-allegations-that-it-helped-terrorist-groups-euskadi-ta-askatasuna-and-farc-plot-to-k.md)
-_Context: Colombia, Spain, FARC, Venezuela, Euskadi Ta Askatasuna, Alvaro Uribe, Colombian President_
+_Context: FARC, Colombian President, Alvaro Uribe, Spain, Colombia, Euskadi Ta Askatasuna, Venezuela_
 
 ##### Kodjovi Obilale
 ### [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md)
-_Context: Johannesburg, Kodjovi Obilale, 2010 Africa Cup of Nations, France, Togo national football team attack, Angola_
+_Context: Togo national football team attack, 2010 Africa Cup of Nations, Johannesburg, Angola, France, Kodjovi Obilale_
 
 ##### President of the Federation of Bosnia and Herzegovina
 ### [63-year-old former President of the Federation of Bosnia and Herzegovina Ejup Ganic is detained at London Heathrow Airport while trying to leave the UK to escape charges of war crimes. ](/news/2010/03/1/63-year-old-former-president-of-the-federation-of-bosnia-and-herzegovina-ejup-gania-is-detained-at-london-heathrow-airport-while-trying-to.md)
@@ -41,7 +41,7 @@ A former president of Bosnia accused of war crimes was arrested today at Heathro
 
 ##### Palestine
 ### [The Palestinian cabinet moves its weekly meeting from Ramallah to Hebron in a symbolic protest at the decision by Israel to add Hebron's Cave of the Patriarchs and Rachel's Tomb in Bethlehem to its list of national heritage sites. ](/news/2010/03/1/the-palestinian-cabinet-moves-its-weekly-meeting-from-ramallah-to-hebron-in-a-symbolic-protest-at-the-decision-by-israel-to-add-hebron-s-cav.md)
-_Context: Ramallah, Rachel's Tomb, Cave of the Patriarchs, Hebron, Israel, Bethlehem, Palestine_
+_Context: Rachel's Tomb, Israel, Palestine, Ramallah, Bethlehem, Hebron, Cave of the Patriarchs_
 
 ##### Radovan Karadzic
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes in The Hague. ](/news/2010/03/1/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-in-the-hague.md)
@@ -57,19 +57,19 @@ A convicted member of the Basque separatist group ETA is to be extradited to Spa
 
 ##### Toyota
 ### [Toyota president Akio Toyoda apologies to his Chinese customers in Earth's largest auto mart. ](/news/2010/03/1/toyota-president-akio-toyoda-apologies-to-his-chinese-customers-in-earth-s-largest-auto-mart.md)
-_Context: Toyota, Akio Toyoda, Earth_
+_Context: Earth, Akio Toyoda, Toyota_
 
 ##### Sikh
 ### [Two of three Sikhs kidnapped in Khyber Agency on the Afghan border in January are recovered by Pakistan's security forces. The decapitated corpse of the other was found last week. ](/news/2010/03/1/two-of-three-sikhs-kidnapped-in-khyber-agency-on-the-afghan-border-in-january-are-recovered-by-pakistan-s-security-forces-the-decapitated-c.md)
-_Context: Pakistan, Sikh, Khyber Agency, Afghan_
+_Context: Khyber Agency, Afghan, Pakistan, Sikh_
 
 ##### Robert Mugabe
 ### [Robert Mugabe's indiginisation law begins, with 51 per cent of each company being given to black Zimbabweans. ](/news/2010/03/1/robert-mugabe-s-indiginisation-law-begins-with-51-per-cent-of-each-company-being-given-to-black-zimbabweans.md)
-_Context: Robert Mugabe, black, Zimbabwe_
+_Context: black, Robert Mugabe, Zimbabwe_
 
 ##### Petition
 ### [A petition featuring 450,000 international names in opposition of Uganda's Anti-Homosexuality Bill is given to the speaker of parliament, Edward Ssekandi, by an Anglican priest and an HIV-AIDS activist. ](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.md)
-_Context: law, AIDS, HIV, petition, Edward Ssekandi, Uganda_
+_Context: petition, AIDS, law, HIV, Edward Ssekandi, Uganda_
 
 ##### Grant Denyer
 ### [Over 5,000 people, including a pregnant woman and TV weatherman Grant Denyer, strip naked and are photographed at the Sydney Opera House during the Sydney Gay and Lesbian Mardi Gras, double the number which had been expected. ](/news/2010/03/1/over-5-000-people-including-a-pregnant-woman-and-tv-weatherman-grant-denyer-strip-naked-and-are-photographed-at-the-sydney-opera-house-dur.md)

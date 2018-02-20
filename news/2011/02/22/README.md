@@ -21,7 +21,7 @@ Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, 
 
 ##### Jamaica
 ### [Jamaican reggae singer Buju Banton is found guilty on drugs charges in the U.S. state of Florida. ](/news/2011/02/22/jamaican-reggae-singer-buju-banton-is-found-guilty-on-drugs-charges-in-the-u-s-state-of-florida.md)
-_Context: drugs, Jamaica, reggae, Florida, Buju Banton_
+_Context: drugs, Florida, Jamaica, Buju Banton, reggae_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md)
@@ -65,7 +65,7 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 
 ##### King of Bahrain
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa orders the release of political prisoners in response to the 2011 Bahraini protests. ](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.md)
-_Context: Hamad ibn Isa Al Khalifa, 2011 Bahraini protests, King of Bahrain_
+_Context: 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain_
 
 ##### Democrat
 ### [The Democrats in the Indiana House of Representatives leave for other states in the U.S. rather than vote on anti-union legislation. ](/news/2011/02/22/the-democrats-in-the-indiana-house-of-representatives-leave-for-other-states-in-the-u-s-rather-than-vote-on-anti-union-legislation.md)
@@ -73,7 +73,7 @@ _Context: Indiana House of Representatives, Democrat_
 
 ##### USA
 ### [Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of-staff-rahm-emanuel-winni.md)
-_Context: Chicago mayoral election, Rahm Emanuel, USA, Chicago, Illinois, White House Chief of Staff_
+_Context: White House Chief of Staff, USA, Rahm Emanuel, Chicago mayoral election, Chicago, Illinois_
 
 ## [Previous Day...](/news/2011/02/21/index.md)
 

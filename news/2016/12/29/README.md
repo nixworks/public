@@ -17,7 +17,7 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 ##### Bank of Italy
 ### [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md)
-_Context: Bank of Italy, Monte dei Paschi, European Central Bank_
+_Context: Monte dei Paschi, Bank of Italy, European Central Bank_
 
 ##### 
 ### [At least 50 people drown and thousands are left homeless due to flooding in the Democratic Republic of the Congo. ](/news/2016/12/29/at-least-50-people-drown-and-thousands-are-left-homeless-due-to-flooding-in-the-democratic-republic-of-the-congo.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/11/index.html)  [JSON](2012/12/11/index.json)  [XML](201
 
 ##### Bombings
 ### [At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md)
-_Context: Aqrab, bombings, Syria, Alawite_
+_Context: Alawite, Syria, Aqrab, bombings_
 
 ##### Yemeni Army
 ### [A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md)
@@ -17,11 +17,11 @@ Egypt&#039;s army chief calls for talks on national unity to end the country&#03
 
 ##### Ulster Unionist Party
 ### [Ulster Unionist Party leader Mike Nesbitt calls for an end to street protests over Belfast City Council's decision to restrict the flying of the union flag after loyalists threw a petrol bomb into a police vehicle in which a female officer was sitting at the time. ](/news/2012/12/11/ulster-unionist-party-leader-mike-nesbitt-calls-for-an-end-to-street-protests-over-belfast-city-council-s-decision-to-restrict-the-flying-of.md)
-_Context: Mike Nesbitt, police vehicle, Ulster Unionist Party, petrol bomb, union flag, Belfast City Council, Ulster loyalism_
+_Context: Ulster loyalism, union flag, Mike Nesbitt, Ulster Unionist Party, Belfast City Council, police vehicle, petrol bomb_
 
 ##### Russia
 ### [Russian soprano opera singer Galina Vishnevskaya, wife of Mstislav Rostropovich, dies in Moscow at the age of 86. ](/news/2012/12/11/russian-soprano-opera-singer-galina-vishnevskaya-wife-of-mstislav-rostropovich-dies-in-moscow-at-the-age-of-86.md)
-_Context: Moscow, Galina Vishnevskaya, soprano, Russia, Mstislav Rostropovich, opera_
+_Context: Galina Vishnevskaya, Russia, soprano, Mstislav Rostropovich, opera, Moscow_
 
 ##### Indians
 ### [Indian sitar virtuoso and classical composer Ravi Shankar dies in the U.S. city of San Diego at the age of 92. ](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.md)
@@ -69,15 +69,15 @@ Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was 
 
 ##### Mich.
 ### [Michigan's state government passes right to work legislation, making Michigan the 24th state and the most highly unionized state in the US to have such laws. Thousands of union employees protest outside the Michigan State Capitol in Lansing. ](/news/2012/12/11/michigan-s-state-government-passes-right-to-work-legislation-making-michigan-the-24th-state-and-the-most-highly-unionized-state-in-the-us-t.md)
-_Context: Mich., right to work, Michigan State Capitol, Lansing_
+_Context: right to work, Michigan State Capitol, Lansing, Mich._
 
 ##### Hugo Chvez
 ### [Hugo Chvez, the President of Venezuela, undergoes cancer surgery in Cuba. ](/news/2012/12/11/hugo-chavez-the-president-of-venezuela-undergoes-cancer-surgery-in-cuba.md)
-_Context: President, cancer surgery, Cuba, Hugo Chvez_
+_Context: cancer surgery, Cuba, President, Hugo Chvez_
 
 ##### Fundamental Physics Prize
 ### [The $3 million special Fundamental Physics Prize is awarded to Stephen Hawking, a British theoretical physicist. Seven scientists who led the Large Hadron Collider and discovered Higgs-like particle share another $3 million special prize which was founded by a Russian physicist and internet entrepreneur Yuri Milner. ](/news/2012/12/11/the-3-million-special-fundamental-physics-prize-is-awarded-to-stephen-hawking-a-british-theoretical-physicist-seven-scientists-who-led-th.md)
-_Context: British, Fundamental Physics Prize, Higgs boson, Russia, Stephen Hawking, Large Hadron Collider, Theoretical physicists, Yuri Milner_
+_Context: Russia, Stephen Hawking, British, Theoretical physicists, Fundamental Physics Prize, Higgs boson, Large Hadron Collider, Yuri Milner_
 
 ## [Previous Day...](/news/2012/12/10/index.md)
 

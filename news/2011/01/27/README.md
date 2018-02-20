@@ -17,15 +17,15 @@ _Context: Iranian state media, National Westminster Bank, Press TV_
 
 ##### Overstock.com
 ### [Internet retailer Overstock.com has amended its complaint in a long-standing lawsuit against Goldman Sachs and Merrill Lynch to demand treble damages under New Jersey's racketeering statute. Merrill Lynch is a subsidiary of Bank of America. ](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.md)
-_Context: Bank of America, Overstock.com, Merrill Lynch, New Jersey, Goldman Sachs_
+_Context: Bank of America, Merrill Lynch, Overstock.com, Goldman Sachs, New Jersey_
 
 ##### Media conglomerate
 ### [Giant media conglomerate News Corp. says it will launch a digital newspaper as content of Apple's iPad, on 2 February. This is a later launch date than many had expected. ](/news/2011/01/27/giant-media-conglomerate-news-corp-says-it-will-launch-a-digital-newspaper-as-content-of-apple-s-ipad-on-2-february-this-is-a-later-launc.md)
-_Context: media conglomerate, News Corp., digital newspaper, iPad_
+_Context: media conglomerate, iPad, News Corp., digital newspaper_
 
 ##### Residential apartment
 ### [Ten construction workers die after falling from the 28th floor of a skyscraper being built in Manila, the Philippine capital. ](/news/2011/01/27/ten-construction-workers-die-after-falling-from-the-28th-floor-of-a-skyscraper-being-built-in-manila-the-philippine-capital.md)
-_Context: Philippine, Manila, residential apartment_
+_Context: Philippine, residential apartment, Manila_
 
 ##### Australia
 ### [The Australian government proposes a new "flood tax" to raise funds for reconstruction work following severe flooding in the east of the country. ](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.md)
@@ -41,7 +41,7 @@ Tens of thousands of government workers in India protest at the brutal killing o
 
 ##### Macau
 ### [Macau tycoon Stanley Ho is to sue relatives accused of trying to steal his vast casino empire. ](/news/2011/01/27/macau-tycoon-stanley-ho-is-to-sue-relatives-accused-of-trying-to-steal-his-vast-casino-empire.md)
-_Context: Stanley Ho, Macau_
+_Context: Macau, Stanley Ho_
 
 ##### Botswana
 ### [A court in Botswana rules that indigenous Bushmen can drill wells for water in the Kalahari Desert. ](/news/2011/01/27/a-court-in-botswana-rules-that-indigenous-bushmen-can-drill-wells-for-water-in-the-kalahari-desert.md)
@@ -69,7 +69,7 @@ _Context: Burma, Human Rights Council, human rights record_
 
 ##### Supreme Court
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: Rahm Emanuel, Barack Obama, Mayor of Chicago, U.S. state, Supreme Court, Illinois, U.S. President_
+_Context: U.S. President, Barack Obama, Illinois, U.S. state, Supreme Court, Rahm Emanuel, Mayor of Chicago_
 
 ##### Tel Aviv University's
 ### [Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. ](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.md)

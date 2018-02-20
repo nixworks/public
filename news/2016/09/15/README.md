@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/15/index.html)  [JSON](2016/09/15/index.json)  [XML](201
 
 ##### Obama administration
 ### [The Obama administration through the U.S. Justice Department seeks a fine of $14 billion against Deutsche Bank in regards to mortgage securities. ](/news/2016/09/15/the-obama-administration-through-the-u-s-justice-department-seeks-a-fine-of-14-billion-against-deutsche-bank-in-regards-to-mortgage-securi.md)
-_Context: Obama administration, Deutsche Bank, Department of Justice_
+_Context: Department of Justice, Obama administration, Deutsche Bank_
 
 ##### Aung San Suu Kyi
 ### [Burmese State Counsellor Aung San Suu Kyi asks U.S. businesses to invest in Myanmar after Barack Obama agrees to lift U.S. sanctions. ](/news/2016/09/15/burmese-state-counsellor-aung-san-suu-kyi-asks-u-s-businesses-to-invest-in-myanmar-after-barack-obama-agrees-to-lift-u-s-sanctions.md)
@@ -13,11 +13,11 @@ _Context: Aung San Suu Kyi, Myanmar, Barack Obama_
 
 ##### 2016 Pacific typhoon season
 ### [The China Meteorological Administration forecasts that Typhoon Meranti will make landfall in south Fujian Province. ](/news/2016/09/15/the-china-meteorological-administration-forecasts-that-typhoon-meranti-will-make-landfall-in-south-fujian-province.md)
-_Context: Typhoon Meranti, Fujian Province, China Meteorological Administration, 2016 Pacific typhoon season_
+_Context: Typhoon Meranti, Fujian Province, 2016 Pacific typhoon season, China Meteorological Administration_
 
 ##### Awam Express
 ### [The Awam Express train collides with a freight train near the Pakistani city of Multan killing at least six people and injuring another 150. ](/news/2016/09/15/the-awam-express-train-collides-with-a-freight-train-near-the-pakistani-city-of-multan-killing-at-least-six-people-and-injuring-another-150.md)
-_Context: Awam Express, Multan, Pakistan_
+_Context: Multan, Pakistan, Awam Express_
 
 ##### Indonesia
 ### [An explosion on a tourist speed boat kills two people and injures 20 others shortly after departing from the Indonesian port of Padangbai in Karangasem, Bali. ](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.md)
@@ -41,11 +41,11 @@ Bipartisan members of the House Intelligence Committee denounce Edward Snowden a
 
 ##### Japan
 ### [Japan's Democratic Party elects Sha Renho as President. The House of Councillors member becomes the first female to head the opposition party. ](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.md)
-_Context: Democratic Party, Sha Renho, Japan, House of Councillors_
+_Context: Sha Renho, Japan, House of Councillors, Democratic Party_
 
 ##### Tiangong program
 ### [The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.md)
-_Context: Inner Mongolia, Jiuquan Satellite Launch Center, Tiangong program, Tiangong-2, China National Space Administration_
+_Context: Tiangong program, Tiangong-2, China National Space Administration, Inner Mongolia, Jiuquan Satellite Launch Center_
 
 ## [Previous Day...](/news/2016/09/14/index.md)
 

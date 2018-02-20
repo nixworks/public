@@ -5,19 +5,19 @@ Formats: [HTML](2010/10/24/index.html)  [JSON](2010/10/24/index.json)  [XML](201
 
 ##### Palid
 ### [Six killed in shooting rampage inside militia outpost in Palid, Ipil town, in the Zamboanga Sibugay province of the South Philippines. ](/news/2010/10/24/six-killed-in-shooting-rampage-inside-militia-outpost-in-palid-ipil-town-in-the-zamboanga-sibugay-province-of-the-south-philippines.md)
-_Context: Palid, Zamboanga Sibugay, Ipil, Philippines, South_
+_Context: Ipil, Zamboanga Sibugay, Palid, Philippines, South_
 
 ##### South Korea
 ### [South Korea and the United States cancel a joint naval drill against North Korea in the Yellow Sea, citing its previous anti-submarine training -- held from Sept. 27 to Oct. 1 -- and a desire "not to irritate neighboring countries" ahead of the upcoming 2010 G-20 Seoul summit. ](/news/2010/10/24/south-korea-and-the-united-states-cancel-a-joint-naval-drill-against-north-korea-in-the-yellow-sea-citing-its-previous-anti-submarine-train.md)
-_Context: South Korea, 2010 G-20 Seoul summit, Yellow Sea, United States, North Korea_
+_Context: South Korea, United States, Yellow Sea, 2010 G-20 Seoul summit, North Korea_
 
 ##### Karachi
 ### [Despite the law enforcement agencies being on alert in Karachi city of Pakistan, four more people are killed in the Agra Taj Colony, Kausar Niazi Colony. ](/news/2010/10/24/despite-the-law-enforcement-agencies-being-on-alert-in-karachi-city-of-pakistan-four-more-people-are-killed-in-the-agra-taj-colony-kausar.md)
-_Context: Kausar Niazi Colony, Agra Taj Colony, Karachi_
+_Context: Kausar Niazi Colony, Karachi, Agra Taj Colony_
 
 ##### Somali pirates
 ### [Somali pirates attack and seize two ships in the Indian Ocean. ](/news/2010/10/24/somali-pirates-attack-and-seize-two-ships-in-the-indian-ocean.md)
-_Context: Somali pirates, Indian_
+_Context: Indian, Somali pirates_
 
 ##### Bang-Bang Club
 ### [Bang-Bang Club photographer Joao Silva is injured when treading on a mine while working near Arghandab, Afghanistan. ](/news/2010/10/24/bang-bang-club-photographer-joao-silva-is-injured-when-treading-on-a-mine-while-working-near-arghandab-afghanistan.md)
@@ -41,7 +41,7 @@ _Context: Shanghai World Expo_
 
 ##### Christopher Pissarides
 ### [Nobel-winning economist Christopher Pissarides states that Britain's Finance Minister George Osborne is exaggerating the possibility of a crisis and unnecessarily risking the country's economic recovery with his deep spending cuts. ](/news/2010/10/24/nobel-winning-economist-christopher-pissarides-states-that-britain-s-finance-minister-george-osborne-is-exaggerating-the-possibility-of-a-cr.md)
-_Context: George Osborne, Christopher Pissarides_
+_Context: Christopher Pissarides, George Osborne_
 
 ##### Google
 ### [Britain's privacy watchdog is to investigate Google once again, charging it with gathering personal information from private wi-fi networks. Google admits collecting details such as passwords and e-mails. ](/news/2010/10/24/britain-s-privacy-watchdog-is-to-investigate-google-once-again-charging-it-with-gathering-personal-information-from-private-wi-fi-networks.md)
@@ -65,7 +65,7 @@ _Context: President of Ecuador, Rafael Correa, protested against being stripped 
 
 ##### Chinese
 ### [China and Bangladesh want green technology free of cost. Hasan Mahmud held a meeting with global warming negotiators in the UNFCCC climate talks and chairman of National Development and Reform Commission of China Xie Zhenhua. ](/news/2010/10/24/china-and-bangladesh-want-green-technology-free-of-cost-hasan-mahmud-held-a-meeting-with-global-warming-negotiators-in-the-unfccc-climate-t.md)
-_Context: green technology, Hasan Mahmud, pro- and anti, UNFCCC, National Development and Reform Commission, Xie Zhenhua, Chinese, Bangladesh_
+_Context: Bangladesh, UNFCCC, Chinese, Hasan Mahmud, National Development and Reform Commission, pro- and anti, Xie Zhenhua, green technology_
 
 ##### Nwoya
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
@@ -93,11 +93,11 @@ One of three people killed in a helicopter crash in County Down was a personal f
 
 ##### Wang Qi-shan
 ### [Chinese Vice Premier Wang Qi-shan has held talks with US Treasury, Secretary Timothy Geithner at Qingdao Airport, east China's Shandong province. They exchanged views on Sino-US economic relations, and preparations for the upcoming G20 Summit. ](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talks-with-us-treasury-secretary-timothy-geithner-at-qingdao-airport-east-china-s-shandong-prov.md)
-_Context: Qingdao Airport, Chinese, Sino-American relations, Timothy Geithner, Shandong, G20, Wang Qi-shan_
+_Context: Qingdao Airport, Wang Qi-shan, Sino-American relations, G20, Shandong, Timothy Geithner, Chinese_
 
 ##### Darfur
 ### [Darfur's rebel Justice and Equality Movement says it is ready to start discussions with international mediators in Qatar, but was not yet prepared to re-join full peace negotiations, saying Sudan's government had broken a ceasefire ](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.md)
-_Context: Justice and Equality Movement, Qatar, Sudan, Darfur_
+_Context: Qatar, Darfur, Justice and Equality Movement, Sudan_
 
 ##### The Pope
 ### [The Pope calls for an end to conflict in the Middle East, and for Islamic countries in the Middle East to guarantee freedom of worship to non-Muslims. ](/news/2010/10/24/the-pope-calls-for-an-end-to-conflict-in-the-middle-east-and-for-islamic-countries-in-the-middle-east-to-guarantee-freedom-of-worship-to-no.md)
@@ -113,17 +113,17 @@ Teenager among the five suspects detained over the attack which killed 10 people
 
 ##### Peter Tatchell
 ### [A campaign led by Peter Tatchell is to legally challenge Britain's ban on same-sex marriage and heterosexual civil partnerships; eight couples are to file applications for the illegal ceremonies. ](/news/2010/10/24/a-campaign-led-by-peter-tatchell-is-to-legally-challenge-britain-s-ban-on-same-sex-marriage-and-heterosexual-civil-partnerships-eight-coupl.md)
-_Context: Peter Tatchell, same-sex marriage_
+_Context: same-sex marriage, Peter Tatchell_
 
 ##### 
 ### [Three U.S. citizens are to stand trial on charges of spying in Iran after illegally entering the country. ](/news/2010/10/24/three-u-s-citizens-are-to-stand-trial-on-charges-of-spying-in-iran-after-illegally-entering-the-country.md)
 ##### Sweden
 ### [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md)
-_Context: 2009-10 Malmo shootings, Malmo, Sweden_
+_Context: Malmo, 2009-10 Malmo shootings, Sweden_
 
 ##### Mengniu
 ### [Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. ](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.md)
-_Context: Inner Mongolia, Hohhot, Mengniu, Yili Group, public relations_
+_Context: Yili Group, Inner Mongolia, Hohhot, public relations, Mengniu_
 
 ##### Israel
 ### [Israel's military police investigates an air raid that killed at least 21 members of a single family and injured 19 others during the 2008-2009 Gaza War. ](/news/2010/10/24/israel-s-military-police-investigates-an-air-raid-that-killed-at-least-21-members-of-a-single-family-and-injured-19-others-during-the-2008-2.md)
@@ -139,7 +139,7 @@ _Context: Mexico, drug rehabilitation, Tijuana_
 
 ##### David Cameron
 ### [David Cameron bans Sayeeda Warsi, Baroness Warsi, Britain's first female Muslim cabinet minister, from attending Global Peace and Unity, Europe's largest multicultural gathering. Nick Clegg takes the side of Baroness Warsi. ](/news/2010/10/24/david-cameron-bans-sayeeda-warsi-baroness-warsi-britain-s-first-female-muslim-cabinet-minister-from-attending-global-peace-and-unity-eur.md)
-_Context: David Cameron, Sayeeda Warsi, Baroness Warsi, Global Peace and Unity, Nick Clegg_
+_Context: David Cameron, Nick Clegg, Global Peace and Unity, Sayeeda Warsi, Baroness Warsi_
 
 ##### Ghana
 ### [Ghana-born doctor Peter Bossman becomes Mayor of Piran (Slovenia), the first black mayor of a town in the so-called former Eastern Bloc of Europe. ](/news/2010/10/24/ghana-born-doctor-peter-bossman-becomes-mayor-of-piran-slovenia-the-first-black-mayor-of-a-town-in-the-so-called-former-eastern-bloc-of-e.md)
@@ -151,7 +151,7 @@ _Context: Supreme Court of Iraq_
 
 ##### Bahrain
 ### [Bahrain's elections officials say voter turnout was 67 per cent in the parliamentary election. The main Shia opposition group, Al Wefaq, kept its 18 seats in the 40-member legislature. ](/news/2010/10/24/bahrain-s-elections-officials-say-voter-turnout-was-67-per-cent-in-the-parliamentary-election-the-main-shia-opposition-group-al-wefaq-kep.md)
-_Context: Bahrain, Shia, parliamentary election, Al Wefaq_
+_Context: Bahrain, Al Wefaq, parliamentary election, Shia_
 
 ##### Margaret Thatcher
 ### [Former UK Prime Minister Margaret Thatcher is reported to be a "lot brighter" following her hospitalisation with the influenza that disrupted her 85th birthday reception. ](/news/2010/10/24/former-uk-prime-minister-margaret-thatcher-is-reported-to-be-a-lot-brighter-following-her-hospitalisation-with-the-influenza-that-disrupte.md)
@@ -159,7 +159,7 @@ _Context: Margaret Thatcher_
 
 ##### Cellou Dalein Diallo
 ### [Cellou Dalein Diallo and Alpha Conde, the two candidates in the second round of the Guinean presidential election, call for calm after the election is delayed. ](/news/2010/10/24/cellou-dalein-diallo-and-alpha-conda-c-the-two-candidates-in-the-second-round-of-the-guinean-presidential-election-call-for-calm-after-the.md)
-_Context: Cellou Dalein Diallo, November's presidential poll, Alpha Conde's_
+_Context: Alpha Conde's, Cellou Dalein Diallo, November's presidential poll_
 
 ## [Previous Day...](/news/2010/10/23/index.md)
 

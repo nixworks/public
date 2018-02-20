@@ -9,7 +9,7 @@ At least four gunmen launched an attack, according to Afghan officials
 
 ##### Turkish military intervention in Afrin
 ### [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md)
-_Context: Turkish military intervention in Afrin, Turkish Prime Minister, Turkish Army ground troops, Syria, Binali Yildirim, Recep Tayyip Erdogan, President of Turkey, Afrin District_
+_Context: Turkish Prime Minister, Recep Tayyip Erdogan, Turkish Army ground troops, Binali Yildirim, Syria, Afrin District, President of Turkey, Turkish military intervention in Afrin_
 
 ##### Turkish military intervention in Afrin
 ### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
@@ -17,7 +17,7 @@ The United Nations Security Council will hold talks about the situation in Syria
 
 ##### Jordan-United States relations
 ### [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md)
-_Context: recognize Jerusalem as Israel's capital, Mike Pence, Israel, Abdullah II of Jordan, Jordan-United States relations, two-state solution_
+_Context: Jordan-United States relations, recognize Jerusalem as Israel's capital, two-state solution, Mike Pence, Abdullah II of Jordan, Israel_
 
 ##### 2018 Women's March
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)

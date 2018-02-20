@@ -9,7 +9,7 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 
 ##### Head-on collision
 ### [Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. ](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.md)
-_Context: Amsterdam, head-on collision, Sloterdijk, Netherlands_
+_Context: Sloterdijk, head-on collision, Netherlands, Amsterdam_
 
 ##### Japan
 ### [Japan agrees to write off more than US$3.7 billion of debt owed by Burma and to resume development aid. ](/news/2012/04/21/japan-agrees-to-write-off-more-than-us-3-7-billion-of-debt-owed-by-burma-and-to-resume-development-aid.md)
@@ -25,7 +25,7 @@ _Context: Kenya, poachers, Great Rift Valley_
 
 ##### Rutte cabinet
 ### [The Rutte cabinet, the minority cabinet of the Netherlands, collapses after partner Party for Freedom suspends its support. ](/news/2012/04/21/the-rutte-cabinet-the-minority-cabinet-of-the-netherlands-collapses-after-partner-party-for-freedom-suspends-its-support.md)
-_Context: Party for Freedom, Netherlands, Rutte cabinet_
+_Context: Rutte cabinet, Netherlands, Party for Freedom_
 
 ##### Species
 ### [Four new species of freshwater crab &ndash;bright purple in colour&ndash; are found in the Philippines. ](/news/2012/04/21/four-new-species-of-freshwater-crab-ndash-bright-purple-in-colour-ndash-are-found-in-the-philippines.md)

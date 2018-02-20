@@ -29,7 +29,7 @@ A diamond called the Pink Star has fetched a record price for a gemstone by sell
 
 ##### One World Trade Center
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, United States_
+_Context: United States, One World Trade Center_
 
 ##### Poppy
 ### [Poppy farmers in Afghanistan report record yields for their opium crops. ](/news/2013/11/13/poppy-farmers-in-afghanistan-report-record-yields-for-their-opium-crops.md)
@@ -45,7 +45,7 @@ _Context: Philippines_
 
 ##### Marine
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
-_Context: Marine Corps Base Camp Pendleton, Marine, ordnance, Southern California_
+_Context: ordnance, Southern California, Marine, Marine Corps Base Camp Pendleton_
 
 ##### State Department
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)
@@ -53,11 +53,11 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### Chinese
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Saudi Arabia, Cuba, Algeria, Vietnam, Russia, Human Rights Council, Chinese, United Nations_
+_Context: United Nations, Saudi Arabia, Chinese, Human Rights Council, Cuba, Vietnam, Algeria, Russia_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
-_Context: Australia, Politics of Australia, Kevin Rudd_
+_Context: Kevin Rudd, Politics of Australia, Australia_
 
 ##### Wikileak
 ### [Wikileaks publishes a secret draft chapter of the Trans-Pacific Partnership. ](/news/2013/11/13/wikileaks-publishes-a-secret-draft-chapter-of-the-trans-pacific-partnership.md)
@@ -69,7 +69,7 @@ New data also show that in the first month of open enrollment, 26,794 signed up 
 
 ##### Southern Ocean
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
-_Context: Antarctica, Southern Ocean, Pine Island Glacier_
+_Context: Antarctica, Pine Island Glacier, Southern Ocean_
 
 ##### Panthera blytheae
 ### [Scientists discover "Panthera blytheae" in Tibet, the oldest big cat fossil ever discovered. ](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.md)
@@ -77,7 +77,7 @@ A sister species of the snow leopard roamed the plateau of Tibet nearly 5 millio
 
 ##### World Wildlife Fund
 ### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn't been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
-_Context: World Wildlife Fund, central Vietnam, saola_
+_Context: saola, central Vietnam, World Wildlife Fund_
 
 ## [Previous Day...](/news/2013/11/12/index.md)
 

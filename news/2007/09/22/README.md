@@ -13,7 +13,7 @@ _Context: Myanmar, Mandalay, 2007 Burmese anti-government protests_
 
 ##### Alberto Fujimori
 ### [ Former Peruvian President Alberto Fujimori arrives in Lima a day after Chile's Supreme Court ruled his extradition back to his home country due to charges of human rights abuses and corruption. ](/news/2007/09/22/former-peruvian-president-alberto-fujimori-arrives-in-lima-a-day-after-chile-s-supreme-court-ruled-his-extradition-back-to-his-home-country.md)
-_Context: extradition, Lima, Supreme Court, Alberto Fujimori_
+_Context: extradition, Alberto Fujimori, Lima, Supreme Court_
 
 ## [Previous Day...](/news/2007/09/21/index.md)
 

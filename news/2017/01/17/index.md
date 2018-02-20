@@ -21,11 +21,11 @@ _Context: Malaysia Airlines Flight 370_
 
 ##### Israeli-Palestinian peace process
 ### [Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md)
-_Context: Israeli-Palestinian peace process, Benjamin Netanyahu_
+_Context: Benjamin Netanyahu, Israeli-Palestinian peace process_
 
 ##### Moldova-European Union relations
 ### [Moldovan President Igor Dodon, during his first state visit to Russia, says Moldova could scrap the 2014 Moldova-European Union Association Agreement after the country's next parliamentary election. ](/news/2017/01/17/moldovan-president-igor-dodon-during-his-first-state-visit-to-russia-says-moldova-could-scrap-the-2014-moldovaaeuropean-union-associatio.md)
-_Context: Igor Dodon, Moldovan President, Moldova-European Union relations, Russia, Moldova-European Union Association Agreement, parliamentary election_
+_Context: parliamentary election, Moldova-European Union Association Agreement, Moldova-European Union relations, Moldovan President, Igor Dodon, Russia_
 
 ##### Barack Obama presidential pardons
 ### [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md)

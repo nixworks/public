@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/3/index.html)  [JSON](2012/09/3/index.json)  [XML](2012/
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)
-_Context: Government of Syria, humanitarian situation, International Committee of the Red Cross, Damascus, Syria_
+_Context: International Committee of the Red Cross, Government of Syria, Syria, Damascus, humanitarian situation_
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: Bamiyan, New Zealand, Afghan, New Zealand Defence Force_
+_Context: Bamiyan, New Zealand Defence Force, New Zealand, Afghan_
 
 ##### Car bomb
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
@@ -21,11 +21,11 @@ Shares of world No. 3 platinum producer Lonmin (LONJ.J) rose 3.5 percent on Mond
 
 ##### Michael Clarke Duncan
 ### [American actor Michael Clarke Duncan dies in Los Angeles at the age of 54. ](/news/2012/09/3/american-actor-michael-clarke-duncan-dies-in-los-angeles-at-the-age-of-54.md)
-_Context: Los Angeles, Michael Clarke Duncan_
+_Context: Michael Clarke Duncan, Los Angeles_
 
 ##### Jefferson Starship
 ### [Jefferson Starship guitarist Mark Abrahamian, aged 46, dies of a heart attack after a concert. ](/news/2012/09/3/jefferson-starship-guitarist-mark-abrahamian-aged-46-dies-of-a-heart-attack-after-a-concert.md)
-_Context: Jefferson Starship, Mark Abrahamian_
+_Context: Mark Abrahamian, Jefferson Starship_
 
 ##### Moody's Investors Service
 ### [The Moody's agency changes its outlook on the European Union's Aaa credit rating from stable to negative. ](/news/2012/09/3/the-moody-s-agency-changes-its-outlook-on-the-european-union-s-aaa-credit-rating-from-stable-to-negative.md)
@@ -41,7 +41,7 @@ Before heading to lunch or going out for drinks, find an ashtray and stub out th
 
 ##### South Korea
 ### [South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. ](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.md)
-_Context: dispute, Japan, first fleet, Liancourt Rocks, South Korea_
+_Context: dispute, Japan, first fleet, South Korea, Liancourt Rocks_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md)

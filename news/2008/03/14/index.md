@@ -9,23 +9,23 @@ The notoriously congested London airport has opened a fifth terminal, at a cost 
 
 ##### Colombia
 ### [ Colombian Ministry of National Defense Juan Manuel Santos says the government will pay US$2.5 million to Pedro Pablo Montoya, the FARC rebel who killed Ivn Ros. ](/news/2008/03/14/colombian-ministry-of-national-defense-juan-manuel-santos-says-the-government-will-pay-us-2-5-million-to-pedro-pablo-montoya-the-farc-rebe.md)
-_Context: Ivn Ros, government, United States dollars, Revolutionary Armed Forces of Colombia, Juan Manuel Santos, Colombia, Minister of National Defence_
+_Context: Minister of National Defence, United States dollars, Colombia, government, Juan Manuel Santos, Revolutionary Armed Forces of Colombia, Ivn Ros_
 
 ##### Muhammed Rahim
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
-_Context: Tora Bora, Osama bin Laden, al-Qaeda, Afghan, Guantanamo Bay detention camp, Muhammed Rahim_
+_Context: Osama bin Laden, al-Qaeda, Muhammed Rahim, Afghan, Tora Bora, Guantanamo Bay detention camp_
 
 ##### Brussels
 ### [ After a summit in Brussels, European Union leaders agree to a 20% reduction in greenhouse gases by 2020. ](/news/2008/03/14/after-a-summit-in-brussels-european-union-leaders-agree-to-a-20-reduction-in-greenhouse-gases-by-2020.md)
-_Context: greenhouse gas, European Union, Brussels_
+_Context: greenhouse gas, Brussels, European Union_
 
 ##### United States
 ### [ United States investment bank Bear Stearns gets emergency funding from JPMorgan Chase, with the Federal Reserve Bank of New York's backing. ](/news/2008/03/14/united-states-investment-bank-bear-stearns-gets-emergency-funding-from-jpmorgan-chase-with-the-federal-reserve-bank-of-new-york-s-backing.md)
-_Context: United States, JPMorgan Chase, investment bank, Bear Stearns, Federal Reserve Bank of New York_
+_Context: Bear Stearns, Federal Reserve Bank of New York, JPMorgan Chase, United States, investment bank_
 
 ##### Tornado
 ### [ An EF2 tornado hits Atlanta, Georgia, damaging many buildings including the CNN Center, the Georgia Dome, the World Congress Center and the Philips Arena. ](/news/2008/03/14/an-ef2-tornado-hits-atlanta-georgia-damaging-many-buildings-including-the-cnn-center-the-georgia-dome-the-world-congress-center-and-the.md)
-_Context: CNN Center, Philips Arena, tornado, Atlanta, Georgia, Georgia, World Congress Center, Georgia Dome_
+_Context: tornado, World Congress Center, Philips Arena, Atlanta, Georgia, Georgia, CNN Center, Georgia Dome_
 
 ##### Iran
 ### [ Iranian voters go to the polls in legislative election. Nearly 90 percent of reformist candidates have been disqualified from the election. ](/news/2008/03/14/iranian-voters-go-to-the-polls-in-legislative-election-nearly-90-percent-of-reformist-candidates-have-been-disqualified-from-the-election.md)
@@ -33,15 +33,15 @@ _Context: legislative election, Iran_
 
 ##### Lhasa
 ### [ Seven are reported dead in Lhasa, Tibet as protests turn violent. Protests began Monday on the anniversary of the failed 1959 Tibetan uprising with calls for the release of detained Buddhist monks. Other protests followed calling for Tibetan independence and displaying the banned Tibetan national flag. ](/news/2008/03/14/seven-are-reported-dead-in-lhasa-tibet-as-protests-turn-violent-protests-began-monday-on-the-anniversary-of-the-failed-1959-tibetan-upris.md)
-_Context: possible protests, protests turn violent, Tibet, Lhasa, free Tibet_
+_Context: protests turn violent, free Tibet, Lhasa, Tibet, possible protests_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez dares the United States to designate Venezuela as a state sponsor of terrorism. ](/news/2008/03/14/venezuelan-president-hugo-chavez-dares-the-united-states-to-designate-venezuela-as-a-state-sponsor-of-terrorism.md)
-_Context: Venezuela, Venezuelan President, state sponsor of terrorism, United States, Hugo Chvez_
+_Context: state sponsor of terrorism, Hugo Chvez, Venezuela, United States, Venezuelan President_
 
 ##### Saint Patrick's Day
 ### [ Saint Patrick's Day happens today, not the usual March 17th.&nbsp; ](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.md)
-_Context: Saint Patrick's Day, March 17th_
+_Context: March 17th, Saint Patrick's Day_
 
 ## [Previous Day...](/news/2008/03/13/index.md)
 

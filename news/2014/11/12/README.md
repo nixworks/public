@@ -13,7 +13,7 @@ Russia has said it will conduct regular air patrols to the Caribbean and the Gul
 
 ##### Yemen
 ### [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md)
-_Context: Yemen, Ansar al-Sharia, Sunni, Houthi, Houthi militants, central Yemen_
+_Context: central Yemen, Houthi militants, Ansar al-Sharia, Sunni, Yemen, Houthi_
 
 ##### Azerbaijan
 ### [Azerbaijan shoots down an Armenian Mil Mi-24 military helicopter. ](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.md)
@@ -21,7 +21,7 @@ Azerbaijan shot down an Armenian helicopter that it said violated its airspace i
 
 ##### ISIL
 ### [Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across-iraq.md)
-_Context: Iraq, ISIL, Suicide bombing_
+_Context: ISIL, Suicide bombing, Iraq_
 
 ##### Islamist unrest in Egypt (2013-14)
 ### [Gunmen attack an Egyptian Navy ship on the Mediterranean Sea with eight sailors missing and four injured after the attack. Thirty-two of the gunmen have been captured with four reported as dead. ](/news/2014/11/12/gunmen-attack-an-egyptian-navy-ship-on-the-mediterranean-sea-with-eight-sailors-missing-and-four-injured-after-the-attack-thirty-two-of-the.md)
@@ -29,7 +29,7 @@ _Context: Mediterranean Sea, navy, Islamist unrest in Egypt (2013-14)_
 
 ##### ASEAN Summit
 ### [The 25th ASEAN Summit is held in the city of Naypyidaw, the capital of Myanmar. ](/news/2014/11/12/the-25th-asean-summit-is-held-in-the-city-of-naypyidaw-the-capital-of-myanmar.md)
-_Context: Myanmar, ASEAN Summit, Naypyidaw_
+_Context: Naypyidaw, ASEAN Summit, Myanmar_
 
 ##### Chinese
 ### [Chinese leader Xi Jinping and President of the United States Barack Obama reach a deal to limit greenhouse gases. ](/news/2014/11/12/chinese-leader-xi-jinping-and-president-of-the-united-states-barack-obama-reach-a-deal-to-limit-greenhouse-gases.md)

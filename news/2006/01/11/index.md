@@ -9,11 +9,11 @@ _Context: Asia-Pacific Partnership for Clean Development and Climate, Sydney_
 
 ##### Knife
 ### [ A knife-wielding man enters a synagogue in Moscow and stabs at least eight people. ](/news/2006/01/11/a-knife-wielding-man-enters-a-synagogue-in-moscow-and-stabs-at-least-eight-people.md)
-_Context: knife, synagogue, Moscow_
+_Context: knife, Moscow, synagogue_
 
 #####  Georgian
 ### [ In Georgia, Vladimir Arutinian is convicted of the attempted assassination of U.S. President George W. Bush and terrorist charges and sentenced with life imprisonment. ](/news/2006/01/11/in-georgia-vladimir-arutinian-is-convicted-of-the-attempted-assassination-of-u-s-president-george-w-bush-and-terrorist-charges-and-sente.md)
-_Context: assassination, Vladimir Arutinian, life imprisonment, George W. Bush,  Georgian, U.S. President_
+_Context: life imprisonment, George W. Bush, assassination, Vladimir Arutinian,  Georgian, U.S. President_
 
 ## [Previous Day...](/news/2006/01/10/index.md)
 

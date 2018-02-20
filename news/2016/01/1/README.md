@@ -13,7 +13,7 @@ _Context: St. Aloysius Catholic Church, Jesus, Imo state_
 
 ##### Manila
 ### [About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. ](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.md)
-_Context: Tondo, New Year's Eve, Manila, Philippines, firecracker_
+_Context: Manila, firecracker, Tondo, New Year's Eve, Philippines_
 
 ##### EU-Ukraine Free Trade deal
 ### [ The EU-Ukraine Free Trade deal officially comes into force, coinciding with a Russian food embargo on Ukraine. ](/news/2016/01/1/the-eu-ukraine-free-trade-deal-officially-comes-into-force-coinciding-with-a-russian-food-embargo-on-ukraine.md)
@@ -25,7 +25,7 @@ Under the new law, married couples are now allowed to have a second child, but t
 
 ##### Olafur Ragnar Grimsson
 ### [Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. ](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.md)
-_Context: Olafur Ragnar Grimsson, Icelandic presidential election, 2016, president_
+_Context: Olafur Ragnar Grimsson, president, Icelandic presidential election, 2016_
 
 ## [Previous Day...](/news/2015/12/31/index.md)
 

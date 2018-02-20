@@ -9,7 +9,7 @@ Last week’s stock sell-off gave way to a big rally as countries around the wor
 
 ##### Summer 2008 California wildfires
 ### [ A second wildfire breaks out in the hills above Los Angeles' San Fernando Valley prompting mandatory evacuations. ](/news/2008/10/13/a-second-wildfire-breaks-out-in-the-hills-above-los-angeles-san-fernando-valley-prompting-mandatory-evacuations.md)
-_Context: wildfire, San Fernando Valley, Summer 2008 California wildfires, Los Angeles_
+_Context: San Fernando Valley, wildfire, Summer 2008 California wildfires, Los Angeles_
 
 ##### United Kingdom
 ### [ The United Kingdom House of Lords rejects the Counter-Terrorism Bill 2008 by 309 votes to 118. ](/news/2008/10/13/the-united-kingdom-house-of-lords-rejects-the-counter-terrorism-bill-2008-by-309-votes-to-118.md)
@@ -17,11 +17,11 @@ The House of Lords firmly rejected a government proposal to tighten anti-terrori
 
 ##### European Union
 ### [ The European Union temporarily lifts travel bans on Belarusian President Alexander Lukashenko and other top officials for six months to encourage democratic reforms in that country. ](/news/2008/10/13/the-european-union-temporarily-lifts-travel-bans-on-belarusian-president-alexander-lukashenko-and-other-top-officials-for-six-months-to-enc.md)
-_Context: Belarus, Belarussian President, European Union, Alexander Lukashenko_
+_Context: Belarus, Alexander Lukashenko, European Union, Belarussian President_
 
 ##### United States
 ### [ United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-economic-activi.md)
-_Context: 2008, Paul Krugman, economist, United States, Nobel Prize in Economics_
+_Context: Paul Krugman, 2008, Nobel Prize in Economics, economist, United States_
 
 ## [Previous Day...](/news/2008/10/12/index.md)
 

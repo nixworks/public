@@ -13,15 +13,15 @@ A Taliban suicide bomber attacks a checkpoint near the entrance to the internati
 
 ##### Ikea
 ### [A stabbing at an Ikea store in VasterCNYs, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steracnys-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md)
-_Context: VasterCNYs, Sweden, Ikea_
+_Context: Ikea, VasterCNYs, Sweden_
 
 ##### Islamic State in Iraq and the Levant
 ### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
-_Context: Islamic State in Iraq and the Levant, Iraq, Baquba_
+_Context: Islamic State in Iraq and the Levant, Baquba, Iraq_
 
 ##### Alphabet Inc.
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)
-_Context: Calico, Google, Google Capital, Google, Google Ventures, Alphabet Inc._
+_Context: Alphabet Inc., Google, Google Ventures, Google, Calico, Google Capital_
 
 ##### Floods in Myanmar
 ### [The death toll from floods in Myanmar tops 100 with more than a million people affected. ](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.md)

@@ -49,11 +49,11 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 
 ##### Indonesia
 ### [Indonesian publisher and blogger, the "Prince of Jihad", is imprisoned for five years after being convicted of concealing information about suicide attacks on two hotels in Jakarta. ](/news/2010/06/29/indonesian-publisher-and-blogger-the-prince-of-jihad-is-imprisoned-for-five-years-after-being-convicted-of-concealing-information-about.md)
-_Context: Indonesia, suicide attacks on two hotels, Jakarta_
+_Context: Jakarta, suicide attacks on two hotels, Indonesia_
 
 ##### Jayant Patel
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
-_Context: Supreme Court, Australia, Base Hospital, Jayant Patel, manslaughter by gross negligence, Bundaberg, Queensland_
+_Context: Jayant Patel, Supreme Court, Australia, manslaughter by gross negligence, Base Hospital, Queensland, Bundaberg_
 
 ##### Sydney
 ### [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md)
@@ -61,11 +61,11 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 
 ##### Major floods
 ### [At least 21 people die and hundreds are evacuated after major floods in the northeast of Romania. ](/news/2010/06/29/at-least-21-people-die-and-hundreds-are-evacuated-after-major-floods-in-the-northeast-of-romania.md)
-_Context: major floods, Romania_
+_Context: Romania, major floods_
 
 ##### Hurricane Alex
 ### [Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. ](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.md)
-_Context: Texas, hurricane, 2010 Atlantic hurricane season, Baffin Bay, Hurricane Alex, Mexico_
+_Context: Hurricane Alex, Texas, hurricane, Mexico, Baffin Bay, 2010 Atlantic hurricane season_
 
 ##### Swine flu
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)

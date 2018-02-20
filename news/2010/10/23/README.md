@@ -9,7 +9,7 @@ Over 50 people sustained bullet wounds as villagers protesting the governments a
 
 ##### Iraq War Logs
 ### [Iraq War Logs: Julian Assange of Wikileaks tells a London news conference that the 400,000 classified U.S. military documents released to the general public yesterday reveal that the Iraq War is "a bloodbath on every corner". ](/news/2010/10/23/iraq-war-logs-julian-assange-of-wikileaks-tells-a-london-news-conference-that-the-400-000-classified-u-s-military-documents-released-to-th.md)
-_Context: Iraq War Logs, Iraq War, London, Wikileaks, Julian Assange_
+_Context: Julian Assange, Wikileaks, Iraq War Logs, Iraq War, London_
 
 ##### Conakry
 ### [There are clashes on the streets of Conakry after the second round of voting in the Guinean presidential election, due on 24 October, is deferred for the third time. ](/news/2010/10/23/there-are-clashes-on-the-streets-of-conakry-after-the-second-round-of-voting-in-the-guinean-presidential-election-due-on-24-october-is-def.md)
@@ -21,11 +21,11 @@ Rebels blamed for landmine blast that killed six officers in eastern Indian stat
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the United Nations compound in western Afghanistan based in Herat. ](/news/2010/10/23/a-suicide-bomber-attacks-the-united-nations-compound-in-western-afghanistan-based-in-herat.md)
-_Context: United Nations, suicide bomber, Herat, Afghan_
+_Context: Herat, suicide bomber, Afghan, United Nations_
 
 ##### Taliban
 ### [Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. ](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.md)
-_Context: Kandahar province, Afghan, Taliban_
+_Context: Kandahar province, Taliban, Afghan_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. ](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.md)
@@ -45,11 +45,11 @@ Cyclone makes landfall on western coast, flattening homes, cutting off power and
 
 ##### Typhoon Megi
 ### [The death toll from Typhoon Megi in Taiwan has reached as least eleven with at least 23 people from two Chinese tour groups missing. It has now made landfall in China's Fujian province. ](/news/2010/10/23/the-death-toll-from-typhoon-megi-in-taiwan-has-reached-as-least-eleven-with-at-least-23-people-from-two-chinese-tour-groups-missing-it-has.md)
-_Context: Taiwan, Typhoon Megi, Chinese, Fujian_
+_Context: Fujian, Taiwan, Chinese, Typhoon Megi_
 
 ##### Mourne Mountains
 ### [Several people are killed in a helicopter crash in the Mourne Mountains, County Down. ](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.md)
-_Context: County Down, Mourne Mountains_
+_Context: Mourne Mountains, County Down_
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention project that as many as 1 in 3 adult Americans will have diabetes by 2050 if current trends in diet and exercise continue.](/news/2010/10/23/the-centers-for-disease-control-and-prevention-project-that-as-many-as-1-in-3-adult-americans-will-have-diabetes-by-2050-if-current-trends-i.md)
@@ -73,7 +73,7 @@ Verdict ending police presence in universities is hailed, but government may use
 
 ##### LTTE
 ### [306 former Tamil Tiger combatants are to be released from rehabilitation in Sri Lanka. ](/news/2010/10/23/306-former-tamil-tiger-combatants-are-to-be-released-from-rehabilitation-in-sri-lanka.md)
-_Context: LTTE, Sri Lanka_
+_Context: Sri Lanka, LTTE_
 
 ##### Birthday party
 ### [Gunmen kill thirteen people and wound fifteen at a birthday party in the Mexican border city of Ciudad Juarez. ](/news/2010/10/23/gunmen-kill-thirteen-people-and-wound-fifteen-at-a-birthday-party-in-the-mexican-border-city-of-ciudad-jua-rez.md)
@@ -81,7 +81,7 @@ Gunmen raid house party in violent border city of Ciudad Juarez, killing at leas
 
 ##### David Thompson
 ### [David Thompson, the Prime Minister of Barbados, dies of pancreatic cancer with Freundel Stuart being sworn in as the new Prime Minister. ](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.md)
-_Context: pancreatic cancer, Prime Minister of Barbados,  Freundel Stuart, David Thompson_
+_Context: pancreatic cancer, Prime Minister of Barbados, David Thompson,  Freundel Stuart_
 
 ##### Bahrain
 ### [Voters in Bahrain go to the polls for the Bahraini parliamentary election. ](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.md)

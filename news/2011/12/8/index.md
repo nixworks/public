@@ -33,19 +33,19 @@ Police tell people in Scotland not to travel, as severe winds of up to 165mph hi
 
 ##### Philippines
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)
-_Context: Philippines, Filipino, his predecessor, President, China, drug trafficking_
+_Context: Filipino, President, his predecessor, Philippines, China, drug trafficking_
 
 ##### Russia
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
-_Context: United States, parliamentary elections, Vladimir Putin, Russia_
+_Context: Vladimir Putin, Russia, United States, parliamentary elections_
 
 ##### Iran
 ### [Iranian state television shows footage of a United States Lockheed Martin RQ-170 Sentinel drone that its forces claim to have shot down. ](/news/2011/12/8/iranian-state-television-shows-footage-of-a-united-states-lockheed-martin-rq-170-sentinel-drone-that-its-forces-claim-to-have-shot-down.md)
-_Context: United States, Lockheed Martin RQ-170 Sentinel, Iran_
+_Context: Iran, United States, Lockheed Martin RQ-170 Sentinel_
 
 ##### Japan
 ### [The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. ](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.md)
-_Context: Japan, Canadian, World War II, POWs_
+_Context: Japan, Canadian, POWs, World War II_
 
 ##### Serial killer
 ### [British serial killer Robert Black is sentenced to a minimum of 25 years imprisonment for the 1981 murder of Northern Ireland schoolgirl Jennifer Cardy. ](/news/2011/12/8/british-serial-killer-robert-black-is-sentenced-to-a-minimum-of-25-years-imprisonment-for-the-1981-murder-of-northern-ireland-schoolgirl-jen.md)
@@ -53,7 +53,7 @@ The brother of Jennifer Cardy says the family would have forgiven Robert Black i
 
 ##### Two people are killed
 ### [Two people are killed at Virginia Tech, formerly the site of the largest mass shooting in US history. ](/news/2011/12/8/two-people-are-killed-at-virginia-tech-formerly-the-site-of-the-largest-mass-shooting-in-us-history.md)
-_Context: Two people are killed, largest mass shooting in US history, Virginia Tech_
+_Context: Two people are killed, Virginia Tech, largest mass shooting in US history_
 
 ##### DR Congo
 ### [Security is increased in the Congolese capital Kinshasa prior to the announcement of results from presidential and parliamentary elections. ](/news/2011/12/8/security-is-increased-in-the-congolese-capital-kinshasa-prior-to-the-announcement-of-results-from-presidential-and-parliamentary-elections.md)
@@ -61,7 +61,7 @@ Electoral body says all 60,000 ballots boxes have not been counted and will wait
 
 ##### Zimbabwe
 ### [Zimbabwean President Robert Mugabe calls for elections in 2012 to replace the power-sharing government in place since 2008. ](/news/2011/12/8/zimbabwean-president-robert-mugabe-calls-for-elections-in-2012-to-replace-the-power-sharing-government-in-place-since-2008.md)
-_Context: power-sharing government, Zimbabwe, Robert Mugabe_
+_Context: power-sharing government, Robert Mugabe, Zimbabwe_
 
 ## [Previous Day...](/news/2011/12/7/index.md)
 

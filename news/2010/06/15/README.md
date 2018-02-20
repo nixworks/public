@@ -25,7 +25,7 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 
 ##### Mexico
 ### [Two trains collide in the northern Mexican state of Sinaloa resulting in the death of at least 13 people. ](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.md)
-_Context: Sinaloa, Mexico_
+_Context: Mexico, Sinaloa_
 
 ##### Saville Inquiry
 ### [The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-running-public-inqu.md)
@@ -33,7 +33,7 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 
 ##### North Korea
 ### [North Korea threatens a military response if the United Nations Security Council questions or condemns it for the ROKS Cheonan sinking. North Korean UN Permanent Representative Sin Son Ho demands that a North Korean investigation team be allowed to travel to the site of the sinking. ](/news/2010/06/15/north-korea-threatens-a-military-response-if-the-united-nations-security-council-questions-or-condemns-it-for-the-roks-cheonan-sinking-nort.md)
-_Context: Sin Son Ho, United Nations Security Council, Permanent Representative, sinking, North Korea_
+_Context: North Korea, United Nations Security Council, sinking, Permanent Representative, Sin Son Ho_
 
 ##### Islamist
 ### [Islamist gunmen in Somalia shoot two people dead and detain 10 others who were watching a televised FIFA World Cup match; a member of one group later said watching the World Cup is anti-Islamic. ](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.md)

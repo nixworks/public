@@ -9,27 +9,27 @@ Military launches campaigns in three provinces as foreign governments reopen emb
 
 ##### Suicide bomber
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: killed, suicide bomber, CIA, al-Qaeda, Afghan, Jordan, Humam Khalil Abu-Mulal al-Balawi_
+_Context: Afghan, CIA, killed, al-Qaeda, Humam Khalil Abu-Mulal al-Balawi, suicide bomber, Jordan_
 
 ##### Facebook
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
-_Context: Facebook, social network_
+_Context: social network, Facebook_
 
 ##### World Food Programme
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
-_Context: Somalia, World Food Programme_
+_Context: World Food Programme, Somalia_
 
 ##### Warren Buffett
 ### [Warren Buffett who through Berkshire Hathaway controls a significant block of the shares of Kraft came out in opposition to Kraft's proposal to float 370 million shares in order to fund its bid for the UK based confectioner Cadbury. ](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.md)
-_Context: Berkshire Hathaway Inc., Kraft Foods, Cadbury, Warren Buffett_
+_Context: Kraft Foods, Berkshire Hathaway Inc., Warren Buffett, Cadbury_
 
 ##### Solomon Islands
 ### [As many as 1,000 people in the Solomon Islands are reportedly homeless following the two major earthquakes and tsunami which struck the country earlier this week. ](/news/2010/01/5/as-many-as-1-000-people-in-the-solomon-islands-are-reportedly-homeless-following-the-two-major-earthquakes-and-tsunami-which-struck-the-coun.md)
-_Context: two major earthquakes and tsunami, Solomon Islands_
+_Context: Solomon Islands, two major earthquakes and tsunami_
 
 ##### Brazil
 ### [At least seven people are killed and 20 missing after a bridge collapse in the Brazilian state of Rio Grande do Sul. ](/news/2010/01/5/at-least-seven-people-are-killed-and-20-missing-after-a-bridge-collapse-in-the-brazilian-state-of-rio-grande-do-sul.md)
-_Context: Brazil, Rio Grande do Sul_
+_Context: Rio Grande do Sul, Brazil_
 
 ##### United Kingdom
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
@@ -37,7 +37,7 @@ _Context: United Kingdom, heavy snowfall_
 
 ##### Learjet
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
-_Context: Wheeling, Illinois, Learjet, Chicago Executive Airport, Des Plaines River_
+_Context: Wheeling, Illinois, Chicago Executive Airport, Des Plaines River, Learjet_
 
 ##### Slovakia
 ### [Slovakia admits responsibility for a major bomb alert on Dorset Street in Dublin, Ireland, after planting explosives on a civilian as a test. ](/news/2010/01/5/slovakia-admits-responsibility-for-a-major-bomb-alert-on-dorset-street-in-dublin-ireland-after-planting-explosives-on-a-civilian-as-a-test.md)
@@ -53,7 +53,7 @@ A third uninvited guest made it into a White House state dinner in honor of the 
 
 ##### United States
 ### [The United States reopens its embassy in Yemen after strikes on al-Qaeda. ](/news/2010/01/5/the-united-states-reopens-its-embassy-in-yemen-after-strikes-on-al-qaeda.md)
-_Context: United States, Yemen_
+_Context: Yemen, United States_
 
 ##### Andal Ampatuan Jr.
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
@@ -65,7 +65,7 @@ Iceland&#39;s president has said he will not sign a bill to compensate the Briti
 
 ##### Nigeria
 ### [Opposition parties in Nigeria raise their concerns over "missing" President Umaru Yar'Adua who has been at a hospital in Saudi Arabia for six weeks. ](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.md)
-_Context: President, Saudi Arabia, Umaru Yar'Adua, Nigeria_
+_Context: Umaru Yar'Adua, Nigeria, Saudi Arabia, President_
 
 ## [Previous Day...](/news/2010/01/4/index.md)
 

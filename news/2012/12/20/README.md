@@ -17,7 +17,7 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 
 ##### U.S.
 ### [U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. ](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.md)
-_Context: mobile device, pinch-to-zoom gestures, patent, U.S., Apple Inc._
+_Context: patent, U.S., Apple Inc., pinch-to-zoom gestures, mobile device_
 
 ##### Midwestern
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
@@ -53,7 +53,7 @@ _Context: Laos, Vientiane_
 
 ##### Rwanda
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)
-_Context: Rwandan Genocide, Augustin Ngirabatware, Rwanda_
+_Context: Rwanda, Rwandan Genocide, Augustin Ngirabatware_
 
 ## [Previous Day...](/news/2012/12/19/index.md)
 

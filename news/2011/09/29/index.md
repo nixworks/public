@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/29/index.html)  [JSON](2011/09/29/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Heavy fighting is reported in the northern suburbs of Sana'a, Yemen's capital. ](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.md)
-_Context: 2011 Yemeni uprising, Yemen, Sana'a_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen_
 
 ##### Maple Group
 ### [Maple Group, a consortium of Canadian concerns, says it is extending its bid to take over Canada's largest stock market operating company, TMX Group. ](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.md)
@@ -29,11 +29,11 @@ The government is to launch a consultation on increasing the speed limit on Engl
 
 ##### German
 ### [The German Bundestag votes to approve the European Financial Stability Facility. ](/news/2011/09/29/the-german-bundestag-votes-to-approve-the-european-financial-stability-facility.md)
-_Context: European Financial Stability Facility, German, Bundestag_
+_Context: European Financial Stability Facility, Bundestag, German_
 
 ##### China
 ### [The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. ](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.md)
-_Context: China, space station module, Jiuquan Satellite Launch Center, Tiangong 1, Gansu Province_
+_Context: Gansu Province, Jiuquan Satellite Launch Center, China, Tiangong 1, space station module_
 
 ## [Previous Day...](/news/2011/09/28/index.md)
 

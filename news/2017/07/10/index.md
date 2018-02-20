@@ -21,7 +21,7 @@ A military plane crashed in a soybean field in Leflore County, Miss., killing at
 
 ##### Health effects of coffee
 ### [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md)
-_Context: Imperial College London, Keck School of Medicine of USC, Coffee, human, life, Health effects of coffee, International Agency for Research on Cancer_
+_Context: human, Coffee, Health effects of coffee, International Agency for Research on Cancer, Imperial College London, life, Keck School of Medicine of USC_
 
 ##### 2017 Doklam crisis
 ### [Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-deni.md)

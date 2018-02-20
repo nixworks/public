@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/2/index.html)  [JSON](2016/09/2/index.json)  [XML](2016/
 
 ##### Sectarianism in Pakistan
 ### [Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md)
-_Context: Islamic militants, Christian, Northwestern Pakistan, Mardan, Sectarianism in Pakistan_
+_Context: Islamic militants, Sectarianism in Pakistan, Mardan, Northwestern Pakistan, Christian_
 
 ##### Colombian conflict
 ### [The President of Colombia Juan Manuel Santos announces that he will sign the peace deal with the Revolutionary Armed Forces of Colombia or FARC on September 26. ](/news/2016/09/2/the-president-of-colombia-juan-manuel-santos-announces-that-he-will-sign-the-peace-deal-with-the-revolutionary-armed-forces-of-colombia-or-f.md)

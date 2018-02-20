@@ -13,7 +13,7 @@ _Context: new eastern span, San Francisco-Oakland Bay Bridge, 1989 Loma Prieta e
 
 ##### Verizon Communications
 ### [Verizon Communications agrees to acquire Vodafone's stake in Verizon Wireless for $130 billion, the third largest M&A deal ever. ](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.md)
-_Context: Vodafone Group Plc, Verizon Wireless, Verizon Communications, pre-merger, United States dollars_
+_Context: Vodafone Group Plc, pre-merger, Verizon Communications, United States dollars, Verizon Wireless_
 
 ## [Previous Day...](/news/2013/09/1/index.md)
 

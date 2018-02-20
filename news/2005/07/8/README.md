@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/8/index.html)  [JSON](2005/07/8/index.json)  [XML](2005/
 
 ##### 2005 elections
 ### [ Following general elections in May, Ethiopia releases the first round of official results for 307 of 527 parliamentary seats. The ruling EPRDF has won 139 seats, while opposition parties CUD and UEDF won 93 and 42, respectively. Smaller parties and independent candidates won the remaining 33 seats. CUD and UEDF announced plans to form a coalition government. ](/news/2005/07/8/following-general-elections-in-may-ethiopia-releases-the-first-round-of-official-results-for-307-of-527-parliamentary-seats-the-ruling-ep.md)
-_Context: Coalition for Unity and Democracy, UEDF, 2005 elections, Ethiopia, EPRDF_
+_Context: Coalition for Unity and Democracy, EPRDF, 2005 elections, Ethiopia, UEDF_
 
 ##### Bulacan
 ### [ In the Bulacan province of the Philippines, medical authorities report the country's first case of avian influenza. ](/news/2005/07/8/in-the-bulacan-province-of-the-philippines-medical-authorities-report-the-country-s-first-case-of-avian-influenza.md)

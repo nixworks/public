@@ -5,11 +5,11 @@ Formats: [HTML](2008/03/11/index.html)  [JSON](2008/03/11/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md)
-_Context: United States Senate, Illinois, Democratic primary, Mississippi, 2008, Barack Obama_
+_Context: Illinois, Barack Obama, Democratic primary, 2008, United States Senate, Mississippi_
 
 ##### United States
 ### [ The United States House of Representatives fails to override President Bush's veto of a bill outlawing waterboarding and other interrogation techniques. ](/news/2008/03/11/the-united-states-house-of-representatives-fails-to-override-president-bush-s-veto-of-a-bill-outlawing-waterboarding-and-other-interrogatio.md)
-_Context: veto, veto override, United States, waterboarding, George W. Bush, U.S. President, interrogation, United States House of Representatives_
+_Context: U.S. President, veto override, United States House of Representatives, veto, interrogation, United States, George W. Bush, waterboarding_
 
 ##### Admiral
 ### [ Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in "Esquire Magazine" of disagreement with President George W. Bush over the administration's policy with Iran. ](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-the-u-s-central-command-due-to-reports-in-esquire-magazine-of-disagreement-with-president.md)
@@ -25,7 +25,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### Pakistan
 ### [ At least 12 people are killed when a bomb explodes at offices of Pakistan's Federal Investigation Agency in Lahore. ](/news/2008/03/11/at-least-12-people-are-killed-when-a-bomb-explodes-at-offices-of-pakistan-s-federal-investigation-agency-in-lahore.md)
-_Context: Lahore, Pakistan, Federal Investigation Agency_
+_Context: Federal Investigation Agency, Lahore, Pakistan_
 
 ## [Previous Day...](/news/2008/03/10/index.md)
 

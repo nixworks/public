@@ -33,7 +33,7 @@ _Context: rocket launcher, Pursat Province, Cambodia_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Russia, Darfur, Sudan_
+_Context: Sudan, Russia, Darfur_
 
 ##### Nigeria
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
@@ -113,7 +113,7 @@ _Context: India, Blackberry_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: Indonesia, Northern Territory, centres_
+_Context: centres, Northern Territory, Indonesia_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

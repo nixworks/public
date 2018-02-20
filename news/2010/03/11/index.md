@@ -5,15 +5,15 @@ Formats: [HTML](2010/03/11/index.html)  [JSON](2010/03/11/index.json)  [XML](201
 
 ##### Roman Catholic Archdiocese of Denver
 ### [Two children are prevented by the Roman Catholic Archdiocese of Denver from enrolling in a Catholic school in Boulder, Colorado, United States because their parents are lesbians. ](/news/2010/03/11/two-children-are-prevented-by-the-roman-catholic-archdiocese-of-denver-from-enrolling-in-a-catholic-school-in-boulder-colorado-united-stat.md)
-_Context: Boulder, United States, Roman Catholic Church, lesbian, Roman Catholic Archdiocese of Denver_
+_Context: lesbian, Roman Catholic Church, United States, Roman Catholic Archdiocese of Denver, Boulder_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union (ACLU) intervenes when Mississippi bans same-sex relationships and cancels its prom (leavers' dinner) due to the desire of a female student to bring her girlfriend and wear a tuxedo, while one of her teachers tells her "she had to remember where she was". ](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.md)
-_Context: American Civil Liberties Union, same-sex relationship, leavers' dinner, Mississippi, tuxedo_
+_Context: American Civil Liberties Union, tuxedo, Mississippi, leavers' dinner, same-sex relationship_
 
 ##### Israel
 ### [Israeli authorities plan thousands more homes in settlements in East Jerusalem since Palestinian leaders terminated talks earlier this week due to this issue. ](/news/2010/03/11/israeli-authorities-plan-thousands-more-homes-in-settlements-in-east-jerusalem-since-palestinian-leaders-terminated-talks-earlier-this-week.md)
-_Context: Palestine, East Jerusalem, Israel_
+_Context: East Jerusalem, Palestine, Israel_
 
 ##### Israel
 ### [Israel apologises for the timing of the announcement during a visit by the Vice President of the United States, calling it a "grave error", a "mistake" and a "failure" and promising it would not happen again. ](/news/2010/03/11/israel-apologises-for-the-timing-of-the-announcement-during-a-visit-by-the-vice-president-of-the-united-states-calling-it-a-grave-error.md)
@@ -29,7 +29,7 @@ More than 30,000 people join rally against austerity plans as services grind to 
 
 ##### Abuja
 ### [Hundreds of angry women dressed in black march though the streets of Abuja and Jos following the recent massacre in Nigeria. ](/news/2010/03/11/hundreds-of-angry-women-dressed-in-black-march-though-the-streets-of-abuja-and-jos-following-the-recent-massacre-in-nigeria.md)
-_Context: events earlier this year, Abuja, Jos, Nigeria_
+_Context: Jos, Abuja, events earlier this year, Nigeria_
 
 ##### Somalia
 ### [More than 20 civilians die during the second day of conflict between Somali government troops and opposition forces in Mogadishu. ](/news/2010/03/11/more-than-20-civilians-die-during-the-second-day-of-conflict-between-somali-government-troops-and-opposition-forces-in-mogadishu.md)
@@ -61,11 +61,11 @@ Sahil Saeed, the five-year-old boy kidnapped in Pakistan, has been found, accord
 
 ##### Ivory Coast
 ### [Ivory Coast and Chelsea F.C. striker Didier Drogba is named African Footballer of the Year. ](/news/2010/03/11/ivory-coast-and-chelsea-f-c-striker-didier-drogba-is-named-african-footballer-of-the-year.md)
-_Context: Didier Drogba, Chelsea F.C., Ivory Coast, African Footballer of the Year_
+_Context: Ivory Coast, African Footballer of the Year, Didier Drogba, Chelsea F.C._
 
 ##### Duke of Edinburgh
 ### [The Duke of Edinburgh, on a trip to Exeter, Devon with Elizabeth II of the United Kingdom, asks a female sea cadet if she works at a strip club before concluding that it is "probably too cold for that anyway". ](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.md)
-_Context: Exeter, sea cadet, Queen Elizabeth, strip club, Duke of Edinburgh, Devon_
+_Context: Exeter, strip club, Duke of Edinburgh, Devon, Queen Elizabeth, sea cadet_
 
 ##### Pink Floyd
 ### [Pink Floyd win their court battle with EMI, paving the way for individual tracks of their music to be removed from online music services. ](/news/2010/03/11/pink-floyd-win-their-court-battle-with-emi-paving-the-way-for-individual-tracks-of-their-music-to-be-removed-from-online-music-services.md)

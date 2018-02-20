@@ -13,7 +13,7 @@ An armed Palestinian man has been shot dead at a Jenin army post in the latest o
 
 ##### Somali pirates
 ### [Somali pirates seize a Mongolian bulk carrier off the coast of Oman. ](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.md)
-_Context: Somali pirates, Mongolia, Oman_
+_Context: Somali pirates, Oman, Mongolia_
 
 ##### Muslim
 ### [Muslim separatists in southern Thailand kill four soldiers in an attack on an army base. ](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.md)
@@ -25,7 +25,7 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ##### Iraq Inquiry
 ### [Iraq Inquiry documents show former British prime minister Tony Blair was offered an alternative to attacking Iraq during a secret meeting held eight days before its soldiers invaded the country in 2003. ](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.md)
-_Context: 2003 invasion of Iraq, Tony Blair, Iraq Inquiry, Prime Minister, Iraq War_
+_Context: Iraq War, Tony Blair, Iraq Inquiry, Prime Minister, 2003 invasion of Iraq_
 
 ##### Muslim
 ### [Prejudice against Muslims is declared socially acceptable and Britain is becoming less tolerant according to Sayeeda Warsi, Baroness Warsi, the first female British Muslim cabinet member, in a speech at the University of Leicester. ](/news/2011/01/20/prejudice-against-muslims-is-declared-socially-acceptable-and-britain-is-becoming-less-tolerant-according-to-sayeeda-warsi-baroness-warsi.md)
@@ -33,7 +33,7 @@ British politician says prejudice against Muslims is now socially acceptable and
 
 ##### Palme d'Or
 ### [Palme d'Or winner "Uncle Boonmee Who Can Recall His Past Lives" is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film-ca.md)
-_Context: Palme d'Or, Uncle Boonmee Who Can Recall His Past Lives, Academy Award_
+_Context: Palme d'Or, Academy Award, Uncle Boonmee Who Can Recall His Past Lives_
 
 ##### 
 ### [Three works of art stolen from a museum 15 years ago are retrieved. ](/news/2011/01/20/three-works-of-art-stolen-from-a-museum-15-years-ago-are-retrieved.md)
@@ -57,7 +57,7 @@ Afghan leader in Moscow to explore military and business deals with former foe, 
 
 ##### Hu Jintao
 ### [Chinese president Hu Jintao receives a hostile reception from the United States Congress; the country is accused of bullying its neighbours and its rulers are described as "Nazis". ](/news/2011/01/20/chinese-president-hu-jintao-receives-a-hostile-reception-from-the-united-states-congress-the-country-is-accused-of-bullying-its-neighbours.md)
-_Context: Congress, Hu Jintao_
+_Context: Hu Jintao, Congress_
 
 ##### Spy satellite
 ### [The largest rocket ever launched from the west coast of the U.S. is launched carrying a secret payload; speculated to be a spy satellite.](/news/2011/01/20/the-largest-rocket-ever-launched-from-the-west-coast-of-the-u-s-is-launched-carrying-a-secret-payload-speculated-to-be-a-spy-satellite.md)
@@ -65,11 +65,11 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 
 ##### Hong Kong
 ### [Customs officials in Hong Kong seize a haul of cocaine worth US$33.4m bound for China, originating from Bolivia. ](/news/2011/01/20/customs-officials-in-hong-kong-seize-a-haul-of-cocaine-worth-us-33-4m-bound-for-china-originating-from-bolivia.md)
-_Context: $, China, Hong Kong, Bolivia, cocaine_
+_Context: Hong Kong, cocaine, Bolivia, China, $_
 
 ##### Guantanamo Bay
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: United States military, Barack Obama, Guantanamo Bay, Congress, U.S. President_
+_Context: Congress, Guantanamo Bay, Barack Obama, U.S. President, United States military_
 
 ##### Haiti
 ### [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md)
@@ -77,7 +77,7 @@ Former president Jean-Claude Duvalier seeks a return to power, despite facing co
 
 ##### Bristol
 ### [A 32-year-old man is arrested on suspicion of murdering Bristol woman Joanna Yeates. ](/news/2011/01/20/a-32-year-old-man-is-arrested-on-suspicion-of-murdering-bristol-woman-joanna-yeates.md)
-_Context: Bristol, killer of Joanna Yeates_
+_Context: killer of Joanna Yeates, Bristol_
 
 ##### Chimpanzee
 ### [One of the largest hauls of illegal chimpanzee and gorilla parts is seized by officials in Gabon. ](/news/2011/01/20/one-of-the-largest-hauls-of-illegal-chimpanzee-and-gorilla-parts-is-seized-by-officials-in-gabon.md)
@@ -101,7 +101,7 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 
 ##### Shadow
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)
-_Context: Shadow, Labour Party, Chancellor of the Exchequer, Alan Johnson_
+_Context: Shadow, Chancellor of the Exchequer, Labour Party, Alan Johnson_
 
 ##### 
 ### [2010 tied for the warmest year ever recorded, and the last decade was the warmest ever recorded, since records began in the 1800s.](/news/2011/01/20/2010-tied-for-the-warmest-year-ever-recorded-and-the-last-decade-was-the-warmest-ever-recorded-since-records-began-in-the-1800s.md)

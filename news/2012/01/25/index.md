@@ -25,11 +25,11 @@ _Context: grenade, Rwanda_
 
 ##### United States
 ### [A United States rescue operation in Somalia frees two foreign hostages and kills nine pirates. ](/news/2012/01/25/a-united-states-rescue-operation-in-somalia-frees-two-foreign-hostages-and-kills-nine-pirates.md)
-_Context: United States, Somalia_
+_Context: Somalia, United States_
 
 ##### Ethiopia
 ### [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md)
-_Context: Somalia, Ethiopia_
+_Context: Ethiopia, Somalia_
 
 ##### Papua New Guinea
 ### [A landslide in central Papua New Guinea leaves four people dead and 60 missing. ](/news/2012/01/25/a-landslide-in-central-papua-new-guinea-leaves-four-people-dead-and-60-missing.md)
@@ -37,7 +37,7 @@ _Context: Papua New Guinea_
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad says that Iran is willing to talk about Iran's nuclear program with other leaders. ](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.md)
-_Context: President, nuclear program, Mahmoud Ahmadinejad_
+_Context: nuclear program, Mahmoud Ahmadinejad, President_
 
 ##### United Nations
 ### [The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. ](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.md)

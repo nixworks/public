@@ -13,7 +13,7 @@ Ethiopia rejects claim by rebel group that government forces killed 71 civilians
 
 ##### Roza Otunbayeva
 ### [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md)
-_Context: Russia, president, Roza Otunbayeva, Osh, Kyrgyzstan_
+_Context: Russia, Kyrgyzstan, Roza Otunbayeva, Osh, president_
 
 ##### Re-election
 ### [The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-the-oppo.md)
@@ -37,31 +37,31 @@ The Cuban government is releasing an ailing political prisoner and transferring 
 
 ##### New Zealand
 ### [New Zealand's police find at least thirteen girls aged 12-16 who work as "active prostitutes" in the "young red light area" in Auckland's CBD. ](/news/2010/06/12/new-zealand-s-police-find-at-least-thirteen-girls-aged-12-16-who-work-as-active-prostitutes-in-the-young-red-light-area-in-auckland-s-cb.md)
-_Context: Auckland, New Zealand, CBD, young red light area, prostitute_
+_Context: CBD, Auckland, young red light area, New Zealand, prostitute_
 
 ##### Teacher
 ### [A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. ](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-and-a-teacher-in-a-knife-rampage-in-south-china-in-april-is-sentenced-to-death.md)
-_Context: teacher, south China_
+_Context: south China, teacher_
 
 ##### European Union
 ### [The European Union promises EUR500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
-_Context: European Union, Kenya, East Africa_
+_Context: East Africa, European Union, Kenya_
 
 ##### Buddhist monks
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
-_Context: Buddhists, Jiangsu Province, Gautama Buddha, Buddhist monks_
+_Context: Buddhist monks, Buddhists, Jiangsu Province, Gautama Buddha_
 
 ##### United Kingdom
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: United Kingdom, Prime Minister, U.S. President, David Cameron, Deepwater Horizon oil spill, Barack Obama_
+_Context: David Cameron, Prime Minister, Barack Obama, United Kingdom, U.S. President, Deepwater Horizon oil spill_
 
 ##### France
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: sailor, Southern Ocean, Abby Sunderland, teenage, fishing boat, United States, France_
+_Context: Southern Ocean, sailor, fishing boat, Abby Sunderland, teenage, United States, France_
 
 ##### Pilots
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
-_Context: United States, Spirit Airlines, strike, low-cost carrier, Pilots_
+_Context: low-cost carrier, Pilots, Spirit Airlines, strike, United States_
 
 ## [Previous Day...](/news/2010/06/11/index.md)
 

@@ -29,7 +29,7 @@ Japan says it is taking steps to prevent contaminated water from the crippled Fu
 
 ##### Gulf of Mexico
 ### [Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire. ](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.md)
-_Context: Louisiana, natural gas, Gulf of Mexico_
+_Context: Louisiana, Gulf of Mexico, natural gas_
 
 ##### Burma
 ### [Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. ](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.md)
@@ -49,15 +49,15 @@ A poster campaign is launched in Germany aimed at tracking down the last survivi
 
 ##### New York
 ### [A New York nuclear power plant supervisor is charged with falsifying test results involving emergency generators to prevent the plant from being shut down. ](/news/2013/07/23/a-new-york-nuclear-power-plant-supervisor-is-charged-with-falsifying-test-results-involving-emergency-generators-to-prevent-the-plant-from-b.md)
-_Context: nuclear power plant, New York_
+_Context: New York, nuclear power plant_
 
 ##### Parliament of Bulgaria
 ### [Protesters besiege the Parliament of Bulgaria in Sofia amid major anti-government rallies. ](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.md)
-_Context: Sofia, Parliament of Bulgaria_
+_Context: Parliament of Bulgaria, Sofia_
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir Mayardit, sacks his entire government, including the Vice President, Riek Machar. ](/news/2013/07/23/the-president-of-south-sudan-salva-kiir-mayardit-sacks-his-entire-government-including-the-vice-president-riek-machar.md)
-_Context: Salva Kiir Mayardit, Riek Machar, President of South Sudan_
+_Context: Salva Kiir Mayardit, President of South Sudan, Riek Machar_
 
 ## [Previous Day...](/news/2013/07/22/index.md)
 

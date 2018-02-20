@@ -9,7 +9,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ##### War in Afghanistan
 ### [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md)
-_Context: November 2016 Kabul suicide bombing, Kabul, Shia, suicide bombing, ISIL, War in Afghanistan, mosque_
+_Context: War in Afghanistan, Kabul, ISIL, mosque, Shia, November 2016 Kabul suicide bombing, suicide bombing_
 
 ##### Boko Haram insurgency
 ### [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md)
@@ -33,7 +33,7 @@ _Context: 2016-17 North American winter, New Hampshire_
 
 ##### President of Bolivia
 ### [The President of Bolivia Evo Morales declares a national emergency due to water shortages caused by a drought. ](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a-national-emergency-due-to-water-shortages-caused-by-a-drought.md)
-_Context: President of Bolivia, Evo Morales_
+_Context: Evo Morales, President of Bolivia_
 
 ##### 2016 Chattanooga school bus crash
 ### [At least six people are killed as an elementary school bus carrying dozens of students crashes in Chattanooga, Tennessee. ](/news/2016/11/21/at-least-six-people-are-killed-as-an-elementary-school-bus-carrying-dozens-of-students-crashes-in-chattanooga-tennessee.md)
@@ -41,15 +41,15 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ##### Russia-United States relations
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: Russia-United States relations, Syrian Civil War, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Vladimir Putin, APEC Peru 2016_
+_Context: Peru, Barack Obama, Asia-Pacific Economic Cooperation, Russia-United States relations, Vladimir Putin, APEC Peru 2016, Syrian Civil War_
 
 ##### NATO-Russia relations
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: S-400 missile, Russia, Kaliningrad, United States, NATO-Russia relations, Poland, NATO, Lithuania_
+_Context: Lithuania, Kaliningrad, NATO, Russia, United States, NATO-Russia relations, Poland, S-400 missile_
 
 ##### Philippine criminal law
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
-_Context: Rodrigo Duterte, Philippine criminal law_
+_Context: Philippine criminal law, Rodrigo Duterte_
 
 ##### Corruption investigation of Luiz Inacio Lula da Silva
 ### [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)

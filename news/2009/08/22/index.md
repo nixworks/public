@@ -29,11 +29,11 @@ Brazilian president Lula da Silva considers that differences inside the Union of
 
 ##### Niger
 ### [ Niger's police use tear gas to injure and arrest several people during clashes with opponents of a new constitution that would enable President Mamadou Tandja to seek unlimited mandates. ](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.md)
-_Context: Mamadou Tandja, Niger, lachrymator, Nigerien President_
+_Context: Mamadou Tandja, Niger, Nigerien President, lachrymator_
 
 ##### Venezuelans
 ### [ Thousands of Venezuelans join rival marches in Caracas over a controversial education law that critics say strengthens President Hugo Chavez's grip over schools and universities. ](/news/2009/08/22/thousands-of-venezuelans-join-rival-marches-in-caracas-over-a-controversial-education-law-that-critics-say-strengthens-president-hugo-cha-v.md)
-_Context: Hugo Chavez, Caracas, Venezuelans_
+_Context: Venezuelans, Hugo Chavez, Caracas_
 
 ##### Turkey
 ### [ Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. ](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quarantined-over-fears-the-birds-have-caught-swine-influenza-from-humans.md)

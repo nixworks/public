@@ -17,11 +17,11 @@ _Context: Maria Lassnig_
 
 ##### Monica Lewinsky
 ### [Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. ](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.md)
-_Context: United States President, affair, Bill Clinton, Monica Lewinsky_
+_Context: United States President, Monica Lewinsky, Bill Clinton, affair_
 
 ##### Merck & Co
 ### [Merck & Co Inc announces plans to sell its consumer business to Bayer AG of Germany for $14 billion. ](/news/2014/05/6/merck-co-inc-announces-plans-to-sell-its-consumer-business-to-bayer-ag-of-germany-for-14-billion.md)
-_Context: German, Merck & Co, Bayer AG_
+_Context: Merck & Co, German, Bayer AG_
 
 ##### Office Depot
 ### [Office Depot says it will close at least 400 of its U.S. stores. ](/news/2014/05/6/office-depot-says-it-will-close-at-least-400-of-its-u-s-stores.md)
@@ -33,11 +33,11 @@ Thai PM Yingluck Shinawatra in court for hearing that may lead to her dismissal 
 
 ##### Boko Haram
 ### [Eight additional Nigerian girls are abducted by suspected Boko Haram militants following the Chibok kidnappings. ](/news/2014/05/6/eight-additional-nigerian-girls-are-abducted-by-suspected-boko-haram-militants-following-the-chibok-kidnappings.md)
-_Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
+_Context: Boko Haram, 276 girls kidnapped from northern Nigeria_
 
 ##### Russian President
 ### [Russian President Vladimir Putin signs into law a bill that bans profanity at arts, cultural and entertainment events. ](/news/2014/05/6/russian-president-vladimir-putin-signs-into-law-a-bill-that-bans-profanity-at-arts-cultural-and-entertainment-events.md)
-_Context: Vladimir Putin, Russian President_
+_Context: Russian President, Vladimir Putin_
 
 ##### Knife attack
 ### [Six people are injured in a knife attack at a Chinese train station in Guangzhou. ](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.md)

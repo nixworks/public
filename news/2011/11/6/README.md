@@ -5,15 +5,15 @@ Formats: [HTML](2011/11/6/index.html)  [JSON](2011/11/6/index.json)  [XML](2011/
 
 ##### 5.6 magnitude earthquake
 ### [A 5.6 magnitude earthquake, the largest in the state's history, strikes 21 miles NNE of Shawnee, Oklahoma, USA, causing significant damage. ](/news/2011/11/6/a-5-6-magnitude-earthquake-the-largest-in-the-state-s-history-strikes-21-miles-nne-of-shawnee-oklahoma-usa-causing-significant-damage.md)
-_Context: Shawnee, 5.6 magnitude earthquake, Oklahoma_
+_Context: Oklahoma, Shawnee, 5.6 magnitude earthquake_
 
 ##### Landslide
 ### [A landslide kills 18 and injures dozens in Manizales, Caldas, Colombia ](/news/2011/11/6/a-landslide-kills-18-and-injures-dozens-in-manizales-caldas-colombia.md)
-_Context: landslide, Colombia, Caldas Department, Manizales_
+_Context: Colombia, Caldas Department, landslide, Manizales_
 
 ##### Hungarian
 ### [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md)
-_Context: Hungarian, Hurghada, Egypt_
+_Context: Hurghada, Hungarian, Egypt_
 
 ##### Washington DC
 ### [Thousands of people protest in Washington DC against the proposed Keystone XL project. ](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.md)

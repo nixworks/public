@@ -17,15 +17,15 @@ Tributes were paid today to one the leading lights in the family campaign to bri
 
 ##### United States
 ### [The United States reclaims its spot as the top export market for Japan as China slips due to economic slowdown. Japan's overall annual trade deficit meanwhile reaches 8.2 trillion yen, the highest on record. ](/news/2013/04/18/the-united-states-reclaims-its-spot-as-the-top-export-market-for-japan-as-china-slips-due-to-economic-slowdown-japan-s-overall-annual-trade.md)
-_Context: top export market, Chinese, United States, trade surplus, yen, Japan_
+_Context: yen, Chinese, United States, top export market, trade surplus, Japan_
 
 ##### Trade Minister
 ### [Australian Trade Minister Craig Emerson says free trade talks between Australia and China are deadlocked over differences of opinion on the removal of investment limits for state-owned enterprises. ](/news/2013/04/18/australian-trade-minister-craig-emerson-says-free-trade-talks-between-australia-and-china-are-deadlocked-over-differences-of-opinion-on-the.md)
-_Context: state-owned enterprises, Australia, free trade talks, Chinese, Trade Minister, Craig Emerson_
+_Context: Australia, Chinese, Craig Emerson, Trade Minister, state-owned enterprises, free trade talks_
 
 ##### YouTube
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
-_Context: YouTube, copyright infringement, Viacom_
+_Context: Viacom, copyright infringement, YouTube_
 
 ##### Texas fertilizer plant explosion
 ### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
@@ -49,7 +49,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 
 ##### Earth-like
 ### [Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. ](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.md)
-_Context: Kepler-62, Kepler-62f, star, habitable zone, Earth-like, Kepler-62e_
+_Context: Earth-like, star, Kepler-62f, Kepler-62e, habitable zone, Kepler-62_
 
 ## [Previous Day...](/news/2013/04/17/index.md)
 

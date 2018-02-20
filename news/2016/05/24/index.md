@@ -21,7 +21,7 @@ Ukraine said on Tuesday seven of its servicemen had been killed in the past 24 h
 
 ##### United States
 ### [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md)
-_Context: Bayer, agricultural biotechnology, agrochemical, German, Monsanto, United States_
+_Context: Monsanto, agricultural biotechnology, German, agrochemical, United States, Bayer_
 
 ##### Jade
 ### [Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. ](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-after-a-jade-mine-collapses-in-the-myanmar-town-of-hpakant.md)
@@ -29,7 +29,7 @@ YANGON: At least 11 people died in a landslide in a remote jade mining region of
 
 ##### EgyptAir Flight 804
 ### [Reports claim that an Egyptian forensic official says that body parts recovered from EgyptAir flight 804 indicate that the crash was caused by an explosion. ](/news/2016/05/24/reports-claim-that-an-egyptian-forensic-official-says-that-body-parts-recovered-from-egyptair-flight-804-indicate-that-the-crash-was-caused.md)
-_Context: EgyptAir Flight 804, EgyptAir, Egyptian_
+_Context: Egyptian, EgyptAir, EgyptAir Flight 804_
 
 ##### European migrant crisis
 ### [Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. ](/news/2016/05/24/greek-authorities-begin-operations-to-clear-the-idomeni-refugee-camp-on-the-border-with-macedonia.md)
@@ -45,7 +45,7 @@ French finance officials raid the Paris offices of US internet giant Google as p
 
 ##### Loretta Lynch
 ### [Loretta Lynch, the Attorney General of the United States, advises that the US government will seek the death penalty against Dylann Roof accused of conducting the 2015 Charleston massacre. ](/news/2016/05/24/loretta-lynch-the-attorney-general-of-the-united-states-advises-that-the-us-government-will-seek-the-death-penalty-against-dylann-roof-acc.md)
-_Context: sentenced to death, Charleston church shooting, Attorney General, Loretta Lynch, Dylann Roof_
+_Context: Dylann Roof, Charleston church shooting, Loretta Lynch, Attorney General, sentenced to death_
 
 ##### 
 ### [ Motorist Wahib Sadek Ahmed is arrested after he is accused of wielding a knife at a motorist. He is subdued after four taser shots. The FBI investigates after Sadek claim to be affiliated with a terrorist organization. His car is found to contain the knife and three guns, including an AK-47, and a loaded 45-caliber pistol.](/news/2016/05/24/motorist-wahib-sadek-ahmed-is-arrested-after-he-is-accused-of-wielding-a-knife-at-a-motorist-he-is-subdued-after-four-taser-shots-the-fbi.md)
@@ -53,7 +53,7 @@ Arlington police dash-cam video showed suspect Wahib Sadek getting out of his ca
 
 ##### Iran
 ### [Iran's Assembly of Experts new session is opened which elects Ahmad Jannati as its chairman. ](/news/2016/05/24/iran-s-assembly-of-experts-new-session-is-opened-which-elects-ahmad-jannati-as-its-chairman.md)
-_Context: new session, Assembly of Experts, Iran, Ahmad Jannati_
+_Context: Assembly of Experts, Iran, new session, Ahmad Jannati_
 
 ##### President of Turkey
 ### [The President of Turkey Recep Tayyip Erdogan formally approves his ally Binali Yildirim as the Prime Minister. ](/news/2016/05/24/the-president-of-turkey-recep-tayyip-erdoaan-formally-approves-his-ally-binali-ya-lda-ra-m-as-the-prime-minister.md)

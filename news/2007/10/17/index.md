@@ -9,19 +9,19 @@ _Context: pension, public transport, France_
 
 ##### John Fahey
 ### [ John Fahey, former Premier of New South Wales, is appointed as the President of the World Anti-Doping Agency. ](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.md)
-_Context: Premier, John Fahey, World Anti-Doping Agency_
+_Context: Premier, World Anti-Doping Agency, John Fahey_
 
 ##### Burma
 ### [ Burmese activist and Nobel laureate Aung San Suu Kyi is granted honorary citizenship by Canada. ](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.md)
-_Context: Honorary Canadian citizenship, Aung San Suu Kyi, Canadian, Burma_
+_Context: Burma, Canadian, Aung San Suu Kyi, Honorary Canadian citizenship_
 
 ##### 2007 Turkish offensive on Iraqi territories against Kurdish rebels
 ### [ 2007 Turkish offensive on Iraqi territories against Kurdish rebels: The Turkish Grand National Assembly approves a government request for their troops to cross the Iraqi border to attack Kurdish rebels. ](/news/2007/10/17/2007-turkish-offensive-on-iraqi-territories-against-kurdish-rebels-the-turkish-grand-national-assembly-approves-a-government-request-for-t.md)
-_Context: Iraq, Turkish Parliament, Turkey, 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraqi Kurd_
+_Context: Turkish Parliament, Iraq, Iraqi Kurd, Turkey, 2007 Turkish offensive on Iraqi territories against Kurdish rebels_
 
 ##### President of Sudan
 ### [ The President of Sudan Omar Hassan al-Bashir approves a Cabinet reshuffle meeting one of the demands of the Sudan People's Liberation Movement (SPLM) who had earlier withdrawn participation in the government. ](/news/2007/10/17/the-president-of-sudan-omar-hassan-al-bashir-approves-a-cabinet-reshuffle-meeting-one-of-the-demands-of-the-sudan-people-s-liberation-movem.md)
-_Context: President of Sudan, Sudan People's Liberation Movement, forming a government, Omar Hassan al-Bashir_
+_Context: forming a government, President of Sudan, Omar Hassan al-Bashir, Sudan People's Liberation Movement_
 
 ##### Bombay Stock Exchange
 ### [ Trading on the Bombay Stock Exchange's BSE Sensex is briefly suspended after a 9% decline in the market. ](/news/2007/10/17/trading-on-the-bombay-stock-exchange-s-bse-sensex-is-briefly-suspended-after-a-9-decline-in-the-market.md)
@@ -29,7 +29,7 @@ _Context: Bombay Stock Exchange, BSE Sensex_
 
 ##### Floyd Roland
 ### [ Floyd Roland becomes the new Premier of the Northwest Territories, Canada. ](/news/2007/10/17/floyd-roland-becomes-the-new-premier-of-the-northwest-territories-canada.md)
-_Context: Floyd Roland, Canadian, Premier of the Northwest Territories_
+_Context: Premier of the Northwest Territories, Floyd Roland, Canadian_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI announces he will create twenty-three new members of the College of Cardinals in the consistory of November 24. ](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.md)

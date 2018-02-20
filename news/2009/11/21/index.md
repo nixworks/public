@@ -9,7 +9,7 @@ A group of Irish soccer supporters gathered at the French Embassy in Dublin this
 
 ##### President
 ### [ President of Egypt Hosni Mubarak says on national television he will not tolerate the "humiliation" of Egyptian nationals abroad following the riots between Algeria and Egypt over a qualifying match for the 2010 World Cup. ](/news/2009/11/21/president-of-egypt-hosni-mubarak-says-on-national-television-he-will-not-tolerate-the-humiliation-of-egyptian-nationals-abroad-following.md)
-_Context: qualifying match, President, Algeria, Hosni Mubarak, 2010 World Cup_
+_Context: qualifying match, Algeria, Hosni Mubarak, President, 2010 World Cup_
 
 ##### Italy
 ### [ Italian police arrest two Pakistani nationals suspected of providing logistical support to the group responsible for the attacks in Mumbai in 2008. ](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.md)
@@ -25,11 +25,11 @@ Parts of the south and west are on high alert this evening as more rain and high
 
 ##### U.S. President
 ### [ U.S. President Barack Obama's job approval rating slips below 50 percent in a daily tracking survey by Gallup poll. ](/news/2009/11/21/u-s-president-barack-obama-s-job-approval-rating-slips-below-50-percent-in-a-daily-tracking-survey-by-gallup-poll.md)
-_Context: Gallup poll, U.S. President, Barack Obama_
+_Context: Barack Obama, U.S. President, Gallup poll_
 
 ##### Homo floresiensis
 ### [ New research concludes that "Homo floresiensis", discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfism.md)
-_Context: dwarfism, microcephaly, Homo floresiensis_
+_Context: microcephaly, dwarfism, Homo floresiensis_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government announces that Tamil refugees held in camps since the end of the conflict with the Tamil Tigers will be free to leave the camps next month. ](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.md)
@@ -41,7 +41,7 @@ _Context: China, Heilongjiang_
 
 ##### Netherlands
 ### [ The Netherlands win the Junior Eurovision Song Contest 2009 with the song "Click Clack" by Ralf Mackenbach. ](/news/2009/11/21/the-netherlands-win-the-junior-eurovision-song-contest-2009-with-the-song-click-clack-by-ralf-mackenbach.md)
-_Context: Ralf Mackenbach, Netherlands, Junior Eurovision Song Contest 2009_
+_Context: Netherlands, Ralf Mackenbach, Junior Eurovision Song Contest 2009_
 
 ## [Previous Day...](/news/2009/11/20/index.md)
 

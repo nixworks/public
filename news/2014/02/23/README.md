@@ -13,7 +13,7 @@ A bomb killed two people and wounded at least 22 in a busy shopping district of 
 
 ##### Taliban
 ### [The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/the-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md)
-_Context: Taliban, Kunar province, military personnel_
+_Context: Taliban, military personnel, Kunar province_
 
 ##### Syria
 ### [Seven people are killed and 50 wounded in a car bombing near a field hospital in northern Syria, close to the border with Turkey. ](/news/2014/02/23/seven-people-are-killed-and-50-wounded-in-a-car-bombing-near-a-field-hospital-in-northern-syria-close-to-the-border-with-turkey.md)

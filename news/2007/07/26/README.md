@@ -9,7 +9,7 @@ Congress moves one step closer to fulfilling its first pledge of the 2006 electi
 
 ##### United States
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
-_Context: gene therapy, United States, Food and Drug Administration_
+_Context: Food and Drug Administration, United States, gene therapy_
 
 ##### Mojave Airport
 ### [ Two people are killed and four injured in an explosion at the Mojave Airport in California. ](/news/2007/07/26/two-people-are-killed-and-four-injured-in-an-explosion-at-the-mojave-airport-in-california.md)
@@ -17,11 +17,11 @@ Two people were killed and four others seriously injured on Thursday in an explo
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average falls more than 300 points due to concerns about weaknesses in the United States housing market and weak profit results. ](/news/2007/07/26/the-dow-jones-industrial-average-falls-more-than-300-points-due-to-concerns-about-weaknesses-in-the-united-states-housing-market-and-weak-p.md)
-_Context: United States, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, United States_
 
 ##### NASA
 ### [ NASA confirms that it discovered the apparent sabotage of a non-critical component of the International Space Station due to be carried up by the Space Shuttle Endeavour on August 7. ](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.md)
-_Context: Space Shuttle ''Endeavour'', sabotage, International Space Station, NASA_
+_Context: sabotage, International Space Station, NASA, Space Shuttle ''Endeavour''_
 
 ##### Car bomb
 ### [ A car bomb in Baghdad kills at least 25 Iraqis and injures at least 50 more. ](/news/2007/07/26/a-car-bomb-in-baghdad-kills-at-least-25-iraqis-and-injures-at-least-50-more.md)
@@ -41,7 +41,7 @@ _Context: Gaza Strip, Israel, Hamas, Hamas_
 
 ##### Explosion
 ### [ An explosion at an ordnance depot in Aleppo, Syria kills at least 15 people and injures 50 others. ](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.md)
-_Context: Aleppo, ordnance, explosion, Syria_
+_Context: explosion, Aleppo, ordnance, Syria_
 
 ##### 2007 European heat wave
 ### [ Effects of the 2007 European heat wave worsen with new forest fires being reported. ](/news/2007/07/26/effects-of-the-2007-european-heat-wave-worsen-with-new-forest-fires-being-reported.md)
@@ -49,7 +49,7 @@ _Context: 2007 European heat wave_
 
 ##### Earthquake
 ### [ A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. ](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.md)
-_Context: North Maluku, Indonesia, Maluku Islands, earthquake, tsunami_
+_Context: Maluku Islands, North Maluku, earthquake, Indonesia, tsunami_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)

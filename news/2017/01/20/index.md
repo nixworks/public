@@ -33,11 +33,11 @@ The heir to the Johnson &amp; Johnson pharmaceutical empire originally supported
 
 ##### Drove a car
 ### [Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. ](/news/2017/01/20/three-people-are-killed-and-twenty-injured-after-a-man-drove-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melbourne.md)
-_Context: Melbourne, drove a car, Australia, Victoria Police, Bourke Street Mall_
+_Context: Victoria Police, Australia, Melbourne, drove a car, Bourke Street Mall_
 
 ##### Inauguration of Donald Trump protests
 ### [Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. ](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windows-damage-cars-and-clash-with-the-police-six-police-officers-and-at-least-one-civilian-are.md)
-_Context: DC police, Inauguration of Donald Trump protests_
+_Context: Inauguration of Donald Trump protests, DC police_
 
 ##### Inauguration of Donald Trump
 ### [Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md)
@@ -49,7 +49,7 @@ The Gambian strongman Yahya Jammeh has agreed to step down, officials involved i
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Cabinet of Donald Trump, United States Secretary of Defense, James Mattis, Secretary of Homeland Security, Donald Trump, U.S. President, Cabinet, John F. Kelly_
+_Context: Donald Trump, James Mattis, John F. Kelly, U.S. President, Cabinet of Donald Trump, Secretary of Homeland Security, Cabinet, United States Secretary of Defense_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/8/index.html)  [JSON](2007/10/8/index.json)  [XML](2007/
 
 ##### U.S.
 ### [ U.S. athlete Marion Jones returns the five medals she won at the Sydney Olympics and accepts a two-year ban from the sport after admitting to her use of a prohibited substance. ](/news/2007/10/8/u-s-athlete-marion-jones-returns-the-five-medals-she-won-at-the-sydney-olympics-and-accepts-a-two-year-ban-from-the-sport-after-admitting.md)
-_Context: 2000 Olympics, athlete, banned substances, U.S., Marion Jones_
+_Context: Marion Jones, banned substances, athlete, U.S., 2000 Olympics_
 
 ##### Australia
 ### [ Australia suffers its first combat casualty in Afghanistan following the explosion of a bomb in the southern province of Oruzgan. ](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.md)
@@ -21,15 +21,15 @@ Britain will cut its military presence in Iraq by more than half to leave 2,500 
 
 ##### Mario R. Capecchi
 ### [ Mario R. Capecchi, Oliver Smithies, and Sir Martin J. Evans are announced as winners of the 2007 Nobel Prize in Physiology or Medicine for their discoveries of the principles for introducing specific gene modifications by the use of embryonic stem cells in mice. ](/news/2007/10/8/mario-r-capecchi-oliver-smithies-and-sir-martin-j-evans-are-announced-as-winners-of-the-2007-nobel-prize-in-physiology-or-medicine-for.md)
-_Context: Sir Martin J. Evans, Oliver Smithies, Nobel Prize in Physiology or Medicine, embryonic stem cell, Mario R. Capecchi, specific gene modifications, mouse_
+_Context: Mario R. Capecchi, mouse, Sir Martin J. Evans, Oliver Smithies, specific gene modifications, embryonic stem cell, Nobel Prize in Physiology or Medicine_
 
 ##### Escort
 ### [ A helicopter escorting the helicopter of President Pervez Musharraf crashes in Pakistan-administered Kashmir, killing four security officials and injuring his spokesman.date=December 2007 Forty five Pakistani soldiers and 130 pro-Taliban militants have died in two days of fierce fighting in North Waziristan, the Pakistani army says. ](/news/2007/10/8/a-helicopter-escorting-the-helicopter-of-president-pervez-musharraf-crashes-in-pakistan-administered-kashmir-killing-four-security-officia.md)
-_Context: Pervez Musharraf, escort, spokesman, Pakistan, president, two days of fierce fighting, security, Taliban, Kashmir, helicopter_
+_Context: spokesman, president, security, Kashmir, Pervez Musharraf, helicopter, Taliban, Pakistan, two days of fierce fighting, escort_
 
 ##### 2007 Burmese anti-government protests
 ### [ 2007 Burmese anti-government protests: Burma's junta announces that Buddhist monasteries have accepted US$8000 as well as food and medicine from its soldiers to signify the armed forces have not left the faith. ](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.md)
-_Context: junta, Buddhist monk, 2007 Burmese anti-government protests, Burma, $_
+_Context: 2007 Burmese anti-government protests, $, Buddhist monk, Burma, junta_
 
 ## [Previous Day...](/news/2007/10/7/index.md)
 

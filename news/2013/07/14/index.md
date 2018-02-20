@@ -17,7 +17,7 @@ _Context: Russia, Dagestan_
 
 ##### Typhoon Soulik
 ### [Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. ](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.md)
-_Context: Typhoon Soulik, Taiwan, Guangdong, China_
+_Context: China, Guangdong, Taiwan, Typhoon Soulik_
 
 ##### Mexican Army
 ### [The Mexican Army captures Miguel Trevio Morales, a leader of the Los Zetas criminal gang. ](/news/2013/07/14/the-mexican-army-captures-miguel-trevino-morales-a-leader-of-the-los-zetas-criminal-gang.md)

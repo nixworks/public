@@ -5,7 +5,7 @@ Formats: [HTML](2005/02/9/index.html)  [JSON](2005/02/9/index.json)  [XML](2005/
 
 ##### War on Terror
 ### [ War on Terror: Democrat Jane Harman, the ranking member of the U.S. House Permanent Select Committee on Intelligence, announces she is planning to introduce a bill to ban torture by U.S. interrogators and bar transfers of detainees to countries that engage in torture. ](/news/2005/02/9/war-on-terror-democrat-jane-harman-the-ranking-member-of-the-u-s-house-permanent-select-committee-on-intelligence-announces-she-is-plan.md)
-_Context: Jane Harman, Democrat, torture, ranking member, U.S. House Permanent Select Committee on Intelligence, War on Terror_
+_Context: torture, U.S. House Permanent Select Committee on Intelligence, Democrat, War on Terror, Jane Harman, ranking member_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide bomber kills at least 21 people outside a police recruiting center in Baghdad. In a separate incident also in Baghdad, three policemen die from a firefight in the notoriously dangerous neighborhood of Ghazaliyah. ](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.md)
@@ -21,7 +21,7 @@ _Context: 2004 Indian Ocean earthquake_
 
 ##### Switzerland
 ### [ Switzerland's Federal Court rules that the money that former Nigerian dictator Sani Abacha took from Nigeria may be returned to the country. Abacha took hundreds of millions of dollars from Nigeria during his rule as dictator. ](/news/2005/02/9/switzerland-s-federal-court-rules-that-the-money-that-former-nigerian-dictator-sani-abacha-took-from-nigeria-may-be-returned-to-the-country.md)
-_Context: dictator, Switzerland, Sani Abacha_
+_Context: dictator, Sani Abacha, Switzerland_
 
 ##### ECOWAS
 ### [ The Economic Community of West African States intends to hold an emergency summit in Niger to discuss the political developments about the appointment of Faure Gnassingb as the president of Togo. ](/news/2005/02/9/the-economic-community-of-west-african-states-intends-to-hold-an-emergency-summit-in-niger-to-discuss-the-political-developments-about-the.md)
@@ -33,7 +33,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Canadian
 ### [ In Canada, former prime minister Jean Chrtien defends his government's actions in an inquiry into the misuse of government advertising and sponsorship funds. ](/news/2005/02/9/in-canada-former-prime-minister-jean-chretien-defends-his-government-s-actions-in-an-inquiry-into-the-misuse-of-government-advertising-and.md)
-_Context: Canadian, Jean Chrtien, Prime Minister of Canada_
+_Context: Canadian, Prime Minister of Canada, Jean Chrtien_
 
 ##### French parliament
 ### [ Parliament of France votes in favor of relaxing the 35-hour work week rules. ](/news/2005/02/9/parliament-of-france-votes-in-favor-of-relaxing-the-35-hour-work-week-rules.md)

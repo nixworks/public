@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/19/index.html)  [JSON](2014/11/19/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md)
-_Context: Boko Haram, Nigeria_
+_Context: Nigeria, Boko Haram_
 
 ##### Kachin conflict
 ### [The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md)
@@ -37,7 +37,7 @@ Officials from the Solomon Islands Electoral Commission declare the final result
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama is inaugurated as the Governor of Jakarta, the first ethnic Chinese ever to hold the post. He succeeds Joko Widodo, who is now president. ](/news/2014/11/19/basuki-tjahaja-purnama-is-inaugurated-as-the-governor-of-jakarta-the-first-ethnic-chinese-ever-to-hold-the-post-he-succeeds-joko-widodo-w.md)
-_Context: Governor, Joko Widodo, is now president, Basuki Tjahaja Purnama, ethnic Chinese Christian_
+_Context: ethnic Chinese Christian, Joko Widodo, Governor, Basuki Tjahaja Purnama, is now president_
 
 ##### Scottish Parliament
 ### [The Scottish Parliament elects Nicola Sturgeon as the first female First Minister of Scotland. ](/news/2014/11/19/the-scottish-parliament-elects-nicola-sturgeon-as-the-first-female-first-minister-of-scotland.md)

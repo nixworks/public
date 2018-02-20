@@ -9,19 +9,19 @@ Official website of The Church of Jesus Christ of Latter-day Saints (Mormons). F
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Former United States Secretary of Health and Human Services Tommy Thompson announces his candidacy for President. ](/news/2007/04/1/united-states-presidential-election-2008-former-united-states-secretary-of-health-and-human-services-tommy-thompson-announces-his-candida.md)
-_Context: presidential candidate, Secretary of Health and Human Services, Tommy Thompson, U.S. President_
+_Context: U.S. President, presidential candidate, Tommy Thompson, Secretary of Health and Human Services_
 
 ##### Iran
 ### [ Iranian Basiji students protest outside the British embassy in Tehran. ](/news/2007/04/1/iranian-basiji-students-protest-outside-the-british-embassy-in-tehran.md)
-_Context: Basij, demonstration, Tehran, embassies, Iran, United Kingdom_
+_Context: embassies, Iran, demonstration, United Kingdom, Basij, Tehran_
 
 ##### World Wrestling Entertainment
 ### [ World Wrestling Entertainment's flagship pay-per-view, WrestleMania 23 takes place at Ford Field in Detroit, Michigan, setting an arena record of 80,103. ](/news/2007/04/1/world-wrestling-entertainment-s-flagship-pay-per-view-wrestlemania-23-takes-place-at-ford-field-in-detroit-michigan-setting-an-arena-rec.md)
-_Context: Mich., WrestleMania 23, pay-per-view, Ford Field, World Wrestling Entertainment, Detroit_
+_Context: WrestleMania 23, Detroit, pay-per-view, World Wrestling Entertainment, Mich., Ford Field_
 
 ##### Ukraine
 ### [ Ukrainian political rivals rally in Kiev in response to the threat that President Viktor Yushchenko might dissolve the parliament and call for new elections. ](/news/2007/04/1/ukrainian-political-rivals-rally-in-kiev-in-response-to-the-threat-that-president-viktor-yushchenko-might-dissolve-the-parliament-and-call.md)
-_Context: Ukraine, parliament, Ukrainian President, Viktor Yushchenko, Kiev_
+_Context: Ukrainian President, Viktor Yushchenko, Ukraine, parliament, Kiev_
 
 ## [Previous Day...](/news/2007/03/31/index.md)
 

@@ -21,7 +21,7 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 
 ##### Bangladesh-Holy See relations
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
-_Context: Rohingya refugees in Bangladesh, Dhaka, Myanmar, Rohingya, Bangladesh-Holy See relations, Bangladesh, Pope Francis_
+_Context: Dhaka, Pope Francis, Bangladesh, Rohingya, Bangladesh-Holy See relations, Rohingya refugees in Bangladesh, Myanmar_
 
 ##### Saudi-led intervention in Yemen
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
@@ -33,7 +33,7 @@ _Context: United Nations, United States and the United Nations_
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
-_Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
+_Context: Tax Cuts and Jobs Act of 2017, tax reform, United States Senate_
 
 ##### Voyager program
 ### [Voyager 1 successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firings-are-to.md)

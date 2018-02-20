@@ -13,7 +13,7 @@ Projectile strikes open area in Eshkol region, after two others hit near Ashkelo
 
 ##### Syrian rebels
 ### [Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility. ](/news/2014/02/6/fighting-between-syrian-rebels-and-government-forces-rages-around-the-aleppo-central-prison-in-the-war-torn-city-of-aleppo-but-it-is-unclea.md)
-_Context: government forces, Syrian rebels, Aleppo_
+_Context: government forces, Aleppo, Syrian rebels_
 
 ##### Jay Leno
 ### [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md)
@@ -33,7 +33,7 @@ Rescue workers at the Doornkop gold mine in South Africa say they have recovered
 
 ##### Chinese
 ### [Chinese media criticizes Philippine President Benigno Aquino III for his remarks the previous day. ](/news/2014/02/6/chinese-media-criticizes-philippine-president-benigno-aquino-iii-for-his-remarks-the-previous-day.md)
-_Context: his predecessor, Philippine, Chinese_
+_Context: Philippine, Chinese, his predecessor_
 
 ##### Ban Ki-moon
 ### [In an Olympic first, UN Secretary-General Ban Ki-moon today addresses the IOC Session in advance of the Olympic Winter Games in Sochi. ](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.md)

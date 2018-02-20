@@ -5,7 +5,7 @@ Formats: [HTML](2004/09/8/index.html)  [JSON](2004/09/8/index.json)  [XML](2004/
 
 ##### Russian President
 ### [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md)
-_Context: Russian President, Aslan Maskhadov, Shamil Basayev, democratic, Vladimir Putin, Chechnya, $, Russian ruble_
+_Context: Aslan Maskhadov, $, Vladimir Putin, Russian President, democratic, Russian ruble, Chechnya, Shamil Basayev_
 
 ##### U.N.
 ### [ U.N. officials say a ten-year-old Palestinian girl is in critical condition after being hit by "indiscriminate" gunfire from Israeli forces while sitting in school. Israel alleges that it exchanged fire with militants in the area but says it did not fire at buildings. ](/news/2004/09/8/u-n-officials-say-a-ten-year-old-palestinian-girl-is-in-critical-condition-after-being-hit-by-indiscriminate-gunfire-from-israeli-forces.md)
@@ -17,11 +17,11 @@ _Context: Lincoln, Nebraska, Partial-Birth Abortion Ban Act, United States Supre
 
 ##### Kidnapping
 ### [ Italians outraged by the latest kidnapping in Iraq&mdash;of two Italian aid workers&mdash;gather to protest outside Prime Minister Silvio Berlusconi's offices in Rome. ](/news/2004/09/8/italians-outraged-by-the-latest-kidnapping-in-iraq-mdash-of-two-italian-aid-workers-mdash-gather-to-protest-outside-prime-minister-silvio-b.md)
-_Context: Silvio Berlusconi, Iraq, Rome, Italy, kidnapping, protest_
+_Context: kidnapping, Silvio Berlusconi, Rome, Italy, Iraq, protest_
 
 ##### NASA
 ### [ The NASA unmanned spacecraft Genesis crash-lands as its parachute fails to open. The damage to the science instruments and collected samples on board is not yet known. ](/news/2004/09/8/the-nasa-unmanned-spacecraft-genesis-crash-lands-as-its-parachute-fails-to-open-the-damage-to-the-science-instruments-and-collected-sample.md)
-_Context: Genesis, NASA_
+_Context: NASA, Genesis_
 
 ## [Previous Day...](/news/2004/09/7/index.md)
 

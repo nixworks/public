@@ -45,7 +45,7 @@ The government abandons plans for a crucial vote on its plans to reform the Hous
 
 ##### San Bernardino, California
 ### [The US city of San Bernardino becomes the third city in the state of California to file for bankruptcy protection. ](/news/2012/07/10/the-us-city-of-san-bernardino-becomes-the-third-city-in-the-state-of-california-to-file-for-bankruptcy-protection.md)
-_Context: San Bernardino, California, California_
+_Context: California, San Bernardino, California_
 
 ## [Previous Day...](/news/2012/07/9/index.md)
 

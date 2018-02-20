@@ -37,7 +37,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ##### 2017 in spaceflight
 ### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: Minotaur-C, 2017 in spaceflight, successful mission, Vandenberg Air Force Base, California, Planet Labs, since 2004_
+_Context: 2017 in spaceflight, Minotaur-C, Planet Labs, since 2004, California, Vandenberg Air Force Base, successful mission_
 
 ## [Previous Day...](/news/2017/10/30/index.md)
 

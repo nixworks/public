@@ -9,7 +9,7 @@ _Context: IDs, Belgium_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush criticises the disclosure of a program to monitor financial transactions by suspected terrorists as "disgraceful". White House Press Secretary Tony Snow also states that news organizations, including the "New York Times," should think if "the public's right to know, in some cases, might override somebody's right to live..." ](/news/2006/06/26/u-s-president-george-w-bush-criticises-the-disclosure-of-a-program-to-monitor-financial-transactions-by-suspected-terrorists-as-disgrace.md)
-_Context: White House Press Secretary, New York Times, U.S. President, George W. Bush, Tony Snow_
+_Context: White House Press Secretary, New York Times, George W. Bush, Tony Snow, U.S. President_
 
 ##### Waziristan War
 ### [ Waziristan War: a suicide car bombing kills six Pakistani soldiers. ](/news/2006/06/26/waziristan-war-a-suicide-car-bombing-kills-six-pakistani-soldiers.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Italy
 ### [ Italians reject the modification of their constitution. In a two-day referendum, "No" beats "Yes" approximately 61% to 38%, thus keeping the text unchanged. The Northern League had announced its withdrawal from the centre-right opposition coalition if reform was defeated. Votes of Italians living abroad are still to be counted. ](/news/2006/06/26/italians-reject-the-modification-of-their-constitution-in-a-two-day-referendum-no-beats-yes-approximately-61-to-38-thus-keeping-th.md)
-_Context: constitution, Northern League, Italy_
+_Context: Italy, Northern League, constitution_
 
 ## [Previous Day...](/news/2006/06/25/index.md)
 

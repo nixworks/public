@@ -9,15 +9,15 @@ Three bombs targeted public markets and a Shiite mosque, the police said, the la
 
 ##### Tehrik-i-Taliban Pakistan
 ### [Taliban militants in Pakistan say they have killed 23 captured Pakistani security force members, in a setback to peace talks aimed at ending the Islamist insurgency. ](/news/2014/02/17/taliban-militants-in-pakistan-say-they-have-killed-23-captured-pakistani-security-force-members-in-a-setback-to-peace-talks-aimed-at-ending.md)
-_Context: Tehrik-i-Taliban Pakistan, Pakistan Army_
+_Context: Pakistan Army, Tehrik-i-Taliban Pakistan_
 
 ##### Ethiopian Airlines Flight 702
 ### [Ethiopian Airlines Flight 702 between Addis Ababa and Rome is diverted to land at Geneva in an attempted hijacking by the co-pilot who claims to be seeking political asylum. ](/news/2014/02/17/ethiopian-airlines-flight-702-between-addis-ababa-and-rome-is-diverted-to-land-at-geneva-in-an-attempted-hijacking-by-the-co-pilot-who-claim.md)
-_Context: Addis Ababa, Geneva, Rome, Italy, Ethiopian Airlines Flight 702_
+_Context: Rome, Italy, Ethiopian Airlines Flight 702, Geneva, Addis Ababa_
 
 ##### The Tonight Show Starring Jimmy Fallon
 ### [American late-night show "The Tonight Show Starring Jimmy Fallon" premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succeedi.md)
-_Context: Jay Leno, NBC, The Tonight Show Starring Jimmy Fallon, Jimmy Fallon_
+_Context: NBC, The Tonight Show Starring Jimmy Fallon, Jimmy Fallon, Jay Leno_
 
 ##### United Kingdom
 ### [Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weather-warnings-for-southwest-england.md)
@@ -25,7 +25,7 @@ The government urges the insurance industry to deal with flood-related claims as
 
 ##### Nepalese police
 ### [Nepalese police find the wreckage of a missing Nepal Airlines plane in the mountainous West with all 18 passengers and crew dead. ](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.md)
-_Context: Nepal Airlines, Nepalese police_
+_Context: Nepalese police, Nepal Airlines_
 
 ##### Pope Francis
 ### [The Vatican head of state, Pope Francis, renews his Argentine passport, reportedly asking not to enjoy any privilege. ](/news/2014/02/17/the-vatican-head-of-state-pope-francis-renews-his-argentine-passport-reportedly-asking-not-to-enjoy-any-privilege.md)
@@ -41,7 +41,7 @@ Iran&#39;s ambassador to Moscow says Russia could build the Islamic republic a s
 
 ##### Venezuela
 ### [Venezuela orders the expulsion of three US consular officials amid rising tensions over anti-government protests after accusing the US of working with the opposition to undermine President Nicolas Maduro's government. ](/news/2014/02/17/venezuela-orders-the-expulsion-of-three-us-consular-officials-amid-rising-tensions-over-anti-government-protests-after-accusing-the-us-of-wo.md)
-_Context: Venezuela, Nicolas Maduro, 2014 Venezuelan protests, United States-Venezuela relations_
+_Context: United States-Venezuela relations, 2014 Venezuelan protests, Venezuela, Nicolas Maduro_
 
 ##### United States Supreme Court
 ### [The legality of private gambling is taken before the United States Supreme Court. ](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.md)
@@ -57,7 +57,7 @@ Florence Mayor Matteo Renzi, Italy’s prime minister-designate, set to building
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
-_Context: Scotland, Alex Salmond, Scottish independence, United Kingdom, First Minister_
+_Context: United Kingdom, Alex Salmond, Scotland, First Minister, Scottish independence_
 
 ##### Near-Earth asteroid
 ### [A large near-Earth asteroid, 2000 EM26, passes by the Earth safely with no threat of collision at 8.8 times further from the Earth than the Moon. ](/news/2014/02/17/a-large-near-earth-asteroid-2000-em26-passes-by-the-earth-safely-with-no-threat-of-collision-at-8-8-times-further-from-the-earth-than-the.md)

@@ -17,7 +17,7 @@ Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualti
 
 ##### Thailand
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)
-_Context: Thailand, curfew, censorship_
+_Context: curfew, censorship, Thailand_
 
 ##### Saudi Arabia
 ### [ Saudi Arabian long-time ambassador to the US, prince Bandar bin Sultan, resigns for "personal reasons" ](/news/2005/07/20/saudi-arabian-long-time-ambassador-to-the-us-prince-bandar-bin-sultan-resigns-for-personal-reasons.md)
@@ -33,11 +33,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Coal
 ### [ In China, coal mine explosion in Shaanxi province kills 24&ndash;26 ](/news/2005/07/20/in-china-coal-mine-explosion-in-shaanxi-province-kills-24-ndash-26.md)
-_Context: coal, Shaanxi_
+_Context: Shaanxi, coal_
 
 ##### Brazil
 ### [ In Brazil, Delubio Soares, former treasurer for the ruling Worker's Party, admits in a parliamentary hearing that the party did not declare contributions worth $17 million ](/news/2005/07/20/in-brazil-delubio-soares-former-treasurer-for-the-ruling-worker-s-party-admits-in-a-parliamentary-hearing-that-the-party-did-not-declare.md)
-_Context: Delubio Soares, Brazil Workers' Party, Brazil_
+_Context: Brazil Workers' Party, Delubio Soares, Brazil_
 
 ##### Scam
 ### [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comman.md)

@@ -13,7 +13,7 @@ DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ##### State Department
 ### [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md)
-_Context: Yemen, State Department, United States, al-Qaida_
+_Context: State Department, al-Qaida, Yemen, United States_
 
 ##### Drug cartel
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
@@ -41,7 +41,7 @@ Tunisian police shot dead an Islamist militant on Tuesday in a suburb on the out
 
 ##### Argentina
 ### [A gas explosion in an apartment block kills five people and injures a dozen in the Argentine city of Rosario. ](/news/2013/08/6/a-gas-explosion-in-an-apartment-block-kills-five-people-and-injures-a-dozen-in-the-argentine-city-of-rosario.md)
-_Context: Argentina, Rosario_
+_Context: Rosario, Argentina_
 
 ##### Switzerland
 ### [A hot Air Balloon carrying an American family crashes killing one person and injures four in the Swiss town of Montbovon. ](/news/2013/08/6/a-hot-air-balloon-carrying-an-american-family-crashes-killing-one-person-and-injures-four-in-the-swiss-town-of-montbovon.md)
@@ -53,7 +53,7 @@ Hasan, paralyzed from the waist down after being shot by police, is representing
 
 ##### First execution
 ### [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaocnyn-is-executed-in-hanoi.md)
-_Context: Hanoi, Viet Nam, first execution, lethal injection_
+_Context: Viet Nam, first execution, Hanoi, lethal injection_
 
 ##### Tunisia
 ### [Tunisia's constituent assembly is suspended until the Islamist-led Government and secular opposition begin talks to resolve a Political crisis. ](/news/2013/08/6/tunisia-s-constituent-assembly-is-suspended-until-the-islamist-led-government-and-secular-opposition-begin-talks-to-resolve-a-political-cris.md)
@@ -61,7 +61,7 @@ _Context: Tunisia_
 
 ##### Saudi Arabia
 ### [Saudi king Abdullah appoints Prince Sultan bin Salman Al Saud as deputy Defense Minister. ](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.md)
-_Context: Sultan bin Salman Al Saud, Saudi Arabia, Abdullah, Defense Minister_
+_Context: Saudi Arabia, Sultan bin Salman Al Saud, Defense Minister, Abdullah_
 
 ## [Previous Day...](/news/2013/08/5/index.md)
 

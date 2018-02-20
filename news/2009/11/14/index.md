@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/14/index.html)  [JSON](2009/11/14/index.json)  [XML](200
 
 ##### New Zealand national football team
 ### [ New Zealand qualify for the 2010 FIFA World Cup for the first time since 1982, by defeating Bahrain in a playoff billed as "the biggest sporting event ever staged in New Zealand" and the country's most attended football match ever. ](/news/2009/11/14/new-zealand-qualify-for-the-2010-fifa-world-cup-for-the-first-time-since-1982-by-defeating-bahrain-in-a-playoff-billed-as-the-biggest-spo.md)
-_Context: New Zealand national football team, Bahrain, 2010 FIFA World Cup_
+_Context: Bahrain, New Zealand national football team, 2010 FIFA World Cup_
 
 ##### Evangelist
 ### [ U.S. evangelist Tony Alamo is sentenced to 175 years in prison for taking underage girls across several states for sexual intercourse. ](/news/2009/11/14/u-s-evangelist-tony-alamo-is-sentenced-to-175-years-in-prison-for-taking-underage-girls-across-several-states-for-sexual-intercourse.md)
@@ -13,7 +13,7 @@ Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking 
 
 ##### Ogaden National Liberation Front
 ### [ The Ogaden National Liberation Front, a separatist Somali rebel group in the southeast of Ethiopia, says it has begun a new offensive. ](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.md)
-_Context: Ogaden National Liberation Front, Somalia, Ethiopia_
+_Context: Somalia, Ethiopia, Ogaden National Liberation Front_
 
 ##### Peru
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)
@@ -21,11 +21,11 @@ _Context: spy, Peru, Chile_
 
 ##### Saudi Arabia
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
-_Context: Houthi, Yemen, Shia insurgency in Yemen, Saudi Arabia_
+_Context: Saudi Arabia, Yemen, Houthi, Shia insurgency in Yemen_
 
 ##### Ultra-orthodox
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
-_Context: ultra-orthodox, Jew, Israel, United States, Sabbath, Intel_
+_Context: ultra-orthodox, Israel, Jew, Sabbath, United States, Intel_
 
 ##### Shooting range
 ### [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md)
@@ -33,7 +33,7 @@ A fire that swept through a South Korean indoor shooting range killed at least 1
 
 ##### Slovenia
 ### [ Slovenia signs an agreement with Russia to allow the South Stream gas pipeline to Europe pass through the country. ](/news/2009/11/14/slovenia-signs-an-agreement-with-russia-to-allow-the-south-stream-gas-pipeline-to-europe-pass-through-the-country.md)
-_Context: South Stream, Russia, Slovenia_
+_Context: South Stream, Slovenia, Russia_
 
 ##### Taipei
 ### [ Thousands of protesters demonstrate in Taipei, Taiwan, against imports of certain U.S. beef products. ](/news/2009/11/14/thousands-of-protesters-demonstrate-in-taipei-taiwan-against-imports-of-certain-u-s-beef-products.md)
@@ -41,11 +41,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Jaipur
 ### [ Several people are killed and dozens injured after an express train crashes near Jaipur, India. ](/news/2009/11/14/several-people-are-killed-and-dozens-injured-after-an-express-train-crashes-near-jaipur-india.md)
-_Context: India, Jaipur_
+_Context: Jaipur, India_
 
 ##### United Nations
 ### [ The United Nations chief of the Food and Agriculture Organization completes a 24 hour hunger strike in Rome, Italy, ahead of a UN summit next week. ](/news/2009/11/14/the-united-nations-chief-of-the-food-and-agriculture-organization-completes-a-24-hour-hunger-strike-in-rome-italy-ahead-of-a-un-summit-ne.md)
-_Context: hunger strike, Food and Agriculture Organization, Italy, United Nations, Rome, Italy_
+_Context: Food and Agriculture Organization, United Nations, hunger strike, Italy, Rome, Italy_
 
 ##### Peshawar
 ### [ At least 11 people are killed and 24 injured after a bomb explodes in Peshawar, Pakistan. ](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.md)

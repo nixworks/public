@@ -9,7 +9,7 @@ Aid agencies warn of dire humanitarian conditions as bombings knock out civilian
 
 ##### Territorial disputes in the South China Sea
 ### [United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-race.md)
-_Context: South China Sea, Territorial disputes in the South China Sea, United States Pacific Fleet, Scott H. Swift_
+_Context: Territorial disputes in the South China Sea, South China Sea, Scott H. Swift, United States Pacific Fleet_
 
 ##### Islamist insurgency in Nigeria
 ### [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md)
@@ -25,7 +25,7 @@ Typhoon Melor roared through the storm-scarred central islands of the country on
 
 ##### United States
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
-_Context: muscle relaxant, Bridion, Merck & Co., Food and Drug Administration, United States_
+_Context: Merck & Co., Food and Drug Administration, United States, muscle relaxant, Bridion_
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md)
@@ -37,7 +37,7 @@ United Nations experts said in a new report on Tuesday the launch used ballistic
 
 ##### Baltimore
 ### [A Baltimore, Maryland deadlocked jury was told by the trial judge to resume deliberations after closing arguments in the first trial of police officer William Porter, charged in the death of Freddie Gray. With demonstrations and unrest following the death, the city has cancelled leave for police officers and the mayor has called for calm when a verdict is announced. ](/news/2015/12/15/a-baltimore-maryland-deadlocked-jury-was-told-by-the-trial-judge-to-resume-deliberations-after-closing-arguments-in-the-first-trial-of-poli.md)
-_Context: Baltimore, Maryland, Death of Freddie Gray_
+_Context: Maryland, Death of Freddie Gray, Baltimore_
 
 ##### Los Angeles Unified School District
 ### [Schools in the Los Angeles Unified School District close after receiving an unspecified "electronic" threat. Later, authorities conclude the threat was a hoax, and announce schools will reopen Wednesday. New York City schools' initial response to a similar threatening email was to treat it as a hoax. The emails were largely identical and had been routed through a server in Frankfurt, apparently by the same person. ](/news/2015/12/15/schools-in-the-los-angeles-unified-school-district-close-after-receiving-an-unspecified-electronic-threat-later-authorities-conclude-the.md)
@@ -53,7 +53,7 @@ A 21-year-old man is arrested in Berkshire, UK, as part of an investigation into
 
 ##### Flag referendum
 ### [New Zealand announces the flag design chosen by the public that will challenge the current flag in a March 2016 vote. Voters will choose between the current flag, which features the British Union Jack with a dark blue background, and the challenger, a silver fern and four red stars on a black and blue background. ](/news/2015/12/15/new-zealand-announces-the-flag-design-chosen-by-the-public-that-will-challenge-the-current-flag-in-a-march-2016-vote-voters-will-choose-bet.md)
-_Context: New Zealand, flag referendum, current flag, silver fern and four red stars_
+_Context: flag referendum, silver fern and four red stars, New Zealand, current flag_
 
 ##### Soyuz TMA-19M
 ### [The Soyuz TMA-19M, consisting of Expedition 46 crew members Yuri Malenchenko (RSA), Timothy Kopra (NASA) and Tim Peake (ESA), launches from the Baikonur Cosmodrome in Kazakhstan for the International Space Station (ISS) with Peake becoming the first Briton to represent the European Space Agency at the ISS. ](/news/2015/12/15/the-soyuz-tma-19m-consisting-of-expedition-46-crew-members-yuri-malenchenko-rsa-timothy-kopra-nasa-and-tim-peake-esa-launches-from.md)

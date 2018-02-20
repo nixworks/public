@@ -9,11 +9,11 @@ The President has signed the bill reconciling the Lisbon Treaty with the Constit
 
 ##### Uganda
 ### [ Ugandan MP David Bahati proposes creating a capital offence of "aggravated homosexuality" for gay sex with people under 18, disabled people or when the accused is HIV-positive. ](/news/2009/10/15/ugandan-mp-david-bahati-proposes-creating-a-capital-offence-of-aggravated-homosexuality-for-gay-sex-with-people-under-18-disabled-people.md)
-_Context: David Bahati, Uganda, homosexuality, HIV, gay sex_
+_Context: homosexuality, gay sex, HIV, Uganda, David Bahati_
 
 ##### U.N. General Assembly
 ### [ The U.N. General Assembly elects Bosnia and Herzegovina, Brazil, Gabon, Lebanon and Nigeria to the U.N. Security Council as non-veto-holding members. ](/news/2009/10/15/the-u-n-general-assembly-elects-bosnia-and-herzegovina-brazil-gabon-lebanon-and-nigeria-to-the-u-n-security-council-as-non-veto-holdin.md)
-_Context: U.N. General Assembly, Gabon, veto, Bosnia and Herzegovina, U.N. Security Council, Nigeria, Lebanese, Brazil_
+_Context: Bosnia and Herzegovina, Nigeria, veto, Brazil, U.N. Security Council, Gabon, U.N. General Assembly, Lebanese_
 
 ##### Narges Kalhor
 ### [ Narges Kalhor, the daughter of a senior adviser to President of Iran Mahmoud Ahmadinejad, applies for asylum in Germany. ](/news/2009/10/15/narges-kalhor-the-daughter-of-a-senior-adviser-to-president-of-iran-mahmoud-ahmadinejad-applies-for-asylum-in-germany.md)
@@ -21,19 +21,19 @@ The daughter of a senior adviser to Iranian President Mahmoud Ahmadinejad has ap
 
 ##### Burma
 ### [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50 nmi west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-west-of-st-martin-s-island.md)
-_Context: Bay of Bengal, St. Martin's Island, Bangladesh, Burma, warships_
+_Context: St. Martin's Island, Burma, Bay of Bengal, Bangladesh, warships_
 
 ##### Norway
 ### [ Three of the five members of the Norwegian Nobel Committee initially argued against awarding U.S. President Barack Obama the 2009 Nobel Peace Prize. ](/news/2009/10/15/three-of-the-five-members-of-the-norwegian-nobel-committee-initially-argued-against-awarding-u-s-president-barack-obama-the-2009-nobel-pea.md)
-_Context: Barack Obama, Norway, 2009 Nobel Peace Prize_
+_Context: 2009 Nobel Peace Prize, Barack Obama, Norway_
 
 ##### North Korea
 ### [ North Korea accuses South Korea of intruding into its territorial waters, further raising tensions on the Korean Peninsula. ](/news/2009/10/15/north-korea-accuses-south-korea-of-intruding-into-its-territorial-waters-further-raising-tensions-on-the-korean-peninsula.md)
-_Context: North Korea, territorial waters, South Korea, Korean Peninsula_
+_Context: North Korea, Korean Peninsula, territorial waters, South Korea_
 
 ##### Palestinians
 ### [ Palestinians have urged the UN to act to punish Israel for its offensive in the Gaza Strip last winter. ](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.md)
-_Context: Palestinians, Gaza Strip, Israel, UN, 2008-2009 Gaza War_
+_Context: Gaza Strip, Israel, Palestinians, UN, 2008-2009 Gaza War_
 
 ##### Pakistan
 ### [ At least 37 people are killed in a series of bomb attacks in Pakistani cities by militants. ](/news/2009/10/15/at-least-37-people-are-killed-in-a-series-of-bomb-attacks-in-pakistani-cities-by-militants.md)
@@ -49,11 +49,11 @@ _Context: ICC, Guinea, massacre of opposition protesters_
 
 ##### Finland
 ### [ Finland becomes the first country in the world to declare Internet broadband access a legal right. ](/news/2009/10/15/finland-becomes-the-first-country-in-the-world-to-declare-internet-broadband-access-a-legal-right.md)
-_Context: legal right, Finland, broadband, Internet_
+_Context: Finland, Internet, broadband, legal right_
 
 ##### Malaysia
 ### [ The ruling party in Malaysia, the United Malays National Organisation, announces internal reforms after a series of defeats in local elections. ](/news/2009/10/15/the-ruling-party-in-malaysia-the-united-malays-national-organisation-announces-internal-reforms-after-a-series-of-defeats-in-local-electi.md)
-_Context: Malaysia, United Malays National Organisation_
+_Context: United Malays National Organisation, Malaysia_
 
 ##### Lahore
 ### [ Militants launch attacks on police in Lahore, the capital of Punjab province, in Pakistan, killing 31 people after a week of violence in which more than 100 people died. ](/news/2009/10/15/militants-launch-attacks-on-police-in-lahore-the-capital-of-punjab-province-in-pakistan-killing-31-people-after-a-week-of-violence-in-wh.md)
@@ -65,7 +65,7 @@ A-Ha, the Norwegian pop music trio, are to split following a farewell tour next 
 
 ##### Media circus
 ### [ A worldwide media circus surrounds an incident in which a six-year-old boy is alleged to be flying in a homemade hot-air balloon; the boy was later found safe at home. ](/news/2009/10/15/a-worldwide-media-circus-surrounds-an-incident-in-which-a-six-year-old-boy-is-alleged-to-be-flying-in-a-homemade-hot-air-balloon-the-boy-w.md)
-_Context: balloon boy hoax, media circus_
+_Context: media circus, balloon boy hoax_
 
 ## [Previous Day...](/news/2009/10/14/index.md)
 

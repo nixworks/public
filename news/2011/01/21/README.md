@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/21/index.html)  [JSON](2011/01/21/index.json)  [XML](201
 
 ##### Sudan
 ### [21 people are killed in a clash between the Sudanese army and two rebel factions in Darfur. ](/news/2011/01/21/21-people-are-killed-in-a-clash-between-the-sudanese-army-and-two-rebel-factions-in-darfur.md)
-_Context: Sudan, Darfur_
+_Context: Darfur, Sudan_
 
 ##### Tirana
 ### [Three people are shot dead and dozens are injured by riot police clashing with at least 20,000 protesters gathered outside the prime minister's office in Tirana, Albania. Deputy prime minister Ilir Meta has resigned after becoming embroiled in a fraud scandal and protesters have called for the rest of the government to resign. ](/news/2011/01/21/three-people-are-shot-dead-and-dozens-are-injured-by-riot-police-clashing-with-at-least-20-000-protesters-gathered-outside-the-prime-ministe.md)
@@ -13,15 +13,15 @@ At&#x20;least&#x20;three&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;dozens&
 
 ##### Nigeria
 ### [A Nigerian general says armies in West Africa are ready to oust Ivorian president Laurent Gbagbo by force. ](/news/2011/01/21/a-nigerian-general-says-armies-in-west-africa-are-ready-to-oust-ivorian-president-laurent-gbagbo-by-force.md)
-_Context: West Africa, Ivory Coast, Laurent Gbagbo, Nigeria_
+_Context: Nigeria, Ivory Coast, Laurent Gbagbo, West Africa_
 
 ##### South Korea
 ### [The South Korean navy directs an operation against Somali pirates who hijacked a South Korean ship, rescuing all 21 hostages, while eight pirates are killed and five are captured. ](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.md)
-_Context: the killing of pirates by South Koreans, Somali pirates, South Korean Navy, South Korea_
+_Context: the killing of pirates by South Koreans, South Korean Navy, Somali pirates, South Korea_
 
 ##### United Kingdom
 ### [A group of engineers from United Kingdom are teaming up with the Royal Air Force in this year in order to excavate a long-forgotten escape tunnel from the Second World War. ](/news/2011/01/21/a-group-of-engineers-from-united-kingdom-are-teaming-up-with-the-royal-air-force-in-this-year-in-order-to-excavate-a-long-forgotten-escape-t.md)
-_Context: Royal Air Force, Second World War, United Kingdom_
+_Context: Second World War, United Kingdom, Royal Air Force_
 
 ##### MSNBC
 ### [MSNBC terminates a contract with their highest-rated cable news host, Keith Olbermann. ](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.md)
@@ -49,11 +49,11 @@ U.S. authorities closed four banks -- one in Denver and three in the U.S. Southe
 
 ##### Thailand
 ### [Five Thais including an MP are given suspended sentences after illegally entering Cambodia, in a case that has strained relations between the two countries. ](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.md)
-_Context: Thailand, Cambodia_
+_Context: Cambodia, Thailand_
 
 ##### United Nations
 ### [United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/united-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-building-on-palestinian-land-telling-a.md)
-_Context: East Jerusalem, Israel, Ban Ki-moon, United Nations, Shepherd Hotel, Auschwitz-Birkenau concentration camp_
+_Context: United Nations, Auschwitz-Birkenau concentration camp, Israel, Shepherd Hotel, Ban Ki-moon, East Jerusalem_
 
 ##### Iran
 ### [Six world powers and Iran meet in Istanbul to talk about Iran's nuclear programme; Iran denies allegations it is developing nuclear weapons. ](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.md)
@@ -61,7 +61,7 @@ _Context: Istanbul, Iran, nuclear program_
 
 ##### Southern Sudan
 ### [Almost 99% of South Sudanese voted for independence from the north in a referendum according to official figures. ](/news/2011/01/21/almost-99-of-south-sudanese-voted-for-independence-from-the-north-in-a-referendum-according-to-official-figures.md)
-_Context: Southern Sudan, referendum, Sudan_
+_Context: Sudan, referendum, Southern Sudan_
 
 ##### United Nations
 ### [United Nations human rights chief Navi Pillay requests an investigation into possible involvement of officials in the abduction of around 40 Central American migrants, including women and children, from a cargo train in Oaxaca. ](/news/2011/01/21/united-nations-human-rights-chief-navi-pillay-requests-an-investigation-into-possible-involvement-of-officials-in-the-abduction-of-around-40.md)
@@ -77,11 +77,11 @@ _Context: mass rape, DR Congo_
 
 ##### Guatemala
 ### [Former Guatemalan president Alfonso Portillo goes on trial in Guatemala City over allegations he stole $15 million from the defence ministry. Former defence minister Eduardo Arevalo and former finance minister Manuel Maza are also on trial. ](/news/2011/01/21/former-guatemalan-president-alfonso-portillo-goes-on-trial-in-guatemala-city-over-allegations-he-stole-15-million-from-the-defence-ministry.md)
-_Context: Guatemala, Alfonso Portillo, Guatemala City, Eduardo Arevalo, Manuel Maza_
+_Context: Alfonso Portillo, Guatemala, Guatemala City, Manuel Maza, Eduardo Arevalo_
 
 ##### Amnesty International
 ### [Amnesty International announces that authorities are investigating alleged crimes against humanity committed during Jean-Claude Duvalier's 1971-86 rule over Haiti. Duvalier sneaks out of his upmarket hotel via a rear exit, avoiding journalists. ](/news/2011/01/21/amnesty-international-announces-that-authorities-are-investigating-alleged-crimes-against-humanity-committed-during-jean-claude-duvalier-s-1.md)
-_Context: Amnesty International, Haiti, crimes against humanity, Jean-Claude Duvalier_
+_Context: Amnesty International, crimes against humanity, Haiti, Jean-Claude Duvalier_
 
 ##### India
 ### [An army court in India finds a senior officer guilty of involvement in an illegal land deal. ](/news/2011/01/21/an-army-court-in-india-finds-a-senior-officer-guilty-of-involvement-in-an-illegal-land-deal.md)
@@ -93,7 +93,7 @@ Tony Blair says he &quot;regrets&quot; the loss of life in Iraq but urges the We
 
 ##### Warner Music Group
 ### [Warner Music Group CEO Edgar Bronfman Jr. is found guilty of misleading investors, and fined $6.7 million. ](/news/2011/01/21/warner-music-group-ceo-edgar-bronfman-jr-is-found-guilty-of-misleading-investors-and-fined-6-7-million.md)
-_Context: Edgar Bronfman Jr., CEO, Warner Music Group_
+_Context: Warner Music Group, CEO, Edgar Bronfman Jr._
 
 ##### Tunisia
 ### [Thousands of people in Tunisia take part in a demonstration calling on the interim government to step down. ](/news/2011/01/21/thousands-of-people-in-tunisia-take-part-in-a-demonstration-calling-on-the-interim-government-to-step-down.md)
@@ -109,19 +109,19 @@ The Labour Party has decided to press ahead with a motion of no confidence in th
 
 ##### Belarus
 ### [Belarus president Alexander Lukashenko is sworn in for a fourth time following the disputed presidential election. ](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.md)
-_Context: Belarus, Alexander Lukashenko, 2010 presidential election_
+_Context: Alexander Lukashenko, 2010 presidential election, Belarus_
 
 ##### David Cameron
 ### [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.md)
-_Context: News of the World, David Cameron, Andy Coulson_
+_Context: Andy Coulson, News of the World, David Cameron_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi of Burma obtains Internet access at her home in Rangoon; it is believed she has never been online. ](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.md)
-_Context: Rangoon, Aung San Suu Kyi, Burma_
+_Context: Aung San Suu Kyi, Rangoon, Burma_
 
 ##### United States
 ### [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md)
-_Context: Gabrielle Giffords, Houston, United States House of Representatives, Tucson, Arizona, United States, hospital, 2011 Tucson shooting, Texas_
+_Context: Houston, United States, Texas, 2011 Tucson shooting, Gabrielle Giffords, Tucson, Arizona, hospital, United States House of Representatives_
 
 ## [Previous Day...](/news/2011/01/20/index.md)
 

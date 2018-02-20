@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/18/index.html)  [JSON](2006/07/18/index.json)  [XML](200
 
 ##### Government of Angola
 ### [ The government of Angola and the Frente para a LibertacGBPo do Enclave de Cabinda sign a peace agreement ending the Independence War in Cabinda. ](/news/2006/07/18/the-government-of-angola-and-the-frente-para-a-libertaassagbpo-do-enclave-de-cabinda-sign-a-peace-agreement-ending-the-independence-war-in-c.md)
-_Context: government of Angola, Frente para a LibertacGBPo do Enclave de Cabinda, Independence War in Cabinda_
+_Context: government of Angola, Independence War in Cabinda, Frente para a LibertacGBPo do Enclave de Cabinda_
 
 ##### War
 ### [ Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md)
@@ -21,15 +21,15 @@ _Context: car bomb, Kufa, Iraq_
 
 ##### A doctor
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: United States, A doctor, New Orleans, Hurricane Katrina, Memorial Medical Center, murder, euthanasia_
+_Context: Hurricane Katrina, New Orleans, murder, euthanasia, Memorial Medical Center, A doctor, United States_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
-_Context: same-sex marriage, constitutional amendment to ban, United States House of Representatives_
+_Context: same-sex marriage, United States House of Representatives, constitutional amendment to ban_
 
 ##### Tropical Storm Beryl
 ### [ Tropical Storm Beryl forms off the coast of the U.S. state of North Carolina, 180 miles southeast of Cape Hatteras. It is the second tropical storm to form in the North Atlantic in the 2006 hurricane season. ](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.md)
-_Context: North Carolina, U.S. state, Tropical Storm Beryl, hurricane, Cape Hatteras_
+_Context: North Carolina, hurricane, U.S. state, Tropical Storm Beryl, Cape Hatteras_
 
 ##### Princess Cruises
 ### [ The Princess Cruises ship "Crown Princess" lists heavily, injuring several passengers. It immediately returns to Port Canaveral. ](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.md)
@@ -37,11 +37,11 @@ The Crown Princess, owned by Princess Cruises, listed heavily due to a steering 
 
 ##### Turkey
 ### [ Turkey calls for Iraq and the United States to crack down on Kurdish guerrillas based in northern Iraq, and issued a veiled threat to attack the rebel bases if there was no progress. Meanwhile, the International Crisis Group releases a report entitled "Iraq and the Kurds: The Brewing Battle over Kirkuk" which examines the dangerously neglected looming conflict in and around the northern Iraqi city. ](/news/2006/07/18/turkey-calls-for-iraq-and-the-united-states-to-crack-down-on-kurdish-guerrillas-based-in-northern-iraq-and-issued-a-veiled-threat-to-attac.md)
-_Context: Kurd, International Crisis Group, Turkey, Kirkuk_
+_Context: International Crisis Group, Kirkuk, Turkey, Kurd_
 
 ##### International Four Days Marches Nijmegen
 ### [ On the first day of the 90th International Four Days Marches Nijmegen, two participants die of heart failure due to exhaustion caused by the exceptionally warm weather in the Netherlands. Because even higher temperatures are predicted for the second day, the organization decides to cancel the remainder of the event. ](/news/2006/07/18/on-the-first-day-of-the-90th-international-four-days-marches-nijmegen-two-participants-die-of-heart-failure-due-to-exhaustion-caused-by-th.md)
-_Context: Netherlands, International Four Days Marches Nijmegen_
+_Context: International Four Days Marches Nijmegen, Netherlands_
 
 ## [Previous Day...](/news/2006/07/17/index.md)
 

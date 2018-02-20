@@ -17,7 +17,7 @@ Taliban claim responsibility for suicide attacks targeting government buildings 
 
 ##### Gujarat
 ### [An investigation finds no evidence against the chief minister of Gujarat, India over deadly riots in the state in 2002. ](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.md)
-_Context: India, Gujarat, riots_
+_Context: India, riots, Gujarat_
 
 ##### Raymond Aubrac
 ### [Raymond Aubrac, one of the heroes of the French Resistance during World War II, dies at the age of 97. ](/news/2012/04/10/raymond-aubrac-one-of-the-heroes-of-the-french-resistance-during-world-war-ii-dies-at-the-age-of-97.md)
@@ -29,7 +29,7 @@ All three indexes drop more than 1.5% after fears over have renewed concerns ove
 
 ##### Apple Inc.
 ### [American technology company Apple Inc. says that the company is worth more than US$600 billion dollars, making it the largest by market capitalization in the world. ](/news/2012/04/10/american-technology-company-apple-inc-says-that-the-company-is-worth-more-than-us-600-billion-dollars-making-it-the-largest-by-market-capi.md)
-_Context: Apple Inc., market capitalization_
+_Context: market capitalization, Apple Inc._
 
 ##### 
 ### [North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md)
@@ -41,11 +41,11 @@ David Cameron meets Japanese PM Yoshihiko Noda for talks in Tokyo, as he begins 
 
 ##### Chinese
 ### [Disabled Chinese land rights lawyer Ni Yulan and her husband are sentenced by a Beijing court a year after they were detained for fraud and "provoking trouble". ](/news/2012/04/10/disabled-chinese-land-rights-lawyer-ni-yulan-and-her-husband-are-sentenced-by-a-beijing-court-a-year-after-they-were-detained-for-fraud-and.md)
-_Context: Ni Yulan, Chinese_
+_Context: Chinese, Ni Yulan_
 
 ##### Costa Rica
 ### [The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. ](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.md)
-_Context: Caracas, Costa Rica, Venezuela_
+_Context: Costa Rica, Venezuela, Caracas_
 
 ##### Government of Malaysia
 ### [The Government of Malaysia introduces legislation banning the arrest of people for political reasons or indefinite detention without trial. ](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.md)
@@ -61,7 +61,7 @@ _Context: George Zimmerman, attorney_
 
 ##### Rick Santorum
 ### [American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasing-the-likelihood-that-mitt-romney-will-be-t.md)
-_Context: Republican primaries, candidacy, Rick Santorum, Mitt Romney_
+_Context: Rick Santorum, candidacy, Mitt Romney, Republican primaries_
 
 ##### Chinese
 ### [The Chinese Communist Party suspends the Politburo membership of former senior official Bo Xilai, while his wife Gu Kailai is named as a suspect in the murder of a British businessman. ](/news/2012/04/10/the-chinese-communist-party-suspends-the-politburo-membership-of-former-senior-official-bo-xilai-while-his-wife-gu-kailai-is-named-as-a-sus.md)

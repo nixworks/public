@@ -5,15 +5,15 @@ Formats: [HTML](2009/04/4/index.html)  [JSON](2009/04/4/index.json)  [XML](2009/
 
 ##### Llaima
 ### [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md)
-_Context: lava, warnings, landslide, ash, volcano, Llaima, erupts, evacuation centers, Chile_
+_Context: Chile, erupts, ash, landslide, volcano, warnings, Llaima, lava, evacuation centers_
 
 ##### Police officers
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
-_Context: Pittsburgh, killed, police officers, Pennsylvania, United States_
+_Context: Pittsburgh, police officers, United States, Pennsylvania, killed_
 
 ##### Organisation for Economic Co-operation and Development
 ### [ The Organisation for Economic Co-operation and Development blacklists Costa Rica, Malaysia and the Philippines as non-cooperative tax havens. ](/news/2009/04/4/the-organisation-for-economic-co-operation-and-development-blacklists-costa-rica-malaysia-and-the-philippines-as-non-cooperative-tax-haven.md)
-_Context: Malaysia, Organisation for Economic Co-operation and Development, Costa Rica, Philippines, blacklists, tax haven_
+_Context: Philippines, Costa Rica, tax haven, Organisation for Economic Co-operation and Development, Malaysia, blacklists_
 
 ##### United States
 ### [ A U.S. drone aircraft's missile kills 13 people in North Waziristan, Pakistan. ](/news/2009/04/4/a-u-s-drone-aircraft-s-missile-kills-13-people-in-north-waziristan-pakistan.md)
@@ -29,11 +29,11 @@ _Context: paramilitary soldiers, Pakistan, killed, suicide attack, Islamabad_
 
 ##### Mon Mome
 ### [ Mon Mome wins the 2009 Grand National in Aintree, England. ](/news/2009/04/4/mon-mome-wins-the-2009-grand-national-in-aintree-england.md)
-_Context: 2009, England, Mon Mome, Aintree, Grand National_
+_Context: Aintree, England, Mon Mome, 2009, Grand National_
 
 ##### Balochistan Liberation United Front
 ### [ The Balochistan Liberation United Front releases United Nations official John Solecki from captivity in Quetta, Pakistan. ](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.md)
-_Context: John Solecki, Quetta, captivity, United Nations, Balochistan Liberation United Front, Pakistan, official_
+_Context: United Nations, captivity, John Solecki, Quetta, Balochistan Liberation United Front, Pakistan, official_
 
 ## [Previous Day...](/news/2009/04/3/index.md)
 

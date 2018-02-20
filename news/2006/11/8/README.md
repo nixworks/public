@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/8/index.html)  [JSON](2006/11/8/index.json)  [XML](2006/
 
 ##### Supreme Council
 ### [ Legislators in the Jogorku Kenesh approve a new constitution amid fears of another revolution in Kyrgyzstan. ](/news/2006/11/8/legislators-in-the-jogorku-kenesh-approve-a-new-constitution-amid-fears-of-another-revolution-in-kyrgyzstan.md)
-_Context: constitution, war in Turkmenistan, Supreme Council, Kyrgyzstan_
+_Context: constitution, Kyrgyzstan, war in Turkmenistan, Supreme Council_
 
 ##### Chinese
 ### [ China has a record high surplus in its balance of trade of $23.8 billion as exports rise and imports fall. ](/news/2006/11/8/china-has-a-record-high-surplus-in-its-balance-of-trade-of-23-8-billion-as-exports-rise-and-imports-fall.md)
@@ -17,7 +17,7 @@ Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday
 
 ##### Margaret Chan
 ### [ Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. ](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.md)
-_Context: Hong Kong, Health Department, China, Margaret Chan, World Health Organization_
+_Context: World Health Organization, Hong Kong, Margaret Chan, China, Health Department_
 
 ##### Pakistan
 ### [ At least 42 people die and 20 people are injured in a bomb blast outside an army training centre in north-west Pakistan. ](/news/2006/11/8/at-least-42-people-die-and-20-people-are-injured-in-a-bomb-blast-outside-an-army-training-centre-in-north-west-pakistan.md)
@@ -33,7 +33,7 @@ _Context: British Government, Cash for Peerages, Ministers, government_
 
 ##### Windows Vista
 ### [ Windows Vista, Microsoft's newest operating system is RTM (released to manufacturers). ](/news/2006/11/8/windows-vista-microsoft-s-newest-operating-system-is-rtm-released-to-manufacturers.md)
-_Context: operating system, Windows Vista, RTM_
+_Context: Windows Vista, operating system, RTM_
 
 ## [Previous Day...](/news/2006/11/7/index.md)
 

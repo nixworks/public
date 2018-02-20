@@ -5,23 +5,23 @@ Formats: [HTML](2008/07/14/index.html)  [JSON](2008/07/14/index.json)  [XML](200
 
 ##### United States Federal Reserve
 ### [ The United States Federal Reserve tightens mortgage regulation in an attempt to stamp out the practices that led to the subprime mortgage crisis. ](/news/2008/07/14/the-united-states-federal-reserve-tightens-mortgage-regulation-in-an-attempt-to-stamp-out-the-practices-that-led-to-the-subprime-mortgage-c.md)
-_Context: subprime mortgage crisis, United States Federal Reserve, mortgage lending_
+_Context: subprime mortgage crisis, mortgage lending, United States Federal Reserve_
 
 ##### United States
 ### [ United States President George W. Bush lifts a ban on offshore oil drilling. ](/news/2008/07/14/united-states-president-george-w-bush-lifts-a-ban-on-offshore-oil-drilling.md)
-_Context: George W. Bush, drill for oil, U.S. President, United States_
+_Context: U.S. President, drill for oil, United States, George W. Bush_
 
 ##### Etihad Airways
 ### [ Etihad Airways from the United Arab Emirates buys 100 fuel-efficient aircraft from Airbus and Boeing. ](/news/2008/07/14/etihad-airways-from-the-united-arab-emirates-buys-100-fuel-efficient-aircraft-from-airbus-and-boeing.md)
-_Context: Airbus, Boeing Company, United Arab Emirates, Etihad Airways_
+_Context: Etihad Airways, Airbus, Boeing Company, United Arab Emirates_
 
 ##### Luis Moreno-Ocampo
 ### [ Luis Moreno-Ocampo, the Prosecutor for the International Criminal Court, accuses Sudanese president Omar al-Bashir of genocide, crimes against humanity and war crimes in Darfur. ](/news/2008/07/14/luis-moreno-ocampo-the-prosecutor-for-the-international-criminal-court-accuses-sudanese-president-omar-al-bashir-of-genocide-crimes-agai.md)
-_Context: crime against humanity, ICC, Darfur, genocide, war crime, Luis Moreno-Ocampo, Sudan, Omar al-Bashir_
+_Context: war crime, ICC, genocide, crime against humanity, Sudan, Omar al-Bashir, Luis Moreno-Ocampo, Darfur_
 
 ##### Scientist
 ### [ Scientists at Walter and Eliza Hall Institute of Medical Research, Melbourne make a potential breakthrough in curing Malaria. ](/news/2008/07/14/scientists-at-walter-and-eliza-hall-institute-of-medical-research-melbourne-make-a-potential-breakthrough-in-curing-malaria.md)
-_Context: Melbourne, Walter and Eliza Hall Institute of Medical Research, Scientist, Malaria_
+_Context: Walter and Eliza Hall Institute of Medical Research, Melbourne, Scientist, Malaria_
 
 ##### International Astronomical Union
 ### [ International Astronomical Union's Working Group for Planetary System Nomenclature classifies Makemake as the newest dwarf planet. ](/news/2008/07/14/international-astronomical-union-s-working-group-for-planetary-system-nomenclature-classifies-makemake-as-the-newest-dwarf-planet.md)

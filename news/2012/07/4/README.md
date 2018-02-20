@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/4/index.html)  [JSON](2012/07/4/index.json)  [XML](2012/
 
 ##### Bashar al Assad
 ### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
-_Context: Bashar al Assad, Turkey, Syria_
+_Context: Bashar al Assad, Syria, Turkey_
 
 ##### German
 ### [A gunman, who was facing eviction from his apartment, is believed to have seized and killed four hostages in the German city of Karlsruhe before turning the gun on himself. ](/news/2012/07/4/a-gunman-who-was-facing-eviction-from-his-apartment-is-believed-to-have-seized-and-killed-four-hostages-in-the-german-city-of-karlsruhe-be.md)
@@ -17,7 +17,7 @@ _Context: Iraq, Baghdad_
 
 ##### Chinese
 ### [China accuses the Vatican of obstructing the development of Catholicism after the latter threatens to excommunicate new bishops ordained without papal approval. ](/news/2012/07/4/china-accuses-the-vatican-of-obstructing-the-development-of-catholicism-after-the-latter-threatens-to-excommunicate-new-bishops-ordained-wit.md)
-_Context: Holy See, excommunicate, Chinese, Pope, Catholic faithful_
+_Context: Catholic faithful, Holy See, Pope, excommunicate, Chinese_
 
 ##### George Entwistle
 ### [British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. ](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.md)
@@ -25,7 +25,7 @@ Current director of BBC Vision, George Entwistle, is announced as the 15th BBC d
 
 ##### Archaeology of Israel
 ### [Archaeologists in Israel discover a mosaic floor depicting the biblical figure of Samson and a Hebrew inscription in an ancient synagogue in the Galilee region. ](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.md)
-_Context: Galilee, Samson, Archaeology of Israel, synagogue, mosaic_
+_Context: Archaeology of Israel, Samson, synagogue, mosaic, Galilee_
 
 ##### Bob Diamond
 ### [Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-select-committee-on-the-bank-s-manipu.md)
@@ -61,7 +61,7 @@ _Context: Shifang, copper_
 
 ##### European Parliament
 ### [The European Parliament rejects the Anti-Counterfeiting Trade Agreement in a session with more than 470 votes against the treaty. ](/news/2012/07/4/the-european-parliament-rejects-the-anti-counterfeiting-trade-agreement-in-a-session-with-more-than-470-votes-against-the-treaty.md)
-_Context: Anti-Counterfeiting Trade Agreement, European Parliament_
+_Context: European Parliament, Anti-Counterfeiting Trade Agreement_
 
 ##### Mexican presidential elections
 ### [Mexican general election, 2012: Over half of the ballot boxes in the Presidential election will have to be recounted following the discovery of voting irregularities. ](/news/2012/07/4/mexican-general-election-2012-over-half-of-the-ballot-boxes-in-the-presidential-election-will-have-to-be-recounted-following-the-discovery.md)
@@ -69,7 +69,7 @@ _Context: Mexican presidential elections_
 
 ##### Ramallah
 ### [Palestinians in Ramallah protest outside the offices of Palestinian Authority President Mahmoud Abbas against the 1993 Oslo Peace Accords between Israel and the PLO. ](/news/2012/07/4/palestinians-in-ramallah-protest-outside-the-offices-of-palestinian-authority-president-mahmoud-abbas-against-the-1993-oslo-peace-accords-be.md)
-_Context: Oslo Peace Accords, Israel, PLO, Ramallah, Palestinian Authority President, Mahmoud Abbas_
+_Context: PLO, Palestinian Authority President, Israel, Mahmoud Abbas, Oslo Peace Accords, Ramallah_
 
 ##### CERN
 ### [CERN scientists present recent results from CMS and ATLAS experiments consistent with the existence of a Higgs boson particle. ](/news/2012/07/4/cern-scientists-present-recent-results-from-cms-and-atlas-experiments-consistent-with-the-existence-of-a-higgs-boson-particle.md)

@@ -25,11 +25,11 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ##### Cuba-United States relations
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: Cuba, United States, charter flights, commercial flights, Cuba-United States relations_
+_Context: charter flights, commercial flights, Cuba-United States relations, Cuba, United States_
 
 ##### NATO
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
-_Context: NATO, Government of Ukraine_
+_Context: Government of Ukraine, NATO_
 
 ##### Taiwan-United States relations
 ### [The United States announces a deal to sell $1.83 billion worth of arms to Taiwan, which includes two decommissioned U.S. Navy frigates, Assault Amphibious Vehicles, and surface-to-air missiles. China has also expressed its disapproval over the deal, claiming it would affect their internal affairs. ](/news/2015/12/16/the-united-states-announces-a-deal-to-sell-1-83-billion-worth-of-arms-to-taiwan-which-includes-two-decommissioned-u-s-navy-frigates-assa.md)

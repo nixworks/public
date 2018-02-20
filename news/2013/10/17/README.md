@@ -5,11 +5,11 @@ Formats: [HTML](2013/10/17/index.html)  [JSON](2013/10/17/index.json)  [XML](201
 
 ##### Naxalite-Maoist insurgency
 ### [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
-_Context: Naxalite-Maoist insurgency, Naxalite, Maharashtra, Gadchiroli district, India_
+_Context: India, Gadchiroli district, Naxalite-Maoist insurgency, Naxalite, Maharashtra_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md)
-_Context: Iraqi insurgency (post-U.S. withdrawal), Shia, Shabak people_
+_Context: Shabak people, Iraqi insurgency (post-U.S. withdrawal), Shia_
 
 ##### Tunisia
 ### [Islamist gunmen kill two Tunisian policemen in clashes in the northeastern city Goubella. ](/news/2013/10/17/islamist-gunmen-kill-two-tunisian-policemen-in-clashes-in-the-northeastern-city-goubella.md)
@@ -17,11 +17,11 @@ Islamist militants killed two Tunisian policemen in clashes on Thursday in the n
 
 ##### Renamo
 ### [Suspected Renamo rebels kill 7 Mozambican soldiers in an ambush near Gorongosa. ](/news/2013/10/17/suspected-renamo-rebels-kill-7-mozambican-soldiers-in-an-ambush-near-gorongosa.md)
-_Context: Mozambique, Renamo, Gorongosa, soldiers_
+_Context: Mozambique, Gorongosa, soldiers, Renamo_
 
 ##### Sweden
 ### [Swedish archaeologists in Old Uppsala unearth a great number of mysterious posts in perfect alignment for more than a kilometre in what is suggested to be a display of power of a fifth century Swedish chieftain. ](/news/2013/10/17/swedish-archaeologists-in-old-uppsala-unearth-a-great-number-of-mysterious-posts-in-perfect-alignment-for-more-than-a-kilometre-in-what-is-s.md)
-_Context: Sweden, fifth century, chieftain, Old Uppsala_
+_Context: chieftain, Old Uppsala, Sweden, fifth century_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs a bipartisan deal approved by Congress to end the Government shutdown and the debt ceiling crisis. ](/news/2013/10/17/president-of-the-united-states-barack-obama-signs-a-bipartisan-deal-approved-by-congress-to-end-the-government-shutdown-and-the-debt-ceiling.md)

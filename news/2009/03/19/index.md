@@ -9,7 +9,7 @@ Scientists sailed Thursday to inspect an undersea volcano that has been erupting
 
 ##### North Korea
 ### [ North Korea detains two American Current TV journalists near its border with China. ](/news/2009/03/19/north-korea-detains-two-american-current-tv-journalists-near-its-border-with-china.md)
-_Context: North Korea, China, United States, journalist, Current TV_
+_Context: China, North Korea, Current TV, journalist, United States_
 
 ##### United States
 ### [ The United States House of Representatives votes to levy a 90% tax on executive compensation from companies aided by the American Recovery and Reinvestment Act. ](/news/2009/03/19/the-united-states-house-of-representatives-votes-to-levy-a-90-tax-on-executive-compensation-from-companies-aided-by-the-american-recovery.md)
@@ -21,15 +21,15 @@ _Context: Josef Fritzl, life imprisonment, Austria_
 
 ##### President
 ### [ President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.md)
-_Context: parliament's dissolution, President, Parliament, Andry Rajoelina_
+_Context: parliament's dissolution, President, Andry Rajoelina, Parliament_
 
 ##### Pope
 ### [ Pope Benedict XVI leads a Roman Catholic Mass in Yaound, Cameroon. ](/news/2009/03/19/pope-benedict-xvi-leads-a-roman-catholic-mass-in-yaounde-cameroon.md)
-_Context: Pope Benedict XVI, Mass, Roman Catholic Church, Cameroon, Yaound, Pope_
+_Context: Pope Benedict XVI, Pope, Mass, Cameroon, Yaound, Roman Catholic Church_
 
 ##### Namibia
 ### [ Namibia declares a state of emergency after floods kill 92 people and render 25,000 homeless. ](/news/2009/03/19/namibia-declares-a-state-of-emergency-after-floods-kill-92-people-and-render-25-000-homeless.md)
-_Context: Namibia, state of emergency, homeless people, floods_
+_Context: floods, state of emergency, Namibia, homeless people_
 
 ##### Civil and Public Services Union
 ### [ The Civil and Public Services Union protests against Ireland's government. ](/news/2009/03/19/the-civil-and-public-services-union-protests-against-ireland-s-government.md)

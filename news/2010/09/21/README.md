@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/21/index.html)  [JSON](2010/09/21/index.json)  [XML](201
 
 ##### Northern
 ### [Eight people have been confirmed dead in the southern state of Northern Bahr el Ghazal, Sudan. ](/news/2010/09/21/eight-people-have-been-confirmed-dead-in-the-southern-state-of-northern-bahr-el-ghazal-sudan.md)
-_Context: Northern, Sudan, Bahr el Ghazal_
+_Context: Sudan, Northern, Bahr el Ghazal_
 
 ##### Yemen
 ### [At least 15,000 people flee their homes in Yemen after a government offensive against rebels in the south in the country. ](/news/2010/09/21/at-least-15-000-people-flee-their-homes-in-yemen-after-a-government-offensive-against-rebels-in-the-south-in-the-country.md)
@@ -17,11 +17,11 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 
 ##### Al-Qaeda in the Islamic Maghreb
 ### [Al-Qaeda in the Islamic Maghreb claims responsibility for kidnapping five French workers in Niger. ](/news/2010/09/21/al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-kidnapping-five-french-workers-in-niger.md)
-_Context: France, Al-Qaeda in the Islamic Maghreb, kidnapping, Niger_
+_Context: Niger, France, Al-Qaeda in the Islamic Maghreb, kidnapping_
 
 ##### Lawrence Summers
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
-_Context: Barack Obama, United States National Economic Council, Lawrence Summers, U.S. President_
+_Context: Lawrence Summers, U.S. President, United States National Economic Council, Barack Obama_
 
 ##### Mark Cuban
 ### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
@@ -29,19 +29,19 @@ Appeals court says there is sufficient credible evidence to put SEC case back on
 
 ##### 2010 Atlantic hurricane season
 ### [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
-_Context: Atlantic Ocean, 2010 Atlantic hurricane season, Cape Verde Islands_
+_Context: Cape Verde Islands, Atlantic Ocean, 2010 Atlantic hurricane season_
 
 ##### China
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)
-_Context: Japan, United Nations, Naoto Kan, Prime Minister of Japan, China_
+_Context: China, United Nations, Japan, Prime Minister of Japan, Naoto Kan_
 
 ##### Italy
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: Holy See, Italy, euro, USD_
+_Context: USD, Italy, euro, Holy See_
 
 ##### Paris Hilton
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
-_Context: Nicky Hilton, Paris Hilton, Japan_
+_Context: Nicky Hilton, Japan, Paris Hilton_
 
 ##### Gay rights
 ### [A gay rights protest against the views of Moscow Mayor Yury Luzhkov is broken up with eight people arrested. ](/news/2010/09/21/a-gay-rights-protest-against-the-views-of-moscow-mayor-yury-luzhkov-is-broken-up-with-eight-people-arrested.md)
@@ -57,11 +57,11 @@ Eleven men on the roof of the detention centre want to speak to Department of Im
 
 ##### Workers Party of North Korea
 ### [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-spe.md)
-_Context: Kim Jong-un, Pyongyang, Workers Party of North Korea, Kim Jong-il_
+_Context: Pyongyang, Kim Jong-il, Workers Party of North Korea, Kim Jong-un_
 
 ##### Omar Abdirashid Ali Sharmarke
 ### [Omar Abdirashid Ali Sharmarke resigns as Prime Minister of Somalia following an impasse developing with President Sharif Ahmed over a new constitution. ](/news/2010/09/21/omar-abdirashid-ali-sharmarke-resigns-as-prime-minister-of-somalia-following-an-impasse-developing-with-president-sharif-ahmed-over-a-new-co.md)
-_Context: Sharif Ahmed, Omar Abdirashid Ali Sharmarke, constitution, Prime Minister of Somalia, President_
+_Context: President, Sharif Ahmed, constitution, Prime Minister of Somalia, Omar Abdirashid Ali Sharmarke_
 
 ## [Previous Day...](/news/2010/09/20/index.md)
 

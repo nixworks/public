@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/29/index.html)  [JSON](2017/11/29/index.json)  [XML](201
 
 ##### 2017 in archaeology
 ### [Archaeologists from the University of Leicester announce the discovery of evidence that Julius Caesar's invasion of Britain started in Pegwell Bay, Kent. ](/news/2017/11/29/archaeologists-from-the-university-of-leicester-announce-the-discovery-of-evidence-that-julius-caesar-s-invasion-of-britain-started-in-pegwe.md)
-_Context: 2017 in archaeology, University of Leicester, Pegwell Bay, Kent, Julius Caesar, invasion of Britain_
+_Context: Julius Caesar, invasion of Britain, Pegwell Bay, 2017 in archaeology, Kent, University of Leicester_
 
 ##### Corporate bankruptcies
 ### [Cumulus Media files for Chapter 11 bankruptcy reorganization and enters into a restructuring agreement with some of its lenders to reduce more than $1 billion of the debt accrued by the Atlanta-based radio broadcasting group since its 2011 purchase of Citadel Broadcasting, towards the end of a 30-day period for the company to secure a financing plan after defaulting on a $23.6-million debt payment on November 1. In a statement, Cumulus representatives said that the company expects all operations, programming and sales for its 459 radio stations across the U.S. to continue as normal during the restructuring process. ](/news/2017/11/29/cumulus-media-files-for-chapter-11-bankruptcy-reorganization-and-enters-into-a-restructuring-agreement-with-some-of-its-lenders-to-reduce-mo.md)

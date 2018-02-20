@@ -5,19 +5,19 @@ Formats: [HTML](2007/07/16/index.html)  [JSON](2007/07/16/index.json)  [XML](200
 
 ##### Felisa Miceli
 ### [ Felisa Miceli, the Argentine Economy Minister, resigns over approximately $60,000 found in a bag in her office. ](/news/2007/07/16/felisa-miceli-the-argentine-economy-minister-resigns-over-approximately-60-000-found-in-a-bag-in-her-office.md)
-_Context: Argentina, $, Felisa Miceli_
+_Context: Argentina, Felisa Miceli, $_
 
 ##### George W. Bush
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)
-_Context: Lech Kaczynski, missile defense, Russia, Europe, George W. Bush, Polish President_
+_Context: Lech Kaczynski, Russia, missile defense, George W. Bush, Europe, Polish President_
 
 ##### U.S. President
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
-_Context: Middle East, Israel, Palestinians, U.S. President_
+_Context: Israel, U.S. President, Palestinians, Middle East_
 
 ##### United Kingdom
 ### [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md)
-_Context: diplomat, Alexander Litvinenko, Russia, United Kingdom, visa-free travel, Andrei Lugovoy, extradite_
+_Context: Andrei Lugovoy, diplomat, visa-free travel, Alexander Litvinenko, extradite, United Kingdom, Russia_
 
 ##### 86 people are killed
 ### [ At least 86 people are killed and 136 injured in a car bomb and truck bomb attacks in Kirkuk, Iraq. ](/news/2007/07/16/at-least-86-people-are-killed-and-136-injured-in-a-car-bomb-and-truck-bomb-attacks-in-kirkuk-iraq.md)
@@ -29,19 +29,19 @@ China has punished dozens of officials for allowing slave-like exploitation of w
 
 ##### Israel
 ### [ Israel agrees to remove 178 Palestinian militants from its watch list after they sign a pledge renouncing attacks against it. ](/news/2007/07/16/israel-agrees-to-remove-178-palestinian-militants-from-its-watch-list-after-they-sign-a-pledge-renouncing-attacks-against-it.md)
-_Context: Israel, Palestinian_
+_Context: Palestinian, Israel_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors confirm the closure of the Yongbyon reactor in North Korea. ](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.md)
-_Context: Yongbyon Nuclear Scientific Research Center, IAEA, North Korea_
+_Context: Yongbyon Nuclear Scientific Research Center, North Korea, IAEA_
 
 ##### ATN Bangla
 ### [ ATN Bangla television reports that Bangladeshi police have arrested former Prime Minister of Bangladesh Sheikh Hasina on charges of extorting money from a businessman. ](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.md)
-_Context: Prime Minister, television, Sheikh Hasina, Bangladesh, ATN Bangla_
+_Context: ATN Bangla, Sheikh Hasina, Prime Minister, television, Bangladesh_
 
 ##### Mohamed Haneef
 ### [ Dr Mohamed Haneef is granted bail by a Queensland magistrate on charges of supporting a terrorist organisation in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. The Australian government later revokes his visa. ](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.md)
-_Context: Mohamed Haneef, terrorist, 2007 attack, visa-free travel, Australia, magistrate, Queensland, planned car bomb attacks_
+_Context: planned car bomb attacks, Mohamed Haneef, Australia, terrorist, Queensland, magistrate, visa-free travel, 2007 attack_
 
 ##### Earthquake
 ### [ A 6.8 magnitude earthquake hits Japan with a tsunami warning being issued in Niigata Prefecture, Honshu. At least eight people have been killed and over 700 injured. There was a fire in the Kashiwazaki-Kariwa Nuclear Power Plant as well as a small leak but not sufficient to damage the environment. ](/news/2007/07/16/a-6-8-magnitude-earthquake-hits-japan-with-a-tsunami-warning-being-issued-in-niigata-prefecture-honsha-at-least-eight-people-have-been-k.md)

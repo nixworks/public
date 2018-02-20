@@ -29,19 +29,19 @@ Pope Benedict XVI pardons former butler Paolo Gabriele, who was sentenced to 18 
 
 ##### UK
 ### [The UK's Police Federation launches a review into issues raised by its handling of the Andrew Mitchell "plebgate" row. ](/news/2012/12/22/the-uk-s-police-federation-launches-a-review-into-issues-raised-by-its-handling-of-the-andrew-mitchell-plebgate-row.md)
-_Context: plebgate, UK, Andrew Mitchell, Police Federation_
+_Context: Police Federation, plebgate, UK, Andrew Mitchell_
 
 ##### Mahmoud Mekki
 ### [Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. ](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.md)
-_Context: Vice President of Egypt, Mahmoud Mekki, constitutional referendum_
+_Context: constitutional referendum, Vice President of Egypt, Mahmoud Mekki_
 
 ##### President of Italy
 ### [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md)
-_Context: Giorgio Napolitano, Mario Monti, parliament, President of Italy, Italian Prime Minister_
+_Context: Italian Prime Minister, President of Italy, Mario Monti, Giorgio Napolitano, parliament_
 
 ##### Irish government
 ### [Further details emerge on the suicide yesterday of Irish government minister Shane McEntee; he breakfasted with his family, took his dogs for a walk and was later found dead. Friends blame the pressure he was put under by his party to vote in favour of the country's latest austerity budget. ](/news/2012/12/22/further-details-emerge-on-the-suicide-yesterday-of-irish-government-minister-shane-mcentee-he-breakfasted-with-his-family-took-his-dogs-fo.md)
-_Context: Shane McEntee, Irish government, budget, austerity_
+_Context: Irish government, austerity, budget, Shane McEntee_
 
 ##### Prime Minister
 ### [Former Prime Minister of the United Kingdom Margaret Thatcher recovers in hospital after having a growth removed from her bladder and is likely to remain in hospital over the Christmas period. ](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.md)

@@ -25,7 +25,7 @@ Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
-_Context: Government of Ukraine, 2014 pro-Russian conflict in Ukraine_
+_Context: 2014 pro-Russian conflict in Ukraine, Government of Ukraine_
 
 ##### Denmark
 ### [Denmark proper (not counting Greenland) gets its first natural UNESCO World Heritage Sites, in addition to its three cultural sites, as Stevns Klint and the Danish parts of the Wadden Sea are inscribed on the UNESCO list. ](/news/2014/06/23/denmark-proper-not-counting-greenland-gets-its-first-natural-unesco-world-heritage-sites-in-addition-to-its-three-cultural-sites-as-stev.md)

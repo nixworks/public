@@ -9,7 +9,7 @@ Pakistan successfully test-fired a nuclear-capable ballistic missile on Wednesda
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md)
-_Context: Syrian Army, Kofi Annan, United Nations, Syrian uprising (2011-present), Syria_
+_Context: United Nations, Syrian uprising (2011-present), Kofi Annan, Syria, Syrian Army_
 
 ##### South Sudan
 ### [South Sudan releases Sudanese prisoners of war as border clashes between the two states seem to abate. ](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.md)
@@ -17,7 +17,7 @@ South Sudan freed prisoners of war on Wednesday as clashes appeared to abate bet
 
 ##### South Korea
 ### [South Korean retailers cease selling beef from the United States after a case of mad cow disease is reported. ](/news/2012/04/25/south-korean-retailers-cease-selling-beef-from-the-united-states-after-a-case-of-mad-cow-disease-is-reported.md)
-_Context: mad cow disease, United States, South Korea_
+_Context: United States, mad cow disease, South Korea_
 
 ##### Office for National Statistics
 ### [Figures from the Office for National Statistics indicate the UK economy has returned to recession after shrinking by 0.2% in the first three months of 2012, bringing about a much-feared double-dip recession. ](/news/2012/04/25/figures-from-the-office-for-national-statistics-indicate-the-uk-economy-has-returned-to-recession-after-shrinking-by-0-2-in-the-first-three.md)

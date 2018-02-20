@@ -9,11 +9,11 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 
 ##### India
 ### [At least 100 people are killed in India after a powerful storm demolished thousands of homes in West Bengal. ](/news/2010/04/14/at-least-100-people-are-killed-in-india-after-a-powerful-storm-demolished-thousands-of-homes-in-west-bengal.md)
-_Context: a powerful storm, India, West Bengal_
+_Context: West Bengal, India, a powerful storm_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md)
-_Context: Roza Otunbayeva, Kyrgyzstan, the recent unrest, Kurmanbek Bakiyev, president_
+_Context: president, Kurmanbek Bakiyev, Roza Otunbayeva, Kyrgyzstan, the recent unrest_
 
 ##### Eyjafjallajokull
 ### [Eruption in glacier volcano Eyjafjallajokull, Iceland, enters a new phase, causing local evacuations. ](/news/2010/04/14/eruption-in-glacier-volcano-eyjafjallajapkull-iceland-enters-a-new-phase-causing-local-evacuations.md)
@@ -25,11 +25,11 @@ _Context: Mars, Barack Obama_
 
 ##### Lech Kaczynski
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
-_Context: Wawel Cathedral, Poland, Lech Kaczynski_
+_Context: Poland, Lech Kaczynski, Wawel Cathedral_
 
 ##### Tokelau
 ### [Tokelau outlaws whaling within its territorial waters. ](/news/2010/04/14/tokelau-outlaws-whaling-within-its-territorial-waters.md)
-_Context: Tokelau, whaling_
+_Context: whaling, Tokelau_
 
 ##### Liberal Democrats
 ### [The Liberal Democrats send out a "four step" manifesto plan to "hardwire fairness into British society". Leader Nick Clegg says his policies, including raising the state pension and a tax cut for low and middle earners, combined "hope and credibility". ](/news/2010/04/14/the-liberal-democrats-send-out-a-four-step-manifesto-plan-to-hardwire-fairness-into-british-society-leader-nick-clegg-says-his-policies.md)

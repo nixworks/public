@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/22/index.html)  [JSON](2008/05/22/index.json)  [XML](200
 
 ##### Bomb in Exeter
 ### [ A bomb in Exeter, England explodes in the Princesshay shopping centre linked to Islamic terrorism.](/news/2008/05/22/a-bomb-in-exeter-england-explodes-in-the-princesshay-shopping-centre-linked-to-islamic-terrorism.md)
-_Context: bomb in Exeter, Princesshay_
+_Context: Princesshay, bomb in Exeter_
 
 ##### California
 ### [ California Governor Arnold Schwarzenegger declares a state of emergency in Santa Cruz County for the ongoing Summit Fire burning in the Santa Cruz Mountains. ](/news/2008/05/22/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-in-santa-cruz-county-for-the-ongoing-summit-fire-burning-in-the-san.md)
-_Context: California, state of emergency, Governor of California, Arnold Schwarzenegger, Santa Cruz Mountains, Santa Cruz County, Summit Fire_
+_Context: California, Santa Cruz Mountains, Summit Fire, Arnold Schwarzenegger, Santa Cruz County, state of emergency, Governor of California_
 
 ##### Weld County Tornado
 ### [ Weld County Tornado: One person is killed and at least 100 are injured in Weld County, Colorado after a tornado tears through the county. Colorado Governor Bill Ritter declares a state of emergency and activates the Colorado National Guard in the affected region. ](/news/2008/05/22/weld-county-tornado-one-person-is-killed-and-at-least-100-are-injured-in-weld-county-colorado-after-a-tornado-tears-through-the-county-c.md)
@@ -25,7 +25,7 @@ _Context: deadly earthquake_
 
 ##### President of Georgia
 ### [ The President of Georgia Mikheil Saakashvili claims victory for his United National Movement party in the Georgian legislative election, 2008 with the Opposition claiming that the vote had been rigged. ](/news/2008/05/22/the-president-of-georgia-mikheil-saakashvili-claims-victory-for-his-united-national-movement-party-in-the-georgian-legislative-election-20.md)
-_Context: Mikheil Saakashvili, President of Georgia, United National Movement, Georgian legislative election, 2008_
+_Context: Georgian legislative election, 2008, President of Georgia, Mikheil Saakashvili, United National Movement_
 
 ## [Previous Day...](/news/2008/05/21/index.md)
 

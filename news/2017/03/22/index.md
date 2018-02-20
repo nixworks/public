@@ -21,7 +21,7 @@ Incident comes after IDF completes large scale drill in the south simulating a w
 
 ##### March 2017 Israel-Syria incident
 ### [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md)
-_Context: March 2017 Israel-Syria incident, Israeli Air Force, Syria, Damascus, Hezbollah_
+_Context: Syria, Damascus, Israeli Air Force, March 2017 Israel-Syria incident, Hezbollah_
 
 ##### Ramle
 ### [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md)

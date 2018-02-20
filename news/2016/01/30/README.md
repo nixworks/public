@@ -13,11 +13,11 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 
 ##### South Korea
 ### [A helicopter fighting forest fires in South Korea's North Jeolla Province crashes near the Geumsansa Temple in Gimje. The 61-year-old pilot dies in the crash. ](/news/2016/01/30/a-helicopter-fighting-forest-fires-in-south-korea-s-north-jeolla-province-crashes-near-the-geumsansa-temple-in-gimje-the-61-year-old-pilot.md)
-_Context: Geumsansa Temple, Gimje, South Korea, North Jeolla Province_
+_Context: Gimje, North Jeolla Province, South Korea, Geumsansa Temple_
 
 ##### European migrant crisis
 ### [Almost 40 people are killed and 75 are rescued after a boat carrying migrants sinks between Turkey and Greece. ](/news/2016/01/30/almost-40-people-are-killed-and-75-are-rescued-after-a-boat-carrying-migrants-sinks-between-turkey-and-greece.md)
-_Context: Greece, Turkey, European migrant crisis_
+_Context: Greece, European migrant crisis, Turkey_
 
 ##### Zika virus outbreak in the Americas (2015-present)
 ### [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md)
@@ -33,11 +33,11 @@ The US sails a warship close to a disputed island in the South China Sea, in wha
 
 ##### 2015 FIFA corruption case
 ### [Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-federation-of-guatemala.md)
-_Context: National Football Federation of Guatemala, 2015 FIFA corruption case, FIFA, Reuters_
+_Context: 2015 FIFA corruption case, Reuters, National Football Federation of Guatemala, FIFA_
 
 ##### Orange County Men's Central Jail escape
 ### [Two of the inmates who escaped from a jail in Santa Ana, California, were arrested in San Francisco. ](/news/2016/01/30/two-of-the-inmates-who-escaped-from-a-jail-in-santa-ana-california-were-arrested-in-san-francisco.md)
-_Context: Santa Ana, San Francisco, Orange County Men's Central Jail escape_
+_Context: Orange County Men's Central Jail escape, Santa Ana, San Francisco_
 
 ##### National Western Complex shootout
 ### [At least one person is killed and multiple others injured in a fight between two outlaw motorcycle gangs in the American city of Denver, Colorado. ](/news/2016/01/30/at-least-one-person-is-killed-and-multiple-others-injured-in-a-fight-between-two-outlaw-motorcycle-gangs-in-the-american-city-of-denver-col.md)

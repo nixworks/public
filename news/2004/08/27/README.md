@@ -13,11 +13,11 @@ _Context: InBev, Interbrew, Ambev_
 
 ##### Federal Security Service
 ### [ The Russian Federal Security Service announces that traces of the explosive hexogen have been found in the wreckage of the two Russia airliners which crashed on August 24, 2004. The Islamic group "the Islambouli Brigades" claims responsibility. ](/news/2004/08/27/the-russian-federal-security-service-announces-that-traces-of-the-explosive-hexogen-have-been-found-in-the-wreckage-of-the-two-russia-airli.md)
-_Context: explosive, hexogen, airliner, Federal Security Service, Islamic_
+_Context: airliner, Islamic, hexogen, explosive, Federal Security Service_
 
 ##### Enzo Baldoni
 ### [ Enzo Baldoni, an Italian journalist kidnapped by Islamic militants in Iraq, is killed by his kidnappers. ](/news/2004/08/27/enzo-baldoni-an-italian-journalist-kidnapped-by-islamic-militants-in-iraq-is-killed-by-his-kidnappers.md)
-_Context: Enzo Baldoni, Islamic militants, kidnap, Iraq_
+_Context: kidnap, Enzo Baldoni, Iraq, Islamic militants_
 
 ##### Anti-Semitic
 ### [ The Interior Minister of France announces that the number of anti-Semitic attacks in France this year is more than double that of the same period last year. ](/news/2004/08/27/the-interior-minister-of-france-announces-that-the-number-of-anti-semitic-attacks-in-france-this-year-is-more-than-double-that-of-the-same.md)

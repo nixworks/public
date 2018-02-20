@@ -9,7 +9,7 @@ BEIRUT, LEBANON (2:00 A.M.) - The jihadist rebels have agreed to surrender the r
 
 ##### PwC
 ### [Consultancy PwC says that global banks with business both in London and on the European continent must plan for a hard Brexit that entails a break with many of the benefits of the Euro system, and a short transition period. ](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.md)
-_Context: hard Brexit, EUR, PwC_
+_Context: EUR, hard Brexit, PwC_
 
 ##### Enlargement of the African Union
 ### [Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-over-the-political-status-of-wester.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2017/07/26/index.html)  [JSON](2017/07/26/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md)
-_Context: Taliban, Kandahar Province, Defense Ministry, military personnel, War in Afghanistan_
+_Context: Defense Ministry, War in Afghanistan, Taliban, military personnel, Kandahar Province_
 
 ##### Northern Mali conflict
 ### [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md)
@@ -29,7 +29,7 @@ The FBI is investigating the death of a Utah woman stemming from a domestic disp
 
 ##### Sexual orientation and gender identity in the United States military
 ### [U.S. President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/u-s-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-armed-forc.md)
-_Context: Sexual orientation and gender identity in the United States military, Donald Trump, U.S. President, transgender, Twitter, United States military personnel_
+_Context: United States military personnel, Twitter, transgender, Sexual orientation and gender identity in the United States military, Donald Trump, U.S. President_
 
 ##### Efforts to repeal Obamacare
 ### [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md)

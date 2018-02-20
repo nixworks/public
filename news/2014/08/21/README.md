@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/21/index.html)  [JSON](2014/08/21/index.json)  [XML](201
 
 ##### 2014 Israel-Gaza conflict
 ### [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md)
-_Context: Hamas, 2014 Israel-Gaza conflict, Israel_
+_Context: 2014 Israel-Gaza conflict, Israel, Hamas_
 
 ##### Damascus
 ### [The Syrian opposition accuses the Syrian army of launching a chemical attack on the Jobar neighborhood of Damascus, killing at least six people. ](/news/2014/08/21/the-syrian-opposition-accuses-the-syrian-army-of-launching-a-chemical-attack-on-the-jobar-neighborhood-of-damascus-killing-at-least-six-peo.md)
@@ -21,7 +21,7 @@ At least 36 people, including several children, were killed in Japan on Wednesda
 
 ##### Romania
 ### [The governments of Romania and Hungary sign a framework agreement for opening 20 cross-border roads, strengthening traffic links with the entire European Union. ](/news/2014/08/21/the-governments-of-romania-and-hungary-sign-a-framework-agreement-for-opening-20-cross-border-roads-strengthening-traffic-links-with-the-en.md)
-_Context: European Union, Hungary, Romania_
+_Context: Hungary, European Union, Romania_
 
 ##### Ministry of Justice Investigation Bureau
 ### [The Ministry of Justice Investigation Bureau in Taiwan is investigating former deputy minister Chang Hsien-yao of the Mainland Affairs Council on suspicions of treason for allegedly leaking classified information to China. ](/news/2014/08/21/the-ministry-of-justice-investigation-bureau-in-taiwan-is-investigating-former-deputy-minister-chang-hsien-yao-of-the-mainland-affairs-counc.md)
@@ -33,7 +33,7 @@ The Brazilian Socialist Party names environmental campaigner Marina Silva as its
 
 ##### Slovenian parliamentary election, 2014
 ### [The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-government-due-to-ethical-concerns-notably.md)
-_Context: Slovenian parliamentary election, 2014, alliance, Commission for the Prevention of Corruption, Alenka Bratusek_
+_Context: Commission for the Prevention of Corruption, Alenka Bratusek, alliance, Slovenian parliamentary election, 2014_
 
 ##### Military coup
 ### [The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md)

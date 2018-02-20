@@ -13,7 +13,7 @@ _Context: 2005 New York City transit strike_
 
 ##### India
 ### [ India's most advanced INSAT-4A telecommunication satellite is successfully launched by the EADS SPACE Transportation generic rocket, Ariane 5, from the spaceport of Kourou in French Guiana. ](/news/2005/12/22/india-s-most-advanced-insat-4a-telecommunication-satellite-is-successfully-launched-by-the-eads-space-transportation-generic-rocket-ariane.md)
-_Context: EADS SPACE Transportation, INSAT, Ariane 5, India, Kourou, French Guiana_
+_Context: INSAT, French Guiana, Kourou, India, Ariane 5, EADS SPACE Transportation_
 
 ##### Acetylene
 ### [ Acetylene and hydrogen cyanide, precursors to life's basic ingredients (DNA and proteins), are found around a star in the constellation Ophiuchus. ](/news/2005/12/22/acetylene-and-hydrogen-cyanide-precursors-to-life-s-basic-ingredients-dna-and-proteins-are-found-around-a-star-in-the-constellation-oph.md)
@@ -21,7 +21,7 @@ Space.com: Astronomers find some of the basic compounds necessary to build organ
 
 ##### Tony Blair
 ### [ Tony Blair makes a surprise visit to Basra in Iraq, to address 4,000 British soldiers and discuss withdrawal. He states that "we can eventually draw down our own capability" once the Iraqi forces "build up their own strength". ](/news/2005/12/22/tony-blair-makes-a-surprise-visit-to-basra-in-iraq-to-address-4-000-british-soldiers-and-discuss-withdrawal-he-states-that-we-can-eventu.md)
-_Context: Iraq, soldier, Basra, Tony Blair, United Kingdom_
+_Context: United Kingdom, soldier, Basra, Tony Blair, Iraq_
 
 ## [Previous Day...](/news/2005/12/21/index.md)
 

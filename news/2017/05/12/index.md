@@ -29,7 +29,7 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 
 ##### ''Costa Concordia'' disaster
 ### [The Italian Supreme Court of Cassation upholds Francesco Schettino's 16-year sentence for his role as Captain of the "Costa Concordia" in the deaths of 32 people. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-16-year-sentence-for-his-role-as-captain-of-the-costa-concordia-in-th.md)
-_Context: ''Costa Concordia'' disaster, Supreme Court of Cassation, Francesco Schettino_
+_Context: Francesco Schettino, Supreme Court of Cassation, ''Costa Concordia'' disaster_
 
 ##### A shooting attack at a nursing home
 ### [A shooting attack at a nursing home in Kirkersville, Ohio, kills four people, including a police chief and the shooter. ](/news/2017/05/12/a-shooting-attack-at-a-nursing-home-in-kirkersville-ohio-kills-four-people-including-a-police-chief-and-the-shooter.md)

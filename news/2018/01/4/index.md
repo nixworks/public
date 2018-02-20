@@ -37,7 +37,7 @@ The talks will pave the way for North Korean athletes to attend the Winter Games
 
 ##### Virginia House of Delegates election, 2017
 ### [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md)
-_Context: Virginia House of Delegates election, 2017, Republican, tied election, David Yancey, Democrat_
+_Context: Democrat, tied election, Virginia House of Delegates election, 2017, Republican, David Yancey_
 
 ## [Previous Day...](/news/2018/01/3/index.md)
 

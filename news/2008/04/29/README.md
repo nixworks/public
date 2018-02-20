@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/29/index.html)  [JSON](2008/04/29/index.json)  [XML](200
 
 ##### Economy of the United States
 ### [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-20.md)
-_Context: Standard & Poor's, United States, Case-Shiller index, Economy of the United States, real estate pricing_
+_Context: Case-Shiller index, United States, Economy of the United States, Standard & Poor's, real estate pricing_
 
 ##### Grand Theft Auto IV
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)
@@ -21,11 +21,11 @@ _Context: Afghan, Nangarhar Province_
 
 ##### European Union
 ### [ The European Union signs the Stabilisation and Association Agreement with Serbia prior to the decisive elections on 11 May 2008, but makes ratification conditional on full cooperation with the ICTY. ](/news/2008/04/29/the-european-union-signs-the-stabilisation-and-association-agreement-with-serbia-prior-to-the-decisive-elections-on-11-may-2008-but-makes.md)
-_Context: parliamentary election, European Union, Serbia, Stabilisation and Association Agreement, ICTY_
+_Context: Serbia, Stabilisation and Association Agreement, ICTY, European Union, parliamentary election_
 
 ##### Lithuania
 ### [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md)
-_Context: Moscow, European Union, Lithuania, Russia_
+_Context: Russia, Moscow, European Union, Lithuania_
 
 ## [Previous Day...](/news/2008/04/28/index.md)
 

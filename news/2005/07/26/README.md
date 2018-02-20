@@ -17,23 +17,23 @@ _Context: India_
 
 ##### Discovery
 ### [ The Space Shuttle "Discovery" lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-lif.md)
-_Context: STS-114, NASA, Discovery_
+_Context: STS-114, Discovery, NASA_
 
 ##### Lebanese
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)
-_Context: Samir Geagea, Lebanese, militia_
+_Context: militia, Lebanese, Samir Geagea_
 
 ##### Hong Seok-Hyun
 ### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
-_Context: slush fund, Hong Seok-Hyun_
+_Context: Hong Seok-Hyun, slush fund_
 
 ##### Burma
 ### [ Burma-Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
-_Context: ASEAN, Burma, Myanmar_
+_Context: Myanmar, Burma, ASEAN_
 
 ##### Protest
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
-_Context: Afghan, protest, demonstration, Bagram_
+_Context: Bagram, protest, Afghan, demonstration_
 
 ##### Mohammed Bouyeri
 ### [ In the Netherlands, Mohammed Bouyeri receives life sentence for murder of Theo van Gogh ](/news/2005/07/26/in-the-netherlands-mohammed-bouyeri-receives-life-sentence-for-murder-of-theo-van-gogh.md)
@@ -65,7 +65,7 @@ _Context: Abdullahi Yusuf, Jowhar, Somalia_
 
 ##### Nepal
 ### [ In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". ](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.md)
-_Context: Nepal, Sher Bahadur Deuba, embezzlement, character assassination_
+_Context: Sher Bahadur Deuba, embezzlement, Nepal, character assassination_
 
 ## [Previous Day...](/news/2005/07/25/index.md)
 

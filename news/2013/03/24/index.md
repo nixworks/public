@@ -25,7 +25,7 @@ Eurozone finance ministers agree a deal on a bailout for Cyprus to prevent its b
 
 ##### Bolivia
 ### [Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. ](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.md)
-_Context: President of Bolivia, border dispute, International Court of Justice, Bolivia, Chile, Evo Morales, The Hague_
+_Context: President of Bolivia, Bolivia, The Hague, International Court of Justice, Evo Morales, Chile, border dispute_
 
 ##### US Secretary of State
 ### [US Secretary of State John Kerry arrives in Iraq on an unannounced visit to press for greater co-operation over the conflict in Syria. ](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.md)
@@ -45,7 +45,7 @@ _Context: Syrian National Coalition, Ahmed Moaz al-Khatib, European Union, Syria
 
 ##### Gay marriage
 ### [Hundreds of thousands of people march in Paris against proposals to legalise same-sex marriage in France with violent clashes after police deny marchers access to the Champs-Elysees. ](/news/2013/03/24/hundreds-of-thousands-of-people-march-in-paris-against-proposals-to-legalise-same-sex-marriage-in-france-with-violent-clashes-after-police-d.md)
-_Context: Champs-Elysees, gay marriage_
+_Context: gay marriage, Champs-Elysees_
 
 ## [Previous Day...](/news/2013/03/23/index.md)
 

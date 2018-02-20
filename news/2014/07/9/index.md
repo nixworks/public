@@ -13,11 +13,11 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md)
-_Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), Iraq_
+_Context: Iraqi insurgency (post-U.S. withdrawal), Baghdad, Iraq_
 
 ##### War in Somalia (2009-present)
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: War in Somalia (2009-present), Al-Shabaab, President, Somalia_
+_Context: Al-Shabaab, Somalia, President, War in Somalia (2009-present)_
 
 ##### Central bank
 ### [Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. ](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.md)
@@ -25,7 +25,7 @@ Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, af
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md)
-_Context: Japan, 2014 Pacific typhoon season, Typhoon Neoguri, Okinawa_
+_Context: 2014 Pacific typhoon season, Japan, Typhoon Neoguri, Okinawa_
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired two short range missiles into the ocean to the east of the Korean Peninsula. ](/news/2014/07/9/south-korea-claims-that-north-korea-has-fired-two-short-range-missiles-into-the-ocean-to-the-east-of-the-korean-peninsula.md)

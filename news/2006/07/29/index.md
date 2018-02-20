@@ -9,11 +9,11 @@ Formats: [HTML](2006/07/29/index.html)  [JSON](2006/07/29/index.json)  [XML](200
 
 ##### Oil well
 ### [ An oil well explosion at the Pertamina-PetroChina oil refinery complex at Bojonegoro in East Java province of Indonesia leads to 150 people being treated at hospital and 6,000 people fleeing nearby villages. At this stage, there is no news of casualties. ](/news/2006/07/29/an-oil-well-explosion-at-the-pertamina-petrochina-oil-refinery-complex-at-bojonegoro-in-east-java-province-of-indonesia-leads-to-150-people.md)
-_Context: Bojonegoro, oil well, PetroChina, Indonesia, Pertamina, East Java_
+_Context: PetroChina, Indonesia, Bojonegoro, East Java, Pertamina, oil well_
 
 ##### Ali Mohammed Ghedi
 ### [ Somali Premier Ali Mohammed Ghedi alleges that Libya, Egypt, and Iran are supplying the Islamic Courts Union with weaponry. ](/news/2006/07/29/somali-premier-ali-mohammed-ghedi-alleges-that-libya-egypt-and-iran-are-supplying-the-islamic-courts-union-with-weaponry.md)
-_Context: Ali Mohammed Ghedi, Libya, Islamic Courts Union, Iran, Egypt_
+_Context: Iran, Egypt, Ali Mohammed Ghedi, Libya, Islamic Courts Union_
 
 ## [Previous Day...](/news/2006/07/28/index.md)
 

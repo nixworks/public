@@ -5,15 +5,15 @@ Formats: [HTML](2008/01/29/index.html)  [JSON](2008/01/29/index.json)  [XML](200
 
 ##### School bus
 ### [ 20 civilians including 11 children die and 14 are wounded after a mine explodes targeting a school bus in Madhu, Sri Lanka. ](/news/2008/01/29/20-civilians-including-11-children-die-and-14-are-wounded-after-a-mine-explodes-targeting-a-school-bus-in-madhu-sri-lanka.md)
-_Context: Sri Lanka, Madhu, school bus_
+_Context: school bus, Madhu, Sri Lanka_
 
 ##### Iran
 ### [ Iran's judiciary sentences 54 Bah' religion followers for "anti-regime propaganda." ](/news/2008/01/29/iran-s-judiciary-sentences-54-baha-i-religion-followers-for-anti-regime-propaganda.md)
-_Context: sentences, propaganda, Iran, Bah'_
+_Context: Iran, Bah', propaganda, sentences_
 
 ##### Beijing-Guangzhou railway
 ### [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md)
-_Context: stranded in train stations, Beijing-Guangzhou railway_
+_Context: Beijing-Guangzhou railway, stranded in train stations_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives passes a $146 billion economic stimulus package. ](/news/2008/01/29/the-united-states-house-of-representatives-passes-a-146-billion-economic-stimulus-package.md)
@@ -21,7 +21,7 @@ The House, seizing a rare moment of bipartisanship to respond to the economy’s
 
 ##### Venezuela
 ### [ Venezuelan gunmen hold 30 hostages in a bank in Gurico state before fleeing the scene in an ambulance with several hostages. The gunmen are subsequently captured. ](/news/2008/01/29/venezuelan-gunmen-hold-30-hostages-in-a-bank-in-guarico-state-before-fleeing-the-scene-in-an-ambulance-with-several-hostages-the-gunmen-ar.md)
-_Context: bank, ambulance, Gurico, Venezuela_
+_Context: bank, ambulance, Venezuela, Gurico_
 
 ##### Voters
 ### [ Voters in Florida go to the polls to determine presidential nominees. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-new-york-senator-hillary-clinton-wins-the-democratic-primary-with-no.md)
@@ -37,7 +37,7 @@ _Context: Pakistan Army, North Waziristan_
 
 ##### Car bomb
 ### [ A car bomb in Thenia, Algeria kills at least three people. ](/news/2008/01/29/a-car-bomb-in-thenia-algeria-kills-at-least-three-people.md)
-_Context: Algeria, Thenia, car bomb_
+_Context: car bomb, Thenia, Algeria_
 
 ## [Previous Day...](/news/2008/01/28/index.md)
 

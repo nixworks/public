@@ -17,7 +17,7 @@ One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed i
 
 ##### Oscar Romero
 ### [The Salvadoran Archbishop Oscar Romero, assassinated at the start of the Salvadoran Civil War, is beatified in Pope Francis's name, by Cardinal Angelo Amato, Prefect of the Congregation for the Causes of Saints, in San Salvador. ](/news/2015/05/23/the-salvadoran-archbishop-ascar-romero-assassinated-at-the-start-of-the-salvadoran-civil-war-is-beatified-in-pope-francis-s-name-by-card.md)
-_Context: San Salvador, Salvadoran Civil War, Congregation for the Causes of Saints, Pope Francis, Angelo Amato, Oscar Romero_
+_Context: Pope Francis, Oscar Romero, Angelo Amato, Congregation for the Causes of Saints, Salvadoran Civil War, San Salvador_
 
 ##### Eurovision Song Contest 2015
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)
@@ -25,7 +25,7 @@ _Context: San Salvador, Salvadoran Civil War, Congregation for the Causes of Sai
 
 ##### Scotland
 ### [A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. ](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.md)
-_Context: Scotland, Edinburgh, Quintinshill rail disaster_
+_Context: Quintinshill rail disaster, Scotland, Edinburgh_
 
 ##### Chinese
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
@@ -37,7 +37,7 @@ Down south in A.P., among those who succumbed to the killer heat were 40 persons
 
 ##### Flood
 ### [Record breaking rain causes flooding in the American states of Oklahoma and Texas with Oklahoma City recording record rainfall levels for the month of May. ](/news/2015/05/23/record-breaking-rain-causes-flooding-in-the-american-states-of-oklahoma-and-texas-with-oklahoma-city-recording-record-rainfall-levels-for-th.md)
-_Context: flood, Oklahoma, Oklahoma City, Texas_
+_Context: Oklahoma, flood, Texas, Oklahoma City_
 
 ##### Rohingya refugee crisis
 ### [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-as.md)

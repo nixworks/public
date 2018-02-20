@@ -5,11 +5,11 @@ Formats: [HTML](2017/01/30/index.html)  [JSON](2017/01/30/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)
-_Context: War in Donbass, Ukrainian military, Pro-Russian militants, since Sunday_
+_Context: War in Donbass, Ukrainian military, since Sunday, Pro-Russian militants_
 
 ##### Russian military intervention
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: Ministry of Defence, Russian military intervention, ISIL, Deir ez-Zor, Syria_
+_Context: Ministry of Defence, ISIL, Russian military intervention, Deir ez-Zor, Syria_
 
 ##### Insurgency in the North Caucasus
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
@@ -37,7 +37,7 @@ _Context: Miss Universe 2016, Philippines, Miss France 2016, Iris Mittenaere_
 
 ##### Gorno-Badakhshan
 ### [Several avalanches in Gorno-Badakhshan, Tajikistan, caused by heavy snowfall over the weekend, leave at least seven people dead. ](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.md)
-_Context: Tajikistan, Gorno-Badakhshan_
+_Context: Gorno-Badakhshan, Tajikistan_
 
 ##### United Kingdom-United States relations
 ### [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold for British Parliament debate. A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md)
@@ -45,7 +45,7 @@ The petition suggested it should be canceled &quot;because it would cause embarr
 
 ##### Iraq-United States relations
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: Iraqi Parliament, Executive Order 13769, Iraq-United States relations, ISIL, Iraq, United States_
+_Context: United States, ISIL, Iraq-United States relations, Iraq, Executive Order 13769, Iraqi Parliament_
 
 ##### Drug crackdown
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)

@@ -21,11 +21,11 @@ _Context: Converteam, GE Energy_
 
 ##### 2011 Tohoku earthquake and tsunami
 ### [Around 4,000 bodies of people who died in the 2011 Tohoku earthquake and tsunami in Iwate Prefecture, Miyagi Prefecture and Fukushima Prefecture remain unidentified. ](/news/2011/03/29/around-4-000-bodies-of-people-who-died-in-the-2011-tahoku-earthquake-and-tsunami-in-iwate-prefecture-miyagi-prefecture-and-fukushima-prefe.md)
-_Context: Miyagi Prefecture, 2011 Tohoku earthquake and tsunami, Iwate Prefecture, Fukushima Prefecture_
+_Context: Iwate Prefecture, Fukushima Prefecture, 2011 Tohoku earthquake and tsunami, Miyagi Prefecture_
 
 ##### North Korea
 ### [North Korea is reported to be on a state of high alert for radiation from the Fukushima I accidents. ](/news/2011/03/29/north-korea-is-reported-to-be-on-a-state-of-high-alert-for-radiation-from-the-fukushima-i-accidents.md)
-_Context: North Korea, radiation, Fukushima I nuclear accidents_
+_Context: radiation, North Korea, Fukushima I nuclear accidents_
 
 ##### Alabama
 ### [Nine hospital patients in the US state of Alabama die after being treated with Intravenous therapy feeding bags with the manufacturer withdrawing the product. ](/news/2011/03/29/nine-hospital-patients-in-the-us-state-of-alabama-die-after-being-treated-with-intravenous-therapy-feeding-bags-with-the-manufacturer-withdr.md)
@@ -33,7 +33,7 @@ _Context: Alabama, Intravenous therapy_
 
 ##### Italy
 ### [Local residents on Italy's southern islands protest over the arrival of more migrants from North Africa on boats. ](/news/2011/03/29/local-residents-on-italy-s-southern-islands-protest-over-the-arrival-of-more-migrants-from-north-africa-on-boats.md)
-_Context: Italy, North Africa_
+_Context: North Africa, Italy_
 
 ##### India
 ### [India and Pakistan agree to set up a "terror hotline" to share information about terror threats. ](/news/2011/03/29/india-and-pakistan-agree-to-set-up-a-terror-hotline-to-share-information-about-terror-threats.md)
@@ -45,7 +45,7 @@ _Context: subversion, Middle East, China_
 
 ##### Uganda
 ### [Wanted Ugandan rebel leader Joseph Kony, leader of the Lord's Resistance Army, returns to eastern Democratic Republic of the Congo. ](/news/2011/03/29/wanted-ugandan-rebel-leader-joseph-kony-leader-of-the-lord-s-resistance-army-returns-to-eastern-democratic-republic-of-the-congo.md)
-_Context: Joseph Kony, DR Congo, Uganda, Lord's Resistance Army_
+_Context: Uganda, Joseph Kony, DR Congo, Lord's Resistance Army_
 
 ##### Israel
 ### [The Israeli Knesset approves an amendment to the Nationality Law in a 37-11 vote. The amendment empowers the Israeli court system to revoke the citizenships of Israeli citizens convicted of terrorism, aiding the enemy in wartime, causing war, serving in enemy forces or espionage.](/news/2011/03/29/the-israeli-knesset-approves-an-amendment-to-the-nationality-law-in-a-37-11-vote-the-amendment-empowers-the-israeli-court-system-to-revoke.md)
@@ -57,7 +57,7 @@ _Context: Burma, State Peace and Development Council, President of Burma_
 
 ##### Jose Alencar
 ### [Jose Alencar, the former Vice-President of Brazil between 2003 and 2010, dies after a long battle of cancer. ](/news/2011/03/29/josa-c-alencar-the-former-vice-president-of-brazil-between-2003-and-2010-dies-after-a-long-battle-of-cancer.md)
-_Context: cancer, Jose Alencar, Vice-President of Brazil_
+_Context: Jose Alencar, cancer, Vice-President of Brazil_
 
 ## [Previous Day...](/news/2011/03/28/index.md)
 

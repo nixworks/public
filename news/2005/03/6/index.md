@@ -9,11 +9,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Rabat
 ### [ In Rabat, Morocco, some 30.000 protesters march to call for release of prisoners of war held by Polisario in Algeria. ](/news/2005/03/6/in-rabat-morocco-some-30-000-protesters-march-to-call-for-release-of-prisoners-of-war-held-by-polisario-in-algeria.md)
-_Context: Polisario, Rabat, Algeria, Morocco_
+_Context: Morocco, Algeria, Polisario, Rabat_
 
 ##### Israel
 ### [ In Israel, police arrest 22 employees of Bank Hapoalim for suspected money laundering. ](/news/2005/03/6/in-israel-police-arrest-22-employees-of-bank-hapoalim-for-suspected-money-laundering.md)
-_Context: money laundering, Israel, Bank Hapoalim_
+_Context: Bank Hapoalim, money laundering, Israel_
 
 ## [Previous Day...](/news/2005/03/5/index.md)
 

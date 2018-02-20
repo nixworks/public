@@ -17,11 +17,11 @@ _Context: United States, electricity, East Coast of the United States, winter st
 
 ##### Acting president
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
-_Context: Guinea-Bissau, Bissau, acting president, assassinated, Joo Bernardo Vieira_
+_Context: assassinated, acting president, Guinea-Bissau, Joo Bernardo Vieira, Bissau_
 
 ##### Palestinian
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
-_Context: Bustan, ethnic cleansing, Palestinian, Israel, East Jerusalem_
+_Context: Bustan, Palestinian, East Jerusalem, Israel, ethnic cleansing_
 
 ##### North Korea
 ### [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md)
@@ -29,7 +29,7 @@ North Korean generals met the U.S.-led U.N. military command in South Korea for 
 
 ##### Tamil
 ### [ Two thousand Tamil people have been killed and 5,000 injured in Vanni District during Sri Lanka's civil war. ](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.md)
-_Context: Vanni District, Sri Lankan Civil War, Sri Lanka, Tamil_
+_Context: Tamil, Sri Lankan Civil War, Sri Lanka, Vanni District_
 
 ## [Previous Day...](/news/2009/03/1/index.md)
 

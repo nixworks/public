@@ -13,7 +13,7 @@ _Context: Pakistan, Airstrike_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
-_Context: Mahmoud Ahmadinejad, President, Tehran_
+_Context: President, Mahmoud Ahmadinejad, Tehran_
 
 ##### Iraq
 ### [Iraq's election seeks a recount in five provinces after up to 750,000 votes are "tainted by fraud". ](/news/2010/04/11/iraq-s-election-seeks-a-recount-in-five-provinces-after-up-to-750-000-votes-are-tainted-by-fraud.md)
@@ -25,19 +25,19 @@ Multi-party elections get under way despite opposition staying away from preside
 
 ##### 6.8 magnitude earthquake
 ### [A 6.8 magnitude earthquake strikes the southern Solomon Islands, 97&nbsp;km southwest of Kirakira on Makira Island. ](/news/2010/04/11/a-6-8-magnitude-earthquake-strikes-the-southern-solomon-islands-97-nbsp-km-southwest-of-kirakira-on-makira-island.md)
-_Context: Makira Island, 6.8 magnitude earthquake, Kirakira, Solomon Islands_
+_Context: 6.8 magnitude earthquake, Solomon Islands, Kirakira, Makira Island_
 
 ##### Israel
 ### [Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. ](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.md)
-_Context: West Bank, Palestinians, Israel_
+_Context: Israel, Palestinians, West Bank_
 
 ##### Democratic Front for the Liberation of Palestine
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: Chinese, North Korea, Democratic Front for the Liberation of Palestine, Iran, Israel_
+_Context: Israel, North Korea, Iran, Chinese, Democratic Front for the Liberation of Palestine_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. ](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.md)
-_Context: Kyrgyzstan, Kurmanbek Bakiyev, president, the recent unrest_
+_Context: Kyrgyzstan, the recent unrest, president, Kurmanbek Bakiyev_
 
 ##### South Africa
 ### [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md)
@@ -57,11 +57,11 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 
 ##### 2010 Thai political protests
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
-_Context: Thailand, Bangkok, red shirt, 2010 Thai political protests_
+_Context: Thailand, red shirt, Bangkok, 2010 Thai political protests_
 
 ##### China
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
-_Context: 2008 Summer Olympics, China, lip-synching_
+_Context: lip-synching, 2008 Summer Olympics, China_
 
 ##### Belfast Wheel
 ### [The Belfast Wheel ](/news/2010/04/11/the-belfast-wheel.md)

@@ -13,11 +13,11 @@ _Context: German, Iraq_
 
 ##### Italian Prime Minister
 ### [ Italian Prime Minister Silvio Berlusconi officially hands in his resignation to President Carlo Azeglio Ciampi. Berlusconi was defeated by Romano Prodi in the April 9-10 elections, but Ciampi has asked him to remain in office, "for the handling of current affairs". ](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.md)
-_Context: President, Italian Prime Minister, Carlo Azeglio Ciampi, April 9-10 elections, Silvio Berlusconi, Romano Prodi_
+_Context: Carlo Azeglio Ciampi, April 9-10 elections, Romano Prodi, Italian Prime Minister, Silvio Berlusconi, President_
 
 ##### President of Bolivia
 ### [ Newly elected President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-nationali.md)
-_Context: gas, mine, Bolivian Gas War, Bolivia, President of Bolivia, forestry, Evo Morales, nationalization_
+_Context: Bolivian Gas War, President of Bolivia, gas, forestry, nationalization, mine, Bolivia, Evo Morales_
 
 ##### Edvard Munch
 ### [ The thieves of the famous Edvard Munch paintings "The Scream "and "Madonna" are sentenced to four and eight years in prison. ](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.md)

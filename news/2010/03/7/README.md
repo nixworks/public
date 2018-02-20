@@ -13,7 +13,7 @@ _Context: abortion, Spain_
 
 ##### Melbourne
 ### [Melbourne, Australia experiences flooding after a once-in-a-century thunderstorm of marble-sized hailstones which tears the roof from a railway station and leads to the postponement of sports fixtures. A state of emergency is declared in Queensland.](/news/2010/03/7/melbourne-australia-experiences-flooding-after-a-once-in-a-century-thunderstorm-of-marble-sized-hailstones-which-tears-the-roof-from-a-rail.md)
-_Context: a once-in-a-century thunderstorm of marble-sized hailstones, Australia, Queensland, Melbourne_
+_Context: a once-in-a-century thunderstorm of marble-sized hailstones, Queensland, Australia, Melbourne_
 
 ##### Iraq
 ### [Voters in Iraq take part in parliamentary elections and a referendum on the Status of Forces Agreement. ](/news/2010/03/7/voters-in-iraq-take-part-in-parliamentary-elections-and-a-referendum-on-the-status-of-forces-agreement.md)

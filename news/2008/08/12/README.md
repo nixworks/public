@@ -5,11 +5,11 @@ Formats: [HTML](2008/08/12/index.html)  [JSON](2008/08/12/index.json)  [XML](200
 
 ##### South Waziristan
 ### [ A missile strike on a suspected militant training camp in South Waziristan in Pakistan kills at least nine people. ](/news/2008/08/12/a-missile-strike-on-a-suspected-militant-training-camp-in-south-waziristan-in-pakistan-kills-at-least-nine-people.md)
-_Context: Pakistan, South Waziristan_
+_Context: South Waziristan, Pakistan_
 
 ##### Mark David Chapman
 ### [ Mark David Chapman is denied parole for a fifth time for the murder of ex-Beatle John Lennon in 1980. ](/news/2008/08/12/mark-david-chapman-is-denied-parole-for-a-fifth-time-for-the-murder-of-ex-beatle-john-lennon-in-1980.md)
-_Context: 1980, Mark David Chapman, Beatle, John Lennon_
+_Context: 1980, John Lennon, Mark David Chapman, Beatle_
 
 ##### United States Treasury Department
 ### [ The United States Department of the Treasury imposes sanctions on five Iranian companies for assisting the development of the nuclear program of Iran. ](/news/2008/08/12/the-united-states-department-of-the-treasury-imposes-sanctions-on-five-iranian-companies-for-assisting-the-development-of-the-nuclear-progr.md)
@@ -17,7 +17,7 @@ _Context: United States Treasury Department, Iran, nuclear program_
 
 ##### Russian President
 ### [ President of Russia Dmitry Medvedev announced that the operation of Russian forces in South Ossetia is completed. He added that 'The aggressor has been punished, having sustained considerable losses. Its armed forces have been disorganised'. Medvedev also ordered the Russian Ministry of Defence to consider awarding the peacekeepers and military personnel that have 'showed their best' during the operation. ](/news/2008/08/12/president-of-russia-dmitry-medvedev-announced-that-the-operation-of-russian-forces-in-south-ossetia-is-completed-he-added-that-the-aggres.md)
-_Context:  peacekeepers, Russian Ministry of Defence, Battle of Tskhinvali, 2008 South Ossetia war, Dmitry Medvedev, Russian President_
+_Context: Battle of Tskhinvali, Russian Ministry of Defence, 2008 South Ossetia war,  peacekeepers, Russian President, Dmitry Medvedev_
 
 ##### Flood
 ### [ Floods and landslides associated with Tropical Storm Kammuri kill 28 people in southwest China and force 11,000 people from their homes. ](/news/2008/08/12/floods-and-landslides-associated-with-tropical-storm-kammuri-kill-28-people-in-southwest-china-and-force-11-000-people-from-their-homes.md)

@@ -29,7 +29,7 @@ A fire at a private shelter for orphans and abandoned children in central China 
 
 ##### Beechcraft BE35
 ### [Three people are killed when a Beechcraft BE35 plane crashes into a home near Daytona Beach, Florida, United States. ](/news/2013/01/4/three-people-are-killed-when-a-beechcraft-be35-plane-crashes-into-a-home-near-daytona-beach-florida-united-states.md)
-_Context: Beechcraft BE35, United States, Florida, Daytona Beach_
+_Context: Florida, United States, Beechcraft BE35, Daytona Beach_
 
 ##### Russia
 ### [Six Russian tourists are killed and two tourists are seriously injured after a snowmobile towing a sled veers off a ski slope, crashes into a barrier, and flies into a ditch on Italy's Mount Cermis. ](/news/2013/01/4/six-russian-tourists-are-killed-and-two-tourists-are-seriously-injured-after-a-snowmobile-towing-a-sled-veers-off-a-ski-slope-crashes-into.md)
@@ -45,7 +45,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 
 ##### Nepal
 ### [Former Nepalese Colonel Kumar Lama is charged with torture in the UK stemming from allegations of human rights abuses during the Nepalese Civil War. ](/news/2013/01/4/former-nepalese-colonel-kumar-lama-is-charged-with-torture-in-the-uk-stemming-from-allegations-of-human-rights-abuses-during-the-nepalese-ci.md)
-_Context: Colonel Kumar Lama, human rights, Nepal, UK, Nepalese Civil War_
+_Context: Colonel Kumar Lama, Nepalese Civil War, Nepal, UK, human rights_
 
 ##### U.S. media
 ### [U.S. media report that celebrity Naomi Campbell has been assaulted in Paris. Reports say two men on a motorcycle tried to make off with her handbag during the attack. ](/news/2013/01/4/u-s-media-report-that-celebrity-naomi-campbell-has-been-assaulted-in-paris-reports-say-two-men-on-a-motorcycle-tried-to-make-off-with-her.md)
@@ -57,19 +57,19 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 
 ##### Sexual violence
 ### [Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. ](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.md)
-_Context: 2012 Delhi gang rape case, Sri Lanka, Nepal, sexual violence, Bangladesh, Pakistan_
+_Context: Bangladesh, Pakistan, Sri Lanka, 2012 Delhi gang rape case, Nepal, sexual violence_
 
 ##### Chinese
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: censorship, liberal, Guangdong province, Chinese_
+_Context: liberal, Chinese, censorship, Guangdong province_
 
 ##### Venezuela
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
-_Context: lung infection, Venezuela, Hugo Chavez_
+_Context: Venezuela, lung infection, Hugo Chavez_
 
 ##### Congress
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, United States presidential election, 2012, Congress, U.S. President_
+_Context: United States presidential election, 2012, U.S. President, Congress, Barack Obama_
 
 ##### Sudan
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)

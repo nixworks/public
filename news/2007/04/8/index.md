@@ -5,19 +5,19 @@ Formats: [HTML](2007/04/8/index.html)  [JSON](2007/04/8/index.json)  [XML](2007/
 
 ##### Zimbabwe
 ### [ Zimbabwe's Roman Catholic bishops call on the President of Zimbabwe Robert Mugabe to stand down or face "open revolt" in a message posted on church bulletin boards across the country. ](/news/2007/04/8/zimbabwe-s-roman-catholic-bishops-call-on-the-president-of-zimbabwe-robert-mugabe-to-stand-down-or-face-open-revolt-in-a-message-posted-o.md)
-_Context: President of Zimbabwe, church, bishop, Robert Mugabe, Zimbabwe, Roman Catholic_
+_Context: bishop, Roman Catholic, Zimbabwe, President of Zimbabwe, church, Robert Mugabe_
 
 ##### Islamist
 ### [ Suspected Islamist militants open fire on a military patrol in northwestern Algeria leaving nine soldiers and six attackers dead. ](/news/2007/04/8/suspected-islamist-militants-open-fire-on-a-military-patrol-in-northwestern-algeria-leaving-nine-soldiers-and-six-attackers-dead.md)
-_Context: Islamist, Algeria, soldier_
+_Context: soldier, Algeria, Islamist_
 
 ##### Pope
 ### [ Pope Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-statin.md)
-_Context: Pope, homily, Democratic Republic of Congo, Iraq War, Darfur,  Benedict, Somalia, Zimbabwe, Easter, Middle East, Afghan_
+_Context: Democratic Republic of Congo, Afghan, homily,  Benedict, Easter, Iraq War, Pope, Zimbabwe, Middle East, Somalia, Darfur_
 
 ##### NATO
 ### [ Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-taliban.md)
-_Context: soldier, NATO, car bombing, Taliban, Afghan_
+_Context: Afghan, NATO, car bombing, soldier, Taliban_
 
 ##### Japan
 ### [ Voters go to the polls in Japan for local elections including 13 gubernatorial elections and 4 mayoral races with the most closely watched race being for the Governor of Tokyo. ](/news/2007/04/8/voters-go-to-the-polls-in-japan-for-local-elections-including-13-gubernatorial-elections-and-4-mayoral-races-with-the-most-closely-watched.md)

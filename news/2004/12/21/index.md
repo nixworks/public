@@ -21,47 +21,47 @@ _Context: David Blunkett, Home Secretary_
 
 ##### White House
 ### [ The White House announces that allegations of abuse of prisoners in Iraq and Guantanamo Bay by US military personnel will be "fully investigated". The allegations were prompted by a memo, obtained by ACLU FOIA requests, dated two months after the Abu Ghraib scandal broke which reference an executive order that authorized questionable interrogation techniques. The White House spokesman flat out denied this in saying "there is no executive order on interrogation techniques". ](/news/2004/12/21/the-white-house-announces-that-allegations-of-abuse-of-prisoners-in-iraq-and-guantanamo-bay-by-us-military-personnel-will-be-fully-investi.md)
-_Context: White House, Iraq, ACLU, Abu Ghraib prisoner abuse, Guantnamo Bay, United States military personnel, Freedom of Information Act_
+_Context: Iraq, Abu Ghraib prisoner abuse, Freedom of Information Act, White House, ACLU, United States military personnel, Guantnamo Bay_
 
 ##### Lee Teng-hui
 ### [ Japan issues a tourist visa to former Taiwanese leader Lee Teng-hui despite protests from the People's Republic of China that such a move would harm bilateral relations. The PRC considers Lee a Taiwan independence agitator. ](/news/2004/12/21/japan-issues-a-tourist-visa-to-former-taiwanese-leader-lee-teng-hui-despite-protests-from-the-people-s-republic-of-china-that-such-a-move-w.md)
-_Context: Lee Teng-hui, Sino-Japanese relations, independence_
+_Context: Lee Teng-hui, independence, Sino-Japanese relations_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: The Supreme Court of Newfoundland and Labrador finds the banning of same-sex marriage unconstitutional, making that province the eighth of Canada's provinces and territories to legalize same-sex marriage. ](/news/2004/12/21/same-sex-marriage-in-canada-the-supreme-court-of-newfoundland-and-labrador-finds-the-banning-of-same-sex-marriage-unconstitutional-making.md)
-_Context: Same-sex marriage in Canada, Newfoundland and Labrador, eighth of Canada's provinces and territories_
+_Context: Newfoundland and Labrador, eighth of Canada's provinces and territories, Same-sex marriage in Canada_
 
 ##### Arab-Israeli Conflict
 ### [ Arab-Israeli Conflict: The leaders of the Gulf Co-operation Council (GCC) urge US President George W. Bush to make the creation of an independent Palestinian state an absolute priority at their annual meeting, which is being held in Bahrain. ](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.md)
-_Context: Palestinian state, Bahrain, Gulf Co-operation Council, U.S. President, George W. Bush, Arab-Israeli Conflict_
+_Context: Arab-Israeli Conflict, Bahrain, U.S. President, Gulf Co-operation Council, Palestinian state, George W. Bush_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair makes a surprise visit to Baghdad. ](/news/2004/12/21/uk-prime-minister-tony-blair-makes-a-surprise-visit-to-baghdad.md)
-_Context: Baghdad, Tony Blair, Prime Minister_
+_Context: Prime Minister, Baghdad, Tony Blair_
 
 ##### J.K. Rowling
 ### [ Author J.K. Rowling announces that the sixth book in her Harry Potter series, "Harry Potter and the Half-Blood Prince", will be published on 16 July 2005. The share price of her British publisher, Bloomsbury, rises 7.5% on the news. ](/news/2004/12/21/author-j-k-rowling-announces-that-the-sixth-book-in-her-harry-potter-series-harry-potter-and-the-half-blood-prince-will-be-published-o.md)
-_Context: Bloomsbury, J.K. Rowling, Harry Potter, Harry Potter and the Half-Blood Prince_
+_Context: J.K. Rowling, Bloomsbury, Harry Potter and the Half-Blood Prince, Harry Potter_
 
 ##### GBP
 ### [ Up to GBP30 million are reported stolen from the headquarters of the Northern Bank in Belfast, Northern Ireland. Two members of the bank's senior staff and their families are reported to have been held hostage before the robbery. This is likely to be the second biggest bank robbery in British history, and the fourth largest in the world. ](/news/2004/12/21/up-to-gbp30-million-are-reported-stolen-from-the-headquarters-of-the-northern-bank-in-belfast-northern-ireland-two-members-of-the-bank-s.md)
-_Context: Northern Bank, GBP, Northern Ireland, Belfast_
+_Context: GBP, Northern Ireland, Northern Bank, Belfast_
 
 ##### Pakistan
 ### [ Pakistan's Anti Terrorism Court cancels the bail of Asif Ali Zardari, leader of the Pakistan Peoples Party and husband of Benazir Bhutto. Zardari was released last month after eight years in prison. He was charged with corruption and conspiracy to murder. ](/news/2004/12/21/pakistan-s-anti-terrorism-court-cancels-the-bail-of-asif-ali-zardari-leader-of-the-pakistan-peoples-party-and-husband-of-benazir-bhutto-z.md)
-_Context: corruption, Pakistan Peoples Party, Pakistan, murder, Benazir Bhutto, bail, Asif Ali Zardari, conspiracy_
+_Context: Pakistan, Benazir Bhutto, murder, corruption, bail, Asif Ali Zardari, Pakistan Peoples Party, conspiracy_
 
 ##### Chile
 ### [ A court in Chile upholds the indictment and house arrest of Augusto Pinochet. Prosecution lawyers claim that his hospitalization for a heart condition was a political ploy. Pinochet's lawyers intend to appeal. ](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.md)
-_Context: Chile, Augusto Pinochet_
+_Context: Augusto Pinochet, Chile_
 
 ##### Nigeria
 ### [ A court in Nigeria upholds the election of Nigerian president Olusegun Obasanjo. Opposition parties, led by Muhammadu Buhari, have challenged the result, and the EU and U.S. question the election's validity. ](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.md)
-_Context: Muhammadu Buhari, Nigeria, European Union, Olusegun Obasanjo_
+_Context: European Union, Muhammadu Buhari, Olusegun Obasanjo, Nigeria_
 
 ##### Abu Dhabi
 ### [ Archaeologists in Abu Dhabi, United Arab Emirates, find the remains of a 7,500-year-old man on the island of Marawah. ](/news/2004/12/21/archaeologists-in-abu-dhabi-united-arab-emirates-find-the-remains-of-a-7-500-year-old-man-on-the-island-of-marawah.md)
-_Context: Marawah, Abu Dhabi, United Arab Emirates_
+_Context: United Arab Emirates, Abu Dhabi, Marawah_
 
 ##### Jacques Chirac
 ### [ French President Jacques Chirac demands improved hospital security after two nurses are killed. A suspected mental patient was released. ](/news/2004/12/21/french-president-jacques-chirac-demands-improved-hospital-security-after-two-nurses-are-killed-a-suspected-mental-patient-was-released.md)
@@ -73,7 +73,7 @@ _Context: United States soldier_
 
 ##### Iceland
 ### [ The US pressures Iceland not to grant Bobby Fischer sanctuary. ](/news/2004/12/21/the-us-pressures-iceland-not-to-grant-bobby-fischer-sanctuary.md)
-_Context: Iceland, Bobby Fischer_
+_Context: Bobby Fischer, Iceland_
 
 ##### Zaheera Sheikh
 ### [ Zaheera Sheikh, a key witness in the Best Bakery case, is declared hostile by the prosecution after she goes back on her police statement during retrial of the case. ](/news/2004/12/21/zaheera-sheikh-a-key-witness-in-the-best-bakery-case-is-declared-hostile-by-the-prosecution-after-she-goes-back-on-her-police-statement-d.md)

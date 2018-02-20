@@ -21,11 +21,11 @@ _Context: Thailand, flood_
 
 ##### Russia
 ### [ Four Russian soldiers die during fighting in Chechnya. ](/news/2006/05/24/four-russian-soldiers-die-during-fighting-in-chechnya.md)
-_Context: Russia, Chechnya, Russian Army_
+_Context: Russian Army, Chechnya, Russia_
 
 ##### East Timorese army
 ### [ Disgruntled former soldiers and government troops clash in East Timor, leading to at least two deaths in Dili. Australians evacuate as violence escalates. ](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.md)
-_Context: East Timorese army, Dili, East Timor_
+_Context: East Timor, East Timorese army, Dili_
 
 ##### Atatrk International Airport
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)
@@ -33,7 +33,7 @@ _Context: Turkey, Atatrk International Airport, Istanbul_
 
 ##### President of Mexico
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. ](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: United States, Vicente Fox, Salt Lake City, President of Mexico, illegal worker_
+_Context: Salt Lake City, United States, Vicente Fox, illegal worker, President of Mexico_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

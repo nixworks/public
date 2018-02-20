@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/26/index.html)  [JSON](2015/06/26/index.json)  [XML](201
 
 ##### Somali Civil War
 ### [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md)
-_Context: Al-Shabaab, Somali Civil War, African Union, Somalia, Leego, attack_
+_Context: Leego, Somali Civil War, attack, Al-Shabaab, African Union, Somalia_
 
 ##### Saint-Quentin-Fallavier attack
 ### [ A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-man-carrying-an-islamic-state-in.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/30/index.html)  [JSON](2014/05/30/index.json)  [XML](201
 
 ##### Islamist insurgency in Nigeria
 ### [Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md)
-_Context: traditional rulers, Boko Haram, Nigeria, Borno, Islamist, Islamist insurgency in Nigeria_
+_Context: Islamist insurgency in Nigeria, traditional rulers, Islamist, Boko Haram, Nigeria, Borno_
 
 ##### State Department
 ### [United States State Department makes its first confirmation that a U.S. citizen has been "involved" in a suicide bombing as part of Syria's ongoing civil war. ](/news/2014/05/30/united-states-state-department-makes-its-first-confirmation-that-a-u-s-citizen-has-been-involved-in-a-suicide-bombing-as-part-of-syria-s.md)
@@ -13,7 +13,7 @@ The U.S. State Department today confirmed that an American citizen was &ldquo;in
 
 ##### Indonesia
 ### [Indonesia's Sangeang Api volcano erupts disrupting flights in Indonesia and northern Australia. ](/news/2014/05/30/indonesia-s-sangeang-api-volcano-erupts-disrupting-flights-in-indonesia-and-northern-australia.md)
-_Context: Sangeang Api, northern Australia, Indonesia_
+_Context: northern Australia, Indonesia, Sangeang Api_
 
 ##### India
 ### [At least nine people are killed and over a dozen injured when a storm hits the Indian capital New Delhi. ](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.md)

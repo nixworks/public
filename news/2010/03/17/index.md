@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/17/index.html)  [JSON](2010/03/17/index.json)  [XML](201
 
 ##### Thailand
 ### [Protests in Thailand by the National United Front of Democracy Against Dictatorship continue, with supporters throwing their own blood outside the house of Prime Minister Abhisit Vejjajiva. ](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.md)
-_Context: blood, Thailand, Prime Minister, red shirt, Abhisit Vejjajiva_
+_Context: Abhisit Vejjajiva, Prime Minister, blood, red shirt, Thailand_
 
 ##### France
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
-_Context: Paris, Basque separatist, France, ETA_
+_Context: ETA, France, Paris, Basque separatist_
 
 ##### Ladies in White
 ### [30 members of the "Ladies in White" opposition movement in Cuba are arrested at a demonstration in the capital Havana. ](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.md)
@@ -17,7 +17,7 @@ Female relatives of dissidents heckled during march outside Havana, then removed
 
 ##### China
 ### [Seven Chinese fisherman kidnapped off Cameroon's disputed Bakassi peninsula are released. ](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.md)
-_Context: Cameroon, China, Bakassi_
+_Context: Bakassi, China, Cameroon_
 
 ##### Nigeria
 ### [Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. ](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.md)

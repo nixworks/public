@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/19/index.html)  [JSON](2010/03/19/index.json)  [XML](201
 
 ##### Iran
 ### [Former Iranian Vice-President Hossein Marashi is jailed after being accused of spreading propaganda. ](/news/2010/03/19/former-iranian-vice-president-hossein-marashi-is-jailed-after-being-accused-of-spreading-propaganda.md)
-_Context: Hossein Marashi, Iran_
+_Context: Iran, Hossein Marashi_
 
 ##### NASA
 ### [NASA announces that "It is nearly certain that a new record 12-month global temperature will be set in 2010", in a new draft paper based on GISS temperature analysis. ](/news/2010/03/19/nasa-announces-that-it-is-nearly-certain-that-a-new-record-12-month-global-temperature-will-be-set-in-2010-in-a-new-draft-paper-based-on.md)
-_Context: NASA, GISS_
+_Context: GISS, NASA_
 
 ##### Netherlands
 ### [Dutch officials object to "ridiculous" and "out of the realm of fiction" claims by retired American general John J. Sheehan, a former NATO commander, that the use of gay soldiers in 1995 meant Dutch forces were "under-strength" and "poorly led" when attempting to protect Bosnian civilians in Srebrenica. ](/news/2010/03/19/dutch-officials-object-to-ridiculous-and-out-of-the-realm-of-fiction-claims-by-retired-american-general-john-j-sheehan-a-former-nato-c.md)
@@ -41,11 +41,11 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
-_Context: Prime Minister, Voice of America, genocide, Meles Zenawi, Ethiopia_
+_Context: Ethiopia, Meles Zenawi, Voice of America, genocide, Prime Minister_
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: President, German, mosque, Hosni Mubarak, Egypt_
+_Context: President, Hosni Mubarak, Egypt, German, mosque_
 
 ##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
@@ -73,15 +73,15 @@ _Context: Large Hadron Collider_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Saudi Arabia, Amnesty International, Lebanese_
+_Context: Abdullah, Amnesty International, Lebanese, Saudi Arabia_
 
 ##### Colombia
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
-_Context: Colombia, Johnny Hurtado_
+_Context: Johnny Hurtado, Colombia_
 
 ##### Colombia
 ### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
-_Context: Montera, El Pulso, Colombia, Clodomiro Castilla_
+_Context: Montera, Colombia, El Pulso, Clodomiro Castilla_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

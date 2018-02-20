@@ -5,19 +5,19 @@ Formats: [HTML](2006/05/27/index.html)  [JSON](2006/05/27/index.json)  [XML](200
 
 ##### Tropical Storm Aletta
 ### [ Tropical Storm Aletta forms south-southwest of the Mexican port of Acapulco, marking the first storm of the 2006 Pacific hurricane season. ](/news/2006/05/27/tropical-storm-aletta-forms-south-southwest-of-the-mexican-port-of-acapulco-marking-the-first-storm-of-the-2006-pacific-hurricane-season.md)
-_Context: Acapulco, Tropical Storm Aletta, Mexico, Pacific_
+_Context: Tropical Storm Aletta, Mexico, Acapulco, Pacific_
 
 ##### Myanmar
 ### [ Myanmar extends the house arrest detention of opposition leader Aung San Suu Kyi for another year, amid continued pressure from the U.N. for her release. ](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.md)
-_Context: Aung San Suu Kyi, house arrest, Myanmar, United Nations_
+_Context: house arrest, Myanmar, Aung San Suu Kyi, United Nations_
 
 ##### Gay pride
 ### [ Over 70 participants in a banned gay pride parade are detained in Moscow. Amongst them are organizers and members of European Parliament. German parliamentary member Volker Beck is punched in the face and arrested by police. Moscow's mayor, Yuriy Luzhkov banned the march, saying "homosexuality is unnatural." ](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-parade-are-detained-in-moscow-amongst-them-are-organizers-and-members-of-european-parliament-g.md)
-_Context: Volker Beck, Bundestag, gay pride, European Parliament, Yuriy Luzhkov, Moscow_
+_Context: Volker Beck, Yuriy Luzhkov, Bundestag, European Parliament, gay pride, Moscow_
 
 ##### May 2006 Java earthquake
 ### [ May 2006 Java earthquake: A tectonic earthquake centred 25 kilometres (16 miles) south of Yogyakarta on the island of Java, Indonesia kills more than 4300 people and injures more than 3400. The 6.2 magnitude quake strikes at 5:54 a.m. (22:54 UTC, 26 May). The epicenter is southwest of the city and near the erupting Mount Merapi. ](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.md)
-_Context: epicenter, Java, tectonic earthquake, Yogyakarta, clock, Mount Merapi, Indonesia, May 2006 Java earthquake, magnitude_
+_Context: Indonesia, May 2006 Java earthquake, clock, magnitude, tectonic earthquake, Mount Merapi, Java, epicenter, Yogyakarta_
 
 ## [Previous Day...](/news/2006/05/26/index.md)
 

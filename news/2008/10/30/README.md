@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/30/index.html)  [JSON](2008/10/30/index.json)  [XML](200
 
 ##### Malaysia
 ### [ Malaysia recognizes Kosovo. ](/news/2008/10/30/malaysia-recognizes-kosovo.md)
-_Context: officially recognizes, Malaysia, Kosovo_
+_Context: Kosovo, officially recognizes, Malaysia_
 
 ##### Series of bomb blasts
 ### [ A series of bomb blasts in Assam, India, kills at least 66 people and injures more than 470. ](/news/2008/10/30/a-series-of-bomb-blasts-in-assam-india-kills-at-least-66-people-and-injures-more-than-470.md)
@@ -17,7 +17,7 @@ _Context: England, East Devon, Honiton, Ottery St Mary_
 
 ##### Canadian
 ### [ Canadian Prime Minister Stephen Harper's new Cabinet is sworn in after the October 14 federal election. ](/news/2008/10/30/canadian-prime-minister-stephen-harper-s-new-cabinet-is-sworn-in-after-the-october-14-federal-election.md)
-_Context: Prime Minister of Canada, elected, new Cabinet, Stephen Harper, Canadian_
+_Context: Canadian, Stephen Harper, Prime Minister of Canada, new Cabinet, elected_
 
 ## [Previous Day...](/news/2008/10/29/index.md)
 

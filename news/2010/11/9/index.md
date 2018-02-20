@@ -5,19 +5,19 @@ Formats: [HTML](2010/11/9/index.html)  [JSON](2010/11/9/index.json)  [XML](2010/
 
 ##### Explosion
 ### [A bomb explosion kills Ali Abadi, governor of Shwak district in Afghanistan's eastern province of Paktia. ](/news/2010/11/9/a-bomb-explosion-kills-ali-abadi-governor-of-shwak-district-in-afghanistan-s-eastern-province-of-paktia.md)
-_Context: Paktia, Afghan, Shwak district, explosion, Ali Abadi_
+_Context: Afghan, Shwak district, Paktia, Ali Abadi, explosion_
 
 ##### Western Sahara
 ### [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md)
-_Context: Sahrawi, Western Sahara, Morocco_
+_Context: Morocco, Sahrawi, Western Sahara_
 
 ##### Anwar al-Awlaki
 ### [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md)
-_Context: Iraq, al-Queda, Yemen, Afghan, Anwar al-Awlaki_
+_Context: Anwar al-Awlaki, Iraq, Afghan, Yemen, al-Queda_
 
 ##### Burma
 ### [About 20,000 people flee Burma to escape fighting between the Burmese military and the Democratic Karen Buddhist Army in Karen State after the recent general election. ](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.md)
-_Context: Burma, Karen State, Burmese military, fighting, Democratic Karen Buddhist Army, general elections_
+_Context: Karen State, Burma, general elections, Burmese military, fighting, Democratic Karen Buddhist Army_
 
 ##### British military personnel
 ### [Three members of the British Armed Forces are being investigated by military lawyers over alleged abuse of Iraqi detainees. ](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.md)
@@ -61,7 +61,7 @@ Eighteen inmates were killed and a prison guard shot and wounded during a prison
 
 ##### Taiwan
 ### [A new law in Taiwan allows women to breastfeed in public and imposes fines on those trying to stop them. ](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.md)
-_Context: Taiwan, breastfeed_
+_Context: breastfeed, Taiwan_
 
 ##### Claims Conference
 ### [Seventeen people including six employees of the Claims Conference in the United States have been charged with theft of $42 million from Holocaust compensation funds provided by the Government of Germany. ](/news/2010/11/9/seventeen-people-including-six-employees-of-the-claims-conference-in-the-united-states-have-been-charged-with-theft-of-42-million-from-holo.md)
@@ -77,7 +77,7 @@ The decision comes as representatives of the Fatah and Hamas prepare to meet in 
 
 ##### Union Solidarity and Development Party
 ### [The Union Solidarity and Development Party is predicting a sweeping victory in the Burmese general election which overseas observers have called a sham. ](/news/2010/11/9/the-union-solidarity-and-development-party-is-predicting-a-sweeping-victory-in-the-burmese-general-election-which-overseas-observers-have-ca.md)
-_Context: Union Solidarity and Development Party, general elections_
+_Context: general elections, Union Solidarity and Development Party_
 
 ##### Government
 ### [The Chinese government prevents the lawyer for Nobel Peace Prize winner Liu Xiaobo from going to London to speak at a conference organised by the International Bar Association. ](/news/2010/11/9/the-chinese-government-prevents-the-lawyer-for-nobel-peace-prize-winner-liu-xiaobo-from-going-to-london-to-speak-at-a-conference-organised-b.md)

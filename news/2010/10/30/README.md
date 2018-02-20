@@ -29,15 +29,15 @@ _Context: Guinea, November's presidential poll_
 
 ##### Plateau State
 ### [Community leaders in Plateau State, Nigeria, appeal for calm following attacks by Muslim Hausa-Fulani against a Christian village near the city of Jos. ](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.md)
-_Context: Hausa-Fulani, Plateau State, Jos, Muslim, Christian, Nigeria_
+_Context: Christian, Nigeria, Plateau State, Muslim, Jos, Hausa-Fulani_
 
 ##### Somali pirates
 ### [Somali pirates attack and seize a Liberian tanker with 24 crew on board in the Indian Ocean. ](/news/2010/10/30/somali-pirates-attack-and-seize-a-liberian-tanker-with-24-crew-on-board-in-the-indian-ocean.md)
-_Context: Liberia, Indian, Somali pirates_
+_Context: Indian, Liberia, Somali pirates_
 
 ##### AMISOM
 ### [A roadside bomb targeting the African Union Mission to Somalia kills seven people in the capital Mogadishu. ](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.md)
-_Context: AMISOM, Mogadishu_
+_Context: Mogadishu, AMISOM_
 
 ##### Take That
 ### [English pop group Take That sell 1 million 2011 reunion tour tickets within 24 hours amid crashing websites and jammed phone lines. ](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.md)
@@ -65,7 +65,7 @@ _Context: Typhoon Chaba, Japan_
 
 ##### France
 ### [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md)
-_Context: helicopter, Antarctica, Australia, France, find four French nationals_
+_Context: find four French nationals, helicopter, Antarctica, France, Australia_
 
 ##### Tropical Storm Tomas
 ### [Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. ](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.md)
@@ -93,7 +93,7 @@ _Context: Rwanda, Rwandan government_
 
 ##### Turkey
 ### [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md)
-_Context: YouTube, Mustafa Kemal Ataturk, Turkey_
+_Context: Turkey, YouTube, Mustafa Kemal Ataturk_
 
 ##### Sweden
 ### [Sweden detains two people for allegedly plotting to attack Gothenburg in an alleged "terrorist crime". ](/news/2010/10/30/sweden-detains-two-people-for-allegedly-plotting-to-attack-gothenburg-in-an-alleged-terrorist-crime.md)
@@ -101,7 +101,7 @@ Two people remain in detention in connection with alleged attack plot in Gothenb
 
 ##### Soccer
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
-_Context: San Pedro Sula, Honduras, soccer_
+_Context: Honduras, San Pedro Sula, soccer_
 
 ##### Rally to Restore Sanity and/or Fear
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and-or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
@@ -109,7 +109,7 @@ Gathering in Washington called attempt to inject humour and tone down partisan d
 
 ##### Harriet Harman
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
-_Context: ginger, Harriet Harman, Twitter, Danny Alexander, Labour Party_
+_Context: Labour Party, ginger, Danny Alexander, Twitter, Harriet Harman_
 
 ##### Al-Hayat
 ### [In an interview with "Al-Hayat" later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-pol.md)

@@ -13,11 +13,11 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 
 ##### Syria
 ### [Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md)
-_Context: Syria, protestors_
+_Context: protestors, Syria_
 
 ##### 2011 Yemeni protests
 ### [Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
-_Context: 2011 Yemeni protests, Aden, Yemen_
+_Context: 2011 Yemeni protests, Yemen, Aden_
 
 ##### Israel
 ### [Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/israel-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-retracts-the.md)
@@ -29,11 +29,11 @@ _Context: Camp Phoenix, suicide bomber, Afghan National Army, Kabul_
 
 ##### Omagh
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)
-_Context: Northern Ireland, Enda Kenny, County Tyrone, taoiseach, Omagh bombing, Irish, Omagh_
+_Context: Irish, Northern Ireland, Omagh, County Tyrone, taoiseach, Omagh bombing, Enda Kenny_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Prime Minister of Japan, Naoto Kan, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Prime Minister of Japan, Naoto Kan_
 
 ##### Tokyo Electric Power Company
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)
@@ -57,11 +57,11 @@ _Context: China_
 
 ##### Ciudad Juarez
 ### [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md)
-_Context: Ciudad Juarez, Mexico_
+_Context: Mexico, Ciudad Juarez_
 
 ##### Parliamentary elections
 ### [A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. ](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nigeria-but-is-postponed-to-4-april-as-voting-materials-did-not-arrive-on-time.md)
-_Context: Nigeria, parliamentary elections_
+_Context: parliamentary elections, Nigeria_
 
 ##### Pro- and anti
 ### [Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. ](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.md)
@@ -69,7 +69,7 @@ Thousands protest in Sydney parks to denounce and to support a carbon tax.
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero announces that he will not be seeking a third term in the next election. ](/news/2011/04/2/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-announces-that-he-will-not-be-seeking-a-third-term-in-the-next-election.md)
-_Context: Jose Luis Rodriguez Zapatero, Prime Minister, next election_
+_Context: next election, Jose Luis Rodriguez Zapatero, Prime Minister_
 
 ##### English Defence League
 ### [Police make 12 arrests following protest marches by the English Defence League and opposing groups in Blackburn, Lancashire. ](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.md)

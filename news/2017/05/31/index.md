@@ -13,7 +13,7 @@ Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popu
 
 ##### CBS
 ### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md)
-_Context: 60 Minutes, Scott Pelley, CBS, CBS Evening News_
+_Context: CBS Evening News, 60 Minutes, CBS, Scott Pelley_
 
 ##### CNN
 ### [CNN terminates its "New Year's Eve Live" contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-head.md)

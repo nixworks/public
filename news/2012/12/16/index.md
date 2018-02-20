@@ -13,7 +13,7 @@ The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing
 
 ##### Cyclone Evan
 ### [Cyclone Evan bears down on Fiji, disrupting international flights after leaving at least 4 people dead in Samoa with 8 others missing. ](/news/2012/12/16/cyclone-evan-bears-down-on-fiji-disrupting-international-flights-after-leaving-at-least-4-people-dead-in-samoa-with-8-others-missing.md)
-_Context: Samoa, Cyclone Evan, Fiji_
+_Context: Cyclone Evan, Samoa, Fiji_
 
 ##### Typhoon Bopha
 ### [Philippine authorities announce the death toll from Typhoon Bopha has reached 1,020. Another 844 are still missing, most of them fishermen lost on boats out at sea. More than two weeks after the passage of the storm, nearly 27,000 people remain in emergency shelters. ](/news/2012/12/16/philippine-authorities-announce-the-death-toll-from-typhoon-bopha-has-reached-1-020-another-844-are-still-missing-most-of-them-fishermen-l.md)

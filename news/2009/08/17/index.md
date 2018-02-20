@@ -9,7 +9,7 @@ The Japanese government says its economy has grown for the first time in over a 
 
 ##### Charsadda
 ### [ A bomb explodes on a truck at a fuel station in Charsadda, North-West Frontier Province, Pakistan (20 km from Peshawar), killing seven people. ](/news/2009/08/17/a-bomb-explodes-on-a-truck-at-a-fuel-station-in-charsadda-north-west-frontier-province-pakistan-20-km-from-peshawar-killing-seven-peop.md)
-_Context: Pakistan, Peshawar, Northwestern Pakistan, Charsadda_
+_Context: Northwestern Pakistan, Pakistan, Peshawar, Charsadda_
 
 ##### Explodes a truck
 ### [ A suicide bomber explodes a truck at a police station in Nazran in Russia's North Caucasus, killing at least 20 people and wounding about 60 others. ](/news/2009/08/17/a-suicide-bomber-explodes-a-truck-at-a-police-station-in-nazran-in-russia-s-north-caucasus-killing-at-least-20-people-and-wounding-about-6.md)
@@ -25,7 +25,7 @@ _Context: Canadian Forces, Canadian, officially submit a claim_
 
 ##### MV ''Arctic Sea''
 ### [ The MV "Arctic Sea", a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-off.md)
-_Context: Russian Navy, MV ''Arctic Sea'', Sweden, Cape Verde_
+_Context: Cape Verde, Sweden, Russian Navy, MV ''Arctic Sea''_
 
 ## [Previous Day...](/news/2009/08/16/index.md)
 

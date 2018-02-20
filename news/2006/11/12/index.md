@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Oblast
 ### [ The former Soviet autonomous oblast of South Ossetia holds a referendum on independence from Georgia, heightening tension in the Caucasus. ](/news/2006/11/12/the-former-soviet-autonomous-oblast-of-south-ossetia-holds-a-referendum-on-independence-from-georgia-heightening-tension-in-the-caucasus.md)
-_Context: tension, Caucasus, South Ossetia, oblast, referendum on independence,  Georgian_
+_Context:  Georgian, South Ossetia, oblast, tension, referendum on independence, Caucasus_
 
 ## [Previous Day...](/news/2006/11/11/index.md)
 

@@ -17,11 +17,11 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: John le Carre, James Kelman, Wang Anyi, Rohinton Mistry, Juan Goytisolo, David Malouf, Man Booker International Prize, Philip Pullman, Marilynne Robinson, Philip Roth, Anne Tyler, Amin Maalouf, Su Tong, Dacia Maraini_
+_Context: Philip Roth, Juan Goytisolo, James Kelman, Wang Anyi, John le Carre, Rohinton Mistry, Marilynne Robinson, Philip Pullman, Su Tong, Amin Maalouf, Dacia Maraini, David Malouf, Man Booker International Prize, Anne Tyler_
 
 ##### Orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
-_Context: Tilikum, orca, Seaworld Orlando_
+_Context: Seaworld Orlando, orca, Tilikum_
 
 ##### Governor of California
 ### [The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. ](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.md)
@@ -53,7 +53,7 @@ _Context: southern Thailand, Flood_
 
 ##### U.S. state
 ### [The U.S. state of Washington issues flood warnings. ](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.md)
-_Context: Washington, U.S. state_
+_Context: U.S. state, Washington_
 
 ##### China
 ### [19 people are trapped after a tunnel under construction collapses in southwest China. ](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.md)
@@ -73,7 +73,7 @@ _Context: Yeonpyeong Island, South Korea, North Korea_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: Yonhap, North Korea, China, refugee, South Korea_
+_Context: refugee, South Korea, Yonhap, North Korea, China_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,7 +81,7 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Umar Patek, 2002 Bali bombings, Pakistan_
+_Context: Umar Patek, Pakistan, 2002 Bali bombings_
 
 ##### Diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
@@ -93,11 +93,11 @@ _Context: Burma, State Peace and Development Council_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egypt, Egyptian presidential election in September, November_
+_Context: November, Egyptian presidential election in September, Egypt_
 
 ##### Virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: virophage, Organic Lake, virus, East Antarctica_
+_Context: East Antarctica, virus, Organic Lake, virophage_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

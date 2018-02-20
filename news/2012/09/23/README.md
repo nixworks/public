@@ -29,7 +29,7 @@ Iran plans to switch its citizens onto a domestic Internet network in what offic
 
 ##### United States of America
 ### [Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. ](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-america-deny-visas-to-20-out-of-160-iranian-officials-of-which-two-are-ministers-impeaching.md)
-_Context: New York City, United Nations General Assembly, United States of America, visa-free travel, Iran_
+_Context: visa-free travel, United States of America, New York City, Iran, United Nations General Assembly_
 
 ##### Libya
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)
@@ -45,7 +45,7 @@ _Context: Belarus, parliamentary elections_
 
 ##### Syria
 ### [A conference to "rescue Syria" is held in Damascus by the National Coordination Body and around 20 other parties. Twenty eight parties, which are also opposed to the militarization of the conflict, have not participated. The conference calls for a ceasefire and a peaceful political transition to succeed the Assad regime. The armed opposition considers the position as "too lenient on the dictator". ](/news/2012/09/23/a-conference-to-rescue-syria-is-held-in-damascus-by-the-national-coordination-body-and-around-20-other-parties-twenty-eight-parties-whic.md)
-_Context: Damascus, Bashar al-Assad, Syria, National Coordination Body_
+_Context: Damascus, Syria, National Coordination Body, Bashar al-Assad_
 
 ##### Breast cancer
 ### [Researchers find that there are four genetically distinct types of breast cancer. ](/news/2012/09/23/researchers-find-that-there-are-four-genetically-distinct-types-of-breast-cancer.md)

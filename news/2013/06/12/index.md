@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: Austria, United Nations, Golan Heights, peacekeepers_
+_Context: peacekeepers, Golan Heights, Austria, United Nations_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -13,7 +13,7 @@ Gunmen have kidnapped a British man working for an energy company in the restive
 
 ##### Greece
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
-_Context: Greece, ERT_
+_Context: ERT, Greece_
 
 ##### Jiroemon Kimura
 ### [Jiroemon Kimura, who had been the world's oldest living person and the verified longest lived man ever, dies in the Japanese city of Kyotango. ](/news/2013/06/12/jiroemon-kimura-who-had-been-the-world-s-oldest-living-person-and-the-verified-longest-lived-man-ever-dies-in-the-japanese-city-of-kyatan.md)
@@ -33,7 +33,7 @@ The U.S. dollar wallowed at a near four-month low against a basket of major curr
 
 ##### Safeway Inc
 ### [Safeway Inc agrees to sell its 200+ Canadian stores to Sobeys for US$5.7 billion. ](/news/2013/06/12/safeway-inc-agrees-to-sell-its-200-canadian-stores-to-sobeys-for-us-5-7-billion.md)
-_Context: Safeway Inc, Sobeys_
+_Context: Sobeys, Safeway Inc_
 
 ##### Nobel Memorial Prize in Economic Sciences
 ### [Nobel Prize-winning economist Robert W. Fogel dies at age 86. ](/news/2013/06/12/nobel-prize-winning-economist-robert-w-fogel-dies-at-age-86.md)
@@ -65,7 +65,7 @@ _Context: anti-government protests_
 
 ##### UNICEF
 ### [New figures from UNICEF show that 150 million children are engaged in child labor worldwide. ](/news/2013/06/12/new-figures-from-unicef-show-that-150-million-children-are-engaged-in-child-labor-worldwide.md)
-_Context: UNICEF, child labor_
+_Context: child labor, UNICEF_
 
 ##### State Duma
 ### [Russia's Duma passes a law banning "gay propaganda". ](/news/2013/06/12/russia-s-duma-passes-a-law-banning-gay-propaganda.md)

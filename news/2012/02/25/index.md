@@ -25,7 +25,7 @@ Coins worth nearly half a billion dollars finally arrived in Spain on Saturday a
 
 ##### The Artist
 ### ["The Artist" wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. ](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.md)
-_Context: Independent Spirit Awards 2011, The Artist, Santa Monica, California_
+_Context: The Artist, Independent Spirit Awards 2011, Santa Monica, California_
 
 ##### G-20
 ### [A G-20 finance ministers meeting is held in Mexico City to discuss progress in the Eurozone bailout. ](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.md)
@@ -45,7 +45,7 @@ An Italian court has thrown out bribery charges against former prime minister Si
 
 ##### Pakistan
 ### [Pakistani authorities start demolition of Osama bin Laden's former compound in Abbottabad. ](/news/2012/02/25/pakistani-authorities-start-demolition-of-osama-bin-laden-s-former-compound-in-abbottabad.md)
-_Context: Pakistan, compound in Abbottabad, Osama bin Laden_
+_Context: Osama bin Laden, compound in Abbottabad, Pakistan_
 
 ##### Tel Aviv
 ### [A thousand people hold a protest in Tel Aviv over Israel's proposed plan to deport hundreds of migrant workers. ](/news/2012/02/25/a-thousand-people-hold-a-protest-in-tel-aviv-over-israel-s-proposed-plan-to-deport-hundreds-of-migrant-workers.md)
@@ -57,7 +57,7 @@ Voter suppression tactics, including a pattern of harassing phone calls, were a 
 
 ##### World Health Organisation
 ### [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md)
-_Context: India, polio, Afghan, Nigeria, World Health Organisation, Pakistan, endemic_
+_Context: polio, World Health Organisation, Pakistan, Nigeria, endemic, Afghan, India_
 
 ## [Previous Day...](/news/2012/02/24/index.md)
 

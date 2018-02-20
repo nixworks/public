@@ -9,15 +9,15 @@ Schoolchildren and their parents on their way to start the new school year were 
 
 ##### Milwaukee
 ### [ Police in Milwaukee, USA, arrest a man in suspicion of being the notorious North Side Strangler, believed to have killed at least seven women between 1986 and 2007. ](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.md)
-_Context: North Side Strangler, Milwaukee, USA_
+_Context: USA, North Side Strangler, Milwaukee_
 
 ##### Statue
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: Apollo, statue, world heritage site, Hierapolis, Turkey, UNESCO_
+_Context: Apollo, Hierapolis, world heritage site, statue, UNESCO, Turkey_
 
 ##### Norway
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
-_Context: murder, Norway, espionage, Joshua French and Tjostolv Moland, Democratic Republic of Congo_
+_Context: espionage, murder, Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norway_
 
 ##### Wireless mobile carriers
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
@@ -41,7 +41,7 @@ Journalist union pays $200 fine to release woman jailed for indecency.
 
 ##### Argentina
 ### [ A storm, with rain, hail and winds of over 60 mph kills at least 14 people in northern Argentina and southern Brazil. ](/news/2009/09/8/a-storm-with-rain-hail-and-winds-of-over-60-mph-kills-at-least-14-people-in-northern-argentina-and-southern-brazil.md)
-_Context: Brazil, Argentina_
+_Context: Argentina, Brazil_
 
 ## [Previous Day...](/news/2009/09/7/index.md)
 

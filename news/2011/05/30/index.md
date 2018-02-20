@@ -9,7 +9,7 @@ _Context: Nigeria_
 
 ##### Russia
 ### [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md)
-_Context: World War II, Adolf Hitler, Rudolf Hess, United Kingdom, Russia, Winston Churchill_
+_Context: Rudolf Hess, World War II, Adolf Hitler, Winston Churchill, Russia, United Kingdom_
 
 ##### Marine
 ### [United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/united-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-afghan-civilians-in-a-nato-bombing-raid.md)
@@ -29,7 +29,7 @@ Germany says all of its nuclear power plants will be shut by 2022 in the wake of
 
 ##### Development Bank of Japan
 ### [The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.md)
-_Context: 2011 Tohoku earthquake and tsunami, Development Bank of Japan, yen_
+_Context: yen, Development Bank of Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### ''E. coli''
 ### [The death toll from an "E. coli" outbreak in Germany rises to 14 as it spreads to other parts of northern Europe. ](/news/2011/05/30/the-death-toll-from-an-e-coli-outbreak-in-germany-rises-to-14-as-it-spreads-to-other-parts-of-northern-europe.md)
@@ -41,11 +41,11 @@ _Context: 2010 Haiti earthquake, Government of Haiti, Associated Press, U.S. Age
 
 ##### Guwahati
 ### [At least 26 people die following a bus crash near Guwahati, the capital of India's Assam state. ](/news/2011/05/30/at-least-26-people-die-following-a-bus-crash-near-guwahati-the-capital-of-india-s-assam-state.md)
-_Context: Assam, India, Guwahati_
+_Context: Guwahati, India, Assam_
 
 ##### South Korean President
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)
-_Context: South Korean President, bribes, Lee Myung-bak_
+_Context: bribes, Lee Myung-bak, South Korean President_
 
 ##### Saudi Arabia
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
@@ -53,11 +53,11 @@ _Context: Saudi Arabia_
 
 ##### President
 ### [The sons of former President of Egypt Hosni Mubarak, Alaa Mubarak and Jamal Mubarak, are detained in custody for another 15 days over accumulating wealth by unfair means. ](/news/2011/05/30/the-sons-of-former-president-of-egypt-hosni-mubarak-alaa-mubarak-and-jamal-mubarak-are-detained-in-custody-for-another-15-days-over-accumu.md)
-_Context: President, Alaa Mubarak, Jamal Mubarak, unfair, Hosni Mubarak_
+_Context: Hosni Mubarak, President, Alaa Mubarak, unfair, Jamal Mubarak_
 
 ##### Chinese
 ### [A Han Chinese man is to face trial for the killing of a Mongolian man, amid a crackdown on ethnic protests in the Inner Mongolia region of China. ](/news/2011/05/30/a-han-chinese-man-is-to-face-trial-for-the-killing-of-a-mongolian-man-amid-a-crackdown-on-ethnic-protests-in-the-inner-mongolia-region-of-c.md)
-_Context: China, Inner Mongolia, Chinese, Mongolia_
+_Context: Chinese, Mongolia, China, Inner Mongolia_
 
 ##### Italian
 ### [Voters in Italian cities including Milan and Naples go to the polls for the second round of local government elections with candidates supported by Prime Minister Silvio Berlusconi losing in both cities. ](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.md)
@@ -65,7 +65,7 @@ Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naple
 
 ##### Space Shuttle ''Endeavour''
 ### [Space Shuttle Endeavour undocks from the International Space Station to return to earth on its final mission. ](/news/2011/05/30/space-shuttle-endeavour-undocks-from-the-international-space-station-to-return-to-earth-on-its-final-mission.md)
-_Context: final mission, Space Shuttle ''Endeavour'', International Space Station_
+_Context: final mission, International Space Station, Space Shuttle ''Endeavour''_
 
 ## [Previous Day...](/news/2011/05/29/index.md)
 

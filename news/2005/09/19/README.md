@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/19/index.html)  [JSON](2005/09/19/index.json)  [XML](200
 
 ##### Rita
 ### [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week. Mayor Ray Nagin has ordered an evacuation of New Orleans. ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orlean.md)
-_Context: Ray Nagin, Rita, Gulf of Mexico, New Orleans_
+_Context: New Orleans, Rita, Gulf of Mexico, Ray Nagin_
 
 ##### Diplomat
 ### [ A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-northern-iraq.md)
@@ -21,11 +21,11 @@ _Context: New Orleans_
 
 ##### Letter bomb
 ### [ One person is injured following an apparent letter bomb attack in the British Embassy in the Croatian capital Zagreb. ](/news/2005/09/19/one-person-is-injured-following-an-apparent-letter-bomb-attack-in-the-british-embassy-in-the-croatian-capital-zagreb.md)
-_Context: letter bomb, Zagreb, capital, Croatia, United Kingdom, Embassy_
+_Context: Croatia, Embassy, United Kingdom, letter bomb, capital, Zagreb_
 
 ##### Kuwait
 ### [ One person dies following an apparent grenade explosion at the Kuwait information office in the Lebanese capital Beirut. ](/news/2005/09/19/one-person-dies-following-an-apparent-grenade-explosion-at-the-kuwait-information-office-in-the-lebanese-capital-beirut.md)
-_Context: capital, Beirut, Lebanese, Kuwait_
+_Context: capital, Lebanese, Kuwait, Beirut_
 
 ##### North Korea
 ### [ North Korea agrees to drop all nuclear weapons programs and return "at an early date" to the Nuclear Non-Proliferation Treaty. ](/news/2005/09/19/north-korea-agrees-to-drop-all-nuclear-weapons-programs-and-return-at-an-early-date-to-the-nuclear-non-proliferation-treaty.md)

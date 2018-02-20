@@ -37,7 +37,7 @@ A school for transgender people opens in Kochi, to help school dropouts finish t
 
 ##### Romania
 ### [Romanian President Klaus Iohannis designates social-democrat Sorin Grindeanu as the country's new prime minister, after the victory of the centre-left PSD earlier this month. ](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.md)
-_Context: Prime Minister, earlier this month, Klaus Iohannis, centre-left, Romania, PSD, social-democrat, President, Sorin Grindeanu_
+_Context: Romania, President, PSD, centre-left, social-democrat, Sorin Grindeanu, Klaus Iohannis, Prime Minister, earlier this month_
 
 ##### China's State Council
 ### [China's State Council announces details of its intention to ban all ivory trade and processing activities by the end of 2017. ](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.md)

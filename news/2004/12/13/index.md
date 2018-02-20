@@ -5,11 +5,11 @@ Formats: [HTML](2004/12/13/index.html)  [JSON](2004/12/13/index.json)  [XML](200
 
 ##### Cannibal
 ### [ Self-confessed cannibal Yoo Young-Chul, convicted of killing 20 people, mostly prostitutes, is sentenced to death in Seoul, South Korea. ](/news/2004/12/13/self-confessed-cannibal-yoo-young-chul-convicted-of-killing-20-people-mostly-prostitutes-is-sentenced-to-death-in-seoul-south-korea.md)
-_Context: cannibal, Yoo Young-Chul, capital punishment, Seoul_
+_Context: Yoo Young-Chul, cannibal, capital punishment, Seoul_
 
 ##### Conseil d'tat
 ### [ France's highest administrative court, the "Conseil d'tat", bans Hizbullah's "al-Manar" TV station on the grounds that it incites racial hatred and antisemitism. ](/news/2004/12/13/france-s-highest-administrative-court-the-conseil-d-etat-bans-hizbullah-s-al-manar-tv-station-on-the-grounds-that-it-incites-racial-h.md)
-_Context: race, antisemitism, Conseil d'tat, Hizbullah, al-Manar_
+_Context: al-Manar, Conseil d'tat, antisemitism, race, Hizbullah_
 
 ##### Jury
 ### [ The jury in the Scott Peterson trial recommends that he be sentenced to death for the murder of his wife and unborn son. ](/news/2004/12/13/the-jury-in-the-scott-peterson-trial-recommends-that-he-be-sentenced-to-death-for-the-murder-of-his-wife-and-unborn-son.md)
@@ -25,23 +25,23 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### Environmental Protection Agency
 ### [ United States Environmental Protection Agency Administrator Michael O. Leavitt is nominated by President George W. Bush to succeed outgoing Secretary of Health and Human Services Tommy Thompson in the Cabinet-level post. ](/news/2004/12/13/united-states-environmental-protection-agency-administrator-michael-o-leavitt-is-nominated-by-president-george-w-bush-to-succeed-outgoing.md)
-_Context: Administrator of the Environmental Protection Agency, U.S. President, Secretary of Health and Human Services, George W. Bush, Tommy Thompson, Environmental Protection Agency, Cabinet, Michael O. Leavitt_
+_Context: Michael O. Leavitt, Tommy Thompson, Cabinet, Environmental Protection Agency, Secretary of Health and Human Services, Administrator of the Environmental Protection Agency, George W. Bush, U.S. President_
 
 ##### Car bomb
 ### [ At least 13 people die following a car bomb attack on a U.S. checkpoint near the Green Zone in Baghdad, Iraq. ](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.md)
-_Context: Iraq, United States armed forces, car bomb, Baghdad, Green Zone_
+_Context: car bomb, United States armed forces, Iraq, Green Zone, Baghdad_
 
 ##### Foreign policy of the George W. Bush administration
 ### [ Foreign policy of the George W. Bush administration: Human Rights Watch, a New York-based NGO claims that another three prisoners have died while in U.S. detention in Afghanistan. ](/news/2004/12/13/foreign-policy-of-the-george-w-bush-administration-human-rights-watch-a-new-york-based-ngo-claims-that-another-three-prisoners-have-died.md)
-_Context: NGO, Foreign policy of the George W. Bush administration, Human Rights Watch, Afghan_
+_Context: Foreign policy of the George W. Bush administration, Afghan, Human Rights Watch, NGO_
 
 ##### Cairo
 ### [ Hundreds of protesters have gathered in Cairo outside Egypt's Supreme Judiciary buildings, defying a ban on public protests, to call for an end to Hosni Mubarak's 23-year presidency of Egypt. ](/news/2004/12/13/hundreds-of-protesters-have-gathered-in-cairo-outside-egypt-s-supreme-judiciary-buildings-defying-a-ban-on-public-protests-to-call-for-an.md)
-_Context: Hosni Mubarak, Egypt, Cairo_
+_Context: Cairo, Hosni Mubarak, Egypt_
 
 ##### Romanian presidential election, 2004
 ### [ Romanian presidential election, 2004: Prime Minister Adrian Nastase concedes defeat to opposition candidate Traian Basescu after a close contest. With 99% of the vote counted, Basescu took 51.23% of the vote to Nastase's 48.77%. ](/news/2004/12/13/romanian-presidential-election-2004-prime-minister-adrian-nastase-concedes-defeat-to-opposition-candidate-traian-basescu-after-a-close-co.md)
-_Context: Adrian Nastase, Traian Basescu, Romanian presidential election, 2004_
+_Context: Traian Basescu, Adrian Nastase, Romanian presidential election, 2004_
 
 ## [Previous Day...](/news/2004/12/12/index.md)
 

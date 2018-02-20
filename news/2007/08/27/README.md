@@ -9,23 +9,23 @@ U.S. football star Michael Vick publicly apologized on Monday after pleading gui
 
 ##### Muhammed Ishaq Khakwani
 ### [ Muhammed Ishaq Khakwani resigns as Pakistan minister of state for Information Technology over General Pervez Musharraf campaigning for re-election as the President of Pakistan while still an army officer. ](/news/2007/08/27/muhammed-ishaq-khakwani-resigns-as-pakistan-minister-of-state-for-information-technology-over-general-pervez-musharraf-campaigning-for-re-e.md)
-_Context: Muhammed Ishaq Khakwani, president, Pervez Musharraf, Pakistan_
+_Context: Muhammed Ishaq Khakwani, Pakistan, president, Pervez Musharraf_
 
 ##### Der Spiegel
 ### [ In a "Der Spiegel" report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three-ot.md)
-_Context: Chancellor, Government of Germany, Der Spiegel, computer, hackers, Chinese_
+_Context: computer, Chinese, Government of Germany, hackers, Der Spiegel, Chancellor_
 
 ##### Montreal Metro
 ### [ The Montreal Metro Green Line and most of Downtown that were closed off on Friday reopens. Emergency reparation are made on a nearby building whose concrete side panels were in danger of falling off. The Bay considers suing the city, alleging that construction work is the source of the cracks. ](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.md)
-_Context: The Bay, Montreal Metro_
+_Context: Montreal Metro, The Bay_
 
 ##### United States Senate
 ### [ U.S. Senator Larry Craig (R-Idaho) is revealed to have pleaded guilty on August 8 to a charge of disorderly conduct at the Minneapolis-St. Paul International Airport. ](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.md)
-_Context: Larry Craig, United States Senate, Republican, Minneapolis-St. Paul International Airport, Idaho_
+_Context: United States Senate, Larry Craig, Minneapolis-St. Paul International Airport, Republican, Idaho_
 
 ##### Indonesia
 ### [ Indonesia's karate team boycotts an Asian championship in Malaysia to protest at the beating of one of its official referees by the local police. ](/news/2007/08/27/indonesia-s-karate-team-boycotts-an-asian-championship-in-malaysia-to-protest-at-the-beating-of-one-of-its-official-referees-by-the-local-p.md)
-_Context: karate, Indonesia, Malaysia_
+_Context: Malaysia, Indonesia, karate_
 
 ##### United States Attorney General
 ### [ United States Attorney General Alberto Gonzales announces his resignation. ](/news/2007/08/27/united-states-attorney-general-alberto-gonzales-announces-his-resignation.md)
@@ -41,7 +41,7 @@ Southeast Asian nations will seek to raise $2 billion later this year to complet
 
 ##### Equine influenza outbreak
 ### [ Continuation of an equine influenza outbreak in Australia could threaten security at next week's APEC meeting ](/news/2007/08/27/continuation-of-an-equine-influenza-outbreak-in-australia-could-threaten-security-at-next-week-s-apec-meeting.md)
-_Context: equine influenza outbreak, APEC, Australia_
+_Context: equine influenza outbreak, Australia, APEC_
 
 ##### Jebel Ali
 ### [ A fire breaks out at the Jebel Ali port in the United Arab Emirates, triggering explosions at a chemical storage depot. ](/news/2007/08/27/a-fire-breaks-out-at-the-jebel-ali-port-in-the-united-arab-emirates-triggering-explosions-at-a-chemical-storage-depot.md)
@@ -49,7 +49,7 @@ Firefighters extinguished a blaze that tore through a chemical storage depot at 
 
 ##### Vatican City
 ### [ The Vatican establishes a low cost charter flight service to Catholic shrines in France, Poland, Spain and the Middle East for pilgrims. ](/news/2007/08/27/the-vatican-establishes-a-low-cost-charter-flight-service-to-catholic-shrines-in-france-poland-spain-and-the-middle-east-for-pilgrims.md)
-_Context: Middle East, Vatican City, Spain, Catholic, shrine, pilgrim, Poland, charter flight, France_
+_Context: Vatican City, shrine, pilgrim, charter flight, Poland, Spain, Catholic, France, Middle East_
 
 ##### Parliament
 ### [ A report from the National People's Congress environment and resources protection committee finds that high levels of pollution in the Huai River and its tributaries poses a "threat to the water safety of one sixth of the country's 1.3 billion population". ](/news/2007/08/27/a-report-from-the-national-people-s-congress-environment-and-resources-protection-committee-finds-that-high-levels-of-pollution-in-the-huai.md)
@@ -57,7 +57,7 @@ Polluters along two of China&#039;s main rivers have defied years of clean-up ef
 
 ##### Deputy Prime Minister
 ### [ Former Deputy Prime Minister of the United Kingdom John Prescott announces he will retire as a Member of Parliament at the next election. ](/news/2007/08/27/former-deputy-prime-minister-of-the-united-kingdom-john-prescott-announces-he-will-retire-as-a-member-of-parliament-at-the-next-election.md)
-_Context: John Prescott, Deputy Prime Minister, Parliament_
+_Context: Deputy Prime Minister, John Prescott, Parliament_
 
 ## [Previous Day...](/news/2007/08/26/index.md)
 

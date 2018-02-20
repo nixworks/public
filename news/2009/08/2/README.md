@@ -21,7 +21,7 @@ Two families are forcibly expelled from their homes in East Jerusalem.
 
 ##### Merpati Nusantara Airlines Flight 9760
 ### [ Merpati Nusantara Airlines Flight 9760, a Twin Otter plane with 16 on board, disappears over Papua, Indonesia. ](/news/2009/08/2/merpati-nusantara-airlines-flight-9760-a-twin-otter-plane-with-16-on-board-disappears-over-papua-indonesia.md)
-_Context: Indonesia, de Havilland Canada DHC-6 Twin Otter, Merpati Nusantara Airlines Flight 9760, Papua_
+_Context: Indonesia, Merpati Nusantara Airlines Flight 9760, de Havilland Canada DHC-6 Twin Otter, Papua_
 
 ##### Mozart
 ### [ Two newly discovered works by Mozart&mdash;a prelude and concerto movement&mdash;are performed in Salzburg, Austria. ](/news/2009/08/2/two-newly-discovered-works-by-mozart-mdash-a-prelude-and-concerto-movement-mdash-are-performed-in-salzburg-austria.md)
@@ -57,11 +57,11 @@ Mohammad Khatami, the former Iranian president, has attacked the &quot;show tria
 
 ##### Sectarian violence
 ### [ The death toll from sectarian clashes in northern Nigeria rises to 700. ](/news/2009/08/2/the-death-toll-from-sectarian-clashes-in-northern-nigeria-rises-to-700.md)
-_Context: sectarian violence, Nigeria_
+_Context: Nigeria, sectarian violence_
 
 ##### BBC
 ### [ The BBC obtains a photograph showing Yusuf Mohamed, leader of the Boko Haram sect, was alive when captured by the Nigerian army. ](/news/2009/08/2/the-bbc-obtains-a-photograph-showing-yusuf-mohamed-leader-of-the-boko-haram-sect-was-alive-when-captured-by-the-nigerian-army.md)
-_Context: BBC, Boko Haram, Nigeria, Yusuf Mohamed_
+_Context: Boko Haram, Nigeria, Yusuf Mohamed, BBC_
 
 ##### Michael Scott Speicher
 ### [ The remains of Michael Scott Speicher, the first United States Gulf War casualty, are located in the Al Anbar Governorate desert. ](/news/2009/08/2/the-remains-of-michael-scott-speicher-the-first-united-states-gulf-war-casualty-are-located-in-the-al-anbar-governorate-desert.md)

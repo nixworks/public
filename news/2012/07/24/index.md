@@ -5,11 +5,11 @@ Formats: [HTML](2012/07/24/index.html)  [JSON](2012/07/24/index.json)  [XML](201
 
 ##### Hong Kong
 ### [Hong Kong and China's Guangdong Province is hit by Category 4 Typhoon Vicente, resulting in scores of people injured, cancellation of flights and closure of businesses. ](/news/2012/07/24/hong-kong-and-china-s-guangdong-province-is-hit-by-category-4-typhoon-vicente-resulting-in-scores-of-people-injured-cancellation-of-flight.md)
-_Context: Guangdong, Typhoon Vicente, China, Hong Kong_
+_Context: Typhoon Vicente, Hong Kong, China, Guangdong_
 
 ##### Russia
 ### [Four barrels containing 248 human fetuses are found in a forest in Russia's Sverdlovsk region. ](/news/2012/07/24/four-barrels-containing-248-human-fetuses-are-found-in-a-forest-in-russia-s-sverdlovsk-region.md)
-_Context: Sverdlovsk region, Russia_
+_Context: Russia, Sverdlovsk region_
 
 ##### University of Connecticut
 ### [A man with a gun crawls beneath a dock and enters the grounds of the University of Connecticut's Avery Point campus. The man later commits suicide. ](/news/2012/07/24/a-man-with-a-gun-crawls-beneath-a-dock-and-enters-the-grounds-of-the-university-of-connecticut-s-avery-point-campus-the-man-later-commits-s.md)

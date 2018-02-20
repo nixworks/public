@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/7/index.html)  [JSON](2010/12/7/index.json)  [XML](2010/
 
 ##### Bomb blast
 ### [One child is killed and 20 people are injured in a bomb blast at a temple in Varanasi, northern India. ](/news/2010/12/7/one-child-is-killed-and-20-people-are-injured-in-a-bomb-blast-at-a-temple-in-varanasi-northern-india.md)
-_Context: India, Varanasi, bomb blast_
+_Context: bomb blast, Varanasi, India_
 
 ##### John James Audubon
 ### [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md)
@@ -41,7 +41,7 @@ MET Eireann was the focus of public anger today as heavy falls of fresh snow cam
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire is expelled from the Economic Community of West African States (ECOWAS). ](/news/2010/12/7/ca-te-d-ivoire-is-expelled-from-the-economic-community-of-west-african-states-ecowas.md)
-_Context: Cote d'Ivoire, ECOWAS_
+_Context: ECOWAS, Cote d'Ivoire_
 
 ##### Nobel Peace Prize
 ### [19 countries are to miss the Nobel Peace Prize ceremony for Chinese dissident Liu Xiaobo; 44 are to attend. China described supporters of Liu as "clowns". ](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.md)
@@ -53,7 +53,7 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 
 ##### U.S.
 ### [A U.S. judge dismisses a lawsuit over the U.S. government putting American citizens on "capture or kill" lists. ](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.md)
-_Context:  "capture or kill", U.S., lawsuit_
+_Context:  "capture or kill", lawsuit, U.S._
 
 ##### Egyptian parliamentary elections
 ### [Results from the parliamentary election in Egypt indicate the ruling National Democratic Party has won 80% of seats. ](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.md)

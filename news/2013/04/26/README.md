@@ -25,19 +25,19 @@ _Context: Bangladesh_
 
 ##### Afghan
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)
-_Context: Afghan, Taliban_
+_Context: Taliban, Afghan_
 
 ##### South Korea
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)
-_Context: North Korea, South Korea, Kaesong area_
+_Context: Kaesong area, North Korea, South Korea_
 
 ##### White House
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: United States, White House, Syria_
+_Context: Syria, White House, United States_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
-_Context: U.S., facility, Massachusetts, Fort Devens, Beth Israel Deaconess Medical Center, federal prison, Boston Marathon bombings, Dzhokhar Tsarnaev_
+_Context: federal prison, Beth Israel Deaconess Medical Center, facility, U.S., Boston Marathon bombings, Massachusetts, Dzhokhar Tsarnaev, Fort Devens_
 
 ##### Birmingham
 ### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)

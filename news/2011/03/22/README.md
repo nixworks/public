@@ -9,7 +9,7 @@ Two US airmen are rescued in eastern Libya after their warplane crashed during a
 
 ##### Afghanistan President
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
-_Context: Hamid Karzai, Herat, Lashkar Gah, Afghan, Mihtarlam, Bamiyan Province, Kabul, Mazar-e-Sharif, Afghanistan President, Panjshir Province_
+_Context: Bamiyan Province, Mihtarlam, Kabul, Afghanistan President, Herat, Lashkar Gah, Hamid Karzai, Afghan, Panjshir Province, Mazar-e-Sharif_
 
 ##### Egypt
 ### [The headquarters of Egypt's Ministry of Interior burns to the ground as police officers protest outside about low wages. ](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.md)
@@ -29,7 +29,7 @@ AT LEAST eight Palestinians were killed in Israeli attacks in Gaza yesterday in 
 
 ##### Google
 ### [A US judge blocks an agreement between Google and publishers about efforts to digitize books online at Google Books. ](/news/2011/03/22/a-us-judge-blocks-an-agreement-between-google-and-publishers-about-efforts-to-digitize-books-online-at-google-books.md)
-_Context: Google Books, Google_
+_Context: Google, Google Books_
 
 ##### Sony
 ### [Sony announces that five more Japanese manufacturing plants will stop working or reduce hours as a result of supply problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/sony-announces-that-five-more-japanese-manufacturing-plants-will-stop-working-or-reduce-hours-as-a-result-of-supply-problems-caused-by-the-2.md)
@@ -37,11 +37,11 @@ Sony said on Tuesday shortages of parts and materials would force it to reduce o
 
 ##### Chinese Foreign Ministry spokesperson
 ### [The Ministry of Foreign Affairs of the People's Republic of China rejects accusations by Google that it is blocking access to Gmail in China. ](/news/2011/03/22/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-rejects-accusations-by-google-that-it-is-blocking-access-to-gmail-in-china.md)
-_Context: Chinese Foreign Ministry spokesperson, Chinese, Gmail, Google_
+_Context: Chinese Foreign Ministry spokesperson, Gmail, Google, Chinese_
 
 ##### German
 ### [Germany's Federal Court of Justice rules that Deutsche Bank must compensate a customer, Ille Papier Service, for selling it an interest rate swap product without adequate disclosures. ](/news/2011/03/22/germany-s-federal-court-of-justice-rules-that-deutsche-bank-must-compensate-a-customer-ille-papier-service-for-selling-it-an-interest-rate.md)
-_Context: Deutsche Bank, Ille Papier Service, German, interest rate swap, Federal Court of Justice_
+_Context: Deutsche Bank, Federal Court of Justice, Ille Papier Service, interest rate swap, German_
 
 ##### Mozilla Foundation
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
@@ -53,7 +53,7 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 
 ##### South Korea
 ### [South Korea agrees to hold talks with North Korea about a potential eruption of Baekdu Mountain near the North's border with the People's Republic of China. ](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.md)
-_Context: South Korea, China, Baekdu Mountain, North Korea_
+_Context: South Korea, Baekdu Mountain, China, North Korea_
 
 ##### Coal mine
 ### [An explosion at the Sorange coal mine in Pakistan's Baluchistan province kills 52 people. ](/news/2011/03/22/an-explosion-at-the-sorange-coal-mine-in-pakistan-s-baluchistan-province-kills-52-people.md)
@@ -65,7 +65,7 @@ Chinas Foreign Ministry said on Tuesday that it did not accept accusations from 
 
 ##### Nigeria
 ### [Nigeria accuses the international community of taking action in Libya while doing little to resolve the crisis in Cote d'Ivoire. ](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Nigeria, 2010-2011 Ivorian crisis, Cote d'Ivoire, taking action, international community, Libya_
+_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, international community, Nigeria, taking action, Libya_
 
 ##### President
 ### [The former President of Israel, Moshe Katsav, is sentenced to seven years in prison, two years probation and payment of compensation to his victims on charges of rape, indecent assault, sexual harassment and obstruction of justice. Current President Shimon Peres says that "this is a sad day but everyone is equal before the law." ](/news/2011/03/22/the-former-president-of-israel-moshe-katsav-is-sentenced-to-seven-years-in-prison-two-years-probation-and-payment-of-compensation-to-his.md)
@@ -73,7 +73,7 @@ PM: Nobody is above the law, not even a former president; Livni: I have great ho
 
 ##### Syrian police
 ### [Syrian police arrest human rights activist Loay Hussein. ](/news/2011/03/22/syrian-police-arrest-human-rights-activist-loay-hussein.md)
-_Context: Syrian police, human rights_
+_Context: human rights, Syrian police_
 
 ##### Moriarty Tribunal
 ### [The Moriarty Tribunal, in investigating links between businessman Denis O'Brien and then government minister Michael Lowry, finds "beyond doubt" that Lowry assisted O'Brien in gaining a mobile phone license for Esat Digifone, and concludes that Lowry's actions were "disgraceful and insidious." ](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.md)
@@ -89,19 +89,19 @@ Philippine lawmakers have impeached the country&#x27;s chief anti-graft investig
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of South Dakota, signs an abortion bill requiring women to undertake counselling and wait for 72 hours, the longest period in the US. ](/news/2011/03/22/dennis-daugaard-the-governor-of-south-dakota-signs-an-abortion-bill-requiring-women-to-undertake-counselling-and-wait-for-72-hours-the-lo.md)
-_Context: abortion, counselling, Dennis Daugaard, South Dakota Governor_
+_Context: counselling, abortion, South Dakota Governor, Dennis Daugaard_
 
 ##### Canadian House of Commons
 ### [All 3 opposition parties in the Canadian House of Commons, who together form a majority, state they will not support the 2011 federal budget, precipitating a possible election. ](/news/2011/03/22/all-3-opposition-parties-in-the-canadian-house-of-commons-who-together-form-a-majority-state-they-will-not-support-the-2011-federal-budget.md)
-_Context: Canadian House of Commons, election_
+_Context: election, Canadian House of Commons_
 
 ##### Bob Buckhorn
 ### [Bob Buckhorn is elected as the mayor of the US city of Tampa, Florida. ](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-city-of-tampa-florida.md)
-_Context: mayor, Florida, Tampa, Florida, Bob Buckhorn_
+_Context: Bob Buckhorn, Tampa, Florida, Florida, mayor_
 
 ##### Sly James
 ### [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md)
-_Context: Kansas City, Sly James, Mayor_
+_Context: Kansas City, Mayor, Sly James_
 
 ## [Previous Day...](/news/2011/03/21/index.md)
 

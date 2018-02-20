@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/28/index.html)  [JSON](2013/12/28/index.json)  [XML](201
 
 ##### Islamist protests in Egypt (July 2013-present)
 ### [Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in-cairo-egypt-one-person-is-killed-and-two-campus.md)
-_Context: Cairo, Al-Azhar University, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood, Egypt_
+_Context: Egypt, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood, Cairo, Al-Azhar University_
 
 ##### Syria
 ### [A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md)
@@ -21,11 +21,11 @@ A fire broke out on an express train in southern India early Saturday and killed
 
 ##### Earthquake
 ### [A 5.8-magnitude earthquake strikes in the Mediterranean Sea, 50 miles (80 kilometers) south southwest of Avsallar, Turkey. ](/news/2013/12/28/a-5-8-magnitude-earthquake-strikes-in-the-mediterranean-sea-50-miles-80-kilometers-south-southwest-of-avsallar-turkey.md)
-_Context: Mediterranean Sea, Avsallar, earthquake, Turkey_
+_Context: Avsallar, earthquake, Mediterranean Sea, Turkey_
 
 ##### Chinese
 ### [The Chinese icebreaker "Xue Long", or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel "Akademik Shokalskiy" when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokalskiy.md)
-_Context: Xue Long, Chinese, nautical miles, Russia, Antarctica, Akademik Shokalskiy_
+_Context: Antarctica, Chinese, Russia, Xue Long, Akademik Shokalskiy, nautical miles_
 
 ##### Soyuz-2-1v
 ### [Russia's Soyuz-2-1v rocket makes its maiden flight. ](/news/2013/12/28/russia-s-soyuz-2-1v-rocket-makes-its-maiden-flight.md)

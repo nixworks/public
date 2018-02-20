@@ -21,7 +21,7 @@ The Philippines Government says a deal to expand intelligence sharing with Indon
 
 ##### Iran
 ### [ Iran and the International Atomic Energy Agency reach agreement on resolving the disputes over the Iranian nuclear program. ](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.md)
-_Context: IAEA, Iran_
+_Context: Iran, IAEA_
 
 ##### Luzon
 ### [ The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
@@ -29,7 +29,7 @@ _Context: Philippines, Luzon_
 
 ##### North Korea
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: Korean peninsula, North Korea, United States_
+_Context: United States, Korean peninsula, North Korea_
 
 ## [Previous Day...](/news/2007/07/12/index.md)
 

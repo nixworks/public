@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/24/index.html)  [JSON](2005/02/24/index.json)  [XML](200
 
 ##### Somalia
 ### [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md)
-_Context: Abdullahi Yusuf Ahmed, Mohammed Ali Ghedi, Somalia, government in exile, Kenya_
+_Context: Mohammed Ali Ghedi, government in exile, Kenya, Somalia, Abdullahi Yusuf Ahmed_
 
 ##### Anglican Church
 ### [ The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. ](/news/2005/02/24/the-anglican-churches-of-north-america-ndash-the-episcopal-church-in-the-united-states-and-the-anglican-church-of-canada-ndash-are-aske.md)
-_Context: Anglican Church of Canada, schism, Anglican Consultative Council, Lambeth Conference, United States Episcopal Church, Gene Robinson, Anglican Church, New Hampshire_
+_Context: New Hampshire, Anglican Consultative Council, Gene Robinson, schism, United States Episcopal Church, Lambeth Conference, Anglican Church of Canada, Anglican Church_
 
 ##### Taiwan
 ### [ In Taiwan, Chen Shui-bian and People First Party Chairman James Soong meet for the first time in four years. They issue a joint 10-point declaration emphasizing their agreement on preserving the "status quo" in cross strait relations. ](/news/2005/02/24/in-taiwan-chen-shui-bian-and-people-first-party-chairman-james-soong-meet-for-the-first-time-in-four-years-they-issue-a-joint-10-point-de.md)
-_Context: Chen Shui-bian, People First Party, Taiwan, James Soong, relations, Taiwan Strait_
+_Context: Taiwan, Chen Shui-bian, People First Party, relations, Taiwan Strait, James Soong_
 
 ##### China
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: President, China, Taiwan, Chen Shui-bian, Taiwan, Bill Clinton_
+_Context: President, Taiwan, Chen Shui-bian, Bill Clinton, Taiwan, China_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
@@ -25,7 +25,7 @@ _Context: Pope John Paul II_
 
 ##### Paul Martin
 ### [ Canadian Prime Minister Paul Martin tells the US ambassador to Canada that he will say "no" to the US' proposed missile defense plan. ](/news/2005/02/24/canadian-prime-minister-paul-martin-tells-the-us-ambassador-to-canada-that-he-will-say-no-to-the-us-proposed-missile-defense-plan.md)
-_Context: National Missile Defense, Paul Martin_
+_Context: Paul Martin, National Missile Defense_
 
 ##### Colombia
 ### [ In Colombia, there is a ceremony to mark the three-year anniversary of the capture of Ingrid Btancourt, former Colombian presidential candidate who is still a FARC hostage. She was captured February 2002. Her relatives are pressing government to make a prisoner swap for her and other hostages. ](/news/2005/02/24/in-colombia-there-is-a-ceremony-to-mark-the-three-year-anniversary-of-the-capture-of-ingrid-betancourt-former-colombian-presidential-cand.md)
@@ -33,7 +33,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Supreme court
 ### [ Colombian supreme court authorizes the extradition of drug dealer Miguel Rodrguez Orejuela to the US ](/news/2005/02/24/colombian-supreme-court-authorizes-the-extradition-of-drug-dealer-miguel-rodriguez-orejuela-to-the-us.md)
-_Context: Miguel Rodrguez Orejuela, supreme court, extradition_
+_Context: extradition, supreme court, Miguel Rodrguez Orejuela_
 
 ##### Sudan
 ### [ In Sudan, an ammunition depot explodes near the town of Juba; at least 18 are dead and the toll continues to rise ](/news/2005/02/24/in-sudan-an-ammunition-depot-explodes-near-the-town-of-juba-at-least-18-are-dead-and-the-toll-continues-to-rise.md)
@@ -53,15 +53,15 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Diego Maradona
 ### [ Italian court orders Diego Maradona to pay 30 million euros of back taxes (equal to US$39.6 million) ](/news/2005/02/24/italian-court-orders-diego-maradona-to-pay-30-million-euros-of-back-taxes-equal-to-us-39-6-million.md)
-_Context: Diego Maradona, euro, back taxes_
+_Context: back taxes, Diego Maradona, euro_
 
 ##### European Union
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
-_Context: lottery scam, European Union_
+_Context: European Union, lottery scam_
 
 ##### Turkey
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
-_Context: university, Turkey_
+_Context: Turkey, university_
 
 ##### Kyrgyzstan
 ### [ In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections ](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.md)

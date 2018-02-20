@@ -13,7 +13,7 @@ Australia, New Zealand and the United Arab Emirates have said they will guarante
 
 ##### Alphonsa Muttathupadathu
 ### [ Alphonsa Muttathupadathu, a nun from Kerala, becomes India's first female saint in the Roman Catholic Church. ](/news/2008/10/12/alphonsa-muttathupadathu-a-nun-from-kerala-becomes-india-s-first-female-saint-in-the-roman-catholic-church.md)
-_Context: saint, nun, India, Roman Catholic Church, Kerala, Alphonsa Muttathupadathu_
+_Context: Alphonsa Muttathupadathu, saint, Roman Catholic Church, Kerala, India, nun_
 
 ## [Previous Day...](/news/2008/10/11/index.md)
 

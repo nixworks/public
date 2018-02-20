@@ -9,11 +9,11 @@ Vice has suspended two top executives after a New York Times report on sexual mi
 
 ##### United States antitrust law
 ### [Citing national security concerns, the U.S. government blocks Ant Financial's acquisition of MoneyGram. ](/news/2018/01/2/citing-national-security-concerns-the-u-s-government-blocks-ant-financial-s-acquisition-of-moneygram.md)
-_Context: MoneyGram, Ant Financial, United States antitrust law_
+_Context: Ant Financial, MoneyGram, United States antitrust law_
 
 ##### 2018 Pasamayo bus crash
 ### [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md)
-_Context: 2018 Pasamayo bus crash, bus plunge, Peru_
+_Context: Peru, 2018 Pasamayo bus crash, bus plunge_
 
 ##### Woburn Safari Park fire
 ### [A fire at Woburn Safari Park kills 13 patas monkeys. ](/news/2018/01/2/a-fire-at-woburn-safari-park-kills-13-patas-monkeys.md)

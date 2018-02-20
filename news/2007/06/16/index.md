@@ -9,19 +9,19 @@ _Context: Tupua Tamasese Tupuola Tufuga Efi, Samoa, Fono, O le Ao o le Malo_
 
 ##### Mike Nifong
 ### [ Mike Nifong is disbarred in the U.S. state of North Carolina for his role in the prosecution of the 2006 Duke University lacrosse case. ](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.md)
-_Context: North Carolina, disbarred, 2006 Duke University lacrosse case, U.S. state, Mike Nifong_
+_Context: 2006 Duke University lacrosse case, North Carolina, Mike Nifong, disbarred, U.S. state_
 
 ##### Zimbabwe
 ### [ Police in Zimbabwe confiscate opposition leader Arthur Mutambara's passport as he tries to leave for South Africa and the United Kingdom. ](/news/2007/06/16/police-in-zimbabwe-confiscate-opposition-leader-arthur-mutambara-s-passport-as-he-tries-to-leave-for-south-africa-and-the-united-kingdom.md)
-_Context: Arthur Mutambara, passport, South Africa, Zimbabwe, United Kingdom_
+_Context: Arthur Mutambara, Zimbabwe, South Africa, United Kingdom, passport_
 
 ##### Chinese
 ### [ The Chinese Ministry of Labour and Social Security undertakes an investigation into claims that up to 1,000 minors worked as slave labour in central China. ](/news/2007/06/16/the-chinese-ministry-of-labour-and-social-security-undertakes-an-investigation-into-claims-that-up-to-1-000-minors-worked-as-slave-labour-i.md)
-_Context: Chinese, Chinese slave scandal, Ministry of Labour and Social Security_
+_Context: Ministry of Labour and Social Security, Chinese slave scandal, Chinese_
 
 ##### Iraq War
 ### [ Iraq War: U.S. soldiers find the Common Access Card ID cards of two captured U.S. soldiers; Iraqi insurgents had previously released a video containing images of the IDs. ](/news/2007/06/16/iraq-war-u-s-soldiers-find-the-common-access-card-id-cards-of-two-captured-u-s-soldiers-iraqi-insurgents-had-previously-released-a-vide.md)
-_Context: Common Access Card, captured U.S. soldiers, ID card, Iraq War_
+_Context: captured U.S. soldiers, Common Access Card, Iraq War, ID card_
 
 ## [Previous Day...](/news/2007/06/15/index.md)
 

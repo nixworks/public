@@ -9,7 +9,7 @@ Formats: [HTML](2017/01/13/index.html)  [JSON](2017/01/13/index.json)  [XML](201
 
 ##### January 2017 European cold wave
 ### [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md)
-_Context: Europe, January 2017 European cold wave, France, Great Britain_
+_Context: January 2017 European cold wave, Great Britain, Europe, France_
 
 ##### Mid-January 2017 North American ice storm
 ### [A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-school-closures-and-a-traffic-fatality-in-mis.md)
@@ -33,7 +33,7 @@ House of Representatives passed legislation for Republicans to proceed with ‘b
 
 ##### Gambian presidential election, 2016
 ### [The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to-hand-power-over-t.md)
-_Context: African Union, Yahya Jammeh, Gambian presidential election, 2016, The Gambia, Adama Barrow_
+_Context: Adama Barrow, The Gambia, Gambian presidential election, 2016, Yahya Jammeh, African Union_
 
 ##### University of California, Los Angeles
 ### [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md)

@@ -25,11 +25,11 @@ The search for the eight missing crew of the cargo ship Cemfjord in the Pentland
 
 ##### Bruges
 ### [A prison in Bruges, Belgium, will euthanise serial rapist and murderer Frank Van Den Bleeken on January 11. ](/news/2015/01/3/a-prison-in-bruges-belgium-will-euthanise-serial-rapist-and-murderer-frank-van-den-bleeken-on-january-11.md)
-_Context: Frank Van Den Bleeken, euthanise, Belgium, Bruges_
+_Context: Belgium, euthanise, Bruges, Frank Van Den Bleeken_
 
 ##### Greek parliamentary election, 2015
 ### [Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-socialists-threatening-to-push-the-l.md)
-_Context: PASOK, Greek parliamentary election, 2015, George Papandreou, Movement of Democratic Socialists_
+_Context: Movement of Democratic Socialists, Greek parliamentary election, 2015, George Papandreou, PASOK_
 
 ## [Previous Day...](/news/2015/01/2/index.md)
 

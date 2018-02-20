@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/20/index.html)  [JSON](2009/08/20/index.json)  [XML](200
 
 ##### Abdelbaset al-Megrahi
 ### [ Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103 over Lockerbie in 1988, is released on compassionate grounds due to terminal cancer, and boards a flight to Libya. ](/news/2009/08/20/abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-over-lockerbie-in-1988-is-released-on-compassionate-grounds-due-to-te.md)
-_Context: Libya, Lockerbie, Abdelbaset al-Megrahi, Lockerbie bombing_
+_Context: Lockerbie bombing, Libya, Lockerbie, Abdelbaset al-Megrahi_
 
 ##### Bicycle bomb
 ### [ A bicycle bomb explodes near a restaurant in Baghdad, killing two people. ](/news/2009/08/20/a-bicycle-bomb-explodes-near-a-restaurant-in-baghdad-killing-two-people.md)
@@ -17,7 +17,7 @@ _Context: DR Congo, Kasai province_
 
 ##### Ontario
 ### [ A line of severe thunderstorms rolls through Ontario, Canada, spawns over 18 tornadoes in one day which has been declared to be the largest tornado outbreak in Canadian history, at least four F-2 tornadoes were confirmed, including one touching down in the town of Durham, Ontario, northwest of Toronto where at least one person was killed, and the other in a Toronto suburb of Vaughan, Ontario where over 600 homes were damaged or destroyed.](/news/2009/08/20/a-line-of-severe-thunderstorms-rolls-through-ontario-canada-spawns-over-18-tornadoes-in-one-day-which-has-been-declared-to-be-the-largest.md)
-_Context: largest tornado outbreak in Canadian history, Ontario, Toronto, Durham, Ontario, Vaughan, Ontario, Canadian_
+_Context: Vaughan, Ontario, Durham, Ontario, Ontario, Canadian, Toronto, largest tornado outbreak in Canadian history_
 
 ##### Switzerland
 ### [ Switzerland's president, Hans-Rudolf Merz, apologizes to the Libyan government for last year's arrest of a son of Libyan leader Muammar Gaddafi. ](/news/2009/08/20/switzerland-s-president-hans-rudolf-merz-apologizes-to-the-libyan-government-for-last-year-s-arrest-of-a-son-of-libyan-leader-muammar-gad.md)

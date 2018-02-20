@@ -9,7 +9,7 @@ _Context: Antikythera mechanism, analog computer, Greece_
 
 ##### Lord's Resistance Army
 ### [ A delegation from the rebel Lord's Resistance Army arrives in Juba, Sudan for peace talks with the Ugandan government to be mediated by Riek Machar, Vice President of Southern Sudan.](/news/2006/06/8/a-delegation-from-the-rebel-lord-s-resistance-army-arrives-in-juba-sudan-for-peace-talks-with-the-ugandan-government-to-be-mediated-by-rie.md)
-_Context: Lord's Resistance Army, Riek Machar, Uganda, Juba, Southern Sudan_
+_Context: Uganda, Juba, Lord's Resistance Army, Riek Machar, Southern Sudan_
 
 ##### Conflict in Iraq
 ### [ According to an aide to Iraq's prime minister Nuri al-Maliki, the leader of Al-Qaeda in Iraq and one of the world's most wanted men, Abu Musab al-Zarqawi, was killed by a U.S. air raid. Al-Zarqawi's body was retrieved and visually identified by known scars, tattoos and fingerprints. ](/news/2006/06/8/according-to-an-aide-to-iraq-s-prime-minister-nuri-al-maliki-the-leader-of-al-qaeda-in-iraq-and-one-of-the-world-s-most-wanted-men-abu-mu.md)
@@ -21,11 +21,11 @@ _Context: President of the United Nations General Assembly, Bahrain, Haya Rashed
 
 ##### Broadmead
 ### [ The Broadmead area of Bristol, United Kingdom is temporarily closed following the discovery of a suspected unexploded German bomb from World War II ](/news/2006/06/8/the-broadmead-area-of-bristol-united-kingdom-is-temporarily-closed-following-the-discovery-of-a-suspected-unexploded-german-bomb-from-worl.md)
-_Context: United Kingdom, Bristol, Broadmead, World War II_
+_Context: United Kingdom, Bristol, World War II, Broadmead_
 
 ##### Microsoft
 ### [ Microsoft makes Windows Vista beta 2 available for general download. ](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.md)
-_Context: Microsoft, Windows Vista_
+_Context: Windows Vista, Microsoft_
 
 ## [Previous Day...](/news/2006/06/7/index.md)
 

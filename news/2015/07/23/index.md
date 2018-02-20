@@ -13,7 +13,7 @@ This is pretty scary if you&#039;re Taiwanese.
 
 ##### Greek government-debt crisis timeline
 ### [ A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md)
-_Context: bailout, Hellenic Parliament, Greek government-debt crisis timeline_
+_Context: Hellenic Parliament, bailout, Greek government-debt crisis timeline_
 
 ##### Pearson PLC
 ### [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for GBP844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-agbp844-million.md)

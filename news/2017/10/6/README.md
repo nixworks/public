@@ -9,7 +9,7 @@ Syrian Observatory for Human Rights say civilians, including three children, wer
 
 ##### Allegation
 ### [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md)
-_Context: Pulp Fiction, Harvey Weinstein, The New York Times, The Crying Game, Democrat, Sex, Lies, and Videotape, Clerks, allegation_
+_Context: Pulp Fiction, allegation, Sex, Lies, and Videotape, The New York Times, Harvey Weinstein, Clerks, The Crying Game, Democrat_
 
 ##### AIM
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
@@ -29,7 +29,7 @@ An Indian airforce helicopter crashed in a remote mountain region near the borde
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md)
-_Context: Gulf Coast, Nicaragua, Central America, Tropical Storm Nate, Rivas, United States_
+_Context: Tropical Storm Nate, Gulf Coast, Nicaragua, United States, Rivas, Central America_
 
 ##### Mexico
 ### [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md)

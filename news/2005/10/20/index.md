@@ -13,15 +13,15 @@ _Context: United Nations, 2005 Kashmir earthquake_
 
 ##### United Kingdom
 ### [ In the United Kingdom, David Cameron and David Davis go through to a runoff vote of Conservative Party members after a second round of voting amongst Tory MPs in the party's leadership election. Liam Fox is eliminated. ](/news/2005/10/20/in-the-united-kingdom-david-cameron-and-david-davis-go-through-to-a-runoff-vote-of-conservative-party-members-after-a-second-round-of-voti.md)
-_Context: David Cameron, Liam Fox, leadership election, David Davis, Members of Parliament, Conservative Party, United Kingdom_
+_Context: Conservative Party, David Cameron, leadership election, Members of Parliament, David Davis, Liam Fox, United Kingdom_
 
 ##### United States soldier
 ### [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md)
-_Context: Baghdad, United States soldier, Iraqi insurgency, Iraq_
+_Context: Iraqi insurgency, Baghdad, Iraq, United States soldier_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Several U.S. soldiers are caught setting fire to dead Taliban fighters, in defiance of Muslim beliefs and practices, in scenes broadcast on Afghan TV. ](/news/2005/10/20/conflict-in-afghanistan-several-u-s-soldiers-are-caught-setting-fire-to-dead-taliban-fighters-in-defiance-of-muslim-beliefs-and-practice.md)
-_Context: Muslim, TV, War in Afghanistan (2001-present), Taliban_
+_Context: Taliban, War in Afghanistan (2001-present), Muslim, TV_
 
 ##### Guinea
 ### [ Guinea's government announces that municipal elections will be held on 18 December. ](/news/2005/10/20/guinea-s-government-announces-that-municipal-elections-will-be-held-on-18-december.md)

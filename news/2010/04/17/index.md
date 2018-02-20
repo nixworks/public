@@ -25,7 +25,7 @@ At least eight people were injured by a bomb blast in Bangalore shortly before t
 
 ##### Lech Kaczynski
 ### [Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. ](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski_
+_Context: Lech Kaczynski, 2010 Polish Air Force Tu-154 crash_
 
 ##### Tokyo
 ### [Snowfall in central Tokyo matches a record set in April 1967. ](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.md)

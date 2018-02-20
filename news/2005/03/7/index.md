@@ -5,11 +5,11 @@ Formats: [HTML](2005/03/7/index.html)  [JSON](2005/03/7/index.json)  [XML](2005/
 
 ##### Prisoner abuse in Iraq
 ### [ Prisoner abuse in Iraq: American troops in Iraq filmed themselves kicking a gravely wounded prisoner in the face and making the arm of a corpse appear to wave, then titled the effort "Ramadi Madness" after the city where it was made. ](/news/2005/03/7/prisoner-abuse-in-iraq-american-troops-in-iraq-filmed-themselves-kicking-a-gravely-wounded-prisoner-in-the-face-and-making-the-arm-of-a-co.md)
-_Context: Iraq, Prisoner abuse in Iraq, Ramadi_
+_Context: Prisoner abuse in Iraq, Ramadi, Iraq_
 
 ##### George H. W. Bush
 ### [ Former US President George H. W. Bush has praised his successor Bill Clinton after Clinton allowed Bush to sleep on the only Bed in the airplane the pair were using on their tour of tsunami-hit areas. ](/news/2005/03/7/former-us-president-george-h-w-bush-has-praised-his-successor-bill-clinton-after-clinton-allowed-bush-to-sleep-on-the-only-bed-in-the-air.md)
-_Context: George H. W. Bush, tsunami, Bill Clinton_
+_Context: tsunami, Bill Clinton, George H. W. Bush_
 
 ##### John R. Bolton
 ### [ John R. Bolton is nominated by President George W. Bush to become the U.S. Ambassador to the United Nations. ](/news/2005/03/7/john-r-bolton-is-nominated-by-president-george-w-bush-to-become-the-u-s-ambassador-to-the-united-nations.md)
@@ -17,7 +17,7 @@ President Bush intends to nominate Undersecretary of State John R. Bolton to be 
 
 ##### Hans Bethe
 ### [ Hans Bethe, Nobel Laureate in Physics, discoverer of stellar fusion, key participant in development of atomic and hydrogen bombs, outspoken critic of arms race and nuclear testing, died at age 98. wikinews ](/news/2005/03/7/hans-bethe-nobel-laureate-in-physics-discoverer-of-stellar-fusion-key-participant-in-development-of-atomic-and-hydrogen-bombs-outspoken.md)
-_Context: Hans Bethe, wikinews, stellar fusion_
+_Context: wikinews, stellar fusion, Hans Bethe_
 
 ##### Avian flu virus
 ### [ A Vietnamese nurse is confirmed to have contracted the bird flu, raising the number bird flu patients in Vietnam to 22, since late 2004. ](/news/2005/03/7/a-vietnamese-nurse-is-confirmed-to-have-contracted-the-bird-flu-raising-the-number-bird-flu-patients-in-vietnam-to-22-since-late-2004.md)
@@ -25,11 +25,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bono
 ### [ Irish singer Bono, of rock band U2, is nominated for World Bank presidency. ](/news/2005/03/7/irish-singer-bono-of-rock-band-u2-is-nominated-for-world-bank-presidency.md)
-_Context: World Bank, U2, rock band, Bono_
+_Context: rock band, Bono, U2, World Bank_
 
 ##### Sony Corporation
 ### [ Sony Corporation announces that its current US operations chief, British-born Howard Stringer, is to become its first-ever non-Japanese Chairman and Chief Executive Officer. ](/news/2005/03/7/sony-corporation-announces-that-its-current-us-operations-chief-british-born-howard-stringer-is-to-become-its-first-ever-non-japanese-cha.md)
-_Context: Howard Stringer, Sony Corporation_
+_Context: Sony Corporation, Howard Stringer_
 
 ##### Status
 ### [ The People's Republic of China warns that it will not tolerate the United States and Japan including Taiwan in any security alliance. ](/news/2005/03/7/the-people-s-republic-of-china-warns-that-it-will-not-tolerate-the-united-states-and-japan-including-taiwan-in-any-security-alliance.md)
@@ -53,19 +53,19 @@ _Context: Lee Hun-jai_
 
 ##### Deutsche Borse
 ### [ German financial company Deutsche Borse withdraws its takeover of the London Stock Exchange ](/news/2005/03/7/german-financial-company-deutsche-baprse-withdraws-its-takeover-of-the-london-stock-exchange.md)
-_Context: Deutsche Borse, London Stock Exchange_
+_Context: London Stock Exchange, Deutsche Borse_
 
 ##### Malaysia
 ### [ Malaysia and Indonesia agree to talks about the border dispute in Borneo over oil resources. Indonesia has deployed military units to the area ](/news/2005/03/7/malaysia-and-indonesia-agree-to-talks-about-the-border-dispute-in-borneo-over-oil-resources-indonesia-has-deployed-military-units-to-the-a.md)
-_Context: Malaysia, oil, Borneo, Indonesia_
+_Context: Malaysia, Borneo, Indonesia, oil_
 
 ##### European Union
 ### [ Representatives of European Union meet with those of Turkey, a prospective new member. They also criticize Turkish police for violent handling of a demonstration that marked the International Women's Day in Istanbul. Turkish officials promise to investigate the case ](/news/2005/03/7/representatives-of-european-union-meet-with-those-of-turkey-a-prospective-new-member-they-also-criticize-turkish-police-for-violent-handl.md)
-_Context: European Union, Turkey, Istanbul, International Women's Day, demonstration_
+_Context: European Union, Istanbul, Turkey, demonstration, International Women's Day_
 
 ##### Momcilo Perisic
 ### [ Momcilo Perisic, former Yugoslavian army general, hands himself in to the United Nations war crimes tribunal in The Hague. He is charged with complicity of Serbian separatist war crimes in Bosnia and Croatia during the Yugoslav Wars. ](/news/2005/03/7/momailo-peria-ia-former-yugoslavian-army-general-hands-himself-in-to-the-united-nations-war-crimes-tribunal-in-the-hague-he-is-charged.md)
-_Context: separatist, Momcilo Perisic, Yugoslav Wars, Croatia, Serbia, United Nations, Bosnia and Herzegovina, Yugoslavia, war crime, The Hague_
+_Context: Serbia, United Nations, Bosnia and Herzegovina, separatist, Croatia, Yugoslavia, The Hague, Yugoslav Wars, war crime, Momcilo Perisic_
 
 ##### Dominican Republic
 ### [ A prison fire in the Dominican Republic claims 134 lives and injured 25. Fire started during a clash of prison gangs ](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.md)
@@ -73,7 +73,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Adolfo Scilingo
 ### [ In Spain, prosecutors of the case of Adolfo Scilingo, Argentine naval officers accused of multiple counts of genocide, murder and terrorism, request a prison sentence of 9138 years ](/news/2005/03/7/in-spain-prosecutors-of-the-case-of-adolfo-scilingo-argentine-naval-officers-accused-of-multiple-counts-of-genocide-murder-and-terrorism.md)
-_Context: genocide, Adolfo Scilingo, terrorism, murder_
+_Context: terrorism, Adolfo Scilingo, murder, genocide_
 
 ##### Edvard Munch
 ### [ In Norway, police recovers three paintings of Edvard Munch the day after they were stolen ](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.md)
@@ -81,7 +81,7 @@ _Context: Edvard Munch_
 
 ##### Sierra Leone
 ### [ In Sierra Leone, three members of the former military government, Armed Forces Revolutionary Council, go on trial accused of crimes against humanity during the civil war. ](/news/2005/03/7/in-sierra-leone-three-members-of-the-former-military-government-armed-forces-revolutionary-council-go-on-trial-accused-of-crimes-against.md)
-_Context: junta, Armed Forces Revolutionary Council, civil war, crimes against humanity, Sierra Leone_
+_Context: Armed Forces Revolutionary Council, junta, Sierra Leone, crimes against humanity, civil war_
 
 ## [Previous Day...](/news/2005/03/6/index.md)
 

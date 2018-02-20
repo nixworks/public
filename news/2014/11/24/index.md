@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/24/index.html)  [JSON](2014/11/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Boko Haram captures the northeastern Nigerian town of Damasak, killing 50 and forcing more than 3,000 to flee across the border into Niger. ](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.md)
-_Context: Boko Haram, Nigeria, Damasak, Niger_
+_Context: Damasak, Niger, Boko Haram, Nigeria_
 
 ##### The National
 ### [Launch of "The National", the first Scottish daily newspaper to support Scottish independence. ](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.md)
@@ -13,11 +13,11 @@ A brand new daily paper claiming to “fly a vibrant flag for Scottish independe
 
 ##### Chief executive officer
 ### [The chief executive officer of United Technologies abruptly steps down. ](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.md)
-_Context: chief executive officer, United Technologies_
+_Context: United Technologies, chief executive officer_
 
 ##### Malaysia Airlines flight MH17
 ### [The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-flight-mh17.md)
-_Context: Malaysia Airlines flight MH17, Malaysia Airlines_
+_Context: Malaysia Airlines, Malaysia Airlines flight MH17_
 
 ##### Flood
 ### [Floods caused by torrential rain result in 32 deaths in southern Morocco. ](/news/2014/11/24/floods-caused-by-torrential-rain-result-in-32-deaths-in-southern-morocco.md)

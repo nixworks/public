@@ -13,7 +13,7 @@ Madagascan troops storm an army barracks and arrest an estimated 20 rebellious o
 
 ##### Vladimir Arzumanyan
 ### [Vladimir Arzumanyan from Armenia wins the Junior Eurovision Song Contest 2010 with the entry "Mama". ](/news/2010/11/20/vladimir-arzumanyan-from-armenia-wins-the-junior-eurovision-song-contest-2010-with-the-entry-mama.md)
-_Context: Junior Eurovision Song Contest 2010, Vladimir Arzumanyan, Armenia_
+_Context: Armenia, Junior Eurovision Song Contest 2010, Vladimir Arzumanyan_
 
 #####  Vatican
 ### [The Vatican will issue guidelines for bishops, on how to combat sexual abuse within the church. ](/news/2010/11/20/the-vatican-will-issue-guidelines-for-bishops-on-how-to-combat-sexual-abuse-within-the-church.md)
@@ -21,7 +21,7 @@ The Vatican says it is preparing guidelines on how to prevent clerical sex abuse
 
 ##### Russian
 ### [Nine people, including Russians and Ukrainians, die in a bus accident in Egypt. ](/news/2010/11/20/nine-people-including-russians-and-ukrainians-die-in-a-bus-accident-in-egypt.md)
-_Context: Russian, Ukrainian, Egypt_
+_Context: Ukrainian, Egypt, Russian_
 
 #####  Doctors without Borders
 ### [ Doctors without Borders criticizes the response to the 2010 Haiti cholera outbreak as inadequate. ](/news/2010/11/20/doctors-without-borders-criticizes-the-response-to-the-2010-haiti-cholera-outbreak-as-inadequate.md)
@@ -33,19 +33,19 @@ Twelve military personnel, including three officers, were killed when their Mi-1
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Pakistan, Christian, Aasia Bibi, Islam, blasphemy, Pope Benedict XVI_
+_Context: Aasia Bibi, Islam, Christian, Pakistan, Pope Benedict XVI, blasphemy_
 
 ##### China
 ### [China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. ](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.md)
-_Context: state-backed church, Pope Benedict XVI, China_
+_Context: Pope Benedict XVI, China, state-backed church_
 
 ##### Secretary General of the United Nations
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
-_Context: Navi Pillay, Ban Ki-moon, OCHR, Iran, Secretary General of the United Nations_
+_Context: Secretary General of the United Nations, Navi Pillay, OCHR, Ban Ki-moon, Iran_
 
 ##### NATO
 ### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
-_Context: NATO, Afghan, Afghan military_
+_Context: Afghan, NATO, Afghan military_
 
 ##### United States Senate
 ### [The United States Senate settles with a payment of $4.6 billion to black farmers and at least 300,000 Native Americans who objected to government discrimination and cheating in "Cobell v. Salazar". ](/news/2010/11/20/the-united-states-senate-settles-with-a-payment-of-4-6-billion-to-black-farmers-and-at-least-300-000-native-americans-who-objected-to-gover.md)

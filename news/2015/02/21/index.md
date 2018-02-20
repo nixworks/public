@@ -13,11 +13,11 @@ The Turkish Army launched an operation targeting the Tomb of Suleyman Shah, whic
 
 ##### United Steelworkers
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
-_Context: United Steelworkers, refinery, Motiva, United States_
+_Context: United States, Motiva, refinery, United Steelworkers_
 
 ##### General Motors
 ### [ More than 5,000 workers at a General Motors plant in Brazil joins in a strike against the dismissal of proposal for another 800 factory employees. ](/news/2015/02/21/more-than-5-000-workers-at-a-general-motors-plant-in-brazil-joins-in-a-strike-against-the-dismissal-of-proposal-for-another-800-factory-emp.md)
-_Context: Brazil, General Motors_
+_Context: General Motors, Brazil_
 
 ##### Italian
 ### [Three Italian cross-country skiers are killed and two are injured in an avalanche near the Great St Bernard Pass in the Swiss Alps. ](/news/2015/02/21/three-italian-cross-country-skiers-are-killed-and-two-are-injured-in-an-avalanche-near-the-great-st-bernard-pass-in-the-swiss-alps.md)

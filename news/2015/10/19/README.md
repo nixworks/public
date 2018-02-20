@@ -17,7 +17,7 @@ The weak result compares with 7 percent growth in the previous two quarters, but
 
 ##### Aetna
 ### [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md)
-_Context: Humana, Aetna_
+_Context: Aetna, Humana_
 
 ##### 2015 Pacific typhoon season
 ### [Rising floodwaters are causing problems in the northern Philippines as Typhoon Koppu (Lando in the Philippines) is set to linger over the island of Luzon until Wednesday. Eleven people have died so far. ](/news/2015/10/19/rising-floodwaters-are-causing-problems-in-the-northern-philippines-as-typhoon-koppu-lando-in-the-philippines-is-set-to-linger-over-the-is.md)
@@ -33,7 +33,7 @@ Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to 
 
 ##### Pope Francis
 ### [Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks. In a major teaching document in June, the encyclical Laudato Si' (Latin: Praised be), Francis denounced what he called the "structurally perverse" fossil fuel-based world economy that exploits the poor and destroys the habitability of the Earth for humans. ](/news/2015/10/19/pope-francis-encourages-bishops-from-around-the-world-to-sign-an-appeal-to-world-leaders-meeting-in-paris-next-month-for-crucial-climate-c.md)
-_Context: world leaders, Laudato Si', fossil fuel, world economy, encyclical, habitable, 2015 United Nations Climate Change Conference, Pope Francis, Paris, climate change_
+_Context: world leaders, 2015 United Nations Climate Change Conference, world economy, Laudato Si', Paris, encyclical, climate change, habitable, Pope Francis, fossil fuel_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md)
@@ -45,7 +45,7 @@ aval warships, aircraft carriers and submarines from the U.S.
 
 ##### Leonid Tibilov
 ### [South Ossetian President Leonid Tibilov announces South Ossetia intends on holding a referendum on joining the Russian Federation. Tibilov said reuniting with Russia "is a century-long dream of the South Ossetian people". ](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.md)
-_Context: South Ossetia, Russia, Leonid Tibilov_
+_Context: Leonid Tibilov, South Ossetia, Russia_
 
 ##### Spencer Stone
 ### [Spencer Stone, primarily responsible for thwarting an August terrorist attack on a train en route to Paris from Amsterdam and later stabbed in downtown Sacramento has undergone open heart surgery. The wounds from the most recent altercation were more serious than previously reported. ](/news/2015/10/19/spencer-stone-primarily-responsible-for-thwarting-an-august-terrorist-attack-on-a-train-en-route-to-paris-from-amsterdam-and-later-stabbed.md)
@@ -61,7 +61,7 @@ The jurors had already acquitted three former leaders of the law firm on dozens 
 
 ##### Canadian federal election, 2015
 ### [The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md)
-_Context: Justin Trudeau, Canadian federal election, 2015_
+_Context: Canadian federal election, 2015, Justin Trudeau_
 
 ##### Ministerial screening, Amaechi response to the Senate
 ### [The screening of ministerial nominees resumed on Thursday, with the screening of six nominees including former River State Governor, Rotimi Amaechi, PDP senators were also silent as senate screens amaechi and six others. ](/news/2015/10/19/the-screening-of-ministerial-nominees-resumed-on-thursday-with-the-screening-of-six-nominees-including-former-river-state-governor-rotimi.md)
@@ -81,7 +81,7 @@ Soviet nostalgia rules as images of the former dictator go on display in the cen
 
 ##### Eric Chu
 ### [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md)
-_Context: KMT, Taiwan, Hung Hsiu-chu, Eric Chu_
+_Context: KMT, Hung Hsiu-chu, Taiwan, Eric Chu_
 
 ##### Apple Inc.
 ### [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendin.md)

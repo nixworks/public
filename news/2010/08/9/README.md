@@ -13,7 +13,7 @@ Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Isr
 
 ##### Japan
 ### [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md)
-_Context: Japan, Nagasaki, dropped_
+_Context: Nagasaki, Japan, dropped_
 
 ##### 
 ### [The Turkish government promotes two new generals. ](/news/2010/08/9/the-turkish-government-promotes-two-new-generals.md)
@@ -23,7 +23,7 @@ Baghdad traffic police are reportedly being given Kalashnikov assault rifles to 
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: South Korea, Korean Peninsula, Sea of Japan, North Korea_
+_Context: Korean Peninsula, North Korea, South Korea, Sea of Japan_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission suspends medical expeditions in Afghanistan following loss of personnel in the 2010 Badakhshan massacre. ](/news/2010/08/9/the-international-assistance-mission-suspends-medical-expeditions-in-afghanistan-following-loss-of-personnel-in-the-2010-badakhshan-massacre.md)
@@ -79,7 +79,7 @@ South African journalists launch a campaign against proposed legislation they sa
 
 ##### Israel
 ### [Israeli police examine office computers and issue a warrant to Channel 2 calling on it to surrender a military document they want. ](/news/2010/08/9/israeli-police-examine-office-computers-and-issue-a-warrant-to-channel-2-calling-on-it-to-surrender-a-military-document-they-want.md)
-_Context: Israel, Israel's Channel 2_
+_Context: Israel's Channel 2, Israel_
 
 ##### Israel
 ### [A man from Israel is released after being detained as a suspected spy in Libya in return for the safe delivery to Gaza of 20 prefabricated houses, whose ship was forced to divert to Egypt in July. ](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.md)

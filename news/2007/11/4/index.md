@@ -9,7 +9,7 @@ _Context: So Paulo, Learjet 35, Brazil_
 
 ##### Wall Street Journal
 ### [ The Wall Street Journal reports that Charles Prince has resigned as the head of Citigroup to be replaced by former United States Secretary of the Treasury Robert Rubin. ](/news/2007/11/4/the-wall-street-journal-reports-that-charles-prince-has-resigned-as-the-head-of-citigroup-to-be-replaced-by-former-united-states-secretary.md)
-_Context: Wall Street Journal, United States Secretary of the Treasury, Robert Rubin, Charles Prince, Citigroup_
+_Context: Charles Prince, Wall Street Journal, Robert Rubin, United States Secretary of the Treasury, Citigroup_
 
 ##### 2007 general election
 ### [ Guatemalan general elections are held to elect a new president. ](/news/2007/11/4/guatemalan-general-elections-are-held-to-elect-a-new-president.md)

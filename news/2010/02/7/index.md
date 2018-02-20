@@ -9,7 +9,7 @@ An oil crunch more serious than the financial crisis threatens to strike Britain
 
 ##### New Orleans Saints
 ### [New Orleans Saints beat the Indianapolis Colts 31-17 to win Super Bowl XLIV. ](/news/2010/02/7/new-orleans-saints-beat-the-indianapolis-colts-31-17-to-win-super-bowl-xliv.md)
-_Context: Indianapolis Colts, New Orleans Saints, Super Bowl XLIV_
+_Context: Super Bowl XLIV, New Orleans Saints, Indianapolis Colts_
 
 ##### Laura Chinchilla
 ### [Laura Chinchilla is elected President of Costa Rica, the first woman to take the office, following the 2010 general election. ](/news/2010/02/7/laura-chinchilla-is-elected-president-of-costa-rica-the-first-woman-to-take-the-office-following-the-2010-general-election.md)
@@ -17,7 +17,7 @@ Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first 
 
 ##### President of Argentina
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: carotid artery, Nstor Kirchner, President of Argentina, Argentina_
+_Context: Nstor Kirchner, carotid artery, Argentina, President of Argentina_
 
 ##### Nigeria
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
@@ -45,7 +45,7 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 
 ##### Huang Yizhong
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: Guangdong, Huang Yizhong, pornography, Jiangmen_
+_Context: pornography, Huang Yizhong, Jiangmen, Guangdong_
 
 ##### United Kingdom
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)

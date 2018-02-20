@@ -29,7 +29,7 @@ A B-1B bomber with the 28th Bomb Wing crashed near Broadus, Mont. during a routi
 
 ##### Russia
 ### [Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. ](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.md)
-_Context: Japan, peace treaty, Russia_
+_Context: Japan, Russia, peace treaty_
 
 ##### Gibraltar
 ### [The British warship Westminster 6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-6-arrives-in-gibraltar-amid-tensions-with-spain.md)
@@ -45,7 +45,7 @@ _Context: New Zealand_
 
 ##### Mohammad Ishaq Aloko
 ### [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md)
-_Context: United Arab Emirates, Hamid Karzai, Mohammad Ishaq Aloko, Afghanistan President, Taliban, Afghan_
+_Context: Afghan, Hamid Karzai, Afghanistan President, United Arab Emirates, Taliban, Mohammad Ishaq Aloko_
 
 ## [Previous Day...](/news/2013/08/18/index.md)
 

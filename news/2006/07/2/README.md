@@ -9,19 +9,19 @@ _Context: Bono, Live 8_
 
 ##### Mexico
 ### [ Polling closes in the Mexican general election, with voters electing a new President, both houses of Congress, and four state-district governors. Exit polls show the presidential race between Felipe Caldern of the National Action Party and Andrs Manuel Lpez Obrador, a former mayor of Mexico City, as too close to call. ](/news/2006/07/2/polling-closes-in-the-mexican-general-election-with-voters-electing-a-new-president-both-houses-of-congress-and-four-state-district-gove.md)
-_Context: Mexican general election, Mexico, President of Mexico, Andrs Manuel Lpez Obrador, mayor of Mexico City, National Action Party (PAN), Congress, Felipe Caldern, state/district governors_
+_Context: Congress, state/district governors, National Action Party (PAN), Andrs Manuel Lpez Obrador, Felipe Caldern, President of Mexico, mayor of Mexico City, Mexican general election, Mexico_
 
 ##### Iraq
 ### [ Iraqi authorities distribute a most wanted fugitives list containing Saddam Hussein's wife and daughter and with Izzat Ibrahim al-Duri at the top of the list. ](/news/2006/07/2/iraqi-authorities-distribute-a-most-wanted-fugitives-list-containing-saddam-hussein-s-wife-and-daughter-and-with-izzat-ibrahim-al-duri-at-t.md)
-_Context: Saddam Hussein, Iraq, wife, Raghad Hussein, Izzat Ibrahim al-Duri_
+_Context: Iraq, Izzat Ibrahim al-Duri, Raghad Hussein, Saddam Hussein, wife_
 
 ##### Discovery
 ### [ The launch of the Space Shuttle "Discovery" is postponed until Tuesday at 2:38pm local time due to stormy weather in Florida. ](/news/2006/07/2/the-launch-of-the-space-shuttle-discovery-is-postponed-until-tuesday-at-2-38pm-local-time-due-to-stormy-weather-in-florida.md)
-_Context: Discovery, Florida, EDT_
+_Context: Florida, EDT, Discovery_
 
 ##### Pakistan
 ### [ In Pakistan, all parliament members from the Jamaat-e-Islami political movement resign over fighting between the army and terrorists in Waziristan and General Musharraf's support for the United States in an effort to force Musharraf to step down. ](/news/2006/07/2/in-pakistan-all-parliament-members-from-the-jamaat-e-islami-political-movement-resign-over-fighting-between-the-army-and-terrorists-in-waz.md)
-_Context: Jamaat-e-Islami, Pakistan, United States, General Musharraf, Waziristan_
+_Context: Waziristan, United States, Jamaat-e-Islami, Pakistan, General Musharraf_
 
 ##### Israel
 ### [ Israel strikes an empty office of Palestinian PM Ismail Haniyeh. Two other Hamas operatives are killed in two separate aerial strikes. Israeli defense minister Amir Peretz warns stepping up quality of targets, reiterating the responsibility of Syrian president Bashar Assad for the continued crisis. ](/news/2006/07/2/israel-strikes-an-empty-office-of-palestinian-pm-ismail-haniyeh-two-other-hamas-operatives-are-killed-in-two-separate-aerial-strikes-isra.md)

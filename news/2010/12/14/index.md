@@ -5,15 +5,15 @@ Formats: [HTML](2010/12/14/index.html)  [JSON](2010/12/14/index.json)  [XML](201
 
 ##### Philippines
 ### [The Philippine government says it will attempt to end the long-running communist insurgency "within three years", as it announces a resumption of peace talks with rebels. ](/news/2010/12/14/the-philippine-government-says-it-will-attempt-to-end-the-long-running-communist-insurgency-within-three-years-as-it-announces-a-resumpti.md)
-_Context: Philippines, communist insurgency_
+_Context: communist insurgency, Philippines_
 
 ##### Pike River Mine
 ### [Receivers of the Pike River Mine on the South Island of New Zealand lay off 114 workers following the closure of the mine after the Pike River Mine disaster. ](/news/2010/12/14/receivers-of-the-pike-river-mine-on-the-south-island-of-new-zealand-lay-off-114-workers-following-the-closure-of-the-mine-after-the-pike-riv.md)
-_Context: New Zealand, Pike River Mine, Pike River Mine disaster, South Island_
+_Context: Pike River Mine disaster, Pike River Mine, New Zealand, South Island_
 
 ##### Ireland
 ### [Ireland's parliament approved a controversial budget package at the behest of the International Monetary Fund, aimed at shoring up Ireland's banks while getting the country's budget deficit within European Union limits. ](/news/2010/12/14/ireland-s-parliament-approved-a-controversial-budget-package-at-the-behest-of-the-international-monetary-fund-aimed-at-shoring-up-ireland-s.md)
-_Context: International Monetary Fund, Ireland, European Union_
+_Context: Ireland, International Monetary Fund, European Union_
 
 ##### Bangladesh
 ### [At least 20 people are killed in a garment factory fire near the Bangladeshi capital Dhaka. ](/news/2010/12/14/at-least-20-people-are-killed-in-a-garment-factory-fire-near-the-bangladeshi-capital-dhaka.md)
@@ -21,11 +21,11 @@ At least 25 killed and over 100 injured as fire sweeps through garment factory n
 
 ##### Japan
 ### [Japan protests a visit by First Deputy Prime Minister of Russia, Igor Shuvalov, to the disputed Kunashiri and Etorofu islands. ](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.md)
-_Context: Igor Shuvalov, Iturup, rival territorial claims, Russia, Kunashir, Japan_
+_Context: rival territorial claims, Kunashir, Iturup, Russia, Igor Shuvalov, Japan_
 
 ##### United Nations High Commissioner for Refugees
 ### [The United Nations High Commissioner for Refugees urges Cambodia to allow more time to resettle Vietnamese refugees after it announced the closure of a refugee camp. ](/news/2010/12/14/the-united-nations-high-commissioner-for-refugees-urges-cambodia-to-allow-more-time-to-resettle-vietnamese-refugees-after-it-announced-the-c.md)
-_Context: Cambodia, Vietnam, United Nations High Commissioner for Refugees_
+_Context: Vietnam, United Nations High Commissioner for Refugees, Cambodia_
 
 ##### Foreign ministers
 ### [Foreign ministers from the European Union say they would recognise a Palestinian state "when appropriate". ](/news/2010/12/14/foreign-ministers-from-the-european-union-say-they-would-recognise-a-palestinian-state-when-appropriate.md)
@@ -69,7 +69,7 @@ _Context: Army, Hwang Eui-don, South Korea_
 
 ##### Ivory Coast
 ### [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electio.md)
-_Context: Ivory Coast, 2010 presidential election, Alassane Ouattara, President_
+_Context: President, Alassane Ouattara, 2010 presidential election, Ivory Coast_
 
 ## [Previous Day...](/news/2010/12/13/index.md)
 

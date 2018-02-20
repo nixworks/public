@@ -29,11 +29,11 @@ China arrests 21 people involved in an online finance scam alleged to have robbe
 
 ##### Tibetan
 ### [Two men are sentenced to death for the murder of Tibetan religious leader Akong Rinpoche, his nephew and his driver in 2013. ](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of-tibetan-religious-leader-akong-rinpoche-his-nephew-and-his-driver-in-2013.md)
-_Context: Akong Rinpoche, Tibetan_
+_Context: Tibetan, Akong Rinpoche_
 
 ##### Parliament
 ### [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md)
-_Context: National League for Democracy, parliament, Aung San Suu Kyi, Myanmar_
+_Context: National League for Democracy, Myanmar, Aung San Suu Kyi, parliament_
 
 ## [Previous Day...](/news/2016/01/31/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2010/08/12/index.html)  [JSON](2010/08/12/index.json)  [XML](201
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, International Assistance Mission, Afghan, Taliban_
+_Context: 2010 Badakhshan massacre, Taliban, Afghan, International Assistance Mission_
 
 ##### Human Rights Watch
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
-_Context: Lord's Resistance Army, central Africa, Uganda, Human Rights Watch_
+_Context: Lord's Resistance Army, Uganda, Human Rights Watch, central Africa_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -109,7 +109,7 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 
 ##### Mohammad-Reza Rahimi
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: South Korea, Australia, First Vice President, United Kingdom, Mohammad-Reza Rahimi, cattlemen, mafia, Iran_
+_Context: Mohammad-Reza Rahimi, South Korea, Australia, mafia, First Vice President, United Kingdom, Iran, cattlemen_
 
 ##### Babar Ahmad
 ### [Four British police officers are charged with beating, dragging, punching, stamping and mocking "terror suspect" Babar Ahmad after arresting him in Tooting, South London in 2003; the suspect, a 36-year-old IT worker, was later deemed innocent. ](/news/2010/08/12/four-british-police-officers-are-charged-with-beating-dragging-punching-stamping-and-mocking-terror-suspect-babar-ahmad-after-arresting.md)
@@ -121,7 +121,7 @@ The health ministry in China is investigating reports that a brand of powdered m
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, "confesses" to adultery and murder in a televised broadcast. ](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.md)
-_Context: Iran, murder, adultery, Sakineh Mohammadi Ashtiani_
+_Context: Sakineh Mohammadi Ashtiani, adultery, murder, Iran_
 
 ##### United States District Court for the Northern District of California
 ### [Federal Judge Vaughn R. Walker, after deciding for the plaintiffs in Perry v. Schwarzenegger, mandates that same-sex marriage in the U.S. state of California should resume on August 18. ](/news/2010/08/12/federal-judge-vaughn-r-walker-after-deciding-for-the-plaintiffs-in-perry-v-schwarzenegger-mandates-that-same-sex-marriage-in-the-u-s-st.md)
@@ -141,7 +141,7 @@ The defence lawyer of the former Liberian President Charles Taylor was temporari
 
 ##### India
 ### [India issues the producer of the controversial Blackberry devices a 31 August deadline to give the Indian government access to its services or be shut down over concerns the devices could be used to commit a repeat of the 2008 Mumbai attacks. ](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.md)
-_Context: Blackberry, India, Government of India, 2008 Mumbai attacks_
+_Context: India, 2008 Mumbai attacks, Government of India, Blackberry_
 
 ##### Israel
 ### [Israeli citizen Elias Abuelazam, a suspected serial killer from Flint, Michigan, is arrested while attempting to leave the United States. ](/news/2010/08/12/israeli-citizen-elias-abuelazam-a-suspected-serial-killer-from-flint-michigan-is-arrested-while-attempting-to-leave-the-united-states.md)
@@ -173,7 +173,7 @@ Skywatchers across Europe enjoy another dazzling display as the annual Perseid m
 
 ##### Scientists
 ### [Scientists announce the discovery of a chemical compound which destroys the reproduction capabilities of bacteria that are antibiotic-resistant. ](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.md)
-_Context: chemical, Scientists_
+_Context: Scientists, chemical_
 
 ##### Einstein@Home
 ### [Three participants in the Einstein@Home program from the United States and Germany help to discover pulsar PSR J2007+2722. ](/news/2010/08/12/three-participants-in-the-einstein-home-program-from-the-united-states-and-germany-help-to-discover-pulsar-psr-j2007-2722.md)

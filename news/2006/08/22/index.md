@@ -17,15 +17,15 @@ _Context: Nunatsiavut_
 
 ##### Pulkovo Airlines Flight 612
 ### [ Pulkovo Airlines Flight 612, a Tupolev Tu-154 plane carrying 160 passengers and 10 crew from Anapa in southern Russia to Saint Petersburg, crashes in eastern Ukraine. ](/news/2006/08/22/pulkovo-airlines-flight-612-a-tupolev-tu-154-plane-carrying-160-passengers-and-10-crew-from-anapa-in-southern-russia-to-saint-petersburg.md)
-_Context: Pulkovo Airlines Flight 612, Russia, Anapa, Tupolev Tu-154, Saint Petersburg, Ukraine_
+_Context: Russia, Ukraine, Pulkovo Airlines Flight 612, Anapa, Tupolev Tu-154, Saint Petersburg_
 
 ##### Iranian Navy
 ### [ The Iranian Navy attacks and seizes control of a Romanian oil rig in the Persian Gulf. Iran took control of the radio room at 7 AM local time. "The Iranians fired at the rig's crane with machine guns," Tabanescu said. "They are in control now and we can't contact the rig." There were 26 workers onboard. ](/news/2006/08/22/the-iranian-navy-attacks-and-seizes-control-of-a-romanian-oil-rig-in-the-persian-gulf-iran-took-control-of-the-radio-room-at-7-am-local-ti.md)
-_Context: attacks and seizes, Persian Gulf, Iranian Navy, Romania_
+_Context: Iranian Navy, Romania, attacks and seizes, Persian Gulf_
 
 ##### NASA
 ### [ NASA confirms that its new manned space exploration vehicle, expected to succeed the STS (or Space Shuttle) by 2014, will be named Orion ](/news/2006/08/22/nasa-confirms-that-its-new-manned-space-exploration-vehicle-expected-to-succeed-the-sts-or-space-shuttle-by-2014-will-be-named-orion.md)
-_Context: NASA, Orion, Space Shuttle_
+_Context: Orion, NASA, Space Shuttle_
 
 ## [Previous Day...](/news/2006/08/21/index.md)
 

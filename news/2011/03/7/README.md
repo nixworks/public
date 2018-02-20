@@ -9,7 +9,7 @@ Two Arab newspapers and alJazeera television said on Monday Libyan leader Muamma
 
 ##### 2011 Yemeni protests
 ### [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md)
-_Context: 2011 Yemeni protests, Sana'a, Ali Abdullah Saleh, Yemen_
+_Context: Sana'a, Ali Abdullah Saleh, Yemen, 2011 Yemeni protests_
 
 ##### 2010-2011 Ivorian crisis
 ### [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
@@ -17,11 +17,11 @@ _Context: 2010-2011 Ivorian crisis, Ivory Coast_
 
 ##### Kidnapping
 ### [Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. ](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.md)
-_Context: Colombia, FARC, kidnapping_
+_Context: kidnapping, FARC, Colombia_
 
 ##### Picasso
 ### [Pablo Picasso's "Nude, Green Leaves and Bust", the most expensive painting ever sold at auction, goes on public exhibition at the Tate Gallery in London, England. ](/news/2011/03/7/pablo-picasso-s-nude-green-leaves-and-bust-the-most-expensive-painting-ever-sold-at-auction-goes-on-public-exhibition-at-the-tate-galle.md)
-_Context: Tate Gallery, Nude, Green Leaves and Bust, London, Picasso, England_
+_Context: London, England, Tate Gallery, Picasso, Nude, Green Leaves and Bust_
 
 ##### Warner Bros. Television
 ### [Warner Bros. Television sacks actor Charlie Sheen from the cast of television show "Two and a Half Men". ](/news/2011/03/7/warner-bros-television-sacks-actor-charlie-sheen-from-the-cast-of-television-show-two-and-a-half-men.md)
@@ -29,7 +29,7 @@ Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Wa
 
 ##### New York Times
 ### [The "New York Times" reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. ](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.md)
-_Context: Bulgari, Italy, New York Times, France, LVMH_
+_Context: LVMH, New York Times, Bulgari, Italy, France_
 
 ##### Civil war
 ### [Oil prices rise to their highest level in 29 months as fighting in Libya intensifies. ](/news/2011/03/7/oil-prices-rise-to-their-highest-level-in-29-months-as-fighting-in-libya-intensifies.md)
@@ -41,11 +41,11 @@ Australian plans to impose a set price on carbon emissions would affect fewer th
 
 ##### Laurent Gbagbo
 ### [Laurent Gbagbo, the President of Ivory Coast, nationalises the coffee and cocoa industries which are the Ivory Coast's two biggest crops. ](/news/2011/03/7/laurent-gbagbo-the-president-of-ivory-coast-nationalises-the-coffee-and-cocoa-industries-which-are-the-ivory-coast-s-two-biggest-crops.md)
-_Context: coffee, President, Laurent Gbagbo, cocoa, Ivory Coast_
+_Context: President, coffee, Laurent Gbagbo, Ivory Coast, cocoa_
 
 ##### AOL
 ### [AOL completes its purchase of the Huffington Post. ](/news/2011/03/7/aol-completes-its-purchase-of-the-huffington-post.md)
-_Context: Huffington Post, AOL_
+_Context: AOL, Huffington Post_
 
 ##### State of emergency
 ### [The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md)
@@ -53,7 +53,7 @@ The national state of emergency imposed after last month&#039;s devastating Chri
 
 ##### Earthquake
 ### [A strong 6.6 magnitude earthquake occurs off the coast of the Solomon Islands in the Pacific Ocean. ](/news/2011/03/7/a-strong-6-6-magnitude-earthquake-occurs-off-the-coast-of-the-solomon-islands-in-the-pacific-ocean.md)
-_Context: Solomon Islands, South Pacific Ocean, earthquake_
+_Context: Solomon Islands, earthquake, South Pacific Ocean_
 
 ##### Tibet
 ### [China closes Tibet to foreign tourists, ahead of the third anniversary since unrest there in 2008. ](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.md)
@@ -61,7 +61,7 @@ _Context: unrest in 2008, Tibet_
 
 ##### Yang
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, warns the United States that relations between China and the US will deteriorate if it sells weapons to Taiwan. ](/news/2011/03/7/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-warns-the-united-states-that-relations-between-china-and-the-us-will-de.md)
-_Context: Yang, United States, Taiwan, Foreign Minister_
+_Context: Foreign Minister, Yang, United States, Taiwan_
 
 ##### Robert Gates
 ### [Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. ](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.md)
@@ -69,11 +69,11 @@ Defense Secretary Robert Gates described the mistaken killing of nine Afghan boy
 
 ##### United Kingdom
 ### [Britain upgrades its relation with Palestine to a mission, the second-highest rank.](/news/2011/03/7/britain-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank.md)
-_Context: its relation, Palestine, United Kingdom_
+_Context: United Kingdom, its relation, Palestine_
 
 ##### Zimbabwe
 ### [A court in Zimbabwe frees 38 people detained for weeks on charges of attempting to overthrow President Robert Mugabe, after they watched videos of the Arab Spring. ](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.md)
-_Context: President, Robert Mugabe, Arab Spring, Zimbabwe_
+_Context: Arab Spring, President, Robert Mugabe, Zimbabwe_
 
 ##### Tunisia
 ### [Tunisia dissolves the country's secret police, accused of human rights abuses. ](/news/2011/03/7/tunisia-dissolves-the-country-s-secret-police-accused-of-human-rights-abuses.md)
@@ -81,11 +81,11 @@ _Context: Tunisia_
 
 ##### French President
 ### [Former President of France Jacques Chirac faces charges that related to alleged use of Paris city government resources to benefit his Rally for the Republic party while serving as Mayor of Paris. ](/news/2011/03/7/former-president-of-france-jacques-chirac-faces-charges-that-related-to-alleged-use-of-paris-city-government-resources-to-benefit-his-rally.md)
-_Context: French President, Rally for the Republic, Jacques Chirac, Paris, Mayor of Paris_
+_Context: Mayor of Paris, Paris, Rally for the Republic, French President, Jacques Chirac_
 
 ##### Egypt
 ### [A new cabinet of Egypt is sworn in by the Chairman of the Supreme Council of the Armed Forces Mohamed Hussein Tantawi. ](/news/2011/03/7/a-new-cabinet-of-egypt-is-sworn-in-by-the-chairman-of-the-supreme-council-of-the-armed-forces-mohamed-hussein-tantawi.md)
-_Context: Mohamed Hussein Tantawi, Egypt, governing body_
+_Context: Mohamed Hussein Tantawi, governing body, Egypt_
 
 ##### Seiji Maehara
 ### [Seiji Maehara resigns as Foreign Minister of Japan after becoming involved in an illegal political donation scandal. ](/news/2011/03/7/seiji-maehara-resigns-as-foreign-minister-of-japan-after-becoming-involved-in-an-illegal-political-donation-scandal.md)
@@ -93,7 +93,7 @@ Japan’s foreign minister of barely six months, Seiji Maehara, may have earned 
 
 ##### Senator
 ### [United States Senator John Ensign announces that he will not stand in the 2012 Senate elections in Nevada. ](/news/2011/03/7/united-states-senator-john-ensign-announces-that-he-will-not-stand-in-the-2012-senate-elections-in-nevada.md)
-_Context: John Ensign, Senator, Nevada, 2012_
+_Context: Nevada, 2012, Senator, John Ensign_
 
 ##### U.S. President
 ### [President of the United States Barack Obama lifts a two year freeze on the Combatant Status Review Tribunal at the Guantanamo Bay detention camp. ](/news/2011/03/7/president-of-the-united-states-barack-obama-lifts-a-two-year-freeze-on-the-combatant-status-review-tribunal-at-the-guantanamo-bay-detention.md)
@@ -101,7 +101,7 @@ US President Barack Obama is lifting the two-year freeze on new military trials 
 
 ##### ABC News
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: United States Secretary of Commerce, U.S. President, ABC News, Gary Locke, China, Barack Obama, United States_
+_Context: ABC News, China, U.S. President, United States, Gary Locke, United States Secretary of Commerce, Barack Obama_
 
 ##### CI1
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the "Journal of Cosmology" by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-hoo.md)

@@ -13,7 +13,7 @@ Islamist militants carried out a deadly assault on the main U.N. compound in the
 
 ##### Nigeria
 ### [Armed bandits and robbers riding motorbikes kill 48 people in Nigeria's Zamfara State. ](/news/2013/06/19/armed-bandits-and-robbers-riding-motorbikes-kill-48-people-in-nigeria-s-zamfara-state.md)
-_Context: Zamfara State, Nigeria_
+_Context: Nigeria, Zamfara State_
 
 ##### James Gandolfini
 ### [American actor James Gandolfini, best known for portraying Tony Soprano in "The Sopranos", dies of a heart attack at the age of 51. ](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.md)
@@ -21,7 +21,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 
 ##### Indian Army
 ### [The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. ](/news/2013/06/19/the-indian-army-is-deployed-to-help-rescue-people-in-the-flood-hit-northern-states-of-uttarakhand-and-himachal-pradesh-where-the-number-of.md)
-_Context: Indian Army, Himachal Pradesh, Uttarakhand_
+_Context: Himachal Pradesh, Indian Army, Uttarakhand_
 
 ##### Samara Oblast
 ### [A man is killed and more than 6,000 people are evacuated following an explosion at an arms depot in the Samara Oblast in central Russia. ](/news/2013/06/19/a-man-is-killed-and-more-than-6-000-people-are-evacuated-following-an-explosion-at-an-arms-depot-in-the-samara-oblast-in-central-russia.md)
@@ -29,7 +29,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### France
 ### [Flash flooding in southwest France claims two victims and causes the shrine at Lourdes to be closed. ](/news/2013/06/19/flash-flooding-in-southwest-france-claims-two-victims-and-causes-the-shrine-at-lourdes-to-be-closed.md)
-_Context: France, Lourdes_
+_Context: Lourdes, France_
 
 ##### Nigel Evans
 ### [Nigel Evans, Deputy Speaker of the UK House of Commons, is arrested on suspicion of three counts of indecent assault. ](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.md)
@@ -41,7 +41,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 
 ##### Domenico Dolce
 ### [An Italian court convicts fashion designers Domenico Dolce and Stefano Gabbana of tax evasion, giving them suspended sentences and heavy fines. ](/news/2013/06/19/an-italian-court-convicts-fashion-designers-domenico-dolce-and-stefano-gabbana-of-tax-evasion-giving-them-suspended-sentences-and-heavy-fin.md)
-_Context: Domenico Dolce, tax fraud, Stefano Gabbana_
+_Context: tax fraud, Domenico Dolce, Stefano Gabbana_
 
 ##### Xbox One
 ### [After receiving negative feedback, Microsoft decides to change many features of its upcoming Xbox One. ](/news/2013/06/19/after-receiving-negative-feedback-microsoft-decides-to-change-many-features-of-its-upcoming-xbox-one.md)

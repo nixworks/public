@@ -69,11 +69,11 @@ Representatives of the Libertarian, Green, Constitution, and Justice parties hav
 
 ##### Japanese Justice Minister
 ### [Japanese Justice Minister Keishu Tanaka, who took office on October 1, resigns amid a scandal over alleged ties to an organized crime syndicate. ](/news/2012/10/23/japanese-justice-minister-keishu-tanaka-who-took-office-on-october-1-resigns-amid-a-scandal-over-alleged-ties-to-an-organized-crime-syndic.md)
-_Context: Japanese Justice Minister, Keishu Tanaka_
+_Context: Keishu Tanaka, Japanese Justice Minister_
 
 ##### Member of the Scottish Parliament
 ### [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md)
-_Context: Member of the Scottish Parliament, Scottish National Party, Scottish Parliament, NATO, Jean Urquhart, John Finnie_
+_Context: NATO, Scottish National Party, Scottish Parliament, John Finnie, Jean Urquhart, Member of the Scottish Parliament_
 
 ## [Previous Day...](/news/2012/10/22/index.md)
 

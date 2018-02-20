@@ -5,11 +5,11 @@ Formats: [HTML](2007/03/21/index.html)  [JSON](2007/03/21/index.json)  [XML](200
 
 ##### Gordon Brown
 ### [ Gordon Brown, Chancellor of the Exchequer in the United Kingdom, delivers the 2007 budget. The main rates of corporation tax and income tax will both be reduced by 2% from April 2008, but other taxes are increased. ](/news/2007/03/21/gordon-brown-chancellor-of-the-exchequer-in-the-united-kingdom-delivers-the-2007-budget-the-main-rates-of-corporation-tax-and-income-tax.md)
-_Context: United Kingdom, Gordon Brown, budget, corporation tax, income tax, Chancellor of the Exchequer_
+_Context: budget, Gordon Brown, corporation tax, Chancellor of the Exchequer, income tax, United Kingdom_
 
 ##### Ambassador to the United Nations
 ### [ Former United States Ambassador to the United Nations and the broker of the Dayton Peace Accords Richard Holbrooke warns that if the United Nations votes against independence for Kosovo in April the region may erupt into violence. ](/news/2007/03/21/former-united-states-ambassador-to-the-united-nations-and-the-broker-of-the-dayton-peace-accords-richard-holbrooke-warns-that-if-the-united.md)
-_Context: Kosovo, United Nations, Dayton Peace Accords, Ambassador to the United Nations, Richard Holbrooke_
+_Context: Ambassador to the United Nations, Kosovo, Dayton Peace Accords, United Nations, Richard Holbrooke_
 
 ##### Israel
 ### [ An Israeli Special committee decides the recent conflict between Israel and Hezbullah is to be named the Second Lebanon War. ](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.md)
@@ -17,27 +17,27 @@ Special committee decides conflict between Israel, Hizbullah to be named Second 
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Condoleezza Rice announces that the Bush administration will cut its security package to the government of the Palestinian National Authority by nearly half in order to ensure that Hamas does not receive funding. ](/news/2007/03/21/united-states-secretary-of-state-condoleezza-rice-announces-that-the-bush-administration-will-cut-its-security-package-to-the-government-of.md)
-_Context: Palestinian Authority, Hamas, George W. Bush, United States Secretary of State, administration, Condoleezza Rice_
+_Context: United States Secretary of State, George W. Bush, Condoleezza Rice, administration, Palestinian Authority, Hamas_
 
 ##### Supreme Leader
 ### [ Supreme Leader of Iran Ayatollah Ali Khamenei warns that Iran will pursue nuclear development outside regulations if the United Nations Security Council imposes sanctions. ](/news/2007/03/21/supreme-leader-of-iran-ayatollah-ali-khamenei-warns-that-iran-will-pursue-nuclear-development-outside-regulations-if-the-united-nations-sec.md)
-_Context: Ayatollah, Iran, nuclear program, Supreme Leader, United Nations Security Council, Ali Khamenei_
+_Context: Ayatollah, Iran, Supreme Leader, Ali Khamenei, nuclear program, United Nations Security Council_
 
 ##### Strike
 ### [ A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. ](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.md)
-_Context: Histadrut, Israel, strike, unionize_
+_Context: Israel, strike, unionize, Histadrut_
 
 ##### Insurgency in Somalia
 ### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
-_Context: heavy fighting, Ethiopia, Mogadishu, troops, Somalia, Insurgency in Somalia_
+_Context: Insurgency in Somalia, Somalia, Mogadishu, heavy fighting, Ethiopia, troops_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md)
-_Context: Army, Sri Lanka, Batticaloa, Tamil Tigers, Sri Lankan Civil War_
+_Context: Tamil Tigers, Sri Lanka, Sri Lankan Civil War, Batticaloa, Army_
 
 ##### Russian President
 ### [ President of Russia Vladimir Putin declares a national day of mourning after three separate disasters kill at least 173 people in three days: the Ulyanovskaya Mine disaster, the crash of UT Air Flight 471 and a fire in a retirement home. ](/news/2007/03/21/president-of-russia-vladimir-putin-declares-a-national-day-of-mourning-after-three-separate-disasters-kill-at-least-173-people-in-three-day.md)
-_Context: Vladimir Putin, UT Air Flight 471, retirement home, Ulyanovskaya Mine disaster, national day of mourning, Russian President_
+_Context: Russian President, Vladimir Putin, UT Air Flight 471, national day of mourning, Ulyanovskaya Mine disaster, retirement home_
 
 ## [Previous Day...](/news/2007/03/20/index.md)
 

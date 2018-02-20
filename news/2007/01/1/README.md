@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/1/index.html)  [JSON](2007/01/1/index.json)  [XML](2007/
 
 ##### Bulgaria
 ### [ The Bulgarian political party Citizens for European Development of Bulgaria, which had only been founded on 2006-12-03 by Sofia mayor Boyko Borisov, instantly comes second in a public poll on party support, trailing only the Bulgarian Socialist Party. ](/news/2007/01/1/the-bulgarian-political-party-citizens-for-european-development-of-bulgaria-which-had-only-been-founded-on-2006-12-03-by-sofia-mayor-boyko.md)
-_Context: Sofia mayor, political party, Boyko Borisov, GERB, Bulgaria, Socialist Party_
+_Context: Socialist Party, GERB, Boyko Borisov, Bulgaria, political party, Sofia mayor_
 
 ##### Clashes
 ### [ The Palestinian factional violence flares up again. ](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.md)
@@ -17,7 +17,7 @@ Somali government troops backed by Ethiopian tanks and MiG fighter jets have cap
 
 ##### Romania
 ### [ Romania and Bulgaria join the European Union. ](/news/2007/01/1/romania-and-bulgaria-join-the-european-union.md)
-_Context: Romania, European Union, Bulgaria_
+_Context: European Union, Bulgaria, Romania_
 
 ##### Slovenia
 ### [ Slovenia adopts the euro, replacing the tolar and becoming the second enlargement to the eurozone. ](/news/2007/01/1/slovenia-adopts-the-euro-replacing-the-tolar-and-becoming-the-second-enlargement-to-the-eurozone.md)
@@ -25,11 +25,11 @@ _Context: euro, eurozone, Slovenia, tolar_
 
 ##### CITIC
 ### [ CITIC, a state-owned investment enterprise of the Chinese government, buys Nations Energy Company, a Canadian petroleum extraction company, giving it a majority stake in KazMunayGas, the state-owned oil and gas company in Kazakhstan, for USD $1.91 billion. The deal is highly controversial because of the amount of control China now has over Kazakhstan's natural resources. Kazakh Oil Minister Baktykozha Izmukhambetov has criticized the deal since it was first considered in October 2006. ](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.md)
-_Context: CITIC, KazMunayGas, Baktykozha Izmukhambetov, USD_
+_Context: USD, Baktykozha Izmukhambetov, CITIC, KazMunayGas_
 
 ##### Armenian government
 ### [ The Armenian government detains citizen Vahan Aroyan for allegedly plotting a coup d'etat against Armenian President Robert Kocharyan. The Association of Armenian Volunteers, a political opposition group, denounces Aroyan's detainment, saying the move is an attempt to silence dissidence. ](/news/2007/01/1/the-armenian-government-detains-citizen-vahan-aroyan-for-allegedly-plotting-a-coup-d-a-c-tat-against-armenian-president-robert-kocharyan-the.md)
-_Context: Armenian President, Robert Kocharyan, Armenian government, Association of Armenian Volunteers, coup_
+_Context: Robert Kocharyan, Armenian government, coup, Armenian President, Association of Armenian Volunteers_
 
 ##### Adam Air
 ### [ Adam Air Flight 574 disappears over Indonesia with 102 people on board. ](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.md)

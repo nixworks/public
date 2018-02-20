@@ -29,7 +29,7 @@ The U.S. government has declared a public health emergency in Puerto Rico becaus
 
 ##### Brendan Dassey
 ### [Brendan Dassey, the subject of Netflix's hit drama "Making a Murderer" is found to have been wrongly convicted of murdering the photographer Teresa Halbach. A federal judge orders that he must be released from prison within three months. ](/news/2016/08/12/brendan-dassey-the-subject-of-netflix-s-hit-drama-making-a-murderer-is-found-to-have-been-wrongly-convicted-of-murdering-the-photographer.md)
-_Context: Netflix, Brendan Dassey, Making a Murderer_
+_Context: Making a Murderer, Netflix, Brendan Dassey_
 
 ##### Labour Party leadership election, 2016
 ### [Britain's Court of Appeal, reversing Monday's High Court decision, rules the Labour Party has the right to prevent up to 130,000 new members who joined less than six months ago from voting in the party's leadership contest between incumbent Jeremy Corbyn and legislator Owen Smith. An appeal to the United Kingdom Supreme Court is possible. ](/news/2016/08/12/britain-s-court-of-appeal-reversing-monday-s-high-court-decision-rules-the-labour-party-has-the-right-to-prevent-up-to-130-000-new-members.md)

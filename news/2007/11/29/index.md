@@ -9,7 +9,7 @@ In a setback for journalistic freedom in Mexico, the judges ruled 6 to 4 against
 
 ##### Magnitude
 ### [ A 7.4 M w earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-m-w-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md)
-_Context: magnitude, Windward Islands, Martinique, earthquake, Caribbean_
+_Context: Martinique, magnitude, Caribbean, earthquake, Windward Islands_
 
 ##### Gillian Gibbons
 ### [ Gillian Gibbons is found guilty of inciting religious hatred and sentenced to 15 days in prison and deportation from Sudan, after she let pupils name a teddy bear "Muhammad". ](/news/2007/11/29/gillian-gibbons-is-found-guilty-of-inciting-religious-hatred-and-sentenced-to-15-days-in-prison-and-deportation-from-sudan-after-she-let-p.md)
@@ -21,15 +21,15 @@ _Context: Al Jazeera, al Qaeda, Osama bin Laden_
 
 ##### Ukrain
 ### [ Ukrainian political parties backed by Yulia Tymoshenko and Viktor Yushenko put together a parliamentary majority coalition in Parliament. ](/news/2007/11/29/ukrainian-political-parties-backed-by-yulia-tymoshenko-and-viktor-yushenko-put-together-a-parliamentary-majority-coalition-in-parliament.md)
-_Context: Yulia Tymoshenko, parliament, Viktor Yushenko, Ukrain_
+_Context: Viktor Yushenko, Yulia Tymoshenko, Ukrain, parliament_
 
 ##### Moscow
 ### [ The Savyolovsky Court in Moscow finds the Russian businessman in exile Boris Berezovsky guilty of embezzling nearly 215 million rubles from Aeroflot. ](/news/2007/11/29/the-savyolovsky-court-in-moscow-finds-the-russian-businessman-in-exile-boris-berezovsky-guilty-of-embezzling-nearly-215-million-rubles-from.md)
-_Context: Russia, embezzled, Boris Berezovsky, Aeroflot, Moscow_
+_Context: Aeroflot, Russia, Moscow, embezzled, Boris Berezovsky_
 
 ##### Philippines Armed Forces
 ### [ The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md)
-_Context: Philippines Armed Forces, The Peninsula Manila_
+_Context: The Peninsula Manila, Philippines Armed Forces_
 
 ## [Previous Day...](/news/2007/11/28/index.md)
 

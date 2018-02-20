@@ -9,19 +9,19 @@ _Context: Nevado del Huila, volcano, Colombia_
 
 ##### Algoma Steel
 ### [ After the acquisition of Algoma Steel, India's Essar Group plans to buy U.S.-based Minnesota Steel for US$ 1.66 billion. ](/news/2007/04/18/after-the-acquisition-of-algoma-steel-india-s-essar-group-plans-to-buy-u-s-based-minnesota-steel-for-us-1-66-billion.md)
-_Context: India, USD, U.S., Essar Group, Minnesota Steel, Algoma Steel_
+_Context: Algoma Steel, Minnesota Steel, India, U.S., Essar Group, USD_
 
 ##### Diplomat
 ### [ A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. ](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.md)
-_Context: Natanz, diplomat, IAEA, uranium, centrifuge, Iran_
+_Context: centrifuge, Iran, Natanz, uranium, diplomat, IAEA_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)
-_Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, Supreme Court of the United States_
+_Context: Partial-Birth Abortion Ban Act, Gonzales v. Carhart, Supreme Court of the United States_
 
 ##### Virginia Tech
 ### [ Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-monday-in-the-united-state.md)
-_Context: Virginia Tech, shooting spree, United States_
+_Context: Virginia Tech, United States, shooting spree_
 
 ##### Series of bombings
 ### [ At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md)
@@ -29,15 +29,15 @@ _Context: Baghdad, series of bombings_
 
 ##### Secondary school
 ### [ At least 16 secondary school students die in Egypt's Al Jizah governorate as the truck they were traveling to school on collides with another vehicle. ](/news/2007/04/18/at-least-16-secondary-school-students-die-in-egypt-s-al-jizah-governorate-as-the-truck-they-were-traveling-to-school-on-collides-with-anoth.md)
-_Context: secondary school, Al Jizah, Egypt, governorates, truck_
+_Context: Egypt, truck, secondary school, Al Jizah, governorates_
 
 ##### Turkey
 ### [ Three workers at a publishing house in Turkey that prints Bibles are murdered in ongoing sectarian violence. ](/news/2007/04/18/three-workers-at-a-publishing-house-in-turkey-that-prints-bibles-are-murdered-in-ongoing-sectarian-violence.md)
-_Context: Turkey, sectarian, Bible_
+_Context: sectarian, Bible, Turkey_
 
 ##### Australia
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Nauru, Australia, United States, Guantanamo Bay detention camp, asylum seeker_
+_Context: Guantanamo Bay detention camp, United States, Australia, asylum seeker, Nauru_
 
 ##### Iccho Itoh
 ### [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md)
@@ -49,11 +49,11 @@ _Context: high-speed rail, China_
 
 ##### Chinese
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
-_Context: Chinese, ladle_
+_Context: ladle, Chinese_
 
 ##### UEFA
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
-_Context: UEFA, Ukraine, Poland, 2012 UEFA European Football Championship_
+_Context: Ukraine, Poland, 2012 UEFA European Football Championship, UEFA_
 
 ## [Previous Day...](/news/2007/04/17/index.md)
 

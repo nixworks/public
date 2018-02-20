@@ -5,11 +5,11 @@ Formats: [HTML](2014/02/27/index.html)  [JSON](2014/02/27/index.json)  [XML](201
 
 ##### 2014 Ukrainian revolution
 ### [The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.md)
-_Context: regional government, 2014 Ukrainian revolution, 2014 Crimean crisis, Parliament of Ukraine's Autonomous Republic of Crimea, Crimean referendum, 2014_
+_Context: 2014 Crimean crisis, regional government, 2014 Ukrainian revolution, Crimean referendum, 2014, Parliament of Ukraine's Autonomous Republic of Crimea_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md)
-_Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), Iraq_
+_Context: Iraqi insurgency (post-U.S. withdrawal), Iraq, Baghdad_
 
 ##### Indian Army
 ### [An Indian Army soldier kills five colleagues and himself in Jammu and Kashmir. ](/news/2014/02/27/an-indian-army-soldier-kills-five-colleagues-and-himself-in-jammu-and-kashmir.md)
@@ -33,7 +33,7 @@ _Context: Stockholm, Swedish Public Employment Service_
 
 ##### Yahoo
 ### [Yahoo webcams may have been hijacked by the GCHQ according to leaks in "The Guardian". ](/news/2014/02/27/yahoo-webcams-may-have-been-hijacked-by-the-gchq-according-to-leaks-in-the-guardian.md)
-_Context: Yahoo, The Guardian, GCHQ_
+_Context: GCHQ, The Guardian, Yahoo_
 
 ##### Angela Merkel
 ### [Angela Merkel, Chancellor of Germany, speaks to both houses of the Parliament of Great Britain and urges Britain's continued participation within the EU, but she ruled out German support for any far-reaching reform of the treaties that define it, such as many Britons think their government should demand. ](/news/2014/02/27/angela-merkel-chancellor-of-germany-speaks-to-both-houses-of-the-parliament-of-great-britain-and-urges-britain-s-continued-participation-w.md)
@@ -45,7 +45,7 @@ JERUSALEM -- Israeli security forces use excessive force against Palestinians in
 
 ##### Arizona
 ### [Arizona Governor Jan Brewer vetoes a bill that would have allowed businesses to discriminate, based on their religion, against LGBT people. ](/news/2014/02/27/arizona-governor-jan-brewer-vetoes-a-bill-that-would-have-allowed-businesses-to-discriminate-based-on-their-religion-against-lgbt-people.md)
-_Context: Jan Brewer, Arizona, gay and bisexual men_
+_Context: Arizona, Jan Brewer, gay and bisexual men_
 
 ##### United States
 ### [United States Federal Reserve hacker Lauri Love is sentenced. ](/news/2014/02/27/united-states-federal-reserve-hacker-lauri-love-is-sentenced.md)
@@ -53,15 +53,15 @@ _Context: Federal Reserve, United States_
 
 ##### 2013-14 Thai political crisis
 ### [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md)
-_Context: 2013-14 Thai political crisis, Yingluck Shinawatra, Prime Minister_
+_Context: Prime Minister, 2013-14 Thai political crisis, Yingluck Shinawatra_
 
 ##### Crimean referendum, 2014
 ### [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md)
-_Context: Crimean referendum, 2014, Autonomous Republic of Crimea, Ukraine_
+_Context: Ukraine, Autonomous Republic of Crimea, Crimean referendum, 2014_
 
 ##### Kepler telescope
 ### [The Kepler telescope discovers 715 new planets. ](/news/2014/02/27/the-kepler-telescope-discovers-715-new-planets.md)
-_Context: planet, Kepler telescope_
+_Context: Kepler telescope, planet_
 
 ## [Previous Day...](/news/2014/02/26/index.md)
 

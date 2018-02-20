@@ -5,35 +5,35 @@ Formats: [HTML](2005/09/5/index.html)  [JSON](2005/09/5/index.json)  [XML](2005/
 
 ##### Typhoon Nabi
 ### [ Typhoon Nabi (Category 3) reaches the Japanese coasts. It will make landfall today, and is expected to take 3 days to cross the island of Kyushu. ](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.md)
-_Context: Kyushu, Japan, Typhoon Nabi_
+_Context: Typhoon Nabi, Japan, Kyushu_
 
 ##### Hurricane Katrina
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9-11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: United States government, Hurricane Katrina, Hillary Clinton, First Lady, United States Senate_
+_Context: United States Senate, Hillary Clinton, Hurricane Katrina, First Lady, United States government_
 
 ##### Cable car
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
-_Context: Otztal, cable car, Solden, Alps, Austria_
+_Context: Austria, Alps, Solden, Otztal, cable car_
 
 ##### Teenage
 ### [ Three teenage girls admit starting a fire in Paris on September 3 which left 16 people dead. ](/news/2005/09/5/three-teenage-girls-admit-starting-a-fire-in-paris-on-september-3-which-left-16-people-dead.md)
-_Context: September 3, teenage, Paris_
+_Context: Paris, September 3, teenage_
 
 ##### Google
 ### [ Google taps into the Chinese local markets by opening their fifth international Local Search Engine on Google China at http:--bendi.google.com-. ](/news/2005/09/5/google-taps-into-the-chinese-local-markets-by-opening-their-fifth-international-local-search-engine-on-google-china-at-http-bendi-google.md)
-_Context: Google China, Google_
+_Context: Google, Google China_
 
 ##### Ibrahim Rugova
 ### [ Ibrahim Rugova, the President of Kosovo, has announced that he has lung cancer but will not be stepping down. ](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.md)
-_Context: Ibrahim Rugova, lung cancer, President_
+_Context: Ibrahim Rugova, President, lung cancer_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Two British Soldiers have been killed following a roadside IED bomb in Basra, southern Iraq. ](/news/2005/09/5/conflict-in-iraq-two-british-soldiers-have-been-killed-following-a-roadside-ied-bomb-in-basra-southern-iraq.md)
-_Context: British Soldiers, Basra, Iraq, IED, Conflict in Iraq_
+_Context: British Soldiers, Iraq, Basra, Conflict in Iraq, IED_
 
 ##### Mandala Airlines Flight 091
 ### [ Mandala Airlines Flight 091: A Mandala Airlines flight crashes into a residential area of the Indonesian city of Medan, killing at least 100 passengers. Among the dead are the governor and former governor of Sumatra Utara, Rizal Nurdin and Raja Inal Siregar. ](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.md)
-_Context: North Sumatra, Rizal Nurdin, Mandala Airlines Flight 091, Medan, Mandala Airlines, Raja Inal Siregar_
+_Context: Raja Inal Siregar, North Sumatra, Medan, Mandala Airlines, Mandala Airlines Flight 091, Rizal Nurdin_
 
 ## [Previous Day...](/news/2005/09/4/index.md)
 

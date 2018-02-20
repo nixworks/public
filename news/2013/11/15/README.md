@@ -5,11 +5,11 @@ Formats: [HTML](2013/11/15/index.html)  [JSON](2013/11/15/index.json)  [XML](201
 
 ##### North Korea
 ### [North Korea denies giving military aid to Syria. ](/news/2013/11/15/north-korea-denies-giving-military-aid-to-syria.md)
-_Context: Syria, North Korea_
+_Context: North Korea, Syria_
 
 ##### United Nations
 ### [The United Nations tallies the death toll to around 4,400. The Red Cross estimates that around 20,000 are still missing, many of whom are feared dead. This is contrary to a previous estimate by Benigno Aquino III, who put the death toll to a low 2,000. ](/news/2013/11/15/the-united-nations-tallies-the-death-toll-to-around-4-400-the-red-cross-estimates-that-around-20-000-are-still-missing-many-of-whom-are-fe.md)
-_Context: United Nations, his predecessor, Red Cross_
+_Context: his predecessor, Red Cross, United Nations_
 
 ##### Mangala Lakshadweep Express
 ### [At least five people are killed and 10 injured after four coaches of the Mangala Lakshadweep Express derail near the Indian city of Nashik in Maharashtra state. ](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.md)
@@ -33,7 +33,7 @@ Police crackdown on demonstrations against targeted attacks on Ethiopian migrant
 
 ##### Australia
 ### [Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. ](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.md)
-_Context: manslaughter by gross negligence, Jayant Patel, Queensland, Australia, American_
+_Context: Jayant Patel, Australia, manslaughter by gross negligence, Queensland, American_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court says that it will hear a securities fraud case this term that arises out of the asbestos liabilities of Halliburton, an oilfield services company. ](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.md)
@@ -49,7 +49,7 @@ Burmese officials say they are releasing 69 political prisoners, including the g
 
 ##### Australian Electoral Commission
 ### [The Australian Electoral Commission petitions the High Court of Australia for a new Senate election in the state of Western Australia due to the loss of 1,370 ballot papers and the closeness of the result. ](/news/2013/11/15/the-australian-electoral-commission-petitions-the-high-court-of-australia-for-a-new-senate-election-in-the-state-of-western-australia-due-to.md)
-_Context: High Court of Australia, Australian Electoral Commission, Western Australia, Senate election_
+_Context: Western Australia, High Court of Australia, Australian Electoral Commission, Senate election_
 
 ##### Brazil
 ### [The Brazilian Supreme Federal Court issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president Lula, in one of the nation's biggest corruption cases. ](/news/2013/11/15/the-brazilian-supreme-federal-court-issues-a-long-time-awaited-order-to-arrest-for-bribery-12-former-top-officials-who-had-served-under-ex-p.md)

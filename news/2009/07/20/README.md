@@ -17,7 +17,7 @@ _Context: Canadian, Okanagan, Wildfire_
 
 ##### India
 ### [ India and the United States sign a defence pact. ](/news/2009/07/20/india-and-the-united-states-sign-a-defence-pact.md)
-_Context: United States, India_
+_Context: India, United States_
 
 ##### German
 ### [ 260 cars pile up in Germany. ](/news/2009/07/20/260-cars-pile-up-in-germany.md)

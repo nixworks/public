@@ -9,7 +9,7 @@ Planet Ark Stories and Ideas
 
 ##### Office of Federal Housing Enterprise Oversight
 ### [ The United States Office of Federal Housing Enterprise Oversight announces an investigation into the accounting of America's two largest mortgage firms Freddie Mac and Fannie Mae ](/news/2003/07/14/the-united-states-office-of-federal-housing-enterprise-oversight-announces-an-investigation-into-the-accounting-of-america-s-two-largest-mo.md)
-_Context: Office of Federal Housing Enterprise Oversight, Fannie Mae, Freddie Mac_
+_Context: Fannie Mae, Freddie Mac, Office of Federal Housing Enterprise Oversight_
 
 ##### Pierce Brosnan
 ### [ Pierce Brosnan is to be made an honorary OBE ](/news/2003/07/14/pierce-brosnan-is-to-be-made-an-honorary-obe.md)

@@ -53,7 +53,7 @@ Government launches investigation into cause of Manila blaze which killed at lea
 
 ##### Gold mine
 ### [Rescue workers attempt to rescue at least 15 gold miners trapped by floods in a mine in Colombia's Caldas Department. ](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.md)
-_Context: gold mine, Caldas Department_
+_Context: Caldas Department, gold mine_
 
 ##### Catholic Church
 ### [The Vatican concludes a treaty to recognize the Palestinian state. ](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.md)

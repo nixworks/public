@@ -5,15 +5,15 @@ Formats: [HTML](2007/08/6/index.html)  [JSON](2007/08/6/index.json)  [XML](2007/
 
 ##### Turkish President
 ### [ Turkish President Ahmet Necdet Sezer gave a mandate to Turkish Prime Minister Recep Tayyip Erdogan to form his second cabinet following a landslide victory for the Justice and Development Party (AKP) in the general elections. ](/news/2007/08/6/turkish-president-ahmet-necdet-sezer-gave-a-mandate-to-turkish-prime-minister-recep-tayyip-erdoaan-to-form-his-second-cabinet-following-a.md)
-_Context: Ahmet Necdet Sezer, Recep Tayyip Erdogan, general elections, Turkish President, ruling party, Prime Minister_
+_Context: Prime Minister, general elections, Turkish President, Recep Tayyip Erdogan, Ahmet Necdet Sezer, ruling party_
 
 ##### Mexico
 ### [ Mexico and Brazil sign an agreement on developing technology for oil and natural gas exploration and exploitation involving co-operation between Pemex and Petrobras. ](/news/2007/08/6/mexico-and-brazil-sign-an-agreement-on-developing-technology-for-oil-and-natural-gas-exploration-and-exploitation-involving-co-operation-be.md)
-_Context: oil, Mexico, Petroleos Mexicanos, natural gas, Brazil, Petrobras_
+_Context: Brazil, natural gas, oil, Petroleos Mexicanos, Petrobras, Mexico_
 
 ##### Lebanese
 ### [ The Lebanese government claim that the police have killed Abu Hureira, the second in command of Fatah al-Islam. ](/news/2007/08/6/the-lebanese-government-claim-that-the-police-have-killed-abu-hureira-the-second-in-command-of-fatah-al-islam.md)
-_Context: Abu Hureira, Fatah al-Islam, Lebanese_
+_Context: Lebanese, Abu Hureira, Fatah al-Islam_
 
 ##### Trinidad
 ### [ Trinidad Chief Magistrate Sherman McNicolls orders the extradition of three men to the United States to face charges of involvement in a terrorist attack on John F. Kennedy Airport. ](/news/2007/08/6/trinidad-chief-magistrate-sherman-mcnicolls-orders-the-extradition-of-three-men-to-the-united-states-to-face-charges-of-involvement-in-a-te.md)
@@ -21,7 +21,7 @@ A ruling by a judge in Trinidad brings three men one step closer to Brooklyn and
 
 ##### United States District Court
 ### [ United States District Court judge Ronald Whyte strikes down a California law aiming to prohibit minors from buying or renting violent video games on First Amendment grounds. ](/news/2007/08/6/united-states-district-court-judge-ronald-whyte-strikes-down-a-california-law-aiming-to-prohibit-minors-from-buying-or-renting-violent-vide.md)
-_Context: Ronald Whyte, First Amendment, minors, United States District Court, California, video game, judge_
+_Context: Ronald Whyte, video game, First Amendment, United States District Court, California, minors, judge_
 
 ##### Arizona
 ### [ An Arizona judge rules that a United States Border Patrol agent Nicholas Corbett must stand trial for murder for shooting dead a Mexican immigrant. ](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.md)
@@ -29,7 +29,7 @@ A U.S. Border Patrol agent must stand trial for murder in the shooting of a Mexi
 
 ##### United States Food and Drug Administration
 ### [ The United States Food and Drug Administration approves Pfizer's AIDS drug Selzentry. ](/news/2007/08/6/the-united-states-food-and-drug-administration-approves-pfizer-s-aids-drug-selzentry.md)
-_Context: drug, Pfizer, AIDS, Selzentry, United States Food and Drug Administration_
+_Context: AIDS, United States Food and Drug Administration, Selzentry, drug, Pfizer_
 
 ##### Iraqiya
 ### [ Five members of the Iraqiya coalition led by former Prime Minister of Iraq Ayad Allawi suspend their participation in the current Cabinet led by Nouri al-Maliki. ](/news/2007/08/6/five-members-of-the-iraqiya-coalition-led-by-former-prime-minister-of-iraq-ayad-allawi-suspend-their-participation-in-the-current-cabinet-l.md)
@@ -37,7 +37,7 @@ The move struck yet another blow to Prime Minister Nuri Kamal al-Maliki’s falt
 
 ##### NASA
 ### [ NASA reports that three galaxies the size of the Milky Way are colliding with another galaxy three times the size of the Milky Way in galaxy cluster CL0958+4702. The eventual galaxy could be up to ten times the size of the Milky Way. ](/news/2007/08/6/nasa-reports-that-three-galaxies-the-size-of-the-milky-way-are-colliding-with-another-galaxy-three-times-the-size-of-the-milky-way-in-galax.md)
-_Context: NASA, Milky Way, galaxy cluster, CL0958+4702, galaxy_
+_Context: NASA, galaxy cluster, galaxy, CL0958+4702, Milky Way_
 
 ##### Outbreak of 2007
 ### [ A second case of foot and mouth disease is reported in Surrey, England, resulting in the culling of more cattle. ](/news/2007/08/6/a-second-case-of-foot-and-mouth-disease-is-reported-in-surrey-england-resulting-in-the-culling-of-more-cattle.md)
@@ -53,19 +53,19 @@ _Context: North Korea, South Korea, border_
 
 ##### Jose Ramos-Horta
 ### [ Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.md)
-_Context: Prime Minister, Xanana GusmGBPo, East Timor, President, Jose Ramos-Horta_
+_Context: Prime Minister, Jose Ramos-Horta, Xanana GusmGBPo, East Timor, President_
 
 ##### Truck bomb
 ### [ A truck bomb in Tal Afar in northern Iraq kills at least 25 people and destroys 10 homes. ](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.md)
-_Context: truck bomb, Iraq, Tal Afar_
+_Context: Iraq, truck bomb, Tal Afar_
 
 ##### Michael Somare
 ### [ Sir Michael Somare's National Alliance Party forms a coalition with six partners which will be the next government of Papua New Guinea. ](/news/2007/08/6/sir-michael-somare-s-national-alliance-party-forms-a-coalition-with-six-partners-which-will-be-the-next-government-of-papua-new-guinea.md)
-_Context: National Alliance Party, coalition, Michael Somare, Papua New Guinea_
+_Context: Michael Somare, National Alliance Party, coalition, Papua New Guinea_
 
 ##### Flood
 ### [ Flooding in Lagos, Nigeria, leads to thousands of people being forced from their homes and six people going missing. ](/news/2007/08/6/flooding-in-lagos-nigeria-leads-to-thousands-of-people-being-forced-from-their-homes-and-six-people-going-missing.md)
-_Context: Flood, Lagos, Nigeria_
+_Context: Flood, Nigeria, Lagos_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors examine the Kashiwazaki-Kariwa Nuclear Power Plant in Japan. ](/news/2007/08/6/international-atomic-energy-agency-inspectors-examine-the-kashiwazaki-kariwa-nuclear-power-plant-in-japan.md)
@@ -73,7 +73,7 @@ United Nations (UN) inspectors have examined the world&#039;s largest nuclear pl
 
 ##### Japan
 ### [ Japan marks the 62nd anniversary of the atomic bombing of Hiroshima. ](/news/2007/08/6/japan-marks-the-62nd-anniversary-of-the-atomic-bombing-of-hiroshima.md)
-_Context: Japan, dropped_
+_Context: dropped, Japan_
 
 ##### State of emergency
 ### [ A state of emergency is declared in the Croatian city of Dubrovnik due to a forest fire. ](/news/2007/08/6/a-state-of-emergency-is-declared-in-the-croatian-city-of-dubrovnik-due-to-a-forest-fire.md)

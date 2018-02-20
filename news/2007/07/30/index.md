@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/30/index.html)  [JSON](2007/07/30/index.json)  [XML](200
 
 ##### Juan Manuel Santos
 ### [ Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. ](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.md)
-_Context: Juan Manuel Santos, FARC, Colombia_
+_Context: Juan Manuel Santos, Colombia, FARC_
 
 ##### FBI
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: Ted Stevens, Girdwood, Alaska, FBI, Internal Revenue Service, United States Senate_
+_Context: FBI, United States Senate, Ted Stevens, Girdwood, Alaska, Internal Revenue Service_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and the United States Secretary of Defense Robert Gates travel to the Middle East to offer increased aid to allies of the United States and to seek advice on Iraq. ](/news/2007/07/30/the-united-states-secretary-of-state-condoleezza-rice-and-the-united-states-secretary-of-defense-robert-gates-travel-to-the-middle-east-to.md)
@@ -21,11 +21,11 @@ Thousands of Egyptian riot police have clashed with Bedouin protesting against t
 
 ##### Palestinian Authority President
 ### [ The Palestinian President Mahmoud Abbas travels to Moscow seeking Russian support. ](/news/2007/07/30/the-palestinian-president-mahmoud-abbas-travels-to-moscow-seeking-russian-support.md)
-_Context: Russia, Palestinian Authority President, Moscow, Mahmoud Abbas_
+_Context: Palestinian Authority President, Moscow, Mahmoud Abbas, Russia_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors visit the Arak heavy-water reactor site in Iran. ](/news/2007/07/30/international-atomic-energy-agency-inspectors-visit-the-arak-heavy-water-reactor-site-in-iran.md)
-_Context: Iran, IAEA, Arak_
+_Context: IAEA, Arak, Iran_
 
 ##### Chief Justice
 ### [ The Chief Justice of the United States John Roberts is hospitalized after suffering a seizure at his summer home in Maine. ](/news/2007/07/30/the-chief-justice-of-the-united-states-john-roberts-is-hospitalized-after-suffering-a-seizure-at-his-summer-home-in-maine.md)
@@ -37,11 +37,11 @@ Prime Minister Gordon Brown of Britain indicated that he mostly shared President
 
 ##### Islam
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: shrine, Islam, Islamabad, tribal area, Lal Masjid, Pakistan_
+_Context: Lal Masjid, Pakistan, tribal area, shrine, Islam, Islamabad_
 
 ##### Czech Republic
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
-_Context: US, ballistic missile, Czech Republic_
+_Context: ballistic missile, Czech Republic, US_
 
 ##### Ghazni
 ### [ An Afghan governor asks the Taliban to extend Monday's deadline for the lives of 22 South Koreans, after militants warned the Afghan government to release 23 of its captured fighters or else hostages will die. The Taliban later executes a hostage. ](/news/2007/07/30/an-afghan-governor-asks-the-taliban-to-extend-monday-s-deadline-for-the-lives-of-22-south-koreans-after-militants-warned-the-afghan-govern.md)
@@ -61,11 +61,11 @@ A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#03
 
 ##### Miner
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: Chinese, Henan, flood, miner, coal mine_
+_Context: miner, flood, coal mine, Chinese, Henan_
 
 ##### Ivory Coast
 ### [ The President of the Ivory Coast Laurent Gbagbo visits the former rebel held north for the first time since 2002 where stockpiled weapons will be burnt as a symbol of reconciliation after the end of an uprising. ](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.md)
-_Context: Laurent Gbagbo, Ivory Coast_
+_Context: Ivory Coast, Laurent Gbagbo_
 
 ## [Previous Day...](/news/2007/07/29/index.md)
 

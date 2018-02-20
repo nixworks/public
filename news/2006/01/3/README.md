@@ -7,7 +7,7 @@ Formats: [HTML](2006/01/3/index.html)  [JSON](2006/01/3/index.json)  [XML](2006/
 ### [ U.S. pilots targeting a house outside of Baghdad where they believed insurgents had taken shelter killed a family of 12. ](/news/2006/01/3/u-s-pilots-targeting-a-house-outside-of-baghdad-where-they-believed-insurgents-had-taken-shelter-killed-a-family-of-12.md)
 ##### Israel
 ### [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md)
-_Context: Likud Party, Tel Aviv, Ariel Sharon, Israeli Prime Minister, Israel_
+_Context: Ariel Sharon, Tel Aviv, Israel, Israeli Prime Minister, Likud Party_
 
 ##### Sago Mine disaster
 ### [ Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately 10:30 p.m. EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. ](/news/2006/01/3/sago-mine-disaster-in-west-virginia-us-family-members-now-say-only-one-trapped-miner-has-been-brought-out-alive-from-the-collapsed-coal.md)
@@ -19,23 +19,23 @@ _Context: restarts, Ukraine, Gazprom_
 
 ##### Journalist
 ### [ Chinese journalist and whistleblower Jiang Weiping, who was jailed in 2000 for violating the State Secrets Law on charges of "subversion," is released after the one year left on his prison sentence is commuted. In 1999 Jiang wrote two articles for a Hong Kong magazine accusing Bo Xilai, who at the time was governor of Liaoning province, but is now China's economic minister, of covering up corruption. ](/news/2006/01/3/chinese-journalist-and-whistleblower-jiang-weiping-who-was-jailed-in-2000-for-violating-the-state-secrets-law-on-charges-of-subversion.md)
-_Context: journalist, economic minister, corruption, Hong Kong, subversion, Liaoning, whistleblower, Bo Xilai, State Secrets Law, Jiang Weiping_
+_Context: Bo Xilai, State Secrets Law, subversion, Hong Kong, economic minister, journalist, Liaoning, corruption, whistleblower, Jiang Weiping_
 
 ##### Iraqi insurgency
 ### [ Conflict in Iraq: Six members of the same family of 14 have been confirmed killed following a U.S. airstrike in Northern Iraq. ](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.md)
-_Context: Iraq, Iraqi insurgency, airstrike, Military of the United States_
+_Context: airstrike, Military of the United States, Iraq, Iraqi insurgency_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md)
-_Context: Israeli-Palestinian Conflict, Palestinians, Israeli police, East Jerusalem, elections_
+_Context: Israeli police, East Jerusalem, Palestinians, elections, Israeli-Palestinian Conflict_
 
 ##### Bad Reichenhall
 ### [ Rescue workers are still battling to find survivors after the roof of an ice rink collapsed in Bad Reichenhall, southern Germany, leaving at least 10 people dead, some of them children. It is thought many are still trapped under the rubble. ](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.md)
-_Context: children, Bad Reichenhall_
+_Context: Bad Reichenhall, children_
 
 ##### Dofasco Inc.
 ### [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-c-4-9-billio.md)
-_Context: Dofasco Inc., Hamilton, Ontario, ThyssenKrupp_
+_Context: Dofasco Inc., ThyssenKrupp, Hamilton, Ontario_
 
 ##### Defaults
 ### [ Four years after defaulting on its external debt, Argentina pays its USD 9.57 billion debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-9-57-billion-debt-with-the-international-monetary-fund.md)

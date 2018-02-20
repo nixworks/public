@@ -19,11 +19,11 @@ _Context: Gaza Strip, Hamas, Israeli Air Force_
 ### [New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
 ##### Norway
 ### [Residents of the historic Norwegian village of Laerdalsoyri are evacuated due to a fire that has destroyed at least 10 homes. ](/news/2014/01/19/residents-of-the-historic-norwegian-village-of-la-rdalsa-yri-are-evacuated-due-to-a-fire-that-has-destroyed-at-least-10-homes.md)
-_Context: Laerdalsoyri, Norway_
+_Context: Norway, Laerdalsoyri_
 
 ##### Hungary
 ### [Voters in Hungary will go to the polls for a parliamentary election on April 6. ](/news/2014/01/19/voters-in-hungary-will-go-to-the-polls-for-a-parliamentary-election-on-april-6.md)
-_Context: Hungary, parliamentary election_
+_Context: parliamentary election, Hungary_
 
 ##### Sheikh Mohammed Bin Rashid Al Maktoum
 ### [Sheikh Mohammed Bin Rashid Al Maktoum, Prime Minister and Vice President of the United Arab Emirates announces mandatory military service for males aged 18-30. ](/news/2014/01/19/sheikh-mohammed-bin-rashid-al-maktoum-prime-minister-and-vice-president-of-the-united-arab-emirates-announces-mandatory-military-service-fo.md)

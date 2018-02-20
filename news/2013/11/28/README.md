@@ -33,7 +33,7 @@ At least 30 people are killed in a blast at a weapons depot in southern Libya am
 
 ##### Vietnam
 ### [Vietnam passes a new Constitution that reaffirms the dominant position of the Communist Party. ](/news/2013/11/28/vietnam-passes-a-new-constitution-that-reaffirms-the-dominant-position-of-the-communist-party.md)
-_Context: Constitution, Vietnam, Communist Party_
+_Context: Vietnam, Communist Party, Constitution_
 
 ##### Itzcoatl Ocampo
 ### [Former United States Marine Itzcoatl Ocampo commits suicide by eating Ajax while awaiting trial for six murders from 2011 and 2012. ](/news/2013/11/28/former-united-states-marine-itzcoatl-ocampo-commits-suicide-by-eating-ajax-while-awaiting-trial-for-six-murders-from-2011-and-2012.md)
@@ -45,7 +45,7 @@ Thai Prime Minister Yingluck Shinawatra urges anti-government demonstrators to e
 
 ##### Chinese
 ### [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth "see Jade rabbit") and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-planne.md)
-_Context: Xichang Satellite Launch Center, Chinese, Jade rabbit_
+_Context: Chinese, Xichang Satellite Launch Center, Jade rabbit_
 
 ## [Previous Day...](/news/2013/11/27/index.md)
 

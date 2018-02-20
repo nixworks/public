@@ -57,11 +57,11 @@ A look at the vote and its implications as Iranians move to select a new Parliam
 
 ##### Irish general election, 2016
 ### [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md)
-_Context: Irish, Fine Gael, Enda Kenny, Irish general election, 2016, Labour Party_
+_Context: Fine Gael, Enda Kenny, Irish, Irish general election, 2016, Labour Party_
 
 ##### Hashim Thaci
 ### [Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. ](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.md)
-_Context: Hashim Thaci, President, Parliament_
+_Context: President, Hashim Thaci, Parliament_
 
 ##### United States Air Force
 ### [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association's annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-associationas-annual-air-warfar.md)

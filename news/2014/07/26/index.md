@@ -21,7 +21,7 @@ _Context: Samaritan's Purse_
 
 ##### Turkey
 ### [Turkey's state run Anadolu Agency reports that twenty police officers have been charged with illegal wiretaps of officials including the Prime Minister of Turkey Recep Tayyip Erdogan. Another 49 are awaiting questioning. ](/news/2014/07/26/turkey-s-state-run-anadolu-agency-reports-that-twenty-police-officers-have-been-charged-with-illegal-wiretaps-of-officials-including-the-pri.md)
-_Context: Anadolu Agency, Recep Tayyip Erdogan, Turkish Prime Minister, Turkey, wiretap_
+_Context: Turkey, Anadolu Agency, Turkish Prime Minister, wiretap, Recep Tayyip Erdogan_
 
 ##### Pedro Sanchez
 ### [Pedro Sanchez Perez-Castejon is elected Secretary-General of the Spanish Socialist Workers' Party by an extraordinary congress, following the party's first-ever primary elections, and thereby becomes leader of the Spanish opposition. ](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.md)

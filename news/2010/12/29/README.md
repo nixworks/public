@@ -9,7 +9,7 @@ _Context: South Thailand insurgency, Thailand_
 
 ##### Nigerian Sharia conflict
 ### [Nigerian Sharia conflict: Three people are killed by Islamist group Boko Haram in northeastern Nigeria, in the latest in a number of attacks. ](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.md)
-_Context: Nigerian Sharia conflict, Islamist, Boko Haram, Nigeria_
+_Context: Boko Haram, Nigeria, Nigerian Sharia conflict, Islamist_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". ](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.md)
@@ -25,11 +25,11 @@ The number of Iraqi civilians killed in violence in Iraq this year fell to its l
 
 ##### Protests
 ### [2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. ](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.md)
-_Context: Zine El Abidine Ben Ali, protests, Tunisia, President_
+_Context: President, Tunisia, protests, Zine El Abidine Ben Ali_
 
 ##### Minimum wage
 ### [The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. ](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.md)
-_Context: minimum wage, Beijing, China_
+_Context: Beijing, minimum wage, China_
 
 ##### Vietnam
 ### [12 Vietnamese sailors are missing after a cargo ship sinks in the South China Sea. 11 other crew were rescued. ](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.md)
@@ -49,15 +49,15 @@ A letter published by a group of rabbis in Israel has sparked calls for their di
 
 ##### United States
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
+_Context: United States, visa-free travel, Bernardo Alvarez Herrera_
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
-_Context: Cote d'Ivoire, Africa, President, Laurent Gbagbo_
+_Context: Cote d'Ivoire, Laurent Gbagbo, Africa, President_
 
 ##### Thailand
 ### [Seven Thais, including a MP, are arrested after illegally crossing the border into Cambodia. ](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.md)
-_Context: Thailand, MP, Cambodia_
+_Context: MP, Cambodia, Thailand_
 
 ##### Cuba
 ### [Cuba commutes the last remaining death sentence on the island. ](/news/2010/12/29/cuba-commutes-the-last-remaining-death-sentence-on-the-island.md)
@@ -65,11 +65,11 @@ Havana, Dec 29 (DPA) Cubas only death row inmate will not receive capital punish
 
 ##### Angola
 ### [A court in Angola sentences Joao Antonio Puati to 24 years imprisonment after convicting him in relation to the Togo national football team attack last January. ](/news/2010/12/29/a-court-in-angola-sentences-joao-antonio-puati-to-24-years-imprisonment-after-convicting-him-in-relation-to-the-togo-national-football-team.md)
-_Context: Angola, Togo national football team attack_
+_Context: Togo national football team attack, Angola_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos announces the death of Pedro Guerrero, one of the country's most wanted men who was killed in a gunbattle with police while he celebrated Christmas. ](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.md)
-_Context: Pedro Guerrero, Christmas, Colombian President, Juan Manuel Santos_
+_Context: Pedro Guerrero, Juan Manuel Santos, Christmas, Colombian President_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected president by residents of the Comoros Islands. ](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.md)
@@ -77,7 +77,7 @@ The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruli
 
 ##### Government
 ### [The Chinese government sets out new measures to tackle corruption. ](/news/2010/12/29/the-chinese-government-sets-out-new-measures-to-tackle-corruption.md)
-_Context: government, corruption_
+_Context: corruption, government_
 
 ## [Previous Day...](/news/2010/12/28/index.md)
 

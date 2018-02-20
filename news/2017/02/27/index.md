@@ -13,11 +13,11 @@ _Context: Communist rebellion in the Philippines, Communist_
 
 ##### Syrian Civil War
 ### [The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-capturing-territory-fro.md)
-_Context: Syrian Democratic Forces, ISIL, Manbij, al-Bab, Tiger Forces, Syrian Civil War_
+_Context: Syrian Civil War, Manbij, Tiger Forces, Syrian Democratic Forces, al-Bab, ISIL_
 
 ##### War in Afghanistan (2015-present)
 ### [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md)
-_Context: Taliban, Afghan Interior Ministry, United States, War in Afghanistan (2015-present), Kunduz Province_
+_Context: Taliban, United States, Afghan Interior Ministry, War in Afghanistan (2015-present), Kunduz Province_
 
 ##### War in Somalia (2009-present)
 ### [A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md)

@@ -21,15 +21,15 @@ _Context: Islam, Philippines_
 
 ##### Afghan President
 ### [ Former Afghan President Burhanuddin Rabbani survives an ambush by the Taliban in the Ali Abad District of Kunduz province, Afghanistan. ](/news/2009/08/13/former-afghan-president-burhanuddin-rabbani-survives-an-ambush-by-the-taliban-in-the-ali-abad-district-of-kunduz-province-afghanistan.md)
-_Context: Kunduz province, ambush, Ali Abad District, Burhanuddin Rabbani, Taliban, Afghan President, Afghan_
+_Context: Afghan President, Taliban, Burhanuddin Rabbani, Kunduz province, ambush, Ali Abad District, Afghan_
 
 ##### Guinea
 ### [ Supporters of Guinea's self-declared President, Captain Moussa Dadis Camara, form a movement, Dadis Must Stay, to call for him to be allowed to continue in office. ](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.md)
-_Context: President, Moussa Dadis Camara, Dadis Must Stay, Guinea_
+_Context: Moussa Dadis Camara, President, Dadis Must Stay, Guinea_
 
 ##### France
 ### [ The French and German economies rebound, helping push the Eurozone to the brink of economic recovery in the second quarter, delivering a further signal that the worst of the global crisis may be coming to an end in Europe. ](/news/2009/08/13/the-french-and-german-economies-rebound-helping-push-the-eurozone-to-the-brink-of-economic-recovery-in-the-second-quarter-delivering-a-fu.md)
-_Context: France, German, global crisis, Eurozone, Europe_
+_Context: France, Europe, Eurozone, German, global crisis_
 
 ##### European Union
 ### [ The European Union will extend its sanctions on Burma to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi. ](/news/2009/08/13/the-european-union-will-extend-its-sanctions-on-burma-to-cover-members-of-the-judiciary-responsible-for-the-verdict-in-the-trial-of-opposit.md)

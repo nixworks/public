@@ -9,19 +9,19 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bhutan
 ### [ Bhutan bans smoking in public places ](/news/2005/02/23/bhutan-bans-smoking-in-public-places.md)
-_Context: smokers, Bhutan_
+_Context: Bhutan, smokers_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, Tamil Tigers warn that the truce with the government is under threat after the killing of one of their leaders, E Kaushalyan. The ceasefire has lasted for four years. ](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.md)
-_Context: ceasefire, E Kaushalyan, Tamil Tigers, Sri Lanka_
+_Context: E Kaushalyan, ceasefire, Sri Lanka, Tamil Tigers_
 
 ##### Pakistan
 ### [ Pakistan's supreme court refuses a government request to withdraw a corruption case against minister Faisal Saleh Hayat. ](/news/2005/02/23/pakistan-s-supreme-court-refuses-a-government-request-to-withdraw-a-corruption-case-against-minister-faisal-saleh-hayat.md)
-_Context: anti-corruption, supreme court, Faisal Saleh Hayat, Pakistan_
+_Context: Faisal Saleh Hayat, supreme court, Pakistan, anti-corruption_
 
 ##### Rasim Delic
 ### [ Rasim Delic, former commander of the Bosnian army in Bosnia during the Yugoslav Wars, announces he will hand himself over to the UN Tribunal. He stands accused of war crimes against ethnic Serbs ](/news/2005/02/23/rasim-delia-former-commander-of-the-bosnian-army-in-bosnia-during-the-yugoslav-wars-announces-he-will-hand-himself-over-to-the-un-tribun.md)
-_Context: Serb, war crime, International Criminal Tribunal for the Former Yugoslavia, Rasim Delic, Yugoslav Wars, Bosnia and Herzegovina_
+_Context: war crime, Yugoslav Wars, International Criminal Tribunal for the Former Yugoslavia, Serb, Bosnia and Herzegovina, Rasim Delic_
 
 ##### Italy
 ### [ In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted ](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-satan-rock-group-is-sentenced-to-30-years-in-prison-for-three-murders-another-member-piet.md)

@@ -29,11 +29,11 @@ _Context: Guizhou, Fuquan_
 
 ##### 2014 West Africa Ebola virus outbreak
 ### [The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/the-first-case-of-ebola-virus-is-reported-in-senegal.md)
-_Context: Ebola virus, 2014 West Africa Ebola virus outbreak, Senegal_
+_Context: Ebola virus, Senegal, 2014 West Africa Ebola virus outbreak_
 
 ##### United Kingdom
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: United Kingdom, terror threat level, Iraq, Syria_
+_Context: Syria, Iraq, United Kingdom, terror threat level_
 
 ## [Previous Day...](/news/2014/08/28/index.md)
 

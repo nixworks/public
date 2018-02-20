@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/30/in-fort-george-g-meade-maryland-base-perimeter-
 
 ### [2015-03-30](/news/2015/03/30/index.md)
 
-##### Fort Meade, Maryland
+##### Fort Meade
 # In Fort George G. Meade, Maryland, base perimeter guards shoot and kill one person and injure another person as two men attempt to crash the entrance gate with their vehicle. The incident also injures a guard. The base is the headquarters for the National Security Agency. 
 
 Officials say two men dressed as women tried to break through a security gate to the National Security Agency headquarters.

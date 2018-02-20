@@ -5,23 +5,23 @@ Formats: [HTML](2009/03/23/index.html)  [JSON](2009/03/23/index.json)  [XML](200
 
 ##### Car bomb
 ### [ A car bomb is located and defused near a shopping mall in Haifa, Israel. ](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.md)
-_Context: Israel, Haifa, car bomb, bomb squad, shopping mall_
+_Context: Israel, bomb squad, Haifa, car bomb, shopping mall_
 
 ##### Suicide attack
 ### [ Two suicide attacks in Iraq kill at least 22 people and injure more than 50 others. ](/news/2009/03/23/two-suicide-attacks-in-iraq-kill-at-least-22-people-and-injure-more-than-50-others.md)
-_Context: suicide attack, Iraq_
+_Context: Iraq, suicide attack_
 
 ##### Alaska
 ### [ Alaska's Mount Redoubt volcano erupts four more times. ](/news/2009/03/23/alaska-s-mount-redoubt-volcano-erupts-four-more-times.md)
-_Context: volcano, Mount Redoubt, Alaska_
+_Context: Mount Redoubt, Alaska, volcano_
 
 ##### United States
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
-_Context: United States, United States Treasury Department, high-yield debt, Banking in the United States, 4th quarter of 2007 and the second quarter of 2009_
+_Context: 4th quarter of 2007 and the second quarter of 2009, high-yield debt, Banking in the United States, United States Treasury Department, United States_
 
 ##### Gjorge Ivanov
 ### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmroadpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
-_Context: Gjorge Ivanov, presidential, Republic of Macedonia, election, second round, VMRO-DPMNE_
+_Context: Republic of Macedonia, second round, VMRO-DPMNE, Gjorge Ivanov, presidential, election_
 
 ##### FedEx
 ### [ FedEx Express Flight 80 crashes at Narita International Airport in Tokyo, Japan, killing both pilots. ](/news/2009/03/23/fedex-express-flight-80-crashes-at-narita-international-airport-in-tokyo-japan-killing-both-pilots.md)
@@ -29,7 +29,7 @@ Wind shear may have caused the crash of a FedEx jet that cartwheeled on the runw
 
 ##### Suicide attack
 ### [ A suicide attack kills one person and injures three others in Islamabad, Pakistan. ](/news/2009/03/23/a-suicide-attack-kills-one-person-and-injures-three-others-in-islamabad-pakistan.md)
-_Context: Islamabad, suicide attack, Pakistan_
+_Context: Pakistan, Islamabad, suicide attack_
 
 ##### Japan
 ### [ A Japanese cargo ship escapes Somali pirates in the Gulf of Aden. ](/news/2009/03/23/a-japanese-cargo-ship-escapes-somali-pirates-in-the-gulf-of-aden.md)

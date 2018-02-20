@@ -29,7 +29,7 @@ Two members of ruling Al-Sabah family were arrested after writing tweets sympath
 
 ##### Central African Republic
 ### [The president of the Central African Republic Francois Bozize orders the detention of his son after he refuses to pay a hotel bill. ](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.md)
-_Context: Central African Republic, Francois Bozize_
+_Context: Francois Bozize, Central African Republic_
 
 ##### George Entwistle
 ### [George Entwistle steps down as Director-General of the BBC following the "Newsnight" child abuse broadcast row. ](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.md)
@@ -41,7 +41,7 @@ George Entwistle quits after he admits a Newsnight report has caused a crisis of
 
 ##### U.S. President
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: Florida, Barack Obama, Mitt Romney, Electoral College, presidential election, U.S. President_
+_Context: Electoral College, presidential election, Barack Obama, Mitt Romney, Florida, U.S. President_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

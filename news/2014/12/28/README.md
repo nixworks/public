@@ -21,7 +21,7 @@ Rescue workers are battling to airlift passengers off a burning ferry adrift in 
 
 ##### Italy
 ### [Two merchant ships collide in rough seas off the Italian Adriatic coast, leaving at least one person dead and two missing. ](/news/2014/12/28/two-merchant-ships-collide-in-rough-seas-off-the-italian-adriatic-coast-leaving-at-least-one-person-dead-and-two-missing.md)
-_Context: Adriatic coast, Italy_
+_Context: Italy, Adriatic coast_
 
 ##### Sri Lanka
 ### [Floods and mudslides in Sri Lanka kill at least twenty-four people and leave eight missing. ](/news/2014/12/28/floods-and-mudslides-in-sri-lanka-kill-at-least-twenty-four-people-and-leave-eight-missing.md)

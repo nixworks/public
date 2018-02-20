@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United Nations
 ### [ United Nations warns that about 90 million Africans could be infected by HIV in the future without further action against the spread of the disease. See AIDS in Africa. ](/news/2005/03/4/united-nations-warns-that-about-90-million-africans-could-be-infected-by-hiv-in-the-future-without-further-action-against-the-spread-of-the.md)
-_Context: United Nations, AIDS in Africa, Africa, HIV_
+_Context: Africa, United Nations, HIV, AIDS in Africa_
 
 ##### India
 ### [ President of India, APJ Kalam meets Syed Sibte Razi, governor of the northern state Jharkhand after opposition protests. Despite the hung elections in the assembly, the governor has appointed Jharkhand Mukti Morcha party member Shibu Soren as a chief minister. JMM is part of a political alliance backed by the Congress Party ](/news/2005/03/4/president-of-india-apj-kalam-meets-syed-sibte-razi-governor-of-the-northern-state-jharkhand-after-opposition-protests-despite-the-hung-e.md)
@@ -21,7 +21,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bombay Stock Exchange
 ### [ The BSE Sensex breaches the 6,800-mark for the first time in its history, ending at 6,849, up 65 points over its previous close. The market rally has added about 160 billion Indian rupees (approx. 3.6 billion US$) to investor wealth with the BSE's market capitalisation at a record high of 17.65 trillion Indian rupees (approx. 400 billion US$). ](/news/2005/03/4/the-bse-sensex-breaches-the-6-800-mark-for-the-first-time-in-its-history-ending-at-6-849-up-65-points-over-its-previous-close-the-market.md)
-_Context: rupee, Sensex, market capitalisation, Bombay Stock Exchange_
+_Context: Sensex, rupee, Bombay Stock Exchange, market capitalisation_
 
 ##### President's rule
 ### [ President's rule is imposed in Goa and the Goa assembly is placed under suspended animation. ](/news/2005/03/4/president-s-rule-is-imposed-in-goa-and-the-goa-assembly-is-placed-under-suspended-animation.md)

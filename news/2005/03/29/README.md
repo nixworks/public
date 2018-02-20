@@ -9,23 +9,23 @@ _Context: Neil Young, neuroradiological_
 
 ##### Spam
 ### [ The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. ](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.md)
-_Context: Scott Richter, Microsoft, Denver, lawsuit, bankruptcy, spam_
+_Context: spam, lawsuit, Scott Richter, Microsoft, Denver, bankruptcy_
 
 ##### MGM Studios v. Grokster
 ### [ "MGM Studios v. Grokster", an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-suprem.md)
-_Context: MGM Studios v. Grokster, file sharing, lawsuit, peer-to-peer, United States Supreme Court_
+_Context: lawsuit, MGM Studios v. Grokster, United States Supreme Court, peer-to-peer, file sharing_
 
 ##### Lord
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
-_Context: High Representative, Bosnia and Herzegovina, anti-corruption, presidency, Croat, Paddy Ashdown, Lord, Dragan Covic_
+_Context: presidency, Paddy Ashdown, Bosnia and Herzegovina, anti-corruption, Croat, Dragan Covic, Lord, High Representative_
 
 ##### Romania
 ### [ Three Romanian journalists are kidnapped in Iraq, the latest in a long series of kidnappings for money or political reasons in the country. ](/news/2005/03/29/three-romanian-journalists-are-kidnapped-in-iraq-the-latest-in-a-long-series-of-kidnappings-for-money-or-political-reasons-in-the-country.md)
-_Context: kidnapping, journalist, Romania, Iraq_
+_Context: Iraq, Romania, journalist, kidnapping_
 
 ##### Death toll
 ### [ Death toll of Marburg virus in Angola rises to 122. UNICEF support a campaign to stop the spread of the disease ](/news/2005/03/29/death-toll-of-marburg-virus-in-angola-rises-to-122-unicef-support-a-campaign-to-stop-the-spread-of-the-disease.md)
-_Context: Marburg virus, UNICEF, Angola, Death toll_
+_Context: Death toll, Angola, UNICEF, Marburg virus_
 
 ##### Supreme Council
 ### [ New Supreme Council of Kyrgyzstan installs Kurmanbek Bakiyev as the official interim President of Kyrgyzstan, ](/news/2005/03/29/new-supreme-council-of-kyrgyzstan-installs-kurmanbek-bakiyev-as-the-official-interim-president-of-kyrgyzstan.md)
@@ -37,11 +37,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### United States
 ### [ In the United States, Douglas S. Smith Jr, a former top official of Boy Scouts of America, is charged with possession of child pornography. ](/news/2005/03/29/in-the-united-states-douglas-s-smith-jr-a-former-top-official-of-boy-scouts-of-america-is-charged-with-possession-of-child-pornography.md)
-_Context: child pornography, United States, Douglas S. Smith Jr, Boy Scouts of America_
+_Context: Boy Scouts of America, United States, Douglas S. Smith Jr, child pornography_
 
 ##### Uganda
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)
-_Context: Domestic Relations Bill, Uganda, Kampala, Muslim, polygamy_
+_Context: Kampala, Uganda, Muslim, Domestic Relations Bill, polygamy_
 
 ##### France
 ### [ France intends to change law that allows girls to marry at the age of 15 ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
@@ -61,15 +61,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Spain
 ### [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md)
-_Context: warships, Venezuela, Spain, Jose Luis Rodriguez Zapatero, Hugo Chavez, Mariano Rajoy_
+_Context: Hugo Chavez, Mariano Rajoy, Jose Luis Rodriguez Zapatero, Venezuela, Spain, warships_
 
 ##### Mongolia
 ### [ Political activists in Mongolia demonstrate in Ulan Bator for new elections. ](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.md)
-_Context: Mongolia, Ulan Bator_
+_Context: Ulan Bator, Mongolia_
 
 ##### Kenya
 ### [ Kenya recalls 70 diplomats from its embassies due to cash shortage; none of them are ambassadors. ](/news/2005/03/29/kenya-recalls-70-diplomats-from-its-embassies-due-to-cash-shortage-none-of-them-are-ambassadors.md)
-_Context: diplomat, Kenya, embassies, ambassador_
+_Context: embassies, Kenya, ambassador, diplomat_
 
 ## [Previous Day...](/news/2005/03/28/index.md)
 

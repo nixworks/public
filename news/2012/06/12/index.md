@@ -25,7 +25,7 @@ Elinor Ostrom, the first and only woman to win the Nobel Prize in economics, die
 
 ##### Tokyo
 ### [Tokyo passes Luanda as the world's most expensive city to live in, according to new research. ](/news/2012/06/12/tokyo-passes-luanda-as-the-world-s-most-expensive-city-to-live-in-according-to-new-research.md)
-_Context: Luanda, Tokyo_
+_Context: Tokyo, Luanda_
 
 ##### Flash flood
 ### [Heavy rain causes flash floods in Taiwan and the death of four people in landslides leading to the evacuation of 3,000 people. ](/news/2012/06/12/heavy-rain-causes-flash-floods-in-taiwan-and-the-death-of-four-people-in-landslides-leading-to-the-evacuation-of-3-000-people.md)
@@ -37,7 +37,7 @@ Six flood warnings and 42 flood alerts remain in place across London and the sou
 
 ##### Israel
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
-_Context: Armenian genocide, Israel, Mediterranean Sea, Gaza flotilla raid, international waters, Turkey_
+_Context: Turkey, international waters, Mediterranean Sea, Armenian genocide, Israel, Gaza flotilla raid_
 
 ##### NME
 ### [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md)

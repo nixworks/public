@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/14/index.html)  [JSON](2017/11/14/index.json)  [XML](201
 
 ##### 2017 Zimbabwean coup d'etat
 ### [Soldiers directing traffic and at least six APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party has accused the general of treason. ](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-att.md)
-_Context: APCs, 2017 Zimbabwean coup d'etat, treason, Constantino Chiwenga, Harare, ZANU-PF_
+_Context: Harare, ZANU-PF, 2017 Zimbabwean coup d'etat, treason, Constantino Chiwenga, APCs_
 
 ##### 2017 Iran-Iraq earthquake
 ### [Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. ](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.md)
@@ -13,7 +13,7 @@ _Context: 2017 Iran-Iraq earthquake_
 
 ##### Seminole Heights serial killer
 ### [Police in Florida link a fourth unsolved murder to an unknown serial killer targeting the Seminole Heights area of Tampa, Florida. ](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.md)
-_Context: Seminole Heights, Seminole Heights serial killer, Florida, serial killer, Tampa, Florida_
+_Context: Seminole Heights serial killer, serial killer, Seminole Heights, Florida, Tampa, Florida_
 
 ##### Rancho Tehama Reserve shootings
 ### [Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. ](/news/2017/11/14/five-people-including-the-gunman-are-killed-and-several-others-injured-following-a-shooting-at-an-elementary-school-and-other-locations-on.md)

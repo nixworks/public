@@ -9,7 +9,7 @@ Somali journalists refuse to obey the editorial orders of an Islamist group whic
 
 ##### Victor Julio Suarez Rojas
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
-_Context: FARC, Colombian Armed Forces, Victor Julio Suarez Rojas, nom de guerre_
+_Context: Victor Julio Suarez Rojas, Colombian Armed Forces, FARC, nom de guerre_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md)
@@ -21,7 +21,7 @@ At least six people die after a cassiterite mine collapsed in Burundi, 120km (75
 
 ##### Chinese
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: Typhoon Fanapi, Chinese_
+_Context: Chinese, Typhoon Fanapi_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
@@ -41,15 +41,15 @@ France wants to contact the al-Qaeda group which abducted five of its citizens i
 
 ##### Iran
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)
-_Context: IAEA, Iran_
+_Context: Iran, IAEA_
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: United States, United Nations General Assembly, Spain, Australia, 9/11 attacks, Sweden, Mahmoud Ahmadinejad, Israel, United Kingdom, President, United States government, Belgium, Uruguay_
+_Context: Belgium, United States government, United Nations General Assembly, Israel, United States, United Kingdom, Spain, Mahmoud Ahmadinejad, Australia, Sweden, President, Uruguay, 9/11 attacks_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: Wen Jiabao, yuan, Barack Obama, Premier of the People's Republic of China, U.S. President_
+_Context: yuan, U.S. President, Wen Jiabao, Barack Obama, Premier of the People's Republic of China_
 
 ##### China
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
@@ -61,15 +61,15 @@ _Context: Teresa Lewis, U.S, Virginia_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: New York, Afghan, Pakistan, Aafia Siddiqui, United States_
+_Context: Afghan, Aafia Siddiqui, United States, Pakistan, New York_
 
 ##### North Korea
 ### [North Korea reshuffles senior officials days ahead of a meeting of the Korean Workers' Party expected to lead to a transition of power from Kim Jong-il to his son Kim Jong-un. ](/news/2010/09/23/north-korea-reshuffles-senior-officials-days-ahead-of-a-meeting-of-the-korean-workers-party-expected-to-lead-to-a-transition-of-power-from.md)
-_Context: Kim Jong-un, Korean Workers' Party, Kim Jong-il, North Korea_
+_Context: North Korea, Kim Jong-il, Kim Jong-un, Korean Workers' Party_
 
 ##### Guinea
 ### [The election commission in Guinea proposes 10 October as a revised date for the presidential run-off election. ](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.md)
-_Context: Guinea, November's presidential poll_
+_Context: November's presidential poll, Guinea_
 
 ##### Cambodia
 ### [Cambodian opposition leader Sam Rainsy is sentenced "in absentia" to 10 years' imprisonment for altering maps to show that Vietnam was encroaching on Cambodian territory. ](/news/2010/09/23/cambodian-opposition-leader-sam-rainsy-is-sentenced-in-absentia-to-10-years-imprisonment-for-altering-maps-to-show-that-vietnam-was-encro.md)

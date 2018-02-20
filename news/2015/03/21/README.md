@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/21/index.html)  [JSON](2015/03/21/index.json)  [XML](201
 
 ##### Yemeni crisis
 ### [The United States military evacuates the remaining 100 Special Operations forces members in the country due to the deteriorating security situation. ](/news/2015/03/21/the-united-states-military-evacuates-the-remaining-100-special-operations-forces-members-in-the-country-due-to-the-deteriorating-security-si.md)
-_Context: special forces, United States military personnel, Yemeni crisis_
+_Context: United States military personnel, Yemeni crisis, special forces_
 
 ##### 2014-15 Australian region cyclone season
 ### [Residents living on the east coast of the Northern Territory prepare for the second tropical cyclone to hit the area in a month as Tropical Cyclone Nathan is likely to make landfall tomorrow morning. ](/news/2015/03/21/residents-living-on-the-east-coast-of-the-northern-territory-prepare-for-the-second-tropical-cyclone-to-hit-the-area-in-a-month-as-tropical.md)

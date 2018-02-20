@@ -9,7 +9,7 @@ Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town
 
 ##### War in Somalia (2009-present)
 ### [A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md)
-_Context: Lower Shabelle, Somali military, War in Somalia (2009-present), Al-Shabaab_
+_Context: War in Somalia (2009-present), Lower Shabelle, Somali military, Al-Shabaab_
 
 ##### Brexit
 ### [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md)
@@ -49,7 +49,7 @@ Philippine leader Rodrigo Duterte on Tuesday told U.S. President Barack Obama to
 
 ##### Bohmermann affair
 ### [German prosecutors drop a case against comedian Jan Bohmermann, who had been indicted for a satirical poem about Turkish president Recep Tayyip Erdogan. ](/news/2016/10/4/german-prosecutors-drop-a-case-against-comedian-jan-baphmermann-who-had-been-indicted-for-a-satirical-poem-about-turkish-president-recep-ta.md)
-_Context: Bohmermann affair, Jan Bohmermann, Recep Tayyip Erdogan_
+_Context: Recep Tayyip Erdogan, Bohmermann affair, Jan Bohmermann_
 
 ##### Wells Fargo
 ### [The scandal over improper practices of unauthorized accounts at Wells Fargo extends to thousands of small-business owners. ](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.md)
@@ -69,7 +69,7 @@ Juan Manuel Santos will meet presidential predecessors to discuss peace with the
 
 ##### Manx general election, 2016
 ### [The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes ](/news/2016/10/4/the-house-of-keys-elects-howard-quayle-chief-minister-of-the-isle-of-man-with-a-majority-of-21-votes.md)
-_Context: Howard Quayle, Manx general election, 2016, Chief Minister of the Isle of Man, House of Keys_
+_Context: Howard Quayle, Chief Minister of the Isle of Man, House of Keys, Manx general election, 2016_
 
 ##### Curacao
 ### [The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-october-5.md)

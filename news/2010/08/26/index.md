@@ -5,7 +5,7 @@ Formats: [HTML](2010/08/26/index.html)  [JSON](2010/08/26/index.json)  [XML](201
 
 ##### German
 ### [German HIV-positive pop singer Nadja Benaissa is found guilty of grievous bodily harm after transmitting HIV to a man who had unprotected sex with her without her telling him of her condition. ](/news/2010/08/26/german-hiv-positive-pop-singer-nadja-benaissa-is-found-guilty-of-grievous-bodily-harm-after-transmitting-hiv-to-a-man-who-had-unprotected-se.md)
-_Context: German, grievous bodily harm, HIV, Nadja Benaissa, pop singer, HIV-positive, unprotected sex_
+_Context: German, unprotected sex, HIV-positive, HIV, grievous bodily harm, Nadja Benaissa, pop singer_
 
 ##### South Africa
 ### [Mass protests by civil servants in South Africa continue, demanding improved pay and benefits. ](/news/2010/08/26/mass-protests-by-civil-servants-in-south-africa-continue-demanding-improved-pay-and-benefits.md)
@@ -21,15 +21,15 @@ The Pakistan Taliban is planning to kidnap foreign aid workers delivering assist
 
 ##### South Korea
 ### [South Korea offers emergency aid to North Korea for floods. ](/news/2010/08/26/south-korea-offers-emergency-aid-to-north-korea-for-floods.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### United States Food and Drug Administration
 ### [The United States Food and Drug Administration finds that feed given to hens at Wright County Egg and Hillandale Farm led to a salmonella outbreak in eggs. ](/news/2010/08/26/the-united-states-food-and-drug-administration-finds-that-feed-given-to-hens-at-wright-county-egg-and-hillandale-farm-led-to-a-salmonella-ou.md)
-_Context: salmonella outbreak, egg, Wright County Egg, United States Food and Drug Administration_
+_Context: egg, United States Food and Drug Administration, salmonella outbreak, Wright County Egg_
 
 ##### IAEA
 ### [Former International Atomic Energy Agency director Olli Heinonen claims that Iran has stockpiled enough low-enriched uranium for one to two nuclear bombs. ](/news/2010/08/26/former-international-atomic-energy-agency-director-olli-heinonen-claims-that-iran-has-stockpiled-enough-low-enriched-uranium-for-one-to-two.md)
-_Context: IAEA, Olli Heinonen, Iran_
+_Context: Iran, IAEA, Olli Heinonen_
 
 ##### Israel
 ### [Israel asks Germany to arrest Klaas Carel Faber, a Nazi war criminal who killed 20 Jews at Westerbork concentration camp. ](/news/2010/08/26/israel-asks-germany-to-arrest-klaas-carel-faber-a-nazi-war-criminal-who-killed-20-jews-at-westerbork-concentration-camp.md)
@@ -37,7 +37,7 @@ Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concen
 
 ##### The New York Times
 ### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
-_Context: Karzai administration,  graft, Afghan, Mohammed Zia Salehi, CIA, United States, The New York Times_
+_Context: The New York Times, Afghan, Mohammed Zia Salehi, Karzai administration, CIA,  graft, United States_
 
 ##### Ahmad Vahidi
 ### [Ahmad Vahidi, Iran's Minister of Defense, offers military assistance to Lebanon following a request from Hezbollah. ](/news/2010/08/26/ahmad-vahidi-iran-s-minister-of-defense-offers-military-assistance-to-lebanon-following-a-request-from-hezbollah.md)
@@ -49,11 +49,11 @@ South Korean media quotes officials suspecting Kim Jong-Il has travelled to neig
 
 ##### Russia
 ### [Russian police arrest activists from Amnesty International and remove volunteers from Greenpeace Russia and the ONE Campaign at a U2 concert in Moscow. ](/news/2010/08/26/russian-police-arrest-activists-from-amnesty-international-and-remove-volunteers-from-greenpeace-russia-and-the-one-campaign-at-a-u2-concert.md)
-_Context: Amnesty International, Moscow, ONE Campaign, Greenpeace India's, U2, Russia_
+_Context: Amnesty International, U2, Moscow, Greenpeace India's, Russia, ONE Campaign_
 
 ##### Independent counsel
 ### [An independent counsel finds that the Governor of New York David Paterson gave misleading evidence about intending to pay for free tickets that he obtained to last year's baseball world series and refers the issue to the Albany District Attorney for possible prosecution for perjury. ](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.md)
-_Context: baseball world series, David Paterson, perjury, District Attorney, Albany, independent counsel, New York Governor_
+_Context: independent counsel, District Attorney, David Paterson, New York Governor, Albany, perjury, baseball world series_
 
 ##### Mexico
 ### [Mexico asks its Latin American neighbours to help identify the 72 people found murdered in Tamaulipas. ](/news/2010/08/26/mexico-asks-its-latin-american-neighbours-to-help-identify-the-72-people-found-murdered-in-tamaulipas.md)
@@ -61,7 +61,7 @@ Mexico sought help Thursday from Latin American nations to identify 72 presumed 
 
 ##### Solomon Islands
 ### [Solomon Islands MP Steve Laore dies, reducing newly elected Prime Minister Danny Philip's parliamentary majority to just one. ](/news/2010/08/26/solomon-islands-mp-steve-laore-dies-reducing-newly-elected-prime-minister-danny-philip-s-parliamentary-majority-to-just-one.md)
-_Context: Prime Minister, Danny Philip, MP, Steve Laore, Solomon Islands_
+_Context: Solomon Islands, MP, Prime Minister, Steve Laore, Danny Philip_
 
 ##### Democratic Party
 ### [Democratic Party of Japan powerbroker Ichiro Ozawa announces a leadership challenge to the Prime Minister of Japan Naoto Kan with a ballot to be held on September 14. ](/news/2010/08/26/democratic-party-of-japan-powerbroker-ichira-ozawa-announces-a-leadership-challenge-to-the-prime-minister-of-japan-naoto-kan-with-a-ballot.md)
@@ -69,7 +69,7 @@ REUTERS - Japanese ruling Democratic Party powerbroker Ichiro Ozawa, dubbed the 
 
 ##### Argillite
 ### [Heavy rains wash red argillite sediment from old sedimentary rock into a river at Waterton Lakes National Park in Alberta, causing Cameron Falls to turn red. ](/news/2010/08/26/heavy-rains-wash-red-argillite-sediment-from-old-sedimentary-rock-into-a-river-at-waterton-lakes-national-park-in-alberta-causing-cameron-f.md)
-_Context: sediment, Alberta, sedimentary rock, argillite, Waterton Lakes National Park, Cameron Falls_
+_Context: Waterton Lakes National Park, sediment, Alberta, Cameron Falls, sedimentary rock, argillite_
 
 ## [Previous Day...](/news/2010/08/25/index.md)
 

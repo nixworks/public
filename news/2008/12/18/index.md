@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/18/index.html)  [JSON](2008/12/18/index.json)  [XML](200
 
 ##### India
 ### [ India successfully test-fires supersonic cruise missile BrahMos for the first time from a mobile universal vertical launcher fitted on a naval warship in the Bay of Bengal. ](/news/2008/12/18/india-successfully-test-fires-supersonic-cruise-missile-brahmos-for-the-first-time-from-a-mobile-universal-vertical-launcher-fitted-on-a-na.md)
-_Context: supersonic, BrahMos, cruise missile, Indian Navy, Bay of Bengal, India, mobile universal vertical launcher_
+_Context: Bay of Bengal, BrahMos, cruise missile, mobile universal vertical launcher, India, Indian Navy, supersonic_
 
 ##### International Criminal Tribunal for Rwanda
 ### [ The International Criminal Tribunal for Rwanda finds Thoneste Bagosora guilty of genocide, crimes against humanity and war crimes and sentences him to life imprisonment. ](/news/2008/12/18/the-international-criminal-tribunal-for-rwanda-finds-theoneste-bagosora-guilty-of-genocide-crimes-against-humanity-and-war-crimes-and-sent.md)

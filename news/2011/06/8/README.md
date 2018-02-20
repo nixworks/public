@@ -9,7 +9,7 @@ POWERFUL explosions have again rocked the area around the residence of Libyan le
 
 ##### South Korea
 ### [South Korea's Yonhap News agency reports that North Korea has test-fired a KN-06 missile. ](/news/2011/06/8/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-test-fired-a-kn-06-missile.md)
-_Context: North Korea, Yonhap News, KN-06, South Korea_
+_Context: South Korea, KN-06, Yonhap News, North Korea_
 
 ##### Syrian
 ### [Syrian residents from the town of Jisr al-Shugur flee from a threatened reprisal from the government of President Bashar al-Assad. ](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.md)
@@ -33,11 +33,11 @@ Testing on beansprouts grown at a Lower Saxony farm is still proving to be incon
 
 ##### Hurricane
 ### [Hurricane Adrian becomes the first hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/8/hurricane-adrian-becomes-the-first-hurricane-of-the-2011-pacific-hurricane-season.md)
-_Context: Hurricane, Hurricane Jova_
+_Context: Hurricane Jova, Hurricane_
 
 ##### Eagar
 ### [Residents in the US towns of Eagar and Springerville, Arizona are ordered to fully evacuate ahead of the Wallow Fire. ](/news/2011/06/8/residents-in-the-us-towns-of-eagar-and-springerville-arizona-are-ordered-to-fully-evacuate-ahead-of-the-wallow-fire.md)
-_Context: Eagar, Wallow Fire, Arizona, Springerville_
+_Context: Wallow Fire, Arizona, Eagar, Springerville_
 
 ##### Missouri River
 ### [260 miles (420 km) of the Missouri River are closed to boaters as residents of the US states of Iowa, Nebraska and Missouri continue to prepare for heavy flooding, with rain in Montana making the situation worse. ](/news/2011/06/8/260-miles-420-km-of-the-missouri-river-are-closed-to-boaters-as-residents-of-the-us-states-of-iowa-nebraska-and-missouri-continue-to-prep.md)
@@ -49,19 +49,19 @@ _Context: China, Floods_
 
 ##### Australia
 ### [Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. ](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.md)
-_Context: Australia, cattle, abattoir, Indonesia_
+_Context: Indonesia, cattle, Australia, abattoir_
 
 ##### United Kingdom
 ### [The United Kingdom and France prepare a draft United Nations Security Council resolution on the 2011 Syrian uprising. ](/news/2011/06/8/the-united-kingdom-and-france-prepare-a-draft-united-nations-security-council-resolution-on-the-2011-syrian-uprising.md)
-_Context: France, United Nations Security Council resolution, United Nations Security Council, 2011 Syrian uprising, United Kingdom_
+_Context: 2011 Syrian uprising, United Nations Security Council, France, United Nations Security Council resolution, United Kingdom_
 
 ##### New York City
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
-_Context: conflict between the two countries, Morocco, UN, Western Sahara, New York City_
+_Context: New York City, UN, Morocco, conflict between the two countries, Western Sahara_
 
 ##### India
 ### [Indian social activist Anna Hazare begins a second hunger strike against corruption. ](/news/2011/06/8/indian-social-activist-anna-hazare-begins-a-second-hunger-strike-against-corruption.md)
-_Context: Anna Hazare, India_
+_Context: India, Anna Hazare_
 
 ##### The coalition
 ### [The British government has indicated it is rethinking its controversial proposal to offer 50% sentence cuts to criminals in England and Wales who enter early guilty pleas. ](/news/2011/06/8/the-british-government-has-indicated-it-is-rethinking-its-controversial-proposal-to-offer-50-sentence-cuts-to-criminals-in-england-and-wale.md)
@@ -73,7 +73,7 @@ The Internet has been rolling along for decades on the strength of IPv4 and its 
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency successfully launches a Soyuz TMA-02M carrying a Russian, American and Japanese astronaut towards the International Space Station. ](/news/2011/06/8/the-russian-federal-space-agency-successfully-launches-a-soyuz-tma-02m-carrying-a-russian-american-and-japanese-astronaut-towards-the-inter.md)
-_Context: Japanese, Russian, United States, Russian Federal Space Agency, Soyuz TMA-02M, International Space Station_
+_Context: Japanese, Russian Federal Space Agency, United States, International Space Station, Russian, Soyuz TMA-02M_
 
 ## [Previous Day...](/news/2011/06/7/index.md)
 

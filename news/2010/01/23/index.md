@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/23/index.html)  [JSON](2010/01/23/index.json)  [XML](201
 
 ##### Haiti
 ### [The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/the-haitian-government-declares-earthquake-rescue-operations-over.md)
-_Context: rescue operations, Haiti, 2010 Haiti earthquake, Government of Haiti_
+_Context: rescue operations, Government of Haiti, 2010 Haiti earthquake, Haiti_
 
 ##### United States
 ### [U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md)
-_Context: Joe Biden, United States, Iraq, U.S. Vice President, political leader, elections_
+_Context: Iraq, political leader, elections, U.S. Vice President, Joe Biden, United States_
 
 ##### Venezuela
 ### [Thousands of protesters demonstrate in Venezuela for and against the polices of President Hugo Chavez amid a currency revaluation and energy shortages in the country. ](/news/2010/01/23/thousands-of-protesters-demonstrate-in-venezuela-for-and-against-the-polices-of-president-hugo-cha-vez-amid-a-currency-revaluation-and-energ.md)
@@ -17,7 +17,7 @@ Thousands of Venezuelans marched for and against President Hugo Chavez on Saturd
 
 ##### Landslide
 ### [Eight people are killed and 13 missing after flash floods and landslides hit Sulawesi, Indonesia. ](/news/2010/01/23/eight-people-are-killed-and-13-missing-after-flash-floods-and-landslides-hit-sulawesi-indonesia.md)
-_Context: Indonesia, Sulawesi island, landslide_
+_Context: landslide, Indonesia, Sulawesi island_
 
 ##### Bodies
 ### [Between 100 and 150 bodies are found stuffed in wells in the village of Kuru following religious clashes in Jos, Nigeria. ](/news/2010/01/23/between-100-and-150-bodies-are-found-stuffed-in-wells-in-the-village-of-kuru-following-religious-clashes-in-jos-nigeria.md)
@@ -29,23 +29,23 @@ A passenger train came off the rails in northeastern Iran Saturday, killing at l
 
 ##### Japan
 ### [Japanese prosecutors question Representative Ichiro Ozawa over an alleged party funding scandal. ](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.md)
-_Context: Japan, prosecutor, Democratic Party, funding, Ichiro Ozawa, House of Representatives_
+_Context: prosecutor, Japan, funding, Ichiro Ozawa, House of Representatives, Democratic Party_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union condemns a U.S. Justice Department report that suggested 47 Guantanamo Bay detainees should be held indefinitely without trial. ](/news/2010/01/23/the-american-civil-liberties-union-condemns-a-u-s-justice-department-report-that-suggested-47-guanta-namo-bay-detainees-should-be-held-inde.md)
-_Context: Guantanamo Bay, indefinitely without trial, American Civil Liberties Union, United States, detainees, United States Justice Department_
+_Context: United States, indefinitely without trial, United States Justice Department, American Civil Liberties Union, Guantanamo Bay, detainees_
 
 ##### Jim McCormick
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)
-_Context: ADE 651, Jim McCormick, United Kingdom, bomb detectors, fraud_
+_Context: ADE 651, United Kingdom, bomb detectors, fraud, Jim McCormick_
 
 ##### United States
 ### [A new assessment by the U.S. Geological Survey says Venezuela may hold double the oil reserves of Saudi Arabia. ](/news/2010/01/23/a-new-assessment-by-the-u-s-geological-survey-says-venezuela-may-hold-double-the-oil-reserves-of-saudi-arabia.md)
-_Context: United States, oil reserve, Venezuela, United States Geological Survey, Saudi Arabia_
+_Context: United States Geological Survey, oil reserve, United States, Venezuela, Saudi Arabia_
 
 ##### Thai Society
 ### [Former Thai Prime Minister Thaksin Shinawatra leaves Cambodia on the eve of anti-government protests in Thailand. ](/news/2010/01/23/former-thai-prime-minister-thaksin-shinawatra-leaves-cambodia-on-the-eve-of-anti-government-protests-in-thailand.md)
-_Context: Cambodia, Prime Minister, Thai Society, Thaksin Shinawatra, Thailand_
+_Context: Thai Society, Thaksin Shinawatra, Thailand, Prime Minister, Cambodia_
 
 ##### California
 ### [A strong weather system leaves damage in the U.S. states of California and Arizona after producing flooding rains, strong winds, and a rare outbreak of tornadoes in the region. ](/news/2010/01/23/a-strong-weather-system-leaves-damage-in-the-u-s-states-of-california-and-arizona-after-producing-flooding-rains-strong-winds-and-a-rare.md)
@@ -53,7 +53,7 @@ With forecasters saying tornadoes are a possibility Thursday, some are wondering
 
 ##### Prorogation
 ### [Canadians take to the streets to protest the prorogation of the 40th Canadian Parliament. ](/news/2010/01/23/canadians-take-to-the-streets-to-protest-the-prorogation-of-the-40th-canadian-parliament.md)
-_Context: prorogation, 40th Canadian Parliament_
+_Context: 40th Canadian Parliament, prorogation_
 
 ## [Previous Day...](/news/2010/01/22/index.md)
 

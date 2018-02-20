@@ -13,7 +13,7 @@ A suicide bomber driving anambulance killed 12 people and wounded more than 50 i
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. ](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in-afghanistan-s-paktika-province.md)
-_Context: suicide bomber, Afghan, Paktika Province_
+_Context: Paktika Province, Afghan, suicide bomber_
 
 ##### Boeing Company
 ### [China and the United States sign a $45 billion export deal, including 200 Boeing airplanes. ](/news/2011/01/19/china-and-the-united-states-sign-a-45-billion-export-deal-including-200-boeing-airplanes.md)
@@ -33,11 +33,11 @@ _Context: smoking, American Samoa_
 
 ##### Hu Jintao
 ### [President Hu Jintao of China is welcomed at an official ceremony at the White House by U.S. President Barack Obama. ](/news/2011/01/19/president-hu-jintao-of-china-is-welcomed-at-an-official-ceremony-at-the-white-house-by-u-s-president-barack-obama.md)
-_Context: Hu Jintao, official ceremony, White House, Barack Obama_
+_Context: Barack Obama, Hu Jintao, White House, official ceremony_
 
 ##### Palestine
 ### [Palestine calls for the "immediate, full lifting of the Israeli blockade" and "the sustained opening of Gaza's border crossings for the movement of persons and goods." during a debate at the UN Security Council.](/news/2011/01/19/palestine-calls-for-the-immediate-full-lifting-of-the-israeli-blockade-and-the-sustained-opening-of-gaza-s-border-crossings-for-the-move.md)
-_Context: UN Security Council, Palestine, Israeli blockade_
+_Context: Israeli blockade, Palestine, UN Security Council_
 
 ##### Rudolf Elmer
 ### [Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-breaching-switz.md)
@@ -49,11 +49,11 @@ _Context: Haiti, Jean-Claude Duvalier_
 
 ##### South Africa
 ### [Two attempts in South Africa to arrest former Israeli foreign minister Tzipi Livni for alleged war crimes during the war on Gaza are rejected. ](/news/2011/01/19/two-attempts-in-south-africa-to-arrest-former-israeli-foreign-minister-tzipi-livni-for-alleged-war-crimes-during-the-war-on-gaza-are-rejecte.md)
-_Context: South Africa, war crime, Tzipi Livni, 2008-2009 Gaza War, Israel_
+_Context: 2008-2009 Gaza War, South Africa, war crime, Tzipi Livni, Israel_
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi gives a ten-minute television address vowing to punish those investigating him in relation to claims he purchased an under-age prostitute. ](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
+_Context: Silvio Berlusconi, prostitute, Italian Prime Minister_
 
 ##### Terry Jones
 ### [The British Home Office says that American pastor Terry Jones is excluded from the UK for the public good. ](/news/2011/01/19/the-british-home-office-says-that-american-pastor-terry-jones-is-excluded-from-the-uk-for-the-public-good.md)
@@ -61,7 +61,7 @@ Controversial US pastor Terry Jones, who last year threatened a Koran-burning pr
 
 ##### U.S. state
 ### [Prosecutors in the U.S. state of Pennsylvania charge a Philadelphia illegal abortionist with eight counts of murder for killing a patient and seven live born babies. ](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.md)
-_Context: Pennsylvania, Philadelphia, Pennsylvania, abortion, U.S. state_
+_Context: Philadelphia, Pennsylvania, Pennsylvania, U.S. state, abortion_
 
 ##### United States
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
@@ -69,7 +69,7 @@ A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on char
 
 ##### Nguyen Phu Trong
 ### [Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. ](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.md)
-_Context: Nong Duc Manh, Vietnam, Communist Party, Nguyen Phu Trong, elected_
+_Context: elected, Vietnam, Nguyen Phu Trong, Communist Party, Nong Duc Manh_
 
 ##### Afghan parliament
 ### [The opening of the Afghan parliament is delayed by a month amid allegations of fraud in the parliamentary election. ](/news/2011/01/19/the-opening-of-the-afghan-parliament-is-delayed-by-a-month-amid-allegations-of-fraud-in-the-parliamentary-election.md)

@@ -9,11 +9,11 @@ _Context: Edmonton Oilers, ice hockey, Carolina Hurricanes, Stanley Cup_
 
 ##### Kathleen Blanco
 ### [ Kathleen Blanco, the Governor of the U.S. state of Louisiana, calls in the Louisiana National Guard to patrol the streets of New Orleans following six deaths on the preceding weekend. ](/news/2006/06/19/kathleen-blanco-the-governor-of-the-u-s-state-of-louisiana-calls-in-the-louisiana-national-guard-to-patrol-the-streets-of-new-orleans-fo.md)
-_Context: Louisiana National Guard, Governor of Louisiana, Louisiana, New Orleans, Kathleen Blanco, U.S. state_
+_Context: Louisiana, Kathleen Blanco, U.S. state, Louisiana National Guard, New Orleans, Governor of Louisiana_
 
 ##### United States soldier
 ### [ The United States Army charges three soldiers of the 101st Airborne Division 3rd Brigade Combat Team with murder in relation to the deaths of three men in custody in Iraq. ](/news/2006/06/19/the-united-states-army-charges-three-soldiers-of-the-101st-airborne-division-3rd-brigade-combat-team-with-murder-in-relation-to-the-deaths.md)
-_Context: United States soldier, 101st Airborne Division, Iraq_
+_Context: Iraq, United States soldier, 101st Airborne Division_
 
 ##### Mujahideen Shura Council
 ### [ The Mujahedeen Shura Council in Iraq claims that they have captured two United States soldiers. ](/news/2006/06/19/the-mujahedeen-shura-council-in-iraq-claims-that-they-have-captured-two-united-states-soldiers.md)
@@ -21,11 +21,11 @@ An Iraqi militant group claimed Monday that it abducted two U.S. soldiers in an 
 
 ##### Iraq
 ### [ Iraqi prosecutors in the Trials of Saddam Hussein call for Saddam Hussein to be sentenced to death, together with his half brother Barzan al-Tikriti and former vice-president Taha Yassin Ramadan. ](/news/2006/06/19/iraqi-prosecutors-in-the-trials-of-saddam-hussein-call-for-saddam-hussein-to-be-sentenced-to-death-together-with-his-half-brother-barzan-a.md)
-_Context: Trials of Saddam Hussein, Saddam Hussein, Iraq, Taha Yassin Ramadan, Barzan al-Tikriti_
+_Context: Saddam Hussein, Barzan al-Tikriti, Trials of Saddam Hussein, Taha Yassin Ramadan, Iraq_
 
 ##### North Korea
 ### [ North Korea is said to be readying for long-range missile test of Taepadong-2 missile thought to have a range which includes the western USA coastline. ](/news/2006/06/19/north-korea-is-said-to-be-readying-for-long-range-missile-test-of-taepadong-2-missile-thought-to-have-a-range-which-includes-the-western-us.md)
-_Context: Taepadong-2, North Korea_
+_Context: North Korea, Taepadong-2_
 
 ## [Previous Day...](/news/2006/06/18/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2007/11/13/index.html)  [JSON](2007/11/13/index.json)  [XML](200
 
 ##### Fossil
 ### [ The fossil of a new prehistoric great ape species, named "Nakalipithecus nakayamai", is discovered in Kenya. ](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-species-named-nakalipithecus-nakayamai-is-discovered-in-kenya.md)
-_Context: prehistoric, Kenya, fossil, Nakalipithecus nakayamai, great ape_
+_Context: Kenya, great ape, prehistoric, Nakalipithecus nakayamai, fossil_
 
 ##### Turkey
 ### [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md)
-_Context: helicopter, Kurdistan Workers Party, Iraq, Turkey_
+_Context: helicopter, Turkey, Kurdistan Workers Party, Iraq_
 
 ##### Cameroon
 ### [ 21 Cameroonian soldiers are killed by unknown attackers in the Bakassi peninsula. ](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.md)
@@ -17,7 +17,7 @@ _Context: Bakassi, Cameroon_
 
 ##### Russia
 ### [ Russian President Vladimir Putin said that an overwhelming victory for United Russia in the legislative elections would give him the "moral right" to maintain a strong influence in the country. ](/news/2007/11/13/russian-president-vladimir-putin-said-that-an-overwhelming-victory-for-united-russia-in-the-legislative-elections-would-give-him-the-moral.md)
-_Context: United Russia, Vladimir Putin, Russia, parliamentary elections_
+_Context: Vladimir Putin, parliamentary elections, United Russia, Russia_
 
 ##### France
 ### [ In France, rail workers and Paris Mtro personnel go on strike in the first wave of public-sector strikes. ](/news/2007/11/13/in-france-rail-workers-and-paris-metro-personnel-go-on-strike-in-the-first-wave-of-public-sector-strikes.md)
@@ -25,23 +25,23 @@ French commuters dusted off old bikes and aired their walking shoes on Tuesday i
 
 ##### Explosion
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
-_Context: Quezon City, explosion, Philippines, Philippine lower House, Congressman, Wahab Akbar_
+_Context: Wahab Akbar, explosion, Congressman, Philippines, Quezon City, Philippine lower House_
 
 ##### Strait of Kerch
 ### [ Clean-up operations continue in the Strait of Kerch after the oil spill disaster. Ten ships have sunk, 2,000 tons of fuel oil and 6,000 tons of sulphur have been spilled, three sailors have died and about 20 are missing. ](/news/2007/11/13/clean-up-operations-continue-in-the-strait-of-kerch-after-the-oil-spill-disaster-ten-ships-have-sunk-2-000-tons-of-fuel-oil-and-6-000-ton.md)
-_Context: fuel oil, tons, ship, sailor, sulphur, Strait of Kerch, environmental disaster, oil spill_
+_Context: tons, oil spill, environmental disaster, sulphur, sailor, ship, Strait of Kerch, fuel oil_
 
 ##### Hamas
 ### [ Hamas security forces arrest 400 Fatah supporters after a rally to commemorate Yasser Arafat's death ended in gunfire. ](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.md)
-_Context: Hamas, Fatah, Yasser Arafat_
+_Context: Yasser Arafat, Hamas, Fatah_
 
 ##### President
 ### [ The President of Israel, Shimon Peres, meets the President of Turkey, Abdullah Gl, in Ankara, and he will also address the Grand National Assembly of Turkey. ](/news/2007/11/13/the-president-of-israel-shimon-peres-meets-the-president-of-turkey-abdullah-gul-in-ankara-and-he-will-also-address-the-grand-national.md)
-_Context: Ankara, President, Turkish Parliament, Abdullah Gl, President of Turkey, Shimon Peres_
+_Context: President of Turkey, Ankara, President, Abdullah Gl, Turkish Parliament, Shimon Peres_
 
 ##### Denmark
 ### [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md)
-_Context: Voters, Denmark, Anders Fogh Rasmussen, early parliamentary elections, Prime Minister of Denmark_
+_Context: Prime Minister of Denmark, Voters, Anders Fogh Rasmussen, Denmark, early parliamentary elections_
 
 ##### 2007 Pakistani state of emergency
 ### [ 2007 Pakistani state of emergency: Backed by hundreds of police officers, the Pakistani government again placed former Prime Minister Benazir Bhutto under house arrest to prevent a protest against President Pervez Musharraf. ](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.md)

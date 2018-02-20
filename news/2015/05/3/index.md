@@ -17,7 +17,7 @@ The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with 
 
 ##### Afghan
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
-_Context: Badghis Province, Afghan_
+_Context: Afghan, Badghis Province_
 
 ##### Italy
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
@@ -37,7 +37,7 @@ _Context: Madison, Wisconsin, discrimination against atheists_
 
 ##### 2016 U.S. election
 ### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
-_Context: neurosurgeon, Ben Carson, Detroit, Republican, Florida, 2016 U.S. election_
+_Context: Florida, neurosurgeon, Republican, 2016 U.S. election, Ben Carson, Detroit_
 
 ##### Nagorno-Karabakh parliamentary election, 2015
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)

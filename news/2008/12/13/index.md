@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/13/index.html)  [JSON](2008/12/13/index.json)  [XML](200
 
 ##### China
 ### [ Leaders from China, Japan, and South Korea meet on the island of Kyushu to discuss a response to the financial crisis. ](/news/2008/12/13/leaders-from-china-japan-and-south-korea-meet-on-the-island-of-kya-sha-to-discuss-a-response-to-the-financial-crisis.md)
-_Context: financial crisis, Kyushu, Japan, China, South Korea_
+_Context: Kyushu, China, Japan, financial crisis, South Korea_
 
 ##### Pakistan Air Force
 ### [ The Pakistan Air Force claims Indian fighter aircraft violated Pakistani airspace before being forced to turn back. ](/news/2008/12/13/the-pakistan-air-force-claims-indian-fighter-aircraft-violated-pakistani-airspace-before-being-forced-to-turn-back.md)
-_Context: fighter aircraft, Pakistan, airspace, Pakistan Air Force, India_
+_Context: Pakistan, Pakistan Air Force, fighter aircraft, India, airspace_
 
 ## [Previous Day...](/news/2008/12/12/index.md)
 

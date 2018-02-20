@@ -29,7 +29,7 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 ##### Louisville, Kentucky
 ### [ In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. ](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.md)
-_Context: St. Matthews, Kentucky, Mall St. Matthews, shopping mall, Louisville, Kentucky_
+_Context: St. Matthews, Kentucky, Louisville, Kentucky, shopping mall, Mall St. Matthews_
 
 ## [Previous Day...](/news/2015/12/25/index.md)
 

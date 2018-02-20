@@ -9,11 +9,11 @@ Two separate attacks, within hours of each other, have wounded six Canadian sold
 
 ##### Second Dby administration
 ### [ The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. ](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.md)
-_Context: Janjaweed, UFDC, second Dby administration, Security Council, Chad_
+_Context: Security Council, second Dby administration, UFDC, Chad, Janjaweed_
 
 ##### South Africa
 ### [ In a press conference in South Africa, Sudanese President Omar al-Bashir says that United Nations peacekeeping forces shall never enter Sudan because they are controlled by an international Jewish conspiracy involving "heavy propaganda and media campaigns." ](/news/2006/06/21/in-a-press-conference-in-south-africa-sudanese-president-omar-al-bashir-says-that-united-nations-peacekeeping-forces-shall-never-enter-sud.md)
-_Context: United Nations, South Africa, Sudan, Sudanese President, Omar al-Bashir_
+_Context: Sudan, Sudanese President, United Nations, Omar al-Bashir, South Africa_
 
 ##### Marine
 ### [ The United States Marine Corps announces that it will be charging seven Marines and one sailor with charges including murder in relation to the death of civilian Hashim Ibrahim Awad in Al Hamdaniya, Iraq, on April 26. A fourth soldier from the 101st Airborne Division was charged in connection with the shooting deaths of three detainees during an operation in Salahuddin province in May. ](/news/2006/06/21/the-united-states-marine-corps-announces-that-it-will-be-charging-seven-marines-and-one-sailor-with-charges-including-murder-in-relation-to.md)
@@ -25,15 +25,15 @@ _Context: Xanana GusmGBPo, President, East Timor, Mari Alkatiri, Prime Minister 
 
 ##### Saddam Hussein
 ### [ Saddam Hussein's principal defense lawyer, Khamis al-Obeidi, is assassinated in Baghdad. ](/news/2006/06/21/saddam-hussein-s-principal-defense-lawyer-khamis-al-obeidi-is-assassinated-in-baghdad.md)
-_Context: assassination, one, Saddam Hussein, Baghdad_
+_Context: Baghdad, one, assassination, Saddam Hussein_
 
 ##### Ukraine
 ### [ Ukraine's formerly estranged Orange Revolution allies reach an agreement to restore Yulia Tymoshenko as Prime Minister of Ukraine after three months of uncertainty. ](/news/2006/06/21/ukraine-s-formerly-estranged-orange-revolution-allies-reach-an-agreement-to-restore-yulia-tymoshenko-as-prime-minister-of-ukraine-after-thr.md)
-_Context: Yulia Tymoshenko, Ukraine, Prime Minister of Ukraine, Orange Revolution_
+_Context: Yulia Tymoshenko, Orange Revolution, Prime Minister of Ukraine, Ukraine_
 
 ##### Katharine Jefferts Schori
 ### [ Katharine Jefferts Schori, the Episcopal bishop of Nevada, and the new leader of the Episcopal Church in the United States of America has said that homosexuality is not a sin. ](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.md)
-_Context: Katharine Jefferts Schori, Nevada, sin, homosexuality, United States Episcopal Church_
+_Context: Nevada, Katharine Jefferts Schori, United States Episcopal Church, sin, homosexuality_
 
 ## [Previous Day...](/news/2006/06/20/index.md)
 

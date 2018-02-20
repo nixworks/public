@@ -21,11 +21,11 @@ At least three people have died and a number are wounded in two explosions in th
 
 ##### The mudslides
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
-_Context: Afghan, the mudslides_
+_Context: the mudslides, Afghan_
 
 ##### Middle East respiratory syndrome
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)
-_Context: Munster, Indiana, Saudi Arabia, Middle East respiratory syndrome_
+_Context: Middle East respiratory syndrome, Saudi Arabia, Munster, Indiana_
 
 ##### Jonesboro, Arkansas
 ### [A gunman shoots and kills 3 people and wounds 4 others in Jonesboro, Arkansas, U.S., and then dies. ](/news/2014/05/3/a-gunman-shoots-and-kills-3-people-and-wounds-4-others-in-jonesboro-arkansas-u-s-and-then-dies.md)

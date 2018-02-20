@@ -33,7 +33,7 @@ _Context: Gatlinburg, Tennessee, 2016 Southeastern United States wildfires_
 
 ##### Chinese
 ### [The bodies of 21 coal miners are retrieved from an unlicensed coal mine in the Chinese city of Qitaihe in the province of Heilongjiang. Four people have been arrested including the owner of the mine and three managers. ](/news/2016/12/2/the-bodies-of-21-coal-miners-are-retrieved-from-an-unlicensed-coal-mine-in-the-chinese-city-of-qitaihe-in-the-province-of-heilongjiang-four.md)
-_Context: Qitaihe, Heilongjiang, Chinese_
+_Context: Heilongjiang, Qitaihe, Chinese_
 
 ##### 2016 Oakland warehouse fire
 ### [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md)
@@ -57,7 +57,7 @@ _Context: Romania, Dolj County_
 
 ##### Muslim
 ### [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md)
-_Context: Basuki Tjahaja Purnama, gubernatorial, Indonesia, blasphemy, Jakarta, Muslim, Christian_
+_Context: blasphemy, Indonesia, gubernatorial, Jakarta, Christian, Basuki Tjahaja Purnama, Muslim_
 
 ##### Joko Widodo
 ### [Indonesian president Joko Widodo attends the main event of the rally, Friday mass prayer, easing the tension of protesters. ](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.md)

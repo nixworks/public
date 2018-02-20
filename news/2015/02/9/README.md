@@ -33,7 +33,7 @@ Canadian gold miner Tahoe Resources Inc (THO.TO) (TAHO.N) said on Monday it has 
 
 ##### Mountaineer
 ### [Mountaineers claim to have found in the Andes the wreckage of LAN Chile Flight 210 that disappeared in August 1961 killing 24 people on board including eight members and two coaches of the Club de Deportes Green Cross football team. ](/news/2015/02/9/mountaineers-claim-to-have-found-in-the-andes-the-wreckage-of-lan-chile-flight-210-that-disappeared-in-august-1961-killing-24-people-on-boar.md)
-_Context: Club de Deportes Green Cross, LAN Chile Flight 210, Mountaineer, Andes_
+_Context: Club de Deportes Green Cross, Mountaineer, LAN Chile Flight 210, Andes_
 
 ##### Boston
 ### [The U.S. city of Boston, Massachusetts, sets all-time records for amount of snow on the ground and amount of snow over 30-day and 40-day periods in 17 days. ](/news/2015/02/9/the-u-s-city-of-boston-massachusetts-sets-all-time-records-for-amount-of-snow-on-the-ground-and-amount-of-snow-over-30-day-and-40-day-per.md)

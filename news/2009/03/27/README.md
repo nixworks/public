@@ -13,7 +13,7 @@ All six people aboard a helicopter that crashed on a Turkish mountaintop have be
 
 ##### Flash flood
 ### [ A flash flood and the Situ Gintung dam's failure kill at least 58 people in Tangerang, Banten, Indonesia. ](/news/2009/03/27/a-flash-flood-and-the-situ-gintung-dam-s-failure-kill-at-least-58-people-in-tangerang-banten-indonesia.md)
-_Context: flash flood, Situ Gintung, dam, Indonesia, Banten, failure, Tangerang_
+_Context: failure, flash flood, dam, Tangerang, Indonesia, Banten, Situ Gintung_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 50 people and injures 100 others in Jamrud, Pakistan. ](/news/2009/03/27/a-suicide-attack-kills-at-least-50-people-and-injures-100-others-in-jamrud-pakistan.md)
@@ -29,15 +29,15 @@ _Context: officially submit a claim, Russia, Arctic, military force_
 
 ##### The Lancet
 ### [ "The Lancet" accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)
-_Context: argument against the use, science, The Lancet, Pope Benedict XVI, Pope, condom_
+_Context: argument against the use, Pope, Pope Benedict XVI, science, condom, The Lancet_
 
 ##### United Kingdom
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
-_Context: United Kingdom, 4th quarter of 2007 and the second quarter of 2009, first fiscal quarter, Economy of the United Kingdom_
+_Context: United Kingdom, Economy of the United Kingdom, first fiscal quarter, 4th quarter of 2007 and the second quarter of 2009_
 
 ##### Corsica
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
-_Context: Corsica, life in prison, murder, Claude Erignac, Prefect, Yvan Colonna, Corse-du-Sud, nationalist_
+_Context: Prefect, Corse-du-Sud, life in prison, Claude Erignac, nationalist, Corsica, Yvan Colonna, murder_
 
 ## [Previous Day...](/news/2009/03/26/index.md)
 

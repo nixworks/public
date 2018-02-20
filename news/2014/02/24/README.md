@@ -41,15 +41,15 @@ _Context: Roman Curia, Pope Francis_
 
 ##### Mt Gox
 ### [Mt Gox, an exchange of central importance in the history of the crypto currency bitcoin, closes down for an indefinite period under pressure from hackers. ](/news/2014/02/24/mt-gox-an-exchange-of-central-importance-in-the-history-of-the-crypto-currency-bitcoin-closes-down-for-an-indefinite-period-under-pressure.md)
-_Context: bitcoin, hackers, Mt Gox_
+_Context: Mt Gox, bitcoin, hackers_
 
 ##### Papua
 ### [The death toll in the Papua province of Indonesia reaches 11 people as torrential rain continues to form floods and landslides, occurring since Saturday. ](/news/2014/02/24/the-death-toll-in-the-papua-province-of-indonesia-reaches-11-people-as-torrential-rain-continues-to-form-floods-and-landslides-occurring-si.md)
-_Context: Indonesia, Papua_
+_Context: Papua, Indonesia_
 
 ##### Vietnam
 ### [At least seven mourners are killed and 37 are injured as a bridge collapses as they are transporting a coffin in Vietnam's Lai Chau Province. ](/news/2014/02/24/at-least-seven-mourners-are-killed-and-37-are-injured-as-a-bridge-collapses-as-they-are-transporting-a-coffin-in-vietnam-s-lai-chau-province.md)
-_Context: Vietnam, Lai Chau Province_
+_Context: Lai Chau Province, Vietnam_
 
 ##### Oheka Castle
 ### [Gary Melius, owner of Oheka Castle in Huntington, New York, the second largest private residence in the United States, is shot in the head in the castle parking lot. The gunman is still at large. ](/news/2014/02/24/gary-melius-owner-of-oheka-castle-in-huntington-new-york-the-second-largest-private-residence-in-the-united-states-is-shot-in-the-head-i.md)
@@ -61,15 +61,15 @@ _Context: Yingluck Shinawatra, Thailand_
 
 ##### Egypt
 ### [The government of Egypt resign "en masse", allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
-_Context: Abdel Fattah al-Sisi, Egypt_
+_Context: Egypt, Abdel Fattah al-Sisi_
 
 ##### U.S. military
 ### [The Pentagon announces plans to reduce the size of the United States Army to pre-World War II levels. ](/news/2014/02/24/the-pentagon-announces-plans-to-reduce-the-size-of-the-united-states-army-to-pre-world-war-ii-levels.md)
-_Context: U.S. military, United States soldier, World War II_
+_Context: United States soldier, World War II, U.S. military_
 
 ##### Russia
 ### [In Russia, police arrested over 400 people in Manege Square hours after picking up some 200 people outside the court where the Bolotnaya square case defendants were being tried. ](/news/2014/02/24/in-russia-police-arrested-over-400-people-in-manege-square-hours-after-picking-up-some-200-people-outside-the-court-where-the-bolotnaya-squ.md)
-_Context: Manege Square, Russia, Bolotnaya square case_
+_Context: Bolotnaya square case, Manege Square, Russia_
 
 ##### California
 ### [Public health officials in the U.S. state of California are preparing a report of a polio-like disease whose cause is unknown. ](/news/2014/02/24/public-health-officials-in-the-u-s-state-of-california-are-preparing-a-report-of-a-polio-like-disease-whose-cause-is-unknown.md)
@@ -77,11 +77,11 @@ A small number of children in California have contracted polio-like illnesses si
 
 ##### Goblin spider
 ### [Two species of goblin spider are discovered by the Queensland Museum in Australia's Darling Downs region. ](/news/2014/02/24/two-species-of-goblin-spider-are-discovered-by-the-queensland-museum-in-australia-s-darling-downs-region.md)
-_Context: goblin spider, Queensland Museum, Darling Downs, Australia_
+_Context: Darling Downs, goblin spider, Queensland Museum, Australia_
 
 ##### Nokia
 ### [Nokia unveils Nokia X, an Android-based smartphone, at the Mobile World Congress in Barcelona. ](/news/2014/02/24/nokia-unveils-nokia-x-an-android-based-smartphone-at-the-mobile-world-congress-in-barcelona.md)
-_Context: Mobile World Congress, Android, Nokia, Nokia X, smartphone_
+_Context: Android, smartphone, Nokia, Nokia X, Mobile World Congress_
 
 ##### Western Australia
 ### [A 4.4-billion-year-old crystal from Western Australia has been confirmed as the oldest fragment of Earth's crust. ](/news/2014/02/24/a-4-4-billion-year-old-crystal-from-western-australia-has-been-confirmed-as-the-oldest-fragment-of-earth-s-crust.md)

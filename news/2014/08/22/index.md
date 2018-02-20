@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/22/index.html)  [JSON](2014/08/22/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md)
-_Context: Syria, Syrian Civil War, United Nations_
+_Context: United Nations, Syrian Civil War, Syria_
 
 ##### 2014 Israel-Gaza conflict
 ### [At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a-hamas-website-warns-that.md)
@@ -13,11 +13,11 @@ Witnesses said more than a dozen were killed in what was seen as a message to po
 
 ##### Eastern Ukraine
 ### [Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/russian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-us-the-eu-and-n.md)
-_Context: Eastern Ukraine, United Nations, European Union, NATO, Government of Ukraine_
+_Context: Eastern Ukraine, NATO, United Nations, European Union, Government of Ukraine_
 
 ##### Attack a Sunni mosque
 ### [A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyala-province-killing-at-least-65-peo.md)
-_Context: attack a Sunni mosque, Diyala Governorate_
+_Context: Diyala Governorate, attack a Sunni mosque_
 
 ##### Landslide
 ### [The death toll from landslides in Japan's Hiroshima prefecture rises to 39 with 26 missing. ](/news/2014/08/22/the-death-toll-from-landslides-in-japan-s-hiroshima-prefecture-rises-to-39-with-26-missing.md)

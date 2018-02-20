@@ -9,7 +9,7 @@ _Context: Darfur_
 
 ##### Suicide bomber
 ### [A suicide bomber injures at least 25 Tajikistan police officers with several missing following an attack on a regional headquarters at Khujand. ](/news/2010/09/3/a-suicide-bomber-injures-at-least-25-tajikistan-police-officers-with-several-missing-following-an-attack-on-a-regional-headquarters-at-khuja.md)
-_Context: Tajikistan, police, suicide bomber, Khujand_
+_Context: police, Khujand, Tajikistan, suicide bomber_
 
 ##### Taliban
 ### [A Taliban bomb attack on a Shiite solidarity rally with the Palestinian people kills at least 53 people in Quetta, Pakistan. ](/news/2010/09/3/a-taliban-bomb-attack-on-a-shiite-solidarity-rally-with-the-palestinian-people-kills-at-least-53-people-in-quetta-pakistan.md)
@@ -25,11 +25,11 @@ UPS plane went down in a ball of fire in military area between Emirates Road and
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts again. ](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.md)
-_Context: Indonesia, North Sumatra, Mount Sinabung_
+_Context: Mount Sinabung, Indonesia, North Sumatra_
 
 ##### New England
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: United States, Hurricane Earl, tropical storm, New England_
+_Context: tropical storm, Hurricane Earl, New England, United States_
 
 ##### Forest fire
 ### [Forest fires flare up in the southern Russian regions of Volgograd and Saratov, killing two people and burning down 500 buildings. ](/news/2010/09/3/forest-fires-flare-up-in-the-southern-russian-regions-of-volgograd-and-saratov-killing-two-people-and-burning-down-500-buildings.md)
@@ -61,11 +61,11 @@ _Context: Florida, Miami International Airport, United States_
 
 ##### President
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
-_Context: Manila hostage crisis, President, his predecessor_
+_Context: his predecessor, Manila hostage crisis, President_
 
 ##### Child abuse
 ### [Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. ](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-children-in-the-casa-pia-child-sex-abuse-trial-in-lisbon-portugal.md)
-_Context: Casa Pia, child sex abuse, child abuse, Portugal, Lisbon_
+_Context: Lisbon, Casa Pia, Portugal, child abuse, child sex abuse_
 
 ##### Iran
 ### [Pro-government crowds in Iran attack the home of opposition leader Mahdi Karroubi ahead of Al-Quds day protests. ](/news/2010/09/3/pro-government-crowds-in-iran-attack-the-home-of-opposition-leader-mahdi-karroubi-ahead-of-al-quds-day-protests.md)
@@ -77,11 +77,11 @@ An Australian Muslim cleric has reportedly called for the beheading of the Dutch
 
 ##### Royal Mail
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: United Kingdom, postage stamp, image recognition, Royal Mail_
+_Context: postage stamp, image recognition, Royal Mail, United Kingdom_
 
 ##### Cerebral cortex
 ### [A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with-m.md)
-_Context: cerebral cortex, mushroom bodies_
+_Context: mushroom bodies, cerebral cortex_
 
 ## [Previous Day...](/news/2010/09/2/index.md)
 

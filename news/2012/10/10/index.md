@@ -13,15 +13,15 @@ Turkish fighter jets force a Syrian passenger plane, suspected of carrying weapo
 
 ##### BAE Systems
 ### [BAE and EADS announce their merger talks are cancelled over political disagreements. ](/news/2012/10/10/bae-and-eads-announce-their-merger-talks-are-cancelled-over-political-disagreements.md)
-_Context: EADS, BAE Systems_
+_Context: BAE Systems, EADS_
 
 ##### Moscow
 ### [A court in Moscow, Russia, frees one of the three Pussy Riot members at an appeal hearing. ](/news/2012/10/10/a-court-in-moscow-russia-frees-one-of-the-three-pussy-riot-members-at-an-appeal-hearing.md)
-_Context: Moscow, Russia, Pussy Riot_
+_Context: Russia, Moscow, Pussy Riot_
 
 ##### John R. Allen
 ### [U.S. President Obama nominates general John R. Allen for the SACEUR function. General Joseph Dunford would succeed Allen as ISAF commander in Afghanistan. ](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.md)
-_Context: International Security Assistance Force, War in Afghanistan (2001-present), John R. Allen, SACEUR, Joseph F. Dunford, Jr._
+_Context: War in Afghanistan (2001-present), International Security Assistance Force, SACEUR, John R. Allen, Joseph F. Dunford, Jr._
 
 ##### American
 ### [Two American scientists, Robert Lefkowitz and Brian Kobilka, win the 2012 Nobel Prize in Chemistry for their work on discovering the inner workings of G protein-coupled receptors. ](/news/2012/10/10/two-american-scientists-robert-lefkowitz-and-brian-kobilka-win-the-2012-nobel-prize-in-chemistry-for-their-work-on-discovering-the-inner-w.md)

@@ -17,7 +17,7 @@ Lebanese soldiers in armoured vehicles fanned out across the country on Monday t
 
 ##### 2011-2012 conflict in Lebanon
 ### [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011a2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md)
-_Context: assassination of  Wissam al-Hassan, 2011-2012 conflict in Lebanon_
+_Context: 2011-2012 conflict in Lebanon, assassination of  Wissam al-Hassan_
 
 ##### South Africa
 ### [Police authorities in South Africa admit the shooting of 34 miners by police "may have been disproportionate" to the danger faced by those in charge. ](/news/2012/10/22/police-authorities-in-south-africa-admit-the-shooting-of-34-miners-by-police-may-have-been-disproportionate-to-the-danger-faced-by-those-i.md)
@@ -25,7 +25,7 @@ _Context: South Africa, the shooting of 34 miners_
 
 ##### Kindle
 ### [A Kindle user from Norway has her account wiped and all her paid-for books deleted by the American multinational electronic commerce company Amazon.com. ](/news/2012/10/22/a-kindle-user-from-norway-has-her-account-wiped-and-all-her-paid-for-books-deleted-by-the-american-multinational-electronic-commerce-company.md)
-_Context: Amazon.com, Norway, Kindle_
+_Context: Amazon.com, Kindle, Norway_
 
 ##### Goldman Sachs
 ### [A former Goldman Sachs employee blows the whistle on the investment bank having routinely taken advantage of charities and pension funds to increase its profits. ](/news/2012/10/22/a-former-goldman-sachs-employee-blows-the-whistle-on-the-investment-bank-having-routinely-taken-advantage-of-charities-and-pension-funds-to.md)
@@ -37,7 +37,7 @@ _Context: Ben Bernanke, Federal Reserve_
 
 ##### Royal Air Force
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)
-_Context: Royal Air Force, Afghan, drone_
+_Context: drone, Afghan, Royal Air Force_
 
 ##### France
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
@@ -49,7 +49,7 @@ _Context: 2009 L'Aquila earthquake_
 
 ##### Pussy Riot
 ### [Pussy Riot members Maria Alyokhina and Nadezhda Tolokonnikova are exiled to remote prison camps located in Perm and Mordovia, home to parts of the Soviet-era gulag system. Their exact locations are unknown, even to their lawyers and family members. They had petitioned to be held in Moscow which would have allowed them to watch their young children grow. ](/news/2012/10/22/pussy-riot-members-maria-alyokhina-and-nadezhda-tolokonnikova-are-exiled-to-remote-prison-camps-located-in-perm-and-mordovia-home-to-parts.md)
-_Context: Pussy Riot, gulag, Maria Alyokhina, Nadezhda Tolokonnikova, Perm, Mordovia_
+_Context: Perm, Mordovia, gulag, Maria Alyokhina, Pussy Riot, Nadezhda Tolokonnikova_
 
 ##### Peter Rippon
 ### [Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.md)

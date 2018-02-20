@@ -5,11 +5,11 @@ Formats: [HTML](2015/12/25/index.html)  [JSON](2015/12/25/index.json)  [XML](201
 
 ##### Russian military intervention
 ### [Zahran Alloush, founder of Islamist rebel group Jaysh al-Islam (army of Islam), the group's deputy leader, and other officials die in Russian airstrikes on a meeting east of Damascus, according to the Syrian Observatory for Human Rights. Jaysh al-Islam was one of the opposition groups at the December 10th conference that agreed on principles to guide peace talks, which both Bashar al-Assad and Russia rejected. ](/news/2015/12/25/zahran-alloush-founder-of-islamist-rebel-group-jaysh-al-islam-army-of-islam-the-group-s-deputy-leader-and-other-officials-die-in-russia.md)
-_Context: Russian military intervention, Russia, Syrian Observatory for Human Rights, Bashar al-Assad, Zahran Alloush, Jaysh al-Islam, December 10th conference, Islamists, Damascus_
+_Context: Jaysh al-Islam, Syrian Observatory for Human Rights, December 10th conference, Russia, Damascus, Zahran Alloush, Bashar al-Assad, Islamists, Russian military intervention_
 
 ##### Killer whale
 ### [With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares. In response, the company plans new pricing and attractions. ](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-at-its-san-antonio-texas-facility-and-the-recent-malfunction-of-the-sky-tower-ride-at-its-par.md)
-_Context: Sky Tower, Orlando, SeaWorld, Florida, Texas, killer whale, San Antonio_
+_Context: Florida, San Antonio, killer whale, Sky Tower, Texas, Orlando, SeaWorld_
 
 ##### December 2015 Hindu Kush earthquake
 ### [At least 17 people are injured in Peshawar, Pakistan, and five people are hurt in Afghanistan's Nangarhar Province after a 6.3-magnitude earthquake hit near the Afghanistan-Tajikistan border. The epicenter is in Afghanistan's quake-prone Ishkashim district, a mountainous area where mainly impoverished farmers live in homes made with mud, according to Peshawar District Officer Muhmand Asim Khan. Other details about damage or casualties are not presently available. ](/news/2015/12/25/at-least-17-people-are-injured-in-peshawar-pakistan-and-five-people-are-hurt-in-afghanistan-s-nangarhar-province-after-a-6-3-magnitude-ear.md)

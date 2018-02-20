@@ -5,7 +5,7 @@ Formats: [HTML](2003/04/1/index.html)  [JSON](2003/04/1/index.json)  [XML](2003/
 
 ##### POWs
 ### [ Prisoner of war United States Army Private Jessica Lynch is rescued by U.S. forces from Nasiriya, Iraq ](/news/2003/04/1/prisoner-of-war-united-states-army-private-jessica-lynch-is-rescued-by-u-s-forces-from-nasiriya-iraq.md)
-_Context: United States soldier, United States military, Nasiriya, Jessica Lynch, Iraq, Private, POWs_
+_Context: POWs, Private, United States military, United States soldier, Jessica Lynch, Iraq, Nasiriya_
 
 ## [Previous Day...](/news/2003/03/31/index.md)
 

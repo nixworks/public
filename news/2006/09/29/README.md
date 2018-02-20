@@ -17,19 +17,19 @@ Prosecutors could charge two American pilots of an executive jet with manslaught
 
 ##### Al Qaeda
 ### [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md)
-_Context: controversial speech, war on terror, U.S. President, George W. Bush, Pope Benedict XVI, Roman Catholic Church, Al Qaeda, Ayman al-Zawahiri_
+_Context: U.S. President, Pope Benedict XVI, controversial speech, Al Qaeda, George W. Bush, Roman Catholic Church, war on terror, Ayman al-Zawahiri_
 
 ##### Mark Foley
 ### [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md)
-_Context: page, Republican, e-mail, Mark Foley, United States House of Representatives, Florida_
+_Context: United States House of Representatives, Florida, e-mail, page, Mark Foley, Republican_
 
 ##### Soyuz TMA-8
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)
-_Context: steppe, Expedition 13, Soyuz TMA-8, Iranian-American, Anousheh Ansari, space tourist, Kazakhstan_
+_Context: Iranian-American, Anousheh Ansari, Kazakhstan, Expedition 13, Soyuz TMA-8, steppe, space tourist_
 
 ##### Typhoon Xangsane
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
-_Context: Philippines, Typhoon Xangsane_
+_Context: Typhoon Xangsane, Philippines_
 
 ##### Lenovo
 ### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk. ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)
@@ -37,7 +37,7 @@ _Context: Lenovo, Sony_
 
 ##### General strike
 ### [ A general strike is being observed in Indian-administered Kashmir to protest the planned execution of Jaish-e-Mohammed militant, Mohd Afzal, set for October 20. ](/news/2006/09/29/a-general-strike-is-being-observed-in-indian-administered-kashmir-to-protest-the-planned-execution-of-jaish-e-mohammed-militant-mohd-afzal.md)
-_Context: Jammu and Kashmir, Jaish-e-Mohammed, general strike_
+_Context: Jaish-e-Mohammed, Jammu and Kashmir, general strike_
 
 ##### Sri Lanka Monitoring Mission
 ### [ The Sri Lanka Monitoring Mission submits its report to the government and the LTTE rebels. The report accuses both sides of human-rights violations and breaking the terms of the cease-fire, citing over 200 civilians killed and over 200,000 displaced in the last two months. ](/news/2006/09/29/the-sri-lanka-monitoring-mission-submits-its-report-to-the-government-and-the-ltte-rebels-the-report-accuses-both-sides-of-human-rights-vi.md)

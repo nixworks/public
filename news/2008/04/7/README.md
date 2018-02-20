@@ -13,11 +13,11 @@ _Context: 2008 U.S. Division I men's college basketball championship, Kansas Jay
 
 ##### Washington Post
 ### [ The "Washington Post" wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-conditions.md)
-_Context: poor conditions for veterans, Washington Post, Walter Reed Army Medical Center, Pulitzer Prize_
+_Context: Pulitzer Prize, poor conditions for veterans, Washington Post, Walter Reed Army Medical Center_
 
 ##### 2008 Summer Olympics
 ### [ The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay-through-paris.md)
-_Context: 2008 Summer Olympics torch relay, Olympic torch, 2008 Summer Olympics, Paris_
+_Context: 2008 Summer Olympics, Paris, 2008 Summer Olympics torch relay, Olympic torch_
 
 ##### China and New Zealand
 ### [ China and New Zealand sign a free trade agreement. This is China's first trade agreement with a developed nation. ](/news/2008/04/7/china-and-new-zealand-sign-a-free-trade-agreement-this-is-china-s-first-trade-agreement-with-a-developed-nation.md)

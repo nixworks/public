@@ -25,7 +25,7 @@ Rescuers in Indonesia are trying to reach the site where a Trigana Airlines plan
 
 ##### U.S. Department of Energy
 ### [Experiments at the U.S. Department of Energy's SLAC National Accelerator Laboratory map brain signalling processes at an atomic level, in this case, the SNARE complex (neuronal SNAREs and synaptotagmin-1), which influences the control and release of neurotransmitters.](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.md)
-_Context: neurotransmitters, synaptotagmin, U.S. Department of Energy, SNARE, SLAC National Accelerator Laboratory_
+_Context: neurotransmitters, U.S. Department of Energy, SNARE, SLAC National Accelerator Laboratory, synaptotagmin_
 
 ##### South Korea
 ### [South Korea and the United States commence a joint military exercise despite threats from North Korea. ](/news/2015/08/17/south-korea-and-the-united-states-commence-a-joint-military-exercise-despite-threats-from-north-korea.md)
@@ -45,7 +45,7 @@ _Context: Internal Revenue Service_
 
 ##### Abdel Fattah el-Sisi
 ### [Egyptian President Abdel Fattah el-Sisi approves a controversial anti-terrorism law. Proponents say it will help fight terrorism, and opponents say the legislation will jeopardize civil rights including freedom of the press. ](/news/2015/08/17/egyptian-president-abdel-fattah-el-sisi-approves-a-controversial-anti-terrorism-law-proponents-say-it-will-help-fight-terrorism-and-oppone.md)
-_Context: Abdel Fattah el-Sisi, civil rights, freedom of the press_
+_Context: civil rights, freedom of the press, Abdel Fattah el-Sisi_
 
 ##### Second degree murder
 ### [Authorities charge a former police officer with second degree murder, in connection with the on-duty shooting death of John Geer in Fairfax, Virginia, U.S., in August 2013. ](/news/2015/08/17/authorities-charge-a-former-police-officer-with-second-degree-murder-in-connection-with-the-on-duty-shooting-death-of-john-geer-in-fairfax.md)

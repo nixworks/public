@@ -5,11 +5,11 @@ Formats: [HTML](2014/11/1/index.html)  [JSON](2014/11/1/index.json)  [XML](2014/
 
 ##### Al-Qaeda insurgency in Yemen
 ### [Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-western-yemen.md)
-_Context: Yemen, al-Qaeda, soldiers, al-Qaeda insurgency in Yemen, Al Hudaydah Governorate_
+_Context: soldiers, Al Hudaydah Governorate, Yemen, al-Qaeda, al-Qaeda insurgency in Yemen_
 
 ##### Kenyan police
 ### [Unidentified gunmen kill at least 20 police officers in an ambush in northwest Kenya. ](/news/2014/11/1/unidentified-gunmen-kill-at-least-20-police-officers-in-an-ambush-in-northwest-kenya.md)
-_Context: Kenyan police, northwest Kenya_
+_Context: northwest Kenya, Kenyan police_
 
 ##### Siege of Kobane
 ### [Turkey breaks from its policy of preventing Kurdish fighters from entering Syria and allows 150 Iraqi Peshmerga to cross into Kobane. ](/news/2014/11/1/turkey-breaks-from-its-policy-of-preventing-kurdish-fighters-from-entering-syria-and-allows-150-iraqi-peshmerga-to-cross-into-kobanaa.md)
@@ -17,7 +17,7 @@ _Context: Kenyan police, northwest Kenya_
 
 ##### Israel-Gaza conflict
 ### [The Israel Defense Forces report a rocket fired from Gaza landed in Israeli territory with no injuries or damage. ](/news/2014/11/1/the-israel-defense-forces-report-a-rocket-fired-from-gaza-landed-in-israeli-territory-with-no-injuries-or-damage.md)
-_Context: Israel, Gaza Strip, Israel-Gaza conflict, Israeli Army_
+_Context: Gaza Strip, Israeli Army, Israel-Gaza conflict, Israel_
 
 ##### University of Southern Maine
 ### [At least four people are dead, one injured and several missing following a fire in a two apartment building near the University of Southern Maine campus in Portland. ](/news/2014/11/1/at-least-four-people-are-dead-one-injured-and-several-missing-following-a-fire-in-a-two-apartment-building-near-the-university-of-southern.md)

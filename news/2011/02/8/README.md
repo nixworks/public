@@ -9,11 +9,11 @@ _Context: al-Qaeda, Yemen_
 
 ##### Dokka Umarov
 ### [Dokka Umarov, a Chechen warlord and one of Russia's most wanted men, claims responsibility for the bombing at Domodedovo International Airport last month. ](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.md)
-_Context: Chechnya, Domodedovo International Airport, Dokka Umarov, Russia, Domodedovo International Airport bombing_
+_Context: Dokka Umarov, Domodedovo International Airport bombing, Domodedovo International Airport, Russia, Chechnya_
 
 ##### Blasphemy
 ### [Violence erupts at a blasphemy trial in Temanggung, central Java with three churches destroyed. ](/news/2011/02/8/violence-erupts-at-a-blasphemy-trial-in-temanggung-central-java-with-three-churches-destroyed.md)
-_Context: Java, blasphemy, Temanggung_
+_Context: Temanggung, blasphemy, Java_
 
 ##### Volkswagen
 ### [Volkswagen agrees on a new contract with the union IG Metall, including a 3.2 percent increase in base pay for its employees. ](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.md)
@@ -21,43 +21,43 @@ The deal ensures workers a larger share of soaring profits in the German auto in
 
 ##### Ultimate Electronics
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)
-_Context: Ultimate Electronics, United States, bankruptcy court_
+_Context: bankruptcy court, Ultimate Electronics, United States_
 
 ##### London Stock Exchange
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: London Stock Exchange, Canadian, Toronto, United Kingdom, TMX Group, stock exchanges, Montreal_
+_Context: stock exchanges, London Stock Exchange, TMX Group, Montreal, Toronto, Canadian, United Kingdom_
 
 ##### Drought
 ### [Drought hits Central China. Part of the Xiangjiang River dried-up in Changsha, Hunan province. ](/news/2011/02/8/drought-hits-central-china-part-of-the-xiangjiang-river-dried-up-in-changsha-hunan-province.md)
-_Context: Drought, central China, Changsha, Xiangjiang River, Hunan province_
+_Context: Drought, Changsha, Hunan province, central China, Xiangjiang River_
 
 ##### Indonesia
 ### [An Indonesian ferry carrying 226 passengers from Tanjung Priok to Bangka Belitung catches fire. ](/news/2011/02/8/an-indonesian-ferry-carrying-226-passengers-from-tanjung-priok-to-bangka-belitung-catches-fire.md)
-_Context: Tanjung Priok, Indonesia, Bangka Belitung_
+_Context: Bangka Belitung, Tanjung Priok, Indonesia_
 
 ##### Snow storm
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: snow storm, Mountain West, Great Plains, United States_
+_Context: United States, Mountain West, Great Plains, snow storm_
 
 ##### North Korea
 ### [Officials from North Korea and South Korea meet in Panmunjom for military-level talks. ](/news/2011/02/8/officials-from-north-korea-and-south-korea-meet-in-panmunjom-for-military-level-talks.md)
-_Context: South Korea, North Korea, Panmunjeom_
+_Context: North Korea, Panmunjeom, South Korea_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's National League for Democracy calls for talks with Western nations about possible changes to sanctions against Burma. ](/news/2011/02/8/aung-san-suu-kyi-s-national-league-for-democracy-calls-for-talks-with-western-nations-about-possible-changes-to-sanctions-against-burma.md)
-_Context: National League for Democracy, Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy_
 
 ##### Taiwan
 ### [Taiwan arrests Major General Lo Hsieh-che, head of the Taiwanese Army's electronic communications and information department, for allegedly leaking secrets to the People's Republic of China. ](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.md)
-_Context: Lo Hsieh-che, Major General, Taiwanese Army, Taiwan, China_
+_Context: China, Lo Hsieh-che, Taiwanese Army, Taiwan, Major General_
 
 ##### Rohingya
 ### [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md)
-_Context: Thai Navy, Andaman Islands, Rohingya, Bangladesh, refugee, repatriation, Myanmar, India, Port Blair_
+_Context: Thai Navy, India, Myanmar, Andaman Islands, refugee, Port Blair, Rohingya, Bangladesh, repatriation_
 
 ##### Liberia
 ### [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md)
-_Context: President of Liberia, Liberia, Charles Taylor_
+_Context: Liberia, Charles Taylor, President of Liberia_
 
 ##### Mexican Army
 ### [The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. ](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.md)
@@ -73,11 +73,11 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 
 ##### Philippines
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
-_Context: Philippines, Angelo Reyes, suicide_
+_Context: Angelo Reyes, suicide, Philippines_
 
 ##### George Osborne
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: Chancellor of the Exchequer, George Osborne, tax, United Kingdom_
+_Context: United Kingdom, tax, Chancellor of the Exchequer, George Osborne_
 
 ##### Labour Party
 ### [British Labour MP Eric Illsley resigns his seat two days before he is due to be sentenced for dishonestly claiming parliamentary expenses, thus triggering a by-election. ](/news/2011/02/8/british-labour-mp-eric-illsley-resigns-his-seat-two-days-before-he-is-due-to-be-sentenced-for-dishonestly-claiming-parliamentary-expenses-t.md)
@@ -85,11 +85,11 @@ Disgraced Barnsley Central MP resigns days before he is due to be sentenced for 
 
 ##### United States House of Representatives
 ### [The United States House of Representatives fails to pass extensions of key provisions of the USA Patriot Act by the necessary two-thirds majority. ](/news/2011/02/8/the-united-states-house-of-representatives-fails-to-pass-extensions-of-key-provisions-of-the-usa-patriot-act-by-the-necessary-two-thirds-maj.md)
-_Context: USA Patriot Act, United States House of Representatives_
+_Context: United States House of Representatives, USA Patriot Act_
 
 ##### Brazil
 ### [Brazilian environmentalists and indigenous rights activists protest against the Belo Monte Dam in Brasilia. ](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.md)
-_Context: Brazil, Belo Monte Dam, Brasilia, indigenous rights_
+_Context: Brasilia, indigenous rights, Brazil, Belo Monte Dam_
 
 ## [Previous Day...](/news/2011/02/7/index.md)
 

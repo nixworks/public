@@ -29,23 +29,23 @@ With no smoke detectors in the North Hill rental house, a deadly fire spread qui
 
 ##### Rohingya insurgency in Western Myanmar
 ### [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md)
-_Context: Kuala Lumpur, Rohingya, Government of Malaysia, Rohingya insurgency in Western Myanmar, Prime Minister, Myanmar, ethnic cleansing, Najib Razak, Muslim_
+_Context: Najib Razak, Rohingya insurgency in Western Myanmar, ethnic cleansing, Prime Minister, Myanmar, Government of Malaysia, Kuala Lumpur, Muslim, Rohingya_
 
 ##### China-United States relations
 ### [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md)
-_Context: Taiwan, President-elect, United States, President, China, Donald Trump, One-China policy, Tsai Ing-wen, China-United States relations_
+_Context: Taiwan, China, President-elect, One-China policy, United States, Tsai Ing-wen, President, China-United States relations, Donald Trump_
 
 ##### 2012 Pakistan garment factory fires
 ### [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md)
-_Context: 2012 Pakistan garment factory fires, Karachi, Bangkok_
+_Context: Bangkok, 2012 Pakistan garment factory fires, Karachi_
 
 ##### Murder of Maria Ladenburger
 ### [German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in-freiburg-while-a-similar-case.md)
-_Context: Murder of Maria Ladenburger, Afghan, Freiburg_
+_Context: Freiburg, Afghan, Murder of Maria Ladenburger_
 
 ##### 2016 United States presidential election recounts
 ### [Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. ](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.md)
-_Context: Commonwealth Court of Pennsylvania, 2016 United States presidential election recounts, Jill Stein, Green Party of the United States, Pennsylvania_
+_Context: Green Party of the United States, Jill Stein, 2016 United States presidential election recounts, Pennsylvania, Commonwealth Court of Pennsylvania_
 
 ##### Dakota Access Pipeline protests
 ### [Groups of U.S. military veterans join the protest as human shields against possible clashes between demonstrators and law enforcement when the United States Army Corps of Engineers' eviction deadline expires on Monday. They are building barracks for shelter in North Dakota's winter weather. ](/news/2016/12/3/groups-of-u-s-military-veterans-join-the-protest-as-human-shields-against-possible-clashes-between-demonstrators-and-law-enforcement-when-t.md)

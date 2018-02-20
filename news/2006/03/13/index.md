@@ -21,7 +21,7 @@ _Context: Federal Aviation Administration, sentenced to death, Zacarias Moussaou
 
 ##### Merck KGaA
 ### [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of EUR14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-a-14-6-billion-merck-and-schering-would-b.md)
-_Context: Merck KGaA, Schering, pharmaceutical companies_
+_Context: pharmaceutical companies, Merck KGaA, Schering_
 
 ##### Metropolitan Police Service
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)

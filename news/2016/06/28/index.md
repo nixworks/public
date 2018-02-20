@@ -9,7 +9,7 @@ Three coordinated Islamic State bomb attacks on Yemeni government forces killed 
 
 ##### Iraqi Civil War 
 ### [At least 12 people are killed and 32 more are injured in a suicide bombing in Baghdad. ](/news/2016/06/28/at-least-12-people-are-killed-and-32-more-are-injured-in-a-suicide-bombing-in-baghdad.md)
-_Context: Baghdad, Iraqi Civil War _
+_Context: Iraqi Civil War , Baghdad_
 
 ##### Ataturk Airport attack
 ### [Suspected ISIL militants attack Turkey's Istanbul Ataturk Airport. Turkish Prime Minister Binali Yildirim says 36 people were killed, as were the three suicide bombers. Justice Minister Bekir Bozdag says 147 were wounded. ](/news/2016/06/28/suspected-isil-militants-attack-turkey-s-istanbul-atata1-4rk-airport-turkish-prime-minister-binali-ya-lda-ra-m-says-36-people-were-killed-as.md)
@@ -17,7 +17,7 @@ A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 o
 
 ##### Syrian Civil War
 ### [Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.md)
-_Context: Syrian Civil War, New Syrian Army, al-Bukamal, an offensive, ISIL_
+_Context: Syrian Civil War, an offensive, al-Bukamal, ISIL, New Syrian Army_
 
 ##### Balochistan conflict
 ### [Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md)

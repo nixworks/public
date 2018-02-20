@@ -9,7 +9,7 @@ Several people killed in explosion near a mosque and police offices in western p
 
 ##### American-led intervention in Syria
 ### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's "de facto" Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
-_Context: Battle of Raqqa (2017), American-led intervention in Syria, ISIL, Raqqa, United States military personnel, Syrian Democratic Forces_
+_Context: Raqqa, American-led intervention in Syria, Syrian Democratic Forces, United States military personnel, Battle of Raqqa (2017), ISIL_
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md)

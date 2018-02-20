@@ -9,7 +9,7 @@ At least 30 people have been killed in a wave of car bombings across central and
 
 ##### Quaid-e-Azam Residency
 ### [The Quaid-e-Azam Residency, a heritage site in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
-_Context: Quaid-e-Azam Residency, Balochistan Liberation Army, Pakistan, Ziarat, attack_
+_Context: Pakistan, attack, Ziarat, Balochistan Liberation Army, Quaid-e-Azam Residency_
 
 ##### Pakistan
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
@@ -51,7 +51,7 @@ _Context: online scam, Australian Competition and Consumer Commission_
 
 ##### Arms smuggling
 ### [Three policemen are arrested on charges of arms smuggling in Hamirpur, India. ](/news/2013/06/16/three-policemen-are-arrested-on-charges-of-arms-smuggling-in-hamirpur-india.md)
-_Context: arms smuggling, Hamirpur_
+_Context: Hamirpur, arms smuggling_
 
 ##### Google
 ### [Google announces a new system aimed at removing child pornography from the internet. ](/news/2013/06/16/google-announces-a-new-system-aimed-at-removing-child-pornography-from-the-internet.md)
@@ -63,7 +63,7 @@ _Context: Robert Mugabe_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md)
-_Context: military base at Guantanamo Bay, Barack Obama, U.S. State Department, Washington, D.C., Special Envoy_
+_Context: military base at Guantanamo Bay, U.S. State Department, Barack Obama, Washington, D.C., Special Envoy_
 
 ##### 
 ### [Kuwait's Constitutional Court dissolves the nation's parliament and orders new elections. ](/news/2013/06/16/kuwait-s-constitutional-court-dissolves-the-nation-s-parliament-and-orders-new-elections.md)

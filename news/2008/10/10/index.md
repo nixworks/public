@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/10/index.html)  [JSON](2008/10/10/index.json)  [XML](200
 
 ##### Faina
 ### [ Pirate spokesman threatens to blow up MV Faina, which has been held off the coast of Somalia since September 25, if $20 million is not paid by October 13. ](/news/2008/10/10/pirate-spokesman-threatens-to-blow-up-mv-faina-which-has-been-held-off-the-coast-of-somalia-since-september-25-if-20-million-is-not-paid.md)
-_Context: Somalia, Faina_
+_Context: Faina, Somalia_
 
 ##### Peru
 ### [ The president of Peru accepts the resignation of his entire cabinet in response to an oil kickbacks scandal. ](/news/2008/10/10/the-president-of-peru-accepts-the-resignation-of-his-entire-cabinet-in-response-to-an-oil-kickbacks-scandal.md)
@@ -23,35 +23,35 @@ _Context: Somalia, Yemen, Gulf of Aden_
 
 ##### Alaska
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
-_Context: Walter Monegan, legislative, Governor, Sarah Palin, Alaska_
+_Context: Alaska, Sarah Palin, legislative, Governor, Walter Monegan_
 
 ##### Connecticut Supreme Court
 ### [ The Connecticut Supreme Court rules that gay and lesbian couples have the right to marry in Connecticut. ](/news/2008/10/10/the-connecticut-supreme-court-rules-that-gay-and-lesbian-couples-have-the-right-to-marry-in-connecticut.md)
-_Context: Connecticut, same-sex marriage, Connecticut Supreme Court_
+_Context: Connecticut Supreme Court, same-sex marriage, Connecticut_
 
 ##### Oxfam
 ### [ Oxfam says those needing food aid in Ethiopia has risen to 6.4 million, nearly two million more than in June . ](/news/2008/10/10/oxfam-says-those-needing-food-aid-in-ethiopia-has-risen-to-6-4-million-nearly-two-million-more-than-in-june.md)
-_Context: Oxfam, Ethiopia_
+_Context: Ethiopia, Oxfam_
 
 ##### NATO
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: France, Italy, NATO, German_
+_Context: German, NATO, France, Italy_
 
 ##### Nobel peace prize
 ### [ The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-international-conflicts-w.md)
-_Context: Namibia, Kosovo, Aceh, UN, Martti Ahtisaari, Indonesia, Nobel peace prize_
+_Context: Indonesia, Martti Ahtisaari, Namibia, Aceh, Nobel peace prize, Kosovo, UN_
 
 ##### Russia
 ### [ Former Russian cross country ski champion Alexey Prokurorov dies after he is hit by a car while crossing a road in Vladimir.](/news/2008/10/10/former-russian-cross-country-ski-champion-alexey-prokurorov-dies-after-he-is-hit-by-a-car-while-crossing-a-road-in-vladimir.md)
-_Context: Vladimir, Russia, Alexey Prokurorov_
+_Context: Russia, Alexey Prokurorov, Vladimir_
 
 ##### Sweden
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
-_Context: opera, Sweden, Ernesto "Tito" Beltran, tenor, appellate court, Chile, nanny_
+_Context: Ernesto "Tito" Beltran, Chile, nanny, Sweden, opera, tenor, appellate court_
 
 ##### North Korea
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
-_Context: state sponsor of terrorism, Washington, D.C., North Korea_
+_Context: Washington, D.C., state sponsor of terrorism, North Korea_
 
 ##### 
 ### [ European markets fall steeply upon opening. ](/news/2008/10/10/european-markets-fall-steeply-upon-opening.md)

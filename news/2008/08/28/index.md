@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/28/index.html)  [JSON](2008/08/28/index.json)  [XML](200
 
 ##### Democratic National Convention
 ### [ Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high-in-denver-colorado-becomin.md)
-_Context: Democrat, Senator, Barack Obama, Denver, Colorado, INVESCO Field at Mile High, Democratic National Convention, U.S. President, Illinois, black_
+_Context: Senator, INVESCO Field at Mile High, Democratic National Convention, Illinois, Barack Obama, Denver, Colorado, Democrat, black, U.S. President_
 
 ##### Mexico
 ### [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8a3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md)
@@ -13,7 +13,7 @@ The controversial case has been watched closely by the rest of the country, and 
 
 ##### Afghan military
 ### [ Afghan and international troops claimed to have killed over 100 Taliban militants in fighting in the Helmand province over the past few days. ](/news/2008/08/28/afghan-and-international-troops-claimed-to-have-killed-over-100-taliban-militants-in-fighting-in-the-helmand-province-over-the-past-few-day.md)
-_Context: Afghan military, Taliban, Helmand_
+_Context: Helmand, Afghan military, Taliban_
 
 ##### Russia
 ### [ Russia's PM Vladimir Putin accuses unnamed individuals in the U.S. of orchestrating Georgia's military actions preceding the conflict with Russia. ](/news/2008/08/28/russia-s-pm-vladimir-putin-accuses-unnamed-individuals-in-the-u-s-of-orchestrating-georgia-s-military-actions-preceding-the-conflict-with.md)

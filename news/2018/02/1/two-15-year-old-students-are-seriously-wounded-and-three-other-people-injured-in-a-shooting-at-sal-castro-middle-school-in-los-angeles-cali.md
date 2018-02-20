@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-a
 
 ### [2018-02-1](/news/2018/02/1/index.md)
 
-##### School shootings in the United States
+##### Deadliest high school shooting
 # Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. 
 
 

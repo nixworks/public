@@ -17,7 +17,7 @@ _Context: Baghdad, bomb_
 
 ##### Suicide
 ### [ An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. ](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-french-president-nicolas-sarkozy-is-about-to-board-his-plane-after-a-3-day-trip-to-israel-and.md)
-_Context: French President, Nicolas Sarkozy, suicide, Israel, West Bank_
+_Context: French President, West Bank, suicide, Israel, Nicolas Sarkozy_
 
 ##### Mexico City
 ### [ The authorities in Mexico City sack 17 police officers for their role in a stampede during a raid at a nightclub that caused the death of 12 people. ](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.md)
@@ -25,11 +25,11 @@ _Context: Mexico City_
 
 ##### National Assembly
 ### [ The National Assembly of Niger votes to try former Prime Minister Hama Amadou on graft charges. ](/news/2008/06/24/the-national-assembly-of-niger-votes-to-try-former-prime-minister-hama-amadou-on-graft-charges.md)
-_Context: Hama Amadou, corruption, Prime Minister, National Assembly_
+_Context: corruption, Hama Amadou, Prime Minister, National Assembly_
 
 ##### Florida
 ### [ The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. ](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acres-from-the-us-sugar-corporation-to-add-to-protected-lands-in-the-everglades.md)
-_Context: Florida, Everglades, US Sugar Corporation_
+_Context: US Sugar Corporation, Everglades, Florida_
 
 ##### Franz Josef Jung
 ### [ Franz Josef Jung, the German Minister of Defence, announces plans to commit a thousand extra troops to Afghanistan. ](/news/2008/06/24/franz-josef-jung-the-german-minister-of-defence-announces-plans-to-commit-a-thousand-extra-troops-to-afghanistan.md)

@@ -9,7 +9,7 @@ Bangladesh labor protests entered a fourth day after overnight negotiations fail
 
 ##### 7.7-magnitude earthquake
 ### [A magnitude 7.7 earthquake strikes Balochistan in western Pakistan with at least 40 people dead. ](/news/2013/09/24/a-magnitude-7-7-earthquake-strikes-balochistan-in-western-pakistan-with-at-least-40-people-dead.md)
-_Context: 7.7-magnitude earthquake, earthquake, Pakistan, Balochistan_
+_Context: Pakistan, Balochistan, 7.7-magnitude earthquake, earthquake_
 
 ##### Thailand
 ### [Twenty-one provinces in Thailand are hit by flooding, affecting over 600,000 people. ](/news/2013/09/24/twenty-one-provinces-in-thailand-are-hit-by-flooding-affecting-over-600-000-people.md)

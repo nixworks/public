@@ -21,7 +21,7 @@ A suicide bomb blast claimed by Islamic State killed at least 16 people in the m
 
 ##### Against
 ### [The Central Bank of Russia announces it will start buying the Chinese yuan in an attempt to diversify its foreign-currency reserves away from the Euro and the U.S. dollar and to become less vulnerable to Western sanctions. ](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.md)
-_Context: yuan, against, $, Russian Central Bank, EUR_
+_Context: EUR, $, yuan, against, Russian Central Bank_
 
 ##### Turkish troops
 ### [At least seven people are killed and eight are injured after a helicopter carrying Turkish Armed Forces personnel crashes in Turkey's northern Giresun Province, on the Black Sea coast. ](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.md)
@@ -45,7 +45,7 @@ The FBI tells Hillary Clinton she will not face criminal charges over her use of
 
 ##### July 2016 Baghdad bombings
 ### [Iraqi Interior Minister Mohammed Salem Al-Ghabban says he has submitted his resignation. Al-Ghabban cited a lack of "coordination among security systems" demonstrated by Sunday's bombings in Baghdad that killed over 200 people and injured at least 175 others. No report yet that Prime Minister Haider al-Abadi has accepted this resignation. ](/news/2016/07/5/iraqi-interior-minister-mohammed-salem-al-ghabban-says-he-has-submitted-his-resignation-al-ghabban-cited-a-lack-of-coordination-among-secu.md)
-_Context: Mohammed Salem Al-Ghabban, Iraqi Interior Minister, July 2016 Baghdad bombings, Iraq Prime Minister, Haider al-Abadi_
+_Context: Mohammed Salem Al-Ghabban, Haider al-Abadi, July 2016 Baghdad bombings, Iraqi Interior Minister, Iraq Prime Minister_
 
 ##### Conservative Party (UK) leadership election, 2016
 ### [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.md)
@@ -53,11 +53,11 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 
 ##### NASA
 ### [NASA's "Juno" spacecraft reaches Jupiter and enters into its orbit after a five-year flight. ](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.md)
-_Context: Juno mission, NASA, Jupiter_
+_Context: NASA, Jupiter, Juno mission_
 
 ##### Computer security
 ### [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md)
-_Context: Beijing, Computer security, malware, Android, Chinese, Check Point, Apple Inc., India, HummingBad_
+_Context: Apple Inc., Check Point, Chinese, HummingBad, Computer security, Beijing, Android, India, malware_
 
 ## [Previous Day...](/news/2016/07/4/index.md)
 

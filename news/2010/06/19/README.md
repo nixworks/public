@@ -9,7 +9,7 @@ _Context: Burma, Aung San Suu Kyi_
 
 ##### San Bernardino
 ### [A gunman shoots 4 people then turns the gun on himself in San Bernardino, California. ](/news/2010/06/19/a-gunman-shoots-4-people-then-turns-the-gun-on-himself-in-san-bernardino-california.md)
-_Context: San Bernardino, California_
+_Context: California, San Bernardino_
 
 ##### Rwanda
 ### [A former Rwandan army chief in exile, Faustin Nyamwasa, is shot in South Africa. ](/news/2010/06/19/a-former-rwandan-army-chief-in-exile-faustin-nyamwasa-is-shot-in-south-africa.md)
@@ -25,7 +25,7 @@ _Context: French-born, Afghan_
 
 ##### North Waziristan
 ### [A drone attack on a militant hideout in North Waziristan in Pakistan, killed at least 13 people and injured six others. ](/news/2010/06/19/a-drone-attack-on-a-militant-hideout-in-north-waziristan-in-pakistan-killed-at-least-13-people-and-injured-six-others.md)
-_Context: North Waziristan, Pakistan_
+_Context: Pakistan, North Waziristan_
 
 ##### Pakistan
 ### [5 policemen are killed and 14 others injured in four separate attacks against the police forces in Pakistan. ](/news/2010/06/19/5-policemen-are-killed-and-14-others-injured-in-four-separate-attacks-against-the-police-forces-in-pakistan.md)
@@ -33,15 +33,15 @@ _Context: Pakistan_
 
 ##### Al-Qaida
 ### [Four suspected al-Qaida gunmen blast their way into the intelligence headquarters. The attack on the heavily protected security complex kills 18 in the southern port city of Aden, Yemen. ](/news/2010/06/19/four-suspected-al-qaida-gunmen-blast-their-way-into-the-intelligence-headquarters-the-attack-on-the-heavily-protected-security-complex-kill.md)
-_Context: Yemen, Aden, al-Qaida_
+_Context: Aden, Yemen, al-Qaida_
 
 ##### Crown Princess Victoria
 ### [Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. ](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.md)
-_Context: marries, Crown Princess Victoria, Daniel Westling_
+_Context: marries, Daniel Westling, Crown Princess Victoria_
 
 ##### Turkish Army
 ### [10 Turkish soldiers are killed during clashes with Kurdish rebels on the border of Turkey and Iraq, in Semdinli township of Hakkari province and in the Gediktepe-Tekeli region. ](/news/2010/06/19/10-turkish-soldiers-are-killed-during-clashes-with-kurdish-rebels-on-the-border-of-turkey-and-iraq-in-aemdinli-township-of-hakkac-ri-provin.md)
-_Context: Hakkari province, Gediktepe-Tekeli, Iraq, Semdinli, Turkey, Kurdish, Turkish Army_
+_Context: Hakkari province, Turkish Army, Semdinli, Iraq, Turkey, Gediktepe-Tekeli, Kurdish_
 
 ##### Istanbul
 ### [Roadside bomb blast kills 4, wounds 12 in bus carrying soldiers in Istanbul. ](/news/2010/06/19/roadside-bomb-blast-kills-4-wounds-12-in-bus-carrying-soldiers-in-istanbul.md)
@@ -53,7 +53,7 @@ Ten Turkish soldiers have been killed in an attack by Kurdish rebels near the Ir
 
 ##### Parliamentary elections
 ### [Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elected-to-serve-a-3-year-term.md)
-_Context: Parliament, Parliamentary elections_
+_Context: Parliamentary elections, Parliament_
 
 ##### Floods in China
 ### [Flooding in South China kills at least 88 people, and forces nearly 750,000 people to leave their homes. ](/news/2010/06/19/flooding-in-south-china-kills-at-least-88-people-and-forces-nearly-750-000-people-to-leave-their-homes.md)

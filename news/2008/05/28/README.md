@@ -9,7 +9,7 @@ _Context: Leaning Tower, Pisa_
 
 ##### Materpiscis
 ### [ Australian paleontologists discover "Materpiscis", a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live-yo.md)
-_Context: placoderm, Materpiscis, bear live young_
+_Context: bear live young, placoderm, Materpiscis_
 
 ##### New York Governor
 ### [ The Governor of New York David Paterson directs New York state agencies to recognise gay marriages performed in other jurisdictions such as Canada, California and Massachusetts. ](/news/2008/05/28/the-governor-of-new-york-david-paterson-directs-new-york-state-agencies-to-recognise-gay-marriages-performed-in-other-jurisdictions-such-as.md)
@@ -21,15 +21,15 @@ An international conference being held in Dublin has accepted a draft convention
 
 ##### Ehud Barak
 ### [ Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. ](/news/2008/05/28/ehud-barak-the-defense-minister-of-israel-and-leader-of-the-labor-party-calls-for-the-resignation-of-the-prime-minister-of-israel-ehud-ol.md)
-_Context: Labor Party, Ehud Olmert, corruption, Israeli Prime Minister, Ehud Barak, Defense Minister_
+_Context: Defense Minister, corruption, Ehud Olmert, Israeli Prime Minister, Ehud Barak, Labor Party_
 
 ##### Majlis of Iran
 ### [ The Majlis of Iran elects Ali Larijani as its new Speaker. ](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.md)
-_Context: Majlis of Iran, Speaker, Ali Larijani_
+_Context: Ali Larijani, Majlis of Iran, Speaker_
 
 ##### Nepal
 ### [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expecte.md)
-_Context: Nepal, Constituent Assembly, Nepalese Constituent Assembly election, 2008, Constitution of Nepal_
+_Context: Nepalese Constituent Assembly election, 2008, Constitution of Nepal, Nepal, Constituent Assembly_
 
 ## [Previous Day...](/news/2008/05/27/index.md)
 

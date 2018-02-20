@@ -13,11 +13,11 @@ _Context: interest rates, inflation, Reserve Bank of India_
 
 ##### Trinity Mirror
 ### [Britain's Trinity Mirror reviews its editorial guidelines in light of the "News of the World" phone hacking affair. ](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.md)
-_Context: phone hacking affair, Trinity Mirror, News of the World_
+_Context: News of the World, Trinity Mirror, phone hacking affair_
 
 ##### Al Franken
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)
-_Context: AT&T, Al Franken, T-Mobile USA, FCC's, Minnesota, Department of Justice_
+_Context: Minnesota, Al Franken, Department of Justice, FCC's, T-Mobile USA, AT&T_
 
 ##### Morocco
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)
@@ -25,11 +25,11 @@ A Hercules military transport plane crashes in southern Morocco, killing 78 peop
 
 ##### North Korea
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, United States, six party talks, North Korea, North Korea's nuclear program_
+_Context: North Korea, North Korea's nuclear program, Kim Kye Gwan, six party talks, United States_
 
 ##### Senegal
 ### [Senegalese rapper and government critic Omar Toure is arrested. ](/news/2011/07/26/senegalese-rapper-and-government-critic-omar-toure-is-arrested.md)
-_Context: Senegal, Omar Toure_
+_Context: Omar Toure, Senegal_
 
 ##### Sri Lankan police
 ### [Sri Lankan police hunt for 20 local television actresses alleged to be part of a prostitution ring. ](/news/2011/07/26/sri-lankan-police-hunt-for-20-local-television-actresses-alleged-to-be-part-of-a-prostitution-ring.md)
@@ -41,7 +41,7 @@ _Context: Juarez, Mexico_
 
 ##### Hacking
 ### [David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. ](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.md)
-_Context: Platform Networks, hacking_
+_Context: hacking, Platform Networks_
 
 ##### Nguyen Tan Dung
 ### [Nguyen Tan Dung is re-elected Prime Minister of Vietnam. ](/news/2011/07/26/nguyen-tan-dung-is-re-elected-prime-minister-of-vietnam.md)

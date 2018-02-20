@@ -13,11 +13,11 @@ At least two people have been killed in the Sunday morning blast in Ningbo, loca
 
 ##### Popocatpetl
 ### [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md)
-_Context: Popocatpetl, Mexico_
+_Context: Mexico, Popocatpetl_
 
 ##### 2017 Tehreek-e-Labaik protest
 ### [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists that were organized by the Tehreek-e-Labaik. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists-that.md)
-_Context: Islamists, Tehreek-e-Labaik, Islamabad, 2017 Tehreek-e-Labaik protest_
+_Context: Islamabad, Tehreek-e-Labaik, Islamists, 2017 Tehreek-e-Labaik protest_
 
 ##### Honduran general election, 2017
 ### [Voters in Honduras go to the polls to elect a president for the country, with current President Juan Orlando Hernndez running for a second term, marking the first time a sitting president sought reelection. ](/news/2017/11/26/voters-in-honduras-go-to-the-polls-to-elect-a-president-for-the-country-with-current-president-juan-orlando-hernandez-running-for-a-second.md)

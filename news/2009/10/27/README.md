@@ -9,7 +9,7 @@ Australians could be banned from living on the coast under a radical environment
 
 ##### Grassroots
 ### [ Grassroots occupations of Austrian universities spread to several more in Vienna, Graz and Linz, demanding free education for everyone. ](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.md)
-_Context: occupations, education, Graz, Linz, Vienna, Austrian universities, Grassroots_
+_Context: education, Vienna, Linz, Grassroots, Austrian universities, Graz, occupations_
 
 ##### Qatar
 ### [ Qatar inaugurates one of the world's largest LNG trains, operated by RasGas. ](/news/2009/10/27/qatar-inaugurates-one-of-the-world-s-largest-lng-trains-operated-by-rasgas.md)
@@ -17,7 +17,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI appoints Cardinal Peter Turkson of Cape Coast, Ghana, to serve as the new head of the Pontifical Council for Justice and Peace. ](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.md)
-_Context: Ghana, Pope Benedict XVI, Peter Turkson, Cardinal, Cape Coast_
+_Context: Cardinal, Pope Benedict XVI, Peter Turkson, Cape Coast, Ghana_
 
 ##### NASA
 ### [ NASA announces a delay in the launch of the Ares I-X test rocket, developed to replace the space shuttle, due to poor weather conditions. ](/news/2009/10/27/nasa-announces-a-delay-in-the-launch-of-the-ares-i-x-test-rocket-developed-to-replace-the-space-shuttle-due-to-poor-weather-conditions.md)
@@ -33,11 +33,11 @@ _Context: China, Tibet, unrest in 2008_
 
 ##### France
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
-_Context: France, illegal arms sales to Angola, Charles Pasqua, Franois Mitterrand, Jean-Christophe Mitterrand, French President_
+_Context: Jean-Christophe Mitterrand, Franois Mitterrand, France, French President, illegal arms sales to Angola, Charles Pasqua_
 
 ##### Honduras
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)
-_Context: Robert Micheletti, Honduras_
+_Context: Honduras, Robert Micheletti_
 
 ##### United Kingdom
 ### [ A British couple are missing after their yacht is hijacked by Somali pirates off the Seychelles. ](/news/2009/10/27/a-british-couple-are-missing-after-their-yacht-is-hijacked-by-somali-pirates-off-the-seychelles.md)
@@ -45,11 +45,11 @@ _Context: Seychelles, United Kingdom, Somali pirates_
 
 ##### North Korea
 ### [ North Korea says a South Korean man has defected to the North across the Korean Demilitarized Zone. ](/news/2009/10/27/north-korea-says-a-south-korean-man-has-defected-to-the-north-across-the-korean-demilitarized-zone.md)
-_Context: North Korea, DMZ, South Korea_
+_Context: South Korea, North Korea, DMZ_
 
 ##### Burundi
 ### [ Burundi and Uganda tighten security after threats by the militant Somali Al-Shabaab, a group with links to Al-Qaeda, to attack their capitals. ](/news/2009/10/27/burundi-and-uganda-tighten-security-after-threats-by-the-militant-somali-al-shabaab-a-group-with-links-to-al-qaeda-to-attack-their-capita.md)
-_Context: Somalia, Burundi, Uganda, Al-Shabaab, al-Qaeda_
+_Context: Somalia, al-Qaeda, Al-Shabaab, Uganda, Burundi_
 
 ##### Aceh
 ### [ The autonomous Aceh province in Indonesia is to ban women from wearing tight trousers under a new law, while a law authorising the stoning to death of adulterers and the whipping of homosexuals will be reviewed. ](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.md)
@@ -61,7 +61,7 @@ Authorities in Venezuela arrested alleged Colombian intelligence officials who w
 
 ##### Prime Minister
 ### [ Prime Minister of Thailand Abhisit Vejjajiva backs autonomy for the restive southern provinces to bring an end to violence in the region. ](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.md)
-_Context: Prime Minister, Abhisit Vejjajiva, Thailand, South Thailand insurgency_
+_Context: Abhisit Vejjajiva, Thailand, South Thailand insurgency, Prime Minister_
 
 ## [Previous Day...](/news/2009/10/26/index.md)
 

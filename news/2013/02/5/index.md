@@ -13,7 +13,7 @@ Michael Dell will take Dell Inc private for $24.4 billion in the biggest leverag
 
 ##### Standard & Poor's
 ### [Standard & Poor's says it expects a lawsuit by the US government over its assessment of mortgage bonds prior to the subprime mortgage crisis. ](/news/2013/02/5/standard-poor-s-says-it-expects-a-lawsuit-by-the-us-government-over-its-assessment-of-mortgage-bonds-prior-to-the-subprime-mortgage-crisis.md)
-_Context: subprime mortgage crisis, mortgage, Standard & Poor's, U.S. government_
+_Context: subprime mortgage crisis, mortgage, U.S. government, Standard & Poor's_
 
 ##### IBM
 ### [IBM issues a $1 billion two year corporate bond deal at a negative spread to Libor (the London Interbank Offered Rate). ](/news/2013/02/5/ibm-issues-a-1-billion-two-year-corporate-bond-deal-at-a-negative-spread-to-libor-the-london-interbank-offered-rate.md)
@@ -21,7 +21,7 @@ By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad travels to Egypt. It is the first time since 1979 revolution that an Iranian head of state visits that country. ](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.md)
-_Context: Egypt, President, Mahmoud Ahmadinejad, Iran, Iranian Revolution_
+_Context: Iran, President, Iranian Revolution, Egypt, Mahmoud Ahmadinejad_
 
 ##### North Korea
 ### [A North Korean propaganda film, which featured New York in flames, is taken down by Activision due to the video using footage from Modern Warfare 3. ](/news/2013/02/5/a-north-korean-propaganda-film-which-featured-new-york-in-flames-is-taken-down-by-activision-due-to-the-video-using-footage-from-modern-wa.md)
@@ -37,11 +37,11 @@ Some 10,000 women and girls entered Magdalene laundries since 1922 with more tha
 
 ##### 2012 Delhi gang rape case
 ### [The trial of five men accused in the 2012 Delhi gang rape case begins today, while President of India Pranab Mukherjee approves the death penalty for rapists. ](/news/2013/02/5/the-trial-of-five-men-accused-in-the-2012-delhi-gang-rape-case-begins-today-while-president-of-india-pranab-mukherjee-approves-the-death-pe.md)
-_Context: Pranab Mukherjee, 2012 Delhi gang rape case, India, death, sentenced to death, President of India_
+_Context: President of India, Pranab Mukherjee, sentenced to death, 2012 Delhi gang rape case, death, India_
 
 ##### Forestville
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: Forestville, California, United States, Sonoma_
+_Context: California, United States, Forestville, Sonoma_
 
 ##### Murder-suicide
 ### [Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. ](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicide-in-johns-creek-georgia-united-states.md)
@@ -61,7 +61,7 @@ A German university votes to strip Education Minister Annette Schavan of her doc
 
 ##### Curtis Cooper
 ### [Curtis Cooper, a mathematician and computer science professor at the University of Central Missouri, discovers the largest known 17.4 million-digit prime number. ](/news/2013/02/5/curtis-cooper-a-mathematician-and-computer-science-professor-at-the-university-of-central-missouri-discovers-the-largest-known-17-4-millio.md)
-_Context: University of Central Missouri, Curtis Cooper, prime number_
+_Context: University of Central Missouri, prime number, Curtis Cooper_
 
 ## [Previous Day...](/news/2013/02/4/index.md)
 

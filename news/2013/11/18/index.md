@@ -9,7 +9,7 @@ A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspap
 
 ##### President
 ### [Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-criticism-for-his-di.md)
-_Context: President, his predecessor, Tacloban_
+_Context: his predecessor, Tacloban, President_
 
 ##### Egypt
 ### [At least twenty people are dead after an Egyptian train collides with a minibus and other vehicles south of Cairo. ](/news/2013/11/18/at-least-twenty-people-are-dead-after-an-egyptian-train-collides-with-a-minibus-and-other-vehicles-south-of-cairo.md)

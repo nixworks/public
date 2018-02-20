@@ -17,7 +17,7 @@ _Context: Director of National Intelligence, attack on the U.S. Consulate in Ben
 
 ##### Dornier Do 228
 ### [A Dornier Do 228 light aircraft operated by Sita Air crashes on the outskirts of the Nepalese capital of Kathmandu, killing all 16 passengers and three crew on board. ](/news/2012/09/28/a-dornier-do-228-light-aircraft-operated-by-sita-air-crashes-on-the-outskirts-of-the-nepalese-capital-of-kathmandu-killing-all-16-passenger.md)
-_Context: Nepal, Sita Air, Dornier Do 228, Kathmandu, crashes_
+_Context: crashes, Dornier Do 228, Sita Air, Kathmandu, Nepal_
 
 ##### World Health Organization
 ### [The World Health Organization says the novel coronavirus that originated from Saudi Arabia is not highly contagious. ](/news/2012/09/28/the-world-health-organization-says-the-novel-coronavirus-that-originated-from-saudi-arabia-is-not-highly-contagious.md)
@@ -33,7 +33,7 @@ The official Xinhua News translation of a Communist Party statement expelling di
 
 ##### Social Democratic Party of Germany
 ### [Social Democratic Party of Germany president Sigmar Gabriel proposes Peer Steinbrck as the party's Chancellor candidate for the next German federal election to be held in 2013. ](/news/2012/09/28/social-democratic-party-of-germany-president-sigmar-gabriel-proposes-peer-steinbruck-as-the-party-s-chancellor-candidate-for-the-next-german.md)
-_Context: Chancellor, next German federal election, Sigmar Gabriel, Social Democratic Party of Germany, Peer Steinbrck_
+_Context: Social Democratic Party of Germany, Chancellor, Peer Steinbrck, Sigmar Gabriel, next German federal election_
 
 ## [Previous Day...](/news/2012/09/27/index.md)
 

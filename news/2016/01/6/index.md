@@ -17,7 +17,7 @@ J.J. Abrams&#039; record-shattering blockbuster achieved the historic milestone 
 
 ##### TransCanada
 ### [TransCanada, the firm that unsuccessfully applied for cross-border permission to build the Keystone XL pipeline, files a lawsuit against the United States alleging that the refusal of permission violated the North American Free Trade Agreement. ](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.md)
-_Context: United States, Keystone XL, TransCanada, North American Free Trade Agreement_
+_Context: United States, North American Free Trade Agreement, TransCanada, Keystone XL_
 
 ##### Nuclear test
 ### [A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-punggye-ri-nuclear-test-site-north.md)
@@ -25,7 +25,7 @@ A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appea
 
 ##### German police
 ### [German police temporarily seal off the main entrance to the chancellery building because of a suspicious package. ](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entrance-to-the-chancellery-building-because-of-a-suspicious-package.md)
-_Context: German police, chancellery building_
+_Context: chancellery building, German police_
 
 ##### Texas
 ### [Texas state trooper Brian Encinia is charged with perjury in connection with the death of Sandra Bland. ](/news/2016/01/6/texas-state-trooper-brian-encinia-is-charged-with-perjury-in-connection-with-the-death-of-sandra-bland.md)

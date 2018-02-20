@@ -13,15 +13,15 @@ Iraq is investigating the discovery of more than 170 prisoners in a government b
 
 ##### Suicide bombing
 ### [ Terrorism in Pakistan: A car bomb explodes outside a KFC outlet in Karachi, Pakistan around 08:45 (UTC+5). At least three people are killed and eight others wounded. ](/news/2005/11/15/terrorism-in-pakistan-a-car-bomb-explodes-outside-a-kfc-outlet-in-karachi-pakistan-around-08-45-utc-5-at-least-three-people-are-killed.md)
-_Context: clock, Karachi, Pakistan, car bomb, suicide bombing, KFC_
+_Context: Pakistan, clock, suicide bombing, car bomb, KFC, Karachi_
 
 ##### Quebec
 ### [ Quebec, Canada: Former Minister Andr Boisclair is elected Leader of the Parti Qubcois, the provincial official opposition and Quebec's main party promoting separation of the French-speaking province from Canada, in the Parti Qubcois leadership election, 2005. ](/news/2005/11/15/quebec-canada-former-minister-andre-boisclair-is-elected-leader-of-the-parti-quebecois-the-provincial-official-opposition-and-quebec-s-m.md)
-_Context: Quebec, Canadian, Parti Qubcois, Parti Qubcois leadership election, 2005, Andr Boisclair_
+_Context: Canadian, Parti Qubcois leadership election, 2005, Andr Boisclair, Quebec, Parti Qubcois_
 
 ##### Japan
 ### [ Japan: 2005 Sanriku Japan Earthquake A 6.9-magnitude earthquake, as determined by the Japan Meteorological Society, occurred off the northern coast of Japan near Sanriku at 6:39am Japan Standard Time (UTC+9), prompting a tsunami warning to be issued in Japan and the western coast of the United States. ](/news/2005/11/15/japan-2005-sanriku-japan-earthquake-a-6-9-magnitude-earthquake-as-determined-by-the-japan-meteorological-society-occurred-off-the-northe.md)
-_Context: Japan Standard Time, clock, 2005 Sanriku Japan Earthquake, United States, tsunami, magnitude, Japan_
+_Context: Japan, magnitude, 2005 Sanriku Japan Earthquake, United States, clock, tsunami, Japan Standard Time_
 
 ##### Sayako, Princess Nori
 ### [ Sayako, Princess Nori of Japan marries a commoner and thereby leaves the Imperial Family, taking the surname of her husband. ](/news/2005/11/15/sayako-princess-nori-of-japan-marries-a-commoner-and-thereby-leaves-the-imperial-family-taking-the-surname-of-her-husband.md)
@@ -29,7 +29,7 @@ The Age 404 Page
 
 ##### French National Assembly
 ### [ The French Parliament permits President Jacques Chirac's government to extend emergency powers for three months to quell civil unrest. ](/news/2005/11/15/the-french-parliament-permits-president-jacques-chirac-s-government-to-extend-emergency-powers-for-three-months-to-quell-civil-unrest.md)
-_Context: civil unrest, Jacques Chirac, French National Assembly_
+_Context: civil unrest, French National Assembly, Jacques Chirac_
 
 ##### New York Stock Exchange
 ### [ The New York Stock Exchange reaches an out-of-court settlement with some of its seat holders who had filed a lawsuit in an effort to prevent the NYSE's proposed acquisition of electronic trading firm Archipelago Holdings. The settlement requires a new independent financial review of the merits of the deal. Dissidents complain that the NYSE is over-paying. ](/news/2005/11/15/the-new-york-stock-exchange-reaches-an-out-of-court-settlement-with-some-of-its-seat-holders-who-had-filed-a-lawsuit-in-an-effort-to-preven.md)

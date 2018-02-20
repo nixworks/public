@@ -5,11 +5,11 @@ Formats: [HTML](2011/12/7/index.html)  [JSON](2011/12/7/index.json)  [XML](2011/
 
 ##### United States
 ### [The United States commemorates the 70th anniversary of the attack on Pearl Harbor, Hawai'i. ](/news/2011/12/7/the-united-states-commemorates-the-70th-anniversary-of-the-attack-on-pearl-harbor-hawai-i.md)
-_Context: Pearl Harbor, Hawai'i, attack on Pearl Harbor, United States_
+_Context: Pearl Harbor, attack on Pearl Harbor, United States, Hawai'i_
 
 ##### Japan
 ### [The board of Japan's Olympus Corporation announces its plans to resign early next year due to its accounting scandal. ](/news/2011/12/7/the-board-of-japan-s-olympus-corporation-announces-its-plans-to-resign-early-next-year-due-to-its-accounting-scandal.md)
-_Context: Olympus Corp, Japan, Olympus scandal_
+_Context: Olympus scandal, Olympus Corp, Japan_
 
 ##### President
 ### [The former President of Israel Moshe Katsav arrives at a prison outside Tel Aviv to start a seven year term for rape. ](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.md)

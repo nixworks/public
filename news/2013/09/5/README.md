@@ -29,7 +29,7 @@ _Context: hunter, Yosemite National Park, Rim Fire_
 
 ##### Rochus Misch
 ### [Rochus Misch, the last witness to Adolf Hitler's suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitleras-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md)
-_Context: Fuhrerbunker, Adolf Hitler, Rochus Misch_
+_Context: Fuhrerbunker, Rochus Misch, Adolf Hitler_
 
 ##### Iran
 ### [The new Iranian Foreign Minister Mohammad-Javad Zarif says Iran doesn't deny the Holocaust. "The man who was perceived to be denying it is now gone. Happy New Year," he adds. ](/news/2013/09/5/the-new-iranian-foreign-minister-mohammad-javad-zarif-says-iran-doesn-t-deny-the-holocaust-the-man-who-was-perceived-to-be-denying-it-is-n.md)

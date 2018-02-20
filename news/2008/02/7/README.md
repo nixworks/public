@@ -17,7 +17,7 @@ Democrats agreed to add only payments for senior citizens and disabled veterans 
 
 ##### Slovakia
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Parliament of Slovakia, Lisbon Treaty, Slovakia_
+_Context: Lisbon Treaty, Slovakia, Parliament of Slovakia_
 
 ##### National Assembly
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
@@ -29,7 +29,7 @@ Atlantis launches on schedule despite earlier forecasts of thunderstorms and hea
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Abu Hamza al-Masri, Muslim, extradition, United States_
+_Context: United States, extradition, Muslim, Abu Hamza al-Masri_
 
 ##### United States
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
@@ -37,11 +37,11 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: his campaign, Massachusetts governor, Mitt Romney, 2008_
+_Context: 2008, Massachusetts governor, his campaign, Mitt Romney_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Eastern Orthodox Church, Archbishop Ieronymos II of Athens, Church of Greece_
+_Context: Archbishop Ieronymos II of Athens, Eastern Orthodox Church, Church of Greece_
 
 ##### Afghan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
@@ -49,7 +49,7 @@ _Context: NATO, Afghan_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Afghan, Condoleezza Rice, United Kingdom, David Miliband, United States Secretary of State, Foreign Secretary_
+_Context: Foreign Secretary, United Kingdom, Condoleezza Rice, United States Secretary of State, David Miliband, Afghan_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
@@ -57,7 +57,7 @@ _Context: Rio Tinto, hostile takeover, BHP Billiton_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)
-_Context: WHO, tobacco_
+_Context: tobacco, WHO_
 
 ## [Previous Day...](/news/2008/02/6/index.md)
 

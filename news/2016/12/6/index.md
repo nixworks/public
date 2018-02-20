@@ -25,7 +25,7 @@ Antitrust enforcers at the Justice Department granted approval for the $2.6 bill
 
 ##### Thailand
 ### [ Heavy flooding kills 14 people in Thailand and badly affects the islands of Samui and Pha Ngan in the Gulf of Thailand. It has also severed the rail link to southern Thailand and Malaysia. ](/news/2016/12/6/heavy-flooding-kills-14-people-in-thailand-and-badly-affects-the-islands-of-samui-and-pha-ngan-in-the-gulf-of-thailand-it-has-also-severed.md)
-_Context: Thailand, southern Thailand, Malaysia, Gulf of Thailand, Samui_
+_Context: Malaysia, Gulf of Thailand, southern Thailand, Samui, Thailand_
 
 ##### Sayanogorsk
 ### [ A meteorite lands near Sayanogorsk, the Republic of Khakassia, Russia at 18:37 UTC+3. No one was hurt. ](/news/2016/12/6/a-meteorite-lands-near-sayanogorsk-the-republic-of-khakassia-russia-at-18-37-utc-3-no-one-was-hurt.md)

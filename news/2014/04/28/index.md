@@ -41,7 +41,7 @@ A new deal will allow a limited amount of central European gas to flow to Ukrain
 
 ##### United States House of Representatives
 ### [U.S. Representative Michael Grimm is taken into federal custody on charges relating to a failed restaurant business and allegations that he made false statements. ](/news/2014/04/28/u-s-representative-michael-grimm-is-taken-into-federal-custody-on-charges-relating-to-a-failed-restaurant-business-and-allegations-that-he.md)
-_Context: United States House of Representatives, Michael Grimm_
+_Context: Michael Grimm, United States House of Representatives_
 
 ##### Paul Simon
 ### [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct. ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md)

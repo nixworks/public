@@ -9,15 +9,15 @@ _Context: Mexican Police, Michoacn, Knights Templar Cartel_
 
 ##### Egypt
 ### [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md)
-_Context: Mansoura, Dakahlia, Egypt_
+_Context: Mansoura, Egypt, Dakahlia_
 
 ##### Inter-Services Intelligence
 ### [Four people are killed and at least 40 wounded in a bomb and gun attack on an Inter-Services Intelligence compound in Sukkur, Pakistan. ](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.md)
-_Context: Pakistan, Inter-Services Intelligence, Sukkur_
+_Context: Pakistan, Sukkur, Inter-Services Intelligence_
 
 ##### Wells Fargo
 ### [Wells Fargo of the United States becomes the world's largest bank by market capitalisation, replacing the Industrial and Commercial Bank of China amid an economic slowdown in China. ](/news/2013/07/24/wells-fargo-of-the-united-states-becomes-the-world-s-largest-bank-by-market-capitalisation-replacing-the-industrial-and-commercial-bank-of.md)
-_Context: Industrial and Commercial Bank of China, Chinese, market capitalisation, Wells Fargo, United States_
+_Context: Industrial and Commercial Bank of China, United States, Chinese, market capitalisation, Wells Fargo_
 
 ##### Australia
 ### [An Australia-bound boat carrying Iranian asylum seekers sinks off the coast of Indonesia, leaving at least three people dead, 157 rescued and an uncertain number missing. ](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.md)
@@ -33,11 +33,11 @@ Shrien Dewani&#039;s suicide risk is not immediate and he is well enough to be s
 
 ##### Prison riot
 ### [At least three prisoners die in a prison riot in Abidjan, Ivory Coast. ](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.md)
-_Context: prison riot, Ivory Coast, Abidjan_
+_Context: Abidjan, prison riot, Ivory Coast_
 
 ##### NSA
 ### [Despite earlier reports to the contrary, fugitive NSA whistleblower Edward Snowden remains stranded at Sheremetyevo International Airport in Moscow, Russia. ](/news/2013/07/24/despite-earlier-reports-to-the-contrary-fugitive-nsa-whistleblower-edward-snowden-remains-stranded-at-sheremetyevo-international-airport-in.md)
-_Context: Sheremetyevo International Airport, Moscow, NSA, Edward Snowden, Russia_
+_Context: Moscow, Edward Snowden, Russia, Sheremetyevo International Airport, NSA_
 
 ##### Methane
 ### [Scientists warn that a massive release of methane resulting from Arctic sea ice decline could cause significant global disruption, potentially costing the world economy an extra US$ 60 trillion to $400 trillion from the effects of global warming and climate change. The full impact of climate change in the Arctic, including, for example, ocean acidification, and altered ocean and atmospheric circulation, will be much greater.](/news/2013/07/24/scientists-warn-that-a-massive-release-of-methane-resulting-from-arctic-sea-ice-decline-could-cause-significant-global-disruption-potential.md)

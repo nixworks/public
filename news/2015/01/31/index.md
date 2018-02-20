@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/31/index.html)  [JSON](2015/01/31/index.json)  [XML](201
 
 ##### Military intervention in Ukraine
 ### [Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern-ukraine.md)
-_Context: military intervention in Ukraine, Russia, eastern Ukraine, Ukraine_
+_Context: eastern Ukraine, military intervention in Ukraine, Ukraine, Russia_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo launches a campaign against Hutu rebels. ](/news/2015/01/31/the-democratic-republic-of-the-congo-launches-a-campaign-against-hutu-rebels.md)
@@ -13,11 +13,11 @@ Congolese government troops have started their long-awaited offensive against Rw
 
 ##### ISIL
 ### [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md)
-_Context: ISIL, Kenji Goto, Japanese_
+_Context: ISIL, Japanese, Kenji Goto_
 
 ##### Indonesia AirAsia Flight 8501
 ### [France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flying-the-aircraft-at-the-time-of.md)
-_Context: Indonesia AirAsia Flight 8501, France_
+_Context: France, Indonesia AirAsia Flight 8501_
 
 ##### Italian presidential election, 2015
 ### [Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/voters-elect-sergio-mattarella-president-of-italy.md)
@@ -25,7 +25,7 @@ _Context: Italian presidential election, 2015, President of Italy, Sergio Mattar
 
 ##### Richard von Weizsacker
 ### [Richard von Weizsacker, who was president of West Germany from 1984 to 1990 and became the first president of reunified Germany from 1990 to 1994, dies at the age of 94. ](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.md)
-_Context: West German, reunified Germany, Richard von Weizsacker_
+_Context: reunified Germany, Richard von Weizsacker, West German_
 
 ##### Queensland state election, 2015
 ### [The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-newman-losing-his-own-seat-of-ashg.md)

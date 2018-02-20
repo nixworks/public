@@ -5,15 +5,15 @@ Formats: [HTML](2016/04/10/index.html)  [JSON](2016/04/10/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: War in Afghanistan (2015-present), Kabul, Taliban, Afghan, John Kerry, unity government, United States Secretary of State_
+_Context: War in Afghanistan (2015-present), Afghan, Kabul, John Kerry, Taliban, United States Secretary of State, unity government_
 
 ##### Dubai
 ### [Developers announce their intention to build a new tower in Dubai, United Arab Emirates, to surpass the Burj Khalifa as the tallest structure in the world. The project is expected to be roughly $1bn (GBP710m) and scheduled to be completed for the Dubai Expo trade fair in 2020. ](/news/2016/04/10/developers-announce-their-intention-to-build-a-new-tower-in-dubai-united-arab-emirates-to-surpass-the-burj-khalifa-as-the-tallest-structur.md)
-_Context: United Arab Emirates, tallest structure in the world, Burj Khalifa, Dubai_
+_Context: Dubai, United Arab Emirates, Burj Khalifa, tallest structure in the world_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund encourages the move toward negative interest rates because "they help deliver additional monetary stimulus and easier financial conditions." ](/news/2016/04/10/the-international-monetary-fund-encourages-the-move-toward-negative-interest-rates-because-they-help-deliver-additional-monetary-stimulus-a.md)
-_Context: negative interest rates, International Monetary Fund_
+_Context: International Monetary Fund, negative interest rates_
 
 ##### Kollam temple fire
 ### [A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-killed-and-hundreds-inju.md)
@@ -29,7 +29,7 @@ John Kerry says US is prepared to address Iran’s concerns if it halts missile 
 
 ##### Panama Papers
 ### [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md)
-_Context: German, Justice Minister, Panama Papers, Heiko Maas, investigating possible financial wrongdoing_
+_Context: Justice Minister, investigating possible financial wrongdoing, Panama Papers, Heiko Maas, German_
 
 ##### Howard Marks
 ### [Welsh drug smuggler turned author Howard Marks dies at age 70, after suffering from cancer for more than one year. ](/news/2016/04/10/welsh-drug-smuggler-turned-author-howard-marks-dies-at-age-70-after-suffering-from-cancer-for-more-than-one-year.md)
@@ -37,11 +37,11 @@ Former drug smuggler turned author Howard Marks has died at the age of 70.
 
 ##### Peruvian general election, 2016
 ### [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md)
-_Context: Peru, Pedro Pablo Kuczynski, Keiko Fujimori, Peruvian general election, 2016_
+_Context: Pedro Pablo Kuczynski, Peru, Peruvian general election, 2016, Keiko Fujimori_
 
 ##### Chadian presidential election, 2016
 ### [Voters in Chad go to the polls for the first round of voting in a presidential election with incumbent President Idriss Deby favoured to win a fifth term. ](/news/2016/04/10/voters-in-chad-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-incumbent-president-idriss-da-c-by-favoured-to-wi.md)
-_Context: Chadian presidential election, 2016, Idriss Deby, Chad, President of Chad_
+_Context: President of Chad, Chadian presidential election, 2016, Chad, Idriss Deby_
 
 ##### Comorian presidential election, 2016
 ### [Voting begins for the second round of an election in the Comoros with a tight race expected between three candidates. They are current Vice President Mohamed Ali Soilihi, who won the first round, former coup leader Azali Assoumani and Governor of Grande Comore Mouigni Baraka. ](/news/2016/04/10/voting-begins-for-the-second-round-of-an-election-in-the-comoros-with-a-tight-race-expected-between-three-candidates-they-are-current-vice.md)
@@ -57,7 +57,7 @@ Hundreds injured as Macedonian police fire tear gas and rubber bullets at refuge
 
 ##### Panama Papers
 ### [British Prime Minister David Cameron releases his tax records in an effort to remove discussion about his personal wealth from the current political discourse. His initial reluctance to admit he had benefited from his late father's offshore Panama Papers holdings still seems to be affecting the upcoming European Union referendum. Unfortunately for the PM, the main Sunday newspapers in the U.K. tell of a gift of 200,000 pounds ($282,500) from his mother in 2011, suggesting it may have been a way of avoiding inheritance tax. ](/news/2016/04/10/british-prime-minister-david-cameron-releases-his-tax-records-in-an-effort-to-remove-discussion-about-his-personal-wealth-from-the-current-p.md)
-_Context: European Union membership referendum, Prime Minister, Panama Papers, David Cameron, inheritance tax_
+_Context: David Cameron, inheritance tax, Prime Minister, European Union membership referendum, Panama Papers_
 
 ##### World Wildlife Fund
 ### [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this-i.md)

@@ -17,7 +17,7 @@ Government forces retreat as the district headquarters fall to militants after a
 
 ##### 2017 Antwerp attack
 ### [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md)
-_Context: 2017 Antwerp attack, France, Antwerp, Belgium_
+_Context: Antwerp, Belgium, France, 2017 Antwerp attack_
 
 ##### United States
 ### [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md)

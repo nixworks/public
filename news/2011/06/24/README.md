@@ -9,11 +9,11 @@ Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links t
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, warns of a possible escalation of the 2011 Syrian uprising as Syrian Army forces mass near the border with Turkey. ](/news/2011/06/24/hillary-clinton-the-united-states-secretary-of-state-warns-of-a-possible-escalation-of-the-2011-syrian-uprising-as-syrian-army-forces-mass.md)
-_Context: 2011 Syrian uprising, Syrian Army, United States Secretary of State, Turkey, Hillary Clinton_
+_Context: Syrian Army, 2011 Syrian uprising, Turkey, Hillary Clinton, United States Secretary of State_
 
 ##### Myanmar
 ### [Three explosions hit the Myanmar cities of Naypyidaw, Mandalay and Pyin U Lwin. ](/news/2011/06/24/three-explosions-hit-the-myanmar-cities-of-naypyidaw-mandalay-and-pyin-u-lwin.md)
-_Context: Pyin U Lwin, Naypyidaw, Myanmar, Mandalay_
+_Context: Pyin U Lwin, Myanmar, Naypyidaw, Mandalay_
 
 ##### Italian
 ### [Italian Mario Draghi is appointed as the next President of the European Central Bank, replacing Jean-Claude Trichet on November 1. ](/news/2011/06/24/italian-mario-draghi-is-appointed-as-the-next-president-of-the-european-central-bank-replacing-jean-claude-trichet-on-november-1.md)
@@ -21,7 +21,7 @@ EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x
 
 ##### Mudslide
 ### [Mudslides isolate 1,200 in Japan's Nagano Prefecture. ](/news/2011/06/24/mudslides-isolate-1-200-in-japan-s-nagano-prefecture.md)
-_Context: Nagano Prefecture, Mudslide, Japan_
+_Context: Japan, Nagano Prefecture, Mudslide_
 
 ##### 2011 Pacific typhoon season
 ### [Tropical Storm Meari hits the Philippines, leaving 11 people missing and over 40,000 displaced. ](/news/2011/06/24/tropical-storm-meari-hits-the-philippines-leaving-11-people-missing-and-over-40-000-displaced.md)
@@ -29,7 +29,7 @@ _Context: 2011 Pacific typhoon season, Philippines_
 
 ##### Souris River
 ### [The Souris River floods to record levels and overflows levee banks in the US town of Minot, North Dakota. ](/news/2011/06/24/the-souris-river-floods-to-record-levels-and-overflows-levee-banks-in-the-us-town-of-minot-north-dakota.md)
-_Context: North Dakota, Minot, Souris River, levee_
+_Context: Minot, North Dakota, Souris River, levee_
 
 ##### Tractor-trailer
 ### [At least two people are killed and dozens injured after a tractor-trailer truck collides with the California Zephyr Amtrak train on US Route 95 in Nevada. ](/news/2011/06/24/at-least-two-people-are-killed-and-dozens-injured-after-a-tractor-trailer-truck-collides-with-the-california-zephyr-amtrak-train-on-us-route.md)
@@ -41,7 +41,7 @@ A former Rwandan minister has been jailed for life for genocide and incitement t
 
 ##### United States District Court
 ### [United States District Court judge Tanya Walton Pratt halts enforcement of an Indiana state law cutting funding for Planned Parenthood and other organisations that provide abortions. ](/news/2011/06/24/united-states-district-court-judge-tanya-walton-pratt-halts-enforcement-of-an-indiana-state-law-cutting-funding-for-planned-parenthood-and-o.md)
-_Context: United States District Court, Planned Parenthood, abortion, Tanya Walton Pratt, Indiana_
+_Context: Tanya Walton Pratt, Planned Parenthood, Indiana, United States District Court, abortion_
 
 ##### Canadian
 ### [Canadian business man Conrad Black is sentenced to another 13 months in jail in the United States for fraud. ](/news/2011/06/24/canadian-business-man-conrad-black-is-sentenced-to-another-13-months-in-jail-in-the-united-states-for-fraud.md)

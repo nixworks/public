@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/23/index.html)  [JSON](2011/09/23/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md)
-_Context: President, Ali Abdullah Saleh, Saudi Arabia, 2011 Yemeni uprising_
+_Context: 2011 Yemeni uprising, Ali Abdullah Saleh, Saudi Arabia, President_
 
 ##### Kabul
 ### [Thousands of mourners gather in Kabul for the funeral of former President of Afghanistan Burhanuddin Rabbani, who was killed by a suicide bomber earlier in the week. ](/news/2011/09/23/thousands-of-mourners-gather-in-kabul-for-the-funeral-of-former-president-of-afghanistan-burhanuddin-rabbani-who-was-killed-by-a-suicide-bo.md)
@@ -25,7 +25,7 @@ More than 3,000 Toyota workers are striking for a fifth day this month over a pa
 
 ##### Flood
 ### [Floods in the Filipino province of Maguindanao affect 16,000 families. ](/news/2011/09/23/floods-in-the-filipino-province-of-maguindanao-affect-16-000-families.md)
-_Context: Flood, Philippines, Maguindanao_
+_Context: Maguindanao, Philippines, Flood_
 
 ##### Israeli-Palestinian conflict
 ### [During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national-authority-mahmoud-abbas-makes.md)
@@ -33,11 +33,11 @@ The Middle East Quartet urges Israel and the Palestinians to resume peace talks 
 
 ##### South Korea
 ### [South Korean prosecutors raid the offices of seven savings banks whose operations were suspended last week, with the president of one bank committing suicide. ](/news/2011/09/23/south-korean-prosecutors-raid-the-offices-of-seven-savings-banks-whose-operations-were-suspended-last-week-with-the-president-of-one-bank-c.md)
-_Context: South Korea, savings banks, suicide_
+_Context: savings banks, suicide, South Korea_
 
 ##### Patriotic Front
 ### [Patriotic Front leader Michael Sata is declared the winner of the Zambian presidential election. ](/news/2011/09/23/patriotic-front-leader-michael-sata-is-declared-the-winner-of-the-zambian-presidential-election.md)
-_Context: Zambia, presidential election, Patriotic Front, Michael Sata_
+_Context: Patriotic Front, presidential election, Michael Sata, Zambia_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes a resolution providing funding for the Government through to November 18, but the Senate vows to reject it, making a government shutdown from October 1 possible. ](/news/2011/09/23/the-united-states-house-of-representatives-passes-a-resolution-providing-funding-for-the-government-through-to-november-18-but-the-senate-v.md)

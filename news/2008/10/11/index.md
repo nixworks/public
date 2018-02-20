@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/11/index.html)  [JSON](2008/10/11/index.json)  [XML](200
 
 ##### United States
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: United States, G7, U.S. President, George W. Bush_
+_Context: G7, George W. Bush, United States, U.S. President_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
@@ -13,27 +13,27 @@ _Context: International Monetary Fund, housing crisis_
 
 ##### South Africa
 ### [ Former South African President Thabo Mbeki will mediate between the Movement for Democratic Change and Zimbabwean President Robert Mugabe's government after Mugabe takes control of ministries that command the military and the police, an action that allegedly violates the power-sharing agreement reached last month. ](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.md)
-_Context: President, Politics of Zimbabwe, Robert Mugabe, Zimbabwe, President of South Africa, Thabo Mbeki, Movement for Democratic Change, South Africa, military, power-sharing talks, police_
+_Context: South Africa, Movement for Democratic Change, Thabo Mbeki, President of South Africa, Politics of Zimbabwe, military, President, power-sharing talks, Robert Mugabe, police, Zimbabwe_
 
 ##### State Department
 ### [ The U.S. State Department removes North Korea from its list of sponsors of terrorism. ](/news/2008/10/11/the-u-s-state-department-removes-north-korea-from-its-list-of-sponsors-of-terrorism.md)
-_Context: State Department, state sponsor of terrorism, North Korea_
+_Context: state sponsor of terrorism, North Korea, State Department_
 
 ##### Earthquake
 ### [ An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. ](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.md)
-_Context: Russia, earthquake, Chechnya_
+_Context: earthquake, Russia, Chechnya_
 
 ##### 2008 Pacific hurricane season
 ### [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md)
-_Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Saffir-Simpson Hurricane Scale, Mexico_
+_Context: Baja California, Hurricane Norbert, 2008 Pacific hurricane season, Saffir-Simpson Hurricane Scale, Mexico_
 
 ##### Turkey
 ### [ Turkey bombs Kurdish military targets in northern Iraq. ](/news/2008/10/11/turkey-bombs-kurdish-military-targets-in-northern-iraq.md)
-_Context: Kurdish, Turkey, Iraq, Kurdish Peshmerga_
+_Context: Turkey, Kurdish Peshmerga, Kurdish, Iraq_
 
 ##### Malaysia
 ### [ Malaysia's opposition leader Anwar Ibrahim says he expects to seize power by December by winning over defectors of the ruling Barisan Nasional government. ](/news/2008/10/11/malaysia-s-opposition-leader-anwar-ibrahim-says-he-expects-to-seize-power-by-december-by-winning-over-defectors-of-the-ruling-barisan-nasio.md)
-_Context: Anwar Ibrahim, Politics of Malaysia, Malaysia, Opposition Leader, Barisan Nasional_
+_Context: Malaysia, Opposition Leader, Politics of Malaysia, Anwar Ibrahim, Barisan Nasional_
 
 ##### Singapore
 ### [ Singapore Police Commissioner Khoo Boon Hui is elected the new president of Interpol. ](/news/2008/10/11/singapore-police-commissioner-khoo-boon-hui-is-elected-the-new-president-of-interpol.md)
@@ -45,7 +45,7 @@ EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 che
 
 ##### Austria
 ### [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-his.md)
-_Context: Carinthia, Austria, Governor, Jorg Haider, Klagenfurt_
+_Context: Carinthia, Governor, Austria, Jorg Haider, Klagenfurt_
 
 ##### Kill
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. ](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights.md)

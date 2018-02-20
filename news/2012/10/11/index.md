@@ -9,7 +9,7 @@ A Yemeni employee of the US embassy in the capital Sanaa is shot dead in an atta
 
 ##### Syrian civil war
 ### [Syrian civil war: the Local Coordination Committees say that by evening 83 civilians were killed throughout Syria by the Syrian army. ](/news/2012/10/11/syrian-civil-war-the-local-coordination-committees-say-that-by-evening-83-civilians-were-killed-throughout-syria-by-the-syrian-army.md)
-_Context: Syrian civil war, LCC, Syria_
+_Context: Syria, Syrian civil war, LCC_
 
 ##### Hezbollah
 ### [Hezbollah leader Hassan Nasrallah confirms that the drone aircraft shot down over Israel's Negev Desert on 6 October belonged to the organization and was supplied by Iran. ](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.md)
@@ -29,7 +29,7 @@ The first private clinic to offer abortions to women in Northern Ireland is due 
 
 ##### Amasya
 ### [Seven prisoners from Amasya Prison in Turkey say that they began "indefinite and irreversible" hunger strikes on October 5, and their health is at serious risk. ](/news/2012/10/11/seven-prisoners-from-amasya-prison-in-turkey-say-that-they-began-indefinite-and-irreversible-hunger-strikes-on-october-5-and-their-health.md)
-_Context: hunger strike, Turkey, Amasya_
+_Context: Amasya, hunger strike, Turkey_
 
 ##### Turkey
 ### [Turkey says investigators found Russian-made ammunition and military communications equipment in a Syrian passenger plane heading to Damascus from Moscow. Syria accuses Turkey of aircraft piracy, says the plane did not carry the alleged equipment and challenges Turkey to show evidence. ](/news/2012/10/11/turkey-says-investigators-found-russian-made-ammunition-and-military-communications-equipment-in-a-syrian-passenger-plane-heading-to-damascu.md)
@@ -37,7 +37,7 @@ Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wedne
 
 ##### Samsung
 ### [A U.S. appeals court has overturned a district court order that had banned the sale of Samsung's Galaxy Nexus in the US, delivering a winning round for Google's Android against Apple Inc.. ](/news/2012/10/11/a-u-s-appeals-court-has-overturned-a-district-court-order-that-had-banned-the-sale-of-samsung-s-galaxy-nexus-in-the-us-delivering-a-winnin.md)
-_Context: Google, Apple Inc., Galaxy Nexus, Samsung, Android_
+_Context: Samsung, Android, Apple Inc., Galaxy Nexus, Google_
 
 ##### England
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)
@@ -49,7 +49,7 @@ _Context: Mo Yan, hallucinatory realism, Nobel Prize in Literature_
 
 ##### Egypt
 ### [Egypt's President Mohammed Mursi fires general prosecutor Abdel Maguid Mahmoud. ](/news/2012/10/11/egypt-s-president-mohammed-mursi-fires-general-prosecutor-abdel-maguid-mahmoud.md)
-_Context: Egypt, Mohammed Mursi_
+_Context: Mohammed Mursi, Egypt_
 
 ## [Previous Day...](/news/2012/10/10/index.md)
 

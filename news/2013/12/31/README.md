@@ -17,7 +17,7 @@ Russia&rsquo;s president travels seven time zones away to change the subject fro
 
 ##### Dataran Merdeka
 ### [Thousands of protestors gather at Dataran Merdeka, Kuala Lumpur to begin protests against the Malaysian government's introduction of price hikes. ](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.md)
-_Context: Kuala Lumpur, protests, Dataran Merdeka_
+_Context: protests, Kuala Lumpur, Dataran Merdeka_
 
 ##### 
 ### [A fire was set in the stairway of a gay nightclub in Seattle on New Year's Eve which was quickly extinguished. An empty gasoline container was found at the top of the stairway. ](/news/2013/12/31/a-fire-was-set-in-the-stairway-of-a-gay-nightclub-in-seattle-on-new-year-s-eve-which-was-quickly-extinguished-an-empty-gasoline-container-w.md)

@@ -17,7 +17,7 @@ A federal judge has ordered a hearing on whether the Bush administration violate
 
 ##### Orange Revolution
 ### [ The Orange Revolution advocate Yulia Tymoshenko wins parliament's backing to return as prime minister of Ukraine. ](/news/2007/12/18/the-orange-revolution-advocate-yulia-tymoshenko-wins-parliament-s-backing-to-return-as-prime-minister-of-ukraine.md)
-_Context: Yulia Tymoshenko, Ukraine, parliament, Orange Revolution_
+_Context: Ukraine, parliament, Orange Revolution, Yulia Tymoshenko_
 
 ## [Previous Day...](/news/2007/12/17/index.md)
 

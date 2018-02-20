@@ -17,7 +17,7 @@ A long-lost composition by Wolfgang Amadeus Mozart and Antonio Salieri was perfo
 
 ##### Cuba-United States relations
 ### [The United States and Cuba sign an agreement restoring commercial air traffic between the two countries for the first time in 50 years. The U.S. Department of Transportation immediately opened bidding for as many as 110 U.S.-Cuba flights per day to Havana and nine other destinations. Travel from the U.S. is permitted in 12 authorized categories, which does not include tourism. ](/news/2016/02/16/the-united-states-and-cuba-sign-an-agreement-restoring-commercial-air-traffic-between-the-two-countries-for-the-first-time-in-50-years-the.md)
-_Context: Cuba-United States relations, Department of Transportation, commercial air traffic, United States, Cuba, Havana, tourism_
+_Context: Havana, Cuba-United States relations, commercial air traffic, United States, Department of Transportation, tourism, Cuba_
 
 ##### United States
 ### [Four American journalists are charged by Bahrain for "unlawful obstruction of vehicles and attending unlawful gatherings." The state-run Bahrain News Agency said all were released "pending further investigations." Freelance reporter Anna Day and a film crew, who were covering the fifth anniversary of the Arab Spring uprisings, are scheduled to fly to Dubai tonight. ](/news/2016/02/16/four-american-journalists-are-charged-by-bahrain-for-unlawful-obstruction-of-vehicles-and-attending-unlawful-gatherings-the-state-run-bah.md)
@@ -25,7 +25,7 @@ Anna Day and three members of her crew were detained on Sunday while covering th
 
 ##### Philippine Senate election, 2016
 ### [Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.md)
-_Context: Vice Ganda, same-sex marriage, Aiza Seguerra, Philippine Senate election, 2016, Manny Pacquiao, gay and bisexual men, John Lapus_
+_Context: same-sex marriage, John Lapus, Aiza Seguerra, Vice Ganda, gay and bisexual men, Philippine Senate election, 2016, Manny Pacquiao_
 
 ## [Previous Day...](/news/2016/02/15/index.md)
 

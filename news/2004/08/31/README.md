@@ -9,31 +9,31 @@ _Context: WTO_
 
 ##### Female suicide bombing
 ### [ A female suicide bomber kills ten and injures 51 others near a subway station in Moscow. ](/news/2004/08/31/a-female-suicide-bomber-kills-ten-and-injures-51-others-near-a-subway-station-in-moscow.md)
-_Context: female suicide bombing, subway station_
+_Context: subway station, female suicide bombing_
 
 ##### Rebel-held
 ### [ Despite demands from Iraqi resistance Islamist militant elements threatening to kill two French hostages, France upholds its law on secularity and conspicuous religious symbols in schools, specifically its ban on Muslim hijabs. ](/news/2004/08/31/despite-demands-from-iraqi-resistance-islamist-militant-elements-threatening-to-kill-two-french-hostages-france-upholds-its-law-on-secular.md)
-_Context: militant, rebel-held, hijab, law on secularity and conspicuous religious symbols in schools, Islamist_
+_Context: rebel-held, hijab, law on secularity and conspicuous religious symbols in schools, militant, Islamist_
 
 ##### Islamist
 ### [ In Iraq, the radical Islamist group, Army of Ansar al-Sunna, kill 12 Nepali civilians employed as cooks and cleaners, stating "We have carried out the sentence of God against 12 Nepalis who came from their country to fight the Muslims and to serve the Jews and the Christians&nbsp;... believing in Buddha as their God" ](/news/2004/08/31/in-iraq-the-radical-islamist-group-army-of-ansar-al-sunna-kill-12-nepali-civilians-employed-as-cooks-and-cleaners-stating-we-have-carr.md)
-_Context: Nepal, God, Islamist, Army of Ansar al-Sunna, Gautama Buddha_
+_Context: Army of Ansar al-Sunna, Islamist, Gautama Buddha, God, Nepal_
 
 ##### Pipeline
 ### [ Repeated attacks on pipelines linked to southern oil fields have significantly hampered oil exports from Iraq. ](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.md)
-_Context: petroleum, Iraq, oil field, pipeline_
+_Context: petroleum, oil field, Iraq, pipeline_
 
 ##### Yugoslavia
 ### [ Former Yugoslav President Slobodan Milosevic, a University of Belgrade Faculty of Law graduate, opens his defence at the trial which accuses him of genocide, crimes against humanity and war crimes for his alleged role in the conflicts in which tens of thousands were killed. He maintains the charges are 'unscrupulous lies'. ](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.md)
-_Context: war crimes, Yugoslavia, Slobodan Milosevic, University of Belgrade Faculty of Law, crimes against humanity, genocide_
+_Context: Yugoslavia, crimes against humanity, genocide, University of Belgrade Faculty of Law, Slobodan Milosevic, war crimes_
 
 ##### Palestinian
 ### [ Palestinian suicide bombers kill at least 16 Israelis and wound more than 91 others aboard two city buses in Beer Sheva, Israel in the first successful Palestinian suicide bombings since March 14, 2004, with Hamas claiming responsibility. ](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.md)
-_Context: suicide bombers, March 14, Palestinian, Beersheba, Hamas, Israel_
+_Context: Palestinian, Beersheba, suicide bombers, Israel, March 14, Hamas_
 
 ##### Afghan
 ### [ Afghan police say a United States bombing raid killed at least six civilians in the eastern province of Kunar. ](/news/2004/08/31/afghan-police-say-a-united-states-bombing-raid-killed-at-least-six-civilians-in-the-eastern-province-of-kunar.md)
-_Context: Afghan, police, Kunar Province, civilian_
+_Context: Kunar Province, Afghan, civilian, police_
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. ](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.md)
@@ -41,15 +41,15 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### California
 ### [ California Governor and former Hollywood star Arnold Schwarzenegger extols the United States as a greater source of good in the world than the UN: "If you believe this country, not the United Nations, is the best hope of democracy in the world, then you are a Republican", he shouts, at the Republican National Convention. ](/news/2004/08/31/california-governor-and-former-hollywood-star-arnold-schwarzenegger-extols-the-united-states-as-a-greater-source-of-good-in-the-world-than.md)
-_Context: democratic, gubernatorial elections, Arnold Schwarzenegger, Republican, Hollywood, California, United Nations, Republican National Convention_
+_Context: Hollywood, Republican National Convention, Republican, democratic, gubernatorial elections, California, United Nations, Arnold Schwarzenegger_
 
 ##### Betty Castor
 ### [ Following a dramatic intra-party campaign, Betty Castor and Mel Martinez win primary elections in Florida for the U.S. Senate election, 2004. The seat is the most heavily contested in the U.S. Congress, with over $30 million budgeted among twelve candidates' campaigns. ](/news/2004/08/31/following-a-dramatic-intra-party-campaign-betty-castor-and-mel-martinez-win-primary-elections-in-florida-for-the-u-s-senate-election-200.md)
-_Context: Congressman, U.S. Senate election, 2004, Mel Martinez, primary election, Florida, Betty Castor_
+_Context: primary election, Congressman, Betty Castor, U.S. Senate election, 2004, Florida, Mel Martinez_
 
 ##### Extrasolar planet
 ### [ The two smallest extrasolar planets ever discovered are announced: one orbiting 55 Cancri in the constellation Cancer, and another orbiting Gliese 436 in the constellation Leo. They are both around the size of Neptune. ](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.md)
-_Context: 55 Cancri, Cancer, Neptune, Gliese 436, extrasolar planet, Leo_
+_Context: 55 Cancri, Cancer, extrasolar planet, Neptune, Leo, Gliese 436_
 
 ##### Cleveland Indians
 ### [ The Cleveland Indians baseball team beats the New York Yankees 22-0, the Yankees' worst loss in their 101-year history. ](/news/2004/08/31/the-cleveland-indians-baseball-team-beats-the-new-york-yankees-22a0-the-yankees-worst-loss-in-their-101-year-history.md)

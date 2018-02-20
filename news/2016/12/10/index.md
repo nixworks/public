@@ -17,7 +17,7 @@ Twin blasts targeting police near a stadium in Istanbul kill 38 people and injur
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [ Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. ](/news/2016/12/10/turkish-fighter-jets-kill-19-suspected-kurdish-militants-in-strikes-on-the-gara-region-in-northern-iraq.md)
-_Context: Kurdish-Turkish conflict (2015-present), Iraq, Kurdish_
+_Context: Kurdish, Kurdish-Turkish conflict (2015-present), Iraq_
 
 ##### 2016 Nobel Peace Prize
 ### [Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md)
@@ -37,7 +37,7 @@ A roof collapses during a church ceremony in south-eastern Nigeria, killing at l
 
 ##### Chinese
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: Chinese, United Nations Security Council, North Korea_
+_Context: Chinese, North Korea, United Nations Security Council_
 
 ##### Gambian presidential election, 2016
 ### [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md)
@@ -49,7 +49,7 @@ _Context: Philippines, Human Rights Day, Burial of Ferdinand Marcos, drug crackd
 
 ##### United States Senate election in Louisiana, 2016
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: United States Senate election in Louisiana, 2016, Foster Campbell, John N. Kennedy, Democrat, Louisiana, Republican_
+_Context: Louisiana, John N. Kennedy, Democrat, United States Senate election in Louisiana, 2016, Republican, Foster Campbell_
 
 ## [Previous Day...](/news/2016/12/9/index.md)
 

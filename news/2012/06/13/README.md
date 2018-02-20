@@ -39,7 +39,7 @@ The first planeload of deportees will leave on Sunday, after hundreds of illegal
 
 ##### UN Conference on Sustainable Development
 ### [The UN Conference on Sustainable Development begins in Rio de Janeiro, launching a new round of debate on the future habitability of Earth, its resources and people, 20 years after the first Earth Summit. ](/news/2012/06/13/the-un-conference-on-sustainable-development-begins-in-rio-de-janeiro-launching-a-new-round-of-debate-on-the-future-habitability-of-earth.md)
-_Context: Rio de Janeiro, Earth, the first Earth Summit, UN Conference on Sustainable Development, habitable_
+_Context: habitable, Rio de Janeiro, the first Earth Summit, Earth, UN Conference on Sustainable Development_
 
 ##### Montreal
 ### [A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. ](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.md)
@@ -67,7 +67,7 @@ _Context: Manal al Sharif, Saudi King Abdullah_
 
 ##### Aung San Suu Kyi
 ### [Myanmar democracy activist Aung San Suu Kyi returns to Europe after more than two decades for a European tour, including Norway, Switzerland, France, Ireland and Britain. ](/news/2012/06/13/myanmar-democracy-activist-aung-san-suu-kyi-returns-to-europe-after-more-than-two-decades-for-a-european-tour-including-norway-switzerland.md)
-_Context: France, Norway, Aung San Suu Kyi, Ireland, United Kingdom, Switzerland_
+_Context: Norway, Aung San Suu Kyi, Switzerland, United Kingdom, Ireland, France_
 
 ##### Israel
 ### [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md)

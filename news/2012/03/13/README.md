@@ -65,7 +65,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ##### Australian Foreign Minister
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
-_Context: Mark Arbib, Senate of Australia, NSW, Australian Foreign Minister, Bob Carr_
+_Context: Mark Arbib, Australian Foreign Minister, Senate of Australia, NSW, Bob Carr_
 
 ##### Alabama
 ### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)

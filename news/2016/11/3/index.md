@@ -9,7 +9,7 @@ Dozens of Afghan civilians were killed on Thursday in air strikes called in when
 
 ##### Moro conflict
 ### [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md)
-_Context: Nur Misuari, Moro conflict, Rodrigo Duterte, Moro National Liberation Front, Philippines, Malacanang Palace_
+_Context: Rodrigo Duterte, Moro National Liberation Front, Moro conflict, Malacanang Palace, Philippines, Nur Misuari_
 
 ##### 
 ### [Security forces killed at least 2 insurgents and another 5 were injured in Cairo. ](/news/2016/11/3/security-forces-killed-at-least-2-insurgents-and-another-5-were-injured-in-cairo.md)

@@ -9,7 +9,7 @@ The massive disruption of flights into and out of Sydney has caused economic cha
 
 ##### Chimney collapse
 ### [ A chimney collapse in Korba in the Indian state of Chhattisgarh leaves at least 15 workers dead and at least 50 feared trapped. ](/news/2009/09/23/a-chimney-collapse-in-korba-in-the-indian-state-of-chhattisgarh-leaves-at-least-15-workers-dead-and-at-least-50-feared-trapped.md)
-_Context: Korba, Indian state, chimney collapse, Chhattisgarh_
+_Context: Korba, Chhattisgarh, chimney collapse, Indian state_
 
 ##### Libya
 ### [ The Libyan government pitches a tent in suburban New York on land rented from Donald Trump that leader Muammar al-Gaddafi may use for entertaining, but local officials order workers to stop the construction, saying it "violated several codes and laws of the town of Bedford". ](/news/2009/09/23/the-libyan-government-pitches-a-tent-in-suburban-new-york-on-land-rented-from-donald-trump-that-leader-muammar-al-gaddafi-may-use-for-enter.md)
@@ -17,19 +17,19 @@ The Libyan Government has pitched a tent in suburban New York that leader Muamma
 
 ##### Prime Minister
 ### [ Prime Minister of Bhutan Jigme Thinley describes an earthquake which hit the Himalayan kingdom on Monday as "one of the biggest disasters in recent times". ](/news/2009/09/23/prime-minister-of-bhutan-jigme-thinley-describes-an-earthquake-which-hit-the-himalayan-kingdom-on-monday-as-one-of-the-biggest-disasters-i.md)
-_Context: Prime Minister, Jigme Thinley, Bhutan_
+_Context: Jigme Thinley, Prime Minister, Bhutan_
 
 ##### South Africa
 ### [ Gay activists in South Africa welcome a life sentence for a man involved in the gang rape and murder of lesbian football star Eudy Simelane, one of the first women to openly live as a lesbian in her community of KwaThema. ](/news/2009/09/23/gay-activists-in-south-africa-welcome-a-life-sentence-for-a-man-involved-in-the-gang-rape-and-murder-of-lesbian-football-star-eudy-simelane.md)
-_Context: KwaThema, South Africa, Eudy Simelane, lesbian, association football_
+_Context: South Africa, association football, KwaThema, Eudy Simelane, lesbian_
 
 ##### President
 ### [ Former President of Cuba Fidel Castro praises current President of the United States Barack Obama for his speech before the United Nations General Assembly for admitting it had been slow to act on climate change but urges that the American capitalist system is incompatible with a clean planet. ](/news/2009/09/23/former-president-of-cuba-fidel-castro-praises-current-president-of-the-united-states-barack-obama-for-his-speech-before-the-united-nations.md)
-_Context: United Nations General Assembly, Barack Obama, Fidel Castro, President, U.S. President_
+_Context: Barack Obama, Fidel Castro, U.S. President, United Nations General Assembly, President_
 
 ##### Mexico
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: San Ysidro, Mexico, United States_
+_Context: United States, Mexico, San Ysidro_
 
 ##### Scotland
 ### [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md)
@@ -41,15 +41,15 @@ Business experts fear that a break-in at a cash depot in Sweden could lead to a 
 
 ##### The Sydney Morning Herald
 ### [ A report carried by "The Sydney Morning Herald" says Australia is poised to be the world's fastest growing industrialised nation over the next four decades, reaching a population of 35 million by 2050. ](/news/2009/09/23/a-report-carried-by-the-sydney-morning-herald-says-australia-is-poised-to-be-the-world-s-fastest-growing-industrialised-nation-over-the-n.md)
-_Context: The Sydney Morning Herald, Australia_
+_Context: Australia, The Sydney Morning Herald_
 
 ##### German police
 ### [ The Bundespolizei investigate whether a string of letters from the far-right NPD party to politicians from immigrant backgrounds have incited racial hatred. ](/news/2009/09/23/the-bundespolizei-investigate-whether-a-string-of-letters-from-the-far-right-npd-party-to-politicians-from-immigrant-backgrounds-have-incit.md)
-_Context: migrants, far-right NPD party, German police, racial hatred_
+_Context: far-right NPD party, German police, racial hatred, migrants_
 
 ##### Tanzania
 ### [ A court in Tanzania sentences three men to death by hanging for killing a 14-year-old albino boy, Matatizo Dunia, to steal parts of his anatomy. It is the country's first conviction for this offence. ](/news/2009/09/23/a-court-in-tanzania-sentences-three-men-to-death-by-hanging-for-killing-a-14-year-old-albino-boy-matatizo-dunia-to-steal-parts-of-his-ana.md)
-_Context: Tanzania, albino, Matatizo Dunia, men found guilty of killing an albino boy_
+_Context: Tanzania, Matatizo Dunia, albino, men found guilty of killing an albino boy_
 
 ##### Honduras
 ### [ A man is shot dead in a clash between police and supporters of ousted Honduran President Manuel Zelaya, believed to be the first death since his return to the country. ](/news/2009/09/23/a-man-is-shot-dead-in-a-clash-between-police-and-supporters-of-ousted-honduran-president-manuel-zelaya-believed-to-be-the-first-death-sinc.md)
@@ -61,11 +61,11 @@ _Context: India, Navratri, Julia Roberts_
 
 ##### India
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: Turkey, Moon, Switzerland, India, German_
+_Context: India, Switzerland, Moon, German, Turkey_
 
 ##### Julio Alberto Poch
 ### [ Julio Alberto Poch, a Transavia commercial airline pilot, is arrested in Spain over his alleged role in Argentina's 1976&ndash;1983 "Dirty War". ](/news/2009/09/23/julio-alberto-poch-a-transavia-commercial-airline-pilot-is-arrested-in-spain-over-his-alleged-role-in-argentina-s-1976-ndash-1983-dirty.md)
-_Context: Argentina, Dirty War, Spain, Transavia, Julio Alberto Poch_
+_Context: Spain, Julio Alberto Poch, Argentina, Dirty War, Transavia_
 
 ##### United Nations
 ### [ In his first United Nations appearance, Libyan leader Muammar al-Gaddafi calls for reform of the Security Council and chastises the Council for failing to intervene or prevent some 65 wars since the U.N. was founded in 1945. ](/news/2009/09/23/in-his-first-united-nations-appearance-libyan-leader-muammar-al-gaddafi-calls-for-reform-of-the-security-council-and-chastises-the-council.md)
@@ -73,7 +73,7 @@ In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security C
 
 ##### China
 ### [ China relaxes travel curbs for Guangdong residents visiting Macau. ](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.md)
-_Context: Macau, China, Guangdong_
+_Context: Guangdong, China, Macau_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
@@ -81,7 +81,7 @@ _Context: Human Rights Watch, Sri Lanka_
 
 ##### Poland
 ### [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md)
-_Context: Gosc Niedzielny, Alicja Tysiac, Nazism, abortion, Poland, Catholic_
+_Context: Catholic, Nazism, Poland, abortion, Alicja Tysiac, Gosc Niedzielny_
 
 ##### German
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)
@@ -93,7 +93,7 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 
 ##### King Abdullah University of Science and Technology
 ### [ The multi-billion dollar King Abdullah University of Science and Technology, boasting one of the world's fastest supercomputers, opens near Jeddah in Saudi Arabia in an attempt to enable the country to compete in science and technology internationally. ](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.md)
-_Context: supercomputer, Saudi Arabia, Jeddah, King Abdullah University of Science and Technology_
+_Context: King Abdullah University of Science and Technology, Saudi Arabia, Jeddah, supercomputer_
 
 ## [Previous Day...](/news/2009/09/22/index.md)
 

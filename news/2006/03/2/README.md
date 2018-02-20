@@ -17,7 +17,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Alaksandar Kazulin
 ### [ Alaksandar Kazulin, the Social Democratic Party candidate for the office of President of Belarus, was detained by Minsk police after he was rejected entrance to a congress hosted by current leader Alexander Lukashenko. Kazulin also suffered injuries during the course of his detention, which is still being enforced, though the elections will commence in 17 days. ](/news/2006/03/2/alaksandar-kazulin-the-social-democratic-party-candidate-for-the-office-of-president-of-belarus-was-detained-by-minsk-police-after-he-was.md)
-_Context: Alexander Lukashenko, Alaksandar Kazulin, Belarusian presidential election, 2006, Belarussian President, Minsk, Social Democratic Party_
+_Context: Belarusian presidential election, 2006, Social Democratic Party, Alaksandar Kazulin, Minsk, Alexander Lukashenko, Belarussian President_
 
 ##### Shahrud
 ### [ Traces of a prehistoric, 8,000-year-old civilization are found in Shahrud, Iran. The discoveries included ovens, craft workshops, and other evidence of settlements. ](/news/2006/03/2/traces-of-a-prehistoric-8-000-year-old-civilization-are-found-in-shahrud-iran-the-discoveries-included-ovens-craft-workshops-and-other.md)
@@ -29,7 +29,7 @@ _Context: Pat Robertson, National Religious Broadcasters_
 
 ##### Dubai Ports World controversy
 ### [ Dubai Ports World controversy: The United States urges the United Arab Emirates to end its boycott of Israel: "The Bush administration said yesterday it is pressing the United Arab Emirates to drop its economic boycott of Israel&nbsp;- a major sticking point in the proposed takeover of key U.S. ports by a UAE-owned firm." ](/news/2006/03/2/dubai-ports-world-controversy-the-united-states-urges-the-united-arab-emirates-to-end-its-boycott-of-israel-the-bush-administration-said.md)
-_Context: Dubai Ports World controversy, Israel, United Arab Emirates_
+_Context: Dubai Ports World controversy, United Arab Emirates, Israel_
 
 ##### Menzies Campbell
 ### [ Sir Menzies Campbell has been elected the new leader of the Liberal Democrats. ](/news/2006/03/2/sir-menzies-campbell-has-been-elected-the-new-leader-of-the-liberal-democrats.md)
@@ -37,31 +37,31 @@ _Context: leader of the Liberal Democrats, Menzies Campbell_
 
 ##### European Central Bank
 ### [ The European Central Bank raises Euro base interest rates by 0.25% to 2.5%. The move affects the 12 members of the Eurozone. ](/news/2006/03/2/the-european-central-bank-raises-euro-base-interest-rates-by-0-25-to-2-5-the-move-affects-the-12-members-of-the-eurozone.md)
-_Context: EUR, Eurozone, European Central Bank_
+_Context: Eurozone, European Central Bank, EUR_
 
 ##### Kenya
 ### [ Kenya: Masked gunmen, since revealed to be Kenyan police, attack the offices of leading newspaper "The Standard" and its television station KTN, following their report that President Mwai Kibaki held secret meetings with key opposition figure Kalonzo Musyoka. ](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-police-attack-the-offices-of-leading-newspaper-the-standard-and-its-television-station.md)
-_Context: Kenya, The Standard, President, Mwai Kibaki, Kalonzo Musyoka, KTN_
+_Context: KTN, President, Kenya, The Standard, Kalonzo Musyoka, Mwai Kibaki_
 
 ##### CIA flights
 ### [ CIA flights: French newspaper "Le Figaro" reveals that the attorney general of Bobigny has opened up an investigation concerning the landing of a CIA flight in Le Bourget Airport following a complaint deposed at the end of December 2005 by NGOs International Federation of Human Rights Leagues and the French "Ligue des droits de l'homme". ](/news/2006/03/2/cia-flights-french-newspaper-le-figaro-reveals-that-the-attorney-general-of-bobigny-has-opened-up-an-investigation-concerning-the-landin.md)
-_Context: Le Bourget Airport, International Federation of Human Rights Leagues, attorney general, CIA, Le Figaro, CIA flights, Bobigny, NGO, Ligue des droits de l'homme_
+_Context: NGO, Le Figaro, CIA flights, International Federation of Human Rights Leagues, attorney general, Le Bourget Airport, Ligue des droits de l'homme, CIA, Bobigny_
 
 ##### U.S. President
 ### [ Just two days before U.S. President George W. Bush is scheduled to visit Pakistan, a car bomb exploded in the Marriott Hotel Karachi parking lot adjacent to a United States consulate in Karachi, killing at least four people including a US diplomat and his driver and injuring at least fifty others. ](/news/2006/03/2/just-two-days-before-u-s-president-george-w-bush-is-scheduled-to-visit-pakistan-a-car-bomb-exploded-in-the-marriott-hotel-karachi-parkin.md)
-_Context: consulate, Pakistan, Karachi, George W. Bush, U.S. President_
+_Context: Karachi, U.S. President, consulate, George W. Bush, Pakistan_
 
 ##### Prison riot
 ### [ A prison riot involving close to 1,300 prisoners at Afghanistan's Pul-e-Charkhi prison ended after four days. ](/news/2006/03/2/a-prison-riot-involving-close-to-1-300-prisoners-at-afghanistan-s-pul-e-charkhi-prison-ended-after-four-days.md)
-_Context: Pul-e-Charkhi prison, Afghan, prison riot_
+_Context: Afghan, Pul-e-Charkhi prison, prison riot_
 
 ##### Milan
 ### [ Italian judges in Milan to charge Prime Minister Silvio Berlusconi and David Mills (husband of Tessa Jowell, a British Minister) in connection with a bribery scandal. ](/news/2006/03/2/italian-judges-in-milan-to-charge-prime-minister-silvio-berlusconi-and-david-mills-husband-of-tessa-jowell-a-british-minister-in-connect.md)
-_Context: Silvio Berlusconi, Milan, David Mills, bribes, Tessa Jowell_
+_Context: David Mills, Milan, bribes, Silvio Berlusconi, Tessa Jowell_
 
 ##### President
 ### [ Former Iranian President Mohammad Khatami, member of the moderate wing of the regime, describes the Holocaust as a "historical reality," contradicting the current leader Mahmoud Ahmadinejad, an extremist who has described it as a "myth" the previous year. ](/news/2006/03/2/former-iranian-president-mohammad-khatami-member-of-the-moderate-wing-of-the-regime-describes-the-holocaust-as-a-historical-reality-co.md)
-_Context: Mohammad Khatami, Mahmoud Ahmadinejad, Holocaust, President_
+_Context: President, Mohammad Khatami, Mahmoud Ahmadinejad, Holocaust_
 
 ## [Previous Day...](/news/2006/03/1/index.md)
 

@@ -9,11 +9,11 @@ Despite a shaky Tom Brady, the New England Patriots were still too much for the 
 
 ##### Chinese President
 ### [ Chinese President Hu Jintao shakes hands with Chinese Patriotic Catholic Association leader Liu Bainian at a party-sponsored New Year's tea party. ](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.md)
-_Context: Chinese New Year, Hu Jintao, state-backed church, Communist Party of China, Liu Bainian, tea party, Chinese President_
+_Context: tea party, Liu Bainian, Chinese President, Hu Jintao, Chinese New Year, state-backed church, Communist Party of China_
 
 ##### Israel
 ### [ Israel blocks fuel to the Gaza City power plant, causing a citywide blackout. ](/news/2008/01/20/israel-blocks-fuel-to-the-gaza-city-power-plant-causing-a-citywide-blackout.md)
-_Context: Israel, Gaza, power plant, power outage_
+_Context: power outage, Gaza, power plant, Israel_
 
 ##### Nashik
 ### [ A bus carrying pilgrims crashes near Nashik, India killing at least 37, including 5 children. ](/news/2008/01/20/a-bus-carrying-pilgrims-crashes-near-nashik-india-killing-at-least-37-including-5-children.md)

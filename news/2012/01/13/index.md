@@ -9,7 +9,7 @@ Demonstrations held in support of Free Syrian Army, as Arab League chief warns o
 
 ##### Standard & Poor's
 ### [The Standard & Poor's credit rating agency lowers its long-term credit ratings on the eurozone countries of Cyprus, Italy, Portugal, and Spain by two notches each and Austria, France, Malta, Slovakia, and Slovenia by one notch each. ](/news/2012/01/13/the-standard-poor-s-credit-rating-agency-lowers-its-long-term-credit-ratings-on-the-eurozone-countries-of-cyprus-italy-portugal-and-spa.md)
-_Context: France, Standard & Poor's, eurozone, Portugal, Cypriot, Malta, credit ratings, Italy, Spain, Slovakia, Slovenia, Austria_
+_Context: Standard & Poor's, Austria, Spain, Cypriot, France, Malta, Italy, Portugal, credit ratings, eurozone, Slovenia, Slovakia_
 
 ##### Lions Gate Entertainment
 ### [Lions Gate Entertainment, the largest independent studio in the United States, purchases Summit Entertainment for US$412.5 million. ](/news/2012/01/13/lions-gate-entertainment-the-largest-independent-studio-in-the-united-states-purchases-summit-entertainment-for-us-412-5-million.md)
@@ -17,11 +17,11 @@ Jan 13 - Lions Gate Entertainment Corp boughtprivate studio Summit Entertainment
 
 ##### Sunk
 ### [Costa Concordia disaster: The cruise ship "Costa Concordia" runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. ](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-concordia-runs-aground-at-isola-del-giglio-in-the-mediterranean-sea-with-32-passengers-de.md)
-_Context: Costa Concordia, Isola del Giglio, Mediterranean Sea, sunk_
+_Context: Costa Concordia, Mediterranean Sea, sunk, Isola del Giglio_
 
 ##### Kiribati
 ### [Kiribati President Anote Tong is re-elected to a third (and final) term in the 2012 presidential election. ](/news/2012/01/13/kiribati-president-anote-tong-is-re-elected-to-a-third-and-final-term-in-the-2012-presidential-election.md)
-_Context: 2012 presidential election, Anote Tong, Kiribati, President_
+_Context: 2012 presidential election, Kiribati, President, Anote Tong_
 
 ##### Reforms in Burma
 ### [Reforms in Burma: Burma announces a mass pardon for political prisoners, including student leader Min Ko Naing. ](/news/2012/01/13/reforms-in-burma-burma-announces-a-mass-pardon-for-political-prisoners-including-student-leader-min-ko-naing.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2016/03/3/index.html)  [JSON](2016/03/3/index.json)  [XML](2016/
 
 ##### DHKP/C insurgency in Turkey
 ### [Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured. ](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-two-women-from-the-revolutionary-peopleas-liberation-army-front-suspected-of-ambushing-a.md)
-_Context: Istanbul, European, DHKP/C insurgency in Turkey, Revolutionary People's Liberation Army-Front, Bayrampasa, Turkish police_
+_Context: DHKP/C insurgency in Turkey, European, Turkish police, Istanbul, Revolutionary People's Liberation Army-Front, Bayrampasa_
 
 ##### Power outage
 ### [A nationwide power outage hits Syria. The Syrian government says shortly before the power outage, militants had hit part of a power-generating station with rockets in the city of Hama, though it hasn't said whether this damage was linked to the nationwide outage. Also, it isn't clear how many people are affected by the power outage as many cities outside of the government's control already weren't being served by the government-run power grid. ](/news/2016/03/3/a-nationwide-power-outage-hits-syria-the-syrian-government-says-shortly-before-the-power-outage-militants-had-hit-part-of-a-power-generati.md)
-_Context: Syria, power outage, Hama_
+_Context: Syria, Hama, power outage_
 
 ##### Kwekwe
 ### [At least 31 people are killed in Kwekwe, Zimbabwe, when a bus, with a blown front tire, switches lanes and slams into an oncoming public transport minibus. ](/news/2016/03/3/at-least-31-people-are-killed-in-kwekwe-zimbabwe-when-a-bus-with-a-blown-front-tire-switches-lanes-and-slams-into-an-oncoming-public-tra.md)
@@ -21,7 +21,7 @@ Seoul (AFP) - North Korea fired short-range projectiles into the sea off its eas
 
 ##### Taliban insurgency
 ### [Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-leadership-is-living-i.md)
-_Context: Taliban insurgency, Sartaj Aziz, Islamabad, Taliban, Pakistan_
+_Context: Islamabad, Sartaj Aziz, Taliban insurgency, Pakistan, Taliban_
 
 ##### Its intervention in Ukraine
 ### [The United States extends sanctions against Russia over its military intervention in Ukraine. ](/news/2016/03/3/the-united-states-extends-sanctions-against-russia-over-its-military-intervention-in-ukraine.md)
@@ -29,15 +29,15 @@ President Obama has extended for another year U.S. sanctions imposed on Russia o
 
 ##### Jordan-United States relations
 ### [The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL. ](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces-defend-the-country-from-the-threa.md)
-_Context: UH-60 Black Hawk, Jordanian military, ISIL, Jordan-United States relations, United States, Jordan_
+_Context: Jordan, ISIL, United States, Jordan-United States relations, UH-60 Black Hawk, Jordanian military_
 
 ##### Honduran
 ### [Honduran indigenous environmental activist Berta Caceres is assassinated in her home in La Esperanza in Intibuca Department. ](/news/2016/03/3/honduran-indigenous-environmental-activist-berta-ca-ceres-is-assassinated-in-her-home-in-la-esperanza-in-intibuca-department.md)
-_Context: Honduran, Berta Caceres, La Esperanza, Intibuca Department_
+_Context: Honduran, Intibuca Department, Berta Caceres, La Esperanza_
 
 ##### Guyana
 ### [A riot at a prison in Guyana's capital Georgetown leaves at least 16 people dead. The riot began when inmates angered by a search that led to the confiscation of mobile phones set fires in one part of the prison. ](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.md)
-_Context: cell phone-texting, Georgetown, Guyana_
+_Context: Georgetown, Guyana, cell phone-texting_
 
 ##### New Zealand flag debate
 ### [Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.md)
@@ -45,7 +45,7 @@ New Zealanders can now begin voting by post in the final stage of a referendum o
 
 ##### 2014-16 Venezuelan protests
 ### [Violence breaks out in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power-of.md)
-_Context: Venezuela, National Assembly, San Cristobal, Supreme Court, 2014-16 Venezuelan protests, Venezuelan police_
+_Context: Supreme Court, San Cristobal, Venezuela, National Assembly, 2014-16 Venezuelan protests, Venezuelan police_
 
 ##### Republican Party presidential debates, 2016
 ### [The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. ](/news/2016/03/3/the-eleventh-republican-party-presidential-debate-of-the-election-cycle-takes-place-at-the-fox-theatre-in-downtown-detroit-michigan-airing.md)

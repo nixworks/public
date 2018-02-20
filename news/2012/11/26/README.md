@@ -13,7 +13,7 @@ Mark Carney, the head of the Canadian central bank, is named as the surprise cho
 
 ##### New York Governor
 ### [Governor of New York Andrew Cuomo announces that Hurricane Sandy ran up a bill of $32 billion in New York. ](/news/2012/11/26/governor-of-new-york-andrew-cuomo-announces-that-hurricane-sandy-ran-up-a-bill-of-32-billion-in-new-york.md)
-_Context: Hurricane Sandy, New York, Andrew Cuomo, New York Governor_
+_Context: Hurricane Sandy, Andrew Cuomo, New York, New York Governor_
 
 ##### Paraguayan President
 ### [President of Paraguay Federico Franco announces that his country will become an oil producing nation, after a recent discovery in the Chaco region, close to the border with Argentina. ](/news/2012/11/26/president-of-paraguay-federico-franco-announces-that-his-country-will-become-an-oil-producing-nation-after-a-recent-discovery-in-the-chaco.md)
@@ -25,15 +25,15 @@ _Context: German, Caritas International, Baden-Wurttemberg, Titisee-Neustadt_
 
 ##### Scorpion
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)
-_Context: Costa Rica, scorpion, Spain, Barajas International Airport, Madrid, Iberia airlines, Airbus A340_
+_Context: Airbus A340, scorpion, Iberia airlines, Madrid, Barajas International Airport, Spain, Costa Rica_
 
 ##### Norway
 ### [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md)
-_Context: 2011 Norway attacks, Norway, NRK, Oslo, Anders Behring Breivik, bomb, van_
+_Context: Norway, 2011 Norway attacks, Oslo, Anders Behring Breivik, van, NRK, bomb_
 
 ##### Ontario Superior Court of Justice
 ### [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario's conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontarioas-conflict-of-interest-law-and-orders-him-to-remove-f.md)
-_Context: mayor, Rob Ford, Ontario, Ontario Superior Court of Justice, Toronto_
+_Context: Ontario, Rob Ford, Toronto, Ontario Superior Court of Justice, mayor_
 
 ##### President
 ### [President of Egypt Mohamed Morsi meets judges to try to defuse a crisis over a decree that extends his powers, as a day of opposition protests looms. ](/news/2012/11/26/president-of-egypt-mohamed-morsi-meets-judges-to-try-to-defuse-a-crisis-over-a-decree-that-extends-his-powers-as-a-day-of-opposition-protes.md)

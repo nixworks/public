@@ -5,31 +5,31 @@ Formats: [HTML](2005/04/28/index.html)  [JSON](2005/04/28/index.json)  [XML](200
 
 ##### Legislative election
 ### [ Almost three months after the legislative election in Iraq, the National Assembly voted overwhelmingly to approve a Shi'a-led cabinet, establishing the first elected government in the history of Iraq. Two of the four deputy prime minister's slots remained vacant, however, and five ministries, including the important defence and oil slots, were left in the hands of temporary managers. ](/news/2005/04/28/almost-three-months-after-the-legislative-election-in-iraq-the-national-assembly-voted-overwhelmingly-to-approve-a-shi-a-led-cabinet-esta.md)
-_Context: history of Iraq, legislative election, forming a government, ministries, Iraq, Shi'a, National Assembly of Iraq_
+_Context: forming a government, Iraq, history of Iraq, legislative election, National Assembly of Iraq, ministries, Shi'a_
 
 ##### Ivory-billed woodpecker
 ### [ The ivory-billed woodpecker, long thought to be extinct, has been rediscovered in the "Big Woods" area of Arkansas. ](/news/2005/04/28/the-ivory-billed-woodpecker-long-thought-to-be-extinct-has-been-rediscovered-in-the-big-woods-area-of-arkansas.md)
-_Context: extinct, ivory-billed woodpecker, Arkansas_
+_Context: Arkansas, ivory-billed woodpecker, extinct_
 
 ##### Prime Minister
 ### [ British Prime Minister Tony Blair publishes the advice of Lord Goldsmith, the Attorney General, on the legality of the 2003 invasion of Iraq. ](/news/2005/04/28/british-prime-minister-tony-blair-publishes-the-advice-of-lord-goldsmith-the-attorney-general-on-the-legality-of-the-2003-invasion-of-ira.md)
-_Context: 2003 invasion of Iraq, Tony Blair, Prime Minister, Attorney General for England and Wales, Lord Goldsmith_
+_Context: Lord Goldsmith, Prime Minister, Attorney General for England and Wales, Tony Blair, 2003 invasion of Iraq_
 
 ##### Edvard Munch
 ### [ The Edvard Munch paintings "The Scream" and "Madonna", which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been-bur.md)
-_Context: Edvard Munch, ''Madonna'', Oslo, 2004, Munch Museum, painting, Norway, The Scream, newspaper, August 22_
+_Context: Munch Museum, ''Madonna'', painting, Norway, The Scream, Edvard Munch, Oslo, newspaper, August 22, 2004_
 
 ##### Death toll
 ### [ The death toll in the Amagasaki rail crash in Japan rises to 104. Rescuers find the body of the train's driver. ](/news/2005/04/28/the-death-toll-in-the-amagasaki-rail-crash-in-japan-rises-to-104-rescuers-find-the-body-of-the-train-s-driver.md)
-_Context: Amagasaki rail crash, Japan, death toll_
+_Context: Amagasaki rail crash, death toll, Japan_
 
 ##### United Nations
 ### [ The United Nations International Criminal Tribunal for Rwanda sentences Mika Muhimana, former Hutu civic leader, to life imprisonment for his role in the Rwandan genocide. ](/news/2005/04/28/the-united-nations-international-criminal-tribunal-for-rwanda-sentences-mika-muhimana-former-hutu-civic-leader-to-life-imprisonment-for-h.md)
-_Context: International Criminal Tribunal for Rwanda, United Nations, Mika Muhimana, 1994 genocide, life imprisonment, Hutu_
+_Context: United Nations, 1994 genocide, Mika Muhimana, life imprisonment, Hutu, International Criminal Tribunal for Rwanda_
 
 ##### Haiti
 ### [ Gunmen kidnap Haitian political leader Jean Enold Buteau, head of the Movement for National Reconstruction. ](/news/2005/04/28/gunmen-kidnap-haitian-political-leader-jean-enold-buteau-head-of-the-movement-for-national-reconstruction.md)
-_Context: Haiti, Movement for National Reconstruction, Jean Enold Buteau_
+_Context: Haiti, Jean Enold Buteau, Movement for National Reconstruction_
 
 ##### Bulgaria
 ### [ A Bulgarian court releases Serbian war crimes suspect Cedomir Brankovic because of his diplomatic immunity. ](/news/2005/04/28/a-bulgarian-court-releases-serbian-war-crimes-suspect-aedomir-brankovia-because-of-his-diplomatic-immunity.md)
@@ -37,19 +37,19 @@ A panel of Sofia City Court released Serbian war crimes suspect Cedomir Brankovi
 
 ##### France
 ### [ In France, Bernard Guillet, an aide to former interior minister Charles Pasqua is questioned in connection with the oil for food probe. ](/news/2005/04/28/in-france-bernard-guillet-an-aide-to-former-interior-minister-charles-pasqua-is-questioned-in-connection-with-the-oil-for-food-probe.md)
-_Context: Bernard Guillet, oil for food, France, Charles Pasqua_
+_Context: Bernard Guillet, France, Charles Pasqua, oil for food_
 
 ##### Switzerland
 ### [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md)
-_Context: Lotschberg Tunnel, Italy, Alps, German, Switzerland_
+_Context: Switzerland, German, Italy, Lotschberg Tunnel, Alps_
 
 ##### Kenya
 ### [ In Kenya, British peer and Kenyan rancher Thomas Cholmondeley is charged with the murder of two Maasai game wardens. ](/news/2005/04/28/in-kenya-british-peer-and-kenyan-rancher-thomas-cholmondeley-is-charged-with-the-murder-of-two-maasai-game-wardens.md)
-_Context: Thomas P. G. Cholmondeley, Maasai, Kenya_
+_Context: Kenya, Thomas P. G. Cholmondeley, Maasai_
 
 ##### Australia
 ### [ In Australia, Palacom has received permission to create a cemetery for upright burials. ](/news/2005/04/28/in-australia-palacom-has-received-permission-to-create-a-cemetery-for-upright-burials.md)
-_Context: Palacom, cemetery, Australia_
+_Context: Australia, Palacom, cemetery_
 
 ##### Venezuela
 ### [ Venezuelan president Hugo Chavez visits Cuba to foster cooperation between the countries. ](/news/2005/04/28/venezuelan-president-hugo-cha-vez-visits-cuba-to-foster-cooperation-between-the-countries.md)

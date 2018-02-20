@@ -9,11 +9,11 @@ The Obama administration and Russia reached a deal Saturday to compel Syria to a
 
 ##### Moro National Liberation Front
 ### [Moro National Liberation Front rebel soldiers continue to hold 100 people hostage in the Philippine city of Zamboanga as they exchange gunfire with Philippine Army troops. ](/news/2013/09/14/moro-national-liberation-front-rebel-soldiers-continue-to-hold-100-people-hostage-in-the-philippine-city-of-zamboanga-as-they-exchange-gunfi.md)
-_Context: Zamboanga City, army, Philippines, Moro National Liberation Front_
+_Context: Moro National Liberation Front, Zamboanga City, army, Philippines_
 
 ##### Mexico
 ### [Authorities in Mexico's Veracruz state evacuate residents in low-lying areas ahead of the arrival of Hurricane Ingrid. ](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.md)
-_Context: Veracruz, Hurricane Ingrid, Mexico_
+_Context: Hurricane Ingrid, Mexico, Veracruz_
 
 ##### Epsilon
 ### [Japan's "Epsilon" rocket makes its maiden flight, carrying the Hisaki satellite from the Uchinoura Space Centre ](/news/2013/09/14/japan-s-epsilon-rocket-makes-its-maiden-flight-carrying-the-hisaki-satellite-from-the-uchinoura-space-centre.md)

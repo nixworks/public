@@ -17,7 +17,7 @@ Five people have been murdered after a gunman opened fire at a Shiite meeting ha
 
 ##### 2015 PKK rebellion
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: PKK, Daglica, Hakkari Province, Turkey, 2015 PKK rebellion_
+_Context: PKK, Daglica, Turkey, 2015 PKK rebellion, Hakkari Province_
 
 ##### Saudi-led intervention in Yemen
 ### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
@@ -61,7 +61,7 @@ At least 14 people have been killed after a ship taking passengers back from a f
 
 ##### Hacker
 ### [Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. ](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.md)
-_Context: Phoenix, Arizona, ISIS, Malaysia, U.S. military, hacker, Kosovo_
+_Context: U.S. military, Phoenix, Arizona, hacker, Malaysia, ISIS, Kosovo_
 
 ##### Fort Myers, Florida
 ### [A shooting just before midnight at the ninth annual Fort Myers, Florida, Zombicon kills one person and injures four others, none with life threatening injuries, and causes pandemomium on the city's downtown streets. Police ask attendees to share smartphone video from the incident. ](/news/2015/10/17/a-shooting-just-before-midnight-at-the-ninth-annual-fort-myers-florida-zombicon-kills-one-person-and-injures-four-others-none-with-life-t.md)
@@ -69,7 +69,7 @@ Gunfire erupted at a Florida festival that attracts thousands of people dressed 
 
 ##### European migrant crisis
 ### [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md)
-_Context: European migrant crisis, Croatia, Hungary, Slovenia_
+_Context: Hungary, European migrant crisis, Croatia, Slovenia_
 
 ##### Egyptian parliamentary election, 2015
 ### [Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the-2013-military-overthrow-of-president-m.md)
@@ -77,7 +77,7 @@ Voters express the hope that Egypt will some day become a land of opportunity li
 
 ##### Guinean presidential election, 2015
 ### [The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-with-58-per-cent-of-the-vote.md)
-_Context: Guinea, Guinean presidential election, 2015, Alpha Conde, President of Guinea_
+_Context: President of Guinea, Guinea, Guinean presidential election, 2015, Alpha Conde_
 
 ## [Previous Day...](/news/2015/10/16/index.md)
 

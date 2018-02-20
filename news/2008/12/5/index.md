@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/5/index.html)  [JSON](2008/12/5/index.json)  [XML](2008/
 
 ##### Federated States of Micronesia
 ### [ The Federated States of Micronesia recognize Kosovo. ](/news/2008/12/5/the-federated-states-of-micronesia-recognize-kosovo.md)
-_Context: officially recognizes, Federated States of Micronesia, Kosovo_
+_Context: Kosovo, officially recognizes, Federated States of Micronesia_
 
 ##### O. J. Simpson
 ### [ O. J. Simpson is sentenced to 15-33 years in prison with eligibility for parole after 9 years for kidnapping and robbery of two sports memorabilia dealers in a Las Vegas, Nevada, casino. ](/news/2008/12/5/o-j-simpson-is-sentenced-to-15-33-years-in-prison-with-eligibility-for-parole-after-9-years-for-kidnapping-and-robbery-of-two-sports-memo.md)
@@ -13,11 +13,11 @@ This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husk
 
 ##### Financial crisis
 ### [ Global financial crisis of 2008: the United States Department of Labor reports that nonfarm payrolls contracted by 533,000 in November, the worst monthly job loss since 1974. ](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.md)
-_Context: nonfarm payrolls, financial crisis, United States Department of Labor_
+_Context: United States Department of Labor, nonfarm payrolls, financial crisis_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: the Sri Lankan military enters Alampil, nearing the primary LTTE-held town of Mullaitivu. ](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.md)
-_Context: Sri Lankan Civil War, LTTE, Sri Lanka, Sri Lankan military, Mullaitivu_
+_Context: Sri Lankan Civil War, Sri Lanka, Sri Lankan military, LTTE, Mullaitivu_
 
 ##### NASA
 ### [ NASA delays the launch of the Mars Science Laboratory by two years because of lengthening delays and lingering technical issues. ](/news/2008/12/5/nasa-delays-the-launch-of-the-mars-science-laboratory-by-two-years-because-of-lengthening-delays-and-lingering-technical-issues.md)
@@ -33,7 +33,7 @@ MIT researchers said they have succeeded in using radio waves to mix the 50 mill
 
 ##### Evolved HSPA
 ### [ First commercial use of Evolved HSPA cellular technology by Australian operator Telstra. ](/news/2008/12/5/first-commercial-use-of-evolved-hspa-cellular-technology-by-australian-operator-telstra.md)
-_Context: Telstra, Evolved HSPA_
+_Context: Evolved HSPA, Telstra_
 
 ## [Previous Day...](/news/2008/12/4/index.md)
 

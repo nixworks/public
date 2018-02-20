@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/2/index.html)  [JSON](2007/04/2/index.json)  [XML](2007/
 
 ##### Ukrainian President
 ### [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections-o.md)
-_Context: Ukrainian parliamentary election, 2007, parliament, Viktor Yushchenko, Ukrainian President_
+_Context: Viktor Yushchenko, Ukrainian parliamentary election, 2007, parliament, Ukrainian President_
 
 ##### India
 ### [ India's Foreign Secretary, Shivshankar Menon, says that Iran is likely to get an observer status in the South Asian Association for Regional Cooperation. ](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.md)
@@ -21,7 +21,7 @@ Get a recap of the Ohio State Buckeyes vs. Florida Gators basketball game.
 
 ##### United States
 ### [ The United States and South Korea reach an agreement on bilateral free trade, concluding ten months of negotiations. ](/news/2007/04/2/the-united-states-and-south-korea-reach-an-agreement-on-bilateral-free-trade-concluding-ten-months-of-negotiations.md)
-_Context: agreement, South Korea, free trade, United States_
+_Context: United States, South Korea, free trade, agreement_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court rules that the Environmental Protection Agency has the authority to regulate the emission of greenhouse gases and must do so unless it can provide some scientific reason proving otherwise. ](/news/2007/04/2/the-united-states-supreme-court-rules-that-the-environmental-protection-agency-has-the-authority-to-regulate-the-emission-of-greenhouse-gas.md)
@@ -33,15 +33,15 @@ _Context: Cambodian People's Party_
 
 ##### Singapore
 ### [ Singapore Foreign Minister George Yeo meets his Myanmar counterpart, Nyan Win, in Yangon, where the ministers are discussing bilateral cooperation and cultural exchanges. ](/news/2007/04/2/singapore-foreign-minister-george-yeo-meets-his-myanmar-counterpart-nyan-win-in-yangon-where-the-ministers-are-discussing-bilateral-coop.md)
-_Context: Yangon, George Yeo, Myanmar, Nyan Win, Singapore_
+_Context: George Yeo, Nyan Win, Myanmar, Yangon, Singapore_
 
 ##### Panthongtae
 ### [ Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. ](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.md)
-_Context: baht, Temasek Holdings, Shin Corporation, Pinthongta Shinawatra, Panthongtae, Thailand, Thaksin Shinawatra_
+_Context: Thailand, Panthongtae, baht, Shin Corporation, Temasek Holdings, Pinthongta Shinawatra, Thaksin Shinawatra_
 
 ##### Microsoft
 ### [ Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. ](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.md)
-_Context: Bill and Melinda Gates Foundation, Bill Gates, Microsoft, Vietnam, vaccine_
+_Context: Vietnam, Microsoft, Bill Gates, vaccine, Bill and Melinda Gates Foundation_
 
 ## [Previous Day...](/news/2007/04/1/index.md)
 

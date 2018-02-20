@@ -5,11 +5,11 @@ Formats: [HTML](2008/01/27/index.html)  [JSON](2008/01/27/index.json)  [XML](200
 
 ##### Post-election violence
 ### [ 2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. ](/news/2008/01/27/2007a2008-kenyan-crisis-at-least-nine-people-are-killed-in-western-kenya-reports-say-in-violence-apparently-linked-to-last-month-s-dis.md)
-_Context: Kenya, post-election violence_
+_Context: post-election violence, Kenya_
 
 ##### Taiwan
 ### [ Taiwan's Premier Chang Chun-hsiung remains in office as President Chen Shui-bian rejects his resignation. ](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.md)
-_Context: President, Chen Shui-bian, Chang Chun-hsiung, Premier, Taiwan_
+_Context: Premier, President, Chang Chun-hsiung, Taiwan, Chen Shui-bian_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md)

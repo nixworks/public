@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/28/index.html)  [JSON](2011/07/28/index.json)  [XML](201
 
 ##### Army
 ### [At least seven Philippine Army soldiers are killed and 21 injured in a confrontation with Abu Sayyaf militants on Jolo Island. ](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.md)
-_Context: army, Jolo Island, Abu Sayyaf_
+_Context: Jolo Island, army, Abu Sayyaf_
 
 ##### United Nations
 ### [The United Nations accuses Eritrea of attempting to bomb an African Union summit in Ethiopia. ](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.md)
@@ -29,19 +29,19 @@ Sony Corp., Japan’s largest exporter of consumer electronics, cut its annual p
 
 ##### Asiana Airlines Flight 991
 ### [Asiana Airlines Flight 991 crashes in the Pacific Ocean, near Jeju Island, South Korea, killing 2 onboard. ](/news/2011/07/28/asiana-airlines-flight-991-crashes-in-the-pacific-ocean-near-jeju-island-south-korea-killing-2-onboard.md)
-_Context: South Korea, Asiana Airlines Flight 991, Jeju Island, South Pacific Ocean_
+_Context: Asiana Airlines Flight 991, South Pacific Ocean, South Korea, Jeju Island_
 
 ##### Seoul
 ### [At least 57 people are dead and 12 are confirmed missing in the Seoul and Siheung region of South Korea due to landslides caused by heavy rain. ](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.md)
-_Context: South Korea, landslide, Siheung, Seoul_
+_Context: South Korea, Seoul, landslide, Siheung_
 
 ##### Bogra District
 ### [At least 17 people are killed and 30 injured after a truck collides with a bus in the Bogra District of Bangladesh. ](/news/2011/07/28/at-least-17-people-are-killed-and-30-injured-after-a-truck-collides-with-a-bus-in-the-bogra-district-of-bangladesh.md)
-_Context: Bangladesh, Bogra District_
+_Context: Bogra District, Bangladesh_
 
 ##### Famine
 ### [2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. ](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.md)
-_Context: African Union, Al-Shabaab, Mogadishu, famine_
+_Context: Mogadishu, famine, Al-Shabaab, African Union_
 
 ##### DR Congo
 ### [Authorities in the Democratic Republic of the Congo say more than 100 people are feared dead after two boats collided on Tshuapa River. ](/news/2011/07/28/authorities-in-the-democratic-republic-of-the-congo-say-more-than-100-people-are-feared-dead-after-two-boats-collided-on-tshuapa-river.md)
@@ -65,11 +65,11 @@ _Context: Britain's nuclear weapons tests during the 1950s, Supreme Court of Eng
 
 ##### President of Tunisia
 ### [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 16 years in absentia for corruption and property fraud. ](/news/2011/07/28/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-16-years-in-absentia-for-corruption-and-property-fraud.md)
-_Context: President of Tunisia, Zine El Abidine Ben Ali_
+_Context: Zine El Abidine Ben Ali, President of Tunisia_
 
 ##### John Boehner
 ### [John Boehner delays a vote on the United States House of Representatives debt ceiling legislation with the issue deferred until at least Friday. ](/news/2011/07/28/john-boehner-delays-a-vote-on-the-united-states-house-of-representatives-debt-ceiling-legislation-with-the-issue-deferred-until-at-least-fri.md)
-_Context: 2011 U.S. debt ceiling crisis, John Boehner, United States House of Representatives_
+_Context: United States House of Representatives, 2011 U.S. debt ceiling crisis, John Boehner_
 
 ##### Wide-field Infrared Survey Explorer
 ### [Astronomers using the Wide-field Infrared Survey Explorer telescope identify a Trojan asteroid, calling it "2010 TK 7 ", orbiting on the same path as the Earth around the Sun. The rock poses no danger to the Earth since it sits in a what is termed a gravitational "sweet spot". ](/news/2011/07/28/astronomers-using-the-wide-field-infrared-survey-explorer-telescope-identify-a-trojan-asteroid-calling-it-2010-tk-7-orbiting-on-the-sam.md)

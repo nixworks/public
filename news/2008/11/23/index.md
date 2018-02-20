@@ -13,11 +13,11 @@ _Context: Palestinian state, Mahmoud Abbas, Palestinian Authority_
 
 ##### Russia
 ### [ Human rights activists and opposition politicians in Russia's southern republic of Ingushetia say that the predominantly Muslim region is now in a state of civil war. ](/news/2008/11/23/human-rights-activists-and-opposition-politicians-in-russia-s-southern-republic-of-ingushetia-say-that-the-predominantly-muslim-region-is-n.md)
-_Context: Russia, civil war, Ingushetia, federal subjects, Islamists_
+_Context: federal subjects, Russia, civil war, Islamists, Ingushetia_
 
 ##### Guinea-Bissau
 ### [ One person is killed and several injured in an apparent failed coup attempt in Guinea-Bissau, hours after the controversial results of the parliamentary election were announced where the African Party for the Independence of Guinea and Cape Verde won 67 of 100 seats. ](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.md)
-_Context: African Party for the Independence of Guinea and Cape Verde, the parliamentary election, Guinea-Bissau_
+_Context: African Party for the Independence of Guinea and Cape Verde, Guinea-Bissau, the parliamentary election_
 
 ##### Government
 ### [ The government of Burundi abolishes capital punishment and bans homosexuality. Genocide and war crimes are now recognized as illegal activities. ](/news/2008/11/23/the-government-of-burundi-abolishes-capital-punishment-and-bans-homosexuality-genocide-and-war-crimes-are-now-recognized-as-illegal-activi.md)
@@ -25,23 +25,23 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### University of Calgary
 ### [ Scientists led by the University of Calgary are searching for the remains of a meteorite that is believed to have struck northern Canada, around the border of Alberta and Saskatchewan, overnight. ](/news/2008/11/23/scientists-led-by-the-university-of-calgary-are-searching-for-the-remains-of-a-meteorite-that-is-believed-to-have-struck-northern-canada-a.md)
-_Context: Canadian, a meteorite, University of Calgary, Saskatchewan, Alberta_
+_Context: Alberta, Saskatchewan, Canadian, a meteorite, University of Calgary_
 
 ##### Venezuela
 ### [ Venezuelans go to the polls for regional elections. Allies of President Hugo Chvez win 17 of 21 governorships, but the opposition wins in the two biggest states of Miranda and Zulia as well as the mayorship of Caracas. ](/news/2008/11/23/venezuelans-go-to-the-polls-for-regional-elections-allies-of-president-hugo-chavez-win-17-of-21-governorships-but-the-opposition-wins-in.md)
-_Context: Venezuela, Venezuelan President, Opposition, Hugo Chvez, states, Miranda, Zulia, Caracas, regional elections_
+_Context: regional elections, Venezuelan President, Hugo Chvez, states, Zulia, Miranda, Caracas, Opposition, Venezuela_
 
 ##### Dalai Lama
 ### [ The Dalai Lama warns that he is losing confidence in Chinese officials and that the Tibetan people are facing "great danger". ](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.md)
-_Context: Dalai Lama, Tibet, Tibetan, China_
+_Context: Tibetan, Dalai Lama, China, Tibet_
 
 ##### Calgary Stampeders
 ### [ The Calgary Stampeders defeat the Montreal Alouettes 22-14 to win the 96th Grey Cup. ](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.md)
-_Context: Montreal Alouettes, 96th Grey Cup, Calgary Stampeders_
+_Context: Calgary Stampeders, Montreal Alouettes, 96th Grey Cup_
 
 ##### Columbus Crew
 ### [ The Columbus Crew defeat New York Red Bulls 3-1 to win MLS Cup 2008. ](/news/2008/11/23/the-columbus-crew-defeat-new-york-red-bulls-3-1-to-win-mls-cup-2008.md)
-_Context: New York Red Bulls, MLS Cup 2008, Columbus Crew_
+_Context: Columbus Crew, New York Red Bulls, MLS Cup 2008_
 
 ## [Previous Day...](/news/2008/11/22/index.md)
 

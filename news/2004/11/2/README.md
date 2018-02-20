@@ -5,19 +5,19 @@ Formats: [HTML](2004/11/2/index.html)  [JSON](2004/11/2/index.json)  [XML](2004/
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Iraqi officials report at least eight dead in a car bomb outside the education ministry in Baghdad. In Mosul, another car bomb kills two and wounds four Iraqi National Guard. ](/news/2004/11/2/conflict-in-iraq-iraqi-officials-report-at-least-eight-dead-in-a-car-bomb-outside-the-education-ministry-in-baghdad-in-mosul-another-car.md)
-_Context: car bomb, Conflict in Iraq, Baghdad, Iraqi National Guard, Mosul_
+_Context: Conflict in Iraq, car bomb, Mosul, Iraqi National Guard, Baghdad_
 
 ##### Darfur conflict
 ### [ Darfur conflict: United Nations officials say Sudanese troops have surrounded two refugee camps in Darfur and are blocking access. The Sudanese military say they were asked to protect refugees and evict imposters. ](/news/2004/11/2/darfur-conflict-united-nations-officials-say-sudanese-troops-have-surrounded-two-refugee-camps-in-darfur-and-are-blocking-access-the-suda.md)
-_Context: United Nations, refugee camp, Darfur, Sudan, Darfur conflict_
+_Context: Sudan, refugee camp, United Nations, Darfur conflict, Darfur_
 
 ##### Spanking
 ### [ Attempts to totally outlaw parents spanking children in England and Wales fail as a majority of 424 to 75 members of parliament vote against the ban. ](/news/2004/11/2/attempts-to-totally-outlaw-parents-spanking-children-in-england-and-wales-fail-as-a-majority-of-424-to-75-members-of-parliament-vote-agains.md)
-_Context: spanking, England and Wales, MP_
+_Context: MP, England and Wales, spanking_
 
 ##### NASA
 ### [ NASA says it will resume its space shuttle program next May or early June after a lengthy investigation of the Columbia disaster in 2003, and a setback of a March date due to an active 2004 Atlantic hurricane season. ](/news/2004/11/2/nasa-says-it-will-resume-its-space-shuttle-program-next-may-or-early-june-after-a-lengthy-investigation-of-the-columbia-disaster-in-2003-a.md)
-_Context: ''Columbia'' disaster, 2004 Atlantic hurricane season, space shuttle program, NASA_
+_Context: NASA, 2004 Atlantic hurricane season, ''Columbia'' disaster, space shuttle program_
 
 ##### United Arab Emirates
 ### [ UAE president and founding father Sheikh Zayed dies. Vice-President and Prime Minister Sheikh Maktoum temporarily assumes presidential role. ](/news/2004/11/2/uae-president-and-founding-father-sheikh-zayed-dies-vice-president-and-prime-minister-sheikh-maktoum-temporarily-assumes-presidential-role.md)
@@ -29,7 +29,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Anbal Acevedo Vil
 ### [ Anbal Acevedo Vil leads with 3,880 votes of advantage against Pedro Rossell with 98.27% of the total votes counted. By law, a recount must be performed when the winning margin is less than 0.5%. The official winner will be certified on December 31 after the recount is finished. ](/news/2004/11/2/anibal-acevedo-vila-leads-with-3-880-votes-of-advantage-against-pedro-rossello-with-98-27-of-the-total-votes-counted-by-law-a-recount-mu.md)
-_Context: Anbal Acevedo Vil, Pedro Rossell_
+_Context: Pedro Rossell, Anbal Acevedo Vil_
 
 ## [Previous Day...](/news/2004/11/1/index.md)
 

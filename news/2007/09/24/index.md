@@ -5,19 +5,19 @@ Formats: [HTML](2007/09/24/index.html)  [JSON](2007/09/24/index.json)  [XML](200
 
 ##### India
 ### [ The India national cricket team wins the 2007 ICC World Twenty20 beating arch rival Pakistan by 5 runs. ](/news/2007/09/24/the-india-national-cricket-team-wins-the-2007-icc-world-twenty20-beating-arch-rival-pakistan-by-5-runs.md)
-_Context: Pakistan, India, 2007 ICC World Twenty20_
+_Context: India, 2007 ICC World Twenty20, Pakistan_
 
 ##### Menachem Mazuz
 ### [ Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. ](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.md)
-_Context: Attorney General of Israel, Israeli Prime Minister, Ehud Olmert, Menachem Mazuz_
+_Context: Israeli Prime Minister, Menachem Mazuz, Ehud Olmert, Attorney General of Israel_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
-_Context: gay Iran, Mahmoud Ahmadinejad, September 11, 2001 attacks, Columbia University, President, Holocaust, United States_
+_Context: September 11, 2001 attacks, Columbia University, Mahmoud Ahmadinejad, Holocaust, gay Iran, President, United States_
 
 ##### United Nations Secretary-General
 ### [ The Secretary-General of the United Nations Ban Ki-Moon called for a new commitment by world leaders on climate change at a special United Nations session to discuss climate change. ](/news/2007/09/24/the-secretary-general-of-the-united-nations-ban-ki-moon-called-for-a-new-commitment-by-world-leaders-on-climate-change-at-a-special-united.md)
-_Context: United Nations, climate change, United Nations Secretary-General, Ban Ki-Moon_
+_Context: United Nations, United Nations Secretary-General, climate change, Ban Ki-Moon_
 
 ##### United Auto Workers
 ### [ Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract. ](/news/2007/09/24/members-of-the-united-automobile-workers-union-walk-off-their-jobs-at-general-motors-plants-across-the-united-states-as-union-and-company-o.md)
@@ -25,7 +25,7 @@ The first national strike against G.M. by the auto workers union since 1970 bega
 
 ##### President
 ### [ President Luiz Incio Lula da Silva says that he will defend Brazil's record on global climate change when he addresses the United Nations General Assembly this week. ](/news/2007/09/24/president-luiz-inacio-lula-da-silva-says-that-he-will-defend-brazil-s-record-on-global-climate-change-when-he-addresses-the-united-nations.md)
-_Context: Luiz Incio Lula da Silva, Brazil, United Nations General Assembly, president, climate change_
+_Context: Brazil, United Nations General Assembly, climate change, Luiz Incio Lula da Silva, president_
 
 ##### Brazil's stock market
 ### [ Brazil's stock market rises to a record 58,393.75 points and the country's currency, the real, gains 0.11 percent to 1.867 per U.S. dollar. ](/news/2007/09/24/brazil-s-stock-market-rises-to-a-record-58-393-75-points-and-the-country-s-currency-the-real-gains-0-11-percent-to-1-867-per-u-s-dollar.md)

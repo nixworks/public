@@ -25,7 +25,7 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority grounds all Tiger Airways flights in the country until July 9 due to a range of safety concerns. ](/news/2011/07/2/australia-s-civil-aviation-safety-authority-grounds-all-tiger-airways-flights-in-the-country-until-july-9-due-to-a-range-of-safety-concerns.md)
-_Context: Tiger Airways, Civil Aviation Safety Authority, Australia_
+_Context: Civil Aviation Safety Authority, Tiger Airways, Australia_
 
 ##### Coal mine
 ### [3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. ](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.md)
@@ -37,7 +37,7 @@ Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the 
 
 ##### ExxonMobil Corporation
 ### [ExxonMobil workers attempt to contain an oil spill on the Yellowstone River in the US state of Montana. ](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.md)
-_Context: oil spill, ExxonMobil Corporation, Montana, Yellowstone River_
+_Context: Yellowstone River, ExxonMobil Corporation, Montana, oil spill_
 
 ##### Hong Kong
 ### [228 people are arrested during a large demonstration in Hong Kong amid frustration with government policies and rising property prices. ](/news/2011/07/2/228-people-are-arrested-during-a-large-demonstration-in-hong-kong-amid-frustration-with-government-policies-and-rising-property-prices.md)
@@ -57,7 +57,7 @@ Main opposition Puea Thai Party enjoys clear lead in polls over party of current
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel "The Audacity of Hope", the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-befal.md)
-_Context: Freedom Flotilla II, The Audacity of Hope_
+_Context: The Audacity of Hope, Freedom Flotilla II_
 
 ##### Serbia
 ### [Serbia and Kosovo sign the first accords between the two nations since Kosovo's declaration of independence three years ago. ](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/17/index.html)  [JSON](2011/01/17/index.json)  [XML](201
 
 ##### Explosion
 ### [An explosion destroys a bus in the Khyber Pakhtunkhwa province of Pakistan, killing 18. ](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakhtunkhwa-province-of-pakistan-killing-18.md)
-_Context: Northwestern Pakistan, explosion, Pakistan_
+_Context: explosion, Pakistan, Northwestern Pakistan_
 
 ##### Karachi
 ### [A partial curfew is imposed in parts of Karachi, Pakistan, aimed at ending a surge in ethnic and political violence that has claimed 29 lives in the past four days. ](/news/2011/01/17/a-partial-curfew-is-imposed-in-parts-of-karachi-pakistan-aimed-at-ending-a-surge-in-ethnic-and-political-violence-that-has-claimed-29-live.md)
@@ -17,7 +17,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 
 ##### Walmart
 ### [Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.md)
-_Context: South Africa, Massmart, Congress of South African Trade Unions, boycotts, Walmart, organized labour_
+_Context: South Africa, Congress of South African Trade Unions, boycotts, organized labour, Walmart, Massmart_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pays out $3.4 billion last quarter in legal settlings over their drug Avandia. ](/news/2011/01/17/glaxosmithkline-pays-out-3-4-billion-last-quarter-in-legal-settlings-over-their-drug-avandia.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Armenian President
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: genocide of Armenians, reconciliation, Turkey, Armenian President, First World War_
+_Context: Turkey, reconciliation, First World War, Armenian President, genocide of Armenians_
 
 ##### China
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)
@@ -65,7 +65,7 @@ _Context: demonstrations that toppled his regime_
 
 ##### Shinkansen
 ### [A computer glitch temporarily halts all bullet trains in northern and central Japan, affecting thousands of passengers. ](/news/2011/01/17/a-computer-glitch-temporarily-halts-all-bullet-trains-in-northern-and-central-japan-affecting-thousands-of-passengers.md)
-_Context: Japan, Shinkansen_
+_Context: Shinkansen, Japan_
 
 ## [Previous Day...](/news/2011/01/16/index.md)
 

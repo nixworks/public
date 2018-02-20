@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/16/index.html)  [JSON](2014/10/16/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md)
-_Context: War in North-West Pakistan, Pakistan Air Force_
+_Context: Pakistan Air Force, War in North-West Pakistan_
 
 ##### New Zealand
 ### [New Zealand, Malaysia, Angola, Spain and Venezuela have been elected to sit on the United Nations Security Council for two years from 2015. ](/news/2014/10/16/new-zealand-malaysia-angola-spain-and-venezuela-have-been-elected-to-sit-on-the-united-nations-security-council-for-two-years-from-2015.md)

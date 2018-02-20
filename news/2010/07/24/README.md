@@ -9,7 +9,7 @@ The US and South Korea hold a major military exercise in the Sea of Japan, despi
 
 ##### Royal Air Force
 ### [The Royal Air Force tests fighter jets with which it intends to use to shoot down any rogue passenger planes. ](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.md)
-_Context: fighter jet, Royal Air Force_
+_Context: Royal Air Force, fighter jet_
 
 ##### Monterrey
 ### [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey, Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md)
@@ -29,7 +29,7 @@ Protesters around the world rally in support of jailed woman facing execution fo
 
 ##### Academy Award
 ### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
-_Context: Ridley Scott, Kevin Macdonald, Life in a Day, Academy Award_
+_Context: Kevin Macdonald, Academy Award, Ridley Scott, Life in a Day_
 
 ##### Peru
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
@@ -57,7 +57,7 @@ _Context: U.S. military, child pornography_
 
 ##### United States House of Representatives
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: United States, United States House of Representatives, Iran, Israel_
+_Context: United States House of Representatives, Israel, United States, Iran_
 
 ##### Prime Minister of Russia
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)

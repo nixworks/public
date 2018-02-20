@@ -17,7 +17,7 @@ _Context: Mediterranean Sea, Europe, European migrant crisis, Libya_
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: Japan-United States relations, 2016 U.S. election, President-elect, Prime Minister of Japan, Shinzo Abe, Donald Trump_
+_Context: Prime Minister of Japan, Japan-United States relations, Shinzo Abe, 2016 U.S. election, President-elect, Donald Trump_
 
 ##### Three UK
 ### [The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. ](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.md)
@@ -25,7 +25,7 @@ One of Britain&#39;s biggest mobile phone companies has admitted to a major cybe
 
 ##### Rio de Janeiro
 ### [Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. ](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.md)
-_Context: Sergio Cabral Filho, Rio de Janeiro_
+_Context: Rio de Janeiro, Sergio Cabral Filho_
 
 ##### President
 ### [President Joseph Kabila appoints Samy Badibanga as the new Prime Minister of the Democratic Republic of the Congo as part of a power-sharing deal agreed by the opposition and government. ](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.md)

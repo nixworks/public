@@ -13,7 +13,7 @@ Terrorists launch 31 rockets into Israel, causing damages, lightly injuring 2 in
 
 ##### Homs
 ### [At least 45 people including children are killed in a massacre by the Syrian army in Homs, amongst an ongoing uprising. ](/news/2012/03/12/at-least-45-people-including-children-are-killed-in-a-massacre-by-the-syrian-army-in-homs-amongst-an-ongoing-uprising.md)
-_Context: 2011-2012 Syrian uprising, Homs_
+_Context: Homs, 2011-2012 Syrian uprising_
 
 ##### Somali
 ### [The bodies of 70 ethnic Somali and Oromo people are discovered near the Yemeni-Saudi Arabian border. ](/news/2012/03/12/the-bodies-of-70-ethnic-somali-and-oromo-people-are-discovered-near-the-yemeni-saudi-arabian-border.md)
@@ -25,7 +25,7 @@ Oil prices fell on Monday on concerns about slowing growth in China and recessio
 
 ##### India
 ### [India's Kingfisher Airlines cancels at least 40 flights due to pilots not turning up for work due to unpaid salaries. ](/news/2012/03/12/india-s-kingfisher-airlines-cancels-at-least-40-flights-due-to-pilots-not-turning-up-for-work-due-to-unpaid-salaries.md)
-_Context: pilot, India, Kingfisher Airlines_
+_Context: Kingfisher Airlines, pilot, India_
 
 ##### Qianjiang
 ### [A new section of high-speed railway that had undergone test runs collapses near Qianjiang, China. ](/news/2012/03/12/a-new-section-of-high-speed-railway-that-had-undergone-test-runs-collapses-near-qianjiang-china.md)
@@ -33,7 +33,7 @@ The collapsed section raised new doubts about the quality of work and training o
 
 ##### Avalanche
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: Afghan, Ghadoor, Nuristan province, avalanche, Poshan_
+_Context: avalanche, Nuristan province, Afghan, Poshan, Ghadoor_
 
 ##### US Census Bureau headquarters
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
@@ -45,7 +45,7 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 
 ##### Belgium
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)
-_Context: crimes against humanity, Hissne Habr, Chadian President, International Court of Justice, Chad, Belgium, Senegal_
+_Context: Chadian President, Hissne Habr, Chad, crimes against humanity, Senegal, Belgium, International Court of Justice_
 
 ##### Human Rights Council
 ### [A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". ](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.md)

@@ -9,7 +9,7 @@ The Federal Reserve has left its $US85 billion ($91 billion) a month stimulus pr
 
 ##### Mexican Army
 ### [More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resort-city-of-acapulco.md)
-_Context: Acapulco, Mexican Army_
+_Context: Mexican Army, Acapulco_
 
 ##### Ottawa
 ### [At least 6 people are dead in Ottawa after a collision between a Via Rail train and a double-decker OC Transpo bus. ](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.md)
@@ -33,11 +33,11 @@ Antonio Feliu killed two people, took off in his SUV, and led police on a high-s
 
 ##### Tony Abbott
 ### [Tony Abbott is sworn in as the 28th Prime Minister of Australia together with his Ministry. ](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.md)
-_Context: Tony Abbott, Australian Prime Minister, Ministry_
+_Context: Australian Prime Minister, Ministry, Tony Abbott_
 
 ##### IOS 7
 ### [iOS 7, the seventh iteration of Apple Inc.'s iOS mobile operating system, is officially released. The new OS includes major changes to the user interface. ](/news/2013/09/18/ios-7-the-seventh-iteration-of-apple-inc-s-ios-mobile-operating-system-is-officially-released-the-new-os-includes-major-changes-to-the-u.md)
-_Context: iOS, mobile operating system, Apple Inc., iOS 7_
+_Context: iOS, mobile operating system, iOS 7, Apple Inc._
 
 ##### Cygnus 1
 ### [Cygnus 1 (also known as Orbital Sciences COTS Demo Flight) launches the first planned flight of the Orbital Sciences' unmanned resupply spacecraft Cygnus, its first flight to the International Space Station and the second launch of the company's Antares launch vehicle. The flight is under contract to NASA as Cygnus' demonstration mission in the Commercial Orbital Transportation Services (COTS) program. The launch site is MARS on the Delmarva Peninsula in Virginia. ](/news/2013/09/18/cygnus-1-also-known-as-orbital-sciences-cots-demo-flight-launches-the-first-planned-flight-of-the-orbital-sciences-unmanned-resupply-spac.md)

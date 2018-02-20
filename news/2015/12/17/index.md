@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/17/index.html)  [JSON](2015/12/17/index.json)  [XML](201
 
 ##### Libyan Civil War
 ### [ Delegates from Libya's warring factions sign a U.N.-brokered agreement to form a national unity government. Some of Libya's armed brigades are closely allied with political leaders who oppose this agreement. ](/news/2015/12/17/delegates-from-libya-s-warring-factions-sign-a-u-n-brokered-agreement-to-form-a-national-unity-government-some-of-libya-s-armed-brigades.md)
-_Context: national unity government, United Nations, Libyan Civil War, Libya_
+_Context: Libya, Libyan Civil War, United Nations, national unity government_
 
 ##### 2015 PKK rebellion
 ### [ Turkish security forces kill 23 suspected members of the Kurdistan Workers' Party in operations in the Kurdish-majority cities of Cizre and Silopi. ](/news/2015/12/17/turkish-security-forces-kill-23-suspected-members-of-the-kurdistan-workers-party-in-operations-in-the-kurdish-majority-cities-of-cizre-and.md)
@@ -41,7 +41,7 @@ Finance ministers from the UN Security Council on Thursday unanimously backed a 
 
 ##### World Trade Organization
 ### [ The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-th.md)
-_Context: Afghan, least developed country, Nairobi, World Trade Organization, Kenya_
+_Context: Afghan, least developed country, World Trade Organization, Kenya, Nairobi_
 
 ##### United Nations General Assembly
 ### [ The United Nations General Assembly passes a resolution condemning North Korea's human rights abuses and calls on the Security Council to refer violations to the International Criminal Court. ](/news/2015/12/17/the-united-nations-general-assembly-passes-a-resolution-condemning-north-korea-s-human-rights-abuses-and-calls-on-the-security-council-to-r.md)
@@ -65,7 +65,7 @@ A new report shows the Navy tried to cover-up a 2012 incident in which SEAL Team
 
 ##### Russia
 ### [ Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any.md)
-_Context: Donald Trump presidential campaign, Republican, Russian President, United States, Donald Trump, Vladimir Putin, Russia_
+_Context: Republican, Russian President, Donald Trump, Vladimir Putin, Donald Trump presidential campaign, United States, Russia_
 
 ## [Previous Day...](/news/2015/12/16/index.md)
 

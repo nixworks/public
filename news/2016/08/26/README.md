@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/26/index.html)  [JSON](2016/08/26/index.json)  [XML](201
 
 ##### Kurdish-Turkish conflict (1978-present)
 ### [Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint-in-the-town-of-cizre-with-the-pkk-believed.md)
-_Context: Turkish police, Kurdistan Workers' Party, Kurdish-Turkish conflict (1978-present), Cizre_
+_Context: Cizre, Turkish police, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party_
 
 ##### Syrian civil war
 ### [Following a ceasefire agreement with the government, Syrian rebels begin evacuating the war-torn suburb of Darayya, near Damascus, ending a four-year-long siege by government forces. Under the terms of surrender, the 8,000 civilians who reside in the suburb will be moved to regime-controlled areas while several hundred rebel fighters will be given passage to the Idlib Governorate. ](/news/2016/08/26/following-a-ceasefire-agreement-with-the-government-syrian-rebels-begin-evacuating-the-war-torn-suburb-of-darayya-near-damascus-ending-a.md)
@@ -45,11 +45,11 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 
 ##### Trial of Oscar Pistorius
 ### [The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md)
-_Context: Trial of Oscar Pistorius, North Gauteng High Court, Oscar Pistorius_
+_Context: Oscar Pistorius, North Gauteng High Court, Trial of Oscar Pistorius_
 
 ##### France
 ### [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.md)
-_Context: France, Villeneuve-Loubet, commune, Conseil d'Etat, burkini_
+_Context: France, commune, burkini, Conseil d'Etat, Villeneuve-Loubet_
 
 ##### 2016 Zimbabwe protests
 ### [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md)

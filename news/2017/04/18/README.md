@@ -9,7 +9,7 @@ Eight mummies, colourful coffins and more than 1000 funerary statues have been f
 
 ##### United States
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: United Kingdom, Post Holdings, Bright Food, Chinese, consumer goods, United States, Weetabix Limited_
+_Context: consumer goods, Weetabix Limited, Bright Food, Post Holdings, United Kingdom, Chinese, United States_
 
 ##### Philippines
 ### [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md)
@@ -29,7 +29,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to vacate a stay of execution issued by the Arkansas Supreme Court. Arkansas's highest court has also put on hold the execution of another inmate, Bruce Ward. The state had planned to execute eight inmates in eleven days. That schedule, as well as the use of the drug midazolam, sparked a broad range of legal challenges and humanitarian concerns about the executions. Today's planned execution of Don W. Davis would have been the state's first since 2005. ](/news/2017/04/18/the-supreme-court-of-the-united-states-refuses-to-vacate-a-stay-of-execution-issued-by-the-arkansas-supreme-court-arkansas-s-highest-court.md)
-_Context: Supreme Court of the United States, Arkansas Supreme Court, Arkansas, midazolam_
+_Context: Arkansas, Arkansas Supreme Court, Supreme Court of the United States, midazolam_
 
 ##### Shooting of Robert Godwin
 ### [Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. ](/news/2017/04/18/steve-stephens-the-suspected-facebook-killer-accused-of-killing-74-year-old-robert-godwin-kills-himself-after-a-brief-pursuit-with-the-p.md)
@@ -45,7 +45,7 @@ A man shot and killed three people in downtown Fresno and shouted, “Allahu akb
 
 ##### Last month's presidential election
 ### [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md)
-_Context: National Front, immigration, "legal and illegal", last month's presidential election, Marine Le Pen, Jean-Luc Mlenchon, Emmanuel Macron, France_
+_Context: Marine Le Pen, immigration, "legal and illegal", last month's presidential election, National Front, Emmanuel Macron, Jean-Luc Mlenchon, France_
 
 ##### United Kingdom
 ### [British Prime Minister Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minister-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-majo.md)
@@ -57,11 +57,11 @@ UK PM Theresa May announces plan to call snap general election on 8 June
 
 ##### Zambia
 ### [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md)
-_Context: Zambia, Hakainde Hichilema, treason_
+_Context: treason, Zambia, Hakainde Hichilema_
 
 ##### President Trump's Executive Orders
 ### [As expected, during a visit to Kenosha, Wisconsin, President Donald Trump signed an executive order requiring U.S. federal agencies to take measures aimed at protecting U.S. workers, boost protections for some U.S. products, and examine the H-1B visa program which affords foreign workers opportunities for employment in U.S. specialty fields. ](/news/2017/04/18/as-expected-during-a-visit-to-kenosha-wisconsin-president-donald-trump-signed-an-executive-order-requiring-u-s-federal-agencies-to-take.md)
-_Context: Kenosha, President Trump's Executive Orders, H-1B visa, Donald Trump, Wisconsin_
+_Context: H-1B visa, Kenosha, Donald Trump, Wisconsin, President Trump's Executive Orders_
 
 ##### Turkish constitutional referendum, 2017
 ### [The European Commission, based on the Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigatio.md)

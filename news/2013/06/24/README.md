@@ -21,11 +21,11 @@ _Context: Supreme Court of the United States, Fisher v. University of Texas_
 
 ##### Italian Prime Minister
 ### [Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and having sex with an underage prostitute, and is sentenced to seven years in prison. ](/news/2013/06/24/former-italian-prime-minister-silvio-berlusconi-is-found-guilty-of-abusing-his-power-and-having-sex-with-an-underage-prostitute-and-is-sent.md)
-_Context: found guilty, Italian Prime Minister, Silvio Berlusconi_
+_Context: found guilty, Silvio Berlusconi, Italian Prime Minister_
 
 ##### Catalonia
 ### [According to reports in Catalonia, Argentine football star Lionel Messi has paid EUR10 million in Spanish back taxes for 2010 and 2011, and is looking to settle a claimed tax liability of EUR4.1 million for the 2007-2009 period that is the subject of a current investigation. ](/news/2013/06/24/according-to-reports-in-catalonia-argentine-football-star-lionel-messi-has-paid-a-10-million-in-spanish-back-taxes-for-2010-and-2011-and.md)
-_Context: football, Argentina, Spain, Lionel Messi, Catalonia_
+_Context: Catalonia, football, Spain, Argentina, Lionel Messi_
 
 ## [Previous Day...](/news/2013/06/23/index.md)
 

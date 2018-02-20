@@ -9,7 +9,7 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 
 ##### Anton Hammerl
 ### [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md)
-_Context: Libya, South Africa, Anton Hammerl, Muammar Gaddafi_
+_Context: Muammar Gaddafi, South Africa, Libya, Anton Hammerl_
 
 ##### Pakistan
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
@@ -37,7 +37,7 @@ TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has 
 
 ##### Soweto
 ### [More than 850 people are injured after a train collision in Soweto, South Africa. ](/news/2011/05/20/more-than-850-people-are-injured-after-a-train-collision-in-soweto-south-africa.md)
-_Context: Soweto, South Africa_
+_Context: South Africa, Soweto_
 
 ##### Tornado
 ### [A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md)
@@ -49,11 +49,11 @@ _Context: Fiji, Coral Coast, Southern Ocean_
 
 ##### Mississippi River
 ### [Travel on the Mississippi River is closed for five miles near the US city of Baton Rouge, Louisiana due to flooding. ](/news/2011/05/20/travel-on-the-mississippi-river-is-closed-for-five-miles-near-the-us-city-of-baton-rouge-louisiana-due-to-flooding.md)
-_Context: flooding, Mississippi River, Louisiana, Baton Rouge, Louisiana_
+_Context: Mississippi River, Baton Rouge, Louisiana, flooding, Louisiana_
 
 #####  Georgian
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
-_Context: Circassians, Russian, Caucasus, genocide,  Georgian_
+_Context: Russian,  Georgian, Circassians, Caucasus, genocide_
 
 ##### Japan
 ### [Japan agrees to join an international child custody agreement under the 1980 Hague Convention on the Civil Aspects of International Child Abduction. ](/news/2011/05/20/japan-agrees-to-join-an-international-child-custody-agreement-under-the-1980-hague-convention-on-the-civil-aspects-of-international-child-ab.md)
@@ -65,7 +65,7 @@ North Korean leader Kim Jong Il was visiting China on Friday, a South Korean off
 
 ##### U.S. President
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Barack Obama, White House, Six Day War, Israeli Prime Minister, U.S. President, Benjamin Netanyahu_
+_Context: Israeli Prime Minister, White House, Six Day War, U.S. President, Benjamin Netanyahu, Barack Obama_
 
 ##### Taiwan
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
@@ -85,7 +85,7 @@ A footballer obtains a disclosure order against Twitter to learn the identities 
 
 ##### Parole
 ### [A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. ](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.md)
-_Context: Detroit, parole, Mayor of Detroit, Kwame Kilpatrick_
+_Context: Detroit, Kwame Kilpatrick, Mayor of Detroit, parole_
 
 ##### California State Prison, Sacramento
 ### [Two prisoners are injured in a riot at California State Prison, Sacramento. ](/news/2011/05/20/two-prisoners-are-injured-in-a-riot-at-california-state-prison-sacramento.md)
@@ -101,11 +101,11 @@ Young Spaniards plan to defy a ban on their protest camp in Madrid as their chal
 
 ##### Santiago
 ### [Tens of thousands of people protest in Santiago, Chile about plans to build two dams on wild rivers in southern Patagonia with an minority of people turning violent. ](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.md)
-_Context: Patagonia, Santiago, Chile_
+_Context: Santiago, Patagonia, Chile_
 
 ##### Government
 ### [The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. ](/news/2011/05/20/the-government-of-the-people-s-republic-of-china-acknowledges-that-there-are-urgent-problems-associated-with-the-country-s-three-gorges-da.md)
-_Context: soil erosion, Three Gorges Dam, government, drought_
+_Context: Three Gorges Dam, soil erosion, drought, government_
 
 ## [Previous Day...](/news/2011/05/19/index.md)
 

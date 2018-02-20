@@ -9,11 +9,11 @@ DONETSK, Ukraine (Reuters) - Ukrainian government warplanes carried out airstrik
 
 ##### 276 girls kidnapped from northern Nigeria
 ### [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md)
-_Context: Abuja, 276 girls kidnapped from northern Nigeria, Boko Haram, Nigeria_
+_Context: Nigeria, Boko Haram, 276 girls kidnapped from northern Nigeria, Abuja_
 
 ##### Islam
 ### [Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeastern-yobe-state.md)
-_Context: Islam, Boko Haram, Nigeria, Yobe State_
+_Context: Yobe State, Islam, Boko Haram, Nigeria_
 
 ##### Pfizer
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
@@ -33,15 +33,15 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 
 ##### 2014 Thai coup d'tat
 ### [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
-_Context: Bhumibol Adulyadej, King, Prayuth Chan-ocha, 2014 Thai coup d'tat_
+_Context: Bhumibol Adulyadej, King, 2014 Thai coup d'tat, Prayuth Chan-ocha_
 
 ##### Narendra Modi
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
-_Context: Indian Prime Minister, Narendra Modi_
+_Context: Narendra Modi, Indian Prime Minister_
 
 ##### Egyptian presidential election, 2014
 ### [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md)
-_Context: Egypt, Egyptian presidential election, 2014, Abdel Fattah el-Sisi_
+_Context: Abdel Fattah el-Sisi, Egyptian presidential election, 2014, Egypt_
 
 ## [Previous Day...](/news/2014/05/25/index.md)
 

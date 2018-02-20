@@ -5,19 +5,19 @@ Formats: [HTML](2011/10/14/index.html)  [JSON](2011/10/14/index.json)  [XML](201
 
 ##### Barack Obama
 ### [U.S. President Barack Obama authorizes the deployment of up to 100 American soldiers to Uganda, South Sudan, the Central African Republic, and the Democratic Republic of the Congo to assist in operations against the Lord's Resistance Army insurgency. ](/news/2011/10/14/u-s-president-barack-obama-authorizes-the-deployment-of-up-to-100-american-soldiers-to-uganda-south-sudan-the-central-african-republic-a.md)
-_Context: Uganda, Barack Obama, Lord's Resistance Army insurgency, Central African Republic, DR Congo, South Sudan_
+_Context: South Sudan, Uganda, Lord's Resistance Army insurgency, Central African Republic, DR Congo, Barack Obama_
 
 ##### Drones launch
 ### [A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. ](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.md)
-_Context: Pakistan, drones launch, Waziristan, Afghan_
+_Context: Pakistan, Afghan, drones launch, Waziristan_
 
 ##### Apple Inc.
 ### [Apple Inc. releases its latest smartphone model, the iPhone 4S. ](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.md)
-_Context: smartphone, iPhone 4S, Apple Inc._
+_Context: smartphone, Apple Inc., iPhone 4S_
 
 ##### Qantas
 ### [Thousands of Qantas passengers in Australia face further disruption and cancellation of flights as the airline's maintenance engineers go on strike. ](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.md)
-_Context: industrial action, Qantas_
+_Context: Qantas, industrial action_
 
 ##### Credit rating
 ### [Credit rating agency Standard & Poor's cuts Spain's credit rating to AA- with a negative outlook, as the European debt crisis deepens. ](/news/2011/10/14/credit-rating-agency-standard-poor-s-cuts-spain-s-credit-rating-to-aa-with-a-negative-outlook-as-the-european-debt-crisis-deepens.md)
@@ -25,7 +25,7 @@ Spain’s credit rating was cut for the third time in three years by Standard &a
 
 ##### Google
 ### [Google announces that it plans to shut down its Google Buzz social network. ](/news/2011/10/14/google-announces-that-it-plans-to-shut-down-its-google-buzz-social-network.md)
-_Context: social network, Google Buzz, Google_
+_Context: social network, Google, Google Buzz_
 
 ##### Microsoft
 ### [Microsoft completes its acquisition of Internet phone company Skype for US$8.5 billion. ](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.md)
@@ -37,7 +37,7 @@ _Context: Lae, Papua New Guinea_
 
 ##### Xian JH-7
 ### [A JH-7 jet fighter crashes at an air show in Pucheng County in China's Shaanxi Province, leaving one pilot injured and another still missing. ](/news/2011/10/14/a-jh-7-jet-fighter-crashes-at-an-air-show-in-pucheng-county-in-china-s-shaanxi-province-leaving-one-pilot-injured-and-another-still-missing.md)
-_Context: Pucheng County, Xian JH-7, Shaanxi Province, air show_
+_Context: Shaanxi Province, Xian JH-7, air show, Pucheng County_
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand, Yingluck Shinawatra, reassures residents that the capital, Bangkok, will largely escape from major flooding over the weekend. An estimated 289 people have been killed by flooding in Thailand since July 2011. ](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.md)
@@ -53,11 +53,11 @@ Liam Fox quits as defence secretary amid pressure over his working relationship 
 
 ##### Cabinet Office
 ### [British Cabinet Office Minister Oliver Letwin apologises after he is photographed dumping Parliamentary papers &ndash; including confidential constituents' letters &ndash; into a public bin in London's St. James's Park. ](/news/2011/10/14/british-cabinet-office-minister-oliver-letwin-apologises-after-he-is-photographed-dumping-parliamentary-papers-ndash-including-confidentia.md)
-_Context: Oliver Letwin, Cabinet Office, St. James's Park, British Parliament_
+_Context: St. James's Park, Oliver Letwin, Cabinet Office, British Parliament_
 
 ##### Stromatolite
 ### [A stromatolite colony is found at Giant's Causeway in Northern Ireland. ](/news/2011/10/14/a-stromatolite-colony-is-found-at-giant-s-causeway-in-northern-ireland.md)
-_Context: Giant's Causeway, stromatolite, Northern Ireland_
+_Context: Northern Ireland, Giant's Causeway, stromatolite_
 
 ## [Previous Day...](/news/2011/10/13/index.md)
 

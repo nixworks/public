@@ -9,7 +9,7 @@ _Context: Algerian Army, Insurgency in the Maghreb (2002-present), El Oued_
 
 ##### Yemeni Civil War (2015-present)
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
-_Context: Yemeni Civil War (2015-present), Taiz, Yemen_
+_Context: Taiz, Yemen, Yemeni Civil War (2015-present)_
 
 ##### Wounded Warrior Project
 ### [American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. ](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounded-warrior-project-board-of-directors-removes-chief-executive-officer-steven-nardizzi-and-ch.md)
@@ -21,19 +21,19 @@ By Serajul QuadirDHAKA (Reuters) -...
 
 ##### General Motors
 ### [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md)
-_Context: San Francisco, software company, self-driving cars, General Motors_
+_Context: San Francisco, software company, General Motors, self-driving cars_
 
 ##### Japan
 ### [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md)
-_Context: Prime Minister of Japan, Emperor, recovery, Japan, 2011 Tohoku earthquake and tsunami, Fukushima Daiichi nuclear disaster_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Daiichi nuclear disaster, Prime Minister of Japan, recovery, Emperor, Japan_
 
 ##### 2016 SGBPo Paulo flood and mudslide
 ### [At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following-heavy-rain.md)
-_Context: SGBPo Paulo, Brazil, 2016 SGBPo Paulo flood and mudslide_
+_Context: Brazil, SGBPo Paulo, 2016 SGBPo Paulo flood and mudslide_
 
 ##### North Korea's nuclear program
 ### [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md)
-_Context: Kim Jong-un, North Korea, North Korea's nuclear program, leader_
+_Context: North Korea, leader, North Korea's nuclear program, Kim Jong-un_
 
 ##### South Sudanese Civil War
 ### [A new United Nations report on South Sudan describes one of the most horrendous human rights situations in the world, in particular by Government forces, including use of rape as a widespread weapon of war and recommends the U.N. Security Council consider imposing a comprehensive arms embargo on South Sudan and referring the matter to the International Criminal Court. ](/news/2016/03/11/a-new-united-nations-report-on-south-sudan-describes-one-of-the-most-horrendous-human-rights-situations-in-the-world-in-particular-by-gover.md)
@@ -61,7 +61,7 @@ Scientists say a newly discovered microbe can break down plastic containers that
 
 ##### Astronaut
 ### [Astronaut Scott Kelly announces his retirement from NASA effective April 1. Kelly holds the record for the American who has spent the most time in space. ](/news/2016/03/11/astronaut-scott-kelly-announces-his-retirement-from-nasa-effective-april-1-kelly-holds-the-record-for-the-american-who-has-spent-the-most-t.md)
-_Context: NASA, Scott Kelly, Astronaut_
+_Context: Astronaut, NASA, Scott Kelly_
 
 ##### National Academies of Sciences, Engineering, and Medicine
 ### [A report from the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures, while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accurately.md)

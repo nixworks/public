@@ -5,15 +5,15 @@ Formats: [HTML](2004/07/19/index.html)  [JSON](2004/07/19/index.json)  [XML](200
 
 ##### Jordan
 ### [ Jordanian troops detect and intercept four unidentified individuals attempting to "infiltrate to the western side of the Jordan River" (Israel). Three are killed and the fourth arrested. ](/news/2004/07/19/jordanian-troops-detect-and-intercept-four-unidentified-individuals-attempting-to-infiltrate-to-the-western-side-of-the-jordan-river-isr.md)
-_Context: Jordan River, Israel, Jordan_
+_Context: Israel, Jordan, Jordan River_
 
 ##### Israel
 ### [ Israeli Prime Minister Ariel Sharon calls on French Jews to move to Israel immediately in light of the dramatic rise in French anti-semitism (510 anti-semitic acts or threats in the first six months of 2004, compared to 593 for all of 2003). The French government describes his comments as unacceptable. An Israeli spokesperson later claims that Sharon had been misunderstood. ](/news/2004/07/19/israeli-prime-minister-ariel-sharon-calls-on-french-jews-to-move-to-israel-immediately-in-light-of-the-dramatic-rise-in-french-anti-semitis.md)
-_Context: anti-semitic, Israeli Prime Minister, Ariel Sharon, Israel_
+_Context: Ariel Sharon, anti-semitic, Israel, Israeli Prime Minister_
 
 ##### Amnesty International
 ### [ Amnesty International releases its report citing systematic killing, torturing and gang raping of females from ages 8 to 80 by Muslim Arab Janjaweed militia in the Darfur region of Sudan. ](/news/2004/07/19/amnesty-international-releases-its-report-citing-systematic-killing-torturing-and-gang-raping-of-females-from-ages-8-to-80-by-muslim-arab.md)
-_Context: Arab, Amnesty International, Darfur, Janjaweed, Sudan_
+_Context: Sudan, Amnesty International, Janjaweed, Arab, Darfur_
 
 ##### Sudan
 ### [ A Sudanese court sentences 10 Janjaweed militiamen to amputation and imprisonment for looting and killing in Darfur. ](/news/2004/07/19/a-sudanese-court-sentences-10-janjaweed-militiamen-to-amputation-and-imprisonment-for-looting-and-killing-in-darfur.md)

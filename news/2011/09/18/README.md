@@ -21,7 +21,7 @@ Ex-IMF chief Dominique Strauss-Kahn tells French TV his liaison with a New York 
 
 ##### Brazil
 ### [Police in Brazil arrest two people in connection with the murder of environmental activist Jos Cludio Ribeiro da Silva and his wife Maria do Esprito Santo in Par State. ](/news/2011/09/18/police-in-brazil-arrest-two-people-in-connection-with-the-murder-of-environmental-activist-jose-claudio-ribeiro-da-silva-and-his-wife-maria.md)
-_Context: Par State, Jos Cludio Ribeiro da Silva, Brazil_
+_Context: Par State, Brazil, Jos Cludio Ribeiro da Silva_
 
 ##### Latvian
 ### [Negotiations begin as Latvian politicians seek to form a new government after yesterday's election, with the Social Democratic Party "Harmony" having won the most seats and Zatlers' Reform Party and Unity also doing well. ](/news/2011/09/18/negotiations-begin-as-latvian-politicians-seek-to-form-a-new-government-after-yesterday-s-election-with-the-social-democratic-party-harmon.md)
@@ -29,11 +29,11 @@ _Context: Par State, Jos Cludio Ribeiro da Silva, Brazil_
 
 ##### German
 ### [Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-social-democrats-doin.md)
-_Context: German, Klaus Wowereit, Social Democrats, Berlin_
+_Context: Berlin, German, Klaus Wowereit, Social Democrats_
 
 ##### Sinn Fein
 ### [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md)
-_Context: Martin McGuinness, Irish presidential election, Irish Republican Army, deputy First Minister of Northern Ireland, Northern Ireland, Sinn Fein, John O'Dowd_
+_Context: deputy First Minister of Northern Ireland, Northern Ireland, Irish Republican Army, Irish presidential election, John O'Dowd, Sinn Fein, Martin McGuinness_
 
 ## [Previous Day...](/news/2011/09/17/index.md)
 

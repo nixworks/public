@@ -9,7 +9,7 @@ Dow Jones said in a statement that its board was prepared to recommend a proposa
 
 ##### World Bank
 ### [ The World Bank releases its Worldwide Governance Indicators, providing information on corruption, rule of law, and other indicators of stability on countries around the world. ](/news/2007/07/17/the-world-bank-releases-its-worldwide-governance-indicators-providing-information-on-corruption-rule-of-law-and-other-indicators-of-stab.md)
-_Context: Worldwide Governance Indicators, World Bank_
+_Context: World Bank, Worldwide Governance Indicators_
 
 ##### TAM Linhas Aereas
 ### [ TAM Linhas Aereas Flight 3054 carrying 186 people crashes in Congonhas International Airport, SGBPo Paulo, Brazil. The death toll is estimated to be at least 200 people. ](/news/2007/07/17/tam-linhas-aa-c-reas-flight-3054-carrying-186-people-crashes-in-congonhas-international-airport-sagbpo-paulo-brazil-the-death-toll-is-esti.md)
@@ -17,7 +17,7 @@ The pilot of an airliner that burst into flames after trying to land on a short,
 
 ##### Libya
 ### [ The High Judicial Council of Libya commutes the death sentences against six foreign medical workers to life imprisonment. ](/news/2007/07/17/the-high-judicial-council-of-libya-commutes-the-death-sentences-against-six-foreign-medical-workers-to-life-imprisonment.md)
-_Context: life imprisonment, Libya, sentenced to death_
+_Context: life imprisonment, sentenced to death, Libya_
 
 ##### Phosphorus
 ### [ A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. ](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-western-ukraine-sending-a-toxic-cloud-over-several-villages-at-least-twenty-people-are-hosp.md)
@@ -25,7 +25,7 @@ A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poi
 
 ##### Sudan
 ### [ The Sudanese government says that a recent attempted coup d'etat did not have the support of the United States government, contrary to previous accusations from Nafi Ali Nafi, Sudanese President Omar al-Bashir's assistant. The government has arrested 14 members of the Umma Reform and Renewal Party for plotting the coup. ](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.md)
-_Context: United States, Sudan, Umma Reform and Renewal Party, Omar al-Bashir, coup_
+_Context: United States, coup, Umma Reform and Renewal Party, Sudan, Omar al-Bashir_
 
 ##### Tamil Tigers
 ### [ All three men charged with supporting Tamil Tigers have been granted bail in Melbourne. ](/news/2007/07/17/all-three-men-charged-with-supporting-tamil-tigers-have-been-granted-bail-in-melbourne.md)
@@ -33,11 +33,11 @@ All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group 
 
 ##### Beijing
 ### [ Delegates arrive in Beijing for the resumption of six party talks on Wednesday involving North Korea, South Korea, China, Russia, Japan and the United States to discuss the second phase of a deal on North Korean nuclear disarmament. ](/news/2007/07/17/delegates-arrive-in-beijing-for-the-resumption-of-six-party-talks-on-wednesday-involving-north-korea-south-korea-china-russia-japan-and.md)
-_Context: Russia, Japan, Chinese, United States, North Korea, Beijing, six party talks, South Korea_
+_Context: United States, six party talks, Beijing, Russia, North Korea, South Korea, Chinese, Japan_
 
 ##### 2007 Chuetsu offshore earthquake
 ### [ 2007 Chuetsu offshore earthquake: The Government of Japan orders The Tokyo Electric Power Company to keep its Kashiwazaki-Kariwa Nuclear Power Plant closed pending safety checks after the earthquake caused a leak. ](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.md)
-_Context: earthquake, 2007 Chuetsu offshore earthquake, The Tokyo Electric Power Company, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
+_Context: 2007 Chuetsu offshore earthquake, Japan, The Tokyo Electric Power Company, earthquake, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ## [Previous Day...](/news/2007/07/16/index.md)
 

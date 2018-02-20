@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/4/index.html)  [JSON](2012/09/4/index.json)  [XML](2012/
 
 ##### Mario Cardenas Guillen
 ### [The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo-costilla-sa-nchez-a.md)
-_Context: Mario Cardenas Guillen, Gulf Cartel, Jorge Eduardo Costilla Sanchez_
+_Context: Gulf Cartel, Jorge Eduardo Costilla Sanchez, Mario Cardenas Guillen_
 
 ##### FARC
 ### [The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then-in-cuba.md)
-_Context: Cuba, FARC_
+_Context: FARC, Cuba_
 
 ##### Kenyan navy
 ### [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md)
@@ -21,23 +21,23 @@ A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, 
 
 ##### United Nations Refugee Agency
 ### [The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-monthly-number-yet-in.md)
-_Context: Syrian refugees, United Nations Refugee Agency_
+_Context: United Nations Refugee Agency, Syrian refugees_
 
 ##### Airbus
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
-_Context: Airbus, civil aircraft_
+_Context: civil aircraft, Airbus_
 
 ##### German
 ### [Cabin crew for the German airline Lufthansa go on strike causing disruption to hundreds of flights. ](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.md)
-_Context: German, Lufthansa_
+_Context: Lufthansa, German_
 
 ##### McDonald's restaurants
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: Amritsar, vegetarian, McDonald's restaurants, Vaishno Devi_
+_Context: McDonald's restaurants, Amritsar, vegetarian, Vaishno Devi_
 
 ##### Marrakesh
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
-_Context: Morocco, Marrakesh, Ouarzazate_
+_Context: Ouarzazate, Marrakesh, Morocco_
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Clinton meets China's Foreign Minister Yang in Beijing. ](/news/2012/09/4/u-s-secretary-of-state-clinton-meets-china-s-foreign-minister-yang-in-beijing.md)
@@ -47,7 +47,7 @@ China warned the United States not to get involved in South China Sea territoria
 ### [India and China plan bilateral military exercises in 2013, the first since 2008. ](/news/2012/09/4/india-and-china-plan-bilateral-military-exercises-in-2013-the-first-since-2008.md)
 ##### Won
 ### [A South Korean court orders the government to compensate a fisherman with 2.5 billion won (EUR 1.75 million); he was falsely accused of spying for North Korea. ](/news/2012/09/4/a-south-korean-court-orders-the-government-to-compensate-a-fisherman-with-2-5-billion-won-a-1-75-million-he-was-falsely-accused-of-spyi.md)
-_Context: won, North Korea_
+_Context: North Korea, won_
 
 ##### Egypt
 ### [Egypt's former culture minister Farouk Hosny is to face corruption charges. ](/news/2012/09/4/egypt-s-former-culture-minister-farouk-hosny-is-to-face-corruption-charges.md)
@@ -67,7 +67,7 @@ Group publishes Unique IDs of 1 million devices online, which they claim were be
 
 ##### Bahrain
 ### [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md)
-_Context: Bahrain, life in prison, Western-allied, government, Bahraini uprising (2011-present), Arab Spring_
+_Context: life in prison, Arab Spring, Bahraini uprising (2011-present), government, Bahrain, Western-allied_
 
 ##### Department of Justice
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
@@ -83,7 +83,7 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 
 ##### Reuters
 ### [Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. ](/news/2012/09/4/reuters-calls-xi-jinping-china-s-next-leader-hu-chunhua-reportedly-misses-a-promotion-to-the-politburo-standing-committee-in-an-expected.md)
-_Context: expected power transition, Hu Chunhua, Xi Jinping, Reuters, Politburo Standing Committee, Politburo, Communist Party of China, 18th National Congress_
+_Context: Reuters, Politburo, Communist Party of China, 18th National Congress, Politburo Standing Committee, Hu Chunhua, Xi Jinping, expected power transition_
 
 ##### Enrique Pena Nieto
 ### [President-elect Pena Nieto of Mexico names his "transition team", ahead of his cabinet and December 1st inauguration. ](/news/2012/09/4/president-elect-pea-a-nieto-of-mexico-names-his-transition-team-ahead-of-his-cabinet-and-december-1st-inauguration.md)

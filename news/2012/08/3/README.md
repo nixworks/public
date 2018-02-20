@@ -9,7 +9,7 @@ _Context: decapitating 49 bodies, Zetas, Apodaca prison riot, Mexican Drug War_
 
 ##### Syrian Army
 ### [The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/the-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-city-s-eastern-distri.md)
-_Context: Free Syrian Army, Syrian Army, Aleppo_
+_Context: Syrian Army, Aleppo, Free Syrian Army_
 
 ##### Kenya
 ### [An explosion in the Kenyan capital of Nairobi kills at least one person. ](/news/2012/08/3/an-explosion-in-the-kenyan-capital-of-nairobi-kills-at-least-one-person.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2005/01/21/index.html)  [JSON](2005/01/21/index.json)  [XML](200
 
 ##### Belize
 ### [ In Belize, the unrest continues for a second day. Water has been cut and government buildings have been torched. ](/news/2005/01/21/in-belize-the-unrest-continues-for-a-second-day-water-has-been-cut-and-government-buildings-have-been-torched.md)
-_Context: unrest, Belize_
+_Context: Belize, unrest_
 
 ##### Palestinian Authority
 ### [ The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the-al-aqsa-intifada.md)
-_Context: Al-Aqsa Intifada, Gaza Strip, Palestinian Authority_
+_Context: Gaza Strip, Palestinian Authority, Al-Aqsa Intifada_
 
 ##### B15A
 ### [ B15A, the world's largest iceberg with 160 km length, seems to have run aground in Antarctica, threatening to cut off supply ships for a number of scientific research stations and to starve tens of thousands of penguins. ](/news/2005/01/21/b15a-the-world-s-largest-iceberg-with-160-km-length-seems-to-have-run-aground-in-antarctica-threatening-to-cut-off-supply-ships-for-a-nu.md)
-_Context: B15A, iceberg, Antarctica_
+_Context: Antarctica, B15A, iceberg_
 
 ##### Denmark
 ### [ 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern-iraq-last-year.md)
@@ -21,11 +21,11 @@ _Context: Iraq, Denmark_
 
 ##### Lucerne
 ### [ In Lucerne, Switzerland, a trial opens against a nurse accused of killing 24 patients. ](/news/2005/01/21/in-lucerne-switzerland-a-trial-opens-against-a-nurse-accused-of-killing-24-patients.md)
-_Context: Lucerne, Switzerland_
+_Context: Switzerland, Lucerne_
 
 ##### Italy
 ### [ The Italian government condemns the destruction of an Italian cemetery in Mogadishu, Somalia. Local militia wanted to clear the area for a base. ](/news/2005/01/21/the-italian-government-condemns-the-destruction-of-an-italian-cemetery-in-mogadishu-somalia-local-militia-wanted-to-clear-the-area-for-a.md)
-_Context: Somalia, Italy, Mogadishu_
+_Context: Mogadishu, Somalia, Italy_
 
 ##### People smuggling
 ### [ Italian police have arrested number of people connected to smuggling of illegal immigrants from Libya. ](/news/2005/01/21/italian-police-have-arrested-number-of-people-connected-to-smuggling-of-illegal-immigrants-from-libya.md)

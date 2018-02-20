@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/29/index.html)  [JSON](2009/11/29/index.json)  [XML](200
 
 ##### Nepal
 ### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)
-_Context: Nepal, global warming,  glacier, Mount Everest_
+_Context: Nepal, Mount Everest, global warming,  glacier_
 
 ##### Somali pirates
 ### [ Somali pirates capture the Greek owned oil tanker "Maran Centaurus" 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
-_Context: oil tanker, Somalia, Greece, Somali pirates_
+_Context: Greece, oil tanker, Somali pirates, Somalia_
 
 ##### Uruguay
 ### [ Uruguayan voters elect Broad Front candidate Jos Mujica as their new president. ](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.md)
@@ -17,11 +17,11 @@ _Context: oil tanker, Somalia, Greece, Somali pirates_
 
 ##### Commonwealth of Nations
 ### [ The Commonwealth of Nations urges the Fijian government to restore democracy in the country. ](/news/2009/11/29/the-commonwealth-of-nations-urges-the-fijian-government-to-restore-democracy-in-the-country.md)
-_Context: urges, Government of Fiji, Commonwealth of Nations, Fiji, democratic_
+_Context: Commonwealth of Nations, Fiji, urges, Government of Fiji, democratic_
 
 ##### Israel
 ### [ Israel announces it is likely to release 980 Palestinian prisoners in exchange for captured soldier Gilad Shalit. ](/news/2009/11/29/israel-announces-it-is-likely-to-release-980-palestinian-prisoners-in-exchange-for-captured-soldier-gilad-shalit.md)
-_Context: Israel, Palestine, Gilad Shalit_
+_Context: Gilad Shalit, Israel, Palestine_
 
 ##### Police officers
 ### [ Four police officers are shot and killed while in a coffee shop in Parkland, Washington, United States. ](/news/2009/11/29/four-police-officers-are-shot-and-killed-while-in-a-coffee-shop-in-parkland-washington-united-states.md)
@@ -37,11 +37,11 @@ To the great surprise of pollsters and the regret of the government, the Swiss o
 
 ##### Iran
 ### [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
-_Context: parliament, Iran, government, IAEA, Iran and weapons of mass destruction_
+_Context: government, Iran, parliament, IAEA, Iran and weapons of mass destruction_
 
 ##### Russia
 ### [ Russian police issue an appeal for witnesses following the Nevsky Express bombing. ](/news/2009/11/29/russian-police-issue-an-appeal-for-witnesses-following-the-nevsky-express-bombing.md)
-_Context: witness, Nevsky Express, Russian police, Russia, the bomb attack_
+_Context: witness, the bomb attack, Russia, Russian police, Nevsky Express_
 
 ##### Central bank
 ### [ The central bank of the United Arab Emirates announces it will provide extra liquidity to Dubai banks. ](/news/2009/11/29/the-central-bank-of-the-united-arab-emirates-announces-it-will-provide-extra-liquidity-to-dubai-banks.md)
@@ -49,7 +49,7 @@ Central Bank has issued a notice to the UAE banks and branches of foreign banks 
 
 ##### Saudi Arabia
 ### [ Saudi Arabia says its forces have seized control of a key mountain area amid the country's ongoing fight with Houthi rebels in Yemen. ](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.md)
-_Context: Yemen, Houthi, ongoing fight, Saudi Arabia_
+_Context: Saudi Arabia, Houthi, Yemen, ongoing fight_
 
 ##### Bishop
 ### [ Statements from bishops relating to the Murphy Report into sexual abuse scandal in Dublin archdiocese are read at Masses across Ireland. ](/news/2009/11/29/statements-from-bishops-relating-to-the-murphy-report-into-sexual-abuse-scandal-in-dublin-archdiocese-are-read-at-masses-across-ireland.md)
@@ -57,7 +57,7 @@ Archbishop Diarmuid Martin has said at this moment, he believes that decisions o
 
 ##### Dorothy Stang
 ### [ A witness in the case of the murder of nun Dorothy Stang shot dead in the Amazon Rainforest in 2005 is critically wounded after being shot. ](/news/2009/11/29/a-witness-in-the-case-of-the-murder-of-nun-dorothy-stang-shot-dead-in-the-amazon-rainforest-in-2005-is-critically-wounded-after-being-shot.md)
-_Context: Dorothy Stang, Amazon Rainforest_
+_Context: Amazon Rainforest, Dorothy Stang_
 
 ##### Radiation
 ### [ Officials investigate a radiation leak at the Kaiga nuclear plant in southern India which left 55 employees requiring medical treatment. ](/news/2009/11/29/officials-investigate-a-radiation-leak-at-the-kaiga-nuclear-plant-in-southern-india-which-left-55-employees-requiring-medical-treatment.md)
@@ -77,7 +77,7 @@ President Obiang tells Al Jazeera his leadership is unchallenged ahead of electi
 
 ##### United States
 ### [ A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. ](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.md)
-_Context: within grasp, United States soldier, United States Senate, Osama bin Laden, Tora Bora, United States_
+_Context: United States soldier, Osama bin Laden, within grasp, United States, Tora Bora, United States Senate_
 
 ##### United Kingdom
 ### [ British scientists at the University of East Anglia, who are criticised, say they will publish their figures in full. ](/news/2009/11/29/british-scientists-at-the-university-of-east-anglia-who-are-criticised-say-they-will-publish-their-figures-in-full.md)

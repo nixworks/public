@@ -9,7 +9,7 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md)
-_Context: Syrian Civil War, Syrian Observatory for Human Rights, Aleppo_
+_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md)
@@ -41,7 +41,7 @@ Canadian drugmaker Valeant Pharmaceuticals International Inc said it received ad
 
 ##### South Korea
 ### [A passenger train derails near the South Korean city of Yeosu resulting in the death of a railroad engineer and eight people being injured. ](/news/2016/04/22/a-passenger-train-derails-near-the-south-korean-city-of-yeosu-resulting-in-the-death-of-a-railroad-engineer-and-eight-people-being-injured.md)
-_Context: Yeosu, railroad engineer, South Korea_
+_Context: railroad engineer, South Korea, Yeosu_
 
 ##### China
 ### [A warehouse storing chemicals and fuel catches fire in the Chinese city of Jingjiang resulting in an unknown number of casualties. ](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.md)
@@ -49,7 +49,7 @@ A warehouse storing chemicals and fuel exploded and caught fire in the eastern C
 
 ##### Tawang District
 ### [At least 15 people have been killed in a landslide in the Tawang District in India's Arunachal Pradesh state. ](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.md)
-_Context: Tawang District, Arunachal Pradesh, India_
+_Context: Arunachal Pradesh, India, Tawang District_
 
 ##### 2015-16 South Pacific cyclone season
 ### [The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. ](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.md)
@@ -61,7 +61,7 @@ MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical p
 
 ##### United Kingdom withdrawal from the European Union
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Boris Johnson, United States, Barack Obama, Mayor of London, United Kingdom withdrawal from the European Union, European Union_
+_Context: United Kingdom withdrawal from the European Union, Mayor of London, European Union, United States, Boris Johnson, Barack Obama_
 
 ##### Taiwan-United States relations
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
@@ -73,7 +73,7 @@ Records are set to be broken as 168 countries line up to sign the historic UN Pa
 
 ##### NATO-Russia relations
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Curtis Scaparrotti, Cold War II, NATO-Russia relations, United States military personnel, Europe, United States, Eastern Europe, Russia_
+_Context: United States military personnel, Russia, Curtis Scaparrotti, United States, Cold War II, Europe, NATO-Russia relations, Eastern Europe_
 
 ##### Belizean-Guatemalan territorial dispute
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)
@@ -97,7 +97,7 @@ RICHMOND, Va. (AP) — More than 200,000 convicted felons will be able to cast b
 
 ##### 2016 Macedonian protests
 ### [The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. ](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.md)
-_Context: European Union, 2016 Macedonian protests, Republic of Macedonia_
+_Context: Republic of Macedonia, European Union, 2016 Macedonian protests_
 
 ##### Sudan
 ### [Thousands of Sudanese students take to the streets around the University of Kordofan in Khartoum and other parts of the country to protest the recent killing of students last Monday. Security forces opened fire on a peaceful protest, killing many students after they attempted to nominate pro-opposition candidates for their campus elections. ](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.md)
@@ -113,7 +113,7 @@ It’s at the mouth of the Amazon River.
 
 ##### China
 ### [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md)
-_Context: Mars, China, China National Space Administration_
+_Context: China National Space Administration, China, Mars_
 
 ##### Energy development
 ### [The Alaska SeaLife Center (Seward, Alaska) announces that 98 percent of the center's heating and cooling now comes from low-cost, alternative energy derived from seawater. ](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.md)

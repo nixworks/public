@@ -9,7 +9,7 @@ Authorities in Burkina Faso place the capital Ouagadougou under curfew as unrest
 
 ##### Second Ivorian Civil War
 ### [Second Ivorian Civil War: Ivorian Popular Front, the party of ousted Ivory Coast President Laurent Gbagbo, calls upon its supporters to end the unrest in the country after his arrest. ](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.md)
-_Context: President, Laurent Gbagbo, Second Ivorian Civil War, Ivory Coast, Ivorian Popular Front_
+_Context: Ivory Coast, Laurent Gbagbo, Second Ivorian Civil War, Ivorian Popular Front, President_
 
 ##### Arab Spring
 ### [President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md)
@@ -21,11 +21,11 @@ _Context: army, Basilan island, Al-Barka, Abu Sayyaf_
 
 ##### United Nations
 ### [The United Nations calls for an investigation after an Iraqi raid into an Iranian opposition Camp Ashraf which left 34 people dead. ](/news/2011/04/16/the-united-nations-calls-for-an-investigation-after-an-iraqi-raid-into-an-iranian-opposition-camp-ashraf-which-left-34-people-dead.md)
-_Context: Iraq, United Nations, Iran, Camp Ashraf_
+_Context: Iran, Camp Ashraf, Iraq, United Nations_
 
 ##### Insurgency in Laos
 ### [Insurgency in Laos: A human rights group accuses Laos and Vietnam of killing four Hmong Christians. ](/news/2011/04/16/insurgency-in-laos-a-human-rights-group-accuses-laos-and-vietnam-of-killing-four-hmong-christians.md)
-_Context: Hmong people, Insurgency in Laos, Vietnam, Laos_
+_Context: Vietnam, Laos, Insurgency in Laos, Hmong people_
 
 ##### Tornado
 ### [Tornadoes kill several people in the US states of North Carolina and South Carolina with storms killing at least 20 people in the southern United States over the past few days. ](/news/2011/04/16/tornadoes-kill-several-people-in-the-us-states-of-north-carolina-and-south-carolina-with-storms-killing-at-least-20-people-in-the-southern-u.md)
@@ -37,11 +37,11 @@ A United Nations panel has called for setting up of an “independent internatio
 
 ##### Mexican police
 ### [Mexican authorities announce the arrest of Los Zetas Cartel leader Martin Omar Estrada "El Kilo" Luna. ](/news/2011/04/16/mexican-authorities-announce-the-arrest-of-los-zetas-cartel-leader-martin-omar-estrada-el-kilo-luna.md)
-_Context: Mexican police, Los Zetas Cartel_
+_Context: Los Zetas Cartel, Mexican police_
 
 ##### Belgrade
 ### [A 50,000-strong anti-government demonstration calling for snap elections takes place in Belgrade, Serbia, with leader of the opposition Serbian Progressive Party Tomislav Nikolic announcing he is to begin a hunger strike until new elections. ](/news/2011/04/16/a-50-000-strong-anti-government-demonstration-calling-for-snap-elections-takes-place-in-belgrade-serbia-with-leader-of-the-opposition-serb.md)
-_Context: Tomislav Nikolic, Serbian Progressive Party, Serbia, Belgrade_
+_Context: Belgrade, Serbian Progressive Party, Tomislav Nikolic, Serbia_
 
 ##### Moscow
 ### [Pro and anti-government rallies against corruption take place in Moscow, Russia. ](/news/2011/04/16/pro-and-anti-government-rallies-against-corruption-take-place-in-moscow-russia.md)
@@ -49,19 +49,19 @@ _Context: Moscow, Russia_
 
 ##### Cuba
 ### [Cuban President Raul Castro proposes term limits for public office. ](/news/2011/04/16/cuban-president-raaol-castro-proposes-term-limits-for-public-office.md)
-_Context: Cuba, Raul Castro, President_
+_Context: Raul Castro, Cuba, President_
 
 ##### National Front
 ### [The ruling National Front coalition in Malaysia win an election in the country's largest state Sarawak. ](/news/2011/04/16/the-ruling-national-front-coalition-in-malaysia-win-an-election-in-the-country-s-largest-state-sarawak.md)
-_Context: National Front, Sarawak, Malaysia_
+_Context: National Front, Malaysia, Sarawak_
 
 ##### Egypt
 ### [An Egyptian court orders the dissolution of the former ruling National Democratic Party of Hosni Mubarak. ](/news/2011/04/16/an-egyptian-court-orders-the-dissolution-of-the-former-ruling-national-democratic-party-of-hosni-mubarak.md)
-_Context: National Democratic Party, Egypt, Hosni Mubarak_
+_Context: Hosni Mubarak, National Democratic Party, Egypt_
 
 ##### Presidential election
 ### [A presidential election takes place in Nigeria. ](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.md)
-_Context: presidential election, Nigeria_
+_Context: Nigeria, presidential election_
 
 ## [Previous Day...](/news/2011/04/15/index.md)
 

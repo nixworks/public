@@ -29,7 +29,7 @@ Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 
 ##### President
 ### [Peruvian President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. ](/news/2017/02/3/peruvian-president-pedro-pablo-kuczynski-s-government-creates-a-temporary-visa-for-thousands-of-venezuelans-whose-country-is-mired-in-a-deep.md)
-_Context: President, Venezuela, Interior Minister, Pedro Pablo Kuczynski_
+_Context: Interior Minister, President, Venezuela, Pedro Pablo Kuczynski_
 
 ##### Afghan government's
 ### [Per the Afghan government's request, the United Nations drops sanctions against Hezb-e Islami party leader and former Prime Minister Gulbuddin Hekmatyar. This potentially sets up his return to Afghanistan, which is part of the country's peace deal with its second largest militant group, signed in September 2016. ](/news/2017/02/3/per-the-afghan-government-s-request-the-united-nations-drops-sanctions-against-hezb-e-islami-party-leader-and-former-prime-minister-gulbudd.md)

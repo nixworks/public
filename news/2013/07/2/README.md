@@ -29,7 +29,7 @@ Awaiting final approval from Pope Francis; possible canonization date is Dec. 8,
 
 ##### Indonesia
 ### [At least eleven have been killed and dozens of people are injured in Indonesia's Aceh Province after a 6.2 magnitude earthquake. ](/news/2013/07/2/at-least-eleven-have-been-killed-and-dozens-of-people-are-injured-in-indonesia-s-aceh-province-after-a-6-2-magnitude-earthquake.md)
-_Context: 6.2 magnitude earthquake, Indonesia, Aceh Province_
+_Context: Aceh Province, Indonesia, 6.2 magnitude earthquake_
 
 ##### United Arab Emirates
 ### [68 Islamists accused of conspiring against the United Arab Emirates federal government, sentenced to 15 years. ](/news/2013/07/2/68-islamists-accused-of-conspiring-against-the-united-arab-emirates-federal-government-sentenced-to-15-years.md)
@@ -61,7 +61,7 @@ _Context: Communist Party of Cuba, Parliament, Ricardo Alarcon_
 
 ##### Proton-M
 ### [A Russian Proton-M rocket carrying three GLONASS navigation satellites loses control and crashes shortly after launch from Baikonur Cosmodrome in Kazakhstan.](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.md)
-_Context: Proton-M, Baikonur Cosmodrome, GLONASS, Kazakhstan_
+_Context: Kazakhstan, Proton-M, Baikonur Cosmodrome, GLONASS_
 
 ##### International Astronomical Union
 ### [The International Astronomical Union names Pluto's fourth and fifth moons, Kerberos and Styx. ](/news/2013/07/2/the-international-astronomical-union-names-pluto-s-fourth-and-fifth-moons-kerberos-and-styx.md)
