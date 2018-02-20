@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/20/index.md)
 
 ##### Syrian Civil War
-### [Pro-Syrian government forces are sent to help the Kurds fight against Turkey and its allies in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurds-fight-against-turkey-and-its-allies-in-the-afrin-region-this-action-opens-up-a-new.md)
+### [Pro-Syrian government forces are sent to help the Syrian Kurds fight against Turkey and its allies in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-syrian-kurds-fight-against-turkey-and-its-allies-in-the-afrin-region-this-action-opens-up.md)
 Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
 
 ##### 2017-18 South Pacific cyclone season
@@ -27,8 +27,8 @@ Latvia will seek to prevent European Central Bank Governing Council member Ilmar
 ### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
-##### Special Counsel investigation (2017-present)
-### [Attorney Alex van der Zwaan is charged with making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. ](/news/2018/02/20/attorney-alex-van-der-zwaan-is-charged-with-making-false-statements-to-the-fbi-during-the-special-counsel-investigation-into-russian-meddlin.md)
+##### Russian interference in the 2016 United States elections
+### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
 ##### Opinion
@@ -41,7 +41,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Syrian Observatory for Human Rights, Syrian Air Force, Syrian Civil War, Damascus_
+_Context: Damascus, Ghouta, Syrian Civil War, Syrian Air Force, Syrian Observatory for Human Rights_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -57,7 +57,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Indonesia, Mount Sinabung, Sumatra_
+_Context: Sumatra, Indonesia, Mount Sinabung_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
@@ -80,8 +80,8 @@ The study, led by UCL and University of New South Wales, provides the first prec
 ## [Day Before Yesterday](/news/2018/02/18/index.md)
 
 ##### Kizlyar church shooting
-### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He was later shot dead by the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-was-later-shot-dead-by-the-police.md)
-_Context: Kizlyar, Kizlyar church shooting, Dagestan, Russia_
+### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police later shoot and kill him. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-police-later-shoot-and-kill-him.md)
+_Context: Kizlyar, Russia, Dagestan, Kizlyar church shooting_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
