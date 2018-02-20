@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/20/index.html)  [JSON](2018/02/20/index.json)  [XML](201
 ## [2018-02-20](/news/2018/02/20/index.md)
 
 ##### New Zealand
-### [Several regions in New Zealand declare states of emergencies in the aftermath of Cyclone Gita's landfall. ](/news/2018/02/20/several-regions-in-new-zealand-declare-states-of-emergencies-in-the-aftermath-of-cyclone-gita-s-landfall.md)
+### [Several regions in New Zealand declare states of emergency in the aftermath of Cyclone Gita's landfall. ](/news/2018/02/20/several-regions-in-new-zealand-declare-states-of-emergency-in-the-aftermath-of-cyclone-gita-s-landfall.md)
 Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Iran Aseman Airlines Flight 3704
