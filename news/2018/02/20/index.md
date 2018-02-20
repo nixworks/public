@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/20/index.html)  [JSON](2018/02/20/index.json)  [XML](201
 Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
 
 ##### 2017-18 South Pacific cyclone season
-### [Several regions in New Zealand declare states of emergency in the aftermath of Cyclone Gita's landfall. ](/news/2018/02/20/several-regions-in-new-zealand-declare-states-of-emergency-in-the-aftermath-of-cyclone-gita-s-landfall.md)
+### [Seven provinces in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-provinces-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
 Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Iran Aseman Airlines Flight 3704

@@ -8,7 +8,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
 
 ##### 2017-18 South Pacific cyclone season
-### [Several regions in New Zealand declare states of emergency in the aftermath of Cyclone Gita's landfall. ](/news/2018/02/20/several-regions-in-new-zealand-declare-states-of-emergency-in-the-aftermath-of-cyclone-gita-s-landfall.md)
+### [Seven provinces in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-provinces-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
 Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Iran Aseman Airlines Flight 3704
@@ -33,7 +33,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Damascus, Syrian Observatory for Human Rights, Syrian Civil War, Syrian Air Force_
+_Context: Syrian Civil War, Ghouta, Syrian Air Force, Damascus, Syrian Observatory for Human Rights_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -49,7 +49,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, Sumatra, Indonesia_
+_Context: Indonesia, Sumatra, Mount Sinabung_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
@@ -73,7 +73,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He was later shot dead by the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-was-later-shot-dead-by-the-police.md)
-_Context: Kizlyar, Dagestan, Russia, Kizlyar church shooting_
+_Context: Kizlyar church shooting, Dagestan, Russia, Kizlyar_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
