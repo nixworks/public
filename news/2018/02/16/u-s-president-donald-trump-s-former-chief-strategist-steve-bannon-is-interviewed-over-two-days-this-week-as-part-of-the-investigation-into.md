@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strat
 ### [2018-02-16](/news/2018/02/16/index.md)
 
 ##### The special counsel investigation into Russian meddling in the 2016 U.S. Presidential election
-# U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 U.S. presidential election. 
+# U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian interference in the 2016 United States elections. 
 
 Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours with investigators.
 
@@ -20,7 +20,7 @@ Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours wi
 
 1. [U.S.President Donald Trump's former chief strategist, Steve Bannon, is interviewed as part of the investigation into alleged Russian meddling in the 2016 election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-as-part-of-the-investigation-into-alleged-russian-meddlin.md) _2018-02-16 06:30:20 (First version)_
 2. [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed as part of the investigation into alleged Russian meddling in the 2016 presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-as-part-of-the-investigation-into-alleged-russian-meddling.md) _2018-02-16 16:30:08 (Update)_
-2. [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 U.S. presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md) _(Current version)_
+2. [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian interference in the 2016 United States elections. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md) _(Current version)_
 
 ### Related:
 

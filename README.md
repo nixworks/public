@@ -16,7 +16,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
 ##### Mount Sinabung
-### [Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air-ash-has-co.md)
+### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air.md)
 Side-by-side images show what the top of the volcano looks like.
 
 ##### Corruption in Latvia
@@ -41,7 +41,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Damascus, Ghouta, Syrian Civil War, Syrian Air Force, Syrian Observatory for Human Rights_
+_Context: Syrian Civil War, Damascus, Ghouta, Syrian Observatory for Human Rights, Syrian Air Force_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -56,12 +56,12 @@ A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frigh
 _Context: Mozambique_
 
 ##### Mount Sinabung
-### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Sumatra, Indonesia, Mount Sinabung_
+### [Mount Sinabung in North Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
+_Context: Indonesia, Mount Sinabung, North Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
@@ -72,7 +72,7 @@ Cambridge graduate blackmailed victims over dark web and encouraged rape of chil
 Euro zone finance ministers will choose Spanish Economy Minister Luis de Guindos to succeed European Central Bank Vice President Vitor Constancio in May.
 
 ##### Human impact on the environment
-### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Present", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
+### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
 ---
@@ -81,7 +81,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police later shoot and kill him. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-police-later-shoot-and-kill-him.md)
-_Context: Kizlyar, Russia, Dagestan, Kizlyar church shooting_
+_Context: Kizlyar church shooting, Russia, Kizlyar, Dagestan_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)

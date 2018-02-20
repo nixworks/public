@@ -16,7 +16,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
 ##### Mount Sinabung
-### [Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air-ash-has-co.md)
+### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air.md)
 Side-by-side images show what the top of the volcano looks like.
 
 ##### Corruption in Latvia
