@@ -5,10 +5,10 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Observatory for Human Rights, Syrian Air Force, Syrian Civil War, Ghouta, Damascus_
+_Context: Syrian Air Force, Ghouta, Syrian Observatory for Human Rights, Damascus, Syrian Civil War_
 
 ##### Tim Hortons
-### [Three people are injured in a stabbing at a Tim Hortons in Montreal. Motive of the attacker is unknown. ](/news/2018/02/19/three-people-are-injured-in-a-stabbing-at-a-tim-hortons-in-montreal-motive-of-the-attacker-is-unknown.md)
+### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
 Police say three people were stabbed Monday afternoon in an attack outside a Tim Hortons restaurant on Ste. Catherine St. and Beaudry.
 
 ##### 2018 Oaxaca earthquake
@@ -21,18 +21,18 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Sumatra, Mount Sinabung, Indonesia_
+_Context: Mount Sinabung, Indonesia, Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
 _Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
-### [Matthew Falder is sentenced to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/matthew-falder-is-sentenced-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-performing-sexual-acts.md)
+### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
 Cambridge graduate blackmailed victims over dark web and encouraged rape of child
 
-##### Politics of the European Union
-### [Spanish Minister of Economy and Competitiveness, Luis de Guindos, is appointed new Vice-President of the European Central Bank by the Eurogroup. ](/news/2018/02/19/spanish-minister-of-economy-and-competitiveness-luis-de-guindos-is-appointed-new-vice-president-of-the-european-central-bank-by-the-eurogr.md)
+##### Eurozone
+### [Spanish Minister of Economy and Competitiveness, Luis de Guindos, is set to be nominated by the Eurogroup to succeed Vtor Constncio as Vice-President of the European Central Bank. ](/news/2018/02/19/spanish-minister-of-economy-and-competitiveness-luis-de-guindos-is-set-to-be-nominated-by-the-eurogroup-to-succeed-vitor-constancio-as-vic.md)
 Euro zone finance ministers will choose Spanish Economy Minister Luis de Guindos to succeed European Central Bank Vice President Vitor Constancio in May.
 
 ##### Human impact on the environment
