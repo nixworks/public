@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Air Force, Damascus, Ghouta, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Damascus, Ghouta, Syrian Observatory for Human Rights, Syrian Civil War, Syrian Air Force_
 
 ##### 2018 Oaxaca earthquake
 ### [Three days after the previous, stronger earthquake, a 5.9-magnitude possible aftershock strikes again near the coast of Oaxaca and is widely felt across Southern and Central Mexico. No victims are reported so far. ](/news/2018/02/19/three-days-after-the-previous-stronger-earthquake-a-5-9-magnitude-possible-aftershock-strikes-again-near-the-coast-of-oaxaca-and-is-widely.md)
@@ -15,9 +15,13 @@ A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frigh
 ### [A collapse at a garbage dump in Mozambique kills at least 17 people. ](/news/2018/02/19/a-collapse-at-a-garbage-dump-in-mozambique-kills-at-least-17-people.md)
 _Context: Mozambique_
 
+##### Mount Sinabung
+### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
+_Context: Mount Sinabung, Sumatra, Indonesia_
+
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Politics of the European Union
 ### [Spanish Minister of Economy and Competitiveness, Luis de Guindos, is appointed new Vice-President of the European Central Bank by the Eurogroup. ](/news/2018/02/19/spanish-minister-of-economy-and-competitiveness-luis-de-guindos-is-appointed-new-vice-president-of-the-european-central-bank-by-the-eurogr.md)
