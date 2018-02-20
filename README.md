@@ -15,6 +15,10 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 ### [Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. ](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the-missing-aseman-airliner-30-meters-below-a-hilltop-on-mount-dena-helicopters-could-not-land.md)
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
+##### Mount Sinabung
+### [Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air-ash-has-co.md)
+Side-by-side images show what the top of the volcano looks like.
+
 ##### Corruption in Latvia
 ### [Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest lender, ABLV. On 19 January, Rimsevics was released on bail. ](/news/2018/02/20/latvia-will-ask-the-european-central-bank-not-to-renew-the-mandate-of-ecb-governing-council-member-ilmars-rima-avias-the-head-of-the-cen.md)
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
@@ -22,6 +26,10 @@ Latvia will seek to prevent European Central Bank Governing Council member Ilmar
 ##### Judiciary of Thailand
 ### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
+
+##### Special Counsel investigation (2017-present)
+### [Attorney Alex van der Zwaan is charged with making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. ](/news/2018/02/20/attorney-alex-van-der-zwaan-is-charged-with-making-false-statements-to-the-fbi-during-the-special-counsel-investigation-into-russian-meddlin.md)
+The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -33,7 +41,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Observatory for Human Rights, Syrian Civil War, Damascus, Ghouta, Syrian Air Force_
+_Context: Ghouta, Syrian Observatory for Human Rights, Syrian Air Force, Syrian Civil War, Damascus_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -53,7 +61,7 @@ _Context: Indonesia, Mount Sinabung, Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
+_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
@@ -73,7 +81,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He was later shot dead by the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-was-later-shot-dead-by-the-police.md)
-_Context: Dagestan, Kizlyar church shooting, Kizlyar, Russia_
+_Context: Kizlyar, Kizlyar church shooting, Dagestan, Russia_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
