@@ -16,7 +16,7 @@ IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner tha
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
 
 ##### Thailand
-### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. The man had rented an apartment in Bangkok and run it as a baby factory. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers-the-man-had-rented-an-apartm.md)
+### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
 ## [Previous Day...](/news/2018/02/19/index.md)

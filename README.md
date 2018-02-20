@@ -16,7 +16,7 @@ IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner tha
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
 
 ##### Thailand
-### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. The man had rented an apartment in Bangkok and run it as a baby factory. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers-the-man-had-rented-an-apartm.md)
+### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
 ##### Opinion
@@ -29,7 +29,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Air Force, Ghouta, Syrian Civil War, Syrian Observatory for Human Rights, Damascus_
+_Context: Syrian Observatory for Human Rights, Syrian Civil War, Damascus, Syrian Air Force, Ghouta_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -45,7 +45,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, Sumatra, Indonesia_
+_Context: Indonesia, Mount Sinabung, Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
@@ -68,8 +68,8 @@ The study, led by UCL and University of New South Wales, provides the first prec
 ## [Day Before Yesterday](/news/2018/02/18/index.md)
 
 ##### Kizlyar church shooting
-### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police kill him. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-police-kill-him.md)
-_Context: Kizlyar, Kizlyar church shooting, Russia, Dagestan_
+### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He was later shot dead by the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-was-later-shot-dead-by-the-police.md)
+_Context: Kizlyar, Dagestan, Kizlyar church shooting, Russia_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
