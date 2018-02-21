@@ -29,7 +29,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 
 ##### Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: cryptocurrency, Venezuela, Petro cryptocurrency_
+_Context: Petro cryptocurrency, Venezuela, cryptocurrency_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -69,7 +69,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Damascus, Ghouta, Syrian Air Force, Syrian Civil War, strikes, Syrian Observatory for Human Rights_
+_Context: Ghouta, Damascus, Syrian Observatory for Human Rights, Syrian Civil War, strikes, Syrian Air Force_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
