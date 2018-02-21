@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/20/families-and-students-from-parkland-florida-beg
 ### [2018-02-20](/news/2018/02/20/index.md)
 
 ##### Stoneman Douglas High School shooting
-# Families and students from Parkland, Florida, begin arriving in Tallahassee, the Florida State Capitol, for advocacy meetings with lawmakers and other State officials. During Tuesday's legislative session, the GOP-controlled Florida House defeated, by a party-line vote, a motion to debate assault weapons ban legislation, 71-36. 
+# Families and students from Parkland, Florida, begin arriving in Tallahassee, the Florida State Capitol, for advocacy meetings with lawmakers and other State officials. During Tuesday's legislative session, the Republican-controlled Florida House defeated, by a party-line vote, a motion to debate assault weapons ban legislation, 71-36. 
 
 A move to push a bill banning assault weapons and high-capacity magazines directly to the House floor Tuesday afternoon was rejected on mostly party lines, less than a week after a gunman killed 17 people and injured several more at a high school in Broward County.
 
