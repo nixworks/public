@@ -17,7 +17,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: Russian military, United States, United Kingdom, NotPetya, government, White House, 2017 cyberattacks on Ukraine_
+_Context: Russian military, United States, 2017 cyberattacks on Ukraine, White House, United Kingdom, NotPetya, government_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -45,7 +45,7 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: Kepler, Discoveries of exoplanets, NASA, space telescope, exoplanet_
+_Context: NASA, Discoveries of exoplanets, Kepler, exoplanet, space telescope_
 
 ## [Previous Day...](/news/2018/02/14/index.md)
 
