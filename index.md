@@ -61,7 +61,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Observatory for Human Rights, strikes, Damascus, Syrian Civil War, Ghouta, Syrian Air Force_
+_Context: Syrian Civil War, Syrian Observatory for Human Rights, Syrian Air Force, Damascus, Ghouta, strikes_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -77,11 +77,11 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, Indonesia, North Sumatra_
+_Context: Indonesia, Mount Sinabung, North Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
