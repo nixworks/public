@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-th
 ### [2018-02-20](/news/2018/02/20/index.md)
 
 ##### Russian interference in the 2016 United States elections
-# Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of Paul Manafort. 
+# Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges are that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of Paul Manafort. 
 
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
