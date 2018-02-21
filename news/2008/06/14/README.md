@@ -9,19 +9,19 @@ _Context: Argentina, farmers strike_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, criticises a planned expansion of Israeli housing in East Jerusalem as "not helpful" to the Middle East peace process. ](/news/2008/06/14/condoleezza-rice-the-united-states-secretary-of-state-criticises-a-planned-expansion-of-israeli-housing-in-east-jerusalem-as-not-helpful.md)
-_Context: Israel, United States Secretary of State, Condoleezza Rice, Middle East, East Jerusalem_
+_Context: United States Secretary of State, East Jerusalem, Israel, Middle East, Condoleezza Rice_
 
 ##### Discovery
 ### [ The Space Shuttle Discovery lands having successfully completed mission STS-124. ](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.md)
-_Context: STS-124, Discovery_
+_Context: Discovery, STS-124_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md)
-_Context: French President, George W. Bush, Iran, Nicolas Sarkozy, Iran and weapons of mass destruction, U.S. President, Syria_
+_Context: Syria, U.S. President, George W. Bush, Nicolas Sarkozy, French President, Iran and weapons of mass destruction, Iran_
 
 ##### Campsfield House
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)
-_Context: Oxford, detention facilities, Campsfield House_
+_Context: detention facilities, Campsfield House, Oxford_
 
 ##### Farah Province
 ### [ A roadside bomb in Farah Province of Afghanistan kills 4 United States troops. ](/news/2008/06/14/a-roadside-bomb-in-farah-province-of-afghanistan-kills-4-united-states-troops.md)
@@ -29,11 +29,11 @@ _Context: Military of the United States, Farah Province, Afghan_
 
 ##### Magnitude
 ### [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md)
-_Context: Iwate Prefecture, Japan, magnitude, 2008 Iwate earthquake, Miyagi Prefecture, Honshu Island_
+_Context: Miyagi Prefecture, 2008 Iwate earthquake, Iwate Prefecture, magnitude, Japan, Honshu Island_
 
 ##### France
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: Eritrea, Djibouti, border clashes, France_
+_Context: Eritrea, border clashes, Djibouti, France_
 
 ## [Previous Day...](/news/2008/06/13/index.md)
 

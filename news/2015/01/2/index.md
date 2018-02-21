@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/2/index.html)  [JSON](2015/01/2/index.json)  [XML](2015/
 
 ##### Somali civil war
 ### [Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md)
-_Context: Baidoa, Al-Shabaab, Somali civil war, Somalia_
+_Context: Somali civil war, Baidoa, Somalia, Al-Shabaab_
 
 ##### Islamist insurgency in Nigeria
 ### [Boko Haram militants attack a bus in Waza, Cameroon, killing eleven people and injuring six. ](/news/2015/01/2/boko-haram-militants-attack-a-bus-in-waza-cameroon-killing-eleven-people-and-injuring-six.md)

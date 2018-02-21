@@ -33,11 +33,11 @@ The two-time Oscar winner, 61, worked on three James Cameron films, two &#039;St
 
 ##### Ebola virus epidemic in West Africa
 ### [Two new cases of ebola virus disease are reported from Sierra Leone's capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leoneas-capital-city-of-freetown-about-three-weeks-after-the-most-recent-new.md)
-_Context: Freetown, Sierra Leone, Ebola transmissions, ebola virus disease, Ebola virus epidemic in West Africa_
+_Context: ebola virus disease, Ebola virus epidemic in West Africa, Ebola transmissions, Sierra Leone, Freetown_
 
 ##### Japan
 ### [Japan announces plans to resume whaling in the Antarctic during the southern hemisphere summer. Commercial whaling has been banned for over 30 years by the International Whaling Commission. ](/news/2015/06/22/japan-announces-plans-to-resume-whaling-in-the-antarctic-during-the-southern-hemisphere-summer-commercial-whaling-has-been-banned-for-over.md)
-_Context: International Whaling Commission, Antarctic, Japan, southern hemisphere_
+_Context: International Whaling Commission, southern hemisphere, Antarctic, Japan_
 
 ##### 2014 Israel-Gaza conflict
 ### [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md)
@@ -45,7 +45,7 @@ Commission chair urges international community to act on conclusions of the repo
 
 ##### Office of Personnel Management data breach
 ### [The CNN reports that the size of the Office of Personnel Management data breach could be as large as 18 million past, present and prospective employees of the United States Government. ](/news/2015/06/22/the-cnn-reports-that-the-size-of-the-office-of-personnel-management-data-breach-could-be-as-large-as-18-million-past-present-and-prospectiv.md)
-_Context: United States Government, CNN, Office of Personnel Management, Office of Personnel Management data breach_
+_Context: United States Government, Office of Personnel Management data breach, Office of Personnel Management, CNN_
 
 ##### Charleston church shooting
 ### [The Governor of South Carolina Nikki Haley calls for the Confederate battle flag to be removed from the U.S. Civil War memorial on the grounds of the South Carolina State House. ](/news/2015/06/22/the-governor-of-south-carolina-nikki-haley-calls-for-the-confederate-battle-flag-to-be-removed-from-the-u-s-civil-war-memorial-on-the-groun.md)

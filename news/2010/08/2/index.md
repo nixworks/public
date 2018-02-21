@@ -9,11 +9,11 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Israel, Gaza flotilla raid, United Nations, Turkey_
+_Context: Gaza flotilla raid, Turkey, United Nations, Israel_
 
 ##### First Folio
 ### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
-_Context: First Folio, William Shakespeare_
+_Context: William Shakespeare, First Folio_
 
 ##### Cuba
 ### [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md)
@@ -21,7 +21,7 @@ Cuban President Raul Castro rules out wide-ranging market reforms but says more 
 
 ##### The recent wildfires
 ### [Hundreds of new wildfires erupt in Russia as fire has damaged or destroyed 27 towns and villages. ](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.md)
-_Context: the recent wildfires, Russia_
+_Context: Russia, the recent wildfires_
 
 ##### Nigel, Gauteng
 ### [A fire at a retirement home in Nigel, Gauteng, South Africa, kills 18 people. ](/news/2010/08/2/a-fire-at-a-retirement-home-in-nigel-gauteng-south-africa-kills-18-people.md)
@@ -37,19 +37,19 @@ Nearly five million barrels of oil have gushed from BP’s well, federal scienti
 
 ##### Lake Albert
 ### [At least 33 people drown after a boat capsizes on Lake Albert in Uganda. ](/news/2010/08/2/at-least-33-people-drown-after-a-boat-capsizes-on-lake-albert-in-uganda.md)
-_Context: Lake Albert, Uganda_
+_Context: Uganda, Lake Albert_
 
 ##### European Union
 ### [The European Union announces it will end its mission to reform security forces in Guinea-Bissau due to the deteriorating situation in the country. ](/news/2010/08/2/the-european-union-announces-it-will-end-its-mission-to-reform-security-forces-in-guinea-bissau-due-to-the-deteriorating-situation-in-the-co.md)
-_Context: European Union, Guinea-Bissau_
+_Context: Guinea-Bissau, European Union_
 
 ##### Government
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: United Kingdom, terrorism, Prime Minister, Minister of Foreign Affairs, Pakistan, government, David Cameron, Shah Mehmood Qureshi, Islamabad_
+_Context: Islamabad, Prime Minister, Shah Mehmood Qureshi, David Cameron, terrorism, Pakistan, government, United Kingdom, Minister of Foreign Affairs_
 
 ##### Trial
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
-_Context: sodomy, Anwar Ibrahim, Malaysia, trial_
+_Context: sodomy, Malaysia, Anwar Ibrahim, trial_
 
 ##### China
 ### [A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. ](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.md)
@@ -65,7 +65,7 @@ Seven civilians died in continuing violence in the Kashmir Valley on Monday as t
 
 ##### Greece
 ### [A Greek truck drivers strike ends with the situation expected to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
-_Context: Greece, truck driver_
+_Context: truck driver, Greece_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)

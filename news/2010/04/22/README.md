@@ -21,7 +21,7 @@ Protesters blockade parliament amid growing stand-off over presidential decree.
 
 ##### Flemish Liberals and Democrats
 ### [The Flemish Liberals and Democrats leave the Government of Belgium following a dispute over the dissolution of the electoral district Brussels-Halle-Vilvoorde. ](/news/2010/04/22/the-flemish-liberals-and-democrats-leave-the-government-of-belgium-following-a-dispute-over-the-dissolution-of-the-electoral-district-brusse.md)
-_Context: Government, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Belgium_
+_Context: Flemish Liberals and Democrats, Government, Brussels-Halle-Vilvoorde, Belgium_
 
 ##### Several grenades explode
 ### [Several grenades explode in Thailand's capital, Bangkok, killing at least one person and injuring at least 75 others. ](/news/2010/04/22/several-grenades-explode-in-thailand-s-capital-bangkok-killing-at-least-one-person-and-injuring-at-least-75-others.md)
@@ -33,11 +33,11 @@ NATO ministers agreed on Thursday to grant a Membership Action Plan (MAP) for Bo
 
 ##### President
 ### [Acting President of Nigeria Goodluck Jonathan signs the country's 4.6 trillion naira budget for 2010 into law. ](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.md)
-_Context: President, N, Nigeria, Goodluck Jonathan_
+_Context: Goodluck Jonathan, Nigeria, N, President_
 
 ##### Minas Gerais
 ### [Minas Gerais, one of Brazil's biggest states, bans the sale of the Toyota Corolla over safety fears. ](/news/2010/04/22/minas-gerais-one-of-brazil-s-biggest-states-bans-the-sale-of-the-toyota-corolla-over-safety-fears.md)
-_Context: Brazil, Minas Gerais, Toyota Corolla_
+_Context: Toyota Corolla, Brazil, Minas Gerais_
 
 ##### Sri Lanka
 ### [Sri Lanka's former army chief Sarath Fonseka requests his freedom from "illegal detention" in his first speech in parliament. ](/news/2010/04/22/sri-lanka-s-former-army-chief-sarath-fonseka-requests-his-freedom-from-illegal-detention-in-his-first-speech-in-parliament.md)
@@ -45,11 +45,11 @@ _Context: Sri Lanka, Sarath Fonseka_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Mahmoud Ahmadinejad, Zimbabwe, Prime Minister, President, Movement for Democratic Change, Morgan Tsvangirai_
+_Context: Zimbabwe, President, Prime Minister, Mahmoud Ahmadinejad, Movement for Democratic Change, Morgan Tsvangirai_
 
 ##### Utrecht
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust. The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
-_Context: Utrecht, Muhammad, Holocaust, Netherlands, Geert Wilders, Arab European League_
+_Context: Netherlands, Holocaust, Arab European League, Geert Wilders, Utrecht, Muhammad_
 
 ##### Rwanda
 ### [Rwanda president Paul Kagame's rival Victoire Ingabire Umuhoza is released one day after her arrest on charges of terrorism and genocide denial but banned from leaving Kigali and ordered to report to authorities twice a month. ](/news/2010/04/22/rwanda-president-paul-kagame-s-rival-victoire-ingabire-umuhoza-is-released-one-day-after-her-arrest-on-charges-of-terrorism-and-genocide-den.md)
@@ -65,7 +65,7 @@ Death sentences imposed on two Norwegians in the DRC for killing a driver have b
 
 ##### EUR
 ### [The Euro falls to near year-low levels amid concerns about Greece's debt crisis. ](/news/2010/04/22/the-euro-falls-to-near-year-low-levels-amid-concerns-about-greece-s-debt-crisis.md)
-_Context: Greece, EUR_
+_Context: EUR, Greece_
 
 ##### India
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)
@@ -73,11 +73,11 @@ Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ##### U.S. President
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Manhattan, U.S. President, Wall Street, Barack Obama_
+_Context: U.S. President, Manhattan, Wall Street, Barack Obama_
 
 ##### Melbourne Storm
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
-_Context: National Rugby League, Melbourne Storm, salary cap, 2007, 2009_
+_Context: 2009, salary cap, 2007, Melbourne Storm, National Rugby League_
 
 ##### American Society of Composers, Authors and Publishers
 ### [The American Society of Composers, Authors and Publishers honours The Killers for "their impact in shaping American music". ](/news/2010/04/22/the-american-society-of-composers-authors-and-publishers-honours-the-killers-for-their-impact-in-shaping-american-music.md)
@@ -85,7 +85,7 @@ _Context: National Rugby League, Melbourne Storm, salary cap, 2007, 2009_
 
 ##### South Park
 ### [An episode of the American television series "South Park" is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depictio.md)
-_Context: Muhammad, New York City, fatwa, South Park_
+_Context: fatwa, New York City, South Park, Muhammad_
 
 ##### St. Louis Rams
 ### [The St. Louis Rams select Sam Bradford with the first pick of the 2010 NFL Draft ](/news/2010/04/22/the-st-louis-rams-select-sam-bradford-with-the-first-pick-of-the-2010-nfl-draft.md)

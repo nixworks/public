@@ -23,7 +23,7 @@ Government says there are fears of widespread destruction and heavy loss of life
 
 ### Related:
 
-1. [ The government of Vanuatu declares a state of emergency in Port Vila following ethnic clashes. ](/news/2007/03/5/the-government-of-vanuatu-declares-a-state-of-emergency-in-port-vila-following-ethnic-clashes.md) _Context: Port Vila, Vanuatu, state of emergency_
+1. [ The government of Vanuatu declares a state of emergency in Port Vila following ethnic clashes. ](/news/2007/03/5/the-government-of-vanuatu-declares-a-state-of-emergency-in-port-vila-following-ethnic-clashes.md) _Context: Port Vila, Vanuatu, states of emergency_
 2. [Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md) _Context: Cyclone Pam, Vanuatu_
 3. [The United Nations will send emergency aid to Vanuatu with at least four people officially dead and reports of dozens more dead after Cyclone Pam hit yesterday. ](/news/2015/03/14/the-united-nations-will-send-emergency-aid-to-vanuatu-with-at-least-four-people-officially-dead-and-reports-of-dozens-more-dead-after-cyclon.md) _Context: Cyclone Pam, Vanuatu_
 4. [Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md) _Context: Cyclone Pam, Vanuatu_

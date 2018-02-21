@@ -17,7 +17,7 @@ Wintry weather is set to cause more travel chaos across the UK, with warnings of
 
 ##### Bulgaria
 ### [In Bulgaria, an assailant identified as Oktai Enimehmedov attempts to assassinate opposition leader Ahmed Dogan at a party congress of the Movement for Rights and Freedoms. ](/news/2013/01/19/in-bulgaria-an-assailant-identified-as-oktai-enimehmedov-attempts-to-assassinate-opposition-leader-ahmed-dogan-at-a-party-congress-of-the-m.md)
-_Context: Ahmed Dogan, Movement for Rights and Freedoms, Bulgaria_
+_Context: Ahmed Dogan, Bulgaria, Movement for Rights and Freedoms_
 
 ##### NASA
 ### [NASA's Curiosity rover finds calcium deposits on Mars similar to those seen on Earth when water circulates in cracks and rock fractures. ](/news/2013/01/19/nasaas-curiosity-rover-finds-calcium-deposits-on-mars-similar-to-those-seen-on-earth-when-water-circulates-in-cracks-and-rock-fractures.md)

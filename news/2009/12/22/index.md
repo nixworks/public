@@ -13,7 +13,7 @@ _Context: Nepalese Maoist Party, Nepal_
 
 ##### Suicide bomb
 ### [ A suicide bomb attack in Peshawar, north-western Pakistan, kills three and injures at least seventeen. ](/news/2009/12/22/a-suicide-bomb-attack-in-peshawar-north-western-pakistan-kills-three-and-injures-at-least-seventeen.md)
-_Context: Peshawar, suicide bomb, Pakistan_
+_Context: Pakistan, suicide bomb, Peshawar_
 
 ##### FBI
 ### [ The U.S. Federal Bureau of Investigation releases more than 300 pages of previously classified documents belonging to pop icon Michael Jackson who died earlier in the year. ](/news/2009/12/22/the-u-s-federal-bureau-of-investigation-releases-more-than-300-pages-of-previously-classified-documents-belonging-to-pop-icon-michael-jack.md)
@@ -25,7 +25,7 @@ _Context: Yakutsk, Siberia_
 
 ##### Eurostar
 ### [ Eurostar finally resumes services after three days of continent-wide weather-related outages. ](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.md)
-_Context: weather-related, Eurostar_
+_Context: Eurostar, weather-related_
 
 ##### Serbia
 ### [ Serbia formally submits its application to join the European Union. ](/news/2009/12/22/serbia-formally-submits-its-application-to-join-the-european-union.md)
@@ -37,11 +37,11 @@ _Context: County Sligo, Gerry Adams_
 
 ##### Sheriff's deputie
 ### [ Two sheriff's deputies are injured and a suspect dies in a shooting in Pierce County, Washington, USA. ](/news/2009/12/22/two-sheriff-s-deputies-are-injured-and-a-suspect-dies-in-a-shooting-in-pierce-county-washington-usa.md)
-_Context: USA, shooting, sheriff's deputie, Pierce County, Washington_
+_Context: shooting, USA, Washington, Pierce County, sheriff's deputie_
 
 ##### An armed conflict
 ### [ An armed conflict in Dungu (Dongo), quateur Province of Democratic Republic of the Congo has escalated. By 10 December the conflict has left 100 dead and forced 115 000 people to flee their homes. ](/news/2009/12/22/an-armed-conflict-in-dungu-dongo-equateur-province-of-democratic-republic-of-the-congo-has-escalated-by-10-december-the-conflict-has-le.md)
-_Context: quateur, An armed conflict, DR Congo_
+_Context: DR Congo, quateur, An armed conflict_
 
 ##### York
 ### [ A priest in York causes controversy when he says shoplifting from large national chain stores is acceptable in certain circumstances. ](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.md)

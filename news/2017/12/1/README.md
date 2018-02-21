@@ -9,7 +9,7 @@ PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand gren
 
 ##### Economics of bitcoin
 ### [The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago-b.md)
-_Context: U.S. Commodity Futures Trading Commission, Economics of bitcoin, Bitcoin, Chicago Mercantile Exchange, Chicago Board Options Exchange_
+_Context: U.S. Commodity Futures Trading Commission, Chicago Board Options Exchange, Bitcoin, Chicago Mercantile Exchange, Economics of bitcoin_
 
 ##### 2017 Philippine dengue vaccination crisis
 ### [The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/the-philippine-department-of-health-temporarily-suspends-a-school-based-dengue-vaccination-program-after-dengvaxia-vaccine-maker-sanofi-past.md)
@@ -25,7 +25,7 @@ _Context: Honduras, Aftermath of the Honduran general election, 2017, Juan Orlan
 
 ##### Abdication of Emperor Akihito
 ### [Emperor Akihito announces his intentions to abdicate the throne on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdicate-the-throne-on-april-30-2019.md)
-_Context: Abdication of Emperor Akihito, Akihito_
+_Context: Akihito, Abdication of Emperor Akihito_
 
 ##### Tesla Powerpack
 ### [A 100-megawatt Tesla Powerpack system, which is the world's largest lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-largest-lithium-ion-battery-is-launched-in-jamestown-south-australia.md)

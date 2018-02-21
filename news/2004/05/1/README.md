@@ -5,15 +5,15 @@ Formats: [HTML](2004/05/1/index.html)  [JSON](2004/05/1/index.json)  [XML](2004/
 
 ##### European Union candidacy
 ### [ EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. ](/news/2004/05/1/eu-enlargement-ten-new-member-states-cyprus-the-czech-republic-estonia-hungary-latvia-lithuania-malta-poland-slovakia-and-sloveni.md)
-_Context: European Union candidacy, Lithuania, European Union, Slovenia, Slovakia, Cypriot, Czech Republic, Latvia, Estonia, Malta_
+_Context: Czech Republic, European Union candidacy, Slovakia, Latvia, Estonia, European Union, Lithuania, Slovenia, Malta, Cypriot_
 
 ##### Yanbu
 ### [ In Yanbu, Saudi Arabia, gunmen kill five Westerners and a Saudi security guard in a shooting spree and car chase. ](/news/2004/05/1/in-yanbu-saudi-arabia-gunmen-kill-five-westerners-and-a-saudi-security-guard-in-a-shooting-spree-and-car-chase.md)
-_Context: Yanbu, Westerners, Saudi Arabia_
+_Context: Westerners, Yanbu, Saudi Arabia_
 
 ##### Parco dei Principe
 ### [ A fire at the Parco dei Principe hotel in Rome kills three, and forces the evacuation of a number of professional tennis stars, including Andy Roddick, Marat Safin, Mariano Zabaleta, and Max Mirnyi. ](/news/2004/05/1/a-fire-at-the-parco-dei-principe-hotel-in-rome-kills-three-and-forces-the-evacuation-of-a-number-of-professional-tennis-stars-including-a.md)
-_Context: Parco dei Principe, tennis, hotel, Marat Safin, Andy Roddick, Max Mirnyi, Mariano Zabaleta_
+_Context: Marat Safin, Parco dei Principe, hotel, Andy Roddick, Mariano Zabaleta, tennis, Max Mirnyi_
 
 ##### Smarty Jones
 ### [ Smarty Jones wins the Kentucky Derby. ](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.md)
@@ -21,11 +21,11 @@ _Context: Kentucky Derby, Smarty Jones_
 
 ##### Ajaria
 ### [ The separatist region of Ajaria attempts to sever its links from Georgia by blowing up the three bridges connecting it to the rest of the country over the Choloki River. ](/news/2004/05/1/the-separatist-region-of-ajaria-attempts-to-sever-its-links-from-georgia-by-blowing-up-the-three-bridges-connecting-it-to-the-rest-of-the-c.md)
-_Context: Ajaria, Choloki River,  Georgian_
+_Context: Choloki River,  Georgian, Ajaria_
 
 ##### Riot police
 ### [ Riot police clash with masked left-wing anarchists in Berlin and Leipzig, Germany. 100 people are arrested. ](/news/2004/05/1/riot-police-clash-with-masked-left-wing-anarchists-in-berlin-and-leipzig-germany-100-people-are-arrested.md)
-_Context: Riot police, Leipzig_
+_Context: Leipzig, Riot police_
 
 ## [Previous Day...](/news/2004/04/30/index.md)
 

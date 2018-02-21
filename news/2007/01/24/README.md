@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/24/index.html)  [JSON](2007/01/24/index.json)  [XML](200
 
 ##### Brandeis University
 ### [ In a speech at Brandeis University, former United States President Jimmy Carter apologizes for the wording of a sentence in his recently published book, "Palestine: Peace Not Apartheid". He referred to the wording as "stupid" and subsequent reprintings will change it. Despite the book's controversy, the audience received him with a standing ovation. ](/news/2007/01/24/in-a-speech-at-brandeis-university-former-united-states-president-jimmy-carter-apologizes-for-the-wording-of-a-sentence-in-his-recently-pu.md)
-_Context: Palestine: Peace Not Apartheid, Jimmy Carter, Brandeis University, United States President_
+_Context: Jimmy Carter, Palestine: Peace Not Apartheid, Brandeis University, United States President_
 
 ##### Ecuador
 ### [ Ecuador's Defense Minister Guadalupe Larriva is killed along with three pilots and her daughter in a crash involving two helicopters. Larriva was the first woman to serve as the country's defense minister. ](/news/2007/01/24/ecuador-s-defense-minister-guadalupe-larriva-is-killed-along-with-three-pilots-and-her-daughter-in-a-crash-involving-two-helicopters-larri.md)
@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### India
 ### [ India and Russia agree to jointly develop fifth-generation stealth fighter jets. ](/news/2007/01/24/india-and-russia-agree-to-jointly-develop-fifth-generation-stealth-fighter-jets.md)
-_Context: India, Russia, fifth-generation stealth fighter jets_
+_Context: fifth-generation stealth fighter jets, India, Russia_
 
 ##### Armenian
 ### [ Over 100,000 Turkish citizens, including those of Armenian descent fill the streets of Istanbul to mourn and mark the assassination of Hrant Dink, editor of the dissident newspaper "Agos". ](/news/2007/01/24/over-100-000-turkish-citizens-including-those-of-armenian-descent-fill-the-streets-of-istanbul-to-mourn-and-mark-the-assassination-of-hran.md)
@@ -25,11 +25,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Sudanese
 ### [ A Sudanese airliner, Air West Flight 612, carrying 103 people, is hijacked by a lone gunman and diverted to N'Djamena, Chad. The Air West flight lands at the airport in N'Djamena and the hijacker is arrested. ](/news/2007/01/24/a-sudanese-airliner-air-west-flight-612-carrying-103-people-is-hijacked-by-a-lone-gunman-and-diverted-to-n-djamena-chad-the-air-west-f.md)
-_Context: Sudanese, Chad, hijacker, N'Djamena, Air West Flight 612, Air West_
+_Context: N'Djamena, Air West, Air West Flight 612, hijacker, Chad, Sudanese_
 
 ##### Flight data recorder
 ### [ The flight data recorder (alternatively referred to as the 'black box') of Adam Air Flight 574 has been located off the coast of Sulawesi. ](/news/2007/01/24/the-flight-data-recorder-alternatively-referred-to-as-the-black-box-of-adam-air-flight-574-has-been-located-off-the-coast-of-sulawesi.md)
-_Context: flight data recorder, Sulawesi island, Flight 574, Adam Air_
+_Context: flight data recorder, Adam Air, Flight 574, Sulawesi island_
 
 ## [Previous Day...](/news/2007/01/23/index.md)
 

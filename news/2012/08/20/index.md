@@ -9,11 +9,11 @@ month mission
 
 ##### War in Afghanistan (2001-present)
 ### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
-_Context: John Key, Prime Minister, War in Afghanistan (2001-present), Afghan_
+_Context: Prime Minister, John Key, War in Afghanistan (2001-present), Afghan_
 
 ##### Riot in the Yare I prison
 ### [A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. ](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.md)
-_Context: Venezuela, riot in the Yare I prison, Caracas_
+_Context: Caracas, Venezuela, riot in the Yare I prison_
 
 ##### Bomb attack
 ### [At least eight people are killed by a bomb attack in the city of Gaziantep, Turkey. ](/news/2012/08/20/at-least-eight-people-are-killed-by-a-bomb-attack-in-the-city-of-gaziantep-turkey.md)
@@ -21,7 +21,7 @@ A suspected car bomb in the south-eastern Turkish city of Gaziantep leaves at le
 
 ##### Republic of Tatarstan
 ### [Officials say three suspected Islamic militants die while plotting a car bombing in the Republic of Tatarstan, Russia. ](/news/2012/08/20/officials-say-three-suspected-islamic-militants-die-while-plotting-a-car-bombing-in-the-republic-of-tatarstan-russia.md)
-_Context: Russia, Republic of Tatarstan_
+_Context: Republic of Tatarstan, Russia_
 
 ##### Prince Philip, the Duke of Edinburgh
 ### [Prince Philip, the Duke of Edinburgh, is discharged from hospital following treatment for a bladder infection. ](/news/2012/08/20/prince-philip-the-duke-of-edinburgh-is-discharged-from-hospital-following-treatment-for-a-bladder-infection.md)
@@ -41,7 +41,7 @@ ST. LOUIS, MO ( KTVI) -U.S. Rep. Todd Akin says he misspoke when making a commen
 
 ##### Gu Kailai
 ### [Gu Kailai, the wife of ousted Chongqing Politburo leader Bo Xilai, is given a suspended death sentence for the murder of Neil Heywood in China. ](/news/2012/08/20/gu-kailai-the-wife-of-ousted-chongqing-politburo-leader-bo-xilai-is-given-a-suspended-death-sentence-for-the-murder-of-neil-heywood-in-chi.md)
-_Context: Neil Heywood, Gu Kailai, suspended death sentence, Chongqing, Chinese, Politburo, Bo Xilai_
+_Context: Bo Xilai, Chinese, Politburo, Chongqing, Gu Kailai, suspended death sentence, Neil Heywood_
 
 ##### Polly Peck
 ### [Former Polly Peck tycoon Asil Nadir is found guilty on three counts of stealing millions of pounds from his company by a jury at London's Old Bailey. ](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.md)
@@ -49,19 +49,19 @@ Former tycoon Asil Nadir is found guilty of three counts of stealing millions fr
 
 ##### Supreme Court of India
 ### [In a case before the Supreme Court, the Indian Patent Office and pharmaceutical giant Novartis will present final arguments this week concerning the right to make and sell patented medicine. ](/news/2012/08/20/in-a-case-before-the-supreme-court-the-indian-patent-office-and-pharmaceutical-giant-novartis-will-present-final-arguments-this-week-concer.md)
-_Context: Supreme Court of India, generic, Novartis, Indian Patent Office_
+_Context: Novartis, Indian Patent Office, generic, Supreme Court of India_
 
 ##### Meles Zenawi
 ### [Meles Zenawi, the long-term Prime Minister of Ethiopia, dies of a mystery illness after not having been seen in public for weeks. ](/news/2012/08/20/meles-zenawi-the-long-term-prime-minister-of-ethiopia-dies-of-a-mystery-illness-after-not-having-been-seen-in-public-for-weeks.md)
-_Context: Prime Minister, Ethiopia, Meles Zenawi_
+_Context: Ethiopia, Prime Minister, Meles Zenawi_
 
 ##### Myanmar
 ### [Myanmar announces that it is ending media censorship, as part of the ongoing political reforms in the country. ](/news/2012/08/20/myanmar-announces-that-it-is-ending-media-censorship-as-part-of-the-ongoing-political-reforms-in-the-country.md)
-_Context: Myanmar, ongoing political reforms in the country, media censorship_
+_Context: ongoing political reforms in the country, Myanmar, media censorship_
 
 ##### Somalia
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
-_Context: Somalia, President_
+_Context: President, Somalia_
 
 ## [Previous Day...](/news/2012/08/19/index.md)
 

@@ -9,7 +9,7 @@ Several people reported dead in latest clashes even as number of UN monitors cha
 
 ##### Drone
 ### [The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. ](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in-southeastern-yemen-killing-11-suspected-al-qaeda-militants.md)
-_Context: al-Qaeda, Yemen, drone_
+_Context: Yemen, drone, al-Qaeda_
 
 ##### Nigeria
 ### [Nigerian police claim to have captured a senior commander of the radical Islamist militant group Boko Haram. ](/news/2012/05/12/nigerian-police-claim-to-have-captured-a-senior-commander-of-the-radical-islamist-militant-group-boko-haram.md)
@@ -37,7 +37,7 @@ A pair of Palestinian prisoners being held without charge enter day 74 without f
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. ](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.md)
-_Context: Mahmoud Ahmadinejad, nuclear program, Israel, President, mosquito_
+_Context: President, Israel, nuclear program, Mahmoud Ahmadinejad, mosquito_
 
 ##### President
 ### [President of Venezuela Hugo Chavez returns home after successfully completing of a course of radiotherapy for cancer in Cuba. ](/news/2012/05/12/president-of-venezuela-hugo-cha-vez-returns-home-after-successfully-completing-of-a-course-of-radiotherapy-for-cancer-in-cuba.md)

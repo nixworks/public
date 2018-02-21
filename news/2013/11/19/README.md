@@ -37,7 +37,7 @@ One person has died and as many as 50 workers are feared trapped after the roof 
 
 ##### Air Evac International
 ### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
-_Context: mayday, Cozumel, Mexico, Air Evac International, Learjet 35, Fort Lauderdale-Hollywood International Airport_
+_Context: Air Evac International, mayday, Fort Lauderdale-Hollywood International Airport, Learjet 35, Cozumel, Mexico_
 
 ##### Creigh Deeds
 ### [Virginia State Senator Creigh Deeds was stabbed multiple times at his home by his son Austin "Gus" Deeds. His son, Gus was found dead from a self-inflicted gunshot wound in the home. ](/news/2013/11/19/virginia-state-senator-creigh-deeds-was-stabbed-multiple-times-at-his-home-by-his-son-austin-gus-deeds-his-son-gus-was-found-dead-from-a.md)

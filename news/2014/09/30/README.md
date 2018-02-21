@@ -17,11 +17,11 @@ _Context: Ebola Virus, Ebola Virus in the United States, Dallas, Texas_
 
 ##### Fern Creek Traditional High School
 ### [A student is shot and wounded at Fern Creek Traditional High School in Louisville, Kentucky, U.S. A suspect, also a student at the school, has been arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-fern-creek-traditional-high-school-in-louisville-kentucky-u-s-a-suspect-also-a-student-at-the-school-h.md)
-_Context: Louisville, Kentucky, United States, Fern Creek Traditional High School_
+_Context: United States, Louisville, Kentucky, Fern Creek Traditional High School_
 
 ##### Albemarle High School
 ### [A student is shot and wounded at Albemarle High School in Albemarle, North Carolina, U.S. A student is arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.md)
-_Context: Albemarle, North Carolina, Albemarle High School, U.S._
+_Context: Albemarle High School, Albemarle, North Carolina, U.S._
 
 ## [Previous Day...](/news/2014/09/29/index.md)
 

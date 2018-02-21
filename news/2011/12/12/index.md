@@ -9,23 +9,23 @@ _Context: Credit rating, Moody's_
 
 ##### U.S. President
 ### [United States President Barack Obama has asked Iran for the RQ-170 Sentinel that was captured near Kashmar on December 4. ](/news/2011/12/12/united-states-president-barack-obama-has-asked-iran-for-the-rq-170-sentinel-that-was-captured-near-kashmar-on-december-4.md)
-_Context: Barack Obama, Iran, RQ-170 Sentinel, captured, U.S. President, Kashmar_
+_Context: RQ-170 Sentinel, U.S. President, Barack Obama, Kashmar, captured, Iran_
 
 ##### Chinese
 ### [A Chinese fishing boat captain allegedly stabs a Republic of Korea Coast Guard officer, killing him, after his boat is stopped for illegally fishing in South Korean waters. ](/news/2011/12/12/a-chinese-fishing-boat-captain-allegedly-stabs-a-republic-of-korea-coast-guard-officer-killing-him-after-his-boat-is-stopped-for-illegally.md)
-_Context: South Korea, Republic of Korea Coast Guard, fishing boat, illegally fish, Chinese_
+_Context: illegally fish, fishing boat, South Korea, Chinese, Republic of Korea Coast Guard_
 
-##### Canadian
+##### Canada
 ### [Canada announces that it will withdraw from the Kyoto Protocol, because the country would face large penalties because of treaty violations.](/news/2011/12/12/canada-announces-that-it-will-withdraw-from-the-kyoto-protocol-because-the-country-would-face-large-penalties-because-of-treaty-violations.md)
 Canada will pull out of the Kyoto protocol on climate change, Environment Minister Peter Kent said on Monday, dealing a symbolic blow to the troubled global treaty.
 
 ##### Supreme Court of Papua New Guinea
 ### [The Supreme Court of Papua New Guinea rules that the August 2011 election of Peter O'Neill as Prime Minister was unconstitutional and orders the reinstatement of former Prime Minister Michael Somare to office. ](/news/2011/12/12/the-supreme-court-of-papua-new-guinea-rules-that-the-august-2011-election-of-peter-o-neill-as-prime-minister-was-unconstitutional-and-orders.md)
-_Context: Supreme Court of Papua New Guinea, Peter O'Neill, Prime Minister, Michael Somare_
+_Context: Prime Minister, Peter O'Neill, Supreme Court of Papua New Guinea, Michael Somare_
 
 ##### Philippine lower House
 ### [The House of Representatives of the Philippines impeaches Chief Justice Renato Corona after 188 representatives signed a complaint. This is the second impeachment passed in the year after the impeachment of Ombudsman Merceditas Gutierrez early in March. ](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.md)
-_Context: Chief Justice, Renato Corona, Philippine lower House, Merceditas Gutierrez_
+_Context: Chief Justice, Philippine lower House, Merceditas Gutierrez, Renato Corona_
 
 ## [Previous Day...](/news/2011/12/11/index.md)
 

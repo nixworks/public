@@ -13,7 +13,7 @@ Whistle-blowing website Wikileaks is forced to change its web address after the 
 
 ##### U.S. President
 ### [President Barack Obama makes a surprise visit to United States armed forces based in Afghanistan. ](/news/2010/12/3/president-barack-obama-makes-a-surprise-visit-to-united-states-armed-forces-based-in-afghanistan.md)
-_Context: Barack Obama, U.S. President, United States armed forces, Afghan_
+_Context: Afghan, Barack Obama, U.S. President, United States armed forces_
 
 ##### Ai Weiwei
 ### [Ai Weiwei is prevented from travelling to South Korea by Chinese authorities and is warned his trip could "threaten national security", with imprisoned Liu Xiaobo due to receive the 2010 Nobel Peace Prize next week. ](/news/2010/12/3/ai-weiwei-is-prevented-from-travelling-to-south-korea-by-chinese-authorities-and-is-warned-his-trip-could-threaten-national-security-with.md)
@@ -33,7 +33,7 @@ Emergency cabinet meeting backs plans to raise the the pension age to 67 after c
 
 ##### Nissan
 ### [Nissan starts selling the Leaf, one of the first mass market electric cars. ](/news/2010/12/3/nissan-starts-selling-the-leaf-one-of-the-first-mass-market-electric-cars.md)
-_Context: mass market, electric, Nissan Leaf, Nissan_
+_Context: mass market, electric, Nissan, Nissan Leaf_
 
 ##### 1984 Bhopal disaster
 ### [1984 Bhopal disaster: The Indian government launches a court case to more than double the compensation paid by U.S. chemical corporation Union Carbide on the anniversary of the leak from a Madhya Pradesh plant that killed thousands of people. ](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.md)
@@ -49,7 +49,7 @@ Heavy snow and freezing temperatures continue across northern Europe, with dozen
 
 ##### Iran
 ### [At least 17 mainly Iranian people are killed in a collision of two buses on a highway near the holy site of Najaf, Iraq. ](/news/2010/12/3/at-least-17-mainly-iranian-people-are-killed-in-a-collision-of-two-buses-on-a-highway-near-the-holy-site-of-najaf-iraq.md)
-_Context: Iraq, Iran, Najaf_
+_Context: Najaf, Iran, Iraq_
 
 ##### Flood
 ### [Heavy floods in the Balkans forces more than a thousand people to evacuate from their homes. ](/news/2010/12/3/heavy-floods-in-the-balkans-forces-more-than-a-thousand-people-to-evacuate-from-their-homes.md)
@@ -65,7 +65,7 @@ U.S. spy planes flew reconnaissance flights over Lebanon from a British air base
 
 ##### South Korea
 ### [South Korea's defence minister-designate Kim Kwan-jin threatens North Korea with air strikes if the shelling of Yeonpyeong is repeated. The shelling was in response to South Korean naval exercises. ](/news/2010/12/3/south-korea-s-defence-minister-designate-kim-kwan-jin-threatens-north-korea-with-air-strikes-if-the-shelling-of-yeonpyeong-is-repeated-the.md)
-_Context: Kim Kwan-jin, North Korea, South Korea, shelling of Yeonpyeong_
+_Context: North Korea, South Korea, Kim Kwan-jin, shelling of Yeonpyeong_
 
 ##### Guinea
 ### [The Supreme Court of Guinea confirms Alpha Cond as winner of November's presidential poll following a state of emergency and fraud allegations made by ex-president Cellou Dalein Diallo. ](/news/2010/12/3/the-supreme-court-of-guinea-confirms-alpha-conde-as-winner-of-november-s-presidential-poll-following-a-state-of-emergency-and-fraud-allegati.md)

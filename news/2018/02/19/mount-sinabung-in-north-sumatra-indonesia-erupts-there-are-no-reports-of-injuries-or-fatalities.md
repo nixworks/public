@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupt
 ### [2018-02-19](/news/2018/02/19/index.md)
 
 ##### Mount Sinabung
-# Mount Sinabung in North Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. 
+# Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupt
 ### Changes:
 
 1. [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md) _2018-02-20 22:30:08 (First version)_
-1. [Mount Sinabung in North Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md) _(Current version)_
+1. [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md) _(Current version)_
 
 ### Related:
 
@@ -25,4 +25,4 @@ Formats: [HTML](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupt
 2. [Over 12,000 people are evacuated in Indonesia's North Sumatra province after Mount Sinabung erupts. ](/news/2013/11/24/over-12-000-people-are-evacuated-in-indonesia-s-north-sumatra-province-after-mount-sinabung-erupts.md) _Context: Indonesia, Mount Sinabung, North Sumatra_
 3. [Nearly 6,000 people flee after Mount Sinabung explodes in Indonesia's North Sumatra province. ](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.md) _Context: Indonesia, Mount Sinabung, North Sumatra_
 4. [Mount Sinabung in North Sumatra, Indonesia, erupts again. ](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.md) _Context: Indonesia, Mount Sinabung, North Sumatra_
-5. [Indonesia's Mount Sinabung erupts, killing at least six people in Sumatra. ](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.md) _Context: Indonesia, Mount Sinabung_
+5. [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7&nbsp;km (4&nbsp;mi) high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-nbsp-km-4-nbsp-mi-hi.md) _Context: Indonesia, Mount Sinabung_

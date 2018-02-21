@@ -29,7 +29,7 @@ A shallow magnitude 6.0 earthquake was reported Sunday morning three miles from 
 
 ##### Democratic Republic of Congo
 ### [The Democratic Republic of Congo confirms two deaths from Ebola in the north of the country, the first cases reported from the current outbreak. ](/news/2014/08/24/the-democratic-republic-of-congo-confirms-two-deaths-from-ebola-in-the-north-of-the-country-the-first-cases-reported-from-the-current-outbr.md)
-_Context: Democratic Republic of Congo, 2014 West Africa Ebola virus outbreak_
+_Context: 2014 West Africa Ebola virus outbreak, Democratic Republic of Congo_
 
 ## [Previous Day...](/news/2014/08/23/index.md)
 

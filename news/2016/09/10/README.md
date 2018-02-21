@@ -15,7 +15,7 @@ At least 25 people are killed and dozens injured when a fire breaks out inside a
 ### [A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. ](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-tanzania-near-lake-victoria-killing-at-least-13-people-and-injuring-200-others-tanzanian-au.md)
 A magnitude 5.7 earthquake kills at least 13 people and injures more than 200 in northern Tanzania.
 
-##### U.S. District Court for the District of Columbia
+##### U.S. District Court in Washington, D.C.
 ### [The District Court for the District of Columbia releases John Hinckley Jr, U.S. President Ronald Reagan's March 1981 would-be assassin, from a psychiatric hospital after 35 years. ](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.md)
 John Hinckley Jr, who tried to kill US President Ronald Reagan in 1981, is freed after 35 years in a psychiatric hospital.
 

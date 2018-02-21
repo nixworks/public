@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/15/index.html)  [JSON](2013/10/15/index.json)  [XML](201
 
 ##### Afghan
 ### [A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other-injuries.md)
-_Context: Logar Province, Afghan, Arsala Jamal_
+_Context: Logar Province, Arsala Jamal, Afghan_
 
 ##### Sunni Muslim
 ### [A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.md)
@@ -17,11 +17,11 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 
 ##### New Zealand
 ### [New Zealand author Eleanor Catton wins the 2013 Man Booker Prize for her work "The Luminaries". ](/news/2013/10/15/new-zealand-author-eleanor-catton-wins-the-2013-man-booker-prize-for-her-work-the-luminaries.md)
-_Context: The Luminaries, Eleanor Catton, New Zealand, 2013 Man Booker Prize_
+_Context: The Luminaries, New Zealand, Eleanor Catton, 2013 Man Booker Prize_
 
 ##### Fitch Ratings
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: United States, Fitch Ratings_
+_Context: Fitch Ratings, United States_
 
 ##### Glenn Greenwald
 ### [Glenn Greenwald, a reporter with "The Guardian" who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-the.md)
@@ -31,9 +31,9 @@ Glenn Greenwald, who has made headlines around the world with his reporting on U
 ### [A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. ](/news/2013/10/15/a-magnitude-7-2-earthquake-is-reported-in-the-philippines-near-the-town-of-balilihan-in-bohol-province-resulting-in-at-least-74-deaths.md)
 A powerful earthquake measuring 7.2 struck islands popular with tourists in the Philippines on Tuesday, killing at least 74 people, some as they prayed in a centuries-old church, and causing widespread damage to infrastructure, officials said.
 
-##### State of emergency
+##### States of emergency
 ### [A state of emergency is declared in the New Zealand district of Whanganui due to flooding. ](/news/2013/10/15/a-state-of-emergency-is-declared-in-the-new-zealand-district-of-whanganui-due-to-flooding.md)
-_Context: state of emergency, New Zealand, Whanganui_
+_Context: states of emergency, New Zealand, Whanganui_
 
 ##### Typhoon Nari
 ### [Typhoon Nari hits central Vietnam with over 122,000 people being evacuated. ](/news/2013/10/15/typhoon-nari-hits-central-vietnam-with-over-122-000-people-being-evacuated.md)

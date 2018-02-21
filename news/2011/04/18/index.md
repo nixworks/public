@@ -21,7 +21,7 @@ Two suicide car bombs explode in the Iraqi capital, Baghdad, killing nine people
 
 ##### Guangdong
 ### [Storms in Guangdong, southern China, kill at least 18 people and leave 150 injured. ](/news/2011/04/18/storms-in-guangdong-southern-china-kill-at-least-18-people-and-leave-150-injured.md)
-_Context: China, Guangdong_
+_Context: Guangdong, China_
 
 ##### Indonesia
 ### [A landslide kills 10 people in Indonesia's East Java province. ](/news/2011/04/18/a-landslide-kills-10-people-in-indonesia-s-east-java-province.md)
@@ -33,7 +33,7 @@ Get the latest Latin American and Caribbean news from BBC News in Latin America 
 
 ##### Piracy
 ### [An anti-piracy conference opens in Dubai, United Arab Emirates. ](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united-arab-emirates.md)
-_Context: United Arab Emirates, piracy, Dubai_
+_Context: piracy, United Arab Emirates, Dubai_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. ](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.md)

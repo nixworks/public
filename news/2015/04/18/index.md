@@ -13,7 +13,7 @@ U.S. officials are concerned about a confrontation with Saudi Arabia.
 
 ##### Kashmir conflict
 ### [Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-protester.md)
-_Context: Kashmir conflict, Indian Army_
+_Context: Indian Army, Kashmir conflict_
 
 ##### Libyan Civil War (2014-present)
 ### [The Prime Minister of Italy Matteo Renzi warns that thousands of Libyans will continue to risk their lives travelling to Europe unless the civil war ends. More than 2000 people have been rescued in the past week. ](/news/2015/04/18/the-prime-minister-of-italy-matteo-renzi-warns-that-thousands-of-libyans-will-continue-to-risk-their-lives-travelling-to-europe-unless-the-c.md)
@@ -25,7 +25,7 @@ The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, 
 
 ##### Gold mine
 ### [At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. ](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-collapses-in-tanzania-s-msalala-district.md)
-_Context: gold mine, Tanzania_
+_Context: Tanzania, gold mine_
 
 ##### Libya
 ### [Hundreds of people are feared dead after a boat carrying people from Libya to Italy capsizes in the Mediterranean Sea. Twenty-eight people have been rescued. ](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.md)

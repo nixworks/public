@@ -13,11 +13,11 @@ _Context: Afghan, Dai Kundi_
 
 ##### The Sunday Times
 ### [An investigation by "The Sunday Times" alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-int.md)
-_Context: International Whaling Commission, The Sunday Times, Japan, whaling_
+_Context: whaling, Japan, The Sunday Times, International Whaling Commission_
 
 ##### Al Jazeera Sports
 ### [A plane carrying 16 Al Jazeera Sports broadcast staff to the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane made an emergency landing at Lanseria International Airport following the jamming of the aircraft's landing gear. Lanseria International Airport is shut down. ](/news/2010/06/13/a-plane-carrying-16-al-jazeera-sports-broadcast-staff-to-the-2010-fifa-world-cup-game-between-algeria-and-slovenia-in-polokwane-made-an-emer.md)
-_Context: Lanseria International Airport, Algeria, Al Jazeera Sports, Polokwane, 2010 FIFA World Cup, Slovenia_
+_Context: Slovenia, Algeria, Lanseria International Airport, 2010 FIFA World Cup, Al Jazeera Sports, Polokwane_
 
 ##### Kyrgyzstan
 ### [Tensions remain high in Kyrgyzstan, with police patrolling the streets and special forces standing guard in the city of Osh and Jalal-Abad, after ethnic clashes left more than 100 people dead and about 1,400 others injured since fighting broke out Thursday night. ](/news/2010/06/13/tensions-remain-high-in-kyrgyzstan-with-police-patrolling-the-streets-and-special-forces-standing-guard-in-the-city-of-osh-and-jalal-abad.md)
@@ -45,7 +45,7 @@ Defense Ministry reports that Barak will remain in Israel until team of experts 
 
 ##### Slovakia
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
-_Context: President, Robert Fico's, Prime Minister, Ivan Gasparovic, Slovakia_
+_Context: Robert Fico's, President, Prime Minister, Slovakia, Ivan Gasparovic_
 
 ##### Belgian
 ### [The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/the-belgian-elections-take-place-amid-a-possibility-of-partition.md)
@@ -65,7 +65,7 @@ Fighting between government troops and police leaves 13 dead and 14 injured in c
 
 ##### Iraq
 ### [Two people are killed and six others are wounded during four explosions close to the entrance of the Iraqi central bank building in downtown Baghdad. ](/news/2010/06/13/two-people-are-killed-and-six-others-are-wounded-during-four-explosions-close-to-the-entrance-of-the-iraqi-central-bank-building-in-downtown.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### Earthquake
 ### [A 7.5-magnitude earthquake west of India's Nicobar Islands causes tremors felt along India's eastern seaboard and triggers a tsunami watch, which is later cancelled. ](/news/2010/06/13/a-7-5-magnitude-earthquake-west-of-india-s-nicobar-islands-causes-tremors-felt-along-india-s-eastern-seaboard-and-triggers-a-tsunami-watch.md)
@@ -73,7 +73,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### FIFA
 ### [FIFA says it will assist Al Jazeera Sports in its investigation of the 2010 FIFA World Cup signal sabotage. ](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.md)
-_Context: Al Jazeera Sports, FIFA, 2010 FIFA World Cup_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, FIFA_
 
 ##### Wen Jiabao
 ### [Wen Jiabao, the Premier of the People's Republic of China and Prime Minister of Japan Naoto Kan agree to establish a Prime Ministerial hotline between the two heads of government. ](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.md)
@@ -81,11 +81,11 @@ _Context: Naoto Kan, Prime Minister of Japan, Wen Jiabao, Premier of the People'
 
 ##### Joran Van der Sloot
 ### [Joran Van der Sloot said he'll reveal the location of U.S teen Natalee Holloway's body to the investigators if authorities transfer him to an Aruban jail from his current jail in Peru. ](/news/2010/06/13/joran-van-der-sloot-said-he-ll-reveal-the-location-of-u-s-teen-natalee-holloway-s-body-to-the-investigators-if-authorities-transfer-him-to-a.md)
-_Context: Peru, Joran Van der Sloot, Natalee Holloway, Aruba_
+_Context: Natalee Holloway, Peru, Joran Van der Sloot, Aruba_
 
 ##### London School of Economics
 ### [A London School of Economics report finds that Pakistan's largest intelligence agency, the Inter-Services Intelligence, is secretly funding and training the Afghan Taliban. ](/news/2010/06/13/a-london-school-of-economics-report-finds-that-pakistan-s-largest-intelligence-agency-the-inter-services-intelligence-is-secretly-funding.md)
-_Context: London School of Economics, Taliban, Pakistan, Inter-Services Intelligence, intelligence agency_
+_Context: Pakistan, Taliban, intelligence agency, Inter-Services Intelligence, London School of Economics_
 
 ##### South Korea
 ### [South Korea's chairman of the Joint Chiefs of Staff Gen. Lee Sang-eui offers to retire over the recent warship sinking. ](/news/2010/06/13/south-korea-s-chairman-of-the-joint-chiefs-of-staff-gen-lee-sang-eui-offers-to-retire-over-the-recent-warship-sinking.md)
@@ -97,7 +97,7 @@ Air Chief Marshal Sir Jock Stirrup is to quit as head of the armed forces in the
 
 ##### Switzerland
 ### [Freed Swiss businessman Max Goldi is due to leave Libya. ](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.md)
-_Context: Max Goldi, Libya, Switzerland_
+_Context: Libya, Switzerland, Max Goldi_
 
 ##### Japan Aerospace Exploration Agency
 ### [The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. ](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.md)

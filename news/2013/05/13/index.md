@@ -9,11 +9,11 @@ A car bomb explosion near a hospital in the Libyan city of Benghazi kills and in
 
 #####  Georgian
 ### [Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-base-in-the-helmand-province.md)
-_Context: International Security Assistance Force, Georgian servicemen, Helmand Province,  Georgian_
+_Context: Georgian servicemen,  Georgian, International Security Assistance Force, Helmand Province_
 
 ##### Mayan
 ### [A 2,300-year-old Mayan pyramid at Nohmul in Belize is destroyed by a construction company seeking road fill gravel. ](/news/2013/05/13/a-2-300-year-old-mayan-pyramid-at-nohmul-in-belize-is-destroyed-by-a-construction-company-seeking-road-fill-gravel.md)
-_Context: Mayan, Nohmul, Belize_
+_Context: Mayan, Belize, Nohmul_
 
 ##### Americans
 ### [Veteran U.S. broadcaster Barbara Walters announces her 2014 retirement. ](/news/2013/05/13/veteran-u-s-broadcaster-barbara-walters-announces-her-2014-retirement.md)
@@ -21,11 +21,11 @@ _Context: Americans, Barbara Walters_
 
 ##### Kevyn Orr
 ### [Kevyn Orr, a state-appointed emergency manager of the finances of the city of Detroit, Michigan, issues a report describing the city as "clearly insolvent on a cash flow basis." ](/news/2013/05/13/kevyn-orr-a-state-appointed-emergency-manager-of-the-finances-of-the-city-of-detroit-michigan-issues-a-report-describing-the-city-as-cle.md)
-_Context: Mich., Detroit, Kevyn Orr_
+_Context: Detroit, Kevyn Orr, Mich._
 
 ##### Yemen
 ### [A military aircraft crashes in residential area in Yemen's capital of Sana'a. ](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.md)
-_Context: Sana'a, Yemen_
+_Context: Yemen, Sana'a_
 
 ##### 2013 Savar building collapse
 ### [The search of the wreckage of the 2013 Savar building collapse in Bangladesh ends with 1,127 people found dead. ](/news/2013/05/13/the-search-of-the-wreckage-of-the-2013-savar-building-collapse-in-bangladesh-ends-with-1-127-people-found-dead.md)
@@ -57,7 +57,7 @@ Reporters at Bloomberg News were told to use the terminals to get an edge in the
 
 ##### Senate
 ### [The Senate in the U.S. state of Minnesota passes a bill legalizing same-sex marriage. Governor Mark Dayton says he intends to sign it into law. ](/news/2013/05/13/the-senate-in-the-u-s-state-of-minnesota-passes-a-bill-legalizing-same-sex-marriage-governor-mark-dayton-says-he-intends-to-sign-it-into-l.md)
-_Context: U.S. state, Senate, same-sex marriage, Mark Dayton, Minnesota_
+_Context: same-sex marriage, Minnesota, Senate, Mark Dayton, U.S. state_
 
 ##### Philippines
 ### [Voters in the Philippines go to the polls for House of Representatives and Senate elections with police on heightened security. ](/news/2013/05/13/voters-in-the-philippines-go-to-the-polls-for-house-of-representatives-and-senate-elections-with-police-on-heightened-security.md)
@@ -67,7 +67,7 @@ MANILA - The Philippines goes to the polls Monday to choose thousands of local l
 ### [Siddaramaiah of the Indian National Congress party is sworn in as the 22nd Chief Minister of the southern Indian state of Karnataka. ](/news/2013/05/13/siddaramaiah-of-the-indian-national-congress-party-is-sworn-in-as-the-22nd-chief-minister-of-the-southern-indian-state-of-karnataka.md)
 Siddaramaiah was on Monday sworn in as the 22nd Chief Minister of Karnataka at a grand show at a stadium here, marking the return of the administration back to the hands of Congress after more than seven years.
 
-##### Canadian
+##### Canada
 ### [In Canada's Newfoundland and Labrador Province, Liberal Party's Yvonne Jones won a by-election to the province's Labrador electoral riding, formerly held by Conservative Party's Peter Penashue. The by-election was widely viewed as a crucial test for new Liberal Party leader Justin Trudeau. ](/news/2013/05/13/in-canada-s-newfoundland-and-labrador-province-liberal-party-s-yvonne-jones-won-a-by-election-to-the-province-s-labrador-electoral-riding.md)
 Liberal candidate Yvonne Jones won the federal byelection in Labrador on Monday, recapturing a traditional Grit seat that became vacant when former Conservative MP Peter Penashue quit due to campaign overspending and illegal contributions during the 2011 election.
 

@@ -17,7 +17,7 @@ _Context: Java, Indonesia_
 
 ##### Jammu and Kashmir
 ### [ The Jammu and Kashmir police arrest nine suspected Jaish-e-Mohammed members in connection with the grenade attacks that shook Srinagar killing five and injuring 40 others. ](/news/2006/04/15/the-jammu-and-kashmir-police-arrest-nine-suspected-jaish-e-mohammed-members-in-connection-with-the-grenade-attacks-that-shook-srinagar-kill.md)
-_Context: Jammu and Kashmir, Jaish-e-Mohammed, Srinagar, grenade_
+_Context: Jammu and Kashmir, grenade, Srinagar, Jaish-e-Mohammed_
 
 ##### April 2006 Nepalese general strike
 ### [ April 2006 Nepalese general strike: Thousands of people have taken part in pro-democracy marches in towns and cities across Nepal. ](/news/2006/04/15/april-2006-nepalese-general-strike-thousands-of-people-have-taken-part-in-pro-democracy-marches-in-towns-and-cities-across-nepal.md)

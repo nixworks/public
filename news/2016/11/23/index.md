@@ -29,7 +29,7 @@ Serial killer Stephen Port is found guilty of murdering four men he met on datin
 
 ##### Cameroon security forces
 ### [Cameroon security forces arrest about 100 people after days of protests against alleged discrimination against the English-speaking minority. ](/news/2016/11/23/cameroon-security-forces-arrest-about-100-people-after-days-of-protests-against-alleged-discrimination-against-the-english-speaking-minority.md)
-_Context: Cameroon security forces, English_
+_Context: English, Cameroon security forces_
 
 ##### Texas
 ### [A Texas jury awards T. Boone Pickens and his Mesa Petroleum partners $140 million as a result of systemic underpayment of profits and ownership from 160 oil wells in Reeves and Pecos counties. ](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mesa-petroleum-partners-140-million-as-a-result-of-systemic-underpayment-of-profits-and-owners.md)
@@ -41,7 +41,7 @@ Donald Trump names South Carolina Governor Nikki Haley as US ambassador to the U
 
 ##### Politics of Spain
 ### [Senator Rita Barbera, who was considerated the "Mayoress of Spain" while governing the city of Valencia for 24 years, dies unexpectedly two days after declaring at the Supreme Court for a corruption scandal. ](/news/2016/11/23/senator-rita-barbera-who-was-considerated-the-mayoress-of-spain-while-governing-the-city-of-valencia-for-24-years-dies-unexpectedly-two.md)
-_Context: Supreme Court, Rita Barbera, Valencia, Politics of Spain_
+_Context: Rita Barbera, Supreme Court, Politics of Spain, Valencia_
 
 ##### USS Zumwalt
 ### [ The $4B USS Zumwalt, thought to be the U.S. Navy's most technologically advanced vessel to date, suffers a large engineering malfunction while crossing the Panama Canal. This is the craft's second major malfunction since its launch less than a month prior. ](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.md)

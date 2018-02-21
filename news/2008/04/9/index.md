@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/9/index.html)  [JSON](2008/04/9/index.json)  [XML](2008/
 
 ##### 2008 Summer Olympics torch relay
 ### [ The Olympic torch relay through San Francisco descends into confusion as the first runner in the elaborately planned relay disappears into a warehouse on a waterfront pier. ](/news/2008/04/9/the-olympic-torch-relay-through-san-francisco-descends-into-confusion-as-the-first-runner-in-the-elaborately-planned-relay-disappears-into.md)
-_Context: 2008 Summer Olympics torch relay, San Francisco_
+_Context: San Francisco, 2008 Summer Olympics torch relay_
 
 ##### Tibet
 ### [ The body representing all National Olympic Committees says it had deleted a mention of Tibet in its Beijing Games declaration after a debate among its members. ](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.md)
-_Context: Tibet, 2008 Summer Olympics_
+_Context: 2008 Summer Olympics, Tibet_
 
 ##### American Airlines
 ### [ American Airlines cancels more than 1,000 flights in order to make sure some wiring on its fleet of 300 MD-80 jetliners was secured correctly inside wheel wells. ](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.md)

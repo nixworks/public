@@ -29,7 +29,7 @@ _Context: 2010 FIFA World Cup, South Africa, Paris Hilton, Port Elizabeth, Polic
 
 ##### United States military
 ### [The U.S. Pentagon alleges that Iran has violated United Nations sanctions against itself by providing an advanced radar system to Syria, a system the Pentagon claims would hurt Israel's ability to launch surprise attacks against Iran. ](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.md)
-_Context: Iran, radar, Syria, Israel, United Nations, pre-sanction, United States military_
+_Context: Iran, United States military, radar, Israel, pre-sanction, United Nations, Syria_
 
 ##### Poland
 ### [Poland and the United States sign a deal in Krakow allowing the United States to position an American anti-missile shield in Poland to defend Europe from the perceived threat of Iran and other countries: Russia objects. ](/news/2010/07/3/poland-and-the-united-states-sign-a-deal-in-kraka3w-allowing-the-united-states-to-position-an-american-anti-missile-shield-in-poland-to-defe.md)
@@ -53,11 +53,11 @@ Former Argentine military ruler Jorge Videla goes on trial for the murder of mor
 
 ##### United States
 ### [United States Republican Party chairman Michael Steele is heavily criticised by members of his own party and by members of the Democratic Party for saying America's war in Afghanistan is "a war of Obama's choosing". ](/news/2010/07/3/united-states-republican-party-chairman-michael-steele-is-heavily-criticised-by-members-of-his-own-party-and-by-members-of-the-democratic-pa.md)
-_Context: Republican, Michael Steele, Democrat, United States, Barack Obama_
+_Context: Michael Steele, Democrat, United States, Barack Obama, Republican_
 
 ##### Serena Williams
 ### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md)
-_Context: Vera Zvonareva, Serena Williams, Wimbledon_
+_Context: Serena Williams, Wimbledon, Vera Zvonareva_
 
 ## [Previous Day...](/news/2010/07/2/index.md)
 

@@ -21,11 +21,11 @@ _Context: Walter Mixa, Bishop of Augsburg_
 
 ##### Reynaldo Bignone
 ### [82-year-old General Reynaldo Bignone, former military ruler of Argentina, is imprisoned for 25 years for abductions and tortures committed between 1978 and 1979. ](/news/2010/04/20/82-year-old-general-reynaldo-bignone-former-military-ruler-of-argentina-is-imprisoned-for-25-years-for-abductions-and-tortures-committed-b.md)
-_Context: Reynaldo Bignone, Argentina_
+_Context: Argentina, Reynaldo Bignone_
 
 ##### New York City
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: Abdul Tawala Ibn Ali Alishtari, terrorism training camp, New York City, Afghan_
+_Context: Afghan, New York City, terrorism training camp, Abdul Tawala Ibn Ali Alishtari_
 
 ##### Cairo
 ### [Dozens of people gather in central Cairo in a rare protest against the use of force on pro-democracy demonstrations which "pose a threat to the national security". ](/news/2010/04/20/dozens-of-people-gather-in-central-cairo-in-a-rare-protest-against-the-use-of-force-on-pro-democracy-demonstrations-which-pose-a-threat-to.md)
@@ -33,11 +33,11 @@ _Context: Cairo_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir's ruling party agrees to accept the results of the recent general election in Sudan. ](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.md)
-_Context: post-election protests, Omar al-Bashir, Sudan_
+_Context: Omar al-Bashir, Sudan, post-election protests_
 
 ##### Palestine
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
-_Context: West Bank, Israel, Palestine_
+_Context: Israel, Palestine, West Bank_
 
 ##### An earthquake struck on 14 April
 ### [The Yushu earthquake death toll rises to 2,046. ](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.md)
@@ -57,27 +57,27 @@ Britain has been accused of complicity in the torture of Taliban suspects arrest
 
 ##### Kandahar
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Azizollah Yarmal, mosque, Kandahar, Afghan_
+_Context: Kandahar, Afghan, mosque, Azizollah Yarmal_
 
 ##### Sri Lanka
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
-_Context: Nawalapitiya, parliamentary election, Trincomalee, Sri Lanka_
+_Context: Nawalapitiya, Sri Lanka, parliamentary election, Trincomalee_
 
 ##### U.S. President
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: U.S. President, Israel, Barack Obama_
+_Context: Israel, U.S. President, Barack Obama_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court, in ruling on "United States v. Stevens", strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
-_Context: United States v. Stevens, United States Supreme Court_
+_Context: United States Supreme Court, United States v. Stevens_
 
-##### Canadian
+##### Canada
 ### [Two Canadian men are accused of committing an act of "flag desecration" in La Quinta, California, United States for allegedly replacing an American flag with a Canadian flag following Canada's ice hockey victory at the 2010 Winter Olympics. ](/news/2010/04/20/two-canadian-men-are-accused-of-committing-an-act-of-flag-desecration-in-la-quinta-california-united-states-for-allegedly-replacing-an-a.md)
 Two Canadian men may face charges of flag desecration and vandalism in California over a controversial display of Olympic pride.
 
 ##### Kaduna
 ### [Two prisoners are killed and several others are injured during an attempted jail break in Kaduna, Nigeria. ](/news/2010/04/20/two-prisoners-are-killed-and-several-others-are-injured-during-an-attempted-jail-break-in-kaduna-nigeria.md)
-_Context: Kaduna, Nigeria_
+_Context: Nigeria, Kaduna_
 
 ##### Rwanda
 ### [Two high-ranking officers are suspended from Rwanda's military and arrested; Maj-Gen Charles Muhire is accused of corruption and misuse of office, whilst Lt-Gen Karenzi Karake is accused of immoral conduct. ](/news/2010/04/20/two-high-ranking-officers-are-suspended-from-rwanda-s-military-and-arrested-maj-gen-charles-muhire-is-accused-of-corruption-and-misuse-of-o.md)
@@ -105,7 +105,7 @@ _Context: Orange Prize for Fiction_
 
 ##### Karim Benzema
 ### [Karim Benzema and Hatem Ben Arfa are named as being involved in the France national football team's sex scandal. Franck Ribry admits sexual relations with an underage prostitute. ](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.md)
-_Context: Franck Ribry, French, Hatem Ben Arfa, Karim Benzema_
+_Context: Franck Ribry, Hatem Ben Arfa, Karim Benzema, French_
 
 ##### International Olympic Committee
 ### [Former International Olympic Committee (IOC) president (1980 - 2001) and honorary life president Juan Antonio Samaranch is in a "very critical" condition in Quiron Hospital, Barcelona, after suffering a heart attack. ](/news/2010/04/20/former-international-olympic-committee-ioc-president-1980-2001-and-honorary-life-president-juan-antonio-samaranch-is-in-a-very-critic.md)

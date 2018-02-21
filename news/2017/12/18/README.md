@@ -17,7 +17,7 @@ First responders are treating the derailment in Washington state as a mass casua
 
 ##### MiG-29
 ### [ A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. ](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-miask-mazowiecki-the-pilot-survived-despite-not-ejecting.md)
-_Context: MiG-29, Minsk Mazowiecki_
+_Context: Minsk Mazowiecki, MiG-29_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)

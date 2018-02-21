@@ -9,7 +9,7 @@ An Australian woman has been freed after she and her husband were kidnapped by a
 
 ##### Syrian Civil War
 ### [The Syrian Army, backed by the Russian Air Force, takes control of the town of Ratyan in the Aleppo Governorate, after defeating Al-Nusra Front and Ahrar ash-Sham fighters. ](/news/2016/02/6/the-syrian-army-backed-by-the-russian-air-force-takes-control-of-the-town-of-ratyan-in-the-aleppo-governorate-after-defeating-al-nusra-fr.md)
-_Context: Aleppo Governorate, Jabhat al-Nusra, Syrian Civil War, Ahrar ash-Sham, government offensive, Ratyan, Syrian Army, Russian Air Force_
+_Context: Ahrar ash-Sham, Ratyan, government offensive, Jabhat al-Nusra, Syrian Civil War, Russian Air Force, Syrian Army, Aleppo Governorate_
 
 ##### Pakistani security forces
 ### [Ten people are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md)
@@ -29,7 +29,7 @@ Search and rescue operations were still under way on Saturday afternoon, and it 
 
 ##### Sledding
 ### [Twin brothers are killed and six others injured in a sledding accident on an Olympic bobsledding course at Canada Olympic Park in Calgary, Alberta. ](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.md)
-_Context: Alberta, Calgary, Alberta, course, Canada Olympic Park, Olympic, sledding, bobsledding_
+_Context: bobsledding, course, Canada Olympic Park, sledding, Alberta, Calgary, Alberta, Olympic_
 
 ##### North Korea
 ### [North Korea brings forward the date of a potential satellite launch to as early as tomorrow. ](/news/2016/02/6/north-korea-brings-forward-the-date-of-a-potential-satellite-launch-to-as-early-as-tomorrow.md)
@@ -49,7 +49,7 @@ Outspoken member of commission refuses to step down, brands investigation a &lsq
 
 ##### Opposition to immigration
 ### [Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-over-the-massive-influx-of-asylum-seekers-to.md)
-_Context: Opposition to immigration, European migrant crisis, Islam, Anti-Islamism_
+_Context: European migrant crisis, Anti-Islamism, Islam, Opposition to immigration_
 
 ## [Previous Day...](/news/2016/02/5/index.md)
 

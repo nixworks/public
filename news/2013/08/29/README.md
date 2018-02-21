@@ -29,7 +29,7 @@ Desperate for rest in a frenzied world, at least 8.6 million Americans take pres
 
 ##### Vienna
 ### [Scientists at Vienna's Institute of Molecular Biotechnology and Edinburgh University's Human Genetics Unit in Edinburgh, Scotland, clone a human mini-brain (a cerebral organoid), using stem cells; the first time brain tissue development has been replicated in three dimensions - which could help with schizophrenia and autism neurological research. ](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.md)
-_Context: Edinburgh, Vienna, Scotland, Edinburgh University_
+_Context: Vienna, Scotland, Edinburgh, Edinburgh University_
 
 ##### Indian Mujahideen
 ### [The head of the Indian Mujahideen (IM), Yasin Bhatkal, is arrested by police. ](/news/2013/08/29/the-head-of-the-indian-mujahideen-im-yasin-bhatkal-is-arrested-by-police.md)
@@ -37,7 +37,7 @@ Police in India say they have arrested Yasin Bhatkal, the alleged leader of the 
 
 ##### Rim Fire
 ### [The Rim Fire near Yosemite National Park, now 30% contained, has grown to about 300 square miles. ](/news/2013/08/29/the-rim-fire-near-yosemite-national-park-now-30-contained-has-grown-to-about-300-square-miles.md)
-_Context: Yosemite National Park, Rim Fire_
+_Context: Rim Fire, Yosemite National Park_
 
 ##### Fire Brigades Union
 ### [Members of the UK's Fire Brigades Union vote to take industrial action in a dispute over pensions, threatening the country's first national firefighters' strike since 2002. ](/news/2013/08/29/members-of-the-uk-s-fire-brigades-union-vote-to-take-industrial-action-in-a-dispute-over-pensions-threatening-the-country-s-first-national.md)

@@ -13,7 +13,7 @@ _Context: Indian-administered Kashmir_
 
 ##### Palestinian
 ### [One Palestinian gunman is killed and four more are wounded in a Gaza firefight after launching RPGs and missiles at Israeli soldiers. ](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.md)
-_Context: Palestinian, missiles, rocket-propelled grenades, Gaza Strip, Israeli Army_
+_Context: missiles, rocket-propelled grenades, Gaza Strip, Israeli Army, Palestinian_
 
 ##### French police
 ### [French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. ](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.md)
@@ -57,7 +57,7 @@ Sarah Shourd, held for over a year with two others on suspicion of spying, arriv
 
 ##### Viviane Reding
 ### [Viviane Reding, a Luxembourg politician and currently the European Commissioner for Justice, Fundamental Rights and Citizenship, describes France's deportation of Romani migrants as a "disgrace". ](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.md)
-_Context: Roma, deportation, Commissioner for Justice, Fundamental Rights and Citizenship, Luxembourg, Viviane Reding_
+_Context: deportation, Viviane Reding, Roma, Commissioner for Justice, Fundamental Rights and Citizenship, Luxembourg_
 
 ##### Resume negotiations
 ### [A second round of Middle East peace talks between Israel and the Palestinian Authority concludes in Sharm el-Sheikh, Egypt. ](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.md)
@@ -73,7 +73,7 @@ Peruvian President Alan Garcia names Jose Chang as his new prime minister as par
 
 ##### Guinea
 ### [The head of Guinea's electoral commission who was convicted for electoral fraud, Ben Sekou Sylla, dies, ahead of a presidential run-off on Sunday. ](/news/2010/09/14/the-head-of-guinea-s-electoral-commission-who-was-convicted-for-electoral-fraud-ben-sekou-sylla-dies-ahead-of-a-presidential-run-off-on-s.md)
-_Context: Guinea, November's presidential poll_
+_Context: November's presidential poll, Guinea_
 
 ##### Senate
 ### [France passes a resolution banning full face veils after a 246-1 vote in the Senate. The law must still be reviewed by the Constitutional Council before coming into effect. ](/news/2010/09/14/france-passes-a-resolution-banning-full-face-veils-after-a-246-1-vote-in-the-senate-the-law-must-still-be-reviewed-by-the-constitutional-co.md)
@@ -93,11 +93,11 @@ U.S. Defense Secretary Robert Gates Tuesday gave a taste of his $100 billion, fi
 
 ##### Cecilia Romero
 ### [Cecilia Romero resigns as the head of the Mexican National Institute of Migration in the wake of massacre of 72 migrants at the hands of a drug cartel. ](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.md)
-_Context: drug cartel, Cecilia Romero, National Institute of Migration_
+_Context: Cecilia Romero, drug cartel, National Institute of Migration_
 
 ##### Christine O'Donnell
 ### [Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
-_Context: Republican, Delaware, US Senate race, Christine O'Donnell_
+_Context: Delaware, Christine O'Donnell, Republican, US Senate race_
 
 ## [Previous Day...](/news/2010/09/13/index.md)
 

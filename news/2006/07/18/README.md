@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/18/index.html)  [JSON](2006/07/18/index.json)  [XML](200
 
 ##### Government of Angola
 ### [ The government of Angola and the Frente para a LibertacGBPo do Enclave de Cabinda sign a peace agreement ending the Independence War in Cabinda. ](/news/2006/07/18/the-government-of-angola-and-the-frente-para-a-libertaassagbpo-do-enclave-de-cabinda-sign-a-peace-agreement-ending-the-independence-war-in-c.md)
-_Context: government of Angola, Independence War in Cabinda, Frente para a LibertacGBPo do Enclave de Cabinda_
+_Context: Independence War in Cabinda, Frente para a LibertacGBPo do Enclave de Cabinda, government of Angola_
 
 ##### War
 ### [ Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md)
@@ -17,19 +17,19 @@ _Context: tsunami, July 2006 Java earthquake_
 
 ##### Car bomb
 ### [ A car bomb kills at least 15 labourers and wounds dozens in the southern Iraqi town of Kufa. ](/news/2006/07/18/a-car-bomb-kills-at-least-15-labourers-and-wounds-dozens-in-the-southern-iraqi-town-of-kufa.md)
-_Context: car bomb, Kufa, Iraq_
+_Context: car bomb, Iraq, Kufa_
 
 ##### A doctor
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: Hurricane Katrina, New Orleans, murder, euthanasia, Memorial Medical Center, A doctor, United States_
+_Context: murder, A doctor, Hurricane Katrina, euthanasia, New Orleans, Memorial Medical Center, United States_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
-_Context: same-sex marriage, United States House of Representatives, constitutional amendment to ban_
+_Context: constitutional amendment to ban, United States House of Representatives, same-sex marriage_
 
 ##### Tropical Storm Beryl
 ### [ Tropical Storm Beryl forms off the coast of the U.S. state of North Carolina, 180 miles southeast of Cape Hatteras. It is the second tropical storm to form in the North Atlantic in the 2006 hurricane season. ](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.md)
-_Context: North Carolina, hurricane, U.S. state, Tropical Storm Beryl, Cape Hatteras_
+_Context: Tropical Storm Beryl, North Carolina, U.S. state, Cape Hatteras, hurricane_
 
 ##### Princess Cruises
 ### [ The Princess Cruises ship "Crown Princess" lists heavily, injuring several passengers. It immediately returns to Port Canaveral. ](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.md)
@@ -41,7 +41,7 @@ _Context: International Crisis Group, Kirkuk, Turkey, Kurd_
 
 ##### International Four Days Marches Nijmegen
 ### [ On the first day of the 90th International Four Days Marches Nijmegen, two participants die of heart failure due to exhaustion caused by the exceptionally warm weather in the Netherlands. Because even higher temperatures are predicted for the second day, the organization decides to cancel the remainder of the event. ](/news/2006/07/18/on-the-first-day-of-the-90th-international-four-days-marches-nijmegen-two-participants-die-of-heart-failure-due-to-exhaustion-caused-by-th.md)
-_Context: International Four Days Marches Nijmegen, Netherlands_
+_Context: Netherlands, International Four Days Marches Nijmegen_
 
 ## [Previous Day...](/news/2006/07/17/index.md)
 

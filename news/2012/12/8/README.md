@@ -29,11 +29,11 @@ Seeking to control global warming, nearly 200 countries agreed Saturday to exten
 
 ##### American football
 ### [American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. ](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.md)
-_Context: Jerry Brown, Josh Brent, Dallas Cowboys, vehicular manslaughter, American football_
+_Context: Dallas Cowboys, Jerry Brown, Josh Brent, American football, vehicular manslaughter_
 
 ##### Australia
 ### [Bosses at Australian radio station 2Day FM suspend all advertising until Monday after several major advertisers withdrew their business in the wake of the death of Jacintha Saldanha. ](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.md)
-_Context: Australia, 2Day FM, Jacintha Saldanha_
+_Context: Jacintha Saldanha, Australia, 2Day FM_
 
 ##### General election
 ### [The Ghanaian election is extended by one day as glitches in the electoral system cause extended delays in voting in some areas. ](/news/2012/12/8/the-ghanaian-election-is-extended-by-one-day-as-glitches-in-the-electoral-system-cause-extended-delays-in-voting-in-some-areas.md)

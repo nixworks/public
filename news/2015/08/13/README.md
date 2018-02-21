@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/13/index.html)  [JSON](2015/08/13/index.json)  [XML](201
 
 ##### 2015 Baghdad market truck bomb
 ### [A truck bombing in Baghdad, Iraq kills at least 76 people and wounds 212 others. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/08/13/a-truck-bombing-in-baghdad-iraq-kills-at-least-76-people-and-wounds-212-others-islamic-state-of-iraq-and-the-levant-claims-responsibility.md)
-_Context: ISIL, 2015 Baghdad market truck bomb, Iraq War (2014-present), Baghdad, Iraq_
+_Context: Iraq, 2015 Baghdad market truck bomb, Baghdad, Iraq War (2014-present), ISIL_
 
 ##### Solid Energy
 ### [The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. ](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.md)
@@ -13,7 +13,7 @@ The struggling state-owned coal company has been put into temporary voluntary ad
 
 ##### 2015 Chinese stock market crash
 ### [The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devaluings.md)
-_Context: Chinese, 2015 Chinese stock market crash, yuan_
+_Context: yuan, Chinese, 2015 Chinese stock market crash_
 
 ##### The explosions last year
 ### [The death toll rises to 50. ](/news/2015/08/13/the-death-toll-rises-to-50.md)

@@ -9,7 +9,7 @@ U.S. student in Egypt tweeted about throwing rocks at Tahrir Square protests; Eg
 
 ##### Multinational
 ### [Multinational public transport company Arriva wins a major public bus and rail transport contract in Stockholm, Sweden. ](/news/2011/11/22/multinational-public-transport-company-arriva-wins-a-major-public-bus-and-rail-transport-contract-in-stockholm-sweden.md)
-_Context: multinational, public transport, Arriva, Sweden, Stockholm_
+_Context: multinational, Sweden, public transport, Arriva, Stockholm_
 
 ##### Irish
 ### [Darren Scully, the mayor of the Irish town of Naas, resigns after the latest in a series of scandals, having made radio comments about the "aggressive attitude" of "black Africans". A police investigation into his actions is underway. ](/news/2011/11/22/darren-scully-the-mayor-of-the-irish-town-of-naas-resigns-after-the-latest-in-a-series-of-scandals-having-made-radio-comments-about-the.md)

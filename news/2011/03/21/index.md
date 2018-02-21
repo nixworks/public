@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/21/index.html)  [JSON](2011/03/21/index.json)  [XML](201
 
 ##### King of Bahrain
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa claims that the 2011 Bahraini protests were a foreign plot defeated by the intervention of forces from neighbors Saudi Arabia and the UAE of the Cooperation Council for the Arab States of the Gulf's Peninsula Shield Force. ](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.md)
-_Context: Cooperation Council for the Arab States of the Gulf, 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain, Saudi Arabia, UAE, Peninsula Shield Force_
+_Context: Saudi Arabia, Hamad ibn Isa Al Khalifa, King of Bahrain, 2011 Bahraini protests, Cooperation Council for the Arab States of the Gulf, Peninsula Shield Force, UAE_
 
 ##### Tripoli
 ### [The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-international-interventio.md)
@@ -25,11 +25,11 @@ _Context: Laurent Gbagbo, 2010-2011 Ivorian crisis, Cote d'Ivoire_
 
 ##### Israeli Army
 ### [Israel Defense Forces launch air strikes on the Gaza Strip after militants fire mortars and rockets at Israel resulting in 19 Palestineans being injured. ](/news/2011/03/21/israel-defense-forces-launch-air-strikes-on-the-gaza-strip-after-militants-fire-mortars-and-rockets-at-israel-resulting-in-19-palestineans-b.md)
-_Context: air strike, Mortar fire, Palestine, Israel, Israeli Army, Gaza Strip_
+_Context: air strike, Palestine, Gaza Strip, Mortar fire, Israel, Israeli Army_
 
 ##### World Bank
 ### [The World Bank predicts that the 2011 Tohoku earthquake and tsunami will cause a temporary slowdown in the Japanese economy before reconstruction has a positive economic impact. ](/news/2011/03/21/the-world-bank-predicts-that-the-2011-tahoku-earthquake-and-tsunami-will-cause-a-temporary-slowdown-in-the-japanese-economy-before-reconstr.md)
-_Context: 2011 Tohoku earthquake and tsunami, World Bank, Japanese economy_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese economy, World Bank_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court declines to take an appeal from an appellate court ruling that ordered the disclosure of information about the Federal Reserve's emergency lending to banks during the 2008 financial crisis. The Supreme Court's refusal means the ruling of the court below stands. ](/news/2011/03/21/the-u-s-supreme-court-declines-to-take-an-appeal-from-an-appellate-court-ruling-that-ordered-the-disclosure-of-information-about-the-federa.md)
@@ -41,7 +41,7 @@ Microsoft today sued Barnes &amp; Noble and manufacturers Foxconn and Inventec o
 
 ##### Argentina
 ### [Three Argentina airports including Ministro Pistarini International Airport in Buenos Aires ground hundreds of flights due to problems in communications in air traffic control. ](/news/2011/03/21/three-argentina-airports-including-ministro-pistarini-international-airport-in-buenos-aires-ground-hundreds-of-flights-due-to-problems-in-co.md)
-_Context: Buenos Aires, air traffic control, Ministro Pistarini International Airport, Argentina_
+_Context: Argentina, Ministro Pistarini International Airport, air traffic control, Buenos Aires_
 
 ##### Fukushima I Nuclear Power Plant
 ### [Efforts continue to cool the reactors at the Fukushima I Nuclear Power Plant following recent accidents with signs that the treatment efforts are working. ](/news/2011/03/21/efforts-continue-to-cool-the-reactors-at-the-fukushima-i-nuclear-power-plant-following-recent-accidents-with-signs-that-the-treatment-effort.md)
@@ -53,11 +53,11 @@ Japanese police say 15,000 people may have died in one prefecture alone, as effo
 
 ##### 2011 Pointe-Noire Trans Air Congo An-12 crash
 ### [At least twenty-three people die after a cargo plane crashes into Pointe-Noire in the Republic of Congo. ](/news/2011/03/21/at-least-twenty-three-people-die-after-a-cargo-plane-crashes-into-pointe-noire-in-the-republic-of-congo.md)
-_Context: Republic of Congo, Pointe-Noire, 2011 Pointe-Noire Trans Air Congo An-12 crash, cargo plane_
+_Context: Pointe-Noire, cargo plane, Republic of Congo, 2011 Pointe-Noire Trans Air Congo An-12 crash_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev criticises Vladimir Putin's stance on United Nations Security Council Resolution 1973 concerning the situation in Libya as "unacceptable". Putin had said the resolution resembled a "medieval call for crusades". ](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.md)
-_Context: Dmitry Medvedev, UN Security Council Resolution 1973, Libya, Vladimir Putin, Russia_
+_Context: Russia, Vladimir Putin, Libya, Dmitry Medvedev, UN Security Council Resolution 1973_
 
 ##### United States
 ### [The United States and Chile sign a nuclear accord. ](/news/2011/03/21/the-united-states-and-chile-sign-a-nuclear-accord.md)
@@ -75,7 +75,7 @@ The Commons votes overwhelmingly to support UN-backed action in Libya, after Dav
 ### [Barrister Malcolm McCusker will become the new Governor of Western Australia on July 1, 2011. ](/news/2011/03/21/barrister-malcolm-mccusker-will-become-the-new-governor-of-western-australia-on-july-1-2011.md)
 NEWLY appointed West Australian Governor Malcolm McCusker AO QC says he plans to donate his $422,678 salary to charities.
 
-##### Canadian
+##### Canada
 ### [A Canadian House of Commons committee tables a report recommending that the Conservative government of Stephen Harper be found in contempt of parliament. ](/news/2011/03/21/a-canadian-house-of-commons-committee-tables-a-report-recommending-that-the-conservative-government-of-stephen-harper-be-found-in-contempt-o.md)
 The government should be found in contempt of Parliament, a committee of MPs decided Monday over the objections of Conservative MPs.
 
@@ -85,7 +85,7 @@ Guatemalan President Alvaro Colom and his wife Sandra Torres file for divorce so
 
 ##### Surgeon
 ### [Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. ](/news/2011/03/21/surgeons-at-the-brigham-and-women-s-hospital-in-boston-massachusetts-perform-the-first-full-face-transplant-in-the-united-states.md)
-_Context: Brigham and Women's Hospital, Surgeon, Boston, face transplant, United States_
+_Context: United States, Surgeon, Boston, Brigham and Women's Hospital, face transplant_
 
 ## [Previous Day...](/news/2011/03/20/index.md)
 

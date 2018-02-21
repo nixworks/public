@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/13/index.html)  [JSON](2012/04/13/index.json)  [XML](201
 
 ##### Skopje
 ### [Five people are killed near Skopje, the capital of the Republic of Macedonia, amid simmering ethnic tensions in the country. ](/news/2012/04/13/five-people-are-killed-near-skopje-the-capital-of-the-republic-of-macedonia-amid-simmering-ethnic-tensions-in-the-country.md)
-_Context: Skopje, ethnic tensions in the country, Republic of Macedonia_
+_Context: Republic of Macedonia, Skopje, ethnic tensions in the country_
 
 ##### United Nations
 ### [A draft United Nations Security Council resolution outlines plans to send observers to Syria to monitor compliance with a new peace plan, as several people are reportedly shot dead after Friday prayers. ](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.md)
@@ -25,7 +25,7 @@ The Spanish government warned on Friday that it would take unspecified retaliato
 
 ##### North Korea
 ### [North Korea's efforts to launch a long range rocket ends in apparent failure with the rocket breaking up soon after launch. ](/news/2012/04/13/north-korea-s-efforts-to-launch-a-long-range-rocket-ends-in-apparent-failure-with-the-rocket-breaking-up-soon-after-launch.md)
-_Context: failed North Korean rocket launch, North Korea_
+_Context: North Korea, failed North Korean rocket launch_
 
 ##### Chinese
 ### [A standoff between Chinese and Filipino ships at the Scarborough Shoal in the South China Sea continues. ](/news/2012/04/13/a-standoff-between-chinese-and-filipino-ships-at-the-scarborough-shoal-in-the-south-china-sea-continues.md)
@@ -41,11 +41,11 @@ _Context: Mongolia, Nambaryn Enkhbayar_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md)
-_Context: Japan, Fukushima Daiichi Nuclear Power Plant, 2011 Tohoku earthquake and tsunami, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, Japan, Fukushima Daiichi Nuclear Power Plant, 2011 Tohoku earthquake and tsunami_
 
 ##### Bob Brown
 ### [Bob Brown resigns as Parliamentary Leader of the Australian Greens and from the Senate. ](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.md)
-_Context: Senate of Australia, Bob Brown, Australian Greens_
+_Context: Australian Greens, Bob Brown, Senate of Australia_
 
 ## [Previous Day...](/news/2012/04/12/index.md)
 

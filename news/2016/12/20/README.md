@@ -9,7 +9,7 @@ Turkish police detain six people over the killing of the Russian ambassador, who
 
 ##### Aleppo offensive (November-December 2016)
 ### [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md)
-_Context: International Committee of the Red Cross, Aleppo offensive (November-December 2016), Hezbollah, Aleppo_
+_Context: Aleppo, Hezbollah, International Committee of the Red Cross, Aleppo offensive (November-December 2016)_
 
 ##### Last week's attack on a Christmas market in Berlin
 ### [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md)
@@ -25,7 +25,7 @@ One suspect among five dead after raid on apartment in Jordanian province which 
 
 ##### December 2016 Congolese protests
 ### [Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-joseph-kabila-reportedly-leave-more-th.md)
-_Context: President, Kabila government, DR Congo, December 2016 Congolese protests_
+_Context: December 2016 Congolese protests, President, Kabila government, DR Congo_
 
 ##### Tupac Shakur
 ### [Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. ](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.md)
@@ -45,7 +45,7 @@ A cargo plane crashes shortly after take-off from the southern Colombian city of
 
 ##### China-United States relations
 ### [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md)
-_Context: United States, South China Sea, China, China-United States relations_
+_Context: South China Sea, United States, China, China-United States relations_
 
 ##### Indonesia
 ### [Indonesia arrests hundreds of protesters in Indonesian Papua. ](/news/2016/12/20/indonesia-arrests-hundreds-of-protesters-in-indonesian-papua.md)

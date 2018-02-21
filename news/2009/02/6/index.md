@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/6/index.html)  [JSON](2009/02/6/index.json)  [XML](2009/
 
 ##### Sweden
 ### [ Sweden ends its moratorium on the construction of nuclear power plants. ](/news/2009/02/6/sweden-ends-its-moratorium-on-the-construction-of-nuclear-power-plants.md)
-_Context: nuclear power, Sweden, moratorium_
+_Context: Sweden, moratorium, nuclear power_
 
 ##### United States
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
@@ -21,23 +21,23 @@ About 84 children have died over the past three months after taking a teething d
 
 ##### Pakistan
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. ](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.md)
-_Context: nuclear scientist, Abdul Qadeer Khan, Pakistan, house arrest, Islamabad_
+_Context: Pakistan, nuclear scientist, house arrest, Islamabad, Abdul Qadeer Khan_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md)
-_Context: Ban Ki-moon, Nouri al-Maliki, Iraq Prime Minister, United Nations, Iraq, United Nations Secretary-General_
+_Context: United Nations Secretary-General, Ban Ki-moon, Iraq, United Nations, Nouri al-Maliki, Iraq Prime Minister_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)
-_Context: Sri Lankan Civil War, Sri Lanka, government, LTTE_
+_Context: Sri Lankan Civil War, LTTE, government, Sri Lanka_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: Afghan, nonlethal equipment, Russian government, United States, Russia, United States military personnel_
+_Context: nonlethal equipment, Russian government, United States military personnel, Russia, Afghan, United States_
 
 ##### Somalia
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: MV, Egypt, Somali pirates, Somalia, ransom_
+_Context: MV, Somali pirates, ransom, Somalia, Egypt_
 
 ##### USS
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
@@ -45,11 +45,11 @@ Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off 
 
 ##### Chief Minister
 ### [ Chief Minister of Perak, Malaysia, Mohammad Nizar Jamaluddin is forcibly removed from office and threatens legal action. ](/news/2009/02/6/chief-minister-of-perak-malaysia-mohammad-nizar-jamaluddin-is-forcibly-removed-from-office-and-threatens-legal-action.md)
-_Context: Chief Minister, Perak, Mohammad Nizar Jamaluddin, Malaysia_
+_Context: Mohammad Nizar Jamaluddin, Perak, Chief Minister, Malaysia_
 
 ##### Desmond Tutu
 ### [ Archbishop Desmond Tutu will help establish a Truth and Reconciliation Commission in the Solomon Islands. ](/news/2009/02/6/archbishop-desmond-tutu-will-help-establish-a-truth-and-reconciliation-commission-in-the-solomon-islands.md)
-_Context: Truth and Reconciliation Commission, Solomon Islands, Desmond Tutu_
+_Context: Desmond Tutu, Solomon Islands, Truth and Reconciliation Commission_
 
 ## [Previous Day...](/news/2009/02/5/index.md)
 

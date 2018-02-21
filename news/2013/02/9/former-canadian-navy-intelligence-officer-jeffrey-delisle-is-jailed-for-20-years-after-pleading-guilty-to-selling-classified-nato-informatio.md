@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/9/former-canadian-navy-intelligence-officer-jeffre
 
 ### [2013-02-9](/news/2013/02/9/index.md)
 
-##### Canadian
+##### Canada
 # Former Canadian navy intelligence officer Jeffrey Delisle is jailed for 20 years after pleading guilty to selling classified NATO information to Russia. 
 
 A Canadian navy intelligence officer is sentenced to 20 years in prison after pleading guilty to selling classified Nato information to Russia.

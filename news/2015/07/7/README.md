@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/7/index.html)  [JSON](2015/07/7/index.json)  [XML](2015/
 
 ##### Boko Haram insurgency
 ### [ A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nigeria-s-zaria.md)
-_Context: Timeline of Boko Haram insurgency, Boko Haram insurgency, Zaria_
+_Context: Timeline of Boko Haram insurgency, Zaria, Boko Haram insurgency_
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [ Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md)
@@ -13,7 +13,7 @@ Saudi-led coalition air strikes and clashes killed at least 176 fighters and civ
 
 ##### Terrorism in Kenya
 ### [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md)
-_Context: Terrorism in Kenya, Kenya, Al-Shabaab, War in Somalia (2009-present)_
+_Context: War in Somalia (2009-present), Kenya, Terrorism in Kenya, Al-Shabaab_
 
 ##### War in Afghanistan (2015-present)
 ### [ A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities-have-been-reported.md)
@@ -33,7 +33,7 @@ Malaysian authorities said Tuesday they have ordered six bank accounts to be fro
 
 ##### FBI
 ### [The FBI, U.S. Postal Service, and Indiana State Police seize electronics and other items from the Zionsville, Indiana home of Subway commercial spokesman Jared Fogle. The seizure comes two months after the former head of Fogle's foundation was arrested on child pornography charges. ](/news/2015/07/7/the-fbi-u-s-postal-service-and-indiana-state-police-seize-electronics-and-other-items-from-the-zionsville-indiana-home-of-subway-commerc.md)
-_Context: Indiana State Police, Zionsville, Indiana, restaurant, FBI, child pornography, U.S. Postal Service, Jared Fogle_
+_Context: Indiana State Police, Zionsville, Indiana, child pornography, FBI, Jared Fogle, U.S. Postal Service, restaurant_
 
 ## [Previous Day...](/news/2015/07/6/index.md)
 

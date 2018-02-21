@@ -13,7 +13,7 @@ Twelve-year-old riding in car driving through Tapuach Junction suffers mild inju
 
 ##### Mexican Army
 ### [The Mexican Army claims to have killed 25 drug cartel gunmen in a clash in Tamaulipas state near the United States border. ](/news/2010/09/2/the-mexican-army-claims-to-have-killed-25-drug-cartel-gunmen-in-a-clash-in-tamaulipas-state-near-the-united-states-border.md)
-_Context: Tamaulipas, United States, Mexican Army, drug cartel_
+_Context: drug cartel, Tamaulipas, United States, Mexican Army_
 
 ##### Permanent Representative of Pakistan to the United Nations
 ### [Permanent Representative of Pakistan to the United Nations Hussain Haroon calls for an inquiry after allegations emerge of Pakistani floodwaters being diverted into vulnerable villages in a bid to preserve crops. ](/news/2010/09/2/permanent-representative-of-pakistan-to-the-united-nations-hussain-haroon-calls-for-an-inquiry-after-allegations-emerge-of-pakistani-floodwa.md)
@@ -29,7 +29,7 @@ Hurricane Earl bore down on North Carolina with winds of 140 miles (225 kilomete
 
 ##### Oil rig explodes
 ### [An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. ](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.md)
-_Context: Gulf of Mexico, Deepwater Horizon, oil rig explodes_
+_Context: Gulf of Mexico, oil rig explodes, Deepwater Horizon_
 
 ##### Lebanese
 ### [Lebanon requests an Interpol arrest warrant for Ghassan al-Jidd, a former General in the Lebanese Army who allegedly spied for the Mossad. ](/news/2010/09/2/lebanon-requests-an-interpol-arrest-warrant-for-ghassan-al-jidd-a-former-general-in-the-lebanese-army-who-allegedly-spied-for-the-mossad.md)
@@ -53,7 +53,7 @@ At least 2,000 police officers were subject to three or more complaints by membe
 
 ##### Australian House of Representatives
 ### [Independent Member of the Australian House of Representatives Andrew Wilkie announces that he will support the Gillard Labor Government on supply and confidence. ](/news/2010/09/2/independent-member-of-the-australian-house-of-representatives-andrew-wilkie-announces-that-he-will-support-the-gillard-labor-government-on-s.md)
-_Context: Andrew Wilkie, Australian Labor Party, Julia Gillard, Australian House of Representatives_
+_Context: Australian House of Representatives, Andrew Wilkie, Julia Gillard, Australian Labor Party_
 
 ##### BP
 ### [BP warns the United States Congress that it might not be able to pay compensation for the Deepwater Horizon oil spill if it is barred from getting new offshore drilling permits. ](/news/2010/09/2/bp-warns-the-united-states-congress-that-it-might-not-be-able-to-pay-compensation-for-the-deepwater-horizon-oil-spill-if-it-is-barred-from-g.md)
@@ -61,7 +61,7 @@ The company says proposed legislation could disrupt its efforts to set aside $20
 
 ##### Sebastian Vladescu
 ### [Sebastian Vladescu is replaced as Romanian Minister of Finance by Gheorghe Ialomitianu as part of a Cabinet reshuffle. ](/news/2010/09/2/sebastian-vladescu-is-replaced-as-romanian-minister-of-finance-by-gheorghe-ialomitianu-as-part-of-a-cabinet-reshuffle.md)
-_Context: Romania, Sebastian Vladescu, Gheorghe Ialomitianu, Minister of Finance_
+_Context: Minister of Finance, Romania, Gheorghe Ialomitianu, Sebastian Vladescu_
 
 ## [Previous Day...](/news/2010/09/1/index.md)
 

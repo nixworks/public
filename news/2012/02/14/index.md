@@ -33,7 +33,7 @@ The first bronze statue of the late North Korean leader Kim Jong Il was unveiled
 
 ##### Wellesley College
 ### [Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. ](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.md)
-_Context: Robert Browning, Elizabeth Barrett, Baylor University, English, Wellesley College, love letter_
+_Context: Baylor University, Robert Browning, Wellesley College, love letter, English, Elizabeth Barrett_
 
 ##### China
 ### [China issues new regulations on foreign television programmes being aired in the country - banning all imported programmes during prime time. ](/news/2012/02/14/china-issues-new-regulations-on-foreign-television-programmes-being-aired-in-the-country-banning-all-imported-programmes-during-prime-time.md)
@@ -41,7 +41,7 @@ A new set of regulations seek to restrict comedies, dramas and movies from abroa
 
 ##### U.S.
 ### [Authorities in the U.S. say that the recent mortgage settlement with the country's largest banks will provide $1 billion to the Federal Housing Administration, replenishing the FHA's badly depleted capital reserves. ](/news/2012/02/14/authorities-in-the-u-s-say-that-the-recent-mortgage-settlement-with-the-country-s-largest-banks-will-provide-1-billion-to-the-federal-hous.md)
-_Context: Federal Housing Administration, mortgage settlement, U.S._
+_Context: Federal Housing Administration, U.S., mortgage settlement_
 
 ##### Jean-Claude Juncker
 ### [Jean-Claude Juncker, the head of the Euro Group, cancels a meeting on Wednesday to discuss the Greek bailout stating that they are still seeking information from the Greek government. ](/news/2012/02/14/jean-claude-juncker-the-head-of-the-euro-group-cancels-a-meeting-on-wednesday-to-discuss-the-greek-bailout-stating-that-they-are-still-see.md)
@@ -57,23 +57,23 @@ _Context: Gaza Strip_
 
 ##### Sean Penn
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
-_Context: Sean Penn, Malvinas Islands, Cristina Fernandez de Kirchner_
+_Context: Cristina Fernandez de Kirchner, Sean Penn, Malvinas Islands_
 
 ##### Vice-President of the People's Republic of China
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: United States, Barack Obama, U.S. President, Xi Jinping, Vice-President of the People's Republic of China_
+_Context: Vice-President of the People's Republic of China, Barack Obama, U.S. President, United States, Xi Jinping_
 
 ##### United States
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: United States, Pakistan, Peshawar, Islamabad_
+_Context: Pakistan, United States, Islamabad, Peshawar_
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
-_Context: Supreme Court, Venezuela, opposition_
+_Context: opposition, Venezuela, Supreme Court_
 
 ##### World Bank
 ### [The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. ](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.md)
-_Context: Robert Zoellick, World Bank_
+_Context: World Bank, Robert Zoellick_
 
 ##### Uganda
 ### [The Ugandan minister Minister for Ethics and Integrity Simon Lokodo raids a workshop for gay activists and attempts to arrest the organiser. ](/news/2012/02/14/the-ugandan-minister-minister-for-ethics-and-integrity-simon-lokodo-raids-a-workshop-for-gay-activists-and-attempts-to-arrest-the-organiser.md)

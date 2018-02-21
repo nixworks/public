@@ -15,8 +15,8 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 ### [Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. ](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the-missing-aseman-airliner-30-meters-below-a-hilltop-on-mount-dena-helicopters-could-not-land.md)
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
-##### Mount Sinabung
-### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, as well as ash reaching 7 kilometres in the air. Ash has covered much of the ground surrounding the area. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-as-well-as-ash-reaching-7-kilometres-in-the-air.md)
+##### Indonesia
+### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7&nbsp;km (4&nbsp;mi) high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-nbsp-km-4-nbsp-mi-hi.md)
 Side-by-side images show what the top of the volcano looks like.
 
 ##### Corruption in Latvia
@@ -28,7 +28,7 @@ Latvia will seek to prevent European Central Bank Governing Council member Ilmar
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
 ##### Russian interference in the 2016 United States elections
-### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of former Trump campaign manager Paul Manafort. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
+### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of Paul Manafort. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
 ## [Previous Day...](/news/2018/02/19/index.md)

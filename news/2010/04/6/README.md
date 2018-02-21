@@ -17,7 +17,7 @@ String of attacks on residential buildings across Iraqi capital leaves dozens de
 
 ##### Second Kyrgyz Revolution
 ### [Kyrgyz Revolution of 2010: Hundreds of protesters seize a government office in Bishkek to request the resignition of Kurmanbek Bakiyev after battling flashbangs and lachrymators. A local governor is taken hostage by protesters. Hundreds surround police HQ. Almazbek Atambayev is seized by police. There are riots in Talas. ](/news/2010/04/6/kyrgyz-revolution-of-2010-hundreds-of-protesters-seize-a-government-office-in-bishkek-to-request-the-resignition-of-kurmanbek-bakiyev-after.md)
-_Context: Almazbek Atambayev, Kurmanbek Bakiyev, flashbang, Bishkek, Talas, Second Kyrgyz Revolution, lachrymator_
+_Context: flashbang, Kurmanbek Bakiyev, lachrymator, Almazbek Atambayev, Second Kyrgyz Revolution, Talas, Bishkek_
 
 ##### South Korea
 ### [Piracy in Somalia: A South Korean warship catches up with an oil tanker that was hijacked by Somali pirates in the Indian Ocean. ](/news/2010/04/6/piracy-in-somalia-a-south-korean-warship-catches-up-with-an-oil-tanker-that-was-hijacked-by-somali-pirates-in-the-indian-ocean.md)
@@ -25,11 +25,11 @@ A South Korean destroyer caught up with a supertanker hijacked by Somali pirates
 
 ##### L'Aquila
 ### [Vigils and a musical requiem are among a series of events held in L'Aquila to mark the first anniversary of one of Europe's largest post-war natural disasters. ](/news/2010/04/6/vigils-and-a-musical-requiem-are-among-a-series-of-events-held-in-l-aquila-to-mark-the-first-anniversary-of-one-of-europe-s-largest-post-war.md)
-_Context: 2009 L'Aquila earthquake, L'Aquila_
+_Context: L'Aquila, 2009 L'Aquila earthquake_
 
 ##### AOL
 ### [AOL announces it is to sell or shut down Bebo two years after purchasing it. ](/news/2010/04/6/aol-announces-it-is-to-sell-or-shut-down-bebo-two-years-after-purchasing-it.md)
-_Context: Bebo, AOL_
+_Context: AOL, Bebo_
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [United States Court of Appeals for the District of Columbia Circuit rules that the FCC cannot enforce net neutrality and that Comcast can limit its customers' access to BitTorrent. ](/news/2010/04/6/united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-cannot-enforce-net-neutrality-and-that-comcast-can-li.md)
@@ -37,11 +37,11 @@ A ruling would let providers slow down access to certain content and favor their
 
 ##### North Korea
 ### [Details of North Korea's own Red Star operating system emerge. ](/news/2010/04/6/details-of-north-korea-s-own-red-star-operating-system-emerge.md)
-_Context: North Korea, Red Star operating system_
+_Context: Red Star operating system, North Korea_
 
 ##### Prime Minister
 ### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
-_Context: Prime Minister, Armenia, Turkey, Recep Tayyip Erdogan_
+_Context: Turkey, Prime Minister, Armenia, Recep Tayyip Erdogan_
 
 ##### China
 ### [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md)
@@ -57,11 +57,11 @@ _Context: Egypt, Cairo_
 
 ##### South Africa
 ### [South African police build a barricade from razor wire to curtail people scuffles outside Ventersdorp Magistrate's court where two farm workers, aged 15 and 28, are charged with Saturday's murder of white supremacist leader Eugene Terre'Blanche. ](/news/2010/04/6/south-african-police-build-a-barricade-from-razor-wire-to-curtail-people-scuffles-outside-ventersdorp-magistrate-s-court-where-two-farm-work.md)
-_Context: Eugene Terre'Blanche, Ventersdorp, South Africa_
+_Context: South Africa, Ventersdorp, Eugene Terre'Blanche_
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
-_Context: President, Yemen, Ali Abdullah Saleh_
+_Context: Ali Abdullah Saleh, President, Yemen_
 
 ##### Sri Lanka
 ### [Campaigning ahead of Sri Lanka's parliamentary election comes to an end. ](/news/2010/04/6/campaigning-ahead-of-sri-lanka-s-parliamentary-election-comes-to-an-end.md)
@@ -77,7 +77,7 @@ The Bloody Sunday report into the death of 14 people at the hands of the British
 
 ##### Nigeria
 ### [Nigeria's acting President Goodluck Jonathan inaugurates a new Cabinet. ](/news/2010/04/6/nigeria-s-acting-president-goodluck-jonathan-inaugurates-a-new-cabinet.md)
-_Context: Nigeria, Goodluck Jonathan_
+_Context: Goodluck Jonathan, Nigeria_
 
 ##### Oxygen
 ### [Announcement of first animals that spent their entire lives without oxygen were discovered in depths of Mediterranean Sea. They belong to three new species from phylum Loricifera. ](/news/2010/04/6/announcement-of-first-animals-that-spent-their-entire-lives-without-oxygen-were-discovered-in-depths-of-mediterranean-sea-they-belong-to-th.md)

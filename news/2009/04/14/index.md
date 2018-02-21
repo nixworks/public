@@ -5,15 +5,15 @@ Formats: [HTML](2009/04/14/index.html)  [JSON](2009/04/14/index.json)  [XML](200
 
 ##### North Korea
 ### [ North Korea will depart the six-party talks and resume its nuclear program. ](/news/2009/04/14/north-korea-will-depart-the-six-party-talks-and-resume-its-nuclear-program.md)
-_Context: nuclear program, North Korea, six-party talks_
+_Context: North Korea, nuclear program, six-party talks_
 
 ##### France
 ### [ French fishing vessels institute blockades at Boulogne-sur-Mer and Dunkirk to protest the Common Fisheries Policy. ](/news/2009/04/14/french-fishing-vessels-institute-blockades-at-boulogne-sur-mer-and-dunkirk-to-protest-the-common-fisheries-policy.md)
-_Context: Common Fisheries Policy, Dunkirk, blockade, France, Boulogne-sur-Mer, fishing vessel_
+_Context: Boulogne-sur-Mer, Dunkirk, Common Fisheries Policy, blockade, France, fishing vessel_
 
 ##### Somalia
 ### [ Somali pirates hijack the merchant vessels "Irene" of Greece and "Sea Horse" of Lebanon. ](/news/2009/04/14/somali-pirates-hijack-the-merchant-vessels-irene-of-greece-and-sea-horse-of-lebanon.md)
-_Context: Lebanese, Somalia, Somali pirates, ''Sea Horse'', Greece, merchant vessel, ''Irene''_
+_Context: ''Sea Horse'', Somalia, ''Irene'', Greece, Somali pirates, Lebanese, merchant vessel_
 
 ##### Dubai
 ### [ The Camel Reproduction Center in Dubai, United Arab Emirates, announces the birth of Injaz, the first cloned camel. ](/news/2009/04/14/the-camel-reproduction-center-in-dubai-united-arab-emirates-announces-the-birth-of-injaz-the-first-cloned-camel.md)

@@ -13,7 +13,7 @@ Martin Couture Rouleau shot dead by Quebec police after driving his car into two
 
 ##### ISIL
 ### [The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northern-syria.md)
-_Context: Syrian Air Force, ISIL, Syria_
+_Context: Syria, ISIL, Syrian Air Force_
 
 ##### Ebola virus disease in the United States
 ### [The United States Centers for Disease Control and Prevention announces that there will be a 21-day monitoring period for all travelers from Liberia, Sierra Leone and Guinea. ](/news/2014/10/22/the-united-states-centers-for-disease-control-and-prevention-announces-that-there-will-be-a-21-day-monitoring-period-for-all-travelers-from.md)
@@ -25,7 +25,7 @@ The U.S. contractors killed 14 unarmed Iraqis in Baghdad in 2007, one of the mos
 
 ##### Washington, D. C.
 ### [In Washington, D. C., Secret Service agents apprehend a White House north fence jumper. ](/news/2014/10/22/in-washington-d-c-secret-service-agents-apprehend-a-white-house-north-fence-jumper.md)
-_Context: Washington, D. C., White House, United States Secret Service_
+_Context: White House, Washington, D. C., United States Secret Service_
 
 ## [Previous Day...](/news/2014/10/21/index.md)
 

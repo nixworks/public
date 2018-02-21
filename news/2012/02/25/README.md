@@ -9,7 +9,7 @@ Two Nato officers are shot dead inside the interior ministry in Kabul, prompting
 
 ##### Homs
 ### [Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md)
-_Context: Homs, Hama_
+_Context: Hama, Homs_
 
 ##### Al Qaeda
 ### [An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md)
@@ -25,7 +25,7 @@ Coins worth nearly half a billion dollars finally arrived in Spain on Saturday a
 
 ##### The Artist
 ### ["The Artist" wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. ](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.md)
-_Context: The Artist, Independent Spirit Awards 2011, Santa Monica, California_
+_Context: Independent Spirit Awards 2011, The Artist, Santa Monica, California_
 
 ##### G-20
 ### [A G-20 finance ministers meeting is held in Mexico City to discuss progress in the Eurozone bailout. ](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.md)
@@ -57,7 +57,7 @@ Voter suppression tactics, including a pattern of harassing phone calls, were a 
 
 ##### World Health Organisation
 ### [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md)
-_Context: polio, World Health Organisation, Pakistan, Nigeria, endemic, Afghan, India_
+_Context: World Health Organisation, Afghan, polio, India, Nigeria, Pakistan, endemic_
 
 ## [Previous Day...](/news/2012/02/24/index.md)
 

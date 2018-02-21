@@ -17,7 +17,7 @@ Bolivian President Evo Morales abandons a public event in the face of a food pro
 
 ##### Israel
 ### [Israeli forces fire gas agents and rubber-coated bullets against Palestinian protesters in Silwan, injuring dozens.](/news/2011/02/11/israeli-forces-fire-gas-agents-and-rubber-coated-bullets-against-palestinian-protesters-in-silwan-injuring-dozens.md)
-_Context: Silwan, Israel, Palestinian_
+_Context: Israel, Palestinian, Silwan_
 
 ##### Department of Agriculture
 ### [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questio.md)
@@ -25,7 +25,7 @@ The Agriculture Department said on Friday it has deregulated a variety of corn g
 
 ##### Copenhagen
 ### [A road in Copenhagen, Denmark has been proposed a new name after former US president Ronald Reagan. ](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.md)
-_Context: Denmark, Copenhagen, Ronald Reagan_
+_Context: Ronald Reagan, Denmark, Copenhagen_
 
 ##### Yesterday's plane crash
 ### [The first investigation into yesterday's plane crash at Cork Airport is expected within a month; the airport remains closed today. ](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.md)
@@ -37,7 +37,7 @@ Pakistani police says a US citizen in custody over the deaths of two men in Laho
 
 ##### Yang
 ### [China's foreign minister Yang Jiechi visits Zimbabwe as the countries agree a $10 billion trade deal. ](/news/2011/02/11/china-s-foreign-minister-yang-jiechi-visits-zimbabwe-as-the-countries-agree-a-10-billion-trade-deal.md)
-_Context: Zimbabwe, Yang_
+_Context: Yang, Zimbabwe_
 
 ##### North Korea
 ### [North Korea asks its embassies worldwide to appeal for aid to feed its population. ](/news/2011/02/11/north-korea-asks-its-embassies-worldwide-to-appeal-for-aid-to-feed-its-population.md)
@@ -45,11 +45,11 @@ In a dramatic and poignant sign of a state nearing collapse, North Korea has ask
 
 ##### McAfee
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: Greece, Kazakhstan, oil companies, China, attack, Taiwan, United States, McAfee, hackers_
+_Context: China, Taiwan, McAfee, Kazakhstan, attack, oil companies, hackers, United States, Greece_
 
 ##### President of Liberia
 ### [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md)
-_Context: President of Liberia, Charles Taylor, The Hague_
+_Context: The Hague, Charles Taylor, President of Liberia_
 
 ##### Somali pirates
 ### [Seven Somali pirates are charged with firearms offences in a Malaysian court, in a move that could see them hanged. ](/news/2011/02/11/seven-somali-pirates-are-charged-with-firearms-offences-in-a-malaysian-court-in-a-move-that-could-see-them-hanged.md)

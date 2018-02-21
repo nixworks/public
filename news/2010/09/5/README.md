@@ -9,7 +9,7 @@ Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attac
 
 ##### Suicide bomber
 ### [At least five people are killed and 35 injured as a suicide bomber attacks a Russian Army firing range at Buynaksk, Dagestan. ](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.md)
-_Context: Buynaksk, Dagestan, Russian Army, firing range, suicide bomber_
+_Context: suicide bomber, Dagestan, Buynaksk, firing range, Russian Army_
 
 ##### Darfur
 ### [More than 40 people are killed and dozens of others are injured in a clash in Darfur. ](/news/2010/09/5/more-than-40-people-are-killed-and-dozens-of-others-are-injured-in-a-clash-in-darfur.md)
@@ -29,9 +29,9 @@ _Context: Worldcon, Hugo Awards, Melbourne_
 
 ##### Peter Gumbel
 ### [British academic Peter Gumbel causes controversy in France by alleging in his book that their education system lowers the self-esteem of pupils. ](/news/2010/09/5/british-academic-peter-gumbel-causes-controversy-in-france-by-alleging-in-his-book-that-their-education-system-lowers-the-self-esteem-of-pup.md)
-_Context: Peter Gumbel, France, their education system_
+_Context: France, their education system, Peter Gumbel_
 
-##### State of emergency
+##### States of emergency
 ### [A state of emergency is declared in Guatemala after heavy rains and landslides kill at least 18 people. ](/news/2010/09/5/a-state-of-emergency-is-declared-in-guatemala-after-heavy-rains-and-landslides-kill-at-least-18-people.md)
 A state of emergency is declared in Guatemala where heavy rain has caused widespread flooding and landslides, killing at least 20 people.
 
@@ -49,11 +49,11 @@ Police in El Salvador find a barrel containing more than $9m of suspected drug m
 
 ##### Moldova
 ### [Voters in Moldova go to the polls in a referendum on whether the country's President should be directly elected. ](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.md)
-_Context: Moldovan President, referendum, Moldova_
+_Context: Moldovan President, Moldova, referendum_
 
 ##### United Kingdom
 ### [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md)
-_Context: United Kingdom, Labour Party, Norwich, England_
+_Context: England, Norwich, United Kingdom, Labour Party_
 
 ##### Danes
 ### [A group of Danish rocketeers postpone launch when a valve on their rocket jammed. ](/news/2010/09/5/a-group-of-danish-rocketeers-postpone-launch-when-a-valve-on-their-rocket-jammed.md)

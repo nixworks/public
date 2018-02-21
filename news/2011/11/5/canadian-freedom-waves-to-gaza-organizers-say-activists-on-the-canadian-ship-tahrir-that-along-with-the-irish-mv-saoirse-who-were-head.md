@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-ac
 
 ### [2011-11-5](/news/2011/11/5/index.md)
 
-##### Canadian
+##### Canada
 # Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship "Tahrir" that, along with the Irish MV "Saoirse", who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.
 
 Israel has said no one was injured in its takeover of the Canadian ship Tahrir

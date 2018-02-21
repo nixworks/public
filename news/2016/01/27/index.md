@@ -13,7 +13,7 @@ Royal Dutch Shell (RDSa.L) shareholders approved its $50 billion takeover of BG 
 
 ##### January 2016 United States blizzard
 ### [The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md)
-_Context: January 2016 United States blizzard, Eastern U.S._
+_Context: Eastern U.S., January 2016 United States blizzard_
 
 ##### Zika virus outbreak
 ### [Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md)
@@ -25,7 +25,7 @@ U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agreed o
 
 ##### Human rights in Iran
 ### [Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. ](/news/2016/01/27/amnesty-international-reports-that-at-least-160-young-iranians-are-currently-awaiting-execution-and-73-others-have-been-put-to-death-between.md)
-_Context: Amnesty International, Human rights in Iran, Iran_
+_Context: Amnesty International, Iran, Human rights in Iran_
 
 ##### Hilda Heine
 ### [Hilda Heine is elected President of the Marshall Islands by Parliament, becoming the country's first female president, as well as the first woman to serve as president of any Micronesian country. She succeeds outgoing President Casten Nemra, who lost a vote of no confidence on January 26. ](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshall-islands-by-parliament-becoming-the-country-s-first-female-president-as-well-as-the-first.md)
@@ -33,7 +33,7 @@ The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new
 
 ##### November 2015 Paris attacks
 ### [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-ministe.md)
-_Context: November 2015 Paris attacks, Christiane Taubira, Francois Hollande, Minister of Justice, France, French President_
+_Context: Christiane Taubira, French President, November 2015 Paris attacks, Minister of Justice, France, Francois Hollande_
 
 ##### Vietnam
 ### [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen TCNYn Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n-x.md)
@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Artificial intelligence
 ### [ A computer program called AlphaGo, powered by DeepMind, beats the European Go champion Fan Hui, 5-0. This is the first time artificial intelligence has defeated a professional player in this ancient Chinese abstract strategy board game. ](/news/2016/01/27/a-computer-program-called-alphago-powered-by-deepmind-beats-the-european-go-champion-fan-hui-5-0-this-is-the-first-time-artificial-inte.md)
-_Context: AlphaGo, Go, abstract strategy, computer program, Artificial intelligence, DeepMind, artificial intelligence, ancient Chinese, board game_
+_Context: board game, DeepMind, ancient Chinese, AlphaGo, Go, Artificial intelligence, artificial intelligence, abstract strategy, computer program_
 
 ## [Previous Day...](/news/2016/01/26/index.md)
 

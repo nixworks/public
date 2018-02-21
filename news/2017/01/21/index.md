@@ -9,11 +9,11 @@ The blast happened at the time when dozens of people were busy shopping in the v
 
 ##### Syrian Civil War
 ### [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md)
-_Context: Syrian Civil War, Jordan_
+_Context: Jordan, Syrian Civil War_
 
 ##### Saudi Arabia
 ### [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md)
-_Context: Saudi Arabia, Jeddah_
+_Context: Jeddah, Saudi Arabia_
 
 ##### Rafah
 ### [Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. ](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-shell-lands-on-the-home-in-which-they-were-staying.md)

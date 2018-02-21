@@ -13,15 +13,15 @@ A possible inquiry into the handling of a 2007 French court case by Christine La
 
 ##### Hurricane Jova
 ### [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md)
-_Context: Hurricane Jova, South Pacific Ocean, Mexico_
+_Context: South Pacific Ocean, Mexico, Hurricane Jova_
 
 ##### Hewa Bora
 ### [A Hewa Bora Boeing 727 airliner crashes in the Democratic Republic of the Congo killing 74 people. ](/news/2011/07/8/a-hewa-bora-boeing-727-airliner-crashes-in-the-democratic-republic-of-the-congo-killing-74-people.md)
-_Context: Boeing 727, DR Congo, Hewa Bora, crashes_
+_Context: crashes, Boeing 727, DR Congo, Hewa Bora_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council discusses sending a peacekeeping force to the Republic of South Sudan when it becomes an independent nation tomorrow. ](/news/2011/07/8/the-united-nations-security-council-discusses-sending-a-peacekeeping-force-to-the-republic-of-south-sudan-when-it-becomes-an-independent-nat.md)
-_Context: South Sudan, peacekeeping, United Nations Security Council, independent_
+_Context: independent, United Nations Security Council, South Sudan, peacekeeping_
 
 ##### News of the World
 ### [Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-phone-hacking-affair.md)
@@ -29,7 +29,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### A large protest
 ### [A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/8/a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perceived-lack-of-progress-sin.md)
-_Context: 2011 Egyptian revolution, Egypt, Cairo, A large protest_
+_Context: A large protest, 2011 Egyptian revolution, Cairo, Egypt_
 
 ##### Space Shuttle Atlantis
 ### [The Space Shuttle Atlantis lifts off for the final mission of the US Space Shuttle program. ](/news/2011/07/8/the-space-shuttle-atlantis-lifts-off-for-the-final-mission-of-the-us-space-shuttle-program.md)

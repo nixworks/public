@@ -17,11 +17,11 @@ Political leaders back reconciliation with Syria as thousands remember former PM
 
 ##### Kenya
 ### [Kenyan President Mwai Kibaki undoes the suspensions for fraud of the agriculture and education ministers handed out by his Prime Minister. ](/news/2010/02/14/kenyan-president-mwai-kibaki-undoes-the-suspensions-for-fraud-of-the-agriculture-and-education-ministers-handed-out-by-his-prime-minister.md)
-_Context: Mwai Kibaki, Kenya, president_
+_Context: president, Kenya, Mwai Kibaki_
 
 ##### BMW Oracle
 ### [BMW Oracle win the 33rd America's Cup becoming the first American team to win since 1992. ](/news/2010/02/14/bmw-oracle-win-the-33rd-america-s-cup-becoming-the-first-american-team-to-win-since-1992.md)
-_Context: BMW Oracle, 33rd America's Cup_
+_Context: 33rd America's Cup, BMW Oracle_
 
 ##### Palestine Authority
 ### [Rafiq Husseini, a top aide of Palestinian President Mahmoud Abbas, is suspended following involvement in an alleged attempt to trade influence for sex. ](/news/2010/02/14/rafiq-husseini-a-top-aide-of-palestinian-president-mahmoud-abbas-is-suspended-following-involvement-in-an-alleged-attempt-to-trade-influen.md)
@@ -37,11 +37,11 @@ Members of the Irish Catholic hierarchy are in Rome in advance of their meeting 
 
 ##### Pakistan
 ### [Pakistani Prime Minister Yousuf Raza Gilani condemns the bomb blast in Pune, India, one day earlier, saying Pakistan is against terrorism and that his country wants better relations with India. ](/news/2010/02/14/pakistani-prime-minister-yousuf-raza-gilani-condemns-the-bomb-blast-in-pune-india-one-day-earlier-saying-pakistan-is-against-terrorism-an.md)
-_Context: Pakistan, Yousuf Raza Gilani, India-Pakistan relations, 2010 Pune bombing, terrorism_
+_Context: Yousuf Raza Gilani, terrorism, India-Pakistan relations, Pakistan, 2010 Pune bombing_
 
 ##### Iran
 ### [Iran detains five more members of the Baha'i minority, in addition to Baha'i leaders jailed since 2008, for alleged involvement in protests against the regime. ](/news/2010/02/14/iran-detains-five-more-members-of-the-baha-i-minority-in-addition-to-baha-i-leaders-jailed-since-2008-for-alleged-involvement-in-protests.md)
-_Context: Baha'i, Iran, protests against the regime, Baha'i leaders jailed since 2008_
+_Context: Iran, Baha'i leaders jailed since 2008, protests against the regime, Baha'i_
 
 ##### Yesterday's double bus electrocution
 ### [The death toll from yesterday's double bus electrocution in Port Harcourt rises to as much as 40, with more than 30 injured. ](/news/2010/02/14/the-death-toll-from-yesterday-s-double-bus-electrocution-in-port-harcourt-rises-to-as-much-as-40-with-more-than-30-injured.md)
@@ -53,7 +53,7 @@ _Context: Viktor Yanukovych, Ukraine presidential election_
 
 ##### Alexandre Bilodeau
 ### [Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-olympic-gold-medal-on-home-soil.md)
-_Context: Alexandre Bilodeau, Canadian_
+_Context: Alexandre Bilodeau, Canada_
 
 ## [Previous Day...](/news/2010/02/13/index.md)
 

@@ -17,15 +17,15 @@ _Context: Morocco, Perugia, Italy_
 
 ##### UK
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
-_Context: flood, UK, Royal Air Force, Summer 2007 United Kingdom floods_
+_Context: UK, flood, Royal Air Force, Summer 2007 United Kingdom floods_
 
 ##### Flood
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
-_Context: Chinese, flood_
+_Context: flood, Chinese_
 
 ##### NASA
 ### [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md)
-_Context: NASA, Mars Exploration Rover, Martian dust storm_
+_Context: Mars Exploration Rover, Martian dust storm, NASA_
 
 ##### United States
 ### [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
@@ -33,7 +33,7 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ##### United Nations
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
-_Context: Morocco, Cte d'Ivoire, United Nations, peacekeeping_
+_Context: Cte d'Ivoire, Morocco, peacekeeping, United Nations_
 
 ##### Somalia
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
@@ -41,7 +41,7 @@ Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 m
 
 ##### Pratibha Patil
 ### [ Pratibha Patil wins the 13th presidential election in India to become the first female President of India. ](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.md)
-_Context: President of India, 13th presidential election in India, Pratibha Patil_
+_Context: Pratibha Patil, President of India, 13th presidential election in India_
 
 ##### Taliban
 ### [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md)
@@ -49,7 +49,7 @@ Afghan Taliban rebels killed the second of two German hostages on Saturday after
 
 ##### Rwanda
 ### [ Two Rwandan men wanted for their role in the 1994 genocide are arrested in France. ](/news/2007/07/21/two-rwandan-men-wanted-for-their-role-in-the-1994-genocide-are-arrested-in-france.md)
-_Context: Rwanda, France, 1994 genocide_
+_Context: France, 1994 genocide, Rwanda_
 
 ##### Harry Potter and the Deathly Hallows
 ### [ "Harry Potter and the Deathly Hallows", the seventh and final volume of the Harry Potter series, is released worldwide. ](/news/2007/07/21/harry-potter-and-the-deathly-hallows-the-seventh-and-final-volume-of-the-harry-potter-series-is-released-worldwide.md)
@@ -57,7 +57,7 @@ _Context: Harry Potter, Harry Potter and the Deathly Hallows_
 
 ##### Press censorship
 ### [ "Press censorship:" A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine "El Jueves" for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depiction-o.md)
-_Context: Press censorship, heir apparent, El Jueves, satirical magazine, Felipe, Prince of Asturias_
+_Context: El Jueves, heir apparent, satirical magazine, Press censorship, Felipe, Prince of Asturias_
 
 ## [Previous Day...](/news/2007/07/20/index.md)
 

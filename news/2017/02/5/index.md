@@ -17,11 +17,11 @@ The 9th U.S. Circuit Court of Appeals denied a Trump administration request to h
 
 ##### 2017 Romanian protests
 ### [ More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md)
-_Context: Romania, 2017 Romanian protests, Sorin Grindeanu_
+_Context: 2017 Romanian protests, Romania, Sorin Grindeanu_
 
 ##### European Union
 ### [Following diplomatic mediation by the European Union and the United States, minority Serbs tear down a concrete wall in Mitrovica. The city's majority Albanians regarded the wall as a provocation. ](/news/2017/02/5/following-diplomatic-mediation-by-the-european-union-and-the-united-states-minority-serbs-tear-down-a-concrete-wall-in-mitrovica-the-city.md)
-_Context: Kosovo Serb, Albanians, Mitrovica, United States, European Union_
+_Context: Mitrovica, Albanians, Kosovo Serb, European Union, United States_
 
 ##### Obama Administration
 ### [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md)

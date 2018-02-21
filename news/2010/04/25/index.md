@@ -9,7 +9,7 @@ The British government has confirmed that it has been ordered to pay back $650 m
 
 ##### Arab
 ### [55 people are killed and 85 injured after clashes between Arab nomads from the Darfur region of Sudan and the Southern Sudan army. ](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.md)
-_Context: Arab, Southern Sudan, Darfur, Sudan, Sudan People's Liberation Army/Movement_
+_Context: Arab, Darfur, Sudan, Southern Sudan, Sudan People's Liberation Army/Movement_
 
 ##### Kunduz
 ### [An inquiry is launched as at least 80 schoolgirls in different Kunduz schools are poisoned this week; the Taliban, opposed to female education, denies any knowledge. ](/news/2010/04/25/an-inquiry-is-launched-as-at-least-80-schoolgirls-in-different-kunduz-schools-are-poisoned-this-week-the-taliban-opposed-to-female-educati.md)
@@ -17,11 +17,11 @@ Dozens of Afghan schoolgirls fell ill after a suspected poison gas attack on the
 
 ##### Zhou Qiang
 ### [Zhou Qiang succeeds Zhang Chunxian as the provincial party secretary of Hunan Province in China. ](/news/2010/04/25/zhou-qiang-succeeds-zhang-chunxian-as-the-provincial-party-secretary-of-hunan-province-in-china.md)
-_Context: Zhou Qiang, CPC party chief, Zhang Chunxian_
+_Context: Zhou Qiang, Zhang Chunxian, CPC party chief_
 
 ##### Ethiopia
 ### [At least five people are killed and 20 others are injured by a bomb blast at a cafe in the Ethiopian town of Adi Haro. ](/news/2010/04/25/at-least-five-people-are-killed-and-20-others-are-injured-by-a-bomb-blast-at-a-cafe-in-the-ethiopian-town-of-adi-haro.md)
-_Context: Adi Haro, Ethiopia_
+_Context: Ethiopia, Adi Haro_
 
 ##### Israel
 ### [Israeli police clash with Palestinian protesters objecting to an "extremely provocative" march by settlers in Silwan in East Jerusalem, calling for the removal of Palestinians who live in the area. ](/news/2010/04/25/israeli-police-clash-with-palestinian-protesters-objecting-to-an-extremely-provocative-march-by-settlers-in-silwan-in-east-jerusalem-call.md)
@@ -29,7 +29,7 @@ Settlers call for Palestinian homes to be demolished as US envoy tries to restar
 
 ##### Mexican Labour Party
 ### [Mexican Labour Party leader in Guerrero Rey Hernandez dies after being shot at least seven times outside his home in Tlacoachistlahuaca. ](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.md)
-_Context: Rey Hernandez, Tlacoachistlahuaca, Guerrero, Mexican Labour Party_
+_Context: Tlacoachistlahuaca, Rey Hernandez, Guerrero, Mexican Labour Party_
 
 ##### Hungary
 ### [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md)
@@ -41,7 +41,7 @@ Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ##### Okinawa
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: United States, Japan, Okinawa_
+_Context: Okinawa, United States, Japan_
 
 ##### Beirut
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)
@@ -61,7 +61,7 @@ _Context: Ladies in White, Havana_
 
 ##### Cuba
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Hillary Clinton, United States, Cuba, Ricardo Alarcon_
+_Context: Ricardo Alarcon, Cuba, Hillary Clinton, United States_
 
 ##### Iran
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
@@ -85,7 +85,7 @@ Mikey Bustos has &quot;a couple million or so,&quot; he says, the result of his 
 
 ##### Stephen Hawking
 ### [Professor Stephen Hawking warns humans about the dangers of contacting extraterrestrials. ](/news/2010/04/25/professor-stephen-hawking-warns-humans-about-the-dangers-of-contacting-extraterrestrials.md)
-_Context: Stephen Hawking, extraterrestrials_
+_Context: extraterrestrials, Stephen Hawking_
 
 ##### United Kingdom
 ### [The United Kingdom Professional Footballers' Association votes Wayne Rooney as "player of the year". ](/news/2010/04/25/the-united-kingdom-professional-footballers-association-votes-wayne-rooney-as-player-of-the-year.md)
@@ -93,7 +93,7 @@ Wayne Rooney, who was last night named PFA Player of the Year, has allayed fears
 
 ##### Iraq
 ### [The first passenger flight between Iraq and the United Kingdom in two decades touches down at London Gatwick Airport, nine days overdue because of volcanic ash problems. ](/news/2010/04/25/the-first-passenger-flight-between-iraq-and-the-united-kingdom-in-two-decades-touches-down-at-london-gatwick-airport-nine-days-overdue-beca.md)
-_Context: United Kingdom, London Gatwick Airport, volcanic ash problems, Iraq_
+_Context: London Gatwick Airport, Iraq, volcanic ash problems, United Kingdom_
 
 ## [Previous Day...](/news/2010/04/24/index.md)
 

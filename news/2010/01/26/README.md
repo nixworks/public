@@ -17,7 +17,7 @@ White House reportedly backs arms deal in move likely to strain ties with Beijin
 
 ##### Petelo Vikena
 ### [Petelo Vikena, King of the Kingdom of Alo in Wallis and Futuna, abdicates after reports of vandalism and arson against royal property. ](/news/2010/01/26/petelo-vikena-king-of-the-kingdom-of-alo-in-wallis-and-futuna-abdicates-after-reports-of-vandalism-and-arson-against-royal-property.md)
-_Context: arson, Kingdom of Alo, Wallis and Futuna, Petelo Vikena, vandalism, King_
+_Context: arson, King, vandalism, Kingdom of Alo, Wallis and Futuna, Petelo Vikena_
 
 ##### James Cameron
 ### [James Cameron's "Avatar" becomes the highest-grossing film of all time (not accounting inflation), surpassing his 1997 "Titanic". ](/news/2010/01/26/james-cameron-s-avatar-becomes-the-highest-grossing-film-of-all-time-not-accounting-inflation-surpassing-his-1997-titanic.md)

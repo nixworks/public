@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Yemeni Civil War
 ### [Houthi rebels release six foreign hostages; three Americans, two Saudis, and a Briton. ](/news/2015/09/20/houthi-rebels-release-six-foreign-hostages-three-americans-two-saudis-and-a-briton.md)
-_Context: Saudi Arabia, United States, Yemeni Civil War, Houthi, United Kingdom_
+_Context: Yemeni Civil War, Saudi Arabia, United Kingdom, United States, Houthi_
 
 ##### Boko Haram insurgency
 ### [ Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md)
-_Context: Nigeria, Maiduguri, Boko Haram insurgency_
+_Context: Maiduguri, Boko Haram insurgency, Nigeria_
 
 ##### 67th Primetime Emmy Awards
 ### [The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-series.md)
@@ -45,7 +45,7 @@ Polls suggest the embattled Syriza leader might just squeak home in Sunday’s s
 
 ##### Constitution of Nepal
 ### [A new constitution comes into effect in Nepal establishing it as a modern secular state. ](/news/2015/09/20/a-new-constitution-comes-into-effect-in-nepal-establishing-it-as-a-modern-secular-state.md)
-_Context: Nepal, Constitution of Nepal_
+_Context: Constitution of Nepal, Nepal_
 
 ## [Previous Day...](/news/2015/09/19/index.md)
 

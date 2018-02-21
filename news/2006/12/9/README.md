@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/9/index.html)  [JSON](2006/12/9/index.json)  [XML](2006/
 
 ##### William J. Jefferson
 ### [ William J. Jefferson is reelected as the member for Louisiana's 2nd congressional district in a runoff election defeating fellow Democrat Karen Carter despite facing an ongoing bribery investigation. ](/news/2006/12/9/william-j-jefferson-is-reelected-as-the-member-for-louisiana-s-2nd-congressional-district-in-a-runoff-election-defeating-fellow-democrat-k.md)
-_Context: 2nd congressional election, William J. Jefferson, Karen Carter, bribes, Democrat_
+_Context: bribes, Karen Carter, William J. Jefferson, Democrat, 2nd congressional election_
 
 ##### United States Senate
 ### [ The United States Senate passes legislation normalising trade with Vietnam, renewing tax cuts and opening the Gulf of Mexico to new drilling for oil and gas fields. The legislation had earlier been passed by the United States House of Representatives and will now go to President of the United States George W. Bush for approval. ](/news/2006/12/9/the-united-states-senate-passes-legislation-normalising-trade-with-vietnam-renewing-tax-cuts-and-opening-the-gulf-of-mexico-to-new-drillin.md)
@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Russia
 ### [ A fire at a Russian drug treatment hospital kills 45 people with arson suspected. ](/news/2006/12/9/a-fire-at-a-russian-drug-treatment-hospital-kills-45-people-with-arson-suspected.md)
-_Context: arson, Russia, kills 45 people_
+_Context: kills 45 people, Russia, arson_
 
 ##### Discovery
 ### [ The Space Shuttle "Discovery" makes a rare night time launch. ](/news/2006/12/9/the-space-shuttle-discovery-makes-a-rare-night-time-launch.md)
@@ -29,7 +29,7 @@ _Context: Suva, coup in 2006_
 
 ##### DNA testing
 ### [ DNA testing confirms that blood with a high blood alcohol content did indeed belong to Henri Paul, the driver in the crash that killed Diana, Princess of Wales, Dodi al Fayed and Paul himself in 1997. ](/news/2006/12/9/dna-testing-confirms-that-blood-with-a-high-blood-alcohol-content-did-indeed-belong-to-henri-paul-the-driver-in-the-crash-that-killed-dian.md)
-_Context: 1997, Henri Paul, blood alcohol content, DNA testing, grandmother, Dodi al Fayed_
+_Context: DNA testing, Henri Paul, Dodi al Fayed, blood alcohol content, 1997, grandmother_
 
 ## [Previous Day...](/news/2006/12/8/index.md)
 

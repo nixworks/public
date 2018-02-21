@@ -17,7 +17,7 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 
 ##### Ukraine-European Union relations
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
-_Context: Ukraine, Ukraine-European Union relations, European Council, European Parliament, European Union_
+_Context: Ukraine, European Union, European Parliament, European Council, Ukraine-European Union relations_
 
 ##### Chinese aircraft
 ### [Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. ](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-aircraft-over-the-east-china-sea.md)
@@ -29,13 +29,13 @@ American army private is free after serving seven years of 35-year sentence for 
 
 ##### Taoiseach
 ### [Irish Taoiseach Enda Kenny announces that he will step down as leader of Fine Gael from midnight, but will remain Taoiseach until a leader is elected. ](/news/2017/05/17/irish-taoiseach-enda-kenny-announces-that-he-will-step-down-as-leader-of-fine-gael-from-midnight-but-will-remain-taoiseach-until-a-leader-i.md)
-_Context: Enda Kenny, Fine Gael, Taoiseach_
+_Context: Fine Gael, Enda Kenny, Taoiseach_
 
 ##### French President
 ### [President of France Emmanuel Macron nominates the full Edouard Philippe government. Jean-Yves Le Drian becomes foreign minister, Sylvie Goulard defence minister, Bruno Le Maire minister of economy, and Gerard Collomb minister of the interior. ](/news/2017/05/17/president-of-france-emmanuel-macron-nominates-the-full-adouard-philippe-government-jean-yves-le-drian-becomes-foreign-minister-sylvie-gou.md)
 French President Emmanuel Macron has named a mix of prominent and unknown figures from the left and the right to make up the government tasked with pushing through his plans to reduce labour protections, tighten European unity and boost military spending. The most senior Cabinet job — the post of ...
 
-##### Russian meddling in the 2016 U.S. presidential election
+##### Russian interference in the 2016 United States elections
 ### [ Deputy Attorney General Rod Rosenstein appoints former FBI Director Robert Mueller as special counsel to oversee the FBI's investigation of Russia's efforts to influence the 2016 election. ](/news/2017/05/17/deputy-attorney-general-rod-rosenstein-appoints-former-fbi-director-robert-mueller-as-special-counsel-to-oversee-the-fbias-investigation.md)
 Mueller will oversee the investigation into efforts to influence the election.
 

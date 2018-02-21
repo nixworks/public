@@ -33,11 +33,11 @@ Belarus on Tuesday told the ambassador of the European Union and that of Poland 
 
 ##### Thai Society
 ### [A Thai court sentences leftist political activist Surachai Danwattananusorn to seven and a half years in jail for lese majeste or insulting the Thai monarchy. ](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.md)
-_Context: Thai Society, lese majeste, Thai monarchy, Surachai Danwattananusorn_
+_Context: lese majeste, Surachai Danwattananusorn, Thai monarchy, Thai Society_
 
 ##### Mich.
 ### [Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. ](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.md)
-_Context: Mich., Mitt Romney, Republican primaries, Arizona_
+_Context: Mitt Romney, Mich., Arizona, Republican primaries_
 
 ##### Occupy London
 ### [Occupy London protesters are evicted from outside St. Paul's Cathedral. ](/news/2012/02/28/occupy-london-protesters-are-evicted-from-outside-st-paul-s-cathedral.md)

@@ -13,7 +13,7 @@ _Context: Crdoba banknotes, Nicaragua_
 
 ##### Dow Jones & Company
 ### [ Dow Jones & Company will replace Citigroup and General Motors with Travelers Companies and Cisco Systems on its Industrial Average on June 8. ](/news/2009/06/1/dow-jones-company-will-replace-citigroup-and-general-motors-with-travelers-companies-and-cisco-systems-on-its-industrial-average-on-june.md)
-_Context: General Motors, June 8, Travelers Companies, Dow Jones Industrial Average, Citigroup, Dow Jones & Company, Cisco_
+_Context: Cisco, Dow Jones Industrial Average, Dow Jones & Company, Citigroup, General Motors, Travelers Companies, June 8_
 
 ##### Air France
 ### [ Air France Flight 447 disappears over the Atlantic Ocean, near Brazil. ](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.md)
@@ -25,7 +25,7 @@ China is providing assistance to Pakistan in developing its plutonium-based nucl
 
 ##### General Motors
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
-_Context: sells, bankruptcy, Bankruptcy in the United States, Chapter 11, General Motors_
+_Context: Bankruptcy in the United States, Chapter 11, General Motors, bankruptcy, sells_
 
 ##### Taliban
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)
@@ -33,7 +33,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)
-_Context: Niger Delta, Movement for the Emancipation of the Niger Delta, United Kingdom, hostage_
+_Context: United Kingdom, hostage, Niger Delta, Movement for the Emancipation of the Niger Delta_
 
 ##### Military recruitment
 ### [ A man kills one soldier and injures another at a military recruitment center in Little Rock, Arkansas. ](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.md)

@@ -33,7 +33,7 @@ _Context: rocket launcher, Pursat Province, Cambodia_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Sudan, Russia, Darfur_
+_Context: Darfur, Russia, Sudan_
 
 ##### Nigeria
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
@@ -77,7 +77,7 @@ Hikers in Canada discover the frozen body of an American ice climber who fell to
 
 ##### Quito
 ### [42 killed, 11 injured in bus crash 55 miles south of Quito, Ecuador.](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.md)
-_Context: Ecuador, Quito_
+_Context: Quito, Ecuador_
 
 ##### Ovadia Yosef
 ### [Ovadia Yosef, a senior rabbi from Shas, a party within Israel's coalition government, calls for Palestinian President Mahmoud Abbas to "vanish from our world". The United States condemns the remarks as "deeply offensive". ](/news/2010/08/30/ovadia-yosef-a-senior-rabbi-from-shas-a-party-within-israel-s-coalition-government-calls-for-palestinian-president-mahmoud-abbas-to-vani.md)
@@ -109,11 +109,11 @@ The federal police force in Mexico dismisses 3,200 officers for incompetence, co
 
 ##### India
 ### [The Indian government decides not to ban the controversial Blackberry devices for at least two months after the North American manufacturer allows "lawful access" to encrypted data it had been feared would be a security threat. ](/news/2010/08/30/the-indian-government-decides-not-to-ban-the-controversial-blackberry-devices-for-at-least-two-months-after-the-north-american-manufacturer.md)
-_Context: India, Blackberry_
+_Context: Blackberry, India_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: centres, Northern Territory, Indonesia_
+_Context: Indonesia, Northern Territory, centres_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/9/index.html)  [JSON](2014/03/9/index.json)  [XML](2014/
 
 ##### Hillah
 ### [A suicide car bomber kills 42 people at a police checkpoint in Hillah, Iraq. ](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.md)
-_Context: Hillah, Iraq_
+_Context: Iraq, Hillah_
 
 ##### Nazario Moreno Gonzalez
 ### [Mexican authorities confirm that Nazario Moreno Gonzalez, the top leader of the Knights Templar Cartel, was killed in the state of Michoacan. ](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.md)
@@ -33,7 +33,7 @@ _Context: Mohammed Fahim, Vice President of Afghanistan_
 
 ##### Colombian parliamentary election, 2014
 ### [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md)
-_Context: Colombian parliamentary election, 2014, Alvaro Uribe, Juan Manuel Santos_
+_Context: Alvaro Uribe, Juan Manuel Santos, Colombian parliamentary election, 2014_
 
 ## [Previous Day...](/news/2014/03/8/index.md)
 

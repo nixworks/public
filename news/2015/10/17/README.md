@@ -17,7 +17,7 @@ Five people have been murdered after a gunman opened fire at a Shiite meeting ha
 
 ##### 2015 PKK rebellion
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: PKK, Daglica, Turkey, 2015 PKK rebellion, Hakkari Province_
+_Context: Turkey, Hakkari Province, PKK, 2015 PKK rebellion, Daglica_
 
 ##### Saudi-led intervention in Yemen
 ### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
@@ -41,7 +41,7 @@ The revolt now confronts Prime Minister Narendra Modi with a critical test of hi
 
 ##### United States
 ### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
-_Context: Arctic, Alaska, United States, Statoil, Royal Dutch Shell_
+_Context: Royal Dutch Shell, United States, Arctic, Statoil, Alaska_
 
 ##### US Airways
 ### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
@@ -49,7 +49,7 @@ The final US Airways flight is heading from San Francisco to Philadelphia, makin
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md)
-_Context: Luzon, 2015 Pacific typhoon season, Philippines_
+_Context: Philippines, Luzon, 2015 Pacific typhoon season_
 
 ##### Andhra Pradesh
 ### [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md)
@@ -61,7 +61,7 @@ At least 14 people have been killed after a ship taking passengers back from a f
 
 ##### Hacker
 ### [Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. ](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.md)
-_Context: U.S. military, Phoenix, Arizona, hacker, Malaysia, ISIS, Kosovo_
+_Context: hacker, U.S. military, Phoenix, Arizona, ISIS, Malaysia, Kosovo_
 
 ##### Fort Myers, Florida
 ### [A shooting just before midnight at the ninth annual Fort Myers, Florida, Zombicon kills one person and injures four others, none with life threatening injuries, and causes pandemomium on the city's downtown streets. Police ask attendees to share smartphone video from the incident. ](/news/2015/10/17/a-shooting-just-before-midnight-at-the-ninth-annual-fort-myers-florida-zombicon-kills-one-person-and-injures-four-others-none-with-life-t.md)
@@ -69,7 +69,7 @@ Gunfire erupted at a Florida festival that attracts thousands of people dressed 
 
 ##### European migrant crisis
 ### [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md)
-_Context: Hungary, European migrant crisis, Croatia, Slovenia_
+_Context: Croatia, Slovenia, European migrant crisis, Hungary_
 
 ##### Egyptian parliamentary election, 2015
 ### [Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the-2013-military-overthrow-of-president-m.md)
@@ -77,7 +77,7 @@ Voters express the hope that Egypt will some day become a land of opportunity li
 
 ##### Guinean presidential election, 2015
 ### [The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-with-58-per-cent-of-the-vote.md)
-_Context: President of Guinea, Guinea, Guinean presidential election, 2015, Alpha Conde_
+_Context: Alpha Conde, Guinean presidential election, 2015, President of Guinea, Guinea_
 
 ## [Previous Day...](/news/2015/10/16/index.md)
 

@@ -21,7 +21,7 @@ Two al Qaeda militants and two tribesmen allied to the army were killed in an at
 
 ##### United Nations
 ### [A United Nations expert panel reports that although the two governments deny it, Rwanda and Uganda continue to support the March 23 Movement. ](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.md)
-_Context: Rwanda, M23, United Nations, Uganda_
+_Context: Rwanda, United Nations, M23, Uganda_
 
 ##### Hilary Mantel
 ### [Hilary Mantel wins the 2012 Man Booker Prize for her novel "Bring Up the Bodies", becoming the first British author to win the award twice, and the first female to do so. ](/news/2012/10/16/hilary-mantel-wins-the-2012-man-booker-prize-for-her-novel-bring-up-the-bodies-becoming-the-first-british-author-to-win-the-award-twice.md)
@@ -29,15 +29,15 @@ Hilary Mantel wins the Man Booker Prize for her tale of Tudor treachery, Bring u
 
 ##### Foxconn
 ### [Foxconn, Apple's main supplier in China, admits it employs interns as young as 14 years old. ](/news/2012/10/16/foxconn-apple-s-main-supplier-in-china-admits-it-employs-interns-as-young-as-14-years-old.md)
-_Context: Foxconn, Apple Inc._
+_Context: Apple Inc., Foxconn_
 
 ##### CEO
 ### [The CEO of Citigroup, Vikram Pandit, announces his resignation from that post, and is immediately succeeded by Michael Corbat. ](/news/2012/10/16/the-ceo-of-citigroup-vikram-pandit-announces-his-resignation-from-that-post-and-is-immediately-succeeded-by-michael-corbat.md)
-_Context: Citigroup, Michael Corbat, Vikram Pandit, CEO_
+_Context: Vikram Pandit, Citigroup, Michael Corbat, CEO_
 
 ##### Ford
 ### [Ford recalls 154,000 Fiestas due to an issue with airbag deployment. ](/news/2012/10/16/ford-recalls-154-000-fiestas-due-to-an-issue-with-airbag-deployment.md)
-_Context: airbag, Ford, Fiestas_
+_Context: airbag, Fiestas, Ford_
 
 ##### St. Patrick's Institution
 ### [A report on St. Patrick's Institution in Dublin finds a culture of human rights abuse. ](/news/2012/10/16/a-report-on-st-patrick-s-institution-in-dublin-finds-a-culture-of-human-rights-abuse.md)
@@ -49,7 +49,7 @@ The judge who led the inquiry into serial killer Harold Shipman will chair an in
 
 ##### United Kingdom
 ### [The United Kingdom announces its intention to close its consulate in Basra, Iraq. ](/news/2012/10/16/the-united-kingdom-announces-its-intention-to-close-its-consulate-in-basra-iraq.md)
-_Context: Iraq, its consulate, United Kingdom, Basra_
+_Context: United Kingdom, Basra, its consulate, Iraq_
 
 ##### Gary McKinnon
 ### [The British computer hacker Gary McKinnon wins his ten-year legal battle to avoid extradition to the United States after Home Secretary Theresa May tells the House of Commons she has blocked the order. ](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.md)
@@ -61,11 +61,11 @@ _Context: Spain_
 
 ##### Law of Brazil
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Law of Brazil, Gol Transportes Aereos Flight 1907, United States_
+_Context: Gol Transportes Aereos Flight 1907, United States, Law of Brazil_
 
 ##### Hollis Center, Maine
 ### [A 4.0-magnitude (originally, 4.6) earthquake strikes Hollis Center, Maine, roughly 20 miles west of Portland, Maine, the state's largest city. At 3.1 miles deep, it is a shallow earthquake, felt in Maine, southwestern Connecticut, and eastern New York state. There were reports of very minor damage and cellular phone outages, but no serious property damage, injuries, or deaths. ](/news/2012/10/16/a-4-0-magnitude-originally-4-6-earthquake-strikes-hollis-center-maine-roughly-20-miles-west-of-portland-maine-the-state-s-largest-cit.md)
-_Context: Hollis Center, Maine, Connecticut, New York, cellular phone, Portland_
+_Context: New York, Connecticut, Hollis Center, Maine, Portland, cellular phone_
 
 ##### European Commissioner for Health and Consumer Policy
 ### [The European Commissioner for Health and Consumer Policy, John Dalli of Malta, resigns amid corruption charges that he denies. ](/news/2012/10/16/the-european-commissioner-for-health-and-consumer-policy-john-dalli-of-malta-resigns-amid-corruption-charges-that-he-denies.md)
@@ -77,7 +77,7 @@ Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed
 
 ##### Holy See
 ### [The Vatican announces Pope Benedict XVI will send a delegation to Damascus to "express his brotherly solidarity with the entire population". ](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.md)
-_Context: Pope Benedict XVI, Damascus, Holy See_
+_Context: Damascus, Pope Benedict XVI, Holy See_
 
 ## [Previous Day...](/news/2012/10/15/index.md)
 

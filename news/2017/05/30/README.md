@@ -17,19 +17,19 @@ _Context: China Labor Watch, Ivanka Trump-branded, Ganzhou_
 
 ##### Ukraine-European Union relations
 ### [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md)
-_Context: Dutch Senate, Ukraine-European Union relations, European Union's Association Agreement with Ukraine, non-binding referendum_
+_Context: Dutch Senate, non-binding referendum, European Union's Association Agreement with Ukraine, Ukraine-European Union relations_
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in, who had campaigned on a parliamentary review of the country's missile defense system, orders an investigation of the anti-missile system after discovering the government was not informed when four more U.S. Terminal High Altitude Area Defense (THAAD) system launchers had been brought in and installed. ](/news/2017/05/30/south-korean-president-moon-jae-in-who-had-campaigned-on-a-parliamentary-review-of-the-country-s-missile-defense-system-orders-an-investig.md)
-_Context: South Korean President, Moon Jae-in, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korea-United States relations, parliamentary review_
+_Context: parliamentary review, South Korea-United States relations, South Korean President, Moon Jae-in, U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
 
 ##### 2017 North Indian Ocean cyclone season
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
-_Context: 2017 North Indian Ocean cyclone season, Cyclone Mora, Bangladesh_
+_Context: Cyclone Mora, 2017 North Indian Ocean cyclone season, Bangladesh_
 
 ##### Panama
 ### [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md)
-_Context: Panama, Manuel Noriega_
+_Context: Manuel Noriega, Panama_
 
 ##### Michael Dubke
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)

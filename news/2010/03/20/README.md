@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/20/index.html)  [JSON](2010/03/20/index.json)  [XML](201
 
 ##### Sandstorm
 ### [A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. ](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-affecting-the-regions-of-xinjiang-and-inner-mongolia-and-the-provinces-of-shanxi-shaanxi-and.md)
-_Context: Xinjiang, Shanxi province, Shaanxi, north China, Inner Mongolia, Hebei, sandstorm_
+_Context: Xinjiang, Shaanxi, north China, Inner Mongolia, Hebei, sandstorm, Shanxi province_
 
 ##### Prime Minister
 ### [Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/former-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south-asia-who-brought-down-the-king.md)
@@ -25,11 +25,11 @@ A senior official of Somali insurgent group al Shabaab was shot dead on Friday i
 
 ##### Russia
 ### [Thousands of Russians demonstrate across the country against the policies of the government of Prime Minister Vladimir Putin. ](/news/2010/03/20/thousands-of-russians-demonstrate-across-the-country-against-the-policies-of-the-government-of-prime-minister-vladimir-putin.md)
-_Context: Vladimir Putin, Prime Minister of Russia, Russia_
+_Context: Prime Minister of Russia, Vladimir Putin, Russia_
 
 ##### Sandstorm
 ### [A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. ](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.md)
-_Context: China, sandstorm, Beijing_
+_Context: Beijing, sandstorm, China_
 
 ##### British Airways
 ### [Cabin crew at British Airways begin a three-day strike. ](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.md)
@@ -41,7 +41,7 @@ Dozens of people were arrested and several injured after violent clashes between
 
 ##### Western Sahara
 ### [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their "Tropic of Cancer" programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.md)
-_Context: Tropic of Cancer, Morocco, BBC, Western Sahara_
+_Context: Morocco, Western Sahara, Tropic of Cancer, BBC_
 
 ##### Italy
 ### [Hundreds of thousands of people attend a rally in support of Italian Prime Minister Silvio Berlusconi in Rome ahead of this month's elections. ](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.md)
@@ -53,7 +53,7 @@ Juvenile Arrested in N.J. Bias Incident in Which Blacks Were Told to Leave Store
 
 ##### David Bowie
 ### [David Bowie and Sir Elton John are among those to publicly mourn the death of Lesley Duncan, who also appeared on albums by Pink Floyd and Dusty Springfield. ](/news/2010/03/20/david-bowie-and-sir-elton-john-are-among-those-to-publicly-mourn-the-death-of-lesley-duncan-who-also-appeared-on-albums-by-pink-floyd-and-d.md)
-_Context: Pink Floyd, Elton John, David Bowie, Dusty Springfield, Lesley Duncan_
+_Context: Dusty Springfield, Pink Floyd, Lesley Duncan, David Bowie, Elton John_
 
 ##### Rugby union
 ### [In international rugby union, France achieve the Grand Slam&mdash;their first since 2004&mdash;to win the 2010 Six Nations Championship. ](/news/2010/03/20/in-international-rugby-union-france-achieve-the-grand-slam-mdash-their-first-since-2004-mdash-to-win-the-2010-six-nations-championship.md)

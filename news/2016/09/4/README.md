@@ -9,7 +9,7 @@ At least 5 countries issue travel warnings after the Davao City explosion that k
 
 ##### Syrian Civil War
 ### [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md)
-_Context: advance around and encircle, Aleppo, Syrian Civil War, Syrian government_
+_Context: Aleppo, Syrian Civil War, Syrian government, advance around and encircle_
 
 ##### Mother Teresa
 ### [Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. ](/news/2016/09/4/mother-teresa-known-for-working-with-the-desperately-poor-is-canonized-in-a-ceremony-at-the-vatican.md)
@@ -33,15 +33,15 @@ The Zika virus behind an outbreak in Singapore was not imported from South Ameri
 
 ##### 2016 U.S. election
 ### [The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson-for-president-and-the-first-newspaper-media.md)
-_Context: 2016 U.S. election, Libertarian, Richmond Times-Dispatch, Virginia, Gary Johnson_
+_Context: Richmond Times-Dispatch, Virginia, Libertarian, Gary Johnson, 2016 U.S. election_
 
 ##### Mecklenburg-Vorpommern state election, 2016
 ### [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md)
-_Context: Landtag of Mecklenburg-Vorpommern, Alternative for Germany, Mecklenburg-Vorpommern state election, 2016, German, Mecklenburg-Vorpommern_
+_Context: Mecklenburg-Vorpommern state election, 2016, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Alternative for Germany, German_
 
 ##### Hong Kong legislative election, 2016
 ### [Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since-the-2014-pro-democracy-street-protest.md)
-_Context: legislature, 2014 pro-democracy street protests, Hong Kong legislative election, 2016, Hong Kong_
+_Context: Hong Kong, 2014 pro-democracy street protests, Hong Kong legislative election, 2016, legislature_
 
 ## [Previous Day...](/news/2016/09/3/index.md)
 

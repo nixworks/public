@@ -49,7 +49,7 @@ Shia leader urges peaceful resistance and a rejection of violence in his first a
 
 ##### China
 ### [Chinese prosecutors say more than 600 people were killed over a period of seven years in Yunnan due to official misconduct. ](/news/2011/01/8/chinese-prosecutors-say-more-than-600-people-were-killed-over-a-period-of-seven-years-in-yunnan-due-to-official-misconduct.md)
-_Context: Yunnan, China_
+_Context: China, Yunnan_
 
 ## [Previous Day...](/news/2011/01/7/index.md)
 

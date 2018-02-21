@@ -17,7 +17,7 @@ Troops from Thailand and Cambodia exchange fire again along their disputed borde
 
 ##### BP
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: Peterhead, North Sea, Scotland, German, naval mine, World War II, BP_
+_Context: naval mine, Peterhead, World War II, BP, German, Scotland, North Sea_
 
 ##### Ivory Coast
 ### [Ivory Coast militia leader Ibrahim Coulibaly is killed in fighting with the forces of new President Alassane Ouattara. ](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.md)
@@ -53,15 +53,15 @@ Johnson &amp; Johnson agreed to buy Synthes Inc. for $21.3 billion in the bigges
 
 ##### French President
 ### [President of France Nicolas Sarkozy endorses Mario Draghi to become next President of the European Central Bank, to succeed Jean-Claude Trichet. ](/news/2011/04/27/president-of-france-nicolas-sarkozy-endorses-mario-draghi-to-become-next-president-of-the-european-central-bank-to-succeed-jean-claude-tric.md)
-_Context: French President, Mario Draghi, France, Jean-Claude Trichet, European Central Bank, Nicolas Sarkozy, Vice-President_
+_Context: Vice-President, French President, Mario Draghi, Nicolas Sarkozy, Jean-Claude Trichet, European Central Bank, France_
 
 ##### Emperor
 ### [Emperor of Japan Akihito and Empress Michiko visit areas worst-affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/27/emperor-of-japan-akihito-and-empress-michiko-visit-areas-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Emperor, Akihito, Empress Michiko, 2011 Tohoku earthquake and tsunami_
+_Context: Empress Michiko, 2011 Tohoku earthquake and tsunami, Akihito, Emperor_
 
 ##### Alishan Forest Railway
 ### [A train overturns on the Alishan Forest Railway near the town of Alishan in Taiwan resulting in at least five deaths and forty injuries. ](/news/2011/04/27/a-train-overturns-on-the-alishan-forest-railway-near-the-town-of-alishan-in-taiwan-resulting-in-at-least-five-deaths-and-forty-injuries.md)
-_Context: Alishan Forest Railway, Taiwan, Alishan_
+_Context: Alishan Forest Railway, Alishan, Taiwan_
 
 ##### Tornado
 ### [Two tornadoes hit Tuscaloosa County in the US state of Alabama causing extensive damage, with the main strongest wedge tornado crossing over the state of Alabama and affecting the Gadsden Metropolitan Area. ](/news/2011/04/27/two-tornadoes-hit-tuscaloosa-county-in-the-us-state-of-alabama-causing-extensive-damage-with-the-main-strongest-wedge-tornado-crossing-over.md)
@@ -81,15 +81,15 @@ _Context: Bradley Manning, Daniel Ellsberg, Pentagon Papers, Barack Obama, Wales
 
 ##### Lobsang Sangay
 ### [Lobsang Sangay is elected as the Prime Minister of the Central Tibetan Administration, replacing the 5th Samdhong Rinpoche. ](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.md)
-_Context: the 5th Samdhong Rinpoche, Prime Minister of the, Central Tibetan Administration, Lobsang Sangay_
+_Context: Lobsang Sangay, Prime Minister of the, Central Tibetan Administration, the 5th Samdhong Rinpoche_
 
 ##### Singapore
 ### [The Singapore's ruling party People Action Party was not returned to government on Nomination Day, 82 of 87 seats will be contested in the coming election. ](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.md)
-_Context: Singapore, election, People Action Party_
+_Context: People Action Party, Singapore, election_
 
 ##### Barack Obama citizenship conspiracy theories
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Donald Trump, birth certificate, Barack Obama citizenship conspiracy theories, U.S. President, nomination, Hawaii, Barack Obama_
+_Context: nomination, U.S. President, Barack Obama citizenship conspiracy theories, birth certificate, Donald Trump, Barack Obama, Hawaii_
 
 ##### Governor
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)

@@ -21,7 +21,7 @@ Despite confusion over whether Netanyahu or security cabinet took decision, anno
 
 ##### Nevada
 ### [In Nevada the Bundy standoff continues; politicians who had voiced support for Bundy began to distance themselves after the rancher controversially suggested that African Americans might be better off picking cotton as slaves than "under government subsidy". ](/news/2014/04/24/in-nevada-the-bundy-standoff-continues-politicians-who-had-voiced-support-for-bundy-began-to-distance-themselves-after-the-rancher-controve.md)
-_Context: African American, Nevada, Bundy family_
+_Context: Bundy family, African American, Nevada_
 
 ##### Election
 ### [There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/there-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-voters.md)

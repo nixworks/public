@@ -9,7 +9,7 @@ comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel 
 
 ##### Taliban
 ### [ A Taliban attack on the Indian embassy in Kabul kills at least 17 and injures 83. ](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.md)
-_Context: Taliban, attack, Kabul_
+_Context: attack, Kabul, Taliban_
 
 ##### Al-Qaeda
 ### [ A prominent Al-Qaeda leader, Abu Yahya al-Libi, urges Muslims in Xinjiang to "prepare for holy war" after the riots in July. ](/news/2009/10/8/a-prominent-al-qaeda-leader-abu-yahya-al-libi-urges-muslims-in-xinjiang-to-prepare-for-holy-war-after-the-riots-in-july.md)
@@ -29,7 +29,7 @@ Hearings began today in a libel case brought by the grandson of Joseph Stalin ag
 
 ##### Guinea
 ### [ Guinea's military government announces it is setting up a commission to investigate the shooting of protesters last week. ](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.md)
-_Context: Guinea, massacre of opposition protesters_
+_Context: massacre of opposition protesters, Guinea_
 
 ##### Typhoon Melor
 ### [ At least two people are killed and dozens injured as Typhoon Melor makes landfall in Japan. ](/news/2009/10/8/at-least-two-people-are-killed-and-dozens-injured-as-typhoon-melor-makes-landfall-in-japan.md)
@@ -41,7 +41,7 @@ Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify docum
 
 ##### DNA
 ### [ DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. ](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.md)
-_Context: DNA, British Royal Family_
+_Context: British Royal Family, DNA_
 
 ##### Muslim
 ### [ A new study reveals one in four people are Muslim, with the global Muslim population standing at 1.57 billion. ](/news/2009/10/8/a-new-study-reveals-one-in-four-people-are-muslim-with-the-global-muslim-population-standing-at-1-57-billion.md)

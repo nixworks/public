@@ -9,39 +9,39 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 
 ##### Labour Party
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: Parliament, Prime Minister, Gordon Brown, e-mail, Labour Party, MP, United Kingdom_
+_Context: Parliament, United Kingdom, e-mail, MP, Gordon Brown, Prime Minister, Labour Party_
 
 ##### Remotely operated vehicle
 ### [ The remotely operated vehicle "Nereus" reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
-_Context: Mariana Trench, remotely operated vehicle, South Pacific Ocean, Challenger Deep, Nereus_
+_Context: Mariana Trench, Challenger Deep, South Pacific Ocean, remotely operated vehicle, Nereus_
 
 ##### India
 ### [ Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. ](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.md)
-_Context: Parliament of India, MP, Lok Sabha, India, Speaker, becomes, Meira Kumar_
+_Context: Speaker, becomes, MP, Lok Sabha, Meira Kumar, Parliament of India, India_
 
 ##### President of South Africa
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
-_Context: 2009, State of the Nation Address, South Africa, Jacob Zuma, President of South Africa_
+_Context: State of the Nation Address, South Africa, President of South Africa, 2009, Jacob Zuma_
 
 ##### Nigeria
 ### [ The Nigerian government recaptures 130 of 150 inmates who escaped from a prison in Enugu. ](/news/2009/06/3/the-nigerian-government-recaptures-130-of-150-inmates-who-escaped-from-a-prison-in-enugu.md)
-_Context: escape, Nigeria, Enugu, Politics of Nigeria_
+_Context: Nigeria, Politics of Nigeria, escape, Enugu_
 
 ##### Madagascar
 ### [ Former Malagasy President Marc Ravalomanana is sentenced "in absentia" to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)
-_Context: 2013, incarceration, in absentia, misconduct in office, political crisis, President, Marc Ravalomanana, Madagascar_
+_Context: Marc Ravalomanana, incarceration, Madagascar, President, 2013, in absentia, political crisis, misconduct in office_
 
 ##### United States
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: author, United States, Home, novel, Orange Prize for Fiction, Marilynne Robinson_
+_Context: Marilynne Robinson, Orange Prize for Fiction, Home, United States, novel, author_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
-_Context: New Hampshire, U.S. state, same-sex marriage, legalizes_
+_Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
 ##### Al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Maghreb, hostage, Sahara, al-Qaeda, United Kingdom, Islam, Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present)_
+_Context: Insurgency in the Maghreb (2002-present), United Kingdom, Maghreb, Sahara, al-Qaeda, Al Qaeda in the Islamic Maghreb, hostage, Islam_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

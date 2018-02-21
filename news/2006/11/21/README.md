@@ -5,35 +5,35 @@ Formats: [HTML](2006/11/21/index.html)  [JSON](2006/11/21/index.json)  [XML](200
 
 ##### Same-sex marriage in Israel
 ### [ Same-sex marriage in Israel: The Supreme Court of Israel orders the Israeli government to recognize same-sex marriage performed abroad. ](/news/2006/11/21/same-sex-marriage-in-israel-the-supreme-court-of-israel-orders-the-israeli-government-to-recognize-same-sex-marriage-performed-abroad.md)
-_Context: Politics of Israel, same-sex marriage, Supreme Court, Same-sex marriage in Israel_
+_Context: Supreme Court, same-sex marriage, Same-sex marriage in Israel, Politics of Israel_
 
 ##### Sweden
 ### [ Police in Sweden announce that they may have found the weapon used in the unsolved murder of prime minister Olof Palme in 1986. ](/news/2006/11/21/police-in-sweden-announce-that-they-may-have-found-the-weapon-used-in-the-unsolved-murder-of-prime-minister-olof-palme-in-1986.md)
-_Context: 1986, Olof Palme, prime minister, Sweden_
+_Context: 1986, prime minister, Olof Palme, Sweden_
 
 ##### North Sea
 ### [ A helicopter with 13 passengers and 4 crewmembers makes an emergency landing in the North Sea between Texel and Den Helder, The Netherlands. One passenger is taken to hospital with hypothermia. The passengers were being evacuated from an offshore oil rig after a power outage. ](/news/2006/11/21/a-helicopter-with-13-passengers-and-4-crewmembers-makes-an-emergency-landing-in-the-north-sea-between-texel-and-den-helder-the-netherlands.md)
-_Context: Den Helder, offshore oil platform, power outage, North Sea, hypothermia, Texel, Dutch_
+_Context: Dutch, power outage, offshore oil platform, hypothermia, North Sea, Den Helder, Texel_
 
 ##### Lebanese
 ### [ Lebanese Minister of Industry and Maronite Christian Pierre Gemayel is assassinated by a gunman in Beirut. ](/news/2006/11/21/lebanese-minister-of-industry-and-maronite-christian-pierre-gemayel-is-assassinated-by-a-gunman-in-beirut.md)
-_Context: Lebanese, Maronite Christian, Beirut, assassinated, Pierre Amine Gemayel_
+_Context: Pierre Amine Gemayel, Lebanese, assassinated, Beirut, Maronite Christian_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki announce plans to meet next week to discuss security issues in Iraq. ](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.md)
-_Context: Iraq Prime Minister, George W. Bush, Nouri al-Maliki, Iraq, U.S. President_
+_Context: George W. Bush, Iraq, Nouri al-Maliki, Iraq Prime Minister, U.S. President_
 
 ##### Ruda Slaska
 ### [ Twenty-three miners are killed in a gas explosion in a coal mine in Ruda Slaska, Poland, approximately 1,000 meters below the ground. ](/news/2006/11/21/twenty-three-miners-are-killed-in-a-gas-explosion-in-a-coal-mine-in-ruda-alaska-poland-approximately-1-000-meters-below-the-ground.md)
-_Context: Ruda Slaska, Poland_
+_Context: Poland, Ruda Slaska_
 
 ##### Klaus Volkert
 ### [ Klaus Volkert, former chairman of the works council of Volkswagen, is arrested. He is suspected of attempting collusion and perfidy in the trial concerning Volkert's role in the corruption affair with the German car maker. ](/news/2006/11/21/klaus-volkert-former-chairman-of-the-works-council-of-volkswagen-is-arrested-he-is-suspected-of-attempting-collusion-and-perfidy-in-the.md)
-_Context: German, Klaus Volkert, works council, Volkswagen, collusion, perfidy_
+_Context: Klaus Volkert, perfidy, works council, Volkswagen, collusion, German_
 
 ##### Passenger train
 ### [ A collision between a passenger train and a freight train at Arnhem station in the Netherlands injures 31 people. The driver of the freight train, who is alleged to have ignored a red signal, is arrested by police. ](/news/2006/11/21/a-collision-between-a-passenger-train-and-a-freight-train-at-arnhem-station-in-the-netherlands-injures-31-people-the-driver-of-the-freight.md)
-_Context: Arnhem, passenger train, freight train, train driver, railway station, the Netherlands, signal_
+_Context: signal, railway station, freight train, the Netherlands, passenger train, train driver, Arnhem_
 
 ##### American
 ### [ American actor and comedian Michael Richards, best known for playing character Cosmo Kramer, apologizes on the nation's "The Late Show" this morning after referring to two African Americans as "niggers" at a Los Angeles area comedy club. ](/news/2006/11/21/american-actor-and-comedian-michael-richards-best-known-for-playing-character-cosmo-kramer-apologizes-on-the-nation-s-the-late-show-thi.md)
@@ -45,7 +45,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### ITER
 ### [ An international consortium signs a deal formally launching ITER, a project to develop an experimental nuclear fusion reactor. ](/news/2006/11/21/an-international-consortium-signs-a-deal-formally-launching-iter-a-project-to-develop-an-experimental-nuclear-fusion-reactor.md)
-_Context: ITER, nuclear fusion_
+_Context: nuclear fusion, ITER_
 
 ##### Syria
 ### [ Syria and Iraq restore diplomatic relations and agree to cooperate on security issues. ](/news/2006/11/21/syria-and-iraq-restore-diplomatic-relations-and-agree-to-cooperate-on-security-issues.md)

@@ -13,11 +13,11 @@ _Context: Palestine, Yemen, Ghazi al-Aghbari, Bassem Al-Agha_
 
 ##### Israeli Army
 ### [The Israel Defense Forces (IDF) fire tear gas at around 200 Palestinians and their allies protesting outside the gates of Ofer Prison at the recent detainment of colleagues. ](/news/2010/03/31/the-israel-defense-forces-idf-fire-tear-gas-at-around-200-palestinians-and-their-allies-protesting-outside-the-gates-of-ofer-prison-at-the.md)
-_Context: Palestine, Israeli Army, Ofer Prison_
+_Context: Ofer Prison, Israeli Army, Palestine_
 
 ##### MP
 ### [MPs state the UK government must ensure that military equipment sold to Israel is not used in the occupied territories. ](/news/2010/03/31/mps-state-the-uk-government-must-ensure-that-military-equipment-sold-to-israel-is-not-used-in-the-occupied-territories.md)
-_Context: military equipment, MP, British government, occupied territories, Israel_
+_Context: military equipment, occupied territories, Israel, MP, British government_
 
 ##### Afghan
 ### [A bicycle-borne bomb kills at least 13 people and injures 45 others in Afghanistan's Helmand province. ](/news/2010/03/31/a-bicycle-borne-bomb-kills-at-least-13-people-and-injures-45-others-in-afghanistan-s-helmand-province.md)
@@ -25,11 +25,11 @@ _Context: Afghan, Helmand province_
 
 ##### The deaths of 12 people occur there in a double suicide attack
 ### [Twelve people, including two police officers, are killed in two blasts in the town of Kizlyar in Russia's volatile North Caucasus region of Dagestan. ](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.md)
-_Context: the deaths of 12 people occur there in a double suicide attack, North Caucasus, Dagestan, Kizlyar_
+_Context: Kizlyar, North Caucasus, the deaths of 12 people occur there in a double suicide attack, Dagestan_
 
 ##### Serbia
 ### [Serbia passes legislation that offers an apology for its role in the 1995 Srebrenica massacre during the Bosnian War. ](/news/2010/03/31/serbia-passes-legislation-that-offers-an-apology-for-its-role-in-the-1995-srebrenica-massacre-during-the-bosnian-war.md)
-_Context: Serbia, Bosnian War, Srebrenica massacre_
+_Context: Bosnian War, Serbia, Srebrenica massacre_
 
 ##### Shahram Amiri
 ### [Shahram Amiri, a scientist involved in Iran's nuclear program, defects to the United States and begins talking to the Central Intelligence Agency. ](/news/2010/03/31/shahram-amiri-a-scientist-involved-in-iran-s-nuclear-program-defects-to-the-united-states-and-begins-talking-to-the-central-intelligence-a.md)
@@ -37,19 +37,19 @@ An award-winning Iranian nuclear scientist, who disappeared last year under myst
 
 ##### 2008 Mumbai attacks
 ### [The trial of the lone surviving gunman involved in the 2008 Mumbai attacks, Ajmal Kasab, concludes. ](/news/2010/03/31/the-trial-of-the-lone-surviving-gunman-involved-in-the-2008-mumbai-attacks-ajmal-kasab-concludes.md)
-_Context: Ajmal Kasab, 2008 Mumbai attacks_
+_Context: 2008 Mumbai attacks, Ajmal Kasab_
 
 ##### Google
 ### [Google says thousands of internet users in Vietnam have been spied on with malicious software, appearing to target opponents of bauxite mining in the country. ](/news/2010/03/31/google-says-thousands-of-internet-users-in-vietnam-have-been-spied-on-with-malicious-software-appearing-to-target-opponents-of-bauxite-mini.md)
-_Context: Vietnam, bauxite, Google_
+_Context: bauxite, Vietnam, Google_
 
 ##### China
 ### [Foreign journalists based in China and Taiwan say their Yahoo email accounts have been hacked. ](/news/2010/03/31/foreign-journalists-based-in-china-and-taiwan-say-their-yahoo-email-accounts-have-been-hacked.md)
-_Context: Yahoo, China, Taiwan_
+_Context: Taiwan, China, Yahoo_
 
 ##### Green wall
 ### [Lines of "green wall" are built along the desert district in Yanchi county, Ningxia Hui autonomous region to defend against desertification. ](/news/2010/03/31/lines-of-green-wall-are-built-along-the-desert-district-in-yanchi-county-ningxia-hui-autonomous-region-to-defend-against-desertification.md)
-_Context: Ningxia Hui, desertification, green wall, Yanchi_
+_Context: Ningxia Hui, green wall, desertification, Yanchi_
 
 ## [Previous Day...](/news/2010/03/30/index.md)
 

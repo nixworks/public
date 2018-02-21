@@ -13,11 +13,11 @@ Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies
 
 ##### ISIL
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Abu Mutaz al-Qurashi, ISIL, United States, Mosul, ISIL, U.S. airstrikes_
+_Context: U.S. airstrikes, United States, Abu Mutaz al-Qurashi, ISIL, ISIL, Mosul_
 
 ##### Israeli-Palestinian conflict
 ### [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md)
-_Context: Palestinians, Israeli Army, Israeli-Palestinian conflict_
+_Context: Israeli-Palestinian conflict, Palestinians, Israeli Army_
 
 ##### Taunsa Sharif bombing
 ### [A suicide bomb kills at least seven people and injures 13 others in Pakistan's Punjab province inside the political office of Pakistan Muslim League MNA Sardar Amjad Farooq Khan Khosa, who was not present. Sardar Khosa, who is attending a meeting in Islamabad, said he did not receive any threat or alert prior to the blast. A Taliban splinter group, Tehreek-e-Taliban Pakistan Jamaat-ul-Ahrar, claims responsibility for the attack. ](/news/2015/10/14/a-suicide-bomb-kills-at-least-seven-people-and-injures-13-others-in-pakistanas-punjab-province-inside-the-political-office-of-pakistan-mus.md)

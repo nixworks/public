@@ -9,7 +9,7 @@ _Context: run-off election, presidential election, Afghan_
 
 ##### Canon laws
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
-_Context: Anglican, Pope Benedict XVI, Holy See, Catholic Church, canon laws_
+_Context: Holy See, Catholic Church, canon laws, Pope Benedict XVI, Anglican_
 
 ##### Yemen
 ### [ A court in Yemen sentences 10 Shi'ite Houthi rebels to death and jailed five others over clashes which killed hundreds of people last year. ](/news/2009/10/20/a-court-in-yemen-sentences-10-shi-ite-houthi-rebels-to-death-and-jailed-five-others-over-clashes-which-killed-hundreds-of-people-last-year.md)
@@ -17,7 +17,7 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 
 ##### North Korea
 ### [ Nine North Koreans who entered the Danish embassy in Hanoi, Vietnam, last month leave for South Korea. ](/news/2009/10/20/nine-north-koreans-who-entered-the-danish-embassy-in-hanoi-vietnam-last-month-leave-for-south-korea.md)
-_Context: Vietnam, South Korea, Hanoi, Denmark, North Korea_
+_Context: North Korea, South Korea, Hanoi, Vietnam, Denmark_
 
 ##### Richard Herman
 ### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md)
@@ -33,11 +33,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Niger
 ### [ Niger is suspended by the Economic Community of West African States (ECOWAS) after its President Tandja Mamadou went ahead with a parliamentary election it had asked to be postponed over boycotts. ](/news/2009/10/20/niger-is-suspended-by-the-economic-community-of-west-african-states-ecowas-after-its-president-tandja-mamadou-went-ahead-with-a-parliamen.md)
-_Context: Tandja Mamadou, parliamentary election, Nigerien President, ECOWAS, Niger_
+_Context: Nigerien President, Niger, parliamentary election, ECOWAS, Tandja Mamadou_
 
 ##### Bomb explosions
 ### [ At least four students are killed and many injured in bomb explosions at an Islamic university in Islamabad, Pakistan. ](/news/2009/10/20/at-least-four-students-are-killed-and-many-injured-in-bomb-explosions-at-an-islamic-university-in-islamabad-pakistan.md)
-_Context: bomb explosions, Islamic university, Islamabad_
+_Context: bomb explosions, Islamabad, Islamic university_
 
 ##### Piracy off the coast of Somalia
 ### [ China pledges to rescue the crew aboard the Chinese ship "De Xin Hai" after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pirat.md)

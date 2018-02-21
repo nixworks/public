@@ -9,11 +9,11 @@ _Context: European Union, Essen, European Capital of Culture_
 
 ##### Suicide attack
 ### [ A suspected suicide bomber detonates a bomb at a religious gathering in Karachi, Pakistan, killing at least 47 and injuring more than 80 celebrating Mawlid al-Nabi. ](/news/2006/04/11/a-suspected-suicide-bomber-detonates-a-bomb-at-a-religious-gathering-in-karachi-pakistan-killing-at-least-47-and-injuring-more-than-80-ce.md)
-_Context: Karachi, Mawlid al-Nabi, suicide attack_
+_Context: suicide attack, Mawlid al-Nabi, Karachi_
 
 ##### Bernardo Provenzano
 ### [ Bernardo Provenzano, boss of the Sicilian Mafia ("capo di tutti i capi"), is caught near the town of Corleone. ](/news/2006/04/11/bernardo-provenzano-boss-of-the-sicilian-mafia-capo-di-tutti-i-capi-is-caught-near-the-town-of-corleone.md)
-_Context: Sicily, Mafia, Bernardo Provenzano, Corleone_
+_Context: Corleone, Bernardo Provenzano, Mafia, Sicily_
 
 ##### Venus Express
 ### [ The "Venus Express" spacecraft of the European Space Agency approaches Venus approximately five months after it was launched and starts its main engine burn to slow itself down and allow the capture into orbit around Venus. ](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-space-agency-approaches-venus-approximately-five-months-after-it-was-launched-and-starts-its.md)
@@ -25,7 +25,7 @@ _Context: claymore, Trincomalee, Sri Lankan Navy, Sri Lankan Civil War_
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad announces that Iran has successfully enriched uranium. In a televised address from the northeastern city of Mashhad, Ahmadinejad said "I am officially announcing that Iran has joined the group of those countries which have nuclear technology". ](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.md)
-_Context: Mashhad, President, Iran, Mahmoud Ahmadinejad, enriched uranium_
+_Context: enriched uranium, President, Mashhad, Mahmoud Ahmadinejad, Iran_
 
 ## [Previous Day...](/news/2006/04/10/index.md)
 

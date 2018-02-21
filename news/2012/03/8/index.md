@@ -37,11 +37,11 @@ Floodwaters spread in New South Wales, cutting the town of Forbes in three, as A
 
 ##### University of Pittsburgh Medical Center
 ### [A gunman kills one person and injures seven others before himself being shot dead at the University of Pittsburgh Medical Center's Western Psychiatric Institute & Clinic in Pittsburgh, Pennsylvania. ](/news/2012/03/8/a-gunman-kills-one-person-and-injures-seven-others-before-himself-being-shot-dead-at-the-university-of-pittsburgh-medical-center-s-western-p.md)
-_Context: Pittsburgh, Pennsylvania, University of Pittsburgh Medical Center_
+_Context: Pennsylvania, Pittsburgh, University of Pittsburgh Medical Center_
 
 ##### Los Angeles Police Department
 ### [Former Los Angeles Police Department detective Stephanie Lazarus is found guilty of a high profile 1986 murder. ](/news/2012/03/8/former-los-angeles-police-department-detective-stephanie-lazarus-is-found-guilty-of-a-high-profile-1986-murder.md)
-_Context: Los Angeles Police Department, Stephanie Lazarus_
+_Context: Stephanie Lazarus, Los Angeles Police Department_
 
 ##### Debris field
 ### [The first full map of the debris field of the remains of the Titanic is announced. ](/news/2012/03/8/the-first-full-map-of-the-debris-field-of-the-remains-of-the-titanic-is-announced.md)

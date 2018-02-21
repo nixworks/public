@@ -29,7 +29,7 @@ _Context: an outbreak of legionnaires disease in New York City_
 
 ##### Government of Cambodia
 ### [The Government of Cambodia claims that the Royal Thai Army has killed five Cambodians since January. ](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.md)
-_Context: Cambodian, Royal Thai Army, Government of Cambodia_
+_Context: Royal Thai Army, Government of Cambodia, Cambodian_
 
 ##### Pensacola
 ### [Police claim that a triple murder in Pensacola, Florida is linked to witchcraft and the blue moon. ](/news/2015/08/5/police-claim-that-a-triple-murder-in-pensacola-florida-is-linked-to-witchcraft-and-the-blue-moon.md)

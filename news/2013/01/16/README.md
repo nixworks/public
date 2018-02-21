@@ -23,7 +23,7 @@ A suicide bomb attack on the Afghan National Directorate of Security building in
 ### [Boeing 787 aircraft are grounded worldwide over concerns about the safety of their lithium-ion batteries. ](/news/2013/01/16/boeing-787-aircraft-are-grounded-worldwide-over-concerns-about-the-safety-of-their-lithium-ion-batteries.md)
 European safety regulatorswill follow the United States in ordering the grounding ofBoeing 787 Dreamliners amid battery safety concerns, aspokesman said early on Thursday.
 
-##### Canadian
+##### Canada
 ### [Canadian Cirque du Soleil cuts 400 jobs as strong loonie and surging costs bite. ](/news/2013/01/16/canadian-cirque-du-soleil-cuts-400-jobs-as-strong-loonie-and-surging-costs-bite.md)
 Canadian cultural institution hit by strong dollar, global economic slowdown
 
@@ -37,7 +37,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 ##### Organized crime from Russia
 ### [Russian mafia boss Aslan Usoyan is killed in Moscow. ](/news/2013/01/16/russian-mafia-boss-aslan-usoyan-is-killed-in-moscow.md)
-_Context: Aslan Usoyan, Moscow, organized crime from Russia_
+_Context: organized crime from Russia, Moscow, Aslan Usoyan_
 
 ##### Jutiapa
 ### [Carlos Castillo Medrano, the mayor of Jutiapa, Guatemala, is shot and killed by unidentified assailants. ](/news/2013/01/16/carlos-castillo-medrano-the-mayor-of-jutiapa-guatemala-is-shot-and-killed-by-unidentified-assailants.md)

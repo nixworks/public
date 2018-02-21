@@ -13,7 +13,7 @@ At least 115 fighters of militant Islamist group al-Shabab are killed in heavy f
 
 ##### Aftermath of the Brussels bombings
 ### [ Belgian prosecutors release Faycal C., a man charged in connection with last week's deadly Brussels bombings. The prosecutor's office says the evidence which led to his arrest has not been backed up by the ongoing investigation. ](/news/2016/03/28/belgian-prosecutors-release-faycal-c-a-man-charged-in-connection-with-last-week-s-deadly-brussels-bombings-the-prosecutor-s-office-says.md)
-_Context: Brussels, Aftermath of the Brussels bombings, Belgian prosecutors_
+_Context: Aftermath of the Brussels bombings, Belgian prosecutors, Brussels_
 
 ##### 2016 Lahore suicide bombing
 ### [ Pakistan officials tell Reuters its forces will launch a paramilitary crackdown on Islamist militants in Punjab. Sunday's attack was Taliban-affiliated Jamaat-ul-Ahrar's fifth bombing since December. ](/news/2016/03/28/pakistan-officials-tell-reuters-its-forces-will-launch-a-paramilitary-crackdown-on-islamist-militants-in-punjab-sunday-s-attack-was-taliba.md)
@@ -29,7 +29,7 @@ Flights arriving at Gatwick Airport are diverted and drivers are warned of sever
 
 ##### Alaska
 ### [ The Alaska village of Nelson Lagoon is coated in volcanic ash after an especially vigorous and ongoing eruption of Mount Pavlof. ](/news/2016/03/28/the-alaska-village-of-nelson-lagoon-is-coated-in-volcanic-ash-after-an-especially-vigorous-and-ongoing-eruption-of-mount-pavlof.md)
-_Context: Mount Pavlof, Nelson Lagoon, Alaska, tephra_
+_Context: Nelson Lagoon, Mount Pavlof, tephra, Alaska_
 
 ##### China-Japan relations
 ### [ As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.md)
@@ -37,7 +37,7 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 
 ##### Saudi-led intervention in Yemen
 ### [ A Saudi coalition says it's traded 109 Yemeni prisoners for nine captive Saudis. ](/news/2016/03/28/a-saudi-coalition-says-it-s-traded-109-yemeni-prisoners-for-nine-captive-saudis.md)
-_Context: Saudi-led intervention in Yemen, Yemen, Saudi Arabia_
+_Context: Yemen, Saudi Arabia, Saudi-led intervention in Yemen_
 
 ##### Cleaver
 ### [ A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.md)
@@ -65,7 +65,7 @@ SALEM, N.C. (Reuters) - Transgender people barred under a new North Carolina law
 
 ##### Ferguson unrest
 ### [ A Missouri court strikes down parts of a law, meant to address concerns raised after the police shooting of Michael Brown in Ferguson, Missouri, that limit cities' ability to profit from traffic tickets and court fines. The judge wrote the law unconstitutionally targeted St. Louis-area municipalities with caps on revenues from traffic fines that were lower than other cities in the state. ](/news/2016/03/28/a-missouri-court-strikes-down-parts-of-a-law-meant-to-address-concerns-raised-after-the-police-shooting-of-michael-brown-in-ferguson-miss.md)
-_Context: traffic ticket, Missouri court, Ferguson, Missouri, court fines, St. Louis-area municipalities, shooting of Michael Brown, Ferguson unrest_
+_Context: St. Louis-area municipalities, Ferguson, Missouri, traffic ticket, Ferguson unrest, court fines, Missouri court, shooting of Michael Brown_
 
 ##### Parliament's
 ### [ Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punja.md)

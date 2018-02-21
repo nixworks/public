@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/3/index.html)  [JSON](2010/10/3/index.json)  [XML](2010/
 
 ##### Taliban
 ### [Security forces eliminated 25 Taliban militants in their former stronghold Nad Ali district of southern Helmand Province of Afghanistan. ](/news/2010/10/3/security-forces-eliminated-25-taliban-militants-in-their-former-stronghold-nad-ali-district-of-southern-helmand-province-of-afghanistan.md)
-_Context: Helmand Province, Afghan, Nad Ali, Taliban_
+_Context: Helmand Province, Taliban, Nad Ali, Afghan_
 
 ##### Paktika Province
 ### [A roadside bomb strikes a civilian car in Paktika Province, in eastern Afghanistan, leaving seven civilians dead. ](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.md)
@@ -13,11 +13,11 @@ _Context: Paktika Province, Afghan_
 
 ##### NATO
 ### [Twelve people were killed and seven injured after individuals opened fire at NATO oil tankers near the Defence Housing Authority, in Rawalpindi, Pakistan. ](/news/2010/10/3/twelve-people-were-killed-and-seven-injured-after-individuals-opened-fire-at-nato-oil-tankers-near-the-defence-housing-authority-in-rawalpi.md)
-_Context: Defence Housing Authority, NATO, Rawalpindi_
+_Context: Defence Housing Authority, Rawalpindi, NATO_
 
 ##### Al-Qaida
 ### [In a second audio recording in 24 hours, Al-Qaida leader Osama bin Laden says Muslim nations haven't done enough to support relief efforts in flood-hit Pakistan. ](/news/2010/10/3/in-a-second-audio-recording-in-24-hours-al-qaida-leader-osama-bin-laden-says-muslim-nations-haven-t-done-enough-to-support-relief-efforts-i.md)
-_Context: Muslim, Al-Qaida, Osama bin Laden_
+_Context: Osama bin Laden, Muslim, Al-Qaida_
 
 ##### Israel
 ### [An Israeli military tribunal convicts two Israeli soldiers for using a Palestinian child as a human shield during an offensive in Gaza in 2009, said to be the first conviction of its kind in Israel's history. ](/news/2010/10/3/an-israeli-military-tribunal-convicts-two-israeli-soldiers-for-using-a-palestinian-child-as-a-human-shield-during-an-offensive-in-gaza-in-20.md)
@@ -41,13 +41,13 @@ _Context: UNESCO, Venice, world heritage site_
 
 ##### Adolf Hitler
 ### [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md)
-_Context: Foreign Minister, World War II, Cornish, German invasion of Britain, Adolf Hitler, Joachim von Ribbentrop_
+_Context: German invasion of Britain, Cornish, Joachim von Ribbentrop, World War II, Adolf Hitler, Foreign Minister_
 
 ##### 
 ### [Six people were killed and five injured Sunday after a wall of a factory building under construction collapsed in east China's Shandong Province. ](/news/2010/10/3/six-people-were-killed-and-five-injured-sunday-after-a-wall-of-a-factory-building-under-construction-collapsed-in-east-china-s-shandong-prov.md)
 ##### Guizhou
 ### [Five people were killed and four others were injured in a colliery explosion in southwest China's Guizhou Province. The accident was reported at Huanghegou pit in Xixiu District of Anshun City. ](/news/2010/10/3/five-people-were-killed-and-four-others-were-injured-in-a-colliery-explosion-in-southwest-china-s-guizhou-province-the-accident-was-reporte.md)
-_Context: Anshun, Guizhou, Xixiu, Huanghegou_
+_Context: Xixiu, Guizhou, Anshun, Huanghegou_
 
 ##### Atush
 ### [Rain-triggered floods killed four people and left two others missing Sunday in Atush city in northwest China's Xinjiang Uyghur Autonomous Region. ](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.md)
@@ -55,7 +55,7 @@ _Context: Atush, Xinjiang_
 
 ##### Central Vietnam
 ### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in QuGBPng Binh Province and one in QuGBPng Tri Province, while two individuals were injured in [a Tinh and QuGBPng Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaogbpng-ba-nh-province-and-one-in-quaogb.md)
-_Context: central Vietnam, QuGBPng Tri, QuGBPng Binh Province, Ha Tinh Province_
+_Context: central Vietnam, QuGBPng Binh Province, Ha Tinh Province, QuGBPng Tri_
 
 ##### Guzelburc
 ### [An explosion rips through a leather workshop in the town of Guzelburc in Hatay Province, Turkey, killing 3 people and injuring 5 others. ](/news/2010/10/3/an-explosion-rips-through-a-leather-workshop-in-the-town-of-ga1-4zelburass-in-hatay-province-turkey-killing-3-people-and-injuring-5-others.md)
@@ -99,7 +99,7 @@ Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been ar
 
 ##### Brazil
 ### [Voters in Brazil go to the polls in a presidential election with a runoff election likely between Dilma Rousseff of the Workers' Party and Jose Serra of the Brazilian Social Democratic Party. ](/news/2010/10/3/voters-in-brazil-go-to-the-polls-in-a-presidential-election-with-a-runoff-election-likely-between-dilma-rousseff-of-the-workers-party-and-j.md)
-_Context: runoff election, Brazilian presidential election, Jose Serra, Brazil, Brazil Workers' Party, Brazilian Social Democratic Party, Dilma Rousseff_
+_Context: Dilma Rousseff, Jose Serra, Brazilian presidential election, runoff election, Brazil, Brazilian Social Democratic Party, Brazil Workers' Party_
 
 ##### Bosnia and Herzegovina
 ### [Voters in Bosnia and Herzegovina go to the polls in a general election. ](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.md)

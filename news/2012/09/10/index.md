@@ -13,19 +13,19 @@ Said al-Shihri, described as the second-in-command of al-Qaeda in the Arabian Pe
 
 ##### Kunduz
 ### [A suicide bombing in Kunduz, Afghanistan, kills at least 16 people; a local doctor says "21 or more". ](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.md)
-_Context: Kunduz, Afghan_
+_Context: Afghan, Kunduz_
 
 ##### National September 11 Memorial & Museum
 ### [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md)
-_Context: National September 11 Memorial & Museum, Ground Zero, New York City_
+_Context: New York City, National September 11 Memorial & Museum, Ground Zero_
 
 ##### Union
 ### [Teachers in Chicago go on strike. Around 350,000 students are affected. ](/news/2012/09/10/teachers-in-chicago-go-on-strike-around-350-000-students-are-affected.md)
-_Context: Chicago, union_
+_Context: union, Chicago_
 
 ##### South Africa
 ### [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md)
-_Context: Rustenburg, Gold Fields, North West province, Bojanala Platinum district, South Africa, Lonmin, Marikana, Driefontein_
+_Context: Marikana, Driefontein, South Africa, Bojanala Platinum district, Rustenburg, Lonmin, North West province, Gold Fields_
 
 ##### Vietnam
 ### [Floods and landslides caused by heavy rain kill at least 29 people in northern and central Vietnam. ](/news/2012/09/10/floods-and-landslides-caused-by-heavy-rain-kill-at-least-29-people-in-northern-and-central-vietnam.md)
@@ -45,15 +45,15 @@ WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially
 
 ##### Yukiya Amano
 ### [Yukiya Amano, the head of the International Atomic Energy Agency (IAEA), urges Iran to grant IAEA inspectors immediate access to its contentious suspected nuclear facility in Parchin. ](/news/2012/09/10/yukiya-amano-the-head-of-the-international-atomic-energy-agency-iaea-urges-iran-to-grant-iaea-inspectors-immediate-access-to-its-content.md)
-_Context: IAEA inspectors, nuclear program, Parchin, IAEA, Iran, contentious, Yukiya Amano_
+_Context: Yukiya Amano, contentious, IAEA, IAEA inspectors, Iran, Parchin, nuclear program_
 
 ##### Japanese government
 ### [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md)
-_Context: Taiwan, government, Chinese, Japanese government, Senkaku Islands dispute, Senkaku Islands_
+_Context: Taiwan, Chinese, government, Japanese government, Senkaku Islands, Senkaku Islands dispute_
 
 ##### International Steering Group for Kosovo
 ### [The International Steering Group for Kosovo formally ends its supervision of the partially recognised Republic of Kosovo. ](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.md)
-_Context: International Steering Group for Kosovo, Kosovo_
+_Context: Kosovo, International Steering Group for Kosovo_
 
 ##### Bazooka grenade
 ### [Three boys aged eight and nine are killed when a bazooka grenade, left over from a war in Cambodia, explodes. ](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-a-bazooka-grenade-left-over-from-a-war-in-cambodia-explodes.md)
@@ -65,11 +65,11 @@ Iraqis have been reacting to yesterdayâ€™s death sentence handed to the countryâ
 
 ##### Ministry of health
 ### [According to a parliamentary answer by the ministry of health, the value of a life lost during a clinical trial is 2.2 lakh rupees ($ 4,000) in India in 2011. This number is the average compensation paid for deaths during clinical trials. No rules governing compensations for clinical trial-related injury or death have been approved by the Parliament of India yet. ](/news/2012/09/10/according-to-a-parliamentary-answer-by-the-ministry-of-health-the-value-of-a-life-lost-during-a-clinical-trial-is-2-2-lakh-rupees-4-000.md)
-_Context: Parliament of India, value, clinical trial, lakh, rupee, India, ministry of health_
+_Context: lakh, India, value, Parliament of India, ministry of health, clinical trial, rupee_
 
 ##### Federal Parliament of Somalia
 ### [Members of the new Somali Parliament elect Hassan Sheikh Mohamoud President. ](/news/2012/09/10/members-of-the-new-somali-parliament-elect-hassan-sheikh-mohamoud-president.md)
-_Context: President, Hassan Sheikh Mohamoud, Federal Parliament of Somalia, newly elected president_
+_Context: Federal Parliament of Somalia, President, Hassan Sheikh Mohamoud, newly elected president_
 
 ##### Markandey Katju
 ### [Chairman Justice Markandey Katju of the Press Council of India, defends Aseem Trivedi: "he did nothing illegal". Since September 9th, the Indian cartoonist Aseem Trivedi is detained in Mumbai on charges of sedition related to the content of his work. ](/news/2012/09/10/chairman-justice-markandey-katju-of-the-press-council-of-india-defends-aseem-trivedi-he-did-nothing-illegal-since-september-9th-the-in.md)

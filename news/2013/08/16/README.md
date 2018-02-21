@@ -9,11 +9,11 @@ Security in Cairo tightened amid Friday prayers and protest marches called by th
 
 ##### Yemen
 ### [Yemen changes its weekend from Thursday and Friday to Friday and Saturday. ](/news/2013/08/16/yemen-changes-its-weekend-from-thursday-and-friday-to-friday-and-saturday.md)
-_Context: Thursday, Yemen, Friday, Saturday_
+_Context: Yemen, Saturday, Thursday, Friday_
 
 ##### India
 ### [The Indian rupee hits new record low against the US dollar. The rupee fell to 62.03 rupees against the dollar. ](/news/2013/08/16/the-indian-rupee-hits-new-record-low-against-the-us-dollar-the-rupee-fell-to-62-03-rupees-against-the-dollar.md)
-_Context: India, rupee, US dollar_
+_Context: India, US dollar, rupee_
 
 ##### Magnitude 6.5 earthquake
 ### [A magnitude 6.5 earthquake strikes near Seddon, New Zealand, causing moderate damage in the wider Marlborough region and national capital Wellington. ](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.md)
@@ -29,7 +29,7 @@ U.S. may lose $4 billion fighter jet deal
 
 ##### Ali Akbar Salehi
 ### [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md)
-_Context: foreign minister, Ali Akbar Salehi, Iran nuclear chief_
+_Context: Ali Akbar Salehi, foreign minister, Iran nuclear chief_
 
 ##### Area 51
 ### [The infamous Area 51 is officially acknowledged by the United States. ](/news/2013/08/16/the-infamous-area-51-is-officially-acknowledged-by-the-united-states.md)
@@ -37,7 +37,7 @@ _Context: Area 51, United States_
 
 ##### East Central University
 ### [Australian native and East Central University (Oklahoma) Tigers senior baseball player Christopher Lane, 22, is shot and killed in Ada, Oklahoma, while jogging during a visit to his girlfriend. Two teenagers, James Francis Edwards, Jr., 15, and Chancey Allen Luna, 16, were then arrested and charged with first-degree murder with no bail; Michael Dewayne Jones, 17, was charged with being an accessory to murder after the fact. They stated they did it purely out of boredom. ](/news/2013/08/16/australian-native-and-east-central-university-oklahoma-tigers-senior-baseball-player-christopher-lane-22-is-shot-and-killed-in-ada-okla.md)
-_Context: accessory to murder after the fact, Ada, Oklahoma, East Central University, Oklahoma_
+_Context: East Central University, accessory to murder after the fact, Ada, Oklahoma, Oklahoma_
 
 ## [Previous Day...](/news/2013/08/15/index.md)
 

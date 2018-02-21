@@ -17,23 +17,23 @@ RTÉ News has learned that the three Irishmen who were found guilty of training 
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Al-Arabiya television broadcasts video footage shot by al-Qaeda which appears to show the downing of a US Chinook helicopter in Afghanistan. ](/news/2005/08/5/conflict-in-afghanistan-al-arabiya-television-broadcasts-video-footage-shot-by-al-qaeda-which-appears-to-show-the-downing-of-a-us-chinook.md)
-_Context: War in Afghanistan (2001-present), Al-Arabiya, al-Qaeda, Chinook helicopter, Afghan_
+_Context: al-Qaeda, War in Afghanistan (2001-present), Al-Arabiya, Chinook helicopter, Afghan_
 
 ##### Yahoo!
 ### [ Yahoo! has introduced a test version of a new search service Yahoo! Audio Search that it claims can comb through 50 million music, voice and other audio files. ](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.md)
-_Context: Yahoo!, Yahoo! Audio Search_
+_Context: Yahoo! Audio Search, Yahoo!_
 
 ##### Earthquake
 ### [ An earthquake in Papua, Indonesia, reached 6.0 on the Richter scale. There are no reports of casualties.](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.md)
-_Context: Richter scale, earthquake, Indonesia, Papua_
+_Context: Indonesia, Richter scale, earthquake, Papua_
 
 ##### Newmont Minahasa Raya
 ### [ Newmont Minahasa Raya, a local subsidiary of U.S. mining giant Newmont Mining, and its executive Richard Ness, go on trial in North Sulawesi accused of polluting a Buyat Bay near its mine in Indonesia. ](/news/2005/08/5/newmont-minahasa-raya-a-local-subsidiary-of-u-s-mining-giant-newmont-mining-and-its-executive-richard-ness-go-on-trial-in-north-sulawes.md)
-_Context: mine, Buyat Bay, Indonesia, Newmont Mining, Sulawesi island, Newmont Minahasa Raya, subsidiary_
+_Context: Newmont Minahasa Raya, subsidiary, Indonesia, Sulawesi island, Buyat Bay, Newmont Mining, mine_
 
 ##### China
 ### [ The People's Republic of China formally charges Hong Kong reporter Ching Cheong, journalist for "The Straits Times", of spying. ](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.md)
-_Context: spying, Ching Cheong, The Straits Times, Hong Kong, China_
+_Context: spying, The Straits Times, Hong Kong, Ching Cheong, China_
 
 ##### Typhoon Matsa
 ### [ Typhoon Matsa hits Taiwan ](/news/2005/08/5/typhoon-matsa-hits-taiwan.md)

@@ -17,7 +17,7 @@ Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morni
 
 ##### Jose Eduardo Agualusa
 ### [Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel "A General Theory of Oblivion". (](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.md)
-_Context: Jose Eduardo Agualusa, International Dublin Literary Award, A General Theory of Oblivion_
+_Context: Jose Eduardo Agualusa, A General Theory of Oblivion, International Dublin Literary Award_
 
 ##### 2017 United Kingdom heat wave
 ### [ The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-yea.md)
@@ -41,7 +41,7 @@ Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising po
 
 ##### Politics of Romania
 ### [After a short term political crisis, started when the governing PSD retracted its support, the Parliament of Romania passes a no confidence motion against the government led by former PSD Prime Minister Sorin Grindeanu. ](/news/2017/06/21/after-a-short-term-political-crisis-started-when-the-governing-psd-retracted-its-support-the-parliament-of-romania-passes-a-no-confidence.md)
-_Context: Parliament of Romania, Politics of Romania, PSD, Prime Minister, Sorin Grindeanu, no confidence motion_
+_Context: no confidence motion, Prime Minister, PSD, Sorin Grindeanu, Politics of Romania, Parliament of Romania_
 
 ##### Second Philippe Government
 ### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)

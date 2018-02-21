@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/29/index.html)  [JSON](2012/08/29/index.json)  [XML](201
 
 ##### Russia
 ### [Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
-_Context: slaughters, United Nations, Arab League, Russia_
+_Context: slaughters, Russia, Arab League, United Nations_
 
 ##### Soldiers
 ### [Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-uniform-in-oruzgan-provinc.md)
@@ -17,19 +17,19 @@ Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;
 
 #####  Georgian
 ### [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md)
-_Context: Russia, Dagestan, North Caucasus,  Georgian_
+_Context:  Georgian, Russia, North Caucasus, Dagestan_
 
 ##### Operation Eagle
 ### [With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. ](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.md)
-_Context: Sinai, Egyptian Army, attack, Operation Eagle_
+_Context: attack, Operation Eagle, Sinai, Egyptian Army_
 
 ##### Gazprom
 ### [Gazprom completes building the second leg of the Nord Stream natural gas pipeline connecting Russia, Germany and neighbouring countries. ](/news/2012/08/29/gazprom-completes-building-the-second-leg-of-the-nord-stream-natural-gas-pipeline-connecting-russia-germany-and-neighbouring-countries.md)
-_Context: Russia, Nord Stream, German, Gazprom_
+_Context: German, Gazprom, Russia, Nord Stream_
 
 ##### Serious Fraud Office
 ### [The UK's Serious Fraud Office launches an investigation into payments between Barclays and Qatar Holding LLC after Barclays sought investment from the latter during the financial crisis in 2008. ](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.md)
-_Context: Serious Fraud Office, Qatar Holding LLC, Barclays, financial crisis in 2008_
+_Context: financial crisis in 2008, Serious Fraud Office, Barclays, Qatar Holding LLC_
 
 ##### Hurricane Isaac
 ### [Hurricane Isaac arrives in the US city of New Orleans on the seventh anniversary of Hurricane Katrina hitting the city. Damage is limited. ](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.md)
@@ -37,7 +37,7 @@ Hurricane Isaac dumped heavy rains on the U.S. Gulf Coast and caused widespread 
 
 ##### UN Secretary General
 ### [UN Secretary General Ban Ki-Moon expresses "serious concerns on the human rights abuses and violations" in Iran at the meeting of non-aligned nations being held in Teheran. ](/news/2012/08/29/un-secretary-general-ban-ki-moon-expresses-serious-concerns-on-the-human-rights-abuses-and-violations-in-iran-at-the-meeting-of-non-aligne.md)
-_Context: UN Secretary General, Ban Ki-Moon, 16th Summit of the Non-Aligned Movement, Iranian human rights_
+_Context: 16th Summit of the Non-Aligned Movement, UN Secretary General, Iranian human rights, Ban Ki-Moon_
 
 ##### Japan
 ### [Japan and North Korea hold their first talks in four years in Beijing. ](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.md)
@@ -45,7 +45,7 @@ Government officials from Japan and North Korea meet in Beijing for their first 
 
 ##### Hu Jintao
 ### [President Hu officially receives Egypt's president Morsi, who is in China for in-depth discussion and cooperation talks. ](/news/2012/08/29/president-hu-officially-receives-egypt-s-president-morsi-who-is-in-china-for-in-depth-discussion-and-cooperation-talks.md)
-_Context: Mohamed Morsi, Hu Jintao, Chinese_
+_Context: Chinese, Mohamed Morsi, Hu Jintao_
 
 ##### Tomas Yarrington
 ### [A judge orders the arrest of Tomas Yarrington, a former governor of the Mexican state of Tamaulipas, for allegedly fomenting drug trafficking. ](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.md)

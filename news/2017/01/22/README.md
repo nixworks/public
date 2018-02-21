@@ -21,7 +21,7 @@ Seven of those killed were in a Georgia trailer park apparently struck by a torn
 
 ##### Mauritian Prime Minister
 ### [Mauritian Prime Minister Anerood Jugnauth announces his intention to resign on Monday and hand power over to his son, Pravind Jugnauth. ](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.md)
-_Context: Anerood Jugnauth, Pravind Jugnauth, Mauritian Prime Minister_
+_Context: Pravind Jugnauth, Mauritian Prime Minister, Anerood Jugnauth_
 
 ##### Israeli settlement
 ### [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md)

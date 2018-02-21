@@ -9,7 +9,7 @@ _Context: Mal, Maldives, explodes_
 
 ##### Yangon
 ### [ Shortly after his scheduled arrival at Yangon, it was reported that Ibrahim Gambari, the UN Secretary-General's special adviser on Burma, had arrived in Naypyidaw to talk with the junta leaders. ](/news/2007/09/29/shortly-after-his-scheduled-arrival-at-yangon-it-was-reported-that-ibrahim-gambari-the-un-secretary-general-s-special-adviser-on-burma-h.md)
-_Context: Ibrahim Gambari, Naypyidaw, Yangon_
+_Context: Ibrahim Gambari, Yangon, Naypyidaw_
 
 ##### Iran
 ### [ Iran declares the US Army and CIA, "terrorist organisations", countering claims by America about their own armed forces. ](/news/2007/09/29/iran-declares-the-us-army-and-cia-terrorist-organisations-countering-claims-by-america-about-their-own-armed-forces.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/3/index.html)  [JSON](2013/12/3/index.json)  [XML](2013/
 
 ##### Russia
 ### [Russian ballet dancer Pavel Dmitrichenko is convicted of organizing an acid attack on Sergei Filin, artistic director of the Bolshoi Theatre. ](/news/2013/12/3/russian-ballet-dancer-pavel-dmitrichenko-is-convicted-of-organizing-an-acid-attack-on-sergei-filin-artistic-director-of-the-bolshoi-theatre.md)
-_Context: Pavel Dmitrichenko, Russia, ballet dancer, Bolshoi Theatre, Sergei Filin_
+_Context: Russia, Pavel Dmitrichenko, Bolshoi Theatre, ballet dancer, Sergei Filin_
 
 ##### Inquiry
 ### [An inquiry into the 1989 Jonesborough ambush finds that members of the Garda Siochana colluded with the IRA in the shooting of two RUC officers as they crossed the Irish border. ](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.md)
@@ -29,7 +29,7 @@ The International Monetary Fund and European Union put an aid agreement with Rom
 
 ##### South Korea
 ### [Reports from South Korea claim that prominent North Korean powerbroker Jang Sung-taek has been sacked as the Vice-chairman of the National Defence Commission. ](/news/2013/12/3/reports-from-south-korea-claim-that-prominent-north-korean-powerbroker-jang-sung-taek-has-been-sacked-as-the-vice-chairman-of-the-national-d.md)
-_Context: National Defence Commission, North Korea, Jang Sung-taek, South Korea_
+_Context: South Korea, North Korea, National Defence Commission, Jang Sung-taek_
 
 ##### Chasmosaurus
 ### [An extremely well-preserved baby Chasmosaurus dinosaur fossil has been unearthed in Alberta, Canada. ](/news/2013/12/3/an-extremely-well-preserved-baby-chasmosaurus-dinosaur-fossil-has-been-unearthed-in-alberta-canada.md)

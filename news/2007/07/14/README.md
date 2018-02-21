@@ -5,19 +5,19 @@ Formats: [HTML](2007/07/14/index.html)  [JSON](2007/07/14/index.json)  [XML](200
 
 ##### Turkey
 ### [ Turkish Foreign Minister Abdullah Gl asked the US for an explanation of alleged delivery of weapons to the PKK terrorist group. Gl said that ties with Turkey-US would collapse if arms to PKK claims confirmed. ](/news/2007/07/14/turkish-foreign-minister-abdullah-gul-asked-the-us-for-an-explanation-of-alleged-delivery-of-weapons-to-the-pkk-terrorist-group-gul-said-t.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party_
 
 ##### Waziristan conflict (July 2007-present)
 ### [ Waziristan conflict (July 2007-present): At least 24 Pakistani soldiers are killed by a suicide attack by militants on a convoy in Waziristan near the Afghanistan border. ](/news/2007/07/14/waziristan-conflict-july-2007-present-at-least-24-pakistani-soldiers-are-killed-by-a-suicide-attack-by-militants-on-a-convoy-in-wazirist.md)
-_Context: suicide attack, Afghan, Waziristan conflict (July 2007-present), Waziristan, Pakistan, convoy_
+_Context: Pakistan, Waziristan, convoy, suicide attack, Afghan, Waziristan conflict (July 2007-present)_
 
 ##### Tamil Tigers
 ### [ Ten Sri Lankan soldiers die in fighting the Tamil Tigers in the Vavuniya district of northern Sri Lanka. ](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.md)
-_Context: Sri Lanka, Tamil Tigers, Vavuniya_
+_Context: Vavuniya, Sri Lanka, Tamil Tigers_
 
 ##### Roman Catholic Archdiocese of Los Angeles
 ### [ The Roman Catholic Archdiocese of Los Angeles settles sexual abuse claims against its clergy at a cost of $ 600 million. ](/news/2007/07/14/the-roman-catholic-archdiocese-of-los-angeles-settles-sexual-abuse-claims-against-its-clergy-at-a-cost-of-600-million.md)
-_Context: Roman Catholic Archdiocese of Los Angeles, sexual abuse, $, clergy_
+_Context: $, Roman Catholic Archdiocese of Los Angeles, clergy, sexual abuse_
 
 ##### Iran
 ### [ Iranian state radio reports that a South Korean flagged ship has sunk in the Sea of Oman off the coast of Iran with 13 crew members missing. ](/news/2007/07/14/iranian-state-radio-reports-that-a-south-korean-flagged-ship-has-sunk-in-the-sea-of-oman-off-the-coast-of-iran-with-13-crew-members-missing.md)
@@ -33,11 +33,11 @@ A shipment of fuel has arrived in North Korea - the first part of a deal to halt
 
 ##### Australian Federal Police
 ### [ The Australian Federal Police charge Dr. Mohamed Haneef with "providing support to a terrorist organization" in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. ](/news/2007/07/14/the-australian-federal-police-charge-dr-mohamed-haneef-with-providing-support-to-a-terrorist-organization-in-relation-to-the-2007-glasgo.md)
-_Context: 2007 attack, terrorist, Australian Federal Police, Mohamed Haneef, planned car bomb attacks_
+_Context: Mohamed Haneef, planned car bomb attacks, 2007 attack, terrorist, Australian Federal Police_
 
 ##### Royal Police
 ### [ The Royal Malaysian Police obtain a remand order to hold Nathaniel Tan for four days in connection to an investigation of a violation of section 8 of the Official Secrets Act, which pertains to "wrongful communication" of an official secret. ](/news/2007/07/14/the-royal-malaysian-police-obtain-a-remand-order-to-hold-nathaniel-tan-for-four-days-in-connection-to-an-investigation-of-a-violation-of-se.md)
-_Context: Official Secrets Act, Royal Police, Nathaniel Tan, remanded_
+_Context: remanded, Nathaniel Tan, Official Secrets Act, Royal Police_
 
 ## [Previous Day...](/news/2007/07/13/index.md)
 

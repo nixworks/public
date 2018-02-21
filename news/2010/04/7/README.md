@@ -37,7 +37,7 @@ Rains lash south a day after region witnesses its heaviest rainfall in 48 years.
 
 ##### Lake Kivu
 ### [At least six people die and at least twelve others are injured after a boat sinks in Lake Kivu while carrying people to commemorations to mark the 16th anniversary of the Rwandan Genocide. ](/news/2010/04/7/at-least-six-people-die-and-at-least-twelve-others-are-injured-after-a-boat-sinks-in-lake-kivu-while-carrying-people-to-commemorations-to-ma.md)
-_Context: Lake Kivu, Rwandan Genocide_
+_Context: Rwandan Genocide, Lake Kivu_
 
 ##### 7.7-magnitude earthquake
 ### [A 7.7-magnitude earthquake strikes northern Sumatra, Indonesia. ](/news/2010/04/7/a-7-7-magnitude-earthquake-strikes-northern-sumatra-indonesia.md)
@@ -49,15 +49,15 @@ The chief executive of a Sydney football club says he will ignore a ruling by th
 
 ##### Prime Minister
 ### [Prime Minister of Thailand Abhisit Vejjajiva, declares a state of emergency after widespread anti-government protests and shortly after demonstrators stormed the country's parliament. ](/news/2010/04/7/prime-minister-of-thailand-abhisit-vejjajiva-declares-a-state-of-emergency-after-widespread-anti-government-protests-and-shortly-after-demo.md)
-_Context: Abhisit Vejjajiva, National Assembly of Thailand, Prime Minister_
+_Context: National Assembly of Thailand, Prime Minister, Abhisit Vejjajiva_
 
 ##### Amnesty International
 ### [Amnesty International's Secretary-General sparks a furor by saying that "jihad in self-defense" is not "antithetical" to human rights. ](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks-a-furor-by-saying-that-ajihad-in-self-defensea-is-not-aantitheticala-to-human-rig.md)
-_Context: human rights, jihad, self-defense, Amnesty International_
+_Context: Amnesty International, self-defense, jihad, human rights_
 
 ##### Supreme Council of Antiquities
 ### [Sixteen countries attend a two-day conference organised by the Supreme Council of Antiquities in Cairo to discuss the retrieval of old items which were pillaged by other nations, such as the Rosetta Stone (held by the British Museum, London) and Queen Nefertitti's bust (held by the Neues Museum, Berlin). ](/news/2010/04/7/sixteen-countries-attend-a-two-day-conference-organised-by-the-supreme-council-of-antiquities-in-cairo-to-discuss-the-retrieval-of-old-items.md)
-_Context: Rosetta Stone, Berlin, London, Cairo, Nefertiti, Supreme Council of Antiquities, Neues Museum, British Museum_
+_Context: British Museum, Berlin, Supreme Council of Antiquities, Rosetta Stone, Cairo, Nefertiti, London, Neues Museum_
 
 ##### Grey Seal
 ### [A starving Grey Seal claiming to be from London Zoo is found in Skerries, Ireland. The Irish Seal Sanctuary asks the UK and Europe for help identifying it. ](/news/2010/04/7/a-starving-grey-seal-claiming-to-be-from-london-zoo-is-found-in-skerries-ireland-the-irish-seal-sanctuary-asks-the-uk-and-europe-for-help.md)
@@ -65,7 +65,7 @@ A young grey seal, with a London Zoo tag, has been found in Skerries and brought
 
 ##### Turkey
 ### [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md)
-_Context: Recep Tayyip Erdogan, Israel, Prime Minister, Middle East, Turkey_
+_Context: Prime Minister, Recep Tayyip Erdogan, Israel, Turkey, Middle East_
 
 ##### FC Barcelona
 ### [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md)

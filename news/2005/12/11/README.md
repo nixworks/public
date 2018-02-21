@@ -9,11 +9,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Chief minister
 ### [ Chief minister of the Indian state of Karnataka, Dharam Singh announced that the state government had accepted Jnanpith awardee U R Ananthamurthy's suggestion to rename Bangalore to its colloquial name, "Bengaluru". The new name will be effective from November 1, 2006. ](/news/2005/12/11/chief-minister-of-the-indian-state-of-karnataka-dharam-singh-announced-that-the-state-government-had-accepted-jnanpith-awardee-u-r-anantha.md)
-_Context: Jnanpith, Chief minister, Karnataka, colloquial, India, U R Ananthamurthy, Bangalore, Dharam Singh_
+_Context: Dharam Singh, Karnataka, Chief minister, India, colloquial, Jnanpith, U R Ananthamurthy, Bangalore_
 
 ##### Brian Chase
 ### [ Brian Chase of Nashville, Tennessee admits putting false information about John Seigenthaler Sr. into a Wikipedia article, leading to widespread debate. ](/news/2005/12/11/brian-chase-of-nashville-tennessee-admits-putting-false-information-about-john-seigenthaler-sr-into-a-wikipedia-article-leading-to-wides.md)
-_Context: Wikipedia, John Seigenthaler Sr., Nashville, Tennessee, Brian Chase_
+_Context: Nashville, Tennessee, Brian Chase, Wikipedia, John Seigenthaler Sr._
 
 ##### Suicide bombing
 ### [ A suicide bombing in Kandahar, Afghanistan, injures 3 people while killing the bomber. ](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injures-3-people-while-killing-the-bomber.md)
@@ -21,11 +21,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### 2005 Hertfordshire Oil Storage Terminal fire
 ### [ 2005 Hertfordshire Oil Storage Terminal fire: Explosions are reported at the Buncefield oil depot north of London ten miles from the Luton airport. ](/news/2005/12/11/2005-hertfordshire-oil-storage-terminal-fire-explosions-are-reported-at-the-buncefield-oil-depot-north-of-london-ten-miles-from-the-luton.md)
-_Context: Luton airport, Buncefield oil depot, London, 2005 Hertfordshire Oil Storage Terminal fire_
+_Context: London, Luton airport, Buncefield oil depot, 2005 Hertfordshire Oil Storage Terminal fire_
 
 ##### 2005 Cronulla riots
 ### [ Ethnically motivated violence erupts in the suburbs of Sydney, leading authorities to condemn the incidents as "shameful". ](/news/2005/12/11/ethnically-motivated-violence-erupts-in-the-suburbs-of-sydney-leading-authorities-to-condemn-the-incidents-as-shameful.md)
-_Context: Sydney, 2005 Cronulla riots, suburbs_
+_Context: Sydney, suburbs, 2005 Cronulla riots_
 
 ## [Previous Day...](/news/2005/12/10/index.md)
 

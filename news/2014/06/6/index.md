@@ -5,15 +5,15 @@ Formats: [HTML](2014/06/6/index.html)  [JSON](2014/06/6/index.json)  [XML](2014/
 
 ##### Abdullah Abdullah
 ### [Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-election-survives-a-bombing-attempt.md)
-_Context: Abdullah Abdullah, Afghan presidential election, 2014, National Coalition of Afghanistan_
+_Context: Afghan presidential election, 2014, National Coalition of Afghanistan, Abdullah Abdullah_
 
 ##### Russian President
 ### [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md)
-_Context: Ukrainian President-elect, eastern Ukraine, Petro Poroshenko, Vladimir Putin, Russian President_
+_Context: eastern Ukraine, Petro Poroshenko, Ukrainian President-elect, Vladimir Putin, Russian President_
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
-_Context: Mehsud, Tehreek-i-Taliban Pakistan, North Waziristan, Urmuz, Pakistan_
+_Context: Tehreek-i-Taliban Pakistan, Mehsud, North Waziristan, Urmuz, Pakistan_
 
 ##### Iraq
 ### [Attacks across Iraq kill 27 people. ](/news/2014/06/6/attacks-across-iraq-kill-27-people.md)
@@ -21,11 +21,11 @@ _Context: Iraq_
 
 ##### Normandy
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: France, Normandy, D-Day, Invasion of Normandy, World War II, Western Allies_
+_Context: Normandy, Western Allies, World War II, Invasion of Normandy, D-Day, France_
 
 ##### Nun
 ### [Nun turned singer Cristina Scuccia wins the seventh season of "The Voice of Italy". ](/news/2014/06/6/nun-turned-singer-cristina-scuccia-wins-the-seventh-season-of-the-voice-of-italy.md)
-_Context: Cristina Scuccia, The Voice of Italy, Nun_
+_Context: Cristina Scuccia, Nun, The Voice of Italy_
 
 ##### Vodafone Group Plc
 ### [Vodafone reveals that the governments of six countries have a permanent link to monitor communications throughout Vodafone's networks. ](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.md)
@@ -61,7 +61,7 @@ _Context: child pornography, Diet_
 
 ##### Prosecutors
 ### [Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. ](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.md)
-_Context: prosecutors, organs_
+_Context: organs, prosecutors_
 
 ## [Previous Day...](/news/2014/06/5/index.md)
 

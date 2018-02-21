@@ -13,7 +13,7 @@ _Context: Kiev, 50th Annual Eurovision Song Contest, Ukraine, Elena Paparizou, E
 
 ##### The Sun
 ### [ "The Sun", the largest selling British tabloid newspaper, publishes more surreptitiously taken pictures of Saddam Hussein, while claiming to condemn the leaking of the first photographs. Other pictures also published show the imprisoned Ali Hassan al-Majid ("Chemical Ali") and Huda Salih Mahdi Ammash ("Mrs Anthrax"). President Bush intervenes to support an investigation into the leaking of the photos. ](/news/2005/05/21/the-sun-the-largest-selling-british-tabloid-newspaper-publishes-more-surreptitiously-taken-pictures-of-saddam-hussein-while-claiming-t.md)
-_Context: Ali Hassan al-Majid, The Sun, Huda Salih Mahdi Ammash, tabloid, George W. Bush, Saddam Hussein, United Kingdom_
+_Context: Saddam Hussein, United Kingdom, The Sun, tabloid, George W. Bush, Huda Salih Mahdi Ammash, Ali Hassan al-Majid_
 
 ## [Previous Day...](/news/2005/05/20/index.md)
 

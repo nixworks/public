@@ -9,7 +9,7 @@ Senator Kennedy, a man who knew acclaim and tragedy in near-equal measure, will 
 
 ##### Lithuania
 ### [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. ](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects.md)
-_Context: Lithuania, al-Qaeda, CIA_
+_Context: Lithuania, CIA, al-Qaeda_
 
 ##### Moldova
 ### [ The government of Moldova announces that it will stand down before the opening of parliament on 28 August. ](/news/2009/08/26/the-government-of-moldova-announces-that-it-will-stand-down-before-the-opening-of-parliament-on-28-august.md)
@@ -21,7 +21,7 @@ _Context: ETA, France_
 
 ##### Iran
 ### [ The Iranian Supreme Leader Ali Khamenei says he has no evidence that opposition protests were backed by foreign countries. ](/news/2009/08/26/the-iranian-supreme-leader-ali-khamenei-says-he-has-no-evidence-that-opposition-protests-were-backed-by-foreign-countries.md)
-_Context: Supreme Leader, protests against the regime, Iran, Ali Khamenei_
+_Context: Ali Khamenei, Iran, Supreme Leader, protests against the regime_
 
 ##### Japan
 ### [ Japan's exports fall by 36.5% as demand falls. ](/news/2009/08/26/japan-s-exports-fall-by-36-5-as-demand-falls.md)
@@ -33,7 +33,7 @@ _Context: North Korea, Korean War, South Korea_
 
 ##### Zimbabwe
 ### [ Zimbabwe denies reports that President Robert Mugabe suffered a health scare. ](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.md)
-_Context: Robert Mugabe, Zimbabwe, President of Zimbabwe_
+_Context: Robert Mugabe, President of Zimbabwe, Zimbabwe_
 
 ## [Previous Day...](/news/2009/08/25/index.md)
 

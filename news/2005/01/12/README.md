@@ -5,11 +5,11 @@ Formats: [HTML](2005/01/12/index.html)  [JSON](2005/01/12/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Iyad Allawi, the interim Prime Minister of Iraq has admitted parts of the country will not be voting in this month's election. ](/news/2005/01/12/conflict-in-iraq-iyad-allawi-the-interim-prime-minister-of-iraq-has-admitted-parts-of-the-country-will-not-be-voting-in-this-month-s-elec.md)
-_Context: Iraq, Iyad Allawi, Conflict in Iraq_
+_Context: Conflict in Iraq, Iyad Allawi, Iraq_
 
 ##### British Airways
 ### [ British Airways flight 175 from London to New York is turned back by the U.S. Transportation Security Administration, who claim a passenger's name matches a suspected Moroccan terrorist. The passenger is questioned for two hours by British police and then released. The other 239 passengers resume their journeys nine hours late. ](/news/2005/01/12/british-airways-flight-175-from-london-to-new-york-is-turned-back-by-the-u-s-transportation-security-administration-who-claim-a-passenger.md)
-_Context: Transportation Security Administration, British police, Morocco, New York City, British Airways, London_
+_Context: Transportation Security Administration, British Airways, London, Morocco, New York City, British police_
 
 ##### Channel 4
 ### [ Reports are emerging, from Channel 4 news and other sources, that Sir Mark Thatcher is to plead guilty over his part in an alleged coup plot in Equatorial Guinea. ](/news/2005/01/12/reports-are-emerging-from-channel-4-news-and-other-sources-that-sir-mark-thatcher-is-to-plead-guilty-over-his-part-in-an-alleged-coup-plo.md)
@@ -21,11 +21,11 @@ _Context: Iraq, weapons of mass destruction_
 
 ##### Camp X-Ray
 ### [ Camp X-Ray: Archbishop Desmond Tutu has called for the release of the remaining inmates at Guantanamo Bay and terror suspects detained without trial in the UK referring to the detentions without trial as ""unacceptable"" and ""distressing"". ](/news/2005/01/12/camp-x-ray-archbishop-desmond-tutu-has-called-for-the-release-of-the-remaining-inmates-at-guantanamo-bay-and-terror-suspects-detained-with.md)
-_Context: Desmond Tutu, Camp X-Ray, Archbishop, Guantnamo Bay_
+_Context: Desmond Tutu, Guantnamo Bay, Archbishop, Camp X-Ray_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel has carried out a series of raids into the West Bank and the Gaza Strip. Two armed men were shot and killed in Ramallah, while four men were arrested in Gaza City. An Israeli civilian was also killed, and three Israeli soldiers were wounded following an Islamic Jihad attack on Morag, in the southern Gaza Strip. ](/news/2005/01/12/israeli-palestinian-conflict-israel-has-carried-out-a-series-of-raids-into-the-west-bank-and-the-gaza-strip-two-armed-men-were-shot-and-k.md)
-_Context: Ramallah, Gaza Strip, Palestinian Islamic Jihad, Morag, Israeli-Palestinian Conflict, Israel, Gaza, West Bank_
+_Context: West Bank, Gaza Strip, Palestinian Islamic Jihad, Morag, Israeli-Palestinian Conflict, Gaza, Ramallah, Israel_
 
 ##### Cte d'Ivoire
 ### [ In Cte d'Ivoire, former rebels warn that controversy over a disputed nationality law could restart the civil war ](/news/2005/01/12/in-cote-d-ivoire-former-rebels-warn-that-controversy-over-a-disputed-nationality-law-could-restart-the-civil-war.md)
@@ -33,19 +33,19 @@ _Context: Cte d'Ivoire, civil war_
 
 ##### Senegal
 ### [ In Senegal, there is a growing opposition to a recent bill that grants amnesty to political crimes since 1983 ](/news/2005/01/12/in-senegal-there-is-a-growing-opposition-to-a-recent-bill-that-grants-amnesty-to-political-crimes-since-1983.md)
-_Context: 1983, amnesty, Senegal_
+_Context: Senegal, 1983, amnesty_
 
 ##### Abkhazia
 ### [ In Abkhazia, breakway province of Georgia, government re-runs disputed presidential election of last October. Sergei Bagapsh and Raul Khadzhimba run as a team. Most countries do not recognize Abkhazian independence. ](/news/2005/01/12/in-abkhazia-breakway-province-of-georgia-government-re-runs-disputed-presidential-election-of-last-october-sergei-bagapsh-and-raul-khadz.md)
-_Context: Abkhazia, Raul Khadzhimba, independence,  Georgian, Sergei Bagapsh_
+_Context: independence, Raul Khadzhimba, Sergei Bagapsh,  Georgian, Abkhazia_
 
 ##### Lithuania
 ### [ In the US, Lithuanian-born Vladas Zajanckauskas is charged with killing Jews in the Warsaw Ghetto during World War II. If sentenced, he may lose his US citizenship ](/news/2005/01/12/in-the-us-lithuanian-born-vladas-zajanckauskas-is-charged-with-killing-jews-in-the-warsaw-ghetto-during-world-war-ii-if-sentenced-he-may.md)
-_Context: World War II, Warsaw Ghetto, citizenship, Lithuania, Vladas Zajanckauskas_
+_Context: Vladas Zajanckauskas, Lithuania, citizenship, Warsaw Ghetto, World War II_
 
 ##### Deep Impact
 ### [ Deep Impact was successfully launched from Cape Canaveral at 1:47 p.m. EST (1847 UTC) by a Delta 2 rocket. ](/news/2005/01/12/deep-impact-was-successfully-launched-from-cape-canaveral-at-1-47-p-m-est-1847-utc-by-a-delta-2-rocket.md)
-_Context: Cape Canaveral, Deep Impact, Delta 2_
+_Context: Deep Impact, Cape Canaveral, Delta 2_
 
 ## [Previous Day...](/news/2005/01/11/index.md)
 

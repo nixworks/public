@@ -13,11 +13,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Sellafield
 ### [ The Sellafield nuclear plant's Thorp reprocessing facility in Cumbria, England, is closed down due to a 20 tonne leak through a fractured pipe of water contaminated with radioactive uranium and plutonium. ](/news/2005/05/9/the-sellafield-nuclear-plant-s-thorp-reprocessing-facility-in-cumbria-england-is-closed-down-due-to-a-20-tonne-leak-through-a-fractured-p.md)
-_Context: Cumbria, plutonium, Sellafield, nuclear plant, radioactive, uranium, water, England, tonne_
+_Context: water, plutonium, Sellafield, nuclear plant, uranium, tonne, England, Cumbria, radioactive_
 
 ##### Head of state
 ### [ More than 50 heads of state, including Vladimir Putin, George W. Bush and German chancellor Gerhard Schrder, are among the guests attending the official celebrations commemorating the end of World War II in Moscow, Russia. It is the first time a German chancellor has attended a world-wide commemoration for the victims of the Third Reich. (Wikinews) ](/news/2005/05/9/more-than-50-heads-of-state-including-vladimir-putin-george-w-bush-and-german-chancellor-gerhard-schroder-are-among-the-guests-attendin.md)
-_Context: Moscow, Third Reich, head of state, World War II, Chancellor, Gerhard Schrder, Vladimir Putin, (Wikinews), George W. Bush, Russia_
+_Context: Vladimir Putin, Third Reich, George W. Bush, (Wikinews), Russia, Gerhard Schrder, World War II, Chancellor, head of state, Moscow_
 
 ##### Mars Global Surveyor
 ### [ Re-examination of old images taken by the Mars Global Surveyor several years ago may have led to the identification of the crash site of the Mars Polar Lander, which failed in December 1999. Using insights and techniques developed for analyzing images of the Mars Exploration Rovers, Malin Space Science Systems may have spotted the rocket blast zone, Mars Polar Lander and the parachute. ](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.md)
@@ -25,7 +25,7 @@ The search is back on for a spacecraft that disappeared during a landing attempt
 
 ##### Peter Friederich
 ### [ Peter Friederich, former Swiss ambassador to Luxembourg, goes on trial for money laundering. ](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.md)
-_Context: Peter Friederich, Switzerland, Luxembourg, money laundering_
+_Context: Switzerland, money laundering, Luxembourg, Peter Friederich_
 
 ##### Indonesia
 ### [ Former Indonesian president Suharto is hospitalized; there are conflicting reports about his condition. ](/news/2005/05/9/former-indonesian-president-suharto-is-hospitalized-there-are-conflicting-reports-about-his-condition.md)
@@ -45,15 +45,15 @@ _Context: Ecuador, Gustavo Noboa, house arrest_
 
 ##### Italy
 ### [ In Italy, two Vatican Radio officials, Cardinal Roberto Tucci and Father Pasquale Borgome, have been convicted of polluting the atmosphere with unnecessarily powerful electromagnetic waves that might have causes increased risk of cancer. They receive 10-day suspended sentences. ](/news/2005/05/9/in-italy-two-vatican-radio-officials-cardinal-roberto-tucci-and-father-pasquale-borgome-have-been-convicted-of-polluting-the-atmosphere.md)
-_Context: electromagnetic wave, Pasquale Borgome, Italy, cancer, Vatican Radio, Roberto Tucci_
+_Context: Italy, electromagnetic wave, cancer, Vatican Radio, Pasquale Borgome, Roberto Tucci_
 
 ##### Hans Blix
 ### [ Hans Blix, former United Nations chief arms inspector, suggests that Iran and Israel could support a ban of uranium enrichment in the Middle East. ](/news/2005/05/9/hans-blix-former-united-nations-chief-arms-inspector-suggests-that-iran-and-israel-could-support-a-ban-of-uranium-enrichment-in-the-middl.md)
-_Context: Israel, Hans Blix, United Nations, Middle East, Iran, uranium enrichment_
+_Context: Iran, Middle East, Israel, United Nations, uranium enrichment, Hans Blix_
 
 ##### Nigeria
 ### [ The Nigerian government charges 80 Biafran separatists with treason. ](/news/2005/05/9/the-nigerian-government-charges-80-biafran-separatists-with-treason.md)
-_Context: treason, Nigeria, Biafra_
+_Context: Nigeria, Biafra, treason_
 
 ##### Italy
 ### [ Italian police in Rome reopen the investigation into the murder of Pier Paolo Pasolini. ](/news/2005/05/9/italian-police-in-rome-reopen-the-investigation-into-the-murder-of-pier-paolo-pasolini.md)
@@ -65,7 +65,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, president Joseph Kabila visits Lumumbashi in Katanga province. At least 30 people have been arrested for an attempted separatist coup in the province. ](/news/2005/05/9/in-the-democratic-republic-of-congo-president-joseph-kabila-visits-lumumbashi-in-katanga-province-at-least-30-people-have-been-arrested-f.md)
-_Context: Democratic Republic of Congo, Katanga Province, Lumumbashi, Kabila government_
+_Context: Kabila government, Democratic Republic of Congo, Katanga Province, Lumumbashi_
 
 ## [Previous Day...](/news/2005/05/8/index.md)
 

@@ -29,7 +29,7 @@ China sends its first ever ministerial-level official on a charm offensive to Ta
 
 ##### United States
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: Jama'at-ud-Dawa, United States, LeT_
+_Context: Jama'at-ud-Dawa, LeT, United States_
 
 ##### Egypt
 ### [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md)
@@ -37,7 +37,7 @@ _Context: Jama'at-ud-Dawa, United States, LeT_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: Parliament of Romania, corruption, Traian Basescu, graft, Romania_
+_Context: graft, corruption, Romania, Parliament of Romania, Traian Basescu_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

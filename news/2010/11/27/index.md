@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/27/index.html)  [JSON](2010/11/27/index.json)  [XML](201
 
 ##### Nanjing
 ### [Seven people are killed after steel box girders used for building an overpass overturn in Nanjing, China. ](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.md)
-_Context: China, Nanjing_
+_Context: Nanjing, China_
 
 ##### Saeedabad, Karachi
 ### [Christians flee from their homes in Saeedabad, Karachi, following violence sparked by a Muslim-Christian marriage. ](/news/2010/11/27/christians-flee-from-their-homes-in-saeedabad-karachi-following-violence-sparked-by-a-muslim-christian-marriage.md)
@@ -13,7 +13,7 @@ _Context: Saeedabad, Karachi_
 
 ##### North Korea
 ### [North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md)
-_Context: South Korea, North Korea, human shield_
+_Context: North Korea, human shield, South Korea_
 
 ##### United Nations
 ### [A senior United Nations official, Vijay Nambiar, meets with Burmese opposition leader Aung San Suu Kyi in Yangon. ](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.md)
@@ -33,11 +33,11 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 
 ##### Cte d'Ivoire
 ### [Cte d'Ivoire President Laurent Gbagbo declares a curfew, amid clashes that killed three people ahead of the second round of the presidential election on Sunday. ](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.md)
-_Context: Cte d'Ivoire, 2010 presidential election, Laurent Gbagbo_
+_Context: Laurent Gbagbo, Cte d'Ivoire, 2010 presidential election_
 
 ##### Japan
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
-_Context: China, House of Councillors, Japan, censured_
+_Context: House of Councillors, Japan, censured, China_
 
 ##### Australia
 ### [Voters in the Australian state of Victoria go to the polls for the state election. ](/news/2010/11/27/voters-in-the-australian-state-of-victoria-go-to-the-polls-for-the-state-election.md)
@@ -49,11 +49,11 @@ _Context: Ed Miliband, Labour Party_
 
 ##### March
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
-_Context: Government of Ireland, march, Dublin_
+_Context: Dublin, Government of Ireland, march_
 
 #####  Icelanders
 ### [ Icelanders vote for the creators of a new constitution. ](/news/2010/11/27/icelanders-vote-for-the-creators-of-a-new-constitution.md)
-_Context:  Icelanders,  creators of a new constitution_
+_Context:  creators of a new constitution,  Icelanders_
 
 ## [Previous Day...](/news/2010/11/26/index.md)
 

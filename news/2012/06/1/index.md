@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/1/index.html)  [JSON](2012/06/1/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md)
-_Context: Human Rights Council, Russia, massacre, Houla, Chinese, Cuba, Syrian uprising (2011-present)_
+_Context: Human Rights Council, Russia, Houla, massacre, Cuba, Syrian uprising (2011-present), Chinese_
 
 ##### The New York Times
 ### ["The New York Times" reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-stux.md)

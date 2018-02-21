@@ -13,7 +13,7 @@ Toxicology results have found one of the pilots on board a cargo plane that cras
 
 ##### Wildfires
 ### [Wildfires in Southern Siberia, Russia kill at least 26 people and damage 1,300 homes. ](/news/2015/04/13/wildfires-in-southern-siberia-russia-kill-at-least-26-people-and-damage-1-300-homes.md)
-_Context: Siberia, Wildfires_
+_Context: Wildfires, Siberia_
 
 ##### Russia
 ### [Russian president Vladimir Putin lifts the ban on delivery of S-300 missile air defense systems to Iran in connection to the nuclear dialogue. Israel and the United States oppose the deal on the grounds that Iran is a state sponsor of terrorism. ](/news/2015/04/13/russian-president-vladimir-putin-lifts-the-ban-on-delivery-of-s-300-missile-air-defense-systems-to-iran-in-connection-to-the-nuclear-dialogu.md)
@@ -45,11 +45,11 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 
 ##### Manslaughter by gross negligence
 ### [A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. ](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-manslaughter-in-the-shooting-death-of-eric-harris-an-unarmed-man-who-was-shot-while-lying-on-his.md)
-_Context: manslaughter by gross negligence, Tulsa, Oklahoma_
+_Context: Tulsa, Oklahoma, manslaughter by gross negligence_
 
 ##### 2016 U.S. election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: 2016 U.S. election, Senator, Marco Rubio, Florida, candidacy, Republican_
+_Context: Marco Rubio, Senator, candidacy, 2016 U.S. election, Republican, Florida_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

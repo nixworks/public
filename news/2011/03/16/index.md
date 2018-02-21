@@ -9,15 +9,15 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 
 ##### Israeli Air Force
 ### [The Israeli Air Force attacks a training site of the Palestinian militant group Al Qassam brigades in the southern part of Gaza City in response to a rocket launched from the Gaza Strip at the Israeli southern communities in the Sdot Negev Regional Council in the southern district of Israel. Palestinians reported that three people were killed in the attack and three were wounded. ](/news/2011/03/16/the-israeli-air-force-attacks-a-training-site-of-the-palestinian-militant-group-al-qassam-brigades-in-the-southern-part-of-gaza-city-in-resp.md)
-_Context: Sdot Negev Regional Council, Gaza, Izz ad-Din al-Qassam Brigades, Israeli Air Force_
+_Context: Israeli Air Force, Sdot Negev Regional Council, Izz ad-Din al-Qassam Brigades, Gaza_
 
 ##### Japan
 ### [Japan's Nikkei 225 improves by six per cent as concerns over the 2011 Tohoku earthquake and tsunami on the economy are reduced. ](/news/2011/03/16/japan-s-nikkei-225-improves-by-six-per-cent-as-concerns-over-the-2011-tahoku-earthquake-and-tsunami-on-the-economy-are-reduced.md)
-_Context: 2011 Tohoku earthquake and tsunami, Japanese economy, Japan, Nikkei 225_
+_Context: 2011 Tohoku earthquake and tsunami, Nikkei 225, Japanese economy, Japan_
 
 ##### Yen
 ### [The Japanese yen reaches a postwar high against the United States dollar on the basis that Japanese insurers will redeem overseas assets to pay for the cost of the Tohoku earthquake and tsunami. ](/news/2011/03/16/the-japanese-yen-reaches-a-postwar-high-against-the-united-states-dollar-on-the-basis-that-japanese-insurers-will-redeem-overseas-assets-to.md)
-_Context: yen, $_
+_Context: $, yen_
 
 ##### Fukushima I Nuclear Power Plant
 ### [Another fire breaks out at the Fukushima I Nuclear Power Plant in northern Honshu, Japan. ](/news/2011/03/16/another-fire-breaks-out-at-the-fukushima-i-nuclear-power-plant-in-northern-honshu-japan.md)
@@ -37,11 +37,11 @@ _Context: United States, Pakistan, Raymond Davis_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, states that she will not serve a second term in President Obama's Cabinet if he is reelected in 2012 and will retire from public life. ](/news/2011/03/16/hillary-clinton-the-united-states-secretary-of-state-states-that-she-will-not-serve-a-second-term-in-president-obama-s-cabinet-if-he-is-re.md)
-_Context: United States presidential election, 2012, U.S. President, Barack Obama, United States Secretary of State, Hillary Clinton_
+_Context: Barack Obama, Hillary Clinton, United States Secretary of State, United States presidential election, 2012, U.S. President_
 
 ##### Governor
 ### [The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/the-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-cities-and-schools-i.md)
-_Context: Governor, Rick Snyder, labour unions_
+_Context: Governor, labour unions, Rick Snyder_
 
 ## [Previous Day...](/news/2011/03/15/index.md)
 

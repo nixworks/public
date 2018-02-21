@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/4/index.html)  [JSON](2007/02/4/index.json)  [XML](2007/
 
 ##### Clashes
 ### [ Palestinian factional violence: Fatah and Hamas take some of their gunmen off the streets of the West Bank and free some hostages under a new declared ceasefire. ](/news/2007/02/4/palestinian-factional-violence-fatah-and-hamas-take-some-of-their-gunmen-off-the-streets-of-the-west-bank-and-free-some-hostages-under-a-n.md)
-_Context: West Bank, Fatah, ceasefire, Hamas, clashes_
+_Context: Hamas, clashes, Fatah, ceasefire, West Bank_
 
 ##### Floods
 ### [ At least 20 people are killed and 340,000 are made homeless by floods in the Indonesian capital, Jakarta. ](/news/2007/02/4/at-least-20-people-are-killed-and-340-000-are-made-homeless-by-floods-in-the-indonesian-capital-jakarta.md)
@@ -33,15 +33,15 @@ _Context: Greece_
 
 ##### Tiko
 ### [ A boat sailing from Tiko in Cameroon to Oron in Nigeria capsizes, leaving up to 85 people dead. ](/news/2007/02/4/a-boat-sailing-from-tiko-in-cameroon-to-oron-in-nigeria-capsizes-leaving-up-to-85-people-dead.md)
-_Context: Tiko, Oron, Cameroon, Nigeria_
+_Context: Nigeria, Tiko, Oron, Cameroon_
 
 ##### Germany
 ### [ Germany beat Poland 29:24 in the final of the 2007 World Men's Handball Championship, becoming the new world champion in team handball. ](/news/2007/02/4/germany-beat-poland-29-24-in-the-final-of-the-2007-world-men-s-handball-championship-becoming-the-new-world-champion-in-team-handball.md)
-_Context: Germany, Poland, 2007 World Men's Handball Championship, handball_
+_Context: handball, 2007 World Men's Handball Championship, Germany, Poland_
 
 ##### American football
 ### [ American football: The AFC champion Indianapolis Colts defeat the NFC champion Chicago Bears 29-17 in Super Bowl XLI, claiming their first Super Bowl victory since winning Super Bowl V in 1971. ](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.md)
-_Context: Chicago Bears, Super Bowl XLI, Super Bowl V, American football, AFC, Indianapolis Colts, NFC_
+_Context: Super Bowl V, Super Bowl XLI, NFC, American football, Indianapolis Colts, Chicago Bears, AFC_
 
 ## [Previous Day...](/news/2007/02/3/index.md)
 

@@ -17,11 +17,11 @@ Lebanese soldiers in armoured vehicles fanned out across the country on Monday t
 
 ##### 2011-2012 conflict in Lebanon
 ### [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011a2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md)
-_Context: 2011-2012 conflict in Lebanon, assassination of  Wissam al-Hassan_
+_Context: assassination of  Wissam al-Hassan, 2011-2012 conflict in Lebanon_
 
 ##### South Africa
 ### [Police authorities in South Africa admit the shooting of 34 miners by police "may have been disproportionate" to the danger faced by those in charge. ](/news/2012/10/22/police-authorities-in-south-africa-admit-the-shooting-of-34-miners-by-police-may-have-been-disproportionate-to-the-danger-faced-by-those-i.md)
-_Context: South Africa, the shooting of 34 miners_
+_Context: the shooting of 34 miners, South Africa_
 
 ##### Kindle
 ### [A Kindle user from Norway has her account wiped and all her paid-for books deleted by the American multinational electronic commerce company Amazon.com. ](/news/2012/10/22/a-kindle-user-from-norway-has-her-account-wiped-and-all-her-paid-for-books-deleted-by-the-american-multinational-electronic-commerce-company.md)
@@ -29,19 +29,19 @@ _Context: Amazon.com, Kindle, Norway_
 
 ##### Goldman Sachs
 ### [A former Goldman Sachs employee blows the whistle on the investment bank having routinely taken advantage of charities and pension funds to increase its profits. ](/news/2012/10/22/a-former-goldman-sachs-employee-blows-the-whistle-on-the-investment-bank-having-routinely-taken-advantage-of-charities-and-pension-funds-to.md)
-_Context: Goldman Sachs, blows the whistle_
+_Context: blows the whistle, Goldman Sachs_
 
 ##### Federal Reserve
 ### [The chairman of the U.S. central bank, the Federal Reserve, likely will not stand for re-election to that post. Ben Bernanke has reportedly told friends he will leave when his term ends in January 2014 regardless of who wins the Presidential election campaign. ](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.md)
-_Context: Ben Bernanke, Federal Reserve_
+_Context: Federal Reserve, Ben Bernanke_
 
 ##### Royal Air Force
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)
-_Context: drone, Afghan, Royal Air Force_
+_Context: Royal Air Force, drone, Afghan_
 
 ##### France
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
-_Context: drone, Mali, France_
+_Context: Mali, France, drone_
 
 ##### 2009 L'Aquila earthquake
 ### [Six Italian scientists and an ex-government official are convicted of multiple manslaughter and sentenced to six years in prison over the 2009 L'Aquila earthquake after prosecutors accuse them of being "falsely reassuring" before the event. ](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.md)
@@ -49,7 +49,7 @@ _Context: 2009 L'Aquila earthquake_
 
 ##### Pussy Riot
 ### [Pussy Riot members Maria Alyokhina and Nadezhda Tolokonnikova are exiled to remote prison camps located in Perm and Mordovia, home to parts of the Soviet-era gulag system. Their exact locations are unknown, even to their lawyers and family members. They had petitioned to be held in Moscow which would have allowed them to watch their young children grow. ](/news/2012/10/22/pussy-riot-members-maria-alyokhina-and-nadezhda-tolokonnikova-are-exiled-to-remote-prison-camps-located-in-perm-and-mordovia-home-to-parts.md)
-_Context: Perm, Mordovia, gulag, Maria Alyokhina, Pussy Riot, Nadezhda Tolokonnikova_
+_Context: Maria Alyokhina, Pussy Riot, Nadezhda Tolokonnikova, Perm, Mordovia, gulag_
 
 ##### Peter Rippon
 ### [Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.md)

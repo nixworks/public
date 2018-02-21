@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/28/index.html)  [JSON](2010/04/28/index.json)  [XML](201
 
 ##### Niger
 ### [Niger faces total crop failure worse than that of 2005, according to United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator John Holmes. ](/news/2010/04/28/niger-faces-total-crop-failure-worse-than-that-of-2005-according-to-united-nations-under-secretary-general-for-humanitarian-affairs-and-eme.md)
-_Context: United Nations, Niger, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator_
+_Context: John Holmes, Niger, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
 
 ##### 2010 Thai political protests
 ### [A Thai soldier dies in a flareup of tensions in the ongoing conflict between pro- and anti-government factions in Thailand. ](/news/2010/04/28/a-thai-soldier-dies-in-a-flareup-of-tensions-in-the-ongoing-conflict-between-pro-and-anti-government-factions-in-thailand.md)
@@ -17,11 +17,11 @@ The U.S. Coast Guard said Wednesday it scheduled a controlled burn in the Gulf o
 
 ##### Russia
 ### [Russia posts once classified documents relating to the Katyn massacre online. ](/news/2010/04/28/russia-posts-once-classified-documents-relating-to-the-katyn-massacre-online.md)
-_Context: Katyn massacre, Russia_
+_Context: Russia, Katyn massacre_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad has applied for a visa to visit the United States next week for the Non-Proliferation Treaty review conference, and State Department spokesman Philip Crowley has said they will likely be approved, although "a face-to-face meeting between a US diplomat and an Iranian diplomat is highly unlikely" ](/news/2010/04/28/president-of-iran-mahmoud-ahmadinejad-has-applied-for-a-visa-to-visit-the-united-states-next-week-for-the-non-proliferation-treaty-review-co.md)
-_Context: President, visa-free travel, United States, Philip Crowley, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, Philip Crowley, visa-free travel, United States, President_
 
 ##### Israel
 ### [Israeli soldiers open fire on protesters who approached the Israeli border from Gaza, killing a 20-year-old Palestinian man. The Israeli military says the demonstrators were throwing stones at soldiers and setting fires. ](/news/2010/04/28/israeli-soldiers-open-fire-on-protesters-who-approached-the-israeli-border-from-gaza-killing-a-20-year-old-palestinian-man-the-israeli-mil.md)
@@ -33,7 +33,7 @@ An investigative report released Wednesday blames pilot error for the 2007 crash
 
 ##### United States
 ### [United States Secretary of the Interior Ken Salazar approves Cape Wind, the nation's first off-shore wind farm. ](/news/2010/04/28/united-states-secretary-of-the-interior-ken-salazar-approves-cape-wind-the-nation-s-first-off-shore-wind-farm.md)
-_Context: wind farm, Ken Salazar, Secretary of the Interior, Cape Wind, United States_
+_Context: United States, Secretary of the Interior, wind farm, Cape Wind, Ken Salazar_
 
 ##### Chinese
 ### [Team China is stripped of a 2000 Olympics bronze medal in women's gymnastics after it is revealed that one member of the team was underage. ](/news/2010/04/28/team-china-is-stripped-of-a-2000-olympics-bronze-medal-in-women-s-gymnastics-after-it-is-revealed-that-one-member-of-the-team-was-underage.md)
@@ -41,7 +41,7 @@ The U.S. will be awarded the bronze medal after a female gymnast was found to be
 
 ##### UK Prime Minister
 ### [UK Prime Minister Gordon Brown is described as "mortified" after an open-mic incident during general election campaigning recorded him describing a Rochdale voter as a "bigoted woman". ](/news/2010/04/28/uk-prime-minister-gordon-brown-is-described-as-mortified-after-an-open-mic-incident-during-general-election-campaigning-recorded-him-descr.md)
-_Context: UK Prime Minister, open-mic incident, Rochdale, Gordon Brown, 2010 general election_
+_Context: UK Prime Minister, 2010 general election, Gordon Brown, Rochdale, open-mic incident_
 
 ## [Previous Day...](/news/2010/04/27/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2007/09/30/index.html)  [JSON](2007/09/30/index.json)  [XML](200
 
 ##### Sonthi Boonyaratglin
 ### [ General Sonthi Boonyaratglin, who helped depose Prime Minister Thaksin Shinawatra in the 2006 Thai coup d'etat, resigned as head of the Council for National Security. ](/news/2007/09/30/general-sonthi-boonyaratglin-who-helped-depose-prime-minister-thaksin-shinawatra-in-the-2006-thai-coup-d-a-c-tat-resigned-as-head-of-the-co.md)
-_Context: Prime Minister, Council for National Security, 2006 Thai coup d'etat, Thaksin Shinawatra, Sonthi Boonyaratglin_
+_Context: Thaksin Shinawatra, Prime Minister, Sonthi Boonyaratglin, Council for National Security, 2006 Thai coup d'etat_
 
 ##### World Chess Champion
 ### [ Former World Chess Champion Garry Kasparov is selected Presidential Candidate for Other Russia in the 2008 presidentials. ](/news/2007/09/30/former-world-chess-champion-garry-kasparov-is-selected-presidential-candidate-for-other-russia-in-the-2008-presidentials.md)
-_Context: Russian President, go to the polls, World Chess Champion, The Other Russia, Garry Kasparov_
+_Context: Russian President, The Other Russia, go to the polls, World Chess Champion, Garry Kasparov_
 
 ##### Ukraine
 ### [ Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
@@ -21,7 +21,7 @@ The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 mil
 
 ##### State Peace and Development Council
 ### [ A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asylum-in-norway-the-colonel-is-said-to-ha.md)
-_Context: State Peace and Development Council, Karen, Myanmar, Norway_
+_Context: Karen, Myanmar, State Peace and Development Council, Norway_
 
 ##### India
 ### [ Indian player Viswanathan Anand wins the World Chess Championship 2007 at Mexico City to become the new world champion. ](/news/2007/09/30/indian-player-viswanathan-anand-wins-the-world-chess-championship-2007-at-mexico-city-to-become-the-new-world-champion.md)
@@ -29,19 +29,19 @@ Viswanathan Anand of India, the world’s top-ranked player, dominated the 14-ro
 
 ##### Lewis Hamilton
 ### [ Lewis Hamilton wins the 2007 Japanese Grand Prix to take a 12 point lead in the 2007 Formula One season World Championship with 2 races remaining. ](/news/2007/09/30/lewis-hamilton-wins-the-2007-japanese-grand-prix-to-take-a-12-point-lead-in-the-2007-formula-one-season-world-championship-with-2-races-rem.md)
-_Context: Lewis Hamilton, 2007 Formula One World Drivers Championship, Japanese Grand Prix_
+_Context: Japanese Grand Prix, Lewis Hamilton, 2007 Formula One World Drivers Championship_
 
 ##### New York Mets
 ### [ With the help of the New York Mets completing one of the most improbable collapses in baseball history, leading the National League East division by 7 games with 17 games to play at one point, the Philadelphia Phillies defeat the Washington Nationals to win the 2007 National League East title. ](/news/2007/09/30/with-the-help-of-the-new-york-mets-completing-one-of-the-most-improbable-collapses-in-baseball-history-leading-the-national-league-east-di.md)
-_Context: Washington Nationals, New York Mets, Philadelphia Phillies, National League East_
+_Context: National League East, New York Mets, Washington Nationals, Philadelphia Phillies_
 
 ##### U.S.
 ### [ U.S. college football: The new AP Poll results are released, with nine of the ten ranked teams that lost this past weekend either dropping further down the list or out of the poll completely. LSU rose to #1 for the first time since 1959, Kentucky and Boston College rise into the Top Ten for the first time since 1977 and 1992, respectively, and South Florida ascends into the Top Ten for the first time ever. ](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.md)
-_Context: 1977, 1959, college football, Kentucky, Louisiana State University, 1992, AP Poll, U.S., Boston College, University of South Florida_
+_Context: 1992, college football, U.S., Boston College, 1977, Louisiana State University, AP Poll, 1959, University of South Florida, Kentucky_
 
 ##### Volcano
 ### [ A dormant volcano erupts on Jabal al-Tair, a Yemeni island in the Red Sea. ](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yemeni-island-in-the-red-sea.md)
-_Context: Red Sea, Yemen, volcano, Jabal al-Tair_
+_Context: Yemen, Red Sea, Jabal al-Tair, volcano_
 
 ## [Previous Day...](/news/2007/09/29/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/2/index.html)  [JSON](2007/10/2/index.json)  [XML](2007/
 
 ##### 2007 Summer Special Olympics
 ### [ 2007 Summer Special Olympics opens in Shanghai, China. ](/news/2007/10/2/2007-summer-special-olympics-opens-in-shanghai-china.md)
-_Context: 2007 Summer Special Olympics, Shanghai_
+_Context: Shanghai, 2007 Summer Special Olympics_
 
 ##### Citigroup
 ### [ Citigroup buys out minority shareholders of Japanese brokerage Nikko Cordial for $4.6 billion. ](/news/2007/10/2/citigroup-buys-out-minority-shareholders-of-japanese-brokerage-nikko-cordial-for-4-6-billion.md)
@@ -17,11 +17,11 @@ When fire broke out deep underground at a hydroelectric plant in the Rockies, of
 
 ##### Bus
 ### [ At least 27 people are killed when a bus catches fire in Chongqing, southwest China. ](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.md)
-_Context: China, bus, Chongqing_
+_Context: bus, Chongqing, China_
 
 ##### Pakistan
 ### [ The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007 The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december-2007-the-pr.md)
-_Context: Pervez Musharraf, Benazir Bhutto, Ashfaq Kiyani, corruption, president, Prime Minister, General, government, Pakistan, Pakistan Army_
+_Context: Pakistan Army, Pakistan, Ashfaq Kiyani, government, corruption, Prime Minister, Pervez Musharraf, president, Benazir Bhutto, General_
 
 ##### Israel
 ### [ Israel confirms it conducted an airstrike on Syria on September 6. ](/news/2007/10/2/israel-confirms-it-conducted-an-airstrike-on-syria-on-september-6.md)
@@ -29,15 +29,15 @@ Ambiguity surrounding reported IAF attack in Syria ends as Israel confirms air r
 
 ##### War in Iraq
 ### [ War in Iraq: The Prime Minister of the United Kingdom Gordon Brown makes his first visit to Iraq, where he announces the withdrawal of 1,000 troops. ](/news/2007/10/2/war-in-iraq-the-prime-minister-of-the-united-kingdom-gordon-brown-makes-his-first-visit-to-iraq-where-he-announces-the-withdrawal-of-1-00.md)
-_Context: War in Iraq, Prime Minister, Iraq, Gordon Brown_
+_Context: Gordon Brown, Prime Minister, War in Iraq, Iraq_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: A suicide bomber blows himself up near a bus carrying policemen killing at least 11 in Kabul. ](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.md)
-_Context: suicide bomber, Kabul, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), suicide bomber, Kabul_
 
 ##### South Korean President
 ### [ The President of South Korea Roh Moo-hyun walks across the Korean Demilitarized Zone in travelling to Pyongyang for talks with North Korean leader Kim Jong Il. ](/news/2007/10/2/the-president-of-south-korea-roh-moo-hyun-walks-across-the-korean-demilitarized-zone-in-travelling-to-pyongyang-for-talks-with-north-korean.md)
-_Context: talks, South Korean President, Roh Moo-hyun, DMZ, North Korea, Pyongyang, Kim Jong Il_
+_Context: talks, Roh Moo-hyun, South Korean President, North Korea, DMZ, Kim Jong Il, Pyongyang_
 
 ##### Manhattan Community Board 5
 ### [ Manhattan Community Board 5 voted to add the Hotel Pennsylvania to the list of NYC Historic buildings. ](/news/2007/10/2/manhattan-community-board-5-voted-to-add-the-hotel-pennsylvania-to-the-list-of-nyc-historic-buildings.md)
@@ -45,7 +45,7 @@ _Context: Manhattan Community Board 5, Hotel Pennsylvania_
 
 ##### United Nations
 ### [ United Nations special envoy Ibrahim Gambari meets with Burmese General Than Shwe to tell him to stop the killing of dissidents. ](/news/2007/10/2/united-nations-special-envoy-ibrahim-gambari-meets-with-burmese-general-than-shwe-to-tell-him-to-stop-the-killing-of-dissidents.md)
-_Context: Burma, Than Shwe, General, Ibrahim Gambari, United Nations_
+_Context: General, Burma, Ibrahim Gambari, Than Shwe, United Nations_
 
 ## [Previous Day...](/news/2007/10/1/index.md)
 

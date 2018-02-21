@@ -21,15 +21,15 @@ Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military a
 
 ##### Kate Bush
 ### [British singer Kate Bush stages a comeback concert at London's Hammersmith Apollo, her first live performance since 1979. ](/news/2014/08/26/british-singer-kate-bush-stages-a-comeback-concert-at-london-s-hammersmith-apollo-her-first-live-performance-since-1979.md)
-_Context: Kate Bush, Hammersmith Apollo, London_
+_Context: London, Kate Bush, Hammersmith Apollo_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
-_Context: Burger King, Canadian, Tim Hortons, Canadian, corporate tax inversions, Fast food_
+_Context: Canada, Tim Hortons, Canadian, Burger King, corporate tax inversions, Fast food_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Vladimir Putin, Russian President, Ukrainian President, Minsk, Petro Poroshenko, Belarus, Ukraine_
+_Context: Minsk, Russian President, Vladimir Putin, Ukrainian President, Belarus, Ukraine, Petro Poroshenko_
 
 ##### Brazil
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
@@ -49,11 +49,11 @@ China’s anti-graft watchdog said it’s investigating two top officials in the
 
 ##### Klaus Wowereit
 ### [Klaus Wowereit makes it official that he will resign as the mayor of Berlin on 11 December, after having held the post for nearly 14 years, making him Germany's current longest-serving head of a state government. ](/news/2014/08/26/klaus-wowereit-makes-it-official-that-he-will-resign-as-the-mayor-of-berlin-on-11-december-after-having-held-the-post-for-nearly-14-years.md)
-_Context: mayor of Berlin, German, Klaus Wowereit_
+_Context: German, Klaus Wowereit, mayor of Berlin_
 
 ##### Michael Spindelegger
 ### [Michael Spindelegger resigns as vice-chancellor and finance minister of Austria; as leader of the Austrian People's Party, he is replaced by Reinhold Mitterlehner. ](/news/2014/08/26/michael-spindelegger-resigns-as-vice-chancellor-and-finance-minister-of-austria-as-leader-of-the-austrian-people-s-party-he-is-replaced-by.md)
-_Context: Reinhold Mitterlehner, Austrian People's Party, Austria, finance minister, Michael Spindelegger, vice-chancellor_
+_Context: Austrian People's Party, Michael Spindelegger, finance minister, Reinhold Mitterlehner, Austria, vice-chancellor_
 
 ## [Previous Day...](/news/2014/08/25/index.md)
 

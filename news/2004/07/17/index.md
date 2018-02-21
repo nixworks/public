@@ -9,7 +9,7 @@ _Context: Iyad Allawi_
 
 ##### Prime Minister
 ### [ The Prime Minister of the Palestinian Authority, Ahmed Qurei, submits his resignation during chaos in the Gaza Strip as gunmen kidnapped several people, including the chief of police of the Gaza Strip, demanding reform of the Palestinian security force. Yasser Arafat refuses to accept the resignation. ](/news/2004/07/17/the-prime-minister-of-the-palestinian-authority-ahmed-qurei-submits-his-resignation-during-chaos-in-the-gaza-strip-as-gunmen-kidnapped-se.md)
-_Context: Ahmed Qurei, Gaza Strip, Yasser Arafat, Palestinian security force, chief of police, Palestinian Authority, Prime Minister_
+_Context: Prime Minister, chief of police, Palestinian security force, Ahmed Qurei, Palestinian Authority, Gaza Strip, Yasser Arafat_
 
 ## [Previous Day...](/news/2004/07/16/index.md)
 

@@ -13,7 +13,7 @@ Seven peacekeepers from Niger killed while on patrol near the border with Liberi
 
 ##### Mexican Drug War
 ### [Mexican Drug War: At least 14 mutilated corpses are abandoned inside a vehicle in Ciudad Mante, Tamaulipas, about 250 miles from the Texas border. The bodies are accompanied by a banner taking credit for the killings. ](/news/2012/06/8/mexican-drug-war-at-least-14-mutilated-corpses-are-abandoned-inside-a-vehicle-in-ciudad-mante-tamaulipas-about-250-miles-from-the-texas-b.md)
-_Context: Ciudad Mante, Tamaulipas, Mexican Drug War_
+_Context: Mexican Drug War, Ciudad Mante, Tamaulipas_
 
 ##### Government
 ### [A bomb targeting a bus carrying Government of Pakistan employees kills 32 people. ](/news/2012/06/8/a-bomb-targeting-a-bus-carrying-government-of-pakistan-employees-kills-32-people.md)
@@ -21,23 +21,23 @@ _Context: government_
 
 ##### Amnesty International
 ### [Amnesty International issues a report claiming that Israel is guilty of torture and human rights violations, but the report is criticised as biased because of the alleged involvement of an anti-Israel activist in its writing. ](/news/2012/06/8/amnesty-international-issues-a-report-claiming-that-israel-is-guilty-of-torture-and-human-rights-violations-but-the-report-is-criticised-as.md)
-_Context: Amnesty International, Israel, criticised_
+_Context: criticised, Amnesty International, Israel_
 
 ##### The Roundhouse
 ### [The Roundhouse in Chalk Farm, North London, vows to recognise Amy Winehouse's contribution to music by erecting a statue to her. ](/news/2012/06/8/the-roundhouse-in-chalk-farm-north-london-vows-to-recognise-amy-winehouse-s-contribution-to-music-by-erecting-a-statue-to-her.md)
-_Context: The Roundhouse, North London, Amy Winehouse, Chalk Farm_
+_Context: Amy Winehouse, Chalk Farm, The Roundhouse, North London_
 
 ##### Booker Prize
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
-_Context: Italy, Booker Prize, Barry Unsworth_
+_Context: Booker Prize, Barry Unsworth, Italy_
 
 ##### Commonwealth Writers prizes
 ### [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the GBP10,000 Commonwealth Book Prize for his debut novel "Chinaman: The Legend of Pradeep Mathew", while Emma Martin from New Zealand wins the GBP5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-agbp10-000-commonwealth-book-prize-for-hi.md)
-_Context: Sri Lanka, Commonwealth Writers prizes, Shehan Karunatilaka, Emma Martin, Hay, New Zealand_
+_Context: Emma Martin, Sri Lanka, Shehan Karunatilaka, New Zealand, Commonwealth Writers prizes, Hay_
 
 ##### Chesapeake Energy
 ### [Chesapeake Energy shareholders, at their annual meeting, reject two incumbent directors in a vote widely regarded as a repudiation of CEO Aubrey McClendon. ](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.md)
-_Context: Aubrey McClendon, Chesapeake Energy_
+_Context: Chesapeake Energy, Aubrey McClendon_
 
 ##### IAEA
 ### [The International Atomic Energy Agency (IAEA) ends talks with Iran, with IAEA chief inspector Herman Nackaerts claiming "There has been no progress". ](/news/2012/06/8/the-international-atomic-energy-agency-iaea-ends-talks-with-iran-with-iaea-chief-inspector-herman-nackaerts-claiming-there-has-been-no-p.md)
@@ -57,11 +57,11 @@ Chuck Blazer, the official who blew the whistle on corruption within Fifa, is ac
 
 ##### Jamaica
 ### [Jamaican "drug lord" Christopher "Dudus" Coke is sentenced to 23 years in a U.S. prison. ](/news/2012/06/8/jamaican-drug-lord-christopher-dudus-coke-is-sentenced-to-23-years-in-a-u-s-prison.md)
-_Context: Jamaica, Christopher "Dudus" Coke_
+_Context: Christopher "Dudus" Coke, Jamaica_
 
 ##### Parliament
 ### [The Parliament of Albania fails without a vote in the third round to elect the President of the Republic of Albania. ](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: Republic of Albania, President of Albania, parliament, elects_
+_Context: parliament, President of Albania, elects, Republic of Albania_
 
 ##### Home Secretary
 ### [UK Home Secretary Theresa May announces plans to introduce new laws to jail parents who force their children into arranged marriages. ](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.md)

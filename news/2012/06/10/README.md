@@ -7,9 +7,9 @@ Formats: [HTML](2012/06/10/index.html)  [JSON](2012/06/10/index.json)  [XML](201
 ### [Syrian activists claim that at least 35 people have died in an Syrian Army offensive in Homs over the past day. ](/news/2012/06/10/syrian-activists-claim-that-at-least-35-people-have-died-in-an-syrian-army-offensive-in-homs-over-the-past-day.md)
 At least 35 people were killed in Syrian army bombardment over the last 24 hours in a renewed assault to regain control of the rural province of Homs, the epicentre of the revolt against President Bashar al-Assad, opposition activists said on Sunday.
 
-##### State of emergency
+##### States of emergency
 ### [A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. ](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-burma-after-clashes-between-buddhists-and-muslims.md)
-_Context: state of emergency, Buddhists, Muslim, sectarian violence, Burma_
+_Context: Muslim, sectarian violence, Burma, Buddhists, states of emergency_
 
 ##### 66th Tony Awards
 ### [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with "Clybourne Park" winning the Tony Award for Best Play and "Once" winning the Tony Award for Best Musical". ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for-b.md)
@@ -21,7 +21,7 @@ _Context: crude oil, General Administration of Customs_
 
 ##### Kenya
 ### [Kenyan Cabinet Minister George Saitoti and five other people are killed in a helicopter crash in the Ngong Hills near Nairobi. ](/news/2012/06/10/kenyan-cabinet-minister-george-saitoti-and-five-other-people-are-killed-in-a-helicopter-crash-in-the-ngong-hills-near-nairobi.md)
-_Context: Nairobi, George Saitoti, Ngong Hills, Kenya_
+_Context: Ngong Hills, Kenya, Nairobi, George Saitoti_
 
 ##### Earthquake
 ### [A 6.0 magnitude earthquake strikes near the Aegean Sea resort of Oludeniz in southern Turkey, resulting in dozens of injuries especially in the city of Fethiye. ](/news/2012/06/10/a-6-0-magnitude-earthquake-strikes-near-the-aegean-sea-resort-of-ala1-4deniz-in-southern-turkey-resulting-in-dozens-of-injuries-especially-i.md)
@@ -37,7 +37,7 @@ _Context: Florida, Escambia County, Southeastern United States_
 
 ##### Saif al-Islam
 ### [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md)
-_Context: Saif al-Islam, Muammar Gaddafi, ICC, Libya_
+_Context: ICC, Saif al-Islam, Libya, Muammar Gaddafi_
 
 ##### Auburn University
 ### [Three people are shot to death and three are wounded during a party held at an apartment complex near the campus of Auburn University in Auburn, Alabama, U.S. ](/news/2012/06/10/three-people-are-shot-to-death-and-three-are-wounded-during-a-party-held-at-an-apartment-complex-near-the-campus-of-auburn-university-in-aub.md)
@@ -49,7 +49,7 @@ _Context: Venezuela, Hugo Chavez_
 
 ##### Local elections
 ### [Local elections take place in Romania. The ruling Social Liberal Union wins by a landslide. ](/news/2012/06/10/local-elections-take-place-in-romania-the-ruling-social-liberal-union-wins-by-a-landslide.md)
-_Context: Social Liberal Union, Local elections, Romania_
+_Context: Local elections, Romania, Social Liberal Union_
 
 ##### Legislative election
 ### [Voters in France go to the polls for the first round of parliamentary elections with the Socialist Party doing well. ](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-the-socialist-party-doing-well.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/4/index.html)  [JSON](2010/10/4/index.json)  [XML](2010/
 
 ##### Pibor
 ### [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md)
-_Context: Jonglei, Sudan, Pibor_
+_Context: Sudan, Jonglei, Pibor_
 
 ##### International Security Assistance Force
 ### [Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in-afghanistan-s-restive-sou.md)
@@ -33,7 +33,7 @@ Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion 
 
 ##### High altitude
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
-_Context: Kokoda, high altitude, human settlement, Papua New Guinea_
+_Context: Kokoda, Papua New Guinea, high altitude, human settlement_
 
 ##### Jonathan Evans
 ### [Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. ](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.md)
@@ -65,7 +65,7 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 
 ##### Indonesia
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
-_Context: Wasior, Agung Laksono, Indonesia, West Papua_
+_Context: Indonesia, Wasior, Agung Laksono, West Papua_
 
 ##### Hatay Province
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
@@ -81,7 +81,7 @@ _Context: Indonesia, Papua_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
-_Context: Naoto Kan, Wen Jiabao, Asia-Europe Meeting_
+_Context: Wen Jiabao, Naoto Kan, Asia-Europe Meeting_
 
 ##### Asia-Europe Meeting
 ### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
@@ -109,11 +109,11 @@ Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he g
 
 ##### Syria
 ### [Syria issues arrest warrants for more than 30 people accused of misleading an investigation into the 2005 assassination of Lebanon's former prime minister Rafic Hariri. ](/news/2010/10/4/syria-issues-arrest-warrants-for-more-than-30-people-accused-of-misleading-an-investigation-into-the-2005-assassination-of-lebanon-s-former.md)
-_Context: Rafic Hariri, Syria, Lebanese_
+_Context: Rafic Hariri, Lebanese, Syria_
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)
-_Context: Prime Minister, Mahendra Chaudhry, bail_
+_Context: Mahendra Chaudhry, Prime Minister, bail_
 
 ##### Thailand
 ### [A court in Thailand rejects a request to drop charges against Viktor Bout, whom the United States suspects of attempting to sell weapons to its opponents. He was arrested by undercover United States agents in 2008 at a Bangkok hotel. ](/news/2010/10/4/a-court-in-thailand-rejects-a-request-to-drop-charges-against-viktor-bout-whom-the-united-states-suspects-of-attempting-to-sell-weapons-to.md)

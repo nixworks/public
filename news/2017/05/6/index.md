@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/6/index.html)  [JSON](2017/05/6/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
-_Context: War in Afghanistan (2015-present), Pope Francis, Mother of All Bombs_
+_Context: Mother of All Bombs, War in Afghanistan (2015-present), Pope Francis_
 
 ##### War in Somalia (2009-present)
 ### [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md)
@@ -21,7 +21,7 @@ Young protester shot in the head amid continuation of demonstrations that brand 
 
 ##### 2016-17 South Pacific cyclone season
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
-_Context: Torba Province, Category Four, Vanuatu, 2016-17 South Pacific cyclone season_
+_Context: Vanuatu, Category Four, Torba Province, 2016-17 South Pacific cyclone season_
 
 ##### Arusha Region
 ### [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md)

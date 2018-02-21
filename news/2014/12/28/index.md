@@ -21,7 +21,7 @@ Rescue workers are battling to airlift passengers off a burning ferry adrift in 
 
 ##### Italy
 ### [Two merchant ships collide in rough seas off the Italian Adriatic coast, leaving at least one person dead and two missing. ](/news/2014/12/28/two-merchant-ships-collide-in-rough-seas-off-the-italian-adriatic-coast-leaving-at-least-one-person-dead-and-two-missing.md)
-_Context: Italy, Adriatic coast_
+_Context: Adriatic coast, Italy_
 
 ##### Sri Lanka
 ### [Floods and mudslides in Sri Lanka kill at least twenty-four people and leave eight missing. ](/news/2014/12/28/floods-and-mudslides-in-sri-lanka-kill-at-least-twenty-four-people-and-leave-eight-missing.md)
@@ -29,7 +29,7 @@ Twenty-four people have been killed and eight others are missing due to floods a
 
 ##### San Antonio
 ### [An apartment building fire near San Antonio, Texas, USA, kills five people. ](/news/2014/12/28/an-apartment-building-fire-near-san-antonio-texas-usa-kills-five-people.md)
-_Context: Texas, San Antonio_
+_Context: San Antonio, Texas_
 
 ##### Croatian presidential election
 ### [The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. ](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.md)

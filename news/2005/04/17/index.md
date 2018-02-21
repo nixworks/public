@@ -5,11 +5,11 @@ Formats: [HTML](2005/04/17/index.html)  [JSON](2005/04/17/index.json)  [XML](200
 
 ##### Ancient Greek
 ### [ A major breakthrough in the study of ancient Greek and Roman texts may lead to the revelation of hundreds of lost comedies, tragedies and epic poems. Using an infrared technique originally developed for satellite imaging, classicists at Oxford University, in the past four days alone, have made a series of new discoveries from Oxyrhynchus, including writings by Sophocles, Euripides, Hesiod and other literary giants. It may also be used to reveal lost Christian gospels. ](/news/2005/04/17/a-major-breakthrough-in-the-study-of-ancient-greek-and-roman-texts-may-lead-to-the-revelation-of-hundreds-of-lost-comedies-tragedies-and-e.md)
-_Context: gospels, ancient Greek, Christian, comedies, Hesiod, Euripides, tragedies, Roman, Sophocles, Oxford University, infrared, epic poem, Oxyrhynchus_
+_Context: Sophocles, infrared, Oxford University, Euripides, gospels, ancient Greek, epic poem, Hesiod, Roman, tragedies, comedies, Christian, Oxyrhynchus_
 
 ##### Indonesia
 ### [ Over one hundred thousand people throughout Indonesia have taken part in anti-Israeli and anti-American protests. The protest was organised by the Prosperous Justice Party in order to show Muslim unity regarding the Al Aqsa Mosque. ](/news/2005/04/17/over-one-hundred-thousand-people-throughout-indonesia-have-taken-part-in-anti-israeli-and-anti-american-protests-the-protest-was-organised.md)
-_Context: Al Aqsa Mosque, Indonesia, Israel, Muslim, anti-American, Prosperous Justice Party_
+_Context: anti-American, Prosperous Justice Party, Muslim, Israel, Indonesia, Al Aqsa Mosque_
 
 ##### United Kingdom
 ### [ Privacy groups in the United Kingdom along with opposition Liberal Democrats decry fingerprint passports as 'ID card by stealth'. ](/news/2005/04/17/privacy-groups-in-the-united-kingdom-along-with-opposition-liberal-democrats-decry-fingerprint-passports-as-id-card-by-stealth.md)
@@ -17,7 +17,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Marla Ruzicka
 ### [ Marla Ruzicka, a US activist and aid worker, is killed by a car bomb in Iraq. ](/news/2005/04/17/marla-ruzicka-a-us-activist-and-aid-worker-is-killed-by-a-car-bomb-in-iraq.md)
-_Context: car bomb, Marla Ruzicka, activist, Iraq, aid worker_
+_Context: aid worker, Marla Ruzicka, car bomb, Iraq, activist_
 
 ##### Great St. Bernard Pass
 ### [ 12 people die and 15 are injured when a coach plunges into a ravine near the Great St. Bernard Pass in Switzerland. ](/news/2005/04/17/12-people-die-and-15-are-injured-when-a-coach-plunges-into-a-ravine-near-the-great-st-bernard-pass-in-switzerland.md)
@@ -49,11 +49,11 @@ _Context: Jrg Haider, Alliance for Austria's Future_
 
 ##### Helsinki
 ### [ Negotiations in Helsinki between the government of Indonesia and Free Aceh Movement end "constructively", according to mediator Martti Ahtisaari. Talks are scheduled to continue in May. ](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.md)
-_Context: Helsinki, Indonesia, GAM, Martti Ahtisaari_
+_Context: Indonesia, GAM, Helsinki, Martti Ahtisaari_
 
 ##### University at Albany
 ### [ Students at the University at Albany in Albany, New York set the record for the world's largest pillow fight with 3,648 participants, observed by Guinness Records officials. ](/news/2005/04/17/students-at-the-university-at-albany-in-albany-new-york-set-the-record-for-the-world-s-largest-pillow-fight-with-3-648-participants-obser.md)
-_Context: New York, University at Albany, Albany, pillow fight_
+_Context: New York, University at Albany, pillow fight, Albany_
 
 ## [Previous Day...](/news/2005/04/16/index.md)
 

@@ -25,7 +25,7 @@ _Context: Pakistan Navy, Karachi_
 
 ##### Uganda
 ### [Protesters riot in the Ugandan capital, Kampala, after the arrest of the opposition leader, Kizza Besigye for the fourth time in two weeks. ](/news/2011/04/28/protesters-riot-in-the-ugandan-capital-kampala-after-the-arrest-of-the-opposition-leader-kizza-besigye-for-the-fourth-time-in-two-weeks.md)
-_Context: Kampala, Kizza Besigye, Uganda_
+_Context: Uganda, Kizza Besigye, Kampala_
 
 ##### Thailand
 ### [Thailand announces that it will send more troops to its border with Cambodia after a seventh day of fighting near the disputed Preah Vihear Temple that has killed 15 people. ](/news/2011/04/28/thailand-announces-that-it-will-send-more-troops-to-its-border-with-cambodia-after-a-seventh-day-of-fighting-near-the-disputed-preah-vihear.md)
@@ -33,7 +33,7 @@ _Context: Cambodia, Thailand, Preah Vihear Temple_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: Barack Obama, War in Afghanistan (2001-present), General, United States military, David Petraeus, Leon Panetta, Director of the CIA_
+_Context: United States military, Leon Panetta, David Petraeus, General, Director of the CIA, War in Afghanistan (2001-present), Barack Obama_
 
 ##### Wal-Mart
 ### [U.S. retail giant Wal-Mart vows increased sales of weapons, including rifles and shotguns. ](/news/2011/04/28/u-s-retail-giant-wal-mart-vows-increased-sales-of-weapons-including-rifles-and-shotguns.md)
@@ -45,7 +45,7 @@ India shortlists two European fighter jets and rules out two US rivals for a key
 
 ##### Omar al-Bashir
 ### [Sudanese president Omar al-Bashir vows not to recognise South Sudan if it tries to claim oil-producing Abyei. ](/news/2011/04/28/sudanese-president-omar-al-bashir-vows-not-to-recognise-south-sudan-if-it-tries-to-claim-oil-producing-abyei.md)
-_Context: South Sudan, Omar al-Bashir, Abyei_
+_Context: Omar al-Bashir, South Sudan, Abyei_
 
 ##### Japan
 ### [Japan's industrial output declined by a record level of 15.3% in March due to the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -63,7 +63,7 @@ _Context: Cote d'Ivoire_
 ### [Renowned Swiss climber Erhard Loretan is killed after falling off a mountain in the Swiss Alps on his 52nd birthday. ](/news/2011/04/28/renowned-swiss-climber-erhard-loretan-is-killed-after-falling-off-a-mountain-in-the-swiss-alps-on-his-52nd-birthday.md)
 Swiss climber Erhard Loretan, who reached the summits of all 14 mountain peaks above 8,000m (26,247ft), dies in a fall in the Swiss Alps.
 
-##### State of emergency
+##### States of emergency
 ### [Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississippi-missouri-tennessee.md)
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.
 

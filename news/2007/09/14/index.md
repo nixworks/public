@@ -9,11 +9,11 @@ _Context: braking, sport utility vehicle, Honda Motor Co., Chrysler, Honda Civic
 
 ##### Run
 ### [ There is a run on the Northern Rock bank in the United Kingdom following revelations that it sought a rescue injection of funds from the Bank of England. ](/news/2007/09/14/there-is-a-run-on-the-northern-rock-bank-in-the-united-kingdom-following-revelations-that-it-sought-a-rescue-injection-of-funds-from-the-ba.md)
-_Context: Bank of England, bank, run, Northern Rock, United Kingdom_
+_Context: Bank of England, Northern Rock, United Kingdom, bank, run_
 
 ##### General
 ### [ U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md)
-_Context: Peter Pace, General, Joint Chiefs of Staff_
+_Context: Peter Pace, Joint Chiefs of Staff, General_
 
 ##### Foot and mouth disease
 ### [ A new case of foot and mouth disease is confirmed at a farm in Egham, Surrey, England. ](/news/2007/09/14/a-new-case-of-foot-and-mouth-disease-is-confirmed-at-a-farm-in-egham-surrey-england.md)
@@ -21,7 +21,7 @@ Britain has confirmed a new case of foot-and-mouth disease west of London, in a 
 
 ##### United Nations
 ### [ An official for the United Nations Office for the Coordination of Humanitarian Affairs warns that a million people in Africa require assistance after floods have killed more than 200 people in recent weeks. ](/news/2007/09/14/an-official-for-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-warns-that-a-million-people-in-africa-require-assist.md)
-_Context: United Nations, Office for the Coordination of Humanitarian Affairs, Africa, flood_
+_Context: Office for the Coordination of Humanitarian Affairs, Africa, United Nations, flood_
 
 ##### Benedict XVI
 ### [ Pope Benedict XVI's motu proprio "Summorum Pontificum" takes effect; the traditional Latin Mass is thus officially restored in the Roman Catholic Church. ](/news/2007/09/14/pope-benedict-xvi-s-motu-proprio-summorum-pontificum-takes-effect-the-traditional-latin-mass-is-thus-officially-restored-in-the-roman-ca.md)
@@ -29,7 +29,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ##### Russia
 ### [ The Russian State Duma confirms Viktor Zubkov as new Prime Minister of Russia. ](/news/2007/09/14/the-russian-state-duma-confirms-viktor-zubkov-as-new-prime-minister-of-russia.md)
-_Context: Russia, State Duma, Viktor Zubkov, Prime Minister of Russia_
+_Context: State Duma, Viktor Zubkov, Prime Minister of Russia, Russia_
 
 ##### Oscar Temaru
 ### [ Oscar Temaru is elected as the President of French Polynesia by the Parliament for the third time in three years. ](/news/2007/09/14/oscar-temaru-is-elected-as-the-president-of-french-polynesia-by-the-parliament-for-the-third-time-in-three-years.md)
@@ -41,7 +41,7 @@ At least 13 people have been confirmed dead and hundreds of homes damaged as rel
 
 ##### Japan Aerospace Exploration Agency
 ### [ The Japan Aerospace Exploration Agency successfully launches SELENE, the largest lunar mission since the Apollo program, on a mission to explore the moon. ](/news/2007/09/14/the-japan-aerospace-exploration-agency-successfully-launches-selene-the-largest-lunar-mission-since-the-apollo-program-on-a-mission-to-ex.md)
-_Context: Japan Aerospace Exploration Agency, Apollo program, SELENE, moon_
+_Context: SELENE, Apollo program, moon, Japan Aerospace Exploration Agency_
 
 ## [Previous Day...](/news/2007/09/13/index.md)
 

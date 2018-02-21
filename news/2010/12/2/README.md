@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/2/index.html)  [JSON](2010/12/2/index.json)  [XML](2010/
 
 ##### African Union
 ### [About 8,000 African Union troops from Burundi and Uganda are deployed to the Somali capital Mogadishu, the scene of heavy fighting this week. ](/news/2010/12/2/about-8-000-african-union-troops-from-burundi-and-uganda-are-deployed-to-the-somali-capital-mogadishu-the-scene-of-heavy-fighting-this-week.md)
-_Context: Somalia, African Union, Burundi, Uganda, Mogadishu_
+_Context: Burundi, Mogadishu, African Union, Somalia, Uganda_
 
 ##### Philippine government
 ### [Representatives of the Philippines government and the National Democratic Front resume peace talks in Hong Kong. ](/news/2010/12/2/representatives-of-the-philippines-government-and-the-national-democratic-front-resume-peace-talks-in-hong-kong.md)
@@ -45,7 +45,7 @@ Gatwick Airport will not reopen today as a continuing onslaught of snow and ice 
 
 ##### Dublin
 ### [Dublin's main thoroughfare O'Connell Street is shut following an explosion from a gas leak. ](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.md)
-_Context: O'Connell Street, Dublin_
+_Context: Dublin, O'Connell Street_
 
 ##### Haifa
 ### [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md)
@@ -57,7 +57,7 @@ Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&
 
 ##### WikiLeaks
 ### [WikiLeaks spokesperson Julian Assange calls for the resignation of Hillary Clinton "if it can be shown that she was responsible for ordering U.S. diplomatic figures to engage in espionage in the United Nations, in violation of the international covenants to which the U.S. has signed up". ](/news/2010/12/2/wikileaks-spokesperson-julian-assange-calls-for-the-resignation-of-hillary-clinton-if-it-can-be-shown-that-she-was-responsible-for-ordering.md)
-_Context: Julian Assange, espionage, Hillary Clinton, WikiLeaks, United Nations_
+_Context: United Nations, Hillary Clinton, Julian Assange, espionage, WikiLeaks_
 
 ##### Time
 ### [Julian Assange grants an interview to "TIME" in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that-s.md)
@@ -65,15 +65,15 @@ _Context: Time_
 
 ##### Iran
 ### [Iran completes the fueling of its nuclear reactor at Bushehr. ](/news/2010/12/2/iran-completes-the-fueling-of-its-nuclear-reactor-at-bushehr.md)
-_Context: nuclear reactor, Bushehr, Iran_
+_Context: Bushehr, Iran, nuclear reactor_
 
 ##### Dick Cheney
 ### [Dick Cheney faces charges in Nigeria over $180 million dollars in bribes a subsidiary of Halliburton, of which Cheney was chief executive, paid to Nigerian officials. ](/news/2010/12/2/dick-cheney-faces-charges-in-nigeria-over-180-million-dollars-in-bribes-a-subsidiary-of-halliburton-of-which-cheney-was-chief-executive-p.md)
-_Context: Dick Cheney, Halliburton, Nigeria_
+_Context: Nigeria, Halliburton, Dick Cheney_
 
 ##### Iranian police
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: Israel, United Kingdom, Iran, United States, Iranian police, CIA, nuclear physicists, MI6, Mossad_
+_Context: CIA, Iranian police, United Kingdom, United States, nuclear physicists, MI6, Mossad, Iran, Israel_
 
 ##### Taiwanese President
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)

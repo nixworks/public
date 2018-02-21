@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/13/index.html)  [JSON](2013/03/13/index.json)  [XML](201
 
 ##### Bemina
 ### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)
-_Context: CRPF, Kashmir, Srinagar, Bemina, India_
+_Context: Bemina, Kashmir, CRPF, Srinagar, India_
 
 ##### Kunduz province
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
@@ -13,7 +13,7 @@ _Context: Afghan, Kunduz province_
 
 ##### European Union
 ### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: European Union, Syria, Damascus_
+_Context: Damascus, European Union, Syria_
 
 ##### Kurdish
 ### [Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
@@ -57,7 +57,7 @@ Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new
 
 ##### Siumut
 ### [After her Siumut party wins the parliamentary election, Aleqa Hammond is set to become first female Prime Minister of Greenland. ](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.md)
-_Context: parliamentary election, Siumut, Prime Minister, Greenland, Aleqa Hammond_
+_Context: Aleqa Hammond, Prime Minister, parliamentary election, Greenland, Siumut_
 
 ##### Vatican City
 ### [Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-pope-in-the-morning-sess.md)
@@ -69,7 +69,7 @@ The National Science Council (NSC) and Academia Sinica yesterday announced that 
 
 ##### Intel Science Talent Search
 ### [The 2013 Intel Science Talent Search concludes with a Colorado high school senior winning the top prize for her work on algae biofuels. ](/news/2013/03/13/the-2013-intel-science-talent-search-concludes-with-a-colorado-high-school-senior-winning-the-top-prize-for-her-work-on-algae-biofuels.md)
-_Context: high school, algae biofuel, Intel Science Talent Search, Colorado_
+_Context: high school, Intel Science Talent Search, Colorado, algae biofuel_
 
 ## [Previous Day...](/news/2013/03/12/index.md)
 

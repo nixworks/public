@@ -17,11 +17,11 @@ _Context: Wetten, dass..?, German_
 
 ##### Landslide
 ### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)
-_Context: Java, Indonesia, Landslide, landslide_
+_Context: Indonesia, Landslide, landslide, Java_
 
 ##### Vietnam
 ### [Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claims.md)
-_Context: Vietnam, Chinese, South China Sea_
+_Context: Chinese, South China Sea, Vietnam_
 
 ##### India and Russia
 ### [India and Russia sign deals on infrastructure, nuclear energy, and defence. ](/news/2014/12/13/india-and-russia-sign-deals-on-infrastructure-nuclear-energy-and-defence.md)

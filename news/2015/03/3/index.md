@@ -33,11 +33,11 @@ _Context: Director of the CIA, United States soldier, David Petraeus_
 
 ##### Turkey
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture "Monument to Humanity" -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
-_Context: Monument to Humanity, Recep Tayyip Erdogan, Turkey, Mehmet Aksoy, $, Armenia, lira_
+_Context: $, lira, Monument to Humanity, Armenia, Recep Tayyip Erdogan, Mehmet Aksoy, Turkey_
 
 ##### Chinese
 ### [China detains Jing Chunhua, a senior official from Hebei province of China, for investigation by the Communist Party's anti-graft agency for violating party discipline and breaking the law. Jing is the second provincial-ranked official from Hebei province to undergo investigation since the wider anti-corruption campaign began in 2013. ](/news/2015/03/3/china-detains-jing-chunhua-a-senior-official-from-hebei-province-of-china-for-investigation-by-the-communist-party-s-anti-graft-agency-for.md)
-_Context: Jing Chunhua, Hebei, Central Commission for Discipline Inspection, Chinese_
+_Context: Chinese, Hebei, Central Commission for Discipline Inspection, Jing Chunhua_
 
 ##### Same-sex marriage in Slovenia
 ### [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md)
@@ -45,7 +45,7 @@ Slovenia joined a growing number of European countries that allow same-sex marri
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint meeting of the United States Congress over the nuclear program of Iran. ](/news/2015/03/3/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-meeting-of-the-united-states-congress-over-the-nuclear-program-of-iran.md)
-_Context: Israeli Prime Minister, nuclear program, Benjamin Netanyahu, joint session of Congress, Congress_
+_Context: Israeli Prime Minister, Benjamin Netanyahu, joint session of Congress, Congress, nuclear program_
 
 ##### Myanmar
 ### [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md)

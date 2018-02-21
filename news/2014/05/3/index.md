@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Ukrainian military
 ### [The Armed Forces of Ukraine resume an offensive near Kramatorsk, as military observers from the Organization for Security and Cooperation in Europe are released after having been held hostage for a week. ](/news/2014/05/3/the-armed-forces-of-ukraine-resume-an-offensive-near-kramatorsk-as-military-observers-from-the-organization-for-security-and-cooperation-in.md)
-_Context: Organization for Security and Cooperation in Europe, Ukrainian military, Kramatorsk_
+_Context: Ukrainian military, Kramatorsk, Organization for Security and Cooperation in Europe_
 
 ##### Mombasa
 ### [Twin explosions are reported in the city of Mombasa, Kenya, with at least three people killed and several injured. ](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.md)
@@ -25,7 +25,7 @@ _Context: the mudslides, Afghan_
 
 ##### Middle East respiratory syndrome
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)
-_Context: Middle East respiratory syndrome, Saudi Arabia, Munster, Indiana_
+_Context: Munster, Indiana, Middle East respiratory syndrome, Saudi Arabia_
 
 ##### Jonesboro, Arkansas
 ### [A gunman shoots and kills 3 people and wounds 4 others in Jonesboro, Arkansas, U.S., and then dies. ](/news/2014/05/3/a-gunman-shoots-and-kills-3-people-and-wounds-4-others-in-jonesboro-arkansas-u-s-and-then-dies.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/11/index.html)  [JSON](2016/04/11/index.json)  [XML](201
 
 ##### 2016 Stavropol bombings
 ### [ At least three suicide bombers attack a police station in Stavropol, Russia. ](/news/2016/04/11/at-least-three-suicide-bombers-attack-a-police-station-in-stavropol-russia.md)
-_Context: Stavropol, Russia, 2016 Stavropol bombings_
+_Context: Stavropol, 2016 Stavropol bombings, Russia_
 
 ##### Yemeni Civil War (2015-present)
 ### [Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis-taking-effect-however-the-truce-a.md)
@@ -33,7 +33,7 @@ U.S. Secretary of State John Kerry on Monday called his visit to a memorial to v
 
 ##### Houthi insurgency in Yemen
 ### [Ismail Ould Cheikh Ahmed, the United Nations special envoy for Yemen, says he welcomes the tentative truce that started at midnight Yemen time. The truce opens unhindered access for relief aid to all of Yemen. Peace talks are set to start later this month. ](/news/2016/04/11/ismail-ould-cheikh-ahmed-the-united-nations-special-envoy-for-yemen-says-he-welcomes-the-tentative-truce-that-started-at-midnight-yemen-ti.md)
-_Context: Ismail Ould Cheikh Ahmed, United Nations, Yemen, Houthi insurgency in Yemen, Yemeni Crisis (2011-present)_
+_Context: Yemen, Yemeni Crisis (2011-present), Ismail Ould Cheikh Ahmed, Houthi insurgency in Yemen, United Nations_
 
 ##### North Korea-South Korea relations
 ### [South Korea announces that a colonel from North Korea's military spy agency defected to the south last year. Senior-level defections are rare, most being low level operatives. ](/news/2016/04/11/south-korea-announces-that-a-colonel-from-north-korea-s-military-spy-agency-defected-to-the-south-last-year-senior-level-defections-are-rar.md)
@@ -49,7 +49,7 @@ CIA Director John Brennan told NBC News his agency will not engage in harsh &#x2
 
 ##### Kollam temple fire
 ### [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md)
-_Context: Puttingal Temple, Kollam temple fire, Indian police_
+_Context: Puttingal Temple, Indian police, Kollam temple fire_
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. ](/news/2016/04/11/israeli-security-forces-arrest-18-palestinians-on-the-west-bank-for-alleged-terrorism-related-offences.md)
@@ -61,7 +61,7 @@ Democracy Spring is a movement organization committed to winning fundamental ref
 
 ##### Prime Minister
 ### [The Prime Minister of Kyrgyzstan Temir Sariyev announces he will resign from his post. This comes after several Parliament members accused Sariyev and his cabinet of corruption. The Kyrgyz presidential press service said President Almazbek Atambayev accepted his resignation. ](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.md)
-_Context: Kyrgyzstan, Temir Sariyev, Prime Minister, president, Almazbek Atambayev, Parliament_
+_Context: Temir Sariyev, Parliament, Kyrgyzstan, president, Prime Minister, Almazbek Atambayev_
 
 ##### Darfurian status referendum, 2016
 ### [Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.md)
@@ -73,7 +73,7 @@ Issues of changing a certain article of the South Ossetian constitution will be 
 
 ##### 2015-16 protests in Brazil
 ### [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md)
-_Context: Brazil, 2015-16 protests in Brazil, Dilma Rousseff, Brazil's Chamber of Deputies, Impeachment process against Dilma Rousseff, 2014, president_
+_Context: 2015-16 protests in Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, president, Brazil's Chamber of Deputies, 2014, Brazil_
 
 ## [Previous Day...](/news/2016/04/10/index.md)
 

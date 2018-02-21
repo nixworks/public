@@ -21,7 +21,7 @@ _Context: Gaza Strip, Israel_
 
 ##### May Hariri
 ### [An international aid ship, the "Saint Mariam", bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-several.md)
-_Context: May Hariri, Tripoli, Gaza Strip, Israel_
+_Context: Gaza Strip, Israel, Tripoli, May Hariri_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)
@@ -53,7 +53,7 @@ _Context: Foxconn_
 
 ##### Tata Group
 ### [The Tata Group establishes a five-man panel in the search for Ratan Naval Tata's successor as its head of business. ](/news/2010/08/6/the-tata-group-establishes-a-five-man-panel-in-the-search-for-ratan-naval-tata-s-successor-as-its-head-of-business.md)
-_Context: Tata Group, Ratan Naval Tata_
+_Context: Ratan Naval Tata, Tata Group_
 
 ##### Mark Hurd
 ### [Mark Hurd resigns as chief executive officer of computer company Hewlett-Packard following investigation of a sexual harassment claim. ](/news/2010/08/6/mark-hurd-resigns-as-chief-executive-officer-of-computer-company-hewlett-packard-following-investigation-of-a-sexual-harassment-claim.md)
@@ -61,7 +61,7 @@ Mark Hurd resigns as chief executive officer and president of Hewlett-Packard fo
 
 ##### Devastating floods
 ### [At least 12 million people are now affected by the worst floods in the history of Pakistan with 1,600 people being killed and 650,000 homes being destroyed. ](/news/2010/08/6/at-least-12-million-people-are-now-affected-by-the-worst-floods-in-the-history-of-pakistan-with-1-600-people-being-killed-and-650-000-homes.md)
-_Context: devastating floods, Pakistan_
+_Context: Pakistan, devastating floods_
 
 ##### Severe flash floods
 ### [Flash floods in the Ladakh region of India's Jammu and Kashmir state kill at least 113 people and leave lots of others missing. ](/news/2010/08/6/flash-floods-in-the-ladakh-region-of-india-s-jammu-and-kashmir-state-kill-at-least-113-people-and-leave-lots-of-others-missing.md)
@@ -81,7 +81,7 @@ Acrid smoke from forest and peat-bog fires east of Moscow shrouded the city in s
 
 ##### Karangetang
 ### [Mount Karangetang, a volcano on the Indonesian island of Siau, erupts. ](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.md)
-_Context: Siau, Indonesia, volcano, Karangetang_
+_Context: Karangetang, Indonesia, Siau, volcano_
 
 ##### Hiroshima
 ### [Hiroshima marks the 65th anniversary of the world's first atomic bomb attack; United States representatives attend in an official capacity for the first time. ](/news/2010/08/6/hiroshima-marks-the-65th-anniversary-of-the-world-s-first-atomic-bomb-attack-united-states-representatives-attend-in-an-official-capacity-f.md)
@@ -89,7 +89,7 @@ The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb att
 
 ##### Venezuela
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Venezuela, Colombia-Venezuela relations, Luiz Inacio Lula da Silva, Juan Manuel Santos, Colombia, Hugo Chavez, president_
+_Context: Venezuela, Colombia, Colombia-Venezuela relations, president, Juan Manuel Santos, Luiz Inacio Lula da Silva, Hugo Chavez_
 
 ##### South Africa
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
@@ -117,11 +117,11 @@ Five people are caned in public in the Indonesian province of Aceh, despite call
 
 ##### Bosnian
 ### [A 25-year-old Bosnian immigrant is arraigned in a Brooklyn United States District Court for involvement in an alleged terrorist plot to blow up New York City's subway system. ](/news/2010/08/6/a-25-year-old-bosnian-immigrant-is-arraigned-in-a-brooklyn-united-states-district-court-for-involvement-in-an-alleged-terrorist-plot-to-blow.md)
-_Context: United States District Court, New York City, Bosnian, arraigned, Brooklyn, New York, terrorism, subway_
+_Context: arraigned, New York City, Bosnian, United States District Court, subway, terrorism, Brooklyn, New York_
 
 ##### Nelson Mandela
 ### [Jeremy Ractliffe, former head of the Nelson Mandela Children's Fund, admits he kept possible blood diamonds to protect the reputations of Mandela, Naomi Campbell and the fund but that he gave them to South African police and is willing to testify at Charles Taylor's trial. ](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.md)
-_Context: blood diamond, Charles Taylor, Nelson Mandela Children's Fund, Naomi Campbell, South Africa, Nelson Mandela_
+_Context: Naomi Campbell, Nelson Mandela Children's Fund, South Africa, blood diamond, Charles Taylor, Nelson Mandela_
 
 ##### Matamoros
 ### [At least 14 people are killed during a prison riot in Matamoros in the Mexican state of Tamaulipas. ](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.md)
@@ -149,7 +149,7 @@ The Pentagon demands that Wikileaks remove secret US documents on the Afghan war
 
 ##### Brazil
 ### [Brazil's four main presidential election candidates participate in their first televised debate. ](/news/2010/08/6/brazil-s-four-main-presidential-election-candidates-participate-in-their-first-televised-debate.md)
-_Context: Brazil, Brazilian presidential election_
+_Context: Brazilian presidential election, Brazil_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean files his papers in his bid to become President of Haiti. ](/news/2010/08/6/musician-wyclef-jean-files-his-papers-in-his-bid-to-become-president-of-haiti.md)
@@ -169,7 +169,7 @@ Politicians in Nepal again fail to elect a new PM - meaning the country has been
 
 ##### Swaziland
 ### [Swaziland's justice minister and senator Ndumiso Mamba resigns from both positions over allegations of an affair with a wife of King Mswati III; the wife has denied the allegations. ](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.md)
-_Context: Ndumiso Mamba, King Mswati III, Swaziland_
+_Context: Swaziland, King Mswati III, Ndumiso Mamba_
 
 ##### Little brown bat
 ### [According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-amer.md)
@@ -177,7 +177,7 @@ A disease known as white-nose syndrome is likely to wipe out a once-common speci
 
 ##### Confederate
 ### [U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so-t.md)
-_Context: Charleston, South Carolina, ''H. L. Hunley'', South Carolina, Confederate, submarine_
+_Context: Confederate, ''H. L. Hunley'', South Carolina, Charleston, South Carolina, submarine_
 
 ##### Greenland
 ### [American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. ](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-e
 
 ### [2013-04-15](/news/2013/04/15/index.md)
 
-##### Canadian
+##### Canada
 # Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. 
 
 

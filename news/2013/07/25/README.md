@@ -9,7 +9,7 @@ _Context: Syrian civil war, United Nations_
 
 ##### Oxford English Dictionary
 ### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
-_Context: same-sex couples, marriage, Oxford English Dictionary_
+_Context: marriage, Oxford English Dictionary, same-sex couples_
 
 ##### Chinese
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
@@ -37,7 +37,7 @@ Citizens of the small, poverty-stricken West African country of Togo are to vote
 
 ##### United Kingdom
 ### [British scientists discover the mechanism which causes human allergy to cats, and state that a general cure for the condition could become available within five years. ](/news/2013/07/25/british-scientists-discover-the-mechanism-which-causes-human-allergy-to-cats-and-state-that-a-general-cure-for-the-condition-could-become-a.md)
-_Context: allergy to cats, United Kingdom_
+_Context: United Kingdom, allergy to cats_
 
 ## [Previous Day...](/news/2013/07/24/index.md)
 

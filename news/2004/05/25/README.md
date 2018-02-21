@@ -5,15 +5,15 @@ Formats: [HTML](2004/05/25/index.html)  [JSON](2004/05/25/index.json)  [XML](200
 
 ##### Dominican Republic
 ### [ As many as 1,000 people are killed in floods in the Dominican Republic and Haiti. ](/news/2004/05/25/as-many-as-1-000-people-are-killed-in-floods-in-the-dominican-republic-and-haiti.md)
-_Context: Dominican Republic, Haiti_
+_Context: Haiti, Dominican Republic_
 
 ##### Bayer CropScience
 ### [ France bans the use of Bayer CropScience Imidacloprid on maize seeds. Gaucho is claimed to be harmful to bees. ](/news/2004/05/25/france-bans-the-use-of-bayer-cropscience-imidacloprid-on-maize-seeds-gaucho-is-claimed-to-be-harmful-to-bees.md)
-_Context: Bayer CropScience, Imidacloprid, bee, maize_
+_Context: maize, Bayer CropScience, bee, Imidacloprid_
 
 ##### Viacom
 ### [ Viacom's MTV Networks unit announces plans for the LOGO channel, the first LGBT-themed major cable television service in the United States, set for a February 17, 2005, debut. ](/news/2004/05/25/viacom-s-mtv-networks-unit-announces-plans-for-the-logo-channel-the-first-lgbt-themed-major-cable-television-service-in-the-united-states.md)
-_Context: MTV Networks, cable television, gay and bisexual men, LOGO channel, Viacom_
+_Context: Viacom, MTV Networks, gay and bisexual men, cable television, LOGO channel_
 
 ##### Abel Prize
 ### [ The Abel Prize is awarded in a ceremony in Oslo for the Atiyah-Singer index theorem. ](/news/2004/05/25/the-abel-prize-is-awarded-in-a-ceremony-in-oslo-for-the-atiyah-singer-index-theorem.md)

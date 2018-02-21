@@ -23,7 +23,7 @@ _Context: Baxter International_
 ### [England's High Court decides that Rusal, the huge Moscow-based aluminum producer, is right in its objections to new rules proposed by London Metal Exchange concerning the use of LME controlled warehouses. ](/news/2014/03/27/england-s-high-court-decides-that-rusal-the-huge-moscow-based-aluminum-producer-is-right-in-its-objections-to-new-rules-proposed-by-london.md)
 The London Metal Exchange postponed the implementation of a new warehousing rule after a U.K. judge said its decision was “unfair and unlawful” in a lawsuit brought by United Co. Rusal.
 
-##### Canadian
+##### Canada
 ### [Canada's Atlantic seaboard provinces brace for a spring blizzard that is predicted to be the worst storm in a decade. ](/news/2014/03/27/canada-s-atlantic-seaboard-provinces-brace-for-a-spring-blizzard-that-is-predicted-to-be-the-worst-storm-in-a-decade.md)
 Powerful blizzards have blasted across Canada&#039;s Atlantic coast as high winds and snowfall kept many residents indoors.
 
@@ -33,7 +33,7 @@ VATICAN CITY -- Greeting a man he has called an “inspiration,” President Oba
 
 ##### General Assembly of the United Nations
 ### [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
-_Context: General Assembly of the United Nations, Russia, Crimea_
+_Context: Russia, Crimea, General Assembly of the United Nations_
 
 ##### Martin Callinan
 ### [As the scandal rages on, it emerges Martin Callinan, who resigned as Garda Commissioner this week, wished to withdraw his use of the word "disgusting" to describe the behaviour of whistleblowers but was prevented from doing so by officials in the Department of Justice. ](/news/2014/03/27/as-the-scandal-rages-on-it-emerges-martin-callinan-who-resigned-as-garda-commissioner-this-week-wished-to-withdraw-his-use-of-the-word-d.md)
@@ -41,7 +41,7 @@ The former garda commissioner delayed withdrawing his use of the word &quot;disg
 
 ##### Philippines
 ### [Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict. The Comprehensive Agreement on Bangsamoro will pave way for autonomous Bangsamoro. ](/news/2014/03/27/philippines-signs-a-peace-accord-with-the-largest-muslim-rebel-group-the-moro-islamic-liberation-front-ending-decades-of-conflict-the-com.md)
-_Context: Philippines, Bangsamoro, Moro insurgency in the Philippines, bill, Moro Islamic Liberation Front_
+_Context: Philippines, Moro Islamic Liberation Front, Bangsamoro, bill, Moro insurgency in the Philippines_
 
 ##### Iwao Hakamada
 ### [Iwao Hakamada, the world's longest serving death row inmate, is freed from a Japanese prison and granted a retrial after serving 48 years. ](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.md)

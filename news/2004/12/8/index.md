@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/8/index.html)  [JSON](2004/12/8/index.json)  [XML](2004/
 
 ##### Cuzco
 ### [ Delegates from twelve South American countries meeting in Cuzco, Peru, sign a deal creating the South American Community of Nations, a bloc modelled on the European Union. ](/news/2004/12/8/delegates-from-twelve-south-american-countries-meeting-in-cuzco-peru-sign-a-deal-creating-the-south-american-community-of-nations-a-bloc.md)
-_Context: Cuzco, European Union, South American Community of Nations_
+_Context: South American Community of Nations, Cuzco, European Union_
 
 ##### Israel
 ### [ The Israeli government indicates that it will recognize same-sex partnerships for certain benefits, and will introduce legislation formalizing this status. ](/news/2004/12/8/the-israeli-government-indicates-that-it-will-recognize-same-sex-partnerships-for-certain-benefits-and-will-introduce-legislation-formaliz.md)
@@ -13,15 +13,15 @@ _Context: Israel_
 
 ##### Civil Unions and Relationships Acts
 ### [ Civil unions in New Zealand: Parliament passes civil union legislation by 65 votes to 55. The new law provides a way for "de facto" couples, including same-sex couples, to gain legal recognition of their relationships, but stops short of same-sex marriage. ](/news/2004/12/8/civil-unions-in-new-zealand-parliament-passes-civil-union-legislation-by-65-votes-to-55-the-new-law-provides-a-way-for-de-facto-couples.md)
-_Context: civil union, Civil Unions and Relationships Acts, same-sex marriage, Parliament of New Zealand_
+_Context: Parliament of New Zealand, same-sex marriage, Civil Unions and Relationships Acts, civil union_
 
 ##### White House
 ### [ The White House affirms that, despite reports to the contrary, John Snow will remain Treasury Secretary during President George W. Bush's second term of office. Meanwhile, Secretary of Veterans Affairs Anthony Principi announces his expected resignation. ](/news/2004/12/8/the-white-house-affirms-that-despite-reports-to-the-contrary-john-snow-will-remain-treasury-secretary-during-president-george-w-bush-s-s.md)
-_Context: U.S. President, John W. Snow, Anthony Principi, United States Secretary of the Treasury, second term, White House, U.S. Secretary of Veterans Affairs, George W. Bush_
+_Context: Anthony Principi, U.S. Secretary of Veterans Affairs, White House, U.S. President, United States Secretary of the Treasury, George W. Bush, second term, John W. Snow_
 
 ##### United States Senate
 ### [ The United States Senate follows the U.S. House of Representatives in approving a complete overhaul of government intelligence services, creating the post of United States Director of National Intelligence. ](/news/2004/12/8/the-united-states-senate-follows-the-u-s-house-of-representatives-in-approving-a-complete-overhaul-of-government-intelligence-services-cr.md)
-_Context: United States House of Representatives, United States Senate, U.S. National Intelligence Director_
+_Context: U.S. National Intelligence Director, United States House of Representatives, United States Senate_
 
 ##### European Union
 ### [ The European Union says it is not ready to lift its 15-year-old arms embargo on the People's Republic of China, set after the Tiananmen Square protests of 1989. ](/news/2004/12/8/the-european-union-says-it-is-not-ready-to-lift-its-15-year-old-arms-embargo-on-the-people-s-republic-of-china-set-after-the-tiananmen-squ.md)
@@ -33,11 +33,11 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### IBM
 ### [ IBM announces that it will sell its PC hardware business to Lenovo, a Chinese computer company. ](/news/2004/12/8/ibm-announces-that-it-will-sell-its-pc-hardware-business-to-lenovo-a-chinese-computer-company.md)
-_Context: Lenovo, PC, mainland China, computer, IBM_
+_Context: PC, IBM, mainland China, computer, Lenovo_
 
 ##### Jayendra Saraswathi
 ### [ Sri Jayendra Saraswathi, a senior Hindu cleric, has been denied bail over his murder charge in India's southern Tamil Nadu state. ](/news/2004/12/8/sri-jayendra-saraswathi-a-senior-hindu-cleric-has-been-denied-bail-over-his-murder-charge-in-india-s-southern-tamil-nadu-state.md)
-_Context: Jayendra Saraswathi, Tamil Nadu, murder_
+_Context: murder, Tamil Nadu, Jayendra Saraswathi_
 
 ## [Previous Day...](/news/2004/12/7/index.md)
 

@@ -29,7 +29,7 @@ There is growing alarm in Kenya where the government has announced 2.3m bags of 
 
 ##### Minibus
 ### [15 people die after a minibus drives off a cliff in the Philippines. ](/news/2010/06/2/15-people-die-after-a-minibus-drives-off-a-cliff-in-the-philippines.md)
-_Context: Philippines, minibus_
+_Context: minibus, Philippines_
 
 ##### Tejgaon
 ### [14 people are killed and injuries are caused when a four-storey building collapses in Tejgaon, Dhaka. ](/news/2010/06/2/14-people-are-killed-and-injuries-are-caused-when-a-four-storey-building-collapses-in-tejgaon-dhaka.md)
@@ -45,7 +45,7 @@ _Context: heatwave strikes India and South Asia_
 
 ##### South Africa
 ### [President of South Africa Jacob Zuma goes to India on his first state visit to Asia, launching a bilateral trade forum in Mumbai. ](/news/2010/06/2/president-of-south-africa-jacob-zuma-goes-to-india-on-his-first-state-visit-to-asia-launching-a-bilateral-trade-forum-in-mumbai.md)
-_Context: Asia, Mumbai, South Africa, Jacob Zuma, India_
+_Context: Asia, Mumbai, Jacob Zuma, South Africa, India_
 
 ##### Amnesty International
 ### [Amnesty International condemns Sunday's execution, in Tripoli and Benghazi, Libya, of 18 people, some of whom were from Chad, Egypt and Nigeria. ](/news/2010/06/2/amnesty-international-condemns-sunday-s-execution-in-tripoli-and-benghazi-libya-of-18-people-some-of-whom-were-from-chad-egypt-and-nige.md)
@@ -69,7 +69,7 @@ Three centre-right parties pledge to work together following weekend election.
 
 ##### New Caledonia
 ### [New Caledonia President Philippe Gomes is indicted over alleged misuse of business contracts. ](/news/2010/06/2/new-caledonia-president-philippe-goma-s-is-indicted-over-alleged-misuse-of-business-contracts.md)
-_Context: New Caledonia, Philippe Gomes, President of New Caledonia, contract, indicted_
+_Context: contract, New Caledonia, President of New Caledonia, Philippe Gomes, indicted_
 
 ##### Lombardy
 ### [President of Lombardy, Roberto Formigoni, offers pregnant women EUR4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-a-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md)
@@ -81,11 +81,11 @@ Suicide bombing and rocket attacks as delegates discuss plan for reconciliation.
 
 ##### South Korea
 ### [The South Korean government says that it will spend 11.3 billion won (US$9.3 million) until 2013 to support research on key three-dimensional 3D TV technologies. ](/news/2010/06/2/the-south-korean-government-says-that-it-will-spend-11-3-billion-won-us-9-3-million-until-2013-to-support-research-on-key-three-dimensiona.md)
-_Context: 3D TV, South Korea, 3D_
+_Context: 3D, 3D TV, South Korea_
 
 ##### Armando Galarraga
 ### [Armando Galarraga of the Detroit Tigers had his perfect game bid broken up by an incorrect call made by the first base umpire Jim Joyce that would have been his final out. ](/news/2010/06/2/armando-galarraga-of-the-detroit-tigers-had-his-perfect-game-bid-broken-up-by-an-incorrect-call-made-by-the-first-base-umpire-jim-joyce-that.md)
-_Context: Jim Joyce, his perfect game bid broken up by an incorrect call, Armando Galarraga_
+_Context: Jim Joyce, Armando Galarraga, his perfect game bid broken up by an incorrect call_
 
 ##### Brazil national football team
 ### [Brazil and Zimbabwe play a football game in front of a sell-out crowd in Harare ahead of the 2010 FIFA World Cup in South Africa, the first time since independence that a non-African team has performed in the country. President Robert Mugabe and Prime Minister Morgan Tsvangirai both attend and civil servants are given time off work. ](/news/2010/06/2/brazil-and-zimbabwe-play-a-football-game-in-front-of-a-sell-out-crowd-in-harare-ahead-of-the-2010-fifa-world-cup-in-south-africa-the-first.md)

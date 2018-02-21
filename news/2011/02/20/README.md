@@ -21,7 +21,7 @@ _Context: Mohmand Agency, Pakistan Army_
 
 ##### Sapping
 ### [Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
-_Context: Afghan, Jamie Larkham, 1st Combat Engineer Regiment (Australia), sapping_
+_Context: 1st Combat Engineer Regiment (Australia), Jamie Larkham, Afghan, sapping_
 
 ##### LTTE
 ### [The death is announced of slain LTTE leader Velupillai Prabhakaran's mother Vallipuram Parvathi. ](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.md)
@@ -37,7 +37,7 @@ Ten children are killed by a fire at a home for disabled children in the western
 
 ##### U.S. state
 ### [A heavy snowfall in the U.S. state of Minnesota results in the cancellation of hundreds of flights from Minneapolis-Saint Paul International Airport. ](/news/2011/02/20/a-heavy-snowfall-in-the-u-s-state-of-minnesota-results-in-the-cancellation-of-hundreds-of-flights-from-minneapolis-saint-paul-international.md)
-_Context: U.S. state, Minneapolis-Saint Paul International Airport, Minnesota_
+_Context: Minneapolis-Saint Paul International Airport, U.S. state, Minnesota_
 
 ##### The Guardian
 ### ["The Guardian" reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-centra.md)
@@ -45,11 +45,11 @@ An American official held in Pakistan after shooting dead two men is a CIA agent
 
 ##### German Foreign Minister
 ### [Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/following-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espionage-are-released-and-retur.md)
-_Context: Iran, Guido Westerwelle, German journalist, German, German Foreign Minister, Sakineh Mohammadi Ashtiani_
+_Context: German, Iran, German Foreign Minister, Guido Westerwelle, Sakineh Mohammadi Ashtiani, German journalist_
 
 ##### North Korea
 ### [North Korea has been observed digging tunnels at a nuclear test site in Punggye-ri in North Hamgyong Province raising concerns about another test. ](/news/2011/02/20/north-korea-has-been-observed-digging-tunnels-at-a-nuclear-test-site-in-punggye-ri-in-north-hamgyong-province-raising-concerns-about-another.md)
-_Context: North Hamgyong Province, North Korea, Punggye-ri, nuclear test_
+_Context: North Korea, nuclear test, North Hamgyong Province, Punggye-ri_
 
 ##### New Yorker Magazine
 ### ["New Yorker Magazine" reports that the Obama administration has entered exploratory talks with the Taliban in Afghanistan. ](/news/2011/02/20/new-yorker-magazine-reports-that-the-obama-administration-has-entered-exploratory-talks-with-the-taliban-in-afghanistan.md)
@@ -57,19 +57,19 @@ Comment about secret negotiations between the Obama Administration and Afghan Ta
 
 ##### Indonesia
 ### [Intruders steal secret computer files from Indonesian envoys staying in South Korea. ](/news/2011/02/20/intruders-steal-secret-computer-files-from-indonesian-envoys-staying-in-south-korea.md)
-_Context: Indonesia, South Korea_
+_Context: South Korea, Indonesia_
 
 ##### Government
 ### [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-seri.md)
-_Context: government,  Zine El Abidine Ben Ali, extradite, President of Tunisia, Saudi Arabia_
+_Context: President of Tunisia, government, Saudi Arabia, extradite,  Zine El Abidine Ben Ali_
 
 ##### Ciudad Juarez
 ### [Fifty-three people are killed in a 72-hour period in Ciudad Juarez, Mexico. ](/news/2011/02/20/fifty-three-people-are-killed-in-a-72-hour-period-in-ciudad-juarez-mexico.md)
-_Context: Mexico, Ciudad Juarez_
+_Context: Ciudad Juarez, Mexico_
 
 ##### Matteo Renzi
 ### [Italian politics's rising star Matteo Renzi, the Mayor of Florence, calls for the retirement of Silvio Berlusconi's generation, Berlusconi himself being "only six years younger than my granny". ](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.md)
-_Context: Mayor of Florence, Matteo Renzi, Silvio Berlusconi_
+_Context: Matteo Renzi, Mayor of Florence, Silvio Berlusconi_
 
 ##### Yoweri Museveni
 ### [Yoweri Museveni is re-elected President of Uganda for a fourth term; the opposition does not take the result well. ](/news/2011/02/20/yoweri-museveni-is-re-elected-president-of-uganda-for-a-fourth-term-the-opposition-does-not-take-the-result-well.md)

@@ -21,11 +21,11 @@ Officials seize thousands of smuggled capsules containing powdered flesh of fetu
 
 ##### Malaysia
 ### [Clerics in Malaysia issue a fatwa against Muslims participating in "unproductive demonstrations". ](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.md)
-_Context: Muslim, fatwa, Malaysia_
+_Context: Malaysia, Muslim, fatwa_
 
 ##### CIA
 ### [The CIA announces it had foiled a plot by Fahd al-Quso, a Yemeni affiliate of al-Qaida, to have a suicide bomber, using an improved version of the underwear bomb used by Umar Farouk Abdulmutallab in 2009, to blow up an American-bound airliner; no lives were ever at risk. ](/news/2012/05/7/the-cia-announces-it-had-foiled-a-plot-by-fahd-al-quso-a-yemeni-affiliate-of-al-qaida-to-have-a-suicide-bomber-using-an-improved-version.md)
-_Context: Fahd al-Quso, CIA, Umar Farouk Abdulmutallab, al-Qaida_
+_Context: Fahd al-Quso, al-Qaida, CIA, Umar Farouk Abdulmutallab_
 
 ##### Northwestern Bahamas
 ### [Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md)
@@ -45,11 +45,11 @@ Vladimir Putin is officially sworn in as president of Russia after four years as
 
 ##### Syria
 ### [Voters in Syria go to the polls for parliamentary elections as the death tolls from the uprising continues to increase. ](/news/2012/05/7/voters-in-syria-go-to-the-polls-for-parliamentary-elections-as-the-death-tolls-from-the-uprising-continues-to-increase.md)
-_Context: Syria, parliamentary elections, Syrian uprising (2011-present)_
+_Context: parliamentary elections, Syria, Syrian uprising (2011-present)_
 
 ##### Paeleoclimatology
 ### [Paeleoclimatology research published in "Current Biology" suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-warme.md)
-_Context: Paeleoclimatology, flatulence, methane, Current Biology, dinosaur, Earth, greenhouse gas_
+_Context: Earth, flatulence, dinosaur, Current Biology, greenhouse gas, Paeleoclimatology, methane_
 
 ## [Previous Day...](/news/2012/05/6/index.md)
 

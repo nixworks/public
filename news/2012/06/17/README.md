@@ -9,7 +9,7 @@ At least 36 people are killed in multiple blasts at several churches in northern
 
 ##### Google
 ### [Google reveals it has removed so-called 'terrorism videos' from the web at the request of governments, as well as blocking more than 100 YouTube videos which allegedly insult the Thai monarchy. ](/news/2012/06/17/google-reveals-it-has-removed-so-called-terrorism-videos-from-the-web-at-the-request-of-governments-as-well-as-blocking-more-than-100-you.md)
-_Context: Google, Thailand_
+_Context: Thailand, Google_
 
 ##### Turkey
 ### [A fire breaks out in a prison in the southeast Turkish province of Sanliurfa, killing 13 prisoners. ](/news/2012/06/17/a-fire-breaks-out-in-a-prison-in-the-southeast-turkish-province-of-aanla-urfa-killing-13-prisoners.md)
@@ -25,15 +25,15 @@ Two Palestinians are shot dead by an Israeli truck driver in the West Bank after
 
 ##### Greece
 ### [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md)
-_Context: failed, coalition, first election on May 6, Greece, second legislative election_
+_Context: second legislative election, coalition, first election on May 6, Greece, failed_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a second day to vote in the second round of a presidential election, with former prime minister Ahmed Shafik and Mohamed Morsi of the Muslim Brotherhood's Freedom and Justice Party both competing for the presidency. ](/news/2012/06/17/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-the-second-round-of-a-presidential-election-with-former-prime-minister-ahmed-sh.md)
-_Context: Freedom and Justice Party, Ahmed Shafik, Prime Minister of Egypt, Mohamed Morsi, Egypt, presidential election_
+_Context: Freedom and Justice Party, Prime Minister of Egypt, Mohamed Morsi, presidential election, Ahmed Shafik, Egypt_
 
 ##### France
 ### [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md)
-_Context: France, legislative election, PS_
+_Context: PS, legislative election, France_
 
 ## [Previous Day...](/news/2012/06/16/index.md)
 

@@ -25,7 +25,7 @@ The Reserve Bank of India has today cautioned the users, holders and traders of 
 
 ##### Mich.
 ### [Thousands of customers are still without power across Michigan, Vermont, Maine, and Southern Ontario after a winter storm earlier this week. ](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.md)
-_Context: Vermont, Mich., Maine, Southern Ontario_
+_Context: Maine, Southern Ontario, Vermont, Mich._
 
 ##### Japan
 ### [Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. ](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.md)

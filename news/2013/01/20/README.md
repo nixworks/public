@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/20/index.html)  [JSON](2013/01/20/index.json)  [XML](201
 
 ##### Syrian civil war
 ### [Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-the-jordanian-border.md)
-_Context: Syrian Army, Syrian civil war, Jordan_
+_Context: Jordan, Syrian civil war, Syrian Army_
 
 ##### Islamists
 ### [Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-they-control-the-city.md)
@@ -21,7 +21,7 @@ The death toll has risen to at least 48 hostages killed during a four-day siege 
 
 ##### Prokopyevsky District
 ### [At least four miners are killed and four others trapped after a fire at a mine in Prokopyevsky District, Kemerovo Oblast, Russia. ](/news/2013/01/20/at-least-four-miners-are-killed-and-four-others-trapped-after-a-fire-at-a-mine-in-prokopyevsky-district-kemerovo-oblast-russia.md)
-_Context: Russia, Kemerovo Oblast, Prokopyevsky District_
+_Context: Prokopyevsky District, Russia, Kemerovo Oblast_
 
 ##### France
 ### [A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by the cruise ship MV "Orion". ](/news/2013/01/20/a-french-sailor-who-had-spent-three-days-adrift-in-a-life-raft-in-the-southern-ocean-off-the-coast-of-tasmania-in-australia-is-rescued-by-th.md)
@@ -37,7 +37,7 @@ A teenager is arrested in New Mexico over the fatal shootings of two adults and 
 
 ##### Drug lord
 ### [A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. ](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-long-been-wanted-by-the-police-in-colombia-is-arrested-at-his-villa-on-the-atlantic-coast-of.md)
-_Context: Atlantic Ocean, Honduras, drug lord, Colombia_
+_Context: Atlantic Ocean, Colombia, Honduras, drug lord_
 
 ##### Second inauguration
 ### [The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. ](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.md)
@@ -53,11 +53,11 @@ The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on 
 
 ##### German
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: German, Chancellor, Angela Merkel, Lower Saxony state election_
+_Context: German, Angela Merkel, Lower Saxony state election, Chancellor_
 
 ##### Austria
 ### [Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-army-and-optional-social-service-for-young.md)
-_Context: Austria, army, national referendum, professional army, community service_
+_Context: army, professional army, Austria, national referendum, community service_
 
 ##### NASA
 ### [A NASA spacecraft, Mars Reconnaissance Orbiter, is providing new evidence of a wet underground environment on Mars that adds to an increasingly complex picture of the Red Planet's early evolution. ](/news/2013/01/20/a-nasa-spacecraft-mars-reconnaissance-orbiter-is-providing-new-evidence-of-a-wet-underground-environment-on-mars-that-adds-to-an-increasin.md)

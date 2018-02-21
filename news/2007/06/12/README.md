@@ -9,15 +9,15 @@ _Context: Nigeria, Man Booker International Prize, Chinua Achebe_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md)
-_Context: Labor Party, Ami Ayalon, Ehud Barak, Israeli Prime Minister_
+_Context: Ami Ayalon, Ehud Barak, Israeli Prime Minister, Labor Party_
 
 ##### Kurdistan Workers' Party
 ### [ The PKK declares that it will stop attacks on Turkey but will defend itself if attacked. ](/news/2007/06/12/the-pkk-declares-that-it-will-stop-attacks-on-turkey-but-will-defend-itself-if-attacked.md)
-_Context: Turkey, Kurdistan Workers' Party_
+_Context: Kurdistan Workers' Party, Turkey_
 
 ##### Jamaica
 ### [ Jamaican police declare that former Pakistani cricket team coach Bob Woolmer died of natural causes, ending a murder investigation. ](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.md)
-_Context: Jamaica, murder investigation, Bob Woolmer, Pakistani cricket team_
+_Context: Pakistani cricket team, Jamaica, murder investigation, Bob Woolmer_
 
 ##### Rain
 ### [ Severe rain causes flash flooding throughout Ireland, where places have been flooded after just 30 minutes of rain, particularly in Ulster. This brings to an end a period of very warm temperatures of up to 29 degC (84 degF) on the island. The town of Omagh and parts of Belfast are worst hit. ](/news/2007/06/12/severe-rain-causes-flash-flooding-throughout-ireland-where-places-have-been-flooded-after-just-30-minutes-of-rain-particularly-in-ulster.md)
@@ -29,7 +29,7 @@ Rescuers found 20 more bodies buried under mud in the Bangladesh port city of Ch
 
 ##### Milan Martic
 ### [ Milan Martic is found guilty of murder and persecution committed while he was leader of the Krajina Serb republic between 1991 and 1995. ](/news/2007/06/12/milan-martia-is-found-guilty-of-murder-and-persecution-committed-while-he-was-leader-of-the-krajina-serb-republic-between-1991-and-1995.md)
-_Context: 1995, 1991, Milan Martic, murder, Serb, Krajina_
+_Context: 1995, 1991, murder, Krajina, Serb, Milan Martic_
 
 ##### Afghan
 ### [ Afghan officials claim that seven members of the Afghan police were killed by Coalition air forces in a friendly fire incident. ](/news/2007/06/12/afghan-officials-claim-that-seven-members-of-the-afghan-police-were-killed-by-coalition-air-forces-in-a-friendly-fire-incident.md)
@@ -37,11 +37,11 @@ U.S.-led forces killed seven Afghan policemen, an official said on Tuesday, and 
 
 ##### Clashes
 ### [ Palestinian factional violence: Hamas officials report that a rocket-propelled grenade has been fired at the house of Prime Minister Ismail Haniyeh, causing damage but no injuries. ](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.md)
-_Context: grenade, Ismail Haniyeh, Prime Minister, Hamas, clashes_
+_Context: grenade, Hamas, Ismail Haniyeh, Prime Minister, clashes_
 
 ##### Structural failure
 ### [ Structural failure is suspected after the top two floors of a five-storey building collapse in central London's Dean Farrar Street. ](/news/2007/06/12/structural-failure-is-suspected-after-the-top-two-floors-of-a-five-storey-building-collapse-in-central-london-s-dean-farrar-street.md)
-_Context: Structural failure, storey, Dean Farrar Street, London_
+_Context: storey, London, Structural failure, Dean Farrar Street_
 
 ## [Previous Day...](/news/2007/06/11/index.md)
 

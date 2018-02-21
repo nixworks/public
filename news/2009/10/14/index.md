@@ -9,7 +9,7 @@ Opponents in the political standoff in Honduras appear to have reached a comprom
 
 ##### Russia
 ### [ Opposition politicians walk out of the Russian lower house of parliament, the State Duma, alleging vote rigging at the weekend's elections which saw the United Russia party winning nearly every poll. ](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.md)
-_Context: serious rights violations or irregularities, United Russia, State Duma, Russia_
+_Context: Russia, State Duma, serious rights violations or irregularities, United Russia_
 
 ##### Father Michael Sinnott
 ### [ Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md)
@@ -21,7 +21,7 @@ _Context: United Nations, malnutrition_
 
 ##### Armenia
 ### [ Armenian President Serzh Sargsyan visits Turkey to attend a qualifying match between the nations for the FIFA World Cup. Turkish fans boo the Armenian anthem. ](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.md)
-_Context: Armenian President, the Armenian anthem, World Cup, Armenia, Turkey, Serzh Sargsyan_
+_Context: Serzh Sargsyan, Turkey, World Cup, Armenian President, the Armenian anthem, Armenia_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones closes above 10,000 points for the first time in more than a year. ](/news/2009/10/14/the-dow-jones-closes-above-10-000-points-for-the-first-time-in-more-than-a-year.md)

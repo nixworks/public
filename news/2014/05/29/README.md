@@ -9,7 +9,7 @@ Pro-Russia separatists in eastern Ukraine tell a Russian news agency they seized
 
 ##### 87th Scripps National Spelling Bee
 ### [Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. ](/news/2014/05/29/two-indian-american-teenagers-sriram-hathwar-of-painted-post-new-york-and-ansun-sujoe-of-fort-worth-texas-share-the-title-after-tying-in.md)
-_Context: Painted Post, New York, 87th Scripps National Spelling Bee, Fort Worth, Texas, Indian-American_
+_Context: Painted Post, New York, Fort Worth, Texas, 87th Scripps National Spelling Bee, Indian-American_
 
 ##### Axel Kicillof
 ### [Economy Minister Axel Kicillof of Argentina reaches an agreement with the Paris Club of creditor nations on debt repayment totaling $9.7 billion including interest, over the next five years. ](/news/2014/05/29/economy-minister-axel-kicillof-of-argentina-reaches-an-agreement-with-the-paris-club-of-creditor-nations-on-debt-repayment-totaling-9-7-bil.md)

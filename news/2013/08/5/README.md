@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### US military
 ### [US military helicopter crashed at a US Marine Camp Hansen in Japan's southernmost prefecture of Okinawa, killing 4 people and injuring 3 others. ](/news/2013/08/5/us-military-helicopter-crashed-at-a-us-marine-camp-hansen-in-japan-s-southernmost-prefecture-of-okinawa-killing-4-people-and-injuring-3-oth.md)
-_Context: Camp Hansen, Japan, US military, Okinawa, Marine_
+_Context: Camp Hansen, Japan, Okinawa, Marine, US military_
 
 ##### Flash floods
 ### [More than 160 people are killed in flash floods across Afghanistan and Pakistan. ](/news/2013/08/5/more-than-160-people-are-killed-in-flash-floods-across-afghanistan-and-pakistan.md)
@@ -33,15 +33,15 @@ _Context: Salinas, California, U.S._
 
 ##### Town hall meeting
 ### [Three people are killed and five are wounded in a shooting at a town hall meeting in Ross Township, Pennsylvania, U.S. ](/news/2013/08/5/three-people-are-killed-and-five-are-wounded-in-a-shooting-at-a-town-hall-meeting-in-ross-township-pennsylvania-u-s.md)
-_Context: Pennsylvania, U.S., Ross Township, town hall meeting_
+_Context: U.S., Ross Township, town hall meeting, Pennsylvania_
 
 ##### Enele Sopoaga
 ### [Opposition leader Enele Sopoaga is sworn in as Prime Minister of Tuvalu by Governor-General Iakoba Italeli after winning a secret ballot held in parliament. ](/news/2013/08/5/opposition-leader-enele-sopoaga-is-sworn-in-as-prime-minister-of-tuvalu-by-governor-general-iakoba-italeli-after-winning-a-secret-ballot-hel.md)
-_Context: Governor-General, Enele Sopoaga, secret ballot, Prime Minister of Tuvalu, Iakoba Italeli_
+_Context: Iakoba Italeli, Enele Sopoaga, Prime Minister of Tuvalu, Governor-General, secret ballot_
 
 ##### Stem cells
 ### [The world's first bovine stem cells lab-grown burger is cooked and eaten at a news conference in London. ](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-burger-is-cooked-and-eaten-at-a-news-conference-in-london.md)
-_Context: stem cells, burger, lab_
+_Context: stem cells, lab, burger_
 
 ## [Previous Day...](/news/2013/08/4/index.md)
 

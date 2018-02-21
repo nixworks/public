@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/30/index.html)  [JSON](2014/05/30/index.json)  [XML](201
 
 ##### Islamist insurgency in Nigeria
 ### [Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md)
-_Context: Islamist insurgency in Nigeria, traditional rulers, Islamist, Boko Haram, Nigeria, Borno_
+_Context: Islamist insurgency in Nigeria, Borno, Boko Haram, traditional rulers, Nigeria, Islamist_
 
 ##### State Department
 ### [United States State Department makes its first confirmation that a U.S. citizen has been "involved" in a suicide bombing as part of Syria's ongoing civil war. ](/news/2014/05/30/united-states-state-department-makes-its-first-confirmation-that-a-u-s-citizen-has-been-involved-in-a-suicide-bombing-as-part-of-syria-s.md)
@@ -13,7 +13,7 @@ The U.S. State Department today confirmed that an American citizen was &ldquo;in
 
 ##### Indonesia
 ### [Indonesia's Sangeang Api volcano erupts disrupting flights in Indonesia and northern Australia. ](/news/2014/05/30/indonesia-s-sangeang-api-volcano-erupts-disrupting-flights-in-indonesia-and-northern-australia.md)
-_Context: northern Australia, Indonesia, Sangeang Api_
+_Context: Indonesia, northern Australia, Sangeang Api_
 
 ##### India
 ### [At least nine people are killed and over a dozen injured when a storm hits the Indian capital New Delhi. ](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.md)
@@ -21,7 +21,7 @@ At least 23 people were killed when storms lashed New Delhi and two Indian state
 
 ##### Earthquake
 ### [An earthquake in China's Yunnan province injures at least 45 people and forces thousands to relocate. ](/news/2014/05/30/an-earthquake-in-china-s-yunnan-province-injures-at-least-45-people-and-forces-thousands-to-relocate.md)
-_Context: Yunnan province, China, earthquake_
+_Context: earthquake, Yunnan province, China_
 
 ##### The Wall Street Journal
 ### ["The Wall Street Journal" reports that the FBI and SEC have launched an insider trading investigation involving billionaire investor Carl Icahn, Las Vegas gambler and investor Billy Walters, and golf superstar Phil Mickelson. No wrongdoing has yet been alleged. ](/news/2014/05/30/the-wall-street-journal-reports-that-the-fbi-and-sec-have-launched-an-insider-trading-investigation-involving-billionaire-investor-carl-ic.md)
@@ -33,7 +33,7 @@ Carney will be replaced by his deputy, longtime Obama aide Josh Earnest.
 
 ##### Malawian general election, 2014
 ### [Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md)
-_Context: Peter Mutharika, Malawian general election, 2014_
+_Context: Malawian general election, 2014, Peter Mutharika_
 
 ## [Previous Day...](/news/2014/05/29/index.md)
 

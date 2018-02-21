@@ -9,7 +9,7 @@ Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents 
 
 ##### Drones launch
 ### [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md)
-_Context: drones launch, Pakistan, North Waziristan_
+_Context: North Waziristan, drones launch, Pakistan_
 
 ##### 6.2 magnitude earthquake
 ### [The death toll from a 6.2 magnitude earthquake in Indonesia's Aceh Province rises to 42, with more than 400 injured and thousands of buildings damaged. ](/news/2013/07/3/the-death-toll-from-a-6-2-magnitude-earthquake-in-indonesia-s-aceh-province-rises-to-42-with-more-than-400-injured-and-thousands-of-buildin.md)
@@ -25,7 +25,7 @@ _Context: United Kingdom, Ricardo Patio, Ecuador_
 
 ##### Albert II of Belgium
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
-_Context: abdicate, Albert II of Belgium, Prince Philippe, Duke of Brabant_
+_Context: Prince Philippe, Duke of Brabant, abdicate, Albert II of Belgium_
 
 ##### El Paraso
 ### [A 4,000-year-old pyramid at El Paraso in Peru is destroyed by property developers. ](/news/2013/07/3/a-4-000-year-old-pyramid-at-el-paraiso-in-peru-is-destroyed-by-property-developers.md)

@@ -18,7 +18,7 @@ A powerful earthquake has devastated several Peruvian cities killing at least 33
 
 ### Related:
 
-1. [A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. ](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bolivia-and-rescue-efforts-continue-in-peru-amid-heavy-rain-and-floods-in-the-region.md) _Context: Peru, state of emergency_
+1. [A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. ](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bolivia-and-rescue-efforts-continue-in-peru-amid-heavy-rain-and-floods-in-the-region.md) _Context: Peru, states of emergency_
 2. [ The Peruvian government apologizes to citizens of African origin for centuries of abuse. ](/news/2009/11/29/the-peruvian-government-apologizes-to-citizens-of-african-origin-for-centuries-of-abuse.md) _Context: Government of Peru, Peru_
 3. [ The Peruvian government is to revoke land laws that resulted in deadly clashes with indigenous protesters in the Amazon. ](/news/2009/06/17/the-peruvian-government-is-to-revoke-land-laws-that-resulted-in-deadly-clashes-with-indigenous-protesters-in-the-amazon.md) _Context: Government of Peru, Peru_
 4. [ Sixty-five indigenous peoples declare an insurgency against Peru's government. ](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurgency-against-peru-s-government.md) _Context: Government of Peru, Peru_

@@ -5,27 +5,27 @@ Formats: [HTML](2004/09/13/index.html)  [JSON](2004/09/13/index.json)  [XML](200
 
 ##### Time Warner
 ### [ Following Time Warner's withdrawal, the management of Metro-Goldwyn-Mayer accepts a take-over offer from Sony worth just under US$3 billion. ](/news/2004/09/13/following-time-warner-s-withdrawal-the-management-of-metro-goldwyn-mayer-accepts-a-take-over-offer-from-sony-worth-just-under-us-3-billion.md)
-_Context: Sony, Time Warner, MGM_
+_Context: MGM, Sony, Time Warner_
 
 ##### Fathers 4 Justice
 ### [ A Fathers 4 Justice protester dressed as Batman breaches security at Buckingham Palace and scales a wall. He remains on a balcony for five hours before being arrested by police. ](/news/2004/09/13/a-fathers-4-justice-protester-dressed-as-batman-breaches-security-at-buckingham-palace-and-scales-a-wall-he-remains-on-a-balcony-for-five.md)
-_Context: Batman, remains on a balcony for five hours, Buckingham Palace, Fathers 4 Justice_
+_Context: Batman, Buckingham Palace, Fathers 4 Justice, remains on a balcony for five hours_
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Colin Powell says that he saw no direct connection between Saddam Hussein's former regime in Iraq and the September 11, 2001, attacks. During an interview on NBC's "Meet the Press," Powell also said he believes that if John Kerry were president at the time of a terrorist attack he would respond in a "robust" way. ](/news/2004/09/13/united-states-secretary-of-state-colin-powell-says-that-he-saw-no-direct-connection-between-saddam-hussein-s-former-regime-in-iraq-and-the.md)
-_Context: United States Secretary of State, NBC, Iraq, U.S. President, Saddam Hussein, September 11, 2001, attacks, Colin Powell, John Kerry, terrorist attack, Meet the Press_
+_Context: Iraq, John Kerry, September 11, 2001, attacks, U.S. President, Colin Powell, United States Secretary of State, NBC, Saddam Hussein, terrorist attack, Meet the Press_
 
 ##### Rebel-held
 ### [ The "pre-election offensive" against the Iraqi resistance continues in the rebel-held city of Fallujah, with air-strikes killing at least 16, including women and children. Joint U.S.-Iraqi forces say that they are targeting Jordanian militant Abu Musab al-Zarqawi, who is linked to al-Qaeda. The U.S. military says it is investigating an incident that occurred September 12 in Baghdad in which five people, including an "al-Arabiya" journalist broadcasting live, were killed in a helicopter attack. ](/news/2004/09/13/the-pre-election-offensive-against-the-iraqi-resistance-continues-in-the-rebel-held-city-of-fallujah-with-air-strikes-killing-at-least-1.md)
-_Context: Baghdad, Iraqi, rebel-held, helicopter, Fallujah, al-Arabiya, al-Qaeda, Abu Musab al-Zarqawi, Jordan_
+_Context: Fallujah, al-Arabiya, al-Qaeda, helicopter, Iraqi, Abu Musab al-Zarqawi, Jordan, Baghdad, rebel-held_
 
 ##### Afghan
 ### [ In Afghanistan, 22 insurgents believed to be members of the Taliban and al-Qaeda are killed in the province of Zabul. Zabul Province is widely regarded as a Taleban stronghold. ](/news/2004/09/13/in-afghanistan-22-insurgents-believed-to-be-members-of-the-taliban-and-al-qaeda-are-killed-in-the-province-of-zabul-zabul-province-is-wid.md)
-_Context: Zabul, stronghold, Taliban, Afghan, al-Qaeda_
+_Context: Afghan, al-Qaeda, stronghold, Zabul, Taliban_
 
 ##### Ulster Defence Association
 ### [ Former UDA member Ken Barrett pleads guilty to the murder of solicitor Pat Finucane in 1989&mdash;one of the most controversial murders of Northern Ireland's Troubles. ](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.md)
-_Context: Pat Finucane, Ulster Defence Association, Northern Ireland, Troubles_
+_Context: Pat Finucane, Troubles, Ulster Defence Association, Northern Ireland_
 
 ## [Previous Day...](/news/2004/09/12/index.md)
 

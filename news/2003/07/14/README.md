@@ -3,7 +3,7 @@ Formats: [HTML](2003/07/14/index.html)  [JSON](2003/07/14/index.json)  [XML](200
 
 ## [2003-07-14](/news/2003/07/14/index.md)
 
-##### State of emergency
+##### States of emergency
 ### [ Mexico declares a state of emergency due to an outbreak of the West Nile virus ](/news/2003/07/14/mexico-declares-a-state-of-emergency-due-to-an-outbreak-of-the-west-nile-virus.md)
 Planet Ark Stories and Ideas
 

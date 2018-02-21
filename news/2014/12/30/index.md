@@ -9,7 +9,7 @@ Iraqi government forces have retaken the town of Dhuluiya from Islamic State, so
 
 ##### Somali civil war
 ### [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md)
-_Context: Somalia, Somali civil war, Saakow, Al-Shabaab_
+_Context: Somalia, Al-Shabaab, Saakow, Somali civil war_
 
 ##### Luise Rainer
 ### [Luise Rainer, German-born American actress ("The Great Ziegfeld", "The Good Earth"), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumonia-at.md)
@@ -25,7 +25,7 @@ Malaysia, southern Thailandand parts of the Philippines have been battered by he
 
 ##### Moscow
 ### [A court in Moscow hands down a 3 1 suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md)
-_Context: Alexei Navalny, Vladimir Putin, Moscow_
+_Context: Moscow, Alexei Navalny, Vladimir Putin_
 
 ## [Previous Day...](/news/2014/12/29/index.md)
 

@@ -13,11 +13,11 @@ The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid t
 
 ##### North Korea-United States relations
 ### [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md)
-_Context: State Department, Otto Warmbier, North Korea, coma, North Korea-United States relations_
+_Context: coma, North Korea, Otto Warmbier, North Korea-United States relations, State Department_
 
 ##### Defects
 ### [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md)
-_Context: South Korea, defects, North Korea, DMZ_
+_Context: South Korea, DMZ, North Korea, defects_
 
 ##### Crime in Germany
 ### [A shooting occurs at a local train station in the Unterfohring suburb of Munich, Germany. The assailant shot a police officer in the head; she is in critical condition. Backup police engaged in a shootout where the suspect and two bystanders were injured. Police do not believe this is a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-the-unterfaphring-suburb-of-munich-germany-the-assailant-shot-a-police-officer-in-the-head.md)

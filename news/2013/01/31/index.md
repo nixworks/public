@@ -61,15 +61,15 @@ SOUTH Australian Opposition Leader Isobel Redmond has quit the Liberal leadershi
 
 ##### Russia
 ### [The Russian city of Volgograd passes a measure to refer to itself by its previous name, Stalingrad, on Victory Day and five key dates relating to the Battle of Stalingrad. ](/news/2013/01/31/the-russian-city-of-volgograd-passes-a-measure-to-refer-to-itself-by-its-previous-name-stalingrad-on-victory-day-and-five-key-dates-relati.md)
-_Context: Volgograd, battle of the same name, Victory Day, Russia_
+_Context: Russia, Victory Day, battle of the same name, Volgograd_
 
 ##### Serbia
 ### [Serbia's Prime Minister Ivica Dacic, who was flashed by a model without underwear masquerading as a television interviewer, launches an investigation into how he became the target of the prank. ](/news/2013/01/31/serbia-s-prime-minister-ivica-daaia-who-was-flashed-by-a-model-without-underwear-masquerading-as-a-television-interviewer-launches-an-in.md)
-_Context: model, interviewer, Prime Minister of Serbia, underwear, Serbia, prank, Ivica Dacic_
+_Context: model, underwear, prank, Ivica Dacic, Serbia, interviewer, Prime Minister of Serbia_
 
 ##### Main belt asteroid
 ### [A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. ](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-andrushivka-astronomical-observatory-in-august-2008-is-named-274301-wikipedia-after-the-wikiped.md)
-_Context: main belt asteroid, Wikipedia, 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukraine_
+_Context: Andrushivka Astronomical Observatory, main belt asteroid, Wikipedia, Ukraine, 274301 Wikipedia_
 
 ##### NASA
 ### [NASA unveils the prototype of a lunar mining robot called the Regolith Advanced Surface Systems Operations Robot (RASSOR). ](/news/2013/01/31/nasa-unveils-the-prototype-of-a-lunar-mining-robot-called-the-regolith-advanced-surface-systems-operations-robot-rassor.md)

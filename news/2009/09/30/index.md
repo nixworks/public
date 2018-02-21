@@ -5,23 +5,23 @@ Formats: [HTML](2009/09/30/index.html)  [JSON](2009/09/30/index.json)  [XML](200
 
 ##### The deadly tsunami
 ### [ The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. ](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-in-the-samoan-islands-region-in-the-south-pacific-rises-to-at-least-113.md)
-_Context: Samoan Islands, South Pacific Ocean, tsunami, the deadly tsunami_
+_Context: South Pacific Ocean, Samoan Islands, tsunami, the deadly tsunami_
 
 ##### Magnitude
 ### [ A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. ](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indonesia-killing-at-least-75-and-trapping-thousands-of-people-under-rubble.md)
-_Context: earthquake, Indonesia, magnitude_
+_Context: magnitude, earthquake, Indonesia_
 
 ##### Guinea
 ### [ Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. ](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.md)
-_Context: Guinea, massacre of opposition protesters, Moussa Dadis Camara_
+_Context: Moussa Dadis Camara, massacre of opposition protesters, Guinea_
 
 ##### United States
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: New York City, Burma, United States_
+_Context: New York City, United States, Burma_
 
 ##### Church
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
-_Context: church, Nepal_
+_Context: Nepal, church_
 
 ##### Typhoon Ketsana
 ### [ The death toll from Typhoon Ketsana across Southeast Asia rises to 300. ](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.md)
@@ -37,11 +37,11 @@ Six parties withdraw from Juba conference discussing the future of south Sudan.
 
 ##### International fact-finding mission
 ### [ The final report of an international fact-finding mission concludes that Georgia started the 2008 South Ossetia war. ](/news/2009/09/30/the-final-report-of-an-international-fact-finding-mission-concludes-that-georgia-started-the-2008-south-ossetia-war.md)
-_Context: international fact-finding mission, 2008 South Ossetia war,  Georgian_
+_Context: international fact-finding mission,  Georgian, 2008 South Ossetia war_
 
 ##### President
 ### [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md)
-_Context: Lima, President, Alberto Fujimori, Peru_
+_Context: President, Lima, Peru, Alberto Fujimori_
 
 ## [Previous Day...](/news/2009/09/29/index.md)
 

@@ -21,7 +21,7 @@ President-elect Barack Obama stumbled in his quest for a smooth transition on Su
 
 ##### United States
 ### [ United States President-elect Barack Obama nominates Virginia Governor Tim Kaine to be the Democratic National Committee's next chairperson. ](/news/2009/01/4/united-states-president-elect-barack-obama-nominates-virginia-governor-tim-kaine-to-be-the-democratic-national-committee-s-next-chairperson.md)
-_Context: Virginia, President-elect, Governor of Virginia, Democratic National Committee, United States, Tim Kaine, Barack Obama_
+_Context: President-elect, United States, Barack Obama, Governor of Virginia, Virginia, Democratic National Committee, Tim Kaine_
 
 ## [Previous Day...](/news/2009/01/3/index.md)
 

@@ -9,7 +9,7 @@ Bobby Jindal, a conservative Republican congressman from the New Orleans suburbs
 
 ##### Amsterdam
 ### [ Riots erupt in the immigrant quarter of Amsterdam for the sixth night in succession after the death of a Moroccan man the previous weekend. ](/news/2007/10/20/riots-erupt-in-the-immigrant-quarter-of-amsterdam-for-the-sixth-night-in-succession-after-the-death-of-a-moroccan-man-the-previous-weekend.md)
-_Context: Morocco, Amsterdam_
+_Context: Amsterdam, Morocco_
 
 ##### Italy
 ### [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md)
@@ -21,7 +21,7 @@ Thousands flee fresh violence in eastern DR Congo
 
 ##### South Africa
 ### [ South Africa defeats England to win the 2007 Rugby World Cup. ](/news/2007/10/20/south-africa-defeats-england-to-win-the-2007-rugby-world-cup.md)
-_Context: World Cup, Rugby World Cup, South Africa_
+_Context: South Africa, Rugby World Cup, World Cup_
 
 ##### Karachi
 ### [ Karachi police release a photograph of the suicide bomber who killed at least 130 people in the 2007 Karachi bombings. ](/news/2007/10/20/karachi-police-release-a-photograph-of-the-suicide-bomber-who-killed-at-least-130-people-in-the-2007-karachi-bombings.md)
@@ -29,31 +29,31 @@ _Context: 2007 Karachi bombings, photograph, suicide bomber, Karachi_
 
 ##### J.K. Rowling
 ### [ J.K. Rowling has revealed that Dumbledore of the Harry Potter books is homosexual. ](/news/2007/10/20/j-k-rowling-has-revealed-that-dumbledore-of-the-harry-potter-books-is-homosexual.md)
-_Context: J.K. Rowling, gay, Harry Potter, Dumbledore_
+_Context: J.K. Rowling, gay, Dumbledore, Harry Potter_
 
 ##### Myanmar
 ### [ Myanmar's State Peace and Development Council lifts the curfew it imposed in Yangon and Mandalay on September 26. ](/news/2007/10/20/myanmar-s-state-peace-and-development-council-lifts-the-curfew-it-imposed-in-yangon-and-mandalay-on-september-26.md)
-_Context: curfew, Mandalay, Yangon, September 26, Myanmar, State Peace and Development Council_
+_Context: September 26, curfew, State Peace and Development Council, Mandalay, Yangon, Myanmar_
 
 ##### France
 ### [ French trains resume service after a two-day strike against President Nicolas Sarkozy's proposed welfare reform. ](/news/2007/10/20/french-trains-resume-service-after-a-two-day-strike-against-president-nicolas-sarkozy-s-proposed-welfare-reform.md)
-_Context: France's national railway company, welfare reform, Nicolas Sarkozy, strike, French President, France_
+_Context: France's national railway company, France, welfare reform, French President, Nicolas Sarkozy, strike_
 
 ##### Iraq
 ### [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md)
-_Context: President, Jalal Talabani, Kurdish, President of Iraq, Syria, Iraq, Bashar al-Assad, Turkey, Kurdistan Workers Party_
+_Context: Iraq, Bashar al-Assad, President of Iraq, President, Kurdistan Workers Party, Turkey, Jalal Talabani, Kurdish, Syria_
 
 ##### Mikhail Gorbachev
 ### [ Mikhail Gorbachev founds a new political party in Russia, called Union of Social-Democrats. ](/news/2007/10/20/mikhail-gorbachev-founds-a-new-political-party-in-russia-called-union-of-social-democrats.md)
-_Context: political party, Mikhail Gorbachev, Russia, Union of Social-Democrats_
+_Context: political party, Russia, Mikhail Gorbachev, Union of Social-Democrats_
 
 ##### Saeed Jalili
 ### [ Saeed Jalili replaces Ali Larijani as Iran's nuclear negotiator. ](/news/2007/10/20/saeed-jalili-replaces-ali-larijani-as-iran-s-nuclear-negotiator.md)
-_Context: Iran, Saeed Jalili, negotiation, nuclear program, Ali Larijani_
+_Context: Ali Larijani, Saeed Jalili, negotiation, Iran, nuclear program_
 
 ##### Bomb
 ### [ At least seven people die in a bomb blast in the town of Dera Bugti in the Balochistan province of Pakistan. ](/news/2007/10/20/at-least-seven-people-die-in-a-bomb-blast-in-the-town-of-dera-bugti-in-the-balochistan-province-of-pakistan.md)
-_Context: Balochistan, bomb, Pakistan, Dera Bugti_
+_Context: Pakistan, Balochistan, Dera Bugti, bomb_
 
 ## [Previous Day...](/news/2007/10/19/index.md)
 

@@ -9,7 +9,7 @@ _Context: Tunisia, Lotfi Ben Jeddou_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Chechen Republic leader, Ramzan Kadyrov, Ukraine_
+_Context: Ramzan Kadyrov, Chechen Republic leader, Ukraine_
 
 ##### Tehrik-i-Taliban Pakistan
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
@@ -21,7 +21,7 @@ At least 11 people have been killed and dozens injured in an attack on a church 
 
 ##### Apple Inc.
 ### [Apple Inc. confirms that it will buy Beats Electronics for $3 billion. ](/news/2014/05/28/apple-inc-confirms-that-it-will-buy-beats-electronics-for-3-billion.md)
-_Context: Apple Inc., Beats Electronics_
+_Context: Beats Electronics, Apple Inc._
 
 ##### South Korea
 ### [A fire at the Hyosarang hospital, a hospital for the elderly in South Korea's Jangseong County, kills at least 21 people and injures 7. ](/news/2014/05/28/a-fire-at-the-hyosarang-hospital-a-hospital-for-the-elderly-in-south-korea-s-jangseong-county-kills-at-least-21-people-and-injures-7.md)
@@ -37,7 +37,7 @@ _Context: Jos Rodrigo Archiga Gamboa, Sinaloa Cartel_
 
 ##### Egypt
 ### [Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/voting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-results-show-former-military-chief-abdul.md)
-_Context: Abdul Fattah al-Sisi, Egypt_
+_Context: Egypt, Abdul Fattah al-Sisi_
 
 ##### U.S. President
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)

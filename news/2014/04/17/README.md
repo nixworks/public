@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/17/index.html)  [JSON](2014/04/17/index.json)  [XML](201
 
 ##### Tehrik-i-Taliban Pakistan
 ### [The Pakistani Taliban announces that it will not extend a ceasefire with the Pakistani government. ](/news/2014/04/17/the-pakistani-taliban-announces-that-it-will-not-extend-a-ceasefire-with-the-pakistani-government.md)
-_Context: Tehrik-i-Taliban Pakistan, government_
+_Context: government, Tehrik-i-Taliban Pakistan_
 
 ##### Republic of Korea Coast Guard
 ### [Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-ferry-capsizing-off-the-coast-of-the.md)
@@ -25,7 +25,7 @@ _Context: Detroit, Steven W. Rhodes, Mich._
 
 ##### Algeria
 ### [Voters in Algeria go to the polls for a presidential election with incumbent President Abdelaziz Bouteflika standing for a fourth term. ](/news/2014/04/17/voters-in-algeria-go-to-the-polls-for-a-presidential-election-with-incumbent-president-abdelaziz-bouteflika-standing-for-a-fourth-term.md)
-_Context: President, Algeria, Abdelaziz Bouteflika_
+_Context: Algeria, Abdelaziz Bouteflika, President_
 
 ##### India
 ### [Voters in twelve states of India go to the polls for the biggest day of voting during the election process. ](/news/2014/04/17/voters-in-twelve-states-of-india-go-to-the-polls-for-the-biggest-day-of-voting-during-the-election-process.md)

@@ -17,7 +17,7 @@ A BUS carrying Pakistani soldiers has crashed into a deep ravine, killing 24 and
 
 ##### Tour bus
 ### [A tour bus carrying the Seton Hill University women's lacrosse team veers off the Pennsylvania Turnpike and strikes a tree near Carlisle, Pennsylvania, United States, killing the team's head coach, her unborn child, and the bus driver. ](/news/2013/03/16/a-tour-bus-carrying-the-seton-hill-university-women-s-lacrosse-team-veers-off-the-pennsylvania-turnpike-and-strikes-a-tree-near-carlisle-pe.md)
-_Context: bus driver, women's lacrosse, Pennsylvania, tour bus, Seton Hill University, Pennsylvania Turnpike's, Carlisle, United States_
+_Context: bus driver, Seton Hill University, United States, women's lacrosse, Pennsylvania Turnpike's, tour bus, Pennsylvania, Carlisle_
 
 ##### United States
 ### [A United States helicopter crashes near Kandahar in southern Afghanistan, killing one coalition service member and injuring another. ](/news/2013/03/16/a-united-states-helicopter-crashes-near-kandahar-in-southern-afghanistan-killing-one-coalition-service-member-and-injuring-another.md)
@@ -37,7 +37,7 @@ A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaul
 
 ##### Drive-by shooting
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: drive-by shooting, Galt, California, United States_
+_Context: California, United States, Galt, drive-by shooting_
 
 ##### Zimbabwe
 ### [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md)

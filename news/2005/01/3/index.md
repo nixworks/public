@@ -5,19 +5,19 @@ Formats: [HTML](2005/01/3/index.html)  [JSON](2005/01/3/index.json)  [XML](2005/
 
 ##### Iraq
 ### [ In Iraq, a spate of suicide bombings (including one near Iraqi National Accord headquarters) kills 27. Interim defence minister Hazim al-Shaalan hints that the assembly elections scheduled for 30 January could be delayed to allow for Sunni Muslim participation. ](/news/2005/01/3/in-iraq-a-spate-of-suicide-bombings-including-one-near-iraqi-national-accord-headquarters-kills-27-interim-defence-minister-hazim-al-sh.md)
-_Context: 30 January, Hazim al-Shaalan, Iraq, Iraqi National Accord, assembly elections_
+_Context: Iraqi National Accord, Hazim al-Shaalan, 30 January, assembly elections, Iraq_
 
 ##### Peru
 ### [ In Peru, 200 men from the Movimiento Etnocacerista who took over the town of Andahuaylas and its police station first say they intend to give up their weapons, then retract, saying the government had reneged on a surrender deal. ](/news/2005/01/3/in-peru-200-men-from-the-movimiento-etnocacerista-who-took-over-the-town-of-andahuaylas-and-its-police-station-first-say-they-intend-to-gi.md)
-_Context: Movimiento Etnocacerista, Peru, Andahuaylas_
+_Context: Peru, Andahuaylas, Movimiento Etnocacerista_
 
 ##### Uganda
 ### [ In Uganda, a seven-week ceasefire between the government and the Lord's Resistance Army ends with the rebel ambush of government troops near the town of Gulu. President Yoweri Museveni promises to increase military action against the rebels. ](/news/2005/01/3/in-uganda-a-seven-week-ceasefire-between-the-government-and-the-lord-s-resistance-army-ends-with-the-rebel-ambush-of-government-troops-nea.md)
-_Context: President, Uganda, Yoweri Museveni, Gulu, Lord's Resistance Army_
+_Context: Yoweri Museveni, President, Gulu, Lord's Resistance Army, Uganda_
 
 ##### Ethiopia
 ### [ Ethiopian opposition groups demonstrate against the government's plan to reopen border talks with Eritrea. ](/news/2005/01/3/ethiopian-opposition-groups-demonstrate-against-the-government-s-plan-to-reopen-border-talks-with-eritrea.md)
-_Context: Ethiopia, Eritrea_
+_Context: Eritrea, Ethiopia_
 
 ##### United Nations
 ### [ The United Nations accepts Singapore's offer to set up a ](/news/2005/01/3/the-united-nations-accepts-singapore-s-offer-to-set-up-a.md)

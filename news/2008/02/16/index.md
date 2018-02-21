@@ -9,7 +9,7 @@ _Context: Pakistan, Pakistan Peoples Party, suicide car bombing_
 
 ##### Toshiba
 ### [ Toshiba plans to withdraw from HD DVD production, ending the format war in Blu-ray Disc's favor. ](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.md)
-_Context: format war, Blu-ray Disc, Toshiba, HD DVD_
+_Context: format war, Toshiba, HD DVD, Blu-ray Disc_
 
 ##### Brown pelican
 ### [ Brown pelican delisted from endangered list. ](/news/2008/02/16/brown-pelican-delisted-from-endangered-list.md)
@@ -17,19 +17,19 @@ _Context: Brown pelican_
 
 ##### Harvard University
 ### [ A student dies of unknown causes while competing at the Harvard National Speech and Debate Tournament. ](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.md)
-_Context: Debate, Speech, Harvard University_
+_Context: Speech, Harvard University, Debate_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Benin on the first leg of a five-nation African tour. ](/news/2008/02/16/the-president-of-the-united-states-george-w-bush-arrives-in-benin-on-the-first-leg-of-a-five-nation-african-tour.md)
-_Context: George W. Bush, Benin, U.S. President, Africa_
+_Context: George W. Bush, Benin, Africa, U.S. President_
 
 ##### 2008
 ### [ United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. ](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.md)
-_Context: 2008, John McCain, Louisiana, primary election, Republican, Mich., Mitt Romney_
+_Context: Republican, Mich., Mitt Romney, Louisiana, primary election, 2008, John McCain_
 
 ##### Street racing
 ### [ A street racing accident kills eight people and injures four in Accokeek, Maryland. ](/news/2008/02/16/a-street-racing-accident-kills-eight-people-and-injures-four-in-accokeek-maryland.md)
-_Context: street racing, Accokeek, Maryland_
+_Context: Accokeek, Maryland, street racing_
 
 ## [Previous Day...](/news/2008/02/15/index.md)
 

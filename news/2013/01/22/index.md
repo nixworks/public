@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: ceasefire, FARC, oil pipeline, Colombia_
+_Context: FARC, Colombia, ceasefire, oil pipeline_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: Skyfall, Chinese, Censorship in China, James Bond_
+_Context: Chinese, Skyfall, James Bond, Censorship in China_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
@@ -31,7 +31,7 @@ The Philippines says it will challenge Chinese claims in the South China Sea at 
 ### [Irish politicians respond to High Court Judge Paul Carney's order that a man who plead guilty in court to repeatedly raping his daughter as a child be granted bail and provisional released. Taoiseach Enda Kenny comments on a nation "filled with revulsion" at the outcome of the case, while opposition politician Gerry Adams refers to abuse his father inflicted on others. ](/news/2013/01/22/irish-politicians-respond-to-high-court-judge-paul-carney-s-order-that-a-man-who-plead-guilty-in-court-to-repeatedly-raping-his-daughter-as.md)
 The prime minister of the Irish Republic says he hopes other rape victims will not be discouraged from coming forward in the wake of the controversial outcome of a rape case.
 
-##### Canadian
+##### Canada
 ### [A Canadian man shoots dead two people in a court in Cebu, Philippines, and seriously injures another. ](/news/2013/01/22/a-canadian-man-shoots-dead-two-people-in-a-court-in-cebu-philippines-and-seriously-injures-another.md)
 A Canadian man opens fire in a Philippine court, killing two people and wounding another, reports say.
 

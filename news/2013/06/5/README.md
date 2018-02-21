@@ -41,7 +41,7 @@ _Context: YouTube_
 
 ##### Prince Philip, Duke of Edinburgh
 ### [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md)
-_Context: Prince Philip, Duke of Edinburgh, London_
+_Context: London, Prince Philip, Duke of Edinburgh_
 
 ##### Michael Jackson
 ### [Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. ](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.md)
@@ -49,7 +49,7 @@ _Context: Michael Jackson_
 
 ##### A$
 ### [The Australian dollar hits a 20-month low against the United States dollar. ](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.md)
-_Context: $, A$_
+_Context: A$, $_
 
 ##### United States International Trade Commission
 ### [The United States International Trade Commission rules that Apple is infringing on a Samsung patent and bans the import of several popular Apple products. ](/news/2013/06/5/the-united-states-international-trade-commission-rules-that-apple-is-infringing-on-a-samsung-patent-and-bans-the-import-of-several-popular-a.md)
@@ -57,7 +57,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### International Monetary Fund
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: International Monetary Fund, Greece, austerity_
+_Context: austerity, Greece, International Monetary Fund_
 
 ##### Amazon.com
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)
@@ -93,7 +93,7 @@ A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot
 
 ##### Nawaz Sharif
 ### [Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. ](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.md)
-_Context: drones launch, Nawaz Sharif, Prime Minister_
+_Context: Nawaz Sharif, drones launch, Prime Minister_
 
 ##### Guantanamo Bay hunger strikes
 ### [As the ongoing Guantanamo Bay hunger strikes enters its 120th day, the United States House of Representatives votes to keep the prison camp open. ](/news/2013/06/5/as-the-ongoing-guanta-namo-bay-hunger-strikes-enters-its-120th-day-the-united-states-house-of-representatives-votes-to-keep-the-prison-camp.md)
@@ -109,7 +109,7 @@ Mr. Chen’s stance on the Tiananmen Square protests of 1989 earned him promotio
 
 ##### Tom Donilon
 ### [Tom Donilon resigns his post as U.S. National Security Advisor and is replaced by Susan Rice. ](/news/2013/06/5/tom-donilon-resigns-his-post-as-u-s-national-security-advisor-and-is-replaced-by-susan-rice.md)
-_Context: Tom Donilon, National Security Advisor, Susan Rice_
+_Context: Susan Rice, National Security Advisor, Tom Donilon_
 
 ##### 
 ### [An Egyptian court sentences 43 non-profit workers who advocated for democracy, many of them foreigners, to prison. ](/news/2013/06/5/an-egyptian-court-sentences-43-non-profit-workers-who-advocated-for-democracy-many-of-them-foreigners-to-prison.md)

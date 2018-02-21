@@ -13,7 +13,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 
 ##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: environmental, bankruptcy, Arch Coal, Sierra Club_
+_Context: environmental, Sierra Club, Arch Coal, bankruptcy_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -61,7 +61,7 @@ Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela 
 
 ##### Paul Ryan
 ### [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md)
-_Context: Donald Trump, Paul Ryan_
+_Context: Paul Ryan, Donald Trump_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States accepts a petition by five people from American Samoa arguing that people born in this U.S. territory are entitled to U.S citizenship under the United States Constitution. The State Department currently opposes this idea. ](/news/2016/06/2/the-supreme-court-of-the-united-states-accepts-a-petition-by-five-people-from-american-samoa-arguing-that-people-born-in-this-u-s-territory.md)

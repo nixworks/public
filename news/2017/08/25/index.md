@@ -77,7 +77,7 @@ _Context: Environmental Protection Agency, global warming, Environmental policy 
 
 ##### 2017 in spaceflight
 ### [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md)
-_Context: FORMOSAT-5, Falcon 9, SpaceX, Taiwan, 2017 in spaceflight, National Space Organization_
+_Context: Taiwan, 2017 in spaceflight, National Space Organization, FORMOSAT-5, Falcon 9, SpaceX_
 
 ## [Previous Day...](/news/2017/08/24/index.md)
 

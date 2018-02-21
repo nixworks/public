@@ -23,35 +23,35 @@ _Context: Somalia, Yemen, Gulf of Aden_
 
 ##### Alaska
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
-_Context: Alaska, Sarah Palin, legislative, Governor, Walter Monegan_
+_Context: Alaska, Walter Monegan, legislative, Governor, Sarah Palin_
 
 ##### Connecticut Supreme Court
 ### [ The Connecticut Supreme Court rules that gay and lesbian couples have the right to marry in Connecticut. ](/news/2008/10/10/the-connecticut-supreme-court-rules-that-gay-and-lesbian-couples-have-the-right-to-marry-in-connecticut.md)
-_Context: Connecticut Supreme Court, same-sex marriage, Connecticut_
+_Context: Connecticut Supreme Court, Connecticut, same-sex marriage_
 
 ##### Oxfam
 ### [ Oxfam says those needing food aid in Ethiopia has risen to 6.4 million, nearly two million more than in June . ](/news/2008/10/10/oxfam-says-those-needing-food-aid-in-ethiopia-has-risen-to-6-4-million-nearly-two-million-more-than-in-june.md)
-_Context: Ethiopia, Oxfam_
+_Context: Oxfam, Ethiopia_
 
 ##### NATO
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: German, NATO, France, Italy_
+_Context: Italy, German, France, NATO_
 
 ##### Nobel peace prize
 ### [ The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-international-conflicts-w.md)
-_Context: Indonesia, Martti Ahtisaari, Namibia, Aceh, Nobel peace prize, Kosovo, UN_
+_Context: Kosovo, Aceh, UN, Indonesia, Martti Ahtisaari, Namibia, Nobel peace prize_
 
 ##### Russia
 ### [ Former Russian cross country ski champion Alexey Prokurorov dies after he is hit by a car while crossing a road in Vladimir.](/news/2008/10/10/former-russian-cross-country-ski-champion-alexey-prokurorov-dies-after-he-is-hit-by-a-car-while-crossing-a-road-in-vladimir.md)
-_Context: Russia, Alexey Prokurorov, Vladimir_
+_Context: Alexey Prokurorov, Vladimir, Russia_
 
 ##### Sweden
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
-_Context: Ernesto "Tito" Beltran, Chile, nanny, Sweden, opera, tenor, appellate court_
+_Context: nanny, Ernesto "Tito" Beltran, tenor, appellate court, Sweden, Chile, opera_
 
 ##### North Korea
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
-_Context: Washington, D.C., state sponsor of terrorism, North Korea_
+_Context: Washington, D.C., North Korea, state sponsor of terrorism_
 
 ##### 
 ### [ European markets fall steeply upon opening. ](/news/2008/10/10/european-markets-fall-steeply-upon-opening.md)
@@ -67,7 +67,7 @@ Taiwan will celebrate its “Double Ten” National Day today. On October 10, 19
 ### [ Scores missing as migrant vessel sinks off the coast of northern Morocco in a route used by illegal migrants trying to reach Europe. ](/news/2008/10/10/scores-missing-as-migrant-vessel-sinks-off-the-coast-of-northern-morocco-in-a-route-used-by-illegal-migrants-trying-to-reach-europe.md)
 ##### Justice and Equality Movement
 ### [ Fifteen killed when JEM rebels ambush a government convoy in west Darfur. ](/news/2008/10/10/fifteen-killed-when-jem-rebels-ambush-a-government-convoy-in-west-darfur.md)
-_Context: Darfur, Justice and Equality Movement_
+_Context: Justice and Equality Movement, Darfur_
 
 ## [Previous Day...](/news/2008/10/9/index.md)
 

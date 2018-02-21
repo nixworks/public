@@ -13,7 +13,7 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 
 ##### Banking in the United States
 ### [Berkshire Hathaway Inc has become the largest shareholder of Bank of America by exercising its right to acquire 700 million shares at a steep discount, more than tripling an investment it made six years ago. Bank of America on Tuesday announced the exercise of the warrants, which gave Berkshire, controlled by Warren Buffett, the right to buy the bank's shares for about $7.14 each. Bank of America shares closed down 14 cents at $23.58 on the same day. ](/news/2017/08/29/berkshire-hathaway-inc-has-become-the-largest-shareholder-of-bank-of-america-by-exercising-its-right-to-acquire-700-million-shares-at-a-stee.md)
-_Context: Berkshire Hathaway Inc, Warren Buffett, Banking in the United States, Bank of America, shares_
+_Context: shares, Berkshire Hathaway Inc, Bank of America, Banking in the United States, Warren Buffett_
 
 ##### Hurricane Harvey
 ### [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md)
@@ -29,7 +29,7 @@ _Context: Washington, D.C., 2017 clashes at the Turkish Ambassador's Residence i
 
 ##### European migrant crisis
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
-_Context: European migrant crisis, Tripoli, Libyan Navy_
+_Context: European migrant crisis, Libyan Navy, Tripoli_
 
 ##### Politics of Germany
 ### [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md)

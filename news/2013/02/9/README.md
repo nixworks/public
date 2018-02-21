@@ -17,7 +17,7 @@ A record-breaking blizzard packing hurricane-force winds hammered the northeaste
 
 ##### 2013 Narino earthquake
 ### [2013 Narino earthquake: A magnitude 6.9 earthquake strikes southwest Colombia causing major disruption to the region and injuring at least 8 people. ](/news/2013/02/9/2013-naria-o-earthquake-a-magnitude-6-9-earthquake-strikes-southwest-colombia-causing-major-disruption-to-the-region-and-injuring-at-least.md)
-_Context: magnitude, 2013 Narino earthquake, Colombia, earthquake_
+_Context: magnitude, earthquake, 2013 Narino earthquake, Colombia_
 
 ##### Airplane
 ### [Five people are killed when a small airplane Cessna crashes on the side of the runway at Brussels South Charleroi Airport in Belgium after suffering difficulties on take-off. The incident forced the airport to shut down for six hours, before resuming services. ](/news/2013/02/9/five-people-are-killed-when-a-small-airplane-cessna-crashes-on-the-side-of-the-runway-at-brussels-south-charleroi-airport-in-belgium-after-s.md)
@@ -27,7 +27,7 @@ Five people reported to be from the same family are killed as a small plane cras
 ### [UK Secretary of State for Environment, Food and Rural Affairs Owen Paterson holds a summit with British retailers and the Food Standards Agency to ask how "beef" products containing horse meat were sold in supermarkets. ](/news/2013/02/9/uk-secretary-of-state-for-environment-food-and-rural-affairs-owen-paterson-holds-a-summit-with-british-retailers-and-the-food-standards-age.md)
 Retailers will now carry out &quot;more and tougher testing&quot; of beef products in the wake of widespread horsemeat contamination, the environment secretary says.
 
-##### Canadian
+##### Canada
 ### [Former Canadian navy intelligence officer Jeffrey Delisle is jailed for 20 years after pleading guilty to selling classified NATO information to Russia. ](/news/2013/02/9/former-canadian-navy-intelligence-officer-jeffrey-delisle-is-jailed-for-20-years-after-pleading-guilty-to-selling-classified-nato-informatio.md)
 A Canadian navy intelligence officer is sentenced to 20 years in prison after pleading guilty to selling classified Nato information to Russia.
 
@@ -37,7 +37,7 @@ The New Orleans police said they were seeking three men in the shooting, which l
 
 ##### Afzal Guru
 ### [Afzal Guru is hanged at Tihar Jail in New Delhi, India, for his role in the 2001 Indian Parliament attack. ](/news/2013/02/9/afzal-guru-is-hanged-at-tihar-jail-in-new-delhi-india-for-his-role-in-the-2001-indian-parliament-attack.md)
-_Context: 2001 Indian Parliament attack, death, Tihar Jail, New Delhi, Afzal Guru, India_
+_Context: New Delhi, India, Afzal Guru, Tihar Jail, 2001 Indian Parliament attack, death_
 
 ##### Annette Schavan
 ### [Annette Schavan, the German Federal Minister of Education and Research, resigns after the University of Dusseldorf stripped Schavan of her doctorate for plagiarism. ](/news/2013/02/9/annette-schavan-the-german-federal-minister-of-education-and-research-resigns-after-the-university-of-da1-4sseldorf-stripped-schavan-of-her.md)

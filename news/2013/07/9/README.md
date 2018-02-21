@@ -21,7 +21,7 @@ _Context: Francesco Schettino, Italy, Costa Concordia_
 
 ##### Labour Party
 ### [British Labour Party leader Ed Miliband says he will end the automatic affiliation fee paid to the Party by three million union members after the Unite union was accused of secretly signing up its members in order to get its favoured candidate elected in the Falkirk constituency. ](/news/2013/07/9/british-labour-party-leader-ed-miliband-says-he-will-end-the-automatic-affiliation-fee-paid-to-the-party-by-three-million-union-members-afte.md)
-_Context: Falkirk constituency, Labour Party, Unite union, Ed Miliband_
+_Context: Labour Party, Unite union, Ed Miliband, Falkirk constituency_
 
 ##### Egypt
 ### [Egypt's military-backed interim government selects economist Hazem Al Beblawi as the interim Prime Minister. ](/news/2013/07/9/egypt-s-military-backed-interim-government-selects-economist-hazem-al-beblawi-as-the-interim-prime-minister.md)

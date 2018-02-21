@@ -9,7 +9,7 @@ _Context: Chinese, legislative chamber, Taiwan_
 
 ##### United Nations Commission on Human Rights
 ### [ The United Nations Commission on Human Rights elects thirteen countries to serve on it for 3-year terms. Sudan is elected unopposed to represent the African bloc, prompting a walk-out by the U.S. delegation. ](/news/2004/05/4/the-united-nations-commission-on-human-rights-elects-thirteen-countries-to-serve-on-it-for-3-year-terms-sudan-is-elected-unopposed-to-repr.md)
-_Context: United Nations Commission on Human Rights, Sudan_
+_Context: Sudan, United Nations Commission on Human Rights_
 
 ##### Nigeria
 ### [ Hundreds of Muslim cattle herders are killed by Christian farmers in central Nigerian town of Yelwa. ](/news/2004/05/4/hundreds-of-muslim-cattle-herders-are-killed-by-christian-farmers-in-central-nigerian-town-of-yelwa.md)
@@ -17,7 +17,7 @@ _Context: Nigeria, Yelwa_
 
 ##### Democratic
 ### [ U.S. Democratic and Republican leaders in Congress condemn the alleged mistreatment of Iraqi detainees in the strongest terms and call for a congressional investigation. ](/news/2004/05/4/u-s-democratic-and-republican-leaders-in-congress-condemn-the-alleged-mistreatment-of-iraqi-detainees-in-the-strongest-terms-and-call-for.md)
-_Context: Republican, Congress, Democratic, Abu Ghraib prisoner abuse_
+_Context: Republican, Congress, Abu Ghraib prisoner abuse, Democratic_
 
 ##### United States military
 ### [ The Pentagon announces that it plans to keep as many as 138,000 U.S. troops in Iraq through the end of 2005. ](/news/2004/05/4/the-pentagon-announces-that-it-plans-to-keep-as-many-as-138-000-u-s-troops-in-iraq-through-the-end-of-2005.md)
@@ -25,11 +25,11 @@ _Context: Iraq, United States military_
 
 ##### Chicago
 ### [ A Chicago laboratory announces they helped choose embryos by genetic testing to yield five babies who could donate stem cells to sick siblings. ](/news/2004/05/4/a-chicago-laboratory-announces-they-helped-choose-embryos-by-genetic-testing-to-yield-five-babies-who-could-donate-stem-cells-to-sick-sibli.md)
-_Context: stem cell, lab, Chicago_
+_Context: stem cell, Chicago, lab_
 
 ##### William Krar
 ### [ William Krar, a Texan with ties to white supremacists, is sentenced to 11 years in prison after he pled guilty to building and possessing chemical weapons in what has been described as one of the most serious cases of domestic terrorism since the Oklahoma City bombing. ](/news/2004/05/4/william-krar-a-texan-with-ties-to-white-supremacists-is-sentenced-to-11-years-in-prison-after-he-pled-guilty-to-building-and-possessing-c.md)
-_Context: domestic terrorism, white supremacist, William Krar, chemical weapons, Texas, Oklahoma City bombing_
+_Context: domestic terrorism, white supremacist, Oklahoma City bombing, chemical weapons, Texas, William Krar_
 
 ## [Previous Day...](/news/2004/05/3/index.md)
 

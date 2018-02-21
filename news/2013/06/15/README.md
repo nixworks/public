@@ -25,7 +25,7 @@ MANILA, Philippines &ndash; More than 10,000 families in Cotabato were evacuated
 
 ##### Gulfstream IV
 ### [A Gulfstream IV aircraft carrying former President George W. Bush from Philadelphia International Airport to Dallas Love Field is diverted safely to Louisville International Airport when the pilot smells smoke; Bush arrived safely in Dallas early Sunday. ](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.md)
-_Context: Louisville International Airport, George W. Bush, Gulfstream IV, Dallas Love Field, Philadelphia_
+_Context: Louisville International Airport, Dallas Love Field, Gulfstream IV, George W. Bush, Philadelphia_
 
 ##### Piedras Negras, Mexico
 ### [The City of Piedras Negras, Mexico was devastated by the June 14-15, 2013 flood affecting an estimated 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivisions (Colonias) flooded. ](/news/2013/06/15/the-city-of-piedras-negras-mexico-was-devastated-by-the-june-14-15-2013-flood-affecting-an-estimated-40-000-50-000-residents-approximatel.md)
@@ -37,7 +37,7 @@ Egypt has cut diplomatic ties with Syria and has ordered the Damascus Embassy in
 
 ##### National Defense Commission
 ### [The National Defense Commission, North Korea's top government body, proposes high-level nuclear and security talks with the United States, days after a planned meeting with South Korea failed. ](/news/2013/06/15/the-national-defense-commission-north-korea-s-top-government-body-proposes-high-level-nuclear-and-security-talks-with-the-united-states-d.md)
-_Context: South Korea, North Korea, National Defense Commission_
+_Context: South Korea, National Defense Commission, North Korea_
 
 ##### United Kingdom
 ### [Britain's Royal Air Force (RAF) escorts an Egyptair Boeing 777 bound for New York to Glasgow Prestwick Airport in Scotland following an onboard incident. ](/news/2013/06/15/britain-s-royal-air-force-raf-escorts-an-egyptair-boeing-777-bound-for-new-york-to-glasgow-prestwick-airport-in-scotland-following-an-onbo.md)

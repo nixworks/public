@@ -17,7 +17,7 @@ _Context: Scandinavians_
 
 ##### Florence Hartmann
 ### [France refuses to extradite journalist and former court spokeswoman Florence Hartmann, indicted by the International Criminal Tribunal for the former Yugoslavia (ICTY) for contempt of court. ](/news/2011/12/26/france-refuses-to-extradite-journalist-and-former-court-spokeswoman-florence-hartmann-indicted-by-the-international-criminal-tribunal-for-t.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Florence Hartmann, contempt of court_
+_Context: contempt of court, Florence Hartmann, International Criminal Tribunal for the former Yugoslavia_
 
 ##### Chinese
 ### [The government of China sentences activist Chen Xi to ten years imprisonment for "inciting subversion". ](/news/2011/12/26/the-government-of-china-sentences-activist-chen-xi-to-ten-years-imprisonment-for-inciting-subversion.md)

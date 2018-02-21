@@ -5,15 +5,15 @@ Formats: [HTML](2005/01/26/index.html)  [JSON](2005/01/26/index.json)  [XML](200
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice is confirmed in the U.S. Senate by a vote of ](/news/2005/01/26/condoleezza-rice-is-confirmed-in-the-u-s-senate-by-a-vote-of.md)
-_Context: Condoleezza Rice, United States Senate_
+_Context: United States Senate, Condoleezza Rice_
 
 ##### Moazzam Begg
 ### [ After being incarcerated without trial for almost three years, the four British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are free to go home, having been released without charge by the UK government. ](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.md)
-_Context: Richard Belmar, Martin Mubanga, Moazzam Begg, Feroz Abbasi_
+_Context: Feroz Abbasi, Martin Mubanga, Richard Belmar, Moazzam Begg_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: 36 U.S. soldiers have died in a single day in Iraq. A helicopter crash in western Iraq has claimed the lives of 30 U.S. marines and a sailor. It is the single worst loss of life for US forces since they invaded Iraq in March 2003. Elsewhere insurgents killed 4 US troops in Anbar, and another soldier was killed in Baghdad following an RPG attack. ](/news/2005/01/26/conflict-in-iraq-36-u-s-soldiers-have-died-in-a-single-day-in-iraq-a-helicopter-crash-in-western-iraq-has-claimed-the-lives-of-30-u-s-m.md)
-_Context: Anbar Province, Baghdad, Iraq, U.S. marines, 2003 invasion of Iraq, Conflict in Iraq, RPG_
+_Context: U.S. marines, Anbar Province, Iraq, Conflict in Iraq, RPG, 2003 invasion of Iraq, Baghdad_
 
 ##### World Economic Forum
 ### [ The World Economic Forum begins in Davos, Switzerland ](/news/2005/01/26/the-world-economic-forum-begins-in-davos-switzerland.md)
@@ -21,11 +21,11 @@ _Context: Davos, World Economic Forum_
 
 ##### Glendale, California
 ### [ In Glendale, California, a commuter train crashes into a sport utility vehicle left on the tracks, derailing the train and sending it into another commuter train, killing 11 and injuring at least 100. Juan Manuel lvarez, who allegedly drove the car to the railway in an attempt to commit suicide, is accused of eleven murders. ](/news/2005/01/26/in-glendale-california-a-commuter-train-crashes-into-a-sport-utility-vehicle-left-on-the-tracks-derailing-the-train-and-sending-it-into.md)
-_Context: Glendale, California, commuter train crashes, sport utility vehicle, Juan Manuel lvarez_
+_Context: commuter train crashes, sport utility vehicle, Glendale, California, Juan Manuel lvarez_
 
 ##### United States Supreme Court
 ### [ United States Supreme Court rejects appeal of Florida governor Jeb Bush to keep brain damaged Terri Schiavo alive against the wishes of her husband. Her parents try to remove her husband from the post of her guardian ](/news/2005/01/26/united-states-supreme-court-rejects-appeal-of-florida-governor-jeb-bush-to-keep-brain-damaged-terri-schiavo-alive-against-the-wishes-of-her.md)
-_Context: Terri Schiavo, brain damage, United States Supreme Court, Jeb Bush, Florida_
+_Context: brain damage, United States Supreme Court, Jeb Bush, Terri Schiavo, Florida_
 
 ##### Guinea-Bissau
 ### [ In Moscow, students from Guinea-Bissau seize the country's embassy and take the ambassador as a hostage. They protest because they have not received their student's grants for more than a year ](/news/2005/01/26/in-moscow-students-from-guinea-bissau-seize-the-country-s-embassy-and-take-the-ambassador-as-a-hostage-they-protest-because-they-have-not.md)
@@ -33,15 +33,15 @@ _Context: Guinea-Bissau_
 
 ##### Swaziland
 ### [ In Swaziland, country's main labour union have begun a two-day general strike to protest the new constitution because it would increase the power of the king Mswati III ](/news/2005/01/26/in-swaziland-country-s-main-labour-union-have-begun-a-two-day-general-strike-to-protest-the-new-constitution-because-it-would-increase-the.md)
-_Context: Swaziland, labour union, King Mswati III, general strike_
+_Context: King Mswati III, labour union, general strike, Swaziland_
 
 ##### Liberia
 ### [ In Liberia, United Nations peacekeeping forces have sent troops and imposed a curfew to town of Harper to quell riots over alleged ritual killings ](/news/2005/01/26/in-liberia-united-nations-peacekeeping-forces-have-sent-troops-and-imposed-a-curfew-to-town-of-harper-to-quell-riots-over-alleged-ritual-k.md)
-_Context: curfew, United Nations, Liberia_
+_Context: United Nations, curfew, Liberia_
 
 ##### Tibet
 ### [ In China, the death sentence of Tibetan lama Tenzin Delek Rinpoche is commuted to life imprisonment ](/news/2005/01/26/in-china-the-death-sentence-of-tibetan-lama-tenzin-delek-rinpoche-is-commuted-to-life-imprisonment.md)
-_Context: lama, Tibet, Tenzin Delek Rinpoche_
+_Context: Tenzin Delek Rinpoche, Tibet, lama_
 
 ##### Meteorite
 ### [ A meteorite lands in Cambodia and sparks several fires. Some locals hope it is a divine omen for peace ](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-several-fires-some-locals-hope-it-is-a-divine-omen-for-peace.md)

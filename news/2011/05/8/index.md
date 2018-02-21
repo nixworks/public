@@ -17,7 +17,7 @@ Iraqi officials say 14 killed in overnight clashes at Ministry of Interior, incl
 
 ##### Prime Minister of Egypt
 ### [The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-district-of-cairo.md)
-_Context: Essam Sharaf, Cairo, Prime Minister of Egypt, Christians, Muslim, Imbaba_
+_Context: Muslim, Cairo, Essam Sharaf, Prime Minister of Egypt, Imbaba, Christians_
 
 ##### Pakistan
 ### [Witnesses claim that there have been two large explosions in the Pakistan town of Abbottabad. ](/news/2011/05/8/witnesses-claim-that-there-have-been-two-large-explosions-in-the-pakistan-town-of-abbottabad.md)
@@ -29,7 +29,7 @@ Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations 
 
 ##### Beijing
 ### [There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. ](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.md)
-_Context: iPad 2, China, Apple Store, Apple Inc., Beijing_
+_Context: Apple Inc., iPad 2, Apple Store, China, Beijing_
 
 ##### MG Rover
 ### [Peter Beale, Nick Stephenson, John Edwards and John Towers - the so-called "Phoenix Four" who ran MG Rover following its collapse - have agreed to be disqualified from serving as company directors for between 3 and 6 years. The deal was made with the UK's Department of Business, Innovation and Skills, following a "lengthy and complex investigation" into the affair. ](/news/2011/05/8/peter-beale-nick-stephenson-john-edwards-and-john-towers-the-so-called-phoenix-four-who-ran-mg-rover-following-its-collapse-have-agr.md)
@@ -49,15 +49,15 @@ Incident comes a day after a boat laden with another such group of 600 people sa
 
 ##### Search and rescue
 ### [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md)
-_Context: Kiribati, South Pacific Ocean, outrigger canoe, search and rescue_
+_Context: search and rescue, outrigger canoe, Kiribati, South Pacific Ocean_
 
 ##### Hun Sen
 ### [Hun Sen, the Prime Minister of Cambodia and Abhisit Vejjajiva, the Prime Minister of Thailand, meet during an ASEAN summit meeting in Jakarta to try to resolve an ongoing territorial dispute, but fail. ](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.md)
-_Context: Hun Sen, Jakarta, ASEAN, Abhisit Vejjajiva, Prime Minister of Cambodia, Prime Minister_
+_Context: Hun Sen, Abhisit Vejjajiva, Prime Minister, Prime Minister of Cambodia, Jakarta, ASEAN_
 
 ##### Pakistan Army
 ### [The Pakistan Army places its forces on high alert following last Sunday's raid on Osama bin Laden's compound in Abbottabad. ](/news/2011/05/8/the-pakistan-army-places-its-forces-on-high-alert-following-last-sunday-s-raid-on-osama-bin-laden-s-compound-in-abbottabad.md)
-_Context: father's killing, Abbottabad, Pakistan Army, Osama bin Laden_
+_Context: Pakistan Army, Abbottabad, father's killing, Osama bin Laden_
 
 ##### Albania
 ### [Voters in Albania go to the polls for local elections. ](/news/2011/05/8/voters-in-albania-go-to-the-polls-for-local-elections.md)
@@ -77,7 +77,7 @@ Thousands of Mexicans on Sunday marched into the capital city to protest the wav
 
 ##### U.S. President
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: U.S. President, 60 Minutes, Osama bin Laden, Barack Obama, Pakistan_
+_Context: Osama bin Laden, Pakistan, U.S. President, Barack Obama, 60 Minutes_
 
 ## [Previous Day...](/news/2011/05/7/index.md)
 

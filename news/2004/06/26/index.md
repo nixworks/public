@@ -17,11 +17,11 @@ _Context: Prime Minister, Vladimir Spidla, Czech Republic_
 
 ##### Yasser Arafat
 ### [ Yasser Arafat, President of the Palestinian Authority, commits to refrains from attacks on the Olympics scheduled for this August in Athens, Greece. ](/news/2004/06/26/yasser-arafat-president-of-the-palestinian-authority-commits-to-refrains-from-attacks-on-the-olympics-scheduled-for-this-august-in-athens.md)
-_Context: 2004 Summer Olympics, Palestinian Authority, Yasser Arafat, Greece, Athens_
+_Context: Palestinian Authority, Greece, Yasser Arafat, Athens, 2004 Summer Olympics_
 
 ##### Palestinians
 ### [ Six Palestinians, including Nayef Abu Sharkh, head of the Nablus old city part of the Al Aqsa Brigades, and Jaafar Masri, the leader of Hamas' military wing in Nablus, are killed during an Israeli operation, according to Palestinian sources. ](/news/2004/06/26/six-palestinians-including-nayef-abu-sharkh-head-of-the-nablus-old-city-part-of-the-al-aqsa-brigades-and-jaafar-masri-the-leader-of-ham.md)
-_Context: Nablus, Hamas, Nayef Abu Sharkh, Palestinians, Israeli Army, Al Aqsa Brigades, Jaafar Masri_
+_Context: Nablus, Palestinians, Israeli Army, Al Aqsa Brigades, Hamas, Jaafar Masri, Nayef Abu Sharkh_
 
 ## [Previous Day...](/news/2004/06/25/index.md)
 

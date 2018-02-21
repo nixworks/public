@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
-_Context: Sanaa, Saudi Arabia, Yemen, Saudi-led military intervention in Yemen (2015-present)_
+_Context: Yemen, Saudi-led military intervention in Yemen (2015-present), Sanaa, Saudi Arabia_
 
 ##### Timeline
 ### [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
@@ -37,11 +37,11 @@ Curtis James Jackson III, the rapper better known as 50 Cent, files for chapter 
 
 ##### U.S. President
 ### [President Barack Obama commutes the sentences of 46 American prison inmates serving long sentences for drug related offences. ](/news/2015/07/13/president-barack-obama-commutes-the-sentences-of-46-american-prison-inmates-serving-long-sentences-for-drug-related-offences.md)
-_Context: U.S. President, Barack Obama_
+_Context: Barack Obama, U.S. President_
 
 ##### Boston Marathon bombing
 ### [Son of Boston police captain is charged with a foiled plot to bomb a university, inspired by Boston Marathon bombing, on alleged behalf of ISIS. He is scheduled Tuesday for a bail hearing at a federal court in Springfield. ](/news/2015/07/13/son-of-boston-police-captain-is-charged-with-a-foiled-plot-to-bomb-a-university-inspired-by-boston-marathon-bombing-on-alleged-behalf-of-i.md)
-_Context: Boston Marathon bombing, Springfield_
+_Context: Springfield, Boston Marathon bombing_
 
 ##### United Arab Emirates
 ### [Alaa Bader Abdullah, 31, is executed in the United Arab Emirates for the murder of Ibolya Ryan, a Romanian-American teacher. ](/news/2015/07/13/alaa-bader-abdullah-31-is-executed-in-the-united-arab-emirates-for-the-murder-of-ibolya-ryan-a-romanian-american-teacher.md)

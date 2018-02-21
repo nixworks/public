@@ -29,7 +29,7 @@ Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan
 
 ##### Imbaba
 ### [At least five people are killed and 54 injured in sectarian clashes in the Imbaba area of Cairo. ](/news/2011/05/7/at-least-five-people-are-killed-and-54-injured-in-sectarian-clashes-in-the-imbaba-area-of-cairo.md)
-_Context: Imbaba, Cairo_
+_Context: Cairo, Imbaba_
 
 ##### Tunisia
 ### [The government of Tunisia declares an overnight curfew in the capital Tunis following three days of unrest. ](/news/2011/05/7/the-government-of-tunisia-declares-an-overnight-curfew-in-the-capital-tunis-following-three-days-of-unrest.md)
@@ -37,7 +37,7 @@ Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&
 
 ##### Sony
 ### [Sony states that it will delay the restart of its PlayStation Network following the PlayStation Network outage, and that it has managed to remove user data that had been posted online by a third party. ](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.md)
-_Context: PlayStation Network outage, PlayStation Network, Sony_
+_Context: PlayStation Network, PlayStation Network outage, Sony_
 
 ##### Merpati Nusantara Airlines
 ### [A Merpati Nusantara Airlines Xian MA60 passenger plane with 25 passengers crashes into the sea near the Indonesian province of West Papua with no survivors. ](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.md)
@@ -49,15 +49,15 @@ _Context: United Nations, Bolivia_
 
 ##### China
 ### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
-_Context: China, Tajikistan, Xinjiang, Kyrgyzstan_
+_Context: Tajikistan, Xinjiang, Kyrgyzstan, China_
 
 ##### Russia
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
-_Context: Belarus, Russia_
+_Context: Russia, Belarus_
 
 ##### Yomiuri
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: Marine Corps Air Station Futenma, Yomiuri, United States, Okinawa, Japan_
+_Context: Japan, Yomiuri, Okinawa, Marine Corps Air Station Futenma, United States_
 
 ##### People's Action Party
 ### [The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87-seats.md)
@@ -65,11 +65,11 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ##### Scottish National Party
 ### [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md)
-_Context: David Cameron, Scottish Parliament, Scottish National Party, Scotland Bill_
+_Context: Scotland Bill, David Cameron, Scottish National Party, Scottish Parliament_
 
 ##### Scottish Liberal Democrat
 ### [Scottish Liberal Democrat leader Tavish Scott resigns after a collapse of his party's support at the Scottish Parliament election. ](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.md)
-_Context: recently victorious, Tavish Scott, Scottish Liberal Democrat_
+_Context: Scottish Liberal Democrat, Tavish Scott, recently victorious_
 
 ##### Secretary of State for Business
 ### [British Secretary of State for Business Vince Cable launches a fierce attack on the tactics of his party's Conservative coalition partners as "ruthless, calculating and very tribal" for the way they conducted themselves in the Alternative Vote referendum. ](/news/2011/05/7/british-secretary-of-state-for-business-vince-cable-launches-a-fierce-attack-on-the-tactics-of-his-party-s-conservative-coalition-partners-a.md)
@@ -89,7 +89,7 @@ Labour say they expect to be in government in Cardiff Bay by the end of next wee
 
 ##### Ecuador
 ### [Voters in Ecuador go to the polls for the Ecuadorian constitutional referendum with the government declaring victory based on exit polls. ](/news/2011/05/7/voters-in-ecuador-go-to-the-polls-for-the-ecuadorian-constitutional-referendum-with-the-government-declaring-victory-based-on-exit-polls.md)
-_Context: exit poll, Ecuadorian constitutional referendum, Ecuador_
+_Context: Ecuadorian constitutional referendum, exit poll, Ecuador_
 
 ## [Previous Day...](/news/2011/05/6/index.md)
 

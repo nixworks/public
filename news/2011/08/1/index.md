@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/1/index.html)  [JSON](2011/08/1/index.json)  [XML](2011/
 
 ##### Recent unrest
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
-_Context: China, Kashgar, Xinjiang, recent unrest_
+_Context: recent unrest, Xinjiang, Kashgar, China_
 
 ##### 
 ### [More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
@@ -29,7 +29,7 @@ _Context: BBC_
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of Queensland, releases the results of an inquiry into the 2010-2011 Queensland floods which killed 35 people. ](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-the-results-of-an-inquiry-into-the-2010a2011-queensland-floods-which-killed-35-people.md)
-_Context: Premier, Anna Bligh, inquiry, floods_
+_Context: Anna Bligh, inquiry, Premier, floods_
 
 ##### Italian
 ### [The Italian news agency Agenzia Nazionale Stampa Associata reports that 25 refugees have been found dead in a boat off the coast of Lampedusa. ](/news/2011/08/1/the-italian-news-agency-agenzia-nazionale-stampa-associata-reports-that-25-refugees-have-been-found-dead-in-a-boat-off-the-coast-of-lampedus.md)
@@ -37,7 +37,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 
 ##### Hurricane Rina
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)
-_Context: Marie Galante, Les Saintes, Dominican Republic, tropical storm, Desirade, Hurricane Rina, Puerto Rico, Guadeloupe, Atlantic Ocean_
+_Context: Marie Galante, Dominican Republic, Atlantic Ocean, Guadeloupe, tropical storm, Puerto Rico, Les Saintes, Hurricane Rina, Desirade_
 
 ##### North Korea
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
@@ -45,11 +45,11 @@ _Context: Six Party talks, North Korea's nuclear program, North Korea, United St
 
 ##### South Korea
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
-_Context: Liancourt Rocks, Japanese, South Korea, sovereignty, Liberal Democratic Party_
+_Context: Liancourt Rocks, Liberal Democratic Party, sovereignty, Japanese, South Korea_
 
 ##### Kevin Rudd
 ### [Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. ](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.md)
-_Context: Australian Prime Minister, aortic valve, Kevin Rudd, Australian Foreign Minister_
+_Context: Australian Foreign Minister, Australian Prime Minister, aortic valve, Kevin Rudd_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md)

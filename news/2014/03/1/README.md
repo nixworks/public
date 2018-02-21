@@ -9,7 +9,7 @@ Russian President Vladimir Putin has requested the use of Russian military force
 
 ##### War in Afghanistan (2001-present)
 ### [A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghanistan-war.md)
-_Context: Darwin, Australia, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Australia, Darwin_
 
 ##### War in North-West Pakistan
 ### [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md)
@@ -21,7 +21,7 @@ An attack by knife-wielding men at a railway station in Kunming, south-west Chin
 
 ##### Fuck
 ### [An entry on the documentary film "Fuck" causes offence after the Wikipedia website features it prominently on its home page. ](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.md)
-_Context: Wikipedia, Fuck_
+_Context: Fuck, Wikipedia_
 
 ##### 2014 Venezuelan protests
 ### [2014 Venezuelan protests: Clashes continue between anti-government protesters and security forces after 41 people are arrested. ](/news/2014/03/1/2014-venezuelan-protests-clashes-continue-between-anti-government-protesters-and-security-forces-after-41-people-are-arrested.md)
@@ -29,7 +29,7 @@ Call for nationwide rallies comes after dozens are arrested in street battles be
 
 ##### Trade union
 ### [Proposals to change the automatic trade union affiliation with the UK Labour Party are passed at a special party conference vote by 86% to 14%. ](/news/2014/03/1/proposals-to-change-the-automatic-trade-union-affiliation-with-the-uk-labour-party-are-passed-at-a-special-party-conference-vote-by-86-to-1.md)
-_Context: Labour Party, trade union_
+_Context: trade union, Labour Party_
 
 ## [Previous Day...](/news/2014/02/28/index.md)
 

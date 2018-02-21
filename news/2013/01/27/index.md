@@ -5,11 +5,11 @@ Formats: [HTML](2013/01/27/index.html)  [JSON](2013/01/27/index.json)  [XML](201
 
 ##### Police
 ### [At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-day-with-eight-police-officers-killed-i.md)
-_Context: Kandahar, police_
+_Context: police, Kandahar_
 
 ##### Syria
 ### [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
-_Context: Darayya, Syria, Damascus_
+_Context: Syria, Damascus, Darayya_
 
 ##### Timbuktu
 ### [French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-into-mali.md)
@@ -25,7 +25,7 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 
 ##### Fire
 ### [At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md)
-_Context: Bangladesh, Dhaka, fire_
+_Context: Dhaka, Bangladesh, fire_
 
 ##### Landslide
 ### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
@@ -45,7 +45,7 @@ Rescuers searched for possible survivors following the collapse of a soccer fiel
 
 ##### Paris
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: gay marriage, France, Paris_
+_Context: gay marriage, Paris, France_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/7/index.html)  [JSON](2010/12/7/index.json)  [XML](2010/
 
 ##### Bomb blast
 ### [One child is killed and 20 people are injured in a bomb blast at a temple in Varanasi, northern India. ](/news/2010/12/7/one-child-is-killed-and-20-people-are-injured-in-a-bomb-blast-at-a-temple-in-varanasi-northern-india.md)
-_Context: bomb blast, Varanasi, India_
+_Context: India, Varanasi, bomb blast_
 
 ##### John James Audubon
 ### [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md)
@@ -53,7 +53,7 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 
 ##### U.S.
 ### [A U.S. judge dismisses a lawsuit over the U.S. government putting American citizens on "capture or kill" lists. ](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.md)
-_Context:  "capture or kill", lawsuit, U.S._
+_Context:  "capture or kill", U.S., lawsuit_
 
 ##### Egyptian parliamentary elections
 ### [Results from the parliamentary election in Egypt indicate the ruling National Democratic Party has won 80% of seats. ](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.md)

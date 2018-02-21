@@ -13,7 +13,7 @@ _Context: March 11, 2004 Madrid attacks, Morocco_
 
 ##### George W. Bush
 ### [ George W. Bush calls on his Iraq War allies to stick with the United States. ](/news/2004/03/16/george-w-bush-calls-on-his-iraq-war-allies-to-stick-with-the-united-states.md)
-_Context: George W. Bush, 2003 invasion of Iraq_
+_Context: 2003 invasion of Iraq, George W. Bush_
 
 ##### Explosion at an apartment building
 ### [ An explosion at an apartment building in Arkhangelsk, Russia, kills 32. ](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhangelsk-russia-kills-32.md)

@@ -9,15 +9,15 @@ The suicide bomber who killed eight people inside a CIA base in Afghanistan last
 
 ##### Lloyd D. George Federal District Courthouse
 ### [A gunman opens fire in the lobby of the Lloyd D. George Federal District Courthouse in Las Vegas, Nevada, containing the offices of Senators Harry Reid and John Ensign. A court security officer was killed and a U.S. Marshal injured before the assailant was shot dead. ](/news/2010/01/4/a-gunman-opens-fire-in-the-lobby-of-the-lloyd-d-george-federal-district-courthouse-in-las-vegas-nevada-containing-the-offices-of-senators.md)
-_Context: Las Vegas, Nevada, John Ensign, Lloyd D. George Federal District Courthouse, Harry Reid_
+_Context: Las Vegas, Nevada, Harry Reid, John Ensign, Lloyd D. George Federal District Courthouse_
 
 ##### Burj Khalifa
 ### [The Burj Khalifa, the tallest structure ever built, opens to the public in Dubai, United Arab Emirates. ](/news/2010/01/4/the-burj-khalifa-the-tallest-structure-ever-built-opens-to-the-public-in-dubai-united-arab-emirates.md)
-_Context: United Arab Emirates, Burj Khalifa, Dubai, tallest structure in the world_
+_Context: Dubai, United Arab Emirates, tallest structure in the world, Burj Khalifa_
 
 ##### U.S. President
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Jimmy Carter, Barack Obama, Plains, Georgia, United States, epitaph, U.S. President_
+_Context: Jimmy Carter, Plains, Georgia, United States, U.S. President, epitaph, Barack Obama_
 
 ##### Solomon Islands
 ### [At least 500 homes are damaged after a 7.2 magnitude earthquake hits the Solomon Islands. ](/news/2010/01/4/at-least-500-homes-are-damaged-after-a-7-2-magnitude-earthquake-hits-the-solomon-islands.md)
@@ -41,7 +41,7 @@ A spill of around 150,000 litresof diesel oil from a broken pipeline in northwes
 
 ##### Government of Serbia
 ### [The Government of Serbia sues Croatia for genocide before the International Court of Justice with historical account of the Holocaust. ](/news/2010/01/4/the-government-of-serbia-sues-croatia-for-genocide-before-the-international-court-of-justice-with-historical-account-of-the-holocaust.md)
-_Context: International Court of Justice, Government of Serbia, Croatia, Holocaust, genocide_
+_Context: Government of Serbia, genocide, International Court of Justice, Croatia, Holocaust_
 
 ##### Malaysia
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
@@ -53,19 +53,19 @@ _Context: Newark Liberty International Airport, United States_
 
 ##### Johan Ferrier
 ### [Johan Ferrier, first President of Suriname and the world's oldest living former head of state, dies in the Netherlands at the age of 99. ](/news/2010/01/4/johan-ferrier-first-president-of-suriname-and-the-world-s-oldest-living-former-head-of-state-dies-in-the-netherlands-at-the-age-of-99.md)
-_Context: Johan Ferrier, President of Suriname, Suriname, oldest living former head of state, Netherlands_
+_Context: oldest living former head of state, Johan Ferrier, Netherlands, Suriname, President of Suriname_
 
 ##### South Africa
 ### [South African President Jacob Zuma marries his fifth and currently third wife. ](/news/2010/01/4/south-african-president-jacob-zuma-marries-his-fifth-and-currently-third-wife.md)
-_Context: Jacob Zuma, South Africa_
+_Context: South Africa, Jacob Zuma_
 
 ##### Burma
 ### [Burmese military junta leader General Than Shwe urges people to make the "correct choices" in elections later this year. ](/news/2010/01/4/burmese-military-junta-leader-general-than-shwe-urges-people-to-make-the-correct-choices-in-elections-later-this-year.md)
-_Context: general elections, Than Shwe, Burma, State Peace and Development Council_
+_Context: Than Shwe, general elections, State Peace and Development Council, Burma_
 
 ##### NASA
 ### [NASA's Kepler telescope detects its first five exoplanets. ](/news/2010/01/4/nasa-s-kepler-telescope-detects-its-first-five-exoplanets.md)
-_Context: NASA, Kepler Mission, extrasolar planet_
+_Context: NASA, extrasolar planet, Kepler Mission_
 
 ## [Previous Day...](/news/2010/01/3/index.md)
 

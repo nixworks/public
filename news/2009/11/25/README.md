@@ -13,11 +13,11 @@ _Context: 2009 South Yemen insurgency_
 
 ##### President
 ### [ President of French Polynesia Oscar Temaru is ousted in a motion of no confidence by the Assembly of French Polynesia. The Assembly elects Gaston Tong Sang as president. Gaston returns to power just nine months after leaving office. This is the eleventh new government in five years. ](/news/2009/11/25/president-of-french-polynesia-oscar-temaru-is-ousted-in-a-motion-of-no-confidence-by-the-assembly-of-french-polynesia-the-assembly-elects.md)
-_Context: motion of no confidence, French Polynesia, Assembly of French Polynesia, President, Oscar Temaru, Gaston Tong Sang_
+_Context: President, Oscar Temaru, French Polynesia, motion of no confidence, Gaston Tong Sang, Assembly of French Polynesia_
 
 ##### Dubai World
 ### [ Dubai World, the state-owned real-estate and ports giant, asks for a moratorium on its 59 billion US dollars' in debt until at least May 30, 2010. ](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.md)
-_Context: moratorium, Dubai World_
+_Context: payment moratorium, Dubai World_
 
 ##### Somalia
 ### [ Two journalists kidnapped more than a year ago in Somalia, an Australian and a Canadian, are released. ](/news/2009/11/25/two-journalists-kidnapped-more-than-a-year-ago-in-somalia-an-australian-and-a-canadian-are-released.md)
@@ -25,7 +25,7 @@ Australian journalist Nigel Brennan and a Canadian colleague freed after 15 mont
 
 ##### Secession
 ### [ Five people are killed at a rally demanding secession in Shabwa, southern Yemen. ](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.md)
-_Context: secession, Yemen, Shabwa province_
+_Context: Yemen, secession, Shabwa province_
 
 ##### Pakistan
 ### [ A court in Pakistan charges seven suspects in connection with the 2008 terrorist attacks in Mumbai. ](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.md)

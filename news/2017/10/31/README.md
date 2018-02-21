@@ -13,7 +13,7 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 
 ##### North Korea tunnel collapse
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
-_Context: North Korea tunnel collapse, North Korea, nuclear testing site_
+_Context: North Korea, North Korea tunnel collapse, nuclear testing site_
 
 ##### Road accidents in 2017
 ### [A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. ](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.md)
@@ -21,13 +21,13 @@ A fatal, 14-vehicle pileup that killed at least three people and left Highway 40
 
 ##### Crime in Utah
 ### [A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. ](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-utah-leaves-one-student-dead-a-suspect-is-taken-into-custody.md)
-_Context: University of Utah, Crime in Utah_
+_Context: Crime in Utah, University of Utah_
 
 ##### Crime in California
 ### [At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. ](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.md)
 Police officers swarmed a Riverside elementary school classroom where a parent had taken a teacher hostage, ending an hours-long standoff.
 
-##### Russian meddling in the 2016 U.S. presidential election
+##### Russian interference in the 2016 United States elections
 ### [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md)
 Facebook, Google and Twitter lawyers tell a Senate committee they plan to be more vigilant.
 
@@ -37,7 +37,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ##### 2017 in spaceflight
 ### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: 2017 in spaceflight, Minotaur-C, Planet Labs, since 2004, California, Vandenberg Air Force Base, successful mission_
+_Context: Planet Labs, successful mission, 2017 in spaceflight, since 2004, Vandenberg Air Force Base, California, Minotaur-C_
 
 ## [Previous Day...](/news/2017/10/30/index.md)
 

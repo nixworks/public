@@ -9,7 +9,7 @@ Anti-government protesters firebomb a bus full of sleeping passengers in Banglad
 
 ##### Egyptian Army
 ### [Egyptian Army soldiers fire warning shots at the Gaza Strip after an explosion occurs on the Gaza side of the border near a convoy. ](/news/2015/02/3/egyptian-army-soldiers-fire-warning-shots-at-the-gaza-strip-after-an-explosion-occurs-on-the-gaza-side-of-the-border-near-a-convoy.md)
-_Context: Gaza Strip, Egyptian Army_
+_Context: Egyptian Army, Gaza Strip_
 
 ##### ISIL
 ### [The Islamic State of Iraq and the Levant posts pictures of Jordanian Air Force pilot Muath Al-Kasasbeh being burnt alive which Jordan believes are a month old. ](/news/2015/02/3/the-islamic-state-of-iraq-and-the-levant-posts-pictures-of-jordanian-air-force-pilot-muath-al-kasasbeh-being-burnt-alive-which-jordan-believ.md)
@@ -37,7 +37,7 @@ Six people were confirmed dead Tuesday evening, when a Metro-North struck a car 
 
 ##### Iranian parliament
 ### [The Iranian parliament passes a new bill that requires the Rouhani administration to cancel the Geneva interim agreement on the Iranian nuclear program in case of new US sanctions, as a response to a similar action by the Congress. ](/news/2015/02/3/the-iranian-parliament-passes-a-new-bill-that-requires-the-rouhani-administration-to-cancel-the-geneva-interim-agreement-on-the-iranian-nucl.md)
-_Context: Geneva interim agreement on the Iranian nuclear program, Iranian parliament, Rouhani_
+_Context: Iranian parliament, Rouhani, Geneva interim agreement on the Iranian nuclear program_
 
 ##### Standard & Poor's
 ### [Standard & Poor's reaches settlements totaling $1.5 billion with the U.S. Justice Department and several U.S. states for inflating ratings on subprime mortgage bonds in the lead-up to the 2008 financial crisis. ](/news/2015/02/3/standard-poor-s-reaches-settlements-totaling-1-5-billion-with-the-u-s-justice-department-and-several-u-s-states-for-inflating-ratings-o.md)
@@ -49,7 +49,7 @@ An Argentine prosecutorfound dead in mysterious circumstances last month had dra
 
 ##### John Baird
 ### [John Baird resigns as the Canadian Minister of Foreign Affairs. ](/news/2015/02/3/john-baird-resigns-as-the-canadian-minister-of-foreign-affairs.md)
-_Context: John Baird, Canadian counterpart, Canadian_
+_Context: Canada, John Baird, Canadian counterpart_
 
 ## [Previous Day...](/news/2015/02/2/index.md)
 

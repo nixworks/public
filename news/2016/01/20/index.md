@@ -21,7 +21,7 @@ _Context: Kyrgyzstan_
 
 ##### Moldova
 ### [Moldova's parliament approves a new government despite ongoing protests calling for snap elections. ](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.md)
-_Context: Parliament, 2015-16 protests in Moldova, Moldova_
+_Context: Moldova, 2015-16 protests in Moldova, Parliament_
 
 ##### NASA
 ### [NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. ](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.md)

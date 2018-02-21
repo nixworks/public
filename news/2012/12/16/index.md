@@ -29,7 +29,7 @@ ECUADOR has issued an orange alert -- the second-highest warning level -- for to
 
 ##### Topeka
 ### [Two police officers are fatally shot outside a supermarket in Topeka, Kansas, USA. A 22-year-old man wanted in connection with crime, David Edward Tiscareno, is at large. ](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.md)
-_Context: at large, Kansas, Topeka, USA_
+_Context: at large, Topeka, Kansas, USA_
 
 ##### Japanese
 ### [Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by-former-prime-minister-shinza-ab.md)

@@ -61,7 +61,7 @@ One person was killed and at least 20 homes destroyed after a weekend tornado th
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il reportedly visits Changchun in Northern China. ](/news/2011/05/21/north-korean-leader-kim-jong-il-reportedly-visits-changchun-in-northern-china.md)
-_Context: Changchun, North Korea, Kim Jong-il_
+_Context: North Korea, Changchun, Kim Jong-il_
 
 ##### World Food Programme
 ### [The World Food Programme cuts aid rations to Somalia, amid a shortfall in donations. ](/news/2011/05/21/the-world-food-programme-cuts-aid-rations-to-somalia-amid-a-shortfall-in-donations.md)
@@ -81,11 +81,11 @@ Ivory Coast stages an inauguration ceremony for President Alassane Ouattara afte
 
 ##### Seychelles
 ### [Polls close in the Seychelles after a three day three day presidential election with the incumbent President James Michel winning 55 per cent of the vote. ](/news/2011/05/21/polls-close-in-the-seychelles-after-a-three-day-three-day-presidential-election-with-the-incumbent-president-james-michel-winning-55-per-cen.md)
-_Context: Seychelles, three day presidential election, James Michel_
+_Context: James Michel, three day presidential election, Seychelles_
 
 ##### Herman Cain
 ### [U.S. businessman Herman Cain announces that he will be seeking the Republican Party nomination in the 2012 U.S. presidential election. ](/news/2011/05/21/u-s-businessman-herman-cain-announces-that-he-will-be-seeking-the-republican-party-nomination-in-the-2012-u-s-presidential-election.md)
-_Context: United States presidential election, 2012, nomination, Herman Cain, his campaign_
+_Context: his campaign, nomination, United States presidential election, 2012, Herman Cain_
 
 ##### Minnesota House of Representatives
 ### [The Minnesota House of Representatives votes to put a constitutional referendum on marriage before voters in the US state of Minnesota. ](/news/2011/05/21/the-minnesota-house-of-representatives-votes-to-put-a-constitutional-referendum-on-marriage-before-voters-in-the-us-state-of-minnesota.md)

@@ -9,7 +9,7 @@ Somali journalists refuse to obey the editorial orders of an Islamist group whic
 
 ##### Victor Julio Suarez Rojas
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
-_Context: Victor Julio Suarez Rojas, Colombian Armed Forces, FARC, nom de guerre_
+_Context: Colombian Armed Forces, nom de guerre, FARC, Victor Julio Suarez Rojas_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md)
@@ -21,7 +21,7 @@ At least six people die after a cassiterite mine collapsed in Burundi, 120km (75
 
 ##### Chinese
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: Chinese, Typhoon Fanapi_
+_Context: Typhoon Fanapi, Chinese_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
@@ -45,11 +45,11 @@ _Context: Iran, IAEA_
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: Belgium, United States government, United Nations General Assembly, Israel, United States, United Kingdom, Spain, Mahmoud Ahmadinejad, Australia, Sweden, President, Uruguay, 9/11 attacks_
+_Context: United Nations General Assembly, 9/11 attacks, Mahmoud Ahmadinejad, Israel, Uruguay, President, Belgium, Sweden, United States government, United States, Spain, Australia, United Kingdom_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: yuan, U.S. President, Wen Jiabao, Barack Obama, Premier of the People's Republic of China_
+_Context: Wen Jiabao, yuan, Barack Obama, U.S. President, Premier of the People's Republic of China_
 
 ##### China
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
@@ -57,15 +57,15 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)
-_Context: Teresa Lewis, U.S, Virginia_
+_Context: U.S, Teresa Lewis, Virginia_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Afghan, Aafia Siddiqui, United States, Pakistan, New York_
+_Context: New York, Afghan, Aafia Siddiqui, Pakistan, United States_
 
 ##### North Korea
 ### [North Korea reshuffles senior officials days ahead of a meeting of the Korean Workers' Party expected to lead to a transition of power from Kim Jong-il to his son Kim Jong-un. ](/news/2010/09/23/north-korea-reshuffles-senior-officials-days-ahead-of-a-meeting-of-the-korean-workers-party-expected-to-lead-to-a-transition-of-power-from.md)
-_Context: North Korea, Kim Jong-il, Kim Jong-un, Korean Workers' Party_
+_Context: Kim Jong-il, Korean Workers' Party, Kim Jong-un, North Korea_
 
 ##### Guinea
 ### [The election commission in Guinea proposes 10 October as a revised date for the presidential run-off election. ](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.md)

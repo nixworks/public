@@ -13,7 +13,7 @@ _Context: mudslide, India, flash flood_
 
 ##### Japan
 ### [Japan imposes additional sanctions on Russia due to the Ukraine conflict and a visit by an aide of the President of Russia Vladimir Putin to a contested island off the coast off northern Japan. ](/news/2014/09/24/japan-imposes-additional-sanctions-on-russia-due-to-the-ukraine-conflict-and-a-visit-by-an-aide-of-the-president-of-russia-vladimir-putin-to.md)
-_Context: Vladimir Putin, Russian President, Japan, Russia, Ukraine_
+_Context: Russian President, Vladimir Putin, Ukraine, Russia, Japan_
 
 ##### Disappearance of Hannah Graham
 ### [A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at-the-university-of-virginia.md)
@@ -27,7 +27,7 @@ India&#039;s low-cost mission to Mars enters the red planet&#039;s orbit on its 
 
 ##### HU-25 Falcon
 ### [After 32 years of service, the last operational HU-25 Falcon, the only jet to ever be a part of the US Coast Guard's air fleet, was retired in Corpus Christi, Texas. The Falcon played a significant role in search and rescue as well as counter drug missions and was a critical asset during the Gulf War. ](/news/2014/09/24/after-32-years-of-service-the-last-operational-hu-25-falcon-the-only-jet-to-ever-be-a-part-of-the-us-coast-guard-s-air-fleet-was-retired.md)
-_Context: Gulf War, US Coast Guard, HU-25 Falcon, Corpus Christi_
+_Context: US Coast Guard, Corpus Christi, Gulf War, HU-25 Falcon_
 
 ## [Previous Day...](/news/2014/09/23/index.md)
 

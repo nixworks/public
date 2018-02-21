@@ -37,7 +37,7 @@ The source of the outbreak is unknown, but most who fell ill reported eating sus
 
 ##### Brazilian
 ### [Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. ](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.md)
-_Context: blogger, Brazilian_
+_Context: Brazilian, blogger_
 
 ##### Death of Freddie Gray
 ### [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md)
@@ -49,7 +49,7 @@ _Context: Washington D.C._
 
 ##### Mexican Drug War
 ### [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md)
-_Context: Chilapa, Mexican Drug War, Mexican police_
+_Context: Mexican Drug War, Chilapa, Mexican police_
 
 ## [Previous Day...](/news/2015/05/20/index.md)
 

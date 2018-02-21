@@ -13,7 +13,7 @@ FOURTEEN people, including two children, are dead after a NATO helicopter crashe
 
 ##### George Clooney
 ### [American actor George Clooney is arrested at a protest outside the Embassy of Sudan in Washington, D.C. together with Nick Clooney, Martin Luther King III, NAACP President Ben Jealous and several congressmen. ](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.md)
-_Context: Ben Jealous, Martin Luther King III, Embassy of Sudan in Washington, D.C., George Clooney, Nick Clooney, NAACP_
+_Context: NAACP, Ben Jealous, Embassy of Sudan in Washington, D.C., George Clooney, Martin Luther King III, Nick Clooney_
 
 ##### Nike, Inc.
 ### [U.S. sportswear company Nike, Inc. controversially gives its new Saint Patrick's Day runner the name "The Black and Tan", prompting comparisons from concerned netizens with the controversial British paramilitary unit, which was known as the Black and Tans. ](/news/2012/03/16/u-s-sportswear-company-nike-inc-controversially-gives-its-new-saint-patrick-s-day-runner-the-name-the-black-and-tan-prompting-comparis.md)
@@ -29,7 +29,7 @@ Queensland&#039;s floods inquiry has handed down its long-awaited report into la
 
 ##### Tropical cyclone
 ### [A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. ](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-western-australia-s-pilbara-and-kimberly-regions-as-cyclone-lua-approaches-at-category-3-strength.md)
-_Context: Pilbara, Western Australia, Kimberley, Cyclone Lua, tropical cyclone_
+_Context: Pilbara, Kimberley, tropical cyclone, Cyclone Lua, Western Australia_
 
 ##### Belgium
 ### [Belgium holds a day of national mourning in memory of the victims of the Sierre bus collision in Switzerland earlier this week. ](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.md)
@@ -37,7 +37,7 @@ Belgium holds a day of mourning to remember the victims of the coach crash in a 
 
 ##### David Petraeus
 ### [David Petraeus, the Director of the Central Intelligence Agency, is honored with the Grand Cross with swords in the Order of Orange-Nassau in The Hague for his service as a four-star general in Iraq and Afghanistan. ](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.md)
-_Context: Iraq, Director of the CIA, The Hague, Afghan, David Petraeus, Grand Cross with swords in the Order of Orange-Nassau_
+_Context: Grand Cross with swords in the Order of Orange-Nassau, Iraq, Afghan, David Petraeus, The Hague, Director of the CIA_
 
 ##### Rutgers University
 ### [Former Rutgers University student Dharun Ravi is found guilty of a hate crime and invasion of privacy for his role in the suicide of Tyler Clementi. ](/news/2012/03/16/former-rutgers-university-student-dharun-ravi-is-found-guilty-of-a-hate-crime-and-invasion-of-privacy-for-his-role-in-the-suicide-of-tyler-c.md)

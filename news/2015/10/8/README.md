@@ -29,7 +29,7 @@ _Context: Joko Widodo, forest fire, President of Indonesia, recent incident of h
 
 ##### Ecuador
 ### [Ecuador's restive Cotopaxi volcano erupts. ](/news/2015/10/8/ecuador-s-restive-cotopaxi-volcano-erupts.md)
-_Context: Cotopaxi volcano, Ecuador_
+_Context: Ecuador, Cotopaxi volcano_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.md)
@@ -37,7 +37,7 @@ In a bid to defuse the wave of Palestinian violence that has struck Israel and t
 
 ##### Spencer Stone
 ### [Spencer Stone, one of the individuals involved in stopping the gunman in the August 2015 Thalys train attack, is stabbed in downtown Sacramento. Police said the incident is not related to a terrorist act; the assault occurred near a bar. He is in stable condition at a hospital with what are believed to be non-life threatening wounds. ](/news/2015/10/8/spencer-stone-one-of-the-individuals-involved-in-stopping-the-gunman-in-the-august-2015-thalys-train-attack-is-stabbed-in-downtown-sacrame.md)
-_Context: Spencer Stone, 2015 Thalys train attack_
+_Context: 2015 Thalys train attack, Spencer Stone_
 
 ##### European migrant crisis
 ### [The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migrants-back-to-austria-and-c.md)
@@ -45,7 +45,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ##### United States House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: Speaker of the United States House of Representatives election, October 2015, United States House of Representatives, Kevin McCarthy, Majority Leader, John Boehner, U.S. Speaker of the House of Representatives_
+_Context: Majority Leader, Speaker of the United States House of Representatives election, October 2015, John Boehner, United States House of Representatives, Kevin McCarthy, U.S. Speaker of the House of Representatives_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

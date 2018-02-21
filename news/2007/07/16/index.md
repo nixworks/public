@@ -9,15 +9,15 @@ _Context: Argentina, Felisa Miceli, $_
 
 ##### George W. Bush
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)
-_Context: Lech Kaczynski, Russia, missile defense, George W. Bush, Europe, Polish President_
+_Context: Polish President, George W. Bush, Russia, Lech Kaczynski, Europe, missile defense_
 
 ##### U.S. President
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
-_Context: Israel, U.S. President, Palestinians, Middle East_
+_Context: U.S. President, Israel, Palestinians, Middle East_
 
 ##### United Kingdom
 ### [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md)
-_Context: Andrei Lugovoy, diplomat, visa-free travel, Alexander Litvinenko, extradite, United Kingdom, Russia_
+_Context: Russia, visa-free travel, diplomat, Alexander Litvinenko, Andrei Lugovoy, United Kingdom, extradite_
 
 ##### 86 people are killed
 ### [ At least 86 people are killed and 136 injured in a car bomb and truck bomb attacks in Kirkuk, Iraq. ](/news/2007/07/16/at-least-86-people-are-killed-and-136-injured-in-a-car-bomb-and-truck-bomb-attacks-in-kirkuk-iraq.md)
@@ -33,15 +33,15 @@ _Context: Palestinian, Israel_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors confirm the closure of the Yongbyon reactor in North Korea. ](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.md)
-_Context: Yongbyon Nuclear Scientific Research Center, North Korea, IAEA_
+_Context: North Korea, Yongbyon Nuclear Scientific Research Center, IAEA_
 
 ##### ATN Bangla
 ### [ ATN Bangla television reports that Bangladeshi police have arrested former Prime Minister of Bangladesh Sheikh Hasina on charges of extorting money from a businessman. ](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.md)
-_Context: ATN Bangla, Sheikh Hasina, Prime Minister, television, Bangladesh_
+_Context: television, Sheikh Hasina, Bangladesh, ATN Bangla, Prime Minister_
 
 ##### Mohamed Haneef
 ### [ Dr Mohamed Haneef is granted bail by a Queensland magistrate on charges of supporting a terrorist organisation in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. The Australian government later revokes his visa. ](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.md)
-_Context: planned car bomb attacks, Mohamed Haneef, Australia, terrorist, Queensland, magistrate, visa-free travel, 2007 attack_
+_Context: 2007 attack, Australia, Mohamed Haneef, terrorist, visa-free travel, planned car bomb attacks, magistrate, Queensland_
 
 ##### Earthquake
 ### [ A 6.8 magnitude earthquake hits Japan with a tsunami warning being issued in Niigata Prefecture, Honshu. At least eight people have been killed and over 700 injured. There was a fire in the Kashiwazaki-Kariwa Nuclear Power Plant as well as a small leak but not sufficient to damage the environment. ](/news/2007/07/16/a-6-8-magnitude-earthquake-hits-japan-with-a-tsunami-warning-being-issued-in-niigata-prefecture-honsha-at-least-eight-people-have-been-k.md)

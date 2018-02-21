@@ -17,7 +17,7 @@ Authorities apprehend Mexican drug kingpin Javier Arellano-Felix, leader of a vi
 
 ##### Russia
 ### [ A Russian border patrol boat fires on a Japanese crab fishing boat near Kaigara Island, part of the Kuril Islands. One fisherman is killed and three others detained by the Russian authorities. ](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.md)
-_Context: Japan, Kuril Islands, Kaigara Island, Russia_
+_Context: Kaigara Island, Russia, Japan, Kuril Islands_
 
 ##### International Astronomical Union
 ### [ The International Astronomical Union proposes a new definition for a planet to be voted on August 24 which would include Charon, Eris, and Ceres as planets. ](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.md)
@@ -27,7 +27,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [ United Airlines Flight 923 makes an emergency landing in Boston. The original course was London to Washington D.C. Fighter jets escorted the plane to the airport. ](/news/2006/08/16/united-airlines-flight-923-makes-an-emergency-landing-in-boston-the-original-course-was-london-to-washington-d-c-fighter-jets-escorted-th.md)
 A flight from London to Washington, D.C. was diverted to Boston Wednesday after the pilot declared an emergency because of a passenger disturbance, United Airlines said Wednesday.
 
-##### Canadian
+##### Canada
 ### [ The Israeli ambassador to Canada, Alan Baker, criticises Bloc Qubcois leader Gilles Duceppe for participating in an Aug. 6 Montreal march in which a few Hezbollah supporters also took part. The march was, however, a protest against war and not a show of support for Hezbollah. ](/news/2006/08/16/the-israeli-ambassador-to-canada-alan-baker-criticises-bloc-quebecois-leader-gilles-duceppe-for-participating-in-an-aug-6-montreal-march.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

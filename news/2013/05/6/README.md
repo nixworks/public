@@ -23,15 +23,15 @@ _Context: Federally Administered Tribal Areas, Pakistan, Kurram, Jamiat Ulema-e-
 
 ##### Walmart
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
-_Context: Walmart, Fortune 500, ExxonMobil Corporation_
+_Context: ExxonMobil Corporation, Fortune 500, Walmart_
 
 ##### Bank of America
 ### [Bank of America agrees to pay US$1.6 billion to insurer MBIA to settle a long-running dispute between MBIA and two companies Bank of America had since acquired. ](/news/2013/05/6/bank-of-america-agrees-to-pay-us-1-6-billion-to-insurer-mbia-to-settle-a-long-running-dispute-between-mbia-and-two-companies-bank-of-america.md)
-_Context: Bank of America, MBIA, US$_
+_Context: US$, MBIA, Bank of America_
 
 ##### Sweden
 ### [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md)
-_Context: allergies, Sweden, pacifier, Pediatrics_
+_Context: Sweden, pacifier, Pediatrics, allergies_
 
 ##### German
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)
@@ -55,7 +55,7 @@ THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent
 
 ##### Americans
 ### [American singer Lauryn Hill is sentenced to prison for three months after being convicted of tax evasion. ](/news/2013/05/6/american-singer-lauryn-hill-is-sentenced-to-prison-for-three-months-after-being-convicted-of-tax-evasion.md)
-_Context: Americans, Lauryn Hill_
+_Context: Lauryn Hill, Americans_
 
 ##### Italian Prime Minister
 ### [Seven-time Prime Minister of Italy Giulio Andreotti dies in Rome at the age of 94 years. ](/news/2013/05/6/seven-time-prime-minister-of-italy-giulio-andreotti-dies-in-rome-at-the-age-of-94-years.md)

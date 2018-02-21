@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/3/index.html)  [JSON](2013/01/3/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md)
-_Context: Mussayab, suicide bombing, Shiite_
+_Context: Shiite, Mussayab, suicide bombing_
 
 ##### Mexico
 ### [Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md)
@@ -13,7 +13,7 @@ Mexican soldiers kill 12 suspects in a gun battle in Zacatecas state, officials 
 
 ##### M23
 ### [The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-kabila-s-governm.md)
-_Context: Democratic Republic of Congo, M23, Kabila government_
+_Context: Democratic Republic of Congo, Kabila government, M23_
 
 ##### Vladimir Putin
 ### [Vladimir Putin, the President of Russia, grants Russian citizenship to Grard Depardieu who has renounced his French citizenship due to high taxes. ](/news/2013/01/3/vladimir-putin-the-president-of-russia-grants-russian-citizenship-to-gerard-depardieu-who-has-renounced-his-french-citizenship-due-to-high.md)
@@ -25,7 +25,7 @@ _Context: film director, Romanian, Sergiu Nicolaescu_
 
 ##### Al Jazeera
 ### [News channel Al Jazeera acquires Current TV from Al Gore and Joel Hyatt. ](/news/2013/01/3/news-channel-al-jazeera-acquires-current-tv-from-al-gore-and-joel-hyatt.md)
-_Context: Al Jazeera, Al Gore, Current TV, Joel Hyatt_
+_Context: Al Gore, Al Jazeera, Joel Hyatt, Current TV_
 
 ##### Hormel
 ### [Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. ](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.md)
@@ -37,7 +37,7 @@ Coffee giant opening first outlet in the country next month
 
 ##### Subaru
 ### [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md)
-_Context: Subaru, United States_
+_Context: United States, Subaru_
 
 ##### Prime Minister
 ### [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md)

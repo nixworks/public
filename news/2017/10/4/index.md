@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/4/index.html)  [JSON](2017/10/4/index.json)  [XML](2017/
 
 ##### Battle of Hawija
 ### [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md)
-_Context: Iraqi Army, ISIL, Iraq, Battle of Hawija, Kirkuk Governorate, Hawija_
+_Context: ISIL, Iraqi Army, Battle of Hawija, Kirkuk Governorate, Hawija, Iraq_
 
 ##### Insurgency in the Maghreb
 ### [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md)

@@ -13,7 +13,7 @@ The European Court of Human Rights Tuesday ruled Turkey had violated the propert
 
 ##### Chinese People's Political Consultative Conference
 ### [ The 11th Chinese People's Political Consultative Conference's National Committee begins its annual session with a focus on the global financial crisis. ](/news/2009/03/3/the-11th-chinese-people-s-political-consultative-conference-s-national-committee-begins-its-annual-session-with-a-focus-on-the-global-finan.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, Chinese People's Political Consultative Conference_
+_Context: Chinese People's Political Consultative Conference, 4th quarter of 2007 and the second quarter of 2009_
 
 ##### Yukos
 ### [ Former Yukos businessman Mikhail Khodorkovsky again stands trial for alleged financial crimes. ](/news/2009/03/3/former-yukos-businessman-mikhail-khodorkovsky-again-stands-trial-for-alleged-financial-crimes.md)
@@ -21,19 +21,19 @@ _Context: Yukos, trial, Mikhail Khodorkovsky, financial crimes_
 
 ##### Sri Lanka
 ### [ Seven Sri Lankan cricket players are wounded and six policemen killed in shootings near Gaddafi Stadium in Lahore, Pakistan. ](/news/2009/03/3/seven-sri-lankan-cricket-players-are-wounded-and-six-policemen-killed-in-shootings-near-gaddafi-stadium-in-lahore-pakistan.md)
-_Context: Gaddafi Stadium, shootings, Pakistani police, cricket players, Lahore, Pakistan, Sri Lanka_
+_Context: Pakistan, shootings, Lahore, Pakistani police, Gaddafi Stadium, Sri Lanka, cricket players_
 
 ##### United States
 ### [ United States President Barack Obama and United Kingdom Prime Minister Gordon Brown meet at the White House. ](/news/2009/03/3/united-states-president-barack-obama-and-united-kingdom-prime-minister-gordon-brown-meet-at-the-white-house.md)
-_Context: U.S. President, Gordon Brown, Prime Minister, White House, Barack Obama, United Kingdom, United States_
+_Context: Prime Minister, White House, Barack Obama, Gordon Brown, U.S. President, United States, United Kingdom_
 
 ##### Cologne
 ### [ Three people are believed trapped after Cologne's municipal archives building collapses. ](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.md)
-_Context: collapses, Cologne, municipal archives building_
+_Context: Cologne, collapses, municipal archives building_
 
 ##### German
 ### [ German frigate "Rheinland-Pfalz" foils a Somali pirate attack on a German container ship in the Gulf of Aden. ](/news/2009/03/3/german-frigate-rheinland-pfalz-foils-a-somali-pirate-attack-on-a-german-container-ship-in-the-gulf-of-aden.md)
-_Context: container ship, Somalia, Somali pirates, German, Gulf of Aden, frigate_
+_Context: German, Gulf of Aden, container ship, Somali pirates, frigate, Somalia_
 
 ## [Previous Day...](/news/2009/03/2/index.md)
 

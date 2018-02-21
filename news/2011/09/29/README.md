@@ -33,7 +33,7 @@ _Context: European Financial Stability Facility, Bundestag, German_
 
 ##### China
 ### [The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. ](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.md)
-_Context: Gansu Province, Jiuquan Satellite Launch Center, China, Tiangong 1, space station module_
+_Context: Jiuquan Satellite Launch Center, space station module, China, Gansu Province, Tiangong 1_
 
 ## [Previous Day...](/news/2011/09/28/index.md)
 

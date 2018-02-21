@@ -9,7 +9,7 @@ A man apparently brandishing a fake gun releases the last hostage he was holding
 
 ##### U.S. branch of the Communion
 ### [The Episcopal Church is poised to become the first major religious denomination in the United States to approve a rite for blessing gay marriages this December, just after its bishops approved such a liturgy. ](/news/2012/07/10/the-episcopal-church-is-poised-to-become-the-first-major-religious-denomination-in-the-united-states-to-approve-a-rite-for-blessing-gay-marr.md)
-_Context: U.S. branch of the Communion, gay marriage_
+_Context: gay marriage, U.S. branch of the Communion_
 
 ##### Iran's military
 ### [Iran's military continues to improve its long- and short-range ballistic missiles and other aspects of its armed forces, according to a Pentagon report to the US Congress. ](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.md)
@@ -29,7 +29,7 @@ A New Zealand court has delayed an extradition hearing for internet tycoon and M
 
 ##### Hamas
 ### [Israel releases hunger-striking Palestinian footballer and Islamic Jihad member, Mahmoud Sarsak, who was detained without formal charges since 2009 for alleged involvement in a bomb attack. ](/news/2012/07/10/israel-releases-hunger-striking-palestinian-footballer-and-islamic-jihad-member-mahmoud-sarsak-who-was-detained-without-formal-charges-sin.md)
-_Context: Mahmoud Sarsak, Hamas_
+_Context: Hamas, Mahmoud Sarsak_
 
 ##### Eva Rausing
 ### [Eva Rausing, wife of Tetra Pak heir Hans Kristian Rausing, is found dead in west London and a man arrested in connection to her death. ](/news/2012/07/10/eva-rausing-wife-of-tetra-pak-heir-hans-kristian-rausing-is-found-dead-in-west-london-and-a-man-arrested-in-connection-to-her-death.md)
@@ -37,7 +37,7 @@ _Context: Eva Rausing, Tetra Pak, Hans Kristian Rausing_
 
 ##### Trades Union Congress
 ### [Britain's Trades Union Congress confirms the appointment of its first female General Secretary. Frances O'Grady will take up the role at the end of the year. ](/news/2012/07/10/britain-s-trades-union-congress-confirms-the-appointment-of-its-first-female-general-secretary-frances-o-grady-will-take-up-the-role-at-the.md)
-_Context: Frances O'Grady, Trades Union Congress, General Secretary_
+_Context: Trades Union Congress, General Secretary, Frances O'Grady_
 
 ##### The coalition
 ### [The UK's coalition government drops plans for a crucial House of Commons vote on its plans to reform the House of Lords after it faced likely defeat over the issue with as many as 100 Conservative MPs planning to oppose the plans. ](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a-crucial-house-of-commons-vote-on-its-plans-to-reform-the-house-of-lords-after-it-faced-likel.md)
@@ -45,7 +45,7 @@ The government abandons plans for a crucial vote on its plans to reform the Hous
 
 ##### San Bernardino, California
 ### [The US city of San Bernardino becomes the third city in the state of California to file for bankruptcy protection. ](/news/2012/07/10/the-us-city-of-san-bernardino-becomes-the-third-city-in-the-state-of-california-to-file-for-bankruptcy-protection.md)
-_Context: California, San Bernardino, California_
+_Context: San Bernardino, California, California_
 
 ## [Previous Day...](/news/2012/07/9/index.md)
 

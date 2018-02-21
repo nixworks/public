@@ -13,7 +13,7 @@ _Context: Afghan, Taliban, Taliban insurgency_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Zulkifli Abdhir, peace deal, Supreme Court of the Philippines, January 25 botched police operation, President, Maria Lourdes Sereno, Moro insurgency in the Philippines, Filipino Muslims, Philippines, his predecessor, Philippine National Police, Chief Justice, peace treaty_
+_Context: Supreme Court of the Philippines, peace treaty, his predecessor, Zulkifli Abdhir, Philippine National Police, peace deal, President, Chief Justice, January 25 botched police operation, Philippines, Filipino Muslims, Moro insurgency in the Philippines, Maria Lourdes Sereno_
 
 ##### Iraqi insurgency (2011-present)
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
@@ -29,7 +29,7 @@ Yemeni officials said that Houthis have captured a camp south of the capital, wh
 
 ##### Paraguayan People's Army
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
-_Context: German, Paraguay, Paraguayan People's Army_
+_Context: German, Paraguayan People's Army, Paraguay_
 
 ##### Philippine economy
 ### [The Philippine economy grew by more than 6% in 2014 making it the second fastest growing economy in Asia after China. This is the longest sustained growth period in the country since the 1950s. ](/news/2015/01/29/the-philippine-economy-grew-by-more-than-6-in-2014-making-it-the-second-fastest-growing-economy-in-asia-after-china-this-is-the-longest-su.md)
@@ -41,7 +41,7 @@ A gas tank truck explodes outside a maternity hospital in Mexico City, killing a
 
 ##### Malaysia Airlines Flight 370
 ### [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md)
-_Context: Malaysia, Malaysia Airlines Flight 370, Indian_
+_Context: Indian, Malaysia, Malaysia Airlines Flight 370_
 
 ##### Northern England
 ### [Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. ](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the-closures-of-hundreds-of-schools-roads-and-manchester-airport.md)

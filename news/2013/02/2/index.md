@@ -17,11 +17,11 @@ At least one protester was shot dead and dozens wounded on Friday when riot poli
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japan-self-defense-forces.md)
-_Context: Japan, Shinzo Abe, Senkaku Islands, Prime Minister of Japan, military_
+_Context: Senkaku Islands, Prime Minister of Japan, military, Japan, Shinzo Abe_
 
 ##### Gansu
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
-_Context: Chinese, Gansu_
+_Context: Gansu, Chinese_
 
 ##### Road accidents
 ### [Five road accidents in two days claims the lives of at least 58 people in China before Chinese New Year. ](/news/2013/02/2/five-road-accidents-in-two-days-claims-the-lives-of-at-least-58-people-in-china-before-chinese-new-year.md)
@@ -29,11 +29,11 @@ Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of 
 
 ##### ATR-72
 ### [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinciafiumicino-airport-injuring-at-least-6-people.md)
-_Context: ATR-72, Leonardo da Vinci-Fiumicino Airport, Carpatair, Rome, Italy, aircraft_
+_Context: Rome, Italy, Leonardo da Vinci-Fiumicino Airport, Carpatair, ATR-72, aircraft_
 
 ##### Iran
 ### [Iran unveils a new Qaher-313 combat jet which is said can evade radar detection. ](/news/2013/02/2/iran-unveils-a-new-qaher-313-combat-jet-which-is-said-can-evade-radar-detection.md)
-_Context: Iran, Qaher-313, combat jet, stealthy planes_
+_Context: Iran, combat jet, Qaher-313, stealthy planes_
 
 ## [Previous Day...](/news/2013/02/1/index.md)
 

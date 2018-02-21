@@ -9,11 +9,11 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ##### Mina Ahadi
 ### [Iranian human rights activist Mina Ahadi tries to stop death by stoning for an Iranian woman convicted of adultery. ](/news/2010/07/4/iranian-human-rights-activist-mina-ahadi-tries-to-stop-death-by-stoning-for-an-iranian-woman-convicted-of-adultery.md)
-_Context: Capital punishment in Iran, Mina Ahadi, Iran, adultery_
+_Context: Iran, Mina Ahadi, adultery, Capital punishment in Iran_
 
 ##### Lebanese
 ### [Lebanese Ayatollah Mohammad Hussein Fadlallah dies suddenly in Beirut. ](/news/2010/07/4/lebanese-ayatollah-mohammad-hussein-fadlallah-dies-suddenly-in-beirut.md)
-_Context: Ayatollah, Beirut, Mohammad Hussein Fadlallah, Lebanese_
+_Context: Ayatollah, Lebanese, Mohammad Hussein Fadlallah, Beirut_
 
 ##### Philippines
 ### [At least 15 people are killed and 48 are injured after the driver of a runaway bus smashes into a concrete wall in the Philippines. ](/news/2010/07/4/at-least-15-people-are-killed-and-48-are-injured-after-the-driver-of-a-runaway-bus-smashes-into-a-concrete-wall-in-the-philippines.md)
@@ -25,7 +25,7 @@ Female suicide bomber kills at least four people in western province of Anbar.
 
 ##### Mahmoud al-Zahar
 ### [Women and children march towards Mahmoud al-Zahar's house in Gaza to hand him a letter calling on Hamas to insist on the release of 1,000 Israeli-held Palestinian prisoners during their talks with Israel. ](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.md)
-_Context: Hamas, Gaza Strip, Mahmoud al-Zahar_
+_Context: Hamas, Mahmoud al-Zahar, Gaza Strip_
 
 ##### President
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
@@ -37,11 +37,11 @@ American Gen. David Petraeus formally assumes command of the 130,000-strong inte
 
 ##### Iran
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: CIA, Switzerland, Tehran, Shahram Amiri, United States, Iran_
+_Context: CIA, Tehran, Iran, Switzerland, Shahram Amiri, United States_
 
 ##### Japan
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
-_Context: Takeru "Tsunami" Kobayashi, competitive eating, Japan, New York City, Nathan's Hot Dog Eating Contest, United States_
+_Context: Nathan's Hot Dog Eating Contest, Japan, competitive eating, United States, Takeru "Tsunami" Kobayashi, New York City_
 
 ##### Polish presidential election, 2010
 ### [Polish voters head to the polls for the second round of presidential voting.Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initially-concedes-defeat-after-exit-polls-sh.md)
@@ -57,7 +57,7 @@ The Oktoberfest beer festival in Munich is to become smoke-free after a referend
 
 ##### Rafael Nadal
 ### [Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. ](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.md)
-_Context: Rafael Nadal, men's singles titles, 2010 Wimbledon Championships, Spain_
+_Context: men's singles titles, 2010 Wimbledon Championships, Rafael Nadal, Spain_
 
 ## [Previous Day...](/news/2010/07/3/index.md)
 

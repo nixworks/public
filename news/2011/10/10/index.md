@@ -9,11 +9,11 @@ An Iranian actress has been sentenced to 90 lashes and a year in jail for her pa
 
 ##### France
 ### [France and Belgium agree to break up and partially nationalize Dexia, Belgium's largest bank. ](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.md)
-_Context: Belgium, Dexia, France_
+_Context: Dexia, France, Belgium_
 
 ##### American
 ### [American economists Thomas J. Sargent and Christopher A. Sims win the 2011 Nobel Memorial Prize in Economic Sciences. ](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.md)
-_Context: Nobel Memorial Prize in Economic Sciences, Christopher A. Sims, Thomas J. Sargent, American_
+_Context: Nobel Memorial Prize in Economic Sciences, Christopher A. Sims, American, Thomas J. Sargent_
 
 ##### Bank of Greece
 ### [The Bank of Greece announces the bail-out and takeover of Proton Bank via that country's Financial Stability Fund. ](/news/2011/10/10/the-bank-of-greece-announces-the-bail-out-and-takeover-of-proton-bank-via-that-country-s-financial-stability-fund.md)

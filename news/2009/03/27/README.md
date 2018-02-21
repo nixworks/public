@@ -13,7 +13,7 @@ All six people aboard a helicopter that crashed on a Turkish mountaintop have be
 
 ##### Flash flood
 ### [ A flash flood and the Situ Gintung dam's failure kill at least 58 people in Tangerang, Banten, Indonesia. ](/news/2009/03/27/a-flash-flood-and-the-situ-gintung-dam-s-failure-kill-at-least-58-people-in-tangerang-banten-indonesia.md)
-_Context: failure, flash flood, dam, Tangerang, Indonesia, Banten, Situ Gintung_
+_Context: Banten, flash flood, Situ Gintung, Tangerang, dam, Indonesia, failure_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 50 people and injures 100 others in Jamrud, Pakistan. ](/news/2009/03/27/a-suicide-attack-kills-at-least-50-people-and-injures-100-others-in-jamrud-pakistan.md)
@@ -25,11 +25,11 @@ A highly radioactive lead ball has gone missing in China, prompting authorities 
 
 ##### Russia
 ### [ Russia will establish a military force to protect its territorial claims in the Arctic. ](/news/2009/03/27/russia-will-establish-a-military-force-to-protect-its-territorial-claims-in-the-arctic.md)
-_Context: officially submit a claim, Russia, Arctic, military force_
+_Context: Russia, Arctic, officially submit a claim, military force_
 
 ##### The Lancet
 ### [ "The Lancet" accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)
-_Context: argument against the use, Pope, Pope Benedict XVI, science, condom, The Lancet_
+_Context: The Lancet, argument against the use, science, Pope, condom, Pope Benedict XVI_
 
 ##### United Kingdom
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
@@ -37,7 +37,7 @@ _Context: United Kingdom, Economy of the United Kingdom, first fiscal quarter, 4
 
 ##### Corsica
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
-_Context: Prefect, Corse-du-Sud, life in prison, Claude Erignac, nationalist, Corsica, Yvan Colonna, murder_
+_Context: Corsica, nationalist, murder, Prefect, Yvan Colonna, Corse-du-Sud, Claude Erignac, life in prison_
 
 ## [Previous Day...](/news/2009/03/26/index.md)
 

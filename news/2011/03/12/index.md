@@ -17,7 +17,7 @@ At least four people killed and more than 300 injured as security forces dispers
 
 ##### South Sudan
 ### [At least 23 people die in an attack on the South Sudan town of Malakal. ](/news/2011/03/12/at-least-23-people-die-in-an-attack-on-the-south-sudan-town-of-malakal.md)
-_Context: South Sudan, Malakal_
+_Context: Malakal, South Sudan_
 
 ##### 2011 Tohoku earthquake and tsunami
 ### [Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabled-by-the-japanese-earthquake-with-a.md)
@@ -29,7 +29,7 @@ Fourteen people died Saturday when a bus returning from a casino flipped onto it
 
 ##### Floating restaurant
 ### [83 people are rescued from a floating restaurant after it drifted away carrying 150 passengers on the flooded Ohio River in Covington, Kentucky, USA, and became lodged under the Clay Wade Bailey Bridge. ](/news/2011/03/12/83-people-are-rescued-from-a-floating-restaurant-after-it-drifted-away-carrying-150-passengers-on-the-flooded-ohio-river-in-covington-kentu.md)
-_Context: floating restaurant, Covington, Kentucky, Clay Wade Bailey Bridge, flooded, Ohio_
+_Context: Clay Wade Bailey Bridge, flooded, Covington, Kentucky, floating restaurant, Ohio_
 
 ##### Interstate 94
 ### [An estimated 800 motorists are stranded on Interstate 94 and U.S. Route 83 in North Dakota by a blizzard. ](/news/2011/03/12/an-estimated-800-motorists-are-stranded-on-interstate-94-and-u-s-route-83-in-north-dakota-by-a-blizzard.md)
@@ -41,7 +41,7 @@ South Sudan says it is suspending talks with the north, accusing President Bashi
 
 ##### Asylum seeker
 ### [Up to 80 asylum seekers break out of the Australian detention centre on Christmas Island. ](/news/2011/03/12/up-to-80-asylum-seekers-break-out-of-the-australian-detention-centre-on-christmas-island.md)
-_Context: asylum seeker, Australia, Christmas Island, Christmas Island Immigration Detention Centre_
+_Context: Christmas Island, asylum seeker, Christmas Island Immigration Detention Centre, Australia_
 
 ##### United States
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)

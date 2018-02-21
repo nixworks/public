@@ -5,11 +5,11 @@ Formats: [HTML](2015/02/13/index.html)  [JSON](2015/02/13/index.json)  [XML](201
 
 ##### Internal conflict in Burma
 ### [Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-with-dozens-wounded.md)
-_Context: Kokang rebels, Myanmar Army, Internal conflict in Burma, Kokang offensive_
+_Context: Myanmar Army, Kokang offensive, Kokang rebels, Internal conflict in Burma_
 
 ##### Assam conflict
 ### [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md)
-_Context: United Liberation Front of Assam, Sepon, Assam, Assam conflict, India_
+_Context: United Liberation Front of Assam, Assam, Assam conflict, Sepon, India_
 
 ##### War in Donbass
 ### [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md)
@@ -25,7 +25,7 @@ Boko Haram militants from Nigeria attack a village on the shores of Lake Chad ov
 
 ##### Fitch Ratings
 ### [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md)
-_Context: credit rating, Fitch Ratings, junk bond, Ukraine_
+_Context: junk bond, credit rating, Ukraine, Fitch Ratings_
 
 ##### Freight train
 ### [A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30. ](/news/2015/02/13/a-bus-crashes-with-a-freight-train-in-the-mexican-state-of-nuevo-leon-killing-at-least-sixteen-people-and-injuring-30.md)
@@ -33,11 +33,11 @@ At least 16 were killed and 30 injured in a collision between a freight train an
 
 ##### Ebola virus epidemic in West Africa
 ### [Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisherman.md)
-_Context: Aberdeen, Sierra Leone, Freetown, Ebola virus epidemic in West Africa_
+_Context: Aberdeen, Freetown, Sierra Leone, Ebola virus epidemic in West Africa_
 
 ##### United Nations
 ### [United Nations negotiators produce an early draft on an agreement to be put to a conference on climate change in Paris in December. ](/news/2015/02/13/united-nations-negotiators-produce-an-early-draft-on-an-agreement-to-be-put-to-a-conference-on-climate-change-in-paris-in-december.md)
-_Context: climate change, United Nations, Paris_
+_Context: Paris, United Nations, climate change_
 
 ##### Egypt
 ### [An Egyptian court orders the release from prison of Canadian journalist Mohamed Fahmy in Cairo. ](/news/2015/02/13/an-egyptian-court-orders-the-release-from-prison-of-canadian-journalist-mohamed-fahmy-in-cairo.md)
@@ -49,7 +49,7 @@ Queensland Labor leader Annastacia Palaszczuk is confirmed as the state&#039;s n
 
 ##### Wang Rong
 ### [Voters elect Wang Rong Chairman of the People's Political Consultative Conference of Guangdong province, in China, replacing Zhu Mingguo, who was dismissed for corruption. ](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.md)
-_Context: Zhu Mingguo, Guangdong, Wang Rong_
+_Context: Guangdong, Wang Rong, Zhu Mingguo_
 
 ##### Governor of Oregon
 ### [The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State. ](/news/2015/02/13/the-governor-of-oregon-john-kitzhaber-resigns-amid-allegations-his-fiancee-used-taxpayer-resources-to-aid-her-green-energy-consulting-busine.md)

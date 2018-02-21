@@ -13,11 +13,11 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 
 ##### Iran
 ### [Iran launches a new surface-to-surface missile called the Fateh 313. ](/news/2015/08/22/iran-launches-a-new-surface-to-surface-missile-called-the-fateh-313.md)
-_Context: surface-to-surface missile, Iran_
+_Context: Iran, surface-to-surface missile_
 
 ##### War in Afghanistan (2015-present)
 ### [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md)
-_Context: Kabul, suicide bomber, NATO, War in Afghanistan (2015-present)_
+_Context: NATO, suicide bomber, Kabul, War in Afghanistan (2015-present)_
 
 ##### Syrian Civil War
 ### [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md)
@@ -69,7 +69,7 @@ Fourteen members of one of El Salvador&#x27;s most powerful street gangs were ki
 
 ##### President of the State of Palestine
 ### [President of the State of Palestine Mahmoud Abbas resigns from the Executive Committee of the Palestinian Liberation Organisation along with 11 ministers to force an election. The last time there were elections in the Palestinian authority was in 2005. ](/news/2015/08/22/president-of-the-state-of-palestine-mahmoud-abbas-resigns-from-the-executive-committee-of-the-palestinian-liberation-organisation-along-with.md)
-_Context: Mahmoud Abbas, Palestinian Liberation Organisation, President of the State of Palestine_
+_Context: Palestinian Liberation Organisation, President of the State of Palestine, Mahmoud Abbas_
 
 ## [Previous Day...](/news/2015/08/21/index.md)
 

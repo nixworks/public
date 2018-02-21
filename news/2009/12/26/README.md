@@ -17,7 +17,7 @@ _Context: Indian, 2004 Indian Ocean earthquake_
 
 ##### Chambal River
 ### [ A bridge over the Chambal River in Kota, India, collapses with 45 people thought to have been killed. ](/news/2009/12/26/a-bridge-over-the-chambal-river-in-kota-india-collapses-with-45-people-thought-to-have-been-killed.md)
-_Context: Kota, India, Chambal River_
+_Context: Chambal River, Kota, India_
 
 ##### Philippines
 ### [ It is confirmed that all nine missing crew members &mdash; six Filipinos and three Greeks &mdash; from yesterday's ship fire disaster off the coast of Venezuela are dead. ](/news/2009/12/26/it-is-confirmed-that-all-nine-missing-crew-members-mdash-six-filipinos-and-three-greeks-mdash-from-yesterday-s-ship-fire-disaster-off-t.md)
@@ -29,7 +29,7 @@ _Context: Ipoh, Malaysia_
 
 ##### China
 ### [ Five Chinese are sentenced to execution by firing squad before a court in Vietnam for their roles in one of the largest drug seizures in the country's history. ](/news/2009/12/26/five-chinese-are-sentenced-to-execution-by-firing-squad-before-a-court-in-vietnam-for-their-roles-in-one-of-the-largest-drug-seizures-in-th.md)
-_Context: execution by firing squad, Vietnam, history, China_
+_Context: Vietnam, history, execution by firing squad, China_
 
 ## [Previous Day...](/news/2009/12/25/index.md)
 

@@ -9,7 +9,7 @@ Singapore has been identified as a possible target for attack by a recent Islami
 
 ##### Balochistan conflict
 ### [Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md)
-_Context: Balochistan conflict, Pakistan, Balochistan_
+_Context: Balochistan conflict, Balochistan, Pakistan_
 
 ##### Volcano
 ### [A volcano erupts on the Japanese island of Kuchinoerabu-jima prompting the evacuation of all residents and the diversion of all flights. ](/news/2015/05/29/a-volcano-erupts-on-the-japanese-island-of-kuchinoerabu-jima-prompting-the-evacuation-of-all-residents-and-the-diversion-of-all-flights.md)
@@ -53,7 +53,7 @@ _Context: Wisconsin, Dustin Diamond_
 
 ##### Muhammadu Buhari
 ### [Muhammadu Buhari is sworn in as the President of Nigeria following a recent election. ](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.md)
-_Context: President, Muhammadu Buhari_
+_Context: Muhammadu Buhari, President_
 
 ##### Democratic Party presidential primaries, 2016
 ### [Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the-united-states-at-10-00-am-on-may-30.md)

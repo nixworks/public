@@ -13,7 +13,7 @@ _Context: Alger, Washington, United States, shooting spree_
 
 ##### United States
 ### [ The United States Environmental Protection Agency vetoes plans by the Army Corps of Engineers to build the world's largest water pump on the Mississippi River Delta raising concerns about the impact on wetlands. ](/news/2008/09/2/the-united-states-environmental-protection-agency-vetoes-plans-by-the-army-corps-of-engineers-to-build-the-world-s-largest-water-pump-on-th.md)
-_Context: Mississippi River, Delta, United States Army Corps of Engineers, Environmental Protection Agency, United States_
+_Context: Environmental Protection Agency, Delta, United States, Mississippi River, United States Army Corps of Engineers_
 
 ##### Hurricane Gustav
 ### [ Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/hurricane-gustav-weakens-to-a-tropical-depression.md)
@@ -21,11 +21,11 @@ _Context: Hurricane Gustav_
 
 ##### Republican
 ### [ Republican Party adopts a platform at its national convention that is critical of George W. Bush and John McCain for their support of government bailouts of companies. ](/news/2008/09/2/republican-party-adopts-a-platform-at-its-national-convention-that-is-critical-of-george-w-bush-and-john-mccain-for-their-support-of-gover.md)
-_Context: John McCain, 2008 Republican National Convention, George W. Bush, government bailouts of companies, Republican_
+_Context: 2008 Republican National Convention, John McCain, George W. Bush, Republican, government bailouts of companies_
 
 ##### Thailand
 ### [ Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of-pro-and-anti-government-prot.md)
-_Context: Bangkok, Samak Sundaravej, Prime Minister, yellow shirt, state of emergency, Thailand_
+_Context: Prime Minister, Thailand, Bangkok, Samak Sundaravej, states of emergency, yellow shirt_
 
 ## [Previous Day...](/news/2008/09/1/index.md)
 

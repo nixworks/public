@@ -5,11 +5,11 @@ Formats: [HTML](2004/09/21/index.html)  [JSON](2004/09/21/index.json)  [XML](200
 
 ##### Texans for a Republican Majority
 ### [ Three members of Texans for a Republican Majority, a political action committee founded by Tom DeLay, Majority Leader of the U.S. House of Representatives, are indicted by a grand jury in Travis County, Texas, on charges of money laundering and accepting illegal campaign contributions. ](/news/2004/09/21/three-members-of-texans-for-a-republican-majority-a-political-action-committee-founded-by-tom-delay-majority-leader-of-the-u-s-house-of.md)
-_Context: indicted, Texas, campaign contribution, Majority Leader, money laundering, Travis County, Texas, political action committee, grand jury, United States House of Representatives, Tom DeLay, Texans for a Republican Majority_
+_Context: grand jury, United States House of Representatives, money laundering, Texans for a Republican Majority, Texas, indicted, Travis County, Texas, political action committee, Majority Leader, campaign contribution, Tom DeLay_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush addresses a skeptical United Nations audience to discuss his plans regarding Iraq. ](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.md)
-_Context: U.S. President, Iraq, United Nations, George W. Bush_
+_Context: Iraq, George W. Bush, U.S. President, United Nations_
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: The number of people confirmed dead in Haiti from the effects of Hurricane Jeanne rises to at least 691, with the number of missing at more than 1,000. The city of Gonaves remains flooded, and thousands are homeless. ](/news/2004/09/21/2004-atlantic-hurricane-season-the-number-of-people-confirmed-dead-in-haiti-from-the-effects-of-hurricane-jeanne-rises-to-at-least-691-wi.md)
@@ -21,23 +21,23 @@ The singer formerly known as Cat Stevens returned to Britain on Thursday, saying
 
 ##### Syria
 ### [ Syria begins a "phased redeployment" of its forces in Lebanon (currently estimated at 20,000 troops), moving about 1,000 troops out of bases south of Beirut; it is not clear whether they will be redeployed in Lebanon or Syria. Earlier this month, UN Security Council Resolution 1559, drafted by the United States and France, called for all foreign troops to leave Lebanon. ](/news/2004/09/21/syria-begins-a-phased-redeployment-of-its-forces-in-lebanon-currently-estimated-at-20-000-troops-moving-about-1-000-troops-out-of-base.md)
-_Context: Beirut, UN Security Council Resolution 1559, Syria, Lebanese_
+_Context: Lebanese, UN Security Council Resolution 1559, Beirut, Syria_
 
 ##### United Nations
 ### [ Defying a recent United Nations resolution, Iran announces that it will continue converting 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride, a requirement for producing nuclear power plant fuel, but which some fear might be used to build nuclear weapons. ](/news/2004/09/21/defying-a-recent-united-nations-resolution-iran-announces-that-it-will-continue-converting-37-tons-33-600-kg-of-yellowcake-uranium-into.md)
-_Context: uranium hexafluoride, nuclear power plant, yellowcake, Iran's nuclear program, Iran, United Nations, uranium, nuclear programme_
+_Context: United Nations, nuclear programme, uranium, uranium hexafluoride, yellowcake, Iran's nuclear program, Iran, nuclear power plant_
 
 ##### Rebel-held
 ### [ Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Jack Hensley. The group threatens to behead the remaining hostage, Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. Eugene Armstrong was beheaded yesterday. ](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.md)
-_Context: Abu Musab al-Zarqawi, Tawhid and Jihad, Eugene Armstrong, rebel-held, Jack Hensley, Kenneth Bigley, behead_
+_Context: Kenneth Bigley, rebel-held, Abu Musab al-Zarqawi, Tawhid and Jihad, Eugene Armstrong, Jack Hensley, behead_
 
 ##### Earthquake
 ### [ An earthquake swarm is currently in progress in the Adobe Hills about 18 miles (29 km) east of California's Mono Lake. Over 600 earthquakes have been recorded since September 18, including events of moment magnitude 4.8, 5,4, and 5.5. ](/news/2004/09/21/an-earthquake-swarm-is-currently-in-progress-in-the-adobe-hills-about-18-miles-29-km-east-of-california-s-mono-lake-over-600-earthquakes.md)
-_Context: Mono Lake, earthquake, California, M<sub>w</sub>&nbsp;5.2_
+_Context: California, M<sub>w</sub>&nbsp;5.2, Mono Lake, earthquake_
 
 ##### Sanctions
 ### [ The United States formally lifts its general trade and aviation sanctions against Libya today, in response to Libya's decision last year to permit the removal of many of its weapons of mass destruction. ](/news/2004/09/21/the-united-states-formally-lifts-its-general-trade-and-aviation-sanctions-against-libya-today-in-response-to-libya-s-decision-last-year-to.md)
-_Context: weapons of mass destruction, Libya, sanctions_
+_Context: sanctions, weapons of mass destruction, Libya_
 
 ## [Previous Day...](/news/2004/09/20/index.md)
 

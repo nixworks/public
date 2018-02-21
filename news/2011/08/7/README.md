@@ -13,7 +13,7 @@ Yemeni President Ali Abdullah Saleh has been discharged from a military hospital
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels report more gains south of the capital Tripoli. ](/news/2011/08/7/2011-libyan-civil-war-rebels-report-more-gains-south-of-the-capital-tripoli.md)
-_Context: Tripoli, civil war_
+_Context: civil war, Tripoli_
 
 ##### 2011 Bahraini uprising
 ### [2011 Bahraini uprising: Two opposition MPs are released from prison. ](/news/2011/08/7/2011-bahraini-uprising-two-opposition-mps-are-released-from-prison.md)
@@ -25,7 +25,7 @@ _Context: Somalia, Al-Shabaab, Mogadishu_
 
 ##### Australian
 ### [Australian French Resistance leader Nancy Wake dies in London at the age of 98. ](/news/2011/08/7/australian-french-resistance-leader-nancy-wake-dies-in-london-at-the-age-of-98.md)
-_Context: French Resistance, Australian, London, Nancy Wake_
+_Context: Australian, London, French Resistance, Nancy Wake_
 
 ##### Malaysia
 ### [One person is killed and six are missing after a landslide in eastern Malaysia. ](/news/2011/08/7/one-person-is-killed-and-six-are-missing-after-a-landslide-in-eastern-malaysia.md)

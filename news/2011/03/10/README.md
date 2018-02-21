@@ -9,7 +9,7 @@ In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&
 
 ##### Army
 ### [Philippine Army forces attack Abu Sayyaf fighters in a mangrove in Sacol Island in Zamboanga City. ](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.md)
-_Context: Abu Sayyaf, army, Sacol Island, mangrove, Zamboanga City_
+_Context: Zamboanga City, mangrove, Abu Sayyaf, army, Sacol Island_
 
 ##### Kissidougou
 ### [At least three army recruits are killed in a riot at a military training camp in Kissidougou, southern Guinea. ](/news/2011/03/10/at-least-three-army-recruits-are-killed-in-a-riot-at-a-military-training-camp-in-kissidougou-southern-guinea.md)
@@ -17,7 +17,7 @@ _Context: Kissidougou, Guinea_
 
 ##### Sudan
 ### [A clash between rebels and Sudanese troops in Darfur kills 17 people. ](/news/2011/03/10/a-clash-between-rebels-and-sudanese-troops-in-darfur-kills-17-people.md)
-_Context: Darfur, Sudan_
+_Context: Sudan, Darfur_
 
 ##### NATO
 ### [NATO forces in Afghanistan kill the cousin of President Hamid Karzai in an overnight raid. ](/news/2011/03/10/nato-forces-in-afghanistan-kill-the-cousin-of-president-hamid-karzai-in-an-overnight-raid.md)
@@ -41,7 +41,7 @@ _Context: China_
 
 ##### Bank of Korea
 ### [The Bank of Korea increases the main interest rate in South Korea by a quarter percentage point to 3% due to concerns over inflation. ](/news/2011/03/10/the-bank-of-korea-increases-the-main-interest-rate-in-south-korea-by-a-quarter-percentage-point-to-3-due-to-concerns-over-inflation.md)
-_Context: South Korea, interest rate, inflation, Bank of Korea_
+_Context: South Korea, Bank of Korea, inflation, interest rate_
 
 ##### Moody's
 ### [Moody's downgrades Spain's credit rating to Aa2 due to the cost of restructuring the Spanish banking system. ](/news/2011/03/10/moody-s-downgrades-spain-s-credit-rating-to-aa2-due-to-the-cost-of-restructuring-the-spanish-banking-system.md)
@@ -49,11 +49,11 @@ _Context: Moody's, credit rating, Spain_
 
 ##### Floods
 ### [Flood waters cut off access to towns in North Queensland. ](/news/2011/03/10/flood-waters-cut-off-access-to-towns-in-north-queensland.md)
-_Context: floods, northern_
+_Context: northern, floods_
 
 ##### 5.4 magnitude earthquake
 ### [At least 25 people are killed and 250 injured following a 5.4 magnitude earthquake in Yingjiang County, Yunnan province, China, near the Burma border. ](/news/2011/03/10/at-least-25-people-are-killed-and-250-injured-following-a-5-4-magnitude-earthquake-in-yingjiang-county-yunnan-province-china-near-the-bur.md)
-_Context: Yunnan province, Burma, 5.4 magnitude earthquake, Yingjiang County, China_
+_Context: Yunnan province, China, Burma, 5.4 magnitude earthquake, Yingjiang County_
 
 ##### Japan
 ### [A senior diplomat in charge of relations with Japan at the United States State Department is replaced for allegedly making disparaging remarks about the people of Okinawa. ](/news/2011/03/10/a-senior-diplomat-in-charge-of-relations-with-japan-at-the-united-states-state-department-is-replaced-for-allegedly-making-disparaging-remar.md)
@@ -65,11 +65,11 @@ Secretary of State Hillary Clinton is set to travel to Egypt and Tunisia next we
 
 ##### Baltimore
 ### [More than 30 people in and around the US city of Baltimore, Maryland, are arrested on drugs charges, including actress Felicia Pearson from television series "The Wire". ](/news/2011/03/10/more-than-30-people-in-and-around-the-us-city-of-baltimore-maryland-are-arrested-on-drugs-charges-including-actress-felicia-pearson-from.md)
-_Context: Felicia Pearson, Baltimore, The Wire_
+_Context: The Wire, Felicia Pearson, Baltimore_
 
 ##### United States Government
 ### [A Federal grand jury indicts eleven members of a firearms trafficking ring based in Columbus, New Mexico including the mayor and police chief. ](/news/2011/03/10/a-federal-grand-jury-indicts-eleven-members-of-a-firearms-trafficking-ring-based-in-columbus-new-mexico-including-the-mayor-and-police-chie.md)
-_Context: United States Government, Columbus, New Mexico, grand jury, indicted_
+_Context: Columbus, New Mexico, indicted, United States Government, grand jury_
 
 ##### The House of Commons
 ### [In the House of Commons of the United Kingdom, a Liberal Democrat member disclosed, with the protection of parliamentary privilege, the fact that the former chief executive of Royal Bank of Scotland has obtained an injunction banning the publication of information about him, even the simple identification of this individual, Fred Goodwin, as a banker. ](/news/2011/03/10/in-the-house-of-commons-of-the-united-kingdom-a-liberal-democrat-member-disclosed-with-the-protection-of-parliamentary-privilege-the-fact.md)
@@ -77,7 +77,7 @@ Sir Fred Goodwin, the former chief executive of the Royal Bank of Scotland, has 
 
 ##### Zimbabwe
 ### [The Zimbabwean Energy Minister and member of the Movement for Democratic Change, Elton Mangoma, is arrested for unknown reasons. ](/news/2011/03/10/the-zimbabwean-energy-minister-and-member-of-the-movement-for-democratic-change-elton-mangoma-is-arrested-for-unknown-reasons.md)
-_Context: Movement for Democratic Change, Elton Mangoma, Zimbabwe_
+_Context: Zimbabwe, Elton Mangoma, Movement for Democratic Change_
 
 ##### Yemen
 ### [Yemeni President Ali Abdullah Saleh announces plans to move towards a parliamentary democracy, following weeks of demonstrations. ](/news/2011/03/10/yemeni-president-ali-abdullah-saleh-announces-plans-to-move-towards-a-parliamentary-democracy-following-weeks-of-demonstrations.md)
@@ -93,7 +93,7 @@ Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane Co
 
 ##### United States House of Representatives
 ### [U.S. Representative Gabrielle Giffords announces plans to attend the launch of the Space Shuttle Endeavour, piloted by her husband Mark Kelly, three months after she was shot in the 2011 Tucson shootings. ](/news/2011/03/10/u-s-representative-gabrielle-giffords-announces-plans-to-attend-the-launch-of-the-space-shuttle-endeavour-piloted-by-her-husband-mark-kell.md)
-_Context: Mark Kelly, United States House of Representatives, 2011 Tucson shootings, Space Shuttle ''Endeavour'', Gabrielle Giffords_
+_Context: Gabrielle Giffords, Space Shuttle ''Endeavour'', Mark Kelly, 2011 Tucson shootings, United States House of Representatives_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to end the Federal Housing Administration Refinance Program by 256 to 171. ](/news/2011/03/10/the-united-states-house-of-representatives-votes-to-end-the-federal-housing-administration-refinance-program-by-256-to-171.md)
@@ -101,11 +101,11 @@ _Context: United States House of Representatives, Federal Housing Administration
 
 ##### Prime Minister of Madagascar
 ### [The Prime Minister of Madagascar Albert Camille Vital resigns together with his Government as a part of a peace process proposed by the Southern African Development Community to end a two year political crisis. ](/news/2011/03/10/the-prime-minister-of-madagascar-albert-camille-vital-resigns-together-with-his-government-as-a-part-of-a-peace-process-proposed-by-the-sout.md)
-_Context: Prime Minister of Madagascar, Albert Camille Vital, Southern African Development Community_
+_Context: Albert Camille Vital, Prime Minister of Madagascar, Southern African Development Community_
 
 ##### Cuba
 ### [The Cuban Roman Catholic Church claims that the Government of Cuba plans to release 10 dissidents including Oscar Elias Biscet. ](/news/2011/03/10/the-cuban-roman-catholic-church-claims-that-the-government-of-cuba-plans-to-release-10-dissidents-including-ascar-elaas-biscet.md)
-_Context: Government of Cuba, Cuba, Roman Catholic Church, Oscar Elias Biscet_
+_Context: Roman Catholic Church, Cuba, Oscar Elias Biscet, Government of Cuba_
 
 ## [Previous Day...](/news/2011/03/9/index.md)
 

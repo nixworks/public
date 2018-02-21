@@ -21,7 +21,7 @@ At least nine Afghans on their way to a wedding in the north are killed by a roa
 
 ##### The Social Network
 ### ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md)
-_Context: 68th Golden Globe Awards, Colin Firth, The Social Network, Natalie Portman_
+_Context: Colin Firth, Natalie Portman, 68th Golden Globe Awards, The Social Network_
 
 ##### Greece
 ### [A ship carrying 263 migrants sinks off the coast of Greece; 22 are missing. ](/news/2011/01/16/a-ship-carrying-263-migrants-sinks-off-the-coast-of-greece-22-are-missing.md)
@@ -37,7 +37,7 @@ Three women are killed in a stampede at a crowded three-storey nightclub in the 
 
 ##### Egypt
 ### [A man is sentenced to death in Egypt for killing Copts at a Christmas mass a year ago. ](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.md)
-_Context: Christmas, Copt, a year ago, Egypt_
+_Context: Copt, Christmas, a year ago, Egypt_
 
 ##### Mark Kennedy
 ### [Mark Kennedy, the undercover British police officer who posed as an activist, flees to the United States after his cover is blown. ](/news/2011/01/16/mark-kennedy-the-undercover-british-police-officer-who-posed-as-an-activist-flees-to-the-united-states-after-his-cover-is-blown.md)
@@ -45,11 +45,11 @@ The undercover policeman who controversially posed as an environmental activist,
 
 ##### Pirate Party of Canada
 ### [Supporters of the Pirate Party of Canada hold a protest in Calgary for increased freedom of the press and government transparency in defense of Julian Assange and the WikiLeaks website. ](/news/2011/01/16/supporters-of-the-pirate-party-of-canada-hold-a-protest-in-calgary-for-increased-freedom-of-the-press-and-government-transparency-in-defense.md)
-_Context: Calgary, Alberta, freedom of the press, Julian Assange, Pirate Party of Canada, government transparency, WikiLeaks_
+_Context: Calgary, Alberta, WikiLeaks, Julian Assange, government transparency, Pirate Party of Canada, freedom of the press_
 
 ##### Magistrate
 ### [Magistrate Ilda Boccassini promises to cut pre-trial hearings and have Silvio Berlusconi's prostitution case in court by the summer. ](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.md)
-_Context: Silvio Berlusconi, Magistrate_
+_Context: Magistrate, Silvio Berlusconi_
 
 ##### Iran
 ### [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper "Aftenposten" reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on-i.md)
@@ -57,7 +57,7 @@ Iran has been developing contacts in more than 30 countries to acquire technolog
 
 ##### Japan
 ### [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md)
-_Context: Prime Minister of Japan, Naoto Kan, Japan, Cabinet of Japan_
+_Context: Naoto Kan, Prime Minister of Japan, Japan, Cabinet of Japan_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the-upcoming-general-election-after-spending-the-pa.md)
@@ -65,11 +65,11 @@ The Irish prime minister announces he will not be standing down as leader of the
 
 ##### Libya
 ### [Libyan leader Muammar al-Gaddafi reaches 41 years in power; there are less than 24 months left until he is scheduled to become Africa's longest serving ruler, overtaking former Gabonese President Omar Bongo who died in 2009. ](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.md)
-_Context: Omar Bongo, Gabon, Libya, President, died in 2009, Muammar al-Gaddafi_
+_Context: President, Libya, Muammar al-Gaddafi, died in 2009, Gabon, Omar Bongo_
 
 ##### France
 ### [France's National Front confirms 42-year-old Marine Le Pen as party leader, succeeding her father Jean-Marie Le Pen. ](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.md)
-_Context: France, Jean-Marie Le Pen, National Front, Marine Le Pen_
+_Context: Jean-Marie Le Pen, National Front, France, Marine Le Pen_
 
 ##### Saad Hariri
 ### [Saad Hariri becomes caretaker Prime Minister of Lebanon following the collapse of his government due to resignation of 11 opposition ministers. ](/news/2011/01/16/saad-hariri-becomes-caretaker-prime-minister-of-lebanon-following-the-collapse-of-his-government-due-to-resignation-of-11-opposition-ministe.md)

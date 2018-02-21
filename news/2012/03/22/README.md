@@ -13,7 +13,7 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 
 ##### Syrian armed forces
 ### [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md)
-_Context: Damascus, Lattakia, Homs, Aleppo, Idlib, Daraa, Hama, Syrian armed forces_
+_Context: Idlib, Lattakia, Aleppo, Syrian armed forces, Homs, Damascus, Daraa, Hama_
 
 ##### Kurdistan Workers' Party
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
@@ -25,7 +25,7 @@ _Context: Montreal, Canada_
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office says that Whitney Houston's official cause of death was drowning as a result of cocaine use. ](/news/2012/03/22/the-los-angeles-county-coroner-s-office-says-that-whitney-houston-s-official-cause-of-death-was-drowning-as-a-result-of-cocaine-use.md)
-_Context: cocaine, Los Angeles County Coroner's Office, Whitney Houston_
+_Context: Whitney Houston, Los Angeles County Coroner's Office, cocaine_
 
 ##### Irish
 ### [Ireland officially falls back into recession. ](/news/2012/03/22/ireland-officially-falls-back-into-recession.md)
@@ -33,7 +33,7 @@ The Republic of Ireland fell back into recession in the last three months of 201
 
 ##### Portuguese nationals
 ### [Portuguese trade unions hold a 24-hour strike in protest of austerity measures. ](/news/2012/03/22/portuguese-trade-unions-hold-a-24-hour-strike-in-protest-of-austerity-measures.md)
-_Context: Portuguese nationals, labour unions_
+_Context: labour unions, Portuguese nationals_
 
 ##### United States
 ### [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md)
@@ -57,7 +57,7 @@ India on Thursday voted in favour of a US-sponsored censure motion against Sri L
 
 ##### South Sudan
 ### [South Sudan invites Sudan to discuss outstanding issues next month between the two countries that nearly resulted in a war. ](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### United Nations
 ### [The United Nations appoints a special rapporteur to investigate the situation in Tibet, after hunger strikes occurred outside the United Nations Headquarters building in New York City. ](/news/2012/03/22/the-united-nations-appoints-a-special-rapporteur-to-investigate-the-situation-in-tibet-after-hunger-strikes-occurred-outside-the-united-nat.md)
@@ -85,7 +85,7 @@ The CAG-estimated loss figure of Rs 10.67 lakh crore is 6 times that of its high
 
 ##### Montreal
 ### [In Montreal the biggest protest in Quebec's history sets out against the government's tuition hikes and for free access to post-secondary education, with more than 200 000 people marching in the streets ](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.md)
-_Context: Montreal, Quebec_
+_Context: Quebec, Montreal_
 
 ## [Previous Day...](/news/2012/03/21/index.md)
 

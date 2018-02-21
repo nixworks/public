@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/5/index.html)  [JSON](2008/08/5/index.json)  [XML](2008/
 
 ##### Rwanda
 ### [ Rwanda formally accuses senior French officials, including former Prime Minister Dominique de Villepin and late President Franois Mitterrand, of involvement in the 1994 Rwandan Genocide and calls for them to be put on trial. ](/news/2008/08/5/rwanda-formally-accuses-senior-french-officials-including-former-prime-minister-dominique-de-villepin-and-late-president-francois-mitterra.md)
-_Context: Prime Minister, French President, Franois Mitterrand, Dominique de Villepin, France, Rwandan Genocide, Rwanda_
+_Context: Dominique de Villepin, French President, Franois Mitterrand, Prime Minister, Rwanda, Rwandan Genocide, France_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush, on his way to Beijing to attend the Olympics, stops in South Korea and Thailand. ](/news/2008/08/5/u-s-president-george-w-bush-on-his-way-to-beijing-to-attend-the-olympics-stops-in-south-korea-and-thailand.md)

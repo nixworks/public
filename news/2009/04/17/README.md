@@ -21,7 +21,7 @@ After fruitful bilateral negotiations the European Liberal and Democrat party we
 
 ##### Earthquake
 ### [ Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. ](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.md)
-_Context: Afghan, Nangarhar Province, earthquake_
+_Context: Afghan, earthquake, Nangarhar Province_
 
 ##### Peter Sunde
 ### [ Peter Sunde, Fredrik Neij, Gottfrid Svartholm, and Carl Lundstrom of The Pirate Bay are found guilty of copyright infringement and imprisoned until 2010. ](/news/2009/04/17/peter-sunde-fredrik-neij-gottfrid-svartholm-and-carl-lundstrapm-of-the-pirate-bay-are-found-guilty-of-copyright-infringement-and-impriso.md)
@@ -33,7 +33,7 @@ The prime minister of Thailand extended a state of emergency Friday and pledged 
 
 ##### Recount
 ### [ A recount in Moldova's parliamentary election confirms an "emphatic win" by the Communist Party. ](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-confirms-an-emphatic-win-by-the-communist-party.md)
-_Context: Moldovan Parliament, PCRM, election, Moldova, recount_
+_Context: PCRM, election, recount, Moldovan Parliament, Moldova_
 
 ##### 2008 Mumbai attacks
 ### [ The trial of Mohammad Ajmal Amir Kasab resumes. ](/news/2009/04/17/the-trial-of-mohammad-ajmal-amir-kasab-resumes.md)
@@ -41,11 +41,11 @@ Pakistani national faces death sentence for alleged role in attack on Indian cit
 
 ##### Serbia
 ### [ Serbian President Boris Tadic visits Kosovo. ](/news/2009/04/17/serbian-president-boris-tadia-visits-kosovo.md)
-_Context: Serbia, Boris Tadic, Kosovo, President of Serbia_
+_Context: Boris Tadic, President of Serbia, Kosovo, Serbia_
 
 ##### Czech Republic
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
-_Context: Alexander Lukashenko, Czech Republic, summit, European Union, Belarussian President, Belarus_
+_Context: summit, Czech Republic, Belarus, European Union, Alexander Lukashenko, Belarussian President_
 
 ##### Botswana
 ### [ Botswana will reduce its output of diamonds by more than 50% in 2009. ](/news/2009/04/17/botswana-will-reduce-its-output-of-diamonds-by-more-than-50-in-2009.md)
@@ -53,19 +53,19 @@ _Context: real diamond, Botswana_
 
 ##### Madagascar
 ### [ Malagasy President Andry Rajoelina issues an arrest warrant for former President Marc Ravalomanana. ](/news/2009/04/17/malagasy-president-andry-rajoelina-issues-an-arrest-warrant-for-former-president-marc-ravalomanana.md)
-_Context: President, Andry Rajoelina, Madagascar, arrest warrant, Marc Ravalomanana_
+_Context: arrest warrant, Marc Ravalomanana, Madagascar, President, Andry Rajoelina_
 
 ##### South Africa
 ### [ South Africa's Army enters KwaZulu-Natal province to prevent violence during the upcoming general election. ](/news/2009/04/17/south-africa-s-army-enters-kwazulu-natal-province-to-prevent-violence-during-the-upcoming-general-election.md)
-_Context: KwaZulu-Natal, military, loses, province, South Africa_
+_Context: province, loses, military, South Africa, KwaZulu-Natal_
 
-##### Canadian
+##### Canada
 ### [ Canada restores citizenship to foreigners in an amendment to the Citizenship Act of 1977. ](/news/2009/04/17/canada-restores-citizenship-to-foreigners-in-an-amendment-to-the-citizenship-act-of-1977.md)
-_Context: citizenship, foreigners, citizen of Canada, amendment, Canadian_
+_Context: citizen of Canada, amendment, citizenship, foreigners, Canada_
 
 ##### Fifth
 ### [ The Fifth Summit of the Americas begins in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.md)
-_Context: Port-of-Spain, Trinidad and Tobago, Fifth, Summit of the Americas_
+_Context: Trinidad and Tobago, Port-of-Spain, Summit of the Americas, Fifth_
 
 ## [Previous Day...](/news/2009/04/16/index.md)
 

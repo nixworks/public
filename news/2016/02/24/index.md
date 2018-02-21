@@ -9,7 +9,7 @@ By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters kil
 
 ##### Libyan Civil War (2014-present)
 ### [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md)
-_Context: ISIL, France, Libyan National Army, Libyan Civil War (2014-present), special forces, Benghazi, special forces, defence minister, British, Benina International Airport, Benina, Libya_
+_Context: special forces, Benghazi, France, Libyan Civil War (2014-present), Benina, ISIL, defence minister, Libya, special forces, British, Benina International Airport, Libyan National Army_
 
 ##### Military
 ### [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md)
@@ -41,15 +41,15 @@ It is &quot;highly unlikely&quot; that three people missing after the Didcot pow
 
 ##### Tornadoes of 2016
 ### [Three people die after a tornado hits the town of Waverly, Virginia. ](/news/2016/02/24/three-people-die-after-a-tornado-hits-the-town-of-waverly-virginia.md)
-_Context: Waverly, Virginia, Tornadoes of 2016, tornado_
+_Context: Tornadoes of 2016, Waverly, Virginia, tornado_
 
 ##### Australia
 ### [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md)
-_Context: Antarctica, Australian Antarctic Division, Aurora Australis, Australia_
+_Context: Aurora Australis, Antarctica, Australian Antarctic Division, Australia_
 
 ##### Foreign relations of Lebanon
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Qatar, United Arab Emirates, Foreign relations of Lebanon, Saudi Arabia, Kuwait, Lebanese, Bahrain_
+_Context: Saudi Arabia, Qatar, Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, United Arab Emirates_
 
 ##### Israeli-Palestinian conflict
 ### [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md)

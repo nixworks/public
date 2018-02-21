@@ -5,19 +5,19 @@ Formats: [HTML](2009/05/11/index.html)  [JSON](2009/05/11/index.json)  [XML](200
 
 ##### Elevator
 ### [ Six people are injured as an elevator collapses inside Tower Bridge in London, England. ](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.md)
-_Context: Tower Bridge, elevator, London, England_
+_Context: Tower Bridge, London, elevator, England_
 
 ##### China
 ### [ The People's Republic of China confirms its first case of (A)H1N1 influenza. ](/news/2009/05/11/the-people-s-republic-of-china-confirms-its-first-case-of-a-h1n1-influenza.md)
-_Context: confirms its first case, China, swine flu, H1N1_
+_Context: H1N1, swine flu, confirms its first case, China_
 
 ##### Iran
 ### [ An Iranian appellate court releases imprisoned American journalist Roxana Saberi. ](/news/2009/05/11/an-iranian-appellate-court-releases-imprisoned-american-journalist-roxana-saberi.md)
-_Context: appellate court, Iran, jail, United States, journalist, Roxana Saberi_
+_Context: Iran, appellate court, journalist, Roxana Saberi, jail, United States_
 
 ##### United States
 ### [ A United States Army soldier kills five comrades at Camp Liberty in Baghdad, Iraq. ](/news/2009/05/11/a-united-states-army-soldier-kills-five-comrades-at-camp-liberty-in-baghdad-iraq.md)
-_Context: comrade, Baghdad, United States soldier, Iraq, Camp Liberty, United States, soldier, kills_
+_Context: kills, United States soldier, Iraq, United States, Camp Liberty, soldier, Baghdad, comrade_
 
 ##### Kills
 ### [ A gunman kills two people and commits suicide near Oslo, Norway. ](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.md)
@@ -29,7 +29,7 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 
 ##### Guatemala
 ### [ Guatemalan President Alvaro Colom is accused of ordering the assassination of lawyer Rodrigo Rosenberg. ](/news/2009/05/11/guatemalan-president-alvaro-colom-is-accused-of-ordering-the-assassination-of-lawyer-rodrigo-rosenberg.md)
-_Context: Alvaro Colom, assassination, Guatemalan President, Guatemala, Rodrigo Rosenberg Marzano, lawyer_
+_Context: Alvaro Colom, Rodrigo Rosenberg Marzano, assassination, Guatemala, lawyer, Guatemalan President_
 
 ## [Previous Day...](/news/2009/05/10/index.md)
 

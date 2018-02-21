@@ -13,7 +13,7 @@ Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nea
 
 ##### 2015 Sousse attacks
 ### [The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in-tunisia-a-week-ago.md)
-_Context: 2015 Sousse attacks, Tunisia, United Kingdom_
+_Context: United Kingdom, 2015 Sousse attacks, Tunisia_
 
 ##### Yemeni Crisis (2011-present)
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
@@ -25,7 +25,7 @@ The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Con
 
 ##### Health insurance
 ### [American health insurer Aetna agrees to buy competitor Humana in a $37 billion deal. ](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.md)
-_Context: Aetna, health insurance, Humana_
+_Context: Humana, Aetna, health insurance_
 
 ##### UBS
 ### [A UBS whistle blower is assisting the government of Brazil in its investigation of currency manipulation by global banks, according to a Brazilian paper. ](/news/2015/07/3/a-ubs-whistle-blower-is-assisting-the-government-of-brazil-in-its-investigation-of-currency-manipulation-by-global-banks-according-to-a-bra.md)
@@ -41,7 +41,7 @@ After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean P
 
 ##### Earthquake
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
-_Context: earthquake, China, Pishan County, Xinjiang_
+_Context: China, Xinjiang, Pishan County, earthquake_
 
 ##### Sinking of the Kim Nirvana
 ### [The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md)
@@ -65,15 +65,15 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 
 ##### Jeffrey Webb
 ### [Jeffrey Webb, a former Vice President of FIFA and President of CONCACAF, is reportedly charged with healthcare fraud in his native Cayman Islands. ](/news/2015/07/3/jeffrey-webb-a-former-vice-president-of-fifa-and-president-of-concacaf-is-reportedly-charged-with-healthcare-fraud-in-his-native-cayman-is.md)
-_Context: FIFA, CONCACAF, Cayman Islands, Jeffrey Webb_
+_Context: CONCACAF, Jeffrey Webb, Cayman Islands, FIFA_
 
 ##### Danish general election, 2015
 ### [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
-_Context: Pia Kjaersgaard, speaker of the Danish parliament, Danish general election, 2015, Folketing_
+_Context: Folketing, Pia Kjaersgaard, Danish general election, 2015, speaker of the Danish parliament_
 
 ##### United States Air Force
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
-_Context: hypersonic, Mica Endsley, Mach, United States Air Force_
+_Context: United States Air Force, hypersonic, Mach, Mica Endsley_
 
 ##### Solar-powered aircraft
 ### [The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavigation-trip-starting-in.md)

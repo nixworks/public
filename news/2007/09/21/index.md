@@ -17,15 +17,15 @@ NASA announced new details Thursday about its plans for a Moon base that include
 
 ##### Buddhist
 ### [ Buddhist monks stage a brief demonstration in Myanmar making it the fourth successive day of protests. ](/news/2007/09/21/buddhist-monks-stage-a-brief-demonstration-in-myanmar-making-it-the-fourth-successive-day-of-protests.md)
-_Context: Buddhist, fourth successive day of protests, monk, Myanmar_
+_Context: Buddhist, Myanmar, monk, fourth successive day of protests_
 
 ##### Angola
 ### [ Angolan police arrest Jomo Gbomo, the head of the Movement for the Emancipation of the Niger Delta, a rebel organization in Nigeria. ](/news/2007/09/21/angolan-police-arrest-jomo-gbomo-the-head-of-the-movement-for-the-emancipation-of-the-niger-delta-a-rebel-organization-in-nigeria.md)
-_Context: Jomo Gbomo, Angola, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Movement for the Emancipation of the Niger Delta, Jomo Gbomo, Nigeria, Angola_
 
 ##### Karachi
 ### [ At least 27 people have died in the Karachi area of Pakistan after drinking poisonous alcohol. ](/news/2007/09/21/at-least-27-people-have-died-in-the-karachi-area-of-pakistan-after-drinking-poisonous-alcohol.md)
-_Context: alcohol, Karachi, Pakistan_
+_Context: alcohol, Pakistan, Karachi_
 
 ##### NATO
 ### [ NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-forces.md)
@@ -33,7 +33,7 @@ NATO&#039;s alliance force in Afghanistan says its warplanes killed an unspecifi
 
 ##### Netherlands
 ### [ The Dutch Cabinet meets to decide whether to hold a referendum on the European Union's Reform Treaty. ](/news/2007/09/21/the-dutch-cabinet-meets-to-decide-whether-to-hold-a-referendum-on-the-european-union-s-reform-treaty.md)
-_Context: referendum, forming a government, European Union, Reform Treaty, Netherlands_
+_Context: Reform Treaty, forming a government, European Union, referendum, Netherlands_
 
 ##### Chile
 ### [ Chilean Supreme Court approves extradition of Peruvian ex-president Alberto Fujimori on numerous charges, including the massacres of Barrios Altos and La Cantuta. ](/news/2007/09/21/chilean-supreme-court-approves-extradition-of-peruvian-ex-president-alberto-fujimori-on-numerous-charges-including-the-massacres-of-barrio.md)

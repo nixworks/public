@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/10/index.html)  [JSON](2012/08/10/index.json)  [XML](201
 
 ##### Sinaloa Cartel
 ### [Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/four-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most-wanted-drug-lord.md)
-_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spain_
+_Context: Sinaloa Cartel, Joaquin Guzman Loera, Spain_
 
 ##### Mohammed Hadia al Feitouri
 ### [A Libyan army general Mohammed Hadia al Feitouri is shot dead in Benghazi. ](/news/2012/08/10/a-libyan-army-general-mohammed-hadia-al-feitouri-is-shot-dead-in-benghazi.md)
@@ -13,15 +13,15 @@ A top Libyan defence official is shot dead in the eastern city of Benghazi, in t
 
 ##### Philippines
 ### [The death toll from recent floods in the Philippines capital Manila and surrounding regions rises to 60. ](/news/2012/08/10/the-death-toll-from-recent-floods-in-the-philippines-capital-manila-and-surrounding-regions-rises-to-60.md)
-_Context: Philippines, Manila_
+_Context: Manila, Philippines_
 
 ##### United States
 ### [The United States says they are planning to help clean up herbicide Agent Orange from areas of Vietnam, the first time since the Vietnam War ended in 1975. ](/news/2012/08/10/the-united-states-says-they-are-planning-to-help-clean-up-herbicide-agent-orange-from-areas-of-vietnam-the-first-time-since-the-vietnam-war.md)
-_Context: Agent Orange, United States, Vietnam War, Vietnam_
+_Context: Vietnam War, Vietnam, Agent Orange, United States_
 
 ##### South Korea
 ### [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md)
-_Context: Liancourt Rocks, South Korean President, Lee Myung-bak, South Korea, Yonhap, Japan_
+_Context: South Korean President, Liancourt Rocks, Yonhap, Japan, South Korea, Lee Myung-bak_
 
 ##### John Atta Mills
 ### [Tens of thousands of people attend the state funeral for President John Atta Mills in Accra, Ghana. ](/news/2012/08/10/tens-of-thousands-of-people-attend-the-state-funeral-for-president-john-atta-mills-in-accra-ghana.md)

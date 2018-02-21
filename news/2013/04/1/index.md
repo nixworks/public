@@ -5,11 +5,11 @@ Formats: [HTML](2013/04/1/index.html)  [JSON](2013/04/1/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. ](/news/2013/04/1/a-suicide-attacker-blows-up-a-tanker-lorry-at-the-police-headquarters-in-the-iraqi-city-of-tikrit-killing-at-least-nine-people-three-peopl.md)
-_Context: Iraq, suicide bombing, Baghdad, Tikrit_
+_Context: Tikrit, Baghdad, suicide bombing, Iraq_
 
 ##### Lebanese
 ### [Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md)
-_Context: Lebanese, Syria, Alawite_
+_Context: Lebanese, Alawite, Syria_
 
 ##### Teenager
 ### [Eli Reimer, aged sixteen, becomes the first teenager with Down syndrome to climb to Mount Everest's Base Camp. ](/news/2013/04/1/eli-reimer-aged-sixteen-becomes-the-first-teenager-with-down-syndrome-to-climb-to-mount-everest-s-base-camp.md)
@@ -21,7 +21,7 @@ Every April 1, the Web explodes with nonsense. Here is a rundown of many of 2013
 
 ##### Reality TV
 ### [Production of the American reality TV show "Buckwild" is suspended after cast member Shain Gandee and two other people are found dead. ](/news/2013/04/1/production-of-the-american-reality-tv-show-buckwild-is-suspended-after-cast-member-shain-gandee-and-two-other-people-are-found-dead.md)
-_Context: Buckwild, reality TV_
+_Context: reality TV, Buckwild_
 
 ##### India
 ### [India's Supreme Court rejects a plea by Novartis to patent an updated version of its cancer drug, Glivec (Imatinib), amid concerns that a patent could threaten access to cheap generic versions of drugs in poorer countries. ](/news/2013/04/1/india-s-supreme-court-rejects-a-plea-by-novartis-to-patent-an-updated-version-of-its-cancer-drug-glivec-imatinib-amid-concerns-that-a-pa.md)
@@ -29,7 +29,7 @@ Production of cheap copycat drugs for H.I.V. and cancer used by people in develo
 
 ##### Apple Inc.
 ### [Apple Inc. publishes a letter, signed by CEO Tim Cook, to Chinese customers, to address the growing controversy over the company's warranty policies in the country. ](/news/2013/04/1/apple-inc-publishes-a-letter-signed-by-ceo-tim-cook-to-chinese-customers-to-address-the-growing-controversy-over-the-company-s-warranty.md)
-_Context: CEO, Tim Cook, Chinese, Apple Inc._
+_Context: CEO, Chinese, Apple Inc., Tim Cook_
 
 ##### Newspaper
 ### [Privately owned newspapers go on sale in Myanmar for the first time since 1964. ](/news/2013/04/1/privately-owned-newspapers-go-on-sale-in-myanmar-for-the-first-time-since-1964.md)
@@ -37,15 +37,15 @@ Private newspapers are published in Burma for the first time in almost 50 years,
 
 ##### Coal mine
 ### [At least six people are killed in a explosion at a coal mine near Baishan, China. ](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at-a-coal-mine-near-baishan-china.md)
-_Context: Baishan, coal mine, Chinese_
+_Context: coal mine, Chinese, Baishan_
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
-_Context: Kim Jong-Un, South Korea, North Korea, Pyongyang, Parliament, United States, Supreme People's Assembly, 2013 Korean crisis_
+_Context: Supreme People's Assembly, 2013 Korean crisis, Pyongyang, United States, Parliament, South Korea, Kim Jong-Un, North Korea_
 
 ##### Japan
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
-_Context: surveillance, Chinese, territorial waters, Tokyo, Senkaku Islands, Japan_
+_Context: surveillance, Tokyo, Chinese, Senkaku Islands, territorial waters, Japan_
 
 ##### Scotland
 ### [Scotland's eight regional police forces are merged to create the nationwide Police Service of Scotland. ](/news/2013/04/1/scotland-s-eight-regional-police-forces-are-merged-to-create-the-nationwide-police-service-of-scotland.md)
@@ -53,7 +53,7 @@ _Context: Scotland, Police Service of Scotland_
 
 ##### Arapahoe County
 ### [Arapahoe County District Attorney George Brauchler decides, after speaking with survivors and relatives of the deceased, to pursue the death penalty against James Holmes, the perpetrator of the 2012 Aurora shooting; the case is given to a new judge. ](/news/2013/04/1/arapahoe-county-district-attorney-george-brauchler-decides-after-speaking-with-survivors-and-relatives-of-the-deceased-to-pursue-the-death.md)
-_Context: Arapahoe County, District Attorney, sentenced to death, James Holmes, 2012 Aurora shooting_
+_Context: District Attorney, James Holmes, sentenced to death, Arapahoe County, 2012 Aurora shooting_
 
 ##### Pirate
 ### [Pirates drown 16 fishermen in southern Bangladesh in order to steal their boats. ](/news/2013/04/1/pirates-drown-16-fishermen-in-southern-bangladesh-in-order-to-steal-their-boats.md)
@@ -65,11 +65,11 @@ _Context: United Kingdom, social welfare, Welfare Reform Act 2012_
 
 ##### National Health Service
 ### [Health experts warn that the National Health Service in England is "not ready for" major changes passed in 2012 that go into effect today. ](/news/2013/04/1/health-experts-warn-that-the-national-health-service-in-england-is-not-ready-for-major-changes-passed-in-2012-that-go-into-effect-today.md)
-_Context: England, National Health Service, major changes_
+_Context: England, major changes, National Health Service_
 
 ##### President of Sudan
 ### [President of Sudan Omar al-Bashir orders the release of all political prisoners. ](/news/2013/04/1/president-of-sudan-omar-al-bashir-orders-the-release-of-all-political-prisoners.md)
-_Context: President of Sudan, Sudan, Omar al-Bashir, political prisoner_
+_Context: Sudan, President of Sudan, political prisoner, Omar al-Bashir_
 
 ##### Japan
 ### [Japanese researchers unveil the smelling screen, a digital display screen capable of emitting pinpointed smells. ](/news/2013/04/1/japanese-researchers-unveil-the-smelling-screen-a-digital-display-screen-capable-of-emitting-pinpointed-smells.md)

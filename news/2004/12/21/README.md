@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/21/index.html)  [JSON](2004/12/21/index.json)  [XML](200
 
 ##### European Union
 ### [ European Union ministers postpone a controversial vote on the proposed Directive on the patentability of computer-implemented inventions in the EU after Poland asks for more time to think about it. ](/news/2004/12/21/european-union-ministers-postpone-a-controversial-vote-on-the-proposed-directive-on-the-patentability-of-computer-implemented-inventions-in.md)
-_Context: Directive on the patentability of computer-implemented inventions, European Union_
+_Context: European Union, Directive on the patentability of computer-implemented inventions_
 
 ##### Boeing Delta 4 Heavy
 ### [ The Boeing Delta 4 Heavy rocket launches successfully for the first time. ](/news/2004/12/21/the-boeing-delta-4-heavy-rocket-launches-successfully-for-the-first-time.md)
@@ -13,7 +13,7 @@ Space.com: After a series of delays, Boeing&#39;s newest rocket shoots into spac
 
 ##### Iraq
 ### [ US forces say twenty-two people have been killed and at least 67 injured in an attack at a US military base in the northern Iraqi city of Mosul. The dead include 13 US Soldiers, making the attack one of the deadliest attacks on US forces since the start of the war. ](/news/2004/12/21/us-forces-say-twenty-two-people-have-been-killed-and-at-least-67-injured-in-an-attack-at-a-us-military-base-in-the-northern-iraqi-city-of-m.md)
-_Context: Iraq, Mosul_
+_Context: Mosul, Iraq_
 
 ##### Home Secretary
 ### [ Former British Home Secretary David Blunkett's office is found to have assisted in the fast-tracking of his lover's nanny's visa-application, thereby confirming the allegation that led to his dismissal. ](/news/2004/12/21/former-british-home-secretary-david-blunkett-s-office-is-found-to-have-assisted-in-the-fast-tracking-of-his-lover-s-nanny-s-visa-applicatio.md)
@@ -21,7 +21,7 @@ _Context: David Blunkett, Home Secretary_
 
 ##### White House
 ### [ The White House announces that allegations of abuse of prisoners in Iraq and Guantanamo Bay by US military personnel will be "fully investigated". The allegations were prompted by a memo, obtained by ACLU FOIA requests, dated two months after the Abu Ghraib scandal broke which reference an executive order that authorized questionable interrogation techniques. The White House spokesman flat out denied this in saying "there is no executive order on interrogation techniques". ](/news/2004/12/21/the-white-house-announces-that-allegations-of-abuse-of-prisoners-in-iraq-and-guantanamo-bay-by-us-military-personnel-will-be-fully-investi.md)
-_Context: Iraq, Abu Ghraib prisoner abuse, Freedom of Information Act, White House, ACLU, United States military personnel, Guantnamo Bay_
+_Context: Abu Ghraib prisoner abuse, Guantnamo Bay, Freedom of Information Act, White House, Iraq, ACLU, United States military personnel_
 
 ##### Lee Teng-hui
 ### [ Japan issues a tourist visa to former Taiwanese leader Lee Teng-hui despite protests from the People's Republic of China that such a move would harm bilateral relations. The PRC considers Lee a Taiwan independence agitator. ](/news/2004/12/21/japan-issues-a-tourist-visa-to-former-taiwanese-leader-lee-teng-hui-despite-protests-from-the-people-s-republic-of-china-that-such-a-move-w.md)
@@ -33,23 +33,23 @@ _Context: Newfoundland and Labrador, eighth of Canada's provinces and territorie
 
 ##### Arab-Israeli Conflict
 ### [ Arab-Israeli Conflict: The leaders of the Gulf Co-operation Council (GCC) urge US President George W. Bush to make the creation of an independent Palestinian state an absolute priority at their annual meeting, which is being held in Bahrain. ](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.md)
-_Context: Arab-Israeli Conflict, Bahrain, U.S. President, Gulf Co-operation Council, Palestinian state, George W. Bush_
+_Context: Arab-Israeli Conflict, U.S. President, Gulf Co-operation Council, Bahrain, Palestinian state, George W. Bush_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair makes a surprise visit to Baghdad. ](/news/2004/12/21/uk-prime-minister-tony-blair-makes-a-surprise-visit-to-baghdad.md)
-_Context: Prime Minister, Baghdad, Tony Blair_
+_Context: Tony Blair, Baghdad, Prime Minister_
 
 ##### J.K. Rowling
 ### [ Author J.K. Rowling announces that the sixth book in her Harry Potter series, "Harry Potter and the Half-Blood Prince", will be published on 16 July 2005. The share price of her British publisher, Bloomsbury, rises 7.5% on the news. ](/news/2004/12/21/author-j-k-rowling-announces-that-the-sixth-book-in-her-harry-potter-series-harry-potter-and-the-half-blood-prince-will-be-published-o.md)
-_Context: J.K. Rowling, Bloomsbury, Harry Potter and the Half-Blood Prince, Harry Potter_
+_Context: Harry Potter and the Half-Blood Prince, J.K. Rowling, Harry Potter, Bloomsbury_
 
 ##### GBP
 ### [ Up to GBP30 million are reported stolen from the headquarters of the Northern Bank in Belfast, Northern Ireland. Two members of the bank's senior staff and their families are reported to have been held hostage before the robbery. This is likely to be the second biggest bank robbery in British history, and the fourth largest in the world. ](/news/2004/12/21/up-to-gbp30-million-are-reported-stolen-from-the-headquarters-of-the-northern-bank-in-belfast-northern-ireland-two-members-of-the-bank-s.md)
-_Context: GBP, Northern Ireland, Northern Bank, Belfast_
+_Context: Belfast, GBP, Northern Ireland, Northern Bank_
 
 ##### Pakistan
 ### [ Pakistan's Anti Terrorism Court cancels the bail of Asif Ali Zardari, leader of the Pakistan Peoples Party and husband of Benazir Bhutto. Zardari was released last month after eight years in prison. He was charged with corruption and conspiracy to murder. ](/news/2004/12/21/pakistan-s-anti-terrorism-court-cancels-the-bail-of-asif-ali-zardari-leader-of-the-pakistan-peoples-party-and-husband-of-benazir-bhutto-z.md)
-_Context: Pakistan, Benazir Bhutto, murder, corruption, bail, Asif Ali Zardari, Pakistan Peoples Party, conspiracy_
+_Context: Benazir Bhutto, murder, bail, Pakistan, corruption, conspiracy, Asif Ali Zardari, Pakistan Peoples Party_
 
 ##### Chile
 ### [ A court in Chile upholds the indictment and house arrest of Augusto Pinochet. Prosecution lawyers claim that his hospitalization for a heart condition was a political ploy. Pinochet's lawyers intend to appeal. ](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.md)
@@ -57,11 +57,11 @@ _Context: Augusto Pinochet, Chile_
 
 ##### Nigeria
 ### [ A court in Nigeria upholds the election of Nigerian president Olusegun Obasanjo. Opposition parties, led by Muhammadu Buhari, have challenged the result, and the EU and U.S. question the election's validity. ](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.md)
-_Context: European Union, Muhammadu Buhari, Olusegun Obasanjo, Nigeria_
+_Context: Olusegun Obasanjo, European Union, Muhammadu Buhari, Nigeria_
 
 ##### Abu Dhabi
 ### [ Archaeologists in Abu Dhabi, United Arab Emirates, find the remains of a 7,500-year-old man on the island of Marawah. ](/news/2004/12/21/archaeologists-in-abu-dhabi-united-arab-emirates-find-the-remains-of-a-7-500-year-old-man-on-the-island-of-marawah.md)
-_Context: United Arab Emirates, Abu Dhabi, Marawah_
+_Context: Marawah, Abu Dhabi, United Arab Emirates_
 
 ##### Jacques Chirac
 ### [ French President Jacques Chirac demands improved hospital security after two nurses are killed. A suspected mental patient was released. ](/news/2004/12/21/french-president-jacques-chirac-demands-improved-hospital-security-after-two-nurses-are-killed-a-suspected-mental-patient-was-released.md)

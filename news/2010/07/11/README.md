@@ -9,11 +9,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Libya
 ### [Libyan ship, Amalthea, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-launche.md)
-_Context: Libya, Israel, Gaza Strip_
+_Context: Gaza Strip, Israel, Libya_
 
 ##### Colombia
 ### [Ten Colombian soldiers are killed after entering a minefield while pursuing FARC rebels trying to blow up electrical towers. ](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Attacks
 ### [Two bomb attacks in the Ugandan capital Kampala kill at least 64 people; the Somali militant group Al-Shabab, which has pledged loyalty to al-qaida, is suspected of being behind the attack. ](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala-kill-at-least-64-people-the-somali-militant-group-al-shabab-which-has-pledged-loyalty-to-a.md)
@@ -25,7 +25,7 @@ _Context: Monrovia, Liberia, Togba Mulbah_
 
 ##### Police
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
-_Context: Eleuthera, Colton Harris-Moore, United States, northwestern Bahamas, Police_
+_Context: Eleuthera, Colton Harris-Moore, northwestern Bahamas, United States, Police_
 
 ##### Augusti Vila
 ### [Spanish film-maker Augusti Vila wins the main prize at the Karlovy Vary International Film Festival in the Czech Republic for his film "The Mosquito Net". ](/news/2010/07/11/spanish-film-maker-augusti-vila-wins-the-main-prize-at-the-karlovy-vary-international-film-festival-in-the-czech-republic-for-his-film-the.md)
@@ -45,7 +45,7 @@ Nelson Mandela enjoys a thunderous greeting from thousands of fans as he attends
 
 ##### FIFA
 ### [FIFA President Sepp Blatter rejects criticism of the 2010 FIFA World Cup. ](/news/2010/07/11/fifa-president-sepp-blatter-rejects-criticism-of-the-2010-fifa-world-cup.md)
-_Context: Sepp Blatter, 2010 FIFA World Cup, FIFA_
+_Context: 2010 FIFA World Cup, Sepp Blatter, FIFA_
 
 ##### 800 metres
 ### [World women's 800 metres champion Caster Semenya is left out of South Africa's team for the upcoming African Championships. ](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.md)

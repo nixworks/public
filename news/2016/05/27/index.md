@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/27/index.html)  [JSON](2016/05/27/index.json)  [XML](201
 
 ##### Iraqi civil war
 ### [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md)
-_Context: ISIL, Fallujah, Operation Breaking Terrorism, Iraqi civil war_
+_Context: Operation Breaking Terrorism, Iraqi civil war, Fallujah, ISIL_
 
 ##### Texas
 ### [Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. ](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.md)

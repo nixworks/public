@@ -9,7 +9,7 @@ Two members of longtime Oakland rhythm and blues band Tower of Power were hit by
 
 ##### Cuba-United States relations
 ### [President Barack Obama announces the end of the wet feet, dry feet policy, which previously allowed undocumented immigrants from Cuba to become permanent residents. ](/news/2017/01/12/president-barack-obama-announces-the-end-of-the-wet-feet-dry-feet-policy-which-previously-allowed-undocumented-immigrants-from-cuba-to-bec.md)
-_Context: Barack Obama, Cuba-United States relations, wet feet, dry feet policy_
+_Context: wet feet, dry feet policy, Barack Obama, Cuba-United States relations_
 
 ##### United States military personnel
 ### [3,000 U.S. troops are deployed in Poland as part of NATO's Operation Atlantic Resolve. Poland says that the deployment is a necessary response to Russian military exercises near its border and its intervention in Ukraine while Russia condemns the move as a "threat to national interests and security". ](/news/2017/01/12/3-000-u-s-troops-are-deployed-in-poland-as-part-of-nato-s-operation-atlantic-resolve-poland-says-that-the-deployment-is-a-necessary-respon.md)

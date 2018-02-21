@@ -17,7 +17,7 @@ President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks 
 
 ##### Territorial disputes in the South China Sea
 ### [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md)
-_Context: South China Sea, USS Dewey, Mischief Reef, Territorial disputes in the South China Sea_
+_Context: Mischief Reef, Territorial disputes in the South China Sea, USS Dewey, South China Sea_
 
 ##### Immigration policy of Donald Trump
 ### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
@@ -27,7 +27,7 @@ In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on 
 ### [Voters in Montana pick between Republican Greg Gianforte and Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md)
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
 
-##### Russian meddling in the 2016 U.S. presidential election
+##### Russian interference in the 2016 United States elections
 ### [Jared Kushner, son-in-law of and Senior Advisor to the President of the United States, is identified as a main focus of investigations into Russian ties by the Federal Bureau of Investigation. ](/news/2017/05/25/jared-kushner-son-in-law-of-and-senior-advisor-to-the-president-of-the-united-states-is-identified-as-a-main-focus-of-investigations-into.md)
 Investigators are looking in particular at meetings the president&rsquo;s son-in-law held in December with Russians, people familiar with the matter said.
 
@@ -37,7 +37,7 @@ El Ni&ntilde;o conditions known for suppressing storms expected to be scarce dur
 
 ##### Juno mission
 ### [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md)
-_Context: meteorology, Jupiter, Juno mission, poles, NASA_
+_Context: Juno mission, poles, meteorology, NASA, Jupiter_
 
 ##### Rocket Lab
 ### [Rocket Lab launches its 3D-printed Electron rocket on a test flight from Mahia Peninsula in New Zealand. This is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to 22,800 kilograms to the ISS, and costs $62 million per launch. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-this-is-the-first-launch-from-new.md)

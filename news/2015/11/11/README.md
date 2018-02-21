@@ -29,7 +29,7 @@ The Chinese authorities did not detail the charges, saying only that the officia
 
 ##### Constitutional Court
 ### [The Constitutional Court of Spain agrees to hear an appeal by the national government against a bid for independence by Catalonia suspending legal bids for secession. ](/news/2015/11/11/the-constitutional-court-of-spain-agrees-to-hear-an-appeal-by-the-national-government-against-a-bid-for-independence-by-catalonia-suspending.md)
-_Context: secession, Catalonia, Spanish government, Constitutional Court_
+_Context: secession, Spanish government, Constitutional Court, Catalonia_
 
 ##### Southwest Airlines
 ### [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direct.md)

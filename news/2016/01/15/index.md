@@ -9,7 +9,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ##### 2016 Jakarta attacks
 ### [Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attackers-killed-in-the-raid-w.md)
-_Context: 2016 Jakarta attacks, Jakarta_
+_Context: Jakarta, 2016 Jakarta attacks_
 
 ##### War in Somalia
 ### [al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md)
@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: UNICEF, Syrian Civil War, Al-Fu'ah, Syria, malnutrition, Madaya, Kafraya, Russia_
+_Context: Russia, Al-Fu'ah, malnutrition, Syrian Civil War, UNICEF, Madaya, Syria, Kafraya_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
@@ -85,11 +85,11 @@ _Context: Turkish, Turkey, PKK rebellion (2015-present), Kurdistan Workers Party
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Central Commission for Discipline Inspection, Wei Hong, Sichuan, Anti-corruption campaign in China_
+_Context: Wei Hong, Central Commission for Discipline Inspection, Sichuan, Anti-corruption campaign in China_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)
-_Context:  Quba District, National Police, Azerbaijan_
+_Context: Azerbaijan,  Quba District, National Police_
 
 ## [Previous Day...](/news/2016/01/14/index.md)
 

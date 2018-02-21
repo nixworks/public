@@ -5,11 +5,11 @@ Formats: [HTML](2006/01/9/index.html)  [JSON](2006/01/9/index.json)  [XML](2006/
 
 ##### General
 ### [ General Sir Michael Rose, former United Nations commander in Bosnia, has told the BBC that British Prime Minister Tony Blair should be "impeached" over the war in Iraq. ](/news/2006/01/9/general-sir-michael-rose-former-united-nations-commander-in-bosnia-has-told-the-bbc-that-british-prime-minister-tony-blair-should-be-imp.md)
-_Context: Sir Michael Rose, Bosnia and Herzegovina, General, commander, BBC, United Nations, impeached, war in Iraq, Tony Blair, Prime Minister_
+_Context: Sir Michael Rose, Prime Minister, General, BBC, war in Iraq, Tony Blair, commander, impeached, Bosnia and Herzegovina, United Nations_
 
 ##### Ahmad Kazemi
 ### [ Ahmad Kazemi, the top commander of Iran's Revolutionary Guards ground forces, and ten others have been reportedly killed when their plane crashed in northwestern Iran. ](/news/2006/01/9/ahmad-kazemi-the-top-commander-of-iran-s-revolutionary-guards-ground-forces-and-ten-others-have-been-reportedly-killed-when-their-plane-c.md)
-_Context: Iran, Islamic Revolutionary Guards Corps, Ahmad Kazemi_
+_Context: Ahmad Kazemi, Iran, Islamic Revolutionary Guards Corps_
 
 ##### Israeli Prime Minister
 ### [ The Prime Minister of Israel Ariel Sharon has started breathing independently after doctors reduced the inflow of anaesthetic drugs in an attempt to waken the prime minister from deep sedation. ](/news/2006/01/9/the-prime-minister-of-israel-ariel-sharon-has-started-breathing-independently-after-doctors-reduced-the-inflow-of-anaesthetic-drugs-in-an-a.md)
@@ -17,7 +17,7 @@ _Context: Iran, Islamic Revolutionary Guards Corps, Ahmad Kazemi_
 
 ##### Vice President
 ### [ U.S. Vice President Dick Cheney was hospitalized when he complained of breathing trouble. He was later released from the hospital. ](/news/2006/01/9/u-s-vice-president-dick-cheney-was-hospitalized-when-he-complained-of-breathing-trouble-he-was-later-released-from-the-hospital.md)
-_Context: Vice President, Dick Cheney_
+_Context: Dick Cheney, Vice President_
 
 ## [Previous Day...](/news/2006/01/8/index.md)
 

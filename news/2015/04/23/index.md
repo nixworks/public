@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/23/index.html)  [JSON](2015/04/23/index.json)  [XML](201
 
 ##### Prime Minister
 ### [The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. ](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.md)
-_Context: Prime Minister, Manuel Valls, France_
+_Context: Prime Minister, France, Manuel Valls_
 
 ##### War in Afghanistan (2015-present)
 ### [The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-has-killed-american-and-italian-al-qae.md)
@@ -21,7 +21,7 @@ Investors weren’t wrong; they just paid too much to be right the last time the
 
 ##### Republic of Macedonia
 ### [Macedonian state television reports that 14 migrants died after being hit by a train near the city of Veles while travelling through the Balkans towards Western Europe. ](/news/2015/04/23/macedonian-state-television-reports-that-14-migrants-died-after-being-hit-by-a-train-near-the-city-of-veles-while-travelling-through-the-bal.md)
-_Context: Veles, Western Europe, Republic of Macedonia, Balkans_
+_Context: Republic of Macedonia, Balkans, Veles, Western Europe_
 
 ##### Libor scandal
 ### [Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulation-of-the-libor.md)
@@ -33,7 +33,7 @@ Former US army general and CIA director fined $100,000 – $60,000 more than exp
 
 ##### Djoomart Otorbaev
 ### [Djoomart Otorbaev resigns as the Prime Minister of Kyrgyzstan. ](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.md)
-_Context: Prime Minister, Djoomart Otorbaev_
+_Context: Djoomart Otorbaev, Prime Minister_
 
 ##### United States Senate
 ### [The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. ](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.md)

@@ -9,7 +9,7 @@ The killings of low-level officials are an attempt to undermine counterinsurgenc
 
 ##### Soweto
 ### [Soweto hosts an opening concert ahead of the 2010 FIFA World Cup, attended by tens of thousands of people and featuring appearances from international figures such as Desmond Tutu, Hugh Masekela, Amadou & Mariam, Shakira, Juanes, Black Eyed Peas and Alicia Keys. ](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.md)
-_Context: Black Eyed Peas, Shakira, Amadou & Mariam, Desmond Tutu, Alicia Keys, Soweto, Juanes, 2010 FIFA World Cup, Hugh Masekela_
+_Context: Juanes, Shakira, Amadou & Mariam, 2010 FIFA World Cup, Desmond Tutu, Hugh Masekela, Soweto, Black Eyed Peas, Alicia Keys_
 
 ##### J. G. Ballard
 ### [15 large storage boxes containing manuscripts, notebooks and letters belonging to J. G. Ballard are acquired by the British Library. ](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.md)
@@ -49,7 +49,7 @@ Swiss businessman Max Goeldi, at the centre of a long-running row, is released f
 
 ##### Norway
 ### [Two Norwegians, including one with British citizenship, Joshua French and Tjostolv Moland, are sentenced to death by a military court in the Democratic Republic of the Congo on charges of murder and espionage. ](/news/2010/06/10/two-norwegians-including-one-with-british-citizenship-joshua-french-and-tjostolv-moland-are-sentenced-to-death-by-a-military-court-in-the.md)
-_Context: United Kingdom, DR Congo, Joshua French and Tjostolv Moland, Norway_
+_Context: DR Congo, United Kingdom, Norway, Joshua French and Tjostolv Moland_
 
 ##### Kenya
 ### [Kenyan police hunt for an alleged cult leader who instructed a serial killer to take up a killing spree. ](/news/2010/06/10/kenyan-police-hunt-for-an-alleged-cult-leader-who-instructed-a-serial-killer-to-take-up-a-killing-spree.md)
@@ -65,11 +65,11 @@ The Labour Party has become the biggest party in the State for the first time in
 
 ##### Solar sail
 ### [The first solar sail is unfurled by Japanese space organization JAXA. ](/news/2010/06/10/the-first-solar-sail-is-unfurled-by-japanese-space-organization-jaxa.md)
-_Context: solar sail, Japan, JAXA_
+_Context: Japan, JAXA, solar sail_
 
 ##### South Korea
 ### [South Korea's space agency, KARI, loses contact with a Naro-1 rocket carrying the STSAT-2B satellite, 132 seconds after launch. Officials believe the rocket exploded. ](/news/2010/06/10/south-korea-s-space-agency-kari-loses-contact-with-a-naro-1-rocket-carrying-the-stsat-2b-satellite-132-seconds-after-launch-officials-be.md)
-_Context: STSAT-2B, KARI, South Korea, rocket, Naro-1, space agency_
+_Context: rocket, South Korea, Naro-1, space agency, KARI, STSAT-2B_
 
 ##### Possible major realignment
 ### [In the first move of a possible major realignment of U.S. college sports, the Pacific-10 Conference announces that the University of Colorado, a current member of the Big 12 Conference, has accepted the Pac-10's invitation to join that conference. ](/news/2010/06/10/in-the-first-move-of-a-possible-major-realignment-of-u-s-college-sports-the-pacific-10-conference-announces-that-the-university-of-colorad.md)

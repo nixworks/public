@@ -13,11 +13,11 @@ _Context: U.S. military, Iraq War_
 
 ##### Fatah-Hamas conflict
 ### [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md)
-_Context: Sana'a, Yemen, Fatah-Hamas conflict_
+_Context: Yemen, Sana'a, Fatah-Hamas conflict_
 
 ##### Kimi Raikkonen
 ### [ Kimi Raikkonen of Finland wins the Malaysian Grand Prix in Sepang. ](/news/2008/03/23/kimi-ra-ikkapnen-of-finland-wins-the-malaysian-grand-prix-in-sepang.md)
-_Context: Malaysian Grand Prix, Sepang, Finland, Kimi Raikkonen_
+_Context: Kimi Raikkonen, Sepang, Malaysian Grand Prix, Finland_
 
 ## [Previous Day...](/news/2008/03/22/index.md)
 

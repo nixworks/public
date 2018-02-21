@@ -5,11 +5,11 @@ Formats: [HTML](2016/06/24/index.html)  [JSON](2016/06/24/index.json)  [XML](201
 
 ##### Moro conflict
 ### [Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fears.md)
-_Context: Sulu, Philippines, Indonesia, Mindanao, Moro conflict_
+_Context: Indonesia, Mindanao, Sulu, Philippines, Moro conflict_
 
 ##### War in North-West Pakistan
 ### [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md)
-_Context: Quetta, War in North-West Pakistan_
+_Context: War in North-West Pakistan, Quetta_
 
 ##### Syrian Civil War
 ### [The Britain-based Syrian Observatory for Human Rights reports ISIL militants have kidnapped about 900 Syrian Kurdish civilians from Aleppo over the past three weeks in retaliation for the Kurdish and US-backed Syrian Democratic Forces attack on Manbij. The captives are being forced to build fortifications for the extremists. At least 26 of those abducted reportedly have been killed for refusing to follow ISIL orders. ](/news/2016/06/24/the-britain-based-syrian-observatory-for-human-rights-reports-isil-militants-have-kidnapped-about-900-syrian-kurdish-civilians-from-aleppo-o.md)
@@ -41,7 +41,7 @@ _Context: Korean Peninsula, Volkswagen emissions scandal, South Korea, Volkswage
 
 ##### Drug crackdown
 ### [More than 50 people accused of dealing in illegal drugs have been murdered in the Philippines within a month after incoming president Rodrigo Duterte called for more extrajudicial killings against suspected criminals. ](/news/2016/06/24/more-than-50-people-accused-of-dealing-in-illegal-drugs-have-been-murdered-in-the-philippines-within-a-month-after-incoming-president-rodrig.md)
-_Context: illegal drugs, extrajudicial killings, drug crackdown, Rodrigo Duterte_
+_Context: extrajudicial killings, Rodrigo Duterte, drug crackdown, illegal drugs_
 
 ##### European Union membership referendum
 ### [The United Kingdom votes, 52% to 48%, to leave the European Union. Prime Minister David Cameron, who called the referendum three years ago, announces his resignation indicating he will leave office by October. ](/news/2016/06/24/the-united-kingdom-votes-52-to-48-to-leave-the-european-union-prime-minister-david-cameron-who-called-the-referendum-three-years-ago.md)
@@ -49,7 +49,7 @@ Up to the minute results for the 2016 EU Referendum from BBC News
 
 ##### Nickel
 ### [The price of nickel is expected to skyrocket after the incoming Philippine government appoints an anti-mining bureaucrat Gina Lopez to the national cabinet. The Philippines is the biggest exporter of nickel to China. ](/news/2016/06/24/the-price-of-nickel-is-expected-to-skyrocket-after-the-incoming-philippine-government-appoints-an-anti-mining-bureaucrat-gina-lopez-to-the-n.md)
-_Context: Chinese, nickel, cabinet, Gina Lopez_
+_Context: nickel, Gina Lopez, Chinese, cabinet_
 
 ##### 2016 U.S. election
 ### [American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". ](/news/2016/06/24/american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-republican-because-of-donald-trump-and-has.md)

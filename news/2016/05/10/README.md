@@ -11,7 +11,7 @@ US and Afghan forces find the kidnapped son of a former Pakistani prime minister
 ### [ At least three are killed in a car bomb targeting a Turkish police vehicle in Diyarbakir, Turkey. ](/news/2016/05/10/at-least-three-are-killed-in-a-car-bomb-targeting-a-turkish-police-vehicle-in-diyarbaka-r-turkey.md)
 A car bomb on Tuesday struck a police vehicle that was carrying officers escorting seven recently detained Kurdish militants in the mainly-Kurdish city of Diyarbakir, killing three people and wounding 45 others, officials said.
 
-##### U.S. District Court for the District of Columbia
+##### U.S. District Court in Washington, D.C.
 ### [U.S. District Judge Emmet Sullivan blocks the $6.3 billion merger of major office supply companies Staples and Office Depot, finding it would result in reduced competition and higher prices. The companies announce they are abandoning the deal. ](/news/2016/05/10/u-s-district-judge-emmet-sullivan-blocks-the-6-3-billion-merger-of-major-office-supply-companies-staples-and-office-depot-finding-it-woul.md)
 Companies had argued that industry now has many more competitors.
 
@@ -37,7 +37,7 @@ A Baltimore police officer will be tried by a judge instead of a jury on charges
 
 ##### Philippine presidential election, 2016
 ### [Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos-by-a-small-margin-in-the-vice-president.md)
-_Context: Rodrigo Duterte, Philippine presidential election, 2016, Bongbong Marcos, Leni Robredo_
+_Context: Leni Robredo, Philippine presidential election, 2016, Bongbong Marcos, Rodrigo Duterte_
 
 ##### United States presidential election in West Virginia, 2016
 ### [Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican-presidential-primaries-voters-in-the-state.md)

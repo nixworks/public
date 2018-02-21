@@ -13,11 +13,11 @@ _Context: United Nations, 2005 Kashmir earthquake_
 
 ##### United Kingdom
 ### [ In the United Kingdom, David Cameron and David Davis go through to a runoff vote of Conservative Party members after a second round of voting amongst Tory MPs in the party's leadership election. Liam Fox is eliminated. ](/news/2005/10/20/in-the-united-kingdom-david-cameron-and-david-davis-go-through-to-a-runoff-vote-of-conservative-party-members-after-a-second-round-of-voti.md)
-_Context: Conservative Party, David Cameron, leadership election, Members of Parliament, David Davis, Liam Fox, United Kingdom_
+_Context: Liam Fox, Members of Parliament, leadership election, United Kingdom, David Cameron, David Davis, Conservative Party_
 
 ##### United States soldier
 ### [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md)
-_Context: Iraqi insurgency, Baghdad, Iraq, United States soldier_
+_Context: Baghdad, Iraqi insurgency, United States soldier, Iraq_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Several U.S. soldiers are caught setting fire to dead Taliban fighters, in defiance of Muslim beliefs and practices, in scenes broadcast on Afghan TV. ](/news/2005/10/20/conflict-in-afghanistan-several-u-s-soldiers-are-caught-setting-fire-to-dead-taliban-fighters-in-defiance-of-muslim-beliefs-and-practice.md)

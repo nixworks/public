@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the
 
 ### Related:
 
-1. [Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _Context: Syria, state of emergency_
+1. [Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _Context: Syria, states of emergency_
 2. [Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-protest-against-the-ba-at.md) _Context: Ba'ath Party, Syria_
 3. [Syria and the Russian Federation once again state that the United States' military presence in Syria is "illegal". United States and US-backed forces now have control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-the-russian-federation-once-again-state-that-the-united-states-military-presence-in-syria-is-illegal-united-states-and-us-back.md) _Context: Syria_
 4. [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md) _Context: Syria_

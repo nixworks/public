@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/26/index.html)  [JSON](2015/05/26/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md)
-_Context: Maidan Wardak, Maidan Shahr, War in Afghanistan (2015-present), suicide bomber_
+_Context: Maidan Wardak, Maidan Shahr, suicide bomber, War in Afghanistan (2015-present)_
 
 ##### Kenya
 ### [Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. ](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.md)
@@ -17,7 +17,7 @@ Shellfire from Yemen killed one civilian and a member of the security forces in 
 
 ##### Boko Haram
 ### [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md)
-_Context: Gubio, Boko Haram, Nigeria, Borno_
+_Context: Gubio, Borno, Boko Haram, Nigeria_
 
 ##### Charter Communications
 ### [Charter Communications announces plans to merge with Time Warner Cable in a $55.1 billion deal. ](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.md)
@@ -25,11 +25,11 @@ Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. f
 
 ##### China
 ### [Police in China catch 175 looters who raided the Niuheliang Neolithic archaeological site in Manchuria. ](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.md)
-_Context: China, Manchuria, Neolithic, Niuheliang_
+_Context: China, Neolithic, Niuheliang, Manchuria_
 
 ##### Tornadoes of 2015
 ### [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
-_Context: Ciudad Acuna, Tornadoes of 2015_
+_Context: Tornadoes of 2015, Ciudad Acuna_
 
 ##### Texas-Oklahoma floods
 ### [Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-and-buses-in-houston.md)

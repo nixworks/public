@@ -17,7 +17,7 @@ _Context: India, insurgency, Manipur_
 
 ##### Angela Merkel
 ### [ There is still no clear course for coalition building, with deadlocks for all possible coalitions. Angela Merkel (CDU) and Franz Mntefering (SPD) were elected chairpersons of their respective Parliamentary parties. German green politician Joschka Fischer announced his retirement from leading the Green party in the newly elected Parliament, retiring to become an "elder statesman" in the back benches. ](/news/2005/09/20/there-is-still-no-clear-course-for-coalition-building-with-deadlocks-for-all-possible-coalitions-angela-merkel-cdu-and-franz-munteferin.md)
-_Context: Joschka Fischer, Angela Merkel, Franz Mntefering_
+_Context: Joschka Fischer, Franz Mntefering, Angela Merkel_
 
 ## [Previous Day...](/news/2005/09/19/index.md)
 

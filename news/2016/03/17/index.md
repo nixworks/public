@@ -41,7 +41,7 @@ The United States has seen Chinese activity around a reef China seized from the 
 
 ##### International Criminal Tribunal for the former Yugoslavia
 ### [Judges at the International Criminal Tribunal for the former Yugoslavia announce that they will soon deliver their verdict against radical Serb leader Vojislav Seselj, suspected of crimes against humanity committed during the Breakup of Yugoslavia, despite him being sent back to Serbia for medical reasons. Seselj has vowed not to return to court. ](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.md)
-_Context: Serbia, Vojislav Seselj, Breakup of Yugoslavia, crimes against humanity, International Criminal Tribunal for the former Yugoslavia_
+_Context: Vojislav Seselj, crimes against humanity, Breakup of Yugoslavia, International Criminal Tribunal for the former Yugoslavia, Serbia_
 
 ##### 2015-16 protests in Brazil
 ### [Clashes erupt outside the presidential palace in Brazil's capital Brasilia between anti-Workers' Party protesters and supporters of ex-president Luiz Inacio Lula da Silva, where he was due to be sworn in as President of Brazil Dilma Rousseff's chief of staff. Hundreds of anti-government protesters calling for Rousseff's impeachment and Lula's arrest also blocked the central Paulista Avenue in SGBPo Paulo, Brazil's largest city and economic hub. ](/news/2016/03/17/clashes-erupt-outside-the-presidential-palace-in-brazil-s-capital-brasalia-between-anti-workers-party-protesters-and-supporters-of-ex-pres.md)
@@ -53,7 +53,7 @@ The hacker group Anonymous made headlines the other day by saying it was declari
 
 ##### 2016 U.S. election
 ### [Bernie Sanders concedes the Missouri primary to Hillary Clinton, who led by 1,531 votes, 0.2 percent of those counted. Sanders says he will not ask for a recount, an option he had because the result is under the state's requirement, 0.5 percent -- one-half of one percent. The Republican contest is too close to call as Donald Trump leads Ted Cruz by a similar 0.2 percent. ](/news/2016/03/17/bernie-sanders-concedes-the-missouri-primary-to-hillary-clinton-who-led-by-1-531-votes-0-2-percent-of-those-counted-sanders-says-he-will.md)
-_Context: Ted Cruz, primary, Bernie Sanders, Missouri, Donald Trump, Democratic Party presidential primaries, 2016, recount, Hillary Clinton, 2016 U.S. election_
+_Context: 2016 U.S. election, Hillary Clinton, recount, Donald Trump, Democratic Party presidential primaries, 2016, primary, Ted Cruz, Missouri, Bernie Sanders_
 
 ## [Previous Day...](/news/2016/03/16/index.md)
 

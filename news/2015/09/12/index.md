@@ -13,7 +13,7 @@ According to officials, the Chinese troops had built a temporary hut in Burtse, 
 
 ##### Sinai insurgency
 ### [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md)
-_Context: Sinai insurgency, ISIL, Egyptian military, Sinai Peninsula_
+_Context: Egyptian military, Sinai insurgency, ISIL, Sinai Peninsula_
 
 ##### Arab-Israeli conflict
 ### [Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-palestinians-and-four-israe.md)
@@ -21,11 +21,11 @@ Confrontations erupted on backdrop of new Jewish residents entering neighborhood
 
 ##### Venezuelan
 ### [Venezuelan director Lorenzo Vigas wins a Golden Lion award for Best Film at the Venice Film Festival for "Desde alla" ("From Afar"). ](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.md)
-_Context: Golden Lion, Venezuelan, Desde alla, Venice Film Festival, Lorenzo Vigas_
+_Context: Venice Film Festival, Desde alla, Venezuelan, Lorenzo Vigas, Golden Lion_
 
 ##### Indian Railways
 ### [An Indian Railways train derailment near Gulbarga in Karnataka state kills at least two people with several others injured. ](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.md)
-_Context: Indian Railways, Gulbarga, Karnataka_
+_Context: Karnataka, Gulbarga, Indian Railways_
 
 ##### Tropical Storm Etau
 ### [Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-return-home.md)

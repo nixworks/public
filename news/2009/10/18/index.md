@@ -9,7 +9,7 @@ _Context: Iraq, its national archives_
 
 ##### Ukraine
 ### [ Ukraine commences its first presidential election campaign since the 2004 Orange Revolution. ](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.md)
-_Context: Orange Revolution, Ukrainian presidential election, Ukraine_
+_Context: Ukraine, Ukrainian presidential election, Orange Revolution_
 
 ##### Rwanda
 ### [ A Rwandan doctor working in a French hospital is suspended after a nurse locates an Internet Interpol arrest warrant, accusing him of a 1994 "genocide, war crimes". ](/news/2009/10/18/a-rwandan-doctor-working-in-a-french-hospital-is-suspended-after-a-nurse-locates-an-internet-interpol-arrest-warrant-accusing-him-of-a-199.md)
@@ -17,15 +17,15 @@ A Rwandan doctor working at a hospital in northern France is suspected of being 
 
 ##### Taliban
 ### [ At least 60 Taliban militants are killed in an ongoing offensive in South Waziristan, northwest Pakistan. ](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.md)
-_Context: Taliban, Pakistan, ongoing offensive, South Waziristan_
+_Context: ongoing offensive, South Waziristan, Taliban, Pakistan_
 
 ##### German
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
-_Context: salute, Adolf Hitler, Israel, German, museum, Bangkok, billboard_
+_Context: Bangkok, museum, Israel, Adolf Hitler, billboard, German, salute_
 
 ##### Hurricane Rick
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
-_Context: Category 4, Hurricane Rick, strongest hurricane in a decade, South Pacific Ocean_
+_Context: strongest hurricane in a decade, Category 4, South Pacific Ocean, Hurricane Rick_
 
 ##### Australia
 ### [ The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. ](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.md)
@@ -41,7 +41,7 @@ Scotland Yard has said that it has received a complaint about an article written
 
 ##### Iran
 ### [ Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of-the-country.md)
-_Context: Iranian Revolutionary guards, bomb attack, Iran_
+_Context: Iranian Revolutionary guards, Iran, bomb attack_
 
 ##### Puerto Rico
 ### [ Seven people are killed and 20 injured after gunmen open fire in a bar in Puerto Rico. ](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.md)
@@ -51,9 +51,9 @@ _Context: Puerto Rico_
 ### [ Two foreign aid workers Sharon Commins and Hilda Kawuki &ndash; one Irish and one Ugandan &ndash; working for the GOAL charity captured in Sudan's Darfur region more than three months ago are released. ](/news/2009/10/18/two-foreign-aid-workers-sharon-commins-and-hilda-kawuki-ndash-one-irish-and-one-ugandan-ndash-working-for-the-goal-charity-captured-in.md)
 GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to secure her release and that of her Ugandan colleague Hilda Kawuki.
 
-##### Canadian
+##### Canada
 ### [ A boat with 76 migrant workers on board headed for Canada is seized by the Canadian Navy and RCMP off its west coast in the Pacific Ocean. ](/news/2009/10/18/a-boat-with-76-migrant-workers-on-board-headed-for-canada-is-seized-by-the-canadian-navy-and-rcmp-off-its-west-coast-in-the-pacific-ocean.md)
-_Context: Canadian, Royal Canadian Mounted Police, Canadian Navy, South Pacific Ocean_
+_Context: South Pacific Ocean, Canadian Navy, Royal Canadian Mounted Police, Canada_
 
 ##### Australian Maritime Safety Authority
 ### [ The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. ](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.md)
@@ -61,7 +61,7 @@ Hundreds of people believed to be heading to Australia are reportedly aboard two
 
 ##### Iceland
 ### [ The Icelandic government says it has come to a new agreement with the governments of the Netherlands and the UK over the repaying of $5bn. ](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.md)
-_Context: Netherlands, UK, Iceland_
+_Context: UK, Netherlands, Iceland_
 
 ## [Previous Day...](/news/2009/10/17/index.md)
 

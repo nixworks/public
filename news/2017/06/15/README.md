@@ -13,7 +13,7 @@ An attack hits a mosque in an area of the Afghan capital Kabul dominated by mino
 
 ##### 2017 Xuzhou kindergarten bombing
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
-_Context: Jiangsu Province, 2017 Xuzhou kindergarten bombing, Fengxian_
+_Context: 2017 Xuzhou kindergarten bombing, Fengxian, Jiangsu Province_
 
 ##### Parliament of Japan
 ### [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md)
@@ -25,7 +25,7 @@ New rules mean EU citizens can call, text and browse the internet for the same p
 
 ##### Government of Serbia
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
-_Context: Ana Brnabic, Prime Minister of Serbia, Government of Serbia, Aleksandar Vucic, Serbia, National Assembly_
+_Context: Aleksandar Vucic, Government of Serbia, Ana Brnabic, Serbia, National Assembly, Prime Minister of Serbia_
 
 ## [Previous Day...](/news/2017/06/14/index.md)
 

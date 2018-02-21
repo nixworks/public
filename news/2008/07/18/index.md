@@ -9,11 +9,11 @@ The investigation found that people awaiting trial at the Cook County Jail have 
 
 ##### Cambodia
 ### [ A Cambodian general states that a border stand off between Cambodia and Thailand came close to a shootout last night over land near the World Heritage nominated Prasat Preah Vihear temple. ](/news/2008/07/18/a-cambodian-general-states-that-a-border-stand-off-between-cambodia-and-thailand-came-close-to-a-shootout-last-night-over-land-near-the-wor.md)
-_Context: exchange gunfire, Thailand, World Heritage, temple, Cambodia, Prasat Preah Vihear_
+_Context: Thailand, Prasat Preah Vihear, Cambodia, exchange gunfire, World Heritage, temple_
 
 ##### Albert II of Belgium
 ### [ King Albert II of Belgium rejects the resignation of Prime Minister Yves Leterme, as no compromise was reached on devolution to the regions. ](/news/2008/07/18/king-albert-ii-of-belgium-rejects-the-resignation-of-prime-minister-yves-leterme-as-no-compromise-was-reached-on-devolution-to-the-regions.md)
-_Context: Yves Leterme, Belgian Prime Minister, Albert II of Belgium_
+_Context: Belgian Prime Minister, Albert II of Belgium, Yves Leterme_
 
 ##### Australia
 ### [ Australia's Qantas Airways announces plans to cut 1,500 jobs worldwide. ](/news/2008/07/18/australia-s-qantas-airways-announces-plans-to-cut-1-500-jobs-worldwide.md)

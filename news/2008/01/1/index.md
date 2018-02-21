@@ -17,15 +17,15 @@ _Context: Fatah-Hamas conflict, Gaza Strip_
 
 ##### Cypriot
 ### [ Cyprus and Malta adopt the euro currency, becoming the 14th and 15th countries to do so. Cypriot pound and Maltese lira notes and coins will remain valid in shops until the end of the month, and exchangeable at the respective central banks for some years. ](/news/2008/01/1/cyprus-and-malta-adopt-the-euro-currency-becoming-the-14th-and-15th-countries-to-do-so-cypriot-pound-and-maltese-lira-notes-and-coins-wil.md)
-_Context: Cypriot, Cypriot pound, Maltese lira, euro, Malta_
+_Context: Cypriot pound, Cypriot, euro, Maltese lira, Malta_
 
 ##### Eldoret
 ### [ A fire in a church in Eldoret, Western Kenya kills fifty people who were sheltering from violence after the disputed presidential election. ](/news/2008/01/1/a-fire-in-a-church-in-eldoret-western-kenya-kills-fifty-people-who-were-sheltering-from-violence-after-the-disputed-presidential-election.md)
-_Context: Eldoret, Kenyan presidential election, 2007, Kenya_
+_Context: Kenya, Eldoret, Kenyan presidential election, 2007_
 
 ##### John Granville
 ### [ US Diplomat John Granville, working for the United States Agency for International Development in Sudan, is murdered. ](/news/2008/01/1/us-diplomat-john-granville-working-for-the-united-states-agency-for-international-development-in-sudan-is-murdered.md)
-_Context: Sudan, USAID, John Granville_
+_Context: USAID, John Granville, Sudan_
 
 ## [Previous Day...](/news/2007/12/31/index.md)
 

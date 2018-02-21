@@ -5,15 +5,15 @@ Formats: [HTML](2005/02/17/index.html)  [JSON](2005/02/17/index.json)  [XML](200
 
 ##### Car bomb
 ### [ A car bomb explodes in southern Thailand near the Marina Hotel in Sungai Kolok, a popular tourist town close to the Malaysian border. Five people are killed and more than 40 injured. The car bomb is believed to be the first to explode in the Muslim-dominated region. ](/news/2005/02/17/a-car-bomb-explodes-in-southern-thailand-near-the-marina-hotel-in-sungai-kolok-a-popular-tourist-town-close-to-the-malaysian-border-five.md)
-_Context: Thailand, car bomb, Muslim, Sungai Kolok_
+_Context: car bomb, Thailand, Sungai Kolok, Muslim_
 
 ##### Garda
 ### [ Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and GBP60,000 in Northern Bank notes believed to be from the GBP26.5 million robbery in Belfast just before Christmas. Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. ](/news/2005/02/17/irish-police-arrest-four-people-in-cork-and-three-in-dublin-in-raids-concentrating-on-the-financing-of-the-provisional-ira-over-2-3-millio.md)
-_Context: Northern Bank, GBP, banking, GBP26.5 million robbery, Belfast, Dublin, councillor, IRA, garda, Sinn Fin, Cork_
+_Context: Cork, banking, councillor, GBP26.5 million robbery, Dublin, garda, IRA, Northern Bank, Belfast, GBP, Sinn Fin_
 
 ##### Chubu Centrair International Airport
 ### [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md)
-_Context: Ise Bay, Nagoya Airport, artificial island, Chubu Centrair International Airport, Nagoya_
+_Context: Ise Bay, Nagoya Airport, Chubu Centrair International Airport, artificial island, Nagoya_
 
 ##### European Union
 ### [ The European Union introduces new laws that increase the rights of air passengers so that they receive higher compensation for overbooking, delays and cancellation of flights. ](/news/2005/02/17/the-european-union-introduces-new-laws-that-increase-the-rights-of-air-passengers-so-that-they-receive-higher-compensation-for-overbooking.md)
@@ -37,11 +37,11 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Exile
 ### [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-ha.md)
-_Context: Taslima Nasreen, blasphemy, execution, Exile, citizenship, West Bengal, Muslim_
+_Context: West Bengal, citizenship, blasphemy, execution, Exile, Taslima Nasreen, Muslim_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives passes a Class Action Fairness Act that intends to curb class action suits, moving them from state courts to federal courts. ](/news/2005/02/17/the-united-states-house-of-representatives-passes-a-class-action-fairness-act-that-intends-to-curb-class-action-suits-moving-them-from-sta.md)
-_Context: U.S. federal court, state courts, class action, Class Action Fairness Act, United States House of Representatives_
+_Context: United States House of Representatives, Class Action Fairness Act, state courts, U.S. federal court, class action_
 
 ##### Politics of Brazil
 ### [ The Brazilian government intends to create a protected rainforest region in the aftermath of the murder of US missionary Dorothy Stang. ](/news/2005/02/17/the-brazilian-government-intends-to-create-a-protected-rainforest-region-in-the-aftermath-of-the-murder-of-us-missionary-dorothy-stang.md)
@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Sudanese cabinet
 ### [ The government of Sudan rejects the United Nations' demand that the suspects of war crimes in the violence ridden western Sudanese region of Darfur would be put before the International Criminal Court in The Hague. ](/news/2005/02/17/the-government-of-sudan-rejects-the-united-nations-demand-that-the-suspects-of-war-crimes-in-the-violence-ridden-western-sudanese-region-o.md)
-_Context: Sudanese cabinet, Sudan, United Nations, Darfur, The Hague, war crime, ICC, Darfur conflict_
+_Context: Sudanese cabinet, The Hague, United Nations, war crime, Darfur, Darfur conflict, Sudan, ICC_
 
 ## [Previous Day...](/news/2005/02/16/index.md)
 

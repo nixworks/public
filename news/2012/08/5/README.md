@@ -17,7 +17,7 @@ At least seven people, including a gunman, have died in a shooting at a Sikh tem
 
 ##### Turkey
 ### [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md)
-_Context: Turkey, Kurdistan Workers' Party, Hakkari Province, Kurdish_
+_Context: Turkey, Hakkari Province, Kurdish, Kurdistan Workers' Party_
 
 ##### Suicide bombing
 ### [A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. ](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.md)
@@ -33,7 +33,7 @@ Zambian miners kill a Chinese manager by pushing a mine trolley at him during a 
 
 ##### General Motors
 ### [American automaker General Motors strikes a $559 million marketing deal with English football club Manchester United. ](/news/2012/08/5/american-automaker-general-motors-strikes-a-559-million-marketing-deal-with-english-football-club-manchester-united.md)
-_Context: General Motors, Manchester United_
+_Context: Manchester United, General Motors_
 
 ##### Cholera
 ### [An outbreak of cholera hits a refugee camp in eastern Democratic Republic of the Congo where thousands have fled fighting between M23 rebels and government troops. ](/news/2012/08/5/an-outbreak-of-cholera-hits-a-refugee-camp-in-eastern-democratic-republic-of-the-congo-where-thousands-have-fled-fighting-between-m23-rebels.md)

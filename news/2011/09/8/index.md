@@ -13,7 +13,7 @@ The Department of Homeland Security said a new report of a threat of a car or tr
 
 ##### Unemployment
 ### [Unemployment in Australia is reported to have risen to 5.3% in August 2011. ](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.md)
-_Context: Unemployment, Australia_
+_Context: Australia, Unemployment_
 
 ##### National Weather Service
 ### [The National Weather Service issues flash flooding warnings for the states of New York, New Jersey, Pennsylvania, Connecticut, Maryland and Virginia. ](/news/2011/09/8/the-national-weather-service-issues-flash-flooding-warnings-for-the-states-of-new-york-new-jersey-pennsylvania-connecticut-maryland-and.md)
@@ -29,11 +29,11 @@ Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate causes heavy rain on Mexico's Atlantic Ocean coast. ](/news/2011/09/8/tropical-storm-nate-causes-heavy-rain-on-mexico-s-atlantic-ocean-coast.md)
-_Context: Atlantic Ocean, Tropical Storm Nate, Mexico_
+_Context: Atlantic Ocean, Mexico, Tropical Storm Nate_
 
 ##### Tuiloma Neroni Slade
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
-_Context: Pacific Islands Forum, Tuiloma Neroni Slade_
+_Context: Tuiloma Neroni Slade, Pacific Islands Forum_
 
 ##### Public sector
 ### [Up to 40,000 public sector workers gather in the Australian city of Sydney to protest a wages cap and job cuts in the 2011-12 budget proposed by the Government of the State of New South Wales. ](/news/2011/09/8/up-to-40-000-public-sector-workers-gather-in-the-australian-city-of-sydney-to-protest-a-wages-cap-and-job-cuts-in-the-2011-12-budget-propose.md)

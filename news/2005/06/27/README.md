@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/27/index.html)  [JSON](2005/06/27/index.json)  [XML](200
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States releases a unanimous decision in "MGM Studios, Inc. v. Grokster, Ltd.", finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-sharin.md)
-_Context: copyright infringement, Supreme Court of the United States, a recent decision, P2P, file sharing_
+_Context: copyright infringement, file sharing, Supreme Court of the United States, a recent decision, P2P_
 
 ##### Walmart
 ### [ Walmart heir John T. Walton dies when his ultra-light plane crashes right after taking off in Jackson, Wyoming. ](/news/2005/06/27/walmart-heir-john-t-walton-dies-when-his-ultra-light-plane-crashes-right-after-taking-off-in-jackson-wyoming.md)
@@ -13,11 +13,11 @@ _Context: Walmart, John T. Walton_
 
 ##### Kenya
 ### [ Kenya releases three men suspected of conspiracy to a suicide bombing in 2002 and links to al Qaeda. ](/news/2005/06/27/kenya-releases-three-men-suspected-of-conspiracy-to-a-suicide-bombing-in-2002-and-links-to-al-qaeda.md)
-_Context: Kenya, suicide bombing, al Qaeda_
+_Context: Kenya, al Qaeda, suicide bombing_
 
 ##### South Africa
 ### [ South Africa's Congress of South African Trade Unions (Cosatu) has organized a nationwide strike to protest job losses and unemployment. ](/news/2005/06/27/south-africa-s-congress-of-south-african-trade-unions-cosatu-has-organized-a-nationwide-strike-to-protest-job-losses-and-unemployment.md)
-_Context: strike, unemployment, South Africa, Congress of South African Trade Unions_
+_Context: Congress of South African Trade Unions, South Africa, strike, unemployment_
 
 ##### Philippines
 ### [ In the Philippines, president Gloria Arroyo apologizes and admits that she took a phonecall to an election official during the presidential elections last. She denies any vote fixing and refuses to resign. ](/news/2005/06/27/in-the-philippines-president-gloria-arroyo-apologizes-and-admits-that-she-took-a-phonecall-to-an-election-official-during-the-presidential.md)
@@ -29,7 +29,7 @@ _Context: Zapatista, Mexico, Subcomandante Marcos_
 
 ##### Greece
 ### [ Greek prosecutor launches a preliminary investigation to determine if Greeks fighting for Bosnian Serbs were involved with the Srebrenica massacre. ](/news/2005/06/27/greek-prosecutor-launches-a-preliminary-investigation-to-determine-if-greeks-fighting-for-bosnian-serbs-were-involved-with-the-srebrenica-m.md)
-_Context: Greece, Serb, Srebrenica massacre_
+_Context: Srebrenica massacre, Serb, Greece_
 
 ##### Bosnia and Herzegovina
 ### [ In Bosnia, Bosnian Serb police arrests 11 for connection with war crimes. ](/news/2005/06/27/in-bosnia-bosnian-serb-police-arrests-11-for-connection-with-war-crimes.md)

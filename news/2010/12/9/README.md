@@ -9,7 +9,7 @@ Dame Helen Mirren condemns film-makers for aiming movies at young men, saying Ho
 
 ##### Governor of Florida
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
-_Context: Jim Morrison, Doors, Charlie Crist, indecent exposure, Governor of Florida, Florida_
+_Context: Florida, Doors, indecent exposure, Charlie Crist, Jim Morrison, Governor of Florida_
 
 ##### Coronation Street
 ### [An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
@@ -61,7 +61,7 @@ The two Swedish women who have brought sex charges against WikiLeaks founder Jul
 
 ##### The Hague
 ### [A national high-tech crime team in The Hague arrests a 16-year-old male they accuse of disrupting MasterCard and PayPal websites. Both companies previously cut off donations to the WikiLeaks website. ](/news/2010/12/9/a-national-high-tech-crime-team-in-the-hague-arrests-a-16-year-old-male-they-accuse-of-disrupting-mastercard-and-paypal-websites-both-compa.md)
-_Context: MasterCard, WikiLeaks, PayPal, The Hague_
+_Context: The Hague, PayPal, WikiLeaks, MasterCard_
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder announces that his country's justice department is "looking into" incidents which have disrupted websites opposed to WikiLeaks. ](/news/2010/12/9/u-s-attorney-general-eric-holder-announces-that-his-country-s-justice-department-is-looking-into-incidents-which-have-disrupted-websites.md)
@@ -73,7 +73,7 @@ Haiti says it will review the disputed result of its presidential election, afte
 
 ##### Southern Sudan
 ### [Crowds gather in the South Sudan capital Juba to mark one month until the referendum on independence. ](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.md)
-_Context: Southern Sudan, Southern Sudanese Independence Referendum, Juba_
+_Context: Southern Sudan, Juba, Southern Sudanese Independence Referendum_
 
 ##### 
 ### [Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md)
@@ -81,7 +81,7 @@ Parliamentary coalition votes to triple university fees as students clash with p
 
 ##### South Korea
 ### [South Korea reports its first two cases of the superbug New Delhi metallo-beta-lactamase. ](/news/2010/12/9/south-korea-reports-its-first-two-cases-of-the-superbug-new-delhi-metallo-beta-lactamase.md)
-_Context: South Korea, superbug, New Delhi metallo-beta-lactamase_
+_Context: superbug, New Delhi metallo-beta-lactamase, South Korea_
 
 ## [Previous Day...](/news/2010/12/8/index.md)
 

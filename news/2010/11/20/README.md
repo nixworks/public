@@ -13,7 +13,7 @@ Madagascan troops storm an army barracks and arrest an estimated 20 rebellious o
 
 ##### Vladimir Arzumanyan
 ### [Vladimir Arzumanyan from Armenia wins the Junior Eurovision Song Contest 2010 with the entry "Mama". ](/news/2010/11/20/vladimir-arzumanyan-from-armenia-wins-the-junior-eurovision-song-contest-2010-with-the-entry-mama.md)
-_Context: Armenia, Junior Eurovision Song Contest 2010, Vladimir Arzumanyan_
+_Context: Armenia, Vladimir Arzumanyan, Junior Eurovision Song Contest 2010_
 
 #####  Vatican
 ### [The Vatican will issue guidelines for bishops, on how to combat sexual abuse within the church. ](/news/2010/11/20/the-vatican-will-issue-guidelines-for-bishops-on-how-to-combat-sexual-abuse-within-the-church.md)
@@ -21,7 +21,7 @@ The Vatican says it is preparing guidelines on how to prevent clerical sex abuse
 
 ##### Russian
 ### [Nine people, including Russians and Ukrainians, die in a bus accident in Egypt. ](/news/2010/11/20/nine-people-including-russians-and-ukrainians-die-in-a-bus-accident-in-egypt.md)
-_Context: Ukrainian, Egypt, Russian_
+_Context: Egypt, Ukrainian, Russian_
 
 #####  Doctors without Borders
 ### [ Doctors without Borders criticizes the response to the 2010 Haiti cholera outbreak as inadequate. ](/news/2010/11/20/doctors-without-borders-criticizes-the-response-to-the-2010-haiti-cholera-outbreak-as-inadequate.md)
@@ -33,7 +33,7 @@ Twelve military personnel, including three officers, were killed when their Mi-1
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Aasia Bibi, Islam, Christian, Pakistan, Pope Benedict XVI, blasphemy_
+_Context: blasphemy, Islam, Pakistan, Christian, Pope Benedict XVI, Aasia Bibi_
 
 ##### China
 ### [China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. ](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.md)
@@ -41,7 +41,7 @@ _Context: Pope Benedict XVI, China, state-backed church_
 
 ##### Secretary General of the United Nations
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
-_Context: Secretary General of the United Nations, Navi Pillay, OCHR, Ban Ki-moon, Iran_
+_Context: Iran, Navi Pillay, Secretary General of the United Nations, Ban Ki-moon, OCHR_
 
 ##### NATO
 ### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
@@ -57,7 +57,7 @@ The Vatican says it is preparing guidelines on how to prevent clerical sex abuse
 
 ##### Mahmoud Bahmani
 ### [Mahmoud Bahmani resigns as Governor of the Central Bank of Iran. ](/news/2010/11/20/mahmoud-bahmani-resigns-as-governor-of-the-central-bank-of-iran.md)
-_Context: Governor of the Central Bank of Iran, Mahmoud Bahmani_
+_Context: Mahmoud Bahmani, Governor of the Central Bank of Iran_
 
 ## [Previous Day...](/news/2010/11/19/index.md)
 

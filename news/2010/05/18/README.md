@@ -5,11 +5,11 @@ Formats: [HTML](2010/05/18/index.html)  [JSON](2010/05/18/index.json)  [XML](201
 
 ##### Wealth
 ### [A new study has found that the gap in wealth between white and black Americans increased by more than four times between 1984 and 2007. ](/news/2010/05/18/a-new-study-has-found-that-the-gap-in-wealth-between-white-and-black-americans-increased-by-more-than-four-times-between-1984-and-2007.md)
-_Context: United States, 2007, black, wealth, 1984, white_
+_Context: white, United States, wealth, 2007, 1984, black_
 
 ##### Hamas
 ### [Hamas' interior ministry executes three Palestinians in Gaza, without the approval of the President of the Palestinian National Authority, Mahmoud Abbas. ](/news/2010/05/18/hamas-interior-ministry-executes-three-palestinians-in-gaza-without-the-approval-of-the-president-of-the-palestinian-national-authority-m.md)
-_Context: death penalty, Palestinian Authority President, Gaza Strip, Hamas, Mahmoud Abbas, Palestinians_
+_Context: Palestinians, Mahmoud Abbas, Hamas, Palestinian Authority President, death penalty, Gaza Strip_
 
 ##### Taliban
 ### [A Taliban suicide car bomber kills at least 12 Afghan civilians and wounds dozens more in an attack on a NATO convoy in the capital, Kabul. ](/news/2010/05/18/a-taliban-suicide-car-bomber-kills-at-least-12-afghan-civilians-and-wounds-dozens-more-in-an-attack-on-a-nato-convoy-in-the-capital-kabul.md)
@@ -25,7 +25,7 @@ _Context: Maoist, India, Raipur_
 
 ##### Ban Ki-moon
 ### [Secretary-General Ban Ki-moon appoints Christiana Figueres of Costa Rica to lead United Nations efforts to combat climate change and global warming. ](/news/2010/05/18/secretary-general-ban-ki-moon-appoints-christiana-figueres-of-costa-rica-to-lead-united-nations-efforts-to-combat-climate-change-and-global.md)
-_Context: global warming, climate change, Christiana Figueres, Ban Ki-moon, United Nations, Costa Rica_
+_Context: Christiana Figueres, United Nations, global warming, climate change, Ban Ki-moon, Costa Rica_
 
 ## [Previous Day...](/news/2010/05/17/index.md)
 

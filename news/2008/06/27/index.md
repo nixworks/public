@@ -5,19 +5,19 @@ Formats: [HTML](2008/06/27/index.html)  [JSON](2008/06/27/index.json)  [XML](200
 
 ##### Serbia
 ### [ Serbian President Boris Tadic has named Mirko Cvetkovic for the new Prime Minister following the parliamentary election that were held in May. ](/news/2008/06/27/serbian-president-boris-tadia-has-named-mirko-cvetkovia-for-the-new-prime-minister-following-the-parliamentary-election-that-were-held-in.md)
-_Context: President of Serbia, Mirko Cvetkovic, Prime Minister of Serbia, parliamentary election, Boris Tadic, Serbia_
+_Context: Mirko Cvetkovic, Prime Minister of Serbia, parliamentary election, Serbia, President of Serbia, Boris Tadic_
 
 ##### Vinicio Gomez
 ### [ Vinicio Gomez, Guatemala's Interior Minister, dies in a helicopter crash in the central department of Baja Verapaz; deputy minister Edgar Hernandez and two pilots are also killed. ](/news/2008/06/27/vinicio-ga3mez-guatemala-s-interior-minister-dies-in-a-helicopter-crash-in-the-central-department-of-baja-verapaz-deputy-minister-adgar.md)
-_Context: Guatemala, Vinicio Gomez, Baja Verapaz_
+_Context: Guatemala, Baja Verapaz, Vinicio Gomez_
 
 ##### Richard Scruggs
 ### [ Richard Scruggs, a high-profile United States lawyer known for his lawsuits against the tobacco, pharmaceutical and construction industries, is sentenced to five years jail for conspiracy to bribe a judge. ](/news/2008/06/27/richard-scruggs-a-high-profile-united-states-lawyer-known-for-his-lawsuits-against-the-tobacco-pharmaceutical-and-construction-industries.md)
-_Context: tobacco, pharmaceutical, United States, Richard Scruggs_
+_Context: tobacco, Richard Scruggs, United States, pharmaceutical_
 
 ##### Andaman and Nicobar Islands
 ### [ The Andaman and Nicobar Islands are struck by an earthquake measuring 6.1 on the Richter scale. ](/news/2008/06/27/the-andaman-and-nicobar-islands-are-struck-by-an-earthquake-measuring-6-1-on-the-richter-scale.md)
-_Context: earthquake, Richter scale, Andaman and Nicobar Islands_
+_Context: Andaman and Nicobar Islands, Richter scale, earthquake_
 
 ##### North Korea
 ### [ North Korea destroys the cooling tower of the Yongbyon Nuclear Scientific Research Center as a sign of its commitment to ending its nuclear weapons program. ](/news/2008/06/27/north-korea-destroys-the-cooling-tower-of-the-yongbyon-nuclear-scientific-research-center-as-a-sign-of-its-commitment-to-ending-its-nuclear.md)
@@ -25,11 +25,11 @@ North Korea demolished a cooling tower that was the most prominent symbol of its
 
 ##### Zimbabwe
 ### [ Zimbabweans go to the polls for a runoff election with the President of Zimbabwe Robert Mugabe expected to be reelected following the withdrawal of Morgan Tsvangarai of the opposition Movement for Democratic Change. ](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.md)
-_Context: Movement for Democratic Change, Robert Mugabe, run-off presidential election, President of Zimbabwe, Zimbabwe, Morgan Tsvangarai_
+_Context: President of Zimbabwe, run-off presidential election, Morgan Tsvangarai, Zimbabwe, Movement for Democratic Change, Robert Mugabe_
 
 ##### Bill Gates
 ### [ Bill Gates, the co-founder of Microsoft, finishes work at the company before starting fulltime philanthropic work for the Bill and Melinda Gates Foundation. ](/news/2008/06/27/bill-gates-the-co-founder-of-microsoft-finishes-work-at-the-company-before-starting-fulltime-philanthropic-work-for-the-bill-and-melinda.md)
-_Context: Bill Gates, philanthropy, Microsoft, Bill and Melinda Gates Foundation_
+_Context: Microsoft, Bill and Melinda Gates Foundation, philanthropy, Bill Gates_
 
 ##### Philippines
 ### [ The discovery that the sunken Philippines ferry MV "Princess of the Stars" was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfan.md)
@@ -37,7 +37,7 @@ Philippine officials suspended the retrieval Friday of hundreds of bodies believ
 
 ##### American Foam
 ### [ American Foam Corporation offers to pay $6.3 million to settle legal action filed against them for manufacturing dangerous foam that contributed to the Station nightclub fire. 100 people died in the disaster. ](/news/2008/06/27/american-foam-corporation-offers-to-pay-6-3-million-to-settle-legal-action-filed-against-them-for-manufacturing-dangerous-foam-that-contri.md)
-_Context: the Station nightclub fire, American Foam_
+_Context: American Foam, the Station nightclub fire_
 
 ## [Previous Day...](/news/2008/06/26/index.md)
 

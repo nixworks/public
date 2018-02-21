@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/21/index.html)  [JSON](2011/12/21/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Syria's opposition urge the United Nations and Arab League to hold emergency meetings after an alleged massacre took place in the northwest of the country, before Arab League monitors enter the country. ](/news/2011/12/21/2011-syrian-uprising-syria-s-opposition-urge-the-united-nations-and-arab-league-to-hold-emergency-meetings-after-an-alleged-massacre-took-p.md)
-_Context: Arab League, Syria, 2011 Syrian uprising, United Nations_
+_Context: 2011 Syrian uprising, Syria, United Nations, Arab League_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Thousands of Yemeni protesters march from the city of Taez to the capital Sana'a to demand a trial for outgoing President Ali Abdullah Saleh for alleged crimes against anti-government protesters. ](/news/2011/12/21/2011-yemeni-uprising-thousands-of-yemeni-protesters-march-from-the-city-of-taez-to-the-capital-sana-a-to-demand-a-trial-for-outgoing-presid.md)
@@ -17,7 +17,7 @@ Two men, who headed MRND party when up to 800,000 were massacred by Hutu extremi
 
 ##### Japanese
 ### [The Japanese media reports that prosecutors are raiding the offices of Olympus Corporation over an accounting scandal. ](/news/2011/12/21/the-japanese-media-reports-that-prosecutors-are-raiding-the-offices-of-olympus-corporation-over-an-accounting-scandal.md)
-_Context: Japanese, Olympus Corp_
+_Context: Olympus Corp, Japanese_
 
 ##### Philippines
 ### [The death toll from flooding in the Philippines caused by Tropical Storm Washi reaches 1,002 and is set to rise further. ](/news/2011/12/21/the-death-toll-from-flooding-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-002-and-is-set-to-rise-further.md)
@@ -33,7 +33,7 @@ _Context: Maluku Islands, Indonesia_
 
 ##### North Korea
 ### [North Korea closes its border with China ahead of the funeral of former leader Kim Jong-il. ](/news/2011/12/21/north-korea-closes-its-border-with-china-ahead-of-the-funeral-of-former-leader-kim-jong-il.md)
-_Context: China, North Korea, Kim Jong-il_
+_Context: North Korea, China, Kim Jong-il_
 
 ##### Argentina
 ### [Argentina, Brazil and Uruguay agree to close their ports to ships flying the flag of the Falkland Islands at a Mercosur meeting; Argentina and the United Kingdom both claim the islands. ](/news/2011/12/21/argentina-brazil-and-uruguay-agree-to-close-their-ports-to-ships-flying-the-flag-of-the-falkland-islands-at-a-mercosur-meeting-argentina-a.md)

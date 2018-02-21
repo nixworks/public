@@ -13,7 +13,7 @@ _Context: Chinese, Liaoning province_
 
 ##### Eastern United States
 ### [A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. ](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-causes-poor-road-conditions-and-delays-and-cancellations-of-airline-flights-ahead-of-the-thanksg.md)
-_Context: eastern United States, Thanksgiving_
+_Context: Thanksgiving, eastern United States_
 
 ##### Vietnam
 ### [Vietnamese lawmakers approve a law allowing broad foreign ownership of property, as the government seeks to boost an ailing real-estate market and accelerate growth. ](/news/2014/11/26/vietnamese-lawmakers-approve-a-law-allowing-broad-foreign-ownership-of-property-as-the-government-seeks-to-boost-an-ailing-real-estate-mark.md)

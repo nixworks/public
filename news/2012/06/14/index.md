@@ -45,15 +45,15 @@ A massive explosion at a government-owned steel plant in the southern Indian sta
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton says that the supreme leader of North Korea Kim Jong-un "has a choice to make" about the country's current policies. ](/news/2012/06/14/united-states-secretary-of-state-hillary-clinton-says-that-the-supreme-leader-of-north-korea-kim-jong-un-has-a-choice-to-make-about-the-co.md)
-_Context: Kim Jong-un, Hillary Clinton, United States Secretary of State, leader_
+_Context: United States Secretary of State, Hillary Clinton, Kim Jong-un, leader_
 
 ##### Jose Trevino Morales
 ### [Jose Trevino Morales, an alleged money launderer of the Mexican criminal group Los Zetas and a prominent quarter horse racer in the U.S., is arrested in Lexington, Oklahoma. ](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.md)
-_Context: Lexington, Oklahoma, Jose Trevino Morales, Zetas_
+_Context: Lexington, Oklahoma, Zetas, Jose Trevino Morales_
 
 ##### Prime Minister
 ### [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md)
-_Context: Leveson Inquiry, Andy Coulson, David Cameron, News International, Prime Minister, Rebekah Brooks_
+_Context: News International, Andy Coulson, Rebekah Brooks, Leveson Inquiry, David Cameron, Prime Minister_
 
 ##### UK Supreme Court
 ### [The UK Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen his appeal against extradition to Sweden over alleged sex crimes. ](/news/2012/06/14/the-uk-supreme-court-dismisses-a-bid-by-wikileaks-founder-julian-assange-to-reopen-his-appeal-against-extradition-to-sweden-over-alleged-sex.md)
@@ -93,7 +93,7 @@ As big as a city block, the newfound space rock 2012 LZ1 will pass close to our 
 
 ##### Australia
 ### [Australia announces plans to create the world's largest marine reserve. ](/news/2012/06/14/australia-announces-plans-to-create-the-world-s-largest-marine-reserve.md)
-_Context: marine reserve, Australia_
+_Context: Australia, marine reserve_
 
 ##### Legionnaires' disease
 ### [A second person dies after contracting Legionnaires' disease in Edinburgh. ](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.md)

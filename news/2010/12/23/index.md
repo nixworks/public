@@ -49,7 +49,7 @@ Romanian Prime Minister Emil Boc has survived the latest no-confidence motion ag
 
 ##### Greece
 ### [The Greek Parliament approves sweeping cuts in its budget; some Greeks disagree and protest. ](/news/2010/12/23/the-greek-parliament-approves-sweeping-cuts-in-its-budget-some-greeks-disagree-and-protest.md)
-_Context: Greece, Hellenic Parliament_
+_Context: Hellenic Parliament, Greece_
 
 ##### Daily Telegraph
 ### [The "Daily Telegraph" publishes further details of taped conversations with Liberal Democrat MPs, which include comments that British Prime Minister David Cameron cannot be trusted and Chancellor George Osborne has "a capacity to get up one's nose". ](/news/2010/12/23/the-daily-telegraph-publishes-further-details-of-taped-conversations-with-liberal-democrat-mps-which-include-comments-that-british-prime.md)
@@ -57,7 +57,7 @@ Lib Dem ministers apologise to Tory coalition colleagues after being secretly ta
 
 ##### Citizenship and Immigration Canada
 ### [Citizenship and Immigration Canada cuts funding for settlement centres across the country, leading to the Ontario Liberals protesting the decision that will affect many new immigrants in the province. Immigration minister Jason Kenney also affirms that Santa Claus is Canadian, referring to his characteristic red and white colours. ](/news/2010/12/23/citizenship-and-immigration-canada-cuts-funding-for-settlement-centres-across-the-country-leading-to-the-ontario-liberals-protesting-the-de.md)
-_Context: Citizenship and Immigration Canada, Ontario Liberal Party, Santa Claus, Immigration to Canada, Jason Kenney_
+_Context: Citizenship and Immigration Canada, Jason Kenney, Santa Claus, Ontario Liberal Party, Immigration to Canada_
 
 ##### Member of the Scottish Parliament
 ### [Former MSP Tommy Sheridan is convicted of perjury following a 12-week trial at the High Court in Glasgow. He was found guilty of lying during his successful defamation case against the "News of the World" which had printed details of his private life. ](/news/2010/12/23/former-msp-tommy-sheridan-is-convicted-of-perjury-following-a-12-week-trial-at-the-high-court-in-glasgow-he-was-found-guilty-of-lying-durin.md)

@@ -9,7 +9,7 @@ _Context: Los Angeles Angels, baseball world series, 2009 American League Champi
 
 ##### Israel
 ### [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md)
-_Context: Israel, Temple Mount, Jerusalem, Palestine_
+_Context: Palestine, Israel, Jerusalem, Temple Mount_
 
 ##### Bomb blasts
 ### [ Bomb blasts kill 155 people and injure at least 500 in central Baghdad, the country's deadliest attack for two years. ](/news/2009/10/25/bomb-blasts-kill-155-people-and-injure-at-least-500-in-central-baghdad-the-country-s-deadliest-attack-for-two-years.md)
@@ -25,7 +25,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ##### Maksharip Aushev
 ### [ Maksharip Aushev, human rights activist and opposition leader of Ingushetia, is shot dead while driving his car near Nartan in Kabardino-Balkaria. A female passenger is also attacked. ](/news/2009/10/25/maksharip-aushev-human-rights-activist-and-opposition-leader-of-ingushetia-is-shot-dead-while-driving-his-car-near-nartan-in-kabardino-ba.md)
-_Context: Kabardino-Balkaria, Maksharip Aushev, Nartan, human rights, Ingushetia_
+_Context: Maksharip Aushev, Kabardino-Balkaria, human rights, Nartan, Ingushetia_
 
 ##### Tunisia
 ### [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md)
@@ -45,11 +45,11 @@ _Context: oil refinery fire, Catao, Puerto Rico_
 
 ##### Netherlands
 ### [ Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. ](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.md)
-_Context: Europe, Martinitoren, Netherlands, St. Martin's Cathedral, Utrecht, Euromast, Rotterdam, Groningen_
+_Context: Martinitoren, Europe, Netherlands, Groningen, Rotterdam, St. Martin's Cathedral, Utrecht, Euromast_
 
 ##### United Nations
 ### [ Inspectors from the United Nations' nuclear watchdog, the International Atomic Energy Agency (IAEA), arrive in Iran to inspect a newly disclosed nuclear facility near the city of Qom. ](/news/2009/10/25/inspectors-from-the-united-nations-nuclear-watchdog-the-international-atomic-energy-agency-iaea-arrive-in-iran-to-inspect-a-newly-disc.md)
-_Context: IAEA, United Nations, Iran, Qom_
+_Context: IAEA, Iran, United Nations, Qom_
 
 ##### Andrew Lloyd Webber
 ### [ It is revealed that composer Andrew Lloyd Webber has been diagnosed with prostate cancer. ](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.md)

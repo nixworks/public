@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/2/index.html)  [JSON](2014/06/2/index.json)  [XML](2014/
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [A large skirmish occurs in eastern Ukraine when pro-Russian separatists launch a massive attack on a border control centre near the city of Luhansk; five militants are killed and another eight are wounded, and seven Ukrainian border guards are wounded in the clash. ](/news/2014/06/2/a-large-skirmish-occurs-in-eastern-ukraine-when-pro-russian-separatists-launch-a-massive-attack-on-a-border-control-centre-near-the-city-of.md)
-_Context: eastern Ukraine, 2014 pro-Russian conflict in Ukraine, border guard, Russia, Luhansk_
+_Context: 2014 pro-Russian conflict in Ukraine, eastern Ukraine, Russia, Luhansk, border guard_
 
 ##### Indian Police
 ### [Indian police fire water cannons to disperse hundreds of protesters, angry over the gang-rape and hanging of two teenage girls in Uttar Pradesh, demonstrating outside the office of Chief Minister Akhilesh Yadav. ](/news/2014/06/2/indian-police-fire-water-cannons-to-disperse-hundreds-of-protesters-angry-over-the-gang-rape-and-hanging-of-two-teenage-girls-in-uttar-prad.md)
@@ -17,19 +17,19 @@ _Context: Nepal, Pyuthan district, Indians_
 
 ##### Sandstorm
 ### [A massive sandstorm and record winds hit Iran's capital Tehran, causing power blackouts there and killing at least four people. ](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.md)
-_Context: sandstorm, Tehran, Iran_
+_Context: Tehran, Iran, sandstorm_
 
 ##### Paris
 ### [Four people are arrested in Paris and southern France on suspicion of recruiting militants to fight in Syria. ](/news/2014/06/2/four-people-are-arrested-in-paris-and-southern-france-on-suspicion-of-recruiting-militants-to-fight-in-syria.md)
-_Context: Paris, Syria, Southern France_
+_Context: Southern France, Paris, Syria_
 
 ##### National Defense Authorization Act for Fiscal Year 2013
 ### [President Obama is accused of breaking the National Defense Authorization Act for Fiscal Year 2013 by not notifying the US Congress about the release of prisoners from Guantanamo Bay detention camp in the deal to release Bowe Bergdahl. ](/news/2014/06/2/president-obama-is-accused-of-breaking-the-national-defense-authorization-act-for-fiscal-year-2013-by-not-notifying-the-us-congress-about-th.md)
-_Context: Guantanamo Bay detention camp, National Defense Authorization Act for Fiscal Year 2013, US Congress, Bowe Bergdahl_
+_Context: Bowe Bergdahl, National Defense Authorization Act for Fiscal Year 2013, Guantanamo Bay detention camp, US Congress_
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the State of Palestine, announces a unity cabinet containing members of both Fatah and Hamas. ](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.md)
-_Context: Hamas, Mahmoud Abbas, Fatah, unity, President of the State of Palestine_
+_Context: President of the State of Palestine, Fatah, Hamas, Mahmoud Abbas, unity_
 
 ##### Juan Carlos I
 ### [King Juan Carlos I of Spain announces that he is to abdicate with Felipe, Prince of Asturias, to succeed him. ](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.md)
@@ -41,7 +41,7 @@ The US power sector must cut carbon dioxide emissions 30 per cent by 2030 from 2
 
 ##### Apple Inc.
 ### [Apple Inc., introduced a new programming language named Swift, for developing software for their operating systems iOS and OS X. ](/news/2014/06/2/apple-inc-introduced-a-new-programming-language-named-swift-for-developing-software-for-their-operating-systems-ios-and-os-x.md)
-_Context: operating system, OS X, Swift, iOS, Apple Inc., programming language_
+_Context: programming language, Swift, OS X, iOS, operating system, Apple Inc._
 
 ## [Previous Day...](/news/2014/06/1/index.md)
 

@@ -13,7 +13,7 @@ Twenty-eight people were wounded, seven of them seriously, in a blast at an anti
 
 ##### Israeli Air Force
 ### [The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-gaza-strip-and-wounding-tw.md)
-_Context: Gaza Strip, Hamas, Israeli Air Force_
+_Context: Hamas, Israeli Air Force, Gaza Strip_
 
 ##### 
 ### [New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)

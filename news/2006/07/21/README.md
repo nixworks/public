@@ -11,15 +11,15 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### [ Israel moves thousands of troops to the Lebanese border including reserves to deal with fierce fighting. ](/news/2006/07/21/israel-moves-thousands-of-troops-to-the-lebanese-border-including-reserves-to-deal-with-fierce-fighting.md)
 ##### Khmer Rouge
 ### [ Khmer Rouge leader Ta Mok dies in a military hospital while waiting for his trial for crimes against humanity committed in Democratic Kampuchea. ](/news/2006/07/21/khmer-rouge-leader-ta-mok-dies-in-a-military-hospital-while-waiting-for-his-trial-for-crimes-against-humanity-committed-in-democratic-kampu.md)
-_Context: crimes against humanity, Ta Mok, military hospital, Democratic Kampuchea, Khmer Rouge, trial_
+_Context: crimes against humanity, Khmer Rouge, Democratic Kampuchea, military hospital, Ta Mok, trial_
 
 ##### Cassini spacecraft
 ### [ The Cassini spacecraft takes pictures of Saturn's moon Titan that appear to show the presence of hydrocarbon lakes. ](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.md)
-_Context: Titan, Cassini spacecraft, Saturn_
+_Context: Cassini spacecraft, Titan, Saturn_
 
 ##### Charles G. Taylor
 ### [ Charles Taylor, the former President of Liberia, appears in court in The Hague to face 11 charges of war crimes and crimes against humanity. ](/news/2006/07/21/charles-taylor-the-former-president-of-liberia-appears-in-court-in-the-hague-to-face-11-charges-of-war-crimes-and-crimes-against-humanity.md)
-_Context: Special Court for Sierra Leone, President of Liberia, The Hague, Charles G. Taylor_
+_Context: Special Court for Sierra Leone, The Hague, Charles G. Taylor, President of Liberia_
 
 ##### 
 ### [ Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md)

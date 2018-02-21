@@ -13,11 +13,11 @@ _Context: U.S.  National Oceanic and Atmospheric Administration, carbon dioxide_
 
 ##### Estonia
 ### [ A major oil slick, which could contain some 40 tonnes of fuel, has been detected off the coast of Estonia, one week after the Runner-4 cargo vessel sank in the Baltic Sea. Heavy sea ice prevents an accurate estimate of the content of the oil slick that may have killed 35,000 sea birds. ](/news/2006/03/13/a-major-oil-slick-which-could-contain-some-40-tonnes-of-fuel-has-been-detected-off-the-coast-of-estonia-one-week-after-the-runner-4-carg.md)
-_Context: Estonia, Baltic Sea_
+_Context: Baltic Sea, Estonia_
 
 ##### Zacarias Moussaoui
 ### [ The judge in the trial of Zacarias Moussaoui is considering throwing out the death penalty as an option after lawyers from the Federal Aviation Administration coached four government witnesses. ](/news/2006/03/13/the-judge-in-the-trial-of-zacarias-moussaoui-is-considering-throwing-out-the-death-penalty-as-an-option-after-lawyers-from-the-federal-avia.md)
-_Context: Federal Aviation Administration, sentenced to death, Zacarias Moussaoui_
+_Context: Zacarias Moussaoui, sentenced to death, Federal Aviation Administration_
 
 ##### Merck KGaA
 ### [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of EUR14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-a-14-6-billion-merck-and-schering-would-b.md)
@@ -25,7 +25,7 @@ _Context: pharmaceutical companies, Merck KGaA, Schering_
 
 ##### Metropolitan Police Service
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)
-_Context: Sir Ian Blair, Metropolitan Police Service, Attorney General for England and Wales, Lord Goldsmith_
+_Context: Attorney General for England and Wales, Metropolitan Police Service, Sir Ian Blair, Lord Goldsmith_
 
 ## [Previous Day...](/news/2006/03/12/index.md)
 

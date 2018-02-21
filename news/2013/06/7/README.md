@@ -21,7 +21,7 @@ A mob in a Bolivian town buried alive a teenager alongside the body of a woman t
 
 ##### Opens fire
 ### [A gunman opens fire at Santa Monica College in Santa Monica, California, after setting a house on fire nearby, killing five people, including the suspect. ](/news/2013/06/7/a-gunman-opens-fire-at-santa-monica-college-in-santa-monica-california-after-setting-a-house-on-fire-nearby-killing-five-people-includin.md)
-_Context: Santa Monica, opens fire, California, Santa Monica College_
+_Context: Santa Monica College, Santa Monica, California, opens fire_
 
 ##### Assam
 ### [Villagers in Assam kill a 55-year-old man suspected of practicing black magic to "appease" a goddess. ](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.md)
@@ -65,7 +65,7 @@ _Context: Nha Trang_
 
 ##### Breast milk
 ### [Breast milk boosts brain development by 30%, as compared to formula-fed babies, according to a new study. ](/news/2013/06/7/breast-milk-boosts-brain-development-by-30-as-compared-to-formula-fed-babies-according-to-a-new-study.md)
-_Context: Breast milk, formula_
+_Context: formula, Breast milk_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama and Chinese president Xi Jinping begin a two-day meeting of Sino-American relations. ](/news/2013/06/7/u-s-president-barack-obama-and-chinese-president-xi-jinping-begin-a-two-day-meeting-of-sino-american-relations.md)
@@ -73,7 +73,7 @@ Chinese President Xi Jinping and his US counterpart Barack Obama open two days o
 
 ##### David Cameron
 ### [UK premier David Cameron attracts criticism for attending the 61st annual summit of the secretive Bilderberg Group at The Grove, Watford. ](/news/2013/06/7/uk-premier-david-cameron-attracts-criticism-for-attending-the-61st-annual-summit-of-the-secretive-bilderberg-group-at-the-grove-watford.md)
-_Context: Bilderberg Group, the 61st annual summit, The Grove, Watford, David Cameron_
+_Context: David Cameron, Bilderberg Group, The Grove, Watford, the 61st annual summit_
 
 ##### 
 ### [The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism-surveillance-program-to-monitor-emails-and-ot.md)
@@ -91,7 +91,7 @@ _Context: Khmer Rouge_
 
 ##### Televised debate
 ### [Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-also-criticizing-mahmoud-ahmadin.md)
-_Context: Mahmoud Ahmadinejad, nuclear program, Human rights in Iran, Iranian government, Foreign relations of Iran, televised debate_
+_Context: Foreign relations of Iran, Iranian government, Mahmoud Ahmadinejad, televised debate, nuclear program, Human rights in Iran_
 
 ## [Previous Day...](/news/2013/06/6/index.md)
 

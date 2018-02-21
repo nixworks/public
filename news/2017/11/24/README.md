@@ -25,7 +25,7 @@ Amnesty says musicians Sting and Peter Gabriel and whistle-blower Edward Snowden
 
 ##### 2017 Zimbabwean coup d'etat
 ### [Emmerson Mnangagwa is sworn in as the new President of Zimbabwe pending elections next year. ](/news/2017/11/24/emmerson-mnangagwa-is-sworn-in-as-the-new-president-of-zimbabwe-pending-elections-next-year.md)
-_Context: 2017 Zimbabwean coup d'etat, President of Zimbabwe, Emmerson Mnangagwa_
+_Context: President of Zimbabwe, Emmerson Mnangagwa, 2017 Zimbabwean coup d'etat_
 
 ##### Presidency of Donald Trump
 ### [Days ahead of the Global Entrepreneurship Summit in India, scheduled to be attended by Ivanka Trump per Prime Minister Narendra Modi's June invitation, reports indicate the United States Department of State, led by Secretary of State Rex Tillerson, will not be sending a high-level delegation to support her amid reports of tensions between Tillerson and the White House. ](/news/2017/11/24/days-ahead-of-the-global-entrepreneurship-summit-in-india-scheduled-to-be-attended-by-ivanka-trump-per-prime-minister-narendra-modi-s-june.md)

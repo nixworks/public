@@ -21,7 +21,7 @@ Contact has been made with Tonga&#039;s isolated islands as relief efforts get u
 
 ##### Philippines
 ### [Heavy rain and landslides kill 20 people in the southeastern Philippines, mostly in the Mindanao provinces of Davao Oriental and Compostela Valley. Another 13 are missing. ](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.md)
-_Context: Philippines, Mindanao, Davao Oriental, Compostela Valley_
+_Context: Davao Oriental, Philippines, Compostela Valley, Mindanao_
 
 ##### Sandiganbayan
 ### [The Sandiganbayan rules the jewelry collection of Imelda Marcos, valued about $150,000 in 1986, property of the government of the Philippines and orders the Marcos family to forfeit it. ](/news/2014/01/13/the-sandiganbayan-rules-the-jewelry-collection-of-imelda-marcos-valued-about-150-000-in-1986-property-of-the-government-of-the-philippine.md)

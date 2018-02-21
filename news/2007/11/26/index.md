@@ -5,27 +5,27 @@ Formats: [HTML](2007/11/26/index.html)  [JSON](2007/11/26/index.json)  [XML](200
 
 ##### Miner
 ### [ At least 60 miners are trapped underground following an explosion in a gold mine in Ponce Enriquez in southern Ecuador. ](/news/2007/11/26/at-least-60-miners-are-trapped-underground-following-an-explosion-in-a-gold-mine-in-ponce-enriquez-in-southern-ecuador.md)
-_Context: Ecuador, miner, gold mine, Ponce Enriquez_
+_Context: Ecuador, miner, Ponce Enriquez, gold mine_
 
 ##### Romania
 ### [ The Romanian nationalist Greater Romania Party is voted out of the European Parliament in the European Parliament election, 2007. ](/news/2007/11/26/the-romanian-nationalist-greater-romania-party-is-voted-out-of-the-european-parliament-in-the-european-parliament-election-2007.md)
-_Context: Greater Romania Party, Romania, European Parliament election, 2007, European Parliament, nationalist_
+_Context: Romania, European Parliament, Greater Romania Party, nationalist, European Parliament election, 2007_
 
 ##### War in Chad (2005-present)
 ### [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md)
-_Context: War in Chad (2005-present), Darfur, rebel, Chad, Sudan_
+_Context: Darfur, Chad, Sudan, rebel, War in Chad (2005-present)_
 
 ##### Federation Council
 ### [ The Federation Council of Russia sets March 2, 2008 as the date of the Russian presidential election, 2008. ](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.md)
-_Context: go to the polls, Russia, Federation Council_
+_Context: Russia, Federation Council, go to the polls_
 
 ##### Indonesia
 ### [ At least three people die and 45 are injured in Indonesia following earthquakes off the coast of Sumatra and Sumbawa. ](/news/2007/11/26/at-least-three-people-die-and-45-are-injured-in-indonesia-following-earthquakes-off-the-coast-of-sumatra-and-sumbawa.md)
-_Context: Sumbawa, earthquake, Indonesia, Sumatra_
+_Context: earthquake, Indonesia, Sumatra, Sumbawa_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Pakistan Nawaz Sharif announces he will file nomination papers in the Pakistani general election, 2008. However, he will not serve as Prime Minister under the current President of Pakistan Pervez Musharraf. ](/news/2007/11/26/former-prime-minister-of-pakistan-nawaz-sharif-announces-he-will-file-nomination-papers-in-the-pakistani-general-election-2008-however-h.md)
-_Context: nomination, Prime Minister, Pakistan, Prime Minister, Pervez Musharraf, Nawaz Sharif, by-elections, president_
+_Context: Prime Minister, Pakistan, nomination, president, Pervez Musharraf, by-elections, Prime Minister, Nawaz Sharif_
 
 ##### Draft constitution
 ### [ At least three people die in clashes over a new draft constitution in Sucre, Bolivia. ](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.md)
@@ -33,7 +33,7 @@ _Context: Sucre, draft constitution, Bolivia_
 
 ##### China
 ### [ The People's Republic of China signs a deal to buy 160 Airbus aircraft in a deal worth $US17 billion during a visit by the President of France Nicolas Sarkozy. ](/news/2007/11/26/the-people-s-republic-of-china-signs-a-deal-to-buy-160-airbus-aircraft-in-a-deal-worth-us17-billion-during-a-visit-by-the-president-of-fra.md)
-_Context: Airbus, Nicolas Sarkozy, China, French President, $_
+_Context: Airbus, Nicolas Sarkozy, French President, China, $_
 
 ##### 
 ### [ Newsweek Magazine will come out with a new edition, about the top ranked schools in the United States. ](/news/2007/11/26/newsweek-magazine-will-come-out-with-a-new-edition-about-the-top-ranked-schools-in-the-united-states.md)

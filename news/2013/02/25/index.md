@@ -13,7 +13,7 @@ The Syrian opposition reverses its decision to boycott international talks in Ro
 
 ##### BT
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: United Kingdom, Irish, sports broadcasting, ESPN, BT_
+_Context: ESPN, sports broadcasting, Irish, United Kingdom, BT_
 
 ##### BlackBerry
 ### [BlackBerry, the company formally known as Research in Motion, launches its BlackBerry Z10 smartphone in India, where it costs 43,490 rupees, or roughly US$800. ](/news/2013/02/25/blackberry-the-company-formally-known-as-research-in-motion-launches-its-blackberry-z10-smartphone-in-india-where-it-costs-43-490-rupees.md)
@@ -21,7 +21,7 @@ BlackBerry launched its first smartphone from its BlackBerry 10 line in India on
 
 ##### Severe Tropical Cyclone Rusty
 ### [Severe Tropical Cyclone Rusty intensifies to Category 2 status with concerns that it may intensify further before crossing the West Australian coast later this week. ](/news/2013/02/25/severe-tropical-cyclone-rusty-intensifies-to-category-2-status-with-concerns-that-it-may-intensify-further-before-crossing-the-west-australi.md)
-_Context: Severe Tropical Cyclone Rusty, West Australia, Category 4 status_
+_Context: West Australia, Category 4 status, Severe Tropical Cyclone Rusty_
 
 ##### Flooding
 ### [Heavy rain causes flooding in the Australian state of Queensland with one man reported dead in the northern Brisbane suburb of Caboolture. ](/news/2013/02/25/heavy-rain-causes-flooding-in-the-australian-state-of-queensland-with-one-man-reported-dead-in-the-northern-brisbane-suburb-of-caboolture.md)
@@ -29,7 +29,7 @@ A man is dead after his car was swept into floodwaters northwest of Caboolture o
 
 ##### Magnitude
 ### [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md)
-_Context: earthquake, hits, magnitude, Japan, Tokyo_
+_Context: earthquake, Japan, hits, magnitude, Tokyo_
 
 ##### 2013 meat adulteration scandal
 ### [2013 meat adulteration scandal: Ikea withdraws Swedish meatballs from sale in 14 countries after tests in the Czech Republic revealed traces of horse meat. ](/news/2013/02/25/2013-meat-adulteration-scandal-ikea-withdraws-swedish-meatballs-from-sale-in-14-countries-after-tests-in-the-czech-republic-revealed-traces.md)
@@ -45,15 +45,15 @@ C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: NATO, Afghan, United States_
+_Context: United States, NATO, Afghan_
 
 ##### Russia
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
-_Context: smoking, banning, subways, school, Russia, enacts_
+_Context: banning, school, Russia, enacts, subways, smoking_
 
 ##### Jailed
 ### [The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. ](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-former-uk-cabinet-minister-chris-huhne-begins-hearing-evidence.md)
-_Context: Vicky Pryce, Chris Huhne, UK, jailed, government_
+_Context: Vicky Pryce, Chris Huhne, government, UK, jailed_
 
 ##### Italy Common Good
 ### [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md)
@@ -69,7 +69,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 
 ##### Cardinal
 ### [Cardinal Keith O'Brien resigns as the Archbishop of St. Andrews and Edinburgh due to allegations of inappropriate sexual behaviour towards priests in the 1980s. ](/news/2013/02/25/cardinal-keith-o-brien-resigns-as-the-archbishop-of-st-andrews-and-edinburgh-due-to-allegations-of-inappropriate-sexual-behaviour-towards-p.md)
-_Context: priests, Archbishop of St. Andrews and Edinburgh, Keith O'Brien, inappropriate, Cardinal, free sex_
+_Context: Keith O'Brien, inappropriate, free sex, Archbishop of St. Andrews and Edinburgh, Cardinal, priests_
 
 ##### Rodinia
 ### [Scientists announce they have found fragments of Rodinia, an ancient "lost" continent, in what is now the Indian Ocean. ](/news/2013/02/25/scientists-announce-they-have-found-fragments-of-rodinia-an-ancient-lost-continent-in-what-is-now-the-indian-ocean.md)
@@ -77,7 +77,7 @@ Fragments of an ancient continent are buried beneath the floor of the Indian Oce
 
 ##### Indian Space Research Organisation
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: SARAL, launches, India, Satish Dhawan Space Centre, Andhra Pradesh, Indian Space Research Organisation, France, PSLV-C38, Sriharikota_
+_Context: France, Satish Dhawan Space Centre, PSLV-C38, launches, India, Sriharikota, SARAL, Andhra Pradesh, Indian Space Research Organisation_
 
 ##### United Kingdom
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)

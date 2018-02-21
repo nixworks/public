@@ -9,7 +9,7 @@ Fox News chief Roger Ailes is leaving the network following sexual harassment al
 
 ##### July 2016 North China cyclone
 ### [Torrential precipitation and widespread flash floods from an extratropical cyclone resulted in at least 78 deaths over North China and nearby regions. ](/news/2016/07/21/torrential-precipitation-and-widespread-flash-floods-from-an-extratropical-cyclone-resulted-in-at-least-78-deaths-over-north-china-and-nearb.md)
-_Context: North China, July 2016 North China cyclone, precipitation, extratropical cyclone, flash flood_
+_Context: flash flood, extratropical cyclone, precipitation, July 2016 North China cyclone, North China_
 
 ##### International reactions to ''Philippines v. China''
 ### [Waves of Chinese protestors gather outside of KFC restaurants and Apple Stores across China to express their anti-U.S. sentiments after the ruling, while Chinese state media asks for calm. ](/news/2016/07/21/waves-of-chinese-protestors-gather-outside-of-kfc-restaurants-and-apple-stores-across-china-to-express-their-anti-u-s-sentiments-after-the.md)

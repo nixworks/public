@@ -5,15 +5,15 @@ Formats: [HTML](2016/04/30/index.html)  [JSON](2016/04/30/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility. ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md)
-_Context: Islamic State in Iraq and the Levant, car bombing, Shi'ite, Baghdad, April 2016 Baghdad bombing, Iraqi Civil War (2014-present)_
+_Context: Islamic State in Iraq and the Levant, car bombing, Shi'ite, Baghdad, Iraqi Civil War (2014-present), April 2016 Baghdad bombing_
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md)
-_Context: Syrian Civil War, Syrian Observatory for Human Rights, Aleppo_
+_Context: Syrian Observatory for Human Rights, Syrian Civil War, Aleppo_
 
 ##### Attacks on secularists in Bangladesh
 ### [A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophet-muhammad-islamic-state-of-iraq-and.md)
-_Context: ISIL, Tangail, Hindu, Prophet Muhammad, Attacks on secularists in Bangladesh_
+_Context: ISIL, Attacks on secularists in Bangladesh, Hindu, Tangail, Prophet Muhammad_
 
 ##### Sweden
 ### [Sweden celebrates the 70th birthday of their King Carl XVI Gustaf, whose celebration was attended by fellow European royals, including Denmark's Margrethe II, former King of Spain Juan Carlos I and former Queen of the Netherlands Beatrix. ](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.md)
@@ -21,7 +21,7 @@ Sweden’s King Carl XVI Gustaf may be young compared to Britain’s Queen Eliza
 
 ##### Heatwave
 ### [A heatwave in India has claimed 300 lives in April with daytime cooking banned in some parts of the country to prevent fires which have claimed an additional 80 lives. ](/news/2016/04/30/a-heatwave-in-india-has-claimed-300-lives-in-april-with-daytime-cooking-banned-in-some-parts-of-the-country-to-prevent-fires-which-have-clai.md)
-_Context: heatwave, India_
+_Context: India, heatwave_
 
 ##### Nairobi
 ### [Search and rescue efforts continue in Nairobi after the collapse of a building yesterday. Kenyan police have confirmed seven deaths so far. ](/news/2016/04/30/search-and-rescue-efforts-continue-in-nairobi-after-the-collapse-of-a-building-yesterday-kenyan-police-have-confirmed-seven-deaths-so-far.md)
@@ -73,11 +73,11 @@ Egypt put on trial 237 activists arrested for protesting against President Abdel
 
 ##### Philippine presidential election, 2016
 ### [The influential Christian sect Iglesia ni Cristo endorses Grace Poe for president and Bongbong Marcos for vice president. ](/news/2016/04/30/the-influential-christian-sect-iglesia-ni-cristo-endorses-grace-poe-for-president-and-bongbong-marcos-for-vice-president.md)
-_Context: Grace Poe, Iglesia ni Cristo, Philippine presidential election, 2016, Bongbong Marcos_
+_Context: Grace Poe, Bongbong Marcos, Philippine presidential election, 2016, Iglesia ni Cristo_
 
 ##### Serbian parliamentary election, 2016
 ### [Roughly 2,000 people protest in Belgrade against alleged fraud in the country's recent election. The protesters accuse Prime Minister Aleksandar Vucic of manipulating the results in order to prevent the far-right Dveri party from reaching the 5-percent threshold and gaining seats in the National Assembly. A repeat vote is expected on May 4 in locations where voting irregularities have been found. ](/news/2016/04/30/roughly-2-000-people-protest-in-belgrade-against-alleged-fraud-in-the-country-s-recent-election-the-protesters-accuse-prime-minister-aleksa.md)
-_Context: Belgrade, National Assembly, Aleksandar Vucic, Dveri party, Prime Minister of Serbia, Serbian parliamentary election, 2016_
+_Context: Aleksandar Vucic, Dveri party, Serbian parliamentary election, 2016, Belgrade, Prime Minister of Serbia, National Assembly_
 
 ##### 2015-16 Iraqi protests
 ### [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-int.md)

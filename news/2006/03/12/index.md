@@ -5,11 +5,11 @@ Formats: [HTML](2006/03/12/index.html)  [JSON](2006/03/12/index.json)  [XML](200
 
 ##### Algerian "national reconciliation"
 ### [ Algerian "national reconciliation". Abdelhak Layada, one of the founder of the Armed Islamic Group (GIA), is released from prison due to the February 28, 2006, national reconciliation charter decree of application ](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.md)
-_Context: Armed Islamic Group, Algerian "national reconciliation", Abdelhak Layada_
+_Context: Abdelhak Layada, Armed Islamic Group, Algerian "national reconciliation"_
 
 ##### Venezuela
 ### [ Venezuela introduces its new national flag with eight, instead of seven, stars and a slightly altered coat of arms. ](/news/2006/03/12/venezuela-introduces-its-new-national-flag-with-eight-instead-of-seven-stars-and-a-slightly-altered-coat-of-arms.md)
-_Context: national flag, Venezuela, coat of arms_
+_Context: Venezuela, coat of arms, national flag_
 
 ##### Slobodan Milosevic
 ### [ Reports claim that a post-mortem examination has found that former Yugoslav President Slobodan Milosevic died from heart failure. ](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.md)
@@ -25,7 +25,7 @@ _Context: Local Council Elections, Malta Labour Party, Malta_
 
 ##### Russ Feingold
 ### [ U.S. Senator Russ Feingold announces that he will introduce a motion of censure against President George W. Bush. ](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.md)
-_Context: Russ Feingold, censure, George W. Bush_
+_Context: Russ Feingold, George W. Bush, censure_
 
 ##### Schering
 ### [ Schering, a Berlin, Germany, based pharmaceutical firm, announces that it has received a hostile merger bid from Frankfurt-based rival Merck. ](/news/2006/03/12/schering-a-berlin-germany-based-pharmaceutical-firm-announces-that-it-has-received-a-hostile-merger-bid-from-frankfurt-based-rival-merc.md)

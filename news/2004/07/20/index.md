@@ -9,15 +9,15 @@ An investigator for an animal rights group captured video of chickens being kick
 
 ##### Sandy Berger
 ### [ Sandy Berger resigns as a foreign affairs advisor to John Kerry's presidential campaign after it is reported that Berger was under investigation for allegedly illegally taking classified documents belonging to the U.S. National Archives, intended for review by the 9-11 Commission, related to the Clinton administration's handling of millennium terror threats. ](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.md)
-_Context: Sandy Berger, presidential candidate, U.S. National Archives, 9/11 Commission, Bill Clinton, John Kerry_
+_Context: Sandy Berger, 9/11 Commission, John Kerry, presidential candidate, Bill Clinton, U.S. National Archives_
 
 ##### Prime Minister of Canada
 ### [ Canadian Prime minister Paul Martin announces his new cabinet, which includes new faces such as ice hockey great Ken Dryden and former BC premier Ujjal Dosanjh. ](/news/2004/07/20/canadian-prime-minister-paul-martin-announces-his-new-cabinet-which-includes-new-faces-such-as-ice-hockey-great-ken-dryden-and-former-bc-p.md)
-_Context: Prime Minister of Canada, ice hockey, British Columbia, Ujjal Dosanjh, cabinet, Ken Dryden, Paul Martin_
+_Context: Ken Dryden, Paul Martin, Prime Minister of Canada, British Columbia, cabinet, ice hockey, Ujjal Dosanjh_
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md)
-_Context: President, Philippines, Angelo de la Cruz, Gloria Arroyo, Iraq_
+_Context: Philippines, Angelo de la Cruz, President, Iraq, Gloria Arroyo_
 
 ##### Ahmed Qurei
 ### [ Ahmed Qurei, Prime Minister of the Palestinian Authority, agrees to withdraw his resignation, three days after tendering it. Qurei is maintaining a threat to quit "because he has no powers". ](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.md)

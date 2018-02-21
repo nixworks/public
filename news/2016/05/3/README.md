@@ -21,7 +21,7 @@ _Context: Azerbaijan, UNESCO/Guillermo Cano World Press Freedom Prize, Khadija I
 
 ##### Philippine presidential election, 2016
 ### [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md)
-_Context: Rodrigo Duterte, Philippine presidential election, 2016_
+_Context: Philippine presidential election, 2016, Rodrigo Duterte_
 
 ##### May 2016 Fort McMurray wildfire
 ### [A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcmurray-alberta-which-is-threaten.md)
@@ -37,7 +37,7 @@ _Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Viktor Zubkov, Prime Minister of Russia, Spain, Anatoliy Serdyukov, Defense Minister, money laundering, Russian President, organized crime from Russia, Russia, assassinated, Russia-Spain relations, Vladimir Putin_
+_Context: Vladimir Putin, Anatoliy Serdyukov, Russian President, Russia, Russia-Spain relations, money laundering, Viktor Zubkov, Spain, assassinated, Prime Minister of Russia, Defense Minister, organized crime from Russia_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)

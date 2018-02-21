@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/16/index.html)  [JSON](2009/11/16/index.json)  [XML](200
 
 ##### Kevin Rudd
 ### [ Kevin Rudd, the Prime Minister of Australia, apologises to the "forgotten Australians" raised in orphanages and foster homes during the twentieth century. ](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.md)
-_Context: Kevin Rudd, foster home, orphanage, Australian Prime Minister, twentieth century_
+_Context: foster home, twentieth century, Australian Prime Minister, orphanage, Kevin Rudd_
 
 ##### NASA
 ### [ NASA launches Space Shuttle "Atlantis" on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carriers.md)
@@ -37,7 +37,7 @@ _Context: United Kingdom, Delroy Grant_
 
 ##### Algeria
 ### [ Algeria deploys security at the Egyptian embassy in Algiers after Egyptian businesses are attacked in the capital, and security is also tightened in Sudan ahead of a World Cup play off between the two countries. ](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.md)
-_Context: Algiers, World Cup play off between the two countries, Algeria, Egypt, Sudan_
+_Context: World Cup play off between the two countries, Egypt, Algiers, Sudan, Algeria_
 
 ##### United Nations
 ### [ The United Nations is criticised after a poster that made reference to China's internet censorship by the OpenNet Initiative at an international conference focussed on Internet freedom in Sharm el-Sheik, Egypt, is removed. ](/news/2009/11/16/the-united-nations-is-criticised-after-a-poster-that-made-reference-to-china-s-internet-censorship-by-the-opennet-initiative-at-an-internat.md)
@@ -45,7 +45,7 @@ The United Nations is drawing fire after disrupting a meeting of rights activist
 
 ##### Kosovo
 ### [ Kosovo's ruling party, the Democratic Party of Kosovo, claims victory in local elections, the first since the declaration of independence from Serbia. ](/news/2009/11/16/kosovo-s-ruling-party-the-democratic-party-of-kosovo-claims-victory-in-local-elections-the-first-since-the-declaration-of-independence-f.md)
-_Context: Serbia, unilateral declaration of independence, Democratic Party of Kosovo, Kosovo_
+_Context: Democratic Party of Kosovo, Serbia, Kosovo, unilateral declaration of independence_
 
 ## [Previous Day...](/news/2009/11/15/index.md)
 

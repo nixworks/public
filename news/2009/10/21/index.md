@@ -5,15 +5,15 @@ Formats: [HTML](2009/10/21/index.html)  [JSON](2009/10/21/index.json)  [XML](200
 
 ##### Philadelphia Phillies
 ### [ The Philadelphia Phillies win the 2009 National League Championship Series 4 games to 1 after defeating the Los Angeles Dodgers 10-4. ](/news/2009/10/21/the-philadelphia-phillies-win-the-2009-national-league-championship-series-4-games-to-1-after-defeating-the-los-angeles-dodgers-10a4.md)
-_Context: Los Angeles Dodgers, 2009 National League Championship Series, Philadelphia Phillies_
+_Context: 2009 National League Championship Series, Philadelphia Phillies, Los Angeles Dodgers_
 
 ##### Dinosaur
 ### [ A report on the discovery of a new species of dinosaur, "Fruitadens haagarorum", measuring around 70cm long, is published in the "Proceedings of the Royal Society". ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-proceedin.md)
-_Context: Proceedings of the Royal Society, Fruitadens haagarorum, dinosaur_
+_Context: Fruitadens haagarorum, Proceedings of the Royal Society, dinosaur_
 
 ##### Rifle
 ### [ After 10 hours, a man armed with a rifle and wearing military camouflage holding 8 people hostage in downtown Edmonton, Canada during the 2009 Workers Compensation Board of Alberta Hostage crisis surrenders peacefully to the Edmonton Police Service ](/news/2009/10/21/after-10-hours-a-man-armed-with-a-rifle-and-wearing-military-camouflage-holding-8-people-hostage-in-downtown-edmonton-canada-during-the-2.md)
-_Context: military camouflage, Canadian, 2009 Workers Compensation Board of Alberta Hostage crisis, Edmonton, rifle, Edmonton Police Service_
+_Context: military camouflage, Edmonton, Canada, rifle, Edmonton Police Service, 2009 Workers Compensation Board of Alberta Hostage crisis_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz President Kurmanbek Bakiyev appoints former mayor of Bishkek, Daniar Usenov, as the new Prime Minister following the resignation of his predecessor, Igor Chudinov. ](/news/2009/10/21/kyrgyz-president-kurmanbek-bakiyev-appoints-former-mayor-of-bishkek-daniar-usenov-as-the-new-prime-minister-following-the-resignation-of.md)
@@ -21,15 +21,15 @@ Kyrgyz President Kurmanbek Bakiyev named long-standing ally Daniyar Usenov Wedne
 
 ##### President
 ### [ President of the Marshall Islands Litokwa Tomeing is ousted in the country's first successful vote of no confidence. Ruben Zackhras is appointed acting president until a new election on October 23, 2009. ](/news/2009/10/21/president-of-the-marshall-islands-litokwa-tomeing-is-ousted-in-the-country-s-first-successful-vote-of-no-confidence-ruben-zackhras-is-appo.md)
-_Context: Ruben Zackhras, Litokwa Tomeing, President, vote of no confidence_
+_Context: Ruben Zackhras, vote of no confidence, Litokwa Tomeing, President_
 
 ##### Lima
 ### [ Hundreds of protestors gather in Lima, Peru, as a bill proposing the legalisation of some form of abortion is approved. ](/news/2009/10/21/hundreds-of-protestors-gather-in-lima-peru-as-a-bill-proposing-the-legalisation-of-some-form-of-abortion-is-approved.md)
-_Context: Peru, abortion, Lima_
+_Context: abortion, Lima, Peru_
 
 ##### United States
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: State Peace and Development Council, United States, Burma_
+_Context: United States, State Peace and Development Council, Burma_
 
 ##### Bomb attack
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
@@ -45,15 +45,15 @@ _Context: France, Lidl, Sevran_
 
 ##### India
 ### [ At least thirteen people die in India's Rajasthan state after the Goa Express crashes into the stationary Mewar Express. ](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.md)
-_Context: India, Mewar Express, Rajasthan, Goa Express_
+_Context: Rajasthan, Mewar Express, India, Goa Express_
 
 ##### Poti
 ### [ A goods train derails east of Poti, Georgia, in an incident described as "sabotage". ](/news/2009/10/21/a-goods-train-derails-east-of-poti-georgia-in-an-incident-described-as-sabotage.md)
-_Context: Poti,  Georgian_
+_Context:  Georgian, Poti_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency propose draft agreement for Iran and three world powers to agree, aimed at reducing international concerns over Tehran's nuclear programme. ](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.md)
-_Context: IAEA, Tehran, Iran_
+_Context: Iran, IAEA, Tehran_
 
 ##### Poland
 ### [ Poland's Prime Minister Donald Tusk agrees to station SM-3 missile interceptors from United States President Barack Obama's reformulated missile defense system on the territory of this NATO ally. ](/news/2009/10/21/poland-s-prime-minister-donald-tusk-agrees-to-station-sm-3-missile-interceptors-from-united-states-president-barack-obama-s-reformulated-mi.md)
@@ -69,11 +69,11 @@ _Context: Japan_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)
-_Context: Dmitry Medvedev, Russian President, Russia_
+_Context: Russian President, Dmitry Medvedev, Russia_
 
 ##### President of South Africa
 ### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, "Straight Speaking for Africa". ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
-_Context: President of South Africa, President, Nelson Mandela, Denis Sassou Nguesso, South Africa, foreword, Republic of the Congo_
+_Context: South Africa, foreword, Nelson Mandela, Denis Sassou Nguesso, President, Republic of the Congo, President of South Africa_
 
 ## [Previous Day...](/news/2009/10/20/index.md)
 

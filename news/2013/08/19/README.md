@@ -29,7 +29,7 @@ A B-1B bomber with the 28th Bomb Wing crashed near Broadus, Mont. during a routi
 
 ##### Russia
 ### [Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. ](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.md)
-_Context: Japan, Russia, peace treaty_
+_Context: Russia, Japan, peace treaty_
 
 ##### Gibraltar
 ### [The British warship Westminster 6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-6-arrives-in-gibraltar-amid-tensions-with-spain.md)
@@ -37,7 +37,7 @@ The European Commission is to send a fact-finding mission to Gibraltar to examin
 
 ##### South Africa
 ### [South African track star Oscar Pistorius is officially charged with the murder of his girlfriend, Reeva Steenkamp, at his home earlier this year, with the trial due to start on March 13. ](/news/2013/08/19/south-african-track-star-oscar-pistorius-is-officially-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp-at-his-home-earlier-this.md)
-_Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
+_Context: South Africa, Oscar Pistorius, Reeva Steenkamp_
 
 ##### New Zealand
 ### [The first same-sex marriages take place in New Zealand, following the passage of the Marriage Equality Bill in April. ](/news/2013/08/19/the-first-same-sex-marriages-take-place-in-new-zealand-following-the-passage-of-the-marriage-equality-bill-in-april.md)
@@ -45,7 +45,7 @@ _Context: New Zealand_
 
 ##### Mohammad Ishaq Aloko
 ### [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md)
-_Context: Afghan, Hamid Karzai, Afghanistan President, United Arab Emirates, Taliban, Mohammad Ishaq Aloko_
+_Context: Taliban, Hamid Karzai, Mohammad Ishaq Aloko, Afghanistan President, Afghan, United Arab Emirates_
 
 ## [Previous Day...](/news/2013/08/18/index.md)
 

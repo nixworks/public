@@ -9,7 +9,7 @@ Rebel-held areas in Aleppo and Rastan pounded by government troops, as deadly cl
 
 ##### Mexican Drug War
 ### [Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional-revolutionary-part.md)
-_Context: Eduardo Castro Luque, Mexican Drug War, State of Mexico, Jaime Serrano Cedillo, Institutional Revolutionary Party_
+_Context: Mexican Drug War, Jaime Serrano Cedillo, Eduardo Castro Luque, Institutional Revolutionary Party, State of Mexico_
 
 ##### Egypt
 ### [Militants attack an Egyptian security headquarters in the Sinai Peninsula, injuring several officers. Operation Sinai is extended "until its goals are achieved". ](/news/2012/09/16/militants-attack-an-egyptian-security-headquarters-in-the-sinai-peninsula-injuring-several-officers-operation-sinai-is-extended-until-its.md)
@@ -33,7 +33,7 @@ At least 14 people are killed by a roadside bomb in the Lower Dir area of northw
 
 ##### Typhoon
 ### [Super Typhoon Sanba reaches the Ryukyu Islands on its way to Korea. ](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.md)
-_Context: Ryukyu Islands, Typhoon Sanba, Korean Peninsula, Typhoon_
+_Context: Korean Peninsula, Typhoon Sanba, Typhoon, Ryukyu Islands_
 
 ##### Panasonic
 ### [Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md)
@@ -45,11 +45,11 @@ _Context: Chinese, Tokyo, Japan_
 
 ##### United States
 ### [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md)
-_Context: Leon Panetta, United States, United States Secretary of Defense, maritime border disputes_
+_Context: Leon Panetta, maritime border disputes, United States, United States Secretary of Defense_
 
 ##### Egyptian Army
 ### [The Egyptian Army now names Operation Eagle as Operation Sinai. ](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.md)
-_Context: Egyptian Army, Operation Eagle, Operation Sinai_
+_Context: Operation Eagle, Egyptian Army, Operation Sinai_
 
 ##### Mayor of Chicago
 ### [The Mayor of Chicago Rahm Emanuel seeks a court order to resolve a week-long teachers strike. ](/news/2012/09/16/the-mayor-of-chicago-rahm-emanuel-seeks-a-court-order-to-resolve-a-week-long-teachers-strike.md)
@@ -57,7 +57,7 @@ _Context: Rahm Emanuel, Mayor of Chicago_
 
 ##### Mei Xiang's
 ### [Mei Xiang, the Washington, D.C. National Zoo's adult female giant panda, gives birth to a cub, her second there, via artificial insemination. ](/news/2012/09/16/mei-xiang-the-washington-d-c-national-zoo-s-adult-female-giant-panda-gives-birth-to-a-cub-her-second-there-via-artificial-insemination.md)
-_Context: Washington, D.C., U.S. National Zoo, artificial insemination, panda, Mei Xiang's_
+_Context: artificial insemination, panda, U.S. National Zoo, Mei Xiang's, Washington, D.C._
 
 ## [Previous Day...](/news/2012/09/15/index.md)
 

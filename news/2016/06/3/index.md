@@ -25,11 +25,11 @@ MENDIG, Germany (AP) — At least eight people were hospitalized after lightning
 
 ##### Nabire
 ### [A helicopter crashes in Nabire, Papua, Indonesia, killing a pilot and three passengers. ](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-killing-a-pilot-and-three-passengers.md)
-_Context: Nabire, Indonesia, Papua_
+_Context: Papua, Indonesia, Nabire_
 
 ##### University of North Carolina at Chapel Hill
 ### [A study by researchers at the University of North Carolina at Chapel Hill, presented at the American Society of Clinical Oncology meeting in Chicago, reports 26 percent of cancer patients can't afford to pay for their treatment, and 18 percent can't afford their prescriptions. ](/news/2016/06/3/a-study-by-researchers-at-the-university-of-north-carolina-at-chapel-hill-presented-at-the-american-society-of-clinical-oncology-meeting-in.md)
-_Context: Chicago, University of North Carolina at Chapel Hill, American Society of Clinical Oncology_
+_Context: University of North Carolina at Chapel Hill, American Society of Clinical Oncology, Chicago_
 
 ##### 2015 FIFA corruption case
 ### [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.md)

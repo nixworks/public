@@ -25,11 +25,11 @@ _Context: Jauja, Francisco Carle Airport, Peruvian Airlines Flight 112_
 
 ##### Georgia-European Union relations
 ### [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md)
-_Context: European Union, member states,  Georgian, United Kingdom, Irish, Georgia-European Union relations_
+_Context: United Kingdom,  Georgian, member states, Irish, European Union, Georgia-European Union relations_
 
 ##### Brexit
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
-_Context: European Union, Article 50 of the Treaty on European Union, European Council, Prime Minister, United Kingdom, signs a letter invoking, Theresa May, Brexit_
+_Context: United Kingdom, European Council, signs a letter invoking, Article 50 of the Treaty on European Union, Theresa May, Brexit, Prime Minister, European Union_
 
 ##### Delphine Boel
 ### [A Belgian Court in Brussels declares that Delphine Boel's case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-las-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md)
@@ -45,7 +45,7 @@ Motion passed 69 votes to 59 and comes a day before the UK takes the formal step
 
 ##### Executive order
 ### [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md)
-_Context: climate change, Barack Obama, executive order, Donald Trump_
+_Context: Barack Obama, climate change, Donald Trump, executive order_
 
 ##### Thylacine
 ### [Accounts of sightings of animals thought to resemble the extinct thylacine, the largest known carnivorous marsupial of modern times, prompt a search in the Far North of the Australian state of Queensland. ](/news/2017/03/28/accounts-of-sightings-of-animals-thought-to-resemble-the-extinct-thylacine-the-largest-known-carnivorous-marsupial-of-modern-times-prompt.md)

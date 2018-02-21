@@ -47,7 +47,7 @@ Park Geun-hye is taken to a detention centre south of Seoul after a court approv
 ### [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md)
 Fears have been raised about democracy after the National Assembly was stripped of powers.
 
-##### Russian meddling in the 2016 U.S. presidential election
+##### Russian interference in the 2016 United States elections
 ### [Michael T. Flynn is willing to testify under the condition of immunity in the ongoing congressional probe on Russia's role in the 2016 U.S. presidential election. ](/news/2017/03/30/michael-t-flynn-is-willing-to-testify-under-the-condition-of-immunity-in-the-ongoing-congressional-probe-on-russia-s-role-in-the-2016-u-s.md)
 The Kremlin paid an army of more than 1,000 people to create fake anti-Hillary Clinton news stories targeting key swing states, the leading Democrat on the committee looking into alleged Russian interference in the US election has said.
 
@@ -57,7 +57,7 @@ Tyrannosaurs had sensitive snouts that they may have enjoyed rubbing together wh
 
 ##### SpaceX
 ### [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md)
-_Context: International Space Station, SES-10, Falcon 9, Dragon cargo capsule, geostationary transfer orbit, autonomous drone ship, CRS-8, SpaceX_
+_Context: SpaceX, International Space Station, Falcon 9, CRS-8, geostationary transfer orbit, autonomous drone ship, Dragon cargo capsule, SES-10_
 
 ## [Previous Day...](/news/2017/03/29/index.md)
 

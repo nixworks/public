@@ -13,7 +13,7 @@ A Paris medic was battling to save the life of a man outside a restaurant when h
 
 ##### Siege
 ### [Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along-with-two-of-the-attackers.md)
-_Context: siege, United Nations, Mali_
+_Context: United Nations, siege, Mali_
 
 ##### Ukrainian crisis
 ### [Crimea is without power after transmission towers in Ukraine's Kherson Oblast were blown up by unknown people. The Crimean Emergencies Ministry declares a state of emergency due to the power outage and puts rescue teams on high alert. ](/news/2015/11/21/crimea-is-without-power-after-transmission-towers-in-ukraine-s-kherson-oblast-were-blown-up-by-unknown-people-the-crimean-emergencies-minis.md)
@@ -21,7 +21,7 @@ Russia’s Crimea has switched to autonomous reserve power after transmission to
 
 ##### Boko Haram insurgency
 ### [A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.md)
-_Context: Cameroon, suicide bombing, Fotokol, Nigeria, Far North Region, Boko Haram insurgency_
+_Context: Far North Region, Fotokol, Boko Haram insurgency, Nigeria, Cameroon, suicide bombing_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [A Palestinian terrorist stabs four people, including a 13-year-old girl, in the southern Israeli town of Kiryat Gat; he flees and evades police for five hours before being arrested. ](/news/2015/11/21/a-palestinian-terrorist-stabs-four-people-including-a-13-year-old-girl-in-the-southern-israeli-town-of-kiryat-gat-he-flees-and-evades-pol.md)
@@ -29,15 +29,15 @@ After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private res
 
 ##### British
 ### [British singer Adele's album "25" is released. ](/news/2015/11/21/british-singer-adele-s-album-25-is-released.md)
-_Context: British, 25, Adele_
+_Context: Adele, British, 25_
 
 ##### Miss World 2015
 ### [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md)
-_Context: Miss World Canada, Miss World 2015, Chinese, Anastasia Lin, Human rights in China_
+_Context: Chinese, Miss World Canada, Human rights in China, Miss World 2015, Anastasia Lin_
 
 ##### Muslim
 ### [Muslim cleric Sheikh Ahmed al-Tayeb, the head of al-Azhar in Egypt, says violence has no link to authentic Islam, terrorism is a life philosophy whose adherents were willing to die and is an intellectual and psychological disease that uses religion as a front. ](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.md)
-_Context: Egypt, Muslim, al-Azhar_
+_Context: al-Azhar, Egypt, Muslim_
 
 ##### Helicopter crash
 ### [Seven people, including the pilot, are killed in a helicopter crash on Fox Glacier in New Zealand. ](/news/2015/11/21/seven-people-including-the-pilot-are-killed-in-a-helicopter-crash-on-fox-glacier-in-new-zealand.md)
@@ -45,7 +45,7 @@ Bodies of four tourists still on Fox Glacier unlikely to be recovered until at l
 
 ##### Coal mine
 ### [A fire in a coal mine in China's northeast Heilongjiang province results in 21 deaths and one person missing. ](/news/2015/11/21/a-fire-in-a-coal-mine-in-china-s-northeast-heilongjiang-province-results-in-21-deaths-and-one-person-missing.md)
-_Context: Chinese, coal mine, Heilongjiang_
+_Context: coal mine, Heilongjiang, Chinese_
 
 ##### Hpakant jade mine disaster
 ### [A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md)
@@ -57,7 +57,7 @@ A magnitude 5.5 earthquake struck the central Chilean coast on Saturday, south o
 
 ##### Columbus
 ### [Research conducted by Columbus, Ohio's Nationwide Children's Hospital and published in the "American Journal of Epidemiology" suggests moderate caffeine consumption during pregnancy does not harm a baby's future intelligence or behavioral health. ](/news/2015/11/21/research-conducted-by-columbus-ohio-s-nationwide-children-s-hospital-and-published-in-the-american-journal-of-epidemiology-suggests-moder.md)
-_Context: caffeine, Columbus, intelligence, pregnancy, Nationwide Children's Hospital, American Journal of Epidemiology, behavior_
+_Context: Columbus, caffeine, intelligence, Nationwide Children's Hospital, behavior, American Journal of Epidemiology, pregnancy_
 
 ##### Territorial disputes in the South China Sea
 ### [Japan's prime minister Shinzo Abe says he is considering sending Japanese Navy warships to the South China Sea to back-up U.S. naval operations, saying, "With regard to activity by the Self-Defense Forces in the South China Sea, I will consider it while focusing on what effect the situation has on Japan's security." In response, China's Ministry of Foreign Affairs spokesperson, Hong Lei, told Chinese state media that China will remain on "high alert for intervention by Japan in the South China Sea issue". ](/news/2015/11/21/japan-s-prime-minister-shinza-abe-says-he-is-considering-sending-japanese-navy-warships-to-the-south-china-sea-to-back-up-u-s-naval-operat.md)
@@ -65,7 +65,7 @@ Japanese Prime Minister Shinzo Abe told President Barack Obama he’ll consider 
 
 ##### Reactions to the November 2015 Paris attacks
 ### [Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an-evil-terrorist-group-he-said-his-muslim-maj.md)
-_Context: Prime Minister, ideology, Muslim-majority country, Reactions to the November 2015 Paris attacks, Najib Razak, ISIL_
+_Context: ISIL, Najib Razak, Muslim-majority country, Prime Minister, Reactions to the November 2015 Paris attacks, ideology_
 
 ##### Washington College
 ### [A student, whose disappearance with a gun caused the precautionary closing of Washington College in Maryland (U.S.) this week, is found dead in Pennsylvania of a self-inflicted gunshot wound. The campus will reopen after Thanksgiving. ](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.md)

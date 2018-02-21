@@ -17,11 +17,11 @@ Magnitude seven earthquake leave at least 46 people dead and thousands homeless.
 
 ##### Gabonese presidential election
 ### [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-com.md)
-_Context: Gabon, Gabonese presidential election_
+_Context: Gabonese presidential election, Gabon_
 
 ##### Andromeda Galaxy
 ### [ Research indicates the Andromeda Galaxy appears to have expanded by digesting stars from other galaxies. ](/news/2009/09/3/research-indicates-the-andromeda-galaxy-appears-to-have-expanded-by-digesting-stars-from-other-galaxies.md)
-_Context: galaxies, Andromeda Galaxy, star_
+_Context: Andromeda Galaxy, star, galaxies_
 
 ##### Burma
 ### [ Burma's opposition leader Aung San Suu Kyi lodges an appeal against her conviction for breaching the terms of her house arrest. ](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.md)
@@ -33,7 +33,7 @@ Family and friends of Michael Jackson will bid a final farewell on Thursday (Fri
 
 ##### China
 ### [ China's State Food and Drug Administration grants approval to a homegrown swine flu vaccine, which producer Sinovac Biotech claims is effective after only one dose. ](/news/2009/09/3/china-s-state-food-and-drug-administration-grants-approval-to-a-homegrown-swine-flu-vaccine-which-producer-sinovac-biotech-claims-is-effec.md)
-_Context: State Food and Drug Administration, Sinovac Biotech, China, swine flu_
+_Context: State Food and Drug Administration, swine flu, China, Sinovac Biotech_
 
 ##### Xinjiang
 ### [ Fresh protests are reported in the province of Xinjiang in western China, after a series of stabbings with hypodermic needles. ](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.md)
@@ -45,7 +45,7 @@ _Context: Australia_
 
 ##### Russia
 ### [ The Russian Supreme Court overturns a lower court ruling in the murder of journalist Anna Politkovskaya, ordering several probes into her death to be merged into one. ](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.md)
-_Context: Anna Politkovskaya, Russia, Supreme Court_
+_Context: Supreme Court, Russia, Anna Politkovskaya_
 
 ##### Thailand
 ### [ 11 people are shot dead and a bomb at a restaurant injures 27 amid unrest in Thailand's Muslim south. ](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.md)

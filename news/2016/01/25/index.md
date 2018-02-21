@@ -17,7 +17,7 @@ It would be the second time the famous falls have been shut down as authorities 
 
 ##### January 2016 East Asia cold wave
 ### [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md)
-_Context: Taiwan, January 2016 East Asia cold wave, Chinese, South Korea, Asia_
+_Context: Asia, Taiwan, Chinese, South Korea, January 2016 East Asia cold wave_
 
 ##### January 2016 United States blizzard
 ### [The death toll from the blizzard in the Eastern United States rises to at least 30. ](/news/2016/01/25/the-death-toll-from-the-blizzard-in-the-eastern-united-states-rises-to-at-least-30.md)
@@ -49,7 +49,7 @@ A grand jury cleared Planned Parenthood of allegations of misconduct, instead in
 
 ##### Bob Brown
 ### [Bob Brown, former Parliamentary Leader of the Australian Greens, is arrested during a protest in the Tasmanian village of Lapoinya over proposed clear-fell logging of a nearby forest. ](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.md)
-_Context: Australian Greens, Bob Brown, Lapoinya, Tasmania_
+_Context: Australian Greens, Bob Brown, Tasmania, Lapoinya_
 
 ## [Previous Day...](/news/2016/01/24/index.md)
 

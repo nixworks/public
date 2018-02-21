@@ -13,7 +13,7 @@ Unknown attackers blow up Sinai pipeline that supplies gas to Jordan and Israel.
 
 ##### Corporal
 ### [A corporal in the Republic of Korea Marine Corps goes on a killing spree while on duty at a guard post on South Korea's Ganghwa Island, killing 3 people and injuring 2 others. ](/news/2011/07/4/a-corporal-in-the-republic-of-korea-marine-corps-goes-on-a-killing-spree-while-on-duty-at-a-guard-post-on-south-korea-s-ganghwa-island-kill.md)
-_Context: Ganghwa Island, Republic of Korea Marine Corps, South Korea, corporal_
+_Context: Republic of Korea Marine Corps, South Korea, Ganghwa Island, corporal_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard pursues with water cannons then boards the ship carrying activists from Belgium, Canada, Italy, Switzerland and Turkey after an unsuccessful attempt to leave Crete harbour. ](/news/2011/07/4/freedom-flotilla-ii-the-greek-coast-guard-pursues-with-water-cannons-then-boards-the-ship-carrying-activists-from-belgium-canada-italy-s.md)
@@ -21,7 +21,7 @@ Canadian vessel forced to return to Greece after breaking out of Crete harbour i
 
 ##### Soldiers
 ### [Australian Army soldier, Sergeant Todd Langley, is killed in fighting in Afghanistan, bringing Australian casualties in the war to 28. ](/news/2011/07/4/australian-army-soldier-sergeant-todd-langley-is-killed-in-fighting-in-afghanistan-bringing-australian-casualties-in-the-war-to-28.md)
-_Context: Afghan, soldiers, War in Afghanistan (2001-present)_
+_Context: Afghan, War in Afghanistan (2001-present), soldiers_
 
 ##### Pakistan
 ### [Religious conservatives in Pakistan condemn as "cultural terrorism" the recent support shown for LGBT rights in Islamabad. ](/news/2011/07/4/religious-conservatives-in-pakistan-condemn-as-cultural-terrorism-the-recent-support-shown-for-lgbt-rights-in-islamabad.md)
@@ -37,7 +37,7 @@ Sony Corp said it will fully restore all Playstation Network videogame services 
 
 ##### Landslide
 ### [At least 2 people are killed and 4 others are declared missing after a landslide in a village in western Nepal. ](/news/2011/07/4/at-least-2-people-are-killed-and-4-others-are-declared-missing-after-a-landslide-in-a-village-in-western-nepal.md)
-_Context: landslide, Nepal_
+_Context: Nepal, landslide_
 
 ##### Drought
 ### [Several African countries experience their worst drought in 60 years, with millions of people affected. ](/news/2011/07/4/several-african-countries-experience-their-worst-drought-in-60-years-with-millions-of-people-affected.md)
@@ -69,7 +69,7 @@ Dominique Strauss-Kahn faced a new sexual assault investigation on Tuesday when 
 
 ##### Abhisit Vejjajiva
 ### [Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-heavy-defeat-in-yesterda.md)
-_Context: Abhisit Vejjajiva, general election, Prime Minister, Democrat Party_
+_Context: general election, Democrat Party, Prime Minister, Abhisit Vejjajiva_
 
 ##### Indian state
 ### [At least 88 lawmakers in the Indian state of Andhra Pradesh resign "en masse" in support of the creation of a new state called Telangana. ](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.md)

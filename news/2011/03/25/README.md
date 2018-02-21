@@ -9,7 +9,7 @@ Heavy gunfire reported in the southern Syrian city of Daraa as anti-government p
 
 ##### 2010-2011 Ivorian crisis
 ### [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
-_Context: Abidjan, Cote d'Ivoire, 2010-2011 Ivorian crisis_
+_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Abidjan_
 
 ##### Ethiopia
 ### [A bomb blast in the Ethiopian capital Addis Ababa injures two people. ](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.md)
@@ -29,15 +29,15 @@ _Context: China, Zambia_
 
 ##### U.S.
 ### [The U.S. International Trade Commission has agreed to hear an appeal from Kodak to an initial unfavorable decision by an administrative judge on Kodak's claim that Research in Motion and Apple have infringed its patents, in connection with wireless devices equipped with digital cameras. ](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.md)
-_Context: digital cameras, Apple Inc., U.S., Kodak, Research in Motion, International Trade Commission_
+_Context: Apple Inc., Research in Motion, Kodak, International Trade Commission, digital cameras, U.S._
 
 ##### Lead
 ### [More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. ](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.md)
-_Context: China, lead, Zhejiang_
+_Context: lead, Zhejiang, China_
 
 ##### Japan
 ### [Japan's National Police Agency states that the official death toll from the 2011 Tohoku earthquake and tsunami has passed 10,000 with 17,053 missing. ](/news/2011/03/25/japan-s-national-police-agency-states-that-the-official-death-toll-from-the-2011-tahoku-earthquake-and-tsunami-has-passed-10-000-with-17-05.md)
-_Context: police, 2011 Tohoku earthquake and tsunami, Japan_
+_Context: police, Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### Japan
 ### [Japanese officials raise concerns that the core of unit 3 at the Fukushima I Nuclear Power Plant may be damaged. ](/news/2011/03/25/japanese-officials-raise-concerns-that-the-core-of-unit-3-at-the-fukushima-i-nuclear-power-plant-may-be-damaged.md)
@@ -49,15 +49,15 @@ _Context: 2011 Burma earthquake, Thailand_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo recalls its ambassador to the Republic of Congo in connection with a raid on President Joseph Kabila's home in Kinshasa. ](/news/2011/03/25/the-democratic-republic-of-the-congo-recalls-its-ambassador-to-the-republic-of-congo-in-connection-with-a-raid-on-president-joseph-kabila-s.md)
-_Context: Republic of Congo, Kabila government, Kinshasa, DR Congo_
+_Context: DR Congo, Kabila government, Kinshasa, Republic of Congo_
 
 ##### Iranian government
 ### [The Government of Iran rejects a United Nations Human Rights Council investigation into alleged human rights abuses. ](/news/2011/03/25/the-government-of-iran-rejects-a-united-nations-human-rights-council-investigation-into-alleged-human-rights-abuses.md)
-_Context: Iranian government, human rights abuses, Human Rights Council_
+_Context: human rights abuses, Iranian government, Human Rights Council_
 
 ##### Chinese
 ### [Chinese human rights activist Liu Xianbin is sentenced to ten years in jail on charges of inciting subversion. ](/news/2011/03/25/chinese-human-rights-activist-liu-xianbin-is-sentenced-to-ten-years-in-jail-on-charges-of-inciting-subversion.md)
-_Context: Liu Xianbin, human rights, Chinese_
+_Context: human rights, Liu Xianbin, Chinese_
 
 ##### Domonique Ramirez
 ### [Domonique Ramirez wins a lawsuit against the Miss San Antonio pageant which means she will regain her title and crown, this after being stripped of her title for being "overweight". ](/news/2011/03/25/domonique-ramirez-wins-a-lawsuit-against-the-miss-san-antonio-pageant-which-means-she-will-regain-her-title-and-crown-this-after-being-stri.md)
@@ -85,7 +85,7 @@ _Context: Theresa Makone, Movement for Democratic Change, Minister of Public Wor
 
 ##### Yassin Noman
 ### [Yassin Noman, the head of Yemen's opposition coalition, rejects the offers by the President of Yemen Ali Abdullah Saleh to resign by the end of the year. ](/news/2011/03/25/yassin-noman-the-head-of-yemen-s-opposition-coalition-rejects-the-offers-by-the-president-of-yemen-ali-abdullah-saleh-to-resign-by-the-end.md)
-_Context: President, Yemen, Yassin Noman, Ali Abdullah Saleh_
+_Context: Yemen, President, Ali Abdullah Saleh, Yassin Noman_
 
 ##### Northern Ireland Assembly
 ### [The Northern Ireland Assembly dissolves ahead of May elections. ](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.md)

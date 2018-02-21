@@ -9,19 +9,19 @@ Here are the remarks President Bush delivered today at the United States Naval A
 
 ##### Texas
 ### [ Texas oilman Oscar Wyatt Jr. is sentenced to a year and one day in jail for breaching the rules of the United Nations oil-for-food program. ](/news/2007/11/27/texas-oilman-oscar-wyatt-jr-is-sentenced-to-a-year-and-one-day-in-jail-for-breaching-the-rules-of-the-united-nations-oil-for-food-program.md)
-_Context: United Nations, Texas, oil-for-food, Oscar Wyatt Jr._
+_Context: Oscar Wyatt Jr., United Nations, Texas, oil-for-food_
 
 ##### Russia
 ### [ Russian Federation Council Speaker Sergei Mironov said that the fact that the election day has been set for March 2 allows president Vladimir Putin, who is required to leave office when his second term ends in May 2008, the option of resigning early and then running again. ](/news/2007/11/27/russian-federation-council-speaker-sergei-mironov-said-that-the-fact-that-the-election-day-has-been-set-for-march-2-allows-president-vladim.md)
-_Context: Vladimir Putin, Sergei Mironov, go to the polls, Russia, Federation Council_
+_Context: Sergei Mironov, Russia, go to the polls, Vladimir Putin, Federation Council_
 
 ##### Zimbabwe's economic crisis
 ### [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independe.md)
-_Context: Zimbabwe's economic crisis, Zimbabwe_
+_Context: Zimbabwe, Zimbabwe's economic crisis_
 
 ##### Riots by youths
 ### [ Nearly 80 French police officers have been injured during a second night of riots by youths in the suburbs of Paris, the police say. ](/news/2007/11/27/nearly-80-french-police-officers-have-been-injured-during-a-second-night-of-riots-by-youths-in-the-suburbs-of-paris-the-police-say.md)
-_Context: riots by youths, Paris_
+_Context: Paris, riots by youths_
 
 ##### Mascots for the 2010 Winter Olympics and the 2010 Winter Paralympics
 ### [ The mascots for the 2010 Winter Olympics and the 2010 Winter Paralympics are introduced. This is the first time that both Olympic and Paralympic mascots are unveiled at the same time. ](/news/2007/11/27/the-mascots-for-the-2010-winter-olympics-and-the-2010-winter-paralympics-are-introduced-this-is-the-first-time-that-both-olympic-and-paral.md)

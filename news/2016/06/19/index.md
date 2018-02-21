@@ -21,7 +21,7 @@ TOKYO (AP) — Tens of thousands of people on the Japanese island of Okinawa pro
 
 ##### Mexican police
 ### [Clashes between the Mexican police and members of the radical Mexican teachers union National Coordinator of Education Workers in Oaxaca leaves at least six people dead. ](/news/2016/06/19/clashes-between-the-mexican-police-and-members-of-the-radical-mexican-teachers-union-national-coordinator-of-education-workers-in-oaxaca-lea.md)
-_Context: Mexican police, Oaxaca_
+_Context: Oaxaca, Mexican police_
 
 ##### Italian local elections, 2016
 ### [Voters in the Italian capital of Rome go to the polls for a runoff election to select a new Mayor of Rome with exit polls showing Virginia Raggi of the Five Star Movement will become the first female Mayor. ](/news/2016/06/19/voters-in-the-italian-capital-of-rome-go-to-the-polls-for-a-runoff-election-to-select-a-new-mayor-of-rome-with-exit-polls-showing-virginia-r.md)

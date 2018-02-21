@@ -9,11 +9,11 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 
 ##### Syrian Civil War
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: ISIL, Syria, Syrian Civil War, Raqqa_
+_Context: ISIL, Syria, Raqqa, Syrian Civil War_
 
 ##### Yemeni Civil War (2015)
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
-_Context: Yemen, Yemeni Civil War (2015), Taiz, Houthi_
+_Context: Yemen, Taiz, Yemeni Civil War (2015), Houthi_
 
 ##### Boko Haram insurgency
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)
@@ -21,7 +21,7 @@ Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road 
 
 ##### 2015 Pacific typhoon season
 ### [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md)
-_Context: harvest, 2015 Pacific typhoon season, Typhoon Koppu (Lando), emergency shelters, rice fields, Philippines_
+_Context: emergency shelters, Philippines, rice fields, 2015 Pacific typhoon season, Typhoon Koppu (Lando), harvest_
 
 ##### United States
 ### [A U.S. F-18 fighter jet crashes into farmland near RAF Lakenheath in Suffolk county, England, killing the pilot. ](/news/2015/10/21/a-u-s-f-18-fighter-jet-crashes-into-farmland-near-raf-lakenheath-in-suffolk-county-england-killing-the-pilot.md)
@@ -29,15 +29,15 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 
 ##### American Academy of Pediatrics
 ### [The American Academy of Pediatrics calls for pregnant women to abstain completely from alcohol during the entire three trimesters of the pregnancy, saying no amount of any type of alcohol should be considered safe since the risks, to the baby in particular (such as fetal alcohol syndrome, among many others), are too great. This puts the U.S. alongside other Western developed countries- except Italy and the United Kingdom, which still allow occasional small amounts- in urging complete abstinence. The American College of Obstetricians and Gynecologists and the Centers for Disease Control and Prevention (CDC), the two other U.S. agencies that comment most about this issue, already recommend total alcohol abstinence. ](/news/2015/10/21/the-american-academy-of-pediatrics-calls-for-pregnant-women-to-abstain-completely-from-alcohol-during-the-entire-three-trimesters-of-the-pre.md)
-_Context: Italy, United Kingdom, American Academy of Pediatrics, Centers for Disease Control and Prevention, fetal alcohol syndrome, American College of Obstetricians and Gynecologists_
+_Context: United Kingdom, Italy, American Academy of Pediatrics, Centers for Disease Control and Prevention, American College of Obstetricians and Gynecologists, fetal alcohol syndrome_
 
 ##### Syrian Civil War
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
-_Context: Vladimir Putin, Moscow, President, Russian President, Syrian Civil War, Bashar al-Assad_
+_Context: Moscow, Bashar al-Assad, Syrian Civil War, Vladimir Putin, President, Russian President_
 
 ##### Supreme Leader
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: European Union, Ali Khamenei, United States, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader, sanctions against Iran_
+_Context: sanctions against Iran, Ali Khamenei, European Union, Supreme Leader, United States, Iranian government, Joint Comprehensive Plan of Action_
 
 ##### Holy See
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
@@ -45,7 +45,7 @@ The Vatican denied an Italian newspaper report on Wednesday that Pope Francis ha
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu's speech yesterday that the Grand Mufti of Jerusalem persuaded the Nazis to adopt their Final Solution to exterminate 6 million Jews is reproached by Holocaust experts and survivors, historians, world leaders, etc. Palestine Liberation Organization's Saeb Erakat and Israel's Zionist Union party's Isaac Herzog both blasted Netanyahu's claim. German Chancellor Angela Merkel said, "All Germans know the history of the murderous race mania of the Nazis that led to ... the Holocaust." Mehnaz Afridi, a Manhattan College professor who promotes Muslim-Jewish dialogue said, "this ... really is a terrible statement to make at this time." ](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.md)
-_Context: Benjamin Netanyahu, Manhattan College, Amin al-Husseini, Nazis, Holocaust, Final Solution, Saeb Erakat, Zionist Union party's, Israel, Chancellor, Isaac Herzog, Angela Merkel, Israeli Prime Minister, Palestine Liberation Organization, Jewish_
+_Context: Angela Merkel, Jewish, Isaac Herzog, Final Solution, Amin al-Husseini, Nazis, Manhattan College, Holocaust, Zionist Union party's, Israel, Israeli Prime Minister, Benjamin Netanyahu, Saeb Erakat, Palestine Liberation Organization, Chancellor_
 
 ##### Chinese
 ### [Two Chinese consulate staff are killed and a consul general injured after a gunman opened fire on a restaurant in the city of Cebu, the "second city" of the Philippines. Various reports named the gunman as Chinese national Li Qingliang. ](/news/2015/10/21/two-chinese-consulate-staff-are-killed-and-a-consul-general-injured-after-a-gunman-opened-fire-on-a-restaurant-in-the-city-of-cebu-the-sec.md)

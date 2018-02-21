@@ -25,11 +25,11 @@ _Context: Human Rights Council, United Nations, favor, LGBT rights_
 
 ##### David Cunliffe
 ### [David Cunliffe resigns as leader of the New Zealand Labour Party following a crushing defeat in last week's election, but will nominate himself as leader in the subsequent leadership contest. ](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.md)
-_Context: Labour Party, David Cunliffe, New Zealand general election_
+_Context: New Zealand general election, David Cunliffe, Labour Party_
 
 ##### Artur Mas i Gavarr
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Artur Mas i Gavarr, Spanish government, Spain, President of the Generalitat of Catalonia, Catalonia_
+_Context: Artur Mas i Gavarr, Spanish government, President of the Generalitat of Catalonia, Catalonia, Spain_
 
 ##### Hong Kong
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)

@@ -9,19 +9,19 @@ Schoolchildren and their parents on their way to start the new school year were 
 
 ##### Milwaukee
 ### [ Police in Milwaukee, USA, arrest a man in suspicion of being the notorious North Side Strangler, believed to have killed at least seven women between 1986 and 2007. ](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.md)
-_Context: USA, North Side Strangler, Milwaukee_
+_Context: USA, Milwaukee, North Side Strangler_
 
 ##### Statue
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: Apollo, Hierapolis, world heritage site, statue, UNESCO, Turkey_
+_Context: Hierapolis, UNESCO, world heritage site, statue, Apollo, Turkey_
 
 ##### Norway
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
-_Context: espionage, murder, Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norway_
+_Context: Democratic Republic of Congo, Norway, Joshua French and Tjostolv Moland, murder, espionage_
 
 ##### Wireless mobile carriers
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
-_Context: wireless mobile carriers, Orange, T-Mobile, United Kingdom_
+_Context: United Kingdom, Orange, wireless mobile carriers, T-Mobile_
 
 ##### Magnitude
 ### [ A magnitude 6.2 earthquake strikes northern Georgia. ](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.md)

@@ -9,7 +9,7 @@ The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were 
 
 ##### Islamic State in Iraq and the Levant
 ### [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md)
-_Context: Syrian Air Force, Islamic State in Iraq and the Levant, Raqqa_
+_Context: Raqqa, Islamic State in Iraq and the Levant, Syrian Air Force_
 
 ##### Suicide bomber
 ### [Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northeastern-nigeria.md)

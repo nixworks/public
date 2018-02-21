@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/2/index.html)  [JSON](2016/09/2/index.json)  [XML](2016/
 
 ##### Sectarianism in Pakistan
 ### [Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md)
-_Context: Islamic militants, Sectarianism in Pakistan, Mardan, Northwestern Pakistan, Christian_
+_Context: Sectarianism in Pakistan, Mardan, Christian, Northwestern Pakistan, Islamic militants_
 
 ##### Colombian conflict
 ### [The President of Colombia Juan Manuel Santos announces that he will sign the peace deal with the Revolutionary Armed Forces of Colombia or FARC on September 26. ](/news/2016/09/2/the-president-of-colombia-juan-manuel-santos-announces-that-he-will-sign-the-peace-deal-with-the-revolutionary-armed-forces-of-colombia-or-f.md)
@@ -25,7 +25,7 @@ Hurricane Hermine sweeps onto Florida&#039;s Gulf coast as officials warn of lif
 
 ##### President
 ### [President Islam Karimov of Uzbekistan dies after 27 years in office. ](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.md)
-_Context: Islam Karimov, Uzbekistan, President_
+_Context: President, Islam Karimov, Uzbekistan_
 
 ## [Previous Day...](/news/2016/09/1/index.md)
 

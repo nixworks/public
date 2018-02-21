@@ -9,7 +9,7 @@ Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Phil
 
 ##### War in Afghanistan (2001-present)
 ### [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md)
-_Context: Nawa District, War in Afghanistan (2001-present), Taliban_
+_Context: Taliban, War in Afghanistan (2001-present), Nawa District_
 
 ##### Syrian Civil War
 ### [The Syrian army seizes oil wells in south-west Raqqa Governorate from ISIL. ](/news/2017/07/17/the-syrian-army-seizes-oil-wells-in-south-west-raqqa-governorate-from-isil.md)
@@ -21,7 +21,7 @@ Islamic militants launched a series of attacks against Egyptian police in the no
 
 ##### Vijfhuizen
 ### [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md)
-_Context: Mark Rutte, Malaysia Airlines Flight 17, Willem-Alexander, King, Queen Maxima, Netherlands, Vijfhuizen, Prime Minister_
+_Context: King, Prime Minister, Queen Maxima, Malaysia Airlines Flight 17, Netherlands, Willem-Alexander, Mark Rutte, Vijfhuizen_
 
 ##### Foreign trade of the United States
 ### [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md)

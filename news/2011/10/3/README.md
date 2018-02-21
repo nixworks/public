@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/3/index.html)  [JSON](2011/10/3/index.json)  [XML](2011/
 
 ##### Kizilyurt
 ### [Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md)
-_Context: Russia, Dagestan, Kizilyurt_
+_Context: Russia, Kizilyurt, Dagestan_
 
 ##### Mosque
 ### [A mosque in the Israeli village of Tuba-Zangaria is torched. ](/news/2011/10/3/a-mosque-in-the-israeli-village-of-tuba-zangaria-is-torched.md)
@@ -25,11 +25,11 @@ Amanda Knox has been dramatically acquitted of the murder of Meredith Kercher, d
 
 ##### Somali
 ### [A US court sentences two more Somali pirates to life in prison for capturing a yacht off the coast of Africa in February. ](/news/2011/10/3/a-us-court-sentences-two-more-somali-pirates-to-life-in-prison-for-capturing-a-yacht-off-the-coast-of-africa-in-february.md)
-_Context: Africa, pirates, Somali_
+_Context: Somali, Africa, pirates_
 
 ##### Helle Thorning-Schmidt
 ### [Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. ](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.md)
-_Context: Danish coalition government, Denmark, Helle Thorning-Schmidt, first female, Lars Lkke Rasmussen, Prime Minister of Denmark, 41st_
+_Context: Denmark, first female, Helle Thorning-Schmidt, Prime Minister of Denmark, Lars Lkke Rasmussen, Danish coalition government, 41st_
 
 ##### California
 ### [Advocates for prisoners in the US state of California claim that more than 12,000 inmates are now participating in a hunger strike over prison conditions. ](/news/2011/10/3/advocates-for-prisoners-in-the-us-state-of-california-claim-that-more-than-12-000-inmates-are-now-participating-in-a-hunger-strike-over-pris.md)
@@ -37,7 +37,7 @@ _Context: California, hunger strike_
 
 ##### Bruce Beutler
 ### [Bruce Beutler of the US, Jules A. Hoffmann of France and Ralph Steinman of Canada (posthumously) share the Nobel Prize in Physiology or Medicine for research into the immune system. ](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.md)
-_Context: Nobel Prize in Physiology or Medicine, Jules A. Hoffmann, Ralph Steinman, Bruce Beutler_
+_Context: Jules A. Hoffmann, Bruce Beutler, Ralph Steinman, Nobel Prize in Physiology or Medicine_
 
 ## [Previous Day...](/news/2011/10/2/index.md)
 

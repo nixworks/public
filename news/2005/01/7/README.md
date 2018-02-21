@@ -21,7 +21,7 @@ _Context: Baghdad_
 
 ##### Palestinians
 ### [ Palestinian presidential candidate Mustafa Barghouti is arrested by Israeli police on the last day of the campaign as he tried to enter the Al-Aqsa Mosque. ](/news/2005/01/7/palestinian-presidential-candidate-mustafa-barghouti-is-arrested-by-israeli-police-on-the-last-day-of-the-campaign-as-he-tried-to-enter-the.md)
-_Context: Palestinians, Israel, Palestinian presidential election, Al-Aqsa Mosque, Mustafa Barghouti_
+_Context: Palestinian presidential election, Israel, Palestinians, Al-Aqsa Mosque, Mustafa Barghouti_
 
 ##### Infant formula
 ### [ The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. ](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people-for-eight-years-for-selling-fake-infant-formula-which-has-caused-the-deaths-of-at-least-1.md)
@@ -33,11 +33,11 @@ _Context: Ukraine, Viktor Yanukovych_
 
 ##### Chile
 ### [ Chilean officials search the offices of Augusto Pinochet and investigate his U.S. bank accounts. ](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.md)
-_Context: Chile, Augusto Pinochet_
+_Context: Augusto Pinochet, Chile_
 
 ##### Edgar Ray Killen
 ### [ 80-year-old Edgar Ray Killen is arrested for the 1964 killings of three civil rights workers that inspired the American Civil Rights Movement and the film "Mississippi Burning". ](/news/2005/01/7/80-year-old-edgar-ray-killen-is-arrested-for-the-1964-killings-of-three-civil-rights-workers-that-inspired-the-american-civil-rights-moveme.md)
-_Context: Mississippi Burning, 1964, American Civil Rights Movement, Edgar Ray Killen, civil rights_
+_Context: 1964, Edgar Ray Killen, civil rights, Mississippi Burning, American Civil Rights Movement_
 
 ## [Previous Day...](/news/2005/01/6/index.md)
 

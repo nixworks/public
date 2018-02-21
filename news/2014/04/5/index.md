@@ -29,7 +29,7 @@ PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters 
 
 ##### Sinn Fein
 ### [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md)
-_Context: Sinn Fein, Windsor Castle, Michael D. Higgins, Deputy First Minister of Northern Ireland, Elizabeth II, banquet, Martin McGuinness, President_
+_Context: President, Sinn Fein, Michael D. Higgins, Martin McGuinness, banquet, Windsor Castle, Elizabeth II, Deputy First Minister of Northern Ireland_
 
 ##### Roman Catholic Archdiocese of Atlanta
 ### [Roman Catholic Archdiocese of Atlanta archbishop Wilton Gregory announces he will sell his recently-acquired $2.2 million mansion amid criticism amongst parishioners. ](/news/2014/04/5/roman-catholic-archdiocese-of-atlanta-archbishop-wilton-gregory-announces-he-will-sell-his-recently-acquired-2-2-million-mansion-amid-criti.md)

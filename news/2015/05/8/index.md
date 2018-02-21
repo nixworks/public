@@ -25,11 +25,11 @@ The wives of the Malaysian and Indonesian envoys were also killed in the crash.
 
 ##### Piper PA-32
 ### [A Piper PA-32 plane crashes onto the motorway near DeKalb-Peachtree Airport, Atlanta, Georgia killing all four passengers. Interstate 285 is closed in both directions. ](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.md)
-_Context: Piper PA-32, Georgia, Interstate 285, Atlanta, DeKalb-Peachtree Airport_
+_Context: DeKalb-Peachtree Airport, Atlanta, Interstate 285, Piper PA-32, Georgia_
 
 ##### Russia
 ### [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md)
-_Context: US$, Russia, Chinese_
+_Context: Russia, US$, Chinese_
 
 ##### Burkina Faso
 ### [Burkina Faso and Niger agree to exchange 18 towns in order to resolve a long-running border dispute with Burkina Faso receiving 14 and Niger 4. ](/news/2015/05/8/burkina-faso-and-niger-agree-to-exchange-18-towns-in-order-to-resolve-a-long-running-border-dispute-with-burkina-faso-receiving-14-and-niger.md)
@@ -57,7 +57,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2015 Burundian protests
 ### [The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-in-the-nyakabiga-district.md)
-_Context: Pierre Nkurunziza, Bujumbura, Presidents, 2015 Burundian protests_
+_Context: Bujumbura, Presidents, Pierre Nkurunziza, 2015 Burundian protests_
 
 ## [Previous Day...](/news/2015/05/7/index.md)
 

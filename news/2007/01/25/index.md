@@ -17,11 +17,11 @@ Illicit commerce thrives in the Republic of Georgia, where some regions have bec
 
 ##### Huautla de Jimnez
 ### [ Thirty-three people are killed when a bus plunges down a ravine near Huautla de Jimnez in the north of the Mexican state of Oaxaca. ](/news/2007/01/25/thirty-three-people-are-killed-when-a-bus-plunges-down-a-ravine-near-huautla-de-jimenez-in-the-north-of-the-mexican-state-of-oaxaca.md)
-_Context: Huautla de Jimnez, Mexico, Oaxaca_
+_Context: Oaxaca, Mexico, Huautla de Jimnez_
 
 ##### M<sub>w</sub>&nbsp;5.2
 ### [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-m-w-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md)
-_Context: M<sub>w</sub>&nbsp;5.2, Taiwan_
+_Context: Taiwan, M<sub>w</sub>&nbsp;5.2_
 
 ## [Previous Day...](/news/2007/01/24/index.md)
 

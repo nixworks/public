@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/30/index.html)  [JSON](2009/07/30/index.json)  [XML](200
 
 ##### Bryan, TX
 ### [ 70,000 people are evacuated from Bryan, TX, USA, after ammonium nitrate is released during a fire at the El Dorado Chemical Company warehouse there.](/news/2009/07/30/70-000-people-are-evacuated-from-bryan-tx-usa-after-ammonium-nitrate-is-released-during-a-fire-at-the-el-dorado-chemical-company-warehou.md)
-_Context: ammonium nitrate, fire, Bryan, TX, USA_
+_Context: USA, ammonium nitrate, Bryan, TX, fire_
 
 ##### Palmanova bombing
 ### [ At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-of-mallorca.md)
@@ -13,15 +13,15 @@ At least two people have been killed in an explosion at a civil guard barracks o
 
 ##### Albania
 ### [ Albania's Prime Minister Sali Berisha indicates he may legalise gay marriage in the country. ](/news/2009/07/30/albania-s-prime-minister-sali-berisha-indicates-he-may-legalise-gay-marriage-in-the-country.md)
-_Context: he may legalise, Prime Minister, Albania, same-sex couples, Sali Berisha_
+_Context: Prime Minister, same-sex couples, Sali Berisha, Albania, he may legalise_
 
 ##### Nigeria
 ### [ Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md)
-_Context: alive when captured, Islamists, Nigeria, Boko Haram_
+_Context: alive when captured, Boko Haram, Islamists, Nigeria_
 
 ##### United States Coast Guard
 ### [ The United States Coast Guard calls off its search for as many as 79 Haitians missing after their boat capsized near the Turks and Caicos Islands with two hundred people onboard. ](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.md)
-_Context: Turks and Caicos Islands, Haiti, boat capsized, United States Coast Guard_
+_Context: Haiti, boat capsized, United States Coast Guard, Turks and Caicos Islands_
 
 ##### Iran
 ### [ Iranian police clash with mourners at a Tehranian cemetery for a memorial to those killed in post-election violence, using teargas to disperse crowds from the grave of Neda Agha-Soltan and forcing Opposition leader Mir-Hossein Mousavi to make his exit. ](/news/2009/07/30/iranian-police-clash-with-mourners-at-a-tehranian-cemetery-for-a-memorial-to-those-killed-in-post-election-violence-using-teargas-to-dispe.md)
@@ -41,11 +41,11 @@ The Communist President Vladimir Voronin of Moldova has said that he is ready fo
 
 ##### Australia
 ### [ Australian Prime Minister Kevin Rudd promises to create 50,000 green jobs and apprenticeships to combat climate change and unemployment simultaneously. ](/news/2009/07/30/australian-prime-minister-kevin-rudd-promises-to-create-50-000-green-jobs-and-apprenticeships-to-combat-climate-change-and-unemployment-sim.md)
-_Context: Kevin Rudd, Australia, Australian Prime Minister_
+_Context: Australia, Australian Prime Minister, Kevin Rudd_
 
 ##### United States
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
-_Context: Barack Obama, racial profiling, black, U.S. President, United States, altercation, White House, Henry Louis Gates, public intellectual_
+_Context: White House, public intellectual, U.S. President, United States, racial profiling, Barack Obama, Henry Louis Gates, altercation, black_
 
 ##### Referendum Commission
 ### [ Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. ](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.md)
@@ -57,7 +57,7 @@ _Context: Tipaza, Islam, Algeria_
 
 ##### Kitab Sultan
 ### [ 8 people are killed and 10 are injured in a bomb attack on the offices of a Sunni political party, Kitab Sultan, in Diyala Governorate. ](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.md)
-_Context: Diyala Governorate, Kitab Sultan_
+_Context: Kitab Sultan, Diyala Governorate_
 
 ##### Multiple sclerosis
 ### [ Multiple sclerosis sufferer Debbie Purdy wins a "landmark victory" in the House of Lords in her fight to allow her husband to help her commit suicide abroad. ](/news/2009/07/30/multiple-sclerosis-sufferer-debbie-purdy-wins-a-landmark-victory-in-the-house-of-lords-in-her-fight-to-allow-her-husband-to-help-her-comm.md)
@@ -73,7 +73,7 @@ Figures from the Department of health confirm that 19 people have been hospitali
 
 ##### United States
 ### [ The United States Presidential Medal of Freedom is awarded to several international figures including Stephen Hawking, Billie Jean King, Harvey Milk, Sidney Poitier, Mary Robinson, Desmond Tutu and Muhammad Yunus. ](/news/2009/07/30/the-united-states-presidential-medal-of-freedom-is-awarded-to-several-international-figures-including-stephen-hawking-billie-jean-king-ha.md)
-_Context: Billie Jean King, Muhammad Yunus, Desmond Tutu, Sidney Poitier, United States, Stephen Hawking, Harvey Milk, Mary Robinson, Presidential Medal of Freedom with Distinction_
+_Context: Muhammad Yunus, Harvey Milk, United States, Billie Jean King, Stephen Hawking, Presidential Medal of Freedom with Distinction, Sidney Poitier, Desmond Tutu, Mary Robinson_
 
 ## [Previous Day...](/news/2009/07/29/index.md)
 

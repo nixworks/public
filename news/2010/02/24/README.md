@@ -21,7 +21,7 @@ The hunger strike death of a Cuban political prisoner provoked international con
 
 ##### RasGas
 ### [RasGas, a joint venture of Qatar Petroleum and ExxonMobil, starts its seventh LNG train, ensuring Qatar's position as the world's biggest producer of liquefied natural gas. ](/news/2010/02/24/rasgas-a-joint-venture-of-qatar-petroleum-and-exxonmobil-starts-its-seventh-lng-train-ensuring-qatar-s-position-as-the-world-s-biggest-pr.md)
-_Context: liquefied natural gas, RasGas, Qatar, ExxonMobil Corporation, LNG train, Qatar Petroleum_
+_Context: liquefied natural gas, Qatar Petroleum, RasGas, ExxonMobil Corporation, LNG train, Qatar_
 
 ##### Oxfam
 ### [Oxfam Hong Kong suspends its student training programme in China after the Chinese government said the charity had "unfriendly intentions". ](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.md)

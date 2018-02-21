@@ -25,11 +25,11 @@ NSW Premier Barry O&#039;Farrell has sensationally resigned. Follow all the late
 
 ##### Soyuz-U
 ### [A Soyuz-U rocket carrying a new Egyptian communication satellite, EgyptSat-2, was launched from the Baikonur Cosmodrome in Kazakhstan. ](/news/2014/04/16/a-soyuz-u-rocket-carrying-a-new-egyptian-communication-satellite-egyptsat-2-was-launched-from-the-baikonur-cosmodrome-in-kazakhstan.md)
-_Context: Egypt, Kazakhstan, Soyuz-U, Baikonur Cosmodrome_
+_Context: Kazakhstan, Baikonur Cosmodrome, Egypt, Soyuz-U_
 
 ##### Saturn
 ### [Scientists discover a new moon forming in the outer edge of Saturn's A ring, unofficially called "Peggy". ](/news/2014/04/16/scientists-discover-a-new-moon-forming-in-the-outer-edge-of-saturn-s-a-ring-unofficially-called-peggy.md)
-_Context: A ring, Saturn_
+_Context: Saturn, A ring_
 
 ##### Egg cell
 ### [Scientists discover an egg membrane protein, Juno, that facilitates fertilisation in mammals. ](/news/2014/04/16/scientists-discover-an-egg-membrane-protein-juno-that-facilitates-fertilisation-in-mammals.md)

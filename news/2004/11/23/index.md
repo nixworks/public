@@ -9,11 +9,11 @@ _Context: 60 Minutes, Dan Rather, CBS News, CBS Evening News_
 
 ##### Ukrainian presidential election controversy
 ### [ 2004 Ukrainian presidential election: Opposition leader Viktor Yushchenko declares himself winner and takes a symbolic oath of office at a parliament special session, boycotted by pro-government MPs. Crowds of around 200,000 Yushchenko supporters rally outside the parliament building in Kiev. Freedom House releases a statement saying that the runoff election was "tainted by massive voter fraud." Russian Foreign Ministry expresses "extreme concern" about the disobedience actions by the Ukrainian opposition. ](/news/2004/11/23/2004-ukrainian-presidential-election-opposition-leader-viktor-yushchenko-declares-himself-winner-and-takes-a-symbolic-oath-of-office-at-a.md)
-_Context: MP, Kiev, Viktor Yushchenko, Freedom House, Ukrainian presidential election controversy_
+_Context: Kiev, MP, Viktor Yushchenko, Ukrainian presidential election controversy, Freedom House_
 
 ##### Conflict in Iraq
 ### [ Officials from the Arab League, Organisation of the Islamic Conference, G8 nations, People's Republic of China and UN Secretary General Kofi Annan convene at Sharm el-Sheikh, Egypt to discuss and issue declarations on Iraq. ](/news/2004/11/23/officials-from-the-arab-league-organisation-of-the-islamic-conference-g8-nations-people-s-republic-of-china-and-un-secretary-general-kof.md)
-_Context: Arab League, Sharm el-Sheikh, G8 group of nations, Secretary General, Kofi Annan, Conflict in Iraq, United Nations, Iraq, Organisation of Islamic Cooperation, Egypt_
+_Context: G8 group of nations, Iraq, Sharm el-Sheikh, Secretary General, Egypt, Arab League, Conflict in Iraq, United Nations, Kofi Annan, Organisation of Islamic Cooperation_
 
 ## [Previous Day...](/news/2004/11/22/index.md)
 

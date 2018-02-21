@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Israel
 ### [ Israeli forces detain Palestinian Deputy Prime Minister Nasser al-Shaer in a raid on his home in the West Bank town of Ramallah. ](/news/2006/08/19/israeli-forces-detain-palestinian-deputy-prime-minister-nasser-al-shaer-in-a-raid-on-his-home-in-the-west-bank-town-of-ramallah.md)
-_Context: Israel, Deputy Prime Minister, Nasser al-Shaer, Ramallah, Palestinian, West Bank_
+_Context: Palestinian, Israel, Deputy Prime Minister, West Bank, Ramallah, Nasser al-Shaer_
 
 ##### Chinese
 ### [ The Chinese death toll from Typhoon Saomai rises to 436 with 100 new deaths reported in the east of the country. ](/news/2006/08/19/the-chinese-death-toll-from-typhoon-saomai-rises-to-436-with-100-new-deaths-reported-in-the-east-of-the-country.md)

@@ -9,15 +9,15 @@ _Context: Nepal, April 2006 Nepalese general strike, Gyanendra of Nepal, Prime M
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth&nbsp;II of the United Kingdom and the other Commonwealth realms celebrates her 80th birthday. On the same day, the BBC marks eighty years since the granting of its first Royal Charter. ](/news/2006/04/21/queen-elizabeth-nbsp-ii-of-the-united-kingdom-and-the-other-commonwealth-realms-celebrates-her-80th-birthday-on-the-same-day-the-bbc-mark.md)
-_Context: BBC, Royal Charter, Queen Elizabeth, 16_
+_Context: Royal Charter, BBC, Queen Elizabeth, 16_
 
 ##### California
 ### [ The California court of appeal heard oral arguments over bloggers' challenges to an effort by Apple Computer to force the ISP of an Apple news site to hand over the email records of bloggers it claims revealed trade secrets. ](/news/2006/04/21/the-california-court-of-appeal-heard-oral-arguments-over-bloggers-challenges-to-an-effort-by-apple-computer-to-force-the-isp-of-an-apple-n.md)
-_Context: Apple Computer, California, Internet service provider, blog_
+_Context: blog, Internet service provider, Apple Computer, California_
 
 ##### Haitian elections, 2006
 ### [ Haitian elections, 2006: Voter turnout in the second round of the legislative elections is deemed low. ](/news/2006/04/21/haitian-elections-2006-voter-turnout-in-the-second-round-of-the-legislative-elections-is-deemed-low.md)
-_Context: Voter turnout, Haitian elections, 2006_
+_Context: Haitian elections, 2006, Voter turnout_
 
 ## [Previous Day...](/news/2006/04/20/index.md)
 

@@ -29,23 +29,23 @@ A roadside bomb killed five Iraqi policemen today in the once turbulent but rece
 
 ##### 2008-09
 ### [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-gets-underway-in-stockholm.md)
-_Context: Volvo Ocean Race, 2008-09, Stockholm_
+_Context: 2008-09, Volvo Ocean Race, Stockholm_
 
 ##### Russia
 ### [ The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. ](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.md)
-_Context: Anna Politkovskaya, Russia, Supreme Court, murder_
+_Context: Anna Politkovskaya, Russia, murder, Supreme Court_
 
 ##### Burma
 ### [ Burma denies any link to the North Korean ship "Kang Nam 1" being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violatio.md)
-_Context: North Korea, Kang Nam 1, United Nations, Burma, United States_
+_Context: Kang Nam 1, United Nations, United States, North Korea, Burma_
 
 ##### Honduras
 ### [ Honduran President Manuel Zelaya fires his armed forces chief after he refuses to give logistical support for a referendum on constitutional change. The Supreme Court then orders that he be returned to his job immediately. ](/news/2009/06/25/honduran-president-manuel-zelaya-fires-his-armed-forces-chief-after-he-refuses-to-give-logistical-support-for-a-referendum-on-constitutiona.md)
-_Context: Honduras, President, Manuel Zelaya, Supreme Court, constitutional referendum_
+_Context: Honduras, President, Supreme Court, constitutional referendum, Manuel Zelaya_
 
 ##### Qantas Airways
 ### [ Qantas Airways cancelled half of a 30-plan order for 787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md)
-_Context: Qantas Airways, Boeing Company, Boeing 787_
+_Context: Boeing 787, Boeing Company, Qantas Airways_
 
 ##### Cristiano Ronaldo
 ### [ Cristiano Ronaldo completes a world record transfer fee of 80 million pounds which sends him to Real Madrid from Manchester United. ](/news/2009/06/25/cristiano-ronaldo-completes-a-world-record-transfer-fee-of-80-million-pounds-which-sends-him-to-real-madrid-from-manchester-united.md)

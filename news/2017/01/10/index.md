@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/10/index.html)  [JSON](2017/01/10/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md)
-_Context: War in Afghanistan, 10 January 2017 Afghanistan bombings, National Assembly, Kabul_
+_Context: National Assembly, War in Afghanistan, Kabul, 10 January 2017 Afghanistan bombings_
 
 ##### Lucas Museum of Narrative Art
 ### [The board for the US$1 billion Lucas Museum of Narrative Art announces it will construct the museum in Los Angeles, California. ](/news/2017/01/10/the-board-for-the-us-1-billion-lucas-museum-of-narrative-art-announces-it-will-construct-the-museum-in-los-angeles-california.md)
@@ -33,11 +33,11 @@ The same jury that convicted Dylann Roof in the 2015 massacre at Emanuel AME chu
 
 ##### Death and state funeral of Akbar Hashemi Rafsanjani
 ### [Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. ](/news/2017/01/10/hundreds-of-thousands-of-iranians-gather-in-tehran-for-the-funeral-of-former-president-akbar-hashemi-rafsanjani.md)
-_Context: Akbar Hashemi Rafsanjani, Death and state funeral of Akbar Hashemi Rafsanjani, Tehran_
+_Context: Death and state funeral of Akbar Hashemi Rafsanjani, Tehran, Akbar Hashemi Rafsanjani_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md)
-_Context: Presidential transition of Donald Trump, Donald Trump, White House, Jared Kushner_
+_Context: Donald Trump, Presidential transition of Donald Trump, White House, Jared Kushner_
 
 ## [Previous Day...](/news/2017/01/9/index.md)
 

@@ -13,7 +13,7 @@ Separate PKK attacks in Turkey on a police station and railway leave two police,
 
 ##### Switzerland
 ### [Swiss National Bank reports a first half loss of 50 billion CHF as a result of the franc to euro peg removal earlier this year. ](/news/2015/07/31/swiss-national-bank-reports-a-first-half-loss-of-50-billion-chf-as-a-result-of-the-franc-to-euro-peg-removal-earlier-this-year.md)
-_Context: francs, Switzerland, franc to euro peg removal_
+_Context: franc to euro peg removal, Switzerland, francs_
 
 ##### Russian financial crisis (2014-present)
 ### [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md)
@@ -25,11 +25,11 @@ A pilot and three passengers die when Saudi-registered private jet crashes into 
 
 ##### 2015 West Bank Arson attack
 ### [ Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an-attack-that-drew-palestinia.md)
-_Context: West Bank, Jewish settlers, Israel, 2015 West Bank Arson attack, Palestine_
+_Context: West Bank, 2015 West Bank Arson attack, Jewish settlers, Palestine, Israel_
 
 ##### India
 ### [India and Bangladesh have swapped control of some 160 small pockets of land on each other's territory. Residents were asked to choose where they wanted to live and which nationality they would prefer. Most of them decided to change nationality and stay where they live. ](/news/2015/07/31/india-and-bangladesh-have-swapped-control-of-some-160-small-pockets-of-land-on-each-other-s-territory-residents-were-asked-to-choose-where.md)
-_Context: Bangladesh, India, 160 small pockets of land_
+_Context: 160 small pockets of land, India, Bangladesh_
 
 ##### France
 ### [France agrees to pay Russia EUR1.16bn in refund and compensation after the cancellation of the sale of two warships following the military intervention in Ukraine. ](/news/2015/07/31/france-agrees-to-pay-russia-a-1-16bn-in-refund-and-compensation-after-the-cancellation-of-the-sale-of-two-warships-following-the-military-i.md)
@@ -37,7 +37,7 @@ President Francois Hollande denies claims France has agreed to pay compensation 
 
 ##### President
 ### [President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-secretary-mar-roxas-in-2016.md)
-_Context: Mar Roxas, President, his predecessor_
+_Context: his predecessor, President, Mar Roxas_
 
 ## [Previous Day...](/news/2015/07/30/index.md)
 

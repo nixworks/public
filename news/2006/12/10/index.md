@@ -17,11 +17,11 @@ _Context: Stjepan Mesic, Independent State of Croatia_
 
 ##### Madagascar
 ### [ According to results released by the Interior Ministry of Madagascar, a total of 61.45% of the country's registered 7.3 million voters went to the polling stations on December 3 and re-elected Marc Ravalomanana as President with 54.8% of the votes, Jean Lahiniriko and Roland Ratsiraka received 11.68% and 10.1%, respectively. ](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.md)
-_Context: Roland Ratsiraka, went to the polling stations on December 3, Marc Ravalomanana, Jean Lahiniriko, Madagascar, President_
+_Context: Roland Ratsiraka, Madagascar, went to the polling stations on December 3, Marc Ravalomanana, President, Jean Lahiniriko_
 
 ##### Nobel Prize
 ### [ Nobel Prizes: Bangladeshi economist Muhammad Yunus accepts the Peace Prize, urging world leaders to end terrorism by fighting poverty. ](/news/2006/12/10/nobel-prizes-bangladeshi-economist-muhammad-yunus-accepts-the-peace-prize-urging-world-leaders-to-end-terrorism-by-fighting-poverty.md)
-_Context: terrorism, Nobel Prize, Muhammad Yunus, Bangladesh, poverty, economist_
+_Context: Bangladesh, terrorism, Muhammad Yunus, poverty, economist, Nobel Prize_
 
 ## [Previous Day...](/news/2006/12/9/index.md)
 

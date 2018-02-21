@@ -9,11 +9,11 @@ Grief and anger at the killing of eight Hong Kong tourists in a bus siege in Man
 
 ##### President of Chechnya
 ### [At least 19 people are killed in a fire fight between President of Chechnya Ramzan Kadyrov's personal guards and protesters in Tsentoroi. ](/news/2010/08/29/at-least-19-people-are-killed-in-a-fire-fight-between-president-of-chechnya-ramzan-kadyrov-s-personal-guards-and-protesters-in-tsentoroi.md)
-_Context: Tsentoroi, President of Chechnya, Ramzan Kadyrov_
+_Context: President of Chechnya, Ramzan Kadyrov, Tsentoroi_
 
 ##### Palestinian
 ### [A Palestinian man is killed by the collapse of a smuggling tunnel under the border between Egypt and the Gaza Strip. ](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.md)
-_Context: Egypt, Gaza Strip, Palestinian_
+_Context: Palestinian, Egypt, Gaza Strip_
 
 ##### Afghan
 ### [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
@@ -21,11 +21,11 @@ Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled so
 
 ##### Catholic Church
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
-_Context: Roger Vangheluwe, Belgium, Catholic Church, Bishop of Brugge, Godfried Danneels_
+_Context: Catholic Church, Godfried Danneels, Bishop of Brugge, Belgium, Roger Vangheluwe_
 
 ##### 62nd Primetime Emmy Awards
 ### ["Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md)
-_Context: Emmy Awards, Mad Men, 62nd Primetime Emmy Awards_
+_Context: Mad Men, 62nd Primetime Emmy Awards, Emmy Awards_
 
 ##### Last of the Summer Wine
 ### [The final episode of "Last of the Summer Wine" airs on BBC One after 37 years. ](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.md)
@@ -37,7 +37,7 @@ _Context: Gaza Strip_
 
 ##### Devastating floods
 ### [Floods worsen in Pakistan as more towns are threatened. ](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-threatened.md)
-_Context: devastating floods, Pakistan_
+_Context: Pakistan, devastating floods_
 
 ##### Sumatra
 ### [1 person dies as the Sumatran volcano Sinabung prompts a red alert by erupting for the first time in over 400 years, leading to Indonesia evacuating thousands of people. ](/news/2010/08/29/1-person-dies-as-the-sumatran-volcano-sinabung-prompts-a-red-alert-by-erupting-for-the-first-time-in-over-400-years-leading-to-indonesia-ev.md)

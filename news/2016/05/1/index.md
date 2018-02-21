@@ -21,7 +21,7 @@ Two suicide car bombs claimed by Islamic State killed at least 32 people and wou
 
 ##### Moro conflict
 ### [Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md)
-_Context: Moro conflict, Indonesia, Abu Sayyaf_
+_Context: Moro conflict, Abu Sayyaf, Indonesia_
 
 ##### Halliburton
 ### [Halliburton Co. and Baker Hughes Inc., the second- and third-largest oilfield service firms, announce the cancellation of their $28 billion merger which has faced opposition from U.S. and European antitrust regulators. Halliburton will reportedly have to pay Baker Hughes a $3.5 billion termination fee if the deal is called off. ](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-and-third-largest-oilfield-service-firms-announce-the-cancellation-of-their-28-billion.md)
@@ -29,7 +29,7 @@ Halliburton Co. and Baker Hughes Inc. called off their $28 billion merger that f
 
 ##### Serbian Orthodox Cathedral of St. Sava
 ### [The historic Serbian Orthodox Cathedral of St. Sava in New York City is almost completely destroyed in a massive four-alarm fire. ](/news/2016/05/1/the-historic-serbian-orthodox-cathedral-of-st-sava-in-new-york-city-is-almost-completely-destroyed-in-a-massive-four-alarm-fire.md)
-_Context: four-alarm fire, Serbian Orthodox Cathedral of St. Sava, New York City_
+_Context: Serbian Orthodox Cathedral of St. Sava, four-alarm fire, New York City_
 
 ##### United States
 ### [In the United States, 14 of 175 cars of a CSX freight train derail in northeastern Washington, D.C., near a city subway station. There were three leaks; one, sodium hydroxide, is a hazardous material. All leaks, and a nearby gas line that was ruptured, are contained. Officials are unable to say when cleanup will be completed nor when train service will be restored. There were no injuries reported, and there was no residential evacuation. Amtrak and a Baltimore-Washington commuter rail service also use the line. ](/news/2016/05/1/in-the-united-states-14-of-175-cars-of-a-csx-freight-train-derail-in-northeastern-washington-d-c-near-a-city-subway-station-there-were.md)
@@ -65,7 +65,7 @@ May Day march organizers are asking participants to remain peaceful while police
 
 ##### 2015-16 Iraqi protests
 ### [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md)
-_Context: Shia, Iraq Prime Minister, cleric, Baghdad, technocrats, Iraqi Parliament, anti-corruption, Muqtada al-Sadr, 2015-16 Iraqi protests, Green Zone, Haider al-Abadi_
+_Context: anti-corruption, Shia, Muqtada al-Sadr, Iraq Prime Minister, Baghdad, technocrats, 2015-16 Iraqi protests, Green Zone, Haider al-Abadi, Iraqi Parliament, cleric_
 
 ##### Puerto Rican government-debt crisis
 ### [Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says debt payments have been suspended in order to pay for essential services for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bond-payment-due-monday-garcaa-padilla.md)

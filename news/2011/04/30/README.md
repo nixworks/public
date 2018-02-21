@@ -13,11 +13,11 @@ Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his cou
 
 ##### Thailand
 ### [Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. ](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.md)
-_Context: Oddar Meanchey Province, Cambodia, Thailand_
+_Context: Cambodia, Oddar Meanchey Province, Thailand_
 
 ##### Morocco
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
-_Context: bomb detonated, Taieb Cherkaoui, Morocco, Marrakech_
+_Context: Taieb Cherkaoui, Morocco, bomb detonated, Marrakech_
 
 ##### Danes
 ### [A study carried out by the Danish Booksellers Association reveals almost one third of Danes over the age of 14 read at least one book annually written in the English language. ](/news/2011/04/30/a-study-carried-out-by-the-danish-booksellers-association-reveals-almost-one-third-of-danes-over-the-age-of-14-read-at-least-one-book-annual.md)

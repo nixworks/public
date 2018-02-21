@@ -13,7 +13,7 @@ DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ##### State Department
 ### [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md)
-_Context: State Department, al-Qaida, Yemen, United States_
+_Context: United States, State Department, al-Qaida, Yemen_
 
 ##### Drug cartel
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
@@ -53,7 +53,7 @@ Hasan, paralyzed from the waist down after being shot by police, is representing
 
 ##### First execution
 ### [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaocnyn-is-executed-in-hanoi.md)
-_Context: Viet Nam, first execution, Hanoi, lethal injection_
+_Context: first execution, Viet Nam, lethal injection, Hanoi_
 
 ##### Tunisia
 ### [Tunisia's constituent assembly is suspended until the Islamist-led Government and secular opposition begin talks to resolve a Political crisis. ](/news/2013/08/6/tunisia-s-constituent-assembly-is-suspended-until-the-islamist-led-government-and-secular-opposition-begin-talks-to-resolve-a-political-cris.md)
@@ -61,7 +61,7 @@ _Context: Tunisia_
 
 ##### Saudi Arabia
 ### [Saudi king Abdullah appoints Prince Sultan bin Salman Al Saud as deputy Defense Minister. ](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.md)
-_Context: Saudi Arabia, Sultan bin Salman Al Saud, Defense Minister, Abdullah_
+_Context: Defense Minister, Saudi Arabia, Abdullah, Sultan bin Salman Al Saud_
 
 ## [Previous Day...](/news/2013/08/5/index.md)
 

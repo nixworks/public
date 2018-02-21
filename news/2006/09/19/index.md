@@ -11,29 +11,29 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ President of Iran Mahmoud Ahmadinejad and President of the United States George W. Bush both speak at the United Nations General Assembly. Ahmadinejad said that Bush's policies in the Middle East were "moving the world toward war." Bush said that "The greatest obstacle to this future is that your (Iranian) rulers have chosen to deny you (the Iranian people) liberty and to use your nation's resources to fund terrorism and fuel extremism and pursue nuclear weapons." ](/news/2006/09/19/president-of-iran-mahmoud-ahmadinejad-and-president-of-the-united-states-george-w-bush-both-speak-at-the-united-nations-general-assembly.md)
 President Bush&#8217;s policies in the Middle East are &#8220;moving the world toward war,&#8221; Iranian President Mahmoud Ahmadinejad said Tuesday in an exclusive interview with &#8220;NBC Nightly News&#8221; anchor Brian Williams.
 
-##### Canadian
+##### Canada
 ### [ A judicial panel in Canada finds that Canadian citizen Maher Arar was falsely accused when he was secretly extradited by the United States to Syria, and that he was tortured there. ](/news/2006/09/19/a-judicial-panel-in-canada-finds-that-canadian-citizen-maher-arar-was-falsely-accused-when-he-was-secretly-extradited-by-the-united-states.md)
 Canadian intelligence officials passed false warnings and bad information to American agents about a Muslim Canadian citizen, after which U.S. authorities secretly whisked him to Syria, where he was tortured, a judicial report found Monday.
 
 ##### Israel
 ### [ Israeli media report an explosion in Tel Aviv. Police spokesman Micky Rosenfeld said the blast appeared to be criminal in nature and not a terrorist attack. ](/news/2006/09/19/israeli-media-report-an-explosion-in-tel-aviv-police-spokesman-micky-rosenfeld-said-the-blast-appeared-to-be-criminal-in-nature-and-not-a.md)
-_Context: Israel, Tel Aviv, criminal, terrorist_
+_Context: criminal, Israel, Tel Aviv, terrorist_
 
 ##### Space Shuttle program
 ### [ The return of the space shuttle "Atlantis" is delayed by one day after a mysterious object is found floating near the shuttle. ](/news/2006/09/19/the-return-of-the-space-shuttle-atlantis-is-delayed-by-one-day-after-a-mysterious-object-is-found-floating-near-the-shuttle.md)
-_Context: Space Shuttle program, Space Shuttle Atlantis_
+_Context: Space Shuttle Atlantis, Space Shuttle program_
 
 ##### Crowds of about 1,000 demonstrators
 ### [ 2006 protests in Hungary: demonstrations continue in Hungary peacefully to enforce the resignation of the Gyurcsny-government. The demonstrators expressed their regret on the vandalism done at the Hungarian Television's headquarters last night. In the meantime, farmers announced that they will close roads in the countryside and around Budapest. ](/news/2006/09/19/2006-protests-in-hungary-demonstrations-continue-in-hungary-peacefully-to-enforce-the-resignation-of-the-gyurcsany-government-the-demonst.md)
-_Context: crowds of about 1,000 demonstrators, Hungarian Television, Hungary, Budapest, Gyurcsny-government_
+_Context: Hungary, Budapest, crowds of about 1,000 demonstrators, Gyurcsny-government, Hungarian Television_
 
 ##### Controversial speech
 ### [ Pope Benedict XVI Islam controversy: In Ankara, protesters demand that the Justice Ministry arrest the Pope upon his arrival in Turkey, should he go ahead with his planned visit there in November. ](/news/2006/09/19/pope-benedict-xvi-islam-controversy-in-ankara-protesters-demand-that-the-justice-ministry-arrest-the-pope-upon-his-arrival-in-turkey-sho.md)
-_Context: controversial speech, Turkey, Ankara_
+_Context: Turkey, controversial speech, Ankara_
 
 ##### Corporal
 ### [ A corporal in the Duke of Lancaster's Regiment becomes the first British soldier to confess to committing a war crime in Iraq, after admitting inhumane treatment of civilians, at a court martial. ](/news/2006/09/19/a-corporal-in-the-duke-of-lancaster-s-regiment-becomes-the-first-british-soldier-to-confess-to-committing-a-war-crime-in-iraq-after-admitt.md)
-_Context: Iraq, Duke of Lancaster's Regiment, corporal, war crime, court martial, United Kingdom_
+_Context: corporal, court martial, Duke of Lancaster's Regiment, United Kingdom, war crime, Iraq_
 
 ## [Previous Day...](/news/2006/09/18/index.md)
 

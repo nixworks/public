@@ -9,7 +9,7 @@ _Context: Mogadishu, Somalia_
 
 ##### Voreqe Bainimarama
 ### [Frank Bainimarama, leader of the 2006 Fijian coup d'tat and current Prime Minister of Fiji, announces that he will retire in 2014. The report is denied by Fiji's Permanent Secretary for Information. ](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.md)
-_Context: Voreqe Bainimarama, coup in 2006, Prime Minister_
+_Context: Prime Minister, coup in 2006, Voreqe Bainimarama_
 
 ##### Britain's Court of Appeal
 ### [The Court of Appeal of England and Wales rules that open air funeral pyres can be accommodated under the 1902 Cremation Act as amended. ](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.md)
@@ -17,15 +17,15 @@ _Context: Britain's Court of Appeal, pyre, 1902 Cremation Act_
 
 ##### Magnitude
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
-_Context: Chicago, United States, magnitude_
+_Context: United States, magnitude, Chicago_
 
 ##### Haiti
 ### [Officials in Haiti state that at least 230,000 people died in the 2010 Haiti earthquake, but that number may yet grow, approaching the 2004 Indian Ocean earthquake as the deadliest natural disaster of the 21st century thus far. ](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.md)
-_Context: Haiti, 2004 Indian Ocean earthquake, 2010 Haiti earthquake_
+_Context: Haiti, 2010 Haiti earthquake, 2004 Indian Ocean earthquake_
 
 ##### Goodluck Jonathan
 ### [Vice President Goodluck Jonathan is appointed acting President of Nigeria in place of Umaru Yar'Adua. ](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.md)
-_Context: President, Goodluck Jonathan, Umaru Yar'Adua_
+_Context: Umaru Yar'Adua, President, Goodluck Jonathan_
 
 ##### Greece
 ### [Nationwide strikes led by Communist and Socialist parties take place in Greece to protest the government's handing of the country's debt. Most of the country was brought to a standstill as factories, schools, airports and hospitals closed down or reduced capacity ](/news/2010/02/10/nationwide-strikes-led-by-communist-and-socialist-parties-take-place-in-greece-to-protest-the-government-s-handing-of-the-country-s-debt-mo.md)

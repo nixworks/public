@@ -13,15 +13,15 @@ Two separate bombings in Kandahar and Kunduz kill at least 10 people, including 
 
 ##### Azerbaijan
 ### [2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. ](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.md)
-_Context: Nagorno-Karabakh region, Azerbaijan_
+_Context: Azerbaijan, Nagorno-Karabakh region_
 
 ##### Tony Blair
 ### [Tony Blair is met with a three-hundred person antiwar demonstration and has a small number of individuals throw objects (shoes, bottles and eggs), and encounters an attempted citizen's arrest for war crimes at Eason's in Dublin, Ireland, at his first public book signing for "A Journey"; four are arrested. Clashes between protesters and police lead to the closure of businesses and the Luas tram system. ](/news/2010/09/4/tony-blair-is-met-with-a-three-hundred-person-antiwar-demonstration-and-has-a-small-number-of-individuals-throw-objects-shoes-bottles-and.md)
 Four people were arrested during minor scuffles between gardaí and anti-war protestors as former British prime minister Tony Blair arrived to sign copies of his autobiography in Dublin.
 
-##### State of emergency
+##### States of emergency
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
-_Context: curfew, 2010 Canterbury earthquake, Christchurch, New Zealand, state of emergency_
+_Context: 2010 Canterbury earthquake, New Zealand, Christchurch, states of emergency, curfew_
 
 ##### Australia
 ### [Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-landslides-blocking-ro.md)
@@ -45,15 +45,15 @@ Two light aircraft collided during an aerial race in England Saturday, killing t
 
 ##### Hurricane Earl
 ### [Former Hurricane Earl loses its tropical storm status after making landfall in Nova Scotia, Canada but left one person dead and a million people without power in Canada. ](/news/2010/09/4/former-hurricane-earl-loses-its-tropical-storm-status-after-making-landfall-in-nova-scotia-canada-but-left-one-person-dead-and-a-million-pe.md)
-_Context: Canadian, Nova Scotia, Hurricane Earl, tropical storm_
+_Context: Hurricane Earl, Canada, Nova Scotia, tropical storm_
 
 ##### DR Congo
 ### [Hundreds of people are believed to have died in the Democratic Republic of the Congo in river boat accidents. ](/news/2010/09/4/hundreds-of-people-are-believed-to-have-died-in-the-democratic-republic-of-the-congo-in-river-boat-accidents.md)
-_Context: DR Congo, river boat_
+_Context: river boat, DR Congo_
 
 ##### Belarus
 ### [A prominent opposition journalist in Belarus, Oleg Bebenin, is found hanged; officials say he committed suicide. ](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.md)
-_Context: Oleg Bebenin, Belarus, suicide_
+_Context: Belarus, suicide, Oleg Bebenin_
 
 ##### Argentina
 ### [A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. ](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.md)
@@ -61,7 +61,7 @@ An Argentine court reopens an investigation into alleged crimes against humanity
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md)
-_Context: Susan Hejrat, Sakineh Mohammadi Ashtiani, adultery, Iran, Times_
+_Context: Sakineh Mohammadi Ashtiani, adultery, Times, Iran, Susan Hejrat_
 
 ##### France
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)
@@ -73,7 +73,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands; Informateur Ivo Opstelten informs Queen Beatrix that the coalition formation between the People's Party for Freedom and Democracy (VVD) and the Christian Democratic Appeal (CDA) with support from the Party for Freedom (PVV) failed, after PVV leader Geert Wilders lost his confidence in the internal stability of the CDA parliamentary group after a letter of criticism was sent by CDA negotiator Ab Klink (CDA). ](/news/2010/09/4/cabinet-formation-in-the-netherlands-informateur-ivo-opstelten-informs-queen-beatrix-that-the-coalition-formation-between-the-people-s-part.md)
-_Context: Ivo Opstelten, Cabinet formation in the Netherlands, Informateur, Beatrix, CDA, VVD, Ab Klink, Geert Wilders, Party for Freedom_
+_Context: CDA, Geert Wilders, Ab Klink, Beatrix, Cabinet formation in the Netherlands, Ivo Opstelten, VVD, Party for Freedom, Informateur_
 
 ## [Previous Day...](/news/2010/09/3/index.md)
 

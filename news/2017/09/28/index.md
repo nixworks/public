@@ -9,7 +9,7 @@ The extremist group released what it said was a new recording of its leader, Abu
 
 ##### Credit card fraud
 ### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
-_Context: Credit card fraud, Amazon, Cybercrime, Whole Foods Market_
+_Context: Credit card fraud, Whole Foods Market, Cybercrime, Amazon_
 
 ##### Atlantic hurricanes
 ### [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md)
@@ -21,7 +21,7 @@ AS BALI’S Mt Agung volcano continues to rumble ominously and more than 96,000 
 
 ##### Rohingya refugee crisis
 ### [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md)
-_Context: Rohingya refugee crisis, Bangladesh, Rohingya, Myanmar_
+_Context: Bangladesh, Myanmar, Rohingya refugee crisis, Rohingya_
 
 ##### Japanese general election, 2017
 ### [Prime Minister Shinzo Abe dissolves the lower house of parliament prior to the October 22 election. ](/news/2017/09/28/prime-minister-shinza-abe-dissolves-the-lower-house-of-parliament-prior-to-the-october-22-election.md)
@@ -29,7 +29,7 @@ Japan’s opposition forces appeared set to consolidate around Tokyo Governor Yu
 
 ##### Secession
 ### [The President of Catalonia vows to continue on with the vote despite objections from Spain. ](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-with-the-vote-despite-objections-from-spain.md)
-_Context: secession, President of the Generalitat of Catalonia, Spain, Catalonia_
+_Context: secession, President of the Generalitat of Catalonia, Catalonia, Spain_
 
 ##### Aftermath of the 2011 Tohoku earthquake and tsunami
 ### [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md)

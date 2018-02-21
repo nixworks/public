@@ -29,11 +29,11 @@ Samsung said on Monday it had temporarily suspended business with one of its sup
 
 ##### Australia
 ### [Shareholders in Australian retailer David Jones Limited agree to accept a $2 billion takeover from South African retailer Woolworths. ](/news/2014/07/14/shareholders-in-australian-retailer-david-jones-limited-agree-to-accept-a-2-billion-takeover-from-south-african-retailer-woolworths.md)
-_Context: David Jones Limited, Woolworths, Australia, South Africa_
+_Context: Australia, David Jones Limited, Woolworths, South Africa_
 
 ##### ''Costa Concordia'' disaster
 ### [Efforts to refloat the Italian cruise ship "Costa Concordia" begin off the coast of Italy two and a half years after it sank. ](/news/2014/07/14/efforts-to-refloat-the-italian-cruise-ship-costa-concordia-begin-off-the-coast-of-italy-two-and-a-half-years-after-it-sank.md)
-_Context: ''Costa Concordia'' disaster, Costa Concordia, cruise ship, Italy, Italian_
+_Context: Costa Concordia, ''Costa Concordia'' disaster, Italian, cruise ship, Italy_
 
 ##### Ebola virus
 ### [The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md)
@@ -41,7 +41,7 @@ _Context: ebola virus, West Africa_
 
 ##### William Hague
 ### [William Hague stands down as the United Kingdom Secretary of State for Foreign and Commonwealth Affairs as part of a cabinet reshuffle by Prime Minister David Cameron. ](/news/2014/07/14/william-hague-stands-down-as-the-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-as-part-of-a-cabinet-reshuffle-by-pr.md)
-_Context: William Hague, Foreign Secretary, United Kingdom, Prime Minister, David Cameron_
+_Context: United Kingdom, William Hague, Prime Minister, Foreign Secretary, David Cameron_
 
 ## [Previous Day...](/news/2014/07/13/index.md)
 

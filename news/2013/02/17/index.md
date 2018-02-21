@@ -17,7 +17,7 @@ Musician faced numerous challenges following the Jan. 13 death of her boyfriend 
 
 ##### Venezuelan government
 ### [Government of Venezuela opens a granite processing plant in the state of Bolivar, with the intention of providing about 25% of the granite required nationwide. ](/news/2013/02/17/government-of-venezuela-opens-a-granite-processing-plant-in-the-state-of-bolavar-with-the-intention-of-providing-about-25-of-the-granite.md)
-_Context: Venezuelan government, Venezuela, granite, Bolivar_
+_Context: granite, Venezuelan government, Venezuela, Bolivar_
 
 ##### Gas explosion
 ### [Five people are killed and eleven are injured, two seriously, when an apartment complex is destroyed by a gas explosion in Frenstat pod Radhostem, Czech Republic. ](/news/2013/02/17/five-people-are-killed-and-eleven-are-injured-two-seriously-when-an-apartment-complex-is-destroyed-by-a-gas-explosion-in-frena-ta-t-pod-ra.md)
@@ -29,11 +29,11 @@ The vote showed the broad popularity of President Rafael Correaâ€™s governmentâ€
 
 ##### Cypriot
 ### [Voters in Cyprus go to the polls for a presidential election with Nicos Anastasiades of the Democratic Rally and Stavros Malas of AKEL to contest a runoff on 24 February. ](/news/2013/02/17/voters-in-cyprus-go-to-the-polls-for-a-presidential-election-with-nicos-anastasiades-of-the-democratic-rally-and-stavros-malas-of-akel-to-co.md)
-_Context: Stavros Malas, second round, 2013 election, Cypriot, Nicos Anastasiades, Democratic Rally, AKEL_
+_Context: Nicos Anastasiades, 2013 election, AKEL, Stavros Malas, Democratic Rally, Cypriot, second round_
 
 ##### Pakistan
 ### [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md)
-_Context: Pakistan, February 2013 Quetta bombing, Shiite, Quetta_
+_Context: February 2013 Quetta bombing, Pakistan, Quetta, Shiite_
 
 ## [Previous Day...](/news/2013/02/16/index.md)
 

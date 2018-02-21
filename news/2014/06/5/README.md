@@ -45,7 +45,7 @@ A gunman opened fire inside a building on the campus of a small university near 
 
 ##### Hip hop
 ### [American hip hop band the Beastie Boys win a $1.7 million copyright violation suit against the makers of Monster Energy drink for unauthorised use of their music in advertising. ](/news/2014/06/5/american-hip-hop-band-the-beastie-boys-win-a-1-7-million-copyright-violation-suit-against-the-makers-of-monster-energy-drink-for-unauthoris.md)
-_Context: hip hop, Monster Energy, Beastie Boys, copyright_
+_Context: Monster Energy, copyright, hip hop, Beastie Boys_
 
 ## [Previous Day...](/news/2014/06/4/index.md)
 

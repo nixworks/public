@@ -33,7 +33,7 @@ Google Inc. and Samsung Electronics Co. joined Chinese mobile phone makers in ex
 
 ##### Microsoft
 ### [Microsoft founder Bill Gates regains the top spot as the world's richest person, according to Forbes magazine's annual ranking of global billionaires. ](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.md)
-_Context: Bill Gates, Microsoft, Forbes_
+_Context: Microsoft, Forbes, Bill Gates_
 
 ##### North Korea
 ### [North Korea announces that it will release Australian Christian missionary John Short on account of his age. ](/news/2014/03/3/north-korea-announces-that-it-will-release-australian-christian-missionary-john-short-on-account-of-his-age.md)
@@ -45,7 +45,7 @@ _Context: Oscar Pistorius, Pretoria_
 
 ##### Victor Ponta
 ### [Romanian Prime Minister Victor Ponta announces the composition of his new government after days of complicated negotiations with main ethnic Hungarian party of Romania. ](/news/2014/03/3/romanian-prime-minister-victor-ponta-announces-the-composition-of-his-new-government-after-days-of-complicated-negotiations-with-main-ethnic.md)
-_Context: main ethnic Hungarian party of Romania, Victor Ponta_
+_Context: Victor Ponta, main ethnic Hungarian party of Romania_
 
 ##### Pithovirus
 ### [Scientists announce the discovery of "pithovirus", the largest giant virus yet known, from a 30,000-year-old sample of frozen tundra. ](/news/2014/03/3/scientists-announce-the-discovery-of-pithovirus-the-largest-giant-virus-yet-known-from-a-30-000-year-old-sample-of-frozen-tundra.md)

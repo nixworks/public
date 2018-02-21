@@ -13,15 +13,15 @@ _Context: crash of Air France Flight 447, Air France, Brazil_
 
 ##### Red shirt
 ### [ Thousands of protestors from the National United Front of Democracy Against Dictatorship call on the government to resign in Bangkok, Thailand. ](/news/2009/06/27/thousands-of-protestors-from-the-national-united-front-of-democracy-against-dictatorship-call-on-the-government-to-resign-in-bangkok-thail.md)
-_Context: red shirt, Thailand, Bangkok, Royal Thai Government_
+_Context: Thailand, Royal Thai Government, red shirt, Bangkok_
 
 ##### Saad Hariri
 ### [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md)
-_Context: Lebanese, Saad Hariri, Prime Minister_
+_Context: Lebanese, Prime Minister, Saad Hariri_
 
 ##### Taliban
 ### [ The Taliban claim responsibility for a suicide attack in Pakistan-administered Kashmir which killed two soldiers. ](/news/2009/06/27/the-taliban-claim-responsibility-for-a-suicide-attack-in-pakistan-administered-kashmir-which-killed-two-soldiers.md)
-_Context: Kashmir, Taliban, Pakistan-administered Kashmir_
+_Context: Kashmir, Pakistan-administered Kashmir, Taliban_
 
 ##### NATO
 ### [ NATO and Russia agree to restore military ties after a 10 month period following the 2008 war in Georgia. ](/news/2009/06/27/nato-and-russia-agree-to-restore-military-ties-after-a-10-month-period-following-the-2008-war-in-georgia.md)

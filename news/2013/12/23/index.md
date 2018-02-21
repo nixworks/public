@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/23/index.html)  [JSON](2013/12/23/index.json)  [XML](201
 
 ##### Pakistani
 ### [The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-accusations-that-dozens-of-civ.md)
-_Context: Taliban, Pakistani_
+_Context: Pakistani, Taliban_
 
 ##### Iraq
 ### [A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)
@@ -33,7 +33,7 @@ _Context: United Kingdom, Denis MacShane_
 
 ##### Tupelo, Mississippi
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)
-_Context: Tupelo, Mississippi, Bancorp South_
+_Context: Bancorp South, Tupelo, Mississippi_
 
 ##### World War II
 ### [British World War II computer pioneer and codebreaker Alan Turing, who had been chemically castrated in 1952 following his conviction for homosexuality, is given a posthumous royal pardon. ](/news/2013/12/23/british-world-war-ii-computer-pioneer-and-codebreaker-alan-turing-who-had-been-chemically-castrated-in-1952-following-his-conviction-for-ho.md)

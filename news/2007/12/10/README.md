@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/10/index.html)  [JSON](2007/12/10/index.json)  [XML](200
 
 ##### Puerto Rico
 ### [ Subtropical Storm Olga forms north of Puerto Rico, ten days after the official end of the 2007 Atlantic hurricane season. The National Hurricane Center forecasts landfall in the Dominican Republic within 24 hours, and Tropical Storm Warnings and Watches have been posted for the northern shore of the nation. ](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.md)
-_Context: Dominican Republic, 2007, National Hurricane Center, Puerto Rico_
+_Context: National Hurricane Center, Dominican Republic, Puerto Rico, 2007_
 
 ##### United States
 ### [ The United States Supreme Court decides that federal district judges have broad discretion to impose what they think are reasonable sentences, even if federal guidelines call for different sentences. The case that they ruled on involved crack cocaine. ](/news/2007/12/10/the-united-states-supreme-court-decides-that-federal-district-judges-have-broad-discretion-to-impose-what-they-think-are-reasonable-sentenc.md)
@@ -17,11 +17,11 @@ _Context: his involvement in a dogfighting ring, Atlanta Falcons, Michael Vick_
 
 ##### Conrad Black
 ### [ Former media tycoon Conrad Black receives a 78-month jail sentence in the United States for mail fraud and obstruction of justice. ](/news/2007/12/10/former-media-tycoon-conrad-black-receives-a-78-month-jail-sentence-in-the-united-states-for-mail-fraud-and-obstruction-of-justice.md)
-_Context: obstruction of justice, mail fraud, United States, Conrad Black_
+_Context: obstruction of justice, United States, mail fraud, Conrad Black_
 
 ##### Russia
 ### [ Russian President Vladimir Putin announces at a party meeting that he will support Dmitry Medvedev as his successor in the March 2008 presidential election. ](/news/2007/12/10/russian-president-vladimir-putin-announces-at-a-party-meeting-that-he-will-support-dmitry-medvedev-as-his-successor-in-the-march-2008-presi.md)
-_Context: Russia, go to the polls, Russian President, Dmitry Medvedev, Vladimir Putin_
+_Context: Russia, Vladimir Putin, Dmitry Medvedev, go to the polls, Russian President_
 
 ## [Previous Day...](/news/2007/12/9/index.md)
 

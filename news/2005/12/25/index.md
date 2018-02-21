@@ -17,15 +17,15 @@ _Context: Japan, Uetsu Main Line_
 
 ##### Joseph Pararajasingham
 ### [ Joseph Pararajasingham, 71, a pro&ndash;Tamil Tiger politician, was shot dead at a Christmas Midnight Mass in Batticaloa, Sri Lanka. ](/news/2005/12/25/joseph-pararajasingham-71-a-pro-ndash-tamil-tiger-politician-was-shot-dead-at-a-christmas-midnight-mass-in-batticaloa-sri-lanka.md)
-_Context: Tamil Tiger, Sri Lanka, Joseph Pararajasingham, Batticaloa_
+_Context: Tamil Tiger, Batticaloa, Sri Lanka, Joseph Pararajasingham_
 
 ##### Nazir Ahmad
 ### [ Nazir Ahmad, a Pakistani laborer, admitted to, and was arrested for murdering his four daughters, aged 4, 8, 12, and 25, after his eldest daughter, Muqadas Bibi, married a man against his wishes. ](/news/2005/12/25/nazir-ahmad-a-pakistani-laborer-admitted-to-and-was-arrested-for-murdering-his-four-daughters-aged-4-8-12-and-25-after-his-eldest-d.md)
-_Context: Pakistan, Nazir Ahmad_
+_Context: Nazir Ahmad, Pakistan_
 
 ##### Libya
 ### [ The Supreme Court in Libya overturned the death sentences given to international health workers charged with infecting children with HIV. ](/news/2005/12/25/the-supreme-court-in-libya-overturned-the-death-sentences-given-to-international-health-workers-charged-with-infecting-children-with-hiv.md)
-_Context: Libya, HIV, death sentences given to international health workers_
+_Context: death sentences given to international health workers, HIV, Libya_
 
 ## [Previous Day...](/news/2005/12/24/index.md)
 

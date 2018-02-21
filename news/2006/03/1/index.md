@@ -13,7 +13,7 @@ The public release of confidential video shot during high-level government brief
 
 ##### Prime Minister
 ### [ Fijian Prime Minister Laisenia Qarase announces that the 2006 general elections will be held in the second week of May, from May 6 to May 13. ](/news/2006/03/1/fijian-prime-minister-laisenia-qarase-announces-that-the-2006-general-elections-will-be-held-in-the-second-week-of-may-from-may-6-to-may-1.md)
-_Context: 2006 general election, Laisenia Qarase, Prime Minister_
+_Context: Laisenia Qarase, Prime Minister, 2006 general election_
 
 ## [Previous Day...](/news/2006/02/28/index.md)
 

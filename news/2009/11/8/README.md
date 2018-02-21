@@ -17,7 +17,7 @@ _Context: El Salvador, floods and mudslides_
 
 ##### 21st summit
 ### [ The 21st summit of APEC begins in Singapore. ](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.md)
-_Context: Asia-Pacific Economic Cooperation, Singapore, 21st summit_
+_Context: 21st summit, Asia-Pacific Economic Cooperation, Singapore_
 
 ##### Suicide attack
 ### [ At least 13 people are killed and at least 35 are injured in a suicide attack in Adezai, Pakistan. ](/news/2009/11/8/at-least-13-people-are-killed-and-at-least-35-are-injured-in-a-suicide-attack-in-adezai-pakistan.md)
@@ -45,15 +45,15 @@ _Context: DR Congo_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes 220-215 to pass the highly debated health care reform act. ](/news/2009/11/8/the-united-states-house-of-representatives-votes-220-215-to-pass-the-highly-debated-health-care-reform-act.md)
-_Context: health care reform act, United States House of Representatives_
+_Context: United States House of Representatives, health care reform act_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
-_Context: Tawang, Arunachal Pradesh, India, 14th Dalai Lama, China_
+_Context: Arunachal Pradesh, India, China, 14th Dalai Lama, Tawang_
 
 ##### Republican
 ### [ Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.md)
-_Context: 2009 gubernatorial election and runoff, Republican, Governor of the Northern Mariana Islands, Heinz Hofschneider, Benigno Fitial, runoff election_
+_Context: 2009 gubernatorial election and runoff, Governor of the Northern Mariana Islands, Republican, Heinz Hofschneider, runoff election, Benigno Fitial_
 
 ## [Previous Day...](/news/2009/11/7/index.md)
 

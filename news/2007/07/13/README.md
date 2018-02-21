@@ -13,7 +13,7 @@ _Context: Conrad Black_
 
 ##### Gran Telescopio Canarias
 ### [ The world's third largest optical telescope, the 10.4m Gran Telescopio Canarias on the island of La Palma, starts its commissioning observations. ](/news/2007/07/13/the-world-s-third-largest-optical-telescope-the-10-4m-gran-telescopio-canarias-on-the-island-of-la-palma-starts-its-commissioning-observa.md)
-_Context: La Palma, Gran Telescopio Canarias_
+_Context: Gran Telescopio Canarias, La Palma_
 
 ##### Indonesia
 ### [ Indonesia and the Philippines agree to expand intelligence sharing with hopes that it will help track down two suspects in the 2002 Bali bombings. ](/news/2007/07/13/indonesia-and-the-philippines-agree-to-expand-intelligence-sharing-with-hopes-that-it-will-help-track-down-two-suspects-in-the-2002-bali-bo.md)
@@ -29,7 +29,7 @@ _Context: Philippines, Luzon_
 
 ##### North Korea
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: United States, Korean peninsula, North Korea_
+_Context: Korean peninsula, North Korea, United States_
 
 ## [Previous Day...](/news/2007/07/12/index.md)
 

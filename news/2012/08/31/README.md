@@ -13,11 +13,11 @@ Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office reports that Sage Stallone died of natural causes. ](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.md)
-_Context: Sage Stallone, Los Angeles County Coroner's Office_
+_Context: Los Angeles County Coroner's Office, Sage Stallone_
 
 ##### Magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: magnitude, Eastern Samar, earthquake, Philippines_
+_Context: Philippines, Eastern Samar, magnitude, earthquake_
 
 ##### Armenia
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)

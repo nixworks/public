@@ -5,23 +5,23 @@ Formats: [HTML](2007/08/18/index.html)  [JSON](2007/08/18/index.json)  [XML](200
 
 ##### Crandall Canyon mine
 ### [ Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. ](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.md)
-_Context: Huntington, Utah, miners, Crandall Canyon mine_
+_Context: Crandall Canyon mine, miners, Huntington, Utah_
 
 ##### Bridge
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
-_Context: Fenghuang, Chinese, bridge_
+_Context: bridge, Chinese, Fenghuang_
 
 ##### Deutsche Bank Building
 ### [ A fire in the former Deutsche Bank Building near New York's Ground Zero kills two firefighters. ](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.md)
-_Context: firefighter, Deutsche Bank Building, New York City, Ground Zero_
+_Context: firefighter, Ground Zero, New York City, Deutsche Bank Building_
 
 ##### Typhoon Sepat
 ### [ Typhoon Sepat makes landfall in the Chinese province of Fujian after nearly a million people have been evacuated. ](/news/2007/08/18/typhoon-sepat-makes-landfall-in-the-chinese-province-of-fujian-after-nearly-a-million-people-have-been-evacuated.md)
-_Context: Fujian, Typhoon Sepat, Chinese_
+_Context: Chinese, Fujian, Typhoon Sepat_
 
 ##### Murder
 ### [ Two more suspects are arrested in relation to a triple murder in a Newark, New Jersey elementary schoolyard. ](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a-triple-murder-in-a-newark-new-jersey-elementary-schoolyard.md)
-_Context: Newark, New Jersey's, elementary school, murder_
+_Context: elementary school, murder, Newark, New Jersey's_
 
 ##### North Korea
 ### [ North Korea launches a flood relief program to help the hundreds of thousands of people left homeless. ](/news/2007/08/18/north-korea-launches-a-flood-relief-program-to-help-the-hundreds-of-thousands-of-people-left-homeless.md)
@@ -33,15 +33,15 @@ At least 16 people have been killed and 30 others wounded in a fierce gun battle
 
 ##### Fire
 ### [ One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. ](/news/2007/08/18/one-person-is-dead-four-people-are-missing-after-a-fire-at-the-penhallow-hotel-in-newquay-cornwall.md)
-_Context: Newquay, fire, Cornish_
+_Context: Cornish, fire, Newquay_
 
 ##### 2007 Peru earthquake
 ### [ Survivors of the 2007 Peru earthquake flee the worst hit areas as looting intensifies. The President of Peru Alan Garca sends another 1,000 troops to the area. ](/news/2007/08/18/survivors-of-the-2007-peru-earthquake-flee-the-worst-hit-areas-as-looting-intensifies-the-president-of-peru-alan-garcia-sends-another-1-00.md)
-_Context: Alan Garca, 2007 Peru earthquake, looting, President_
+_Context: 2007 Peru earthquake, President, Alan Garca, looting_
 
 ##### Maldives
 ### [ Voters in the Maldives go to the polls in a constitutional referendum to decide between a presidential or parliamentary system of government. ](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.md)
-_Context: a constitutional referendum, presidential, parliamentary system, Maldives_
+_Context: Maldives, presidential, parliamentary system, a constitutional referendum_
 
 ##### Kazakhstan
 ### [ Voters in Kazakhstan go to the polls for the Kazakhstani legislative election, 2007. ](/news/2007/08/18/voters-in-kazakhstan-go-to-the-polls-for-the-kazakhstani-legislative-election-2007.md)
@@ -53,7 +53,7 @@ _Context: Pavlof Volcano, Alaska_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md)
-_Context: suicide bomber, Kandahar Province_
+_Context: Kandahar Province, suicide bomber_
 
 ##### Lesser Antilles
 ### [ Hurricane Dean has already claimed three lives in the Lesser Antilles and is due to pass south of Haiti and the Dominican Republic en route to Jamaica where emergency shelters have been opened. ](/news/2007/08/18/hurricane-dean-has-already-claimed-three-lives-in-the-lesser-antilles-and-is-due-to-pass-south-of-haiti-and-the-dominican-republic-en-route.md)
@@ -61,7 +61,7 @@ U.S. President George W. Bush on Saturday approved a pre-landfall emergency decl
 
 ##### Atlas Jet
 ### [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md)
-_Context: Antalya, Cypriot, Nicosia, Turkey, Istanbul, aircraft piracy, Atlas Jet_
+_Context: Istanbul, Atlas Jet, Turkey, Cypriot, aircraft piracy, Antalya, Nicosia_
 
 ##### Coal miner
 ### [ Rescuers race to reach over 180 coal miners trapped in two flooded mines in Shandong province in China. ](/news/2007/08/18/rescuers-race-to-reach-over-180-coal-miners-trapped-in-two-flooded-mines-in-shandong-province-in-china.md)
@@ -69,7 +69,7 @@ Rescuers were battling to reach more than 180 miners trapped by floods in easter
 
 ##### Typhoon Sepat
 ### [ At least one person is dead and thousands evacuated as Typhoon Sepat hits Taiwan. ](/news/2007/08/18/at-least-one-person-is-dead-and-thousands-evacuated-as-typhoon-sepat-hits-taiwan.md)
-_Context: Taiwan, Typhoon Sepat_
+_Context: Typhoon Sepat, Taiwan_
 
 ## [Previous Day...](/news/2007/08/17/index.md)
 

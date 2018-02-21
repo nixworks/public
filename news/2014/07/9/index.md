@@ -17,7 +17,7 @@ _Context: Iraqi insurgency (post-U.S. withdrawal), Baghdad, Iraq_
 
 ##### War in Somalia (2009-present)
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: Al-Shabaab, Somalia, President, War in Somalia (2009-present)_
+_Context: President, War in Somalia (2009-present), Al-Shabaab, Somalia_
 
 ##### Central bank
 ### [Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. ](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.md)
@@ -25,11 +25,11 @@ Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, af
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md)
-_Context: 2014 Pacific typhoon season, Japan, Typhoon Neoguri, Okinawa_
+_Context: Okinawa, Japan, Typhoon Neoguri, 2014 Pacific typhoon season_
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired two short range missiles into the ocean to the east of the Korean Peninsula. ](/news/2014/07/9/south-korea-claims-that-north-korea-has-fired-two-short-range-missiles-into-the-ocean-to-the-east-of-the-korean-peninsula.md)
-_Context: North Korea, Korean Peninsula, South Korea_
+_Context: South Korea, North Korea, Korean Peninsula_
 
 ##### Mayor
 ### [Former Mayor of the American city of New Orleans, Louisiana Ray Nagin (D) is sentenced to ten years in prison for corruption, money laundering and other related offences. ](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.md)

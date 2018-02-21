@@ -9,15 +9,15 @@ No Country For Old Men scoops four awards on the film industry&#039;s night of n
 
 ##### Virgin Atlantic
 ### [ A Virgin Atlantic Boeing 747 becomes the first commercial aircraft to make a flight powered by biofuel flying between Heathrow and Amsterdam. ](/news/2008/02/24/a-virgin-atlantic-boeing-747-becomes-the-first-commercial-aircraft-to-make-a-flight-powered-by-biofuel-flying-between-heathrow-and-amsterda.md)
-_Context: Boeing 747, biofuel, Amsterdam, Heathrow, Virgin Atlantic_
+_Context: Heathrow, biofuel, Virgin Atlantic, Amsterdam, Boeing 747_
 
 ##### Parliament
 ### [ The National Assembly of People's Power unanimously selects Ral Castro to succeed his brother Fidel as President of Cuba. ](/news/2008/02/24/the-national-assembly-of-people-s-power-unanimously-selects-raul-castro-to-succeed-his-brother-fidel-as-president-of-cuba.md)
-_Context: unanimously selects, Parliament, Fidel Castro, President, Ral Castro_
+_Context: President, Fidel Castro, Ral Castro, Parliament, unanimously selects_
 
 ##### Ralph Nader
 ### [ Ralph Nader enters the 2008 United States presidential election as an independent candidate. ](/news/2008/02/24/ralph-nader-enters-the-2008-united-states-presidential-election-as-an-independent-candidate.md)
-_Context: Independent, 2008, enters, Ralph Nader_
+_Context: enters, 2008, Ralph Nader, Independent_
 
 ##### Uganda
 ### [ The Ugandan government and the Lord's Resistance Army sign a permanent ceasefire. ](/news/2008/02/24/the-ugandan-government-and-the-lord-s-resistance-army-sign-a-permanent-ceasefire.md)
@@ -25,7 +25,7 @@ _Context: Uganda, Lord's Resistance Army_
 
 ##### Cypriot presidential election, 2008
 ### [ Cypriot presidential election, 2008: Demetris Christofias is elected President of Cyprus, defeating Ioannis Kasoulidis. ](/news/2008/02/24/cypriot-presidential-election-2008-demetris-christofias-is-elected-president-of-cyprus-defeating-ioannis-kasoulidis.md)
-_Context: President, Cypriot presidential election, 2008, Ioannis Kasoulidis, Christofias_
+_Context: Cypriot presidential election, 2008, President, Ioannis Kasoulidis, Christofias_
 
 ##### Pakistan
 ### [ Pakistani censors cause most of the Earth's Internet users to lose access to the Internet site YouTube for up to two hours. ](/news/2008/02/24/pakistani-censors-cause-most-of-the-earth-s-internet-users-to-lose-access-to-the-internet-site-youtube-for-up-to-two-hours.md)
@@ -33,7 +33,7 @@ _Context: Pakistan, YouTube_
 
 ##### Tottenham Hotspur Football Club
 ### [ Tottenham Hotspur Football Club win the 2008 League Cup after beating Chelsea F.C. 2-1 after extra time. ](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.md)
-_Context: Tottenham Hotspur Football Club, League Cup, Chelsea F.C._
+_Context: Chelsea F.C., Tottenham Hotspur Football Club, League Cup_
 
 ## [Previous Day...](/news/2008/02/23/index.md)
 

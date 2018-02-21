@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-us
 
 ### [2009-04-18](/news/2009/04/18/index.md)
 
-##### Canadian
+##### Canada
 #  Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. 
 
 

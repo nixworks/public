@@ -11,13 +11,13 @@ At least three people are killed and more than 100 injured, some seriously, in t
 ### [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md)
 Officials say at least 31 people have been killed and more than 200 others wounded in a series of early morning explosions across Iraq.
 
-##### Canadian
+##### Canada
 ### [Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-student-was-part-of-the-mogadishu-sui.md)
-_Context: Canadian, security forces, Somalia, suicide bombings, Mogadishu, York University_
+_Context: Canada, Mogadishu, Somalia, suicide bombings, York University, security forces_
 
 ##### Lion Air
 ### [The pilot and co-pilot of a Lion Air plane that crashed at Ngurah Rai International Airport in Bali, Indonesia, pass initial drug tests, as investigators probe the causes of the accident that left dozens injured. ](/news/2013/04/15/the-pilot-and-co-pilot-of-a-lion-air-plane-that-crashed-at-ngurah-rai-international-airport-in-bali-indonesia-pass-initial-drug-tests-as.md)
-_Context: drug test, Bali, Indonesia, Ngurah Rai International Airport, crashed, Lion Air_
+_Context: Bali, Lion Air, Indonesia, crashed, Ngurah Rai International Airport, drug test_
 
 ##### BBC
 ### [BBC says that an edition of "Panorama" filmed secretly on a university study trip to North Korea will be broadcast, despite claims by the London School of Economics that students may have been put in danger. ](/news/2013/04/15/bbc-says-that-an-edition-of-panorama-filmed-secretly-on-a-university-study-trip-to-north-korea-will-be-broadcast-despite-claims-by-the-lo.md)
@@ -25,7 +25,7 @@ The BBC says an edition of Panorama filmed secretly on a study trip to North Kor
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. ](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.md)
-_Context: Raoul Wallenberg, Australian Prime Minister, Australia, Sweden, honorary Australian citizen, Julia Gillard_
+_Context: Sweden, Australian Prime Minister, Australia, honorary Australian citizen, Julia Gillard, Raoul Wallenberg_
 
 ##### Territorial row
 ### [A hearing into the territorial row between Thailand and Cambodia begins at the International Court of Justice in The Hague. ](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.md)

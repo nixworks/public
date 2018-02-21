@@ -9,7 +9,7 @@ _Context: Sirte, Muammar Gaddafi, National Transitional Council, civil war_
 
 ##### President of Indonesia
 ### [The President of Indonesia, Susilo Bambang Yudhoyono, orders the National Police's Detachment 88 counter-terrorism squad to investigate a recent suicide bombing in Solo, Java. ](/news/2011/09/26/the-president-of-indonesia-susilo-bambang-yudhoyono-orders-the-national-police-s-detachment-88-counter-terrorism-squad-to-investigate-a-re.md)
-_Context: counter-terrorism, Detachment 88, suicide bombing, Indonesian National Police, Susilo Bambang Yudhoyono, President of Indonesia, Solo, Java_
+_Context: Indonesian National Police, counter-terrorism, Detachment 88, suicide bombing, President of Indonesia, Solo, Java, Susilo Bambang Yudhoyono_
 
 ##### Dead Sea Scrolls
 ### [Some of the Dead Sea Scrolls are published online in a joint project between Israel's national museum and Google. ](/news/2011/09/26/some-of-the-dead-sea-scrolls-are-published-online-in-a-joint-project-between-israel-s-national-museum-and-google.md)
@@ -21,11 +21,11 @@ Asian stocks fell, sending the MSCI Asia Pacific Index to the lowest level since
 
 ##### Philippines
 ### [More than 100,000 people in the Philippines are evacuated ahead of Typhoon Nesat, with Albay province lying directly in the storm's pathway. ](/news/2011/09/26/more-than-100-000-people-in-the-philippines-are-evacuated-ahead-of-typhoon-nesat-with-albay-province-lying-directly-in-the-storm-s-pathway.md)
-_Context: 2011 Pacific typhoon season, Philippines, Albay Province_
+_Context: Philippines, Albay Province, 2011 Pacific typhoon season_
 
 ##### Tuvalu
 ### [Tuvaluan Prime Minister Willy Telavi signs an agreement to establish diplomatic relations with Abkhazia during an official visit to Sukhumi. ](/news/2011/09/26/tuvaluan-prime-minister-willy-telavi-signs-an-agreement-to-establish-diplomatic-relations-with-abkhazia-during-an-official-visit-to-sukhumi.md)
-_Context: Prime Minister of Tuvalu, Willy Telavi, diplomatic relations, Sukhumi, Tuvalu, Abkhazia_
+_Context: Sukhumi, Willy Telavi, Prime Minister of Tuvalu, diplomatic relations, Tuvalu, Abkhazia_
 
 ##### Terrorism
 ### [Six people appear in court on terrorism charges, a week after being arrested in the English city of Birmingham. ](/news/2011/09/26/six-people-appear-in-court-on-terrorism-charges-a-week-after-being-arrested-in-the-english-city-of-birmingham.md)
@@ -41,11 +41,11 @@ Student protesters in Auckland have returned to the university for pizza and a f
 
 ##### Kenya
 ### [Kenyan Nobel Peace Prize laureate Wangari Maathai dies while undergoing cancer treatment at the age of 71. ](/news/2011/09/26/kenyan-nobel-peace-prize-laureate-wangari-maathai-dies-while-undergoing-cancer-treatment-at-the-age-of-71.md)
-_Context: Wangari Maathai, Nobel Peace Prize, cancer, Kenya_
+_Context: Kenya, Wangari Maathai, Nobel Peace Prize, cancer_
 
 ##### Labour Party
 ### [The British Labour Party votes to scrap the tradition of Shadow Cabinet elections at their annual conference in Liverpool. ](/news/2011/09/26/the-british-labour-party-votes-to-scrap-the-tradition-of-shadow-cabinet-elections-at-their-annual-conference-in-liverpool.md)
-_Context: Shadow Cabinet, Labour Party, Liverpool, elections, annual conference_
+_Context: Shadow Cabinet, Labour Party, elections, Liverpool, annual conference_
 
 ##### United States Senate
 ### [The United States Senate reaches a temporary deal to avoid a government shutdown. ](/news/2011/09/26/the-united-states-senate-reaches-a-temporary-deal-to-avoid-a-government-shutdown.md)
@@ -53,7 +53,7 @@ FEMA now says money could last through the week
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md)
-_Context: Prime Minister, general election, Spanish Parliament, Jos Luis Rodrguez Zapatero_
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, general election, Spanish Parliament_
 
 ## [Previous Day...](/news/2011/09/25/index.md)
 

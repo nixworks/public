@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-afte
 
 ### [2010-11-17](/news/2010/11/17/index.md)
 
-##### State of emergency
+##### States of emergency
 # A state of emergency is declared in Guinea after post election violence. 
 
 

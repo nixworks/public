@@ -9,7 +9,7 @@ Turkey&#39;s prime minister has announced an end to the operation known as &quot
 
 ##### Iraqi Civil War (2014-present)
 ### [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md)
-_Context: Baghdad, Iraqi Civil War (2014-present), car bomb_
+_Context: Iraqi Civil War (2014-present), car bomb, Baghdad_
 
 ##### Swedish Academy
 ### [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md)
@@ -29,7 +29,7 @@ The Hawaii federal judge who brought President Trump&apos;s revised travel ban t
 
 ##### Brexit
 ### [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md)
-_Context: United Kingdom, Brexit, European Atomic Energy Community, European Union, European Council_
+_Context: United Kingdom, European Atomic Energy Community, European Council, Brexit, European Union_
 
 ##### Last month's presidential election
 ### [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md)

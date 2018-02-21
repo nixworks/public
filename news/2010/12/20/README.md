@@ -5,11 +5,11 @@ Formats: [HTML](2010/12/20/index.html)  [JSON](2010/12/20/index.json)  [XML](201
 
 ##### Somalia
 ### [7 people are killed in a roadside bomb and shooting incident in the Somali capital Mogadishu. ](/news/2010/12/20/7-people-are-killed-in-a-roadside-bomb-and-shooting-incident-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### Kenya
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
-_Context: Kenya, Nairobi, Somali_
+_Context: Kenya, Somali, Nairobi_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)
@@ -17,7 +17,7 @@ South Korea holds live-firing exercises on an island close to the border with No
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Taliban, Kabul, Afghan_
+_Context: Afghan, Kabul, Taliban_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
@@ -25,7 +25,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Social network
 ### [Social network chief Mark Zuckerberg is photographed meeting CEO of Chinese search engine Baidu Robin Li, in Beijing, China. ](/news/2010/12/20/social-network-chief-mark-zuckerberg-is-photographed-meeting-ceo-of-chinese-search-engine-baidu-robin-li-in-beijing-china.md)
-_Context: search engine, Robin Li, Social network, Beijing, Mark Zuckerberg, Baidu_
+_Context: search engine, Mark Zuckerberg, Beijing, Social network, Baidu, Robin Li_
 
 ##### European Central Bank
 ### [The European Central Bank worries about its ability to provide further financial assistance to eurozone members due to flawed legislation. ](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.md)
@@ -45,7 +45,7 @@ The death toll from the Christmas Island shipwreck could rise as high as 50, Pri
 
 ##### Thailand
 ### [At least 26 people are killed and several others are injured when a bus carrying tourists from Thailand overturns in Malaysia. ](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.md)
-_Context: Thailand, Malaysia_
+_Context: Malaysia, Thailand_
 
 ##### Nairobi
 ### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
@@ -61,11 +61,11 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, United States, IAEA, United Nations, North Korea_
+_Context: IAEA, Bill Richardson, United Nations, United States, North Korea_
 
 ##### Israel
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
-_Context: Palestine, Israel, UN_
+_Context: Israel, UN, Palestine_
 
 ##### Russia
 ### [Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. ](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.md)
@@ -81,7 +81,7 @@ _Context: Indonesia_
 
 ##### David Paterson
 ### [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md)
-_Context: New York Governor, New York Yankees, David Paterson, lobbyist_
+_Context: David Paterson, New York Governor, lobbyist, New York Yankees_
 
 ##### Iranian director
 ### [Iranian director Jafar Panahi is sentenced to six years imprisonment for making a film "against the regime." ](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.md)

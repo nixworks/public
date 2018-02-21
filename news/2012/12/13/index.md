@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/13/index.html)  [JSON](2012/12/13/index.json)  [XML](201
 
 ##### Russia
 ### [Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/russia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-citizens-from-syria.md)
-_Context: Foreign Ministry, Syrian National Coalition, Russia, Syria, Syrian government_
+_Context: Syrian National Coalition, Syria, Syrian government, Foreign Ministry, Russia_
 
 ##### West Bank
 ### [Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/five-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-forces.md)
@@ -13,11 +13,11 @@ Five injured in West Bank clashes between Palestinian youths and Israeli soldier
 
 ##### Japan
 ### [Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/japan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-first-time-aircraft-are-invo.md)
-_Context: aircraft, fighter jets, Chinese, Japan, Senkaku Islands, Senkaku Islands dispute_
+_Context: Japan, Senkaku Islands dispute, Senkaku Islands, aircraft, Chinese, fighter jets_
 
 ##### The Tallow Candle
 ### ["The Tallow Candle", an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
-_Context: The Tallow Candle, Hans Christian Andersen, Denmark_
+_Context: Denmark, Hans Christian Andersen, The Tallow Candle_
 
 ##### Mark Rothko
 ### [Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years in the UK. ](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.md)
@@ -33,11 +33,11 @@ Labour Chairman and TD Colm Keaveney is to be expelled from the parliamentary pa
 
 ##### Chief federal prosecutors
 ### [Prosecutors ask a judge of the Manhattan federal district court to sentence Peter Madoff, brother and co-conspirator of infamous scammer Bernard Madoff, to a sentence of ten years. ](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federal-district-court-to-sentence-peter-madoff-brother-and-co-conspirator-of-infamous-scammer-ber.md)
-_Context: Peter Madoff, chief federal prosecutors, Bernard Madoff, judge, U.S. District Judge, Manhattan_
+_Context: judge, Manhattan, chief federal prosecutors, Peter Madoff, Bernard Madoff, U.S. District Judge_
 
 ##### Tropical
 ### [Tropical Cyclone Evan makes landfall near the Samoan capital Apia causing at least two deaths and the declaration of a state of disaster. ](/news/2012/12/13/tropical-cyclone-evan-makes-landfall-near-the-samoan-capital-apia-causing-at-least-two-deaths-and-the-declaration-of-a-state-of-disaster.md)
-_Context: Apia, landfall, Samoa, Tropical, Cyclone Evan_
+_Context: landfall, Apia, Tropical, Cyclone Evan, Samoa_
 
 ##### Philippines
 ### [The death toll in the Philippines from Typhoon Bopha rises over 900 with hundreds still unaccounted for. ](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.md)
@@ -65,7 +65,7 @@ Avigdor Lieberman charged with fraud and breach of trust but cleared of more ser
 
 ##### Bosnian
 ### [Former Bosnian intelligence chief Zdravko Tolimir, believed to be a top aide to Ratko Mladic, is sentenced to life imprisonment by ICTY for his role in the Srebrenica massacre. ](/news/2012/12/13/former-bosnian-intelligence-chief-zdravko-tolimir-believed-to-be-a-top-aide-to-ratko-mladia-is-sentenced-to-life-imprisonment-by-icty-for.md)
-_Context: life imprisonment, International Criminal Tribunal for the former Yugoslavia, Bosnian, Ratko Mladic, Srebrenica massacre, Zdravko Tolimir_
+_Context: Bosnian, life imprisonment, Zdravko Tolimir, International Criminal Tribunal for the former Yugoslavia, Srebrenica massacre, Ratko Mladic_
 
 ##### Ambassador to the United Nations
 ### [U.S. Ambassador to the United Nations Susan Rice withdraws her name from consideration to be nominated U.S. Secretary of State, following increasing opposition to her nomination by Republican members of the Senate. ](/news/2012/12/13/u-s-ambassador-to-the-united-nations-susan-rice-withdraws-her-name-from-consideration-to-be-nominated-u-s-secretary-of-state-following-in.md)
@@ -73,7 +73,7 @@ Susan Rice has withdrawn her name for consideration to be nominated for secretar
 
 ##### Bangladesh
 ### [The Bangladeshi Opposition calls a general strike over restoration of a caretaker administration with reports of explosions and clashes between police and protesters in the capital Dhaka. ](/news/2012/12/13/the-bangladeshi-opposition-calls-a-general-strike-over-restoration-of-a-caretaker-administration-with-reports-of-explosions-and-clashes-betw.md)
-_Context: Bangladesh, Dhaka, general strike_
+_Context: general strike, Bangladesh, Dhaka_
 
 ##### Parliamentary Commissioner for Standards
 ### [Britain's Parliamentary Commissioner for Standards launches an investigation into expenses claimed by British Culture Secretary Maria Miller. ](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.md)
@@ -81,15 +81,15 @@ David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&qu
 
 ##### 10 Downing Street
 ### [The British government pays GBP2.23 million to the family of Sami al-Saadi, who with his wife and young children, was abducted with the help of MI-6, forced onto a plane and secretly flown to Tripoli, where he was tortured for years by the security police of the former dictator Muammar Gaddafi. ](/news/2012/12/13/the-british-government-pays-agbp2-23-million-to-the-family-of-sami-al-saadi-who-with-his-wife-and-young-children-was-abducted-with-the-hel.md)
-_Context: 10 Downing Street, MI-6, Tripoli, Muammar Gaddafi_
+_Context: Muammar Gaddafi, Tripoli, 10 Downing Street, MI-6_
 
 ##### North Korea
 ### [North Korea's first satellite successfully put into orbit, Kwangmyongsong-3 Unit 2, appears to be spinning out of control, according to U.S. officials. South Korean sources later deny the report, saying the satellite appears to be orbiting Earth normally. ](/news/2012/12/13/north-korea-s-first-satellite-successfully-put-into-orbit-kwangmyangsang-3-unit-2-appears-to-be-spinning-out-of-control-according-to-u.md)
-_Context: orbit, U.S., North Korea, first, successfully, Earth, rocket launch, South Korea, satellite_
+_Context: Earth, satellite, first, North Korea, orbit, rocket launch, U.S., South Korea, successfully_
 
 ##### U.S.
 ### [U.S. space agency NASA admits it posted online a photograph taken from the International Space Station of an Indian mountain Saser Muztagh, claiming it as Mount Everest. With Nepalese netizens left puzzled by this, it took a Nepalese expert to point out the agency's inaccuracy. ](/news/2012/12/13/u-s-space-agency-nasa-admits-it-posted-online-a-photograph-taken-from-the-international-space-station-of-an-indian-mountain-saser-muztagh.md)
-_Context: netizen, India, photograph, International Space Station, Saser Muztagh, Mount Everest, U.S., NASA, Nepal_
+_Context: Saser Muztagh, U.S., India, photograph, International Space Station, Nepal, netizen, Mount Everest, NASA_
 
 ## [Previous Day...](/news/2012/12/12/index.md)
 

@@ -13,7 +13,7 @@ Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;w
 
 ##### Gurkha
 ### [Gurkha leader Madan Tamang is stabbed to death by a mob at the start a public meeting in West Bengal. ](/news/2010/05/21/gurkha-leader-madan-tamang-is-stabbed-to-death-by-a-mob-at-the-start-a-public-meeting-in-west-bengal.md)
-_Context: West Bengal, Gurkha, Madan Tamang_
+_Context: Gurkha, West Bengal, Madan Tamang_
 
 ##### Niger
 ### [Nigeriens flee across the border into Nigeria due to a food crisis in Niger. ](/news/2010/05/21/nigeriens-flee-across-the-border-into-nigeria-due-to-a-food-crisis-in-niger.md)
@@ -21,7 +21,7 @@ _Context: Niger, Nigeria_
 
 ##### Delhi High Court
 ### [Delhi High Court acquits three accused in a 1984 anti-Sikh riots case at Shastri Nagar in North Delhi following the assassination of Prime Minister Indira Gandhi on October 31, 1984. ](/news/2010/05/21/delhi-high-court-acquits-three-accused-in-a-1984-anti-sikh-riots-case-at-shastri-nagar-in-north-delhi-following-the-assassination-of-prime-m.md)
-_Context: Indian Prime Minister, North Delhi, Delhi High Court, Indira Gandhi_
+_Context: Indira Gandhi, Indian Prime Minister, Delhi High Court, North Delhi_
 
 ##### Al Khalis
 ### [At least 22 people are killed and at least 53 others are injured after a car bomb explodes at a market in Al Khalis, Diyala in Iraq. ](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.md)
@@ -37,11 +37,11 @@ Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-yea
 
 ##### Kaziranga National Park
 ### [Guards at the Kaziranga National Park (KNP) near Guwahati intercept and kill four poachers in the most successful operation ever against poachers in the northeast of India. ](/news/2010/05/21/guards-at-the-kaziranga-national-park-knp-near-guwahati-intercept-and-kill-four-poachers-in-the-most-successful-operation-ever-against-poa.md)
-_Context: Guwahati, Kaziranga National Park, India_
+_Context: Kaziranga National Park, India, Guwahati_
 
 ##### Special Court for Sierra Leone
 ### [Prosecutors of the Special Court for Sierra Leone request United Nations judges to force supermodel Naomi Campbell to testify over allegations that she received a blood diamond from the former President of Liberia Charles Taylor. ](/news/2010/05/21/prosecutors-of-the-special-court-for-sierra-leone-request-united-nations-judges-to-force-supermodel-naomi-campbell-to-testify-over-allegatio.md)
-_Context: Special Court for Sierra Leone, Naomi Campbell, President of Liberia, Charles Taylor, blood diamond, United Nations_
+_Context: Naomi Campbell, Special Court for Sierra Leone, United Nations, President of Liberia, blood diamond, Charles Taylor_
 
 ##### Taliban
 ### [Taliban and Afghan government representatives meet for unofficial talks in the Maldives. ](/news/2010/05/21/taliban-and-afghan-government-representatives-meet-for-unofficial-talks-in-the-maldives.md)
@@ -53,7 +53,7 @@ _Context: Indian Hockey Federation_
 
 ##### South Africa
 ### [A bid is unsuccessful by South Africa's Jamiatul Ulama Transvaal to stop the publication of Jonathan Shapiro's cartoon of Muhammad on a psychiatrist's couch bemoaning his followers' sense of humour failure. ](/news/2010/05/21/a-bid-is-unsuccessful-by-south-africa-s-jamiatul-ulama-transvaal-to-stop-the-publication-of-jonathan-shapiro-s-cartoon-of-muhammad-on-a-psyc.md)
-_Context: Jonathan Shapiro, Muhammad, South Africa, Jamiatul Ulama Transvaal_
+_Context: Jonathan Shapiro, South Africa, Jamiatul Ulama Transvaal, Muhammad_
 
 ##### Rapti
 ### [Six girls aged between eight and twelve years drown in the Rapti in Balrampur while bathing. ](/news/2010/05/21/six-girls-aged-between-eight-and-twelve-years-drown-in-the-rapti-in-balrampur-while-bathing.md)

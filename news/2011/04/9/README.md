@@ -9,7 +9,7 @@ Gaddafi forces reportedly attacking eastern town of Ajdabiya as fighters are als
 
 ##### Laurent Gbagbo
 ### [Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md)
-_Context: Laurent Gbagbo, Abidjan_
+_Context: Abidjan, Laurent Gbagbo_
 
 ##### Tahrir Square
 ### [The Egyptian Army initiates a fatal crackdown in Tahrir Square, Cairo, on people protesting that ousted president Hosni Mubarak be prosecuted for corruption. ](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.md)
@@ -25,11 +25,11 @@ _Context: Valliere, ETA_
 
 ##### U.S
 ### [U.S movie director Sidney Lumet dies in Manhattan.](/news/2011/04/9/u-s-movie-director-sidney-lumet-dies-in-manhattan.md)
-_Context: Sidney Lumet, Manhattan, U.S_
+_Context: Sidney Lumet, U.S, Manhattan_
 
 ##### Tornado
 ### [A tornado hits in Iowa's Monona County in the midwestern United States. ](/news/2011/04/9/a-tornado-hits-in-iowa-s-monona-county-in-the-midwestern-united-states.md)
-_Context: tornado, midwestern, Monona County, Iowa_
+_Context: Monona County, midwestern, tornado, Iowa_
 
 ##### Australia
 ### [Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. ](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.md)
@@ -53,7 +53,7 @@ THE broadcasting of a young cadet having sex at the Australian Defence Force Aca
 
 ##### Ismael Omar Guelleh
 ### [Ismael Omar Guelleh is re-elected as President of Djibouti. ](/news/2011/04/9/ismael-omar-guelleh-is-re-elected-as-president-of-djibouti.md)
-_Context: re-elected, Ismael Omar Guelleh, Djibouti_
+_Context: Djibouti, Ismael Omar Guelleh, re-elected_
 
 ##### Iceland
 ### [Icelanders vote in a referendum on a renegotiated compensation deal with Britain and the Netherlands over the collapsed Icesave bank. ](/news/2011/04/9/icelanders-vote-in-a-referendum-on-a-renegotiated-compensation-deal-with-britain-and-the-netherlands-over-the-collapsed-icesave-bank.md)

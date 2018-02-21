@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/31/index.html)  [JSON](2016/08/31/index.json)  [XML](201
 
 ##### Mother Teresa
 ### [Mother Teresa of Calcutta is to be canonized into sainthood after "proof" of two miracles. ](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-into-sainthood-after-proof-of-two-miracles.md)
-_Context: Mother Teresa, Calcutta_
+_Context: Calcutta, Mother Teresa_
 
 ##### Prime Minister of Japan
 ### [Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. ](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.md)
@@ -17,11 +17,11 @@ Twelve people are taken to hospital after transatlantic turbulence prompts an em
 
 ##### Typhoon Lionrock
 ### [At least two rivers break embankments, causing floods on the northern Japanese island of Hokkaido. Operations are underway to rescue 400 stranded people. On Honshu Island, at least 11 people, including nine elderly from a nursing home, have died. ](/news/2016/08/31/at-least-two-rivers-break-embankments-causing-floods-on-the-northern-japanese-island-of-hokkaido-operations-are-underway-to-rescue-400-str.md)
-_Context: Typhoon Lionrock, Japan, Honshu Island, Hokkaido_
+_Context: Typhoon Lionrock, Hokkaido, Honshu Island, Japan_
 
 ##### Tropical Storm Hermine
 ### [The National Hurricane Center declares a hurricane watch and tropical storm warning from the Anclote River, north of Tampa, to Destin, Florida, near the Georgia border. Hermine, now at 45 mph (75 km), is expected to reach hurricane strength when it makes landfall Thursday afternoon. Florida Governor Rick Scott, with life-threatening flooding forecast, declares a state of emergency. ](/news/2016/08/31/the-national-hurricane-center-declares-a-hurricane-watch-and-tropical-storm-warning-from-the-anclote-river-north-of-tampa-to-destin-flori.md)
-_Context: Destin, Florida, Tampa, Florida, Anclote River, Florida Governor, Rick Scott, Tropical Storm Hermine, National Hurricane Center, Georgia_
+_Context: Tropical Storm Hermine, National Hurricane Center, Rick Scott, Destin, Florida, Florida Governor, Tampa, Florida, Georgia, Anclote River_
 
 ##### Russian Mission, Alaska
 ### [At least five people are killed after two small planes collide near Russian Mission, Alaska. Officials from the Alaska Army National Guard say the planes involved were a Cessna 208 Caravan and a Piper PA-18 Super Cub. ](/news/2016/08/31/at-least-five-people-are-killed-after-two-small-planes-collide-near-russian-mission-alaska-officials-from-the-alaska-army-national-guard-s.md)
@@ -33,7 +33,7 @@ The Silicon Valley blood-testing company suffers another setback
 
 ##### Cuba-United States relations
 ### [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md)
-_Context: United States-Cuban Thaw, United States, Secretary of Transportation, Cuba, JetBlue, Anthony Foxx, Santa Clara, Villa Clara, Fort Lauderdale, Florida, Cuba-United States relations_
+_Context: Santa Clara, Cuba, United States, Cuba-United States relations, United States-Cuban Thaw, JetBlue, Villa Clara, Anthony Foxx, Secretary of Transportation, Fort Lauderdale, Florida_
 
 ##### Philippines
 ### [The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-china-sea.md)
@@ -41,7 +41,7 @@ MANILA -- China must cease all provocations in the South China Sea before the Ph
 
 ##### Mexico-United States relations
 ### [U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexico-city-after-accepting-an-invitat.md)
-_Context: Mexico-United States relations, Donald Trump, President of Mexico, Republican, Mexico City, Enrique Pena Nieto, 2016 U.S. election_
+_Context: 2016 U.S. election, Republican, Donald Trump, President of Mexico, Mexico City, Mexico-United States relations, Enrique Pena Nieto_
 
 ##### Chris Brown
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
@@ -65,7 +65,7 @@ Myanmar begins a historic peace conference on Wednesday, with the aim of ending 
 
 ##### Turkish interior ministry
 ### [Turkish Interior Minister Efkan Ala resigns amid criticism over his handling of a string of ISIL and PKK terror attacks, and is replaced by Suleyman Soylu. ](/news/2016/08/31/turkish-interior-minister-efkan-ala-resigns-amid-criticism-over-his-handling-of-a-string-of-isil-and-pkk-terror-attacks-and-is-replaced-by.md)
-_Context: Suleyman Soylu, Efkan Ala, Turkish interior ministry, Kurdistan Workers' Party, ISIL_
+_Context: Turkish interior ministry, ISIL, Kurdistan Workers' Party, Efkan Ala, Suleyman Soylu_
 
 ##### African elephants
 ### [The population of African elephants have fallen by about 30% between 2007 and 2014. ](/news/2016/08/31/the-population-of-african-elephants-have-fallen-by-about-30-between-2007-and-2014.md)
@@ -77,7 +77,7 @@ In Hollywood lore, pterosaurs are humongous, fearsome animals, capable of swoopi
 
 ##### Fossil
 ### [The oldest fossil (stromatolite) that had life is discovered in the melting snow at the Isua Greenstone Belt of Greenland. ](/news/2016/08/31/the-oldest-fossil-stromatolite-that-had-life-is-discovered-in-the-melting-snow-at-the-isua-greenstone-belt-of-greenland.md)
-_Context: life, Greenland, stromatolite, fossil, Isua Greenstone Belt_
+_Context: Isua Greenstone Belt, stromatolite, Greenland, fossil, life_
 
 ## [Previous Day...](/news/2016/08/30/index.md)
 

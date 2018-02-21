@@ -73,7 +73,7 @@ Ethnically diverse ministers include 15 men and 15 women as new prime minister h
 
 ##### Belizean general election, 2015
 ### [Voters in Belize go to the polls with the United Democratic Party led by Dean Barrow hoping for a third consecutive term. ](/news/2015/11/4/voters-in-belize-go-to-the-polls-with-the-united-democratic-party-led-by-dean-barrow-hoping-for-a-third-consecutive-term.md)
-_Context: United Democratic Party, Dean Barrow, Belize, Belizean general election, 2015_
+_Context: United Democratic Party, Belizean general election, 2015, Dean Barrow, Belize_
 
 ## [Previous Day...](/news/2015/11/3/index.md)
 

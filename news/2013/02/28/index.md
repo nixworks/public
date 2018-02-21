@@ -9,7 +9,7 @@ Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin
 
 ##### 2013 Rishon LeZion car bombing
 ### [2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv-israel.md)
-_Context: Israel, 2013 Rishon LeZion car bombing, Rishon LeZion, Tel Aviv, car bombing_
+_Context: Tel Aviv, Israel, 2013 Rishon LeZion car bombing, car bombing, Rishon LeZion_
 
 ##### United States
 ### [The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
@@ -25,7 +25,7 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 
 ##### Cannes Film Festival
 ### [The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. ](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.md)
-_Context: Cannes Film Festival, 2013 Cannes Film Festival, Steven Spielberg_
+_Context: Steven Spielberg, 2013 Cannes Film Festival, Cannes Film Festival_
 
 ##### United States
 ### [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md)
@@ -69,11 +69,11 @@ Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilt
 
 ##### Parliament
 ### [Parliament of Slovenia ousts Prime Minister Janez Jansa amid corruption allegations. Opposition leader Alenka Bratusek is tasked to form a new government. ](/news/2013/02/28/parliament-of-slovenia-ousts-prime-minister-janez-jana-a-amid-corruption-allegations-opposition-leader-alenka-bratua-ek-is-tasked-to-form-a.md)
-_Context: Parliament, Janez Jansa, Slovenia, Alenka Bratusek, Prime Minister of Slovenia_
+_Context: Alenka Bratusek, Prime Minister of Slovenia, Parliament, Janez Jansa, Slovenia_
 
 ##### Haruhiko Kuroda
 ### [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md)
-_Context: Prime Minister of Japan, Bank of Japan, Japan, Haruhiko Kuroda, Shinzo Abe_
+_Context: Haruhiko Kuroda, Prime Minister of Japan, Japan, Shinzo Abe, Bank of Japan_
 
 ##### Eastleigh by-election
 ### [Voters go to the polls in the Eastleigh by-election following the resignation of former UK Cabinet Minister Chris Huhne with Liberal Democrat candidate Mike Thornton retaining the seat for his party. ](/news/2013/02/28/voters-go-to-the-polls-in-the-eastleigh-by-election-following-the-resignation-of-former-uk-cabinet-minister-chris-huhne-with-liberal-democra.md)

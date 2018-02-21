@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/25/index.html)  [JSON](2014/04/25/index.json)  [XML](201
 
 ##### Rocket-propelled grenade
 ### [A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-near-the-town-of-kramatorsk-in-eastern.md)
-_Context: rocket-propelled grenade, Kramatorsk_
+_Context: Kramatorsk, rocket-propelled grenade_
 
 ##### Shi'ite
 ### [At least 25 people are killed and several injured in a series of bomb blasts targeted at Shi'ite rally in Baghdad, Iraq. The attack comes less than a week before Iraqis are due to head to the polls in parliamentary elections.](/news/2014/04/25/at-least-25-people-are-killed-and-several-injured-in-a-series-of-bomb-blasts-targeted-at-shi-ite-rally-in-baghdad-iraq-the-attack-comes-le.md)
@@ -29,7 +29,7 @@ At least 80 villagers are killed and hundreds left stranded on roofs as devastat
 
 ##### 10 Downing Street
 ### [The UK government launches an inquiry after the "Liverpool Echo" reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks-a.md)
-_Context: Hillsborough disaster, 10 Downing Street, Wikipedia, Liverpool Echo, Whitehall_
+_Context: Hillsborough disaster, 10 Downing Street, Whitehall, Liverpool Echo, Wikipedia_
 
 ##### Environmental protection laws
 ### [China amends its environmental protection laws to help fight pollution and reverse environmental damage in the country. ](/news/2014/04/25/china-amends-its-environmental-protection-laws-to-help-fight-pollution-and-reverse-environmental-damage-in-the-country.md)
@@ -39,7 +39,7 @@ _Context: environmental protection laws, environmental damage_
 ### [North Korea announces that it has detained a 24-year-old US tourist, Miller Matthew Todd, for "rash behavior" during the immigration process. ](/news/2014/04/25/north-korea-announces-that-it-has-detained-a-24-year-old-us-tourist-miller-matthew-todd-for-rash-behavior-during-the-immigration-process.md)
 ##### CFO
 ### [The ex-chief financial officer of Bank of America, Joe Price, agrees to pay a $7.5 million fine for misleading investors during the acquisition of Merrill Lynch. ](/news/2014/04/25/the-ex-chief-financial-officer-of-bank-of-america-joe-price-agrees-to-pay-a-7-5-million-fine-for-misleading-investors-during-the-acquisit.md)
-_Context: CFO, Merrill Lynch, Bank of America, $_
+_Context: Merrill Lynch, Bank of America, $, CFO_
 
 ##### Kryptodrakon
 ### [Scientists announce the discovery of "Kryptodrakon", the oldest pterosaur yet found.](/news/2014/04/25/scientists-announce-the-discovery-of-kryptodrakon-the-oldest-pterosaur-yet-found.md)

@@ -17,7 +17,7 @@ Two federal police officers suspected of working for drug traffickers opened fir
 
 ##### War On Terror
 ### [War On Terror: The chief of one of Britain's top intelligence agencies says that potential British terrorists are going to countries that have been made unsecure by the Arab Spring to get training from Al Qaeda. ](/news/2012/06/25/war-on-terror-the-chief-of-one-of-britain-s-top-intelligence-agencies-says-that-potential-british-terrorists-are-going-to-countries-that-ha.md)
-_Context: MI5, Arab Spring, Al Qaeda, War On Terror_
+_Context: MI5, Al Qaeda, War On Terror, Arab Spring_
 
 ##### Ulster Bank
 ### [Tens of thousands of Ulster Bank customers will now be unable to access their money until at least the end of the week as the crisis worsens, with monthly salaries due to be paid this week. ](/news/2012/06/25/tens-of-thousands-of-ulster-bank-customers-will-now-be-unable-to-access-their-money-until-at-least-the-end-of-the-week-as-the-crisis-worsens.md)
@@ -33,7 +33,7 @@ The fifth eurozone nation to seek help says it wants to limit exposure of its fi
 
 ##### Labour Party
 ### [UK Labour MP Tom Watson adds his voice to the growing opposition to the extradition of Richard O'Dwyer, calling it an example of a younger generation being "hung out to dry by lawmakers". ](/news/2012/06/25/uk-labour-mp-tom-watson-adds-his-voice-to-the-growing-opposition-to-the-extradition-of-richard-o-dwyer-calling-it-an-example-of-a-younger-g.md)
-_Context: Richard O'Dwyer, Labour Party, Tom Watson_
+_Context: Labour Party, Tom Watson, Richard O'Dwyer_
 
 ##### Fernando Lugo
 ### [Fernando Lugo, the deposed President of Paraguay, rallies allies at home and abroad, and creates a parallel cabinet intent on returning to power. ](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.md)
@@ -41,7 +41,7 @@ Deposed president rallies allies at home and abroad to force congress to reverse
 
 ##### Vladimir Putin
 ### [Vladimir Putin makes a rare trip to Israel and discusses Iran's nuclear program and the uprising in Syria. ](/news/2012/06/25/vladimir-putin-makes-a-rare-trip-to-israel-and-discusses-iran-s-nuclear-program-and-the-uprising-in-syria.md)
-_Context: Syria, Israel, Vladimir Putin, nuclear program_
+_Context: Israel, Vladimir Putin, Syria, nuclear program_
 
 ##### Bradley Manning
 ### [The pre-trial hearing of imprisoned U.S. serviceman Bradley Manning takes place at Fort Meade, Maryland. ](/news/2012/06/25/the-pre-trial-hearing-of-imprisoned-u-s-serviceman-bradley-manning-takes-place-at-fort-meade-maryland.md)
@@ -53,7 +53,7 @@ The mother of Wikileaks founder Julian Assange says he is &quot;buoyed&quot; by 
 
 ##### Channel 4
 ### [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md)
-_Context: Daily Mail, Jon Snow, Leveson Inquiry, Mail on Sunday, Channel 4, Associated Newspapers, News International_
+_Context: News International, Channel 4, Associated Newspapers, Daily Mail, Leveson Inquiry, Mail on Sunday, Jon Snow_
 
 ##### Sayed Zabiuddin
 ### [Indian police report that Sayed Zabiuddin, a key figure allegedly involved in the planning of the deadly Mumbai attacks of 2008, is arrested. ](/news/2012/06/25/indian-police-report-that-sayed-zabiuddin-a-key-figure-allegedly-involved-in-the-planning-of-the-deadly-mumbai-attacks-of-2008-is-arrested.md)
@@ -69,11 +69,11 @@ US supreme court strikes down some provisions of a controversial immigration law
 
 ##### Chancellor of the Exchequer
 ### [Former UK Chancellor of the Exchequer Alistair Darling launches Better Together, the "no" campaign for the forthcoming referendum on Scottish independence. ](/news/2012/06/25/former-uk-chancellor-of-the-exchequer-alistair-darling-launches-better-together-the-no-campaign-for-the-forthcoming-referendum-on-scottis.md)
-_Context: Alistair Darling, Better Together, Chancellor of the Exchequer, independence referendum_
+_Context: independence referendum, Alistair Darling, Better Together, Chancellor of the Exchequer_
 
 ##### Venezuela
 ### [Venezuela announces its intent to design unmanned aircraft for defence and to monitor pipelines, dams and other rural infrastructure. ](/news/2012/06/25/venezuela-announces-its-intent-to-design-unmanned-aircraft-for-defence-and-to-monitor-pipelines-dams-and-other-rural-infrastructure.md)
-_Context: Venezuela, drone_
+_Context: drone, Venezuela_
 
 ##### 4 World Trade Center
 ### [The final steel beam of 4 World Trade Center is lifted into place in a ceremony. ](/news/2012/06/25/the-final-steel-beam-of-4-world-trade-center-is-lifted-into-place-in-a-ceremony.md)

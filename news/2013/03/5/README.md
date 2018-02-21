@@ -21,11 +21,11 @@ There are concerns about whether the forces that have driven the market rally â€
 
 ##### Venezuela
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: military attache, embassy, Venezuela, United States, U.S., United States Air Force_
+_Context: military attache, United States, United States Air Force, Venezuela, U.S., embassy_
 
 ##### United Nations Security Council
 ### [The UN Security Council holds a closed-door session to discuss new sanctions against North Korea following reports of an agreement on a draft resolution between the United States and China. North Korea announces plans to nullify the armistice agreement that ended the Korean War. ](/news/2013/03/5/the-un-security-council-holds-a-closed-door-session-to-discuss-new-sanctions-against-north-korea-following-reports-of-an-agreement-on-a-draf.md)
-_Context: Korean War, 2013, North Korea, United Nations Security Council, China, Korean Armistice Agreement, United States_
+_Context: Korean War, North Korea, China, Korean Armistice Agreement, United Nations Security Council, United States, 2013_
 
 ##### Americans
 ### [A black American political candidate "was dragged and set on fire" during his murder in the U.S. state of Mississippi, say his family. The corpse of Marco McMillian was found bruised and burned near a levee on the Mississippi River. ](/news/2013/03/5/a-black-american-political-candidate-was-dragged-and-set-on-fire-during-his-murder-in-the-u-s-state-of-mississippi-say-his-family-the-c.md)
@@ -53,7 +53,7 @@ Four Army bases are to close as part of a shake-up to accommodate thousands of t
 
 ##### United States
 ### [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md)
-_Context: Eric Garcetti, California, Wendy Greuel, Los Angeles, second round, United States, mayoral election_
+_Context: California, mayoral election, United States, Los Angeles, second round, Eric Garcetti, Wendy Greuel_
 
 ##### Japan
 ### [Japanese carrier Willcom announces the Phone Strap 2 WX06A, which weighs only 32 grams. The company advertises it as the world's "smallest and lightest phone". ](/news/2013/03/5/japanese-carrier-willcom-announces-the-phone-strap-2-wx06a-which-weighs-only-32-grams-the-company-advertises-it-as-the-world-s-smallest-a.md)

@@ -21,7 +21,7 @@ Government troops have killed at least 11 members of a rebel group in the southe
 
 ##### Royal Dutch Shell
 ### [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will-b.md)
-_Context: Paris Agreement, Ben van Beurden, Royal Dutch Shell, balance sheet_
+_Context: balance sheet, Royal Dutch Shell, Ben van Beurden, Paris Agreement_
 
 ##### Kaipara Harbour
 ### [At least seven people are dead, one person is missing and three others are rescued after a chartered fishing boat capsizes due to large waves in Kaipara Harbour, New Zealand. ](/news/2016/11/26/at-least-seven-people-are-dead-one-person-is-missing-and-three-others-are-rescued-after-a-chartered-fishing-boat-capsizes-due-to-large-wave.md)
@@ -41,7 +41,7 @@ Iraqi Sunnis say law was proof of Shia &quot;dictatorship&quot; but Prime Minist
 
 ##### Cuba
 ### [Cuban state television announces that former President Fidel Castro has died at age 90. ](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.md)
-_Context: President, died, Fidel Castro, Cuba_
+_Context: President, Fidel Castro, Cuba, died_
 
 ##### 2016 South Korean protests
 ### [South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corruption-scandal-around-1-5-mill.md)
@@ -49,11 +49,11 @@ Mass protests in capital Seoul and other provincial cities demand President Park
 
 ##### Kuwaiti general election, 2016
 ### [Kuwait, where citizens make up around 30 percent of the emirate's 4.4 million population, votes in a snap election following parliament's dissolution on 16 October amid the impact of falling oil prices. This is the first election the opposition has not boycotted in nearly four years. ](/news/2016/11/26/kuwait-where-citizens-make-up-around-30-percent-of-the-emirate-s-4-4-million-population-votes-in-a-snap-election-following-parliament-s-di.md)
-_Context: parliament's dissolution, Kuwaiti general election, 2016, snap election, Kuwait_
+_Context: Kuwaiti general election, 2016, parliament's dissolution, Kuwait, snap election_
 
 ##### 2016 United States presidential election recount and audit
 ### [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md)
-_Context: Wisconsin, Mich., Jill Stein, 2016 United States presidential election recount and audit, presidential campaign, Pennsylvania_
+_Context: Wisconsin, Mich., 2016 United States presidential election recount and audit, Jill Stein, Pennsylvania, presidential campaign_
 
 ## [Previous Day...](/news/2016/11/25/index.md)
 

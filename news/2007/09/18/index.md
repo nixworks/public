@@ -9,43 +9,43 @@ Dozens of people living in a Peruvian town near Lake Titicaca reported vomiting 
 
 ##### Nuclear program
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: United Nations Security Council, nuclear program, United States, economic sanctions, Iran_
+_Context: nuclear program, Iran, economic sanctions, United Nations Security Council, United States_
 
 ##### United States Federal Reserve
 ### [ The United States Federal Reserve cuts a key short-term interest rate by a half-percentage point, resulting in a stock market rally. ](/news/2007/09/18/the-united-states-federal-reserve-cuts-a-key-short-term-interest-rate-by-a-half-percentage-point-resulting-in-a-stock-market-rally.md)
-_Context: stock market, United States Federal Reserve, interest rates_
+_Context: interest rates, stock market, United States Federal Reserve_
 
 ##### Buddhists
 ### [ More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas. ](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.md)
-_Context: Myanmar, Buddhists, teargas, monk_
+_Context: teargas, Buddhists, Myanmar, monk_
 
 ##### Bank of England
 ### [ The Bank of England injects GBP4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after GBP2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-gbp4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-cri.md)
-_Context: Northern Rock, Subprime Mortgage Financial Crisis, Bank of England_
+_Context: Bank of England, Subprime Mortgage Financial Crisis, Northern Rock_
 
 ##### Russia
 ### [ Russia claims to have killed top Dagestani militant Rappani Khalilov along with another militant in a day-long battle. ](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.md)
-_Context: Russia, Rappani Khalilov, Dagestan_
+_Context: Dagestan, Rappani Khalilov, Russia_
 
 ##### North Korea
 ### [ North Korea denies allegations that it is helping Syria to develop a nuclear weapons facility. ](/news/2007/09/18/north-korea-denies-allegations-that-it-is-helping-syria-to-develop-a-nuclear-weapons-facility.md)
-_Context: nuclear weapon, North Korea, Syria_
+_Context: North Korea, Syria, nuclear weapon_
 
 ##### Australia
 ### [ Australia, the second largest wheat exporter in the world, cuts its forecast production by 30 per cent due to an ongoing drought. ](/news/2007/09/18/australia-the-second-largest-wheat-exporter-in-the-world-cuts-its-forecast-production-by-30-per-cent-due-to-an-ongoing-drought.md)
-_Context: Australia, wheat_
+_Context: wheat, Australia_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Hundreds of thousands of people are evacuated from Shanghai, China as Typhoon Wipha approaches. ](/news/2007/09/18/2007-pacific-typhoon-season-hundreds-of-thousands-of-people-are-evacuated-from-shanghai-china-as-typhoon-wipha-approaches.md)
-_Context: Shanghai, Chinese, 2007 Pacific typhoon season_
+_Context: Shanghai, 2007 Pacific typhoon season, Chinese_
 
 ##### Philippines
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: Chinese, First Gentleman, Jose De Venecia, Jr., senators, broadband, Philippines, Mike Arroyo, ZTE_
+_Context: Mike Arroyo, First Gentleman, broadband, Philippines, Jose De Venecia, Jr., Chinese, senators, ZTE_
 
 ##### O.J. Simpson
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
-_Context: felony, Las Vegas, Nevada, O.J. Simpson_
+_Context: O.J. Simpson, felony, Las Vegas, Nevada_
 
 ## [Previous Day...](/news/2007/09/17/index.md)
 

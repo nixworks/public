@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/10/index.html)  [JSON](2013/08/10/index.json)  [XML](201
 
 ##### Thailand
 ### [Gunmen kidnap four Thai tourists traveling in Nigeria's Rivers State. ](/news/2013/08/10/gunmen-kidnap-four-thai-tourists-traveling-in-nigeria-s-rivers-state.md)
-_Context: Nigeria, Thailand, Rivers State_
+_Context: Nigeria, Rivers State, Thailand_
 
 ##### Baghdad
 ### [A bomb kills four people and wounds 16 in a park south of Baghdad, Iraq. ](/news/2013/08/10/a-bomb-kills-four-people-and-wounds-16-in-a-park-south-of-baghdad-iraq.md)
@@ -25,11 +25,11 @@ A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach a
 
 ##### Al Hoceima
 ### [A bus accident in Al Hoceima, Morocco, kills at least 16 Royal Guardsmen. ](/news/2013/08/10/a-bus-accident-in-al-hoceima-morocco-kills-at-least-16-royal-guardsmen.md)
-_Context: Al Hoceima, Morocco, Royal Guardsmen_
+_Context: Morocco, Royal Guardsmen, Al Hoceima_
 
 ##### Manitou Springs
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Colorado, Manitou Springs, United States_
+_Context: Manitou Springs, Colorado, United States_
 
 ##### Belfast
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)
@@ -37,7 +37,7 @@ More than 50 police officers are injured in what have been described as &quot;sh
 
 ##### Boulevard, California
 ### [James Lee DiMaggio, a suspect in the Boulevard, California murders of Christina and Ethan Anderson, and the abduction of Hannah Anderson, is shot to death by an FBI agent in Ada County, Idaho. Hannah Anderson was unharmed. ](/news/2013/08/10/james-lee-dimaggio-a-suspect-in-the-boulevard-california-murders-of-christina-and-ethan-anderson-and-the-abduction-of-hannah-anderson-is.md)
-_Context: Boulevard, California, FBI agent, Ada County, Idaho_
+_Context: Ada County, Idaho, FBI agent, Boulevard, California_
 
 ## [Previous Day...](/news/2013/08/9/index.md)
 

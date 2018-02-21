@@ -17,7 +17,7 @@ At least 10 people have been killed after a mosque collapsed in the Pakistani ci
 
 ##### German
 ### [A massive explosion occurs at a chemical plant in the German town of Ritterhude near Bremen. ](/news/2014/09/9/a-massive-explosion-occurs-at-a-chemical-plant-in-the-german-town-of-ritterhude-near-bremen.md)
-_Context: Ritterhude, German, Bremen_
+_Context: Ritterhude, Bremen, German_
 
 ##### Recent food scandal
 ### [Products from at least 900 food makers are being recalled after authorities say a factory illegally used 243 tonnes of recycled waste oil disguised as lard, some of which may have been exported overseas. ](/news/2014/09/9/products-from-at-least-900-food-makers-are-being-recalled-after-authorities-say-a-factory-illegally-used-243-tonnes-of-recycled-waste-oil-di.md)

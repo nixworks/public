@@ -41,7 +41,7 @@ Police officers who have been stationed outside London&#x27;s Ecuadorian Embassy
 
 ##### Post 2011 Egyptian Revolution trials
 ### [Cairo's criminal court orders the release of the sons of former Egyptian leader Hosni Mubarak, who are waiting for the Court of Appeal's decision in a financial corruption case. Each was sentenced to three years. The court ruled Gamal and Alaa Mubarak, who were initially detained in April 2011, had already served the requisite time in prison for the sentence. ](/news/2015/10/12/cairo-s-criminal-court-orders-the-release-of-the-sons-of-former-egyptian-leader-hosni-mubarak-who-are-waiting-for-the-court-of-appeal-s-dec.md)
-_Context: Hosni Mubarak, Post 2011 Egyptian Revolution trials, criminal court, Cairo_
+_Context: Hosni Mubarak, Post 2011 Egyptian Revolution trials, Cairo, criminal court_
 
 ##### Jioji Konrote
 ### [Jioji Konrote is elected President of Fiji by the country's Parliament. Konrote, Fiji's Minister for Employment, Productivity and Industrial Relations, received 31 votes, defeating Epeli Ganilau, who garnered 14 votes. ](/news/2015/10/12/jioji-konrote-is-elected-president-of-fiji-by-the-country-s-parliament-konrote-fiji-s-minister-for-employment-productivity-and-industrial.md)

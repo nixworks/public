@@ -21,7 +21,7 @@ _Context: Death of Sandra Bland_
 
 ##### Burundian presidential election, 2015
 ### [Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-president-pierre-nkurunziza-seeking-a-third-t.md)
-_Context: Burundi, Pierre Nkurunziza, Burundian presidential election, 2015, Presidents_
+_Context: Burundi, Burundian presidential election, 2015, Presidents, Pierre Nkurunziza_
 
 ##### 2016 U.S. election
 ### [The Governor of Ohio John Kasich becomes the 16th person to seek the nomination of the Republican Party. ](/news/2015/07/21/the-governor-of-ohio-john-kasich-becomes-the-16th-person-to-seek-the-nomination-of-the-republican-party.md)

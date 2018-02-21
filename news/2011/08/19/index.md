@@ -25,7 +25,7 @@ _Context: Nikkei Stock Average, trend, Tokyo Stock Exchange_
 
 ##### J.C. Penney
 ### [U.S. retailing giant J.C. Penney agrees with its largest shareholder, William Ackman, that Ackman will cap his shareholdings at 16.5 percent, while increasing his exposure through a "synthetic long position." ](/news/2011/08/19/u-s-retailing-giant-j-c-penney-agrees-with-its-largest-shareholder-william-ackman-that-ackman-will-cap-his-shareholdings-at-16-5-percent.md)
-_Context: William Ackman, J.C. Penney_
+_Context: J.C. Penney, William Ackman_
 
 ##### Earthquake
 ### [A 6.8 magnitude earthquake occurs off the coast of Japan with a tsunami warning issued and then retracted. ](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.md)
@@ -33,15 +33,15 @@ A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japa
 
 ##### Chinese Academy of Sciences
 ### [A Chinese scientist is reported missing on Xinjiang Uyghur Autonomous Region's Muztagh Ata glacier after conducting research on the Tibetan Plateau. ](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.md)
-_Context: Tibetan Plateau, glacier, Muztagh Ata, Xinjiang Uyghur Autonomous Region, Chinese Academy of Sciences_
+_Context: glacier, Xinjiang Uyghur Autonomous Region, Muztagh Ata, Chinese Academy of Sciences, Tibetan Plateau_
 
 ##### Pittsburgh
 ### [Three people die in the city of Pittsburgh in the US state of Pennsylvania as a result of flash flooding. ](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.md)
-_Context: flash flooding, Pittsburgh, Pennsylvania_
+_Context: Pittsburgh, Pennsylvania, flash flooding_
 
 ##### Sweden
 ### [The announcement of possible wreck relocation of Swedish 16th century warship Mars in the Baltic Sea. ](/news/2011/08/19/the-announcement-of-possible-wreck-relocation-of-swedish-16th-century-warship-mars-in-the-baltic-sea.md)
-_Context: Mars, Baltic Sea, Sweden_
+_Context: Mars, Sweden, Baltic Sea_
 
 ## [Previous Day...](/news/2011/08/18/index.md)
 

@@ -29,11 +29,11 @@ A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 pe
 
 ##### US Navy losses in World War II
 ### [The wreckage of the Indianapolis 6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors-Marines who survived the sinking were finally rescued after 4-5 days in shark-infested waters. ](/news/2017/08/19/the-wreckage-of-the-indianapolis-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-p.md)
-_Context: South Pacific Ocean, heavy cruiser, Sailor, I-58, Little Boy, US Navy losses in World War II, Marine_
+_Context: heavy cruiser, US Navy losses in World War II, Marine, I-58, Little Boy, Sailor, South Pacific Ocean_
 
 ##### 2017 Australian constitutional crisis
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
-_Context: 2017 Australian constitutional crisis, Nick Xenophon_
+_Context: Nick Xenophon, 2017 Australian constitutional crisis_
 
 ##### Politics of Nigeria
 ### [Nigerian state television reports that President Muhammadu Buhari is back in the country after a three-month sick leave in Britain. ](/news/2017/08/19/nigerian-state-television-reports-that-president-muhammadu-buhari-is-back-in-the-country-after-a-three-month-sick-leave-in-britain.md)

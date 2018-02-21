@@ -25,11 +25,11 @@ Best selling author and historian Tim Pat Coogan has been forced to cancel a boo
 
 ##### Will Rogers World Airport
 ### [Will Rogers World Airport in the U.S. state of Oklahoma is shut down over the discovery of a painted golden object with a hole in the bottom in the luggage of musician Wayne Coyne. The object is mistaken for a live grenade by frightened staff. ](/news/2012/11/21/will-rogers-world-airport-in-the-u-s-state-of-oklahoma-is-shut-down-over-the-discovery-of-a-painted-golden-object-with-a-hole-in-the-bottom.md)
-_Context: U.S. state, Oklahoma, Will Rogers World Airport, Wayne Coyne_
+_Context: U.S. state, Wayne Coyne, Will Rogers World Airport, Oklahoma_
 
 ##### Mount Tongariro
 ### [Mount Tongariro, a volcano on the North Island of New Zealand, erupts for the second time in four months, with efforts underway to rescue people on the Tongariro Alpine Crossing. ](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.md)
-_Context: North Island, New Zealand, Tongariro Alpine Crossing, Mount Tongariro_
+_Context: North Island, Tongariro Alpine Crossing, Mount Tongariro, New Zealand_
 
 ##### Antonov
 ### [An Antonov military plane crashes in the Sana'a, capital of Yemen, killing all 10 people on board included five military officers. ](/news/2012/11/21/an-antonov-military-plane-crashes-in-the-sana-a-capital-of-yemen-killing-all-10-people-on-board-included-five-military-officers.md)
@@ -41,11 +41,11 @@ India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 20
 
 ##### Puerto Rican
 ### [Puerto Rican professional boxer Hector Camacho is shot multiple times in Bayamon, Puerto Rico. The driver of Camacho's car is killed in the attack. Camacho was shot in the neck and face and taken to St. Paul's Hospital in Rio Piedras, where he was pronounced to be in critical condition shortly thereafter. ](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.md)
-_Context: Hector Camacho, boxing, Rio Piedras, Puerto Rican, Bayamon, Puerto Rico_
+_Context: Hector Camacho, Puerto Rico, Puerto Rican, boxing, Bayamon, Rio Piedras_
 
 ##### President
 ### [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md)
-_Context: abortion, death of Savita Halappanavar, Michael D. Higgins, Abortion in the Republic of Ireland, Health Service Executive, Government of Ireland, Ireland, President_
+_Context: President, Abortion in the Republic of Ireland, Ireland, death of Savita Halappanavar, Government of Ireland, abortion, Michael D. Higgins, Health Service Executive_
 
 ##### Jesse Jackson Jr.
 ### [Jesse Jackson Jr. resigns from U.S. Congress due to health problems and federal criminal investigation of his activities. ](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.md)

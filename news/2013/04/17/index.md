@@ -5,11 +5,11 @@ Formats: [HTML](2013/04/17/index.html)  [JSON](2013/04/17/index.json)  [XML](201
 
 ##### United States
 ### [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md)
-_Context: Wana, United States, Pakistan, drones launch, South Waziristan_
+_Context: United States, Pakistan, drones launch, Wana, South Waziristan_
 
 ##### Egypt
 ### [Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/two-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no-damage-three-more-rocket.md)
-_Context: Israel, Sinai Peninsula, Egypt, Jordan, Eilat_
+_Context: Jordan, Sinai Peninsula, Eilat, Egypt, Israel_
 
 ##### Indian police
 ### [Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/sixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahead-of-elections-in-the.md)
@@ -33,15 +33,15 @@ H7N9 bird flu has claimed two more lives in Shanghai, Chinese state media said o
 
 ##### Taiwan
 ### [Taiwan prepares to permanently ban killing of poultry in traditional markets amid concerns over the spread of the H7N9 avian flu virus in mainland China. ](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.md)
-_Context: poultry, Taiwan, mainland China, markets, H7N9 avian flu virus_
+_Context: markets, Taiwan, poultry, H7N9 avian flu virus, mainland China_
 
 ##### North Korea
 ### [North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-inside-the-closed-kaeson.md)
-_Context: Kaesong area, North Korea, businessmen, South Korea_
+_Context: North Korea, businessmen, South Korea, Kaesong area_
 
 ##### India
 ### [The Indian state of Gujarat seeks the death penalty for ten people involved in the Naroda Patiya massacre in 2002 including former minister Maya Kodnani who had been earlier sentenced to prison sentences. ](/news/2013/04/17/the-indian-state-of-gujarat-seeks-the-death-penalty-for-ten-people-involved-in-the-naroda-patiya-massacre-in-2002-including-former-minister.md)
-_Context: death, India, Naroda Patiya massacre, Maya Kodnani, Gujarat, prison sentence_
+_Context: Naroda Patiya massacre, prison sentence, death, Maya Kodnani, Gujarat, India_
 
 ##### Russian
 ### [Leading Russian political activist Alexei Navalny goes on trial in the city of Kirov for embezzlement. ](/news/2013/04/17/leading-russian-political-activist-alexei-navalny-goes-on-trial-in-the-city-of-kirov-for-embezzlement.md)
@@ -53,11 +53,11 @@ Here&#039;s everything you need to know about the timetable of events ahead of t
 
 ##### Italy
 ### [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md)
-_Context: Italy, President of Italy, coalition, Italian Parliament, Giorgio Napolitano, political parties_
+_Context: political parties, Giorgio Napolitano, Italian Parliament, President of Italy, coalition, Italy_
 
 ##### Venezuela
 ### [Venezuela's opposition leader Henrique Capriles distances himself from post-election street violence after seven people are killed in riots over the results of the presidential election. Capriles had previously planned to march on the National Electoral Council to demand a recount. ](/news/2013/04/17/venezuela-s-opposition-leader-henrique-capriles-distances-himself-from-post-election-street-violence-after-seven-people-are-killed-in-riots.md)
-_Context: recount, post-election street violence, Venezuela, National Electoral Council, last month's presidential election, Henrique Capriles_
+_Context: last month's presidential election, Henrique Capriles, National Electoral Council, recount, post-election street violence, Venezuela_
 
 ##### Parliament of New Zealand
 ### [Parliament of New Zealand legalizes same-sex marriage in New Zealand. ](/news/2013/04/17/parliament-of-new-zealand-legalizes-same-sex-marriage-in-new-zealand.md)
@@ -65,7 +65,7 @@ A bill to legalise same-sex marriage has passed into law after its third reading
 
 ##### Gun politics in the United States
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, United States, United States Senate_
+_Context: United States, United States Senate, Gun politics in the United States_
 
 ## [Previous Day...](/news/2013/04/16/index.md)
 

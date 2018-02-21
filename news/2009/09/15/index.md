@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/15/index.html)  [JSON](2009/09/15/index.json)  [XML](200
 
 ##### Red-Green Coalition
 ### [ The Red-Green Coalition of Prime Minister Jens Stoltenberg is elected for another term in the Norwegian parliamentary election. ](/news/2009/09/15/the-red-green-coalition-of-prime-minister-jens-stoltenberg-is-elected-for-another-term-in-the-norwegian-parliamentary-election.md)
-_Context: Red-Green Coalition, parliamentary election, Prime Minister of Norway, Norway, Jens Stoltenberg_
+_Context: parliamentary election, Red-Green Coalition, Prime Minister of Norway, Jens Stoltenberg, Norway_
 
 ##### North Sumatra
 ### [ At least 38 people are killed in flash floods in North Sumatra, Indonesia. ](/news/2009/09/15/at-least-38-people-are-killed-in-flash-floods-in-north-sumatra-indonesia.md)
@@ -17,11 +17,11 @@ _Context: U.S., Federal Reserve, Ben S. Bernanke_
 
 ##### Russian President
 ### [ Russian President Dmitry Medvedev accuses the United States of "blocking" Russia's accession to the World Trade Organization. ](/news/2009/09/15/russian-president-dmitry-medvedev-accuses-the-united-states-of-blocking-russia-s-accession-to-the-world-trade-organization.md)
-_Context: United States, Russia, Russian President, Dmitry Medvedev, World Trade Organization_
+_Context: Russian President, United States, Dmitry Medvedev, World Trade Organization, Russia_
 
 ##### United Nations
 ### [ A United Nations report into the Gaza War alleges both Israeli and Palestinian forces committed war crimes. ](/news/2009/09/15/a-united-nations-report-into-the-gaza-war-alleges-both-israeli-and-palestinian-forces-committed-war-crimes.md)
-_Context: Israel, Palestine, war crime, United Nations, 2008-2009 Gaza War_
+_Context: Palestine, Israel, United Nations, 2008-2009 Gaza War, war crime_
 
 ##### EirGrid
 ### [ EirGrid, Ireland's national electricity grid operator, receives permission from An Bord Pleanala to build a new electricity interconnector between Ireland and Wales. ](/news/2009/09/15/eirgrid-ireland-s-national-electricity-grid-operator-receives-permission-from-an-bord-pleana-la-to-build-a-new-electricity-interconnector.md)
@@ -33,11 +33,11 @@ _Context: Libreville, Gabon_
 
 ##### Republic of the Congo
 ### [ Republic of the Congo's re-elected President Denis Sassou Nguesso names his new government, abolishing the controversial post of Prime Minister and replacing the nation's oil minister. ](/news/2009/09/15/republic-of-the-congo-s-re-elected-president-denis-sassou-nguesso-names-his-new-government-abolishing-the-controversial-post-of-prime-mini.md)
-_Context: Republic of the Congo, Denis Sassou Nguesso, Prime Minister, President_
+_Context: Republic of the Congo, Denis Sassou Nguesso, President, Prime Minister_
 
 ##### Madagascar
 ### [ In a televised debate, Madagascar's Prime Minister Monja Roindefo accuses the international community of betraying President Andry Rajoelina and warns the island risks being "torn into fiefdoms ruled by warlords". ](/news/2009/09/15/in-a-televised-debate-madagascar-s-prime-minister-monja-roindefo-accuses-the-international-community-of-betraying-president-andry-rajoelin.md)
-_Context: Prime Minister of Madagascar, Madagascar, warlord, Monja Roindefo, President, fiefdom, Andry Rajoelina_
+_Context: warlord, President, Prime Minister of Madagascar, Monja Roindefo, Andry Rajoelina, fiefdom, Madagascar_
 
 ## [Previous Day...](/news/2009/09/14/index.md)
 

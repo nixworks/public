@@ -5,23 +5,23 @@ Formats: [HTML](2005/11/7/index.html)  [JSON](2005/11/7/index.json)  [XML](2005/
 
 ##### Sierra Leone
 ### [ Sierra Leone Health and Sanitation Minister, Abator Thomas says that polio has been eradicated in the country, following a successful immunization program. ](/news/2005/11/7/sierra-leone-health-and-sanitation-minister-abator-thomas-says-that-polio-has-been-eradicated-in-the-country-following-a-successful-immun.md)
-_Context: polio, Sierra Leone_
+_Context: Sierra Leone, polio_
 
 ##### United Nations
 ### [ The United Nations is asking donors for US$3.2 million to help six West African countries fight cholera. The disease has killed at least 700 people and infected over 42,000 in the region since June, a sharp rise due to the unusually heavy rains this year. ](/news/2005/11/7/the-united-nations-is-asking-donors-for-us-3-2-million-to-help-six-west-african-countries-fight-cholera-the-disease-has-killed-at-least-70.md)
-_Context: US$, West Africa, cholera, United Nations_
+_Context: cholera, US$, United Nations, West Africa_
 
 ##### India
 ### [ India's foreign minister, K. Natwar Singh, is forced to step down from his post amid allegations that he and the governing Indian National Congress had illegally benefited from the UN Oil-for-Food Programme in Iraq. ](/news/2005/11/7/india-s-foreign-minister-k-natwar-singh-is-forced-to-step-down-from-his-post-amid-allegations-that-he-and-the-governing-indian-national.md)
-_Context: Iraq, K. Natwar Singh, Congress Party, India, oil-for-food programme_
+_Context: oil-for-food programme, Congress Party, Iraq, K. Natwar Singh, India_
 
-##### Canadian
+##### Canada
 ### [ Canadian New Democratic Party leader Jack Layton withdraws his support to the minority government of Prime Minister Paul Martin. This decision might set a confidence vote in the next week. ](/news/2005/11/7/canadian-new-democratic-party-leader-jack-layton-withdraws-his-support-to-the-minority-government-of-prime-minister-paul-martin-this-decis.md)
-_Context: Jack Layton, Canadian, New Democratic Party, Paul Martin_
+_Context: Canada, Jack Layton, Paul Martin, New Democratic Party_
 
 ##### China
 ### [ China closes all Beijing poultry markets. Authorities ordered all live poultry markets in China's capital to close immediately and went door-to-door seizing chickens and ducks from private homes, as the government dramatically ramped up its fight against avian influenza today. ](/news/2005/11/7/china-closes-all-beijing-poultry-markets-authorities-ordered-all-live-poultry-markets-in-china-s-capital-to-close-immediately-and-went-doo.md)
-_Context: China, poultry, avian influenza, Beijing_
+_Context: poultry, China, Beijing, avian influenza_
 
 ##### Alberto Fujimori
 ### [ Alberto Fujimori, former President of Peru, is arrested in Chile whilst a Chilean judge considers a Peruvian extradition request. ](/news/2005/11/7/alberto-fujimori-former-president-of-peru-is-arrested-in-chile-whilst-a-chilean-judge-considers-a-peruvian-extradition-request.md)

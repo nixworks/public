@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/20/index.html)  [JSON](2013/10/20/index.json)  [XML](201
 
 ##### Al-Qaeda
 ### [A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills-at-least-30-people.md)
-_Context: al-Qaeda, Syria, Jabhat al-Nusra, Hama_
+_Context: Syria, Hama, Jabhat al-Nusra, al-Qaeda_
 
 ##### Rawa
 ### [Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md)
@@ -13,7 +13,7 @@ At least 37 people are killed and more than 40 injured by a suicide bombing at a
 
 ##### David Yau Yau
 ### [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md)
-_Context: Jonglei, David Yau Yau_
+_Context: David Yau Yau, Jonglei_
 
 ##### Toyota Motor Corporation
 ### [Toyota Motor Corporation recalls 885,000 vehicles due to electrical problems that could prevent airbags from deploying. ](/news/2013/10/20/toyota-motor-corporation-recalls-885-000-vehicles-due-to-electrical-problems-that-could-prevent-airbags-from-deploying.md)

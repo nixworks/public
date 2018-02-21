@@ -9,11 +9,11 @@ Both Asim Ghosh, the current MD of Hutch-Essar and an investor, and Analjit Sing
 
 ##### Rio de Janeiro
 ### [ Nine people are shot dead in Rio de Janeiro as police battle drug gangs and private militias for control of the favelas or shanty towns. ](/news/2007/02/11/nine-people-are-shot-dead-in-rio-de-janeiro-as-police-battle-drug-gangs-and-private-militias-for-control-of-the-favelas-or-shanty-towns.md)
-_Context: favela, Rio de Janeiro_
+_Context: Rio de Janeiro, favela_
 
 ##### The Queen
 ### [ "The Queen" wins the British Academy of Film and Television Arts Award for Best Film of 2006 with Helen Mirren winning the award as Best Actress. Forest Whitaker wins the Best Actor award for his role in the "The Last King of Scotland" which won the Best British Film Award. ](/news/2007/02/11/the-queen-wins-the-british-academy-of-film-and-television-arts-award-for-best-film-of-2006-with-helen-mirren-winning-the-award-as-best-ac.md)
-_Context: British Academy of Film and Television Arts, Forest Whitaker, Dame Helen Mirren, The Last King of Scotland, The Queen_
+_Context: Forest Whitaker, The Queen, British Academy of Film and Television Arts, The Last King of Scotland, Dame Helen Mirren_
 
 ##### Dixie Chicks
 ### [ The Dixie Chicks dominate the 2007 Grammy Awards by winning five statuettes, including Record and Song of the Year ("Not Ready to Make Nice"). ](/news/2007/02/11/the-dixie-chicks-dominate-the-2007-grammy-awards-by-winning-five-statuettes-including-record-and-song-of-the-year-not-ready-to-make-nice.md)
@@ -21,7 +21,7 @@ It&#039;s a clean sweep for the Dixie Chicks
 
 ##### Portugal
 ### [ Portugal votes on an abortion referendum which despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-prom.md)
-_Context: abortion, Jose Socrates, parliament, illegal, Portugal, Portuguese Prime Minister, referendum_
+_Context: Portuguese Prime Minister, Jose Socrates, parliament, referendum, illegal, Portugal, abortion_
 
 ##### Kismayo
 ### [ An explosion at a ceremony in Kismayo kills at least four people and injures 24 others, including senior military officers and regional leaders. General Abdi Mahdi, the recently appointed Somali military chief, is among the injured. ](/news/2007/02/11/an-explosion-at-a-ceremony-in-kismayo-kills-at-least-four-people-and-injures-24-others-including-senior-military-officers-and-regional-lea.md)
@@ -29,19 +29,19 @@ _Context: Kismayo, Abdi Mahdi_
 
 ##### Pristina
 ### [ Two people die in protests in Pristina, Kosovo over a United Nations plan for the future of the Serbian province. ](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.md)
-_Context: Serbia, United Nations, Pristina, Kosovo_
+_Context: Pristina, United Nations, Kosovo, Serbia_
 
 ##### Military of the United States
 ### [ The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
-_Context: Military of the United States, sophisticated roadside bombs, Iraq, Iraqi insurgency, government of Iran_
+_Context: government of Iran, Military of the United States, sophisticated roadside bombs, Iraqi insurgency, Iraq_
 
 ##### United States Senate
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)
-_Context: Ames, military personnel, Democrat, United States Senate, Illinois, Barack Obama_
+_Context: Barack Obama, Ames, Democrat, Illinois, United States Senate, military personnel_
 
 ##### Turkmenistan
 ### [ Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. ](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.md)
-_Context: Turkmenistan, Gurbanguly Berdimuhamedow, Saparmurat Niyazov, president, first presidential election_
+_Context: Turkmenistan, Saparmurat Niyazov, Gurbanguly Berdimuhamedow, president, first presidential election_
 
 ##### Rakhat Aliyev
 ### [ Rakhat Aliyev, son-in-law of Kazakh President Nursultan Nazarbayev and First Vice Foreign Minister, is demoted to ambassador to Austria for the second time amid accusations he stole money from Nurbank bank and alleged involvement in the kidnapping and murdering of two Nurbank officials. ](/news/2007/02/11/rakhat-aliyev-son-in-law-of-kazakh-president-nursultan-nazarbayev-and-first-vice-foreign-minister-is-demoted-to-ambassador-to-austria-for.md)
@@ -49,7 +49,7 @@ President Nursultan Nazarbayev on February 9 abruptly removed his son-in-law, Ra
 
 ##### Israel
 ### [ A top aide to Israeli Prime Minister Ehud Olmert has been suspended from her job for six months while a corruption inquiry is conducted, officials say. ](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.md)
-_Context: Israeli Prime Minister, anti-corruption, Israel, Ehud Olmert_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, anti-corruption_
 
 ## [Previous Day...](/news/2007/02/10/index.md)
 

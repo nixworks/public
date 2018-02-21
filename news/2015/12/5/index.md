@@ -31,7 +31,7 @@ The San Jose sank in 1708. The value of its cargo — believed to include gold, 
 ### [The fourth named windstorm of the season makes landfall across the United Kingdom and Ireland, bringing high winds and serious flooding. ](/news/2015/12/5/the-fourth-named-windstorm-of-the-season-makes-landfall-across-the-united-kingdom-and-ireland-bringing-high-winds-and-serious-flooding.md)
 A 90-year-old man dies after it is believed he was blown into the path of a moving bus in north London.
 
-##### State of emergency
+##### States of emergency
 ### [Authorities declare a state of emergency in the Greek town of Tripoli after the garbage has not been collected for three months. ](/news/2015/12/5/authorities-declare-a-state-of-emergency-in-the-greek-town-of-tripoli-after-the-garbage-has-not-been-collected-for-three-months.md)
 A state of emergency was declared in the Peloponnesian town of Tripoli on Saturday as trash has not been collected from the streets for almost three months.
 

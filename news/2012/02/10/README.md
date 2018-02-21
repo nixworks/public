@@ -13,7 +13,7 @@ _Context: Greece_
 
 ##### Cardinal
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Italy, Cardinal, Pope Benedict XVI_
+_Context: Cardinal, Italy, Pope Benedict XVI_
 
 ##### Qatif
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)
@@ -25,15 +25,15 @@ _Context: gay, England_
 
 ##### Somaliland
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)
-_Context: Somalia, Puntland, Somaliland_
+_Context: Puntland, Somaliland, Somalia_
 
 ##### United States Secretary of Defense
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Marine, Nazi, sniper, United States Secretary of Defense, Leon Panetta, Afghan, Schutzstaffel_
+_Context: Schutzstaffel, Marine, United States Secretary of Defense, sniper, Leon Panetta, Afghan, Nazi_
 
 ##### United States
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: United States, hacker group Anonymous, CIA, Alabama_
+_Context: CIA, Alabama, hacker group Anonymous, United States_
 
 ##### President
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
@@ -41,7 +41,7 @@ _Context: President, Michael D. Higgins_
 
 ##### The Cats of Copenhagen
 ### ["The Cats of Copenhagen", a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". ](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.md)
-_Context: The Cats of Copenhagen, Dublin, James Joyce_
+_Context: James Joyce, Dublin, The Cats of Copenhagen_
 
 ##### The Guard
 ### ["The Guard" wins "The Guardian"{{'}}s annual First Film award. ](/news/2012/02/10/the-guard-wins-the-guardian-s-annual-first-film-award.md)
@@ -69,15 +69,15 @@ Argentine president Cristina Fernandez gave instructions for the formal complain
 
 ##### South Korea
 ### [A group of South Korean lawmakers make a rare visit to North Korea's Kaesong Industrial Region. ](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.md)
-_Context: South Korea, Kaesong area, North Korea_
+_Context: North Korea, Kaesong area, South Korea_
 
 ##### Uganda
 ### [A Ugandan lawmaker who propose the Anti-Homosexuality Bill scraps the proposed death penalty clause. ](/news/2012/02/10/a-ugandan-lawmaker-who-propose-the-anti-homosexuality-bill-scraps-the-proposed-death-penalty-clause.md)
-_Context: law, sentenced to death, Uganda_
+_Context: law, Uganda, sentenced to death_
 
 ##### Nat Rothschild
 ### [Banking scion Nat Rothschild loses his libel action against the "Daily Mail" for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelson.md)
-_Context: Nat Rothschild, Daily Mail, Peter Mandelson, Oleg Deripaska_
+_Context: Nat Rothschild, Oleg Deripaska, Daily Mail, Peter Mandelson_
 
 ##### Luka Bojovic
 ### [Luka Bojovic, an alleged member of the Zemun Clan, is arrested in Valencia, Spain, for involvement in over 20 murders in Serbia, the Netherlands and Spain, including the killing of former Prime Minister of Serbia Zoran Dindic. ](/news/2012/02/10/luka-bojovia-an-alleged-member-of-the-zemun-clan-is-arrested-in-valencia-spain-for-involvement-in-over-20-murders-in-serbia-the-nether.md)
@@ -85,7 +85,7 @@ A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zor
 
 ##### Uzbek
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Ulugbek Kodirov, U.S. President, Uzbek, Birmingham, Islamic Movement of Uzbekistan, Barack Obama_
+_Context: Birmingham, Ulugbek Kodirov, U.S. President, Uzbek, Alabama, Barack Obama, Islamic Movement of Uzbekistan_
 
 ##### China
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)

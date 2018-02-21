@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/18/index.html)  [JSON](2011/08/18/index.json)  [XML](201
 
 ##### Minibus
 ### [At least fourteen people die after a minibus hits a roadside bomb in Afganistan's Herat province. ](/news/2011/08/18/at-least-fourteen-people-die-after-a-minibus-hits-a-roadside-bomb-in-afganistan-s-herat-province.md)
-_Context: minibus, Herat Province, Afganistan_
+_Context: Afganistan, minibus, Herat Province_
 
 ##### Turkey
 ### [Turkey launches an air strike on PKK positions in northern Iraq. ](/news/2011/08/18/turkey-launches-an-air-strike-on-pkk-positions-in-northern-iraq.md)
@@ -29,7 +29,7 @@ Flooding in the southern Pakistani province of Sindh has left more than 60,000 p
 
 ##### Australian Broadcasting Corporation
 ### [An Australian Broadcasting Corporation helicopter goes missing near Lake Eyre in outback South Australia with journalist Paul Lockyer, pilot Gary Ticehurst and cameraman John Bean feared dead. ](/news/2011/08/18/an-australian-broadcasting-corporation-helicopter-goes-missing-near-lake-eyre-in-outback-south-australia-with-journalist-paul-lockyer-pilot.md)
-_Context: Lake Eyre, South Australia, Australian Broadcasting Corporation, outback, Paul Lockyer_
+_Context: Paul Lockyer, outback, Australian Broadcasting Corporation, South Australia, Lake Eyre_
 
 ##### Rabbi
 ### [A rabbi in the U.S. state of New Jersey has been indicted for alleged sex crimes against two 13-year-old Israeli boys who were visiting the rabbi through a scholarship fund. The two boys had reported the abuse separately following their return. ](/news/2011/08/18/a-rabbi-in-the-u-s-state-of-new-jersey-has-been-indicted-for-alleged-sex-crimes-against-two-13-year-old-israeli-boys-who-were-visiting-the.md)
@@ -37,7 +37,7 @@ Two children who visited the rabbis home separately in 2009, 2010, reported sexu
 
 ##### Venezuela
 ### [Seven people are killed and 17 injured after a fight in a western Venezuelan prison in the town of Cabimas. ](/news/2011/08/18/seven-people-are-killed-and-17-injured-after-a-fight-in-a-western-venezuelan-prison-in-the-town-of-cabimas.md)
-_Context: Cabimas, Venezuela_
+_Context: Venezuela, Cabimas_
 
 ##### BBC
 ### [The BBC airs a special edition of its "Crimewatch" programme aimed at identifying people involved in the 2011 England riots. ](/news/2011/08/18/the-bbc-airs-a-special-edition-of-its-crimewatch-programme-aimed-at-identifying-people-involved-in-the-2011-england-riots.md)
@@ -45,7 +45,7 @@ A man who bravely tried to prevent a group of rioters from looting a mobile phon
 
 ##### Roch Wamytan
 ### [Roch Wamytan is elected President of the Congress of New Caledonia by the Congress of New Caledonia with 32 votes. ](/news/2011/08/18/roch-wamytan-is-elected-president-of-the-congress-of-new-caledonia-by-the-congress-of-new-caledonia-with-32-votes.md)
-_Context: President of the Congress of New Caledonia, Roch Wamytan, Congress of New Caledonia_
+_Context: President of the Congress of New Caledonia, Congress of New Caledonia, Roch Wamytan_
 
 ## [Previous Day...](/news/2011/08/17/index.md)
 

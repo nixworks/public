@@ -9,11 +9,11 @@ Railway staff continue search for survivors of accident that killed at least 76 
 
 ##### Anthrax
 ### [Anthrax kills 30 hippopotamuses in Uganda. ](/news/2010/06/23/anthrax-kills-30-hippopotamuses-in-uganda.md)
-_Context: Anthrax, hippopotamus, Uganda_
+_Context: Uganda, Anthrax, hippopotamus_
 
 ##### Iraq
 ### [9 Iraqis are killed in bombings, including two leaders of U.S. government-backed Sunni militants. ](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.md)
-_Context: Sunni Muslim, Iraq_
+_Context: Iraq, Sunni Muslim_
 
 ##### India
 ### [An Indian colonel dies in Kashmir for the first time in three years. ](/news/2010/06/23/an-indian-colonel-dies-in-kashmir-for-the-first-time-in-three-years.md)
@@ -53,15 +53,15 @@ One person was killed and another seriously injured when a crane suddenly crashe
 
 ##### International Whaling Commission
 ### [The International Whaling Commission does not reach agreement on curbing whaling by Japan, Norway and Iceland in a meeting in Agadir, Morocco. ](/news/2010/06/23/the-international-whaling-commission-does-not-reach-agreement-on-curbing-whaling-by-japan-norway-and-iceland-in-a-meeting-in-agadir-morocc.md)
-_Context: Morocco, whaling, Japan, Agadir, International Whaling Commission, Norway, Iceland_
+_Context: Japan, whaling, Morocco, Iceland, International Whaling Commission, Agadir, Norway_
 
 ##### Palace of Monaco
 ### [The Palace of Monaco announces the engagement of Albert II, Prince of Monaco to South African native and Olympian swimmer Charlene Wittstock. ](/news/2010/06/23/the-palace-of-monaco-announces-the-engagement-of-albert-ii-prince-of-monaco-to-south-african-native-and-olympian-swimmer-charlene-wittstock.md)
-_Context: Palace of Monaco, South Africa, Albert II, Prince of Monaco, Charlene, Princess of Monaco_
+_Context: Palace of Monaco, Charlene, Princess of Monaco, South Africa, Albert II, Prince of Monaco_
 
 ##### BP
 ### [BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". ](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.md)
-_Context: Gulf of Mexico, Tony Hayward, Deepwater Horizon oil spill, chief executive, BP_
+_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico, chief executive, Tony Hayward_
 
 ##### Afghan
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
@@ -73,7 +73,7 @@ _Context: Australia_
 
 ##### Toronto
 ### [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md)
-_Context: Canadian, Toronto, explosives, G20 summit_
+_Context: G20 summit, Toronto, Canada, explosives_
 
 ##### Earthquake
 ### [An earthquake occurs 56 kilometres north-northeast of Ottawa, registering a 5.0 on the Richter scale. Slight damage was reported near the epicenter, and the tremor was felt in Sudbury, Windsor, Ann Arbor, Detroit, Toronto, Milwaukee, Northern Pennsylvania, Ohio and New York State. ](/news/2010/06/23/an-earthquake-occurs-56-kilometres-north-northeast-of-ottawa-registering-a-5-0-on-the-richter-scale-slight-damage-was-reported-near-the-ep.md)

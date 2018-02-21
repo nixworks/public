@@ -5,15 +5,15 @@ Formats: [HTML](2010/03/2/index.html)  [JSON](2010/03/2/index.json)  [XML](2010/
 
 ##### Dubai
 ### [Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/police-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of-mossad-in-connection-with-the-assassin.md)
-_Context: Benjamin Netanyahu, Dubai, Mossad, Israeli Prime Minister, assassination, Israel_
+_Context: Dubai, assassination, Mossad, Benjamin Netanyahu, Israeli Prime Minister, Israel_
 
 ##### Agathe Habyarimana
 ### [Agathe Habyarimana, the widow of former Rwandan President Juvnal Habyarimana, accused of helping plan the 1994 genocide, is arrested in France. ](/news/2010/03/2/agathe-habyarimana-the-widow-of-former-rwandan-president-juvenal-habyarimana-accused-of-helping-plan-the-1994-genocide-is-arrested-in-fra.md)
-_Context: France, Rwandan Genocide, Rwanda, Juvnal Habyarimana, Agathe Habyarimana_
+_Context: Agathe Habyarimana, Juvnal Habyarimana, France, Rwandan Genocide, Rwanda_
 
 ##### China
 ### [More than a dozen Chinese newspapers publish a rare joint editorial calling for the end of the hukou system of household registration. ](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.md)
-_Context: China, hukou system_
+_Context: hukou system, China_
 
 ##### Chinese government
 ### [The government of the People's Republic of China announces a 10-year program under which clean energy will account for 15 percent of the total consumption mix by 2020. ](/news/2010/03/2/the-government-of-the-people-s-republic-of-china-announces-a-10-year-program-under-which-clean-energy-will-account-for-15-percent-of-the-tot.md)

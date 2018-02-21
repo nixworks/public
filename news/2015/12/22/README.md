@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/22/index.html)  [JSON](2015/12/22/index.json)  [XML](201
 
 ##### Battle of Ramadi
 ### [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md)
-_Context: Battle of Ramadi, Ramadi, ISIL, Iraqi Army_
+_Context: Battle of Ramadi, ISIL, Iraqi Army, Ramadi_
 
 ##### Islamist insurgency in Nigeria
 ### [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md)
@@ -25,11 +25,11 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 
 ##### Line
 ### [At least 30 people are injured from an explosion at a gas pipeline near Villahermosa, Mexico. ](/news/2015/12/22/at-least-30-people-are-injured-from-an-explosion-at-a-gas-pipeline-near-villahermosa-mexico.md)
-_Context: Villahermosa, line, Mexico_
+_Context: Villahermosa, Mexico, line_
 
 ##### European migrant crisis
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
-_Context: Syrian, migrants, Anadolu Agency, European migrant crisis, Turkish Coast Guard, Samos, Greece, Turkey_
+_Context: Syrian, Turkey, Greece, migrants, Anadolu Agency, European migrant crisis, Samos, Turkish Coast Guard_
 
 ##### Philippines
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
@@ -37,15 +37,15 @@ Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being rev
 
 ##### India
 ### [According to industry sources, the Indian health ministry is considering Sanofi Pasteur's dengue fever vaccine for large-scale clinical trial exemption which would accelerate approval for marketing. India reported a record number of dengue fever cases this year. ](/news/2015/12/22/according-to-industry-sources-the-indian-health-ministry-is-considering-sanofi-pasteur-s-dengue-fever-vaccine-for-large-scale-clinical-tria.md)
-_Context: India, dengue fever vaccine, Sanofi Pasteur, clinical trial, India's health ministry_
+_Context: India, dengue fever vaccine, India's health ministry, clinical trial, Sanofi Pasteur_
 
 ##### Colombian President
 ### [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md)
-_Context: medical marijuana, Colombia, Juan Manuel Santos, Legality of cannabis, personal possession, Colombian President_
+_Context: Colombia, Colombian President, Legality of cannabis, Juan Manuel Santos, personal possession, medical marijuana_
 
 ##### Philippine presidential election, 2016
 ### [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md)
-_Context: Mar Roxas, Philippine presidential election, 2016, Grace Poe, Commission on Elections, his predecessor, Philippines, politically motivated_
+_Context: Mar Roxas, Grace Poe, politically motivated, Commission on Elections, Philippine presidential election, 2016, Philippines, his predecessor_
 
 ##### Central African constitutional referendum, 2015
 ### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md)

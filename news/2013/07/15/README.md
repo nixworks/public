@@ -25,7 +25,7 @@ _Context: Light Warlpiri_
 
 ##### Asiana Airlines
 ### [Asiana Airlines says they will sue Oakland, California television station KTVU for defamation after the station reported the wrong names of the pilots of Asiana Airlines Flight 214. ](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.md)
-_Context: Oakland, California, Asiana Airlines Flight 214, KTVU, California, Asiana Airlines, defamation_
+_Context: Asiana Airlines, Oakland, California, KTVU, California, defamation, Asiana Airlines Flight 214_
 
 ##### Loblaw Companies Limited
 ### [Loblaw Companies Limited, one of Canada's largest supermarket chain owners, agrees to purchase Canada's largest pharmacy retailer Shoppers Drug Mart for almost $12.4 Billion dollars. ](/news/2013/07/15/loblaw-companies-limited-one-of-canada-s-largest-supermarket-chain-owners-agrees-to-purchase-canada-s-largest-pharmacy-retailer-shoppers-d.md)
@@ -45,7 +45,7 @@ News, email and search are just the beginning. Discover more every day. Find you
 
 ##### Bangladesh
 ### [A war crimes tribunal finds Bangladeshi ex-politician Ghulam Azam, former leader of the Bangladesh Jamaat-e-Islami, guilty of war crimes during the Bangladesh Liberation War in 1971. ](/news/2013/07/15/a-war-crimes-tribunal-finds-bangladeshi-ex-politician-ghulam-azam-former-leader-of-the-bangladesh-jamaat-e-islami-guilty-of-war-crimes-dur.md)
-_Context: Bangladesh Jamaat-e-Islami, Ghulam Azam, war crimes, independence war, Bangladesh_
+_Context: independence war, Bangladesh, Bangladesh Jamaat-e-Islami, Ghulam Azam, war crimes_
 
 ##### House of Lords
 ### [The House of Lords, the upper house of the United Kingdom, approves the Marriage (Same Sex Couples) Bill, meaning it will become law, enabling gay marriage in England and Wales to take place from 2014. ](/news/2013/07/15/the-house-of-lords-the-upper-house-of-the-united-kingdom-approves-the-marriage-same-sex-couples-bill-meaning-it-will-become-law-enabli.md)

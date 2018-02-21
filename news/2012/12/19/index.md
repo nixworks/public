@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/19/index.html)  [JSON](2012/12/19/index.json)  [XML](201
 
 ##### Somali
 ### [Two people are injured in two blasts outside al-Amin mosque in the Somali-dominated Eastleigh district of Nairobi during the evening rush hour. ](/news/2012/12/19/two-people-are-injured-in-two-blasts-outside-al-amin-mosque-in-the-somali-dominated-eastleigh-district-of-nairobi-during-the-evening-rush-ho.md)
-_Context: Nairobi, Somali, Eastleigh_
+_Context: Eastleigh, Somali, Nairobi_
 
 ##### Chad
 ### [Chad sends troops to the Central African Republic to help defend the town of Bria from the Seleka rebel coalition. ](/news/2012/12/19/chad-sends-troops-to-the-central-african-republic-to-help-defend-the-town-of-bria-from-the-seleka-rebel-coalition.md)
@@ -57,11 +57,11 @@ The BBC was forced to replace a tranche of senior news executives following a da
 
 ##### South Korea
 ### [Voters in South Korea go to the polls with exit polls showing a very close race expected between Park Geun-hye of the conservative Saenuri Party and Moon Jae-in of the left-of-centre Democratic United Party. ](/news/2012/12/19/voters-in-south-korea-go-to-the-polls-with-exit-polls-showing-a-very-close-race-expected-between-park-geun-hye-of-the-conservative-saenuri-p.md)
-_Context: Moon Jae-in, Democratic United Party, Saenuri Party, exit poll, South Korea, Park Geun-hye_
+_Context: Moon Jae-in, Park Geun-hye, Democratic United Party, Saenuri Party, South Korea, exit poll_
 
 ##### Russia
 ### [The Russian Soyuz TMA-07M spacecraft launches from the Baikonur Cosmodrome in Kazakhstan, carrying Roman Romanenko, Chris Hadfield and Thomas Marshburn for the ISS Expedition 34 and 35 crews. ](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.md)
-_Context: Thomas Marshburn, Soyuz TMA-07M, Russia, Expedition 35, ISS, Baikonur Cosmodrome, Kazakhstan, Chris Hadfield, Expedition 34, Roman Romanenko_
+_Context: Russia, ISS, Roman Romanenko, Baikonur Cosmodrome, Expedition 34, Chris Hadfield, Expedition 35, Thomas Marshburn, Soyuz TMA-07M, Kazakhstan_
 
 ## [Previous Day...](/news/2012/12/18/index.md)
 

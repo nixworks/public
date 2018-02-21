@@ -17,7 +17,7 @@ Governments of three Gulf states urge citizens to leave &#39;as soon as possible
 
 ##### Dicastery for Promoting Integral Human Development
 ### [Pope Francis, at the start of a two-day nuclear disarmament conference at Vatican City, says countries should not stockpile nuclear weapons even for the purpose of deterrence. ](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.md)
-_Context: stockpile nuclear weapons, Dicastery for Promoting Integral Human Development, nuclear disarmament, Pope Francis_
+_Context: Dicastery for Promoting Integral Human Development, stockpile nuclear weapons, Pope Francis, nuclear disarmament_
 
 ## [Previous Day...](/news/2017/11/9/index.md)
 

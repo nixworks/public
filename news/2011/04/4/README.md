@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/4/index.html)  [JSON](2011/04/4/index.json)  [XML](2011/
 
 ##### United Nations
 ### [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
-_Context: French military, Laurent Gbagbo, United Nations_
+_Context: United Nations, Laurent Gbagbo, French military_
 
 ##### Jandool
 ### [At least 5 people are killed during a bomb explosion at a bus station in Jandool in Lower Dir, Pakistan. ](/news/2011/04/4/at-least-5-people-are-killed-during-a-bomb-explosion-at-a-bus-station-in-jandool-in-lower-dir-pakistan.md)
@@ -13,7 +13,7 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 
 ##### Baton
 ### [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md)
-_Context: baton, Dhaka, tear gas_
+_Context: tear gas, baton, Dhaka_
 
 ##### Policemen
 ### [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
@@ -53,7 +53,7 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco's Rhodesian-born fiancee Charlene Wittstock converts to Roman Catholicism. ](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.md)
-_Context: Charlene, Princess of Monaco, Roman Catholicism, Prince Albert II of Monaco, Rhodesia_
+_Context: Charlene, Princess of Monaco, Prince Albert II of Monaco, Roman Catholicism, Rhodesia_
 
 ##### Bank of Japan
 ### [The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. ](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.md)
@@ -79,7 +79,7 @@ The M11 in Essex is closed following a six-vehicle crash which leaves five peopl
 
 ##### Dog
 ### [A two-year-old dog is reunited with her owner in tsunami-ravished Japan. ](/news/2011/04/4/a-two-year-old-dog-is-reunited-with-her-owner-in-tsunami-ravished-japan.md)
-_Context: Japan, dog_
+_Context: dog, Japan_
 
 ##### Tornado
 ### [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md)
@@ -107,7 +107,7 @@ Prince Albert II of Monaco and his fiancée Charlene Wittstock today began a thr
 
 ##### South Korea
 ### [South Korea approves additional humanitarian aid worth 176 million won to North Korea. ](/news/2011/04/4/south-korea-approves-additional-humanitarian-aid-worth-176-million-won-to-north-korea.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Japanese Foreign Ministry
 ### [The Japanese Foreign Ministry issues a statement that 19 foreign nationals died in the earthquake and tsunami, with dozens more still missing, mostly from China and South Korea. ](/news/2011/04/4/the-japanese-foreign-ministry-issues-a-statement-that-19-foreign-nationals-died-in-the-earthquake-and-tsunami-with-dozens-more-still-missin.md)
@@ -115,7 +115,7 @@ _Context: Japanese Foreign Ministry_
 
 ##### North Korea
 ### [North Korea executes former railways minister Kim Yong Sam in connection with the Ryongchon disaster in 2004. ](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.md)
-_Context: North Korea, Kim Yong Sam, Ryongchon disaster_
+_Context: Kim Yong Sam, North Korea, Ryongchon disaster_
 
 ##### Gilgo
 ### [Three more human remains are found in the Gilgo area of Long Island New York bringing the total number of bodies to eight with a serial killer believed to be responsible. ](/news/2011/04/4/three-more-human-remains-are-found-in-the-gilgo-area-of-long-island-new-york-bringing-the-total-number-of-bodies-to-eight-with-a-serial-kill.md)
@@ -135,7 +135,7 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 
 ##### Than Shwe
 ### [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md)
-_Context: Burma, Than Shwe, State Peace and Development Council, security forces_
+_Context: security forces, Than Shwe, State Peace and Development Council, Burma_
 
 ##### Ivor Callely
 ### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md)
@@ -147,7 +147,7 @@ US president releases email and online video announcing his intention to stand f
 
 ##### Michel "Sweet Micky" Martelly
 ### [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010a2011.md)
-_Context: Haitian general election, 2010-2011, Michel "Sweet Micky" Martelly_
+_Context: Michel "Sweet Micky" Martelly, Haitian general election, 2010-2011_
 
 ##### United Kingdom
 ### [As part of the British government's package of welfare reforms, from today the one-and-a-half million people in the United Kingdom who claim incapacity benefit will begin to receive letters asking them to attend a work capability assessment. The tests are part of government plans to reduce the number of long-term claimants and will take until 2014 to complete. ](/news/2011/04/4/as-part-of-the-british-government-s-package-of-welfare-reforms-from-today-the-one-and-a-half-million-people-in-the-united-kingdom-who-claim.md)

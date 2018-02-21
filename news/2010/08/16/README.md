@@ -5,7 +5,7 @@ Formats: [HTML](2010/08/16/index.html)  [JSON](2010/08/16/index.json)  [XML](201
 
 ##### Philippines Armed Forces
 ### [The Philippine security forces announce they will extend the controversial counter-insurgency tactic Oplan Bantay Laya up until December 31, 2010. The political party Bagong Alyansang Makabayan condemned the extension. ](/news/2010/08/16/the-philippine-security-forces-announce-they-will-extend-the-controversial-counter-insurgency-tactic-oplan-bantay-laya-up-until-december-31.md)
-_Context: Oplan Bantay Laya, communist insurgency, Bagong Alyansang Makabayan, Philippines Armed Forces_
+_Context: Bagong Alyansang Makabayan, Philippines Armed Forces, communist insurgency, Oplan Bantay Laya_
 
 ##### Kashmir
 ### [3 more people are killed during protests in Kashmir. ](/news/2010/08/16/3-more-people-are-killed-during-protests-in-kashmir.md)
@@ -13,7 +13,7 @@ Two suspected militants and a soldier die in a gun battle in Indian-administered
 
 ##### Grenade
 ### [At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. ](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-explosion-outside-a-televisa-television-station-in-monterrey-nuevo-lea3n-mexico.md)
-_Context: Monterrey, Nuevo Leon, Mexico, grenade, Televisa_
+_Context: grenade, Monterrey, Nuevo Leon, Mexico, Televisa_
 
 ##### Mexico
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
@@ -29,7 +29,7 @@ German singer Nadja Benaissa admits at her trial to having unprotected sex with 
 
 ##### United States
 ### [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md)
-_Context: chemotherapy, tumor, United States, Michael Douglas_
+_Context: Michael Douglas, United States, chemotherapy, tumor_
 
 ##### Etienne Balibar
 ### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
@@ -49,7 +49,7 @@ _Context: Russia, its recent heatwave_
 
 ##### An explosion
 ### [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants-s.md)
-_Context: An explosion, Bucharest, Romania_
+_Context: An explosion, Romania, Bucharest_
 
 ##### Nigeria
 ### [As many as 40 people are killed due to a fiery collision between a lorry load of sugar and a police checkpoint in Nigeria. ](/news/2010/08/16/as-many-as-40-people-are-killed-due-to-a-fiery-collision-between-a-lorry-load-of-sugar-and-a-police-checkpoint-in-nigeria.md)
@@ -113,11 +113,11 @@ An Australian hospital says it has performed the southern hemisphere&#39;s first
 
 ##### Titi monkey
 ### [A new species of Titi monkey, the Caqueta Titi, is discovered in the Colombian department of Caqueta. ](/news/2010/08/16/a-new-species-of-titi-monkey-the-caqueta-titi-is-discovered-in-the-colombian-department-of-caqueta.md)
-_Context: Caqueta Titi, Caqueta, Titi monkey, Colombian department_
+_Context: Caqueta, Caqueta Titi, Colombian department, Titi monkey_
 
 ##### University of Toronto
 ### [Scientists at the University of Toronto claim that mountain climbers George Mallory and Andrew Irvine could not have reached the top of Mount Everest in 1924 as they were caught in a perfect storm. ](/news/2010/08/16/scientists-at-the-university-of-toronto-claim-that-mountain-climbers-george-mallory-and-andrew-irvine-could-not-have-reached-the-top-of-moun.md)
-_Context: Mount Everest, University of Toronto, Andrew Irvine, George Mallory, perfect storm, mountain climber_
+_Context: George Mallory, University of Toronto, perfect storm, Mount Everest, Andrew Irvine, mountain climber_
 
 ## [Previous Day...](/news/2010/08/15/index.md)
 

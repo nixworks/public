@@ -9,7 +9,7 @@ _Context: Turkish troops, Kurdistan Workers Party, December 2007 bombing of nort
 
 ##### Baiji
 ### [ A suicide bombing attack in Baiji, Iraq kills at least 34. ](/news/2007/12/25/a-suicide-bombing-attack-in-baiji-iraq-kills-at-least-34.md)
-_Context: Baiji, Iraq_
+_Context: Iraq, Baiji_
 
 ##### Nepal
 ### [ At least 15 people are killed and dozens more missing after the collapse of a suspension bridge in western Nepal. ](/news/2007/12/25/at-least-15-people-are-killed-and-dozens-more-missing-after-the-collapse-of-a-suspension-bridge-in-western-nepal.md)
@@ -21,7 +21,7 @@ _Context: Tajikistan_
 
 ##### San Francisco Zoo
 ### [ In the San Francisco Zoo, a tiger escapes from its enclosure and attacks three visitors, killing one of the men and mauling two others. ](/news/2007/12/25/in-the-san-francisco-zoo-a-tiger-escapes-from-its-enclosure-and-attacks-three-visitors-killing-one-of-the-men-and-mauling-two-others.md)
-_Context: tiger, San Francisco Zoo_
+_Context: San Francisco Zoo, tiger_
 
 ## [Previous Day...](/news/2007/12/24/index.md)
 

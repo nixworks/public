@@ -25,23 +25,23 @@ US doctors say they seem to have cured a baby born with HIV - the virus that cau
 
 ##### Thailand
 ### [Thailand promises to put an end to legal ivory trade within the country. ](/news/2013/03/3/thailand-promises-to-put-an-end-to-legal-ivory-trade-within-the-country.md)
-_Context: Thailand, ivory trade_
+_Context: ivory trade, Thailand_
 
 ##### Scotsman
 ### [Scottish Cardinal Keith O'Brien, who resigned last week due to allegations of sexual impropriety, admitted his past sexual misconduct and apologized for it. ](/news/2013/03/3/scottish-cardinal-keith-o-brien-who-resigned-last-week-due-to-allegations-of-sexual-impropriety-admitted-his-past-sexual-misconduct-and-ap.md)
-_Context: sexual abuse, Scotsman, Cardinal, Keith O'Brien_
+_Context: Cardinal, Scotsman, Keith O'Brien, sexual abuse_
 
 ##### Pregnancy
 ### [While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. ](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.md)
-_Context: Brooklyn, C-section, pregnancy, Hasidic Jewish_
+_Context: Hasidic Jewish, C-section, Brooklyn, pregnancy_
 
 ##### Swiss referendum, 2013
 ### [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md)
-_Context: Switzerland, golden parachutes, CEO, Swiss referendum, 2013, measures_
+_Context: measures, Swiss referendum, 2013, CEO, Switzerland, golden parachutes_
 
 ##### SpaceX CRS-2
 ### [SpaceX CRS-2: The cargo ship SpaceX Dragon docks at the International Space Station after a brief delay. ](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.md)
-_Context: International Space Station, Dragon, SpaceX, SpaceX CRS-2_
+_Context: SpaceX, Dragon, SpaceX CRS-2, International Space Station_
 
 ##### NASA
 ### [NASA's Curiosity rover is switched to a redundant onboard computer in response to an undefined memory issue on the active computer. ](/news/2013/03/3/nasa-s-curiosity-rover-is-switched-to-a-redundant-onboard-computer-in-response-to-an-undefined-memory-issue-on-the-active-computer.md)

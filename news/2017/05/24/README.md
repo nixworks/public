@@ -29,7 +29,7 @@ The four were discovered by a rescue team sent to retrieve the body of another d
 
 ##### Big Sur
 ### [A landslide at Big Sur blocks off a portion of California State Route 1 just south of Gorda; no injuries have been reported. ](/news/2017/05/24/a-landslide-at-big-sur-blocks-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-have-been-reported.md)
-_Context: California State Route 1, Big Sur, Gorda_
+_Context: Big Sur, Gorda, California State Route 1_
 
 ##### LGBT rights in Taiwan
 ### [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md)
@@ -37,7 +37,7 @@ A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling t
 
 ##### Drug crackdown
 ### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
-_Context: Rodrigo Duterte, drug crackdown, Donald Trump_
+_Context: Donald Trump, Rodrigo Duterte, drug crackdown_
 
 ##### Murder of Seth Rich
 ### [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md)
@@ -45,7 +45,7 @@ On May 16, a story was posted on the Fox News website on the investigation into 
 
 ##### Legality of cannabis
 ### [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md)
-_Context: marijuana, Legality of cannabis, Phil Scott, Vermont_
+_Context: Phil Scott, marijuana, Legality of cannabis, Vermont_
 
 ##### Budget
 ### [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again," has a $2 trillion accounting error over 10 years because it uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has-a.md)

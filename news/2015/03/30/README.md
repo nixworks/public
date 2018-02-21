@@ -9,7 +9,7 @@ An air strike killed at least 40 people at a camp for displaced people in north 
 
 ##### Puerto Rico
 ### [Creditors offer Puerto Rico's highly leveraged power authority $2 billion in new financing, including $1.2 billion for a new natural gas operation, in exchange for assurances that it will repay its debt. ](/news/2015/03/30/creditors-offer-puerto-rico-s-highly-leveraged-power-authority-2-billion-in-new-financing-including-1-2-billion-for-a-new-natural-gas-ope.md)
-_Context: $, Puerto Rico_
+_Context: Puerto Rico, $_
 
 ##### UnitedHealth Group
 ### [American company UnitedHealth Group will buy American pharmacy benefit firm Catamaran Corporation for $12.8 billion. ](/news/2015/03/30/american-company-unitedhealth-group-will-buy-american-pharmacy-benefit-firm-catamaran-corporation-for-12-8-billion.md)
@@ -21,7 +21,7 @@ After only three appearances on the Comedy Central show, a 31-year-old comedian 
 
 ##### Papua New Guinea
 ### [A 7.7 magnitude earthquake off the coast of Papua New Guinea prompts a tsunami warning for Papua New Guinea and the Solomon Islands. ](/news/2015/03/30/a-7-7-magnitude-earthquake-off-the-coast-of-papua-new-guinea-prompts-a-tsunami-warning-for-papua-new-guinea-and-the-solomon-islands.md)
-_Context: tsunami, Solomon Islands, Papua New Guinea_
+_Context: Solomon Islands, tsunami, Papua New Guinea_
 
 ##### U.S. Route 27 in Florida
 ### [A van crash on U.S. Route 27 in Florida near the town of Moore Haven results in 8 deaths and 10 injuries. ](/news/2015/03/30/a-van-crash-on-u-s-route-27-in-florida-near-the-town-of-moore-haven-results-in-8-deaths-and-10-injuries.md)
@@ -37,11 +37,11 @@ Officials say two men dressed as women tried to break through a security gate to
 
 ##### Newly elected
 ### [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
-_Context: newly elected, Parliament, Elizabeth II_
+_Context: Elizabeth II, newly elected, Parliament_
 
 ##### Nigerian general election, 2015
 ### [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md)
-_Context: President, Muhammadu Buhari, Nigerian general election, 2015, Niger Delta, Goodluck Jonathan_
+_Context: President, Goodluck Jonathan, Nigerian general election, 2015, Niger Delta, Muhammadu Buhari_
 
 ## [Previous Day...](/news/2015/03/29/index.md)
 

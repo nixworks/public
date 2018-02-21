@@ -13,7 +13,7 @@ _Context: Bank of America_
 
 ##### Gulf of Mexico
 ### [ A storm in the Gulf of Mexico kills 18 Mexican oil workers fleeing an oil rig, with Navy rescue teams trying to reach survivors. ](/news/2007/10/24/a-storm-in-the-gulf-of-mexico-kills-18-mexican-oil-workers-fleeing-an-oil-rig-with-navy-rescue-teams-trying-to-reach-survivors.md)
-_Context: offshore oil platform, Mexican Navy, Mexico, Petroleos Mexicanos, Gulf of Mexico_
+_Context: offshore oil platform, Mexico, Petroleos Mexicanos, Gulf of Mexico, Mexican Navy_
 
 ##### California wildfires of October 2007
 ### [ Moderating winds improve the outlook in the fight against the California wildfires of October 2007. ](/news/2007/10/24/moderating-winds-improve-the-outlook-in-the-fight-against-the-california-wildfires-of-october-2007.md)
@@ -25,7 +25,7 @@ _Context: Blackwater Baghdad shootings, Blackwater, State Department, Richard J.
 
 ##### United Kingdom
 ### [ The United Kingdom announces a unilateral end to the Common Travel Area with the Republic of Ireland. From 2009, passports will be required for the first time, bringing to an end centuries of unimpeded travel between the two countries. ](/news/2007/10/24/the-united-kingdom-announces-a-unilateral-end-to-the-common-travel-area-with-the-republic-of-ireland-from-2009-passports-will-be-required.md)
-_Context: Common Travel Area, United Kingdom, Irish_
+_Context: Irish, United Kingdom, Common Travel Area_
 
 ##### Turkey-PKK conflict
 ### [ Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-earlier-in-the-week-kill.md)
@@ -37,11 +37,11 @@ _Context: Chang'e 1, Chinese_
 
 ##### Pakistan Peoples Party
 ### [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md)
-_Context: Prime Minister, Benazir Bhutto, Pakistan Peoples Party_
+_Context: Prime Minister, Pakistan Peoples Party, Benazir Bhutto_
 
 ##### Prime Minister of Denmark
 ### [ Prime Minister of Denmark Anders Fogh Rasmussen calls early elections for 13 November 2007, less than three years after the last elections in early 2005. ](/news/2007/10/24/prime-minister-of-denmark-anders-fogh-rasmussen-calls-early-elections-for-13-november-2007-less-than-three-years-after-the-last-elections.md)
-_Context: Anders Fogh Rasmussen, last elections in early 2005, early parliamentary elections, Prime Minister of Denmark_
+_Context: early parliamentary elections, Anders Fogh Rasmussen, last elections in early 2005, Prime Minister of Denmark_
 
 ## [Previous Day...](/news/2007/10/23/index.md)
 

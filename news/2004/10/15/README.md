@@ -13,27 +13,27 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Organization of American States
 ### [ Former OAS and Costa Rican president, Miguel Angel Rodriguez, is arrested after stepping down last week on allegations of corruption. He is not formally charged but a judge is demanding him to testify. ](/news/2004/10/15/former-oas-and-costa-rican-president-miguel-angel-rodriguez-is-arrested-after-stepping-down-last-week-on-allegations-of-corruption-he-is.md)
-_Context: Miguel Angel Rodriguez, Organization of American States, Costa Rica, anti-corruption_
+_Context: anti-corruption, Costa Rica, Miguel Angel Rodriguez, Organization of American States_
 
 ##### Israeli Army
 ### [ The Israel Defense Forces clears an officer accused of repeatedly shooting a Palestinian schoolgirl, Iman al-Hams, while she lay wounded or dead, accepting the officer's claim that he actually shot into the ground near the girl. A separate military police investigation is continuing. ](/news/2004/10/15/the-israel-defense-forces-clears-an-officer-accused-of-repeatedly-shooting-a-palestinian-schoolgirl-iman-al-hams-while-she-lay-wounded-or.md)
-_Context: Iman al-Hams, military police, Israeli Army_
+_Context: Israeli Army, Iman al-Hams, military police_
 
 ##### United Nations
 ### [ The United Nations chooses Argentina, Denmark, Greece, Japan, and Tanzania as the non-permanent members of the UN Security Council for its next two-year term, which begins in January 2005. ](/news/2004/10/15/the-united-nations-chooses-argentina-denmark-greece-japan-and-tanzania-as-the-non-permanent-members-of-the-un-security-council-for-its.md)
-_Context: UN Security Council, Denmark, United Nations, Argentina, Tanzania, Japan, Greece_
+_Context: Greece, Denmark, Argentina, Japan, UN Security Council, Tanzania, United Nations_
 
 ##### Darfur
 ### [ A United Nations official says that about 70,000 people have died in the troubled Darfur region of Sudan since March. ](/news/2004/10/15/a-united-nations-official-says-that-about-70-000-people-have-died-in-the-troubled-darfur-region-of-sudan-since-march.md)
-_Context: Sudan, Darfur_
+_Context: Darfur, Sudan_
 
 ##### Zimbabwe
 ### [ Zimbabwean opposition leader Morgan Tsvangirai is acquitted of treason charges. ](/news/2004/10/15/zimbabwean-opposition-leader-morgan-tsvangirai-is-acquitted-of-treason-charges.md)
-_Context: Morgan Tsvangirai, treason, Zimbabwe_
+_Context: Zimbabwe, treason, Morgan Tsvangirai_
 
 ##### Abu Bakar Bashir
 ### [ Indonesian prosecutors file charges against Abu Bakar Bashir, alleging he was involved in an August 2003 bomb attack on a Jakarta hotel and accusing him for the first time of involvement in the 2002 Bali terrorist bombing. ](/news/2004/10/15/indonesian-prosecutors-file-charges-against-abu-bakar-bashir-alleging-he-was-involved-in-an-august-2003-bomb-attack-on-a-jakarta-hotel-and.md)
-_Context: 2002 Bali terrorist bombing, Jakarta, Abu Bakar Bashir_
+_Context: Abu Bakar Bashir, Jakarta, 2002 Bali terrorist bombing_
 
 ## [Previous Day...](/news/2004/10/14/index.md)
 

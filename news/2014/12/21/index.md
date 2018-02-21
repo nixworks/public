@@ -9,7 +9,7 @@ Entertainer Elton John and longtime mate David Furnish have officially converted
 
 ##### Egypt
 ### [Egypt temporarily reopens its border crossing with Gaza, which had been closed since October, until 4 pm Monday. ](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.md)
-_Context: Gaza Strip, Egypt, border crossing_
+_Context: Gaza Strip, border crossing, Egypt_
 
 ##### Avian influenza
 ### [Due to avian influenza in the United States (Oregon), South Korea suspends US imports of poultry. ](/news/2014/12/21/due-to-avian-influenza-in-the-united-states-oregon-south-korea-suspends-us-imports-of-poultry.md)
@@ -17,7 +17,7 @@ South Korea has suspended imports of US poultry and poultry products because of 
 
 ##### Capital punishment in Jordan
 ### [After an eight-year informal moratorium on the death penalty, Jordan executes 11 men. ](/news/2014/12/21/after-an-eight-year-informal-moratorium-on-the-death-penalty-jordan-executes-11-men.md)
-_Context: death penalty, Capital punishment in Jordan, Jordan_
+_Context: Capital punishment in Jordan, Jordan, death penalty_
 
 ##### Pornography
 ### [China has detained more than thirty thousand people within two months for pornography and gambling. ](/news/2014/12/21/china-has-detained-more-than-thirty-thousand-people-within-two-months-for-pornography-and-gambling.md)

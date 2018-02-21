@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/7/the-state-of-emergency-put-in-place-after-the-20
 
 ### [2011-03-7](/news/2011/03/7/index.md)
 
-##### State of emergency
+##### States of emergency
 # The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. 
 
 The national state of emergency imposed after last month&#039;s devastating Christchurch earthquake will be extended on Monday and is likely to be in place for some time, Prime Minister John Key says.
@@ -23,7 +23,7 @@ The national state of emergency imposed after last month&#039;s devastating Chri
 
 ### Related:
 
-1. [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md) _Context: 2011 Canterbury earthquake, New Zealand, state of emergency_
+1. [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md) _Context: 2011 Canterbury earthquake, New Zealand, states of emergency_
 2. [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md) _Context: 2011 Canterbury earthquake, Christchurch, New Zealand_
 3. [A memorial service is held in Christchurch, New Zealand, for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.md) _Context: 2011 Canterbury earthquake, Christchurch, New Zealand_
 4. [Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-very-dangerous-with-up-to-a-t.md) _Context: 2011 Canterbury earthquake, Christchurch, New Zealand_

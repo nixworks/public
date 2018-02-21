@@ -13,11 +13,11 @@ _Context: Scott McClellan, White House Press Secretary, George W. Bush, Karl Rov
 
 ##### Bolivia
 ### [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit ](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit.md)
-_Context: Bolivia, El Mutn, iron ore_
+_Context: Bolivia, iron ore, El Mutn_
 
 ##### Elections in the Solomon Islands
 ### [ Elections in the Solomon Islands: The announcement of the new Prime Minister of the Solomon Islands, Snyder Rini, causes riots in Honiara. Australia and New Zealand promise to send more troops to keep order. ](/news/2006/04/19/elections-in-the-solomon-islands-the-announcement-of-the-new-prime-minister-of-the-solomon-islands-snyder-rini-causes-riots-in-honiara.md)
-_Context: Honiara, Prime Minister, Snyder Rini, Elections in the Solomon Islands_
+_Context: Prime Minister, Honiara, Elections in the Solomon Islands, Snyder Rini_
 
 ## [Previous Day...](/news/2006/04/18/index.md)
 

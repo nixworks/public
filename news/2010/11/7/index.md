@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/7/index.html)  [JSON](2010/11/7/index.json)  [XML](2010/
 
 ##### Somalia
 ### [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md)
-_Context: Somalia, African Union, Al-Shabaab, Burundi, Uganda, Islamist, Mogadishu_
+_Context: Burundi, Islamist, Somalia, African Union, Uganda, Al-Shabaab, Mogadishu_
 
 ##### Baton
 ### [Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. ](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.md)
@@ -21,7 +21,7 @@ Action in Arab town in Negev, following a court order, prompts protest call by M
 
 ##### United States
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: United States, Pakistan, North Waziristan, drone aircraft, drone attack_
+_Context: drone aircraft, United States, Pakistan, North Waziristan, drone attack_
 
 ##### Sons of Iraq
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
@@ -49,15 +49,15 @@ Qantas considers cancelling flights to Jakarta due to the risk posed by ash clou
 
 ##### Iranian Foreign Minister
 ### [Iranian Foreign Minister Manouchehr Mottaki said that Iran has agreed to hold talks with the five UN Security Council permanent members and Germany (G5+1) in Turkey. ](/news/2010/11/7/iranian-foreign-minister-manouchehr-mottaki-said-that-iran-has-agreed-to-hold-talks-with-the-five-un-security-council-permanent-members-and.md)
-_Context: G5, UN Security Council, Iranian Foreign Minister, German, Manouchehr Mottaki, Iran, Turkey_
+_Context: Iranian Foreign Minister, German, UN Security Council, G5, Turkey, Manouchehr Mottaki, Iran_
 
 ##### Israel
 ### [Israel expels Riksdag member Mehmet Kaplan, a veteran of the Gaza flotilla raid, moments after his arrival, claiming he had "failed to follow procedure". Ex-Israeli artist Dror Feiler, who is also currently based in Sweden, is expelled with him. ](/news/2010/11/7/israel-expels-riksdag-member-mehmet-kaplan-a-veteran-of-the-gaza-flotilla-raid-moments-after-his-arrival-claiming-he-had-failed-to-follo.md)
-_Context: Gaza flotilla raid, Israel, Mehmet Kaplan, Sweden, Dror Feiler, Riksdag_
+_Context: Mehmet Kaplan, Sweden, Gaza flotilla raid, Dror Feiler, Israel, Riksdag_
 
 ##### Omar al-Bashir
 ### [Sudanese President Omar al-Bashir arrives in Qatar for talks with Sheikh Hamad bin Khalifa Al Thani. ](/news/2010/11/7/sudanese-president-omar-al-bashir-arrives-in-qatar-for-talks-with-sheikh-hamad-bin-khalifa-al-thani.md)
-_Context: Qatar, Sheikh Hamad bin Khalifa Al Thani, Omar al-Bashir_
+_Context: Omar al-Bashir, Qatar, Sheikh Hamad bin Khalifa Al Thani_
 
 ##### 2009-10 Malmo shootings
 ### [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009a10-malmap-shootin.md)
@@ -73,7 +73,7 @@ _Context: propaganda, Vietnam_
 
 ##### Greece
 ### [Greeks vote in local elections with the Prime Minister George Papandreou threatening to dissolve parliament if his party does not fare well. Early results show that the PASOK is doing well making an early election less likely. ](/news/2010/11/7/greeks-vote-in-local-elections-with-the-prime-minister-george-papandreou-threatening-to-dissolve-parliament-if-his-party-does-not-fare-well.md)
-_Context: Greece, George Papandreou, Greek Prime Minister, PASOK_
+_Context: Greek Prime Minister, PASOK, George Papandreou, Greece_
 
 ##### Guinea
 ### [Voters in Guinea finally go to the polls for the second round of voting in the presidential election. ](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)

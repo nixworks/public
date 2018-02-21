@@ -5,11 +5,11 @@ Formats: [HTML](2006/10/22/index.html)  [JSON](2006/10/22/index.json)  [XML](200
 
 ##### Hurricane Paul
 ### [ Tropical Storm Paul is upgraded to a Category 1 hurricane and is threatening Baja California. ](/news/2006/10/22/tropical-storm-paul-is-upgraded-to-a-category-1-hurricane-and-is-threatening-baja-california.md)
-_Context: Hurricane Paul, Saffir-Simpson Hurricane Scale, Baja California, hurricane_
+_Context: hurricane, Saffir-Simpson Hurricane Scale, Hurricane Paul, Baja California_
 
 ##### Mohammed Shahadeh
 ### [ Mohammed Shahadeh, leader of the al-Aqsa Martyrs Brigades terrorist organization in the Gaza Strip Bureij refugee camp, is shot to death outside his home. Fatah officials accuse members of Hamas of being behind the assassination. ](/news/2006/10/22/mohammed-shahadeh-leader-of-the-al-aqsa-martyrs-brigades-terrorist-organization-in-the-gaza-strip-bureij-refugee-camp-is-shot-to-death-ou.md)
-_Context: Fatah, Bureij, al-Aqsa Martyrs Brigades, Gaza Strip, Mohammed Shahadeh, refugee camp, Hamas_
+_Context: refugee camp, Mohammed Shahadeh, Hamas, Gaza Strip, Bureij, Fatah, al-Aqsa Martyrs Brigades_
 
 ##### Alberto Fernandez
 ### [ Alberto Fernandez, Director of Office of Press and Public Diplomacy in the Bureau of Near Eastern Affairs at the United States Department of State, apologises for saying the United States Government has shown "arrogance and stupidity" in Iraq. ](/news/2006/10/22/alberto-fernandez-director-of-office-of-press-and-public-diplomacy-in-the-bureau-of-near-eastern-affairs-at-the-united-states-department-o.md)
@@ -21,19 +21,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Panama
 ### [ Based on extraofficial partial results, Panama has approved in a referendum a $5.25 billion USD plan to expand the Panama Canal by 79% (40% of votes counted). ](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.md)
-_Context: approved in a referendum, Panama Canal, plan to expand, Panama_
+_Context: Panama Canal, Panama, plan to expand, approved in a referendum_
 
 ##### Iceland
 ### [ Icelandic fisherman kill a Fin Whale, breaking the International Whaling Commission's ban on commercial whaling. ](/news/2006/10/22/icelandic-fisherman-kill-a-fin-whale-breaking-the-international-whaling-commission-s-ban-on-commercial-whaling.md)
-_Context: whaling, Iceland, Fin Whale, International Whaling Commission_
+_Context: International Whaling Commission, Iceland, Fin Whale, whaling_
 
 ##### Sudan
 ### [ The government of Sudan gives United Nations envoy Jan Pronk three days notice to leave the country over comments on the military situation in Darfur made on his weblog. ](/news/2006/10/22/the-government-of-sudan-gives-united-nations-envoy-jan-pronk-three-days-notice-to-leave-the-country-over-comments-on-the-military-situation.md)
-_Context: United Nations, Sudan, Darfur, blog, Jan Pronk_
+_Context: United Nations, Jan Pronk, Darfur, Sudan, blog_
 
 ##### Israel
 ### [ Israeli defense minister Amir Peretz says flights over Lebanon will continue until UN Security Council Resolution 1701 is fully implemented. ](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-flights-over-lebanon-will-continue-until-un-security-council-resolution-1701-is-fully-implemented.md)
-_Context: Amir Peretz, defense minister, UN Security Council Resolution 1701, Israel, Lebanese_
+_Context: Israel, Amir Peretz, UN Security Council Resolution 1701, Lebanese, defense minister_
 
 ##### Michael Schumacher
 ### [ Michael Schumacher, seven times Formula One World Champion, retires from the sport. ](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.md)

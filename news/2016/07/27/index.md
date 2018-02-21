@@ -25,7 +25,7 @@ Britain’s economy has posted its 14th consecutive quarter of growth, but some 
 
 ##### Chinese
 ### [China claims to have discovered the largest undersea hole dubbed "The Dragon's Hole" in the disputed Paracel Islands. ](/news/2016/07/27/china-claims-to-have-discovered-the-largest-undersea-hole-dubbed-the-dragon-s-hole-in-the-disputed-paracel-islands.md)
-_Context: Chinese, The Dragon's Hole, Paracel Islands_
+_Context: Paracel Islands, Chinese, The Dragon's Hole_
 
 ##### Facebook
 ### [Facebook beats earnings expectations. ](/news/2016/07/27/facebook-beats-earnings-expectations.md)
@@ -53,7 +53,7 @@ The crashed remains from Flight MH370 could be as much as 500km further north th
 
 ##### Ice Bucket Challenge
 ### [Two years after its launch, supporters of the Ice Bucket Challenge to bring awareness to ALS celebrate scientific discovery regarding NEK1. ](/news/2016/07/27/two-years-after-its-launch-supporters-of-the-ice-bucket-challenge-to-bring-awareness-to-als-celebrate-scientific-discovery-regarding-nek1.md)
-_Context: ALS, NEK1, Ice Bucket Challenge_
+_Context: Ice Bucket Challenge, ALS, NEK1_
 
 ##### 2015-16 Zika virus epidemic
 ### [Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/four-florida-residents-may-have-been-infected-by-the-virus-locally.md)
@@ -97,7 +97,7 @@ Jupiter&#039;s Great Red Spot may fuel the extreme heat observed in the planet&#
 
 ##### Orangutan
 ### [Researchers have discovered that orangutans can control their vocal pitch, a link to human speech. ](/news/2016/07/27/researchers-have-discovered-that-orangutans-can-control-their-vocal-pitch-a-link-to-human-speech.md)
-_Context: human speech, orangutan_
+_Context: orangutan, human speech_
 
 ##### North America
 ### [Biologists have determined that the only 'true' species of wolf in North America is the gray wolf while the red wolf is a wolf hybridized with a coyote. ](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.md)

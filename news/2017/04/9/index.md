@@ -21,7 +21,7 @@ Nearly 200 people around Efate, the main island in Vanuatu, have been moved to e
 
 ##### North Korea-United States relations
 ### [The United States Pacific Command deploys warships, including the USS "Carl Vinson", to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north-ko.md)
-_Context: state sponsor of terrorism, North Korea's nuclear program, USS ''Carl Vinson'', North Korea, Korean Peninsula, Sharyat missile strike, U.S. Pacific Command, North Korea-United States relations_
+_Context: Sharyat missile strike, North Korea-United States relations, U.S. Pacific Command, North Korea, state sponsor of terrorism, Korean Peninsula, North Korea's nuclear program, USS ''Carl Vinson''_
 
 ##### United Express Flight 3411 incident
 ### [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md)
@@ -29,7 +29,7 @@ Video of police officers dragging a passenger from an overcrowded United Airline
 
 ##### South Ossetian presidential election
 ### [Voters in the breakaway state of South Ossetia go to the polls for an election and a referendum. The referendum will ask voters if the country's official name should be changed to "Republic of South Ossetia-the State of Alania". ](/news/2017/04/9/voters-in-the-breakaway-state-of-south-ossetia-go-to-the-polls-for-an-election-and-a-referendum-the-referendum-will-ask-voters-if-the-count.md)
-_Context: South Ossetian presidential election, South Ossetia, Name change referendum, 2017_
+_Context: Name change referendum, 2017, South Ossetia, South Ossetian presidential election_
 
 ##### Finnish municipal elections, 2017
 ### [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md)

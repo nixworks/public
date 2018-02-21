@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/18/index.html)  [JSON](2016/08/18/index.json)  [XML](201
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Turkey, Kurdish-Turkish conflict (2015-present)_
+_Context: Kurdish-Turkish conflict (2015-present), Turkey_
 
 ##### Syrian civil war
 ### [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md)
@@ -21,7 +21,7 @@ Former American football star Darren Sharper is sentenced to 18 years in prison 
 
 ##### National Human Rights Commission
 ### [Mexico's National Human Rights Commission says 22 people were executed by federal police during the 2015 Ecuandureo shootout in the western state of Michoacan last year. ](/news/2016/08/18/mexico-s-national-human-rights-commission-says-22-people-were-executed-by-federal-police-during-the-2015-ecuandureo-shootout-in-the-western.md)
-_Context: National Human Rights Commission, Michoacan, 2015 Ecuandureo shootout_
+_Context: 2015 Ecuandureo shootout, National Human Rights Commission, Michoacan_
 
 ##### Fiji
 ### [Fiji prime minister Voreqe Bainimarama scraps plans to change the flag of Fiji as the feel-good factor envelops the Pacific nation following a first Olympic medal, a gold in men's rugby sevens. ](/news/2016/08/18/fiji-prime-minister-voreqe-bainimarama-scraps-plans-to-change-the-flag-of-fiji-as-the-feel-good-factor-envelops-the-pacific-nation-following.md)

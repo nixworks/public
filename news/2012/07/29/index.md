@@ -9,7 +9,7 @@ _Context: Syria, Aleppo_
 
 ##### Sana'a
 ### [A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. ](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.md)
-_Context: Sana'a, Yemen_
+_Context: Yemen, Sana'a_
 
 ##### Tropical Storm Khanun
 ### [Tropical Storm Khanun kills 88 people and leaves 60,000 homeless in North Korea, according to state media. ](/news/2012/07/29/tropical-storm-khanun-kills-88-people-and-leaves-60-000-homeless-in-north-korea-according-to-state-media.md)
@@ -17,15 +17,15 @@ _Context: North Korea, Tropical Storm Khanun_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo accuses Rwanda of backing rebels hostile to the Congolese government. ](/news/2012/07/29/the-democratic-republic-of-the-congo-accuses-rwanda-of-backing-rebels-hostile-to-the-congolese-government.md)
-_Context: DR Congo, Rwanda_
+_Context: Rwanda, DR Congo_
 
 ##### Islamist
 ### [Ten more Islamists are arrested in the United Arab Emirates as part of a crackdown on dissidents, according to activists. ](/news/2012/07/29/ten-more-islamists-are-arrested-in-the-united-arab-emirates-as-part-of-a-crackdown-on-dissidents-according-to-activists.md)
-_Context: dissidents, United Arab Emirates, Islamist_
+_Context: United Arab Emirates, dissidents, Islamist_
 
 ##### Japan
 ### [Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. ](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.md)
-_Context: Tokyo, Japan, parliament_
+_Context: Japan, parliament, Tokyo_
 
 ##### Hong Kong
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)
@@ -37,7 +37,7 @@ Turnout of less than 50% means Romanian President Traian Basescu survives a stro
 
 ##### Nature Geoscience
 ### [New research published in this week's "Nature Geoscience" details a mechanism by which carbon is drawn down from the surface of the Southern Ocean to deeper water below. ](/news/2012/07/29/new-research-published-in-this-week-s-nature-geoscience-details-a-mechanism-by-which-carbon-is-drawn-down-from-the-surface-of-the-southern.md)
-_Context: Nature Geoscience, Southern Ocean, carbon_
+_Context: Southern Ocean, Nature Geoscience, carbon_
 
 ## [Previous Day...](/news/2012/07/28/index.md)
 

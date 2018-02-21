@@ -9,7 +9,7 @@ The Syrian army said it had taken control of an important district in rebel-held
 
 ##### Turkey-ISIL conflict
 ### [Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel-forces-caused-symptoms.md)
-_Context: ISIL, Turkish troops, Turkey-ISIL conflict, Syria_
+_Context: Turkish troops, Turkey-ISIL conflict, Syria, ISIL_
 
 ##### Spillover of the Syrian Civil War
 ### [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md)
@@ -33,7 +33,7 @@ Five people on board an Iranian helicopter were killed when it crashed into the 
 
 ##### Mass shooting
 ### [One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. ](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.md)
-_Context: New Orleans, French Quarter, mass shooting, Bayou Classic_
+_Context: New Orleans, French Quarter, Bayou Classic, mass shooting_
 
 ##### The Republicans (France) presidential primary, 2016
 ### [A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.md)
@@ -41,7 +41,7 @@ Francois Fillon looks set to win the French Republican primaries.
 
 ##### Swiss referendums, 2016
 ### [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
-_Context: nuclear power, Swiss referendums, 2016, Switzerland_
+_Context: Switzerland, nuclear power, Swiss referendums, 2016_
 
 ##### 2016 United States presidential election recount and audit
 ### [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md)

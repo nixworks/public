@@ -9,7 +9,7 @@ Gun battle at base in southern part of Indian-administered Kashmir leaves five s
 
 ##### Boycott, Divestment and Sanctions
 ### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
-_Context: Lorde, Israel, Boycott, Divestment and Sanctions, rabbi, The Washington Post, bigot_
+_Context: The Washington Post, rabbi, Boycott, Divestment and Sanctions, bigot, Israel, Lorde_
 
 ##### Value Added Tax
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
@@ -37,7 +37,7 @@ Attackers set mattresses on fire and burned bodies of those killed, authorities 
 
 ##### Law of Alaska
 ### [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md)
-_Context: Law of Alaska, bail, Alaska_
+_Context: Law of Alaska, Alaska, bail_
 
 ##### 2017-18 Iranian protests
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)

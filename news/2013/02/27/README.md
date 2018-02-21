@@ -49,7 +49,7 @@ Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time 
 
 ##### Chuck Hagel
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: Chuck Hagel, United States, United States Secretary of Defense, Leon Panetta_
+_Context: United States Secretary of Defense, United States, Chuck Hagel, Leon Panetta_
 
 ##### United States Senate
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)

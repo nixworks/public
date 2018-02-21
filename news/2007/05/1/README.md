@@ -13,27 +13,27 @@ The president rejects legislation to pull U.S. troops out of Iraq, calling it &q
 
 ##### Rupert Murdoch
 ### [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the "Wall Street Journal". ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journal.md)
-_Context: News Corporation, $, Rupert Murdoch, Dow Jones, CEO, Wall Street Journal_
+_Context: Rupert Murdoch, Dow Jones, News Corporation, CEO, Wall Street Journal, $_
 
 ##### July elections
 ### [ Turkish presidential election, 2007: The Constitutional Court of Turkey annuls last Friday's presidential vote in the Grand National Assembly after a challenge by opposition parties. ](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.md)
-_Context: Turkish Parliament, Constitutional Court of Turkey, July elections_
+_Context: Constitutional Court of Turkey, Turkish Parliament, July elections_
 
 ##### Apartment
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
-_Context: Spain, apartment, Palencia_
+_Context: apartment, Palencia, Spain_
 
 ##### Police
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
-_Context: Police, Belgium, United Kingdom, animal rights, the Netherlands_
+_Context: the Netherlands, Police, United Kingdom, Belgium, animal rights_
 
 ##### Deutsche Brse
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
-_Context: market, United States, stock options, Frankfurt Stock Exchange, derivatives, International Securities Exchange, Deutsche Brse_
+_Context: Frankfurt Stock Exchange, derivatives, International Securities Exchange, Deutsche Brse, United States, stock options, market_
 
 ##### Nigeria
 ### [ Nigerian opposition and civil society groups join trade unions in May Day rallies against the recent presidential election which saw Umaru Yar'Adua elected as the President of Nigeria. ](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.md)
-_Context: Nigeria, Umaru Yar'Adua, labour unions, presidential election, President, May Day, civil society_
+_Context: presidential election, Nigeria, civil society, labour unions, May Day, President, Umaru Yar'Adua_
 
 ##### Eitan Cabel
 ### [ Eitan Cabel, a member of the Israeli Cabinet resigns in protest of Prime Minister Ehud Olmert's handling of the 2006 Lebanon War. ](/news/2007/05/1/eitan-cabel-a-member-of-the-israeli-cabinet-resigns-in-protest-of-prime-minister-ehud-olmert-s-handling-of-the-2006-lebanon-war.md)
@@ -45,7 +45,7 @@ _Context: LTTE, Victoria, Melbourne_
 
 ##### Macau
 ### [ Thousands of Macau residents demonstrate against the government's labour policy and corruption on May Day, resulting in a clash with police. One bystander was injured. ](/news/2007/05/1/thousands-of-macau-residents-demonstrate-against-the-government-s-labour-policy-and-corruption-on-may-day-resulting-in-a-clash-with-police.md)
-_Context: Macau, May Day_
+_Context: May Day, Macau_
 
 ## [Previous Day...](/news/2007/04/30/index.md)
 

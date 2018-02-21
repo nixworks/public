@@ -5,15 +5,15 @@ Formats: [HTML](2005/04/7/index.html)  [JSON](2005/04/7/index.json)  [XML](2005/
 
 ##### Mexico
 ### [ The Mexican Chamber of Deputies votes by 360 to 127 to suspend the executive immunity of Mayor Andrs Manuel Lpez Obrador of Mexico City, thereby removing him from office to face criminal charges. ](/news/2005/04/7/the-mexican-chamber-of-deputies-votes-by-360-to-127-to-suspend-the-executive-immunity-of-mayor-andres-manuel-lopez-obrador-of-mexico-city.md)
-_Context: Andrs Manuel Lpez Obrador, Mexico City, criminal charges, Chamber of Deputies, Mayor, Mexico_
+_Context: criminal charges, Chamber of Deputies, Andrs Manuel Lpez Obrador, Mexico City, Mayor, Mexico_
 
 ##### Palestinian
 ### [ A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and-no-injuries-israeli-defence-mi.md)
-_Context: Palestinian Authority, Shaul Mofaz, Qassam rocket, Sderot, cemetery, Palestinian, Green line_
+_Context: Shaul Mofaz, Palestinian Authority, Palestinian, Green line, Qassam rocket, Sderot, cemetery_
 
 ##### Ibrahim Jaafari
 ### [ Ibrahim Jaafari, a Shia, has replaced Iyad Allawi as the interim prime minister of Iraq. ](/news/2005/04/7/ibrahim-jaafari-a-shia-has-replaced-iyad-allawi-as-the-interim-prime-minister-of-iraq.md)
-_Context: Shia, Ibrahim Jaafari, Iraq, Iyad Allawi, prime minister_
+_Context: Iyad Allawi, Iraq, prime minister, Shia, Ibrahim Jaafari_
 
 ##### India
 ### [ Passenger buses set out from India to Pakistan across the Indian Kashmir barrier through the troubled and controversial Kashmir region in a symbolic "Caravan of Peace." Some attacks on the buses were reported in the militant-occupied area, but none were successful, according to local media outlets. ](/news/2005/04/7/passenger-buses-set-out-from-india-to-pakistan-across-the-indian-kashmir-barrier-through-the-troubled-and-controversial-kashmir-region-in-a.md)
@@ -21,15 +21,15 @@ Buses departed Thursday from both the Indian and Pakistani sides of divided Kash
 
 ##### Taiwan
 ### [ The President of the Republic of China (Taiwan) Chen Shui-bian will be accompanied by his foreign minister as well as Roman Catholic and Muslim religious figures for the trip to attend the funeral of Pope John Paul II. ](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.md)
-_Context: Taiwan, Pope John Paul II, Roman Catholic, Chen Shui-bian, Taiwan_
+_Context: Roman Catholic, Taiwan, Pope John Paul II, Taiwan, Chen Shui-bian_
 
-##### Canadian
+##### Canada
 ### [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md)
-_Context: Shahram Azam, Canadian, Iran, Zahra Kazemi_
+_Context: Canada, Shahram Azam, Zahra Kazemi, Iran_
 
 ##### London
 ### [ In London, Sir Ian Blair, the chief of metropolitan police, orders an inquiry of claims that journalists of "The Sun" smuggled a fake bomb into grounds of Windsor Castle. ](/news/2005/04/7/in-london-sir-ian-blair-the-chief-of-metropolitan-police-orders-an-inquiry-of-claims-that-journalists-of-the-sun-smuggled-a-fake-bomb.md)
-_Context: The Sun, Windsor Castle, Ian Blair, London_
+_Context: London, Ian Blair, The Sun, Windsor Castle_
 
 ##### Sinn Fin
 ### [ Sinn Fin leader Gerry Adams appeals to the IRA to stop violence. ](/news/2005/04/7/sinn-fein-leader-gerry-adams-appeals-to-the-ira-to-stop-violence.md)
@@ -45,11 +45,11 @@ _Context: Switzerland_
 
 ##### Malaysia
 ### [ The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement ](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.md)
-_Context: trade agreement, Malaysia, Australia_
+_Context: Malaysia, Australia, trade agreement_
 
 ##### Netherlands
 ### [ Police in the Netherlands arrest a gang that has smuggled Chinese asylum seekers and sold them for cheap labor. ](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has-smuggled-chinese-asylum-seekers-and-sold-them-for-cheap-labor.md)
-_Context: cheap labor, Chinese, Netherlands, asylum, human trafficking_
+_Context: cheap labor, human trafficking, Netherlands, asylum, Chinese_
 
 ## [Previous Day...](/news/2005/04/6/index.md)
 

@@ -13,7 +13,7 @@ _Context: ISIL, Free Syrian Army, Azaz, al-Qaida_
 
 ##### Japan
 ### [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md)
-_Context: Chinese, territorial waters, Senkaku Islands dispute, Japan, Senkaku Islands_
+_Context: Japan, Senkaku Islands dispute, Senkaku Islands, territorial waters, Chinese_
 
 ##### Singapore police
 ### [Singapore police arrest 14 people in Singapore in relation to alleged match fixing in football matches, including alleged financier and organiser Dan Tan Seet Eng. ](/news/2013/09/19/singapore-police-arrest-14-people-in-singapore-in-relation-to-alleged-match-fixing-in-football-matches-including-alleged-financier-and-orga.md)

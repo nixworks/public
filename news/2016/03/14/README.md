@@ -9,11 +9,11 @@ Turkey begins operations against PKK Kurdish rebels at home and in Iraq, a day a
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-over-israeli-soldiers-multiple-guns-were-found-in.md)
-_Context: Israeli, Palestinian, Israeli-Palestinian conflict (2015-present), Israeli Defence Forces_
+_Context: Israeli-Palestinian conflict (2015-present), Palestinian, Israeli Defence Forces, Israeli_
 
 ##### Mexican Drug War
 ### [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md)
-_Context: Mexican Drug War, Mexico, Reynosa_
+_Context: Mexico, Mexican Drug War, Reynosa_
 
 ##### Saudi-led intervention in Yemen
 ### [A United Arab Emirates Air Force fighter jet crashes in a mountainous area near the southern Yemeni city of Aden, killing both pilots. ](/news/2016/03/14/a-united-arab-emirates-air-force-fighter-jet-crashes-in-a-mountainous-area-near-the-southern-yemeni-city-of-aden-killing-both-pilots.md)
@@ -37,7 +37,7 @@ Some of the injured in critical condition; cause of incident being investigated
 
 ##### North Korea's nuclear program
 ### [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md)
-_Context: Korean Central News Agency, Kim Jong-un, North Korea, leader, North Korea's nuclear program_
+_Context: Kim Jong-un, North Korea, North Korea's nuclear program, leader, Korean Central News Agency_
 
 ##### Status of press freedom worldwide
 ### [Australian Foreign Minister Julie Bishop says the government is very concerned about Saturday's arrest and detention of two Australian Broadcasting Corporation journalists who attempted to interview Malaysian Prime Minister Najib Razak. The pair, who are in Malaysia to investigate allegations of corruption and bribery involving the prime minister, were detained by Malaysian police for six hours, and told not to leave the country. ](/news/2016/03/14/australian-foreign-minister-julie-bishop-says-the-government-is-very-concerned-about-saturday-s-arrest-and-detention-of-two-australian-broad.md)

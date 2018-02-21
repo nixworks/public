@@ -5,19 +5,19 @@ Formats: [HTML](2006/09/3/index.html)  [JSON](2006/09/3/index.json)  [XML](2006/
 
 ##### Israeli-Palestinian conflict
 ### [ Egyptian daily "Al Akhbar" reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-israelis-on-holiday-on-egypt-s-si.md)
-_Context: Al Akhbar, Palestinian terrorist, Egypt, Sinai Peninsula, Israel, Israeli-Palestinian conflict_
+_Context: Israeli-Palestinian conflict, Sinai Peninsula, Egypt, Palestinian terrorist, Al Akhbar, Israel_
 
 ##### Europe
 ### [ Europe's first lunar probe, "SMART-1," successfully crash-lands onto the moon, ending its 16-month mission. ](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.md)
-_Context: the moon, Europe, SMART-1_
+_Context: SMART-1, the moon, Europe_
 
 ##### Iraqi insurgency
 ### [ Mouwaffak al-Rubaie, Iraq's National Security Advisor, announces the capture of Hamed Jumaa Farid al-Saeedi, the second most senior figure in al-Qaeda in Iraq. ](/news/2006/09/3/mouwaffak-al-rubaie-iraq-s-national-security-advisor-announces-the-capture-of-hamed-jumaa-farid-al-saeedi-the-second-most-senior-figure.md)
-_Context: Iraq, Mouwaffak al-Rubaie, al-Qaeda in Iraq, Iraqi insurgency, Hamed Jumaa Farid al-Saeedi, National Security Advisor_
+_Context: National Security Advisor, Iraqi insurgency, Iraq, Hamed Jumaa Farid al-Saeedi, al-Qaeda in Iraq, Mouwaffak al-Rubaie_
 
 ##### Afghan
 ### [ More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md)
-_Context: Afghan, Canadian, Kandahar, Taliban_
+_Context: Taliban, Canadian, Kandahar, Afghan_
 
 ##### Kayaking world record
 ### [ The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-between-sweden-and-estonia.md)

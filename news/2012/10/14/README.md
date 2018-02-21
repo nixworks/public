@@ -37,7 +37,7 @@ For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and
 
 ##### Felix Baumgartner
 ### [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md)
-_Context: space diving, Felix Baumgartner, Roswell, New Mexico, Red Bull Stratos_
+_Context: Red Bull Stratos, Roswell, New Mexico, Felix Baumgartner, space diving_
 
 ## [Previous Day...](/news/2012/10/13/index.md)
 

@@ -21,7 +21,7 @@ At least 10 people have been killed and many injured in a suicide attack in a bu
 
 ##### Australia
 ### [Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.md)
-_Context: Australia, Boyne River, Gladstone_
+_Context: Gladstone, Australia, Boyne River_
 
 ##### Colombia
 ### [20 musicians from the band, Kombo Kolombia, who play Colombian vallenato music, are missing after playing a gig in Hidalgo, Mexico. ](/news/2013/01/26/20-musicians-from-the-band-kombo-kolombia-who-play-colombian-vallenato-music-are-missing-after-playing-a-gig-in-hidalgo-mexico.md)
@@ -33,11 +33,11 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 
 ##### Hacktivist
 ### [Hacktivist group Anonymous claims credit for the hacking of the website of the United States Sentencing Commission in response to the suicide of Aaron Swartz. ](/news/2013/01/26/hacktivist-group-anonymous-claims-credit-for-the-hacking-of-the-website-of-the-united-states-sentencing-commission-in-response-to-the-suicid.md)
-_Context: Aaron Swartz, Hacktivist, United States Sentencing Commission, hacker group Anonymous_
+_Context: hacker group Anonymous, Hacktivist, United States Sentencing Commission, Aaron Swartz_
 
 ##### Milos Zeman
 ### [Milos Zeman wins Czech presidential election and becomes the next President of the Czech Republic running ahead of Karel Schwarzenberg. ](/news/2013/01/26/miloa-zeman-wins-czech-presidential-election-and-becomes-the-next-president-of-the-czech-republic-running-ahead-of-karel-schwarzenberg.md)
-_Context: Czech Republic, Milos Zeman, President, Czech presidential election, Karel Schwarzenberg_
+_Context: Czech presidential election, Czech Republic, President, Karel Schwarzenberg, Milos Zeman_
 
 ##### Lee Li Lian
 ### [Lee Li Lian of the Workers' Party wins Punggol East by-election in Singapore and becomes the next MP for Punggol East. This was the second Singaporean by-election after less than a year. ](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.md)

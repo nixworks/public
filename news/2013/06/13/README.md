@@ -45,7 +45,7 @@ Dale Cregan will spend the rest of his life in jail for four murders including t
 
 ##### Zimbabwe
 ### [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md)
-_Context: Morgan Tsvangirai, recent elections, Robert Mugabe, Zimbabwe_
+_Context: Robert Mugabe, Morgan Tsvangirai, recent elections, Zimbabwe_
 
 ## [Previous Day...](/news/2013/06/12/index.md)
 

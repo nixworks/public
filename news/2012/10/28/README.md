@@ -5,11 +5,11 @@ Formats: [HTML](2012/10/28/index.html)  [JSON](2012/10/28/index.json)  [XML](201
 
 ##### Damascus
 ### [Opposition activists report at least 128 deaths around the country, as the UN-brokered ceasefire appears to collapse. The Syrian Army bombards three Damascus districts and the city of Bara near Idlib, killing at least 22 people. ](/news/2012/10/28/opposition-activists-report-at-least-128-deaths-around-the-country-as-the-un-brokered-ceasefire-appears-to-collapse-the-syrian-army-bombar.md)
-_Context: Damascus, Idlib_
+_Context: Idlib, Damascus_
 
 ##### Eight car bombings
 ### [Iraqi insurgency: Car bombings in and around Baghdad kill 15 and injure 33 others. ](/news/2012/10/28/iraqi-insurgency-car-bombings-in-and-around-baghdad-kill-15-and-injure-33-others.md)
-_Context: eight car bombings, Baghdad_
+_Context: Baghdad, eight car bombings_
 
 ##### Kaduna
 ### [Ten people are killed and over 100 injured after a suicide bombing and reprisal attacks close to a Catholic church in Kaduna, Northern Nigeria. ](/news/2012/10/28/ten-people-are-killed-and-over-100-injured-after-a-suicide-bombing-and-reprisal-attacks-close-to-a-catholic-church-in-kaduna-northern-niger.md)
@@ -21,7 +21,7 @@ World body says more than 22,000 people have been displaced after a flare-up in 
 
 ##### East Coast of the United States
 ### [The East Coast of the United States prepares for Hurricane Sandy, which has killed at least 67 people and caused widespread damage in the Caribbean. ](/news/2012/10/28/the-east-coast-of-the-united-states-prepares-for-hurricane-sandy-which-has-killed-at-least-67-people-and-caused-widespread-damage-in-the-ca.md)
-_Context: Hurricane Sandy, East Coast of the United States, Caribbean_
+_Context: Hurricane Sandy, Caribbean, East Coast of the United States_
 
 ##### Dragon cargo capsule
 ### [The SpaceX Dragon capsule on a re-supply mission to the International Space Station returns to Earth. ](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.md)

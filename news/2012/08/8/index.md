@@ -13,7 +13,7 @@ Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier 
 
 ##### Chinese
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: Chinese, rare earth_
+_Context: rare earth, Chinese_
 
 ##### Typhoon Haikui
 ### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
@@ -57,7 +57,7 @@ _Context: Jared Lee Loughner, 2011 Tucson shooting_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
-_Context: United Nations Convention against Corruption, German_
+_Context: German, United Nations Convention against Corruption_
 
 ##### Prime Minister of Japan
 ### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate. This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: regional, Viktor Yanukovych, Hungarian, Russian language, Russian-speaking regions, Ukrainian President, Crimean Tatar language, minority language_
+_Context: Crimean Tatar language, minority language, regional, Ukrainian President, Russian language, Russian-speaking regions, Hungarian, Viktor Yanukovych_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

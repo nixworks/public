@@ -9,7 +9,7 @@ Much of Syria, including the capital Damascus, was hit by a power cut late on We
 
 ##### Islamist
 ### [Eight police officers and two Islamist militants are killed in clashes near Sidi Bouzid in the southern part of Tunisia. ](/news/2013/10/23/eight-police-officers-and-two-islamist-militants-are-killed-in-clashes-near-sidi-bouzid-in-the-southern-part-of-tunisia.md)
-_Context: Tunisia, Islamist, Sidi Bouzid_
+_Context: Tunisia, Sidi Bouzid, Islamist_
 
 ##### Chad
 ### [A suicide bomber kills two Chadian troops and injures six other MINUSMA peacekeepers in an attack on a checkpoint at the entry to the northern town of Tessalit, Mali. ](/news/2013/10/23/a-suicide-bomber-kills-two-chadian-troops-and-injures-six-other-minusma-peacekeepers-in-an-attack-on-a-checkpoint-at-the-entry-to-the-northe.md)
@@ -41,7 +41,7 @@ A Chinese newspaper publishes a full-page appeal for the release of one of its j
 
 ##### Cambodia
 ### [Thousands of opposition supporters protest in the Cambodian capital Phnom Penh following disputed July elections which saw incumbent Prime Minister Hun Sen re-elected. ](/news/2013/10/23/thousands-of-opposition-supporters-protest-in-the-cambodian-capital-phnom-penh-following-disputed-july-elections-which-saw-incumbent-prime-m.md)
-_Context: Cambodia, Phnom Penh, Hun Sen, July elections_
+_Context: July elections, Hun Sen, Cambodia, Phnom Penh_
 
 ##### 
 ### [President Obama's staff has unmasked and fired a national security official who tweeted critical comments under a pseudonym. ](/news/2013/10/23/president-obama-s-staff-has-unmasked-and-fired-a-national-security-official-who-tweeted-critical-comments-under-a-pseudonym.md)

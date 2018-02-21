@@ -13,7 +13,7 @@ _Context: two years of helping_
 
 ##### Russia
 ### [ Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.md)
-_Context: MICEX, Russia, RTS, Alexei Kudrin_
+_Context: Alexei Kudrin, Russia, RTS, MICEX_
 
 ##### Housing crisis
 ### [ Subprime mortgage crisis: The United States Federal Reserve agrees to lend the American International Group $85 billion in return for a 79.9% stake. ](/news/2008/09/16/subprime-mortgage-crisis-the-united-states-federal-reserve-agrees-to-lend-the-american-international-group-85-billion-in-return-for-a-79.md)
@@ -25,11 +25,11 @@ Six men have been found guilty of forming a Melbourne-based terrorist cell.
 
 ##### United States
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Sodertalje, Sweden, United States, Iraq war, Iraq_
+_Context: United States, Sodertalje, Iraq, Sweden, Iraq war_
 
 ##### Hamas-Fatah conflict
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
-_Context: Fatah, Gaza, Hamas-Fatah conflict, Doghmush, Hamas_
+_Context: Hamas-Fatah conflict, Hamas, Fatah, Doghmush, Gaza_
 
 ##### The Ukrainian government collapse
 ### [ Ukraine's ruling coalition is formally dissolved after parties supporting Prime Minister Yulia Tymoshenko, in alliance with the Party of Regions, pushed legislation limiting the powers of President Viktor Yushchenko resulting in his party's withdrawal from the coalition. Tymoshenko's party is expected to form an alliance with the Party of Regions or new elections will be held. ](/news/2008/09/16/ukraine-s-ruling-coalition-is-formally-dissolved-after-parties-supporting-prime-minister-yulia-tymoshenko-in-alliance-with-the-party-of-re.md)
@@ -41,7 +41,7 @@ _Context: largest teachers' union, Oregon_
 
 ##### Malcolm Turnbull
 ### [ Malcolm Turnbull is elected as the new leader of the Federal Liberal Party of Australia and Leader of the Opposition following a leadership spill. ](/news/2008/09/16/malcolm-turnbull-is-elected-as-the-new-leader-of-the-federal-liberal-party-of-australia-and-leader-of-the-opposition-following-a-leadership.md)
-_Context: Leader of the Opposition, Liberals, Malcolm Turnbull_
+_Context: Malcolm Turnbull, Liberals, Leader of the Opposition_
 
 ##### Taiwan
 ### [ The Republic of China adopts Hanyu Pinyin as its official Chinese romanization, switching from the previously-official Tongyong Pinyin.](/news/2008/09/16/the-republic-of-china-adopts-hanyu-pinyin-as-its-official-chinese-romanization-switching-from-the-previously-official-tongyong-pinyin.md)

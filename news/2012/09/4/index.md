@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/4/index.html)  [JSON](2012/09/4/index.json)  [XML](2012/
 
 ##### Mario Cardenas Guillen
 ### [The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo-costilla-sa-nchez-a.md)
-_Context: Gulf Cartel, Jorge Eduardo Costilla Sanchez, Mario Cardenas Guillen_
+_Context: Jorge Eduardo Costilla Sanchez, Gulf Cartel, Mario Cardenas Guillen_
 
 ##### FARC
 ### [The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then-in-cuba.md)
@@ -25,15 +25,15 @@ _Context: United Nations Refugee Agency, Syrian refugees_
 
 ##### Airbus
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
-_Context: civil aircraft, Airbus_
+_Context: Airbus, civil aircraft_
 
 ##### German
 ### [Cabin crew for the German airline Lufthansa go on strike causing disruption to hundreds of flights. ](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.md)
-_Context: Lufthansa, German_
+_Context: German, Lufthansa_
 
 ##### McDonald's restaurants
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: McDonald's restaurants, Amritsar, vegetarian, Vaishno Devi_
+_Context: vegetarian, Amritsar, McDonald's restaurants, Vaishno Devi_
 
 ##### Marrakesh
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
@@ -67,7 +67,7 @@ Group publishes Unique IDs of 1 million devices online, which they claim were be
 
 ##### Bahrain
 ### [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md)
-_Context: life in prison, Arab Spring, Bahraini uprising (2011-present), government, Bahrain, Western-allied_
+_Context: Bahrain, life in prison, Western-allied, Bahraini uprising (2011-present), government, Arab Spring_
 
 ##### Department of Justice
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
@@ -83,11 +83,11 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 
 ##### Reuters
 ### [Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. ](/news/2012/09/4/reuters-calls-xi-jinping-china-s-next-leader-hu-chunhua-reportedly-misses-a-promotion-to-the-politburo-standing-committee-in-an-expected.md)
-_Context: Reuters, Politburo, Communist Party of China, 18th National Congress, Politburo Standing Committee, Hu Chunhua, Xi Jinping, expected power transition_
+_Context: expected power transition, Politburo, Hu Chunhua, Politburo Standing Committee, Communist Party of China, 18th National Congress, Reuters, Xi Jinping_
 
 ##### Enrique Pena Nieto
 ### [President-elect Pena Nieto of Mexico names his "transition team", ahead of his cabinet and December 1st inauguration. ](/news/2012/09/4/president-elect-pea-a-nieto-of-mexico-names-his-transition-team-ahead-of-his-cabinet-and-december-1st-inauguration.md)
-_Context: Enrique Pena Nieto, Cabinet of Mexico_
+_Context: Cabinet of Mexico, Enrique Pena Nieto_
 
 ##### From falling
 ### [Scientists develop a "magic carpet" with optical fibers to help prevent elderly people from falling by a warning when it detects unusual footsteps. ](/news/2012/09/4/scientists-develop-a-magic-carpet-with-optical-fibers-to-help-prevent-elderly-people-from-falling-by-a-warning-when-it-detects-unusual-foo.md)

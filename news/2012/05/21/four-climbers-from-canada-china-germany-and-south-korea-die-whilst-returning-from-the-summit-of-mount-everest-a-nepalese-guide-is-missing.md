@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/21/four-climbers-from-canada-china-germany-and-sou
 
 ### [2012-05-21](/news/2012/05/21/index.md)
 
-##### Canadian
+##### Canada
 # Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. 
 
 

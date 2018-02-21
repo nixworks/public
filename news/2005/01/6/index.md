@@ -13,15 +13,15 @@ _Context: United States House Committee on the Judiciary_
 
 ##### U.S. military
 ### [ Camp X-Ray: The United States Department of Defense announces a new investigation into allegations of prisoner abuse at the Camp X-Ray detention center in Guantanamo Bay, Cuba. ](/news/2005/01/6/camp-x-ray-the-united-states-department-of-defense-announces-a-new-investigation-into-allegations-of-prisoner-abuse-at-the-camp-x-ray-dete.md)
-_Context: U.S. military, Cuba, Guantanamo Bay, Camp X-Ray_
+_Context: Camp X-Ray, Cuba, U.S. military, Guantanamo Bay_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: An Iraqi civilian testifies that U.S soldiers, including Sergeant Tracy Perkins, forced him and his cousin to jump into the Tigris and laughed as his relative was swept to his death. ](/news/2005/01/6/conflict-in-iraq-an-iraqi-civilian-testifies-that-u-s-soldiers-including-sergeant-tracy-perkins-forced-him-and-his-cousin-to-jump-into-t.md)
-_Context: Tracy Perkins, Iraq, Conflict in Iraq, Tigris River_
+_Context: Iraq, Tracy Perkins, Tigris River, Conflict in Iraq_
 
 ##### Jakarta
 ### [ 2004 Indian Ocean earthquake: World leaders gather in Jakarta, Indonesia, for an emergency summit with the United Nations. Aid pledges since the Asian Tsunami disaster are near USD 4 billion (EUR 3 billion). Nearly 150,000 people have been confirmed dead in the four hardest hit nations - Indonesia, India, Sri Lanka and Thailand. ](/news/2005/01/6/2004-indian-ocean-earthquake-world-leaders-gather-in-jakarta-indonesia-for-an-emergency-summit-with-the-united-nations-aid-pledges-sinc.md)
-_Context: US$, Indonesia, United Nations, 2004 Indian Ocean earthquake, Jakarta, Sri Lanka, India, Thailand, EUR_
+_Context: Indonesia, EUR, US$, India, United Nations, 2004 Indian Ocean earthquake, Thailand, Sri Lanka, Jakarta_
 
 ## [Previous Day...](/news/2005/01/5/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/20/index.html)  [JSON](2006/09/20/index.json)  [XML](200
 
 ##### International Monetary Fund
 ### [ The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global-trade-talks-and.md)
-_Context: World Bank Group, International Monetary Fund, annual meeting_
+_Context: annual meeting, International Monetary Fund, World Bank Group_
 
 ##### Kazakhstan
 ### [ In Kazakhstan, 41 miners die in the nation's worst mining accident after a methane explosion in a coal mine. ](/news/2006/09/20/in-kazakhstan-41-miners-die-in-the-nation-s-worst-mining-accident-after-a-methane-explosion-in-a-coal-mine.md)
@@ -17,19 +17,19 @@ _Context: Jacob Zuma, Pietermaritzburg, Thabo Mbeki, South Africa_
 
 ##### India
 ### [ Dozens are killed and hundreds missing in India and Bangladesh after heavy rainstorms in the Bay of Bengal. ](/news/2006/09/20/dozens-are-killed-and-hundreds-missing-in-india-and-bangladesh-after-heavy-rainstorms-in-the-bay-of-bengal.md)
-_Context: India, Bay of Bengal, Bangladesh_
+_Context: Bay of Bengal, Bangladesh, India_
 
 ##### United States
 ### [ The United States Federal Reserve decides to leave its benchmark interest rate unchanged at 5.25% for a second successive month. Chairman Ben Bernanke and his colleagues believe a slowing economy and falling energy prices are starting to relieve inflation pressures. ](/news/2006/09/20/the-united-states-federal-reserve-decides-to-leave-its-benchmark-interest-rate-unchanged-at-5-25-for-a-second-successive-month-chairman-b.md)
-_Context: interest rate, Ben Bernanke, United States, Federal Reserve_
+_Context: Ben Bernanke, United States, interest rate, Federal Reserve_
 
 ##### Shinzo Abe
 ### [ Shinzo Abe is elected as party leader of the Liberal Democratic Party in Japan, replacing the current Prime Minister Junichiro Koizumi. He will likely be elected as the new prime minister on 30 September 2006. ](/news/2006/09/20/shinzo-abe-is-elected-as-party-leader-of-the-liberal-democratic-party-in-japan-replacing-the-current-prime-minister-junichiro-koizumi-he.md)
-_Context: Japan, Liberal Democratic Party, Prime Minister, Junichiro Koizumi, Shinzo Abe_
+_Context: Junichiro Koizumi, Liberal Democratic Party, Shinzo Abe, Prime Minister, Japan_
 
 ##### Thailand
 ### [ The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minister-will-be-appointed-in.md)
-_Context: civilian, Thaksin Shinawatra, General, Sonthi Boonyaratglin, Thailand_
+_Context: civilian, Sonthi Boonyaratglin, Thailand, Thaksin Shinawatra, General_
 
 ##### Budapest
 ### [ A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.md)
@@ -37,15 +37,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Funeral
 ### [ A public memorial service is held at Australia Zoo in Beerwah, Queensland, Australia, for "The Crocodile Hunter" Steve Irwin. ](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-zoo-in-beerwah-queensland-australia-for-the-crocodile-hunter-steve-irwin.md)
-_Context: Queensland, Steve Irwin, Australia Zoo, The Crocodile Hunter, funeral, Australia, Beerwah_
+_Context: Australia, funeral, The Crocodile Hunter, Queensland, Australia Zoo, Steve Irwin, Beerwah_
 
 ##### The Football Association
 ### [ The Football Association is to investigate allegations of corruption and the taking of illegal payments (known colloquially as 'bungs') within the sport. ](/news/2006/09/20/the-football-association-is-to-investigate-allegations-of-corruption-and-the-taking-of-illegal-payments-known-colloquially-as-bungs-wit.md)
-_Context: The Football Association, bung, footballer_
+_Context: bung, The Football Association, footballer_
 
 ##### ''Globe and Mail'' article
 ### [ After a "Globe and Mail" article from journalist Jan Wong created controversy and accusations of racism against Quebec, the Canadian House of Commons unanimously passes a motion requesting an apology from "The Globe and Mail". ](/news/2006/09/20/after-a-globe-and-mail-article-from-journalist-jan-wong-created-controversy-and-accusations-of-racism-against-quebec-the-canadian-house.md)
-_Context: Quebec, The Globe and Mail, Canadian House of Commons, ''Globe and Mail'' article, Jan Wong_
+_Context: The Globe and Mail, Jan Wong, ''Globe and Mail'' article, Canadian House of Commons, Quebec_
 
 ## [Previous Day...](/news/2006/09/19/index.md)
 

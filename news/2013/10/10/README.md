@@ -5,19 +5,19 @@ Formats: [HTML](2013/10/10/index.html)  [JSON](2013/10/10/index.json)  [XML](201
 
 ##### Libyan Prime Minister
 ### [The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
-_Context: Libyan Prime Minister, Tripoli, Ali Zeidan_
+_Context: Ali Zeidan, Tripoli, Libyan Prime Minister_
 
 ##### Canadian writer
 ### [The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. ](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.md)
-_Context: Nobel Prize in Literature, Alice Munro, Canadian writer, Nobel Prize in Literature_
+_Context: Nobel Prize in Literature, Canadian writer, Nobel Prize in Literature, Alice Munro_
 
 ##### North Island
 ### [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-re.md)
-_Context: New Zealand, South Island,  Te Waipounamu, Te Ika-a-Maui, North Island, Maori language_
+_Context: South Island, Te Ika-a-Maui, North Island, New Zealand,  Te Waipounamu, Maori language_
 
 ##### BBC
 ### [The BBC announce the discovery of nine missing episodes of "Doctor Who" starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial "The Enemy of the World" and 4 of the 5 missing episodes of "The Web of Fear". ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-remain.md)
-_Context: The Enemy of the World, missing episodes, BBC, The Web of Fear, Doctor Who, Patrick Troughton_
+_Context: Doctor Who, Patrick Troughton, The Enemy of the World, BBC, The Web of Fear, missing episodes_
 
 ##### French-born
 ### [French air traffic controllers begin strike action with the south of France expected to be worst affected. ](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.md)
@@ -25,11 +25,11 @@ Thousands of UK air travellers face possible delays and cancellations later toda
 
 ##### Delaware Supreme Court
 ### [The Delaware Supreme Court, setting aside a lower court's order, clears the way for a transaction in which Activision Blizzard can buy back its equity from Vivendi. ](/news/2013/10/10/the-delaware-supreme-court-setting-aside-a-lower-court-s-order-clears-the-way-for-a-transaction-in-which-activision-blizzard-can-buy-back.md)
-_Context: Activision Blizzard, Vivendi, Delaware Supreme Court_
+_Context: Delaware Supreme Court, Vivendi, Activision Blizzard_
 
 ##### Mayor of Detroit
 ### [Former Mayor of Detroit Kwame Kilpatrick is sentenced to 28 years in prison for racketeering, conspiracy, fraud, and tax crimes. ](/news/2013/10/10/former-mayor-of-detroit-kwame-kilpatrick-is-sentenced-to-28-years-in-prison-for-racketeering-conspiracy-fraud-and-tax-crimes.md)
-_Context: Mayor of Detroit, fraud, Kwame Kilpatrick, conspiracy, racketeering_
+_Context: conspiracy, Kwame Kilpatrick, fraud, racketeering, Mayor of Detroit_
 
 ##### Justice Ministry of Iraq
 ### [The Justice Ministry of Iraq announces it has executed 42 terrorism convicts in two days amidst condemnation from human rights groups. ](/news/2013/10/10/the-justice-ministry-of-iraq-announces-it-has-executed-42-terrorism-convicts-in-two-days-amidst-condemnation-from-human-rights-groups.md)

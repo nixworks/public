@@ -25,7 +25,7 @@ _Context: Karachi, Pakistan_
 
 ##### Baghdad
 ### [At least 5 people are killed due to back-to-back afternoon bombings at a vegetable market south of Baghdad. In Iskandariyah, about 30 miles (50 kilometers) south of Baghdad, also wounded at least 20 people. ](/news/2010/10/7/at-least-5-people-are-killed-due-to-back-to-back-afternoon-bombings-at-a-vegetable-market-south-of-baghdad-in-iskandariyah-about-30-miles.md)
-_Context: Baghdad, Iskandariyah_
+_Context: Iskandariyah, Baghdad_
 
 ##### Tajikistan
 ### [A land mine blast kills 6 soldiers in Tajikistan. ](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.md)
@@ -73,11 +73,11 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 
 ##### $
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: quantitative easing, currency, Japan, $, yen, United States Federal Reserve_
+_Context: quantitative easing, Japan, currency, yen, United States Federal Reserve, $_
 
 ##### Irrawaddy River
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
-_Context: Irrawaddy River, Myanmar, delta_
+_Context: Myanmar, delta, Irrawaddy River_
 
 ##### Kashipur
 ### [A woman was killed and 25 others were injured when the tractor-trolley they were travelling in overturned in Kashipur town of Udhamsingh Nagar district. ](/news/2010/10/7/a-woman-was-killed-and-25-others-were-injured-when-the-tractor-trolley-they-were-travelling-in-overturned-in-kashipur-town-of-udhamsingh-nag.md)
@@ -97,11 +97,11 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 
 ##### Security Council
 ### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
-_Context: Security Council, Darfur, referendum on independence from Sudan, Sudan_
+_Context: Sudan, referendum on independence from Sudan, Darfur, Security Council_
 
 ##### Russia
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: ban on ballistic missile tests, anti-air, nuclear program, Iran, Russia_
+_Context: ban on ballistic missile tests, nuclear program, Iran, anti-air, Russia_
 
 ##### United States
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
@@ -133,11 +133,11 @@ Zimbabwean Prime Minister Morgan Tsvangirai accuses President Robert Mugabe of v
 
 ##### United Kingdom
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: Labour Party, Ed Miliband, United Kingdom, Shadow Cabinet_
+_Context: Ed Miliband, Labour Party, United Kingdom, Shadow Cabinet_
 
 ##### Mark Rutte
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
-_Context: Netherlands, Prime Minister, VVD, Beatrix, Mark Rutte_
+_Context: Mark Rutte, Prime Minister, Netherlands, VVD, Beatrix_
 
 ##### South Africa
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)

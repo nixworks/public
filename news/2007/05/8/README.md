@@ -9,23 +9,23 @@ Six people have been arrested on allegations of plotting to kill soldiers at an 
 
 ##### U.S. President
 ### [ Former U.S. President Bill Clinton announces a deal with drug companies to lower the price of anti-AIDS drugs in Third World countries. ](/news/2007/05/8/former-u-s-president-bill-clinton-announces-a-deal-with-drug-companies-to-lower-the-price-of-anti-aids-drugs-in-third-world-countries.md)
-_Context: U.S. President, Third World, anti-AIDS drugs, Bill Clinton_
+_Context: anti-AIDS drugs, Bill Clinton, Third World, U.S. President_
 
 ##### Andre Boisclair
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
-_Context: Parti Quebecois, Andre Boisclair, Canadian_
+_Context: Parti Quebecois, Canada, Andre Boisclair_
 
 ##### Treasurer of Australia
 ### [ The Treasurer of Australia Peter Costello delivers his twelfth budget with significant tax cuts and increases in government spending on education and health. ](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.md)
-_Context: Treasurer of Australia, budget, Peter Costello_
+_Context: Peter Costello, Treasurer of Australia, budget_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta blows up three oil pipelines in the Niger delta in the south of Nigeria. ](/news/2007/05/8/the-movement-for-the-emancipation-of-the-niger-delta-blows-up-three-oil-pipelines-in-the-niger-delta-in-the-south-of-nigeria.md)
-_Context: Movement for the Emancipation of the Niger Delta, Nigeria, line, oil, Niger River_
+_Context: Niger River, Movement for the Emancipation of the Niger Delta, oil, line, Nigeria_
 
 ##### Home rule
 ### [ Home rule returns to Northern Ireland. DUP leader Ian Paisley and Sinn Fein's Martin McGuinness take office as First Minister and Deputy First Minister, respectively. ](/news/2007/05/8/home-rule-returns-to-northern-ireland-dup-leader-ian-paisley-and-sinn-fa-c-in-s-martin-mcguinness-take-office-as-first-minister-and-deputy-f.md)
-_Context: First Minister, Democratic Unionist Party, Martin McGuinness, Home rule, Ian Paisley, Northern Ireland, Sinn Fein_
+_Context: Northern Ireland, First Minister, Home rule, Ian Paisley, Democratic Unionist Party, Sinn Fein, Martin McGuinness_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md)
@@ -33,19 +33,19 @@ _Context: suicide bomber, Iraq, Kufa, Shi'ite_
 
 ##### U.S.
 ### [ The U.S. Department of Defense announces plans to deploy 35,000 troops in Iraq starting from August 2007. ](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.md)
-_Context: Iraq, U.S. military, U.S._
+_Context: U.S., U.S. military, Iraq_
 
 ##### Tomislav Nikolic
 ### [ Tomislav Nikolic, the temporary leader of the Serbian Radical Party, is elected as the Speaker of the National Assembly of Serbia. ](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.md)
-_Context: Speaker, parliament, Serbian Radical Party, Tomislav Nikolic_
+_Context: Speaker, Serbian Radical Party, Tomislav Nikolic, parliament_
 
 ##### Australian Prime Minister
 ### [ Former Prime Minister of Australia Gough Whitlam gives evidence to the coronial inquest into the death of the Balibo Five in Balibo, East Timor in October 1975. ](/news/2007/05/8/former-prime-minister-of-australia-gough-whitlam-gives-evidence-to-the-coronial-inquest-into-the-death-of-the-balibo-five-in-balibo-east-t.md)
-_Context: Australian Prime Minister, Balibo Five, coroner, 1975, East Timor, Gough Whitlam, Balibo_
+_Context: Balibo Five, Balibo, East Timor, Gough Whitlam, Australian Prime Minister, coroner, 1975_
 
 ##### Scotland
 ### [ Scotland's John Higgins beats England's Mark Selby in the World Snooker Championship 2007 final by 18-13 frames. ](/news/2007/05/8/scotland-s-john-higgins-beats-england-s-mark-selby-in-the-world-snooker-championship-2007-final-by-18-13-frames.md)
-_Context: John Higgins, Scotland, frames, England, Mark Selby, World Snooker Championship 2007_
+_Context: England, Mark Selby, World Snooker Championship 2007, frames, Scotland, John Higgins_
 
 ##### Hebrew University of Jerusalem
 ### [ Hebrew University archaeologist Ehud Netzer claims to have discovered the tomb of Herod the Great in Herodium. ](/news/2007/05/8/hebrew-university-archaeologist-ehud-netzer-claims-to-have-discovered-the-tomb-of-herod-the-great-in-herodium.md)

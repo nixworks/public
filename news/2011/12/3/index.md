@@ -25,11 +25,11 @@ The students refused to allow Anthony Lawlor into his own constituency office in
 
 ##### Australian Labor Party
 ### [The governing Australian Labor Party changes its platform in support of gay marriage at its conference in Sydney, paving the way for legislation. ](/news/2011/12/3/the-governing-australian-labor-party-changes-its-platform-in-support-of-gay-marriage-at-its-conference-in-sydney-paving-the-way-for-legisla.md)
-_Context: Sydney, gay marriage, Australian Labor Party_
+_Context: Sydney, Australian Labor Party, gay marriage_
 
 ##### Herman Cain
 ### [Herman Cain announces that he will suspend his campaign for Republican nomination in the United States presidential election following a series of sexual harassment and other misconduct allegations. ](/news/2011/12/3/herman-cain-announces-that-he-will-suspend-his-campaign-for-republican-nomination-in-the-united-states-presidential-election-following-a-ser.md)
-_Context: sexual harassment, United States, Herman Cain, his campaign, nomination, Republican, United States presidential election, 2012_
+_Context: United States, United States presidential election, 2012, his campaign, nomination, sexual harassment, Republican, Herman Cain_
 
 ## [Previous Day...](/news/2011/12/2/index.md)
 

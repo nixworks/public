@@ -25,7 +25,7 @@ _Context: Benjamin Netanyahu, Israeli-Palestinian peace process_
 
 ##### Moldova-European Union relations
 ### [Moldovan President Igor Dodon, during his first state visit to Russia, says Moldova could scrap the 2014 Moldova-European Union Association Agreement after the country's next parliamentary election. ](/news/2017/01/17/moldovan-president-igor-dodon-during-his-first-state-visit-to-russia-says-moldova-could-scrap-the-2014-moldovaaeuropean-union-associatio.md)
-_Context: parliamentary election, Moldova-European Union Association Agreement, Moldova-European Union relations, Moldovan President, Igor Dodon, Russia_
+_Context: Moldova-European Union Association Agreement, Russia, parliamentary election, Igor Dodon, Moldova-European Union relations, Moldovan President_
 
 ##### Barack Obama presidential pardons
 ### [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md)

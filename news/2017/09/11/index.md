@@ -9,11 +9,11 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 
 ##### Syrian Civil War
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
-_Context: combat engineers, Syrian Civil War, Siege of Deir ez-Zor (2014-17), demining, Deir ez-Zor, Russia_
+_Context: Russia, Syrian Civil War, demining, Siege of Deir ez-Zor (2014-17), combat engineers, Deir ez-Zor_
 
 ##### Monkey selfie copyright dispute
 ### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
-_Context: monkey selfie copyright dispute, PETA, Monkey selfie copyright dispute_
+_Context: Monkey selfie copyright dispute, PETA, monkey selfie copyright dispute_
 
 ##### Rail accidents in 2017
 ### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
@@ -21,7 +21,7 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 
 ##### Aurora 17
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
-_Context: United States soldier, Gotland, NATO, Aurora 17, Sweden_
+_Context: Aurora 17, United States soldier, Gotland, NATO, Sweden_
 
 ##### 2017 North Korea crisis
 ### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
@@ -29,7 +29,7 @@ The United Nations Security Council approved new sanctions aimed at punishing No
 
 ##### Crime in Belgium
 ### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly turned himself in to police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-turned-hims.md)
-_Context: Mouscron, Alfred Gadenne, Crime in Belgium_
+_Context: Crime in Belgium, Mouscron, Alfred Gadenne_
 
 ##### Crime in Brazil
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
@@ -41,11 +41,11 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 
 ##### Politics of the Philippines
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Vitaliano Aguirre, Risa Hontiveros, senators, Politics of the Philippines, lawsuit, Philippines, Justice_
+_Context: Vitaliano Aguirre, Justice, Risa Hontiveros, Philippines, Politics of the Philippines, lawsuit, senators_
 
 ##### Catalan independence
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
-_Context: National Day of Catalonia, secession, Catalan independence, Barcelona_
+_Context: National Day of Catalonia, Barcelona, Catalan independence, secession_
 
 ## [Previous Day...](/news/2017/09/10/index.md)
 

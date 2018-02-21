@@ -25,7 +25,7 @@ Pakistani PM Yousuf Raza Gilani goes before the Supreme Court to defend his deci
 
 ##### Neptune
 ### [A new Neptune-sized exoplanet is discovered by an amateur astronomer in Peterborough, England. ](/news/2012/01/18/a-new-neptune-sized-exoplanet-is-discovered-by-an-amateur-astronomer-in-peterborough-england.md)
-_Context: England, exoplanet, Neptune, Peterborough_
+_Context: Peterborough, England, exoplanet, Neptune_
 
 ## [Previous Day...](/news/2012/01/17/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2007/05/26/index.html)  [JSON](2007/05/26/index.json)  [XML](200
 
 ##### Czech Republic
 ### [ A thousand Czech protesters gather in Wenceslas Square in the centre of Prague to protest against Czech participation in the United States missile defence system. ](/news/2007/05/26/a-thousand-czech-protesters-gather-in-wenceslas-square-in-the-centre-of-prague-to-protest-against-czech-participation-in-the-united-states.md)
-_Context: missile defence, Czech Republic, Prague, Wenceslas Square, United States_
+_Context: Czech Republic, Prague, United States, Wenceslas Square, missile defence_
 
 ##### Iran
 ### [ Iran claims to have uncovered an espionage network run by the United States and its allies. ](/news/2007/05/26/iran-claims-to-have-uncovered-an-espionage-network-run-by-the-united-states-and-its-allies.md)
-_Context: espionage, United States, Iran_
+_Context: United States, espionage, Iran_
 
 ##### Fianna Fil
 ### [ Fianna Fil performs strongly in the Irish general election, putting it in a strong position to retain government. ](/news/2007/05/26/fianna-fail-performs-strongly-in-the-irish-general-election-putting-it-in-a-strong-position-to-retain-government.md)
@@ -21,7 +21,7 @@ _Context: German, Hambacher Fest_
 
 ##### Ukraine
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
-_Context: Ukrainian President, Viktor Yushchenko, Ukraine, Kiev_
+_Context: Ukrainian President, Ukraine, Viktor Yushchenko, Kiev_
 
 ##### Chinese
 ### [ At least 21 people die in western China in landslides caused by heavy rain. ](/news/2007/05/26/at-least-21-people-die-in-western-china-in-landslides-caused-by-heavy-rain.md)
@@ -29,7 +29,7 @@ _Context: Chinese, landslide_
 
 ##### Hamas
 ### [ Hamas militants are considering lighter ceasefire terms offered by Fatah, specifically Palestinian President Mahmoud Abbas. They are giving Israel until May 27 to respond to this agreement, that would only end Israeli operations in the Gaza Strip. Hamas has said, however, that they are not completely committed to their offer. Israeli attack helicopters launch missile strikes on a various facilities, including a security facility near Palestinian Prime Minister Haniyeh's home. At least three people are injured by the air strikes. ](/news/2007/05/26/hamas-militants-are-considering-lighter-ceasefire-terms-offered-by-fatah-specifically-palestinian-president-mahmoud-abbas-they-are-giving.md)
-_Context: Prime Minister, May 27, Palestinian Authority President, Gaza Strip, Hamas, Ismail Haniyeh, Fatah, missile, attack helicopter, Israeli Army, air strikes, Palestinian Authority, Mahmoud Abbas_
+_Context: Palestinian Authority President, May 27, Hamas, Prime Minister, Mahmoud Abbas, Gaza Strip, attack helicopter, Israeli Army, missile, Ismail Haniyeh, Palestinian Authority, Fatah, air strikes_
 
 ## [Previous Day...](/news/2007/05/25/index.md)
 

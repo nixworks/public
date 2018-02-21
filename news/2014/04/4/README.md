@@ -13,7 +13,7 @@ An Afghan police officer kills a veteran Associated Press photographer and wound
 
 ##### Al-Qaeda
 ### [Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. ](/news/2014/04/4/suspected-al-qaeda-militants-attack-an-army-post-in-hadramawt-province-killing-at-least-eight-soldiers-and-injuring-eleven.md)
-_Context: al-Qaeda, Hadramawt_
+_Context: Hadramawt, al-Qaeda_
 
 ##### Baghdad
 ### [Attacks in Baghdad and predominantly Sunni Arab areas of northern and western Iraq kill nine people. ](/news/2014/04/4/attacks-in-baghdad-and-predominantly-sunni-arab-areas-of-northern-and-western-iraq-kill-nine-people.md)
@@ -21,11 +21,11 @@ BAGHDAD: Attacks in Baghdad and predominantly Sunni Arab areas of northern and w
 
 ##### LaFarge
 ### [The two largest cement manufacturers in the world, Lafarge and Holcim, announce plans for a merger. ](/news/2014/04/4/the-two-largest-cement-manufacturers-in-the-world-lafarge-and-holcim-announce-plans-for-a-merger.md)
-_Context: Holcim, LaFarge, merger_
+_Context: LaFarge, Holcim, merger_
 
 ##### Mazda
 ### [Mazda announces the recall of 42,000 units of its Mazda6 model built from 2010 to 2012, citing fuel tank issues. The recall specifically refers to those with 2.5 liter engines. ](/news/2014/04/4/mazda-announces-the-recall-of-42-000-units-of-its-mazda6-model-built-from-2010-to-2012-citing-fuel-tank-issues-the-recall-specifically-ref.md)
-_Context: Mazda, Mazda6_
+_Context: Mazda6, Mazda_
 
 ##### McDonald's restaurants
 ### [McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/mcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md)
@@ -49,11 +49,11 @@ By Adama Diarra and Misha Hussain BAMAKO/CONAKRY (Reuters) - Mali said it had id
 
 ##### Meningitis
 ### [A meningitis outbreak has been reported in the greater Los Angeles area, with incidents related to sexual intercourse. ](/news/2014/04/4/a-meningitis-outbreak-has-been-reported-in-the-greater-los-angeles-area-with-incidents-related-to-sexual-intercourse.md)
-_Context: Los Angeles, meningitis_
+_Context: meningitis, Los Angeles_
 
 ##### Manhattan
 ### [A Manhattan court stenographer is discovered to have written nonsense instead of actual court transcripts, potentially jeopardizing thirty court cases. ](/news/2014/04/4/a-manhattan-court-stenographer-is-discovered-to-have-written-nonsense-instead-of-actual-court-transcripts-potentially-jeopardizing-thirty-c.md)
-_Context: court stenographer, Manhattan_
+_Context: Manhattan, court stenographer_
 
 ## [Previous Day...](/news/2014/04/3/index.md)
 

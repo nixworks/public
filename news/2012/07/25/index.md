@@ -13,7 +13,7 @@ _Context: Assam, India_
 
 ##### Egan-Jones Ratings Company
 ### [Egan-Jones Ratings Company downgrades Italy to CCC+ from B+, saying the country has a one-year default probability of 22%. ](/news/2012/07/25/egan-jones-ratings-company-downgrades-italy-to-ccc-from-b-saying-the-country-has-a-one-year-default-probability-of-22.md)
-_Context: Italy, Egan-Jones Ratings Company_
+_Context: Egan-Jones Ratings Company, Italy_
 
 ##### Economic output
 ### [Official figures indicate economic output in the United Kingdom fell by 0.7% between April and June, meaning the recession has deepened in the country. ](/news/2012/07/25/official-figures-indicate-economic-output-in-the-united-kingdom-fell-by-0-7-between-april-and-june-meaning-the-recession-has-deepened-in-t.md)
@@ -21,7 +21,7 @@ The UK recession has deepened, latest official figures show, after the output of
 
 ##### Earthquake
 ### [A 6.4 magnitude earthquake occurs off the Indonesian island of Sumatra with one man dying while fleeing his home. ](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indonesian-island-of-sumatra-with-one-man-dying-while-fleeing-his-home.md)
-_Context: Indonesia, earthquake, Sumatra_
+_Context: Indonesia, Sumatra, earthquake_
 
 ##### Leonid Khabarov
 ### [The court hearings are rescheduled for Leonid Khabarov, an alleged mastermind behind the new Russian revolution. ](/news/2012/07/25/the-court-hearings-are-rescheduled-for-leonid-khabarov-an-alleged-mastermind-behind-the-new-russian-revolution.md)
@@ -29,15 +29,15 @@ _Context: Leonid Khabarov_
 
 ##### South Korea
 ### [A private South Korean committee announces that it plans to file a lawsuit with the International Criminal Court against North Korea over repatriation of prisoners of war and remains of soldiers killed in the Korean War. ](/news/2012/07/25/a-private-south-korean-committee-announces-that-it-plans-to-file-a-lawsuit-with-the-international-criminal-court-against-north-korea-over-re.md)
-_Context: North Korea, Korean War, prisoners of war, South Korea, ICC_
+_Context: North Korea, South Korea, ICC, prisoners of war, Korean War_
 
 ##### Guo Jinlong
 ### [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md)
-_Context: Wang Anshun, Beijing, Mayor, Guo Jinlong, China_
+_Context: Beijing, Guo Jinlong, Mayor, China, Wang Anshun_
 
 ##### Pranab Mukherjee
 ### [Pranab Mukherjee is sworn in as the President of India. ](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.md)
-_Context: President of India, Pranab Mukherjee_
+_Context: Pranab Mukherjee, President of India_
 
 ##### North Korea
 ### [North Korea state media declares the marriage of Kim Jong-un and Ri Sol-ju. ](/news/2012/07/25/north-korea-state-media-declares-the-marriage-of-kim-jong-un-and-ri-sol-ju.md)
