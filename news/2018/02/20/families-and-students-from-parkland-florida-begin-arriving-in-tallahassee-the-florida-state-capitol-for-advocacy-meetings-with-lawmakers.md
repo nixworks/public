@@ -1,0 +1,22 @@
+
+Formats: [HTML](/news/2018/02/20/families-and-students-from-parkland-florida-begin-arriving-in-tallahassee-the-florida-state-capitol-for-advocacy-meetings-with-lawmakers.html)  [JSON](/news/2018/02/20/families-and-students-from-parkland-florida-begin-arriving-in-tallahassee-the-florida-state-capitol-for-advocacy-meetings-with-lawmakers.json)  [XML](/news/2018/02/20/families-and-students-from-parkland-florida-begin-arriving-in-tallahassee-the-florida-state-capitol-for-advocacy-meetings-with-lawmakers.xml)  
+
+### [2018-02-20](/news/2018/02/20/index.md)
+
+##### Stoneman Douglas High School shooting
+# Families and students from Parkland, Florida, begin arriving in Tallahassee, the Florida State Capitol, for advocacy meetings with lawmakers and other State officials. During Tuesday's legislative session, the GOP-controlled Florida House defeated, by a party-line vote, a motion to debate assault weapons ban legislation, 71-36. 
+
+A move to push a bill banning assault weapons and high-capacity magazines directly to the House floor Tuesday afternoon was rejected on mostly party lines, less than a week after a gunman killed 17 people and injured several more at a high school in Broward County.
+
+
+### Sources:
+
+1. [Miami Herald](http://www.miamiherald.com/news/politics-government/state-politics/article201186164.html)
+2. [Tallahassee Democrat](http://www.tallahassee.com/story/news/2018/02/20/students-demand-action-and-house-votes-no-assault-weapons/356694002/)
+2. [Cover Image](http://www.miamiherald.com/news/politics-government/state-politics/sagjdh/picture201186154/alternates/LANDSCAPE_1140/School%20Shooting%20Florida%20(4))
+
+### Related:
+
+1. [U.S. President Donald Trump orders the Department of Justice to prepare regulations to ban devices that allow semi-automatic rifles to become fully automatic, such as the bump stocks used in the 2017 Las Vegas shooting. ](/news/2018/02/20/u-s-president-donald-trump-orders-the-department-of-justice-to-prepare-regulations-to-ban-devices-that-allow-semi-automatic-rifles-to-becom.md) _Context: Stoneman Douglas High School shooting_
+2. [A shooting at a high school in Parkland, Florida, leaves 17 people dead (14 of whom were teenagers), and 15 others wounded. The suspect is apprehended and identified as 19-year-old former student Nikolas Crus. This is the deadliest high school shooting in U.S. history. ](/news/2018/02/14/a-shooting-at-a-high-school-in-parkland-florida-leaves-17-people-dead-14-of-whom-were-teenagers-and-15-others-wounded-the-suspect-is-a.md) _Context: Stoneman Douglas High School shooting_
+3. [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md) _Context: Florida House_

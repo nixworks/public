@@ -9,7 +9,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 
 ##### Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Venezuela, Petro, cryptocurrency_
+_Context: Venezuela, cryptocurrency, Petro_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -38,6 +38,10 @@ President Trump said Tuesday he has directed the Department of Justice to propos
 ##### Russian interference in the 2016 United States elections
 ### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges are that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of Paul Manafort. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
+
+##### Stoneman Douglas High School shooting
+### [Families and students from Parkland, Florida, begin arriving in Tallahassee, the Florida State Capitol, for advocacy meetings with lawmakers and other State officials. During Tuesday's legislative session, the GOP-controlled Florida House defeated, by a party-line vote, a motion to debate assault weapons ban legislation, 71-36. ](/news/2018/02/20/families-and-students-from-parkland-florida-begin-arriving-in-tallahassee-the-florida-state-capitol-for-advocacy-meetings-with-lawmakers.md)
+A move to push a bill banning assault weapons and high-capacity magazines directly to the House floor Tuesday afternoon was rejected on mostly party lines, less than a week after a gunman killed 17 people and injured several more at a high school in Broward County.
 
 ## [Previous Day...](/news/2018/02/19/index.md)
 
