@@ -28,7 +28,7 @@ Latvia will seek to prevent European Central Bank Governing Council member Ilmar
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
 ##### Russian interference in the 2016 United States elections
-### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
+### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of former Trump campaign manager Paul Manafort. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
 ## [Previous Day...](/news/2018/02/19/index.md)
