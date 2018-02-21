@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolu
 
 ### [2018-02-13](/news/2018/02/13/index.md)
 
-##### United Airlines Flight 1175
+##### United Airlines
 # United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. 
 
 Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu

@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/21/index.md)
 
+##### Operation Barkhane
+### [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md)
+Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;armoured&#x20;vehicle&#x20;was&#x20;hit&#x20;by&#x20;an&#x20;explosive&#x20;device&#x20;in&#x20;Mali,&#x20;the&#x20;French&#x20;president&#x27;s&#x20;office&#x20;said&#x20;on&#x20;Wednesday.
+
 ##### Foreign relations of South Korea
 ### [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama, to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to.md)
 South Korea said on Wednesday it is signing free trade agreements with five Central American nations aimed at boosting market access for the Korean auto sector and electronics makers.
@@ -61,7 +65,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Civil War, Syrian Observatory for Human Rights, Syrian Air Force, Damascus, Ghouta, strikes_
+_Context: Syrian Civil War, strikes, Syrian Air Force, Syrian Observatory for Human Rights, Ghouta, Damascus_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -77,7 +81,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Indonesia, Mount Sinabung, North Sumatra_
+_Context: North Sumatra, Mount Sinabung, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
