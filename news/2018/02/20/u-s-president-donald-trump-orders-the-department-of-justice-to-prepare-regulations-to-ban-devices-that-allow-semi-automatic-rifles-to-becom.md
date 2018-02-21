@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/20/u-s-president-donald-trump-orders-the-departmen
 
 ### [2018-02-20](/news/2018/02/20/index.md)
 
-##### Stoneman Douglas High School shooting
+##### Gun politics in the United States
 # U.S. President Donald Trump orders the Department of Justice to prepare regulations to ban devices that allow semi-automatic rifles to become fully automatic, such as the bump stocks used in the 2017 Las Vegas shooting. 
 
 President Trump said Tuesday he has directed the Department of Justice to propose regulations that would ban bump stocks, devices that allow semi-automatic guns to be modified to shoot hundreds of rounds per minute.

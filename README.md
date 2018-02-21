@@ -29,7 +29,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 
 ##### Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Petro cryptocurrency, Venezuela, cryptocurrency_
+_Context: Petro cryptocurrency, cryptocurrency, Venezuela_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -40,7 +40,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
 ##### Indonesia
-### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7&nbsp;km (4&nbsp;mi) high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-nbsp-km-4-nbsp-mi-hi.md)
+### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7 km high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-km-high-much-of-the-s.md)
 Side-by-side images show what the top of the volcano looks like.
 
 ##### Corruption in Latvia
@@ -51,7 +51,7 @@ Latvia will seek to prevent European Central Bank Governing Council member Ilmar
 ### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
-##### Stoneman Douglas High School shooting
+##### Gun politics in the United States
 ### [U.S. President Donald Trump orders the Department of Justice to prepare regulations to ban devices that allow semi-automatic rifles to become fully automatic, such as the bump stocks used in the 2017 Las Vegas shooting. ](/news/2018/02/20/u-s-president-donald-trump-orders-the-department-of-justice-to-prepare-regulations-to-ban-devices-that-allow-semi-automatic-rifles-to-becom.md)
 President Trump said Tuesday he has directed the Department of Justice to propose regulations that would ban bump stocks, devices that allow semi-automatic guns to be modified to shoot hundreds of rounds per minute.
 
@@ -69,7 +69,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Damascus, Syrian Observatory for Human Rights, Syrian Civil War, strikes, Syrian Air Force_
+_Context: Syrian Air Force, strikes, Syrian Observatory for Human Rights, Damascus, Ghouta, Syrian Civil War_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -85,7 +85,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: North Sumatra, Indonesia, Mount Sinabung_
+_Context: North Sumatra, Mount Sinabung, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
