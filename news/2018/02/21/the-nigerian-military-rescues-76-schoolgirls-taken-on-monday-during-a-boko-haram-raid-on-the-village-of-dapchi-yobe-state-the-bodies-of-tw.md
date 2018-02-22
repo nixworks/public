@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-ta
 ### [2018-02-21](/news/2018/02/21/index.md)
 
 ##### Boko Haram insurgency
-# The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least 13 other students remain missing. 
+# The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least thirteen other students remain missing. 
 
 The Nigerian military rescued 76 schoolgirls and recovered the bodies of two others on Wednesday, after the students went missing during a Boko Haram attack on a village, three parents, a resident and a local government official told Reuters.
 
@@ -18,7 +18,7 @@ The Nigerian military rescued 76 schoolgirls and recovered the bodies of two oth
 ### Changes:
 
 1. [The Nigerian military rescues 76 schoolgirls taken Monday during a Boko Haram raid on a group from the village of Dapchi, Yobe State. The bodies of two girls were recovered. At least 13 pupils are reported missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-monday-during-a-boko-haram-raid-on-a-group-from-the-village-of-dapchi-yobe-state-the-bo.md) _2018-02-22 06:30:10 (First version)_
-1. [The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least 13 other students remain missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-on-monday-during-a-boko-haram-raid-on-the-village-of-dapchi-yobe-state-the-bodies-of-tw.md) _(Current version)_
+1. [The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least thirteen other students remain missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-on-monday-during-a-boko-haram-raid-on-the-village-of-dapchi-yobe-state-the-bodies-of-tw.md) _(Current version)_
 
 ### Related:
 

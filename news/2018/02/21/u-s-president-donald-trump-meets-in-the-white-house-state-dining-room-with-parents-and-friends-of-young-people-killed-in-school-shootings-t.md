@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/21/u-s-president-donald-trump-meets-in-the-white-h
 ### [2018-02-21](/news/2018/02/21/index.md)
 
 ##### Stoneman Douglas High School shooting
-# U.S. President Donald Trump meets in the White House State Dining Room with parents and friends of young people killed in school shootings to discuss what needs to be done. Suggestions for the president included a number of items to make schools safer, and for Trump to put politics aside and back gun control measures. 
+# U.S. President Donald Trump meets in the White House State Dining Room with parents and friends of young people killed in school shootings to discuss what needs to be done. Suggestions for the president included a number of items to make schools safer, and for Trump to put the Second Amendment to the United States Constitution aside and back gun control measures. 
 
 At a White House event, parents and students impacted by gun violence implored President Donald Trump for &quot;change&quot; in the aftermath of yet another mass shooting.
 
