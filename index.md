@@ -17,7 +17,7 @@ Emergency officials say at least 35 people died when the coach plummeted off the
 
 ##### Explosion
 ### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
-_Context: explosion, Playa del Carmen_
+_Context: Playa del Carmen, explosion_
 
 ##### Foreign relations of South Korea
 ### [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to-e.md)
@@ -41,7 +41,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 
 ##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Economy of Venezuela, Petro cryptocurrency, Venezuela, cryptocurrency_
+_Context: Petro cryptocurrency, Economy of Venezuela, Venezuela, cryptocurrency_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -81,7 +81,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Civil War, Damascus, Syrian Observatory for Human Rights, Syrian Air Force, strikes, Ghouta_
+_Context: strikes, Damascus, Ghouta, Syrian Air Force, Syrian Observatory for Human Rights, Syrian Civil War_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -97,11 +97,11 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, North Sumatra, Indonesia_
+_Context: Mount Sinabung, Indonesia, North Sumatra_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
