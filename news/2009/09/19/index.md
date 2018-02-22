@@ -5,19 +5,19 @@ Formats: [HTML](2009/09/19/index.html)  [JSON](2009/09/19/index.json)  [XML](200
 
 ##### Africa
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Uganda, Somalia, Eritrea, Kenya, Islam, Africa, Sudan, Djibouti, Ethiopia_
+_Context: Eritrea, Ethiopia, Kenya, Sudan, Somalia, Djibouti, Africa, Uganda, Islam_
 
 ##### Denver
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Denver, Colorado, FBI, United States_
+_Context: Colorado, Denver, United States, FBI_
 
 ##### Yemen
 ### [ Attacks by rebels in Yemen are reported despite a ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
-_Context: ceasefire, Yemen_
+_Context: Yemen, ceasefire_
 
 ##### Yellow shirt
 ### [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md)
-_Context: yellow shirt, Cambodia, Bangkok, Thailand, Preah Vihear Temple, red shirt_
+_Context: Preah Vihear Temple, yellow shirt, Thailand, Cambodia, Bangkok, red shirt_
 
 ##### Gay pride
 ### [ A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. ](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.md)
@@ -25,11 +25,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Earthquake
 ### [ An earthquake measuring 5.8 on the Richter scale occurs off the coast of Bali in Indonesia. ](/news/2009/09/19/an-earthquake-measuring-5-8-on-the-richter-scale-occurs-off-the-coast-of-bali-in-indonesia.md)
-_Context: earthquake, Richter scale, Indonesia, Bali_
+_Context: Indonesia, Richter scale, Bali, earthquake_
 
 ##### DNA
 ### [ DNA tests confirm that Islamist bomber Noordin Mohamed Top is dead. ](/news/2009/09/19/dna-tests-confirm-that-islamist-bomber-noordin-mohamed-top-is-dead.md)
-_Context: DNA, bomb, Islamist, Noordin Mohamed Top_
+_Context: bomb, Islamist, Noordin Mohamed Top, DNA_
 
 ##### President of the European Commission
 ### [ President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-second-referendum-on-t.md)
@@ -37,7 +37,7 @@ European Commission President José Manuel Barroso has said a No vote will affec
 
 ##### Takayama
 ### [ Four people are seriously injured in a bear attack in Takayama, Gifu Prefecture, Japan. ](/news/2009/09/19/four-people-are-seriously-injured-in-a-bear-attack-in-takayama-gifu-prefecture-japan.md)
-_Context: Gifu Prefecture, Takayama, Japan_
+_Context: Japan, Gifu Prefecture, Takayama_
 
 ##### Pakistan
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
@@ -49,15 +49,15 @@ _Context: German, al Qaeda_
 
 ##### German
 ### [ Two German ships become the first Western commercial vessels to navigate the Northern Sea Route. ](/news/2009/09/19/two-german-ships-become-the-first-western-commercial-vessels-to-navigate-the-northern-sea-route.md)
-_Context: German, Northern Sea Route_
+_Context: Northern Sea Route, German_
 
 ##### Vera Lynn
 ### [ Singer Vera Lynn, aged 92, becomes the oldest artist to obtain a number one album in the United Kingdom. ](/news/2009/09/19/singer-vera-lynn-aged-92-becomes-the-oldest-artist-to-obtain-a-number-one-album-in-the-united-kingdom.md)
 Bittersweet memories of other difficult times helped push an anthology of reissued World War II-era songs to the top of the British music charts.
 
-##### France
+##### French
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: France_
+_Context: French_
 
 ##### Pope
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)

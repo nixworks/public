@@ -5,11 +5,11 @@ Formats: [HTML](2015/05/10/index.html)  [JSON](2015/05/10/index.json)  [XML](201
 
 ##### Yemeni Civil War
 ### [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md)
-_Context: Yemeni Civil War, Saudi Arabia, Sana'a, Ali Abdullah Saleh, President_
+_Context: Sana'a, Saudi Arabia, Ali Abdullah Saleh, Yemeni Civil War, President_
 
 ##### People's Bank of China
 ### [The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. ](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.md)
-_Context: interest rate, People's Bank of China, China_
+_Context: People's Bank of China, China, interest rate_
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of-passengers-stranded-and-warn.md)
@@ -17,7 +17,7 @@ Typhoon expected to hit coast on Sunday, as volcano spews ash over central provi
 
 ##### 2015 Atlantic hurricane season
 ### [Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md)
-_Context: 2015 Atlantic hurricane season, Tropical Storm Ana, Myrtle Beach, South Carolina_
+_Context: Tropical Storm Ana, Myrtle Beach, South Carolina, 2015 Atlantic hurricane season_
 
 ##### Suspicions
 ### [The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts-higher-in-the-mountains.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Raul Castro
 ### [The President of Cuba, Raul Castro, is received in an official private audience with Pope Francis, who will become the third Pope to visit the still officially Communist island before visiting the U.S. this October. Some restrictions on exercise of religion, and a few restrictions on other rights, have been lifted or relaxed, especially after Pope John Paul II's historic 1998 meeting with Fidel Castro, Pope Emeritus Benedict XVI's trip during his reign, and especially in 2014 and earlier this year, after Raul and Francis and U.S. President Barack Obama's diplomatic team dramatically improved U.S.-Cuba relations. President Castro went there to thank Francis, whom he publicly has stated his admiration for, for his efforts, and spoke of the possibility of converting and of officially restoring the Church. ](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.md)
-_Context: Pope Francis, U.S.-Cuba relations, Raul Castro, Communist, Barack Obama, Pope John Paul II, Pope Emeritus Benedict XVI, Fidel Castro_
+_Context: Pope Emeritus Benedict XVI, Pope John Paul II, Pope Francis, Barack Obama, Raul Castro, Communist, U.S.-Cuba relations, Fidel Castro_
 
 ##### Myanmar
 ### [Two boats carrying 500 members of Myanmar's Rohingya Muslim people arrive in western Indonesia. ](/news/2015/05/10/two-boats-carrying-500-members-of-myanmar-s-rohingya-muslim-people-arrive-in-western-indonesia.md)
@@ -45,7 +45,7 @@ The decision appeared to be a signal of Saudi Arabia’s continued displeasure w
 
 ##### Mississippi
 ### [Police in the Mississippian city of Hattiesburg arrest three people on suspicion of murdering two policemen. ](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.md)
-_Context: Hattiesburg, Mississippi_
+_Context: Mississippi, Hattiesburg_
 
 ##### Several people have been shot dead
 ### [Several people have been shot dead in the Swiss town of Wurenlingen in Aargau canton northwest of Zurich. ](/news/2015/05/10/several-people-have-been-shot-dead-in-the-swiss-town-of-wa1-4renlingen-in-aargau-canton-northwest-of-zurich.md)
@@ -53,7 +53,7 @@ A gunman kills three relatives and a neighbour before turning the gun on himself
 
 ##### Polish presidential election, 2015
 ### [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md)
-_Context: Bronislaw Komorowski, Polish President, Poland, Andrzej Duda, Polish presidential election, 2015, Law and Justice Party_
+_Context: Poland, Bronislaw Komorowski, Andrzej Duda, Law and Justice Party, Polish presidential election, 2015, Polish President_
 
 ## [Previous Day...](/news/2015/05/9/index.md)
 

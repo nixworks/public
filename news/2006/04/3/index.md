@@ -9,11 +9,11 @@ _Context: Zacarias Moussaoui, capital punishment_
 
 ##### Air force
 ### [ A large air force C-5 Galaxy military cargo jet crashed when landing at Dover Air Force Base in the U.S. state of Delaware. ](/news/2006/04/3/a-large-air-force-c-5-galaxy-military-cargo-jet-crashed-when-landing-at-dover-air-force-base-in-the-u-s-state-of-delaware.md)
-_Context: C-5 Galaxy, Delaware, Dover Air Force Base, U.S. state, air force_
+_Context: C-5 Galaxy, air force, Dover Air Force Base, Delaware, U.S. state_
 
 ##### Anand Satyanand
 ### [ Judge Anand Satyanand has been appointed to succeed Dame Silvia Cartwright as Governor-General of New Zealand. He will take up office on August 4, 2006. ](/news/2006/04/3/judge-anand-satyanand-has-been-appointed-to-succeed-dame-silvia-cartwright-as-governor-general-of-new-zealand-he-will-take-up-office-on-au.md)
-_Context: Silvia Cartwright, Anand Satyanand, Governor-General_
+_Context: Anand Satyanand, Silvia Cartwright, Governor-General_
 
 ## [Previous Day...](/news/2006/04/2/index.md)
 

@@ -9,7 +9,7 @@ _Context: British Airways, Dulles International Airport_
 
 ##### Thirty Year Rule
 ### [ State papers released under Britain's Thirty Year Rule suggest that the United States considered using force to seize oil fields in the Middle East during an oil embargo by Arab states in 1973. ](/news/2004/01/1/state-papers-released-under-britain-s-thirty-year-rule-suggest-that-the-united-states-considered-using-force-to-seize-oil-fields-in-the-mid.md)
-_Context: Thirty Year Rule, embargo_
+_Context: embargo, Thirty Year Rule_
 
 ##### Nazism
 ### [ Comparing planned United States finger-printing and photographic security controls on travelers from Brazil and other nations to Nazi actions, a Brazilian judge orders the fingerprinting of all arriving United States citizens in response. ](/news/2004/01/1/comparing-planned-united-states-finger-printing-and-photographic-security-controls-on-travelers-from-brazil-and-other-nations-to-nazi-actio.md)

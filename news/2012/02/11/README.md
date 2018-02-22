@@ -9,7 +9,7 @@ Several wounded in second day of violence involving supporters and opponents of 
 
 ##### Israeli Air Force
 ### [The Israeli Air Force conducts four air strikes in the Gaza Strip with claims that two people were injured. ](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.md)
-_Context: Israeli Air Force, Gaza Strip_
+_Context: Gaza Strip, Israeli Air Force_
 
 ##### Whitney Houston
 ### [American singer and actress Whitney Houston dies suddenly at the age of 48 at the Beverly Hills Hilton Hotel. ](/news/2012/02/11/american-singer-and-actress-whitney-houston-dies-suddenly-at-the-age-of-48-at-the-beverly-hills-hilton-hotel.md)
@@ -17,11 +17,11 @@ Singer and actress Whitney Houston, one of the most celebrated acts of all time,
 
 ##### Sudan
 ### [Sudan and South Sudan sign a non-aggression treaty. ](/news/2012/02/11/sudan-and-south-sudan-sign-a-non-aggression-treaty.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### Mark Lyall Grant
 ### [Sir Mark Lyall Grant, the Permanent Representative of the United Kingdom to the United Nations, describes claims by Argentina that the United Kingdom is militarising the Falkland Islands as "manifestly absurd". ](/news/2012/02/11/sir-mark-lyall-grant-the-permanent-representative-of-the-united-kingdom-to-the-united-nations-describes-claims-by-argentina-that-the-unite.md)
-_Context: Permanent Representative of the United Kingdom to the United Nations, Falkland Islands, Mark Lyall Grant, Argentina_
+_Context: Permanent Representative of the United Kingdom to the United Nations, Argentina, Mark Lyall Grant, Falkland Islands_
 
 ##### Arid Uka
 ### [Arid Uka, an Islamic extremist, is convicted in Germany of murdering two U.S. soldiers and injuring another two in a shooting at Frankfurt Airport last year. ](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.md)
@@ -41,11 +41,11 @@ Burmese monk Shin Gambira, one of the leaders of anti-government protests in 200
 
 ##### Nuclear reactor
 ### [Thousands of people march in Japan against the resumption of nuclear reactors that were closed after the Fukushima disaster last year. ](/news/2012/02/11/thousands-of-people-march-in-japan-against-the-resumption-of-nuclear-reactors-that-were-closed-after-the-fukushima-disaster-last-year.md)
-_Context: Fukushima Daiichi nuclear disaster, nuclear reactor_
+_Context: nuclear reactor, Fukushima Daiichi nuclear disaster_
 
 ##### Stephen Harper
 ### [Canadian Prime Minister Stephen Harper meets privately with Chongqing party boss Bo Xilai. The latter is currently embroiled in the Wang Lijun affair in what is rumoured to be an intense political struggle. ](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.md)
-_Context: party boss, Chongqing, Wang Lijun, Stephen Harper, Bo Xilai_
+_Context: Bo Xilai, party boss, Wang Lijun, Chongqing, Stephen Harper_
 
 ##### Lisbon
 ### [Hundreds of thousands of people march in the Portuguese capital Lisbon against austerity measures. ](/news/2012/02/11/hundreds-of-thousands-of-people-march-in-the-portuguese-capital-lisbon-against-austerity-measures.md)

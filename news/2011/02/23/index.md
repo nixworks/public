@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/23/index.html)  [JSON](2011/02/23/index.json)  [XML](201
 
 ##### Civil war
 ### [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md)
-_Context: civil war, Italy, Libya_
+_Context: civil war, Libya, Italy_
 
 ##### General People's Congress
 ### [Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md)
@@ -17,11 +17,11 @@ _Context: Enid Blyton_
 
 ##### Samsung
 ### [Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. ](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.md)
-_Context: South Korea, Facebook, YouTube, Samsung_
+_Context: South Korea, YouTube, Samsung, Facebook_
 
 ##### Australia
 ### [Australian businessman Lachlan Murdoch is appointed as acting CEO of Network Ten following the sacking of Grant Blackley. ](/news/2011/02/23/australian-businessman-lachlan-murdoch-is-appointed-as-acting-ceo-of-network-ten-following-the-sacking-of-grant-blackley.md)
-_Context: Australia, Lachlan, Network Ten_
+_Context: Lachlan, Australia, Network Ten_
 
 ##### Oil prices
 ### [Oil prices reach a two-year high due to uncertainty in the Middle East most notably in Libya. ](/news/2011/02/23/oil-prices-reach-a-two-year-high-due-to-uncertainty-in-the-middle-east-most-notably-in-libya.md)
@@ -49,11 +49,11 @@ _Context: President, his predecessor, Taiwan_
 
 ##### Senegal
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
-_Context: diplomatic relations, Iran, Senegal_
+_Context: Iran, Senegal, diplomatic relations_
 
 ##### China
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: United Nations Security Council, sanctions, North Korea, China, North Korea's nuclear program_
+_Context: North Korea, China, sanctions, United Nations Security Council, North Korea's nuclear program_
 
 ##### Xinjiang
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
@@ -65,7 +65,7 @@ _Context: Thailand, tiger_
 
 ##### United Kingdom
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
-_Context: blackmail, Manchester United, Coleen Rooney, Wayne Rooney, United Kingdom_
+_Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_
 
 ##### Colin Hatch
 ### [Colin Hatch, a convicted child murderer, is murdered in jail while serving his sentence; a 35-year-old male prisoner has been arrested on suspicion of murder. ](/news/2011/02/23/colin-hatch-a-convicted-child-murderer-is-murdered-in-jail-while-serving-his-sentence-a-35-year-old-male-prisoner-has-been-arrested-on-su.md)
@@ -81,7 +81,7 @@ King Abdullah announces $10.7 billion in pay raises, job creation and loan forgi
 
 ##### Federal Minister for Defence
 ### [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md)
-_Context: thesis, University of Bayreuth, doctorate, plagiarising, Karl-Theodor zu Guttenberg, Federal Minister for Defence_
+_Context: Federal Minister for Defence, thesis, doctorate, University of Bayreuth, Karl-Theodor zu Guttenberg, plagiarising_
 
 ## [Previous Day...](/news/2011/02/22/index.md)
 

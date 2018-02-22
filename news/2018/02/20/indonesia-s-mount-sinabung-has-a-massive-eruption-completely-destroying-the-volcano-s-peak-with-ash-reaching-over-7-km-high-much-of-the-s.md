@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-erupti
 
 ### [2018-02-20](/news/2018/02/20/index.md)
 
-##### Indonesia
+##### 2018 Mount Sinabung eruption
 # Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7 km high. Much of the surrounding area is covered with ash. 
 
 Side-by-side images show what the top of the volcano looks like.

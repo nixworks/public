@@ -5,15 +5,15 @@ Formats: [HTML](2007/04/24/index.html)  [JSON](2007/04/24/index.json)  [XML](200
 
 ##### Kevin Tillman
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
-_Context: U.S. military, Afghan, U.S. Congress, friendly fire, Kevin Tillman, Pat Tillman, testimony, American football_
+_Context: testimony, American football, friendly fire, Afghan, Pat Tillman, U.S. Congress, U.S. military, Kevin Tillman_
 
 ##### Storm
 ### [ At least ten people are killed and 120 injured as a severe storm hits the twin towns of Eagle Pass, Texas, and Piedras Negras, Coahuila, on the U.S.-Mexico border. ](/news/2007/04/24/at-least-ten-people-are-killed-and-120-injured-as-a-severe-storm-hits-the-twin-towns-of-eagle-pass-texas-and-piedras-negras-coahuila-on.md)
-_Context: U.S.-Mexico border, storm, Piedras Negras, Coahuila, Eagle Pass, Texas_
+_Context: Eagle Pass, Texas, Piedras Negras, Coahuila, storm, U.S.-Mexico border_
 
 ##### Jadarite
 ### [ Jadarite, a mineral of the same composition as Superman's Kryptonite, has been found in a Serbian mine. ](/news/2007/04/24/jadarite-a-mineral-of-the-same-composition-as-superman-s-kryptonite-has-been-found-in-a-serbian-mine.md)
-_Context: Serbia, Superman, Kryptonite, Jadarite, mineral_
+_Context: Serbia, Kryptonite, Jadarite, mineral, Superman_
 
 ##### United States Department of Veterans Affairs
 ### [ The United States Department of Veterans Affairs allows the Wiccan pentagram to be used on the tombstones of deceased soldiers. ](/news/2007/04/24/the-united-states-department-of-veterans-affairs-allows-the-wiccan-pentagram-to-be-used-on-the-tombstones-of-deceased-soldiers.md)
@@ -21,35 +21,35 @@ The Department of Veterans Affairs will add the Wiccan pentacle to a list of app
 
 ##### 2007 Abortion Law
 ### [ Abortion in Mexico: Mexico City's Legislative Assembly votes to legalise abortion on demand during the first trimester of pregnancy. ](/news/2007/04/24/abortion-in-mexico-mexico-city-s-legislative-assembly-votes-to-legalise-abortion-on-demand-during-the-first-trimester-of-pregnancy.md)
-_Context: Mexico City, abortion, Legislative Assembly, 2007 Abortion Law, first trimester, pregnancy_
+_Context: Legislative Assembly, first trimester, 2007 Abortion Law, pregnancy, abortion, Mexico City_
 
 ##### Moscow
 ### [ Thousands of people gather in Moscow, Russia to mourn former President Boris Yeltsin. ](/news/2007/04/24/thousands-of-people-gather-in-moscow-russia-to-mourn-former-president-boris-yeltsin.md)
-_Context: Moscow, Russia, President, Boris Yeltsin_
+_Context: Moscow, Boris Yeltsin, Russia, President_
 
 ##### Prison riot
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: United States, New Castle Correctional Facility, prison riot, Indiana_
+_Context: prison riot, Indiana, New Castle Correctional Facility, United States_
 
 ##### Ethiopia
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
-_Context: Chinese, oil field, Somalia, raid, Ethiopia, Ogaden National Liberation Front_
+_Context: Ogaden National Liberation Front, oil field, Ethiopia, Chinese, Somalia, raid_
 
 ##### Tamil Tigers
 ### [ The Tamil Tigers launch an air attack on the Sri Lankan military's main base in Jaffna. ](/news/2007/04/24/the-tamil-tigers-launch-an-air-attack-on-the-sri-lankan-military-s-main-base-in-jaffna.md)
-_Context: Tamil Tigers, Sri Lanka, Jaffna_
+_Context: Jaffna, Sri Lanka, Tamil Tigers_
 
 ##### UK
 ### [ British anti-terrorism police arrest five people in London and one in Luton for alleged breaches of the Terrorism Act. ](/news/2007/04/24/british-anti-terrorism-police-arrest-five-people-in-london-and-one-in-luton-for-alleged-breaches-of-the-terrorism-act.md)
-_Context: Terrorism Act, Luton, London, UK_
+_Context: UK, Terrorism Act, Luton, London_
 
 ##### Foreign Minister
 ### [ Foreign Minister of Turkey Abdullah Gl is nominated as the AK Party candidate for President of Turkey. ](/news/2007/04/24/foreign-minister-of-turkey-abdullah-gul-is-nominated-as-the-ak-party-candidate-for-president-of-turkey.md)
-_Context: Turkey, Abdullah Gl, ruling party, Foreign Minister, President of Turkey_
+_Context: Turkey, Abdullah Gl, Foreign Minister, ruling party, President of Turkey_
 
 ##### Toyota
 ### [ Toyota overtakes General Motors in global vehicle sales from January to March as a result of increased demand for fuel-efficient cars. ](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.md)
-_Context: General Motors, fuel-efficient car, Toyota_
+_Context: Toyota, General Motors, fuel-efficient car_
 
 ##### Hamas
 ### [ The military arm of Hamas fires rockets and mortars into Israel from Gaza. ](/news/2007/04/24/the-military-arm-of-hamas-fires-rockets-and-mortars-into-israel-from-gaza.md)

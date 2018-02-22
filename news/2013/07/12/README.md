@@ -25,7 +25,7 @@ China and Taiwan braced on Friday for the impact of Typhoon Soulik as the toll o
 
 ##### Australian
 ### [9 people are feared dead and 88 are rescued by Australian authorities after a boat carrying asylum seekers capsizes north of Christmas Island. ](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.md)
-_Context: Christmas Island, asylum seeker, Australian_
+_Context: asylum seeker, Christmas Island, Australian_
 
 ##### Derails
 ### [A commuter train derails in the Paris suburb of Bretigny-sur-Orge with at least eight people dead. ](/news/2013/07/12/a-commuter-train-derails-in-the-paris-suburb-of-bra-c-tigny-sur-orge-with-at-least-eight-people-dead.md)
@@ -33,15 +33,15 @@ An Intercity train to Limoges derailed today around 5pm in the municipality of B
 
 ##### San Francisco General Hospital
 ### [A third person, a critically injured unidentified girl, dies at San Francisco General Hospital of injuries she sustained as a result of the Saturday, July 6, 2013 crash-landing of Asiana Airlines Flight 214, a Boeing 777 (180 were injured, 16 remain hospitalized, including two critical adults; autopsy results will take about 3 weeks). ](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.md)
-_Context: Boeing 777, San Francisco General Hospital, Asiana Airlines Flight 214_
+_Context: Asiana Airlines Flight 214, Boeing 777, San Francisco General Hospital_
 
 ##### Ethiopian Airlines
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)
-_Context: 787 Dreamliner, Ethiopian Airlines, Manchester, Thomson Airways, London Heathrow Airport_
+_Context: London Heathrow Airport, Manchester, Thomson Airways, 787 Dreamliner, Ethiopian Airlines_
 
 ##### United States
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: Egypt, United States, 2013 coup d'etat, Mohamed Morsi, President, Egyptian Army_
+_Context: Egyptian Army, Egypt, Mohamed Morsi, United States, 2013 coup d'etat, President_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)

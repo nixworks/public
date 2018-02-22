@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/13/index.html)  [JSON](2009/11/13/index.json)  [XML](200
 
 ##### Philippines
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: Philippines, President, torture, Gloria Arroyo_
+_Context: Gloria Arroyo, Philippines, torture, President_
 
 ##### Turkey
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
-_Context: Kurd, Turkey, disarm_
+_Context: Kurd, disarm, Turkey_
 
 ##### Cambodia
 ### [ Cambodia detains a Thai man on charges of spying for Thailand. ](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.md)
@@ -21,7 +21,7 @@ Microsoft has acknowledged that it incorporated open-source code into a Windows 
 
 ##### United States
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: Congress, Democrat, Louisiana, U.S. state, William J. Jefferson, United States_
+_Context: Democrat, William J. Jefferson, United States, U.S. state, Congress, Louisiana_
 
 ##### NASA
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
@@ -49,11 +49,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Snow
 ### [ 38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. ](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.md)
-_Context: China, snow_
+_Context: snow, China_
 
 ##### Czech Republic
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: Rome, Italy, Jan Fischer, Italy, Czech Republic, Treaty of Lisbon, deposits_
+_Context: Czech Republic, deposits, Rome, Italy, Italy, Jan Fischer, Treaty of Lisbon_
 
 ##### Maoist supporters
 ### [ Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. ](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.md)
@@ -61,11 +61,11 @@ Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 ##### Gareth Jones
 ### [ The diaries of Gareth Jones, a British reporter who exposed the 1933 famine in Ukraine, are put on public display for the first time. ](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.md)
-_Context: famine in Ukraine in 1932-1933, Gareth Jones_
+_Context: Gareth Jones, famine in Ukraine in 1932-1933_
 
 ##### Peshawar
 ### [ A bomb hits the Peshawar office of Pakistan's Inter-Services Intelligence agency with at least seven people dead and 35 injured. ](/news/2009/11/13/a-bomb-hits-the-peshawar-office-of-pakistan-s-inter-services-intelligence-agency-with-at-least-seven-people-dead-and-35-injured.md)
-_Context: Inter-Services Intelligence, Peshawar, Pakistan_
+_Context: Pakistan, Inter-Services Intelligence, Peshawar_
 
 ##### Jersey
 ### [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-britishairish-council.md)
@@ -77,7 +77,7 @@ _Context: Japan Coast Guard, Mie Prefecture, Ariake, South Pacific Ocean_
 
 ##### Kosovo
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)
-_Context: Hashim Thaci, Decan, Kosovo_
+_Context: Kosovo, Hashim Thaci, Decan_
 
 ##### Clint Eastwood
 ### [ Actor and film director Clint Eastwood is made a commander of the Legion d'honneur. ](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.md)
@@ -89,7 +89,7 @@ An Argentine judge has granted a homosexual couple permission to get married, se
 
 ##### United States
 ### [ The United States opens its first marijuana cafe. ](/news/2009/11/13/the-united-states-opens-its-first-marijuana-cafe.md)
-_Context: United States, marijuana_
+_Context: marijuana, United States_
 
 ## [Previous Day...](/news/2009/11/12/index.md)
 

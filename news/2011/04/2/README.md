@@ -13,7 +13,7 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 
 ##### Syria
 ### [Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md)
-_Context: protestors, Syria_
+_Context: Syria, protestors_
 
 ##### 2011 Yemeni protests
 ### [Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
@@ -25,15 +25,15 @@ Israel calls on the UN to cancel a report that said it possibly committed war cr
 
 ##### Afghan National Army
 ### [Afghan National Army soldiers kill two insurgents including a would-be suicide bomber who attacked Camp Phoenix in Kabul. ](/news/2011/04/2/afghan-national-army-soldiers-kill-two-insurgents-including-a-would-be-suicide-bomber-who-attacked-camp-phoenix-in-kabul.md)
-_Context: Kabul, Camp Phoenix, suicide bomber, Afghan National Army_
+_Context: Afghan National Army, Kabul, Camp Phoenix, suicide bomber_
 
 ##### Omagh
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)
-_Context: taoiseach, Irish, Omagh, Northern Ireland, Enda Kenny, Omagh bombing, County Tyrone_
+_Context: Omagh, Irish, Northern Ireland, taoiseach, County Tyrone, Enda Kenny, Omagh bombing_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Naoto Kan, Prime Minister of Japan, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Naoto Kan, Prime Minister of Japan_
 
 ##### Tokyo Electric Power Company
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)
@@ -61,7 +61,7 @@ _Context: Ciudad Juarez, Mexico_
 
 ##### Parliamentary elections
 ### [A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. ](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nigeria-but-is-postponed-to-4-april-as-voting-materials-did-not-arrive-on-time.md)
-_Context: parliamentary elections, Nigeria_
+_Context: Nigeria, parliamentary elections_
 
 ##### Pro- and anti
 ### [Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. ](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.md)

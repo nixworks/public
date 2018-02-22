@@ -25,7 +25,7 @@ Prime Minister Shinzo Abe’s Liberal Democratic Party cruised to victory in Jap
 
 ##### 2015 protests in Brazil
 ### [Large protests in Brazil call for the impeachment of President of Brazil Dilma Rousseff due to a scandal involving members of her Workers Party receiving kickbacks from the state run oil company Petrobras. ](/news/2015/04/12/large-protests-in-brazil-call-for-the-impeachment-of-president-of-brazil-dilma-rousseff-due-to-a-scandal-involving-members-of-her-workers-pa.md)
-_Context: Brazil Workers' Party, Dilma Rousseff, Petrobras, 2015 protests in Brazil, president_
+_Context: president, Brazil Workers' Party, Dilma Rousseff, 2015 protests in Brazil, Petrobras_
 
 ## [Previous Day...](/news/2015/04/11/index.md)
 

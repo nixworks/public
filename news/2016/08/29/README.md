@@ -25,7 +25,7 @@ It was the deadliest -- and probably eeriest -- strike ever recorded.
 
 ##### 2016 Pacific hurricane season
 ### [A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md)
-_Context: Hurricane Madeline, 2016 Pacific hurricane season, island of Hawaii_
+_Context: island of Hawaii, 2016 Pacific hurricane season, Hurricane Madeline_
 
 ##### 2015-16 Zika virus epidemic
 ### [The number of Zika virus infected in Singapore rises above 40. ](/news/2016/08/29/the-number-of-zika-virus-infected-in-singapore-rises-above-40.md)
@@ -45,7 +45,7 @@ Officials are concerned that the Russians are attempting to interfere in the U.S
 
 ##### Li Jinbin
 ### [Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-becomes-communist-party-secretary-o.md)
-_Context: Wang Jun, Li Jiheng, Inner Mongolia, Zhang Chunxian, Communist Party Secretary, Wang Xuejun, Xinjiang Uyghur Autonomous Region, Anhui, Chen Quanguo, Li Jinbin_
+_Context: Wang Jun, Anhui, Wang Xuejun, Xinjiang Uyghur Autonomous Region, Li Jiheng, Communist Party Secretary, Inner Mongolia, Zhang Chunxian, Chen Quanguo, Li Jinbin_
 
 ##### University of Texas at Austin
 ### [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoan.md)

@@ -17,11 +17,11 @@ _Context: Heglig, Sudan, South Sudan_
 
 ##### Tornadoes
 ### [Tornadoes touch down in the southern central Great Plains of the United States, with hail falling in Oklahoma. ](/news/2012/04/14/tornadoes-touch-down-in-the-southern-central-great-plains-of-the-united-states-with-hail-falling-in-oklahoma.md)
-_Context: Oklahoma, Tornadoes, hail, Great Plains_
+_Context: Oklahoma, Great Plains, Tornadoes, hail_
 
 ##### South Korea
 ### [South Korean warships search the Yellow Sea for rocket debris from the failed North Korean Kwangmyongsong-3 launch yesterday. ](/news/2012/04/14/south-korean-warships-search-the-yellow-sea-for-rocket-debris-from-the-failed-north-korean-kwangmyangsang-3-launch-yesterday.md)
-_Context: failed North Korean rocket launch, Yellow Sea, North Korea, South Korea_
+_Context: failed North Korean rocket launch, North Korea, South Korea, Yellow Sea_
 
 ##### Iran
 ### [Iran and world powers, including the United States, Russia, and China, begin talks about Iran's nuclear program. ](/news/2012/04/14/iran-and-world-powers-including-the-united-states-russia-and-china-begin-talks-about-iran-s-nuclear-program.md)

@@ -21,19 +21,19 @@ _Context: Spike Video Game Awards, The Elder Scrolls V: Skyrim_
 
 ##### Crashes into an elementary school
 ### [A light cargo plane crashes into an elementary school building in the Philippine city of Paraaque with 13 people dead. ](/news/2011/12/10/a-light-cargo-plane-crashes-into-an-elementary-school-building-in-the-philippine-city-of-paranaque-with-13-people-dead.md)
-_Context: crashes into an elementary school, Paraaque, Philippine_
+_Context: crashes into an elementary school, Philippine, Paraaque_
 
 ##### 6.5 magnitude earthquake
 ### [A 6.5 magnitude earthquake hits the Mexican state of Guerrero. It causes three deaths and is felt across several central states. ](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.md)
-_Context: Guerrero, 6.5 magnitude earthquake_
+_Context: 6.5 magnitude earthquake, Guerrero_
 
 ##### John Key
 ### [Official results for the 26 November general election confirm John Key's National Party holding a plurality of the votes and seats. With confidence and supply agreements with ACT New Zealand and United Future confirmed, National forms a minority government with a one-seat majority, returning the Fifth National Government to a second term in office. ](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.md)
-_Context: ACT, minority government, Fifth National Government, confidence and supply, United Future, John Key, New Zealand National Party_
+_Context: confidence and supply, John Key, minority government, ACT, Fifth National Government, New Zealand National Party, United Future_
 
 ##### Russia
 ### [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md)
-_Context: United Russia, Vladimir Putin, Khabarovsk, Moscow, Russia_
+_Context: Khabarovsk, Vladimir Putin, Russia, Moscow, United Russia_
 
 ##### DR Congo
 ### [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md)
@@ -45,7 +45,7 @@ _Context: President of Argentina, Cristina Kirchner_
 
 ##### Oscar Valds
 ### [Oscar Valds is named as the new Prime Minister of Peru, after Salomn Lerner Ghitis resigned. ](/news/2011/12/10/oscar-valdes-is-named-as-the-new-prime-minister-of-peru-after-salomon-lerner-ghitis-resigned.md)
-_Context: Oscar Valds, Salomn Lerner Ghitis, Peru_
+_Context: Peru, Oscar Valds, Salomn Lerner Ghitis_
 
 ##### Asia
 ### [Astronomers in Asia, Australia and North America observe a total lunar eclipse. ](/news/2011/12/10/astronomers-in-asia-australia-and-north-america-observe-a-total-lunar-eclipse.md)

@@ -13,15 +13,15 @@ Japan&#039;s oldest person, Yone Minagawa, 114, has become the world&#039;s olde
 
 ##### Azim Isabekov
 ### [ Azim Isabekov becomes Prime Minister of Kyrgyzstan, replacing Felix Kulov. ](/news/2007/01/29/azim-isabekov-becomes-prime-minister-of-kyrgyzstan-replacing-felix-kulov.md)
-_Context: Felix Kulov, Prime Minister, Azim Isabekov_
+_Context: Azim Isabekov, Felix Kulov, Prime Minister_
 
 ##### Two years of helping
 ### [ War in Somalia (ICU insurgency): At least two people have been killed, including a Somali police officer, during an hour-long gunbattle in the capital, Mogadishu. ](/news/2007/01/29/war-in-somalia-icu-insurgency-at-least-two-people-have-been-killed-including-a-somali-police-officer-during-an-hour-long-gunbattle-in.md)
-_Context: Mogadishu, ICU insurgency, two years of helping_
+_Context: two years of helping, ICU insurgency, Mogadishu_
 
 ##### Suicide bombing
 ### [ Three civilians are killed in a suicide bombing in the southern Israeli city of Eilat. ](/news/2007/01/29/three-civilians-are-killed-in-a-suicide-bombing-in-the-southern-israeli-city-of-eilat.md)
-_Context: suicide bombing, Eilat, Israel_
+_Context: Israel, Eilat, suicide bombing_
 
 ## [Previous Day...](/news/2007/01/28/index.md)
 

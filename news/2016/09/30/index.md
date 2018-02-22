@@ -29,7 +29,7 @@ A Chinese man has confessed to killing his parents and then killing 17 neighbour
 
 ##### Alabama Court of the Judiciary
 ### [The Alabama Court of the Judiciary finds Alabama Supreme Court Chief Justice Roy Moore guilty of six charges of violation of canon of judicial ethics and suspends him for the remainder of his term which is slated to end in 2019. The judge told other judges to ignore the Supreme Court of the United States ruling on gay marriage ("Obergefell v. Hodges"). ](/news/2016/09/30/the-alabama-court-of-the-judiciary-finds-alabama-supreme-court-chief-justice-roy-moore-guilty-of-six-charges-of-violation-of-canon-of-judici.md)
-_Context: Alabama Supreme Court, Roy Moore, Obergefell v. Hodges, Alabama Court of the Judiciary, Supreme Court of the United States_
+_Context: Obergefell v. Hodges, Supreme Court of the United States, Alabama Supreme Court, Alabama Court of the Judiciary, Roy Moore_
 
 ##### European Space Agency
 ### [The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-maneuv.md)

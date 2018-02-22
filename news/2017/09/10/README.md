@@ -5,11 +5,11 @@ Formats: [HTML](2017/09/10/index.html)  [JSON](2017/09/10/index.json)  [XML](201
 
 ##### Russian military intervention in the Syrian Civil War
 ### [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.md)
-_Context: Russia, Russian military intervention in the Syrian Civil War, Euphrates, Syrian Observatory for Human Rights, Deir ez-Zor_
+_Context: Russia, Syrian Observatory for Human Rights, Euphrates, Deir ez-Zor, Russian military intervention in the Syrian Civil War_
 
 ##### Atlantic hurricanes
 ### [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md)
-_Context: Atlantic hurricanes, Hurricane Irma, Florida_
+_Context: Florida, Atlantic hurricanes, Hurricane Irma_
 
 ##### 2017 Livorno floods
 ### [Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy. ](/news/2017/09/10/floods-following-torrential-rain-kill-at-least-six-people-in-the-port-city-of-livorno-italy.md)

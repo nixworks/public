@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/20/index.html)  [JSON](2014/01/20/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md)
-_Context: killing at least 13 people, War in North-West Pakistan, Rawalpindi, suicide bomber, Pakistan_
+_Context: killing at least 13 people, Rawalpindi, Pakistan, War in North-West Pakistan, suicide bomber_
 
 ##### December 2013 Volgograd bombings
 ### [An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic-games-to-be-held-in-sochi.md)
@@ -29,7 +29,7 @@ Credit card details from almost half of all South Koreans have been stolen and s
 
 ##### London
 ### [Trial begins in London over a claim by investment bank JPMorgan that the public transit provider of the city of Berlin owes it more than $204 million. ](/news/2014/01/20/trial-begins-in-london-over-a-claim-by-investment-bank-jpmorgan-that-the-public-transit-provider-of-the-city-of-berlin-owes-it-more-than-20.md)
-_Context: Berlin, JPMorgan, London_
+_Context: Berlin, London, JPMorgan_
 
 ##### Davos
 ### [World leaders are meeting in Davos, Switzerland, for the World Economic Forum. ](/news/2014/01/20/world-leaders-are-meeting-in-davos-switzerland-for-the-world-economic-forum.md)
@@ -57,7 +57,7 @@ Under pressure from the United States, Ban Ki-moon, the United Nations secretary
 
 ##### Iran
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: European Union, Iran, United States_
+_Context: United States, European Union, Iran_
 
 ##### Global surveillance disclosures (2013-present)
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
@@ -65,7 +65,7 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 
 ##### Kenneth Bae
 ### [Kenneth Bae, an American prisoner in North Korea, releases a message to the United States for help. ](/news/2014/01/20/kenneth-bae-an-american-prisoner-in-north-korea-releases-a-message-to-the-united-states-for-help.md)
-_Context: Kenneth Bae, North Korea_
+_Context: North Korea, Kenneth Bae_
 
 ##### Hong Kong
 ### [Hong Kong arrests an employer for abusing an Indonesian maid which resulted in protests by migrant workers from Indonesia and the Philippines in the Chinese territory. ](/news/2014/01/20/hong-kong-arrests-an-employer-for-abusing-an-indonesian-maid-which-resulted-in-protests-by-migrant-workers-from-indonesia-and-the-philippine.md)
@@ -77,7 +77,7 @@ Israel has become the first country in the world to make ‘revenge porn’ a cr
 
 ##### India
 ### [Police in India are investigating the death of Sunanda Pushkar, wife of Shashi Tharoor, after she had accused her husband of committing adultery with Pakistani journalist Mehr Tarar. ](/news/2014/01/20/police-in-india-are-investigating-the-death-of-sunanda-pushkar-wife-of-shashi-tharoor-after-she-had-accused-her-husband-of-committing-adul.md)
-_Context: adultery, Pakistan, Mehr Tarar, Shashi Tharoor, India, Sunanda Pushkar_
+_Context: Mehr Tarar, Sunanda Pushkar, India, adultery, Pakistan, Shashi Tharoor_
 
 ##### Vietnam
 ### [30 people are to be executed in Vietnam for smuggling drugs. ](/news/2014/01/20/30-people-are-to-be-executed-in-vietnam-for-smuggling-drugs.md)

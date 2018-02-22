@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/4/index.html)  [JSON](2016/11/4/index.json)  [XML](2016/
 
 ##### Kurdish-Turkish conflict
 ### [ A car bomb kills at least eight people and injures up to 100 in Diyarbakir, Turkey. ](/news/2016/11/4/a-car-bomb-kills-at-least-eight-people-and-injures-up-to-100-in-diyarbaka-r-turkey.md)
-_Context: Kurdish-Turkish conflict, Diyarbakir, Turkey_
+_Context: Kurdish-Turkish conflict, Turkey, Diyarbakir_
 
 ##### United States
 ### [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jafr.md)
@@ -49,7 +49,7 @@ In the Palau presidential race, the incumbent, Tommy Remengesau, is leading his 
 
 ##### 2016 South Korean political scandal
 ### [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md)
-_Context: South Korean President, Park Geun-hye, Choi Soon-sil, 2016 South Korean political scandal_
+_Context: South Korean President, 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye_
 
 ##### 2016 Turkish purges
 ### [Turkish security forces begin mass arrests of pro-Kurdish Peoples' Democratic Party (HDP) MPs, including co-leaders Selahattin Demirtas and Figen Yuksekdag. Internet access is reportedly blocked across southeastern Turkey. ](/news/2016/11/4/turkish-security-forces-begin-mass-arrests-of-pro-kurdish-peoples-democratic-party-hdp-mps-including-co-leaders-selahattin-demirtaa-and.md)

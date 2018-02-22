@@ -5,19 +5,19 @@ Formats: [HTML](2009/12/7/index.html)  [JSON](2009/12/7/index.json)  [XML](2009/
 
 ##### Pakistan national cricket team
 ### [ Pakistan's Raffatullah Momand and Aamer Sajjad set a new world record for a second wicket partnership scoring 580 runs in a first-class Quaid-i-Azam Trophy match, breaking the previous record of 576 held by Sri Lanka's Sanath Jayasuriya and Roshan Mahanama.](/news/2009/12/7/pakistanas-raffatullah-momand-and-aamer-sajjad-set-a-new-world-record-for-a-second-wicket-partnership-scoring-580-runs-in-a-first-class-q.md)
-_Context: Sanath Jayasuriya, partnership, run, second wicket, Pakistan national cricket team, Roshan Mahanama, first-class,  Quaid-i-Azam Trophy match_
+_Context: second wicket, Sanath Jayasuriya, first-class, Pakistan national cricket team,  Quaid-i-Azam Trophy match, Roshan Mahanama, partnership, run_
 
 ##### President
 ### [ Incumbent President of Romania Traian Basescu is declared the winner of Sunday's presidential election run-off, with the opposition demanding that the Constitutional Court annul the vote due to electoral fraud. ](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.md)
-_Context: President, Traian Basescu, presidential election run-off, Constitutional Court of Romania_
+_Context: Constitutional Court of Romania, Traian Basescu, President, presidential election run-off_
 
 ##### Northern Mariana Islands
 ### [ Incumbent Northern Mariana Islands Governor Benigno Fitial of the Covenant Party is declared the winner of the 2009 gubernatorial election and runoff over Republican Rep. Heinz Hofschneider. ](/news/2009/12/7/incumbent-northern-mariana-islands-governor-benigno-fitial-of-the-covenant-party-is-declared-the-winner-of-the-2009-gubernatorial-election.md)
-_Context: Northern Mariana Islands, Covenant Party, Heinz Hofschneider, Benigno Fitial, Republican, Governor of the Northern Mariana Islands, 2009 gubernatorial election and runoff_
+_Context: Governor of the Northern Mariana Islands, Heinz Hofschneider, Republican, 2009 gubernatorial election and runoff, Benigno Fitial, Northern Mariana Islands, Covenant Party_
 
 ##### President of Guinea
 ### [ President of Guinea Moussa Dadis Camara is reportedly unable to communicate following surgery due to an assassination attempt. ](/news/2009/12/7/president-of-guinea-moussa-dadis-camara-is-reportedly-unable-to-communicate-following-surgery-due-to-an-assassination-attempt.md)
-_Context: Moussa Dadis Camara, assassination, President of Guinea_
+_Context: assassination, President of Guinea, Moussa Dadis Camara_
 
 ##### Shot to death
 ### [ At least seven soldiers are shot to death and at least three others are wounded in an ambush at Resadiye, Tokat Turkey, in the region's deadliest attack this decade. ](/news/2009/12/7/at-least-seven-soldiers-are-shot-to-death-and-at-least-three-others-are-wounded-in-an-ambush-at-reaadiye-tokat-turkey-in-the-region-s-de.md)
@@ -29,7 +29,7 @@ Former Auxiliary Bishop of Dublin Bishop Dermot O&#39;Mahony has resigned the pr
 
 ##### United Nations
 ### [ The United Nations Climate Change Conference opens in Copenhagen. ](/news/2009/12/7/the-united-nations-climate-change-conference-opens-in-copenhagen.md)
-_Context: Copenhagen, Conference on Climate Change, United Nations_
+_Context: United Nations, Copenhagen, Conference on Climate Change_
 
 ##### Iran
 ### [ Iranian police clash with thousands of opposition supporters at the annual Student's Day in Tehran, with reports of gunfire being heard. ](/news/2009/12/7/iranian-police-clash-with-thousands-of-opposition-supporters-at-the-annual-student-s-day-in-tehran-with-reports-of-gunfire-being-heard.md)
@@ -37,15 +37,15 @@ Riot police fire tear gas at opposition supporters in central Tehran, witnesses 
 
 ##### Court
 ### [ At least five people are killed in a blast outside a court complex in Peshawar, Pakistan. ](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outside-a-court-complex-in-peshawar-pakistan.md)
-_Context: Pakistan, Peshawar, court_
+_Context: Peshawar, court, Pakistan_
 
 ##### Sudan
 ### [ Sudanese police detain three senior figures from the Sudan People's Liberation Movement, the ruling party in South Sudan, at a demonstration calling for electoral reform in Khartoum. ](/news/2009/12/7/sudanese-police-detain-three-senior-figures-from-the-sudan-people-s-liberation-movement-the-ruling-party-in-south-sudan-at-a-demonstratio.md)
-_Context: Sudan People's Liberation Movement, Sudan, Khartoum, South Sudan_
+_Context: Khartoum, South Sudan, Sudan, Sudan People's Liberation Movement_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan begins hearing a case against the National Reconciliation Ordinance which protected President Asif Ali Zardari and other key political figures against graft charges. ](/news/2009/12/7/the-supreme-court-of-pakistan-begins-hearing-a-case-against-the-national-reconciliation-ordinance-which-protected-president-asif-ali-zardar.md)
-_Context: Asif Ali Zardari, graft, amnesty protecting him, Supreme Court, Pakistan_
+_Context: Pakistan, amnesty protecting him, graft, Asif Ali Zardari, Supreme Court_
 
 ##### Defense Secretary
 ### [ U.S. Defense Secretary Robert Gates admits that the United States has had no information on the whereabouts of Osama bin Laden for many years. ](/news/2009/12/7/u-s-defense-secretary-robert-gates-admits-that-the-united-states-has-had-no-information-on-the-whereabouts-of-osama-bin-laden-for-many-yea.md)

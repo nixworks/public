@@ -11,7 +11,7 @@ Heart-rending photos of toddler&#39;s lifeless body washed ashore on Turkish bea
 ### [An overloaded wooden boat with Sumatra-bound migrants sinks off the coast of Malaysia killing at least 15 people, 13 of which are women. Nearby fisherman rescue 19 people with more than 40 missing. The Malaysian Maritime Enforcement Agency states that the boat was taking migrant workers home to Tanjung Balai in Indonesia's Sumatra province for the Hari Raya Haji celebration. ](/news/2015/09/3/an-overloaded-wooden-boat-with-sumatra-bound-migrants-sinks-off-the-coast-of-malaysia-killing-at-least-15-people-13-of-which-are-women-nea.md)
 An overloaded wooden boat believed to be carrying dozens of Indonesian illegal immigrants sank off the coast of Malaysia on Thursday, killing at least 14 people, among them 13 women, maritime officials said.
 
-##### France
+##### French
 ### [French prosecutors state that they believe "with certainty" that a piece of debris that had washed ashore on Reunion Island came from the missing plane. ](/news/2015/09/3/french-prosecutors-state-that-they-believe-with-certainty-that-a-piece-of-debris-that-had-washed-ashore-on-reunion-island-came-from-the-mi.md)
 French prosecutors say &quot;with certainty&quot; that a wing part found on Reunion Island in July came from missing flight MH370.
 
@@ -21,11 +21,11 @@ The military parade in Beijing on September 3, celebrating Japan’s surrender i
 
 ##### Guatemalan President
 ### [The President of Guatemala, Otto Prez Molina, resigns after being charged in a corruption scandal; Vice President Alejandro Maldonado is sworn in as interim head of state. ](/news/2015/09/3/the-president-of-guatemala-otto-perez-molina-resigns-after-being-charged-in-a-corruption-scandal-vice-president-alejandro-maldonado-is-sw.md)
-_Context: Alejandro Maldonado, Otto Prez Molina, Guatemalan President_
+_Context: Alejandro Maldonado, Guatemalan President, Otto Prez Molina_
 
 ##### 2015 Bangkok bombing
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)
-_Context: Bangkok, Thailand, Narathiwat, 2015 Bangkok bombing_
+_Context: 2015 Bangkok bombing, Thailand, Narathiwat, Bangkok_
 
 ##### Kim Davis
 ### [Kim Davis, the Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/kim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-religious-freedom-to.md)

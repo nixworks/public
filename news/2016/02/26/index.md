@@ -41,7 +41,7 @@ Police in Papua New Guinea have shot dead at least 11 inmates after a prison bre
 
 ##### Constitutional Court of Turkey
 ### [Following yesterday's Constitutional Court of Turkey ruling that their rights had been violated, two Turkish journalists, jailed on terrorism charges, are released after 92 days in prison. ](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.md)
-_Context: Constitutional Court of Turkey, Turkey, journalist_
+_Context: journalist, Turkey, Constitutional Court of Turkey_
 
 ##### Belfair, Washington
 ### [A gunman from a rural area near Belfair, Washington (U.S.), kills four members of his family, including two children, and, after a multi-hour standoff with police, also kills himself. A 12-year old girl, who was not shot, is alive. ](/news/2016/02/26/a-gunman-from-a-rural-area-near-belfair-washington-u-s-kills-four-members-of-his-family-including-two-children-and-after-a-multi-hou.md)
@@ -57,7 +57,7 @@ A look at the vote and its implications as Iranians move to select a new Parliam
 
 ##### Irish general election, 2016
 ### [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md)
-_Context: Enda Kenny, Labour Party, Irish general election, 2016, Irish, Fine Gael_
+_Context: Enda Kenny, Irish, Fine Gael, Irish general election, 2016, Labour Party_
 
 ##### Hashim Thaci
 ### [Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. ](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.md)

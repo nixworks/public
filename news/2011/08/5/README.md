@@ -13,11 +13,11 @@ Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstri
 
 ##### Meng Jianzhu
 ### [Meng Jianzhu, the Minister for Public Security in the People's Republic of China, orders a clampdown in Xinjiang following recent unrest. ](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.md)
-_Context: Xinjiang, Ministry of Public Security of the People's Republic of China, Meng Jianzhu, recent unrest, China_
+_Context: China, Ministry of Public Security of the People's Republic of China, recent unrest, Xinjiang, Meng Jianzhu_
 
 ##### Burma
 ### [Burmese state media say rebels in the northeast of the country killed seven workers from a Chinese-backed hydroelectric power project. ](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.md)
-_Context: China, Burma, state media_
+_Context: Burma, China, state media_
 
 ##### Stock market
 ### [Stock markets in Asia and Australia continue falls from Europe and the United States. ](/news/2011/08/5/stock-markets-in-asia-and-australia-continue-falls-from-europe-and-the-united-states.md)
@@ -25,31 +25,31 @@ Stock markets worldwide plunged on Thursday amid fears of a new global economic 
 
 ##### Standard & Poor's
 ### [The Standard & Poor's credit rating agency downgrades the credit rating of the United States from AAA to AA+ with a negative outlook. ](/news/2011/08/5/the-standard-poor-s-credit-rating-agency-downgrades-the-credit-rating-of-the-united-states-from-aaa-to-aa-with-a-negative-outlook.md)
-_Context: Standard & Poor's, United States, credit rating_
+_Context: United States, credit rating, Standard & Poor's_
 
 ##### Ivory Coast
 ### [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md)
-_Context: Abidjan, lagoon, Ivory Coast_
+_Context: lagoon, Ivory Coast, Abidjan_
 
 ##### Japan
 ### [Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha-international-a.md)
-_Context: Japan, Naha International Airport, Okinawa_
+_Context: Okinawa, Naha International Airport, Japan_
 
 ##### UNICEF
 ### [UNICEF calls on Australia not to send 18 asylum seekers who are allegedly unaccompanied minors to Malaysia as part of a people swap. ](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.md)
-_Context: UNICEF, Malaysia, Australia, asylum seekers_
+_Context: asylum seekers, UNICEF, Australia, Malaysia_
 
 ##### Ukraine
 ### [Former Prime Minister of Ukraine, and leader of the most numerous opposition party Yulia Tymoshenko is arrested in Kiev. ](/news/2011/08/5/former-prime-minister-of-ukraine-and-leader-of-the-most-numerous-opposition-party-yulia-tymoshenko-is-arrested-in-kiev.md)
-_Context: Yulia Tymoshenko, Ukraine, opposition party, Kiev_
+_Context: Kiev, opposition party, Ukraine, Yulia Tymoshenko_
 
 ##### Philippine
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
-_Context: Moro Islamic Liberation Front, Tokyo, Philippine, President, his predecessor_
+_Context: Philippine, his predecessor, President, Moro Islamic Liberation Front, Tokyo_
 
 ##### Yingluck Shinawatra
 ### [Yingluck Shinawatra is officially elected as the Prime Minister of Thailand by the parliament. ](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.md)
-_Context: Yingluck Shinawatra, Prime Minister, Parliament_
+_Context: Yingluck Shinawatra, Parliament, Prime Minister_
 
 ##### Deputy Prime Minister of Poland
 ### [Former Deputy Prime Minister of Poland Andrzej Lepper is found dead in what police suspect is a suicide by hanging. ](/news/2011/08/5/former-deputy-prime-minister-of-poland-andrzej-lepper-is-found-dead-in-what-police-suspect-is-a-suicide-by-hanging.md)

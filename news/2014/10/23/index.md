@@ -21,7 +21,7 @@ _Context: Ebola virus epidemic in West Africa_
 
 ##### New York City
 ### [A man attacks a group of police officers in New York City with a hatchet, injuring 2 before being shot dead. Police suspect the attacker was motivated by radical Islamic ideals. ](/news/2014/10/23/a-man-attacks-a-group-of-police-officers-in-new-york-city-with-a-hatchet-injuring-2-before-being-shot-dead-police-suspect-the-attacker-was.md)
-_Context: New York City, Islamic, hatchet_
+_Context: Islamic, hatchet, New York City_
 
 ##### Iran
 ### [Protesters in Iran call for increased security after four women are injured in acid attacks in Isfahan for allegedly not wearing veils. ](/news/2014/10/23/protesters-in-iran-call-for-increased-security-after-four-women-are-injured-in-acid-attacks-in-isfahan-for-allegedly-not-wearing-veils.md)

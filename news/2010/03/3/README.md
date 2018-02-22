@@ -29,7 +29,7 @@ Two cruise passengers died when their liner was hit by a freak wave off the Medi
 
 ##### President
 ### [President of Nigeria Umaru Yar'Adua does not attend a cabinet meeting in Abuja after his arrival home from medical treatment in Saudi Arabia. Acting President Goodluck Jonathan chairs instead. ](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.md)
-_Context: President, Umaru Yar'Adua, Abuja, Goodluck Jonathan, Saudi Arabia_
+_Context: Saudi Arabia, Umaru Yar'Adua, Goodluck Jonathan, President, Abuja_
 
 ##### Spain
 ### [Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. ](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.md)
@@ -49,15 +49,15 @@ Dozens die in Baquba as suicide bombers launch co-ordinated attacks days before 
 
 ##### Indian Navy
 ### [Three are killed in Indian Navy air show crash in Hyderabad, India. ](/news/2010/03/3/three-are-killed-in-indian-navy-air-show-crash-in-hyderabad-india.md)
-_Context: air show, Hyderabad, Indian Navy_
+_Context: Indian Navy, air show, Hyderabad_
 
 ##### BBC
 ### [A BBC investigation claims millions of dollars in Western aid donated to the 1984-1985 famine in Ethiopia was stolen by rebels who used it to purchase weapons. ](/news/2010/03/3/a-bbc-investigation-claims-millions-of-dollars-in-western-aid-donated-to-the-1984a1985-famine-in-ethiopia-was-stolen-by-rebels-who-used-it.md)
-_Context: 1984-1985 famine in Ethiopia, BBC_
+_Context: BBC, 1984-1985 famine in Ethiopia_
 
 ##### Nicolas Chartier
 ### [Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/nicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-be-a-violation-of-rules.md)
-_Context: e-mail, 82nd Academy Awards, Nicolas Chartier, The Hurt Locker_
+_Context: e-mail, The Hurt Locker, 82nd Academy Awards, Nicolas Chartier_
 
 ##### Mogadishu
 ### [14 killed, 39 wounded in a gunbattle in Mogadishu, Somalia's capital city. ](/news/2010/03/3/14-killed-39-wounded-in-a-gunbattle-in-mogadishu-somalia-s-capital-city.md)

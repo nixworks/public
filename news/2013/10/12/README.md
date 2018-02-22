@@ -13,7 +13,7 @@ Typhoon Nari has pummelled the northern Philippines, killing five people and lea
 
 ##### Veers off a cliff
 ### [At least 50 people are dead after a truck veers off a cliff in La Convencion Province in Peru. ](/news/2013/10/12/at-least-50-people-are-dead-after-a-truck-veers-off-a-cliff-in-la-convencion-province-in-peru.md)
-_Context: Peru, La Convencion Province, veers off a cliff_
+_Context: veers off a cliff, La Convencion Province, Peru_
 
 ##### Vietnam
 ### [A series of explosions at a fireworks factory in northern Vietnam has killed at least 15 people and left many others injured.](/news/2013/10/12/a-series-of-explosions-at-a-fireworks-factory-in-northern-vietnam-has-killed-at-least-15-people-and-left-many-others-injured.md)

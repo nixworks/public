@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/10/index.html)  [JSON](2010/12/10/index.json)  [XML](201
 
 ##### Somali pirates
 ### [Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. ](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.md)
-_Context: Tanzania, Mozambique, Liberia, Somali pirates, hijack_
+_Context: Somali pirates, Tanzania, Liberia, hijack, Mozambique_
 
 ##### Northwestern Pakistan
 ### [At least 15 people are killed and several dozen others sustain wounds during a suicide attack at a Shia hospital in Khyber Pakhtunkhwa. ](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.md)
@@ -25,7 +25,7 @@ _Context: India, Kashmir_
 
 ##### Picasso
 ### [An auction of Picasso paintings is postponed in Paris. ](/news/2010/12/10/an-auction-of-picasso-paintings-is-postponed-in-paris.md)
-_Context: Picasso, Paris_
+_Context: Paris, Picasso_
 
 ##### Cocaine
 ### [Traces of cocaine "likely" triggered the death of Gerry Ryan in April. ](/news/2010/12/10/traces-of-cocaine-likely-triggered-the-death-of-gerry-ryan-in-april.md)
@@ -53,7 +53,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 
 ##### World War II
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: World War II, German, France_
+_Context: German, World War II, French_
 
 ##### WikiLeaks
 ### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)

@@ -17,7 +17,7 @@ Figures show strongest quarterly increase in GDP since reunification in 1990.
 
 ##### TAM Airlines
 ### [TAM Airlines of Brazil and LAN Airlines of Chile announce plans for a merger that would make the biggest carrier in the region. ](/news/2010/08/13/tam-airlines-of-brazil-and-lan-airlines-of-chile-announce-plans-for-a-merger-that-would-make-the-biggest-carrier-in-the-region.md)
-_Context: Chile, Brazil, TAM Airlines, LAN Airlines_
+_Context: Chile, TAM Airlines, Brazil, LAN Airlines_
 
 ##### Hong Kong Monetary Authority
 ### [The Hong Kong Monetary Authority announces it is to tighten some rules on mortgage lending, signalling that it is concerned about the dangers of a real estate bubble in Hong Kong. ](/news/2010/08/13/the-hong-kong-monetary-authority-announces-it-is-to-tighten-some-rules-on-mortgage-lending-signalling-that-it-is-concerned-about-the-danger.md)
@@ -33,7 +33,7 @@ Torrential rain brings landslides to more areas in China, as relief teams in dev
 
 ##### The recent wildfires
 ### [A forest fire grows in size near Russia's main nuclear research centre in Sarov. ](/news/2010/08/13/a-forest-fire-grows-in-size-near-russia-s-main-nuclear-research-centre-in-sarov.md)
-_Context: the recent wildfires, Sarov, Russia_
+_Context: Russia, Sarov, the recent wildfires_
 
 ##### Fornelos de Montes
 ### [2 firefighters are killed fighting wildfires in Fornelos de Montes, Pontevedra, in Galicia, Spain. ](/news/2010/08/13/2-firefighters-are-killed-fighting-wildfires-in-fornelos-de-montes-pontevedra-in-galicia-spain.md)
@@ -51,13 +51,13 @@ A strong quake strikes at sea south-west of the US Pacific territory of Guam but
 ### [Germany allows suspected Israeli spy Uri Brodsky, connected of the murder of Mahmoud al-Mabhouh in Dubai, to go free after his recent extradition from Poland. ](/news/2010/08/13/germany-allows-suspected-israeli-spy-uri-brodsky-connected-of-the-murder-of-mahmoud-al-mabhouh-in-dubai-to-go-free-after-his-recent-extrad.md)
 Court grants bail to man suspected of links to killing of Hamas leader in Dubai.
 
-##### France
+##### French
 ### [France condemns the actions of a senior soldier after a YouTube video of him threatening a Togolese journalist in Lome is released. ](/news/2010/08/13/france-condemns-the-actions-of-a-senior-soldier-after-a-youtube-video-of-him-threatening-a-togolese-journalist-in-loma-c-is-released.md)
 French officials lambast a senior army officer who was filmed on YouTube ordering a Togolese journalist to delete images of a protest.
 
 ##### Tamil migrant
 ### [Sun Sea, a cargo ship carrying around 490 Tamil migrants, refugees and suspected human smugglers and Tamil Tigers as well as reports of tuberculosis outbreaks is scheduled to arrive in Esquimalt, British Columbia. The Royal Canadian Mounted Police and Canadian Navy are escorting and boarding the ship, and the ship's captain is suspected by the Sri Lankan Government of being a gun runner. ](/news/2010/08/13/sun-sea-a-cargo-ship-carrying-around-490-tamil-migrants-refugees-and-suspected-human-smugglers-and-tamil-tigers-as-well-as-reports-of-tube.md)
-_Context: gun runner, refugee, Sri Lankan Government, British Columbia, human smuggler, tuberculosis, Tamil migrant, Tamil Tigers, Esquimalt, Royal Canadian Mounted Police, Canadian Navy_
+_Context: gun runner, Tamil Tigers, Tamil migrant, Sri Lankan Government, Esquimalt, Canadian Navy, British Columbia, tuberculosis, Royal Canadian Mounted Police, human smuggler, refugee_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs a bill increasing security along his country's border with Mexico. ](/news/2010/08/13/president-of-the-united-states-barack-obama-signs-a-bill-increasing-security-along-his-country-s-border-with-mexico.md)
@@ -69,7 +69,7 @@ Officials in Sierra Leone ask for the return of diamonds allegedly given by Char
 
 ##### Lebanese
 ### [Lebanon cancels an Iranian made television series about Jesus after complaints from Christian leaders and the public. ](/news/2010/08/13/lebanon-cancels-an-iranian-made-television-series-about-jesus-after-complaints-from-christian-leaders-and-the-public.md)
-_Context: Lebanese, Iran, Jesus, Christian_
+_Context: Jesus, Iran, Christian, Lebanese_
 
 ##### Rosatom
 ### [Rosatom, Russia's nuclear energy corporation announces that it will start loading fuel for the Bushehr Nuclear Power Plant Iran's first nuclear power plant from August 21. ](/news/2010/08/13/rosatom-russia-s-nuclear-energy-corporation-announces-that-it-will-start-loading-fuel-for-the-bushehr-nuclear-power-plant-iran-s-first-nucl.md)
@@ -77,7 +77,7 @@ Iran is set to acquire its first civilian nuclear power plant following Russiaâ€
 
 ##### South Africa
 ### [Four bodies are discovered in an abandoned South African gold mine owned by relatives of Nelson Mandela and Jacob Zuma following a shooting. ](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.md)
-_Context: Jacob Zuma, South Africa, Nelson Mandela_
+_Context: South Africa, Nelson Mandela, Jacob Zuma_
 
 ##### Elias Abuelazam
 ### [Elias Abuelazam, an Arab Israeli arrested in the United States in connection with almost 20 stabbings across three U.S. states, agrees to face charges relating to one of the attacks. ](/news/2010/08/13/elias-abuelazam-an-arab-israeli-arrested-in-the-united-states-in-connection-with-almost-20-stabbings-across-three-u-s-states-agrees-to-fa.md)
@@ -85,7 +85,7 @@ A man arrested in connection with a series of nearly 20 stabbings agrees to retu
 
 ##### Malaysia
 ### [A Malaysian court sentences two men to five years imprisonment after firebombing a church in a row over the use of the word "Allah" by non-Muslims. ](/news/2010/08/13/a-malaysian-court-sentences-two-men-to-five-years-imprisonment-after-firebombing-a-church-in-a-row-over-the-use-of-the-word-allah-by-non-m.md)
-_Context: Malaysia, Muslim, Allah_
+_Context: Malaysia, Allah, Muslim_
 
 ##### Sri Lanka
 ### [Sri Lanka convicts ex-army chief Sarath Fonseka on charges of engaging in politics while on active service. ](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.md)
@@ -97,11 +97,11 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 
 ##### Erastus Akingbola
 ### [Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. ](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.md)
-_Context: Erastus Akingbola, Nigeria, Intercontinental Bank, Lagos_
+_Context: Nigeria, Erastus Akingbola, Lagos, Intercontinental Bank_
 
 ##### Cook Islands
 ### [Cook Islands Prime Minister Jim Marurai sets the date for the upcoming 2010 general election for November 17th. ](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.md)
-_Context: Cook Islands, Prime Minister, general election, Jim Marurai_
+_Context: Cook Islands, Jim Marurai, Prime Minister, general election_
 
 ##### Burma
 ### [Burma announces plans to hold its first election in 20 years on November 7. ](/news/2010/08/13/burma-announces-plans-to-hold-its-first-election-in-20-years-on-november-7.md)

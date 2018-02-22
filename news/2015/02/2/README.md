@@ -9,11 +9,11 @@ COTABATO, Philippines (AFP) - A bloodbath in the southern Philippines has placed
 
 ##### War in Donbass
 ### [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md)
-_Context: Ukrainian Army, Donetsk, War in Donbass_
+_Context: War in Donbass, Ukrainian Army, Donetsk_
 
 ##### Lesotho Defence Force
 ### [A shootout between Lesotho Defence Force soldiers and two former bodyguards of Prime Minister Tom Thabane leaves at least one bystander killed and three others wounded. ](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.md)
-_Context: Lesotho Defence Force, Prime Minister of Lesotho, Tom Thabane_
+_Context: Tom Thabane, Prime Minister of Lesotho, Lesotho Defence Force_
 
 ##### Islamist insurgency in Nigeria
 ### [A female suicide bomber attacks minutes after the President of Nigeria leaves an election rally in the city of Gombe resulting in at least one death and eighteen people injured. ](/news/2015/02/2/a-female-suicide-bomber-attacks-minutes-after-the-president-of-nigeria-leaves-an-election-rally-in-the-city-of-gombe-resulting-in-at-least-o.md)
@@ -29,11 +29,11 @@ It&#039;s up and running again with a few modifications, though some &#034;staff
 
 ##### 2014-15 North American winter
 ### [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md)
-_Context: midwestern, 2014-15 North American winter_
+_Context: 2014-15 North American winter, midwestern_
 
 ##### Gaza-Israel conflict
 ### [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md)
-_Context: Palestine Liberation Organisation, William Schabas, Gaza Strip, Israel, Gaza-Israel conflict, Canadian, United Nations_
+_Context: Israel, Canadian, Gaza-Israel conflict, United Nations, Palestine Liberation Organisation, William Schabas, Gaza Strip_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md)
@@ -41,11 +41,11 @@ The trial of former IMF chief Dominique Strauss-Kahn on charges of procuring wom
 
 ##### Tupelo, Mississippi
 ### [Police in Tupelo, Mississippi, US arrest Thomas Jesse Lee for killing his wife and four other members of his family in LaGrange, Georgia. ](/news/2015/02/2/police-in-tupelo-mississippi-us-arrest-thomas-jesse-lee-for-killing-his-wife-and-four-other-members-of-his-family-in-lagrange-georgia.md)
-_Context: LaGrange, Georgia, Tupelo, Mississippi_
+_Context: Tupelo, Mississippi, LaGrange, Georgia_
 
 ##### Iran
 ### [Iran successfully puts the Fajr satellite in orbit using a Safir-B1 rocket. ](/news/2015/02/2/iran-successfully-puts-the-fajr-satellite-in-orbit-using-a-safir-b1-rocket.md)
-_Context: Iran, Fajr, Safir-B1_
+_Context: Safir-B1, Fajr, Iran_
 
 ## [Previous Day...](/news/2015/02/1/index.md)
 

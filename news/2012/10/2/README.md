@@ -31,13 +31,13 @@ Seven crew members are arrested on suspicion of endangering lives at sea after t
 ### [A U.S. Border Patrol agent is shot dead near the U.S.-Mexico border in the state of Arizona. A second agent was shot and is being treated for non-life threatening injuries. ](/news/2012/10/2/a-u-s-border-patrol-agent-is-shot-dead-near-the-u-s-mexico-border-in-the-state-of-arizona-a-second-agent-was-shot-and-is-being-treated-fo.md)
 _Context: U.S. Border Patrol, Arizona_
 
-##### France
+##### French
 ### [Several sources claim that a French spy killed Muammar Gaddafi in 2011; the motive to try to conceal Ghadaffi's financial support of Nicolas Sarkozy's 2007 presidential election campaign. A French source dismisses the story as "nonsense". ](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.md)
 A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;water&#x20;on&#x20;allegations&#x20;that&#x20;a&#x20;French&#x20;agent&#x20;killed&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;after&#x20;making&#x20;a&#x20;deal&#x20;with&#x20;Syria&#x20;to&#x20;save&#x20;the...
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: OSCE, Georgian Dream, parliamentary election, President of Georgia, Prime Minister of Georgia, United National Movement, Bidzina Ivanishvili, Mikheil Saakashvili_
+_Context: Georgian Dream, United National Movement, OSCE, parliamentary election, Mikheil Saakashvili, Prime Minister of Georgia, Bidzina Ivanishvili, President of Georgia_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

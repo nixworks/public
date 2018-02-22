@@ -9,7 +9,7 @@ Security forces said to be pushing towards northern town of Maarat al-Numaan as 
 
 ##### Time
 ### ["Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency-at-iraq-s-a.md)
-_Context: Time, Abu Ghraib, torture, Grand Jury, war crime, Iraq, CIA_
+_Context: torture, Iraq, CIA, Grand Jury, Time, Abu Ghraib, war crime_
 
 ##### National Transitional Council
 ### [Canada recognises the rebel National Transitional Council of Libya as the country's legitimate government with the Canadian House of Commons voting to extend its mission in Libya by three and a half months. ](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.md)
@@ -17,19 +17,19 @@ _Context: Libya, Canadian House of Commons, National Transitional Council_
 
 ##### Pakistan
 ### [Pakistan's Directorate for Inter-Services Intelligence has arrested Central Intelligence Agency informants who contributed to the raid on Osama bin Laden. ](/news/2011/06/14/pakistan-s-directorate-for-inter-services-intelligence-has-arrested-central-intelligence-agency-informants-who-contributed-to-the-raid-on-os.md)
-_Context: Directorate for Inter-Services Intelligence, Osama bin Laden, father's killing, CIA, Pakistan_
+_Context: CIA, father's killing, Pakistan, Osama bin Laden, Directorate for Inter-Services Intelligence_
 
 ##### Che Guevara
 ### [A new diary by Che Guevara of his time fighting in the Cuban Revolution between 1956 and 1958 is published. ](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.md)
-_Context: Che Guevara, Cuban Revolution_
+_Context: Cuban Revolution, Che Guevara_
 
 ##### Gaza Strip
 ### [Gaza's unemployment rate was among the world's highest, at 45.2% in late 2010 according to the UN. ](/news/2011/06/14/gaza-s-unemployment-rate-was-among-the-world-s-highest-at-45-2-in-late-2010-according-to-the-un.md)
-_Context: unemployment rate, UN, Gaza Strip_
+_Context: UN, unemployment rate, Gaza Strip_
 
 ##### Air Canada
 ### [Air Canada services face disruption as customer service agents affiliated with the Canadian Auto Workers start a strike. ](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.md)
-_Context: Air Canada, Canadian Auto Workers_
+_Context: Canadian Auto Workers, Air Canada_
 
 ##### Nabro Volcano
 ### [Airspace restrictions are in place in East Africa after the Nabro Volcano erupts in Eritrea. ](/news/2011/06/14/airspace-restrictions-are-in-place-in-east-africa-after-the-nabro-volcano-erupts-in-eritrea.md)
@@ -41,7 +41,7 @@ Prime Minister John Key has announced there will not be a state of emergency dec
 
 ##### Nairobi
 ### [At least two people die as a building collapses in Nairobi, Kenya. ](/news/2011/06/14/at-least-two-people-die-as-a-building-collapses-in-nairobi-kenya.md)
-_Context: Nairobi, Kenya_
+_Context: Kenya, Nairobi_
 
 ##### E. coli blamed for 46 deaths
 ### [The first child dies during the 2011 E. coli O104:H4 outbreak in Germany with a total of 36 deaths in Germany and one in Sweden. ](/news/2011/06/14/the-first-child-dies-during-the-2011-e-coli-o104-h4-outbreak-in-germany-with-a-total-of-36-deaths-in-germany-and-one-in-sweden.md)
@@ -73,7 +73,7 @@ David Cameron agrees to major changes to plans for the NHS in England, but insis
 
 ##### National Union of Teachers
 ### [Members of the United Kingdom's two main teaching unions, the National Union of Teachers and the Association of Teachers and Lecturers have voted to take industrial action over changes to their pensions. They are first expected to walk out on 30 June. Other public sector workers may join them on that day. ](/news/2011/06/14/members-of-the-united-kingdom-s-two-main-teaching-unions-the-national-union-of-teachers-and-the-association-of-teachers-and-lecturers-have.md)
-_Context: public sector, National Union of Teachers, Association of Teachers and Lecturers_
+_Context: National Union of Teachers, public sector, Association of Teachers and Lecturers_
 
 ## [Previous Day...](/news/2011/06/13/index.md)
 

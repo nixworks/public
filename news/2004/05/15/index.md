@@ -21,7 +21,7 @@ _Context: Smarty Jones, Preakness_
 
 ##### Arsenal
 ### [ Arsenal defeat Leicester City 2-1 in the Premier League to become the first team to go unbeaten in the top tier English league since Preston North End in the 1888-1889 season, going 26W-12D-0L. ](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.md)
-_Context: Arsenal, English Premier League, Leicester City, 26W-12D-0L_
+_Context: 26W-12D-0L, Leicester City, Arsenal, English Premier League_
 
 ## [Previous Day...](/news/2004/05/14/index.md)
 

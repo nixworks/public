@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/17/index.html)  [JSON](2007/02/17/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Presidential contender and U. S. Senator Hillary Clinton (D-NY) has called for a 90-day deadline to start withdrawing U.S. troops from Iraq. She states in a video on her website: "If George Bush doesn't end the war before he leaves office, when I'm president, I will." ](/news/2007/02/17/united-states-presidential-election-2008-presidential-contender-and-u-s-senator-hillary-clinton-d-ny-has-called-for-a-90-day-deadline.md)
-_Context: 2008, United States Senate, U.S. troops, U.S. President, Democrat, George W. Bush, New York, Hillary Clinton, Iraq War_
+_Context: 2008, U.S. troops, Iraq War, U.S. President, United States Senate, George W. Bush, New York, Democrat, Hillary Clinton_
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Condoleezza Rice visits Iraq for talks. ](/news/2007/02/17/united-states-secretary-of-state-condoleezza-rice-visits-iraq-for-talks.md)
@@ -17,7 +17,7 @@ At least 13 people, including a senior judge were killed in a suspected suicide 
 
 ##### Italy
 ### [ Italians demonstrate against the expansion of a United States Army base in Vicenza, home of the 173rd Airborne Brigade. ](/news/2007/02/17/italians-demonstrate-against-the-expansion-of-a-united-states-army-base-in-vicenza-home-of-the-173rd-airborne-brigade.md)
-_Context: Italy, 173rd Airborne Brigade, protest, United States soldier, Vicenza_
+_Context: Vicenza, 173rd Airborne Brigade, United States soldier, protest, Italy_
 
 ## [Previous Day...](/news/2007/02/16/index.md)
 

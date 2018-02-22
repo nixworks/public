@@ -13,7 +13,7 @@ The explosions occurred as representatives of Syria&#x27;s government and its di
 
 ##### Yemeni Civil War (2015-present)
 ### [Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman-aden-governorate-after-being-abduc.md)
-_Context: ISIL, Yemeni Civil War (2015-present), Aden Governorate, Sheikh Othman, al-Qaeda, Yemen, salafist_
+_Context: ISIL, Yemen, al-Qaeda, Sheikh Othman, salafist, Aden Governorate, Yemeni Civil War (2015-present)_
 
 ##### 2015-16 Australian region cyclone season
 ### [Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md)

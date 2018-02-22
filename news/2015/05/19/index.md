@@ -25,11 +25,11 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 
 ##### 2015 Colombian landslide
 ### [The death toll from landslides in the Colombian town of Salgar rises to 56 with scores missing. ](/news/2015/05/19/the-death-toll-from-landslides-in-the-colombian-town-of-salgar-rises-to-56-with-scores-missing.md)
-_Context: 2015 Colombian landslide, Salgar, Colombia_
+_Context: Salgar, 2015 Colombian landslide, Colombia_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
-_Context: Germanwings Flight 9525, France, French-born_
+_Context: French-born, Germanwings Flight 9525, French_
 
 ##### Baku
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: Pierre Nkurunziza, 2015 Burundian unrest, failed coup, Burundian presidential election, 2015, Presidents_
+_Context: Pierre Nkurunziza, failed coup, 2015 Burundian unrest, Presidents, Burundian presidential election, 2015_
 
 ##### Congress
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

@@ -49,7 +49,7 @@ In a move likely to further increase already volatile tensions in the South Chin
 
 ##### U.S. President
 ### [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md)
-_Context: Cuba, Guantanamo Bay detention camp, U.S. President, Barack Obama_
+_Context: U.S. President, Guantanamo Bay detention camp, Barack Obama, Cuba_
 
 ##### 2016 U.S. election
 ### [Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winning-marco-rubio-coming-second-and-ted-cruz.md)

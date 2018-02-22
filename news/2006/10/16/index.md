@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/16/index.html)  [JSON](2006/10/16/index.json)  [XML](200
 
 ##### After 48 rounds of voting
 ### [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md)
-_Context: Belgium, Venezuela, Latin America and the Caribbean, United Nations, Italy, Guatemala, After 48 rounds of voting, South Africa, Security Council, General Assembly, Indonesia_
+_Context: General Assembly, Indonesia, Italy, Venezuela, After 48 rounds of voting, Guatemala, Belgium, Security Council, Latin America and the Caribbean, South Africa, United Nations_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan condemns movement by Eritrea of 1,500 troops and 14 tanks into the UNMEE-monitored Temporary Security Zone with Ethiopia as a "major breach" of the ceasefire agreement that ended the Eritrean-Ethiopian War. ](/news/2006/10/16/united-nations-secretary-general-kofi-annan-condemns-movement-by-eritrea-of-1-500-troops-and-14-tanks-into-the-unmee-monitored-temporary-se.md)
@@ -17,7 +17,7 @@ The United States confirmed Monday that North Korea did conduct a nuclear test o
 
 ##### Sudan
 ### [ The government of Sudan and the Eastern Front rebels sign a peace treaty in Asmara, Eritrea. ](/news/2006/10/16/the-government-of-sudan-and-the-eastern-front-rebels-sign-a-peace-treaty-in-asmara-eritrea.md)
-_Context: Asmara, Eastern Front, Sudan, Eritrea, peace treaty_
+_Context: Asmara, Sudan, peace treaty, Eritrea, Eastern Front_
 
 ##### Industrial and Commercial Bank of China
 ### [ The Industrial and Commercial Bank of China starts its dual initial public offering (IPO) in Hong Kong Stock Exchange and Shanghai Stock Exchange, in what would be the world's largest ever IPO. ](/news/2006/10/16/the-industrial-and-commercial-bank-of-china-starts-its-dual-initial-public-offering-ipo-in-hong-kong-stock-exchange-and-shanghai-stock-ex.md)
@@ -41,7 +41,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Uzbek President
 ### [ Uzbek President Islam Karimov fires Saidullo Begaliev, Governor of Andijan, for "short-sighted policies" and "lack of attention to the people's needs" that led to the Andijan massacre in 2005. Karimov appoints Ahmad Usmonov as Begaliev's replacement. ](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.md)
-_Context: Andijan, Islam Karimov, Andijan massacre, Uzbek President_
+_Context: Andijan massacre, Islam Karimov, Uzbek President, Andijan_
 
 ## [Previous Day...](/news/2006/10/15/index.md)
 

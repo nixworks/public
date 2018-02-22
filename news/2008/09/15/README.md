@@ -5,11 +5,11 @@ Formats: [HTML](2008/09/15/index.html)  [JSON](2008/09/15/index.json)  [XML](200
 
 ##### Samoa
 ### [ The government of Samoa recognizes the independence of Kosovo. ](/news/2008/09/15/the-government-of-samoa-recognizes-the-independence-of-kosovo.md)
-_Context: Samoa, officially recognizes, Kosovo_
+_Context: officially recognizes, Samoa, Kosovo_
 
 ##### Morelia Bomb Attacks
 ### [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at "El Grito" Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations-in.md)
-_Context: El Grito, Michoacan, Morelia, main square, terrorist attack, Independence Day, Morelia Bomb Attacks_
+_Context: Independence Day, Morelia Bomb Attacks, Morelia, terrorist attack, main square, El Grito, Michoacan_
 
 ##### Hewlett-Packard
 ### [ Hewlett-Packard announces plans to cut 24,600 jobs. ](/news/2008/09/15/hewlett-packard-announces-plans-to-cut-24-600-jobs.md)
@@ -25,7 +25,7 @@ _Context: Pink Floyd, cancer, Richard Wright_
 
 ##### Stampede
 ### [ At least 11 spectators die in a stampede at a club football match in Butembo, Democratic Republic of the Congo, following a riot incited when a goalkeeper used an animist spell in an attempt to rally his team. ](/news/2008/09/15/at-least-11-spectators-die-in-a-stampede-at-a-club-football-match-in-butembo-democratic-republic-of-the-congo-following-a-riot-incited-wh.md)
-_Context: stampede, animist, DR Congo, association football, Butembo, goalkeeper_
+_Context: animist, stampede, DR Congo, Butembo, goalkeeper, association football_
 
 ##### Coach
 ### [ Twelve tourists are killed and 37 injured when a coach collides with a delivery truck outside of Ras Sidr in Egypt. Reports suggest 7 of the 12 dead are foreign nationals. ](/news/2008/09/15/twelve-tourists-are-killed-and-37-injured-when-a-coach-collides-with-a-delivery-truck-outside-of-ras-sidr-in-egypt-reports-suggest-7-of-th.md)
@@ -37,7 +37,7 @@ Zimbabwe&#039;s President Robert Mugabe and the opposition leader Morgan Tsvangi
 
 ##### Nigerian Oil Crisis
 ### [ Nigerian Oil Crisis: Nigeria's main rebel group claim to have destroyed an oil installation owned by Shell in the Rivers State region in the south of the country. ](/news/2008/09/15/nigerian-oil-crisis-nigeria-s-main-rebel-group-claim-to-have-destroyed-an-oil-installation-owned-by-shell-in-the-rivers-state-region-in-th.md)
-_Context: Royal Dutch Shell, Nigeria, Rivers State, Nigerian Oil Crisis_
+_Context: Nigeria, Royal Dutch Shell, Nigerian Oil Crisis, Rivers State_
 
 ##### Indonesia
 ### [ A stampede in the Indonesian town of Pasuruan leaves 21 people dead, most of whom are thought to be women. ](/news/2008/09/15/a-stampede-in-the-indonesian-town-of-pasuruan-leaves-21-people-dead-most-of-whom-are-thought-to-be-women.md)
@@ -49,7 +49,7 @@ _Context: Roll-on/roll-off, Bandirma, Turkey_
 
 ##### Lehman Brothers
 ### [Lehman Brothers files for Chapter 11 bankruptcy resulting from the subprime mortgage crisis. ](/news/2008/09/15/lehman-brothers-files-for-chapter-11-bankruptcy-resulting-from-the-subprime-mortgage-crisis.md)
-_Context: files, Chapter 11, Lehman Brothers, bankruptcy_
+_Context: bankruptcy, Lehman Brothers, files, Chapter 11_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average falls by over 500 points as the New York Stock Exchange responds to events over the weekend. ](/news/2008/09/15/the-dow-jones-industrial-average-falls-by-over-500-points-as-the-new-york-stock-exchange-responds-to-events-over-the-weekend.md)
@@ -71,7 +71,7 @@ _Context: U.S. President, George W. Bush_
 
 ##### Ozone hole
 ### [ NASA scientists report that the ozone hole over the Antarctic has reached its largest expanse, 27 million square kilometers, vs 26 million square kilometers in 2006. ](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.md)
-_Context: Antarctic, ozone hole_
+_Context: ozone hole, Antarctic_
 
 ## [Previous Day...](/news/2008/09/14/index.md)
 

@@ -17,7 +17,7 @@ US actor Jack Klugman, who starred in the 1970s hit TV series The Odd Couple and
 
 ##### Americans
 ### [American actor Charles Durning, the two-time Oscar award nominee, dies at the age 89 in New York City. ](/news/2012/12/24/american-actor-charles-durning-the-two-time-oscar-award-nominee-dies-at-the-age-89-in-new-york-city.md)
-_Context: Oscar award, New York City, Americans, Charles Durning_
+_Context: Oscar award, Americans, Charles Durning, New York City_
 
 ##### Rain
 ### [A band of rain sweeping the United Kingdom brings fresh flooding and disrupted rail services to south-west England and Scotland. ](/news/2012/12/24/a-band-of-rain-sweeping-the-united-kingdom-brings-fresh-flooding-and-disrupted-rail-services-to-south-west-england-and-scotland.md)
@@ -37,7 +37,7 @@ A gunman shot dead two volunteerfirefighters and injured two others when he ambu
 
 ##### Steve Jobs
 ### [Steve Jobs' GBP85m high-tech yacht "Venus" is freed from the Port of Amsterdam after his estate paid off the last of its bills. ](/news/2012/12/24/steve-jobs-agbp85m-high-tech-yacht-venus-is-freed-from-the-port-of-amsterdam-after-his-estate-paid-off-the-last-of-its-bills.md)
-_Context: Steve Jobs, Venus, Port of Amsterdam, high-tech, yacht_
+_Context: Steve Jobs, Venus, high-tech, Port of Amsterdam, yacht_
 
 ##### SpaceX
 ### [SpaceX releases video of the latest test of their Grasshopper rocket with vertical takeoff and vertical landing, where it rose 40 meters (131 feet), hovered and landed safely on the pad on 17 December. ](/news/2012/12/24/spacex-releases-video-of-the-latest-test-of-their-grasshopper-rocket-with-vertical-takeoff-and-vertical-landing-where-it-rose-40-meters-13.md)

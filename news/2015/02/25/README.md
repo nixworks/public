@@ -13,7 +13,7 @@ Afghan rescuers are searching for dozens of people believed to be trapped under 
 
 ##### Atlanta
 ### [The Atlanta-based U.S. Centers for Disease Control and Prevention (CDC), were so concerned about a study released today in "The New England Journal of Medicine", that they are launching another new study about why so many people are becoming infected by or exposed to the potentially deadly "Clostridium difficile" (""C. diff."") bacterium after going to the doctor's or dentist's office. ](/news/2015/02/25/the-atlanta-based-u-s-centers-for-disease-control-and-prevention-cdc-were-so-concerned-about-a-study-released-today-in-the-new-england.md)
-_Context: Centers for Disease Control and Prevention, The New England Journal of Medicine, potentially deadly, Clostridium difficile, Atlanta_
+_Context: The New England Journal of Medicine, Atlanta, potentially deadly, Clostridium difficile, Centers for Disease Control and Prevention_
 
 ##### Khaleda Zia
 ### [An arrest warrant is issued for Khaleda Zia, former Prime Minister of Bangladesh, after she fails to show up to face graft charges. ](/news/2015/02/25/an-arrest-warrant-is-issued-for-khaleda-zia-former-prime-minister-of-bangladesh-after-she-fails-to-show-up-to-face-graft-charges.md)
@@ -33,11 +33,11 @@ Parliament in Austria passes a controversial new bill that reforms a century-old
 
 ##### United States
 ### [A United States district court judge orders documents turned over to hedge fund NML Capital with regard to the flow of funds in a February 9 issuance of Argentina dollar denominated sovereign bonds. ](/news/2015/02/25/a-united-states-district-court-judge-orders-documents-turned-over-to-hedge-fund-nml-capital-with-regard-to-the-flow-of-funds-in-a-february-9.md)
-_Context: sovereign bonds, United States, hedge fund, U.S. District Judge, judge, Argentina, NML Capital_
+_Context: Argentina, sovereign bonds, NML Capital, U.S. District Judge, United States, judge, hedge fund_
 
 ##### National Congress
 ### [The Argentine National Congress approves installation of a Chinese satellite tracking station in Patagonia. ](/news/2015/02/25/the-argentine-national-congress-approves-installation-of-a-chinese-satellite-tracking-station-in-patagonia.md)
-_Context: National Congress, Patagonia_
+_Context: Patagonia, National Congress_
 
 ##### Faure Gnassingb
 ### [Faure Gnassingb, the President of Togo, announces his candidacy for the forthcoming election in April. ](/news/2015/02/25/faure-gnassingbe-the-president-of-togo-announces-his-candidacy-for-the-forthcoming-election-in-april.md)

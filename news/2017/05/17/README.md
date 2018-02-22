@@ -17,7 +17,7 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 
 ##### Ukraine-European Union relations
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
-_Context: Ukraine, European Union, European Parliament, European Council, Ukraine-European Union relations_
+_Context: European Union, European Parliament, Ukraine-European Union relations, European Council, Ukraine_
 
 ##### Chinese aircraft
 ### [Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. ](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-aircraft-over-the-east-china-sea.md)

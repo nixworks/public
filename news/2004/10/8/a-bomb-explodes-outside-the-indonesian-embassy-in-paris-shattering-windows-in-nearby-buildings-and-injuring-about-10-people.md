@@ -16,7 +16,7 @@ Formats: [HTML](/news/2004/10/8/a-bomb-explodes-outside-the-indonesian-embassy-i
 
 ### Related:
 
-1. [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7&nbsp;km (4&nbsp;mi) high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-nbsp-km-4-nbsp-mi-hi.md) _Context: Indonesia_
+1. [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7 km high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-km-high-much-of-the-s.md) _Context: Indonesia_
 2. [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md) _Context: Paris_
 3. [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md) _Context: Indonesia_
 4. [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md) _Context: Indonesia_

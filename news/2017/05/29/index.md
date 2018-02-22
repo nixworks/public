@@ -5,19 +5,19 @@ Formats: [HTML](2017/05/29/index.html)  [JSON](2017/05/29/index.json)  [XML](201
 
 ##### Marawi crisis
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
-_Context: Philippine, Marawi, Maute group, Marawi crisis_
+_Context: Philippine, Marawi crisis, Maute group, Marawi_
 
 ##### Syrian Civil War
 ### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
-_Context: Damascus, Syrian Civil War, Barzeh_
+_Context: Syrian Civil War, Damascus, Barzeh_
 
 ##### Iraqi Civil War
 ### [Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md)
-_Context: Ba'aj, Iran, Iraqi Civil War, Syria, Shi'ite volunteers, ISIL_
+_Context: Shi'ite volunteers, Iraqi Civil War, Iran, ISIL, Syria, Ba'aj_
 
 ##### Canadian Prime Minister
 ### [Canadian Prime Minister Justin Trudeau asks Pope Francis for a public apology for the Roman Catholic Church's role in the abuse of indigenous children in the residential school system. In 2009, Pope Benedict XVI issued an expression of sorrow after an audience with Assembly of First Nations Chief Phil Fontaine. ](/news/2017/05/29/canadian-prime-minister-justin-trudeau-asks-pope-francis-for-a-public-apology-for-the-roman-catholic-church-s-role-in-the-abuse-of-indigenou.md)
-_Context: residential school system, Justin Trudeau, Canadian Prime Minister, Chief Phil Fontaine, indigenous children, Pope Benedict XVI, Assembly of First Nations, Pope Francis_
+_Context: Pope Benedict XVI, residential school system, indigenous children, Pope Francis, Canadian Prime Minister, Assembly of First Nations, Justin Trudeau, Chief Phil Fontaine_
 
 ##### Japan Tobacco
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)
@@ -25,7 +25,7 @@ Japan Tobacco Inc plans to spend $500 million to quadruple its smokeless tobacco
 
 ##### Zookeeper
 ### [A zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md)
-_Context: Cambridgeshire, Hamerton Zoo Park, zookeeper, tiger_
+_Context: zookeeper, Hamerton Zoo Park, Cambridgeshire, tiger_
 
 ##### Moscow
 ### [At least 11 people are killed and 69 are injured as a severe thunderstorm hits Moscow, Russia. ](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.md)

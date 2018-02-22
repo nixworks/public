@@ -7,13 +7,13 @@ Formats: [HTML](2005/05/29/index.html)  [JSON](2005/05/29/index.json)  [XML](200
 ### [ A London newspaper reports that Merrill Lynch, New York, is trying to persuade at least seventeen members of the corporate derivatives team of rival investment bank JP Morgan to defect. An anonymous source-headhunter quoted in the newspaper predicted that the seventeen will be working at Merrill Lynch by the end of the summer. ](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### France
+##### French
 ### [ The French electorate reject the Treaty establishing a Constitution for Europe by approximately 55% to 45%, igniting a political crisis in the union and dealing a sharp blow to French President Jacques Chirac. All 25 EU member states must ratify the treaty for it to come into effect - 9 have done so to date, but only Spain has previously held a referendum. ](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.md)
 French voters rejected a proposed European Union constitution Sunday, igniting a political crisis in the alliance and dealing a sharp blow to French President Jacques Chirac.With nearly all ballots...
 
 ##### Dan Wheldon
 ### [ Dan Wheldon won the 89th running of the Indianapolis 500, beating rookie Danica Patrick, who led the race three times and came in an impressive fourth place ](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.md)
-_Context: Dan Wheldon, Indianapolis 500, Danica Patrick_
+_Context: Dan Wheldon, Danica Patrick, Indianapolis 500_
 
 ##### Brazil
 ### [ In Brazil, huge Gay Pride parade begins in So Paulo. ](/news/2005/05/29/in-brazil-huge-gay-pride-parade-begins-in-sao-paulo.md)

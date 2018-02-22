@@ -29,15 +29,15 @@ Malcolm Naden said he wanted a life sentence, and now the notorious double murde
 
 ##### Won Sei-hoon
 ### [Won Sei-hoon, former head of South Korea's National Intelligence Service is indicted on charges of interfering in last year's presidential election. ](/news/2013/06/14/won-sei-hoon-former-head-of-south-korea-s-national-intelligence-service-is-indicted-on-charges-of-interfering-in-last-year-s-presidential-e.md)
-_Context: presidential election, South Korea, indicted, Won Sei-hoon, South Korea's intelligence agency_
+_Context: Won Sei-hoon, presidential election, South Korea's intelligence agency, indicted, South Korea_
 
 ##### Nashville
 ### [Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer, who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. ](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.md)
-_Context: Tennessee, Nashville_
+_Context: Nashville, Tennessee_
 
 ##### U.S. Army
 ### [U.S. Army Judge Colonel Tara Osborn rules that the Fort Hood Massacre gunman Nidal Malik Hassan cannot claim as a part of his defense that he was defending the Taliban. ](/news/2013/06/14/u-s-army-judge-colonel-tara-osborn-rules-that-the-fort-hood-massacre-gunman-nidal-malik-hassan-cannot-claim-as-a-part-of-his-defense-that-h.md)
-_Context: U.S. Army, Nidal Malik Hassan, Colonel_
+_Context: Colonel, Nidal Malik Hassan, U.S. Army_
 
 ##### Newtown, Connecticut
 ### [Six months after the crime which killed 20 children and six adult staff, the Newtown, Connecticut Sandy Hook massacre's victims' families gathered in remembrance of the tragedy. ](/news/2013/06/14/six-months-after-the-crime-which-killed-20-children-and-six-adult-staff-the-newtown-connecticut-sandy-hook-massacre-s-victims-families-ga.md)
@@ -45,7 +45,7 @@ _Context: Newtown, Connecticut, Sandy Hook massacre_
 
 ##### Charla Nash
 ### [Charla Nash, 59, of Stamford, Connecticut, is told she cannot sue the state and its Dept. of Energy for $150 million, after being blinded for life and receiving a full face transplant after receiving a brutal mauling by Travis, an escaped chimpanzee. ](/news/2013/06/14/charla-nash-59-of-stamford-connecticut-is-told-she-cannot-sue-the-state-and-its-dept-of-energy-for-150-million-after-being-blinded-fo.md)
-_Context: Travis, Stamford, Connecticut, Charla Nash_
+_Context: Charla Nash, Stamford, Connecticut, Travis_
 
 ##### Iran
 ### [Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)

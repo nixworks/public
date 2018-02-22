@@ -13,7 +13,7 @@ Two bombs near a Catholic church and a market in Baghdad kill at least 35 people
 
 ##### Pope Francis
 ### [Pope Francis gives his first "Urbi et Orbi" speech calling for peace amidst the Syrian civil war and the 2013 South Sudan political crisis. ](/news/2013/12/25/pope-francis-gives-his-first-urbi-et-orbi-speech-calling-for-peace-amidst-the-syrian-civil-war-and-the-2013-south-sudan-political-crisis.md)
-_Context: Pope Francis, Urbi et Orbi, Syrian civil war, 2013 South Sudan political crisis_
+_Context: 2013 South Sudan political crisis, Pope Francis, Syrian civil war, Urbi et Orbi_
 
 ##### Haiti
 ### [Eighteen Haitian migrants drown off the Turks and Caicos Islands after their sailboat carrying more than 50 suspected immigrants capsized while being towed into port. ](/news/2013/12/25/eighteen-haitian-migrants-drown-off-the-turks-and-caicos-islands-after-their-sailboat-carrying-more-than-50-suspected-immigrants-capsized-wh.md)

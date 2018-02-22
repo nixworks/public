@@ -9,7 +9,7 @@ Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents 
 
 ##### Drones launch
 ### [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md)
-_Context: North Waziristan, drones launch, Pakistan_
+_Context: drones launch, North Waziristan, Pakistan_
 
 ##### 6.2 magnitude earthquake
 ### [The death toll from a 6.2 magnitude earthquake in Indonesia's Aceh Province rises to 42, with more than 400 injured and thousands of buildings damaged. ](/news/2013/07/3/the-death-toll-from-a-6-2-magnitude-earthquake-in-indonesia-s-aceh-province-rises-to-42-with-more-than-400-injured-and-thousands-of-buildin.md)
@@ -21,11 +21,11 @@ Bolivia accuses European states of &quot;aggression&quot; after its presidential
 
 ##### Ecuador
 ### [Ecuador announces the discovery of a bugging device used to listen in on its embassy in the United Kingdom. Ecuador's foreign minister Ricardo Patio declares it as "another instance of a loss of ethics at the international level in relations between governments". ](/news/2013/07/3/ecuador-announces-the-discovery-of-a-bugging-device-used-to-listen-in-on-its-embassy-in-the-united-kingdom-ecuador-s-foreign-minister-ricar.md)
-_Context: United Kingdom, Ricardo Patio, Ecuador_
+_Context: Ecuador, United Kingdom, Ricardo Patio_
 
 ##### Albert II of Belgium
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
-_Context: Prince Philippe, Duke of Brabant, abdicate, Albert II of Belgium_
+_Context: abdicate, Albert II of Belgium, Prince Philippe, Duke of Brabant_
 
 ##### El Paraso
 ### [A 4,000-year-old pyramid at El Paraso in Peru is destroyed by property developers. ](/news/2013/07/3/a-4-000-year-old-pyramid-at-el-paraiso-in-peru-is-destroyed-by-property-developers.md)

@@ -9,15 +9,15 @@ _Context: U.S. Court of Appeals for the District of Columbia, broadcast flag, FC
 
 ##### Fatah
 ### [ Fatah wins 55 percent of the seats in municipal elections held in 84 cities across the West Bank and Gaza. Hamas wins about a third of the seats. Fatah won a majority of seats in Beit Lahiya, Hawara and Tulkarem, Hamas won the majority in Qalqiliya and El Boureij. Election participation was 70 percent in the West Bank and 80 percent in Gaza. ](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.md)
-_Context: Fatah, Beit Lahiya, Hawara, Tulkarem, West Bank, Gaza Strip, El Boureij, Qalqiliya, Hamas_
+_Context: Fatah, Tulkarem, Hawara, El Boureij, Qalqiliya, Hamas, Beit Lahiya, West Bank, Gaza Strip_
 
 ##### BST
 ### [ At 04:28 BST, The Labour Party wins a parliamentary majority. Despite a substantially reduced majority, Tony Blair becomes the first Labour Prime Minister to lead his party to three election victories. ](/news/2005/05/6/at-04-28-bst-the-labour-party-wins-a-parliamentary-majority-despite-a-substantially-reduced-majority-tony-blair-becomes-the-first-labour.md)
-_Context: Tony Blair, majority, BST, Labour Party, Prime Minister_
+_Context: BST, majority, Labour Party, Prime Minister, Tony Blair_
 
 ##### Suicide bomber
 ### [ A suicide bomber in a car blows himself up near a vegetable market in a southern Iraqi town, killing at least 22 people and wounding 45. ](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-a-vegetable-market-in-a-southern-iraqi-town-killing-at-least-22-people-and-wounding-45.md)
-_Context: suicide bomber, Iraq_
+_Context: Iraq, suicide bomber_
 
 ##### Israeli Defence Force
 ### [ A 20-year-old IDF soldier is arrested in Israel after telling military police that he considers himself a "Nazi", and hates Jews, blacks and the State of Israel. ](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.md)

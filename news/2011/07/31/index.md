@@ -13,11 +13,11 @@ At least 136 people reportedly killed in violence throughout the country, a day 
 
 ##### Moscow
 ### [At least seven people drown after a collision between a pleasure boat and a barge in central Moscow, Russia. ](/news/2011/07/31/at-least-seven-people-drown-after-a-collision-between-a-pleasure-boat-and-a-barge-in-central-moscow-russia.md)
-_Context: Russia, Moscow_
+_Context: Moscow, Russia_
 
 ##### Caribbean Airlines
 ### [No-one was killed when a Caribbean Airlines Boeing 737 plane crashed and split in two at the Cheddi Jagan International Airport, Guyana ](/news/2011/07/31/no-one-was-killed-when-a-caribbean-airlines-boeing-737-plane-crashed-and-split-in-two-at-the-cheddi-jagan-international-airport-guyana.md)
-_Context: Caribbean Airlines, Guyana_
+_Context: Guyana, Caribbean Airlines_
 
 ##### Mexico
 ### [Mexican Federal Police say suspected cartel leader Jos Antonio Acosta Hernndez, who was arrested on Friday, has confessed to ordering the murder of 1,500 people in the country's northern state of Chihuahua. ](/news/2011/07/31/mexican-federal-police-say-suspected-cartel-leader-jose-antonio-acosta-hernandez-who-was-arrested-on-friday-has-confessed-to-ordering-the.md)

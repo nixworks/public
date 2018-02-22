@@ -9,7 +9,7 @@ The rescue operation at an 11-storey building that collapsed in the Indian city 
 
 ##### Australians
 ### [Australian entertainer Rolf Harris is sentenced to 5 years and 9 months at Southwark Crown Court in London, United Kingdom, convicted on 12 charges of indecently assaulting female minors between 1968 and 1986. Harris will be eligible for release on licence after half of the sentence in 2017. ](/news/2014/07/4/australian-entertainer-rolf-harris-is-sentenced-to-5-years-and-9-months-at-southwark-crown-court-in-london-united-kingdom-convicted-on-12.md)
-_Context: London, indecent assault, Rolf Harris, Australians, Southwark Crown Court, United Kingdom_
+_Context: United Kingdom, Southwark Crown Court, London, Rolf Harris, indecent assault, Australians_
 
 ##### 
 ### [A Kindergarten teacher is stabbed and killed in front of students at the Edouard Herriot school in Albi in southern France. The suspect was the mother of a new student who suffered from psychiatric problems. ](/news/2014/07/4/a-kindergarten-teacher-is-stabbed-and-killed-in-front-of-students-at-the-edouard-herriot-school-in-albi-in-southern-france-the-suspect-was.md)
@@ -17,11 +17,11 @@ PARIS — The mother of a pupil at a French pre-school stabbed a teacher to deat
 
 ##### Bourbon Street
 ### [A 20-year-old man is arrested and charged with murder and attempted murder in connection with a June 28 shooting that occurred at Bourbon Street in New Orleans, Louisiana, U.S., which killed one person and wounded 8 others. ](/news/2014/07/4/a-20-year-old-man-is-arrested-and-charged-with-murder-and-attempted-murder-in-connection-with-a-june-28-shooting-that-occurred-at-bourbon-st.md)
-_Context: Bourbon Street, New Orleans, Louisiana_
+_Context: New Orleans, Louisiana, Bourbon Street_
 
 ##### Aminata Tour
 ### [Aminata Tour is dismissed as Prime Minister of Senegal by the country's parliament following her failure to win a seat from Dakar in the 2014 local elections. ](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.md)
-_Context: Prime Minister of Senegal, Aminata Tour, Dakar, 2014 local elections_
+_Context: Aminata Tour, Dakar, Prime Minister of Senegal, 2014 local elections_
 
 ##### National Congress of Bolivia
 ### [The National Congress of Bolivia backs a new law on child labour, allowing 10-year-olds into the workforce under special conditions. ](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.md)
@@ -29,7 +29,7 @@ _Context: National Congress of Bolivia, child labour_
 
 ##### United Nations
 ### [The United Nations announces in a policy statement that it will begin recognizing staff members' legal same-sex unions ](/news/2014/07/4/the-united-nations-announces-in-a-policy-statement-that-it-will-begin-recognizing-staff-members-legal-same-sex-unions.md)
-_Context: same-sex unions, United Nations_
+_Context: United Nations, same-sex unions_
 
 ## [Previous Day...](/news/2014/07/3/index.md)
 

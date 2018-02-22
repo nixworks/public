@@ -25,7 +25,7 @@ _Context: Detroit, Steven W. Rhodes, Mich._
 
 ##### Algeria
 ### [Voters in Algeria go to the polls for a presidential election with incumbent President Abdelaziz Bouteflika standing for a fourth term. ](/news/2014/04/17/voters-in-algeria-go-to-the-polls-for-a-presidential-election-with-incumbent-president-abdelaziz-bouteflika-standing-for-a-fourth-term.md)
-_Context: Algeria, Abdelaziz Bouteflika, President_
+_Context: Abdelaziz Bouteflika, Algeria, President_
 
 ##### India
 ### [Voters in twelve states of India go to the polls for the biggest day of voting during the election process. ](/news/2014/04/17/voters-in-twelve-states-of-india-go-to-the-polls-for-the-biggest-day-of-voting-during-the-election-process.md)

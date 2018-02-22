@@ -5,11 +5,11 @@ Formats: [HTML](2006/05/29/index.html)  [JSON](2006/05/29/index.json)  [XML](200
 
 #####  labor dispute
 ### [ A labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded. ](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.md)
-_Context:  labor dispute, TTC_
+_Context: TTC,  labor dispute_
 
 ##### Italian municipal elections
 ### [ In the Italian municipal elections, centre-left incumbent mayors Walter Veltroni, Sergio Chiamparino and Rosa Russo Iervolino lead in Rome, Turin and Naples, respectively. In the regional election of Sicily, incumbent president Salvatore Cuffaro of the House of Freedoms leads over Rita Borsellino. ](/news/2006/05/29/in-the-italian-municipal-elections-centre-left-incumbent-mayors-walter-veltroni-sergio-chiamparino-and-rosa-russo-iervolino-lead-in-rome.md)
-_Context: Turin, regional election of Sicily, Rita Borsellino, House of Freedoms, Italian municipal elections, Naples, Salvatore Cuffaro, Rosa Russo Iervolino, Walter Veltroni, Rome, Italy, Sergio Chiamparino_
+_Context: Salvatore Cuffaro, Walter Veltroni, House of Freedoms, Italian municipal elections, Naples, Turin, regional election of Sicily, Rosa Russo Iervolino, Rita Borsellino, Rome, Italy, Sergio Chiamparino_
 
 ##### Kabul
 ### [ In Kabul, Afghanistan, thousands demonstrate against the United States after several civilians were killed in a car accident in which 3 US humvees collided with a traffic jam. ](/news/2006/05/29/in-kabul-afghanistan-thousands-demonstrate-against-the-united-states-after-several-civilians-were-killed-in-a-car-accident-in-which-3-us.md)
@@ -21,7 +21,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Hezbollah
 ### [ The Lebanese-based Hezbollah group threatens Israel with Iranian-made rockets. ](/news/2006/05/29/the-lebanese-based-hezbollah-group-threatens-israel-with-iranian-made-rockets.md)
-_Context: Israel, Iran, Hezbollah_
+_Context: Hezbollah, Iran, Israel_
 
 ## [Previous Day...](/news/2006/05/28/index.md)
 

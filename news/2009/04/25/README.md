@@ -13,11 +13,11 @@ Authorities in Ethiopia say they have arrested 35 people suspected of plotting t
 
 ##### African National Congress
 ### [ The African National Congress loses its supermajority in South Africa's National Assembly. ](/news/2009/04/25/the-african-national-congress-loses-its-supermajority-in-south-africa-s-national-assembly.md)
-_Context: South Africa, loses, National Assembly, supermajority, African National Congress_
+_Context: South Africa, National Assembly, African National Congress, supermajority, loses_
 
 ##### North Korea
 ### [ North Korea begins to reprocess fuel rods at its Yongbyon Nuclear Scientific Research Center. ](/news/2009/04/25/north-korea-begins-to-reprocess-fuel-rods-at-its-yongbyon-nuclear-scientific-research-center.md)
-_Context: North Korea, reprocess, begins, fuel rods, Yongbyon Nuclear Scientific Research Center_
+_Context: begins, Yongbyon Nuclear Scientific Research Center, North Korea, reprocess, fuel rods_
 
 ##### Iceland
 ### [ Iceland's legislative election occurs. ](/news/2009/04/25/iceland-s-legislative-election-occurs.md)
@@ -25,11 +25,11 @@ Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she w
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Patriot" and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
-_Context: ship, Greece, MV, Somali pirates, German, Somalia, pirate_
+_Context: German, Greece, ship, Somalia, pirate, MV, Somali pirates_
 
 ##### University of Georgia
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
-_Context: Professor, University of Georgia, Georgia, George Zinkhan, United States, Athens_
+_Context: Georgia, George Zinkhan, United States, Professor, Athens, University of Georgia_
 
 ## [Previous Day...](/news/2009/04/24/index.md)
 

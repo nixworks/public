@@ -13,7 +13,7 @@ Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier 
 
 ##### Chinese
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: rare earth, Chinese_
+_Context: Chinese, rare earth_
 
 ##### Typhoon Haikui
 ### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
@@ -25,7 +25,7 @@ _Context: Yucatn Peninsula, Hurricane Ernesto_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
-_Context: New York City, One World Trade Center_
+_Context: One World Trade Center, New York City_
 
 ##### Orange County
 ### [A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.md)
@@ -53,7 +53,7 @@ The man sentenced to 25 years in jail for the murder of honeymooner Anni Dewani 
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, the shooter in the 2011 Tucson shooting, pleads guilty to all charges and is sentenced to life in prison without the possibility of parole. ](/news/2012/08/8/jared-lee-loughner-the-shooter-in-the-2011-tucson-shooting-pleads-guilty-to-all-charges-and-is-sentenced-to-life-in-prison-without-the-pos.md)
-_Context: Jared Lee Loughner, 2011 Tucson shooting_
+_Context: 2011 Tucson shooting, Jared Lee Loughner_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: Crimean Tatar language, minority language, regional, Ukrainian President, Russian language, Russian-speaking regions, Hungarian, Viktor Yanukovych_
+_Context: Hungarian, minority language, Crimean Tatar language, Ukrainian President, Russian language, Viktor Yanukovych, regional, Russian-speaking regions_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

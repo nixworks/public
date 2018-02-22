@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/24/index.html)  [JSON](2005/02/24/index.json)  [XML](200
 
 ##### Somalia
 ### [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md)
-_Context: government in exile, Abdullahi Yusuf Ahmed, Somalia, Mohammed Ali Ghedi, Kenya_
+_Context: Somalia, Abdullahi Yusuf Ahmed, Kenya, Mohammed Ali Ghedi, government in exile_
 
 ##### Anglican Church
 ### [ The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. ](/news/2005/02/24/the-anglican-churches-of-north-america-ndash-the-episcopal-church-in-the-united-states-and-the-anglican-church-of-canada-ndash-are-aske.md)
-_Context: New Hampshire, Lambeth Conference, Gene Robinson, Anglican Church of Canada, Anglican Consultative Council, United States Episcopal Church, schism, Anglican Church_
+_Context: Anglican Church, United States Episcopal Church, schism, Anglican Church of Canada, Anglican Consultative Council, New Hampshire, Lambeth Conference, Gene Robinson_
 
 ##### Taiwan
 ### [ In Taiwan, Chen Shui-bian and People First Party Chairman James Soong meet for the first time in four years. They issue a joint 10-point declaration emphasizing their agreement on preserving the "status quo" in cross strait relations. ](/news/2005/02/24/in-taiwan-chen-shui-bian-and-people-first-party-chairman-james-soong-meet-for-the-first-time-in-four-years-they-issue-a-joint-10-point-de.md)
-_Context: Taiwan Strait, relations, James Soong, People First Party, Taiwan, Chen Shui-bian_
+_Context: Taiwan, Taiwan Strait, People First Party, relations, Chen Shui-bian, James Soong_
 
 ##### China
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: Taiwan, Bill Clinton, President, Chen Shui-bian, China, Taiwan_
+_Context: President, Chen Shui-bian, Bill Clinton, China, Taiwan, Taiwan_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
@@ -45,7 +45,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Burma
 ### [ Foreign Minister of Burma-Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
-_Context: Shamsher M Chowdhury, Burma, Bangladesh, Nyan Win, Myanmar, refugee_
+_Context: refugee, Bangladesh, Myanmar, Nyan Win, Burma, Shamsher M Chowdhury_
 
 ##### Ebert Anibal Rivera
 ### [ Ebert Anibal Rivera, alleged head of a Mara Salvatrucha gang that killed 28 bus passengers in Honduras last December 23, is arrested in Texas. Honduras intends to request extradition if Texas authorities do not file charges. ](/news/2005/02/24/ebert-anibal-rivera-alleged-head-of-a-mara-salvatrucha-gang-that-killed-28-bus-passengers-in-honduras-last-december-23-is-arrested-in-tex.md)
@@ -61,11 +61,11 @@ _Context: European Union, lottery scam_
 
 ##### Turkey
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
-_Context: university, Turkey_
+_Context: Turkey, university_
 
 ##### Kyrgyzstan
 ### [ In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections ](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.md)
-_Context: Opposition, Kyrgyzstan_
+_Context: Kyrgyzstan, Opposition_
 
 ##### Herv Gaymard
 ### [ French Finance Minister Herv Gaymard faces increasing pressure to resign. He has been criticized due to the luxury apartment where he lives at the state's expense, although he has promised to move elsewhere. ](/news/2005/02/24/french-finance-minister-herve-gaymard-faces-increasing-pressure-to-resign-he-has-been-criticized-due-to-the-luxury-apartment-where-he-live.md)

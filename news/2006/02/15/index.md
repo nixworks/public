@@ -13,7 +13,7 @@ _Context: Roberto Calderoli, Francesco Trupiano_
 
 ##### Bali Nine
 ### [ The final three defendants in the Bali Nine hearings in Indonesia, Australians, Matthew Norman, 19, Tan Duc Thanh Nguyen, 23, and Si Yi Chen, 20, are sentenced to life imprisonment. ](/news/2006/02/15/the-final-three-defendants-in-the-bali-nine-hearings-in-indonesia-australians-matthew-norman-19-tan-duc-thanh-nguyen-23-and-si-yi-che.md)
-_Context: Bali Nine, Si Yi Chen, Tan Duc Thanh Nguyen, Matthew Norman_
+_Context: Tan Duc Thanh Nguyen, Si Yi Chen, Bali Nine, Matthew Norman_
 
 ##### 
 ### [ The United States and Israel deny a "destabilisation plan" of Hamas, winner of the January 2006 legislative elections, which was revealed on February 14 by the "New York Times". However, they do acknowledge that they would cut off funds and transfers of tax-receipts to the Palestinian Authority. The aim of the "destabilisation plan" was to push the PA to organize new elections ](/news/2006/02/15/the-united-states-and-israel-deny-a-destabilisation-plan-of-hamas-winner-of-the-january-2006-legislative-elections-which-was-revealed-o.md)

@@ -29,11 +29,11 @@ The White House says it is a &quot;taxpayer first&quot; budget, but even grizzle
 
 ##### Apple Inc.
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
-_Context: patent, Apple Inc., Nokia_
+_Context: patent, Nokia, Apple Inc._
 
 ##### Indian Air Force
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: Sukhoi Su-30, Chinese, Indian Air Force_
+_Context: Sukhoi Su-30, Indian Air Force, Chinese_
 
 ##### Newark Liberty International Airport
 ### [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from a United Airlines Boeing 757 jet engine. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-a-united-air.md)

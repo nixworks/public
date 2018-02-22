@@ -5,19 +5,19 @@ Formats: [HTML](2004/04/15/index.html)  [JSON](2004/04/15/index.json)  [XML](200
 
 ##### Osama bin Laden
 ### [ An audio tape, purportedly made by Osama bin Laden, is broadcast by Al-Arabiya. In it, a voice offers to cease terrorist operations in European countries which withdraw their troops from Muslim nations. The tape includes a vow of revenge on Israel and the United States for the death of Hamas leader, Ahmed Yassin. ](/news/2004/04/15/an-audio-tape-purportedly-made-by-osama-bin-laden-is-broadcast-by-al-arabiya-in-it-a-voice-offers-to-cease-terrorist-operations-in-euro.md)
-_Context: Israel, Muslim nation, Hamas, Ahmed Yassin, Al-Arabiya, revenge, Osama bin Laden_
+_Context: revenge, Hamas, Israel, Al-Arabiya, Osama bin Laden, Muslim nation, Ahmed Yassin_
 
 ##### United Nations
 ### [ United Nations' nuclear watchdog group and other U.N. diplomats state that nuclear-related equipment, some contaminated, and a number of missile engines have been smuggled out of Iraq for recycling in Jewometaal Stainless Processing B.V. scrap yards. Satellite photos detect ""the extensive removal of equipment and, in some instances, removal of entire buildings"" from sites that had been subject to U.N. monitoring before the Iraq war. The International Atomic Energy Agency (IAEA) has also reiterated a call for arms inspectors to return to Iraq. ](/news/2004/04/15/united-nations-nuclear-watchdog-group-and-other-u-n-diplomats-state-that-nuclear-related-equipment-some-contaminated-and-a-number-of-mi.md)
-_Context: Jewometaal Stainless Processing B.V., scrap yard, missile, diplomat, Iraq, IAEA, contamination, smuggle, arms inspector, United Nations, released an object into orbit, photo, nuclear warheads, 2003 invasion of Iraq, recycl_
+_Context: arms inspector, diplomat, 2003 invasion of Iraq, nuclear warheads, contamination, released an object into orbit, United Nations, missile, IAEA, recycl, Jewometaal Stainless Processing B.V., scrap yard, Iraq, photo, smuggle_
 
 ##### Khalil Naimi
 ### [ Khalil Naimi, a senior Iranian diplomat in Iraq, is killed while driving to the Iranian diplomatic mission in Baghdad by three unknown assailants, who drove up and shot him. He died shortly afterwards and the motives for the killing are unknown. The killing could complicate the mission of an Iranian government delegation which is in Iraq trying to mediate in the standoff between Iraq Alliance troops and Muqtada al-Sadr's militia, led by the radical Shiite cleric who is fortified in the town of Najaf. ](/news/2004/04/15/khalil-naimi-a-senior-iranian-diplomat-in-iraq-is-killed-while-driving-to-the-iranian-diplomatic-mission-in-baghdad-by-three-unknown-assa.md)
-_Context: Iran, Shiite, diplomat, Iraq, Najaf, Muqtada al-Sadr, conservative, Mahdi Army, cleric, Baghdad, mediate, Khalil Naimi, fort, Alliance, motives_
+_Context: conservative, mediate, Mahdi Army, Najaf, diplomat, Muqtada al-Sadr, cleric, Iraq, Shiite, motives, Khalil Naimi, Iran, fort, Baghdad, Alliance_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Palestinian President Yasser Arafat, reacting to the United States President Bush and Israeli Prime Minister Ariel Sharon summit, states Palestinian will never give up their struggle for an independent homeland, never abandon the claims of their refugees, nor make more territorial concessions. He states that Jerusalem will be its capital. Sharon, who wants to withdraw Israel from the Gaza Strip, faces opposition to his withdrawal plan. ](/news/2004/04/15/israeli-palestinian-conflict-palestinian-president-yasser-arafat-reacting-to-the-united-states-president-bush-and-israeli-prime-minister.md)
-_Context: Israel, capital, Yasser Arafat, George W. Bush, Jerusalem, Palestinian, President, homeland, Ariel Sharon, refugee, Gaza Strip, Israeli-Palestinian conflict_
+_Context: refugee, Israeli-Palestinian conflict, capital, homeland, Ariel Sharon, Gaza Strip, Jerusalem, Yasser Arafat, George W. Bush, President, Palestinian, Israel_
 
 ##### LindowsOS
 ### [ LindowsOS changes its name to Linspire, in a move to counter Microsoft's lawsuit strategy against the company. ](/news/2004/04/15/lindowsos-changes-its-name-to-linspire-in-a-move-to-counter-microsoft-s-lawsuit-strategy-against-the-company.md)
@@ -29,7 +29,7 @@ _Context: Svend Robinson, member of Parliament, NDP_
 
 ##### Researcher
 ### [ U.S. and German researchers report the sunset could recalibrate the internal compasses of migrating songbirds. ](/news/2004/04/15/u-s-and-german-researchers-report-the-sunset-could-recalibrate-the-internal-compasses-of-migrating-songbirds.md)
-_Context: sunset, migrating, compass, songbird, researcher_
+_Context: songbird, researcher, sunset, migrating, compass_
 
 ##### Gravitational microlensing
 ### [ Three planets are discovered via gravitational microlensing orbiting stars many light years away, including one that is more than three times farther away than the previous record holder. ](/news/2004/04/15/three-planets-are-discovered-via-gravitational-microlensing-orbiting-stars-many-light-years-away-including-one-that-is-more-than-three-tim.md)

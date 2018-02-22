@@ -21,7 +21,7 @@ Vietnam’s Ministry of Justice has followed on the heels of the country’s Min
 
 ##### Fiat
 ### [Fiat wins at least a partial victory in Delaware Chancery Court, but the judge declines its invitation to order a United Autoworkers affiliated trust to sell its Chrysler shares to the Italian company. ](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.md)
-_Context: United Autoworkers, Delaware Chancery Court, Chrysler, Fiat_
+_Context: Delaware Chancery Court, Fiat, United Autoworkers, Chrysler_
 
 ##### India
 ### [At least nine children are killed and another twenty injured after their school bus collides with a truck in the Indian city of Hanumangarh in Rajasthan state. ](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.md)
@@ -65,11 +65,11 @@ The U.S. Treasury Department said Tuesday it placed Kingpin Act sanctions on thr
 
 ##### Raif Badawi
 ### [Raif Badawi, the editor of a Saudi Arabian website to discuss the role of religion in Saudi Arabia, is sentenced to seven years in prison and 600 lashes for founding an Internet forum that "violates Islamic values and propagates liberal thought." ](/news/2013/07/30/raif-badawi-the-editor-of-a-saudi-arabian-website-to-discuss-the-role-of-religion-in-saudi-arabia-is-sentenced-to-seven-years-in-prison-an.md)
-_Context: Internet forum, religion in Saudi Arabia, Raif Badawi_
+_Context: Internet forum, Raif Badawi, religion in Saudi Arabia_
 
 ##### Mamnoon Hussain
 ### [Mamnoon Hussain is elected as the 12th President of Pakistan. ](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.md)
-_Context: president, Mamnoon Hussain, elected_
+_Context: president, elected, Mamnoon Hussain_
 
 ## [Previous Day...](/news/2013/07/29/index.md)
 

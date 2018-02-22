@@ -9,7 +9,7 @@ _Context: Athens_
 
 ##### Bomb explodes
 ### [A bomb explodes in the Nigerian capital Abuja, killing four people. ](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-killing-four-people.md)
-_Context: Abuja, Nigeria, bomb explodes_
+_Context: Nigeria, Abuja, bomb explodes_
 
 ##### Tunisia
 ### [A protestor dies of his injuries in Tunisia as protests continue across the country over unemployment and poor living conditions. ](/news/2010/12/31/a-protestor-dies-of-his-injuries-in-tunisia-as-protests-continue-across-the-country-over-unemployment-and-poor-living-conditions.md)
@@ -29,7 +29,7 @@ _Context: Chinese police, Tibetan writers_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md)
-_Context: President of the, elected, Mohamed Said Fazul, Comoros, Ikililou Dhoinine_
+_Context: elected, President of the, Comoros, Mohamed Said Fazul, Ikililou Dhoinine_
 
 ##### Foreign Minister
 ### [After an official protest by German Foreign Minister, Guido Westerwelle, Iran allows access to two journalists arrested in mid-October for interviewing family members of Sakineh Mohammadi Ashtiani, sentenced to death by stoning for alleged adultery. ](/news/2010/12/31/after-an-official-protest-by-german-foreign-minister-guido-westerwelle-iran-allows-access-to-two-journalists-arrested-in-mid-october-for-i.md)
@@ -37,7 +37,7 @@ The two journalists were arrested in mid-October for interviewing family members
 
 ##### China
 ### [Officials in the Chinese Ministry of Industry and Information Technology warn of a crackdown on "illegal" voice-over-Internet(VoIP) telephony services that are not licensed or approved by the country's telecoms regulator. ](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.md)
-_Context: China, internet calls, Ministry of Industry and Information Technology_
+_Context: internet calls, Ministry of Industry and Information Technology, China_
 
 ##### Italy
 ### [Italy bans plastic bags. ](/news/2010/12/31/italy-bans-plastic-bags.md)

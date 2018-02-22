@@ -25,11 +25,11 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 
 ##### Fire
 ### [At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md)
-_Context: Dhaka, Bangladesh, fire_
+_Context: Bangladesh, Dhaka, fire_
 
 ##### Landslide
 ### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
-_Context: Sumatra, Indonesia, landslide_
+_Context: landslide, Sumatra, Indonesia_
 
 ##### Flooding
 ### [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md)
@@ -45,7 +45,7 @@ Rescuers searched for possible survivors following the collapse of a soccer fiel
 
 ##### Paris
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: gay marriage, Paris, France_
+_Context: French, Paris, gay marriage_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)

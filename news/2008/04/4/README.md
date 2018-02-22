@@ -13,7 +13,7 @@ Although it has been accused of tax fraud, improper use of force, arms trafficki
 
 ##### Suicide bomb
 ### [ A suicide bomb attack kills three policemen and a civilian in southern Afghanistan. ](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.md)
-_Context: suicide bomb, Afghan_
+_Context: Afghan, suicide bomb_
 
 ##### Le Ponant
 ### [ The luxury yacht Le Ponant is seized by pirates off the Somalian coast. ](/news/2008/04/4/the-luxury-yacht-le-ponant-is-seized-by-pirates-off-the-somalian-coast.md)

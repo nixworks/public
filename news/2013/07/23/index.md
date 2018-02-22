@@ -29,11 +29,11 @@ Japan says it is taking steps to prevent contaminated water from the crippled Fu
 
 ##### Gulf of Mexico
 ### [Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire. ](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.md)
-_Context: natural gas, Louisiana, Gulf of Mexico_
+_Context: Louisiana, natural gas, Gulf of Mexico_
 
 ##### Burma
 ### [Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. ](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.md)
-_Context: ongoing effort at political reform, Burma, political prisoner_
+_Context: political prisoner, ongoing effort at political reform, Burma_
 
 ##### British
 ### [Eighteen Britons are arrested on the Greek island of Crete, following the murder of a male tourist and a violent confrontation between tourists and local police. ](/news/2013/07/23/eighteen-britons-are-arrested-on-the-greek-island-of-crete-following-the-murder-of-a-male-tourist-and-a-violent-confrontation-between-touri.md)
@@ -53,11 +53,11 @@ _Context: nuclear power plant, New York_
 
 ##### Parliament of Bulgaria
 ### [Protesters besiege the Parliament of Bulgaria in Sofia amid major anti-government rallies. ](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.md)
-_Context: Sofia, Parliament of Bulgaria_
+_Context: Parliament of Bulgaria, Sofia_
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir Mayardit, sacks his entire government, including the Vice President, Riek Machar. ](/news/2013/07/23/the-president-of-south-sudan-salva-kiir-mayardit-sacks-his-entire-government-including-the-vice-president-riek-machar.md)
-_Context: Salva Kiir Mayardit, Riek Machar, President of South Sudan_
+_Context: Riek Machar, Salva Kiir Mayardit, President of South Sudan_
 
 ## [Previous Day...](/news/2013/07/22/index.md)
 

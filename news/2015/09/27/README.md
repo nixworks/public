@@ -13,7 +13,7 @@ Another 100 people thought to have been injured and thousands displaced in capit
 
 ##### War in Afghanistan (2015-present)
 ### [Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-government-positions-in-the-eastern-na.md)
-_Context: ISIL, Pakistan, Nangarhar Province, War in Afghanistan (2015-present), Afghan police_
+_Context: Nangarhar Province, Pakistan, ISIL, Afghan police, War in Afghanistan (2015-present)_
 
 ##### Syrian Civil War
 ### [France says it has carried out its first air-strikes against the Islamic State of Iraq and the Levant within Syria, destroying a training camp in the east of the country. Previously, France had only carried out air-strikes in Iraq with consent of the Iraqi government. ](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.md)
@@ -21,11 +21,11 @@ Russia appeared to seize the initiative in international efforts to end the conf
 
 ##### Libyan Civil War (2014-present)
 ### [Ten people are dead in Benghazi as a result of fighting between Islamic State in Iraq and the Levant and Libyan government forces over the weekend. ](/news/2015/09/27/ten-people-are-dead-in-benghazi-as-a-result-of-fighting-between-islamic-state-in-iraq-and-the-levant-and-libyan-government-forces-over-the-w.md)
-_Context: internationally-recognized government, Benghazi, Islamic State in Iraq and the Levant, Libyan Civil War (2014-present)_
+_Context: Benghazi, Islamic State in Iraq and the Levant, internationally-recognized government, Libyan Civil War (2014-present)_
 
 ##### European migration crisis
 ### [A boat carrying Syrian migrants sinks in the Aegean Sea between Turkey and Greece with seventeen people on board. ](/news/2015/09/27/a-boat-carrying-syrian-migrants-sinks-in-the-aegean-sea-between-turkey-and-greece-with-seventeen-people-on-board.md)
-_Context: Turkey, Greece, Syrian, Aegean Sea, European migration crisis_
+_Context: Greece, Aegean Sea, European migration crisis, Turkey, Syrian_
 
 ##### Australia
 ### [The government of Australia refuses entry to American singer Chris Brown because of his 2009 conviction for domestic violence against his then girlfriend Rihanna. ](/news/2015/09/27/the-government-of-australia-refuses-entry-to-american-singer-chris-brown-because-of-his-2009-conviction-for-domestic-violence-against-his-th.md)
@@ -33,7 +33,7 @@ The Federal Government follows through on its threat to block US R &#039;n&#039;
 
 ##### Guyana-Venezuela relations
 ### [Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its-disputed-border.md)
-_Context: Guyana, Guyana-Venezuela relations, Venezuelan Army, disputed, David Granger, Venezuela_
+_Context: Guyana, Guyana-Venezuela relations, David Granger, Venezuelan Army, disputed, Venezuela_
 
 ##### Catalonian parliamentary election, 2015
 ### [Voters in the Spanish province of Catalonia go to the polls for regional elections with nationalist parties to gain a majority which they claim will allow them to declare independence. ](/news/2015/09/27/voters-in-the-spanish-province-of-catalonia-go-to-the-polls-for-regional-elections-with-nationalist-parties-to-gain-a-majority-which-they-cl.md)

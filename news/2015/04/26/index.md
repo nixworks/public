@@ -5,15 +5,15 @@ Formats: [HTML](2015/04/26/index.html)  [JSON](2015/04/26/index.json)  [XML](201
 
 ##### Balochistan conflict
 ### [A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md)
-_Context: Pakistan, Sibi, Balochistan, Balochistan conflict_
+_Context: Sibi, Pakistan, Balochistan, Balochistan conflict_
 
 ##### Syrian Civil War
 ### [Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. ](/news/2015/04/26/syrian-government-planes-bomb-the-city-of-jisr-al-shughur-the-day-after-it-was-captured-by-al-qaeda-and-its-allies.md)
-_Context: Syrian Civil War, al-Qaeda, Syria, Jisr al-Shughur_
+_Context: al-Qaeda, Syria, Jisr al-Shughur, Syrian Civil War_
 
 ##### Boko Haram
 ### [Boko Haram captures Karamga island in Lake Chad from Niger, killing many soldiers. ](/news/2015/04/26/boko-haram-captures-karamga-island-in-lake-chad-from-niger-killing-many-soldiers.md)
-_Context: Lake Chad, Boko Haram, Niger_
+_Context: Boko Haram, Lake Chad, Niger_
 
 ##### Corinthian Colleges
 ### [American for profit education company Corinthian Colleges announces that it will close its remaining more than two dozen colleges in the western United States due to state and federal investigations into its job-placement practices. ](/news/2015/04/26/american-for-profit-education-company-corinthian-colleges-announces-that-it-will-close-its-remaining-more-than-two-dozen-colleges-in-the-wes.md)

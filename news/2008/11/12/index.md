@@ -17,11 +17,11 @@ _Context: Russia_
 
 ##### India
 ### [ India successfully test fires the first Sagarika submarine-launched ballistic missile from a land-based launcher. ](/news/2008/11/12/india-successfully-test-fires-the-first-sagarika-submarine-launched-ballistic-missile-from-a-land-based-launcher.md)
-_Context: submarine-launched ballistic missile, Sagarika, India_
+_Context: Sagarika, submarine-launched ballistic missile, India_
 
 ##### North Korea
 ### [ North Korea announces that it will close its land border with South Korea on December 1, 2008. ](/news/2008/11/12/north-korea-announces-that-it-will-close-its-land-border-with-south-korea-on-december-1-2008.md)
-_Context: South Korea, DMZ, North Korea_
+_Context: North Korea, DMZ, South Korea_
 
 ## [Previous Day...](/news/2008/11/11/index.md)
 

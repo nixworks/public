@@ -5,31 +5,31 @@ Formats: [HTML](2004/03/15/index.html)  [JSON](2004/03/15/index.json)  [XML](200
 
 ##### Baptist church
 ### [ Four U.S. Baptist missionaries working on a water purification project are killed in a drive-by shooting in the northern Iraqi city of Mosul. ](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.md)
-_Context: Iraq, Baptist church, Mosul, missionary, water purification_
+_Context: Mosul, Iraq, missionary, water purification, Baptist church_
 
 ##### Pavlo Lazarenko
 ### [ Pavlo Lazarenko, former prime minister of Ukraine, stands trial in a U.S. federal court in San Francisco for money laundering. ](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.md)
-_Context: money laundering, Ukraine, San Francisco, Pavlo Lazarenko_
+_Context: Ukraine, San Francisco, money laundering, Pavlo Lazarenko_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: Commissioners of Multnomah County, Oregon, dismiss state attorney general Hardy Myers' non-binding opinion that same-sex marriages are illegal and vow to continue issuing marriage licenses to same-sex couples. ](/news/2004/03/15/same-sex-marriage-in-the-united-states-commissioners-of-multnomah-county-oregon-dismiss-state-attorney-general-hardy-myers-non-binding.md)
-_Context: gay, Multnomah County, Oregon, Hardy Myers, marriage license, Same-sex marriage in the United States, same-sex marriage_
+_Context: same-sex marriage, Same-sex marriage in the United States, gay, marriage license, Hardy Myers, Multnomah County, Oregon_
 
 ##### Elected
 ### [ Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. ](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.md)
-_Context: Spain, Prime Minister, elected, Jos Luis Rodrguez Zapatero, Iraq, U.N._
+_Context: elected, Iraq, Jos Luis Rodrguez Zapatero, Spain, U.N., Prime Minister_
 
 ##### 90377 Sedna
 ### [ Astronomers announce the discovery of 90377 Sedna, a Pluto-like planetoid which is the most distant individual object known to orbit the Sun. ](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.md)
-_Context: planetoid, Pluto, Sun, 90377 Sedna_
+_Context: Pluto, planetoid, 90377 Sedna, Sun_
 
 ##### Iran
 ### [ Iran will reallow the entry of UN nuclear inspectors after March 27, says International Atomic Energy Agency chief Mohamed ElBaradei. ](/news/2004/03/15/iran-will-reallow-the-entry-of-un-nuclear-inspectors-after-march-27-says-international-atomic-energy-agency-chief-mohamed-elbaradei.md)
-_Context: Iran, Mohamed ElBaradei, IAEA, UN_
+_Context: IAEA, Iran, UN, Mohamed ElBaradei_
 
 ##### Haiti
 ### [ Haiti recalls its ambassador of neighbouring Caribbean state Jamaica, where ousted president Jean-Bertrand Aristide is said to be making a personal visit. Haiti also threatens to boycott a 2-day Caricom meeting. ](/news/2004/03/15/haiti-recalls-its-ambassador-of-neighbouring-caribbean-state-jamaica-where-ousted-president-jean-bertrand-aristide-is-said-to-be-making-a.md)
-_Context: Jean-Bertrand Aristide, Haiti, Caricom, Caribbean, Jamaica_
+_Context: Haiti, Jamaica, Caribbean, Jean-Bertrand Aristide, Caricom_
 
 ##### Malaysian general election
 ### [ In the aftermath of nomination day for the Malaysian general election, Barisan Nasional wins four more seats in various state assemblies and another parliamentary seat, uncontested. ](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.md)

@@ -5,23 +5,23 @@ Formats: [HTML](2014/05/31/index.html)  [JSON](2014/05/31/index.json)  [XML](201
 
 ##### Taliban
 ### [Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-deaths-of-14-militants-and-one.md)
-_Context: Taliban, Federally Administered Tribal Areas, Bajaur_
+_Context: Taliban, Bajaur, Federally Administered Tribal Areas_
 
 ##### War in Afghanistan (2001-present)
 ### [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md)
-_Context: War in Afghanistan (2001-present), Guantanamo Bay, five Taliban prisoners, Bowe Bergdahl, United States military, Afghan_
+_Context: War in Afghanistan (2001-present), Guantanamo Bay, Afghan, Bowe Bergdahl, United States military, five Taliban prisoners_
 
 ##### Turkish police
 ### [Turkish police fire tear gas at hundreds of protestors in Istanbul and Ankara as protestors mark the anniversary of the start of the ongoing protests. ](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.md)
-_Context: ongoing protests, Istanbul, tear gas, Ankara, Turkish police_
+_Context: ongoing protests, Ankara, Istanbul, Turkish police, tear gas_
 
 ##### Psy
 ### [Psy's "Gangnam Style" becomes the first video to reach 2 billion views on YouTube. ](/news/2014/05/31/psy-s-gangnam-style-becomes-the-first-video-to-reach-2-billion-views-on-youtube.md)
-_Context: Gangnam Style, YouTube, Psy_
+_Context: Gangnam Style, Psy, YouTube_
 
 ##### National Park Service
 ### [The United States National Park Service advises that six climbers who went missing on Washington's Mount Rainier are not expected to be found alive. ](/news/2014/05/31/the-united-states-national-park-service-advises-that-six-climbers-who-went-missing-on-washington-s-mount-rainier-are-not-expected-to-be-foun.md)
-_Context: National Park Service, Mount Rainier, Washington_
+_Context: Mount Rainier, Washington, National Park Service_
 
 ##### Gulfstream IV
 ### [A Gulfstream IV jet crashes near the U.S. town of Bedford, Massachusetts, with all seven people aboard dying. Lewis Katz, the co-owner of the "Philadelphia Inquirer" was on board. ](/news/2014/05/31/a-gulfstream-iv-jet-crashes-near-the-u-s-town-of-bedford-massachusetts-with-all-seven-people-aboard-dying-lewis-katz-the-co-owner-of-th.md)

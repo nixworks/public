@@ -13,7 +13,7 @@ _Context: Battle of Najaf (2007), Iraq, Najaf_
 
 ##### Shia insurgency in Yemen
 ### [ Shia insurgency in Yemen: Six soldiers have been killed and 20 injured in attacks by Shia militants in the north of Yemen, officials say. ](/news/2007/01/28/shia-insurgency-in-yemen-six-soldiers-have-been-killed-and-20-injured-in-attacks-by-shia-militants-in-the-north-of-yemen-officials-say.md)
-_Context: Shia insurgency in Yemen, Yemen_
+_Context: Yemen, Shia insurgency in Yemen_
 
 ##### YouTube
 ### [ YouTube's founder says people who upload their own videos to the site will get a share of the ad revenue. ](/news/2007/01/28/youtube-s-founder-says-people-who-upload-their-own-videos-to-the-site-will-get-a-share-of-the-ad-revenue.md)

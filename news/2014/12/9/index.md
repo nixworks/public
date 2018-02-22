@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/9/index.html)  [JSON](2014/12/9/index.json)  [XML](2014/
 
 ##### Ansar al-Sharia
 ### [An Ansar al-Sharia suicide bomb attack kills seven soldiers at an army base in southern Yemen. ](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.md)
-_Context: Ansar al-Sharia, soldiers, Hadhramaut Governorate, suicide bomb_
+_Context: Ansar al-Sharia, soldiers, suicide bomb, Hadhramaut Governorate_
 
 ##### Turkish Army
 ### [Three Turkish Army soldiers die by gunfire in the town of Ceylanpinar. The local Turkish governor begins an investigation of whether the gunfire came from the Syrian side of the border. ](/news/2014/12/9/three-turkish-army-soldiers-die-by-gunfire-in-the-town-of-ceylanpinar-the-local-turkish-governor-begins-an-investigation-of-whether-the-gun.md)
@@ -13,7 +13,7 @@ Three Turkish soldiers are killed by gunfire in the town of Ceylanpinar on the b
 
 ##### Philippines
 ### [Another bomb explodes (the previous was November 6, 2014) on a passenger bus, killing at least 11 people and injuring 21 in the southern Philippines province of Bukidnon. ](/news/2014/12/9/another-bomb-explodes-the-previous-was-november-6-2014-on-a-passenger-bus-killing-at-least-11-people-and-injuring-21-in-the-southern-phi.md)
-_Context: Bukidnon, Philippines_
+_Context: Philippines, Bukidnon_
 
 ##### Al Qaeda in the Islamic Maghreb
 ### [Al Qaeda in the Islamic Maghreb release Serge Lazarevic, a French hostage seized three years ago in Mali. ](/news/2014/12/9/al-qaeda-in-the-islamic-maghreb-release-serge-lazarevic-a-french-hostage-seized-three-years-ago-in-mali.md)
@@ -33,7 +33,7 @@ You might have noticed that The Pirate Bay is offline today; the site has disapp
 
 ##### Democrat
 ### [The Democrat-controlled United States Senate Select Committee on Intelligence releases a report critical of the post-September 11 Bush Administration-era CIA interrogation techniques used to extract intelligence from captured Al-Qaeda operatives. The Obama Administration places US embassies around the world on high alert. ](/news/2014/12/9/the-democrat-controlled-united-states-senate-select-committee-on-intelligence-releases-a-report-critical-of-the-post-september-11-bush-admin.md)
-_Context: Democrat, Bush Administration, CIA, report, Obama Administration, al-Qaeda, Senate Intelligence Committee, September 11 attacks_
+_Context: September 11 attacks, al-Qaeda, Senate Intelligence Committee, report, Democrat, CIA, Bush Administration, Obama Administration_
 
 ##### Hong Kong Police Force
 ### [The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/the-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md)

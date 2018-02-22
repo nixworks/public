@@ -41,15 +41,15 @@ At each stage, the camps of the ousted president and of the acting president hav
 
 ##### Luanxian
 ### [ 19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. ](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.md)
-_Context: Luanxian, Hebei, China_
+_Context: Hebei, Luanxian, China_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: Burma, India, separatist rebel, Nagaland_
+_Context: Nagaland, Burma, India, separatist rebel_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)
-_Context: the dumped waste, Trafigura, Cte d'Ivoire_
+_Context: Cte d'Ivoire, Trafigura, the dumped waste_
 
 ##### Niger
 ### [ Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. ](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.md)

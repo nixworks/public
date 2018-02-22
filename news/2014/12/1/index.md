@@ -13,7 +13,7 @@ Maoist rebels kill at least 14 paramilitary policemen in an ambush in the centra
 
 ##### Boko Haram
 ### [Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/dual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-and-20-militants.md)
-_Context: police, Maiduguri, Nigerian Army, Damaturu, Boko Haram_
+_Context: Maiduguri, Boko Haram, Damaturu, police, Nigerian Army_
 
 ##### Suicide bomb
 ### [A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northern-afghanistan.md)
@@ -21,7 +21,7 @@ At least nine killed and 20 wounded in suicide attack at funeral in Baghlan prov
 
 ##### South Korea
 ### [A search continues for 52 people missing from a South Korean fishing vessel, the "Oriong-501", that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weather.md)
-_Context: Bering Sea, Chukotka Autonomous Okrug, Russia, South Korea_
+_Context: South Korea, Bering Sea, Chukotka Autonomous Okrug, Russia_
 
 ##### Pandemic
 ### [Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was-greater-than-th.md)
@@ -29,7 +29,7 @@ The world has finally reached &quot;the beginning of the end&quot; of the AIDS p
 
 ##### Russia
 ### [Russia abandons its plans for the South Stream pipeline to Bulgaria due to European Union objections instead looking at a pipeline to Turkey. ](/news/2014/12/1/russia-abandons-its-plans-for-the-south-stream-pipeline-to-bulgaria-due-to-european-union-objections-instead-looking-at-a-pipeline-to-turkey.md)
-_Context: Russia, European Union, Bulgaria, Turkey, South Stream_
+_Context: Russia, European Union, Turkey, Bulgaria, South Stream_
 
 ##### United Nations World Food Program
 ### [The United Nations World Food Program suspends a food program for 1.7 million Syrian refugees after donor countries fail to meet their commitments. ](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.md)
@@ -49,7 +49,7 @@ EU Council chief Van Rompuy is ending his five-year term true to his nature, wit
 
 ##### Moldovan parliamentary election, 2014
 ### [Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-show-them-gaining-54-seats-in-the-101-sea.md)
-_Context: Moldovan Parliament, Moldova, Moldovan parliamentary election, 2014_
+_Context: Moldovan parliamentary election, 2014, Moldova, Moldovan Parliament_
 
 ##### 2014 pro-democracy street protests
 ### [Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong-kong-dozens-of-people-a.md)

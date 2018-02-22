@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Ogn Samast
 ### [ A man named Ogn Samast is arrested in Samsun by Turkish authorities for killing Armenian-Turkish writer Hrant Dink. ](/news/2007/01/20/a-man-named-ogun-samast-is-arrested-in-samsun-by-turkish-authorities-for-killing-armenian-turkish-writer-hrant-dink.md)
-_Context: Ogn Samast, Armenian, Hrant Dink, Turkey, Samsun_
+_Context: Armenian, Samsun, Ogn Samast, Turkey, Hrant Dink_
 
 ##### War in Somalia
 ### [ War in Somalia: Somali gunmen attacks government and Ethiopian troops in a crowded market, killing 4 people. ](/news/2007/01/20/war-in-somalia-somali-gunmen-attacks-government-and-ethiopian-troops-in-a-crowded-market-killing-4-people.md)
@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Iraq War
 ### [ Iraq War: The U.S. military says one of its helicopters has crashed north-east of Baghdad, killing all 13 passengers. ](/news/2007/01/20/iraq-war-the-u-s-military-says-one-of-its-helicopters-has-crashed-north-east-of-baghdad-killing-all-13-passengers.md)
-_Context: U.S. military, Baghdad, downed by ground fire, Iraq War_
+_Context: downed by ground fire, Iraq War, Baghdad, U.S. military_
 
 ##### Palestinian Authority
 ### [ A planned meeting between Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Meshaal is postponed. ](/news/2007/01/20/a-planned-meeting-between-palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-meshaal-is-postponed.md)
@@ -33,7 +33,7 @@ _Context: Pole of Inaccessibility_
 
 ##### World Social Forum
 ### [ The World Social Forum opens in Nairobi, Kenya. ](/news/2007/01/20/the-world-social-forum-opens-in-nairobi-kenya.md)
-_Context: World Social Forum, Kenya, Nairobi_
+_Context: Nairobi, Kenya, World Social Forum_
 
 ## [Previous Day...](/news/2007/01/19/index.md)
 

@@ -7,13 +7,13 @@ Formats: [HTML](2012/02/26/index.html)  [JSON](2012/02/26/index.json)  [XML](201
 ### [A mass suicide bomber kills at least two people outside a church in the Nigerian city of Jos. ](/news/2012/02/26/a-mass-suicide-bomber-kills-at-least-two-people-outside-a-church-in-the-nigerian-city-of-jos.md)
 A suicide car bomb attack on a church in the Nigerian city of Jos kills three people and sparks bloody reprisal attacks.
 
-##### France
+##### French
 ### [France and Germany follow the United States and United Kingdom in withdrawing civilian staff from Afghan government facilities following the killing of two senior NATO officers. ](/news/2012/02/26/france-and-germany-follow-the-united-states-and-united-kingdom-in-withdrawing-civilian-staff-from-afghan-government-facilities-following-the.md)
 France and Germany follow the US and Britain in withdrawing civilian staff from Afghan government institutions after the killing of two US Nato officers.
 
 ##### Colombia
 ### [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md)
-_Context: kidnapping, Colombia, Revolutionary Armed Forces of Colombia_
+_Context: Colombia, kidnapping, Revolutionary Armed Forces of Colombia_
 
 ##### Hollywood and Highland Center Theatre (formerly Kodak Theatre)
 ### [The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-california.md)
@@ -25,7 +25,7 @@ _Context: Gul Mohammed, Chandra Bahadur Dangi, Guinness World Records_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corporation launches the "The Sun on Sunday" to replace the "News of the World", which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacking-c.md)
-_Context: News Corporation, The Sun, News of the World, Rupert Murdoch_
+_Context: News of the World, News Corporation, The Sun, Rupert Murdoch_
 
 ##### Shanxi province
 ### [A bus plunges off a cliff in Shanxi, China, killing 15 tourists. ](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.md)
@@ -37,11 +37,11 @@ Via Rail has confirmed that three of its employees, all in the locomotive sectio
 
 ##### Cairo
 ### [A trial begins in Cairo of 16 Americans and 27 others linked to an Egyptian government crackdown on non-government organizations which has created tension between the United States and Egypt. ](/news/2012/02/26/a-trial-begins-in-cairo-of-16-americans-and-27-others-linked-to-an-egyptian-government-crackdown-on-non-government-organizations-which-has-c.md)
-_Context: non-government organizations, Government of Egypt, United States, Cairo, Egypt, American_
+_Context: United States, Government of Egypt, Egypt, Cairo, non-government organizations, American_
 
 ##### Italian marines
 ### [Two members of the Italian Marines accused of killing two Indian fishermen will be prosecuted under Indian law. ](/news/2012/02/26/two-members-of-the-italian-marines-accused-of-killing-two-indian-fishermen-will-be-prosecuted-under-indian-law.md)
-_Context: Law of India, India, Italian marines_
+_Context: Law of India, Italian marines, India_
 
 ##### China
 ### [Thousands of Chinese postings inundate U.S. president Barack Obama's Google+ page after restrictions are lifted in China. ](/news/2012/02/26/thousands-of-chinese-postings-inundate-u-s-president-barack-obama-s-google-page-after-restrictions-are-lifted-in-china.md)
@@ -49,7 +49,7 @@ For web users in countries where the Internet is restricted, there is nothing qu
 
 ##### 2011-2012 Russian protests
 ### [2011-2012 Russian protests: Thousands of Russians form a human chain around the centre of Moscow in protest against Vladimir Putin. ](/news/2012/02/26/2011-2012-russian-protests-thousands-of-russians-form-a-human-chain-around-the-centre-of-moscow-in-protest-against-vladimir-putin.md)
-_Context: Moscow, Russia, 2011-2012 Russian protests, Vladimir Putin_
+_Context: Vladimir Putin, Russia, Moscow, 2011-2012 Russian protests_
 
 ##### Senegal
 ### [Voters in Senegal go to the polls for the Senegalese presidential election which has been marked by violence. ](/news/2012/02/26/voters-in-senegal-go-to-the-polls-for-the-senegalese-presidential-election-which-has-been-marked-by-violence.md)
@@ -61,7 +61,7 @@ At least 59 Syrian civilians and soldiers were killed on Sunday in bloodshed tha
 
 ##### Malaysian
 ### [Three thousand Malaysians protest a rare earth refinery being built by Australian miner Lynas. ](/news/2012/02/26/three-thousand-malaysians-protest-a-rare-earth-refinery-being-built-by-australian-miner-lynas.md)
-_Context: Lynas, Australia, rare earth element, Malaysian_
+_Context: Australia, Lynas, Malaysian, rare earth element_
 
 ## [Previous Day...](/news/2012/02/25/index.md)
 

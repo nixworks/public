@@ -13,7 +13,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 
 ##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: environmental, Sierra Club, Arch Coal, bankruptcy_
+_Context: bankruptcy, Arch Coal, environmental, Sierra Club_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)

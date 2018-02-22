@@ -3,13 +3,13 @@ Formats: [HTML](2011/04/13/index.html)  [JSON](2011/04/13/index.json)  [XML](201
 
 ## [2011-04-13](/news/2011/04/13/index.md)
 
-##### Civil war
+##### Muammar Gaddafi
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 
 ##### Malaysiakini
 ### [The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. ](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.md)
-_Context: Malaysiakini, Malaysia, Sarawak_
+_Context: Sarawak, Malaysia, Malaysiakini_
 
 ##### Protestors
 ### [The 2011 Syrian protests spread to Aleppo. ](/news/2011/04/13/the-2011-syrian-protests-spread-to-aleppo.md)
@@ -29,7 +29,7 @@ Federal government to take a fresh look at oil shale development in the West
 
 ##### Japan
 ### [Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, Sendai Airport, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Sendai Airport_
 
 ##### United States
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
@@ -45,7 +45,7 @@ Former president to face charges while Ouattara pledges to ask ICC to probe alle
 
 ##### Egypt
 ### [Egyptian authorities detain former president Hosni Mubarak and his sons Alaa and Gamal for 15 days as part of an investigation related to possible charges of corruption and abuse of power. ](/news/2011/04/13/egyptian-authorities-detain-former-president-hosni-mubarak-and-his-sons-alaa-and-gamal-for-15-days-as-part-of-an-investigation-related-to-po.md)
-_Context: Egypt, Gamel, President, Alaa Mubarak, Hosni Mubarak_
+_Context: President, Egypt, Gamel, Alaa Mubarak, Hosni Mubarak_
 
 ##### English
 ### [English actor Brian Regan is charged with the murder of a bouncer in a pub in Liverpool. ](/news/2011/04/13/english-actor-brian-regan-is-charged-with-the-murder-of-a-bouncer-in-a-pub-in-liverpool.md)

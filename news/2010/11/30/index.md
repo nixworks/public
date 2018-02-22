@@ -21,7 +21,7 @@ Mexican soldiers uncover 18 bodies buried close to the US border in Chihuahua, t
 
 ##### Suicide bombing
 ### [Six people are killed in a suicide bombing in the Bannu district in northwestern Pakistan. ](/news/2010/11/30/six-people-are-killed-in-a-suicide-bombing-in-the-bannu-district-in-northwestern-pakistan.md)
-_Context: suicide bombing, Bannu district, Pakistan_
+_Context: Pakistan, suicide bombing, Bannu district_
 
 ##### Seamus Heaney
 ### [A poem written by Nobel laureate Seamus Heaney sells for EUR4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-a-4-800-at-auction.md)
@@ -29,11 +29,11 @@ A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at au
 
 ##### Movember
 ### [Movember wraps up with over $50 million raised for prostate cancer. ](/news/2010/11/30/movember-wraps-up-with-over-50-million-raised-for-prostate-cancer.md)
-_Context: Movember, prostate cancer_
+_Context: prostate cancer, Movember_
 
 ##### United Nations
 ### [The United Nations Climate Change Conference (COP-16) opens in the Mexican resort city of Cancun. ](/news/2010/11/30/the-united-nations-climate-change-conference-cop-16-opens-in-the-mexican-resort-city-of-cancaon.md)
-_Context: Mexico, United Nations, Cancun, Climate Change, U.N. climate change talks_
+_Context: Mexico, Cancun, U.N. climate change talks, Climate Change, United Nations_
 
 ##### Rome, Italy
 ### [Students protest in Rome and other Italian cities as politicians threaten to cut funding for education and research. ](/news/2010/11/30/students-protest-in-rome-and-other-italian-cities-as-politicians-threaten-to-cut-funding-for-education-and-research.md)
@@ -45,7 +45,7 @@ The local managing directors of Shell and Halliburton are summoned by anti-corru
 
 ##### European Commission
 ### [The European Commission launches an anti-trust investigation of Google. ](/news/2010/11/30/the-european-commission-launches-an-anti-trust-investigation-of-google.md)
-_Context: anti-trust, Google, European Commission_
+_Context: European Commission, Google, anti-trust_
 
 ##### Morocco
 ### [At least 30 people are killed by flooding and heavy rains in Morocco. ](/news/2010/11/30/at-least-30-people-are-killed-by-flooding-and-heavy-rains-in-morocco.md)
@@ -61,7 +61,7 @@ _Context: Ireland_
 
 ##### Mudslide
 ### [Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. ](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-lives-in-venezuela-with-the-president-of-venezuela-declaring-a-state-of-emergency-in-the-sta.md)
-_Context: Venezuela, states of emergency, President, mudslide, Falcon_
+_Context: Venezuela, mudslide, Falcon, states of emergency, President_
 
 ##### United States
 ### [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
@@ -69,7 +69,7 @@ North Korea says it has thousands of centrifuges operating at a previously undet
 
 ##### Russia
 ### [Russian President Dmitry Medvedev warns of an "arms race" if Russia and the West can not agree on a missile defence system for Europe. ](/news/2010/11/30/russian-president-dmitry-medvedev-warns-of-an-arms-race-if-russia-and-the-west-can-not-agree-on-a-missile-defence-system-for-europe.md)
-_Context: Europe, Russia, Dmitry Medvedev, Russian President, arms race_
+_Context: arms race, Dmitry Medvedev, Russia, Europe, Russian President_
 
 ##### Ecuador
 ### [Ecuador invites Julian Assange of WikiLeaks to speak publicly and offers him residency where he can make more revelations. Venezuelan President Hugo Chavez praises the website and calls for the resignation of U.S. secretary of state Hillary Clinton. ](/news/2010/11/30/ecuador-invites-julian-assange-of-wikileaks-to-speak-publicly-and-offers-him-residency-where-he-can-make-more-revelations-venezuelan-presid.md)
@@ -89,7 +89,7 @@ Indian police raid 11 locations in connection with alleged financial irregularit
 
 ##### Pakistan
 ### [Pakistani government starts securing 36 hacked websites after the 'Indian Cyber Army' gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-aindian-cyber-armya-gained-root-access-to-a-main-server-hosting-import.md)
-_Context: Pakistani government, Pakistan, Indian Cyber Army_
+_Context: Indian Cyber Army, Pakistan, Pakistani government_
 
 ##### Spain
 ### [An orderly at a Spanish retirement home admits to killing 11 residents. ](/news/2010/11/30/an-orderly-at-a-spanish-retirement-home-admits-to-killing-11-residents.md)
@@ -97,7 +97,7 @@ An orderly at a retirement home in north-eastern Spain has admitted killing 11 e
 
 ##### Interpol
 ### [Interpol issues an arrest warrant for Julian Assange, the founder of WikiLeaks, to face sexual assault charges in Sweden. ](/news/2010/11/30/interpol-issues-an-arrest-warrant-for-julian-assange-the-founder-of-wikileaks-to-face-sexual-assault-charges-in-sweden.md)
-_Context: WikiLeaks, Sweden, Julian Assange, sexual assault, arrest warrant, Interpol_
+_Context: sexual assault, Interpol, WikiLeaks, arrest warrant, Sweden, Julian Assange_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's parliament agrees to form a three-way coalition government, creating the first parliamentary democracy in Central Asia. ](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.md)
@@ -109,7 +109,7 @@ Minister for Justice Dermot Ahern has said that he will not contest his Dáil se
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, United States Secretary of Defense, US military, United States Senate, don't ask don't tell_
+_Context: US military, United States Senate, don't ask don't tell, Robert Gates, United States Secretary of Defense_
 
 ##### Slurpee Summit
 ### [The Slurpee Summit occurs in Washington, DC. ](/news/2010/11/30/the-slurpee-summit-occurs-in-washington-dc.md)

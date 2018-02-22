@@ -5,31 +5,31 @@ Formats: [HTML](2005/09/14/index.html)  [JSON](2005/09/14/index.json)  [XML](200
 
 ##### President
 ### [ The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. ](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shakes-hands-with-the-prime-minister-of-israel-ariel-sharon-the-first-time-such-an-encounter.md)
-_Context: Pervez Musharraf, president, Ariel Sharon, Israeli Prime Minister_
+_Context: president, Ariel Sharon, Israeli Prime Minister, Pervez Musharraf_
 
 ##### UN High Commissioner for Refugees
 ### [ UN High Commissioner for Refugees and World Food Programme appeal for more funds to provide food for two million refugees in Africa, in countries such as Tanzania, Central African Republic, Liberia and Kenya. ](/news/2005/09/14/un-high-commissioner-for-refugees-and-world-food-programme-appeal-for-more-funds-to-provide-food-for-two-million-refugees-in-africa-in-cou.md)
-_Context: Central African Republic, refugee, Tanzania, UN High Commissioner for Refugees, Kenya, Liberia, World Food Programme_
+_Context: Tanzania, Liberia, Central African Republic, Kenya, refugee, World Food Programme, UN High Commissioner for Refugees_
 
 ##### Evacuation
 ### [ Mandatory emergency evacuation is ordered for Outer Banks in North Carolina as Hurricane Ophelia approaches. ](/news/2005/09/14/mandatory-emergency-evacuation-is-ordered-for-outer-banks-in-north-carolina-as-hurricane-ophelia-approaches.md)
-_Context: North Carolina, Outer Banks, 2005 Atlantic hurricane season, evacuation_
+_Context: 2005 Atlantic hurricane season, North Carolina, evacuation, Outer Banks_
 
 ##### Uganda
 ### [ Ugandan Rebels of the Lord's Resistance Army cross the White Nile for the first time to carry out attacks near Juba, the capital of Southern Sudan. ](/news/2005/09/14/ugandan-rebels-of-the-lord-s-resistance-army-cross-the-white-nile-for-the-first-time-to-carry-out-attacks-near-juba-the-capital-of-souther.md)
-_Context: Juba, White Nile, Southern Sudan, Lord's Resistance Army, Uganda_
+_Context: Juba, Uganda, Lord's Resistance Army, Southern Sudan, White Nile_
 
 ##### Hamas
 ### [ Hamas blows a hole through the wall between Egypt and Gaza, allowing free passage for Palestinians to and from Egypt for the first time since 1967. ](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.md)
-_Context: Gaza Strip, Palestinians, Egypt, Hamas_
+_Context: Hamas, Gaza Strip, Egypt, Palestinians_
 
 ##### Car bomb
 ### [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md)
-_Context: Shia, Baghdad, car bomb, Kadhimiya_
+_Context: car bomb, Baghdad, Kadhimiya, Shia_
 
 ##### Frances Newton
 ### [ Frances Newton is executed by lethal injection by the U.S. state of Texas for the murder of her ex-husband and two children. She is the first African American woman executed in Texas since 1858. ](/news/2005/09/14/frances-newton-is-executed-by-lethal-injection-by-the-u-s-state-of-texas-for-the-murder-of-her-ex-husband-and-two-children-she-is-the-fir.md)
-_Context: U.S. state, Frances Newton, Texas, black, lethal injection_
+_Context: black, lethal injection, U.S. state, Frances Newton, Texas_
 
 ## [Previous Day...](/news/2005/09/13/index.md)
 

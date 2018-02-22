@@ -13,7 +13,7 @@ Three-storey Republican Guard building destroyed by suicide blast in Bayda, whic
 
 ##### Australian
 ### [Australians living in the north-western Sydney suburbs of Richmond, Pitt Town and Grono Point are evacuated as the Nepean-Hawkesbury River system floods after Warragamba Dam overflows. ](/news/2012/03/3/australians-living-in-the-north-western-sydney-suburbs-of-richmond-pitt-town-and-grono-point-are-evacuated-as-the-nepean-hawkesbury-river-s.md)
-_Context: Warragamba Dam, Hawkesbury River, Grono Point, Sydney, Australian, Richmond, Pitt Town, Nepean_
+_Context: Sydney, Richmond, Nepean, Hawkesbury River, Australian, Grono Point, Warragamba Dam, Pitt Town_
 
 ##### Tornadoes
 ### [The death toll from a tornado outbreak in the US reaches at least 36, with casualties reported in Kentucky, Indiana, Alabama, Georgia and Ohio. ](/news/2012/03/3/the-death-toll-from-a-tornado-outbreak-in-the-us-reaches-at-least-36-with-casualties-reported-in-kentucky-indiana-alabama-georgia-and-oh.md)
@@ -29,7 +29,7 @@ _Context: Guinea_
 
 ##### Egypt
 ### [Egypt appoints new judges for the trial of 43 non-government organisation workers including six Americans who left earlier in the week. ](/news/2012/03/3/egypt-appoints-new-judges-for-the-trial-of-43-non-government-organisation-workers-including-six-americans-who-left-earlier-in-the-week.md)
-_Context: non-government organisation, Egypt, American_
+_Context: Egypt, non-government organisation, American_
 
 ##### Costa Concordia
 ### [The criminal case associated with the wreck of the "Costa Concordia" starts in Italy. ](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.md)
@@ -41,15 +41,15 @@ Thousands turn out to elect a new leader for a Chinese village that staged a hig
 
 ##### Iranian legislative election
 ### [Early returns in the Iranian legislative election show the conservative opponents of President Mahmoud Ahmadinejad doing well. ](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.md)
-_Context: President, Mahmoud Ahmadinejad, Iranian legislative election_
+_Context: Iranian legislative election, Mahmoud Ahmadinejad, President_
 
 ##### Tajikistan
 ### [Authorities in Tajikistan close access to Facebook and sites with material critical of President Emomali Rakhmon. ](/news/2012/03/3/authorities-in-tajikistan-close-access-to-facebook-and-sites-with-material-critical-of-president-emomali-rakhmon.md)
-_Context: President, Emomali Rakhmon, Facebook, Tajikistan_
+_Context: Facebook, Emomali Rakhmon, President, Tajikistan_
 
 ##### Republican
 ### [Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. ](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.md)
-_Context: Mitt Romney, Washington, caucuses, Republican_
+_Context: Republican, Mitt Romney, Washington, caucuses_
 
 ## [Previous Day...](/news/2012/03/2/index.md)
 

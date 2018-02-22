@@ -13,7 +13,7 @@ Pictures of North Korean leader Kim Jong-un and his wife inspecting a new airpor
 
 ##### 2015 Pakistani heat wave
 ### [The death toll from the heat wave passes 1,000 in Sindh province alone. ](/news/2015/06/25/the-death-toll-from-the-heat-wave-passes-1-000-in-sindh-province-alone.md)
-_Context: 2015 Pakistani heat wave, Sindh_
+_Context: Sindh, 2015 Pakistani heat wave_
 
 ##### Holland America Line
 ### [The wreckage of a small plane carrying eight passengers on a shore excursion from Holland America Line's "MS Westerdam" cruise ship is discovered near the Alaskan town of Ketchikan. All nine people on board including the pilot died. ](/news/2015/06/25/the-wreckage-of-a-small-plane-carrying-eight-passengers-on-a-shore-excursion-from-holland-america-line-s-ms-westerdam-cruise-ship-is-disco.md)
@@ -29,11 +29,11 @@ _Context: suspicions, Nepal, India_
 
 ##### South Africa
 ### [South Africa reviews its participation in the International Criminal Court following a failed attempt to arrest the President of Sudan, Omar al-Bashir, on South African soil. ](/news/2015/06/25/south-africa-reviews-its-participation-in-the-international-criminal-court-following-a-failed-attempt-to-arrest-the-president-of-sudan-omar.md)
-_Context: Omar al-Bashir, South Africa, ICC, President of Sudan_
+_Context: South Africa, President of Sudan, ICC, Omar al-Bashir_
 
 ##### Prime Minister of Haiti
 ### [The Prime Minister of Haiti Evans Paul accuses the Dominican Republic of causing a humanitarian crisis by mass deportation of people mainly from Haiti. ](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.md)
-_Context: Evans Paul, Haiti, Dominican Republic, Prime Minister of Haiti_
+_Context: Prime Minister of Haiti, Dominican Republic, Haiti, Evans Paul_
 
 ##### Committee to Protect Journalists
 ### [The Committee to Protect Journalists claims that the Government of Egypt has incarcerated 18 journalists, mostly from Al-Jazeera. ](/news/2015/06/25/the-committee-to-protect-journalists-claims-that-the-government-of-egypt-has-incarcerated-18-journalists-mostly-from-al-jazeera.md)
@@ -53,7 +53,7 @@ The Supreme Court upheld the use of federal financial aid for more than 6 millio
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md)
-_Context: Trans-Pacific Partnership, United States House of Representatives, U.S. President, Barack Obama_
+_Context: U.S. President, United States House of Representatives, Trans-Pacific Partnership, Barack Obama_
 
 ## [Previous Day...](/news/2015/06/24/index.md)
 

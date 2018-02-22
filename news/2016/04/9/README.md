@@ -13,7 +13,7 @@ The U.S. Air Force deployed B-52 bombers to Qatar on Saturday to join the fight 
 
 ##### Internal conflict in Peru
 ### [ At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. ](/news/2016/04/9/at-least-two-people-are-killed-in-a-remote-part-of-peru-in-an-attack-by-shining-path-guerillas.md)
-_Context: Internal conflict in Peru, Peru, Shining Path_
+_Context: Peru, Internal conflict in Peru, Shining Path_
 
 ##### European migrant crisis
 ### [ Five migrants drown off the island of Samos close to Turkey. ](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.md)
@@ -25,7 +25,7 @@ At least 23 people are killed and 32 injured after a bus plunges into a river in
 
 ##### Egypt-Saudi Arabia relations
 ### [ Egypt and Saudi Arabia reach an agreement on the disputed islands of Tiran Island and Sanafir Island, placing the formerly Egyptian-administered islands officially under Saudi Arabian sovereignty. ](/news/2016/04/9/egypt-and-saudi-arabia-reach-an-agreement-on-the-disputed-islands-of-tiran-island-and-sanafir-island-placing-the-formerly-egyptian-adminis.md)
-_Context: Tiran Island, Egypt-Saudi Arabia relations, Sanafir Island_
+_Context: Sanafir Island, Tiran Island, Egypt-Saudi Arabia relations_
 
 ##### North Korea's nuclear program
 ### [ North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-missile.md)
@@ -37,7 +37,7 @@ _Context: intercontinental ballistic missile, North Korea, North Korea's nuclear
 
 ##### New Orleans Saints
 ### [ Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. ](/news/2016/04/9/former-new-orleans-saints-defensive-end-will-smith-is-shot-dead-in-a-road-rage-incident.md)
-_Context: road rage, Will Smith, defensive end, New Orleans Saints_
+_Context: road rage, defensive end, New Orleans Saints, Will Smith_
 
 ##### 2016 U.S. election
 ### [ Registered Democratic voters in the U.S. state of Wyoming gather, by county, for the Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.md)

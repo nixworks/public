@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/26/index.html)  [JSON](2014/10/26/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md)
-_Context: Pakistan, Afghan, War in North-West Pakistan_
+_Context: Pakistan, War in North-West Pakistan, Afghan_
 
 ##### War in Afghanistan (2001-present)
 ### [Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-next-to-it-are-handed-over-to-the-afgh.md)
@@ -17,11 +17,11 @@ Egyptian report claims perpetrators of Friday attack on army post in Sinai that 
 
 ##### Gaza-Israel conflict
 ### [Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. ](/news/2014/10/26/peace-talks-between-hamas-and-israel-have-been-canceled-after-the-hamas-delegation-was-refused-entry-into-egypt-following-recent-attacks-aga.md)
-_Context: Egypt, Gaza-Israel conflict, Hamas, recent attacks, Israel_
+_Context: recent attacks, Egypt, Hamas, Gaza-Israel conflict, Israel_
 
 ##### Senzo Meyiwa
 ### [Senzo Meyiwa, the goalkeeper and captain of the South Africa national football team, is fatally shot in a township near Johannesburg. ](/news/2014/10/26/senzo-meyiwa-the-goalkeeper-and-captain-of-the-south-africa-national-football-team-is-fatally-shot-in-a-township-near-johannesburg.md)
-_Context: Senzo Meyiwa, goalkeeper, South Africa national football team, Johannesburg_
+_Context: goalkeeper, Senzo Meyiwa, South Africa national football team, Johannesburg_
 
 ##### Tunisian parliamentary election, 2014
 ### [Voters in Tunisia go to the polls for a parliamentary election, the first under a new constitution. ](/news/2014/10/26/voters-in-tunisia-go-to-the-polls-for-a-parliamentary-election-the-first-under-a-new-constitution.md)
@@ -29,7 +29,7 @@ Tunisia votes in the first election to be held under its new constitution, which
 
 ##### 2014
 ### [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md)
-_Context: Dilma Rousseff, president, Brazil, 2014_
+_Context: 2014, Brazil, Dilma Rousseff, president_
 
 ##### Uruguayan general election, 2014
 ### [Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to-a-second-round.md)
@@ -37,7 +37,7 @@ _Context: Uruguay, Uruguayan general election, 2014_
 
 ##### Recent elections
 ### [Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md)
-_Context: Petro Poroshenko, Ukraine, Ukrainian President, recent elections_
+_Context: Petro Poroshenko, Ukraine, recent elections, Ukrainian President_
 
 ## [Previous Day...](/news/2014/10/25/index.md)
 

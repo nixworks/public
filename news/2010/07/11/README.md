@@ -21,11 +21,11 @@ At least 74 people were killed in the twin blasts that hit Kampala during the Wo
 
 ##### Liberia
 ### [Liberian deputy parliamentary speaker Togba Mulbah is released after briefly being held under house arrest in Monrovia for allegedly ordering the beating unconscious of a policeman. ](/news/2010/07/11/liberian-deputy-parliamentary-speaker-togba-mulbah-is-released-after-briefly-being-held-under-house-arrest-in-monrovia-for-allegedly-orderin.md)
-_Context: Monrovia, Liberia, Togba Mulbah_
+_Context: Liberia, Monrovia, Togba Mulbah_
 
 ##### Police
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
-_Context: Eleuthera, Colton Harris-Moore, northwestern Bahamas, United States, Police_
+_Context: United States, Colton Harris-Moore, Eleuthera, Police, northwestern Bahamas_
 
 ##### Augusti Vila
 ### [Spanish film-maker Augusti Vila wins the main prize at the Karlovy Vary International Film Festival in the Czech Republic for his film "The Mosquito Net". ](/news/2010/07/11/spanish-film-maker-augusti-vila-wins-the-main-prize-at-the-karlovy-vary-international-film-festival-in-the-czech-republic-for-his-film-the.md)
@@ -33,7 +33,7 @@ Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival 
 
 ##### Total solar eclipse
 ### [A total solar eclipse occurs in the south Pacific Ocean with thousands viewing the event on Easter Island. ](/news/2010/07/11/a-total-solar-eclipse-occurs-in-the-south-pacific-ocean-with-thousands-viewing-the-event-on-easter-island.md)
-_Context: total solar eclipse, Easter Island, South Pacific Ocean_
+_Context: Easter Island, total solar eclipse, South Pacific Ocean_
 
 ##### Spain
 ### [Spain defeats the Netherlands by a score of one goal to nil in extra time of the 2010 FIFA World Cup Final to win the 2010 FIFA World Cup, with Andrs Iniesta scoring the winning goal. ](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.md)
@@ -45,11 +45,11 @@ Nelson Mandela enjoys a thunderous greeting from thousands of fans as he attends
 
 ##### FIFA
 ### [FIFA President Sepp Blatter rejects criticism of the 2010 FIFA World Cup. ](/news/2010/07/11/fifa-president-sepp-blatter-rejects-criticism-of-the-2010-fifa-world-cup.md)
-_Context: 2010 FIFA World Cup, Sepp Blatter, FIFA_
+_Context: Sepp Blatter, 2010 FIFA World Cup, FIFA_
 
 ##### 800 metres
 ### [World women's 800 metres champion Caster Semenya is left out of South Africa's team for the upcoming African Championships. ](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.md)
-_Context: 800 metres, Caster Semenya_
+_Context: Caster Semenya, 800 metres_
 
 ## [Previous Day...](/news/2010/07/10/index.md)
 

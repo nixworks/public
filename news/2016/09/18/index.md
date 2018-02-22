@@ -9,7 +9,7 @@ At least 17 soldiers have been killed, while 4 militants were shot dead by India
 
 ##### War in North-West Pakistan
 ### [Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md)
-_Context: Pakistani troops, Peshawar, War in North-West Pakistan_
+_Context: Peshawar, War in North-West Pakistan, Pakistani troops_
 
 ##### Syrian civil war
 ### [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md)
@@ -21,7 +21,7 @@ Welcome to our Emmys live blog! The 68th annual Emmy Awards telecast is finally 
 
 ##### The Church of Jesus Christ of Latter-day Saints in Japan
 ### [Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. ](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.md)
-_Context: The Church of Jesus Christ of Latter-day Saints in Japan, Sapporo Japan Temple, Russell M. Nelson_
+_Context: Sapporo Japan Temple, Russell M. Nelson, The Church of Jesus Christ of Latter-day Saints in Japan_
 
 ##### Chao Phraya River
 ### [A tourist boat carrying about 150 people capsizes on the Chao Phraya River in Thailand, killing at least 12 people with dozens missing. ](/news/2016/09/18/a-tourist-boat-carrying-about-150-people-capsizes-on-the-chao-phraya-river-in-thailand-killing-at-least-12-people-with-dozens-missing.md)
@@ -29,7 +29,7 @@ An overcrowded tourist boat carrying Muslim pilgrims was being piloted recklessl
 
 ##### Russian legislative election, 2016
 ### [Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-exit-polls-show-the-governing-united.md)
-_Context: Exit poll, United Russia, 7th State Duma of the Russian Federation, Russian legislative election, 2016_
+_Context: 7th State Duma of the Russian Federation, United Russia, Russian legislative election, 2016, Exit poll_
 
 ##### Berlin state election, 2016
 ### [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md)

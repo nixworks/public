@@ -9,7 +9,7 @@ _Context: Bolivia, suicide bomber_
 
 ##### French President
 ### [ French President Jacques Chirac retains his prime minister, Jean-Pierre Raffarin, but asks Raffarin to reform the country's government. ](/news/2004/03/30/french-president-jacques-chirac-retains-his-prime-minister-jean-pierre-raffarin-but-asks-raffarin-to-reform-the-country-s-government.md)
-_Context: French President, Prime Minister, Jean-Pierre Raffarin, Jacques Chirac_
+_Context: French President, Jean-Pierre Raffarin, Jacques Chirac, Prime Minister_
 
 ##### New Jersey
 ### [ New Jersey physicist Greg Olsen pays $20 million to conduct environmental research for eight days aboard the International Space Station. ](/news/2004/03/30/new-jersey-physicist-greg-olsen-pays-20-million-to-conduct-environmental-research-for-eight-days-aboard-the-international-space-station.md)
@@ -25,7 +25,7 @@ _Context: Abu Sayyaf, Philippines_
 
 ##### White House
 ### [ The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. ](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.md)
-_Context: Condoleezza Rice, White House, National Security Advisor, September 11, 2001 attacks_
+_Context: White House, September 11, 2001 attacks, National Security Advisor, Condoleezza Rice_
 
 ##### Terrorism Act
 ### [ Eight men are arrested after a series of raids in the UK under the Terrorism Act 2000. Half a ton of ammonium nitrate fertiliser was found during the raids. ](/news/2004/03/30/eight-men-are-arrested-after-a-series-of-raids-in-the-uk-under-the-terrorism-act-2000-half-a-ton-of-ammonium-nitrate-fertiliser-was-found.md)
@@ -33,7 +33,7 @@ _Context: Terrorism Act, ammonium nitrate_
 
 ##### SCO v. IBM
 ### [ "SCO v. IBM:" IBM has applied for a declaratory judgment that it does not infringe the SCO Group's copyrights. ](/news/2004/03/30/sco-v-ibm-ibm-has-applied-for-a-declaratory-judgment-that-it-does-not-infringe-the-sco-group-s-copyrights.md)
-_Context: IBM, declaratory judgment, SCO Group, SCO v. IBM_
+_Context: IBM, SCO v. IBM, declaratory judgment, SCO Group_
 
 ## [Previous Day...](/news/2004/03/29/index.md)
 

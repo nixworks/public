@@ -9,15 +9,15 @@ _Context: 2008 Mumbai attacks, India, Ajmal Kasab_
 
 ##### United States
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
-_Context: United Airlines, Continental Airlines, United States_
+_Context: Continental Airlines, United Airlines, United States_
 
 ##### Darfur
 ### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week. ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
-_Context: conflict, Justice and Equality Movement, Darfur, Sudanese government_
+_Context: Sudanese government, Darfur, conflict, Justice and Equality Movement_
 
 ##### Nashville, Tennessee
 ### [The death toll reaches 28 as flooding from weekend storms worsens in southern US towns and cities, including Nashville in Middle Tennessee, and parts of Kentucky, Alabama and Mississippi. ](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.md)
-_Context: Kentucky, Mississippi, Nashville, Tennessee, Alabama, Middle, Tennessee_
+_Context: Alabama, Mississippi, Middle, Kentucky, Nashville, Tennessee, Tennessee_
 
 ##### Thailand
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
@@ -33,7 +33,7 @@ Irish airspace will close from 7am tomorrow because of an ash cloud drifting dow
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md)
-_Context: Review Conference, United Nations Headquarters, New York City, United States Secretary of State, Mahmoud Ahmadinejad, Hillary Clinton, Nuclear Non-proliferation Treaty, President_
+_Context: New York City, Mahmoud Ahmadinejad, United Nations Headquarters, United States Secretary of State, Hillary Clinton, Nuclear Non-proliferation Treaty, President, Review Conference_
 
 ##### Australia
 ### [Australian mining stocks plummet after the government passes a new 40% profit tax on the industry. International mining companies warn that many new mining projects may be canceled. ](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.md)
@@ -41,7 +41,7 @@ _Context: Review Conference, United Nations Headquarters, New York City, United 
 
 ##### Norsk Hydro
 ### [Norsk Hydro secures 100 years worth of bauxite supply in a US$4.9 billion deal. ](/news/2010/05/3/norsk-hydro-secures-100-years-worth-of-bauxite-supply-in-a-us-4-9-billion-deal.md)
-_Context: US$, Norsk Hydro, bauxite_
+_Context: US$, bauxite, Norsk Hydro_
 
 ##### Egypt
 ### [Hundreds of Egyptian workers protest outside Egypt's cabinet building to request a rise in their minimum wage. ](/news/2010/05/3/hundreds-of-egyptian-workers-protest-outside-egypt-s-cabinet-building-to-request-a-rise-in-their-minimum-wage.md)
@@ -61,7 +61,7 @@ Reports say reclusive leader on trip that could ease inter-Korea tensions.
 
 ##### European Commission
 ### [The European Commission proposes rules for imports of fishery products from Greenland into the EU. ](/news/2010/05/3/the-european-commission-proposes-rules-for-imports-of-fishery-products-from-greenland-into-the-eu.md)
-_Context: European Union, Greenland, European Commission_
+_Context: European Commission, Greenland, European Union_
 
 ##### Uganda
 ### [Uganda's highest ice cap in the Rwenzori mountain range splits. ](/news/2010/05/3/uganda-s-highest-ice-cap-in-the-rwenzori-mountain-range-splits.md)
@@ -69,7 +69,7 @@ _Context: Uganda, ice cap, Rwenzori mountain range_
 
 ##### Natavia Lowery
 ### [Natavia Lowery, PA to former Ramones manager Linda S. Stein, is given a 25 year to life jail sentence for beating Stein to death on 30 October 2007. ](/news/2010/05/3/natavia-lowery-pa-to-former-ramones-manager-linda-s-stein-is-given-a-25-year-to-life-jail-sentence-for-beating-stein-to-death-on-30-octob.md)
-_Context: Natavia Lowery, PA, Ramones, Linda S. Stein_
+_Context: Linda S. Stein, Natavia Lowery, PA, Ramones_
 
 ## [Previous Day...](/news/2010/05/2/index.md)
 

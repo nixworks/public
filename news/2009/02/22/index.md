@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/22/index.html)  [JSON](2009/02/22/index.json)  [XML](200
 
 ##### Slumdog Millionaire
 ### [ "Slumdog Millionaire" wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for "Milk" and Kate Winslet wins Best Actress for "The Reader". ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-milk.md)
-_Context: Academy Award for Best Director, Academy Award, Slumdog Millionaire, Danny Boyle, Academy Awards, Academy Award for Best Actor, Academy Award for Best Picture, The Reader, Milk, Kate Winslet, Sean Penn_
+_Context: Academy Award, Academy Awards, Academy Award for Best Director, Milk, Sean Penn, Academy Award for Best Actor, The Reader, Kate Winslet, Danny Boyle, Academy Award for Best Picture, Slumdog Millionaire_
 
 ##### Bomb
 ### [ A bomb kills one person and injures 20 others in the Khan el-Khalili souq of Cairo, Egypt. ](/news/2009/02/22/a-bomb-kills-one-person-and-injures-20-others-in-the-khan-el-khalili-souq-of-cairo-egypt.md)
@@ -13,11 +13,11 @@ A bomb killed a French teenager and wounded at least 20 other people in a crowde
 
 ##### Al-Shabaab
 ### [ An Al-Shabaab suicide attack kills at least 11 and injures 15 more Burundian peacekeepers on an African Union military base in Mogadishu, Somalia. ](/news/2009/02/22/an-al-shabaab-suicide-attack-kills-at-least-11-and-injures-15-more-burundian-peacekeepers-on-an-african-union-military-base-in-mogadishu-s.md)
-_Context: Somalia, Al-Shabaab, African Union, suicide attack, Mogadishu, military base, Burundi, peacekeepers_
+_Context: Burundi, military base, Somalia, peacekeepers, Al-Shabaab, suicide attack, Mogadishu, African Union_
 
 ##### Greece
 ### [ Greek convicts Vassilis Paleokostas and Alket Rizai escape from Athens' Korydallos Prison via a helicopter. ](/news/2009/02/22/greek-convicts-vassilis-paleokostas-and-alket-rizai-escape-from-athens-korydallos-prison-via-a-helicopter.md)
-_Context: Vassilis Paleokostas, Greece, Korydallos Prison, convicted, escape, Athens_
+_Context: convicted, Athens, Vassilis Paleokostas, Korydallos Prison, escape, Greece_
 
 ##### Iraq
 ### [ Iraq's Abu Ghraib prison reopens under the new name Baghdad Central Prison. ](/news/2009/02/22/iraq-s-abu-ghraib-prison-reopens-under-the-new-name-baghdad-central-prison.md)
@@ -25,31 +25,31 @@ _Context: Baghdad Central Prison, Iraq_
 
 ##### Vietnam
 ### [ Vietnamese Prime Minister Nguyen TCNYn Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taocnyn-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md)
-_Context: Vietnam, oil refinery, prime minister, Nguyen TCNYn Dung, first_
+_Context: prime minister, oil refinery, first, Vietnam, Nguyen TCNYn Dung_
 
 ##### Miner
 ### [ At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. ](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.md)
-_Context: China, explosion, coal mine, Shanxi province, Gujiao, miner_
+_Context: Shanxi province, China, Gujiao, explosion, coal mine, miner_
 
 ##### Australia
 ### [ Australia holds a national day of mourning for the 209 confirmed victims of recent bushfires in Victoria. ](/news/2009/02/22/australia-holds-a-national-day-of-mourning-for-the-209-confirmed-victims-of-recent-bushfires-in-victoria.md)
-_Context: national day of mourning, Australia, Victoria, recent bushfires_
+_Context: recent bushfires, Australia, Victoria, national day of mourning_
 
 ##### LTTE
 ### [ The Tamil Tigers kill 10 people in Kirimetiyagara, Sri Lanka. ](/news/2009/02/22/the-tamil-tigers-kill-10-people-in-kirimetiyagara-sri-lanka.md)
-_Context: Sri Lankan Civil War, Kirimetiyagara, LTTE, Sri Lanka_
+_Context: Kirimetiyagara, Sri Lankan Civil War, LTTE, Sri Lanka_
 
 ##### Outbreak
 ### [ An outbreak of hepatitis B in Gujarat, India, kills at least 38 people. ](/news/2009/02/22/an-outbreak-of-hepatitis-b-in-gujarat-india-kills-at-least-38-people.md)
-_Context: India, outbreak, hepatitis B, Gujarat_
+_Context: Gujarat, outbreak, India, hepatitis B_
 
 ##### Somalia
 ### [ Somali pirates hijack Greece's MV "Saldanha" in the Gulf of Aden. ](/news/2009/02/22/somali-pirates-hijack-greece-s-mv-saldanha-in-the-gulf-of-aden.md)
-_Context: Somalia, Gulf of Aden, MV, Greece, Somali pirates_
+_Context: Somalia, Somali pirates, MV, Gulf of Aden, Greece_
 
 ##### European Council
 ### [ The European Council meets in Berlin, Germany, to discuss the current economic crisis. ](/news/2009/02/22/the-european-council-meets-in-berlin-germany-to-discuss-the-current-economic-crisis.md)
-_Context: European Council, Berlin, German, current financial crisis_
+_Context: Berlin, European Council, German, current financial crisis_
 
 ## [Previous Day...](/news/2009/02/21/index.md)
 

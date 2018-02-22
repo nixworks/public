@@ -9,7 +9,7 @@ Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials 
 
 ##### Hilary Mantel
 ### [Hilary Mantel is awarded the 2013 David Cohen Prize for literature. ](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.md)
-_Context: literature, Hilary Mantel, David Cohen Prize_
+_Context: literature, David Cohen Prize, Hilary Mantel_
 
 ##### Gas explosion
 ### [Six people are injured and four more could be hospitalized (none are believed critically injured) after a gas explosion at American Steel (part of Amsted Rail Co.), in the Greater St. Louis Metro East suburb of Granite City, Illinois. ](/news/2013/03/7/six-people-are-injured-and-four-more-could-be-hospitalized-none-are-believed-critically-injured-after-a-gas-explosion-at-american-steel-p.md)
@@ -21,7 +21,7 @@ North Korea threatened the United States on Thursday with a preemptive nuclear s
 
 ##### Italy
 ### [Former Italian Prime Minister Silvio Berlusconi is convicted of arranging an illegal wiretap and is sentenced to a year in jail. ](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.md)
-_Context: Silvio Berlusconi, Italy, wiretap, Italian Prime Minister_
+_Context: Italian Prime Minister, wiretap, Silvio Berlusconi, Italy_
 
 ##### Vicky Pryce
 ### [Vicky Pryce, ex-wife of former UK Cabinet Minister Chris Huhne is convicted of perverting the course of justice after accepting speeding penalty points on Huhne's behalf. ](/news/2013/03/7/vicky-pryce-ex-wife-of-former-uk-cabinet-minister-chris-huhne-is-convicted-of-perverting-the-course-of-justice-after-accepting-speeding-pen.md)
@@ -33,15 +33,15 @@ Hilton Botha, the former lead detective in the murder case involving Paralympian
 
 ##### Sulaiman Abu Ghaith
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: al-Qaeda, United States, Sulaiman Abu Ghaith, Jordan, Osama bin Laden_
+_Context: United States, Jordan, Osama bin Laden, al-Qaeda, Sulaiman Abu Ghaith_
 
 ##### Denis Napthine
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
-_Context: Ted Baillieu, Victoria, Australia, Premier, Denis Napthine_
+_Context: Ted Baillieu, Australia, Premier, Denis Napthine, Victoria_
 
 ##### Kenya
 ### [In Kenya, Kalonzo Musyoka, the running mate of Prime Minister Raila Odinga, claims that votes in the Kenyan presidential election have been doctored. ](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.md)
-_Context: Prime Minister, Kenya, Kenyan presidential election, running mate, Raila Odinga, Kalonzo Musyoka_
+_Context: Kalonzo Musyoka, Kenya, Kenyan presidential election, running mate, Prime Minister, Raila Odinga_
 
 ##### United States
 ### [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md)

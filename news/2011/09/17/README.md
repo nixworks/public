@@ -17,15 +17,15 @@ _Context: Friday's Reno air crash, NTSB_
 
 ##### North American T-28 Trojan
 ### [A North American T-28 Trojan crashes at an air show at the Eastern WV Regional Airport near Martinsburg, West Virginia, killing the pilot. ](/news/2011/09/17/a-north-american-t-28-trojan-crashes-at-an-air-show-at-the-eastern-wv-regional-airport-near-martinsburg-west-virginia-killing-the-pilot.md)
-_Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North American T-28 Trojan_
+_Context: Martinsburg, West Virginia, Eastern WV Regional Airport, North American T-28 Trojan_
 
 ##### Earthquake
 ### [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md)
-_Context: earthquake, Honshu Island, Japan, aftershock_
+_Context: Japan, aftershock, Honshu Island, earthquake_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Cambodia, Prime Minister, Preah Vihear Temple, Thaksin Shinawatra, government of Cambodia_
+_Context: Prime Minister, Preah Vihear Temple, Cambodia, government of Cambodia, Thaksin Shinawatra_
 
 ##### Finland
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
@@ -37,11 +37,11 @@ More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
 ##### United States
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: Wall Street, corporate dominance, United States, Arab Spring, super-rich, Occupy Wall Street_
+_Context: Arab Spring, United States, Wall Street, super-rich, Occupy Wall Street, corporate dominance_
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
-_Context: parliamentary election, Latvia_
+_Context: Latvia, parliamentary election_
 
 ## [Previous Day...](/news/2011/09/16/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/16/index.html)  [JSON](2017/11/16/index.json)  [XML](201
 
 ##### South Sudanese Civil War
 ### [Rival factions within the ruling Sudan People's Liberation Movement sign the "Declaration of Unification" in Cairo, Egypt. ](/news/2017/11/16/rival-factions-within-the-ruling-sudan-people-s-liberation-movement-sign-the-declaration-of-unification-in-cairo-egypt.md)
-_Context: Sudan People's Liberation Movement, South Sudanese Civil War, Cairo_
+_Context: South Sudanese Civil War, Cairo, Sudan People's Liberation Movement_
 
 ##### Northern Rakhine State clashes
 ### [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md)
@@ -13,11 +13,11 @@ The Burmese military’s barbaric acts of violence have left countless women and
 
 ##### Economy of Venezuela
 ### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
-_Context: Economy of Venezuela, PDVSA, Venezuela_
+_Context: Venezuela, Economy of Venezuela, PDVSA_
 
 ##### Crime in the United States
 ### [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md)
-_Context: Florida, Crime in the United States, Bob Menendez, United States Senate, ophthalmologist_
+_Context: United States Senate, Crime in the United States, Florida, ophthalmologist, Bob Menendez_
 
 ##### Politics of Cambodia
 ### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)

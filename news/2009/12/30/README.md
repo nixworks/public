@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/30/index.html)  [JSON](2009/12/30/index.json)  [XML](200
 
 ##### United States
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: CIA, Afghan, suicide bomb, Khost, Blackwater Worldwide, United States_
+_Context: Khost, CIA, Blackwater Worldwide, United States, suicide bomb, Afghan_
 
 ##### Canada
 ### [ Four Canadian soldiers and a journalist, Michelle Lang of the "Calgary Herald, "are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanistan.md)
@@ -25,15 +25,15 @@ A British hostage has been freed after more than two-and-a-half years in captivi
 
 ##### President of Indonesia
 ### [ Former President of Indonesia Abdurrahman Wahid dies at the age of 69. ](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.md)
-_Context: President of Indonesia, Abdurrahman Wahid, Indonesia_
+_Context: Abdurrahman Wahid, Indonesia, President of Indonesia_
 
 ##### Nigeria
 ### [ The death toll in clashes in the northern Nigerian state of Bauchi rises to 70, with 1,000 displaced. ](/news/2009/12/30/the-death-toll-in-clashes-in-the-northern-nigerian-state-of-bauchi-rises-to-70-with-1-000-displaced.md)
-_Context: Bauchi State, Nigeria_
+_Context: Nigeria, Bauchi State_
 
 ##### Taiwan
 ### [ Taiwan announces plans to reimpose a ban on certain U.S. beef products amid concerns over mad cow disease. ](/news/2009/12/30/taiwan-announces-plans-to-reimpose-a-ban-on-certain-u-s-beef-products-amid-concerns-over-mad-cow-disease.md)
-_Context: Taiwan, mad cow disease, United States_
+_Context: United States, mad cow disease, Taiwan_
 
 ##### Australia
 ### [ The Australian government predicts a 20% fall in the number of Indian students studying in the country, due to a series of racist attacks earlier this year. ](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.md)
@@ -41,7 +41,7 @@ New figures show there will be 4,000 fewer Indian nationals coming to Australia 
 
 ##### Iran
 ### [ Thousands of pro-government supporters in Iran demonstrate against recent anti-government protests on Ashura. ](/news/2009/12/30/thousands-of-pro-government-supporters-in-iran-demonstrate-against-recent-anti-government-protests-on-ashura.md)
-_Context: Ashura, anti-government protests, Iran_
+_Context: Iran, anti-government protests, Ashura_
 
 ##### China
 ### [ A senior Chinese admiral says the country may build its first foreign naval base in the Middle East. ](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.md)
@@ -49,7 +49,7 @@ China&#039;s rapidly-expanding navy is considering building its first foreign na
 
 ##### Bushfire
 ### [ Bushfires consume 13,400 hectares (33,000 acres) of land and destroy at least 37 homes near Toodyay, northeast of Perth, Western Australia. ](/news/2009/12/30/bushfires-consume-13-400-hectares-33-000-acres-of-land-and-destroy-at-least-37-homes-near-toodyay-northeast-of-perth-western-australia.md)
-_Context: Toodyay, Perth, Bushfire, Western Australia_
+_Context: Perth, Western Australia, Bushfire, Toodyay_
 
 ##### Italy
 ### [ Police in Italy locate a wooden toy guitar sculpture which co-founder of Cubism Pablo Picasso made for his daughter Paloma. ](/news/2009/12/30/police-in-italy-locate-a-wooden-toy-guitar-sculpture-which-co-founder-of-cubism-pablo-picasso-made-for-his-daughter-paloma.md)

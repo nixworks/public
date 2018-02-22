@@ -9,11 +9,11 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
-_Context: Afghan, Taliban, Taliban insurgency_
+_Context: Taliban insurgency, Taliban, Afghan_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Supreme Court of the Philippines, peace treaty, his predecessor, Zulkifli Abdhir, Philippine National Police, peace deal, President, Chief Justice, January 25 botched police operation, Philippines, Filipino Muslims, Moro insurgency in the Philippines, Maria Lourdes Sereno_
+_Context: Zulkifli Abdhir, January 25 botched police operation, peace treaty, Filipino Muslims, peace deal, Maria Lourdes Sereno, Supreme Court of the Philippines, Moro insurgency in the Philippines, President, Philippine National Police, his predecessor, Philippines, Chief Justice_
 
 ##### Iraqi insurgency (2011-present)
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
@@ -29,7 +29,7 @@ Yemeni officials said that Houthis have captured a camp south of the capital, wh
 
 ##### Paraguayan People's Army
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
-_Context: German, Paraguayan People's Army, Paraguay_
+_Context: Paraguay, Paraguayan People's Army, German_
 
 ##### Philippine economy
 ### [The Philippine economy grew by more than 6% in 2014 making it the second fastest growing economy in Asia after China. This is the longest sustained growth period in the country since the 1950s. ](/news/2015/01/29/the-philippine-economy-grew-by-more-than-6-in-2014-making-it-the-second-fastest-growing-economy-in-asia-after-china-this-is-the-longest-su.md)

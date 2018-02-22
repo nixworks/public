@@ -25,19 +25,19 @@ KEEP us bookmarked through the day for rolling coverage of the winners, losers a
 
 ##### Sergey Lavrov
 ### [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md)
-_Context: Ukrainian President, Sergey Lavrov, Russia, Petro Poroshenko_
+_Context: Sergey Lavrov, Petro Poroshenko, Russia, Ukrainian President_
 
 ##### Prime Minister
 ### [The Prime Minister of France Manuel Valls presents President Francois Hollande with the resignation of the cabinet, with a new cabinet to be appointed tomorrow. ](/news/2014/08/25/the-prime-minister-of-france-manuel-valls-presents-president-franassois-hollande-with-the-resignation-of-the-cabinet-with-a-new-cabinet-to-b.md)
-_Context: Prime Minister, French President, Manuel Valls, Francois Hollande_
+_Context: Francois Hollande, Prime Minister, French President, Manuel Valls_
 
 ##### Ukrainian President
 ### [The President of Ukraine Petro Poroshenko dissolves the Parliament and calls new elections for October 26. ](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.md)
-_Context: Petro Poroshenko, parliament, Ukrainian President_
+_Context: Ukrainian President, parliament, Petro Poroshenko_
 
 ##### Miro Cerar
 ### [Miro Cerar is appointed Prime minister-designate by the Slovenian National Assembly. ](/news/2014/08/25/miro-cerar-is-appointed-prime-minister-designate-by-the-slovenian-national-assembly.md)
-_Context: Prime minister-designate, Slovenian National Assembly, Miro Cerar_
+_Context: Slovenian National Assembly, Miro Cerar, Prime minister-designate_
 
 ## [Previous Day...](/news/2014/08/24/index.md)
 

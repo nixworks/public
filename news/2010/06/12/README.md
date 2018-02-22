@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/12/index.html)  [JSON](2010/06/12/index.json)  [XML](201
 
 ##### Arkansas
 ### [The death toll from the Arkansas floods reaches 18. ](/news/2010/06/12/the-death-toll-from-the-arkansas-floods-reaches-18.md)
-_Context: floods, Arkansas_
+_Context: Arkansas, floods_
 
 ##### Ogaden National Liberation Front
 ### [The Ogaden National Liberation Front (ONLF) says the government of Ethiopia killed 71 civilians in a military operation last month. ](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.md)
@@ -13,7 +13,7 @@ Ethiopia rejects claim by rebel group that government forces killed 71 civilians
 
 ##### Roza Otunbayeva
 ### [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md)
-_Context: Kyrgyzstan, Osh, president, Russia, Roza Otunbayeva_
+_Context: Roza Otunbayeva, Russia, Kyrgyzstan, Osh, president_
 
 ##### Re-election
 ### [The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-the-oppo.md)
@@ -37,31 +37,31 @@ The Cuban government is releasing an ailing political prisoner and transferring 
 
 ##### New Zealand
 ### [New Zealand's police find at least thirteen girls aged 12-16 who work as "active prostitutes" in the "young red light area" in Auckland's CBD. ](/news/2010/06/12/new-zealand-s-police-find-at-least-thirteen-girls-aged-12-16-who-work-as-active-prostitutes-in-the-young-red-light-area-in-auckland-s-cb.md)
-_Context: Auckland, CBD, young red light area, prostitute, New Zealand_
+_Context: young red light area, Auckland, New Zealand, prostitute, CBD_
 
 ##### Teacher
 ### [A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. ](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-and-a-teacher-in-a-knife-rampage-in-south-china-in-april-is-sentenced-to-death.md)
-_Context: south China, teacher_
+_Context: teacher, south China_
 
 ##### European Union
 ### [The European Union promises EUR500 million towards the 2010-11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
-_Context: East Africa, Kenya, European Union_
+_Context: Kenya, East Africa, European Union_
 
 ##### Buddhist monks
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
-_Context: Gautama Buddha, Jiangsu Province, Buddhist monks, Buddhists_
+_Context: Gautama Buddha, Buddhist monks, Jiangsu Province, Buddhists_
 
 ##### United Kingdom
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: United Kingdom, Deepwater Horizon oil spill, Barack Obama, U.S. President, Prime Minister, David Cameron_
+_Context: Deepwater Horizon oil spill, Barack Obama, U.S. President, David Cameron, United Kingdom, Prime Minister_
 
-##### France
+##### French
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: United States, Southern Ocean, teenage, France, Abby Sunderland, sailor, fishing boat_
+_Context: teenage, sailor, fishing boat, French, Abby Sunderland, Southern Ocean, United States_
 
 ##### Pilots
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
-_Context: Spirit Airlines, strike, Pilots, low-cost carrier, United States_
+_Context: Spirit Airlines, low-cost carrier, United States, strike, Pilots_
 
 ## [Previous Day...](/news/2010/06/11/index.md)
 

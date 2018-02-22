@@ -21,11 +21,11 @@ NTSB officials arrive to begin investigating crash at Wichita airport that kille
 
 ##### Sweden
 ### [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md)
-_Context: Israel, officially recognises, sovereign state, Sweden, Palestine_
+_Context: sovereign state, Sweden, Israel, officially recognises, Palestine_
 
 ##### Eric Frein
 ### [Eric Frein, wanted in the American state of Pennsylvania for the 2014 Pennsylvania State Police barracks attack that killed one officer and injured another, is taken into custody. ](/news/2014/10/30/eric-frein-wanted-in-the-american-state-of-pennsylvania-for-the-2014-pennsylvania-state-police-barracks-attack-that-killed-one-officer-and.md)
-_Context: Pennsylvania, Eric Frein, 2014 Pennsylvania State Police barracks attack_
+_Context: 2014 Pennsylvania State Police barracks attack, Eric Frein, Pennsylvania_
 
 ##### Thomas Menino
 ### [Thomas Menino, former mayor of Boston, Massachusetts, and the longest-serving mayor in the city's history, dies of cancer at the age of 71. ](/news/2014/10/30/thomas-menino-former-mayor-of-boston-massachusetts-and-the-longest-serving-mayor-in-the-city-s-history-dies-of-cancer-at-the-age-of-71.md)

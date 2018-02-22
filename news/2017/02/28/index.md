@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/28/index.html)  [JSON](2017/02/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md)
-_Context: War in Afghanistan (2015-present), Helmand Province, Taliban, police_
+_Context: police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ##### Gaza-Israel conflict
 ### [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md)
@@ -13,7 +13,7 @@ At least four Palestinians have reportedly been wounded in Gaza after the Israel
 
 ##### The Hershey Company
 ### [The Hershey Company announces it will cut about 15 percent of its global workforce (~2,700 jobs) to return its international businesses to profitability as quickly as possible. The layoffs will have a greater impact on the international workforce. ](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.md)
-_Context: The Hershey Company, layoff_
+_Context: layoff, The Hershey Company_
 
 ##### Riverside, California
 ### [A small plane crashes in a residential area of Riverside, California, killing at least three people, all of whom were passengers on the plane. No one on the ground was injured. ](/news/2017/02/28/a-small-plane-crashes-in-a-residential-area-of-riverside-california-killing-at-least-three-people-all-of-whom-were-passengers-on-the-plan.md)
@@ -45,7 +45,7 @@ _Context: Royal Thai Government_
 
 ##### Presidency of Donald Trump
 ### [The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md)
-_Context: Presidency of Donald Trump, United States military personnel_
+_Context: United States military personnel, Presidency of Donald Trump_
 
 ## [Previous Day...](/news/2017/02/27/index.md)
 

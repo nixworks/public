@@ -9,27 +9,27 @@ The clash started after the Pakistanis fired shots or flares at two American hel
 
 ##### Congress
 ### [ Senior members of the United States Congress agree on a legislative deal to bail out the U.S. financial system from lingering effects of the subprime mortgage crisis. ](/news/2008/09/25/senior-members-of-the-united-states-congress-agree-on-a-legislative-deal-to-bail-out-the-u-s-financial-system-from-lingering-effects-of-th.md)
-_Context: Congress, subprime mortgage crisis, Emergency Economic Stabilization Act_
+_Context: Congress, Emergency Economic Stabilization Act, subprime mortgage crisis_
 
 ##### Texas Supreme Court
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
-_Context: Texas Supreme Court, John McCain, Barack Obama, Bob Barr_
+_Context: Bob Barr, John McCain, Barack Obama, Texas Supreme Court_
 
 ##### Barack Obama
 ### [ An effigy of Barack Obama is found hanging from a tree at George Fox University in Newberg, Oregon. ](/news/2008/09/25/an-effigy-of-barack-obama-is-found-hanging-from-a-tree-at-george-fox-university-in-newberg-oregon.md)
-_Context: George Fox University, Newberg, Barack Obama, Oregon_
+_Context: Oregon, George Fox University, Newberg, Barack Obama_
 
 ##### Canada
 ### [ A young Canadian man is found guilty in the 2006 Toronto terrorism case of participating in a plot to storm the Parliament of Canada and behead the Prime Minister of Canada, Stephen Harper. ](/news/2008/09/25/a-young-canadian-man-is-found-guilty-in-the-2006-toronto-terrorism-case-of-participating-in-a-plot-to-storm-the-parliament-of-canada-and-be.md)
-_Context: 2006 Toronto terrorism case, behead, Prime Minister of Canada, Stephen Harper, Parliament of Canada, Canada_
+_Context: Parliament of Canada, Stephen Harper, behead, Prime Minister of Canada, Canada, 2006 Toronto terrorism case_
 
 ##### Jobless
 ### [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md)
-_Context: Jobless, United States, durable goods, United States economy_
+_Context: durable goods, United States, Jobless, United States economy_
 
 ##### British Energy
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
-_Context: Electricit de France, Hinkley Point C nuclear power station, British Energy_
+_Context: Electricit de France, British Energy, Hinkley Point C nuclear power station_
 
 ##### Typhoon Hagupit
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)
@@ -37,7 +37,7 @@ _Context: Philippines, Typhoon Hagupit, China_
 
 ##### Kgalema Motlanthe
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)
-_Context: Kgalema Motlanthe, President of South Africa, apartheid_
+_Context: President of South Africa, apartheid, Kgalema Motlanthe_
 
 ##### Dark flow
 ### [ Dark flow, a new and unexplained cosmic phenomenon, is observed by astronomers for the first time. ](/news/2008/09/25/dark-flow-a-new-and-unexplained-cosmic-phenomenon-is-observed-by-astronomers-for-the-first-time.md)

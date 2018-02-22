@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/20/index.html)  [JSON](2012/10/20/index.json)  [XML](201
 
 ##### Syrian civil war
 ### [Syrian civil war: UN and Arab League special envoy Lakhdar Brahimi meets with Syrian Foreign Minister Walid Muallem in Damascus in an attempt to push for a temporary ceasefire during next week's Eid al-Adha holiday. ](/news/2012/10/20/syrian-civil-war-un-and-arab-league-special-envoy-lakhdar-brahimi-meets-with-syrian-foreign-minister-walid-muallem-in-damascus-in-an-attemp.md)
-_Context: Walid Muallem, Damascus, Lakhdar Brahimi, Syrian civil war, Foreign Minister, Eid al-Adha_
+_Context: Walid Muallem, Foreign Minister, Lakhdar Brahimi, Eid al-Adha, Damascus, Syrian civil war_
 
 ##### Muammar Gaddafi
 ### [Authorities in Tripoli announce the capture of Muammar Gaddafi's former spokesman Moussa Ibrahim near the town of Tarhouna, 40 miles south of the capital Tripoli. Ibrahim's whereabouts had been unknown since the end of the civil war in 2011 and there had been several earlier reports of his arrest. Hours later an audio message purported to be by Ibrahim appears online, in which he denies being captured or even being in Libya. ](/news/2012/10/20/authorities-in-tripoli-announce-the-capture-of-muammar-gaddafi-s-former-spokesman-moussa-ibrahim-near-the-town-of-tarhouna-40-miles-south-o.md)
@@ -13,7 +13,7 @@ A senior Libyan official casts doubt on an earlier statement that Moussa Ibrahim
 
 ##### United Nations Security Council
 ### [The United Nations Security Council announces plans to impose sanctions on the leaders of Democratic Republic of the Congo's M23 rebel movement due to violations of an arms embargo. ](/news/2012/10/20/the-united-nations-security-council-announces-plans-to-impose-sanctions-on-the-leaders-of-democratic-republic-of-the-congo-s-m23-rebel-movem.md)
-_Context: M23, United Nations Security Council, DR Congo_
+_Context: United Nations Security Council, M23, DR Congo_
 
 ##### Boko Haram
 ### [Suspected members of Boko Haram attack the northern Nigerian city of Potiskum, destroying several buildings and leaving at least 23 locals dead. ](/news/2012/10/20/suspected-members-of-boko-haram-attack-the-northern-nigerian-city-of-potiskum-destroying-several-buildings-and-leaving-at-least-23-locals-d.md)

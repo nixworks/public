@@ -17,7 +17,7 @@ A bomb attached to a motorbike exploded near a police station in southwest Istan
 
 ##### Niger
 ### [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md)
-_Context: Niger, Tahoua Region, Nigerien soldiers_
+_Context: Tahoua Region, Niger, Nigerien soldiers_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md)

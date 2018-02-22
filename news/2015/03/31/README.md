@@ -17,7 +17,7 @@ The company said Andreas Lubitz, thought to have intentionally crashed a Germanw
 
 ##### Nature Neuroscience
 ### [The journal Nature Neuroscience publishes research from Columbia University Medical School that finds that wage income of parents correlates with brain complexity in their children. ](/news/2015/03/31/the-journal-nature-neuroscience-publishes-research-from-columbia-university-medical-school-that-finds-that-wage-income-of-parents-correlates.md)
-_Context: Nature Neuroscience, Columbia University Medical School, correlates_
+_Context: Columbia University Medical School, Nature Neuroscience, correlates_
 
 ##### Malaysia
 ### [A Malaysian court finds a local man guilty of the murder of two British students in Borneo in 2014. ](/news/2015/03/31/a-malaysian-court-finds-a-local-man-guilty-of-the-murder-of-two-british-students-in-borneo-in-2014.md)
@@ -33,7 +33,7 @@ A Turkish prosecutor and two gunmen who took him hostage have been killed after 
 
 ##### Bucharest
 ### [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md)
-_Context: Bucharest, Romania_
+_Context: Romania, Bucharest_
 
 ##### Nigerian general election, 2015
 ### [Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-all-progressives-congress-as-the-ne.md)

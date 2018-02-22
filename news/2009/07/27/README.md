@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/27/index.html)  [JSON](2009/07/27/index.json)  [XML](200
 
 ##### Gloria Macapagal-Arroyo
 ### [ President Gloria Macapagal-Arroyo delivers her last State of the Nation Address and denies plans to extend her term which end in June 2010 as plans to convene a constituent assembly to amend the constitution erupts. ](/news/2009/07/27/president-gloria-macapagal-arroyo-delivers-her-last-state-of-the-nation-address-and-denies-plans-to-extend-her-term-which-end-in-june-2010.md)
-_Context: State of the Nation Address, Gloria Macapagal-Arroyo, constituent assembly_
+_Context: Gloria Macapagal-Arroyo, constituent assembly, State of the Nation Address_
 
 ##### A line of wildfires
 ### [ A line of wildfires in the Mediterranean region, which has killed eight people, spreads to Croatia. ](/news/2009/07/27/a-line-of-wildfires-in-the-mediterranean-region-which-has-killed-eight-people-spreads-to-croatia.md)
@@ -25,23 +25,23 @@ China is bringing 150 senior officials, including nearly its whole Cabinet, to t
 
 ##### Liberia
 ### [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md)
-_Context: Liberia, cannibalism, The Hague, Charles Taylor_
+_Context: cannibalism, Liberia, The Hague, Charles Taylor_
 
 ##### Eastern Cape
 ### [ A rural community in the Eastern Cape in South Africa lays claim to the entire town of Mthatha in one of the biggest land restitution cases since the end of apartheid. ](/news/2009/07/27/a-rural-community-in-the-eastern-cape-in-south-africa-lays-claim-to-the-entire-town-of-mthatha-in-one-of-the-biggest-land-restitution-cases.md)
-_Context: apartheid, Eastern Cape, South Africa, Mthatha_
+_Context: apartheid, Mthatha, Eastern Cape, South Africa_
 
 ##### Patriarch Kirill
 ### [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md)
-_Context: Ukraine, Russian, Patriarch Kirill_
+_Context: Ukraine, Patriarch Kirill, Russian_
 
-##### France
+##### French
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)
 French President Nicolas Sarkozy has left hospital after tests confirmed that his collapse was unrelated to any heart problem.
 
 ##### German
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
-_Context: Spain, German, Alicante, health minister, Ulla Schmidt_
+_Context: Spain, German, Ulla Schmidt, health minister, Alicante_
 
 ##### Sex
 ### [ A Saudi man facing flogging or imprisonment for speaking of his illegal sexual conquests on television apologises for his actions. ](/news/2009/07/27/a-saudi-man-facing-flogging-or-imprisonment-for-speaking-of-his-illegal-sexual-conquests-on-television-apologises-for-his-actions.md)
@@ -53,15 +53,15 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)
-_Context: barcode, bokode_
+_Context: bokode, barcode_
 
 ##### United Kingdom
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: United Kingdom, Taliban, Helmand Province, Operation Panther's Claw, Afghan_
+_Context: Helmand Province, Afghan, Operation Panther's Claw, United Kingdom, Taliban_
 
 ##### Albania
 ### [ Albanian Prime Minister Sali Berisha's alliance wins enough seats to form a government, though it fell one seat short of a majority. ](/news/2009/07/27/albanian-prime-minister-sali-berisha-s-alliance-wins-enough-seats-to-form-a-government-though-it-fell-one-seat-short-of-a-majority.md)
-_Context: Albania, Sali Berisha, Prime Minister_
+_Context: Albania, Prime Minister, Sali Berisha_
 
 ## [Previous Day...](/news/2009/07/26/index.md)
 

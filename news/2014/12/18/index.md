@@ -25,7 +25,7 @@ The European Union banned investment in Crimea on Thursday, halting European hel
 
 ##### Death of Jennifer Laude
 ### [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md)
-_Context: United States, U.S. Marine, Death of Jennifer Laude, Philippines, murder_
+_Context: murder, Philippines, U.S. Marine, United States, Death of Jennifer Laude_
 
 ##### Death Penalty Information Center
 ### [The Death Penalty Information Center states that thirty-five people have been executed in the United States in 2014, marking it the fewest number within two decades. ](/news/2014/12/18/the-death-penalty-information-center-states-that-thirty-five-people-have-been-executed-in-the-united-states-in-2014-marking-it-the-fewest-n.md)
@@ -37,7 +37,7 @@ _Context: US District Court for South Carolina, George Stinney, Jr._
 
 ##### Spanish politicians
 ### [Spanish police arrest thirteen more people, bringing the total now to more than seventy since the November 30th football fan brawl, which resulted in one death, before the Atletico Madrid&ndash;Deportivo La Corua match started in Madrid's Vicente Calderon Stadium. ](/news/2014/12/18/spanish-police-arrest-thirteen-more-people-bringing-the-total-now-to-more-than-seventy-since-the-november-30th-football-fan-brawl-which-re.md)
-_Context: Atletico Madrid, Spanish politicians, football, Vicente Calderon Stadium, Deportivo La Corua_
+_Context: Vicente Calderon Stadium, football, Atletico Madrid, Spanish politicians, Deportivo La Corua_
 
 ## [Previous Day...](/news/2014/12/17/index.md)
 

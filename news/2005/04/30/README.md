@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Severo Moto
 ### [ Severo Moto, exiled politician from Equatorial Guinea, reappears in Spain. He says that he survived an assassination attempt in Croatia. ](/news/2005/04/30/severo-moto-exiled-politician-from-equatorial-guinea-reappears-in-spain-he-says-that-he-survived-an-assassination-attempt-in-croatia.md)
-_Context: Severo Moto, Equatorial Guinea, assassination, Spain, Croatia_
+_Context: Croatia, assassination, Spain, Severo Moto, Equatorial Guinea_
 
 ## [Previous Day...](/news/2005/04/29/index.md)
 

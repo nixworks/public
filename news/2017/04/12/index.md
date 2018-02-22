@@ -17,11 +17,11 @@ The dollar fell broadly on Wednesday after U.S. President Donald Trump said the 
 
 ##### Sheila Abdus-Salaam
 ### [Sheila Abdus-Salaam, an incumbent associate judge of the New York Court of Appeals and the first African-American woman to serve on the Court of Appeals is found dead in the Hudson River. ](/news/2017/04/12/sheila-abdus-salaam-an-incumbent-associate-judge-of-the-new-york-court-of-appeals-and-the-first-african-american-woman-to-serve-on-the-cour.md)
-_Context: Sheila Abdus-Salaam, Hudson River, New York Court of Appeals_
+_Context: New York Court of Appeals, Hudson River, Sheila Abdus-Salaam_
 
 ##### Re-elected
 ### [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md)
-_Context: President, Mahmoud Ahmadinejad, re-elected_
+_Context: Mahmoud Ahmadinejad, President, re-elected_
 
 ##### Protests in South Africa
 ### [Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md)

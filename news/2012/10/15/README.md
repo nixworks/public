@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/15/index.html)  [JSON](2012/10/15/index.json)  [XML](201
 
 ##### Syrian civil war
 ### [Syrian civil war: An Armenian plane destined for the Syrian city of Aleppo is searched by Turkish authorities after being grounded in the east of the country. ](/news/2012/10/15/syrian-civil-war-an-armenian-plane-destined-for-the-syrian-city-of-aleppo-is-searched-by-turkish-authorities-after-being-grounded-in-the-ea.md)
-_Context: Syrian civil war, Armenia, Aleppo, Turkey_
+_Context: Turkey, Armenia, Aleppo, Syrian civil war_
 
 ##### Malala Yousafzai
 ### [Internationally celebrated teenage activist Malala Yousafzai is sent to the UK for further treatment after being shot in the head by a Taliban gunman. ](/news/2012/10/15/internationally-celebrated-teenage-activist-malala-yousafzai-is-sent-to-the-uk-for-further-treatment-after-being-shot-in-the-head-by-a-talib.md)
@@ -45,7 +45,7 @@ Norodom Sihanouk, the former Cambodian king who was a key figure through decades
 
 ##### Prime Minister
 ### [British Prime Minister David Cameron and Scottish First Minister Alex Salmond agree a deal setting out the terms of a referendum on Scottish independence at a meeting in Edinburgh. ](/news/2012/10/15/british-prime-minister-david-cameron-and-scottish-first-minister-alex-salmond-agree-a-deal-setting-out-the-terms-of-a-referendum-on-scottish.md)
-_Context: Alex Salmond, First Minister, Prime Minister, independence referendum, deal, Edinburgh, David Cameron_
+_Context: Edinburgh, David Cameron, deal, Alex Salmond, independence referendum, Prime Minister, First Minister_
 
 ##### Virgin Trains
 ### [Virgin Trains is asked to continue running the rail franchise for UK's West Coast Main Line following the cancellation of a deal to award the contract to another company when errors were made in the way in which the process was conducted. ](/news/2012/10/15/virgin-trains-is-asked-to-continue-running-the-rail-franchise-for-uk-s-west-coast-main-line-following-the-cancellation-of-a-deal-to-award-th.md)

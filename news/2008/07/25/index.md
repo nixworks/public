@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/25/index.html)  [JSON](2008/07/25/index.json)  [XML](200
 
 ##### Dennis Kucinich
 ### [ Congressman Dennis Kucinich (D-Ohio) presents the articles for the impeachment of President George W. Bush to the U.S. House Judiciary Committee. ](/news/2008/07/25/congressman-dennis-kucinich-d-ohio-presents-the-articles-for-the-impeachment-of-president-george-w-bush-to-the-u-s-house-judiciary-comm.md)
-_Context: U.S. House Judiciary Committee, Dennis Kucinich, impeachment of President George W. Bush_
+_Context: Dennis Kucinich, U.S. House Judiciary Committee, impeachment of President George W. Bush_
 
 ##### Seven bomb blasts
 ### [ A series of seven bomb blasts rock Bangalore, India, killing 2 and injuring 20. ](/news/2008/07/25/a-series-of-seven-bomb-blasts-rock-bangalore-india-killing-2-and-injuring-20.md)
@@ -13,7 +13,7 @@ Terrorists, on Friday, triggered eight serial blasts in 35 minutes at seven plac
 
 ##### Qantas Flight 30
 ### [ Qantas Flight 30 makes an emergency landing in Manila after an unknown event causes a hole in the plane. ](/news/2008/07/25/qantas-flight-30-makes-an-emergency-landing-in-manila-after-an-unknown-event-causes-a-hole-in-the-plane.md)
-_Context: Qantas Flight 30, Metro Manila_
+_Context: Metro Manila, Qantas Flight 30_
 
 ##### Google
 ### [ Google announces that it has indexed over 1 trillion unique web pages. ](/news/2008/07/25/google-announces-that-it-has-indexed-over-1-trillion-unique-web-pages.md)
@@ -21,7 +21,7 @@ _Context: indexed, Google_
 
 ##### Kapiliele Faupala
 ### [ Kapiliele Faupala is crowned the new King of Wallis (Uvea), succeeding the late Tomasi Kulimoetoke II, who died in 2007. ](/news/2008/07/25/kapiliele-faupala-is-crowned-the-new-king-of-wallis-uvea-succeeding-the-late-tomasi-kulimoetoke-ii-who-died-in-2007.md)
-_Context: Kapiliele Faupala, Tomasi Kulimoetoke II, King of Wallis (Uvea)_
+_Context: Kapiliele Faupala, King of Wallis (Uvea), Tomasi Kulimoetoke II_
 
 ## [Previous Day...](/news/2008/07/24/index.md)
 

@@ -17,11 +17,11 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 
 ##### Chinese
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
-_Context: Beijing, Chinese_
+_Context: Chinese, Beijing_
 
 ##### Kahramanmaras
 ### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
-_Context: Turkey, Kahramanmaras_
+_Context: Kahramanmaras, Turkey_
 
 ##### Hakkari Province
 ### [A military helicopter crashes in Hakkari province, Turkey, killing three soldiers and injuring four others. ](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.md)

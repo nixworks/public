@@ -13,7 +13,7 @@ Riot police surround building occupied by activists in central London ahead of s
 
 ##### Suicide bombing
 ### [Twin suicide bombings in Marjeh Square in Damascus kill at least 14 people and injure 31. ](/news/2013/06/11/twin-suicide-bombings-in-marjeh-square-in-damascus-kill-at-least-14-people-and-injure-31.md)
-_Context: suicide bombing, Damascus, Marjeh Square_
+_Context: Marjeh Square, suicide bombing, Damascus_
 
 ##### Afghan Supreme Court
 ### [A bomb detonates near the Afghan Supreme Court killing 8 people and wounding dozens. ](/news/2013/06/11/a-bomb-detonates-near-the-afghan-supreme-court-killing-8-people-and-wounding-dozens.md)
@@ -21,7 +21,7 @@ A suspected Taliban suicide bomber in a car detonated a bomb close to minibuses 
 
 ##### India
 ### [Former senior Indian cabinet minister Vidya Charan Shukla dies from his injury from a Naxalite raid in the Sukma district in Chhattisgarh state. ](/news/2013/06/11/former-senior-indian-cabinet-minister-vidya-charan-shukla-dies-from-his-injury-from-a-naxalite-raid-in-the-sukma-district-in-chhattisgarh-st.md)
-_Context: Sukma, India, Naxalite raid, Chhattisgarh, Vidya Charan Shukla_
+_Context: Naxalite raid, India, Sukma, Vidya Charan Shukla, Chhattisgarh_
 
 ##### Russia
 ### [Bills banning homosexual "propaganda" pass through Russia's parliament; gay people are hit with eggs by anti-gay extremists and then dragged off by police near the Duma. ](/news/2013/06/11/bills-banning-homosexual-propaganda-pass-through-russia-s-parliament-gay-people-are-hit-with-eggs-by-anti-gay-extremists-and-then-dragged.md)
@@ -45,11 +45,11 @@ A French court has dismissed a case against Dominique Strauss-Kahn in relation t
 
 ##### Michael Bloomberg
 ### [Michael Bloomberg appeals to the New York Supreme Court's Appellate Division on the invalidation of a law limiting soft drink sales in New York City. ](/news/2013/06/11/michael-bloomberg-appeals-to-the-new-york-supreme-court-s-appellate-division-on-the-invalidation-of-a-law-limiting-soft-drink-sales-in-new-y.md)
-_Context: a law limiting soft drink sales, New York City, Michael Bloomberg, state appellate court_
+_Context: New York City, a law limiting soft drink sales, Michael Bloomberg, state appellate court_
 
 ##### Indian
 ### [A UK government decision to create a controversial marine park in the Indian Ocean gets the go-ahead, though the intentions are questioned by former residents of the Chagos Islands all of whom were expelled by the British between 1965 and 1973 so that an airbase could be built by the United States on Diego Garcia. ](/news/2013/06/11/a-uk-government-decision-to-create-a-controversial-marine-park-in-the-indian-ocean-gets-the-go-ahead-though-the-intentions-are-questioned-b.md)
-_Context: Diego Garcia, Chagos Islands, Indian, United States_
+_Context: United States, Diego Garcia, Indian, Chagos Islands_
 
 ##### North Korea
 ### [North Korea calls off talks with South Korea, according to officials from the South, amid a disagreement over the pairing of Ryoo Kihl-jae (South) and Kim Yang Gon (North). ](/news/2013/06/11/north-korea-calls-off-talks-with-south-korea-according-to-officials-from-the-south-amid-a-disagreement-over-the-pairing-of-ryoo-kihl-jae.md)

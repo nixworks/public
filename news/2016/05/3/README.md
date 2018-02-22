@@ -33,11 +33,11 @@ The single-engine aircraft, which took off from Myrtle Beach, S.C., was headed t
 
 ##### Iglesia ni Cristo
 ### [The sect Iglesia ni Cristo is suing supporters of Rodrigo Duterte for spreading a fake endorsement by the denomination. ](/news/2016/05/3/the-sect-iglesia-ni-cristo-is-suing-supporters-of-rodrigo-duterte-for-spreading-a-fake-endorsement-by-the-denomination.md)
-_Context: Iglesia ni Cristo, Rodrigo Duterte_
+_Context: Rodrigo Duterte, Iglesia ni Cristo_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Vladimir Putin, Anatoliy Serdyukov, Russian President, Russia, Russia-Spain relations, money laundering, Viktor Zubkov, Spain, assassinated, Prime Minister of Russia, Defense Minister, organized crime from Russia_
+_Context: Defense Minister, assassinated, Viktor Zubkov, Vladimir Putin, money laundering, Russia-Spain relations, organized crime from Russia, Prime Minister of Russia, Anatoliy Serdyukov, Russian President, Spain, Russia_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)

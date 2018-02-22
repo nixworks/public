@@ -13,27 +13,27 @@ _Context: constitution, Bolivia_
 
 ##### Pakistani police
 ### [ Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md)
-_Context: Mianwali, Pakistani police, Punjab_
+_Context: Pakistani police, Mianwali, Punjab_
 
 ##### Israel
 ### [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md)
-_Context: Israeli Air Force, Israel, Palestinian, militant, Gaza Strip, rocket, fire_
+_Context: Palestinian, Israel, fire, Gaza Strip, rocket, Israeli Air Force, militant_
 
 ##### Brazil
 ### [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md)
-_Context: Brazil, cocaine, Brazilian police, Paranagua_
+_Context: Brazil, Brazilian police, Paranagua, cocaine_
 
 ##### Major League Baseball
 ### [ Major League Baseball player Alex Rodriguez allegedly tested positive for two anabolic steroids in 2003. ](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.md)
-_Context: performance-enhancing drugs, Major League Baseball, 2003 season, anabolic steroid, Alex Rodriguez_
+_Context: Alex Rodriguez, 2003 season, anabolic steroid, performance-enhancing drugs, Major League Baseball_
 
 ##### Embraer
 ### [ An Embraer EMB-110P1 air taxi carrying 20 people crashes in Amazonas, Brazil. ](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.md)
-_Context: Amazonas, air taxi, Brazil, 110P1, Embraer_
+_Context: Brazil, Embraer, 110P1, Amazonas, air taxi_
 
 ##### Madagascar
 ### [ Madagascar police kill at least 23 protesters during anti-government demonstrations in Antananarivo. ](/news/2009/02/7/madagascar-police-kill-at-least-23-protesters-during-anti-government-demonstrations-in-antananarivo.md)
-_Context: anti-government, Madagascar, police, Antananarivo, demonstrations_
+_Context: Madagascar, demonstrations, Antananarivo, police, anti-government_
 
 ##### Jennifer Frigge
 ### [ Jennifer Frigge becomes the first woman to swim across the Atlantic Ocean. ](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.md)
@@ -41,7 +41,7 @@ _Context: Jennifer Frigge, Atlantic Ocean_
 
 ##### French Polynesia
 ### [ French Polynesian President Gaston Tong Sang resigns. ](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.md)
-_Context: Gaston Tong Sang, French Polynesia, President_
+_Context: President, Gaston Tong Sang, French Polynesia_
 
 ## [Previous Day...](/news/2009/02/6/index.md)
 

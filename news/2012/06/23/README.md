@@ -13,11 +13,11 @@ _Context: Mexican Drug War, Mexico_
 
 ##### Pakistan
 ### [In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. ](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.md)
-_Context: Shia, Pakistan, Quetta_
+_Context: Shia, Quetta, Pakistan_
 
 ##### Music concert
 ### [100,000 people attend the first day of a two-day music concert at Hackney Marshes in London, which forms part of the build-up to the 2012 Summer Olympics. ](/news/2012/06/23/100-000-people-attend-the-first-day-of-a-two-day-music-concert-at-hackney-marshes-in-london-which-forms-part-of-the-build-up-to-the-2012-su.md)
-_Context: 2012 Summer Olympics, Hackney Marshes, music concert, London_
+_Context: Hackney Marshes, music concert, 2012 Summer Olympics, London_
 
 ##### Ulster Bank
 ### [Tens of thousands of Ulster Bank customers continue to struggle to access their cash after days of problems. ](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.md)
@@ -47,11 +47,11 @@ Dozens of novice monks are taken to hospital, some in a serious condition, after
 
 ##### Algo Centre Mall
 ### [Algo Centre Mall in Elliot Lake, Ontario undergoes a partial structural failure when a segment of the rooftop parking deck collapses into the building. 22 people are injured and two bodies are recovered four days later. ](/news/2012/06/23/algo-centre-mall-in-elliot-lake-ontario-undergoes-a-partial-structural-failure-when-a-segment-of-the-rooftop-parking-deck-collapses-into-th.md)
-_Context: Elliot Lake, Algo Centre Mall_
+_Context: Algo Centre Mall, Elliot Lake_
 
 ##### Anna Alban
 ### [Ecuador's ambassador to the UK, Anna Alban, is reported to be flying to Quito to discuss WikiLeaks editor-in-chief Julian Assange's attempt to gain political asylum. ](/news/2012/06/23/ecuador-s-ambassador-to-the-uk-anna-alban-is-reported-to-be-flying-to-quito-to-discuss-wikileaks-editor-in-chief-julian-assange-s-attempt.md)
-_Context: Julian Assange, Anna Alban, Quito, WikiLeaks_
+_Context: Anna Alban, Quito, Julian Assange, WikiLeaks_
 
 ##### Paraguayan President
 ### [Latin American countries come together to express concern over the ousting from power of President of Paraguay Fernando Lugo, with Argentine President Cristina Fernndez de Kirchner, Ecuadorian President Rafael Correa and Venezuelan President Hugo Chvez vowing not to recognise the government of the newly-installed Paraguayan leader. ](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.md)
@@ -63,11 +63,11 @@ The Rio+20 summit ends with an agreement from world leaders that charities say r
 
 ##### United States
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Apple Inc., Motorola, United States_
+_Context: Motorola, United States, Apple Inc._
 
 ##### High Court
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
-_Context: University of Sussex, PhD, international relations, Evening Standard, the November 2010 march against government cuts, High Court, Daily Mail_
+_Context: PhD, University of Sussex, international relations, Daily Mail, High Court, Evening Standard, the November 2010 march against government cuts_
 
 ##### Papua New Guinea
 ### [Voters in Papua New Guinea start going to the polls for a general election. ](/news/2012/06/23/voters-in-papua-new-guinea-start-going-to-the-polls-for-a-general-election.md)

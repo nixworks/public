@@ -13,7 +13,7 @@ Shiite Huthi rebels in Yemen claim to have captured several troops from Saudi Ar
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights claims that the government has used barrel bombs resulting in the deaths of 21 people in the rebel held town of Bosra in the Daraa Governorate. ](/news/2015/09/17/the-syrian-observatory-for-human-rights-claims-that-the-government-has-used-barrel-bombs-resulting-in-the-deaths-of-21-people-in-the-rebel-h.md)
-_Context: Syrian Observatory for Human Rights, barrel bomb, Bosra, Daraa Governorate, Syrian government, Syrian Civil War_
+_Context: Syrian government, Daraa Governorate, barrel bomb, Syrian Observatory for Human Rights, Syrian Civil War, Bosra_
 
 ##### United States Federal Reserve
 ### [The United States Federal Reserve decides to leave interest rates at a record low. ](/news/2015/09/17/the-united-states-federal-reserve-decides-to-leave-interest-rates-at-a-record-low.md)
@@ -57,7 +57,7 @@ EU and UN demand army release detained president and prime minister as warning s
 
 ##### Diet
 ### [Fist-fights erupt between legislators in the National Diet of Japan over a security bill that would allow Japan Self-Defense Forces to fight abroad. Japan had previously sent only a small amount of troops to Iraq. ](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.md)
-_Context: military, Japan, Diet, security bill_
+_Context: military, Diet, security bill, Japan_
 
 ##### Brazil
 ### [Brazil's Supreme Court issues a decision that bans corporate money in elections. This ruling comes as a major investigation is underway in the country on a campaign financing bribery and corruption scandal. ](/news/2015/09/17/brazil-s-supreme-court-issues-a-decision-that-bans-corporate-money-in-elections-this-ruling-comes-as-a-major-investigation-is-underway-in-t.md)

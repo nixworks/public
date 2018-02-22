@@ -11,9 +11,9 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 ### ["Jihadi John", an ISIL terrorist featured in many beheading videos, is identified as Mohammed Emwazi, a Kuwaiti-born man who lived in the United Kingdom and was on a terrorism watch list. ](/news/2015/02/26/jihadi-john-an-isil-terrorist-featured-in-many-beheading-videos-is-identified-as-mohammed-emwazi-a-kuwaiti-born-man-who-lived-in-the-un.md)
 Intelligence official confirms masked ISIS militant seen in many beheading videos identified as college grad from London
 
-##### France
+##### French
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: climate change, Marion Cotillard, France, Francois Hollande, French President, Philippines, Melanie Laurent_
+_Context: French President, Philippines, Melanie Laurent, French, climate change, Francois Hollande, Marion Cotillard_
 
 ##### Norway
 ### [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md)
@@ -29,11 +29,11 @@ A North Korean shipping company has renamed and reflagged its vessels in an atte
 
 ##### Washington, D.C.
 ### [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md)
-_Context: Colorado, marijuana, Washington, D.C., United States, Alaska, Washington_
+_Context: marijuana, Alaska, Colorado, Washington, D.C., Washington, United States_
 
 ##### FCC's
 ### [The US Federal Communications Commission votes to classify internet service providers as public utilities, creating net neutrality rules. The FCC also votes to preempt state laws in North Carolina and Tennessee that effectively prevent municipal broadband providers from expanding outside their existing service areas. ](/news/2015/02/26/the-us-federal-communications-commission-votes-to-classify-internet-service-providers-as-public-utilities-creating-net-neutrality-rules-th.md)
-_Context: internet service providers, municipal broadband, Net neutrality in the United States, North Carolina, FCC's, Tennessee, public utility_
+_Context: North Carolina, internet service providers, FCC's, Net neutrality in the United States, municipal broadband, Tennessee, public utility_
 
 ## [Previous Day...](/news/2015/02/25/index.md)
 

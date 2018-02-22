@@ -13,7 +13,7 @@ The head of US homeland security urges vigilance after Somali-based militants ca
 
 ##### Second Libyan Civil War (2014-present)
 ### [Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tripoli-and-a-rocket-attack-on-al-abraq-inter.md)
-_Context: Tripoli, Al Abraq International Airport, Second Libyan Civil War (2014-present), Iran, Islamic State in Iraq and the Levant_
+_Context: Second Libyan Civil War (2014-present), Al Abraq International Airport, Tripoli, Iran, Islamic State in Iraq and the Levant_
 
 ##### ISIL
 ### [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
@@ -33,7 +33,7 @@ Harmony Gold says rescue teams have been deployed to rescue some 486 workers aft
 
 ##### Gold Coast Titans
 ### [Six current and former Gold Coast Titans players are charged with supplying cocaine including Greg Bird, Dave Taylor, Beau Falloon, Jamie Dowling and Kalifa Faifai Loa with all players stood down for the coming Australian National Rugby League season. ](/news/2015/02/22/six-current-and-former-gold-coast-titans-players-are-charged-with-supplying-cocaine-including-greg-bird-dave-taylor-beau-falloon-jamie-do.md)
-_Context: Australia, cocaine, Gold Coast Titans, Greg Bird, Beau Falloon, Jamie Dowling, Kalifa Faifai Loa, National Rugby League, Dave Taylor_
+_Context: National Rugby League, Kalifa Faifai Loa, Jamie Dowling, Gold Coast Titans, Greg Bird, Beau Falloon, Australia, cocaine, Dave Taylor_
 
 ##### Thai police officers
 ### [Thai police arrest at least three people for holding an unauthorised demonstration. ](/news/2015/02/22/thai-police-arrest-at-least-three-people-for-holding-an-unauthorised-demonstration.md)
@@ -49,7 +49,7 @@ Two former foreign secretaries are exposed for their involvement in a new &ldquo
 
 ##### Hungary
 ### [Hungary's ruling Fidesz Party loses its two-thirds supermajority in the National Assembly after a left-wing independent candidate wins a by-election in a district based on the city of Veszprem. ](/news/2015/02/22/hungary-s-ruling-fidesz-party-loses-its-two-thirds-supermajority-in-the-national-assembly-after-a-left-wing-independent-candidate-wins-a-by.md)
-_Context: Fidesz party, by-election, supermajority, Hungary, National Assembly, Veszprem_
+_Context: Fidesz party, Veszprem, Hungary, by-election, supermajority, National Assembly_
 
 ## [Previous Day...](/news/2015/02/21/index.md)
 

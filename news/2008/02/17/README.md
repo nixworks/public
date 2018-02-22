@@ -13,23 +13,23 @@ Cypriot President Tassos Papadopoulos was eliminated in the first round of a pre
 
 ##### Kosovo
 ### [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md)
-_Context: independence, Kosovo, Serbia_
+_Context: Kosovo, independence, Serbia_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush offers a $700 million aid package to Tanzania. ](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.md)
-_Context: $, U.S. President, Tanzania, George W. Bush_
+_Context: Tanzania, $, George W. Bush, U.S. President_
 
 ##### Bomb explodes
 ### [ Dozens of people are killed and dozens more injured as a bomb explodes in a dog fighting match in Kandahar, Afghanistan. ](/news/2008/02/17/dozens-of-people-are-killed-and-dozens-more-injured-as-a-bomb-explodes-in-a-dog-fighting-match-in-kandahar-afghanistan.md)
-_Context: dog fighting, Kandahar, Afghan, bomb explodes_
+_Context: Afghan, Kandahar, dog fighting, bomb explodes_
 
 ##### Sir David Li
 ### [ Sir David Li resigns from the Executive Council of Hong Kong following a United States Securities Exchange Commission investigation of insider trading in Dow Jones. ](/news/2008/02/17/sir-david-li-resigns-from-the-executive-council-of-hong-kong-following-a-united-states-securities-exchange-commission-investigation-of-insi.md)
-_Context: Securities Exchange Commission, insider trading, Sir David Li, Dow Jones, United States, Executive Council_
+_Context: Dow Jones, United States, Executive Council, insider trading, Securities Exchange Commission, Sir David Li_
 
 ##### Ryan Newman
 ### [ Ryan Newman wins the 50th Daytona 500. ](/news/2008/02/17/ryan-newman-wins-the-50th-daytona-500.md)
-_Context: 50th, Daytona 500, Ryan Newman_
+_Context: Daytona 500, Ryan Newman, 50th_
 
 ## [Previous Day...](/news/2008/02/16/index.md)
 

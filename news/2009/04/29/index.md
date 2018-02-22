@@ -13,11 +13,11 @@ _Context: United States_
 
 ##### India
 ### [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md)
-_Context: Kashmir, becomes, protest, locks down, Government of India, Srinagar, India_
+_Context: Srinagar, Kashmir, Government of India, protest, locks down, becomes, India_
 
 ##### Australia
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: Afghan, deployment, Australia, Defence Force, War in Afghanistan (2001-present)_
+_Context: deployment, Australia, Afghan, War in Afghanistan (2001-present), Defence Force_
 
 ##### Military
 ### [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md)

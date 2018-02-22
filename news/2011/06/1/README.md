@@ -15,11 +15,11 @@ Announcement comes 10 days after the north seized the disputed Abyei region, pro
 ### [Australia's economy shrinks 1.2 per cent in the first quarter due to various disasters. ](/news/2011/06/1/australia-s-economy-shrinks-1-2-per-cent-in-the-first-quarter-due-to-various-disasters.md)
 ##### An earthquake
 ### [An earthquake occurs in Blackpool, Lancashire: a company, Cuadrilla Resources, suspends gas drilling operations. ](/news/2011/06/1/an-earthquake-occurs-in-blackpool-lancashire-a-company-cuadrilla-resources-suspends-gas-drilling-operations.md)
-_Context: Blackpool, Lancashire, An earthquake_
+_Context: Lancashire, Blackpool, An earthquake_
 
 ##### Oil
 ### [An explosion at an oil storage tank in Gibraltar closes the port and injures workers and cruise ship passengers. ](/news/2011/06/1/an-explosion-at-an-oil-storage-tank-in-gibraltar-closes-the-port-and-injures-workers-and-cruise-ship-passengers.md)
-_Context: cruise ship, storage tank, Gibraltar, oil_
+_Context: Gibraltar, storage tank, cruise ship, oil_
 
 ##### 2010 Haiti earthquake
 ### [Haitian officials stand by their own death and homeless toll figures as the U.S. government claims fewer people were affected by last year's earthquake than previously believed. ](/news/2011/06/1/haitian-officials-stand-by-their-own-death-and-homeless-toll-figures-as-the-u-s-government-claims-fewer-people-were-affected-by-last-year-s.md)
@@ -43,15 +43,15 @@ At least two confirmed tornadoes descended upon towns in western Massachusetts o
 
 ##### United Nations
 ### [A United Nations report states that there are 2 million adolescents in the world living with HIV with 86 per cent of them living in sub-Saharan Africa. ](/news/2011/06/1/a-united-nations-report-states-that-there-are-2-million-adolescents-in-the-world-living-with-hiv-with-86-per-cent-of-them-living-in-sub-saha.md)
-_Context: United Nations, HIV, adolescent, sub-Saharan Africa_
+_Context: adolescent, sub-Saharan Africa, United Nations, HIV_
 
 ##### South Korea
 ### [South Korea reissues an invitation to North Korean leader Kim Jong-il to a nuclear summit next year. ](/news/2011/06/1/south-korea-reissues-an-invitation-to-north-korean-leader-kim-jong-il-to-a-nuclear-summit-next-year.md)
-_Context: South Korea, Kim Jong-il, North Korea_
+_Context: Kim Jong-il, South Korea, North Korea_
 
 ##### Obama administration
 ### [The U.S. government states that it will boycott a United Nations anti-racism conference because of concerns over anti-Semitism. ](/news/2011/06/1/the-u-s-government-states-that-it-will-boycott-a-united-nations-anti-racism-conference-because-of-concerns-over-anti-semitism.md)
-_Context: anti-Semitism, Obama administration, United Nations_
+_Context: United Nations, Obama administration, anti-Semitism_
 
 ##### Committee to Protect Journalists
 ### [The Committee to Protect Journalists claims that there have been 251 murders of journalists in 13 countries where the murderer has remained unpunished in the past decade with Iraq, Somalia, the Philippines and Sri Lanka being considered the worst environments for journalists. ](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.md)
@@ -63,11 +63,11 @@ Prime Minister Julia Gillard has unveiled a complete reshuffle at the top of the
 
 ##### Iran
 ### [Iran's parliament finds that the President of Iran Mahmoud Ahmadinejad acted illegally by appointing himself as Oil Minister and refers it to the Judiciary, increasing pressure on him to resign. ](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.md)
-_Context: President, parliament, Mahmoud Ahmadinejad, Iran_
+_Context: President, parliament, Iran, Mahmoud Ahmadinejad_
 
 ##### Japan
 ### [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md)
-_Context: Prime Minister of Japan, Japan, Naoto Kan, Diet_
+_Context: Prime Minister of Japan, Naoto Kan, Diet, Japan_
 
 ##### Space Shuttle ''Endeavour''
 ### [The Space Shuttle "Endeavour" finishes its final mission. ](/news/2011/06/1/the-space-shuttle-endeavour-finishes-its-final-mission.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/18/index.html)  [JSON](2015/12/18/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015)
 ### [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md)
-_Context: Saudi Arabia, Najran, Saudi-led intervention in Yemen, Saudi state media, Yemen, Yemeni Civil War (2015)_
+_Context: Yemen, Saudi Arabia, Saudi state media, Yemeni Civil War (2015), Najran, Saudi-led intervention in Yemen_
 
 ##### Territorial disputes in the South China Sea
 ### [A U.S. B-52 long-range bomber on a routine mission over the South China Sea mistakenly flew within two nautical miles of an artificial island built by China near the Cuarteron Reef in the disputed Spratly Islands archipelago, according to a senior U.S. defense official. The Chinese Defense Ministry issues a statement accusing the U.S. of deliberately raising tensions in the disputed region. ](/news/2015/12/18/a-u-s-b-52-long-range-bomber-on-a-routine-mission-over-the-south-china-sea-mistakenly-flew-within-two-nautical-miles-of-an-artificial-islan.md)
@@ -41,7 +41,7 @@ China warned residents across a large part of its north on Friday to prepare for
 
 ##### Australia-Japan relations
 ### [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md)
-_Context: whaling, Australia-Japan relations, Tokyo, Japan, Tony Abbott, Prime Minister of Japan, Australian Prime Minister, Shinzo Abe, Malcolm Turnbull_
+_Context: Australian Prime Minister, Shinzo Abe, Australia-Japan relations, Japan, Tokyo, Tony Abbott, Prime Minister of Japan, whaling, Malcolm Turnbull_
 
 ##### Romania-NATO relations
 ### [NATO's Aegis Ashore Ballistic Missile Defense System becomes partly operational at Romania's Deveselu airbase, as U.S. Navy personnel takes control of the site after years of construction. Aegis Ashore facilities in Romania form part of NATO's European missile defence system, with another site under construction in Poland expected to become operational by 2018. The United States Ambassador to Romania Hans G. Klemm says that they have explained to the Russians on numerous occasions that the missile system is, "not directed at Russia, nor does it have the capability to threaten Russia." The head of Russia's Strategic Missile Troops, Colonel General Sergei Karakayev, has dismissed the purported effectiveness of the missile defense system, saying Moscow develops "brand new and effective means and techniques to penetrate any missile defense system". ](/news/2015/12/18/nato-s-aegis-ashore-ballistic-missile-defense-system-becomes-partly-operational-at-romania-s-deveselu-airbase-as-u-s-navy-personnel-takes.md)

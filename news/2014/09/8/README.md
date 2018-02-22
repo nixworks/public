@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/8/index.html)  [JSON](2014/09/8/index.json)  [XML](2014/
 
 ##### Taliban insurgency
 ### [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
-_Context: Taliban insurgency, Kandahar Province, suicide bomb, Afghan_
+_Context: Kandahar Province, Taliban insurgency, Afghan, suicide bomb_
 
 ##### War in Donbass
 ### [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md)
@@ -29,11 +29,11 @@ Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, dev
 
 ##### Hurricane Norbert
 ### [The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-state-of-emergency-and-causin.md)
-_Context: states of emergency, Arizona, Hurricane Norbert_
+_Context: Hurricane Norbert, Arizona, states of emergency_
 
 ##### Edinburgh
 ### [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md)
-_Context: Prime Minister, independence referendum, Edinburgh, Parliament, Scottish Parliament, Gordon Brown_
+_Context: Gordon Brown, Prime Minister, independence referendum, Parliament, Scottish Parliament, Edinburgh_
 
 ## [Previous Day...](/news/2014/09/7/index.md)
 

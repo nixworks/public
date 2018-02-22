@@ -9,7 +9,7 @@ Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25
 
 ##### Bordj Menaiel
 ### [Two people are killed in a bombing near police headquarters in Bordj Menaiel, Algeria. ](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.md)
-_Context: Bordj Menaiel, Algeria_
+_Context: Algeria, Bordj Menaiel_
 
 ##### Dublin
 ### [Thousands of people are expected to demonstrate in Dublin against European Union - International Monetary Fund budget cuts. ](/news/2011/07/16/thousands-of-people-are-expected-to-demonstrate-in-dublin-against-european-union-international-monetary-fund-budget-cuts.md)
@@ -17,15 +17,15 @@ The Enough Campaign is organising the protest against the EU/IMF programme in Du
 
 ##### Ohi Nuclear Power Plant
 ### [Ohi Nuclear Power Plant in Japan is being shut down due a technical fault, Fukushima Daiichi nuclear disaster. Only 18 out of 54 nuclear plants in Japan are currently producing electricity. ](/news/2011/07/16/ohi-nuclear-power-plant-in-japan-is-being-shut-down-due-a-technical-fault-fukushima-daiichi-nuclear-disaster-only-18-out-of-54-nuclear-pla.md)
-_Context: Fukushima Daiichi nuclear disaster, Japan, Ohi Nuclear Power Plant_
+_Context: Japan, Fukushima Daiichi nuclear disaster, Ohi Nuclear Power Plant_
 
 ##### Mount Lokon
 ### [Nearly 5,000 people are evacuated after Mount Lokon in Indonesia erupts. ](/news/2011/07/16/nearly-5-000-people-are-evacuated-after-mount-lokon-in-indonesia-erupts.md)
-_Context: Mount Lokon, Indonesia_
+_Context: Indonesia, Mount Lokon_
 
 ##### North Sumatra Province
 ### [Seven people are killed and two injured after a customs boat sinks near the coast of North Sumatra Province in Indonesia. ](/news/2011/07/16/seven-people-are-killed-and-two-injured-after-a-customs-boat-sinks-near-the-coast-of-north-sumatra-province-in-indonesia.md)
-_Context: North Sumatra Province, Indonesia_
+_Context: Indonesia, North Sumatra Province_
 
 ##### Quadriga
 ### [Quadriga is not to be awarded this year due to the backlash sustained by organisers for giving it to Prime Minister of Russia and former KGB spy chief Vladimir Putin. Among the upheaval Danish artist Olafur Eliasson gave back his award and Vaclav Havel was reported to be considering doing that too. ](/news/2011/07/16/quadriga-is-not-to-be-awarded-this-year-due-to-the-backlash-sustained-by-organisers-for-giving-it-to-prime-minister-of-russia-and-former-kgb.md)

@@ -37,7 +37,7 @@ Judge Theodore D. Chuang in Maryland said there was a &ldquo;convincing case&rdq
 
 ##### Launches
 ### [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md)
-_Context: Falcon 9, EchoStar, SpaceX, Brazil, geosynchronous transfer orbit, launches_
+_Context: EchoStar, launches, Falcon 9, SpaceX, geosynchronous transfer orbit, Brazil_
 
 ## [Previous Day...](/news/2017/03/15/index.md)
 

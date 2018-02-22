@@ -21,7 +21,7 @@ UN troops in DR Congo launch an offensive on M23 rebels after shelling on Goma k
 
 ##### Israel
 ### [Israeli warplanes strike Na'ameh, Lebanon in response to rocket attacks. ](/news/2013/08/23/israeli-warplanes-strike-na-ameh-lebanon-in-response-to-rocket-attacks.md)
-_Context: Lebanese, Israel, Na'ameh_
+_Context: Na'ameh, Israel, Lebanese_
 
 ##### Cyrene, Libya
 ### [Real estate developers are reported to have severely damaged the UNESCO world heritage site of Cyrene, Libya. ](/news/2013/08/23/real-estate-developers-are-reported-to-have-severely-damaged-the-unesco-world-heritage-site-of-cyrene-libya.md)
@@ -37,7 +37,7 @@ _Context: Nidal Malik Hassan, Fort Hood massacre_
 
 ##### Robert Bales
 ### [Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. ](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.md)
-_Context: Robert Bales, Afghan, life in prison without parole_
+_Context: Afghan, life in prison without parole, Robert Bales_
 
 ##### Bob Filner
 ### [Bob Filner, mayor of San Diego, California, due to resign on August 30 over sexual harassment allegations. ](/news/2013/08/23/bob-filner-mayor-of-san-diego-california-due-to-resign-on-august-30-over-sexual-harassment-allegations.md)

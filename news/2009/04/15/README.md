@@ -9,15 +9,15 @@ _Context: global navigation system, satellite, China, launches, Compass satellit
 
 ##### Switzerland
 ### [ Swiss investment bank UBS AG will cut 8,700 jobs. ](/news/2009/04/15/swiss-investment-bank-ubs-ag-will-cut-8-700-jobs.md)
-_Context: investment bank, Switzerland, cut, UBS AG_
+_Context: investment bank, UBS AG, cut, Switzerland_
 
 ##### Pitcairn Islands
 ### [ The Pitcairn Islands abolish alcohol prohibition. ](/news/2009/04/15/the-pitcairn-islands-abolish-alcohol-prohibition.md)
-_Context: alcohol, prohibition, Pitcairn Islands_
+_Context: alcohol, Pitcairn Islands, prohibition_
 
-##### France
+##### French
 ### [ The French Navy captures 11 Somali pirates in the Gulf of Aden. ](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.md)
-_Context: French naval, Somalia, Gulf of Aden, France, Somali pirates_
+_Context: French naval, Gulf of Aden, Somali pirates, French, Somalia_
 
 ##### United States
 ### [ The United States' consumer price index records its first year-on-year deflation since 1955. ](/news/2009/04/15/the-united-states-consumer-price-index-records-its-first-year-on-year-deflation-since-1955.md)
@@ -25,7 +25,7 @@ _Context: United States, deflation, consumer price index_
 
 ##### Tax Day
 ### [ The Tax Day Tea Party protests against higher taxes and out-of-control government spending began rallying across the United States. ](/news/2009/04/15/the-tax-day-tea-party-protests-against-higher-taxes-and-out-of-control-government-spending-began-rallying-across-the-united-states.md)
-_Context: taxes, protests, Tea Party, United States, Tax Day, form of government_
+_Context: form of government, United States, Tea Party, Tax Day, protests, taxes_
 
 ## [Previous Day...](/news/2009/04/14/index.md)
 

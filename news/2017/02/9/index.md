@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/9/index.html)  [JSON](2017/02/9/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md)
-_Context: Russia, al-Bab, Syrian Civil War, Battle of al-Bab, Syria, Turkish troops_
+_Context: Battle of al-Bab, Turkish troops, Syria, al-Bab, Russia, Syrian Civil War_
 
 ##### War in Afghanistan (2015-present)
 ### [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md)

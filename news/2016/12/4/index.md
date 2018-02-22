@@ -5,7 +5,7 @@ Formats: [HTML](2016/12/4/index.html)  [JSON](2016/12/4/index.json)  [XML](2016/
 
 ##### Insurgency in the North Caucasus
 ### [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md)
-_Context: Dagestan, ISIL, Caucasus Province, Russia, Rustam Asildarov, Federal Security Service, Insurgency in the North Caucasus_
+_Context: Caucasus Province, Dagestan, Rustam Asildarov, Russia, Federal Security Service, Insurgency in the North Caucasus, ISIL_
 
 ##### Syrian Civil War
 ### [ At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md)
@@ -41,7 +41,7 @@ A deadly shooting has occurred in the city of Imatra in South-East Finland. Poli
 
 ##### Uzbekistani presidential election, 2016
 ### [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md)
-_Context: Uzbekistan, Islam Karimov, Uzbekistani presidential election, 2016_
+_Context: Uzbekistani presidential election, 2016, Uzbekistan, Islam Karimov_
 
 ##### Austrian presidential election, 2016
 ### [Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. ](/news/2016/12/4/voters-in-austria-go-to-the-polls-to-elect-a-new-president-in-a-second-round-run-off-between-green-candidate-alexander-van-der-bellen-and-fr.md)

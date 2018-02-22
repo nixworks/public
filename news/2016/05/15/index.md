@@ -25,7 +25,7 @@ A CIA tip off to South Africa&#39;s apartheid regime which led to Nelson Mandela
 
 ##### Dominican Republic general election, 2016
 ### [Voters in the Dominican Republic go to the polls for a general election. ](/news/2016/05/15/voters-in-the-dominican-republic-go-to-the-polls-for-a-general-election.md)
-_Context: Dominican Republic, Dominican Republic general election, 2016_
+_Context: Dominican Republic general election, 2016, Dominican Republic_
 
 ## [Previous Day...](/news/2016/05/14/index.md)
 

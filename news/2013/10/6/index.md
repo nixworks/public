@@ -13,7 +13,7 @@ Israeli authorities said they suspected that the attack was carried out by a Pal
 
 ##### Tal Afar
 ### [Two car bombs detonate in a village near Tal Afar, Iraq killing and wounding dozens of people. ](/news/2013/10/6/two-car-bombs-detonate-in-a-village-near-tal-afar-iraq-killing-and-wounding-dozens-of-people.md)
-_Context: Iraq, Tal Afar_
+_Context: Tal Afar, Iraq_
 
 ##### Free Tibet
 ### [Human rights group Free Tibet and Radio Free Asia report that People's Liberation Army troops shot into a crowd in Biru County in the Tibet Autonomous Region injuring 60 people. ](/news/2013/10/6/human-rights-group-free-tibet-and-radio-free-asia-report-that-people-s-liberation-army-troops-shot-into-a-crowd-in-biru-county-in-the-tibet.md)

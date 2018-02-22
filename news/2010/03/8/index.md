@@ -21,7 +21,7 @@ _Context: Turkey, strong earthquake_
 
 ##### Simin Behbahani
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
-_Context: Tehran International Airport, Simin Behbahani, Iran, France_
+_Context: Tehran International Airport, French, Iran, Simin Behbahani_
 
 ##### Interpol
 ### [Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. ](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.md)
@@ -29,11 +29,11 @@ International Criminal Police Organization announces 27 people now wanted for al
 
 ##### French naval
 ### [The French Navy, supported by European Union aircraft and vessels, seizes 35 suspected pirates in 4 mother ships and 6 little boats off the coast of Somalia in the EU's most successful mission. ](/news/2010/03/8/the-french-navy-supported-by-european-union-aircraft-and-vessels-seizes-35-suspected-pirates-in-4-mother-ships-and-6-little-boats-off-the.md)
-_Context: French naval, Somalia, European Union_
+_Context: French naval, European Union, Somalia_
 
 ##### German
 ### [German Federal Minister of Justice Sabine Leutheusser-Schnarrenberger says the Vatican has built a "wall of silence" in response to the country's child sexual abuse controversy of recent months. ](/news/2010/03/8/german-federal-minister-of-justice-sabine-leutheusser-schnarrenberger-says-the-vatican-has-built-a-wall-of-silence-in-response-to-the-coun.md)
-_Context: Federal Minister of Justice, Holy See, sexual abuse, German, Sabine Leutheusser-Schnarrenberger_
+_Context: sexual abuse, Federal Minister of Justice, Holy See, Sabine Leutheusser-Schnarrenberger, German_
 
 ##### Terrorism
 ### [Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. ](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-and-links-to-al-qaeda-in-belgium.md)
@@ -45,7 +45,7 @@ Israel has approved the construction of 112 new Jewish homes in the occupied Wes
 
 ##### Pakistani Taliban
 ### [A Pakistani Taliban car bomb attack on a Federal Investigation Agency (FIA) building in Lahore kills at least 11, wounds 60. ](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.md)
-_Context: Pakistani Taliban, car bomb, Federal Investigation Agency, Lahore_
+_Context: Federal Investigation Agency, Lahore, Pakistani Taliban, car bomb_
 
 ##### Badghis Province
 ### [12 people &mdash; 10 civilian passengers and 2 policemen &mdash; die in two separate roadside bombs in Badghis Province, Afghanistan. ](/news/2010/03/8/12-people-mdash-10-civilian-passengers-and-2-policemen-mdash-die-in-two-separate-roadside-bombs-in-badghis-province-afghanistan.md)
@@ -53,13 +53,13 @@ Two homemade bombs exploding in quick succession killed 12 people, including 10 
 
 ##### President
 ### [Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010-11. ](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.md)
-_Context: Mahmoud Ahmadinejad, President_
+_Context: President, Mahmoud Ahmadinejad_
 
 ##### Togo
 ### [Togolese police fire tear gas at street protesters who dispute Faure Gnassingbe's presidential election triumph. ](/news/2010/03/8/togolese-police-fire-tear-gas-at-street-protesters-who-dispute-faure-gnassingba-c-s-presidential-election-triumph.md)
-_Context: tear gas, Togo, presidential election triumph, Faure Gnassingbe_
+_Context: presidential election triumph, Togo, Faure Gnassingbe, tear gas_
 
-##### France
+##### French
 ### [French police shoot tear gas at protesters at oil company Total S.A.'s headquarters in Paris. ](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.md)
 Officers use tear gas after violent demonstrations over closing of Total oil depot.
 
@@ -85,7 +85,7 @@ The Chinese government says that it will have the final say, rather than the Dal
 
 ##### Scottish Maritime Museum
 ### [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"-HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md)
-_Context: Sunderland, Scottish Maritime Museum, clipper, Australia, ''City of Adelaide''/HMS ''Carrick''_
+_Context: Sunderland, ''City of Adelaide''/HMS ''Carrick'', Scottish Maritime Museum, clipper, Australia_
 
 ## [Previous Day...](/news/2010/03/7/index.md)
 

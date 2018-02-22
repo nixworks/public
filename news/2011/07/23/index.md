@@ -37,11 +37,11 @@ Near Wenzhou, China, a train halted by lightning was struck by another train, de
 
 ##### Famine
 ### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
-_Context: Unicef, famine, Somalia_
+_Context: Somalia, famine, Unicef_
 
 ##### Kim Sung-hwan
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
-_Context: ASEAN, South Korea, Pak Ui-chun, Indonesia, Kim Sung-hwan, Bali, North Korea_
+_Context: Kim Sung-hwan, Bali, Indonesia, South Korea, North Korea, ASEAN, Pak Ui-chun_
 
 ##### Asylum seekers
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
@@ -57,11 +57,11 @@ _Context: Grand Prairie, Texas_
 
 ##### Daryoush Rezaei
 ### [Daryoush Rezaei, an Iranian scientist, is shot dead outside his home in Tehran. It was reported that the scientist had links to the country's nuclear programme. ](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.md)
-_Context: Tehran, Daryoush Rezaei_
+_Context: Daryoush Rezaei, Tehran_
 
 ##### Federal Aviation Administration
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)
-_Context: furlough, Congress, Federal Aviation Administration_
+_Context: Congress, furlough, Federal Aviation Administration_
 
 ##### Sri Lanka
 ### [Voters in Sri Lanka go to the polls for local elections, with one person dying in clashes between supporters of rival parties in the Anuradhapura district. ](/news/2011/07/23/voters-in-sri-lanka-go-to-the-polls-for-local-elections-with-one-person-dying-in-clashes-between-supporters-of-rival-parties-in-the-anuradh.md)
@@ -69,7 +69,7 @@ Sri Lankans vote in local elections - many in the northern former war zone, wher
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for the Latvian parliamentary dissolution referendum with 95 per cent of voters supporting dissolution of the Saeima. ](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.md)
-_Context: Saeima, Latvian parliamentary dissolution referendum, Latvia_
+_Context: Latvian parliamentary dissolution referendum, Saeima, Latvia_
 
 ##### CERN
 ### [CERN's Large Hadron Collider (LHC) produces notable fluctuations in search for Higgs Boson particle. ](/news/2011/07/23/cern-s-large-hadron-collider-lhc-produces-notable-fluctuations-in-search-for-higgs-boson-particle.md)

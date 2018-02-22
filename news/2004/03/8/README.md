@@ -5,11 +5,11 @@ Formats: [HTML](2004/03/8/index.html)  [JSON](2004/03/8/index.json)  [XML](2004/
 
 ##### Todd Bertuzzi
 ### [ Todd Bertuzzi of the Vancouver Canucks ice hockey team hits rookie Steve Moore of the Colorado Avalanche in the middle of a game, fracturing vertebrae in Moore's neck and probably ending his career. In the same game, Trevor Linden passed Stan Smyl in career point scoring for the Vancouver Canucks. ](/news/2004/03/8/todd-bertuzzi-of-the-vancouver-canucks-ice-hockey-team-hits-rookie-steve-moore-of-the-colorado-avalanche-in-the-middle-of-a-game-fracturin.md)
-_Context: Vancouver Canucks, ice hockey, Steve Moore, Colorado Avalanche, Todd Bertuzzi_
+_Context: Vancouver Canucks, Todd Bertuzzi, Colorado Avalanche, Steve Moore, ice hockey_
 
 ##### Jiang Yanyong
 ### [ Dr. Jiang Yanyong, who exposed the SARS coverup in the People's Republic of China, sends a letter to the National People's Congress calling the forceful suppression of the Tiananmen Square protests of 1989 a "mistake." ](/news/2004/03/8/dr-jiang-yanyong-who-exposed-the-sars-coverup-in-the-people-s-republic-of-china-sends-a-letter-to-the-national-people-s-congress-calling.md)
-_Context: Jiang Yanyong, Tiananmen Square protests of 1989, SARS, parliament_
+_Context: parliament, Tiananmen Square protests of 1989, SARS, Jiang Yanyong_
 
 ##### Marine
 ### [ United States Marines shoot and kill a Haitian gunman in front of Port-au-Prince's presidential palace after the man fired rounds at the marines and protesters. Supporters of former President Jean-Bertrand Aristide had shot and killed several anti-Aristide demonstrators.](/news/2004/03/8/united-states-marines-shoot-and-kill-a-haitian-gunman-in-front-of-port-au-prince-s-presidential-palace-after-the-man-fired-rounds-at-the-ma.md)
@@ -21,15 +21,15 @@ _Context: Iraq, constitution_
 
 ##### International Women's Day
 ### [ On International Women's Day, Afghan President Hamid Karzai encourages men to allow their female relatives to vote in the upcoming election, but also suggests that they control those votes. ](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.md)
-_Context: Hamid Karzai, vote, Afghan, International Women's Day_
+_Context: Hamid Karzai, Afghan, vote, International Women's Day_
 
 ##### Ottawa, Ontario
 ### [ On a visit to Ottawa, Secretary-General of the United Nations Kofi Annan addressed a dinner, saying that Canada is a pillar of the United Nations. ](/news/2004/03/8/on-a-visit-to-ottawa-secretary-general-of-the-united-nations-kofi-annan-addressed-a-dinner-saying-that-canada-is-a-pillar-of-the-united-n.md)
-_Context: United Nations Secretary-General, Ottawa, Ontario, United Nations, Kofi Annan_
+_Context: Kofi Annan, Ottawa, Ontario, United Nations Secretary-General, United Nations_
 
 ##### House of Lords
 ### [ The United Kingdom's House of Lords votes to send the Constitutional Reform Bill, which will abolish the office of Lord Chancellor, create a new Supreme Court, and create a Judicial Appointments Commission, to a select committee for scrutiny, defeating the government. Government MPs claim this is a "wrecking" move, and threaten to use the Parliament Acts 1911 and 1949 to force the measure through. ](/news/2004/03/8/the-united-kingdom-s-house-of-lords-votes-to-send-the-constitutional-reform-bill-which-will-abolish-the-office-of-lord-chancellor-create.md)
-_Context: Supreme Court of the United Kingdom, Lord Chancellor, Constitutional Reform Bill, Judicial Appointments Commission, Parliament Acts 1911 and 1949, House of Lords_
+_Context: Constitutional Reform Bill, Lord Chancellor, House of Lords, Parliament Acts 1911 and 1949, Judicial Appointments Commission, Supreme Court of the United Kingdom_
 
 ## [Previous Day...](/news/2004/03/7/index.md)
 

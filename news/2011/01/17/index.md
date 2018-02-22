@@ -17,7 +17,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 
 ##### Walmart
 ### [Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.md)
-_Context: Congress of South African Trade Unions, Walmart, organized labour, South Africa, boycotts, Massmart_
+_Context: Walmart, boycotts, Massmart, organized labour, Congress of South African Trade Unions, South Africa_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pays out $3.4 billion last quarter in legal settlings over their drug Avandia. ](/news/2011/01/17/glaxosmithkline-pays-out-3-4-billion-last-quarter-in-legal-settlings-over-their-drug-avandia.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Armenian President
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: reconciliation, genocide of Armenians, Armenian President, First World War, Turkey_
+_Context: reconciliation, genocide of Armenians, First World War, Armenian President, Turkey_
 
 ##### China
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)
@@ -65,7 +65,7 @@ _Context: demonstrations that toppled his regime_
 
 ##### Shinkansen
 ### [A computer glitch temporarily halts all bullet trains in northern and central Japan, affecting thousands of passengers. ](/news/2011/01/17/a-computer-glitch-temporarily-halts-all-bullet-trains-in-northern-and-central-japan-affecting-thousands-of-passengers.md)
-_Context: Japan, Shinkansen_
+_Context: Shinkansen, Japan_
 
 ## [Previous Day...](/news/2011/01/16/index.md)
 

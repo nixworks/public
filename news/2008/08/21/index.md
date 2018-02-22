@@ -9,19 +9,19 @@ _Context: Somali_
 
 ##### U.S. federal court
 ### [ US District Judge Jeremy Fogel of the Northern District of California denies a motion by Universal Studios to dismiss a lawsuit against it alleging that Universal sent a DMCA takedown notice in bad faith. ](/news/2008/08/21/us-district-judge-jeremy-fogel-of-the-northern-district-of-california-denies-a-motion-by-universal-studios-to-dismiss-a-lawsuit-against-it.md)
-_Context: takedown notice, U.S. federal court, Universal Studios, United States District Court for the Northern District of California, DMCA_
+_Context: United States District Court for the Northern District of California, U.S. federal court, takedown notice, DMCA, Universal Studios_
 
 ##### United States
 ### [ The United States Food and Drug Administration approves irradiation of lettuce and spinach to kill "E. coli" and other dangerous germs. ](/news/2008/08/21/the-united-states-food-and-drug-administration-approves-irradiation-of-lettuce-and-spinach-to-kill-e-coli-and-other-dangerous-germs.md)
-_Context: Food and Drug Administration, spinach, E. coli, lettuce, United States, irradiation_
+_Context: irradiation, United States, spinach, Food and Drug Administration, lettuce, E. coli_
 
 ##### 2008 Wah bombing
 ### [ 2008 Wah bombing: Two suicide bombings occur in the cantonment city of Wah Cantonment in Pakistan killing at least 76 people and injuring 110. ](/news/2008/08/21/2008-wah-bombing-two-suicide-bombings-occur-in-the-cantonment-city-of-wah-cantonment-in-pakistan-killing-at-least-76-people-and-injuring-1.md)
-_Context: Pakistan, cantonment, Wah Cantonment, suicide bombing, 2008 Wah bombing_
+_Context: suicide bombing, Pakistan, 2008 Wah bombing, cantonment, Wah Cantonment_
 
 ##### Central High School
 ### [ One student is killed in a shooting at Central High School in Knoxville, Tennessee. ](/news/2008/08/21/one-student-is-killed-in-a-shooting-at-central-high-school-in-knoxville-tennessee.md)
-_Context: Central High School, Knoxville, Tennessee_
+_Context: Knoxville, Tennessee, Central High School_
 
 ##### India
 ### [ At least 74 people die in northern India as a result of heavy monsoon rains. ](/news/2008/08/21/at-least-74-people-die-in-northern-india-as-a-result-of-heavy-monsoon-rains.md)

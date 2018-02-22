@@ -5,19 +5,19 @@ Formats: [HTML](2009/01/17/index.html)  [JSON](2009/01/17/index.json)  [XML](200
 
 ##### Israel
 ### [ Israeli Prime Minister Ehud Olmert declares a unilateral ceasefire beginning January 18 at 2:00 am Israel Standard Time (UTC+2) in its conflict with Hamas. However, Israeli Defense Forces will remain in the Gaza Strip until further notice. ](/news/2009/01/17/israeli-prime-minister-ehud-olmert-declares-a-unilateral-ceasefire-beginning-january-18-at-2-00-am-israel-standard-time-utc-2-in-its-conf.md)
-_Context: Israel, clock, Israeli Prime Minister, +2, Israel Standard Time, Israeli Army, fire, ceasefire, January 18, Hamas, Ehud Olmert, unilateral, Gaza Strip_
+_Context: Israeli Prime Minister, unilateral, +2, January 18, fire, Gaza Strip, ceasefire, Ehud Olmert, clock, Israel Standard Time, Hamas, Israel, Israeli Army_
 
 ##### North Korea
 ### [ North Korea claims to have "weaponized" 30.8 kilograms of plutonium, enough for four to five nuclear warheads. ](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.md)
-_Context: nuclear warheads, warhead, North Korea, North Korea's nuclear program, plutonium_
+_Context: plutonium, North Korea's nuclear program, nuclear warheads, warhead, North Korea_
 
 ##### PAS
 ### [ The Pan-Malaysian Islamic Party defeats Barisan Nasional in Malaysia's Kuala Terengganu by-election. ](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.md)
-_Context: Malaysia, PAS, Kuala Terengganu, Barisan Nasional, by-election_
+_Context: PAS, Barisan Nasional, Malaysia, Kuala Terengganu, by-election_
 
 ##### Suicide attack
 ### [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md)
-_Context: United States soldier, Afghan, Kabul, soldier, United States, Afghan-based, suicide attack, War in Afghanistan (2001-present)_
+_Context: suicide attack, soldier, United States soldier, Afghan, War in Afghanistan (2001-present), Kabul, United States, Afghan-based_
 
 ##### Israel
 ### [ An Israeli Defense Forces airstrike kills 13 people in Gaza City. ](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.md)

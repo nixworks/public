@@ -9,31 +9,31 @@ _Context: Dow Jones Industrial Average_
 
 ##### German
 ### [ German authorities uncover 51 skeletons from a mass grave at the village of Menden-Barge in the Sauerland region of the country, thought to be remains of victims of Nazi atrocities during World War II. ](/news/2006/10/5/german-authorities-uncover-51-skeletons-from-a-mass-grave-at-the-village-of-menden-barge-in-the-sauerland-region-of-the-country-thought-to.md)
-_Context: World War II, mass grave, Sauerland, Nazi, German_
+_Context: World War II, German, Nazi, Sauerland, mass grave_
 
 ##### Mark Foley scandal
 ### [ The House Ethics Committee issued four dozen subpoenas to members of Congress and aides to discover who was aware of explicit exchanges between former representative Mark Foley and underage Congressional pages. ](/news/2006/10/5/the-house-ethics-committee-issued-four-dozen-subpoenas-to-members-of-congress-and-aides-to-discover-who-was-aware-of-explicit-exchanges-bet.md)
-_Context: Mark Foley scandal, United States House Committee on Standards of Official Conduct, Mark Foley_
+_Context: Mark Foley scandal, Mark Foley, United States House Committee on Standards of Official Conduct_
 
 ##### Abu Ayyub al-Masri
 ### [ Reports indicate that Abu Ayyub al-Masri, also known as Abu Hamza al-Muhajir, the leader of Al-Qaeda in Iraq who succeeded Abu Musab al-Zarqawi after his death, may have been killed in Haditha. A body initially tentatively identified as his is undergoing DNA analysis but most government sources are skeptical. ](/news/2006/10/5/reports-indicate-that-abu-ayyub-al-masri-also-known-as-abu-hamza-al-muhajir-the-leader-of-al-qaeda-in-iraq-who-succeeded-abu-musab-al-zar.md)
-_Context: Abu Musab al-Zarqawi, Al-Qaeda in Iraq, Haditha, Abu Ayyub al-Masri, Abu Hamza al-Muhajir_
+_Context: Haditha, Abu Hamza al-Muhajir, Abu Musab al-Zarqawi, Al-Qaeda in Iraq, Abu Ayyub al-Masri_
 
 ##### European Central Bank
 ### [ The European Central Bank raises its interest rate from 3% to 3.25% representing the fifth rise in eleven months. The Bank of England decides to leave interest rates in the United Kingdom unchanged. ](/news/2006/10/5/the-european-central-bank-raises-its-interest-rate-from-3-to-3-25-representing-the-fifth-rise-in-eleven-months-the-bank-of-england-decid.md)
-_Context: interest rate, United Kingdom, Bank of England, European Central Bank_
+_Context: United Kingdom, interest rate, European Central Bank, Bank of England_
 
 ##### Edmund Daukoru
 ### [ Edmund Daukoru, a Nigerian oil minister and president of the Organization of Petroleum Exporting Countries (OPEC) flags that the organization will hold an emergency meeting to cut output. The "Financial Times" reports that OPEC has informally agreed to cut output 4% to defend the oil price. ](/news/2006/10/5/edmund-daukoru-a-nigerian-oil-minister-and-president-of-the-organization-of-petroleum-exporting-countries-opec-flags-that-the-organizati.md)
-_Context: oil, Organization of Petroleum Exporting Countries, Nigeria, Edmund Daukoru, Financial Times_
+_Context: Edmund Daukoru, Organization of Petroleum Exporting Countries, Nigeria, oil, Financial Times_
 
 ##### Post-Soviet
 ### [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country's current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-countryas-current-government-amid-the-ongoing-tensions-w.md)
-_Context: municipal elections, Post-Soviet,  Georgian, Russia, tensions_
+_Context: Russia,  Georgian, Post-Soviet, municipal elections, tensions_
 
 ##### NTV
 ### [ NTV television in Turkey reports that 260 Turkish soldiers will join the peacekeeping force in Lebanon. ](/news/2006/10/5/ntv-television-in-turkey-reports-that-260-turkish-soldiers-will-join-the-peacekeeping-force-in-lebanon.md)
-_Context: Lebanese, Turkey, NTV_
+_Context: NTV, Turkey, Lebanese_
 
 ##### NATO
 ### [ NATO expands its security mission to the whole of Afghanistan, taking command of more than 13,000 U.S. troops in the east of the country. ](/news/2006/10/5/nato-expands-its-security-mission-to-the-whole-of-afghanistan-taking-command-of-more-than-13-000-u-s-troops-in-the-east-of-the-country.md)
@@ -41,7 +41,7 @@ _Context: NATO, Afghan_
 
 ##### Patani United Liberation Organisation
 ### [ Thai authorities take steps to hold peace talks with two Muslim insurgencies, the Patani United Liberation Organisation (PULO) and Bersatu, who are fighting the Government in the Muslim-majority southern provinces of Thailand. ](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.md)
-_Context: Muslim, Bersatu, Thailand, Patani United Liberation Organisation_
+_Context: Patani United Liberation Organisation, Bersatu, Muslim, Thailand_
 
 ##### Britain's Court of Appeal
 ### [ The Court of Appeal of England and Wales determines that a merchant ship, SS Storaa, is eligible for consideration for protection as a war grave under the Protection of Military Remains Act 1986. ](/news/2006/10/5/the-court-of-appeal-of-england-and-wales-determines-that-a-merchant-ship-ss-storaa-is-eligible-for-consideration-for-protection-as-a-war.md)

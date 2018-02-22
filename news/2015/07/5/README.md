@@ -41,7 +41,7 @@ Foreign ministry says Chinese tourists recently &quot;attacked and disturbed&quo
 
 ##### Russia
 ### [A Russian space capsule reaches the International Space Station allowing resupply of provisions after the crash of the SpaceX space capsule last week. ](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.md)
-_Context: International Space Station, SpaceX, Russia_
+_Context: SpaceX, Russia, International Space Station_
 
 ## [Previous Day...](/news/2015/07/4/index.md)
 

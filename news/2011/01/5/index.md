@@ -5,11 +5,11 @@ Formats: [HTML](2011/01/5/index.html)  [JSON](2011/01/5/index.json)  [XML](2011/
 
 ##### Clarence House
 ### [Clarence House confirms that Prince William and Catherine Middleton will be married by the Archbishop of Canterbury, Dr Rowan Williams. ](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.md)
-_Context: Rowan Williams, 2011 Royal Wedding, Archbishop of Canterbury, Clarence House, Catherine, Duchess of Cambridge, Duke of Cambridge_
+_Context: Archbishop of Canterbury, Rowan Williams, 2011 Royal Wedding, Duke of Cambridge, Catherine, Duchess of Cambridge, Clarence House_
 
 ##### Sweden
 ### [Swedish actor Per Oscarsson and his wife Kia Ostling are confirmed dead by dental records after a fire destroyed the couple's house in Skara and the couple perished on December 30, 2010. ](/news/2011/01/5/swedish-actor-per-oscarsson-and-his-wife-kia-astling-are-confirmed-dead-by-dental-records-after-a-fire-destroyed-the-couple-s-house-in-skar.md)
-_Context: Sweden, Per Oscarsson, Kia Ostling, Skara_
+_Context: Kia Ostling, Per Oscarsson, Sweden, Skara_
 
 ##### Iran
 ### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union. The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
@@ -17,7 +17,7 @@ _Context: India, Iran, Asian Clearing Union, EIH Bank_
 
 ##### Millard South High School
 ### [A 17-year-old student at Millard South High School, in Omaha, Nebraska, shoots an assistant principal to death and wounds the school principal before turning the gun onto himself. ](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.md)
-_Context: Nebraska, Millard South High School, Omaha_
+_Context: Nebraska, Omaha, Millard South High School_
 
 ##### Malaysia
 ### [A Malaysian coroner records an open verdict in the death of opposition aide Teoh Beng Hock, who fell from the roof of the anti-corruption commission building in July 2009. ](/news/2011/01/5/a-malaysian-coroner-records-an-open-verdict-in-the-death-of-opposition-aide-teoh-beng-hock-who-fell-from-the-roof-of-the-anti-corruption-co.md)
@@ -45,7 +45,7 @@ Mohamed Bouazizi, the 26-year-old unemployed man whose self-immolation sparked n
 
 ##### Nigeria
 ### [The Nigerian opposition Congress for Progressive Change party select former military ruler Muhammadu Buhari as its presidential candidate for April elections. ](/news/2011/01/5/the-nigerian-opposition-congress-for-progressive-change-party-select-former-military-ruler-muhammadu-buhari-as-its-presidential-candidate-fo.md)
-_Context: Muhammadu Buhari, presidential election, Nigeria, Congress for Progressive Change_
+_Context: Congress for Progressive Change, Muhammadu Buhari, presidential election, Nigeria_
 
 ##### Kuwait
 ### [Kuwaiti Prime Minister Nasser Mohammed Al-Ahmed Al-Sabah narrowly survives a no confidence vote, following a crackdown at an opposition demonstration in December. ](/news/2011/01/5/kuwaiti-prime-minister-nasser-mohammed-al-ahmed-al-sabah-narrowly-survives-a-no-confidence-vote-following-a-crackdown-at-an-opposition-demo.md)

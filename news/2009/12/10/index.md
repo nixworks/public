@@ -33,11 +33,11 @@ India will carve a newstate out of southern Andhra Pradesh, home to several majo
 
 ##### Agusan del Sur
 ### [ 18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. ](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.md)
-_Context: Philippines, Mindanao, Agusan del Sur_
+_Context: Agusan del Sur, Mindanao, Philippines_
 
 ##### RSM-56 Bulava
 ### [ A failed launch of an intercontinental missile RSM-56 Bulava by Russia is reported to be the cause of the mysterious spiral light seen over Northern Norway yesterday. ](/news/2009/12/10/a-failed-launch-of-an-intercontinental-missile-rsm-56-bulava-by-russia-is-reported-to-be-the-cause-of-the-mysterious-spiral-light-seen-over.md)
-_Context: RSM-56 Bulava, Northern Norway, Russia, mysterious spiral light_
+_Context: RSM-56 Bulava, Northern Norway, mysterious spiral light, Russia_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama accepts the 2009 Nobel Peace Prize in Oslo, Norway. ](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.md)

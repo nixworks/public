@@ -9,15 +9,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### White House Press Secretary
 ### [ White House Press Secretary Scott McClellan announces his resignation. Karl Rove is expected to lose his position as Deputy Chief of Staff for political development. President George W. Bush tries to shake up his cabinet because of the mid-term elections in November. ](/news/2006/04/19/white-house-press-secretary-scott-mcclellan-announces-his-resignation-karl-rove-is-expected-to-lose-his-position-as-deputy-chief-of-staff.md)
-_Context: Scott McClellan, White House Press Secretary, George W. Bush, Karl Rove_
+_Context: George W. Bush, White House Press Secretary, Scott McClellan, Karl Rove_
 
 ##### Bolivia
 ### [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit ](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit.md)
-_Context: Bolivia, iron ore, El Mutn_
+_Context: El Mutn, Bolivia, iron ore_
 
 ##### Elections in the Solomon Islands
 ### [ Elections in the Solomon Islands: The announcement of the new Prime Minister of the Solomon Islands, Snyder Rini, causes riots in Honiara. Australia and New Zealand promise to send more troops to keep order. ](/news/2006/04/19/elections-in-the-solomon-islands-the-announcement-of-the-new-prime-minister-of-the-solomon-islands-snyder-rini-causes-riots-in-honiara.md)
-_Context: Prime Minister, Honiara, Elections in the Solomon Islands, Snyder Rini_
+_Context: Honiara, Snyder Rini, Prime Minister, Elections in the Solomon Islands_
 
 ## [Previous Day...](/news/2006/04/18/index.md)
 

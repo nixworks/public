@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/7/index.html)  [JSON](2012/07/7/index.json)  [XML](2012/
 
 ##### Lebanese
 ### [The Lebanese army in Wadi Khaled is placed on alert after rockets from Syria kill two people in its territory. ](/news/2012/07/7/the-lebanese-army-in-wadi-khaled-is-placed-on-alert-after-rockets-from-syria-kill-two-people-in-its-territory.md)
-_Context: Lebanese Army, Syria, Wadi Khaled, Lebanese_
+_Context: Lebanese, Wadi Khaled, Lebanese Army, Syria_
 
 ##### Gabriel Garcia Marquez
 ### [Jaime Garcia Marquez tells his students that his brother Gabriel Garcia Marquez, the Colombian writer and recipient of the 1982 Nobel Prize for Literature, suffers from dementia that has ended his writing career. ](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.md)
@@ -17,7 +17,7 @@ More than 144 people have been killed as flash floods swept through parts of the
 
 ##### Ukraine
 ### [A bus crash in northeastern Ukraine kills at least 14 Russian pilgrims. ](/news/2012/07/7/a-bus-crash-in-northeastern-ukraine-kills-at-least-14-russian-pilgrims.md)
-_Context: Ukraine, Russia_
+_Context: Russia, Ukraine_
 
 ##### West Africa
 ### [Up to 13 million in West Africa are at risk in a food crisis caused by a prolonged drought. ](/news/2012/07/7/up-to-13-million-in-west-africa-are-at-risk-in-a-food-crisis-caused-by-a-prolonged-drought.md)
@@ -33,7 +33,7 @@ Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan 
 
 ##### Raul Castro
 ### [Cuban leader Raul Castro makes his first visit to Beijing since succeeding Fidel Castro in 2008; trade deals are signed between China and Cuba. ](/news/2012/07/7/cuban-leader-raaol-castro-makes-his-first-visit-to-beijing-since-succeeding-fidel-castro-in-2008-trade-deals-are-signed-between-china-and-c.md)
-_Context: Fidel Castro, Raul Castro, Beijing_
+_Context: Raul Castro, Fidel Castro, Beijing_
 
 ##### London
 ### [A 22-year-old woman is arrested in east London in connection with an ongoing counter-terrorism operation. ](/news/2012/07/7/a-22-year-old-woman-is-arrested-in-east-london-in-connection-with-an-ongoing-counter-terrorism-operation.md)
@@ -57,7 +57,7 @@ _Context: Hong Kong police, cocaine_
 
 ##### State Duma
 ### [The lower house of parliament in Russia gives initial backing to a bill forcing internationally-funded non-governmental organisations to carry a "foreign agent" tag. ](/news/2012/07/7/the-lower-house-of-parliament-in-russia-gives-initial-backing-to-a-bill-forcing-internationally-funded-non-governmental-organisations-to-car.md)
-_Context: State Duma, non-governmental organisations, Russia_
+_Context: State Duma, Russia, non-governmental organisations_
 
 ##### Libya
 ### [Voters in Libya go to the polls for a General National Congress election with those elected responsible for appointing a Prime Minister, cabinet and establishing a new constitution. ](/news/2012/07/7/voters-in-libya-go-to-the-polls-for-a-general-national-congress-election-with-those-elected-responsible-for-appointing-a-prime-minister-cab.md)
@@ -69,7 +69,7 @@ Early results in East Timor&#039;s parliamentary election indicate Xanana Gusmao
 
 ##### Barney Frank
 ### [American politician Barney Frank marries his long-time partner James Ready, becoming the first member of the United States House of Representatives to enter into a same-sex marriage. ](/news/2012/07/7/american-politician-barney-frank-marries-his-long-time-partner-james-ready-becoming-the-first-member-of-the-united-states-house-of-represen.md)
-_Context: Barney Frank, United States House of Representatives, same-sex marriage_
+_Context: United States House of Representatives, Barney Frank, same-sex marriage_
 
 ## [Previous Day...](/news/2012/07/6/index.md)
 

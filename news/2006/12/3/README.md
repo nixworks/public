@@ -13,23 +13,23 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Philippines
 ### [ At least 804 people are dead or missing in the Philippines as a result of Typhoon Durian with the death toll expected to rise further. ](/news/2006/12/3/at-least-804-people-are-dead-or-missing-in-the-philippines-as-a-result-of-typhoon-durian-with-the-death-toll-expected-to-rise-further.md)
-_Context: Philippines, Typhoon Durian_
+_Context: Typhoon Durian, Philippines_
 
 ##### President
 ### [ Former President of Chile Augusto Pinochet is in a military hospital after having had a heart attack. Doctors decide to perform coronary artery bypass surgery. ](/news/2006/12/3/former-president-of-chile-augusto-pinochet-is-in-a-military-hospital-after-having-had-a-heart-attack-doctors-decide-to-perform-coronary-ar.md)
-_Context: coronary artery bypass surgery, heart attack, President, Augusto Pinochet_
+_Context: coronary artery bypass surgery, Augusto Pinochet, heart attack, President_
 
 ##### Madagascar
 ### [ Madagascar holds an election with incumbent Marc Ravalomanana expected to be elected as the President of Madagascar. ](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.md)
-_Context: President of Madagascar, Marc Ravalomanana, Madagascar, holds an election_
+_Context: President of Madagascar, holds an election, Madagascar, Marc Ravalomanana_
 
 ##### Junior Eurovision Song Contest 2006
 ### [ The Junior Eurovision Song Contest 2006 was won by The Tolmachevy Twins from Russia with the song "Vesenniy Dzhaz". ](/news/2006/12/3/the-junior-eurovision-song-contest-2006-was-won-by-the-tolmachevy-twins-from-russia-with-the-song-vesenniy-dzhaz.md)
-_Context: Russia, Junior Eurovision Song Contest 2006_
+_Context: Junior Eurovision Song Contest 2006, Russia_
 
 ##### Russia
 ### [ Russia wins the 2006 Davis Cup after a 3-2 victory over Argentina ](/news/2006/12/3/russia-wins-the-2006-davis-cup-after-a-3-2-victory-over-argentina.md)
-_Context: Russia, Argentina, 2006 Davis Cup_
+_Context: 2006 Davis Cup, Argentina, Russia_
 
 ## [Previous Day...](/news/2006/12/2/index.md)
 

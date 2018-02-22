@@ -5,13 +5,13 @@ Formats: [HTML](2007/11/24/index.html)  [JSON](2007/11/24/index.json)  [XML](200
 
 ##### Militant
 ### [ United States and Iraqi forces arrest at least 20 suspected militants in Kirkuk, Iraq. ](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-20-suspected-militants-in-kirkuk-iraq.md)
-_Context: militant, Kirkuk, Iraq_
+_Context: Iraq, Kirkuk, militant_
 
 ##### 
 ### [ An explosion at a petrol station kills four people and hurts at least 30 in Shanghai, China. ](/news/2007/11/24/an-explosion-at-a-petrol-station-kills-four-people-and-hurts-at-least-30-in-shanghai-china.md)
 ##### 2007 UK child benefit data scandal
 ### [ 2007 UK child benefit data scandal: HM Revenue and Customs confirms that a further six data discs have gone missing in transit between its offices in Preston and London. ](/news/2007/11/24/2007-uk-child-benefit-data-scandal-hm-revenue-and-customs-confirms-that-a-further-six-data-discs-have-gone-missing-in-transit-between-its.md)
-_Context: Preston, 2007 UK child benefit data scandal, HM Revenue and Customs_
+_Context: Preston, HM Revenue and Customs, 2007 UK child benefit data scandal_
 
 ##### Donald Tusk
 ### [ Polish Prime Minister Donald Tusk declares that Poland should concentrate on getting its economy ready for euro-zone entry as quickly as possible rather than setting a concrete target date to adopt the euro. ](/news/2007/11/24/polish-prime-minister-donald-tusk-declares-that-poland-should-concentrate-on-getting-its-economy-ready-for-euro-zone-entry-as-quickly-as-po.md)
@@ -23,23 +23,23 @@ _Context: Malibu, California, Wildfire, state park_
 
 ##### Typhoon Mitag
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Isabela, Aurora, Philippines, Typhoon Mitag, landfall, Philippine Sea_
+_Context: Typhoon Mitag, Isabela, landfall, Philippine Sea, Aurora, Philippines_
 
 ##### Opposition leader
 ### [ Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. ](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.md)
-_Context: Garry Kasparov, opposition leader, The Other Russia_
+_Context: opposition leader, The Other Russia, Garry Kasparov_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI creates 23 new cardinals in a ceremony in St. Peter's Basilica in the Vatican City. ](/news/2007/11/24/pope-benedict-xvi-creates-23-new-cardinals-in-a-ceremony-in-st-peter-s-basilica-in-the-vatican-city.md)
-_Context: Vatican City, Vatican, cardinal, Pope Benedict XVI_
+_Context: Vatican, cardinal, Pope Benedict XVI, Vatican City_
 
 ##### Suicide bomber
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
-_Context: suicide bomber, Afghan, Paghman_
+_Context: Paghman, suicide bomber, Afghan_
 
 ##### Prime Minister
 ### [ Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country. Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. ](/news/2007/11/24/former-prime-minister-shaukat-aziz-refuses-to-contest-in-forthcoming-elections-and-denied-rumors-that-he-is-leaving-the-country-two-suicid.md)
-_Context: suicide bomber, Rawalpindi, Shaukat Aziz, Prime Minister, car bombing_
+_Context: Prime Minister, Shaukat Aziz, suicide bomber, Rawalpindi, car bombing_
 
 ## [Previous Day...](/news/2007/11/23/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/21/index.html)  [JSON](2008/06/21/index.json)  [XML](200
 
 ## [2008-06-21](/news/2008/06/21/index.md)
 
-##### France
+##### French
 ### [ France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. ](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.md)
-_Context: French nuclear power technology, France, Algeria_
+_Context: French nuclear power technology, French, Algeria_
 
 ##### Pakistan
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)
@@ -13,7 +13,7 @@ _Context: French nuclear power technology, France, Algeria_
 
 ##### United Nations High Commissioner for Refugees
 ### [ An employee for the United Nations High Commissioner for Refugees in Somalia is kidnapped. ](/news/2008/06/21/an-employee-for-the-united-nations-high-commissioner-for-refugees-in-somalia-is-kidnapped.md)
-_Context: Somalia, United Nations High Commissioner for Refugees, kidnap_
+_Context: kidnap, United Nations High Commissioner for Refugees, Somalia_
 
 ##### Central African Republic
 ### [ The Government of the Central African Republic signs a peace deal with two rebel groups which promises amnesty for rebel soldiers. ](/news/2008/06/21/the-government-of-the-central-african-republic-signs-a-peace-deal-with-two-rebel-groups-which-promises-amnesty-for-rebel-soldiers.md)
@@ -29,7 +29,7 @@ More than 800 people were missing on Monday after a Philippine ferry capsized in
 
 ##### South Korea
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
-_Context: South Korea, beef imports, mad cow disease, United States_
+_Context: United States, mad cow disease, beef imports, South Korea_
 
 ##### International Security Assistance Force
 ### [ Four ISAF soldiers are killed by a bomb in Afghanistan. ](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.md)

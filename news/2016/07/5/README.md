@@ -45,7 +45,7 @@ The FBI tells Hillary Clinton she will not face criminal charges over her use of
 
 ##### July 2016 Baghdad bombings
 ### [Iraqi Interior Minister Mohammed Salem Al-Ghabban says he has submitted his resignation. Al-Ghabban cited a lack of "coordination among security systems" demonstrated by Sunday's bombings in Baghdad that killed over 200 people and injured at least 175 others. No report yet that Prime Minister Haider al-Abadi has accepted this resignation. ](/news/2016/07/5/iraqi-interior-minister-mohammed-salem-al-ghabban-says-he-has-submitted-his-resignation-al-ghabban-cited-a-lack-of-coordination-among-secu.md)
-_Context: July 2016 Baghdad bombings, Mohammed Salem Al-Ghabban, Haider al-Abadi, Iraq Prime Minister, Iraqi Interior Minister_
+_Context: Haider al-Abadi, Iraqi Interior Minister, July 2016 Baghdad bombings, Iraq Prime Minister, Mohammed Salem Al-Ghabban_
 
 ##### Conservative Party (UK) leadership election, 2016
 ### [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.md)
@@ -53,11 +53,11 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 
 ##### NASA
 ### [NASA's "Juno" spacecraft reaches Jupiter and enters into its orbit after a five-year flight. ](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.md)
-_Context: Jupiter, NASA, Juno mission_
+_Context: Juno mission, Jupiter, NASA_
 
 ##### Computer security
 ### [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md)
-_Context: malware, Check Point, India, HummingBad, Apple Inc., Computer security, Beijing, Android, Chinese_
+_Context: Chinese, Computer security, India, Check Point, Apple Inc., HummingBad, Android, malware, Beijing_
 
 ## [Previous Day...](/news/2016/07/4/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/4/index.html)  [JSON](2014/08/4/index.json)  [XML](2014/
 
 ##### Yasynuvata
 ### [Ukrainian government forces recapture control of Yasynuvata from pro-Russian insurgents; government troops have now all but encircled the rebels' second-largest stronghold of Luhansk, and rebels declared a "state of siege" in Donetsk. ](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.md)
-_Context: Yasynuvata, Luhansk, Donetsk_
+_Context: Donetsk, Luhansk, Yasynuvata_
 
 ##### 2014 Israel-Gaza conflict
 ### [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md)
@@ -21,7 +21,7 @@ It is a date that marks the start of events that would go on to change the cours
 
 ##### Dobrolet Airlines
 ### [Russian low-cost Dobrolet Airlines, Aeroflot's 100% subsidiary, suspends all flights, including to Crimea, over sanctions introduced by the European Union. ](/news/2014/08/4/russian-low-cost-dobrolet-airlines-aeroflot-s-100-subsidiary-suspends-all-flights-including-to-crimea-over-sanctions-introduced-by-the.md)
-_Context: European Union, Aeroflot, Crimea, Dobrolet Airlines_
+_Context: Crimea, Dobrolet Airlines, Aeroflot, European Union_
 
 ##### 2014 Ludian earthquake
 ### [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md)
@@ -41,7 +41,7 @@ A ferry with about 200 passengers on board capsizes in a river south of the Bang
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation estimates that the death toll from the Ebola virus outbreak has risen to 887. ](/news/2014/08/4/the-world-health-organisation-estimates-that-the-death-toll-from-the-ebola-virus-outbreak-has-risen-to-887.md)
-_Context: 2014 West Africa Ebola outbreak, Ebola virus, World Health Organisation_
+_Context: Ebola virus, 2014 West Africa Ebola outbreak, World Health Organisation_
 
 ##### US-Africa Leaders Summit
 ### [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-usaafrica-leaders-summit-begins-today-in-washington-d-c.md)

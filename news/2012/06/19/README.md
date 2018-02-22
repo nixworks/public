@@ -17,7 +17,7 @@ Spanish miners on strike fire homemade rockets at police as austerity protests e
 
 ##### Mahmoud Sarsak
 ### [Palestinian footballer Mahmoud Sarsak, on hunger strike over his detention without charge for three years in an Israeli jail, agrees to resume eating if released from captivity. ](/news/2012/06/19/palestinian-footballer-mahmoud-sarsak-on-hunger-strike-over-his-detention-without-charge-for-three-years-in-an-israeli-jail-agrees-to-resu.md)
-_Context: Mahmoud Sarsak, Israel_
+_Context: Israel, Mahmoud Sarsak_
 
 ##### Turkish Army
 ### [At least seven people and 15 members of the Turkish Army are killed in a Kurdistan Workers' Party ambush in the Yuksekova district near the border with Iraq and Iran. ](/news/2012/06/19/at-least-seven-people-and-15-members-of-the-turkish-army-are-killed-in-a-kurdistan-workers-party-ambush-in-the-ya1-4ksekova-district-near-the.md)

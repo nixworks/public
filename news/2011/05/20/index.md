@@ -9,7 +9,7 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 
 ##### Anton Hammerl
 ### [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md)
-_Context: Libya, Muammar Gaddafi, Anton Hammerl, South Africa_
+_Context: Anton Hammerl, South Africa, Muammar Gaddafi, Libya_
 
 ##### Pakistan
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
@@ -37,7 +37,7 @@ TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has 
 
 ##### Soweto
 ### [More than 850 people are injured after a train collision in Soweto, South Africa. ](/news/2011/05/20/more-than-850-people-are-injured-after-a-train-collision-in-soweto-south-africa.md)
-_Context: Soweto, South Africa_
+_Context: South Africa, Soweto_
 
 ##### Tornado
 ### [A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md)
@@ -45,15 +45,15 @@ A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy 
 
 ##### Fiji
 ### [A disaster alert is issued for Fiji, after giant waves triggered by a deep pressure system in the Southern Ocean hit the Coral Coast. ](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.md)
-_Context: Coral Coast, Fiji, Southern Ocean_
+_Context: Southern Ocean, Fiji, Coral Coast_
 
 ##### Mississippi River
 ### [Travel on the Mississippi River is closed for five miles near the US city of Baton Rouge, Louisiana due to flooding. ](/news/2011/05/20/travel-on-the-mississippi-river-is-closed-for-five-miles-near-the-us-city-of-baton-rouge-louisiana-due-to-flooding.md)
-_Context: Baton Rouge, Louisiana, Louisiana, flooding, Mississippi River_
+_Context: Louisiana, Baton Rouge, Louisiana, Mississippi River, flooding_
 
 #####  Georgian
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
-_Context: Circassians, Russian,  Georgian, Caucasus, genocide_
+_Context: Russian, Caucasus, Circassians, genocide,  Georgian_
 
 ##### Japan
 ### [Japan agrees to join an international child custody agreement under the 1980 Hague Convention on the Civil Aspects of International Child Abduction. ](/news/2011/05/20/japan-agrees-to-join-an-international-child-custody-agreement-under-the-1980-hague-convention-on-the-civil-aspects-of-international-child-ab.md)
@@ -65,7 +65,7 @@ North Korean leader Kim Jong Il was visiting China on Friday, a South Korean off
 
 ##### U.S. President
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Benjamin Netanyahu, White House, Six Day War, U.S. President, Israeli Prime Minister, Barack Obama_
+_Context: U.S. President, White House, Barack Obama, Israeli Prime Minister, Six Day War, Benjamin Netanyahu_
 
 ##### Taiwan
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
@@ -101,7 +101,7 @@ Young Spaniards plan to defy a ban on their protest camp in Madrid as their chal
 
 ##### Santiago
 ### [Tens of thousands of people protest in Santiago, Chile about plans to build two dams on wild rivers in southern Patagonia with an minority of people turning violent. ](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.md)
-_Context: Santiago, Patagonia, Chile_
+_Context: Patagonia, Chile, Santiago_
 
 ##### Government
 ### [The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. ](/news/2011/05/20/the-government-of-the-people-s-republic-of-china-acknowledges-that-there-are-urgent-problems-associated-with-the-country-s-three-gorges-da.md)

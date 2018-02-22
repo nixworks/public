@@ -13,7 +13,7 @@ Chinese archaeologists discover what they believe is a 2,400-year-old pot of sou
 
 ##### Brunei
 ### [Brunei and Malaysia sign a deal to jointly explore and produce oil and gas off the coast of northern Borneo. ](/news/2010/12/13/brunei-and-malaysia-sign-a-deal-to-jointly-explore-and-produce-oil-and-gas-off-the-coast-of-northern-borneo.md)
-_Context: Borneo, Malaysia, Brunei_
+_Context: Brunei, Borneo, Malaysia_
 
 ##### Scotland
 ### [Major British supermarkets and online stores stop taking orders in Scotland in the run up to Christmas, because of a backlog of deliveries caused by the recent adverse weather conditions. ](/news/2010/12/13/major-british-supermarkets-and-online-stores-stop-taking-orders-in-scotland-in-the-run-up-to-christmas-because-of-a-backlog-of-deliveries-c.md)
@@ -29,7 +29,7 @@ _Context: flood, Colombia_
 
 ##### China
 ### [Woman's arson kills 9 in gambling grievances in east China's Zhejiang Province. ](/news/2010/12/13/woman-s-arson-kills-9-in-gambling-grievances-in-east-china-s-zhejiang-province.md)
-_Context: Zhejiang Province, China_
+_Context: China, Zhejiang Province_
 
 ##### Israel
 ### [New Israeli bill would prevent a terror suspect from meeting a specific lawyer for 6 months instead of 21 days as is the case today. The maximum period of time in which a terror suspect can be denied access to a specific lawyer will be one year. ](/news/2010/12/13/new-israeli-bill-would-prevent-a-terror-suspect-from-meeting-a-specific-lawyer-for-6-months-instead-of-21-days-as-is-the-case-today-the-max.md)
@@ -49,11 +49,11 @@ The first person to face a second murder trial after the discovery of new forens
 
 ##### US Eastern District Court of Virginia
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
-_Context: health care reform, US Eastern District Court of Virginia, Henry E. Hudson, health insurance, Barack Obama_
+_Context: Barack Obama, US Eastern District Court of Virginia, health insurance, health care reform, Henry E. Hudson_
 
 #####  Catholic nun
 ### [An American Catholic nun pleads not guilty to charges of embezzling $850,000 from Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
-_Context:  Catholic nun, embezzled,  Iona College_
+_Context: embezzled,  Catholic nun,  Iona College_
 
 ##### Saeb Erakat
 ### [Palestinian negotiator Saeb Erakat asks the European Union to recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md)
@@ -75,11 +75,11 @@ _Context: Bangladesh_
 
 ##### OpenLeaks
 ### [OpenLeaks, a splinter group rivaling WikiLeaks, launches its website. ](/news/2010/12/13/openleaks-a-splinter-group-rivaling-wikileaks-launches-its-website.md)
-_Context: WikiLeaks, OpenLeaks_
+_Context: OpenLeaks, WikiLeaks_
 
 ##### Papua New Guinea
 ### [Papua New Guinea's Supreme Court unanimously rules the reappointment of Sir Paulias Matane as Governor-General of Papua New Guinea unconstitutional due to the lack of a secret ballot. Matane steps down from his position and Jeffrey Nape becomes acting Governor-General. ](/news/2010/12/13/papua-new-guinea-s-supreme-court-unanimously-rules-the-reappointment-of-sir-paulias-matane-as-governor-general-of-papua-new-guinea-unconstit.md)
-_Context: Supreme Court, Papua New Guinea, secret ballot, Governor-General of Papua New Guinea, Paulias Matane, Jeffrey Nape_
+_Context: Jeffrey Nape, Paulias Matane, Papua New Guinea, Governor-General of Papua New Guinea, secret ballot, Supreme Court_
 
 ##### Hashim Thaci
 ### [Hashim Thaci, the Prime Minister of Kosovo, claims victory in the Kosovan parliamentary election. ](/news/2010/12/13/hashim-thaassi-the-prime-minister-of-kosovo-claims-victory-in-the-kosovan-parliamentary-election.md)
@@ -91,11 +91,11 @@ Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad h
 
 ##### Bernie Sanders
 ### [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-ve.md)
-_Context: Bernie Sanders,  senate,  wealth, Banana republic,  inequality in income_
+_Context: Bernie Sanders,  inequality in income,  wealth, Banana republic,  senate_
 
 ##### Fork-marked lemur
 ### [A new species of fork-marked lemur has been identified in northeast Madagascar. ](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-identified-in-northeast-madagascar.md)
-_Context: Madagascar, fork-marked lemur_
+_Context: fork-marked lemur, Madagascar_
 
 ## [Previous Day...](/news/2010/12/12/index.md)
 

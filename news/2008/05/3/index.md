@@ -13,11 +13,11 @@ _Context: 2008, Guam caucuses, Barack Obama_
 
 ##### Big Brown
 ### [ Big Brown wins the 2008 Kentucky Derby. Eight Belles, the only filly in the field, breaks down after finishing second in the race, and is euthanized. ](/news/2008/05/3/big-brown-wins-the-2008-kentucky-derby-eight-belles-the-only-filly-in-the-field-breaks-down-after-finishing-second-in-the-race-and-is-e.md)
-_Context: euthanizing animals, Eight Belles, 2008 Kentucky Derby, Big Brown, filly_
+_Context: Big Brown, Eight Belles, 2008 Kentucky Derby, filly, euthanizing animals_
 
 ##### Prison
 ### [ At least 18 prisoners are killed during a fight in a jail in Tegucigalpa, the capital of Honduras. This follows the recent deaths of nine prisoners in a riot in San Pedro Sula with both riots being blamed on overcrowding and gang rivalry. ](/news/2008/05/3/at-least-18-prisoners-are-killed-during-a-fight-in-a-jail-in-tegucigalpa-the-capital-of-honduras-this-follows-the-recent-deaths-of-nine-p.md)
-_Context: San Pedro Sula, jail, prison, Tegucigalpa, gang, Honduras_
+_Context: San Pedro Sula, jail, prison, gang, Tegucigalpa, Honduras_
 
 ##### Chile
 ### [ In Chilean Patagonia, almost all Chaitn's inhabitants flee the capital city of Palena Province when a nearby volcano erupts after being inactive for 450 years. ](/news/2008/05/3/in-chilean-patagonia-almost-all-chaiten-s-inhabitants-flee-the-capital-city-of-palena-province-when-a-nearby-volcano-erupts-after-being-in.md)

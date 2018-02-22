@@ -29,7 +29,7 @@ BlackBerry Ltd (BB.TO) BBRY.O reported a smaller quarterly loss on Friday and fl
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md)
-_Context: Ebola virus, Ebola virus epidemic in West Africa, World Health Organisation_
+_Context: Ebola virus epidemic in West Africa, World Health Organisation, Ebola virus_
 
 ##### Hong Kong
 ### [At least 100 pro-democracy protestors enter the main government compound in Hong Kong. ](/news/2014/09/26/at-least-100-pro-democracy-protestors-enter-the-main-government-compound-in-hong-kong.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/1/index.html)  [JSON](2015/01/1/index.json)  [XML](2015/
 
 ##### Terrorism in Yemen
 ### [The death toll of the suicide bombing in Ibb, Yemen, that occurred on December 31 rises to 49 with the injury count rising to 70. ](/news/2015/01/1/the-death-toll-of-the-suicide-bombing-in-ibb-yemen-that-occurred-on-december-31-rises-to-49-with-the-injury-count-rising-to-70.md)
-_Context: suicide bombing, Ibb, Terrorism in Yemen, Yemen_
+_Context: Ibb, Terrorism in Yemen, Yemen, suicide bombing_
 
 ##### Killarney, Calgary
 ### [A shooting kills one and injures six people in Killarney, Calgary, Canada, with police making no arrests. ](/news/2015/01/1/a-shooting-kills-one-and-injures-six-people-in-killarney-calgary-canada-with-police-making-no-arrests.md)

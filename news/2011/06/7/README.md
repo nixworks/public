@@ -17,11 +17,11 @@ Libyan leader Moammar Gadhafi vowed Tuesday that &quot;we will not surrender,&qu
 
 ##### Nigeria
 ### [Three explosions and gunfire are heard in the northeastern Nigerian town of Maiduguri after suspected Islamist sect Boko Haram attack police stations. ](/news/2011/06/7/three-explosions-and-gunfire-are-heard-in-the-northeastern-nigerian-town-of-maiduguri-after-suspected-islamist-sect-boko-haram-attack-police.md)
-_Context: Islamist, Nigeria, Boko Haram, Maiduguri_
+_Context: Boko Haram, Maiduguri, Islamist, Nigeria_
 
 ##### Sudan
 ### [Fighting in Sudan's South Kordofan state between northern and southern-allied rebels kills six people. ](/news/2011/06/7/fighting-in-sudan-s-south-kordofan-state-between-northern-and-southern-allied-rebels-kills-six-people.md)
-_Context: South Sudan, South Kordofan, Sudan_
+_Context: South Kordofan, South Sudan, Sudan_
 
 ##### Jewish settler
 ### [Jewish settlers are accused of attacking a mosque in the West Bank, setting alight carpets and daubing Hebrew graffiti on its walls; Israeli Prime Minister Benjamin Netanyahu strongly condemns the act. ](/news/2011/06/7/jewish-settlers-are-accused-of-attacking-a-mosque-in-the-west-bank-setting-alight-carpets-and-daubing-hebrew-graffiti-on-its-walls-israeli.md)
@@ -49,7 +49,7 @@ Days of heavy rain caused houses and shanties in the capital to collapse.
 
 ##### South Pacific Ocean
 ### [Tropical Storm Adrian forms in the eastern Pacific Ocean becoming the first tropical storm of the 2011 Pacific hurricane season. ](/news/2011/06/7/tropical-storm-adrian-forms-in-the-eastern-pacific-ocean-becoming-the-first-tropical-storm-of-the-2011-pacific-hurricane-season.md)
-_Context: Hurricane Jova, South Pacific Ocean, tropical storm_
+_Context: Hurricane Jova, tropical storm, South Pacific Ocean_
 
 ##### St. Louis
 ### [Minor earthquake (4.2) in St. Louis, Missouri area within New Madrid Seismic Zone, one of the few intraplate zones. ](/news/2011/06/7/minor-earthquake-4-2-in-st-louis-missouri-area-within-new-madrid-seismic-zone-one-of-the-few-intraplate-zones.md)
@@ -57,7 +57,7 @@ Missouri suffered a small earthquake Tuesday that caused no deaths or injuries, 
 
 ##### NATO
 ### [NATO and Russia conduct first-ever joint military exercises, codenamed 'Vigilant Skies 2011', to improve cooperation to protect passenger flights between NATO member states and Russia and to prevent hijackings such as the September 11 attacks. ](/news/2011/06/7/nato-and-russia-conduct-first-ever-joint-military-exercises-codenamed-vigilant-skies-2011-to-improve-cooperation-to-protect-passenger-fl.md)
-_Context: Russia, NATO, aircraft piracy, drill, September 11 attacks_
+_Context: drill, September 11 attacks, aircraft piracy, NATO, Russia_
 
 ##### German Chancellor
 ### [At a news conference with visiting German Chancellor Angela Merkel, US President Barack Obama says the United States and its allies may impose additional sanctions on Iran over its nuclear program, after Iran says that no offer could halt its enrichment of uranium. ](/news/2011/06/7/at-a-news-conference-with-visiting-german-chancellor-angela-merkel-us-president-barack-obama-says-the-united-states-and-its-allies-may-impo.md)
@@ -65,11 +65,11 @@ President Barack Obama said on Tuesday the United States and its allies may slap
 
 ##### Drug rehabilitation
 ### [Two gunmen attack a drug rehabilitation facility in the Mexican city of Torreon in Coahuila. ](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility-in-the-mexican-city-of-torreon-in-coahuila.md)
-_Context: Torreon, Mexico, drug rehabilitation, Coahuila_
+_Context: Coahuila, Mexico, Torreon, drug rehabilitation_
 
 ##### Governor of Chiapas
 ### [The former Governor of Chiapas state in Mexico Pablo Salazar is arrested on charges on embezzling more than $90 million from hurricane relief funds. ](/news/2011/06/7/the-former-governor-of-chiapas-state-in-mexico-pablo-salazar-is-arrested-on-charges-on-embezzling-more-than-90-million-from-hurricane-relie.md)
-_Context: embezzlement, Pablo Salazar, Mexico, Governor of Chiapas_
+_Context: Mexico, embezzlement, Pablo Salazar, Governor of Chiapas_
 
 ##### South Korea
 ### [Students at four South Korean universities Korea University, Sogang University, Sookmyung Women's University and Ewha Womans University go on strike for a day in favour of reduced tuition fees.](/news/2011/06/7/students-at-four-south-korean-universities-korea-university-sogang-university-sookmyung-women-s-university-and-ewha-womans-university-go-o.md)

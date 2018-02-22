@@ -13,7 +13,7 @@ Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;str
 
 ##### Buenos Aires
 ### [A train collision in Buenos Aires, Argentina, results in three deaths and at least 150 injured. ](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.md)
-_Context: Argentina, Buenos Aires_
+_Context: Buenos Aires, Argentina_
 
 ##### Geismar
 ### [A chemical plant explodes in Geismar, Louisiana, injuring 73 people and killing one. ](/news/2013/06/13/a-chemical-plant-explodes-in-geismar-louisiana-injuring-73-people-and-killing-one.md)
@@ -37,7 +37,7 @@ Several officials, including a top aide to Prime Minister Petr Necas, are report
 
 ##### Salcaja
 ### [Gunmen ambush and kill eight police officers and kidnap the chief of police in Salcaja, Guatemala. ](/news/2013/06/13/gunmen-ambush-and-kill-eight-police-officers-and-kidnap-the-chief-of-police-in-salcaja-guatemala.md)
-_Context: Salcaja, Guatemala_
+_Context: Guatemala, Salcaja_
 
 ##### Dale Cregan
 ### [British gangster Dale Cregan is sentenced to a whole life tariff for the murders of four people, including two police officers. ](/news/2013/06/13/british-gangster-dale-cregan-is-sentenced-to-a-whole-life-tariff-for-the-murders-of-four-people-including-two-police-officers.md)

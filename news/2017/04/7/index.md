@@ -9,7 +9,7 @@ President Bashar al-Assad &#x27;choked out the lives of helpless men, women and 
 
 ##### Last month's Westminster attack
 ### [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md)
-_Context: River Thames, last month's Westminster attack_
+_Context: last month's Westminster attack, River Thames_
 
 ##### 2017 Stockholm attack
 ### [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md)
@@ -33,7 +33,7 @@ Seattle rockers Pearl Jam, the late rapper Tupac Shakur and 1970s hitmaking band
 
 ##### Jhelum River
 ### [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md)
-_Context: Jhelum River, Kashmir_
+_Context: Kashmir, Jhelum River_
 
 ##### Myanmar
 ### [Twenty people have died and more than a dozen missing after a ferry capsizes in Myanmar's Irrawaddy River delta. ](/news/2017/04/7/twenty-people-have-died-and-more-than-a-dozen-missing-after-a-ferry-capsizes-in-myanmar-s-irrawaddy-river-delta.md)
@@ -53,11 +53,11 @@ The Trump administration has retreated from its demands that Twitter name the pe
 
 ##### Neil Gorsuch
 ### [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md)
-_Context: Neil Gorsuch, Supreme Court of the United States, United States Senate, nuclear option_
+_Context: Supreme Court of the United States, nuclear option, Neil Gorsuch, United States Senate_
 
 ##### Alabama
 ### [The governor of the State of Alabama, Robert Bentley, wins a court victory halting impeachment proceedings that were set to begin Monday to determine whether he should remain in office after it was discovered that he had a romantic relationship with a staffer. ](/news/2017/04/7/the-governor-of-the-state-of-alabama-robert-bentley-wins-a-court-victory-halting-impeachment-proceedings-that-were-set-to-begin-monday-to.md)
-_Context: Alabama, Robert Bentley_
+_Context: Robert Bentley, Alabama_
 
 ##### Kabila government
 ### [President Joseph Kabila appoints Bruno Tshibala of the Union for Democracy and Social Progress as the Prime Minister of the Democratic Republic of the Congo. Kabila's earlier announcement of his decision to appoint a new prime minister prompted Samy Badibanga to resign from the role after less than five months in office. ](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.md)

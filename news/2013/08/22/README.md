@@ -21,7 +21,7 @@ Trading ceased in all Nasdaq-listed securities Thursday after the electronic exc
 
 ##### Typhoon Nari
 ### [Severe tropical storm Trami arrives in southern China after killing seventeen people in the Philippines. ](/news/2013/08/22/severe-tropical-storm-trami-arrives-in-southern-china-after-killing-seventeen-people-in-the-philippines.md)
-_Context: Chinese, Typhoon Nari, Philippines_
+_Context: Typhoon Nari, Chinese, Philippines_
 
 ##### Monterey Park, California
 ### [At least 50 are injured in bus crash in Monterey Park, California. ](/news/2013/08/22/at-least-50-are-injured-in-bus-crash-in-monterey-park-california.md)
@@ -29,7 +29,7 @@ _Context: Monterey Park, California_
 
 ##### Rim Fire
 ### [The Rim Fire, in Yosemite National Park forces evacuations. ](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.md)
-_Context: Rim Fire, Yosemite National Park_
+_Context: Yosemite National Park, Rim Fire_
 
 ##### 10 Downing Street
 ### [The UK government's independent reviewer of terrorism laws is to probe the arrest of David Miranda. ](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.md)

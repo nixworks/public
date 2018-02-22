@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/24/index.html)  [JSON](2017/04/24/index.json)  [XML](201
 
 ##### 2017 Camp Shaheen attack
 ### [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md)
-_Context: Abdullah Habibi, Defense Ministry, Taliban, 2017 Camp Shaheen attack, Afghan, Afghan National Army, Mazar-i-Sharif, Qadam Shah Shahim_
+_Context: Afghan National Army, 2017 Camp Shaheen attack, Mazar-i-Sharif, Qadam Shah Shahim, Defense Ministry, Taliban, Abdullah Habibi, Afghan_
 
 ##### 2017 Sukma attack
 ### [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md)
@@ -21,7 +21,7 @@ Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters tur
 
 ##### Drug crackdown
 ### [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md)
-_Context: Rodrigo Duterte, crimes against humanity, drug crackdown, ICC, Netherlands, Philippines, The Hague, mass murder_
+_Context: mass murder, Philippines, Rodrigo Duterte, ICC, Netherlands, drug crackdown, The Hague, crimes against humanity_
 
 ##### List of offenders executed in the United States in 2017
 ### [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md)
@@ -33,7 +33,7 @@ Marine Le Pen says she will be above &quot;partisan considerations&quot; as she 
 
 ##### Muhammad V
 ### [Muhammad V is formally installed as the 15th King of Malaysia. ](/news/2017/04/24/muhammad-v-is-formally-installed-as-the-15th-king-of-malaysia.md)
-_Context: King of Malaysia, Muhammad V_
+_Context: Muhammad V, King of Malaysia_
 
 ##### Last general election
 ### [The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". ](/news/2017/04/24/the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-election-for-the-first-time-since-its-form.md)

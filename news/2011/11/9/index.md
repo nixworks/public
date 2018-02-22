@@ -49,7 +49,7 @@ Thousands of head teachers in England and Wales have voted in favour of strike a
 
 ##### San Francisco, California
 ### [Voters in San Francisco, California, elect Ed Lee as the city's interim Mayor. Lee is the first Asian-American to become Mayor of San Francisco. ](/news/2011/11/9/voters-in-san-francisco-california-elect-ed-lee-as-the-city-s-interim-mayor-lee-is-the-first-asian-american-to-become-mayor-of-san-franci.md)
-_Context: San Francisco, California, Mayor of San Francisco, Asian-American, Ed Lee, California_
+_Context: Ed Lee, California, San Francisco, California, Mayor of San Francisco, Asian-American_
 
 ##### Russia
 ### [Russia's Fobos-Grunt mission to the Martian moon of Phobos runs into problems shortly after its launch, with no telemetry reported from the spacecraft. ](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.md)

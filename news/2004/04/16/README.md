@@ -5,19 +5,19 @@ Formats: [HTML](2004/04/16/index.html)  [JSON](2004/04/16/index.json)  [XML](200
 
 ##### China
 ### [ The People's Republic of China praises the United Nations Commission on Human Rights' decision to block a U.S. motion to condemn Beijing's human rights record. ](/news/2004/04/16/the-people-s-republic-of-china-praises-the-united-nations-commission-on-human-rights-decision-to-block-a-u-s-motion-to-condemn-beijing-s.md)
-_Context: Chinese human rights, China, United Nations Commission on Human Rights_
+_Context: China, United Nations Commission on Human Rights, Chinese human rights_
 
 ##### Sher Bahadur Deuba
 ### [ 1000 more demonstrators, including former prime minister Sher Bahadur Deuba, are arrested in Kathmandu. They are calling on the King of Nepal to restore democracy. ](/news/2004/04/16/1000-more-demonstrators-including-former-prime-minister-sher-bahadur-deuba-are-arrested-in-kathmandu-they-are-calling-on-the-king-of-nep.md)
-_Context: Sher Bahadur Deuba, Kathmandu, Nepal_
+_Context: Kathmandu, Nepal, Sher Bahadur Deuba_
 
 ##### United States soldier
 ### [ US Army in Iraq employs a 1000&nbsp;kg bomb at Falluja, near the Shiite town Najaf. ](/news/2004/04/16/us-army-in-iraq-employs-a-1000-nbsp-kg-bomb-at-falluja-near-the-shiite-town-najaf.md)
-_Context: Falluja, Najaf, United States soldier, Iraq, Shiite_
+_Context: Shiite, Falluja, Iraq, United States soldier, Najaf_
 
 ##### Mexico
 ### [ Mexico - Economy of Mexico: Mexico's Foreign Affairs Secretary, Luis Ernesto Derbez, announces that his country is seeking admission to South America's Mercosur trade bloc, the third largest in the world. ](/news/2004/04/16/mexico-economy-of-mexico-mexico-s-foreign-affairs-secretary-luis-ernesto-derbez-announces-that-his-country-is-seeking-admission-to-sou.md)
-_Context: Mercosur, Mexico, Luis Ernesto Derbez, economy_
+_Context: economy, Luis Ernesto Derbez, Mercosur, Mexico_
 
 ##### NRA
 ### [ Seeking legal recognition as a news organization, the National Rifle Association begins NRANews, a website dedicated to presenting its view of the right to keep and bear arms. ](/news/2004/04/16/seeking-legal-recognition-as-a-news-organization-the-national-rifle-association-begins-nranews-a-website-dedicated-to-presenting-its-view.md)
@@ -25,7 +25,7 @@ _Context: right to keep and bear arms, NRA, NRANews_
 
 ##### Mark Chen
 ### [ Mark Chen replaces Eugene Chien as foreign minister of the Republic of China. Chien resigned to take responsibility for American Institute in Taiwan Director Therese Shaheen's resignation. ](/news/2004/04/16/mark-chen-replaces-eugene-chien-as-foreign-minister-of-the-republic-of-china-chien-resigned-to-take-responsibility-for-american-institute.md)
-_Context: foreign minister of the Republic of China, Mark Chen, Therese Shaheen, Eugene Chien, American Institute in Taiwan_
+_Context: American Institute in Taiwan, Eugene Chien, foreign minister of the Republic of China, Therese Shaheen, Mark Chen_
 
 ## [Previous Day...](/news/2004/04/15/index.md)
 

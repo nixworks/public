@@ -9,7 +9,7 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 
 ##### New People's Army
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)
-_Context: Tampakan, New People's Army, Philippines_
+_Context: Philippines, Tampakan, New People's Army_
 
 ##### Hamas
 ### [Hamas states that it will agree to a ceasefire and halt their rocket fire at Israel if Israel stops attacking targets in the Gaza Strip. ](/news/2011/03/26/hamas-states-that-it-will-agree-to-a-ceasefire-and-halt-their-rocket-fire-at-israel-if-israel-stops-attacking-targets-in-the-gaza-strip.md)
@@ -29,7 +29,7 @@ Ford Motor Co (F.N) will idle its auto plant in Genk, Belgium, for five days sta
 
 ##### Radiation
 ### [Levels of radiation in Tokyo's water supply return to normal. ](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-return-to-normal.md)
-_Context: radiation, Tokyo_
+_Context: Tokyo, radiation_
 
 ##### Mandalay
 ### [A woman becomes the first person to be jailed for violating a ban on non-recyclable plastic bags in Mandalay, Burma. ](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.md)
@@ -49,7 +49,7 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Democrat, United States House of Representatives, Boston, Massachusetts, Vice-President of the United States, Geraldine Ferraro_
+_Context: Vice-President of the United States, United States House of Representatives, Geraldine Ferraro, Democrat, Boston, Massachusetts_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)

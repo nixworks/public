@@ -13,7 +13,7 @@ Kerry is seeking to end the fighting between the Houthis, allied to Iran, and th
 
 ##### Smog
 ### [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md)
-_Context: Health Ministry, Tehran, smog, Iran_
+_Context: smog, Tehran, Iran, Health Ministry_
 
 ##### Russian President
 ### [Russian President Vladimir Putin signs a symbolic order to withdraw Russia's signature from the Rome Statute of the International Criminal Court (ICC) amid calls by pro-rebel western Non-governmental organisations for an investigation into alleged Russian war crimes in Syria. ](/news/2016/11/16/russian-president-vladimir-putin-signs-a-symbolic-order-to-withdraw-russia-s-signature-from-the-rome-statute-of-the-international-criminal-c.md)
@@ -21,7 +21,7 @@ Vladimir Putin has signed an order to have Russia withdrawn from the Internation
 
 ##### Muezzin
 ### [ A so-called "Muezzin Bill" which would limit the volume and usage time of loudspeakers in mosques during muezzin to decrease noise pollution is put to parliament in Israel and opposed by both Arab and Jewish ultra-orthodox parties. ](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-volume-and-usage-time-of-loudspeakers-in-mosques-during-muezzin-to-decrease-noise-pollutio.md)
-_Context: parliament in Israel, muezzin, Jewish ultra-orthodox_
+_Context: muezzin, parliament in Israel, Jewish ultra-orthodox_
 
 ## [Previous Day...](/news/2016/11/15/index.md)
 

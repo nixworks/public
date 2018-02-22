@@ -5,15 +5,15 @@ Formats: [HTML](2005/07/17/index.html)  [JSON](2005/07/17/index.json)  [XML](200
 
 ##### Prime Minister
 ### [ Former British Prime Minister Sir Edward Heath dies at his Salisbury home at the age of 89. ](/news/2005/07/17/former-british-prime-minister-sir-edward-heath-dies-at-his-salisbury-home-at-the-age-of-89.md)
-_Context: Edward Heath, Salisbury, Prime Minister_
+_Context: Salisbury, Edward Heath, Prime Minister_
 
 ##### Time
 ### [ "Time" correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser-to.md)
-_Context: grand jury, Matthew Cooper, George W. Bush, Karl Rove, CIA, Valerie Plame, Time_
+_Context: grand jury, Time, Matthew Cooper, Karl Rove, George W. Bush, Valerie Plame, CIA_
 
 ##### Firemen
 ### [ Fourteen Spanish Firefighters have died while attempting to battle a forest fire in the central province of Guadalajara. ](/news/2005/07/17/fourteen-spanish-firefighters-have-died-while-attempting-to-battle-a-forest-fire-in-the-central-province-of-guadalajara.md)
-_Context: forest fire, Guadalajara, firemen_
+_Context: firemen, Guadalajara, forest fire_
 
 ##### Military
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
@@ -25,15 +25,15 @@ _Context: Baghdad, Conflict in Iraq_
 
 ##### Palestinians
 ### [ A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-force-sources-claim-he-was-armed.md)
-_Context: Netzarim, Israeli settlement, Palestinians, Gaza Strip, Israeli soldier_
+_Context: Gaza Strip, Israeli settlement, Palestinians, Israeli soldier, Netzarim_
 
 ##### Thailand
 ### [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md)
-_Context: states of emergency, Muslim, insurgency, Narathiwat, Pattani, Yala Province, Thailand_
+_Context: states of emergency, Narathiwat, insurgency, Yala Province, Thailand, Muslim, Pattani_
 
 ##### Yemen
 ### [ In Yemen, president Ali Abdullah Saleh announces that he won't seek re-election next year. ](/news/2005/07/17/in-yemen-president-ali-abdullah-saleh-announces-that-he-won-t-seek-re-election-next-year.md)
-_Context: Ali Abdullah Saleh, Yemen_
+_Context: Yemen, Ali Abdullah Saleh_
 
 ##### Egypt
 ### [ In Egypt, presidential feminist aspirant Nawal El Saadawi pulls out of the race due to restrictive election regulations for first-time candidates. ](/news/2005/07/17/in-egypt-presidential-feminist-aspirant-nawal-el-saadawi-pulls-out-of-the-race-due-to-restrictive-election-regulations-for-first-time-cand.md)
@@ -45,7 +45,7 @@ _Context: Labour and Social Justice Party, The Party of the Left._
 
 ##### Sunni Council
 ### [ In The United Kingdom, Britain's Sunni Council announces a fatwa against suicide bombings. ](/news/2005/07/17/in-the-united-kingdom-britain-s-sunni-council-announces-a-fatwa-against-suicide-bombings.md)
-_Context: fatwa, Sunni Council, suicide bombing_
+_Context: suicide bombing, fatwa, Sunni Council_
 
 ##### Nigeria
 ### [ In Nigeria, Amaka Anajemba is sentenced for two years involvement with a money transfer scam worth $242 million. ](/news/2005/07/17/in-nigeria-amaka-anajemba-is-sentenced-for-two-years-involvement-with-a-money-transfer-scam-worth-242-million.md)
@@ -57,7 +57,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Turkey
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: minibus bombing in Kusadasi, Kurdistan Workers' Party, Turkey_
+_Context: Turkey, minibus bombing in Kusadasi, Kurdistan Workers' Party_
 
 ##### Sunni Waqf Board
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal. ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)

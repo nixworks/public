@@ -21,7 +21,7 @@ The suspected killer in the Ft. Lauderdale rampage apparently traveled to the ai
 
 ##### Brazil
 ### [Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. ](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.md)
-_Context: Brazil, Roraima, Primeiro Comando da Capital, Amazonas_
+_Context: Amazonas, Primeiro Comando da Capital, Brazil, Roraima_
 
 ##### Alleged Russian interference in the 2016 U.S. election
 ### [A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. ](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-that-vladimir-putin-ordered-a-campaign-to-influence-the-u-s-presidential-election-against-de.md)

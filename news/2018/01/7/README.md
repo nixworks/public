@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/7/index.html)  [JSON](2018/01/7/index.json)  [XML](2018/
 
 ##### Syrian Civil War
 ### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
-_Context: Idlib, Syrian Civil War, Chechen, Syrian Observatory for Human Rights, Ajnad al-Kavkaz, Syria_
+_Context: Ajnad al-Kavkaz, Syrian Civil War, Syrian Observatory for Human Rights, Idlib, Syria, Chechen_
 
 ##### Education in Iran
 ### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
@@ -33,11 +33,11 @@ Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead oppo
 
 ##### Politics of Yemen
 ### [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md)
-_Context: Ahmed, Sadeq Ameen Abu Rass, Politics of Yemen, Ali Abdullah Saleh, General People's Congress_
+_Context: General People's Congress, Ahmed, Ali Abdullah Saleh, Politics of Yemen, Sadeq Ameen Abu Rass_
 
 ##### Weinstein effect
 ### [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md)
-_Context: Norwegian parliament, Weinstein effect, Norway, finance committee, Trond Giske, Labour Party_
+_Context: Norway, Norwegian parliament, Trond Giske, finance committee, Weinstein effect, Labour Party_
 
 ## [Previous Day...](/news/2018/01/6/index.md)
 

@@ -33,7 +33,7 @@ Christophe de Margerie, chief executive of French oil company Total since 2007, 
 
 ##### Joko Widodo
 ### [Joko Widodo is sworn in as President of Indonesia. ](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.md)
-_Context: President of Indonesia, Joko Widodo, sworn in_
+_Context: Joko Widodo, President of Indonesia, sworn in_
 
 ##### Prime Minister of Japan
 ### [Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. ](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.md)

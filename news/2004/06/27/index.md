@@ -5,7 +5,7 @@ Formats: [HTML](2004/06/27/index.html)  [JSON](2004/06/27/index.json)  [XML](200
 
 ##### Fahrenheit 9/11
 ### [ "Fahrenheit 9-11" breaks the record for highest opening-weekend earnings in the United States for a documentary, earning US$23.9 million. ](/news/2004/06/27/fahrenheit-9-11-breaks-the-record-for-highest-opening-weekend-earnings-in-the-united-states-for-a-documentary-earning-us-23-9-million.md)
-_Context: Fahrenheit 9/11, documentary, US dollar_
+_Context: documentary, Fahrenheit 9/11, US dollar_
 
 ##### Serbian presidential election, 2004
 ### [ In the 2004 Serbian presidential election, Boris Tadic defeats Tomislav Nikolic in the run-off, with 53.7% to 45.0% of the votes. ](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.md)
@@ -25,11 +25,11 @@ _Context: beheaded, Turkey, Iraqi insurgent_
 
 ##### Palestinians
 ### [ Palestinians detonate 150&nbsp;kg (330&nbsp;lb) of explosives placed in a 300-meter (1000&nbsp;ft) long tunnel against an Israeli army position in the Gaza Strip. 2000 Palestinians rush into the streets of Gaza City to celebrate. ](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.md)
-_Context: Palestinians, Israel, Gaza Strip_
+_Context: Israel, Palestinians, Gaza Strip_
 
 ##### Gay pride
 ### [ Gay pride celebrations, parades and protests are held globally, marking the 35th anniversary of the Stonewall Riots, the traditional birth of the modern LGBT civil rights movement. ](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.md)
-_Context: civil rights, Stonewall Riots, gay and bisexual men, Gay pride_
+_Context: gay and bisexual men, Stonewall Riots, civil rights, Gay pride_
 
 ## [Previous Day...](/news/2004/06/26/index.md)
 

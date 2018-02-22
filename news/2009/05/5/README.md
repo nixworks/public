@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/5/index.html)  [JSON](2009/05/5/index.json)  [XML](2009/
 
 ##### Current outbreak
 ### [ The confirmed worldwide number of cases of swine influenza reaches 1,490. ](/news/2009/05/5/the-confirmed-worldwide-number-of-cases-of-swine-influenza-reaches-1-490.md)
-_Context: swine flu, current outbreak_
+_Context: current outbreak, swine flu_
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government reveals the names of 16 of the 22 people banned from entering the United Kingdom. ](/news/2009/05/5/her-majesty-s-government-reveals-the-names-of-16-of-the-22-people-banned-from-entering-the-united-kingdom.md)
@@ -13,7 +13,7 @@ _Context: His Majesty's Government, United Kingdom_
 
 ##### Soldiers
 ### [ At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. ](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-government-discovers-a-plot-to-assassinate-president-mikheil-saakashvili.md)
-_Context: mutiny, assassinated, President of Georgia, government, Mikheil Saakashvili, soldiers,  Georgian_
+_Context: mutiny, soldiers, assassinated, Mikheil Saakashvili,  Georgian, government, President of Georgia_
 
 ##### Flood
 ### [ Floods and mudslides in Brazil kill 19 people and render 186,000 others homeless. ](/news/2009/05/5/floods-and-mudslides-in-brazil-kill-19-people-and-render-186-000-others-homeless.md)

@@ -21,7 +21,7 @@ _Context: legislative chamber, Presidential Office, trade deal_
 
 ##### PS
 ### [Voters in France go to the polls for a second round of voting in municipal elections. The ruling Socialist Party generally performs badly, but their candidate in the Paris mayoral election Anne Hidalgo is set to become the first female mayor of that city. ](/news/2014/03/30/voters-in-france-go-to-the-polls-for-a-second-round-of-voting-in-municipal-elections-the-ruling-socialist-party-generally-performs-badly-b.md)
-_Context: Anne Hidalgo, PS, Paris mayoral election_
+_Context: PS, Paris mayoral election, Anne Hidalgo_
 
 ## [Previous Day...](/news/2014/03/29/index.md)
 

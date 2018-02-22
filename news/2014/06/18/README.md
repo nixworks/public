@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/18/index.html)  [JSON](2014/06/18/index.json)  [XML](201
 
 ##### 2014 Northern Iraq offensive
 ### [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
-_Context: 2014 Northern Iraq offensive, Turkish, Indians, Mosul_
+_Context: Turkish, Indians, Mosul, 2014 Northern Iraq offensive_
 
 ##### Syrian Civil War
 ### [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md)
@@ -37,7 +37,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Trademark Trial and Appeal Board
 ### [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md)
-_Context: United States Patent and Trademark Office, Washington Redskins, federal court, National Football League, Native American, cancel several trademarks, Trademark Trial and Appeal Board, disparaging_
+_Context: Washington Redskins, disparaging, United States Patent and Trademark Office, National Football League, federal court, cancel several trademarks, Trademark Trial and Appeal Board, Native American_
 
 ## [Previous Day...](/news/2014/06/17/index.md)
 

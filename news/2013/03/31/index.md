@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/31/index.html)  [JSON](2013/03/31/index.json)  [XML](201
 
 ##### Adnan Wazir
 ### [A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-national-party-in-bannu.md)
-_Context: Pakistan, Adnan Wazir, Bannu District, Awami National Party, Northwestern Pakistan, Parliament's_
+_Context: Bannu District, Parliament's, Adnan Wazir, Pakistan, Northwestern Pakistan, Awami National Party_
 
 ##### Islam
 ### [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
@@ -41,7 +41,7 @@ At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, of
 
 ##### Chinese
 ### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
-_Context: Chinese, H7N9 avian flu virus, avian influenza_
+_Context: avian influenza, H7N9 avian flu virus, Chinese_
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
@@ -53,11 +53,11 @@ Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s 
 
 ##### District Attorney
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: Texas, District Attorney, United States, Kaufman County_
+_Context: District Attorney, United States, Kaufman County, Texas_
 
 ##### Gang
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: gang, California, United States, Merced_
+_Context: United States, Merced, California, gang_
 
 ##### Christians
 ### [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md)

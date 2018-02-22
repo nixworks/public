@@ -9,7 +9,7 @@ Follow live updates as a UN report into last month&#x27;s chemical weapons attac
 
 ##### Battle of Zamboanga City
 ### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)
-_Context: Philippines Armed Forces, Battle of Zamboanga City, Zamboanga City, Moro National Liberation Front_
+_Context: Zamboanga City, Battle of Zamboanga City, Moro National Liberation Front, Philippines Armed Forces_
 
 ##### Hurricane Ingrid
 ### [Hurricane Ingrid is due to make landfall in Mexico as the remnants of Tropical Storm Manuel causes heavy rain on the Pacific coast. So far, 21 people have died as a result of the two storms including 14 people in Guerrero state. ](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.md)
@@ -41,7 +41,7 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 
 ##### Rwanda
 ### [Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. ](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.md)
-_Context: Rwandan Patriotic Front, Paul Kagame, Rwanda, President, parliamentary election_
+_Context: Paul Kagame, President, parliamentary election, Rwandan Patriotic Front, Rwanda_
 
 ##### CSeries jets
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)

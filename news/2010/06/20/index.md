@@ -9,7 +9,7 @@ _Context: Chicago, Chicago Tribune_
 
 ##### Graeme McDowell
 ### [Graeme McDowell of Northern Ireland wins the 2010 U.S. Open at Pebble Beach Golf Links in California. ](/news/2010/06/20/graeme-mcdowell-of-northern-ireland-wins-the-2010-u-s-open-at-pebble-beach-golf-links-in-california.md)
-_Context: Graeme McDowell, Northern Ireland, Pebble Beach Golf Links, California, 2010 U.S. Open_
+_Context: 2010 U.S. Open, Pebble Beach Golf Links, California, Northern Ireland, Graeme McDowell_
 
 ##### Israel
 ### [Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuation-of-its-naval-blockade-against.md)
@@ -17,11 +17,11 @@ Germany sharply criticized Israel on Sunday for denying its development minister
 
 ##### Poland
 ### [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md)
-_Context: Lech Kaczynski, 2010 Polish Air Force Tu-154 crash, Polish President, Poland, the death, Polish presidential election, 2010_
+_Context: Polish presidential election, 2010, Lech Kaczynski, Polish President, Poland, 2010 Polish Air Force Tu-154 crash, the death_
 
 ##### Colombian presidential election
 ### [In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-defeats-his-green-party-adversary-antana.md)
-_Context: Antanas Mockus, Colombian presidential election, Party of the U, Juan Manuel Santos, Green Party_
+_Context: Party of the U, Colombian presidential election, Antanas Mockus, Green Party, Juan Manuel Santos_
 
 ##### Jundallah
 ### [Jundallah's leader Abdolmalek Rigi is executed in Tehran. ](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.md)
@@ -49,7 +49,7 @@ A plane carrying several Australian mining executives goes missing on a flight b
 
 ##### Hurricane
 ### [Celia becomes the first hurricane of the 2010 Pacific hurricane season. ](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.md)
-_Context: 2010 Pacific hurricane season, hurricane_
+_Context: hurricane, 2010 Pacific hurricane season_
 
 ##### French Football Federation
 ### [The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football-team-participates-in.md)

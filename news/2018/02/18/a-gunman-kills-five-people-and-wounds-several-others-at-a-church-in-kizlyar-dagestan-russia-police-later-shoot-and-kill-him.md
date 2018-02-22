@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-o
 
 ### [2018-02-18](/news/2018/02/18/index.md)
 
-##### Kizlyar church shooting
+##### 2018 Kizlyar church shooting
 # A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police later shoot and kill him. 
 
 

@@ -5,27 +5,27 @@ Formats: [HTML](2007/08/11/index.html)  [JSON](2007/08/11/index.json)  [XML](200
 
 ##### Bomb
 ### [ A roadside bomb claims the life of the Governor of Ad-Diwaniyah province in Iraq Khalil Jalil Hamza and the provincial police chief Major-General Khalid Hassan. ](/news/2007/08/11/a-roadside-bomb-claims-the-life-of-the-governor-of-ad-diwaniyah-province-in-iraq-khalil-jalil-hamza-and-the-provincial-police-chief-major-g.md)
-_Context: Ad-Diwaniyah, Khalid Hassan, Khalil Jalil Hamza, bomb, Major-General, Iraq_
+_Context: Major-General, Iraq, bomb, Ad-Diwaniyah, Khalil Jalil Hamza, Khalid Hassan_
 
 ##### Pasuruan
 ### [ An explosion in Pasuruan in the East Java province of Indonesia causes three deaths and another three injuries. ](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.md)
-_Context: Indonesia, Pasuruan, East Java_
+_Context: Pasuruan, Indonesia, East Java_
 
 ##### Taliban
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province for the third time in a week suffering casualties. The Taliban also launches unsuccessful attacks in Helmand and Kandahar provinces. ](/news/2007/08/11/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-for-the-third-time-in-a-week-suffering-casualties-the-taliban-also-launches-unsu.md)
-_Context: Firebase Anaconda, Taliban, Uruzgan, Helmand Province, Kandahar_
+_Context: Uruzgan, Helmand Province, Firebase Anaconda, Kandahar, Taliban_
 
 ##### By-election
 ### [ Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot and Outremont on September 17. ](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-commons-will-be-held-for-the-ridings-of-robervalalac-saint-jean-saint-hyacintheabagot-and.md)
-_Context: Canadian House of Commons, ridings, by-election, Roberval--Lac-Saint-Jean, Outremont, Saint-Hyacinthe--Bagot_
+_Context: ridings, Canadian House of Commons, Saint-Hyacinthe--Bagot, Outremont, by-election, Roberval--Lac-Saint-Jean_
 
 ##### President
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)
-_Context: Cuba, Caribbean, Venezuela, President, Hugo Chavez_
+_Context: President, Cuba, Caribbean, Venezuela, Hugo Chavez_
 
 ##### Russian President
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
-_Context: Russian President, Lekhtusi, Vladimir Putin, St Petersburg, radar, air defense_
+_Context: Russian President, radar, Vladimir Putin, St Petersburg, Lekhtusi, air defense_
 
 ##### Thailand
 ### [ Thai insurgents attack several positions held by Thai security forces at Yala Province. ](/news/2007/08/11/thai-insurgents-attack-several-positions-held-by-thai-security-forces-at-yala-province.md)
@@ -41,7 +41,7 @@ _Context: Mitt Romney, Ames Straw Poll, Republican, Ames, United States presiden
 
 ##### Sierra Leone
 ### [ Voters in Sierra Leone go to the polls for the first time since the end of the country's civil war in 2002. ](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.md)
-_Context: run-off election, civil war, 2002, Sierra Leone_
+_Context: civil war, Sierra Leone, run-off election, 2002_
 
 ## [Previous Day...](/news/2007/08/10/index.md)
 

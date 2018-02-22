@@ -17,15 +17,15 @@ Women will be allowed to serve in frontline combat roles within five years under
 
 ##### Syrian Army
 ### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
-_Context: Syrian Army, Rastan, Homs_
+_Context: Syrian Army, Homs, Rastan_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
-_Context: Basilan Island, Sumisip, Philippines, Abu Sayyaf_
+_Context: Basilan Island, Philippines, Sumisip, Abu Sayyaf_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Helmand Province, suicide bomber, Lashkar Gah, Afghan_
+_Context: Afghan, Lashkar Gah, Helmand Province, suicide bomber_
 
 ##### Australia
 ### [Visitors to Australia face delays as Australian Customs and Border Protection Service staff go on strike over a pay dispute. ](/news/2011/09/27/visitors-to-australia-face-delays-as-australian-customs-and-border-protection-service-staff-go-on-strike-over-a-pay-dispute.md)
@@ -33,7 +33,7 @@ _Context: Australia, Australian Customs and Border Protection Service_
 
 ##### South Korea
 ### [South Korea's Financial Services Commission announces plans to pump more money into suspended local savings banks. ](/news/2011/09/27/south-korea-s-financial-services-commission-announces-plans-to-pump-more-money-into-suspended-local-savings-banks.md)
-_Context: South Korea, Financial Services Commission_
+_Context: Financial Services Commission, South Korea_
 
 ##### Ninoy Aquino International Airport
 ### [Thousands of airline passengers are stranded at the Ninoy Aquino International Airport in Manila after Philippine Airlines staff stage a walkout. ](/news/2011/09/27/thousands-of-airline-passengers-are-stranded-at-the-ninoy-aquino-international-airport-in-manila-after-philippine-airlines-staff-stage-a-wal.md)
@@ -69,15 +69,15 @@ Israel approves the construction of 1,100 homes in the Jewish settlement of Gilo
 
 ##### CEO
 ### [CEOs of Iranian Melli Bank and Saderat Bank resign from their positions as a result of $2.6 billion bank fraud. ](/news/2011/09/27/ceos-of-iranian-melli-bank-and-saderat-bank-resign-from-their-positions-as-a-result-of-2-6-billion-bank-fraud.md)
-_Context: CEO, Saderat Bank, Melli Bank_
+_Context: Saderat Bank, Melli Bank, CEO_
 
 ##### Hijacker
 ### [Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. ](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-portugal-thirty-nine-years-after-he-and-members-of-the-black-liberation-army-took-control-of-d.md)
-_Context: George Wright, Delta Air Lines Flight 841, Portugal, hijacker, Black Liberation Army_
+_Context: Delta Air Lines Flight 841, Portugal, hijacker, George Wright, Black Liberation Army_
 
 ##### Trial of Dr Conrad Murray
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
-_Context: manslaughter by gross negligence, death of Michael Jackson, Michael Jackson, trial of Dr Conrad Murray, California_
+_Context: trial of Dr Conrad Murray, Michael Jackson, death of Michael Jackson, manslaughter by gross negligence, California_
 
 ## [Previous Day...](/news/2011/09/26/index.md)
 

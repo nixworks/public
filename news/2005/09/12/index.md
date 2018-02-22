@@ -21,7 +21,7 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 
 ##### Egypt
 ### [ According to witnesses, the Egyptian border patrol police opened fire at crowds swarming the Egypt-Gaza border at Rafah, killing a Palestinian man and injuring another. An Egyptian spokesman later denied that Egyptian troops fired the shots that killed the man. ](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.md)
-_Context: Gaza Strip, Rafah, Palestinian, Egypt_
+_Context: Egypt, Rafah, Gaza Strip, Palestinian_
 
 ##### Palestinian
 ### [ Three Palestinian teenagers drowned as they rushed into the beachside at Neve Dekalim without knowing how to swim. ](/news/2005/09/12/three-palestinian-teenagers-drowned-as-they-rushed-into-the-beachside-at-neve-dekalim-without-knowing-how-to-swim.md)
@@ -33,11 +33,11 @@ _Context: Luxembourg, Skype, eBay_
 
 ##### Hong Kong Disneyland
 ### [ Hong Kong Disneyland opens in a partnership between Disney and the Hong Kong government. This marks the first attempt of Disney tapping into the Chinese and southeastern Asian market. ](/news/2005/09/12/hong-kong-disneyland-opens-in-a-partnership-between-disney-and-the-hong-kong-government-this-marks-the-first-attempt-of-disney-tapping-int.md)
-_Context: The Walt Disney Company, Hong Kong, Hong Kong Disneyland_
+_Context: Hong Kong Disneyland, The Walt Disney Company, Hong Kong_
 
 ##### Premier
 ### [ Premier Dalton McGuinty of Ontario, Canada rejects the use of Islamic sharia law as well as religious arbitration of all other faiths, declaring that one public law is to be used for all family disputes. The decision follows a year of debate and worldwide protests. ](/news/2005/09/12/premier-dalton-mcguinty-of-ontario-canada-rejects-the-use-of-islamic-sharia-law-as-well-as-religious-arbitration-of-all-other-faiths-decl.md)
-_Context: Premier, arbitration, Islamic, Canada, sharia law, Ontario, Dalton McGuinty_
+_Context: Dalton McGuinty, Canada, Islamic, sharia law, arbitration, Premier, Ontario_
 
 ##### Oracle Corporation
 ### [ Oracle Corporation announced that it has agreed to purchase Siebel Systems for approximately $5.85 billion in cash. ](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.md)

@@ -9,11 +9,11 @@ A Palestinian man with security clearance to work at a Jewish settlement in the 
 
 ##### Mass surveillance in the United States
 ### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
-_Context: immigrants, Department of Homeland Security, naturalized citizens, Mass surveillance in the United States, social media, green card holders_
+_Context: naturalized citizens, green card holders, Mass surveillance in the United States, Department of Homeland Security, social media, immigrants_
 
 ##### Twitter
 ### [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md)
-_Context: Twitter, Japanese, Chinese, Korean_
+_Context: Chinese, Japanese, Korean, Twitter_
 
 ##### Economy of the United States
 ### [The U.S. Commerce Department imposes preliminary anti-subsidy duties on Bombardier Inc. CSeries jets following American rival Boeing's claims of unfair Canadian subsidies. The penalty is on hold pending the U.S. International Trade Commission's final decision, expected in 2018. ](/news/2017/09/26/the-u-s-commerce-department-imposes-preliminary-anti-subsidy-duties-on-bombardier-inc-cseries-jets-following-american-rival-boeing-s-claim.md)
@@ -37,15 +37,15 @@ Why is Donald Trump backing an establishment favourite against an anti-establish
 
 ##### Politics of Russia
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
-_Context: Nikolay Merkushkin, Russian presidential election, 2018, Politics of Russia, federal subjects, Nizhny Novgorod Oblast, Vladimir Putin, Samara Oblast, Russian President, Valery Shantsev_
+_Context: Politics of Russia, Nizhny Novgorod Oblast, Russian President, Nikolay Merkushkin, Russian presidential election, 2018, federal subjects, Samara Oblast, Valery Shantsev, Vladimir Putin_
 
 ##### Presidency of Donald Trump
 ### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
-_Context: Presidency of Donald Trump, Chuck Rosenberg, Drug Enforcement Administration_
+_Context: Chuck Rosenberg, Presidency of Donald Trump, Drug Enforcement Administration_
 
 ##### Green wall
 ### [Africa's Great Green Wall is successfully reversing desertification. ](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.md)
-_Context: desertification, Great Green Wall, Green wall_
+_Context: desertification, Green wall, Great Green Wall_
 
 ## [Previous Day...](/news/2017/09/25/index.md)
 

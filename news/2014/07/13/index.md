@@ -17,15 +17,15 @@ _Context: Syria, Lebanese, Hezbollah_
 
 ##### Japan
 ### [Japan's Defence Ministry claims that North Korea has fired two ballistic missiles into the Sea of Japan. ](/news/2014/07/13/japan-s-defence-ministry-claims-that-north-korea-has-fired-two-ballistic-missiles-into-the-sea-of-japan.md)
-_Context: Sea of Japan, North Korea, ballistic missile, Japan_
+_Context: ballistic missile, North Korea, Sea of Japan, Japan_
 
 ##### Argentinian police
 ### [Argentinian police arrest at least 30 people in downtown Buenos Aires after Argentina loses the 2014 World Cup final in Brazil. ](/news/2014/07/13/argentinian-police-arrest-at-least-30-people-in-downtown-buenos-aires-after-argentina-loses-the-2014-world-cup-final-in-brazil.md)
-_Context: Buenos Aires, Argentinian police_
+_Context: Argentinian police, Buenos Aires_
 
 ##### Party of Miro Cerar
 ### [The new centrist Party of Miro Cerar wins the Slovenian elections by a landslide while both the Social Democrats and the centre-right parties suffer their worst-ever defeat, and the winner of the previous elections, Positive Slovenia, does not even pass the electoral threshold. ](/news/2014/07/13/the-new-centrist-party-of-miro-cerar-wins-the-slovenian-elections-by-a-landslide-while-both-the-social-democrats-and-the-centre-right-partie.md)
-_Context: Party of Miro Cerar, Positive Slovenia, Social Democrats,  previous elections, Slovenia_
+_Context: Slovenia, Party of Miro Cerar, Social Democrats, Positive Slovenia,  previous elections_
 
 ## [Previous Day...](/news/2014/07/12/index.md)
 

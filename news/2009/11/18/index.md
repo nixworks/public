@@ -21,23 +21,23 @@ National polls scheduled for January in doubt as Tariq al-Hashemi objects to key
 
 ##### Australian Prime Minister
 ### [ Prime Minister of Australia Kevin Rudd announces that he will consider a probe of the Church of Scientology in Australia after an attack on the organization by independent parliamentarian Nick Xenophon. ](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.md)
-_Context: Kevin Rudd, Church of Scientology, Australian Prime Minister, Nick Xenophon_
+_Context: Kevin Rudd, Australian Prime Minister, Nick Xenophon, Church of Scientology_
 
 ##### Corruption Perceptions Index
 ### [ According to the 2009 Corruption Perceptions Index, Somalia is the most corrupt of 180 countries surveyed, and New Zealand is the least corrupt. ](/news/2009/11/18/according-to-the-2009-corruption-perceptions-index-somalia-is-the-most-corrupt-of-180-countries-surveyed-and-new-zealand-is-the-least-cor.md)
-_Context: Corruption Perceptions Index, Somalia_
+_Context: Somalia, Corruption Perceptions Index_
 
 ##### Vietnam War
 ### [ Four people are killed after a bomb left over from the Vietnam War explodes as they try to remove explosive material in southern Tay Ninh Province. ](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.md)
-_Context: Vietnam War, Tay Ninh Province_
+_Context: Tay Ninh Province, Vietnam War_
 
 ##### Taiwan
 ### [ Taiwanese universities announce they will admit mainland Chinese students for the first time next year. ](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.md)
-_Context: mainland China, Taiwan_
+_Context: Taiwan, mainland China_
 
 ##### President pro tempore of the United States Senate
 ### [ Senator and President "pro tempore" of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the-h.md)
-_Context: United States Senate, Congress, longest serving member, Robert C. Byrd, President pro tempore of the United States Senate, West Virginia_
+_Context: Robert C. Byrd, West Virginia, Congress, longest serving member, United States Senate, President pro tempore of the United States Senate_
 
 ##### Elizabeth II
 ### [ Queen Elizabeth II officially opens the Parliament of the United Kingdom and delivers Her Majesty's Most Gracious Address. ](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.md)

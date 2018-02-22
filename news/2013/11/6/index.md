@@ -17,7 +17,7 @@ Group ends 20-month campaign after army captures last hilltop strongholds, raisi
 
 ##### Baghdad
 ### [A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/a-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Rafael Caro Quintero
 ### [A Mexican federal court overturns a state court ruling that allowed the drug lord Rafael Caro Quintero to be released from prison earlier this year. This court response follows a decision by the U.S. Department of State to place a $5 million bounty against him. ](/news/2013/11/6/a-mexican-federal-court-overturns-a-state-court-ruling-that-allowed-the-drug-lord-rafael-caro-quintero-to-be-released-from-prison-earlier-th.md)

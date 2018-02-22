@@ -25,7 +25,7 @@ _Context: China_
 
 ##### Seoul
 ### [A Seoul-based radio station targeting North Koreans reports that a train carrying birthday gifts for North Korean future leader Kim Jong-un derailed, in what it describes as a possible act of revolt by opponents. South Korea's National Intelligence Service (NIS) states that it is checking the report. ](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.md)
-_Context: Kim Jong-un, South Korea's intelligence agency, North Korea, Seoul, South Korea_
+_Context: Kim Jong-un, South Korea's intelligence agency, South Korea, North Korea, Seoul_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu rules out apologising to Turkey for killing nine of its citizens during May's Gaza flotilla raid,saying, however, that Israel would "express its regret"; the interview came after Foreign Minister Avigdor Lieberman said that Turkey should apologize to Israel for supporting terrorists. ](/news/2010/12/27/israeli-prime-minister-benjamin-netanyahu-rules-out-apologising-to-turkey-for-killing-nine-of-its-citizens-during-may-s-gaza-flotilla-raid-s.md)
@@ -45,7 +45,7 @@ _Context: Ponzi scheme, Allen Stanford_
 
 ##### Tel Aviv
 ### [A Tel Aviv court sentences Israeli graphic designer Jonathan Pollak to three months imprisonment after convicting him of taking part in a "critical mass bicycle ride" demonstration highlighting the blockade of Gaza in January 2008. The Association for Civil Rights in Israel describes it as "an unusually harsh measurement" for a charge that normally does not see the perpetrator imprisoned. ](/news/2010/12/27/a-tel-aviv-court-sentences-israeli-graphic-designer-jonathan-pollak-to-three-months-imprisonment-after-convicting-him-of-taking-part-in-a-c.md)
-_Context: Jonathan Pollak, Israel, Tel Aviv, Gaza Strip, Association for Civil Rights in Israel_
+_Context: Israel, Association for Civil Rights in Israel, Tel Aviv, Jonathan Pollak, Gaza Strip_
 
 ##### Southern Sudanese Independence Referendum
 ### [The commission overseeing the independence referendum in Southern Sudan rejects a lawsuit to halt the referendum on the basis that the commission violated the law. ](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.md)

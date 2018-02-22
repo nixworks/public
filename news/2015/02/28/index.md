@@ -9,7 +9,7 @@ A series of car bombs has ripped through a crowded marketplace and a Shi’ite m
 
 ##### Lithuania
 ### [Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed-at-reducing-the-eu-baltic-state-s-heav.md)
-_Context: Baltic state, Lithuania, Russia, liquefied natural gas, EU, United States_
+_Context: Russia, liquefied natural gas, United States, Baltic state, EU, Lithuania_
 
 ##### Dongying
 ### [The municipal intermediate people's court for the eastern city of Dongying convicts Ni Fake, former Vice-Governor of Anhui province in China, on charges of bribery and "amassing wealth of unclear origin", and sentences him to seventeen years in prison. ](/news/2015/02/28/the-municipal-intermediate-peopleas-court-for-the-eastern-city-of-dongying-convicts-ni-fake-former-vice-governor-of-anhui-province-in-chi.md)

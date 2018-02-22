@@ -13,7 +13,7 @@ Trial of 48 medical workers accused of attempting to topple the monarchy opens a
 
 ##### Revolution
 ### [Tunisian revolution: It is announced that the trial of Zine El Abidine Ben Ali, ousted from power during the popular revolution, is to begin on 20 June. ](/news/2011/06/13/tunisian-revolution-it-is-announced-that-the-trial-of-zine-el-abidine-ben-ali-ousted-from-power-during-the-popular-revolution-is-to-begin.md)
-_Context: revolution, Zine El Abidine Ben Ali_
+_Context: Zine El Abidine Ben Ali, revolution_
 
 ##### Jisr al-Shughour
 ### [The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/the-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and-defections-among-govern.md)
@@ -25,7 +25,7 @@ Israeli officials dismiss Egyptian reports that a suspected Mossad spy has been 
 
 ##### 2011 Spanish protests
 ### [2011 Spanish protests: The Anonymous group is reported to have successfully knocked the website of the Spanish national police force offline. ](/news/2011/06/13/2011-spanish-protests-the-anonymous-group-is-reported-to-have-successfully-knocked-the-website-of-the-spanish-national-police-force-offline.md)
-_Context: hacker group Anonymous, 2011 Spanish protests_
+_Context: 2011 Spanish protests, hacker group Anonymous_
 
 ##### 2011 Zengcheng riot
 ### [2011 Zengcheng riot: Police in Xintang Town, Zengcheng, Guangzhou area, Guangdong, fire tear gas and use armoured vehicles on workers, including Sichuan migrant workers protesting what they consider the abuse of a pregnant Sichuanese colleague by security guards, after protesters flipped over and burned police vehicles. ](/news/2011/06/13/2011-zengcheng-riot-police-in-xintang-town-zengcheng-guangzhou-area-guangdong-fire-tear-gas-and-use-armoured-vehicles-on-workers-inclu.md)
@@ -41,7 +41,7 @@ _Context: Abd al-Rab Mansur al-Hadi, 2011 Yemeni protests_
 
 ##### Sudan
 ### [North and South Sudan agree to demilitarise the disputed Abyei region. ](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.md)
-_Context: demilitarise, South Sudan, Sudan, Abyei_
+_Context: South Sudan, Abyei, Sudan, demilitarise_
 
 ##### Nabro Volcano erupts
 ### [The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/the-long-dormant-nabro-volcano-erupts-in-eritrea.md)
@@ -49,15 +49,15 @@ The US secretary of state cuts short a three-nation tour of Africa due to a volc
 
 ##### Christchurch, New Zealand
 ### [Tens of thousands of people in Christchurch, New Zealand, are left without power as the city is hit by powerful aftershocks of the 2011 Christchurch earthquake. ](/news/2011/06/13/tens-of-thousands-of-people-in-christchurch-new-zealand-are-left-without-power-as-the-city-is-hit-by-powerful-aftershocks-of-the-2011-chri.md)
-_Context: 2011 Christchurch earthquake, aftershock, Christchurch, New Zealand_
+_Context: 2011 Christchurch earthquake, Christchurch, New Zealand, aftershock_
 
 ##### National Weather Service
 ### [The US National Weather Service issues a flash flood warning after the Missouri River breaches a levee near Hamburg, Iowa. ](/news/2011/06/13/the-us-national-weather-service-issues-a-flash-flood-warning-after-the-missouri-river-breaches-a-levee-near-hamburg-iowa.md)
-_Context: National Weather Service, flash flood, levee, Iowa, Hamburg, Missouri River_
+_Context: flash flood, Hamburg, levee, National Weather Service, Missouri River, Iowa_
 
 ##### Southern hemisphere
 ### [Flights in the Southern hemisphere from Australia to Argentina are disrupted by the Puyehue volcanic eruption. ](/news/2011/06/13/flights-in-the-southern-hemisphere-from-australia-to-argentina-are-disrupted-by-the-puyehue-volcanic-eruption.md)
-_Context: Southern hemisphere, Argentina, Australia, Puyehue-Cordon Caulle_
+_Context: Puyehue-Cordon Caulle, Southern hemisphere, Argentina, Australia_
 
 ##### Indonesia
 ### [An earthquake of between 6.2 and 6.9 occurs near Indonesia, southeast of Tahuna island and six miles (10 kilometers) beneath the sea.](/news/2011/06/13/an-earthquake-of-between-6-2-and-6-9-occurs-near-indonesia-southeast-of-tahuna-island-and-six-miles-10-kilometers-beneath-the-sea.md)
@@ -85,7 +85,7 @@ Mr. Netanyahu says such democratic elections were &quot;something to welcome&quo
 
 ##### Israel
 ### [Israel's deputy foreign minister Danny Ayalon tells public radio that he wants re-elected Prime Minister of Turkey Recep Tayyip Erdogan to block what Ayalon considers a "provocative flotilla" of activists bound for Gaza "entering dangerous zones". ](/news/2011/06/13/israel-s-deputy-foreign-minister-danny-ayalon-tells-public-radio-that-he-wants-re-elected-prime-minister-of-turkey-recep-tayyip-erdoaan-to.md)
-_Context: public radio, Gaza Strip, Israel, Recep Tayyip Erdogan, Danny Ayalon, Turkish Prime Minister_
+_Context: Turkish Prime Minister, Israel, Gaza Strip, public radio, Danny Ayalon, Recep Tayyip Erdogan_
 
 ##### Prime Minister of Lebanon
 ### [Prime Minister of Lebanon Najib Mikati announces his new cabinet. ](/news/2011/06/13/prime-minister-of-lebanon-najib-mikati-announces-his-new-cabinet.md)

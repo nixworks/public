@@ -9,7 +9,7 @@ _Context: Damascus_
 
 ##### NATO
 ### [A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md)
-_Context: Afghan, NATO, ISAF_
+_Context: NATO, ISAF, Afghan_
 
 ##### Dhaka
 ### [Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/police-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be-administered-to-the-factory-s.md)
@@ -33,7 +33,7 @@ Doctors have built and implanted a windpipe, developed with plastic fibers and h
 
 ##### NASA
 ### [NASA extends its contract with the Russian Federal Space Agency, paying $424 million for the RKA to deliver and receive astronauts shuttled to the ISS through 2016. ](/news/2013/04/30/nasa-extends-its-contract-with-the-russian-federal-space-agency-paying-424-million-for-the-rka-to-deliver-and-receive-astronauts-shuttled.md)
-_Context: deliver and receive, Russian Federal Space Agency, ISS, NASA, United States dollars_
+_Context: Russian Federal Space Agency, United States dollars, NASA, ISS, deliver and receive_
 
 ## [Previous Day...](/news/2013/04/29/index.md)
 

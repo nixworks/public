@@ -5,23 +5,23 @@ Formats: [HTML](2009/03/24/index.html)  [JSON](2009/03/24/index.json)  [XML](200
 
 ##### Czech Republic
 ### [ Czech Prime Minister Mirek Topolanek resigns after losing a confidence motion in the Chamber of Deputies. ](/news/2009/03/24/czech-prime-minister-mirek-topola-nek-resigns-after-losing-a-confidence-motion-in-the-chamber-of-deputies.md)
-_Context: Chamber of Deputies, Prime Minister, Mirek Topolanek, Czech Republic, confidence motion_
+_Context: confidence motion, Mirek Topolanek, Prime Minister, Chamber of Deputies, Czech Republic_
 
-##### France
+##### French
 ### [ France will compensate victims of nuclear testing in Algeria and French Polynesia. ](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.md)
 The French government will compensate victims of past nuclear tests and has earmarked an initial 10 million euros (9 million pounds) to do so, Defence Minister Herve Morin was quoted as saying on Tuesday.
 
 ##### Japan
 ### [ Japan defeats South Korea to win the World Baseball Classic. ](/news/2009/03/24/japan-defeats-south-korea-to-win-the-world-baseball-classic.md)
-_Context: South Korea, World Baseball Classic, Japan, defeats_
+_Context: defeats, World Baseball Classic, Japan, South Korea_
 
 ##### Michael Misick
 ### [ Michael Misick resigns as Premier of the Turks and Caicos Islands, due to alleged corruption. ](/news/2009/03/24/michael-misick-resigns-as-premier-of-the-turks-and-caicos-islands-due-to-alleged-corruption.md)
-_Context: anti-corruption, Premier of the Turks and Caicos Islands, Michael Misick, Turks and Caicos Islands_
+_Context: anti-corruption, Michael Misick, Premier of the Turks and Caicos Islands, Turks and Caicos Islands_
 
 ##### South Africa
 ### [ South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. ](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.md)
-_Context: 14th Dalai Lama, peace conference, Johannesburg, visa-free travel, Dalai Lama, South Africa_
+_Context: Johannesburg, peace conference, Dalai Lama, 14th Dalai Lama, South Africa, visa-free travel_
 
 ##### United Kingdom
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
@@ -29,7 +29,7 @@ _Context: Retail Prices Index, United Kingdom_
 
 ##### Militant
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
-_Context: India, Insurgency in Jammu and Kashmir, soldier, Kupwara District, Jammu and Kashmir, militant, Indian Army_
+_Context: India, Kupwara District, militant, Insurgency in Jammu and Kashmir, soldier, Jammu and Kashmir, Indian Army_
 
 ##### Italy
 ### [ Italy jails Tuninter Flight 1153's two pilots for ten years for praying before ditching into the Mediterranean Sea. ](/news/2009/03/24/italy-jails-tuninter-flight-1153-s-two-pilots-for-ten-years-for-praying-before-ditching-into-the-mediterranean-sea.md)
@@ -45,7 +45,7 @@ Mexicans desperate for an end to drug gang murders, abductions and extortion saw
 
 ##### Immaculata University
 ### [ Immaculata University discovers the mass grave of 57 Irish immigrants in East Whiteland Township, Pennsylvania, United States. ](/news/2009/03/24/immaculata-university-discovers-the-mass-grave-of-57-irish-immigrants-in-east-whiteland-township-pennsylvania-united-states.md)
-_Context: Irish, mass grave, United States, Pennsylvania, Immaculata University, East Whiteland Township, migrants_
+_Context: mass grave, United States, migrants, Pennsylvania, Immaculata University, Irish, East Whiteland Township_
 
 ## [Previous Day...](/news/2009/03/23/index.md)
 

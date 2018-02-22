@@ -13,7 +13,7 @@ _Context: Naxalite-Maoist insurgency_
 
 ##### President
 ### [President of Senegal Abdoulaye Wade announces in a televised address marking 50 years of independence that his country is to resume control of all military bases held by former colonial power France. ](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.md)
-_Context: France, Abdoulaye Wade, President, Senegal_
+_Context: Abdoulaye Wade, French, Senegal, President_
 
 ##### Shen Neng 1
 ### [The Chinese coal ship "Shen Neng 1" is reported to be leaking oil after it ran aground on the Great Barrier Reef off Queensland, Australia. ](/news/2010/04/4/the-chinese-coal-ship-shen-neng-1-is-reported-to-be-leaking-oil-after-it-ran-aground-on-the-great-barrier-reef-off-queensland-australia.md)
@@ -21,19 +21,19 @@ Chinese vessel leaking oil after running aground on the Great Barrier Reef.
 
 ##### Triple bombings
 ### [Three car bombs hit the Egyptian, German and Iranian embassies in the centre of the Iraqi capital, Baghdad, in quick succession, killing at least 30 people. ](/news/2010/04/4/three-car-bombs-hit-the-egyptian-german-and-iranian-embassies-in-the-centre-of-the-iraqi-capital-baghdad-in-quick-succession-killing-at.md)
-_Context: triple bombings, Egypt, Iraq, Iran, German, Baghdad_
+_Context: Baghdad, German, triple bombings, Iraq, Egypt, Iran_
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai threatens to join the Taliban if the Afghani Parliament refuses to approve his proposal to take control of the electoral apparatus from the United Nations. ](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.md)
-_Context: Afghanistan President, Afghan, Hamid Karzai, United Nations, Taliban_
+_Context: Taliban, Afghanistan President, United Nations, Hamid Karzai, Afghan_
 
 ##### 7.2-magnitude earthquake
 ### [A 7.2-magnitude earthquake hits Baja California, about 108 miles east-southeast of Tijuana, says the U.S. Geological Survey. ](/news/2010/04/4/a-7-2-magnitude-earthquake-hits-baja-california-about-108-miles-east-southeast-of-tijuana-says-the-u-s-geological-survey.md)
-_Context: Tijuana, U.S. Geological Survey, Baja California, 7.2-magnitude earthquake_
+_Context: Baja California, 7.2-magnitude earthquake, Tijuana, U.S. Geological Survey_
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon witnesses one of the world's worst environmental disasters as he flies over the shrinking Aral Sea, the world's fourth largest lake, which has in recent decades shrunk in size by more than 70 percent. ](/news/2010/04/4/secretary-general-of-the-united-nations-ban-ki-moon-witnesses-one-of-the-world-s-worst-environmental-disasters-as-he-flies-over-the-shrinkin.md)
-_Context: United Nations Secretary-General, Ban Ki-moon, world's worst environmental disasters, United Nations, Aral Sea_
+_Context: Aral Sea, United Nations, United Nations Secretary-General, Ban Ki-moon, world's worst environmental disasters_
 
 ## [Previous Day...](/news/2010/04/3/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/4/index.html)  [JSON](2010/10/4/index.json)  [XML](2010/
 
 ##### Pibor
 ### [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md)
-_Context: Sudan, Jonglei, Pibor_
+_Context: Pibor, Jonglei, Sudan_
 
 ##### International Security Assistance Force
 ### [Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in-afghanistan-s-restive-sou.md)
@@ -33,7 +33,7 @@ Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion 
 
 ##### High altitude
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
-_Context: Kokoda, Papua New Guinea, high altitude, human settlement_
+_Context: Papua New Guinea, Kokoda, high altitude, human settlement_
 
 ##### Jonathan Evans
 ### [Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. ](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.md)
@@ -69,11 +69,11 @@ _Context: Indonesia, Wasior, Agung Laksono, West Papua_
 
 ##### Hatay Province
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
-_Context: Guzelburc, Hatay Province, Mustafa Kemal University_
+_Context: Guzelburc, Mustafa Kemal University, Hatay Province_
 
 ##### Netravati Express
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
-_Context: Panachuvadu, Netravati Express, Punnapra_
+_Context: Punnapra, Netravati Express, Panachuvadu_
 
 ##### Indonesia
 ### [At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. ](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.md)
@@ -81,7 +81,7 @@ _Context: Indonesia, Papua_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
-_Context: Wen Jiabao, Naoto Kan, Asia-Europe Meeting_
+_Context: Asia-Europe Meeting, Wen Jiabao, Naoto Kan_
 
 ##### Asia-Europe Meeting
 ### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
@@ -113,7 +113,7 @@ _Context: Rafic Hariri, Lebanese, Syria_
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)
-_Context: Mahendra Chaudhry, Prime Minister, bail_
+_Context: bail, Prime Minister, Mahendra Chaudhry_
 
 ##### Thailand
 ### [A court in Thailand rejects a request to drop charges against Viktor Bout, whom the United States suspects of attempting to sell weapons to its opponents. He was arrested by undercover United States agents in 2008 at a Bangkok hotel. ](/news/2010/10/4/a-court-in-thailand-rejects-a-request-to-drop-charges-against-viktor-bout-whom-the-united-states-suspects-of-attempting-to-sell-weapons-to.md)
@@ -141,7 +141,7 @@ _Context: Ichiro Ozawa, Democratic Party_
 
 ##### Lima
 ### [Lima receives its first female mayor in Susana Villaran. ](/news/2010/10/4/lima-receives-its-first-female-mayor-in-susana-villara-n.md)
-_Context: Susana Villaran, Lima_
+_Context: Lima, Susana Villaran_
 
 ##### Cuba
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)

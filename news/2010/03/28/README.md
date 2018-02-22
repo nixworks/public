@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/28/index.html)  [JSON](2010/03/28/index.json)  [XML](201
 
 ##### BBC
 ### [The BBC reports it has found evidence of a massacre which occurred in Democratic Republic of Congo last December in which at least 321 people, including children, were killed. Human Rights Watch calls it "one of the worst massacres carried out by the LRA". ](/news/2010/03/28/the-bbc-reports-it-has-found-evidence-of-a-massacre-which-occurred-in-democratic-republic-of-congo-last-december-in-which-at-least-321-peopl.md)
-_Context: LRA, BBC, Human Rights Watch, massacre, Democratic Republic of Congo_
+_Context: massacre, LRA, BBC, Human Rights Watch, Democratic Republic of Congo_
 
 ##### Palm Sunday
 ### [At a Palm Sunday mass in Saint Peter's Square, Rome, Pope Benedict XVI tells tens of thousands of people about the recent "petty gossip" he has been subjected to, thought to mean the child sexual abuse within the Roman Catholic Church, though he fails to directly mention the scandal. ](/news/2010/03/28/at-a-palm-sunday-mass-in-saint-peter-s-square-rome-pope-benedict-xvi-tells-tens-of-thousands-of-people-about-the-recent-petty-gossip-he.md)
@@ -17,7 +17,7 @@ Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: U.S. President, Barack Obama, Hamid Karzai, Afghan, Afghanistan President_
+_Context: Afghan, U.S. President, Hamid Karzai, Barack Obama, Afghanistan President_
 
 ##### Patissia
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)
@@ -45,7 +45,7 @@ Dissident feared dead or held in secret by security forces says he is with famil
 
 ##### Italy
 ### [Italians test Silvio Berlusconi in regional elections. ](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.md)
-_Context: Silvio Berlusconi, Italy_
+_Context: Italy, Silvio Berlusconi_
 
 ##### Time zones
 ### [First step in Russian time zone reform comes into force. The number of time zones drops from 11 to 9, eliminating Samara Time and Kamchatka Time. ](/news/2010/03/28/first-step-in-russian-time-zone-reform-comes-into-force-the-number-of-time-zones-drops-from-11-to-9-eliminating-samara-time-and-kamchatka.md)

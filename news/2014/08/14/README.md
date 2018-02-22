@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/14/index.html)  [JSON](2014/08/14/index.json)  [XML](201
 
 ##### Igor Girkin
 ### [Igor Girkin, a Russian citizen from Moscow and military commander of the Donetsk People's Republic rebellion, resigns, making it the third change at top of the rebel leadership of the past week. ](/news/2014/08/14/igor-girkin-a-russian-citizen-from-moscow-and-military-commander-of-the-donetsk-people-s-republic-rebellion-resigns-making-it-the-third-c.md)
-_Context: Igor Girkin, Donetsk People's Republic, Moscow_
+_Context: Moscow, Donetsk People's Republic, Igor Girkin_
 
 ##### 2014 Israel-Gaza conflict
 ### [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md)
@@ -21,7 +21,7 @@ Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth i
 
 ##### Shooting of Michael Brown
 ### [The President of the United States Barack Obama orders an independent inquiry by the United States Department of Justice and the Federal Bureau of Investigation into the shooting of Michael Brown by the Ferguson Police Department. ](/news/2014/08/14/the-president-of-the-united-states-barack-obama-orders-an-independent-inquiry-by-the-united-states-department-of-justice-and-the-federal-bur.md)
-_Context: police force, Shooting of Michael Brown, Department of Justice, U.S. President, Barack Obama, FBI_
+_Context: Department of Justice, U.S. President, police force, Barack Obama, Shooting of Michael Brown, FBI_
 
 ##### Berkshire
 ### [Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense. ](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.md)

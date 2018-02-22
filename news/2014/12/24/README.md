@@ -9,11 +9,11 @@ A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (
 
 ##### Jordanian air force
 ### [A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the-levant-militants-near-the-city-of-a.md)
-_Context: Jordanian air force, Ar-Raqqah, ISIL, Syria_
+_Context: Jordanian air force, Ar-Raqqah, Syria, ISIL_
 
 ##### Sony Pictures Entertainment hack
 ### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
-_Context: YouTube, The Interview, Google Play, Sony Pictures Entertainment hack_
+_Context: The Interview, Sony Pictures Entertainment hack, YouTube, Google Play_
 
 ##### Black Sea
 ### [Russia declares a state of emergency after oil from a Russian oil pipeline spills into the Black Sea near the port of Tuapse. ](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.md)

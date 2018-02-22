@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/3/index.html)  [JSON](2010/10/3/index.json)  [XML](2010/
 
 ##### Taliban
 ### [Security forces eliminated 25 Taliban militants in their former stronghold Nad Ali district of southern Helmand Province of Afghanistan. ](/news/2010/10/3/security-forces-eliminated-25-taliban-militants-in-their-former-stronghold-nad-ali-district-of-southern-helmand-province-of-afghanistan.md)
-_Context: Helmand Province, Taliban, Nad Ali, Afghan_
+_Context: Afghan, Nad Ali, Helmand Province, Taliban_
 
 ##### Paktika Province
 ### [A roadside bomb strikes a civilian car in Paktika Province, in eastern Afghanistan, leaving seven civilians dead. ](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.md)
@@ -13,11 +13,11 @@ _Context: Paktika Province, Afghan_
 
 ##### NATO
 ### [Twelve people were killed and seven injured after individuals opened fire at NATO oil tankers near the Defence Housing Authority, in Rawalpindi, Pakistan. ](/news/2010/10/3/twelve-people-were-killed-and-seven-injured-after-individuals-opened-fire-at-nato-oil-tankers-near-the-defence-housing-authority-in-rawalpi.md)
-_Context: Defence Housing Authority, Rawalpindi, NATO_
+_Context: NATO, Defence Housing Authority, Rawalpindi_
 
 ##### Al-Qaida
 ### [In a second audio recording in 24 hours, Al-Qaida leader Osama bin Laden says Muslim nations haven't done enough to support relief efforts in flood-hit Pakistan. ](/news/2010/10/3/in-a-second-audio-recording-in-24-hours-al-qaida-leader-osama-bin-laden-says-muslim-nations-haven-t-done-enough-to-support-relief-efforts-i.md)
-_Context: Osama bin Laden, Muslim, Al-Qaida_
+_Context: Muslim, Osama bin Laden, Al-Qaida_
 
 ##### Israel
 ### [An Israeli military tribunal convicts two Israeli soldiers for using a Palestinian child as a human shield during an offensive in Gaza in 2009, said to be the first conviction of its kind in Israel's history. ](/news/2010/10/3/an-israeli-military-tribunal-convicts-two-israeli-soldiers-for-using-a-palestinian-child-as-a-human-shield-during-an-offensive-in-gaza-in-20.md)
@@ -25,7 +25,7 @@ An Israeli military court convicts two Israeli soldiers for using a Palestinian 
 
 ##### Thailand
 ### [Two Thai soldiers are killed and four others are wounded during a gun fight with suspected Islamist rebels in the south of the country. ](/news/2010/10/3/two-thai-soldiers-are-killed-and-four-others-are-wounded-during-a-gun-fight-with-suspected-islamist-rebels-in-the-south-of-the-country.md)
-_Context: Thailand, South Thailand insurgency_
+_Context: South Thailand insurgency, Thailand_
 
 ##### Indonesia
 ### [Police in Indonesia kill six suspected Islamist militants and arrest four others in a raid in North Sumatra. ](/news/2010/10/3/police-in-indonesia-kill-six-suspected-islamist-militants-and-arrest-four-others-in-a-raid-in-north-sumatra.md)
@@ -37,17 +37,17 @@ Archaeologists find 2,000-year-old tunnels near Egypt border, close to smuggling
 
 ##### Venice
 ### [International cultural experts attack the Italian government's policy of tolerating oversized advertisements on historic Venetian sights as being "probably illegal". They say it violates the city's UNESCO ranking as a World Heritage Site. ](/news/2010/10/3/international-cultural-experts-attack-the-italian-government-s-policy-of-tolerating-oversized-advertisements-on-historic-venetian-sights-as.md)
-_Context: UNESCO, Venice, world heritage site_
+_Context: Venice, UNESCO, world heritage site_
 
 ##### Adolf Hitler
 ### [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md)
-_Context: German invasion of Britain, Cornish, Joachim von Ribbentrop, World War II, Adolf Hitler, Foreign Minister_
+_Context: Joachim von Ribbentrop, German invasion of Britain, Cornish, Foreign Minister, Adolf Hitler, World War II_
 
 ##### 
 ### [Six people were killed and five injured Sunday after a wall of a factory building under construction collapsed in east China's Shandong Province. ](/news/2010/10/3/six-people-were-killed-and-five-injured-sunday-after-a-wall-of-a-factory-building-under-construction-collapsed-in-east-china-s-shandong-prov.md)
 ##### Guizhou
 ### [Five people were killed and four others were injured in a colliery explosion in southwest China's Guizhou Province. The accident was reported at Huanghegou pit in Xixiu District of Anshun City. ](/news/2010/10/3/five-people-were-killed-and-four-others-were-injured-in-a-colliery-explosion-in-southwest-china-s-guizhou-province-the-accident-was-reporte.md)
-_Context: Xixiu, Guizhou, Anshun, Huanghegou_
+_Context: Xixiu, Huanghegou, Anshun, Guizhou_
 
 ##### Atush
 ### [Rain-triggered floods killed four people and left two others missing Sunday in Atush city in northwest China's Xinjiang Uyghur Autonomous Region. ](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.md)
@@ -55,7 +55,7 @@ _Context: Atush, Xinjiang_
 
 ##### Central Vietnam
 ### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in QuGBPng Binh Province and one in QuGBPng Tri Province, while two individuals were injured in [a Tinh and QuGBPng Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaogbpng-ba-nh-province-and-one-in-quaogb.md)
-_Context: central Vietnam, QuGBPng Binh Province, Ha Tinh Province, QuGBPng Tri_
+_Context: central Vietnam, QuGBPng Tri, Ha Tinh Province, QuGBPng Binh Province_
 
 ##### Guzelburc
 ### [An explosion rips through a leather workshop in the town of Guzelburc in Hatay Province, Turkey, killing 3 people and injuring 5 others. ](/news/2010/10/3/an-explosion-rips-through-a-leather-workshop-in-the-town-of-ga1-4zelburass-in-hatay-province-turkey-killing-3-people-and-injuring-5-others.md)
@@ -99,7 +99,7 @@ Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been ar
 
 ##### Brazil
 ### [Voters in Brazil go to the polls in a presidential election with a runoff election likely between Dilma Rousseff of the Workers' Party and Jose Serra of the Brazilian Social Democratic Party. ](/news/2010/10/3/voters-in-brazil-go-to-the-polls-in-a-presidential-election-with-a-runoff-election-likely-between-dilma-rousseff-of-the-workers-party-and-j.md)
-_Context: Dilma Rousseff, Jose Serra, Brazilian presidential election, runoff election, Brazil, Brazilian Social Democratic Party, Brazil Workers' Party_
+_Context: runoff election, Jose Serra, Brazilian presidential election, Brazil Workers' Party, Dilma Rousseff, Brazil, Brazilian Social Democratic Party_
 
 ##### Bosnia and Herzegovina
 ### [Voters in Bosnia and Herzegovina go to the polls in a general election. ](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.md)

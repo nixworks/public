@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/5/index.html)  [JSON](2010/05/5/index.json)  [XML](2010/
 
 ##### Umaru Yar'Adua
 ### [Umaru Yar'Adua, President of Nigeria, dies at age 58. Acting President Goodluck Jonathan succeeds Yar'Adua as President in his own right. ](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.md)
-_Context: President, Umaru Yar'Adua, Goodluck Jonathan_
+_Context: Goodluck Jonathan, Umaru Yar'Adua, President_
 
 ##### 2010 Greek riots
 ### [One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-the-recent-papandreo.md)
@@ -13,11 +13,11 @@ Protests against proposed spending cuts by the Greek government have turned viol
 
 ##### Supreme Court of India
 ### [The Supreme Court of India in a landmark judgment declares the use of narco tests, brain mapping tests and lie detector tests by investigative agencies unconstitutional. ](/news/2010/05/5/the-supreme-court-of-india-in-a-landmark-judgment-declares-the-use-of-narco-tests-brain-mapping-tests-and-lie-detector-tests-by-investigati.md)
-_Context: brain mapping tests, landmark judgment, lie detector, Supreme Court of India, narco tests_
+_Context: brain mapping tests, Supreme Court of India, narco tests, landmark judgment, lie detector_
 
 ##### Tengchong County
 ### [Landsides killed 15 Chinese workers in the Tengchong County, Yunnan Province. ](/news/2010/05/5/landsides-killed-15-chinese-workers-in-the-tengchong-county-yunnan-province.md)
-_Context: Tengchong County, Yunnan Province_
+_Context: Yunnan Province, Tengchong County_
 
 ##### Somali pirates
 ### [Somali pirates seize the Russian oil tanker Moscow University with 23 people on board, 500 miles off the Somali coast. ](/news/2010/05/5/somali-pirates-seize-the-russian-oil-tanker-moscow-university-with-23-people-on-board-500-miles-off-the-somali-coast.md)
@@ -41,7 +41,7 @@ Islamist gunmen have shot deada prominent journalist in Mogadishu, the first rep
 
 ##### Lexus
 ### [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia's Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russiaas-caucasian-republic.md)
-_Context: Lexus, Dagestan, Makhachkala, Caucasus_
+_Context: Makhachkala, Dagestan, Caucasus, Lexus_
 
 ##### European Parliament
 ### [The European Parliament calls for tougher EU fiscal rulebook. ](/news/2010/05/5/the-european-parliament-calls-for-tougher-eu-fiscal-rulebook.md)
@@ -49,11 +49,11 @@ EU Economic Affairs Commissioner Olli Rehn said on Wednesday that he would push 
 
 ##### U.S. House of Representatives
 ### [Twenty-one-term U.S. Rep. Dave Obey, a Wisconsin Democrat and chairman of the House Appropriations Committee, announces he will not run for re-election in November. ](/news/2010/05/5/twenty-one-term-u-s-rep-dave-obey-a-wisconsin-democrat-and-chairman-of-the-house-appropriations-committee-announces-he-will-not-run-for.md)
-_Context: Dave Obey, U.S. House of Representatives, House Appropriations Committee, Democrat, Wisconsin_
+_Context: House Appropriations Committee, Dave Obey, U.S. House of Representatives, Wisconsin, Democrat_
 
 ##### Democracy Now!
 ### [Democracy Now! producers file a lawsuit against multiple law enforcement agencies for allegedly unjustifiably encroaching on their First Amendment rights at the 2008 Republican National Convention. ](/news/2010/05/5/democracy-now-producers-file-a-lawsuit-against-multiple-law-enforcement-agencies-for-allegedly-unjustifiably-encroaching-on-their-first-ame.md)
-_Context: 2008 Republican National Convention, First Amendment rights, Democracy Now!_
+_Context: Democracy Now!, 2008 Republican National Convention, First Amendment rights_
 
 ## [Previous Day...](/news/2010/05/4/index.md)
 

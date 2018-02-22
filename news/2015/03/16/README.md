@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/16/index.html)  [JSON](2015/03/16/index.json)  [XML](201
 
 ##### Libyan Civil War
 ### [Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md)
-_Context: ISIL, Libya, Sirte, Libyan Civil War, Ibn Sina Hospital_
+_Context: Libya, Ibn Sina Hospital, ISIL, Libyan Civil War, Sirte_
 
 ##### Cyclone Pam
 ### [The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md)

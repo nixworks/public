@@ -21,11 +21,11 @@ _Context: Airport, Melbourne, Virgin Australia_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad appoints his brother-in-law Assef Shawkat as head of the country's military intelligence service, replacing Hassan Khalil.](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.md)
-_Context: Hassan Khalil, Syria, military intelligence, Assef Shawkat, Bashar al-Assad_
+_Context: Bashar al-Assad, Assef Shawkat, military intelligence, Syria, Hassan Khalil_
 
 ##### Curfew
 ### [ Curfew is imposed on the Indian city of Lucknow after sectarian violence between Sunni and Shia Muslims. 3 people are dead and 20 injured ](/news/2005/02/21/curfew-is-imposed-on-the-indian-city-of-lucknow-after-sectarian-violence-between-sunni-and-shia-muslims-3-people-are-dead-and-20-injured.md)
-_Context: Lucknow, Muslim, Sunni, sectarian violence, curfew, Shia_
+_Context: Muslim, Sunni, Lucknow, sectarian violence, curfew, Shia_
 
 ##### Avalanche
 ### [ A new avalanche claims at least 42 lives in Kashmir. A previous avalanche was on February 6 ](/news/2005/02/21/a-new-avalanche-claims-at-least-42-lives-in-kashmir-a-previous-avalanche-was-on-february-6.md)
@@ -37,7 +37,7 @@ _Context: registered partnership, Royal Navy_
 
 ##### Israel
 ### [ Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its-chairman-mahmoud-abbas-israel.md)
-_Context: Palestinian, Mahmoud Abbas, Israel, goodwill, Palestinian Authority_
+_Context: goodwill, Palestinian Authority, Mahmoud Abbas, Palestinian, Israel_
 
 ## [Previous Day...](/news/2005/02/20/index.md)
 

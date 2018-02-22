@@ -9,19 +9,19 @@ TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; at
 
 ##### Israeli Navy
 ### [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md)
-_Context: Malaysia, Israeli Navy, Egypt, Gaza Strip_
+_Context: Egypt, Malaysia, Gaza Strip, Israeli Navy_
 
 ##### Syria
 ### [A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. ](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, Syria, Deraa_
+_Context: Deraa, 2011 Syrian uprising, Syria_
 
 ##### NATO
 ### [NATO forces find a small boat loaded with explosives outside the Libyan port of Misrata, with forces loyal to Muammar Gaddafi believed to be responsible. ](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.md)
-_Context: NATO, Muammar Gaddafi, Misrata, Libya_
+_Context: NATO, Misrata, Muammar Gaddafi, Libya_
 
 ##### United States soldier
 ### [Four members of the United States Army are killed by a bomb in southern Afghanistan. ](/news/2011/05/16/four-members-of-the-united-states-army-are-killed-by-a-bomb-in-southern-afghanistan.md)
-_Context: Afghan, United States soldier_
+_Context: United States soldier, Afghan_
 
 ##### Dissident republican
 ### [Irish republican dissidents have issued a bomb threat for London, the first coded warning outside Northern Ireland in 10 years, officials have said. ](/news/2011/05/16/irish-republican-dissidents-have-issued-a-bomb-threat-for-london-the-first-coded-warning-outside-northern-ireland-in-10-years-officials-ha.md)
@@ -29,7 +29,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 
 ##### Congregation for the Doctrine of the Faith
 ### [The Congregation for the Doctrine of the Faith in the Vatican tells Roman Catholics to cooperate with police in investigating alleged cases of sexual abuse by clergy. ](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.md)
-_Context: alleged cases of sexual abuse by clergy, Roman Catholic, Congregation for the Doctrine of the Faith, Holy See_
+_Context: Roman Catholic, Congregation for the Doctrine of the Faith, alleged cases of sexual abuse by clergy, Holy See_
 
 ##### Fox Broadcasting Company
 ### [The Fox TV network cancels "America's Most Wanted" after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md)
@@ -55,17 +55,17 @@ Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 b
 ### [It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-restarted-three-days-ago-after-a-ref.md)
 Amy Thomasson, 38 and a single mother of three, spent her last night on the Louisiana land her family has farmed for more than 45 years packing photographs, furniture and clothes. A thunderstorm silhouetted the levee across the street that keeps the Atchafalaya River from her front yard.
 
-##### France
+##### French
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
-_Context: France, crash of Air France Flight 447, flight recorders_
+_Context: French, crash of Air France Flight 447, flight recorders_
 
 ##### Morrilton
 ### [At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. ](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.md)
-_Context: Morrilton, Arkansas_
+_Context: Arkansas, Morrilton_
 
 ##### Wildfire
 ### [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md)
-_Context: wildfire, Alberta, Slave Lake, Canada_
+_Context: wildfire, Canada, Slave Lake, Alberta_
 
 ##### High Court
 ### [The High Court of Kuala Lumpur rules that Malaysian Opposition Leader Anwar Ibrahim has a case to answer on sodomy charges. ](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.md)
@@ -77,11 +77,11 @@ International Monetary Fund chief Dominique Strauss-Kahn, accused of sexually as
 
 ##### American mafia
 ### [American mafia boss Vincent Basciano is convicted of murder in New York. ](/news/2011/05/16/american-mafia-boss-vincent-basciano-is-convicted-of-murder-in-new-york.md)
-_Context: New York City, American mafia, Vincent Basciano_
+_Context: Vincent Basciano, New York City, American mafia_
 
 ##### Suzanne Mubarak
 ### [Suzanne Mubarak, the former First Lady of Egypt, offers to hand over $3 million to prosecutors, claiming that this is all she has. ](/news/2011/05/16/suzanne-mubarak-the-former-first-lady-of-egypt-offers-to-hand-over-3-million-to-prosecutors-claiming-that-this-is-all-she-has.md)
-_Context: First Lady, Suzanne Mubarak, Egypt_
+_Context: Egypt, Suzanne Mubarak, First Lady_
 
 ##### Ahmed Haroun
 ### [Ahmed Haroun, wanted by the International Criminal Court on charges of war crimes, is re-elected governor of the state of South Kordofan in Sudan. ](/news/2011/05/16/ahmed-haroun-wanted-by-the-international-criminal-court-on-charges-of-war-crimes-is-re-elected-governor-of-the-state-of-south-kordofan-in.md)
@@ -89,11 +89,11 @@ Ahmed Haroun, who is facing ICC charges of murder and rape in Darfur, re-elected
 
 ##### Rahm Emanuel
 ### [Rahm Emanuel is sworn in as the Mayor of Chicago, Illinois. ](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.md)
-_Context: Rahm Emanuel, Chicago, Illinois, Illinois, Mayor of Chicago_
+_Context: Illinois, Mayor of Chicago, Chicago, Illinois, Rahm Emanuel_
 
 ##### Donald Trump
 ### [Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.md)
-_Context: Donald Trump, nomination, United States presidential election, 2012_
+_Context: nomination, Donald Trump, United States presidential election, 2012_
 
 ##### Queen Silvia of Sweden
 ### [Queen Silvia of Sweden orders an investigation into her father Walther Sommerlath's alleged ties with the German Nazi Party. ](/news/2011/05/16/queen-silvia-of-sweden-orders-an-investigation-into-her-father-walther-sommerlath-s-alleged-ties-with-the-german-nazi-party.md)

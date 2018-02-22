@@ -5,7 +5,7 @@ Formats: [HTML](2012/11/13/index.html)  [JSON](2012/11/13/index.json)  [XML](201
 
 ##### Syrian
 ### [Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/three-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-the-united-nations.md)
-_Context: United Nations, Syrian, Israel, Golan Heights_
+_Context: Golan Heights, Israel, Syrian, United Nations_
 
 ##### Israel
 ### [Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. ](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.md)
@@ -13,7 +13,7 @@ Israel and Hamas agree to hold their fire unless attacked; Defense Minister Bara
 
 ##### San Marino Common Good
 ### [The San Marino Common Good alliance wins a majority of the Grand and General Council of San Marino in the Sammarinese general election. ](/news/2012/11/13/the-san-marino-common-good-alliance-wins-a-majority-of-the-grand-and-general-council-of-san-marino-in-the-sammarinese-general-election.md)
-_Context: Sammarinese general election, San Marino, Grand and General Council, San Marino Common Good_
+_Context: San Marino Common Good, Grand and General Council, Sammarinese general election, San Marino_
 
 ##### Solar eclipse
 ### [A total solar eclipse occurred in parts of Australia and the South Pacific. The most populous city to experience totality was Cairns. ](/news/2012/11/13/a-total-solar-eclipse-occurred-in-parts-of-australia-and-the-south-pacific-the-most-populous-city-to-experience-totality-was-cairns.md)

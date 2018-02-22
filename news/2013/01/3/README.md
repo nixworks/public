@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/3/index.html)  [JSON](2013/01/3/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md)
-_Context: Shiite, Mussayab, suicide bombing_
+_Context: Mussayab, Shiite, suicide bombing_
 
 ##### Mexico
 ### [Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md)
@@ -13,7 +13,7 @@ Mexican soldiers kill 12 suspects in a gun battle in Zacatecas state, officials 
 
 ##### M23
 ### [The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-kabila-s-governm.md)
-_Context: Democratic Republic of Congo, Kabila government, M23_
+_Context: Kabila government, Democratic Republic of Congo, M23_
 
 ##### Vladimir Putin
 ### [Vladimir Putin, the President of Russia, grants Russian citizenship to Grard Depardieu who has renounced his French citizenship due to high taxes. ](/news/2013/01/3/vladimir-putin-the-president-of-russia-grants-russian-citizenship-to-gerard-depardieu-who-has-renounced-his-french-citizenship-due-to-high.md)
@@ -21,15 +21,15 @@ Russia grants citizenship to Gerard Depardieu, who has threatened to quit France
 
 ##### Romanian
 ### [Romanian film director, actor and politician Sergiu Nicolaescu dies at the age of 82 after complications from surgery which led to cardiac arrest. ](/news/2013/01/3/romanian-film-director-actor-and-politician-sergiu-nicolaescu-dies-at-the-age-of-82-after-complications-from-surgery-which-led-to-cardiac-a.md)
-_Context: film director, Romanian, Sergiu Nicolaescu_
+_Context: film director, Sergiu Nicolaescu, Romanian_
 
 ##### Al Jazeera
 ### [News channel Al Jazeera acquires Current TV from Al Gore and Joel Hyatt. ](/news/2013/01/3/news-channel-al-jazeera-acquires-current-tv-from-al-gore-and-joel-hyatt.md)
-_Context: Al Gore, Al Jazeera, Joel Hyatt, Current TV_
+_Context: Al Gore, Joel Hyatt, Current TV, Al Jazeera_
 
 ##### Hormel
 ### [Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. ](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.md)
-_Context: Unilever, Skippy peanut butter, Hormel_
+_Context: Unilever, Hormel, Skippy peanut butter_
 
 ##### Starbucks
 ### [Starbucks plans to open a coffee shop in Ho Chi Minh City, Vietnam, expanding its reach to 12 Asian nations. ](/news/2013/01/3/starbucks-plans-to-open-a-coffee-shop-in-ho-chi-minh-city-vietnam-expanding-its-reach-to-12-asian-nations.md)

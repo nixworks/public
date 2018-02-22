@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/6/index.html)  [JSON](2009/07/6/index.json)  [XML](2009/
 
 ##### A ''coup d'tat''
 ### [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in-a.md)
-_Context: Manuel Zelaya, Tegucigalpa, Nicaragua, a ''coup d'tat'', Honduras, President_
+_Context: Tegucigalpa, Honduras, a ''coup d'tat'', Manuel Zelaya, Nicaragua, President_
 
 ##### Riots
 ### [ Riots in China's Xinjiang region leave 156 dead and more than 800 injured. ](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.md)
@@ -17,11 +17,11 @@ _Context: South Africa_
 
 ##### Egyptians
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: Marwa El-Sherbini, Egyptians, hijab, German_
+_Context: hijab, Egyptians, Marwa El-Sherbini, German_
 
 ##### Burundi
 ### [ Burundi and Rwanda join the East African Community Customs Union. ](/news/2009/07/6/burundi-and-rwanda-join-the-east-african-community-customs-union.md)
-_Context: Burundi, Rwanda, East African Community_
+_Context: Burundi, East African Community, Rwanda_
 
 ##### Iran
 ### [ Iran frees another British embassy worker, leaving one local worker in jail. ](/news/2009/07/6/iran-frees-another-british-embassy-worker-leaving-one-local-worker-in-jail.md)
@@ -29,7 +29,7 @@ Iran has released one of the last two British embassy employees detained in Tehr
 
 ##### Earliest surviving
 ### [ About 800 pages of the earliest surviving Christian Bible are displayed on the internet. ](/news/2009/07/6/about-800-pages-of-the-earliest-surviving-christian-bible-are-displayed-on-the-internet.md)
-_Context: internet, earliest surviving, Christian, Bible_
+_Context: internet, earliest surviving, Bible, Christian_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta says it has seized a chemical tanker with six crew and attacked a second oil facility. ](/news/2009/07/6/the-movement-for-the-emancipation-of-the-niger-delta-says-it-has-seized-a-chemical-tanker-with-six-crew-and-attacked-a-second-oil-facility.md)
@@ -37,11 +37,11 @@ _Context: chemical tanker, Movement for the Emancipation of the Niger Delta_
 
 ##### Liberia
 ### [ Liberian President Ellen Johnson-Sirleaf's spokesman calls "surprising" a call by the country's truth commission that she be barred from office. ](/news/2009/07/6/liberian-president-ellen-johnson-sirleaf-s-spokesman-calls-surprising-a-call-by-the-country-s-truth-commission-that-she-be-barred-from-of.md)
-_Context: Liberia, President of Liberia, Ellen Johnson-Sirleaf_
+_Context: President of Liberia, Liberia, Ellen Johnson-Sirleaf_
 
 ##### Nigeria
 ### [ Nigerian militants hold six crew members of an oil tanker, including its Russian captain. ](/news/2009/07/6/nigerian-militants-hold-six-crew-members-of-an-oil-tanker-including-its-russian-captain.md)
-_Context: Russia, Nigeria_
+_Context: Nigeria, Russia_
 
 ##### United States
 ### [ United States President Barack Obama and Russian President Dmitry Medvedev agree on cutting their nuclear warheads and cooperate on military action in Afghanistan. ](/news/2009/07/6/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-agree-on-cutting-their-nuclear-warheads-and-cooperate-on-militar.md)
@@ -61,11 +61,11 @@ _Context: Javier Solana, European Union_
 
 ##### GERB
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
-_Context: Bulgarian parliamentary elections, GERB_
+_Context: GERB, Bulgarian parliamentary elections_
 
 ##### Shooting
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: shooting, Florida, United States, Miami_
+_Context: Miami, Florida, United States, shooting_
 
 ##### Iran
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)

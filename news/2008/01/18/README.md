@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/18/index.html)  [JSON](2008/01/18/index.json)  [XML](200
 
 ##### Pedestrian overpass
 ### [ Former psychiatric patient Matthew Higa is charged with killing a two-year-old boy by throwing him off a pedestrian overpass and into oncoming traffic on Interstate H-1 in downtown Honolulu, Hawaii. ](/news/2008/01/18/former-psychiatric-patient-matthew-higa-is-charged-with-killing-a-two-year-old-boy-by-throwing-him-off-a-pedestrian-overpass-and-into-oncom.md)
-_Context: Interstate H-1, pedestrian overpass, Honolulu_
+_Context: Honolulu, Interstate H-1, pedestrian overpass_
 
 ##### Dana Stubblefield
 ### [ Dana Stubblefield, a former defensive lineman in the NFL, pleads guilty to making false statements in the Bay Area Laboratory Co-operative investigation. ](/news/2008/01/18/dana-stubblefield-a-former-defensive-lineman-in-the-nfl-pleads-guilty-to-making-false-statements-in-the-bay-area-laboratory-co-operative.md)
@@ -21,7 +21,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 ##### Israel
 ### [ Israel kills one Palestinian and injures 40 as it temporarily closes all its border crossings with Gaza Strip. ](/news/2008/01/18/israel-kills-one-palestinian-and-injures-40-as-it-temporarily-closes-all-its-border-crossings-with-gaza-strip.md)
-_Context: Israel, Gaza Strip_
+_Context: Gaza Strip, Israel_
 
 ## [Previous Day...](/news/2008/01/17/index.md)
 

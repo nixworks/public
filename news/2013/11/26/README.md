@@ -3,7 +3,7 @@ Formats: [HTML](2013/11/26/index.html)  [JSON](2013/11/26/index.json)  [XML](201
 
 ## [2013-11-26](/news/2013/11/26/index.md)
 
-##### France
+##### French
 ### [France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md)
 France is considering tripling its forces in Central African Republic as the country faces the risk of “massive implosion” that threatens other countries in the region, Foreign Minister Laurent Fabius said.
 
@@ -21,7 +21,7 @@ CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minute
 
 ##### Chancellor of the Exchequer
 ### [The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. ](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.md)
-_Context: Chancellor of the Exchequer, Bank of England_
+_Context: Bank of England, Chancellor of the Exchequer_
 
 ##### Ford Motor Company
 ### [Ford recalls 140,000 Escape model cars from the United States and an additional 21,000 from other nations after 13 engine fires were reported. ](/news/2013/11/26/ford-recalls-140-000-escape-model-cars-from-the-united-states-and-an-additional-21-000-from-other-nations-after-13-engine-fires-were-reporte.md)
@@ -45,7 +45,7 @@ Chinese police have detained nine people in connection with oil pipeline explosi
 
 ##### P.C.
 ### [P.C. Keith Wallis is charged as part of the investigation into the Plebgate incident at Downing Street. ](/news/2013/11/26/p-c-keith-wallis-is-charged-as-part-of-the-investigation-into-the-plebgate-incident-at-downing-street.md)
-_Context: P.C., Downing Street, Plebgate_
+_Context: Plebgate, Downing Street, P.C._
 
 ##### Lostprophets
 ### [Lostprophets frontman Ian Watkins pleads guilty at Cardiff Crown Court to a range of child sex offences including the attempted rape of a baby. ](/news/2013/11/26/lostprophets-frontman-ian-watkins-pleads-guilty-at-cardiff-crown-court-to-a-range-of-child-sex-offences-including-the-attempted-rape-of-a-ba.md)
@@ -57,7 +57,7 @@ _Context: Obamacare, appeals court, Supreme Court of the United States_
 
 ##### Prime Minister
 ### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)
-_Context: Prime Minister, Yingluck Shinawatra, Thaksin Shinawatra_
+_Context: Thaksin Shinawatra, Prime Minister, Yingluck Shinawatra_
 
 ##### White Paper
 ### [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)

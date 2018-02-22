@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/4/index.html)  [JSON](2013/07/4/index.json)  [XML](2013/
 
 ##### Statue of Liberty
 ### [The Statue of Liberty opens for the first time since Hurricane Sandy caused extensive damage to Liberty Island in New York harbor in late October 2012. ](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.md)
-_Context: Hurricane Sandy, New York harbor, Liberty Island, Statue of Liberty_
+_Context: Liberty Island, New York harbor, Statue of Liberty, Hurricane Sandy_
 
 ##### Lancaster
 ### [A house fire kills 6 people in Lancaster, Pennsylvania. ](/news/2013/07/4/a-house-fire-kills-6-people-in-lancaster-pennsylvania.md)
@@ -25,7 +25,7 @@ The&#x20;supreme&#x20;leader&#x20;of&#x20;Egypt&#x27;s&#x20;Muslim&#x20;Brotherh
 
 ##### French President
 ### [Former President of France, Nicolas Sarkozy, announces his resignation from the Constitutional Council of France following a finding that he exceeded spending limits in his 2012 Presidential election campaign. ](/news/2013/07/4/former-president-of-france-nicolas-sarkozy-announces-his-resignation-from-the-constitutional-council-of-france-following-a-finding-that-he.md)
-_Context: Nicolas Sarkozy, French President, 2012 presidential election, Constitutional Council of France_
+_Context: Constitutional Council of France, Nicolas Sarkozy, 2012 presidential election, French President_
 
 ##### Chicago, Illinois
 ### [At least 19 people have been shot in the US city of Chicago since Wednesday with four people killed and 15 injured. ](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.md)
@@ -33,7 +33,7 @@ Seven men were killed and at least 42 other people were wounded in shootings thr
 
 ##### Japan
 ### [Campaigning gets underway in Japan for the House of Councillors election with voting to start on July 21. ](/news/2013/07/4/campaigning-gets-underway-in-japan-for-the-house-of-councillors-election-with-voting-to-start-on-july-21.md)
-_Context: House of Councillors, Japan, House of Councillors (Japan's upper house)_
+_Context: House of Councillors (Japan's upper house), Japan, House of Councillors_
 
 ##### South Africa
 ### [Former South African President Nelson Mandela is now in a "permanent vegetative state" and doctors have advised his family to turn off his life support machine. ](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.md)
@@ -41,7 +41,7 @@ Doctors treating Nelson Mandela have reportedly said that he is in a &quot;perma
 
 ##### Species
 ### [A new species of lizard is found in Sergipe, Brazil. ](/news/2013/07/4/a-new-species-of-lizard-is-found-in-sergipe-brazil.md)
-_Context: species, lizard, Sergipe, Brazil_
+_Context: Sergipe, Brazil, lizard, species_
 
 ## [Previous Day...](/news/2013/07/3/index.md)
 

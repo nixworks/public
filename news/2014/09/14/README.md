@@ -13,7 +13,7 @@ The battle in Donetsk between rebels and Kiev government forces was one of the m
 
 ##### Philippines
 ### [At least 70 people are still missing after the ferry MV "Maharlika II" sinks off the Philippines island of Leyte. ](/news/2014/09/14/at-least-70-people-are-still-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-island-of-leyte.md)
-_Context: Leyte, Philippines_
+_Context: Philippines, Leyte_
 
 ##### Jammu and Kashmir
 ### [India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-rescue.md)
@@ -25,11 +25,11 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 
 ##### 2014 Pacific hurricane season
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
-_Context: Hurricane Odile, Mexico, Baja California, 2014 Pacific hurricane season_
+_Context: Hurricane Odile, Baja California, Mexico, 2014 Pacific hurricane season_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: Philippines, Typhoon Kalmaegi, 2014 Pacific typhoon season_
+_Context: Philippines, 2014 Pacific typhoon season, Typhoon Kalmaegi_
 
 ##### Africa
 ### [A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. ](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.md)

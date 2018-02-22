@@ -29,7 +29,7 @@ _Context: Santander_
 
 ##### Colombia
 ### [At least 20 people are buried by a landslide in the northern Colombian department of Santander. ](/news/2010/12/23/at-least-20-people-are-buried-by-a-landslide-in-the-northern-colombian-department-of-santander.md)
-_Context: Colombia, Santander_
+_Context: Santander, Colombia_
 
 ##### Catholic Church
 ### [China describes recent criticism of its control on the Catholic Church by the Vatican as "imprudent and ungrounded". ](/news/2010/12/23/china-describes-recent-criticism-of-its-control-on-the-catholic-church-by-the-vatican-as-imprudent-and-ungrounded.md)
@@ -57,7 +57,7 @@ Lib Dem ministers apologise to Tory coalition colleagues after being secretly ta
 
 ##### Citizenship and Immigration Canada
 ### [Citizenship and Immigration Canada cuts funding for settlement centres across the country, leading to the Ontario Liberals protesting the decision that will affect many new immigrants in the province. Immigration minister Jason Kenney also affirms that Santa Claus is Canadian, referring to his characteristic red and white colours. ](/news/2010/12/23/citizenship-and-immigration-canada-cuts-funding-for-settlement-centres-across-the-country-leading-to-the-ontario-liberals-protesting-the-de.md)
-_Context: Citizenship and Immigration Canada, Jason Kenney, Santa Claus, Ontario Liberal Party, Immigration to Canada_
+_Context: Ontario Liberal Party, Citizenship and Immigration Canada, Santa Claus, Jason Kenney, Immigration to Canada_
 
 ##### Member of the Scottish Parliament
 ### [Former MSP Tommy Sheridan is convicted of perjury following a 12-week trial at the High Court in Glasgow. He was found guilty of lying during his successful defamation case against the "News of the World" which had printed details of his private life. ](/news/2010/12/23/former-msp-tommy-sheridan-is-convicted-of-perjury-following-a-12-week-trial-at-the-high-court-in-glasgow-he-was-found-guilty-of-lying-durin.md)

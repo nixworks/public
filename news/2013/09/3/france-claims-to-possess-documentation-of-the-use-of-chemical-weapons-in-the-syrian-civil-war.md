@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/3/france-claims-to-possess-documentation-of-the-us
 
 ### [2013-09-3](/news/2013/09/3/index.md)
 
-##### France
+##### French
 # France claims to possess documentation of the use of chemical weapons in the Syrian civil war. 
 
 Israel carries out a joint missile test with the US in the Mediterranean, amid heightened tension over possible Western military strikes on Syria.
@@ -27,8 +27,8 @@ Israel carries out a joint missile test with the US in the Mediterranean, amid h
 
 ### Related:
 
-1. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: France, chemical weapon_
-2. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: France, Syrian civil war_
+1. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: French, chemical weapon_
+2. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: French, Syrian civil war_
 3. [A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapons-in-the-conflict.md) _Context: Syrian civil war, chemical weapon_
-4. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: France_
-5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+4. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: French_
+5. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: French_

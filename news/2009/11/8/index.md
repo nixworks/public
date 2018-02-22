@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/8/index.html)  [JSON](2009/11/8/index.json)  [XML](2009/
 
 ##### President
 ### [ Venezuelan President Hugo Chavez tells the country's army and civilians to "prepare for war" with Colombia. ](/news/2009/11/8/venezuelan-president-hugo-chavez-tells-the-country-s-army-and-civilians-to-prepare-for-war-with-colombia.md)
-_Context: President, Hugo Chavez, Colombia_
+_Context: Colombia, President, Hugo Chavez_
 
 ##### Sudan
 ### [ Sudan's President Omar Hassan al-Bashir, indicted by the International Criminal Court, cancels his trip to Turkey. ](/news/2009/11/8/sudan-s-president-omar-hassan-al-bashir-indicted-by-the-international-criminal-court-cancels-his-trip-to-turkey.md)
@@ -13,7 +13,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### El Salvador
 ### [ El Salvador declares a state of emergency as 91 people drown from the effects of a coastal low. ](/news/2009/11/8/el-salvador-declares-a-state-of-emergency-as-91-people-drown-from-the-effects-of-a-coastal-low.md)
-_Context: El Salvador, floods and mudslides_
+_Context: floods and mudslides, El Salvador_
 
 ##### 21st summit
 ### [ The 21st summit of APEC begins in Singapore. ](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.md)
@@ -45,15 +45,15 @@ _Context: DR Congo_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes 220-215 to pass the highly debated health care reform act. ](/news/2009/11/8/the-united-states-house-of-representatives-votes-220-215-to-pass-the-highly-debated-health-care-reform-act.md)
-_Context: United States House of Representatives, health care reform act_
+_Context: health care reform act, United States House of Representatives_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
-_Context: Arunachal Pradesh, India, China, 14th Dalai Lama, Tawang_
+_Context: Tawang, India, 14th Dalai Lama, Arunachal Pradesh, China_
 
 ##### Republican
 ### [ Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.md)
-_Context: 2009 gubernatorial election and runoff, Governor of the Northern Mariana Islands, Republican, Heinz Hofschneider, runoff election, Benigno Fitial_
+_Context: Benigno Fitial, runoff election, Republican, 2009 gubernatorial election and runoff, Heinz Hofschneider, Governor of the Northern Mariana Islands_
 
 ## [Previous Day...](/news/2009/11/7/index.md)
 

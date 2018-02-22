@@ -13,7 +13,7 @@ Four Iraqi soldiers have been killed in a suicide bombing outside the camp where
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court reversed an appeals court ruling that would have narrowly interpreted the auto salesman's exemption from overtime pay rules mandated by statute under rules promulgated by the U.S. Labor Department, remanding the matter for further consideration. ](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court-ruling-that-would-have-narrowly-interpreted-the-auto-salesman-s-exemption-from-overtime-pay.md)
-_Context: U.S. Labor Department, Supreme Court of the United States, overtime pay_
+_Context: U.S. Labor Department, overtime pay, Supreme Court of the United States_
 
 ##### United Nations High Commissioner for Refugees
 ### [According to the United Nations High Commissioner for Refugees, the number of people displaced by conflicts in the world is at its highest level ever recorded, with an estimated 65.3 million people either being refugees, internally displaced or asylum seekers. ](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.md)
@@ -21,7 +21,7 @@ More than 65m people worldwide are displaced by conflict and war, the UN refugee
 
 ##### Human rights in Bahrain
 ### [Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-accused-him-of-promoting-s.md)
-_Context: Shia, Bahrain, Isa Qassim, Human rights in Bahrain_
+_Context: Bahrain, Isa Qassim, Human rights in Bahrain, Shia_
 
 ##### Global Witness
 ### [According to an environmental report by Global Witness, 2015 was the deadliest year ever for environmental activists, with the reported deaths of 185 activists, as a result of falling commodity prices prompting forceful land grabs by mining and foresting companies. ](/news/2016/06/20/according-to-an-environmental-report-by-global-witness-2015-was-the-deadliest-year-ever-for-environmental-activists-with-the-reported-deat.md)
@@ -37,7 +37,7 @@ Snap election likely to be held in early September after 137 deputies in 151-sea
 
 ##### 2014-16 Venezuelan protests
 ### [Per Venezuela's National Electoral Council's ruling, citizens across the country queue up for fingerprint validation of 1,850,000 signatures on referendum to recall President Nicolas Maduro. The opposition Democratic Unity Roundtable must validate 197,000 signatures (1 percent of registered voters) by Friday, in this first step of the recall referendum process. ](/news/2016/06/20/per-venezuela-s-national-electoral-council-s-ruling-citizens-across-the-country-queue-up-for-fingerprint-validation-of-1-850-000-signatures.md)
-_Context: 2014-16 Venezuelan protests, Venezuela, Nicolas Maduro, President, National Electoral Council, Democratic Unity Roundtable_
+_Context: National Electoral Council, Nicolas Maduro, President, 2014-16 Venezuelan protests, Venezuela, Democratic Unity Roundtable_
 
 ##### Solar Impulse 2
 ### [Solar Impulse 2, a plane powered only by the sun, leaves New York on the 15th leg of its round-the-world journey, a 90-hour flight over the Atlantic Ocean to Western Europe. ](/news/2016/06/20/solar-impulse-2-a-plane-powered-only-by-the-sun-leaves-new-york-on-the-15th-leg-of-its-round-the-world-journey-a-90-hour-flight-over-the.md)

@@ -21,15 +21,15 @@ The disease has infected more than 1,000 people in one of the worst outbreaks fo
 
 ##### Peruvian Airlines Flight 112
 ### [All 141 people on board Peruvian Airlines Flight 112 escape when the aircraft crashes on landing at Francisco Carle Airport, Jauja, Peru. ](/news/2017/03/28/all-141-people-on-board-peruvian-airlines-flight-112-escape-when-the-aircraft-crashes-on-landing-at-francisco-carle-airport-jauja-peru.md)
-_Context: Jauja, Francisco Carle Airport, Peruvian Airlines Flight 112_
+_Context: Peruvian Airlines Flight 112, Jauja, Francisco Carle Airport_
 
 ##### Georgia-European Union relations
 ### [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md)
-_Context: United Kingdom,  Georgian, member states, Irish, European Union, Georgia-European Union relations_
+_Context:  Georgian, European Union, Irish, member states, United Kingdom, Georgia-European Union relations_
 
 ##### Brexit
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
-_Context: United Kingdom, European Council, signs a letter invoking, Article 50 of the Treaty on European Union, Theresa May, Brexit, Prime Minister, European Union_
+_Context: European Council, Prime Minister, Article 50 of the Treaty on European Union, United Kingdom, Theresa May, signs a letter invoking, Brexit, European Union_
 
 ##### Delphine Boel
 ### [A Belgian Court in Brussels declares that Delphine Boel's case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-las-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md)
@@ -45,7 +45,7 @@ Motion passed 69 votes to 59 and comes a day before the UK takes the formal step
 
 ##### Executive order
 ### [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md)
-_Context: Barack Obama, climate change, Donald Trump, executive order_
+_Context: climate change, executive order, Barack Obama, Donald Trump_
 
 ##### Thylacine
 ### [Accounts of sightings of animals thought to resemble the extinct thylacine, the largest known carnivorous marsupial of modern times, prompt a search in the Far North of the Australian state of Queensland. ](/news/2017/03/28/accounts-of-sightings-of-animals-thought-to-resemble-the-extinct-thylacine-the-largest-known-carnivorous-marsupial-of-modern-times-prompt.md)

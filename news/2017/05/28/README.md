@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/28/index.html)  [JSON](2017/05/28/index.json)  [XML](201
 
 ##### Communist rebels
 ### [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md)
-_Context: Philippines, Communist, communist rebels, Rodrigo Duterte, martial law, Mindanao, Philippine government_
+_Context: Philippines, communist rebels, Rodrigo Duterte, Communist, Mindanao, Philippine government, martial law_
 
 ##### Marawi crisis
 ### [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md)
@@ -17,7 +17,7 @@ _Context: ISIL, Abu Sayyaf, Marawi crisis_
 
 ##### 2017 Sri Lankan flood and landslide
 ### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-di.md)
-_Context: 2017 Sri Lankan flood and landslide, Sri Lanka_
+_Context: Sri Lanka, 2017 Sri Lankan flood and landslide_
 
 ##### Tiburcio Caras Andino Stadium
 ### [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-cari.md)

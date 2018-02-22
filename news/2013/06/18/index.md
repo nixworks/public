@@ -45,7 +45,7 @@ Outcome of US Fed meet on quantitative easing eyed
 
 ##### Chrysler
 ### [Chrysler agrees to recall 1.56 million Jeeps in the United States. ](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.md)
-_Context: Jeep, Chrysler_
+_Context: Chrysler, Jeep_
 
 ##### Uttarakhand
 ### [The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himachal-pradesh-hits-99.md)
@@ -85,11 +85,11 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 
 ##### 2013 protests in Brazil
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
-_Context: National Congress, Brasilia, 2013 protests in Brazil_
+_Context: Brasilia, National Congress, 2013 protests in Brazil_
 
 ##### National Security Agency
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: House Intelligence Committee, United States House of Representatives, Keith Alexander, National Security Agency_
+_Context: Keith Alexander, National Security Agency, House Intelligence Committee, United States House of Representatives_
 
 ##### Montreal
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)
@@ -105,7 +105,7 @@ _Context: Ascend P6, Huawei_
 
 ##### Tianhe-2
 ### [Tianhe-2 is named the world's fastest supercomputer per the TOP500. ](/news/2013/06/18/tianhe-2-is-named-the-world-s-fastest-supercomputer-per-the-top500.md)
-_Context: Tianhe-2, TOP500_
+_Context: TOP500, Tianhe-2_
 
 ##### The Moon
 ### [New data suggests that as many as 280 previously unknown craters exist on The Moon. ](/news/2013/06/18/new-data-suggests-that-as-many-as-280-previously-unknown-craters-exist-on-the-moon.md)

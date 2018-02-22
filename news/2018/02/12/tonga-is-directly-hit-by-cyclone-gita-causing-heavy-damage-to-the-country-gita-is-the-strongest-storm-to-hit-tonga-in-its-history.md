@@ -24,7 +24,7 @@ Formats: [HTML](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-h
 
 ### Related:
 
-1. [Seven provinces in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-provinces-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: 2017-18 South Pacific cyclone season, Cyclone Gita_
+1. [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: 2017-18 South Pacific cyclone season, Cyclone Gita_
 2. [About 67% of Tonga's registered voters participate in the country's general election. ](/news/2017/11/16/about-67-of-tonga-s-registered-voters-participate-in-the-country-s-general-election.md) _Context: Tonga_
 3. [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md) _Context: Tonga_
 4. [A passenger bus carrying 46 people, mostly school groups from Tonga, crashes in the Gisborne Region of New Zealand, approximately 30 kilometers south of the city of Gisborne. Two people died while several were injured, with some still hospitalized. ](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.md) _Context: Tonga_

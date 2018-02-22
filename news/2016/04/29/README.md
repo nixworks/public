@@ -9,7 +9,7 @@ Sources in city say three clinics in rebel-held areas of Aleppo have been destro
 
 ##### Eurostat
 ### [According to Eurostat, the Eurozone's economy grew by 0.6% in the first three months of 2016, faster than what was originally expected, with unemployment falling to 10.2%. This growth suggest that the eurozone's economy is now bigger than it was before the start of the financial crisis of 2007-08. ](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.md)
-_Context: Eurozone, financial crisis of 2007-08, Eurostat_
+_Context: Eurozone, Eurostat, financial crisis of 2007-08_
 
 ##### Earthquake
 ### [A magnitude 7.0 earthquake hits off the coast of the Vanuatu island of Malakula, prompting the Pacific Tsunami Warning Center (PTWC) to issue a tsunami warning for the coasts of New Caledonia, Papua New Guinea, Solomon Islands and Vanuatu, which was later cancelled. ](/news/2016/04/29/a-magnitude-7-0-earthquake-hits-off-the-coast-of-the-vanuatu-island-of-malakula-prompting-the-pacific-tsunami-warning-center-ptwc-to-issu.md)
@@ -37,7 +37,7 @@ An elderly man from Puerto Rico succumbed after complications from an earlier in
 
 ##### Lithuania-United States relations
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Ukraine, Lithuania, Russia, United States Air Force, Lithuania-United States relations, most advanced fighter jets, Baltics_
+_Context: Lithuania, Lithuania-United States relations, Ukraine, most advanced fighter jets, United States Air Force, Russia, Baltics_
 
 ##### Australia
 ### [Australia commemorates the one-year anniversary of the execution of the ringleaders the Bali Nine. ](/news/2016/04/29/australia-commemorates-the-one-year-anniversary-of-the-execution-of-the-ringleaders-the-bali-nine.md)
@@ -49,7 +49,7 @@ NORTHKOREA-USA/PRISONER (URGENT):North Korea sentences Korean American to 10 yea
 
 ##### South Africa
 ### [A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. ](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.md)
-_Context: President of South Africa, Jacob Zuma, South Africa_
+_Context: South Africa, President of South Africa, Jacob Zuma_
 
 ##### Oklahoma
 ### [The states of Oklahoma and Nebraska, having recently suffered a loss in their frontal attack on Colorado's state-legal cannabis policy, launch another litigation strategy to the same end. ](/news/2016/04/29/the-states-of-oklahoma-and-nebraska-having-recently-suffered-a-loss-in-their-frontal-attack-on-colorado-s-state-legal-cannabis-policy-laun.md)
@@ -67,7 +67,7 @@ IRAN-ELECTION/START (URGENT):Iran holds run-off parliamentary election - state T
 ### [Protests erupt in various cities of Venezuela as the country faces increased food and power shortages, forcing the government to ration them, leading to widespread looting and violence. According to the opposition, who control the National Assembly, over a million people support its bid to start a referendum on ousting President Nicolas Maduro. ](/news/2016/04/29/protests-erupt-in-various-cities-of-venezuela-as-the-country-faces-increased-food-and-power-shortages-forcing-the-government-to-ration-them.md)
 Looting and clashes reported in several cities as queues get longer for food items while power situation looks bleak.
 
-##### France
+##### French
 ### [Protests in France turn violent as protesters clash with police, injuring over 20 police officers and resulting in over 120 arrests nationwide. The protests are against a labour law being proposed in the National Assembly, saying it will reduce rights and deepen job insecurity for youth. ](/news/2016/04/29/protests-in-france-turn-violent-as-protesters-clash-with-police-injuring-over-20-police-officers-and-resulting-in-over-120-arrests-nationwi.md)
 Two dozen police injured and more than 120 arrests during night of demonstrations nationwide against watering-down of worker rights
 

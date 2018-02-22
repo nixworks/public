@@ -5,15 +5,15 @@ Formats: [HTML](2007/06/3/index.html)  [JSON](2007/06/3/index.json)  [XML](2007/
 
 ##### Paramount Airlines
 ### [ A Paramount Airlines helicopter crashes in Sierra Leone, killing 22 people, with reports of at least one survivor. ](/news/2007/06/3/a-paramount-airlines-helicopter-crashes-in-sierra-leone-killing-22-people-with-reports-of-at-least-one-survivor.md)
-_Context: crashes, Sierra Leone, Paramount Airlines_
+_Context: Sierra Leone, crashes, Paramount Airlines_
 
 ##### 2007 North Lebanon conflict
 ### [ 2007 North Lebanon conflict: Soldiers and Islamist militants clash at a second Palestinian refugee camp in Lebanon. ](/news/2007/06/3/2007-north-lebanon-conflict-soldiers-and-islamist-militants-clash-at-a-second-palestinian-refugee-camp-in-lebanon.md)
-_Context: Islamists, Palestinian refugee, 2007 North Lebanon conflict, Soldiers, Lebanese_
+_Context: Palestinian refugee, Lebanese, Soldiers, 2007 North Lebanon conflict, Islamists_
 
 ##### Earthquake
 ### [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md)
-_Context: earthquake, Myanmar, Laos, Chinese_
+_Context: Chinese, Myanmar, earthquake, Laos_
 
 ## [Previous Day...](/news/2007/06/2/index.md)
 

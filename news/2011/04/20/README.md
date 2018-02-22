@@ -17,7 +17,7 @@ UN Security Council members call for restraint and dialogue between protesters a
 
 ##### Second Ivorian Civil War
 ### [Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md)
-_Context: Second Ivorian Civil War, Laurent Gbagbo, Alassane Ouattara_
+_Context: Laurent Gbagbo, Second Ivorian Civil War, Alassane Ouattara_
 
 ##### China
 ### [Two prominent Chinese human rights lawyers Jiang Tianyong and Liu Xiaoyuan are released. ](/news/2011/04/20/two-prominent-chinese-human-rights-lawyers-jiang-tianyong-and-liu-xiaoyuan-are-released.md)
@@ -25,7 +25,7 @@ Prominent Chinese human rights lawyer Jiang Tianyong is released and allowed to 
 
 ##### President
 ### [President Goodluck Jonathan of Nigeria wins the presidential election held on 16 April. ](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.md)
-_Context: Goodluck Jonathan, President, Nigeria, presidential election_
+_Context: presidential election, Goodluck Jonathan, Nigeria, President_
 
 ## [Previous Day...](/news/2011/04/19/index.md)
 

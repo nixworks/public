@@ -17,11 +17,11 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 
 ##### Uganda
 ### [ Uganda, Democratic Republic of the Congo, and Southern Sudan launch an operation against the Lord's Resistance Army insurgency in the DRC's Garamba National Park. ](/news/2008/12/14/uganda-democratic-republic-of-the-congo-and-southern-sudan-launch-an-operation-against-the-lord-s-resistance-army-insurgency-in-the-drc-s.md)
-_Context: Lord's Resistance Army, Uganda, Lord's Resistance Army insurgency, Garamba National Park, DR Congo, 2008 Garamba offensive, Southern Sudan_
+_Context: Lord's Resistance Army insurgency, Garamba National Park, 2008 Garamba offensive, Lord's Resistance Army, Uganda, Southern Sudan, DR Congo_
 
 ##### Al-Baghdadia TV
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: throws a shoe, Al-Baghdadia TV, United States, U.S. President, Muntadhar al Zaidi, Iraq, George W. Bush_
+_Context: U.S. President, Muntadhar al Zaidi, throws a shoe, Iraq, George W. Bush, Al-Baghdadia TV, United States_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

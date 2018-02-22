@@ -9,15 +9,15 @@ Police are investigating the cause of the blast, which ripped through a shopping
 
 ##### Battle of Mosul (2016-17)
 ### [Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and-the-levant.md)
-_Context: Iraqi Police, Battle of Mosul (2016-17), Mosul International Airport, ISIL_
+_Context: Mosul International Airport, Battle of Mosul (2016-17), ISIL, Iraqi Police_
 
 ##### United States
 ### [American-born panda Bao Bao arrives in China. ](/news/2017/02/23/american-born-panda-bao-bao-arrives-in-china.md)
-_Context: panda, Bao Bao, Chinese, United States_
+_Context: Chinese, United States, panda, Bao Bao_
 
 ##### Dakota Access Pipeline protests
 ### [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md)
-_Context: Canada, oil pipeline, United States, Dakota Access Pipeline protests, Dakota Access Pipeline_
+_Context: Dakota Access Pipeline protests, Canada, Dakota Access Pipeline, oil pipeline, United States_
 
 ##### 2016-17 UK and Ireland windstorm season
 ### [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md)

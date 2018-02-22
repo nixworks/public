@@ -13,19 +13,19 @@ South Korea&#8217;s president ordered his top security officials Sunday to deal 
 
 ##### Pierre Ngaiohni
 ### [ Pierre Ngaiohni is elected Vice President of New Caledonia. ](/news/2009/06/15/pierre-ngaiohni-is-elected-vice-president-of-new-caledonia.md)
-_Context: Vice President, New Caledonia, Pierre Ngaiohni_
+_Context: Pierre Ngaiohni, Vice President, New Caledonia_
 
 ##### United Kingdom
 ### [ British Prime Minister Gordon Brown announces that an independent inquiry into the country's role in the Iraq War will be held in private. ](/news/2009/06/15/british-prime-minister-gordon-brown-announces-that-an-independent-inquiry-into-the-country-s-role-in-the-iraq-war-will-be-held-in-private.md)
-_Context: United Kingdom, Iraq War, in private, Gordon Brown, Prime Minister, independent inquiry_
+_Context: independent inquiry, in private, Gordon Brown, United Kingdom, Iraq War, Prime Minister_
 
 ##### Yekaterinburg
 ### [ Leaders gather in Yekaterinburg, Russia, ahead of a Shanghai Cooperation Organisation and the first ever BRIC summit. ](/news/2009/06/15/leaders-gather-in-yekaterinburg-russia-ahead-of-a-shanghai-cooperation-organisation-and-the-first-ever-bric-summit.md)
-_Context: first ever, Yekaterinburg, BRIC, Russia, Shanghai Cooperation Organisation_
+_Context: Shanghai Cooperation Organisation, first ever, BRIC, Russia, Yekaterinburg_
 
 ##### India
 ### [ India, the defending champions and favorites at the 2009 ICC World Twenty20, are defeated by England. ](/news/2009/06/15/india-the-defending-champions-and-favorites-at-the-2009-icc-world-twenty20-are-defeated-by-england.md)
-_Context: India, England, 2009 ICC World Twenty20_
+_Context: 2009 ICC World Twenty20, India, England_
 
 ##### European Union
 ### [ The European Union announces it will help resettle detainees released from the Guantanamo Bay detention camp. ](/news/2009/06/15/the-european-union-announces-it-will-help-resettle-detainees-released-from-the-guantanamo-bay-detention-camp.md)
@@ -33,7 +33,7 @@ European Union member states are ready to help resettle detainees freed from the
 
 ##### Cuban Five
 ### [ Five Cubans convicted of spying for Cuba are denied an appeal for a new trial by the United States Supreme Court. ](/news/2009/06/15/five-cubans-convicted-of-spying-for-cuba-are-denied-an-appeal-for-a-new-trial-by-the-united-states-supreme-court.md)
-_Context: United States, United States Supreme Court, Cuba, Cuban Five, trial_
+_Context: Cuban Five, United States Supreme Court, Cuba, United States, trial_
 
 ## [Previous Day...](/news/2009/06/14/index.md)
 

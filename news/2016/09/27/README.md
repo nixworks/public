@@ -9,11 +9,11 @@ The Syrian army and its allies fought intense clashes with insurgents in the opp
 
 ##### Iraqi Civil War (2014-present)
 ### [Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghdad.md)
-_Context: Iraqi Civil War (2014-present), Baghdad_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ##### 2016 Pacific typhoon season
 ### [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md)
-_Context: 2016 Pacific typhoon season, Typhoon Megi, Taiwan_
+_Context: Typhoon Megi, 2016 Pacific typhoon season, Taiwan_
 
 ##### Nepal
 ### [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md)
@@ -37,7 +37,7 @@ Once in a while, the global health news is good. Today is one of those days. The
 
 ##### Cuba-United States relations
 ### [President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-1961.md)
-_Context: Cuba-United States relations, Jeffrey DeLaurentis, Barack Obama, United States Ambassador to Cuba_
+_Context: Barack Obama, Cuba-United States relations, United States Ambassador to Cuba, Jeffrey DeLaurentis_
 
 ##### Obama administration
 ### [The Obama administration through the United States Department of Labor sues Peter Thiel's Palantir Technologies for alleged discrimination against Asians in its hiring practices. ](/news/2016/09/27/the-obama-administration-through-the-united-states-department-of-labor-sues-peter-thiel-s-palantir-technologies-for-alleged-discrimination-a.md)

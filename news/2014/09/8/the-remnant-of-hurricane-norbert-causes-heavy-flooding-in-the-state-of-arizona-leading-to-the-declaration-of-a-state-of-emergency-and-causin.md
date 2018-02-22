@@ -20,7 +20,7 @@ Formats: [HTML](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-fl
 
 ### Related:
 
-1. [Seven provinces in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-provinces-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: states of emergency_
+1. [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: states of emergency_
 2. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: states of emergency_
 3. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: Arizona_
 4. [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md) _Context: Arizona_

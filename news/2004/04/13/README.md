@@ -13,7 +13,7 @@ _Context: China, Shanghai, One Child Policy_
 
 ##### 9/11 Commission
 ### [ A provisional report from the September 11 Commission states that the FBI was hampered in its fight against terrorism by poor intelligence, insufficient staffing and resources and a bureaucratic culture. ](/news/2004/04/13/a-provisional-report-from-the-september-11-commission-states-that-the-fbi-was-hampered-in-its-fight-against-terrorism-by-poor-intelligence.md)
-_Context: intelligence, culture, FBI, 9/11 Commission, resource, terrorism, bureaucracy_
+_Context: FBI, bureaucracy, terrorism, resource, culture, intelligence, 9/11 Commission_
 
 ## [Previous Day...](/news/2004/04/12/index.md)
 

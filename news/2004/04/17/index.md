@@ -9,15 +9,15 @@ _Context: Tenzin Gyatso_
 
 ##### Myanmar
 ### [ Burma's National League for Democracy reopens its Rangoon headquarters nearly a year after the government closed it down. ](/news/2004/04/17/burma-s-national-league-for-democracy-reopens-its-rangoon-headquarters-nearly-a-year-after-the-government-closed-it-down.md)
-_Context: Rangoon, Myanmar, National League for Democracy_
+_Context: National League for Democracy, Myanmar, Rangoon_
 
 ##### Abdel Aziz al-Rantissi
 ### [ Abdel Aziz al-Rantissi, leader of Hamas, is killed by an Israeli missile attack. ](/news/2004/04/17/abdel-aziz-al-rantissi-leader-of-hamas-is-killed-by-an-israeli-missile-attack.md)
-_Context: Abdel Aziz al-Rantissi, Hamas, Israel_
+_Context: Israel, Abdel Aziz al-Rantissi, Hamas_
 
 ##### Socialist Workers' Party
 ### [ Socialist Party leader Jos Luis Rodrguez Zapatero is sworn in as Spain's prime minister. ](/news/2004/04/17/socialist-party-leader-jose-luis-rodriguez-zapatero-is-sworn-in-as-spain-s-prime-minister.md)
-_Context: Socialist Workers' Party, Prime Minister, Jos Luis Rodrguez Zapatero_
+_Context: Jos Luis Rodrguez Zapatero, Socialist Workers' Party, Prime Minister_
 
 ## [Previous Day...](/news/2004/04/16/index.md)
 

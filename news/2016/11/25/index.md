@@ -13,7 +13,7 @@ Top OPEC oil exporter Saudi Arabia has told the producer group it will not atten
 
 ##### 2016 Pacific typhoon season
 ### [Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the-philippines-caused-by-tropic.md)
-_Context: Manila, 2016 Pacific typhoon season, Ninoy Aquino International Airport, Philippines_
+_Context: Philippines, Ninoy Aquino International Airport, 2016 Pacific typhoon season, Manila_
 
 ##### Semnan-Damghan train collision
 ### [Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-injured.md)
@@ -25,7 +25,7 @@ Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday afte
 
 ##### War in Afghanistan (2015-present)
 ### [At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-province-all-of-the-victims-were-displa.md)
-_Context: Afghan, War in Afghanistan (2015-present), Darzab District, Jozjan Province_
+_Context: Jozjan Province, Darzab District, Afghan, War in Afghanistan (2015-present)_
 
 ##### Northern Italy
 ### [Heavy rains lead to widespread flooding across northern Italy as several rivers have overflowed. One person is missing, presumed drowned. ](/news/2016/11/25/heavy-rains-lead-to-widespread-flooding-across-northern-italy-as-several-rivers-have-overflowed-one-person-is-missing-presumed-drowned.md)
@@ -37,11 +37,11 @@ Calls to halt negotiations with Ankara angers the country&#039;s leader, who war
 
 ##### United States-Yemen relations
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)
-_Context: United States-Yemen relations, WikiLeaks, 500 internal documents and emails, Sana'a_
+_Context: 500 internal documents and emails, WikiLeaks, Sana'a, United States-Yemen relations_
 
 ##### Supreme Court of Norway
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
-_Context: National Security Agency, Supreme Court of Norway, Norway, Edward Snowden_
+_Context: National Security Agency, Edward Snowden, Supreme Court of Norway, Norway_
 
 ##### Sindh
 ### [The Sindh province of Pakistan passes a law against forced religious conversions, carrying a minimum five-year sentence and a maximum sentence of life imprisonment, following criticism over protection of minorities in the country. ](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-against-forced-religious-conversions-carrying-a-minimum-five-year-sentence-and-a-maximum-senten.md)
@@ -65,11 +65,11 @@ Former Green Party presidential candidate Jill Stein on Thursday launched a bid 
 
 ##### Brazil
 ### [Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. ](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.md)
-_Context: Geddel Vieira Lima, president, Michel Temer, Brazil, cabinet_
+_Context: president, Michel Temer, Geddel Vieira Lima, cabinet, Brazil_
 
 ##### Fidel Castro
 ### [Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. ](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-cuba-former-prime-minister-and-former-president-of-cuba-dies-at-the-age-of-90.md)
-_Context: President, Fidel Castro, Communist Party of Cuba, Prime Minister, Cuba_
+_Context: President, Prime Minister, Fidel Castro, Cuba, Communist Party of Cuba_
 
 ## [Previous Day...](/news/2016/11/24/index.md)
 

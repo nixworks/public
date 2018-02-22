@@ -33,7 +33,7 @@ UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nati
 
 ##### United Nations Security Council election, 2016
 ### [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md)
-_Context: Malaysia, Spain, Kazakhstan, United Nations Security Council election, 2016, Angola, Italy, Sweden, Bolivia, Venezuela, Ethiopia, New Zealand_
+_Context: Sweden, United Nations Security Council election, 2016, Spain, Angola, Kazakhstan, Italy, Venezuela, New Zealand, Malaysia, Bolivia, Ethiopia_
 
 ##### Foreign relations of the Gambia
 ### [Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. ](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.md)
@@ -41,7 +41,7 @@ _Context: Malaysia, Spain, Kazakhstan, United Nations Security Council election,
 
 ##### Campinas massacre
 ### [A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murderasuicide-at-a-new-year-s-eve-party-in-the.md)
-_Context: southeast Brazilian, New Year's Eve, Campinas, murder-suicide, Campinas massacre_
+_Context: southeast Brazilian, New Year's Eve, Campinas massacre, murder-suicide, Campinas_
 
 ##### Ceuta
 ### [Spanish and Moroccan authorities clash with migrants on the Moroccan-Spanish border along Ceuta, as they attempt to climb and rush the border fence. ](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migrants-on-the-moroccan-spanish-border-along-ceuta-as-they-attempt-to-climb-and-rush-the-borde.md)
@@ -61,7 +61,7 @@ The Church of Norway and the Norwegian government are set to go their separate w
 
 ##### Quirino Ordaz Coppel
 ### [Quirino Ordaz Coppel is sworn in as Governor of the Mexican state of Sinaloa. ](/news/2017/01/1/quirino-ordaz-coppel-is-sworn-in-as-governor-of-the-mexican-state-of-sinaloa.md)
-_Context: Governor, Mexico, Quirino Ordaz Coppel, Sinaloa_
+_Context: Mexico, Sinaloa, Governor, Quirino Ordaz Coppel_
 
 ## [Previous Day...](/news/2016/12/31/index.md)
 

@@ -21,7 +21,7 @@ The troops died in two separate incidents near the Line of Control dividing the 
 
 ##### 2017 Mexico-United States diplomatic crisis
 ### [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md)
-_Context: Donald Trump, Mexican President, 2017 Mexico-United States diplomatic crisis, Enrique Pena Nieto, U.S. President, wall_
+_Context: Mexican President, Enrique Pena Nieto, Donald Trump, wall, U.S. President, 2017 Mexico-United States diplomatic crisis_
 
 ##### Supreme Court of Greece
 ### [The Supreme Court of Greece rejects the extradition of eight soldiers accused by Turkey of involvement in the 2016 Turkish "coup d'etat" attempt. ](/news/2017/01/26/the-supreme-court-of-greece-rejects-the-extradition-of-eight-soldiers-accused-by-turkey-of-involvement-in-the-2016-turkish-coup-d-a-c-tat-at.md)
@@ -33,7 +33,7 @@ Switzerland has detained former Gambian interior minister Ousman Sonko, who is a
 
 ##### Patrick F. Kennedy
 ### [Patrick F. Kennedy, Joyce Anne Barr, Michele Thoren Bond and Gentry O. Smith resign from the United States Department of State, after Victoria Nuland and Gregory B. Starr had declined to stay on in the Donald Trump administration. ](/news/2017/01/26/patrick-f-kennedy-joyce-anne-barr-michele-thoren-bond-and-gentry-o-smith-resign-from-the-united-states-department-of-state-after-victor.md)
-_Context: Patrick F. Kennedy, Gregory B. Starr, Donald Trump, Gentry O. Smith, Michele Thoren Bond, State Department, Victoria Nuland, Joyce Anne Barr_
+_Context: Joyce Anne Barr, Gentry O. Smith, Victoria Nuland, Patrick F. Kennedy, Gregory B. Starr, Michele Thoren Bond, State Department, Donald Trump_
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal-bringing-an-end-to-the-country-s-politica.md)

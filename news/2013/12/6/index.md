@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/6/index.html)  [JSON](2013/12/6/index.json)  [XML](2013/
 
 ##### Sana'a
 ### [The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.md)
-_Context: Yemen, Sana'a_
+_Context: Sana'a, Yemen_
 
 ##### Red Cross
 ### [The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/the-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of-fighting-in-bangui-the-capital-of-the-central-african-republic.md)
@@ -33,7 +33,7 @@ _Context: Chang'e 3, transorbital insertion, China National Space Administration
 
 ##### Sanford-Burnham Medical Research Institute
 ### [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal "Cell", describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism-p.md)
-_Context: Parkinsonism, pesticide, Parkinson's disease, Cell, paraquat, Sanford-Burnham Medical Research Institute, maneb_
+_Context: Cell, Parkinson's disease, paraquat, maneb, Sanford-Burnham Medical Research Institute, Parkinsonism, pesticide_
 
 ## [Previous Day...](/news/2013/12/5/index.md)
 

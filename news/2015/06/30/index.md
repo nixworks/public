@@ -13,11 +13,11 @@ The Philippines has put off signing an agreement to join the China-led Asian Inf
 
 ##### Greek government-debt crisis
 ### [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md)
-_Context: Greek government-debt crisis, International Monetary Fund, European Union, Greece_
+_Context: Greek government-debt crisis, European Union, Greece, International Monetary Fund_
 
 ##### Reinsurance
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
-_Context: Willis Group, Towers Watson, reinsurance_
+_Context: reinsurance, Towers Watson, Willis Group_
 
 ##### 2015 Indonesian military plane crash
 ### [A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-le.md)
@@ -25,7 +25,7 @@ More than 100 are feared killed as a military transport plane crashes in a resid
 
 ##### Self-immolation
 ### [ A man self-immolates aboard a "Nozomi" Shinkansen train running from Tokyo to Osaka; the man and another passenger die. Eleven others were reported injured. ](/news/2015/06/30/a-man-self-immolates-aboard-a-nozomi-shinkansen-train-running-from-tokyo-to-osaka-the-man-and-another-passenger-die-eleven-others-were.md)
-_Context: Osaka, Shinkansen, Tokyo, Nozomi, self-immolation_
+_Context: Osaka, Nozomi, self-immolation, Shinkansen, Tokyo_
 
 ##### Governor of California
 ### [Governor of California Jerry Brown signs a bill into law requiring all children to get vaccinations before being allowed to go to school or day care. ](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.md)

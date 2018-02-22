@@ -33,11 +33,11 @@ _Context: Serbia, European Union_
 
 ##### Gerry Adams
 ### [ It is revealed that the fugitive brother of Gerry Adams has been located in County Sligo after the politician appeals for him to make his whereabouts known. ](/news/2009/12/22/it-is-revealed-that-the-fugitive-brother-of-gerry-adams-has-been-located-in-county-sligo-after-the-politician-appeals-for-him-to-make-his-w.md)
-_Context: County Sligo, Gerry Adams_
+_Context: Gerry Adams, County Sligo_
 
 ##### Sheriff's deputie
 ### [ Two sheriff's deputies are injured and a suspect dies in a shooting in Pierce County, Washington, USA. ](/news/2009/12/22/two-sheriff-s-deputies-are-injured-and-a-suspect-dies-in-a-shooting-in-pierce-county-washington-usa.md)
-_Context: shooting, USA, Washington, Pierce County, sheriff's deputie_
+_Context: Washington, shooting, sheriff's deputie, Pierce County, USA_
 
 ##### An armed conflict
 ### [ An armed conflict in Dungu (Dongo), quateur Province of Democratic Republic of the Congo has escalated. By 10 December the conflict has left 100 dead and forced 115 000 people to flee their homes. ](/news/2009/12/22/an-armed-conflict-in-dungu-dongo-equateur-province-of-democratic-republic-of-the-congo-has-escalated-by-10-december-the-conflict-has-le.md)

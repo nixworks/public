@@ -9,19 +9,19 @@ Amidst boycott by Tamils, Lanka elected Marxist-backed PM Mahinda Rajapakse as i
 
 ##### Conrad Black
 ### [ The press baron Conrad Black is charged with multiple counts of fraud regarding his dealings with Hollinger International. ](/news/2005/11/17/the-press-baron-conrad-black-is-charged-with-multiple-counts-of-fraud-regarding-his-dealings-with-hollinger-international.md)
-_Context: Hollinger International, Conrad Black, fraud_
+_Context: Conrad Black, fraud, Hollinger International_
 
 ##### David Irving
 ### [ English writer David Irving is arrested in Vienna on charges of denying the Holocaust, a criminal offence in Austria. ](/news/2005/11/17/english-writer-david-irving-is-arrested-in-vienna-on-charges-of-denying-the-holocaust-a-criminal-offence-in-austria.md)
-_Context: Vienna, Holocaust denial, David Irving, Austria_
+_Context: Vienna, Holocaust denial, Austria, David Irving_
 
 ##### Rock and roll
 ### [ Former rock star Gary Glitter, previously convicted on child pornography charges, is being sought by Vietnamese authorities who seek to question him about under-age sex allegations. ](/news/2005/11/17/former-rock-star-gary-glitter-previously-convicted-on-child-pornography-charges-is-being-sought-by-vietnamese-authorities-who-seek-to-que.md)
-_Context: Vietnam, Rock and roll, child pornography, Gary Glitter_
+_Context: child pornography, Gary Glitter, Rock and roll, Vietnam_
 
 ##### Archbishop of Canterbury
 ### [ The Archbishop of Canterbury Rowan Williams, the leader of the world-wide Anglican Communion, is challenged to rethink his personal stance on the ordination of gay clergy in the light of scripture by nearly half of all the Anglican Primates. ](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.md)
-_Context: Primate, ordained, Rowan Williams, scripture, Anglican Communion, clergy, homosexuality, Archbishop of Canterbury_
+_Context: ordained, clergy, scripture, Archbishop of Canterbury, Rowan Williams, homosexuality, Anglican Communion, Primate_
 
 ##### French Police
 ### [ French Police declare a "return to normalcy throughout France" as civil unrest subsides. ](/news/2005/11/17/french-police-declare-a-return-to-normalcy-throughout-france-as-civil-unrest-subsides.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/2/index.html)  [JSON](2008/06/2/index.json)  [XML](2008/
 
 ##### France's national railway company
 ### [ A SNCF train runs into a school bus at a level crossing at Mesinges, near the town of Allinges in the mountainous Haute Savoie area of France with at least six people killed. ](/news/2008/06/2/a-sncf-train-runs-into-a-school-bus-at-a-level-crossing-at-mesinges-near-the-town-of-allinges-in-the-mountainous-haute-savoie-area-of-fran.md)
-_Context: Haute Savoie, level crossing, France, France's national railway company, Allinges_
+_Context: level crossing, Haute Savoie, France's national railway company, French, Allinges_
 
 ##### Mount John University Observatory
 ### [ Astronomers using the Mount John University Observatory discover MOA-2007-BLG-192-L b, the smallest known extrasolar planet which does not orbit a pulsar. ](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.md)
@@ -13,11 +13,11 @@ _Context: MOA-2007-BLG-192-L b, Mount John University Observatory, extrasolar pl
 
 ##### Suicide bomber
 ### [ A suicide bomber strikes outside the Danish embassy in the Pakistani capital Islamabad with at least eight people dead. ](/news/2008/06/2/a-suicide-bomber-strikes-outside-the-danish-embassy-in-the-pakistani-capital-islamabad-with-at-least-eight-people-dead.md)
-_Context: Pakistan, suicide bomber, embassy, Denmark, Islamabad_
+_Context: Islamabad, Pakistan, Denmark, suicide bomber, embassy_
 
 ##### Housing crisis
 ### [ Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-due-to-losses-incurred-in-t.md)
-_Context: Wachovia, Chief Executive Officer, United States, G. Kennedy Thompson, housing crisis_
+_Context: housing crisis, G. Kennedy Thompson, Chief Executive Officer, Wachovia, United States_
 
 ##### United States Supreme Court
 ### [ In "United States v. Santos", by a 5-4 decision, the United States Supreme Court takes a narrow interpretation of federal laws regarding money laundering, and uses the decision in "Cuellar v. United States" to unanimously overturn the money laundering conviction of Humberto Cuellar. ](/news/2008/06/2/in-united-states-v-santos-by-a-5-4-decision-the-united-states-supreme-court-takes-a-narrow-interpretation-of-federal-laws-regarding-mo.md)
@@ -25,15 +25,15 @@ The Supreme Court on Monday ruled against the government in two money laundering
 
 ##### IAEA
 ### [ The International Atomic Energy Agency will send an inspection team to Syria to investigate claims by the United States that it was secretly building a nuclear reactor. ](/news/2008/06/2/the-international-atomic-energy-agency-will-send-an-inspection-team-to-syria-to-investigate-claims-by-the-united-states-that-it-was-secretl.md)
-_Context: IAEA, chemical weapons facilities, Syria, United States_
+_Context: chemical weapons facilities, IAEA, United States, Syria_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council goes on a mission to Africa with the first leg of the mission to Djibouti to discuss the Somali Civil War. ](/news/2008/06/2/the-united-nations-security-council-goes-on-a-mission-to-africa-with-the-first-leg-of-the-mission-to-djibouti-to-discuss-the-somali-civil-w.md)
-_Context: United Nations Security Council, Africa, Djibouti, Somali Civil War_
+_Context: Djibouti, Africa, United Nations Security Council, Somali Civil War_
 
 ##### United Nations
 ### [ The United Nations Security Council unanimously passes a declaration allowing foreign naval vessels to enter Somali territorial waters to deal with pirates. ](/news/2008/06/2/the-united-nations-security-council-unanimously-passes-a-declaration-allowing-foreign-naval-vessels-to-enter-somali-territorial-waters-to-d.md)
-_Context: Somali pirates, maritime forces, United Nations, United Nations Security Council, Somalia_
+_Context: maritime forces, Somali pirates, Somalia, United Nations Security Council, United Nations_
 
 ## [Previous Day...](/news/2008/06/1/index.md)
 

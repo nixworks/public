@@ -9,7 +9,7 @@ _Context: Syrian Civil War, Aleppo, Syrian Army, Syrian Observatory for Human Ri
 
 ##### Shi'ite
 ### [A bomb in a Shi'ite mosque in the Pakistani city of Rawalpindi kills at least two people and injures six. ](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.md)
-_Context: Pakistan, Rawalpindi, Shi'ite_
+_Context: Shi'ite, Rawalpindi, Pakistan_
 
 ##### Boko Haram
 ### [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md)
@@ -17,15 +17,15 @@ Thirty-seven people have died in an air strike in southern Niger during military
 
 ##### Japan Post
 ### [Japan Post acquires Australian transport company Toll Holdings at a cost of A$6.5 billion. ](/news/2015/02/18/japan-post-acquires-australian-transport-company-toll-holdings-at-a-cost-of-a-6-5-billion.md)
-_Context: Australia, Toll Holdings, Japan Post_
+_Context: Toll Holdings, Japan Post, Australia_
 
 ##### 2014-15 Australian region cyclone season
 ### [The Australian Bureau of Meteorology is predicting that a low pressure system in the Coral Sea will develop into tropical cyclone Marcia within 24 hours and bring heavy rain to South East Queensland with the potential to cause flooding. ](/news/2015/02/18/the-australian-bureau-of-meteorology-is-predicting-that-a-low-pressure-system-in-the-coral-sea-will-develop-into-tropical-cyclone-marcia-wit.md)
-_Context: 2014-15 Australian region cyclone season, tropical cyclone, Australian Bureau of Meteorology, low pressure system, flood, Coral Sea, South East Queensland_
+_Context: South East Queensland, tropical cyclone, flood, 2014-15 Australian region cyclone season, low pressure system, Coral Sea, Australian Bureau of Meteorology_
 
 ##### Turkey
 ### [A snowstorm in the Turkish city of Istanbul leads to the closure of Istanbul Ataturk Airport, causes the cancellation of 300 Turkish Airlines flights and closes the Bosphorus Strait to shipping. ](/news/2015/02/18/a-snowstorm-in-the-turkish-city-of-istanbul-leads-to-the-closure-of-istanbul-atata1-4rk-airport-causes-the-cancellation-of-300-turkish-airlin.md)
-_Context: Istanbul Ataturk Airport, Turkey, Turkish Airlines, Istanbul, Bosphorus Strait_
+_Context: Turkish Airlines, Bosphorus Strait, Istanbul, Turkey, Istanbul Ataturk Airport_
 
 ##### Islamic State
 ### [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md)
@@ -33,15 +33,15 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 
 ##### Australian
 ### [Australian David Hicks wins an appeal in the U.S. Court of Military Commission Review against his conviction for providing material support to terrorism in 2007 in a U.S. Navy court in Guantanamo Bay. ](/news/2015/02/18/australian-david-hicks-wins-an-appeal-in-the-u-s-court-of-military-commission-review-against-his-conviction-for-providing-material-support.md)
-_Context: Guantanamo Bay, David Hicks, Australian, terrorism, United States Navy, U.S. Court of Military Commission Review_
+_Context: U.S. Court of Military Commission Review, United States Navy, David Hicks, terrorism, Guantanamo Bay, Australian_
 
 ##### Swede
 ### [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md)
-_Context: Blackshades, Swede, software, hackers, United States_
+_Context: software, United States, hackers, Swede, Blackshades_
 
 ##### Vanilla Ice
 ### [Robert van Winkle aka Vanilla Ice is arrested for burglary and grand theft in Florida. ](/news/2015/02/18/robert-van-winkle-aka-vanilla-ice-is-arrested-for-burglary-and-grand-theft-in-florida.md)
-_Context: Vanilla Ice, Florida, burglary, grand theft_
+_Context: Florida, burglary, Vanilla Ice, grand theft_
 
 ##### President of Indonesia
 ### [The President of Indonesia Joko Widodo drops his nomination of Budi Gunawan as national police chief following allegations that Gunawan was involved in a bribery scandal. ](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.md)
@@ -53,11 +53,11 @@ The Modi government has cleared the indigenous construction of seven stealth fri
 
 ##### Hellenic Parliament
 ### [The Hellenic Parliament elects Prokopis Pavlopoulos as the new President of Greece. ](/news/2015/02/18/the-hellenic-parliament-elects-prokopis-pavlopoulos-as-the-new-president-of-greece.md)
-_Context: elects, Hellenic Parliament, Prokopis Pavlopoulos, President of Greece_
+_Context: Prokopis Pavlopoulos, elects, Hellenic Parliament, President of Greece_
 
 ##### Moldovan Parliament
 ### [The Moldovan Parliament appoints a new government with Chiril Gaburici as Prime Minister and a legislative support formed by the PLDM, PDM and PCRM. ](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.md)
-_Context: government, PCRM, Moldovan Parliament, PLDM, PDM, Moldovan Prime Minister, Chiril Gaburici_
+_Context: PLDM, Moldovan Prime Minister, Moldovan Parliament, PCRM, Chiril Gaburici, PDM, government_
 
 ## [Previous Day...](/news/2015/02/17/index.md)
 

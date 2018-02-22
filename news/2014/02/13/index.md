@@ -9,7 +9,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: Karachi, policemen, suicide bomb_
+_Context: suicide bomb, policemen, Karachi_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -25,7 +25,7 @@ _Context: Luxor_
 
 ##### Comcast
 ### [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md)
-_Context: Time Warner Cable, United States dollars, Comcast_
+_Context: Comcast, United States dollars, Time Warner Cable_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -41,7 +41,7 @@ _Context: Met Office, Winter storms_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
-_Context: Indonesia, Mount Kelud, Java_
+_Context: Indonesia, Java, Mount Kelud_
 
 ##### Moscow
 ### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)
@@ -77,7 +77,7 @@ _Context: gay marriage, Virginia_
 
 ##### Yutu
 ### [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md)
-_Context: Yutu, Moon_
+_Context: Moon, Yutu_
 
 ##### Clovis culture
 ### [The remains of an infant boy from the Clovis culture is determined to be Native American. ](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.md)

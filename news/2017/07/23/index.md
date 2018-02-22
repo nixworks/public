@@ -13,7 +13,7 @@ The shooting at the compound in Amman may be related to recent protests over the
 
 ##### Florida manatee
 ### [Snooty, formerly the world's oldest West Indian manatee, dies at age 69 after being trapped in the plumbing of the South Florida Museum. ](/news/2017/07/23/snooty-formerly-the-world-s-oldest-west-indian-manatee-dies-at-age-69-after-being-trapped-in-the-plumbing-of-the-south-florida-museum.md)
-_Context: Florida manatee, South Florida Museum, West Indian manatee, Snooty_
+_Context: West Indian manatee, Florida manatee, South Florida Museum, Snooty_
 
 ##### Drug crackdown
 ### [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md)

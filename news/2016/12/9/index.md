@@ -37,7 +37,7 @@ The European Union will let Ukrainians and Georgians visit the bloc freely after
 
 ##### Sam Rainsy
 ### [Sam Rainsy, the Cambodian opposition leader, is tried yet again in absentia. ](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.md)
-_Context: Cambodia, in absentia, Sam Rainsy_
+_Context: in absentia, Cambodia, Sam Rainsy_
 
 ##### Geert Wilders
 ### [Dutch populist politician Geert Wilders is convicted for hate speech. ](/news/2016/12/9/dutch-populist-politician-geert-wilders-is-convicted-for-hate-speech.md)
@@ -57,11 +57,11 @@ Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress
 
 ##### Presidential transition of Donald Trump
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-_Context: Donald Trump, Goldman Sachs, Presidential transition of Donald Trump, White House National Economic Council, Gary Cohn_
+_Context: Presidential transition of Donald Trump, Donald Trump, Gary Cohn, White House National Economic Council, Goldman Sachs_
 
 ##### Gambian presidential election, 2016
 ### [The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-after-conceding-defeat-to-adama-barrow.md)
-_Context: Gambian presidential election, 2016, President of Gambia, Adama Barrow, Yahya Jammeh_
+_Context: President of Gambia, Yahya Jammeh, Adama Barrow, Gambian presidential election, 2016_
 
 ##### 2016 U.S. election
 ### [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md)

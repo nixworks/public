@@ -9,7 +9,7 @@ Seventeen militants and at least two soldiers are killed in clashes in southern 
 
 ##### NATO
 ### [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md)
-_Context: Afghan, NATO, Kapisa province, International Security Assistance Force_
+_Context: International Security Assistance Force, Afghan, NATO, Kapisa province_
 
 ##### Sectarian violence
 ### [At least 20 people are killed and over three hundred houses are burned down during riots in western Burma. ](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hundred-houses-are-burned-down-during-riots-in-western-burma.md)
@@ -25,7 +25,7 @@ The wreckage of a helicopter missing in southern Peru has been found with all 14
 
 ##### Landslide
 ### [400 people are trapped by landslides in the Indian state of Jammu and Kashmir. ](/news/2012/06/9/400-people-are-trapped-by-landslides-in-the-indian-state-of-jammu-and-kashmir.md)
-_Context: India, Jammu and Kashmir, landslide_
+_Context: Jammu and Kashmir, India, landslide_
 
 ##### Pensacola, Florida
 ### [Over 12 inches of rain fail on Pensacola, Florida and adjacent areas, leading to widespread flooding. ](/news/2012/06/9/over-12-inches-of-rain-fail-on-pensacola-florida-and-adjacent-areas-leading-to-widespread-flooding.md)
@@ -37,7 +37,7 @@ Residents caught up in severe overnight flooding in mid Wales speak of the speed
 
 ##### Student protests
 ### [Protesters and riot police clash for the third night in a row in Montreal near the Grand Prix events on the corner of Sainte-Catherine and Crescent. ](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.md)
-_Context: Crescent, Grand Prix, Sainte-Catherine, student protests, Montreal_
+_Context: student protests, Montreal, Sainte-Catherine, Grand Prix, Crescent_
 
 ## [Previous Day...](/news/2012/06/8/index.md)
 

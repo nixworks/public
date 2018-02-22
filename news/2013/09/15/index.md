@@ -9,7 +9,7 @@ A wave of car bombs and shootings across Iraq killed at least 36 people on Sunda
 
 ##### Saboteurs
 ### [Saboteurs blow up an export oil pipeline in Yemen. ](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.md)
-_Context: oil pipeline, Saboteurs, Yemen_
+_Context: oil pipeline, Yemen, Saboteurs_
 
 ##### Afghan
 ### [At least 27 miners die in an Afghanistan coal mine collapse. ](/news/2013/09/15/at-least-27-miners-die-in-an-afghanistan-coal-mine-collapse.md)

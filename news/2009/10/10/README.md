@@ -17,7 +17,7 @@ Polish President Lech Kaczynski signed the European Union&#39;s Lisbon Treaty in
 
 ##### Tanker
 ### [ At least 70 people are killed after a fuel tanker explodes in Nigeria. ](/news/2009/10/10/at-least-70-people-are-killed-after-a-fuel-tanker-explodes-in-nigeria.md)
-_Context: tanker, Nigeria_
+_Context: Nigeria, tanker_
 
 ##### Philippines
 ### [ 186 people are killed by landslides in the Philippines. ](/news/2009/10/10/186-people-are-killed-by-landslides-in-the-philippines.md)
@@ -41,11 +41,11 @@ _Context: massacre of opposition protesters, Guinea_
 
 ##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Barack Obama, United States, U.S. President, United States armed forces, Don't ask, don't tell, gay_
+_Context: Barack Obama, United States armed forces, Don't ask, don't tell, United States, gay, U.S. President_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: Islam, racial bias, Manchester, England_
+_Context: racial bias, Islam, Manchester, England_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
@@ -53,7 +53,7 @@ More than 200 modifications
 
 ##### St Petersburg
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: Gazprom, Russia, St Petersburg_
+_Context: Russia, St Petersburg, Gazprom_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

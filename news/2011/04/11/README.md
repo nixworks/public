@@ -27,21 +27,21 @@ Libyan rebels rejected an African Union peace plan on Monday because it did not 
 ### [Fighting between rebels and government forces kill 27 people in the Central African Republic. ](/news/2011/04/11/fighting-between-rebels-and-government-forces-kill-27-people-in-the-central-african-republic.md)
 _Context: Central African Republic_
 
-##### France
+##### French
 ### [The French law banning the burqa and niqab comes into effect. ](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.md)
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.
 
 ##### Mexico
 ### [Mexican businessman Carlos Slim is again the richest man in the world according to the Forbes list of billionaires. ](/news/2011/04/11/mexican-businessman-carlos-slim-is-again-the-richest-man-in-the-world-according-to-the-forbes-list-of-billionaires.md)
-_Context: Mexico, Carlos Slim, list of the world's wealthiest people_
+_Context: Mexico, list of the world's wealthiest people, Carlos Slim_
 
 ##### Intel
 ### [Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. ](/news/2011/04/11/intel-announces-former-codename-oak-trail-atom-processor-will-be-in-devices-beginning-in-may-especially-designed-for-netbook-and-tablet.md)
-_Context: tablets, former codename "Oak Trail") Atom processor, Intel, netbook_
+_Context: former codename "Oak Trail") Atom processor, Intel, tablets, netbook_
 
 ##### Highland Capital
 ### [Highland Capital has brought an adversary proceeding within the U.S. bankruptcy court, New York, in regard to the Lyondell reorganization, against the securities unit of UBS AG for third-party inferenece with a contract between Highland and Lyondell. ](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.md)
-_Context: Highland Capital, Lyondell, UBS AG, contract_
+_Context: contract, UBS AG, Highland Capital, Lyondell_
 
 ##### Japan
 ### [Over 14,000 people are still missing in Japan, a month after the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/11/over-14-000-people-are-still-missing-in-japan-a-month-after-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -49,7 +49,7 @@ _Context: Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### Tokyo Electric Power Co.
 ### [The President of the Tokyo Electric Power Co. visits the government offices of Fukushima Prefecture and the command centre for the Fukushima I nuclear accidents to apologise. ](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.md)
-_Context: Fukushima Prefecture, Fukushima I nuclear accidents, Tokyo Electric Power Co._
+_Context: Fukushima Prefecture, Tokyo Electric Power Co., Fukushima I nuclear accidents_
 
 ##### Government
 ### [The government of Japan announces plans to evacuate more towns near the Fukushima I Nuclear Power Plant as the crisis continues. ](/news/2011/04/11/the-government-of-japan-announces-plans-to-evacuate-more-towns-near-the-fukushima-i-nuclear-power-plant-as-the-crisis-continues.md)
@@ -65,7 +65,7 @@ As a goodwill gesture, ahead of Baisakhi, India on Monday repatriated 39 Pakista
 
 ##### Tajikistan
 ### [Authorities in Tajikistan are to ban divorce by text message. ](/news/2011/04/11/authorities-in-tajikistan-are-to-ban-divorce-by-text-message.md)
-_Context: text message, divorce, Tajikistan_
+_Context: divorce, text message, Tajikistan_
 
 ##### Egypt
 ### [Egyptian blogger Maikel Nabil is sentenced to three years in prison by a military court for criticising the army. ](/news/2011/04/11/egyptian-blogger-maikel-nabil-is-sentenced-to-three-years-in-prison-by-a-military-court-for-criticising-the-army.md)
@@ -77,7 +77,7 @@ A Northern Virginia man on Monday was sentenced to 23 years in prison for his ro
 
 ##### Nepal
 ### [Nepalese Energy Minister Gokarna Bista is stabbed in Katmandu. ](/news/2011/04/11/nepalese-energy-minister-gokarna-bista-is-stabbed-in-katmandu.md)
-_Context: Katmandu, Gokarna Bista, Nepal_
+_Context: Nepal, Gokarna Bista, Katmandu_
 
 ##### Uganda
 ### [Uganda's opposition leader Kizza Besigye is arrested after calling for a protest against recent fuel price increases. ](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.md)
@@ -89,7 +89,7 @@ The Sex Discrimination Commissioner will hold a wide-ranging inquiry into the wa
 
 ##### President
 ### [The President of Yemen Ali Abdullah Saleh welcomes a proposal by the Gulf Cooperation Council that would see him stand aside for his Vice-President. ](/news/2011/04/11/the-president-of-yemen-ali-abdullah-saleh-welcomes-a-proposal-by-the-gulf-cooperation-council-that-would-see-him-stand-aside-for-his-vice-pr.md)
-_Context: Ali Abdullah Saleh, President, Gulf Cooperation Council_
+_Context: Ali Abdullah Saleh, Gulf Cooperation Council, President_
 
 ##### David Cameron
 ### [British Prime Minister David Cameron is criticised by the University of Oxford for an "incorrect and highly misleading" claim that only one black student was enrolled there in 2009. During a question and answer session on the effect of higher tuition fees on poorer students, Cameron had called the figures "disgraceful". The University says that at least 26 black students started there that year. ](/news/2011/04/11/british-prime-minister-david-cameron-is-criticised-by-the-university-of-oxford-for-an-incorrect-and-highly-misleading-claim-that-only-one.md)
@@ -105,7 +105,7 @@ _Context: nomination, Massachusetts governor, Mitt Romney, Mitt Romney's campaig
 
 ##### Vincent C. Gray
 ### [Vincent C. Gray, the Mayor of Washington DC is arrested while protesting about a US budget deal. ](/news/2011/04/11/vincent-c-gray-the-mayor-of-washington-dc-is-arrested-while-protesting-about-a-us-budget-deal.md)
-_Context: Vincent C. Gray, US budget deal, Mayor of Washington DC_
+_Context: Mayor of Washington DC, Vincent C. Gray, US budget deal_
 
 ## [Previous Day...](/news/2011/04/10/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/13/france-condemns-the-actions-of-a-senior-soldier
 
 ### [2010-08-13](/news/2010/08/13/index.md)
 
-##### France
+##### French
 # France condemns the actions of a senior soldier after a YouTube video of him threatening a Togolese journalist in Lome is released. 
 
 French officials lambast a senior army officer who was filmed on YouTube ordering a Togolese journalist to delete images of a protest.
@@ -17,8 +17,8 @@ French officials lambast a senior army officer who was filmed on YouTube orderin
 
 ### Related:
 
-1. [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md) _Context: YouTube_
-2. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: France_
-3. [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire, with bribing Deputy Prime Minister Sergei Prikhodko and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md) _Context: YouTube_
-4. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
-5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_
+1. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: French_
+2. [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md) _Context: YouTube_
+3. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: French_
+4. [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire, with bribing Deputy Prime Minister Sergei Prikhodko and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md) _Context: YouTube_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: French_

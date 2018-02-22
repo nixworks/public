@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/9/index.html)  [JSON](2011/05/9/index.json)  [XML](2011/
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Heavy shooting is heard in a western suburb of Damascus as the Syrian Army advances against anti-government protesters. ](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.md)
-_Context: Syrian Army, 2011 Syrian uprising, Damascus_
+_Context: Damascus, Syrian Army, 2011 Syrian uprising_
 
 ##### 2010-2011 Ivorian crisis
 ### [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010a2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md)
@@ -17,15 +17,15 @@ Not everyone regards Victory Day as a cause for celebration. In Western Ukraine,
 
 ##### Ali Gomaa
 ### [Ali Gomaa, the Islamic Grand Mufti of Egypt, warns of the potential of civil war because of "outlaws who want to defy the authority of the state". ](/news/2011/05/9/ali-gomaa-the-islamic-grand-mufti-of-egypt-warns-of-the-potential-of-civil-war-because-of-outlaws-who-want-to-defy-the-authority-of-the-s.md)
-_Context: Ali Gomaa, Grand Mufti, Egypt, Islam_
+_Context: Egypt, Islam, Ali Gomaa, Grand Mufti_
 
 ##### Civil war
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)
-_Context: Tripoli, Libya, civil war, NATO_
+_Context: NATO, Tripoli, civil war, Libya_
 
 ##### Chinese
 ### [China's yuan reaches a record level against the United States dollar. ](/news/2011/05/9/china-s-yuan-reaches-a-record-level-against-the-united-states-dollar.md)
-_Context: yuan, Chinese, $_
+_Context: Chinese, $, yuan_
 
 ##### Chubu Electric Power
 ### [Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. ](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.md)
@@ -41,11 +41,11 @@ Qantas passengers face likely disruptions to flights after the airline&#039;s 16
 
 ##### Ivory Coast
 ### [The Ivory Coast, the world's largest cocoa producer, makes its first shipment since January, after the cocoa industry was disrupted by the 2010-2011 Ivorian crisis. ](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.md)
-_Context: Ivory Coast, 2010-2011 Ivorian crisis, cocoa_
+_Context: cocoa, Ivory Coast, 2010-2011 Ivorian crisis_
 
 ##### European Union
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
-_Context: Standard & Poor's, Greece, European Union_
+_Context: European Union, Greece, Standard & Poor's_
 
 ##### Lake Togo
 ### [At least 36 people are killed after several boats capsize during a storm on Lake Togo in southeastern Togo. ](/news/2011/05/9/at-least-36-people-are-killed-after-several-boats-capsize-during-a-storm-on-lake-togo-in-southeastern-togo.md)
@@ -53,7 +53,7 @@ Seven boats have capsized in a storm in the west African nation of Togo, leaving
 
 ##### Quarry
 ### [More than 20 quarry workers are buried by a landslide in Luojiang near the Chinese resort city of Guilin. ](/news/2011/05/9/more-than-20-quarry-workers-are-buried-by-a-landslide-in-luojiang-near-the-chinese-resort-city-of-guilin.md)
-_Context: China, landslide, Guilin, Luojiang, quarry_
+_Context: Guilin, quarry, landslide, Luojiang, China_
 
 ##### Civil war
 ### [A boat carrying up to 600 people trying to flee from the 2011 Libyan civil war sinks outside the port of Tripoli. ](/news/2011/05/9/a-boat-carrying-up-to-600-people-trying-to-flee-from-the-2011-libyan-civil-war-sinks-outside-the-port-of-tripoli.md)
@@ -61,11 +61,11 @@ A ship carrying up to 600 migrants trying to flee Libya has sunk just off the co
 
 ##### States of emergency
 ### [A province-wide state of emergency is declared for Manitoba in the wake of hundred-year floods on the Assiniboine River and Red River of the North near Brandon. ](/news/2011/05/9/a-province-wide-state-of-emergency-is-declared-for-manitoba-in-the-wake-of-hundred-year-floods-on-the-assiniboine-river-and-red-river-of-the.md)
-_Context: Brandon, Red River of the North, Manitoba, Assiniboine River, states of emergency_
+_Context: Assiniboine River, states of emergency, Brandon, Manitoba, Red River of the North_
 
 ##### Mainichi Shimbun
 ### [The "Mainichi Shimbun" reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
-_Context: Japan, nuclear fuel, Mainichi Shimbun, Mongolia, United States_
+_Context: United States, Mongolia, nuclear fuel, Mainichi Shimbun, Japan_
 
 ##### Father's killing
 ### [The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-incursions-following-the-rai.md)
@@ -73,7 +73,7 @@ Pakistan&#039;s prime minister will on Monday warn the United States it will def
 
 ##### Indonesia
 ### [Indonesia drops some of the key terrorism charges against radical cleric Abu Bakar Bashir, meaning that it is unlikely that he will receive the death penalty. ](/news/2011/05/9/indonesia-drops-some-of-the-key-terrorism-charges-against-radical-cleric-abu-bakar-bashir-meaning-that-it-is-unlikely-that-he-will-receive.md)
-_Context: terrorism, sentenced to death, Indonesia, Abu Bakar Bashir_
+_Context: Indonesia, Abu Bakar Bashir, sentenced to death, terrorism_
 
 ##### Twitter
 ### [A Twitter user tries to unmask some celebrities who have obtained super-injunctions to prevent publication of details of their private lives. ](/news/2011/05/9/a-twitter-user-tries-to-unmask-some-celebrities-who-have-obtained-super-injunctions-to-prevent-publication-of-details-of-their-private-lives.md)
@@ -81,15 +81,15 @@ A user of Twitter has tried to unmask some of the public figures who have obtain
 
 ##### Walid Makled Garcia
 ### [Accused drug lord Walid Makled Garcia is extradited from Colombia to Venezuela. ](/news/2011/05/9/accused-drug-lord-walid-makled-garcia-is-extradited-from-colombia-to-venezuela.md)
-_Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
+_Context: extradite, Colombia, Venezuela, Walid Makled Garcia_
 
 ##### Governor
 ### [The Governor of Arizona Jan Brewer asks the United States Supreme Court to overturn a ruling putting parts of its 2010 Immigration Law on hold. ](/news/2011/05/9/the-governor-of-arizona-jan-brewer-asks-the-united-states-supreme-court-to-overturn-a-ruling-putting-parts-of-its-2010-immigration-law-on-ho.md)
-_Context: Governor, United States Supreme Court, immigration law, Jan Brewer_
+_Context: United States Supreme Court, immigration law, Jan Brewer, Governor_
 
 ##### Louis Bacon
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the "Denver Post" and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosure.md)
-_Context: Louis Bacon, United States, United Kingdom, Wikipedia, WordPress, Denver Post_
+_Context: Denver Post, WordPress, Louis Bacon, United States, Wikipedia, United Kingdom_
 
 ##### Pennsylvania
 ### [Pennsylvania State Senator Bob Mensch is convicted of disorderly conduct after showing a handgun to another motorist on US Interstate 78. ](/news/2011/05/9/pennsylvania-state-senator-bob-mensch-is-convicted-of-disorderly-conduct-after-showing-a-handgun-to-another-motorist-on-us-interstate-78.md)
@@ -109,19 +109,19 @@ The leader of the Scottish Conservative Party Annabel Goldie says she will stand
 
 ##### Republican
 ### [Republican Dean Heller is sworn in as a United States Senator representing Nevada replacing John Ensign who resigned. ](/news/2011/05/9/republican-dean-heller-is-sworn-in-as-a-united-states-senator-representing-nevada-replacing-john-ensign-who-resigned.md)
-_Context: Nevada, John Ensign, Senator, Republican, Dean Heller_
+_Context: Republican, Dean Heller, John Ensign, Nevada, Senator_
 
 ##### Texas Senate
 ### [The Texas Senate approves legislation containing an amendment allowing university students in the US state of Texas to carry handguns on campus. ](/news/2011/05/9/the-texas-senate-approves-legislation-containing-an-amendment-allowing-university-students-in-the-us-state-of-texas-to-carry-handguns-on-cam.md)
-_Context: Texas Senate, handgun, Texas_
+_Context: Texas, handgun, Texas Senate_
 
 ##### Samoa
 ### [Samoa announces plans to shift west of the international dateline from the east, putting it a day ahead to make trading with Australia and New Zealand easier. ](/news/2011/05/9/samoa-announces-plans-to-shift-west-of-the-international-dateline-from-the-east-putting-it-a-day-ahead-to-make-trading-with-australia-and-n.md)
-_Context: New Zealand, international dateline, Samoa, Australia_
+_Context: Australia, international dateline, Samoa, New Zealand_
 
 ##### NASA
 ### [NASA reschedules the final mission of the Space Shuttle Endeavour for Monday. ](/news/2011/05/9/nasa-reschedules-the-final-mission-of-the-space-shuttle-endeavour-for-monday.md)
-_Context: NASA, Space Shuttle ''Endeavour'', final mission_
+_Context: NASA, final mission, Space Shuttle ''Endeavour''_
 
 ## [Previous Day...](/news/2011/05/8/index.md)
 

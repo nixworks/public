@@ -21,7 +21,7 @@ Disgraced Chinese politician Bo Xilai is to go on trial on Thursday, charged wit
 
 ##### DR Congo
 ### [The lawyer of two Norwegians who have been imprisoned in the Congo since 2009 says one of the two, Tjostolv Moland, is found dead in his prison cell. ](/news/2013/08/18/the-lawyer-of-two-norwegians-who-have-been-imprisoned-in-the-congo-since-2009-says-one-of-the-two-tjostolv-moland-is-found-dead-in-his-pri.md)
-_Context: DR Congo, Tjostolv Moland_
+_Context: Tjostolv Moland, DR Congo_
 
 ## [Previous Day...](/news/2013/08/17/index.md)
 

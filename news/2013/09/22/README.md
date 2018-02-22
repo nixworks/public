@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/22/index.html)  [JSON](2013/09/22/index.json)  [XML](201
 
 ##### Suicide bombers
 ### [Two suicide bombers attack a church in the Pakistani city of Peshawar, killing at least 78 people. ](/news/2013/09/22/two-suicide-bombers-attack-a-church-in-the-pakistani-city-of-peshawar-killing-at-least-78-people.md)
-_Context: Peshawar, at least 78 people, Pakistan, suicide bombers_
+_Context: Peshawar, Pakistan, suicide bombers, at least 78 people_
 
 ##### Westgate centre shooting
 ### [The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md)
@@ -25,7 +25,7 @@ A Chinese court sentences disgraced former top politician Bo Xilai to life after
 
 ##### German
 ### [Voters in Germany go to the polls for a federal election, with Chancellor Angela Merkel's Christian Democratic Union achieving its highest vote since 1990. ](/news/2013/09/22/voters-in-germany-go-to-the-polls-for-a-federal-election-with-chancellor-angela-merkel-s-christian-democratic-union-achieving-its-highest-v.md)
-_Context: Chancellor, federal election, Angela Merkel, Christian Democratic Union, German_
+_Context: Christian Democratic Union, federal election, German, Chancellor, Angela Merkel_
 
 ## [Previous Day...](/news/2013/09/21/index.md)
 

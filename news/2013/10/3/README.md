@@ -13,7 +13,7 @@ Fifteen people are killed as five attackers, including at least three suicide bo
 
 ##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, Joaquin Almunia, Russia, European Union, Gazprom_
+_Context: European Union, Russia, antitrust, Joaquin Almunia, Gazprom_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
@@ -33,7 +33,7 @@ The deaths of at least 111 people again underscored the dangerous, desperate eff
 
 ##### Murtala Muhammed International Airport
 ### [A passenger plane carrying 27 people crashes at the Murtala Muhammed International Airport in Lagos, Nigeria, with 13 deaths reported. ](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.md)
-_Context: Nigeria, Lagos, Murtala Muhammed International Airport_
+_Context: Lagos, Murtala Muhammed International Airport, Nigeria_
 
 ##### Lalu Prasad Yadav
 ### [Indian politician Lalu Prasad Yadav is sentenced to 5 years imprisonment for illegally taking money out of the Chaibasa treasury. ](/news/2013/10/3/indian-politician-lalu-prasad-yadav-is-sentenced-to-5-years-imprisonment-for-illegally-taking-money-out-of-the-chaibasa-treasury.md)

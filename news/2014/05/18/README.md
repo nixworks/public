@@ -25,7 +25,7 @@ _Context: Turkish police_
 
 ##### Fundacion
 ### [A bus in Fundacion, department of Magdalena, Colombia, ignites while transporting children from a religious service, killing 31 children. ](/news/2014/05/18/a-bus-in-fundacia3n-department-of-magdalena-colombia-ignites-while-transporting-children-from-a-religious-service-killing-31-children.md)
-_Context: Fundacion, Colombia, department of Magdalena_
+_Context: department of Magdalena, Fundacion, Colombia_
 
 ##### Chinese
 ### [More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/more-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-injured-in-the-riot-last-week-following.md)

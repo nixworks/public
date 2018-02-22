@@ -9,7 +9,7 @@ Iraqi government forces have retaken the town of Dhuluiya from Islamic State, so
 
 ##### Somali civil war
 ### [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md)
-_Context: Somalia, Al-Shabaab, Saakow, Somali civil war_
+_Context: Al-Shabaab, Somalia, Somali civil war, Saakow_
 
 ##### Luise Rainer
 ### [Luise Rainer, German-born American actress ("The Great Ziegfeld", "The Good Earth"), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumonia-at.md)

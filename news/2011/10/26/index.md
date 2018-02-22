@@ -5,27 +5,27 @@ Formats: [HTML](2011/10/26/index.html)  [JSON](2011/10/26/index.json)  [XML](201
 
 ##### Syria
 ### [2011 Syrian uprising: At least 17 people are reported dead in Syria, as fighting continues between the government and opposition groups. ](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.md)
-_Context: Syria, 2011 Syrian uprising_
+_Context: 2011 Syrian uprising, Syria_
 
 ##### Afghan
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghan, Parwan province_
+_Context: Parwan province, Afghan_
 
 ##### India
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
-_Context: Bollywood, Ra.One, India, Hindu, Diwali_
+_Context: India, Diwali, Ra.One, Bollywood, Hindu_
 
 ##### Coroner
 ### [A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. ](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.md)
-_Context: British, soul music, Amy Winehouse, coroner, alcohol poisoning_
+_Context: coroner, alcohol poisoning, British, Amy Winehouse, soul music_
 
 ##### Composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
-_Context: All Nippon Airways, composite, 787 Dreamliner, Hong Kong, Tokyo_
+_Context: Hong Kong, Tokyo, composite, 787 Dreamliner, All Nippon Airways_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: Olympus Corp, United States, United Kingdom, Japan, Tsuyoshi Kikukawa_
+_Context: Tsuyoshi Kikukawa, United States, Olympus Corp, United Kingdom, Japan_
 
 ##### Mexico
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
@@ -41,7 +41,7 @@ Eurozone leaders holding a summit on the debt crisis find agreement on recapital
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
-_Context: Rajat Gupta, Goldman Sachs, Raj Rajaratnam, Procter and Gamble_
+_Context: Rajat Gupta, Procter and Gamble, Goldman Sachs, Raj Rajaratnam_
 
 ##### Saif al-Islam Gaddafi
 ### [Saif al-Islam Gaddafi, son of the late Libyan dictator Muammar Gaddafi, is reported to be attempting to negotiate a surrender to the International Criminal Court. ](/news/2011/10/26/saif-al-islam-gaddafi-son-of-the-late-libyan-dictator-muammar-gaddafi-is-reported-to-be-attempting-to-negotiate-a-surrender-to-the-interna.md)

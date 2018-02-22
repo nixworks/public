@@ -33,7 +33,7 @@ A lawsuit between two film companies over the rights to the film Oscar-winning f
 
 ##### Diocese of Rome
 ### [The Diocese of Rome criticises homosexual priests, accusing them of leading a "double life" and advising them to leave the priesthood. ](/news/2010/07/23/the-diocese-of-rome-criticises-homosexual-priests-accusing-them-of-leading-a-double-life-and-advising-them-to-leave-the-priesthood.md)
-_Context: homosexual, Diocese of Rome_
+_Context: Diocese of Rome, homosexual_
 
 ##### Billy Corgan
 ### [Singer Billy Corgan collapses during a performance of "Bullet with Butterfly Wings" in the United States. ](/news/2010/07/23/singer-billy-corgan-collapses-during-a-performance-of-bullet-with-butterfly-wings-in-the-united-states.md)
@@ -49,11 +49,11 @@ _Context: One Direction_
 
 ##### Deepwater Horizon
 ### [Alarms on the "Deepwater Horizon" oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mexic.md)
-_Context: Gulf of Mexico, explosion, Deepwater Horizon, Deepwater Horizon oil spill_
+_Context: Deepwater Horizon oil spill, Gulf of Mexico, Deepwater Horizon, explosion_
 
 ##### Serbia
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
-_Context: yesterday ruling, Kosovo, Kosovo, Serbia, International Court of Justice_
+_Context: International Court of Justice, Serbia, Kosovo, yesterday ruling, Kosovo_
 
 ##### Venezuela
 ### [Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". ](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.md)
@@ -77,7 +77,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ##### China
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Xinjiang, Uyghur, ethnic riots, China_
+_Context: China, ethnic riots, Xinjiang, Uyghur_
 
 ##### U.S. state
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
@@ -95,7 +95,7 @@ A court in Pakistan orders the release of a mentally-ill woman charged with dese
 ### [The family of Ian Tomlinson, filmed being pushed to his death by police while walking home from work past the 2009 G-20 London summit protests, say the incident is being covered up by authorities. ](/news/2010/07/23/the-family-of-ian-tomlinson-filmed-being-pushed-to-his-death-by-police-while-walking-home-from-work-past-the-2009-g-20-london-summit-protes.md)
 The police officer captured on film striking Ian Tomlinson during the G20 protests will not face criminal charges over his death because of conflicting opinions about the cause of death among the medical experts who conducted post-mortem examinations.
 
-##### France
+##### French
 ### [France's defense ministry says it aided a recent raid by Mauritania against al-Qaeda in North Africa in a failed search for a French hostage. ](/news/2010/07/23/france-s-defense-ministry-says-it-aided-a-recent-raid-by-mauritania-against-al-qaeda-in-north-africa-in-a-failed-search-for-a-french-hostage.md)
 France confirms a raid against alleged al-Qaeda militants thought to be holding a French hostage in the Sahara desert.
 
@@ -113,7 +113,7 @@ Dissident Ariel Sigler released as part of deal between church and Cuban governm
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. ](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.md)
-_Context: President, Mahmoud Ahmadinejad, Iran_
+_Context: President, Iran, Mahmoud Ahmadinejad_
 
 ##### IPad
 ### [The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. ](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.md)
@@ -129,7 +129,7 @@ Former Millwall, Bradford and Wycombe striker Gavin Grant is convicted of murder
 
 ##### Youth Olympic Games
 ### [The torch lighting ceremony for the first Youth Olympic Games, to be held in Singapore from August 14 to 26, is held in Olympia, Greece. ](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.md)
-_Context: Olympia, Greece, Youth Olympic Games_
+_Context: Youth Olympic Games, Olympia, Greece_
 
 ## [Previous Day...](/news/2010/07/22/index.md)
 

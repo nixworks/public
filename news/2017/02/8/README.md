@@ -25,7 +25,7 @@ Empty storage jars and a scrap of parchment unearthed in dig carried out by Hebr
 
 ##### U.S. District Court in Washington, D.C.
 ### [The U.S. District Court for the District of Columbia blocks health insurer Anthem Inc.'s proposed $54 billion merger with rival Cigna because it would have exacerbated an already highly concentrated market and likely raised prices. ](/news/2017/02/8/the-u-s-district-court-for-the-district-of-columbia-blocks-health-insurer-anthem-inc-s-proposed-54-billion-merger-with-rival-cigna-becaus.md)
-_Context: Anthem, Cigna, U.S. District Court in Washington, D.C._
+_Context: Cigna, Anthem, U.S. District Court in Washington, D.C._
 
 ##### Philippines
 ### [More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. ](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.md)
@@ -41,7 +41,7 @@ Motion follows biggest protests in decades against decree that would have decrim
 
 ##### Somali presidential election, 2017
 ### [Somali politicians gather inside a high-security compound at Aden Adde International Airport in Mogadishu to elect a President for the country, with current president Hassan Sheikh Mohamud running for a second term. ](/news/2017/02/8/somali-politicians-gather-inside-a-high-security-compound-at-aden-adde-international-airport-in-mogadishu-to-elect-a-president-for-the-count.md)
-_Context: Aden Adde International Airport, Hassan Sheikh Mohamud, Mogadishu, Somali presidential election, 2017, President_
+_Context: Hassan Sheikh Mohamud, Somali presidential election, 2017, Mogadishu, President, Aden Adde International Airport_
 
 ##### Cabinet of Donald Trump
 ### [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md)

@@ -9,15 +9,15 @@ _Context: His Majesty's Government, Home Office_
 
 ##### Albania
 ### [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md)
-_Context: free trade zone, Moldova, Albania, Serbia, Central European Free Trade Agreement, Bosnia and Herzegovina, Croatia, Bulgaria, Republic of Macedonia, Romania, Kosovo, Montenegro_
+_Context: Serbia, Kosovo, Albania, Romania, Moldova, free trade zone, Republic of Macedonia, Bosnia and Herzegovina, Central European Free Trade Agreement, Croatia, Bulgaria, Montenegro_
 
 ##### Government of Kazakhstan
 ### [ The Government of Kazakhstan is considering giving Kyrgyzstan USD $100 million in aid. ](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.md)
-_Context: Kyrgyzstan, Government of Kazakhstan, USD_
+_Context: Government of Kazakhstan, Kyrgyzstan, USD_
 
 ##### 2006 Malaysian floods
 ### [ The 2006 Malaysian floods caused by heavy monsoon rain force the evacuation of 26,000 people in the southern Malaysian state of Johor. Flooding is also reported in the southern states of Malacca and Negeri Sembilan but the situation there is not as serious. ](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.md)
-_Context: monsoon, 2006 Malaysian floods, Malacca, Malaysia, Negeri Sembilan, Johor_
+_Context: Johor, 2006 Malaysian floods, Malacca, Negeri Sembilan, monsoon, Malaysia_
 
 ##### Somali Civil War
 ### [ Somali Civil War: Heavy fighting breaks out on at least two fronts near the Somali interim government's base in Baidoa. Somalia's interim government and the Islamic Courts Union pledge to begin peace negotiations. ](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.md)
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### "Jack" Thomas
 ### [ "Jack" Thomas will face a retrial under the Australian Anti-Terrorism Act 2005 based on media interviews. He had earlier been jailed under the act before an Appeals Court freed him on the grounds that an interview with Thomas in Pakistan had been involuntary. ](/news/2006/12/20/jack-thomas-will-face-a-retrial-under-the-australian-anti-terrorism-act-2005-based-on-media-interviews-he-had-earlier-been-jailed-under.md)
-_Context: Appeals Court, "Jack" Thomas, Pakistan, Australian Anti-Terrorism Act 2005_
+_Context: Australian Anti-Terrorism Act 2005, "Jack" Thomas, Pakistan, Appeals Court_
 
 ##### Military of the United States
 ### [ The United States military claims to have captured a senior leader of Al-Qaeda in Iraq. ](/news/2006/12/20/the-united-states-military-claims-to-have-captured-a-senior-leader-of-al-qaeda-in-iraq.md)

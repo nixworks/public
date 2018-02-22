@@ -17,7 +17,7 @@ The Nation Newspaper is Nigeria&#039;s widest circulating newspaper covering New
 
 ##### Diamond jubilee
 ### [The Diamond Jubilee of Elizabeth II of the United Kingdom reaches its peak with a pageant on the River Thames. ](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.md)
-_Context: River Thames, Elizabeth II, diamond jubilee, pageant_
+_Context: diamond jubilee, pageant, Elizabeth II, River Thames_
 
 ##### Crashes
 ### [A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and 10 people on the ground. ](/news/2012/06/3/a-plane-carrying-153-people-on-board-crashes-in-a-residential-neighborhood-in-lagos-nigeria-killing-everyone-on-board-and-10-people-on-the.md)
@@ -25,11 +25,11 @@ _Context: Lagos, Nigeria, crashes_
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Leon Panetta visits a former U.S. base in Cam Ranh Bay, the first visit by an American official of cabinet rank to Vietnam since the Vietnam War. ](/news/2012/06/3/united-states-secretary-of-defense-leon-panetta-visits-a-former-u-s-base-in-cam-ranh-bay-the-first-visit-by-an-american-official-of-cabine.md)
-_Context: Cam Ranh Bay, United States Secretary of Defense, Vietnam, Vietnam War, Leon Panetta_
+_Context: Cam Ranh Bay, United States Secretary of Defense, Vietnam War, Leon Panetta, Vietnam_
 
 ##### Chinese
 ### [Police in China crack down on political activists marking the 23rd anniversary of the 1989 Tiananmen Square protests. ](/news/2012/06/3/police-in-china-crack-down-on-political-activists-marking-the-23rd-anniversary-of-the-1989-tiananmen-square-protests.md)
-_Context: 1989 Tiananmen Square protests, Chinese_
+_Context: Chinese, 1989 Tiananmen Square protests_
 
 ##### Japan
 ### [Police in Japan arrest Naoko Kikuchi, a member of the Aum Shinrikyo cult and one of the two fugitives still at large wanted over the deadly sarin gas attacks on the Tokyo subway in March 1995. ](/news/2012/06/3/police-in-japan-arrest-naoko-kikuchi-a-member-of-the-aum-shinrikyo-cult-and-one-of-the-two-fugitives-still-at-large-wanted-over-the-deadly.md)
@@ -41,7 +41,7 @@ _Context: Turkey, abortion_
 
 ##### BBC
 ### [Speaking on the BBC's "The Andrew Marr Show", British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely-in.md)
-_Context: Secretary of State for Culture, Media and Sport, The Andrew Marr Show, Jeremy Hunt, Prime Minister, BSkyB takeover bid, BBC, David Cameron_
+_Context: The Andrew Marr Show, Prime Minister, Secretary of State for Culture, Media and Sport, BBC, BSkyB takeover bid, Jeremy Hunt, David Cameron_
 
 ## [Previous Day...](/news/2012/06/2/index.md)
 

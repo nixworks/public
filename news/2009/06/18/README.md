@@ -5,15 +5,15 @@ Formats: [HTML](2009/06/18/index.html)  [JSON](2009/06/18/index.json)  [XML](200
 
 ##### North Korea
 ### [ North Korea considers launching a missile towards Hawaii. ](/news/2009/06/18/north-korea-considers-launching-a-missile-towards-hawaii.md)
-_Context: North Korea, Hawaii_
+_Context: Hawaii, North Korea_
 
 ##### Atlas V
 ### [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md)
-_Context: LRO, Moon, LCROSS, Atlas V, explore_
+_Context: explore, LCROSS, Atlas V, LRO, Moon_
 
 ##### Continental Airlines
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: Newark Liberty International Airport, Continental Airlines, pilot, Newark, New Jersey's, Brussels, United States, Belgium, Boeing 777_
+_Context: Newark, New Jersey's, Newark Liberty International Airport, Boeing 777, Continental Airlines, Brussels, United States, pilot, Belgium_
 
 ##### Altering
 ### [ Iran is accused of altering ](/news/2009/06/18/iran-is-accused-of-altering.md)
@@ -21,7 +21,7 @@ _Context: altering_
 
 ##### The Gambia
 ### [ Seven Gambian journalists are charged with seditious publication for reprinting a press union statement criticising President Yahya Jammeh. ](/news/2009/06/18/seven-gambian-journalists-are-charged-with-seditious-publication-for-reprinting-a-press-union-statement-criticising-president-yahya-jammeh.md)
-_Context: President, The Gambia, Yahya Jammeh_
+_Context: Yahya Jammeh, President, The Gambia_
 
 ##### Canada
 ### [ Canada's annual seal hunt ends with lower than expected totals. ](/news/2009/06/18/canada-s-annual-seal-hunt-ends-with-lower-than-expected-totals.md)
@@ -29,15 +29,15 @@ _Context: Canada_
 
 ##### Romanians
 ### [ Another attack occurs on Romanians in Belfast, on this occasion against a family in the east of the city. ](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.md)
-_Context: Belfast, Romanians_
+_Context: Romanians, Belfast_
 
 ##### Chancellor
 ### [ Chancellor Alistair Darling states there is "growing evidence" that government measures have stabilised the British banking system and economy. ](/news/2009/06/18/chancellor-alistair-darling-states-there-is-growing-evidence-that-government-measures-have-stabilised-the-british-banking-system-and-econ.md)
-_Context: United Kingdom, Chancellor, Alistair Darling_
+_Context: Chancellor, Alistair Darling, United Kingdom_
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [ The expense claims of British Members of Parliament are published online. ](/news/2009/06/18/the-expense-claims-of-british-members-of-parliament-are-published-online.md)
-_Context: United Kingdom, MP, United Kingdom Parliamentary expenses scandal_
+_Context: United Kingdom Parliamentary expenses scandal, MP, United Kingdom_
 
 ##### High Court
 ### [ The High Court rules that Suzanne Breen, an editor of the "Sunday Tribune", need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it-wo.md)
@@ -45,7 +45,7 @@ A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand
 
 ##### Beledweyne
 ### [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md)
-_Context: Beledweyne, Omar Hashi Aden, Somalia_
+_Context: Somalia, Beledweyne, Omar Hashi Aden_
 
 ##### Al-Qaeda
 ### [ Several Al-Qaeda militants are killed by a Malian army offensive near the Algerian border. ](/news/2009/06/18/several-al-qaeda-militants-are-killed-by-a-malian-army-offensive-near-the-algerian-border.md)
@@ -65,7 +65,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 
 ##### South Africa
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: South Africa, first case, United States, swine flu_
+_Context: first case, South Africa, United States, swine flu_
 
 ## [Previous Day...](/news/2009/06/17/index.md)
 

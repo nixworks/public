@@ -5,11 +5,11 @@ Formats: [HTML](2005/11/30/index.html)  [JSON](2005/11/30/index.json)  [XML](200
 
 ##### Hurricane Epsilon
 ### [ The 2005 Atlantic hurricane season officially ended today, despite Tropical Storm Epsilon's remaining active in the Atlantic. ](/news/2005/11/30/the-2005-atlantic-hurricane-season-officially-ended-today-despite-tropical-storm-epsilon-s-remaining-active-in-the-atlantic.md)
-_Context: Hurricane Epsilon, 2005 Atlantic hurricane season_
+_Context: 2005 Atlantic hurricane season, Hurricane Epsilon_
 
 ##### Gabon
 ### [ Gabon: Africa's longest serving president (since 1967), Omar Bongo, wins presidential elections, securing a further seven years in office. ](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.md)
-_Context: presidential elections, Omar Bongo, Gabon_
+_Context: Omar Bongo, Gabon, presidential elections_
 
 ##### Military of the United States
 ### [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually-p.md)
@@ -23,9 +23,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ New policy document on American involvement in Iraq, "National Strategy for Victory in Iraq", is published by the White House. ](/news/2005/11/30/new-policy-document-on-american-involvement-in-iraq-national-strategy-for-victory-in-iraq-is-published-by-the-white-house.md)
 Victory in Iraq is a vital U.S. interest, says a new policy document, &quot;National Strategy for Victory in Iraq,&quot; published Wednesday by the White House.
 
-##### France
+##### French
 ### [ Surgeons in France carry out the first human face transplant. ](/news/2005/11/30/surgeons-in-france-carry-out-the-first-human-face-transplant.md)
-_Context: France, face transplant_
+_Context: face transplant, French_
 
 ##### Death toll
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
@@ -37,7 +37,7 @@ _Context: U.S. Securities and Exchange Commission, Giovanni Prezioso, General Co
 
 ##### Walt Disney Co.
 ### [ There are reports that Walt Disney Co., which is trying to sell its ABC Radio unit, has narrowed the field of potential buyers to three: Entercom Communications Corp., Cumulus Media Inc. and a private equity firm Kohlberg Kravis Roberts. ](/news/2005/11/30/there-are-reports-that-walt-disney-co-which-is-trying-to-sell-its-abc-radio-unit-has-narrowed-the-field-of-potential-buyers-to-three-en.md)
-_Context: Entercom Communications Corp., Kohlberg Kravis Roberts, Cumulus Media, Walt Disney Co., ABC Radio_
+_Context: Cumulus Media, Entercom Communications Corp., ABC Radio, Walt Disney Co., Kohlberg Kravis Roberts_
 
 ## [Previous Day...](/news/2005/11/29/index.md)
 

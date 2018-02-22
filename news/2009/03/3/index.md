@@ -17,23 +17,23 @@ _Context: Chinese People's Political Consultative Conference, 4th quarter of 200
 
 ##### Yukos
 ### [ Former Yukos businessman Mikhail Khodorkovsky again stands trial for alleged financial crimes. ](/news/2009/03/3/former-yukos-businessman-mikhail-khodorkovsky-again-stands-trial-for-alleged-financial-crimes.md)
-_Context: Yukos, trial, Mikhail Khodorkovsky, financial crimes_
+_Context: Yukos, financial crimes, Mikhail Khodorkovsky, trial_
 
 ##### Sri Lanka
 ### [ Seven Sri Lankan cricket players are wounded and six policemen killed in shootings near Gaddafi Stadium in Lahore, Pakistan. ](/news/2009/03/3/seven-sri-lankan-cricket-players-are-wounded-and-six-policemen-killed-in-shootings-near-gaddafi-stadium-in-lahore-pakistan.md)
-_Context: Pakistan, shootings, Lahore, Pakistani police, Gaddafi Stadium, Sri Lanka, cricket players_
+_Context: Pakistan, shootings, Gaddafi Stadium, Lahore, Sri Lanka, cricket players, Pakistani police_
 
 ##### United States
 ### [ United States President Barack Obama and United Kingdom Prime Minister Gordon Brown meet at the White House. ](/news/2009/03/3/united-states-president-barack-obama-and-united-kingdom-prime-minister-gordon-brown-meet-at-the-white-house.md)
-_Context: Prime Minister, White House, Barack Obama, Gordon Brown, U.S. President, United States, United Kingdom_
+_Context: United States, Barack Obama, U.S. President, Prime Minister, United Kingdom, Gordon Brown, White House_
 
 ##### Cologne
 ### [ Three people are believed trapped after Cologne's municipal archives building collapses. ](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.md)
-_Context: Cologne, collapses, municipal archives building_
+_Context: collapses, municipal archives building, Cologne_
 
 ##### German
 ### [ German frigate "Rheinland-Pfalz" foils a Somali pirate attack on a German container ship in the Gulf of Aden. ](/news/2009/03/3/german-frigate-rheinland-pfalz-foils-a-somali-pirate-attack-on-a-german-container-ship-in-the-gulf-of-aden.md)
-_Context: German, Gulf of Aden, container ship, Somali pirates, frigate, Somalia_
+_Context: German, container ship, frigate, Somali pirates, Somalia, Gulf of Aden_
 
 ## [Previous Day...](/news/2009/03/2/index.md)
 

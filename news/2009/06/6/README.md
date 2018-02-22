@@ -5,19 +5,19 @@ Formats: [HTML](2009/06/6/index.html)  [JSON](2009/06/6/index.json)  [XML](2009/
 
 ##### European Union
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Slovakia, European Parliament, Czech Republic, Italy, Latvia, Overseas departments and territories of France, election, Cypriot, France, European Union, Malta_
+_Context: Czech Republic, European Parliament, Italy, Malta, Latvia, French, election, Slovakia, European Union, Cypriot, Overseas departments and territories of France_
 
 ##### Conservative Party
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
-_Context: Conservative Party, Labour Party, county council, local elections, Liberal Democrats, United Kingdom_
+_Context: county council, United Kingdom, Conservative Party, local elections, Labour Party, Liberal Democrats_
 
 ##### Landslide
 ### [ Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. ](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.md)
-_Context: China, landslide, Chongqing_
+_Context: Chongqing, landslide, China_
 
 ##### Die
 ### [ Seventy-six people die at Harmony Gold's mine in Free State, South Africa. ](/news/2009/06/6/seventy-six-people-die-at-harmony-gold-s-mine-in-free-state-south-africa.md)
-_Context: South Africa, Harmony Gold, Free State, gold mine, die_
+_Context: Harmony Gold, Free State, South Africa, die, gold mine_
 
 ##### Fire
 ### [ A fire at a day-care center kills at least 40 people in Hermosillo, Mexico. ](/news/2009/06/6/a-fire-at-a-day-care-center-kills-at-least-40-people-in-hermosillo-mexico.md)
@@ -25,39 +25,39 @@ A fast-moving fire killed 31 children in a day care center in northern Mexico de
 
 ##### Deadly clashes
 ### [ Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. ](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.md)
-_Context: Peruvian Army, Amazon, deadly clashes, indigenous Amazon groups, Peru_
+_Context: Peru, Amazon, indigenous Amazon groups, deadly clashes, Peruvian Army_
 
 ##### Declares
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Transitional Federal Government, Islamists, declares, militant, Somalia_
+_Context: Somalia, militant, Islamists, declares, Transitional Federal Government_
 
 ##### Air France
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)
-_Context: Atlantic Ocean, crash of Air France Flight 447, Air France_
+_Context: Air France, crash of Air France Flight 447, Atlantic Ocean_
 
 ##### Philippines
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
-_Context: Philippines, communist insurgency, army, Mindanao, Moro Islamic Liberation Front_
+_Context: army, Mindanao, communist insurgency, Philippines, Moro Islamic Liberation Front_
 
 ##### West Berlin
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
-_Context: spy, police officer, Karl-Heinz Kurras, East Germany, West Berlin, Stasi_
+_Context: Karl-Heinz Kurras, East Germany, Stasi, police officer, spy, West Berlin_
 
 ##### Harvard University
 ### [ Harvard University discovers a molecular mechanism that regulates coagulation. ](/news/2009/06/6/harvard-university-discovers-a-molecular-mechanism-that-regulates-coagulation.md)
-_Context: coagulation, Harvard University, molecular mechanism_
+_Context: Harvard University, coagulation, molecular mechanism_
 
 ##### American Cemetery and Memorial
 ### [ The American Cemetery and Memorial honors World War II veterans who landed at Normandy, France, in 1944. ](/news/2009/06/6/the-american-cemetery-and-memorial-honors-world-war-ii-veterans-who-landed-at-normandy-france-in-1944.md)
-_Context: France, 1944, American Cemetery and Memorial, landed, veteran, World War II, Normandy_
+_Context: landed, French, 1944, World War II, American Cemetery and Memorial, veteran, Normandy_
 
 ##### International Labour Organization
 ### [ The International Labour Organization requests that Burma's government amend a clause in its Constitution that may justify forced labor. ](/news/2009/06/6/the-international-labour-organization-requests-that-burma-s-government-amend-a-clause-in-its-constitution-that-may-justify-forced-labor.md)
-_Context: International Labour Organization, Burma, government, amend, Constitution, clause, forced labor_
+_Context: International Labour Organization, government, clause, amend, Constitution, Burma, forced labor_
 
 ##### Palm, Inc.
 ### [ Palm, Inc. launches its new Palm Pre smartphone. ](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.md)
-_Context: smartphone, Palm Pre, Palm, Inc._
+_Context: smartphone, Palm, Inc., Palm Pre_
 
 ## [Previous Day...](/news/2009/06/5/index.md)
 

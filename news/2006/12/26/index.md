@@ -9,15 +9,15 @@ Gerald R. Ford, who picked up the pieces of Richard Nixon&#8217;s scandal-shatte
 
 ##### Almaz Atambayev
 ### [ Almaz Atambayev, Chairman of the Social Democratic Party of Kyrgyzstan, warns that if Prime Minister Felix Kulov's proposed amendments to the constitution are passed, giving greater power to the executive branch, Kyrgyzstan will descend into civil war. ](/news/2006/12/26/almaz-atambayev-chairman-of-the-social-democratic-party-of-kyrgyzstan-warns-that-if-prime-minister-felix-kulov-s-proposed-amendments-to-t.md)
-_Context: executive branch, Kyrgyzstan, civil war, Felix Kulov, Prime Minister, Social Democratic Party of Kyrgyzstan, constitution, Almaz Atambayev_
+_Context: executive branch, Almaz Atambayev, civil war, Social Democratic Party of Kyrgyzstan, Felix Kulov, constitution, Prime Minister, Kyrgyzstan_
 
 ##### Trial of Saddam Hussein
 ### [ Trial of Saddam Hussein: An appeal court in Baghdad has rejected former Iraqi leader Saddam Hussein's appeal against the death sentence handed down on November 5 for the 1982 killings of Shias in Dujail. By Iraqi law, the execution by hanging has to be carried out within 30 days after the announcement of the rejection. ](/news/2006/12/26/trial-of-saddam-hussein-an-appeal-court-in-baghdad-has-rejected-former-iraqi-leader-saddam-hussein-s-appeal-against-the-death-sentence-han.md)
-_Context: Baghdad, Shia, Saddam Hussein, Trial of Saddam Hussein, hanging, death sentence, Dujail, Iraq, November 5_
+_Context: Shia, Saddam Hussein, hanging, Dujail, Baghdad, death sentence, Iraq, November 5, Trial of Saddam Hussein_
 
 ##### An oil pipeline explosion
 ### [ Between 200 and 500 people have been killed in an oil pipeline explosion in Nigeria's commercial capital, Lagos, according to the Red Cross. The blast is believed to have been caused by thieves puncturing the pipeline in an attempt to siphon off fuel into a tanker. ](/news/2006/12/26/between-200-and-500-people-have-been-killed-in-an-oil-pipeline-explosion-in-nigeria-s-commercial-capital-lagos-according-to-the-red-cross.md)
-_Context: Red Cross, siphon, Nigeria, Lagos, an oil pipeline explosion_
+_Context: Red Cross, siphon, an oil pipeline explosion, Nigeria, Lagos_
 
 ##### War in Somalia
 ### [ War in Somalia: Somalia's Islamist militia are reported to have withdrawn from frontlines after a sustained assault by government forces backed by Ethiopian troops. ](/news/2006/12/26/war-in-somalia-somalia-s-islamist-militia-are-reported-to-have-withdrawn-from-frontlines-after-a-sustained-assault-by-government-forces-ba.md)
@@ -25,7 +25,7 @@ _Context: War in Somalia, Ethiopia, Islamist_
 
 ##### Taiwan
 ### [ Southwestern Taiwan is shaken by a 7.2 earthquake at 20:28 (GMT+8). A second aftershock, estimated at 7.1 and centered in Pingtung County, is felt 5 minutes later. According to the Pacific Tsunami Warning Centre, no Pacific-wide tsunami is expected. ](/news/2006/12/26/southwestern-taiwan-is-shaken-by-a-7-2-earthquake-at-20-28-gmt-8-a-second-aftershock-estimated-at-7-1-and-centered-in-pingtung-county.md)
-_Context: tsunami, Pacific, Taiwan, Pacific Tsunami Warning Centre, Pingtung County, earthquake near Taiwan_
+_Context: Pingtung County, Taiwan, Pacific, Pacific Tsunami Warning Centre, tsunami, earthquake near Taiwan_
 
 ## [Previous Day...](/news/2006/12/25/index.md)
 

@@ -7,7 +7,7 @@ Formats: [HTML](2011/01/8/index.html)  [JSON](2011/01/8/index.json)  [XML](2011/
 ### [Several people are killed in clashes with security forces in Southern Sudan, a day before the independence referendum. ](/news/2011/01/8/several-people-are-killed-in-clashes-with-security-forces-in-southern-sudan-a-day-before-the-independence-referendum.md)
 At least 7 people feared dead in unrest involving south Sudan security forces in the run-up to referendum on secession.
 
-##### France
+##### French
 ### [Two French hostages kidnapped in Niger on Friday are killed during a rescue attempt by the Nigerien military. ](/news/2011/01/8/two-french-hostages-kidnapped-in-niger-on-friday-are-killed-during-a-rescue-attempt-by-the-nigerien-military.md)
 Two&#x20;French&#x20;nationals&#x20;who&#x20;were&#x20;kidnapped&#x20;in&#x20;a&#x20;crowded&#x20;Niamey&#x20;restaurant&#x20;Friday&#x20;and&#x20;taken&#x20;into&#x20;the&#x20;desert&#x20;by&#x20;suspected&#x20;al&#x20;Qaeda-linked&#x20;terrorists,&#x20;have&#x20;been&#x20;found&#x20;dead&#x20;afte...
 
@@ -21,7 +21,7 @@ Congresswoman Gabrielle Giffords remains in critical condition, while at least s
 
 ##### Bilgi University
 ### [Three academics at Istanbul Bilgi University are fired due to a controversial dissertation project submitted by a student. ](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.md)
-_Context: Bilgi University, dissertation_
+_Context: dissertation, Bilgi University_
 
 ##### Demonstrations that toppled his regime
 ### [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010a2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md)
@@ -49,7 +49,7 @@ Shia leader urges peaceful resistance and a rejection of violence in his first a
 
 ##### China
 ### [Chinese prosecutors say more than 600 people were killed over a period of seven years in Yunnan due to official misconduct. ](/news/2011/01/8/chinese-prosecutors-say-more-than-600-people-were-killed-over-a-period-of-seven-years-in-yunnan-due-to-official-misconduct.md)
-_Context: China, Yunnan_
+_Context: Yunnan, China_
 
 ## [Previous Day...](/news/2011/01/7/index.md)
 

@@ -21,7 +21,7 @@ Suspected Boko Haram fighters are accused of killing at least 27 people in two n
 
 ##### South Korean Navy
 ### [The Republic of Korea Navy fires warning shots at 3 Korean People's Navy patrol boats after they violated South Korean waters. ](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.md)
-_Context: South Korea, navy, South Korean Navy_
+_Context: navy, South Korean Navy, South Korea_
 
 ##### Defence for Children International
 ### [Defence for Children International publishes a video showing two Palestinians allegedly killed by Israeli soldiers during a demonstration that became violent.](/news/2014/05/21/defence-for-children-international-publishes-a-video-showing-two-palestinians-allegedly-killed-by-israeli-soldiers-during-a-demonstration-th.md)
@@ -53,7 +53,7 @@ _Context: knife attack, Taipei Metro_
 
 ##### Egypt
 ### [An Egyptian court sentences 155 members of the Muslim Brotherhood to prison, including 54 life sentences. ](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.md)
-_Context: Egypt, Muslim Brotherhood_
+_Context: Muslim Brotherhood, Egypt_
 
 ##### President
 ### [Former President of Egypt Hosni Mubarak is sentenced to three years in jail for embezzlement. ](/news/2014/05/21/former-president-of-egypt-hosni-mubarak-is-sentenced-to-three-years-in-jail-for-embezzlement.md)
@@ -61,7 +61,7 @@ A court in Egypt sentences ousted President Hosni Mubarak to three years in pris
 
 ##### Tehran
 ### [Six Iranians that were arrested have been released in Tehran after releasing a fan video set to Pharrell Williams' "Happy", sparking outcries over the internet. ](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.md)
-_Context: Happy, Pharrell Williams, Tehran_
+_Context: Tehran, Happy, Pharrell Williams_
 
 ##### Poisoned alcohol
 ### [Ten men convicted for producing poisoned alcohol that killed more than 30 people in 2012 have been sentenced to prison by a court in the Czech Republic, including 2 life sentences. ](/news/2014/05/21/ten-men-convicted-for-producing-poisoned-alcohol-that-killed-more-than-30-people-in-2012-have-been-sentenced-to-prison-by-a-court-in-the-cze.md)

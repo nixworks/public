@@ -5,11 +5,11 @@ Formats: [HTML](2010/06/19/index.html)  [JSON](2010/06/19/index.json)  [XML](201
 
 ##### Burma
 ### [Burmese Democracy activist Aung San Suu Kyi turns 65, as international and domestic pressure for her release from house arrest intensify. Guards surrounding her home allow her to receive a birthday cake and a bouquet of flowers from political supporters. ](/news/2010/06/19/burmese-democracy-activist-aung-san-suu-kyi-turns-65-as-international-and-domestic-pressure-for-her-release-from-house-arrest-intensify-gu.md)
-_Context: Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, Burma_
 
 ##### San Bernardino
 ### [A gunman shoots 4 people then turns the gun on himself in San Bernardino, California. ](/news/2010/06/19/a-gunman-shoots-4-people-then-turns-the-gun-on-himself-in-san-bernardino-california.md)
-_Context: San Bernardino, California_
+_Context: California, San Bernardino_
 
 ##### Rwanda
 ### [A former Rwandan army chief in exile, Faustin Nyamwasa, is shot in South Africa. ](/news/2010/06/19/a-former-rwandan-army-chief-in-exile-faustin-nyamwasa-is-shot-in-south-africa.md)
@@ -33,15 +33,15 @@ _Context: Pakistan_
 
 ##### Al-Qaida
 ### [Four suspected al-Qaida gunmen blast their way into the intelligence headquarters. The attack on the heavily protected security complex kills 18 in the southern port city of Aden, Yemen. ](/news/2010/06/19/four-suspected-al-qaida-gunmen-blast-their-way-into-the-intelligence-headquarters-the-attack-on-the-heavily-protected-security-complex-kill.md)
-_Context: Aden, al-Qaida, Yemen_
+_Context: al-Qaida, Aden, Yemen_
 
 ##### Crown Princess Victoria
 ### [Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. ](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.md)
-_Context: Daniel Westling, Crown Princess Victoria, marries_
+_Context: marries, Crown Princess Victoria, Daniel Westling_
 
 ##### Turkish Army
 ### [10 Turkish soldiers are killed during clashes with Kurdish rebels on the border of Turkey and Iraq, in Semdinli township of Hakkari province and in the Gediktepe-Tekeli region. ](/news/2010/06/19/10-turkish-soldiers-are-killed-during-clashes-with-kurdish-rebels-on-the-border-of-turkey-and-iraq-in-aemdinli-township-of-hakkac-ri-provin.md)
-_Context: Iraq, Turkey, Hakkari province, Kurdish, Gediktepe-Tekeli, Semdinli, Turkish Army_
+_Context: Iraq, Turkish Army, Kurdish, Hakkari province, Semdinli, Turkey, Gediktepe-Tekeli_
 
 ##### Istanbul
 ### [Roadside bomb blast kills 4, wounds 12 in bus carrying soldiers in Istanbul. ](/news/2010/06/19/roadside-bomb-blast-kills-4-wounds-12-in-bus-carrying-soldiers-in-istanbul.md)
@@ -53,7 +53,7 @@ Ten Turkish soldiers have been killed in an attack by Kurdish rebels near the Ir
 
 ##### Parliamentary elections
 ### [Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-elected-to-serve-a-3-year-term.md)
-_Context: Parliamentary elections, Parliament_
+_Context: Parliament, Parliamentary elections_
 
 ##### Floods in China
 ### [Flooding in South China kills at least 88 people, and forces nearly 750,000 people to leave their homes. ](/news/2010/06/19/flooding-in-south-china-kills-at-least-88-people-and-forces-nearly-750-000-people-to-leave-their-homes.md)

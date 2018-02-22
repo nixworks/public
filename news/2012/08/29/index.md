@@ -5,11 +5,11 @@ Formats: [HTML](2012/08/29/index.html)  [JSON](2012/08/29/index.json)  [XML](201
 
 ##### Russia
 ### [Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
-_Context: slaughters, Russia, Arab League, United Nations_
+_Context: slaughters, United Nations, Russia, Arab League_
 
 ##### Soldiers
 ### [Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-uniform-in-oruzgan-provinc.md)
-_Context: Oruzgan, Afghan Army, soldiers_
+_Context: soldiers, Oruzgan, Afghan Army_
 
 ##### Taliban
 ### [Anonymous officials say the Taliban has attacked a Pakistan Army post in South Waziristan killing nine soldiers. Pakistani Taliban say they killed twelve. ](/news/2012/08/29/anonymous-officials-say-the-taliban-has-attacked-a-pakistan-army-post-in-south-waziristan-killing-nine-soldiers-pakistani-taliban-say-they.md)
@@ -17,19 +17,19 @@ Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;
 
 #####  Georgian
 ### [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md)
-_Context:  Georgian, Russia, North Caucasus, Dagestan_
+_Context: Dagestan, Russia,  Georgian, North Caucasus_
 
 ##### Operation Eagle
 ### [With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. ](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.md)
-_Context: attack, Operation Eagle, Sinai, Egyptian Army_
+_Context: attack, Egyptian Army, Operation Eagle, Sinai_
 
 ##### Gazprom
 ### [Gazprom completes building the second leg of the Nord Stream natural gas pipeline connecting Russia, Germany and neighbouring countries. ](/news/2012/08/29/gazprom-completes-building-the-second-leg-of-the-nord-stream-natural-gas-pipeline-connecting-russia-germany-and-neighbouring-countries.md)
-_Context: German, Gazprom, Russia, Nord Stream_
+_Context: Nord Stream, Gazprom, German, Russia_
 
 ##### Serious Fraud Office
 ### [The UK's Serious Fraud Office launches an investigation into payments between Barclays and Qatar Holding LLC after Barclays sought investment from the latter during the financial crisis in 2008. ](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.md)
-_Context: financial crisis in 2008, Serious Fraud Office, Barclays, Qatar Holding LLC_
+_Context: Qatar Holding LLC, Serious Fraud Office, financial crisis in 2008, Barclays_
 
 ##### Hurricane Isaac
 ### [Hurricane Isaac arrives in the US city of New Orleans on the seventh anniversary of Hurricane Katrina hitting the city. Damage is limited. ](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.md)
@@ -37,7 +37,7 @@ Hurricane Isaac dumped heavy rains on the U.S. Gulf Coast and caused widespread 
 
 ##### UN Secretary General
 ### [UN Secretary General Ban Ki-Moon expresses "serious concerns on the human rights abuses and violations" in Iran at the meeting of non-aligned nations being held in Teheran. ](/news/2012/08/29/un-secretary-general-ban-ki-moon-expresses-serious-concerns-on-the-human-rights-abuses-and-violations-in-iran-at-the-meeting-of-non-aligne.md)
-_Context: 16th Summit of the Non-Aligned Movement, UN Secretary General, Iranian human rights, Ban Ki-Moon_
+_Context: UN Secretary General, Ban Ki-Moon, Iranian human rights, 16th Summit of the Non-Aligned Movement_
 
 ##### Japan
 ### [Japan and North Korea hold their first talks in four years in Beijing. ](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.md)
@@ -53,7 +53,7 @@ _Context: Tomas Yarrington, Tamaulipas_
 
 ##### Indian Supreme Court
 ### [The Indian Supreme Court upholds the death sentence of Pakistani Mohammad Ajmal Amir Qasab, the perpetrator of the 2008 Mumbai attacks. ](/news/2012/08/29/the-indian-supreme-court-upholds-the-death-sentence-of-pakistani-mohammad-ajmal-amir-qasab-the-perpetrator-of-the-2008-mumbai-attacks.md)
-_Context: Mohammad Ajmal Amir Qasab, Indian Supreme Court, 2008 Mumbai attacks_
+_Context: Indian Supreme Court, 2008 Mumbai attacks, Mohammad Ajmal Amir Qasab_
 
 ##### Gujarat
 ### [A special Gujarat state court charges 32 people with murder, including Maya Kodnani, later a minister in the Narendra Modi government, for their parts in the riots that led to the killing of 95 people in the Patia neighborhood of Naroda, India. ](/news/2012/08/29/a-special-gujarat-state-court-charges-32-people-with-murder-including-maya-kodnani-later-a-minister-in-the-narendra-modi-government-for-t.md)

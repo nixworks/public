@@ -13,15 +13,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Typhoon Talim
 ### [ Typhoon Talim brings torrential rains and landslides in east People's Republic of China's Anhui Province, claiming 53 lives and leaving 12 missing. ](/news/2005/09/4/typhoon-talim-brings-torrential-rains-and-landslides-in-east-people-s-republic-of-china-s-anhui-province-claiming-53-lives-and-leaving-12.md)
-_Context: China, Typhoon Talim, Anhui_
+_Context: Typhoon Talim, China, Anhui_
 
 ##### Wistar Institute
 ### [ Wistar Institute scientists say they will present details of research on their creation of "miracle mice" next week at a Cambridge University conference on Regeneration. The experimental animals are able to regenerate amputated limbs or body organs.](/news/2005/09/4/wistar-institute-scientists-say-they-will-present-details-of-research-on-their-creation-of-miracle-mice-next-week-at-a-cambridge-universi.md)
-_Context: regenerate, Wistar Institute_
+_Context: Wistar Institute, regenerate_
 
 ##### Bregenz
 ### [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md)
-_Context: Bregenz, Roy Lichtenstein, German, Austria, jackknife_
+_Context: Roy Lichtenstein, Bregenz, Austria, German, jackknife_
 
 ## [Previous Day...](/news/2005/09/3/index.md)
 

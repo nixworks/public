@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/4/index.html)  [JSON](2015/06/4/index.json)  [XML](2015/
 
 ##### Israel
 ### [Several rockets were fired from Gaza at Israel and exploded near the cities of Ashdod, Netivot and Ashkelon causing no casualties. The IDF retaliated with airstrikes against empty Hamas training camps in Gaza. ](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.md)
-_Context: Israel, Ashdod, Israeli Army, Hamas, Ashkelon, Gaza Strip, Netivot_
+_Context: Gaza Strip, Ashkelon, Netivot, Hamas, Israel, Israeli Army, Ashdod_
 
 ##### Naxalite
 ### [Naxalite Insurgents kill at least 20 Indian Army soldiers and injure 12 in an attack on a convoy in the state of Manipur. ](/news/2015/06/4/naxalite-insurgents-kill-at-least-20-indian-army-soldiers-and-injure-12-in-an-attack-on-a-convoy-in-the-state-of-manipur.md)
@@ -29,15 +29,15 @@ At least 90 people killed after explosion in capital Accra, blamed on floodwater
 
 ##### Jesse Selber
 ### [Surgeons, led by Dr. Jesse Selber, working with the M.D. Anderson Cancer Center, in a 15-hour, 12-doctor operation, perform the world's first partial-skull and scalp transplant, at Houston Methodist Hospital, on 55-year-old Jim Boysten, a software developer from Austin, Texas suffering from a large head wound from cancer treatment; immediately afterward, he was finally able to receive a new kidney and pancreas, which replaced the previous transplants that were failing. ](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.md)
-_Context: kidney, Jesse Selber, pancreas, M.D. Anderson Cancer Center, Austin, Texas, Jim Boysten, Houston Methodist San Jacinto Hospital_
+_Context: Austin, Texas, Jim Boysten, Jesse Selber, kidney, pancreas, Houston Methodist San Jacinto Hospital, M.D. Anderson Cancer Center_
 
 ##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 ### [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-du.md)
-_Context: Middle Eastern Respiratory Syndrome, 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea_
+_Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea, Middle Eastern Respiratory Syndrome_
 
 ##### Food and Drug Administration
 ### [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18a6-to-improve-a-woman-s-libido.md)
-_Context: Food and Drug Administration, flibanserin_
+_Context: flibanserin, Food and Drug Administration_
 
 ##### Associated Press
 ### [Associated Press reports that there has been a massive hack from the American Office of Personnel Management and US Department of the Interior with the "Washington Post" claiming that Chinese hackers were responsible. The records of at least four million US Government workers are believed to have been compromised. ](/news/2015/06/4/associated-press-reports-that-there-has-been-a-massive-hack-from-the-american-office-of-personnel-management-and-us-department-of-the-interi.md)
@@ -45,7 +45,7 @@ Up to four million US government personnel records compromised by an alleged Chi
 
 ##### 2016 U.S. election
 ### [Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-party.md)
-_Context: Governor of Texas, Rick Perry, Republican, 2016 U.S. election_
+_Context: Republican, Governor of Texas, Rick Perry, 2016 U.S. election_
 
 ##### USA Freedom Act
 ### [ President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the-act.md)

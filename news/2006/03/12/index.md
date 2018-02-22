@@ -5,11 +5,11 @@ Formats: [HTML](2006/03/12/index.html)  [JSON](2006/03/12/index.json)  [XML](200
 
 ##### Algerian "national reconciliation"
 ### [ Algerian "national reconciliation". Abdelhak Layada, one of the founder of the Armed Islamic Group (GIA), is released from prison due to the February 28, 2006, national reconciliation charter decree of application ](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.md)
-_Context: Abdelhak Layada, Armed Islamic Group, Algerian "national reconciliation"_
+_Context: Algerian "national reconciliation", Armed Islamic Group, Abdelhak Layada_
 
 ##### Venezuela
 ### [ Venezuela introduces its new national flag with eight, instead of seven, stars and a slightly altered coat of arms. ](/news/2006/03/12/venezuela-introduces-its-new-national-flag-with-eight-instead-of-seven-stars-and-a-slightly-altered-coat-of-arms.md)
-_Context: Venezuela, coat of arms, national flag_
+_Context: national flag, Venezuela, coat of arms_
 
 ##### Slobodan Milosevic
 ### [ Reports claim that a post-mortem examination has found that former Yugoslav President Slobodan Milosevic died from heart failure. ](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.md)
@@ -17,11 +17,11 @@ _Context: Slobodan Milosevic_
 
 ##### Sadr City
 ### [ Six car bombs explode in Sadr City, a neighborhood in Baghdad, killing at least forty-six people. ](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.md)
-_Context: Baghdad, Sadr City_
+_Context: Sadr City, Baghdad_
 
 ##### Malta
 ### [ In Malta, the Malta Labour Party makes a big victory in the Local Council Elections ](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.md)
-_Context: Local Council Elections, Malta Labour Party, Malta_
+_Context: Malta, Local Council Elections, Malta Labour Party_
 
 ##### Russ Feingold
 ### [ U.S. Senator Russ Feingold announces that he will introduce a motion of censure against President George W. Bush. ](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.md)

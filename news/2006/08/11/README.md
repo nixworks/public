@@ -13,7 +13,7 @@ Investigators are tracing the money trail back to Pakistan, where one Briton who
 
 ##### Typhoon Saomai
 ### [ Typhoon Saomai kills 111 people and leaves 4 missing in eastern China, according to the Chinese government. ](/news/2006/08/11/typhoon-saomai-kills-111-people-and-leaves-4-missing-in-eastern-china-according-to-the-chinese-government.md)
-_Context: Typhoon Saomai, government, Chinese_
+_Context: Typhoon Saomai, Chinese, government_
 
 ## [Previous Day...](/news/2006/08/10/index.md)
 

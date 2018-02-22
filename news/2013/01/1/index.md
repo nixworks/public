@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/1/index.html)  [JSON](2013/01/1/index.json)  [XML](2013/
 
 ##### Aleppo International Airport
 ### [Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it-has-been-temporaril.md)
-_Context: Syria, Aleppo International Airport, battle of Aleppo_
+_Context: Aleppo International Airport, battle of Aleppo, Syria_
 
 ##### Ambush
 ### [Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jobs-at-a-community-center-in-k.md)
@@ -17,15 +17,15 @@ The Colombian Air Force says it has killed 13 Farc rebels in an attack on a camp
 
 ##### Nigeria
 ### [Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle-in-maiduguri.md)
-_Context: Maiduguri, Boko Haram, Nigeria, Islamist_
+_Context: Nigeria, Maiduguri, Boko Haram, Islamist_
 
 ##### American
 ### [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md)
-_Context: Patti Page, 1950s, American, pop, Tennessee Waltz, (How Much Is That) Doggie In The Window, Encinitas, California_
+_Context: American, Encinitas, California, pop, (How Much Is That) Doggie In The Window, 1950s, Tennessee Waltz, Patti Page_
 
 ##### 2013 Houphouet-Boigny stampede
 ### [2013 Houphouet-Boigny stampede: At least 60 people are killed and more than 200 injured in a stampede during a New Year's fireworks celebration near the Stade Felix Houphouet-Boigny in Abidjan, Ivory Coast. ](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.md)
-_Context: New Year, fireworks, Stade Felix Houphouet-Boigny, Ivory Coast, 2013 Houphouet-Boigny stampede, stampede, Abidjan_
+_Context: Ivory Coast, Abidjan, Stade Felix Houphouet-Boigny, fireworks, 2013 Houphouet-Boigny stampede, stampede, New Year_
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell's drilling rig "Kulluk" drifts aground near Sitkalidak Island, Alaska, after breaking loose from the anchor handling tug "Aiviq". ](/news/2013/01/1/royal-dutch-shell-s-drilling-rig-kulluk-drifts-aground-near-sitkalidak-island-alaska-after-breaking-loose-from-the-anchor-handling-tug.md)
@@ -37,7 +37,7 @@ A minibus and a coach packed with pilgrims collided on Tuesday in western Senega
 
 ##### Luanda
 ### [Ten people are killed and 120 injured in a stampede in Luanda, Angola, as they tried to enter an overcrowded Estadio da Cidadela for a New Year's Eve vigil. ](/news/2013/01/1/ten-people-are-killed-and-120-injured-in-a-stampede-in-luanda-angola-as-they-tried-to-enter-an-overcrowded-esta-dio-da-cidadela-for-a-new.md)
-_Context: vigil, Estadio da Cidadela, Angola, Luanda, New Year's Eve_
+_Context: New Year's Eve, vigil, Angola, Estadio da Cidadela, Luanda_
 
 ##### Argentina
 ### [Argentina, Australia, Luxembourg, Rwanda and South Korea join the UN Security Council. ](/news/2013/01/1/argentina-australia-luxembourg-rwanda-and-south-korea-join-the-un-security-council.md)
@@ -65,11 +65,11 @@ The US Senate approves a deal to avert a combination of tax hikes and spending c
 
 ##### North Korea
 ### [North Korea's leader Kim Jong-un makes a rare New Year broadcast, calling for an improved economy and a reunified Korea. ](/news/2013/01/1/north-korea-s-leader-kim-jong-un-makes-a-rare-new-year-broadcast-calling-for-an-improved-economy-and-a-reunified-korea.md)
-_Context: North Korea, Kim Jong-un, Korea, reunified, New Year_
+_Context: North Korea, reunified, New Year, Korea, Kim Jong-un_
 
 ##### Duke of Cambridge
 ### [Prince William, Duke of Cambridge, as part of his military duties, pilots a Royal Air Force (RAF) Sea King helicopter which was sent out in the early morning hours to an as of yet unsuccessful search for a Blackpool, England man swept out to sea there. ](/news/2013/01/1/prince-william-duke-of-cambridge-as-part-of-his-military-duties-pilots-a-royal-air-force-raf-sea-king-helicopter-which-was-sent-out-in.md)
-_Context: Blackpool, England, Royal Air Force, Duke of Cambridge, Sea King helicopter_
+_Context: Duke of Cambridge, Blackpool, England, Royal Air Force, Sea King helicopter_
 
 ## [Previous Day...](/news/2012/12/31/index.md)
 

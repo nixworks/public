@@ -13,11 +13,11 @@ Syrian rebels shoot down an army helicopter as the UN demands answers over the m
 
 ##### ISAF
 ### [ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md)
-_Context: ISAF, NATO, Afghan National Army_
+_Context: Afghan National Army, NATO, ISAF_
 
 ##### Aboud Rogo Mohammed
 ### [Kenyan Islamic cleric Aboud Rogo Mohammed is shot dead by unnamed organised assailants in Mombasa, triggering protests. ](/news/2012/08/27/kenyan-islamic-cleric-aboud-rogo-mohammed-is-shot-dead-by-unnamed-organised-assailants-in-mombasa-triggering-protests.md)
-_Context: Mombasa, Aboud Rogo Mohammed_
+_Context: Aboud Rogo Mohammed, Mombasa_
 
 ##### Denis O'Brien
 ### [Leslie Buckley, a close associate of Denis O'Brien, is elected chairman of Independent News & Media. ](/news/2012/08/27/leslie-buckley-a-close-associate-of-denis-o-brien-is-elected-chairman-of-independent-news-media.md)
@@ -33,7 +33,7 @@ _Context: Iceland_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. ](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.md)
-_Context: Prime Minister, Supreme Court, president, Asif Ali Zardari, Raja Pervez Ashraf_
+_Context: Raja Pervez Ashraf, president, Prime Minister, Supreme Court, Asif Ali Zardari_
 
 ##### Thein Sein
 ### [The Burmese President Thein Sein changes nine ministers in the cabinet, in an apparent bid to demonstrate that promised reforms are firmly on course. ](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.md)
@@ -41,7 +41,7 @@ The Burmese President Thein Sein announces a cabinet reshuffle, replacing the ha
 
 ##### Leuven
 ### [The Leuven municipal council holds a minute of silence for a deceased deminer. ](/news/2012/08/27/the-leuven-municipal-council-holds-a-minute-of-silence-for-a-deceased-deminer.md)
-_Context: deminer, Leuven_
+_Context: Leuven, deminer_
 
 ## [Previous Day...](/news/2012/08/26/index.md)
 

@@ -53,7 +53,7 @@ _Context: Dick Cheney, United States Vice President_
 
 ##### Thomas Mulcair
 ### [Thomas Mulcair wins the election to replace Jack Layton as leader of Canada's New Democratic Party. He becomes the Leader of the Official Opposition. ](/news/2012/03/24/thomas-mulcair-wins-the-election-to-replace-jack-layton-as-leader-of-canada-s-new-democratic-party-he-becomes-the-leader-of-the-official-op.md)
-_Context: New Democratic Party, Thomas Mulcair, election, Jack Layton, Leader of the Official Opposition_
+_Context: election, Jack Layton, Leader of the Official Opposition, Thomas Mulcair, New Democratic Party_
 
 ## [Previous Day...](/news/2012/03/23/index.md)
 

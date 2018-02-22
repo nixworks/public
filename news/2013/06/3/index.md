@@ -13,7 +13,7 @@ Three protesters in Bahrain have been jailed from five to 15 years on charges of
 
 ##### Suicide bombing
 ### [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
-_Context: suicide bombing, Afghan_
+_Context: Afghan, suicide bombing_
 
 ##### Jaffa
 ### [An unmarked mass grave containing around 200 bodies is found in the Israeli town of Jaffa. ](/news/2013/06/3/an-unmarked-mass-grave-containing-around-200-bodies-is-found-in-the-israeli-town-of-jaffa.md)
@@ -33,11 +33,11 @@ _Context: International Air Transport Association_
 
 ##### Vodafone Group Plc
 ### [Telecommunications company Vodafone is fined Rs. 1,263 crores for under reporting its income from 2007-11. ](/news/2013/06/3/telecommunications-company-vodafone-is-fined-rs-1-263-crores-for-under-reporting-its-income-from-2007-11.md)
-_Context: Vodafone Group Plc, rupee, crore_
+_Context: crore, rupee, Vodafone Group Plc_
 
 ##### Jilin Baoyuanfeng Poultry Plant fire
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: Chinese, Jilin Province, Jilin Baoyuanfeng Poultry Plant fire_
+_Context: Jilin Baoyuanfeng Poultry Plant fire, Chinese, Jilin Province_
 
 ##### 
 ### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
@@ -45,7 +45,7 @@ State of emergency declared in several regions as heavy flooding kills eight and
 
 ##### Cebu Pacific
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Davao City, Cebu Pacific, Philippines, Manila_
+_Context: Philippines, Cebu Pacific, Manila, Davao City_
 
 ##### Bill Clinton
 ### [Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. ](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.md)
@@ -57,11 +57,11 @@ _Context: Ali Asghar Soltanieh, IAEA_
 
 ##### Park Geun-Hye
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Park Geun-Hye, asylum seeker, Laos, South Korean President, North Korea_
+_Context: Park Geun-Hye, North Korea, Laos, South Korean President, asylum seeker_
 
 ##### Tokyo International Conference on African Development
 ### [Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. ](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.md)
-_Context: Michael Sata, Tokyo International Conference on African Development, Yokohama_
+_Context: Tokyo International Conference on African Development, Yokohama, Michael Sata_
 
 ##### Arms Trade Treaty
 ### [Over 65 countries sign the Arms Trade Treaty. ](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.md)
@@ -93,7 +93,7 @@ In a carnival of colour and festive music, three and a half million revellers ce
 
 ##### ICC
 ### [The International Criminal Court delays the trial of Kenyan Deputy President William Ruto for "crimes against humanity" until September. ](/news/2013/06/3/the-international-criminal-court-delays-the-trial-of-kenyan-deputy-president-william-ruto-for-crimes-against-humanity-until-september.md)
-_Context: ICC, William Ruto_
+_Context: William Ruto, ICC_
 
 ##### Uttar Pradesh
 ### [Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. ](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.md)
@@ -105,7 +105,7 @@ Highly respected technology consultant and evangelist Atul Chitnis, hailed by ma
 
 ##### Triceratops
 ### [A set of three unusually well preserved triceratops specimens is unearthed in the U.S. state of Wyoming. ](/news/2013/06/3/a-set-of-three-unusually-well-preserved-triceratops-specimens-is-unearthed-in-the-u-s-state-of-wyoming.md)
-_Context: triceratops, Wyoming, U.S. state_
+_Context: U.S. state, Wyoming, triceratops_
 
 ## [Previous Day...](/news/2013/06/2/index.md)
 

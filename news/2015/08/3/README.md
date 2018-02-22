@@ -37,7 +37,7 @@ Eleven people died after a 50-year-old building collapsed in Thane late on Monda
 
 ##### 2012 Aurora shooting
 ### [In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-still-eligible-for-the-d.md)
-_Context: 2012 Aurora shooting, Capital punishment in the United States, James Eagan Holmes_
+_Context: Capital punishment in the United States, James Eagan Holmes, 2012 Aurora shooting_
 
 ## [Previous Day...](/news/2015/08/2/index.md)
 

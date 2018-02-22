@@ -9,7 +9,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### U.S. Representative
 ### [ U.S. Representative Ralph Hall from Texas files for reelection and switches parties from Democrat to Republican. ](/news/2004/01/2/u-s-representative-ralph-hall-from-texas-files-for-reelection-and-switches-parties-from-democrat-to-republican.md)
-_Context: Ralph Hall, Democrat, Texas, U.S. Representative, Republican_
+_Context: Texas, Democrat, Ralph Hall, U.S. Representative, Republican_
 
 ##### Stardust spacecraft
 ### [ It appears that Stardust has successfully flown past Comet Wild 2 collecting samples that it will return to Earth in two years time. This is the first sample return mission to a comet and the first time that samples have returned to Earth from any celestial body since 1974. The spacecraft also took detailed images of the comet's icy nucleus. ](/news/2004/01/2/it-appears-that-stardust-has-successfully-flown-past-comet-wild-2-collecting-samples-that-it-will-return-to-earth-in-two-years-time-this-i.md)

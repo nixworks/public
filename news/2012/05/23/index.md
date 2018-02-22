@@ -13,11 +13,11 @@ _Context: United States, Iranian Naval, United Arab Emirates_
 
 ##### Georgia
 ### [Georgia-native Phillip Phillips is crowned the eleventh "American Idol". Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancestry.md)
-_Context: Phillip Phillips, eleventh, American Idol, Georgia, Jessica Sanchez_
+_Context: American Idol, Jessica Sanchez, Georgia, eleventh, Phillip Phillips_
 
 ##### Adam Lambert
 ### [Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album "Trespassing". ](/news/2012/05/23/adam-lambert-became-the-first-openly-gay-artist-to-debuted-at-1-on-the-billboard-200-album-charts-with-his-album-trespassing.md)
-_Context: Billboard 200, Trespassing, Adam Lambert, openly gay_
+_Context: Billboard 200, Trespassing, openly gay, Adam Lambert_
 
 ##### Crude oil
 ### [The price of crude oil falls to a seven-month low due to high supply and constructive talks regarding Iran's nuclear program. ](/news/2012/05/23/the-price-of-crude-oil-falls-to-a-seven-month-low-due-to-high-supply-and-constructive-talks-regarding-iran-s-nuclear-program.md)
@@ -29,11 +29,11 @@ Hewlett-Packard said it will cut 27,000 jobs across the globe to save on costs a
 
 ##### Dr. Shakil Afridi
 ### [Shakil Afridi, a Pakistani physician who helped the CIA to track down Osama bin Laden by collecting DNA samples from residents of bin Laden's compound, is sentenced to 33 years' imprisonment for treason. ](/news/2012/05/23/shakil-afridi-a-pakistani-physician-who-helped-the-cia-to-track-down-osama-bin-laden-by-collecting-dna-samples-from-residents-of-bin-laden.md)
-_Context: treason, bin Laden's compound, CIA, Pakistan, Dr. Shakil Afridi, DNA, Osama bin Laden_
+_Context: CIA, bin Laden's compound, treason, Dr. Shakil Afridi, Pakistan, DNA, Osama bin Laden_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a presidential election, 15 months after former president Hosni Mubarak was ousted in a revolution. ](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.md)
-_Context: Hosni Mubarak, presidential election, 2011 Egyptian revolution, Egypt_
+_Context: presidential election, 2011 Egyptian revolution, Hosni Mubarak, Egypt_
 
 ## [Previous Day...](/news/2012/05/22/index.md)
 

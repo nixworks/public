@@ -5,19 +5,19 @@ Formats: [HTML](2004/05/2/index.html)  [JSON](2004/05/2/index.json)  [XML](2004/
 
 ##### Investment bank
 ### [ Investment banker Frank Quattrone of Credit Suisse First Boston is convicted of obstructing justice and witness tampering. Quattrone played a significant role in the Initial Public Offerings of Amazon, Netscape, Intuit and other Internet companies. ](/news/2004/05/2/investment-banker-frank-quattrone-of-credit-suisse-first-boston-is-convicted-of-obstructing-justice-and-witness-tampering-quattrone-played.md)
-_Context: Credit Suisse First Boston, Netscape, Investment bank, Intuit, Amazon.com, Frank Quattrone, IPO, Internet_
+_Context: Amazon.com, Netscape, Internet, Intuit, IPO, Frank Quattrone, Credit Suisse First Boston, Investment bank_
 
 ##### Polish Prime Minister
 ### [ Polish Prime Minister Leszek Miller resigns one day after Poland becomes a member of the European Union. His government was the most unpopular of the nine that have ruled Poland since the fall of the communist regime in 1989. Miller's Left Democratic Alliance party, plagued by a series of corruption scandals (including the Rywin affair), hit a record low in popularity rankings in the last months which led some of its members to break away and form a new party, the Social Democracy of Poland. President Aleksander Kwasniewski announces he will designate Marek Belka, a liberal economist, as new prime minister. ](/news/2004/05/2/polish-prime-minister-leszek-miller-resigns-one-day-after-poland-becomes-a-member-of-the-european-union-his-government-was-the-most-unpopu.md)
-_Context: joining the European Union, Left Democratic Alliance, Polish Prime Minister, Leszek Miller, Social Democracy of Poland, European Union, Aleksander Kwasniewski, Marek Belka, Rywin_
+_Context: European Union, joining the European Union, Left Democratic Alliance, Leszek Miller, Polish Prime Minister, Marek Belka, Social Democracy of Poland, Aleksander Kwasniewski, Rywin_
 
 ##### Israel
 ### [ Israel's Likud Party votes in a referendum not to pull out of the Gaza Strip unilaterally. The referendum's defeat is seen as a major blow to the Sharon government. Sharon subsequently says that he will not resign and may modify the plan. ](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.md)
-_Context: Ariel Sharon, Likud Party, Gaza Strip, Israel_
+_Context: Ariel Sharon, Israel, Gaza Strip, Likud Party_
 
 ##### Martn Torrijos
 ### [ Martn Torrijos wins Panama's presidential election. ](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.md)
-_Context: Martn Torrijos, presidential election, Panama_
+_Context: Panama, presidential election, Martn Torrijos_
 
 ##### Iraqi insurgency
 ### [ U.S. civilian contractor Thomas Hamill, who was taken hostage by Iraqi insurgents on April 9, is found by U.S. forces south of Tikrit after escaping his captors. ](/news/2004/05/2/u-s-civilian-contractor-thomas-hamill-who-was-taken-hostage-by-iraqi-insurgents-on-april-9-is-found-by-u-s-forces-south-of-tikrit-after.md)

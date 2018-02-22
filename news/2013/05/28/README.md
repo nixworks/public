@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/28/index.html)  [JSON](2013/05/28/index.json)  [XML](201
 
 ##### Senator
 ### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
-_Context: Senator, Syrian civil war, Syria, John McCain, United States of America_
+_Context: John McCain, Syria, United States of America, Senator, Syrian civil war_
 
 ##### 
 ### [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
@@ -13,17 +13,17 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 
 ##### Sweden
 ### [Sweden's largest music festival, the Peace & Love in Borlnge, files for bankruptcy. ](/news/2013/05/28/sweden-s-largest-music-festival-the-peace-love-in-borlange-files-for-bankruptcy.md)
-_Context: Sweden, Peace & Love, Borlnge_
+_Context: Peace & Love, Sweden, Borlnge_
 
 ##### Chief federal prosecutors
 ### [The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. ](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-california-announces-that-scott-london-former-senior-partner-with-kpmg-has-agreed-to-plead-guil.md)
-_Context: California, chief federal prosecutors, KPMG, Los Angeles, office, insider trading_
+_Context: California, Los Angeles, insider trading, KPMG, chief federal prosecutors, office_
 
 ##### Rajang River
 ### [A boat carrying 100 passengers capsizes in the Rajang River in Malaysia's Sarawak state with over 20 passengers missing. ](/news/2013/05/28/a-boat-carrying-100-passengers-capsizes-in-the-rajang-river-in-malaysia-s-sarawak-state-with-over-20-passengers-missing.md)
 Twenty-one people were missing after an overloaded boat carrying an estimated 100 passengers capsized Tuesday in a remote Malaysian jungle river, police and a local official said.
 
-##### France
+##### French
 ### [France reports its first death from the Middle East respiratory syndrome coronavirus as Saudi Arabia advises of five new cases. ](/news/2013/05/28/france-reports-its-first-death-from-the-middle-east-respiratory-syndrome-coronavirus-as-saudi-arabia-advises-of-five-new-cases.md)
 France reported its first death from the new SARS-like coronavirus on Tuesday and Saudi Arabia, where the virus first emerged last year, said there were five new cases.
 

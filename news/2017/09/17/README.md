@@ -17,11 +17,11 @@ A strong storm killed eight people and injured at least 67 in western Romania on
 
 ##### Atlantic hurricanes
 ### [Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead. ](/news/2017/09/17/hurricane-maria-has-been-upgraded-from-a-tropical-storm-to-a-category-1-hurricane-hurricane-watches-and-warnings-have-been-issued-in-parts.md)
-_Context: Hurricane Maria, Atlantic hurricanes, Hurricane Irma_
+_Context: Hurricane Maria, Hurricane Irma, Atlantic hurricanes_
 
 ##### Crime in France
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md)
-_Context: British Airways, Crime in France, Paris Charles de Gaulle Airport_
+_Context: Crime in France, Paris Charles de Gaulle Airport, British Airways_
 
 ##### Pakistan by-election
 ### [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md)

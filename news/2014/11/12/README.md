@@ -13,7 +13,7 @@ Russia has said it will conduct regular air patrols to the Caribbean and the Gul
 
 ##### Yemen
 ### [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md)
-_Context: Ansar al-Sharia, Houthi militants, Sunni, central Yemen, Houthi, Yemen_
+_Context: Yemen, Ansar al-Sharia, Houthi, central Yemen, Sunni, Houthi militants_
 
 ##### Azerbaijan
 ### [Azerbaijan shoots down an Armenian Mil Mi-24 military helicopter. ](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.md)
@@ -29,7 +29,7 @@ _Context: Islamist unrest in Egypt (2013-14), Mediterranean Sea, navy_
 
 ##### ASEAN Summit
 ### [The 25th ASEAN Summit is held in the city of Naypyidaw, the capital of Myanmar. ](/news/2014/11/12/the-25th-asean-summit-is-held-in-the-city-of-naypyidaw-the-capital-of-myanmar.md)
-_Context: Naypyidaw, Myanmar, ASEAN Summit_
+_Context: ASEAN Summit, Naypyidaw, Myanmar_
 
 ##### Chinese
 ### [Chinese leader Xi Jinping and President of the United States Barack Obama reach a deal to limit greenhouse gases. ](/news/2014/11/12/chinese-leader-xi-jinping-and-president-of-the-united-states-barack-obama-reach-a-deal-to-limit-greenhouse-gases.md)

@@ -9,7 +9,7 @@ Pakistan successfully test-fired a nuclear-capable ballistic missile on Wednesda
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md)
-_Context: Syria, United Nations, Syrian Army, Kofi Annan, Syrian uprising (2011-present)_
+_Context: United Nations, Syrian Army, Syria, Syrian uprising (2011-present), Kofi Annan_
 
 ##### South Sudan
 ### [South Sudan releases Sudanese prisoners of war as border clashes between the two states seem to abate. ](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.md)

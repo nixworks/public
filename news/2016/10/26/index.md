@@ -13,7 +13,7 @@ Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan o
 
 ##### Syrian Civil War
 ### [Suspected Syrian or Russian warplanes conduct airstrikes on a residential area and a school in Haas village in rebel-held Idlib Governorate, killing at least 26 civilians, most of them children. ](/news/2016/10/26/suspected-syrian-or-russian-warplanes-conduct-airstrikes-on-a-residential-area-and-a-school-in-haas-village-in-rebel-held-idlib-governorate.md)
-_Context: Russian Air Force, Idlib Governorate, Syrian, Syrian Civil War_
+_Context: Syrian, Syrian Civil War, Russian Air Force, Idlib Governorate_
 
 ##### Series of earthquakes
 ### [A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. ](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.md)
@@ -37,7 +37,7 @@ The United States on Wednesday abstained for the first time from a United Nation
 
 ##### 2014-16 Venezuelan protests
 ### [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md)
-_Context: Venezuelan government, 2014-16 Venezuelan protests, police_
+_Context: 2014-16 Venezuelan protests, police, Venezuelan government_
 
 ## [Previous Day...](/news/2016/10/25/index.md)
 

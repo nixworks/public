@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/5/index.html)  [JSON](2008/12/5/index.json)  [XML](2008/
 
 ##### Federated States of Micronesia
 ### [ The Federated States of Micronesia recognize Kosovo. ](/news/2008/12/5/the-federated-states-of-micronesia-recognize-kosovo.md)
-_Context: officially recognizes, Kosovo, Federated States of Micronesia_
+_Context: Kosovo, Federated States of Micronesia, officially recognizes_
 
 ##### O. J. Simpson
 ### [ O. J. Simpson is sentenced to 15-33 years in prison with eligibility for parole after 9 years for kidnapping and robbery of two sports memorabilia dealers in a Las Vegas, Nevada, casino. ](/news/2008/12/5/o-j-simpson-is-sentenced-to-15-33-years-in-prison-with-eligibility-for-parole-after-9-years-for-kidnapping-and-robbery-of-two-sports-memo.md)
@@ -13,11 +13,11 @@ This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husk
 
 ##### Financial crisis
 ### [ Global financial crisis of 2008: the United States Department of Labor reports that nonfarm payrolls contracted by 533,000 in November, the worst monthly job loss since 1974. ](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.md)
-_Context: United States Department of Labor, nonfarm payrolls, financial crisis_
+_Context: United States Department of Labor, financial crisis, nonfarm payrolls_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: the Sri Lankan military enters Alampil, nearing the primary LTTE-held town of Mullaitivu. ](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.md)
-_Context: Mullaitivu, LTTE, Sri Lanka, Sri Lankan military, Sri Lankan Civil War_
+_Context: Sri Lanka, Sri Lankan military, Mullaitivu, LTTE, Sri Lankan Civil War_
 
 ##### NASA
 ### [ NASA delays the launch of the Mars Science Laboratory by two years because of lengthening delays and lingering technical issues. ](/news/2008/12/5/nasa-delays-the-launch-of-the-mars-science-laboratory-by-two-years-because-of-lengthening-delays-and-lingering-technical-issues.md)

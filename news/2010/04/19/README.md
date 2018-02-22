@@ -17,7 +17,7 @@ Gulf Arab countries must end their sponsorship system for migrant workers that l
 
 ##### Iraq
 ### [Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Hamas
 ### [Hamas executions by firing squad of Palestinians accused of aiding Israel is condemned as murder by France, and the UN High Commissioner for Human Rights, Navi Pillay, urges Hamas to halt plans for further killings. ](/news/2010/04/19/hamas-executions-by-firing-squad-of-palestinians-accused-of-aiding-israel-is-condemned-as-murder-by-france-and-the-un-high-commissioner-for.md)
@@ -29,7 +29,7 @@ Flights will finally start again in the UK tomorrow after air traffic control co
 
 ##### Federation Internationale de Luge de Course
 ### [A report by the Federation Internationale de Luge de Course (FIL) concludes the track on which Georgian luger Nodar Kumaritashvili died at the 2010 Winter Olympics was faster than it should have been. ](/news/2010/04/19/a-report-by-the-fa-c-da-c-ration-internationale-de-luge-de-course-fil-concludes-the-track-on-which-georgian-luger-nodar-kumaritashvili-died-at.md)
-_Context: Nodar Kumaritashvili, 2010 Winter Olympics, Federation Internationale de Luge de Course, luge,  Georgian, the track_
+_Context:  Georgian, 2010 Winter Olympics, the track, Federation Internationale de Luge de Course, luge, Nodar Kumaritashvili_
 
 ##### An earthquake struck on 14 April
 ### [Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. ](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.md)
@@ -41,7 +41,7 @@ _Context: Afghan, Kabul_
 
 ##### Indonesia
 ### [Hundreds of Indonesian protesters in Jakarta demand the riot police be disbanded after three are killed and at least 156 wounded in bloody clashes between Indonesian National Police and demonstrators. ](/news/2010/04/19/hundreds-of-indonesian-protesters-in-jakarta-demand-the-riot-police-be-disbanded-after-three-are-killed-and-at-least-156-wounded-in-bloody-c.md)
-_Context: Indonesian National Police, riot police, Jakarta, Indonesia_
+_Context: Jakarta, riot police, Indonesia, Indonesian National Police_
 
 ##### North Korea
 ### [North Korea denies it sank a South Korean naval patrol boat in disputed waters between the two Koreas. ](/news/2010/04/19/north-korea-denies-it-sank-a-south-korean-naval-patrol-boat-in-disputed-waters-between-the-two-koreas.md)
@@ -61,11 +61,11 @@ _Context: Mogadishu, UN Goodwill Ambassador, Somalia, Angelina Jolie_
 
 ##### Franck Ribery
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)
-_Context: prostitution, French, association football, Franck Ribery_
+_Context: Franck Ribery, prostitution, French, association football_
 
 ##### Carl Williams
 ### [Drug trafficker Carl Williams of Melbourne gangland killings fame is murdered in prison. ](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.md)
-_Context: Carl Williams, Melbourne gangland killings_
+_Context: Melbourne gangland killings, Carl Williams_
 
 ## [Previous Day...](/news/2010/04/18/index.md)
 

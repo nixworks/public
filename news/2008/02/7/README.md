@@ -9,7 +9,7 @@ A gunman killed two police officers and three city officials on Thursday night w
 
 ##### Sugar refinery
 ### [ Four people die and dozens are hurt in an explosion at a sugar refinery in Port Wentworth, Georgia. ](/news/2008/02/7/four-people-die-and-dozens-are-hurt-in-an-explosion-at-a-sugar-refinery-in-port-wentworth-georgia.md)
-_Context: sugar refinery, Port Wentworth, Georgia_
+_Context: Port Wentworth, Georgia, sugar refinery_
 
 ##### Congress
 ### [ The United States Congress approves a $168 billion economic stimulus package and sends it to President George W. Bush for his approval. ](/news/2008/02/7/the-united-states-congress-approves-a-168-billion-economic-stimulus-package-and-sends-it-to-president-george-w-bush-for-his-approval.md)
@@ -17,7 +17,7 @@ Democrats agreed to add only payments for senior citizens and disabled veterans 
 
 ##### Slovakia
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Parliament of Slovakia, Lisbon Treaty, Slovakia_
+_Context: Slovakia, Lisbon Treaty, Parliament of Slovakia_
 
 ##### National Assembly
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
@@ -37,27 +37,27 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: Massachusetts governor, his campaign, 2008, Mitt Romney_
+_Context: 2008, his campaign, Mitt Romney, Massachusetts governor_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Eastern Orthodox Church, Archbishop Ieronymos II of Athens, Church of Greece_
+_Context: Archbishop Ieronymos II of Athens, Eastern Orthodox Church, Church of Greece_
 
 ##### Afghan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
-_Context: NATO, Afghan_
+_Context: Afghan, NATO_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: United Kingdom, United States Secretary of State, Afghan, Condoleezza Rice, David Miliband, Foreign Secretary_
+_Context: Foreign Secretary, United States Secretary of State, United Kingdom, Afghan, Condoleezza Rice, David Miliband_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
-_Context: hostile takeover, Rio Tinto, BHP Billiton_
+_Context: hostile takeover, BHP Billiton, Rio Tinto_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)
-_Context: tobacco, WHO_
+_Context: WHO, tobacco_
 
 ## [Previous Day...](/news/2008/02/6/index.md)
 

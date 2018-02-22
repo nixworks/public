@@ -7,7 +7,7 @@ Formats: [HTML](2013/01/15/index.html)  [JSON](2013/01/15/index.json)  [XML](201
 ### [Aleppo University bombings: 83 people are killed and more than 150 injured in a rocket barrage aimed at Aleppo University, as government forces and rebels continue fighting in the suburbs of Damascus. Both sides accused each other of launching the missiles. ](/news/2013/01/15/aleppo-university-bombings-83-people-are-killed-and-more-than-150-injured-in-a-rocket-barrage-aimed-at-aleppo-university-as-government-for.md)
 Syria UN envoy says 82 students killed in Aleppo blastsUNITED NATIONS, Jan 15 (Reuters) - At least 82 students in Syria were killed on Tuesday in two explosions that rocked the university in Aleppo, Syria&#39;s biggest city, Syria&#39;s U.N. envoy told the U.N. Security Council.&quot;A cowardly terr...
 
-##### France
+##### French
 ### [African troops are to be deployed in Mali to fight alongside French and Malian soldiers within a week. ](/news/2013/01/15/african-troops-are-to-be-deployed-in-mali-to-fight-alongside-french-and-malian-soldiers-within-a-week.md)
 Announcement comes as Hollande says France will end intervention only when stability returns to West African country.
 
@@ -29,7 +29,7 @@ A cleaning woman stole an empty commuter train in a suburb of Stockholm and cras
 
 ##### 2013 horse meat contamination in burgers scandal
 ### [2013 horse meat contamination in burgers scandal: The Republic of Ireland's Food Safety Authority says that horse DNA has been found in some beefburgers on sale in UK and Irish supermarkets. ](/news/2013/01/15/2013-horse-meat-contamination-in-burgers-scandal-the-republic-of-ireland-s-food-safety-authority-says-that-horse-dna-has-been-found-in-some.md)
-_Context: 2013 horse meat contamination in burgers scandal, Irish, DNA, UK, beefburger, supermarket, horse_
+_Context: DNA, supermarket, horse, beefburger, Irish, 2013 horse meat contamination in burgers scandal, UK_
 
 ##### Egypt
 ### [Egyptian human rights lawyer Ahmed al-Gizawi is sentenced to five years imprisonment and 300 lashes in Saudi Arabia. ](/news/2013/01/15/egyptian-human-rights-lawyer-ahmed-al-gizawi-is-sentenced-to-five-years-imprisonment-and-300-lashes-in-saudi-arabia.md)
@@ -45,7 +45,7 @@ An enigmatic preacher with thousands of followers is demanding the government’
 
 ##### Russia
 ### [Russia launches three Kosmos series military-purpose satellites using Rokot launch vehicle. ](/news/2013/01/15/russia-launches-three-kosmos-series-military-purpose-satellites-using-rokot-launch-vehicle.md)
-_Context: Russia, Rokot, launches, launch vehicle, satellite, Kosmos series_
+_Context: Russia, satellite, Rokot, Kosmos series, launch vehicle, launches_
 
 ## [Previous Day...](/news/2013/01/14/index.md)
 

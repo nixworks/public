@@ -9,11 +9,11 @@ European leaders sought to prop up Greece with words of support at a summit on T
 
 ##### European Parliament
 ### [The European Parliament rejects an agreement that would have granted the United States Terrorist Finance Tracking Program unlimited access to the SWIFT bank transactions database. ](/news/2010/02/11/the-european-parliament-rejects-an-agreement-that-would-have-granted-the-united-states-terrorist-finance-tracking-program-unlimited-access-t.md)
-_Context: United States, European Parliament, Terrorist Finance Tracking Program, Society for Worldwide Interbank Financial Telecommunication_
+_Context: Society for Worldwide Interbank Financial Telecommunication, United States, Terrorist Finance Tracking Program, European Parliament_
 
 ##### Sri Lanka
 ### [Protests continue in Sri Lanka after the arrest of opposition candidate Sarath Fonseka. ](/news/2010/02/11/protests-continue-in-sri-lanka-after-the-arrest-of-opposition-candidate-sarath-fonseka.md)
-_Context: Sri Lanka, Sarath Fonseka_
+_Context: Sarath Fonseka, Sri Lanka_
 
 ##### United Kingdom
 ### [British fashion designer Alexander McQueen is found dead at his home in London at the age of 40, on the eve of his mother's funeral, in an apparent suicide. ](/news/2010/02/11/british-fashion-designer-alexander-mcqueen-is-found-dead-at-his-home-in-london-at-the-age-of-40-on-the-eve-of-his-mother-s-funeral-in-an-a.md)
@@ -21,7 +21,7 @@ The fashion world&#039;s leading voices have paid tribute to the outlandish avan
 
 ##### Beijing
 ### [A court in Beijing upholds a sentence against Chinese dissident Liu Xiaobo who was sentenced to 11 years imprisonment on charges of subversion. ](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.md)
-_Context: Beijing, Liu Xiaobo, subversion, China, dissident_
+_Context: China, subversion, Liu Xiaobo, Beijing, dissident_
 
 ##### President
 ### [President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md)
@@ -29,15 +29,15 @@ On the anniversary of the Islamic Revolution, Iran’s president sent forces ont
 
 ##### Sergey Aleynikov
 ### [Sergey Aleynikov, a former computer programmer for Goldman Sachs, is indicted for three counts by a U.S. federal court in Manhattan for theft of trade secrets, transportation of stolen property in interstate and foreign commerce, and unauthorized computer access. ](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.md)
-_Context: trade secrets, Sergey Aleynikov, Goldman Sachs_
+_Context: Sergey Aleynikov, Goldman Sachs, trade secrets_
 
 ##### United States
 ### [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md)
-_Context: NewYork-Presbyterian Hospital, coronary stent, Bill Clinton, New York City, U.S. President, United States_
+_Context: U.S. President, Bill Clinton, coronary stent, NewYork-Presbyterian Hospital, New York City, United States_
 
 ##### Haiti
 ### [Haiti announces that the 10 American missionaries accused of attempted kidnapping will be released from custody. ](/news/2010/02/11/haiti-announces-that-the-10-american-missionaries-accused-of-attempted-kidnapping-will-be-released-from-custody.md)
-_Context: United States, Haiti_
+_Context: Haiti, United States_
 
 ##### Soufriere Hills volcano
 ### [A large eruption occurs at the Soufriere Hills volcano in Montserrat after a partial lava dome collapse, sending ash to a height of 50,000 feet. ](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.md)

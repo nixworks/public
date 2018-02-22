@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/26/index.html)  [JSON](2005/07/26/index.json)  [XML](200
 
 ##### Nationalises
 ### [ At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-ghraib-area-by-insur.md)
-_Context: Iraqi insurgency, nationalises, Abu Ghraib_
+_Context: Abu Ghraib, Iraqi insurgency, nationalises_
 
 ##### Rain
 ### [ Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. ](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rain-storms-in-maharashtra-india-described-by-the-chief-minister-of-the-state-as-the-heaviest.md)
@@ -17,11 +17,11 @@ _Context: India_
 
 ##### Discovery
 ### [ The Space Shuttle "Discovery" lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-lif.md)
-_Context: STS-114, Discovery, NASA_
+_Context: NASA, Discovery, STS-114_
 
 ##### Lebanese
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)
-_Context: militia, Samir Geagea, Lebanese_
+_Context: Lebanese, militia, Samir Geagea_
 
 ##### Hong Seok-Hyun
 ### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
@@ -29,11 +29,11 @@ _Context: slush fund, Hong Seok-Hyun_
 
 ##### Burma
 ### [ Burma-Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
-_Context: ASEAN, Burma, Myanmar_
+_Context: Myanmar, ASEAN, Burma_
 
 ##### Protest
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
-_Context: Bagram, protest, demonstration, Afghan_
+_Context: demonstration, Afghan, protest, Bagram_
 
 ##### Mohammed Bouyeri
 ### [ In the Netherlands, Mohammed Bouyeri receives life sentence for murder of Theo van Gogh ](/news/2005/07/26/in-the-netherlands-mohammed-bouyeri-receives-life-sentence-for-murder-of-theo-van-gogh.md)
@@ -53,7 +53,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Luis Echeverra
 ### [ In Mexico, court rules that there is insufficient evidence to try former president Luis Echeverra for genocide for a student massacre in 1971 ](/news/2005/07/26/in-mexico-court-rules-that-there-is-insufficient-evidence-to-try-former-president-luis-echeverria-for-genocide-for-a-student-massacre-in-1.md)
-_Context: genocide, Luis Echeverra_
+_Context: Luis Echeverra, genocide_
 
 ##### Israel
 ### [ In Israel, Omri Sharon, MP and son of Ariel Sharon, is indicted for involvement in illegal campaign contributions, perjury and forging documents. Omri Sharon states that he would give up his parliamentary immunity and stand trial ](/news/2005/07/26/in-israel-omri-sharon-mp-and-son-of-ariel-sharon-is-indicted-for-involvement-in-illegal-campaign-contributions-perjury-and-forging-docu.md)
@@ -61,11 +61,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Somalia
 ### [ In Somalia, transitional president Abdullahi Yusuf arrives in the town of Jowhar, intending to make it a base for his new government ](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.md)
-_Context: Jowhar, Somalia, Abdullahi Yusuf_
+_Context: Somalia, Jowhar, Abdullahi Yusuf_
 
 ##### Nepal
 ### [ In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". ](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.md)
-_Context: Sher Bahadur Deuba, embezzlement, character assassination, Nepal_
+_Context: character assassination, embezzlement, Nepal, Sher Bahadur Deuba_
 
 ## [Previous Day...](/news/2005/07/25/index.md)
 

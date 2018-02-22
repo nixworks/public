@@ -9,31 +9,31 @@ _Context: Malaysia, A. Q. Khan, Buhary Syed Abu Tahir_
 
 ##### International Whaling Commission
 ### [ The 2008 meeting of the International Whaling Commission begins in Santiago, Chile. ](/news/2008/06/23/the-2008-meeting-of-the-international-whaling-commission-begins-in-santiago-chile.md)
-_Context: International Whaling Commission, Santiago_
+_Context: Santiago, International Whaling Commission_
 
 ##### Nawaz Sharif
 ### [ Nawaz Sharif, former Prime Minister of Pakistan and leader of the Pakistan Muslim League (N), is found ineligible by a court to stand in upcoming by-elections. ](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.md)
-_Context: Nawaz Sharif, by-elections, Pakistan Muslim League, Prime Minister, Pakistan_
+_Context: Prime Minister, Pakistan Muslim League, Pakistan, Nawaz Sharif, by-elections_
 
 ##### Serbia
 ### [ In Serbia, the Milosevic-founded Socialist Party is to join the coalition led by the pro-Western Democratic Party which came to power in 2007 elections. ](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.md)
-_Context: Slobodan Milosevic, Socialist Party, Democratic Party, Serbia, 2007 elections_
+_Context: Slobodan Milosevic, Serbia, 2007 elections, Socialist Party, Democratic Party_
 
 ##### China
 ### [ China fires twelve officials for misconduct in the Sichuan earthquake relief effort. ](/news/2008/06/23/china-fires-twelve-officials-for-misconduct-in-the-sichuan-earthquake-relief-effort.md)
-_Context: China, deadly earthquake_
+_Context: deadly earthquake, China_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States refuses to hear an appeal of eminent domain eviction notices in connection with the Atlantic Yards development in Brooklyn, New York City. ](/news/2008/06/23/the-supreme-court-of-the-united-states-refuses-to-hear-an-appeal-of-eminent-domain-eviction-notices-in-connection-with-the-atlantic-yards-d.md)
-_Context: Supreme Court of the United States, eminent domain, eviction, Brooklyn, Atlantic Yards, New York City_
+_Context: eminent domain, Brooklyn, New York City, eviction, Atlantic Yards, Supreme Court of the United States_
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [ The Court of Appeals for the D.C. Circuit rules that Hozaifa Parhat, a Chinese Uyghur militant currently detained at the Guantanamo Bay detention camp, cannot be ruled an "enemy combatant" because he never took up arms against the United States. ](/news/2008/06/23/the-court-of-appeals-for-the-d-c-circuit-rules-that-hozaifa-parhat-a-chinese-uyghur-militant-currently-detained-at-the-guantanamo-bay-det.md)
-_Context: China, Guantanamo Bay detention camp, enemy combatant, United States, U.S. Court of Appeals for the District of Columbia, Hozaifa Parhat, Uyghur_
+_Context: enemy combatant, Hozaifa Parhat, Uyghur, Guantanamo Bay detention camp, United States, U.S. Court of Appeals for the District of Columbia, China_
 
 ##### European Union
 ### [ The European Union agrees to new sanctions against Iran including a freeze on the assets of Bank Melli, Iran's largest bank, over the refusal to curb its nuclear program. ](/news/2008/06/23/the-european-union-agrees-to-new-sanctions-against-iran-including-a-freeze-on-the-assets-of-bank-melli-iran-s-largest-bank-over-the-refus.md)
-_Context: Bank Melli, sanctions, nuclear program, Iran, European Union_
+_Context: sanctions, Iran, Bank Melli, nuclear program, European Union_
 
 ##### Morgan Tsvangirai
 ### [ Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md)
@@ -49,7 +49,7 @@ Rescuers scoured theseas around a capsized ferry in the Philippines on Monday fo
 
 ##### Australia
 ### [ An Australian air safety group claims that Yogyakarta International Airport was operating illegally with no valid license at the time Garuda Indonesia Flight 200 crashed, killing 21. They also accuse two other airports of similar violations and three official bodies of keeping it from public knowledge. ](/news/2008/06/23/an-australian-air-safety-group-claims-that-yogyakarta-international-airport-was-operating-illegally-with-no-valid-license-at-the-time-garud.md)
-_Context: Yogyakarta International Airport, Australia, Marwoto Komar_
+_Context: Marwoto Komar, Australia, Yogyakarta International Airport_
 
 ## [Previous Day...](/news/2008/06/22/index.md)
 

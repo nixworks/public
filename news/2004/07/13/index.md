@@ -5,15 +5,15 @@ Formats: [HTML](2004/07/13/index.html)  [JSON](2004/07/13/index.json)  [XML](200
 
 ##### Khaled al-Harbi
 ### [ Khaled al-Harbi, a disabled militant Saudi sheikh linked to al-Qaeda and Osama bin Laden, turns himself in to the Saudi authorities in Tehran under an amnesty program of the Saudi King. ](/news/2004/07/13/khaled-al-harbi-a-disabled-militant-saudi-sheikh-linked-to-al-qaeda-and-osama-bin-laden-turns-himself-in-to-the-saudi-authorities-in-tehr.md)
-_Context: amnesty, Tehran, Osama bin Laden, Saudi, sheikh, al-Qaeda, Khaled al-Harbi_
+_Context: Osama bin Laden, Khaled al-Harbi, al-Qaeda, amnesty, Saudi, Tehran, sheikh_
 
 ##### Al Jazeera
 ### [ Al Jazeera television reports that a Bulgarian hostage held in Iraq by suspected al-Qaeda ally Abu Musab al-Zarqawi has been executed. A video tape of the murder was provided to Al Jazeera. The group vows to execute another hostage within 24 hours. ](/news/2004/07/13/al-jazeera-television-reports-that-a-bulgarian-hostage-held-in-iraq-by-suspected-al-qaeda-ally-abu-musab-al-zarqawi-has-been-executed-a-vi.md)
-_Context: Al Jazeera, al-Qaeda, Bulgaria, rebel-held, Abu Musab al-Zarqawi_
+_Context: Bulgaria, Al Jazeera, al-Qaeda, rebel-held, Abu Musab al-Zarqawi_
 
 ##### State Department
 ### [ The United States Department of State adds the Continuity Irish Republican Army (CIRA) to its list of foreign terrorist organisations, which means that CIRA assets in the US will be frozen and visas denied to members of CIRA. ](/news/2004/07/13/the-united-states-department-of-state-adds-the-continuity-irish-republican-army-cira-to-its-list-of-foreign-terrorist-organisations-whic.md)
-_Context: Continuity Irish Republican Army, terrorism, State Department_
+_Context: terrorism, Continuity Irish Republican Army, State Department_
 
 ##### U2
 ### [ A rough cut of U2's new album is stolen in Nice, France. The album is scheduled for release in November. ](/news/2004/07/13/a-rough-cut-of-u2-s-new-album-is-stolen-in-nice-france-the-album-is-scheduled-for-release-in-november.md)

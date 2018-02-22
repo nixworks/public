@@ -33,11 +33,11 @@ _Context: U.S. state, Texas, kindergarteners_
 
 ##### Seagate Technology
 ### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. ](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)
-_Context: hard disk drive, Seagate Technology, Samsung, California_
+_Context: California, Seagate Technology, hard disk drive, Samsung_
 
 ##### Manila
 ### [Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City squatter community. ](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.md)
-_Context: Manila, Makati City, Philippines_
+_Context: Philippines, Makati City, Manila_
 
 ##### Containment shell
 ### [A donation campaign raises less money than expected towards a newer containment shell at Chernobyl. ](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.md)
@@ -45,19 +45,19 @@ _Context: Chernobyl, containment shell_
 
 ##### David Cameron
 ### [British prime minister David Cameron sets out to block his predecessor Gordon Brown's attempt to take the GBP270,000 per year role of head of the International Monetary Fund (IMF). ](/news/2011/04/19/british-prime-minister-david-cameron-sets-out-to-block-his-predecessor-gordon-brown-s-attempt-to-take-the-gbp270-000-per-year-role-of-head-o.md)
-_Context: Gordon Brown, David Cameron, International Monetary Fund_
+_Context: David Cameron, Gordon Brown, International Monetary Fund_
 
 #####  Georgian
 ### [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md)
-_Context: Armenia,  Georgian, Russia_
+_Context: Russia,  Georgian, Armenia_
 
 ##### Singapore
 ### [Singapore's Parliament is dissolved for the 14th General Election which is to be held on 7 May 2011. ](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.md)
-_Context: 14th General Election, Singapore_
+_Context: Singapore, 14th General Election_
 
 ##### Fidel Castro
 ### [Fidel Castro resigns from the Cuban Communist Party's central committee, formalising his gradual retreat from the spotlight that started in 2006. ](/news/2011/04/19/fidel-castro-resigns-from-the-cuban-communist-party-s-central-committee-formalising-his-gradual-retreat-from-the-spotlight-that-started-in.md)
-_Context: Communist Party of Cuba, Fidel Castro, Cuba_
+_Context: Communist Party of Cuba, Cuba, Fidel Castro_
 
 ##### Michelle Obama
 ### [An error by an American air traffic controller leads to the plane carrying Michelle Obama of the United States to come two miles too close to another plane near Washington, D.C. ](/news/2011/04/19/an-error-by-an-american-air-traffic-controller-leads-to-the-plane-carrying-michelle-obama-of-the-united-states-to-come-two-miles-too-close-t.md)

@@ -5,43 +5,43 @@ Formats: [HTML](2007/03/6/index.html)  [JSON](2007/03/6/index.json)  [XML](2007/
 
 ##### Iraq War
 ### [ Iraq War: Two suicide bombers in a crowd of Muslim pilgrims in Al Hillah kill at least 115 people and wound 150. ](/news/2007/03/6/iraq-war-two-suicide-bombers-in-a-crowd-of-muslim-pilgrims-in-al-hillah-kill-at-least-115-people-and-wound-150.md)
-_Context:  in a crowd of Muslim pilgrims, Iraq War, Al Hillah, suicide bomb_
+_Context: Iraq War, suicide bomb, Al Hillah,  in a crowd of Muslim pilgrims_
 
 ##### Foreign Minister
 ### [ Foreign Minister of People's Republic of China Li Zhaoxing criticises President of the Republic of China Chen Shui-bian for making calls for Taiwan independence. ](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.md)
-_Context: Foreign Minister, independence, Li Zhaoxing, President, Chen Shui-bian, China_
+_Context: Chen Shui-bian, Foreign Minister, President, Li Zhaoxing, China, independence_
 
 ##### United States v. Libby
 ### [ "United States v. Libby": Former Bush administration aide Lewis Libby is found guilty of perjury and obstruction of justice. ](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.md)
-_Context: perjury, United States v. Libby, obstruction of justice, Scooter Libby, George W. Bush administration_
+_Context: Scooter Libby, obstruction of justice, George W. Bush administration, perjury, United States v. Libby_
 
 ##### Congress
 ### [ The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. ](/news/2007/03/6/the-united-states-congress-opens-hearings-into-the-dismissal-of-eight-u-s-attorneys-probing-whether-the-bush-administration-had-political.md)
-_Context: firings, federal prosecutors, Bush Administration, Congress_
+_Context: Congress, federal prosecutors, firings, Bush Administration_
 
 ##### Bogota
 ### [ Heavy security operations begin in Bogota, Colombia, for the visit of U.S. President Bush on March 11. Security forces expect protests on Wednesday. ](/news/2007/03/6/heavy-security-operations-begin-in-bogota-colombia-for-the-visit-of-u-s-president-bush-on-march-11-security-forces-expect-protests-on.md)
-_Context: protest, U.S. President, March 11, Bogota, George W. Bush, Colombia_
+_Context: U.S. President, protest, Bogota, Colombia, George W. Bush, March 11_
 
 ##### Japan
 ### [ Japanese news agency Kyodo News reports that Empress Michiko is suffering from internal bleeding. ](/news/2007/03/6/japanese-news-agency-kyodo-news-reports-that-empress-michiko-is-suffering-from-internal-bleeding.md)
-_Context: Empress Michiko, Japan, internal bleeding, Kyodo News_
+_Context: Japan, Empress Michiko, internal bleeding, Kyodo News_
 
 ##### Two earthquakes
 ### [ Two earthquakes measuring 6.4 and 6.3 on the Moment magnitude scale hit Sumatra in Indonesia, with the epicenter near Lake Singkarak. At least 82 fatalities are currently reported. The earthquakes were felt as far as in Malaysia and Singapore. ](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.md)
-_Context: Malaysia, Two earthquakes, Lake Singkarak, Sumatra, Indonesia, magnitude, Singapore_
+_Context: Lake Singkarak, Two earthquakes, Malaysia, Indonesia, Singapore, Sumatra, magnitude_
 
 ##### India
 ### [ India and Pakistan hold a meeting in Islamabad to discuss joint actions against terrorism with discussion focussing on the Samjhauta Express bombings. ](/news/2007/03/6/india-and-pakistan-hold-a-meeting-in-islamabad-to-discuss-joint-actions-against-terrorism-with-discussion-focussing-on-the-samjhauta-expres.md)
-_Context: terrorism, India, Islamabad, Samjhauta Express bombings, Pakistan_
+_Context: terrorism, India, Pakistan, Samjhauta Express bombings, Islamabad_
 
 ##### Ghana
 ### [ Celebrations in Ghana mark the fiftieth anniversary of its independence. ](/news/2007/03/6/celebrations-in-ghana-mark-the-fiftieth-anniversary-of-its-independence.md)
-_Context: Ghana, its independence_
+_Context: its independence, Ghana_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md)
-_Context: Taliban, War in Afghanistan (2001-present), Helmand province, Operation Achilles, NATO_
+_Context: Helmand province, Operation Achilles, War in Afghanistan (2001-present), NATO, Taliban_
 
 ## [Previous Day...](/news/2007/03/5/index.md)
 

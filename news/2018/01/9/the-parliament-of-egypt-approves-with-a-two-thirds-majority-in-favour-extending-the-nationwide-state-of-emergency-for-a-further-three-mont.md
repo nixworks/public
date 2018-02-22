@@ -20,7 +20,7 @@ Formats: [HTML](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thir
 
 ### Related:
 
-1. [Seven provinces in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-provinces-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: states of emergency_
+1. [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md) _Context: states of emergency_
 2. [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md) _Context: Politics of Egypt_
 3. [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md) _Context: Politics of Egypt_
 4. [The nephew of assassinated Egyptian president Mohamed Anwar al-Sadat announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/the-nephew-of-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marchas-presidential-election-blam.md) _Context: Politics of Egypt_

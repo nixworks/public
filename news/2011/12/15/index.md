@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/15/index.html)  [JSON](2011/12/15/index.json)  [XML](201
 
 ##### Russia
 ### [Russia circulates a draft resolution condemning the violence in Syria. ](/news/2011/12/15/russia-circulates-a-draft-resolution-condemning-the-violence-in-syria.md)
-_Context: 2011 Syrian uprising, United Nations Security Council resolution, Russia, Syria_
+_Context: Syria, 2011 Syrian uprising, United Nations Security Council resolution, Russia_
 
 ##### United States
 ### [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md)
@@ -29,19 +29,19 @@ Homosexuals and transgender people in all regions face discrimination and violen
 
 ##### French President
 ### [Former President of France Jacques Chirac is found guilty of embezzlement and violating trust due to his hiring members of his party to fill non-existent jobs while Mayor of Paris. ](/news/2011/12/15/former-president-of-france-jacques-chirac-is-found-guilty-of-embezzlement-and-violating-trust-due-to-his-hiring-members-of-his-party-to-fill.md)
-_Context: Jacques Chirac, Mayor of Paris, embezzlement, French President_
+_Context: embezzlement, Mayor of Paris, Jacques Chirac, French President_
 
 ##### The Sun
 ### [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md)
-_Context: Piers Morgan, The Sun, Leveson Inquiry, News of the World_
+_Context: News of the World, The Sun, Piers Morgan, Leveson Inquiry_
 
-##### France
+##### French
 ### [A French court convicts Venezuela-born terrorist Carlos the Jackal of organising four deadly attacks in the 1980s. ](/news/2011/12/15/a-french-court-convicts-venezuela-born-terrorist-carlos-the-jackal-of-organising-four-deadly-attacks-in-the-1980s.md)
-_Context: Carlos the Jackal, France, Venezuela_
+_Context: French, Carlos the Jackal, Venezuela_
 
 ##### Feltham and Heston by-election
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
-_Context: Feltham and Heston, Alan Keen, Feltham and Heston by-election, Labour Party_
+_Context: Alan Keen, Labour Party, Feltham and Heston by-election, Feltham and Heston_
 
 ##### United States Senate
 ### [Negotiators from the United States Senate and House of Representatives reach a budget agreement. ](/news/2011/12/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-budget-agreement.md)

@@ -13,11 +13,11 @@ At least nine people, including two policemen, are killed during anti-government
 
 ##### $
 ### [A US$1 million vase made by Chinese dissident Ai Wei Wei is destroyed in Miami by a local vandal protesting the lack of exhibits promoting local art. ](/news/2014/02/18/a-us-1-million-vase-made-by-chinese-dissident-ai-wei-wei-is-destroyed-in-miami-by-a-local-vandal-protesting-the-lack-of-exhibits-promoting-l.md)
-_Context: Ai Wei Wei, Miami, $_
+_Context: Miami, Ai Wei Wei, $_
 
 ##### Supreme Court of the Philippines
 ### [The Supreme Court of the Philippines declares the libel provisions in the Cybercrime Prevention Act of 2012 as legal. ](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.md)
-_Context: Supreme Court of the Philippines, Cybercrime Prevention Act of 2012, libel_
+_Context: Cybercrime Prevention Act of 2012, libel, Supreme Court of the Philippines_
 
 ##### Australian
 ### [Former Australian parliamentarian Craig Thomson is found guilty of theft and fraud during his time as national secretary of the Health Services Union. ](/news/2014/02/18/former-australian-parliamentarian-craig-thomson-is-found-guilty-of-theft-and-fraud-during-his-time-as-national-secretary-of-the-health-servi.md)
@@ -33,7 +33,7 @@ A Zimbabwean immigration official says former U.S. Rep. Melvin Jay Reynolds has 
 
 ##### Kenneth Hayne
 ### [Justice Kenneth Hayne of the High Court of Australia voids the Senate election in the state of Western Australia due to the loss of ballot papers in a very close election. ](/news/2014/02/18/justice-kenneth-hayne-of-the-high-court-of-australia-voids-the-senate-election-in-the-state-of-western-australia-due-to-the-loss-of-ballot-p.md)
-_Context: Kenneth Hayne, Senator, High Court of Australia, Western Australia_
+_Context: Senator, High Court of Australia, Western Australia, Kenneth Hayne_
 
 ##### Ballroom dancers
 ### [Ballroom dancers and aerobics classes have popped up in the midst of an anti-China protest in Hanoi, Vietnam, in an apparent ploy by the government to break up the event. ](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.md)

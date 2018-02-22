@@ -5,11 +5,11 @@ Formats: [HTML](2006/12/22/index.html)  [JSON](2006/12/22/index.json)  [XML](200
 
 ##### Johor
 ### [ About 60,000 people in Johor, Malaysia have been displaced by the 2006 Malaysian floods. ](/news/2006/12/22/about-60-000-people-in-johor-malaysia-have-been-displaced-by-the-2006-malaysian-floods.md)
-_Context: 2006 Malaysian floods, Malaysia, Johor_
+_Context: Johor, 2006 Malaysian floods, Malaysia_
 
 ##### Duke University
 ### [ Rape charges are dropped against the three Duke University lacrosse players who were accused of raping a stripper in the 2006 Duke University lacrosse team scandal. ](/news/2006/12/22/rape-charges-are-dropped-against-the-three-duke-university-lacrosse-players-who-were-accused-of-raping-a-stripper-in-the-2006-duke-universi.md)
-_Context: Duke University, 2006 Duke University lacrosse team scandal_
+_Context: 2006 Duke University lacrosse team scandal, Duke University_
 
 ##### Times
 ### [ Andrew Wallis of "The Times" accuses the French government of aiding and abetting genocidaires in the Rwandan Genocide in 1994. Current Rwandan President Paul Kagame has also expressed his belief that the French and Belgian governments were complicit. ](/news/2006/12/22/andrew-wallis-of-the-times-accuses-the-french-government-of-aiding-and-abetting-genocidaires-in-the-rwandan-genocide-in-1994-current-rwa.md)
@@ -21,7 +21,7 @@ _Context: Discovery, STS-116, Kennedy Space Center, International Space Station_
 
 ##### Omar Bongo
 ### [ The party of dictator Omar Bongo, the Gabonese Democratic Party, has apparently won a vast majority in the legislative election held on 17 December 2006. ](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.md)
-_Context: Omar Bongo, Gabonese Democratic Party, legislative election_
+_Context: legislative election, Omar Bongo, Gabonese Democratic Party_
 
 ##### Artillery
 ### [ Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-after-a-night-of-artillery-an.md)
@@ -29,7 +29,7 @@ _Context: artillery, Mortar_
 
 ##### Six-party talks
 ### [ The second part of the fifth round of the six-party talks on North Korea's nuclear weapons program end without any agreement being reached or a date for the next round being set. ](/news/2006/12/22/the-second-part-of-the-fifth-round-of-the-six-party-talks-on-north-korea-s-nuclear-weapons-program-end-without-any-agreement-being-reached.md)
-_Context: North Korea, six-party talks, North Korea's nuclear program_
+_Context: North Korea's nuclear program, six-party talks, North Korea_
 
 ## [Previous Day...](/news/2006/12/21/index.md)
 

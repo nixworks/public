@@ -17,7 +17,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 
 ##### Mayon Volcano
 ### [Twelve thousand people have been evacuated from the area near the Mayon Volcano on the Philippines island of Luzon due to concerns over a possible eruption. ](/news/2014/09/16/twelve-thousand-people-have-been-evacuated-from-the-area-near-the-mayon-volcano-on-the-philippines-island-of-luzon-due-to-concerns-over-a-po.md)
-_Context: Philippines, Mayon Volcano, Luzon_
+_Context: Mayon Volcano, Philippines, Luzon_
 
 ##### Typhoon Kalmaegi
 ### [Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md)
@@ -37,7 +37,7 @@ Ukrainian MPs and the European Parliament are set to ratify a key EU association
 
 ##### Russian
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
-_Context: money laundering, Russian, Vladimir Yevtushenkov_
+_Context: money laundering, Vladimir Yevtushenkov, Russian_
 
 ## [Previous Day...](/news/2014/09/15/index.md)
 

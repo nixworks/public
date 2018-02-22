@@ -3,13 +3,13 @@ Formats: [HTML](2013/02/24/index.html)  [JSON](2013/02/24/index.json)  [XML](201
 
 ## [2013-02-24](/news/2013/02/24/index.md)
 
-##### France
+##### French
 ### [French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/french-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after-surgery.md)
 French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANC...
 
 ##### Chad
 ### [10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-northern-mali.md)
-_Context: Adrar des Ifoghas, Islamist, Chad, Mali_
+_Context: Chad, Adrar des Ifoghas, Mali, Islamist_
 
 ##### Suicide bombing
 ### [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md)
@@ -17,7 +17,7 @@ KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber i
 
 ##### Yobe State
 ### [At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md)
-_Context: Nigeria, Yobe State_
+_Context: Yobe State, Nigeria_
 
 ##### Africa
 ### [Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal-for-the-eastern.md)
@@ -45,7 +45,7 @@ Cuban leader Raul Castro announced on Sunday he would step down from power after
 
 ##### Chimpanzee
 ### [A new study finds that chimpanzees will solve puzzles for the fun of it. ](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.md)
-_Context: fun, chimpanzee, puzzle_
+_Context: chimpanzee, fun, puzzle_
 
 ## [Previous Day...](/news/2013/02/23/index.md)
 

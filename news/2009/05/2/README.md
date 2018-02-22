@@ -5,11 +5,11 @@ Formats: [HTML](2009/05/2/index.html)  [JSON](2009/05/2/index.json)  [XML](2009/
 
 ##### Racehorse
 ### [ The racehorse Mine That Bird wins the 135th Kentucky Derby. ](/news/2009/05/2/the-racehorse-mine-that-bird-wins-the-135th-kentucky-derby.md)
-_Context: Mine That Bird, Kentucky Derby, racehorse, 135th_
+_Context: Kentucky Derby, 135th, Mine That Bird, racehorse_
 
 ##### Sri Lanka
 ### [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md)
-_Context: Sri Lanka, safe zone, hospital, Army, Sri Lankan Civil War, civilian_
+_Context: hospital, safe zone, civilian, Sri Lanka, Sri Lankan Civil War, Army_
 
 ##### United Nations
 ### [ The United Nations orders Israel to stop evicting Palestinians from East Jerusalem. ](/news/2009/05/2/the-united-nations-orders-israel-to-stop-evicting-palestinians-from-east-jerusalem.md)
@@ -17,7 +17,7 @@ Israel must freeze all pending east Jerusalem home demolitions, UN report says.
 
 ##### Israel
 ### [ Israel aids the Palestinian National Authority, Egypt, and Jordan in combatting swine influenza. ](/news/2009/05/2/israel-aids-the-palestinian-national-authority-egypt-and-jordan-in-combatting-swine-influenza.md)
-_Context: Jordan, Palestinian Authority, current outbreak, Egypt, swine flu, Israel_
+_Context: Jordan, current outbreak, Palestinian Authority, swine flu, Israel, Egypt_
 
 ##### Australia
 ### [ Australia will spend US$70 billion through 2029 to improve its Defence Force. ](/news/2009/05/2/australia-will-spend-us-70-billion-through-2029-to-improve-its-defence-force.md)
@@ -33,15 +33,15 @@ Unhappy with Criminal Conviction of a Garuda Pilot, Indonesian Aviators May Grou
 
 ##### Pakistan Army
 ### [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md)
-_Context: Mohmand Agency, militant, War in North-West Pakistan, soldier, Pakistan Army, Taliban, Pakistan, raid_
+_Context: militant, Taliban, Pakistan, soldier, Pakistan Army, Mohmand Agency, War in North-West Pakistan, raid_
 
 ##### Taiwan
 ### [ The Republic of China allows financial investment from mainland China for the first time since 1949. ](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.md)
-_Context: China, Cross-Strait relations, Taiwan, financial investment_
+_Context: Cross-Strait relations, financial investment, Taiwan, China_
 
 ##### Bulk carrier
 ### [ The bulk carrier MV "Ariana" is hijacked by Somali pirates in the Indian Ocean. ](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali-pirates-in-the-indian-ocean.md)
-_Context: Indian, Somalia, pirate, Somali pirates, MV, bulk carrier_
+_Context: Indian, Somali pirates, MV, pirate, Somalia, bulk carrier_
 
 ## [Previous Day...](/news/2009/05/1/index.md)
 

@@ -13,15 +13,15 @@ The SNP set out its vision for a referendum on Scottish independence today.
 
 ##### Equatorial Guinea
 ### [ Officials in Equatorial Guinea announce that incumbent President Teodoro Obiang Nguema won the presidential election with 96.7% of the vote, as the opposition claims irregularities. ](/news/2009/11/30/officials-in-equatorial-guinea-announce-that-incumbent-president-teodoro-obiang-nguema-won-the-presidential-election-with-96-7-of-the-vote.md)
-_Context: Teodoro Obiang Nguema, presidential election, Equatorial Guinea_
+_Context: presidential election, Equatorial Guinea, Teodoro Obiang Nguema_
 
 ##### China
 ### [ In a major provincial leadership reshuffle in the People's Republic of China, Lu Zhangong was appointed secretary of the Henan CPC Provincial Committee, replacing Xu Guangchun. Sun Chunlan was appointed secretary of the Fujian CPC Committee. Former Jilin Party chief Wang Min was appointed secretary of the Liaoning CPC Committee, replacing Zhang Wenyue. Former Minister of Agriculture Sun Zhengcai took over as Party chief of Jilin Province. And former governor of Hebei Hu Chunhua was appointed Party chief of Inner Mongolia Autonomous Region, replacing Chu Bo, who retired.](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.md)
-_Context: Chu Bo, Xu Guangchun, Hu Chunhua, Fujian, Lu Zhangong, Hebei, Inner Mongolia, Sun Chunlan, China, Wang Min, Zhang Wenyue, Sun Zhengcai, Henan_
+_Context: Lu Zhangong, Chu Bo, Hebei, Henan, Xu Guangchun, Hu Chunhua, China, Zhang Wenyue, Sun Chunlan, Wang Min, Inner Mongolia, Sun Zhengcai, Fujian_
 
 ##### Tyumen
 ### [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md)
-_Context: Caucasus, Dagestan, Russia, Baku, Tyumen, Azerbaijan_
+_Context: Baku, Caucasus, Azerbaijan, Tyumen, Russia, Dagestan_
 
 ##### Spain
 ### [ Three Spanish aid workers are kidnapped in northern Mauritania, after they became separated from an aid convoy. ](/news/2009/11/30/three-spanish-aid-workers-are-kidnapped-in-northern-mauritania-after-they-became-separated-from-an-aid-convoy.md)
@@ -29,11 +29,11 @@ _Context: Spain, Mauritanian_
 
 ##### Agathon Rwasa
 ### [ Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. ](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.md)
-_Context: National Liberation Forces, Burundi, Agathon Rwasa_
+_Context: National Liberation Forces, Agathon Rwasa, Burundi_
 
 ##### New railway station
 ### [ A new railway station opens in Workington, providing a link across the River Derwent after all but one of the bridges in the town were put out of action by floods. ](/news/2009/11/30/a-new-railway-station-opens-in-workington-providing-a-link-across-the-river-derwent-after-all-but-one-of-the-bridges-in-the-town-were-put.md)
-_Context: new railway station, Workington, River Derwent, floods_
+_Context: floods, Workington, River Derwent, new railway station_
 
 ##### John Demjanjuk
 ### [ John Demjanjuk goes on trial in Munich accused of war crimes relating to the killing of 27,000 Jews in the Holocaust. ](/news/2009/11/30/john-demjanjuk-goes-on-trial-in-munich-accused-of-war-crimes-relating-to-the-killing-of-27-000-jews-in-the-holocaust.md)
@@ -45,11 +45,11 @@ _Context: Large Hadron Collider_
 
 ##### Seattle
 ### [ Police in Seattle report that the suspect, Maurice Clemmons, shot in the murder of four police officers in Parkland, Washington, is on the run. ](/news/2009/11/30/police-in-seattle-report-that-the-suspect-maurice-clemmons-shot-in-the-murder-of-four-police-officers-in-parkland-washington-is-on-the.md)
-_Context: 2009 shooting of Lakewood, Washington, police officers, Parkland, Washington, Maurice Clemmons, Seattle_
+_Context: Maurice Clemmons, 2009 shooting of Lakewood, Washington, police officers, Seattle, Parkland, Washington_
 
 ##### Argonne National Laboratory
 ### [ Argonne National Laboratory announces that nanodiscs, made from an iron-nickel alloy and subjected to a magnetic field, destroy 90 percent of cancer cells in tests. ](/news/2009/11/30/argonne-national-laboratory-announces-that-nanodiscs-made-from-an-iron-nickel-alloy-and-subjected-to-a-magnetic-field-destroy-90-percent.md)
-_Context: alloy, Argonne National Laboratory, nickel, magnetic field, cancer cell, iron, nanodisc_
+_Context: alloy, cancer cell, magnetic field, Argonne National Laboratory, nickel, nanodisc, iron_
 
 ##### Gloria Macapagal-Arroyo
 ### [ Philippine President Gloria Macapagal-Arroyo announces she will run for Congress. ](/news/2009/11/30/philippine-president-gloria-macapagal-arroyo-announces-she-will-run-for-congress.md)

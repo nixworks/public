@@ -9,7 +9,7 @@ UPDATE: Voters approve Proposition 8 banning same-sex marriages. With more than 
 
 ##### Kivu conflict
 ### [ In a continuation of the Kivu conflict, General Nkunda's forces capture Kiwanja, near Rutshuru in the Democratic Republic of the Congo, after a two-day battle with the pro-government militias. ](/news/2008/11/5/in-a-continuation-of-the-kivu-conflict-general-nkunda-s-forces-capture-kiwanja-near-rutshuru-in-the-democratic-republic-of-the-congo-aft.md)
-_Context: Laurent Nkunda, Kivu conflict, Rutshuru, DR Congo, Kiwanja_
+_Context: DR Congo, Rutshuru, Laurent Nkunda, Kivu conflict, Kiwanja_
 
 ##### India
 ### [ India's Gagan Narang wins a gold medal in the men's 10 metre air rifle event at the 2008 ISSF World Cup Final, breaking the world record. ](/news/2008/11/5/india-s-gagan-narang-wins-a-gold-medal-in-the-men-s-10-metre-air-rifle-event-at-the-2008-issf-world-cup-final-breaking-the-world-record.md)

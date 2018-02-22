@@ -5,11 +5,11 @@ Formats: [HTML](2011/08/18/index.html)  [JSON](2011/08/18/index.json)  [XML](201
 
 ##### Minibus
 ### [At least fourteen people die after a minibus hits a roadside bomb in Afganistan's Herat province. ](/news/2011/08/18/at-least-fourteen-people-die-after-a-minibus-hits-a-roadside-bomb-in-afganistan-s-herat-province.md)
-_Context: Afganistan, minibus, Herat Province_
+_Context: Herat Province, Afganistan, minibus_
 
 ##### Turkey
 ### [Turkey launches an air strike on PKK positions in northern Iraq. ](/news/2011/08/18/turkey-launches-an-air-strike-on-pkk-positions-in-northern-iraq.md)
-_Context: air strike, Turkey, Iraq_
+_Context: Turkey, air strike, Iraq_
 
 ##### Eight people are killed
 ### [Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.md)
@@ -29,7 +29,7 @@ Flooding in the southern Pakistani province of Sindh has left more than 60,000 p
 
 ##### Australian Broadcasting Corporation
 ### [An Australian Broadcasting Corporation helicopter goes missing near Lake Eyre in outback South Australia with journalist Paul Lockyer, pilot Gary Ticehurst and cameraman John Bean feared dead. ](/news/2011/08/18/an-australian-broadcasting-corporation-helicopter-goes-missing-near-lake-eyre-in-outback-south-australia-with-journalist-paul-lockyer-pilot.md)
-_Context: Paul Lockyer, outback, Australian Broadcasting Corporation, South Australia, Lake Eyre_
+_Context: Australian Broadcasting Corporation, Lake Eyre, Paul Lockyer, South Australia, outback_
 
 ##### Rabbi
 ### [A rabbi in the U.S. state of New Jersey has been indicted for alleged sex crimes against two 13-year-old Israeli boys who were visiting the rabbi through a scholarship fund. The two boys had reported the abuse separately following their return. ](/news/2011/08/18/a-rabbi-in-the-u-s-state-of-new-jersey-has-been-indicted-for-alleged-sex-crimes-against-two-13-year-old-israeli-boys-who-were-visiting-the.md)
@@ -45,7 +45,7 @@ A man who bravely tried to prevent a group of rioters from looting a mobile phon
 
 ##### Roch Wamytan
 ### [Roch Wamytan is elected President of the Congress of New Caledonia by the Congress of New Caledonia with 32 votes. ](/news/2011/08/18/roch-wamytan-is-elected-president-of-the-congress-of-new-caledonia-by-the-congress-of-new-caledonia-with-32-votes.md)
-_Context: President of the Congress of New Caledonia, Congress of New Caledonia, Roch Wamytan_
+_Context: Roch Wamytan, Congress of New Caledonia, President of the Congress of New Caledonia_
 
 ## [Previous Day...](/news/2011/08/17/index.md)
 

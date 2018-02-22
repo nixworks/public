@@ -5,19 +5,19 @@ Formats: [HTML](2009/11/17/index.html)  [JSON](2009/11/17/index.json)  [XML](200
 
 ##### Human rights
 ### [ A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. ](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.md)
-_Context: Canary Islands', human rights, Western Sahara, hunger strike, Aminatou Haidar, Spain_
+_Context: Aminatou Haidar, Western Sahara, Canary Islands', human rights, Spain, hunger strike_
 
 ##### Comoros
 ### [ The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. ](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.md)
-_Context: Comoros, Ahmed Abdallah Mohamed Sambi, President_
+_Context: Ahmed Abdallah Mohamed Sambi, President, Comoros_
 
 ##### Slovakia
 ### [ Slovakia and the Czech Republic mark the 20th anniversary of the Velvet Revolution which overthrew the communist government of Czechoslovakia. ](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.md)
-_Context: Czechoslovakia, Slovakia, Velvet Revolution, Czech Republic, communism_
+_Context: communism, Czech Republic, Czechoslovakia, Slovakia, Velvet Revolution_
 
 ##### Russia
 ### [ A Russian icebreaker with 100 tourists on board is stranded in ice in the Antarctic. ](/news/2009/11/17/a-russian-icebreaker-with-100-tourists-on-board-is-stranded-in-ice-in-the-antarctic.md)
-_Context: Antarctic, Russia_
+_Context: Russia, Antarctic_
 
 ##### Israel
 ### [ Israel approves a further 900 settler homes in a settlement in East Jerusalem. ](/news/2009/11/17/israel-approves-a-further-900-settler-homes-in-a-settlement-in-east-jerusalem.md)
@@ -33,7 +33,7 @@ Charges against two Indonesian anti-corruption officials should be dropped, a pr
 
 ##### South Africa
 ### [ South African human rights activist Kumi Naidoo becomes the executive director of Greenpeace, the first African to head the organisation. ](/news/2009/11/17/south-african-human-rights-activist-kumi-naidoo-becomes-the-executive-director-of-greenpeace-the-first-african-to-head-the-organisation.md)
-_Context: human rights activist, South Africa, Kumi Naidoo, Greenpeace India's_
+_Context: South Africa, human rights activist, Kumi Naidoo, Greenpeace India's_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama continues his first trip to China and meets with Chinese President Hu Jintao and Premier Wen Jiabao. ](/news/2009/11/17/u-s-president-barack-obama-continues-his-first-trip-to-china-and-meets-with-chinese-president-hu-jintao-and-premier-wen-jiabao.md)
@@ -45,7 +45,7 @@ Up to 50 feared drowned after nighttime ferry collision in Irrawady delta region
 
 ##### The Original of Laura
 ### [ "The Original of Laura", an incomplete novel by Russian writer Vladimir Nabokov, is published 32 years after his death despite his wish that its manuscript be burned. ](/news/2009/11/17/the-original-of-laura-an-incomplete-novel-by-russian-writer-vladimir-nabokov-is-published-32-years-after-his-death-despite-his-wish-tha.md)
-_Context: The Original of Laura, Vladimir Nabokov_
+_Context: Vladimir Nabokov, The Original of Laura_
 
 ## [Previous Day...](/news/2009/11/16/index.md)
 

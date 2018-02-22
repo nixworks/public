@@ -13,7 +13,7 @@ _Context: Military of the United States, Iraq, Anbar province_
 
 ##### ACLU
 ### [ An ACLU lawsuit challenges gag orders in National Security Letters. ](/news/2008/09/1/an-aclu-lawsuit-challenges-gag-orders-in-national-security-letters.md)
-_Context: National Security Letter, ACLU, gag order_
+_Context: National Security Letter, gag order, ACLU_
 
 ##### Tropical Storm Hanna
 ### [ Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the-turks-and-caicos.md)
@@ -25,11 +25,11 @@ _Context: Moscow, European Union,  Georgian_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
-_Context: Liberal Democratic Party (Japan) leadership election, 2008, Yasuo Fukuda, Japan_
+_Context: Liberal Democratic Party (Japan) leadership election, 2008, Japan, Yasuo Fukuda_
 
 ##### Government of Orissa
 ### [ A Government of Orissa report states 558 houses and 17 places of worship were burnt in the 2008 Orissa violence. ](/news/2008/09/1/a-government-of-orissa-report-states-558-houses-and-17-places-of-worship-were-burnt-in-the-2008-orissa-violence.md)
-_Context: Government of Orissa, 2008 Orissa violence, house_
+_Context: house, 2008 Orissa violence, Government of Orissa_
 
 ##### Manchester City
 ### [ Manchester City Football Club is bought out by the Abu Dhabi United Group for Investment and Development Limited, the consortium led by Sheikh Mansour bin Zayed Al Nahyan. This effectively made City the richest Football Club in the world. It also made Transfer Deadline Day one of the most memorable, with City's new found wealth allowing them to bid for such players as Dimitar Berbatov, Fernando Torres, Mario Gomez and David Villa. They eventually signed Robinho for a British Record Fee of GBP32.5million. The takeover and the Robinho deal as a whole sent shockwaves throughout the Sporting world. ](/news/2008/09/1/manchester-city-football-club-is-bought-out-by-the-abu-dhabi-united-group-for-investment-and-development-limited-the-consortium-led-by-she.md)

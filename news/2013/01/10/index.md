@@ -25,11 +25,11 @@ A senior Metropolitan Police detective is found guilty of trying to sell informa
 
 ##### Gunman opened fire
 ### [A gunman opened fire inside a classroom of Taft Union High School in Taft, California. A 16-year-old student was critically wounded, and another student was shot at but was not injured. The gunman surrendered after the classroom's teacher ordered him to drop his weapon. The teacher also suffered minor injuries after being struck by a shotgun pellet. A 16-year-old student, the suspected gunman, was arrested. ](/news/2013/01/10/a-gunman-opened-fire-inside-a-classroom-of-taft-union-high-school-in-taft-california-a-16-year-old-student-was-critically-wounded-and-ano.md)
-_Context: Taft Union High School, Taft, California, pellet, gunman opened fire_
+_Context: Taft, California, Taft Union High School, gunman opened fire, pellet_
 
 ##### U.S. President
 ### [U.S. President Barack Obama nominates White House Chief of Staff Jack Lew to be the next Secretary of the Treasury. ](/news/2013/01/10/u-s-president-barack-obama-nominates-white-house-chief-of-staff-jack-lew-to-be-the-next-secretary-of-the-treasury.md)
-_Context: Barack Obama, United States Secretary of the Treasury, Jack Lew, U.S. President, White House Chief of Staff_
+_Context: Jack Lew, Barack Obama, White House Chief of Staff, U.S. President, United States Secretary of the Treasury_
 
 ##### Near-Earth asteroid
 ### [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md)

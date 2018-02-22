@@ -21,7 +21,7 @@ _Context: United States Navy SEAL_
 
 ##### Pakistan International Airlines
 ### [At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. ](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.md)
-_Context: Bacha Khan International Airport, Pakistan International Airlines, Peshawar_
+_Context: Peshawar, Bacha Khan International Airport, Pakistan International Airlines_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's "La Monumental" bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into-a.md)
@@ -41,7 +41,7 @@ Strikes by French air traffic control staff have led to dozens of European fligh
 
 ##### Trawler
 ### [Nine commercial fisherman are killed and three others are missing after two fishing trawlers collide near Pisco in central Peru. ](/news/2014/06/24/nine-commercial-fisherman-are-killed-and-three-others-are-missing-after-two-fishing-trawlers-collide-near-pisco-in-central-peru.md)
-_Context: Pisco, trawler_
+_Context: trawler, Pisco_
 
 ##### Sinking of the MV ''Sewol''
 ### [The South Korean trial of the captain and 14 crew members in relation to the Sinking of the MV Sewol begins. ](/news/2014/06/24/the-south-korean-trial-of-the-captain-and-14-crew-members-in-relation-to-the-sinking-of-the-mv-sewol-begins.md)
@@ -61,7 +61,7 @@ _Context: Prime Minister_
 
 ##### Coalition government
 ### [A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. ](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.md)
-_Context: coalition government, Swedish-speaking Finn_
+_Context: Swedish-speaking Finn, coalition government_
 
 ## [Previous Day...](/news/2014/06/23/index.md)
 

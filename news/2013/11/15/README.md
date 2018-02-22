@@ -5,11 +5,11 @@ Formats: [HTML](2013/11/15/index.html)  [JSON](2013/11/15/index.json)  [XML](201
 
 ##### North Korea
 ### [North Korea denies giving military aid to Syria. ](/news/2013/11/15/north-korea-denies-giving-military-aid-to-syria.md)
-_Context: North Korea, Syria_
+_Context: Syria, North Korea_
 
 ##### United Nations
 ### [The United Nations tallies the death toll to around 4,400. The Red Cross estimates that around 20,000 are still missing, many of whom are feared dead. This is contrary to a previous estimate by Benigno Aquino III, who put the death toll to a low 2,000. ](/news/2013/11/15/the-united-nations-tallies-the-death-toll-to-around-4-400-the-red-cross-estimates-that-around-20-000-are-still-missing-many-of-whom-are-fe.md)
-_Context: his predecessor, United Nations, Red Cross_
+_Context: his predecessor, Red Cross, United Nations_
 
 ##### Mangala Lakshadweep Express
 ### [At least five people are killed and 10 injured after four coaches of the Mangala Lakshadweep Express derail near the Indian city of Nashik in Maharashtra state. ](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.md)
@@ -25,7 +25,7 @@ Twelve migrants, including four children, drowned on Friday after their boat cap
 
 ##### Gambia
 ### [Gambia cuts diplomatic relations with Taiwan. ](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.md)
-_Context: diplomatic relations, Taiwan, Gambia_
+_Context: Gambia, Taiwan, diplomatic relations_
 
 ##### Ethiopia
 ### [Police in Ethiopia arrest dozens of people outside the Saudi Arabian embassy in the capital Addis Ababa who were protesting against attacks on Ethiopians in Saudi Arabia. ](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.md)
@@ -33,7 +33,7 @@ Police crackdown on demonstrations against targeted attacks on Ethiopian migrant
 
 ##### Australia
 ### [Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. ](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.md)
-_Context: Queensland, American, Australia, manslaughter by gross negligence, Jayant Patel_
+_Context: Queensland, Australia, American, manslaughter by gross negligence, Jayant Patel_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court says that it will hear a securities fraud case this term that arises out of the asbestos liabilities of Halliburton, an oilfield services company. ](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.md)

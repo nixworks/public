@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/24/index.html)  [JSON](2009/11/24/index.json)  [XML](200
 
 ##### Casablanca
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)
-_Context: Morocco, Chahib Khayari, Casablanca_
+_Context: Morocco, Casablanca, Chahib Khayari_
 
-##### France
+##### French
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
-_Context: France, Central African Republic_
+_Context: French, Central African Republic_
 
 ##### Netanya
 ### [ Four people are killed in a helicopter crash off the coast of Netanya in northern Israel. ](/news/2009/11/24/four-people-are-killed-in-a-helicopter-crash-off-the-coast-of-netanya-in-northern-israel.md)
@@ -29,7 +29,7 @@ _Context: homosexual, Adam Lambert, United States_
 
 ##### Iran
 ### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
-_Context: banned, Hamshahri, Baha'i faith, Iran_
+_Context: Hamshahri, Iran, Baha'i faith, banned_
 
 ##### DR Congo
 ### [ The trial of two Congolese militia leaders, Germain Katanga and Mathieu Ngudjolo Chui, begins at the International Criminal Court in The Hague. ](/news/2009/11/24/the-trial-of-two-congolese-militia-leaders-germain-katanga-and-mathieu-ngudjolo-chui-begins-at-the-international-criminal-court-in-the-ha.md)
@@ -45,7 +45,7 @@ _Context: European Union, European Parliament_
 
 ##### Inquiry opens
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
-_Context: United Kingdom, Iraq War, inquiry opens_
+_Context: inquiry opens, United Kingdom, Iraq War_
 
 ##### Ukraine
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
@@ -57,7 +57,7 @@ State media says two executed over tainted milk that sickened thousands in 2008.
 
 ##### Hindu
 ### [ In a tribute to Hindu goddess Gadhimai, approximately 20,000 buffalo and 300,000 birds, sheep and goats are ritually slaughtered in a festival in Bariyapur, Nepal. ](/news/2009/11/24/in-a-tribute-to-hindu-goddess-gadhimai-approximately-20-000-buffalo-and-300-000-birds-sheep-and-goats-are-ritually-slaughtered-in-a-festi.md)
-_Context: Nepal, Hindu, ritually slaughtered, Gadhimai, festival, goddess, Bariyapur_
+_Context: Nepal, ritually slaughtered, Gadhimai, Hindu, goddess, festival, Bariyapur_
 
 ##### Gloria Macapagal Arroyo
 ### [ Philippine President Gloria Macapagal Arroyo declares a state of emergency in the entire Maguindanao province in southern Philippines following the bloodiest election-related massacre in Philippine history which left at least 40 people dead, including a local politician and about a dozen journalists. ](/news/2009/11/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-the-entire-maguindanao-province-in-southern-philippines-follo.md)
@@ -65,11 +65,11 @@ _Context: Nepal, Hindu, ritually slaughtered, Gadhimai, festival, goddess, Bariy
 
 ##### 2009 gubernatorial election and runoff
 ### [ In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider by 501 votes. ](/news/2009/11/24/in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitial-of-the-covenant-party-leads-republican-party-rep-hei.md)
-_Context: 2009 gubernatorial election and runoff, Governor of the Northern Mariana Islands, Benigno Fitial, Northern Mariana Islands, Covenant Party, second round, Heinz Hofschneider, Northern Mariana Islands House of Representatives, Republican_
+_Context: Heinz Hofschneider, Northern Mariana Islands House of Representatives, second round, 2009 gubernatorial election and runoff, Covenant Party, Governor of the Northern Mariana Islands, Republican, Northern Mariana Islands, Benigno Fitial_
 
 ##### Opera
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)
-_Context: blocks mentions, China, Opera_
+_Context: Opera, blocks mentions, China_
 
 ## [Previous Day...](/news/2009/11/23/index.md)
 

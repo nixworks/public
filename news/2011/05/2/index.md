@@ -15,7 +15,7 @@ Al Jazeera demands information from Syria on whereabouts of journalist missing s
 ### [Bahraini uprising (2011-present): Bahrain arrests two senior members of the Opposition Al Wefaq party, Jawad Ferooz and Mattar Ibrahim Mattar. ](/news/2011/05/2/bahraini-uprising-2011apresent-bahrain-arrests-two-senior-members-of-the-opposition-al-wefaq-party-jawad-ferooz-and-mattar-ibrahim-mat.md)
 Two prominent members of the Al Wefaq party held after one of them criticised the government publically.
 
-##### Civil war
+##### Muammar Gaddafi
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 
@@ -25,7 +25,7 @@ A suicide bomber said to be aged 12 kills four people in east Afghanistan, one o
 
 ##### Sri Lanka
 ### [Thousands of Sri Lankans protest against a United Nations report calling for both sides involved in the civil war to be investigated for possible war crimes. ](/news/2011/05/2/thousands-of-sri-lankans-protest-against-a-united-nations-report-calling-for-both-sides-involved-in-the-civil-war-to-be-investigated-for-pos.md)
-_Context: Sri Lankan Civil War, United Nations, Sri Lanka_
+_Context: Sri Lanka, United Nations, Sri Lankan Civil War_
 
 ##### Oil prices
 ### [Oil prices fall following news that U.S. forces have killed al-Qaeda leader Osama bin Laden. ](/news/2011/05/2/oil-prices-fall-following-news-that-u-s-forces-have-killed-al-qaeda-leader-osama-bin-laden.md)
@@ -49,7 +49,7 @@ A witness says at least 106 people are missing after a boat capsized on a river 
 
 ##### Arunachal Pradesh
 ### [A massive search operation continues amid severe weather conditions for the helicopter of Arunachal Pradesh's chief minister Dorjee Khandu which disappeared while carrying him and four other people. ](/news/2011/05/2/a-massive-search-operation-continues-amid-severe-weather-conditions-for-the-helicopter-of-arunachal-pradesh-s-chief-minister-dorjee-khandu-w.md)
-_Context: Dorjee Khandu, Arunachal Pradesh_
+_Context: Arunachal Pradesh, Dorjee Khandu_
 
 ##### United States Army Corps of Engineers
 ### [The United States Army Corps of Engineers explodes a large part of a Mississippi River levee to protect the Illinois town of Cairo from floodwaters. ](/news/2011/05/2/the-united-states-army-corps-of-engineers-explodes-a-large-part-of-a-mississippi-river-levee-to-protect-the-illinois-town-of-cairo-from-floo.md)
@@ -69,7 +69,7 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 
 ##### President
 ### [President of Brazil Dilma Rousseff is hospitalised with pneumonia in SGBPo Paulo. ](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalised-with-pneumonia-in-sagbpo-paulo.md)
-_Context: Dilma Rousseff, pneumonia, president, SGBPo Paulo_
+_Context: pneumonia, SGBPo Paulo, president, Dilma Rousseff_
 
 ## [Previous Day...](/news/2011/05/1/index.md)
 

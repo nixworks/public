@@ -21,7 +21,7 @@ The Russian president has repealed the ban prohibiting the delivery of S-300 mis
 
 ##### Libyan Civil War (2014-present)
 ### [In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south-korean-mission-isil-loyalists-tak.md)
-_Context: Libyan Civil War (2014-present), ISIL, Tripoli_
+_Context: Tripoli, Libyan Civil War (2014-present), ISIL_
 
 ##### Managua
 ### [An American man working at Managua's U.S. embassy provokes a security scare in Nicaragua; the country's health ministry quarantines the Ebola suspect and asks that he be removed from the country immediately. ](/news/2015/04/13/an-american-man-working-at-managua-s-u-s-embassy-provokes-a-security-scare-in-nicaragua-the-country-s-health-ministry-quarantines-the-ebol.md)
@@ -49,7 +49,7 @@ _Context: Tulsa, Oklahoma, manslaughter by gross negligence_
 
 ##### 2016 U.S. election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: Marco Rubio, Senator, candidacy, 2016 U.S. election, Republican, Florida_
+_Context: Republican, Marco Rubio, Florida, Senator, candidacy, 2016 U.S. election_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

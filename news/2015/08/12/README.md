@@ -25,7 +25,7 @@ At least 17 people are killed and hundreds injured, state media report, as huge 
 
 ##### U.S. Army
 ### [A U.S. Army Sikorsky UH-60 Black Hawk helicopter crashes while landing on a U.S. Navy cargo vessel near the Japanese island of Okinawa, with seven people injured. ](/news/2015/08/12/a-u-s-army-sikorsky-uh-60-black-hawk-helicopter-crashes-while-landing-on-a-u-s-navy-cargo-vessel-near-the-japanese-island-of-okinawa-with.md)
-_Context: Japan, U.S. Navy, UH-60 Black Hawk, Okinawa, helicopter, U.S. Army_
+_Context: helicopter, Japan, UH-60 Black Hawk, Okinawa, U.S. Navy, U.S. Army_
 
 ##### Heat wave
 ### [The death toll from a heat wave in Egypt this week rises to 60. ](/news/2015/08/12/the-death-toll-from-a-heat-wave-in-egypt-this-week-rises-to-60.md)
@@ -37,19 +37,19 @@ Seven people are arrested in eastern Pakistan on suspicion of involvement in a w
 
 ##### U.S. President
 ### [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md)
-_Context: surgery, liver, U.S. President, spread, cancer, Jimmy Carter_
+_Context: spread, U.S. President, surgery, Jimmy Carter, cancer, liver_
 
 ##### North Korea
 ### [North Korea's vice premier Choe Yong-gon is believed to have been executed by firing squad this year for voicing frustration at the policies of leader Kim Jong-Un. ](/news/2015/08/12/north-korea-s-vice-premier-choe-yong-gon-is-believed-to-have-been-executed-by-firing-squad-this-year-for-voicing-frustration-at-the-policies.md)
-_Context: Kim Jong-Un, Choe Yong-gon, North Korea_
+_Context: Kim Jong-Un, North Korea, Choe Yong-gon_
 
 ##### South Korea
 ### [A South Korean man is seriously injured after self-immolation during a protest against Japan's use of South Korean women as sex slaves during World War II. ](/news/2015/08/12/a-south-korean-man-is-seriously-injured-after-self-immolation-during-a-protest-against-japan-s-use-of-south-korean-women-as-sex-slaves-durin.md)
-_Context: self-immolation, World War II, sex slaves, Japan, South Korea_
+_Context: sex slaves, World War II, South Korea, self-immolation, Japan_
 
 ##### Dsi Bouterse
 ### [Dsi Bouterse is sworn in for a second term as President of Suriname. ](/news/2015/08/12/desi-bouterse-is-sworn-in-for-a-second-term-as-president-of-suriname.md)
-_Context: Dsi Bouterse, President of Suriname_
+_Context: President of Suriname, Dsi Bouterse_
 
 ## [Previous Day...](/news/2015/08/11/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/4/index.html)  [JSON](2006/08/4/index.json)  [XML](2006/
 
 ##### Domesday Book
 ### [ The Domesday Book, the 920-year-old census record of England under William the Conqueror, goes online. ](/news/2006/08/4/the-domesday-book-the-920-year-old-census-record-of-england-under-william-the-conqueror-goes-online.md)
-_Context: Domesday Book, census, England, William_
+_Context: England, William, Domesday Book, census_
 
 ##### Lord's Resistance Army
 ### [ Lord's Resistance Army second-in-command Vincent Otti declares an immediate, unilateral ceasefire in the rebel group's 20-year insurgency against the government of Uganda.](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.md)

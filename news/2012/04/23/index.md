@@ -17,7 +17,7 @@ Shells and gunfire from Syrian security forces have killed 33 people in the city
 
 ##### William Shakespeare
 ### [A festival of William Shakespeare's 37 plays performed polyglotically, from Swahili to sign language, begins as part of the World Shakespeare Festival on the anniversary of the Bard of Avon's birth. ](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.md)
-_Context: William Shakespeare, sign language, Swahili_
+_Context: William Shakespeare, Swahili, sign language_
 
 ##### Tiago Klimeck
 ### [Brazilian actor Tiago Klimeck dies at the age of 27 after accidentally hanging himself while playing Judas in an Easter Passion play performed in Itarare, SGBPo Paulo. ](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.md)
@@ -29,19 +29,19 @@ _Context: White House_
 
 ##### Kazakhstan
 ### [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md)
-_Context: Sacha Baron Cohen, Borat Sagdiyev, Kazakhstan_
+_Context: Borat Sagdiyev, Sacha Baron Cohen, Kazakhstan_
 
 ##### European Union
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: Myanmar, European Union_
+_Context: European Union, Myanmar_
 
 ##### North Korea
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
-_Context: South Korea, failed North Korean rocket launch, North Korea_
+_Context: South Korea, North Korea, failed North Korean rocket launch_
 
 ##### Chinese
 ### [In accordance with a request from the South Korean government, China stops the deportation of North Korean defectors who escape to China. ](/news/2012/04/23/in-accordance-with-a-request-from-the-south-korean-government-china-stops-the-deportation-of-north-korean-defectors-who-escape-to-china.md)
-_Context: defects, Chinese_
+_Context: Chinese, defects_
 
 ##### Geir Haarde
 ### [Former Icelandic prime minister Geir Haarde is found not guilty of negligence over the island's 2008 economic meltdown. He is to face no punishment and his legal expenses are to be paid. ](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.md)
@@ -61,7 +61,7 @@ The police chief who chose not to arrest George Zimmerman after he shot and kill
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, North Carolina, an affair, United States Senate_
+_Context: North Carolina, United States Senate, John Edwards, an affair_
 
 ##### Chinese
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
@@ -73,11 +73,11 @@ Three men appear in court in Newry charged with involvement in terrorist activit
 
 ##### Prime Minister
 ### [Prime Minister of the Netherlands Mark Rutte tenders his government's resignation to Queen Beatrix, paving the way for early elections. ](/news/2012/04/23/prime-minister-of-the-netherlands-mark-rutte-tenders-his-government-s-resignation-to-queen-beatrix-paving-the-way-for-early-elections.md)
-_Context: Mark Rutte, Prime Minister, Beatrix_
+_Context: Beatrix, Mark Rutte, Prime Minister_
 
 ##### Burma
 ### [Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. ](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.md)
-_Context: parliament, Aung San Suu Kyi, National League for Democracy, Burma, oath of office_
+_Context: Burma, National League for Democracy, parliament, Aung San Suu Kyi, oath of office_
 
 ##### Canadian
 ### [Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. ](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.md)

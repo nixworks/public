@@ -21,7 +21,7 @@ _Context: Human Rights Council_
 
 ##### Outburst
 ### [At least 21 people are killed and five are wounded in an outburst at a colliery in Puding County, Anshun, Guizhou. ](/news/2010/05/13/at-least-21-people-are-killed-and-five-are-wounded-in-an-outburst-at-a-colliery-in-puding-county-anshun-guizhou.md)
-_Context: Puding County, outburst, coal mine, Guizhou, Anshun_
+_Context: Guizhou, Anshun, Puding County, outburst, coal mine_
 
 ##### Human Rights Watch
 ### [A report from Human Rights Watch claims that the Israeli army unlawfully destroyed civilian property in the Gaza War of 2008 and 2009, while the Israeli army asserts they only targeted property used for combat or terrorist activities. ](/news/2010/05/13/a-report-from-human-rights-watch-claims-that-the-israeli-army-unlawfully-destroyed-civilian-property-in-the-gaza-war-of-2008-and-2009-while.md)
@@ -45,11 +45,11 @@ Pope Benedict XVI&#39;s outdoor mass at Fatima has taken place amid heavy rain d
 
 ##### .rf
 ### [The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on ".rf" are ](/news/2010/05/13/the-nn-rf-russian-federation-cyrillic-country-code-top-level-domain-cctld-is-officially-launched-the-fourth-internationalized.md)
-_Context: Cyrillic script, top-level domain, Russian Federation, country code, internationalized country code, .rf_
+_Context: Cyrillic script, .rf, top-level domain, internationalized country code, country code, Russian Federation_
 
 ##### Polio
 ### [The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. ](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.md)
-_Context: polio, Tajikistan_
+_Context: Tajikistan, polio_
 
 ##### Kyrgyzstan
 ### [Supporters of ousted Kyrgyz President Kurmanbek Bakiyev seize government buildings in the south of the country. ](/news/2010/05/13/supporters-of-ousted-kyrgyz-president-kurmanbek-bakiyev-seize-government-buildings-in-the-south-of-the-country.md)
@@ -57,7 +57,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
 ##### Nigeria
 ### [One of Nigeria's most influential politicians, James Ibori, is arrested on corruption charges in Dubai. ](/news/2010/05/13/one-of-nigeria-s-most-influential-politicians-james-ibori-is-arrested-on-corruption-charges-in-dubai.md)
-_Context: Dubai, Nigeria, anti-corruption, James Ibori_
+_Context: Dubai, anti-corruption, James Ibori, Nigeria_
 
 ##### Sudan
 ### [Sudan asks Interpol to arrest Justice and Equality Movement chief Khalil Ibrahim. ](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.md)
@@ -69,7 +69,7 @@ New York Daily NewsThe scene at the corner of W 45th St. and Broadway in the hea
 
 ##### U.S. state
 ### [The U.S. state of Hawaii enacts a law permitting officials to ignore multiple attempts by the same person to view the birth certificate of President of the United States Barack Obama. ](/news/2010/05/13/the-u-s-state-of-hawaii-enacts-a-law-permitting-officials-to-ignore-multiple-attempts-by-the-same-person-to-view-the-birth-certificate-of-p.md)
-_Context: Hawaii, U.S. state, Barack Obama, U.S. President_
+_Context: Hawaii, Barack Obama, U.S. President, U.S. state_
 
 ## [Previous Day...](/news/2010/05/12/index.md)
 

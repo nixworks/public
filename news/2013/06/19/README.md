@@ -21,15 +21,15 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 
 ##### Indian Army
 ### [The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. ](/news/2013/06/19/the-indian-army-is-deployed-to-help-rescue-people-in-the-flood-hit-northern-states-of-uttarakhand-and-himachal-pradesh-where-the-number-of.md)
-_Context: Himachal Pradesh, Uttarakhand, Indian Army_
+_Context: Himachal Pradesh, Indian Army, Uttarakhand_
 
 ##### Samara Oblast
 ### [A man is killed and more than 6,000 people are evacuated following an explosion at an arms depot in the Samara Oblast in central Russia. ](/news/2013/06/19/a-man-is-killed-and-more-than-6-000-people-are-evacuated-following-an-explosion-at-an-arms-depot-in-the-samara-oblast-in-central-russia.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-##### France
+##### French
 ### [Flash flooding in southwest France claims two victims and causes the shrine at Lourdes to be closed. ](/news/2013/06/19/flash-flooding-in-southwest-france-claims-two-victims-and-causes-the-shrine-at-lourdes-to-be-closed.md)
-_Context: France, Lourdes_
+_Context: Lourdes, French_
 
 ##### Nigel Evans
 ### [Nigel Evans, Deputy Speaker of the UK House of Commons, is arrested on suspicion of three counts of indecent assault. ](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.md)

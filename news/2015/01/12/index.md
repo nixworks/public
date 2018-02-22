@@ -29,15 +29,15 @@ _Context: Romania, Rovinari_
 
 ##### Chinese
 ### [Chinese police kill six attacking militants wearing explosive devices in Xinjiang. ](/news/2015/01/12/chinese-police-kill-six-attacking-militants-wearing-explosive-devices-in-xinjiang.md)
-_Context: Chinese, Xinjiang_
+_Context: Xinjiang, Chinese_
 
 ##### Russian 102nd Military Base
 ### [A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. ](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.md)
-_Context: Gyumri, kills six members, Russian 102nd Military Base, Armenia_
+_Context: Armenia, kills six members, Russian 102nd Military Base, Gyumri_
 
 ##### Albuquerque Police Department
 ### [District Attorney Kari Brandenburg of New Mexico's Second Judicial Circuit federally charges two Albuquerque Police Department officers with murder in the March 16, 2014 shooting death of James Boyd in Albuquerque, New Mexico, U.S. ](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.md)
-_Context: James Boyd, Albuquerque, New Mexico, Albuquerque Police Department_
+_Context: Albuquerque Police Department, James Boyd, Albuquerque, New Mexico_
 
 ##### Contaminated beer
 ### [The death toll from poisoned beer in the Mozambique rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used foxglove flowers (which contain digitalis) for homebrewing locally-derived Pombe beer. ](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozambique-rises-to-at-least-69-with-169-in-hospital-further-medical-experts-begin-to-question-if.md)
@@ -45,7 +45,7 @@ Radio Mozambique has updated the story this morning, confirming that 69 people h
 
 ##### SpaceX CRS-5
 ### [The SpaceX CRS-5 supply ship arrives at the ISS with groceries and Christmas gifts. ](/news/2015/01/12/the-spacex-crs-5-supply-ship-arrives-at-the-iss-with-groceries-and-christmas-gifts.md)
-_Context: ISS, SpaceX CRS-5_
+_Context: SpaceX CRS-5, ISS_
 
 ## [Previous Day...](/news/2015/01/11/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/8/index.html)  [JSON](2005/05/8/index.json)  [XML](2005/
 
 ##### Point guard
 ### [ Point guard Steve Nash of the NBA's Phoenix Suns makes history by becoming the first Canadian to win the NBA's MVP award. Nash edges out Shaquille O'Neal of the Miami Heat by seven votes to win the award. ](/news/2005/05/8/point-guard-steve-nash-of-the-nba-s-phoenix-suns-makes-history-by-becoming-the-first-canadian-to-win-the-nba-s-mvp-award-nash-edges-out-sh.md)
-_Context: basketball, Steve Nash, Phoenix Suns, Most Valuable Player, Shaquille O'Neal, Point guard, Miami Heat_
+_Context: Steve Nash, basketball, Phoenix Suns, Point guard, Shaquille O'Neal, Most Valuable Player, Miami Heat_
 
 ##### (Wikinews)
 ### [ United States President George W. Bush uses the anniversary of V-E Day to call the Soviet Union's occupation of the Baltic states after World War II "one of the greatest wrongs of history". He also attended Europe's third largest war cemetery in the town of Margraten, the Netherlands. ](/news/2005/05/8/united-states-president-george-w-bush-uses-the-anniversary-of-v-e-day-to-call-the-soviet-union-s-occupation-of-the-baltic-states-after-wor.md)
@@ -41,7 +41,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Nepal
 ### [ Seven Nepalese opposition parties join forces against King Gyanendra. ](/news/2005/05/8/seven-nepalese-opposition-parties-join-forces-against-king-gyanendra.md)
-_Context: Gyanendra of Nepal, Nepal_
+_Context: Nepal, Gyanendra of Nepal_
 
 ## [Previous Day...](/news/2005/05/7/index.md)
 

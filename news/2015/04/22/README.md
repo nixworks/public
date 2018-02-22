@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### European Union
 ### [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md)
-_Context: Gazprom, eastern Europe, European Union, Russia, natural gas, Central, antitrust_
+_Context: eastern Europe, Gazprom, natural gas, antitrust, Russia, European Union, Central_
 
 ##### Google
 ### [Google announces a new wireless network in the United States called Project Fi with a pay as you go data rate. ](/news/2015/04/22/google-announces-a-new-wireless-network-in-the-united-states-called-project-fi-with-a-pay-as-you-go-data-rate.md)
@@ -41,11 +41,11 @@ Language in the bill that became entwined with a vote on confirmation of an atto
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
-_Context: BALCO doping scandal, United States Court of Appeals for the Ninth Circuit, Major League Baseball, Barry Bonds, obstruction of justice charges_
+_Context: United States Court of Appeals for the Ninth Circuit, Major League Baseball, obstruction of justice charges, BALCO doping scandal, Barry Bonds_
 
 ##### Anguillan general election, 2015
 ### [Voters in Anguilla go to the polls for a general election with the Anguilla United Front led by Victor Banks elected to government. ](/news/2015/04/22/voters-in-anguilla-go-to-the-polls-for-a-general-election-with-the-anguilla-united-front-led-by-victor-banks-elected-to-government.md)
-_Context: Anguillan general election, 2015, Anguilla United Front, Anguilla_
+_Context: Anguilla, Anguillan general election, 2015, Anguilla United Front_
 
 ## [Previous Day...](/news/2015/04/21/index.md)
 

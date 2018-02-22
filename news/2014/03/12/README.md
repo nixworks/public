@@ -21,7 +21,7 @@ EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injur
 
 ##### San Francisco
 ### [At least 350 apartments are evacuated due to a fire in San Francisco's Mission Bay neighborhood. ](/news/2014/03/12/at-least-350-apartments-are-evacuated-due-to-a-fire-in-san-francisco-s-mission-bay-neighborhood.md)
-_Context: San Francisco, Mission Bay_
+_Context: Mission Bay, San Francisco_
 
 ##### Fiji
 ### [Fiji's Health Department confirms that eleven people have died and over 10,000 people have been infected in an outbreak of the type three strain of dengue fever. ](/news/2014/03/12/fiji-s-health-department-confirms-that-eleven-people-have-died-and-over-10-000-people-have-been-infected-in-an-outbreak-of-the-type-three-st.md)
@@ -29,7 +29,7 @@ Fiji says 11 people have died and over 10,000 others have been infected during a
 
 ##### 2014 Crimean crisis
 ### [Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md)
-_Context: United States, 2014 Crimean crisis, Ukraine, Russia_
+_Context: United States, Russia, 2014 Crimean crisis, Ukraine_
 
 ##### Yeshiva
 ### [A new law levying criminal penalties on yeshiva students who dodge military service in the Israeli Defence Forces passes the Knesset with near unanimous support as the entire opposition boycotts the vote; Yoni Chetboun from Jewish Home is the lone no-voter. ](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.md)

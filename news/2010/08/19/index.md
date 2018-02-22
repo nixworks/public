@@ -17,7 +17,7 @@ Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 ##### United States
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: United States armed forces, United States, brigade, Iraq_
+_Context: United States armed forces, Iraq, United States, brigade_
 
 ##### Winston Churchill
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
@@ -25,7 +25,7 @@ It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured f
 
 ##### Sir Arthur Conan Doyle
 ### [Sir Arthur Conan Doyle's house Undershaw, in which he wrote numerous Sherlock Holmes stories, is slated to be converted into apartments. ](/news/2010/08/19/sir-arthur-conan-doyle-s-house-undershaw-in-which-he-wrote-numerous-sherlock-holmes-stories-is-slated-to-be-converted-into-apartments.md)
-_Context: Undershaw, Sherlock Holmes, Sir Arthur Conan Doyle_
+_Context: Sir Arthur Conan Doyle, Undershaw, Sherlock Holmes_
 
 ##### Scots Makar
 ### [The Scots Makar (national poet) Edwin Morgan, a leading twentieth century poet, dies. ](/news/2010/08/19/the-scots-makar-national-poet-edwin-morgan-a-leading-twentieth-century-poet-dies.md)
@@ -41,7 +41,7 @@ The brightly coloured plastic vuvuzela has achieved its own form of immortality 
 
 ##### Israel
 ### [Two groups in Israel begin pro-Zionist courses in editing Wikipedia. ](/news/2010/08/19/two-groups-in-israel-begin-pro-zionist-courses-in-editing-wikipedia.md)
-_Context: Israel, Wikipedia_
+_Context: Wikipedia, Israel_
 
 ##### Foxconn
 ### [Foxconn states its intention to hire more workers following a rash of suicides among its workforce. ](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.md)
@@ -71,9 +71,9 @@ Two train carriages fell into a river in southwestern China on Thursday after fl
 ### [The United Nations issues a report stating that Israel restricts with live ammunition access to land used for farming and fishing by Palestinians, causing a loss of livelihood for tens of thousands of Palestinians. ](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.md)
 A UN report says the Israeli army has increasingly restricted Palestinian access to farmland in the Gaza Strip and fishing zones along its shore.
 
-##### France
+##### French
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: Roma, France, xenophobic, Bulgaria, Romania_
+_Context: xenophobic, Bulgaria, Roma, French, Romania_
 
 ##### North Korea
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
@@ -85,7 +85,7 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 
 ##### Israeli Army
 ### [Four Israel Defense Forces naval commandos are arrested by Israeli Military Police for suspected theft of laptops and cell phones from activists during May's Gaza flotilla raid. ](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.md)
-_Context: Gaza flotilla raid, laptop, cell phone, Israeli Military Police, Israeli Army_
+_Context: Israeli Army, cell phone, laptop, Gaza flotilla raid, Israeli Military Police_
 
 ##### Sri Lanka
 ### [Former chief of the Sri Lankan armed forces Sarath Fonseka admits he expects to be jailed after being charged with corruption and believes the verdict has been decided in advance; Fonseka has been elected to the Sri Lankan parliament since the charges were pressed. ](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.md)
@@ -113,7 +113,7 @@ Australian Federal Police have raided properties in Perth, Sydney and Melbourne 
 
 ##### Brazil
 ### [Brazil hosts its first presidential debate online, ahead of elections in October. ](/news/2010/08/19/brazil-hosts-its-first-presidential-debate-online-ahead-of-elections-in-october.md)
-_Context: Brazil, Brazilian presidential election_
+_Context: Brazilian presidential election, Brazil_
 
 ##### Burma
 ### [The Burmese authorities announce thirteen new campaigning rules for the general election in November. ](/news/2010/08/19/the-burmese-authorities-announce-thirteen-new-campaigning-rules-for-the-general-election-in-november.md)
@@ -121,7 +121,7 @@ Military-ruled Myanmar Thursday announced restrictions on campaigning for Novemb
 
 ##### Fields Medal
 ### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo BGBPo Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baogbpo-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congr.md)
-_Context: International Congress of Mathematicians, Ngo BGBPo Chau, Stanislav Smirnov, Hyderabad, Cedric Villani, Fields Medal, Elon Lindenstrauss_
+_Context: Hyderabad, Fields Medal, Cedric Villani, Ngo BGBPo Chau, Elon Lindenstrauss, International Congress of Mathematicians, Stanislav Smirnov_
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

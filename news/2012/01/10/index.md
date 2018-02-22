@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/10/index.html)  [JSON](2012/01/10/index.json)  [XML](201
 
 ##### Bombing
 ### [A bombing in Khyber Agency, Pakistan, kills at least 29 people and leaves over 50 others injured. ](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-least-29-people-and-leaves-over-50-others-injured.md)
-_Context: bombing, Khyber Agency_
+_Context: Khyber Agency, bombing_
 
 ##### Amir Mirza Hekmati
 ### [Amir Mirza Hekmati is sentenced to death by Iran's Islamic Revolutionary Court. ](/news/2012/01/10/amir-mirza-hekmati-is-sentenced-to-death-by-iran-s-islamic-revolutionary-court.md)
@@ -21,7 +21,7 @@ Plans for a £33bn high-speed rail network - HS2 - receive a mixed reaction as t
 
 ##### Mitt Romney
 ### [Early reports show that Mitt Romney wins the New Hampshire Republican primary with Ron Paul in second and Jon Huntsman in third. ](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.md)
-_Context: Jon Huntsman, Mitt Romney, Ron Paul, New Hampshire Republican primary_
+_Context: New Hampshire Republican primary, Mitt Romney, Jon Huntsman, Ron Paul_
 
 ## [Previous Day...](/news/2012/01/9/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/16/index.html)  [JSON](2013/05/16/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md)
-_Context: Afghan, suicide bombing, Kabul, Hizb-i-Islami_
+_Context: Hizb-i-Islami, suicide bombing, Afghan, Kabul_
 
 ##### Baghdad
 ### [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
@@ -13,7 +13,7 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 
 ##### Sinai Peninsula
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
-_Context: Egypt, Sinai Peninsula_
+_Context: Sinai Peninsula, Egypt_
 
 ##### Adamawa State
 ### [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
@@ -21,11 +21,11 @@ _Context: Adamawa State_
 
 ##### The Office
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)
-_Context: NBC, The Office_
+_Context: The Office, NBC_
 
 ##### Jenny Colgan
 ### [British author Jenny Colgan wins the 2013 Romantic Novel of the Year Award for her book "Welcome to Rosie Hopkins' Sweetshop of Dreams". ](/news/2013/05/16/british-author-jenny-colgan-wins-the-2013-romantic-novel-of-the-year-award-for-her-book-welcome-to-rosie-hopkins-sweetshop-of-dreams.md)
-_Context: Jenny Colgan, Romantic Novel of the Year Award, Welcome to Rosie Hopkins' Sweetshop of Dreams_
+_Context: Welcome to Rosie Hopkins' Sweetshop of Dreams, Jenny Colgan, Romantic Novel of the Year Award_
 
 ##### Bea Arthur
 ### [A topless painting of actress Bea Arthur sells for US$2 million at auction. ](/news/2013/05/16/a-topless-painting-of-actress-bea-arthur-sells-for-us-2-million-at-auction.md)
@@ -37,7 +37,7 @@ _Context: Bill Gates_
 
 ##### Venezuela
 ### [The Venezuelan government attempts to put an end to a toilet paper shortage. ](/news/2013/05/16/the-venezuelan-government-attempts-to-put-an-end-to-a-toilet-paper-shortage.md)
-_Context: Venezuela, toilet paper_
+_Context: toilet paper, Venezuela_
 
 ##### Cambodia
 ### [A shoe factory collapses in Cambodia, killing three. ](/news/2013/05/16/a-shoe-factory-collapses-in-cambodia-killing-three.md)
@@ -65,7 +65,7 @@ Two brothers, who belong to a New Orleans gang, have been charged with opening f
 
 ##### Stockholm School of Economics
 ### [Rolf Wolff, president of the Stockholm School of Economics, is fired amidst a scandal where he promoted a convicted insider trader for a top position at the university and allegedly he lied about his academic credentials. ](/news/2013/05/16/rolf-wolff-president-of-the-stockholm-school-of-economics-is-fired-amidst-a-scandal-where-he-promoted-a-convicted-insider-trader-for-a-top.md)
-_Context: Stockholm School of Economics, insider trader_
+_Context: insider trader, Stockholm School of Economics_
 
 ##### 
 ### [Water dating back 2.6 billion years, by far the oldest ever found, is discovered in a Canadian mine. ](/news/2013/05/16/water-dating-back-2-6-billion-years-by-far-the-oldest-ever-found-is-discovered-in-a-canadian-mine.md)

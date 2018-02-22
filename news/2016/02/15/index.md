@@ -9,11 +9,11 @@ The United Nations and Washington on Monday condemned air strikes on medical fac
 
 ##### Kashmir conflict
 ### [India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-death-of-two-protester.md)
-_Context: Kashmir conflict, Kashmir, general strike, curfew, India_
+_Context: Kashmir, general strike, Kashmir conflict, curfew, India_
 
 ##### Insurgency in the North Caucasus
 ### [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md)
-_Context: policemen, Dagestan, Republic, car bomb, Russia, Insurgency in the North Caucasus_
+_Context: car bomb, Insurgency in the North Caucasus, policemen, Republic, Russia, Dagestan_
 
 ##### Yemeni Civil War
 ### [Cross-border shelling from Yemen kills a Saudi Arabian border guard in the Jizan Region. ](/news/2016/02/15/cross-border-shelling-from-yemen-kills-a-saudi-arabian-border-guard-in-the-jizan-region.md)
@@ -33,7 +33,7 @@ _Context: the explosions last year, Tianjin_
 
 ##### South Korean army
 ### [Three South Korean army soldiers die after a Bell UH-1 Iroquois helicopter crashes in the city of Chuncheon, Gangwon Province. ](/news/2016/02/15/three-south-korean-army-soldiers-die-after-a-bell-uh-1-iroquois-helicopter-crashes-in-the-city-of-chuncheon-gangwon-province.md)
-_Context: Chuncheon, South Korean army, Gangwon Province, Bell UH-1 Iroquois_
+_Context: Bell UH-1 Iroquois, Chuncheon, South Korean army, Gangwon Province_
 
 ##### Russia-Ukraine relations
 ### [Ukraine bans Russian cargo trucks from transiting its territory after Russia's Ministry of Transport barred Ukrainian cargo trucks because armed groups had been blocking some Russian trucks from entering Ukraine. ](/news/2016/02/15/ukraine-bans-russian-cargo-trucks-from-transiting-its-territory-after-russia-s-ministry-of-transport-barred-ukrainian-cargo-trucks-because-a.md)

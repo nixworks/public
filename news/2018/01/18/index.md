@@ -13,7 +13,7 @@ Five people survived the accident on the bus, thought to have been carrying many
 
 ##### France-United Kingdom relations
 ### [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md)
-_Context: France-United Kingdom relations, Royal Military Academy Sandhurst, Theresa May, Emmanuel Macron_
+_Context: Emmanuel Macron, France-United Kingdom relations, Royal Military Academy Sandhurst, Theresa May_
 
 ##### Crime in Serbia
 ### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)

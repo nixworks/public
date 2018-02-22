@@ -11,7 +11,7 @@ PESHAWAR Jan 26 AP - A Pakistani official says clashes between two Islamic milit
 ### [The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/the-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-between-anti-government-protester.md)
 At least 32 people were killed on Saturday when Egyptians rampaged in protest at the sentencing of 21 people to death over a soccer stadium disaster, violence that compounds a political crisis facing Islamist President Mohamed Mursi.
 
-##### France
+##### French
 ### [French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islamist-stronghold-of-gao.md)
 French-led troops in Mali have taken control of the northern Islamist stronghold of Gao, the French defence ministry says.
 
@@ -33,11 +33,11 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 
 ##### Hacktivist
 ### [Hacktivist group Anonymous claims credit for the hacking of the website of the United States Sentencing Commission in response to the suicide of Aaron Swartz. ](/news/2013/01/26/hacktivist-group-anonymous-claims-credit-for-the-hacking-of-the-website-of-the-united-states-sentencing-commission-in-response-to-the-suicid.md)
-_Context: hacker group Anonymous, Hacktivist, United States Sentencing Commission, Aaron Swartz_
+_Context: United States Sentencing Commission, Hacktivist, Aaron Swartz, hacker group Anonymous_
 
 ##### Milos Zeman
 ### [Milos Zeman wins Czech presidential election and becomes the next President of the Czech Republic running ahead of Karel Schwarzenberg. ](/news/2013/01/26/miloa-zeman-wins-czech-presidential-election-and-becomes-the-next-president-of-the-czech-republic-running-ahead-of-karel-schwarzenberg.md)
-_Context: Czech presidential election, Czech Republic, President, Karel Schwarzenberg, Milos Zeman_
+_Context: Czech presidential election, Karel Schwarzenberg, Milos Zeman, President, Czech Republic_
 
 ##### Lee Li Lian
 ### [Lee Li Lian of the Workers' Party wins Punggol East by-election in Singapore and becomes the next MP for Punggol East. This was the second Singaporean by-election after less than a year. ](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.md)

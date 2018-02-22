@@ -9,7 +9,7 @@ _Context: large oil leak, South Korea, Hong Kong_
 
 ##### Systematic food safety irregularities
 ### [ State prosecutors launch a criminal investigation after systematic food safety irregularities were revealed at ICA, the leading grocery store chain in Sweden. ](/news/2007/12/7/state-prosecutors-launch-a-criminal-investigation-after-systematic-food-safety-irregularities-were-revealed-at-ica-the-leading-grocery-sto.md)
-_Context: ICA, Sweden, systematic food safety irregularities_
+_Context: ICA, systematic food safety irregularities, Sweden_
 
 ## [Previous Day...](/news/2007/12/6/index.md)
 

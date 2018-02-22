@@ -5,11 +5,11 @@ Formats: [HTML](2014/08/6/index.html)  [JSON](2014/08/6/index.json)  [XML](2014/
 
 ##### Syrian Civil War
 ### [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md)
-_Context: Saudi Arabia, Syria, Lebanese, Syrian Civil War_
+_Context: Saudi Arabia, Lebanese, Syria, Syrian Civil War_
 
 ##### Iraqi insurgency (2011-present)
 ### [Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the-country.md)
-_Context: Islamic State of Iraq and Syria, Iraqi insurgency (2011-present), Iraq, Kurdish_
+_Context: Kurdish, Islamic State of Iraq and Syria, Iraqi insurgency (2011-present), Iraq_
 
 ##### Russia
 ### [Russia bans all United States agricultural products, European Union fruit and vegetable imports in response to Western sanctions imposed on Russia over the Ukrainian crisis. ](/news/2014/08/6/russia-bans-all-united-states-agricultural-products-european-union-fruit-and-vegetable-imports-in-response-to-western-sanctions-imposed-on.md)
@@ -29,11 +29,11 @@ _Context: Hawaii, 2014 Pacific hurricane season_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md)
-_Context: Saudi Arabia, Sierra Leone, Ebola virus, 2014 West Africa Ebola outbreak, World Health Organisation, Jeddah_
+_Context: Jeddah, Ebola virus, World Health Organisation, 2014 West Africa Ebola outbreak, Sierra Leone, Saudi Arabia_
 
 ##### Karamay
 ### [Officials in Karamay in Xinjiang, western China, places a temporary ban on Islamic headscarves, clothing and those with beards from using public transport, following violence in the region. ](/news/2014/08/6/officials-in-karamay-in-xinjiang-western-china-places-a-temporary-ban-on-islamic-headscarves-clothing-and-those-with-beards-from-using-pu.md)
-_Context: Karamay, Islam, Chinese, Xinjiang_
+_Context: Chinese, Karamay, Islam, Xinjiang_
 
 ##### 
 ### [Two medical students Neil Dalton, 23 and Aidan Brunger completing their exchange from Newcastle University to a hospital in Malaysian Borneo were murdered after 4 men followed them after an argument over singing in a bar and stabbed them from behind. ](/news/2014/08/6/two-medical-students-neil-dalton-23-and-aidan-brunger-completing-their-exchange-from-newcastle-university-to-a-hospital-in-malaysian-borneo.md)

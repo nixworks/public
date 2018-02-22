@@ -37,7 +37,7 @@ An Iranian asylum seeker dies after setting himself alight in a central Amsterda
 
 ##### Nigeria
 ### [25 people are killed in a bomb assault in the Nigerian town Suleja. ](/news/2011/04/7/25-people-are-killed-in-a-bomb-assault-in-the-nigerian-town-suleja.md)
-_Context: Nigeria, Suleja_
+_Context: Suleja, Nigeria_
 
 ##### Ai Weiwei
 ### [China's foreign ministry confirms police are investigating artist and government critic Ai Weiwei, who disappeared over the weekend, for suspected economic crimes amid reports that he has been force-fed milk powder while on hunger strike in prison in reference to his campaigns against the 2008 Chinese milk scandal. ](/news/2011/04/7/china-s-foreign-ministry-confirms-police-are-investigating-artist-and-government-critic-ai-weiwei-who-disappeared-over-the-weekend-for-sus.md)
@@ -53,7 +53,7 @@ European Central Bank increases eurozone interest rates for the first time since
 
 ##### A$
 ### [The Australian dollar reaches a 28-year high against the United States dollar due to strong employment figures for March. ](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.md)
-_Context: $, A$_
+_Context: A$, $_
 
 ##### General Electric Co.
 ### [General Electric Co. announces that it is investing $600 million to construct a facility for the manufacture of thin-film solar panels, and says it hopes and expects to drive the price of solar energy down. ](/news/2011/04/7/general-electric-co-announces-that-it-is-investing-600-million-to-construct-a-facility-for-the-manufacture-of-thin-film-solar-panels-and.md)
@@ -69,7 +69,7 @@ An aftershock in Japan has killed two people, including a 63-year-old woman whos
 
 ##### Mexico
 ### [A 6.5 magnitude earthquake strikes in the Mexican state of Veracruz. ](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.md)
-_Context: Veracruz, Mexico_
+_Context: Mexico, Veracruz_
 
 ##### Nitrogen
 ### [Injections of nitrogen into one of the reactors at Japan's stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. ](/news/2011/04/7/injections-of-nitrogen-into-one-of-the-reactors-at-japan-s-stricken-fukushima-daiichi-nuclear-plant-begins-in-an-effort-to-stop-further-hydr.md)
@@ -81,7 +81,7 @@ _Context: power outage, Caracas, Venezuela_
 
 ##### State Department
 ### [A British government diplomat calls the United States Department of State to draw "attention to our concerns over Bradley Manning", the Welsh-born U.S. serviceman imprisoned by the U.S. military in solitary confinement and forced to sleep naked, conditions condemned by Amnesty International, the American Civil Liberties Union and British MPs among others. ](/news/2011/04/7/a-british-government-diplomat-calls-the-united-states-department-of-state-to-draw-attention-to-our-concerns-over-bradley-manning-the-wels.md)
-_Context: Wales, Amnesty International, Bradley Manning, State Department, American Civil Liberties Union_
+_Context: State Department, American Civil Liberties Union, Amnesty International, Wales, Bradley Manning_
 
 ##### David Cameron
 ### [UK prime minister David Cameron admits to students in Pakistan that Britain and its empire is to blame for many of the world's problems. ](/news/2011/04/7/uk-prime-minister-david-cameron-admits-to-students-in-pakistan-that-britain-and-its-empire-is-to-blame-for-many-of-the-world-s-problems.md)
@@ -97,11 +97,11 @@ Group of elderly Kenyans who say they were tortured by British officers in the 1
 
 ##### Hawaii Intermediate Court of Appeals
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: birth certificate, Barack Obama, U.S. President, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals_
+_Context: birth certificate, U.S. President, Hawaii Intermediate Court of Appeals, Barack Obama citizenship conspiracy theories, Barack Obama_
 
 ##### Labour Party
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-expenses.md)
-_Context: United Kingdom Parliamentary expenses scandal, Elliot Morley, Labour Party_
+_Context: United Kingdom Parliamentary expenses scandal, Labour Party, Elliot Morley_
 
 ##### Nicola Roxon
 ### [Nicola Roxon, the Australian Minister for Health, announces plans to introduce legislation requiring tobacco products to be sold in plain packaging. ](/news/2011/04/7/nicola-roxon-the-australian-minister-for-health-announces-plans-to-introduce-legislation-requiring-tobacco-products-to-be-sold-in-plain-pa.md)
@@ -109,7 +109,7 @@ Australia will become the first country in the world to require tobacco products
 
 ##### Service Employees International Union
 ### [Seventeen people are arrested at a protest organised by the Service Employees International Union trying to storm the Governor of the US state of Washington's office in Olympia. ](/news/2011/04/7/seventeen-people-are-arrested-at-a-protest-organised-by-the-service-employees-international-union-trying-to-storm-the-governor-of-the-us-sta.md)
-_Context: Olympia, Governor of Washington, Washington, Service Employees International Union_
+_Context: Washington, Service Employees International Union, Olympia, Governor of Washington_
 
 ## [Previous Day...](/news/2011/04/6/index.md)
 

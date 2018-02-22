@@ -13,7 +13,7 @@ _Context: Jordan, Israeli Border Police_
 
 ##### Fyffes
 ### [Irish fruit firm Fyffes and U.S. rival Chiquita agree to combine, creating the world's largest banana company in an all-stock deal valued at about $1.07 billion. ](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.md)
-_Context: Fyffes, Chiquita, banana_
+_Context: banana, Fyffes, Chiquita_
 
 ##### Sbarro
 ### [Pizza chain Sbarro files for chapter 11 bankruptcy for the second time in 3 years. ](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.md)

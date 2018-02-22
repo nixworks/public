@@ -29,7 +29,7 @@ The Environmental Protection Agency says nearly 500,000 Volkswagen and Audi dies
 
 ##### India
 ### [In India, about 2.3 million people respond to the state of Uttar Pradesh's announcement of 368 low-level government jobs openings that pay 16,000 rupees ($240) a month. At least 255 of the applicants had a doctorate and over 200,000 had master's degrees. ](/news/2015/09/18/in-india-about-2-3-million-people-respond-to-the-state-of-uttar-pradesh-s-announcement-of-368-low-level-government-jobs-openings-that-pay-1.md)
-_Context: rupees, master's degrees, doctorate, state, Uttar Pradesh, India_
+_Context: rupees, state, Uttar Pradesh, doctorate, master's degrees, India_
 
 ##### United Kingdom
 ### [A national alert is issued in the United Kingdom about a strain of gonorrhea that is highly drug resistant after 15 cases are reported in northern England. ](/news/2015/09/18/a-national-alert-is-issued-in-the-united-kingdom-about-a-strain-of-gonorrhea-that-is-highly-drug-resistant-after-15-cases-are-reported-in-no.md)
@@ -37,11 +37,11 @@ A national alert has been issued after an outbreak of highly drug-resistant gono
 
 ##### Ebola virus epidemic in West Africa
 ### [United States authorities announce mandatory Ebola screening will end for travelers from Liberia to five U.S. airports, effective September 21, 2015. Screening of travelers from Sierra Leone and Guinea will continue. ](/news/2015/09/18/united-states-authorities-announce-mandatory-ebola-screening-will-end-for-travelers-from-liberia-to-five-u-s-airports-effective-september.md)
-_Context: Liberia, Ebola, Ebola virus epidemic in West Africa, Sierra Leone, Guinea, United States authorities, Ebola virus cases in the United States_
+_Context: Ebola, United States authorities, Sierra Leone, Ebola virus epidemic in West Africa, Guinea, Ebola virus cases in the United States, Liberia_
 
 ##### Government
 ### [The government of Prime Minister Shinzo Abe moves to enact legislation allowing the Japan Self-Defense Forces to serve overseas. Yesterday, fist-fights erupted in the parliament over this legislation. ](/news/2015/09/18/the-government-of-prime-minister-shinzo-abe-moves-to-enact-legislation-allowing-the-japan-self-defense-forces-to-serve-overseas-yesterday.md)
-_Context: government, Shinzo Abe, military, Prime Minister of Japan, legislation_
+_Context: government, military, Prime Minister of Japan, legislation, Shinzo Abe_
 
 ##### European migrant crisis
 ### [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migra.md)
@@ -53,7 +53,7 @@ The United States announced new rules on Friday to further ease trade, travel an
 
 ##### Venezuelan Air Force
 ### [A Venezuelan Air Force Sukhoi Su-30MKK crashes near the Colombian border after an illicit aircraft, probably linked to illicit drugs, enters Venezuelan airspace. ](/news/2015/09/18/a-venezuelan-air-force-sukhoi-su-30mkk-crashes-near-the-colombian-border-after-an-illicit-aircraft-probably-linked-to-illicit-drugs-enters.md)
-_Context: Colombia, Venezuela, Venezuelan Air Force, Sukhoi Su-30MKK, illicit drugs_
+_Context: illicit drugs, Colombia, Sukhoi Su-30MKK, Venezuela, Venezuelan Air Force_
 
 ##### Deer Island
 ### [Baby Doe, a toddler who was found washed ashore Deer Island in Massachusetts in a trash bag, is identified as Bella Bond. ](/news/2015/09/18/baby-doe-a-toddler-who-was-found-washed-ashore-deer-island-in-massachusetts-in-a-trash-bag-is-identified-as-bella-bond.md)

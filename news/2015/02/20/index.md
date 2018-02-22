@@ -45,7 +45,7 @@ Liberia said Friday it was lifting nationwide curfews and re-opening borders shu
 
 ##### Australia
 ### [Australian rugby star Karmichael Hunt is arrested on charges of supplying cocaine following a Queensland Crime and Corruption Commission operation. ](/news/2015/02/20/australian-rugby-star-karmichael-hunt-is-arrested-on-charges-of-supplying-cocaine-following-a-queensland-crime-and-corruption-commission-ope.md)
-_Context: Queensland, Crime and Corruption Commission, Australia, Karmichael Hunt, cocaine_
+_Context: cocaine, Crime and Corruption Commission, Australia, Queensland, Karmichael Hunt_
 
 ##### Thailand
 ### [Thailand passes a law banning foreigners from hiring Thai women as commercial surrogate mothers. ](/news/2015/02/20/thailand-passes-a-law-banning-foreigners-from-hiring-thai-women-as-commercial-surrogate-mothers.md)

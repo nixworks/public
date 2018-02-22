@@ -9,11 +9,11 @@ Chinese military will carry out three days of exercises close to disputed territ
 
 ##### Boko Haram insurgency
 ### [An improvised explosive device in a Yola, Nigeria displacement camp kills 7 people. ](/news/2015/09/11/an-improvised-explosive-device-in-a-yola-nigeria-displacement-camp-kills-7-people.md)
-_Context: Yola, Boko Haram insurgency_
+_Context: Boko Haram insurgency, Yola_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Turkey-PKK conflict, PKK, Kurdish, Turkish Air Force_
+_Context: Turkish Air Force, Kurdish, PKK, Turkey-PKK conflict_
 
 ##### 2015 Burundian unrest
 ### [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md)
@@ -21,7 +21,7 @@ _Context: Bujumbura, 2015 Burundian unrest, Burundi, assassinated_
 
 ##### Britney Spears
 ### [Britney Spears announces a two-year extension in performing "Britney: Piece of Me" on the Las Vegas Strip. ](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.md)
-_Context: Britney Spears, Las Vegas Strip, Britney: Piece of Me_
+_Context: Britney: Piece of Me, Las Vegas Strip, Britney Spears_
 
 ##### 2015 Pacific typhoon season
 ### [At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa-city-in-ibaraki-prefecture.md)
@@ -33,7 +33,7 @@ At least 107 people died and 238 more were injured when a crane collapsed at the
 
 ##### General Assembly
 ### [The UN General Assembly votes in favor of flying the flags of non-member observer states outside the headquarters in New York City. Palestine will raise their flag on September 30, while Vatican City has made no plans yet. ](/news/2015/09/11/the-un-general-assembly-votes-in-favor-of-flying-the-flags-of-non-member-observer-states-outside-the-headquarters-in-new-york-city-palestin.md)
-_Context: New York City, observer states, Palestine, Vatican City, General Assembly_
+_Context: Palestine, observer states, General Assembly, Vatican City, New York City_
 
 ##### United States-Cuban Thaw
 ### [Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pope-francis.md)
@@ -49,7 +49,7 @@ Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA cus
 
 ##### Mark Karpeles
 ### [Mark Karpeles, the CEO of defunct Bitcoin exchange Mt. Gox, is charged with embezzlement in Japan. Karpeles asserts his own innocence. ](/news/2015/09/11/mark-karpela-s-the-ceo-of-defunct-bitcoin-exchange-mt-gox-is-charged-with-embezzlement-in-japan-karpeles-asserts-his-own-innocence.md)
-_Context: embezzlement, Japan, Mt. Gox, Bitcoin, Mark Karpeles_
+_Context: Mt. Gox, Mark Karpeles, Bitcoin, Japan, embezzlement_
 
 ##### 2006 Mumbai train bombings
 ### [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md)
@@ -61,7 +61,7 @@ Officials are investigating after another vehicle was shot at on Interstate 10 o
 
 ##### 2014 Chicago Air Route Traffic Control Center fire
 ### [U.S. District Judge Gary Feinerman sentences a Federal Aviation Administration contractor, Brian Howard, to 12 years in prison for willfully destroying a Chicago-area air navigation facility using a September 26, 2014, fire which caused $100 million in damage. ](/news/2015/09/11/u-s-district-judge-gary-feinerman-sentences-a-federal-aviation-administration-contractor-brian-howard-to-12-years-in-prison-for-willfully.md)
-_Context: Federal Aviation Administration, 2014 Chicago Air Route Traffic Control Center fire, U.S. District, Gary Feinerman_
+_Context: Federal Aviation Administration, Gary Feinerman, U.S. District, 2014 Chicago Air Route Traffic Control Center fire_
 
 ##### California State Legislature
 ### [The California State Legislature approves legislation allowing for assisted suicide. ](/news/2015/09/11/the-california-state-legislature-approves-legislation-allowing-for-assisted-suicide.md)

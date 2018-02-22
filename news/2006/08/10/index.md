@@ -5,11 +5,11 @@ Formats: [HTML](2006/08/10/index.html)  [JSON](2006/08/10/index.json)  [XML](200
 
 ##### 2006 transatlantic aircraft plot
 ### [ A terrorist plot to blow up planes in mid-flight from the UK to the US has been disrupted, Scotland Yard has said. ](/news/2006/08/10/a-terrorist-plot-to-blow-up-planes-in-mid-flight-from-the-uk-to-the-us-has-been-disrupted-scotland-yard-has-said.md)
-_Context: 2006 transatlantic aircraft plot, United Kingdom, United States, Scotland Yard_
+_Context: 2006 transatlantic aircraft plot, Scotland Yard, United Kingdom, United States_
 
 ##### Hugo Chvez
 ### [ Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. ](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.md)
-_Context: Fidel Castro, Hugo Chvez_
+_Context: Hugo Chvez, Fidel Castro_
 
 ##### Marietta, Ohio
 ### [ In Marietta, Ohio, United States two men were arrested on money laundering in support of terrorism. They were found with lists of travelers on airplanes and information on airport security checkpoints. ](/news/2006/08/10/in-marietta-ohio-united-states-two-men-were-arrested-on-money-laundering-in-support-of-terrorism-they-were-found-with-lists-of-travelers.md)

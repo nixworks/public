@@ -13,27 +13,27 @@ _Context: Delta Air Lines, Northwest Airlines_
 
 ##### United States
 ### [ The United States begins occupying its new US$736 million embassy in Iraq, one of the largest embassies in the world. Presently under construction, it is approximately as large as the Vatican City and will permanently employ thousands of Americans, including a Marine detachment. ](/news/2008/04/14/the-united-states-begins-occupying-its-new-us-736-million-embassy-in-iraq-one-of-the-largest-embassies-in-the-world-presently-under-const.md)
-_Context: United States, US$, United States Marines, embassy in Iraq, Vatican City_
+_Context: United States Marines, embassy in Iraq, Vatican City, US$, United States_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, re-elected_
+_Context: Silvio Berlusconi, re-elected, Italian Prime Minister_
 
 ##### Nabucco
 ### [ Nabucco Pipeline: Turkmenistan agrees to supply 10 billion cubic metres of natural gas to the European Union per annum, to reduce the bloc's dependence on gas from Russia. ](/news/2008/04/14/nabucco-pipeline-turkmenistan-agrees-to-supply-10-billion-cubic-metres-of-natural-gas-to-the-european-union-per-annum-to-reduce-the-bloc.md)
-_Context: Russia, European Union, Turkmenistan, natural gas, Nabucco_
+_Context: Turkmenistan, Nabucco, natural gas, Russia, European Union_
 
 ##### Train
 ### [ Passenger trains resume between Dhaka in Bangladesh and the Indian city of Calcutta, after 43 years. ](/news/2008/04/14/passenger-trains-resume-between-dhaka-in-bangladesh-and-the-indian-city-of-calcutta-after-43-years.md)
-_Context: Bangladesh, India, Dhaka, Calcutta, train_
+_Context: Dhaka, Bangladesh, India, Calcutta, train_
 
 ##### Taliban
 ### [ Taliban insurgents attack a checkpoint in southern Afghanistan killing 11 police officers. ](/news/2008/04/14/taliban-insurgents-attack-a-checkpoint-in-southern-afghanistan-killing-11-police-officers.md)
-_Context: Taliban, Afghan_
+_Context: Afghan, Taliban_
 
 ##### World Bank
 ### [ The World Bank announces a package of emergency measures to tackle the dramatic rise in basic food prices which has led to civil unrest throughout much of the developing world. ](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.md)
-_Context: dramatic rise in basic food prices, developing world, World Bank_
+_Context: developing world, World Bank, dramatic rise in basic food prices_
 
 ## [Previous Day...](/news/2008/04/13/index.md)
 

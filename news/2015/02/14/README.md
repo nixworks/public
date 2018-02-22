@@ -9,7 +9,7 @@ _Context: War in Donbass, Russia, Petro Poroshenko_
 
 ##### Internal conflict in Burma
 ### [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md)
-_Context: Myanmar, Kokang offensive, Kokang, Internal conflict in Burma_
+_Context: Kokang, Internal conflict in Burma, Kokang offensive, Myanmar_
 
 ##### 2015 Copenhagen shootings
 ### [Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killing-documentary-maker-finn-na.md)
@@ -25,15 +25,15 @@ Taxi, by dissident Iranian director Jafar Panahi, wins top prize at the Berlin F
 
 ##### French-born
 ### [French film and television actor Louis Jourdan ("Gigi") dies at the age of 93. ](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.md)
-_Context: Louis Jourdan, Gigi, French-born_
+_Context: Louis Jourdan, French-born, Gigi_
 
 ##### Blizzard
 ### [There is a blizzard warning in place for eastern Massachusetts in the northeastern United States. ](/news/2015/02/14/there-is-a-blizzard-warning-in-place-for-eastern-massachusetts-in-the-northeastern-united-states.md)
-_Context: northeastern United States, Massachusetts, blizzard_
+_Context: Massachusetts, northeastern United States, blizzard_
 
 ##### Swine flu
 ### [Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. ](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.md)
-_Context: Gujarat, swine flu, India_
+_Context: India, Gujarat, swine flu_
 
 ##### Yemeni Crisis (2011-present)
 ### [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md)
@@ -41,7 +41,7 @@ _Context: Yemeni Crisis (2011-present), United Arab Emirates, Yemen_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
-_Context: Tony Abbott, Australian Prime Minister, Bali Nine, Myuran Sukumaran, sentenced to death, Indonesia, Andrew Chan_
+_Context: Indonesia, Myuran Sukumaran, Andrew Chan, Australian Prime Minister, sentenced to death, Bali Nine, Tony Abbott_
 
 ##### President of Chad
 ### [Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. ](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.md)

@@ -21,7 +21,7 @@ The bus mows down a group of musicians as the driver tries to flee the scene of 
 
 ##### Abkhazian parliamentary election, 2017
 ### [People in the breakaway state of Abkhazia go to the polls for an election. ](/news/2017/03/12/people-in-the-breakaway-state-of-abkhazia-go-to-the-polls-for-an-election.md)
-_Context: Abkhazia, Abkhazian parliamentary election, 2017_
+_Context: Abkhazian parliamentary election, 2017, Abkhazia_
 
 ##### Albania
 ### [Albanian Prime Minister Edi Rama dismisses four cabinet ministers, including Minister of Internal Affairs Saimir Tahiri and Minister of Health Ilir Beqaj, in a bid to make the government more technocratic following opposition Democratic Party protests. ](/news/2017/03/12/albanian-prime-minister-edi-rama-dismisses-four-cabinet-ministers-including-minister-of-internal-affairs-saimir-tahiri-and-minister-of-heal.md)

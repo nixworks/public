@@ -9,7 +9,7 @@ A cloud of smoke, ash and steam rose to around 5,900 feet over Mexico’s Popoca
 
 ##### Rohingya persecution in Myanmar (2016-present)
 ### [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md)
-_Context: Bangladesh, Rohingya persecution in Myanmar (2016-present), Myanmar, State Counsellor, Aung San Suu Kyi_
+_Context: Bangladesh, Myanmar, Aung San Suu Kyi, Rohingya persecution in Myanmar (2016-present), State Counsellor_
 
 ##### Russia-Sudan relations
 ### [Sudanese President Omar al-Bashir, wanted by the ICC for allegations of genocide and war crimes, asks Russian President Vladimir Putin for increased military ties and protection against the United States during his first visit to Russia as President. Putin agrees to increase their countries' economic ties. ](/news/2017/11/23/sudanese-president-omar-al-bashir-wanted-by-the-icc-for-allegations-of-genocide-and-war-crimes-asks-russian-president-vladimir-putin-for-i.md)

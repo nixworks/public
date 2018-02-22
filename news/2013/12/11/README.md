@@ -21,7 +21,7 @@ THE Australian car industry is all but dead and South Australia is in shock foll
 
 ##### Stanley Fischer
 ### [Sources indicate that Stanley Fischer, former head of the central bank of Israel, is the front runner to become the new Vice Chair of the U.S. Federal Reserve as Janet Yellen ascends to the Chair. ](/news/2013/12/11/sources-indicate-that-stanley-fischer-former-head-of-the-central-bank-of-israel-is-the-front-runner-to-become-the-new-vice-chair-of-the-u.md)
-_Context: Stanley Fischer, Federal Reserve, Janet Yellen, Israel_
+_Context: Stanley Fischer, Israel, Federal Reserve, Janet Yellen_
 
 ##### Bubonic plague
 ### [Bubonic plague kills 20 people in a Madagascar village. ](/news/2013/12/11/bubonic-plague-kills-20-people-in-a-madagascar-village.md)
@@ -33,7 +33,7 @@ _Context: Google, National Security Agency, cookies_
 
 ##### Supreme Court of India
 ### [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
-_Context: homosexuality, Indian penal code, Supreme Court of India_
+_Context: homosexuality, Supreme Court of India, Indian penal code_
 
 ##### Revenge porn
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)
@@ -41,7 +41,7 @@ SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of ope
 
 ##### Russian President
 ### [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md)
-_Context: Vladimir Putin, Arctic, Russian President_
+_Context: Arctic, Russian President, Vladimir Putin_
 
 ##### Kiev
 ### [Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md)

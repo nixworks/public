@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/2/index.html)  [JSON](2011/01/2/index.json)  [XML](2011/
 
 ##### Darfur
 ### [International mediators propose the establishment of a regional authority for Darfur, as a compromise between the Sudanese government and rebels' demands, in a diplomatic effort to respond to Sudanese President Bashir's order last week to withdraw the Sudanese government delegation from talks in Doha. ](/news/2011/01/2/international-mediators-propose-the-establishment-of-a-regional-authority-for-darfur-as-a-compromise-between-the-sudanese-government-and-re.md)
-_Context: Sudanese government, Darfur, Doha, Omar al-Bashir_
+_Context: Doha, Sudanese government, Omar al-Bashir, Darfur_
 
 ##### Egypt
 ### [Egyptian police shoot and kill an African illegal immigrant outside the Israeli border. ](/news/2011/01/2/egyptian-police-shoot-and-kill-an-african-illegal-immigrant-outside-the-israeli-border.md)
@@ -13,7 +13,7 @@ Officers on patrol opened fire on the infiltrator after he refused orders to sto
 
 ##### United States
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
-_Context: extension of the Bush tax cuts and other itemizations, Internal Revenue Service, United States, tax returns_
+_Context: United States, extension of the Bush tax cuts and other itemizations, tax returns, Internal Revenue Service_
 
 ##### Afghan
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
@@ -29,7 +29,7 @@ Queensland still on edge as rivers surge to new heights and flow into low-lying 
 
 ##### San Antonio River
 ### [Flooding occurs along the San Antonio River in Monterey County, California as flooding from previous weeks subsides. ](/news/2011/01/2/flooding-occurs-along-the-san-antonio-river-in-monterey-county-california-as-flooding-from-previous-weeks-subsides.md)
-_Context: California, San Antonio River, Monterey County_
+_Context: San Antonio River, Monterey County, California_
 
 ##### New Year
 ### [Ten people are crushed to death in a bar packed with New Year's revelers in Ipelegeng, South Africa. ](/news/2011/01/2/ten-people-are-crushed-to-death-in-a-bar-packed-with-new-year-s-revelers-in-ipelegeng-south-africa.md)
@@ -45,7 +45,7 @@ Leaked US diplomatic cables quote IDF chief as saying army must stop Hamas from 
 
 ##### Canada Border Services Agency
 ### [The Canada Border Services Agency confirms the deportation of a Toronto student to Mexico, who immigrated with his sister, who cited homophobia as the reason for claiming refugee status. Reports state he boarded the plane unwillingly. ](/news/2011/01/2/the-canada-border-services-agency-confirms-the-deportation-of-a-toronto-student-to-mexico-who-immigrated-with-his-sister-who-cited-homopho.md)
-_Context: Mexico, deportation, Canada Border Services Agency, homophobia, Toronto student_
+_Context: Mexico, Toronto student, Canada Border Services Agency, deportation, homophobia_
 
 ##### Israel
 ### [Israel extends a six-month ban on the immigration of Palestinian Arabs married to Israelis. ](/news/2011/01/2/israel-extends-a-six-month-ban-on-the-immigration-of-palestinian-arabs-married-to-israelis.md)
@@ -57,7 +57,7 @@ IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2
 
 ##### Banning
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
-_Context: banning, Spain_
+_Context: Spain, banning_
 
 ##### U.S. President
 ### [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
@@ -65,7 +65,7 @@ The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist
 
 ##### United Nations
 ### [Former Canadian ambassador to the United Nations Paul Heinbecker urges the Canadian government to determine its agenda as global power shifts, particularly towards emerging economies. ](/news/2011/01/2/former-canadian-ambassador-to-the-united-nations-paul-heinbecker-urges-the-canadian-government-to-determine-its-agenda-as-global-power-shift.md)
-_Context: Paul Heinbecker, United Nations_
+_Context: United Nations, Paul Heinbecker_
 
 ##### Greece
 ### [Greece is considering the construction of a fence along its border with Turkey to fend off an ongoing flood of economic migrants from the Middle East and North Africa. ](/news/2011/01/2/greece-is-considering-the-construction-of-a-fence-along-its-border-with-turkey-to-fend-off-an-ongoing-flood-of-economic-migrants-from-the-mi.md)
@@ -81,7 +81,7 @@ Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;
 
 ##### Coptic Church
 ### [Hundreds of Coptic Christians protest in Alexandria and Cairo and shout slogans against Hosni Mubarak's rule following the church bombing, where some people held mass. Egyptian media warns of civil war and increasing sectarian violence between Christians and Muslims, and Pope Benedict XVI publicly condemns the bombing. ](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.md)
-_Context: civil war, Pope Benedict XVI, Hosni Mubarak, Coptic Church, Alexandria, Cairo, mass, New Year's Day church bombing, Christians, sectarian violence_
+_Context: Christians, Cairo, Hosni Mubarak, sectarian violence, Alexandria, civil war, Pope Benedict XVI, New Year's Day church bombing, mass, Coptic Church_
 
 ## [Previous Day...](/news/2011/01/1/index.md)
 

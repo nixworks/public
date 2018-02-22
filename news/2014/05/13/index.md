@@ -5,9 +5,9 @@ Formats: [HTML](2014/05/13/index.html)  [JSON](2014/05/13/index.json)  [XML](201
 
 ##### Valery Bolotov
 ### [Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-assassination-attempt-by-an-unknown-ass.md)
-_Context: Eastern Ukraine, Valery Bolotov, Luhansk_
+_Context: Valery Bolotov, Luhansk, Eastern Ukraine_
 
-##### France
+##### French
 ### [The body of 26-year-old French photojournalist Camille Lepage was found in the Bouar region. The French presidency released a statement saying she was "murdered" and announced that a team of investigators will be dispatched to the scene. ](/news/2014/05/13/the-body-of-26-year-old-french-photojournalist-camille-lepage-was-found-in-the-bouar-region-the-french-presidency-released-a-statement-sayi.md)
 French president orders immediate despatch of team to &#x27;shine light on circumstances of assassination&#x27; of 26-year-old
 
@@ -25,7 +25,7 @@ At least 17 people have been killed and hundreds are trapped after an explosion 
 
 ##### North Korea
 ### [An apartment block in the North Korean capital Pyongyang containing 100 families collapses. ](/news/2014/05/13/an-apartment-block-in-the-north-korean-capital-pyongyang-containing-100-families-collapses.md)
-_Context: Pyongyang, North Korea_
+_Context: North Korea, Pyongyang_
 
 ##### Vietnam
 ### [Thousands of Vietnamese workers stage anti-China protests in front of factories with Chinese names over Beijing's decision to locate an oil rig in waters of the South China Sea also claimed by Hanoi. ](/news/2014/05/13/thousands-of-vietnamese-workers-stage-anti-china-protests-in-front-of-factories-with-chinese-names-over-beijing-s-decision-to-locate-an-oil.md)

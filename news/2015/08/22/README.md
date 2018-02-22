@@ -13,11 +13,11 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 
 ##### Iran
 ### [Iran launches a new surface-to-surface missile called the Fateh 313. ](/news/2015/08/22/iran-launches-a-new-surface-to-surface-missile-called-the-fateh-313.md)
-_Context: Iran, surface-to-surface missile_
+_Context: surface-to-surface missile, Iran_
 
 ##### War in Afghanistan (2015-present)
 ### [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md)
-_Context: NATO, suicide bomber, Kabul, War in Afghanistan (2015-present)_
+_Context: Kabul, suicide bomber, War in Afghanistan (2015-present), NATO_
 
 ##### Syrian Civil War
 ### [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md)
@@ -49,7 +49,7 @@ An explosion and fire has occurred at a chemical warehouse in Shandong province 
 
 ##### Chinese
 ### [A landslide in China's Yunnan Province leaves three people dead and eight missing. ](/news/2015/08/22/a-landslide-in-china-s-yunnan-province-leaves-three-people-dead-and-eight-missing.md)
-_Context: Chinese, Yunnan Province_
+_Context: Yunnan Province, Chinese_
 
 ##### Prime Minister of Russia
 ### [The Prime Minister of Russia Dmitry Medvedev visits the disputed Kuril Islands prompting a protest from Japan. ](/news/2015/08/22/the-prime-minister-of-russia-dmitry-medvedev-visits-the-disputed-kuril-islands-prompting-a-protest-from-japan.md)

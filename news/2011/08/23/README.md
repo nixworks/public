@@ -13,7 +13,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Islam
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Thai Army, Islam, Thailand_
+_Context: Islam, Thailand, Thai Army_
 
 ##### Human Rights Council
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
@@ -21,7 +21,7 @@ The UN Human Rights Council orders an international inquiry to look into alleged
 
 ##### Palestinian
 ### [At least one Palestinian is killed and several injured following an Israeli drone aircraft attack on Gaza shortly after an informal ceasefire was reached. ](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.md)
-_Context: drone aircraft, Palestinian, Gaza Strip_
+_Context: Gaza Strip, drone aircraft, Palestinian_
 
 ##### Swiss
 ### [Swiss bank UBS AG announces plans to cut 3,500 jobs. ](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.md)
@@ -29,7 +29,7 @@ _Context: UBS AG, Swiss_
 
 ##### Hurricane Irene
 ### [Hurricane Irene reaches Category 2 strength as it hits the island of Hispaniola containing Haiti and the Dominican Republic. ](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.md)
-_Context: Hispaniola, Haiti, Hurricane Irene, Dominican Republic_
+_Context: Dominican Republic, Haiti, Hurricane Irene, Hispaniola_
 
 ##### Magnitude 5.8 earthquake
 ### [A magnitude 5.8 earthquake strikes near Mineral, Virginia; a nearby nuclear reactor is automatically shutdown due to the quake. This is the most powerful earthquake to hit Virginia since 1897. ](/news/2011/08/23/a-magnitude-5-8-earthquake-strikes-near-mineral-virginia-a-nearby-nuclear-reactor-is-automatically-shutdown-due-to-the-quake-this-is-the.md)
@@ -37,7 +37,7 @@ A 5.8 earthquake sent tremors from the nation’s capital to New York City and N
 
 ##### Thailand
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: Thailand, Palestine, United Nations General Assembly_
+_Context: Palestine, Thailand, United Nations General Assembly_
 
 ##### New York City
 ### [A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. ](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.md)
@@ -53,11 +53,11 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 
 ##### Conspiracy to hack mobile phones
 ### [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md)
-_Context: News International, Andy Coulson, Conservative Party, conspiracy to hack mobile phones, BBC, News of the World_
+_Context: News International, News of the World, BBC, Conservative Party, Andy Coulson, conspiracy to hack mobile phones_
 
 ##### Hattiesburg
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
-_Context: primary election, Democrat, Hattiesburg, Mississippi, major party nomination, Johnny DuPree_
+_Context: Hattiesburg, Mississippi, primary election, major party nomination, Johnny DuPree, Democrat_
 
 ## [Previous Day...](/news/2011/08/22/index.md)
 

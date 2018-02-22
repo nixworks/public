@@ -5,19 +5,19 @@ Formats: [HTML](2007/10/14/index.html)  [JSON](2007/10/14/index.json)  [XML](200
 
 ##### Bomb
 ### [ A bomb explodes in a movie theatre in Ludhiana in India's Punjab state killing at least six people and wounding at least 30 others. ](/news/2007/10/14/a-bomb-explodes-in-a-movie-theatre-in-ludhiana-in-india-s-punjab-state-killing-at-least-six-people-and-wounding-at-least-30-others.md)
-_Context: movie theatre, Ludhiana, bomb, Punjab, India_
+_Context: movie theatre, Ludhiana, Punjab, India, bomb_
 
 ##### Italy
 ### [ Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. ](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.md)
-_Context: Italy, Walter Veltroni, Democratic Party, Mayor of Rome_
+_Context: Democratic Party, Walter Veltroni, Mayor of Rome, Italy_
 
 ##### Israel
 ### [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md)
-_Context: Ehud Olmert, Israeli Prime Minister, Prime Minister, Israel_
+_Context: Israeli Prime Minister, Ehud Olmert, Israel, Prime Minister_
 
 ##### Burma
 ### [ Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. ](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.md)
-_Context: CNN, blog, Burma, Internet, BBC_
+_Context: BBC, blog, Internet, Burma, CNN_
 
 ##### Interfax
 ### [ The Interfax news agency reports that Russian security forces have received a warning of plans to assassinate the President of Russia Vladimir Putin in Iran.](/news/2007/10/14/the-interfax-news-agency-reports-that-russian-security-forces-have-received-a-warning-of-plans-to-assassinate-the-president-of-russia-vladi.md)
@@ -37,7 +37,7 @@ Prime Minister John Howard has arrived at Government House in Canberra and he is
 
 ##### Acropolis of Athens
 ### [ After 25 centuries, the marbles of the Acropolis of Athens are cautiously moved to the New Acropolis Museum. ](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.md)
-_Context: New Acropolis Museum, Acropolis of Athens_
+_Context: Acropolis of Athens, New Acropolis Museum_
 
 ## [Previous Day...](/news/2007/10/13/index.md)
 

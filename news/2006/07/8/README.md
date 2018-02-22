@@ -5,11 +5,11 @@ Formats: [HTML](2006/07/8/index.html)  [JSON](2006/07/8/index.json)  [XML](2006/
 
 ##### USS ''Mustin''
 ### [ USS "Mustin", which has surface-to-air and Tomahawk cruise missiles is deployed to a Japanese port. This is regularly scheduled and not in response to North Korea's missile test. ](/news/2006/07/8/uss-mustin-which-has-surface-to-air-and-tomahawk-cruise-missiles-is-deployed-to-a-japanese-port-this-is-regularly-scheduled-and-not-in.md)
-_Context: Japan, USS ''Mustin'', Tomahawk cruise, North Korea, surface-to-air, launch_
+_Context: surface-to-air, USS ''Mustin'', Tomahawk cruise, Japan, North Korea, launch_
 
 ##### Ornithopter
 ### [ The first confirrmed flight of a manned ornithopter operating under its own power is made in Toronto, Canada by aerospace scientists. ](/news/2006/07/8/the-first-confirrmed-flight-of-a-manned-ornithopter-operating-under-its-own-power-is-made-in-toronto-canada-by-aerospace-scientists.md)
-_Context: aerospace scientists, Canada, ornithopter, Toronto_
+_Context: Canada, ornithopter, Toronto, aerospace scientists_
 
 ##### United States
 ### [ US diplomat Christopher R. Hill indicates US support for the informal resumption of six party talks aimed at resolving the North Korean nuclear crisis. ](/news/2006/07/8/us-diplomat-christopher-r-hill-indicates-us-support-for-the-informal-resumption-of-six-party-talks-aimed-at-resolving-the-north-korean-nuc.md)

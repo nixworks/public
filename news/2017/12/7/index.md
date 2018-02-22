@@ -13,7 +13,7 @@ Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relati
 
 ##### European migrant crisis
 ### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
-_Context: European Court of Justice, European migrant crisis, voting right, Treaty on European Union, Hungary, Czech Republic, European Commission, Poland_
+_Context: voting right, Czech Republic, Poland, Treaty on European Union, Hungary, European migrant crisis, European Commission, European Court of Justice_
 
 ##### Economic globalization
 ### [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md)
@@ -21,11 +21,11 @@ _Context: European Court of Justice, European migrant crisis, voting right, Trea
 
 ##### Same-sex marriage in Australia
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
-_Context: Australia, same-sex marriage, Same-sex marriage in Australia, Parliament of Australia_
+_Context: Same-sex marriage in Australia, Australia, Parliament of Australia, same-sex marriage_
 
 ##### Aztec High School shooting
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
-_Context: New Mexico, Aztec High School, Aztec High School shooting_
+_Context: Aztec High School shooting, Aztec High School, New Mexico_
 
 ##### 2016-17 purges in Turkey
 ### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
@@ -33,7 +33,7 @@ An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Part
 
 ##### AMIA bombing
 ### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: foreign affairs minister, AMIA bombing, Hector Timerman, Cristina Fernandez, President of Argentina, community center_
+_Context: AMIA bombing, community center, foreign affairs minister, Hector Timerman, President of Argentina, Cristina Fernandez_
 
 ##### 2017 United States political sexual scandals
 ### [United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-announces-that-he-will-resign-in-the-coming-weeks-amid-sexual-harassment-allegations.md)

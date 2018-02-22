@@ -25,11 +25,11 @@ A powerful typhoon bearing down on the northern Japanese island of Hokkaido has 
 
 ##### Recent incident of hazes in 2015
 ### [The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegally-lit-forest-fires-that-ha.md)
-_Context: Joko Widodo, forest fire, President of Indonesia, recent incident of hazes in 2015_
+_Context: Joko Widodo, President of Indonesia, forest fire, recent incident of hazes in 2015_
 
 ##### Ecuador
 ### [Ecuador's restive Cotopaxi volcano erupts. ](/news/2015/10/8/ecuador-s-restive-cotopaxi-volcano-erupts.md)
-_Context: Ecuador, Cotopaxi volcano_
+_Context: Cotopaxi volcano, Ecuador_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.md)
@@ -45,7 +45,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ##### United States House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: Majority Leader, Speaker of the United States House of Representatives election, October 2015, John Boehner, United States House of Representatives, Kevin McCarthy, U.S. Speaker of the House of Representatives_
+_Context: Kevin McCarthy, John Boehner, United States House of Representatives, U.S. Speaker of the House of Representatives, Majority Leader, Speaker of the United States House of Representatives election, October 2015_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

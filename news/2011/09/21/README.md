@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/21/index.html)  [JSON](2011/09/21/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Yemeni government forces break a recently-established ceasefire by firing mortar rounds at mourners at the funerals of protesters. ](/news/2011/09/21/2011-yemeni-uprising-yemeni-government-forces-break-a-recently-established-ceasefire-by-firing-mortar-rounds-at-mourners-at-the-funerals-of.md)
-_Context: 2011 Yemeni uprising, Mortar fire, Yemen_
+_Context: Mortar fire, Yemen, 2011 Yemeni uprising_
 
 ##### Pakistan
 ### [Parts of the Pakistani city of Quetta observe a shutdown in response to the killing of 29 Shiite protesters on Tuesday. ](/news/2011/09/21/parts-of-the-pakistani-city-of-quetta-observe-a-shutdown-in-response-to-the-killing-of-29-shiite-protesters-on-tuesday.md)
-_Context: Shiite, Quetta, Pakistan_
+_Context: Pakistan, Shiite, Quetta_
 
 ##### Rock music
 ### [US rock band R.E.M. announce they are splitting up. ](/news/2011/09/21/us-rock-band-r-e-m-announce-they-are-splitting-up.md)
@@ -17,19 +17,19 @@ The members of American rock band R.E.M. have announced they are splitting up af
 
 ##### Google+
 ### [Google+, the social network service developed by search engine giant Google, is released to the general public. ](/news/2011/09/21/google-the-social-network-service-developed-by-search-engine-giant-google-is-released-to-the-general-public.md)
-_Context: social network, Google+, search engine, Google_
+_Context: Google, Google+, search engine, social network_
 
 ##### United Technologies Corp
 ### [United Technologies Corporation announced that it reached an agreement to purchase Goodrich Corporation, manufacturer of spacecraft attitude control systems, for US$18.4B. ](/news/2011/09/21/united-technologies-corporation-announced-that-it-reached-an-agreement-to-purchase-goodrich-corporation-manufacturer-of-spacecraft-attitude.md)
-_Context: United Technologies Corp, Goodrich Corporation, attitude control_
+_Context: attitude control, Goodrich Corporation, United Technologies Corp_
 
 ##### Indonesia
 ### [Indonesian search and rescue agencies continue to search for survivors after a boat sinks off the coast of Bali, with 11 people confirmed dead and 14 missing. ](/news/2011/09/21/indonesian-search-and-rescue-agencies-continue-to-search-for-survivors-after-a-boat-sinks-off-the-coast-of-bali-with-11-people-confirmed-de.md)
-_Context: Indonesia, search and rescue, Bali_
+_Context: Bali, search and rescue, Indonesia_
 
 ##### Typhoon Roke
 ### [Typhoon Roke bears down on northeastern Japan, with four people reported dead due to flooding. ](/news/2011/09/21/typhoon-roke-bears-down-on-northeastern-japan-with-four-people-reported-dead-due-to-flooding.md)
-_Context: Typhoon Roke, flood, Japan_
+_Context: Japan, flood, Typhoon Roke_
 
 ##### 2011 Sikkim earthquake
 ### [The death toll from the 2011 Sikkim earthquake rises above 100. ](/news/2011/09/21/the-death-toll-from-the-2011-sikkim-earthquake-rises-above-100.md)
@@ -37,11 +37,11 @@ THE death toll from a 6.9-magnitude quake that hit the India-Nepal border has ri
 
 ##### North Korea
 ### [The governments of North Korea and South Korea meet but fail to reach an agreement on the resumption of Six-party talks on North Korea's nuclear weapons program. ](/news/2011/09/21/the-governments-of-north-korea-and-south-korea-meet-but-fail-to-reach-an-agreement-on-the-resumption-of-six-party-talks-on-north-korea-s-nuc.md)
-_Context: North Korea's nuclear program, North Korea, Six-party talks, South Korea_
+_Context: South Korea, North Korea, Six-party talks, North Korea's nuclear program_
 
 ##### South Korea
 ### [South Korean religious leaders leave for North Korea on a rare visit. ](/news/2011/09/21/south-korean-religious-leaders-leave-for-north-korea-on-a-rare-visit.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Shane Bauer and Josh Fattal
 ### [Two American hikers, Shane Bauer and Josh Fattal, are set free on bail by Iran as a humanitarian gesture, after being detained in prison for over two years under allegations of espionage. ](/news/2011/09/21/two-american-hikers-shane-bauer-and-josh-fattal-are-set-free-on-bail-by-iran-as-a-humanitarian-gesture-after-being-detained-in-prison-for.md)

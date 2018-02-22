@@ -21,7 +21,7 @@ Afghan security forces surrounded a house in the capital Kabul on Wednesday and 
 
 ##### HP Labs
 ### [ HP Labs announces the creation of the memristor, at times described as the fourth basic electronic element. The memristor was first predicted in 1971 by Leon Chua. The discovery may have a tremendous impact on computing and electronics, joining the other basic electronic elements the resistor, capacitor, and inductor. ](/news/2008/04/30/hp-labs-announces-the-creation-of-the-memristor-at-times-described-as-the-fourth-basic-electronic-element-the-memristor-was-first-predict.md)
-_Context: Leon Chua, resistor, memristor, capacitor, inductor, HP Labs_
+_Context: HP Labs, Leon Chua, resistor, inductor, memristor, capacitor_
 
 ## [Previous Day...](/news/2008/04/29/index.md)
 

@@ -7,9 +7,9 @@ Formats: [HTML](2018/02/20/index.html)  [JSON](2018/02/20/index.json)  [XML](201
 ### [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md)
 Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
 
-##### Venezuela
+##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Petro cryptocurrency, cryptocurrency, Venezuela_
+_Context: Petro cryptocurrency, Venezuela, Economy of Venezuela, cryptocurrency_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -19,7 +19,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 ### [Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. ](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the-missing-aseman-airliner-30-meters-below-a-hilltop-on-mount-dena-helicopters-could-not-land.md)
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
-##### Indonesia
+##### 2018 Mount Sinabung eruption
 ### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7 km high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-km-high-much-of-the-s.md)
 Side-by-side images show what the top of the volcano looks like.
 

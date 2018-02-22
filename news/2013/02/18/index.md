@@ -9,7 +9,7 @@ Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,0
 
 ##### English
 ### [English singer-songwriter Kevin Ayers dies at the age of 68. ](/news/2013/02/18/english-singer-songwriter-kevin-ayers-dies-at-the-age-of-68.md)
-_Context: Kevin Ayers, English, singer-songwriter_
+_Context: Kevin Ayers, singer-songwriter, English_
 
 ##### Fishing vessel
 ### [A fishing vessel capsizes off of Liverpool, Nova Scotia, Canada, leaving 5 fishermen missing in the frigid waters. ](/news/2013/02/18/a-fishing-vessel-capsizes-off-of-liverpool-nova-scotia-canada-leaving-5-fishermen-missing-in-the-frigid-waters.md)
@@ -21,7 +21,7 @@ Flooding and landslides in the Indonesian province of North Sulawesi leave at le
 
 ##### Nestl
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: 2013 meat adulteration scandal, beef, Nestl, Spain, Italy, horses for meat, France, supermarket_
+_Context: French, Nestl, supermarket, Italy, Spain, 2013 meat adulteration scandal, horses for meat, beef_
 
 ##### Robber
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
@@ -29,7 +29,7 @@ Armed robbers disguised as police escape with a massive haul of diamonds after a
 
 ##### Murder-suicide
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Missouri, murder-suicide, United States, Fairdealing_
+_Context: United States, murder-suicide, Missouri, Fairdealing_
 
 ##### Armenia
 ### [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md)
@@ -41,7 +41,7 @@ The predawn homecoming of President Hugo Chávez more than two months after havi
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Hamadi Jebali announces that plans for a new government of technocrats has failed. ](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.md)
-_Context: Hamadi Jebali, Tunisia, government, Prime Minister of Tunisia_
+_Context: Prime Minister of Tunisia, government, Hamadi Jebali, Tunisia_
 
 ## [Previous Day...](/news/2013/02/17/index.md)
 

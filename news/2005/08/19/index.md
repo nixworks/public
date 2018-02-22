@@ -9,15 +9,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI speaks inside a synagogue at World Youth Day 2005 about the Judeo-Christian relationship. He also speaks with Protestant and Orthodox Christians about upcoming challenges within Christianity. ](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.md)
-_Context: Pope Benedict XVI, Eastern Orthodox Church, World Youth Day 2005, Judeo-Christian, Protestantism, synagogue_
+_Context: synagogue, Eastern Orthodox Church, Judeo-Christian, Pope Benedict XVI, Protestantism, World Youth Day 2005_
 
 ##### Sunni
 ### [ 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-to-vote-in-the-upcom.md)
-_Context: political party, Sunni, Arab, Mosul, Iraq_
+_Context: Sunni, political party, Arab, Mosul, Iraq_
 
 ##### Pierre Nkurunziza
 ### [ Pierre Nkurunziza of the National Council for the Defense of Democracy-Forces for the Defense of Democracy, a former rebel leader of the Hutu majority in Burundi, has been elected unopposed as the new President of Burundi by the parliament, the first president chosen through democratic means since the start of the civil war in 1993. He will be sworn in on 27 August. ](/news/2005/08/19/pierre-nkurunziza-of-the-national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy-a-former-rebel-leader-of-the-hu.md)
-_Context: Burundi, Hutu, Pierre Nkurunziza, President of Burundi, Parliament of Burundi, 27 August, National Council for the Defense of Democracy-Forces for the Defense of Democracy, Burundi Civil War, elected unopposed_
+_Context: Hutu, elected unopposed, Parliament of Burundi, Pierre Nkurunziza, Burundi, Burundi Civil War, National Council for the Defense of Democracy-Forces for the Defense of Democracy, 27 August, President of Burundi_
 
 ##### Northern Ireland Secretary
 ### [ Former Northern Ireland Secretary Mo Mowlam has died in a hospice at the age of 55. ](/news/2005/08/19/former-northern-ireland-secretary-mo-mowlam-has-died-in-a-hospice-at-the-age-of-55.md)
@@ -41,11 +41,11 @@ Merck &amp; Co. suffered a serious blow Friday when it lost the first wrongful d
 
 ##### Pakistan
 ### [ Pakistan's Supreme Court upholds the death sentence awarded to Manjit Singh, an alleged Research and Analysis Wing agent who was also reportedly involved in five bomb blasts in the country. Singh was arrested by security forces at the Indo-Pak border on August 30, 1990. ](/news/2005/08/19/pakistan-s-supreme-court-upholds-the-death-sentence-awarded-to-manjit-singh-an-alleged-research-and-analysis-wing-agent-who-was-also-repor.md)
-_Context: 1990, Pakistan, Supreme Court, Research and Analysis Wing, death sentence, Sarabjit Singh_
+_Context: Sarabjit Singh, Pakistan, 1990, Research and Analysis Wing, Supreme Court, death sentence_
 
 ##### India
 ### [ In one of the worst confrontations on the Indo-Bangla frontier in recent months, Bangladesh Rifles opens unprovoked fire at the India side at some outposts in West Bengal. About 500 rounds were fired in the skirmishes, but there was no casualty. ](/news/2005/08/19/in-one-of-the-worst-confrontations-on-the-indo-bangla-frontier-in-recent-months-bangladesh-rifles-opens-unprovoked-fire-at-the-india-side.md)
-_Context: West Bengal, India, Bangladesh, Bangladesh Rifles_
+_Context: West Bengal, Bangladesh Rifles, Bangladesh, India_
 
 ## [Previous Day...](/news/2005/08/18/index.md)
 

@@ -25,7 +25,7 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ##### 2016 Christchurch earthquake
 ### [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md)
-_Context: United States Geological Survey, St. John ambulance service, earthquake, Christchurch, New Zealand, magnitude, 2016 Christchurch earthquake_
+_Context: Christchurch, St. John ambulance service, earthquake, 2016 Christchurch earthquake, United States Geological Survey, New Zealand, magnitude_
 
 ##### Northeastern United States
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
@@ -41,7 +41,7 @@ Tainan Mayor William Lai (賴清德) at 4:20pm yesterday announced that the sear
 
 ##### Cannon Mountain
 ### [Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. ](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.md)
-_Context: New Hampshire, White Mountains, Cannon Mountain_
+_Context: White Mountains, Cannon Mountain, New Hampshire_
 
 ##### European migrant crisis
 ### [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md)

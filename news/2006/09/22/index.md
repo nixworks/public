@@ -9,11 +9,11 @@ _Context: F-14 Tomcat, ''Top Gun''_
 
 ##### Patricia Dunn
 ### [ Patricia Dunn announces her resignation as Hewlett-Packard's chairman and board member, following a pretexting scandal. Mark Hurd has replaced Dunn as chairman of the company, effective immediately. ](/news/2006/09/22/patricia-dunn-announces-her-resignation-as-hewlett-packard-s-chairman-and-board-member-following-a-pretexting-scandal-mark-hurd-has-repla.md)
-_Context: Patricia Dunn, pretexting scandal, Hewlett-Packard, Mark Hurd_
+_Context: Patricia Dunn, Mark Hurd, pretexting scandal, Hewlett-Packard_
 
 ##### Prime Minister of Israel
 ### [ Israeli Prime Minister Ehud Olmert ranks fifth (7% support) in an Israeli poll of potential prime ministers. ](/news/2006/09/22/israeli-prime-minister-ehud-olmert-ranks-fifth-7-support-in-an-israeli-poll-of-potential-prime-ministers.md)
-_Context: Ehud Olmert, Prime Minister of Israel_
+_Context: Prime Minister of Israel, Ehud Olmert_
 
 ##### Central Sulawesi
 ### [ Thousands riot in Central Sulawesi, Indonesia, following the execution of three Christian militants found guilty of taking part in an attack on a Muslim boarding school. ](/news/2006/09/22/thousands-riot-in-central-sulawesi-indonesia-following-the-execution-of-three-christian-militants-found-guilty-of-taking-part-in-an-attac.md)
@@ -25,7 +25,7 @@ _Context: Richard Hammond, Top Gear, BBC_
 
 ##### Transrapid
 ### [ A prototype Transrapid Maglev train crashes into a maintenance vehicle on elevated track in Emsland, Germany, killing 23 people and severely injuring 10. ](/news/2006/09/22/a-prototype-transrapid-maglev-train-crashes-into-a-maintenance-vehicle-on-elevated-track-in-emsland-germany-killing-23-people-and-severel.md)
-_Context: Emsland, German, Transrapid, Maglev_
+_Context: German, Transrapid, Emsland, Maglev_
 
 ##### Tainted spinach
 ### [ The reported number of people fallen ill after eating tainted spinach reaches 166 in 25 U.S. states. ](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-eating-tainted-spinach-reaches-166-in-25-u-s-states.md)

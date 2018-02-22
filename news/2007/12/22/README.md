@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/22/index.html)  [JSON](2007/12/22/index.json)  [XML](200
 
 ##### Iraq War
 ### [ Iraq War: Turkish Air Force planes strike Kurdistan Workers Party targets in northern Iraq. ](/news/2007/12/22/iraq-war-turkish-air-force-planes-strike-kurdistan-workers-party-targets-in-northern-iraq.md)
-_Context: Iraq War, Turkish Air Force, Kurdistan Workers Party, Iraq_
+_Context: Iraq War, Kurdistan Workers Party, Iraq, Turkish Air Force_
 
 ## [Previous Day...](/news/2007/12/21/index.md)
 

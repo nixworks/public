@@ -17,7 +17,7 @@ At least 13 people have been killed and 34 others wounded when police fought a b
 
 ##### Suicide bombing
 ### [Al-Qaeda announced that it had temporarily captured the Pakistani Navy frigate PNS Zulfiquar, in an attempt to attack the U.S fleet with onboard missiles, before it was recaptured by Pakistani Forces. ](/news/2014/09/17/al-qaeda-announced-that-it-had-temporarily-captured-the-pakistani-navy-frigate-pns-zulfiquar-in-an-attempt-to-attack-the-u-s-fleet-with-onb.md)
-_Context: suicide bombing, Pakistani Navy, PNS Zulfiquar_
+_Context: Pakistani Navy, suicide bombing, PNS Zulfiquar_
 
 ##### University of Leicester
 ### [Forensic teams from the University of Leicester reveal that King Richard III of England was killed at the Battle of Bosworth by a combination of blows to the skull and pelvis. ](/news/2014/09/17/forensic-teams-from-the-university-of-leicester-reveal-that-king-richard-iii-of-england-was-killed-at-the-battle-of-bosworth-by-a-combinatio.md)
@@ -25,7 +25,7 @@ King Richard III was probably killed by two blows to the head during a &quot;sus
 
 ##### Carl XVI Gustaf
 ### [King Carl XVI Gustaf of Sweden is involved in a car accident on the Nockebybron bridge west of Stockholm. ](/news/2014/09/17/king-carl-xvi-gustaf-of-sweden-is-involved-in-a-car-accident-on-the-nockebybron-bridge-west-of-stockholm.md)
-_Context: Carl XVI Gustaf, Nockebybron, Sweden, Stockholm_
+_Context: Stockholm, Carl XVI Gustaf, Nockebybron, Sweden_
 
 ##### Mayon Volcano
 ### [Evacuations continue from the area surrounding the Mayon Volcano in the Philippines as lava flows down the mountain ahead of a possible eruption. ](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.md)
@@ -33,7 +33,7 @@ Lava is flowing down the Philippines&#039; most active volcano as thousands evac
 
 ##### Xi Jinping
 ### [Xi Jinping, the President of China, travels to India to improve trade links and attempt to resolve decades old disputes over borders. ](/news/2014/09/17/xi-jinping-the-president-of-china-travels-to-india-to-improve-trade-links-and-attempt-to-resolve-decades-old-disputes-over-borders.md)
-_Context: Xi Jinping, Chinese President, India_
+_Context: Chinese President, Xi Jinping, India_
 
 ##### Fiji
 ### [Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/voters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimarama-s-fiji-first-party-achieving.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2017/02/10/index.html)  [JSON](2017/02/10/index.json)  [XML](201
 
 ## [2017-02-10](/news/2017/02/10/index.md)
 
-##### France
+##### French
 ### [French police arrest three men and a 16-year-old girl found with bomb-making materials in a Montpellier flat. The female suspect had been spotted online saying she wanted to either leave for the Syria-Iraq conflict or mount an attack in France, and recorded a video in which she pledged allegiance to ISIL. ](/news/2017/02/10/french-police-arrest-three-men-and-a-16-year-old-girl-found-with-bomb-making-materials-in-a-montpellier-flat-the-female-suspect-had-been-sp.md)
 Three men and a girl of 16 are found with bomb-making materials in a police raid in Montpellier.
 
@@ -45,7 +45,7 @@ Major funding commitment to help ‘virtually bankrupt’ country shake off lega
 
 ##### Peru
 ### [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md)
-_Context: bribes, Peru, $, President, Alejandro Toledo, Odebrecht, Brazil_
+_Context: Odebrecht, $, Peru, Brazil, bribes, Alejandro Toledo, President_
 
 ##### Cabinet of Donald Trump
 ### [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md)

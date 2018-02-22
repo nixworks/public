@@ -13,11 +13,11 @@ _Context: One World Trade Center, New York_
 
 ##### Polio
 ### [ Polio spreads across Nigeria and ten other African nations after vaccinations are suspended in Kano province, on rumors that the vaccine was adulterated to cause infertility and AIDS. ](/news/2004/07/4/polio-spreads-across-nigeria-and-ten-other-african-nations-after-vaccinations-are-suspended-in-kano-province-on-rumors-that-the-vaccine-wa.md)
-_Context: Nigeria, AIDS, Kano, Polio, infertility_
+_Context: Polio, Kano, infertility, AIDS, Nigeria_
 
 ##### Roger Federer
 ### [ Roger Federer wins the men's Wimbledon championship for the second straight year, defeating Andy Roddick in four sets. ](/news/2004/07/4/roger-federer-wins-the-men-s-wimbledon-championship-for-the-second-straight-year-defeating-andy-roddick-in-four-sets.md)
-_Context: Andy Roddick, Wimbledon, Roger Federer_
+_Context: Roger Federer, Andy Roddick, Wimbledon_
 
 ## [Previous Day...](/news/2004/07/3/index.md)
 

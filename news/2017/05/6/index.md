@@ -21,7 +21,7 @@ Young protester shot in the head amid continuation of demonstrations that brand 
 
 ##### 2016-17 South Pacific cyclone season
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
-_Context: Vanuatu, Category Four, Torba Province, 2016-17 South Pacific cyclone season_
+_Context: 2016-17 South Pacific cyclone season, Vanuatu, Category Four, Torba Province_
 
 ##### Arusha Region
 ### [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md)
@@ -29,7 +29,7 @@ The students from a primary school in northern Tanzania were travelling to sit a
 
 ##### Lagos-Ibadan Expressway
 ### [At least 36 people are dead after two buses crash on the Lagos-Ibadan Expressway in Nigeria. ](/news/2017/05/6/at-least-36-people-are-dead-after-two-buses-crash-on-the-lagosaibadan-expressway-in-nigeria.md)
-_Context: Nigeria, Lagos-Ibadan Expressway_
+_Context: Lagos-Ibadan Expressway, Nigeria_
 
 ##### Last month's presidential election
 ### [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md)

@@ -17,19 +17,19 @@ _Context: Chinese Academy of Social Sciences_
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Ban Ki-moon outlines seven priorities for 2010 and urges a renewed focus on sustainable development, ending poverty, disease and hunger. ](/news/2010/01/11/united-nations-secretary-general-ban-ki-moon-outlines-seven-priorities-for-2010-and-urges-a-renewed-focus-on-sustainable-development-ending.md)
-_Context: sustainable development, United Nations Secretary-General, Ban Ki-moon_
+_Context: Ban Ki-moon, sustainable development, United Nations Secretary-General_
 
 ##### Wolfgang Wodarg
 ### [Wolfgang Wodarg, the Council of Europe's head of health affairs, claims that the 2009 flu pandemic was a "false pandemic" orchestrated by the pharmaceutical industry to sell vaccines. ](/news/2010/01/11/wolfgang-wodarg-the-council-of-europe-s-head-of-health-affairs-claims-that-the-2009-flu-pandemic-was-a-false-pandemic-orchestrated-by-th.md)
-_Context: flu pandemic, pharmaceutical industry, Council of Europe, Wolfgang Wodarg_
+_Context: Wolfgang Wodarg, Council of Europe, pharmaceutical industry, flu pandemic_
 
 ##### City Health Department
 ### [The New York City Health Department seeks national reduction of salt in food. ](/news/2010/01/11/the-new-york-city-health-department-seeks-national-reduction-of-salt-in-food.md)
-_Context: City Health Department, salt_
+_Context: salt, City Health Department_
 
 ##### United Nations
 ### [The United Nations seeks to virtually eliminate mother-to-child transmission of HIV-AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. ](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.md)
-_Context: United Nations, Kenya, Sauri, Millennium Villages Project, Michel Sidib, AIDS_
+_Context: Michel Sidib, Millennium Villages Project, United Nations, AIDS, Sauri, Kenya_
 
 ##### North Korea
 ### [North Korea proposes a peace treaty, replacing the Korean War armistice. ](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.md)
@@ -37,7 +37,7 @@ _Context: Korean War, North Korea_
 
 ##### Perry v. Schwarzenegger
 ### ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md)
-_Context: same-sex marriage, landmark case, reversed its legalization, Perry v. Schwarzenegger, San Francisco_
+_Context: Perry v. Schwarzenegger, same-sex marriage, reversed its legalization, landmark case, San Francisco_
 
 ##### Ignacio Allende
 ### [Hundreds of prisoners are transferred from the Ignacio Allende prison in Veracruz, Mexico, in preparation for a controversial Mel Gibson film shoot. Protests from relatives of the prisoners are ignored. ](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.md)
@@ -49,7 +49,7 @@ Thousands of supporters of former premier Thaksin Shinawatra rallied on Monday o
 
 ##### Tombs
 ### [Tombs discovered near Egypt's pyramids reinforce the theory they were built by free workers rather than slaves. ](/news/2010/01/11/tombs-discovered-near-egypt-s-pyramids-reinforce-the-theory-they-were-built-by-free-workers-rather-than-slaves.md)
-_Context: slaves, Tombs, Egypt's pyramids_
+_Context: Tombs, slaves, Egypt's pyramids_
 
 ## [Previous Day...](/news/2010/01/10/index.md)
 

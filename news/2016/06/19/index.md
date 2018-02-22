@@ -13,7 +13,7 @@ Flash flooding and landslides in Indonesia kill 35 and leave more than two dozen
 
 ##### Lake Syamozero
 ### [At least 14 people, mostly children, are killed in a storm that struck Lake Syamozero in the Republic of Karelia, Russia. Those killed were among 49 people who went rafting on the lake late at night before a storm capsized their boats. ](/news/2016/06/19/at-least-14-people-mostly-children-are-killed-in-a-storm-that-struck-lake-syamozero-in-the-republic-of-karelia-russia-those-killed-were.md)
-_Context: Russia, Lake Syamozero, Republic of Karelia_
+_Context: Lake Syamozero, Republic of Karelia, Russia_
 
 ##### Japan-United States relations
 ### [Over 50,000 people protest in Okinawa capital Naha against U.S. military presence on the Japanese island, spurred on by last month's arrest of an U.S. Marine veteran, civilian contractor for the rape and killing of a 20-year-old local woman. ](/news/2016/06/19/over-50-000-people-protest-in-okinawa-capital-naha-against-u-s-military-presence-on-the-japanese-island-spurred-on-by-last-month-s-arrest.md)
@@ -21,7 +21,7 @@ TOKYO (AP) — Tens of thousands of people on the Japanese island of Okinawa pro
 
 ##### Mexican police
 ### [Clashes between the Mexican police and members of the radical Mexican teachers union National Coordinator of Education Workers in Oaxaca leaves at least six people dead. ](/news/2016/06/19/clashes-between-the-mexican-police-and-members-of-the-radical-mexican-teachers-union-national-coordinator-of-education-workers-in-oaxaca-lea.md)
-_Context: Oaxaca, Mexican police_
+_Context: Mexican police, Oaxaca_
 
 ##### Italian local elections, 2016
 ### [Voters in the Italian capital of Rome go to the polls for a runoff election to select a new Mayor of Rome with exit polls showing Virginia Raggi of the Five Star Movement will become the first female Mayor. ](/news/2016/06/19/voters-in-the-italian-capital-of-rome-go-to-the-polls-for-a-runoff-election-to-select-a-new-mayor-of-rome-with-exit-polls-showing-virginia-r.md)

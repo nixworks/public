@@ -25,7 +25,7 @@ _Context: Romania, Galati County_
 
 ##### Floods in the United States: 2001-present
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Floods in the United States: 2001-present, Colorado, Boulder County_
+_Context: Colorado, Boulder County, Floods in the United States: 2001-present_
 
 ##### World War II
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
@@ -33,7 +33,7 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ##### Crossville
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
-_Context: Tennessee, U.S., Crossville_
+_Context: U.S., Crossville, Tennessee_
 
 ##### India
 ### [An Indian court sentences four men to death for the 2012 Delhi gang rape case. ](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.md)

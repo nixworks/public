@@ -21,7 +21,7 @@ _Context: Villahermosa, crashes, Mexico City_
 
 ##### Overland Park Jewish Community Center shooting
 ### [Overland Park Jewish Community Center shooting. Two shootings occur at Jewish facilities on the Kansas side of the Kansas City area. The first occurs at a Jewish Community Center in Overland Park, and the second takes place at a retirement center in Leawood. Three people are killed. A gunman is arrested. ](/news/2014/04/13/overland-park-jewish-community-center-shooting-two-shootings-occur-at-jewish-facilities-on-the-kansas-side-of-the-kansas-city-area-the-fir.md)
-_Context: Overland Park, Leawood, Jewish, Kansas City area, Jewish Community Center, Kansas, Overland Park Jewish Community Center shooting_
+_Context: Kansas City area, Overland Park, Leawood, Overland Park Jewish Community Center shooting, Jewish Community Center, Jewish, Kansas_
 
 ##### Forest fire
 ### [A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. ](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destroys-thousands-of-homes-and-leaves-11-people-dead.md)
@@ -33,11 +33,11 @@ Another powerful earthquake has struck the Solomon Islands, the second strong te
 
 ##### Libyan Prime Minister
 ### [Prime Minister of Libya Abdullah al-Thani resigns, citing that he and his family were attacked. ](/news/2014/04/13/prime-minister-of-libya-abdullah-al-thani-resigns-citing-that-he-and-his-family-were-attacked.md)
-_Context: Abdullah al-Thani, Libyan Prime Minister_
+_Context: Libyan Prime Minister, Abdullah al-Thani_
 
 ##### Runoff presidential election
 ### [Voters in Macedonia go to the polls for the first round of voting in a presidential election. ](/news/2014/04/13/voters-in-macedonia-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election.md)
-_Context: Republic of Macedonia, runoff presidential election_
+_Context: runoff presidential election, Republic of Macedonia_
 
 ## [Previous Day...](/news/2014/04/12/index.md)
 

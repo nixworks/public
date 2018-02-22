@@ -9,7 +9,7 @@ _Context: Nobel Prize in Literature, Tomas Transtromer_
 
 ##### Japan
 ### [Production at the Japanese plants of carmaker Toyota returns to normal following the 2011 Tohoku earthquake and tsunami. ](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Toyota, Japan, 2011 Tohoku earthquake and tsunami_
+_Context: Toyota, 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Bank of England
 ### [The Bank of England injects a further GBP75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-agbp75bn-into-the-british-economy-through-quantitative-easing.md)
@@ -25,7 +25,7 @@ _Context: North Korea, South Korea_
 
 ##### Ichiro Ozawa
 ### [The trial of Ichiro Ozawa, a powerful faction leader in the ruling Democratic Party of Japan, over a political funding scandal begins today in Japan. ](/news/2011/10/6/the-trial-of-ichira-ozawa-a-powerful-faction-leader-in-the-ruling-democratic-party-of-japan-over-a-political-funding-scandal-begins-today.md)
-_Context: Ichiro Ozawa, Democratic Party, Japan_
+_Context: Democratic Party, Ichiro Ozawa, Japan_
 
 ##### Canada
 ### [Voters in Canada's most populous province Ontario go to the polls for a general election with the Ontario Liberal Party, led by Dalton McGuinty, winning another term under a slight minority government.](/news/2011/10/6/voters-in-canada-s-most-populous-province-ontario-go-to-the-polls-for-a-general-election-with-the-ontario-liberal-party-led-by-dalton-mcgui.md)

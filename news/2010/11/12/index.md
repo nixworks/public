@@ -25,7 +25,7 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 
 ##### Brazil
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
-_Context: logging, Amazon Rainforest, Brazil_
+_Context: Brazil, logging, Amazon Rainforest_
 
 ##### Economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)
@@ -33,7 +33,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### United Kingdom
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: Pontin's, United Kingdom_
+_Context: United Kingdom, Pontin's_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
@@ -49,7 +49,7 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 
 ##### Nursing home
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)
-_Context: South Korea, Pohang, nursing home_
+_Context: nursing home, South Korea, Pohang_
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
@@ -73,7 +73,7 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 
 ##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: European Union, nuclear program, Iran_
+_Context: Iran, European Union, nuclear program_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
@@ -89,7 +89,7 @@ _Context: Hassan Bamoum, Yemen_
 
 ##### Omar Bakri Muhammad
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
-_Context: Lebanese, Omar Bakri Muhammad, life imprisonment_
+_Context: Omar Bakri Muhammad, life imprisonment, Lebanese_
 
 ##### Transparency International
 ### [Transparency International names Poddala Jayantha, Sergei Magnitsky and Gregory Ngbwa Minsta as joint winners of a global award for integrity. ](/news/2010/11/12/transparency-international-names-poddala-jayantha-sergei-magnitsky-and-gregory-ngbwa-minsta-as-joint-winners-of-a-global-award-for-integrit.md)
@@ -113,7 +113,7 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ##### Jos Alencar
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)
-_Context: Jos Alencar, So Paulo, Luiz Incio Lula da Silva_
+_Context: Luiz Incio Lula da Silva, Jos Alencar, So Paulo_
 
 ##### Israeli Prime Minister
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
@@ -125,7 +125,7 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 
 ##### Prime Minister of Somalia
 ### [The Prime Minister of Somalia Mohamed Abdullahi Mohamed names a new Cabinet with doubts that the parliament will approve his choices. ](/news/2010/11/12/the-prime-minister-of-somalia-mohamed-abdullahi-mohamed-names-a-new-cabinet-with-doubts-that-the-parliament-will-approve-his-choices.md)
-_Context: Prime Minister of Somalia, parliament, Mohamed Abdullahi Mohamed_
+_Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
 
 ## [Previous Day...](/news/2010/11/11/index.md)
 

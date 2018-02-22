@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/23/index.html)  [JSON](2016/08/23/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [In a raid on Boko Haram Islamists' northeast heartland, Nigeria's air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeriaas-air-force-kills-senior-militants-and-possibly-fatally-wounds-their-leade.md)
-_Context: Boko Haram insurgency, Abubakar Shekau, Nigerian Air Force_
+_Context: Abubakar Shekau, Boko Haram insurgency, Nigerian Air Force_
 
 ##### War in Afghanistan (2015-present)
 ### [A U.S. service member becomes the first U.S. military combat casualty in Afghanistan since January 2016 when he is killed by an improvised explosive device (IED) while on patrol near the city of Lashkar Gah in Afghanistan's southern Helmand Province. Another American service member and six Afghan soldiers were also injured in the blast. ](/news/2016/08/23/a-u-s-service-member-becomes-the-first-u-s-military-combat-casualty-in-afghanistan-since-january-2016-when-he-is-killed-by-an-improvised-e.md)
@@ -41,11 +41,11 @@ The matter is likely to come up when US Vice&nbsp;President Joe Biden&nbsp;trave
 
 ##### 2015 Bangkok bombing
 ### [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md)
-_Context: Uighur, China, Bangkok, Thailand, 2015 Bangkok bombing_
+_Context: Thailand, China, Bangkok, 2015 Bangkok bombing, Uighur_
 
 ##### Drug crackdown
 ### [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md)
-_Context: drug crackdown, Commission on Human Rights, ICC_
+_Context: ICC, Commission on Human Rights, drug crackdown_
 
 ##### The New York Times
 ### ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md)

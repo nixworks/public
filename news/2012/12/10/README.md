@@ -21,35 +21,35 @@ _Context: Typhoon Bopha, Philippines_
 
 ##### New Zealand
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)
-_Context: CTV Building, Royal Commission, New Zealand, 2011 Christchurch earthquake_
+_Context: Royal Commission, 2011 Christchurch earthquake, New Zealand, CTV Building_
 
 ##### Minquan County
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: Henan province, pond, Chinese, bus, Minquan County_
+_Context: Chinese, Henan province, Minquan County, bus, pond_
 
 ##### Tolima department
 ### [At least nine people are killed and at 32 others are wounded in Tolima department, Colombia, after a bus falls of a 300-meter cliff. ](/news/2012/12/10/at-least-nine-people-are-killed-and-at-32-others-are-wounded-in-tolima-department-colombia-after-a-bus-falls-of-a-300-meter-cliff.md)
-_Context: Colombia, Tolima department_
+_Context: Tolima department, Colombia_
 
 ##### Japan
 ### [Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. ](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.md)
-_Context: Japan-North Korea relations, Unha, Japan, launches, North Korea_
+_Context: North Korea, Unha, launches, Japan-North Korea relations, Japan_
 
 ##### European Union
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, European Union, Nobel Peace Prize, Oslo, Norway_
+_Context: Oslo, Norway, Nobel Peace Prize, 2012, European Union_
 
 ##### John Hickenlooper
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
-_Context: US, marijuana, Colorado, Governor, John Hickenlooper, state constitution_
+_Context: Governor, state constitution, US, Colorado, John Hickenlooper, marijuana_
 
 ##### Baghdadi Mahmudi
 ### [Baghdadi Mahmudi, a former Prime Minister of Libya, under Muammar Gaddafi, goes on trial in Tripoli charged with "acts that led to the unjust killing of Libyans". ](/news/2012/12/10/baghdadi-mahmudi-a-former-prime-minister-of-libya-under-muammar-gaddafi-goes-on-trial-in-tripoli-charged-with-acts-that-led-to-the-unjus.md)
-_Context: Libyan Prime Minister, Muammar Gaddafi, Libyans, Tripoli, Baghdadi Mahmudi_
+_Context: Tripoli, Muammar Gaddafi, Libyan Prime Minister, Baghdadi Mahmudi, Libyans_
 
 ##### 2Day FM
 ### [The two 2Day FM presenters who made a prank call to London's King Edward VII's Hospital give their first interviews to Australian television following the death of Jacintha Saldanha, the nurse who answered the call. ](/news/2012/12/10/the-two-2day-fm-presenters-who-made-a-prank-call-to-london-s-king-edward-vii-s-hospital-give-their-first-interviews-to-australian-television.md)
-_Context: 2Day FM, prank call, Jacintha Saldanha, King Edward VII's Hospital, Australian television_
+_Context: King Edward VII's Hospital, 2Day FM, Jacintha Saldanha, Australian television, prank call_
 
 ##### President
 ### [Former President of Bangladesh Iajuddin Ahmed dies at the age of 81. ](/news/2012/12/10/former-president-of-bangladesh-iajuddin-ahmed-dies-at-the-age-of-81.md)
@@ -61,7 +61,7 @@ Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with
 
 ##### Landslide
 ### [In a landslide victory, Prime Minister Victor Ponta's ruling Social Liberal Union wins nearly 60% of votes in Romania's parliamentary election, with a projected 66-67% of MP mandates. ](/news/2012/12/10/in-a-landslide-victory-prime-minister-victor-ponta-s-ruling-social-liberal-union-wins-nearly-60-of-votes-in-romania-s-parliamentary-electi.md)
-_Context: Prime Minister, landslide, parliamentary election, Romania, Social Liberal Union, MP, Victor Ponta_
+_Context: Social Liberal Union, parliamentary election, MP, Prime Minister, Romania, Victor Ponta, landslide_
 
 ##### Government
 ### [The government of Malta loses a budget vote, causing early elections to be called. ](/news/2012/12/10/the-government-of-malta-loses-a-budget-vote-causing-early-elections-to-be-called.md)
@@ -69,7 +69,7 @@ The Budget was defeated this evening, with Franco Debono, as promised, joining t
 
 ##### Thales Alenia Space
 ### [Specialists from Thales Alenia Space carry out some maneuvers to bring the Russian Yamal-402 satellite into its designated orbit after a premature separation from Briz-M, the upper stage of a Proton-M carrier rocket, during the launch on 8 December. ](/news/2012/12/10/specialists-from-thales-alenia-space-carry-out-some-maneuvers-to-bring-the-russian-yamal-402-satellite-into-its-designated-orbit-after-a-pre.md)
-_Context: Russia, successfully, Yamal-402, orbit, Thales Alenia Space, Briz-M, carrier rocket, satellite, Proton-M_
+_Context: Russia, orbit, carrier rocket, Yamal-402, successfully, satellite, Proton-M, Thales Alenia Space, Briz-M_
 
 ## [Previous Day...](/news/2012/12/9/index.md)
 

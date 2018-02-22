@@ -9,11 +9,11 @@ _Context: Girl Scout, Oklahoma City, cookies_
 
 ##### Australian Prime Minister
 ### [Australian Prime Minister Tony Abbott restores Knights and Dames to the Australian Honours System through the Order of Australia. ](/news/2014/03/25/australian-prime-minister-tony-abbott-restores-knights-and-dames-to-the-australian-honours-system-through-the-order-of-australia.md)
-_Context: Dames, Knights, Order of Australia, Australian Prime Minister, Tony Abbott, Australian Honours System_
+_Context: Australian Honours System, Dames, Order of Australia, Australian Prime Minister, Knights, Tony Abbott_
 
 ##### Manhattan
 ### [The U.S. District Court in Manhattan finds that the trustee of MF Global may proceed with a lawsuit against former executives thereof, including former CEO Jon Corzine. ](/news/2014/03/25/the-u-s-district-court-in-manhattan-finds-that-the-trustee-of-mf-global-may-proceed-with-a-lawsuit-against-former-executives-thereof-inclu.md)
-_Context: Manhattan, Jon Corzine, MF Global_
+_Context: Manhattan, MF Global, Jon Corzine_
 
 ##### Tak Province
 ### [A bus in Tak Province, Thailand, plunges into a ravine, killing 30 people and injuring 22. ](/news/2014/03/25/a-bus-in-tak-province-thailand-plunges-into-a-ravine-killing-30-people-and-injuring-22.md)
@@ -31,11 +31,11 @@ The head of the Irish police force resigns following a controversy over whistleb
 
 ##### Mohammed Badie
 ### [Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of-incitement-to-kill.md)
-_Context: Mohammed Badie, Egypt, Muslim Brotherhood_
+_Context: Egypt, Muslim Brotherhood, Mohammed Badie_
 
 ##### BASE jumping
 ### [Four men are arrested after BASE jumping from the top of the World Trade Center in New York City. ](/news/2014/03/25/four-men-are-arrested-after-base-jumping-from-the-top-of-the-world-trade-center-in-new-york-city.md)
-_Context: New York City, One World Trade Center, BASE jumping_
+_Context: BASE jumping, One World Trade Center, New York City_
 
 ##### Oleksandr Muzychko
 ### [Oleksandr Muzychko, a prominent member of Ukraine's Right Sector nationalistic party, is killed under unclear circumstances. (](/news/2014/03/25/oleksandr-muzychko-a-prominent-member-of-ukraine-s-right-sector-nationalistic-party-is-killed-under-unclear-circumstances.md)

@@ -9,11 +9,11 @@ Five people are injured in a series of Israeli air raids on the Gaza Strip after
 
 ##### Lebanese
 ### [A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-border.md)
-_Context: Syria, Hermel, Hezbollah, Lebanese_
+_Context: Hermel, Hezbollah, Syria, Lebanese_
 
 ##### Iraq War
 ### [TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md)
-_Context: Iraqi, Iraq War, Department of Defense, United States Marines, TMZ_
+_Context: United States Marines, TMZ, Department of Defense, Iraq War, Iraqi_
 
 ##### Gravity
 ### ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md)
@@ -45,11 +45,11 @@ Formula 1 boss Bernie Ecclestone will face bribery trial on charges of allegedly
 
 ##### Child trafficking
 ### [A child trafficking ring is smashed in the Philippines through the efforts of British, American, and Australian authorities. ](/news/2014/01/16/a-child-trafficking-ring-is-smashed-in-the-philippines-through-the-efforts-of-british-american-and-australian-authorities.md)
-_Context: Australia, child trafficking, United States, United Kingdom, Philippines_
+_Context: child trafficking, Philippines, United States, Australia, United Kingdom_
 
 ##### Delhi
 ### [Two people are arrested in Delhi after a Danish woman was gang-raped. ](/news/2014/01/16/two-people-are-arrested-in-delhi-after-a-danish-woman-was-gang-raped.md)
-_Context: gang-rape, Danish, Delhi_
+_Context: Delhi, gang-rape, Danish_
 
 ##### Bristol, Connecticut
 ### [According to a search warrant unsealed by a court in Bristol, Connecticut, former New England Patriots tight end Aaron Hernandez, awaiting trial for a 2013 murder, is under investigation by Boston police as a suspect in a 2012 double homicide. ](/news/2014/01/16/according-to-a-search-warrant-unsealed-by-a-court-in-bristol-connecticut-former-new-england-patriots-tight-end-aaron-hernandez-awaiting-t.md)

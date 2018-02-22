@@ -17,11 +17,11 @@ J.C.Penney’s second quarter of 2013 is one everyone would like to forget. Sale
 
 ##### Devastating floods in summer
 ### [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md)
-_Context: Qinghai, flash flood, devastating floods in summer_
+_Context: devastating floods in summer, flash flood, Qinghai_
 
 ##### Malaysia
 ### [37 killed, 16 injured in a bus crash in Malaysia, near the Chin Swee Temple. ](/news/2013/08/21/37-killed-16-injured-in-a-bus-crash-in-malaysia-near-the-chin-swee-temple.md)
-_Context: Chin Swee Temple, Malaysia_
+_Context: Malaysia, Chin Swee Temple_
 
 ##### Pembroke Hill School
 ### [18 schoolgirls from Pembroke Hill School, and driver injured in bus crash near Bonner Springs, Missouri. ](/news/2013/08/21/18-schoolgirls-from-pembroke-hill-school-and-driver-injured-in-bus-crash-near-bonner-springs-missouri.md)
@@ -29,7 +29,7 @@ _Context: Missouri, Pembroke Hill School_
 
 ##### David Miranda
 ### [David Miranda, journalist Glenn Greenwald's partner in covering United States and British mass surveillance programmes, arrives in Brazil, after being released from detainment at Heathrow airport, London. ](/news/2013/08/21/david-miranda-journalist-glenn-greenwald-s-partner-in-covering-united-states-and-british-mass-surveillance-programmes-arrives-in-brazil-a.md)
-_Context: Brazil, Glenn Greenwald, London, David Miranda, Heathrow_
+_Context: London, David Miranda, Glenn Greenwald, Heathrow, Brazil_
 
 ##### Nigerian army
 ### [The Nigerian army officially claims the Boko Haram leader Abubakar Shekau, is dead from a gunfight, although others claim Shekau is alive. ](/news/2013/08/21/the-nigerian-army-officially-claims-the-boko-haram-leader-abubakar-shekau-is-dead-from-a-gunfight-although-others-claim-shekau-is-alive.md)

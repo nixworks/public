@@ -17,7 +17,7 @@ Tear gas and water cannons used to disband thousands marching in Ankara to mark 
 
 ##### Penguin
 ### [Penguin and Random House agree to merge to form Penguin Random House, the world's largest publisher. ](/news/2012/10/29/penguin-and-random-house-agree-to-merge-to-form-penguin-random-house-the-world-s-largest-publisher.md)
-_Context: Random House, Penguin_
+_Context: Penguin, Random House_
 
 ##### Human Rights Watch
 ### [Human Rights Watch and other rights groups issue a report rejecting the Israeli government's arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-governmentas-arguments-against-accepting-africans-migrants.md)

@@ -13,11 +13,11 @@ At least 144 people are injured at a political event in the Armenia capital afte
 
 ##### Suicide bomb
 ### [At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. ](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.md)
-_Context: Bajaur, suicide bomb, Pakistan_
+_Context: suicide bomb, Pakistan, Bajaur_
 
 ##### Mexican Drug War
 ### [23 bodies--14 of them decapitated and 9 of them hanged from a bridge--are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-hanged-from-a-bridgeaare-found-in-the-mexican-city-of-nuevo-laredo-those-killed-were-rep.md)
-_Context: Zetas, Mexican Drug War, Nuevo Laredo, Gulf Cartel_
+_Context: Zetas, Gulf Cartel, Mexican Drug War, Nuevo Laredo_
 
 ##### Adam Yauch
 ### [Adam Yauch, founding member of the influential hip hop group the Beastie Boys, dies aged 47. ](/news/2012/05/4/adam-yauch-founding-member-of-the-influential-hip-hop-group-the-beastie-boys-dies-aged-47.md)
@@ -29,7 +29,7 @@ Study says long hours spent studying and lack of outdoor light to blame for 90 p
 
 ##### China
 ### [Chinese official "Beijing Daily" describes dissident Chen Guangcheng as a "tool and a pawn of American politicians". ](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.md)
-_Context: China, Chen Guangcheng, Beijing Daily_
+_Context: Beijing Daily, Chen Guangcheng, China_
 
 ##### Conrad Black
 ### [Former media mogul Conrad Black is released from prison in Miami after being locked up for just over three years for defrauding investors. ](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.md)
@@ -45,7 +45,7 @@ The government will consult on new measures to protect children from internet po
 
 ##### Khalid Sheikh Mohammed
 ### [The trial of Khalid Sheikh Mohammed, the accused mastermind of the September 11, 2001 terrorist attacks, starts at the Guantanamo Bay detention camp. ](/news/2012/05/4/the-trial-of-khalid-sheikh-mohammed-the-accused-mastermind-of-the-september-11-2001-terrorist-attacks-starts-at-the-guantanamo-bay-detent.md)
-_Context: September 11 attacks, Khalid Sheikh Mohammed, Guantanamo Bay detention camp_
+_Context: Khalid Sheikh Mohammed, Guantanamo Bay detention camp, September 11 attacks_
 
 ##### Tanzania
 ### [Tanzania's President Jakaya Kikwete sacks six ministers amid allegations of government corruption. ](/news/2012/05/4/tanzania-s-president-jakaya-kikwete-sacks-six-ministers-amid-allegations-of-government-corruption.md)
@@ -53,7 +53,7 @@ _Context: Tanzania, Jakaya Kikwete_
 
 ##### Iran
 ### [Voters in Iran go to the polls for the second round of legislative elections. ](/news/2012/05/4/voters-in-iran-go-to-the-polls-for-the-second-round-of-legislative-elections.md)
-_Context: legislative elections, Iran_
+_Context: Iran, legislative elections_
 
 ##### Boris Johnson
 ### [Boris Johnson is reelected as the Mayor of London for a second term. ](/news/2012/05/4/boris-johnson-is-reelected-as-the-mayor-of-london-for-a-second-term.md)

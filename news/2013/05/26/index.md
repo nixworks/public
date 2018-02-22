@@ -9,7 +9,7 @@ Rockets have slammed into two southern Beirut neighbourhoods that are stronghold
 
 ##### Somalia
 ### [Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md)
-_Context: Kenya, Somalia_
+_Context: Somalia, Kenya_
 
 ##### Blue Is the Warmest Colour
 ### [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md)

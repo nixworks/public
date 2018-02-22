@@ -21,7 +21,7 @@ _Context: John XXIII, Pope Francis, saints, Pope John Paul II_
 
 ##### Russia
 ### [Eight people are killed by a fire in a medical facility in Russia's eastern Altai region.](/news/2014/04/27/eight-people-are-killed-by-a-fire-in-a-medical-facility-in-russia-s-eastern-altai-region.md)
-_Context: Russia, Altai_
+_Context: Altai, Russia_
 
 ##### Tornado
 ### [At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/at-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md)

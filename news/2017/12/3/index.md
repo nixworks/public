@@ -9,7 +9,7 @@ Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight
 
 ##### Venezuela
 ### [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
-_Context: petro, Venezuela, Crisis in Venezuela (2012-present), Nicolas Maduro, cryptocurrency_
+_Context: Venezuela, Nicolas Maduro, cryptocurrency, Crisis in Venezuela (2012-present), petro_
 
 ##### Yeongheung Island
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-the.md)
@@ -29,11 +29,11 @@ The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to 
 
 ##### Corsican territorial election
 ### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md)
-_Context: Corse-du-Sud, Corsican Assembly, Haute Corse, territorial collectivity, France, Corsican territorial election, miscellaneous right, Corsica, La Republique En Marche!, election threshold, Pe a Corsica, departments, region_
+_Context: French, region, Pe a Corsica, Corsican territorial election, miscellaneous right, Corsica, departments, territorial collectivity, election threshold, Corsican Assembly, Corse-du-Sud, Haute Corse, La Republique En Marche!_
 
 ##### Ukrainian crisis
 ### [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md)
-_Context: parliament, Kiev, Movement of New Forces, Ukrainian crisis_
+_Context: parliament, Ukrainian crisis, Movement of New Forces, Kiev_
 
 ## [Previous Day...](/news/2017/12/2/index.md)
 

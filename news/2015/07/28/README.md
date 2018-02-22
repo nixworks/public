@@ -9,7 +9,7 @@ At least 29 people were killed by suspected Islamist insurgents in northeastern 
 
 ##### Netherlands
 ### [Dutch aerospace company Fokker Technologies is acquired by the British multinational GKN. ](/news/2015/07/28/dutch-aerospace-company-fokker-technologies-is-acquired-by-the-british-multinational-gkn.md)
-_Context: Netherlands, multinational, Fokker Technologies, aerospace, GKN_
+_Context: Fokker Technologies, aerospace, Netherlands, GKN, multinational_
 
 ##### Libya
 ### [Rescuers find 13 dead migrants in a boat off the Libyan coast. ](/news/2015/07/28/rescuers-find-13-dead-migrants-in-a-boat-off-the-libyan-coast.md)
@@ -29,7 +29,7 @@ _Context: Thane, India_
 
 ##### Libya
 ### [A Libyan court sentences Saif al-Islam Gaddafi to death in absentia for alleged atrocities in 2011. ](/news/2015/07/28/a-libyan-court-sentences-saif-al-islam-gaddafi-to-death-in-absentia-for-alleged-atrocities-in-2011.md)
-_Context: in absentia, Saif al-Islam Gaddafi, Libya_
+_Context: Saif al-Islam Gaddafi, in absentia, Libya_
 
 ##### Santa Cruz, California
 ### [Police in Santa Cruz, California, find what they suspect is the body of 8-year-old Madyson Middleton, who was last seen on footage on the afternoon of Sunday, July 27, riding her new scooter. A 15-year-old male minor has been arrested on suspicion of homicide. ](/news/2015/07/28/police-in-santa-cruz-california-find-what-they-suspect-is-the-body-of-8-year-old-madyson-middleton-who-was-last-seen-on-footage-on-the-af.md)
@@ -37,7 +37,7 @@ _Context: Santa Cruz, California_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md)
-_Context: Richard Matt, 2015 Clinton Correctional Facility escape, contraband, felony, misdemeanor_
+_Context: misdemeanor, felony, 2015 Clinton Correctional Facility escape, contraband, Richard Matt_
 
 ##### 1Malaysia Development Berhad
 ### [Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md)

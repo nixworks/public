@@ -9,7 +9,7 @@ The captain of the cruise ship that capsized on Friday, Francesco Schettino, has
 
 ##### Hollywood sign
 ### [Severed human hands and feet are found near the Hollywood sign in Los Angeles, California, close to where a man's severed head was recently discovered. Los Angeles police continue their search for more body parts connected with the case. ](/news/2012/01/18/severed-human-hands-and-feet-are-found-near-the-hollywood-sign-in-los-angeles-california-close-to-where-a-man-s-severed-head-was-recently.md)
-_Context: California, Los Angeles, Hollywood sign_
+_Context: Hollywood sign, California, Los Angeles_
 
 ##### United States
 ### [Federal prosecutors in the United States charge seven people with insider trading in shares of computer firm Dell Inc., alleging that the ring made a criminal profit of nearly $62 million. ](/news/2012/01/18/federal-prosecutors-in-the-united-states-charge-seven-people-with-insider-trading-in-shares-of-computer-firm-dell-inc-alleging-that-the-ri.md)
@@ -25,7 +25,7 @@ Pakistani PM Yousuf Raza Gilani goes before the Supreme Court to defend his deci
 
 ##### Neptune
 ### [A new Neptune-sized exoplanet is discovered by an amateur astronomer in Peterborough, England. ](/news/2012/01/18/a-new-neptune-sized-exoplanet-is-discovered-by-an-amateur-astronomer-in-peterborough-england.md)
-_Context: Peterborough, England, exoplanet, Neptune_
+_Context: Peterborough, exoplanet, England, Neptune_
 
 ## [Previous Day...](/news/2012/01/17/index.md)
 

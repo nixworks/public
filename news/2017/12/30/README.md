@@ -13,7 +13,7 @@ Ukrainian police on Saturday freed the remaining hostages being held in a post o
 
 ##### Nepal
 ### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
-_Context: Nepal, Mount Everest_
+_Context: Mount Everest, Nepal_
 
 ##### Acapulco
 ### [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)

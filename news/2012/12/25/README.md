@@ -13,11 +13,11 @@ At least five militants were killed and three soldiers wounded in Yemen on Tuesd
 
 ##### Boko Haram
 ### [Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md)
-_Context: Nigeria, Boko Haram_
+_Context: Boko Haram, Nigeria_
 
 ##### Seleka
 ### [The Seleka rebel coalition captures Kaga-Bandoro, the fourth major city to fall since the return to hostilities on December 10. Meanwhile, President Francois Bozize meets with military advisors in the capital Bangui. ](/news/2012/12/25/the-seleka-rebel-coalition-captures-kaga-bandoro-the-fourth-major-city-to-fall-since-the-return-to-hostilities-on-december-10-meanwhile-p.md)
-_Context: Kaga-Bandoro, Bangui, Francois Bozize, Seleka_
+_Context: Bangui, Seleka, Francois Bozize, Kaga-Bandoro_
 
 ##### Pope
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-va.md)
@@ -25,11 +25,11 @@ Millions of Christians around the world are celebrating Christmas, as Pope Bened
 
 ##### Elizabeth II
 ### [Elizabeth II addresses her Commonwealth subjects in her annual Royal Christmas Message, referring to the 2012 Summer Olympics in London and the "humbling" experience of her diamond jubilee celebrations. Her speech - the first to be broadcast in 3D - does not include mention the recently-announced pregnancy of Catherine, Duchess of Cambridge, wife of her eldest grandson. ](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.md)
-_Context: pregnancy of Catherine, Duchess of Cambridge, Elizabeth II, London, Royal Christmas Message, 2012 Summer Olympics, Commonwealth of Nations, 3D, diamond jubilee_
+_Context: pregnancy of Catherine, Duchess of Cambridge, Commonwealth of Nations, London, 3D, Elizabeth II, Royal Christmas Message, diamond jubilee, 2012 Summer Olympics_
 
 ##### Antonov An-72
 ### [An Antonov An-72 plane carrying senior Kazakh border officials crashes close to the city of Shymkent, killing all 27 on board. ](/news/2012/12/25/an-antonov-an-72-plane-carrying-senior-kazakh-border-officials-crashes-close-to-the-city-of-shymkent-killing-all-27-on-board.md)
-_Context: Antonov An-72, crashes, Shymkent, Kazakhstan_
+_Context: crashes, Shymkent, Kazakhstan, Antonov An-72_
 
 ##### Air Bagan
 ### [An Air Bagan plane carrying more than 60 passengers, including many foreigners, from the city of Yangon to Heho Airport in Shan State, Burma, makes an emergency landing, killing a passenger and a motorcyclist and injuring 11 others. ](/news/2012/12/25/an-air-bagan-plane-carrying-more-than-60-passengers-including-many-foreigners-from-the-city-of-yangon-to-heho-airport-in-shan-state-burma.md)
@@ -41,7 +41,7 @@ Low-level alert issued after Copahue Volcano began spewing ash, but officials sa
 
 ##### Mi-8
 ### [Five people are killed when a Mi-8 helicopter of Ukraine's internal troops crashes in Oleksandriia, Kirovohrad Oblast, Ukraine. ](/news/2012/12/25/five-people-are-killed-when-a-mi-8-helicopter-of-ukraine-s-internal-troops-crashes-in-oleksandriia-kirovohrad-oblast-ukraine.md)
-_Context: helicopter, internal troops, Kirovohrad Oblast, Mi-8, Oleksandriia, Ukraine_
+_Context: Mi-8, helicopter, Kirovohrad Oblast, Ukraine, Oleksandriia, internal troops_
 
 ##### M6 motorway
 ### [Two young brothers and a woman are killed motor car accident on the northbound carriageway of the M6 motorway in Staffordshire, England. ](/news/2012/12/25/two-young-brothers-and-a-woman-are-killed-motor-car-accident-on-the-northbound-carriageway-of-the-m6-motorway-in-staffordshire-england.md)
@@ -69,7 +69,7 @@ Venezuelan President Hugo Chavez has improved after a cancer operation and has s
 
 ##### Archbishop of Westminster
 ### [Archbishop of Westminster Vincent Nichols, the leader of the Roman Catholic Church in England and Wales, criticises the UK government's plans for gay marriage as a "shambles", saying they do not have a mandate to introduce the policy. ](/news/2012/12/25/archbishop-of-westminster-vincent-nichols-the-leader-of-the-roman-catholic-church-in-england-and-wales-criticises-the-uk-government-s-plan.md)
-_Context: British government, Archbishop of Westminster, Roman Catholic Church in England and Wales, Vincent Nichols, Same-sex marriage_
+_Context: Vincent Nichols, Roman Catholic Church in England and Wales, Archbishop of Westminster, British government, Same-sex marriage_
 
 ##### Israel
 ### [Israel greenlights the fast-track development of another 1,200 housing units around Jerusalem, including East 1. This week's total now stands at 5,500, the largest in some time. ](/news/2012/12/25/israel-greenlights-the-fast-track-development-of-another-1-200-housing-units-around-jerusalem-including-east-1-this-week-s-total-now-stand.md)

@@ -13,11 +13,11 @@ The Fed approved a $30 billion loan for the takeover of Bear Stearns and announc
 
 ##### Australia
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md)
-_Context: Australia, battle in 1941, been found, Government of Australia, German auxiliary cruiser ''Kormoran''_
+_Context: Australia, Government of Australia, been found, German auxiliary cruiser ''Kormoran'', battle in 1941_
 
 ##### United Nations
 ### [ Data from the United Nations Environment Programme shows the 2006 global glacial shrinkage rate is more than double that of 2005. ](/news/2008/03/16/data-from-the-united-nations-environment-programme-shows-the-2006-global-glacial-shrinkage-rate-is-more-than-double-that-of-2005.md)
-_Context: Retreat of glaciers since 1850, United Nations, 2006, Environment Programme_
+_Context: 2006, Retreat of glaciers since 1850, Environment Programme, United Nations_
 
 ##### The Conservative Alliance
 ### [ The Conservative Alliance wins the Iranian legislative election. ](/news/2008/03/16/the-conservative-alliance-wins-the-iranian-legislative-election.md)
@@ -29,39 +29,39 @@ _Context: police, Bundu dia Kongo, DR Congo_
 
 ##### United Nations
 ### [ The United Nations World Food Programme warns that it has become "very difficult" to provide food aid to the Darfur region of Sudan because of repeated truck hijacks. ](/news/2008/03/16/the-united-nations-world-food-programme-warns-that-it-has-become-very-difficult-to-provide-food-aid-to-the-darfur-region-of-sudan-because.md)
-_Context: Darfur, food aid, Sudan, truck, carjacking, United Nations, World Food Programme_
+_Context: Sudan, carjacking, truck, United Nations, food aid, Darfur, World Food Programme_
 
 ##### Taiwan
 ### [ Hundreds of thousands of Taiwanese participate in rival political rallies ahead of the 2008 presidential election. ](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.md)
-_Context: rallies, 2008 presidential election, Taiwan_
+_Context: 2008 presidential election, rallies, Taiwan_
 
 ##### United National Liberation Front
 ### [ The United National Liberation Front attacks an Indian Army camp in Minou, in the Chandel district of Manipur, killing at least six soldiers. ](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.md)
-_Context: United National Liberation Front, India, Indian Army, Manipur, Chandel, Minou_
+_Context: Chandel, Indian Army, Manipur, Minou, United National Liberation Front, India_
 
 ##### Missile
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: United States, Pakistan, South Waziristan, strike, missile, Wana, United States soldier, tribe_
+_Context: United States soldier, strike, tribe, Pakistan, South Waziristan, United States, Wana, missile_
 
 ##### Harvard Medical School
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
-_Context: pyruvate kinase, Harvard Medical School, cancer, enzyme, inhibiting_
+_Context: inhibiting, enzyme, Harvard Medical School, pyruvate kinase, cancer_
 
-##### France
+##### French
 ### [ French voters go to the polls in the second round of the 2008 municipal elections, with President Nicolas Sarkozy's party Union for a Popular Movement likely to lose. ](/news/2008/03/16/french-voters-go-to-the-polls-in-the-second-round-of-the-2008-municipal-elections-with-president-nicolas-sarkozy-s-party-union-for-a-popul.md)
-_Context: France, Nicolas Sarkozy, French President, 2008 municipal elections, UMP_
+_Context: 2008 municipal elections, French President, French, Nicolas Sarkozy, UMP_
 
 ##### United States
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
-_Context: Republican candidate, Senator, United States, John McCain, 2008, Iraq_
+_Context: Iraq, 2008, United States, Senator, Republican candidate, John McCain_
 
 ##### Italy
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
-_Context: Air France, EUR, Italy, KLM, Alitalia_
+_Context: KLM, Italy, EUR, Alitalia, Air France_
 
 ##### 2008 National People's Congress
 ### [ At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. ](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.md)
-_Context: Wen Jiabao, 2008 National People's Congress, Premier of the People's Republic of China_
+_Context: 2008 National People's Congress, Wen Jiabao, Premier of the People's Republic of China_
 
 ## [Previous Day...](/news/2008/03/15/index.md)
 

@@ -9,7 +9,7 @@ Hundreds of Palestinians try to block traffic, cause closing of Route 70 and cla
 
 ##### Moldova
 ### [Moldova's Council for TV and Radio suspends the broadcast license of the Russian TV channel Russia-24 and places sanctions on four Moldovan broadcasters for lack of pluralism. ](/news/2014/07/6/moldova-s-council-for-tv-and-radio-suspends-the-broadcast-license-of-the-russian-tv-channel-russia-24-and-places-sanctions-on-four-moldovan.md)
-_Context: Russia-24, Moldova, Russian TV, pluralism_
+_Context: Russian TV, Moldova, pluralism, Russia-24_
 
 ## [Previous Day...](/news/2014/07/5/index.md)
 

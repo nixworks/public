@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/5/index.html)  [JSON](2012/07/5/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in-the-mediterranean-sea.md)
-_Context: Syria, F-4 Phantom, Mediterranean Sea, Turkish, Syrian uprising (2011-present)_
+_Context: Mediterranean Sea, F-4 Phantom, Turkish, Syria, Syrian uprising (2011-present)_
 
 ##### The Shard
 ### [The Shard, the tallest building in Europe and the tallest habitable free-standing structure in the UK at 309.6 metres (1,016 ft), is officially opened. ](/news/2012/07/5/the-shard-the-tallest-building-in-europe-and-the-tallest-habitable-free-standing-structure-in-the-uk-at-309-6-metres-1-016-ft-is-officia.md)
@@ -21,15 +21,15 @@ China, the euro zone and Britain loosened monetary policy in the space of less t
 
 ##### Northern Ireland
 ### [Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. ](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.md)
-_Context: Newcastle, Newry, Northern Ireland, County Down_
+_Context: County Down, Northern Ireland, Newcastle, Newry_
 
-##### France
+##### French
 ### [France's Bureau of Investigation and Analysis issues its final report on the crash of Air France Flight 447, determining that a series of errors by pilots and a failure to react to technical problems led to the disaster that killed all 228 people on board. ](/news/2012/07/5/france-s-bureau-of-investigation-and-analysis-issues-its-final-report-on-the-crash-of-air-france-flight-447-determining-that-a-series-of-er.md)
-_Context: Bureau of Investigation and Analysis, France, crash of Air France Flight 447_
+_Context: Bureau of Investigation and Analysis, crash of Air France Flight 447, French_
 
 ##### South Korea
 ### [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-cit.md)
-_Context: International Whaling Commission, whaling, Panama City, minke whales, South Korea_
+_Context: minke whales, South Korea, whaling, Panama City, International Whaling Commission_
 
 ##### Gulf Cartel
 ### [A high-ranking drug boss in the Mexican criminal group known as Gulf Cartel is apprehended in the country of Costa Rica. ](/news/2012/07/5/a-high-ranking-drug-boss-in-the-mexican-criminal-group-known-as-gulf-cartel-is-apprehended-in-the-country-of-costa-rica.md)
@@ -41,7 +41,7 @@ Wikileaks begins releasing more than two million emails it dubs the &quot;Syria 
 
 ##### Mexican presidential elections
 ### [A recount of ballot papers in the 2012 Mexican presidential election confirms Enrique Pena Nieto of the Institutional Revolutionary Party as the winner. ](/news/2012/07/5/a-recount-of-ballot-papers-in-the-2012-mexican-presidential-election-confirms-enrique-pena-nieto-of-the-institutional-revolutionary-party-as.md)
-_Context: Institutional Revolutionary Party, Enrique Pena Nieto, Mexican presidential elections_
+_Context: Enrique Pena Nieto, Mexican presidential elections, Institutional Revolutionary Party_
 
 ## [Previous Day...](/news/2012/07/4/index.md)
 

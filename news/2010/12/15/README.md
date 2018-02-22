@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/15/index.html)  [JSON](2010/12/15/index.json)  [XML](201
 
 ##### New People's Army
 ### [Communist rebels in the Philippines kill 10 soldiers as they returned to base to observe a Christmas truce. ](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.md)
-_Context: Christmas, New People's Army, Philippines_
+_Context: New People's Army, Christmas, Philippines_
 
 ##### Mosque
 ### [Dozens of people are dead following an explosion outside a mosque in the Iranian city of Chabahar. ](/news/2010/12/15/dozens-of-people-are-dead-following-an-explosion-outside-a-mosque-in-the-iranian-city-of-chabahar.md)
@@ -13,7 +13,7 @@ At least 41 people killed and dozens injured after a suicide bombing near a mosq
 
 ##### Mummified
 ### [The mummified remains of the head of King Henri IV of France have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
-_Context: Henri IV of France, mummified_
+_Context: mummified, Henri IV of France_
 
 ##### Cuba
 ### [Cuba unveils its own version of Wikipedia. ](/news/2010/12/15/cuba-unveils-its-own-version-of-wikipedia.md)
@@ -21,15 +21,15 @@ _Context: Wikipedia, Cuba_
 
 ##### Facebook
 ### [Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. ](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.md)
-_Context: WikiLeaks, TIME, Julian Assange, Mark Zuckerberg, Facebook_
+_Context: Facebook, TIME, Mark Zuckerberg, Julian Assange, WikiLeaks_
 
 ##### Lehman Brothers
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
-_Context: broker-dealer, Lehman Brothers, New York City, bankruptcy, Paulson & Co._
+_Context: New York City, broker-dealer, Paulson & Co., Lehman Brothers, bankruptcy_
 
 ##### Ghana
 ### [Ghana is to begin pumping its first oil since a discovery in an offshore field three years ago. ](/news/2010/12/15/ghana-is-to-begin-pumping-its-first-oil-since-a-discovery-in-an-offshore-field-three-years-ago.md)
-_Context: Ghana, petroleum_
+_Context: petroleum, Ghana_
 
 ##### Asylum seeker
 ### [At least twenty-seven asylum seekers, mostly from Iraq and Iran, are feared dead after a boat carrying 70 people crashes into cliffs on the coast of Christmas Island in the Indian Ocean. ](/news/2010/12/15/at-least-twenty-seven-asylum-seekers-mostly-from-iraq-and-iran-are-feared-dead-after-a-boat-carrying-70-people-crashes-into-cliffs-on-the.md)
@@ -45,7 +45,7 @@ All 22 people travelling in a small passenger plane that crashed in Nepal are de
 
 ##### Battambang Province
 ### [Four children are seriously injured in a mine explosion in Battambang Province, northwestern Cambodia. ](/news/2010/12/15/four-children-are-seriously-injured-in-a-mine-explosion-in-battambang-province-northwestern-cambodia.md)
-_Context: Battambang Province, Cambodia_
+_Context: Cambodia, Battambang Province_
 
 ##### Air Force
 ### [Two Air Force pilots are killed after their twin-seat trainer aircraft crashed during a training mission in Taiwan. ](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.md)
@@ -75,7 +75,7 @@ The Obama administration on Wednesday launched a legal battle against BP Plc and
 
 ##### Sudan
 ### [The Constitutional Court in Sudan agrees to hear a petition by lawyers for the dissolution of the body organising the referendum on Southern Sudan's independence. ](/news/2010/12/15/the-constitutional-court-in-sudan-agrees-to-hear-a-petition-by-lawyers-for-the-dissolution-of-the-body-organising-the-referendum-on-southern.md)
-_Context: Southern Sudan, Sudan, Southern Sudanese Independence Referendum_
+_Context: Southern Sudanese Independence Referendum, Sudan, Southern Sudan_
 
 ##### Alassane Ouattara
 ### [An alliance of opposition parties that endorse the presidency of Alassane Ouattara in the Ivory Coast call for mass protests, following the presidential election. ](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.md)
@@ -83,7 +83,7 @@ Ouattara’s camp asks supporters to help them take over state television and go
 
 ##### Cuba
 ### [Cuba refuses to grant a visa to dissident Guillermo Farias so that he could receive the Sakharov Prize in France. ](/news/2010/12/15/cuba-refuses-to-grant-a-visa-to-dissident-guillermo-farinas-so-that-he-could-receive-the-sakharov-prize-in-france.md)
-_Context: Guillermo Farias, France, visa, Cuba, Sakharov Prize_
+_Context: French, Cuba, Sakharov Prize, visa, Guillermo Farias_
 
 ##### Visa Inc.
 ### [Credit card companies such as Visa and MasterCard that prevented card-holders from donating money to the whistleblower website WikiLeaks could have their operating licenses taken away in Iceland. A parliament investigation is ongoing. ](/news/2010/12/15/credit-card-companies-such-as-visa-and-mastercard-that-prevented-card-holders-from-donating-money-to-the-whistleblower-website-wikileaks-cou.md)
@@ -95,11 +95,11 @@ The US House of Representatives votes to repeal a 17-year-old ban on openly gay 
 
 ##### Oncorhynchus nerka kawamurae
 ### [Scientists discover that the black kokanee (Oncorhynchus nerka kawamurae), a Japanese salmon subspecies which scientists had thought had gone extinct in 1940, has still a living population in 2010. ](/news/2010/12/15/scientists-discover-that-the-black-kokanee-oncorhynchus-nerka-kawamurae-a-japanese-salmon-subspecies-which-scientists-had-thought-had-gon.md)
-_Context: Japan, Oncorhynchus nerka kawamurae_
+_Context: Oncorhynchus nerka kawamurae, Japan_
 
 ##### Voyager 1
 ### [Data confirms that Voyager 1 has entered the heliopause, the area of space where the Sun's solar wind is stopped by the interstellar wind. It is believed the probe will now leave the Solar System within the next four years. ](/news/2010/12/15/data-confirms-that-voyager-1-has-entered-the-heliopause-the-area-of-space-where-the-sun-s-solar-wind-is-stopped-by-the-interstellar-wind-i.md)
-_Context: heliopause, Solar System, interstellar wind, solar wind, Sun, Voyager 1_
+_Context: Solar System, heliopause, Voyager 1, interstellar wind, solar wind, Sun_
 
 ## [Previous Day...](/news/2010/12/14/index.md)
 

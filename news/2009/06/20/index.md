@@ -9,7 +9,7 @@ Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in la
 
 ##### Shipwreck
 ### [ A sunken ship believed to carry over US$15 million in gold is located in the Magellan Straits off the coast of Argentina. ](/news/2009/06/20/a-sunken-ship-believed-to-carry-over-us-15-million-in-gold-is-located-in-the-magellan-straits-off-the-coast-of-argentina.md)
-_Context: shipwreck, Argentina, Magellan Straits_
+_Context: Argentina, Magellan Straits, shipwreck_
 
 ##### United States
 ### [ The United States admits its forces failed to follow their own rules in an Afghan airstrike that may have led up to 140 civilian deaths. ](/news/2009/06/20/the-united-states-admits-its-forces-failed-to-follow-their-own-rules-in-an-afghan-airstrike-that-may-have-led-up-to-140-civilian-deaths.md)
@@ -33,7 +33,7 @@ Two teenagers have been charged in connection with racist attacks on Romanian fa
 
 ##### The New York Times
 ### [ "New York Times" reporter David S. Rohde, kidnapped by the Taliban seven months ago, escapes. ](/news/2009/06/20/new-york-times-reporter-david-s-rohde-kidnapped-by-the-taliban-seven-months-ago-escapes.md)
-_Context: Taliban, David S. Rohde, The New York Times_
+_Context: The New York Times, Taliban, David S. Rohde_
 
 ##### India
 ### [ Indian troops enter Lalgarh, a Maoist stronghold in West Bengal, claiming a partial victory. ](/news/2009/06/20/indian-troops-enter-lalgarh-a-maoist-stronghold-in-west-bengal-claiming-a-partial-victory.md)
@@ -41,7 +41,7 @@ Security forces enter Lalgarh region of West Bengal under rebel control.
 
 ##### Taza bombing
 ### [ At least 67 people are killed and over 200 are injured in a suicide attack near Kirkuk in Iraq. ](/news/2009/06/20/at-least-67-people-are-killed-and-over-200-are-injured-in-a-suicide-attack-near-kirkuk-in-iraq.md)
-_Context: Iraq, Taza bombing, Kirkuk, suicide attack_
+_Context: Iraq, Kirkuk, Taza bombing, suicide attack_
 
 ## [Previous Day...](/news/2009/06/19/index.md)
 

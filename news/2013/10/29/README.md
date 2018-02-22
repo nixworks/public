@@ -13,7 +13,7 @@ Thousands of desperate civilians flee a suburb of the Syrian capital Damascus th
 
 ##### French-born
 ### [Four French hostages held in Niger by an Al-Qaeda offshoot since 2010 are released. ](/news/2013/10/29/four-french-hostages-held-in-niger-by-an-al-qaeda-offshoot-since-2010-are-released.md)
-_Context: French-born, al-Qaeda, Niger_
+_Context: Niger, al-Qaeda, French-born_
 
 ##### NASDAQ
 ### [The Nasdaq Composite and NASDAQ-100 stock indices froze for an hour before resuming at around 1 PM EST. ](/news/2013/10/29/the-nasdaq-composite-and-nasdaq-100-stock-indices-froze-for-an-hour-before-resuming-at-around-1-pm-est.md)
@@ -29,7 +29,7 @@ A once-in-a-decade storm claims lives in the Netherlands, France, Germany and so
 
 ##### United Nations
 ### [The United Nations confirms an outbreak of polio in Syria. ](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.md)
-_Context: polio, United Nations, Syria_
+_Context: Syria, United Nations, polio_
 
 ##### Dust storm
 ### [At least three people are dead after a dust storm causes an accident on Interstate 10 near Picacho Peak, Arizona, United States. ](/news/2013/10/29/at-least-three-people-are-dead-after-a-dust-storm-causes-an-accident-on-interstate-10-near-picacho-peak-arizona-united-states.md)
@@ -41,7 +41,7 @@ Cairo court Judges, who presided over the trial of Muslim Brotherhood leaders, s
 
 ##### Kenya
 ### [Two Kenyan soldiers are jailed for looting during the attack on the Westgate shopping centre attack in September. ](/news/2013/10/29/two-kenyan-soldiers-are-jailed-for-looting-during-the-attack-on-the-westgate-shopping-centre-attack-in-september.md)
-_Context: Kenya, Westgate shopping mall attack_
+_Context: Westgate shopping mall attack, Kenya_
 
 ##### Boeremag
 ### [The leader of the Boeremag and 23 others are sentenced to 35 years in jail in South Africa for conspiring to kill former president Nelson Mandela. ](/news/2013/10/29/the-leader-of-the-boeremag-and-23-others-are-sentenced-to-35-years-in-jail-in-south-africa-for-conspiring-to-kill-former-president-nelson-ma.md)
@@ -53,7 +53,7 @@ _Context: South Carolina, Greenwood County_
 
 ##### Marilyn Tavenner
 ### [Marilyn Tavenner, the Administrator of Centers for Medicare and Medicaid Services, becomes the first Obama administration official to apologise for the troubled roll out of the healthcare.gov website as part of the Affordable Care Act or "Obamacare" system. ](/news/2013/10/29/marilyn-tavenner-the-administrator-of-centers-for-medicare-and-medicaid-services-becomes-the-first-obama-administration-official-to-apolog.md)
-_Context: Centers for Medicare and Medicaid Services, Affordable Care Act, Marilyn Tavenner, healthcare.gov, Obama administration_
+_Context: Marilyn Tavenner, Obama administration, Centers for Medicare and Medicaid Services, Affordable Care Act, healthcare.gov_
 
 ## [Previous Day...](/news/2013/10/28/index.md)
 

@@ -25,7 +25,7 @@ Malawi has suspended its anti-homosexual law ahead of a public debate and parlia
 
 ##### Fresno, California
 ### [At least five people are reported shot at a workplace (Apple Valley Farms, a poultry and meat processing plant with about 50 employees) in central Fresno, California, according to the "Fresno Bee" newspaper. Initial reports have said that the gunman then shot himself nearby. ](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.md)
-_Context: Fresno Bee, Fresno, California_
+_Context: Fresno, California, Fresno Bee_
 
 ##### United States elections, 2012
 ### [Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md)
@@ -37,11 +37,11 @@ As the US election campaign approaches its crescendo, voters in the tiny Pacific
 
 ##### Russia
 ### [Russian President Vladimir Putin sacks the defence minister Anatoly Serdyukov amid a corruption scandal. ](/news/2012/11/6/russian-president-vladimir-putin-sacks-the-defence-minister-anatoly-serdyukov-amid-a-corruption-scandal.md)
-_Context: Vladimir Putin, Anatoly Serdyukov, Russia_
+_Context: Anatoly Serdyukov, Vladimir Putin, Russia_
 
 ##### Conservative Party
 ### [British Conservative Party MP Nadine Dorries is suspended from the party after her decision to become the first serving politician to appear on a reality television series. The move could take her away from Parliamentary business for up to a month. ](/news/2012/11/6/british-conservative-party-mp-nadine-dorries-is-suspended-from-the-party-after-her-decision-to-become-the-first-serving-politician-to-appear.md)
-_Context: Conservative Party, Nadine Dorries_
+_Context: Nadine Dorries, Conservative Party_
 
 ##### Patriarch
 ### [Patriarch Maxim of the Bulgarian Orthodox Church dies at age 98 at a Sofia hospital. ](/news/2012/11/6/patriarch-maxim-of-the-bulgarian-orthodox-church-dies-at-age-98-at-a-sofia-hospital.md)

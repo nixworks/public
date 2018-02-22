@@ -21,11 +21,11 @@ _Context: prime time, The Simpsons_
 
 ##### Pope Francis
 ### [Pope Francis declares seven new saints. ](/news/2016/10/16/pope-francis-declares-seven-new-saints.md)
-_Context: Pope Francis, saints_
+_Context: saints, Pope Francis_
 
 ##### Footbridge
 ### [The collapse of a footbridge connecting the islands of Lembongan and Ceningan, near Bali, Indonesia, leaves 9 dead and 30 injured. ](/news/2016/10/16/the-collapse-of-a-footbridge-connecting-the-islands-of-lembongan-and-ceningan-near-bali-indonesia-leaves-9-dead-and-30-injured.md)
-_Context: Lembongan, Ceningan, footbridge, Bali, Indonesia_
+_Context: Ceningan, Lembongan, footbridge, Bali, Indonesia_
 
 ##### Yemeni Crisis
 ### [The United States and the United Kingdom call for, "within hours," an immediate and unconditional ceasefire in Yemen to end the violence following last week's Saudi airstrikes, based on bad information, that killed around 140 people. ](/news/2016/10/16/the-united-states-and-the-united-kingdom-call-for-within-hours-an-immediate-and-unconditional-ceasefire-in-yemen-to-end-the-violence-fol.md)
@@ -33,15 +33,15 @@ The United States and Britain called on Sunday for an immediate and unconditiona
 
 ##### Arson
 ### [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md)
-_Context: arson, Hillsborough, North Carolina, Republican, Nazi_
+_Context: Nazi, Republican, Hillsborough, North Carolina, arson_
 
 ##### Montenegrin parliamentary election, 2016
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)
-_Context: Prime Minister, Montenegrin parliamentary election, 2016, Milo Dukanovic, Democratic Party of Socialists_
+_Context: Montenegrin parliamentary election, 2016, Democratic Party of Socialists, Milo Dukanovic, Prime Minister_
 
 ##### ExoMars project
 ### [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md)
-_Context: Mars, ExoMars project, ''Schiaparelli'' lander, European Space Agency, ExoMars Trace Gas Orbiter, Roscosmos_
+_Context: Roscosmos, ''Schiaparelli'' lander, ExoMars project, ExoMars Trace Gas Orbiter, European Space Agency, Mars_
 
 ## [Previous Day...](/news/2016/10/15/index.md)
 

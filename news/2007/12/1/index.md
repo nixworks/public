@@ -5,11 +5,11 @@ Formats: [HTML](2007/12/1/index.html)  [JSON](2007/12/1/index.json)  [XML](2007/
 
 ##### Iraq War
 ### [ Al-Qaeda in Iraq militants attack the Shiite village of Dwelah in Diyala, killing at least 13 people. ](/news/2007/12/1/al-qaeda-in-iraq-militants-attack-the-shiite-village-of-dwelah-in-diyala-killing-at-least-13-people.md)
-_Context: Iraq War, Dwelah, Shiite, Diyala Governorate, Al-Qaeda in Iraq_
+_Context: Shiite, Dwelah, Al-Qaeda in Iraq, Iraq War, Diyala Governorate_
 
 ##### 17th Party Congress
 ### [ In another regional leadership reshuffle following the 17th Party Congress in the People's Republic of China, Minister of Commerce Bo Xilai is appointed the CPC Chongqing Committee Secretary, replacing Wang Yang, who is now Party Secretary in Guangdong. Zhang Dejiang resigns from his posts in Guangdong. ](/news/2007/12/1/in-another-regional-leadership-reshuffle-following-the-17th-party-congress-in-the-people-s-republic-of-china-minister-of-commerce-bo-xilai.md)
-_Context: China, Wang Yang, Guangdong, Chongqing, Bo Xilai, 17th Party Congress, Zhang Dejiang_
+_Context: Wang Yang, Zhang Dejiang, Guangdong, Chongqing, 17th Party Congress, Bo Xilai, China_
 
 ##### Forms a temporary coalition government
 ### [ Formateur Yves Leterme resigns. ](/news/2007/12/1/formateur-yves-leterme-resigns.md)

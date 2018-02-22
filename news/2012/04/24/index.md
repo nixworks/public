@@ -13,7 +13,7 @@ Fitch Ratings upgraded Ford Motor Co (F.N) to investment grade on Tuesday, marki
 
 ##### United States military
 ### [The Pentagon is to set up the Defense Clandestine Service is intended to focus on the challenges posed to U.S. interests by countries such as Iran, North Korea and China. ](/news/2012/04/24/the-pentagon-is-to-set-up-the-defense-clandestine-service-is-intended-to-focus-on-the-challenges-posed-to-u-s-interests-by-countries-such-a.md)
-_Context: Defense Clandestine Service, United States military_
+_Context: United States military, Defense Clandestine Service_
 
 ##### Israel
 ### [Israeli prime minister Benjamin Netanyahu decides to make legal under Israeli law three settlement outposts in the occupied West Bank, to "formalise the status" of Bruchin and Rechelim, in the north, and Sansana, near Hebron in the south. The Palestinian Authority criticises the decision. ](/news/2012/04/24/israeli-prime-minister-benjamin-netanyahu-decides-to-make-legal-under-israeli-law-three-settlement-outposts-in-the-occupied-west-bank-to-f.md)
@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Leon Panetta
 ### [Leon Panetta, the United States Secretary of Defense, warns North Korea against further provocations against South Korea. ](/news/2012/04/24/leon-panetta-the-united-states-secretary-of-defense-warns-north-korea-against-further-provocations-against-south-korea.md)
-_Context: United States Secretary of Defense, North Korea, South Korea, Leon Panetta_
+_Context: South Korea, North Korea, Leon Panetta, United States Secretary of Defense_
 
 ##### Leveson Inquiry
 ### [Appearing before the Leveson Inquiry, James Murdoch tells the hearing that News International's corporate systems failed to pick up on legal issues posed by its news gathering techniques. ](/news/2012/04/24/appearing-before-the-leveson-inquiry-james-murdoch-tells-the-hearing-that-news-international-s-corporate-systems-failed-to-pick-up-on-legal.md)

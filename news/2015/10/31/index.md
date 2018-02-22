@@ -21,7 +21,7 @@ A Russian airliner crashes in Sinai killing all 224 people on board - rescuers d
 
 ##### Texas
 ### [A second round of storms and strong winds moves east across Texas in the American Southwest, with three radar-confirmed tornadoes damaging homes and causing injuries in the Houston area that got up to eight inches of rain since Friday night. Six people have been killed. ](/news/2015/10/31/a-second-round-of-storms-and-strong-winds-moves-east-across-texas-in-the-american-southwest-with-three-radar-confirmed-tornadoes-damaging-h.md)
-_Context: Houston area, Southwestern United States, radar-confirmed, Texas, tornado_
+_Context: Southwestern United States, radar-confirmed, Houston area, tornado, Texas_
 
 ##### Colectiv nightclub fire
 ### [Romanian Prime Minister Victor Ponta declares three days of national mourning. ](/news/2015/10/31/romanian-prime-minister-victor-ponta-declares-three-days-of-national-mourning.md)
@@ -29,15 +29,15 @@ Survivors of a deadly nightclub fire and stampede in Romania say the lead singer
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu retracts controversial comments he made about Nazi policies during World War 2, saying he never meant to claim that an Islamic leader Amin al-Husseini persuaded Adolf Hitler to adopt a policy to kill European Jews. ](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.md)
-_Context: Israeli Prime Minister, Adolf Hitler, Islam, Amin al-Husseini, European Jews, World War 2, Benjamin Netanyahu, Nazi_
+_Context: Amin al-Husseini, Benjamin Netanyahu, World War 2, Nazi, European Jews, Islam, Israeli Prime Minister, Adolf Hitler_
 
 ##### Syrian Civil War
 ### [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md)
-_Context: Syria, Syria peace talks in Vienna, President, Bashar al-Assad, United Nations Secretary-General, Ban Ki-moon, Syrian Civil War_
+_Context: Syria, Syrian Civil War, President, Bashar al-Assad, Syria peace talks in Vienna, Ban Ki-moon, United Nations Secretary-General_
 
 ##### Presidential Palace
 ### [The Presidential Palace and the Philippine Senate investigate an extortion scam involving the Ninoy Aquino International Airport. ](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.md)
-_Context: Presidential Palace, extortion, Philippines, Ninoy Aquino International Airport, senators_
+_Context: Ninoy Aquino International Airport, Presidential Palace, Philippines, senators, extortion_
 
 ##### Attacks on secularists in Bangladesh
 ### [Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md)
@@ -53,7 +53,7 @@ Eleven people were killed when rival political parties fired on each other on Sa
 
 ##### Guinean presidential election, 2015
 ### [Guinea's constitutional court validates President Alpha Conde's October 11, 2015, re-election victory. The court dismissed complaints lodged by opposition candidates. ](/news/2015/10/31/guinea-s-constitutional-court-validates-president-alpha-conda-c-s-october-11-2015-re-election-victory-the-court-dismissed-complaints-lodge.md)
-_Context: Guinea, Alpha Conde's, Guinean presidential election, 2015, President_
+_Context: Guinean presidential election, 2015, Alpha Conde's, President, Guinea_
 
 ##### 2015 TB145
 ### [A large asteroid 2015 TB145, thought to be a dead comet, passes close to the earth. ](/news/2015/10/31/a-large-asteroid-2015-tb145-thought-to-be-a-dead-comet-passes-close-to-the-earth.md)

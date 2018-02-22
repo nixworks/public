@@ -9,7 +9,7 @@ The fund that protects depositors fell into the red for the first time since the
 
 ##### Royal Netherlands Navy
 ### [ The Royal Netherlands Navy seizes 13 Somali pirates and frees two Tanzanians from a vessel that attacked a German ship off the southern cost of Oman. ](/news/2009/12/3/the-royal-netherlands-navy-seizes-13-somali-pirates-and-frees-two-tanzanians-from-a-vessel-that-attacked-a-german-ship-off-the-southern-cos.md)
-_Context: German, Somali pirates, Royal Netherlands Navy, Oman, Tanzania_
+_Context: German, Tanzania, Royal Netherlands Navy, Oman, Somali pirates_
 
 ##### Nigeria
 ### [ Nigerian farmers sue Shell at a court in The Hague over claims that the oil firm polluted their land in the Niger Delta region. ](/news/2009/12/3/nigerian-farmers-sue-shell-at-a-court-in-the-hague-over-claims-that-the-oil-firm-polluted-their-land-in-the-niger-delta-region.md)
@@ -21,11 +21,11 @@ _Context: Xinjiang, riots, rmqi, China_
 
 ##### India
 ### [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md)
-_Context: Bhopal, India, Bhopal disaster_
+_Context: Bhopal, Bhopal disaster, India_
 
 ##### Somalia
 ### [ Three Somali cabinet ministers are amongst dozens killed in a bomb blast at a university graduation ceremony at a hotel in Mogadishu. ](/news/2009/12/3/three-somali-cabinet-ministers-are-amongst-dozens-killed-in-a-bomb-blast-at-a-university-graduation-ceremony-at-a-hotel-in-mogadishu.md)
-_Context: bomb blast, university, Mogadishu, Somalia_
+_Context: bomb blast, Somalia, Mogadishu, university_
 
 ##### Iran
 ### [ Three Iranian pilgrims are killed after their bus exploded at a petrol station in the Syrian capital Damascus. ](/news/2009/12/3/three-iranian-pilgrims-are-killed-after-their-bus-exploded-at-a-petrol-station-in-the-syrian-capital-damascus.md)

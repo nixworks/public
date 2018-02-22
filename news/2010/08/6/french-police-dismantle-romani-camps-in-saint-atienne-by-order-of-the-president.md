@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-at
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### France
+##### French
 # French police dismantle Romani camps in Saint-Etienne by order of the president. 
 
 France begins taking down illegal Roma camps in line with a presidential order, with police dismantling a camp in Saint-Etienne.
@@ -18,8 +18,8 @@ France begins taking down illegal Roma camps in line with a presidential order, 
 
 ### Related:
 
-1. [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md) _Context: France, Roma_
-2. [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md) _Context: France, Roma_
-3. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: France, Roma_
-4. [France condemns as "unacceptable" remarks made by former Cuban leader Fidel Castro expressing sympathy with the Romani migrants it is trying to rid itself of. ](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.md) _Context: France, Roma_
-5. [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md) _Context: France, Roma_
+1. [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md) _Context: French, Roma_
+2. [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md) _Context: French, Roma_
+3. [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md) _Context: French, Roma_
+4. [France condemns as "unacceptable" remarks made by former Cuban leader Fidel Castro expressing sympathy with the Romani migrants it is trying to rid itself of. ](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.md) _Context: French, Roma_
+5. [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md) _Context: French, Roma_

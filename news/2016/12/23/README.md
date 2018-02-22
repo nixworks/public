@@ -9,7 +9,7 @@ BEIRUT, LEBANON (10:40 P.M.) - The jihadist rebels of Fatah Halab and Jabhat Fat
 
 ##### Last week's attack on a Christmas market in Berlin
 ### [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md)
-_Context: Tunisia, last week's attack on a Christmas market in Berlin, Milan_
+_Context: Milan, Tunisia, last week's attack on a Christmas market in Berlin_
 
 ##### Afriqiyah Airways Flight 209
 ### [An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. ](/news/2016/12/23/an-afriqiyah-airways-flight-originating-from-sabha-libya-is-hijacked-and-forced-to-make-an-emergency-landing-in-malta-hijackers-threaten.md)
@@ -29,7 +29,7 @@ Bonanza Creek Energy Inc (BCEI.N) and two other energy firms announced on Friday
 
 ##### Philippines
 ### [Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. ](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.md)
-_Context: pneumonia, Manila, Joseph Estrada, Philippines_
+_Context: Manila, Joseph Estrada, Philippines, pneumonia_
 
 ##### United Nations Security Council resolution
 ### [The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isra.md)

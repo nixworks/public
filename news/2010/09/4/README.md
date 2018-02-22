@@ -21,7 +21,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 
 ##### States of emergency
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
-_Context: 2010 Canterbury earthquake, New Zealand, Christchurch, states of emergency, curfew_
+_Context: curfew, states of emergency, 2010 Canterbury earthquake, New Zealand, Christchurch_
 
 ##### Australia
 ### [Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-landslides-blocking-ro.md)
@@ -45,7 +45,7 @@ Two light aircraft collided during an aerial race in England Saturday, killing t
 
 ##### Hurricane Earl
 ### [Former Hurricane Earl loses its tropical storm status after making landfall in Nova Scotia, Canada but left one person dead and a million people without power in Canada. ](/news/2010/09/4/former-hurricane-earl-loses-its-tropical-storm-status-after-making-landfall-in-nova-scotia-canada-but-left-one-person-dead-and-a-million-pe.md)
-_Context: Hurricane Earl, Canada, Nova Scotia, tropical storm_
+_Context: Hurricane Earl, Canada, tropical storm, Nova Scotia_
 
 ##### DR Congo
 ### [Hundreds of people are believed to have died in the Democratic Republic of the Congo in river boat accidents. ](/news/2010/09/4/hundreds-of-people-are-believed-to-have-died-in-the-democratic-republic-of-the-congo-in-river-boat-accidents.md)
@@ -53,7 +53,7 @@ _Context: river boat, DR Congo_
 
 ##### Belarus
 ### [A prominent opposition journalist in Belarus, Oleg Bebenin, is found hanged; officials say he committed suicide. ](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.md)
-_Context: Belarus, suicide, Oleg Bebenin_
+_Context: Oleg Bebenin, suicide, Belarus_
 
 ##### Argentina
 ### [A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. ](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.md)
@@ -61,9 +61,9 @@ An Argentine court reopens an investigation into alleged crimes against humanity
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md)
-_Context: Sakineh Mohammadi Ashtiani, adultery, Times, Iran, Susan Hejrat_
+_Context: Iran, adultery, Susan Hejrat, Times, Sakineh Mohammadi Ashtiani_
 
-##### France
+##### French
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)
 Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;France&#x20;to&#x20;protest&#x20;the&#x20;government&#x2019;s&#x20;recent&#x20;attempt&#x20;to&#x20;link&#x20;immigration&#x20;and&#x20;crime.&#x20;The&#x20;protests&#x20;are&#x20;being&#x20;viewed&#x20;in&#x20;France&#x20;...
 
@@ -73,7 +73,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands; Informateur Ivo Opstelten informs Queen Beatrix that the coalition formation between the People's Party for Freedom and Democracy (VVD) and the Christian Democratic Appeal (CDA) with support from the Party for Freedom (PVV) failed, after PVV leader Geert Wilders lost his confidence in the internal stability of the CDA parliamentary group after a letter of criticism was sent by CDA negotiator Ab Klink (CDA). ](/news/2010/09/4/cabinet-formation-in-the-netherlands-informateur-ivo-opstelten-informs-queen-beatrix-that-the-coalition-formation-between-the-people-s-part.md)
-_Context: CDA, Geert Wilders, Ab Klink, Beatrix, Cabinet formation in the Netherlands, Ivo Opstelten, VVD, Party for Freedom, Informateur_
+_Context: VVD, Ab Klink, Party for Freedom, Beatrix, Cabinet formation in the Netherlands, Informateur, Geert Wilders, CDA, Ivo Opstelten_
 
 ## [Previous Day...](/news/2010/09/3/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/29/index.html)  [JSON](2012/12/29/index.json)  [XML](201
 
 ##### LCC
 ### [The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-the-syrian-army-in.md)
-_Context: LCC, Homs, Syria, Syrian Army_
+_Context: LCC, Syria, Homs, Syrian Army_
 
 ##### Central African Republic
 ### [Rebels in the Central African Republic have made fresh gains and are now in control of a key central city. ](/news/2012/12/29/rebels-in-the-central-african-republic-have-made-fresh-gains-and-are-now-in-control-of-a-key-central-city.md)
@@ -31,7 +31,7 @@ Former Prime Minister Margaret Thatcher has left hospital after having a growth 
 ### [US Senate passes H.R. 5949, FISA Amendments Act Reauthorization Act, which extends the Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008 five more years until December 31, 2017. The US House of Representatives also voted for the extension earlier this month. ](/news/2012/12/29/us-senate-passes-h-r-5949-fisa-amendments-act-reauthorization-act-which-extends-the-foreign-intelligence-surveillance-act-of-1978-amendme.md)
 To extend the FISA Amendments Act of 2008 for five years.
 
-##### France
+##### French
 ### [France's Constitutional Council strikes down the government's plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/franceas-constitutional-council-strikes-down-the-governmentas-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md)
 The Constitutional Council opposed a plan to impose a 75 percent marginal income tax rate on the wealthy that would have applied to annual income above 1 million euros, or about $1.3 million.
 

@@ -29,7 +29,7 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 
 ##### Yushe
 ### [A chemical factory explodes in Yushe county, North China's Shanxi province, killing at least three. ](/news/2010/11/21/a-chemical-factory-explodes-in-yushe-county-north-china-s-shanxi-province-killing-at-least-three.md)
-_Context: North China, Shanxi province, Yushe_
+_Context: Yushe, Shanxi province, North China_
 
 ##### Sichuan
 ### [A flood traps 28 people in a coal mine in Sichuan, southwestern China. ](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.md)
@@ -61,11 +61,11 @@ Two Israeli soldiers who used a Palestinian child as a human shield during an of
 
 ##### Salt
 ### [Thirty five people are arrested in Salt, Jordan, to restore calm after four days of rioting following the police shooting of an alleged traffic violator. ](/news/2010/11/21/thirty-five-people-are-arrested-in-salt-jordan-to-restore-calm-after-four-days-of-rioting-following-the-police-shooting-of-an-alleged-traf.md)
-_Context: Jordan, Salt_
+_Context: Salt, Jordan_
 
 ##### Iran
 ### [Iran delays the trial of two American citizens detained while hiking until 6 February 2011. ](/news/2010/11/21/iran-delays-the-trial-of-two-american-citizens-detained-while-hiking-until-6-february-2011.md)
-_Context: Iran, two American citizens_
+_Context: two American citizens, Iran_
 
 ##### Burkina Faso
 ### [Voters in Burkina Faso go to the polls, with incumbent President Blaise Compaore claiming victory with 75 per cent of the votes.](/news/2010/11/21/voters-in-burkina-faso-go-to-the-polls-with-incumbent-president-blaise-compaora-c-claiming-victory-with-75-per-cent-of-the-votes.md)

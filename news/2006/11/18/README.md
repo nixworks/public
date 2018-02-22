@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/18/index.html)  [JSON](2006/11/18/index.json)  [XML](200
 
 ##### President
 ### [ President of Turkmenistan "Turkmenbashi" Saparmurat Niyazov schedules a second eye operation in Germany in January amid rumors that his health is poor. President Niyazov cannot be operated on in Turkmenistan because earlier this year he signed a decree that closed all hospitals outside of Ashgabat and replaced most healthcare staff with soldiers. ](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmurat-niyazov-schedules-a-second-eye-operation-in-germany-in-january-amid-rumors-that-his-hea.md)
-_Context: president, Saparmurat Niyazov, German, Ashgabat, Turkmenistan_
+_Context: Ashgabat, Saparmurat Niyazov, president, German, Turkmenistan_
 
 ##### Chad
 ### [ Chad has offered to send troops to the Central African Republic to help fight rebels it claims are backed by Sudan. ](/news/2006/11/18/chad-has-offered-to-send-troops-to-the-central-african-republic-to-help-fight-rebels-it-claims-are-backed-by-sudan.md)

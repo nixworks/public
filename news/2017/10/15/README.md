@@ -17,7 +17,7 @@ Voting is underway in Austria’s parliamentary election. Embattled Chancellor C
 
 ##### Venezuelan regional elections, 2017
 ### [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md)
-_Context: Venezuela, socialist party, Venezuelan regional elections, 2017_
+_Context: socialist party, Venezuelan regional elections, 2017, Venezuela_
 
 ## [Previous Day...](/news/2017/10/14/index.md)
 

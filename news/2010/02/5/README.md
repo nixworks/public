@@ -17,11 +17,11 @@ _Context: 2010 Haiti earthquake, Dominican Republic_
 
 ##### Civil servants
 ### [Civil servants in Zimbabwe go on strike, demanding a wage increase. ](/news/2010/02/5/civil-servants-in-zimbabwe-go-on-strike-demanding-a-wage-increase.md)
-_Context: Zimbabwe, civil servants_
+_Context: civil servants, Zimbabwe_
 
 ##### Cyclone Oli
 ### [Cyclone Oli hits Tahiti and other islands of French Polynesia, killing at least one man. ](/news/2010/02/5/cyclone-oli-hits-tahiti-and-other-islands-of-french-polynesia-killing-at-least-one-man.md)
-_Context: Cyclone Oli, Tahiti, French Polynesia_
+_Context: French Polynesia, Tahiti, Cyclone Oli_
 
 ##### India
 ### [The last native of India's Andaman Islands fluent in the Aka-Bo language dies, rendering the language extinct. ](/news/2010/02/5/the-last-native-of-india-s-andaman-islands-fluent-in-the-aka-bo-language-dies-rendering-the-language-extinct.md)
@@ -37,7 +37,7 @@ Barack Obama has described Northern Ireland&#39;s power-sharing deal as an impor
 
 ##### Russia
 ### [Five Russian soldiers are killed and six injured in clashes with militants in Chechnya. ](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.md)
-_Context: Russia, Chechnya_
+_Context: Chechnya, Russia_
 
 ##### United Kingdom
 ### [Four British politicians will face criminal prosecution over their expense claims in the ongoing expenses scandal. ](/news/2010/02/5/four-british-politicians-will-face-criminal-prosecution-over-their-expense-claims-in-the-ongoing-expenses-scandal.md)
@@ -49,7 +49,7 @@ _Context: Pluto, dwarf planet_
 
 ##### Uganda
 ### [Uganda's deputy Foreign Minister Henry Okello Oryem says the country's anti-homosexuality Bill "will be changed". ](/news/2010/02/5/uganda-s-deputy-foreign-minister-henry-okello-oryem-says-the-country-s-anti-homosexuality-bill-will-be-changed.md)
-_Context: Uganda, Henry Okello Oryem, law_
+_Context: Henry Okello Oryem, Uganda, law_
 
 ##### North Korea
 ### [North Korea announces it will release an American man who entered the country on December 25, 2009. ](/news/2010/02/5/north-korea-announces-it-will-release-an-american-man-who-entered-the-country-on-december-25-2009.md)

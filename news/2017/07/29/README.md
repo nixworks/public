@@ -21,7 +21,7 @@ Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks
 
 ##### Catholic Church sexual abuse cases
 ### [Monsignor Arnel Lagarejos, a Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/monsignor-arnel-lagarejos-a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually.md)
-_Context: Roman Catholic Diocese of Antipolo, Marikina, Catholic Church sexual abuse cases_
+_Context: Marikina, Roman Catholic Diocese of Antipolo, Catholic Church sexual abuse cases_
 
 ##### Kenyan general election, 2017
 ### [A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant fled to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. ](/news/2017/07/29/a-man-wielding-a-machete-attacks-the-home-of-kenya-s-deputy-president-william-ruto-injuring-one-guard-10-days-before-national-elections-r.md)

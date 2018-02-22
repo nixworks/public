@@ -13,11 +13,11 @@ The death toll in a bombing in the southern Russia city of Stavropol has risen t
 
 ##### Deepwater Horizon oil spill
 ### [The Gulf of Mexico oil spill is now the worst oil spill in U.S. history, surpassing the worst previous spill, the Exxon Valdez wreck on the Alaska coast in 1989, according to scientists' latest estimates. ](/news/2010/05/27/the-gulf-of-mexico-oil-spill-is-now-the-worst-oil-spill-in-u-s-history-surpassing-the-worst-previous-spill-the-exxon-valdez-wreck-on-the.md)
-_Context: Exxon Valdez, Deepwater Horizon oil spill, Alaska_
+_Context: Exxon Valdez, Alaska, Deepwater Horizon oil spill_
 
 ##### Yemen
 ### [A US-born Yemenite cleric linked to Al-Qaeda, Anwar Al-Awlaki, advocates the killing of US civilians in a new Al Qaeda video. ](/news/2010/05/27/a-us-born-yemenite-cleric-linked-to-al-qaeda-anwar-al-awlaki-advocates-the-killing-of-us-civilians-in-a-new-al-qaeda-video.md)
-_Context: Anwar Al-Awlaki, Yemen, al-Qaeda_
+_Context: Anwar Al-Awlaki, al-Qaeda, Yemen_
 
 ##### LGBT rights
 ### [Two campaigners for LGBT rights in Zimbabwe are freed after spending six days in custody on charges of possessing pornographic material and insulting President Robert Mugabe. ](/news/2010/05/27/two-campaigners-for-lgbt-rights-in-zimbabwe-are-freed-after-spending-six-days-in-custody-on-charges-of-possessing-pornographic-material-and.md)
@@ -27,7 +27,7 @@ Two campaigners for gay rights in Zimbabwe are freed after spending six days in 
 ### [North Korea says it will scrap an accord aimed at preventing accidental naval clashes with South Korea after being blamed for a torpedo attack that sank a South Korean warship. ](/news/2010/05/27/north-korea-says-it-will-scrap-an-accord-aimed-at-preventing-accidental-naval-clashes-with-south-korea-after-being-blamed-for-a-torpedo-atta.md)
 North Korea says it will scrap an accord aimed at preventing accidental naval clashes with South Korea after Seoul blamed Pyongyang for a torpedo attack that sank a South Korean warship.
 
-##### France
+##### French
 ### [France detains Rwandan doctor Eugene Rwamucyo, wanted by Interpol since 2006 and accused of involvement in the Rwandan Genocide. ](/news/2010/05/27/france-detains-rwandan-doctor-eugene-rwamucyo-wanted-by-interpol-since-2006-and-accused-of-involvement-in-the-rwandan-genocide.md)
 French authorities arrest a Rwandan doctor accused over the 1994 genocide, a move welcomed in Rwanda.
 
@@ -59,7 +59,7 @@ Singapore closed most of its eastern beaches due to the oil spilt in nearby wate
 ### [Libya welcomes the return of some ancient relics stolen by British soldiers in the 1950s and now on display in Tripoli's Museum of Libya. ](/news/2010/05/27/libya-welcomes-the-return-of-some-ancient-relics-stolen-by-british-soldiers-in-the-1950s-and-now-on-display-in-tripoli-s-museum-of-libya.md)
 Libyan artefacts taken to Britain in the 1950s have been returned home and go on display in Tripoli Museum.
 
-##### France
+##### French
 ### [Tens of thousands of workers strike in protest against government plans to raise the retirement age in France. ](/news/2010/05/27/tens-of-thousands-of-workers-strike-in-protest-against-government-plans-to-raise-the-retirement-age-in-france.md)
 Thousands of workers have marched in cities in France to protest over plans to raise the retirement age to 60.
 
@@ -73,7 +73,7 @@ _Context: Spain_
 
 ##### French Polynesia
 ### [French Polynesia Vice President Edouard Fritch is arrested in a bribery probe. ](/news/2010/05/27/french-polynesia-vice-president-edouard-fritch-is-arrested-in-a-bribery-probe.md)
-_Context: Edouard Fritch, Vice President, French Polynesia, bribes_
+_Context: bribes, French Polynesia, Edouard Fritch, Vice President_
 
 ##### Peter James Bethune
 ### [Peter James Bethune, a New Zealand anti-whaling campaigner, pleads guilty to four charges over his alleged attacks on the Japanese whaling vessel MV "Shonan Maru 2" in February. ](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.md)

@@ -9,7 +9,7 @@ City centre in Homs in lockdown after twin suicide attacks leave scores dead.
 
 ##### War in Afghanistan (2015-present)
 ### [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md)
-_Context: Jowzjan Province, Taliban, police, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), Taliban, police, Jowzjan Province_
 
 ##### Iraqi Civil War (2014-present)
 ### [Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-reporting-on-the-battle-for-mosul.md)
@@ -17,11 +17,11 @@ Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as
 
 ##### Nagorno-Karabakh conflict
 ### [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md)
-_Context: Nagorno-Karabakh, Nagorno-Karabakh conflict, Nagorno-Karabakh region, Azerbaijan, Azerbaijan Ministry of Defense_
+_Context: Nagorno-Karabakh conflict, Nagorno-Karabakh, Nagorno-Karabakh region, Azerbaijan, Azerbaijan Ministry of Defense_
 
 ##### France-United States relations
 ### [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md)
-_Context: Francois Hollande, Conservative Political Action Conference, French President, France-United States relations, Donald Trump_
+_Context: Francois Hollande, France-United States relations, French President, Donald Trump, Conservative Political Action Conference_
 
 ##### German
 ### [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police do not believe terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md)
@@ -41,7 +41,7 @@ Perez was elected Saturday as the new DNC chair, tasked with rebuilding the fact
 
 ##### Presidency of Donald Trump
 ### [Donald Trump announces he will not attend the 2017 White House Correspondents' Dinner, following recent friction between his administration and various news organizations. ](/news/2017/02/25/donald-trump-announces-he-will-not-attend-the-2017-white-house-correspondents-dinner-following-recent-friction-between-his-administration.md)
-_Context: White House Correspondents' Dinner, Presidency of Donald Trump_
+_Context: Presidency of Donald Trump, White House Correspondents' Dinner_
 
 ## [Previous Day...](/news/2017/02/24/index.md)
 

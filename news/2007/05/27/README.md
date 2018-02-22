@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/27/index.html)  [JSON](2007/05/27/index.json)  [XML](200
 
 ##### Gay rights in Russia
 ### [ Gay rights in Russia: Russian gay rights leaders and foreign dignitaries are beaten and arrested in Moscow. Moscow mayor Yuri Luzhkov had denied permission for a gay pride parade.](/news/2007/05/27/gay-rights-in-russia-russian-gay-rights-leaders-and-foreign-dignitaries-are-beaten-and-arrested-in-moscow-moscow-mayor-yuri-luzhkov-had-d.md)
-_Context: Gay rights in Russia, Moscow, Russia, Yuri Luzhkov, gay rights, gay pride parade_
+_Context: gay pride parade, Gay rights in Russia, Moscow, Yuri Luzhkov, Russia, gay rights_
 
 ##### Nepal
 ### [ Nepalese police clash with Bhutanese asylum seekers at a United Nations resulting in one 16-year-old boy being killed and a dozen people being injured. ](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.md)
@@ -13,15 +13,15 @@ _Context: Bhutan, Nepal, United Nations, asylum seeker_
 
 ##### Automobile racing
 ### [ Auto racing: Scotland's Dario Franchitti wins the rain-shortened 91st Indianapolis 500. ](/news/2007/05/27/auto-racing-scotland-s-dario-franchitti-wins-the-rain-shortened-91st-indianapolis-500.md)
-_Context: rain, 91st Indianapolis 500, Scotland, automobile racing, Dario Franchitti_
+_Context: 91st Indianapolis 500, automobile racing, Dario Franchitti, Scotland, rain_
 
 ##### Iraq War
 ### [ Iraq War: United States forces rescue 42 Iraqis from an al-Qaeda hideout northeast of Baghdad with some captives showing signs of torture. ](/news/2007/05/27/iraq-war-united-states-forces-rescue-42-iraqis-from-an-al-qaeda-hideout-northeast-of-baghdad-with-some-captives-showing-signs-of-torture.md)
-_Context: United States, Iraq War, torture, Military of the United States, Iraq, al-Qaeda in Iraq, Baghdad_
+_Context: Military of the United States, al-Qaeda in Iraq, Baghdad, Iraq War, torture, United States, Iraq_
 
 ##### China
 ### [ China claims all gold and silver medals in the Table Tennis World Championships in Zagreb, Croatia. ](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.md)
-_Context: China, Table Tennis, Zagreb, Croatia_
+_Context: Croatia, Table Tennis, China, Zagreb_
 
 ##### Qassam rockets
 ### [ Two Qassam rockets land in Israel with at least two casualties in Sderot. The IAF strikes two Hamas posts in the Gaza Strip, with no casualties reported. ](/news/2007/05/27/two-qassam-rockets-land-in-israel-with-at-least-two-casualties-in-sderot-the-iaf-strikes-two-hamas-posts-in-the-gaza-strip-with-no-casual.md)
@@ -29,7 +29,7 @@ A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minis
 
 ##### Ukrainian President
 ### [ President Viktor Yushchenko and Prime Minister Viktor Yanukovych of Ukraine agree to a compromise, with early parliamentary elections to be held on September 30. ](/news/2007/05/27/president-viktor-yushchenko-and-prime-minister-viktor-yanukovych-of-ukraine-agree-to-a-compromise-with-early-parliamentary-elections-to-be.md)
-_Context: September 30, Viktor Yushchenko, Viktor Yanukovych, Ukrainian President, Ukraine, Prime Minister of Ukraine_
+_Context: Prime Minister of Ukraine, Ukraine, Viktor Yushchenko, September 30, Viktor Yanukovych, Ukrainian President_
 
 ##### Spain
 ### [ Spanish voters go to the polls in local and regional elections. ](/news/2007/05/27/spanish-voters-go-to-the-polls-in-local-and-regional-elections.md)
@@ -37,15 +37,15 @@ _Context: local and regional elections, Spain_
 
 ##### Venezuela
 ### [ Venezuelan TV station Radio Caracas Television is shut down by the Hugo Chvez administration. ](/news/2007/05/27/venezuelan-tv-station-radio-caracas-television-is-shut-down-by-the-hugo-chavez-administration.md)
-_Context: Hugo Chvez, TV station, RCTV, Venezuela_
+_Context: TV station, RCTV, Hugo Chvez, Venezuela_
 
 ##### Romanian
 ### [ Romanian film "4 Months, 3 Weeks and 2 Days" by Cristian Mungiu gets the Palme d'Or at the 2007 Cannes Film Festival. ](/news/2007/05/27/romanian-film-4-months-3-weeks-and-2-days-by-cristian-mungiu-gets-the-palme-d-or-at-the-2007-cannes-film-festival.md)
-_Context: 2007 Cannes Film Festival, Palme d'Or, Romanian, Cristian Mungiu, 4 Months, 3 Weeks and 2 Days_
+_Context: 2007 Cannes Film Festival, Romanian, Palme d'Or, 4 Months, 3 Weeks and 2 Days, Cristian Mungiu_
 
 ##### Japan
 ### [ Japanese band Zard vocalist Izumi Sakai dies of cerebral contusion in Keio University hospital, Shinjuku, Tokyo. ](/news/2007/05/27/japanese-band-zard-vocalist-izumi-sakai-dies-of-cerebral-contusion-in-keio-university-hospital-shinjuku-tokyo.md)
-_Context: Keio University, Tokyo, Shinjuku, Zard, Izumi Sakai, Japan, cerebral contusion_
+_Context: Izumi Sakai, Shinjuku, Japan, Keio University, cerebral contusion, Tokyo, Zard_
 
 ## [Previous Day...](/news/2007/05/26/index.md)
 

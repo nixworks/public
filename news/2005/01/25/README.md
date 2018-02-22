@@ -17,11 +17,11 @@ The U.S. Army expects to keep its troop strength in Iraq at the current level of
 
 ##### Hindu
 ### [ Up to 300 Hindus are feared to have died in a stampede, reaction to a fire caused by a short circuit, near a temple in Wai in the Satara district of western Maharashtra, India. Scores of others are crushed or burned. An estimated 300,000 people had gathered at the temple. ](/news/2005/01/25/up-to-300-hindus-are-feared-to-have-died-in-a-stampede-reaction-to-a-fire-caused-by-a-short-circuit-near-a-temple-in-wai-in-the-satara-di.md)
-_Context: Hindu, Maharashtra, Satara, India, stampede, temple, Wai, short circuit_
+_Context: temple, India, stampede, Hindu, Wai, Maharashtra, Satara, short circuit_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel resumes construction of one of the most controversial parts of the Israeli West Bank barrier, around the Ariel settlement, 20&nbsp;km into the West Bank. ](/news/2005/01/25/israeli-palestinian-conflict-israel-resumes-construction-of-one-of-the-most-controversial-parts-of-the-israeli-west-bank-barrier-around-t.md)
-_Context: Ariel, West Bank, Israel, Israeli-Palestinian Conflict, barrier, settlement_
+_Context: West Bank, barrier, Israeli-Palestinian Conflict, settlement, Israel, Ariel_
 
 ##### 77<sup>th</sup> Academy Awards
 ### [ The nominees for the 77 th Academy Awards are announced, with "The Aviator" and "Finding Neverland" leading with 11 and 7 nominations respectively. ](/news/2005/01/25/the-nominees-for-the-77-th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respe.md)
@@ -29,27 +29,27 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 
 ##### United Kingdom
 ### [ After being incarcerated without trial for almost three years, the four remaining British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are released and flown back to the United Kingdom, where they are immediately arrested by British police. ](/news/2005/01/25/after-being-incarcerated-without-trial-for-almost-three-years-the-four-remaining-british-detainees-at-guantanamo-bay-moazzam-begg-feroz.md)
-_Context: Richard Belmar, Moazzam Begg, Feroz Abbasi, United Kingdom, Martin Mubanga_
+_Context: Martin Mubanga, Moazzam Begg, Feroz Abbasi, United Kingdom, Richard Belmar_
 
 ##### Bill Gates
 ### [ Bill Gates donates $750 million through the Bill & Melinda Gates Foundation to the Global Alliance for Vaccines and Immunisation, to provide vaccines to children in poor countries. This is one of the largest philanthropic donations ever made by a living donor. ](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.md)
-_Context: million, Bill Gates, Bill & Melinda Gates Foundation_
+_Context: Bill Gates, million, Bill & Melinda Gates Foundation_
 
 ##### George W. Bush
 ### [ The Bush administration is requesting an additional $80 billion from Congress for Iraq and Afghanistan, bringing the total cost of both operations over $280 billion. ](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.md)
-_Context: War in Afghanistan (2001-present), billion, Congressman, George W. Bush, 2003 invasion of Iraq_
+_Context: billion, 2003 invasion of Iraq, War in Afghanistan (2001-present), Congressman, George W. Bush_
 
 ##### Kenya
 ### [ In Kenya, clashes between Kikuyu and Maasai in the Rift Valley have led to at least 14 deaths. The fight is over water rights of Ewaso Kedong River. ](/news/2005/01/25/in-kenya-clashes-between-kikuyu-and-maasai-in-the-rift-valley-have-led-to-at-least-14-deaths-the-fight-is-over-water-rights-of-ewaso-kedo.md)
-_Context: Kikuyu, Great Rift Valley, Kenya, Ewaso Kedong River, Maasai, water_
+_Context: Kenya, Maasai, water, Ewaso Kedong River, Kikuyu, Great Rift Valley_
 
 ##### Taiwan
 ### [ In the Republic of China-Taiwan, President Chen Shui-bian names fellow Democratic Progressive Party member Frank Hsieh, as the new premier. He calls for a reconciliation with the political opposition, which maintained its legislative majority in last month's elections. ](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.md)
-_Context: Taiwan, legislative majority, President, Frank Hsieh, Premier, Chen Shui-bian, Democratic Progressive Party_
+_Context: President, Chen Shui-bian, Democratic Progressive Party, Taiwan, Frank Hsieh, legislative majority, Premier_
 
 ##### Strike
 ### [ Large scale strikes begin in Andhra Pradesh, India, in protest of the killing of Paritala Ravi, a senior leader of Telugu Desam Party assassinated two days ago. ](/news/2005/01/25/large-scale-strikes-begin-in-andhra-pradesh-india-in-protest-of-the-killing-of-paritala-ravi-a-senior-leader-of-telugu-desam-party-assas.md)
-_Context: Paritala Ravi, strike, India, Andhra Pradesh, Telugu Desam Party_
+_Context: India, Telugu Desam Party, Andhra Pradesh, strike, Paritala Ravi_
 
 ##### Previous head
 ### [ Marcial Maciel, Mexican founder of Roman Catholic order of Legion of Christ resigns due to his age. The stepping down coincides with the Vatican investigation about claims that he had sexually abused former members. ](/news/2005/01/25/marcial-maciel-mexican-founder-of-roman-catholic-order-of-legion-of-christ-resigns-due-to-his-age-the-stepping-down-coincides-with-the-va.md)

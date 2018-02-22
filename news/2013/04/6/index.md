@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Qalat
 ### [A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civilians-along-with-an-afghan-doctor-a.md)
-_Context: Zabul Province, Afghan, U.S., Qalat_
+_Context: Qalat, U.S., Afghan, Zabul Province_
 
 ##### Tuareg
 ### [Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-azawad.md)
@@ -21,7 +21,7 @@ A Mali government spokesman says clashes between national soldiers and armed pol
 
 ##### Tokyo Electric Power Company
 ### [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Company, Fukushima Prefecture, radioactive, Japan, Futaba District_
+_Context: Japan, Fukushima Prefecture, radioactive, Futaba District, Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Company_
 
 ##### 2013 Thane building collapse
 ### [2013 Thane building collapse: Rescuers in India end the search for survivors of a building collapse which killed 74 people in the city of Thane on April 4. ](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.md)
@@ -53,7 +53,7 @@ Tammam Salam was officially named the new prime minister of Lebanon on Saturday 
 
 ##### Pope Francis
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders, his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Holy See, O.F.M., Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Spain, Catholic faithful, Jose Rodriguez Carballo, Pope Francis_
+_Context: Jose Rodriguez Carballo, O.F.M., Holy See, Pope Francis, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Spain, Catholic faithful_
 
 ## [Previous Day...](/news/2013/04/5/index.md)
 

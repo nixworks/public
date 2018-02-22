@@ -7,7 +7,7 @@ Formats: [HTML](2013/12/7/index.html)  [JSON](2013/12/7/index.json)  [XML](2013/
 ### [The Islamic Front has taken over Bab al-Hawa bases from the Free Syrian Army. ](/news/2013/12/7/the-islamic-front-has-taken-over-bab-al-hawa-bases-from-the-free-syrian-army.md)
 Syrian rebels from an Islamist alliance formed last month have occupied bases and warehouses belonging to a Western-backed rebel group on the Turkish border, rebels and activists said on Saturday.
 
-##### France
+##### French
 ### [France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/france-expands-its-role-in-the-conflict-in-the-central-african-republic.md)
 A reinforced French force in the Central African Republic expands operations in the capital and beyond, to try to end deadly sectarian fighting.
 
@@ -25,11 +25,11 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 
 ##### New York University School of Medicine
 ### [Researchers at the New York University School of Medicine are published in the "Journal of the National Cancer Institute", describing a link between decreased levels of gut microbe diversity and increased colorectal cancer rates. A possible cause of the link may be that such people's digestive tracts have lower levels of bacteria that ferment dietary fiber into the anti-inflammatory fatty acid butyrate. However, the causative link remains uncertain since there could be other influencing factors, such as genetics, obesity, or the presence of inflammatory types of microbes. ](/news/2013/12/7/researchers-at-the-new-york-university-school-of-medicine-are-published-in-the-journal-of-the-national-cancer-institute-describing-a-link.md)
-_Context: gut microbe, fatty acid, New York University School of Medicine, Journal of the National Cancer Institute, dietary fiber, butyrate, anti-inflammatory, colorectal cancer_
+_Context: gut microbe, colorectal cancer, dietary fiber, New York University School of Medicine, fatty acid, anti-inflammatory, butyrate, Journal of the National Cancer Institute_
 
 ##### North Korea
 ### [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md)
-_Context: American, Merrill Newman, North Korea, United States, Kenneth Bae_
+_Context: United States, Kenneth Bae, American, North Korea, Merrill Newman_
 
 ##### World Trade Organization
 ### [The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. ](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.md)

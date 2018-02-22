@@ -21,7 +21,7 @@ Several vehicles were burning in the pileup west of exit 92, including a truck t
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md)
-_Context: Yingluck Shinawatra, impeachment, Prime Minister_
+_Context: Prime Minister, Yingluck Shinawatra, impeachment_
 
 ##### Russia
 ### [Russia lists transsexual and transgender individuals among those with "personality and behavioural disorders" who will be banned from obtaining driving licenses. ](/news/2015/01/9/russia-lists-transsexual-and-transgender-individuals-among-those-with-personality-and-behavioural-disorders-who-will-be-banned-from-obtain.md)

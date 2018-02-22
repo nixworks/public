@@ -9,7 +9,7 @@ Up to 60 people are killed and scores are injured in a series of bomb attacks in
 
 ##### Turkey
 ### [Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party-in-ankara.md)
-_Context: Turkey, AK Party, Justice Minister, Ankara_
+_Context: Ankara, Turkey, AK Party, Justice Minister_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
@@ -33,11 +33,11 @@ Japanese court sentences US musician to minimum of five years in prison for kill
 
 ##### Pakistan
 ### [A suspect, Qari Abdul Saeed, is arrested in Pakistan for the 2002 beheading of "The Wall Street Journal" reporter Daniel Pearl. ](/news/2013/03/19/a-suspect-qari-abdul-saeed-is-arrested-in-pakistan-for-the-2002-beheading-of-the-wall-street-journal-reporter-daniel-pearl.md)
-_Context: Pakistan, The Wall Street Journal, Daniel Pearl_
+_Context: Daniel Pearl, Pakistan, The Wall Street Journal_
 
 ##### U.S. state
 ### [In the U.S. state of Ohio, Thomas Lane receives three life sentences for the child murders at Chardon High School that he committed in February 2012 as a 17-year-old. ](/news/2013/03/19/in-the-u-s-state-of-ohio-thomas-lane-receives-three-life-sentences-for-the-child-murders-at-chardon-high-school-that-he-committed-in-febru.md)
-_Context: Chardon High School, Ohio, child murders, life sentence, U.S. state_
+_Context: Chardon High School, child murders, U.S. state, Ohio, life sentence_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. ](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.md)
@@ -45,7 +45,7 @@ Today, the United States Supreme Court handed US copyright owners a stinging def
 
 ##### Civil defense
 ### [Benjamin Pierce Bishop, a civil defense contractor who works in intelligence, was charged with giving U.S. national security secrets his Chinese girlfriend. ](/news/2013/03/19/benjamin-pierce-bishop-a-civil-defense-contractor-who-works-in-intelligence-was-charged-with-giving-u-s-national-security-secrets-his-chi.md)
-_Context: civil defense, intelligence, Chinese, U.S., girlfriend_
+_Context: civil defense, girlfriend, U.S., intelligence, Chinese_
 
 ##### Ukraine
 ### [In Ukraine, a fight breaks out during a session of the Verkhovna Rada over the use of the Russian language in politics. ](/news/2013/03/19/in-ukraine-a-fight-breaks-out-during-a-session-of-the-verkhovna-rada-over-the-use-of-the-russian-language-in-politics.md)

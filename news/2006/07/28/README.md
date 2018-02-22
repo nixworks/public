@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/28/index.html)  [JSON](2006/07/28/index.json)  [XML](200
 
 ##### U.S. state
 ### [ Six people are shot, one fatally, at the Jewish Federation of Greater Seattle in the U.S. state of Washington in a religiously-motivated killing spree. The killer identified himself as a Muslim American who was angry over the 2006 Israel-Lebanon conflict. ](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.md)
-_Context: Washington, U.S. state, Muslim American, war, religiously-motivated killing spree_
+_Context: Washington, religiously-motivated killing spree, Muslim American, U.S. state, war_
 
 ##### UN
 ### [ The UN Security Council approves a resolution to give Iran until the end of August to suspend uranium enrichment or face the threat of sanctions. ](/news/2006/07/28/the-un-security-council-approves-a-resolution-to-give-iran-until-the-end-of-august-to-suspend-uranium-enrichment-or-face-the-threat-of-sanc.md)
@@ -21,19 +21,19 @@ _Context: WorldCom, Bernard Ebbers_
 
 ##### Fluorine
 ### [ An explosion at a fluorine plant in China's Jiangsu Province kills 12 people and leads to the evacuation of 7,000 people. ](/news/2006/07/28/an-explosion-at-a-fluorine-plant-in-china-s-jiangsu-province-kills-12-people-and-leads-to-the-evacuation-of-7-000-people.md)
-_Context: fluorine, Jiangsu Province, Chinese_
+_Context: Jiangsu Province, Chinese, fluorine_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: both Georgia and Abkhazia threaten war over the dispute. ](/news/2006/07/28/2006-kodori-crisis-both-georgia-and-abkhazia-threaten-war-over-the-dispute.md)
-_Context: Abkhazia,  Georgian, 2006 Kodori crisis_
+_Context: 2006 Kodori crisis, Abkhazia,  Georgian_
 
 ##### United States
 ### [ The United States should immediately close all secret detention facilities used in its campaign against terror groups, the UN Human Rights Committee has said. ](/news/2006/07/28/the-united-states-should-immediately-close-all-secret-detention-facilities-used-in-its-campaign-against-terror-groups-the-un-human-rights.md)
-_Context: Human Rights Committee, UN, United States, secret detention facilities_
+_Context: Human Rights Committee, secret detention facilities, UN, United States_
 
 ##### World Outgames
 ### [ The first World Outgames are held in Montreal, Canada. Outgames co-president and Canadian Olympian, Mark Tewksbury, states that the event will "bridge the gap between the gay sport movement and the traditional sport movement.](/news/2006/07/28/the-first-world-outgames-are-held-in-montreal-canada-outgames-co-president-and-canadian-olympian-mark-tewksbury-states-that-the-event-w.md)
-_Context: World Outgames, Canada, Mark Tewksbury, Montreal_
+_Context: World Outgames, Montreal, Canada, Mark Tewksbury_
 
 ##### The Council of
 ### [ The EU President and US State Department react to Israeli Justice Minister Haim Ramon's claim that the deadlocked Rome conference was a sign that the world supported Israeli attacks in Lebanon. The EU described the claim as "totally wrong" and the US declared the statement "outrageous". ](/news/2006/07/28/the-eu-president-and-us-state-department-react-to-israeli-justice-minister-haim-ramon-s-claim-that-the-deadlocked-rome-conference-was-a-sig.md)

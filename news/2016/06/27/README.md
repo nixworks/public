@@ -29,7 +29,7 @@ Two men who were presumed dead when a camper was swept away in rushing waters du
 
 ##### India
 ### [India formally joins the Missile Technology Control Regime (MTCR). ](/news/2016/06/27/india-formally-joins-the-missile-technology-control-regime-mtcr.md)
-_Context: India, Missile Technology Control Regime_
+_Context: Missile Technology Control Regime, India_
 
 ##### Russia-Turkey relations
 ### [Turkish President Recep Tayyip Erdogan writes Russian President Vladimir Putin to offer condolences to the family of the deceased Russian pilot of the Sukhoi Su-24 warplane shot down last November. The Kremlin has insisted on a personal apology for months. A Turkish spokesman says this is a step toward improving bilateral relations between the two countries. ](/news/2016/06/27/turkish-president-recep-tayyip-erdoaan-writes-russian-president-vladimir-putin-to-offer-condolences-to-the-family-of-the-deceased-russian-p.md)
@@ -45,7 +45,7 @@ _Context: Moldovan Prime Minister, Vlad Filat_
 
 ##### Whole Woman's Health v. Hellerstedt
 ### [The Supreme Court of the United States strikes down a law that would have required abortion clinics in Texas to upgrade in order to meet new "hospital-like" standards. Supporters of abortion rights said that the proposed law would force nearly all abortion clinics in the state to shut down, while their opponents argued for women's health benefits. ](/news/2016/06/27/the-supreme-court-of-the-united-states-strikes-down-a-law-that-would-have-required-abortion-clinics-in-texas-to-upgrade-in-order-to-meet-new.md)
-_Context: Supreme Court of the United States, Texas, Whole Woman's Health v. Hellerstedt_
+_Context: Whole Woman's Health v. Hellerstedt, Texas, Supreme Court of the United States_
 
 ##### Peter Altmaier
 ### [Peter Altmaier, German Chancellor Angela Merkel's chief of staff, warns Britain of dire consequences of exit from the European Union, saying in a newspaper interview that UK leaders should not rule out the possibility of another referendum on the same issue. ](/news/2016/06/27/peter-altmaier-german-chancellor-angela-merkelas-chief-of-staff-warns-britain-of-dire-consequences-of-exit-from-the-european-union-sayi.md)

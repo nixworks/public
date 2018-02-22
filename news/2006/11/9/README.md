@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 
 ##### Ken Mehlman
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Republican, Republican National Committee, United States, Ken Mehlman_
+_Context: Republican, Ken Mehlman, Republican National Committee, United States_
 
 ##### Thailand
 ### [ Eight synchronized bombs hit car showrooms in Southern Thailand, nine injured. ](/news/2006/11/9/eight-synchronized-bombs-hit-car-showrooms-in-southern-thailand-nine-injured.md)
@@ -17,11 +17,11 @@ The new constitution marks a political defeat for Bakiyev, who had been wrestlin
 
 ##### Montana
 ### [ Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
-_Context: Montana, Conrad Burns, United States Senate, U.S. Senate, Jon Tester_
+_Context: Jon Tester, United States Senate, Conrad Burns, Montana, U.S. Senate_
 
 ##### BP
 ### [ BP settles the last remaining lawsuit from the 2005 explosion at its Texas oil refinery that cost 15 lives. ](/news/2006/11/9/bp-settles-the-last-remaining-lawsuit-from-the-2005-explosion-at-its-texas-oil-refinery-that-cost-15-lives.md)
-_Context: Texas, oil refinery, BP_
+_Context: Texas, BP, oil refinery_
 
 ##### Bank of England
 ### [ The Bank of England raises interest rates in the United Kingdom to five percent. ](/news/2006/11/9/the-bank-of-england-raises-interest-rates-in-the-united-kingdom-to-five-percent.md)
@@ -33,15 +33,15 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Tom Vilsack
 ### [ Iowa Governor Tom Vilsack announces he will be running in the 2008 US Presidential Election. ](/news/2006/11/9/iowa-governor-tom-vilsack-announces-he-will-be-running-in-the-2008-us-presidential-election.md)
-_Context: Tom Vilsack, 2008_
+_Context: 2008, Tom Vilsack_
 
 ##### Mahathir Mohamad
 ### [ Dr Mahathir Mohamad, the former Prime Minister of Malaysia, is hospitalized following a heart attack. ](/news/2006/11/9/dr-mahathir-mohamad-the-former-prime-minister-of-malaysia-is-hospitalized-following-a-heart-attack.md)
-_Context: Prime Minister, Mahathir Mohamad, heart attack_
+_Context: heart attack, Prime Minister, Mahathir Mohamad_
 
-##### France
+##### French
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: M51, France_
+_Context: French, M51_
 
 ##### United Kingdom
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)

@@ -9,11 +9,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Mayor of London
 ### [ The mayor of London, Ken Livingstone, refers to the United States Ambassador to the United Kingdom, Robert Tuttle, as a 'chiseling little crook' because the United States embassy continues to refuse to pay the London congestion charge. ](/news/2006/03/27/the-mayor-of-london-ken-livingstone-refers-to-the-united-states-ambassador-to-the-united-kingdom-robert-tuttle-as-a-chiseling-little-c.md)
-_Context: Robert Tuttle, mayor of London, United States Ambassador to the United Kingdom, London congestion charge, Ken Livingstone_
+_Context: mayor of London, United States Ambassador to the United Kingdom, London congestion charge, Ken Livingstone, Robert Tuttle_
 
 ##### The New York Times
 ### [ "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.md)
-_Context: The New York Times, George W. Bush, 2003 invasion of Iraq, a memo_
+_Context: 2003 invasion of Iraq, The New York Times, a memo, George W. Bush_
 
 ##### Tornado
 ### [ In Germany, a rare tornado kills two and leaves more than 300,000 people without electricity. ](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-more-than-300-000-people-without-electricity.md)
@@ -21,11 +21,11 @@ _Context: tornado_
 
 ##### 2006 parliamentary election
 ### [ Preliminary results of the 2006 Ukrainian parliamentary election give former Prime Minister Viktor Yanukovych and his pro-Russian Party of Regions a narrow lead over the Yulia Tymoshenko Electoral Bloc, with President Viktor Yushchenko's Our Ukraine Bloc trailing in third place. ](/news/2006/03/27/preliminary-results-of-the-2006-ukrainian-parliamentary-election-give-former-prime-minister-viktor-yanukovych-and-his-pro-russian-party-of.md)
-_Context: Ukrainian President, 2006 parliamentary election, Viktor Yanukovych, Viktor Yushchenko, Party of Regions, Yulia Tymoshenko Electoral Bloc, Prime Minister of Ukraine, Our Ukraine Bloc_
+_Context: Party of Regions, Prime Minister of Ukraine, Our Ukraine Bloc, 2006 parliamentary election, Ukrainian President, Yulia Tymoshenko Electoral Bloc, Viktor Yushchenko, Viktor Yanukovych_
 
 ##### Zacarias Moussaoui
 ### [ Zacarias Moussaoui testifies in an American court that he and Richard Reid planned to fly a passenger jet into the White House as part of the September 11, 2001 attacks, contradicting his previous testimony. ](/news/2006/03/27/zacarias-moussaoui-testifies-in-an-american-court-that-he-and-richard-reid-planned-to-fly-a-passenger-jet-into-the-white-house-as-part-of-t.md)
-_Context: testimony, Richard Reid, Zacarias Moussaoui, passenger jet, September 11, 2001 attacks, White House_
+_Context: testimony, September 11, 2001 attacks, passenger jet, Zacarias Moussaoui, White House, Richard Reid_
 
 ##### European Union
 ### [ The European Union agrees to introduce a standardized European driving licence. ](/news/2006/03/27/the-european-union-agrees-to-introduce-a-standardized-european-driving-licence.md)

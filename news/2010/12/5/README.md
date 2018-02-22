@@ -17,7 +17,7 @@ _Context: Nigerian, Niger Delta_
 
 ##### Somalia
 ### [Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. ](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.md)
-_Context: Islamist, Somalia, African Union_
+_Context: Somalia, Islamist, African Union_
 
 ##### King
 ### [Festivities are held for the 83rd birthday of King of Thailand Bhumibol Adulyadej, the longest reigning monarch in the world. ](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.md)
@@ -29,11 +29,11 @@ A newly-discovered poem by Philip Larkin will be heard for the first time on a B
 
 ##### Roman Polanski
 ### [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md)
-_Context: The Ghost Writer, Roman Polanski, Skype, Paris, Estonia, European Film Awards_
+_Context: Roman Polanski, Skype, Paris, Estonia, The Ghost Writer, European Film Awards_
 
 ##### Nicole Faria
 ### [20-year-old Nicole Faria from Bangalore, Miss India, wins the Miss Earth 2010 crown in Vinpearl Land, Nha Trang, Vietnam. ](/news/2010/12/5/20-year-old-nicole-faria-from-bangalore-miss-india-wins-the-miss-earth-2010-crown-in-vinpearl-land-nha-trang-vietnam.md)
-_Context: Miss India, Nicole Faria, Vinpearl Land, Miss Earth 2010, Bangalore, Vietnam, Nha Trang_
+_Context: Vinpearl Land, Bangalore, Nha Trang, Nicole Faria, Vietnam, Miss Earth 2010, Miss India_
 
 ##### International Labour Organisation
 ### [The International Labour Organisation asks Gulf states to reform labour laws related to millions of foreign workers and urges the introduction of a minimum wage. ](/news/2010/12/5/the-international-labour-organisation-asks-gulf-states-to-reform-labour-laws-related-to-millions-of-foreign-workers-and-urges-the-introducti.md)
@@ -45,7 +45,7 @@ The death toll from weeks of heavy rains across Colombia has risen to 174 and ov
 
 ##### Prairie
 ### [22 people are killed in a prairie fire in Daofu County, Sichuan, China. ](/news/2010/12/5/22-people-are-killed-in-a-prairie-fire-in-daofu-county-sichuan-china.md)
-_Context: prairie, Daofu County, Sichuan_
+_Context: prairie, Sichuan, Daofu County_
 
 ##### Kaili
 ### [At least 6 people are killed and 36 wounded after an explosion in the city of Kaili, Guizhou province, China. ](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.md)
@@ -57,7 +57,7 @@ Italian police say they have arrested a man after his car ploughed into a group 
 
 ##### Australia
 ### [Hundreds of people evacuate the Australian town of Wagga Wagga as flood waters rise throughout New South Wales. ](/news/2010/12/5/hundreds-of-people-evacuate-the-australian-town-of-wagga-wagga-as-flood-waters-rise-throughout-new-south-wales.md)
-_Context: Wagga Wagga, Australia, NSW_
+_Context: Wagga Wagga, NSW, Australia_
 
 ##### 
 ### [7 people are rescued after becoming stranded for 8 days in a pub in England. ](/news/2010/12/5/7-people-are-rescued-after-becoming-stranded-for-8-days-in-a-pub-in-england.md)
@@ -75,7 +75,7 @@ _Context: West Bank, Palestine_
 
 ##### United States
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
-_Context: Jose Luis Rodriguez Zapatero, United States, Rolls-Royce_
+_Context: United States, Jose Luis Rodriguez Zapatero, Rolls-Royce_
 
 ##### Hong Kong
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)

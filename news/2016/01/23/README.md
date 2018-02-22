@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/23/index.html)  [JSON](2016/01/23/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. ](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.md)
-_Context: Syria, Syrian Observatory for Human Rights, Deir ez-Zor offensive (January 2016), ISIL, Deir ez-Zor, Syrian Civil War_
+_Context: Syria, Deir ez-Zor offensive (January 2016), ISIL, Syrian Observatory for Human Rights, Deir ez-Zor, Syrian Civil War_
 
 ##### Jordanian-Syrian border incidents during the Syrian Civil War
 ### [Jordanian soldiers kill 12 "infiltrators" and wound several others, on the border with Syria, foiling an attempt by dozens of smugglers to cross into the kingdom. The soldiers also confiscated more than 2 million narcotics pills that were left behind. ](/news/2016/01/23/jordanian-soldiers-kill-12-infiltrators-and-wound-several-others-on-the-border-with-syria-foiling-an-attempt-by-dozens-of-smugglers-to-c.md)

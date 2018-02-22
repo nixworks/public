@@ -17,11 +17,11 @@ _Context: Shia, Yemen, Shia insurgency in Yemen_
 
 ##### Warrap state
 ### [ Thirty people are killed in Warrap state in southern Sudan, in a resurgence of the nomadic conflicts. ](/news/2009/08/12/thirty-people-are-killed-in-warrap-state-in-southern-sudan-in-a-resurgence-of-the-nomadic-conflicts.md)
-_Context: renewed violence, Warrap state, Sudan_
+_Context: renewed violence, Sudan, Warrap state_
 
 ##### Russia
 ### [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md)
-_Context: Baltic Sea, Russia_
+_Context: Russia, Baltic Sea_
 
 ##### Taiwan
 ### [ About 700 people missing in southern Taiwan after Typhoon Morakot are located alive. ](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.md)
@@ -29,23 +29,23 @@ About 700 people from the remote mountains of southern Taiwan have been found al
 
 ##### Indonesia
 ### [ Indonesian police say DNA tests show that a militant killed in a weekend raid was not Noordin Mohammed Top, one of the region's most wanted men. ](/news/2009/08/12/indonesian-police-say-dna-tests-show-that-a-militant-killed-in-a-weekend-raid-was-not-noordin-mohammed-top-one-of-the-region-s-most-wanted.md)
-_Context: Noordin Mohammed Top, Indonesia_
+_Context: Indonesia, Noordin Mohammed Top_
 
 ##### Wreckage
 ### [ The wreckage of an Airlines PNG De Havilland Twin Otter 300 plane carrying 11 passengers and 2 crew is found near Isurava, Papua New Guinea; there are no signs of survivors. ](/news/2009/08/12/the-wreckage-of-an-airlines-png-de-havilland-twin-otter-300-plane-carrying-11-passengers-and-2-crew-is-found-near-isurava-papua-new-guinea.md)
-_Context: Airlines PNG, Isurava, wreckage, Papua New Guinea_
+_Context: Papua New Guinea, Isurava, wreckage, Airlines PNG_
 
 ##### Pakistan
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Somalia, Pakistan, Islam, Galkayo_
+_Context: Pakistan, Islam, Galkayo, Somalia_
 
 ##### Gregoire Ndahimana
 ### [ Gregoire Ndahimana, a Rwandan fugitive accused of genocide and crimes against humanity, is arrested by a joint Rwandan-Congolese military operation. ](/news/2009/08/12/gregoire-ndahimana-a-rwandan-fugitive-accused-of-genocide-and-crimes-against-humanity-is-arrested-by-a-joint-rwandan-congolese-military-o.md)
-_Context: Rwanda, DR Congo, genocide, Gregoire Ndahimana_
+_Context: genocide, Gregoire Ndahimana, DR Congo, Rwanda_
 
 ##### Noumea
 ### [ An estimated 20,000 people march through Noumea, New Caledonia, to denounce violent clashes by USTKE trade unionists against police. ](/news/2009/08/12/an-estimated-20-000-people-march-through-noumea-new-caledonia-to-denounce-violent-clashes-by-ustke-trade-unionists-against-police.md)
-_Context: trade unionists, police, Noumea, New Caledonia_
+_Context: New Caledonia, trade unionists, police, Noumea_
 
 ##### New Zealand Navy
 ### [ New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
@@ -53,15 +53,15 @@ Tongan Transport Minister Paul Karalus has resigned, six days after the sinking 
 
 ##### German
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Chancellor, Vera Lengsfeld, German, Christian Democratic Union, Angela Merkel_
+_Context: Angela Merkel, Chancellor, German, Christian Democratic Union, Vera Lengsfeld_
 
 ##### Lubna al-Hussein
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
-_Context: Sudan, Lubna al-Hussein, Lebanese_
+_Context: Lebanese, Lubna al-Hussein, Sudan_
 
 ##### Diego Len Montoya Snchez
 ### [ Diego Len Montoya Snchez, Norte Valle Cartel leader, pleads guilty to drug, murder and racketeering charges. ](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.md)
-_Context: racketeering, murder, Norte Valle Cartel, Diego Len Montoya Snchez_
+_Context: murder, Norte Valle Cartel, Diego Len Montoya Snchez, racketeering_
 
 ##### Roman Catholic Church
 ### [ The Roman Catholic Church is expresses "unease" and "mortification" over revelations surrounding the private life of Italian Prime Minister Silvio Berlusconi. ](/news/2009/08/12/the-roman-catholic-church-is-expresses-unease-and-mortification-over-revelations-surrounding-the-private-life-of-italian-prime-minister.md)

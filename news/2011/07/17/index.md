@@ -21,7 +21,7 @@ A passenger bus collided with a heavy duty truck in Russia Sunday, killing five 
 
 ##### Mount Lokon
 ### [Mount Lokon, a volcano on Sulawesi in Indonesia erupts again sending ash 3,500 metres in the air. ](/news/2011/07/17/mount-lokon-a-volcano-on-sulawesi-in-indonesia-erupts-again-sending-ash-3-500-metres-in-the-air.md)
-_Context: Mount Lokon, volcano, Sulawesi island, Indonesia_
+_Context: Sulawesi island, volcano, Mount Lokon, Indonesia_
 
 ##### Hurricane Rina
 ### [Tropical Storm Bret forms off the coast of the Bahamas. ](/news/2011/07/17/tropical-storm-bret-forms-off-the-coast-of-the-bahamas.md)
@@ -29,7 +29,7 @@ _Context: Bahamas, Hurricane Rina_
 
 ##### Interstate 390
 ### [At least two people are killed and 35 injured due to a bus crash on Interstate 390 near the US town of Bath, New York. ](/news/2011/07/17/at-least-two-people-are-killed-and-35-injured-due-to-a-bus-crash-on-interstate-390-near-the-us-town-of-bath-new-york.md)
-_Context: Bath, New York, Interstate 390_
+_Context: Interstate 390, New York, Bath_
 
 ##### Ottawa Bluesfest
 ### [At the conclusion of Ottawa Bluesfest, strong winds from a sudden thunderstorm cause one of the main stages to collapse at around 7:30 pm EDT, injuring three people. ](/news/2011/07/17/at-the-conclusion-of-ottawa-bluesfest-strong-winds-from-a-sudden-thunderstorm-cause-one-of-the-main-stages-to-collapse-at-around-7-30-pm-ed.md)
@@ -45,11 +45,11 @@ The home secretary is to address MPs following criticism over the closeness of t
 
 ##### Uruguay
 ### [Former Uruguayan dictator Juan Maria Bordaberry dies under house arrest for murders committed during his time in power. ](/news/2011/07/17/former-uruguayan-dictator-juan-maraa-bordaberry-dies-under-house-arrest-for-murders-committed-during-his-time-in-power.md)
-_Context: murder, Juan Maria Bordaberry, house arrest, Uruguay_
+_Context: murder, Uruguay, Juan Maria Bordaberry, house arrest_
 
 ##### SGBPo Tome and Principe
 ### [Voters in SGBPo Tome and Principe go to the polls for a presidential election with a runoff election necessary with the leading candidate Pinto da Costa failing to achieve an absolute majority. ](/news/2011/07/17/voters-in-sagbpo-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-a-runoff-election-necessary-with-the-leading-candidate.md)
-_Context: SGBPo Tome and Principe, presidential election, Pinto da Costa_
+_Context: Pinto da Costa, SGBPo Tome and Principe, presidential election_
 
 ## [Previous Day...](/news/2011/07/16/index.md)
 

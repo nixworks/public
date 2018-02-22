@@ -17,15 +17,15 @@ _Context: Benghazi_
 
 ##### Maiduguri
 ### [At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-militants.md)
-_Context: Boko Haram, Maiduguri_
+_Context: Maiduguri, Boko Haram_
 
 ##### Mali
 ### [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md)
-_Context: Tuareg, ceasefire, Mali_
+_Context: ceasefire, Tuareg, Mali_
 
 ##### Ras Kamboni Movement
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
-_Context: Ras Kamboni Movement, Kismayu, Somalia_
+_Context: Somalia, Ras Kamboni Movement, Kismayu_
 
 ##### Princess Madeleine of Sweden
 ### [Princess Madeleine of Sweden marries British-born American businessman Christopher O'Neill in a lavish ceremony. ](/news/2013/06/8/princess-madeleine-of-sweden-marries-british-born-american-businessman-christopher-o-neill-in-a-lavish-ceremony.md)

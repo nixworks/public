@@ -21,7 +21,7 @@ Federal and state prosecutors on Thursday announced charges against 10 men, incl
 
 ##### 2014 Yahoo! data breach
 ### [Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md)
-_Context: data breach, Yahoo!, 2014 Yahoo! data breach_
+_Context: 2014 Yahoo! data breach, Yahoo!, data breach_
 
 ##### Operation Car Wash
 ### [Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md)

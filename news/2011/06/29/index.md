@@ -21,7 +21,7 @@ A gunfight in the Democratic Republic of Congo mining capital of Lubumbashi leav
 
 ##### International Organization for Migration
 ### [The International Organization for Migration (IOM) expresses concern about thousands of Chadian people, mainly women, children and the elderly, stranded on dangerous territory on the border between Chad and Libya. ](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.md)
-_Context: Libya, International Organization for Migration, Chad_
+_Context: Chad, Libya, International Organization for Migration_
 
 ##### Brown University
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
@@ -57,7 +57,7 @@ _Context: United Kingdom_
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: indicted, Alderney Gambling Control Commission, Full Tilt Poker, Department of Justice_
+_Context: Alderney Gambling Control Commission, Department of Justice, indicted, Full Tilt Poker_
 
 ##### Media conglomerate
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)

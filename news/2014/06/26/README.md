@@ -9,7 +9,7 @@ Iraqi forces launched an airborne assault on rebel-held Tikrit on Thursday with 
 
 ##### China
 ### [Authorities in China's Xinjiang region sentence 9 people for up to 14 years for terrorism offences. ](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.md)
-_Context: China, Xinjiang, terrorist attacks_
+_Context: China, terrorist attacks, Xinjiang_
 
 ##### Jung Hong-won
 ### [Jung Hong-won will stay on as the Prime Minister of South Korea despite resigning after the sinking of the MV Sewol as two nominations as replacements have fallen through. ](/news/2014/06/26/jung-hong-won-will-stay-on-as-the-prime-minister-of-south-korea-despite-resigning-after-the-sinking-of-the-mv-sewol-as-two-nominations-as-re.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-k
 
 ### Changes:
 
-1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2018-02-20 03:54:06 (First version)_
+1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2018-02-21 04:00:38 (First version)_
 1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _(Current version)_
 
 ### Related:
@@ -24,4 +24,4 @@ Formats: [HTML](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-k
 2. [A subway train rear ends another in Busan, South Korea, injuring 40. ](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south-korea-injuring-40.md) _Context: Busan, South Korea_
 3. [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md) _Context: Busan, South Korea_
 4. [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md) _Context: Busan, South Korea_
-5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+5. [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to-e.md) _Context: South Korea_
