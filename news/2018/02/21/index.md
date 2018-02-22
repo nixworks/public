@@ -17,7 +17,7 @@ Emergency officials say at least 35 people died when the coach plummeted off the
 
 ##### Explosion
 ### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
-_Context: Playa del Carmen, explosion, Mexico_
+_Context: explosion, Mexico, Playa del Carmen_
 
 ##### Foreign relations of South Korea
 ### [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to-e.md)
