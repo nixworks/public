@@ -13,7 +13,7 @@ South Korea said on Wednesday it is signing free trade agreements with five Cent
 
 ##### Explosion
 ### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
-_Context: Playa del Carmen, explosion, Mexico_
+_Context: Mexico, explosion, Playa del Carmen_
 
 ##### Pan-American Highway
 ### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing at least 35 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-at-least-35-people.md)
@@ -69,7 +69,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Petro cryptocurrency, Venezuela, Economy of Venezuela, cryptocurrency_
+_Context: Venezuela, Economy of Venezuela, Petro cryptocurrency, cryptocurrency_
 
 ##### Syrian Civil War
 ### [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md)
@@ -80,7 +80,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 ## [Day Before Yesterday](/news/2018/02/19/index.md)
 
 ##### Human impact on the environment
-### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
+### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Present", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
 ##### Eurozone
@@ -97,7 +97,7 @@ _Context: United Kingdom football sexual abuse scandal, Barry Bennell_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, North Sumatra, Indonesia_
+_Context: North Sumatra, Indonesia, Mount Sinabung_
 
 ##### Mozambique
 ### [A collapse at a garbage dump in Mozambique kills at least 17 people. ](/news/2018/02/19/a-collapse-at-a-garbage-dump-in-mozambique-kills-at-least-17-people.md)
@@ -113,7 +113,7 @@ Police say three people were stabbed Monday afternoon in an attack outside a Tim
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Damascus, Syrian Air Force, Syrian Observatory for Human Rights, strikes, Syrian Civil War_
+_Context: strikes, Syrian Air Force, Damascus, Syrian Civil War, Ghouta, Syrian Observatory for Human Rights_
 
 ---
 

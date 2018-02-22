@@ -13,7 +13,7 @@ Eight-year-old victim&#039;s mother and uncle say the demand is just and in acco
 
 ##### Earthquakes in 2018
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Jamiltepec, Alfonso Navarrete Prida, 2018 Oaxaca earthquake, Alejandro Murat Hinojosa, Earthquakes in 2018, Governor of Oaxaca, Mexico's Secretary of the Interior_
+_Context: Alejandro Murat Hinojosa, Alfonso Navarrete Prida, Jamiltepec, Mexico's Secretary of the Interior, Governor of Oaxaca, Earthquakes in 2018, 2018 Oaxaca earthquake_
 
 ## [Previous Day...](/news/2018/02/16/index.md)
 

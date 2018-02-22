@@ -37,7 +37,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Petro cryptocurrency, Venezuela, Economy of Venezuela, cryptocurrency_
+_Context: Venezuela, Economy of Venezuela, Petro cryptocurrency, cryptocurrency_
 
 ##### Syrian Civil War
 ### [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md)

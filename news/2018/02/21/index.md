@@ -13,7 +13,7 @@ South Korea said on Wednesday it is signing free trade agreements with five Cent
 
 ##### Explosion
 ### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
-_Context: Playa del Carmen, explosion, Mexico_
+_Context: Mexico, explosion, Playa del Carmen_
 
 ##### Pan-American Highway
 ### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing at least 35 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-at-least-35-people.md)

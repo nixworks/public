@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/16/index.html)  [JSON](2018/02/16/index.json)  [XML](201
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: repatriation, Asaduzzaman Khan, Rohingya, Rohingya refugees in Bangladesh, Dhaka, Myanmar, Bangladesh_
+_Context: Dhaka, Rohingya refugees in Bangladesh, Myanmar, Asaduzzaman Khan, repatriation, Rohingya, Bangladesh_
 
 ##### Politics of Ethiopia
 ### [Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. ](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.md)
@@ -21,15 +21,15 @@ Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours wi
 
 ##### War on Terror
 ### [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md)
-_Context: Younes Chekkouri, Rabat, Morocco, War on Terror, Guantanamo Bay detention camp_
+_Context: Guantanamo Bay detention camp, War on Terror, Morocco, Rabat, Younes Chekkouri_
 
 ##### Crime in Washington
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
-_Context: school shooting, Everett, Washington, Crime in Washington_
+_Context: school shooting, Crime in Washington, Everett, Washington_
 
 ##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes near the town of Pinotepa Nacional and is widely felt across Southern and Central Mexico, causing material damages in the states of Guerrero, Oaxaca and Mexico City. It is followed by a 5.8-magnitude aftershock. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-town-of-pinotepa-nacional-and-is-widely-felt-across-southern-and-central-mexico-causing-materia.md)
-_Context: aftershock, Mexico, Pinotepa Nacional, Oaxaca, 2018 Oaxaca earthquake, Guerrero, Mexico City_
+_Context: Mexico City, aftershock, Pinotepa Nacional, 2018 Oaxaca earthquake, Oaxaca, Mexico, Guerrero_
 
 ##### Boko Haram insurgency
 ### [Three suicide bombers kill at least 20 people at a fish market in Konduga, Borno, Nigeria. ](/news/2018/02/16/three-suicide-bombers-kill-at-least-20-people-at-a-fish-market-in-konduga-borno-nigeria.md)
