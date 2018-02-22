@@ -7,13 +7,25 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md)
 Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;armoured&#x20;vehicle&#x20;was&#x20;hit&#x20;by&#x20;an&#x20;explosive&#x20;device&#x20;in&#x20;Mali,&#x20;the&#x20;French&#x20;president&#x27;s&#x20;office&#x20;said&#x20;on&#x20;Wednesday.
 
+##### Boko Haram insurgency
+### [The Nigerian military rescues 76 schoolgirls taken Monday during a Boko Haram raid on a group from the village of Dapchi, Yobe State. The bodies of two girls were recovered. At least 13 pupils are reported missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-monday-during-a-boko-haram-raid-on-a-group-from-the-village-of-dapchi-yobe-state-the-bo.md)
+The Nigerian military rescued 76 schoolgirls and recovered the bodies of two others on Wednesday, after the students went missing during a Boko Haram attack on a village, three parents, a resident and a local government official told Reuters.
+
 ##### Pan-American Highway
 ### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing at least 35 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-at-least-35-people.md)
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
+##### Explosion
+### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. The injuries do not appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-the-injuries-do-not-appear-to-be-life-threatening.md)
+_Context: explosion, Playa del Carmen_
+
 ##### Foreign relations of South Korea
 ### [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to-e.md)
 South Korea said on Wednesday it is signing free trade agreements with five Central American nations aimed at boosting market access for the Korean auto sector and electronics makers.
+
+##### Stoneman Douglas High School shooting
+### [U.S. President Donald Trump meets in the White House State Dining Room with parents and friends of young people killed in school shootings to discuss what needs to be done. Suggestions for the president included a number of items to make schools safer, and for Trump to put politics aside and back gun control measures. ](/news/2018/02/21/u-s-president-donald-trump-meets-in-the-white-house-state-dining-room-with-parents-and-friends-of-young-people-killed-in-school-shootings-t.md)
+At a White House event, parents and students impacted by gun violence implored President Donald Trump for &quot;change&quot; in the aftermath of yet another mass shooting.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -27,9 +39,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md)
 Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
 
-##### Venezuela
+##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: Petro cryptocurrency, cryptocurrency, Venezuela_
+_Context: cryptocurrency, Economy of Venezuela, Petro cryptocurrency, Venezuela_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -39,7 +51,7 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 ### [Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. ](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the-missing-aseman-airliner-30-meters-below-a-hilltop-on-mount-dena-helicopters-could-not-land.md)
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
-##### Indonesia
+##### 2018 Mount Sinabung eruption
 ### [Indonesia's Mount Sinabung has a massive eruption, completely destroying the volcano's peak, with ash reaching over 7 km high. Much of the surrounding area is covered with ash. ](/news/2018/02/20/indonesia-s-mount-sinabung-has-a-massive-eruption-completely-destroying-the-volcano-s-peak-with-ash-reaching-over-7-km-high-much-of-the-s.md)
 Side-by-side images show what the top of the volcano looks like.
 
@@ -55,7 +67,7 @@ The Japanese man can now pursue custody of 13 children he fathered through Thai 
 ### [U.S. President Donald Trump orders the Department of Justice to prepare regulations to ban devices that allow semi-automatic rifles to become fully automatic, such as the bump stocks used in the 2017 Las Vegas shooting. ](/news/2018/02/20/u-s-president-donald-trump-orders-the-department-of-justice-to-prepare-regulations-to-ban-devices-that-allow-semi-automatic-rifles-to-becom.md)
 President Trump said Tuesday he has directed the Department of Justice to propose regulations that would ban bump stocks, devices that allow semi-automatic guns to be modified to shoot hundreds of rounds per minute.
 
-##### Russian interference in the 2016 United States elections
+##### U.S. Special Counsel investigation
 ### [Attorney Alex van der Zwaan pleads guilty in the U.S. District Court in Washington, D.C., to making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. Specifically, the charges are that he lied to investigators about his interactions with political consultant and lobbyist Rick Gates and an unidentified Ukrainian-based associate of Paul Manafort. ](/news/2018/02/20/attorney-alex-van-der-zwaan-pleads-guilty-in-the-u-s-district-court-in-washington-d-c-to-making-false-statements-to-the-fbi-during-the-s.md)
 The attorney was interviewed by the special counsel about work he did in Ukraine with Rick Gates, who went on to serve on President Trump’s campaign.
 
@@ -69,7 +81,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Observatory for Human Rights, Syrian Civil War, Damascus, Syrian Air Force, strikes, Ghouta_
+_Context: Syrian Air Force, strikes, Damascus, Syrian Civil War, Syrian Observatory for Human Rights, Ghouta_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -85,7 +97,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: North Sumatra, Mount Sinabung, Indonesia_
+_Context: Mount Sinabung, North Sumatra, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)

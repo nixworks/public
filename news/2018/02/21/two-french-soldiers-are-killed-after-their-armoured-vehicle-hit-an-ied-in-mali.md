@@ -11,7 +11,7 @@ Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;a
 
 ### Sources:
 
-1. [FRANCE 24](http://www.france24.com/en/20180221-mali-french-soldiers-killed-explosive-device-sahel)
+1. [France 24](http://www.france24.com/en/20180221-mali-french-soldiers-killed-explosive-device-sahel)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/mali_96.jpg)
 
 ### Related:
