@@ -23,7 +23,7 @@ Developers can get the news straight from [the GitHub repository](https://github
 
 ### Since this project is Open Source, can I help?
 
-*the Context* is open to any contribution, of any kind, from anyone. If you want to help, please make contact via email at [editor@thecontext.net](mailto:editor@thecontext.net) or via [GitHub](https://github.com/thecontextnet). This project is a non-profit endeavour. However, tips or donations are very welcome to the following Bitcoin address: 1HaR4dbLF4CJgnXrGKCFAnFixRSXvtehpa
+*the Context* is open to any contribution, of any kind, from anyone. If you want to help, please make contact via email at [editor@thecontext.net](mailto:editor@thecontext.net) or via [GitHub](https://github.com/thecontextnet). This project is a non-profit endeavour. However, tips or donations are very welcome to the following Litecoin (LTC) address: LYp57Db8HeRtzFxsZt76VxzG9MzNp45m8Z
 
 ### My question is not here, now what?
 
