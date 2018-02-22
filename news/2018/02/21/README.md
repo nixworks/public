@@ -4,11 +4,11 @@ Formats: [HTML](2018/02/21/index.html)  [JSON](2018/02/21/index.json)  [XML](201
 ## [2018-02-21](/news/2018/02/21/index.md)
 
 ##### Operation Barkhane
-### [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md)
+### [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md)
 Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;armoured&#x20;vehicle&#x20;was&#x20;hit&#x20;by&#x20;an&#x20;explosive&#x20;device&#x20;in&#x20;Mali,&#x20;the&#x20;French&#x20;president&#x27;s&#x20;office&#x20;said&#x20;on&#x20;Wednesday.
 
 ##### Boko Haram insurgency
-### [The Nigerian military rescues 76 schoolgirls taken Monday during a Boko Haram raid on a group from the village of Dapchi, Yobe State. The bodies of two girls were recovered. At least 13 pupils are reported missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-monday-during-a-boko-haram-raid-on-a-group-from-the-village-of-dapchi-yobe-state-the-bo.md)
+### [The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least 13 other students remain missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-on-monday-during-a-boko-haram-raid-on-the-village-of-dapchi-yobe-state-the-bodies-of-tw.md)
 The Nigerian military rescued 76 schoolgirls and recovered the bodies of two others on Wednesday, after the students went missing during a Boko Haram attack on a village, three parents, a resident and a local government official told Reuters.
 
 ##### Pan-American Highway
@@ -16,7 +16,7 @@ The Nigerian military rescued 76 schoolgirls and recovered the bodies of two oth
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
 ##### Explosion
-### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. The injuries do not appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-the-injuries-do-not-appear-to-be-life-threatening.md)
+### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
 _Context: explosion, Playa del Carmen_
 
 ##### Foreign relations of South Korea

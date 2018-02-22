@@ -4,11 +4,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/21/index.md)
 
 ##### Operation Barkhane
-### [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md)
+### [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md)
 Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;armoured&#x20;vehicle&#x20;was&#x20;hit&#x20;by&#x20;an&#x20;explosive&#x20;device&#x20;in&#x20;Mali,&#x20;the&#x20;French&#x20;president&#x27;s&#x20;office&#x20;said&#x20;on&#x20;Wednesday.
 
 ##### Boko Haram insurgency
-### [The Nigerian military rescues 76 schoolgirls taken Monday during a Boko Haram raid on a group from the village of Dapchi, Yobe State. The bodies of two girls were recovered. At least 13 pupils are reported missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-monday-during-a-boko-haram-raid-on-a-group-from-the-village-of-dapchi-yobe-state-the-bo.md)
+### [The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least 13 other students remain missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-on-monday-during-a-boko-haram-raid-on-the-village-of-dapchi-yobe-state-the-bodies-of-tw.md)
 The Nigerian military rescued 76 schoolgirls and recovered the bodies of two others on Wednesday, after the students went missing during a Boko Haram attack on a village, three parents, a resident and a local government official told Reuters.
 
 ##### Pan-American Highway
@@ -16,7 +16,7 @@ The Nigerian military rescued 76 schoolgirls and recovered the bodies of two oth
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
 ##### Explosion
-### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. The injuries do not appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-the-injuries-do-not-appear-to-be-life-threatening.md)
+### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
 _Context: explosion, Playa del Carmen_
 
 ##### Foreign relations of South Korea
@@ -41,7 +41,7 @@ Pro-Syrian government forces have entered the contested canton of Afrin to help 
 
 ##### Economy of Venezuela
 ### [Venezuela launches its Petro cryptocurrency, which it claims is the world's first sovereign cryptocurrency. ](/news/2018/02/20/venezuela-launches-its-petro-cryptocurrency-which-it-claims-is-the-world-s-first-sovereign-cryptocurrency.md)
-_Context: cryptocurrency, Economy of Venezuela, Petro cryptocurrency, Venezuela_
+_Context: Venezuela, Petro cryptocurrency, Economy of Venezuela, cryptocurrency_
 
 ##### 2017-18 South Pacific cyclone season
 ### [Seven regions in New Zealand declare states of emergency as Cyclone Gita makes landfall. ](/news/2018/02/20/seven-regions-in-new-zealand-declare-states-of-emergency-as-cyclone-gita-makes-landfall.md)
@@ -81,7 +81,7 @@ A move to push a bill banning assault weapons and high-capacity magazines direct
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Air Force, strikes, Damascus, Syrian Civil War, Syrian Observatory for Human Rights, Ghouta_
+_Context: strikes, Syrian Observatory for Human Rights, Syrian Air Force, Damascus, Ghouta, Syrian Civil War_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -97,11 +97,11 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, North Sumatra, Indonesia_
+_Context: North Sumatra, Indonesia, Mount Sinabung_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
