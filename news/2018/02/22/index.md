@@ -15,7 +15,7 @@ Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an
 ### [Special Counsel Robert Mueller files a 32-count indictment against political consultant and lobbyist Paul Manafort and his aide Rick Gates in the Eastern District of Virginia for multiple crimes including tax evasion and bank fraud. ](/news/2018/02/22/special-counsel-robert-mueller-files-a-32-count-indictment-against-political-consultant-and-lobbyist-paul-manafort-and-his-aide-rick-gates-i.md)
 A federal grand jury in Virginia has handed up a new 32-count indictment against former Trump campaign chairman Paul Manafort and his former top aide, Rick Gates. In all, the two men face 16 counts related to filing false individual income tax returns, seven counts of failure to file reports of...
 
-##### Missouri Governor
+##### 2017-18 United States political sexual scandals
 ### [A grand jury indicts Missouri Governor Eric Greitens on charges of felony invasion of privacy by allegedly threatening to publish a nude photo of the woman he was involved with in a 2015 extramarital affair, if the woman ever disclosed the relationship. Governor Greitens denies the blackmail charge. ](/news/2018/02/22/a-grand-jury-indicts-missouri-governor-eric-greitens-on-charges-of-felony-invasion-of-privacy-by-allegedly-threatening-to-publish-a-nude-pho.md)
 Greitens was under investigation after accusations he tied up and blindfolded his lover, took a compromising photograph of her without her permission and then threatened to release it if she
 

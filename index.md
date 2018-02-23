@@ -3,6 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/23/index.md)
 
+##### U.S. Special Counsel investigation
+### [Rick Gates pleads guilty to charges of conspiracy against the United States and making false statements, and agrees to cooperate with the Special Counsel investigation. ](/news/2018/02/23/rick-gates-pleads-guilty-to-charges-of-conspiracy-against-the-united-states-and-making-false-statements-and-agrees-to-cooperate-with-the-sp.md)
+_Context: Rick Gates, U.S. Special Counsel investigation_
+
+##### United States-Australia relations
+### [President of the United States Donald Trump met in the White House with the Australian Prime Minister Malcolm Turnbull. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/president-of-the-united-states-donald-trump-met-in-the-white-house-with-the-australian-prime-minister-malcolm-turnbull-trump-indicated-that.md)
+The leaders could face questions about efforts to curb North Korea&#039;s nuclear and missile programs.
+
 ##### Politics of Australia
 ### [Barnaby Joyce announces his resignation as Deputy Prime Minister of Australia and leader of the National Party of Australia following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-of-australia-and-leader-of-the-national-party-of-australia-following-scanda.md)
 • Deputy PM announces he will formally resign at Monday’s party room meeting • Joyce says he has referred allegation of sexual harassment to police
@@ -27,7 +35,7 @@ Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an
 ### [Special Counsel Robert Mueller files a 32-count indictment against political consultant and lobbyist Paul Manafort and his aide Rick Gates in the Eastern District of Virginia for multiple crimes including tax evasion and bank fraud. ](/news/2018/02/22/special-counsel-robert-mueller-files-a-32-count-indictment-against-political-consultant-and-lobbyist-paul-manafort-and-his-aide-rick-gates-i.md)
 A federal grand jury in Virginia has handed up a new 32-count indictment against former Trump campaign chairman Paul Manafort and his former top aide, Rick Gates. In all, the two men face 16 counts related to filing false individual income tax returns, seven counts of failure to file reports of...
 
-##### Missouri Governor
+##### 2017-18 United States political sexual scandals
 ### [A grand jury indicts Missouri Governor Eric Greitens on charges of felony invasion of privacy by allegedly threatening to publish a nude photo of the woman he was involved with in a 2015 extramarital affair, if the woman ever disclosed the relationship. Governor Greitens denies the blackmail charge. ](/news/2018/02/22/a-grand-jury-indicts-missouri-governor-eric-greitens-on-charges-of-felony-invasion-of-privacy-by-allegedly-threatening-to-publish-a-nude-pho.md)
 Greitens was under investigation after accusations he tied up and blindfolded his lover, took a compromising photograph of her without her permission and then threatened to release it if she
 
