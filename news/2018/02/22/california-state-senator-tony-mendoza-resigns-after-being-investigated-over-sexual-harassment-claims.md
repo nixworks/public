@@ -12,7 +12,8 @@ Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an
 ### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2018/02/22/us/tony-mendoza-sexual-harassment.html)
-1. [Cover Image](https://static01.nyt.com/images/2018/02/23/us/23mendoza/23mendoza-facebookJumbo.jpg)
+2. [WJAR](http://turnto10.com/politics/sen-nicholas-kettle-will-resign)
+2. [Cover Image](https://static01.nyt.com/images/2018/02/23/us/23mendoza/23mendoza-facebookJumbo.jpg)
 
 ### Related:
 
