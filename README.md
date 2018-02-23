@@ -28,7 +28,7 @@ Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an
 A federal grand jury in Virginia has handed up a new 32-count indictment against former Trump campaign chairman Paul Manafort and his former top aide, Rick Gates. In all, the two men face 16 counts related to filing false individual income tax returns, seven counts of failure to file reports of...
 
 ##### Missouri Governor
-### [A grand jury indicts Missouri Governor Eric Greitens on charges of felony invasion of privacy by supposedly threatening to publish a nude photo of the woman he was involved with in a 2015 extramarital affair, if the woman ever disclosed the relationship. Governor Greitens denies the blackmail charge. ](/news/2018/02/22/a-grand-jury-indicts-missouri-governor-eric-greitens-on-charges-of-felony-invasion-of-privacy-by-supposedly-threatening-to-publish-a-nude-ph.md)
+### [A grand jury indicts Missouri Governor Eric Greitens on charges of felony invasion of privacy by allegedly threatening to publish a nude photo of the woman he was involved with in a 2015 extramarital affair, if the woman ever disclosed the relationship. Governor Greitens denies the blackmail charge. ](/news/2018/02/22/a-grand-jury-indicts-missouri-governor-eric-greitens-on-charges-of-felony-invasion-of-privacy-by-allegedly-threatening-to-publish-a-nude-pho.md)
 Greitens was under investigation after accusations he tied up and blindfolded his lover, took a compromising photograph of her without her permission and then threatened to release it if she
 
 ##### Russian presidential election, 2018
@@ -68,7 +68,7 @@ _Context: Mexico, Playa del Carmen, explosion_
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
 ##### Internal conflict in Myanmar
-### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two people and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-people-and-injuring-22-others.md)
+### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two employees and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-employees-and-injuring-22-others.md)
 While global attention has focused on the plight of Rohingya refugees, other long-running ethnic conflicts plague Myanmar’s restive borderlands.
 
 ##### Boko Haram insurgency

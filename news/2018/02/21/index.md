@@ -20,7 +20,7 @@ _Context: Mexico, Playa del Carmen, explosion_
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
 ##### Internal conflict in Myanmar
-### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two people and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-people-and-injuring-22-others.md)
+### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two employees and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-employees-and-injuring-22-others.md)
 While global attention has focused on the plight of Rohingya refugees, other long-running ethnic conflicts plague Myanmar’s restive borderlands.
 
 ##### Boko Haram insurgency
