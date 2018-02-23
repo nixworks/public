@@ -13,7 +13,7 @@ A commercial airliner carrying 66 people has crashed in southern Iran, the count
 
 ##### 2018 Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police later shoot and kill him. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-police-later-shoot-and-kill-him.md)
-_Context: Russia, 2018 Kizlyar church shooting, Dagestan, Kizlyar_
+_Context: 2018 Kizlyar church shooting, Dagestan, Kizlyar, Russia_
 
 ## [Previous Day...](/news/2018/02/17/index.md)
 

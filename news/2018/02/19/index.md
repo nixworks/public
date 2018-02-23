@@ -17,11 +17,11 @@ Cambridge graduate blackmailed victims over dark web and encouraged rape of chil
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-north-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: North Sumatra, Indonesia, Mount Sinabung_
+_Context: Indonesia, Mount Sinabung, North Sumatra_
 
 ##### Mozambique
 ### [A collapse at a garbage dump in Mozambique kills at least 17 people. ](/news/2018/02/19/a-collapse-at-a-garbage-dump-in-mozambique-kills-at-least-17-people.md)
@@ -37,7 +37,7 @@ Police say three people were stabbed Monday afternoon in an attack outside a Tim
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: strikes, Syrian Air Force, Damascus, Syrian Civil War, Ghouta, Syrian Observatory for Human Rights_
+_Context: Damascus, Eastern Ghouta, Syrian Air Force, Syrian Civil War, Syrian Observatory for Human Rights, strikes_
 
 ## [Previous Day...](/news/2018/02/18/index.md)
 
