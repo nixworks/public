@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: space telescope, NASA, exoplanet, Discoveries of exoplanets, Kepler_
+_Context: Discoveries of exoplanets, Kepler, NASA, exoplanet, space telescope_
 
 ##### Politics of South Africa
 ### [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. ](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa.md)
@@ -17,7 +17,7 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 
 ##### Criminal justice reform in the United States
 ### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
-_Context: Sentencing Reform and Corrections Act, Criminal justice reform in the United States, U.S. Senate Judiciary Committee_
+_Context: Criminal justice reform in the United States, Sentencing Reform and Corrections Act, U.S. Senate Judiciary Committee_
 
 ##### Istanbul convention
 ### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed by the Council of Europe to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third gender and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
@@ -33,7 +33,7 @@ Ex-footballers speak after the former youth coach and scout is convicted of 43 s
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: United Kingdom, White House, NotPetya, Russian military, 2017 cyberattacks on Ukraine, United States, government_
+_Context: 2017 cyberattacks on Ukraine, NotPetya, Russian military, U.S., United Kingdom, White House, government_
 
 ##### U.S. Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md)

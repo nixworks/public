@@ -3,41 +3,41 @@ Formats: [HTML](2005/05/24/index.html)  [JSON](2005/05/24/index.json)  [XML](200
 
 ## [2005-05-24](/news/2005/05/24/index.md)
 
-##### Conflict in Iraq
-### [ Conflict in Iraq: At least five Iraqis and seven US Soldiers have been killed following a spate of bombings in Iraq. ](/news/2005/05/24/conflict-in-iraq-at-least-five-iraqis-and-seven-us-soldiers-have-been-killed-following-a-spate-of-bombings-in-iraq.md)
-_Context: Conflict in Iraq, bomb, US Soldiers, Iraq_
+##### Richard M. Scrushy
+### [ Jurors in the criminal trial of Richard M. Scrushy, founder and former CEO of HealthSouth Corporation, send notes to the presiding judge that indicate they are having difficulty reaching unanimity. The case is part of the wave of U.S. corporate scandals of recent years. Prosecutors allege that Mr. Scrushy and others conspired to overstate profits at HealthSouth by circa $2.7 billion, in the period 1996 - 2002. ](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.md)
+_Context: 1996, 2002, HealthSouth Corporation, Richard M. Scrushy_
 
-##### Mathematicians
-### [ Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.md)
-_Context: Peter Lax, partial differential equations, Mathematicians, Oslo, Norway, Abel Prize, Crown Prince Haakon, USD_
-
-##### Israel
-### [ Israeli soldiers catch a 15 year old Palestinian carrying two pipe bombs at a West Bank checkpoint. ](/news/2005/05/24/israeli-soldiers-catch-a-15-year-old-palestinian-carrying-two-pipe-bombs-at-a-west-bank-checkpoint.md)
-_Context: pipe bomb, West Bank, Palestinian, Israel_
-
-##### Al-Qaeda
-### [ Al-Qaeda in Iraq claims in its website that Abu Musab al-Zarqawi has been wounded. ](/news/2005/05/24/al-qaeda-in-iraq-claims-in-its-website-that-abu-musab-al-zarqawi-has-been-wounded.md)
-_Context: al-Qaeda, Iraq, Abu Musab al-Zarqawi_
-
-##### John Howard
-### [ John Howard, the Prime Minister of Australia, has written to his Japanese counterpart, Junichiro Koizumi, urging Japan to reconsider its position on whaling. The International Whaling Commission is expected to consider Japan's expansion proposal when it meets next month. ](/news/2005/05/24/john-howard-the-prime-minister-of-australia-has-written-to-his-japanese-counterpart-junichiro-koizumi-urging-japan-to-reconsider-its-po.md)
-_Context: Junichiro Koizumi, Japan, John Howard, whaling, Australian Prime Minister, International Whaling Commission_
-
-##### Chile
-### [ The Chilean army buries 24 of 46 conscripts that died in a snow storm in the Andes. Presidential candidates have called for an end to compulsory military service. 13 bodies still unfound.](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.md)
-_Context: Andes, military service, Chile_
+##### Canada
+### [ Canadian Liberal candidate Todd Russell wins a crucial by-election in the federal riding of Labrador. This result consolidates the shaky Liberal balance of power in the federal government. ](/news/2005/05/24/canadian-liberal-candidate-todd-russell-wins-a-crucial-by-election-in-the-federal-riding-of-labrador-this-result-consolidates-the-shaky-li.md)
+_Context: Canada, Labrador, Liberal Party's, Todd Russell, by-election_
 
 ##### Pitcairn
 ### [ The appeal of six Pitcairn men who were sentenced for sexual abuse of young girls fails. An Auckland court is to decide whether to grant them bail. The men plan to appeal to the Privy Council. ](/news/2005/05/24/the-appeal-of-six-pitcairn-men-who-were-sentenced-for-sexual-abuse-of-young-girls-fails-an-auckland-court-is-to-decide-whether-to-grant-th.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Canada
-### [ Canadian Liberal candidate Todd Russell wins a crucial by-election in the federal riding of Labrador. This result consolidates the shaky Liberal balance of power in the federal government. ](/news/2005/05/24/canadian-liberal-candidate-todd-russell-wins-a-crucial-by-election-in-the-federal-riding-of-labrador-this-result-consolidates-the-shaky-li.md)
-_Context: Canada, Todd Russell, Liberal Party's, Labrador, by-election_
+##### Chile
+### [ The Chilean army buries 24 of 46 conscripts that died in a snow storm in the Andes. Presidential candidates have called for an end to compulsory military service. 13 bodies still unfound.](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.md)
+_Context: Andes, Chile, military service_
 
-##### Richard M. Scrushy
-### [ Jurors in the criminal trial of Richard M. Scrushy, founder and former CEO of HealthSouth Corporation, send notes to the presiding judge that indicate they are having difficulty reaching unanimity. The case is part of the wave of U.S. corporate scandals of recent years. Prosecutors allege that Mr. Scrushy and others conspired to overstate profits at HealthSouth by circa $2.7 billion, in the period 1996 - 2002. ](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.md)
-_Context: 1996, HealthSouth Corporation, 2002, Richard M. Scrushy_
+##### John Howard
+### [ John Howard, the Prime Minister of Australia, has written to his Japanese counterpart, Junichiro Koizumi, urging Japan to reconsider its position on whaling. The International Whaling Commission is expected to consider Japan's expansion proposal when it meets next month. ](/news/2005/05/24/john-howard-the-prime-minister-of-australia-has-written-to-his-japanese-counterpart-junichiro-koizumi-urging-japan-to-reconsider-its-po.md)
+_Context: Australian Prime Minister, International Whaling Commission, Japan, John Howard, Junichiro Koizumi, whaling_
+
+##### Al-Qaeda
+### [ Al-Qaeda in Iraq claims in its website that Abu Musab al-Zarqawi has been wounded. ](/news/2005/05/24/al-qaeda-in-iraq-claims-in-its-website-that-abu-musab-al-zarqawi-has-been-wounded.md)
+_Context: Abu Musab al-Zarqawi, Iraq, al-Qaeda_
+
+##### Israel
+### [ Israeli soldiers catch a 15 year old Palestinian carrying two pipe bombs at a West Bank checkpoint. ](/news/2005/05/24/israeli-soldiers-catch-a-15-year-old-palestinian-carrying-two-pipe-bombs-at-a-west-bank-checkpoint.md)
+_Context: Israel, Palestinian, West Bank, pipe bomb_
+
+##### Mathematicians
+### [ Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.md)
+_Context: Abel Prize, Crown Prince Haakon, Mathematicians, Norway, Oslo, Peter Lax, USD, partial differential equations_
+
+##### Conflict in Iraq
+### [ Conflict in Iraq: At least five Iraqis and seven US Soldiers have been killed following a spate of bombings in Iraq. ](/news/2005/05/24/conflict-in-iraq-at-least-five-iraqis-and-seven-us-soldiers-have-been-killed-following-a-spate-of-bombings-in-iraq.md)
+_Context: Conflict in Iraq, Iraq, US Soldiers, bomb_
 
 ## [Previous Day...](/news/2005/05/23/index.md)
 

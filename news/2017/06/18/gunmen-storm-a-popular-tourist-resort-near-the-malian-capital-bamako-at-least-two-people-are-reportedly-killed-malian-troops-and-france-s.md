@@ -21,7 +21,7 @@ Troops free 20 hostages, the government says, as the resort is attacked by suspe
 
 ### Related:
 
-1. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: Mali, Operation Barkhane_
+1. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: Mali, Operation Barkhane_
 2. [President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-attempts-at-persuad.md) _Context: Bamako, Mali_
 3. [ A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md) _Context: Mali, Operation Barkhane_
 4. [Gunmen attack a European Union military training operation housed in a converted hotel in the Mali capital, Bamako. There are no casualties among the mission personnel. One suspect is killed and two are arrested. No group has claimed responsibility. ](/news/2016/03/21/gunmen-attack-a-european-union-military-training-operation-housed-in-a-converted-hotel-in-the-mali-capital-bamako-there-are-no-casualties.md) _Context: Bamako, Mali_

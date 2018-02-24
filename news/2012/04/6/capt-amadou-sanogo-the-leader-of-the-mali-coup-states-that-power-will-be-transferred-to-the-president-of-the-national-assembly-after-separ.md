@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/04/6/capt-amadou-sanogo-the-leader-of-the-mali-coup-s
 
 ### Related:
 
-1. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: Mali_
+1. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: Mali_
 2. [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md) _Context: Mali_
 3. [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md) _Context: Mali_
 4. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Mali_

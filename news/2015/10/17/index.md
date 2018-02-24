@@ -3,81 +3,81 @@ Formats: [HTML](2015/10/17/index.html)  [JSON](2015/10/17/index.json)  [XML](201
 
 ## [2015-10-17](/news/2015/10/17/index.md)
 
-##### Henriette Reker
-### [Henriette Reker, a candidate in Cologne's mayoral race, is stabbed in the neck by a man claiming to be angry over Germany's refugee policies. Reker is in serious condition, as is an aide. Three others suffered minor injuries. ](/news/2015/10/17/henriette-reker-a-candidate-in-cologne-s-mayoral-race-is-stabbed-in-the-neck-by-a-man-claiming-to-be-angry-over-germany-s-refugee-policies.md)
-BERLIN — A candidate to be mayor of the German city of Cologne was stabbed and seriously wounded yesterday (Oct 17) by a man who claimed anti-foreigner motives, an attack that Germany’s interior minister said underlined growing concerns over hatred and violence in the refugee crisis. Ms Henriett...
-
-##### Syrian Civil War
-### [A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md)
-Syrian troops backed by Hezbollah and Iranian fighters made advances on Saturday in their offensive to retake territory around the northern city of Aleppo from insurgents and jihadist fighters, a monitoring group said.
-
-##### Terrorism in Saudi Arabia
-### [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md)
-Five people have been murdered after a gunman opened fire at a Shiite meeting hall in the city of Saihat in Saudi Arabia, before being shot by the police. Islamic State has officially taken responsibility for the sectarian attack.
-
-##### 2015 PKK rebellion
-### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: PKK, Hakkari Province, Daglica, Turkey, 2015 PKK rebellion_
-
-##### Saudi-led intervention in Yemen
-### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
-The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hits a pro-government position, killing at least 20 troops, reports say.
-
-##### Mexican Drug War
-### [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md)
-According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman is now suffering from injuries to his leg and face as he continues to elude Mexican authorities. The Mexican governme…
-
-##### Israeli-Palestinian conflict
-### [Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-police-officers-or-a-member-of-the.md)
-Four Palestinians were killed by Israelis, and one critically wounded, after attempting to stab either police officers or a member of the public on Saturday.
-
-##### Stephen Glass
-### [Stephen Glass, author, former journalist and attorney, will repay Harper's Magazine and other outlets because works he authored were found to have been fabricated. ](/news/2015/10/17/stephen-glass-author-former-journalist-and-attorney-will-repay-harperas-magazine-and-other-outlets-because-works-he-authored-were-found.md)
-Mr. Glass, a rising star in journalism in the 1990s, was revealed to be a serial fabricator and says he wants “to make right” part of his “many transgressions.”
-
-##### Nayantara Sahgal
-### [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md)
-The revolt now confronts Prime Minister Narendra Modi with a critical test of his vaunted ability to shape the public narrative of his administration.
-
-##### United States
-### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
-_Context: Statoil, United States, Arctic, Alaska, Royal Dutch Shell_
-
-##### US Airways
-### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
-The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.
-
-##### 2015 Pacific typhoon season
-### [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md)
-_Context: Philippines, Luzon, 2015 Pacific typhoon season_
-
-##### Andhra Pradesh
-### [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md)
-AT least 15 members of a wedding party, including three children, have been killed when a truck they were travelling in collided with a bus in southern India.
-
-##### Odessa
-### [At least 16 people are killed near Odessa in the Ukraine after a passenger boat sinks in bad weather. ](/news/2015/10/17/at-least-16-people-are-killed-near-odessa-in-the-ukraine-after-a-passenger-boat-sinks-in-bad-weather.md)
-At least 14 people have been killed after a ship taking passengers back from a fishing trip sank near Odessa, on the Black Sea coast. Authorities blame the owners of the vessel for going out despite weather warnings, and failing to provide life jackets for those on board.
-
-##### Hacker
-### [Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. ](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.md)
-_Context: Phoenix, Arizona, Kosovo, Malaysia, ISIS, U.S. military, hacker_
-
-##### Fort Myers, Florida
-### [A shooting just before midnight at the ninth annual Fort Myers, Florida, Zombicon kills one person and injures four others, none with life threatening injuries, and causes pandemomium on the city's downtown streets. Police ask attendees to share smartphone video from the incident. ](/news/2015/10/17/a-shooting-just-before-midnight-at-the-ninth-annual-fort-myers-florida-zombicon-kills-one-person-and-injures-four-others-none-with-life-t.md)
-Gunfire erupted at a Florida festival that attracts thousands of people dressed in zombie costumes, killing one person, injuring five others and sending crowds of frightened people rushing for cover, local media and authorities said on Sunday.
-
-##### European migrant crisis
-### [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md)
-_Context: European migrant crisis, Slovenia, Hungary, Croatia_
+##### Guinean presidential election, 2015
+### [The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-with-58-per-cent-of-the-vote.md)
+_Context: Alpha Conde, Guinea, Guinean presidential election, 2015, President of Guinea_
 
 ##### Egyptian parliamentary election, 2015
 ### [Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. ](/news/2015/10/17/egyptians-residing-abroad-begin-casting-votes-in-the-country-s-first-parliamentary-election-since-the-2013-military-overthrow-of-president-m.md)
 Voters express the hope that Egypt will some day become a land of opportunity like the UAE
 
-##### Guinean presidential election, 2015
-### [The Guinea electoral commission reports that the President of Guinea Alpha Conde has won the election with 58 per cent of the vote. ](/news/2015/10/17/the-guinea-electoral-commission-reports-that-the-president-of-guinea-alpha-conde-has-won-the-election-with-58-per-cent-of-the-vote.md)
-_Context: Guinean presidential election, 2015, President of Guinea, Alpha Conde, Guinea_
+##### European migrant crisis
+### [The first migrants reach Slovenia after the border between Hungary and Croatia is closed. ](/news/2015/10/17/the-first-migrants-reach-slovenia-after-the-border-between-hungary-and-croatia-is-closed.md)
+_Context: Croatia, European migrant crisis, Hungary, Slovenia_
+
+##### Fort Myers, Florida
+### [A shooting just before midnight at the ninth annual Fort Myers, Florida, Zombicon kills one person and injures four others, none with life threatening injuries, and causes pandemomium on the city's downtown streets. Police ask attendees to share smartphone video from the incident. ](/news/2015/10/17/a-shooting-just-before-midnight-at-the-ninth-annual-fort-myers-florida-zombicon-kills-one-person-and-injures-four-others-none-with-life-t.md)
+Gunfire erupted at a Florida festival that attracts thousands of people dressed in zombie costumes, killing one person, injuring five others and sending crowds of frightened people rushing for cover, local media and authorities said on Sunday.
+
+##### Hacker
+### [Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. ](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.md)
+_Context: ISIS, Kosovo, Malaysia, Phoenix, Arizona, U.S. military, hacker_
+
+##### Odessa
+### [At least 16 people are killed near Odessa in the Ukraine after a passenger boat sinks in bad weather. ](/news/2015/10/17/at-least-16-people-are-killed-near-odessa-in-the-ukraine-after-a-passenger-boat-sinks-in-bad-weather.md)
+At least 14 people have been killed after a ship taking passengers back from a fishing trip sank near Odessa, on the Black Sea coast. Authorities blame the owners of the vessel for going out despite weather warnings, and failing to provide life jackets for those on board.
+
+##### Andhra Pradesh
+### [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md)
+AT least 15 members of a wedding party, including three children, have been killed when a truck they were travelling in collided with a bus in southern India.
+
+##### 2015 Pacific typhoon season
+### [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md)
+_Context: 2015 Pacific typhoon season, Luzon, Philippines_
+
+##### US Airways
+### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
+The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.
+
+##### U.S.
+### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
+_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, U.S._
+
+##### Nayantara Sahgal
+### [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md)
+The revolt now confronts Prime Minister Narendra Modi with a critical test of his vaunted ability to shape the public narrative of his administration.
+
+##### Stephen Glass
+### [Stephen Glass, author, former journalist and attorney, will repay Harper's Magazine and other outlets because works he authored were found to have been fabricated. ](/news/2015/10/17/stephen-glass-author-former-journalist-and-attorney-will-repay-harperas-magazine-and-other-outlets-because-works-he-authored-were-found.md)
+Mr. Glass, a rising star in journalism in the 1990s, was revealed to be a serial fabricator and says he wants “to make right” part of his “many transgressions.”
+
+##### Israeli-Palestinian conflict
+### [Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-police-officers-or-a-member-of-the.md)
+Four Palestinians were killed by Israelis, and one critically wounded, after attempting to stab either police officers or a member of the public on Saturday.
+
+##### Mexican Drug War
+### [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md)
+According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman is now suffering from injuries to his leg and face as he continues to elude Mexican authorities. The Mexican governme…
+
+##### Saudi-led intervention in Yemen
+### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
+The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hits a pro-government position, killing at least 20 troops, reports say.
+
+##### 2015 PKK rebellion
+### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
+_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkey_
+
+##### Terrorism in Saudi Arabia
+### [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md)
+Five people have been murdered after a gunman opened fire at a Shiite meeting hall in the city of Saihat in Saudi Arabia, before being shot by the police. Islamic State has officially taken responsibility for the sectarian attack.
+
+##### Syrian Civil War
+### [A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md)
+Syrian troops backed by Hezbollah and Iranian fighters made advances on Saturday in their offensive to retake territory around the northern city of Aleppo from insurgents and jihadist fighters, a monitoring group said.
+
+##### Henriette Reker
+### [Henriette Reker, a candidate in Cologne's mayoral race, is stabbed in the neck by a man claiming to be angry over Germany's refugee policies. Reker is in serious condition, as is an aide. Three others suffered minor injuries. ](/news/2015/10/17/henriette-reker-a-candidate-in-cologne-s-mayoral-race-is-stabbed-in-the-neck-by-a-man-claiming-to-be-angry-over-germany-s-refugee-policies.md)
+BERLIN — A candidate to be mayor of the German city of Cologne was stabbed and seriously wounded yesterday (Oct 17) by a man who claimed anti-foreigner motives, an attack that Germany’s interior minister said underlined growing concerns over hatred and violence in the refugee crisis. Ms Henriett...
 
 ## [Previous Day...](/news/2015/10/16/index.md)
 

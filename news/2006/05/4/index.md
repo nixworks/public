@@ -3,29 +3,29 @@ Formats: [HTML](2006/05/4/index.html)  [JSON](2006/05/4/index.json)  [XML](2006/
 
 ## [2006-05-4](/news/2006/05/4/index.md)
 
-##### Manasseh Sogavare
-### [ Manasseh Sogavare is elected Prime Minister of the Solomon Islands, following Snyder Rini's brief period in office. Sogavare was previously prime minister from 2000 to 2001. ](/news/2006/05/4/manasseh-sogavare-is-elected-prime-minister-of-the-solomon-islands-following-snyder-rini-s-brief-period-in-office-sogavare-was-previously.md)
-_Context: Snyder Rini, Manasseh Sogavare, Prime Minister_
-
-##### Israel
-### [ In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. ](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.md)
-_Context: oath of office, Cabinet of Israel, Ehud Olmert, Israeli Prime Minister, Israel_
-
-##### Warnings
-### [ A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time). The warning was canceled when it was found that the earthquake did not produce a tsunami. ](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-zealand-following-a-magnitude-7-9-earthquake-in-tonga-which-occurred-at-15-26-utc-04-26-may.md)
-_Context: Fiji, New Zealand, 7.9 earthquake in Tonga, warnings, magnitude, tsunami_
-
-##### Picasso
-### [ Picasso's "Dora Maar With Cat" is sold in an auction for US$95,216,000, becoming one of the most expensive paintings in the world. ](/news/2006/05/4/picasso-s-dora-maar-with-cat-is-sold-in-an-auction-for-us-95-216-000-becoming-one-of-the-most-expensive-paintings-in-the-world.md)
-_Context: U.S. dollar, ''Dora Maar With Cat'', Picasso, new record_
+##### British Prime Minister
+### [ British Prime Minister Tony Blair's Labour Party suffers one of its worst electoral defeats, losing more than 200 council seats in the 2006 UK local elections, and coming third in total votes, behind the Conservatives and Liberal Democrats. ](/news/2006/05/4/british-prime-minister-tony-blair-s-labour-party-suffers-one-of-its-worst-electoral-defeats-losing-more-than-200-council-seats-in-the-2006.md)
+_Context: 2006 UK local elections, British Prime Minister, Labour Party, Tony Blair_
 
 ##### Shahrir Abdul Samad
 ### [ Shahrir Abdul Samad resigns as chairman of the Barisan Nasional Backbenchers Club in the Parliament of Malaysia, after a motion to refer a Member of Parliament implicated in a corruption scandal to the "Dewan Rakyat" House Rights and Privileges Committee failed. ](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.md)
-_Context: Shahrir Abdul Samad, Dewan Rakyat, Parliament of Malaysia, Barisan Nasional, Malaysia_
+_Context: Barisan Nasional, Dewan Rakyat, Malaysia, Parliament of Malaysia, Shahrir Abdul Samad_
 
-##### British Prime Minister
-### [ British Prime Minister Tony Blair's Labour Party suffers one of its worst electoral defeats, losing more than 200 council seats in the 2006 UK local elections, and coming third in total votes, behind the Conservatives and Liberal Democrats. ](/news/2006/05/4/british-prime-minister-tony-blair-s-labour-party-suffers-one-of-its-worst-electoral-defeats-losing-more-than-200-council-seats-in-the-2006.md)
-_Context: Tony Blair, British Prime Minister, 2006 UK local elections, Labour Party_
+##### Picasso
+### [ Picasso's "Dora Maar With Cat" is sold in an auction for US$95,216,000, becoming one of the most expensive paintings in the world. ](/news/2006/05/4/picasso-s-dora-maar-with-cat-is-sold-in-an-auction-for-us-95-216-000-becoming-one-of-the-most-expensive-paintings-in-the-world.md)
+_Context: ''Dora Maar With Cat'', Picasso, U.S. dollar, new record_
+
+##### Warnings
+### [ A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time). The warning was canceled when it was found that the earthquake did not produce a tsunami. ](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-zealand-following-a-magnitude-7-9-earthquake-in-tonga-which-occurred-at-15-26-utc-04-26-may.md)
+_Context: 7.9 earthquake in Tonga, Fiji, New Zealand, magnitude, tsunami, warnings_
+
+##### Israel
+### [ In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. ](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.md)
+_Context: Cabinet of Israel, Ehud Olmert, Israel, Israeli Prime Minister, oath of office_
+
+##### Manasseh Sogavare
+### [ Manasseh Sogavare is elected Prime Minister of the Solomon Islands, following Snyder Rini's brief period in office. Sogavare was previously prime minister from 2000 to 2001. ](/news/2006/05/4/manasseh-sogavare-is-elected-prime-minister-of-the-solomon-islands-following-snyder-rini-s-brief-period-in-office-sogavare-was-previously.md)
+_Context: Manasseh Sogavare, Prime Minister, Snyder Rini_
 
 ## [Previous Day...](/news/2006/05/3/index.md)
 

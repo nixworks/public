@@ -5,7 +5,7 @@ Formats: [HTML](1999/04/26/index.html)  [JSON](1999/04/26/index.json)  [XML](199
 
 ##### Jill Dando
 ### [ British TV presenter Jill Dando is shot dead outside her home in Fulham, West London.](/news/1999/04/26/british-tv-presenter-jill-dando-is-shot-dead-outside-her-home-in-fulham-west-london.md)
-_Context: Jill Dando, Fulham_
+_Context: Fulham, Jill Dando_
 
 ## [Previous Day...](/news/1999/04/25/index.md)
 

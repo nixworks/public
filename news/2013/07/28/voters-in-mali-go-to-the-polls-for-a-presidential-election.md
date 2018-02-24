@@ -18,6 +18,6 @@ Voters across Mali cast their ballots in a presidential election aimed at reunit
 
 1. [Voters in Mali go to the polls for the second round of a presidential election. ](/news/2013/08/11/voters-in-mali-go-to-the-polls-for-the-second-round-of-a-presidential-election.md) _Context: Mali, the election_
 2. [Mali lifts a state of emergency ahead of a presidential election. ](/news/2013/07/6/mali-lifts-a-state-of-emergency-ahead-of-a-presidential-election.md) _Context: Mali, the election_
-3. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: Mali_
+3. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: Mali_
 4. [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md) _Context: Mali_
 5. [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md) _Context: Mali_

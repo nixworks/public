@@ -23,7 +23,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing at least 35 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-at-least-35-people.md) _Context: Peru_
+1. [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md) _Context: Peru_
 2. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
 3. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_
 4. [A Pegasus Airlines flight from Esenboga International Airport in Ankara, Turkey, departs the runway of Trabzon Airport in northern Turkey upon landing. All 162 passengers, two pilots, and four cabin crew evacuated the aircraft, a Boeing 737, unharmed. The local government launched an investigation into the incident. ](/news/2018/01/13/a-pegasus-airlines-flight-from-esenboaa-international-airport-in-ankara-turkey-departs-the-runway-of-trabzon-airport-in-northern-turkey-u.md) _Context: Boeing 737_

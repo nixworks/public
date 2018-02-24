@@ -20,7 +20,7 @@ Formats: [HTML](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminos
 
 ### Related:
 
-1. [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing at least 35 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-at-least-35-people.md) _Context: Peru_
+1. [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md) _Context: Peru_
 2. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
 3. [Presenting a new national defense strategy, the United States Secretary of Defense, Jim Mattis, says terrorism is no longer the focus of the national security of the United States. Now it is competition between great powers. ](/news/2018/01/19/presenting-a-new-national-defense-strategy-the-united-states-secretary-of-defense-jim-mattis-says-terrorism-is-no-longer-the-focus-of-the.md) _Context: terrorism_
 4. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_

@@ -21,7 +21,7 @@ Formats: [HTML](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-i
 
 ### Related:
 
-1. [Two French soldiers are killed after their armoured vehicle hit an IED in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hit-an-ied-in-mali.md) _Context: French, Mali_
+1. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: French, Mali_
 2. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: French, Jean-Yves Le Drian_
 3. [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md) _Context: French, Mali_
 4. [A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md) _Context: French, Mali_

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/17/president-of-the-united-states-barack-obama-ann
 
 ### [2014-03-17](/news/2014/03/17/index.md)
 
-##### U.S. President
+##### President of the United States
 # President of the United States Barack Obama announces that the United States will sanction Russian officials that contributed to the current Crimean crisis. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2014/03/17/president-of-the-united-states-barack-obama-ann
 
 ### Related:
 
-1. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: Barack Obama, Russia, U.S. President_
-2. [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md) _Context: Barack Obama, Russia, U.S. President_
-3. [ United States President Barack Obama addresses graduates in Moscow, Russia. ](/news/2009/07/7/united-states-president-barack-obama-addresses-graduates-in-moscow-russia.md) _Context: Barack Obama, Russia, U.S. President_
-4. [ United States President Barack Obama and Russian President Dmitry Medvedev agree on cutting their nuclear warheads and cooperate on military action in Afghanistan. ](/news/2009/07/6/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-agree-on-cutting-their-nuclear-warheads-and-cooperate-on-militar.md) _Context: Barack Obama, Russia, U.S. President_
-5. [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md) _Context: Barack Obama, U.S. President_
+1. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: Barack Obama, President of the United States, Russia_
+2. [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md) _Context: Barack Obama, President of the United States, Russia_
+3. [ United States President Barack Obama addresses graduates in Moscow, Russia. ](/news/2009/07/7/united-states-president-barack-obama-addresses-graduates-in-moscow-russia.md) _Context: Barack Obama, President of the United States, Russia_
+4. [ United States President Barack Obama and Russian President Dmitry Medvedev agree on cutting their nuclear warheads and cooperate on military action in Afghanistan. ](/news/2009/07/6/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-agree-on-cutting-their-nuclear-warheads-and-cooperate-on-militar.md) _Context: Barack Obama, President of the United States, Russia_
+5. [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md) _Context: Barack Obama, President of the United States_

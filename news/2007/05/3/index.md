@@ -3,29 +3,29 @@ Formats: [HTML](2007/05/3/index.html)  [JSON](2007/05/3/index.json)  [XML](2007/
 
 ## [2007-05-3](/news/2007/05/3/index.md)
 
-##### Israel
-### [ Tens of thousands of Israeli protesters at Rabin Square in Tel Aviv call for Prime Minister Ehud Olmert and his government to resign over their mishandling of the 2006 Lebanon war. ](/news/2007/05/3/tens-of-thousands-of-israeli-protesters-at-rabin-square-in-tel-aviv-call-for-prime-minister-ehud-olmert-and-his-government-to-resign-over-t.md)
-_Context: Israel, mishandling of the 2006 Lebanon war, Rabin Square, Ehud Olmert, Tel Aviv_
-
-##### Elizabeth II
-### [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md)
-_Context: Jamestown, Virginia, 400th anniversary, England, Colonial Williamsburg, massacre, Elizabeth II, Richmond, Virginia, General Assembly of Virginia, Virginia_
-
-##### 2008
-### [ United States presidential election, 2008: Republican presidential candidates debate at the Ronald Reagan Presidential Library in Simi Valley, California. ](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.md)
-Republican presidential candidates gave a qualified endorsement Thursday night to President Bush&#8217;s Iraq strategy, criticizing Bush for mismanaging the war but insisting that U.S. troops should not be withdrawn.&#160;&#160;[!]
-
-##### United Kingdom
-### [ The United Kingdom's Ministry of Defence announces plans to release their UFO files to the public, seven weeks after France's space agency CNES opened its UFO files to the public. ](/news/2007/05/3/the-united-kingdom-s-ministry-of-defence-announces-plans-to-release-their-ufo-files-to-the-public-seven-weeks-after-france-s-space-agency.md)
-_Context: United Kingdom, French, Ministry of Defence, CNES, UFO files_
+##### Winning the most seats
+### [ Polling stations open for the Scottish Parliament and National Assembly for Wales general elections, and for local council elections in Scotland and parts of England. ](/news/2007/05/3/polling-stations-open-for-the-scottish-parliament-and-national-assembly-for-wales-general-elections-and-for-local-council-elections-in-sco.md)
+_Context: England, National Assembly for Wales, Scotland, winning the most seats_
 
 ##### Ulster Volunteer Force
 ### [ The Ulster Volunteer Force, a loyalist paramilitary group in Northern Ireland, renounces the use of force. ](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.md)
 There has been a broad welcome for the announcement by the loyalist paramilitary organisation, the UVF, that it is renouncing violence.
 
-##### Winning the most seats
-### [ Polling stations open for the Scottish Parliament and National Assembly for Wales general elections, and for local council elections in Scotland and parts of England. ](/news/2007/05/3/polling-stations-open-for-the-scottish-parliament-and-national-assembly-for-wales-general-elections-and-for-local-council-elections-in-sco.md)
-_Context: winning the most seats, National Assembly for Wales, England, Scotland_
+##### United Kingdom
+### [ The United Kingdom's Ministry of Defence announces plans to release their UFO files to the public, seven weeks after France's space agency CNES opened its UFO files to the public. ](/news/2007/05/3/the-united-kingdom-s-ministry-of-defence-announces-plans-to-release-their-ufo-files-to-the-public-seven-weeks-after-france-s-space-agency.md)
+_Context: CNES, French, Ministry of Defence, UFO files, United Kingdom_
+
+##### 2008
+### [ United States presidential election, 2008: Republican presidential candidates debate at the Ronald Reagan Presidential Library in Simi Valley, California. ](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.md)
+Republican presidential candidates gave a qualified endorsement Thursday night to President Bush&#8217;s Iraq strategy, criticizing Bush for mismanaging the war but insisting that U.S. troops should not be withdrawn.&#160;&#160;[!]
+
+##### Elizabeth II
+### [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md)
+_Context: 400th anniversary, Colonial Williamsburg, Elizabeth II, England, General Assembly of Virginia, Jamestown, Virginia, Richmond, Virginia, Virginia, massacre_
+
+##### Israel
+### [ Tens of thousands of Israeli protesters at Rabin Square in Tel Aviv call for Prime Minister Ehud Olmert and his government to resign over their mishandling of the 2006 Lebanon war. ](/news/2007/05/3/tens-of-thousands-of-israeli-protesters-at-rabin-square-in-tel-aviv-call-for-prime-minister-ehud-olmert-and-his-government-to-resign-over-t.md)
+_Context: Ehud Olmert, Israel, Rabin Square, Tel Aviv, mishandling of the 2006 Lebanon war_
 
 ## [Previous Day...](/news/2007/05/2/index.md)
 

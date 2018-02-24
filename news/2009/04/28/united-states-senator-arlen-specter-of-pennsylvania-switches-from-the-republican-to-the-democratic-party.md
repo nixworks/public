@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylv
 
 ### [2009-04-28](/news/2009/04/28/index.md)
 
-##### United States
+##### U.S.
 #  United States Senator Arlen Specter of Pennsylvania switches from the Republican to the Democratic Party. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylv
 
 ### Related:
 
-1. [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md) _Context: Democrat, Republican, United States, United States Senate_
+1. [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md) _Context: Democrat, Republican, U.S., United States Senate_
 2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Democrat, Republican, United States Senate_
 3. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Democrat, Republican, United States Senate_
 4. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Democrat, Republican, United States Senate_

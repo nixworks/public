@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/27/seven-civilians-including-children-are-killed-b
 
 ### [2011-06-27](/news/2011/06/27/index.md)
 
-##### IED
+##### Roadside bomb
 # Seven civilians, including children, are killed by two separate roadside mines in Afghanistan's eastern Ghazni Province; an 8-year-old girl was killed when militants gave her a remote-controlled explosive in a bag and told her to give it to police officers in Oruzgan Province. 
 
 Afghanistan says the Pakistani military is behind recent deadly rocket attacks, but Islamabad says it is not responsible.

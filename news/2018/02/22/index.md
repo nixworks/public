@@ -25,7 +25,7 @@ _Context: Alexei Navalny, Leonid Volkov, Russian police, Russian presidential el
 
 ##### Politics of Romania
 ### [Romanian Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the National Anticorruption Directorate, Laura Codruta Kovesi. The announcement sparks protests. ](/news/2018/02/22/romanian-justice-minister-tudorel-toader-announces-that-he-would-trigger-the-dismissal-procedures-of-the-chief-prosecutor-of-the-national-an.md)
-_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Tudorel Toader_
+_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania_
 
 ##### Crime in Montenegro
 ### [Montenegrin police identify the perpetrator of a grenade attack on the U.S. embassy in Podgorica which occurred yesterday. According to authorities, he was a veteran of the Armed Forces of Yugoslavia. ](/news/2018/02/22/montenegrin-police-identify-the-perpetrator-of-a-grenade-attack-on-the-u-s-embassy-in-podgorica-which-occurred-yesterday-according-to-auth.md)

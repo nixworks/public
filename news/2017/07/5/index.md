@@ -3,61 +3,61 @@ Formats: [HTML](2017/07/5/index.html)  [JSON](2017/07/5/index.json)  [XML](2017/
 
 ## [2017-07-5](/news/2017/07/5/index.md)
 
-##### Mexican Drug War
-### [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
-The shootout in Chihuahua comes amid rising violence nationwide.
+##### Peru
+### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
+She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
 
-##### Disappearance of Amelia Earhart
-### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-_Context: Fred Noonan, Marshall Islands, Empire of Japan, Disappearance of Amelia Earhart, National Archives, Amelia Earhart_
+##### Muqui
+### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
+_Context: Andes, Muqui, Peru, Shining Path, crimes against humanity_
 
-##### Volvo
-### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
-It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
-
-##### Chinese
-### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
-Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
-
-##### Bambari
-### [A truck overloaded with passengers crashes near Bambari, Central African Republic, killing at least 78 people and leaving dozens more injured. ](/news/2017/07/5/a-truck-overloaded-with-passengers-crashes-near-bambari-central-african-republic-killing-at-least-78-people-and-leaving-dozens-more-injure.md)
-Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of...
-
-##### Health in France
-### [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md)
-Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory in France.
-
-##### Executive Order 13780
-### [The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/the-united-states-extends-the-restrictions-deadline-for-refugees.md)
-Refugee resettlement agencies say the State Department has given them updated instructions on President Trump&apos;s travel ban that extends...
-
-##### Priest
-### [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md)
-_Context: drug, gay, priest, Vatican City, orgy_
-
-##### Crime in New York City
-### [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md)
-Miosotis Familia, a 12-year veteran of the force, was shot in the head while sitting in a vehicle. The gunman was killed, the police said.
-
-##### Madison, Maine
-### [Three people are shot and killed by a gunman in separate incidents in Madison, Maine. A fourth victim is wounded. Sheriffs deputies then shot and killed the suspect. ](/news/2017/07/5/three-people-are-shot-and-killed-by-a-gunman-in-separate-incidents-in-madison-maine-a-fourth-victim-is-wounded-sheriffs-deputies-then-sho.md)
-Another person was wounded before the gunman was reportedly shot and killed by deputies
+##### Ongoing protests
+### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
+_Context: Julio Borges, National Assembly, Nicols Maduro, President of the National Assembly, Supporters, Venezuela, ongoing protests_
 
 ##### Samoa
 ### [Samoa's Legislative Assembly appoints Tuimalealiifano Va'aletoa Sualauvi II as O le Ao o le Malo, or Head of State. He will succeed Tufuga Efi, the country's head of state since 2007, on July 25. ](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.md)
 Samoa has a new Head of State. This morning the 50-member Parliament voted unanimously for a of the Council of Deputies or Council of Deputy Heads of State, Tuimalealiifano Va&#8217;aletoa Sualauvi II, to become Samoa&#8217;s Head of State
 
-##### Ongoing protests
-### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
-_Context: Nicols Maduro, Supporters, Julio Borges, President of the National Assembly, ongoing protests, National Assembly, Venezuela_
+##### Madison, Maine
+### [Three people are shot and killed by a gunman in separate incidents in Madison, Maine. A fourth victim is wounded. Sheriffs deputies then shot and killed the suspect. ](/news/2017/07/5/three-people-are-shot-and-killed-by-a-gunman-in-separate-incidents-in-madison-maine-a-fourth-victim-is-wounded-sheriffs-deputies-then-sho.md)
+Another person was wounded before the gunman was reportedly shot and killed by deputies
 
-##### Muqui
-### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
-_Context: crimes against humanity, Shining Path, Andes, Muqui, Peru_
+##### Crime in New York City
+### [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md)
+Miosotis Familia, a 12-year veteran of the force, was shot in the head while sitting in a vehicle. The gunman was killed, the police said.
 
-##### Peru
-### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
-She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
+##### Priest
+### [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md)
+_Context: Vatican City, drug, gay, orgy, priest_
+
+##### Executive Order 13780
+### [The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/the-united-states-extends-the-restrictions-deadline-for-refugees.md)
+Refugee resettlement agencies say the State Department has given them updated instructions on President Trump&apos;s travel ban that extends...
+
+##### Health in France
+### [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md)
+Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory in France.
+
+##### Bambari
+### [A truck overloaded with passengers crashes near Bambari, Central African Republic, killing at least 78 people and leaving dozens more injured. ](/news/2017/07/5/a-truck-overloaded-with-passengers-crashes-near-bambari-central-african-republic-killing-at-least-78-people-and-leaving-dozens-more-injure.md)
+Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of...
+
+##### Chinese
+### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
+Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
+
+##### Volvo
+### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
+It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
+
+##### Disappearance of Amelia Earhart
+### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
+_Context: Amelia Earhart, Disappearance of Amelia Earhart, Empire of Japan, Fred Noonan, Marshall Islands, National Archives_
+
+##### Mexican Drug War
+### [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
+The shootout in Chihuahua comes amid rising violence nationwide.
 
 ## [Previous Day...](/news/2017/07/4/index.md)
 

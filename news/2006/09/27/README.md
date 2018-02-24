@@ -3,25 +3,25 @@ Formats: [HTML](2006/09/27/index.html)  [JSON](2006/09/27/index.json)  [XML](200
 
 ## [2006-09-27](/news/2006/09/27/index.md)
 
-##### Hostage situation
-### [ A hostage situation at Platte Canyon High School near Bailey, Colorado, United States ends with the death of the gunman. A wounded female student later died.](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-school-near-bailey-colorado-united-states-ends-with-the-death-of-the-gunman-a-wounded-female-s.md)
-_Context: hostage situation, Bailey, Colorado, Platte Canyon High School_
-
-##### Republican
-### [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolisast-paul-as-the-venue-for-its-2008-convention.md)
-_Context: Minneapolis-St. Paul, Republican, 2008 Republican National Convention_
-
-##### Maria Fyodorovna
-### [ A funeral service for Empress Maria Fyodorovna of Russia is held at the Gothic Chapel at Peterhof. ](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.md)
-_Context: Peterhof, Maria Fyodorovna, Gothic Chapel_
+##### Israel
+### [ An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.md)
+_Context: Asher Weisgan, August 2005, Israel, NIS, Palestinians, life sentence_
 
 ##### Democrat
 ### [ U.S. Democrats urge the Bush administration to release in full a report linking the Iraq conflict and global terrorism. ](/news/2006/09/27/u-s-democrats-urge-the-bush-administration-to-release-in-full-a-report-linking-the-iraq-conflict-and-global-terrorism.md)
-_Context: George W. Bush, terrorism, Democrat, Iraq conflict_
+_Context: Democrat, George W. Bush, Iraq conflict, terrorism_
 
-##### Israel
-### [ An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.md)
-_Context: NIS, life sentence, Israel, August 2005, Asher Weisgan, Palestinians_
+##### Maria Fyodorovna
+### [ A funeral service for Empress Maria Fyodorovna of Russia is held at the Gothic Chapel at Peterhof. ](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.md)
+_Context: Gothic Chapel, Maria Fyodorovna, Peterhof_
+
+##### Republican
+### [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolisast-paul-as-the-venue-for-its-2008-convention.md)
+_Context: 2008 Republican National Convention, Minneapolis-St. Paul, Republican_
+
+##### Hostage situation
+### [ A hostage situation at Platte Canyon High School near Bailey, Colorado, United States ends with the death of the gunman. A wounded female student later died.](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-school-near-bailey-colorado-united-states-ends-with-the-death-of-the-gunman-a-wounded-female-s.md)
+_Context: Bailey, Colorado, Platte Canyon High School, hostage situation_
 
 ## [Previous Day...](/news/2006/09/26/index.md)
 

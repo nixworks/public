@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/16/the-united-states-announces-that-it-will-transf
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
-##### United States
+##### U.S.
 # The United States announces that it will transfer nine Yemeni detainees from the Guantanamo Bay detention camp to Saudi Arabia. 
 
 MIAMI (AP) — The U.S. has released nine more prisoners from its base at Guantanamo Bay, Cuba, and sent them to Saudi Arabia for resettlement, officials said Saturday. The move announced in a Pentagon statement is part…
@@ -17,8 +17,8 @@ MIAMI (AP) — The U.S. has released nine more prisoners from its base at Guanta
 
 ### Related:
 
-1. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabia, United States, Yemen_
-2. [The United States and the United Kingdom call for, "within hours," an immediate and unconditional ceasefire in Yemen to end the violence following last week's Saudi airstrikes, based on bad information, that killed around 140 people. ](/news/2016/10/16/the-united-states-and-the-united-kingdom-call-for-within-hours-an-immediate-and-unconditional-ceasefire-in-yemen-to-end-the-violence-fol.md) _Context: Saudi Arabia, United States, Yemen_
+1. [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md) _Context: Saudi Arabia, U.S., Yemen_
+2. [The United States and the United Kingdom call for, "within hours," an immediate and unconditional ceasefire in Yemen to end the violence following last week's Saudi airstrikes, based on bad information, that killed around 140 people. ](/news/2016/10/16/the-united-states-and-the-united-kingdom-call-for-within-hours-an-immediate-and-unconditional-ceasefire-in-yemen-to-end-the-violence-fol.md) _Context: Saudi Arabia, U.S., Yemen_
 3. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _Context: Saudi Arabia, Yemen_
 4. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Saudi Arabia, Yemen_
 5. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _Context: Saudi Arabia, Yemen_

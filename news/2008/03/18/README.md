@@ -3,45 +3,45 @@ Formats: [HTML](2008/03/18/index.html)  [JSON](2008/03/18/index.json)  [XML](200
 
 ## [2008-03-18](/news/2008/03/18/index.md)
 
-##### Israel
-### [ In an address to the Israeli Knesset, German Chancellor Angela Merkel says "Germany will always stand by the Jewish state." ](/news/2008/03/18/in-an-address-to-the-israeli-knesset-german-chancellor-angela-merkel-says-germany-will-always-stand-by-the-jewish-state.md)
-_Context: Jewish state, Israel, German, parliament in Israel, Chancellor, Angela Merkel_
+##### Sweden
+### [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md)
+_Context: Supreme Court, Sweden, TV channel, Vilgot Sjoman, commercial, copyright infringement_
 
-##### United States
-### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
-_Context: Federal Reserve System, United States, federal funds rate_
+##### Dutch
+### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
+_Context: Dutch, Eindhoven, European Swimming Championships, relay_
 
-##### United States
-### [ The United States embassy in Yemen is closed after three mortar shells detonate near the embassy compound. Two people are killed in the attack. ](/news/2008/03/18/the-united-states-embassy-in-yemen-is-closed-after-three-mortar-shells-detonate-near-the-embassy-compound-two-people-are-killed-in-the-att.md)
-_Context: Mortar, Yemen, United States, embassies_
-
-##### Organization of American States
-### [ The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter." ](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.md)
-_Context: Colombia, Organization of American States, Ecuador_
-
-##### Manipur
-### [ Police in Manipur, India claim a rebel group has killed seven migrant workers. ](/news/2008/03/18/police-in-manipur-india-claim-a-rebel-group-has-killed-seven-migrant-workers.md)
-_Context: Manipur, India_
-
-##### 2008 National People's Congress
-### [ 2008 National People's Congress: At the concluding press conference, Premier of the People's Republic of China Wen Jiabao asserts the Chinese government exercised restraint in suppressing the 2008 unrest in Tibet. Wen also accused the Dalai Lama of inciting the protests. ](/news/2008/03/18/2008-national-people-s-congress-at-the-concluding-press-conference-premier-of-the-people-s-republic-of-china-wen-jiabao-asserts-the-chine.md)
-_Context: Wen Jiabao, 2008 unrest in Tibet, Premier of the People's Republic of China, 2008 National People's Congress_
+##### French
+### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
+_Context: 2008 Summer Olympics, Beijing, Bernard Kouchner, Chinese, European Union, French, Tibet, boycott_
 
 ##### Canada
 ### [ Canada and Japan recognize Kosovo's independence. ](/news/2008/03/18/canada-and-japan-recognize-kosovo-s-independence.md)
 Canada followed the lead of about 30 other countries Tuesday and formally recognized Kosovo, a former Serbian province that declared its independence last month.
 
-##### French
-### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
-_Context: French, Tibet, 2008 Summer Olympics, European Union, Beijing, Chinese, boycott, Bernard Kouchner_
+##### 2008 National People's Congress
+### [ 2008 National People's Congress: At the concluding press conference, Premier of the People's Republic of China Wen Jiabao asserts the Chinese government exercised restraint in suppressing the 2008 unrest in Tibet. Wen also accused the Dalai Lama of inciting the protests. ](/news/2008/03/18/2008-national-people-s-congress-at-the-concluding-press-conference-premier-of-the-people-s-republic-of-china-wen-jiabao-asserts-the-chine.md)
+_Context: 2008 National People's Congress, 2008 unrest in Tibet, Premier of the People's Republic of China, Wen Jiabao_
 
-##### Dutch
-### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
-_Context: Eindhoven, relay, European Swimming Championships, Dutch_
+##### Manipur
+### [ Police in Manipur, India claim a rebel group has killed seven migrant workers. ](/news/2008/03/18/police-in-manipur-india-claim-a-rebel-group-has-killed-seven-migrant-workers.md)
+_Context: India, Manipur_
 
-##### Sweden
-### [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md)
-_Context: Supreme Court, commercial, Sweden, copyright infringement, TV channel, Vilgot Sjoman_
+##### Organization of American States
+### [ The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter." ](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.md)
+_Context: Colombia, Ecuador, Organization of American States_
+
+##### U.S.
+### [ The United States embassy in Yemen is closed after three mortar shells detonate near the embassy compound. Two people are killed in the attack. ](/news/2008/03/18/the-united-states-embassy-in-yemen-is-closed-after-three-mortar-shells-detonate-near-the-embassy-compound-two-people-are-killed-in-the-att.md)
+_Context: Mortar, U.S., Yemen, embassies_
+
+##### U.S.
+### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
+_Context: Federal Reserve System, U.S., federal funds rate_
+
+##### Israel
+### [ In an address to the Israeli Knesset, German Chancellor Angela Merkel says "Germany will always stand by the Jewish state." ](/news/2008/03/18/in-an-address-to-the-israeli-knesset-german-chancellor-angela-merkel-says-germany-will-always-stand-by-the-jewish-state.md)
+_Context: Angela Merkel, Chancellor, German, Israel, Jewish state, parliament in Israel_
 
 ## [Previous Day...](/news/2008/03/17/index.md)
 

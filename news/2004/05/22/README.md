@@ -3,21 +3,21 @@ Formats: [HTML](2004/05/22/index.html)  [JSON](2004/05/22/index.json)  [XML](200
 
 ## [2004-05-22](/news/2004/05/22/index.md)
 
-##### Felipe, Prince of Asturias
-### [ Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. ](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.md)
-_Context: Madrid, princess Letizia, Felipe, Prince of Asturias_
-
-##### Commonwealth of Nations
-### [ The Commonwealth Secretariat announces it will re-admit Pakistan to the Commonwealth, five years after its suspension. Continuing concerns about democracy will be monitored. ](/news/2004/05/22/the-commonwealth-secretariat-announces-it-will-re-admit-pakistan-to-the-commonwealth-five-years-after-its-suspension-continuing-concerns.md)
-_Context: Commonwealth of Nations, democratic_
+##### Premier League
+### [ English Premier League football side Manchester United defeat Millwall of the First Division 3-0 to win the FA Cup. ](/news/2004/05/22/english-premier-league-football-side-manchester-united-defeat-millwall-of-the-first-division-3a0-to-win-the-fa-cup.md)
+_Context: FA Cup, First Division, Manchester United, Millwall, Premier League, football_
 
 ##### Manmohan Singh
 ### [ Manmohan Singh is sworn in as Prime Minister of India. ](/news/2004/05/22/manmohan-singh-is-sworn-in-as-prime-minister-of-india.md)
 _Context: Indian Prime Minister, Manmohan Singh_
 
-##### Premier League
-### [ English Premier League football side Manchester United defeat Millwall of the First Division 3-0 to win the FA Cup. ](/news/2004/05/22/english-premier-league-football-side-manchester-united-defeat-millwall-of-the-first-division-3a0-to-win-the-fa-cup.md)
-_Context: football, First Division, Premier League, FA Cup, Millwall, Manchester United_
+##### Commonwealth of Nations
+### [ The Commonwealth Secretariat announces it will re-admit Pakistan to the Commonwealth, five years after its suspension. Continuing concerns about democracy will be monitored. ](/news/2004/05/22/the-commonwealth-secretariat-announces-it-will-re-admit-pakistan-to-the-commonwealth-five-years-after-its-suspension-continuing-concerns.md)
+_Context: Commonwealth of Nations, democratic_
+
+##### Felipe, Prince of Asturias
+### [ Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. ](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.md)
+_Context: Felipe, Prince of Asturias, Madrid, princess Letizia_
 
 ## [Previous Day...](/news/2004/05/21/index.md)
 

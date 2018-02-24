@@ -3,29 +3,29 @@ Formats: [HTML](2006/09/10/index.html)  [JSON](2006/09/10/index.json)  [XML](200
 
 ## [2006-09-10](/news/2006/09/10/index.md)
 
-##### Al-Qaeda
-### [ A lengthy statement from al-Qaeda's second in command, Ayman al-Zawahiri, on the eve of the fifth anniversary of the September 11, 2001 attacks calls on Muslims to step up their resistance against the United States. ](/news/2006/09/10/a-lengthy-statement-from-al-qaeda-s-second-in-command-ayman-al-zawahiri-on-the-eve-of-the-fifth-anniversary-of-the-september-11-2001-att.md)
-_Context: Muslim, al-Qaeda, United States, September 11, 2001 attacks, Ayman al-Zawahiri_
-
-##### Taufa'ahau Tupou IV
-### [ Taufa'ahau Tupou IV, the King of Tonga, dies at the age of 88 in an Auckland, New Zealand hospital after battling illness. ](/news/2006/09/10/taufa-ahau-tupou-iv-the-king-of-tonga-dies-at-the-age-of-88-in-an-auckland-new-zealand-hospital-after-battling-illness.md)
-_Context: Tonga, New Zealand, King, Taufa'ahau Tupou IV, Auckland_
-
-##### Roger Federer
-### [ Roger Federer wins the U.S. Open defeating Andy Roddick 6-2, 4-6, 7-5, 6-1. ](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.md)
-_Context: Roger Federer, U.S. Open, Andy Roddick_
-
-##### NATO
-### [ NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanistan-the-military-alliance-says.md)
-_Context: NATO, Taliban, Afghan National Army, Afghan_
+##### Formula One
+### [ The most successful driver in Formula One history, German Michael Schumacher, announces his retirement from the sport at the end of the 2006 season. ](/news/2006/09/10/the-most-successful-driver-in-formula-one-history-german-michael-schumacher-announces-his-retirement-from-the-sport-at-the-end-of-the-200.md)
+_Context: 2006 season, Formula One, German, Michael Schumacher_
 
 ##### Hurricane Florence
 ### [ Hurricane Florence forces hurricane warnings for Bermuda as it threatens the island with rain of 13 to 20 cm (5 to 8 inches). Florence is also expected to become a Category 2 hurricane prior to affecting the island. ](/news/2006/09/10/hurricane-florence-forces-hurricane-warnings-for-bermuda-as-it-threatens-the-island-with-rain-of-13-to-20-cm-5-to-8-inches-florence-is-a.md)
-_Context: Hurricane Florence, hurricane warnings, Bermuda, Saffir-Simpson Hurricane Scale_
+_Context: Bermuda, Hurricane Florence, Saffir-Simpson Hurricane Scale, hurricane warnings_
 
-##### Formula One
-### [ The most successful driver in Formula One history, German Michael Schumacher, announces his retirement from the sport at the end of the 2006 season. ](/news/2006/09/10/the-most-successful-driver-in-formula-one-history-german-michael-schumacher-announces-his-retirement-from-the-sport-at-the-end-of-the-200.md)
-_Context: German, 2006 season, Michael Schumacher, Formula One_
+##### NATO
+### [ NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanistan-the-military-alliance-says.md)
+_Context: Afghan, Afghan National Army, NATO, Taliban_
+
+##### Roger Federer
+### [ Roger Federer wins the U.S. Open defeating Andy Roddick 6-2, 4-6, 7-5, 6-1. ](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.md)
+_Context: Andy Roddick, Roger Federer, U.S. Open_
+
+##### Taufa'ahau Tupou IV
+### [ Taufa'ahau Tupou IV, the King of Tonga, dies at the age of 88 in an Auckland, New Zealand hospital after battling illness. ](/news/2006/09/10/taufa-ahau-tupou-iv-the-king-of-tonga-dies-at-the-age-of-88-in-an-auckland-new-zealand-hospital-after-battling-illness.md)
+_Context: Auckland, King, New Zealand, Taufa'ahau Tupou IV, Tonga_
+
+##### Al-Qaeda
+### [ A lengthy statement from al-Qaeda's second in command, Ayman al-Zawahiri, on the eve of the fifth anniversary of the September 11, 2001 attacks calls on Muslims to step up their resistance against the United States. ](/news/2006/09/10/a-lengthy-statement-from-al-qaeda-s-second-in-command-ayman-al-zawahiri-on-the-eve-of-the-fifth-anniversary-of-the-september-11-2001-att.md)
+_Context: Ayman al-Zawahiri, Muslim, September 11, 2001 attacks, U.S., al-Qaeda_
 
 ## [Previous Day...](/news/2006/09/9/index.md)
 

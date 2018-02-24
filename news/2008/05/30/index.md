@@ -3,49 +3,49 @@ Formats: [HTML](2008/05/30/index.html)  [JSON](2008/05/30/index.json)  [XML](200
 
 ## [2008-05-30](/news/2008/05/30/index.md)
 
-##### Magistrate
-### [ A gunman shoots dead a magistrate and a Perry County, Kentucky, employee before killing himself in a convenience store near Hazard, Kentucky, United States. ](/news/2008/05/30/a-gunman-shoots-dead-a-magistrate-and-a-perry-county-kentucky-employee-before-killing-himself-in-a-convenience-store-near-hazard-kentuck.md)
-_Context: magistrate, United States, Hazard, Perry County, Kentucky_
+##### Silverjet
+### [ Silverjet, an all-business class airline, suspends all flights after entering administration due to rising fuel costs. ](/news/2008/05/30/silverjet-an-all-business-class-airline-suspends-all-flights-after-entering-administration-due-to-rising-fuel-costs.md)
+_Context: Silverjet, business class airline_
 
-##### Agathon Rwasa
-### [ Agathon Rwasa returns to Burundi from exile in Tanzania after an agreement between his Party for the Liberation of the Hutu People and the government. ](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.md)
-_Context: Agathon Rwasa, Party for the Liberation of the Hutu People_
+##### Zimbabwe
+### [ Zimbabwe's Morgan Tsvangirai claims ruling party status as the leader of the opposition Movement for Democratic Change, delivers a "state of the nation" address to elected lawmakers from his party, and promises a "new era of opportunity" for Zimbabwe. ](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.md)
+_Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 
-##### Upper East Side
-### [ A crane collapses in the Upper East Side of New York City resulting in the death of at least two people ](/news/2008/05/30/a-crane-collapses-in-the-upper-east-side-of-new-york-city-resulting-in-the-death-of-at-least-two-people.md)
-_Context: New York City, Upper East Side_
-
-##### Croatian Army
-### [ Former Croatian Army general Mirko Norac is sentenced by a Croatian court to seven years in prison for his role in the 1993 Operation Medak Pocket; Rahim Ademi is acquitted. ](/news/2008/05/30/former-croatian-army-general-mirko-norac-is-sentenced-by-a-croatian-court-to-seven-years-in-prison-for-his-role-in-the-1993-operation-medak.md)
-_Context: Mirko Norac, Croatian Army, government, Rahim Ademi, Operation Medak Pocket_
-
-##### Grupo TACA
-### [ Grupo TACA Flight 390, an Airbus A320 flying from San Salvador, El Salvador, crashes in Tegucigalpa, Honduras, after failing to land due to a wet runway. 18 casualties are reported, including the chairman of the Central American Bank for Economic Integration who suffered a heart attack after the crash. ](/news/2008/05/30/grupo-taca-flight-390-an-airbus-a320-flying-from-san-salvador-el-salvador-crashes-in-tegucigalpa-honduras-after-failing-to-land-due-to.md)
-_Context: San Salvador, Grupo TACA, Central American Bank for Economic Integration, Tegucigalpa, Honduras, Airbus A320, Flight 390, El Salvador_
-
-##### Texas Department of Family and Protective Services
-### [ The Texas Department of Family and Protective Services reaches agreement with some of the families of the YFZ Ranch to start returning the children on Monday. ](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.md)
-_Context: Texas Department of Family and Protective Services, YFZ Ranch_
-
-##### Cyclone Nargis
-### [ Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes-carrying-relief.md)
-_Context: United Nations, Rangoon, Cyclone Nargis, Burma_
+##### Muqtada al-Sadr
+### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
+_Context: Iraq, Muqtada al-Sadr, U.S._
 
 ##### Spain
 ### [ Fishermen in Spain, Portugal and Italy strike to protest against high fuel prices; Spain's economy minister says his government cannot cut fuel taxes, but is looking into ways to help fishermen. ](/news/2008/05/30/fishermen-in-spain-portugal-and-italy-strike-to-protest-against-high-fuel-prices-spain-s-economy-minister-says-his-government-cannot-cut.md)
 _Context: Italy, Portugal, Spain, fuel prices_
 
-##### Muqtada al-Sadr
-### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
-_Context: U.S., Muqtada al-Sadr, Iraq_
+##### Cyclone Nargis
+### [ Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes-carrying-relief.md)
+_Context: Burma, Cyclone Nargis, Rangoon, United Nations_
 
-##### Zimbabwe
-### [ Zimbabwe's Morgan Tsvangirai claims ruling party status as the leader of the opposition Movement for Democratic Change, delivers a "state of the nation" address to elected lawmakers from his party, and promises a "new era of opportunity" for Zimbabwe. ](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.md)
-_Context: Zimbabwe, Morgan Tsvangirai, Movement for Democratic Change_
+##### Texas Department of Family and Protective Services
+### [ The Texas Department of Family and Protective Services reaches agreement with some of the families of the YFZ Ranch to start returning the children on Monday. ](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.md)
+_Context: Texas Department of Family and Protective Services, YFZ Ranch_
 
-##### Silverjet
-### [ Silverjet, an all-business class airline, suspends all flights after entering administration due to rising fuel costs. ](/news/2008/05/30/silverjet-an-all-business-class-airline-suspends-all-flights-after-entering-administration-due-to-rising-fuel-costs.md)
-_Context: Silverjet, business class airline_
+##### Grupo TACA
+### [ Grupo TACA Flight 390, an Airbus A320 flying from San Salvador, El Salvador, crashes in Tegucigalpa, Honduras, after failing to land due to a wet runway. 18 casualties are reported, including the chairman of the Central American Bank for Economic Integration who suffered a heart attack after the crash. ](/news/2008/05/30/grupo-taca-flight-390-an-airbus-a320-flying-from-san-salvador-el-salvador-crashes-in-tegucigalpa-honduras-after-failing-to-land-due-to.md)
+_Context: Airbus A320, Central American Bank for Economic Integration, El Salvador, Flight 390, Grupo TACA, Honduras, San Salvador, Tegucigalpa_
+
+##### Croatian Army
+### [ Former Croatian Army general Mirko Norac is sentenced by a Croatian court to seven years in prison for his role in the 1993 Operation Medak Pocket; Rahim Ademi is acquitted. ](/news/2008/05/30/former-croatian-army-general-mirko-norac-is-sentenced-by-a-croatian-court-to-seven-years-in-prison-for-his-role-in-the-1993-operation-medak.md)
+_Context: Croatian Army, Mirko Norac, Operation Medak Pocket, Rahim Ademi, government_
+
+##### Upper East Side
+### [ A crane collapses in the Upper East Side of New York City resulting in the death of at least two people ](/news/2008/05/30/a-crane-collapses-in-the-upper-east-side-of-new-york-city-resulting-in-the-death-of-at-least-two-people.md)
+_Context: New York City, Upper East Side_
+
+##### Agathon Rwasa
+### [ Agathon Rwasa returns to Burundi from exile in Tanzania after an agreement between his Party for the Liberation of the Hutu People and the government. ](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.md)
+_Context: Agathon Rwasa, Party for the Liberation of the Hutu People_
+
+##### Magistrate
+### [ A gunman shoots dead a magistrate and a Perry County, Kentucky, employee before killing himself in a convenience store near Hazard, Kentucky, United States. ](/news/2008/05/30/a-gunman-shoots-dead-a-magistrate-and-a-perry-county-kentucky-employee-before-killing-himself-in-a-convenience-store-near-hazard-kentuck.md)
+_Context: Hazard, Perry County, Kentucky, U.S., magistrate_
 
 ## [Previous Day...](/news/2008/05/29/index.md)
 

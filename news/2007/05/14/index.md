@@ -3,73 +3,73 @@ Formats: [HTML](2007/05/14/index.html)  [JSON](2007/05/14/index.json)  [XML](200
 
 ## [2007-05-14](/news/2007/05/14/index.md)
 
-##### Philippine general election
-### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine general election, Philippines_
+##### Adilabad
+### [ Twenty four members of a marriage party killed and 30 more injured when their van collides with a truck in the district of Adilabad, in Andhra Pradesh, India. ](/news/2007/05/14/twenty-four-members-of-a-marriage-party-killed-and-30-more-injured-when-their-van-collides-with-a-truck-in-the-district-of-adilabad-in-and.md)
+_Context: Adilabad, Andhra Pradesh, India_
 
-##### Jorge Daniel Castro
-### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
-_Context: Jorge Daniel Castro, wiretapped, Guillermo Chavez, Colombian National Police_
+##### Alaska
+### [ The Alaskan cruise ship "Empress of the North" strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passengers.md)
+_Context: Alaska, Empress of the North, cruise ship, strikes an underwater rock_
 
-##### Death threat
-### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)
-_Context: death threat, ruling party, MHP, Turkey, was mailed, CHP, general elections, Kurdistan Workers Party, Hakkri, DYP, Van_
+##### DaimlerChrysler
+### [ DaimlerChrysler announces it has sold 80.1% of its stake in the Chrysler Group to Cerberus Capital Management, a private equity firm for $7.4 Billion. It is announced that the corporate names are to be changed to "Daimler AG" and "Chrysler Holding LLC". ](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.md)
+_Context: $, Cerberus Capital Management, Chrysler Group, DaimlerChrysler, private equity_
 
-##### Deputy Attorney General
-### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
-_Context: Paul McNulty, Deputy Attorney General, Department of Justice_
-
-##### Palestinian
-### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)
-_Context: Fatah, Hani Kawasmeh, Palestinian, Hamas, ceasefire_
-
-##### U.S. President
-### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: George W. Bush, United States, U.S. President, Auto_
-
-##### Military of the United States
-### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
-_Context: YouTube, Military of the United States, video clips, MySpace_
-
-##### 2007 Pakistan unrest
-### [ 2007 Pakistan unrest: A strike in Pakistan closes shops and clears transport from the roads after two days of violence in Karachi left 41 people dead. ](/news/2007/05/14/2007-pakistan-unrest-a-strike-in-pakistan-closes-shops-and-clears-transport-from-the-roads-after-two-days-of-violence-in-karachi-left-41-p.md)
-_Context: Karachi, 2007 Pakistan unrest, Pakistan_
-
-##### House of Councillors
-### [ The House of Councillors passes rules for revising the pacifist Constitution of Japan, a central goal of Prime Minister Shinzo Abe. ](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.md)
-_Context: House of Councillors, Shinzo Abe, pacifist, Prime Minister of Japan, constitution_
-
-##### Cafe
-### [ Ten people die in an explosion and fire in a cafe in Orsk, Russia. ](/news/2007/05/14/ten-people-die-in-an-explosion-and-fire-in-a-cafe-in-orsk-russia.md)
-_Context: Orsk, Russia, cafe_
-
-##### President
-### [ The President of the Republic of China Chen Shui-bian names Chang Chun-hsiung of the Democratic Progressive Party as the new Premier of the Republic of China. ](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.md)
-_Context: Chang Chun-hsiung, Premier, President, Democratic Progressive Party, Chen Shui-bian_
-
-##### Confirmed
-### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
-_Context: confirmed, Labour Party, Chancellor of the Exchequer, United Kingdom, Gordon Brown_
+##### New species
+### [ A new species of hummingbird is discovered in Colombia. ](/news/2007/05/14/a-new-species-of-hummingbird-is-discovered-in-colombia.md)
+_Context: Colombia, hummingbird, new species_
 
 ##### World Bank Group
 ### [ An ethics panel of the World Bank Group finds that its President Paul Wolfowitz was guilty of violating his contract when arranging a compensation package for Shaha Ali Riza with whom he had a relationship. ](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.md)
 _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_
 
-##### New species
-### [ A new species of hummingbird is discovered in Colombia. ](/news/2007/05/14/a-new-species-of-hummingbird-is-discovered-in-colombia.md)
-_Context: Colombia, new species, hummingbird_
+##### Confirmed
+### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
+_Context: Chancellor of the Exchequer, Gordon Brown, Labour Party, United Kingdom, confirmed_
 
-##### DaimlerChrysler
-### [ DaimlerChrysler announces it has sold 80.1% of its stake in the Chrysler Group to Cerberus Capital Management, a private equity firm for $7.4 Billion. It is announced that the corporate names are to be changed to "Daimler AG" and "Chrysler Holding LLC". ](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.md)
-_Context: Chrysler Group, private equity, Cerberus Capital Management, DaimlerChrysler, $_
+##### President
+### [ The President of the Republic of China Chen Shui-bian names Chang Chun-hsiung of the Democratic Progressive Party as the new Premier of the Republic of China. ](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.md)
+_Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier, President_
 
-##### Alaska
-### [ The Alaskan cruise ship "Empress of the North" strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passengers.md)
-_Context: cruise ship, Alaska, Empress of the North, strikes an underwater rock_
+##### Cafe
+### [ Ten people die in an explosion and fire in a cafe in Orsk, Russia. ](/news/2007/05/14/ten-people-die-in-an-explosion-and-fire-in-a-cafe-in-orsk-russia.md)
+_Context: Orsk, Russia, cafe_
 
-##### Adilabad
-### [ Twenty four members of a marriage party killed and 30 more injured when their van collides with a truck in the district of Adilabad, in Andhra Pradesh, India. ](/news/2007/05/14/twenty-four-members-of-a-marriage-party-killed-and-30-more-injured-when-their-van-collides-with-a-truck-in-the-district-of-adilabad-in-and.md)
-_Context: Andhra Pradesh, Adilabad, India_
+##### House of Councillors
+### [ The House of Councillors passes rules for revising the pacifist Constitution of Japan, a central goal of Prime Minister Shinzo Abe. ](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.md)
+_Context: House of Councillors, Prime Minister of Japan, Shinzo Abe, constitution, pacifist_
+
+##### 2007 Pakistan unrest
+### [ 2007 Pakistan unrest: A strike in Pakistan closes shops and clears transport from the roads after two days of violence in Karachi left 41 people dead. ](/news/2007/05/14/2007-pakistan-unrest-a-strike-in-pakistan-closes-shops-and-clears-transport-from-the-roads-after-two-days-of-violence-in-karachi-left-41-p.md)
+_Context: 2007 Pakistan unrest, Karachi, Pakistan_
+
+##### Military of the United States
+### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
+_Context: Military of the United States, MySpace, YouTube, video clips_
+
+##### President of the United States
+### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
+_Context: Auto, George W. Bush, President of the United States, U.S._
+
+##### Palestinian
+### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)
+_Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
+
+##### Deputy Attorney General
+### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
+_Context: Department of Justice, Deputy Attorney General, Paul McNulty_
+
+##### Death threat
+### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)
+_Context: CHP, DYP, Hakkri, Kurdistan Workers Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
+
+##### Jorge Daniel Castro
+### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
+_Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapped_
+
+##### Philippine general election
+### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
+_Context: Philippine general election, Philippines_
 
 ## [Previous Day...](/news/2007/05/13/index.md)
 

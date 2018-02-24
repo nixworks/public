@@ -3,37 +3,37 @@ Formats: [HTML](2008/02/20/index.html)  [JSON](2008/02/20/index.json)  [XML](200
 
 ## [2008-02-20](/news/2008/02/20/index.md)
 
-##### United States Federal Reserve
-### [ The United States Federal Reserve forecasts lower economic growth for the rest of the year with rising unemployment rates. ](/news/2008/02/20/the-united-states-federal-reserve-forecasts-lower-economic-growth-for-the-rest-of-the-year-with-rising-unemployment-rates.md)
-_Context: United States Federal Reserve_
+##### Space Shuttle
+### [ The Space Shuttle "Atlantis" lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international-sp.md)
+NASA.gov brings you the latest images, videos and news from America&#039;s space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.
 
-##### United States Air Force
-### [ Two United States Air Force F-15 Eagle fighter planes crash in mid-air over the Gulf of Mexico near Florida. ](/news/2008/02/20/two-united-states-air-force-f-15-eagle-fighter-planes-crash-in-mid-air-over-the-gulf-of-mexico-near-florida.md)
-_Context: Florida, United States Air Force, Gulf of Mexico, F-15 Eagle_
+##### Armenia
+### [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md)
+_Context: Armenia, Armenian President, OSCE, Prime Minister, Serzh Sargsyan, presidential election_
 
-##### United States Geological Survey
-### [ The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. ](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.md)
-_Context: United States Geological Survey, Sumatra, Indonesia_
+##### Morocco
+### [ The government of Morocco arrests 23 alleged terrorists, including Mustapha Moatassim, the Secretary General of Alternative Civilization, a political party recognized by the state. ](/news/2008/02/20/the-government-of-morocco-arrests-23-alleged-terrorists-including-mustapha-moatassim-the-secretary-general-of-alternative-civilization-a.md)
+_Context: Alternative Civilization, Morocco, Mustapha Moatassim_
+
+##### Military of the United States
+### [ The United States military imposes a curfew on all personnel on the Japanese island Okinawa following the arrest of a member of the United States Marine Corps on suspicion of rape. ](/news/2008/02/20/the-united-states-military-imposes-a-curfew-on-all-personnel-on-the-japanese-island-okinawa-following-the-arrest-of-a-member-of-the-united.md)
+_Context: Japan, Marine, Military of the United States, Okinawa_
 
 ##### South Korea
 ### [ Seven South Korean servicemen die in a military helicopter crash. ](/news/2008/02/20/seven-south-korean-servicemen-die-in-a-military-helicopter-crash.md)
 _Context: South Korea_
 
-##### Military of the United States
-### [ The United States military imposes a curfew on all personnel on the Japanese island Okinawa following the arrest of a member of the United States Marine Corps on suspicion of rape. ](/news/2008/02/20/the-united-states-military-imposes-a-curfew-on-all-personnel-on-the-japanese-island-okinawa-following-the-arrest-of-a-member-of-the-united.md)
-_Context: Marine, Okinawa, Japan, Military of the United States_
+##### United States Geological Survey
+### [ The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. ](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.md)
+_Context: Indonesia, Sumatra, United States Geological Survey_
 
-##### Morocco
-### [ The government of Morocco arrests 23 alleged terrorists, including Mustapha Moatassim, the Secretary General of Alternative Civilization, a political party recognized by the state. ](/news/2008/02/20/the-government-of-morocco-arrests-23-alleged-terrorists-including-mustapha-moatassim-the-secretary-general-of-alternative-civilization-a.md)
-_Context: Alternative Civilization, Mustapha Moatassim, Morocco_
+##### United States Air Force
+### [ Two United States Air Force F-15 Eagle fighter planes crash in mid-air over the Gulf of Mexico near Florida. ](/news/2008/02/20/two-united-states-air-force-f-15-eagle-fighter-planes-crash-in-mid-air-over-the-gulf-of-mexico-near-florida.md)
+_Context: F-15 Eagle, Florida, Gulf of Mexico, United States Air Force_
 
-##### Armenia
-### [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md)
-_Context: OSCE, presidential election, Serzh Sargsyan, Armenia, Prime Minister, Armenian President_
-
-##### Space Shuttle
-### [ The Space Shuttle "Atlantis" lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international-sp.md)
-NASA.gov brings you the latest images, videos and news from America&#039;s space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.
+##### United States Federal Reserve
+### [ The United States Federal Reserve forecasts lower economic growth for the rest of the year with rising unemployment rates. ](/news/2008/02/20/the-united-states-federal-reserve-forecasts-lower-economic-growth-for-the-rest-of-the-year-with-rising-unemployment-rates.md)
+_Context: United States Federal Reserve_
 
 ## [Previous Day...](/news/2008/02/19/index.md)
 

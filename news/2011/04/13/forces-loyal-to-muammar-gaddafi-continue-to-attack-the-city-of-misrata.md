@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-att
 
 ### [2011-04-13](/news/2011/04/13/index.md)
 
-##### Muammar Gaddafi
+##### Civil war
 # Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. 
 
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.

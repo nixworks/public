@@ -21,7 +21,7 @@ Formats: [HTML](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-a
 
 ### Related:
 
-1. [ Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _Context: IED, Iraq, Iraqi insurgency_
+1. [ Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _Context: Iraq, Iraqi insurgency, roadside bomb_
 2. [A suicide truck bomber detonates his vehicle at the gate of a Patriotic Union of Kurdistan office in Tuz Khormato, Iraq, a second truck bomb detonated as people were gathering around the first one. Over 15 are killed and at least 110 injured. ](/news/2014/06/9/a-suicide-truck-bomber-detonates-his-vehicle-at-the-gate-of-a-patriotic-union-of-kurdistan-office-in-tuz-khormato-iraq-a-second-truck-bomb.md) _Context: Iraq, Tuz Khormato_
 3. [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _Context: Iraq, Tuz Khormato_
 4. [A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-tuz-khormato-saladin-province-iraq.md) _Context: Iraq, Tuz Khormato_
