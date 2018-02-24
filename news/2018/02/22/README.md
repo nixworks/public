@@ -32,7 +32,7 @@ _Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of
 The assailant threw a grenade into the embassy compound before killing himself on Wednesday night.
 
 ##### Syrian Civil War
-### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote was postponed. The death toll since Sunday in the rebel-held Damascus suburb of Eastern Ghouta is more than 400, according to the Syrian Observatory for Human Rights. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-was-postponed-th.md)
+### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote is postponed. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-is-postponed.md)
 The resolution was intended to allow food and medicine to reach a besieged Damascus suburb, where conditions were described as “hell on earth.”
 
 ## [Previous Day...](/news/2018/02/21/index.md)

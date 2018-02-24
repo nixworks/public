@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/23/index.html)  [JSON](2018/02/23/index.json)  [XML](201
 ## [2018-02-23](/news/2018/02/23/index.md)
 
 ##### Politics of Australia
-### [Barnaby Joyce announces his resignation as Deputy Prime Minister of Australia and leader of the National Party of Australia following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-of-australia-and-leader-of-the-national-party-of-australia-following-scanda.md)
+### [Barnaby Joyce announces his resignation as Deputy Prime Minister and leader of the National Party, following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-and-leader-of-the-national-party-following-scandals-involving-an-affair-wi.md)
 • Deputy PM announces he will formally resign at Monday’s party room meeting • Joyce says he has referred allegation of sexual harassment to police
 
 ##### Special Counsel investigation (2017-present)
@@ -12,8 +12,12 @@ Formats: [HTML](2018/02/23/index.html)  [JSON](2018/02/23/index.json)  [XML](201
 _Context: Rick Gates, Special Counsel investigation (2017-present)_
 
 ##### Australia-United States relations
-### [President of the United States Donald Trump met in the White House with the Australian Prime Minister Malcolm Turnbull. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/president-of-the-united-states-donald-trump-met-in-the-white-house-with-the-australian-prime-minister-malcolm-turnbull-trump-indicated-that.md)
+### [U.S. President Donald Trump meets with Australian Prime Minister Malcolm Turnbull in the White House. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/u-s-president-donald-trump-meets-with-australian-prime-minister-malcolm-turnbull-in-the-white-house-trump-indicated-that-there-would-be-ne.md)
 The leaders could face questions about efforts to curb North Korea&#039;s nuclear and missile programs.
+
+##### Rif Dimashq offensive
+### [Syrian government warplanes carry out a sixth day of airstrikes in the rebel-held Ghouta suburbs east of Damascus, killing 32 people as the death toll from a week of bombardment reaches over 400. ](/news/2018/02/23/syrian-government-warplanes-carry-out-a-sixth-day-of-airstrikes-in-the-rebel-held-ghouta-suburbs-east-of-damascus-killing-32-people-as-the.md)
+_Context: Damascus, Ghouta, Rif Dimashq offensive, Syria, airstrike, warplane_
 
 ## [Previous Day...](/news/2018/02/22/index.md)
 

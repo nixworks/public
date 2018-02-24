@@ -4,16 +4,20 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/23/index.md)
 
 ##### Politics of Australia
-### [Barnaby Joyce announces his resignation as Deputy Prime Minister of Australia and leader of the National Party of Australia following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-of-australia-and-leader-of-the-national-party-of-australia-following-scanda.md)
+### [Barnaby Joyce announces his resignation as Deputy Prime Minister and leader of the National Party, following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-and-leader-of-the-national-party-following-scandals-involving-an-affair-wi.md)
 • Deputy PM announces he will formally resign at Monday’s party room meeting • Joyce says he has referred allegation of sexual harassment to police
 
 ##### Special Counsel investigation (2017-present)
 ### [Rick Gates pleads guilty to charges of conspiracy against the United States and making false statements, and agrees to cooperate with the Special Counsel investigation. ](/news/2018/02/23/rick-gates-pleads-guilty-to-charges-of-conspiracy-against-the-united-states-and-making-false-statements-and-agrees-to-cooperate-with-the-sp.md)
 _Context: Rick Gates, Special Counsel investigation (2017-present)_
 
-##### United States-Australia relations
-### [President of the United States Donald Trump met in the White House with the Australian Prime Minister Malcolm Turnbull. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/president-of-the-united-states-donald-trump-met-in-the-white-house-with-the-australian-prime-minister-malcolm-turnbull-trump-indicated-that.md)
+##### Australia-United States relations
+### [U.S. President Donald Trump meets with Australian Prime Minister Malcolm Turnbull in the White House. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/u-s-president-donald-trump-meets-with-australian-prime-minister-malcolm-turnbull-in-the-white-house-trump-indicated-that-there-would-be-ne.md)
 The leaders could face questions about efforts to curb North Korea&#039;s nuclear and missile programs.
+
+##### Rif Dimashq offensive
+### [Syrian government warplanes carry out a sixth day of airstrikes in the rebel-held Ghouta suburbs east of Damascus, killing 32 people as the death toll from a week of bombardment reaches over 400. ](/news/2018/02/23/syrian-government-warplanes-carry-out-a-sixth-day-of-airstrikes-in-the-rebel-held-ghouta-suburbs-east-of-damascus-killing-32-people-as-the.md)
+_Context: Damascus, Ghouta, Rif Dimashq offensive, Syria, airstrike, warplane_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,14 +49,14 @@ _Context: Alexei Navalny, Leonid Volkov, Russian police, Russian presidential el
 
 ##### Politics of Romania
 ### [Romanian Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the National Anticorruption Directorate, Laura Codruta Kovesi. The announcement sparks protests. ](/news/2018/02/22/romanian-justice-minister-tudorel-toader-announces-that-he-would-trigger-the-dismissal-procedures-of-the-chief-prosecutor-of-the-national-an.md)
-_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Tudorel Toader_
+_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania_
 
 ##### Crime in Montenegro
 ### [Montenegrin police identify the perpetrator of a grenade attack on the U.S. embassy in Podgorica which occurred yesterday. According to authorities, he was a veteran of the Armed Forces of Yugoslavia. ](/news/2018/02/22/montenegrin-police-identify-the-perpetrator-of-a-grenade-attack-on-the-u-s-embassy-in-podgorica-which-occurred-yesterday-according-to-auth.md)
 The assailant threw a grenade into the embassy compound before killing himself on Wednesday night.
 
 ##### Syrian Civil War
-### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote was postponed. The death toll since Sunday in the rebel-held Damascus suburb of Eastern Ghouta is more than 400, according to the Syrian Observatory for Human Rights. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-was-postponed-th.md)
+### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote is postponed. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-is-postponed.md)
 The resolution was intended to allow food and medicine to reach a besieged Damascus suburb, where conditions were described as “hell on earth.”
 
 ---
@@ -75,7 +79,7 @@ _Context: Mexico, Playa del Carmen, explosion_
 ### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md)
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
-##### Internal conflict in Myanmar
+##### 2018 Lashio bombing
 ### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two employees and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-employees-and-injuring-22-others.md)
 While global attention has focused on the plight of Rohingya refugees, other long-running ethnic conflicts plague Myanmar’s restive borderlands.
 

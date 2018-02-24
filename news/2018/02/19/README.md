@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Human impact on the environment
 ### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Present", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
-The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
+Nuclear bomb tests potentially mark the start of a new geological epoch: the Anthropocene.
 
 ##### Eurozone
 ### [Spanish Minister of Economy and Competitiveness, Luis de Guindos, is set to be nominated by the Eurogroup to succeed Vtor Constncio as Vice-President of the European Central Bank. ](/news/2018/02/19/spanish-minister-of-economy-and-competitiveness-luis-de-guindos-is-set-to-be-nominated-by-the-eurogroup-to-succeed-vitor-constancio-as-vic.md)
@@ -35,9 +35,9 @@ A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frigh
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
 Police say three people were stabbed Monday afternoon in an attack outside a Tim Hortons restaurant on Ste. Catherine St. and Beaudry.
 
-##### Syrian Civil War
+##### Rif Dimashq offensive
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Damascus, Eastern Ghouta, Syrian Air Force, Syrian Civil War, Syrian Observatory for Human Rights, strikes_
+_Context: Damascus, Ghouta, Rif Dimashq offensive, Syrian Air Force, Syrian Observatory for Human Rights_
 
 ## [Previous Day...](/news/2018/02/18/index.md)
 

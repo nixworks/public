@@ -19,7 +19,7 @@ _Context: Mexico, Playa del Carmen, explosion_
 ### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md)
 Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
 
-##### Internal conflict in Myanmar
+##### 2018 Lashio bombing
 ### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two employees and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-employees-and-injuring-22-others.md)
 While global attention has focused on the plight of Rohingya refugees, other long-running ethnic conflicts plague Myanmar’s restive borderlands.
 

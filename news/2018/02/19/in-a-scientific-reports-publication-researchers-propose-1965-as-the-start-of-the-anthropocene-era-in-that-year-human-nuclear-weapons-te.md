@@ -6,13 +6,13 @@ Formats: [HTML](/news/2018/02/19/in-a-scientific-reports-publication-researchers
 ##### Human impact on the environment
 # In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Present", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. 
 
-The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
+Nuclear bomb tests potentially mark the start of a new geological epoch: the Anthropocene.
 
 
 ### Sources:
 
-1. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-5401139/amp/The-year-humans-began-causing-irreversible-damage-Earth.html)
-1. [Cover Image](http://i.dailymail.co.uk/i/newpix/2018/02/19/09/495F3CA000000578-0-image-a-3_1519032598907.jpg)
+1. [The Conversation](http://theconversation.com/anthropocene-began-in-1965-according-to-signs-left-in-the-worlds-loneliest-tree-91993)
+1. [Cover Image](https://images.theconversation.com/files/206946/original/file-20180219-75979-1wton43.jpg?ixlib=rb-1.1.0&amp;rect=0%2C413%2C4608%2C2304&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop)
 
 ### Changes:
 
