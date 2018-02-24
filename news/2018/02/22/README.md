@@ -11,7 +11,7 @@ A novel deal with donors including Leonardo DiCaprio turned public debt into con
 ### [California State Senator Tony Mendoza resigns after being investigated over sexual harassment claims. ](/news/2018/02/22/california-state-senator-tony-mendoza-resigns-after-being-investigated-over-sexual-harassment-claims.md)
 Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an expulsion vote. He is the third legislator in the state to resign over sexual allegations.
 
-##### Trump administration
+##### Presidency of Donald Trump
 ### [The Trump administration through the U.S. Justice Department announces charges filed against more than 250 defendants in senior-citizen fraud schemes totaling $500 million. ](/news/2018/02/22/the-trump-administration-through-the-u-s-justice-department-announces-charges-filed-against-more-than-250-defendants-in-senior-citizen-frau.md)
 More than 250 people are facing charges following a large elder fraud sweep led by the Justice Department. 
 
