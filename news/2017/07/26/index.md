@@ -3,13 +3,17 @@ Formats: [HTML](2017/07/26/index.html)  [JSON](2017/07/26/index.json)  [XML](201
 
 ## [2017-07-26](/news/2017/07/26/index.md)
 
+##### Corruption in Spain
+### [Spanish Prime Minister, Mariano Rajoy, testify in Audiencia Nacional as a witness in the framework of the investigation into the Gurtel corruption scandal, of the financing of his party. It is the first PM in Spain in service to attend a trial. Although he benefited from this corruption scheme, he denied any knowledge. This situation prompted a no-confidence motion against Rajoy's government, which was debated on 13 June and defeated as expected on 14 June ](/news/2017/07/26/spanish-prime-minister-mariano-rajoy-testify-in-audiencia-nacional-as-a-witness-in-the-framework-of-the-investigation-into-the-ga1-4rtel-cor.md)
+He vociferously denies any part in an alleged illegal financing scheme swirling around his party.
+
 ##### Efforts to repeal Obamacare
 ### [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md)
 The legislative showdown will continue Wednesday as the Senate considers various measures to replace the health law.
 
 ##### Sexual orientation and gender identity in the United States military
 ### [U.S. President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/u-s-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-armed-forc.md)
-_Context: Donald Trump, President of the United States, Sexual orientation and gender identity in the United States military, Twitter, United States military personnel, transgender_
+_Context: Donald Trump, Sexual orientation and gender identity in the United States military, Twitter, U.S. President, United States military personnel, transgender_
 
 ##### Crime in Alaska
 ### [A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detaine.md)
