@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/23/index.md)
+## [News](/news/2018/02/24/index.md)
+
+##### Somali Civil War (2009-present)
+### [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md)
+At least 38 people are killed in Mogadishu in attacks claimed by the al-Shabab militant group.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/23/index.md)
 
 ##### Politics of Australia
 ### [Barnaby Joyce announces his resignation as Deputy Prime Minister and leader of the National Party, following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-and-leader-of-the-national-party-following-scandals-involving-an-affair-wi.md)
@@ -19,13 +31,9 @@ The leaders could face questions about efforts to curb North Korea&#039;s nuclea
 ### [Syrian government warplanes carry out a sixth day of airstrikes in the rebel-held Ghouta suburbs east of Damascus, killing 32 people as the death toll from a week of bombardment reaches over 400. ](/news/2018/02/23/syrian-government-warplanes-carry-out-a-sixth-day-of-airstrikes-in-the-rebel-held-ghouta-suburbs-east-of-damascus-killing-32-people-as-the.md)
 _Context: Damascus, Ghouta, Rif Dimashq offensive, Syria, airstrike, warplane_
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/02/22/index.md)
+## [Day Before Yesterday](/news/2018/02/22/index.md)
 
 ##### National debt
 ### [In exchange for some of its national debt being written off, the Seychelles designates two new marine protected areas in the Indian Ocean, covering about 210000 km2. It is the result of a financial deal, brokered in 2016 by The Nature Conservancy. ](/news/2018/02/22/in-exchange-for-some-of-its-national-debt-being-written-off-the-seychelles-designates-two-new-marine-protected-areas-in-the-indian-ocean-c.md)
@@ -65,39 +73,7 @@ The resolution was intended to allow food and medicine to reach a besieged Damas
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/21/index.md)
-
-##### Stoneman Douglas High School shooting
-### [U.S. President Donald Trump meets in the White House State Dining Room with parents and friends of young people killed in school shootings to discuss what needs to be done. Suggestions for the president included a number of items to make schools safer, and for Trump to "put politics aside" and back gun control measures. ](/news/2018/02/21/u-s-president-donald-trump-meets-in-the-white-house-state-dining-room-with-parents-and-friends-of-young-people-killed-in-school-shootings-t.md)
-At a White House event, parents and students impacted by gun violence implored President Donald Trump for &quot;change&quot; in the aftermath of yet another mass shooting.
-
-##### Foreign relations of South Korea
-### [South Korea signs free trade agreements with the Central American countries of Costa Rica, El Salvador, Honduras, Nicaragua, and Panama to eliminate duties on about 95% of traded goods and services. ](/news/2018/02/21/south-korea-signs-free-trade-agreements-with-the-central-american-countries-of-costa-rica-el-salvador-honduras-nicaragua-and-panama-to-e.md)
-South Korea said on Wednesday it is signing free trade agreements with five Central American nations aimed at boosting market access for the Korean auto sector and electronics makers.
-
-##### Explosion
-### [A ferry explosion at the Playa del Carmen's pier in Mexico injures 18 people. None of the injuries appear to be life-threatening. ](/news/2018/02/21/a-ferry-explosion-at-the-playa-del-carmen-s-pier-in-mexico-injures-18-people-none-of-the-injuries-appear-to-be-life-threatening.md)
-_Context: Mexico, Playa del Carmen, explosion_
-
-##### Pan-American Highway
-### [A coach transiting the Pan-American Highway plunges off the road in Arequipa, Peru, killing 44 people. ](/news/2018/02/21/a-coach-transiting-the-pan-american-highway-plunges-off-the-road-in-arequipa-peru-killing-44-people.md)
-Emergency officials say at least 35 people died when the coach plummeted off the highway at night.
-
-##### 2018 Lashio bombing
-### [A bomb explodes at a bank in Lashio, Shan State, in northern Myanmar, killing two employees and injuring 22 others. ](/news/2018/02/21/a-bomb-explodes-at-a-bank-in-lashio-shan-state-in-northern-myanmar-killing-two-employees-and-injuring-22-others.md)
-While global attention has focused on the plight of Rohingya refugees, other long-running ethnic conflicts plague Myanmar’s restive borderlands.
-
-##### Boko Haram insurgency
-### [The Nigerian military rescues 76 schoolgirls taken on Monday during a Boko Haram raid on the village of Dapchi, Yobe State. The bodies of two girls were recovered, and at least thirteen other students remain missing. ](/news/2018/02/21/the-nigerian-military-rescues-76-schoolgirls-taken-on-monday-during-a-boko-haram-raid-on-the-village-of-dapchi-yobe-state-the-bodies-of-tw.md)
-The Nigerian military rescued 76 schoolgirls and recovered the bodies of two others on Wednesday, after the students went missing during a Boko Haram attack on a village, three parents, a resident and a local government official told Reuters.
-
-##### Operation Barkhane
-### [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md)
-Two&#x20;French&#x20;soldiers&#x20;were&#x20;killed&#x20;after&#x20;their&#x20;armoured&#x20;vehicle&#x20;was&#x20;hit&#x20;by&#x20;an&#x20;explosive&#x20;device&#x20;in&#x20;Mali,&#x20;the&#x20;French&#x20;president&#x27;s&#x20;office&#x20;said&#x20;on&#x20;Wednesday.
-
----
-
-## [Previous Day...](/news/2018/02/20/index.md)
+## [Previous Day...](/news/2018/02/21/index.md)
 
 ---
 
