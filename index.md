@@ -35,7 +35,11 @@ A novel deal with donors including Leonardo DiCaprio turned public debt into con
 ### [California State Senator Tony Mendoza resigns after being investigated over sexual harassment claims. ](/news/2018/02/22/california-state-senator-tony-mendoza-resigns-after-being-investigated-over-sexual-harassment-claims.md)
 Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an expulsion vote. He is the third legislator in the state to resign over sexual allegations.
 
-##### U.S. Special Counsel investigation
+##### Trump administration
+### [The Trump administration through the U.S. Justice Department announces charges filed against more than 250 defendants in senior-citizen fraud schemes totaling $500 million. ](/news/2018/02/22/the-trump-administration-through-the-u-s-justice-department-announces-charges-filed-against-more-than-250-defendants-in-senior-citizen-frau.md)
+More than 250 people are facing charges following a large elder fraud sweep led by the Justice Department. 
+
+##### Special Counsel investigation (2017-present)
 ### [Special Counsel Robert Mueller files a 32-count indictment against political consultant and lobbyist Paul Manafort and his aide Rick Gates in the Eastern District of Virginia for multiple crimes including tax evasion and bank fraud. ](/news/2018/02/22/special-counsel-robert-mueller-files-a-32-count-indictment-against-political-consultant-and-lobbyist-paul-manafort-and-his-aide-rick-gates-i.md)
 A federal grand jury in Virginia has handed up a new 32-count indictment against former Trump campaign chairman Paul Manafort and his former top aide, Rick Gates. In all, the two men face 16 counts related to filing false individual income tax returns, seven counts of failure to file reports of...
 
