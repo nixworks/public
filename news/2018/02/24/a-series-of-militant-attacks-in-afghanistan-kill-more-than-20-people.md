@@ -11,7 +11,7 @@ A series of militant attacks in Afghanistan killed more than 20 people, official
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-afghanistan-attack/more-than-20-killed-in-attacks-in-afghanistan-idUSKCN1G807U?il=0)
+1. [Reuters](https://www.reuters.com/article/us-afghanistan-attack/more-than-20-killed-in-attacks-in-afghanistan-idUSKCN1G807U)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

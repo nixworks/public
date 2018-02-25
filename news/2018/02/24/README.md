@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/24/index.html)  [JSON](2018/02/24/index.json)  [XML](201
 ## [2018-02-24](/news/2018/02/24/index.md)
 
 ##### Nunes memo
-### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the February 2 Devin Nunes memo is released. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-february-2-devin-nunes-memo.md)
+### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the Republican memo released on February 2. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-republican-memo-released-on.md)
 The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
 
 ##### Stoneman Douglas High School shooting
@@ -16,7 +16,7 @@ The school shooting in Florida has led to fresh calls for tougher gun controls i
 A series of militant attacks in Afghanistan killed more than 20 people, officials said on Saturday, ahead of an international meeting next week aimed at building diplomatic support for hoped-for peace talks with the Taliban.
 
 ##### Yemeni Civil War (2015-present)
-### [Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden kills at least 14 people and wounds 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-tried-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-kills.md)
+### [Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-tried-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killi.md)
 At least 14 people were killed and 40 wounded when Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden on Saturday, security and medical sources said.
 
 ##### Syrian Civil War
