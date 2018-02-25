@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/24/several-companies-including-first-national-bank
 ### [2018-02-24](/news/2018/02/24/index.md)
 
 ##### Stoneman Douglas High School shooting
-# Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. 
+# Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. 
 
 The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
 
@@ -18,7 +18,7 @@ The school shooting in Florida has led to fresh calls for tougher gun controls i
 ### Changes:
 
 1. [Several companies, including First National Bank of Omaha, Hertz, United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-shootin.md) _2018-02-24 22:30:08 (First version)_
-1. [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md) _(Current version)_
+1. [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md) _(Current version)_
 
 ### Related:
 

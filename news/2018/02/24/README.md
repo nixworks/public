@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/24/index.html)  [JSON](2018/02/24/index.json)  [XML](201
 The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
 
 ##### Stoneman Douglas High School shooting
-### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
+### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
 The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
 
 ##### War in Afghanistan (2001-present)
