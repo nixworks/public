@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/14/the-united-nations-security-council-calls-for-a
 
 ### [2011-02-14](/news/2011/02/14/index.md)
 
-##### United Nations Security Council
+##### Security Council
 # The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. 
 
 

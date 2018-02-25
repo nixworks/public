@@ -23,9 +23,9 @@ _Context: Abdel Fattah el-Sisi, civil rights, freedom of the press_
 ### [The U.S. Internal Revenue Service, which announced an extensive computer data breach in May 2015, reveals that the breach is much deeper and more serious, exposing an additional 220,000 individuals. The thieves had infiltrated a now-deactivated online system called "Get Transcript." ](/news/2015/08/17/the-u-s-internal-revenue-service-which-announced-an-extensive-computer-data-breach-in-may-2015-reveals-that-the-breach-is-much-deeper-and.md)
 _Context: Internal Revenue Service_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council unanimously approves a statement backing intensive talks on key issues aimed at restoring peace in Syria. ](/news/2015/08/17/the-united-nations-security-council-unanimously-approves-a-statement-backing-intensive-talks-on-key-issues-aimed-at-restoring-peace-in-syria.md)
-_Context: United Nations Security Council_
+_Context: Security Council_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates approves plans for the construction of the first Hindu temple in that country, after a visit by Indian Prime Minister Narendra Modi. ](/news/2015/08/17/the-united-arab-emirates-approves-plans-for-the-construction-of-the-first-hindu-temple-in-that-country-after-a-visit-by-indian-prime-minist.md)

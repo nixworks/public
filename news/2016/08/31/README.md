@@ -67,7 +67,7 @@ _Context: Anclote River, Destin, Florida, Florida Governor, Georgia, National Hu
 ### [At least two rivers break embankments, causing floods on the northern Japanese island of Hokkaido. Operations are underway to rescue 400 stranded people. On Honshu Island, at least 11 people, including nine elderly from a nursing home, have died. ](/news/2016/08/31/at-least-two-rivers-break-embankments-causing-floods-on-the-northern-japanese-island-of-hokkaido-operations-are-underway-to-rescue-400-str.md)
 _Context: Hokkaido, Honshu Island, Japan, Typhoon Lionrock_
 
-##### United Airlines
+##### United
 ### [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md)
 Twelve people are taken to hospital after transatlantic turbulence prompts an emergency landing at Shannon Airport.
 

@@ -3,9 +3,9 @@ Formats: [HTML](2010/12/6/index.html)  [JSON](2010/12/6/index.json)  [XML](2010/
 
 ## [2010-12-6](/news/2010/12/6/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md)
-_Context: Barack Obama, George W. Bush, President of the United States, Republican_
+_Context: Barack Obama, George W. Bush, Republican, U.S. President_
 
 ##### French
 ### [A French court finds Continental Airlines criminally responsible for the crash of Air France Flight 4590 in July 2000. ](/news/2010/12/6/a-french-court-finds-continental-airlines-criminally-responsible-for-the-crash-of-air-france-flight-4590-in-july-2000.md)

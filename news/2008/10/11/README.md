@@ -49,7 +49,7 @@ _Context: International Monetary Fund, housing crisis_
 
 ##### U.S.
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, President of the United States, U.S._
+_Context: G7, George W. Bush, U.S., U.S. President_
 
 ## [Previous Day...](/news/2008/10/10/index.md)
 

@@ -49,7 +49,7 @@ _Context: Italian Prime Minister, Romano Prodi, Senate of Italy_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david-l.md)
-_Context: Arizona, John McCain, Late Show with David Letterman, President of the United States, Republican, United States Senate, presidential candidate_
+_Context: Arizona, John McCain, Late Show with David Letterman, Republican, U.S. President, United States Senate, presidential candidate_
 
 ##### Marthinus van Schalkwyk
 ### [ Marthinus van Schalkwyk, the South African Minister for the Environment, releases a plan to control the elephant population which contains culling as a last resort. ](/news/2007/02/28/marthinus-van-schalkwyk-the-south-african-minister-for-the-environment-releases-a-plan-to-control-the-elephant-population-which-contains.md)

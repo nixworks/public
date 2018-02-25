@@ -9,7 +9,7 @@ Two protesters were killed and 13 others wounded in Togo on Saturday when securi
 
 ##### Political appointments by Donald Trump
 ### [Pastor A.R. Bernard becomes the first religious leader to resign from the president's evangelical advisory board. ](/news/2017/08/19/pastor-a-r-bernard-becomes-the-first-religious-leader-to-resign-from-the-president-s-evangelical-advisory-board.md)
-_Context: A.R. Bernard, Political appointments by Donald Trump, President of the United States_
+_Context: A.R. Bernard, Political appointments by Donald Trump, U.S. President_
 
 ##### Politics of Nigeria
 ### [Nigerian state television reports that President Muhammadu Buhari is back in the country after a three-month sick leave in Britain. ](/news/2017/08/19/nigerian-state-television-reports-that-president-muhammadu-buhari-is-back-in-the-country-after-a-three-month-sick-leave-in-britain.md)
@@ -41,7 +41,7 @@ The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) po
 
 ##### Syrian Civil War
 ### [A day after a Russian sponsored ceasefire with a rebel group agreed a halt of fighting in the last opposition enclave in the capital, Syrian government airplanes and artillery strike rebel-held eastern Damascus suburbs and Ghouta with barrel bombs, killing at least five civilians in the towns of Hamouriya and Zalamka with several case of suffocation from rockets filled with chlorine that were fired at the front lines of Jobar and Ain Terma. ](/news/2017/08/19/a-day-after-a-russian-sponsored-ceasefire-with-a-rebel-group-agreed-a-halt-of-fighting-in-the-last-opposition-enclave-in-the-capital-syrian.md)
-_Context: Damascus, Eastern Ghouta, Syrian Civil War_
+_Context: Damascus, Ghouta, Syrian Civil War_
 
 ##### Terrorism in Russia
 ### [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims-responsibility-for-th.md)

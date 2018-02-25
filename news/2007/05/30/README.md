@@ -11,9 +11,9 @@ _Context: India, Rajasthan, state_
 ### [ Thailand's Constitutional Court clears the Democrat Party of electoral fraud, but finds former Prime Minister Thaksin Shinawatra's Thai Rak Thai party guilty of bribery and rules it must be disbanded. ](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.md)
 Thai judges ordered the party of ousted Prime Minister Thaksin Shinawatra disbanded on Wednesday after it was found guilty of breaking election laws.
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. ](/news/2007/05/30/the-united-nations-security-council-establishes-an-international-tribunal-to-try-suspects-in-the-killings-of-lebanese-political-figures-inc.md)
-_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Special Tribunal for Lebanon, United Nations Security Council_
+_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Security Council, Special Tribunal for Lebanon_
 
 ##### CH-47 Chinook
 ### [ A CH-47 Chinook helicopter on a NATO mission in Helmand Province, southern Afghanistan, is shot down killing all seven service personnel (5 American, 1 Canadian and 1 British) aboard. Taliban fighters claim responsibility for the attack. ](/news/2007/05/30/a-ch-47-chinook-helicopter-on-a-nato-mission-in-helmand-province-southern-afghanistan-is-shot-down-killing-all-seven-service-personnel-5.md)

@@ -23,7 +23,7 @@ _Context: Mohamed Siad Barre, Somali Civil War, Somalia, United Kingdom_
 ### [The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/the-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying-confidence-that-t.md)
 _Context: Chuck Hagel, Government of Syria, Israel, Syrian civil war, United Kingdom, United States Secretary of Defence, sarin gas_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/the-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-and-african-forces-battling-islamist-guerri.md)
 THE UN Security Council has unanimously backed sending up to 12,600 international troops and police to take over from French and African forces battling Islamist guerrillas in Mali.
 

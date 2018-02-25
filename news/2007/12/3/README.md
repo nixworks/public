@@ -9,7 +9,7 @@ _Context: John Howard, Kyoto Protocol, economic_
 
 ##### Kevin Rudd
 ### [ Kevin Rudd is sworn in as the 26th Prime Minister of Australia by Governor-General Maj. Gen. Michael Jeffery. ](/news/2007/12/3/kevin-rudd-is-sworn-in-as-the-26th-prime-minister-of-australia-by-governor-general-maj-gen-michael-jeffery.md)
-_Context: Australia, Australian Prime Minister, Governor-General of Australia, Kevin Rudd, Michael Jeffery_
+_Context: Australia, Governor-General of Australia, Kevin Rudd, Michael Jeffery, Prime Minister_
 
 ##### Muttiah Muralitharan
 ### [ Muttiah Muralitharan of Sri Lanka breaks Shane Warne's record to become test cricket's leading wicket-taker. ](/news/2007/12/3/muttiah-muralitharan-of-sri-lanka-breaks-shane-warne-s-record-to-become-test-cricket-s-leading-wicket-taker.md)

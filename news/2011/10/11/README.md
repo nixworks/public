@@ -3,7 +3,7 @@ Formats: [HTML](2011/10/11/index.html)  [JSON](2011/10/11/index.json)  [XML](201
 
 ## [2011-10-11](/news/2011/10/11/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama's "jobs bill" stalls in the Senate. ](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.md)
 The W.H. is defeated on its economic initiative after two moderate Democrats join a united GOP front.
 

@@ -31,9 +31,9 @@ _Context: Lord Dubs, Succession to the Crown Bill_
 ### [ The British Law Lords hold treatment of Czech Romani by UK immigration officers at Prague Airport to be discriminatory. ](/news/2004/12/9/the-british-law-lords-hold-treatment-of-czech-romani-by-uk-immigration-officers-at-prague-airport-to-be-discriminatory.md)
 _Context: Czech Republic, Law Lords, Prague Airport, Roma, immigration_
 
-##### United Nations Security Council
+##### Security Council
 ### [ Japan and Germany have jointly declared they want permanent seats on the United Nations Security Council with the veto power of the five current permanent members.](/news/2004/12/9/japan-and-germany-have-jointly-declared-they-want-permanent-seats-on-the-united-nations-security-council-with-the-veto-power-of-the-five-cu.md)
-_Context: United Nations Security Council_
+_Context: Security Council_
 
 ## [Previous Day...](/news/2004/12/8/index.md)
 

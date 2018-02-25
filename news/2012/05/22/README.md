@@ -13,7 +13,7 @@ The first female commander of a major Royal Navy (RN) warship is taking up her p
 
 ##### US state
 ### [Voters in the US states of Arkansas and Kentucky go to the polls, with Mitt Romney winning the Republican primaries, and President Barack Obama winning but performing relatively poorly against token opposition in the Democratic primaries. ](/news/2012/05/22/voters-in-the-us-states-of-arkansas-and-kentucky-go-to-the-polls-with-mitt-romney-winning-the-republican-primaries-and-president-barack-ob.md)
-_Context: Arkansas, Barack Obama, Democratic primaries, Kentucky, Mitt Romney, President of the United States, Republican primaries, US state_
+_Context: Arkansas, Barack Obama, Democratic primaries, Kentucky, Mitt Romney, Republican primaries, U.S. President, US state_
 
 ##### Burma
 ### [The Burmese government appeals for "understanding" after rare protests in Mandalay and Yangon over power shortages. ](/news/2012/05/22/the-burmese-government-appeals-for-understanding-after-rare-protests-in-mandalay-and-yangon-over-power-shortages.md)

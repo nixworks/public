@@ -17,7 +17,7 @@ _Context: 2010, Cologne, Gay Games_
 
 ##### United States House of Representatives
 ### [U.S. Rep. Don Young R-Alaska claims that he has been cleared in a United States Department of Justice corruption probe. ](/news/2010/08/4/u-s-rep-don-young-r-alaska-claims-that-he-has-been-cleared-in-a-united-states-department-of-justice-corruption-probe.md)
-_Context: Alaska, Department of Justice, Don Young, Republican, United States House of Representatives, corruption_
+_Context: Alaska, Don Young, Republican, U.S. Justice Department, United States House of Representatives, corruption_
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: Ivo Opstelten, the chairman of the People's Party for Freedom and Democracy, is appointed the new informateur, tasked with finalizing the formation of a right-wing minority coalition cabinet. ](/news/2010/08/4/cabinet-formation-in-the-netherlands-ivo-opstelten-the-chairman-of-the-people-s-party-for-freedom-and-democracy-is-appointed-the-new-info.md)

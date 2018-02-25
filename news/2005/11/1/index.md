@@ -31,9 +31,9 @@ _Context: Al Aqsa Martyrs Brigade, Gaza Strip, Hamas, Israel, Israeli-Palestinia
 ### [ Zanzibar's ruling Chama Cha Mapinduzi party and President Amani Abeid Karume are declared re-elected in a disputed election. Police clashed with opposition supporters, leaving 9 dead. ](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.md)
 _Context: Amani Abeid Karume, Chama Cha Mapinduzi, President, Zanzibar_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md)
-_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Syria, UNSC resolution, United Nations Security Council, assassination_
+_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Security Council, Syria, UNSC resolution, assassination_
 
 ##### Moons
 ### [ The discovery of two additional moons of Pluto is announced. ](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.md)

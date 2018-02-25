@@ -27,7 +27,7 @@ A supporter of accused leaker Bradley Manning is suing the U.S. government for c
 ### [A human rights group urges Iranian authorities not to put acid in the eyes of a man found guilty of blinding a woman who scorned him; a seni-official Iranian news agency reports that the punishment has been postponed. ](/news/2011/05/14/a-human-rights-group-urges-iranian-authorities-not-to-put-acid-in-the-eyes-of-a-man-found-guilty-of-blinding-a-woman-who-scorned-him-a-seni.md)
 A human rights group on Saturday urged Iranian authorities not to put acid in the eyes of a man found guilty of blinding a woman who scorned him.
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The US Justice Department says that two South Florida imams and a third family member were arrested on charges of providing support to the Pakistani Taliban. ](/news/2011/05/14/the-us-justice-department-says-that-two-south-florida-imams-and-a-third-family-member-were-arrested-on-charges-of-providing-support-to-the-p.md)
 Two South Florida imams and a third family member were arrested Saturday on charges of providing support to the Pakistani Taliban, the Justice Department said.
 
@@ -47,7 +47,7 @@ They busted the dike, and the water poured through -- slowly.
 ### [A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md)
 A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama uses his weekly address to vow to seek oil in Alaska and in the Gulf of Mexico. ](/news/2011/05/14/president-of-the-united-states-barack-obama-uses-his-weekly-address-to-vow-to-seek-oil-in-alaska-and-in-the-gulf-of-mexico.md)
 The US will grant new leases to drill for oil in Alaska and the Gulf of Mexico to try to boost output and cap fuel prices, President Obama says.
 

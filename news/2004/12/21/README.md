@@ -49,7 +49,7 @@ _Context: Baghdad, Prime Minister, Tony Blair_
 
 ##### Arab-Israeli Conflict
 ### [ Arab-Israeli Conflict: The leaders of the Gulf Co-operation Council (GCC) urge US President George W. Bush to make the creation of an independent Palestinian state an absolute priority at their annual meeting, which is being held in Bahrain. ](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.md)
-_Context: Arab-Israeli Conflict, Bahrain, George W. Bush, Gulf Co-operation Council, Palestinian state, President of the United States_
+_Context: Arab-Israeli Conflict, Bahrain, George W. Bush, Gulf Co-operation Council, Palestinian state, U.S. President_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: The Supreme Court of Newfoundland and Labrador finds the banning of same-sex marriage unconstitutional, making that province the eighth of Canada's provinces and territories to legalize same-sex marriage. ](/news/2004/12/21/same-sex-marriage-in-canada-the-supreme-court-of-newfoundland-and-labrador-finds-the-banning-of-same-sex-marriage-unconstitutional-making.md)

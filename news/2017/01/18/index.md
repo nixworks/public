@@ -27,9 +27,9 @@ _Context: Cancun, Mexican Police, Quintana Roo_
 ### [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md)
 Mayor Sadiq Khan today put London on toxic air alert for at least three days. City Hall sent out warnings that air pollution could rise today to “moderate” in 17 boroughs and the City. It is then set to hit a “high” peak in Westminster and the Square Mile tomorrow before reducing to “moder...
 
-##### President of the United States
+##### U.S. President
 ### [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md)
-_Context: Barbara, George H. W. Bush, Houston Methodist San Jacinto Hospital, President of the United States, intensive care, pneumonia_
+_Context: Barbara, George H. W. Bush, Houston Methodist San Jacinto Hospital, U.S. President, intensive care, pneumonia_
 
 ##### January 2017 Central Italy earthquakes
 ### [Four earthquakes of magnitude 5.1 or higher strike near Amatrice, Italy, forcing evacuation of some schools and the Rome Metro. No deaths are reported from the quakes. ](/news/2017/01/18/four-earthquakes-of-magnitude-5-1-or-higher-strike-near-amatrice-italy-forcing-evacuation-of-some-schools-and-the-rome-metro-no-deaths-ar.md)

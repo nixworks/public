@@ -27,9 +27,9 @@ _Context: Eindhoven, European Swimming Championships, Federica Pellegrini, Italy
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
 _Context: FBI, Iraq, U.S., kidnap_
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)
-_Context: Department of Justice, Sirius Satellite Radio, XM Satellite Radio, merger_
+_Context: Sirius Satellite Radio, U.S. Justice Department, XM Satellite Radio, merger_
 
 ##### Bhutan Peace and Prosperity Party
 ### [ The Bhutan Peace and Prosperity Party wins Bhutan's first democratic general election, making Lyonpo Jigme Thinley the new Prime Minister elect. ](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.md)

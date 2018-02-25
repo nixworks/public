@@ -53,7 +53,7 @@ _Context: Caribou Coffee, Chicago_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: A$, Australia, Australia-China relations, Australian Prime Minister, Chinese, Julia Gillard, Shanghai, currency, yuan_
+_Context: A$, Australia, Australia-China relations, Chinese, Julia Gillard, Prime Minister, Shanghai, currency, yuan_
 
 ##### Chinese
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)

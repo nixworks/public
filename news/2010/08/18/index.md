@@ -129,7 +129,7 @@ The American Ballet Theatre company is to perform in Cuba later this year for th
 
 ##### U.S.
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Barack Obama, Mexico, President of the United States, U.S._
+_Context: Barack Obama, Mexico, U.S., U.S. President_
 
 ##### India
 ### [3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. ](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.md)

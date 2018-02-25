@@ -33,7 +33,7 @@ The outcome was a sharp rebuke to Tony Blair and an embarrassing debut for Gordo
 
 ##### Prime Minister of Singapore
 ### [ The Prime Minister of Singapore Lee Hsien Loong visits Washington D.C. for talks with the President of the United States George W. Bush about South East Asia. ](/news/2007/05/4/the-prime-minister-of-singapore-lee-hsien-loong-visits-washington-d-c-for-talks-with-the-president-of-the-united-states-george-w-bush-abo.md)
-_Context: George W. Bush, Lee Hsien Loong, President of the United States, Prime Minister of Singapore, South East Asia, Washington D.C._
+_Context: George W. Bush, Lee Hsien Loong, Prime Minister of Singapore, South East Asia, U.S. President, Washington D.C._
 
 ##### Ariane 5
 ### [ A heavy-lift "Ariane 5" rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. ](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.md)

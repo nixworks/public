@@ -13,7 +13,7 @@ _Context: Fifth, Port-of-Spain, Summit of the Americas, Trinidad and Tobago_
 
 ##### U.S.
 ### [ United States President Barack Obama announces that Central Intelligence Agency personnel who employed enhanced interrogation techniques on terrorism suspects will not be prosecuted. ](/news/2009/04/19/united-states-president-barack-obama-announces-that-central-intelligence-agency-personnel-who-employed-enhanced-interrogation-techniques-on.md)
-_Context: Barack Obama, CIA, President of the United States, U.S., enhanced interrogation techniques, terrorism_
+_Context: Barack Obama, CIA, U.S., U.S. President, enhanced interrogation techniques, terrorism_
 
 ##### Corrections officer
 ### [ Eight corrections officers are killed in an ambush during a prisoner transfer in Nayarit, Mexico. ](/news/2009/04/19/eight-corrections-officers-are-killed-in-an-ambush-during-a-prisoner-transfer-in-nayarit-mexico.md)

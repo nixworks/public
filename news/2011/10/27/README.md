@@ -59,7 +59,7 @@ _Context: Pakistan, Peshawar_
 ### [18 people are killed and at least 36 wounded by twin bombings in the Iraqi capital Baghdad. ](/news/2011/10/27/18-people-are-killed-and-at-least-36-wounded-by-twin-bombings-in-the-iraqi-capital-baghdad.md)
 Eighteen people have been killed in a twin bombing in Baghdad, Iraqi police and health officials said.
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated-on-october-31.md)
 The UN Security Council votes to end seven months of international military action in Libya, carried out under a mandate to protect civilians.
 

@@ -3,7 +3,7 @@ Formats: [HTML](2013/06/17/index.html)  [JSON](2013/06/17/index.json)  [XML](201
 
 ## [2013-06-17](/news/2013/06/17/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [Confidence in President Barack Obama drops below 50%, its lowest level in 19 months as Americans worry over broad government surveillance and other controversies. ](/news/2013/06/17/confidence-in-president-barack-obama-drops-below-50-its-lowest-level-in-19-months-as-americans-worry-over-broad-government-surveillance-an.md)
 Confidence in US President Barack Obama has dropped below 50% to its lowest level in 19 months as Americans worry over broad government surveillance and other controversies, a poll shows.
 

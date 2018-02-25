@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/25/index.html)  [JSON](2015/06/25/index.json)  [XML](201
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md)
-_Context: Barack Obama, President of the United States, Trans-Pacific Partnership, United States House of Representatives_
+_Context: Barack Obama, Trans-Pacific Partnership, U.S. President, United States House of Representatives_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States upholds key elements of the Patient Protection and Affordable Care Act (Obamacare) including subsidies for healthcare policies and employer mandates, with a 6-3 vote. ](/news/2015/06/25/the-supreme-court-of-the-united-states-upholds-key-elements-of-the-patient-protection-and-affordable-care-act-obamacare-including-subsidie.md)

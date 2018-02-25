@@ -83,9 +83,9 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 ### [A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/a-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-rebels-reportedly-belong-to-a-group-led-by-david-yau.md)
 _Context: David Yau Yau, Pibor County_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-to-end-rebel-atta.md)
-_Context: DR Congo, United Nations Security Council_
+_Context: DR Congo, Security Council_
 
 ##### Mombasa Republican Council
 ### [Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coastal-town-of-malindi.md)

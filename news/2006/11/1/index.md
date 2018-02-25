@@ -41,7 +41,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Venezuela
 ### [ Venezuela and Guatemala have agreed to withdraw from the race for a seat on the United Nations Security Council; both agreeing to support Panama after 47 rounds of voting. ](/news/2006/11/1/venezuela-and-guatemala-have-agreed-to-withdraw-from-the-race-for-a-seat-on-the-united-nations-security-council-both-agreeing-to-support-p.md)
-_Context: Guatemala, Panama, United Nations Security Council, Venezuela_
+_Context: Guatemala, Panama, Security Council, Venezuela_
 
 ##### Bolivia
 ### [ Bolivian President Evo Morales retracts plans to nationalize the country's mining industry, promising to do so at an unspecified later date. ](/news/2006/11/1/bolivian-president-evo-morales-retracts-plans-to-nationalize-the-country-s-mining-industry-promising-to-do-so-at-an-unspecified-later-date.md)
@@ -51,9 +51,9 @@ _Context: Bolivia, Evo Morales, nationalises_
 ### [ Arab League-sponsored talks between the Somali transitional government and the Islamic Court Union are postponed indefinitely after the latter seek a delay. A Somali Minister says that war appears likely. ](/news/2006/11/1/arab-league-sponsored-talks-between-the-somali-transitional-government-and-the-islamic-court-union-are-postponed-indefinitely-after-the-lat.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### United Nations Security Council
+##### Security Council
 ### [ The UN Security Council votes unanimously to extend the mandate of Cte d'Ivoire's transitional government by one year, granting its Interim Prime Minister Charles Konan Banny sweeping powers over security forces. UNSC deadline for Elections, originally set for November 2006, was delayed to November 2007. ](/news/2006/11/1/the-un-security-council-votes-unanimously-to-extend-the-mandate-of-cote-d-ivoire-s-transitional-government-by-one-year-granting-its-interi.md)
-_Context: Charles Konan Banny, Cte d'Ivoire, November 2006, Prime Minister, United Nations Security Council_
+_Context: Charles Konan Banny, Cte d'Ivoire, November 2006, Prime Minister, Security Council_
 
 ##### Ethiopia
 ### [ 67 die and about 300,000 people are affected by floods in Ethiopia's Somali Region of Ogaden after the Shabelle River bursts its banks. ](/news/2006/11/1/67-die-and-about-300-000-people-are-affected-by-floods-in-ethiopia-s-somali-region-of-ogaden-after-the-shabelle-river-bursts-its-banks.md)

@@ -67,9 +67,9 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 ### [ The bridge carrying Interstate 35W in Minneapolis, Minnesota, collapses into the Mississippi River late in the afternoon rush hour, killing thirteen and injuring hundreds. ](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.md)
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, President of the United States, United States Senate, firings_
+_Context: George W. Bush, Karl Rove, U.S. President, United States Senate, firings_
 
 ##### New Zealand
 ### [ New Zealand launches its first commercially available biofuel, which consists of 90 percent petrol and 10 percent bioethanol made from cows' milk. ](/news/2007/08/1/new-zealand-launches-its-first-commercially-available-biofuel-which-consists-of-90-percent-petrol-and-10-percent-bioethanol-made-from-cows.md)

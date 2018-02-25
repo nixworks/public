@@ -3,9 +3,9 @@ Formats: [HTML](2007/01/23/index.html)  [JSON](2007/01/23/index.json)  [XML](200
 
 ## [2007-01-23](/news/2007/01/23/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [ President of the United States George W. Bush delivers the 2007 State of the Union Address, in which he remains steadfast to his Iraq policies, but also reaches out to political opponents by proposing environmental and social reforms. ](/news/2007/01/23/president-of-the-united-states-george-w-bush-delivers-the-2007-state-of-the-union-address-in-which-he-remains-steadfast-to-his-iraq-polic.md)
-_Context: 2007 State of the Union Address, Democrat, George W. Bush, President of the United States, U.S. presence in Iraq_
+_Context: 2007 State of the Union Address, Democrat, George W. Bush, U.S. President, U.S. presence in Iraq_
 
 ##### Two years of helping
 ### [ War in Somalia: Ethiopia begins withdrawing troops from Mogadishu. ](/news/2007/01/23/war-in-somalia-ethiopia-begins-withdrawing-troops-from-mogadishu.md)
@@ -15,9 +15,9 @@ _Context: Mogadishu, two years of helping_
 ### [ Trade union leaders in Guinea are released and meet with President Lansana Conte as the general strike escalates. ](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.md)
 _Context: Guinea, Lansana Conte, President of Guinea, general strike_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia, John Howard, reshuffles his Ministry with Joe Hockey and Malcolm Turnbull promoted to Cabinet and Amanda Vanstone losing her position. ](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.md)
-_Context: Amanda Vanstone, Australian Prime Minister, Joe Hockey, John Howard, Malcolm Turnbull_
+_Context: Amanda Vanstone, Joe Hockey, John Howard, Malcolm Turnbull, Prime Minister_
 
 ##### One and Unified Revolt
 ### [ One and Unified Revolt: Hezbollah-led protesters spark clashes with government loyalists in Lebanon, resulting in 3 deaths and 133 wounded. Opposition forces later call off the general strike they had held. ](/news/2007/01/23/one-and-unified-revolt-hezbollah-led-protesters-spark-clashes-with-government-loyalists-in-lebanon-resulting-in-3-deaths-and-133-wounded.md)

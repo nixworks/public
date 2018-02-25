@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/16/index.html)  [JSON](2008/11/16/index.json)  [XML](200
 
 ##### U.S.
 ### [ United States President-elect Barack Obama resigns his Senate seat. ](/news/2008/11/16/united-states-president-elect-barack-obama-resigns-his-senate-seat.md)
-_Context: Barack Obama, President of the United States, President-elect, U.S., United States Senate_
+_Context: Barack Obama, President-elect, U.S., U.S. President, United States Senate_
 
 ##### Magnitude
 ### [ A 7.3 magnitude earthquake strikes off the coast of Indonesia, kills two; a tsunami warning is issued, but later lifted. ](/news/2008/11/16/a-7-3-magnitude-earthquake-strikes-off-the-coast-of-indonesia-kills-two-a-tsunami-warning-is-issued-but-later-lifted.md)

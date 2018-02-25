@@ -29,7 +29,7 @@ _Context: Alex Salmond, First Minister, Scottish Labour Party, Scottish National
 
 ##### Tony Blair
 ### [ Tony Blair, the Prime Minister of the United Kingdom, meets with the President of the United States George W. Bush for the final time before his departure from politics. ](/news/2007/05/16/tony-blair-the-prime-minister-of-the-united-kingdom-meets-with-the-president-of-the-united-states-george-w-bush-for-the-final-time-befor.md)
-_Context: George W. Bush, President of the United States, Prime Minister, Tony Blair_
+_Context: George W. Bush, Prime Minister, Tony Blair, U.S. President_
 
 ## [Previous Day...](/news/2007/05/15/index.md)
 

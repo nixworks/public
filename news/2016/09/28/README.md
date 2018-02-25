@@ -21,7 +21,7 @@ India&rsquo;s efforts to isolate Pakistan on the issue of terrorism got a boost 
 
 ##### United States Senate
 ### [The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. ](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.md)
-_Context: Barack Obama, Justice Against Sponsors of Terrorism Act, President of the United States, Saudi Arabia, United States House of Representatives, United States Senate, sovereign immunity_
+_Context: Barack Obama, Justice Against Sponsors of Terrorism Act, Saudi Arabia, U.S. President, United States House of Representatives, United States Senate, sovereign immunity_
 
 ##### South Australia
 ### [The state of South Australia suffers widespread blackouts triggered by severe weather conditions. ](/news/2016/09/28/the-state-of-south-australia-suffers-widespread-blackouts-triggered-by-severe-weather-conditions.md)

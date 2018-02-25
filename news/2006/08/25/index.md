@@ -25,7 +25,7 @@ _Context: French President, Jacques Chirac, Lebanese_
 
 ##### United Nations
 ### [ The United Nations Security Council approves a new peacekeeping mission in East Timor, United Nations Integrated Mission in Timor-Leste (UNMIT), which will have 1,608 police and up to 35 military liaison officers. ](/news/2006/08/25/the-united-nations-security-council-approves-a-new-peacekeeping-mission-in-east-timor-united-nations-integrated-mission-in-timor-leste-un.md)
-_Context: East Timor, United Nations, United Nations Security Council, peacekeeping mission_
+_Context: East Timor, Security Council, United Nations, peacekeeping mission_
 
 ## [Previous Day...](/news/2006/08/24/index.md)
 

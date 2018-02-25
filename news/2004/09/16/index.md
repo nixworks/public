@@ -21,7 +21,7 @@ _Context: 2003 invasion of Iraq, Iraq, Kofi Annan, UN Charter, United Nations Se
 
 ##### The New York Times
 ### [ "The New York Times," citing unnamed United States government officials, reports that, in late July, the National Intelligence Council prepared a pessimistic classified report for President George W. Bush that predicted three likely outcomes for Iraq by the end of 2005, the best of which is "tenuous stability", and the worst of which is a descent into civil war. ](/news/2004/09/16/the-new-york-times-citing-unnamed-united-states-government-officials-reports-that-in-late-july-the-national-intelligence-council-prep.md)
-_Context: George W. Bush, July, National Intelligence Council, President of the United States, The New York Times, United States government, civil war, state secrets_
+_Context: George W. Bush, July, National Intelligence Council, The New York Times, U.S. President, United States government, civil war, state secrets_
 
 ##### Indonesia
 ### [ Indonesia sentences Islamic militant "Ismail", also known as Ricky Putranto, to 12 years in prison for his role in the bombing of a Marriott hotel in Jakarta last year. ](/news/2004/09/16/indonesia-sentences-islamic-militant-ismail-also-known-as-ricky-putranto-to-12-years-in-prison-for-his-role-in-the-bombing-of-a-marriot.md)

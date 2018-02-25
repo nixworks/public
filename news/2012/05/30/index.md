@@ -59,7 +59,7 @@ Wikileaks founder Julian Assange loses his Supreme Court fight against extraditi
 ### [Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. ](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.md)
 _Context: Bilderberg Group, Chantilly, Virginia_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama angers the people of Poland by referring to the Nazi death camp at Auschwitz as "Polish". Prominent Poles demand an apology for the "outrageous" gaffe. ](/news/2012/05/30/president-of-the-united-states-barack-obama-angers-the-people-of-poland-by-referring-to-the-nazi-death-camp-at-auschwitz-as-polish-promin.md)
 US President Barack Obama has caused an outcry in Poland after referring to a Nazi death camp as &quot;Polish&quot;.
 

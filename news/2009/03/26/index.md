@@ -53,7 +53,7 @@ _Context: Abel Prize, French, Mikhail Gromov, Russia, mathematician_
 
 ##### U.S.
 ### [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md)
-_Context: Afghan, Barack Obama, Northwestern Pakistan, Pakistan, President of the United States, U.S., War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
+_Context: Afghan, Barack Obama, Northwestern Pakistan, Pakistan, U.S., U.S. President, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
 
 ## [Previous Day...](/news/2009/03/25/index.md)
 

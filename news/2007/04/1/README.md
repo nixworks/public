@@ -17,7 +17,7 @@ _Context: Basij, Iran, Tehran, United Kingdom, demonstration, embassies_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Former United States Secretary of Health and Human Services Tommy Thompson announces his candidacy for President. ](/news/2007/04/1/united-states-presidential-election-2008-former-united-states-secretary-of-health-and-human-services-tommy-thompson-announces-his-candida.md)
-_Context: President of the United States, Secretary of Health and Human Services, Tommy Thompson, presidential candidate_
+_Context: Secretary of Health and Human Services, Tommy Thompson, U.S. President, presidential candidate_
 
 ##### 
 ### [ Second and last day of ](/news/2007/04/1/second-and-last-day-of.md)

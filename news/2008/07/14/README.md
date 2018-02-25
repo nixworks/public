@@ -37,7 +37,7 @@ _Context: Airbus, Boeing Company, Etihad Airways, United Arab Emirates_
 
 ##### U.S.
 ### [ United States President George W. Bush lifts a ban on offshore oil drilling. ](/news/2008/07/14/united-states-president-george-w-bush-lifts-a-ban-on-offshore-oil-drilling.md)
-_Context: George W. Bush, President of the United States, U.S., drill for oil_
+_Context: George W. Bush, U.S., U.S. President, drill for oil_
 
 ##### United States Federal Reserve
 ### [ The United States Federal Reserve tightens mortgage regulation in an attempt to stamp out the practices that led to the subprime mortgage crisis. ](/news/2008/07/14/the-united-states-federal-reserve-tightens-mortgage-regulation-in-an-attempt-to-stamp-out-the-practices-that-led-to-the-subprime-mortgage-c.md)

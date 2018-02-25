@@ -37,7 +37,7 @@ _Context: 2008-09, 2009 UEFA Champions League Final, FC Barcelona, Manchester Un
 
 ##### U.S.
 ### [ United States President Barack Obama nominates Hispanic Roman Catholic theologian Miguel H. Diaz as Ambassador to the Holy See. ](/news/2009/05/27/united-states-president-barack-obama-nominates-hispanic-roman-catholic-theologian-miguel-h-diaz-as-ambassador-to-the-holy-see.md)
-_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, President of the United States, Roman Catholic Church, U.S., theologian_
+_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, Roman Catholic Church, U.S., U.S. President, theologian_
 
 ## [Previous Day...](/news/2009/05/26/index.md)
 

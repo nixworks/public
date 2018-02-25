@@ -19,7 +19,7 @@ _Context: Baghdad, Iraq, coalition forces, insurgents_
 ### [ Israeli investigation brings evidence that a buried explosive device caused the Gaza beach blast in which seven Palestenian civilians were killed, rather than an artillery shelling as stated by the Hamas-led Palestenian government. A former Pentagon official paid by the Human Rights Watch organization asserts than an Israeli shelling caused the tragedy. United Nations Secretary-General Kofi Annan retracts earlier skeptic remarks he made on Israel's position on the incident. Sddeutsche Zeitung reports numerous flaws in the Palestenian footage from the beach, including a dead man later walking around. ](/news/2006/06/13/israeli-investigation-brings-evidence-that-a-buried-explosive-device-caused-the-gaza-beach-blast-in-which-seven-palestenian-civilians-were.md)
 After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General Kofi Annan pulls back comments he said after conclusion of IDF report on civilian casualties on Gaza beach
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush makes a surprise 5-hour visit to Iraq to meet with newly named Prime Minister of Iraq Nouri al-Maliki, President of Iraq Jalal Talibani, national political leaders and U.S. troops. The visit was kept a secret from al-Maliki until five minutes before they met. ](/news/2006/06/13/u-s-president-george-w-bush-makes-a-surprise-5-hour-visit-to-iraq-to-meet-with-newly-named-prime-minister-of-iraq-nouri-al-maliki-presid.md)
 President Bush assured Iraqis in a surprise visit to Baghdad on Tuesday that the U.S. stands with them and &#8220;the future of your country is in your hands.&#8221; 
 

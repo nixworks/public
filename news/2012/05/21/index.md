@@ -31,7 +31,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 ### [Abdelbaset al-Megrahi, the only person convicted in the case concerning the 1988 bombing of Pan Am Flight 103, is buried in a private ceremony in a western suburb of Tripoli, having died of cancer aged 60. ](/news/2012/05/21/abdelbaset-al-megrahi-the-only-person-convicted-in-the-case-concerning-the-1988-bombing-of-pan-am-flight-103-is-buried-in-a-private-ceremo.md)
 Lockerbie bomber Abdelbaset al-Megrahi has been buried in a private ceremony in the Libyan capital, Tripoli.
 
-##### President of the United States
+##### U.S. President
 ### [US President Barack Obama speaks at a NATO summit concerning the future of war-ravaged Afghanistan. ](/news/2012/05/21/us-president-barack-obama-speaks-at-a-nato-summit-concerning-the-future-of-war-ravaged-afghanistan.md)
 President Barack Obama gives a final press conference at the Chicago NATO summit.
 

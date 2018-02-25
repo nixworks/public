@@ -19,9 +19,9 @@ The death toll from raging floods in India has neared 1,100 as more people drown
 ### [ Lebanon holds two by-elections to replace two members of the Parliament of Lebanon, Pierre Amine Gemayel and Walid Eido, killed in violent incidents claimed to be murder. Camille Khoury and Mohamad Amin Itani are declared as the winners of the elections although rival candidate Amin Gemayel has lodged a complaint about Khoury's victory. ](/news/2007/08/5/lebanon-holds-two-by-elections-to-replace-two-members-of-the-parliament-of-lebanon-pierre-amine-gemayel-and-walid-eido-killed-in-violent.md)
 Lebanon&#039;s Opposition has won a key by-election that has left the country&#039;s Christians deeply divided ahead of polls to elect a new president, who is traditionally a Christian.
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush meets with the President of Afghanistan Hamid Karzai at Camp David to discuss the security of Afghanistan. ](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.md)
-_Context: Afghan, Afghanistan President, Camp David, George W. Bush, Hamid Karzai, President of the United States_
+_Context: Afghan, Afghanistan President, Camp David, George W. Bush, Hamid Karzai, U.S. President_
 
 ##### Mexico
 ### [ Mexican golfer Lorena Ochoa wins the Women's British Open title, her first major. ](/news/2007/08/5/mexican-golfer-lorena-ochoa-wins-the-women-s-british-open-title-her-first-major.md)

@@ -47,7 +47,7 @@ A Palestinian teenage girl filmed slapping an Israeli soldier and hailed as a he
 ### [An overnight fire destroys parts of Haiti's historic Marche en Fer (Iron Market) in Port-au-Prince. It is unclear what started the fire. ](/news/2018/02/13/an-overnight-fire-destroys-parts-of-haiti-s-historic-marcha-c-en-fer-iron-market-in-portaauaprince-it-is-unclear-what-started-the-fire.md)
 _Context: Haiti, Marche en Fer, Port-au-Prince_
 
-##### United Airlines
+##### United
 ### [United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. ](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolulu-from-san-francisco-lands-safely-at-honolulu-international-airport-hawaii-after-the-pilot.md)
 Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu
 

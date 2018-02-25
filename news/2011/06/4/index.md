@@ -45,7 +45,7 @@ Tens of thousands gathered Saturday night in Hong Kong to commemorate the 1989 T
 
 ##### Sudan
 ### [North Sudan dismisses calls by the United Nations Security Council to leave the disputed Abyei region on the border with South Sudan. ](/news/2011/06/4/north-sudan-dismisses-calls-by-the-united-nations-security-council-to-leave-the-disputed-abyei-region-on-the-border-with-south-sudan.md)
-_Context: Abyei, South Sudan, Sudan, United Nations Security Council_
+_Context: Abyei, Security Council, South Sudan, Sudan_
 
 ##### Mutinous soldiers
 ### [At least seven people are killed in an exchange of fire between pro-government forces and mutineering soldiers in Bobo-Dioulasso, Burkina Faso. ](/news/2011/06/4/at-least-seven-people-are-killed-in-an-exchange-of-fire-between-pro-government-forces-and-mutineering-soldiers-in-bobo-dioulasso-burkina-fa.md)

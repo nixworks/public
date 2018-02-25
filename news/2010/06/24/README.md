@@ -79,9 +79,9 @@ A mass strike against plans to raise the retirement age in France has disrupted 
 ### [Several people are killed during suicide attacks and bombings across Iraq. ](/news/2010/06/24/several-people-are-killed-during-suicide-attacks-and-bombings-across-iraq.md)
 Suicide attacks and bombings across country leave several security personnel dead.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Prime Minister of Australia Kevin Rudd steps down after his leadership is contested following considerable drops in popularity in polls in recent months. Julia Gillard becomes Australia's first female Prime Minister. ](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.md)
-_Context: Australian Prime Minister, Julia Gillard, Kevin Rudd, leadership is contested_
+_Context: Julia Gillard, Kevin Rudd, Prime Minister, leadership is contested_
 
 ##### Parliament in Israel
 ### [A Knesset parliamentary delegation to the Council of Europe, led by Yohanan Plesner, seeks to block a key vote intent on establishing an international probe into the Gaza flotilla raid. ](/news/2010/06/24/a-knesset-parliamentary-delegation-to-the-council-of-europe-led-by-yohanan-plesner-seeks-to-block-a-key-vote-intent-on-establishing-an-int.md)

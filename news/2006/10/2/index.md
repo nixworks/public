@@ -23,8 +23,8 @@ Russia took its first significant retaliatory steps after Georgia’s arrests of
 ### [ Zeljko Komsic, Nebojsa Radmanovic and Haris Silajdzic are elected new members of the Presidency of Bosnia and Herzegovina, the country's collective head of state. ](/news/2006/10/2/a1-2eljko-koma-ia-neboja-a-radmanovia-and-haris-silajda3-4ia-are-elected-new-members-of-the-presidency-of-bosnia-and-herzegovina-the-count.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### Amish school shooting
-### [ At least five pupils, a teacher's aide, and a gunman are dead after an Amish school shooting in Nickel Mines, Pennsylvania, United States. Some reports have the number of dead at six. ](/news/2006/10/2/at-least-five-pupils-a-teacher-s-aide-and-a-gunman-are-dead-after-an-amish-school-shooting-in-nickel-mines-pennsylvania-united-states.md)
+##### A school shooting
+### [ At least five pupils, a teacher's aide, and a gunman are dead after a school shooting in Nickel Mines, Pennsylvania, United States. Some reports have the number of dead at six. ](/news/2006/10/2/at-least-five-pupils-a-teacher-s-aide-and-a-gunman-are-dead-after-a-school-shooting-in-nickel-mines-pennsylvania-united-states-some-re.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Zambia

@@ -13,7 +13,7 @@ _Context: French, French President, Italian Prime Minister, Italy, Nicolas Sarko
 
 ##### U.S.
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, Japan, President of the United States, Prime Minister of Japan, Taro Aso, U.S., protectionism, stimulating economic demand_
+_Context: Barack Obama, Japan, Prime Minister of Japan, Taro Aso, U.S., U.S. President, protectionism, stimulating economic demand_
 
 ##### Heavy fighting
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
@@ -63,9 +63,9 @@ _Context: Chinatown, New York City, apartment-building_
 ### [ The U.S. Senate confirms Hilda Solis as the Secretary of Labor. ](/news/2009/02/24/the-u-s-senate-confirms-hilda-solis-as-the-secretary-of-labor.md)
 Earlier we reported that the Senate would hold a vote to cut off debate today on the nomination of Rep. Hilda Solis, D-Calif., as secretary of Labor. Now comes word that senators have reached an agreement to avoid that and...
 
-##### President of the United States
+##### U.S. President
 ### [ United States President Barack Obama addresses a joint session of Congress. ](/news/2009/02/24/united-states-president-barack-obama-addresses-a-joint-session-of-congress.md)
-_Context: Barack Obama, President of the United States, addresses, joint session of Congress_
+_Context: Barack Obama, U.S. President, addresses, joint session of Congress_
 
 ## [Previous Day...](/news/2009/02/23/index.md)
 

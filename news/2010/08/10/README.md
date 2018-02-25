@@ -11,7 +11,7 @@ Archaeologists are claiming to have discovered the oldest house in Britain.
 ### [The World Health Organization announces that the H1N1 flu pandemic which killed 18,000 people worldwide is over. ](/news/2010/08/10/the-world-health-organization-announces-that-the-h1n1-flu-pandemic-which-killed-18-000-people-worldwide-is-over.md)
 _Context: H1N1, World Health Organization, flu pandemic_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama signs a $26 billion bill to help struggling states to meet budgets. ](/news/2010/08/10/the-president-of-the-united-states-barack-obama-signs-a-26-billion-bill-to-help-struggling-states-to-meet-budgets.md)
 The House of Representatives on Tuesday approved, and President Barack Obama promptly signed into law, an election-year bill providing $26 billion to struggling states by closing tax loopholes for multinational companies and cutting food aid to the poor.
 

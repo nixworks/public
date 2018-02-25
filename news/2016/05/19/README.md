@@ -25,7 +25,7 @@ _Context: Dnipropetrovsk, Ukraine, decommunization, parliament_
 
 ##### Accession of Montenegro to NATO
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Accession of Montenegro to NATO, Milo Dukanovic, Montenegro, NATO, Prime Minister, membership_
+_Context: Accession of Montenegro to NATO, Milo Dukanovic, Montenegrin, NATO, Prime Minister, membership_
 
 ##### San Francisco Police Department
 ### [San Francisco Police Department Chief Greg Suhr resigns from his position several hours after a black woman is shot by police in San Francisco. ](/news/2016/05/19/san-francisco-police-department-chief-greg-suhr-resigns-from-his-position-several-hours-after-a-black-woman-is-shot-by-police-in-san-francis.md)

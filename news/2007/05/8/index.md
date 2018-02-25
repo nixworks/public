@@ -11,9 +11,9 @@ _Context: Hebrew University of Jerusalem, Herod the Great, Herodium_
 ### [ Scotland's John Higgins beats England's Mark Selby in the World Snooker Championship 2007 final by 18-13 frames. ](/news/2007/05/8/scotland-s-john-higgins-beats-england-s-mark-selby-in-the-world-snooker-championship-2007-final-by-18-13-frames.md)
 _Context: England, John Higgins, Mark Selby, Scotland, World Snooker Championship 2007, frames_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Former Prime Minister of Australia Gough Whitlam gives evidence to the coronial inquest into the death of the Balibo Five in Balibo, East Timor in October 1975. ](/news/2007/05/8/former-prime-minister-of-australia-gough-whitlam-gives-evidence-to-the-coronial-inquest-into-the-death-of-the-balibo-five-in-balibo-east-t.md)
-_Context: 1975, Australian Prime Minister, Balibo, Balibo Five, East Timor, Gough Whitlam, coroner_
+_Context: 1975, Balibo, Balibo Five, East Timor, Gough Whitlam, Prime Minister, coroner_
 
 ##### Tomislav Nikolic
 ### [ Tomislav Nikolic, the temporary leader of the Serbian Radical Party, is elected as the Speaker of the National Assembly of Serbia. ](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.md)
@@ -43,9 +43,9 @@ _Context: Peter Costello, Treasurer of Australia, budget_
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
 _Context: Andre Boisclair, Canada, Parti Quebecois_
 
-##### President of the United States
+##### U.S. President
 ### [ Former U.S. President Bill Clinton announces a deal with drug companies to lower the price of anti-AIDS drugs in Third World countries. ](/news/2007/05/8/former-u-s-president-bill-clinton-announces-a-deal-with-drug-companies-to-lower-the-price-of-anti-aids-drugs-in-third-world-countries.md)
-_Context: Bill Clinton, President of the United States, Third World, anti-AIDS drugs_
+_Context: Bill Clinton, Third World, U.S. President, anti-AIDS drugs_
 
 ##### U.S.
 ### [ U.S. police arrest six Islamic men from the Republic of Macedonia and the Middle East based on a tip from a Mount Laurel, NJ resident who discovered their plot to attack Fort Dix, New Jersey, and "kill as many soldiers as possible." ](/news/2007/05/8/u-s-police-arrest-six-islamic-men-from-the-republic-of-macedonia-and-the-middle-east-based-on-a-tip-from-a-mount-laurel-nj-resident-who-d.md)

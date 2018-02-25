@@ -17,7 +17,7 @@ The leaders of Sudan and South Sudan reaffirm their commitment to setting up a b
 
 ##### Congress
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, Congress, President of the United States, United States presidential election, 2012_
+_Context: Barack Obama, Congress, U.S. President, United States presidential election, 2012_
 
 ##### Venezuela
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)

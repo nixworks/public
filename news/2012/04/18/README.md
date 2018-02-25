@@ -21,7 +21,7 @@ Israel dismisses from his post a soldier who hit a pro-Palestinian activist in t
 
 ##### North Korea
 ### [North Korea rejects criticism from countries on the United Nations Security Council regarding its failed rocket launch, and breaks off an agreement that would see it halt testing of nuclear weapons in exchange for food aid. ](/news/2012/04/18/north-korea-rejects-criticism-from-countries-on-the-united-nations-security-council-regarding-its-failed-rocket-launch-and-breaks-off-an-ag.md)
-_Context: North Korea, United Nations Security Council_
+_Context: North Korea, Security Council_
 
 ##### Cuba
 ### [Cuba claims U.S. President Barack Obama was forced to use his "imperial veto" to stop the summit calling for an end to the U.S. embargo against it. ](/news/2012/04/18/cuba-claims-u-s-president-barack-obama-was-forced-to-use-his-imperial-veto-to-stop-the-summit-calling-for-an-end-to-the-u-s-embargo-agai.md)

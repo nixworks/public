@@ -11,7 +11,7 @@ _Context: Arsenal, Arsenal Stadium, Highbury_
 ### [ Iranian President Mahmoud Ahmadinejad threatens to pull Iran out of the Nuclear Nonproliferation Treaty if the United States and the EU 3 do not accept Iran's nuclear program. ](/news/2006/05/7/iranian-president-mahmoud-ahmadinejad-threatens-to-pull-iran-out-of-the-nuclear-nonproliferation-treaty-if-the-united-states-and-the-eu-3-d.md)
 _Context: EU 3, Iran, Iran's nuclear program, Iranian President, Mahmoud Ahmadinejad, Nuclear Nonproliferation Treaty, U.S._
 
-##### President of the United States
+##### U.S. President
 ### [ United States President George W. Bush announces his support for closing Guantanamo Bay detention center. ](/news/2006/05/7/united-states-president-george-w-bush-announces-his-support-for-closing-guantanamo-bay-detention-center.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

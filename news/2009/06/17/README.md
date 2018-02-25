@@ -45,7 +45,7 @@ The Iranian soccer team made a political statement in World Cup qualifying, but 
 
 ##### U.S.
 ### [ United States President Barack Obama extends some benefits to the same-sex partners of federal government workers. ](/news/2009/06/17/united-states-president-barack-obama-extends-some-benefits-to-the-same-sex-partners-of-federal-government-workers.md)
-_Context: Barack Obama, President of the United States, U.S., some benefits_
+_Context: Barack Obama, U.S., U.S. President, some benefits_
 
 ##### Kitty Ussher
 ### [ Kitty Ussher resigns as Exchequer Secretary to the Treasury and announces that she will stand down as Member of Parliament for Burnley at the next general election following involvement in the United Kingdom Parliamentary expenses scandal. ](/news/2009/06/17/kitty-ussher-resigns-as-exchequer-secretary-to-the-treasury-and-announces-that-she-will-stand-down-as-member-of-parliament-for-burnley-at-t.md)

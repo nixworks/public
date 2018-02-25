@@ -49,7 +49,7 @@ _Context: Caracas, Sephardic, Venezuela, synagogue_
 
 ##### Cuba
 ### [ Former Cuban President Fidel Castro criticizes United States President Barack Obama for supporting "Israeli genocide" against the Palestinian people. ](/news/2009/01/31/former-cuban-president-fidel-castro-criticizes-united-states-president-barack-obama-for-supporting-israeli-genocide-against-the-palestini.md)
-_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, President of the United States, U.S., genocide_
+_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, U.S., U.S. President, genocide_
 
 ## [Previous Day...](/news/2009/01/30/index.md)
 

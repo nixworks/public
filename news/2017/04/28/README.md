@@ -21,7 +21,7 @@ Iran state TV broadcasts live the first debate among the six candidates of the 1
 
 ##### Accession of Montenegro to NATO
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
-_Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_
+_Context: Accession of Montenegro to NATO, Montenegrin, NATO, Parliament of Montenegro, membership_
 
 ##### Albanian presidential election, 2017
 ### [Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md)

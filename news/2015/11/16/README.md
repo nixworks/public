@@ -7,7 +7,7 @@ Formats: [HTML](2015/11/16/index.html)  [JSON](2015/11/16/index.json)  [XML](201
 ### [Cambodian opposition leader Sam Rainsy delays his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen. Friday, a Cambodian court issued an arrest warrant related to an old defamation case for which Sam had already received a royal pardon. Today, Parliament stripped him of immunity protection. ](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.md)
 Cambodian opposition leader Sam Rainsy on Monday delayed his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen.
 
-##### President of the United States
+##### U.S. President
 ### [United States President Barack Obama, in Antalya, Turkey, says America will continue to accept refugees from Syria and elsewhere, though, "Only after subjecting them to rigorous screening and security checks." Responding to calls to admit Christians but not Muslims into the country, he said, "We don't have religious tests to our compassion." ](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.md)
 Without directly naming GOP presidential candidates, the president blasted political leaders for suggesting the U.S. should only accept Christians fleeing Syria. &quot;That&rsquo;s shameful,&quot; he said, his voice rising.
 

@@ -23,9 +23,9 @@ _Context: Fatah, Hamas, Palestinians_
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
 _Context: Cyclone Gonu, Oman_
 
-##### President of the United States
+##### U.S. President
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: George W. Bush, President of the United States, Russian President, Vladimir Putin, missile defense_
+_Context: George W. Bush, Russian President, U.S. President, Vladimir Putin, missile defense_
 
 ##### Italy
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)

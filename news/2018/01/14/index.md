@@ -21,7 +21,7 @@ The mother was &quot;perplexed&quot; when officers came to rescue the malnourish
 
 ##### Palestine-United States relations
 ### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century." ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
-_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, President of the United States, peace_
+_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, U.S. President, peace_
 
 ##### Vila Nova da Rainha
 ### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md)

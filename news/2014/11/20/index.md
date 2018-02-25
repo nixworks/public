@@ -11,7 +11,7 @@ Relatives of 43 missing Mexican students, who the authorities say were murdered 
 ### [The President of Sri Lanka Mahinda Rajapaksa calls an early election. ](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.md)
 _Context: President of Sri Lanka, Rajapaksa_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md)
 The president sought to convince Americans that his plans to change immigration laws were well within the precedent set by other administrations and did not amount to amnesty.
 
@@ -29,7 +29,7 @@ _Context: Eddie Obeid, Ian Macdonald, Independent Commission against Corruption,
 
 ##### North Korea
 ### [North Korea threatens to conduct another nuclear test in response to a United Nations Human Rights Council resolution passed on Tuesday recommending the Security Council authorise a probe into human rights abuses. ](/news/2014/11/20/north-korea-threatens-to-conduct-another-nuclear-test-in-response-to-a-united-nations-human-rights-council-resolution-passed-on-tuesday-reco.md)
-_Context: Human Rights Council, North Korea, United Nations Security Council_
+_Context: Human Rights Council, North Korea, Security Council_
 
 ##### Enrique Iglesias
 ### [Enrique Iglesias, Gente de Zona, and Descemer Bueno win three Latin Grammy Awards including Song of the Year for "Bailando". ](/news/2014/11/20/enrique-iglesias-gente-de-zona-and-descemer-bueno-win-three-latin-grammy-awards-including-song-of-the-year-for-bailando.md)

@@ -43,9 +43,9 @@ _Context: Shanxi province_
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)
 A 15-year-old boy was killed and his mother and sister injured late Sunday after a bomb exploded outside a building in central Athens, police said.
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: Afghan, Afghanistan President, Barack Obama, Hamid Karzai, President of the United States_
+_Context: Afghan, Afghanistan President, Barack Obama, Hamid Karzai, U.S. President_
 
 ##### Israel
 ### [Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holiday.md)

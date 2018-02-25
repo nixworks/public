@@ -31,9 +31,9 @@ Heatwaves could make this year the warmest since 1880 and seriously damage crops
 ### [Dozens of residents protest against plans to build four wind turbines in a field in Berkshire, England. ](/news/2010/07/17/dozens-of-residents-protest-against-plans-to-build-four-wind-turbines-in-a-field-in-berkshire-england.md)
 Walkers, horse riders, cyclists and runners hold a protest march against plans for a wind farm in a field near Reading.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)
-_Context: Australian Prime Minister, Julia Gillard, recent election_
+_Context: Julia Gillard, Prime Minister, recent election_
 
 ##### Hugo Chavez
 ### [Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. ](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.md)

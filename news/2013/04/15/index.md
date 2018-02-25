@@ -21,7 +21,7 @@ A week-long hearing into a territorial dispute between Thailand and Cambodia beg
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. ](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.md)
-_Context: Australia, Australian Prime Minister, Julia Gillard, Raoul Wallenberg, Sweden, honorary Australian citizen_
+_Context: Australia, Julia Gillard, Prime Minister, Raoul Wallenberg, Sweden, honorary Australian citizen_
 
 ##### BBC
 ### [BBC says that an edition of "Panorama" filmed secretly on a university study trip to North Korea will be broadcast, despite claims by the London School of Economics that students may have been put in danger. ](/news/2013/04/15/bbc-says-that-an-edition-of-panorama-filmed-secretly-on-a-university-study-trip-to-north-korea-will-be-broadcast-despite-claims-by-the-lo.md)

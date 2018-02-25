@@ -19,7 +19,7 @@ _Context: Australia, International Court of Justice, Japan, Southern Ocean, hunt
 ### [United States Homeland Security Secretary Jeh Johnson says the Obama administration will announce a new terror alert system "in the coming days," that will better inform the public about threats to the United States. This will be the third terror alert system put in place since the September 11, 2001, terrorist attacks. ](/news/2015/12/7/united-states-homeland-security-secretary-jeh-johnson-says-the-obama-administration-will-announce-a-new-terror-alert-system-in-the-coming-d.md)
 WASHINGTON -- The Obama administration will announce a new terror alert system &quot;in the coming days,&quot; Homeland Security Secretary Jeh Johnson said Monday. Johnson said the new alert system will better inform the public about threats to the United States,...
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice will investigate the Chicago, Illinois police department. Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald. The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. ](/news/2015/12/7/the-united-states-department-of-justice-will-investigate-the-chicago-illinois-police-department-long-concerned-with-chicago-police-departm.md)
 The department has had longstanding concerns about the Chicago police, but the current inquiry revolves around the scant details that were given after the shooting of the 17-year-old in 2014.
 

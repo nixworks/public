@@ -53,7 +53,7 @@ _Context: Arab citizen, ISIL, Israel, Israeli Army, Syria_
 
 ##### Syrian Civil War
 ### [Syrian rebels fire volleys of mortar shells into Damascus, killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that kill at least 35 people and injure many more, according to the Syrian Observatory for Human Rights. ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-air.md)
-_Context: Damascus, Douma, Eastern Ghouta, Mortar, Saqba, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian opposition, airstrike, surface-to-surface missile_
+_Context: Damascus, Douma, Ghouta, Mortar, Saqba, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian opposition, airstrike, surface-to-surface missile_
 
 ##### War in North-West Pakistan
 ### [At least 25 people are killed and dozens injured in a bombing at a second-hand clothes market in the city of Parachinar in the Kurram Valley. ](/news/2015/12/13/at-least-25-people-are-killed-and-dozens-injured-in-a-bombing-at-a-second-hand-clothes-market-in-the-city-of-parachinar-in-the-kurram-valley.md)

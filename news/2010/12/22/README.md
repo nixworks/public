@@ -7,9 +7,9 @@ Formats: [HTML](2010/12/22/index.html)  [JSON](2010/12/22/index.json)  [XML](201
 ### [Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. ](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.md)
 _Context: Biology Letters, Royal Society, bumblebee, peer-reviewed, spatial memory_
 
-##### Montenegro
+##### Montenegrin
 ### [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md)
-_Context: Milo Dukanovic, Montenegro, Prime Minister_
+_Context: Milo Dukanovic, Montenegrin, Prime Minister_
 
 ##### Zac Goldsmith
 ### [British millionaire Tory MP Zac Goldsmith is not to be reported to police over his election spending allegations but some other concerns are expressed by the Electoral Commission. ](/news/2010/12/22/british-millionaire-tory-mp-zac-goldsmith-is-not-to-be-reported-to-police-over-his-election-spending-allegations-but-some-other-concerns-are.md)
@@ -19,9 +19,9 @@ Tory MP Zac Goldsmith will not be reported to police over allegations related to
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by "The Daily Telegraph" newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
 Fresh secret recording released by a newspaper shows Liberal Democrat ministers expressing concerns over coalition government policies.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, President of the United States, don't ask, don't tell, openly gay_
+_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, U.S. President, don't ask, don't tell, openly gay_
 
 ##### Jorge Rafael Videla
 ### [Jorge Rafael Videla, the former "de facto" President of Argentina, is sentenced to life imprisonment after being convicted of crimes against humanity. ](/news/2010/12/22/jorge-rafael-videla-the-former-de-facto-president-of-argentina-is-sentenced-to-life-imprisonment-after-being-convicted-of-crimes-against.md)

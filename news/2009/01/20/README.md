@@ -9,7 +9,7 @@ _Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_
 
 ##### Barack Obama
 ### [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md)
-_Context: 41st, Barack Obama, President of the United States, U.S., black, first, inaugural address_
+_Context: 41st, Barack Obama, U.S., U.S. President, black, first, inaugural address_
 
 ##### Rwanda
 ### [ The Rwandan Defense Forces and Congolese Armed Forces jointly search the Democratic Republic of the Congo for Hutu leaders who participated in the 1994 Rwandan genocide. ](/news/2009/01/20/the-rwandan-defense-forces-and-congolese-armed-forces-jointly-search-the-democratic-republic-of-the-congo-for-hutu-leaders-who-participated.md)

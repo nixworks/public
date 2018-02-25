@@ -11,7 +11,7 @@ South Korea says its third attempt at putting a satellite into space has been a 
 ### [The Scottish Government agrees to change the wording of the question on the forthcoming Scottish independence referendum after concerns were expressed that it could lead people to vote yes. ](/news/2013/01/30/the-scottish-government-agrees-to-change-the-wording-of-the-question-on-the-forthcoming-scottish-independence-referendum-after-concerns-were.md)
 _Context: Scottish Government, independence referendum_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces that the next federal election will be held on September 14. ](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.md)
 Australian Prime Minister Julia Gillard calls a general election for 14 September, announcing the vote eight months in advance.
 

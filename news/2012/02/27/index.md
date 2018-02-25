@@ -7,9 +7,9 @@ Formats: [HTML](2012/02/27/index.html)  [JSON](2012/02/27/index.json)  [XML](201
 ### [Former Ukrainian interior minister Yuriy Lutsenko is sentenced to fours year in jail for embezzlement and abuse of office. ](/news/2012/02/27/former-ukrainian-interior-minister-yuriy-lutsenko-is-sentenced-to-fours-year-in-jail-for-embezzlement-and-abuse-of-office.md)
 _Context: Ministry of Internal Affairs, Yuriy Lutsenko, abuse of office, embezzlement_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard wins a leadership ballot in the Australian Labor Party, defeating former Prime Minister Kevin Rudd. ](/news/2012/02/27/the-prime-minister-of-australia-julia-gillard-wins-a-leadership-ballot-in-the-australian-labor-party-defeating-former-prime-minister-kevin.md)
-_Context: Australian Labor Party, Australian Prime Minister, Julia Gillard, Kevin Rudd, leadership ballot_
+_Context: Australian Labor Party, Julia Gillard, Kevin Rudd, Prime Minister, leadership ballot_
 
 ##### Child murders
 ### [Three students are killed and two injured in a shooting at Chardon High School in the US state of Ohio. ](/news/2012/02/27/three-students-are-killed-and-two-injured-in-a-shooting-at-chardon-high-school-in-the-us-state-of-ohio.md)

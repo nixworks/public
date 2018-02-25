@@ -19,7 +19,7 @@ _Context: Class Action Fairness Act, U.S. federal court, United States House of 
 ### [ Exiled Bangladeshi author Taslima Nasreen, currently living in Sweden, is seeking Indian citizenship. Conservative Muslims of Bangladesh have deemed her works blasphemous and have called for her execution. Nasreen states her wish to live in West Bengal. ](/news/2005/02/17/exiled-bangladeshi-author-taslima-nasreen-currently-living-in-sweden-is-seeking-indian-citizenship-conservative-muslims-of-bangladesh-ha.md)
 _Context: Exile, Muslim, Taslima Nasreen, West Bengal, blasphemy, citizenship, execution_
 
-##### President of the United States
+##### U.S. President
 ### [ US President George W. Bush names John Negroponte as his nominee to be the first United States Director of National Intelligence. ](/news/2005/02/17/us-president-george-w-bush-names-john-negroponte-as-his-nominee-to-be-the-first-united-states-director-of-national-intelligence.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 

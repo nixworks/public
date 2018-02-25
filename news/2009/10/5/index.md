@@ -17,7 +17,7 @@ _Context: France Tlcom, suicide_
 
 ##### U.S.
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: 14th Dalai Lama, Barack Obama, China, President of the United States, U.S._
+_Context: 14th Dalai Lama, Barack Obama, China, U.S., U.S. President_
 
 ##### Honduras
 ### [ Honduran interim President Roberto Micheletti lifts a decree restricting civil liberties. ](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.md)

@@ -13,7 +13,7 @@ _Context: 2009 Massereene Barracks shooting, 38 Engineer Regiment, Antrim, Briti
 
 ##### U.S.
 ### [ U.S. President Barack Obama announces that Operation Enduring Freedom's forces are "not winning" the war in Afghanistan. ](/news/2009/03/8/u-s-president-barack-obama-announces-that-operation-enduring-freedom-s-forces-are-not-winning-the-war-in-afghanistan.md)
-_Context: Afghan, Barack Obama, Operation Enduring Freedom, President of the United States, U.S., War in Afghanistan (2001-present), forces_
+_Context: Afghan, Barack Obama, Operation Enduring Freedom, U.S., U.S. President, War in Afghanistan (2001-present), forces_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 28 people and injures 57 others in Baghdad, Iraq. ](/news/2009/03/8/a-suicide-attack-kills-at-least-28-people-and-injures-57-others-in-baghdad-iraq.md)

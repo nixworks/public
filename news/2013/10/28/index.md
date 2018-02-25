@@ -33,7 +33,7 @@ U.S. copper fabricator Southwire Co dropped its legal fight against physical cop
 
 ##### Australia
 ### [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md)
-_Context: Afghan, Australia, Australian Prime Minister, Tony Abbott_
+_Context: Afghan, Australia, Prime Minister, Tony Abbott_
 
 ##### Al-Shabaab
 ### [A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a-car-south-of-the-somali-capital-m.md)

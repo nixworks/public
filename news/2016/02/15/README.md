@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Insurgency in the North Caucasus
 ### [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Republic, Russia, car bomb, policemen_
+_Context: Dagestan, Insurgency in the North Caucasus, Republic, Russia, car bombings, policemen_
 
 ##### Kashmir conflict
 ### [India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-death-of-two-protester.md)

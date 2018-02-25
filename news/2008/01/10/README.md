@@ -11,9 +11,9 @@ _Context: Mexico-U.S. border, Pharr-Reynosa International Bridge, tractor traile
 ### [ Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md)
 _Context: Bill Richardson, Governor of New Mexico_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush says Israel must return to its pre-1967 borders to enable the establishment of a Palestinian state. ](/news/2008/01/10/u-s-president-george-w-bush-says-israel-must-return-to-its-pre-1967-borders-to-enable-the-establishment-of-a-palestinian-state.md)
-_Context: George W. Bush, Israel, Palestinian state, President of the United States, occupied territories_
+_Context: George W. Bush, Israel, Palestinian state, U.S. President, occupied territories_
 
 ##### Operation Emmanuel
 ### [ Operation Emmanuel: FARC guerrillas release Colombian hostages Clara Rojas and Consuelo Gonzalez. ](/news/2008/01/10/operation-emmanuel-farc-guerrillas-release-colombian-hostages-clara-rojas-and-consuelo-gonza-lez.md)

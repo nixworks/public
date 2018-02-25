@@ -29,7 +29,7 @@ In addition to the presidential museum and gardens, the new center will feature 
 
 ##### Somalia
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md)
-_Context: Abbas Abdullahi Sheikh Siraji, Mogadishu, Somalia, Villa Somalia_
+_Context: Abbas Abdullahi Sheikh Siraji, Mogadishu, Somalia, presidential palace_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md)

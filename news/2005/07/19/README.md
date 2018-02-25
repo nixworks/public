@@ -39,9 +39,9 @@ _Context: Gloria Arroyo, Philippines, President, serious rights violations or ir
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)
 _Context: Chechnya, Russia, explosion_
 
-##### President of the United States
+##### U.S. President
 ### [ US President George W. Bush has nominated federal appeals court judge John Roberts to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-roberts-to-replace-sandra-day-o-connor-wikinews.md)
-_Context: George W. Bush, John Roberts, President of the United States, Sandra Day O'Connor, Wikinews_
+_Context: George W. Bush, John Roberts, Sandra Day O'Connor, U.S. President, Wikinews_
 
 ##### Srinagar
 ### [ 6 killed in Srinagar blast near school. The suicide bomber rammed his car on a passing army jeep, causing a massive explosion. Pakistani group Hizbul Mujahideen is suspected to be behind the attack. ](/news/2005/07/19/6-killed-in-srinagar-blast-near-school-the-suicide-bomber-rammed-his-car-on-a-passing-army-jeep-causing-a-massive-explosion-pakistani-gr.md)

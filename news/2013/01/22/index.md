@@ -35,7 +35,7 @@ The prime minister of the Irish Republic says he hopes other rape victims will n
 ### [The government of the Philippines announces that it will file a complaint against China before the International Tribunal for the Law of the Sea seeking arbitration for the territorial disputes in the South China Sea. ](/news/2013/01/22/the-government-of-the-philippines-announces-that-it-will-file-a-complaint-against-china-before-the-international-tribunal-for-the-law-of-the.md)
 The Philippines says it will challenge Chinese claims in the South China Sea at a UN tribunal, after diplomatic efforts to resolve the row fail.
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
 The United States hascirculated a draft resolution to the U.N. Security Council thatwould condemn North Korea for its December rocket launch andcalls for tightening existing U.N. sanctions, diplomats said onMonday.
 

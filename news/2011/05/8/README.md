@@ -3,9 +3,9 @@ Formats: [HTML](2011/05/8/index.html)  [JSON](2011/05/8/index.json)  [XML](2011/
 
 ## [2011-05-8](/news/2011/05/8/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, President of the United States_
+_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, U.S. President_
 
 ##### Mexico City
 ### [Thousands of people march in Mexico City to protest the 38,000 people that have died in drug-related violence since the beginning of the Mexican Drug War in 2006. ](/news/2011/05/8/thousands-of-people-march-in-mexico-city-to-protest-the-38-000-people-that-have-died-in-drug-related-violence-since-the-beginning-of-the-mex.md)

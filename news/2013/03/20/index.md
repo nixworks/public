@@ -23,7 +23,7 @@ Disruption to the computer networks of broadcasters and banks in South Korea app
 ### [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md)
 _Context: U.S., US State Department, United States-Venezuela relations, Venezuela, communication, informal channel, last month's presidential election_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md)
 Barack Obama says Israel has &quot;no greater friend&quot; than the US, as he makes his first visit to the country as president.
 

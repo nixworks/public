@@ -23,9 +23,9 @@ The defense secretary announced an interim plan while the Pentagon looks at how 
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
 _Context: Hospital Wing, Tennessee, U.S._
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
-_Context: Barack Obama, Cuba, President of the United States, political prisoner_
+_Context: Barack Obama, Cuba, U.S. President, political prisoner_
 
 ##### Mogadishu
 ### [500 homes near the airport in Mogadishu are demolished by Somali troops. ](/news/2010/03/25/500-homes-near-the-airport-in-mogadishu-are-demolished-by-somali-troops.md)

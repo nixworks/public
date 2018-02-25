@@ -47,9 +47,9 @@ _Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexico, Tropical Sto
 ### [ The U.S. National Security Agency is accused of listening to Americans' private phone conversations.](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.md)
 Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone....
 
-##### Montenegro
+##### Montenegrin
 ### [ Montenegro and Macedonia recognize Kosovo, bringing the total number of United Nations members recognising Kosovo to fifty. ](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringing-the-total-number-of-united-nations-members-recognising-kosovo-to-fifty.md)
-_Context: Kosovo, Macedonia, Montenegro, United Nations, officially recognizes_
+_Context: Kosovo, Macedonia, Montenegrin, United Nations, officially recognizes_
 
 ##### Narcoterrorist
 ### [ Narcoterrorist attack on a military convoy by Shining Path guerrillas kills 19 including women and children in southeast Peru. ](/news/2008/10/9/narcoterrorist-attack-on-a-military-convoy-by-shining-path-guerrillas-kills-19-including-women-and-children-in-southeast-peru.md)

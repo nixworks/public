@@ -13,7 +13,7 @@ _Context: ''Madonna'', Edvard Munch, Norway, The Scream_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, United Nations Security Council_
+_Context: Iran, Mahmoud Ahmadinejad, President, Security Council_
 
 ##### Syria
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
@@ -43,9 +43,9 @@ _Context: Apotex, August 8, Bristol-Myers Squibb, Plavix, Sanofi-Aventis, generi
 ### [ The annual development report released by the United Nations Conference on Trade and Development criticizes Japan and Germany for not doing enough to stabilize international trade by buying imports. ](/news/2006/08/31/the-annual-development-report-released-by-the-united-nations-conference-on-trade-and-development-criticizes-japan-and-germany-for-not-doing.md)
 _Context: German, Japan, UNCTAD, import_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council approves resolution 1706, which is meant to resolve the Darfur conflict.](/news/2006/08/31/the-united-nations-security-council-approves-resolution-1706-which-is-meant-to-resolve-the-darfur-conflict.md)
-_Context: Darfur conflict, UNSC Resolution 1706, United Nations Security Council_
+_Context: Darfur conflict, Security Council, UNSC Resolution 1706_
 
 ##### Lockheed
 ### [ The US contractor Lockheed Martin is chosen over an alliance of Northrop Grumman and Boeing to build the new spacecraft "Orion. Orion" was previously known as the Crew Exploration Vehicle. "Orion" will go eventually to the moon by 2014. ](/news/2006/08/31/the-us-contractor-lockheed-martin-is-chosen-over-an-alliance-of-northrop-grumman-and-boeing-to-build-the-new-spacecraft-orion-orion-was.md)

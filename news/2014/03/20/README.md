@@ -15,7 +15,7 @@ _Context: CIA, Harry Reid, Senate Intelligence Committee, United States Senate M
 ### [A passenger train collides with a minibus near the Turkish city of Mersin resulting in at least nine deaths. ](/news/2014/03/20/a-passenger-train-collides-with-a-minibus-near-the-turkish-city-of-mersin-resulting-in-at-least-nine-deaths.md)
 At least nine people are killed and five injured after a passenger train crashes into a minibus carrying people to work in Turkey, local media say.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia, Tony Abbott, advises the Parliament that two objects possibly related to the search for Malaysia Airlines Flight 370 have been located in the southern Indian Ocean. ](/news/2014/03/20/the-prime-minister-of-australia-tony-abbott-advises-the-parliament-that-two-objects-possibly-related-to-the-search-for-malaysia-airlines-f.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 

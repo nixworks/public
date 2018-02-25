@@ -23,7 +23,7 @@ _Context: Brazil, Sao Paulo_
 ### [The United Nations Permanent Court of Arbitration rules in favour of Bangladesh in a border dispute with India over the Bay of Bengal. ](/news/2014/07/8/the-united-nations-permanent-court-of-arbitration-rules-in-favour-of-bangladesh-in-a-border-dispute-with-india-over-the-bay-of-bengal.md)
 A U.N. tribunal has awarded Bangladesh nearly four-fifths of an area sprawling over 25,000 sq km (9,700 sq miles) in the Bay of Bengal, ending a dispute over a sea border with India that has ruffled ties between the neighbours for more than three decades.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md)
 Japan&#039;s PM Shinzo Abe says Australia and his nation are joined like players in a rugby scrum, in a speech to MPs.
 

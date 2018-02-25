@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-ta
 
 ### [2005-01-31](/news/2005/01/31/index.md)
 
-##### Car bomb
+##### Car bombings
 #  Car bomb explodes in Dushanbe, the capital of Tajikistan. 
 
 

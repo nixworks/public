@@ -3,7 +3,7 @@ Formats: [HTML](2014/11/24/index.html)  [JSON](2014/11/24/index.json)  [XML](201
 
 ## [2014-11-24](/news/2014/11/24/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [President Barack Obama accepts the resignation of Secretary of Defense Chuck Hagel. ](/news/2014/11/24/president-barack-obama-accepts-the-resignation-of-secretary-of-defense-chuck-hagel.md)
 Chuck Hagel has resigned as US defence secretary after less than two years in the post, following a series of meetings with President Barack Obama.
 

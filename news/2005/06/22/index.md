@@ -7,9 +7,9 @@ Formats: [HTML](2005/06/22/index.html)  [JSON](2005/06/22/index.json)  [XML](200
 ### [ In Poland, opposition demands resignation of prime minister Marek Belka because of allegations that declassified files show he had ties to communist-era security services. Belka refuses to do so, stating that he signed a contract to be allowed to go to study trip to USA ](/news/2005/06/22/in-poland-opposition-demands-resignation-of-prime-minister-marek-belka-because-of-allegations-that-declassified-files-show-he-had-ties-to.md)
 _Context: Marek Belka, Poland_
 
-##### United Nations Security Council
+##### Security Council
 ### [ United Nations Security Council votes to send 750 more peacekeepers to Haiti for elections and extend the UN mandate to February 15 2006 ](/news/2005/06/22/united-nations-security-council-votes-to-send-750-more-peacekeepers-to-haiti-for-elections-and-extend-the-un-mandate-to-february-15-2006.md)
-_Context: 2006, February 15, Haiti, United Nations Security Council, peacekeeping_
+_Context: 2006, February 15, Haiti, Security Council, peacekeeping_
 
 ##### Ethiopia
 ### [ In Ethiopia, main opposition group Coalition for Unity and Democracy states that government investigators have dropped all their complaints about possible election fraud. Government still has not released any results ](/news/2005/06/22/in-ethiopia-main-opposition-group-coalition-for-unity-and-democracy-states-that-government-investigators-have-dropped-all-their-complaints.md)

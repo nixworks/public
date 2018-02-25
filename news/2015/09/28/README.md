@@ -17,7 +17,7 @@ _Context: Catalonia, Catalonian parliamentary election, 2015, Mariano Rajoy, Pri
 
 ##### Democratic Front
 ### [Pro-Serbian opposition from the Democratic Front holds a mass protest rally in the capital of Montenegro, Podgorica, demanding the resignation of the government of Prime Minister Milo Dukanovic. ](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.md)
-_Context: Democratic Front, Milo Dukanovic, Montenegro, Podgorica_
+_Context: Democratic Front, Milo Dukanovic, Montenegrin, Podgorica_
 
 ##### 2015 Pacific typhoon season
 ### [Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-islands-ahead-of-this.md)

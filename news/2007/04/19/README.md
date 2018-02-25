@@ -7,9 +7,9 @@ Formats: [HTML](2007/04/19/index.html)  [JSON](2007/04/19/index.json)  [XML](200
 ### [ An Amnesty International report claims that the attacks on Afghan civilians by the Taliban are widespread and systematic. ](/news/2007/04/19/an-amnesty-international-report-claims-that-the-attacks-on-afghan-civilians-by-the-taliban-are-widespread-and-systematic.md)
 _Context: Afghan, Amnesty International, Taliban, civilian_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia John Howard states that the Murray-Darling basin faces an "unprecedentedly dangerous" water shortage and that irrigation for farmers will be cut off unless there is significant rain in the next 6-8 weeks. ](/news/2007/04/19/the-prime-minister-of-australia-john-howard-states-that-the-murrayadarling-basin-faces-an-unprecedentedly-dangerous-water-shortage-and.md)
-_Context: Australian Prime Minister, John Howard, Murray-Darling basin, irrigation, water_
+_Context: John Howard, Murray-Darling basin, Prime Minister, irrigation, water_
 
 ##### NATO
 ### [ The United States holds talks with NATO and Russian officials over plans to deploy a missile defence system in Europe. ](/news/2007/04/19/the-united-states-holds-talks-with-nato-and-russian-officials-over-plans-to-deploy-a-missile-defence-system-in-europe.md)

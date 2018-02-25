@@ -29,7 +29,7 @@ _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
 
 ##### United States Senate
 ### [ Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment-of-detainees.md)
-_Context: George W. Bush, John McCain, President of the United States, United States Senate_
+_Context: George W. Bush, John McCain, U.S. President, United States Senate_
 
 ##### Chechnya
 ### [ Extreme levels of radiation have been found at a chemical factory in Chechnya. ](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.md)

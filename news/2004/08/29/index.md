@@ -19,9 +19,9 @@ _Context: Dick Cheney, George W. Bush, National Convention, Republican, U.S. Vic
 ### [ The 2004 Summer Olympics are closed by IOC President Jacques Rogge. ](/news/2004/08/29/the-2004-summer-olympics-are-closed-by-ioc-president-jacques-rogge.md)
 _Context: 2004 Summer Olympics, International Olympic Committee, Jacques Rogge_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Australian Prime Minister John Howard announces that the 2004 Australian federal election will take place on October 9, 2004. ](/news/2004/08/29/australian-prime-minister-john-howard-announces-that-the-2004-australian-federal-election-will-take-place-on-october-9-2004.md)
-_Context: 2004 Australian federal election, Australian Prime Minister, John Howard_
+_Context: 2004 Australian federal election, John Howard, Prime Minister_
 
 ##### Afghan
 ### [ An explosion at a school in southern Afghanistan has killed at least 10 people, many of them children, the US military has said. ](/news/2004/08/29/an-explosion-at-a-school-in-southern-afghanistan-has-killed-at-least-10-people-many-of-them-children-the-us-military-has-said.md)

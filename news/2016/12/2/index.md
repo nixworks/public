@@ -51,7 +51,7 @@ _Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee_
 ### [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md)
 _Context: Chinese, Hubei_
 
-##### President of the United States
+##### U.S. President
 ### [United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. ](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.md)
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 

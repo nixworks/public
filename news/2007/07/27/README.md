@@ -33,7 +33,7 @@ _Context: Zimbabwe, price control_
 
 ##### President of Indonesia
 ### [ The President of Indonesia Susilo Bambang Yudhoyono meets with the Prime Minister of Australia John Howard to discuss security issues and the possibility of a bilateral free trade agreement. ](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.md)
-_Context: Australian Prime Minister, John Howard, President of Indonesia, Susilo Bambang Yudhoyono, free trade_
+_Context: John Howard, President of Indonesia, Prime Minister, Susilo Bambang Yudhoyono, free trade_
 
 ##### Flood
 ### [ The death toll from floods and landslides on the Sulawesi island of Indonesia rises to 107. ](/news/2007/07/27/the-death-toll-from-floods-and-landslides-on-the-sulawesi-island-of-indonesia-rises-to-107.md)

@@ -49,7 +49,7 @@ _Context: Antarctica, Argentina, Chile, United Kingdom, disputed region, territo
 
 ##### U.S.
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, President of the United States, U.S., embryonic stem cell research, restrictions_
+_Context: Barack Obama, George W. Bush, U.S., U.S. President, embryonic stem cell research, restrictions_
 
 ##### U.S.
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS "Impeccable" in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)

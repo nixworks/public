@@ -39,7 +39,7 @@ _Context: Bernardo Alvarez Herrera, U.S., visa-free travel_
 ### [An open letter from about 30 rabbi wives causes controversy due to its call for Israeli girls not to date Arabs or work in places that employ non-jews, three weeks after a similar letter urged Jews not to engage in property trade with non-Jews. ](/news/2010/12/29/an-open-letter-from-about-30-rabbi-wives-causes-controversy-due-to-its-call-for-israeli-girls-not-to-date-arabs-or-work-in-places-that-emplo.md)
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.
 
-##### United Nations Security Council
+##### Security Council
 ### [A proposed draft resolution calling on the United Nations Security Council to criticise the construction of settlements by Israel is obtained by the Associated Press. ](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.md)
 Proposed draft resolution calls on Security Council to condemn Israeli settlements after impasse over US-brokered talks.
 

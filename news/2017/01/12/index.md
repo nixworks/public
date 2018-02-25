@@ -3,9 +3,9 @@ Formats: [HTML](2017/01/12/index.html)  [JSON](2017/01/12/index.json)  [XML](201
 
 ## [2017-01-12](/news/2017/01/12/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama awards his Vice President Joe Biden the Presidential Medal of Freedom with Distinction, the only time the president has awarded this particular honor during his tenure. ](/news/2017/01/12/the-president-of-the-united-states-barack-obama-awards-his-vice-president-joe-biden-the-presidential-medal-of-freedom-with-distinction-the.md)
-_Context: Barack Obama, Joe Biden, President of the United States, Presidential Medal of Freedom with Distinction_
+_Context: Barack Obama, Joe Biden, Presidential Medal of Freedom with Distinction, U.S. President_
 
 ##### Lin family murders
 ### [Robert Xie is found guilty of the Lin family murders seven years after their bodies were found in the Australian city of Sydney. ](/news/2017/01/12/robert-xie-is-found-guilty-of-the-lin-family-murders-seven-years-after-their-bodies-were-found-in-the-australian-city-of-sydney.md)

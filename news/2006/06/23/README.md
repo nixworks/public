@@ -29,7 +29,7 @@ Saddam Hussein thinks that the United States will have to seek his help to quell
 
 ##### U.S.
 ### [ U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..." ](/news/2006/06/23/u-s-president-george-w-bush-has-issued-an-executive-order-stating-that-he-will-limit-taking-of-private-property-by-the-federal-government.md)
-_Context: George W. Bush, President of the United States, U.S., executive order_
+_Context: George W. Bush, U.S., U.S. President, executive order_
 
 ##### U.S.
 ### [ Director of the United States Missile Defense Agency, Air Force Lt. Gen. Henry A. Obering III, stated that he is "very confident" any North Korean missile headed towards the United States would be destroyed mid-flight by interceptor missiles if approved by the President. ](/news/2006/06/23/director-of-the-united-states-missile-defense-agency-air-force-lt-gen-henry-a-obering-iii-stated-that-he-is-very-confident-any-north.md)

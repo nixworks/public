@@ -19,7 +19,7 @@ _Context: Fukui Prefecture, Japan, Takahama Nuclear Power Plant_
 ### [The United Nations Security Council votes to impose sanctions on Yemen's Houthi rebels. ](/news/2015/04/14/the-united-nations-security-council-votes-to-impose-sanctions-on-yemen-s-houthi-rebels.md)
 The United Nations Security Council voted Tuesday to impose an arms embargo on Yemen’s Iran-backed Houthi rebels in an attempt to quell violence that the world body’s envoy to the impoverished Middle East country has warned is on a “rapid downward spiral.”
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama endorses a proposal to remove Cuba from a list of countries that sponsor terrorism. ](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.md)
 President Obama intends to remove Cuba from the government’s list of nations that sponsor terrorism, eliminating a major obstacle to the restoration of diplomatic relations after decades of hostilities.
 

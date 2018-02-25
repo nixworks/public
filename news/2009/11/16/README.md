@@ -45,7 +45,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### Kevin Rudd
 ### [ Kevin Rudd, the Prime Minister of Australia, apologises to the "forgotten Australians" raised in orphanages and foster homes during the twentieth century. ](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.md)
-_Context: Australian Prime Minister, Kevin Rudd, foster home, orphanage, twentieth century_
+_Context: Kevin Rudd, Prime Minister, foster home, orphanage, twentieth century_
 
 ## [Previous Day...](/news/2009/11/15/index.md)
 

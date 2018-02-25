@@ -25,7 +25,7 @@ _Context: Arnold Schwarzenegger, Bill Lockyer, California, Same-sex marriage in 
 
 ##### 2004 U.S. Presidential Election
 ### [ 2004 U.S. Presidential Election: Ralph Nader declares his candidacy for the position of President of the United States as an independent candidate. ](/news/2004/02/22/2004-u-s-presidential-election-ralph-nader-declares-his-candidacy-for-the-position-of-president-of-the-united-states-as-an-independent-ca.md)
-_Context: 2004 U.S. Presidential Election, President of the United States, Ralph Nader_
+_Context: 2004 U.S. Presidential Election, Ralph Nader, U.S. President_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: 8 Israelis are killed and 60 wounded, among them children on their way to school, in a suicide bombing of a city bus in Jerusalem, Israel. The Al-Aqsa Martyrs' Brigades branch of Fatah claimed responsibility. The attack occurs one day before the start of hearings at the International Court of Justice regarding the Israeli West Bank barrier. "This attack proves just how urgent it is to build the fence", Israeli Foreign Minister Silvan Shalom said. "It is a clear preventive measure&nbsp;... We will continue building it because it saves lives." The suicide bomber came from Husan, a populated area near Bethlehem. ](/news/2004/02/22/israeli-palestinian-conflict-8-israelis-are-killed-and-60-wounded-among-them-children-on-their-way-to-school-in-a-suicide-bombing-of-a-c.md)

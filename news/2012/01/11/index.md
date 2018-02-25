@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/11/index.html)  [JSON](2012/01/11/index.json)  [XML](201
 
 ##### Republican candidates
 ### [Republican candidates for United States President are campaigning in South Carolina for the upcoming South Carolina primaries. ](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.md)
-_Context: President of the United States, Republican candidates, South Carolina, South Carolina primaries_
+_Context: Republican candidates, South Carolina, South Carolina primaries, U.S. President_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot pleads guilty to killing a Peruvian woman. ](/news/2012/01/11/joran-van-der-sloot-pleads-guilty-to-killing-a-peruvian-woman.md)

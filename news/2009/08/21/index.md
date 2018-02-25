@@ -11,9 +11,9 @@ _Context: King Saint Stephen, King of Hungary, Lszl Slyom, President of Hungary,
 ### [ A 34-year-old Tunisian woman from Gafsa, thought to have been pregnant with 12 babies and whose story had attracted international attention, is determined to have been the victim of a phantom pregnancy. ](/news/2009/08/21/a-34-year-old-tunisian-woman-from-gafsa-thought-to-have-been-pregnant-with-12-babies-and-whose-story-had-attracted-international-attention.md)
 _Context: Gafsa, Tunisia, phantom pregnancy, pregnant_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya. ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
-_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, President of the United States_
+_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, U.S. President_
 
 ##### Mexico
 ### [ Mexico decriminalises the use of small amounts of marijuana, cocaine, heroin and other drugs for "personal use". ](/news/2009/08/21/mexico-decriminalises-the-use-of-small-amounts-of-marijuana-cocaine-heroin-and-other-drugs-for-personal-use.md)

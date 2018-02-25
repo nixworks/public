@@ -37,7 +37,7 @@ _Context: Askar Akayev, Kyrgyzstan, Tulip Revolution, president, resignation_
 
 ##### U.S.
 ### [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his ""courageous initiative"" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settlem.md)
-_Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli Prime Minister, Israeli settlement, President of the United States, Texas, U.S., USA_
+_Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli Prime Minister, Israeli settlement, Texas, U.S., U.S. President, USA_
 
 ##### Election of a new secretary general
 ### [ The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. ](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.md)

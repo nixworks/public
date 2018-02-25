@@ -7,9 +7,9 @@ Formats: [HTML](2013/08/13/index.html)  [JSON](2013/08/13/index.json)  [XML](201
 ### [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md)
 _Context: Peace talks_
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
-_Context: American Airlines, Department of Justice, US Airways, reduced competition and higher prices_
+_Context: American Airlines, U.S. Justice Department, US Airways, reduced competition and higher prices_
 
 ##### United States House of Representatives
 ### [American politician and former House Representative Jesse Jackson Jr. is sentenced to 30 months in prison for spending $750,000 in campaign funds on personal items, and will serve his sentence first before his wife, former Chicago alderman Sandi Jackson, who was given a one year term for tax fraud. ](/news/2013/08/13/american-politician-and-former-house-representative-jesse-jackson-jr-is-sentenced-to-30-months-in-prison-for-spending-750-000-in-campaign.md)

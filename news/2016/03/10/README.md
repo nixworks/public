@@ -25,7 +25,7 @@ North Korea looked to ratchet up already elevated tensions on the Korean peninsu
 
 ##### United States-Venezuela relations
 ### [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md)
-_Context: Barack Obama, President of the United States, United States-Venezuela relations, Venezuela, Washington, D.C., charge d'affaires, its embassy_
+_Context: Barack Obama, U.S. President, United States-Venezuela relations, Venezuela, Washington, D.C., charge d'affaires, its embassy_
 
 ##### Louisiana
 ### [Two days of heavy rain in the American state of Louisiana has caused at least three deaths and caused more than a thousand people to evacuate their homes. ](/news/2016/03/10/two-days-of-heavy-rain-in-the-american-state-of-louisiana-has-caused-at-least-three-deaths-and-caused-more-than-a-thousand-people-to-evacuat.md)

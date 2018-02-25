@@ -19,9 +19,9 @@ Government official says last batch of inmates of detention camps to go home in 
 ### [ New research concludes that "Homo floresiensis", discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfism.md)
 _Context: Homo floresiensis, dwarfism, microcephaly_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President Barack Obama's job approval rating slips below 50 percent in a daily tracking survey by Gallup poll. ](/news/2009/11/21/u-s-president-barack-obama-s-job-approval-rating-slips-below-50-percent-in-a-daily-tracking-survey-by-gallup-poll.md)
-_Context: Barack Obama, Gallup poll, President of the United States_
+_Context: Barack Obama, Gallup poll, U.S. President_
 
 ##### United Kingdom
 ### [ British Prime Minister Gordon Brown travels to Cumbria to meet victims of the floods that have affected the area. ](/news/2009/11/21/british-prime-minister-gordon-brown-travels-to-cumbria-to-meet-victims-of-the-floods-that-have-affected-the-area.md)

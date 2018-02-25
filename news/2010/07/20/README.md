@@ -45,7 +45,7 @@ _Context: November's presidential poll, Supreme Court_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghan, Barack Obama, David Cameron, Deepwater Horizon oil spill, President of the United States, Prime Minister_
+_Context: Afghan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
 
 ##### ASEAN
 ### [ASEAN requests that Myanmar hold free elections. ](/news/2010/07/20/asean-requests-that-myanmar-hold-free-elections.md)

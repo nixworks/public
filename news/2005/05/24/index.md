@@ -21,7 +21,7 @@ _Context: Andes, Chile, military service_
 
 ##### John Howard
 ### [ John Howard, the Prime Minister of Australia, has written to his Japanese counterpart, Junichiro Koizumi, urging Japan to reconsider its position on whaling. The International Whaling Commission is expected to consider Japan's expansion proposal when it meets next month. ](/news/2005/05/24/john-howard-the-prime-minister-of-australia-has-written-to-his-japanese-counterpart-junichiro-koizumi-urging-japan-to-reconsider-its-po.md)
-_Context: Australian Prime Minister, International Whaling Commission, Japan, John Howard, Junichiro Koizumi, whaling_
+_Context: International Whaling Commission, Japan, John Howard, Junichiro Koizumi, Prime Minister, whaling_
 
 ##### Al-Qaeda
 ### [ Al-Qaeda in Iraq claims in its website that Abu Musab al-Zarqawi has been wounded. ](/news/2005/05/24/al-qaeda-in-iraq-claims-in-its-website-that-abu-musab-al-zarqawi-has-been-wounded.md)

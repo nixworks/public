@@ -51,7 +51,7 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 ### [Russia has ordered the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.](/news/2015/11/6/russia-has-ordered-the-suspension-of-all-flights-to-egypt-following-indications-that-the-crash-near-sharm-el-sheikh-was-caused-by-a-bomb.md)
 Russia orders the suspension of all flights to Egypt following indications that the crash near Sharm el-Sheikh was caused by a bomb.
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President Barack Obama announces that the State Department has rejected TransCanada's application to complete the Keystone XL pipeline. ](/news/2015/11/6/u-s-president-barack-obama-announces-that-the-state-department-has-rejected-transcanada-s-application-to-complete-the-keystone-xl-pipeline.md)
 The president’s decision was a major victory for environmentalists and a bitter loss for the oil industry.
 

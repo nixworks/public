@@ -15,7 +15,7 @@ _Context: British Columbia, Starbucks, Taco Del Mar, Vancouver_
 ### [ Ch K-Run's Park Me In First, a.k.a. Uno wins Best in Show at the Westminster Kennel Club Dog Show, the first beagle to win the show. ](/news/2008/02/13/ch-k-run-s-park-me-in-first-a-k-a-uno-wins-best-in-show-at-the-westminster-kennel-club-dog-show-the-first-beagle-to-win-the-show.md)
 Uno became the first beagle to win best in show at the Westminster Kennel Club on Tuesday.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Prime Minister Kevin Rudd issues a formal apology to the Indigenous Stolen Generation on behalf of the Parliament of Australia. ](/news/2008/02/13/prime-minister-kevin-rudd-issues-a-formal-apology-to-the-indigenous-stolen-generation-on-behalf-of-the-parliament-of-australia.md)
 Prime Minister Kevin Rudd has delivered the long-awaited apology to Australia&#039;s Stolen Generations.
 

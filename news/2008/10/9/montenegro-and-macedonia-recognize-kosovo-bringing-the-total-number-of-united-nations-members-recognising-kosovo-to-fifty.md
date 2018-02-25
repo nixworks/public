@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringi
 
 ### [2008-10-9](/news/2008/10/9/index.md)
 
-##### Montenegro
+##### Montenegrin
 #  Montenegro and Macedonia recognize Kosovo, bringing the total number of United Nations members recognising Kosovo to fifty. 
 
 

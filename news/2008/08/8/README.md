@@ -11,9 +11,9 @@ _Context: Democrat, John Edwards, Rielle Hunter, an affair, presidential candida
 ### [ UK home repossessions rise by 48%. ](/news/2008/08/8/uk-home-repossessions-rise-by-48.md)
 _Context: repossession_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush dedicates a new American embassy in Beijing. ](/news/2008/08/8/the-president-of-the-united-states-george-w-bush-dedicates-a-new-american-embassy-in-beijing.md)
-_Context: George W. Bush, President of the United States, U.S._
+_Context: George W. Bush, U.S., U.S. President_
 
 ##### Xinjiang, China
 ### [ A terrorist group seeking an independent Muslim state in Xinjiang, China releases a video threatening an attack on the 2008 Olympic Games. ](/news/2008/08/8/a-terrorist-group-seeking-an-independent-muslim-state-in-xinjiang-china-releases-a-video-threatening-an-attack-on-the-2008-olympic-games.md)

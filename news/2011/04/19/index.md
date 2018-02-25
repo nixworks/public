@@ -47,9 +47,9 @@ US soldier Bradley Manning, who is accused of leaking government documents publi
 ### [Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-of-egypt.md)
 _Context: Hosni Mubarak, Omar Suleiman_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continues.md)
-_Context: United Nations Security Council, Yemen_
+_Context: Security Council, Yemen_
 
 ##### Homs
 ### [Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in-syria.md)

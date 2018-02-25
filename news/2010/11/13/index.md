@@ -19,7 +19,7 @@ Pro-democracy leader emerges from seven-year house arrest and addresses supporte
 ### [Morocco arrests 96 people it accuses of inciting violence during last Monday's deadly police raid on the Gdaim Izik camp in Western Sahara. Half a dozen appear before a military court, including activist Annaama Asfari. ](/news/2010/11/13/morocco-arrests-96-people-it-accuses-of-inciting-violence-during-last-monday-s-deadly-police-raid-on-the-gdaim-izik-camp-in-western-sahara.md)
 Morocco arrests 96 people accused of inciting violence during police raid on a squatter camp in disputed Western Sahara.
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council receives a report on violations of the Darfur weapons embargo; China says it is vaguely worded and full of flaws. ](/news/2010/11/13/the-united-nations-security-council-receives-a-report-on-violations-of-the-darfur-weapons-embargo-china-says-it-is-vaguely-worded-and-full.md)
 The UN Security Council receives a controversial report on violations of the Darfur weapons embargo, critical of China and Sudan.
 

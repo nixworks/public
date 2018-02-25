@@ -7,9 +7,9 @@ Formats: [HTML](2004/12/19/index.html)  [JSON](2004/12/19/index.json)  [XML](200
 ### [ Rice University computer scientists find a security hole in Google's desktop search program. ](/news/2004/12/19/rice-university-computer-scientists-find-a-security-hole-in-google-s-desktop-search-program.md)
 _Context: Google, Rice University_
 
-##### President of the United States
+##### U.S. President
 ### [ US president George W. Bush is named "Person of the Year" by "Time" magazine. ](/news/2004/12/19/us-president-george-w-bush-is-named-person-of-the-year-by-time-magazine.md)
-_Context: George W. Bush, Person of the Year, President of the United States, Time_
+_Context: George W. Bush, Person of the Year, Time, U.S. President_
 
 ##### Turkmenistan
 ### [ The people of Turkmenistan go to the polls to elect a new parliament. Voters will choose between candidates, all of whom have pledged support to President Niyazov, the "Turkmenbashi" or "leader of Turkmens". ](/news/2004/12/19/the-people-of-turkmenistan-go-to-the-polls-to-elect-a-new-parliament-voters-will-choose-between-candidates-all-of-whom-have-pledged-suppo.md)

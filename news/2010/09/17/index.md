@@ -83,9 +83,9 @@ Officials in Sri Lanka say 25 people, not the 60 earlier stated, were killed in 
 ### [The United Nations launches an appeal for more than $2 billion in the wake of the 2010 Pakistan floods: this represents the organisation's biggest response to a natural disaster. ](/news/2010/09/17/the-united-nations-launches-an-appeal-for-more-than-2-billion-in-the-wake-of-the-2010-pakistan-floods-this-represents-the-organisation-s-b.md)
 The United Nations launches a $2bn appeal for Pakistan flood victims, its biggest response to a natural disaster.
 
-##### United Airlines
+##### United
 ### [United Airlines shareholders meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md)
-_Context: Continental Airlines, Elk Grove, Illinois, United Airlines, shareholder_
+_Context: Continental Airlines, Elk Grove, Illinois, United, shareholder_
 
 ##### U.S.
 ### [US entertainer Paris Hilton agrees to a plea bargain with prosecutors in Las Vegas, Nevada, to avoid a jail sentence. ](/news/2010/09/17/us-entertainer-paris-hilton-agrees-to-a-plea-bargain-with-prosecutors-in-las-vegas-nevada-to-avoid-a-jail-sentence.md)

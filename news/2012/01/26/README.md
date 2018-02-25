@@ -3,7 +3,7 @@ Formats: [HTML](2012/01/26/index.html)  [JSON](2012/01/26/index.json)  [XML](201
 
 ## [2012-01-26](/news/2012/01/26/index.md)
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Security escort Australian Prime Minister Julia Gillard and Opposition Leader Tony Abbott from a restaurant in Canberra after indigenous protesters surrounded the building on Australia Day in response to comments made by Abbott. ](/news/2012/01/26/security-escort-australian-prime-minister-julia-gillard-and-opposition-leader-tony-abbott-from-a-restaurant-in-canberra-after-indigenous-pro.md)
 About 200 protesters trapped Prime Minister Julia Gillard and Opposition Leader Tony Abbott in a Canberra restaurant before police arrived to clear a passage for the pair.
 

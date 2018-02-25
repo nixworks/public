@@ -19,9 +19,9 @@ _Context: George W. Bush, Group of Eight, Russia, Strelna, U.S., Vladimir Putin,
 ### [ British troops in Afghanistan are undertaking their biggest operation since the fall of the Taliban in 2001. ](/news/2006/07/15/british-troops-in-afghanistan-are-undertaking-their-biggest-operation-since-the-fall-of-the-taliban-in-2001.md)
 _Context: 2001, Afghan, Taliban, United Kingdom_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council unanimously adopts a resolution calling for weapons-related sanctions against North Korea. North Korea rejects the resolution. ](/news/2006/07/15/the-united-nations-security-council-unanimously-adopts-a-resolution-calling-for-weapons-related-sanctions-against-north-korea-north-korea.md)
-_Context: North Korea, United Nations Security Council_
+_Context: North Korea, Security Council_
 
 ##### 32nd G8 summit
 ### [ The 32nd G8 summit begins in Saint Petersburg, Russia. ](/news/2006/07/15/the-32nd-g8-summit-begins-in-saint-petersburg-russia.md)

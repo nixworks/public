@@ -3,7 +3,7 @@ Formats: [HTML](2014/05/28/index.html)  [JSON](2014/05/28/index.json)  [XML](201
 
 ## [2014-05-28](/news/2014/05/28/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)
 President Barack Obama promises a US foreign policy based on &quot;collective action&quot; with allies abroad and funds to train allies to fight terrorism.
 

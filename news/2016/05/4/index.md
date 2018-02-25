@@ -17,7 +17,7 @@ _Context: Khadga Prasad Sharma Oli, Nepalese Maoist Party, Prime Minister, the N
 
 ##### North Carolina Public Facilities Privacy & Security Act
 ### [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md)
-_Context: 1964 Civil Rights Act, Department of Justice, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, restroom access for transgender people_
+_Context: 1964 Civil Rights Act, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, U.S. Justice Department, restroom access for transgender people_
 
 ##### European migrant crisis
 ### [The European Union proposes visa-free travel for Turkish citizens within Europe's Schengen Area and invites member states and EU lawmakers to endorse the move by June 30. The EU says Turkey has met all but five of the 72 criteria included in the agreement in exchange for its efforts to stop asylum seekers from reaching Europe. This visa deal also needs approval from the European Parliament. ](/news/2016/05/4/the-european-union-proposes-visa-free-travel-for-turkish-citizens-within-europe-s-schengen-area-and-invites-member-states-and-eu-lawmakers-t.md)

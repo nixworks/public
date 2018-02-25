@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/6/the-united-nations-security-council-adopts-resol
 
 ### [2013-03-6](/news/2013/03/6/index.md)
 
-##### United Nations Security Council
+##### Security Council
 # The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. 
 
 The U.N. Security Council agreed on Wednesday to partially lift a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy light weapons to strengthen its security forces to fight al Qaeda-linked Islamists.
@@ -25,5 +25,5 @@ The U.N. Security Council agreed on Wednesday to partially lift a decades-old ar
 1. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Mogadishu, Somali military, Somalia_
 2. [A car bomb outside a shopping mall in the Somali capital Mogadishu kills at least three and injures at least eight. The al Qaeda-linked Al Shabaab claim responsibility. ](/news/2015/12/19/a-car-bomb-outside-a-shopping-mall-in-the-somali-capital-mogadishu-kills-at-least-three-and-injures-at-least-eight-the-al-qaeda-linked-al-s.md) _Context: Mogadishu, Somalia, al-Qaeda_
 3. [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md) _Context: Mogadishu, Somali military, Somalia_
-4. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Mogadishu, Somalia_
-5. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Mogadishu, Somalia_
+4. [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md) _Context: Mogadishu, Somalia_
+5. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Mogadishu, Somalia_

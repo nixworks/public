@@ -37,7 +37,7 @@ _Context: Israel Defence Forces, Palestinian Authority, Ramallah, military intel
 
 ##### Foreign Minister
 ### [ Foreign Minister of Iran Manouchehr Mottaki confirms that Iran will attend a conference on Iraq featuring Iraq's neighbours and the permanent members of the United Nations Security Council. ](/news/2007/03/7/foreign-minister-of-iran-manouchehr-mottaki-confirms-that-iran-will-attend-a-conference-on-iraq-featuring-iraq-s-neighbours-and-the-permane.md)
-_Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, United Nations Security Council_
+_Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, Security Council_
 
 ##### President
 ### [ President of Mauritius Anerood Jugnauth threatens to leave the Commonwealth of Nations over the British government's treatment of the lois of the Chagos Archipelago. ](/news/2007/03/7/president-of-mauritius-anerood-jugnauth-threatens-to-leave-the-commonwealth-of-nations-over-the-british-government-s-treatment-of-the-ilois.md)
@@ -45,7 +45,7 @@ _Context: Anerood Jugnauth, Chagos Archipelago, Commonwealth of Nations, Mauriti
 
 ##### Jordan
 ### [ Three Jordanians go on trial for plotting to assassinate U.S. President George W. Bush. ](/news/2007/03/7/three-jordanians-go-on-trial-for-plotting-to-assassinate-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Jordan, President of the United States, assassinate_
+_Context: George W. Bush, Jordan, U.S. President, assassinate_
 
 ##### Shia
 ### [ At least 30 Shia pilgrims heading to the city of Karbala for Arbaeen die as a suicide bomber attacks a caf in Balad Ruz in Iraq's eastern Diyala Governorate. ](/news/2007/03/7/at-least-30-shia-pilgrims-heading-to-the-city-of-karbala-for-arbaeen-die-as-a-suicide-bomber-attacks-a-cafe-in-balad-ruz-in-iraq-s-eastern.md)

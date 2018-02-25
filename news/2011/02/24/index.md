@@ -11,7 +11,7 @@ _Context: Discovery, final mission_
 ### [The School Board in the US city of Providence, Rhode Island, votes to send dismissal notices to all of the 1,926 teachers in the Providence Public School District. ](/news/2011/02/24/the-school-board-in-the-us-city-of-providence-rhode-island-votes-to-send-dismissal-notices-to-all-of-the-1-926-teachers-in-the-providence.md)
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces a carbon pricing scheme to start on July 1, 2012. ](/news/2011/02/24/the-prime-minister-of-australia-julia-gillard-announces-a-carbon-pricing-scheme-to-start-on-july-1-2012.md)
 A carbon price scheme will be rolled out from July 2012 with a fixed price for the first three to five years.
 
@@ -37,7 +37,7 @@ A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face se
 
 ##### Saudi Arabia
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Colorado, Dallas, George W. Bush, President of the United States, Saudi Arabia, Texas_
+_Context: California, Colorado, Dallas, George W. Bush, Saudi Arabia, Texas, U.S. President_
 
 ##### 
 ### [A "one-dog policy" is announced in Shanghai, China, with more than 600,000 unlicensed dogs to be declared illegal.](/news/2011/02/24/a-one-dog-policy-is-announced-in-shanghai-china-with-more-than-600-000-unlicensed-dogs-to-be-declared-illegal.md)

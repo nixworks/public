@@ -19,9 +19,9 @@ _Context: Crown Princess Victoria, Swedish throne, a baby girl_
 ### [Tens of thousands rally at Moscow's Luzhniki Stadium in support of the Prime Minister Vladimir Putin's candidacy for President of Russia in the upcoming election on March 4th. ](/news/2012/02/23/tens-of-thousands-rally-at-moscow-s-luzhniki-stadium-in-support-of-the-prime-minister-vladimir-putin-s-candidacy-for-president-of-russia-in.md)
 Thousands of supporters hear Vladimir Putin deliver a strongly patriotic speech at a Moscow stadium as he bids for re-election.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard calls for a ballot of a caucus of the Australian Labor Party for Monday as a result of the resignation of Foreign Minister Kevin Rudd. ](/news/2012/02/23/the-prime-minister-of-australia-julia-gillard-calls-for-a-ballot-of-a-caucus-of-the-australian-labor-party-for-monday-as-a-result-of-the-res.md)
-_Context: Australian Labor Party, Australian Prime Minister, Foreign Minister of Australia, Julia Gillard, Kevin Rudd, ballot, caucus_
+_Context: Australian Labor Party, Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Prime Minister, ballot, caucus_
 
 ##### Eric Joyce
 ### [Eric Joyce, the Labour Member of Parliament for Falkirk, is arrested after an alleged brawl in a House of Commons of the United Kingdom bar. ](/news/2012/02/23/eric-joyce-the-labour-member-of-parliament-for-falkirk-is-arrested-after-an-alleged-brawl-in-a-house-of-commons-of-the-united-kingdom-bar.md)

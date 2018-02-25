@@ -17,7 +17,7 @@ Syria’s decision means America will be the only country outside the landmark d
 
 ##### South Korea-United States relations
 ### [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md)
-_Context: 2017 North Korea crisis, Donald Trump, North Korea, President of the United States, South Korea, South Korea-United States relations_
+_Context: 2017 North Korea crisis, Donald Trump, North Korea, South Korea, South Korea-United States relations, U.S. President_
 
 ##### Yemeni Crisis (2011-present)
 ### [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md)

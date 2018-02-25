@@ -31,7 +31,7 @@ _Context: 2009 shooting of Lakewood, Washington, police officers, Maurice Clemmo
 ### [ U.S. golfer Tiger Woods announces that he will not be attending his own charity golf tournament, the Chevron World Challenge, or any other tournaments in 2009. ](/news/2009/12/1/u-s-golfer-tiger-woods-announces-that-he-will-not-be-attending-his-own-charity-golf-tournament-the-chevron-world-challenge-or-any-other.md)
 _Context: Chevron World Challenge, Tiger Woods_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President Barack Obama announces that he will send 30,000 extra American troops to Afghanistan within the next six months and start withdrawal in 19 months. ](/news/2009/12/1/u-s-president-barack-obama-announces-that-he-will-send-30-000-extra-american-troops-to-afghanistan-within-the-next-six-months-and-start-wi.md)
 President Obama plans to announce Tuesday that he will begin to move U.S. forces out of Afghanistan in July 2011, an administration official said.
 

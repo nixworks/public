@@ -9,7 +9,7 @@ _Context: Afghan, Kandahar, NATO_
 
 ##### John Howard
 ### [ John Howard announces that he intends to stay on as Prime Minister of Australia until the 2007 election which he plans to contest as Leader of the Liberal Party of Australia. ](/news/2006/07/31/john-howard-announces-that-he-intends-to-stay-on-as-prime-minister-of-australia-until-the-2007-election-which-he-plans-to-contest-as-leader.md)
-_Context: Australian Prime Minister, John Howard, Liberals_
+_Context: John Howard, Liberals, Prime Minister_
 
 ##### UN Security Council
 ### [ The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-54-lebanese-civilians-many-of.md)
@@ -21,7 +21,7 @@ _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 
 ##### Tony Blair
 ### [ Tony Blair and Arnold Schwarzenegger have announced their intention to collaborate to decrease carbon emissions and fight global warming. Their plan includes incentives for companies which limit their carbon emissions, among other carbon-limiting measures. Schwarzenegger has shown interest in a ban on excessive carbon emissions, which is directly in opposition to statements made by President George W. Bush. ](/news/2006/07/31/tony-blair-and-arnold-schwarzenegger-have-announced-their-intention-to-collaborate-to-decrease-carbon-emissions-and-fight-global-warming-t.md)
-_Context: Arnold Schwarzenegger, George W. Bush, President of the United States, Tony Blair, carbon emissions, global warming_
+_Context: Arnold Schwarzenegger, George W. Bush, Tony Blair, U.S. President, carbon emissions, global warming_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad told the Syrian military on Monday to raise its readiness, pledging not to abandon support for Lebanese resistance against Israel. ](/news/2006/07/31/syrian-president-bashar-al-assad-told-the-syrian-military-on-monday-to-raise-its-readiness-pledging-not-to-abandon-support-for-lebanese-re.md)

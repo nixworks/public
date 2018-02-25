@@ -3,7 +3,7 @@ Formats: [HTML](2015/01/5/index.html)  [JSON](2015/01/5/index.json)  [XML](2015/
 
 ## [2015-01-5](/news/2015/01/5/index.md)
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
 The two were accused in federal court of conspiracy to violate the Neutrality Act in connection with a botched attempt to depose the Gambian president.
 

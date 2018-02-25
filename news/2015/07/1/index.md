@@ -23,7 +23,7 @@ _Context: Hong Kong, transfer of sovereignty_
 ### [A woman, Kathryn Steinle, is shot dead in a random attack at the busy Embarcadero district in San Francisco, California. A Mexican national is arrested in connection with her death. ](/news/2015/07/1/a-woman-kathryn-steinle-is-shot-dead-in-a-random-attack-at-the-busy-embarcadero-district-in-san-francisco-california-a-mexican-national.md)
 _Context: Embarcadero, Mexican, San Francisco, California, Shooting of Kathryn Steinle_
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice begins an investigation into whether US airlines entered into collusion to illegally keep ticket prices high. ](/news/2015/07/1/the-united-states-department-of-justice-begins-an-investigation-into-whether-us-airlines-entered-into-collusion-to-illegally-keep-ticket-pri.md)
 The Justice Department investigates if US airlines are colluding to keep ticket prices high.
 

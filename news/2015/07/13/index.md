@@ -23,9 +23,9 @@ The United Arab Emirates executed a UAE woman convicted of terrorism early on Mo
 ### [Son of Boston police captain is charged with a foiled plot to bomb a university, inspired by Boston Marathon bombing, on alleged behalf of ISIS. He is scheduled Tuesday for a bail hearing at a federal court in Springfield. ](/news/2015/07/13/son-of-boston-police-captain-is-charged-with-a-foiled-plot-to-bomb-a-university-inspired-by-boston-marathon-bombing-on-alleged-behalf-of-i.md)
 _Context: Boston Marathon bombing, Springfield_
 
-##### President of the United States
+##### U.S. President
 ### [President Barack Obama commutes the sentences of 46 American prison inmates serving long sentences for drug related offences. ](/news/2015/07/13/president-barack-obama-commutes-the-sentences-of-46-american-prison-inmates-serving-long-sentences-for-drug-related-offences.md)
-_Context: Barack Obama, President of the United States_
+_Context: Barack Obama, U.S. President_
 
 ##### 50 Cent
 ### [Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. ](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.md)

@@ -17,7 +17,7 @@ _Context: Elliot Morley, Labour Party, United Kingdom Parliamentary expenses sca
 
 ##### Hawaii Intermediate Court of Appeals
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, President of the United States, birth certificate_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, U.S. President, birth certificate_
 
 ##### Kenya
 ### [The case of a group of elderly Kenyans - 3 men and 1 woman in their 70s and 80s - reaches London's High Court, with the group seeking compensation and apology for their torture by British officers during the 1950s Mau Mau Uprising, including castration, sexual abuse, forced labour and beatings. ](/news/2011/04/7/the-case-of-a-group-of-elderly-kenyans-3-men-and-1-woman-in-their-70s-and-80s-reaches-london-s-high-court-with-the-group-seeking-compen.md)

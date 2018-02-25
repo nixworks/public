@@ -3,9 +3,9 @@ Formats: [HTML](2013/02/6/index.html)  [JSON](2013/02/6/index.json)  [XML](2013/
 
 ## [2013-02-6](/news/2013/02/6/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President Barack Obama nominates CEO of REI Sally Jewell to be the next Secretary of the Interior. ](/news/2013/02/6/u-s-president-barack-obama-nominates-ceo-of-rei-sally-jewell-to-be-the-next-secretary-of-the-interior.md)
-_Context: Barack Obama, CEO, President of the United States, REI, Sally Jewell, Secretary of the Interior_
+_Context: Barack Obama, CEO, REI, Sally Jewell, Secretary of the Interior, U.S. President_
 
 ##### Chokri Belaid
 ### [Chokri Belaid, the general secretary of the Patriotic Democratic Party, is shot dead outside his house in Tunis, leading to reported clashes between the police and hundreds of protesters. The Prime Minister of Tunisia Hamadi Jebali claims that a new government will be formed within one day. ](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.md)

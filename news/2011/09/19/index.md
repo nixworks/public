@@ -3,9 +3,9 @@ Formats: [HTML](2011/09/19/index.html)  [JSON](2011/09/19/index.json)  [XML](201
 
 ## [2011-09-19](/news/2011/09/19/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)
-_Context: Barack Obama, President of the United States_
+_Context: Barack Obama, U.S. President_
 
 ##### Sinn Fein
 ### [Sinn Fein nominate John O'Dowd to replace Martin McGuinness on a temporary basis as deputy First Minister of Northern Ireland. ](/news/2011/09/19/sinn-fa-c-in-nominate-john-o-dowd-to-replace-martin-mcguinness-on-a-temporary-basis-as-deputy-first-minister-of-northern-ireland.md)

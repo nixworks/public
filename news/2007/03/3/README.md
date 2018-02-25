@@ -13,7 +13,7 @@ _Context: Asia, GMT, Midwestern, lunar eclipse_
 
 ##### U.S.
 ### [ United States President Bush declares Coffee County, Alabama, hit by a tornado last Thursday, to be a federal disaster area. ](/news/2007/03/3/united-states-president-bush-declares-coffee-county-alabama-hit-by-a-tornado-last-thursday-to-be-a-federal-disaster-area.md)
-_Context: Coffee County, Alabama, George W. Bush, President of the United States, U.S., federal disaster area, tornado_
+_Context: Coffee County, Alabama, George W. Bush, U.S., U.S. President, federal disaster area, tornado_
 
 ##### Eviction
 ### [ The eviction of Ungdomshuset by Danish police results in more rioting in Nrrebro, Copenhagen, leading to about 100 arrests during a second night of protests. ](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-results-in-more-rioting-in-norrebro-copenhagen-leading-to-about-100-arrests-during-a-second.md)

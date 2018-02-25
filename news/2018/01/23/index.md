@@ -29,7 +29,7 @@ At least two people were killed and 17 others were injured when a student opened
 
 ##### Haiti-United States relations
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, President of the United States, Protests against Donald Trump, U.S., embassy, policy_
+_Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, Protests against Donald Trump, U.S., U.S. President, embassy, policy_
 
 ##### Philippsburg Nuclear Power Plant
 ### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md)

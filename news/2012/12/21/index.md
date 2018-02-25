@@ -35,7 +35,7 @@ _Context: Parliament of Romania, Prime Minister, Romania, Victor Ponta, vote of 
 ### [Former British Prime Minister Margaret Thatcher undergoes surgery for a growth in her bladder. ](/news/2012/12/21/former-british-prime-minister-margaret-thatcher-undergoes-surgery-for-a-growth-in-her-bladder.md)
 Former UK prime minister Margaret Thatcher is recovering in hospital after having a growth removed from her bladder.
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President Barack Obama nominates John Kerry to succeed Hillary Clinton as Secretary of State. ](/news/2012/12/21/u-s-president-barack-obama-nominates-john-kerry-to-succeed-hillary-clinton-as-secretary-of-state.md)
 US President Barack Obama nominates Senator John Kerry to replace Hillary Clinton as his next secretary of state.
 

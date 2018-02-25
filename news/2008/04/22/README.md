@@ -13,7 +13,7 @@ _Context: Movement for Democratic Change, Zimbabwe_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice says that former President of the United States Jimmy Carter was advised not to hold talks with Hamas. ](/news/2008/04/22/the-united-states-secretary-of-state-condoleezza-rice-says-that-former-president-of-the-united-states-jimmy-carter-was-advised-not-to-hold.md)
-_Context: Condoleezza Rice, Hamas, Jimmy Carter, President of the United States, United States Secretary of State_
+_Context: Condoleezza Rice, Hamas, Jimmy Carter, U.S. President, United States Secretary of State_
 
 ##### Ben-ami Kaddish
 ### [ Ben-ami Kaddish, a former U.S. Army mechanical engineer, is arrested on charges of disclosing national defense information to Israel. ](/news/2008/04/22/ben-ami-kaddish-a-former-u-s-army-mechanical-engineer-is-arrested-on-charges-of-disclosing-national-defense-information-to-israel.md)

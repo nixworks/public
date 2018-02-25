@@ -55,9 +55,9 @@ _Context: Argentina, U.S._
 ### [The Delaware Chancery Court upholds the use of a poison pill by Airgas, effectively ending a takeover bid launched a year ago by Air Products. ](/news/2011/02/15/the-delaware-chancery-court-upholds-the-use-of-a-poison-pill-by-airgas-effectively-ending-a-takeover-bid-launched-a-year-ago-by-air-product.md)
 reaching impact on deals (Adds background, judge and Airgas comment, from paragraphfour)
 
-##### United Airlines
+##### United
 ### [United Airlines temporarily grounds its fleet of 96 Boeing 757 jetliners so it can perform checks to earlier modifications to air-data computers. ](/news/2011/02/15/united-airlines-temporarily-grounds-its-fleet-of-96-boeing-757-jetliners-so-it-can-perform-checks-to-earlier-modifications-to-air-data-compu.md)
-_Context: Boeing 757, United Airlines_
+_Context: Boeing 757, United_
 
 ##### Apple Inc.
 ### [Apple launches a subscription service for magazines, newspapers, videos, and music bought through its App Store. ](/news/2011/02/15/apple-launches-a-subscription-service-for-magazines-newspapers-videos-and-music-bought-through-its-app-store.md)

@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Japan
 ### [ Japan circulates a new United Nations Security Council draft resolution including the threat of sanctions against North Korea. ](/news/2006/07/7/japan-circulates-a-new-united-nations-security-council-draft-resolution-including-the-threat-of-sanctions-against-north-korea.md)
-_Context: Japan, North Korea, United Nations Security Council, sanctions_
+_Context: Japan, North Korea, Security Council, sanctions_
 
 ##### General Motors
 ### [ The board of General Motors authorises Chief Executive Officer Rick Wagoner to explore an alliance with Nissan and Renault. ](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.md)

@@ -35,9 +35,9 @@ _Context: Taipei, Taiwan_
 ### [Police are growing concerned for the safety of Sian O'Callaghan, a 22-year-old woman who went missing while walking home from a nightclub in the English city of Swindon in the early hours of Saturday 19 March. ](/news/2011/03/20/police-are-growing-concerned-for-the-safety-of-sian-o-callaghan-a-22-year-old-woman-who-went-missing-while-walking-home-from-a-nightclub-in.md)
 Police are concerned for the safety of a 22-year-old woman who went missing after leaving a Swindon nightclub in the early hours of Saturday.
 
-##### President of the United States
+##### U.S. President
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
-_Context: Barack Obama, President of the United States, Rio de Janeiro, favela_
+_Context: Barack Obama, Rio de Janeiro, U.S. President, favela_
 
 ##### Ukraine
 ### [After a gag order is lifted and Sunday publication is permitted, Israel's security service admits it has arrested Gazan engineer Dirar Abu Sisi who disappeared in Ukraine almost two weeks ago and whose wife thought he had been abducted by Mossad. ](/news/2011/03/20/after-a-gag-order-is-lifted-and-sunday-publication-is-permitted-israel-s-security-service-admits-it-has-arrested-gazan-engineer-dirar-abu-s.md)

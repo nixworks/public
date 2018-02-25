@@ -47,7 +47,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 ### [The FBI and U.S. Securities and Exchange Commission launch an investigation into MF Global after $600 million of customers' money went missing. ](/news/2011/11/1/the-fbi-and-u-s-securities-and-exchange-commission-launch-an-investigation-into-mf-global-after-600-million-of-customers-money-went-missi.md)
 The FBI and federal prosecutors are investigating how some $600 million of MF Global customers money has gone missing, CNN has learned Tuesday from sources close to the probe.
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States, Barack Obama, makes Fort Monroe in Hampton, Virginia, a National Monument. ](/news/2011/11/1/the-president-of-the-united-states-barack-obama-makes-fort-monroe-in-hampton-virginia-a-national-monument.md)
 President Barack Obama created the first national monument of his presidency on Tuesday, signing a proclamation to preserve a former Army fort that was a safe haven for slaves during the Civil War.
 

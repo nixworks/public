@@ -29,7 +29,7 @@ Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial result
 
 ##### Christine Milne
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
-_Context: Australian Labor Party, Australian Prime Minister, Christine Milne, Julia Gillard, The Australian Greens_
+_Context: Australian Labor Party, Christine Milne, Julia Gillard, Prime Minister, The Australian Greens_
 
 ##### City Hall
 ### [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md)

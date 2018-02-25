@@ -55,7 +55,7 @@ Pope Benedict XVI begins a visit to Spain, where the traditionally powerful Cath
 ### [Finance Ministers from the Asia-Pacific Economic Cooperation meet in Tokyo, Japan. ](/news/2010/11/6/finance-ministers-from-the-asia-pacific-economic-cooperation-meet-in-tokyo-japan.md)
 _Context: Asia-Pacific Economic Cooperation, Finance Minister, Japan, Tokyo_
 
-##### President of the United States
+##### U.S. President
 ### [US President Barack Obama arrives in India on the first leg of an Asian tour aimed at boosting United States exports. ](/news/2010/11/6/us-president-barack-obama-arrives-in-india-on-the-first-leg-of-an-asian-tour-aimed-at-boosting-united-states-exports.md)
 Obama and his wife walked down the ladder to a red carpet welcome and were received by Maharashtra CM Ashok Chavan who presented him a memento. 
 
@@ -95,9 +95,9 @@ _Context: Armenia, Azerbaijan, International Committee of the Red Cross_
 ### [Somali pirates receive a record GBP7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-agbp7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md)
 Somali pirates are reported to have received a total of about $12.3m (£7.6m) in ransom money to release two ships.
 
-##### Car bomb
+##### Car bombings
 ### [Car bombs injure at least 37 people in the Iraqi cities of Baghdad and Kirkuk. ](/news/2010/11/6/car-bombs-injure-at-least-37-people-in-the-iraqi-cities-of-baghdad-and-kirkuk.md)
-_Context: Baghdad, Iraq, Kirkuk, car bomb_
+_Context: Baghdad, Iraq, Kirkuk, car bombings_
 
 ##### Palestinian rocket attacks on Israel
 ### [In response to militants firing rockets into southern Israel, the Israel Air Force launches two raids on the southern Gaza Strip; one Palestinian is wounded. ](/news/2010/11/6/in-response-to-militants-firing-rockets-into-southern-israel-the-israel-air-force-launches-two-raids-on-the-southern-gaza-strip-one-palest.md)

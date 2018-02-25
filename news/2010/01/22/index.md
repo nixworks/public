@@ -33,7 +33,7 @@ _Context: Nigeria, President, Supreme Court, Umaru Yar'Adua, government_
 
 ##### Europe
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, President of the United States, U.S., banking_
+_Context: Barack Obama, Europe, U.S., U.S. President, banking_
 
 ##### Electoral Synod
 ### [The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. ](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.md)

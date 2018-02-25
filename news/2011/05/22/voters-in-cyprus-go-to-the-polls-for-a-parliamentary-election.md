@@ -16,7 +16,7 @@ Formats: [HTML](/news/2011/05/22/voters-in-cyprus-go-to-the-polls-for-a-parliame
 
 ### Changes:
 
-1. [Voters in Vietnam go to the polls for a parliamentary election. ](/news/2011/05/22/voters-in-vietnam-go-to-the-polls-for-a-parliamentary-election.md) _2018-02-22 03:59:24 (First version)_
+1. [Voters in Vietnam go to the polls for a parliamentary election. ](/news/2011/05/22/voters-in-vietnam-go-to-the-polls-for-a-parliamentary-election.md) _2018-02-24 04:07:22 (First version)_
 1. [Voters in Cyprus go to the polls for a parliamentary election. ](/news/2011/05/22/voters-in-cyprus-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_
 
 ### Related:

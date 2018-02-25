@@ -35,9 +35,9 @@ _Context: Israel, Israeli-Palestinian Conflict, Nablus, Palestinian, West Bank_
 ### [ Swiss Councillor Dick Marty, commissioned by the Council of Europe to investigate CIA black sites and prisoner abuse in Europe says that the CIA has "disregarded all standards of legality". ](/news/2005/12/13/swiss-councillor-dick-marty-commissioned-by-the-council-of-europe-to-investigate-cia-black-sites-and-prisoner-abuse-in-europe-says-that-th.md)
 _Context: CIA, Council of Europe, Dick Marty, Swiss Councillor, black site_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States, George W. Bush, acknowledges the deaths of approximately 30,000 Iraqi civilians since the commencement of the Iraq War. ](/news/2005/12/13/the-president-of-the-united-states-george-w-bush-acknowledges-the-deaths-of-approximately-30-000-iraqi-civilians-since-the-commencement.md)
-_Context: George W. Bush, Iraq War, President of the United States_
+_Context: George W. Bush, Iraq War, U.S. President_
 
 ##### Ministerial Conference of 2005
 ### [ The Sixth Ministerial Conference of the World Trade Organization opened in Hong Kong. European Union Trade Commissioner Peter Mandelson said that he expected little progress on resolving disagreements between ministers. Meanwhile, some protesters from South Korea unsuccessfully attempted to bypass the cordon to reach the location of the conference by swimming across Victoria Harbour. ](/news/2005/12/13/the-sixth-ministerial-conference-of-the-world-trade-organization-opened-in-hong-kong-european-union-trade-commissioner-peter-mandelson-sai.md)

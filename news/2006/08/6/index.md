@@ -21,7 +21,7 @@ _Context: Darfur, Slovenia, Sudan, Tomo Kriznar, espionage_
 
 ##### Second Dby administration
 ### [ The Deby administration of Chad establishes official relations with the People's Republic of China. Chad had recognized the Republic of China (Taiwan) from 1997-2006. Chadian diplomats cited the prospects of greater financial investments and the PRC status in the United Nations Security Council as the principal factors motivating the diplomatic shift. ](/news/2006/08/6/the-da-c-by-administration-of-chad-establishes-official-relations-with-the-people-s-republic-of-china-chad-had-recognized-the-republic-of-ch.md)
-_Context: Chad, China, Taiwan, United Nations Security Council, second Dby administration_
+_Context: Chad, China, Security Council, Taiwan, second Dby administration_
 
 ##### Action Against Hunger
 ### [ Fifteen local employees of the French charity organisation Action Against Hunger are found dead in a town in northeastern Sri Lanka at the center of heavy fighting between Tamil rebels and government forces. Both sides have denied involvement in the killings. ](/news/2006/08/6/fifteen-local-employees-of-the-french-charity-organisation-action-against-hunger-are-found-dead-in-a-town-in-northeastern-sri-lanka-at-the.md)

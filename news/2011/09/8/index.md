@@ -7,7 +7,7 @@ Formats: [HTML](2011/09/8/index.html)  [JSON](2011/09/8/index.json)  [XML](2011/
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
 _Context: Ho Chi Minh City, President of Vietnam, Vo Chi Cong_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama delivers a speech to a joint session of both houses of Congress, putting forward a new job-creation plan entailing major spending initiatives and tax cuts. ](/news/2011/09/8/president-of-the-united-states-barack-obama-delivers-a-speech-to-a-joint-session-of-both-houses-of-congress-putting-forward-a-new-job-creat.md)
 President Barack Obama plans to propose sparking job growth by injecting more than $300 billion into the economy next year, mostly through tax cuts, infrastructure spending and direct aid to state and local governments.
 

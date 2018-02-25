@@ -27,9 +27,9 @@ _Context: Colorado, Oklahoma, Texas, U.S., tornado_
 ### [ U.S. Defense Secretary Robert Gates supports closing the Guantanamo Bay detention camp and moving dangerous inmates elsewhere. ](/news/2007/03/29/u-s-defense-secretary-robert-gates-supports-closing-the-guantanamo-bay-detention-camp-and-moving-dangerous-inmates-elsewhere.md)
 _Context: Guantanamo Bay detention camp, Robert Gates, United States Secretary of Defense_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council expresses "grave concern" over the capture of 15 Royal Navy sailors and Royal Marines by Iran and calls for expedient release of the captives. ](/news/2007/03/29/the-united-nations-security-council-expresses-grave-concern-over-the-capture-of-15-royal-navy-sailors-and-royal-marines-by-iran-and-calls.md)
-_Context: Iran, Royal Marine, Royal Navy, United Nations Security Council, held captive by Iran, sailor_
+_Context: Iran, Royal Marine, Royal Navy, Security Council, held captive by Iran, sailor_
 
 ## [Previous Day...](/news/2007/03/28/index.md)
 

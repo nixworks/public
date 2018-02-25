@@ -7,7 +7,7 @@ Formats: [HTML](2014/04/11/index.html)  [JSON](2014/04/11/index.json)  [XML](201
 ### [Astronomers, for the first time, discover a moon orbiting around an exoplanet. ](/news/2014/04/11/astronomers-for-the-first-time-discover-a-moon-orbiting-around-an-exoplanet.md)
 _Context: Astronomers, exoplanet_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama nominates Sylvia Mathews Burwell to be the next United States Secretary of Health and Human Services to replace the resigning Kathleen Sebelius. ](/news/2014/04/11/president-of-the-united-states-barack-obama-nominates-sylvia-mathews-burwell-to-be-the-next-united-states-secretary-of-health-and-human-serv.md)
 President Barack Obama said on Friday he will promote budget director Sylvia Mathews Burwell to be his next health secretary, who will preside over the next difficult phase of his healthcare law in the months before November congressional elections.
 
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2014 Crimean crisis
 ### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
-_Context: 2014 Crimean crisis, Albania, Iceland, Montenegro, Norway, supporting sanctions_
+_Context: 2014 Crimean crisis, Albania, Iceland, Montenegrin, Norway, supporting sanctions_
 
 ##### United Nations
 ### [The United Nations votes to send 12,000 peacekeepers to the Central African Republic to help protect citizens as Christians and Muslims continue to fight in the country. ](/news/2014/04/11/the-united-nations-votes-to-send-12-000-peacekeepers-to-the-central-african-republic-to-help-protect-citizens-as-christians-and-muslims-cont.md)

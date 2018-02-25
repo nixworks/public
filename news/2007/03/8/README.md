@@ -7,9 +7,9 @@ Formats: [HTML](2007/03/8/index.html)  [JSON](2007/03/8/index.json)  [XML](2007/
 ### [ Greek Cypriots dismantle the portion of the separation fence between the Republic of Cyprus and the Turkish Republic of Northern Cyprus in Nicosia. ](/news/2007/03/8/greek-cypriots-dismantle-the-portion-of-the-separation-fence-between-the-republic-of-cyprus-and-the-turkish-republic-of-northern-cyprus-in.md)
 _Context: Cypriot, Greek Cypriots, Nicosia, TRNC, separation fence_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush departs on a tour of Latin America that will take him to Brazil, Uruguay, Colombia, Guatemala and Mexico. Upon arrival in SGBPo Paulo he is greeted with protest demonstrations. ](/news/2007/03/8/u-s-president-george-w-bush-departs-on-a-tour-of-latin-america-that-will-take-him-to-brazil-uruguay-colombia-guatemala-and-mexico-upo.md)
-_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, President of the United States, SGBPo Paulo, Uruguay, demonstration, protest_
+_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, SGBPo Paulo, U.S. President, Uruguay, demonstration, protest_
 
 ##### War in Somalia
 ### [ War in Somalia: African Union peacekeepers are ambushed by insurgents in Mogadishu for a second successive day. ](/news/2007/03/8/war-in-somalia-african-union-peacekeepers-are-ambushed-by-insurgents-in-mogadishu-for-a-second-successive-day.md)

@@ -33,7 +33,7 @@ _Context:  Georgian, Mikhail Saakashvili, President of Georgia, assassination, h
 
 ##### IAEA
 ### [ The International Atomic Energy Agency has deferred until Saturday a vote on whether to report Iran to the UN Security Council over concerns its nuclear programs may produce weapons. ](/news/2006/02/3/the-international-atomic-energy-agency-has-deferred-until-saturday-a-vote-on-whether-to-report-iran-to-the-un-security-council-over-concern.md)
-_Context: IAEA, Iran, United Nations Security Council_
+_Context: IAEA, Iran, Security Council_
 
 ##### Persona non grata
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)

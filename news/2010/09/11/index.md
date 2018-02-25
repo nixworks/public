@@ -11,7 +11,7 @@ E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces o
 ### [The United States commemorates the anniversary of the September 11 attacks with events in New York City, the Pentagon Memorial in Washington D.C. and in Shanksville, Pennsylvania, near where United Airlines Flight 93 crashed. ](/news/2010/09/11/the-united-states-commemorates-the-anniversary-of-the-september-11-attacks-with-events-in-new-york-city-the-pentagon-memorial-in-washington.md)
 Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn the Koran, will take place on the ninth anniversary of the 9/11 attacks.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Prime Minister of Australia Julia Gillard announces her new Cabinet, with former PM Kevin Rudd named as the Minister for Foreign Affairs. ](/news/2010/09/11/prime-minister-of-australia-julia-gillard-announces-her-new-cabinet-with-former-pm-kevin-rudd-named-as-the-minister-for-foreign-affairs.md)
 Prime Minister Julia Gillard has announced her new-look Cabinet after earlier confirming that former prime minister Kevin Rudd would be given the Foreign Affairs portfolio.
 

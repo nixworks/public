@@ -49,7 +49,7 @@ Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanita
 
 ##### United States-Vietnam relations
 ### [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md)
-_Context: Barack Obama, President of the United States, U.S., United States-Vietnam relations, Vietnam_
+_Context: Barack Obama, U.S., U.S. President, United States-Vietnam relations, Vietnam_
 
 ##### 2015-16 Zika virus epidemic
 ### [Health officials are concerned about the spread of the Zika virus in Haiti, which suffered the worst epidemic of cholera in recent history following the deadly 2010 Haiti earthquake. The U.S. Centers for Disease Control and Prevention reports there are 2,214 suspected cases as of April 23. But new research indicates the virus has been present since 2014. The actual infection rate remains unknown since the poor, densely populated nation lacks routine data systems that can track and document disease outbreaks. ](/news/2016/05/23/health-officials-are-concerned-about-the-spread-of-the-zika-virus-in-haiti-which-suffered-the-worst-epidemic-of-cholera-in-recent-history-f.md)

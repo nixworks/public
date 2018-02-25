@@ -3,7 +3,7 @@ Formats: [HTML](2008/12/12/index.html)  [JSON](2008/12/12/index.json)  [XML](200
 
 ## [2008-12-12](/news/2008/12/12/index.md)
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council finds that Rwanda and the Democratic Republic of the Congo are using child soldiers to fight a proxy war. ](/news/2008/12/12/the-united-nations-security-council-finds-that-rwanda-and-the-democratic-republic-of-the-congo-are-using-child-soldiers-to-fight-a-proxy-wa.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 

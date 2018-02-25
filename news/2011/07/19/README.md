@@ -19,7 +19,7 @@ _Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Riga
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
 _Context: United States House of Representatives, United States Senate_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-states-senate-to-cut-d.md)
 An ambitious plan to slice $3.7 trillion from the federal budget over the next decade was gaining momentum in the Senate Tuesday.
 

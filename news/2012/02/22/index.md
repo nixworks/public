@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/22/index.html)  [JSON](2012/02/22/index.json)  [XML](201
 
 ##### Kevin Rudd
 ### [Kevin Rudd resigns as Foreign Minister of Australia after alleged "attacks on credibility" by supporters of Prime Minister Julia Gillard. ](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.md)
-_Context: Australian Prime Minister, Foreign Minister of Australia, Julia Gillard, Kevin Rudd_
+_Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Prime Minister_
 
 ##### Yoaz Hendel
 ### [Yoaz Hendel, the top spokesman for Prime Minister of Israel Benjamin Netanyahu, resigns following a disagreement over handling an issue involving another aide. ](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.md)

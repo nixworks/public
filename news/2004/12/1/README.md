@@ -27,9 +27,9 @@ _Context: Alain Juppe, Prime Minister_
 ### [Serbia's interior minister says the "assassination attempt" on president Boris Tadic was a case of road rage against his motor convoy in Belgrade traffic. ](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.md)
 _Context: Belgrade, Boris Tadic, Serbia_
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President George W. Bush holds talks with Prime Minister Paul Martin of Canada in his first official visit to the country and agrees to work together to combat terrorism. ](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.md)
-_Context: George W. Bush, Paul Martin, President of the United States, Prime Minister of Canada, terrorism_
+_Context: George W. Bush, Paul Martin, Prime Minister of Canada, U.S. President, terrorism_
 
 ##### Egypt
 ### [Egypt and Israel hold talks in Jerusalem to discuss the planned Israeli withdrawal from the Gaza Strip. ](/news/2004/12/1/egypt-and-israel-hold-talks-in-jerusalem-to-discuss-the-planned-israeli-withdrawal-from-the-gaza-strip.md)

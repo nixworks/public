@@ -7,7 +7,7 @@ Formats: [HTML](2013/06/26/index.html)  [JSON](2013/06/26/index.json)  [XML](201
 ### [South African President Jacob Zuma cancels his scheduled trip to Mozambique after a visit to the critically ill former president Nelson Mandela in a Pretoria hospital. ](/news/2013/06/26/south-african-president-jacob-zuma-cancels-his-scheduled-trip-to-mozambique-after-a-visit-to-the-critically-ill-former-president-nelson-mand.md)
 President Jacob Zuma has cancelled a scheduled trip to Mozambique after visiting the critically ill former president Nelson Mandela in hospital.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Former Prime Minister Kevin Rudd wins leadership of the Australian Labor Party against incumbent Julia Gillard. ](/news/2013/06/26/former-prime-minister-kevin-rudd-wins-leadership-of-the-australian-labor-party-against-incumbent-julia-gillard.md)
 KEVIN Rudd said he resumes the task he began in 2007 &quot;with humility&quot; and he praised the &quot;extraordinary intelligence&quot; of Julia Gillard who had been &quot;a remarkable reformer.&quot;
 

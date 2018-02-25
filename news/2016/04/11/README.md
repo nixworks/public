@@ -57,7 +57,7 @@ Intense spell of hot and dry weather brought on by El Nino hits food and water s
 
 ##### 2008 financial crisis
 ### [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md)
-_Context: 2008 financial crisis, Department of Justice, Goldman Sachs, housing crisis_
+_Context: 2008 financial crisis, Goldman Sachs, U.S. Justice Department, housing crisis_
 
 ##### War in Somalia (2009-present)
 ### [At least five people are killed and seven are wounded following a car bomb attack near a government building in Somalia's capital, Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2016/04/11/at-least-five-people-are-killed-and-seven-are-wounded-following-a-car-bomb-attack-near-a-government-building-in-somalia-s-capital-mogadishu.md)

@@ -33,7 +33,7 @@ _Context: Aena, Canary Islands', Spain_
 
 ##### United States Coast Guard
 ### [United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-response-to-the-gulf-of-mexico.md)
-_Context: Barack Obama, Deepwater Horizon oil spill, President of the United States, Thad Allen, United States Coast Guard, admiral_
+_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. President, United States Coast Guard, admiral_
 
 ##### Pope Benedict XVI
 ### [Tens of thousands of people line the streets as Pope Benedict XVI begins his four-day trip to Portugal. ](/news/2010/05/11/tens-of-thousands-of-people-line-the-streets-as-pope-benedict-xvi-begins-his-four-day-trip-to-portugal.md)

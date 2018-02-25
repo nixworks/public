@@ -11,7 +11,7 @@ _Context: 2010 Haiti earthquake, Enriquillo Fault Line, Purdue University_
 ### [A Sri Lankan government commission set up to look into the last years of the Sri Lankan Civil War holds a meeting in Vavuniya on the north of the island. ](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.md)
 A Sri Lankan government war inquiry hears testimonies from Tamils who allege their loved ones were abducted or detained by the army.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama states that America's "commitment to religious freedom must be unshakable" as he declares his support for plans to build a mosque in New York City. ](/news/2010/08/14/president-of-the-united-states-barack-obama-states-that-america-s-commitment-to-religious-freedom-must-be-unshakable-as-he-declares-his-su.md)
 President Obama defends controversial plans to build a mosque near Ground Zero site saying commitment to religious freedom &quot;must be unshakeable&quot;.
 

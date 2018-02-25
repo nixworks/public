@@ -73,7 +73,7 @@ _Context: Mexico, San Ysidro, U.S._
 
 ##### President
 ### [ Former President of Cuba Fidel Castro praises current President of the United States Barack Obama for his speech before the United Nations General Assembly for admitting it had been slow to act on climate change but urges that the American capitalist system is incompatible with a clean planet. ](/news/2009/09/23/former-president-of-cuba-fidel-castro-praises-current-president-of-the-united-states-barack-obama-for-his-speech-before-the-united-nations.md)
-_Context: Barack Obama, Fidel Castro, President, President of the United States, United Nations General Assembly_
+_Context: Barack Obama, Fidel Castro, President, U.S. President, United Nations General Assembly_
 
 ##### South Africa
 ### [ Gay activists in South Africa welcome a life sentence for a man involved in the gang rape and murder of lesbian football star Eudy Simelane, one of the first women to openly live as a lesbian in her community of KwaThema. ](/news/2009/09/23/gay-activists-in-south-africa-welcome-a-life-sentence-for-a-man-involved-in-the-gang-rape-and-murder-of-lesbian-football-star-eudy-simelane.md)

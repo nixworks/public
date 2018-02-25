@@ -89,7 +89,7 @@ _Context: Abdelbaset al-Megrahi, Hillary Clinton, Lockerbie bombing, Scottish Go
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. ](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.md)
-_Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear-powered, uranium, uranium enrichment_
+_Context: Mahmoud Ahmadinejad, President, Security Council, nuclear-powered, uranium, uranium enrichment_
 
 ##### Canada Post
 ### [Canada Post advises customers that it cannot accept mail to Gaza until further notice. Israel Post continues to inform postal services around the world that mail service to Gaza is unavailable. ](/news/2010/08/20/canada-post-advises-customers-that-it-cannot-accept-mail-to-gaza-until-further-notice-israel-post-continues-to-inform-postal-services-aroun.md)

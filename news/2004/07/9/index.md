@@ -13,7 +13,7 @@ _Context: CIA, Iraq, United States Senate, weapons of mass destruction_
 
 ##### United Nations General Assembly
 ### [ In its advisory opinion asked for by the United Nations General Assembly the International Court of Justice states that the Israeli West Bank barrier is illegal and calls for the General Assembly and the Security Council to remedy the situation. ](/news/2004/07/9/in-its-advisory-opinion-asked-for-by-the-united-nations-general-assembly-the-international-court-of-justice-states-that-the-israeli-west-ba.md)
-_Context: International Court of Justice, United Nations General Assembly, United Nations Security Council, barrier_
+_Context: International Court of Justice, Security Council, United Nations General Assembly, barrier_
 
 ## [Previous Day...](/news/2004/07/8/index.md)
 

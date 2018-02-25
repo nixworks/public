@@ -33,7 +33,7 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 
 ##### North Korea's nuclear program
 ### [As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expands-its-targeted-sanctions-against-the-country.md)
-_Context: Army's Strategic Rocket Force, North Korea's nuclear program, United Nations Security Council_
+_Context: Army's Strategic Rocket Force, North Korea's nuclear program, Security Council_
 
 ##### United Nations Security Council election, 2017
 ### [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md)

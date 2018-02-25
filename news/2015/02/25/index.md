@@ -21,7 +21,7 @@ Parliament in Austria passes a controversial new bill that reforms a century-old
 
 ##### Morgan Stanley
 ### [Morgan Stanley agrees to pay $2.6 billion to settle with the United States Department of Justice over its sale of residential mortgage backed securities. ](/news/2015/02/25/morgan-stanley-agrees-to-pay-2-6-billion-to-settle-with-the-united-states-department-of-justice-over-its-sale-of-residential-mortgage-backe.md)
-_Context: Department of Justice, Morgan Stanley, mortgage_
+_Context: Morgan Stanley, U.S. Justice Department, mortgage_
 
 ##### Roman Polanski
 ### [Film director Roman Polanski testifies at a closed to the media court hearing in Krakw, Poland, regarding a US request for his extradition over a 1977 child sex crime conviction. The hearing is later postponed until April. ](/news/2015/02/25/film-director-roman-polanski-testifies-at-a-closed-to-the-media-court-hearing-in-krakow-poland-regarding-a-us-request-for-his-extradition.md)

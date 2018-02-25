@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/12/index.html)  [JSON](2006/07/12/index.json)  [XML](200
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice says Iran's rejection of the international incentives program will force the major powers to take decisions in the United Nations Security Council. ](/news/2006/07/12/condoleezza-rice-says-iran-s-rejection-of-the-international-incentives-program-will-force-the-major-powers-to-take-decisions-in-the-united.md)
-_Context: Condoleezza Rice, Iran, United Nations Security Council_
+_Context: Condoleezza Rice, Iran, Security Council_
 
 ##### Iraq
 ### [ Iraqi security forces discover the bodies of 20 bus drivers kidnapped earlier in the week. Three kidnap victims are freed. ](/news/2006/07/12/iraqi-security-forces-discover-the-bodies-of-20-bus-drivers-kidnapped-earlier-in-the-week-three-kidnap-victims-are-freed.md)

@@ -33,7 +33,7 @@ _Context: China, Xinjiang_
 
 ##### China
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: China, North Korea, North Korea's nuclear program, United Nations Security Council, sanctions_
+_Context: China, North Korea, North Korea's nuclear program, Security Council, sanctions_
 
 ##### Senegal
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)

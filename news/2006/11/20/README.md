@@ -15,9 +15,9 @@ _Context: Andrs Manuel Lpez Obrador, Mexican general election_
 ### [ An 18-year-old armed man takes hostage several children and teachers of his former school in the German town of Emsdetten. He dies from bullet wounds. According to a police spokesman, these wounds were self-inflicted. Several hostages are injured. ](/news/2006/11/20/an-18-year-old-armed-man-takes-hostage-several-children-and-teachers-of-his-former-school-in-the-german-town-of-emsdetten-he-dies-from-bul.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush visits Indonesia to meet with the President of Indonesia Susilo Bambang Yudhoyono with large crowds protesting US foreign policy. ](/news/2006/11/20/the-president-of-the-united-states-george-w-bush-visits-indonesia-to-meet-with-the-president-of-indonesia-susilo-bambang-yudhoyono-with-la.md)
-_Context: George W. Bush, Indonesia, President of Indonesia, President of the United States, Susilo Bambang Yudhoyono_
+_Context: George W. Bush, Indonesia, President of Indonesia, Susilo Bambang Yudhoyono, U.S. President_
 
 ##### Nasdaq
 ### [ American stock exchange Nasdaq launches a formal bid of GBP2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-gbp2-7-billion-to-take-over-the-london-stock-exchange.md)

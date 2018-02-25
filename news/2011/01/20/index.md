@@ -41,7 +41,7 @@ Former president Jean-Claude Duvalier seeks a return to power, despite facing co
 
 ##### Guantanamo Bay
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: Barack Obama, Congress, Guantanamo Bay, President of the United States, United States military_
+_Context: Barack Obama, Congress, Guantanamo Bay, U.S. President, United States military_
 
 ##### Hong Kong
 ### [Customs officials in Hong Kong seize a haul of cocaine worth US$33.4m bound for China, originating from Bolivia. ](/news/2011/01/20/customs-officials-in-hong-kong-seize-a-haul-of-cocaine-worth-us-33-4m-bound-for-china-originating-from-bolivia.md)

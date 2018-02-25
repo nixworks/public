@@ -3,7 +3,7 @@ Formats: [HTML](2012/07/22/index.html)  [JSON](2012/07/22/index.json)  [XML](201
 
 ## [2012-07-22](/news/2012/07/22/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [U.S. President Barack Obama visits the town of Aurora, Colorado, to console the families of victims of the recent shooting that left 12 dead and dozens injured. ](/news/2012/07/22/u-s-president-barack-obama-visits-the-town-of-aurora-colorado-to-console-the-families-of-victims-of-the-recent-shooting-that-left-12-dead.md)
 President Obama spoke Sunday to a grieving nation following his visit with survivors of the Colorado theatre massacre and family members of the 12 dead, promising that their strength and courage will long outlive the infamy of the shooter.
 

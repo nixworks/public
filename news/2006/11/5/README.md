@@ -3,9 +3,9 @@ Formats: [HTML](2006/11/5/index.html)  [JSON](2006/11/5/index.json)  [XML](2006/
 
 ## [2006-11-5](/news/2006/11/5/index.md)
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia, John Howard, calls State Premiers to a crisis meeting to discuss the current drought and problems in the Murray-Darling basin. ](/news/2006/11/5/the-prime-minister-of-australia-john-howard-calls-state-premiers-to-a-crisis-meeting-to-discuss-the-current-drought-and-problems-in-the-m.md)
-_Context: Australian Prime Minister, John Howard, Murray-Darling basin, current drought_
+_Context: John Howard, Murray-Darling basin, Prime Minister, current drought_
 
 ##### Power cut
 ### [ A large area of Western Europe is affected by power cuts, starting when two high-voltage transmission lines fail in Germany, and causing a cascading failure which also knocks out power in areas of France and other surrounding nations. ](/news/2006/11/5/a-large-area-of-western-europe-is-affected-by-power-cuts-starting-when-two-high-voltage-transmission-lines-fail-in-germany-and-causing-a.md)

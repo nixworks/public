@@ -21,7 +21,7 @@ _Context: Erik Solheim, Government of Norway, Norway, Oslo, Tamil Tigers, govern
 
 ##### Tom Noe
 ### [ Tom Noe, a rare-coin dealer and fundraiser for the United States Republican Party, is sentenced to two years jail for illegally channelling US$45,000 into President George W. Bush's re-election campaign. ](/news/2006/09/12/tom-noe-a-rare-coin-dealer-and-fundraiser-for-the-united-states-republican-party-is-sentenced-to-two-years-jail-for-illegally-channelling.md)
-_Context: $, George W. Bush, President of the United States, Republican, Tom Noe, U.S._
+_Context: $, George W. Bush, Republican, Tom Noe, U.S., U.S. President_
 
 ##### Stampede
 ### [ At least 51 people, mostly children, are killed in a stampede in a stadium in Ibb, Yemen, during a campaign rally for President Ali Abdullah Saleh. The children were killed when some of the citizens, who were bused in to hear the president speak, tried to leave. ](/news/2006/09/12/at-least-51-people-mostly-children-are-killed-in-a-stampede-in-a-stadium-in-ibb-yemen-during-a-campaign-rally-for-president-ali-abdulla.md)

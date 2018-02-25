@@ -45,7 +45,7 @@ RAGING bushfires that destroyed 64 homes are contained and under control but res
 
 ##### Continental Airlines
 ### [Continental Airlines announces that it plans to lay off 500 staff in Houston, Texas following its merger with United Airlines. ](/news/2011/02/7/continental-airlines-announces-that-it-plans-to-lay-off-500-staff-in-houston-texas-following-its-merger-with-united-airlines.md)
-_Context: Continental Airlines, Houston, Texas, Texas, United Airlines_
+_Context: Continental Airlines, Houston, Texas, Texas, United_
 
 ##### Iraq
 ### [Iraq is poised to sign $12b gas deal with Shell Oil Company. ](/news/2011/02/7/iraq-is-poised-to-sign-12b-gas-deal-with-shell-oil-company.md)

@@ -17,7 +17,7 @@ _Context: Abu Musab al-Zarqawi, Baghdad, Fallujah, Iraqi, Jordan, al-Arabiya, al
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Colin Powell says that he saw no direct connection between Saddam Hussein's former regime in Iraq and the September 11, 2001, attacks. During an interview on NBC's "Meet the Press," Powell also said he believes that if John Kerry were president at the time of a terrorist attack he would respond in a "robust" way. ](/news/2004/09/13/united-states-secretary-of-state-colin-powell-says-that-he-saw-no-direct-connection-between-saddam-hussein-s-former-regime-in-iraq-and-the.md)
-_Context: Colin Powell, Iraq, John Kerry, Meet the Press, NBC, President of the United States, Saddam Hussein, September 11, 2001, attacks, United States Secretary of State, terrorist attack_
+_Context: Colin Powell, Iraq, John Kerry, Meet the Press, NBC, Saddam Hussein, September 11, 2001, attacks, U.S. President, United States Secretary of State, terrorist attack_
 
 ##### Fathers 4 Justice
 ### [ A Fathers 4 Justice protester dressed as Batman breaches security at Buckingham Palace and scales a wall. He remains on a balcony for five hours before being arrested by police. ](/news/2004/09/13/a-fathers-4-justice-protester-dressed-as-batman-breaches-security-at-buckingham-palace-and-scales-a-wall-he-remains-on-a-balcony-for-five.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/14/index.html)  [JSON](2008/12/14/index.json)  [XML](200
 
 ##### Al-Baghdadia TV
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al Zaidi, President of the United States, U.S., throws a shoe_
+_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al Zaidi, U.S., U.S. President, throws a shoe_
 
 ##### Uganda
 ### [ Uganda, Democratic Republic of the Congo, and Southern Sudan launch an operation against the Lord's Resistance Army insurgency in the DRC's Garamba National Park. ](/news/2008/12/14/uganda-democratic-republic-of-the-congo-and-southern-sudan-launch-an-operation-against-the-lord-s-resistance-army-insurgency-in-the-drc-s.md)

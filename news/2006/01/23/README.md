@@ -29,7 +29,7 @@ _Context: mad cow disease_
 
 ##### Bioce
 ### [ After its brakes fail, a train crashes near Bioce, a village nine miles northeast of Podgorica in Montenegro, killing at least 39 and injuring more than 130 people, in the country's worst train disaster. ](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.md)
-_Context: Bioce, Montenegro, Podgorica, worst train disaster_
+_Context: Bioce, Montenegrin, Podgorica, worst train disaster_
 
 ##### Kuwait
 ### [ Kuwait emir Sheikh Saad Al-Abdullah Al-Salim Al-Sabah has agreed to abdicate his position. ](/news/2006/01/23/kuwait-emir-sheikh-saad-al-abdullah-al-salim-al-sabah-has-agreed-to-abdicate-his-position.md)

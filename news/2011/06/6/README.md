@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/6/index.html)  [JSON](2011/06/6/index.json)  [XML](2011/
 
 ##### Austan Goolsbee
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
-_Context: Austan Goolsbee, Council of Economic Advisers, President of the United States_
+_Context: Austan Goolsbee, Council of Economic Advisers, U.S. President_
 
 ##### United States House of Representatives
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)

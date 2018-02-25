@@ -19,7 +19,7 @@ _Context: Economy Minister, Eurozone, Eurozone crisis, Italian Prime Minister, M
 ### [Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. ](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.md)
 _Context: Washington, DC., White House, bullet-proof glass_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama arrives in Australia for a visit to commemorate the 60th anniversary of the signing of the ANZUS treaty; the United States and Australia announce an agreement to expand military cooperation between them, including the stationing of up to 2,500 U.S. Marines near Darwin. ](/news/2011/11/16/the-president-of-the-united-states-barack-obama-arrives-in-australia-for-a-visit-to-commemorate-the-60th-anniversary-of-the-signing-of-the-a.md)
 President Obama said the move to base 2,500 Marines in Australia is not intended to isolate China, but it is an unmistakable sign that the United States has grown more wary of its intentions.
 

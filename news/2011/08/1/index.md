@@ -13,7 +13,7 @@ The US House of Representatives has approved legislation to avert a disastrous d
 
 ##### Kevin Rudd
 ### [Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. ](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.md)
-_Context: Australian Foreign Minister, Australian Prime Minister, Kevin Rudd, aortic valve_
+_Context: Australian Foreign Minister, Kevin Rudd, Prime Minister, aortic valve_
 
 ##### South Korea
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)

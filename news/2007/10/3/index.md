@@ -25,7 +25,7 @@ _Context: Baghdad, Edward Pietrzyk, Iraq, Poland, ambassador, bodyguard, roadsid
 
 ##### U.S.
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
-_Context: George W. Bush, President of the United States, State Children's Health Insurance Program, U.S._
+_Context: George W. Bush, State Children's Health Insurance Program, U.S., U.S. President_
 
 ##### U.S.
 ### [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md)

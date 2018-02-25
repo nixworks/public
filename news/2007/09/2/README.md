@@ -23,7 +23,7 @@ _Context: Copenhagen, Norrebro, Riot police, Ungdomshuset_
 ### [ Twelve Greenpeace activists are arrested in protests at Newcastle, New South Wales on the eve of the APEC meeting in Sydney. ](/news/2007/09/2/twelve-greenpeace-activists-are-arrested-in-protests-at-newcastle-new-south-wales-on-the-eve-of-the-apec-meeting-in-sydney.md)
 _Context: APEC, Greenpeace India's, Newcastle, Sydney_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia John Howard announces that Justice Ian Callinan will conduct an inquiry into the 2007 Australian equine influenza outbreak. ](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.md)
 Prime Minister John Howard has announced an independent inquiry into the spread of equine influenza to horses in Australia.
 

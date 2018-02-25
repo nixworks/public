@@ -107,9 +107,9 @@ China will send delegations to the United States in August and September to disc
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
 
-##### President of the United States
+##### U.S. President
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Felipe Calderon, George W. Bush, President of Mexico, President of the United States, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper_
+_Context: Felipe Calderon, George W. Bush, President of Mexico, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
 
 ##### Israeli Defence Force
 ### [ The Israeli Defence Force destroys a tunnel from the Gaza Strip towards Israel. ](/news/2007/08/15/the-israeli-defence-force-destroys-a-tunnel-from-the-gaza-strip-towards-israel.md)

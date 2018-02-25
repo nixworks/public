@@ -15,9 +15,9 @@ _Context: GEO Television, Islamabad, Pakistan, Pervez Musharraf, president_
 ### [ The Palestinian Legislative Council endorses a unity cabinet containing members of Fatah and Hamas. ](/news/2007/03/17/the-palestinian-legislative-council-endorses-a-unity-cabinet-containing-members-of-fatah-and-hamas.md)
 _Context: Fatah, Hamas, Palestinian Legislative Council, forming a government_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia John Howard makes a commitment to keep Australian troops in Iraq until Iraq is able to control its own security. ](/news/2007/03/17/the-prime-minister-of-australia-john-howard-makes-a-commitment-to-keep-australian-troops-in-iraq-until-iraq-is-able-to-control-its-own-secu.md)
-_Context: Australia, Australian Prime Minister, Iraq, John Howard_
+_Context: Australia, Iraq, John Howard, Prime Minister_
 
 ##### Bangladesh
 ### [ In major upsets, Bangladesh beats India by 5 wickets in a 2007 Cricket World Cup tie-up, ](/news/2007/03/17/in-major-upsets-bangladesh-beats-india-by-5-wickets-in-a-2007-cricket-world-cup-tie-up.md)

@@ -23,9 +23,9 @@ _Context: India, United Liberation Front of Assam_
 ### [ Zimbabwe parliamentary elections, 2005: In Zimbabwe, the ruling Zanu-PF gains a two-thirds majority over opposition party Movement for Democratic Change amidst claims of dis-enfranchisement and fraud. ](/news/2005/04/1/zimbabwe-parliamentary-elections-2005-in-zimbabwe-the-ruling-zanu-pf-gains-a-two-thirds-majority-over-opposition-party-movement-for-demo.md)
 _Context: Movement for Democratic Change, Zanu-PF, Zimbabwe, opposition party, parliamentary elections_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council votes to refer those suspected of war crimes in Darfur to the International Criminal Court. ](/news/2005/04/1/the-united-nations-security-council-votes-to-refer-those-suspected-of-war-crimes-in-darfur-to-the-international-criminal-court.md)
-_Context: Darfur, ICC, United Nations Security Council, war crime_
+_Context: Darfur, ICC, Security Council, war crime_
 
 ##### Pope
 ### [ Pope John Paul II is on the verge of death as a result of his recent health problems. The Vatican announces that the pope has suffered cardiovascular collapse and septic shock. ](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.md)

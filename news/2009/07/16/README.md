@@ -61,7 +61,7 @@ _Context: China, GDP, global economic crisis_
 
 ##### United Nations
 ### [ A United Nations Security Council committee imposes further sanctions on North Korea. ](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.md)
-_Context: North Korea, United Nations, United Nations Security Council_
+_Context: North Korea, Security Council, United Nations_
 
 ##### Uganda
 ### [ A Ugandan study finds circumcising men who already have HIV does not protect their female partners from the virus. ](/news/2009/07/16/a-ugandan-study-finds-circumcising-men-who-already-have-hiv-does-not-protect-their-female-partners-from-the-virus.md)

@@ -27,9 +27,9 @@ Officials say nine people dead in two overnight clashes between army, village gu
 ### [Suspected members of Boko Haram attack the northern Nigerian city of Potiskum, destroying several buildings and leaving at least 23 locals dead. ](/news/2012/10/20/suspected-members-of-boko-haram-attack-the-northern-nigerian-city-of-potiskum-destroying-several-buildings-and-leaving-at-least-23-locals-d.md)
 At least 23 people killed and several buildings destroyed after suspected Boko Haram fighters mount attack in Potiskum.
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council announces plans to impose sanctions on the leaders of Democratic Republic of the Congo's M23 rebel movement due to violations of an arms embargo. ](/news/2012/10/20/the-united-nations-security-council-announces-plans-to-impose-sanctions-on-the-leaders-of-democratic-republic-of-the-congo-s-m23-rebel-movem.md)
-_Context: DR Congo, M23, United Nations Security Council_
+_Context: DR Congo, M23, Security Council_
 
 ##### Muammar Gaddafi
 ### [Authorities in Tripoli announce the capture of Muammar Gaddafi's former spokesman Moussa Ibrahim near the town of Tarhouna, 40 miles south of the capital Tripoli. Ibrahim's whereabouts had been unknown since the end of the civil war in 2011 and there had been several earlier reports of his arrest. Hours later an audio message purported to be by Ibrahim appears online, in which he denies being captured or even being in Libya. ](/news/2012/10/20/authorities-in-tripoli-announce-the-capture-of-muammar-gaddafi-s-former-spokesman-moussa-ibrahim-near-the-town-of-tarhouna-40-miles-south-o.md)

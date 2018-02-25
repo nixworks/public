@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/13/index.html)  [JSON](2010/05/13/index.json)  [XML](201
 
 ##### U.S. state
 ### [The U.S. state of Hawaii enacts a law permitting officials to ignore multiple attempts by the same person to view the birth certificate of President of the United States Barack Obama. ](/news/2010/05/13/the-u-s-state-of-hawaii-enacts-a-law-permitting-officials-to-ignore-multiple-attempts-by-the-same-person-to-view-the-birth-certificate-of-p.md)
-_Context: Barack Obama, Hawaii, President of the United States, U.S. state_
+_Context: Barack Obama, Hawaii, U.S. President, U.S. state_
 
 ##### Massachusetts
 ### [Five people are arrested, two in Massachusetts, and three in New York by the FBI in connection with the 2010 Times Square car bombing attempt ](/news/2010/05/13/five-people-are-arrested-two-in-massachusetts-and-three-in-new-york-by-the-fbi-in-connection-with-the-2010-times-square-car-bombing-attemp.md)

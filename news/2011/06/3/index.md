@@ -19,9 +19,9 @@ Former Democratic vice presidential nominee and two-time presidential candidate 
 ### [Bosnian Serb genocide suspect Ratko Mladic makes his first appearance at the war crimes tribunal in The Hague, Netherlands, and dismisses charges against him as "obnoxious." ](/news/2011/06/3/bosnian-serb-genocide-suspect-ratko-mladia-makes-his-first-appearance-at-the-war-crimes-tribunal-in-the-hague-netherlands-and-dismisses-c.md)
 Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; charges against him Friday during his first appearance at a war crimes tribunal.
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council expresses "grave concern about the ongoing violence and rapidly deteriorating situation in Abyei in southern Sudan. ](/news/2011/06/3/the-united-nations-security-council-expresses-grave-concern-about-the-ongoing-violence-and-rapidly-deteriorating-situation-in-abyei-in-sout.md)
-_Context: Abyei, United Nations Security Council, southern Sudan_
+_Context: Abyei, Security Council, southern Sudan_
 
 ##### Agent Orange
 ### [A South Korean report claims that South Korea and the United States sprayed Agent Orange on the Demilitarized Zone in 1968-69 in order to prevent infiltrations from North Korea. ](/news/2011/06/3/a-south-korean-report-claims-that-south-korea-and-the-united-states-sprayed-agent-orange-on-the-demilitarized-zone-in-1968-69-in-order-to-pr.md)
@@ -49,7 +49,7 @@ _Context: Qantas, flight attendant, voluntary redundancies_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
-_Context: Barack Obama, Chrysler, Fiat, Italian, Ohio, President of the United States, Toledo, United States Government_
+_Context: Barack Obama, Chrysler, Fiat, Italian, Ohio, Toledo, U.S. President, United States Government_
 
 ##### Greek prime minister
 ### [Greek prime minister, George Papandreou presents a plan for further austerity-measure privatizations in return for more international aid to avoid defaulting on its debt following a 110 billion Euro bailout last year that has so far failed to resolve the Greek economic crisis; Greece's main labor unions have called for a general strike on June 15. ](/news/2011/06/3/greek-prime-minister-george-papandreou-presents-a-plan-for-further-austerity-measure-privatizations-in-return-for-more-international-aid-to.md)

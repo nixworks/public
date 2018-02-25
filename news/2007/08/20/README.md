@@ -51,9 +51,9 @@ _Context: Abu Ghraib, Iraq, Lieutenant Colonel, United States soldier, judge_
 ### [ At least 20 people have died as a result of flooding in the United States with further flooding likely in Minnesota and Wisconsin. ](/news/2007/08/20/at-least-20-people-have-died-as-a-result-of-flooding-in-the-united-states-with-further-flooding-likely-in-minnesota-and-wisconsin.md)
 Storms that deluged widely separated parts of the country from the upper Mississippi to Texas have caused at least 20 deaths since last week.
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council votes unanimously to extend the African Union Mission to Somalia. ](/news/2007/08/20/the-united-nations-security-council-votes-unanimously-to-extend-the-african-union-mission-to-somalia.md)
-_Context: AMISOM, United Nations Security Council_
+_Context: AMISOM, Security Council_
 
 ##### NASA
 ### [ NASA clears the Space Shuttle Endeavour for an early landing tomorrow at Cape Canaveral. ](/news/2007/08/20/nasa-clears-the-space-shuttle-endeavour-for-an-early-landing-tomorrow-at-cape-canaveral.md)

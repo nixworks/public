@@ -17,7 +17,7 @@ _Context: University of Liverpool, genome, wheat_
 
 ##### Governor-General of Australia
 ### [Legal advice clears Governor-General of Australia Mrs. Quentin Bryce to make a decision on who will be the next Prime Minister of Australia despite family ties to Australian Labor Party powerbroker Bill Shorten. ](/news/2010/08/27/legal-advice-clears-governor-general-of-australia-mrs-quentin-bryce-to-make-a-decision-on-who-will-be-the-next-prime-minister-of-australia.md)
-_Context: Australia, Australian Labor Party, Australian Prime Minister, Bill Shorten, Governor-General of Australia, Quentin Bryce_
+_Context: Australia, Australian Labor Party, Bill Shorten, Governor-General of Australia, Prime Minister, Quentin Bryce_
 
 ##### Burma
 ### [Leaders of the Burmese junta, including Senior General Than Shwe, resign from their posts ahead of general elections in November. ](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.md)
@@ -35,7 +35,7 @@ Mexican prosecutors say they are deeply concerned for the safety of a prosecutor
 ### [The President of Kenya Mwai Kibaki enacts the new constitution. ](/news/2010/08/27/the-president-of-kenya-mwai-kibaki-enacts-the-new-constitution.md)
 _Context: Mwai Kibaki, President of Kenya, new constitution_
 
-##### President of the United States
+##### U.S. President
 ### [Former President of the United States Jimmy Carter secures the release of US citizen Aijalon Gomes from North Korea. ](/news/2010/08/27/former-president-of-the-united-states-jimmy-carter-secures-the-release-of-us-citizen-aijalon-gomes-from-north-korea.md)
 Ex-US President Jimmy Carter secures the release of an American, Aijalon Mahli Gomes, sentenced to hard labour for illegally entering North Korea.
 
@@ -79,9 +79,9 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [As many as 30 children die of lead poisoning in northern Nigeria. ](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in-northern-nigeria.md)
 As many as 30 children are reportedly dead in northern Nigeria from lead poisoning caused by illegal gold-miners.
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md)
-_Context: Continental Airlines, Department of Justice, United Airlines, antitrust_
+_Context: Continental Airlines, U.S. Justice Department, United, antitrust_
 
 ##### Ben Bernanke
 ### [Ben Bernanke, the Chair of the Federal Reserve, says the United States Federal Reserve is prepared to act against the prospects of deflation but expects economic growth to continue during the latter half of 2010 "albeit at a relatively modest pace." ](/news/2010/08/27/ben-bernanke-the-chair-of-the-federal-reserve-says-the-united-states-federal-reserve-is-prepared-to-act-against-the-prospects-of-deflation.md)

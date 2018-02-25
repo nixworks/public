@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/11/index.html)  [JSON](2018/01/11/index.json)  [XML](201
 
 ##### Haiti-United States relations
 ### [U.S. President Donald Trump refers to Haiti, El Salvador and African countries as "shithole countries" in a private meeting. ](/news/2018/01/11/u-s-president-donald-trump-refers-to-haiti-el-salvador-and-african-countries-as-shithole-countries-in-a-private-meeting.md)
-_Context: Donald Trump, Haiti-United States relations, President of the United States_
+_Context: Donald Trump, Haiti-United States relations, U.S. President_
 
 ##### Weinstein effect
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)

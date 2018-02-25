@@ -5,11 +5,11 @@ Formats: [HTML](2008/06/2/index.html)  [JSON](2008/06/2/index.json)  [XML](2008/
 
 ##### United Nations
 ### [ The United Nations Security Council unanimously passes a declaration allowing foreign naval vessels to enter Somali territorial waters to deal with pirates. ](/news/2008/06/2/the-united-nations-security-council-unanimously-passes-a-declaration-allowing-foreign-naval-vessels-to-enter-somali-territorial-waters-to-d.md)
-_Context: Somali pirates, Somalia, United Nations, United Nations Security Council, maritime forces_
+_Context: Security Council, Somali pirates, Somalia, United Nations, maritime forces_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council goes on a mission to Africa with the first leg of the mission to Djibouti to discuss the Somali Civil War. ](/news/2008/06/2/the-united-nations-security-council-goes-on-a-mission-to-africa-with-the-first-leg-of-the-mission-to-djibouti-to-discuss-the-somali-civil-w.md)
-_Context: Africa, Djibouti, Somali Civil War, United Nations Security Council_
+_Context: Africa, Djibouti, Security Council, Somali Civil War_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency will send an inspection team to Syria to investigate claims by the United States that it was secretly building a nuclear reactor. ](/news/2008/06/2/the-international-atomic-energy-agency-will-send-an-inspection-team-to-syria-to-investigate-claims-by-the-united-states-that-it-was-secretl.md)

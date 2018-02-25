@@ -9,7 +9,7 @@ _Context: 2005 political crisis, Gloria Macapagal-Arroyo, Philippine lower House
 
 ##### Australia
 ### [ Australian telecommunication company Telstra's share price tumbles to a two year low of $4.32AU as Prime Minister John Howard condemns their new management team as disgraceful and the Australian Securities and Investment Commission launches a criminal probe of Telstra's leaked and negative statements. ](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.md)
-_Context: Australia, Australian Prime Minister, Australian Securities and Investment Commission, John Howard, Telstra, share price_
+_Context: Australia, Australian Securities and Investment Commission, John Howard, Prime Minister, Telstra, share price_
 
 ##### Outbreak
 ### [ Almost 600 people have now been officially declared dead in an outbreak of Japanese Encephalitis in India. Officials fear the actual death toll might be much higher because many deaths in rural areas are not reported. ](/news/2005/09/6/almost-600-people-have-now-been-officially-declared-dead-in-an-outbreak-of-japanese-encephalitis-in-india-officials-fear-the-actual-death.md)

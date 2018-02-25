@@ -13,7 +13,7 @@ _Context: Cologne, collapses, municipal archives building_
 
 ##### U.S.
 ### [ United States President Barack Obama and United Kingdom Prime Minister Gordon Brown meet at the White House. ](/news/2009/03/3/united-states-president-barack-obama-and-united-kingdom-prime-minister-gordon-brown-meet-at-the-white-house.md)
-_Context: Barack Obama, Gordon Brown, President of the United States, Prime Minister, U.S., United Kingdom, White House_
+_Context: Barack Obama, Gordon Brown, Prime Minister, U.S., U.S. President, United Kingdom, White House_
 
 ##### Sri Lanka
 ### [ Seven Sri Lankan cricket players are wounded and six policemen killed in shootings near Gaddafi Stadium in Lahore, Pakistan. ](/news/2009/03/3/seven-sri-lankan-cricket-players-are-wounded-and-six-policemen-killed-in-shootings-near-gaddafi-stadium-in-lahore-pakistan.md)

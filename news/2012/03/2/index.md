@@ -15,7 +15,7 @@ _Context: Benghazi, Libya_
 ### [Thousands of people in south-eastern Nigeria attend the funeral of former Biafran secessionist leader Chukwuemeka Odumegwu-Ojukwu who died in London last year. ](/news/2012/03/2/thousands-of-people-in-south-eastern-nigeria-attend-the-funeral-of-former-biafran-secessionist-leader-chukwuemeka-odumegwu-ojukwu-who-died-i.md)
 Thousands of people in south-eastern Nigerian attend the funeral of former Biafran secessionist leader Chukwuemeka Odumegwu-Ojukwu.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces a Cabinet reshuffle with Bob Carr, a former Premier of New South Wales, appointed as Minister for Foreign Affairs to replace Kevin Rudd. ](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.md)
 In a shock announcement, former NSW premier Bob Carr is the new Foreign Affairs Minister.
 

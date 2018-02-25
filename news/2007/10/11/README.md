@@ -23,9 +23,9 @@ _Context: AMC Airlines, Atatrk International Airport, MD-83, belly landing_
 ### [ Mychal Bell of the Jena 6 is ordered to spend 18 months in a juvenile facility for violating probation for previous convictions. ](/news/2007/10/11/mychal-bell-of-the-jena-6-is-ordered-to-spend-18-months-in-a-juvenile-facility-for-violating-probation-for-previous-convictions.md)
 _Context: Jena 6, Mychal Bell, probation_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia John Howard proposes a constitutional referendum recognising indigenous Australians in the Australian constitution, if he is reelected. ](/news/2007/10/11/the-prime-minister-of-australia-john-howard-proposes-a-constitutional-referendum-recognising-indigenous-australians-in-the-australian-const.md)
-_Context: Australian Prime Minister, Constitution, John Howard, indigenous Australians, referendum_
+_Context: Constitution, John Howard, Prime Minister, indigenous Australians, referendum_
 
 ## [Previous Day...](/news/2007/10/10/index.md)
 

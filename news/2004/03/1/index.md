@@ -17,7 +17,7 @@ _Context: British Academy of Film and Television Arts, Grand Theft Auto: Vice Ci
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: President of the United States George W. Bush urges passage of a constitutional amendment to define marriage as between one man and one woman, as the only way to stop "municipal and judicial activists" from issuing marriage licenses to same-sex couples. "If we are to prevent the meaning of marriage from being changed forever, our nation must enact a constitutional amendment." John Kerry denounces the amendment as "toying" or "tampering" with the Constitution of the United States for partisan advantage. ](/news/2004/03/1/same-sex-marriage-in-the-united-states-president-of-the-united-states-george-w-bush-urges-passage-of-a-constitutional-amendment-to-define.md)
-_Context: George W. Bush, John Kerry, President of the United States, Same-sex marriage in the United States, constitutional amendment to ban, marriage, unconstitutional_
+_Context: George W. Bush, John Kerry, Same-sex marriage in the United States, U.S. President, constitutional amendment to ban, marriage, unconstitutional_
 
 ##### Marc Dutroux
 ### [ Marc Dutroux, alleged Belgian child molester and murderer of four girls, goes on trial. ](/news/2004/03/1/marc-dutroux-alleged-belgian-child-molester-and-murderer-of-four-girls-goes-on-trial.md)

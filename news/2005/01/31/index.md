@@ -3,9 +3,9 @@ Formats: [HTML](2005/01/31/index.html)  [JSON](2005/01/31/index.json)  [XML](200
 
 ## [2005-01-31](/news/2005/01/31/index.md)
 
-##### Car bomb
+##### Car bombings
 ### [ Car bomb explodes in Dushanbe, the capital of Tajikistan. ](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.md)
-_Context: Dushanbe, Tajikistan, car bomb_
+_Context: Dushanbe, Tajikistan, car bombings_
 
 ##### French
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)

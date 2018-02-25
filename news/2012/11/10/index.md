@@ -3,9 +3,9 @@ Formats: [HTML](2012/11/10/index.html)  [JSON](2012/11/10/index.json)  [XML](201
 
 ## [2012-11-10](/news/2012/11/10/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: Barack Obama, Electoral College, Florida, Mitt Romney, President of the United States, presidential election_
+_Context: Barack Obama, Electoral College, Florida, Mitt Romney, U.S. President, presidential election_
 
 ##### Tim Davie
 ### [Tim Davie, the BBC's head of audio and music will succeed Entwistle as Acting Director General from Sunday. ](/news/2012/11/10/tim-davie-the-bbc-s-head-of-audio-and-music-will-succeed-entwistle-as-acting-director-general-from-sunday.md)

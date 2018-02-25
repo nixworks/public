@@ -3,7 +3,7 @@ Formats: [HTML](2015/09/18/index.html)  [JSON](2015/09/18/index.json)  [XML](201
 
 ## [2015-09-18](/news/2015/09/18/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States nominates Eric Fanning as the first openly LGBT Secretary of the Army. ](/news/2015/09/18/the-president-of-the-united-states-nominates-eric-fanning-as-the-first-openly-lgbt-secretary-of-the-army.md)
 Eric Fanning has been a specialist on defense and national security issues for more than 25 years.
 

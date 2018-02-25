@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/24/index.html)  [JSON](2017/01/24/index.json)  [XML](201
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md)
-_Context: Dakota Access Pipeline, Donald Trump, Keystone XL, Presidency of Donald Trump, President of the United States_
+_Context: Dakota Access Pipeline, Donald Trump, Keystone XL, Presidency of Donald Trump, U.S. President_
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [Gambian President Adama Barrow names Fatoumata Tambajang as Vice-President of the Gambia. ](/news/2017/01/24/gambian-president-adama-barrow-names-fatoumata-tambajang-as-vice-president-of-the-gambia.md)

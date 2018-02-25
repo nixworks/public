@@ -23,7 +23,7 @@ _Context: Kashmir_
 
 ##### Alberto Gonzales
 ### [ Alberto Gonzales, the Attorney General of the United States, acknowledges that mistakes were made in the handling of the firing of eight federal prosecutors. His top aide Kyle Sampson resigns for not advising other senior officials of the Department of Justice about discussions with former White House counsel Harriet Miers regarding the possible firings. ](/news/2007/03/13/alberto-gonzales-the-attorney-general-of-the-united-states-acknowledges-that-mistakes-were-made-in-the-handling-of-the-firing-of-eight-fe.md)
-_Context: Alberto Gonzales, Attorney General, Department of Justice, Harriet Miers, Kyle Sampson, White House, firing of eight federal prosecutor_
+_Context: Alberto Gonzales, Attorney General, Harriet Miers, Kyle Sampson, U.S. Justice Department, White House, firing of eight federal prosecutor_
 
 ##### Alexander Veshnyakov
 ### [ Alexander Veshnyakov, the head of Russia's Central Election Commission, is removed after criticising changes to electoral laws favouring United Russia associated with Vladimir Putin. ](/news/2007/03/13/alexander-veshnyakov-the-head-of-russia-s-central-election-commission-is-removed-after-criticising-changes-to-electoral-laws-favouring-un.md)

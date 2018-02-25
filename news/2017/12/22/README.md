@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/22/index.html)  [JSON](2017/12/22/index.json)  [XML](201
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, President of the United States, Tax Cuts and Jobs Act of 2017, Tax reform in the United States_
+_Context: Donald Trump, Tax Cuts and Jobs Act of 2017, Tax reform in the United States, U.S. President_
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
@@ -25,7 +25,7 @@ _Context: Javelin, Ukraine-United States relations_
 
 ##### North Korea's nuclear program
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
-_Context: North Korea, North Korea's nuclear program, United Nations Security Council_
+_Context: North Korea, North Korea's nuclear program, Security Council_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md)

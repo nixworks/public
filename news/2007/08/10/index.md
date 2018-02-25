@@ -51,9 +51,9 @@ _Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argen
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
 _Context: AIDS, Nozizwe Madlala-Routledge, President of South Africa, Spain, Thabo Mbeki, hospital_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)
-_Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
+_Context: Security Council, United Nations Assistance Mission in Iraq_
 
 ##### U.S.
 ### [ United States share markets finish slightly lower as a $38 billion injection from the Federal Reserve helps to stabilise the situation. ](/news/2007/08/10/united-states-share-markets-finish-slightly-lower-as-a-38-billion-injection-from-the-federal-reserve-helps-to-stabilise-the-situation.md)

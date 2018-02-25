@@ -45,7 +45,7 @@ Union pledges to fight to reverse the decision.
 
 ##### Ford's Theatre
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, President of the United States, U.S., Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, U.S., U.S. President, Washington, D.C., assassinated, bicentennial_
 
 ##### Hamas
 ### [ Hamas agrees to an 18-month truce in its conflict with Israel, which has not yet responded. ](/news/2009/02/12/hamas-agrees-to-an-18-month-truce-in-its-conflict-with-israel-which-has-not-yet-responded.md)

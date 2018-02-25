@@ -3,7 +3,7 @@ Formats: [HTML](2008/02/4/index.html)  [JSON](2008/02/4/index.json)  [XML](2008/
 
 ## [2008-02-4](/news/2008/02/4/index.md)
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead -- $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-a-410-billion.md)
 The president’s budget plan, which foresees near-record deficits just ahead, is sure to meet resistance in the Democratic Congress.
 
@@ -33,7 +33,7 @@ _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_
 
 ##### U.S. federal court
 ### [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md)
-_Context: George W. Bush, President of the United States, U.S. federal court, United States Navy, judge, sonar_
+_Context: George W. Bush, U.S. President, U.S. federal court, United States Navy, judge, sonar_
 
 ##### Congress of France
 ### [ The Versailles Assembly, bringing together both the French Senate and the Chamber of Deputies, votes 560 to 181 in favour of amending the constitution to allow adoption of the EU Lisbon Treaty. ](/news/2008/02/4/the-versailles-assembly-bringing-together-both-the-french-senate-and-the-chamber-of-deputies-votes-560-to-181-in-favour-of-amending-the-c.md)

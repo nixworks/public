@@ -15,4 +15,4 @@ Formats: [HTML](/news/2006/10/12/workers-begin-demolishing-the-one-room-amish-sc
 
 ### Related:
 
-1. [ At least five pupils, a teacher's aide, and a gunman are dead after an Amish school shooting in Nickel Mines, Pennsylvania, United States. Some reports have the number of dead at six. ](/news/2006/10/2/at-least-five-pupils-a-teacher-s-aide-and-a-gunman-are-dead-after-an-amish-school-shooting-in-nickel-mines-pennsylvania-united-states.md) _Context: Nickel Mines, Pennsylvania_
+1. [ At least five pupils, a teacher's aide, and a gunman are dead after a school shooting in Nickel Mines, Pennsylvania, United States. Some reports have the number of dead at six. ](/news/2006/10/2/at-least-five-pupils-a-teacher-s-aide-and-a-gunman-are-dead-after-a-school-shooting-in-nickel-mines-pennsylvania-united-states-some-re.md) _Context: Nickel Mines, Pennsylvania_

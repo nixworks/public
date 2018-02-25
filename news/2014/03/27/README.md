@@ -43,7 +43,7 @@ The former garda commissioner delayed withdrawing his use of the word &quot;disg
 ### [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
 _Context: Crimea, General Assembly of the United Nations, Russia_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inauguration.md)
 VATICAN CITY -- Greeting a man he has called an “inspiration,” President Obama paid his first visit to Pope Francis on Thursday, opening a meeting the White House hopes will highlight the leaders’ shared views on economic inequality and poverty and perhaps drown out the president’s conflicts...
 

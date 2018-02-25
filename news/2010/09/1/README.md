@@ -39,9 +39,9 @@ Four Afghan asylum seekers have been hospitalised with dehydration after pushing
 ### [Greece brings into force a smoking ban. ](/news/2010/09/1/greece-brings-into-force-a-smoking-ban.md)
 A new law comes into force in Greece banning smoking in enclosed public spaces and prohibiting tobacco advertising.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
-_Context: Abdullah II of Jordan, Barack Obama, Benjamin Netanyahu, Hosni Mubarak, Israel, Israeli Prime Minister, Jordanian King, Mahmoud Abbas, Middle East, Palestine, President, President of the Palestinian Authority, President of the United States_
+_Context: Abdullah II of Jordan, Barack Obama, Benjamin Netanyahu, Hosni Mubarak, Israel, Israeli Prime Minister, Jordanian King, Mahmoud Abbas, Middle East, Palestine, President, President of the Palestinian Authority, U.S. President_
 
 ##### U.S.
 ### [The United States adds Tehrik-i-Taliban Pakistan to its list of what it considers "foreign terrorist organizations"; rewards are announced for the capture of its leaders. ](/news/2010/09/1/the-united-states-adds-tehrik-i-taliban-pakistan-to-its-list-of-what-it-considers-foreign-terrorist-organizations-rewards-are-announced-f.md)

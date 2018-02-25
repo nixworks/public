@@ -49,7 +49,7 @@ Walt Disney expects to lose $200m (£126m) on its movie John Carter, making it o
 
 ##### Somalia
 ### [Militants attack Somalia's presidential palace in Mogadishu for the second night running. ](/news/2012/03/20/militants-attack-somalia-s-presidential-palace-in-mogadishu-for-the-second-night-running.md)
-_Context: Mogadishu, Somalia, Villa Somalia_
+_Context: Mogadishu, Somalia, presidential palace_
 
 ##### Wave of terror attacks
 ### [At least 50 are killed and more than 240 injured in a wave of terror attacks across 10 cities in Iraq. ](/news/2012/03/20/at-least-50-are-killed-and-more-than-240-injured-in-a-wave-of-terror-attacks-across-10-cities-in-iraq.md)

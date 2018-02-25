@@ -15,7 +15,7 @@ Emergency legislation designed to reverse a controversial judgement on police ba
 ### [President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. ](/news/2011/07/4/president-hugo-cha-vez-returns-to-venezuela-after-undergoing-surgery-for-cancer-in-cuba.md)
 Venezuelan President Hugo Chavez returns home after a prolonged stay in Cuba for treatment for cancer.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama is falsely declared dead by the Twitter account of the U.S. broadcaster Fox News in a series of messages stating, "@BarackObama has just passed. The President is dead" and "BREAKING NEWS: @BarackObama assassinated, 2 gunshot wounds have proved too much". Hackers are blamed though the messages remain online several hours later. ](/news/2011/07/4/president-of-the-united-states-barack-obama-is-falsely-declared-dead-by-the-twitter-account-of-the-u-s-broadcaster-fox-news-in-a-series-of.md)
 Hackers have taken over a Twitter account belonging to US broadcaster Fox News and declared President Obama dead.
 
@@ -47,7 +47,7 @@ Key policing services are being left &quot;unfunded&quot; by budget cuts, the pr
 ### [Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. ](/news/2011/07/4/former-bosnian-serb-colonel-general-ratko-mladia-is-scheduled-to-enter-a-plea-on-charges-of-genocide-in-the-srebrenica-massacre-during-the.md)
 Ex-Bosnian&#x20;Serb&#x20;army&#x20;chief&#x20;Ratko&#x20;Mladic&#x20;will&#x20;not&#x20;attend&#x20;his&#x20;second&#x20;plea&#x20;bargain&#x20;hearing&#x20;on&#x20;Monday&#x20;unless&#x20;he&#x20;is&#x20;forced&#x20;to,&#x20;his&#x20;lawyers&#x20;have&#x20;said.&#x20;Mladic&#x20;was&#x20;arrested&...
 
-##### President of the United States
+##### U.S. President
 ### [A statue of former President of the United States Ronald Reagan is unveiled at a ceremony outside the American embassy in Grosvenor Square, Central London, opposite a statue of Dwight D. Eisenhower. Those invited include Margaret Thatcher and Condoleezza Rice, while a piece of the Berlin Wall also features. ](/news/2011/07/4/a-statue-of-former-president-of-the-united-states-ronald-reagan-is-unveiled-at-a-ceremony-outside-the-american-embassy-in-grosvenor-square.md)
 A statue of the former US President, Ronald Reagan, is unveiled in central London at a ceremony outside the American embassy.
 

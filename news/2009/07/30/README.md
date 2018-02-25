@@ -33,11 +33,11 @@ Research indicates that there has been a substantial increase in the level of un
 
 ##### U.S.
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
-_Context: Barack Obama, Henry Louis Gates, President of the United States, U.S., White House, altercation, black, public intellectual, racial profiling_
+_Context: Barack Obama, Henry Louis Gates, U.S., U.S. President, White House, altercation, black, public intellectual, racial profiling_
 
 ##### Australia
 ### [ Australian Prime Minister Kevin Rudd promises to create 50,000 green jobs and apprenticeships to combat climate change and unemployment simultaneously. ](/news/2009/07/30/australian-prime-minister-kevin-rudd-promises-to-create-50-000-green-jobs-and-apprenticeships-to-combat-climate-change-and-unemployment-sim.md)
-_Context: Australia, Australian Prime Minister, Kevin Rudd_
+_Context: Australia, Kevin Rudd, Prime Minister_
 
 ##### Moldova
 ### [ Moldovan President Vladimir Voronin says he is ready for dialogue "with all political forces represented in the new parliament". ](/news/2009/07/30/moldovan-president-vladimir-voronin-says-he-is-ready-for-dialogue-with-all-political-forces-represented-in-the-new-parliament.md)

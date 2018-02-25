@@ -43,9 +43,9 @@ _Context: Marwoto Komar, pilot error_
 ### [ Al-Jazeera broadcasts an audiotape purporting to be from Osama bin Laden calling on Al-Qaeda in Iraq and other Sunni militants to unite forces. ](/news/2007/10/22/al-jazeera-broadcasts-an-audiotape-purporting-to-be-from-osama-bin-laden-calling-on-al-qaeda-in-iraq-and-other-sunni-militants-to-unite-for.md)
 _Context: Al-Jazeera, Al-Qaeda in Iraq, Osama bin Laden, Sunni, audiotape_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md)
-_Context: $, Afghan, Congress, George W. Bush, Iraq, President of the United States_
+_Context: $, Afghan, Congress, George W. Bush, Iraq, U.S. President_
 
 ##### Kurdistan Workers Party
 ### [ The Kurdistan Workers Party declares a unilateral ceasefire following an attack on Turkish forces. ](/news/2007/10/22/the-kurdistan-workers-party-declares-a-unilateral-ceasefire-following-an-attack-on-turkish-forces.md)

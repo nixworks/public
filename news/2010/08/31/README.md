@@ -15,7 +15,7 @@ Former Cuban President Fidel Castro says he is to blame for the persecution of h
 ### [The South African government improves a pay offer to more than a million striking public sector workers in an attempt to end the two-week-long strike. ](/news/2010/08/31/the-south-african-government-improves-a-pay-offer-to-more-than-a-million-striking-public-sector-workers-in-an-attempt-to-end-the-two-week-lo.md)
 South African government negotiators have improved their pay offer to civil servants in a bid to end a crippling nation-wide strike which has lasted for more than two weeks.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama delivers a televised Oval Office address to the United States commemorating the end of United States armed forces being directly involved in fighting in Iraq. ](/news/2010/08/31/president-of-the-united-states-barack-obama-delivers-a-televised-oval-office-address-to-the-united-states-commemorating-the-end-of-united-st.md)
 In an address from the Oval Office, President Obama said that the nation had met its responsibility to Iraq and would now turn to domestic concerns.
 

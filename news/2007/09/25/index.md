@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/25/index.html)  [JSON](2007/09/25/index.json)  [XML](200
 
 ##### United Nations General Assembly
 ### [ In his speech to the United Nations General Assembly, Iranian President Mahmoud Ahmadinejad reiterates his assertion that his county's nuclear program has been "peaceful and transparent" and criticizes the "illegal" UN sanctions imposed by "arrogant" members of the Security Council. ](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.md)
-_Context: Mahmoud Ahmadinejad, President, United Nations General Assembly, United Nations Security Council, nuclear program_
+_Context: Mahmoud Ahmadinejad, President, Security Council, United Nations General Assembly, nuclear program_
 
 ##### Warren Jeffs
 ### [ Warren Jeffs, leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is found guilty of two counts of rape in the U.S. state of Utah. ](/news/2007/09/25/warren-jeffs-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-found-guilty-of-two-counts-of-rape-in-the-u-s-s.md)
@@ -45,9 +45,9 @@ _Context: Magna Carta, Sotheby's_
 ### [ Mount Ruapehu erupts in New Zealand leading to the evacuation of fifty people. ](/news/2007/09/25/mount-ruapehu-erupts-in-new-zealand-leading-to-the-evacuation-of-fifty-people.md)
 _Context: Mount Ruapehu, New Zealand_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council approves the United Nations Mission in the Central African Republic and Chad. ](/news/2007/09/25/the-united-nations-security-council-approves-the-united-nations-mission-in-the-central-african-republic-and-chad.md)
-_Context: United Nations Mission in the Central African Republic and Chad, United Nations Security Council_
+_Context: Security Council, United Nations Mission in the Central African Republic and Chad_
 
 ## [Previous Day...](/news/2007/09/24/index.md)
 

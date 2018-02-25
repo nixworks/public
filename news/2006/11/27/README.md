@@ -9,7 +9,7 @@ _Context: Bill English, John Key, New Zealand National Party_
 
 ##### Attorney-General
 ### [ Australian Attorney-General Philip Ruddock tables the multi-volume Cole Inquiry report. It finds that the Prime Minister of Australia John Howard, his ministers or Australian government departments were not aware of AWB Limited paying kickbacks to the regime of Saddam Hussein to buy Australian wheat under the Oil for Food program. ](/news/2006/11/27/australian-attorney-general-philip-ruddock-tables-the-multi-volume-cole-inquiry-report-it-finds-that-the-prime-minister-of-australia-john.md)
-_Context: AWB Limited, Attorney-General, Australian Prime Minister, Cole Inquiry, John Howard, Oil for Food, Philip Ruddock, Saddam Hussein_
+_Context: AWB Limited, Attorney-General, Cole Inquiry, John Howard, Oil for Food, Philip Ruddock, Prime Minister, Saddam Hussein_
 
 ##### Tehran
 ### [ An airplane crashes in Tehran killing 28 members of the Islamic Revolutionary Guards Corps including high-ranking officers. ](/news/2006/11/27/an-airplane-crashes-in-tehran-killing-28-members-of-the-islamic-revolutionary-guards-corps-including-high-ranking-officers.md)

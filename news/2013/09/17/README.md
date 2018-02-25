@@ -13,7 +13,7 @@ _Context: Bangladesh Jamaat-e-Islami, independence war, war crimes_
 
 ##### Iran
 ### [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md)
-_Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President, President of the United States, U.S._
+_Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President, U.S., U.S. President_
 
 ##### Costa Concordia
 ### [The "Costa Concordia" is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md)

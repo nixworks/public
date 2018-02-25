@@ -15,9 +15,9 @@ _Context: California, Congressman, Democrat, Duncan Hunter, Haditha, Haditha kil
 ### [ The Iraqi National Assembly votes in a new government, leaving the ministries of Defense, National Security and Interior in temporary hands. ](/news/2006/05/20/the-iraqi-national-assembly-votes-in-a-new-government-leaving-the-ministries-of-defense-national-security-and-interior-in-temporary-hands.md)
 _Context: Iraqi National Assembly, new government_
 
-##### Montenegro
+##### Montenegrin
 ### [ Campaigning in Montenegro's referendum on independence ends at midnight local time, with voting scheduled to begin the following morning. ](/news/2006/05/20/campaigning-in-montenegro-s-referendum-on-independence-ends-at-midnight-local-time-with-voting-scheduled-to-begin-the-following-morning.md)
-_Context: Montenegro, dissolution_
+_Context: Montenegrin, dissolution_
 
 ##### Three Gorges Dam
 ### [ The construction of the Three Gorges Dam wall, the largest dam in the world, is completed in the People's Republic of China. ](/news/2006/05/20/the-construction-of-the-three-gorges-dam-wall-the-largest-dam-in-the-world-is-completed-in-the-people-s-republic-of-china.md)

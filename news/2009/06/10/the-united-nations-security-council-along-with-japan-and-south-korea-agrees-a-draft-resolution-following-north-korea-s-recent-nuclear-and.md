@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/10/the-united-nations-security-council-along-with-
 
 ### [2009-06-10](/news/2009/06/10/index.md)
 
-##### United Nations Security Council
+##### Security Council
 #  The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. 
 
 

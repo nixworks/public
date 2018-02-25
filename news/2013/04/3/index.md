@@ -25,7 +25,7 @@ _Context: India, Uttar Pradesh, acid, motorcyclist_
 
 ##### Australia
 ### [Australia opens a national probe into child sex abuse, with Prime Minister Julia Gillard warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. ](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.md)
-_Context: Australia, Australian Prime Minister, Julia Gillard, child sex abuse_
+_Context: Australia, Julia Gillard, Prime Minister, child sex abuse_
 
 ##### Japan
 ### [Japanese researchers find a correlation between male pattern baldness and heart disease. ](/news/2013/04/3/japanese-researchers-find-a-correlation-between-male-pattern-baldness-and-heart-disease.md)

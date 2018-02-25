@@ -29,7 +29,7 @@ The U.N. Security Council unanimously adopted a resolution Monday demanding inte
 
 ##### Operation Protective Edge
 ### [The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md)
-_Context: Gaza Strip, Operation Protective Edge, United Nations Security Council_
+_Context: Gaza Strip, Operation Protective Edge, Security Council_
 
 ## [Previous Day...](/news/2014/07/20/index.md)
 

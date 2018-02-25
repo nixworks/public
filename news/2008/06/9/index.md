@@ -7,9 +7,9 @@ Formats: [HTML](2008/06/9/index.html)  [JSON](2008/06/9/index.json)  [XML](2008/
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
 _Context: Chief of Staff of the United States Air Force, Michael B. Donley, Norton Schwartz, Robert Gates, Secretary of the Air Force, United States Secretary of Defense_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush commences the last visit to Europe of his presidency. ](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.md)
-_Context: Europe, George W. Bush, President of the United States_
+_Context: Europe, George W. Bush, U.S. President_
 
 ##### Rajasthan
 ### [ The government of the Indian state of Rajasthan meets with leaders of the Gujjar community after two weeks of protests over the reservation system. ](/news/2008/06/9/the-government-of-the-indian-state-of-rajasthan-meets-with-leaders-of-the-gujjar-community-after-two-weeks-of-protests-over-the-reservation.md)

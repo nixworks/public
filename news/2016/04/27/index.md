@@ -51,9 +51,9 @@ _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Kurdish, Shia, Tuz Khurmato_
 
-##### United Nations Security Council
+##### Security Council
 ### [United Nations Security Council members are considering a draft resolution that would restore the UN mission in Western Sahara to full functionality. Last month, Morocco expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-funct.md)
-_Context: MINURSO, Morocco, United Nations Security Council_
+_Context: MINURSO, Morocco, Security Council_
 
 ##### Taliban insurgency
 ### [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md)

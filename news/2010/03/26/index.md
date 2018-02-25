@@ -39,7 +39,7 @@ UN chief voices concern at lack of progress ahead of planned elections.
 ### [A prominent Indonesian cleric says Islamic law should take priority over laws passed by Parliament. ](/news/2010/03/26/a-prominent-indonesian-cleric-says-islamic-law-should-take-priority-over-laws-passed-by-parliament.md)
 _Context: Indonesia, Parliament, muslim cleric, sharia law_
 
-##### President of the United States
+##### U.S. President
 ### [US President Obama and Russian President Medvedev finalize a new arms control treaty to further reduce the nuclear arsenals of each country still remaining since the Cold War. ](/news/2010/03/26/us-president-obama-and-russian-president-medvedev-finalize-a-new-arms-control-treaty-to-further-reduce-the-nuclear-arsenals-of-each-country.md)
 Treaty to be signed on April 8 would cut both arsenals to 1,550 warheads.
 

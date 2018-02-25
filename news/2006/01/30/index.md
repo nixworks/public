@@ -9,7 +9,7 @@ _Context: File sharing, High Court, Internet service providers_
 
 ##### Iran
 ### [ China and Russia agree to refer Iran to the United Nations Security Council for its nuclear program in March 2006. ](/news/2006/01/30/china-and-russia-agree-to-refer-iran-to-the-united-nations-security-council-for-its-nuclear-program-in-march-2006.md)
-_Context: Iran, Iran's nuclear program, United Nations Security Council_
+_Context: Iran, Iran's nuclear program, Security Council_
 
 ## [Previous Day...](/news/2006/01/29/index.md)
 

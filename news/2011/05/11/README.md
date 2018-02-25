@@ -49,7 +49,7 @@ The suspects, whom a law enforcement official characterized as “homegrown,” 
 
 ##### John Hinckley, Jr.
 ### [A judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-vi.md)
-_Context: John Hinckley, Jr., President of the United States, Ronald Reagan, Washington, DC, shot by John W. Hinckley_
+_Context: John Hinckley, Jr., Ronald Reagan, U.S. President, Washington, DC, shot by John W. Hinckley_
 
 ##### Virginia House of Delegates
 ### [Former member of the Virginia House of Delegates Phillip A. Hamilton is convicted of bribery and extortion. ](/news/2011/05/11/former-member-of-the-virginia-house-of-delegates-phillip-a-hamilton-is-convicted-of-bribery-and-extortion.md)

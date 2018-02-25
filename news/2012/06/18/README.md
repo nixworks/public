@@ -19,9 +19,9 @@ _Context: Major League Baseball, Roger Clemens, perjury_
 ### [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md)
 Survivors of the Rwandan genocide in 1994 say they are concerned about their safety after community courts ended their work after 10 years.
 
-##### President of the United States
+##### U.S. President
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Barack Obama, Iran, President of the United States, Russian President, Syrian uprising (2011-present), Vladimir Putin_
+_Context: Barack Obama, Iran, Russian President, Syrian uprising (2011-present), U.S. President, Vladimir Putin_
 
 ##### Los Cabos, Baja California Sur
 ### [The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2012/01/5/index.html)  [JSON](2012/01/5/index.json)  [XML](2012/
 ### [Portia Simpson Miller is sworn in for the second time as the Prime Minister of Jamaica. ](/news/2012/01/5/portia-simpson-miller-is-sworn-in-for-the-second-time-as-the-prime-minister-of-jamaica.md)
 _Context: Portia Simpson Miller, Prime Minister of Jamaica_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama announces a new defense strategy, cutting spending dramatically. ](/news/2012/01/5/the-president-of-the-united-states-barack-obama-announces-a-new-defense-strategy-cutting-spending-dramatically.md)
 President Barack Obama has unveiled a strategy for a leaner US military focused on countering China&#039;s rising power while signalling a shift away from large ground wars against insurgents.
 

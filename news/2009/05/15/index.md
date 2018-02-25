@@ -21,7 +21,7 @@ _Context: Chechnya, Grozny, Russia, suicide attack_
 
 ##### U.S.
 ### [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md)
-_Context: Barack Obama, Guantanamo Bay detention camp, President of the United States, U.S., detainees, military tribunal_
+_Context: Barack Obama, Guantanamo Bay detention camp, U.S., U.S. President, detainees, military tribunal_
 
 ##### Eurozone
 ### [ The Eurozone's 16 national economies contract by 2.5% throughout the first fiscal quarter of 2009. ](/news/2009/05/15/the-eurozone-s-16-national-economies-contract-by-2-5-throughout-the-first-fiscal-quarter-of-2009.md)

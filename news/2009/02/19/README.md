@@ -21,7 +21,7 @@ _Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leadin
 
 ##### U.S.
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canada, Ottawa, President of the United States, Prime Minister of Canada, Stephen Harper, U.S._
+_Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S., U.S. President_
 
 ##### French
 ### [ The French battleship "Danton" is discovered in the Mediterranean Sea. ](/news/2009/02/19/the-french-battleship-danton-is-discovered-in-the-mediterranean-sea.md)

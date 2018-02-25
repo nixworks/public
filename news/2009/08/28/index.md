@@ -13,7 +13,7 @@ _Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
 
 ##### United Nations
 ### [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md)
-_Context: Iran, North Korea, United Arab Emirates, United Nations, United Nations Security Council, sanctions_
+_Context: Iran, North Korea, Security Council, United Arab Emirates, United Nations, sanctions_
 
 ##### Myanmar Armed Forces
 ### [ Clashes between rebels and government troops in the Kokang region of northeastern Burma continue, with around 30,000 refugees fleeing across the border to China. ](/news/2009/08/28/clashes-between-rebels-and-government-troops-in-the-kokang-region-of-northeastern-burma-continue-with-around-30-000-refugees-fleeing-acros.md)

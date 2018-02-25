@@ -23,9 +23,9 @@ _Context: Beichuan, Tangjiashan Lake, deadly earthquake, flood_
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
 _Context: Republican, U.S., United States Senate, windfall profits tax_
 
-##### President of the United States
+##### U.S. President
 ### [ President George W. Bush attends the final United States-European Union summit of his Presidency with agreements to tighten sanctions against Iran for its nuclear program. ](/news/2008/06/10/president-george-w-bush-attends-the-final-united-states-european-union-summit-of-his-presidency-with-agreements-to-tighten-sanctions-again.md)
-_Context: European Union, George W. Bush, Iran, President of the United States, U.S., nuclear program_
+_Context: European Union, George W. Bush, Iran, U.S., U.S. President, nuclear program_
 
 ##### Morocco
 ### [ A Moroccan court sentences 29 people to prison sentences for recruiting people to fight for militants in Iraq. ](/news/2008/06/10/a-moroccan-court-sentences-29-people-to-prison-sentences-for-recruiting-people-to-fight-for-militants-in-iraq.md)

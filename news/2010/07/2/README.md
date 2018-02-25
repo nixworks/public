@@ -11,9 +11,9 @@ _Context: Beltransgaz, Gazprom_
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
 _Context: German, Zimbabwe_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Barack Obama, CISAD Act, President of the United States, Revolutionary Guards_
+_Context: Barack Obama, CISAD Act, Revolutionary Guards, U.S. President_
 
 ##### Ian Paisley
 ### [Ian Paisley condemns the invitation for the Pope to visit Britain and calls child-abusing Catholic priests "Antichrists". ](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.md)

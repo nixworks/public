@@ -29,7 +29,7 @@ _Context: APEC, Denmark, United Nations, global warming_
 
 ##### U.S.
 ### [ U.S. President Barack Obama becomes the first U.S. President to meet with Burma's military government, calling for the release of Aung San Suu Kyi and other political prisoners. ](/news/2009/11/15/u-s-president-barack-obama-becomes-the-first-u-s-president-to-meet-with-burma-s-military-government-calling-for-the-release-of-aung-san.md)
-_Context: Aung San Suu Kyi, Barack Obama, Burma, President of the United States, State Peace and Development Council, U.S._
+_Context: Aung San Suu Kyi, Barack Obama, Burma, State Peace and Development Council, U.S., U.S. President_
 
 ##### Kosovo
 ### [ Kosovars go to the polls for the first local elections since declaring independence from Serbia. ](/news/2009/11/15/kosovars-go-to-the-polls-for-the-first-local-elections-since-declaring-independence-from-serbia.md)

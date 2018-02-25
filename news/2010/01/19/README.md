@@ -67,9 +67,9 @@ _Context: IAEA, Iran, low-enriched uranium, nuclear fuel, nuclear program_
 ### [British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence-per-share.md)
 _Context: Cadbury, Great Britain, Kraft Foods, U.S., confectionery_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md)
-_Context: United Nations Security Council, United Nations Stabilization Mission in Haiti, increases the size_
+_Context: Security Council, United Nations Stabilization Mission in Haiti, increases the size_
 
 ## [Previous Day...](/news/2010/01/18/index.md)
 

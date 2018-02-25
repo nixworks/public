@@ -61,7 +61,7 @@ Social networks may have known more than the US about Middle East revolts, asses
 
 ##### Riyad Mansour
 ### [Riyad Mansour, the Palestinian United Nations observer, announces that the United Nations Security Council is to vote tomorrow on a resolution critical of Israeli settlement building in the West Bank and East Jerusalem. ](/news/2011/02/17/riyad-mansour-the-palestinian-united-nations-observer-announces-that-the-united-nations-security-council-is-to-vote-tomorrow-on-a-resoluti.md)
-_Context: East Jerusalem, Riyad Mansour, United Nations, United Nations Security Council, West Bank_
+_Context: East Jerusalem, Riyad Mansour, Security Council, United Nations, West Bank_
 
 ##### Rohingya
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)

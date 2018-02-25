@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/15/montenegro-presents-its-official-application-fo
 
 ### [2008-12-15](/news/2008/12/15/index.md)
 
-##### Montenegro
+##### Montenegrin
 #  Montenegro presents its official application for European Union membership to current EU Council President Nicolas Sarkozy, hoping to win candidate status in 2009. 
 
 

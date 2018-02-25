@@ -25,7 +25,7 @@ Jude Law and Lord Prescott are among 37 people to receive payouts over phone hac
 
 ##### FBI
 ### [The FBI shuts down Megaupload. In response, hacker group Anonymous shuts down the United States Department of Justice website and many websites of the government and entertainment industry. ](/news/2012/01/19/the-fbi-shuts-down-megaupload-in-response-hacker-group-anonymous-shuts-down-the-united-states-department-of-justice-website-and-many-websi.md)
-_Context: Department of Justice, FBI, Megaupload, hacker group Anonymous_
+_Context: FBI, Megaupload, U.S. Justice Department, hacker group Anonymous_
 
 ##### Tropical storm
 ### [Five people are killed and thousands of others are affected following the first tropical storm to hit Mozambique since 1984. ](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-are-affected-following-the-first-tropical-storm-to-hit-mozambique-since-1984.md)

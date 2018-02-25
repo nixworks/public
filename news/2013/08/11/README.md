@@ -7,7 +7,7 @@ Formats: [HTML](2013/08/11/index.html)  [JSON](2013/08/11/index.json)  [XML](201
 ### [Argentina held the first round of legislative elections to renew half the Chamber of Deputies and one third of the Senate. The final round will be held October 27. ](/news/2013/08/11/argentina-held-the-first-round-of-legislative-elections-to-renew-half-the-chamber-of-deputies-and-one-third-of-the-senate-the-final-round-w.md)
 Kirchnerism loses key electoral district in primaries
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Australian Prime Minister Kevin Rudd and Leader of the Opposition Tony Abbott participate in the first of three televised leaders debates ahead of September's federal election. ](/news/2013/08/11/australian-prime-minister-kevin-rudd-and-leader-of-the-opposition-tony-abbott-participate-in-the-first-of-three-televised-leaders-debates-ah.md)
 Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the economy and immigration in the first televised debate of the election campaign.
 

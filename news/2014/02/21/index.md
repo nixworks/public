@@ -11,7 +11,7 @@ A Bedfordshire professor claims to have made a breakthrough in deciphering a mys
 ### [Sudan puts a married Ethiopian woman to trial after being gang-raped because she waited before she reported it. She faces the death penalty for adultery. ](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.md)
 _Context: Ethiopia, Sudan, adultery, death penalty, gang-rape_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-the-meeting.md)
 US President Barack Obama hosts the exiled Tibetan spiritual leader the Dalai Lama, a move denounced by China as &quot;gross interference&quot;.
 

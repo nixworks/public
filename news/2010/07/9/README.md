@@ -75,7 +75,7 @@ The Australian government has announced an independent review of the rules behin
 ### [At least 50,000 West Papuans march on the Papua provincial parliament in Jayapura calling for the rejection of special autonomy status offered by Indonesia in favor of independence; 20,000 camp outside the parliament overnight. ](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.md)
 _Context: Indonesia, Jayapura, Papua, Papua, autonomy_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.md)
 The UN Security Council has condemned a deadly attack on a South Korean warship that killed 46 sailors in March.
 

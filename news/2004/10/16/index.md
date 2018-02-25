@@ -11,9 +11,9 @@ _Context: Abu Ala, Gaza Strip, Israeli Army, Israeli Defence Forces, Operation D
 ### [ Expedition 10, carrying cosmonauts Salizhan Sharipov (Salizhan Sharipov) and Yuri Shargin (Iurii Shargin), and astronaut Leroy Chiao, docks successfully at the International Space Station. Chiao and Sharipov will be relieving Mike Fincke and Gennady Padalka (Gennadi Padalka) from Expedition 9, and will spend six months aboard the station. ](/news/2004/10/16/expedition-10-carrying-cosmonauts-salizhan-sharipov-d-ddegd-d-dpddegd1-2-d-ddegnd-d-d3-4d2-and-yuri-shargin-d-r-nd-d1-d-ddegnd3d-d1-2-and-astronau.md)
 _Context: Expedition 10, Expedition 9, Gennady Padalka's, International Space Station, Leroy Chiao, Mike Fincke, Salizhan Sharipov, Yuri Shargin, astronaut, cosmonaut_
 
-##### Car bomb
+##### Car bombings
 ### [ Car bombs are detonated in Qaim and Mosul, Iraq, killing three U.S. soldiers and a civilian in Qaim, and one U.S. soldier in Mosul. A mortar attack in Qaim kills four Iraqis and wounds 30. ](/news/2004/10/16/car-bombs-are-detonated-in-qaim-and-mosul-iraq-killing-three-u-s-soldiers-and-a-civilian-in-qaim-and-one-u-s-soldier-in-mosul-a-morta.md)
-_Context: Al-Qa'im, Mortar, Mosul, car bomb, civilian_
+_Context: Al-Qa'im, Mortar, Mosul, car bombings, civilian_
 
 ##### Gulf War Veterans' Illnesses
 ### [ The Research Advisory Committee on Gulf War Veterans' Illnesses, under The United States Department of Veterans Affairs, concludes in a report that "a substantial proportion of Gulf War veterans are ill with multisymptom conditions not explained by wartime stress or psychiatric illness" and a "probable link" to exposure to neurotoxins. ](/news/2004/10/16/the-research-advisory-committee-on-gulf-war-veterans-illnesses-under-the-united-states-department-of-veterans-affairs-concludes-in-a-rep.md)

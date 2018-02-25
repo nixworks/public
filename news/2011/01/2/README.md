@@ -23,7 +23,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [Former Canadian ambassador to the United Nations Paul Heinbecker urges the Canadian government to determine its agenda as global power shifts, particularly towards emerging economies. ](/news/2011/01/2/former-canadian-ambassador-to-the-united-nations-paul-heinbecker-urges-the-canadian-government-to-determine-its-agenda-as-global-power-shift.md)
 _Context: Paul Heinbecker, United Nations_
 
-##### President of the United States
+##### U.S. President
 ### [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
 The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist attack required the president’s signature before he returned from a Hawaii vacation.
 

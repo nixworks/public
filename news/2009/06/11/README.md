@@ -27,9 +27,9 @@ _Context: Bermuda, Chinese, David Miliband, Foreign Secretary, Guantanamo Bay, W
 ### [ Prominent Pakistani anti-Taliban cleric Sarfraz Naeemi is killed in a suspected suicide bomb attack at his Islamic religious school in Lahore. ](/news/2009/06/11/prominent-pakistani-anti-taliban-cleric-sarfraz-naeemi-is-killed-in-a-suspected-suicide-bomb-attack-at-his-islamic-religious-school-in-laho.md)
 _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/11/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
-_Context: 2009, North Korea, United Nations Security Council, sanctions, sanctions_
+_Context: 2009, North Korea, Security Council, sanctions, sanctions_
 
 ##### U.S.
 ### [ U.S. television stations complete their switch from analog to digital television. ](/news/2009/06/11/u-s-television-stations-complete-their-switch-from-analog-to-digital-television.md)

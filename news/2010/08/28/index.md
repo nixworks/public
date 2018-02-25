@@ -21,7 +21,7 @@ _Context: DR Congo, Rwanda, United Nations, war crime_
 
 ##### ICC
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
-_Context: ICC, Kenya, Omar al-Bashir, Sudan, Sudanese President, United Nations Security Council_
+_Context: ICC, Kenya, Omar al-Bashir, Security Council, Sudan, Sudanese President_
 
 ##### Cuba
 ### [Cuba eases property laws, allowing foreign investors to lease government land for up to 99 years. ](/news/2010/08/28/cuba-eases-property-laws-allowing-foreign-investors-to-lease-government-land-for-up-to-99-years.md)

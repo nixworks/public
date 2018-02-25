@@ -25,7 +25,7 @@ _Context: Microsoft, Windows 7, beta version, operating system_
 
 ##### Israel
 ### [ Israel and Hamas ignore the United Nations Security Council's call for a ceasefire in the conflict in the Gaza Strip. ](/news/2009/01/9/israel-and-hamas-ignore-the-united-nations-security-council-s-call-for-a-ceasefire-in-the-conflict-in-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, Israel, United Nations, United Nations Security Council, call, ceasefire, fire_
+_Context: Gaza Strip, Hamas, Israel, Security Council, United Nations, call, ceasefire, fire_
 
 ## [Previous Day...](/news/2009/01/8/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2007/05/13/index.html)  [JSON](2007/05/13/index.json)  [XML](200
 
 ## [2007-05-13](/news/2007/05/13/index.md)
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Prime Minister of Australia John Howard writes to Cricket Australia telling it to call off a tour of Zimbabwe due to concern over human rights abuses in that country. ](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.md)
-_Context: Australian Prime Minister, Cricket Australia, John Howard, Zimbabwe, human rights abuses in that country_
+_Context: Cricket Australia, John Howard, Prime Minister, Zimbabwe, human rights abuses in that country_
 
 ##### President
 ### [ President of Iran Mahmoud Ahmadinejad visits the United Arab Emirates for the first official visit since 1979. ](/news/2007/05/13/president-of-iran-mahmoud-ahmadinejad-visits-the-united-arab-emirates-for-the-first-official-visit-since-1979.md)

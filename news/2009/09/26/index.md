@@ -49,7 +49,7 @@ Police officers and civilians among casualties of car-bomb attacks in Bannu and 
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Barack Obama, Kenya, Mwai Kibaki, President of the United States, president_
+_Context: Barack Obama, Kenya, Mwai Kibaki, U.S. President, president_
 
 ##### Detainees
 ### [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2007/10/14/index.html)  [JSON](2007/10/14/index.json)  [XML](200
 ### [ After 25 centuries, the marbles of the Acropolis of Athens are cautiously moved to the New Acropolis Museum. ](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.md)
 _Context: Acropolis of Athens, New Acropolis Museum_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Australia John Howard asks the Governor-General of Australia Michael Jeffery to dissolve the Parliament of Australia and call an election on 24 November. ](/news/2007/10/14/the-prime-minister-of-australia-john-howard-asks-the-governor-general-of-australia-michael-jeffery-to-dissolve-the-parliament-of-australia.md)
 Prime Minister John Howard has arrived at Government House in Canberra and he is shortly expected to end the speculation about an election date.
 

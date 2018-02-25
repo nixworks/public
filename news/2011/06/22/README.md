@@ -83,7 +83,7 @@ A Vincent van Gogh painting, which had always been believed to be a self-portrai
 ### [U.S. country music singer Glen Campbell is diagnosed with Alzheimer's disease. ](/news/2011/06/22/u-s-country-music-singer-glen-campbell-is-diagnosed-with-alzheimer-s-disease.md)
 _Context: Alzheimer's disease, Glen Campbell_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama announces that 33,000 US troops will be withdrawn from the War in Afghanistan by the northern summer of 2012. ](/news/2011/06/22/the-president-of-the-united-states-barack-obama-announces-that-33-000-us-troops-will-be-withdrawn-from-the-war-in-afghanistan-by-the-norther.md)
 US President Barack Obama has announced he will bring home 33,000 US troops from Afghanistan by the northern summer of 2012. He said the first 10,000 troops would return home by the end of this year.
 

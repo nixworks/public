@@ -29,7 +29,7 @@ Americans in five major states prepared to vote Tuesday in make-or-break preside
 
 ##### Shooting of Michael Brown
 ### [The Ferguson, Missouri, city council, after last month voting to change the terms of the agreement, reverses course and unanimously (6-0) agrees to accept a U.S. Justice Department overhaul of its troubled police force and municipal courts. This avoided a likely expensive legal battle with the federal government which had filed suit against the city following last month's vote. ](/news/2016/03/15/the-ferguson-missouri-city-council-after-last-month-voting-to-change-the-terms-of-the-agreement-reverses-course-and-unanimously-6-0-ag.md)
-_Context: Department of Justice, Ferguson unrest, Ferguson, Missouri, Shooting of Michael Brown, city council, municipal courts, police force_
+_Context: Ferguson unrest, Ferguson, Missouri, Shooting of Michael Brown, U.S. Justice Department, city council, municipal courts, police force_
 
 ##### House of Representatives
 ### [The parliament of the Netherlands passes a resolution calling on the government to stop selling arms to Saudi Arabia, citing ongoing "violations of humanitarian law" in Yemen. ](/news/2016/03/15/the-parliament-of-the-netherlands-passes-a-resolution-calling-on-the-government-to-stop-selling-arms-to-saudi-arabia-citing-ongoing-violat.md)

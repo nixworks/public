@@ -15,9 +15,9 @@ _Context: Barry Bonds, Greg Anderson, USA, baseball, contempt of court, grand ju
 ### [ The Government of the People's Republic of China blocks internet access to Wikipedia in China less than one week after a year-long ban was lifted. ](/news/2006/11/17/the-government-of-the-people-s-republic-of-china-blocks-internet-access-to-wikipedia-in-china-less-than-one-week-after-a-year-long-ban-was.md)
 _Context: Wikipedia in China, government_
 
-##### President of the United States
+##### U.S. President
 ### [ President of the United States George W. Bush and Prime Minister of Australia John Howard discuss Iraq strategy over lunch. The two leaders are attending an Asia-Pacific Economic Cooperation meeting in Hanoi. ](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.md)
-_Context: Asia-Pacific Economic Cooperation, Australian Prime Minister, George W. Bush, Hanoi, Iraq War, John Howard, President of the United States_
+_Context: Asia-Pacific Economic Cooperation, George W. Bush, Hanoi, Iraq War, John Howard, Prime Minister, U.S. President_
 
 ##### Uruguay
 ### [ Former Uruguayan dictator Juan Mara Bordaberry is arrested in connection with the 1976 abduction and assassination of two Congressmen. ](/news/2006/11/17/former-uruguayan-dictator-juan-maria-bordaberry-is-arrested-in-connection-with-the-1976-abduction-and-assassination-of-two-congressmen.md)

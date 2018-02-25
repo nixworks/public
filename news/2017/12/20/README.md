@@ -17,7 +17,7 @@ Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in We
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md)
-_Context: Donald Trump, Obamacare, President of the United States, Tax Cuts and Jobs Act of 2017, U.S., United States House of Representatives, United States Senate_
+_Context: Donald Trump, Obamacare, Tax Cuts and Jobs Act of 2017, U.S., U.S. President, United States House of Representatives, United States Senate_
 
 ##### Cannabis in New Zealand
 ### [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md)

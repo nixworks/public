@@ -11,7 +11,7 @@ _Context: Cleveland Cavaliers, NBA, U.S._
 ### [The largest anti-government demonstration in years occurs in Belgrade, with thousands of disenchanted Serbs travelling to the parliament building from across the country to call for early elections there. An opposition party leader at the event compares it to the uprisings in Tunisia and Egypt. ](/news/2011/02/5/the-largest-anti-government-demonstration-in-years-occurs-in-belgrade-with-thousands-of-disenchanted-serbs-travelling-to-the-parliament-bui.md)
 Belgrade sees its biggest anti-government protest in years as tens of thousands of disenchanted Serbs demand early elections.
 
-##### President of the United States
+##### U.S. President
 ### [Former President of the United States George W. Bush cancels a planned appearance in Switzerland; Human Rights Watch link the cancellation to growing pressure for Bush to be arrested over his approval of waterboarding torture, saying Bush is "avoiding handcuffs". ](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.md)
 Plans for former United States President George Bush to visit Switzerland next week have been abandoned amid calls for his arrest.
 

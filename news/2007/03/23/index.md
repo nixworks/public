@@ -37,11 +37,11 @@ _Context: HMS ''Cornwall'', Iraq, Royal Navy, held captive by Iran_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bush-promises.md)
-_Context: 2008, George W. Bush, President of the United States, United States House of Representatives, bill into law, troop cut, veto_
+_Context: 2008, George W. Bush, U.S. President, United States House of Representatives, bill into law, troop cut, veto_
 
 ##### United States Senate
 ### [ The United States Senate votes 52-47 to approve a budget plan that aims to achieve a balanced budget within five years and aims to find offsets for tax cuts passed in President Bush's first term. ](/news/2007/03/23/the-united-states-senate-votes-52-47-to-approve-a-budget-plan-that-aims-to-achieve-a-balanced-budget-within-five-years-and-aims-to-find-off.md)
-_Context: George W. Bush, President of the United States, United States Senate, balanced budget, budget, first term, tax cuts passed_
+_Context: George W. Bush, U.S. President, United States Senate, balanced budget, budget, first term, tax cuts passed_
 
 ##### Missile hits an Ilyushin airplane
 ### [ A missile hits an Ilyushin airplane assisting the African Union Mission to Somalia as it takes off from Mogadishu, killing up to 11 people. ](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.md)
@@ -49,7 +49,7 @@ _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
-_Context: Mahmoud Ahmadinejad, President, United Nations Security Council, United States government, visa_
+_Context: Mahmoud Ahmadinejad, President, Security Council, United States government, visa_
 
 ##### Taliban
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)

@@ -53,7 +53,7 @@ _Context: Attorney General of California, Hewlett-Packard_
 
 ##### George W. Bush
 ### [ George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. ](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.md)
-_Context: George W. Bush, Iran, Iraq, President of the United States, Syria_
+_Context: George W. Bush, Iran, Iraq, Syria, U.S. President_
 
 ##### NASA
 ### [ NASA delays the launch of the Space Shuttle "Discovery" on STS-116 until Saturday. ](/news/2006/12/7/nasa-delays-the-launch-of-the-space-shuttle-discovery-on-sts-116-until-saturday.md)

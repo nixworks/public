@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/11/index.html)  [JSON](2012/08/11/index.json)  [XML](201
 
 ##### Mitt Romney
 ### [Mitt Romney, the presumptive Republican Party nominee for the United States presidency, names Wisconsin Congressman Paul Ryan as the Republican Party's vice presidential candidate in the presidential election in November. ](/news/2012/08/11/mitt-romney-the-presumptive-republican-party-nominee-for-the-united-states-presidency-names-wisconsin-congressman-paul-ryan-as-the-republi.md)
-_Context: Mitt Romney, Paul Ryan, President of the United States, Republican, United States presidential election, 2012, Wisconsin, presumptive, vice presidential candidate_
+_Context: Mitt Romney, Paul Ryan, Republican, U.S. President, United States presidential election, 2012, Wisconsin, presumptive, vice presidential candidate_
 
 ##### Bangladesh
 ### [At least 13 people are killed and 15 injured as a result of a lightning strike at a mosque in a remote village in northeast Bangladesh. ](/news/2012/08/11/at-least-13-people-are-killed-and-15-injured-as-a-result-of-a-lightning-strike-at-a-mosque-in-a-remote-village-in-northeast-bangladesh.md)

@@ -21,7 +21,7 @@ _Context: Prime Minister of Tonga, Siale'ataonga Tu'ivakano_
 
 ##### Milo Dukanovic
 ### [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md)
-_Context: Milo Dukanovic, Montenegro, Prime Minister_
+_Context: Milo Dukanovic, Montenegrin, Prime Minister_
 
 ##### Tuvalu
 ### [Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. ](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.md)

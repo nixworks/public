@@ -13,7 +13,7 @@ NORTH Korea is continuing to talk tough with the US, this time promising their â
 
 ##### United Express Flight 3411 incident
 ### [United Airlines CEO Oscar Munoz issues an apology for the removal of a passenger from an overbooked flight on April 9, which has since gone viral. United Airlines stock drops more than 4%, a loss of GBP800 million to the company's value. ](/news/2017/04/11/united-airlines-ceo-oscar-munoz-issues-an-apology-for-the-removal-of-a-passenger-from-an-overbooked-flight-on-april-9-which-has-since-gone.md)
-_Context: Oscar Munoz, United Airlines, United Express Flight 3411 incident_
+_Context: Oscar Munoz, United, United Express Flight 3411 incident_
 
 ##### Borussia Dortmund team bus bombing
 ### [Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner-spanish-player-marc-bartra-was-injur.md)

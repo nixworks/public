@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/26/index.html)  [JSON](2018/01/26/index.json)  [XML](201
 
 ##### Political appointments by Donald Trump
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, President of the United States, U.S. Geological Survey_
+_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
 
 ##### Cryptocurrency and security
 ### [Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. ](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryptocurrency-from-japanese-exchange-coincheck.md)

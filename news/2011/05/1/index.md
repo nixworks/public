@@ -99,7 +99,7 @@ Pro-Gaddaffi forces have been seen roaming the streets of Misurata wearing gas m
 ### [Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/citizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by-government-soldiers.md)
 Syrian soldiers and tanks have been firing in the city of Deraa, a centre of anti-government protests, residents say.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama announces in a special TV broadcast that Osama bin Laden, the founder and leader of the militant Islamist group Al-Qaeda and the most-wanted fugitive on the FBI's Ten Most Wanted Fugitives, was killed on May 2 (Pakistan Standard Time) during an American military operation in Abbottabad, near Islamabad, Pakistan and that his body is in U.S. custody. ](/news/2011/05/1/president-of-the-united-states-barack-obama-announces-in-a-special-tv-broadcast-that-osama-bin-laden-the-founder-and-leader-of-the-militant.md)
 Al-Qaeda mastermind Osama Bin Laden has been killed in a US operation in Pakistan, President Barack Obama has announced.
 

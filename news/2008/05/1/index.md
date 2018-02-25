@@ -31,15 +31,15 @@ The state funeral of former President Sir Anthony Mamo will be held tomorrow, th
 ### [ News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. ](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.md)
 _Context: Barbara Walters, Edward Brooke_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: $, 2007-2008 world food price crisis, Congress, George W. Bush, President of the United States, food aid_
+_Context: $, 2007-2008 world food price crisis, Congress, George W. Bush, U.S. President, food aid_
 
 ##### U.S.
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
 _Context: $, Federal Reserve System, Treasury securities, U.S., auction, subprime mortgage crisis_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush authorises tougher sanctions on Myanmar including a freeze on assets held by Myanmar state owned companies held in the United States. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-authorises-tougher-sanctions-on-myanmar-including-a-freeze-on-assets-held-by-myanmar-stat.md)
 U.S. President George W. Bush on Thursday said a vote in Myanmar this month would not be &quot;free, fair or credible&quot; and imposed new sanctions on state-owned companies to put pressure on the military junta.
 

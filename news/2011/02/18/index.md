@@ -47,9 +47,9 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods-u.md)
 Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, days after being charged with having sex with an under-age prostitute.
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama is announced to visit Brazil, Chile and El Salvador from March 19 to 23. ](/news/2011/02/18/president-of-the-united-states-barack-obama-is-announced-to-visit-brazil-chile-and-el-salvador-from-march-19-to-23.md)
-_Context: Barack Obama, Brazil, Chile, El Salvador, President of the United States_
+_Context: Barack Obama, Brazil, Chile, El Salvador, U.S. President_
 
 ##### Japan
 ### [Japan officially suspends its whaling program for the season due to interference by the Sea Shepherd conservation organisation. ](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.md)

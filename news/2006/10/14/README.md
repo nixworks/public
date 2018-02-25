@@ -11,9 +11,9 @@ _Context: Cabinet of Fredrik Reinfeldt, Maria Borelius, Sweden_
 ### [ A re-enactment of the Battle of Hastings takes place in Sussex, UK to mark the 940th anniversary of the event which saw William of Normandy's forces defeat the Saxon army of King Harold II, and began the Norman conquest of England. ](/news/2006/10/14/a-re-enactment-of-the-battle-of-hastings-takes-place-in-sussex-uk-to-mark-the-940th-anniversary-of-the-event-which-saw-william-of-normandy.md)
 _Context: Anglo-Saxon, Battle of Hastings, England, King Harold II, Norman conquest, Normandy, Sussex, UK, William_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council adopts Resolution 1718, imposing sanctions on North Korea in response to its recent nuclear test. ](/news/2006/10/14/the-united-nations-security-council-adopts-resolution-1718-imposing-sanctions-on-north-korea-in-response-to-its-recent-nuclear-test.md)
-_Context: 2006, North Korea, Resolution 1718, United Nations Security Council_
+_Context: 2006, North Korea, Resolution 1718, Security Council_
 
 ##### India
 ### [ Thousands of people have been attending mass ceremonies in India at which hundreds of low-caste Hindus (Dalits) converted to Buddhism and Christianity. ](/news/2006/10/14/thousands-of-people-have-been-attending-mass-ceremonies-in-india-at-which-hundreds-of-low-caste-hindus-dalits-converted-to-buddhism-and-c.md)

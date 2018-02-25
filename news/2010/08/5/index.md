@@ -31,7 +31,7 @@ Hip hop star Wyclef Jean formally registers to stand for president of his native
 ### [The Ivorian presidential election, 2010 is set for 31 October. ](/news/2010/08/5/the-ivorian-presidential-election-2010-is-set-for-31-october.md)
 The date for long-delayed presidential elections in Ivory Coast is set, in a move seen as a vital step to ending the political crisis.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Former Prime Minister of Australia Kevin Rudd joins Julia Gillard's election campaign while recovering from gallbladder surgery by attacking the opposition leader Tony Abbott. ](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.md)
 Former Australian Prime Minister Kevin Rudd backs Julia Gillard - the woman who ousted him - in a show of party unity ahead of a general election.
 

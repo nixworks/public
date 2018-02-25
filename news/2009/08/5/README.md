@@ -81,7 +81,7 @@ _Context: Madagascar, Marc Ravalomanana_
 
 ##### U.S.
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President of the United States, U.S., detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S., U.S. President, detained_
 
 ##### Nile
 ### [ 11 men drown when a boat sinks on the Nile near Khartoum, Sudan. ](/news/2009/08/5/11-men-drown-when-a-boat-sinks-on-the-nile-near-khartoum-sudan.md)

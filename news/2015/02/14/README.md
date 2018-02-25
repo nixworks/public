@@ -15,9 +15,9 @@ _Context: Philippines, his predecessor, journalist_
 ### [Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. ](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.md)
 _Context: Hissene Habre, President of Chad, Senegal_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
-_Context: Andrew Chan, Australian Prime Minister, Bali Nine, Indonesia, Myuran Sukumaran, Tony Abbott, sentenced to death_
+_Context: Andrew Chan, Bali Nine, Indonesia, Myuran Sukumaran, Prime Minister, Tony Abbott, sentenced to death_
 
 ##### Yemeni Crisis (2011-present)
 ### [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md)

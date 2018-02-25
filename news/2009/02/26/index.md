@@ -77,7 +77,7 @@ _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty,
 
 ##### U.S.
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq, Iraq War, President of the United States, U.S., United States military personnel_
+_Context: Barack Obama, Iraq, Iraq War, U.S., U.S. President, United States military personnel_
 
 ## [Previous Day...](/news/2009/02/25/index.md)
 

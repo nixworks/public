@@ -7,9 +7,9 @@ Formats: [HTML](2010/08/15/index.html)  [JSON](2010/08/15/index.json)  [XML](201
 ### [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md)
 _Context: Cabinet of Japan, Japan, Japan's surrender in World War II, Naoto Kan, Prime Minister of Japan, Yasukuni Shrine_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Prime Minister of Australia Julia Gillard defends her controversial plan to establish a citizens assembly of 150 randomly-selected Australians who would consider climate change. ](/news/2010/08/15/prime-minister-of-australia-julia-gillard-defends-her-controversial-plan-to-establish-a-citizens-assembly-of-150-randomly-selected-australia.md)
-_Context: Australian Prime Minister, Julia Gillard, climate change_
+_Context: Julia Gillard, Prime Minister, climate change_
 
 ##### Independent Democrats
 ### [The Independent Democrats and Democratic Alliance opposition parties in South Africa agree to merge against the ruling African National Congress. ](/news/2010/08/15/the-independent-democrats-and-democratic-alliance-opposition-parties-in-south-africa-agree-to-merge-against-the-ruling-african-national-cong.md)

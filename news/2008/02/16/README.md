@@ -11,9 +11,9 @@ _Context: Accokeek, Maryland, street racing_
 ### [ United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. ](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.md)
 _Context: 2008, John McCain, Louisiana, Mich., Mitt Romney, Republican, primary election_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Benin on the first leg of a five-nation African tour. ](/news/2008/02/16/the-president-of-the-united-states-george-w-bush-arrives-in-benin-on-the-first-leg-of-a-five-nation-african-tour.md)
-_Context: Africa, Benin, George W. Bush, President of the United States_
+_Context: Africa, Benin, George W. Bush, U.S. President_
 
 ##### Harvard University
 ### [ A student dies of unknown causes while competing at the Harvard National Speech and Debate Tournament. ](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.md)

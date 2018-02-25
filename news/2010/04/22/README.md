@@ -19,9 +19,9 @@ _Context: Muhammad, New York City, South Park, fatwa_
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Barack Obama, Manhattan, President of the United States, Wall Street_
+_Context: Barack Obama, Manhattan, U.S. President, Wall Street_
 
 ##### India
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)

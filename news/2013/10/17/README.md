@@ -19,7 +19,7 @@ Fire services have issued several emergency warnings in NSW as serious fires bur
 ### [The death toll in the Philippines from the 2013 Bohol earthquake rises to 156 with 374 people injured. ](/news/2013/10/17/the-death-toll-in-the-philippines-from-the-2013-bohol-earthquake-rises-to-156-with-374-people-injured.md)
 _Context: 2013 Bohol earthquake, Philippines_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama signs a bipartisan deal approved by Congress to end the Government shutdown and the debt ceiling crisis. ](/news/2013/10/17/president-of-the-united-states-barack-obama-signs-a-bipartisan-deal-approved-by-congress-to-end-the-government-shutdown-and-the-debt-ceiling.md)
 President Obama signed a deal to reopen the government and raise the debt ceiling on Thursday morning.
 

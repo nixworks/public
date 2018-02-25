@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/17/index.html)  [JSON](2009/03/17/index.json)  [XML](200
 
 ##### U.S.
 ### [ United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robinson-and-deputy-first-mi.md)
-_Context: Barack Obama, Brian Cowen, Irish, Martin McGuinness, Northern Ireland, Peter Robinson, President of the United States, Taoiseach, U.S., White House, deputy First Minister of Northern Ireland_
+_Context: Barack Obama, Brian Cowen, Irish, Martin McGuinness, Northern Ireland, Peter Robinson, Taoiseach, U.S., U.S. President, White House, deputy First Minister of Northern Ireland_
 
 ##### Collision
 ### [ At least 11 people are killed and four injured in an bus accident outside Saltillo, Coahuila, Mexico. ](/news/2009/03/17/at-least-11-people-are-killed-and-four-injured-in-an-bus-accident-outside-saltillo-coahuila-mexico.md)

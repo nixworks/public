@@ -17,7 +17,7 @@ _Context: Eshaq Jahangiri, First Vice President, Mayor of Tehran, Mohammad-Baghe
 
 ##### Legal affairs of Donald Trump
 ### [U.S. President Donald Trump's lawyers tell a federal court, in a case alleging negligence and incitement to riot during a 2016 campaign rally in Louisville, Kentucky, that he is "immune from suit because he is President of the United States." A lawyer for the plaintiffs responds that, in "Clinton v. Jones", the Supreme Court found the president could be sued for events that occurred before he took office. ](/news/2017/04/15/u-s-president-donald-trump-s-lawyers-tell-a-federal-court-in-a-case-alleging-negligence-and-incitement-to-riot-during-a-2016-campaign-rall.md)
-_Context: 2016 campaign rally, Clinton v. Jones, Donald Trump, Legal affairs of Donald Trump, Louisville, Kentucky, President of the United States, Supreme Court of the United States, case, incitement to riot, negligence_
+_Context: 2016 campaign rally, Clinton v. Jones, Donald Trump, Legal affairs of Donald Trump, Louisville, Kentucky, Supreme Court of the United States, U.S. President, case, incitement to riot, negligence_
 
 ##### 2017 Iran's North West floods
 ### [Flash flooding caused by torrential rain leaves at least 17 people dead and 20 others missing in northwestern Iran, according to state television. ](/news/2017/04/15/flash-flooding-caused-by-torrential-rain-leaves-at-least-17-people-dead-and-20-others-missing-in-northwestern-iran-according-to-state-telev.md)

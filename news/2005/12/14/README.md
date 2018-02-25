@@ -27,9 +27,9 @@ _Context: $, International Monetary Fund, Luiz Inacio Lula da Silva, president_
 ### [ Doctors in Pakistan marvel at the survival of Naqsha Bibi, rescued last Saturday, 63 days after she was buried in the 8 October 2005 Kashmir earthquake. ](/news/2005/12/14/doctors-in-pakistan-marvel-at-the-survival-of-naqsha-bibi-rescued-last-saturday-63-days-after-she-was-buried-in-the-8-october-2005-kashmi.md)
 _Context: 2005 Kashmir earthquake, 8 October, Naqsha Bibi, Pakistan_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush says that the decision to invade Iraq in 2003 was the result of faulty intelligence, and accepts responsibility for that decision. He maintains that his decision was still justified. ](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.md)
-_Context: George W. Bush, Iraq, President of the United States, intelligence_
+_Context: George W. Bush, Iraq, U.S. President, intelligence_
 
 ##### Cannon House Office Building
 ### [ U.S. Budget Approval -- More than 100 religious activists were arrested on Wednesday after they staged a peaceful sit-in at the Cannon House Office Building, near the U.S. Capitol building in Washington, D.C. They were protesting the proposed cuts to health care and other social welfare programs in the Federal Budget. The protest was organized by Jim Wallis, editor of the liberal Christian journal Sojourners Magazine ](/news/2005/12/14/u-s-budget-approval-a-more-than-100-religious-activists-were-arrested-on-wednesday-after-they-staged-a-peaceful-sit-in-at-the-cannon-hou.md)

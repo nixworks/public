@@ -17,7 +17,7 @@ Follow live updates from the second night of the DNC with Bill Clinton speaking 
 ### [The President of South Sudan, Salva Kiir, removes Riek Machar from his post as deputy leader and as vice president, and installs Taban Deng Gai in his place. ](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.md)
 _Context: President of South Sudan, Riek Machar, Salva Kiir, Taban Deng Gai, vice president_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Malcolm Turnbull announces that a Royal Commission will be held into the Northern Territory youth justice system after the Australian Broadcasting Commission's Four Corners program shows footage of juvenile Aboriginal Australians being tortured at the Don Dale Juvenile Detention Centre. John Elferink has been sacked as the Northern Territory's Minister for Justice and Corrections following the report. ](/news/2016/07/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-a-royal-commission-will-be-held-into-the-northern-territory-youth-justice-sy.md)
 John Elferink is sacked as NT Corrections Minister in the wake of the damning Four Corners report.
 

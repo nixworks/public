@@ -23,7 +23,7 @@ _Context: Prime Minister, Tony Blair_
 ### [ Same-sex marriage in the United States: The proposed Federal Marriage Amendment (HJR 106) is rejected by the United States House of Representatives by a vote of 227&ndash;186. ](/news/2004/09/30/same-sex-marriage-in-the-united-states-the-proposed-federal-marriage-amendment-hjr-106-is-rejected-by-the-united-states-house-of-represe.md)
 _Context: Same-sex marriage in the United States, United States House of Representatives, constitutional amendment to ban_
 
-##### President of the United States
+##### U.S. President
 ### [ Incumbent president George W. Bush and challenger Senator John F. Kerry meet at the University of Miami, Florida, in the first of three presidential debates in the run-up to the 2004 U.S. presidential election. Nielsen Media Research later reports 62.5 million people watched the debate. (Transcript) ](/news/2004/09/30/incumbent-president-george-w-bush-and-challenger-senator-john-f-kerry-meet-at-the-university-of-miami-florida-in-the-first-of-three-pre.md)
 John Kerry assailed the war in Iraq in the first presidential debate Thursday night, accusing President Bush of &#8220;a colossal error of judgment&#8221; as the candidates finally faced each other for the first time.
 

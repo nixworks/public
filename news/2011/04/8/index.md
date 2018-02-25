@@ -47,9 +47,9 @@ Playing online games to gather gear and cash for sale to Western players could a
 ### [Wayne Swan, the Treasurer of Australia, formally rejects an offer by the Singapore Exchange for the Australian Stock Exchange following advice from the Foreign Investment Review Board. ](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.md)
 _Context: Australian Stock Exchange, Singapore Exchange, Treasurer of Australia, Wayne Swan_
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
-_Context: Department of Justice, Twitter, WikiLeaks, freedom of speech_
+_Context: Twitter, U.S. Justice Department, WikiLeaks, freedom of speech_
 
 ##### European Union
 ### [The European Union aims to complete Portugal's bailout of approximately EUR80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-a-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)

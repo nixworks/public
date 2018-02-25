@@ -17,7 +17,7 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 
 ##### Chinese
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: Chinese, North Korea, United Nations Security Council_
+_Context: Chinese, North Korea, Security Council_
 
 ##### Uyo church collapse
 ### [At least 60 are killed in a collapse of a church in Uyo, Nigeria. ](/news/2016/12/10/at-least-60-are-killed-in-a-collapse-of-a-church-in-uyo-nigeria.md)

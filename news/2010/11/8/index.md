@@ -11,9 +11,9 @@ _Context: Chang`e-2, China, Sinus Iridum, Wen Jiabao, moon_
 ### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as "Leiolepis ngovantrii" when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Australian Prime Minister Julia Gillard announces a referendum to decide whether indigenous Australians should be recognised in the Constitution. ](/news/2010/11/8/australian-prime-minister-julia-gillard-announces-a-referendum-to-decide-whether-indigenous-australians-should-be-recognised-in-the-constitu.md)
-_Context: Australian Prime Minister, Constitution, Julia Gillard, indigenous Australians, referendum_
+_Context: Constitution, Julia Gillard, Prime Minister, indigenous Australians, referendum_
 
 ##### ECOWAS
 ### [An ECOWAS regional court in West Africa orders authorities in Niger to release deposed President Mamadou Tandja who was detained in a coup in February. ](/news/2010/11/8/an-ecowas-regional-court-in-west-africa-orders-authorities-in-niger-to-release-deposed-president-mamadou-tandja-who-was-detained-in-a-coup-i.md)
@@ -55,9 +55,9 @@ Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama administration, Somalia, Yemen bomb attacks_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, President of the United States, UN Security Council_
+_Context: Barack Obama, U.S. President, UN Security Council_
 
 ##### Kimberley Process
 ### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md)

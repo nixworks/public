@@ -53,7 +53,7 @@ _Context: Hawaii, North Korea, U.S., U.S. state, launch_
 
 ##### Kenneth Lay
 ### [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md)
-_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, President of the United States, Trial of Kenneth Lay and Jeffrey Skilling, U.S._
+_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S., U.S. President_
 
 ## [Previous Day...](/news/2006/07/5/index.md)
 

@@ -13,7 +13,7 @@ _Context: European Union, The Hague, Ukrainian presidential election controversy
 
 ##### Iran's nuclear program
 ### [ Iran's nuclear program: Just three days after an agreement with the European Union took effect, Iran prevents the International Atomic Energy Agency (IAEA) from sealing centrifuges at the Natanz enrichment facility. The IAEA begins its meeting to decide whether or not to refer the matter to the United Nations Security Council. ](/news/2004/11/25/iran-s-nuclear-program-just-three-days-after-an-agreement-with-the-european-union-took-effect-iran-prevents-the-international-atomic-ener.md)
-_Context: European Union, IAEA, Iran, Iran's nuclear program, Natanz, United Nations Security Council, centrifuge_
+_Context: European Union, IAEA, Iran, Iran's nuclear program, Natanz, Security Council, centrifuge_
 
 ##### Ukraine
 ### [ The Ukrainian Supreme Court bars publication of the presidential election results, delaying inauguration, and decides to examine a complaint alleging fraud on November 28. ](/news/2004/11/25/the-ukrainian-supreme-court-bars-publication-of-the-presidential-election-results-delaying-inauguration-and-decides-to-examine-a-complain.md)

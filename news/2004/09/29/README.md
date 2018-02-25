@@ -25,7 +25,7 @@ _Context: Ansari X Prize, Scaled Composites SpaceShipOne, first competitive flig
 
 ##### 2004 U.S. presidential candidate
 ### [ U.S. presidential campaign: Former Republican President Dwight Eisenhower's son John Eisenhower endorses Democrat John Kerry's presidential bid. ](/news/2004/09/29/u-s-presidential-campaign-former-republican-president-dwight-eisenhower-s-son-john-eisenhower-endorses-democrat-john-kerry-s-presidential.md)
-_Context: 2004 U.S. presidential candidate, Democratic, Dwight Eisenhower, John Eisenhower, John Kerry, President of the United States, Republican_
+_Context: 2004 U.S. presidential candidate, Democratic, Dwight Eisenhower, John Eisenhower, John Kerry, Republican, U.S. President_
 
 ##### North Korea
 ### [ Forty-three North Koreans, reportedly seeking asylum, use MFI ladders to scale the walls of the Canadian Embassy in Beijing, China. ](/news/2004/09/29/forty-three-north-koreans-reportedly-seeking-asylum-use-mfi-ladders-to-scale-the-walls-of-the-canadian-embassy-in-beijing-china.md)

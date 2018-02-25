@@ -11,7 +11,7 @@ _Context: Houthi insurgency in Yemen, Yemen, parliament_
 ### [Xanana Gusmo resigns as the Prime Minister of East Timor ahead of an expected government restructure next week. ](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.md)
 _Context: Prime Minister of East Timor, Xanana Gusmo_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Tony Abbott faces a possible leadership vote when the Parliament of Australia resumes sitting after backbencher Luke Simpkins announces that he will move a motion calling for a leadership spill. ](/news/2015/02/6/the-prime-minister-of-australia-tony-abbott-faces-a-possible-leadership-vote-when-the-parliament-of-australia-resumes-sitting-after-backbenc.md)
 Embattled Australian Prime Minister Tony Abbott said he will fight a challenge to his leadership at a party-room meeting next week after disgruntled government lawmakers on Friday sought to oust him following weeks of divisive speculation.
 

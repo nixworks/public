@@ -91,9 +91,9 @@ Poet Seamus Heaney is named the winner of the prestigious Forward Prize, which c
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
 _Context: Pusan, Pusan International Film Festival, South Korea_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Barack Obama, Medal of Honor, President of the United States, Robert James Miller, Special Forces, War in Afghanistan (2001-present)_
+_Context: Barack Obama, Medal of Honor, Robert James Miller, Special Forces, U.S. President, War in Afghanistan (2001-present)_
 
 ##### United Kingdom
 ### [A British embassy car is attacked in Sanaa, the capital of Yemen with three people injured . ](/news/2010/10/6/a-british-embassy-car-is-attacked-in-sanaa-the-capital-of-yemen-with-three-people-injured.md)

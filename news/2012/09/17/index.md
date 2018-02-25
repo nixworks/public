@@ -97,7 +97,7 @@ The protest in Libya that killed U.S. Ambassador Chris Stevens and three other A
 
 ##### Syrian Civil War
 ### [Syrian Civil War: Human rights investigators from the United Nations expand a secret list of people in Syria suspected of committing war crimes. Diplomat Paulo Srgio Pinheiro urges the U.N. Security Council to bring the situation to the International Criminal Court. ](/news/2012/09/17/syrian-civil-war-human-rights-investigators-from-the-united-nations-expand-a-secret-list-of-people-in-syria-suspected-of-committing-war-cri.md)
-_Context: ICC, Paulo Srgio Pinheiro, Syria, Syrian Civil War, United Nations, United Nations Security Council, committing war crimes, suspected_
+_Context: ICC, Paulo Srgio Pinheiro, Security Council, Syria, Syrian Civil War, United Nations, committing war crimes, suspected_
 
 ## [Previous Day...](/news/2012/09/16/index.md)
 

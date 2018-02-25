@@ -11,7 +11,7 @@ Thousands of opposition protesters in Belarus try to storm the main government b
 ### [Chinese Premier Wen Jiabao addresses a special joint session of Parliament in Islamabad, praising Pakistan for its efforts in combating terrorism. ](/news/2010/12/19/chinese-premier-wen-jiabao-addresses-a-special-joint-session-of-parliament-in-islamabad-praising-pakistan-for-its-efforts-in-combating-terr.md)
 Prime Minister Wen Jiabao lavishly praised Pakistan’s efforts to combat terrorism and promised to further economic cooperation between the two countries.
 
-##### United Nations Security Council
+##### Security Council
 ### [A United Nations Security Council meeting regarding the situation in the Korean Peninsula ends without agreement. ](/news/2010/12/19/a-united-nations-security-council-meeting-regarding-the-situation-in-the-korean-peninsula-ends-without-agreement.md)
 The U.N. Security Council met in emergency session on Sunday to try to cool tensions on the Korean Peninsula, but the five big powers were split on whether to publicly blame North Korea for the crisis.
 

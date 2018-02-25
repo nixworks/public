@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/1/president-of-the-united-states-barack-obama-anno
 
 ### [2011-05-1](/news/2011/05/1/index.md)
 
-##### President of the United States
+##### U.S. President
 # President of the United States Barack Obama announces in a special TV broadcast that Osama bin Laden, the founder and leader of the militant Islamist group Al-Qaeda and the most-wanted fugitive on the FBI's Ten Most Wanted Fugitives, was killed on May 2 (Pakistan Standard Time) during an American military operation in Abbottabad, near Islamabad, Pakistan and that his body is in U.S. custody. 
 
 Al-Qaeda mastermind Osama Bin Laden has been killed in a US operation in Pakistan, President Barack Obama has announced.
@@ -34,8 +34,8 @@ Al-Qaeda mastermind Osama Bin Laden has been killed in a US operation in Pakista
 
 ### Related:
 
-1. [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md) _Context: Barack Obama, Osama bin Laden, Pakistan, President of the United States_
-2. [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http:--news.bbc.co.uk-2-hi-south_asia-8081828.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-middle_east-article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md) _Context: Barack Obama, Osama bin Laden, President of the United States, al-Qaeda_
+1. [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md) _Context: Barack Obama, Osama bin Laden, Pakistan, U.S. President_
+2. [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http:--news.bbc.co.uk-2-hi-south_asia-8081828.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-middle_east-article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md) _Context: Barack Obama, Osama bin Laden, U.S. President, al-Qaeda_
 3. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Osama bin Laden, Pakistan, al-Qaeda_
 4. [Pakistan jails a doctor who helped the US Central Intelligence Agency confirm that Osama bin Laden was living in Abbottabad. ](/news/2011/07/11/pakistan-jails-a-doctor-who-helped-the-us-central-intelligence-agency-confirm-that-osama-bin-laden-was-living-in-abbottabad.md) _Context: Abbottabad, Osama bin Laden, Pakistan_
-5. [The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden-at-fort-campbell-and-award.md) _Context: Barack Obama, Osama bin Laden, President of the United States_
+5. [The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden-at-fort-campbell-and-award.md) _Context: Barack Obama, Osama bin Laden, U.S. President_

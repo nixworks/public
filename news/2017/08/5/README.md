@@ -25,7 +25,7 @@ _Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive 
 
 ##### North Korea and the United Nations
 ### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
-_Context: 2017 North Korean missile tests, North Korea, North Korea and the United Nations, North Korea's nuclear program, United Nations Security Council, United Nations Security Council Resolution 2371_
+_Context: 2017 North Korean missile tests, North Korea, North Korea and the United Nations, North Korea's nuclear program, Security Council, United Nations Security Council Resolution 2371_
 
 ##### 2017 V-22 Osprey crash
 ### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)

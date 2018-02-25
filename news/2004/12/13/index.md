@@ -21,7 +21,7 @@ _Context: Baghdad, Green Zone, Iraq, United States armed forces, car bomb_
 
 ##### Environmental Protection Agency
 ### [ United States Environmental Protection Agency Administrator Michael O. Leavitt is nominated by President George W. Bush to succeed outgoing Secretary of Health and Human Services Tommy Thompson in the Cabinet-level post. ](/news/2004/12/13/united-states-environmental-protection-agency-administrator-michael-o-leavitt-is-nominated-by-president-george-w-bush-to-succeed-outgoing.md)
-_Context: Administrator of the Environmental Protection Agency, Cabinet, Environmental Protection Agency, George W. Bush, Michael O. Leavitt, President of the United States, Secretary of Health and Human Services, Tommy Thompson_
+_Context: Administrator of the Environmental Protection Agency, Cabinet, Environmental Protection Agency, George W. Bush, Michael O. Leavitt, Secretary of Health and Human Services, Tommy Thompson, U.S. President_
 
 ##### United States Constitution
 ### [ As required by the United States Constitution, members of the Electoral College meet in all 50 state capitols and the District of Columbia to cast their electoral votes, including an unexpected single vote for John Edwards by an elector in Minnesota. ](/news/2004/12/13/as-required-by-the-united-states-constitution-members-of-the-electoral-college-meet-in-all-50-state-capitols-and-the-district-of-columbia.md)

@@ -11,7 +11,7 @@ _Context: 2002, Sierra Leone, civil war, run-off election_
 ### [ United States presidential candidate Mitt Romney wins the Republican Party's Ames Straw Poll in Ames, Iowa. ](/news/2007/08/11/united-states-presidential-candidate-mitt-romney-wins-the-republican-party-s-ames-straw-poll-in-ames-iowa.md)
 _Context: Ames, Ames Straw Poll, Mitt Romney, Republican, United States presidential candidate_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush hosts the President of France Nicolas Sarkozy at a casual lunch at the Bush family home in Maine. ](/news/2007/08/11/the-president-of-the-united-states-george-w-bush-hosts-the-president-of-france-nicolas-sarkozy-at-a-casual-lunch-at-the-bush-family-home-i.md)
 President George W. Bush and French President Nicolas Sarkozy on Saturday stressed friendship over disagreement at a lunch of hamburgers and hot dogs at the Bush family estate aimed at improving relations strained by the Iraq war.
 

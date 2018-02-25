@@ -7,9 +7,9 @@ Formats: [HTML](2011/07/10/index.html)  [JSON](2011/07/10/index.json)  [XML](201
 ### [Pro-Palestinian activists begin a week of protests on the West Bank. ](/news/2011/07/10/pro-palestinian-activists-begin-a-week-of-protests-on-the-west-bank.md)
 Foreign activists to take a stand in support of Palestinian statehood in second phase of the &quot;Welcome to Palestine&quot; campaign.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces the details of a plan to introduce a carbon tax. ](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.md)
-_Context: Australian Prime Minister, Julia Gillard, carbon tax_
+_Context: Julia Gillard, Prime Minister, carbon tax_
 
 ##### Tumaco
 ### [Twenty prisoners escape from a jail in the town of Tumaco in Colombia's Narino Department with three people recaptured. ](/news/2011/07/10/twenty-prisoners-escape-from-a-jail-in-the-town-of-tumaco-in-colombia-s-naria-o-department-with-three-people-recaptured.md)

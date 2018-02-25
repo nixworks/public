@@ -16,7 +16,7 @@ Formats: [HTML](/news/2009/04/9/algeria-s-presidential-election-takes-place.html
 
 ### Changes:
 
-1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2018-02-22 03:40:06 (First version)_
+1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2018-02-24 03:43:52 (First version)_
 1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _(Current version)_
 
 ### Related:

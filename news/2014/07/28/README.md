@@ -23,7 +23,7 @@ An international arbitration court ruled on Monday that Russia must pay $50 bill
 ### [American discount store chain Dollar Tree reaches an $8.5 billion deal to buy out rival Family Dollar. ](/news/2014/07/28/american-discount-store-chain-dollar-tree-reaches-an-8-5-billion-deal-to-buy-out-rival-family-dollar.md)
 _Context: Dollar Tree, Family Dollar, discount store_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/the-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md)
 Reporters are bullied, have equipment confiscated, barred from sensitive sites&#8230; but they don&#8217;t report it. &#8216;They&#8217;re too scared,&#8217; says Israeli official, lamenting capitulation to harassment
 

@@ -23,9 +23,9 @@ _Context: Indonesia, Mount Sinabung_
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
 _Context: Saudi-led intervention in Yemen, Yemen_
 
-##### President of the United States
+##### U.S. President
 ### [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md)
-_Context: Barack Obama, Iraq, President of the United States, Sunni Muslim_
+_Context: Barack Obama, Iraq, Sunni Muslim, U.S. President_
 
 ##### Suicide bomber
 ### [A suicide bomber targets the Karnak temple site in the ancient Egyptian city of Luxor. Two militants were shot nearby, four Egyptians were wounded with no tourists hurt in the attack. ](/news/2015/06/10/a-suicide-bomber-targets-the-karnak-temple-site-in-the-ancient-egyptian-city-of-luxor-two-militants-were-shot-nearby-four-egyptians-were-w.md)

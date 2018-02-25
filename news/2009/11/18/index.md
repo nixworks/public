@@ -23,9 +23,9 @@ _Context: Tay Ninh Province, Vietnam War_
 ### [ According to the 2009 Corruption Perceptions Index, Somalia is the most corrupt of 180 countries surveyed, and New Zealand is the least corrupt. ](/news/2009/11/18/according-to-the-2009-corruption-perceptions-index-somalia-is-the-most-corrupt-of-180-countries-surveyed-and-new-zealand-is-the-least-cor.md)
 _Context: Corruption Perceptions Index, Somalia_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Prime Minister of Australia Kevin Rudd announces that he will consider a probe of the Church of Scientology in Australia after an attack on the organization by independent parliamentarian Nick Xenophon. ](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.md)
-_Context: Australian Prime Minister, Church of Scientology, Kevin Rudd, Nick Xenophon_
+_Context: Church of Scientology, Kevin Rudd, Nick Xenophon, Prime Minister_
 
 ##### Iraq
 ### [ Iraqi Vice President Tariq al-Hashimi vetos part of the country's new election law, putting the scheduled January 2010 elections in doubt. ](/news/2009/11/18/iraqi-vice-president-tariq-al-hashimi-vetos-part-of-the-country-s-new-election-law-putting-the-scheduled-january-2010-elections-in-doubt.md)

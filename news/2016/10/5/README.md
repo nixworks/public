@@ -19,7 +19,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 ### [Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding U.S. citizens from a fake call center. ](/news/2016/10/5/police-in-the-western-indian-city-of-thane-arrest-more-than-750-people-suspected-of-defrauding-u-s-citizens-from-a-fake-call-center.md)
 Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding US citizens via a fake call centre.
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md)
 A National Security Agency contractor is accused of stealing top secret files that could have caused &quot;exceptionally grave damage to national security&quot;.
 
@@ -41,7 +41,7 @@ A global agreement to combat climate change will take force after support from E
 
 ##### United Nations Secretary-General selection, 2016
 ### [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md)
-_Context: Antonio Guterres, General Assembly, Portuguese, United Nations Secretary-General, United Nations Secretary-General selection, 2016, United Nations Security Council_
+_Context: Antonio Guterres, General Assembly, Portuguese, Security Council, United Nations Secretary-General, United Nations Secretary-General selection, 2016_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km-h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md)

@@ -35,7 +35,7 @@ _Context: Bosnia and Herzegovina, Bosnian War_
 ### [The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md)
 _Context: Foreign Minister, Koichiro Gemba_
 
-##### President of the United States
+##### U.S. President
 ### [U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-libya-and-three-other-u-s-citizens.md)
 &quot;We are shocked that ... Governor Romney would choose to launch a political attack.&quot;
 

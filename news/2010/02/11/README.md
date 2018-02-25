@@ -13,7 +13,7 @@ _Context: Haiti, U.S._
 
 ##### U.S.
 ### [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md)
-_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, President of the United States, U.S., coronary stent_
+_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, U.S., U.S. President, coronary stent_
 
 ##### Sergey Aleynikov
 ### [Sergey Aleynikov, a former computer programmer for Goldman Sachs, is indicted for three counts by a U.S. federal court in Manhattan for theft of trade secrets, transportation of stolen property in interstate and foreign commerce, and unauthorized computer access. ](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.md)

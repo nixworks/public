@@ -73,7 +73,7 @@ Iraqi officials would not discuss the specific charges against Raghad Saddam Hus
 
 ##### French
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
-_Context: French, Lebanese, United Nations, United Nations Security Council_
+_Context: French, Lebanese, Security Council, United Nations_
 
 ##### Taliban
 ### [ A dozen Taliban die in an attempted ambush of a joint patrol of Afghan police and Coalition troops in Helmand province. ](/news/2007/08/17/a-dozen-taliban-die-in-an-attempted-ambush-of-a-joint-patrol-of-afghan-police-and-coalition-troops-in-helmand-province.md)

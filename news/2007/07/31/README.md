@@ -35,9 +35,9 @@ The row between Australia and New Zealand over apple imports is heading to the W
 ### [ The United States House of Representatives passes a the Honest Leadership and Open Government Act, a comprehensive ethics and lobbying reform bill 411-8. It bans lobbyists and their clients from giving members of the United States Congress gifts and provides for mandatory disclosure of earmarks in expenditure bills. ](/news/2007/07/31/the-united-states-house-of-representatives-passes-a-the-honest-leadership-and-open-government-act-a-comprehensive-ethics-and-lobbying-refo.md)
 The House overwhelmingly passed a comprehensive ethics and lobbying reform bill Tuesday, accepting tough rules offered by Democratic leaders to crack down on travel, gift-giving, campaign contributions and earmarks.
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md)
-_Context: Darfur, Sudan, UNAMID, United Nations African Union Mission in Darfur, United Nations Security Council_
+_Context: Darfur, Security Council, Sudan, UNAMID, United Nations African Union Mission in Darfur_
 
 ##### United States soldier
 ### [ Retired United States Army Lieutenant-General Philip Kensinger is censured by the Army over his role in the series of errors following the death of Ranger Pat Tillman in 2004. ](/news/2007/07/31/retired-united-states-army-lieutenant-general-philip-kensinger-is-censured-by-the-army-over-his-role-in-the-series-of-errors-following-the.md)

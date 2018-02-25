@@ -11,9 +11,9 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
 _Context: Republican, United States Senate, earmarking_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
-_Context: Barack Obama, Medal of Honor, President of the United States, Salvatore Giunta, U.S., White House_
+_Context: Barack Obama, Medal of Honor, Salvatore Giunta, U.S., U.S. President, White House_
 
 ##### United States House Committee on Standards of Official Conduct
 ### [The United States House Committee on Standards of Official Conduct finds Charlie Rangel guilty of multiple violations of House of Representatives rules. ](/news/2010/11/16/the-united-states-house-committee-on-standards-of-official-conduct-finds-charlie-rangel-guilty-of-multiple-violations-of-house-of-representa.md)

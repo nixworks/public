@@ -29,7 +29,7 @@ _Context: Afghan, Paktika, War in Afghanistan (2001-present)_
 
 ##### U.S.
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
-_Context: George W. Bush, Harriet Miers, President of the United States, Sandra Day O'Connor, Supreme Court of the United States, U.S., White House Counsel_
+_Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, Supreme Court of the United States, U.S., U.S. President, White House Counsel_
 
 ##### Heavy metal
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)

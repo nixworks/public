@@ -11,9 +11,9 @@ _Context: John McCain, Republican, US Senate election in Arizona, primary electi
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
 David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha gave birth to a girl, their fourth child, during a family holiday in Cornwall.
 
-##### Department of Justice
+##### U.S. Justice Department
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Barack Obama, Department of Justice, Federal District Judge, President of the United States, Royce C. Lamberth, embryonic stem cell, executive order_
+_Context: Barack Obama, Federal District Judge, Royce C. Lamberth, U.S. Justice Department, U.S. President, embryonic stem cell, executive order_
 
 ##### 2010 Copiap mining accident
 ### [Rescue efforts start to free the men trapped following the 2010 Copiap mining accident. ](/news/2010/08/24/rescue-efforts-start-to-free-the-men-trapped-following-the-2010-copiapo-mining-accident.md)
@@ -57,7 +57,7 @@ Aid groups say up to 200 women were raped in four days near a UN peacekeeping ba
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
-_Context: Al-Shabaab, MPs, President, Villa Somalia, storm the Hotel Muna_
+_Context: Al-Shabaab, MPs, President, presidential palace, storm the Hotel Muna_
 
 ##### Catalonia
 ### [Two Catalonian aid workers kidnapped in Mauritania by Al-Qaeda Organization in the Islamic Maghreb return home. ](/news/2010/08/24/two-catalonian-aid-workers-kidnapped-in-mauritania-by-al-qaeda-organization-in-the-islamic-maghreb-return-home.md)

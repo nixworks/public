@@ -19,7 +19,7 @@ _Context: Brazil, penguin_
 ### [Nepal's lawmakers fail to elect a new Prime Minister as no candidate manages to secure the required number of votes . ](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.md)
 _Context: Nepal, Prime Minister_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama signs finance reforms into law, overhauling the country's Wall Street Financial District. ](/news/2010/07/21/president-of-the-united-states-barack-obama-signs-finance-reforms-into-law-overhauling-the-country-s-wall-street-financial-district.md)
 US president says act will create the strongest financial protections for US consumers.
 

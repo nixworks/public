@@ -15,9 +15,9 @@ The House of Representatives Monday night approved a nine-month extension of the
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)
 _Context: 10 Downing Street, David Cameron_
 
-##### President of the United States
+##### U.S. President
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, President of the United States, United States federal budget, budget deficits_
+_Context: Barack Obama, U.S. President, United States federal budget, budget deficits_
 
 ##### Mourad Medelci
 ### [Mourad Medelci, the foreign minister of Algeria, announces that the 19-year-old state of emergency will end "within days". ](/news/2011/02/14/mourad-medelci-the-foreign-minister-of-algeria-announces-that-the-19-year-old-state-of-emergency-will-end-within-days.md)
@@ -51,9 +51,9 @@ Supporters of the man charged with stealing 250,000 classified US documents publ
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
 _Context: DR Congo, Uganda_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Preah Vihear Temple, Thailand, United Nations Security Council_
+_Context: Cambodia, Preah Vihear Temple, Security Council, Thailand_
 
 ##### Fine Gael
 ### [Ireland's Fine Gael leader Enda Kenny travels to Germany to brief Angela Merkel on matters of economic concern. ](/news/2011/02/14/ireland-s-fine-gael-leader-enda-kenny-travels-to-germany-to-brief-angela-merkel-on-matters-of-economic-concern.md)

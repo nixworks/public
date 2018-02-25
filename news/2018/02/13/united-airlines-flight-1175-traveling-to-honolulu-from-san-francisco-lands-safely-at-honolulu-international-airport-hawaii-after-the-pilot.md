@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolu
 
 ### [2018-02-13](/news/2018/02/13/index.md)
 
-##### United Airlines
+##### United
 # United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. 
 
 Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu
@@ -20,4 +20,4 @@ Passengers on a United Airlines flight Tuesday had quite the scare when pilots c
 2. [A group of United States mayors forms ""Mayors Against Discrimination"" in the wake of recent discriminatory laws enacted in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carolina.md) _Context: Honolulu, San Francisco_
 3. [A Boeing 787 controlled by Japan Airlines makes an emergency landing at Honolulu Airport in Honolulu, Hawaii, after oil pressure in their right engine dropped. ](/news/2014/03/9/a-boeing-787-controlled-by-japan-airlines-makes-an-emergency-landing-at-honolulu-airport-in-honolulu-hawaii-after-oil-pressure-in-their-ri.md) _Context: Hawaii, Honolulu_
 4. [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md) _Context: Honolulu, San Francisco_
-5. [An emergency alert warning of an inbound ballistic missile is accidentally sent out across the U.S. state of Hawaii at 8:07 HST, before being cleared as a false alarm 38 minutes later. This event caused panic and disruptions across the state on the archipelago inhabited by roughly 1.7 million people. ](/news/2018/01/13/an-emergency-alert-warning-of-an-inbound-ballistic-missile-is-accidentally-sent-out-across-the-u-s-state-of-hawaii-at-8-07-hst-before-bein.md) _Context: Hawaii_
+5. [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md) _Context: United_

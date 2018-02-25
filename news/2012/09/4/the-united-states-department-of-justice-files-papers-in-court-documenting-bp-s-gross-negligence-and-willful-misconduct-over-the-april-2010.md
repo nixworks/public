@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/the-united-states-department-of-justice-files-pa
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### Department of Justice
+##### U.S. Justice Department
 # The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. 
 
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;

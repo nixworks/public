@@ -19,7 +19,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 ### [ A Mikoyan MiG-29 of the Serbian military crashes at Batajnica Air Base near Belgrad, killing the pilot and one soldier on the ground. ](/news/2009/07/7/a-mikoyan-mig-29-of-the-serbian-military-crashes-at-batajnica-air-base-near-belgrad-killing-the-pilot-and-one-soldier-on-the-ground.md)
 _Context: Batajnica Air Base, Belgrad, MiG-29, Serbian military, crashes_
 
-##### President of the United States
+##### U.S. President
 ### [ United States President Barack Obama addresses graduates in Moscow, Russia. ](/news/2009/07/7/united-states-president-barack-obama-addresses-graduates-in-moscow-russia.md)
 The U.S. and Russia declared a rapprochement in part by agreeing to disagree on important issues.
 
@@ -49,7 +49,7 @@ _Context: Mogadishu, Somalia, United Nations, violence_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md)
-_Context: North Korea, United Nations, United Nations Security Council, missile launches_
+_Context: North Korea, Security Council, United Nations, missile launches_
 
 ##### Child abuse
 ### [ An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. ](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested-in-ireland-by-the-labour-party-s-ruairi-quinn-with-education-minister-batt-o-keeffe-criti.md)

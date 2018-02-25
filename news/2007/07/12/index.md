@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/12/index.html)  [JSON](2007/07/12/index.json)  [XML](200
 
 ##### Press conference
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA, CIA leak scandal, George W. Bush, President of the United States, U.S., Valerie Plame, press conference_
+_Context: CIA, CIA leak scandal, George W. Bush, U.S., U.S. President, Valerie Plame, press conference_
 
 ##### Politics of Liberia
 ### [ The government of Liberia submits a bill to the Parliament which would allow the seizure of the assets of former President Charles G. Taylor, his relatives and associates. ](/news/2007/07/12/the-government-of-liberia-submits-a-bill-to-the-parliament-which-would-allow-the-seizure-of-the-assets-of-former-president-charles-g-taylo.md)

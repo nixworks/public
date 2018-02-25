@@ -27,7 +27,7 @@ Russia vetoed a United Nations Security Council resolution on Wednesday that wou
 ### [Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md)
 _Context: 2015 Pacific typhoon season, Philippines_
 
-##### United Airlines
+##### United
 ### [A ground stop of all U.S. airport-based United Airlines (UAL) mainline flights following a system-wide network connectivity issue is lifted after a 1 hour, 21 minute suspension of morning service. The Federal Aviation Administration (FAA), which is also investigating, says all of United Continental Holdings Inc. regional airlines are now unaffected. This follows a similar issue on June 2, 2015 due to automation problems. ](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.md)
 The grounding of hundreds of United Airlines flights because of a computer glitch marked the latest in a series of airline delays and cancellations in the last few years that experts blame on massive, interconnected computer systems that lack sufficient staff and financial backing.
 

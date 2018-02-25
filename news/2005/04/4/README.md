@@ -23,9 +23,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. ](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.md)
 _Context: South Africa, Thabo Mbeki_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md)
-_Context: Cote d'Ivoire, French, United Nations, United Nations Security Council, peacekeeper_
+_Context: Cote d'Ivoire, French, Security Council, United Nations, peacekeeper_
 
 ##### Nigeria
 ### [ Nigerian President Olusegun Obasanjo fires his housing minister Alice Mobolaji Osomo for corruption in a housing scandal. ](/news/2005/04/4/nigerian-president-olusegun-obasanjo-fires-his-housing-minister-alice-mobolaji-osomo-for-corruption-in-a-housing-scandal.md)

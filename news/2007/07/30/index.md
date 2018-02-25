@@ -35,7 +35,7 @@ _Context: Czech Republic, US, ballistic missile_
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
 _Context: Islam, Islamabad, Lal Masjid, Pakistan, shrine, tribal area_
 
-##### President of the United States
+##### U.S. President
 ### [ The President of the United States George W. Bush and the Prime Minister of the United Kingdom Gordon Brown pledge to continue close relations in their first meeting. ](/news/2007/07/30/the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-the-united-kingdom-gordon-brown-pledge-to-continue-close-relati.md)
 Prime Minister Gordon Brown of Britain indicated that he mostly shared President Bush’s views on terrorism and the wars in Iraq and Afghanistan.
 

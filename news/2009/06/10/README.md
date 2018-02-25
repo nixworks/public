@@ -27,9 +27,9 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen state, Myanmar Army, R
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
 _Context: Chinese, Guantanamo Bay detention camp, Palau, Uyghur_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)
-_Context: Japan, North Korea, South Korea, United Nations Security Council, United Nations Security Council resolution_
+_Context: Japan, North Korea, Security Council, South Korea, United Nations Security Council resolution_
 
 ##### Russia
 ### [ Russia begins destroying 6,000 tons of nerve gas in Shchuchye, Kurgan Oblast. ](/news/2009/06/10/russia-begins-destroying-6-000-tons-of-nerve-gas-in-shchuchye-kurgan-oblast.md)

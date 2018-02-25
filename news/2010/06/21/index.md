@@ -57,7 +57,7 @@ _Context: Iraq, Shirqat_
 
 ##### Xi Jinping
 ### [Chinese Vice-President Xi Jinping meets with Australian Prime Minister Kevin Rudd on an official trip to Canberra. The two countries sign agreements valued at over A$10 billion. ](/news/2010/06/21/chinese-vice-president-xi-jinping-meets-with-australian-prime-minister-kevin-rudd-on-an-official-trip-to-canberra-the-two-countries-sign-ag.md)
-_Context: Australia, Australian Dollar, Australian Prime Minister, Canberra, Kevin Rudd, Xi Jinping_
+_Context: Australia, Australian Dollar, Canberra, Kevin Rudd, Prime Minister, Xi Jinping_
 
 ##### Iran
 ### [Iran bans two International Atomic Energy Agency weapons inspectors from entering the country claiming they had leaked false information about Iran's nuclear program. ](/news/2010/06/21/iran-bans-two-international-atomic-energy-agency-weapons-inspectors-from-entering-the-country-claiming-they-had-leaked-false-information-abo.md)

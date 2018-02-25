@@ -21,7 +21,7 @@ _Context: American Journal of Psychiatry, IQ, Mauritius, University of Southern 
 
 ##### Gulfstream II
 ### [ A Gulfstream II airplane heading to pick up former United States President George H.W. Bush crashes before landing, killing all three people on board, in Houston, Texas. ](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.md)
-_Context: George H.W. Bush, Gulfstream II, Houston, Texas, President of the United States_
+_Context: George H.W. Bush, Gulfstream II, Houston, Texas, U.S. President_
 
 ##### Oil spill
 ### [ A mechanical failure has been blamed for an oil spill on the eastern coast of Canada. Experts estimate 170,000 litres of oil have been spilled into the Atlantic Ocean off the coast of Newfoundland, covering an area 9&nbsp;km long by 1&nbsp;km wide. ](/news/2004/11/22/a-mechanical-failure-has-been-blamed-for-an-oil-spill-on-the-eastern-coast-of-canada-experts-estimate-170-000-litres-of-oil-have-been-spil.md)

@@ -15,7 +15,7 @@ _Context: 2007 attack, Brisbane, detective, planned car bomb attacks_
 ### [ Lieutenant-Colonel Thomas K. Mooney, the military attache at the United States Embassy is found dead in western Cyprus. ](/news/2007/07/2/lieutenant-colonel-thomas-k-mooney-the-military-attacha-c-at-the-united-states-embassy-is-found-dead-in-western-cyprus.md)
 _Context: Cypriot, Lieutenant-Colonel, Thomas K. Mooney, United States Embassy, military attache_
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush commutes Scooter Libby's prison sentence with a Grant of Executive Clemency for his role in the Plame Affair. ](/news/2007/07/2/u-s-president-george-w-bush-commutes-scooter-libby-s-prison-sentence-with-a-grant-of-executive-clemency-for-his-role-in-the-plame-affair.md)
 President George W. Bush on Monday spared former White House aide Lewis &quot;Scooter&quot; Libby a prison term, enraging Democrats who accused Bush of abusing power in a case that has fueled debate over the Iraq war.
 
@@ -31,9 +31,9 @@ Customs officials have recovered 61 bales of cocaine in west Cork in the largest
 ### [ The United States accuses Iran of using Hezbollah to train Shia militants in Iraq. The Iranian Defence Minister had earlier called the US the "biggest sponsor of terrorism" in the world. ](/news/2007/07/2/the-united-states-accuses-iran-of-using-hezbollah-to-train-shia-militants-in-iraq-the-iranian-defence-minister-had-earlier-called-the-us-t.md)
 _Context: Hezbollah, Iran, Iraq, Shia, U.S._
 
-##### President of the United States
+##### U.S. President
 ### [ U.S. President George W. Bush holds talks with the President of Russia Vladimir Putin in Kennebunkport, Maine discussing missile defense and Iran. ](/news/2007/07/2/u-s-president-george-w-bush-holds-talks-with-the-president-of-russia-vladimir-putin-in-kennebunkport-maine-discussing-missile-defense-an.md)
-_Context: George W. Bush, Iran, Kennebunkport, Maine, President of the United States, Russian President, Vladimir Putin, missile defense_
+_Context: George W. Bush, Iran, Kennebunkport, Maine, Russian President, U.S. President, Vladimir Putin, missile defense_
 
 ##### Wesfarmers
 ### [ Wesfarmers buys Coles Group for $A22 billion in Australia's biggest corporate deal. ](/news/2007/07/2/wesfarmers-buys-coles-group-for-a22-billion-in-australia-s-biggest-corporate-deal.md)

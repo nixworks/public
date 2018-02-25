@@ -25,7 +25,7 @@ _Context: Chad, Hourmadji Moussa Doumgor, Idriss Dby, Mahamat Nour, Sudanese cab
 
 ##### Darfur conflict
 ### [ Darfur conflict: The United Nations Security Council votes unanimously to initiate the process which would lead to a UN peacekeeping force relieving the beleaguered African Union peacekeepers in the war-torn Darfur region of Sudan. The Government of Sudan opposes the move. ](/news/2006/05/16/darfur-conflict-the-united-nations-security-council-votes-unanimously-to-initiate-the-process-which-would-lead-to-a-un-peacekeeping-force.md)
-_Context: African Union peacekeepers, Darfur, Darfur conflict, Sudan, Sudanese cabinet, UN peacekeeping force, United Nations Security Council_
+_Context: African Union peacekeepers, Darfur, Darfur conflict, Security Council, Sudan, Sudanese cabinet, UN peacekeeping force_
 
 ##### U.S.
 ### [ The United States releases a list of 759 former and current inmates of the Guantnamo Bay prison camp in Cuba after a Freedom of Information Act action was filed by the Associated Press. ](/news/2006/05/16/the-united-states-releases-a-list-of-759-former-and-current-inmates-of-the-guantanamo-bay-prison-camp-in-cuba-after-a-freedom-of-informatio.md)

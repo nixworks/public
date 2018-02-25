@@ -13,7 +13,7 @@ _Context: Apple Inc., iOS, iOS 7, mobile operating system_
 
 ##### Tony Abbott
 ### [Tony Abbott is sworn in as the 28th Prime Minister of Australia together with his Ministry. ](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.md)
-_Context: Australian Prime Minister, Ministry, Tony Abbott_
+_Context: Ministry, Prime Minister, Tony Abbott_
 
 ##### 
 ### [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cras.md)

@@ -41,7 +41,7 @@ In the four months since Steve Irwin’s tragic death, his widow Terri has done 
 
 ##### China
 ### [ China and Russia veto a United States drafted United Nations Security Council Resolution that would have urged the government of Myanmar to stop human rights abuses and the repression of political opposition. ](/news/2007/01/12/china-and-russia-veto-a-united-states-drafted-united-nations-security-council-resolution-that-would-have-urged-the-government-of-myanmar-to.md)
-_Context: China, Fortify Rights, Myanmar, Resolution, Russia, U.S., United Nations Security Council, repression_
+_Context: China, Fortify Rights, Myanmar, Resolution, Russia, Security Council, U.S., repression_
 
 ## [Previous Day...](/news/2007/01/11/index.md)
 

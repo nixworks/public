@@ -17,7 +17,7 @@ _Context: Bangladesh, Cyclone Sidr, Dhaka_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, President of the United States, Prime Minister of Japan, U.S., Yasuo Fukuda_
+_Context: George W. Bush, Japan, Prime Minister of Japan, U.S., U.S. President, Yasuo Fukuda_
 
 ##### Uttar Pradesh
 ### [ Police in Uttar Pradesh arrest three Pakistani members of Jaish-e-Mohammed who were plotting to kidnap an Indian politician. ](/news/2007/11/16/police-in-uttar-pradesh-arrest-three-pakistani-members-of-jaish-e-mohammed-who-were-plotting-to-kidnap-an-indian-politician.md)

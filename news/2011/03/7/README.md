@@ -9,9 +9,9 @@ Top NASA scientists have hosed down claims from a colleague that fossils of alie
 
 ##### ABC News
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, China, Gary Locke, President of the United States, U.S., United States Secretary of Commerce_
+_Context: ABC News, Barack Obama, China, Gary Locke, U.S., U.S. President, United States Secretary of Commerce_
 
-##### President of the United States
+##### U.S. President
 ### [President of the United States Barack Obama lifts a two year freeze on the Combatant Status Review Tribunal at the Guantanamo Bay detention camp. ](/news/2011/03/7/president-of-the-united-states-barack-obama-lifts-a-two-year-freeze-on-the-combatant-status-review-tribunal-at-the-guantanamo-bay-detention.md)
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 

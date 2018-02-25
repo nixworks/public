@@ -13,7 +13,7 @@ _Context: Israel, Lebanese, UN_
 
 ##### Kofi Annan
 ### [ Kofi Annan states that he is working with the five permanent members of the United Nations Security Council to deploy an armed force in the Middle East to quell the escalation of conflict between Israel, Palestinian insurgents and Hezbollah. Tony Blair supports the plan. ](/news/2006/07/17/kofi-annan-states-that-he-is-working-with-the-five-permanent-members-of-the-united-nations-security-council-to-deploy-an-armed-force-in-the.md)
-_Context: Hezbollah, Israel, Kofi Annan, Middle East, Palestinian, Tony Blair, United Nations Security Council_
+_Context: Hezbollah, Israel, Kofi Annan, Middle East, Palestinian, Security Council, Tony Blair_
 
 ##### Iraq
 ### [ At least 40 Iraqis are killed and dozens injured in the town of Mahmoudiya south of Baghdad in an insurgent attack. ](/news/2006/07/17/at-least-40-iraqis-are-killed-and-dozens-injured-in-the-town-of-mahmoudiya-south-of-baghdad-in-an-insurgent-attack.md)

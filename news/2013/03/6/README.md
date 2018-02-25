@@ -39,7 +39,7 @@ _Context: Office of Fair Trading, UK, payday loans_
 ### [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md)
 _Context: EUR, European Commission, European Union, Internet Explorer, Microsoft, alternative, web browsers_
 
-##### United Nations Security Council
+##### Security Council
 ### [The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. ](/news/2013/03/6/the-united-nations-security-council-adopts-resolution-2093-that-partially-lifts-a-decades-old-arms-embargo-on-somalia-for-one-year-allowing.md)
 The U.N. Security Council agreed on Wednesday to partially lift a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy light weapons to strengthen its security forces to fight al Qaeda-linked Islamists.
 

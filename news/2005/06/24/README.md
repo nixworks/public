@@ -45,7 +45,7 @@ _Context: Egypt, Hassan Mustafa Osama Nasr, Italy, U.S., War on Terrorism, tortu
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives voted to prevent United Airlines from transferring its pension plan obligations to the government insurer, the Pension Benefit Guaranty Corporation. ](/news/2005/06/24/the-united-states-house-of-representatives-voted-to-prevent-united-airlines-from-transferring-its-pension-plan-obligations-to-the-governmen.md)
-_Context: Pension Benefit Guaranty Corporation, United Airlines, United States House of Representatives_
+_Context: Pension Benefit Guaranty Corporation, United, United States House of Representatives_
 
 ##### 
 ### [ Share prices of American airlines fell sharply as oil neared $60 a barrel. ](/news/2005/06/24/share-prices-of-american-airlines-fell-sharply-as-oil-neared-60-a-barrel.md)

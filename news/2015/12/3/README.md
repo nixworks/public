@@ -21,7 +21,7 @@ For those hoping for a harsher penalty, the compromise verdict was disappointing
 
 ##### 2015 FIFA corruption case
 ### [U.S. Attorney General Loretta Lynch announces criminal corruption charges against 16 FIFA officials in an indictment that expands Justice's May filing that indicted 14 officials associated with FIFA (Federation Internationale de Football Association) and related sports marketing companies. At U.S. authorities request, Swiss police arrest two South American FIFA (Federation Internationale de Football Association) officials at the five-star Baur au Lac hotel in Zurich, on suspicion of accepting "millions of dollars" in bribes. In addition, eight of the defendants indicted in May have pleaded guilty. ](/news/2015/12/3/u-s-attorney-general-loretta-lynch-announces-criminal-corruption-charges-against-16-fifa-officials-in-an-indictment-that-expands-justice-s.md)
-_Context: 2015 FIFA corruption case, Baur au Lac, Department of Justice, FIFA, FIFA, Loretta Lynch, South America, Swiss authorities, United States Attorney General, Zurich, bribes, five-star, pleaded guilty_
+_Context: 2015 FIFA corruption case, Baur au Lac, FIFA, FIFA, Loretta Lynch, South America, Swiss authorities, U.S. Justice Department, United States Attorney General, Zurich, bribes, five-star, pleaded guilty_
 
 ##### Trial of Oscar Pistorius
 ### [A court convicts South African athlete Oscar Pistorius of the murder of girlfriend Reeva Steenkamp on appeal and faces a minimum of 15 years in prison. ](/news/2015/12/3/a-court-convicts-south-african-athlete-oscar-pistorius-of-the-murder-of-girlfriend-reeva-steenkamp-on-appeal-and-faces-a-minimum-of-15-years.md)

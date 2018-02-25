@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ The Israeli ambassador to Canada, Alan Baker, criticises Bloc Qubcois leader Gilles Duceppe for participating in an Aug. 6 Montreal march in which a few Hezbollah supporters also took part. The march was, however, a protest against war and not a show of support for Hezbollah. ](/news/2006/08/16/the-israeli-ambassador-to-canada-alan-baker-criticises-bloc-quebecois-leader-gilles-duceppe-for-participating-in-an-aug-6-montreal-march.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### United Airlines
+##### United
 ### [ United Airlines Flight 923 makes an emergency landing in Boston. The original course was London to Washington D.C. Fighter jets escorted the plane to the airport. ](/news/2006/08/16/united-airlines-flight-923-makes-an-emergency-landing-in-boston-the-original-course-was-london-to-washington-d-c-fighter-jets-escorted-th.md)
 A flight from London to Washington, D.C. was diverted to Boston Wednesday after the pilot declared an emergency because of a passenger disturbance, United Airlines said Wednesday.
 

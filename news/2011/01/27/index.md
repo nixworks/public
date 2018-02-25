@@ -17,7 +17,7 @@ Breakthrough to fight resistant bacteria could lead to new generation of antibio
 
 ##### Supreme Court
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: Barack Obama, Illinois, Mayor of Chicago, President of the United States, Rahm Emanuel, Supreme Court, U.S. state_
+_Context: Barack Obama, Illinois, Mayor of Chicago, Rahm Emanuel, Supreme Court, U.S. President, U.S. state_
 
 ##### Burma
 ### [Burma faces criticism at the United Nations Human Rights Council over its human rights record. ](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.md)

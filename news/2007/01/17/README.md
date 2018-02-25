@@ -39,7 +39,7 @@ _Context: Dan Halutz, Hezbollah, Israel, Israeli Army_
 
 ##### U.S.
 ### [ United States President George W. Bush announces that the NSA has ended its practice of warrantless wiretapping for domestic surveillance, and will go to the courts for warrants in the future. ](/news/2007/01/17/united-states-president-george-w-bush-announces-that-the-nsa-has-ended-its-practice-of-warrantless-wiretapping-for-domestic-surveillance.md)
-_Context: George W. Bush, National Security Agency, President of the United States, U.S., warrant, warrantless wiretapping_
+_Context: George W. Bush, National Security Agency, U.S., U.S. President, warrant, warrantless wiretapping_
 
 ## [Previous Day...](/news/2007/01/16/index.md)
 

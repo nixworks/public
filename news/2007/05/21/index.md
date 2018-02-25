@@ -13,7 +13,7 @@ _Context: Battle of Nahr al-Bared, Nahr al-Bared, Tripoli, Lebanon, refugee_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Bill Richardson, the Democratic Governor of New Mexico, officially declares his candidacy for president in Los Angeles, California. ](/news/2007/05/21/united-states-presidential-election-2008-bill-richardson-the-democratic-governor-of-new-mexico-officially-declares-his-candidacy-for-pr.md)
-_Context: Bill Richardson, California, Democrat, Governor of New Mexico, Los Angeles, President of the United States, presidential candidate_
+_Context: Bill Richardson, California, Democrat, Governor of New Mexico, Los Angeles, U.S. President, presidential candidate_
 
 ##### 2007 Israel-Gaza conflict
 ### [ 2007 Israel-Gaza conflict: Palestinian militants from Gaza fire 13 Qassam rockets into Israel, killing one woman and injuring others. ](/news/2007/05/21/2007-israel-gaza-conflict-palestinian-militants-from-gaza-fire-13-qassam-rockets-into-israel-killing-one-woman-and-injuring-others.md)

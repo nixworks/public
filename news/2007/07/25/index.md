@@ -45,7 +45,7 @@ _Context: Asian Cup, Baghdad, Iraq, Iraq, Mansour district, South Korea, car bom
 
 ##### United States House Committee on the Judiciary
 ### [ The United States House Committee on the Judiciary votes 22-17 to approve a report citing former White House counsel Harriet Miers and current Chief of Staff for President George W. Bush Joshua Bolten for failing to comply with subpoenas regarding the dismissal of U.S. attorneys controversy. ](/news/2007/07/25/the-united-states-house-committee-on-the-judiciary-votes-22-17-to-approve-a-report-citing-former-white-house-counsel-harriet-miers-and-curr.md)
-_Context: George W. Bush, Harriet Miers, Joshua Bolten, President of the United States, United States House Committee on the Judiciary, White House, dismissal of U.S. attorneys controversy, subpoena_
+_Context: George W. Bush, Harriet Miers, Joshua Bolten, U.S. President, United States House Committee on the Judiciary, White House, dismissal of U.S. attorneys controversy, subpoena_
 
 ##### President
 ### [ The President of Brazil Luiz Incio Lula da Silva removes Defense Minister Waldir Pires, who is responsible for civil aviation, from his Cabinet and replaces him with former Justice Minister Nelson Jobim after two major crashes in ten months. ](/news/2007/07/25/the-president-of-brazil-luiz-inacio-lula-da-silva-removes-defense-minister-waldir-pires-who-is-responsible-for-civil-aviation-from-his-ca.md)

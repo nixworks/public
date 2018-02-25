@@ -17,7 +17,7 @@ A bomb attack in the main square in the Moroccan city of Marrakesh kills 15 peop
 
 ### Changes:
 
-1. [At least 6 people are killed and at least 15 others are injured in a suicide attack in Baladruz, Iraq. ](/news/2011/04/28/at-least-6-people-are-killed-and-at-least-15-others-are-injured-in-a-suicide-attack-in-baladruz-iraq.md) _2018-02-22 03:58:43 (First version)_
+1. [At least 6 people are killed and at least 15 others are injured in a suicide attack in Baladruz, Iraq. ](/news/2011/04/28/at-least-6-people-are-killed-and-at-least-15-others-are-injured-in-a-suicide-attack-in-baladruz-iraq.md) _2018-02-24 04:06:33 (First version)_
 1. [At least 15 people are killed and at least 20 others are injured after a bomb tears through the Argana cafe in Marrakesh's main Djemaa el-Fna square. ](/news/2011/04/28/at-least-15-people-are-killed-and-at-least-20-others-are-injured-after-a-bomb-tears-through-the-argana-cafe-in-marrakesh-s-main-djemaa-el-fn.md) _(Current version)_
 
 ### Related:

@@ -7,9 +7,9 @@ Formats: [HTML](2005/12/4/index.html)  [JSON](2005/12/4/index.json)  [XML](2005/
 ### [ The people of Venezuela vote in Parliamentary Elections. ](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-elections.md)
 _Context: parliamentary elections_
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [ Former Prime Minister of Australia Malcolm Fraser calls for a worldwide ban on capital punishment. ](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.md)
-_Context: Australian Prime Minister, Malcolm Fraser, capital punishment_
+_Context: Malcolm Fraser, Prime Minister, capital punishment_
 
 ##### Exit poll
 ### [ Exit polls indicate that Kazakhstan's incumbent leader Nursultan Nazarbayev wins the presidential election by a landslide. ](/news/2005/12/4/exit-polls-indicate-that-kazakhstan-s-incumbent-leader-nursultan-nazarbayev-wins-the-presidential-election-by-a-landslide.md)

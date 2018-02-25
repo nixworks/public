@@ -29,7 +29,7 @@ _Context: 1975, Gordon Brown, Prime Minister, United Kingdom, tax_
 
 ##### U.S.
 ### [ United States President-elect Barack Obama announces his Treasury team, which includes Timothy F. Geithner as Secretary, Lawrence Summers as president of the National Economic Council, and Christina Romer as chair of the Council of Economic Advisers. ](/news/2008/11/24/united-states-president-elect-barack-obama-announces-his-treasury-team-which-includes-timothy-f-geithner-as-secretary-lawrence-summers-a.md)
-_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President of the United States, President-elect, Timothy F. Geithner, U.S., United States National Economic Council, United States Secretary of the Treasury, United States Treasury Department_
+_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, U.S., U.S. President, United States National Economic Council, United States Secretary of the Treasury, United States Treasury Department_
 
 ## [Previous Day...](/news/2008/11/23/index.md)
 

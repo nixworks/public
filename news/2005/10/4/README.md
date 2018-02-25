@@ -27,9 +27,9 @@ _Context: Dominique de Villepin, Prime Minister_
 ### [ Two Congolese soldiers die and eleven others are injured in a plane crash as the United Nations and Democratic Republic of the Congo's army airlifted local troops to the northeastern frontier to confront Ugandan Lord's Resistance Army rebels. ](/news/2005/10/4/two-congolese-soldiers-die-and-eleven-others-are-injured-in-a-plane-crash-as-the-united-nations-and-democratic-republic-of-the-congo-s-army.md)
 _Context: DR Congo, Lord's Resistance Army, Ugandan, United Nations_
 
-##### United Nations Security Council
+##### Security Council
 ### [ The United Nations Security Council demands that Rwandan rebels, the Democratic Forces for the Liberation of Rwanda (FDLR), immediately disarm and leave Democratic Republic of the Congo. ](/news/2005/10/4/the-united-nations-security-council-demands-that-rwandan-rebels-the-democratic-forces-for-the-liberation-of-rwanda-fdlr-immediately-dis.md)
-_Context: DR Congo, Democratic Forces for the Liberation of Rwanda, Rwanda, United Nations Security Council_
+_Context: DR Congo, Democratic Forces for the Liberation of Rwanda, Rwanda, Security Council_
 
 ##### Malawi
 ### [ The Malawi government says that 650,000 people in the country have died due to AIDS in the past two decades. There are now 850,000 orphaned children, 50% resulting from AIDS. ](/news/2005/10/4/the-malawi-government-says-that-650-000-people-in-the-country-have-died-due-to-aids-in-the-past-two-decades-there-are-now-850-000-orphaned.md)

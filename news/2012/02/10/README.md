@@ -29,7 +29,7 @@ _Context: China, Tibet, Wen Jiabao_
 
 ##### Uzbek
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, President of the United States, Ulugbek Kodirov, Uzbek_
+_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, U.S. President, Ulugbek Kodirov, Uzbek_
 
 ##### Luka Bojovic
 ### [Luka Bojovic, an alleged member of the Zemun Clan, is arrested in Valencia, Spain, for involvement in over 20 murders in Serbia, the Netherlands and Spain, including the killing of former Prime Minister of Serbia Zoran Dindic. ](/news/2012/02/10/luka-bojovia-an-alleged-member-of-the-zemun-clan-is-arrested-in-valencia-spain-for-involvement-in-over-20-murders-in-serbia-the-nether.md)

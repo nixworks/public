@@ -39,9 +39,9 @@ _Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
 ### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
 _Context: Angela Merkel, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
 
-##### President of the United States
+##### U.S. President
 ### [President Obama nominates Solicitor General Elena Kagan as the youngest Justice and third woman for the Supreme Court of the United States. ](/news/2010/05/10/president-obama-nominates-solicitor-general-elena-kagan-as-the-youngest-justice-and-third-woman-for-the-supreme-court-of-the-united-states.md)
-_Context:  Elena Kagan, Barack Obama, Justice, President of the United States, Solicitor General, Supreme Court of the United States_
+_Context:  Elena Kagan, Barack Obama, Justice, Solicitor General, Supreme Court of the United States, U.S. President_
 
 ##### Stock market
 ### [Stock markets rise significantly and bond prices fall around the world after investors are reassured by the European Union and International Monetary Fund's nearly $1 trillion plan to avoid a European debt crisis. ](/news/2010/05/10/stock-markets-rise-significantly-and-bond-prices-fall-around-the-world-after-investors-are-reassured-by-the-european-union-and-international.md)

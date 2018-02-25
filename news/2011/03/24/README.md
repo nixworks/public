@@ -17,7 +17,7 @@ _Context: California, Governor of California, Jerry Brown, ongoing budget crisis
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)
-_Context: Australia, Australian Prime Minister, Bono, Julia Gillard, iPod_
+_Context: Australia, Bono, Julia Gillard, Prime Minister, iPod_
 
 ##### Michael Lowry
 ### [Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/former-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-aireann-in-the-aftermath-of-the-moria.md)

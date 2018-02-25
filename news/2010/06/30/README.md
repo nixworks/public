@@ -67,7 +67,7 @@ _Context: 6.2-magnitude earthquake, Mexico, Mexico City, Pinotepa Nacional_
 ### [At least 30 people are injured by police while protesting the arrest of opposition party leaders in Bangladesh. ](/news/2010/06/30/at-least-30-people-are-injured-by-police-while-protesting-the-arrest-of-opposition-party-leaders-in-bangladesh.md)
 Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 
-##### Australian Prime Minister
+##### Prime Minister
 ### [Prime Minister Julia Gillard confirms she does not support the legalisation of same-sex marriage in Australia, ](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.md)
 It seems unlikely the Christian lobby will lay out the red carpet and the internet link for the latest prime minister, Julia Gillard.
 

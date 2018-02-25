@@ -65,7 +65,7 @@ _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
 
 ##### U.S.
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
-_Context: Continental Airlines, U.S., United Airlines_
+_Context: Continental Airlines, U.S., United_
 
 ##### Ajmal Kasab
 ### [Ajmal Kasab, the only surviving terrorist involved in the 2008 Mumbai attacks, is found guilty of murder, conspiracy, and waging war against India. ](/news/2010/05/3/ajmal-kasab-the-only-surviving-terrorist-involved-in-the-2008-mumbai-attacks-is-found-guilty-of-murder-conspiracy-and-waging-war-against.md)
