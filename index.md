@@ -1,27 +1,11 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/25/index.md)
+## [News](/news/2018/02/26/index.md)
 
-##### Politics of China
-### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
-China’s Communist party chiefs propose constitutional change to allow president to stay on
-
-##### North Korea-United States relations
-### [South Korea president Moon Jae-in states that the United States is willing to do talks with North Korea in effort to denuclearization on the Korean Peninsula.](/news/2018/02/25/south-korea-president-moon-jae-in-states-that-the-united-states-is-willing-to-do-talks-with-north-korea-in-effort-to-denuclearization-on-the.md)
-In response, the White House did not rule out direct talks.
-
-##### Leicester
-### [A major explosion occurs in Leicester, United Kingdom. The cause is unknown, and it was reportedly in a busy area. ](/news/2018/02/25/a-major-explosion-occurs-in-leicester-united-kingdom-the-cause-is-unknown-and-it-was-reportedly-in-a-busy-area.md)
-Police for the English city of Leicester say they are responding to a &quot;major incident&quot; after receiving reports of an explosion.
-
-##### 2018 Papua New Guinea earthquake
-### [A magnitude 7.5 earthquake hits Papua New Guinea. No immediate reports of damage, although that could change with time. ](/news/2018/02/25/a-magnitude-7-5-earthquake-hits-papua-new-guinea-no-immediate-reports-of-damage-although-that-could-change-with-time.md)
-_Context: 2018 Papua New Guinea earthquake_
-
-##### Syrian Civil War
-### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)
-_Context: Ghouta, Government forces, Resolution 2401, Siege of eastern Ghouta, Syrian Civil War, United Nations Security Council_
+##### National Party of Australia leadership election, 2018
+### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack will soon be sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-replace-barnaby-joyce-as-their-leader-mc.md)
+_Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,7 +13,31 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2018/02/24/index.md)
+## [Yesterday](/news/2018/02/25/index.md)
+
+##### Politics of China
+### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
+China’s Communist party chiefs propose constitutional change to allow president to stay on
+
+##### North Korea-United States relations
+### [South Korea president Moon Jae-in states that North Korea is willing to enter talks with the United States in effort to denuclearization on the Korean Peninsula. ](/news/2018/02/25/south-korea-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-effort-to-denuclearization-on.md)
+In response, the White House did not rule out direct talks.
+
+##### Leicester
+### [A major explosion severely injuring at least 4 occurs on Hinckley Road in Leicester, United Kingdom. The cause is unknown. ](/news/2018/02/25/a-major-explosion-severely-injuring-at-least-4-occurs-on-hinckley-road-in-leicester-united-kingdom-the-cause-is-unknown.md)
+Police for the English city of Leicester say they are responding to a &quot;major incident&quot; after receiving reports of an explosion.
+
+##### 2018 Papua New Guinea earthquake
+### [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage was immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-wa.md)
+_Context: 2018 Papua New Guinea earthquake, Southern Highlands Province_
+
+##### Syrian Civil War
+### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)
+_Context: Ghouta, Government forces, Resolution 2401, Siege of eastern Ghouta, Syrian Civil War, United Nations Security Council_
+
+---
+
+## [Day Before Yesterday](/news/2018/02/24/index.md)
 
 ##### Nunes memo
 ### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence is released, countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-is-released-countering-the-republican-mem.md)
@@ -57,27 +65,7 @@ At least 38 people are killed in Mogadishu in attacks claimed by the al-Shabab m
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/23/index.md)
-
-##### Politics of Australia
-### [Barnaby Joyce announces his resignation as Deputy Prime Minister and leader of the National Party, following scandals involving an affair with a staffer and a sexual harassment allegation. The party, a junior partner in the Coalition government, will vote for his successor on February 26. ](/news/2018/02/23/barnaby-joyce-announces-his-resignation-as-deputy-prime-minister-and-leader-of-the-national-party-following-scandals-involving-an-affair-wi.md)
-• Deputy PM announces he will formally resign at Monday’s party room meeting • Joyce says he has referred allegation of sexual harassment to police
-
-##### Special Counsel investigation (2017-present)
-### [Rick Gates pleads guilty to charges of conspiracy against the United States and making false statements, and agrees to cooperate with the Special Counsel investigation. ](/news/2018/02/23/rick-gates-pleads-guilty-to-charges-of-conspiracy-against-the-united-states-and-making-false-statements-and-agrees-to-cooperate-with-the-sp.md)
-_Context: Rick Gates, Special Counsel investigation (2017-present)_
-
-##### Australia-United States relations
-### [U.S. President Donald Trump meets with Australian Prime Minister Malcolm Turnbull in the White House. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/u-s-president-donald-trump-meets-with-australian-prime-minister-malcolm-turnbull-in-the-white-house-trump-indicated-that-there-would-be-ne.md)
-The leaders could face questions about efforts to curb North Korea&#039;s nuclear and missile programs.
-
-##### Rif Dimashq offensive
-### [Syrian government warplanes carry out a sixth day of airstrikes in the rebel-held Ghouta suburbs east of Damascus, killing 32 people as the death toll from a week of bombardment reaches over 400. ](/news/2018/02/23/syrian-government-warplanes-carry-out-a-sixth-day-of-airstrikes-in-the-rebel-held-ghouta-suburbs-east-of-damascus-killing-32-people-as-the.md)
-_Context: Damascus, Ghouta, Rif Dimashq offensive, Syria, airstrike, warplane_
-
----
-
-## [Previous Day...](/news/2018/02/22/index.md)
+## [Previous Day...](/news/2018/02/23/index.md)
 
 ---
 
