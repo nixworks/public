@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/25/government-forces-launch-a-ground-and-air-offen
 ### [2018-02-25](/news/2018/02/25/index.md)
 
 ##### Syrian Civil War
-# Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in the area. 
+# Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. 
 
 
 

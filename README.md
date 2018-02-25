@@ -8,7 +8,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
 ##### Syrian Civil War
-### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)
+### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)
 _Context: Ghouta, Government forces, Resolution 2401, Siege of eastern Ghouta, Syrian Civil War, United Nations Security Council_
 
 ##### Opinion
