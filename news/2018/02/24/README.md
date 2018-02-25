@@ -3,9 +3,21 @@ Formats: [HTML](2018/02/24/index.html)  [JSON](2018/02/24/index.json)  [XML](201
 
 ## [2018-02-24](/news/2018/02/24/index.md)
 
+##### Nunes memo
+### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the February 2 Devin Nunes memo is released. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-february-2-devin-nunes-memo.md)
+The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
+
 ##### Stoneman Douglas High School shooting
 ### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying they will end discounts for NRA members. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
 The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
+
+##### War in Afghanistan (2001-present)
+### [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md)
+A series of militant attacks in Afghanistan killed more than 20 people, officials said on Saturday, ahead of an international meeting next week aimed at building diplomatic support for hoped-for peace talks with the Taliban.
+
+##### Yemeni Civil War (2015-present)
+### [Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden kills at least 14 people and wounds 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-tried-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-kills.md)
+At least 14 people were killed and 40 wounded when Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden on Saturday, security and medical sources said.
 
 ##### Syrian Civil War
 ### [The United Nations Security Council unanimously approves a resolution demanding a 30-day ceasefire in Syria. ](/news/2018/02/24/the-united-nations-security-council-unanimously-approves-a-resolution-demanding-a-30-day-ceasefire-in-syria.md)
