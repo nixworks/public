@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-state
 ### [2018-02-24](/news/2018/02/24/index.md)
 
 ##### Nunes memo
-# A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the Republican memo released on February 2. 
+# A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox TV. 
 
 The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
 
@@ -17,7 +17,7 @@ The House Intelligence Committee released a rebuttal by House Democrats to a Rep
 ### Changes:
 
 1. [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the February 2 Devin Nunes memo is released. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-february-2-devin-nunes-memo.md) _2018-02-25 06:30:10 (First version)_
-1. [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the Republican memo released on February 2. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-republican-memo-released-on.md) _(Current version)_
+1. [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-countering-the-republican-memo-released-on.md) _(Current version)_
 
 ### Related:
 
