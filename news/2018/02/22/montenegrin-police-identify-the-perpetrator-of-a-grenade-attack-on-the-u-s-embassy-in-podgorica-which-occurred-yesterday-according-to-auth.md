@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/22/montenegrin-police-identify-the-perpetrator-of-
 
 ### [2018-02-22](/news/2018/02/22/index.md)
 
-##### Crime in Montenegro
+##### Montenegrin
 # Montenegrin police identify the perpetrator of a grenade attack on the U.S. embassy in Podgorica which occurred yesterday. According to authorities, he was a veteran of the Armed Forces of Yugoslavia. 
 
 The assailant threw a grenade into the embassy compound before killing himself on Wednesday night.

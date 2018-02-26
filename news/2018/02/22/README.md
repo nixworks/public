@@ -31,13 +31,13 @@ _Context: Alexei Navalny, Leonid Volkov, Russian police, Russian presidential el
 ### [Romanian Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the National Anticorruption Directorate, Laura Codruta Kovesi. The announcement sparks protests. ](/news/2018/02/22/romanian-justice-minister-tudorel-toader-announces-that-he-would-trigger-the-dismissal-procedures-of-the-chief-prosecutor-of-the-national-an.md)
 _Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Romania_
 
-##### Crime in Montenegro
-### [Montenegrin police identify the perpetrator of a grenade attack on the U.S. embassy in Podgorica which occurred yesterday. According to authorities, he was a veteran of the Armed Forces of Yugoslavia. ](/news/2018/02/22/montenegrin-police-identify-the-perpetrator-of-a-grenade-attack-on-the-u-s-embassy-in-podgorica-which-occurred-yesterday-according-to-auth.md)
-The assailant threw a grenade into the embassy compound before killing himself on Wednesday night.
-
 ##### Syrian Civil War
 ### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote is postponed. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-is-postponed.md)
 The resolution was intended to allow food and medicine to reach a besieged Damascus suburb, where conditions were described as “hell on earth.”
+
+##### Montenegrin
+### [Montenegrin police identify the perpetrator of a grenade attack on the U.S. embassy in Podgorica which occurred yesterday. According to authorities, he was a veteran of the Armed Forces of Yugoslavia. ](/news/2018/02/22/montenegrin-police-identify-the-perpetrator-of-a-grenade-attack-on-the-u-s-embassy-in-podgorica-which-occurred-yesterday-according-to-auth.md)
+The assailant threw a grenade into the embassy compound before killing himself on Wednesday night.
 
 ## [Previous Day...](/news/2018/02/21/index.md)
 
