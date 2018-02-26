@@ -12,7 +12,7 @@ Police say they do not know who was behind the three explosions in the city of S
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-43179794)
-2. [Voice of America](https://www.voanews.com/a/myanmar-rakhine-sittwe-blasts/4268867.html)
+2. [Voice of America News](https://www.voanews.com/a/myanmar-rakhine-sittwe-blasts/4268867.html)
 2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/3EF4/production/_100161161_mediaitem100161160.jpg)
 
 ### Related:
