@@ -21,7 +21,7 @@ France on Monday said that Russia had to use its influence on the Syrian governm
 
 ##### United States-Mexico relations
 ### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-Mexican President Enrique Pea Nieto cancelled an official trip to Washington, D.C. planned for some time this March after a heated telephone call with Trump this past Tuesday. 
+_Context: Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
 
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)
@@ -50,6 +50,10 @@ In response, the White House did not rule out direct talks.
 ##### Leicester
 ### [An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-five-deaths-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-a.md)
 _Context: England, Leicester_
+
+##### 2018 Papua New Guinea earthquake
+### [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md)
+_Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands Province, earthquake, magnitude_
 
 ##### Syrian Civil War
 ### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)

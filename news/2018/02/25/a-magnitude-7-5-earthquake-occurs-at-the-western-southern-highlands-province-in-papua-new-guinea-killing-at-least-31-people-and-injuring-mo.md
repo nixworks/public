@@ -4,10 +4,16 @@ Formats: [HTML](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-wester
 ### [2018-02-25](/news/2018/02/25/index.md)
 
 ##### 2018 Papua New Guinea earthquake
-# A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others.
+# A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. 
 
 
 
+
+### Sources:
+
+1. [TIME](http://time.com/5174726/earthquake-papua-new-guinea/)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive)
+2. [Cover Image](https://timedotcom.files.wordpress.com/2018/02/papua-new-guinea.jpg?quality&#x3D;85)
 
 ### Changes:
 
@@ -15,7 +21,7 @@ Formats: [HTML](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-wester
 2. [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is.md) _2018-02-26 00:30:07 (Update)_
 3. [A magnitude 7.5 earthquake strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md) _2018-02-26 07:30:06 (Update)_
 4. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md) _2018-02-26 21:30:07 (Update)_
-4. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others.](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md) _(Current version)_
+4. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md) _(Current version)_
 
 ### Related:
 

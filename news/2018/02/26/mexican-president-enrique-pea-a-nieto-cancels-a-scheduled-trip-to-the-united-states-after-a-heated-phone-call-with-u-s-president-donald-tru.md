@@ -6,13 +6,12 @@ Formats: [HTML](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a
 ##### United States-Mexico relations
 # Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. 
 
-Mexican President Enrique Pea Nieto cancelled an official trip to Washington, D.C. planned for some time this March after a heated telephone call with Trump this past Tuesday. 
+
 
 
 ### Sources:
 
-1. [Town Hall](https://townhall.com/tipsheet/chrisreeves/2018/02/26/deja-vu-mexican-president-cancels-trip-to-u-s-n2454438)
-1. [Cover Image](https://media.townhall.com/townhall/reu/s1280x720/2018/45/2018-02-15T015326Z_1_LYNXNPEE1E038_RTROPTP_4_PARAGUAY-MEXICO.JPG)
+1. [CNN](https://www.cnn.com/2018/02/24/politics/mexican-president-cancels-white-house-trip/index.html)
 
 ### Related:
 
