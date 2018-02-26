@@ -16,7 +16,7 @@ Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of p
 In response, the White House did not rule out direct talks.
 
 ##### Leicester
-### [An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-six-injuries-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion.md)
+### [An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-five-deaths-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-a.md)
 _Context: England, Leicester_
 
 ##### 2018 Papua New Guinea earthquake

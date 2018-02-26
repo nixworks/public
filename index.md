@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/26/index.md)
 
 ##### National Party of Australia leadership election, 2018
-### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack is sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-replace-barnaby-joyce-as-their-leader-mc.md)
+### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-replace-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
 ##### Opinion
@@ -28,7 +28,7 @@ Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of p
 In response, the White House did not rule out direct talks.
 
 ##### Leicester
-### [An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-six-injuries-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion.md)
+### [An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-five-deaths-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-a.md)
 _Context: England, Leicester_
 
 ##### 2018 Papua New Guinea earthquake
