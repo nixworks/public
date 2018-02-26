@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/26/index.md)
 
+##### Human Rights in China
+### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
+_Context: Beijing, Human Rights in China, Li Boguang_
+
 ##### Politics of France
 ### [Prime Minister of France Edouard Philippe announced that the details of the railway reform will be announced in March. ](/news/2018/02/26/prime-minister-of-france-edouard-philippe-announced-that-the-details-of-the-railway-reform-will-be-announced-in-march.md)
 The French government will abolish jobs-for-life at state-owned railways SNCF. Macron, who won power in May 2017 pledging to modernize France&#39;s labor market, faces fierce opposition from powerful unions.
@@ -46,10 +50,6 @@ In response, the White House did not rule out direct talks.
 ##### Leicester
 ### [An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-five-deaths-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-a.md)
 _Context: England, Leicester_
-
-##### 2018 Papua New Guinea earthquake
-### [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md)
-_Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands Province, earthquake, magnitude_
 
 ##### Syrian Civil War
 ### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)

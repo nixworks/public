@@ -3,6 +3,10 @@ Formats: [HTML](2018/02/26/index.html)  [JSON](2018/02/26/index.json)  [XML](201
 
 ## [2018-02-26](/news/2018/02/26/index.md)
 
+##### Human Rights in China
+### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
+_Context: Beijing, Human Rights in China, Li Boguang_
+
 ##### Politics of France
 ### [Prime Minister of France Edouard Philippe announced that the details of the railway reform will be announced in March. ](/news/2018/02/26/prime-minister-of-france-edouard-philippe-announced-that-the-details-of-the-railway-reform-will-be-announced-in-march.md)
 The French government will abolish jobs-for-life at state-owned railways SNCF. Macron, who won power in May 2017 pledging to modernize France&#39;s labor market, faces fierce opposition from powerful unions.
