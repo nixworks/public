@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/26/index.md)
 
 ##### National Party of Australia leadership election, 2018
-### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack will soon be sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-replace-barnaby-joyce-as-their-leader-mc.md)
+### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack is sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-replace-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
 ##### Opinion
@@ -20,16 +20,16 @@ Most of the daily information we see on the mainstream media today is the news e
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
 ##### North Korea-United States relations
-### [South Korea president Moon Jae-in states that North Korea is willing to enter talks with the United States in effort to denuclearization on the Korean Peninsula. ](/news/2018/02/25/south-korea-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-effort-to-denuclearization-on.md)
+### [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in effort to denuclearization on the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-effort-to-denuclearization-on.md)
 In response, the White House did not rule out direct talks.
 
 ##### Leicester
-### [A major explosion severely injuring at least 4 occurs on Hinckley Road in Leicester, United Kingdom. The cause is unknown. ](/news/2018/02/25/a-major-explosion-severely-injuring-at-least-4-occurs-on-hinckley-road-in-leicester-united-kingdom-the-cause-is-unknown.md)
-Police for the English city of Leicester say they are responding to a &quot;major incident&quot; after receiving reports of an explosion.
+### [A major explosion injures at least 6 on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/a-major-explosion-injures-at-least-6-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-and-subsequent-fire-is-unknown.md)
+_Context: England, Leicester_
 
 ##### 2018 Papua New Guinea earthquake
-### [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage was immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-wa.md)
-_Context: 2018 Papua New Guinea earthquake, Southern Highlands Province_
+### [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is.md)
+_Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands Province, earthquake, magnitude_
 
 ##### Syrian Civil War
 ### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)

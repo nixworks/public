@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/26/the-cogoverning-national-party-of-australia-ele
 ### [2018-02-26](/news/2018/02/26/index.md)
 
 ##### National Party of Australia leadership election, 2018
-# The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack will soon be sworn in as Deputy Prime Minister. 
+# The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to replace Barnaby Joyce as their leader. McCormack is sworn in as Deputy Prime Minister. 
 
 
 
