@@ -15,9 +15,9 @@ More than 200 modifications
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
 _Context: England, Islam, Manchester, racial bias_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Barack Obama, Don't ask, don't tell, U.S., U.S. President, United States armed forces, gay_
+_Context: Barack Obama, Don't ask, don't tell, U.S. President, United States, United States armed forces, gay_
 
 ##### Guinea
 ### [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md)

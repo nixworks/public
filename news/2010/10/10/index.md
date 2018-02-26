@@ -75,9 +75,9 @@ Nearly half a million people in Bangladesh have been made homeless and at least 
 ### [12 people die and 73 are injured when two express buses, a van and three cars collide at Km 223, Plus Highway near the Simpang Ampat toll in Negri Sembilan, Malaysia. ](/news/2010/10/10/12-people-die-and-73-are-injured-when-two-express-buses-a-van-and-three-cars-collide-at-km-223-plus-highway-near-the-simpang-ampat-toll-in.md)
 A collision involving two buses, a van and three cars left at least 11 people dead in Malaysia on Sunday, state media reported.
 
-##### U.S.
+##### United States
 ### [U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. ](/news/2010/10/10/u-s-soul-singer-solomon-burke-dies-at-amsterdam-s-airport-schiphol.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Solomon Burke, U.S., soul music_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Solomon Burke, United States, soul music_
 
 ##### 
 ### [A celebration occurs as a male British child turns 10 at 10:10 on the 10th day of the 10th month of 2010. ](/news/2010/10/10/a-celebration-occurs-as-a-male-british-child-turns-10-at-10-10-on-the-10th-day-of-the-10th-month-of-2010.md)
@@ -103,9 +103,9 @@ _Context: Bonhams, Dubai, Iran_
 ### [2 Communist Party of India-Marxist (CPI-M) workers are shot dead by suspected Maoists at Balarampur in Maoist-hit Purulia district. ](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.md)
 _Context: Balarampur, Communist Party of India-Marxist, Maoist, Purulia district_
 
-##### U.S.
+##### United States
 ### [The United States fires four missiles in Shewa district about 40 kilometres northeast of the region's main town of Miramshah, North Waziristan, Pakistan, killing seven and destroying two cars, as the country increases its attacks on the tribal area. ](/news/2010/10/10/the-united-states-fires-four-missiles-in-shewa-district-about-40-kilometres-northeast-of-the-region-s-main-town-of-miramshah-north-wazirist.md)
-_Context: Miramshah, North Waziristan, Pakistan, Shewa, U.S._
+_Context: Miramshah, North Waziristan, Pakistan, Shewa, United States_
 
 ##### Anti-gay
 ### [110 people are injured and 200 people are arrested as anti-gay protesters and police clash in Belgrade at Serbia's first gay pride parade event since 2001. ](/news/2010/10/10/110-people-are-injured-and-200-people-are-arrested-as-anti-gay-protesters-and-police-clash-in-belgrade-at-serbia-s-first-gay-pride-parade-ev.md)

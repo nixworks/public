@@ -35,9 +35,9 @@ _Context: Guerrero, Mexico_
 ### [Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. ](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.md)
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 
 
-##### South Korean President
+##### South Korean president
 ### [The President of South Korea Lee Myung-bak calls on North Korea to abandon its nuclear and missile programs. ](/news/2011/03/1/the-president-of-south-korea-lee-myung-bak-calls-on-north-korea-to-abandon-its-nuclear-and-missile-programs.md)
-_Context: Lee Myung-bak, North Korea, South Korean President_
+_Context: Lee Myung-bak, North Korea, South Korean president_
 
 ##### New Zealand
 ### [New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md)
@@ -61,7 +61,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 
 ##### NATO
 ### [NATO forces kill 9 Afghan children while they collected firewood; this is the third NATO attack on civilians in the last 2 weeks.](/news/2011/03/1/nato-forces-kill-9-afghan-children-while-they-collected-firewood-this-is-the-third-nato-attack-on-civilians-in-the-last-2-weeks.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### Anti-government protests
 ### [2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. ](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-take-place-with-security-forces-firing-into-the-air-in-an-attempt-to-disperse-protesters.md)

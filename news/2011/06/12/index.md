@@ -15,7 +15,7 @@ _Context: Bangladesh_
 ### [Indian activist Swami Ramdev ends a hunger strike against corruption. ](/news/2011/06/12/indian-activist-swami-ramdev-ends-a-hunger-strike-against-corruption.md)
 The activists of Patanjali Yog Samiti and many non governmental organisations welcomed the decision of yoga guru Baba Ramdev to end his nine-day long fast on Sunday. As the news was flashed on the news channels, the supporters of Baba greeted one another. 
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council reports that Iran is buying foreign banks and money-exchange bureaus to sidestep economic sanctions. ](/news/2011/06/12/the-united-nations-security-council-reports-that-iran-is-buying-foreign-banks-and-money-exchange-bureaus-to-sidestep-economic-sanctions.md)
 Leaked report by the UNSC says Iran is circumventing sanctions through foreign money-exchange bureaus and banks.
 

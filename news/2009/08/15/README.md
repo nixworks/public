@@ -21,7 +21,7 @@ Nineteen people died and at least another 20 were hurt in a prison fight on Frid
 
 ##### Suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: Afghan, Kabul, NATO, suicide bomb_
+_Context: Afghanistan, Kabul, NATO, suicide bomb_
 
 ##### MV ''Arctic Sea''
 ### [ A ransom demand is made for the missing ship. ](/news/2009/08/15/a-ransom-demand-is-made-for-the-missing-ship.md)
@@ -37,7 +37,7 @@ _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World W
 
 ##### Colombia
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: Colombia, U.S._
+_Context: Colombia, United States_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)

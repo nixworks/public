@@ -9,7 +9,7 @@ _Context: Dresden, Dresden Frauenkirche, East Germany, German, Horst Khler, Pres
 
 ##### Pyongyang
 ### [ After an official 3-day visit to Pyongyang, North Korea, President Hu Jintao of the People's Republic of China returns to Beijing, having reached new directions in Sino-DPRK relations. This comes after North Korean Leader Kim Jong-il called Hu the "most respected guest". ](/news/2005/10/30/after-an-official-3-day-visit-to-pyongyang-north-korea-president-hu-jintao-of-the-people-s-republic-of-china-returns-to-beijing-having-r.md)
-_Context: Beijing, China, Chinese President, Hu Jintao, Kim Jong-il, North Korea, Pyongyang, leader_
+_Context: Beijing, China, Hu Jintao, Kim Jong-il, North Korea, President, Pyongyang, leader_
 
 ##### Rioting
 ### [ Further rioting occurs overnight in the Parisian suburb of Clichy-sous-Bois following the electrocutions of two teenagers, aged 15 and 17, and a third teenager suffering severe burns when they entered a substation whilst fleeing police. Rioters attacked police and journalists. Critics allege that the teenagers were targeted because they were Muslim, though this claim has been denied by French Interior Minister Nicolas Sarkozy. ](/news/2005/10/30/further-rioting-occurs-overnight-in-the-parisian-suburb-of-clichy-sous-bois-following-the-electrocutions-of-two-teenagers-aged-15-and-17.md)

@@ -9,7 +9,7 @@ _Context: Rice University, arsenic, arsenic contamination of groundwater, iron o
 
 ##### Russia
 ### [ Russia announces that it has reached an agreement with the United States over the terms of Russian entry to the World Trade Organization with a formal deal to be signed next week. ](/news/2006/11/10/russia-announces-that-it-has-reached-an-agreement-with-the-united-states-over-the-terms-of-russian-entry-to-the-world-trade-organization-wi.md)
-_Context: Russia, U.S., World Trade Organization_
+_Context: Russia, United States, World Trade Organization_
 
 ##### Nick Griffin
 ### [ Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. ](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.md)

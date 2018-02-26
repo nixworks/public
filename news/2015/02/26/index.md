@@ -9,7 +9,7 @@ _Context: FCC's, Net neutrality in the United States, North Carolina, Tennessee,
 
 ##### Washington, D.C.
 ### [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md)
-_Context: Alaska, Colorado, U.S., Washington, Washington, D.C., marijuana_
+_Context: Alaska, Colorado, United States, Washington, Washington, D.C., marijuana_
 
 ##### United Nations
 ### [A United Nations report claims that a North Korean shipping company has been renaming and reflagging its vessels to avoid an arms embargo. ](/news/2015/02/26/a-united-nations-report-claims-that-a-north-korean-shipping-company-has-been-renaming-and-reflagging-its-vessels-to-avoid-an-arms-embargo.md)

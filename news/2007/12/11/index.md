@@ -7,7 +7,7 @@ Formats: [HTML](2007/12/11/index.html)  [JSON](2007/12/11/index.json)  [XML](200
 ### [ Al-Qaeda Organization in the Islamic Maghreb claims responsibility for two simultaneous bombings in Algiers, Algeria, causing at least 62 deaths and more injuries. ](/news/2007/12/11/al-qaeda-organization-in-the-islamic-maghreb-claims-responsibility-for-two-simultaneous-bombings-in-algiers-algeria-causing-at-least-62-d.md)
 _Context: Al Qaeda in the Islamic Maghreb, Algeria, Algiers, two simultaneous bombings_
 
-##### U.S.
+##### United States
 ### [ The United States Federal Reserve cuts federal funds rates and discount rates by a quarter of a percentage point to 4.25% and 4.75% respectively, signaling its concerns about the impact of the subprime mortgage financial crisis on the United States economy. ](/news/2007/12/11/the-united-states-federal-reserve-cuts-federal-funds-rates-and-discount-rates-by-a-quarter-of-a-percentage-point-to-4-25-and-4-75-respect.md)
 In announcing the cut, the Federal Reserve signaled its concern that the credit crisis may be damaging the broader economy. The Dow fell nearly 300 points.
 

@@ -31,9 +31,9 @@ _Context: Buddha Air, Mount Everest, Nepal, crashes_
 ### [Gunfire is reported at a Central Intelligence Agency (CIA) compound in the Afghan capital Kabul. ](/news/2011/09/25/gunfire-is-reported-at-a-central-intelligence-agency-cia-compound-in-the-afghan-capital-kabul.md)
 An Afghan employee kills one US citizen and wounds another before being shot dead at a compound believed to house the CIA station in the Afghan capital, Kabul, officials say.
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council urges all sides in the 2011 Yemeni uprising to "show maximum restraint". ](/news/2011/09/25/the-united-nations-security-council-urges-all-sides-in-the-2011-yemeni-uprising-to-show-maximum-restraint.md)
-_Context: 2011 Yemeni uprising, Security Council_
+_Context: 2011 Yemeni uprising, United Nations Security Council_
 
 ##### Iraq
 ### [Four consecutive bombings kill at least 10 people and injure 70 others in the Iraqi city of Karbala. ](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.md)

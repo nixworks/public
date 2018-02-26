@@ -63,9 +63,9 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
 _Context: Islamabad, Pakistan, Swabi_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: Pakistan, U.S., drone aircraft, drone attack_
+_Context: Pakistan, United States, drone aircraft, drone attack_
 
 ##### Lashkar-e-Toiba
 ### [Four militants, including two from Lashkar-e-Toiba (LET), are killed in separate gun battles with security forces in Kupwara and Kulgam districts of Kashmir Valley, India. ](/news/2010/11/1/four-militants-including-two-from-lashkar-e-toiba-let-are-killed-in-separate-gun-battles-with-security-forces-in-kupwara-and-kulgam-dist.md)
@@ -87,9 +87,9 @@ Photographs, diaries and remarkable amateur film charting the epic rescue of ref
 ### [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md)
 _Context: African Union, Al-Shabaab, Islamist, Mogadishu, Somalia_
 
-##### Afghan
+##### Afghanistan
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghan, Garmser, Helmand River, Lashkar Gah_
+_Context: Afghanistan, Garmser, Helmand River, Lashkar Gah_
 
 ## [Previous Day...](/news/2010/10/31/index.md)
 

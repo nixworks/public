@@ -19,9 +19,9 @@ _Context: Agricultural Bank of China, Communist Party Secretary, Jiang Chaoliang
 ### [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md)
 Turkey said it had dismissed a further 10,000 civil servants and closed 15 more media outlets over suspected links with terrorist organizations and U.S.-based cleric Fethullah Gulen, blamed by Ankara for orchestrating a failed coup in July.
 
-##### U.S.
+##### United States
 ### [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md)
-_Context: Istanbul, Turkey, U.S., U.S. Mission_
+_Context: Istanbul, Turkey, U.S. Mission, United States_
 
 ##### Boko Haram insurgency
 ### [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md)

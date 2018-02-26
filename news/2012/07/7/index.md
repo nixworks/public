@@ -43,7 +43,7 @@ A 22-year-old woman is arrested in east London in connection with a counter-terr
 ### [Cuban leader Raul Castro makes his first visit to Beijing since succeeding Fidel Castro in 2008; trade deals are signed between China and Cuba. ](/news/2012/07/7/cuban-leader-raaol-castro-makes-his-first-visit-to-beijing-since-succeeding-fidel-castro-in-2008-trade-deals-are-signed-between-china-and-c.md)
 _Context: Beijing, Fidel Castro, Raul Castro_
 
-##### Afghan
+##### Afghanistan
 ### [The United States declares Afghanistan one of its major non-NATO allies, a designation that permits it to buy advanced U.S. weaponry. ](/news/2012/07/7/the-united-states-declares-afghanistan-one-of-its-major-non-nato-allies-a-designation-that-permits-it-to-buy-advanced-u-s-weaponry.md)
 Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan donors gather for conference in Japan.
 

@@ -13,7 +13,7 @@ _Context: Barack Obama, Hillary Clinton, U.S. President, United States Secretary
 
 ##### Raymond Davis
 ### [Raymond Davis, an official with the United States embassy in Pakistan, is acquitted of charges of two counts of murder and released from jail after compensation is paid to the victims' families, the result of intense diplomatic talks between the United States and Pakistan.](/news/2011/03/16/raymond-davis-an-official-with-the-united-states-embassy-in-pakistan-is-acquitted-of-charges-of-two-counts-of-murder-and-released-from-jai.md)
-_Context: Pakistan, Raymond Davis, U.S._
+_Context: Pakistan, Raymond Davis, United States_
 
 ##### Cambodia
 ### [Police in Cambodia ask prosecutors to charge recruitment firm T&P with illegally detaining its staff. ](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.md)

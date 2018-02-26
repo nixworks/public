@@ -11,9 +11,9 @@ _Context: Parliament of Romania, Romania, Traian Basescu, corruption, graft_
 ### [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md)
 * Gas deal part of supply talks since early this year* Five cargoes to be delivered by year-end* Sisi, Algeria talk over security, Libya (A
 
-##### U.S.
+##### United States
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: Jama'at-ud-Dawa, LeT, U.S._
+_Context: Jama'at-ud-Dawa, LeT, United States_
 
 ##### China
 ### [The People's Republic of China sends its first minister-level official to Taiwan to build ties with the self-governing island amid trade suspicions. ](/news/2014/06/25/the-people-s-republic-of-china-sends-its-first-minister-level-official-to-taiwan-to-build-ties-with-the-self-governing-island-amid-trade-sus.md)

@@ -13,7 +13,7 @@ _Context: 11th Panchen Lama, Razheng Monastery_
 
 ##### Somalia
 ### [Two men bound for Somalia to join an Islamic extremist group with links to Al-Qaeda are arrested at Kennedy International Airport, New York City, United States. ](/news/2010/06/6/two-men-bound-for-somalia-to-join-an-islamic-extremist-group-with-links-to-al-qaeda-are-arrested-at-kennedy-international-airport-new-york.md)
-_Context: Islamic extremist group, Kennedy International Airport, New York City, Somalia, U.S., al-Qaeda_
+_Context: Islamic extremist group, Kennedy International Airport, New York City, Somalia, United States, al-Qaeda_
 
 ##### French
 ### [French fishermen off the coast of Malta repel an attempt by Greenpeace to obstruct their operations, sinking several Greenpeace Zodiac boats and injuring a Greenpeace activist. ](/news/2010/06/6/french-fishermen-off-the-coast-of-malta-repel-an-attempt-by-greenpeace-to-obstruct-their-operations-sinking-several-greenpeace-zodiac-boats.md)

@@ -33,7 +33,7 @@ Hamas passes new law ordering gender segregation in schools that will go into ef
 
 ##### Arson
 ### [Tonya S. Bundick is charged in connection with seventy arsons in Virginia, United States. ](/news/2013/04/2/tonya-s-bundick-is-charged-in-connection-with-seventy-arsons-in-virginia-united-states.md)
-_Context: U.S., Virginia, arson_
+_Context: United States, Virginia, arson_
 
 ##### Egypt
 ### [Hundreds of Egyptian students angered by an outbreak of food poisoning at Al-Azhar University that affected 479 students storm the offices of Ahmed el-Tayeb, the Grand Imam of Al-Azhar Mosque, a major venue for Sunni Muslim learning with which the university is affiliated. ](/news/2013/04/2/hundreds-of-egyptian-students-angered-by-an-outbreak-of-food-poisoning-at-al-azhar-university-that-affected-479-students-storm-the-offices-o.md)
@@ -71,9 +71,9 @@ _Context: Arusha, Tanzania, quarry_
 ### [Thirteen children are killed in a fire at a mosque in Yangon, Burma. ](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.md)
 The police in Myanmar said Tuesday that 13 children died when an electrical fire broke out at a mosque in Yangon, the country’s largest city.
 
-##### U.S.
+##### United States
 ### [United States Government owned mortgage firms Fannie Mae and Freddie Mac announce record profits during 2012. ](/news/2013/04/2/united-states-government-owned-mortgage-firms-fannie-mae-and-freddie-mac-announce-record-profits-during-2012.md)
-_Context: Fannie Mae, Freddie Mac, U.S., United States Government, mortgage_
+_Context: Fannie Mae, Freddie Mac, United States, United States Government, mortgage_
 
 ##### European Union
 ### [Official European Union figures shows that unemployment in the eurozone hit a record high of 12.0% in February 2013. ](/news/2013/04/2/official-european-union-figures-shows-that-unemployment-in-the-eurozone-hit-a-record-high-of-12-0-in-february-2013.md)

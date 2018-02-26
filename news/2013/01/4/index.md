@@ -57,7 +57,7 @@ Six Russian tourists die as their snowmobile flips over during a night-time run 
 
 ##### Beechcraft BE35
 ### [Three people are killed when a Beechcraft BE35 plane crashes into a home near Daytona Beach, Florida, United States. ](/news/2013/01/4/three-people-are-killed-when-a-beechcraft-be35-plane-crashes-into-a-home-near-daytona-beach-florida-united-states.md)
-_Context: Beechcraft BE35, Daytona Beach, Florida, U.S._
+_Context: Beechcraft BE35, Daytona Beach, Florida, United States_
 
 ##### Henan
 ### [At least seven children are killed in a fire at an orphanage in Henan, China. ](/news/2013/01/4/at-least-seven-children-are-killed-in-a-fire-at-an-orphanage-in-henan-china.md)
@@ -67,7 +67,7 @@ A fire at a private shelter for orphans and abandoned children in central China 
 ### [Swiss bank Wegelin & Co., the nation's oldest, will cease to operate after pleading guilty to a US tax evasion case and being fined $57.8 million. ](/news/2013/01/4/swiss-bank-wegelin-co-the-nation-s-oldest-will-cease-to-operate-after-pleading-guilty-to-a-us-tax-evasion-case-and-being-fined-57-8-mi.md)
 _Context: Wegelin & Co._
 
-##### U.S.
+##### United States
 ### [Joblessness in the United States remains constant, with latest official figures showing a modest job creation total of 155,000. ](/news/2013/01/4/joblessness-in-the-united-states-remains-constant-with-latest-official-figures-showing-a-modest-job-creation-total-of-155-000.md)
 Unemployment figures remain constant as government struggles with fiscal cliff negotiations.
 

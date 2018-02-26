@@ -53,7 +53,7 @@ _Context: Islamic State in Iraq and the Levant, Kurd, Suluk, Syria, Syrian Civil
 
 ##### War in Afghanistan
 ### [The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md)
-_Context: Afghan, Helmand, Taliban, War in Afghanistan_
+_Context: Afghanistan, Helmand, Taliban, War in Afghanistan_
 
 ## [Previous Day...](/news/2015/06/12/index.md)
 

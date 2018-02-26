@@ -35,9 +35,9 @@ _Context: Japan Coast Guard, Senkaku Islands, Taiwan_
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
 _Context: Baja California peninsula, magnitude_
 
-##### U.S.
+##### United States
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Andy Williams, Branson, Missouri, U.S._
+_Context: Andy Williams, Branson, Missouri, United States_
 
 ##### China
 ### [The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. ](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.md)

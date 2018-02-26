@@ -19,9 +19,9 @@ _Context: Anapa, Pulkovo Airlines Flight 612, Russia, Saint Petersburg, Tupolev 
 ### [ Nominations have been called for the first Nunatsiavut Assembly General Election. The election will be held on October 3, 2006. ](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.md)
 _Context: Nunatsiavut_
 
-##### U.S.
+##### United States
 ### [ U.S. sprinter Justin Gatlin agrees to an eight-year ban from track and field for a positive drug test. He forfeits the world record he equalled in May. ](/news/2006/08/22/u-s-sprinter-justin-gatlin-agrees-to-an-eight-year-ban-from-track-and-field-for-a-positive-drug-test-he-forfeits-the-world-record-he-equa.md)
-_Context: Justin Gatlin, U.S., track and field_
+_Context: Justin Gatlin, United States, track and field_
 
 ##### Russia
 ### [ Russian mathematician Grigori Perelman refuses the Fields Medal. ](/news/2006/08/22/russian-mathematician-grigori-perelman-refuses-the-fields-medal.md)

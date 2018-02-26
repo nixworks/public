@@ -7,9 +7,9 @@ Formats: [HTML](2008/08/6/index.html)  [JSON](2008/08/6/index.json)  [XML](2008/
 ### [ Leader of Malaysian opposition Anwar Ibrahim is formally charged with sodomy, which he claims is a politically motivated charge. ](/news/2008/08/6/leader-of-malaysian-opposition-anwar-ibrahim-is-formally-charged-with-sodomy-which-he-claims-is-a-politically-motivated-charge.md)
 _Context: Anwar Ibrahim, Malaysia, sodomy_
 
-##### U.S.
+##### United States
 ### [ The United States FBI claims scientist Bruce Ivins was responsible for the anthrax scares of 2001 that killed five people and made 17 others ill. ](/news/2008/08/6/the-united-states-fbi-claims-scientist-bruce-ivins-was-responsible-for-the-anthrax-scares-of-2001-that-killed-five-people-and-made-17-other.md)
-_Context: Bruce Ivins, FBI, U.S., anthrax, scientist_
+_Context: Bruce Ivins, FBI, United States, anthrax, scientist_
 
 ##### UH-1H
 ### [ A UH-1H helicopter of the Royal Thai Air Force crashes in Thailand, killing ten. ](/news/2008/08/6/a-uh-1h-helicopter-of-the-royal-thai-air-force-crashes-in-thailand-killing-ten.md)
@@ -21,7 +21,7 @@ A coup has taken place in Mauritania, where the army has seized the President an
 
 ##### Salim Hamdan
 ### [ Salim Hamdan, the former driver for Osama Bin Laden, is convicted of supporting terrorism in the United States in the first military war crimes trial of a terror suspect captured after the September 11, 2001 attacks. ](/news/2008/08/6/salim-hamdan-the-former-driver-for-osama-bin-laden-is-convicted-of-supporting-terrorism-in-the-united-states-in-the-first-military-war-cr.md)
-_Context: Osama Bin Laden, Salim Hamdan, September 11, 2001 attacks, U.S., terrorism_
+_Context: Osama Bin Laden, Salim Hamdan, September 11, 2001 attacks, United States, terrorism_
 
 ##### Baku-Tbilisi-Ceyhan pipeline
 ### [ An explosion on the Baku-Tbilisi-Ceyhan pipeline halts oil supplies through one of the biggest pipelines in the world. ](/news/2008/08/6/an-explosion-on-the-baku-tbilisi-ceyhan-pipeline-halts-oil-supplies-through-one-of-the-biggest-pipelines-in-the-world.md)

@@ -17,8 +17,8 @@ Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopt
 
 ### Related:
 
-1. [At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. ](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-the-daman-district-in-the-kandahar-province-of-afghanistan.md) _Context: Afghan, Daman district, Kandahar Province_
-2. [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: Afghan, U.S._
-3. [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _Context: Afghan, Kandahar Province_
-4. [A U.S. KC-135 tanker aircraft on its way to Afghanistan crashes in northern Kyrgyzstan after a mid-flight explosion. ](/news/2013/05/3/a-u-s-kc-135-tanker-aircraft-on-its-way-to-afghanistan-crashes-in-northern-kyrgyzstan-after-a-mid-flight-explosion.md) _Context: Afghan, U.S._
-5. [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _Context: Afghan, Kandahar Province_
+1. [At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. ](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-the-daman-district-in-the-kandahar-province-of-afghanistan.md) _Context: Afghanistan, Daman district, Kandahar Province_
+2. [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: Afghanistan, U.S._
+3. [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _Context: Afghanistan, Kandahar Province_
+4. [A U.S. KC-135 tanker aircraft on its way to Afghanistan crashes in northern Kyrgyzstan after a mid-flight explosion. ](/news/2013/05/3/a-u-s-kc-135-tanker-aircraft-on-its-way-to-afghanistan-crashes-in-northern-kyrgyzstan-after-a-mid-flight-explosion.md) _Context: Afghanistan, U.S._
+5. [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _Context: Afghanistan, Kandahar Province_

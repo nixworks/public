@@ -25,7 +25,7 @@ _Context: Ahmadiyya, Mandi Bahauddin, Mosque, Pakistan, Punjab, Salah_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: U.S. Troops kill four Afghan police, after mistaking them for militants in the Girishk district of the Helmand Province. ](/news/2005/10/7/conflict-in-afghanistan-u-s-troops-kill-four-afghan-police-after-mistaking-them-for-militants-in-the-girishk-district-of-the-helmand-pro.md)
-_Context: Afghan, Helmand Province, United States soldier, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Helmand Province, United States soldier, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2005/10/6/index.md)
 

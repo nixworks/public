@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/7/index.html)  [JSON](2009/04/7/index.json)  [XML](2009/
 
 ##### General Assembly
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: General Assembly, U.S., Vermont, legalizes, same-sex marriage_
+_Context: General Assembly, United States, Vermont, legalizes, same-sex marriage_
 
 ##### Australia
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
@@ -35,9 +35,9 @@ _Context: Batang Ai, Bukit Gantang, Bukit Selambau, Malaysia, by-election_
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
 _Context: Alberto Fujimori, Peru, President, convicted, human rights, jail_
 
-##### U.S.
+##### United States
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S., U.S. District Court in Washington, D.C., United States Senate, conviction_
+_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court in Washington, D.C., United States, United States Senate, conviction_
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)

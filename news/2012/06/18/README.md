@@ -53,7 +53,7 @@ Ozzy and Sharon Osbourne reveal that son Jack has the incurable neurological con
 
 ##### NATO
 ### [Three men in Afghan police uniform kill a NATO soldier in eastern Afghanistan.](/news/2012/06/18/three-men-in-afghan-police-uniform-kill-a-nato-soldier-in-eastern-afghanistan.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ##### Pakistan
 ### [A bomb explodes near a university bus in the Pakistani city of Quetta killing at least two students and injuring more than 35 others. ](/news/2012/06/18/a-bomb-explodes-near-a-university-bus-in-the-pakistani-city-of-quetta-killing-at-least-two-students-and-injuring-more-than-35-others.md)

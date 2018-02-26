@@ -9,7 +9,7 @@ A former employee &quot;with a grudge&quot; crashes into workers at a Mazda plan
 
 ##### Nikki Haley
 ### [Nikki Haley wins the Republican Party primary to be the Republican candidate in the South Carolina gubernatorial election in the United States. ](/news/2010/06/22/nikki-haley-wins-the-republican-party-primary-to-be-the-republican-candidate-in-the-south-carolina-gubernatorial-election-in-the-united-stat.md)
-_Context: Nikki Haley, Republican, South Carolina, U.S., gubernatorial election, primary election_
+_Context: Nikki Haley, Republican, South Carolina, United States, gubernatorial election, primary election_
 
 ##### George Osborne
 ### [In the United Kingdom, Chancellor George Osborne presents the coalition government's emergency budget statement to the House of Commons. ](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.md)
@@ -51,7 +51,7 @@ In a new magazine profile, the top commander in Afghanistan, Army Gen. Stanley A
 ### [Israel asks the United Nations to suspend attempts to organise an international inquiry into the Gaza flotilla raid, with Israeli Defence Minister Ehud Barak saying "some organisation, probably backed by a terror organisation, (is) once again trying to send a vessel into Gaza." ](/news/2010/06/22/israel-asks-the-united-nations-to-suspend-attempts-to-organise-an-international-inquiry-into-the-gaza-flotilla-raid-with-israeli-defence-mi.md)
 Israel asks the UN to ditch an international inquiry into an Israeli raid on a ship trying to break the Gaza blockade.
 
-##### U.S.
+##### United States
 ### [The United States investigates itself to see if it is accidentally financing the Taliban in Afghanistan with $4 million per week in U.S. taxpayers' money. ](/news/2010/06/22/the-united-states-investigates-itself-to-see-if-it-is-accidentally-financing-the-taliban-in-afghanistan-with-4-million-per-week-in-u-s-tax.md)
 Report alleges transport contracts and kickbacks are funding Afghan armed groups.
 

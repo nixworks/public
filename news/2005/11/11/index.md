@@ -13,7 +13,7 @@ _Context: Influenza A virus subtype H5N1, Kuwait, Middle East_
 
 ##### Pakistan
 ### [ A Pakistani cargo plane carrying eight to ten people crashes near Kabul, capital of Afghanistan. There are no survivors. The cause of the crash is unknown. ](/news/2005/11/11/a-pakistani-cargo-plane-carrying-eight-to-ten-people-crashes-near-kabul-capital-of-afghanistan-there-are-no-survivors-the-cause-of-the-c.md)
-_Context: Afghan, Kabul, Pakistan, cargo plane_
+_Context: Afghanistan, Kabul, Pakistan, cargo plane_
 
 ##### Albania
 ### [ Albania suffers its worst ever electric power shortage. Due to low water levels, hydroelectric power is reduced to the minimum and there are blackouts in all the country. Water supplies won't last for more than two weeks, so electricity is currently available just six hours a day. The government plans to import power from Romania, Bulgaria and Italy. ](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.md)

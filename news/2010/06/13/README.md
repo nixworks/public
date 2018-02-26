@@ -101,7 +101,7 @@ _Context: International Whaling Commission, Japan, The Sunday Times, whaling_
 
 ##### Dai Kundi
 ### [10 police were killed in an attack on Sunday on an outpost in Dai Kundi province in central Afghanistan. ](/news/2010/06/13/10-police-were-killed-in-an-attack-on-sunday-on-an-outpost-in-dai-kundi-province-in-central-afghanistan.md)
-_Context: Afghan, Dai Kundi_
+_Context: Afghanistan, Dai Kundi_
 
 ##### Egyptian security forces
 ### [Egyptian security forces beat protesters at a demonstration against human rights abuses in Egypt and an incident of police brutality that resulted in the death of a young man a week ago. ](/news/2010/06/13/egyptian-security-forces-beat-protesters-at-a-demonstration-against-human-rights-abuses-in-egypt-and-an-incident-of-police-brutality-that-re.md)

@@ -19,7 +19,7 @@ The inauguration of Afghanistan&#039;s new parliament has been delayed by a mont
 ### [Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. ](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.md)
 _Context: Communist Party, Nguyen Phu Trong, Nong Duc Manh, Vietnam, elected_
 
-##### U.S.
+##### United States
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.
 
@@ -73,7 +73,7 @@ China and the US sign a trade deal that includes the $19bn purchase of 200 Boein
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. ](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in-afghanistan-s-paktika-province.md)
-_Context: Afghan, Paktika Province, suicide bomber_
+_Context: Afghanistan, Paktika Province, suicide bomber_
 
 ##### Suicide bomber
 ### [A suicide bomber driving an ambulance kills at least 12 people and injures another 50 in Iraq's Diyala Governorate. ](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.md)

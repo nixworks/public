@@ -73,7 +73,7 @@ A suicide attack at the gates of a Mogadishu hotel where the new Somali leader i
 
 ##### War in Afghanistan
 ### [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
-_Context: Afghan, Hamid Karzai, War in Afghanistan, War on Terror_
+_Context: Afghanistan, Hamid Karzai, War in Afghanistan, War on Terror_
 
 ##### Syrian civil war
 ### [Rebels kill 18 soldiers in Idlib Governorate in a car bomb and ground attack on a military installation. ](/news/2012/09/12/rebels-kill-18-soldiers-in-idlib-governorate-in-a-car-bomb-and-ground-attack-on-a-military-installation.md)

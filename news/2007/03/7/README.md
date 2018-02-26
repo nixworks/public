@@ -37,7 +37,7 @@ _Context: Israel Defence Forces, Palestinian Authority, Ramallah, military intel
 
 ##### Foreign Minister
 ### [ Foreign Minister of Iran Manouchehr Mottaki confirms that Iran will attend a conference on Iraq featuring Iraq's neighbours and the permanent members of the United Nations Security Council. ](/news/2007/03/7/foreign-minister-of-iran-manouchehr-mottaki-confirms-that-iran-will-attend-a-conference-on-iraq-featuring-iraq-s-neighbours-and-the-permane.md)
-_Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, Security Council_
+_Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, United Nations Security Council_
 
 ##### President
 ### [ President of Mauritius Anerood Jugnauth threatens to leave the Commonwealth of Nations over the British government's treatment of the lois of the Chagos Archipelago. ](/news/2007/03/7/president-of-mauritius-anerood-jugnauth-threatens-to-leave-the-commonwealth-of-nations-over-the-british-government-s-treatment-of-the-ilois.md)

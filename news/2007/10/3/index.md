@@ -3,7 +3,7 @@ Formats: [HTML](2007/10/3/index.html)  [JSON](2007/10/3/index.json)  [XML](2007/
 
 ## [2007-10-3](/news/2007/10/3/index.md)
 
-##### South Korean President
+##### South Korean president
 ### [ The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md)
 The deal sets a timetable for North Korea to disable all of its nuclear facilities in return for economic aid.
 
@@ -23,13 +23,13 @@ Benazir Bhutto left open the possibility that her party would resign from Parlia
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
 _Context: Baghdad, Edward Pietrzyk, Iraq, Poland, ambassador, bodyguard, roadside bomb_
 
-##### U.S.
+##### United States
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
-_Context: George W. Bush, State Children's Health Insurance Program, U.S., U.S. President_
+_Context: George W. Bush, State Children's Health Insurance Program, U.S. President, United States_
 
-##### U.S.
+##### United States
 ### [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md)
-_Context: Mars, NASA, Russia, U.S., moon, water_
+_Context: Mars, NASA, Russia, United States, moon, water_
 
 ##### Gold mine
 ### [ More than 3,000 gold miners are trapped underground in the Elandskraal mine at Elandsrand, northwest of Johannesburg, South Africa, owned by Harmony Gold Mining. ](/news/2007/10/3/more-than-3-000-gold-miners-are-trapped-underground-in-the-elandskraal-mine-at-elandsrand-northwest-of-johannesburg-south-africa-owned-b.md)

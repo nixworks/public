@@ -23,9 +23,9 @@ _Context: Movement for the Emancipation of the Niger Delta, Niger delta, Nigeria
 ### [The death toll from flooding in southern Peru rises to 20. ](/news/2010/01/31/the-death-toll-from-flooding-in-southern-peru-rises-to-20.md)
 _Context: Peru_
 
-##### M<sub>w</sub>&nbsp;5.2
+##### Magnitude
 ### [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md)
-_Context: Chinese, M<sub>w</sub>&nbsp;5.2, Sichuan, earthquake, province_
+_Context: Chinese, Sichuan, earthquake, magnitude, province_
 
 ##### Egypt
 ### [Egypt become African Cup of Nations champions for a record third consecutive title after beating Ghana 1-0 in Estdio 11 de Novembro, Luanda, Angola, in the 2010 Africa Cup of Nations final. ](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.md)

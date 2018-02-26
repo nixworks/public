@@ -31,7 +31,7 @@ _Context: BBC, News Corporation, Panorama_
 ### [Dominique Strauss-Kahn, the former head of the International Monetary Fund, is placed under formal investigation in France over alleged involvement in a prostitution ring. ](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.md)
 The former head of the International Monetary Fund, Dominique Strauss-Kahn, faces possible charges in France over an alleged prostitution ring.
 
-##### U.S.
+##### United States
 ### [The United States and China agree to co-ordinate their responses if a proposed North Korean rocket launch commences. ](/news/2012/03/26/the-united-states-and-china-agree-to-co-ordinate-their-responses-if-a-proposed-north-korean-rocket-launch-commences.md)
 China and the US will co-ordinate their response to a controversial North Korean rocket launch, the White House says, as Korea tensions rise.
 
@@ -71,9 +71,9 @@ _Context: Colombia, FARC_
 ### [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md)
 _Context: Chinese, Hu Jintao, India, New Delhi, Tibet, self-immolation_
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan police officer shoots and kills two British military personnel before being gunned down. ](/news/2012/03/26/an-afghan-police-officer-shoots-and-kills-two-british-military-personnel-before-being-gunned-down.md)
-_Context: Afghan, British military_
+_Context: Afghanistan, British military_
 
 ## [Previous Day...](/news/2012/03/25/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/11/index.html)  [JSON](2010/10/11/index.json)  [XML](201
 
 ##### Surgeon
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
+_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
 
 ##### Government of Bolivia
 ### [The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. ](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.md)

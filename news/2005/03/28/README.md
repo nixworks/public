@@ -29,7 +29,7 @@ _Context: Israel, disengagement plan, parliament in Israel, referendum_
 
 ##### Sumatran earthquake
 ### [ 2005 Sumatran earthquake: An earthquake of moment magnitude 8.7 is reported off the west coast of North Sumatra, likely an aftershock of the 2004 Indian Ocean earthquake. Concerned about the threat of a tsunami, emergency evacuations begin in Malaysia, Thailand, and Sri Lanka, although no significant tsunami activity is reported. Indonesia's vice-president reports up to 2,000 deaths ](/news/2005/03/28/2005-sumatran-earthquake-an-earthquake-of-moment-magnitude-8-7-is-reported-off-the-west-coast-of-north-sumatra-likely-an-aftershock-of-th.md)
-_Context: 2004 Indian Ocean earthquake, Indonesia, M<sub>w</sub>&nbsp;5.2, Malaysia, North Sumatra, Sri Lanka, Sumatran earthquake, Thailand, aftershock, earthquake, evacuation, tsunami_
+_Context: 2004 Indian Ocean earthquake, Indonesia, Malaysia, North Sumatra, Sri Lanka, Sumatran earthquake, Thailand, aftershock, earthquake, evacuation, magnitude, tsunami_
 
 ##### Kuomintang (Chinese Nationalist Party)
 ### [ The Kuomintang's 34-member delegation led by KMT Vice Chairman Chiang Pin-kun arrives on a landmark official visit to mainland China, the first since the end of Chinese Civil War in 1949. On their first day, the delegates pay homage at the Mausoleum of the 72 Martyrs in Huanghuagang (Yellow Flower Knoll), Guangzhou in the province of Guangdong. ](/news/2005/03/28/the-kuomintang-s-34-member-delegation-led-by-kmt-vice-chairman-chiang-pin-kun-arrives-on-a-landmark-official-visit-to-mainland-china-the-f.md)

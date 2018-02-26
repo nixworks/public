@@ -3,9 +3,9 @@ Formats: [HTML](2011/01/21/index.html)  [JSON](2011/01/21/index.json)  [XML](201
 
 ## [2011-01-21](/news/2011/01/21/index.md)
 
-##### U.S.
+##### United States
 ### [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md)
-_Context: 2011 Tucson shooting, Gabrielle Giffords, Houston, Texas, Tucson, Arizona, U.S., United States House of Representatives, hospital_
+_Context: 2011 Tucson shooting, Gabrielle Giffords, Houston, Texas, Tucson, Arizona, United States, United States House of Representatives, hospital_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi of Burma obtains Internet access at her home in Rangoon; it is believed she has never been online. ](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.md)

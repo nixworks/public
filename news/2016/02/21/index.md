@@ -13,7 +13,7 @@ With more than 80% of votes counted, President Evo Morales of Bolivia is losing 
 
 ##### Macedonian parliamentary election, 2016
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context: Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, U.S._
+_Context: Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, Republic of Macedonia, United States_
 
 ##### Ashraf Rifi
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)
@@ -61,7 +61,7 @@ _Context: German, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Lib
 
 ##### European migrant crisis
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghan, European migrant crisis, Greece, Republic of Macedonia_
+_Context: Afghanistan, European migrant crisis, Greece, Republic of Macedonia_
 
 ##### 2015-16 South Pacific cyclone season
 ### [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md)

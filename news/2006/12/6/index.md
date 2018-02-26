@@ -29,7 +29,7 @@ _Context: Great Council of Chiefs, Josefa Iloilo, President of Fiji, Ratu, Voreq
 
 ##### Philippe Douste-Blazy
 ### [ Philippe Douste-Blazy, the Foreign Minister of France, says that the United Nations Security Council will impose sanctions on Iran for its nuclear program. However, the five permanent members of the Security Council as well as Germany have failed to agree on what the sanctions should be. ](/news/2006/12/6/philippe-douste-blazy-the-foreign-minister-of-france-says-that-the-united-nations-security-council-will-impose-sanctions-on-iran-for-its.md)
-_Context: Foreign Minister of France, German, Iran, Philippe Douste-Blazy, Security Council_
+_Context: Foreign Minister of France, German, Iran, Philippe Douste-Blazy, United Nations Security Council_
 
 ##### United States Senate
 ### [ The United States Senate confirms Robert Gates as the next United States Secretary of Defense by 95-2. Gates will be sworn in on December 18. ](/news/2006/12/6/the-united-states-senate-confirms-robert-gates-as-the-next-united-states-secretary-of-defense-by-95-2-gates-will-be-sworn-in-on-december-1.md)
@@ -41,7 +41,7 @@ _Context: Australian House of Representatives, Kay Patterson, Senator, conscienc
 
 ##### Iraq Study Group Report
 ### [ The Iraq Study Group Report calls the situation in Iraq "grave and deteriorating" and calls for a change in strategy including the removal of most United States troops by early 2008. ](/news/2006/12/6/the-iraq-study-group-report-calls-the-situation-in-iraq-grave-and-deteriorating-and-calls-for-a-change-in-strategy-including-the-removal.md)
-_Context: Iraq, Iraq Study Group Report, U.S._
+_Context: Iraq, Iraq Study Group Report, United States_
 
 ##### Kabila government
 ### [ Joseph Kabila, the first freely elected leader of the Democratic Republic of the Congo in 40 years, is inaugurated as President. ](/news/2006/12/6/joseph-kabila-the-first-freely-elected-leader-of-the-democratic-republic-of-the-congo-in-40-years-is-inaugurated-as-president.md)

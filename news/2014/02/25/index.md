@@ -19,9 +19,9 @@ _Context: Parliament of Ukraine_
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)
 John Downey will not be prosecuted because he was able to produce documents proving assurances that he would not face trial.
 
-##### U.S.
+##### United States
 ### [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md)
-_Context: U.S., Viktor Yanukovych_
+_Context: United States, Viktor Yanukovych_
 
 ##### Asiana Airlines
 ### [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md)

@@ -13,7 +13,7 @@ _Context: 2016 United States presidential election recounts, Commonwealth Court 
 
 ##### Murder of Maria Ladenburger
 ### [German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in-freiburg-while-a-similar-case.md)
-_Context: Afghan, Freiburg, Murder of Maria Ladenburger_
+_Context: Afghanistan, Freiburg, Murder of Maria Ladenburger_
 
 ##### 2012 Pakistan garment factory fires
 ### [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md)
@@ -21,7 +21,7 @@ _Context: 2012 Pakistan garment factory fires, Bangkok, Karachi_
 
 ##### China-United States relations
 ### [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md)
-_Context: China, China-United States relations, Donald Trump, One-China policy, President, President-elect, Taiwan, Tsai Ing-wen, U.S._
+_Context: China, China-United States relations, Donald Trump, One-China policy, President, President-elect, Taiwan, Tsai Ing-wen, United States_
 
 ##### Rohingya insurgency in Western Myanmar
 ### [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md)

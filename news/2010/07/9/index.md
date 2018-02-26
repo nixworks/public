@@ -7,7 +7,7 @@ Formats: [HTML](2010/07/9/index.html)  [JSON](2010/07/9/index.json)  [XML](2010/
 ### [19-year-old French sprinter Christophe Lemaitre sets a national record of 9.98 seconds and becomes the first genetic European to run 100 metres in less than 10 seconds. ](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.md)
 A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x20;has&#x20;become&#x20;the&#x20;first&#x20;European&#x20;who&#x20;is&#x20;not&#x20;of&#x20;African&#x20;descent&#x20;to&#x20;run&#x20;100&#x20;metres&#x20;in&#x20;less&#x20;than&#x20;10&#x20;seconds,&#x20;covering&#x20;t...
 
-##### U.S.
+##### United States
 ### [American researchers discover that some fruits and vegetables grown today have less nutritional value than those grown in the 1950s. ](/news/2010/07/9/american-researchers-discover-that-some-fruits-and-vegetables-grown-today-have-less-nutritional-value-than-those-grown-in-the-1950s.md)
 While we&#39;ve been dutifully eating our fruits and vegetables all these years, a strange thing has been happening to our produce. It&#39;s losing its nutrients. 
 
@@ -75,7 +75,7 @@ The Australian government has announced an independent review of the rules behin
 ### [At least 50,000 West Papuans march on the Papua provincial parliament in Jayapura calling for the rejection of special autonomy status offered by Indonesia in favor of independence; 20,000 camp outside the parliament overnight. ](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.md)
 _Context: Indonesia, Jayapura, Papua, Papua, autonomy_
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.md)
 The UN Security Council has condemned a deadly attack on a South Korean warship that killed 46 sailors in March.
 
@@ -101,7 +101,7 @@ An independent autopsy into the death of a human rights activist in DR Congo is 
 
 ##### Suicide bomb
 ### [A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. ](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-the-afghanistan-border-kills-at-least-50.md)
-_Context: Afghan, Federally Administered Tribal Areas, Pakistan, suicide bomb_
+_Context: Afghanistan, Federally Administered Tribal Areas, Pakistan, suicide bomb_
 
 ## [Previous Day...](/news/2010/07/8/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2004/11/19/index.html)  [JSON](2004/11/19/index.json)  [XML](200
 
 ##### U.S. Military
 ### [ U.S. Military officials report that 102 soldiers, 85% of which are serving in Iraq, Kuwait and Afghanistan, have contracted a rather rare blood infection by Acinetobacter baumannii. Military investigators say there is no evidence of biochemical agents in the infection which surfaces occasionally in unsanitary hospitals, but that some soldiers were arriving with infections. ](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.md)
-_Context: Acinetobacter baumannii, Afghan, Iraq, Kuwait, U.S. Military_
+_Context: Acinetobacter baumannii, Afghanistan, Iraq, Kuwait, U.S. Military_
 
 ##### Congressman
 ### [ The U.S. U.S. Congress raises the national debt ceiling by USD 800 billion to a total of USD 8.18 trillion. This makes the new borrowing cap 30% higher than the debt Bush inherited, and 70% of the size of the U.S. economy. ](/news/2004/11/19/the-u-s-u-s-congress-raises-the-national-debt-ceiling-by-usd-800-billion-to-a-total-of-usd-8-18-trillion-this-makes-the-new-borrowing-ca.md)
@@ -33,7 +33,7 @@ _Context: Chen Shui-bian, President, Sino-Japanese relations_
 
 ##### Civil war
 ### [ Sudanese Civil War: At a special session of the United Nations Security Council in Nairobi, Kenya, the government of Sudan and southern rebels sign an agreement which states that both sides will commit themselves to ending the 21-year conflict by December 31. The Council then unanimously passes a resolution which promises substantial aid to the country after the wars in the south and in the region of Darfur come to an end. ](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.md)
-_Context: Darfur conflict, Kenya, Nairobi, Security Council, Sudan, United Nations, civil war_
+_Context: Darfur conflict, Kenya, Nairobi, Sudan, United Nations, United Nations Security Council, civil war_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush arrives at the Asia-Pacific Economic Cooperation summit in Santiago de Chile for talks with China and other nations. The summit's agenda includes nuclear proliferation and new free trade agreements, particularly on agriculture. Bush hopes to revive six-party talks on North Korea's nuclear program and promote the "War on Terrorism". The Chinese delegation ask Bush to take "all measures necessary" to halt the slide in value of the U.S. dollar. About 40,000 people protest against the summit, Bush, the war in Iraq, and globalization; they are blocked by Chilean police with tear gas and water cannon. ](/news/2004/11/19/u-s-president-george-w-bush-arrives-at-the-asia-pacific-economic-cooperation-summit-in-santiago-de-chile-for-talks-with-china-and-other-n.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/4/at-least-24-people-are-killed-in-violence-across
 
 ### [2011-09-4](/news/2011/09/4/index.md)
 
-##### Syria
+##### 2011 Syrian uprising
 # At least 24 people are killed in violence across Syria. 
 
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the

@@ -13,7 +13,7 @@ _Context: India, Journalist, Manipur, newspaper_
 
 ##### South Korea
 ### [ South Korea suspends beef imports from the United States following the discovery of banned parts in a recent shipment. ](/news/2007/08/2/south-korea-suspends-beef-imports-from-the-united-states-following-the-discovery-of-banned-parts-in-a-recent-shipment.md)
-_Context: South Korea, U.S., beef_
+_Context: South Korea, United States, beef_
 
 ##### Earthquake
 ### [ An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. ](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-ocean-off-the-shore-of-vanuatu-measuring-7-2-on-the-richter-scale-but-no-tsunami-is-triggered.md)
@@ -45,7 +45,7 @@ _Context: 2007 attack, Glasgow Royal Infirmary, Kafeel Ahmed_
 
 ##### Mary Peters
 ### [ Mary Peters, the United States Secretary of Transportation, orders an immediate inspection of all truss bridges in the United States following the collapse of the I-35W Mississippi River bridge in Minneapolis. ](/news/2007/08/2/mary-peters-the-united-states-secretary-of-transportation-orders-an-immediate-inspection-of-all-truss-bridges-in-the-united-states-follow.md)
-_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, U.S., truss bridge_
+_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, United States, truss bridge_
 
 ##### United Nations plenary session on climate change
 ### [ The first-ever United Nations plenary session on climate change is extended into a third day due to the large number of 'worried nations' wanting to describe their climate-related problems. ](/news/2007/08/2/the-first-ever-united-nations-plenary-session-on-climate-change-is-extended-into-a-third-day-due-to-the-large-number-of-worried-nations-w.md)

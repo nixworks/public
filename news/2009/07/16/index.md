@@ -17,7 +17,7 @@ _Context: Caspian Airlines, Flight 7908, Iran, black boxes_
 
 ##### Sears Tower
 ### [ The 110-story Sears Tower in Chicago, United States is renamed the Willis Tower. ](/news/2009/07/16/the-110-story-sears-tower-in-chicago-united-states-is-renamed-the-willis-tower.md)
-_Context: Chicago, Sears Tower, U.S., Willis Tower_
+_Context: Chicago, Sears Tower, United States, Willis Tower_
 
 ##### Earthquake
 ### [ A magnitude 6.1 earthquake occurs off the coast of Papua New Guinea but causes little damage. ](/news/2009/07/16/a-magnitude-6-1-earthquake-occurs-off-the-coast-of-papua-new-guinea-but-causes-little-damage.md)
@@ -49,7 +49,7 @@ _Context: Gurbanguly Berdimuhamedow, Turkmenistan, cotton, president_
 
 ##### South Korea
 ### [ Former South Korean President and Nobel Peace Prize winner Kim Dae-jung is in an intensive care unit in a Seoul hospital being treated for pneumonia. ](/news/2009/07/16/former-south-korean-president-and-nobel-peace-prize-winner-kim-dae-jung-is-in-an-intensive-care-unit-in-a-seoul-hospital-being-treated-for.md)
-_Context: Kim Dae-jung, Nobel Peace Prize, Seoul, South Korea, South Korean President, pneumonia_
+_Context: Kim Dae-jung, Nobel Peace Prize, Seoul, South Korea, South Korean president, pneumonia_
 
 ##### Gholam Reza Aghazadeh
 ### [ Gholam Reza Aghazadeh, head of the Atomic Energy Organization of Iran and Vice President of Iran, resigns for unknown reasons. ](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.md)
@@ -61,7 +61,7 @@ _Context: China, GDP, global economic crisis_
 
 ##### United Nations
 ### [ A United Nations Security Council committee imposes further sanctions on North Korea. ](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.md)
-_Context: North Korea, Security Council, United Nations_
+_Context: North Korea, United Nations, United Nations Security Council_
 
 ##### Uganda
 ### [ A Ugandan study finds circumcising men who already have HIV does not protect their female partners from the virus. ](/news/2009/07/16/a-ugandan-study-finds-circumcising-men-who-already-have-hiv-does-not-protect-their-female-partners-from-the-virus.md)

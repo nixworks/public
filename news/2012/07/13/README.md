@@ -77,7 +77,7 @@ Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being a
 
 ##### Hanifa Safi
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghan, Hanifa Safi_
+_Context: Afghanistan, Hanifa Safi_
 
 ##### Suicide bomber
 ### [A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)
@@ -89,7 +89,7 @@ _Context: Cambodia, Thai passenger jet, machine gun_
 
 ##### Bedouin
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: Bedouin, Egypt, Sinai, U.S._
+_Context: Bedouin, Egypt, Sinai, United States_
 
 ##### Delta Air Lines
 ### [Delta Air Lines flight 126 en route to Madrid turns around and lands back at JFK following a security problem with some cut wires being discovered in the plane's bathroom. ](/news/2012/07/13/delta-air-lines-flight-126-en-route-to-madrid-turns-around-and-lands-back-at-jfk-following-a-security-problem-with-some-cut-wires-being-disc.md)

@@ -11,9 +11,9 @@ _Context: Australia, Australian Labor Party, Elections, Morris Iemma, NSW_
 ### [ Xi Jinping is appointed the new CPC Shanghai Committee Secretary, thus becoming the number one figure in Shanghai, replacing acting party chief Han Zheng. He leaves his post as Party chief in Zhejiang. ](/news/2007/03/24/xi-jinping-is-appointed-the-new-cpc-shanghai-committee-secretary-thus-becoming-the-number-one-figure-in-shanghai-replacing-acting-party-c.md)
 The ruling Communist Party appointed Xi Jinping as the top leader of Shanghai.
 
-##### Security Council
+##### United Nations Security Council
 ### [ The United Nations Security Council unanimously adopts Resolution 1747, imposing additional economic sanctions on the Islamic Republic of Iran for its ongoing nuclear programme. ](/news/2007/03/24/the-united-nations-security-council-unanimously-adopts-resolution-1747-imposing-additional-economic-sanctions-on-the-islamic-republic-of-i.md)
-_Context: Islamic Republic of Iran, Resolution 1747, Security Council, economic sanction, produce nuclear fuel on an industrial scale_
+_Context: Islamic Republic of Iran, Resolution 1747, United Nations Security Council, economic sanction, produce nuclear fuel on an industrial scale_
 
 ##### War in Iraq
 ### [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md)

@@ -12,11 +12,11 @@ China’s Communist party chiefs propose constitutional change to allow presiden
 In response, the White House did not rule out direct talks.
 
 ##### Leicester
-### [A major explosion injures at least 6 on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/a-major-explosion-injures-at-least-6-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-and-subsequent-fire-is-unknown.md)
+### [An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-six-injuries-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion.md)
 _Context: England, Leicester_
 
 ##### 2018 Papua New Guinea earthquake
-### [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is.md)
+### [A magnitude 7.5 earthquake strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md)
 _Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands Province, earthquake, magnitude_
 
 ##### Syrian Civil War

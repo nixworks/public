@@ -31,9 +31,9 @@ _Context: Bosnian War, Serbia, Srebrenica massacre_
 ### [Twelve people, including two police officers, are killed in two blasts in the town of Kizlyar in Russia's volatile North Caucasus region of Dagestan. ](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.md)
 _Context: Dagestan, Kizlyar, North Caucasus, the deaths of 12 people occur there in a double suicide attack_
 
-##### Afghan
+##### Afghanistan
 ### [A bicycle-borne bomb kills at least 13 people and injures 45 others in Afghanistan's Helmand province. ](/news/2010/03/31/a-bicycle-borne-bomb-kills-at-least-13-people-and-injures-45-others-in-afghanistan-s-helmand-province.md)
-_Context: Afghan, Helmand province_
+_Context: Afghanistan, Helmand province_
 
 ##### MP
 ### [MPs state the UK government must ensure that military equipment sold to Israel is not used in the occupied territories. ](/news/2010/03/31/mps-state-the-uk-government-must-ensure-that-military-equipment-sold-to-israel-is-not-used-in-the-occupied-territories.md)

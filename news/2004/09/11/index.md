@@ -19,9 +19,9 @@ _Context: Charles Robert Jenkins, North Korea_
 ### [ A United States court martial in Baghdad, Iraq sentences Specialist Armin J. Cruz to eight months in jail for maltreating and conspiring to maltreat Iraqi detainees at Abu Ghraib prison. ](/news/2004/09/11/a-united-states-court-martial-in-baghdad-iraq-sentences-specialist-armin-j-cruz-to-eight-months-in-jail-for-maltreating-and-conspiring-to.md)
 _Context: Abu Ghraib prisoner abuse, Baghdad, Specialist Armin J. Cruz, court martial_
 
-##### Afghan
+##### Afghanistan
 ### [ In Afghanistan, Major General Eric Olson, the operational commander of U.S.-led forces in Afghanistan, says senior leaders of Al Qaeda, probably including Osama bin Laden, are still in command. ](/news/2004/09/11/in-afghanistan-major-general-eric-olson-the-operational-commander-of-u-s-led-forces-in-afghanistan-says-senior-leaders-of-al-qaeda-pro.md)
-_Context: Afghan, Al Qaeda, Eric Olson, Major General, Osama bin Laden_
+_Context: Afghanistan, Al Qaeda, Eric Olson, Major General, Osama bin Laden_
 
 ##### Peter&nbsp;VII
 ### [ Peter&nbsp;VII, the Greek Orthodox Patriarch of Alexandria, dies along with 15 others, including three other bishops, in a helicopter crash en route to Mount Athos. ](/news/2004/09/11/peter-nbsp-vii-the-greek-orthodox-patriarch-of-alexandria-dies-along-with-15-others-including-three-other-bishops-in-a-helicopter-crash.md)

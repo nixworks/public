@@ -65,7 +65,7 @@ _Context: Finland, Netherlands_
 
 ##### Kenya
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, U.S., United Kingdom_
+_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, United Kingdom, United States_
 
 ##### Ja'ar
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)

@@ -11,9 +11,9 @@ Noam Shalit, father of kidnapped IDF soldier Gilad, turns to abductors, asking t
 ### [ With the election of Trish Law in a by-election, the National Assembly for Wales becomes the first legislature in the world to have a majority of female members. ](/news/2006/06/30/with-the-election-of-trish-law-in-a-by-election-the-national-assembly-for-wales-becomes-the-first-legislature-in-the-world-to-have-a-major.md)
 _Context: Trish Law, by-election, legislative assembly_
 
-##### U.S.
+##### United States
 ### [ The United States military orders an investigation into claims that five US soldiers raped an Iraqi woman and then murdered her and three members of her family. ](/news/2006/06/30/the-united-states-military-orders-an-investigation-into-claims-that-five-us-soldiers-raped-an-iraqi-woman-and-then-murdered-her-and-three-m.md)
-_Context: Iraq, U.S._
+_Context: Iraq, United States_
 
 ##### President of Mexico
 ### [ A judge orders the arrest of former Mexican President Luis Echeverra on charges relating to the 1968 Tlatelolco Massacre. ](/news/2006/06/30/a-judge-orders-the-arrest-of-former-mexican-president-luis-echeverria-on-charges-relating-to-the-1968-tlatelolco-massacre.md)

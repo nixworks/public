@@ -37,7 +37,7 @@ A bomb exploded outside a church in the southern Philippines during Sunday morni
 
 ##### United Kingdom
 ### [ Two British service personnel participating in Operation "Panther's Claw" are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
-_Context: Afghan, Operation Panther's Claw, United Kingdom_
+_Context: Afghanistan, Operation Panther's Claw, United Kingdom_
 
 ##### Iran
 ### [ An Iranian political analyst employed by the British embassy in Tehran faces a lengthy prison sentence after being charged with "acting against national security". ](/news/2009/07/5/an-iranian-political-analyst-employed-by-the-british-embassy-in-tehran-faces-a-lengthy-prison-sentence-after-being-charged-with-acting-aga.md)
@@ -53,7 +53,7 @@ _Context: Cairo, Irish, Sudan_
 
 ##### Fellowship of Confessing Anglicans
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
 
 ##### Monorail collision
 ### [ One person dies after a monorail collision at Walt Disney World Resort in Orlando, Florida. ](/news/2009/07/5/one-person-dies-after-a-monorail-collision-at-walt-disney-world-resort-in-orlando-florida.md)

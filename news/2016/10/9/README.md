@@ -29,7 +29,7 @@ The Latest on a wrong-way crash that killed five Vermont high school students (a
 
 ##### Military personnel
 ### [An Afghan Armed Forces Mi-17 helicopter crashes in northern Afghanistan with all seven people onboard, four crewmen and three passengers, dying. ](/news/2016/10/9/an-afghan-armed-forces-mi-17-helicopter-crashes-in-northern-afghanistan-with-all-seven-people-onboard-four-crewmen-and-three-passengers-dy.md)
-_Context: Afghan, military personnel_
+_Context: Afghanistan, military personnel_
 
 ##### Pope Francis
 ### [Pope Francis announces the upcoming creation of 17 new Cardinals; 13 of them will be under the age of 80 and thus able to vote in a future papal conclave to select the new Pope. ](/news/2016/10/9/pope-francis-announces-the-upcoming-creation-of-17-new-cardinals-13-of-them-will-be-under-the-age-of-80-and-thus-able-to-vote-in-a-future-p.md)

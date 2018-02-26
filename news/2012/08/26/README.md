@@ -31,7 +31,7 @@ _Context: Legionellosis, Quebec City_
 ### [A 7.4 magnitude earthquake occurs in the Pacific Ocean off the coast of El Salvador with tsunami warnings in place for Costa Rica, Nicaragua, El Salvador, Honduras, Guatemala, Panama and Mexico. ](/news/2012/08/26/a-7-4-magnitude-earthquake-occurs-in-the-pacific-ocean-off-the-coast-of-el-salvador-with-tsunami-warnings-in-place-for-costa-rica-nicaragua.md)
 Strong magnitude-7.4 earthquake has struck off the coast of El Salvador and a tsunami warning has been issued.
 
-##### U.S.
+##### United States
 ### [The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/the-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi-and-louisiana-a-state.md)
 Forecasters say Tropical Storm Isaac has gained added strength and should be at or near hurricane force when it reaches the Florida Keys later in the day.
 
@@ -39,9 +39,9 @@ Forecasters say Tropical Storm Isaac has gained added strength and should be at 
 ### [Thirty-six people are killed in a bus crash near Yan'an, Shaanxi province of China. ](/news/2012/08/26/thirty-six-people-are-killed-in-a-bus-crash-near-yan-an-shaanxi-province-of-china.md)
 _Context: Chinese, Shaanxi province, Yan'an_
 
-##### Afghan
+##### Afghanistan
 ### [Seventeen villagers including two women in Afghanistan's southern Kajaki district are beheaded by unknown organised people. ](/news/2012/08/26/seventeen-villagers-including-two-women-in-afghanistan-s-southern-kajaki-district-are-beheaded-by-unknown-organised-people.md)
-_Context: Afghan, Kajaki district_
+_Context: Afghanistan, Kajaki district_
 
 ## [Previous Day...](/news/2012/08/25/index.md)
 

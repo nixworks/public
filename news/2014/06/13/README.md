@@ -13,7 +13,7 @@ _Context: Giorgio Orsoni, Italy, MOSE Project, Venice_
 
 ##### Park Geun-hye
 ### [Park Geun-hye, the President of South Korea, reshuffles her cabinet by replacing seven members after a fall in public support following the sinking of the MV "Sewol" in April. ](/news/2014/06/13/park-geun-hye-the-president-of-south-korea-reshuffles-her-cabinet-by-replacing-seven-members-after-a-fall-in-public-support-following-the.md)
-_Context: Park Geun-hye, Sinking of the MV ''Sewol'', South Korean President_
+_Context: Park Geun-hye, Sinking of the MV ''Sewol'', South Korean president_
 
 ##### Romania
 ### [Romanian hacker Guccifer is indicted in absentia in a federal court in the U.S. state of Virginia for hacking into the e-mails of American government officials and family members. ](/news/2014/06/13/romanian-hacker-guccifer-is-indicted-in-absentia-in-a-federal-court-in-the-u-s-state-of-virginia-for-hacking-into-the-e-mails-of-american-g.md)

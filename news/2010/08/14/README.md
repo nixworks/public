@@ -35,9 +35,9 @@ _Context: Kurdistan Workers' Party, Nizamettin Toguc, Turkey, Venice_
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.
 
-##### U.S.
+##### United States
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: Louis Berger Group, U.S., U.S. Agency for International Development, foreign aid, prosecutor_
+_Context: Louis Berger Group, U.S. Agency for International Development, United States, foreign aid, prosecutor_
 
 ##### Spain
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)

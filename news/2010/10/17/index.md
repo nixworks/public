@@ -29,7 +29,7 @@ _Context: Rome, Italy_
 
 ##### Iran
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghan, Hossein Zolfaqari, Iran_
+_Context: Afghanistan, Hossein Zolfaqari, Iran_
 
 ##### Iraq Prime Minister
 ### [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md)
@@ -85,7 +85,7 @@ Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, 
 
 ##### Hilton Hotels
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
 
 ##### General Motors
 ### [GM workers protest a drop in wages, from $58,000-year to $30,000-year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)

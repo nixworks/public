@@ -25,7 +25,7 @@ Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pa
 
 ##### Syrian rebels
 ### [Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jordan-after-four-day.md)
-_Context: Jordan, Syrian Armed Forces, Syrian rebels_
+_Context: Government forces, Jordan, Syrian rebels_
 
 ##### Boko Haram
 ### [Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md)

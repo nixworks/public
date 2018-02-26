@@ -51,9 +51,9 @@ Supporters of the man charged with stealing 250,000 classified US documents publ
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
 _Context: DR Congo, Uganda_
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Preah Vihear Temple, Security Council, Thailand_
+_Context: Cambodia, Preah Vihear Temple, Thailand, United Nations Security Council_
 
 ##### Fine Gael
 ### [Ireland's Fine Gael leader Enda Kenny travels to Germany to brief Angela Merkel on matters of economic concern. ](/news/2011/02/14/ireland-s-fine-gael-leader-enda-kenny-travels-to-germany-to-brief-angela-merkel-on-matters-of-economic-concern.md)
@@ -73,7 +73,7 @@ Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost dou
 
 ##### General Motors
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, U.S., hourly worker, profit_
+_Context: General Motors, United States, hourly worker, profit_
 
 ##### Lago Agrio
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)

@@ -15,9 +15,9 @@ _Context: 16 June, Ban Ki Moon, Russia, United Nations Secretary-General_
 ### [ "The Herald", a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meetin.md)
 _Context: Lusaka, President of Zimbabwe, Robert Mugabe, The Herald, Zambia, newspaper, run-off presidential election_
 
-##### Chinese President
+##### President
 ### [ The President of the People's Republic of China Hu Jintao meets with the Vice-President-elect of Republic of China (Taiwan) Vincent Siew in the highest level talks between the two sides since 1949. ](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.md)
-_Context: Chinese President, Hu Jintao, Taiwan, Vincent Siew_
+_Context: Hu Jintao, President, Taiwan, Vincent Siew_
 
 ##### National Assembly of Haiti
 ### [ The National Assembly of Haiti removes the Prime Minister of Haiti Jacques-Edouard Alexis following a week of food riots in which six deaths had occurred. ](/news/2008/04/12/the-national-assembly-of-haiti-removes-the-prime-minister-of-haiti-jacques-edouard-alexis-following-a-week-of-food-riots-in-which-six-death.md)

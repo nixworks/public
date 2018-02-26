@@ -11,9 +11,9 @@ _Context: Easter Island, rapamycin_
 ### [ "The Guardian" claims that rival English newspaper, the Rupert Murdoch-owned "News of the World" tabloid, paid GBP1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-agbp1-million-in-court-costs.md)
 _Context: England, News of the World, Rupert Murdoch, The Guardian, tabloid_
 
-##### U.S.
+##### United States
 ### [ Undercover investigators smuggle bomb-making materials into government buildings in the United States, assembling bombs within, on ten occasions. ](/news/2009/07/8/undercover-investigators-smuggle-bomb-making-materials-into-government-buildings-in-the-united-states-assembling-bombs-within-on-ten-occa.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Mosul
 ### [ Two car bombs blow up in Mosul, the second of them killing at least nine people. ](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.md)
@@ -37,7 +37,7 @@ _Context: Costa Rica, Honduras, Manuel Zelaya, President, Roberto Micheletti_
 
 ##### South Korea
 ### [ South Korea says North Korea is behind a number of cyber attacks on the websites of government agencies, banks and businesses in South Korea and the United States. ](/news/2009/07/8/south-korea-says-north-korea-is-behind-a-number-of-cyber-attacks-on-the-websites-of-government-agencies-banks-and-businesses-in-south-kore.md)
-_Context: North Korea, South Korea, U.S., cyber-war_
+_Context: North Korea, South Korea, United States, cyber-war_
 
 ##### South Africa
 ### [ Strikes by 70,000 workers in South Africa halt work on the World Cup 2010 stadiums. ](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.md)
@@ -61,7 +61,7 @@ _Context: Comoros, Indian Ocean, Mafia Island, Tanzania, Yemenia Flight 626_
 
 ##### Ethnic riots
 ### [ Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
-_Context: 35th G8 Summit, Beijing, China, Chinese President, Hu Jintao, Urumqi, ethnic riots_
+_Context: 35th G8 Summit, Beijing, China, Hu Jintao, President, Urumqi, ethnic riots_
 
 ##### 35th G8 Summit
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)

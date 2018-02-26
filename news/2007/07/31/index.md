@@ -35,9 +35,9 @@ The row between Australia and New Zealand over apple imports is heading to the W
 ### [ The United States House of Representatives passes a the Honest Leadership and Open Government Act, a comprehensive ethics and lobbying reform bill 411-8. It bans lobbyists and their clients from giving members of the United States Congress gifts and provides for mandatory disclosure of earmarks in expenditure bills. ](/news/2007/07/31/the-united-states-house-of-representatives-passes-a-the-honest-leadership-and-open-government-act-a-comprehensive-ethics-and-lobbying-refo.md)
 The House overwhelmingly passed a comprehensive ethics and lobbying reform bill Tuesday, accepting tough rules offered by Democratic leaders to crack down on travel, gift-giving, campaign contributions and earmarks.
 
-##### Security Council
+##### United Nations Security Council
 ### [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md)
-_Context: Darfur, Security Council, Sudan, UNAMID, United Nations African Union Mission in Darfur_
+_Context: Darfur, Sudan, UNAMID, United Nations African Union Mission in Darfur, United Nations Security Council_
 
 ##### United States soldier
 ### [ Retired United States Army Lieutenant-General Philip Kensinger is censured by the Army over his role in the series of errors following the death of Ranger Pat Tillman in 2004. ](/news/2007/07/31/retired-united-states-army-lieutenant-general-philip-kensinger-is-censured-by-the-army-over-his-role-in-the-series-of-errors-following-the.md)
@@ -53,11 +53,11 @@ Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Stree
 
 ##### Nicaraguan President
 ### [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md)
-_Context: Daniel Ortega, Nicaraguan President, SAM-7, U.S., helicopters, surface-to-air missiles_
+_Context: Daniel Ortega, Nicaraguan President, SAM-7, United States, helicopters, surface-to-air missiles_
 
 ##### Nuradin Abdi
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Columbus, Nuradin Abdi, Somalia, U.S., shopping mall, terrorist_
+_Context: Columbus, Nuradin Abdi, Somalia, United States, shopping mall, terrorist_
 
 ## [Previous Day...](/news/2007/07/30/index.md)
 

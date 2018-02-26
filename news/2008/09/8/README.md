@@ -13,7 +13,7 @@ _Context:  Georgian, Abkhazia, Dmitry Medvedev, French President, Moscow, Nicola
 
 ##### US military
 ### [ The US military is to 'review an inquiry' into an air raid on a village in Herat province, Afghanistan, after a new video evidence emerged indicating 'scores of civilian deaths'. The US air raid in Afghanistan left up to 90 people dead, 'many of them women and children', the Afghan government and the UN said. However, US officials claimed earlier that 'no more than seven civilians died'. The bodies of 'at least 10 children and many more adults' appear in two videos made with cell phones in the Afghan village Azizabad after the raid. ](/news/2008/09/8/the-us-military-is-to-review-an-inquiry-into-an-air-raid-on-a-village-in-herat-province-afghanistan-after-a-new-video-evidence-emerged.md)
-_Context: Afghan, Azizabad, Herat, US military, civilian_
+_Context: Afghanistan, Azizabad, Herat, US military, civilian_
 
 ##### Hurricane Ike
 ### [ Hurricane Ike makes landfall near Banes, Cuba, and weakens. ](/news/2008/09/8/hurricane-ike-makes-landfall-near-banes-cuba-and-weakens.md)
@@ -25,7 +25,7 @@ Heavy rain triggered a landslide triggered that killed at least 34 people in nor
 
 ##### Washington Mutual
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Chief Executive, Kerry Killinger, U.S., Washington Mutual, savings and loan, subprime mortgage crisis_
+_Context: Chief Executive, Kerry Killinger, United States, Washington Mutual, savings and loan, subprime mortgage crisis_
 
 ##### Roger Federer
 ### [ Roger Federer defeats Andy Murray to win the U.S. Tennis Open for a record-breaking fifth consecutive time. ](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.md)

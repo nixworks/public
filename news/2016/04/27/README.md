@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/27/index.html)  [JSON](2016/04/27/index.json)  [XML](201
 
 ##### Chancellor
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, U.S._
+_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, United States_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
@@ -51,9 +51,9 @@ _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Kurdish, Shia, Tuz Khurmato_
 
-##### Security Council
+##### United Nations Security Council
 ### [United Nations Security Council members are considering a draft resolution that would restore the UN mission in Western Sahara to full functionality. Last month, Morocco expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-funct.md)
-_Context: MINURSO, Morocco, Security Council_
+_Context: MINURSO, Morocco, United Nations Security Council_
 
 ##### Taliban insurgency
 ### [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md)

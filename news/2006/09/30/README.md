@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### European Union
 ### [ Talks between the European Union and the United States Department of Homeland Security on the transfer of airline passenger data break down. The US demands over 30 items of data on each passenger, an earlier agreement which had been deemed to break European privacy laws. Midnight tonight was the deadline for reaching a new agreement. Airlines face losing landing rights in the US if they do not provide the information, and heavy fines in the EU if they do. ](/news/2006/09/30/talks-between-the-european-union-and-the-united-states-department-of-homeland-security-on-the-transfer-of-airline-passenger-data-break-down.md)
-_Context: Department of Homeland Security, European Union, U.S._
+_Context: Department of Homeland Security, European Union, United States_
 
 ##### Irish
 ### [ In Ireland the controversy continues over payments by businessmen friends to Taoiseach (Prime Minister) Bertie Ahern in 1993 when he was Minister for Finance; it has come to light that the largest of the payments was drawn on a company cheque. ](/news/2006/09/30/in-ireland-the-controversy-continues-over-payments-by-businessmen-friends-to-taoiseach-prime-minister-bertie-ahern-in-1993-when-he-was-mi.md)

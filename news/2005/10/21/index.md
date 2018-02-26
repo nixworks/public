@@ -3,9 +3,9 @@ Formats: [HTML](2005/10/21/index.html)  [JSON](2005/10/21/index.json)  [XML](200
 
 ## [2005-10-21](/news/2005/10/21/index.md)
 
-##### M<sub>w</sub>&nbsp;5.2
+##### Magnitude
 ### [ An earthquake measuring 5.9 on the moment magnitude scale hits the Turkish city of Izmir, injuring 15 people and causing one fatal heart attack. This is the fourth strong tremor this week. ](/news/2005/10/21/an-earthquake-measuring-5-9-on-the-moment-magnitude-scale-hits-the-turkish-city-of-adegzmir-injuring-15-people-and-causing-one-fatal-heart-a.md)
-_Context: Izmir, M<sub>w</sub>&nbsp;5.2, Turkey_
+_Context: Izmir, Turkey, magnitude_
 
 ##### Portsmouth
 ### [ A ceremony is held in Portsmouth, UK, to commemorate the 200th anniversary of the Battle of Trafalgar; other events include the Queen Elizabeth II lighting one of many nationwide beacons. ](/news/2005/10/21/a-ceremony-is-held-in-portsmouth-uk-to-commemorate-the-200th-anniversary-of-the-battle-of-trafalgar-other-events-include-the-queen-eliza.md)

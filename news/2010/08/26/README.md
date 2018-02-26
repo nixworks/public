@@ -27,7 +27,7 @@ _Context: Albany, David Paterson, District Attorney, New York Governor, baseball
 ### [Russian police arrest activists from Amnesty International and remove volunteers from Greenpeace Russia and the ONE Campaign at a U2 concert in Moscow. ](/news/2010/08/26/russian-police-arrest-activists-from-amnesty-international-and-remove-volunteers-from-greenpeace-russia-and-the-one-campaign-at-a-u2-concert.md)
 _Context: Amnesty International, Greenpeace India's, Moscow, ONE Campaign, Russia, U2_
 
-##### South Korean President
+##### South Korean president
 ### [South Korea's presidential office claims that North Korean leader Kim Jong-il is visiting China for the second time this year. ](/news/2010/08/26/south-korea-s-presidential-office-claims-that-north-korean-leader-kim-jong-il-is-visiting-china-for-the-second-time-this-year.md)
 South Korean media quotes officials suspecting Kim Jong-Il has travelled to neighbour.
 
@@ -37,7 +37,7 @@ Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid
 
 ##### The New York Times
 ### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
-_Context:  graft, Afghan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, U.S._
+_Context:  graft, Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States_
 
 ##### Israel
 ### [Israel asks Germany to arrest Klaas Carel Faber, a Nazi war criminal who killed 20 Jews at Westerbork concentration camp. ](/news/2010/08/26/israel-asks-germany-to-arrest-klaas-carel-faber-a-nazi-war-criminal-who-killed-20-jews-at-westerbork-concentration-camp.md)

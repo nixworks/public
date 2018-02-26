@@ -11,9 +11,9 @@ Things to do in Miami
 ### [ The Taiwan (ROC)'s pro-independence president, Chen Shui-bian, states that Taiwan may eventually reunify with Mainland China. Nonetheless, Chen rejects the People's Republic of China's "one country, two systems" formula which was applied to Hong Kong and Macau. This is a new step for Chen who, shortly after taking office in 2000, had said unification was just one option--comments widely seen as a push for independence for the island. ](/news/2004/02/16/the-taiwan-roc-s-pro-independence-president-chen-shui-bian-states-that-taiwan-may-eventually-reunify-with-mainland-china-nonetheless.md)
 _Context: Chen Shui-bian, Hong Kong, Macau, Mainland China, Taiwan, autonomy, independence_
 
-##### Afghan
+##### Afghanistan
 ### [ The United States states that Afghanistan's elections scheduled for this June may have to be postponed because of security problems and the failure to register enough voters. Only 8% of eligible Afghan voters have been enrolled to date. ](/news/2004/02/16/the-united-states-states-that-afghanistan-s-elections-scheduled-for-this-june-may-have-to-be-postponed-because-of-security-problems-and-the.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### L. Paul Bremer
 ### [ L. Paul Bremer, the United States administrator of Iraq states he will veto any interim constitution that would make Islam "the chief source of law", as opposed to "a source of inspiration for the law." Many Iraqi women express fears that the rights they hold under Iraq's longtime secular system may be denied them in the interim constitution based upon Islam as "the chief source of law." ](/news/2004/02/16/l-paul-bremer-the-united-states-administrator-of-iraq-states-he-will-veto-any-interim-constitution-that-would-make-islam-the-chief-sourc.md)

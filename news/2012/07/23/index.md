@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/23/index.html)  [JSON](2012/07/23/index.json)  [XML](201
 
 ##### Sally Ride
 ### [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relations.md)
-_Context: Sally Ride, U.S., astronaut, pancreatic cancer_
+_Context: Sally Ride, United States, astronaut, pancreatic cancer_
 
 ##### James Holmes
 ### [James Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md)

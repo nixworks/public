@@ -13,7 +13,7 @@ _Context: Kofi Annan, Ottawa, Ontario, United Nations, United Nations Secretary-
 
 ##### International Women's Day
 ### [ On International Women's Day, Afghan President Hamid Karzai encourages men to allow their female relatives to vote in the upcoming election, but also suggests that they control those votes. ](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.md)
-_Context: Afghan, Hamid Karzai, International Women's Day, vote_
+_Context: Afghanistan, Hamid Karzai, International Women's Day, vote_
 
 ##### Iraq
 ### [ Iraq's governing council unanimously approves the country's new constitution. ](/news/2004/03/8/iraq-s-governing-council-unanimously-approves-the-country-s-new-constitution.md)

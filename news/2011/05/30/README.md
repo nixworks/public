@@ -23,9 +23,9 @@ _Context: Alaa Mubarak, Hosni Mubarak, Jamal Mubarak, President, unfair_
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
 _Context: Saudi Arabia_
 
-##### South Korean President
+##### South Korean president
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)
-_Context: Lee Myung-bak, South Korean President, bribes_
+_Context: Lee Myung-bak, South Korean president, bribes_
 
 ##### Guwahati
 ### [At least 26 people die following a bus crash near Guwahati, the capital of India's Assam state. ](/news/2011/05/30/at-least-26-people-die-following-a-bus-crash-near-guwahati-the-capital-of-india-s-assam-state.md)

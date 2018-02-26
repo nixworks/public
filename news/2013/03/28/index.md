@@ -3,7 +3,7 @@ Formats: [HTML](2013/03/28/index.html)  [JSON](2013/03/28/index.json)  [XML](201
 
 ## [2013-03-28](/news/2013/03/28/index.md)
 
-##### U.S.
+##### United States
 ### [American bioengineers at Stanford University build a transistor-like transcriptor out of DNA and RNA molecules. ](/news/2013/03/28/american-bioengineers-at-stanford-university-build-a-transistor-like-transcriptor-out-of-dna-and-rna-molecules.md)
 Transistors are the basic building blocks of electronics; now they can be made with living cells. -&gt;
 
@@ -73,7 +73,7 @@ This vastly endearing actor, who made such an impression in Withnail And I and T
 
 ##### Barbara Walters
 ### [Barbara Walters, longtime newswoman and host of the American talk show "The View", announces plans to retire in May 2014. ](/news/2013/03/28/barbara-walters-longtime-newswoman-and-host-of-the-american-talk-show-the-view-announces-plans-to-retire-in-may-2014.md)
-_Context: Barbara Walters, The View, U.S., talk show_
+_Context: Barbara Walters, The View, United States, talk show_
 
 ##### Mortar
 ### [Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md)
@@ -83,9 +83,9 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 ### [A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/a-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-rebels-reportedly-belong-to-a-group-led-by-david-yau.md)
 _Context: David Yau Yau, Pibor County_
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-to-end-rebel-atta.md)
-_Context: DR Congo, Security Council_
+_Context: DR Congo, United Nations Security Council_
 
 ##### Mombasa Republican Council
 ### [Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coastal-town-of-malindi.md)

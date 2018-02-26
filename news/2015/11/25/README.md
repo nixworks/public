@@ -57,7 +57,7 @@ Former first lady known for her love of shoes also had collection of jewellery t
 
 ##### War in Afghanistan (2015-present)
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
-_Context: Afghan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
+_Context: Afghanistan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
 
 ##### November 2015 Paris attacks
 ### [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md)

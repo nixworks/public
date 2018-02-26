@@ -3,11 +3,11 @@ Formats: [HTML](2010/09/11/index.html)  [JSON](2010/09/11/index.json)  [XML](201
 
 ## [2010-09-11](/news/2010/09/11/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran-day-despite-its-cancellation.md)
 E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces on Saturday, as thousands of Afghans demonstrated for a second day, despite a U.S. pastor suspending plans to burn copies of the Koran, officials said.
 
-##### U.S.
+##### United States
 ### [The United States commemorates the anniversary of the September 11 attacks with events in New York City, the Pentagon Memorial in Washington D.C. and in Shanksville, Pennsylvania, near where United Airlines Flight 93 crashed. ](/news/2010/09/11/the-united-states-commemorates-the-anniversary-of-the-september-11-attacks-with-events-in-new-york-city-the-pentagon-memorial-in-washington.md)
 Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn the Koran, will take place on the ninth anniversary of the 9/11 attacks.
 
@@ -57,7 +57,7 @@ _Context: Coach USA, Megabus, New York, Salina, overpass, railroad_
 
 ##### Pipeline explosion
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: California, San Bruno, San Francisco, California, U.S., pipeline explosion_
+_Context: California, San Bruno, San Francisco, California, United States, pipeline explosion_
 
 ##### Earthquake
 ### [A moderate earthquake strikes Indonesia's North Maluku province. ](/news/2010/09/11/a-moderate-earthquake-strikes-indonesia-s-north-maluku-province.md)
@@ -87,11 +87,11 @@ Air Zimbabwe says pilots who defied a 24-hour deadline to abandon a strike and r
 ### [Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-george-papandreou-s-austerity-plans.md)
 Greek unions stage mass protests in Thessaloniki but Prime Minister George Papandreou says he will not scale back his austerity plans.
 
-##### U.S.
+##### United States
 ### [US actor Kevin McCarthy best known for his roles in "Invasion of the Body Snatchers" and "Death of a Salesman" dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
-_Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, U.S._
+_Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, United States_
 
-##### U.S.
+##### United States
 ### [U.S. film director Sofia Coppola wins the Golden Lion at the 67th Venice International Film Festival for her film "Somewhere". ](/news/2010/09/11/u-s-film-director-sofia-coppola-wins-the-golden-lion-at-the-67th-venice-international-film-festival-for-her-film-somewhere.md)
 Director Sofia Coppola has taken the top prize at the Venice Film Festival for her fourth film, Somewhere.
 

@@ -7,7 +7,7 @@ Formats: [HTML](2014/06/2/index.html)  [JSON](2014/06/2/index.json)  [XML](2014/
 ### [Apple Inc., introduced a new programming language named Swift, for developing software for their operating systems iOS and OS X. ](/news/2014/06/2/apple-inc-introduced-a-new-programming-language-named-swift-for-developing-software-for-their-operating-systems-ios-and-os-x.md)
 _Context: Apple Inc., OS X, Swift, iOS, operating system, programming language_
 
-##### U.S.
+##### United States
 ### [The United States Environmental Protection Agency issues new regulations aiming to cut carbon emissions in the US power sector by 30 percent from 2005 levels by 2030. ](/news/2014/06/2/the-united-states-environmental-protection-agency-issues-new-regulations-aiming-to-cut-carbon-emissions-in-the-us-power-sector-by-30-percent.md)
 The US power sector must cut carbon dioxide emissions 30 per cent by 2030 from 2005 levels, according to federal regulations unveiled on Monday that form the centerpiece of the Obama administration&#039;s climate change strategy.
 

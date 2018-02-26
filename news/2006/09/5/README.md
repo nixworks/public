@@ -21,7 +21,7 @@ Cuban leader Fidel Castro said the worst is over and he is recovering well from 
 
 ##### Pakistan
 ### [ Pakistan has signed a truce with pro-Taliban militants on the Afghanistan border agreeing to withdraw most Pakistani troops in exchange for the militants' promise not to support cross-border violence. ](/news/2006/09/5/pakistan-has-signed-a-truce-with-pro-taliban-militants-on-the-afghanistan-border-agreeing-to-withdraw-most-pakistani-troops-in-exchange-for.md)
-_Context: Afghan, Pakistan, Taliban_
+_Context: Afghanistan, Pakistan, Taliban_
 
 ##### Lt. Col.
 ### [ In Lebanon, a roadside bomb seriously wounds Lt. Col. Samir Shehade, a Lebanese police officer and kills four of his aides. Shehade was involved in the August 2005 arrest of four pro-Syrian Lebanese generals, on suspicion of involvement in the February 2005 assassination of former Lebanese PM Rafik Hariri. ](/news/2006/09/5/in-lebanon-a-roadside-bomb-seriously-wounds-lt-col-samir-shehade-a-lebanese-police-officer-and-kills-four-of-his-aides-shehade-was-inv.md)
@@ -39,9 +39,9 @@ _Context: Alan Mulally, Bill Ford, Boeing Commercial Airlines, CEO, Ford Motor C
 ### [ Felipe Caldern of the PAN is declared the winner of Mexico's 2 July presidential election. ](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.md)
 _Context: 2 July, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN)_
 
-##### Afghan
+##### Afghanistan
 ### [ More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md)
-_Context: Afghan, Operation Medusa_
+_Context: Afghanistan, Operation Medusa_
 
 ## [Previous Day...](/news/2006/09/4/index.md)
 

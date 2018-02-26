@@ -43,7 +43,7 @@ _Context: Asia Pacific Economic Cooperation, Free Trade Area of the Asia Pacific
 ### [The Organization of American States urges Nicaragua and Costa Rica to withdraw their security forces from an island in the San Juan river. Google is blamed for the dispute and revises its maps. ](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.md)
 The Organisation of American States urges Nicaragua and Costa Rica to withdraw their security forces from a disputed border region.
 
-##### U.S.
+##### United States
 ### [The United States offers Israel 20 F-35s and opposition to anti-Israel resolutions in the UN if Israel agrees to a partial 90-day freeze in building in the West Bank, excluding east Jerusalem. ](/news/2010/11/14/the-united-states-offers-israel-20-f-35s-and-opposition-to-anti-israel-resolutions-in-the-un-if-israel-agrees-to-a-partial-90-day-freeze-in.md)
 US offers incentives for a 90-day building freeze in West Bank, but the proposal does not include East Jerusalem.
 
@@ -89,9 +89,9 @@ _Context: Peru, Yines_
 ### [Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. ](/news/2010/11/14/former-british-soldier-turned-singer-songwriter-james-blunt-claims-that-he-stopped-what-he-believed-would-be-world-war-iii-by-disobeying-a-d.md)
 Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands of refugees wait over the border to return to their homes. A column of 30,000 Nato troops is advancing towards Pristina airfield – a crucial strategic position.
 
-##### Afghan
+##### Afghanistan
 ### [Abdul Khaliq Farahi, the Afghan consul general in Pakistan, is released by gunmen after two years in captivity. ](/news/2010/11/14/abdul-khaliq-farahi-the-afghan-consul-general-in-pakistan-is-released-by-gunmen-after-two-years-in-captivity.md)
-_Context: Afghan, Pakistan, consul general_
+_Context: Afghanistan, Pakistan, consul general_
 
 ##### Somalia
 ### [Somali pirates free British couple Paul and Rachel Chandler after a year in captivity. ](/news/2010/11/14/somali-pirates-free-british-couple-paul-and-rachel-chandler-after-a-year-in-captivity.md)
@@ -111,7 +111,7 @@ _Context: Buinaksk, Caucasus, Dagestan, Russia_
 
 ##### Behsod district
 ### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan. ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
-_Context: Afghan, Behsod district, Kabul, Nangarhar province_
+_Context: Afghanistan, Behsod district, Kabul, Nangarhar province_
 
 ## [Previous Day...](/news/2010/11/13/index.md)
 

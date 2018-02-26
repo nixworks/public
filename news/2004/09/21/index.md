@@ -9,7 +9,7 @@ _Context: Libya, sanctions, weapons of mass destruction_
 
 ##### Earthquake
 ### [ An earthquake swarm is currently in progress in the Adobe Hills about 18 miles (29 km) east of California's Mono Lake. Over 600 earthquakes have been recorded since September 18, including events of moment magnitude 4.8, 5,4, and 5.5. ](/news/2004/09/21/an-earthquake-swarm-is-currently-in-progress-in-the-adobe-hills-about-18-miles-29-km-east-of-california-s-mono-lake-over-600-earthquakes.md)
-_Context: California, M<sub>w</sub>&nbsp;5.2, Mono Lake, earthquake_
+_Context: California, Mono Lake, earthquake, magnitude_
 
 ##### Rebel-held
 ### [ Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Jack Hensley. The group threatens to behead the remaining hostage, Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. Eugene Armstrong was beheaded yesterday. ](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.md)

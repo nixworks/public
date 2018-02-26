@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/27/index.html)  [JSON](2017/09/27/index.json)  [XML](201
 
 ##### Russian interference in the 2016 United States elections 
 ### [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md)
-_Context: Facebook, Google, House Intelligence Committee, Russian interference in the 2016 United States elections , Senate Intelligence Committee, Twitter_
+_Context: Facebook, Google, Russian interference in the 2016 United States elections , Senate Intelligence Committee, Twitter, United States House Permanent Select Committee on Intelligence_
 
 ##### United States presidential primary
 ### [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md)

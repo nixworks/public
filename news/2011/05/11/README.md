@@ -59,9 +59,9 @@ _Context: Phillip A. Hamilton, Virginia House of Delegates_
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
 _Context: Bhopal disaster, Government of India, Supreme Court of India_
 
-##### U.S.
+##### United States
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, Tehran, U.S., espionage_
+_Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
 
 ##### Rape
 ### [An international study reports that, on average, 48 women and girls are raped in the Democratic Republic of the Congo every hour. ](/news/2011/05/11/an-international-study-reports-that-on-average-48-women-and-girls-are-raped-in-the-democratic-republic-of-the-congo-every-hour.md)

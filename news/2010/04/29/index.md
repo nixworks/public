@@ -15,7 +15,7 @@ _Context: Beatriz Alberta Cario Trujillo_
 ### [The third round of leaders' debates takes place in the United Kingdom. ](/news/2010/04/29/the-third-round-of-leaders-debates-takes-place-in-the-united-kingdom.md)
 At their third and final debate with a week to go before the election, the leaders of the three main parties tussled on perhaps the most pressing issue facing the country.
 
-##### U.S.
+##### United States
 ### [The United States tells Israel that it must remove 23 West Bank outposts, as previously promised. ](/news/2010/04/29/the-united-states-tells-israel-that-it-must-remove-23-west-bank-outposts-as-previously-promised.md)
 State Department: &quot;We expect [Israel] to fulfill responsibilities.”
 

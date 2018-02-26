@@ -19,9 +19,9 @@ _Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_
 ### [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md)
 _Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_
 
-##### Security Council
+##### United Nations Security Council
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
-_Context: German, Iran, Security Council_
+_Context: German, Iran, United Nations Security Council_
 
 ##### Russia
 ### [ Russia, Greece and Bulgaria sign a deal to build a pipeline to transport Russian oil to the Greek port of Alexandroupolis. ](/news/2007/03/15/russia-greece-and-bulgaria-sign-a-deal-to-build-a-pipeline-to-transport-russian-oil-to-the-greek-port-of-alexandroupolis.md)
@@ -39,9 +39,9 @@ _Context: Mars, Planum Australe, planet, polar ice cap, south pole, water_
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
 _Context: Australia, French, Willie Brigitte, jail_
 
-##### U.S.
+##### United States
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, U.S., car bomb_
+_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
 
 ##### Hungary
 ### [ Hungarian police use water cannon and tear gas to disperse a crowd of anti-government protestors in Budapest. ](/news/2007/03/15/hungarian-police-use-water-cannon-and-tear-gas-to-disperse-a-crowd-of-anti-government-protestors-in-budapest.md)

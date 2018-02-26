@@ -3,7 +3,7 @@ Formats: [HTML](2010/02/10/index.html)  [JSON](2010/02/10/index.json)  [XML](201
 
 ## [2010-02-10](/news/2010/02/10/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Afghan officials report that at least 150 bodies were pulled from vehicles buried by avalanches in the Salang Pass in the Hindu Kush mountains earlier this week. ](/news/2010/02/10/afghan-officials-report-that-at-least-150-bodies-were-pulled-from-vehicles-buried-by-avalanches-in-the-salang-pass-in-the-hindu-kush-mountai.md)
 At least 150 bodies were pulled from vehicles buried by an avalanche in the Salang Pass in the Hindu Kush mountains of Afghanistan, officials said Wednesday
 
@@ -25,7 +25,7 @@ _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
 
 ##### Magnitude
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
-_Context: Chicago, U.S., magnitude_
+_Context: Chicago, United States, magnitude_
 
 ##### Britain's Court of Appeal
 ### [The Court of Appeal of England and Wales rules that open air funeral pyres can be accommodated under the 1902 Cremation Act as amended. ](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.md)

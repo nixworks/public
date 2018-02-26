@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/17/index.html)  [JSON](2011/02/17/index.json)  [XML](201
 
 ##### Governor
 ### [The Governor of Alaska Sean Parnell says that he will not implement the United States Patient Protection and Affordable Care Act after a Florida judge ruled it was unconstitutional. ](/news/2011/02/17/the-governor-of-alaska-sean-parnell-says-that-he-will-not-implement-the-united-states-patient-protection-and-affordable-care-act-after-a-flo.md)
-_Context: Florida, Governor, Obamacare, Sean Parnell, U.S._
+_Context: Florida, Governor, Obamacare, Sean Parnell, United States_
 
 ##### Kosovo
 ### [Kosovo marks the third anniversary of its declaration of independence from Serbia. ](/news/2011/02/17/kosovo-marks-the-third-anniversary-of-its-declaration-of-independence-from-serbia.md)
@@ -19,7 +19,7 @@ Buckingham Palace has confirmed that US President Barack Obama will come to Brit
 ### [French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md)
 Former Tunisian President Zine el-Abidine Ben Ali suffered a stroke and was in a coma in a Saudi Arabian hospital, a French online journalist reported.
 
-##### U.S.
+##### United States
 ### [Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for-state-emplo.md)
 With the state Senate at an impasse over his temporary budget fix, and tens of thousands of protesters clogging the Capitol day after day, Gov. Scott Walker has pushed back
 
@@ -31,13 +31,13 @@ FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports
 ### [Former Egyptian Interior Minister Habib Ibrahim El Adly is arrested pending investigation of corruption allegations along with former Housing Minister Ahmed Maghrabi, former Tourism Minister Zuhair Garana and a former official from the National Democratic Party. ](/news/2011/02/17/former-egyptian-interior-minister-habib-ibrahim-el-adly-is-arrested-pending-investigation-of-corruption-allegations-along-with-former-housin.md)
 _Context: Ahmed Maghrabi, Egypt, Habib Ibrahim El Adly, National Democratic Party, Zuhair Garana_
 
-##### U.S.
+##### United States
 ### [Police arrest nine people allegedly involved in a United States-Mexico arms ring, and seize 300 weapons. ](/news/2011/02/17/police-arrest-nine-people-allegedly-involved-in-a-united-states-mexico-arms-ring-and-seize-300-weapons.md)
 Police arrested nine people and seized 300 firearms, including assault rifles, in a raid targeting an arms ring that allegedly sold weapons to Mexican drug traffickers, authorities said on Thursday.
 
-##### U.S.
+##### United States
 ### [United States authorities charge more than a hundred doctors, nurses and physical therapists in nine cities with Medicare fraud. ](/news/2011/02/17/united-states-authorities-charge-more-than-a-hundred-doctors-nurses-and-physical-therapists-in-nine-cities-with-medicare-fraud.md)
-_Context: Medicare, U.S., fraud, physical therapists_
+_Context: Medicare, United States, fraud, physical therapists_
 
 ##### UEFA Euro 2004
 ### [English football fan Garry Mann, jailed for his role in a riot during UEFA Euro 2004, is transferred from jail in Portugal in order to serve the remainder of his sentence in his home country. ](/news/2011/02/17/english-football-fan-garry-mann-jailed-for-his-role-in-a-riot-during-uefa-euro-2004-is-transferred-from-jail-in-portugal-in-order-to-serve.md)
@@ -47,9 +47,9 @@ An England football fan jailed in Portugal for his role in a riot during Euro 20
 ### [The CBC releases information about an alleged attack originating from China against the computer networks of the Finance Department and Treasury Board in Canada, forcing the immediate shutdown of all internet access in both departments. ](/news/2011/02/17/the-cbc-releases-information-about-an-alleged-attack-originating-from-china-against-the-computer-networks-of-the-finance-department-and-trea.md)
 An unprecedented cyberattack on the Canadian government also targeted Defence Research and Development Canada, making it the third key department compromised by hackers, CBC News has learned. 
 
-##### U.S.
+##### United States
 ### [The United States imposes sanctions on Iran's Refah Bank for allegedly facilitating the purchase of weapons by Iran's Defense Ministry. ](/news/2011/02/17/the-united-states-imposes-sanctions-on-iran-s-refah-bank-for-allegedly-facilitating-the-purchase-of-weapons-by-iran-s-defense-ministry.md)
-_Context: Iran, Iran's Defense Ministry, Refah Bank, U.S., sanctions_
+_Context: Iran, Iran's Defense Ministry, Refah Bank, United States, sanctions_
 
 ##### Iran
 ### [Iran requests permission from the Government of Egypt for the Iranian navy to pass through the Suez Canal. ](/news/2011/02/17/iran-requests-permission-from-the-government-of-egypt-for-the-iranian-navy-to-pass-through-the-suez-canal.md)
@@ -61,7 +61,7 @@ Social networks may have known more than the US about Middle East revolts, asses
 
 ##### Riyad Mansour
 ### [Riyad Mansour, the Palestinian United Nations observer, announces that the United Nations Security Council is to vote tomorrow on a resolution critical of Israeli settlement building in the West Bank and East Jerusalem. ](/news/2011/02/17/riyad-mansour-the-palestinian-united-nations-observer-announces-that-the-united-nations-security-council-is-to-vote-tomorrow-on-a-resoluti.md)
-_Context: East Jerusalem, Riyad Mansour, Security Council, United Nations, West Bank_
+_Context: East Jerusalem, Riyad Mansour, United Nations, United Nations Security Council, West Bank_
 
 ##### Rohingya
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)

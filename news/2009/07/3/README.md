@@ -15,9 +15,9 @@ Thirteen people have been injured, after a train derailed near the southwestern 
 ### [ Two aid workers, including one Irish woman, with the charity GOAL are kidnapped by an armed gang in Sudan's Darfur region. ](/news/2009/07/3/two-aid-workers-including-one-irish-woman-with-the-charity-goal-are-kidnapped-by-an-armed-gang-in-sudan-s-darfur-region.md)
 _Context: Darfur, GOAL, Irish, Sudan_
 
-##### U.S.
+##### United States
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
-_Context: 2008, Alaska, Governor, Sarah Palin, U.S., U.S. Vice President_
+_Context: 2008, Alaska, Governor, Sarah Palin, U.S. Vice President, United States_
 
 ##### Killed after a fire
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
@@ -41,7 +41,7 @@ Algerian singer Cheb Mami went on trial in France on Thursday over accusations t
 
 ##### Syria
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Barack Obama, Damascus, Syria, U.S., U.S. President_
+_Context: Barack Obama, Damascus, Syria, U.S. President, United States_
 
 ##### Dinosaur
 ### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)

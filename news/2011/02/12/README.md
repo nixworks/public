@@ -25,7 +25,7 @@ Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, 
 
 ##### Yakama Indian Reservation
 ### [A fire destroys 20 homes on the Yakama Indian Reservation in the US state of Washington. ](/news/2011/02/12/a-fire-destroys-20-homes-on-the-yakama-indian-reservation-in-the-us-state-of-washington.md)
-_Context: U.S., Washington, Yakama Indian Reservation_
+_Context: United States, Washington, Yakama Indian Reservation_
 
 ##### President
 ### [At least eleven people are killed during an election rally for the President of Nigeria Goodluck Jonathan in Port Harcourt. ](/news/2011/02/12/at-least-eleven-people-are-killed-during-an-election-rally-for-the-president-of-nigeria-goodluck-jonathan-in-port-harcourt.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/2/index.html)  [JSON](2010/05/2/index.json)  [XML](2010/
 
 ##### Roman Polanski
 ### [Roman Polanski speaks out about his possible extradition to the United States after several months of silence. ](/news/2010/05/2/roman-polanski-speaks-out-about-his-possible-extradition-to-the-united-states-after-several-months-of-silence.md)
-_Context: Roman Polanski, U.S._
+_Context: Roman Polanski, United States_
 
 ##### World number one
 ### [The World number one snooker player John Higgins and his manager are reported by the "News of the World" to have been videoed accepting a GBP261,000 bribe in Ukraine to lose frames in four separate matches later this year; an investigation is launched and the player is immediately suspended on the final day of his reign as world champion ahead of the final of the 2010 World Snooker Championship. ](/news/2010/05/2/the-world-number-one-snooker-player-john-higgins-and-his-manager-are-reported-by-the-news-of-the-world-to-have-been-videoed-accepting-a-ag.md)

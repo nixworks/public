@@ -29,9 +29,9 @@ _Context: Arizona, Baseline Killer_
 
 ##### UNESCO
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: Palestine, U.S., UNESCO, United Nations_
+_Context: Palestine, UNESCO, United Nations, United States_
 
-##### U.S.
+##### United States
 ### [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring GBP4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-gbp4bn-of-eurozone-debt-exposure.md)
 US brokerage firm MF Global files for bankruptcy protection after revealing £4bn of eurozone debt exposure.
 
@@ -43,9 +43,9 @@ _Context: $, Japanese government, exchange rate, yen_
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
 _Context: Australia, Fair Work Australia, Qantas_
 
-##### Afghan
+##### Afghanistan
 ### [Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. ](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ## [Previous Day...](/news/2011/10/30/index.md)
 

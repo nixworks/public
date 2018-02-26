@@ -13,7 +13,7 @@ Move marks effective end to political deadlock that has left Himalayan nation wi
 
 ##### Russia
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, U.S._
+_Context: Ashot Egiazaryan, Russia, United States_
 
 ##### Mexican drug cartel
 ### [Reputed Mexican drug cartel leader Sandra Avila Beltran is sentenced to a year in jail for weapons possession charges. ](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.md)
@@ -41,7 +41,7 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: European Union, Israel, Middle East Quartet, Munich, Russia, U.S., United Nations_
+_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
 
 ##### Power outage
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)
@@ -65,7 +65,7 @@ _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
 
 ##### Afghanistan President
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghan, Afghanistan President, Hamid Karzai_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai_
 
 ##### Mutinous soldiers
 ### [At least 50 people have died in a mutiny of the Sudan People's Armed Forces in southern Sudan. ](/news/2011/02/6/at-least-50-people-have-died-in-a-mutiny-of-the-sudan-people-s-armed-forces-in-southern-sudan.md)
@@ -79,9 +79,9 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
 _Context: Gaza Strip, Israel, gravel_
 
-##### Afghan
+##### Afghanistan
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Recent unrest
 ### [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md)

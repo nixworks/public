@@ -23,9 +23,9 @@ _Context: Johannesburg, Rwanda, South Africa_
 ### [A study released by the University of California, San Diego shows that vitamin D increases the chances of survival in patients suffering from breast cancer. ](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.md)
 _Context: University of California, San Diego, breast cancer, vitamin D_
 
-##### U.S.
+##### United States
 ### [The United States economy added 175,000 jobs for the month of February. ](/news/2014/03/7/the-united-states-economy-added-175-000-jobs-for-the-month-of-february.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Staples
 ### [Staples Inc. plans to close 225 store locations and cut $500 million from its budget, citing low sales and internet competition. ](/news/2014/03/7/staples-inc-plans-to-close-225-store-locations-and-cut-500-million-from-its-budget-citing-low-sales-and-internet-competition.md)

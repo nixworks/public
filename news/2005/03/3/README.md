@@ -61,7 +61,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### China
 ### [ The People's Republic of China issues a report condemning the human rights record of the United States, three days after the United States issued a report condemning China's human rights record. ](/news/2005/03/3/the-people-s-republic-of-china-issues-a-report-condemning-the-human-rights-record-of-the-united-states-three-days-after-the-united-states.md)
-_Context: China, U.S._
+_Context: China, United States_
 
 ##### Rape
 ### [ Five men who had been sentenced to death for the rape of Mukhtar Mai, who was raped as punishment for another rape falsely attributed to her brother, are acquitted on appeal. A Pakistani tribal council allegedly ordered the rape of Mukhtar Mai in February 2002. ](/news/2005/03/3/five-men-who-had-been-sentenced-to-death-for-the-rape-of-mukhtar-mai-who-was-raped-as-punishment-for-another-rape-falsely-attributed-to-he.md)

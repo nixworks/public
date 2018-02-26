@@ -13,7 +13,7 @@ _Context: Cincinnati, Ohio, Crime in Cincinnati, gender reveal_
 
 ##### 2017 G20 Hamburg summit
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
-_Context: 2017 G20 Hamburg summit, U.S., climate change_
+_Context: 2017 G20 Hamburg summit, United States, climate change_
 
 ##### Energy in California
 ### [An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md)

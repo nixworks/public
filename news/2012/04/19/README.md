@@ -21,7 +21,7 @@ A woman at the centre of the US Secret Service prostitution scandal in Colombia 
 
 ##### UH-60 Black Hawk
 ### [A UH-60 Black Hawk helicopter reportedly crashed in Afghanistan, killing all four on board. ](/news/2012/04/19/a-uh-60-black-hawk-helicopter-reportedly-crashed-in-afghanistan-killing-all-four-on-board.md)
-_Context: Afghan, UH-60 Black Hawk_
+_Context: Afghanistan, UH-60 Black Hawk_
 
 ##### The Band
 ### [The Band singer and drummer Levon Helm dies of throat cancer at the age of 71. ](/news/2012/04/19/the-band-singer-and-drummer-levon-helm-dies-of-throat-cancer-at-the-age-of-71.md)

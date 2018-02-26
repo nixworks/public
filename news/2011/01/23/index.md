@@ -65,7 +65,7 @@ The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for a
 
 ##### BBC
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
 
 ##### Iran
 ### [Talks between Iran and the five permanent members of the UN Security Council plus Germany break down without an agreement to end the eight-year-old impasse over Iran's nuclear program, after Iranian officials refused to negotiate unless preconditions including an immediate halt to UN sanctions on Iran were met. ](/news/2011/01/23/talks-between-iran-and-the-five-permanent-members-of-the-un-security-council-plus-germany-break-down-without-an-agreement-to-end-the-eight-y.md)
@@ -97,7 +97,7 @@ Somali pirates threatened onSunday to kill any South Korean seamen they take hos
 
 ##### Australia
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
-_Context: Afghan, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_
+_Context: Afghanistan, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_
 
 ##### Egypt
 ### [Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. ](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.md)

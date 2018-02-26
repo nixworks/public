@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/3/index.html)  [JSON](2006/02/3/index.json)  [XML](2006/
 
 ##### D66
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
-_Context: Afghan, Boris Dittrich, D66, International Security Assistance Force, NATO_
+_Context: Afghanistan, Boris Dittrich, D66, International Security Assistance Force, NATO_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. ](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.md)
@@ -33,7 +33,7 @@ _Context:  Georgian, Mikhail Saakashvili, President of Georgia, assassination, h
 
 ##### IAEA
 ### [ The International Atomic Energy Agency has deferred until Saturday a vote on whether to report Iran to the UN Security Council over concerns its nuclear programs may produce weapons. ](/news/2006/02/3/the-international-atomic-energy-agency-has-deferred-until-saturday-a-vote-on-whether-to-report-iran-to-the-un-security-council-over-concern.md)
-_Context: IAEA, Iran, Security Council_
+_Context: IAEA, Iran, United Nations Security Council_
 
 ##### Persona non grata
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)

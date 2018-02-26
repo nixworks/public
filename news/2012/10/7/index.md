@@ -19,7 +19,7 @@ _Context: Antisa Khvichava_
 ### [An Antonov An-12 aircraft belonging to the Sudanese military crashes southwest of the capital Khartoum, killing at least 13 of the 22 people on board. ](/news/2012/10/7/an-antonov-an-12-aircraft-belonging-to-the-sudanese-military-crashes-southwest-of-the-capital-khartoum-killing-at-least-13-of-the-22-people.md)
 A Sudanese military plane carrying personnel and equipment to the strife-torn Darfur region crashed near the capital Khartoum on Sunday killing 13 people on board, the army said.
 
-##### Afghan
+##### Afghanistan
 ### [On the 11th anniversary of the U.S.-led invasion of Afghanistan, two activists are detained at Ireland's Shannon Airport during a protest against U.S. drone strikes in Pakistan. ](/news/2012/10/7/on-the-11th-anniversary-of-the-u-s-led-invasion-of-afghanistan-two-activists-are-detained-at-ireland-s-shannon-airport-during-a-protest-ag.md)
 Two people have been arrested at Shannon airport during a protest against US drone strikes in Pakistan.
 

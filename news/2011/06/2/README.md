@@ -25,7 +25,7 @@ _Context: Arizona, Yuma County_
 
 ##### South Korea
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S., United States soldier_
+_Context: Agent Orange, Camp Carroll, Daegu, South Korea, United States, United States soldier_
 
 ##### Libyan Civil War
 ### [Approximately 250 people fleeing from the Libyan Civil War to Europe may have died as their ship sinks off the coast of Tunisia. ](/news/2011/06/2/approximately-250-people-fleeing-from-the-libyan-civil-war-to-europe-may-have-died-as-their-ship-sinks-off-the-coast-of-tunisia.md)

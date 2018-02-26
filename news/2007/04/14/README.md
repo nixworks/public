@@ -9,7 +9,7 @@ _Context: Islam, Kano, Nigeria, Ustaz, governor, presidential election, state_
 
 ##### Bill Richardson
 ### [ Bill Richardson, a U.S. special envoy, predicts that North Korea will not meet a deadline of today set by the Six-Party Talks to shut down its nuclear reactor but will meet their obligations a few days after. ](/news/2007/04/14/bill-richardson-a-u-s-special-envoy-predicts-that-north-korea-will-not-meet-a-deadline-of-today-set-by-the-six-party-talks-to-shut-down.md)
-_Context: Bill Richardson, North Korea, Six-Party Talks, U.S., nuclear reactor_
+_Context: Bill Richardson, North Korea, Six-Party Talks, United States, nuclear reactor_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: A car bomb explodes in a bus station in the city of Karbala, killing or injuring at least 56 people and injuring at least 70. At least 10 people die after a suicide bomber explodes a bomb at the Jadiriyah bridge in Baghdad. ](/news/2007/04/14/iraqi-insurgency-a-car-bomb-explodes-in-a-bus-station-in-the-city-of-karbala-killing-or-injuring-at-least-56-people-and-injuring-at-least.md)
@@ -29,7 +29,7 @@ _Context: Aksaray, Konya, Turkey, bus, primary school_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills 8 people in the Khost Province of Afghanistan. ](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-province-of-afghanistan.md)
-_Context: Afghan, Khost, suicide bomber_
+_Context: Afghanistan, Khost, suicide bomber_
 
 ##### Flash flood
 ### [ Flash flooding kills at least 35 people in the Trang Province of Thailand. ](/news/2007/04/14/flash-flooding-kills-at-least-35-people-in-the-trang-province-of-thailand.md)

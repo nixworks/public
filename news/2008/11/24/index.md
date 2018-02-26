@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/24/index.html)  [JSON](2008/11/24/index.json)  [XML](200
 
 ##### Citigroup
 ### [ Citigroup receives US$32 billion from the United States Emergency Economic Stabilization Act. ](/news/2008/11/24/citigroup-receives-us-32-billion-from-the-united-states-emergency-economic-stabilization-act.md)
-_Context: $, Citigroup, Emergency Economic Stabilization Act, U.S._
+_Context: $, Citigroup, Emergency Economic Stabilization Act, United States_
 
 ##### Yellow shirt
 ### [ People's Alliance for Democracy protestors surround Thailand's National Assembly as part of a "final push" against the government. ](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surround-thailand-s-national-assembly-as-part-of-a-final-push-against-the-government.md)
@@ -27,9 +27,9 @@ _Context: 2008 Santa Catarina floods, Brazil, Santa Catarina, Southern_
 ### [ United Kingdom Prime Minister Gordon Brown outlines plans to raise the income tax rate for the first time since 1975. ](/news/2008/11/24/united-kingdom-prime-minister-gordon-brown-outlines-plans-to-raise-the-income-tax-rate-for-the-first-time-since-1975.md)
 _Context: 1975, Gordon Brown, Prime Minister, United Kingdom, tax_
 
-##### U.S.
+##### United States
 ### [ United States President-elect Barack Obama announces his Treasury team, which includes Timothy F. Geithner as Secretary, Lawrence Summers as president of the National Economic Council, and Christina Romer as chair of the Council of Economic Advisers. ](/news/2008/11/24/united-states-president-elect-barack-obama-announces-his-treasury-team-which-includes-timothy-f-geithner-as-secretary-lawrence-summers-a.md)
-_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, U.S., U.S. President, United States National Economic Council, United States Secretary of the Treasury, United States Treasury Department_
+_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, U.S. President, United States, United States National Economic Council, United States Secretary of the Treasury, United States Treasury Department_
 
 ## [Previous Day...](/news/2008/11/23/index.md)
 

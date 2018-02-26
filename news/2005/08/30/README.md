@@ -13,7 +13,7 @@ _Context: (Wikinews), 2005 Forbes Global CEO Conference, Australia, Sydney_
 
 ##### Indian Prime Minister
 ### [ Prime Minister Manmohan Singh announced India would give US$50 million in additional aid for the reconstruction of Afghanistan during his meetings with Hamid Karzai. Earlier, it had pledged US$500 million to help rebuild the war-ravaged country.](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.md)
-_Context: Afghan, Hamid Karzai, India, Indian Prime Minister, Manmohan Singh_
+_Context: Afghanistan, Hamid Karzai, India, Indian Prime Minister, Manmohan Singh_
 
 ##### Paris
 ### [ In Paris, France, seven die and fourteen are injured when a fire burns down an apartment housing African immigrants owned by the Socit Immobilire d'conomie Mixte de la Ville de Paris 22:00 (GMT+1) ](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.md)
@@ -29,7 +29,7 @@ Miss. governor estimates 80 could be dead in one county alone; two levees break 
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: According to U.S. and Iraqi government officials, US Air strikes near the border with Syria have left 56 civilians and over seven insurgents dead. ](/news/2005/08/30/conflict-in-iraq-according-to-u-s-and-iraqi-government-officials-us-air-strikes-near-the-border-with-syria-have-left-56-civilians-and-ov.md)
-_Context: Air strike, Conflict in Iraq, Iraq, Iraqi insurgency, Syria, U.S., civilian_
+_Context: Air strike, Conflict in Iraq, Iraq, Iraqi insurgency, Syria, United States, civilian_
 
 ## [Previous Day...](/news/2005/08/29/index.md)
 

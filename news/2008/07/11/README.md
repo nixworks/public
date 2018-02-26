@@ -11,9 +11,9 @@ _Context: David Davis, Haltemprice and Howden by-election_
 ### [ The first global study of coral reefs finds that one-third of coral-building species face extinction. ](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.md)
 _Context: coral, coral reef, extinction_
 
-##### South Korean President
+##### South Korean president
 ### [ The President of South Korea Lee Myung-bak proposes resumption of stalled summit talks with North Korea. ](/news/2008/07/11/the-president-of-south-korea-lee-myung-bak-proposes-resumption-of-stalled-summit-talks-with-north-korea.md)
-_Context: Lee Myung-bak, North Korea, South Korean President_
+_Context: Lee Myung-bak, North Korea, South Korean president_
 
 ##### Prime Minister of Lebanon
 ### [ The Prime Minister of Lebanon Fuad Siniora forms a 30-member national government. ](/news/2008/07/11/the-prime-minister-of-lebanon-fuad-siniora-forms-a-30-member-national-government.md)

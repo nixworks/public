@@ -3,9 +3,9 @@ Formats: [HTML](2008/10/24/index.html)  [JSON](2008/10/24/index.json)  [XML](200
 
 ## [2008-10-24](/news/2008/10/24/index.md)
 
-##### U.S.
+##### United States
 ### [ The mother and the brother of American actress and singer Jennifer Hudson are murdered. ](/news/2008/10/24/the-mother-and-the-brother-of-american-actress-and-singer-jennifer-hudson-are-murdered.md)
-_Context: Jennifer Hudson, U.S._
+_Context: Jennifer Hudson, United States_
 
 ##### Government
 ### [ The government of Djibouti has said that the country will have to go to war with Eritrea unless the United Nations acts to resolve growing tension over a border dispute. ](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-country-will-have-to-go-to-war-with-eritrea-unless-the-united-nations-acts-to-resolve-growing.md)

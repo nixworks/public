@@ -37,7 +37,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 
 ##### Obama administration
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: Afghan, Hamid Karzai, Obama administration, Osama Bin Laden, Pakistan, father's killing_
+_Context: Afghanistan, Hamid Karzai, Obama administration, Osama Bin Laden, Pakistan, father's killing_
 
 ##### Japan
 ### [April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. ](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.md)

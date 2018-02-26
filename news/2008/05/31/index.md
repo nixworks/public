@@ -17,7 +17,7 @@ _Context: Bangkok, Prime Minister, Samak Sundaravej, Thailand, yellow shirt_
 
 ##### Suicide bombers
 ### [ Suicide bombers in eastern Afghanistan target a military convoy. NATO's International Security Assistance force says the attack took place in Jalalabad, capital of Nangarhar province. ](/news/2008/05/31/suicide-bombers-in-eastern-afghanistan-target-a-military-convoy-nato-s-international-security-assistance-force-says-the-attack-took-place.md)
-_Context: Afghan, ISAF, Jalalabad, Nangarhar province, Suicide bombers, convoy_
+_Context: Afghanistan, ISAF, Jalalabad, Nangarhar province, Suicide bombers, convoy_
 
 ##### Robert Gates
 ### [ Robert Gates, the United States Secretary of Defense, states that Myanmar's refusal of international aid for victims of Cyclone Nargis has cost "thousands of lives". ](/news/2008/05/31/robert-gates-the-united-states-secretary-of-defense-states-that-myanmar-s-refusal-of-international-aid-for-victims-of-cyclone-nargis-has.md)

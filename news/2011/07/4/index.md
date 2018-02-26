@@ -77,7 +77,7 @@ A group of religious conservatives in Pakistan condemns as &quot;cultural terror
 
 ##### Soldiers
 ### [Australian Army soldier, Sergeant Todd Langley, is killed in fighting in Afghanistan, bringing Australian casualties in the war to 28. ](/news/2011/07/4/australian-army-soldier-sergeant-todd-langley-is-killed-in-fighting-in-afghanistan-bringing-australian-casualties-in-the-war-to-28.md)
-_Context: Afghan, War in Afghanistan (2001-present), soldiers_
+_Context: Afghanistan, War in Afghanistan (2001-present), soldiers_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard pursues with water cannons then boards the ship carrying activists from Belgium, Canada, Italy, Switzerland and Turkey after an unsuccessful attempt to leave Crete harbour. ](/news/2011/07/4/freedom-flotilla-ii-the-greek-coast-guard-pursues-with-water-cannons-then-boards-the-ship-carrying-activists-from-belgium-canada-italy-s.md)

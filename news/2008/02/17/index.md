@@ -9,11 +9,11 @@ _Context: 50th, Daytona 500, Ryan Newman_
 
 ##### Sir David Li
 ### [ Sir David Li resigns from the Executive Council of Hong Kong following a United States Securities Exchange Commission investigation of insider trading in Dow Jones. ](/news/2008/02/17/sir-david-li-resigns-from-the-executive-council-of-hong-kong-following-a-united-states-securities-exchange-commission-investigation-of-insi.md)
-_Context: Dow Jones, Executive Council, Securities Exchange Commission, Sir David Li, U.S., insider trading_
+_Context: Dow Jones, Executive Council, Securities Exchange Commission, Sir David Li, United States, insider trading_
 
 ##### Bomb explodes
 ### [ Dozens of people are killed and dozens more injured as a bomb explodes in a dog fighting match in Kandahar, Afghanistan. ](/news/2008/02/17/dozens-of-people-are-killed-and-dozens-more-injured-as-a-bomb-explodes-in-a-dog-fighting-match-in-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar, bomb explodes, dog fighting_
+_Context: Afghanistan, Kandahar, bomb explodes, dog fighting_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush offers a $700 million aid package to Tanzania. ](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.md)

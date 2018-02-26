@@ -53,7 +53,7 @@ UN watchdog quarterly report says number of centrifuges at Fordo facility more t
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Ban Ki-moon urges Iran to comply with U.N. Security Council resolutions concerning the nuclear program of Iran, and implicitly criticises it for its Israel policy at a meeting of the Non-Aligned Movement. ](/news/2012/08/30/united-nations-secretary-general-ban-ki-moon-urges-iran-to-comply-with-u-n-security-council-resolutions-concerning-the-nuclear-program-of-i.md)
-_Context: Ban Ki-moon, Iran, Israel, Non-Aligned Movement, Security Council, United Nations Secretary-General, United Nations Security Council resolution, nuclear program_
+_Context: Ban Ki-moon, Iran, Israel, Non-Aligned Movement, United Nations Secretary-General, United Nations Security Council, United Nations Security Council resolution, nuclear program_
 
 ##### Iran
 ### [Iran and Egypt describe each other as "strategic allies" at the 16th Summit of the Non-Aligned Movement in Iran. ](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.md)

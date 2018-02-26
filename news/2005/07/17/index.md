@@ -49,7 +49,7 @@ _Context: Baghdad, Conflict in Iraq_
 
 ##### Military
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
-_Context: Afghan, Pakistan, military_
+_Context: Afghanistan, Pakistan, military_
 
 ##### Firemen
 ### [ Fourteen Spanish Firefighters have died while attempting to battle a forest fire in the central province of Guadalajara. ](/news/2005/07/17/fourteen-spanish-firefighters-have-died-while-attempting-to-battle-a-forest-fire-in-the-central-province-of-guadalajara.md)

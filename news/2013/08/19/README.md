@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/19/index.html)  [JSON](2013/08/19/index.json)  [XML](201
 
 ##### Mohammad Ishaq Aloko
 ### [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md)
-_Context: Afghan, Afghanistan President, Hamid Karzai, Mohammad Ishaq Aloko, Taliban, United Arab Emirates_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai, Mohammad Ishaq Aloko, Taliban, United Arab Emirates_
 
 ##### New Zealand
 ### [The first same-sex marriages take place in New Zealand, following the passage of the Marriage Equality Bill in April. ](/news/2013/08/19/the-first-same-sex-marriages-take-place-in-new-zealand-following-the-passage-of-the-marriage-equality-bill-in-april.md)

@@ -17,7 +17,7 @@ Prime Minister David Cameron strongly rebuffs a call by Argentine President Cris
 
 ##### Subaru
 ### [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md)
-_Context: Subaru, U.S._
+_Context: Subaru, United States_
 
 ##### Starbucks
 ### [Starbucks plans to open a coffee shop in Ho Chi Minh City, Vietnam, expanding its reach to 12 Asian nations. ](/news/2013/01/3/starbucks-plans-to-open-a-coffee-shop-in-ho-chi-minh-city-vietnam-expanding-its-reach-to-12-asian-nations.md)

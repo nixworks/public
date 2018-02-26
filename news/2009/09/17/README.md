@@ -37,7 +37,7 @@ _Context: Ali Gomaa, Egypt, Grand Mufti, Islam, Lubna al-Hussein, Sudan, lashes_
 
 ##### Car bomb
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghan, ISAF, Italy, Kabul, car bomb_
+_Context: Afghanistan, ISAF, Italy, Kabul, car bomb_
 
 ##### Ethiopia
 ### [ Ethiopia's Prime Minister Meles Zenawi denounces an International Crisis Group (ICG) report that warns his country could descend into ethnic violence ahead of its first national election since a 2005 poll triggered deadly street clashes. ](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.md)
@@ -61,7 +61,7 @@ _Context: African Union, Mogadishu, Somalia_
 
 ##### Prime Minister of the Czech Republic
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, Prime Minister of the Czech Republic, U.S., U.S. President, missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, Prime Minister of the Czech Republic, U.S. President, United States, missile shield_
 
 ##### French President
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)

@@ -17,7 +17,7 @@ _Context: Jacob Zuma, President of South Africa, Public Protector, South Africa_
 
 ##### Toyota
 ### [Toyota is ordered to pay $1.2 billion to settle charges that it lied to United States safety investigators and the public about deadly accelerator defects. ](/news/2014/03/19/toyota-is-ordered-to-pay-1-2-billion-to-settle-charges-that-it-lied-to-united-states-safety-investigators-and-the-public-about-deadly-accel.md)
-_Context: Toyota, U.S._
+_Context: Toyota, United States_
 
 ##### Egypt
 ### [Two Egyptian army officers and five militants are killed during a warehouse raid in Qalyubiya province north of Cairo. ](/news/2014/03/19/two-egyptian-army-officers-and-five-militants-are-killed-during-a-warehouse-raid-in-qalyubiya-province-north-of-cairo.md)

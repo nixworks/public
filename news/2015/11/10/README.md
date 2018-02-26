@@ -9,17 +9,17 @@ Docker’s grandson, who led country from 1974 to 1982 as it rose to become a gl
 
 ##### Obama administration
 ### [The Obama administration will ask the Supreme Court to overturn yesterday's ruling by the New Orleans, Louisiana, federal Court of Appeals that blocks the deferred deportation of millions of undocumented immigrants who entered the United States as children. ](/news/2015/11/10/the-obama-administration-will-ask-the-supreme-court-to-overturn-yesterday-s-ruling-by-the-new-orleans-louisiana-federal-court-of-appeals-t.md)
-_Context: 5th Circuit Court of Appeals, Obama administration, Supreme Court of the United States, U.S._
+_Context: 5th Circuit Court of Appeals, Obama administration, Supreme Court of the United States, United States_
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [The United States Court of Appeals for the District of Columbia suspends district court judge Richard Leon's ruling yesterday that found the U.S. National Security Agency's phone data collection program is unconstitutional. Leon's decision barred the agency from further collection of data on the plaintiffs in the case -- California attorney J.J. Little and his law firm -- but did not have sufficient authority to outlaw the practice against all Americans. The government plea for the injunction said it will take "at least several weeks" for the NSA to implement a technical change that would prevent collection of Little's data and therefore the entire program would have to shut down early based on Leon's order. ](/news/2015/11/10/the-united-states-court-of-appeals-for-the-district-of-columbia-suspends-district-court-judge-richard-leon-s-ruling-yesterday-that-found-the.md)
-_Context: National Security Agency, Richard Leon's, U.S., U.S. Court of Appeals for the District of Columbia_
+_Context: National Security Agency, Richard Leon's, U.S. Court of Appeals for the District of Columbia, United States_
 
 ##### Kenya Police
 ### [Kenyan police arrest "Daily Nation" senior reporter John Ngirachu who wrote about corruption at the Interior Ministry. Reports alleging outrageous spending by civil servants has raised pressure on President Uhuru Kenyatta. ](/news/2015/11/10/kenyan-police-arrest-daily-nation-senior-reporter-john-ngirachu-who-wrote-about-corruption-at-the-interior-ministry-reports-alleging-outr.md)
 Kenyan police on Tuesday arrested a journalist who wrote about corruption at the Interior Ministry, drawing accusations from media groups that the government was trying to trample free speech.
 
-##### U.S.
+##### United States
 ### [The United States FBI foils an alleged plot by white supremacists in Virginia who were planning a reign of terror -- shooting or bombing religious institutions, robbing jewelers and armored cars, purchasing land, stockpiling weapons, and training for the "coming race war." ](/news/2015/11/10/the-united-states-fbi-foils-an-alleged-plot-by-white-supremacists-in-virginia-who-were-planning-a-reign-of-terror-a-shooting-or-bombing-re.md)
 The plot included plans to bomb and shoot up black churches and Jewish synagogues, as well as a plot to kill a local jewelry dealer and rob an armored car.
 

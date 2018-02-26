@@ -27,13 +27,13 @@ _Context: Africa, Lujo, virus_
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
 _Context: Brazil, Piaui, dam_
 
-##### U.S.
+##### United States
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: Computer security, U.S., U.S. military, military command_
+_Context: Computer security, U.S. military, United States, military command_
 
-##### South Korean President
+##### South Korean president
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: Roh Moo-hyun, Seoul, South Korea, South Korean President, state funeral_
+_Context: Roh Moo-hyun, Seoul, South Korea, South Korean president, state funeral_
 
 ##### Kavya Shivashankar
 ### [ Kavya Shivashankar of Kansas wins the Scripps National Spelling Bee in Washington, D.C. ](/news/2009/05/29/kavya-shivashankar-of-kansas-wins-the-scripps-national-spelling-bee-in-washington-d-c.md)
@@ -51,9 +51,9 @@ _Context: Beamish and Crawford, Irish, brewery_
 ### [ American media companies Time Warner and AOL terminate their merger. ](/news/2009/05/29/american-media-companies-time-warner-and-aol-terminate-their-merger.md)
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.
 
-##### U.S.
+##### United States
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
-_Context: Lana Clarkson, Phil Spector, U.S., murder, record producer_
+_Context: Lana Clarkson, Phil Spector, United States, murder, record producer_
 
 ##### MP
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)

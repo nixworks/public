@@ -19,9 +19,9 @@ _Context: A. Raja, India, Telecommunications Minister, mobile phone_
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
 _Context: Iran, Iranian human rights, human rights, post-election riots_
 
-##### U.S.
+##### United States
 ### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
-_Context: Pakistan, U.S., devastating floods_
+_Context: Pakistan, United States, devastating floods_
 
 ##### New Delhi
 ### [At least 42 people die after a building collapses in eastern New Delhi, India with at least twenty people trapped in the rubble. ](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.md)
@@ -37,7 +37,7 @@ Mining giant BHP Billiton Monday abandoned its 39 billion US dollar takeover bid
 
 ##### US diplomat
 ### [US diplomat Richard Holbrooke says the US has a transition plan for Afghanistan, not an exit strategy, and that there will be some drawdown of American troops in Afghanistan next year but the U.S. combat mission will not end there until 2014. ](/news/2010/11/15/us-diplomat-richard-holbrooke-says-the-us-has-a-transition-plan-for-afghanistan-not-an-exit-strategy-and-that-there-will-be-some-drawdown.md)
-_Context: Afghan, Richard Holbrooke, U.S. combat mission, US diplomat, exit strategy_
+_Context: Afghanistan, Richard Holbrooke, U.S. combat mission, US diplomat, exit strategy_
 
 ## [Previous Day...](/news/2010/11/14/index.md)
 

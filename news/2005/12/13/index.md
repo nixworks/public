@@ -17,7 +17,7 @@ _Context: Great Lakes, Illinois, Indiana, Mich., Minnesota, New York, North Amer
 
 ##### Canada
 ### [ In response to Canadian Prime Minister criticizing the United States on its resistance to climate change initiatives, the U.S. Ambassador to Canada, David Wilkins, openly responds to the statements that he complains were used for political advantage during an election.](/news/2005/12/13/in-response-to-canadian-prime-minister-criticizing-the-united-states-on-its-resistance-to-climate-change-initiatives-the-u-s-ambassador-t.md)
-_Context: Ambassador, Canada, David Wilkins, Prime Minister of Canada, U.S., climate change_
+_Context: Ambassador, Canada, David Wilkins, Prime Minister of Canada, United States, climate change_
 
 ##### Stanley Williams
 ### [ Stanley Williams is executed at San Quentin State Prison by the U.S. state of California. ](/news/2005/12/13/stanley-williams-is-executed-at-san-quentin-state-prison-by-the-u-s-state-of-california.md)
@@ -43,9 +43,9 @@ _Context: George W. Bush, Iraq War, U.S. President_
 ### [ The Sixth Ministerial Conference of the World Trade Organization opened in Hong Kong. European Union Trade Commissioner Peter Mandelson said that he expected little progress on resolving disagreements between ministers. Meanwhile, some protesters from South Korea unsuccessfully attempted to bypass the cordon to reach the location of the conference by swimming across Victoria Harbour. ](/news/2005/12/13/the-sixth-ministerial-conference-of-the-world-trade-organization-opened-in-hong-kong-european-union-trade-commissioner-peter-mandelson-sai.md)
 _Context: European Union, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Trade Commissioner, Victoria Harbour, World Trade Organization, cordon, location of the conference_
 
-##### U.S.
+##### United States
 ### [ Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md)
-_Context: Baghdad, Iraq, U.S., capital, improvised explosive device_
+_Context: Baghdad, Iraq, United States, capital, improvised explosive device_
 
 ## [Previous Day...](/news/2005/12/12/index.md)
 

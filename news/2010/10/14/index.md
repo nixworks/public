@@ -63,9 +63,9 @@ _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
 _Context: China, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister of Japan_
 
-##### Afghan
+##### Afghanistan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Afghan, Iran_
+_Context: Afghanistan, Iran_
 
 ##### Turkey
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
@@ -91,7 +91,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [The number of mortgage foreclosures in the United States in September 2010 exceeds 100,000 for the first time. ](/news/2010/10/14/the-number-of-mortgage-foreclosures-in-the-united-states-in-september-2010-exceeds-100-000-for-the-first-time.md)
 The number of homes taken over by banks topped 100,000 for the first time in September, though foreclosures are expected to slow in coming months as lenders work through questionable paperwork, real estate data company RealtyTrac said on Thursday.
 
-##### U.S.
+##### United States
 ### [The shortlist for the United States National Book Award is announced. ](/news/2010/10/14/the-shortlist-for-the-united-states-national-book-award-is-announced.md)
 Acclaimed Australian author Peter Carey might have missed out the Booker Prize, but he has been shortlisted for America&#039;s National Book Awards.
 
@@ -101,7 +101,7 @@ _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghan, ISAF, NATO, roadside bomb_
+_Context: Afghanistan, ISAF, NATO, roadside bomb_
 
 ## [Previous Day...](/news/2010/10/13/index.md)
 

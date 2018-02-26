@@ -13,7 +13,7 @@ Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted
 
 ##### 115th United States Congress
 ### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
-_Context: 115th United States Congress, U.S., recess_
+_Context: 115th United States Congress, United States, recess_
 
 ##### Raytheon
 ### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
@@ -45,7 +45,7 @@ The bags are currently being sanitized, the airline said.
 
 ##### War in Afghanistan (2015-present)
 ### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context:  Georgian, Afghan, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
+_Context:  Georgian, Afghanistan, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
 
 ## [Previous Day...](/news/2017/08/2/index.md)
 

@@ -31,7 +31,7 @@ _Context: Iraq, Saddam Hussein_
 ### [ Ousted Honduran President Manuel Zelaya is to meet with United States Secretary of State Hillary Clinton. ](/news/2009/07/7/ousted-honduran-president-manuel-zelaya-is-to-meet-with-united-states-secretary-of-state-hillary-clinton.md)
 Ousted Honduran President Manuel Zelaya on Tuesday accepted a U.S.-backed effort by Costa Rican President Oscar Arias to mediate an end to the political crisis in Honduras and said talks with his rivals would begin on Thursday.
 
-##### U.S.
+##### United States
 ### [ 12 people die in a U.S. missile strike on a training camp run by Baitullah Mehsud in South Waziristan, Pakistan. ](/news/2009/07/7/12-people-die-in-a-u-s-missile-strike-on-a-training-camp-run-by-baitullah-mehsud-in-south-waziristan-pakistan.md)
 Training camp reportedly run by Taliban leader Baitullah Mehsud targeted, killing 16 people.
 
@@ -49,7 +49,7 @@ _Context: Mogadishu, Somalia, United Nations, violence_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md)
-_Context: North Korea, Security Council, United Nations, missile launches_
+_Context: North Korea, United Nations, United Nations Security Council, missile launches_
 
 ##### Child abuse
 ### [ An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. ](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested-in-ireland-by-the-labour-party-s-ruairi-quinn-with-education-minister-batt-o-keeffe-criti.md)

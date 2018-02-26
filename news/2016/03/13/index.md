@@ -23,7 +23,7 @@ _Context: Israeli Defence Forces, Israeli-Palestinian conflict, Palestinian_
 ### [The Palestinian Ministry of Foreign Affairs says Israel prevented Indonesian Foreign Minister Retno Marsudi from entering the West Bank to meet with Palestinian officials. The Israeli spokesman would not comment. Israel and Indonesia do not have formal diplomatic relations. ](/news/2016/03/13/the-palestinian-ministry-of-foreign-affairs-says-israel-prevented-indonesian-foreign-minister-retno-marsudi-from-entering-the-west-bank-to-m.md)
 Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit the occupied West Bank, where she was to hold talks with Palestinian leaders, the Palestinian foreign ministry said. Israeli authorities control access to the West
 
-##### U.S.
+##### United States
 ### [United States officials say North Korea has apparently lost contact with one of its submarines. The U.S. was watching the sub off North Korea's eastern coast when it vanished earlier this week. Officials are unsure whether the missing vessel is adrift or has sunk. ](/news/2016/03/13/united-states-officials-say-north-korea-has-apparently-lost-contact-with-one-of-its-submarines-the-u-s-was-watching-the-sub-off-north-kore.md)
 US officials claim the secretive Communist state lost contact with the submarine.
 

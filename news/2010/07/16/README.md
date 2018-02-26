@@ -91,7 +91,7 @@ The Bangladeshi government orders mosques and libraries across the country to re
 ### [The death toll from the suicide bombings in Zahedan, Iran, rises to 27. ](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zahedan-iran-rises-to-27.md)
 _Context: Zahedan, recent bombings_
 
-##### U.S.
+##### United States
 ### [The United States places U.S.-born Muslim cleric Anwar al-Awlaki on its "terror blacklist". ](/news/2010/07/16/the-united-states-places-u-s-born-muslim-cleric-anwar-al-awlaki-on-its-terror-blacklist.md)
 Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for allegedly planning attacks on the US.
 

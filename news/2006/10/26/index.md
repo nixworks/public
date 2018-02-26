@@ -7,13 +7,13 @@ Formats: [HTML](2006/10/26/index.html)  [JSON](2006/10/26/index.json)  [XML](200
 ### [ A German minister claims that two Israeli fighter jets fired two shots over a German naval peacekeeping ship near the Lebanese coast. Israel denies the jets fired. ](/news/2006/10/26/a-german-minister-claims-that-two-israeli-fighter-jets-fired-two-shots-over-a-german-naval-peacekeeping-ship-near-the-lebanese-coast-israe.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan government officials claim at least 60 civilians were killed in ISAF Operation Medusa in the Panjwayi district of Kandahar province on Tuesday. ](/news/2006/10/26/afghan-government-officials-claim-at-least-60-civilians-were-killed-in-isaf-operation-medusa-in-the-panjwayi-district-of-kandahar-province.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ##### ExxonMobil Corporation
 ### [ ExxonMobil Corp., the world's largest petroleum extracting company, says its third-quarter net income rose to USD $10.5 billion from $9.92 billion as crude prices rise to an all-time high. This is the second highest quarterly profit figure for a United States company. ](/news/2006/10/26/exxonmobil-corp-the-world-s-largest-petroleum-extracting-company-says-its-third-quarter-net-income-rose-to-usd-10-5-billion-from-9-92.md)
-_Context: ExxonMobil Corporation, U.S., USD, petroleum, profit_
+_Context: ExxonMobil Corporation, USD, United States, petroleum, profit_
 
 ##### Governments of Kiribati
 ### [ The Governments of Kiribati and Tuvalu say the citizens of their countries will need to be permanently relocated over the next ten years due to rising sea levels caused by global warming. ](/news/2006/10/26/the-governments-of-kiribati-and-tuvalu-say-the-citizens-of-their-countries-will-need-to-be-permanently-relocated-over-the-next-ten-years-du.md)
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Esperanza Fire
 ### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
-_Context: Esperanza Fire, Palm Springs, California, U.S., arsonist_
+_Context: Esperanza Fire, Palm Springs, California, United States, arsonist_
 
 ##### Russia
 ### [ A Russian Progress spacecraft hauling fresh food, oxygen and vital spare parts for the International Space Station (ISS) arrived at its orbital destination after a successful rendezvous marred by a last-minute antenna glitch. ](/news/2006/10/26/a-russian-progress-spacecraft-hauling-fresh-food-oxygen-and-vital-spare-parts-for-the-international-space-station-iss-arrived-at-its-orb.md)

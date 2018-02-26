@@ -47,9 +47,9 @@ Egypt’s navy seized a Togolese-flagged ship carrying heavy weapons late yester
 ### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;
 
-##### U.S.
+##### United States
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
-_Context: ''Neuron'', Alzheimer's disease, U.S., Washington University, genetic markers_
+_Context: ''Neuron'', Alzheimer's disease, United States, Washington University, genetic markers_
 
 ##### H7N9
 ### [The death toll from the recently discovered H7N9 bird flu rises to six. China begin slaughtering birds in hopes of containing the disease. ](/news/2013/04/4/the-death-toll-from-the-recently-discovered-h7n9-bird-flu-rises-to-six-china-begin-slaughtering-birds-in-hopes-of-containing-the-disease.md)
@@ -75,7 +75,7 @@ _Context: CEO, Enron, Jeffrey Skilling_
 ### [Mining giant Rio Tinto, continuing a program of asset divestment, asks Macquarie Group to find a buyer for its interest in the Australian Northparkes copper and gold mine. ](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.md)
 _Context: Macquarie Group, Northparkes, Rio Tinto, copper, gold_
 
-##### U.S.
+##### United States
 ### [American Pulitzer Prize-winning film reviewer Roger Ebert dies at the age of 70 following a battle with cancer which initially cost him his voice. ](/news/2013/04/4/american-pulitzer-prize-winning-film-reviewer-roger-ebert-dies-at-the-age-of-70-following-a-battle-with-cancer-which-initially-cost-him-his.md)
 Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He battled cancer publicly, but still wrote more than 200 reviews a year for the paper.
 

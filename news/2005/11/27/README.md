@@ -13,7 +13,7 @@ _Context: Democratic Action Party, Lim Kit Siang, Malaysia, Malaysian prisoner a
 
 ##### Earthquake hits southern Iran
 ### [ An earthquake hits southern Iran, measuring 5.9 on the moment magnitude scale. ](/news/2005/11/27/an-earthquake-hits-southern-iran-measuring-5-9-on-the-moment-magnitude-scale.md)
-_Context: M<sub>w</sub>&nbsp;5.2, earthquake hits southern Iran_
+_Context: earthquake hits southern Iran, magnitude_
 
 ##### Honduran general election, 2005
 ### [ Honduran general election, 2005: Elections in Honduras are held, Manuel Zelaya is elected as President of Honduras. ](/news/2005/11/27/honduran-general-election-2005-elections-in-honduras-are-held-manuel-zelaya-is-elected-as-president-of-honduras.md)

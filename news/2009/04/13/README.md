@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/13/index.html)  [JSON](2009/04/13/index.json)  [XML](200
 
 ##### United Nations
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
-_Context: Kwangmyongsong-2, North Korea, Security Council, United Nations, launches_
+_Context: Kwangmyongsong-2, North Korea, United Nations, United Nations Security Council, launches_
 
 ##### Protest
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)

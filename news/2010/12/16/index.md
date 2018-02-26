@@ -89,7 +89,7 @@ A U.S. missile strike killed seven militants Thursday in a Pakistani region clos
 
 ##### Herat
 ### [Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. ](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.md)
-_Context: Afghan, Herat_
+_Context: Afghanistan, Herat_
 
 ##### Sidi Bouzid
 ### [Riots in Sidi Bouzid, Tunisia. ](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.md)

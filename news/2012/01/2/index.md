@@ -7,9 +7,9 @@ Formats: [HTML](2012/01/2/index.html)  [JSON](2012/01/2/index.json)  [XML](2012/
 ### [The Russian Federal Space Agency expects that parts of its failed Fobos-Grunt Mars probe will re-enter the Earth's atmosphere during the next week. ](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.md)
 _Context: Fobos-Grunt, Russian Federal Space Agency_
 
-##### Chinese President
+##### President
 ### [President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". ](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.md)
-_Context: Chinese President, Hu Jintao, westernise_
+_Context: Hu Jintao, President, westernise_
 
 ##### Military government
 ### [The military government of Fiji announces that it is to lift martial law and other emergency regulations. ](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.md)
@@ -35,9 +35,9 @@ Iran said on Monday it had successfully test-fired what it described as two long
 ### [The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. ](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.md)
 _Context: Baghdadi Mahmudi, Libyan Prime Minister, Moncef Marzouki, President of Tunisia, Tripoli, Tunisia, extradite_
 
-##### South Korean President
+##### South Korean president
 ### [The President of South Korea, Lee Myung-bak, states that he is open to negotiations with North Korea on its nuclear program, but calls on the North to avoid "provocations". ](/news/2012/01/2/the-president-of-south-korea-lee-myung-bak-states-that-he-is-open-to-negotiations-with-north-korea-on-its-nuclear-program-but-calls-on-th.md)
-_Context: Lee Myung-bak, North Korea, South Korean President, its nuclear program_
+_Context: Lee Myung-bak, North Korea, South Korean president, its nuclear program_
 
 ##### India
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)

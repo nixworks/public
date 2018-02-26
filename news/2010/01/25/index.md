@@ -21,7 +21,7 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 ### [A record-breaking half a million Australians take extra time off work "sick" as Australia Day approaches. ](/news/2010/01/25/a-record-breaking-half-a-million-australians-take-extra-time-off-work-sick-as-australia-day-approaches.md)
 A record half a million Australians have chucked a sickie on Monday, ditching work in favour of a four-day long weekend, a management firm says.
 
-##### Afghan
+##### Afghanistan
 ### [An inquest into the deaths of five Afghan asylum seekers opens in Australia. ](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.md)
 Agitated asylum seekers saying &amp;#x201C;no Indonesia&amp;#x201D; and making cut-throat gestures had taken control of a boat from a Navy boarding party minutes before an explosion that killed five Afhganis, a coroner has heard.
 
@@ -33,9 +33,9 @@ _Context: Perth, Qantas_
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
 Aircraft carrying 90 people plunges into Mediterranean Sea.
 
-##### U.S.
+##### United States
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: Algeria, U.S._
+_Context: Algeria, United States_
 
 ##### Burma
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)

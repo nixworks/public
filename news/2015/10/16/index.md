@@ -15,7 +15,7 @@ A federal judge has chosen for now not to force Texas health officials to change
 ### [Rafe Esquith, a notable teacher in the Los Angeles, California, public school system files a $1 billion class action lawsuit against the LA Unified School District. Esquith, recently removed from teaching and subsequently fired, alleges on behalf of almost 2,000 individuals, certain age-discrimination tactics by the school system against older teachers. ](/news/2015/10/16/rafe-esquith-a-notable-teacher-in-the-los-angeles-california-public-school-system-files-a-1-billion-class-action-lawsuit-against-the-la.md)
 _Context: California, LA Unified School District, Los Angeles, Rafe Esquith_
 
-##### U.S.
+##### United States
 ### [The United States confirms Iran tested a medium-range missile capable of delivering a nuclear weapon, in "clear violation" of a United Nations Security Council ban on ballistic missile tests. ](/news/2015/10/16/the-united-states-confirms-iran-tested-a-medium-range-missile-capable-of-delivering-a-nuclear-weapon-in-clear-violation-of-a-united-natio.md)
 The United States has confirmed that Iran tested a medium-range missile capable of delivering a nuclear weapon, in &quot;clear violation&quot; of a United Nations Security Council ban on ballistic missile tests, a senior U.S. official said on Friday.
 
@@ -29,7 +29,7 @@ A summit of Park Geun-hye and Prime Minister Shinzo Abe of Japan would be welcom
 
 ##### Russia
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghan, Kazakhstan, Russia_
+_Context: Afghanistan, Kazakhstan, Russia_
 
 ##### European migrant crisis
 ### [The European Union and Turkey reach an agreement for Turkey to stem the flow of migrants into Europe in return for a GBP3bn aid package, easier visa conditions and re-energised talks to join the bloc. ](/news/2015/10/16/the-european-union-and-turkey-reach-an-agreement-for-turkey-to-stem-the-flow-of-migrants-into-europe-in-return-for-a-agbp3bn-aid-package-ea.md)

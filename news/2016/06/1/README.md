@@ -27,7 +27,7 @@ The Texas man was charged with murder in the stabbing of his girlfriend, and the
 ### [ Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campus-is-now-safe.md)
 Police are investigating a possible active shooter at UCLA.
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council condemns North Korea's failed ballistic missile test yesterday, as well as two other unsuccessful ones in April. ](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.md)
 The United Nations Security Council on Wednesday condemned three recent failed ballistic missile tests by North Korea and threatened to take further &quot;significant measures.&quot;
 

@@ -9,7 +9,7 @@ _Context: England, Republic of the Congo, mire_
 
 ##### CIA
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield. ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: Afghan, Bagram Airfield, Barack Obama, CIA, U.S. President_
+_Context: Afghanistan, Bagram Airfield, Barack Obama, CIA, U.S. President_
 
 ##### Government of Egypt
 ### [The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-encourage-turnout.md)
@@ -43,9 +43,9 @@ After unrest erupts in the remote Black Sea territory of Abkhazia, sandwiched be
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar Province, Baghdad, Iraq, Iraqi Insurgency_
 
-##### U.S.
+##### United States
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, U.S._
+_Context: Pakistan, United States_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghanistan-for-a-year-after-the-withdrawal.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2005/11/1/index.html)  [JSON](2005/11/1/index.json)  [XML](2005/
 
 ## [2005-11-1](/news/2005/11/1/index.md)
 
-##### U.S.
+##### United States
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: Afghan, Bagram, July, Omar al-Faruq, U.S._
+_Context: Afghanistan, Bagram, July, Omar al-Faruq, United States_
 
 ##### Makybe Diva
 ### [ Makybe Diva wins the Melbourne Cup thoroughbred horse race for the third consecutive year, becoming the first horse ever to do so. Shortly thereafter, owner Tony Santic announces her retirement from racing. ](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.md)
@@ -31,17 +31,17 @@ _Context: Al Aqsa Martyrs Brigade, Gaza Strip, Hamas, Israel, Israeli-Palestinia
 ### [ Zanzibar's ruling Chama Cha Mapinduzi party and President Amani Abeid Karume are declared re-elected in a disputed election. Police clashed with opposition supporters, leaving 9 dead. ](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.md)
 _Context: Amani Abeid Karume, Chama Cha Mapinduzi, President, Zanzibar_
 
-##### Security Council
+##### United Nations Security Council
 ### [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md)
-_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Security Council, Syria, UNSC resolution, assassination_
+_Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Syria, UNSC resolution, United Nations Security Council, assassination_
 
 ##### Moons
 ### [ The discovery of two additional moons of Pluto is announced. ](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.md)
 _Context: Pluto, moons_
 
-##### U.S.
+##### United States
 ### [ U.S. Senate Minority Leader Harry Reid and his fellow Democrats force a closed session of the Senate over misinformed intelligence that led to the Iraq War and evasion of a congressional inquiry. ](/news/2005/11/1/u-s-senate-minority-leader-harry-reid-and-his-fellow-democrats-force-a-closed-session-of-the-senate-over-misinformed-intelligence-that-led.md)
-_Context: Democrat, Harry Reid, Iraq War, U.S., United States Senate, United States Senate Minority Leader, closed session_
+_Context: Democrat, Harry Reid, Iraq War, United States, United States Senate, United States Senate Minority Leader, closed session_
 
 ## [Previous Day...](/news/2005/10/31/index.md)
 

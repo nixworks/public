@@ -13,7 +13,7 @@ _Context: Galveston Bay, Texas_
 
 ##### Oso
 ### [A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/a-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md)
-_Context: Oso, U.S., Washington_
+_Context: Oso, United States, Washington_
 
 ##### Balochistan
 ### [At least 35 people die in Balochistan, Pakistan, in a collision between a petrol tanker and two buses. ](/news/2014/03/22/at-least-35-people-die-in-balochistan-pakistan-in-a-collision-between-a-petrol-tanker-and-two-buses.md)

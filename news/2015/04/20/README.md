@@ -13,7 +13,7 @@ A student armed with a makeshift crossbow and a knife kills a teacher at a schoo
 
 ##### Blue Bell Creameries
 ### [Blue Bell Creameries recalls all of its products in the United States due to a "Listeria monocytogenes" outbreak. ](/news/2015/04/20/blue-bell-creameries-recalls-all-of-its-products-in-the-united-states-due-to-a-listeria-monocytogenes-outbreak.md)
-_Context: Blue Bell Creameries, Listeria monocytogenes, U.S._
+_Context: Blue Bell Creameries, Listeria monocytogenes, United States_
 
 ##### Hunter Region
 ### [Two people are missing in the Hunter Region of New South Wales as an Australian east coast low causes widespread flooding, gale force winds and the loss of power to 140,000 properties. ](/news/2015/04/20/two-people-are-missing-in-the-hunter-region-of-new-south-wales-as-an-australian-east-coast-low-causes-widespread-flooding-gale-force-winds.md)

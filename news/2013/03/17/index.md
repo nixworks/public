@@ -21,7 +21,7 @@ Olivier Metzner, one of France’s best-known lawyers, was found dead from an ap
 
 ##### Shooting
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: Belle Glade, Florida, U.S., nightclub, shooting_
+_Context: Belle Glade, Florida, United States, nightclub, shooting_
 
 ##### Albania
 ### [An Albanian hitman serving time in Greece takes six people hostage in an apparent escape attempt. ](/news/2013/03/17/an-albanian-hitman-serving-time-in-greece-takes-six-people-hostage-in-an-apparent-escape-attempt.md)

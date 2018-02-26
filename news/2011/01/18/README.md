@@ -103,9 +103,9 @@ Israeli tanks enter the northern Gaza Strip, sparking fighting that kills one Pa
 ### [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md)
 Shootings between an unidentified rebel group and government forces in Sudan’s western region of Darfur left three officers dead, the United Nations and African Union peacekeeping mission said.
 
-##### U.S.
+##### United States
 ### [A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md)
-_Context: U.S., War in North-West Pakistan, drone attack_
+_Context: United States, War in North-West Pakistan, drone attack_
 
 ## [Previous Day...](/news/2011/01/17/index.md)
 

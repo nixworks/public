@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/21/index.html)  [JSON](2007/10/21/index.json)  [XML](200
 
 ##### Chinese
 ### [ Three of the Peoples Republic of China's top politicians, namely, Vice-President Zeng Qinghong, anti-corruption chief Wu Guanzheng, and Luo Gan, are dropped from the Communist Party of China's Central Committee. Also retiring are Vice-Premier Wu Yi, Vice-Premier Zeng Peiyan, and Defence Minister Cao Gangchuan. Hu's "Scientific Development Concept" is enshrined in the Party Constitution. ](/news/2007/10/21/three-of-the-peoples-republic-of-china-s-top-politicians-namely-vice-president-zeng-qinghong-anti-corruption-chief-wu-guanzheng-and-luo.md)
-_Context: Cao Gangchuan, Central Committee, Chinese, Communist Party of China, Luo Gan, Scientific Development Concept, Wu Guanzheng, Wu Yi, Zeng Peiyan, Zeng Qinghong_
+_Context: Cao Gangchuan, Central Committee of the Communist Party of China, Chinese, Communist Party of China, Luo Gan, Scientific Development Concept, Wu Guanzheng, Wu Yi, Zeng Peiyan, Zeng Qinghong_
 
 ##### Switzerland
 ### [ Swiss voters go to the polls for the Swiss federal election, 2007, with the right-wing Swiss People's Party set to win. ](/news/2007/10/21/swiss-voters-go-to-the-polls-for-the-swiss-federal-election-2007-with-the-right-wing-swiss-people-s-party-set-to-win.md)
@@ -49,7 +49,7 @@ _Context: Chinese, Fujian, Putian, factory_
 
 ##### Washington Institute for Near East Policy
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: Dick Cheney, Iran, U.S., U.S. Vice President, Washington Institute for Near East Policy, nuclear weapon_
+_Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear weapon_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz people go to the polls to vote on a constitutional referendum called by President Kurmanbek Bakiyev. ](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.md)

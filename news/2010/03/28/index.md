@@ -45,7 +45,7 @@ A 15-year-old boy was killed and his mother and sister injured late Sunday after
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: Afghan, Afghanistan President, Barack Obama, Hamid Karzai, U.S. President_
+_Context: Afghanistan, Afghanistan President, Barack Obama, Hamid Karzai, U.S. President_
 
 ##### Israel
 ### [Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holiday.md)

@@ -37,13 +37,13 @@ The European Union suspends sanctions against 81 officials and eight firms in Zi
 
 ##### Chinese
 ### [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md)
-_Context: Africa, Chinese, Chinese President, Dar es Salaam, Tanzania, Xi Jinping_
+_Context: Africa, Chinese, Dar es Salaam, President, Tanzania, Xi Jinping_
 
 ##### South Korea
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)
 South Korea and the United States sign a plan providing for a joint response in the event of &quot;provocations&quot; from North Korea.
 
-##### U.S.
+##### United States
 ### [The United States agrees to hand over Bagram Jail, its main detention facility in Afghanistan, to the country's government. ](/news/2013/03/25/the-united-states-agrees-to-hand-over-bagram-jail-its-main-detention-facility-in-afghanistan-to-the-country-s-government.md)
 Transfer ends one of several bitter standoffs straining bilateral ties as US secretary of state meets Karzai in Kabul.
 

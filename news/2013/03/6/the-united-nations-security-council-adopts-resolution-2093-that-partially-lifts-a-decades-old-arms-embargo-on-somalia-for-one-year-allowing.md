@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/6/the-united-nations-security-council-adopts-resol
 
 ### [2013-03-6](/news/2013/03/6/index.md)
 
-##### Security Council
+##### United Nations Security Council
 # The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. 
 
 The U.N. Security Council agreed on Wednesday to partially lift a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy light weapons to strengthen its security forces to fight al Qaeda-linked Islamists.

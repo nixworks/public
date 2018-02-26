@@ -19,9 +19,9 @@ _Context: Gran Persson, Swedish Prime Minister, Swedish Social Democratic Party,
 ### [ Fidel Castro, long-time ruler of Cuba, falls after a televised speech, breaking a leg and an arm. ](/news/2004/10/21/fidel-castro-long-time-ruler-of-cuba-falls-after-a-televised-speech-breaking-a-leg-and-an-arm.md)
 _Context: Cuba, Fidel Castro_
 
-##### Afghan
+##### Afghanistan
 ### [ A U.S. pilot is killed in Afghanistan when his Sikorsky HH-60 helicopter crashes due to technical problems. ](/news/2004/10/21/a-u-s-pilot-is-killed-in-afghanistan-when-his-sikorsky-hh-60-helicopter-crashes-due-to-technical-problems.md)
-_Context: Afghan, HH-60, Sikorsky Aircraft, helicopter_
+_Context: Afghanistan, HH-60, Sikorsky Aircraft, helicopter_
 
 ##### Xinmi
 ### [ In Xinmi, China, a gas explosion in a coal mine kills 62 people; 86 are still missing. ](/news/2004/10/21/in-xinmi-china-a-gas-explosion-in-a-coal-mine-kills-62-people-86-are-still-missing.md)

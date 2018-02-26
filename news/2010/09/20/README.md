@@ -41,9 +41,9 @@ Also on Monday, Israel permits a shipment of private vehicles to enter Gaza for 
 ### [World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. ](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.md)
 _Context: Millennium Development Goal, New York City, United Nations_
 
-##### U.S.
+##### United States
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
-_Context: Australia, Delhi, India, Jama Masjid, Taiwan, U.S., mosque_
+_Context: Australia, Delhi, India, Jama Masjid, Taiwan, United States, mosque_
 
 ##### IAEA
 ### [The 54th International Atomic Energy Agency (IAEA) General Conference opens in Vienna with attendance by 151 countries. ](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.md)
@@ -69,13 +69,13 @@ _Context: India, Madhya Pradesh, Shivpuri district, train_
 ### [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md)
 About 110 people have been injured, 22 seriously, when part of the seating at a stadium in Brazil collapsed during a car race, rescue services say.
 
-##### U.S.
+##### United States
 ### [Jailed U.S. entertainer Lindsay Lohan has her probation revoked by Judge Elden Fox following a failed drug test. ](/news/2010/09/20/jailed-u-s-entertainer-lindsay-lohan-has-her-probation-revoked-by-judge-elden-fox-following-a-failed-drug-test.md)
-_Context: Lindsay Lohan, U.S., drug test, probation_
+_Context: Lindsay Lohan, United States, drug test, probation_
 
-##### U.S.
+##### United States
 ### [More than 600 antiquities lost in mysterious circumstances due to "inappropriate handover procedures" after being repatriated by the United States in 2009 are found and returned to the National Museum of Iraq. ](/news/2010/09/20/more-than-600-antiquities-lost-in-mysterious-circumstances-due-to-inappropriate-handover-procedures-after-being-repatriated-by-the-united.md)
-_Context: National Museum of Iraq, U.S._
+_Context: National Museum of Iraq, United States_
 
 ##### Glastonbury Abbey
 ### [The director of Glastonbury Abbey issues an apology after giving Hollywood actor Nicolas Cage access to the grave of King Arthur during a live TV broadcast. ](/news/2010/09/20/the-director-of-glastonbury-abbey-issues-an-apology-after-giving-hollywood-actor-nicolas-cage-access-to-the-grave-of-king-arthur-during-a-li.md)

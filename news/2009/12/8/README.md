@@ -37,7 +37,7 @@ A Serbian court has fined President Boris Tadic €400 for drinking champagne to
 
 ##### CBS
 ### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md)
-_Context: As the World Turns, CBS, Procter & Gamble, U.S., soap opera_
+_Context: As the World Turns, CBS, Procter & Gamble, United States, soap opera_
 
 ##### Honduras
 ### [ Gunmen in Honduras shoot dead the head of the country's anti-drug trafficking unit, Julian Aristides Gonzalez. ](/news/2009/12/8/gunmen-in-honduras-shoot-dead-the-head-of-the-country-s-anti-drug-trafficking-unit-julian-aristides-gonzalez.md)

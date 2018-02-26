@@ -13,7 +13,7 @@ _Context: Diet, Prime Minister of Japan, Shinzo Abe, World War II_
 
 ##### Lashkar Gah
 ### [ At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. ](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.md)
-_Context: Afghan, Lashkar Gah_
+_Context: Afghanistan, Lashkar Gah_
 
 ##### WorldCom
 ### [ Former WorldCom chief Bernard Ebbers reports to a federal prison in the U.S. state of Louisiana to begin a 25-year prison term. ](/news/2006/09/26/former-worldcom-chief-bernard-ebbers-reports-to-a-federal-prison-in-the-u-s-state-of-louisiana-to-begin-a-25-year-prison-term.md)

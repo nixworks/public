@@ -25,7 +25,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 
 ##### Park Geun-hye
 ### [Park Geun-hye is sworn in as the first female President of South Korea in the capital Seoul. ](/news/2013/02/25/park-geun-hye-is-sworn-in-as-the-first-female-president-of-south-korea-in-the-capital-seoul.md)
-_Context: Park Geun-hye, Seoul, South Korea, South Korean President_
+_Context: Park Geun-hye, Seoul, South Korea, South Korean president_
 
 ##### Italy Common Good
 ### [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md)
@@ -41,9 +41,9 @@ _Context: Russia, banning, enacts, school, smoking, subways_
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghan, NATO, U.S._
+_Context: Afghanistan, NATO, United States_
 
-##### U.S.
+##### United States
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
 C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to promote childhood sex education for AIDS prevention and issued the first government warning about second-hand tobacco smoke, has died. He was 96.
 

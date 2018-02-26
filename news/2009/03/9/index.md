@@ -47,13 +47,13 @@ _Context: North Korea, satellite_
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
 _Context: Antarctica, Argentina, Chile, United Kingdom, disputed region, territory_
 
-##### U.S.
+##### United States
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, U.S., U.S. President, embryonic stem cell research, restrictions_
+_Context: Barack Obama, George W. Bush, U.S. President, United States, embryonic stem cell research, restrictions_
 
-##### U.S.
+##### United States
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS "Impeccable" in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', China, South China Sea, U.S., U.S. government, USNS_
+_Context: ''Impeccable'', China, South China Sea, U.S. government, USNS, United States_
 
 ##### Police Service of Northern Ireland
 ### [ A Police Service officer is killed in Craigavon, County Armagh, Northern Ireland. ](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.md)

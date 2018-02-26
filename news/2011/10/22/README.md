@@ -13,7 +13,7 @@ _Context: Crown Prince Sultan, Nayef bin Abdul-Aziz, Saudi_
 
 ##### Morocco
 ### [Morocco, Togo, Guatemala and Pakistan are elected to the United Nations Security Council, with a fifth seat still undecided. ](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.md)
-_Context: Guatemala, Morocco, Pakistan, Security Council, Togo, elected_
+_Context: Guatemala, Morocco, Pakistan, Togo, United Nations Security Council, elected_
 
 ##### National Transitional Council
 ### [National Transitional Council chairman Mahmoud Jibril announces that Libyan elections will occur "within months". ](/news/2011/10/22/national-transitional-council-chairman-mahmoud-jibril-announces-that-libyan-elections-will-occur-within-months.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2016/10/26/index.html)  [JSON](2016/10/26/index.json)  [XML](201
 ### [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md)
 _Context: 2014-16 Venezuelan protests, Venezuelan government, police_
 
-##### U.S.
+##### United States
 ### [For the first time in 25 years, the United States abstains in a United Nations vote calling for an end to its Cuban economic embargo. ](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.md)
 The United States on Wednesday abstained for the first time from a United Nations General Assembly vote on a resolution calling for an end to a U.S. economic embargo on Cuba, after opposing such measures every year for 24 years.
 

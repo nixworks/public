@@ -39,7 +39,7 @@ _Context: December 2005, Iraq, National Assembly of Iraq, Shiite, United Iraqi A
 ### [ Embroiled in a nuclear standoff with the West, Iran says it is moving funds out of Europe to shield them from possible U.N. sanctions. ](/news/2006/01/20/embroiled-in-a-nuclear-standoff-with-the-west-iran-says-it-is-moving-funds-out-of-europe-to-shield-them-from-possible-u-n-sanctions.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Afghan
+##### Afghanistan
 ### [ Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar. The discovery comes just days after a suicide bomber killed Canadian diplomat Glyn Berry and seriously wounded three soldiers travelling with him. ](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.md)
 Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar.
 

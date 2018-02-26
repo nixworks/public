@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/27/index.html)  [JSON](2008/03/27/index.json)  [XML](200
 
 ##### Columbus, Georgia's
 ### [ A gunman opens fire at Doctors Hospital in Columbus, Georgia, United States, killing two people and critically wounding one other who later died of his injuries before being shot and wounded by police. ](/news/2008/03/27/a-gunman-opens-fire-at-doctors-hospital-in-columbus-georgia-united-states-killing-two-people-and-critically-wounding-one-other-who-later.md)
-_Context: Columbus, Georgia's, Georgia, U.S._
+_Context: Columbus, Georgia's, Georgia, United States_
 
 ##### Voice
 ### [ The oldest known recording of a human voice, created with a phonautograph by douard-Lon Scott de Martinville on April 9, 1860 is replayed by American researchers. ](/news/2008/03/27/the-oldest-known-recording-of-a-human-voice-created-with-a-phonautograph-by-edouard-leon-scott-de-martinville-on-april-9-1860-is-replayed.md)

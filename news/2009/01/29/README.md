@@ -31,9 +31,9 @@ _Context: 2002, Fernando Andreu, Israel, Judge, Salah Shehade, Spain, assassinat
 ### [ Zimbabwe allows the use of foreign currencies alongside its dollar. ](/news/2009/01/29/zimbabwe-allows-the-use-of-foreign-currencies-alongside-its-dollar.md)
 _Context: Zimbabwe, currencies, dollar_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghanistan's presidential election is delayed due to the country's security situation. ](/news/2009/01/29/afghanistan-s-presidential-election-is-delayed-due-to-the-country-s-security-situation.md)
-_Context: Afghan, War in Afghanistan (2001-present), presidential election_
+_Context: Afghanistan, War in Afghanistan (2001-present), presidential election_
 
 ##### Illinois
 ### [ The Illinois Senate votes unanimously to remove Governor Rod Blagojevich from office and bar him from future state employment. Lieutenant Governor Pat Quinn is sworn in to finish Blagojevich's term. ](/news/2009/01/29/the-illinois-senate-votes-unanimously-to-remove-governor-rod-blagojevich-from-office-and-bar-him-from-future-state-employment-lieutenant-g.md)

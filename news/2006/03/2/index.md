@@ -13,7 +13,7 @@ _Context: David Mills, Milan, Silvio Berlusconi, Tessa Jowell, bribes_
 
 ##### Prison riot
 ### [ A prison riot involving close to 1,300 prisoners at Afghanistan's Pul-e-Charkhi prison ended after four days. ](/news/2006/03/2/a-prison-riot-involving-close-to-1-300-prisoners-at-afghanistan-s-pul-e-charkhi-prison-ended-after-four-days.md)
-_Context: Afghan, Pul-e-Charkhi prison, prison riot_
+_Context: Afghanistan, Pul-e-Charkhi prison, prison riot_
 
 ##### U.S. President
 ### [ Just two days before U.S. President George W. Bush is scheduled to visit Pakistan, a car bomb exploded in the Marriott Hotel Karachi parking lot adjacent to a United States consulate in Karachi, killing at least four people including a US diplomat and his driver and injuring at least fifty others. ](/news/2006/03/2/just-two-days-before-u-s-president-george-w-bush-is-scheduled-to-visit-pakistan-a-car-bomb-exploded-in-the-marriott-hotel-karachi-parkin.md)

@@ -51,7 +51,7 @@ _Context: Malaysia, Muslim, Shia_
 ### [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md)
 Barack Obama has met the Queen and senior royals at the start of a three-day state visit as he hails the &quot;essential relationship&quot; between the US and UK.
 
-##### U.S.
+##### United States
 ### [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md)
 A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to assess the food situation in the reclusive nation.
 
@@ -91,9 +91,9 @@ _Context: Abyei, Agok, Southern Sudan, Sudan, United Nations_
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.
 
-##### Afghan
+##### Afghanistan
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Afghan, Kandahar Province_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)

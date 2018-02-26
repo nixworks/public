@@ -13,7 +13,7 @@ _Context: Amanda Vanstone, Australia, Chinese, Cui Yu Hu, visa_
 
 ##### Gianfranco Fini
 ### [ Gianfranco Fini, the foreign minister of Italy has demanded that the U.S. "identify and punish" those responsible for the death of Nicola Calipari, the Italian intelligence agent killed by US soldiers in Iraq. ](/news/2005/03/8/gianfranco-fini-the-foreign-minister-of-italy-has-demanded-that-the-u-s-identify-and-punish-those-responsible-for-the-death-of-nicola-c.md)
-_Context: Gianfranco Fini, Iraq, Italy, Nicola Calipari, U.S., foreign minister_
+_Context: Gianfranco Fini, Iraq, Italy, Nicola Calipari, United States, foreign minister_
 
 ##### Kosovo
 ### [ Kosovan Prime Minister Ramush Haradinaj reports that he has been charged with war crimes by the International Criminal Tribunal for the Former Yugoslavia and resigns. He will travel to The Hague of his own volition, although he maintains his innocence. ](/news/2005/03/8/kosovan-prime-minister-ramush-haradinaj-reports-that-he-has-been-charged-with-war-crimes-by-the-international-criminal-tribunal-for-the-for.md)

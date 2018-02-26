@@ -19,7 +19,7 @@ After an official send-off ceremony held by the African National Congress in Pre
 ### [Republican Speaker John Boehner forcibly responds to attacks by previously-supportive conservative groups, due to their opposition to a bipartisan budget. ](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.md)
 Reflecting confidence in the budget deal, House Speaker John Boehner lets loose on hard-line foes of the bipartisan agreement.
 
-##### U.S.
+##### United States
 ### [Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md)
 The US state department says it is considering all options, including sanctions, towards Ukraine after riot police moved in on protesters.
 
@@ -47,7 +47,7 @@ _Context: Australia, High Court of Australia, same-sex marriages_
 ### [Jang Sung-thaek, the uncle of North Korean leader Kim Jong-un, is executed. ](/news/2013/12/12/jang-sung-thaek-the-uncle-of-north-korean-leader-kim-jong-un-is-executed.md)
 North Korea said on Friday Jang Song Thaek, the uncle of leader Kim Jong Un and previously considered the second most powerful man in the secretive state, has been executed after a special military tribunal found him guilty of treason.
 
-##### U.S.
+##### United States
 ### [The United States announces that it will enforce sanctions on more than two dozen companies who assisted Iran with its nuclear program. ](/news/2013/12/12/the-united-states-announces-that-it-will-enforce-sanctions-on-more-than-two-dozen-companies-who-assisted-iran-with-its-nuclear-program.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

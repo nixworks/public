@@ -17,7 +17,7 @@ _Context: Crime in Ohio, Westerville, Ohio, ambush_
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Blue House, Kim Jong-Un, Kim Yo-jong, Kim Yong-nam, Moon Jae-in, North Korea, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly, South Korean President_
+_Context: Blue House, Kim Jong-Un, Kim Yo-jong, Kim Yong-nam, Moon Jae-in, North Korea, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly, South Korean president_
 
 ##### India-Palestine relations
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)

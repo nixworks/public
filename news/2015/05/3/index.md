@@ -27,9 +27,9 @@ Distinct changes in telomeres - protective caps on the ends of our DNA strands -
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
 _Context: Italy, Libya, people smuggler_
 
-##### Afghan
+##### Afghanistan
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
-_Context: Afghan, Badghis Province_
+_Context: Afghanistan, Badghis Province_
 
 ##### Suspicions
 ### [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md)

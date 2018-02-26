@@ -17,7 +17,7 @@ _Context: Abu Musab al-Zarqawi, ambush, apostates, gunshot, murder, recruits_
 
 ##### Iran
 ### [ Iran rejects a European Union proposal to provide civilian nuclear technology to Iran in exchange for Iran scrapping its uranium enrichment program, calling for more negotiations. A decision to refer to matter from the International Atomic Energy Agency (IAEA) to the United Nations Security Council is expected on November 25, 2004. ](/news/2004/10/24/iran-rejects-a-european-union-proposal-to-provide-civilian-nuclear-technology-to-iran-in-exchange-for-iran-scrapping-its-uranium-enrichment.md)
-_Context: European Union, IAEA, Iran, Security Council, uranium enrichment_
+_Context: European Union, IAEA, Iran, United Nations Security Council, uranium enrichment_
 
 ## [Previous Day...](/news/2004/10/23/index.md)
 

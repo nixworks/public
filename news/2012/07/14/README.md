@@ -11,7 +11,7 @@ After 24 years of searching, authorities in San Diego located and apprehended th
 ### [The Philippines states that a Chinese warship entered its territory in the South China Sea. ](/news/2012/07/14/the-philippines-states-that-a-chinese-warship-entered-its-territory-in-the-south-china-sea.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### U.S.
+##### United States
 ### [Shipper International Port Corp, with permission from the United States, delivers the first shipment of humanitarian aid to Cuba, the first time in 50 years. ](/news/2012/07/14/shipper-international-port-corp-with-permission-from-the-united-states-delivers-the-first-shipment-of-humanitarian-aid-to-cuba-the-first.md)
 Fifty-year US trade embargo on Caribbean island over ideological differences ends with delivery of humanitarian aid.
 

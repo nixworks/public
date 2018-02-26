@@ -21,7 +21,7 @@ _Context: Beslan children killed a year ago, Nur-Pashi Kulayev, Russia_
 
 ##### Paris
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghan, Ahmed Shah Masood, Paris_
+_Context: Afghanistan, Ahmed Shah Masood, Paris_
 
 ##### ICC
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)
@@ -55,9 +55,9 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 ### [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### U.S.
+##### United States
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
-_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, U.S., terrorism_
+_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, United States, terrorism_
 
 ##### Guantanamo Bay Qur'an desecration allegations
 ### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, "Newsweek" explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-expl.md)

@@ -23,7 +23,7 @@ A UK unmanned solar-powered plane called Zephyr has flown continuously for seven
 ### [Ten endangered species previously known only by their Latin titles are named. ](/news/2010/07/17/ten-endangered-species-previously-known-only-by-their-latin-titles-are-named.md)
 _Context: Latin_
 
-##### U.S.
+##### United States
 ### [The United States government run National Oceanic and Atmospheric Administration (NOAA) claims 2010 could be the warmest year on record since 1880. ](/news/2010/07/17/the-united-states-government-run-national-oceanic-and-atmospheric-administration-noaa-claims-2010-could-be-the-warmest-year-on-record-sinc.md)
 Heatwaves could make this year the warmest since 1880 and seriously damage crops.
 

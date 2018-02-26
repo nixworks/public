@@ -11,7 +11,7 @@ Scientists from Kew Gardens have rediscovered a plant that has been presumed ext
 ### [Writer Neil Gaiman wins the Cilip Carnegie Medal for "The Graveyard Book". ](/news/2010/06/24/writer-neil-gaiman-wins-the-cilip-carnegie-medal-for-the-graveyard-book.md)
 _Context: Neil Gaiman_
 
-##### U.S.
+##### United States
 ### [American John Isner defeats Frenchman Nicolas Mahut, 4-6, 6-3, 7-6 (7), 6-7 (3), 70-68, in the longest match in tennis history, finally advancing from the first round of the 2010 Wimbledon Gentlemen's Singles tournament. The match took over 11 hours, spanning three days. ](/news/2010/06/24/american-john-isner-defeats-frenchman-nicolas-mahut-4-6-6-3-7-6-7-6-7-3-70-68-in-the-longest-match-in-tennis-history-finally-adva.md)
 John Isner won a three-day, 11 hour-plus marathon over qualifier Nicolas Mahut of France on Thursday at Wimbledon, claiming the fifth set 70-68 on a service break.
 
@@ -29,7 +29,7 @@ The Sri Lankan foreign minister has said that a UN panel on human rights will no
 
 ##### Bridgeport
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
-_Context: Bridgeport, U.S._
+_Context: Bridgeport, United States_
 
 ##### Russia
 ### [Russia's natural gas export monopoly Gazprom announces that it will restart gas supply to Belarus in full following payment of the debt. ](/news/2010/06/24/russia-s-natural-gas-export-monopoly-gazprom-announces-that-it-will-restart-gas-supply-to-belarus-in-full-following-payment-of-the-debt.md)

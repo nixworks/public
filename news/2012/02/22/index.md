@@ -51,9 +51,9 @@ _Context: Kano, Nigeria_
 ### [Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-times-and-french-photographer.md)
 American correspondent Marie Colvin and French photographer Remi Ochlik were killed in the besieged Syrian city of Homs on Wednesday when rockets fired by government forces hit the house they were staying in, opposition activists and witnesses said.
 
-##### Afghan
+##### Afghanistan
 ### [Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-kabul.md)
-_Context: Afghan, Bagram Airbase, Kabul, Quran_
+_Context: Afghanistan, Bagram Airbase, Kabul, Quran_
 
 ## [Previous Day...](/news/2012/02/21/index.md)
 

@@ -53,7 +53,7 @@ _Context: Alpha Conde's, Guinea, President_
 
 ##### Iran
 ### [Iranian Ali Aghazadeh Dafsari claims that Revolutionary Guard forces shot down a U.S. spy drone over the Fordo located uranium enrichment facility. ](/news/2011/07/20/iranian-ali-aghazadeh-dafsari-claims-that-revolutionary-guard-forces-shot-down-a-u-s-spy-drone-over-the-fordo-located-uranium-enrichment-fa.md)
-_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, U.S., uranium enrichment_
+_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, United States, uranium enrichment_
 
 ##### Malawi
 ### [Riots erupt in Malawi in protest against the government of President Bingu wa Mutharika. ](/news/2011/07/20/riots-erupt-in-malawi-in-protest-against-the-government-of-president-bingu-wa-mutharika.md)

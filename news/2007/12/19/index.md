@@ -17,7 +17,7 @@ _Context: Pakistan, passenger express train derailment_
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak is elected President of South Korea with 50% of the vote, defeating rivals Chung Dong-young and Lee Hoi-chang. ](/news/2007/12/19/lee-myung-bak-is-elected-president-of-south-korea-with-50-of-the-vote-defeating-rivals-chung-dong-young-and-lee-hoi-chang.md)
-_Context: Chung Dong-young, Lee Hoi-chang, Lee Myung-bak, South Korea, South Korean President, elected_
+_Context: Chung Dong-young, Lee Hoi-chang, Lee Myung-bak, South Korea, South Korean president, elected_
 
 ##### Old Executive Office Building
 ### [ A fire breaks out at the Old Executive Office Building in Washington, D.C., which houses ceremonial offices of Vice President Dick Cheney and the majority of White House staff. No injuries are reported. ](/news/2007/12/19/a-fire-breaks-out-at-the-old-executive-office-building-in-washington-d-c-which-houses-ceremonial-offices-of-vice-president-dick-cheney-a.md)

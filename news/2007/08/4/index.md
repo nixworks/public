@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/4/index.html)  [JSON](2007/08/4/index.json)  [XML](2007/
 
 ##### Taliban
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
-_Context: Afghan, Northwestern Pakistan, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
+_Context: Afghanistan, Northwestern Pakistan, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: The Ganges River system will come under further strain from monsoon floods as 20 million are homeless in Nepal, India and Bangladesh. Almost 200 people have died. ](/news/2007/08/4/2007-south-asian-floods-the-ganges-river-system-will-come-under-further-strain-from-monsoon-floods-as-20-million-are-homeless-in-nepal-in.md)
@@ -19,9 +19,9 @@ Britain tried to contain an outbreak of highly infectious foot and mouth on Satu
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_
 
-##### U.S.
+##### United States
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, U.S., al-Qaeda_
+_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
 
 ##### Oakland, California
 ### [ Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of "The Oakland Post". ](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.md)

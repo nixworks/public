@@ -9,7 +9,7 @@ _Context: Governor General of Canada, Michalle Jean, Prime Minister of Canada, S
 
 ##### Afghanistan President
 ### [ The body of the first President of Afghanistan Mohammed Daoud Khan is identified, three decades after he died. ](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.md)
-_Context: Afghan, Afghanistan President, Mohammed Daoud Khan_
+_Context: Afghanistan, Afghanistan President, Mohammed Daoud Khan_
 
 ##### Argentina
 ### [ The Argentine National Congress approves the seizure of Aerolneas Argentinas, the country's biggest airline carrier. ](/news/2008/12/4/the-argentine-national-congress-approves-the-seizure-of-aerolineas-argentinas-the-country-s-biggest-airline-carrier.md)

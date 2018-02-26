@@ -33,7 +33,7 @@ The Pennsylvania state Senate on Tuesday voted for a state takeover of the finan
 
 ##### Taiwan
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: Apple Inc., HTC, Taiwan, U.S., United States International Trade Commission, iPhone, patent, patent infringement, smartphone_
+_Context: Apple Inc., HTC, Taiwan, United States, United States International Trade Commission, iPhone, patent, patent infringement, smartphone_
 
 ##### Motorola
 ### [Motorola introduces the Droid RAZR, the world's thinnest smartphone. ](/news/2011/10/18/motorola-introduces-the-droid-razr-the-world-s-thinnest-smartphone.md)

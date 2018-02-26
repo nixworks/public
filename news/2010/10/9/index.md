@@ -19,9 +19,9 @@ _Context: Cecilia Ibru, Oceanic Bank_
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
 _Context: Ecuador, protested against being stripped of their bonuses_
 
-##### U.S.
+##### United States
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, U.S._
+_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, United States_
 
 ##### Baltic Sea
 ### [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry "Lisco Gloria", en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada-af.md)
@@ -65,7 +65,7 @@ Thirteen men are arrested as demonstrators stage two protests in Leicester, spar
 
 ##### Farah Province
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
-_Context: Afghan, Farah Province_
+_Context: Afghanistan, Farah Province_
 
 ##### Naxal
 ### [7 naxals are gunned down by the police in an encounter in Mahasamund district of Chhattisgarh. ](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.md)

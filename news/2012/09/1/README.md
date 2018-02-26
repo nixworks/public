@@ -11,9 +11,9 @@ _Context: Flanders, learning disorder_
 ### [Ten days after public remarks, U.S. presidential running mate Paul Ryan's personal record on the marathon run goes from less than 3 to over 4 hours. ](/news/2012/09/1/ten-days-after-public-remarks-u-s-presidential-running-mate-paul-ryan-s-personal-record-on-the-marathon-run-goes-from-less-than-3-to-over.md)
 _Context: Paul Ryan, marathon, running mate_
 
-##### U.S.
+##### United States
 ### [U.S.environmentalists vow to legally fight the federal end of protecting the wolf in Wyoming, saying the species still needs protection to maintain its successful recovery. ](/news/2012/09/1/u-s-environmentalists-vow-to-legally-fight-the-federal-end-of-protecting-the-wolf-in-wyoming-saying-the-species-still-needs-protection-to-m.md)
-_Context: U.S., U.S. government, Wyoming, environmental activists, needs protection, wolf_
+_Context: U.S. government, United States, Wyoming, environmental activists, needs protection, wolf_
 
 ##### People's Movement for the Liberation of Angola
 ### [The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. ](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.md)
@@ -33,9 +33,9 @@ _Context: A nuclear reactor, Belgium, another, nuclear regulator, owner_
 
 ##### Yosemite National Park
 ### [Tent cabins in Yosemite National Park, U.S., are closed after officials notify 3,100 recent visitors of an outbreak of Hantavirus. ](/news/2012/09/1/tent-cabins-in-yosemite-national-park-u-s-are-closed-after-officials-notify-3-100-recent-visitors-of-an-outbreak-of-hantavirus.md)
-_Context: Hantavirus, U.S., Yosemite National Park, an outbreak_
+_Context: Hantavirus, United States, Yosemite National Park, an outbreak_
 
-##### U.S.
+##### United States
 ### [American songwriter Hal David, who was best known for his collaborations with composer Burt Bacharach, dies in Los Angeles, California, at the age of 91. ](/news/2012/09/1/american-songwriter-hal-david-who-was-best-known-for-his-collaborations-with-composer-burt-bacharach-dies-in-los-angeles-california-at-t.md)
 US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Bacharach, dies from complications stemming from a stroke aged 91.
 

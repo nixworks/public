@@ -13,7 +13,7 @@ _Context: Greece, Navy, Somali pirates, Somalia, Sweden, ship_
 
 ##### Suicide attack
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
-_Context: Afghan, Kapisa Province, suicide attack_
+_Context: Afghanistan, Kapisa Province, suicide attack_
 
 ##### French
 ### [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md)
@@ -45,7 +45,7 @@ _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, jail, journalist_
 
 ##### U.S. President
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Federal District Judge, Sonia Sotomayor, Supreme Court of the United States, U.S., U.S. President, confirmed_
+_Context: Barack Obama, Federal District Judge, Sonia Sotomayor, Supreme Court of the United States, U.S. President, United States, confirmed_
 
 ##### Supreme Court
 ### [ The Supreme Court of California upholds Proposition 8, the state's ban on same-sex marriage. ](/news/2009/05/26/the-supreme-court-of-california-upholds-proposition-8-the-state-s-ban-on-same-sex-marriage.md)

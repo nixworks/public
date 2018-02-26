@@ -17,7 +17,7 @@ _Context: 2017 North Indian Ocean cyclone season, Bangladesh, Cyclone Mora_
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in, who had campaigned on a parliamentary review of the country's missile defense system, orders an investigation of the anti-missile system after discovering the government was not informed when four more U.S. Terminal High Altitude Area Defense (THAAD) system launchers had been brought in and installed. ](/news/2017/05/30/south-korean-president-moon-jae-in-who-had-campaigned-on-a-parliamentary-review-of-the-country-s-missile-defense-system-orders-an-investig.md)
-_Context: Moon Jae-in, South Korea-United States relations, South Korean President, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, parliamentary review_
+_Context: Moon Jae-in, South Korea-United States relations, South Korean president, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, parliamentary review_
 
 ##### Ukraine-European Union relations
 ### [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md)

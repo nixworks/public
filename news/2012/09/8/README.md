@@ -39,9 +39,9 @@ _Context: Al-Qaeda in the Islamic Maghreb, Arlit, French, Niger_
 ### [A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. ](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.md)
 A teenage suicide bomber kills at least six people including a number of children near the headquarters of the Nato-led coalition in the Afghan capital Kabul.
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan commemorates Ahmad Shah Massoud, assassinated today eleven years ago according to the Afghan calendar, with a ceremony in Kabul on the national holiday of "Haftai Shahid" (Martyr Week). ](/news/2012/09/8/afghanistan-commemorates-ahmad-shah-massoud-assassinated-today-eleven-years-ago-according-to-the-afghan-calendar-with-a-ceremony-in-kabul.md)
-_Context: Afghan, Afghan calendar, Ahmad Shah Massoud, Haftai Shahid, Kabul, national holiday_
+_Context: Afghan calendar, Afghanistan, Ahmad Shah Massoud, Haftai Shahid, Kabul, national holiday_
 
 ##### Interior Ministry
 ### [The Interior Ministry moves to sue the Al Wefaq main opposition party. On Friday, police have fired tear gas at anti-government protesters in the capital Manama. The protestors allegedly have defied a ban on demonstrations. ](/news/2012/09/8/the-interior-ministry-moves-to-sue-the-al-wefaq-main-opposition-party-on-friday-police-have-fired-tear-gas-at-anti-government-protesters-i.md)

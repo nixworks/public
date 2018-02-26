@@ -33,7 +33,7 @@ _Context: Peru, Trujillo, bus_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md)
-_Context: Datta Khel, North Waziristan, Pakistan, U.S., drones launch_
+_Context: Datta Khel, North Waziristan, Pakistan, United States, drones launch_
 
 ##### Mogadishu
 ### [At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md)

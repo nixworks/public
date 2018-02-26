@@ -23,9 +23,9 @@ _Context:  debt_
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
 _Context: Chinese, Shanxi province_
 
-##### Afghan
+##### Afghanistan
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)
-_Context: Afghan, USA, War in Afghanistan (2001-present)_
+_Context: Afghanistan, USA, War in Afghanistan (2001-present)_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. ](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.md)

@@ -17,7 +17,7 @@ _Context: Chamelecon, Cortes department, Honduras, Mara Salvatrucha_
 
 ##### Earthquake
 ### [ An earthquake of moment magnitude 8.1 occurs at 14:59 UTC, 305 mi north of Macquarie Island. ](/news/2004/12/23/an-earthquake-of-moment-magnitude-8-1-occurs-at-14-59-utc-305-mi-north-of-macquarie-island.md)
-_Context: M<sub>w</sub>&nbsp;5.2, Macquarie Island, UTC, earthquake_
+_Context: Macquarie Island, UTC, earthquake, magnitude_
 
 ## [Previous Day...](/news/2004/12/22/index.md)
 

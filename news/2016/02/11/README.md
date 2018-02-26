@@ -61,7 +61,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### War in Afghanistan (2015-present)
 ### [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md)
-_Context: Afghan, Afghan police, Kandahar, War in Afghanistan (2015-present)_
+_Context: Afghan police, Afghanistan, Kandahar, War in Afghanistan (2015-present)_
 
 ##### Terrorism in Saudi Arabia
 ### [A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md)

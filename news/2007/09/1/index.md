@@ -19,9 +19,9 @@ _Context: Malaysia, dengue_
 ### [ A concrete and steel fence is built in Sydney to protect leaders attending the Asia-Pacific Economic Cooperation meeting next week. ](/news/2007/09/1/a-concrete-and-steel-fence-is-built-in-sydney-to-protect-leaders-attending-the-asia-pacific-economic-cooperation-meeting-next-week.md)
 _Context: Asia-Pacific Economic Cooperation, Sydney, concrete, steel_
 
-##### U.S.
+##### United States
 ### [ Envoys from the United States and North Korea meet in Geneva to discuss normalising relations. ](/news/2007/09/1/envoys-from-the-united-states-and-north-korea-meet-in-geneva-to-discuss-normalising-relations.md)
-_Context: Geneva, North Korea, U.S._
+_Context: Geneva, North Korea, United States_
 
 ##### Japan
 ### [ Japan's Agriculture, Forestry and Fisheries Minister Takehiko Endo refuses to resign over allegations that a group that he chaired received state subsidies illegally. ](/news/2007/09/1/japan-s-agriculture-forestry-and-fisheries-minister-takehiko-endo-refuses-to-resign-over-allegations-that-a-group-that-he-chaired-received.md)
@@ -73,7 +73,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### National Assembly of Panama
 ### [ The National Assembly of Panama selects Pedro Miguel Gonzalez Pinzon as its President despite the fact that he is wanted in the United States for an alleged murder of a United States Army sergeant and the attempted murder of another. Gonzalez has been cleared by a Panamanian court of these charges. ](/news/2007/09/1/the-national-assembly-of-panama-selects-pedro-miguel-gonza-lez-pinza3n-as-its-president-despite-the-fact-that-he-is-wanted-in-the-united-st.md)
-_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, U.S., United States soldier_
+_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, United States, United States soldier_
 
 ##### Air show
 ### [ Two small planes collide during an air show in Radom, Poland resulting in the deaths of both pilots (Marek Dubkiewicz and Sebastian Chrzaszcz). ](/news/2007/09/1/two-small-planes-collide-during-an-air-show-in-radom-poland-resulting-in-the-deaths-of-both-pilots-marek-dubkiewicz-and-sebastian-chrzas.md)
@@ -105,11 +105,11 @@ _Context: LTTE, Mannar, Sri Lanka_
 
 ##### World Championships in Athletics
 ### [ World Championships in Athletics: American athlete Tyson Gay wins his third medal of the championship as part of the 100 metres relay team after earlier winning gold medals in the 100 metres and 200 metres. ](/news/2007/09/1/world-championships-in-athletics-american-athlete-tyson-gay-wins-his-third-medal-of-the-championship-as-part-of-the-100-metres-relay-team.md)
-_Context: Tyson Gay, U.S., World Championships in Athletics, athlete, gold medal, relay_
+_Context: Tyson Gay, United States, World Championships in Athletics, athlete, gold medal, relay_
 
 ##### Church of Uganda
 ### [ The Church of Uganda, the Anglican province of Uganda, appoints a bishop in the United States, John Guernsey, deepening a split with the Episcopal Church over the ordination of gay priests and bishops. ](/news/2007/09/1/the-church-of-uganda-the-anglican-province-of-uganda-appoints-a-bishop-in-the-united-states-john-guernsey-deepening-a-split-with-the-ep.md)
-_Context: Anglican Communion, Church of Uganda, John Guernsey, U.S., Uganda, United States Episcopal Church, bishop, priest_
+_Context: Anglican Communion, Church of Uganda, John Guernsey, Uganda, United States, United States Episcopal Church, bishop, priest_
 
 ## [Previous Day...](/news/2007/08/31/index.md)
 

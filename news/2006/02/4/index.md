@@ -13,7 +13,7 @@ _Context: A stampede, ABS-CBN, Metro Manila, Pasig City, Philippines, Wowowee_
 
 ##### IAEA
 ### [ Twenty-seven out of 35 countries on the IAEA's Board of Governors vote to refer the nuclear program of Iran to the United Nations Security Council out of concern over Iran's plans to enrich nuclear materials and to refuse IAEA inspection of the process. ](/news/2006/02/4/twenty-seven-out-of-35-countries-on-the-iaea-s-board-of-governors-vote-to-refer-the-nuclear-program-of-iran-to-the-united-nations-security.md)
-_Context: IAEA, Security Council, nuclear program_
+_Context: IAEA, United Nations Security Council, nuclear program_
 
 ##### Fort Benning
 ### [ Georgia, US. 17 human rights activists sentenced to prison including one 81-year-old retired World War&nbsp;II Veteran for trespassing at Fort Benning military camp. ](/news/2006/02/4/georgia-us-17-human-rights-activists-sentenced-to-prison-including-one-81-year-old-retired-world-war-nbsp-ii-veteran-for-trespassing-at-f.md)

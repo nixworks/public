@@ -67,9 +67,9 @@ _Context: Ali Osman Taha, Southern Sudanese Independence Referendum, Sudanese ca
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
 _Context: Chinese New Year, Heping District, Liaoning, Northeastern China, Shenyang, Sheraton, firework, five-star, thermal insulation_
 
-##### U.S.
+##### United States
 ### [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md)
-_Context: January 31-February 2, 2011 North American winter storm, U.S._
+_Context: January 31-February 2, 2011 North American winter storm, United States_
 
 ##### Indian Railways
 ### [Fourteen job seekers traveling home on the rooftop of an overcrowded train, are killed when they hit a low overhead bridge in northern India. ](/news/2011/02/2/fourteen-job-seekers-traveling-home-on-the-rooftop-of-an-overcrowded-train-are-killed-when-they-hit-a-low-overhead-bridge-in-northern-india.md)
@@ -83,7 +83,7 @@ _Context: China, Yunnan Province_
 ### [The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.md)
 Looking for local news? Find your Fairfax newspaper on the list below.
 
-##### U.S.
+##### United States
 ### [American rock duo The White Stripes announce that they are breaking up. ](/news/2011/02/2/american-rock-duo-the-white-stripes-announce-that-they-are-breaking-up.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 

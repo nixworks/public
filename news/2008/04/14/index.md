@@ -9,7 +9,7 @@ _Context: World Bank, developing world, dramatic rise in basic food prices_
 
 ##### Taliban
 ### [ Taliban insurgents attack a checkpoint in southern Afghanistan killing 11 police officers. ](/news/2008/04/14/taliban-insurgents-attack-a-checkpoint-in-southern-afghanistan-killing-11-police-officers.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ##### Train
 ### [ Passenger trains resume between Dhaka in Bangladesh and the Indian city of Calcutta, after 43 years. ](/news/2008/04/14/passenger-trains-resume-between-dhaka-in-bangladesh-and-the-indian-city-of-calcutta-after-43-years.md)
@@ -23,9 +23,9 @@ _Context: European Union, Nabucco, Russia, Turkmenistan, natural gas_
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)
 _Context: Italian Prime Minister, Silvio Berlusconi, re-elected_
 
-##### U.S.
+##### United States
 ### [ The United States begins occupying its new US$736 million embassy in Iraq, one of the largest embassies in the world. Presently under construction, it is approximately as large as the Vatican City and will permanently employ thousands of Americans, including a Marine detachment. ](/news/2008/04/14/the-united-states-begins-occupying-its-new-us-736-million-embassy-in-iraq-one-of-the-largest-embassies-in-the-world-presently-under-const.md)
-_Context: U.S., US$, United States Marines, Vatican City, embassy in Iraq_
+_Context: US$, United States, United States Marines, Vatican City, embassy in Iraq_
 
 ##### Delta Air Lines
 ### [ Delta Air Lines reaches an agreement with Northwest Airlines to take over Northwest and create the world's biggest airline. ](/news/2008/04/14/delta-air-lines-reaches-an-agreement-with-northwest-airlines-to-take-over-northwest-and-create-the-world-s-biggest-airline.md)

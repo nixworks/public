@@ -17,7 +17,7 @@ _Context: Vladimir Putin, presidential election_
 
 ##### Parliament
 ### [ The National People's Congress of China changes the constitution to protect private property, in order to stop state officials from requisitioning property and private possessions. ](/news/2004/03/14/the-national-people-s-congress-of-china-changes-the-constitution-to-protect-private-property-in-order-to-stop-state-officials-from-requisi.md)
-_Context: parliament, state constitution_
+_Context: country's constitution, parliament_
 
 ##### March 11, 2004 Madrid attacks
 ### [ Madrid bombings: Spanish police receives a videotape where a man identifying himself as an al-Qaeda spokesman says the organisation claims responsibility for the attack, according to an announcement from the country's interior minister. The authenticity of the video has not been verified. The al-Qaeda claim overshadows voting in the general election. ](/news/2004/03/14/madrid-bombings-spanish-police-receives-a-videotape-where-a-man-identifying-himself-as-an-al-qaeda-spokesman-says-the-organisation-claims.md)

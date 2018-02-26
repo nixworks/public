@@ -67,9 +67,9 @@ _Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, Prime Minister, United Front
 ### [ The Kazakh Foreign Ministry denies Kazakhstan has a nuclear program, saying all alleged active nuclear sites were from the Soviet era. ](/news/2007/02/20/the-kazakh-foreign-ministry-denies-kazakhstan-has-a-nuclear-program-saying-all-alleged-active-nuclear-sites-were-from-the-soviet-era.md)
 _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 
-##### Security Council
+##### United Nations Security Council
 ### [ The United Nations Security Council unanimously approves an African Union force to help stabilise Somalia. ](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.md)
-_Context: African Union, Security Council, Somalia_
+_Context: African Union, Somalia, United Nations Security Council_
 
 ## [Previous Day...](/news/2007/02/19/index.md)
 

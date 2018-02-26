@@ -19,7 +19,7 @@ A special court in Bangladesh on Tuesday sentenced to death more than 150 people
 ### [SAC Capital Advisors pleads guilty to insider trading and wire fraud and agrees to pay $1.8 billion in penalties to the United States. ](/news/2013/11/5/sac-capital-advisors-pleads-guilty-to-insider-trading-and-wire-fraud-and-agrees-to-pay-1-8-billion-in-penalties-to-the-united-states.md)
 Billionaire Steven A. Cohen’s SAC Capital Advisors LP, the hedge fund accused of fostering a culture of rampant insider trading, has agreed to plead guilty Nov. 8 to securities fraud and wire fraud, pay a record $1.8 billion and shutter its investment advisory business.
 
-##### U.S.
+##### United States
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.
 

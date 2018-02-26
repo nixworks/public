@@ -9,7 +9,7 @@ _Context: Albania, Prime Minister, Sali Berisha_
 
 ##### United Kingdom
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
+_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)
@@ -43,7 +43,7 @@ _Context: Eastern Cape, Mthatha, South Africa, apartheid_
 ### [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md)
 _Context: Charles Taylor, Liberia, The Hague, cannibalism_
 
-##### U.S.
+##### United States
 ### [ The United States and China begin the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/27/the-united-states-and-china-begin-the-first-u-s-china-strategic-and-economic-dialogue.md)
 China is bringing 150 senior officials, including nearly its whole Cabinet, to the United States this week for talks whose symbolic value is likely to trump concrete achievements.
 

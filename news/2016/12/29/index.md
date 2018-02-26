@@ -21,7 +21,7 @@ _Context: Kyriakos Amiridis, Rio de Janeiro_
 
 ##### 
 ### [The Egyptian government approves a deal granting two Red Sea islands to Saudi Arabia. ](/news/2016/12/29/the-egyptian-government-approves-a-deal-granting-two-red-sea-islands-to-saudi-arabia.md)
-##### U.S.
+##### United States
 ### [The United States expels 35 Russian diplomats over the alleged Russian interference during the U.S.'s 2016 presidential election. ](/news/2016/12/29/the-united-states-expels-35-russian-diplomats-over-the-alleged-russian-interference-during-the-u-s-s-2016-presidential-election.md)
 The US expels 35 Russian diplomats in the wake of cyber attacks related to the US election.
 

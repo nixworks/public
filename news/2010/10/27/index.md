@@ -29,7 +29,7 @@ _Context: Vietnam_
 
 ##### Soviet
 ### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
-_Context: Afghan, Mikhail Gorbachev, Soviet_
+_Context: Afghanistan, Mikhail Gorbachev, Soviet_
 
 ##### Links to organised crime
 ### [15 people are killed in a Mexican drug war related shootout at a car wash in Tepic, Nayarit, the country's third such mass shooting in under a week. ](/news/2010/10/27/15-people-are-killed-in-a-mexican-drug-war-related-shootout-at-a-car-wash-in-tepic-nayarit-the-country-s-third-such-mass-shooting-in-under.md)
@@ -97,15 +97,15 @@ _Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
 ##### Taliban
 ### [Security forces raid Taliban hideouts in northern Baghlan province of Afghanistan eliminating five insurgents. ](/news/2010/10/27/security-forces-raid-taliban-hideouts-in-northern-baghlan-province-of-afghanistan-eliminating-five-insurgents.md)
-_Context: Afghan, Baghlan province, Taliban_
+_Context: Afghanistan, Baghlan province, Taliban_
 
 ##### Baghdad
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, U.S._
+_Context: Pakistan, United States_
 
 ##### Al-Shabaab
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)

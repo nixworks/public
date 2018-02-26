@@ -29,7 +29,7 @@ The Ohio governor will participate if Trump changes his mind.
 
 ##### Attacks on humanitarian workers
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: Afghan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military personnel, redacted_
+_Context: Afghanistan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military personnel, redacted_
 
 ##### PKK rebellion (2015-present)
 ### [ Authorities in Turkey arrest three academics on charges of "terrorist propaganda" after they called for an end to security operations in the country's Kurdish-majority southeast. ](/news/2016/03/16/authorities-in-turkey-arrest-three-academics-on-charges-of-terrorist-propaganda-after-they-called-for-an-end-to-security-operations-in-th.md)

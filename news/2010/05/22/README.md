@@ -19,7 +19,7 @@ Everton&#039;s Shane Duffy is recovering from life-saving surgery after sufferin
 ### [Blackpool Football Club beat Cardiff City Football Club 3-2 in the 2010 Final of the Football League Championship play-offs to be guaranteed "the biggest windfall in global sport from the outcome of a single event". ](/news/2010/05/22/blackpool-football-club-beat-cardiff-city-football-club-3-2-in-the-2010-final-of-the-football-league-championship-play-offs-to-be-guaranteed.md)
 They will be nursing a few sore heads along Blackpool&#039;s Golden Mile this morning, and with good reason. Blackpool&#039;s promotion to the Premier League is a romantic tale to warm the most jaded of hearts, and they did it in some style. As the announcer at Wembley stadium yesterday said: &quot;...
 
-##### U.S.
+##### United States
 ### [Thirteen-year-old American Jordan Romero becomes the youngest person to reach the summit of Mount Everest. ](/news/2010/05/22/thirteen-year-old-american-jordan-romero-becomes-the-youngest-person-to-reach-the-summit-of-mount-everest.md)
 A 13-year-old American boy became the youngest climber to reach the top of Mount Everest on Saturday, breaking the former record as part of his quest to climb the highest peaks on all seven continents.
 
@@ -55,7 +55,7 @@ As country prepares to hold vote, ruling party is accused of violence and intimi
 ### [At least 13 people have died in a clash between a Somali militia and Ethiopian forces who had crossed the border in Somaliland. ](/news/2010/05/22/at-least-13-people-have-died-in-a-clash-between-a-somali-militia-and-ethiopian-forces-who-had-crossed-the-border-in-somaliland.md)
 Thirteen people are killed in a border clash between Ethiopian security forces and residents in Somaliland, locals say.
 
-##### Afghan
+##### Afghanistan
 ### [Afghan police seize a cache of hundreds of rockets hidden on the outskirts of Kabul. ](/news/2010/05/22/afghan-police-seize-a-cache-of-hundreds-of-rockets-hidden-on-the-outskirts-of-kabul.md)
 Afghan police say they have seized a cache of hundreds of rockets hidden on the outskirts of the capital Kabul.
 

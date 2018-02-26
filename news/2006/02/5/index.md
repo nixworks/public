@@ -11,7 +11,7 @@ _Context: Beirut, Denmark, Jyllands-Posten Muhammad cartoons controversy, Lebane
 
 ##### Iran
 ### [ Iran resumes most of its nuclear program after it was voted to be referred to the United Nations Security Council. However it says that it is still open for renegotiation. ](/news/2006/02/5/iran-resumes-most-of-its-nuclear-program-after-it-was-voted-to-be-referred-to-the-united-nations-security-council-however-it-says-that-it.md)
-_Context: Iran, Security Council, nuclear program_
+_Context: Iran, United Nations Security Council, nuclear program_
 
 ##### American football
 ### [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21a10-in-super-bowl-nbsp-xl.md)

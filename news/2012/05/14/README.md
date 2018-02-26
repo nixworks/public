@@ -23,9 +23,9 @@ There was no &quot;express deal&quot; between Labour leader Tony Blair and Ruper
 ### [Over 1,500 Palestinian prisoners in Israeli prisons end their mass hunger strike after reaching an agreement with Israeli authorities in an Egyptian-mediated deal. ](/news/2012/05/14/over-1-500-palestinian-prisoners-in-israeli-prisons-end-their-mass-hunger-strike-after-reaching-an-agreement-with-israeli-authorities-in-an.md)
 Palestinian inmates in Israeli jails have agreed to end their mass hunger strike under a deal with Israel to improve prison conditions.
 
-##### South Korean President
+##### South Korean president
 ### [The President of South Korea, Lee Myung-bak, commences the first official visit by a South Korean leader to Myanmar since 1983, when North Korean commandos attempted to assassinate the then-President, Chun Doo-hwan, in a bomb attack. ](/news/2012/05/14/the-president-of-south-korea-lee-myung-bak-commences-the-first-official-visit-by-a-south-korean-leader-to-myanmar-since-1983-when-north-k.md)
-_Context: Chun Doo-hwan, Lee Myung-bak, Myanmar, North Korea, South Korea, South Korean President, a bomb attack_
+_Context: Chun Doo-hwan, Lee Myung-bak, Myanmar, North Korea, South Korea, South Korean president, a bomb attack_
 
 ##### Magnitude
 ### [A 6.2-magnitude earthquake strikes the Peruvian&ndash;Chilean border, causing power cuts but no serious immediate damage. No casualties have been reported. ](/news/2012/05/14/a-6-2-magnitude-earthquake-strikes-the-peruvian-ndash-chilean-border-causing-power-cuts-but-no-serious-immediate-damage-no-casualties-have.md)

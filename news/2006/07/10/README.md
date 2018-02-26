@@ -43,9 +43,9 @@ Sources in Gaza Strip say 10-year-old girl was critically wounded by rocket that
 ### [ 2006 62nd Street explosion: A three-story building located on 62nd Street between Madison and Park avenues collapses in Manhattan at 9 AM EDT following an explosion, and then followed by flames erupting in the building. FDNY labels it a "major incident." ](/news/2006/07/10/2006-62nd-street-explosion-a-three-story-building-located-on-62nd-street-between-madison-and-park-avenues-collapses-in-manhattan-at-9-am-e.md)
 Authorities were investigating whether a doctor who survived the explosion of a four-story home on Manhattan&#8217;s Upper East Side might have caused the blast rather than sell the home as part of a divorce judgment in his ex-wife&#8217;s favor.
 
-##### Security Council
+##### United Nations Security Council
 ### [ The U.N. Security Council's five permanent members and Japan agree today to postpone the vote on possible sanctions against North Korea. ](/news/2006/07/10/the-u-n-security-council-s-five-permanent-members-and-japan-agree-today-to-postpone-the-vote-on-possible-sanctions-against-north-korea.md)
-_Context: Japan, North Korea, Security Council_
+_Context: Japan, North Korea, United Nations Security Council_
 
 ##### Indian Space Research Organization
 ### [ The Indian GSLV rocket carrying the INSAT 4C satellite fails. ](/news/2006/07/10/the-indian-gslv-rocket-carrying-the-insat-4c-satellite-fails.md)
@@ -61,7 +61,7 @@ _Context: UK_
 
 ##### United Kingdom
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)
-_Context: Homeland Security Advisory System, U.S., United Kingdom_
+_Context: Homeland Security Advisory System, United Kingdom, United States_
 
 ## [Previous Day...](/news/2006/07/9/index.md)
 

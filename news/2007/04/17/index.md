@@ -9,7 +9,7 @@ _Context: Australian Labor Party, Kevin Rudd, industrial relations, secret ballo
 
 ##### Nepal
 ### [ Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. ](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar, Nepal, United Nations_
+_Context: Afghanistan, Kandahar, Nepal, United Nations_
 
 ##### Olympic Council of Asia
 ### [ The Olympic Council of Asia chooses Incheon, South Korea over New Delhi, India, to host the 2014 Asian Games. ](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.md)

@@ -9,7 +9,7 @@ _Context: 10th century, Akdamar Island, Armenia, Turkey_
 
 ##### Cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: California, El Salvador, Jesus, Palmdale, U.S., cult_
+_Context: California, El Salvador, Jesus, Palmdale, United States, cult_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
@@ -109,7 +109,7 @@ _Context: 2 car bomb, Baghdad, Iraq_
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghan, U.S., United States soldier_
+_Context: Afghanistan, United States, United States soldier_
 
 ##### Gaza Strip
 ### [A new convoy of vehicles departs the UK with humanitarian aid for Gaza, more than three months after 9 people were killed in the Gaza flotilla raid. ](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.md)

@@ -3,13 +3,13 @@ Formats: [HTML](2009/09/4/index.html)  [JSON](2009/09/4/index.json)  [XML](2009/
 
 ## [2009-09-4](/news/2009/09/4/index.md)
 
-##### U.S.
+##### United States
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)
 Ex-soldier receives five life terms for rape and killing of Iraqi family members.
 
 ##### Bangladesh
 ### [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md)
-_Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, U.S._
+_Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, United States_
 
 ##### Air India Flight 829
 ### [ Air India Flight 829 suffers an engine fire during pushback at Chhatrapati Shivaji International Airport, Mumbai. All 228 people on board successfully evacuate via emergency slides. ](/news/2009/09/4/air-india-flight-829-suffers-an-engine-fire-during-pushback-at-chhatrapati-shivaji-international-airport-mumbai-all-228-people-on-board-s.md)
@@ -23,7 +23,7 @@ A plan to approve new West Bank construction before a building freeze drew prote
 ### [ The Brazilian Senate condemns Venezuelan President Hugo Chvez for his restrictions on the press, further delaying its Mercosur bid. ](/news/2009/09/4/the-brazilian-senate-condemns-venezuelan-president-hugo-chavez-for-his-restrictions-on-the-press-further-delaying-its-mercosur-bid.md)
 The Brazilian Senate released a statement criticizing Venezuelan president Hugo Chavez for the measures implemented by his government against private media. The decision by the Senate&rsquo;s Foreign Affairs Committee could further delay Venezuela&rsquo;s incorporation to Mercosur.
 
-##### U.S.
+##### United States
 ### [ The United States eases more restrictions on Cuba, allowing unlimited family visits and telephone exchanges. ](/news/2009/09/4/the-united-states-eases-more-restrictions-on-cuba-allowing-unlimited-family-visits-and-telephone-exchanges.md)
 United States citizens with relatives in Cuba can send them unlimited cash and visit the island as long and often as they would like under new rules from President Barack Obama&rsquo;s administration.
 
@@ -45,7 +45,7 @@ As many as 40 Afghan civilians were feared to be among the 90 people killed in a
 
 ##### North Korea
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
-_Context: Japan, North Korea, North Korea's nuclear program, Russia, South Korea, U.S., uranium enrichment_
+_Context: Japan, North Korea, North Korea's nuclear program, Russia, South Korea, United States, uranium enrichment_
 
 ##### Burma
 ### [ A court in Burma agrees to hear an appeal by detained National League for Democracy leader Aung San Suu Kyi. ](/news/2009/09/4/a-court-in-burma-agrees-to-hear-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi.md)

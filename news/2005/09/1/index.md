@@ -25,7 +25,7 @@ _Context: Beslan, Beslan children killed a year ago_
 
 ##### Chinese
 ### [ On the eve of People's Republic of China President Hu Jintao's first visit to North America next week, a PRC foreign ministry spokesman warned against any government providing Taiwan (ROC) with missile defense systems. Hu Jintao arrives in Washington, D.C. on Monday, then visits Canada and Mexico before visiting the United Nations General Assembly. ](/news/2005/09/1/on-the-eve-of-people-s-republic-of-china-president-hu-jintao-s-first-visit-to-north-america-next-week-a-prc-foreign-ministry-spokesman-war.md)
-_Context: Canada, Chinese, Chinese President, Hu Jintao, Mexico, Taiwan, United Nations General Assembly, Washington, D.C._
+_Context: Canada, Chinese, Hu Jintao, Mexico, President, Taiwan, United Nations General Assembly, Washington, D.C._
 
 ##### Typhoon Talim
 ### [ Typhoon Talim passes over Taiwan, killing at least one person and injuring 24. ](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.md)

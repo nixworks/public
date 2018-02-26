@@ -25,7 +25,7 @@ _Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenin Moreno, Nati
 
 ##### 2017 Afghanistan avalanches
 ### [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md)
-_Context: 2017 Afghanistan avalanches, Afghan_
+_Context: 2017 Afghanistan avalanches, Afghanistan_
 
 ##### Kraft Heinz
 ### [Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. ](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.md)

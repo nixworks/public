@@ -21,7 +21,7 @@ _Context: DR Congo, Rwanda, United Nations, war crime_
 
 ##### ICC
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
-_Context: ICC, Kenya, Omar al-Bashir, Security Council, Sudan, Sudanese President_
+_Context: ICC, Kenya, Omar al-Bashir, Sudan, Sudanese President, United Nations Security Council_
 
 ##### Cuba
 ### [Cuba eases property laws, allowing foreign investors to lease government land for up to 99 years. ](/news/2010/08/28/cuba-eases-property-laws-allowing-foreign-investors-to-lease-government-land-for-up-to-99-years.md)
@@ -31,7 +31,7 @@ Government extends foreign land leases and allows independent agricultural busin
 ### [Suspected Taliban insurgents attack two coalition allied military bases in eastern Afghanistan; both attacks are repelled by coalition forces, killing 24 militants while taking no casualties. ](/news/2010/08/28/suspected-taliban-insurgents-attack-two-coalition-allied-military-bases-in-eastern-afghanistan-both-attacks-are-repelled-by-coalition-force.md)
 Nato-led forces repel attacks by Taliban insurgents on two coalition bases in eastern Afghanistan, killing 18 militants and capturing others, officials say.
 
-##### U.S.
+##### United States
 ### [Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md)
 Suspected U.S. missiles struck two vehicles carrying militants in northwest Pakistan, killing four of them, intelligence officials said Saturday.
 

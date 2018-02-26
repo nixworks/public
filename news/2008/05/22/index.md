@@ -13,7 +13,7 @@ _Context: deadly earthquake_
 
 ##### Lithuania
 ### [ Two civilians and a Lithuanian soldier are killed as an Afghan protest over the Koran shooting outside the Chagcharan Airfield in the Ghor Province of Afghanistan turns violent. ](/news/2008/05/22/two-civilians-and-a-lithuanian-soldier-are-killed-as-an-afghan-protest-over-the-koran-shooting-outside-the-chagcharan-airfield-in-the-ghor.md)
-_Context: Afghan, Ghor Province, Koran, Lithuania_
+_Context: Afghanistan, Ghor Province, Koran, Lithuania_
 
 ##### Weld County Tornado
 ### [ Weld County Tornado: One person is killed and at least 100 are injured in Weld County, Colorado after a tornado tears through the county. Colorado Governor Bill Ritter declares a state of emergency and activates the Colorado National Guard in the affected region. ](/news/2008/05/22/weld-county-tornado-one-person-is-killed-and-at-least-100-are-injured-in-weld-county-colorado-after-a-tornado-tears-through-the-county-c.md)

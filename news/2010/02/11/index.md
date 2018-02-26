@@ -9,11 +9,11 @@ The Government of Montserrat, the Disaster Management Coordinating Agency (DMCA)
 
 ##### Haiti
 ### [Haiti announces that the 10 American missionaries accused of attempted kidnapping will be released from custody. ](/news/2010/02/11/haiti-announces-that-the-10-american-missionaries-accused-of-attempted-kidnapping-will-be-released-from-custody.md)
-_Context: Haiti, U.S._
+_Context: Haiti, United States_
 
-##### U.S.
+##### United States
 ### [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md)
-_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, U.S., U.S. President, coronary stent_
+_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, U.S. President, United States, coronary stent_
 
 ##### Sergey Aleynikov
 ### [Sergey Aleynikov, a former computer programmer for Goldman Sachs, is indicted for three counts by a U.S. federal court in Manhattan for theft of trade secrets, transportation of stolen property in interstate and foreign commerce, and unauthorized computer access. ](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.md)
@@ -37,7 +37,7 @@ _Context: Sarath Fonseka, Sri Lanka_
 
 ##### European Parliament
 ### [The European Parliament rejects an agreement that would have granted the United States Terrorist Finance Tracking Program unlimited access to the SWIFT bank transactions database. ](/news/2010/02/11/the-european-parliament-rejects-an-agreement-that-would-have-granted-the-united-states-terrorist-finance-tracking-program-unlimited-access-t.md)
-_Context: European Parliament, Society for Worldwide Interbank Financial Telecommunication, Terrorist Finance Tracking Program, U.S._
+_Context: European Parliament, Society for Worldwide Interbank Financial Telecommunication, Terrorist Finance Tracking Program, United States_
 
 ##### European Union
 ### [A European Union summit takes place to discuss a possible bailout for Greece's economy. ](/news/2010/02/11/a-european-union-summit-takes-place-to-discuss-a-possible-bailout-for-greece-s-economy.md)

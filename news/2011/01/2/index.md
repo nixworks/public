@@ -67,13 +67,13 @@ Queensland still on edge as rivers surge to new heights and flow into low-lying 
 ### [A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. ](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.md)
 A 7.1-magnitude earthquake has struck central Chile, sending tens of thousands of people near coastal communities for higher ground over concerns it would generate a tsunami.
 
-##### Afghan
+##### Afghanistan
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
 Opium prices have almost doubled after a blight halved production in 2010, Afghan officials said on Sunday, raising fears more farmers would turn to the illicit crop in the absence of profitable alternatives.
 
-##### U.S.
+##### United States
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
-_Context: Internal Revenue Service, U.S., extension of the Bush tax cuts and other itemizations, tax returns_
+_Context: Internal Revenue Service, United States, extension of the Bush tax cuts and other itemizations, tax returns_
 
 ##### Egypt
 ### [Egyptian police shoot and kill an African illegal immigrant outside the Israeli border. ](/news/2011/01/2/egyptian-police-shoot-and-kill-an-african-illegal-immigrant-outside-the-israeli-border.md)

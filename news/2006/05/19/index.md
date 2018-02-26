@@ -17,13 +17,13 @@ _Context: Alexandria, Virginia, CIA, Khaled el-Masri, Virginia, extraordinary re
 
 ##### United Nations
 ### [ The United Nations Committee Against Torture tells the United States it should close any secret prisons abroad and the Guantnamo Bay facility in Cuba, saying they violate international law. It also calls for the US not to use interrogation techniques that amount to torture and to stop the practice of "extraordinary renditions". ](/news/2006/05/19/the-united-nations-committee-against-torture-tells-the-united-states-it-should-close-any-secret-prisons-abroad-and-the-guantanamo-bay-facil.md)
-_Context: Committee Against Torture, Cuba, Guantnamo Bay, U.S., United Nations, extraordinary rendition, international law, torture_
+_Context: Committee Against Torture, Cuba, Guantnamo Bay, United Nations, United States, extraordinary rendition, international law, torture_
 
-##### U.S.
+##### United States
 ### [ A riot takes place at the United States prison camp at Guantnamo Bay in Cuba after several inmates attempted suicide. ](/news/2006/05/19/a-riot-takes-place-at-the-united-states-prison-camp-at-guantanamo-bay-in-cuba-after-several-inmates-attempted-suicide.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### U.S.
+##### United States
 ### [ The United States Senate votes on an amendment to an immigration reform bill which would ""... declare English as the national language of the United States"", giving English an increased "de jure" capacity (in addition to a "de facto" one) as the official language within the country. The bill, S. 2611, has yet to be voted on in the Senate. ](/news/2006/05/19/the-united-states-senate-votes-on-an-amendment-to-an-immigration-reform-bill-which-would-declare-english-as-the-national-language-of.md)
 Lawmakers Vote For English As Both National And Unifying Language
 

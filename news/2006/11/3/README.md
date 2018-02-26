@@ -35,15 +35,15 @@ _Context: Accession of Turkey to the European Union, European Commission, Europe
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)
 _Context: World Meteorological Organisation, greenhouse gases_
 
-##### U.S.
+##### United States
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
-_Context: Cory Lidle, NTSB, New York City, New York Yankees, U.S., into an apartment building_
+_Context: Cory Lidle, NTSB, New York City, New York Yankees, United States, into an apartment building_
 
 ##### United States House of Representatives
 ### [ U.S. Rep. Bob Ney of Ohio resigns from Congress after having pleaded guilty to charges relating to Jack Abramoff. ](/news/2006/11/3/u-s-rep-bob-ney-of-ohio-resigns-from-congress-after-having-pleaded-guilty-to-charges-relating-to-jack-abramoff.md)
 _Context: Bob Ney, Jack Abramoff, Ohio, United States House of Representatives_
 
-##### U.S.
+##### United States
 ### [ U.S. evangelical minister Ted Haggard is accused of methamphetamine use and engaging in homosexual sex acts. ](/news/2006/11/3/u-s-evangelical-minister-ted-haggard-is-accused-of-methamphetamine-use-and-engaging-in-homosexual-sex-acts.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 

@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/8/index.html)  [JSON](2008/03/8/index.json)  [XML](2008/
 
 ## [2008-03-8](/news/2008/03/8/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)
-_Context: Iraq, U.S._
+_Context: Iraq, United States_
 
 ##### Malaysia
 ### [ Malaysians go to the polls for the Malaysian general election, 2008. The Barisan National secures another term in government, but suffers its worst performance since the country's independence in 1957. ](/news/2008/03/8/malaysians-go-to-the-polls-for-the-malaysian-general-election-2008-the-barisan-national-secures-another-term-in-government-but-suffers-i.md)

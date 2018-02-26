@@ -9,7 +9,7 @@ French President Francois Hollande is under pressure to clarify his personal sit
 
 ##### India
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: Devyani Khobragade incident, India, U.S._
+_Context: Devyani Khobragade incident, India, United States_
 
 ##### Prime Minister of Israel
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)
@@ -27,7 +27,7 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 ### [A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. ](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-death-in-punjab-raising-concerns-about-human-rights-in-pakistan.md)
 _Context: Pakistan, Punjab Province, human rights, torture_
 
-##### U.S.
+##### United States
 ### [The United States Air Force expands an illegal drugs investigation involving ten officers in six military bases in the United States and the United Kingdom. ](/news/2014/01/11/the-united-states-air-force-expands-an-illegal-drugs-investigation-involving-ten-officers-in-six-military-bases-in-the-united-states-and-the.md)
 Ten U.S. Air Force officers are being investigated for alleged illegal drug possession, the Air Force said on Friday, a day after the probe surfaced as Defense Secretary Chuck Hagel was visiting a base to rally airmen in the U.S. nuclear force.
 

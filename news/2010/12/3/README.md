@@ -23,7 +23,7 @@ Supreme Court confirms Alpha Conde as winner of November 7 presidential poll, re
 ### [South Korea's defence minister-designate Kim Kwan-jin threatens North Korea with air strikes if the shelling of Yeonpyeong is repeated. The shelling was in response to South Korean naval exercises. ](/news/2010/12/3/south-korea-s-defence-minister-designate-kim-kwan-jin-threatens-north-korea-with-air-strikes-if-the-shelling-of-yeonpyeong-is-repeated-the.md)
 _Context: Kim Kwan-jin, North Korea, South Korea, shelling of Yeonpyeong_
 
-##### U.S.
+##### United States
 ### [Newly released cables reveal United States worries about Afghan President Hamid Karzai's character and corruption in Afghanistan, with one U.S. diplomat describing Karzai as "insecure" and a "paranoid and weak individual". ](/news/2010/12/3/newly-released-cables-reveal-united-states-worries-about-afghan-president-hamid-karzai-s-character-and-corruption-in-afghanistan-with-one-u.md)
 U.S. spy planes flew reconnaissance flights over Lebanon from a British air base in Cyprus, leaked U.S. documents show, in a counter-terrorist surveillance operation requested by Lebanese officials.
 
@@ -73,7 +73,7 @@ China prevents Chinese artist Ai Weiwei from travelling abroad, amid an apparent
 
 ##### U.S. President
 ### [President Barack Obama makes a surprise visit to United States armed forces based in Afghanistan. ](/news/2010/12/3/president-barack-obama-makes-a-surprise-visit-to-united-states-armed-forces-based-in-afghanistan.md)
-_Context: Afghan, Barack Obama, U.S. President, United States armed forces_
+_Context: Afghanistan, Barack Obama, U.S. President, United States armed forces_
 
 ##### Cyberwarfare
 ### [As "massive" cyberwarfare against the WikiLeaks website continue, the website is forced to change its web address after EveryDNS kills its domain due to the disruption caused to its other customers by the attacks. United States authorities are accused of carrying out the cyber attacks against the website. ](/news/2010/12/3/as-massive-cyberwarfare-against-the-wikileaks-website-continue-the-website-is-forced-to-change-its-web-address-after-everydns-kills-its-d.md)

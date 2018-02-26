@@ -15,9 +15,9 @@ _Context: Israel, Israeli-Lebanese conflict, Lebanese_
 ### [ Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. ](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, Israel_
 
-##### Afghan
+##### Afghanistan
 ### [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md)
-_Context: Afghan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
+_Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
 
 ##### Laptops
 ### [ Six laptops containing information on about 20,000 patients are stolen from a London hospital. ](/news/2008/06/18/six-laptops-containing-information-on-about-20-000-patients-are-stolen-from-a-london-hospital.md)
@@ -31,9 +31,9 @@ _Context: Black Economic Empowerment, High Court, South Africa, South African Ch
 ### [ Romanian villagers vote to re-elect a dead man as their mayor, to prevent his living rival winning. ](/news/2008/06/18/romanian-villagers-vote-to-re-elect-a-dead-man-as-their-mayor-to-prevent-his-living-rival-winning.md)
 _Context: Romania, mayor_
 
-##### U.S.
+##### United States
 ### [ American golfer Tiger Woods will miss the rest of the golf season to have additional surgery on his left knee. ](/news/2008/06/18/american-golfer-tiger-woods-will-miss-the-rest-of-the-golf-season-to-have-additional-surgery-on-his-left-knee.md)
-_Context: PGA Tour, Tiger Woods, U.S., golfer, knee, surgery_
+_Context: PGA Tour, Tiger Woods, United States, golfer, knee, surgery_
 
 ##### Gujjar
 ### [ The Gujjar community of the Indian state of Rajasthan achieves a compromise recognition as a special category of Other Backward Class in the state's affirmative action program, comparable to the status of Banjaras and Rabaris. ](/news/2008/06/18/the-gujjar-community-of-the-indian-state-of-rajasthan-achieves-a-compromise-recognition-as-a-special-category-of-other-backward-class-in-th.md)
@@ -59,9 +59,9 @@ _Context: Abyei, Sudan_
 ### [ Mexico reaches an agreement with industry groups to fix the prices of 150 food items as a result of accelerating inflation. ](/news/2008/06/18/mexico-reaches-an-agreement-with-industry-groups-to-fix-the-prices-of-150-food-items-as-a-result-of-accelerating-inflation.md)
 _Context: Mexico_
 
-##### U.S.
+##### United States
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: Chinese, U.S., energy security_
+_Context: Chinese, United States, energy security_
 
 ##### Parliament
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)

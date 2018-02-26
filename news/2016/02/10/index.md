@@ -13,7 +13,7 @@ French Foreign Minister Laurent Fabius said he was resigning after serving nearl
 
 ##### Parliament of Australia
 ### [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use-t.md)
-_Context: Parliament of Australia, government, marijuana for medical use_
+_Context: Parliament of Australia, cogoverning, marijuana for medical use_
 
 ##### 2016 U.S. election
 ### [New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md)
@@ -33,7 +33,7 @@ _Context: Abingdon, Harford County Sheriff's Office, Maryland_
 
 ##### Rojava conflict
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: President of Turkey, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, U.S., terrorist_
+_Context: President of Turkey, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, United States, terrorist_
 
 ##### European migrant crisis
 ### [NATO, during a two-day meeting, considers request from Turkey and Greece to monitor migrant transit in the Aegean Sea and to combat human traffickers squeezing refugees onto unsafe boats. ](/news/2016/02/10/nato-during-a-two-day-meeting-considers-request-from-turkey-and-greece-to-monitor-migrant-transit-in-the-aegean-sea-and-to-combat-human-tr.md)

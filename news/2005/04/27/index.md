@@ -9,7 +9,7 @@ _Context: Alassane Ouattara, Cte d'Ivoire, Laurent Gbagbo, South Africa, Thabo M
 
 ##### Vietnam
 ### [ In Vietnam, six people are arrested for trying to sell human remains as remains of MIA US soldiers. ](/news/2005/04/27/in-vietnam-six-people-are-arrested-for-trying-to-sell-human-remains-as-remains-of-mia-us-soldiers.md)
-_Context: MIA, U.S., Vietnam_
+_Context: MIA, United States, Vietnam_
 
 ##### John Gudenus
 ### [ John Gudenus of the Austrian Freedom Party causes controversy when he questions the existence of Nazi gas chambers and later leaves the party. ](/news/2005/04/27/john-gudenus-of-the-austrian-freedom-party-causes-controversy-when-he-questions-the-existence-of-nazi-gas-chambers-and-later-leaves-the-par.md)
@@ -17,7 +17,7 @@ _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ##### Cherif Bassiouni
 ### [ Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. ](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.md)
-_Context: Afghan, Cherif Bassiouni, United Nations, United States of America, human rights_
+_Context: Afghanistan, Cherif Bassiouni, United Nations, United States of America, human rights_
 
 ##### India
 ### [ In India, Gautam Goswami, director of flood relief in Bihar, is accused of misdirecting funds. He denies any wrongdoing. ](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.md)

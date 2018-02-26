@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/14/index.html)  [JSON](2009/05/14/index.json)  [XML](200
 
 ##### South Korea
 ### [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md)
-_Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali pirates, Somalia, South Korea, South Korean Navy, U.S., United States Navy, cruiser, destroyer_
+_Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali pirates, Somalia, South Korea, South Korean Navy, United States, United States Navy, cruiser, destroyer_
 
 ##### China
 ### [ Chinese Communist Party General Secretary Zhao Ziyang's secret memoirs about the 1989 protests in Tiananmen Square are published. ](/news/2009/05/14/chinese-communist-party-general-secretary-zhao-ziyang-s-secret-memoirs-about-the-1989-protests-in-tiananmen-square-are-published.md)
@@ -25,7 +25,7 @@ _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democr
 
 ##### Chrysler
 ### [ Chrysler terminates 789 dealerships throughout the United States. ](/news/2009/05/14/chrysler-terminates-789-dealerships-throughout-the-united-states.md)
-_Context: Chrysler, U.S., dealers_
+_Context: Chrysler, United States, dealers_
 
 ## [Previous Day...](/news/2009/05/13/index.md)
 

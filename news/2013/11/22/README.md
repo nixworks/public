@@ -7,9 +7,9 @@ Formats: [HTML](2013/11/22/index.html)  [JSON](2013/11/22/index.json)  [XML](201
 ### [Crystal Mangum, the accuser in the 2006 Duke lacrosse case, is convicted of second-degree murder by a North Carolina jury in the 2011 stabbing death of her boyfriend, and is sentenced to serve between 14 and 18 years in prison. ](/news/2013/11/22/crystal-mangum-the-accuser-in-the-2006-duke-lacrosse-case-is-convicted-of-second-degree-murder-by-a-north-carolina-jury-in-the-2011-stabbi.md)
 The woman who falsely accused three Duke University lacrosse players of rape has been found guilty of second-degree murder in the stabbing death of her boyfriend.
 
-##### U.S.
+##### United States
 ### [The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-handelsblad.md)
-_Context: NRC Handelsblad, Netherlands, U.S., snooped_
+_Context: NRC Handelsblad, Netherlands, United States, snooped_
 
 ##### Windstorm
 ### [At least two people are dead from windstorms in Northern California, U.S. ](/news/2013/11/22/at-least-two-people-are-dead-from-windstorms-in-northern-california-u-s.md)
@@ -31,7 +31,7 @@ The death toll from Typhoon Haiyan has risen above 5,000, officials in the Phili
 ### [The death toll rises to at least 48, with others feared trapped and rescue efforts continuing. ](/news/2013/11/22/the-death-toll-rises-to-at-least-48-with-others-feared-trapped-and-rescue-efforts-continuing.md)
 Six people are killed, many injured and dozens more feared trapped after the roof of a supermarket collapses in the Latvian capital, Riga.
 
-##### U.S.
+##### United States
 ### [The United States commemorates the 50th anniversary of the day when John F. Kennedy was assassinated in Dallas, Texas. ](/news/2013/11/22/the-united-states-commemorates-the-50th-anniversary-of-the-day-when-john-f-kennedy-was-assassinated-in-dallas-texas.md)
 A Dallas filmmaker and former broadcaster reflect on John F Kennedy&#039;s 1963 assassination.
 

@@ -9,7 +9,7 @@ Formats: [HTML](2017/03/10/index.html)  [JSON](2017/03/10/index.json)  [XML](201
 
 ##### Impeached
 ### [South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-office-hwang-kyo-ahn-assumes-power.md)
-_Context: Constitutional Court, Hwang Kyo-ahn, Impeached, Park Geun-hye, South Korea, South Korean President_
+_Context: Constitutional Court, Hwang Kyo-ahn, Impeached, Park Geun-hye, South Korea, South Korean president_
 
 ##### Stephen O'Brien
 ### [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md)

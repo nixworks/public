@@ -9,7 +9,7 @@ _Context: 2011 Tucson shootings, Jared Lee Loughner_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il arrives in Beijing for a meeting with the President of the People's Republic of China, Hu Jintao. ](/news/2011/05/25/north-korean-leader-kim-jong-il-arrives-in-beijing-for-a-meeting-with-the-president-of-the-people-s-republic-of-china-hu-jintao.md)
-_Context: Beijing, Chinese President, Hu Jintao, Kim Jong-il, North Korea_
+_Context: Beijing, Hu Jintao, Kim Jong-il, North Korea, President_
 
 ##### Palestine
 ### [Palestinian officials dismiss Israeli PM Benjamin Netanyahu's speech to the US Congress, saying it will not lead to peace. ](/news/2011/05/25/palestinian-officials-dismiss-israeli-pm-benjamin-netanyahu-s-speech-to-the-us-congress-saying-it-will-not-lead-to-peace.md)

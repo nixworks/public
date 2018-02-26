@@ -21,7 +21,7 @@ Key independent MP Bob Katter has announced he will back the Coalition in a mino
 
 ##### United States soldier
 ### [United States Army General David Petraeus, the Commander of the International Security Assistance Force in Afghanistan, condemns plans by a small Florida church to burn copies of the Koran on the anniversary of the September 11 attacks as inflammatory. ](/news/2010/09/7/united-states-army-general-david-petraeus-the-commander-of-the-international-security-assistance-force-in-afghanistan-condemns-plans-by-a.md)
-_Context: Afghan, David Petraeus, Florida, General, International Security Assistance Force, Koran, September 11 attacks, United States soldier_
+_Context: Afghanistan, David Petraeus, Florida, General, International Security Assistance Force, Koran, September 11 attacks, United States soldier_
 
 ##### Democratic
 ### [At least 50 people are arrested during pro-democracy protests in Swaziland. ](/news/2010/09/7/at-least-50-people-are-arrested-during-pro-democracy-protests-in-swaziland.md)
@@ -33,9 +33,9 @@ _Context: Srinagar_
 
 ##### Mark David Chapman
 ### [Mark David Chapman, John Lennon's killer, is denied parole by the New York State Division of Parole in the U.S.. ](/news/2010/09/7/mark-david-chapman-john-lennon-s-killer-is-denied-parole-by-the-new-york-state-division-of-parole-in-the-u-s.md)
-_Context: John Lennon, Mark David Chapman, New York City, U.S., parole_
+_Context: John Lennon, Mark David Chapman, New York City, United States, parole_
 
-##### U.S.
+##### United States
 ### [Around 85 fires break out in the U.S. city of Detroit, Michigan, with at least 20 homes destroyed. Winds of 40 to 50 mph cause 113,000 customers to lose electricity. ](/news/2010/09/7/around-85-fires-break-out-in-the-u-s-city-of-detroit-michigan-with-at-least-20-homes-destroyed-winds-of-40-to-50-mph-cause-113-000-custo.md)
 A rash of fires were blazing this evening in four separate Detroit neighborhoods, destroying at least 20 homes, according to witnesses and local reports.
 

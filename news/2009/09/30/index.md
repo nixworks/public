@@ -15,7 +15,7 @@ _Context:  Georgian, 2008 South Ossetia war, international fact-finding mission_
 ### [ Several Sudanese political parties boycott a conference on the future of South Sudan. ](/news/2009/09/30/several-sudanese-political-parties-boycott-a-conference-on-the-future-of-south-sudan.md)
 Six parties withdraw from Juba conference discussing the future of south Sudan.
 
-##### U.S.
+##### United States
 ### [ The United States is to withdraw 4,000 troops from Iraq by the end of October. ](/news/2009/09/30/the-united-states-is-to-withdraw-4-000-troops-from-iraq-by-the-end-of-october.md)
 US commander Odierno says 4,000 troops will be sent home by the end October.
 
@@ -27,9 +27,9 @@ _Context: Asia, Typhoon Ketsana_
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
 _Context: Nepal, church_
 
-##### U.S.
+##### United States
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: Burma, New York City, U.S._
+_Context: Burma, New York City, United States_
 
 ##### Guinea
 ### [ Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. ](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.md)

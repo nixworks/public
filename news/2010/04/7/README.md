@@ -77,7 +77,7 @@ Protest leaders claim command of capital after deadly anti-government clashes, r
 
 ##### Gay & Lesbian Alliance Against Defamation
 ### [The Gay & Lesbian Alliance Against Defamation (GLAAD) announces that the number of LGBT characters on scripted programs in the United States has doubled since 2005. ](/news/2010/04/7/the-gay-lesbian-alliance-against-defamation-glaad-announces-that-the-number-of-lgbt-characters-on-scripted-programs-in-the-united-states.md)
-_Context: Gay & Lesbian Alliance Against Defamation, U.S., gay and bisexual men_
+_Context: Gay & Lesbian Alliance Against Defamation, United States, gay and bisexual men_
 
 ##### James Hansen
 ### [James Hansen wins the Sophie Prize. ](/news/2010/04/7/james-hansen-wins-the-sophie-prize.md)

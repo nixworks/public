@@ -19,7 +19,7 @@ _Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_
 
 ##### York
 ### [The directors of two companies based in York and Kent are charged with conspiring to illegally export Chinese-produced weapons to the United States after having imported them into the UK via Germany. The incident breaches an embargo by the United States, which disagrees with the importation of weapons made in China. ](/news/2011/01/30/the-directors-of-two-companies-based-in-york-and-kent-are-charged-with-conspiring-to-illegally-export-chinese-produced-weapons-to-the-united.md)
-_Context: Kent, U.S., York_
+_Context: Kent, United States, York_
 
 ##### Vietnam
 ### [A Vietnamese journalist known for his high-profile reporting dies after being set on fire. ](/news/2011/01/30/a-vietnamese-journalist-known-for-his-high-profile-reporting-dies-after-being-set-on-fire.md)

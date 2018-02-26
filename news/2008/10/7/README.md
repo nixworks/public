@@ -29,7 +29,7 @@ _Context: Makoto Kobayashi, Nobel Prize in Physics, Toshihide Maskawa, Yoichiro 
 
 ##### Saudi Arabia
 ### [ In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afghanistan.md)
-_Context: Afghan, Saudi Arabia, Taliban, al-Qaeda_
+_Context: Afghanistan, Saudi Arabia, Taliban, al-Qaeda_
 
 ##### Portugal
 ### [ Portugal recognizes Kosovo.](/news/2008/10/7/portugal-recognizes-kosovo.md)

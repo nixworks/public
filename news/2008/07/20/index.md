@@ -15,9 +15,9 @@ _Context: Australia, Benedict XVI, Madrid, Pope, Sydney, World Youth Day 2008, m
 ### [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md)
 _Context: 2008 Summer Olympics, Beijing, air pollution_
 
-##### Afghan
+##### Afghanistan
 ### [ At least 13 Afghan police and civilians are killed in an airstrike by NATO forces two weeks after an airstrike killed 52 civilians at a wedding. ](/news/2008/07/20/at-least-13-afghan-police-and-civilians-are-killed-in-an-airstrike-by-nato-forces-two-weeks-after-an-airstrike-killed-52-civilians-at-a-wed.md)
-_Context: Afghan, NATO, airstrike_
+_Context: Afghanistan, NATO, airstrike_
 
 ##### Colombia
 ### [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md)
@@ -25,7 +25,7 @@ _Context: Bogot, Colombia, FARC, Independence Day, Ingrid Betancourt, Leticia, L
 
 ##### The Dark Knight
 ### [ "The Dark Knight" sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betwee.md)
-_Context: $, The Dark Knight, U.S._
+_Context: $, The Dark Knight, United States_
 
 ##### Golf
 ### [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md)

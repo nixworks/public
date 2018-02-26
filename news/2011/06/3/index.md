@@ -19,9 +19,9 @@ Former Democratic vice presidential nominee and two-time presidential candidate 
 ### [Bosnian Serb genocide suspect Ratko Mladic makes his first appearance at the war crimes tribunal in The Hague, Netherlands, and dismisses charges against him as "obnoxious." ](/news/2011/06/3/bosnian-serb-genocide-suspect-ratko-mladia-makes-his-first-appearance-at-the-war-crimes-tribunal-in-the-hague-netherlands-and-dismisses-c.md)
 Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; charges against him Friday during his first appearance at a war crimes tribunal.
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council expresses "grave concern about the ongoing violence and rapidly deteriorating situation in Abyei in southern Sudan. ](/news/2011/06/3/the-united-nations-security-council-expresses-grave-concern-about-the-ongoing-violence-and-rapidly-deteriorating-situation-in-abyei-in-sout.md)
-_Context: Abyei, Security Council, southern Sudan_
+_Context: Abyei, United Nations Security Council, southern Sudan_
 
 ##### Agent Orange
 ### [A South Korean report claims that South Korea and the United States sprayed Agent Orange on the Demilitarized Zone in 1968-69 in order to prevent infiltrations from North Korea. ](/news/2011/06/3/a-south-korean-report-claims-that-south-korea-and-the-united-states-sprayed-agent-orange-on-the-demilitarized-zone-in-1968-69-in-order-to-pr.md)
@@ -71,7 +71,7 @@ Seventeen people were killed and 50 others wounded in a blast from a container f
 ### [Somali government forces and African Union troops expel al Qaeda-linked militants from their last outpost in the western part of Mogadishu, opening up a main road in the city. ](/news/2011/06/3/somali-government-forces-and-african-union-troops-expel-al-qaeda-linked-militants-from-their-last-outpost-in-the-western-part-of-mogadishu.md)
 Somali government forces and African Union troops pushed al Qaeda-linked militants out of its last outpost in the western part of Mogadishu, opening the main artery to the famed Bakaara Market, the African Union Mission to Somalia said Friday.
 
-##### Afghan
+##### Afghanistan
 ### [More than 200 Afghan militants cross over into Pakistan and attack a security checkpoint in northwest Pakistan, sparking a clash in which 28 Pakistani security forces and six civilians die, along with 45 Afghans. ](/news/2011/06/3/more-than-200-afghan-militants-cross-over-into-pakistan-and-attack-a-security-checkpoint-in-northwest-pakistan-sparking-a-clash-in-which-28.md)
 More than 200 Afghan militants crossed over and attacked a security checkpoint in northwest Pakistan, sparking a firefight that left dozens dead, authorities said Thursday.
 

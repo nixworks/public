@@ -21,7 +21,7 @@ _Context: Histadrut, Israel, strike, unionize_
 
 ##### Supreme Leader
 ### [ Supreme Leader of Iran Ayatollah Ali Khamenei warns that Iran will pursue nuclear development outside regulations if the United Nations Security Council imposes sanctions. ](/news/2007/03/21/supreme-leader-of-iran-ayatollah-ali-khamenei-warns-that-iran-will-pursue-nuclear-development-outside-regulations-if-the-united-nations-sec.md)
-_Context: Ali Khamenei, Ayatollah, Iran, Security Council, Supreme Leader, nuclear program_
+_Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader, United Nations Security Council, nuclear program_
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Condoleezza Rice announces that the Bush administration will cut its security package to the government of the Palestinian National Authority by nearly half in order to ensure that Hamas does not receive funding. ](/news/2007/03/21/united-states-secretary-of-state-condoleezza-rice-announces-that-the-bush-administration-will-cut-its-security-package-to-the-government-of.md)

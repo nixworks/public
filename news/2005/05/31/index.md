@@ -59,9 +59,9 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### [ In Botswana, Australian lecturer Kenneth Good loses his appeal against deportation. He had criticized the government of president Festus Mogae ](/news/2005/05/31/in-botswana-australian-lecturer-kenneth-good-loses-his-appeal-against-deportation-he-had-criticized-the-government-of-president-festus-mo.md)
 _Context: Botswana, Festus Mogae, deportation_
 
-##### Security Council
+##### United Nations Security Council
 ### [ United Nations Security Council votes to extend its peacekeeping mission in Haiti until June 24 ](/news/2005/05/31/united-nations-security-council-votes-to-extend-its-peacekeeping-mission-in-haiti-until-june-24.md)
-_Context: Haiti, June 24, Security Council, peacekeeping_
+_Context: Haiti, June 24, United Nations Security Council, peacekeeping_
 
 ##### Serbia
 ### [ Serbia withdraws arrest warrant of Mirjana Markovic, wife of Slobodan Milosevic ](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.md)

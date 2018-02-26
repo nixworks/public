@@ -41,7 +41,7 @@ _Context: Berlin, China, German_
 
 ##### President of Sudan
 ### [The President of Sudan Omar Hassan al-Bashir arrives in Beijing for talks with Hu Jintao, the President of the People's Republic of China to discuss the recent partition with Southern Sudan. ](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.md)
-_Context: Beijing, Chinese President, Hu Jintao, Omar Hassan al-Bashir, President of Sudan, Southern Sudan_
+_Context: Beijing, Hu Jintao, Omar Hassan al-Bashir, President, President of Sudan, Southern Sudan_
 
 ##### Flash flood
 ### [Fourteen people die following a flash flood in Davao City in the Philippines. ](/news/2011/06/28/fourteen-people-die-following-a-flash-flood-in-davao-city-in-the-philippines.md)
@@ -117,7 +117,7 @@ Six bombers said to have stormed the Intercontinental, popular with foreigners a
 
 ##### Refugees International
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
-_Context: Afghan, NATO, Refugees International_
+_Context: Afghanistan, NATO, Refugees International_
 
 ##### Drones launch
 ### [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md)

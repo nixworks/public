@@ -57,7 +57,7 @@ _Context: Muslim, Narathiwat, Thailand_
 
 ##### Syrian opposition
 ### [Rebels clash with the Syrian military at an army base protecting Aleppo's international airport. The opposition claims that 40 Syrian soldiers were killed in the fighting, as large parts of the base are overrun. ](/news/2013/02/13/rebels-clash-with-the-syrian-military-at-an-army-base-protecting-aleppo-s-international-airport-the-opposition-claims-that-40-syrian-soldie.md)
-_Context: Aleppo, Aleppo International Airport, Syrian Armed Forces, Syrian opposition_
+_Context: Aleppo, Aleppo International Airport, Government forces, Syrian opposition_
 
 ## [Previous Day...](/news/2013/02/12/index.md)
 

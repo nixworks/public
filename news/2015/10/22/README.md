@@ -61,7 +61,7 @@ _Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Sheik
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Afghan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
 
 ##### ISIL
 ### [A joint early-morning raid conducted by Iraqi and US forces on an IS-run prison in Hawija, Kirkuk Province has freed 70 hostages. One U.S. Delta Force soldier was reported killed - the first American combat death since the start of the US-led intervention against IS. ](/news/2015/10/22/a-joint-early-morning-raid-conducted-by-iraqi-and-us-forces-on-an-is-run-prison-in-hawija-kirkuk-province-has-freed-70-hostages-one-u-s-d.md)

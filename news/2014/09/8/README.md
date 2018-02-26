@@ -33,7 +33,7 @@ Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian 
 
 ##### Taliban insurgency
 ### [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
-_Context: Afghan, Kandahar Province, Taliban insurgency, suicide bomb_
+_Context: Afghanistan, Kandahar Province, Taliban insurgency, suicide bomb_
 
 ## [Previous Day...](/news/2014/09/7/index.md)
 

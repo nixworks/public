@@ -37,7 +37,7 @@ The last UK base and a key US base in Afghanistan are handed over to Afghan secu
 
 ##### War in North-West Pakistan
 ### [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md)
-_Context: Afghan, Pakistan, War in North-West Pakistan_
+_Context: Afghanistan, Pakistan, War in North-West Pakistan_
 
 ## [Previous Day...](/news/2014/10/25/index.md)
 

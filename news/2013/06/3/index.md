@@ -53,7 +53,7 @@ _Context: Michael Sata, Tokyo International Conference on African Development, Y
 
 ##### Park Geun-Hye
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Laos, North Korea, Park Geun-Hye, South Korean President, asylum seeker_
+_Context: Laos, North Korea, Park Geun-Hye, South Korean president, asylum seeker_
 
 ##### Ali Asghar Soltanieh
 ### [Ali Asghar Soltanieh, Iran's Ambassador to the International Atomic Energy Agency (IAEA), says the agency's latest report verifies that Iran is having "technical and scientific success in its peaceful nuclear activities" and that this is "an important message to the whole world". ](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.md)
@@ -97,7 +97,7 @@ Palestinians alive during 1946 Arab-Israeli war say unmarked grave found in coas
 
 ##### Suicide bombing
 ### [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
-_Context: Afghan, suicide bombing_
+_Context: Afghanistan, suicide bombing_
 
 ##### 
 ### [Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/three-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respectively.md)

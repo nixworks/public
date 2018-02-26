@@ -23,7 +23,7 @@ _Context: Katherine Archuleta, Office of Personnel Management data breach, Unite
 ### [The Federal Bureau of Investigation admits that Dylann Roof, the suspect in the Charleston church shooting, should not have passed a background check to obtain a gun licence. ](/news/2015/07/10/the-federal-bureau-of-investigation-admits-that-dylann-roof-the-suspect-in-the-charleston-church-shooting-should-not-have-passed-a-backgro.md)
 _Context: Charleston church shooting, Dylann Roof, FBI, background check_
 
-##### U.S.
+##### United States
 ### [The United States State Department criticizes Thailand for deporting ethnic Uyghur back to China. The predominantly Uyghur Xinjiang province is the site of an ongoing political and religious crackdown in response to a wave of Muslim terrorist attacks in China. ](/news/2015/07/10/the-united-states-state-department-criticizes-thailand-for-deporting-ethnic-uyghur-back-to-china-the-predominantly-uyghur-xinjiang-province.md)
 The ruling junta in the Southeast Asian country ordered 100 ethnic Uighur Muslims to return to China, where Washington says they &quot;could face harsh treatment and a lack of due process.&quot;
 

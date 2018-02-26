@@ -47,9 +47,9 @@ Opposition activists derailed a train in Bangladesh, killing three people, as pa
 ### [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
 Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in targeted shootings including five suspected Taliban activists, a Shia scholar and two Moroccan students at a religious seminary.
 
-##### U.S.
+##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: Afghan, Pakistan, U.S., drones launch_
+_Context: Afghanistan, Pakistan, United States, drones launch_
 
 ##### Mali's coup
 ### [A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-during-mali-s-coup.md)

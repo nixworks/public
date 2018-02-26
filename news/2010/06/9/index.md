@@ -83,7 +83,7 @@ _Context:  Georgian, French President, French warships, Mikheil Saakashvili, Nic
 ### [President of the United States Barack Obama meets President of the Palestinian National Authority Mahmoud Abbas at the White House in Washington, D.C., United States and promises Palestinians $400 million in US assistance for the West Bank and Gaza. ](/news/2010/06/9/president-of-the-united-states-barack-obama-meets-president-of-the-palestinian-national-authority-mahmoud-abbas-at-the-white-house-in-washin.md)
 Muslim Brotherhood MP Mohamed Beltagy, who was on Gaza-bound flotilla, recounts snatching of Navy soldiers. Egyptian newspapers not pleased with bragging, says it &#39;helps Israel&#39;
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council imposes a fourth round of sanctions against Iran over its nuclear program. ](/news/2010/06/9/the-united-nations-security-council-imposes-a-fourth-round-of-sanctions-against-iran-over-its-nuclear-program.md)
 The UN Security Council votes in favour of a fourth round of sanctions against Iran over its controversial nuclear programme.
 

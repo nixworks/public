@@ -37,7 +37,7 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ##### Yomiuri
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
 
 ##### Russia
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
@@ -67,7 +67,7 @@ Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&
 ### [At least five people are killed and 54 injured in sectarian clashes in the Imbaba area of Cairo. ](/news/2011/05/7/at-least-five-people-are-killed-and-54-injured-in-sectarian-clashes-in-the-imbaba-area-of-cairo.md)
 _Context: Cairo, Imbaba_
 
-##### U.S.
+##### United States
 ### [The United States releases videos of Osama bin Laden captured in last Sunday's raid. ](/news/2011/05/7/the-united-states-releases-videos-of-osama-bin-laden-captured-in-last-sunday-s-raid.md)
 Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan, shows the al-Qaida founder watching himself on TV, The Associated Press reported. 
 
@@ -75,7 +75,7 @@ Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan
 ### [Al Qaeda in the Islamic Maghreb denies responsibility for a bomb attack on a Marrakesh cafe that killed 16 people on April 28. ](/news/2011/05/7/al-qaeda-in-the-islamic-maghreb-denies-responsibility-for-a-bomb-attack-on-a-marrakesh-cafe-that-killed-16-people-on-april-28.md)
 Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb attack on a cafe in Marrakesh last week that killed 17 people including eight French nationals.
 
-##### Afghan
+##### Afghanistan
 ### [Gunmen attack the compound of the Governor of Afghanistan's Kandahar Province and other facilities in the city of Kandahar with two dead and 29 injured. ](/news/2011/05/7/gunmen-attack-the-compound-of-the-governor-of-afghanistan-s-kandahar-province-and-other-facilities-in-the-city-of-kandahar-with-two-dead-and.md)
 The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20;of&#x20;coordinated&#x20;attacks&#x20;targeting&#x20;government&#x20;buildings&#x20;in&#x20;the&#x20;key&#x20;Afghan&#x20;city&#x20;of&#x20;Kandahar&#x20;on&#x20;Saturday,&#x20;which&#x20;has&#x20;left&#x20;at&#x20;leas...
 

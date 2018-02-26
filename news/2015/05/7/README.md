@@ -33,7 +33,7 @@ Underwater explorers in Madagascar say they have found what is thought to be the
 
 ##### ISIL
 ### [The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-states-and-a-recent-shooting-in-garland.md)
-_Context: Garland, Texas, ISIL, U.S., U.S. military_
+_Context: Garland, Texas, ISIL, U.S. military, United States_
 
 ##### Boko  Haram
 ### [At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md)

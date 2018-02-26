@@ -29,7 +29,7 @@ _Context: Chinese, Hanlong Group, Hubei, sentencing him to death_
 
 ##### Russia
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria. ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: Chinese, ICC, Russia, Security Council, mass murders of thousands of political prisoner_
+_Context: Chinese, ICC, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
 
 ##### Syrian Civil War
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
@@ -45,7 +45,7 @@ _Context: Chinese, rmqi_
 
 ##### Attack the Indian consulate
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
-_Context: Afghan, Herat Province, attack the Indian consulate_
+_Context: Afghanistan, Herat Province, attack the Indian consulate_
 
 ##### Egypt
 ### [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md)

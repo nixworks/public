@@ -29,7 +29,7 @@ The UN watchdog says it is satisfied with series of safety tests carried out by 
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
-_Context: 2011-2012 Syrian uprising, Arab League, Bashar al-Assad, President, Security Council, Syria_
+_Context: 2011-2012 Syrian uprising, Arab League, Bashar al-Assad, President, Syria, United Nations Security Council_
 
 ##### Alaska Volcano Observatory
 ### [The Alaska Volcano Observatory raises its alert warning for the Cleveland Volcano after it starts forming a new lava dome indicating that the mountain could explode. ](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.md)
@@ -51,7 +51,7 @@ _Context: Fred Goodwin, Queen Elizabeth II, Royal Bank of Scotland, knighthood_
 ### [Six aid workers are kidnapped in Yemen's Al Mahwit Governorate. ](/news/2012/01/31/six-aid-workers-are-kidnapped-in-yemen-s-al-mahwit-governorate.md)
 _Context: Al Mahwit Governorate, Yemen_
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
 The Kunduz Province authorities say that a woman, 22, was strangled by her husband and mother-in-law three months after she gave birth to a third girl.
 

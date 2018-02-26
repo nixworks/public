@@ -17,7 +17,7 @@ _Context: Marek Belka, Politics of Poland_
 
 ##### Roh Moo-hyun
 ### [ Roh Moo-hyun is reinstated as President of South Korea after that country's Constitutional Court overturns the National Assembly's March 12 impeachment vote against him. ](/news/2004/05/14/roh-moo-hyun-is-reinstated-as-president-of-south-korea-after-that-country-s-constitutional-court-overturns-the-national-assembly-s-march-12.md)
-_Context: Roh Moo-hyun, South Korean President, impeachment_
+_Context: Roh Moo-hyun, South Korean president, impeachment_
 
 ##### Frederik, Crown Prince of Denmark
 ### [ Frederik, Crown Prince of Denmark, marries Australian Mary Donaldson in Copenhagen. The service is attended by royalty and dignitaries from around the world, amidst very high security in the face of terrorism fears. ](/news/2004/05/14/frederik-crown-prince-of-denmark-marries-australian-mary-donaldson-in-copenhagen-the-service-is-attended-by-royalty-and-dignitaries-from.md)

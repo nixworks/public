@@ -25,7 +25,7 @@ _Context: United States Secret Service, White House_
 
 ##### Mexican government
 ### [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md)
-_Context: Joaquin "El Chapo" Guzman, Mexican government, U.S., sentenced to death_
+_Context: Joaquin "El Chapo" Guzman, Mexican government, United States, sentenced to death_
 
 ##### Efforts to impeach Barack Obama
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
@@ -33,7 +33,7 @@ _Context: Barack Obama, Congress, Efforts to impeach Barack Obama, Oklahoma Legi
 
 ##### War in Afghanistan (2015-present)
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
+_Context: Afghanistan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
 
 ##### Accession of Montenegro to NATO
 ### [The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. ](/news/2016/05/20/the-kremlin-condemns-nato-s-membership-invitation-to-montenegro-warning-the-step-risks-fueling-geopolitical-tensions-in-europe.md)

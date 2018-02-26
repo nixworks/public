@@ -37,7 +37,7 @@ A fire at a shopping centre in the Qatari capital Doha kills at least 19 people,
 
 ##### Helicopter
 ### [A helicopter crashes in eastern Afghanistan, killing two ISAF troops. ](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-killing-two-isaf-troops.md)
-_Context: Afghan, ISAF, helicopter_
+_Context: Afghanistan, ISAF, helicopter_
 
 ##### Bloxham Stockbrokers
 ### [Financial irregularities are revealed at Bloxham Stockbrokers. ](/news/2012/05/28/financial-irregularities-are-revealed-at-bloxham-stockbrokers.md)

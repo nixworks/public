@@ -3,7 +3,7 @@ Formats: [HTML](2006/10/9/index.html)  [JSON](2006/10/9/index.json)  [XML](2006/
 
 ## [2006-10-9](/news/2006/10/9/index.md)
 
-##### U.S.
+##### United States
 ### [ American Edmund S. Phelps wins the 2006 Nobel Memorial Prize in Economic Sciences for work on the trade-offs between inflation and unemployment. ](/news/2006/10/9/american-edmund-s-phelps-wins-the-2006-nobel-memorial-prize-in-economic-sciences-for-work-on-the-trade-offs-between-inflation-and-unemploy.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
@@ -13,7 +13,7 @@ _Context: Gilju, Korean Central News Agency, North Hamgyong, North Korea, nuclea
 
 ##### South Korea
 ### [ South Korean Ban Ki-moon is nominated to succeed Kofi Annan as the United Nations Secretary-General in an affirmation vote by the Security Council. A confirmation vote by the General Assembly is expected within the next fortnight. ](/news/2006/10/9/south-korean-ban-ki-moon-is-nominated-to-succeed-kofi-annan-as-the-united-nations-secretary-general-in-an-affirmation-vote-by-the-security.md)
-_Context: Ban Ki-moon, Kofi Annan, Security Council, South Korea, United Nations, United Nations General Assembly, United Nations Secretary-General, fortnight_
+_Context: Ban Ki-moon, Kofi Annan, South Korea, United Nations, United Nations General Assembly, United Nations Secretary-General, United Nations Security Council, fortnight_
 
 ##### Google
 ### [ Google officially announces that they will buy video sharing website YouTube for US$1.65 billion. ](/news/2006/10/9/google-officially-announces-that-they-will-buy-video-sharing-website-youtube-for-us-1-65-billion.md)

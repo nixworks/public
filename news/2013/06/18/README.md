@@ -29,7 +29,7 @@ Montreal Mayor Michael Applebaum has resigned in the wake of corruption charges 
 
 ##### National Security Agency
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: House Intelligence Committee, Keith Alexander, National Security Agency, United States House of Representatives_
+_Context: Keith Alexander, National Security Agency, United States House Permanent Select Committee on Intelligence, United States House of Representatives_
 
 ##### 2013 protests in Brazil
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
@@ -107,7 +107,7 @@ Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 peop
 ### [Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md)
 At least 31 people are killed in a double suicide bomb attack at a Shia mosque in the Iraqi capital, Baghdad.
 
-##### Afghan
+##### Afghanistan
 ### [A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md)
 A bomb explodes in western Kabul on the day Nato formally handed over command of security responsibilities to Afghan forces.
 

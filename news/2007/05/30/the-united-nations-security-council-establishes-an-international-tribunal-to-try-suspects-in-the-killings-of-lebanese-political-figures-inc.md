@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/30/the-united-nations-security-council-establishes
 
 ### [2007-05-30](/news/2007/05/30/index.md)
 
-##### Security Council
+##### United Nations Security Council
 #  The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/05/30/the-united-nations-security-council-establishes
 
 ### Related:
 
-1. [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md) _Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, Security Council_
+1. [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md) _Context: Lebanese, Prime Minister of Lebanon, Rafik Hariri, United Nations Security Council_
 2. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanese, Prime Minister of Lebanon_
 3. [A new government is formed in Lebanon after 10-months of gridlock, Tammam Salam is elected to be Prime Minister. ](/news/2014/02/15/a-new-government-is-formed-in-lebanon-after-10-months-of-gridlock-tammam-salam-is-elected-to-be-prime-minister.md) _Context: Lebanese, Prime Minister of Lebanon_
 4. [Najib Mikati announces his resignation as Prime Minister of Lebanon. ](/news/2013/03/22/najib-mikati-announces-his-resignation-as-prime-minister-of-lebanon.md) _Context: Lebanese, Prime Minister of Lebanon_

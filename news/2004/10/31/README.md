@@ -21,7 +21,7 @@ _Context: Beslan children killed a year ago, Chechen, Shamil Basayev_
 
 ##### United Nations
 ### [ Three United Nations workers taken hostage in Afghanistan are shown on a video issued by their captors. ](/news/2004/10/31/three-united-nations-workers-taken-hostage-in-afghanistan-are-shown-on-a-video-issued-by-their-captors.md)
-_Context: Afghan, United Nations_
+_Context: Afghanistan, United Nations_
 
 ##### Berlin Wall
 ### [ A section of the Berlin Wall is re-erected at the former Checkpoint Charlie as a memorial to the 1,065 people who were killed trying to escape from East Germany. ](/news/2004/10/31/a-section-of-the-berlin-wall-is-re-erected-at-the-former-checkpoint-charlie-as-a-memorial-to-the-1-065-people-who-were-killed-trying-to-esc.md)

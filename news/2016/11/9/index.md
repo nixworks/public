@@ -13,7 +13,7 @@ Only hours after Donald Trump was declared the winner in last night’s presiden
 
 ##### Canada
 ### [The immigration website of Canada crashes due to overflow, coinciding with the election in the United States. ](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.md)
-_Context: Canada, U.S._
+_Context: Canada, United States_
 
 ##### 2016 Croydon tram derailment
 ### [At least seven people have been killed and 51 hospitalised after a Tramlink light rail vehicle derailed and overturned close to Sandilands tram stop in the London Borough of Croydon early on Wednesday. It is believed to be the first tram accident involving fatalities in the United Kingdom since 1959. ](/news/2016/11/9/at-least-seven-people-have-been-killed-and-51-hospitalised-after-a-tramlink-light-rail-vehicle-derailed-and-overturned-close-to-sandilands-t.md)

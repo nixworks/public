@@ -33,11 +33,11 @@ Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl w
 
 ##### Waynesville
 ### [Four people are found fatally shot in Waynesville, Indiana, United States. ](/news/2013/05/12/four-people-are-found-fatally-shot-in-waynesville-indiana-united-states.md)
-_Context: Indiana, U.S., Waynesville_
+_Context: Indiana, United States, Waynesville_
 
 ##### Shooting
 ### [Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. ](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-at-a-mother-s-day-parade-in-new-orleans-louisiana-united-states.md)
-_Context: Louisiana, Mother's Day, New Orleans, U.S., shooting_
+_Context: Louisiana, Mother's Day, New Orleans, United States, shooting_
 
 ##### WHO
 ### [WHO says that it appears likely the novel coronavirus can be transmitted from close person-to-person contact. ](/news/2013/05/12/who-says-that-it-appears-likely-the-novel-coronavirus-can-be-transmitted-from-close-person-to-person-contact.md)

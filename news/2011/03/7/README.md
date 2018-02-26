@@ -9,7 +9,7 @@ Top NASA scientists have hosed down claims from a colleague that fossils of alie
 
 ##### ABC News
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, China, Gary Locke, U.S., U.S. President, United States Secretary of Commerce_
+_Context: ABC News, Barack Obama, China, Gary Locke, U.S. President, United States, United States Secretary of Commerce_
 
 ##### U.S. President
 ### [President of the United States Barack Obama lifts a two year freeze on the Combatant Status Review Tribunal at the Guantanamo Bay detention camp. ](/news/2011/03/7/president-of-the-united-states-barack-obama-lifts-a-two-year-freeze-on-the-combatant-status-review-tribunal-at-the-guantanamo-bay-detention.md)
@@ -49,7 +49,7 @@ Defense Secretary Robert Gates described the mistaken killing of nine Afghan boy
 
 ##### Yang
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, warns the United States that relations between China and the US will deteriorate if it sells weapons to Taiwan. ](/news/2011/03/7/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-warns-the-united-states-that-relations-between-china-and-the-us-will-de.md)
-_Context: Foreign Minister, Taiwan, U.S., Yang_
+_Context: Foreign Minister, Taiwan, United States, Yang_
 
 ##### Tibet
 ### [China closes Tibet to foreign tourists, ahead of the third anniversary since unrest there in 2008. ](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.md)

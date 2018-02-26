@@ -29,7 +29,7 @@ Pedersen and Ron Bousso
 
 ##### Military intervention against ISIL
 ### [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md)
-_Context: Al-Raqqah, ISIL, Military intervention against ISIL, November 2015 Paris Attacks, Syria, U.S._
+_Context: Al-Raqqah, ISIL, Military intervention against ISIL, November 2015 Paris Attacks, Syria, United States_
 
 ##### Aleppo offensive (November-December 2016)
 ### [Shelling breaks the ceasefire in Aleppo causing disruption to the evacuation of rebels and civilians. ](/news/2016/12/14/shelling-breaks-the-ceasefire-in-aleppo-causing-disruption-to-the-evacuation-of-rebels-and-civilians.md)

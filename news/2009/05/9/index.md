@@ -9,7 +9,7 @@ Pakistan has been roused to fight the &quot;existential threat&quot; of a growin
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the Union of Forces for Democracy and Development's ongoing incursions from Sudan into Chad. ](/news/2009/05/9/the-united-nations-security-council-condemns-the-union-of-forces-for-democracy-and-development-s-ongoing-incursions-from-sudan-into-chad.md)
-_Context: Chad, Security Council, Sudan, Union of Forces for Democracy and Development, United Nations, performed_
+_Context: Chad, Sudan, Union of Forces for Democracy and Development, United Nations, United Nations Security Council, performed_
 
 ##### Jacob Zuma
 ### [ Jacob Zuma is inaugurated as President of South Africa. ](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.md)

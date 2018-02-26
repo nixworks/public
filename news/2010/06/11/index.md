@@ -51,7 +51,7 @@ _Context: Arizona, Eagar, Round Valley High School_
 ### [Pope Benedict XVI begs for forgiveness from God and from those who have been abused as children by priests. ](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.md)
 Pope Benedict made his humblest plea for forgiveness yet for the paedophile priest scandals that have shaken faith in the Roman Catholic Church.
 
-##### Afghan
+##### Afghanistan
 ### [At least 11 civilians and two US soldiers are killed in southern Afghanistan: 9 of the civilian deaths are in a roadside bomb on a minibus in Kandahar. ](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.md)
 Thirteen people die in explosions as fighters step up attacks in southern Afghanistan.
 
@@ -77,7 +77,7 @@ _Context: Japan, Naoto Kan, Prime Minister of Japan_
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Mexico, U.S., Univision's_
+_Context: Mexico, United States, Univision's_
 
 ##### Osh
 ### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2017/04/6/index.html)  [JSON](2017/04/6/index.json)  [XML](2017/
 ### [Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-longtime-president-yahya-jammeh-resigne.md)
 West African country holding its first legislative election since the departure of long-time ruler Yahya Jammeh.
 
-##### House Intelligence Committee
+##### United States House Permanent Select Committee on Intelligence
 ### [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee's probe into Russian interference in the 2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committeeas-probe-into-r.md)
 The House intelligence chairman Devin Nunes is now himself under scrutiny from an ethics panel.
 

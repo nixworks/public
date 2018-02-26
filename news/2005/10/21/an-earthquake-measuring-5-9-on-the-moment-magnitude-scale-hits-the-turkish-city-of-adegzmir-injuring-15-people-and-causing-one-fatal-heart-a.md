@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/21/an-earthquake-measuring-5-9-on-the-moment-magni
 
 ### [2005-10-21](/news/2005/10/21/index.md)
 
-##### M<sub>w</sub>&nbsp;5.2
+##### Magnitude
 #  An earthquake measuring 5.9 on the moment magnitude scale hits the Turkish city of Izmir, injuring 15 people and causing one fatal heart attack. This is the fourth strong tremor this week. 
 
 

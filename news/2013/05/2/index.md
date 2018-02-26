@@ -53,15 +53,15 @@ _Context: Maryland, capital punishment_
 
 ##### Bush Intercontinental Airport
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)
-_Context: Bush Intercontinental Airport, Houston, Texas, U.S._
+_Context: Bush Intercontinental Airport, Houston, Texas, United States_
 
 ##### North Korea
 ### [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-am.md)
 The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentenced to 15 years of hard labour for alleged anti-government crimes.
 
-##### U.S.
+##### United States
 ### [The central northern United States experiences record snow fall. ](/news/2013/05/2/the-central-northern-united-states-experiences-record-snow-fall.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Rhinoceros
 ### [The last known rhinoceroses in Mozambique are revealed to have been killed by poachers. ](/news/2013/05/2/the-last-known-rhinoceroses-in-mozambique-are-revealed-to-have-been-killed-by-poachers.md)

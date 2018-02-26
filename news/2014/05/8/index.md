@@ -19,7 +19,7 @@ The U.K. lender is abandoning its ambitions to be an elite global bank and said 
 ### [Pro-Russian rebels push forward with plans for a referendum on May 11th ignoring Putin's statement to delay the vote. ](/news/2014/05/8/pro-russian-rebels-push-forward-with-plans-for-a-referendum-on-may-11th-ignoring-putin-s-statement-to-delay-the-vote.md)
 _Context: Vladimir Putin_
 
-##### Afghan
+##### Afghanistan
 ### [A roadside bomb near the Afghan border in North Waziristan, Pakistan, kills 8 Pakistani soldiers. ](/news/2014/05/8/a-roadside-bomb-near-the-afghan-border-in-north-waziristan-pakistan-kills-8-pakistani-soldiers.md)
 At least eight Pakistani soldiers were killed Thursday in a roadside explosion near the Afghan border in one of the deadliest attacks on security forces here in months, officials said.
 

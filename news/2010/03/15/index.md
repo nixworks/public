@@ -3,7 +3,7 @@ Formats: [HTML](2010/03/15/index.html)  [JSON](2010/03/15/index.json)  [XML](201
 
 ## [2010-03-15](/news/2010/03/15/index.md)
 
-##### U.S.
+##### United States
 ### [United States Senator Christopher Dodd submits a draft of a bill that would reform financial regulation, mostly in accord with the proposals of President Barack Obama's administration. ](/news/2010/03/15/united-states-senator-christopher-dodd-submits-a-draft-of-a-bill-that-would-reform-financial-regulation-mostly-in-accord-with-the-proposals.md)
 U.S. Senate BankingCommittee Chairman Christopher Dodd said on Tuesday thatCongress should not adjourn for its two-week Easter recess onMarch 26 without addressing financial reform.
 

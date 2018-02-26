@@ -25,7 +25,7 @@ _Context: English Premier League, European Court of Justice, European Union, pub
 
 ##### Russia
 ### [Russia and the People's Republic of China veto a United Nations Security Council resolution condemning Syria for a crackdown on political protestors. ](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.md)
-_Context: 2011 Syrian uprising, China, Russia, Security Council, Syria_
+_Context: 2011 Syrian uprising, China, Russia, Syria, United Nations Security Council_
 
 ##### Defects
 ### [Nine North Korean defectors arrive in South Korea after staying in Japan for three weeks. ](/news/2011/10/4/nine-north-korean-defectors-arrive-in-south-korea-after-staying-in-japan-for-three-weeks.md)

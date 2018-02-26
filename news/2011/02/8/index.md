@@ -57,7 +57,7 @@ _Context: North Korea, Panmunjeom, South Korea_
 
 ##### Snow storm
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: Great Plains, Mountain West, U.S., snow storm_
+_Context: Great Plains, Mountain West, United States, snow storm_
 
 ##### Indonesia
 ### [An Indonesian ferry carrying 226 passengers from Tanjung Priok to Bangka Belitung catches fire. ](/news/2011/02/8/an-indonesian-ferry-carrying-226-passengers-from-tanjung-priok-to-bangka-belitung-catches-fire.md)
@@ -73,7 +73,7 @@ _Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, United Ki
 
 ##### Ultimate Electronics
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)
-_Context: U.S., Ultimate Electronics, bankruptcy court_
+_Context: Ultimate Electronics, United States, bankruptcy court_
 
 ##### Volkswagen
 ### [Volkswagen agrees on a new contract with the union IG Metall, including a 3.2 percent increase in base pay for its employees. ](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.md)

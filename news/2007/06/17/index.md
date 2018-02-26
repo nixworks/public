@@ -9,7 +9,7 @@ _Context: Alain Juppe, Bordeaux, French, French National Assembly, UMP, centre-r
 
 ##### Kabul
 ### [ At least 35 people die in Kabul, Afghanistan as the result of a bombing of a police bus. ](/news/2007/06/17/at-least-35-people-die-in-kabul-afghanistan-as-the-result-of-a-bombing-of-a-police-bus.md)
-_Context: Afghan, Kabul, police_
+_Context: Afghanistan, Kabul, police_
 
 ##### Mahmoud Abbas
 ### [ Mahmoud Abbas, president of the Palestinian National Authority, outlaws armed factions of Hamas. ](/news/2007/06/17/mahmoud-abbas-president-of-the-palestinian-national-authority-outlaws-armed-factions-of-hamas.md)
@@ -31,7 +31,7 @@ _Context: Italy, Linate Airport, Milan, hare, radar_
 ### [ ngel Cabrera wins the 2007 U.S. Open Golf Championship at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/17/angel-cabrera-wins-the-2007-u-s-open-golf-championship-at-oakmont-country-club-in-oakmont-pennsylvania.md)
 _Context: 2007 U.S. Open Golf Championship, Oakmont Country Club, Oakmont, Pennsylvania, ngel Cabrera_
 
-##### Afghan
+##### Afghanistan
 ### [ Air strikes in Afghanistan on a suspected Al Qaeda headquarters kill several militants as well as civilians, including children. ](/news/2007/06/17/air-strikes-in-afghanistan-on-a-suspected-al-qaeda-headquarters-kill-several-militants-as-well-as-civilians-including-children.md)
 Seven Afghan children have been killed in a U.S.-led coalition air strike, the coalition said on Monday, the latest civilian deaths by foreign troops amid rising anger in Afghanistan.
 

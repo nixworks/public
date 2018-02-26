@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/23/index.html)  [JSON](2011/05/23/index.json)  [XML](201
 
 ##### Palestine
 ### [Palestinian Prime Minister Salam Fayyad suffers a heart attack and undergoes surgery during a trip to the United States to attend his son's graduation. ](/news/2011/05/23/palestinian-prime-minister-salam-fayyad-suffers-a-heart-attack-and-undergoes-surgery-during-a-trip-to-the-united-states-to-attend-his-son-s.md)
-_Context: Palestine, Prime Minister, Salam Fayyad, U.S._
+_Context: Palestine, Prime Minister, Salam Fayyad, United States_
 
 ##### China
 ### [The People's Republic of China detains 300 Tibetan monks for "legal education" after a monk sets himself on fire. ](/news/2011/05/23/the-people-s-republic-of-china-detains-300-tibetan-monks-for-legal-education-after-a-monk-sets-himself-on-fire.md)
@@ -41,7 +41,7 @@ _Context: Church of Scotland, gay men, lesbian_
 
 ##### Soldiers
 ### [One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. ](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-others-wounded-following-two-bomb-explosions-in-afghanistan-the-total-number-of-australian-s.md)
-_Context: Afghan, War in Afghanistan, soldiers_
+_Context: Afghanistan, War in Afghanistan, soldiers_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md)

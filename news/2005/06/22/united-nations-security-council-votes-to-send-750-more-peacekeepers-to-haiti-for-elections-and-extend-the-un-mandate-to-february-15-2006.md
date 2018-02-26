@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/22/united-nations-security-council-votes-to-send-7
 
 ### [2005-06-22](/news/2005/06/22/index.md)
 
-##### Security Council
+##### United Nations Security Council
 #  United Nations Security Council votes to send 750 more peacekeepers to Haiti for elections and extend the UN mandate to February 15 2006 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2005/06/22/united-nations-security-council-votes-to-send-7
 
 ### Related:
 
-1. [ United Nations Security Council votes to extend its peacekeeping mission in Haiti until June 24 ](/news/2005/05/31/united-nations-security-council-votes-to-extend-its-peacekeeping-mission-in-haiti-until-june-24.md) _Context: Haiti, Security Council, peacekeeping_
-2. [The United Nations Security Council discusses sending a peacekeeping force to the Republic of South Sudan when it becomes an independent nation tomorrow. ](/news/2011/07/8/the-united-nations-security-council-discusses-sending-a-peacekeeping-force-to-the-republic-of-south-sudan-when-it-becomes-an-independent-nat.md) _Context: Security Council, peacekeeping_
+1. [ United Nations Security Council votes to extend its peacekeeping mission in Haiti until June 24 ](/news/2005/05/31/united-nations-security-council-votes-to-extend-its-peacekeeping-mission-in-haiti-until-june-24.md) _Context: Haiti, United Nations Security Council, peacekeeping_
+2. [The United Nations Security Council discusses sending a peacekeeping force to the Republic of South Sudan when it becomes an independent nation tomorrow. ](/news/2011/07/8/the-united-nations-security-council-discusses-sending-a-peacekeeping-force-to-the-republic-of-south-sudan-when-it-becomes-an-independent-nat.md) _Context: United Nations Security Council, peacekeeping_
 3. [ The head of the UN peacekeeping force in Haiti, General Urano Teixeira da Matta Bacellar, is found dead. UN officials believe his death to be suicide. ](/news/2006/01/7/the-head-of-the-un-peacekeeping-force-in-haiti-general-urano-teixeira-da-matta-bacellar-is-found-dead-un-officials-believe-his-death-to.md) _Context: Haiti, peacekeeping_
 4. [ In Haiti, four people, including two UN peacekeepers, are killed in a shootout between peacekeepers and former rebels. ](/news/2005/03/21/in-haiti-four-people-including-two-un-peacekeepers-are-killed-in-a-shootout-between-peacekeepers-and-former-rebels.md) _Context: Haiti, peacekeeping_
-5. [The United Nations Security Council unanimously approves a resolution demanding a 30-day ceasefire in Syria. ](/news/2018/02/24/the-united-nations-security-council-unanimously-approves-a-resolution-demanding-a-30-day-ceasefire-in-syria.md) _Context: Security Council_
+5. [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md) _Context: United Nations Security Council_

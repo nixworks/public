@@ -27,11 +27,11 @@ Lithuania&#39;s parliament has ratified the European Union&#39;s Lisbon Treaty.
 
 ##### Russia
 ### [ Russia expels two United States military attachs following earlier expulsion of two Russian diplomats from the United States. ](/news/2008/05/8/russia-expels-two-united-states-military-attaches-following-earlier-expulsion-of-two-russian-diplomats-from-the-united-states.md)
-_Context: Russia, U.S., military attach_
+_Context: Russia, United States, military attach_
 
 ##### North Korea
 ### [ North Korea hands over thousands of pages about its nuclear program to a visiting diplomat from the United States that will help verify its plutonium holdings. ](/news/2008/05/8/north-korea-hands-over-thousands-of-pages-about-its-nuclear-program-to-a-visiting-diplomat-from-the-united-states-that-will-help-verify-its.md)
-_Context: North Korea, U.S., diplomat, nuclear program, plutonium_
+_Context: North Korea, United States, diplomat, nuclear program, plutonium_
 
 ##### Iraq
 ### [ The Iraqi Minister of Defence claims that the leader of Al-Qaeda in Iraq, Abu Ayyub al-Masri, has been captured. ](/news/2008/05/8/the-iraqi-minister-of-defence-claims-that-the-leader-of-al-qaeda-in-iraq-abu-ayyub-al-masri-has-been-captured.md)

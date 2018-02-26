@@ -69,7 +69,7 @@ _Context: Scotland_
 
 ##### Mexico
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: Mexico, San Ysidro, U.S._
+_Context: Mexico, San Ysidro, United States_
 
 ##### President
 ### [ Former President of Cuba Fidel Castro praises current President of the United States Barack Obama for his speech before the United Nations General Assembly for admitting it had been slow to act on climate change but urges that the American capitalist system is incompatible with a clean planet. ](/news/2009/09/23/former-president-of-cuba-fidel-castro-praises-current-president-of-the-united-states-barack-obama-for-his-speech-before-the-united-nations.md)

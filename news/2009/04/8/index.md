@@ -21,11 +21,11 @@ _Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia
 
 ##### Temecula
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
-_Context: California, Temecula, U.S._
+_Context: California, Temecula, United States_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. ](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.md)
-_Context: Beijing, China, Chinese President, Hu Jintao, Hugo Chavez, Venezuela, Venezuelan President_
+_Context: Beijing, China, Hu Jintao, Hugo Chavez, President, Venezuela, Venezuelan President_
 
 ##### Red shirt
 ### [ Thirty thousand National United Front demonstrators assemble at Government House in Bangkok, Thailand. ](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.md)

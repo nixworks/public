@@ -31,7 +31,7 @@ _Context: Julian Assange, Sweden, Wikileaks, prosecutor, rape_
 ### [2 Yemenis are released from custody in Amsterdam, having been arrested after being suspected by the United States of plotting a terrorist act. No evidence was found against the men. ](/news/2010/09/1/2-yemenis-are-released-from-custody-in-amsterdam-having-been-arrested-after-being-suspected-by-the-united-states-of-plotting-a-terrorist-ac.md)
 Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are released, prosecutors in the Netherlands say.
 
-##### Afghan
+##### Afghanistan
 ### [92 Afghan asylum seekers escape from the Northern Immigration Detention Centre in Darwin, Australia as part of a protest with four people being hospitalised due to dehydration. ](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.md)
 Four Afghan asylum seekers have been hospitalised with dehydration after pushing down a fence at the Darwin detention centre to stage a peaceful protest.
 
@@ -43,7 +43,7 @@ A new law comes into force in Greece banning smoking in enclosed public spaces a
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
 _Context: Abdullah II of Jordan, Barack Obama, Benjamin Netanyahu, Hosni Mubarak, Israel, Israeli Prime Minister, Jordanian King, Mahmoud Abbas, Middle East, Palestine, President, President of the Palestinian Authority, U.S. President_
 
-##### U.S.
+##### United States
 ### [The United States adds Tehrik-i-Taliban Pakistan to its list of what it considers "foreign terrorist organizations"; rewards are announced for the capture of its leaders. ](/news/2010/09/1/the-united-states-adds-tehrik-i-taliban-pakistan-to-its-list-of-what-it-considers-foreign-terrorist-organizations-rewards-are-announced-f.md)
 The United States on Wednesday added the Pakistani Taliban to its list of foreign terrorist organizations and set rewards of up to $5 million for information leading to the capture of two of its leaders.
 
@@ -91,9 +91,9 @@ Apple launches a music-based social network called Ping as part of its latest up
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_
 
-##### U.S.
+##### United States
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
 
 ##### Prime Minister
 ### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)

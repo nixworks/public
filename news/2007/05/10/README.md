@@ -9,7 +9,7 @@ _Context: Labour Party, Prime Minister, Tony Blair_
 
 ##### Syria
 ### [ Syrian dissident Kamal Labwani is jailed for 12 years for allegedly undermining national security by visiting the United States. ](/news/2007/05/10/syrian-dissident-kamal-labwani-is-jailed-for-12-years-for-allegedly-undermining-national-security-by-visiting-the-united-states.md)
-_Context: Kamal Labwani, Syria, U.S., dissident_
+_Context: Kamal Labwani, Syria, United States, dissident_
 
 ##### Turkish Parliament
 ### [ The Grand National Assembly of Turkey votes overwhelmingly in favour of a proposal for the direct election of the President of Turkey. ](/news/2007/05/10/the-grand-national-assembly-of-turkey-votes-overwhelmingly-in-favour-of-a-proposal-for-the-direct-election-of-the-president-of-turkey.md)

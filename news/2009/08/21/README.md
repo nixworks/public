@@ -37,7 +37,7 @@ _Context: Chechnya, Grozny, bicycles, suicide bombing_
 
 ##### Combat drone
 ### [ A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. ](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destroyed-a-suspected-militant-hide-out-in-northwest-pakistan-on-friday-killing-at-least-12-peo.md)
-_Context: Afghan, Pakistan, combat drone_
+_Context: Afghanistan, Pakistan, combat drone_
 
 ##### William Calley
 ### [ William Calley, the former US army officer found guilty of organizing mass killings in the Vietnamese community of My Lai during the Vietnam War makes a public apology.](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.md)

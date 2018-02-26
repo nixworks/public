@@ -9,7 +9,7 @@ _Context: India, Vijaypat Singhania, hot air balloon_
 
 ##### Earthquake
 ### [ An earthquake measuring 5.5 on the moment magnitude scale hits the area near Ruichang, Jiangxi in China, killing more than 14. ](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magnitude-scale-hits-the-area-near-ruichang-jiangxi-in-china-killing-more-than-14.md)
-_Context: China, Jiangxi, M<sub>w</sub>&nbsp;5.2, Ruichang, earthquake_
+_Context: China, Jiangxi, Ruichang, earthquake, magnitude_
 
 ##### Rafah
 ### [ The Rafah crossing linking the Gaza Strip and Egypt turns over to Palestinian control for the first time. ](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.md)

@@ -15,9 +15,9 @@ _Context: China, smokers_
 ### [German officials say they have foiled a terror plot with the arrest of three suspected al-Qaeda bomb-makers. ](/news/2011/05/1/german-officials-say-they-have-foiled-a-terror-plot-with-the-arrest-of-three-suspected-al-qaeda-bomb-makers.md)
 _Context: Police, al-Qaeda_
 
-##### U.S.
+##### United States
 ### [It is reported that the United States has denied the United Nations access to imprisoned serviceman Bradley Manning whom the U.S. accuses of disclosing government information to the general public. ](/news/2011/05/1/it-is-reported-that-the-united-states-has-denied-the-united-nations-access-to-imprisoned-serviceman-bradley-manning-whom-the-u-s-accuses-of.md)
-_Context: Bradley Manning, U.S., United Nations_
+_Context: Bradley Manning, United Nations, United States_
 
 ##### Israel
 ### [Israel opposes Egypt's plan to open the Rafah Border Crossing with Gaza to two-way traffic due to its fears of "terror operatives". ](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.md)
@@ -81,7 +81,7 @@ _Context: Maldives, baton, tear gas_
 
 ##### Taliban
 ### [The Taliban stages offensives in two provinces of Afghanistan, killing six people. ](/news/2011/05/1/the-taliban-stages-offensives-in-two-provinces-of-afghanistan-killing-six-people.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ##### Ali Abdullah Saleh
 ### [Ali Abdullah Saleh refuses to sign a Gulf Arab states-brokered agreement intended to resolve the situation, and the deal has collapsed. The opposition in Yemen promises to escalate the protests. ](/news/2011/05/1/ali-abdullah-saleh-refuses-to-sign-a-gulf-arab-states-brokered-agreement-intended-to-resolve-the-situation-and-the-deal-has-collapsed-the.md)

@@ -15,9 +15,9 @@ _Context: 2016 Turkish purges, Turkey, social media, terrorism_
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)
 Pakistan has released 220 Indian fishermen detained for crossing into its territorial waters. Ties between the two countries have been tense over the Kashmir conflict. Activists say India should reciprocate the gesture.
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan's first female Air Force pilot Niloofar Rahmani files for asylum in the United States. ](/news/2016/12/25/afghanistan-s-first-female-air-force-pilot-niloofar-rahmani-files-for-asylum-in-the-united-states.md)
-_Context: Afghan, Air Force, Niloofar Rahmani, U.S., asylum_
+_Context: Afghanistan, Air Force, Niloofar Rahmani, United States, asylum_
 
 ##### Pregnancy
 ### [Medical research reveals shrinkage in women's brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-womenas-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md)

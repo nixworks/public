@@ -13,7 +13,7 @@ _Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, Washington, 
 
 ##### Hamid Karzai
 ### [President Karzai dismisses Mohammad Gulab Mangal and others in a reshuffle of the government in Afghanistan. ](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.md)
-_Context: Afghan, Hamid Karzai, Mohammad Gulab Mangal_
+_Context: Afghanistan, Hamid Karzai, Mohammad Gulab Mangal_
 
 #####  Georgian
 ### [Several high ranking Georgian government officials resign after protests caused by revelations of inmate torture and rape. ](/news/2012/09/20/several-high-ranking-georgian-government-officials-resign-after-protests-caused-by-revelations-of-inmate-torture-and-rape.md)

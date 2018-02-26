@@ -25,7 +25,7 @@ Kenya&#039;s president has attended a status conference at the International Cri
 
 ##### Ebola virus disease in the United States
 ### [The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian-man-dies-in-dallas-texas.md)
-_Context: Dallas, Ebola virus disease in the United States, Liberia, Texas, U.S., ebola_
+_Context: Dallas, Ebola virus disease in the United States, Liberia, Texas, United States, ebola_
 
 ##### Cave painting
 ### [Archaeologists date cave paintings in Maros on the Indonesian island of Sulawesi as being 40,000 years old, which is as old as similar works in Europe. ](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-the-indonesian-island-of-sulawesi-as-being-40-000-years-old-which-is-as-old-as-similar-works.md)
@@ -41,7 +41,7 @@ _Context: Yemen, al-Bayda, al-Qaeda, al-Qaeda insurgency in Yemen_
 
 ##### Taliban insurgency
 ### [A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md)
-_Context: Afghan, Helmand province, Taliban insurgency, suicide bomber_
+_Context: Afghanistan, Helmand province, Taliban insurgency, suicide bomber_
 
 ##### Kobani
 ### [At least 19 Kurdish civilians were killed while protesting against the government's inaction in defending Kobani from ISIS advances. ](/news/2014/10/8/at-least-19-kurdish-civilians-were-killed-while-protesting-against-the-government-s-inaction-in-defending-kobani-from-isis-advances.md)

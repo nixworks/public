@@ -13,7 +13,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Safia Ahmed-jan
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghan, Kandahar, Safia Ahmed-jan_
+_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
 
 ##### Kismayo
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
@@ -37,7 +37,7 @@ _Context: Condoleezza Rice, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbay
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
+_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
 
 ##### Cluster bomb
 ### [ Up to a million cluster bomblets discharged by Israel in its conflict with Hezbollah remain unexploded in southern Lebanon, the UN has said. ](/news/2006/09/25/up-to-a-million-cluster-bomblets-discharged-by-israel-in-its-conflict-with-hezbollah-remain-unexploded-in-southern-lebanon-the-un-has-said.md)

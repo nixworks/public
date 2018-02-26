@@ -59,9 +59,9 @@ _Context: Bushehr, Iranian Air Force_
 ### [Fiji officially designates the word "Fijian" as the term for the nationality of all the people of the islands including Indo-Fijians. The word was previously used only for indigenous inhabitants. ](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.md)
 _Context: Fiji, Fijian, Indo-Fijian_
 
-##### Afghan
+##### Afghanistan
 ### [Archaeologists in Afghanistan discover the remains of a Buddhist site south of the capital Kabul. ](/news/2010/08/17/archaeologists-in-afghanistan-discover-the-remains-of-a-buddhist-site-south-of-the-capital-kabul.md)
-_Context: Afghan, Buddhists, Kabul_
+_Context: Afghanistan, Buddhists, Kabul_
 
 ##### Palestine
 ### [A Palestinian man from Ramallah threatens to blow up the Turkish embassy in Tel Aviv, Israel if not offered asylum, but is shot by security staff. ](/news/2010/08/17/a-palestinian-man-from-ramallah-threatens-to-blow-up-the-turkish-embassy-in-tel-aviv-israel-if-not-offered-asylum-but-is-shot-by-security.md)
@@ -79,7 +79,7 @@ A Uganda MP accuses soldiers of carrying out torture and killings in a campaign 
 ### [Hezbollah states it has passed on evidence said to implicate Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri. ](/news/2010/08/17/hezbollah-states-it-has-passed-on-evidence-said-to-implicate-israel-in-the-2005-assassination-of-then-prime-minister-of-lebanon-rafic-hariri.md)
 Hezbollah hands a tribunal what it claims is evidence of Israeli involvement in the murder of ex-Lebanese PM Rafik Hariri.
 
-##### U.S.
+##### United States
 ### [The United States confirms the existence of videotapes - found under a Central Intelligence Agency (CIA) desk - of the alleged 2002 interrogation of a suspect the country had detained at a secret prison. ](/news/2010/08/17/the-united-states-confirms-the-existence-of-videotapes-found-under-a-central-intelligence-agency-cia-desk-of-the-alleged-2002-interrog.md)
 US officials confirm the existence of videotapes of the 2002 interrogation of an alleged 9/11 plotter, reportedly at a secret prison.
 

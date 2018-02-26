@@ -53,7 +53,7 @@ _Context:  Georgian, Georgian-Russian relations, Russia, Two Russian aircraft al
 
 ##### Juan Carlos Ramirez-Abadia
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, U.S., cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, United States, cocaine_
 
 ##### Israel
 ### [ Israel evicts Jewish settlers from Hebron. A dozen religious members of the Israeli Army refuse to participate and are sentenced for up to a month in a military jail. ](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.md)
@@ -65,7 +65,7 @@ _Context: Iraq, Jordan, government school, refugee_
 
 ##### Taliban
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province but is repulsed by a joint force of Afghan fighters and United States Army forces with 20 militants killed. ](/news/2007/08/7/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-but-is-repulsed-by-a-joint-force-of-afghan-fighters-and-united-states-army-forces.md)
-_Context: Afghan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
+_Context: Afghanistan, Firebase Anaconda, Taliban, United States soldier, Uruzgan province_
 
 ##### Astronomer
 ### [ Astronomers of the Trans-Atlantic Exoplanet Survey announce the discovery of TrES-4, the largest known planet in the universe, circling the star GSC 02620-00648 in the Hercules Constellation. ](/news/2007/08/7/astronomers-of-the-trans-atlantic-exoplanet-survey-announce-the-discovery-of-tres-4-the-largest-known-planet-in-the-universe-circling-the.md)

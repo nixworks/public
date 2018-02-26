@@ -11,9 +11,9 @@ _Context: India, Nashik_
 ### [ Israel blocks fuel to the Gaza City power plant, causing a citywide blackout. ](/news/2008/01/20/israel-blocks-fuel-to-the-gaza-city-power-plant-causing-a-citywide-blackout.md)
 _Context: Gaza, Israel, power outage, power plant_
 
-##### Chinese President
+##### President
 ### [ Chinese President Hu Jintao shakes hands with Chinese Patriotic Catholic Association leader Liu Bainian at a party-sponsored New Year's tea party. ](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.md)
-_Context: Chinese New Year, Chinese President, Communist Party of China, Hu Jintao, Liu Bainian, state-backed church, tea party_
+_Context: Chinese New Year, Communist Party of China, Hu Jintao, Liu Bainian, President, state-backed church, tea party_
 
 ##### New York Giants
 ### [ The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md)

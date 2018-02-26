@@ -9,11 +9,11 @@ _Context: Copenhagen, same-sex couples_
 
 ##### UBS
 ### [ The giant Swiss bank UBS and that nation's government have agreed to settle a lawsuit brought against UBS by United States tax authorities, in an agreement that seems likely to result in giving the Internal Revenue Service access to thousands of previously secret U.S. client accounts. ](/news/2009/07/31/the-giant-swiss-bank-ubs-and-that-nation-s-government-have-agreed-to-settle-a-lawsuit-brought-against-ubs-by-united-states-tax-authorities.md)
-_Context: Internal Revenue Service, U.S., UBS_
+_Context: Internal Revenue Service, UBS, United States_
 
-##### U.S.
+##### United States
 ### [ Three United States tourists are detained by Iranians in Iraq. ](/news/2009/07/31/three-united-states-tourists-are-detained-by-iranians-in-iraq.md)
-_Context: Iran, Iraq, U.S._
+_Context: Iran, Iraq, United States_
 
 ##### Sperm
 ### [ Research claiming to have created human sperm in a Newcastle laboratory is withdrawn due to evidence of plagiarism. ](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.md)
@@ -33,7 +33,7 @@ _Context: Altinum, Venice_
 
 ##### Space Shuttle ''Endeavour''
 ### [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md)
-_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', U.S._
+_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', United States_
 
 ##### Iraq
 ### [ 28 people are killed in Iraq after bombs explode at Shiite mosques in Baghdad. ](/news/2009/07/31/28-people-are-killed-in-iraq-after-bombs-explode-at-shiite-mosques-in-baghdad.md)

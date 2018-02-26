@@ -29,7 +29,7 @@ _Context: Chinese, Ethiopia, Ogaden National Liberation Front, Somalia, oil fiel
 
 ##### Prison riot
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: Indiana, New Castle Correctional Facility, U.S., prison riot_
+_Context: Indiana, New Castle Correctional Facility, United States, prison riot_
 
 ##### Moscow
 ### [ Thousands of people gather in Moscow, Russia to mourn former President Boris Yeltsin. ](/news/2007/04/24/thousands-of-people-gather-in-moscow-russia-to-mourn-former-president-boris-yeltsin.md)
@@ -53,7 +53,7 @@ _Context: Eagle Pass, Texas, Piedras Negras, Coahuila, U.S.-Mexico border, storm
 
 ##### Kevin Tillman
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
-_Context: Afghan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
+_Context: Afghanistan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
 
 ## [Previous Day...](/news/2007/04/23/index.md)
 

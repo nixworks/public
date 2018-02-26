@@ -51,7 +51,7 @@ _Context: Hamid Baqai, Kish Island, President_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md)
-_Context: Japan, Lee Myung Bak, Naoto Kan, Premier of China, Prime Minister of Japan, South Korean President, Wen Jiabao_
+_Context: Japan, Lee Myung Bak, Naoto Kan, Premier of China, Prime Minister of Japan, South Korean president, Wen Jiabao_
 
 ##### Minneapolis
 ### [Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killing-at-least-one-person.md)
@@ -79,7 +79,7 @@ Two directors who made headlines at the Cannes Film Festival for their conduct o
 
 ##### Taliban
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Afghan, Kazakhstan, Taliban_
+_Context: Afghanistan, Kazakhstan, Taliban_
 
 ##### United Kingdom
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
@@ -103,7 +103,7 @@ More than a dozen bomb attacks in and around Baghdad left 18 people dead and mor
 
 ##### Suicide bomber
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Afghan, Afghan government, Khost, suicide bomber_
+_Context: Afghan government, Afghanistan, Khost, suicide bomber_
 
 ##### Civil war
 ### [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md)

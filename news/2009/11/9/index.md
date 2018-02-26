@@ -17,7 +17,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ##### Downing Street
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Afghan, Downing Street, Gordon Brown, Prime Minister_
+_Context: Afghanistan, Downing Street, Gordon Brown, Prime Minister_
 
 ##### Tawang
 ### [ Tens of thousands of people gather in Tawang, Arunachal Pradesh to hear an address by the visiting Dalai Lama. ](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.md)
@@ -39,7 +39,7 @@ Clashes between ethnic Uighurs and Han Chinese in western China left more than 2
 ### [ Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
 _Context: Houthi, Saudi Arabia, Yemen, phosphorus bomb_
 
-##### U.S.
+##### United States
 ### [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md)
 Iran&#039;s judiciary indicated yesterday that three young American trekkers who apparently blundered into Iran from neighbouring Iraq in July and who have been in custody since are to be tried for espionage.
 

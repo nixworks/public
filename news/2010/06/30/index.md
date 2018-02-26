@@ -35,7 +35,7 @@ Powerful explosion hits Grozny but details on casualties remain unclear.
 ### [Israeli police arrest Hamas MP Mohammed Abu Teir for breaking a law by staying within the borders of the state of Israel after being ordered to leave Jerusalem. ](/news/2010/06/30/israeli-police-arrest-hamas-mp-mohammed-abu-teir-for-breaking-a-law-by-staying-within-the-borders-of-the-state-of-israel-after-being-ordered.md)
 Palestinian held after failing to comply with order to leave occupied Jerusalem.
 
-##### Afghan
+##### Afghanistan
 ### [8 militants are killed in fighting at eastern Afghanistan's Jalalabad Airport. ](/news/2010/06/30/8-militants-are-killed-in-fighting-at-eastern-afghanistan-s-jalalabad-airport.md)
 The Taliban attack a Nato base in east Afghanistan a day after the US commander, Gen Petraeus, warned of escalating violence.
 
@@ -99,7 +99,7 @@ Nepalese Prime Minister Madhav Kumar Nepal announces his resignation in a televi
 ### [South Korean actor ("Winter Sonata") and singer Park Yong-ha's mother finds him hanging by an electrical cord at his home in Seoul. ](/news/2010/06/30/south-korean-actor-winter-sonata-and-singer-park-yong-ha-s-mother-finds-him-hanging-by-an-electrical-cord-at-his-home-in-seoul.md)
 A popular South Korean actor and singer is found dead at his home in Seoul after an apparent suicide, police say.
 
-##### U.S.
+##### United States
 ### [A man whom the United States considers to be the 11th member of a Russian spy ring goes missing in Cyprus. ](/news/2010/06/30/a-man-whom-the-united-states-considers-to-be-the-11th-member-of-a-russian-spy-ring-goes-missing-in-cyprus.md)
 The 11th member of alleged Russian spy ring in US fails to appear at police station.
 
@@ -115,7 +115,7 @@ The Democratic Republic of Congo marks 50 years of independence Wednesday with U
 ### [Protests are held all across India and occupied Kashmir amid curfew restrictions for the past ten days. Ten adolescents are killed by the forces. ](/news/2010/06/30/protests-are-held-all-across-india-and-occupied-kashmir-amid-curfew-restrictions-for-the-past-ten-days-ten-adolescents-are-killed-by-the-fo.md)
 _Context: India, Kashmir_
 
-##### U.S.
+##### United States
 ### [The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md)
 The American Civil Liberties Union plans to sue the US authorities over the &quot;no-fly&quot; list, saying it stops innocent people from travelling.
 

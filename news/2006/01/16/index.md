@@ -19,9 +19,9 @@ Nine people died after jumping from a burning multi-storey office building in th
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
 _Context: Ellen Johnson Sirleaf, Liberia, president_
 
-##### Afghan
+##### Afghanistan
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ##### Premier
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)

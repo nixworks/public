@@ -29,7 +29,7 @@ The French authorities say they are preparing to extradite the former Panamanian
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Dmitry Medvedev, Government of Syria, Russian President, Security Council, protestors_
+_Context: Dmitry Medvedev, Government of Syria, Russian President, United Nations Security Council, protestors_
 
 ##### Foreign Policy
 ### [U.S. magazine "Foreign Policy" releases its index of "failed states", with the editor labeling Somalia as an "unequivocably failed state". ](/news/2011/06/20/u-s-magazine-foreign-policy-releases-its-index-of-failed-states-with-the-editor-labeling-somalia-as-an-unequivocably-failed-state.md)

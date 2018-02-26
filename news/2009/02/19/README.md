@@ -13,15 +13,15 @@ _Context: Military, Niger Delta, Nigeria, Russia, hostage, kidnapped_
 
 ##### Tupolev Tu-95
 ### [ Two Tupolev Tu-95 bombers are intercepted by two Canadian CF-18's near Canada's airspace hours before United States President Barack Obama arrives in Ottawa, Ontario.](/news/2009/02/19/two-tupolev-tu-95-bombers-are-intercepted-by-two-canadian-cf-18-s-near-canada-s-airspace-hours-before-united-states-president-barack-obama.md)
-_Context: Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, U.S., airspace, bombers_
+_Context: Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, United States, airspace, bombers_
 
 ##### China
 ### [ China's Ministry of Health reports that HIV-AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
 _Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leading cause of death_
 
-##### U.S.
+##### United States
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S., U.S. President_
+_Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S. President, United States_
 
 ##### French
 ### [ The French battleship "Danton" is discovered in the Mediterranean Sea. ](/news/2009/02/19/the-french-battleship-danton-is-discovered-in-the-mediterranean-sea.md)
@@ -33,7 +33,7 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 
 ##### Kyrgyzstan
 ### [ Kyrgyzstan's Supreme Council approves the closure of the U.S. Air Force's Manas Air Base. ](/news/2009/02/19/kyrgyzstan-s-supreme-council-approves-the-closure-of-the-u-s-air-force-s-manas-air-base.md)
-_Context: Kyrgyzstan, Manas Air Base, Supreme Council, U.S., United States Air Force_
+_Context: Kyrgyzstan, Manas Air Base, Supreme Council, United States, United States Air Force_
 
 ##### General Motors
 ### [ General Motors says it may provide its struggling Swedish subsidiary Saab Automobile with US$400 million. ](/news/2009/02/19/general-motors-says-it-may-provide-its-struggling-swedish-subsidiary-saab-automobile-with-us-400-million.md)
@@ -47,9 +47,9 @@ _Context: Israel, Palestinian, fire, militant, rocket_
 ### [ China claims it has artificially produced snowfall by cloud seeding to ease drought. ](/news/2009/02/19/china-claims-it-has-artificially-produced-snowfall-by-cloud-seeding-to-ease-drought.md)
 _Context: China, artificially produced, cloud seeding, drought, snow_
 
-##### U.S.
+##### United States
 ### [ The United States Federal Bureau of Investigation locates Stanford Financial Group Chairman Allen Stanford in Virginia and serves him with a fraud complaint on behalf of the Securities and Exchange Commission. ](/news/2009/02/19/the-united-states-federal-bureau-of-investigation-locates-stanford-financial-group-chairman-allen-stanford-in-virginia-and-serves-him-with.md)
-_Context: Allen Stanford, Chairman, FBI, Stanford Financial Group, U.S., U.S. Securities and Exchange Commission, Virginia, complaint, fraud_
+_Context: Allen Stanford, Chairman, FBI, Stanford Financial Group, U.S. Securities and Exchange Commission, United States, Virginia, complaint, fraud_
 
 ##### California
 ### [ California's State Legislature approves a US$143-billion budget and fills a $41-billion deficit with a combination of loans, spending and service reductions, and tax increases. ](/news/2009/02/19/california-s-state-legislature-approves-a-us-143-billion-budget-and-fills-a-41-billion-deficit-with-a-combination-of-loans-spending-and-s.md)

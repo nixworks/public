@@ -9,7 +9,7 @@ A Delta Airlines aircraft with 276 passengers on board has made a precautionary 
 
 ##### Tainted spinach
 ### [ 2006 United States "E. coli" outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of "E. coli" in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli-in.md)
-_Context: ''E. coli'', U.S., spinach, tainted spinach_
+_Context: ''E. coli'', United States, spinach, tainted spinach_
 
 ##### Insurgents
 ### [ Iraq insurgency: Baghdad police find 47 corpses across the city, most bound and shot, thought to be more victims of the ongoing sectarian killing that has been taking place in the region and appears aimed at provoking civil war. ](/news/2006/09/16/iraq-insurgency-baghdad-police-find-47-corpses-across-the-city-most-bound-and-shot-thought-to-be-more-victims-of-the-ongoing-sectarian-k.md)

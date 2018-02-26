@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### NATO
 ### [ NATO members fail to respond to a call from military commanders for reinforcements to try to quell the Taliban insurgency in southern Afghanistan, an alliance spokesman said. ](/news/2006/09/13/nato-members-fail-to-respond-to-a-call-from-military-commanders-for-reinforcements-to-try-to-quell-the-taliban-insurgency-in-southern-afgha.md)
-_Context: Afghan, NATO, Taliban insurgency_
+_Context: Afghanistan, NATO, Taliban insurgency_
 
 ##### Annual meeting
 ### [ The main events leading up to the 61st Annual Meetings of the International Monetary Fund and the World Bank Group as part of Singapore 2006 commence in Singapore. ](/news/2006/09/13/the-main-events-leading-up-to-the-61st-annual-meetings-of-the-international-monetary-fund-and-the-world-bank-group-as-part-of-singapore-200.md)

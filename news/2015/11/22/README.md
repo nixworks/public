@@ -15,9 +15,9 @@ _Context: Barack Obama, ISIL, Pentagon's Office of the Inspector General, U.S. P
 ### [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
-##### South Korean President
+##### South Korean president
 ### [Former President Kim Young-sam, who formally ended decades of military rule in South Korea, dies in a Seoul hospital from a severe blood infection. He was 87. ](/news/2015/11/22/former-president-kim-young-sam-who-formally-ended-decades-of-military-rule-in-south-korea-dies-in-a-seoul-hospital-from-a-severe-blood-inf.md)
-_Context: Kim Young-sam, Seoul, South Korea, South Korean President_
+_Context: Kim Young-sam, Seoul, South Korea, South Korean president_
 
 ##### Argentine general election, 2015
 ### [Voters in Argentina go to the polls for a presidential runoff between Daniel Scioli of the ruling Justicialist Party and Mauricio Macri of the opposition PRO. Mauricio Macri, the mayor of Buenos Aires, was elected with 53% of the vote. ](/news/2015/11/22/voters-in-argentina-go-to-the-polls-for-a-presidential-runoff-between-daniel-scioli-of-the-ruling-justicialist-party-and-mauricio-macri-of-t.md)

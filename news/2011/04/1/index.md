@@ -75,7 +75,7 @@ Valais cantonal police say three German ski tourers have been killed by an avala
 ### [Nasdaq, in cooperation with Intercontinental Exchange, bids $11.3 billion for NYSE Euronext, the holding company that owns the New York Stock Exchange, in an attempt to interfere with a planned merger between NYSE Euronext and Deutsche Borse. ](/news/2011/04/1/nasdaq-in-cooperation-with-intercontinental-exchange-bids-11-3-billion-for-nyse-euronext-the-holding-company-that-owns-the-new-york-stoc.md)
 Greifeld promised shareholders far bigger cost savings thanin the German deal, but he did not say how severe the joblosses would be. He said Nasdaq would
 
-##### U.S.
+##### United States
 ### [Unemployment in the United States falls to 8.8 per cent on the back of 216,000 jobs being added. ](/news/2011/04/1/unemployment-in-the-united-states-falls-to-8-8-per-cent-on-the-back-of-216-000-jobs-being-added.md)
 The U.S. economy posted a second straight month of solid gains in March, marking a decisive shift in the labor market that should help to underpin the economic recovery. 
 

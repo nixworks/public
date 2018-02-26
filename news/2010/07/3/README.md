@@ -7,9 +7,9 @@ Formats: [HTML](2010/07/3/index.html)  [JSON](2010/07/3/index.json)  [XML](2010/
 ### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md)
 _Context: Serena Williams, Vera Zvonareva, Wimbledon_
 
-##### U.S.
+##### United States
 ### [United States Republican Party chairman Michael Steele is heavily criticised by members of his own party and by members of the Democratic Party for saying America's war in Afghanistan is "a war of Obama's choosing". ](/news/2010/07/3/united-states-republican-party-chairman-michael-steele-is-heavily-criticised-by-members-of-his-own-party-and-by-members-of-the-democratic-pa.md)
-_Context: Barack Obama, Democrat, Michael Steele, Republican, U.S._
+_Context: Barack Obama, Democrat, Michael Steele, Republican, United States_
 
 ##### Argentina
 ### [Former Argentine military ruler Jorge Rafael Videla goes on trial. ](/news/2010/07/3/former-argentine-military-ruler-jorge-rafael-videla-goes-on-trial.md)

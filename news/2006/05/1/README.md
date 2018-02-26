@@ -11,9 +11,9 @@ _Context: Amur, Chinese, Far East, Jilin City, Khabarovsk, Songhua River, last y
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-##### U.S.
+##### United States
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: 2006 Immigration Policy Boycott in the United States, Latin America, U.S., demonstration_
+_Context: 2006 Immigration Policy Boycott in the United States, Latin America, United States, demonstration_
 
 ##### Beaconsfield mine collapse
 ### [ Beaconsfield mine collapse: Rescuers at a mine in Beaconsfield, Tasmania have begun work after two miners were detected alive. The two had been trapped alive over 1 kilometre underground for the past five days. ](/news/2006/05/1/beaconsfield-mine-collapse-rescuers-at-a-mine-in-beaconsfield-tasmania-have-begun-work-after-two-miners-were-detected-alive-the-two-had.md)

@@ -9,7 +9,7 @@ _Context: 14th Dalai Lama, Dharamsala, India, Tibet, exiled Tibetan parliament_
 
 ##### Somali pirates
 ### [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md)
-_Context: Somali pirates, U.S., USS Nicholas, United States Navy, frigate_
+_Context: Somali pirates, USS Nicholas, United States, United States Navy, frigate_
 
 ##### Tear gas
 ### [Tear gas is used to control a riot by asylum seekers at the Christmas Island Immigration Detention Centre on Christmas Island off the coast of Australia. ](/news/2011/03/14/tear-gas-is-used-to-control-a-riot-by-asylum-seekers-at-the-christmas-island-immigration-detention-centre-on-christmas-island-off-the-coast.md)
@@ -57,7 +57,7 @@ _Context: Diyala Governorate, Iraqi Army, suicide bomber_
 
 ##### Pakistan
 ### [A U.S. missile strike kills three Pakistani militants operating close to the Afghanistan border. ](/news/2011/03/14/a-u-s-missile-strike-kills-three-pakistani-militants-operating-close-to-the-afghanistan-border.md)
-_Context: Afghan, Pakistan_
+_Context: Afghanistan, Pakistan_
 
 ##### Indian Navy
 ### [The Indian Navy captures 61 pirates on a Mozambiquan fishing vessel in the Arabian Sea. ](/news/2011/03/14/the-indian-navy-captures-61-pirates-on-a-mozambiquan-fishing-vessel-in-the-arabian-sea.md)

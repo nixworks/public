@@ -25,7 +25,7 @@ The defence secretary says competition between great powers is now the primary f
 
 ##### Politics of China
 ### [Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. ](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of-china-proposes-writing-the-xi-jinping-thought-into-the-state-constitution-after-it-was-a.md)
-_Context: Communist Party of China, Politics of China, Xi Jinping Thought, party constitution, state constitution_
+_Context: Communist Party of China, Politics of China, Xi Jinping Thought, country's constitution, party constitution_
 
 ##### Fleury-Merogis prison
 ### [Outside the Fleury-Merogis prison, French police clash with prison guards who are striking over the detention conditions in French jails. ](/news/2018/01/19/outside-the-fleury-ma-c-rogis-prison-french-police-clash-with-prison-guards-who-are-striking-over-the-detention-conditions-in-french-jails.md)

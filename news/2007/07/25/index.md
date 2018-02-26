@@ -37,7 +37,7 @@ _Context: Arab League, Arab Peace Initiative, Egypt, Israel, Jordan_
 
 ##### Release 23 of its captured fighters
 ### [ 8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. ](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-taliban-in-afghanistan-are-released-while-one-of-the-hostages-is-executed-the-taliban-gives.md)
-_Context: Afghan, Taliban, release 23 of its captured fighters_
+_Context: Afghanistan, Taliban, release 23 of its captured fighters_
 
 ##### Car bomb
 ### [ A car bomb in the Mansour district of Baghdad kills at least 30 Iraqis celebrating their team's victory in an Asian Cup match against South Korea. Another suicide attack in East Baghdad kills another 20. ](/news/2007/07/25/a-car-bomb-in-the-mansour-district-of-baghdad-kills-at-least-30-iraqis-celebrating-their-team-s-victory-in-an-asian-cup-match-against-south.md)
@@ -55,9 +55,9 @@ The move came after President Luiz Inácio Lula da Silva had assured Brazilians 
 ### [ Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
 _Context: 2007 Tour de France, Christian Moreni, Italy, doping_
 
-##### U.S.
+##### United States
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS "Cole". ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
-_Context: $, Sudan, U.S., USS ''Cole''_
+_Context: $, Sudan, USS ''Cole'', United States_
 
 ##### Nurse
 ### [ Nurses in Fiji go on strike over a 5 per cent pay cut imposed on them by the interim government of Frank Bainimarama with teachers and other government workers to join them next week. ](/news/2007/07/25/nurses-in-fiji-go-on-strike-over-a-5-per-cent-pay-cut-imposed-on-them-by-the-interim-government-of-frank-bainimarama-with-teachers-and-othe.md)

@@ -55,7 +55,7 @@ _Context: National Semiconductor, Texas Instruments, analog chip_
 ### [Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. ](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.md)
 _Context: Australian Stock Exchange, Singapore Stock Exchange, Treasurer of Australia, Wayne Swan_
 
-##### U.S.
+##### United States
 ### [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md)
 The U.S. Federal Trade Commission is considering a broad antitrust investigation into Google Inc.’s dominance of the Internet-search industry, two people familiar with the matter said.
 
@@ -87,7 +87,7 @@ _Context: Ai Weiwei_
 ### [Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/amid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
 ##### Kabul University
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
-_Context: Afghan, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
+_Context: Afghanistan, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
 
 ##### Alassane Ouattara
 ### [Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)

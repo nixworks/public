@@ -53,7 +53,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Spillover of the Syrian Civil War
 ### [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md)
-_Context: Golan Heights, Israel-Syria relations, Israeli Army, Spike missile, Spillover of the Syrian Civil War, Syrian Armed Forces_
+_Context: Golan Heights, Government forces, Israel-Syria relations, Israeli Army, Spike missile, Spillover of the Syrian Civil War_
 
 ##### North Korea-South Korea relations
 ### [North and South Korea exchange artillery fire over the border at Yeoncheon, prompting South Korea to order evacuations of its citizens in the area. ](/news/2015/08/20/north-and-south-korea-exchange-artillery-fire-over-the-border-at-yeoncheon-prompting-south-korea-to-order-evacuations-of-its-citizens-in-th.md)

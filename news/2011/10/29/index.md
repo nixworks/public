@@ -9,7 +9,7 @@ _Context: Atchison, Kansas, Kansas, grain elevator_
 
 ##### Nor'easter
 ### [A rare October snow storm hits the northeastern United States and Mid-Atlantic United States, leaving millions without power and killing two. ](/news/2011/10/29/a-rare-october-snow-storm-hits-the-northeastern-united-states-and-mid-atlantic-united-states-leaving-millions-without-power-and-killing-two.md)
-_Context: Mid-Atlantic, U.S., nor'easter, northeastern United States_
+_Context: Mid-Atlantic, United States, nor'easter, northeastern United States_
 
 ##### Footbridge
 ### [Thirty people are feared dead after a footbridge in India's Arunachal Pradesh collapses into the Kameng River. ](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.md)
@@ -21,7 +21,7 @@ _Context: Australia, Qantas, ongoing industrial dispute_
 
 ##### Suicide bomber
 ### [A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-american-troops-and-members-of-the-int.md)
-_Context: Afghan, International Security Assistance Force, Kabul, NATO, suicide bomber_
+_Context: Afghanistan, International Security Assistance Force, Kabul, NATO, suicide bomber_
 
 ##### Homs
 ### [Syrian security forces attack the city of Homs with fighter jets and tanks, killing at least 3. ](/news/2011/10/29/syrian-security-forces-attack-the-city-of-homs-with-fighter-jets-and-tanks-killing-at-least-3.md)

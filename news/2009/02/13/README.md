@@ -33,7 +33,7 @@ _Context: 2008, GBP, HBOS, Lloyds Banking Group_
 
 ##### German
 ### [ Germany's Max Planck Institute for Evolutionary Anthropology and the United States' 454 Life Sciences map the Neanderthal genome. ](/news/2009/02/13/germany-s-max-planck-institute-for-evolutionary-anthropology-and-the-united-states-454-life-sciences-map-the-neanderthal-genome.md)
-_Context: 454 Life Sciences, German, Max Planck Institute for Evolutionary Anthropology, Neanderthal, U.S., genome, map_
+_Context: 454 Life Sciences, German, Max Planck Institute for Evolutionary Anthropology, Neanderthal, United States, genome, map_
 
 ##### Israel
 ### [ Israeli Defense Forces in the Gaza Strip discover grenades made by Hamas from humanitarian supplies. ](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.md)
@@ -63,9 +63,9 @@ _Context: Chapter 7, Peanut Corporation of America, bankruptcy, liquidated_
 ### [ Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. ](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, police, treason_
 
-##### U.S.
+##### United States
 ### [ The United States Congress approves the American Recovery and Reinvestment Act of 2009. ](/news/2009/02/13/the-united-states-congress-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, Congress, U.S._
+_Context: American Recovery and Reinvestment Act, Congress, United States_
 
 ## [Previous Day...](/news/2009/02/12/index.md)
 

@@ -39,9 +39,9 @@ _Context: 2015 Pacific typhoon season, Luzon, Philippines_
 ### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
 The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.
 
-##### U.S.
+##### United States
 ### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
-_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, U.S._
+_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, United States_
 
 ##### Nayantara Sahgal
 ### [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2009/07/9/index.html)  [JSON](2009/07/9/index.json)  [XML](2009/
 
 ## [2009-07-9](/news/2009/07/9/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States claims to have released five Iranian diplomats held in Iraq since 2007, but in fact delivers them into Iraqi custody. ](/news/2009/07/9/the-united-states-claims-to-have-released-five-iranian-diplomats-held-in-iraq-since-2007-but-in-fact-delivers-them-into-iraqi-custody.md)
 Seizure of five men in Irbil in 2007 raised diplomatic tensions between US and Iran.
 
@@ -17,7 +17,7 @@ An overturned truck carrying explosives has blown up on a road south of Kabul in
 
 ##### Drone
 ### [ A drone strike by the United States kills 50 Taliban militants in South Waziristan, Pakistan. ](/news/2009/07/9/a-drone-strike-by-the-united-states-kills-50-taliban-militants-in-south-waziristan-pakistan.md)
-_Context: Pakistan, South Waziristan, Taliban, U.S., drone_
+_Context: Pakistan, South Waziristan, Taliban, United States, drone_
 
 ##### David Cameron
 ### [ David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hacking-by-the-rupert-murdoch-owned-n.md)
@@ -49,7 +49,7 @@ _Context: Tehran, protests against the regime_
 
 ##### Riots
 ### [ Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits-as-the-social-order-in.md)
-_Context: Beijing, China, Chinese President, Hu Jintao, Politburo Standing Committee, riots, rmqi_
+_Context: Beijing, China, Hu Jintao, Politburo Standing Committee, President, riots, rmqi_
 
 ##### Yunnan
 ### [ A magnitude 5.7 earthquake strikes Yunnan province of China, killing one person and destroying over 10,000 homes. ](/news/2009/07/9/a-magnitude-5-7-earthquake-strikes-yunnan-province-of-china-killing-one-person-and-destroying-over-10-000-homes.md)

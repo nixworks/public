@@ -23,9 +23,9 @@ The Vatican is to launch an investigation in the autumn into clerical child sex 
 ### [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md)
 Freedom Flotilla changes course and slows down after Israeli navy ships flank it.
 
-##### Afghan
+##### Afghanistan
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
-_Context: Afghan, Christian, Church World Service, Islamic republic, Norwegian Church Aid, proselytizing_
+_Context: Afghanistan, Christian, Church World Service, Islamic republic, Norwegian Church Aid, proselytizing_
 
 ##### Wildfires
 ### [Wildfires burn across Quebec, sending smoke as far away as Ottawa and Cape Cod. ](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.md)

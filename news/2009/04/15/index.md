@@ -5,11 +5,11 @@ Formats: [HTML](2009/04/15/index.html)  [JSON](2009/04/15/index.json)  [XML](200
 
 ##### Tax Day
 ### [ The Tax Day Tea Party protests against higher taxes and out-of-control government spending began rallying across the United States. ](/news/2009/04/15/the-tax-day-tea-party-protests-against-higher-taxes-and-out-of-control-government-spending-began-rallying-across-the-united-states.md)
-_Context: Tax Day, Tea Party, U.S., form of government, protests, taxes_
+_Context: Tax Day, Tea Party, United States, form of government, protests, taxes_
 
-##### U.S.
+##### United States
 ### [ The United States' consumer price index records its first year-on-year deflation since 1955. ](/news/2009/04/15/the-united-states-consumer-price-index-records-its-first-year-on-year-deflation-since-1955.md)
-_Context: U.S., consumer price index, deflation_
+_Context: United States, consumer price index, deflation_
 
 ##### French
 ### [ The French Navy captures 11 Somali pirates in the Gulf of Aden. ](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.md)

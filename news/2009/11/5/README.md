@@ -29,7 +29,7 @@ _Context: Conservative Party, French, Pierre Lellouche, United Kingdom_
 
 ##### United Nations
 ### [ The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. ](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.md)
-_Context: Afghan, United Nations_
+_Context: Afghanistan, United Nations_
 
 ##### Hurricane Ida
 ### [ Hurricane Ida makes landfall in Nicaragua. ](/news/2009/11/5/hurricane-ida-makes-landfall-in-nicaragua.md)

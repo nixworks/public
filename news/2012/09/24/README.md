@@ -67,7 +67,7 @@ Reports from North Korea suggest reforms that will see farmers keep more of thei
 ### [Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. ](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.md)
 Six civilians are shot dead by a Kenyan soldier advancing towards the al-Shabab stronghold of Kismayo, the Kenyan army confirms.
 
-##### Syria
+##### 2011 Syrian uprising
 ### [At least 24 people are killed in violence across Syria. ](/news/2012/09/24/at-least-24-people-are-killed-in-violence-across-syria.md)
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the
 

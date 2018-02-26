@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### War in Afghanistan (2015-present)
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
-_Context: Afghan, ISIL, Nangarhar Province, War in Afghanistan (2015-present)_
+_Context: Afghanistan, ISIL, Nangarhar Province, War in Afghanistan (2015-present)_
 
 ##### Syrian Civil War
 ### [A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-dozen-soldiers-the.md)

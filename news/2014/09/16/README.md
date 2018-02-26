@@ -11,7 +11,7 @@ _Context: Russian, Vladimir Yevtushenkov, money laundering_
 ### [Lawmakers from Ukraine ratify a landmark agreement with the European Union in tandem with a meeting of the European Parliament. ](/news/2014/09/16/lawmakers-from-ukraine-ratify-a-landmark-agreement-with-the-european-union-in-tandem-with-a-meeting-of-the-european-parliament.md)
 Ukrainian MPs and the European Parliament are set to ratify a key EU association pact criticised by Russia.
 
-##### U.S.
+##### United States
 ### [The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-health-workers.md)
 The United States will send thousands of troops to respond to the Ebola outbreak in West Africa by building clinics and training hundreds of healthcare workers, US President Barack Obama announced on
 
@@ -35,7 +35,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 ### [Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. ](/news/2014/09/16/six-egyptian-police-officers-are-killed-and-three-wounded-following-a-roadside-bombing-in-the-sinai-peninsula.md)
 Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsula, the interior ministry says.
 
-##### Afghan
+##### Afghanistan
 ### [A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuries.md)
 A Taliban suicide car bomber attacks a foreign military convoy in the Afghan capital, Kabul, killing three Nato personnel and injuring at least 16 civilians.
 

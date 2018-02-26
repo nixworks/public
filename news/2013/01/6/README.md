@@ -21,7 +21,7 @@ South Africa is sending more soldiers to support government troops in the Centra
 
 ##### Spin Boldak
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghan, Spin Boldak_
+_Context: Afghanistan, Spin Boldak_
 
 ##### Kachin
 ### [Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md)

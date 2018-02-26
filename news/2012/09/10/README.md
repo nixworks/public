@@ -35,7 +35,7 @@ _Context: Chinese, Japanese government, Senkaku Islands, Senkaku Islands dispute
 ### [Yukiya Amano, the head of the International Atomic Energy Agency (IAEA), urges Iran to grant IAEA inspectors immediate access to its contentious suspected nuclear facility in Parchin. ](/news/2012/09/10/yukiya-amano-the-head-of-the-international-atomic-energy-agency-iaea-urges-iran-to-grant-iaea-inspectors-immediate-access-to-its-content.md)
 _Context: IAEA, IAEA inspectors, Iran, Parchin, Yukiya Amano, contentious, nuclear program_
 
-##### U.S.
+##### United States
 ### [A new United States national strategy to prevent suicides is to be released by the Surgeon General, the Secretary of Health and Human Services and the Army Secretary. It will include, among others, the use of social medium Facebook as a tactic. ](/news/2012/09/10/a-new-united-states-national-strategy-to-prevent-suicides-is-to-be-released-by-the-surgeon-general-the-secretary-of-health-and-human-servic.md)
 WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially among U.S. military veterans and younger Americans, is tapping into Facebook, mobile apps and other technologies as...
 
@@ -65,7 +65,7 @@ _Context: Ground Zero, National September 11 Memorial & Museum, New York City_
 
 ##### Kunduz
 ### [A suicide bombing in Kunduz, Afghanistan, kills at least 16 people; a local doctor says "21 or more". ](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.md)
-_Context: Afghan, Kunduz_
+_Context: Afghanistan, Kunduz_
 
 ##### Yemen
 ### [Yemeni officials report that Said al Shihri, the second-in-command of Al Qaeda in the Arabian Peninsula (AQAP), is killed in southern Yemen. ](/news/2012/09/10/yemeni-officials-report-that-said-al-shihri-the-second-in-command-of-al-qaeda-in-the-arabian-peninsula-aqap-is-killed-in-southern-yemen.md)

@@ -155,9 +155,9 @@ _Context: Puri, Ratha-Yatra, human stampede_
 ### [There is a row in the United States about privacy fears connected to an exchange in ownership of a gay teenagers' database. ](/news/2010/07/13/there-is-a-row-in-the-united-states-about-privacy-fears-connected-to-an-exchange-in-ownership-of-a-gay-teenagers-database.md)
 A row erupts in the US over the ownership of a gay teenage database of one million people after its publishers went bankrupt.
 
-##### Afghan
+##### Afghanistan
 ### [An Afghan soldier attacks British soldiers as a base near Lashkar Gah, killing three (one a Nepalese citizen) and wounding four more, before defecting to the Taliban. ](/news/2010/07/13/an-afghan-soldier-attacks-british-soldiers-as-a-base-near-lashkar-gah-killing-three-one-a-nepalese-citizen-and-wounding-four-more-before.md)
-_Context: Afghan, Lashkar Gah, Nepal, Taliban, defecting_
+_Context: Afghanistan, Lashkar Gah, Nepal, Taliban, defecting_
 
 ##### Uganda
 ### [Ugandan authorities arrest a number of people in connection with the July 2010 Kampala attacks which left at least 74 people dead. ](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.md)

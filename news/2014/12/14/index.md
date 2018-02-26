@@ -13,7 +13,7 @@ _Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister of J
 
 ##### Turkey
 ### [Turkish police arrest 24 journalists, all of whom are supporters of Fethullah Gulen who is a rival of current Turkish President Recep Tayyip Erdogan and is currently in self-imposed exile in the United States. ](/news/2014/12/14/turkish-police-arrest-24-journalists-all-of-whom-are-supporters-of-fethullah-ga1-4len-who-is-a-rival-of-current-turkish-president-recep-tayyi.md)
-_Context: Fethullah Gulen, President of Turkey, Recep Tayyip Erdogan, Turkey, U.S._
+_Context: Fethullah Gulen, President of Turkey, Recep Tayyip Erdogan, Turkey, United States_
 
 ##### United Nations
 ### [The United Nations adopts a format for national pledges to tackle climate change after meetings extend into the weekend at the conference held in Lima, Peru. ](/news/2014/12/14/the-united-nations-adopts-a-format-for-national-pledges-to-tackle-climate-change-after-meetings-extend-into-the-weekend-at-the-conference-he.md)

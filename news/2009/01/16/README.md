@@ -17,7 +17,7 @@ _Context: Israel, Palestinian Authority, fire_
 
 ##### Trooper
 ### [ Trooper Mark Donaldson of the Australian Special Air Service Regiment is awarded the Victoria Cross for gallantry during the War in Afghanistan. ](/news/2009/01/16/trooper-mark-donaldson-of-the-australian-special-air-service-regiment-is-awarded-the-victoria-cross-for-gallantry-during-the-war-in-afghani.md)
-_Context: Afghan, Australia, Australian Special Air Service Regiment, Mark Donaldson, Trooper, Victoria Cross, War in Afghanistan (2001-present), gallantry_
+_Context: Afghanistan, Australia, Australian Special Air Service Regiment, Mark Donaldson, Trooper, Victoria Cross, War in Afghanistan (2001-present), gallantry_
 
 ##### Lithuania
 ### [ Lithuanian police disperse angry protesters mobbing Parliament as an anti-government demonstration turns violent. ](/news/2009/01/16/lithuanian-police-disperse-angry-protesters-mobbing-parliament-as-an-anti-government-demonstration-turns-violent.md)

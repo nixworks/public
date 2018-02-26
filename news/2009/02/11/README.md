@@ -11,7 +11,7 @@ _Context: Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, Unite
 ### [ Oscar Temaru is elected President of French Polynesia for the fourth time in five years. ](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.md)
 _Context: French Polynesia, Oscar Temaru, President, elected_
 
-##### U.S.
+##### United States
 ### [ U.S. Democrat John Dingell of Michigan becomes the House of Representatives' longest-serving member. ](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.md)
 Michigan Democrat John Dingell today becomes the longest-serving member of the House in history.
 
@@ -29,7 +29,7 @@ Chinese fishing vessels have moved out of waters near a disputed sea border betw
 
 ##### Suicide attack
 ### [ Twenty-seven people die during a suicide attack in Kabul, Afghanistan. ](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, suicide attack_
+_Context: Afghanistan, Kabul, suicide attack_
 
 ##### Mexico
 ### [ Mexico's National Institute of Anthropology and History announces the discovery of a 16th-century mass grave at the Tlatelolco archaeological site in Mexico City. ](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/9/index.html)  [JSON](2010/01/9/index.json)  [XML](2010/
 
 ## [2010-01-9](/news/2010/01/9/index.md)
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
-_Context: Afghan, Hamid Karzai, National Assembly_
+_Context: Afghanistan, Hamid Karzai, National Assembly_
 
 ##### Taiwan
 ### [Taiwan's opposition Democratic Progressive Party wins all three seats in by-elections against the ruling Kuomintang. ](/news/2010/01/9/taiwan-s-opposition-democratic-progressive-party-wins-all-three-seats-in-by-elections-against-the-ruling-kuomintang.md)
@@ -55,9 +55,9 @@ Arsonists in Malaysia struck a fourth church on Saturday as the government tried
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
 _Context: Athens, Hellenic Parliament_
 
-##### U.S.
+##### United States
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: Air Uganda, Sudan, U.S., Uganda_
+_Context: Air Uganda, Sudan, Uganda, United States_
 
 ## [Previous Day...](/news/2010/01/8/index.md)
 

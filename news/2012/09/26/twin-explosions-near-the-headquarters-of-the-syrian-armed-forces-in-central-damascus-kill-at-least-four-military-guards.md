@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/26/twin-explosions-near-the-headquarters-of-the-sy
 
 ### [2012-09-26](/news/2012/09/26/index.md)
 
-##### Syrian Armed Forces
+##### Government forces
 # Twin explosions near the headquarters of the Syrian Armed Forces in central Damascus kill at least four military guards. 
 
 Rebels say dozens dead while Syrian military claims guards only wounded and top brass safe.
@@ -25,8 +25,8 @@ Rebels say dozens dead while Syrian military claims guards only wounded and top 
 
 ### Related:
 
-1. [Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-tow.md) _Context: Damascus, Syrian Armed Forces_
-2. [The Israeli Air Force bombs two Syrian Armed Forces bases near Damascus and the town of Dimas, according to Russian and Syrian sources. ](/news/2014/12/7/the-israeli-air-force-bombs-two-syrian-armed-forces-bases-near-damascus-and-the-town-of-dimas-according-to-russian-and-syrian-sources.md) _Context: Damascus, Syrian Armed Forces_
-3. [The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in-the-country.md) _Context: Damascus, Syrian Armed Forces_
+1. [Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-tow.md) _Context: Damascus, Government forces_
+2. [The Israeli Air Force bombs two Syrian Armed Forces bases near Damascus and the town of Dimas, according to Russian and Syrian sources. ](/news/2014/12/7/the-israeli-air-force-bombs-two-syrian-armed-forces-bases-near-damascus-and-the-town-of-dimas-according-to-russian-and-syrian-sources.md) _Context: Damascus, Government forces_
+3. [The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in-the-country.md) _Context: Damascus, Government forces_
 4. [Syrian government airstrikes pound rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-including-four.md) _Context: Damascus_
-5. [Syrian government warplanes carry out a sixth day of airstrikes in the rebel-held Ghouta suburbs east of Damascus, killing 32 people as the death toll from a week of bombardment reaches over 400. ](/news/2018/02/23/syrian-government-warplanes-carry-out-a-sixth-day-of-airstrikes-in-the-rebel-held-ghouta-suburbs-east-of-damascus-killing-32-people-as-the.md) _Context: Damascus_
+5. [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md) _Context: Government forces_

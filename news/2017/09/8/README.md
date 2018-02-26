@@ -25,7 +25,7 @@ Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essen
 
 ##### North Korea-Philippines relations
 ### [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md)
-_Context: 2017 North Korean missile tests, North Korea, North Korea-Philippines relations, Philippines, Security Council_
+_Context: 2017 North Korean missile tests, North Korea, North Korea-Philippines relations, Philippines, United Nations Security Council_
 
 ##### Bahrain-United States relations
 ### [The U.S. State Department has approved a package of potential arms sales worth more than USD$ 3.8 billion to the Kingdom of Bahrain including F-16 jets, upgrades, missiles and patrol boats. ](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.md)

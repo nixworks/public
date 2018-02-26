@@ -17,7 +17,7 @@ _Context: Leonardo da Vinci, Madonna of the Yarnwinder, oil painting_
 
 ##### Kelly Clarkson
 ### [U.S. pop singer Kelly Clarkson is criticised by anti-smoking groups in Indonesia and the United States for promoting cigarettes at an upcoming concert in Jakarta. ](/news/2010/04/21/u-s-pop-singer-kelly-clarkson-is-criticised-by-anti-smoking-groups-in-indonesia-and-the-united-states-for-promoting-cigarettes-at-an-upcomi.md)
-_Context: Indonesia, Jakarta, Kelly Clarkson, U.S._
+_Context: Indonesia, Jakarta, Kelly Clarkson, United States_
 
 ##### Syria
 ### [Syria becomes the first Arab state to implement a ban on smoking in public places. ](/news/2010/04/21/syria-becomes-the-first-arab-state-to-implement-a-ban-on-smoking-in-public-places.md)

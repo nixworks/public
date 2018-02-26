@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/25/index.html)  [JSON](2015/03/25/index.json)  [XML](201
 
 ##### United States soldier
 ### [The US Army charges US Army soldier Bowe Bergdahl, who was held captive by the Taliban-aligned Haqqani network in Afghanistan from June 2009 until his release in May 2014, with desertion and misbehavior before the enemy. ](/news/2015/03/25/the-us-army-charges-us-army-soldier-bowe-bergdahl-who-was-held-captive-by-the-taliban-aligned-haqqani-network-in-afghanistan-from-june-2009.md)
-_Context: Afghan, Bowe Bergdahl, Haqqani network, Taliban, United States soldier_
+_Context: Afghanistan, Bowe Bergdahl, Haqqani network, Taliban, United States soldier_
 
 ##### North American tornado outbreaks
 ### [Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person-dead-and-several-others-injured.md)

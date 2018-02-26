@@ -49,11 +49,11 @@ _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
-_Context: Mahmoud Ahmadinejad, President, Security Council, United States government, visa_
+_Context: Mahmoud Ahmadinejad, President, United Nations Security Council, United States government, visa_
 
 ##### Taliban
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
-_Context: Afghan, Taliban, convoy_
+_Context: Afghanistan, Taliban, convoy_
 
 ##### Jorge Noguera
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)

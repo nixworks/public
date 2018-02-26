@@ -31,9 +31,9 @@ Stocks plunged 9 percent in the last two hours of trading on Thursday before cla
 ### [Pope Benedict XVI accepts the resignation of Joseph Duffy, a bishop mentioned in the reports into child sexual abuse by clergy. ](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.md)
 Pope Benedict has accepted the resignation of Bishop Joseph Duffy, who is retiring and whose name was tied to the cover-up of a paedophile priest.
 
-##### U.S.
+##### United States
 ### [United States Baptist minister George Rekers, a campaigner who opposes homosexuality, responds to allegations of a holiday in London-Madrid with a male prostitute he met at Rentboy.com. ](/news/2010/05/6/united-states-baptist-minister-george-rekers-a-campaigner-who-opposes-homosexuality-responds-to-allegations-of-a-holiday-in-london-madrid.md)
-_Context: George Rekers, London, Madrid, Rentboy.com, U.S., homosexuality_
+_Context: George Rekers, London, Madrid, Rentboy.com, United States, homosexuality_
 
 ##### Ajmal Kasab
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)
@@ -47,9 +47,9 @@ _Context: 2010 general election, Members of Parliament, United Kingdom_
 ### [Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. ](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.md)
 _Context: Arthur Mutambara, Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 
-##### Afghan
+##### Afghanistan
 ### [Hundreds of people in Afghanistan demonstrate against alleged mistreatment and executions of Afghan refugees in Iran. ](/news/2010/05/6/hundreds-of-people-in-afghanistan-demonstrate-against-alleged-mistreatment-and-executions-of-afghan-refugees-in-iran.md)
-_Context: Afghan, Iran_
+_Context: Afghanistan, Iran_
 
 ##### Irish Aviation Authority
 ### [The Irish Aviation Authority announces new flight restrictions at several airports, including Shannon Airport and Ireland West Airport Knock, from midnight because of the (Iceland) volcano. ](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.md)

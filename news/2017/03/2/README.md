@@ -29,7 +29,7 @@ Rescue efforts in western Ukraine ongoing after methane gas blast kills eight mi
 
 ##### War in North-West Pakistan
 ### [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md)
-_Context: Federally Administered Tribal Areas, Kurram, U.S., War in North-West Pakistan_
+_Context: Federally Administered Tribal Areas, Kurram, United States, War in North-West Pakistan_
 
 ##### Syrian Civil War
 ### [The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. ](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-ancient-city-of-palmyra-from-the-islamic-state-of-iraq-and-the-levant.md)

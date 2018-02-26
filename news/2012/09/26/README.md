@@ -35,7 +35,7 @@ _Context: Japan, Russia, Tokyo, rival territorial claims_
 ### [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md)
 _Context: Greece, general strike, unionize_
 
-##### Syrian Armed Forces
+##### Government forces
 ### [Twin explosions near the headquarters of the Syrian Armed Forces in central Damascus kill at least four military guards. ](/news/2012/09/26/twin-explosions-near-the-headquarters-of-the-syrian-armed-forces-in-central-damascus-kill-at-least-four-military-guards.md)
 Rebels say dozens dead while Syrian military claims guards only wounded and top brass safe.
 

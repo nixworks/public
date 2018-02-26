@@ -69,7 +69,7 @@ _Context: Armenian, Turkey, United States House of Representatives, genocide of 
 ### [Ongoing flooding in California kills at least three people. ](/news/2010/12/22/ongoing-flooding-in-california-kills-at-least-three-people.md)
 Flood waters on Tuesday ripped through a retirement community in northwestern Arizona, washing away four homes; Utah, Nevada besieged.
 
-##### U.S.
+##### United States
 ### [The United States approves more than $4 billion assistance for rescuers and residents whose health was affected after the September 11 attacks in New York City in 2001. ](/news/2010/12/22/the-united-states-approves-more-than-4-billion-assistance-for-rescuers-and-residents-whose-health-was-affected-after-the-september-11-attac.md)
 More than $4bn committed to help rescuers and residents whose health was affected after 2001 attacks in New York.
 

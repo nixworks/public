@@ -19,7 +19,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. ](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.md)
 _Context: Brazilian, blogger_
 
-##### U.S.
+##### United States
 ### [Health authorities in the United States say that 53 people in nine states have been sickened in a salmonella outbreak. California is the worst affected state with 31 cases with the other states with cases include Arizona, Illinois, Mississippi, New Mexico, South Dakota, Virginia, Washington and Wisconsin. ](/news/2015/05/21/health-authorities-in-the-united-states-say-that-53-people-in-nine-states-have-been-sickened-in-a-salmonella-outbreak-california-is-the-wor.md)
 The source of the outbreak is unknown, but most who fell ill reported eating sushi containing raw tuna.
 

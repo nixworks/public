@@ -107,9 +107,9 @@ _Context: Sherlock Holmes, Sir Arthur Conan Doyle, Undershaw_
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.
 
-##### U.S.
+##### United States
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: Iraq, U.S., United States armed forces, brigade_
+_Context: Iraq, United States, United States armed forces, brigade_
 
 ##### Bomb attack
 ### [Seven people are killed and fourteen injured in a bomb attack in China's Xinjiang province. Although the region has recently been embroiled in violence including Muslim separatists and majority Han Chinese, the attack is being investigated as a criminal case. ](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.md)

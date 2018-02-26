@@ -17,7 +17,7 @@ _Context: Middle East respiratory syndrome, Munster, Indiana, Saudi Arabia_
 
 ##### The mudslides
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
-_Context: Afghan, the mudslides_
+_Context: Afghanistan, the mudslides_
 
 ##### Gulzar
 ### [Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.md)

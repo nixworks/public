@@ -41,7 +41,7 @@ Two people employed at the US embassy in Mexico are wounded when police open fir
 
 ##### House of Representatives
 ### [The House of Representatives of Japan passes a resolution criticising the President of South Korea Lee Myung-bak's recent visit to the disputed Liancourt Rocks. ](/news/2012/08/24/the-house-of-representatives-of-japan-passes-a-resolution-criticising-the-president-of-south-korea-lee-myung-bak-s-recent-visit-to-the-dispu.md)
-_Context: House of Representatives, Lee Myung-bak, Liancourt Rocks, South Korean President_
+_Context: House of Representatives, Lee Myung-bak, Liancourt Rocks, South Korean president_
 
 ##### Yangmingtan Bridge
 ### [The newly-built Yangmingtan Bridge in Harbin City in China collapses, killing three and injuring five people. ](/news/2012/08/24/the-newly-built-yangmingtan-bridge-in-harbin-city-in-china-collapses-killing-three-and-injuring-five-people.md)

@@ -17,7 +17,7 @@ _Context: Mongolia, snowstorms_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China calls for resumption of official talks between mainland China and Taiwan in a meeting with Wu Po-hsiung, the Chairman of Taiwan's ruling party the Kuomintang. ](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.md)
-_Context: China, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung_
+_Context: China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), President, Taiwan, Wu Po-hsiung_
 
 ##### Zamboanga International Airport
 ### [ A bomb at Edwin Andrews Air Base in Zamboanga City in the southern Philippines kills two people and injures another 17. ](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.md)
@@ -29,7 +29,7 @@ _Context: Iraq, suicide bombing_
 
 ##### U.S. Commerce Department
 ### [ The United States Department of Commerce revises its estimate of economic growth in the United States to 0.9% for the first quarter of 2008. ](/news/2008/05/29/the-united-states-department-of-commerce-revises-its-estimate-of-economic-growth-in-the-united-states-to-0-9-for-the-first-quarter-of-2008.md)
-_Context: U.S., U.S. Commerce Department, economic growth, quarter_
+_Context: U.S. Commerce Department, United States, economic growth, quarter_
 
 ##### Track and field
 ### [ Track and field coach Trevor Graham is convicted of lying to investigators of links to a steroids dealer in the Bay Area Laboratory Co-operative investigation. ](/news/2008/05/29/track-and-field-coach-trevor-graham-is-convicted-of-lying-to-investigators-of-links-to-a-steroids-dealer-in-the-bay-area-laboratory-co-oper.md)

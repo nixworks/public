@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/19/index.html)  [JSON](2007/08/19/index.json)  [XML](200
 
 ##### German
 ### [ A German woman taken hostage yesterday in Kabul, Afghanistan is found during a police raid on a house. Multiple abductors arrested. ](/news/2007/08/19/a-german-woman-taken-hostage-yesterday-in-kabul-afghanistan-is-found-during-a-police-raid-on-a-house-multiple-abductors-arrested.md)
-_Context: Afghan, German, Kabul_
+_Context: Afghanistan, German, Kabul_
 
 ##### Thailand
 ### [ Voters in Thailand go to the polls for a referendum to decide whether to accept or reject a new constitution. A majority of voters appear to have supported it.](/news/2007/08/19/voters-in-thailand-go-to-the-polls-for-a-referendum-to-decide-whether-to-accept-or-reject-a-new-constitution-a-majority-of-voters-appear-t.md)
@@ -25,7 +25,7 @@ _Context: Abu Sayyaf, Basilan island, Philippines_
 
 ##### Heat wave
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, U.S., heat wave_
+_Context: Memphis, Tennessee, United States, heat wave_
 
 ##### Minnesota Governor
 ### [ The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-flooding-with-six-deaths-repo.md)

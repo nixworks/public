@@ -17,7 +17,7 @@ _Context: Bangladesh, Cyclone Sidr, Dhaka_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, Prime Minister of Japan, U.S., U.S. President, Yasuo Fukuda_
+_Context: George W. Bush, Japan, Prime Minister of Japan, U.S. President, United States, Yasuo Fukuda_
 
 ##### Uttar Pradesh
 ### [ Police in Uttar Pradesh arrest three Pakistani members of Jaish-e-Mohammed who were plotting to kidnap an Indian politician. ](/news/2007/11/16/police-in-uttar-pradesh-arrest-three-pakistani-members-of-jaish-e-mohammed-who-were-plotting-to-kidnap-an-indian-politician.md)
@@ -27,9 +27,9 @@ _Context: India, Jaish-e-Mohammed, Pakistan, Uttar Pradesh, kidnap_
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
 
-##### U.S.
+##### United States
 ### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
-_Context: Benazir Bhutto, John Negroponte, Prime Minister, U.S., US Deputy Secretary of State, democratic_
+_Context: Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary of State, United States, democratic_
 
 ##### OSCE
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)

@@ -35,7 +35,7 @@ A Dutch tourist has confessed to killing a British fitness instructor on a Kashm
 ### [Egypt President Mohamed Morsi condemns sectarian violence and orders a probe after one person is killed in clashes at the Cairo headquarters of the Coptic Christian pope. ](/news/2013/04/8/egypt-president-mohamed-morsi-condemns-sectarian-violence-and-orders-a-probe-after-one-person-is-killed-in-clashes-at-the-cairo-headquarters.md)
 President Morsi orders probe after at least two people killed in clashes at Cairo headquarters of Coptic Christian pope.
 
-##### U.S.
+##### United States
 ### [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md)
 US secretary of state meets Palestinian Authority president in Ramallah and is due to hold talks with Israeli PM.
 
@@ -57,7 +57,7 @@ _Context: A$, Australia, Australia-China relations, Chinese, Julia Gillard, Prim
 
 ##### Chinese
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: Asia, Boao, Boao Forum for Asia, Chinese, Chinese President, Hainan, Xi Jinping, entrepreneur_
+_Context: Asia, Boao, Boao Forum for Asia, Chinese, Hainan, President, Xi Jinping, entrepreneur_
 
 ##### Spain
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)
@@ -75,7 +75,7 @@ Sudanese President Omar Hassan al-Bashir said on Friday he wanted peace and norm
 ### [4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md)
 Seven people were killed in clashes between army deserters and tribesmen in south Yemen on Monday, officials and residents said, in another sign of disorder in a country of multiple conflicts next to oil export giant Saudi Arabia.
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.md)
 President Hamid Karzai denounces reported death of 11 children by NATO forces in Kunar province and orders inquiry.
 

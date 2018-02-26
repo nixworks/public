@@ -59,7 +59,7 @@ The Duchess of Cambridge leaves hospital after treatment for severe morning sick
 ### [At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebanon-the-casualty-toll-of-the-three.md)
 * Ten people killed since clashes started on Tuesday* Tensions high after Lebanese gunmen killed in Syria* Syrian FM says Lebanese go
 
-##### Afghan
+##### Afghanistan
 ### [The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attempt-in-the-country-s-capital-kabul.md)
 Head of intelligence Asadullah Khalid survives assassination attempt in the capital, in attack claimed by the Taliban.
 

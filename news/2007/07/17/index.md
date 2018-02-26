@@ -9,7 +9,7 @@ _Context: 2007 Chuetsu offshore earthquake, Japan, Kashiwazaki-Kariwa Nuclear Po
 
 ##### Beijing
 ### [ Delegates arrive in Beijing for the resumption of six party talks on Wednesday involving North Korea, South Korea, China, Russia, Japan and the United States to discuss the second phase of a deal on North Korean nuclear disarmament. ](/news/2007/07/17/delegates-arrive-in-beijing-for-the-resumption-of-six-party-talks-on-wednesday-involving-north-korea-south-korea-china-russia-japan-and.md)
-_Context: Beijing, Chinese, Japan, North Korea, Russia, South Korea, U.S., six party talks_
+_Context: Beijing, Chinese, Japan, North Korea, Russia, South Korea, United States, six party talks_
 
 ##### Tamil Tigers
 ### [ All three men charged with supporting Tamil Tigers have been granted bail in Melbourne. ](/news/2007/07/17/all-three-men-charged-with-supporting-tamil-tigers-have-been-granted-bail-in-melbourne.md)
@@ -17,7 +17,7 @@ All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group 
 
 ##### Sudan
 ### [ The Sudanese government says that a recent attempted coup d'etat did not have the support of the United States government, contrary to previous accusations from Nafi Ali Nafi, Sudanese President Omar al-Bashir's assistant. The government has arrested 14 members of the Umma Reform and Renewal Party for plotting the coup. ](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.md)
-_Context: Omar al-Bashir, Sudan, U.S., Umma Reform and Renewal Party, coup_
+_Context: Omar al-Bashir, Sudan, Umma Reform and Renewal Party, United States, coup_
 
 ##### Phosphorus
 ### [ A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. ](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-western-ukraine-sending-a-toxic-cloud-over-several-villages-at-least-twenty-people-are-hosp.md)

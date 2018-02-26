@@ -17,7 +17,7 @@ The US Senate approves a $4.6bn (£2.9bn) payment to Native Americans and black 
 
 ##### NATO
 ### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
-_Context: Afghan, Afghan military, NATO_
+_Context: Afghan military, Afghanistan, NATO_
 
 ##### Secretary General of the United Nations
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)

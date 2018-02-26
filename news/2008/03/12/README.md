@@ -49,7 +49,7 @@ _Context: data storage, digital information, exabyte_
 
 ##### Environmental Protection Agency
 ### [ The United States Environmental Protection Agency announces a major expansion of efforts to fight smog in cities and towns throughout the United States. ](/news/2008/03/12/the-united-states-environmental-protection-agency-announces-a-major-expansion-of-efforts-to-fight-smog-in-cities-and-towns-throughout-the-u.md)
-_Context: Environmental Protection Agency, U.S., smog_
+_Context: Environmental Protection Agency, United States, smog_
 
 ## [Previous Day...](/news/2008/03/11/index.md)
 

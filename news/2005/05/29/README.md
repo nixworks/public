@@ -3,7 +3,7 @@ Formats: [HTML](2005/05/29/index.html)  [JSON](2005/05/29/index.json)  [XML](200
 
 ## [2005-05-29](/news/2005/05/29/index.md)
 
-##### U.S.
+##### United States
 ### [ Three US senators visit Uzbekistan to demand investigation on the crackdown of unrest. ](/news/2005/05/29/three-us-senators-visit-uzbekistan-to-demand-investigation-on-the-crackdown-of-unrest.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

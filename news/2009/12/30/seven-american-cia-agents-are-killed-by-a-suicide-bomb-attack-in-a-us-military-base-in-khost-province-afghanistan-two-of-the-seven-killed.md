@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suici
 
 ### [2009-12-30](/news/2009/12/30/index.md)
 
-##### U.S.
+##### United States
 #  Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. 
 
 
@@ -21,8 +21,8 @@ Formats: [HTML](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suici
 
 ### Related:
 
-1. [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md) _Context: Afghan, Blackwater Worldwide, U.S._
-2. ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md) _Context: Afghan, CIA, U.S._
-3. [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md) _Context: Afghan, Blackwater Worldwide, U.S._
-4. [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md) _Context: Blackwater Worldwide, CIA, U.S._
-5. [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md) _Context: Afghan, U.S._
+1. [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md) _Context: Afghanistan, Blackwater Worldwide, United States_
+2. ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md) _Context: Afghanistan, CIA, United States_
+3. [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md) _Context: Afghanistan, Blackwater Worldwide, United States_
+4. [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md) _Context: Blackwater Worldwide, CIA, United States_
+5. [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md) _Context: Afghanistan, United States_

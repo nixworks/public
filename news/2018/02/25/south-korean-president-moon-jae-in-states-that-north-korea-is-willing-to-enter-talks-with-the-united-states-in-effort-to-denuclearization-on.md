@@ -11,7 +11,7 @@ In response, the White House did not rule out direct talks.
 
 ### Sources:
 
-1. [ABC](http://abcnews.go.com/International/north-korea-open-talks-united-states-south-korea/story?id=53344216)
+1. [ABC News](http://abcnews.go.com/International/north-korea-open-talks-united-states-south-korea/story?id=53344216)
 1. [Cover Image](https://s.abcnews.com/images/International/north-korea-ivanka-01-ap-jrl-180225_16x9_992.jpg)
 
 ### Changes:

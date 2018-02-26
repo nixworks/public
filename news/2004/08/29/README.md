@@ -23,9 +23,9 @@ _Context: 2004 Summer Olympics, International Olympic Committee, Jacques Rogge_
 ### [ Australian Prime Minister John Howard announces that the 2004 Australian federal election will take place on October 9, 2004. ](/news/2004/08/29/australian-prime-minister-john-howard-announces-that-the-2004-australian-federal-election-will-take-place-on-october-9-2004.md)
 _Context: 2004 Australian federal election, John Howard, Prime Minister_
 
-##### Afghan
+##### Afghanistan
 ### [ An explosion at a school in southern Afghanistan has killed at least 10 people, many of them children, the US military has said. ](/news/2004/08/29/an-explosion-at-a-school-in-southern-afghanistan-has-killed-at-least-10-people-many-of-them-children-the-us-military-has-said.md)
-_Context: Afghan, US military_
+_Context: Afghanistan, US military_
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: Tropical Storm Gaston makes landfall at Bulls Bay, South Carolina, with near hurricane strength 70&nbsp;mph winds. ](/news/2004/08/29/2004-atlantic-hurricane-season-tropical-storm-gaston-makes-landfall-at-bulls-bay-south-carolina-with-near-hurricane-strength-70-nbsp-mph.md)

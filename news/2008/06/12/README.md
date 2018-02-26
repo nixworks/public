@@ -25,7 +25,7 @@ _Context: China, Taiwan, cross-strait relations_
 
 ##### International aid
 ### [ More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. ](/news/2008/06/12/more-than-80-countries-and-international-aid-organisations-meet-in-paris-to-develop-a-strategy-for-delivering-billions-of-dollars-in-aid-to.md)
-_Context: Afghan, Paris, international aid_
+_Context: Afghanistan, Paris, international aid_
 
 ##### Cuba
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
@@ -33,11 +33,11 @@ _Context: 110 metre hurdles, Cuba, Czech Republic, Dayron Robles, Ostrava, world
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
-_Context: Afghan, Gora Prai airstrike, Pakistan, Robert Gates, United States Secretary of Defense_
+_Context: Afghanistan, Gora Prai airstrike, Pakistan, Robert Gates, United States Secretary of Defense_
 
 ##### Salmonella
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: Salmonella, U.S., tomato_
+_Context: Salmonella, United States, tomato_
 
 ##### David Davis
 ### [ David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. ](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.md)

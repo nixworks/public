@@ -61,7 +61,7 @@ Police say a bomber killed two people and himself when he hit a US consulate veh
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: Afghan, Bamiyan, New Zealand, New Zealand Defence Force_
+_Context: Afghanistan, Bamiyan, New Zealand, New Zealand Defence Force_
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)

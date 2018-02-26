@@ -19,9 +19,9 @@ _Context: Morocco, parliamentary elections_
 ### [ The BBC reports that investigations into a recent outbreak of foot and mouth disease has identified five breaches of biosecurity at the Pirbright site of the Institute for Animal Health. ](/news/2007/09/7/the-bbc-reports-that-investigations-into-a-recent-outbreak-of-foot-and-mouth-disease-has-identified-five-breaches-of-biosecurity-at-the-pir.md)
 _Context: BBC, Institute for Animal Health, Pirbright, biosecurity, foot and mouth disease_
 
-##### U.S.
+##### United States
 ### [ The United States is investigating a video which it has obtained, to see if the claims that the man on it is Osama bin Laden are genuine. If they are found to be, it will have been the first time he has been seen since October 2004. ](/news/2007/09/7/the-united-states-is-investigating-a-video-which-it-has-obtained-to-see-if-the-claims-that-the-man-on-it-is-osama-bin-laden-are-genuine-i.md)
-_Context: Osama bin Laden, U.S., video_
+_Context: Osama bin Laden, United States, video_
 
 ##### Madeleine McCann's disappearance
 ### [ Disappearance of Madeleine McCann: Portuguese police believe that Kate McCann and Gerry McCann may be involved in their daughters possible death with both parents being named as suspects. ](/news/2007/09/7/disappearance-of-madeleine-mccann-portuguese-police-believe-that-kate-mccann-and-gerry-mccann-may-be-involved-in-their-daughters-possible.md)
@@ -37,7 +37,7 @@ _Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia_
 
 ##### Stock Markets
 ### [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md)
-_Context: Stock Markets, U.S., recession, workforce_
+_Context: Stock Markets, United States, recession, workforce_
 
 ##### Poland
 ### [ The Polish Sejm votes to dissolve itself, causing early parliamentary elections in October 2007. ](/news/2007/09/7/the-polish-sejm-votes-to-dissolve-itself-causing-early-parliamentary-elections-in-october-2007.md)

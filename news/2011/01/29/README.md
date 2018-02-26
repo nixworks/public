@@ -25,7 +25,7 @@ _Context: Bhutan, Buddhists_
 
 ##### Labour Party
 ### [British Labour Party leader Ed Miliband pays his first visit to Afghanistan. ](/news/2011/01/29/british-labour-party-leader-ed-miliband-pays-his-first-visit-to-afghanistan.md)
-_Context: Afghan, Ed Miliband, Labour Party_
+_Context: Afghanistan, Ed Miliband, Labour Party_
 
 ##### Politics of the Netherlands
 ### [The Dutch government freezes all contacts with Iran in protest over the fate of a Dutch-Iranian woman who was hanged for alleged drug smuggling. ](/news/2011/01/29/the-dutch-government-freezes-all-contacts-with-iran-in-protest-over-the-fate-of-a-dutch-iranian-woman-who-was-hanged-for-alleged-drug-smuggl.md)
@@ -59,9 +59,9 @@ _Context: China, helicopters_
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
 _Context: Mogadishu, Somalia_
 
-##### Afghan
+##### Afghanistan
 ### [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md)
-_Context: Afghan, Kandahar Province_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Russia
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)

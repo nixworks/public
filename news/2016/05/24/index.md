@@ -23,9 +23,9 @@ _Context: Attorney General, Charleston church shooting, Dylann Roof, Loretta Lyn
 ### [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing EUR1.6bn ($1.8bn; GBP1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing-a.md)
 French finance officials raid the Paris offices of US internet giant Google as part of a €1.6bn tax fraud investigation.
 
-##### U.S.
+##### United States
 ### [A court in the U.S. state of Pennsylvania finds that there is enough evidence to hold entertainer Bill Cosby on felony indecent assault charges in relation to the case of "Andrea Constand v. William H. Cosby, Jr.". ](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.md)
-_Context: Andrea Constand v. William H. Cosby, Jr., Bill Cosby, Pennsylvania, U.S._
+_Context: Andrea Constand v. William H. Cosby, Jr., Bill Cosby, Pennsylvania, United States_
 
 ##### European migrant crisis
 ### [Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. ](/news/2016/05/24/greek-authorities-begin-operations-to-clear-the-idomeni-refugee-camp-on-the-border-with-macedonia.md)
@@ -39,9 +39,9 @@ _Context: EgyptAir, EgyptAir Flight 804, Egyptian_
 ### [Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. ](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-after-a-jade-mine-collapses-in-the-myanmar-town-of-hpakant.md)
 YANGON: At least 11 people died in a landslide in a remote jade mining region of northern Myanmar with many more feared missing, authorities said Tuesday, the latest deadly incident to hit the shadowy industry.
 
-##### U.S.
+##### United States
 ### [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md)
-_Context: Bayer, German, Monsanto, U.S., agricultural biotechnology, agrochemical_
+_Context: Bayer, German, Monsanto, United States, agricultural biotechnology, agrochemical_
 
 ##### War in Donbass
 ### [ Seven Ukrainian servicemen are killed in suspected attacks by pro-Russian rebels. ](/news/2016/05/24/seven-ukrainian-servicemen-are-killed-in-suspected-attacks-by-pro-russian-rebels.md)

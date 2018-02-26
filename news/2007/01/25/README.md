@@ -3,9 +3,9 @@ Formats: [HTML](2007/01/25/index.html)  [JSON](2007/01/25/index.json)  [XML](200
 
 ## [2007-01-25](/news/2007/01/25/index.md)
 
-##### M<sub>w</sub>&nbsp;5.2
+##### Magnitude
 ### [ An earthquake measuring 6.2 M w strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-m-w-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md)
-_Context: M<sub>w</sub>&nbsp;5.2, Taiwan_
+_Context: Taiwan, magnitude_
 
 ##### Huautla de Jimnez
 ### [ Thirty-three people are killed when a bus plunges down a ravine near Huautla de Jimnez in the north of the Mexican state of Oaxaca. ](/news/2007/01/25/thirty-three-people-are-killed-when-a-bus-plunges-down-a-ravine-near-huautla-de-jimenez-in-the-north-of-the-mexican-state-of-oaxaca.md)

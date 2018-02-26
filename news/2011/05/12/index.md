@@ -61,7 +61,7 @@ Thousands of frustrate
 
 ##### ICC
 ### [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md)
-_Context: Djibouti, ICC, Omar al-Bashir, Security Council, Sudan, war crime_
+_Context: Djibouti, ICC, Omar al-Bashir, Sudan, United Nations Security Council, war crime_
 
 ##### Flooding
 ### [Flooding along the Mississippi River in the United States threatens $2-4 billion estimated damages. ](/news/2011/05/12/flooding-along-the-mississippi-river-in-the-united-states-threatens-2-4-billion-estimated-damages.md)

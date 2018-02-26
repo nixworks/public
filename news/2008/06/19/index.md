@@ -17,7 +17,7 @@ _Context: Gaza Strip, Hamas, Israel, Israel-Gaza conflict, government_
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak, the President of South Korea, apologises to South Koreans over an unpopular decision to resume importing beef from the United States. ](/news/2008/06/19/lee-myung-bak-the-president-of-south-korea-apologises-to-south-koreans-over-an-unpopular-decision-to-resume-importing-beef-from-the-unite.md)
-_Context: Lee Myung-bak, South Korea, South Korean President, U.S., beef imports_
+_Context: Lee Myung-bak, South Korea, South Korean president, United States, beef imports_
 
 ##### Zimbabwe
 ### [ Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others-on-a-wanted-list.md)
@@ -33,7 +33,7 @@ _Context: Christopher Dodd, Countrywide Financial Corp, Kent Conrad, bailout, ho
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
-_Context: Iraq, Mahmoud Ahmadinejad, President, U.S._
+_Context: Iraq, Mahmoud Ahmadinejad, President, United States_
 
 ##### Alabama
 ### [ An Alabama state judge upholds a fraud verdict against AstraZeneca Pharmaceuticals in a Medicaid drug pricing suit but reduces the value of damages to $160 million. ](/news/2008/06/19/an-alabama-state-judge-upholds-a-fraud-verdict-against-astrazeneca-pharmaceuticals-in-a-medicaid-drug-pricing-suit-but-reduces-the-value-of.md)

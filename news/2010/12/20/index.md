@@ -45,7 +45,7 @@ _Context: Israel, Palestine, UN_
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, IAEA, North Korea, U.S., United Nations_
+_Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev sets off for India for a two-day official visit to sign trade deals. ](/news/2010/12/20/president-of-russia-dmitry-medvedev-sets-off-for-india-for-a-two-day-official-visit-to-sign-trade-deals.md)
@@ -89,7 +89,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghan, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)

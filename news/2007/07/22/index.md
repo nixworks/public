@@ -37,7 +37,7 @@ _Context: Bangkok, Thailand_
 
 ##### Khurshid Kasuri
 ### [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strike.md)
-_Context: Al Qaeda, Khurshid Kasuri, Pakistan , Taliban, U.S._
+_Context: Al Qaeda, Khurshid Kasuri, Pakistan , Taliban, United States_
 
 ##### Gordon Brown
 ### [ Gordon Brown, the Prime Minister of the United Kingdom, holds an Emergency Cabinet meeting to discuss floods with the British Army called in to help in the worst affected areas of England and Wales. ](/news/2007/07/22/gordon-brown-the-prime-minister-of-the-united-kingdom-holds-an-emergency-cabinet-meeting-to-discuss-floods-with-the-british-army-called-i.md)

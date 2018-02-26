@@ -11,7 +11,7 @@ On Sunday (Oct. 16), the private spaceflight company Orbital ATK will launch one
 ### [China launches Shenzhou 11, the country's sixth manned spaceflight mission and the first one to the Tiangong-2 space laboratory, with two taikonauts on a 30-day mission. ](/news/2016/10/17/china-launches-shenzhou-11-the-country-s-sixth-manned-spaceflight-mission-and-the-first-one-to-the-tiangong-2-space-laboratory-with-two-ta.md)
 China will launch a two-man space mission, Shenzhou 11, on Monday, officials with the space program said, taking the country closer to its ambition of setting up a permanent manned space station by 2022.
 
-##### U.S.
+##### United States
 ### [American conservative undercover video producer James O'Keefe releases a series of videos allegedly showing conversations with, among others, Scott Foval, the former national field director of Americans United for Change, speaking about his hiring of people to sabotage rallies for Donald Trump by staging fights in them in a process Foval called "bird dogging". ](/news/2016/10/17/american-conservative-undercover-video-producer-james-o-keefe-releases-a-series-of-videos-allegedly-showing-conversations-with-among-others.md)
 Hillary Clinton haters find vindication — but no moral high-ground — in Project Veritas undercover investigation VIDEO 
 

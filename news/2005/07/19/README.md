@@ -25,7 +25,7 @@ _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone
 
 ##### Indian Prime Minister
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: India, Indian Prime Minister, Manmohan Singh, U.S., US Congress_
+_Context: India, Indian Prime Minister, Manmohan Singh, US Congress, United States_
 
 ##### Canadian Senate
 ### [ The Canadian Senate passes Bill C-38 to legalize same-sex marriage in Canada. The bill will become law when it receives Royal Assent from Governor General Adrienne Clarkson, scheduled for tomorrow. ](/news/2005/07/19/the-canadian-senate-passes-bill-c-38-to-legalize-same-sex-marriage-in-canada-the-bill-will-become-law-when-it-receives-royal-assent-from-g.md)

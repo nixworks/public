@@ -29,7 +29,7 @@ _Context: Epi village, North Waziristan, Pakistan, Peshawar, bazaar_
 
 ##### Supreme Court of the United States
 ### [ The United States Supreme Court dismisses the case of the German citizen Khalid El-Masri who accuses the CIA of abducting him to a secret prison in Afghanistan where he claims he was tortured. The US government had argued that a public trial would reveal state secrets. ](/news/2007/10/9/the-united-states-supreme-court-dismisses-the-case-of-the-german-citizen-khalid-el-masri-who-accuses-the-cia-of-abducting-him-to-a-secret-p.md)
-_Context: Afghan, CIA, German, Khalid El-Masri, Supreme Court of the United States_
+_Context: Afghanistan, CIA, German, Khalid El-Masri, Supreme Court of the United States_
 
 ##### Christian Von Wernich
 ### [ Christian Von Wernich, a Roman Catholic priest and former police chaplain is sentenced to a life sentence for his role in torture, kidnapping and murder during Argentina's dirty war. ](/news/2007/10/9/christian-von-wernich-a-roman-catholic-priest-and-former-police-chaplain-is-sentenced-to-a-life-sentence-for-his-role-in-torture-kidnappi.md)

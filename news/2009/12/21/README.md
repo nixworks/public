@@ -49,7 +49,7 @@ _Context: Bolivia, Mister International 2009, Taiwan_
 
 ##### United Nations
 ### [ The United Nations Security Council lifts an arms embargo on Liberia imposed during the reign of Charles Taylor in 2003. ](/news/2009/12/21/the-united-nations-security-council-lifts-an-arms-embargo-on-liberia-imposed-during-the-reign-of-charles-taylor-in-2003.md)
-_Context: Charles Taylor, Liberia, Security Council, United Nations, arms embargo_
+_Context: Charles Taylor, Liberia, United Nations, United Nations Security Council, arms embargo_
 
 ##### North Korea
 ### [ North Korea establishes a "peacetime firing zone" on the Northern Limit Line maritime border with South Korea, threatening to fire shells in South Korean territorial waters. ](/news/2009/12/21/north-korea-establishes-a-peacetime-firing-zone-on-the-northern-limit-line-maritime-border-with-south-korea-threatening-to-fire-shells-i.md)

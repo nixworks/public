@@ -31,7 +31,7 @@ _Context: Acropolis Museum, Athens, Greece_
 ### [ A New Zealand jury convicts Nai Yin Xue, who sparked an international hunt in 2007, of murdering his wife. ](/news/2009/06/20/a-new-zealand-jury-convicts-nai-yin-xue-who-sparked-an-international-hunt-in-2007-of-murdering-his-wife.md)
 _Context: Nai Yin Xue, New Zealand, convicts_
 
-##### U.S.
+##### United States
 ### [ The United States admits its forces failed to follow their own rules in an Afghan airstrike that may have led up to 140 civilian deaths. ](/news/2009/06/20/the-united-states-admits-its-forces-failed-to-follow-their-own-rules-in-an-afghan-airstrike-that-may-have-led-up-to-140-civilian-deaths.md)
 The US will order all its troops in Afghanistan to undergo new training after concluding that pilots violated orders in air strikes last month.
 

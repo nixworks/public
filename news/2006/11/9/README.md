@@ -45,7 +45,7 @@ _Context: Thailand_
 
 ##### Ken Mehlman
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, Republican, Republican National Committee, U.S._
+_Context: Ken Mehlman, Republican, Republican National Committee, United States_
 
 ## [Previous Day...](/news/2006/11/8/index.md)
 

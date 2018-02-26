@@ -45,11 +45,11 @@ A French cyclist who was shot dead alongside a British family in a massacre in t
 
 ##### Nobel Laureate
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, U.S._
+_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
 
-##### U.S.
+##### United States
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: Japan, U.S._
+_Context: Japan, United States_
 
 ##### Wikileaks
 ### [Swedish forensic scientists find no conclusive evidence of Wikileaks founder Julian Assange's DNA in a torn condom submitted by one of his alleged rape victims. The condom had been a key piece of evidence in Sweden's case against Assange. ](/news/2012/09/17/swedish-forensic-scientists-find-no-conclusive-evidence-of-wikileaks-founder-julian-assange-s-dna-in-a-torn-condom-submitted-by-one-of-his-a.md)
@@ -67,7 +67,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [ArcelorMittal announces the likely loss of two thousand cold process jobs in Lige, Belgium, after the failure of talks with unions. Unions say the steel maker wants to force an agreement before even starting talks. Wallonia wants to see the long-term plan. ](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.md)
 _Context: ArcelorMittal, Belgium, Lige, Wallonia, cold process, force an agreement before even starting talks, steel maker, unionize_
 
-##### U.S.
+##### United States
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
 President Barack Obama on Monday said the United States was challenging Chinese auto and auto-parts subsidies that threatened American jobs as he campaigned in Ohio, an auto manufacturing state that could be decisive in the November presidential election.
 
@@ -91,13 +91,13 @@ British author Sir Salman Rushdie says he does not think his 1988 novel The Sata
 ### [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md)
 _Context: David Cecil, Uganda, homosexuality_
 
-##### U.S.
+##### United States
 ### [The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-attack-in-benghazi.md)
 The protest in Libya that killed U.S. Ambassador Chris Stevens and three other Americans last week appears to have begun spontaneously and was &quot;hijacked&quot; by 
 
 ##### Syrian Civil War
 ### [Syrian Civil War: Human rights investigators from the United Nations expand a secret list of people in Syria suspected of committing war crimes. Diplomat Paulo Srgio Pinheiro urges the U.N. Security Council to bring the situation to the International Criminal Court. ](/news/2012/09/17/syrian-civil-war-human-rights-investigators-from-the-united-nations-expand-a-secret-list-of-people-in-syria-suspected-of-committing-war-cri.md)
-_Context: ICC, Paulo Srgio Pinheiro, Security Council, Syria, Syrian Civil War, United Nations, committing war crimes, suspected_
+_Context: ICC, Paulo Srgio Pinheiro, Syria, Syrian Civil War, United Nations, United Nations Security Council, committing war crimes, suspected_
 
 ## [Previous Day...](/news/2012/09/16/index.md)
 

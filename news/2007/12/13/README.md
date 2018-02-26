@@ -23,17 +23,17 @@ _Context: DR Congo, Kivu conflict, Laurent Nkunda_
 ### [ European Union leaders sign the Reform Treaty in Lisbon, Portugal. ](/news/2007/12/13/european-union-leaders-sign-the-reform-treaty-in-lisbon-portugal.md)
 _Context: European Union, Lisbon, Portugal, Treaty of Lisbon_
 
-##### U.S.
+##### United States
 ### [ A United States Marine Corps reservist is found guilty of killing an Iraqi soldier while they stood guard together in Fallujah. ](/news/2007/12/13/a-united-states-marine-corps-reservist-is-found-guilty-of-killing-an-iraqi-soldier-while-they-stood-guard-together-in-fallujah.md)
-_Context: Fallujah, Iraq, Marine, U.S., reservist_
+_Context: Fallujah, Iraq, Marine, United States, reservist_
 
-##### U.S.
+##### United States
 ### [ Former United States Senator George Mitchell releases a report detailing the use of banned substances by current and former Major League Baseball players. ](/news/2007/12/13/former-united-states-senator-george-mitchell-releases-a-report-detailing-the-use-of-banned-substances-by-current-and-former-major-league-ba.md)
-_Context: George J. Mitchell, Major League Baseball, Mitchell Report, U.S., United States Senate, current and former, performance-enhancing drugs_
+_Context: George J. Mitchell, Major League Baseball, Mitchell Report, United States, United States Senate, current and former, performance-enhancing drugs_
 
-##### U.S.
+##### United States
 ### [ The United States Senate passes an energy bill which would increase automobile fuel economy standards for the first time in three decades. ](/news/2007/12/13/the-united-states-senate-passes-an-energy-bill-which-would-increase-automobile-fuel-economy-standards-for-the-first-time-in-three-decades.md)
-_Context: U.S., United States Senate, energy bill, fuel economy_
+_Context: United States, United States Senate, energy bill, fuel economy_
 
 ##### Archaeological
 ### [ An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the "Quedagh Merchant", believed to have sunk in 1699, near Catalina Island, Dominican Republic. ](/news/2007/12/13/an-archaeological-expedition-from-indiana-university-finds-the-remains-of-william-kidd-s-ship-the-quedagh-merchant-believed-to-have-sun.md)

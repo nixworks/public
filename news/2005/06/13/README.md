@@ -13,7 +13,7 @@ _Context: Morocco, Spain_
 
 ##### Mexico
 ### [ In Mexico, army soldiers and federales take over the city of Nuevo Laredo near the US border. The whole local police force is detained for investigation in connection to drug trafficking and for drug testing. City's just-appointed police chief Alejandro Dominguez was assassinated last Wednesday. On Saturday, a policeman shot a federal agent ](/news/2005/06/13/in-mexico-army-soldiers-and-federales-take-over-the-city-of-nuevo-laredo-near-the-us-border-the-whole-local-police-force-is-detained-for.md)
-_Context: Mexico, Nuevo Laredo, U.S., drug testing, drug trafficking, federales, police_
+_Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
 
 ##### Nigeria
 ### [ In Nigeria, president Olusegun Obasanjo gives an order that all illegal oil refineries in the Niger River delta should be destroyed ](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.md)

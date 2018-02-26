@@ -9,7 +9,7 @@ _Context: Bruessel, European Union, Ireland, Treaty of Lisbon_
 
 ##### United States soldier
 ### [ A United States Army CH-47 Chinook helicopter crashes in southern Iraq killing seven United States soldiers. ](/news/2008/09/18/a-united-states-army-ch-47-chinook-helicopter-crashes-in-southern-iraq-killing-seven-united-states-soldiers.md)
-_Context: CH-47 Chinook, Iraq, U.S., United States soldier_
+_Context: CH-47 Chinook, Iraq, United States, United States soldier_
 
 ##### HBOS
 ### [ British bank Lloyds TSB completes a GBP12.2bn takeover of rival HBOS, the UK's largest mortgage lender. The Competition Commission has allowed the deal as it has government backing, despite the fact that it will leave Lloyd's HBOS in control of a third of the UK mortgage market. ](/news/2008/09/18/british-bank-lloyds-tsb-completes-a-gbp12-2bn-takeover-of-rival-hbos-the-uk-s-largest-mortgage-lender-the-competition-commission-has-allo.md)

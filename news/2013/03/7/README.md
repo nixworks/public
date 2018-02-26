@@ -7,7 +7,7 @@ Formats: [HTML](2013/03/7/index.html)  [JSON](2013/03/7/index.json)  [XML](2013/
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
 _Context: Bombardier Aerospace, CSeries jets, Montreal-Mirabel International Airport_
 
-##### U.S.
+##### United States
 ### [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md)
 Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assured him that the president cannot use a drone to kill a noncombatant American on U.S. soil -- an assurance Paul had sought during his 13-hour filibuster the day before. 
 
@@ -21,7 +21,7 @@ _Context: Australia, Denis Napthine, Premier, Ted Baillieu, Victoria_
 
 ##### Sulaiman Abu Ghaith
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, U.S., al-Qaeda_
+_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, United States, al-Qaeda_
 
 ##### Paralympic
 ### [Hilton Botha, the former lead detective in the murder case involving Paralympian Oscar Pistorius, has resigned from the South African Police Service. ](/news/2013/03/7/hilton-botha-the-former-lead-detective-in-the-murder-case-involving-paralympian-oscar-pistorius-has-resigned-from-the-south-african-police.md)

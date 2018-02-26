@@ -35,9 +35,9 @@ _Context: Senate of Australia, carbon pricing, carbon tax_
 ### [Journalists report comments by French President Nicolas Sarkozy to US President Barack Obama at the G20 summit in Cannes, in which Sarkozy called Israeli Prime Minister Benjamin Netanyahu a "liar". ](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.md)
 _Context: Barack Obama, Benjamin Netanyahu, French President, G20 summit in Cannes, Israel, Nicolas Sarkozy, US President_
 
-##### Chinese President
+##### President
 ### [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md)
-_Context: China, Chinese President, Hu Jintao, Tibetan, repressive policies in Tibet, sets herself alight_
+_Context: China, Hu Jintao, President, Tibetan, repressive policies in Tibet, sets herself alight_
 
 ##### IAEA
 ### [The International Atomic Energy Agency releases a report that says that Iran has carried out activities relevant to the development of a nuclear device, and that the project may still be under way. ](/news/2011/11/8/the-international-atomic-energy-agency-releases-a-report-that-says-that-iran-has-carried-out-activities-relevant-to-the-development-of-a-nuc.md)

@@ -13,7 +13,7 @@ _Context: 2008 Iwate earthquake, Honshu Island, Iwate Prefecture, Japan, Miyagi 
 
 ##### Farah Province
 ### [ A roadside bomb in Farah Province of Afghanistan kills 4 United States troops. ](/news/2008/06/14/a-roadside-bomb-in-farah-province-of-afghanistan-kills-4-united-states-troops.md)
-_Context: Afghan, Farah Province, Military of the United States_
+_Context: Afghanistan, Farah Province, Military of the United States_
 
 ##### Campsfield House
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)

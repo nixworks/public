@@ -11,9 +11,9 @@ Incumbent Paul Kagame expected to win easily as opposition claim intimidation.
 ### [Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. ](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.md)
 Protesters who have been holding a Bolivian city hostage for 10 days have now cut off the rail line to Chile and started a hunger strike.
 
-##### South Korean President
+##### South Korean president
 ### [The President of South Korea Lee Myung-Bak replaces the Prime Minister of South Korea Chung Un-chan with Kim Tae-ho as part of a Cabinet reshuffle with seven other ministers also being replaced. ](/news/2010/08/8/the-president-of-south-korea-lee-myung-bak-replaces-the-prime-minister-of-south-korea-chung-un-chan-with-kim-tae-ho-as-part-of-a-cabinet-res.md)
-_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-Bak, Prime Minister, South Korean President, forming a government_
+_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-Bak, Prime Minister, South Korean president, forming a government_
 
 ##### Mexico City
 ### [More than 1,000 journalists march through Mexico City in protest at the repeated killings and disappearances of their colleagues throughout Mexico. ](/news/2010/08/8/more-than-1-000-journalists-march-through-mexico-city-in-protest-at-the-repeated-killings-and-disappearances-of-their-colleagues-throughout.md)
@@ -119,7 +119,7 @@ _Context: Anatolian Agency, Mardin Province, Syria, Turkey, Turkish Army_
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
 _Context: Benjamin Netanyahu, Israeli Prime Minister, smear_
 
-##### U.S.
+##### United States
 ### [United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whether-the-lebanese-so.md)
 Florida congressman Ron Klein calls for US to stop military support.
 

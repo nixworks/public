@@ -59,7 +59,7 @@ _Context: Brooklyn, New York, New York City, tornado_
 ### [ A third outbreak of foot and mouth disease has been discovered in southern England but a ban of sending animals to slaughter is lifted in most of the country. ](/news/2007/08/8/a-third-outbreak-of-foot-and-mouth-disease-has-been-discovered-in-southern-england-but-a-ban-of-sending-animals-to-slaughter-is-lifted-in-m.md)
 _Context: England, foot and mouth disease_
 
-##### U.S.
+##### United States
 ### [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md)
 U.S. officials described it as the latest assault on a network linking Iraqi militants with money and bombs from Iran.
 

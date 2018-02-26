@@ -85,7 +85,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 
 ##### United States soldier
 ### [Four members of the United States Army are killed by a bomb in southern Afghanistan. ](/news/2011/05/16/four-members-of-the-united-states-army-are-killed-by-a-bomb-in-southern-afghanistan.md)
-_Context: Afghan, United States soldier_
+_Context: Afghanistan, United States soldier_
 
 ##### NATO
 ### [NATO forces find a small boat loaded with explosives outside the Libyan port of Misrata, with forces loyal to Muammar Gaddafi believed to be responsible. ](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.md)

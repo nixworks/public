@@ -41,7 +41,7 @@ The attack came a day after another suicide bombing killed nine people, among th
 
 ##### Alltel
 ### [ Alltel, a mobile phone provider in the United States, is acquired by TPG Capital, L.P. and Goldman Sachs leveraged-buyout unit. ](/news/2007/05/20/alltel-a-mobile-phone-provider-in-the-united-states-is-acquired-by-tpg-capital-l-p-and-goldman-sachs-leveraged-buyout-unit.md)
-_Context: Alltel, Goldman Sachs, TPG Capital, L.P., U.S., mobile phone_
+_Context: Alltel, Goldman Sachs, TPG Capital, L.P., United States, mobile phone_
 
 ## [Previous Day...](/news/2007/05/19/index.md)
 

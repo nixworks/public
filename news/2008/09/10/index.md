@@ -29,7 +29,7 @@ _Context: OPEC_
 
 ##### President of Bolivia
 ### [ President of Bolivia Evo Morales expels the United States ambassador, Philip Goldberg, for allegedly encouraging anti-government protests. ](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.md)
-_Context: Evo Morales, Philip Goldberg, President of Bolivia, U.S., ambassador_
+_Context: Evo Morales, Philip Goldberg, President of Bolivia, United States, ambassador_
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Republican candidate Ron Paul endorses third-party candidates Chuck Baldwin, Bob Barr, Cynthia McKinney and Ralph Nader, calling the two-party system a "charade.](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.md)

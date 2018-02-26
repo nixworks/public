@@ -19,7 +19,7 @@ _Context: Maori King, New Zealand, Te Atairangikaahu, Tuheitia Paki_
 ### [ A bomb goes off in a Moscow market, killing 10 and wounding about 40. Authorities are not ruling out terrorism. It appears to have been intentional. ](/news/2006/08/21/a-bomb-goes-off-in-a-moscow-market-killing-10-and-wounding-about-40-authorities-are-not-ruling-out-terrorism-it-appears-to-have-been-int.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ U.S. university Virginia Tech closed campus and canceled classes today, the first day of classes, during the search for a man who was suspected of murdering a hospital security guard and a police officer. The suspect, William Morva, is in custody. ](/news/2006/08/21/u-s-university-virginia-tech-closed-campus-and-canceled-classes-today-the-first-day-of-classes-during-the-search-for-a-man-who-was-suspe.md)
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.
 

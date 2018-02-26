@@ -11,7 +11,7 @@ _Context: China National Space Administration, Inner Mongolia, Jiuquan Satellite
 ### [Japan's Democratic Party elects Sha Renho as President. The House of Councillors member becomes the first female to head the opposition party. ](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.md)
 _Context: Democratic Party, House of Councillors, Japan, Sha Renho_
 
-##### House Intelligence Committee
+##### United States House Permanent Select Committee on Intelligence
 ### [The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. ](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a-summary-of-its-two-year-investigation-into-former-nsa-contractor-edward-snowden-which-downp.md)
 Bipartisan members of the House Intelligence Committee denounce Edward Snowden as a &quot;criminal&quot; who caused &quot;tremendous damage&quot; to U.S. national security.
 

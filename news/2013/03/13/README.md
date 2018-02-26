@@ -65,7 +65,7 @@ _Context: Damascus, European Union, Syria_
 
 ##### Kunduz province
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
-_Context: Afghan, Kunduz province_
+_Context: Afghanistan, Kunduz province_
 
 ##### Bemina
 ### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)

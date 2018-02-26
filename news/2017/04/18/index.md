@@ -63,9 +63,9 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 ### [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md)
 (4th UPDATE) A Leomarick Trans bus traveling from Isabela province to Ilocos Sur falls into a ravine in Carranglan town in Nueva Ecija
 
-##### U.S.
+##### United States
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: Bright Food, Chinese, Post Holdings, U.S., United Kingdom, Weetabix Limited, consumer goods_
+_Context: Bright Food, Chinese, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
 
 ##### Egypt
 ### [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500-yea.md)

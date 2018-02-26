@@ -23,7 +23,7 @@ A candidate who opposed a plan to move a U.S. air base won, raising pressure on 
 ### [Sri Lankan opposition candidate General Sarath Fonseka receives the support of former President Chandrika Kumaratunga in the 2010 presidential election. ](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.md)
 _Context: Chandrika Kumaratunga, General, President of Sri Lanka, Sarath Fonseka, Sri Lanka, opposition, presidential election_
 
-##### U.S.
+##### United States
 ### [A spokesman for U.S. President Barack Obama expresses the administration's support for a second term for the incumbent Chairman of the Federal Reserve, Ben Bernanke, and says lawmakers would send a bad message by "playing politics in any way" with Bernanke's confirmation. ](/news/2010/01/24/a-spokesman-for-u-s-president-barack-obama-expresses-the-administration-s-support-for-a-second-term-for-the-incumbent-chairman-of-the-feder.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
@@ -39,9 +39,9 @@ _Context: Black Eyed Peas, Cannes, French, NRJ Music Awards, Rihanna, Russian Ro
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
 _Context: North Korea, North Korea's nuclear program, South Korea, declaration of war, pre-emptive strike_
 
-##### Afghan
+##### Afghanistan
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghan, parliamentary election_
+_Context: Afghanistan, parliamentary election_
 
 ##### Osama Bin Laden
 ### [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md)
@@ -57,7 +57,7 @@ _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on l
 
 ##### China
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md)
-_Context: China, China Daily, Google, U.S., cyber attacks, government, hypocrisy_
+_Context: China, China Daily, Google, United States, cyber attacks, government, hypocrisy_
 
 ##### Gryfino
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)

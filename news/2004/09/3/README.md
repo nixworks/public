@@ -9,7 +9,7 @@ _Context: Bill Clinton, U.S. President, angiogram, coronary artery, heart bypass
 
 ##### Syria
 ### [ At the request of Syria, and in defiance of United Nations Security Council Resolution 1559, Lebanon amends its constitution to allow President mile Lahoud to serve an additional term. ](/news/2004/09/3/at-the-request-of-syria-and-in-defiance-of-united-nations-security-council-resolution-1559-lebanon-amends-its-constitution-to-allow-presi.md)
-_Context: Lebanese, Security Council, Syria, mile Lahoud_
+_Context: Lebanese, Syria, United Nations Security Council, mile Lahoud_
 
 ##### Taiwan Affairs Office
 ### [ The Taiwan Affairs Office of the State Council of the People's Republic of China criticizes Chen Shui-bian's recent suggestion that "Taiwan" is the best abbreviation for the Republic of China, characterizing it as an attempt to promote Taiwan independence. ](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.md)

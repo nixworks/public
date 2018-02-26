@@ -53,7 +53,7 @@ _Context: Margaret Chan, World Health Organisation, current outbreak, pandemic_
 
 ##### ConAgra Foods
 ### [ Three workers are missing after an explosion at a ConAgra Foods plant in Garner, North Carolina, United States. ](/news/2009/06/9/three-workers-are-missing-after-an-explosion-at-a-conagra-foods-plant-in-garner-north-carolina-united-states.md)
-_Context: ConAgra Foods, Garner, North Carolina, North Carolina, U.S._
+_Context: ConAgra Foods, Garner, North Carolina, North Carolina, United States_
 
 ##### Romania
 ### [ Romania's newly elected right-wing Greater Romania Party MEP George "Gigi" Becali is ordered by court not to leave the country. ](/news/2009/06/9/romania-s-newly-elected-right-wing-greater-romania-party-mep-george-gigi-becali-is-ordered-by-court-not-to-leave-the-country.md)

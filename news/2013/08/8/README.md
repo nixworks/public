@@ -23,7 +23,7 @@ _Context: Afmadow, African Union, Al-Shabaab, Somalia_
 ### [Three U.S. drone strikes in central and southern Yemen kill 12 suspected al-Qaida militants. ](/news/2013/08/8/three-u-s-drone-strikes-in-central-and-southern-yemen-kill-12-suspected-al-qaida-militants.md)
 _Context: Yemen, al-Qaida_
 
-##### Afghan
+##### Afghanistan
 ### [A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md)
 A bomb kills 12 women and two children in eastern Afghanistan as they visit a grave on the Muslim holiday of Eid al-Fitr.
 

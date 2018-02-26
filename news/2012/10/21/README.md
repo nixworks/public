@@ -3,7 +3,7 @@ Formats: [HTML](2012/10/21/index.html)  [JSON](2012/10/21/index.json)  [XML](201
 
 ## [2012-10-21](/news/2012/10/21/index.md)
 
-##### U.S.
+##### United States
 ### [Former United States Senator and 1972 Democratic presidential nominee George McGovern dies at the age of 90 in Sioux Falls. ](/news/2012/10/21/former-united-states-senator-and-1972-democratic-presidential-nominee-george-mcgovern-dies-at-the-age-of-90-in-sioux-falls.md)
 To the liberal Democratic faithful, Mr. McGovern remained a standard-bearer well into old age, writing and lecturing even as his name was routinely invoked by conservatives as synonymous with what they considered the failures of liberal politics.
 

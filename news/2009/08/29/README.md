@@ -3,9 +3,9 @@ Formats: [HTML](2009/08/29/index.html)  [JSON](2009/08/29/index.json)  [XML](200
 
 ## [2009-08-29](/news/2009/08/29/index.md)
 
-##### U.S.
+##### United States
 ### [ Seven people are found dead in the US state of Georgia and two are seriously wounded in one of the worst slayings in the state in 25 years.](/news/2009/08/29/seven-people-are-found-dead-in-the-us-state-of-georgia-and-two-are-seriously-wounded-in-one-of-the-worst-slayings-in-the-state-in-25-years.md)
-_Context: U.S., worst slayings_
+_Context: United States, worst slayings_
 
 ##### Peacekeeping mission
 ### [ Two civilian members of the UNAMID peacekeeping force are kidnapped by armed men in Darfur, Sudan. ](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.md)

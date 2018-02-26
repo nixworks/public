@@ -39,7 +39,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
 _Context: French, Russia_
 
-##### Afghan
+##### Afghanistan
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)
 Three countries to hold joint military exercises in April, agree to cooperate on anti-narcotics operations.
 
@@ -85,7 +85,7 @@ _Context: BBC Radio 4, Christmas, Pope Benedict XVI, Thought for the Day, United
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
-_Context: Afghan, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
+_Context: Afghanistan, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
 
 ##### Hizbul Islam
 ### [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md)

@@ -47,9 +47,9 @@ Trooper Michael Slagle reportedly suffered a fatal heart attack during the incid
 ### [Tropical Cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
 Torrential rain has caused widespread flooding in the Australian state of Queensland.
 
-##### U.S.
+##### United States
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: Stephen King, U.S., essay, gun control, mass shooting_
+_Context: Stephen King, United States, essay, gun control, mass shooting_
 
 ##### Ongoing protests
 ### [Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/ongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly-as-clashes-leave-7-protester.md)

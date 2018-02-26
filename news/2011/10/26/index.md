@@ -45,7 +45,7 @@ _Context: Cancun, Hurricane Rina, Mexico_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: Japan, Olympus Corp, Tsuyoshi Kikukawa, U.S., United Kingdom_
+_Context: Japan, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom, United States_
 
 ##### Composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
@@ -59,9 +59,9 @@ _Context: Amy Winehouse, British, alcohol poisoning, coroner, soul music_
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
 _Context: Bollywood, Diwali, Hindu, India, Ra.One_
 
-##### Afghan
+##### Afghanistan
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghan, Parwan province_
+_Context: Afghanistan, Parwan province_
 
 ##### Syria
 ### [2011 Syrian uprising: At least 17 people are reported dead in Syria, as fighting continues between the government and opposition groups. ](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.md)

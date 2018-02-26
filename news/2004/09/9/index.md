@@ -17,7 +17,7 @@ _Context: Costa Rica_
 
 ##### Taliban
 ### [ Seventy suspected Taliban or Al Qaida terrorists are said to have been killed in a Pakistani air raid close to the Pakistan-Afghanistan border. Several civilians are also believed to have been killed. ](/news/2004/09/9/seventy-suspected-taliban-or-al-qaida-terrorists-are-said-to-have-been-killed-in-a-pakistani-air-raid-close-to-the-pakistan-afghanistan-bor.md)
-_Context: Afghan, Al Qaida's, Pakistan, Taliban, airstrike, civilian, terrorism_
+_Context: Afghanistan, Al Qaida's, Pakistan, Taliban, airstrike, civilian, terrorism_
 
 ##### Iraq
 ### [ U.S. and Iraqi forces have launched an offensive to drive insurgents out of the northern Iraqi town of Talafar. Hospital sources say at least 17 people have been killed including several women and children. ](/news/2004/09/9/u-s-and-iraqi-forces-have-launched-an-offensive-to-drive-insurgents-out-of-the-northern-iraqi-town-of-talafar-hospital-sources-say-at-lea.md)

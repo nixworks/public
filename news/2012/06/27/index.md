@@ -51,7 +51,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 ### [The Glastonbury Festival and promoters Festival Republic "go their separate ways" after working together since 2001. ](/news/2012/06/27/the-glastonbury-festival-and-promoters-festival-republic-go-their-separate-ways-after-working-together-since-2001.md)
 The Glastonbury festival and promoters Festival Republic to &quot;go their separate ways&quot; after working together since 2001, it is announced.
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills five in Pakistan. ](/news/2012/06/27/a-united-states-drone-attack-kills-five-in-pakistan.md)
 Missiles target compound in South Waziristan allegedly being used by warlord Hafiz Gul Bahadur.
 

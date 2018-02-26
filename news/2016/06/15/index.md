@@ -9,7 +9,7 @@ Following February’s historic announcement, LIGO has again spotted ripples in 
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ##### House of Commons
 ### [The Canadian House of Commons approves a bill to make the lyrics in the country's national anthem gender neutral. The bill would change the words in "O Canada" from "in all thy sons command" to "in all of us command." ](/news/2016/06/15/the-canadian-house-of-commons-approves-a-bill-to-make-the-lyrics-in-the-country-s-national-anthem-gender-neutral-the-bill-would-change-the.md)

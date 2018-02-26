@@ -15,7 +15,7 @@ News and updates on Europe&#039;s Service Module for NASA&#039;s Orion spacecraf
 ### [Tens of thousands of India's poorest farmers march more than 300 kilometers to Delhi in a "Jan Satyagraha" to demand land reform under the banner of Ekta Parishad. ](/news/2012/10/3/tens-of-thousands-of-india-s-poorest-farmers-march-more-than-300-kilometers-to-delhi-in-a-jan-satyagraha-to-demand-land-reform-under-the-b.md)
 Tens of thousands of Indian peasants began a 350-kilometre march to New Delhi to protest the plight of marginalised communities. -AFP
 
-##### U.S.
+##### United States
 ### [Politicians in the United States begin a probe into the attack on the U.S. Consulate in Benghazi, Libya, on September 11. Walid Faraj, a surviving witness of the attack, has not yet been interrogated. ](/news/2012/10/3/politicians-in-the-united-states-begin-a-probe-into-the-attack-on-the-u-s-consulate-in-benghazi-libya-on-september-11-walid-faraj-a-sur.md)
 The U.S. ambassador to Libya died in a smoke-filled tomb while his colleagues escaped the American diplomatic post in Benghazi when it was attacked by Islamist gunmen, according to a reconstruction of his final hours.
 

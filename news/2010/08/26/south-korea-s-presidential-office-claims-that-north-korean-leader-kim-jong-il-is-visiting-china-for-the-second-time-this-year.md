@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/26/south-korea-s-presidential-office-claims-that-n
 
 ### [2010-08-26](/news/2010/08/26/index.md)
 
-##### South Korean President
+##### South Korean president
 # South Korea's presidential office claims that North Korean leader Kim Jong-il is visiting China for the second time this year. 
 
 South Korean media quotes officials suspecting Kim Jong-Il has travelled to neighbour.

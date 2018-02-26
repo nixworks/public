@@ -21,7 +21,7 @@ _Context: Obama administration, abortion, health care, regulation_
 
 ##### Washington Post
 ### [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md)
-_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, U.S., Washington Post_
+_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, United States, Washington Post_
 
 ##### Uganda
 ### [Voters in Uganda go to the polls for the Ugandan general election. ](/news/2011/02/18/voters-in-uganda-go-to-the-polls-for-the-ugandan-general-election.md)
@@ -33,7 +33,7 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 
 ##### Madeleine McCann
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: Madeleine McCann, Portugal, U.S._
+_Context: Madeleine McCann, Portugal, United States_
 
 ##### Turkey
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
@@ -109,7 +109,7 @@ _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Vete
 
 ##### Kunar Province
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghan, Kunar Province_
+_Context: Afghanistan, Kunar Province_
 
 ##### Panama
 ### [Police and indigenous protesters clash in Panama during a protest against changes to the country's mining law. ](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.md)

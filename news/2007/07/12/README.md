@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/12/index.html)  [JSON](2007/07/12/index.json)  [XML](200
 
 ##### Press conference
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA, CIA leak scandal, George W. Bush, U.S., U.S. President, Valerie Plame, press conference_
+_Context: CIA, CIA leak scandal, George W. Bush, U.S. President, United States, Valerie Plame, press conference_
 
 ##### Politics of Liberia
 ### [ The government of Liberia submits a bill to the Parliament which would allow the seizure of the assets of former President Charles G. Taylor, his relatives and associates. ](/news/2007/07/12/the-government-of-liberia-submits-a-bill-to-the-parliament-which-would-allow-the-seizure-of-the-assets-of-former-president-charles-g-taylo.md)
@@ -39,9 +39,9 @@ _Context: Jungfrau, Swiss Army, Switzerland, avalanche, recruits_
 ### [ An Israeli soldier is killed by Hamas forces in the Gaza Strip. It is the first Israeli combat casualty since November 2006. ](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.md)
 JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a military incursion in the central Gaza Strip, an army spokesman said. He was the first Israeli killed in combat since November 2006.
 
-##### Afghan
+##### Afghanistan
 ### [ Six Afghan policemen are killed by an improvised explosive device in the Khost Province. Another IED kills two civilians in the Paktika Province. ](/news/2007/07/12/six-afghan-policemen-are-killed-by-an-improvised-explosive-device-in-the-khost-province-another-ied-kills-two-civilians-in-the-paktika-pro.md)
-_Context: Afghan, Khost, Paktika Province, improvised explosive device_
+_Context: Afghanistan, Khost, Paktika Province, improvised explosive device_
 
 ##### National Counterterrorism Center
 ### [ A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)

@@ -29,7 +29,7 @@ _Context: Ankara, Istanbul, Turkish police, ongoing protests, tear gas_
 
 ##### War in Afghanistan (2001-present)
 ### [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md)
-_Context: Afghan, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_
+_Context: Afghanistan, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_
 
 ##### Taliban
 ### [Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-deaths-of-14-militants-and-one.md)

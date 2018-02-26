@@ -73,7 +73,7 @@ US troops accompanied Somali forces in a helicopter raid against Shebab insurgen
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: Afghan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghanistan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ## [Previous Day...](/news/2016/03/8/index.md)
 

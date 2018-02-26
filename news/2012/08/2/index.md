@@ -55,9 +55,9 @@ _Context: D'Arros Island, French, L'Oreal, Liliane Bettencourt_
 ### [At least 23 people are injured as two blasts hit a fruit market in Pakistan's eastern city of Lahore. ](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.md)
 _Context: Lahore, Pakistan_
 
-##### Afghan
+##### Afghanistan
 ### [Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ##### Barack Obama
 ### [A United States government source reveals that Barack Obama signed a secret order in early 2012 permitting the CIA and other U.S. agencies to provide the rebels in Syria with support in order to overthrow the al-Assad regime. ](/news/2012/08/2/a-united-states-government-source-reveals-that-barack-obama-signed-a-secret-order-in-early-2012-permitting-the-cia-and-other-u-s-agencies-t.md)

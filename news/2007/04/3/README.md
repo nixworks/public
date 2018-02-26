@@ -21,7 +21,7 @@ _Context: 2007, Colorado State University, hurricane, tropical storm_
 
 ##### South Asian Association for Regional Cooperation
 ### [ The 14th annual summit of the South Asian Association for Regional Cooperation (SAARC) begins in New Delhi, India, and Afghanistan becomes its 8th member. ](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.md)
-_Context: Afghan, India, New Delhi, South Asian Association for Regional Cooperation_
+_Context: Afghanistan, India, New Delhi, South Asian Association for Regional Cooperation_
 
 ##### United States Speaker of the House of Representatives
 ### [ United States Speaker of the House of Representatives Nancy Pelosi travels to Syria for talks with President Bashar al-Assad as she continues a visit to the Middle East disregarding the objections of the Bush administration. ](/news/2007/04/3/united-states-speaker-of-the-house-of-representatives-nancy-pelosi-travels-to-syria-for-talks-with-president-bashar-al-assad-as-she-continu.md)

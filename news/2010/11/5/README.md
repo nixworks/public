@@ -33,11 +33,11 @@ _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
 
 ##### Peru
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lima, Lori Berenson, Peru, U.S._
+_Context: Lima, Lori Berenson, Peru, United States_
 
 ##### Government of Norway
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: Government of Norway, Norway, Oslo, U.S., United States government_
+_Context: Government of Norway, Norway, Oslo, United States, United States government_
 
 ##### Greece
 ### [Greece resumes shipping mail and packages overseas following a 48-hour suspension imposed following a spate of parcel bombs sent to embassies in Athens and to European Union leaders. ](/news/2010/11/5/greece-resumes-shipping-mail-and-packages-overseas-following-a-48-hour-suspension-imposed-following-a-spate-of-parcel-bombs-sent-to-embassie.md)

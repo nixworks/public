@@ -37,7 +37,7 @@ Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.
 
 ##### Cuba
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Cuba, Hillary Clinton, Ricardo Alarcon, U.S._
+_Context: Cuba, Hillary Clinton, Ricardo Alarcon, United States_
 
 ##### Ladies in White
 ### [The Ladies in White are stopped from marching in Havana but stand silently instead. ](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.md)
@@ -57,7 +57,7 @@ Thousands of demonstrators demand an end to the religious-based political system
 
 ##### Okinawa
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: Japan, Okinawa, U.S._
+_Context: Japan, Okinawa, United States_
 
 ##### Heinz Fischer
 ### [Heinz Fischer wins the Austrian presidential election, 2010. ](/news/2010/04/25/heinz-fischer-wins-the-austrian-presidential-election-2010.md)

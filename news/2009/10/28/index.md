@@ -13,7 +13,7 @@ Federal authorities said that a leader of what they called a radical group was k
 
 ##### Matthew Shepard Act
 ### [ The Matthew Shepard Act, providing legal protection against hate crimes to lesbian, gay, bisexual, and transgendered people, is signed into law in the United States by President Barack Obama. ](/news/2009/10/28/the-matthew-shepard-act-providing-legal-protection-against-hate-crimes-to-lesbian-gay-bisexual-and-transgendered-people-is-signed-into.md)
-_Context: Barack Obama, Matthew Shepard Act, U.S., gay and bisexual men, hate crimes_
+_Context: Barack Obama, Matthew Shepard Act, United States, gay and bisexual men, hate crimes_
 
 ##### Democratic Party
 ### [ The main opposition Democratic Party wins three out of five seats in by-elections in South Korea. ](/news/2009/10/28/the-main-opposition-democratic-party-wins-three-out-of-five-seats-in-by-elections-in-south-korea.md)
@@ -53,7 +53,7 @@ _Context: German, Heinrich Boere, Nazi, Netherlands_
 
 ##### United Nations
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)
-_Context: Afghan, Kabul, Taliban, United Nations, assault an international guesthouse_
+_Context: Afghanistan, Kabul, Taliban, United Nations, assault an international guesthouse_
 
 ##### Blast
 ### [ A blast in Meena Bazar, Peshawar, Pakistan, kills at least 95 people while 110 are injured. ](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.md)

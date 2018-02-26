@@ -45,7 +45,7 @@ Poland on Friday approved a law making chemical castration mandatory for pedophi
 
 ##### Spain
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, U.S._
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, United States_
 
 ## [Previous Day...](/news/2009/09/24/index.md)
 

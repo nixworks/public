@@ -77,7 +77,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 
 ##### Syrian Civil War
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, U.S._
+_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
 ##### India-Pakistan military confrontation (2016-present)
 ### [Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)

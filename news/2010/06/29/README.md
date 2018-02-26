@@ -67,7 +67,7 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 ### [Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md)
 Rescue workers say there is little chance of finding more survivors after a gold mine collapsed in Ghana, trapping dozens.
 
-##### U.S.
+##### United States
 ### [The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md)
 The US Supreme Court gives Nigerian families the green light to sue Pfizer over the use of a new antibiotic on their children.
 

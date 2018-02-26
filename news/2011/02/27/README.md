@@ -43,7 +43,7 @@ Sudanese riot police and security agents surrounded organizers of a protest agai
 ### [ Oman: Police clash with anti-government protesters in Sohar, leaving two people dead. ](/news/2011/02/27/oman-police-clash-with-anti-government-protesters-in-sohar-leaving-two-people-dead.md)
 At least two people killed in industrial town of Sohar as police clash with anti-government demonstrators.
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council adopts Resolution 1970, imposing sanctions on Muammar Gaddafi's regime. ](/news/2011/02/27/the-united-nations-security-council-adopts-resolution-1970-imposing-sanctions-on-muammar-gaddafi-s-regime.md)
 Forces fighting to oust the Libyan leader Col Muammar Gaddafi seize control of Zawiya, as refugees stream out of the country.
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/10/index.html)  [JSON](2009/08/10/index.json)  [XML](200
 
 ##### Namibia
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: China, Chinese President, Hu Jintao, Namibia, Windhoek_
+_Context: China, Hu Jintao, Namibia, President, Windhoek_
 
 ##### Ecuador
 ### [ Ecuador's Health Minister Caroline Chang says South America's twelve nations have pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A-H1N1 flu pandemic. ](/news/2009/08/10/ecuadoras-health-minister-caroline-chang-says-south-americaas-twelve-nations-have-pledged-to-respect-regional-vaccine-price-ceilings-to.md)
@@ -53,7 +53,7 @@ Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowi
 
 ##### Africa
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: Africa, Bill Clinton, DR Congo, Hillary Clinton, U.S., United States Secretary of State_
+_Context: Africa, Bill Clinton, DR Congo, Hillary Clinton, United States, United States Secretary of State_
 
 ##### Joseph Msika
 ### [ At the funeral of Vice-President Joseph Msika, President Robert Mugabe lashes out at "racist" western countries, saying "Zimbabwe need not be tied to any one corner of the world, least of all, to a corner of former imperialist and racist colonisers". ](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.md)

@@ -9,7 +9,7 @@ _Context: GBP, India, astronaut, outer space, plan_
 
 ##### South Korea
 ### [ South Korea's Defense Ministry reports that North Korea has medium-range ballistic missiles capable of striking U.S. military bases. ](/news/2009/02/23/south-korea-s-defense-ministry-reports-that-north-korea-has-medium-range-ballistic-missiles-capable-of-striking-u-s-military-bases.md)
-_Context: Defence Ministry, North Korea, South Korea, U.S., United States military personnel, ballistic missile, medium-range missile, military installations_
+_Context: Defence Ministry, North Korea, South Korea, United States, United States military personnel, ballistic missile, medium-range missile, military installations_
 
 ##### Ethiopia
 ### [ Ethiopian national Benyam Mohammed is released from Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/23/ethiopian-national-benyam-mohammed-is-released-from-guantanamo-bay-naval-base-s-detention-camp.md)
@@ -41,7 +41,7 @@ _Context: Antarctica, Latham 47, Norway, Roald Amundsen, Royal Navy, explorer, f
 
 ##### MP
 ### [ Member of Parliament Peter Archer's report into the United Kingdom's tainted blood scandal chiefly blames United States pharmaceutical companies that provided contaminated blood plasma, thus infecting approximately 5,700 hemophiliacs with HIV or hepatitis C. ](/news/2009/02/23/member-of-parliament-peter-archer-s-report-into-the-united-kingdom-s-tainted-blood-scandal-chiefly-blames-united-states-pharmaceutical-comp.md)
-_Context: HIV, MP, Parliament, Peter Archer, U.S., United Kingdom, blood plasma, contaminated, hemophiliacs, hepatitis C, infecting, pharmaceutical companies, tainted blood scandal_
+_Context: HIV, MP, Parliament, Peter Archer, United Kingdom, United States, blood plasma, contaminated, hemophiliacs, hepatitis C, infecting, pharmaceutical companies, tainted blood scandal_
 
 ## [Previous Day...](/news/2009/02/22/index.md)
 

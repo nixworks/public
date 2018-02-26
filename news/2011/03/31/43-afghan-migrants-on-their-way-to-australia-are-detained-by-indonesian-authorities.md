@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-ar
 
 ### [2011-03-31](/news/2011/03/31/index.md)
 
-##### Afghan
+##### Afghanistan
 # 43 Afghan migrants on their way to Australia are detained by Indonesian authorities. 
 
 
@@ -19,4 +19,4 @@ Formats: [HTML](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-ar
 2. [An Indonesian court rejects Andrew Chan's and Myuran Sukumaran's appeal against the President of Indonesia Joko Widodo's refusal to grant them clemency against the death penalty as organisers of the Bali Nine plot to smuggle heroin to Australia in 2005. ](/news/2015/04/6/an-indonesian-court-rejects-andrew-chan-s-and-myuran-sukumaran-s-appeal-against-the-president-of-indonesia-joko-widodo-s-refusal-to-grant-th.md) _Context: Australia, Indonesia_
 3. [Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. ](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.md) _Context: Australia, Indonesia_
 4. [Australia apologizes to Indonesia for breaching its territorial waters while conducting operations against people smugglers in Operation Sovereign Borders. ](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.md) _Context: Australia, Indonesia_
-5. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _Context: Afghan, Australia_
+5. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _Context: Afghanistan, Australia_

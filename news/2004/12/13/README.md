@@ -13,7 +13,7 @@ _Context: Cairo, Egypt, Hosni Mubarak_
 
 ##### Foreign policy of the George W. Bush administration
 ### [ Foreign policy of the George W. Bush administration: Human Rights Watch, a New York-based NGO claims that another three prisoners have died while in U.S. detention in Afghanistan. ](/news/2004/12/13/foreign-policy-of-the-george-w-bush-administration-human-rights-watch-a-new-york-based-ngo-claims-that-another-three-prisoners-have-died.md)
-_Context: Afghan, Foreign policy of the George W. Bush administration, Human Rights Watch, NGO_
+_Context: Afghanistan, Foreign policy of the George W. Bush administration, Human Rights Watch, NGO_
 
 ##### Car bomb
 ### [ At least 13 people die following a car bomb attack on a U.S. checkpoint near the Green Zone in Baghdad, Iraq. ](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.md)

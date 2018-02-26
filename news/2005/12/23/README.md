@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/23/index.html)  [JSON](2005/12/23/index.json)  [XML](200
 
 ##### U.S. News and World Report
 ### [ "U.S. News and World Report" claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-11.md)
-_Context: September 11, 2001 attacks, U.S., U.S. News and World Report, mosque, radiation_
+_Context: September 11, 2001 attacks, U.S. News and World Report, United States, mosque, radiation_
 
 ##### Lech Kaczynski
 ### [ Lech Kaczynski was sworn in as President of the Republic of Poland. ](/news/2005/12/23/lech-kaczyaski-was-sworn-in-as-president-of-the-republic-of-poland.md)

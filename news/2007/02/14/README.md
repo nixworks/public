@@ -17,7 +17,7 @@ _Context: Iran, Islamic Revolutionary Guards Corps, Zahedan, car bomb_
 
 ##### Chinese
 ### [ The foreign ministers of China, India and Russia meet in New Delhi, India to discuss greater cooperation between the three Asian countries on issues including terrorism, drug trafficking and Afghanistan. ](/news/2007/02/14/the-foreign-ministers-of-china-india-and-russia-meet-in-new-delhi-india-to-discuss-greater-cooperation-between-the-three-asian-countries.md)
-_Context: Afghan, Asia, Chinese, India, New Delhi, India, Russia, drug trafficking, terrorism_
+_Context: Afghanistan, Asia, Chinese, India, New Delhi, India, Russia, drug trafficking, terrorism_
 
 ##### Gurbanguly Berdimuhamedow
 ### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
@@ -59,9 +59,9 @@ _Context: Kosovo, Parliament of Serbia, United Nations_
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghan, Taliban, U.S., redeploys_
+_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
 
 ## [Previous Day...](/news/2007/02/13/index.md)
 

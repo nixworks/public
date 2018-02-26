@@ -23,7 +23,7 @@ _Context: Mohamed Morsi, Muslim Brotherhood, presidential election_
 ### [Imprisoned U.S. serviceman Bradley Manning's civilian lawyer argues the U.S. government is deliberately attempting to prevent his client from receiving a fair trial. ](/news/2012/06/24/imprisoned-u-s-serviceman-bradley-manning-s-civilian-lawyer-argues-the-u-s-government-is-deliberately-attempting-to-prevent-his-client-fro.md)
 _Context: Bradley Manning_
 
-##### U.S.
+##### United States
 ### [The United States admits that it infected Iranian computers with Spyware. ](/news/2012/06/24/the-united-states-admits-that-it-infected-iranian-computers-with-spyware.md)
 The massive piece of malware was designed to secretly map Iran&rsquo;s computer networks and monitor the computers of Iranian officials, according to officials.
 

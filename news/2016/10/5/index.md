@@ -41,7 +41,7 @@ A global agreement to combat climate change will take force after support from E
 
 ##### United Nations Secretary-General selection, 2016
 ### [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md)
-_Context: Antonio Guterres, General Assembly, Portuguese, Security Council, United Nations Secretary-General, United Nations Secretary-General selection, 2016_
+_Context: Antonio Guterres, General Assembly, Portuguese, United Nations Secretary-General, United Nations Secretary-General selection, 2016, United Nations Security Council_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km-h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md)

@@ -13,7 +13,7 @@ _Context: Baghdad, improvised explosive device_
 
 ##### Pakistan
 ### [ Pakistan's information minister claims Pakistani forces have killed al-Qaeda operational commander Abu Hamza Rabia in fighting along the Afghanistan border. ](/news/2005/12/3/pakistan-s-information-minister-claims-pakistani-forces-have-killed-al-qaeda-operational-commander-abu-hamza-rabia-in-fighting-along-the-af.md)
-_Context: Abu Hamza Rabia, Afghan, Pakistan_
+_Context: Abu Hamza Rabia, Afghanistan, Pakistan_
 
 ##### Recent elections
 ### [ ROC local elections, 2005: Republic of China (Taiwan) opposition party Kuomintang (Chinese Nationalist Party) makes major gains in municipal elections, taking 14 of 23 mayor or county magistrate seats. Ruling Democratic Progressive Party takes six seats. People First Party and New Party each takes one seat, and an independent wins one seat. DPP chairman Su Tseng-chang resigns to take responsibility for his party's defeat. ](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwan-opposition-party-kuomintang-chinese-nationalist-party-makes-major-gains-in-municipa.md)

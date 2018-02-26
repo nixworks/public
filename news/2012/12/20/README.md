@@ -47,7 +47,7 @@ _Context: Apple Inc., U.S., mobile device, patent, pinch-to-zoom gestures_
 ### [The New York Stock Exchange, the largest stock exchange in the United States and the world, is sold to Atlanta-based IntercontinentalExchange. ](/news/2012/12/20/the-new-york-stock-exchange-the-largest-stock-exchange-in-the-united-states-and-the-world-is-sold-to-atlanta-based-intercontinentalexchang.md)
 Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid historic shift to electronic trading
 
-##### Security Council
+##### United Nations Security Council
 ### [The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/the-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islamists-and-help-reunify-the-cou.md)
 The&#x20;UN&#x20;Security&#x20;Council&#x20;has&#x20;authorised&#x20;military&#x20;action&#x20;to&#x20;retake&#x20;northern&#x20;Mali&#x20;from&#x20;al&#x20;Qaeda-linked&#x20;extremists&#x20;who&#x20;took&#x20;advantage&#x20;of&#x20;a&#x20;March&#x20;coup&#x20;to&#x20;impose&#x20;a&#x20;brutal&#x20;...
 

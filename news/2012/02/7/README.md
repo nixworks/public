@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/7/index.html)  [JSON](2012/02/7/index.json)  [XML](2012/
 
 ##### Congress
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: Congress, U.S., drone aircraft_
+_Context: Congress, United States, drone aircraft_
 
 ##### Law
 ### [An anti-gay bill is reintroduced in the Ugandan parliament after it was previously withdrawn. ](/news/2012/02/7/an-anti-gay-bill-is-reintroduced-in-the-ugandan-parliament-after-it-was-previously-withdrawn.md)
@@ -23,9 +23,9 @@ _Context: Claude Gueant, National Assembly, Nazi, PS, Serge Letchimy, government
 ### [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md)
 US conservative Rick Santorum wins races for the Republican presidential nomination in three states, upsetting front-runner Mitt Romney.
 
-##### U.S.
+##### United States
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
-_Context: 2011 alleged Iran assassination plot, Saudi Arabia, U.S._
+_Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit overturns California's Proposition 8 banning gay marriage in that state. ](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.md)

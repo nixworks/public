@@ -41,11 +41,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Indonesia
 ### [Indonesia suspends imports of beef from the United States after a dairy cow with mad cow disease is discovered in California. ](/news/2012/04/26/indonesia-suspends-imports-of-beef-from-the-united-states-after-a-dairy-cow-with-mad-cow-disease-is-discovered-in-california.md)
-_Context: California, Indonesia, U.S., mad cow disease_
+_Context: California, Indonesia, United States, mad cow disease_
 
 ##### United States military personnel
 ### [Three members of the United States Armed Forces are killed in a bombing in eastern Afghanistan. ](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.md)
-_Context: Afghan, United States military personnel_
+_Context: Afghanistan, United States military personnel_
 
 ##### Nigeria
 ### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the "This Day" newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day-ne.md)

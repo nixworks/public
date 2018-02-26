@@ -3,13 +3,13 @@ Formats: [HTML](2008/01/15/index.html)  [JSON](2008/01/15/index.json)  [XML](200
 
 ## [2008-01-15](/news/2008/01/15/index.md)
 
-##### U.S.
+##### United States
 ### [ The U.S. Food and Drug Administration allows the production and sale of foods derived from cloned animals. ](/news/2008/01/15/the-u-s-food-and-drug-administration-allows-the-production-and-sale-of-foods-derived-from-cloned-animals.md)
-_Context: Food and Drug Administration, U.S., cloning_
+_Context: Food and Drug Administration, United States, cloning_
 
 ##### War in Afghanistan
 ### [ War in Afghanistan (2001-present): The Pentagon announces plans to send 3,200 additional Marines to Afghanistan. ](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.md)
-_Context: Afghan, Marines, United States military, War in Afghanistan_
+_Context: Afghanistan, Marines, United States military, War in Afghanistan_
 
 ##### Bombing of northern Iraq
 ### [ Bombing of northern Iraq: Turkish warplanes bomb Kurdish rebel hideouts in northern Iraq, in the fourth aerial attack on rebel positions since the military launched a bombing campaign on 16 December. ](/news/2008/01/15/bombing-of-northern-iraq-turkish-warplanes-bomb-kurdish-rebel-hideouts-in-northern-iraq-in-the-fourth-aerial-attack-on-rebel-positions-si.md)

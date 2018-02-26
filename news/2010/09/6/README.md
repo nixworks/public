@@ -41,7 +41,7 @@ _Context: China, North Korea, South Korea_
 
 ##### Wildfire
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Colorado, U.S., wildfire_
+_Context: Colorado, United States, wildfire_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Hermine slams into northern Mexico near the border with Texas. ](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.md)
