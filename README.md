@@ -19,16 +19,20 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
+##### Mass shootings in the United States
+### [Five people are killed and one other injured during a mass shooting at a bar in the United States territory town of Comerio, Puerto Rico, near the capital San Juan. ](/news/2018/02/25/five-people-are-killed-and-one-other-injured-during-a-mass-shooting-at-a-bar-in-the-united-states-territory-town-of-comerio-puerto-rico-ne.md)
+Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of people in a town about 19 miles southwest of San Juan
+
 ##### North Korea-United States relations
 ### [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in effort to denuclearization on the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-effort-to-denuclearization-on.md)
 In response, the White House did not rule out direct talks.
 
 ##### Leicester
-### [A major explosion injures at least 6 on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/a-major-explosion-injures-at-least-6-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion-and-subsequent-fire-is-unknown.md)
+### [An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in Leicester, England. The cause of the explosion and subsequent fire is unknown. ](/news/2018/02/25/an-explosion-destroys-a-store-and-a-house-causing-at-least-six-injuries-on-hinckley-road-in-leicester-england-the-cause-of-the-explosion.md)
 _Context: England, Leicester_
 
 ##### 2018 Papua New Guinea earthquake
-### [A magnitude 7.5 earthquake with a strength of IX (Violent) strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-with-a-strength-of-ix-violent-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is.md)
+### [A magnitude 7.5 earthquake strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md)
 _Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands Province, earthquake, magnitude_
 
 ##### Syrian Civil War
@@ -46,6 +50,10 @@ The House Intelligence Committee released a rebuttal by House Democrats to a Rep
 ##### Stoneman Douglas High School shooting
 ### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
 The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
+
+##### Terrorism in Myanmar
+### [Three bombs explode in Sittwe, the capital of Myanmar's Rakhine State, slightly injuring a police officer. Three other unexploded bombs are defused around the city. It is unclear who was behind the bombs, but most of them were placed next to government-related buildings. ](/news/2018/02/24/three-bombs-explode-in-sittwe-the-capital-of-myanmar-s-rakhine-state-slightly-injuring-a-police-officer-three-other-unexploded-bombs-are.md)
+Police say they do not know who was behind the three explosions in the city of Sittwe.
 
 ##### War in Afghanistan (2001-present)
 ### [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md)

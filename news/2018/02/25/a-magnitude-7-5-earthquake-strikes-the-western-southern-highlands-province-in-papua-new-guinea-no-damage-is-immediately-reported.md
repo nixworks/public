@@ -12,7 +12,7 @@ Formats: [HTML](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-
 ### Sources:
 
 1. [TIME](http://time.com/5174726/earthquake-papua-new-guinea/)
-2. [USGS.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive)
 2. [Cover Image](https://timedotcom.files.wordpress.com/2018/02/papua-new-guinea.jpg?quality&#x3D;85)
 
 ### Changes:
