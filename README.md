@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
 ##### Mass shootings in the United States
-### [A mass shooting at a bar in the United States territory town of Comerio, Puerto Rico, near the capital San Juan, leaves at least five people dead and one other injured. ](/news/2018/02/25/a-mass-shooting-at-a-bar-in-the-united-states-territory-town-of-comerio-puerto-rico-near-the-capital-san-juan-leaves-at-least-five-people.md)
+### [A mass shooting at a bar in the town of Comerio, Puerto Rico, near the capital San Juan, leaves at least five people dead and one other injured. ](/news/2018/02/25/a-mass-shooting-at-a-bar-in-the-town-of-comerio-puerto-rico-near-the-capital-san-juan-leaves-at-least-five-people-dead-and-one-other-inju.md)
 Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of people in a town about 19 miles southwest of San Juan
 
 ##### North Korea-United States relations
