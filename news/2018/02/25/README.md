@@ -7,7 +7,7 @@ Formats: [HTML](2018/02/25/index.html)  [JSON](2018/02/25/index.json)  [XML](201
 ### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
-##### Mass shootings in the United States
+##### Crime in Puerto Rico
 ### [A mass shooting at a bar in the town of Comerio, Puerto Rico, near the capital San Juan, leaves at least five people dead and one other injured. ](/news/2018/02/25/a-mass-shooting-at-a-bar-in-the-town-of-comerio-puerto-rico-near-the-capital-san-juan-leaves-at-least-five-people-dead-and-one-other-inju.md)
 Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of people in a town about 19 miles southwest of San Juan
 

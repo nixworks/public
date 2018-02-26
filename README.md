@@ -7,10 +7,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
-##### Clinton-Lewinsky scandal
-### [Monica Lewinsky questions whether her relationship with Bill Clinton was consensual, saying the Me Too movement forced her to reconsider it. ](/news/2018/02/26/monica-lewinsky-questions-whether-her-relationship-with-bill-clinton-was-consensual-saying-the-me-too-movement-forced-her-to-reconsider-it.md)
-_Context: Bill Clinton, Clinton-Lewinsky scandal, Me Too movement, Monica Lewinsky_
-
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)
 Applications are open in several provinces for roles that do not appear to involve front-line combat.
@@ -27,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
-##### Mass shootings in the United States
+##### Crime in Puerto Rico
 ### [A mass shooting at a bar in the town of Comerio, Puerto Rico, near the capital San Juan, leaves at least five people dead and one other injured. ](/news/2018/02/25/a-mass-shooting-at-a-bar-in-the-town-of-comerio-puerto-rico-near-the-capital-san-juan-leaves-at-least-five-people-dead-and-one-other-inju.md)
 Witnesses saw group of men pull up in a vehicle and begin firing at a crowd of people in a town about 19 miles southwest of San Juan
 
