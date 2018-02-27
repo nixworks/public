@@ -1,7 +1,23 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/26/index.md)
+## [News](/news/2018/02/27/index.md)
+
+##### Donald Trump presidential campaign, 2020
+### [U.S. President Donald Trump names Brad Parscale as his 2020 presidential campaign manager as he formally declares he is running for re-election, a record 980 days before the election. ](/news/2018/02/27/u-s-president-donald-trump-names-brad-parscale-as-his-2020-presidential-campaign-manager-as-he-formally-declares-he-is-running-for-re-elect.md)
+Brad Parscale was credited as being a secret weapon for Trump&#039;s 2016 election for his effective use of social media to promote Trump.
+
+##### Government of Saudi Arabia
+### [King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md)
+Army chief of staff, ministers and top commanders of ground and air defence forces replaced, in series of royal decrees.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/26/index.md)
 
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
@@ -31,13 +47,9 @@ _Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S. Pres
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)
 Applications are open in several provinces for roles that do not appear to involve front-line combat.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/02/25/index.md)
+## [Day Before Yesterday](/news/2018/02/25/index.md)
 
 ##### Politics of China
 ### [The Central Committee of the Communist Party of China proposes that the country's constitution be amended to abolish term limits for the posts of President and Vice President. The move is seen as an attempt by current president Xi Jinping to solidify his power. ](/news/2018/02/25/the-central-committee-of-the-communist-party-of-china-proposes-that-the-country-s-constitution-be-amended-to-abolish-term-limits-for-the-pos.md)
@@ -69,39 +81,7 @@ _Context: Ghouta, Government forces, Siege of eastern Ghouta, Syrian Civil War, 
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/24/index.md)
-
-##### Nunes memo
-### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence is released, countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-is-released-countering-the-republican-mem.md)
-The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
-
-##### Stoneman Douglas High School shooting
-### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
-The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
-
-##### Terrorism in Myanmar
-### [Three bombs explode in Sittwe, the capital of Myanmar's Rakhine State, slightly injuring a police officer. Three other unexploded bombs are defused around the city. It is unclear who was behind the bombs, but most of them were placed next to government-related buildings. ](/news/2018/02/24/three-bombs-explode-in-sittwe-the-capital-of-myanmar-s-rakhine-state-slightly-injuring-a-police-officer-three-other-unexploded-bombs-are.md)
-Police say they do not know who was behind the three explosions in the city of Sittwe.
-
-##### War in Afghanistan (2001-present)
-### [A series of militant attacks in Afghanistan kill more than 20 people. ](/news/2018/02/24/a-series-of-militant-attacks-in-afghanistan-kill-more-than-20-people.md)
-A series of militant attacks in Afghanistan killed more than 20 people, officials said on Saturday, ahead of an international meeting next week aimed at building diplomatic support for hoped-for peace talks with the Taliban.
-
-##### Yemeni Civil War (2015-present)
-### [Islamist car suicide bombers and gunmen try to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-try-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killing.md)
-At least 14 people were killed and 40 wounded when Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden on Saturday, security and medical sources said.
-
-##### Syrian Civil War
-### [The United Nations Security Council unanimously approves a resolution demanding a 30-day ceasefire in Syria. ](/news/2018/02/24/the-united-nations-security-council-unanimously-approves-a-resolution-demanding-a-30-day-ceasefire-in-syria.md)
-The Security Council calls for aid to be sent to conflict areas, including the Eastern Ghouta area.
-
-##### Somali Civil War (2009-present)
-### [Two car bombings near the presidential palace in Mogadishu, Somalia, kill at least 38 people. Al-Shabaab claim responsibility for the attacks. ](/news/2018/02/24/two-car-bombings-near-the-presidential-palace-in-mogadishu-somalia-kill-at-least-38-people-al-shabaab-claim-responsibility-for-the-attack.md)
-At least 38 people are killed in Mogadishu in attacks claimed by the al-Shabab militant group.
-
----
-
-## [Previous Day...](/news/2018/02/23/index.md)
+## [Previous Day...](/news/2018/02/24/index.md)
 
 ---
 
