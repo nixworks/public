@@ -19,6 +19,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/02/26/index.md)
 
+##### Presidency of Donald Trump
+### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
+_Context: Joseph Y. Yun, Presidency of Donald Trump, United States Special Representative for North Korea Policy_
+
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
 Some MPs are still undecided, so a lot lies on the pitch to caucus.
