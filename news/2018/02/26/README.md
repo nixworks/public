@@ -15,6 +15,10 @@ The French government will abolish jobs-for-life at state-owned railways SNCF. M
 ### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
+##### Crime in Belgium
+### [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md)
+_Context: Colombia, Crime in Belgium, Dutch, Oss, Port of Antwerp, cocaine_
+
 ##### France-Turkey relations
 ### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md)
 France on Monday said that Russia had to use its influence on the Syrian government to ensure it kept to a U.N.-backed nationwide ceasefire, and told Turkey the truce also applied to its operations against Kurdish militants in the Afrin region.
