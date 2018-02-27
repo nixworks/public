@@ -20,7 +20,7 @@ Police say they do not know who was behind the three explosions in the city of S
 A series of militant attacks in Afghanistan killed more than 20 people, officials said on Saturday, ahead of an international meeting next week aimed at building diplomatic support for hoped-for peace talks with the Taliban.
 
 ##### Yemeni Civil War (2015-present)
-### [Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-tried-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killi.md)
+### [Islamist car suicide bombers and gunmen try to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-try-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killing.md)
 At least 14 people were killed and 40 wounded when Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden on Saturday, security and medical sources said.
 
 ##### Syrian Civil War

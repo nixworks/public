@@ -3,12 +3,8 @@ Formats: [HTML](2018/02/26/index.html)  [JSON](2018/02/26/index.json)  [XML](201
 
 ## [2018-02-26](/news/2018/02/26/index.md)
 
-##### Human rights in China
-### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
-_Context: Beijing, Human rights in China, Li Boguang_
-
 ##### Politics of New Zealand
-### [Simon Bridges is voted in as leader of the National Party. ](/news/2018/02/26/simon-bridges-is-voted-in-as-leader-of-the-national-party.md)
+### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
 Some MPs are still undecided, so a lot lies on the pitch to caucus.
 
 ##### Politics of France
@@ -25,7 +21,7 @@ France on Monday said that Russia had to use its influence on the Syrian governm
 
 ##### United States-Mexico relations
 ### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-_Context: Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
+_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
 
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)

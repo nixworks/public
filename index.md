@@ -3,13 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/26/index.md)
 
-##### Human Rights in China
-### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
-_Context: Beijing, Human Rights in China, Li Boguang_
-
 ##### Politics of New Zealand
-### [Simon Bridges is voted in as leader of the National Party. ](/news/2018/02/26/simon-bridges-is-voted-in-as-leader-of-the-national-party.md)
-_Context: National Party, Politics of New Zealand, Simon Bridges_
+### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
+Some MPs are still undecided, so a lot lies on the pitch to caucus.
 
 ##### Politics of France
 ### [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-edouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-will.md)
@@ -25,7 +21,7 @@ France on Monday said that Russia had to use its influence on the Syrian governm
 
 ##### United States-Mexico relations
 ### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-_Context: Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
+_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
 
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)
@@ -84,7 +80,7 @@ Police say they do not know who was behind the three explosions in the city of S
 A series of militant attacks in Afghanistan killed more than 20 people, officials said on Saturday, ahead of an international meeting next week aimed at building diplomatic support for hoped-for peace talks with the Taliban.
 
 ##### Yemeni Civil War (2015-present)
-### [Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-tried-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killi.md)
+### [Islamist car suicide bombers and gunmen try to storm the headquarters of a counter-terrorism unit in the southern port city of Aden, killing at least 14 people and wounding 40 others. ](/news/2018/02/24/islamist-car-suicide-bombers-and-gunmen-try-to-storm-the-headquarters-of-a-counter-terrorism-unit-in-the-southern-port-city-of-aden-killing.md)
 At least 14 people were killed and 40 wounded when Islamist car suicide bombers and gunmen tried to storm the headquarters of a counter-terrorism unit in the southern port city of Aden on Saturday, security and medical sources said.
 
 ##### Syrian Civil War
