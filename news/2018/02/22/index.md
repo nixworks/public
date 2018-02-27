@@ -29,7 +29,7 @@ _Context: Alexei Navalny, Leonid Volkov, Russian police, Russian presidential el
 
 ##### Politics of Romania
 ### [Romanian Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the National Anticorruption Directorate, Laura Codruta Kovesi. The announcement sparks protests. ](/news/2018/02/22/romanian-justice-minister-tudorel-toader-announces-that-he-would-trigger-the-dismissal-procedures-of-the-chief-prosecutor-of-the-national-an.md)
-_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Romania_
+_Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Romania, Tudorel Toader_
 
 ##### Syrian Civil War
 ### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote is postponed. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-is-postponed.md)

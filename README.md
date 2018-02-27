@@ -7,8 +7,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
 _Context: Beijing, Human Rights in China, Li Boguang_
 
+##### Politics of New Zealand
+### [Simon Bridges is voted in as leader of the National Party. ](/news/2018/02/26/simon-bridges-is-voted-in-as-leader-of-the-national-party.md)
+_Context: National Party, Politics of New Zealand, Simon Bridges_
+
 ##### Politics of France
-### [Prime Minister of France Edouard Philippe announced that the details of the railway reform will be announced in March. ](/news/2018/02/26/prime-minister-of-france-edouard-philippe-announced-that-the-details-of-the-railway-reform-will-be-announced-in-march.md)
+### [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-edouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-will.md)
 The French government will abolish jobs-for-life at state-owned railways SNCF. Macron, who won power in May 2017 pledging to modernize France&#39;s labor market, faces fierce opposition from powerful unions.
 
 ##### National Party of Australia leadership election, 2018
@@ -16,7 +20,7 @@ The French government will abolish jobs-for-life at state-owned railways SNCF. M
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
 ##### France-Turkey relations
-### [President of France Emmanuel Macron telephoned the President of Turkey Recep Tayyip Erdogan. Macron told Erdogan that the truce in Syria also applies in the Afrin Region. ](/news/2018/02/26/president-of-france-emmanuel-macron-telephoned-the-president-of-turkey-recep-tayyip-erdogan-macron-told-erdogan-that-the-truce-in-syria-als.md)
+### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdogan-telling-erdogan-that-the-un-approved-ceasefire-in-syria-also.md)
 France on Monday said that Russia had to use its influence on the Syrian government to ensure it kept to a U.N.-backed nationwide ceasefire, and told Turkey the truce also applied to its operations against Kurdish militants in the Afrin region.
 
 ##### United States-Mexico relations
@@ -57,7 +61,7 @@ _Context: 2018 Papua New Guinea earthquake, Papua New Guinea, Southern Highlands
 
 ##### Syrian Civil War
 ### [Government forces launch a ground and air offensive in eastern Ghouta despite the adoption of Resolution 2401 by the United Nations Security Council demanding a ceasefire in part of the area. ](/news/2018/02/25/government-forces-launch-a-ground-and-air-offensive-in-eastern-ghouta-despite-the-adoption-of-resolution-2401-by-the-united-nations-security.md)
-_Context: Ghouta, Government forces, Siege of eastern Ghouta, Syrian Civil War, United Nations Security Council, truce in Syria_
+_Context: Ghouta, Government forces, Siege of eastern Ghouta, Syrian Civil War, UN-approved ceasefire in Syria, United Nations Security Council_
 
 ---
 
