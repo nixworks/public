@@ -17,7 +17,7 @@ _Context: Chung Mong Koo, Hyundai, South Korea, corruption, embezzlement, won_
 
 ##### Puerto Rico Shouts march
 ### [ Around 50,000 people participate in the Puerto Rico Shouts march in San Juan, Puerto Rico, demanding a budget agreement to avert a partial shutdown of government offices and public schools. ](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.md)
-_Context: Puerto Rico Shouts march, San Juan, Puerto Rico, public schools_
+_Context: Puerto Rico Shouts march, San Juan, public schools_
 
 ##### Congressman
 ### [ Five members of the United States Congress are arrested outside the Sudanese embassy in Washington, D.C., for protesting the Darfur genocide. ](/news/2006/04/28/five-members-of-the-united-states-congress-are-arrested-outside-the-sudanese-embassy-in-washington-d-c-for-protesting-the-darfur-genocid.md)

@@ -109,7 +109,7 @@ _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Felipe Calderon, George W. Bush, President of Mexico, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
+_Context: Felipe Calderon, George W. Bush, Mexican President, Prime Minister of Canada, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
 
 ##### Israeli Defence Force
 ### [ The Israeli Defence Force destroys a tunnel from the Gaza Strip towards Israel. ](/news/2007/08/15/the-israeli-defence-force-destroys-a-tunnel-from-the-gaza-strip-towards-israel.md)

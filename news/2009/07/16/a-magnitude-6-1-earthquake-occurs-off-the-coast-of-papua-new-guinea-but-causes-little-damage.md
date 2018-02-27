@@ -16,7 +16,7 @@ A magnitude 6.1 quake has struck off the coast of Papua New Guinea, but appears 
 
 ### Related:
 
-1. [A magnitude 7.5 earthquake strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md) _Context: Papua New Guinea, earthquake_
+1. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md) _Context: Papua New Guinea, earthquake_
 2. [A strong earthquake of 6.6 magnitude occurs off the coast of New Britain in Papua New Guinea but no tsunami warning is issued. ](/news/2011/06/16/a-strong-earthquake-of-6-6-magnitude-occurs-off-the-coast-of-new-britain-in-papua-new-guinea-but-no-tsunami-warning-is-issued.md) _Context: Papua New Guinea, earthquake_
 3. [ A 5.9 earthquake occurs near Papua New Guinea. No damage is reported. ](/news/2006/11/11/a-5-9-earthquake-occurs-near-papua-new-guinea-no-damage-is-reported.md) _Context: Papua New Guinea, earthquake_
 4. [ An earthquake measuring 7.3 on the Richter scale is detected off the eastern coast of Papua New Guinea, though no damage has been recorded. ](/news/2005/09/9/an-earthquake-measuring-7-3-on-the-richter-scale-is-detected-off-the-eastern-coast-of-papua-new-guinea-though-no-damage-has-been-recorded.md) _Context: Papua New Guinea, earthquake_

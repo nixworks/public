@@ -20,7 +20,7 @@ The elections could take place on January 10th, 2016, according to sources close
 Attorney general says the state will no longer recognize such handgun permits from 25 states with reciprocity agreements.
 
 ##### Central African constitutional referendum, 2015
-### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md)
+### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporadic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md)
 Citizens of the CAR have voted for a new constitution that will replace a transitional charter for governing the country. Legislative and presidential elections are due to take place on December 27.
 
 ##### Philippine presidential election, 2016

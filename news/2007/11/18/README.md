@@ -21,7 +21,7 @@ _Context: George Charamba, President of Zimbabwe, Robert Mugabe_
 
 ##### Public-sector strikes
 ### [ Strikes in France: Transport workers strike for the fifth consecutive day, rejecting an offer by public railway company SNCF. ](/news/2007/11/18/strikes-in-france-transport-workers-strike-for-the-fifth-consecutive-day-rejecting-an-offer-by-public-railway-company-sncf.md)
-_Context: France's national railway company, Transport, public-sector strikes, railway company, strike_
+_Context: SNCF, Transport, public-sector strikes, railway company, strike_
 
 ##### Fire
 ### [ 28 people die in a fire at a Saudi Aramco gas pipeline in Hawiya, Saudi Arabia. Twelve more people are missing. ](/news/2007/11/18/28-people-die-in-a-fire-at-a-saudi-aramco-gas-pipeline-in-hawiya-saudi-arabia-twelve-more-people-are-missing.md)

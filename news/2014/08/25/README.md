@@ -11,9 +11,9 @@ _Context: Miro Cerar, Prime minister-designate, Slovenian National Assembly_
 ### [The President of Ukraine Petro Poroshenko dissolves the Parliament and calls new elections for October 26. ](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.md)
 _Context: Petro Poroshenko, Ukrainian President, parliament_
 
-##### Prime Minister
+##### French Prime Minister
 ### [The Prime Minister of France Manuel Valls presents President Francois Hollande with the resignation of the cabinet, with a new cabinet to be appointed tomorrow. ](/news/2014/08/25/the-prime-minister-of-france-manuel-valls-presents-president-franassois-hollande-with-the-resignation-of-the-cabinet-with-a-new-cabinet-to-b.md)
-_Context: Francois Hollande, French President, Manuel Valls, Prime Minister_
+_Context: Francois Hollande, French President, French Prime Minister, Manuel Valls_
 
 ##### Sergey Lavrov
 ### [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md)

@@ -75,7 +75,7 @@ Ousted Honduran President Manuel Zelaya has returned to his country, nearly thre
 ### [ Legislative elections in Macau attract a higher turnout than usual and strengthen the democratic minority. ](/news/2009/09/21/legislative-elections-in-macau-attract-a-higher-turnout-than-usual-and-strengthen-the-democratic-minority.md)
 _Context: Legislative elections, Macau_
 
-##### Prime Minister
+##### French Prime Minister
 ### [ A trial against former Prime Minister of France Dominique de Villepin, over the Clearstream affair, begins in Paris. ](/news/2009/09/21/a-trial-against-former-prime-minister-of-france-dominique-de-villepin-over-the-clearstream-affair-begins-in-paris.md)
 France&#39;s most politically charged trial in years is under way with former prime minister Dominique de Villepin accused of plotting to smear Nicolas Sarkozy before he became president.
 

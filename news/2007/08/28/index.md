@@ -13,7 +13,7 @@ Black box data recorders from an Adam Air jet have been found, eight months afte
 
 ##### Abdullah Gl
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
-_Context: Abdullah Gl, President of Turkey, ruling party_
+_Context: Abdullah Gl, Turkish President, ruling party_
 
 ##### Federal District Judge
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)

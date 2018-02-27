@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/5/index.html)  [JSON](2012/02/5/index.json)  [XML](2012/
 
 ##### Mexico
 ### [The ruling Mexican National Action Party (PAN) endorses Josefina Vzquez Mota as its candidate for the Presidential election, the first time that a major Mexican party has endorsed a woman to run for President of Mexico. ](/news/2012/02/5/the-ruling-mexican-national-action-party-pan-endorses-josefina-vazquez-mota-as-its-candidate-for-the-presidential-election-the-first-time.md)
-_Context: Josefina Vzquez Mota, Mexican presidential elections, Mexico, National Action Party (PAN), President of Mexico_
+_Context: Josefina Vzquez Mota, Mexican President, Mexican presidential elections, Mexico, National Action Party (PAN)_
 
 ##### Nigeria
 ### [The Nigerian People's Democratic Party wins the governorship in Adamawa State. ](/news/2012/02/5/the-nigerian-people-s-democratic-party-wins-the-governorship-in-adamawa-state.md)

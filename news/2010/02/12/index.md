@@ -41,7 +41,7 @@ _Context: United States, University of Alabama in Huntsville, shooting_
 
 ##### Mexico
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
-_Context: Felipe Caldern, Juarez, Mexico, President of Mexico_
+_Context: Felipe Caldern, Juarez, Mexican President, Mexico_
 
 ##### Togo
 ### [Togo appeal to the Court of Arbitration for Sport over their ban from the next two Africa Cup of Nations in the aftermath of the Togo national football team attack. ](/news/2010/02/12/togo-appeal-to-the-court-of-arbitration-for-sport-over-their-ban-from-the-next-two-africa-cup-of-nations-in-the-aftermath-of-the-togo-nation.md)

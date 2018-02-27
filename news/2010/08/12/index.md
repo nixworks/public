@@ -15,7 +15,7 @@ _Context: Scientists, chemical_
 ### [The Perseid meteor shower reaches its peak with a display of up to 80 meteors an hour. ](/news/2010/08/12/the-perseid-meteor-shower-reaches-its-peak-with-a-display-of-up-to-80-meteors-an-hour.md)
 Skywatchers across Europe enjoy another dazzling display as the annual Perseid meteor shower reached the second day of its peak.
 
-##### President of Mexico
+##### Mexican President
 ### [President of Mexico Felipe Calderon conducts public anti-crime conferences. ](/news/2010/08/12/president-of-mexico-felipe-caldera3n-conducts-public-anti-crime-conferences.md)
 Calderon critical of the amount of people caught and punished for violent crimes.
 

@@ -27,7 +27,7 @@ Bangladesh bans corporal punishment in all educational institutions across the c
 ### [Actress Mia Farrow gives evidence in the trial of former President of Liberia Charles Taylor before the United Nations Special Court for Sierra Leone. ](/news/2010/08/9/actress-mia-farrow-gives-evidence-in-the-trial-of-former-president-of-liberia-charles-taylor-before-the-united-nations-special-court-for-sie.md)
 Noami Campbell&#039;s former agent, is to take the stand in The Hague at the war crimes trial of Liberia&#039;s former president, Charles Taylor, for a second day on Tuesday. Follow the proceedings live here.
 
-##### President of Mexico
+##### Mexican President
 ### [Former President of Mexico Vicente Fox calls for the legalisation of drugs in Mexico. ](/news/2010/08/9/former-president-of-mexico-vicente-fox-calls-for-the-legalisation-of-drugs-in-mexico.md)
 Former Mexican president Vicente Fox backs the legalisation of drugs, saying prohibition has failed to curb violence.
 

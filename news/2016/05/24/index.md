@@ -3,7 +3,7 @@ Formats: [HTML](2016/05/24/index.html)  [JSON](2016/05/24/index.json)  [XML](201
 
 ## [2016-05-24](/news/2016/05/24/index.md)
 
-##### President of Turkey
+##### Turkish President
 ### [The President of Turkey Recep Tayyip Erdogan formally approves his ally Binali Yildirim as the Prime Minister. ](/news/2016/05/24/the-president-of-turkey-recep-tayyip-erdoaan-formally-approves-his-ally-binali-ya-lda-ra-m-as-the-prime-minister.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 

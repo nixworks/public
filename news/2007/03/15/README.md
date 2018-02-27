@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/15/index.html)  [JSON](2007/03/15/index.json)  [XML](200
 
 ##### French
 ### [ France's SNCF inaugurates the LGV Est route between Paris and Strasbourg. ](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.md)
-_Context: France's national railway company, French, LGV Est, Paris, Strasbourg_
+_Context: French, LGV Est, Paris, SNCF, Strasbourg_
 
 ##### Naxalite
 ### [ Naxalite rebels attack a police outpost in the Bijapur district of Chhattisgarh, India, killing at least 49 officers and looting their weapons. ](/news/2007/03/15/naxalite-rebels-attack-a-police-outpost-in-the-bijapur-district-of-chhattisgarh-india-killing-at-least-49-officers-and-looting-their-weap.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2014/06/18/index.html)  [JSON](2014/06/18/index.json)  [XML](201
 ### [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md)
 _Context: National Football League, Native American, Trademark Trial and Appeal Board, United States Patent and Trademark Office, Washington Redskins, cancel several trademarks, disparaging, federal court_
 
-##### President of Turkey
+##### Turkish President
 ### [Former President of Turkey Kenan Evren, 96, is given a life sentence for his role in the 1980 Turkish coup d'etat. ](/news/2014/06/18/former-president-of-turkey-kenan-evren-96-is-given-a-life-sentence-for-his-role-in-the-1980-turkish-coup-d-a-c-tat.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 

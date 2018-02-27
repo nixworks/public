@@ -13,7 +13,7 @@ _Context: Canadian Radio-television and Telecommunications Commission_
 
 ##### French
 ### [ French President Sarkozy appoints Franois Fillon as his Prime Minister. ](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.md)
-_Context: Franois Fillon, French, Nicolas Sarkozy, Prime Minister_
+_Context: Franois Fillon, French, French Prime Minister, Nicolas Sarkozy_
 
 ##### Algeria
 ### [ Voters in Algeria go to the polls to elect a new People's National Assembly with tight security arrangements after recent bomb attacks. ](/news/2007/05/17/voters-in-algeria-go-to-the-polls-to-elect-a-new-people-s-national-assembly-with-tight-security-arrangements-after-recent-bomb-attacks.md)

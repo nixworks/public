@@ -33,7 +33,7 @@ _Context: Baja California Peninsula, Hurricane John, PST, September 2, UTC_
 
 ##### Disputed Mexican election
 ### [ Disputed Mexican election: Deputies and senators of the PRD occupy the stage of Congress and prevent President Vicente Fox from delivering his final State of the Nation speech. Fox later addresses the nation on an all-channel telecast. ](/news/2006/09/1/disputed-mexican-election-deputies-and-senators-of-the-prd-occupy-the-stage-of-congress-and-prevent-president-vicente-fox-from-delivering.md)
-_Context: Congress, Disputed Mexican election, Party of the Democratic Revolution, President of Mexico, Vicente Fox_
+_Context: Congress, Disputed Mexican election, Mexican President, Party of the Democratic Revolution, Vicente Fox_
 
 ##### African Union
 ### [ AU officials report that Sudan has launched a major offensive in Darfur, a day after it rejected UNSC Resolution 1706, calling for a new 20,000 UN peacekeeping force. Over 20 people are reported dead and 1,000 displaced in clashes which broke earlier in the week. ](/news/2006/09/1/au-officials-report-that-sudan-has-launched-a-major-offensive-in-darfur-a-day-after-it-rejected-unsc-resolution-1706-calling-for-a-new-20.md)

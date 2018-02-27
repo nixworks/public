@@ -19,7 +19,7 @@ _Context: Avian flu virus, China, vaccine_
 ### [ A ban on tobacco smoking in public places begins in Cuba. ](/news/2005/02/8/a-ban-on-tobacco-smoking-in-public-places-begins-in-cuba.md)
 _Context: Cuba, smokers, tobacco_
 
-##### President of Mexico
+##### Mexican President
 ### [ The President of Mexico, Vicente Fox, increases his personal security after an advisor reportedly leaked his itinerary to a Mexican drug cartel. ](/news/2005/02/8/the-president-of-mexico-vicente-fox-increases-his-personal-security-after-an-advisor-reportedly-leaked-his-itinerary-to-a-mexican-drug-ca.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

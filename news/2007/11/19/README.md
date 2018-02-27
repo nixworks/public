@@ -29,7 +29,7 @@ _Context: Cambodia, Khieu Samphan, Khmer Rouge, crimes against humanity, head of
 
 ##### Public-sector strikes
 ### [ November 2007 strikes in France: The transport workers' strike enters its sixth day, but unions have agreed to restart negotiations with SNCF on November 22. ](/news/2007/11/19/november-2007-strikes-in-france-the-transport-workers-strike-enters-its-sixth-day-but-unions-have-agreed-to-restart-negotiations-with-sn.md)
-_Context: France's national railway company, labour unions, negotiation, public-sector strikes, strike, transport_
+_Context: SNCF, labour unions, negotiation, public-sector strikes, strike, transport_
 
 ##### Twelve days earlier
 ### [ 2007 Zasyadko mine disaster: Rescuers continue the search for 20 trapped miners, but a union official says there is "no chance" for them. ](/news/2007/11/19/2007-zasyadko-mine-disaster-rescuers-continue-the-search-for-20-trapped-miners-but-a-union-official-says-there-is-no-chance-for-them.md)

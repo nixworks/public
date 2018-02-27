@@ -67,9 +67,9 @@ The US Army charges a soldier held in connection with the leak of US government 
 ### [The United States reports that it has proof that Robert Levinson, a retired FBI agent missing in Iran since 2007, is alive. ](/news/2011/03/3/the-united-states-reports-that-it-has-proof-that-robert-levinson-a-retired-fbi-agent-missing-in-iran-since-2007-is-alive.md)
 _Context: FBI, Iran, Robert Levinson_
 
-##### President of Mexico
+##### Mexican President
 ### [The President of Mexico Felipe Caldern travels to Washington, D.C., to meet with the President of the United States Barack Obama, the Speaker of the United States House of Representatives and other leading political figures. ](/news/2011/03/3/the-president-of-mexico-felipe-calderon-travels-to-washington-d-c-to-meet-with-the-president-of-the-united-states-barack-obama-the-speak.md)
-_Context: Barack Obama, Felipe Caldern, President of Mexico, U.S. Speaker of the House of Representatives_
+_Context: Barack Obama, Felipe Caldern, Mexican President, U.S. Speaker of the House of Representatives_
 
 ##### Gorge
 ### [40 people die in northern India after two vehicles plunge into a deep gorge. ](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicles-plunge-into-a-deep-gorge.md)

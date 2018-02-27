@@ -13,7 +13,7 @@ _Context: General Motors, Toyota, fuel-efficient car_
 
 ##### Foreign Minister
 ### [ Foreign Minister of Turkey Abdullah Gl is nominated as the AK Party candidate for President of Turkey. ](/news/2007/04/24/foreign-minister-of-turkey-abdullah-gul-is-nominated-as-the-ak-party-candidate-for-president-of-turkey.md)
-_Context: Abdullah Gl, Foreign Minister, President of Turkey, Turkey, ruling party_
+_Context: Abdullah Gl, Foreign Minister, Turkey, Turkish President, ruling party_
 
 ##### UK
 ### [ British anti-terrorism police arrest five people in London and one in Luton for alleged breaches of the Terrorism Act. ](/news/2007/04/24/british-anti-terrorism-police-arrest-five-people-in-london-and-one-in-luton-for-alleged-breaches-of-the-terrorism-act.md)

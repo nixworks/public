@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Secularist
 ### [ At least 300,000 secularist Turks march in Ankara to warn the Islamist Prime Minister of Turkey Recep Tayyip Erdogan and his party against seeking the presidency. ](/news/2007/04/14/at-least-300-000-secularist-turks-march-in-ankara-to-warn-the-islamist-prime-minister-of-turkey-recep-tayyip-erdoaan-and-his-party-against.md)
-_Context: Ankara, Islamist, President of Turkey, Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, ruling party, secularist, third mass rally_
+_Context: Ankara, Islamist, Recep Tayyip Erdogan, Turkey, Turkish President, Turkish Prime Minister, ruling party, secularist, third mass rally_
 
 ##### Garry Kasparov
 ### [ Garry Kasparov, Russian chess champion and opposition activist, is arrested with over 100 others while attempting to hold a protest march in Moscow. ](/news/2007/04/14/garry-kasparov-russian-chess-champion-and-opposition-activist-is-arrested-with-over-100-others-while-attempting-to-hold-a-protest-march-i.md)

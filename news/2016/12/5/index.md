@@ -9,7 +9,7 @@ A team of international archaeologists believe a pair of mummified legs on displ
 
 ##### Last month's presidential election
 ### [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md)
-_Context: Manuel Valls, PS, Prime Minister, last month's presidential election_
+_Context: French Prime Minister, Manuel Valls, PS, last month's presidential election_
 
 ##### Italian constitutional referendum, 2016
 ### [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md)

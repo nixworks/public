@@ -22,7 +22,7 @@ Foreign minister Ri Yong-ho says the country has the right to shoot down US bomb
 
 ### Related:
 
-1. [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in effort to denuclearization on the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-effort-to-denuclearization-on.md) _Context: North Korea, United States_
+1. [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in an effort to denuclearize the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-an-effort-to-denuclearize-the.md) _Context: North Korea, United States_
 2. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: 2017 North Korea crisis, United States_
 3. [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md) _Context: North Korea, United States_
 4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: 2017 North Korea crisis, North Korea_

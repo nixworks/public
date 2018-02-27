@@ -31,9 +31,9 @@ Immigration Minister Peter Dutton confirms Australia will work with Papua New Gu
 ### [An unusual kiting incident in India leaves three people dead. 500 birds were also injured in similar incidents. ](/news/2016/08/17/an-unusual-kiting-incident-in-india-leaves-three-people-dead-500-birds-were-also-injured-in-similar-incidents.md)
 _Context: India, kiting, leaves three people dead_
 
-##### San Juan, Puerto Rico
+##### San Juan
 ### [All 511 passengers and crew are evacuated from the ferry "Caribbean Fantasy" which caught fire off San Juan, Puerto Rico. ](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.md)
-_Context: San Juan, Puerto Rico_
+_Context: San Juan_
 
 ##### Saint-Auns
 ### [Eight people are seriously injured when a passenger train collides with a tree that had fallen across the railway line at Saint-Auns, Hrault, France. ](/news/2016/08/17/eight-people-are-seriously-injured-when-a-passenger-train-collides-with-a-tree-that-had-fallen-across-the-railway-line-at-saint-aunes-herau.md)

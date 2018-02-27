@@ -21,7 +21,7 @@ _Context: Bashar al-Assad, Iraq, Jalal Talabani, Kurdish, Kurdistan Workers Part
 
 ##### French
 ### [ French trains resume service after a two-day strike against President Nicolas Sarkozy's proposed welfare reform. ](/news/2007/10/20/french-trains-resume-service-after-a-two-day-strike-against-president-nicolas-sarkozy-s-proposed-welfare-reform.md)
-_Context: France's national railway company, French, French President, Nicolas Sarkozy, strike, welfare reform_
+_Context: French, French President, Nicolas Sarkozy, SNCF, strike, welfare reform_
 
 ##### Myanmar
 ### [ Myanmar's State Peace and Development Council lifts the curfew it imposed in Yangon and Mandalay on September 26. ](/news/2007/10/20/myanmar-s-state-peace-and-development-council-lifts-the-curfew-it-imposed-in-yangon-and-mandalay-on-september-26.md)

@@ -37,7 +37,7 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 
 ##### Abdullah Gul
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
-_Context: Abdullah Gul, President of Turkey, Turkey_
+_Context: Abdullah Gul, Turkey, Turkish President_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)

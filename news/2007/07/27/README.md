@@ -53,7 +53,7 @@ _Context: Eugene de Kock, Frederik Willem de Klerk, President of South Africa, S
 
 ##### French
 ### [ Former French Prime Minister Dominique de Villepin is charged with "complicity in slanderous denunciations" and "complicity in using forgeries" for allegedly trying to discredit current President Nicolas Sarkozy. ](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.md)
-_Context: Dominique de Villepin, French, Nicolas Sarkozy, President, Prime Minister_
+_Context: Dominique de Villepin, French, French Prime Minister, Nicolas Sarkozy, President_
 
 ##### Helicopter
 ### [ Two news helicopters belonging to KTVK Channel 3 & KNXV Channel 15-ABC collide while covering a car chase in Phoenix, Arizona, leaving all four dead (KTVK Pilot Scott Bowerbank, Photographer Jim Cox, KNXV Pilot Craig Smith & Photographer Rick Krolax ](/news/2007/07/27/two-news-helicopters-belonging-to-ktvk-channel-3-knxv-channel-15-abc-collide-while-covering-a-car-chase-in-phoenix-arizona-leaving-all.md)

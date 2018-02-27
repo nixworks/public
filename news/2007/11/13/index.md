@@ -13,7 +13,7 @@ _Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, Voters, ear
 
 ##### President
 ### [ The President of Israel, Shimon Peres, meets the President of Turkey, Abdullah Gl, in Ankara, and he will also address the Grand National Assembly of Turkey. ](/news/2007/11/13/the-president-of-israel-shimon-peres-meets-the-president-of-turkey-abdullah-gul-in-ankara-and-he-will-also-address-the-grand-national.md)
-_Context: Abdullah Gl, Ankara, President, President of Turkey, Shimon Peres, Turkish Parliament_
+_Context: Abdullah Gl, Ankara, President, Shimon Peres, Turkish Parliament, Turkish President_
 
 ##### Hamas
 ### [ Hamas security forces arrest 400 Fatah supporters after a rally to commemorate Yasser Arafat's death ended in gunfire. ](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.md)

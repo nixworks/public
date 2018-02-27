@@ -7,9 +7,9 @@ Formats: [HTML](2015/08/24/index.html)  [JSON](2015/08/24/index.json)  [XML](201
 ### [Jakobshavn Glacier sheds and creates an iceberg 12.4 square km in size. ](/news/2015/08/24/jakobshavn-glacier-sheds-and-creates-an-iceberg-12-4-square-km-in-size.md)
 Scientists are studying a big mass of ice that has broken off the Jakobshavn Glacier in Greenland.
 
-##### President of Turkey
+##### Turkish President
 ### [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md)
-_Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_
+_Context: Recep Tayyip Erdogan, Turkish President, Turkish general election, November 2015, election in June_
 
 ##### Prime Minister of Guinea-Bissau
 ### [Prime Minister of Guinea-Bissau Baciro Dja sacks the chiefs of Guinea-Bissau National Radio and Television, Muniro Conte and Paula Mielo, over political "bias". ](/news/2015/08/24/prime-minister-of-guinea-bissau-baciro-dja-sacks-the-chiefs-of-guinea-bissau-national-radio-and-television-muniro-conte-and-paula-mielo-o.md)

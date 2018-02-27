@@ -33,7 +33,7 @@ After a marathon pursuit, Sea Shepherd says it has found and shut down Japan&#03
 
 ##### Felipe Calderon
 ### [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md)
-_Context: Felipe Calderon, Joe Biden, President of Mexico, vice-President of the United States_
+_Context: Felipe Calderon, Joe Biden, Mexican President, vice-President of the United States_
 
 ##### Benjamin Netanyahu
 ### [Israeli Prime Minister Benjamin Netanyahu and US President Barack Obama meet at the White House. ](/news/2012/03/5/israeli-prime-minister-benjamin-netanyahu-and-us-president-barack-obama-meet-at-the-white-house.md)

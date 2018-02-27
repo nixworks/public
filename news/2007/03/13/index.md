@@ -47,7 +47,7 @@ _Context: Sudan, USS ''Cole'' bombing, civil suit_
 
 ##### George W. Bush
 ### [ Demonstrators in Mexico City clash with police as U.S. President George W. Bush meets with Mexican President Felipe Calderon in Merida, Yucatan. ](/news/2007/03/13/demonstrators-in-mexico-city-clash-with-police-as-u-s-president-george-w-bush-meets-with-mexican-president-felipe-caldera3n-in-ma-c-rida-y.md)
-_Context: Felipe Calderon, George W. Bush, Merida, Yucatan, President of Mexico_
+_Context: Felipe Calderon, George W. Bush, Merida, Yucatan, Mexican President_
 
 ## [Previous Day...](/news/2007/03/12/index.md)
 

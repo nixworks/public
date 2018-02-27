@@ -43,9 +43,9 @@ _Context: European Union, Palestinian Authority, United States, foreign aid_
 ### [ Floods kill four people in north Texas. ](/news/2007/06/18/floods-kill-four-people-in-north-texas.md)
 Residents emerged from their homes in a flood-stricken north Texas town on Monday as waters that killed a 4-year-old girl and at least one other person began to recede throughout the soaked region.
 
-##### President of Turkey
+##### Turkish President
 ### [ The President of Turkey, Ahmet Necdet Sezer, vetoes a bill bringing forward a referendum of the direct election of the president. ](/news/2007/06/18/the-president-of-turkey-ahmet-necdet-sezer-vetoes-a-bill-bringing-forward-a-referendum-of-the-direct-election-of-the-president.md)
-_Context: Ahmet Necdet Sezer, President of Turkey, direct election, referendum, veto_
+_Context: Ahmet Necdet Sezer, Turkish President, direct election, referendum, veto_
 
 ## [Previous Day...](/news/2007/06/17/index.md)
 

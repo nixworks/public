@@ -19,9 +19,9 @@ _Context: John L. Hall, Nobel Prize in Physics, Roy J. Glauber, Theodor W. Hansc
 ### [ Ohio Iraq War veteran Paul Hackett is expected to run in the state Democratic primary to contest the seat of Republican Senator Mike DeWine. Hackett lost in a closely contested House race on August 2.](/news/2005/10/4/ohio-iraq-war-veteran-paul-hackett-is-expected-to-run-in-the-state-democratic-primary-to-contest-the-seat-of-republican-senator-mike-dewine.md)
 _Context: August 2, Democrat, Iraq War, Mike DeWine, Ohio, Paul Hackett, Republican, Senator, United States House of Representatives_
 
-##### Prime Minister
+##### French Prime Minister
 ### [ One million French transportation workers and teachers hold a nationwide strike in opposition to the Prime Minister Dominique de Villepin's economic and labor policies, forcing the closure of schools and airports. ](/news/2005/10/4/one-million-french-transportation-workers-and-teachers-hold-a-nationwide-strike-in-opposition-to-the-prime-minister-dominique-de-villepin-s.md)
-_Context: Dominique de Villepin, Prime Minister_
+_Context: Dominique de Villepin, French Prime Minister_
 
 ##### DR Congo
 ### [ Two Congolese soldiers die and eleven others are injured in a plane crash as the United Nations and Democratic Republic of the Congo's army airlifted local troops to the northeastern frontier to confront Ugandan Lord's Resistance Army rebels. ](/news/2005/10/4/two-congolese-soldiers-die-and-eleven-others-are-injured-in-a-plane-crash-as-the-united-nations-and-democratic-republic-of-the-congo-s-army.md)

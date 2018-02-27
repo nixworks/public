@@ -21,7 +21,7 @@ _Context: Iraq, Izzat Ibrahim al-Duri, Raghad Hussein, Saddam Hussein, wife_
 
 ##### Mexico
 ### [ Polling closes in the Mexican general election, with voters electing a new President, both houses of Congress, and four state-district governors. Exit polls show the presidential race between Felipe Caldern of the National Action Party and Andrs Manuel Lpez Obrador, a former mayor of Mexico City, as too close to call. ](/news/2006/07/2/polling-closes-in-the-mexican-general-election-with-voters-electing-a-new-president-both-houses-of-congress-and-four-state-district-gove.md)
-_Context: Andrs Manuel Lpez Obrador, Congress, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN), President of Mexico, mayor of Mexico City, state/district governors_
+_Context: Andrs Manuel Lpez Obrador, Congress, Felipe Caldern, Mexican President, Mexican general election, Mexico, National Action Party (PAN), mayor of Mexico City, state/district governors_
 
 ##### Live 8
 ### [ One year on from the Live 8 concerts, U2 frontman Bono announces that world leaders are not making good on their promises to Africa. According to Bono in a recent CNN interview, not enough is being done to make trade fair. ](/news/2006/07/2/one-year-on-from-the-live-8-concerts-u2-frontman-bono-announces-that-world-leaders-are-not-making-good-on-their-promises-to-africa-accord.md)

@@ -16,7 +16,7 @@ Formats: [HTML](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magni
 
 ### Related:
 
-1. [A magnitude 7.5 earthquake strikes the western Southern Highlands Province in Papua New Guinea. No damage is immediately reported. ](/news/2018/02/25/a-magnitude-7-5-earthquake-strikes-the-western-southern-highlands-province-in-papua-new-guinea-no-damage-is-immediately-reported.md) _Context: earthquake, magnitude_
+1. [A magnitude 7.5 earthquake occurs at the western Southern Highlands Province in Papua New Guinea, killing at least 31 people and injuring more than 300 others. ](/news/2018/02/25/a-magnitude-7-5-earthquake-occurs-at-the-western-southern-highlands-province-in-papua-new-guinea-killing-at-least-31-people-and-injuring-mo.md) _Context: earthquake, magnitude_
 2. [At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. ](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-injured-and-trapped-after-a-construction-platform-at-a-power-plant-in-the-chinese-city-of-fengch.md) _Context: China, Jiangxi_
 3. [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md) _Context: China, earthquake_
 4. [An earthquake in China's Yunnan province injures at least 45 people and forces thousands to relocate. ](/news/2014/05/30/an-earthquake-in-china-s-yunnan-province-injures-at-least-45-people-and-forces-thousands-to-relocate.md) _Context: China, earthquake_

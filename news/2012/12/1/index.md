@@ -17,7 +17,7 @@ _Context: Draft constitution, Mohamed Morsi, President, constitutional referendu
 
 ##### Enrique Pena Nieto
 ### [Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashes-occur-outside.md)
-_Context: Enrique Pena Nieto, Institutional Revolutionary Party, President of Mexico_
+_Context: Enrique Pena Nieto, Institutional Revolutionary Party, Mexican President_
 
 ##### Jovan Belcher
 ### [Jovan Belcher, a linebacker for the Kansas City Chiefs American football team kills himself at Arrowhead Stadium in Kansas City, Missouri, USA, after reportedly killing his girlfriend. ](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.md)

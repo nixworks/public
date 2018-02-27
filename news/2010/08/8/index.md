@@ -35,9 +35,9 @@ Iranian lawyer Mohammad Mostafaei, who has been defending a woman facing death b
 ### [18-year-old Ebrahim Hamidi is sentenced to death for sodomy in Iran, without legal representation after human rights lawyer Mohammad Mostafaei flees in the wake of the Sakineh Mohammadi Ashtiani case. ](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.md)
 _Context: Ebrahim Hamidi, Iran, Mohammad Mostafaei, Sakineh Mohammadi Ashtiani, sodomy_
 
-##### President of Mexico
+##### Mexican President
 ### [President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. ](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.md)
-_Context: Felipe Calderon, President of Mexico_
+_Context: Felipe Calderon, Mexican President_
 
 ##### Mordechai Vanunu
 ### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to "The Sunday Times" in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscience.md)

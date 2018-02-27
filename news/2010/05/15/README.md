@@ -19,9 +19,9 @@ _Context: 5.1 magnitude earthquake, Algeria_
 ### [Seven people are charged with public order offences after around 80 people from the eirigi group demonstrate and burn effigies in an anti-NAMA fashion outside Anglo Irish Bank HQ in Dublin. ](/news/2010/05/15/seven-people-are-charged-with-public-order-offences-after-around-80-people-from-the-a-c-iraga-group-demonstrate-and-burn-effigies-in-an-anti.md)
 Seven people are to appear in court this evening following a protest outside the headquarters of Anglo Irish Bank in Dublin earlier&hellip;
 
-##### President of Mexico
+##### Mexican President
 ### [Former Mexican presidential candidate Diego Fernandez de Cevallos is abducted from one of his homes in Pedro Escobedo, Queretaro. ](/news/2010/05/15/former-mexican-presidential-candidate-diego-ferna-ndez-de-cevallos-is-abducted-from-one-of-his-homes-in-pedro-escobedo-quera-c-taro.md)
-_Context: Diego Fernandez de Cevallos, Pedro Escobedo, President of Mexico, Queretaro_
+_Context: Diego Fernandez de Cevallos, Mexican President, Pedro Escobedo, Queretaro_
 
 ##### Sudan
 ### [Sudanese forces announce they have gained control of a rebel held area in Darfur after killing more than 150 members of the Justice and Equality Movement. ](/news/2010/05/15/sudanese-forces-announce-they-have-gained-control-of-a-rebel-held-area-in-darfur-after-killing-more-than-150-members-of-the-justice-and-equa.md)

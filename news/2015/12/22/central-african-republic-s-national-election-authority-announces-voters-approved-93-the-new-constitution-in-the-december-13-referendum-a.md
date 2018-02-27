@@ -4,7 +4,7 @@ Formats: [HTML](/news/2015/12/22/central-african-republic-s-national-election-au
 ### [2015-12-22](/news/2015/12/22/index.md)
 
 ##### Central African constitutional referendum, 2015
-# Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. 
+# Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporadic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. 
 
 Citizens of the CAR have voted for a new constitution that will replace a transitional charter for governing the country. Legislative and presidential elections are due to take place on December 27.
 
@@ -18,7 +18,7 @@ Citizens of the CAR have voted for a new constitution that will replace a transi
 ### Changes:
 
 1. [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum.md) _2018-02-06 13:49:28 (First version)_
-1. [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md) _(Current version)_
+1. [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporadic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md) _(Current version)_
 
 ### Related:
 

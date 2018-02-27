@@ -73,7 +73,7 @@ Spanish police have boarded a boat operated by a US company which Madrid believe
 
 ##### Mexico
 ### [ A Mexican federal court suspends the genocide trial of former President Luis Echeverria. ](/news/2007/07/12/a-mexican-federal-court-suspends-the-genocide-trial-of-former-president-luis-echeverraa.md)
-_Context: Luis Echeverria, Mexico, President of Mexico, genocide_
+_Context: Luis Echeverria, Mexican President, Mexico, genocide_
 
 ##### Barry Bonds
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)

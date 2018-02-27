@@ -11,7 +11,7 @@ _Context: Popular Party, Spain, centre-right, general election, parliamentary ma
 ### [A man is charged with attempted murder following Saturday's stabbing of four Metropolitan Police officers in Kingsbury, north London. ](/news/2011/11/20/a-man-is-charged-with-attempted-murder-following-saturday-s-stabbing-of-four-metropolitan-police-officers-in-kingsbury-north-london.md)
 _Context: Kingsbury, London, Metropolitan Police Service, attempted murder_
 
-##### President of Turkey
+##### Turkish President
 ### [The President of Turkey, Abdullah Gl, commences a three-day state visit to the United Kingdom. ](/news/2011/11/20/the-president-of-turkey-abdullah-gul-commences-a-three-day-state-visit-to-the-united-kingdom.md)
 President of Turkey Abdullah Gul says his country still wants to join the EU, before he arrives in London for a three-day state visit to Britain.
 

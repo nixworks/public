@@ -13,7 +13,7 @@ _Context: Banksy, Melbourne, Parachuting Rat_
 
 ##### Jean-Marc Ayrault
 ### [Jean-Marc Ayrault is sworn in as the Prime Minister of France. ](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.md)
-_Context: Jean-Marc Ayrault, Prime Minister_
+_Context: French Prime Minister, Jean-Marc Ayrault_
 
 ##### Greece
 ### [Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalition-government-we.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2006/05/24/index.html)  [JSON](2006/05/24/index.json)  [XML](200
 
 ## [2006-05-24](/news/2006/05/24/index.md)
 
-##### President of Mexico
+##### Mexican President
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. ](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: President of Mexico, Salt Lake City, United States, Vicente Fox, illegal worker_
+_Context: Mexican President, Salt Lake City, United States, Vicente Fox, illegal worker_
 
 ##### Atatrk International Airport
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)

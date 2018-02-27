@@ -19,9 +19,9 @@ _Context: Ariel Sharon, Israeli Prime Minister, Likud, Shinui, subsidies_
 ### [ Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to-10-candidates-drawing-criticism-from-ar.md)
 _Context: Fatah, Marwan Barghouti, Palestinian presidential election, Yasser Arafat_
 
-##### Prime Minister
+##### French Prime Minister
 ### [ A French appeals court reduces former Prime Minister Alain Juppe's disqualification from holding public office from ten years to one, opening up the way for him to contend in the 2007 presidential election. ](/news/2004/12/1/a-french-appeals-court-reduces-former-prime-minister-alain-juppa-c-s-disqualification-from-holding-public-office-from-ten-years-to-one-open.md)
-_Context: Alain Juppe, Prime Minister_
+_Context: Alain Juppe, French Prime Minister_
 
 ##### Serbia
 ### [Serbia's interior minister says the "assassination attempt" on president Boris Tadic was a case of road rage against his motor convoy in Belgrade traffic. ](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.md)

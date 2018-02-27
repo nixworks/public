@@ -41,7 +41,7 @@ _Context: Edinburgh University, boycotting Israeli_
 
 ##### Carlos Pascual
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
-_Context: Carlos Pascual, Felipe Calderon, President of Mexico, United States Ambassador to Mexico_
+_Context: Carlos Pascual, Felipe Calderon, Mexican President, United States Ambassador to Mexico_
 
 ##### U.S. Coast Guard
 ### [The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. ](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.md)

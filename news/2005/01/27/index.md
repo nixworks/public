@@ -31,9 +31,9 @@ _Context: Awami League, Bangladesh, Shah A M S Kibria_
 ### [ Israeli-Palestinian Conflict: In an interview with Yedioth Ahronoth, Israeli Prime Minister, Ariel Sharon, has said he is "very satisfied" with Palestinian President Mahmoud Abbas's efforts to restore calm. Sharon pledged to further peace process efforts with Abbas, with a meeting possible within two weeks. ](/news/2005/01/27/israeli-palestinian-conflict-in-an-interview-with-yedioth-ahronoth-israeli-prime-minister-ariel-sharon-has-said-he-is-very-satisfied.md)
 _Context: Ariel Sharon, Israel, Israeli Prime Minister, Israeli-Palestinian Conflict, Mahmoud Abbas, President of the Palestinian Authority, Yedioth Ahronoth_
 
-##### France's national railway company
+##### SNCF
 ### [ French national railways SNCF are severely disrupted by a 24-hour walkout by staff to protest the rape of a ticket inspector on a Toulouse - Cahors train on Tuesday. The inspector had been attempting to charge a man for not having a ticket. A 24-year-old man was later arrested. The strike is due to end at 1500 UTC. ](/news/2005/01/27/french-national-railways-sncf-are-severely-disrupted-by-a-24-hour-walkout-by-staff-to-protest-the-rape-of-a-ticket-inspector-on-a-toulouse.md)
-_Context: Cahors, France's national railway company, Toulouse_
+_Context: Cahors, SNCF, Toulouse_
 
 ##### Holocaust
 ### [ Holocaust survivors, former Red Army soldiers, leaders of more than 40 countries, and other people gather in Oswiecim, Poland for the 60th anniversary of the liberation of the Auschwitz concentration camp where more than 1 million people were killed. ](/news/2005/01/27/holocaust-survivors-former-red-army-soldiers-leaders-of-more-than-40-countries-and-other-people-gather-in-oawiacim-poland-for-the-60t.md)

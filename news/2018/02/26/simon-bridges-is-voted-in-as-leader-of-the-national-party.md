@@ -6,13 +6,15 @@ Formats: [HTML](/news/2018/02/26/simon-bridges-is-voted-in-as-leader-of-the-nati
 ##### Politics of New Zealand
 # Simon Bridges is voted in as leader of the National Party. 
 
-
+Some MPs are still undecided, so a lot lies on the pitch to caucus.
 
 
 ### Sources:
 
 1. [Newshub](http://www.newshub.co.nz/home/politics/2018/02/live-updates-national-leadership-contest.html)
-1. [Cover Image](http://www.newshub.co.nz/home/politics/2018/02/live-updates-national-leadership-contest/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1519688953955/simon-bridges-sk.jpg)
+2. [Newshub](http://www.newshub.co.nz/home/politics/2018/02/ron-mark-rolled-as-deputy-leader-of-new-zealand-first.html)
+3. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12002397)
+3. [Cover Image](http://www.newshub.co.nz/home/politics/2018/02/live-updates-national-leadership-contest/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1519688953955/simon-bridges-sk.jpg)
 
 ### Related:
 

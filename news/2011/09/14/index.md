@@ -25,7 +25,7 @@ _Context: Australia, East New Britain Province, Papua New Guinea, Paul Tiensten,
 
 ##### French-born
 ### [A French Appeals Court clears former Prime Minister Dominique de Villepin of charges of involvement in a smear campaign against current President Nicolas Sarkozy. ](/news/2011/09/14/a-french-appeals-court-clears-former-prime-minister-dominique-de-villepin-of-charges-of-involvement-in-a-smear-campaign-against-current-pres.md)
-_Context: Dominique de Villepin, French President, French-born, Nicolas Sarkozy, Prime Minister_
+_Context: Dominique de Villepin, French President, French Prime Minister, French-born, Nicolas Sarkozy_
 
 ##### Premier
 ### [The acquittals of former Premier of Western Australia Brian Burke, former Cabinet Minister Julian Grill and former public servant Nathan Hondros on corruption charges are overturned by the Court of Appeal in Perth, with the three set to face a retrial. ](/news/2011/09/14/the-acquittals-of-former-premier-of-western-australia-brian-burke-former-cabinet-minister-julian-grill-and-former-public-servant-nathan-hon.md)

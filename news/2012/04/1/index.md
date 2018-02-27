@@ -3,7 +3,7 @@ Formats: [HTML](2012/04/1/index.html)  [JSON](2012/04/1/index.json)  [XML](2012/
 
 ## [2012-04-1](/news/2012/04/1/index.md)
 
-##### President of Mexico
+##### Mexican President
 ### [Former President of Mexico Miguel de la Madrid dies of complications of lung disease in Mexico City at the age of 77. ](/news/2012/04/1/former-president-of-mexico-miguel-de-la-madrid-dies-of-complications-of-lung-disease-in-mexico-city-at-the-age-of-77.md)
 Miguel de la Madrid, who led Mexico between 1982 and 1988, helped open up the country economically and politically. His tenure was besmirched by Mexico&apos;s lingering financial troubles and a weak response to the catastrophic 1985 quake.
 

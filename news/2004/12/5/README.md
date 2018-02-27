@@ -11,9 +11,9 @@ _Context: Gloria Macapagal-Arroyo, Philippines, President, Typhoon Nanmadol, agr
 ### [ In a prisoner exchange between Israel and Egypt, Egypt releases Azzam Azzam, an Israeli Druze businessman sentenced to 15 years imprisonment by Egypt in 1997 on charges of spying for Israel, while Israel releases six Egyptian students who allegedly infiltrated Israel to kidnap soldiers. ](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.md)
 _Context: Azzam Azzam, Druze, Egypt, Israel, prisoner exchange, spying_
 
-##### Prime Minister
+##### French Prime Minister
 ### [ French Prime Minister Jean-Pierre Raffarin seeks to ban Hizbullah's TV channel al-Manar from broadcasting in France due to purported anti-Semitic content, most recently involving a commentator speaking of "Zionist attempts to transmit AIDS to Arab countries". al-Manar claims to be anti-Israeli rather than anti-Semitic. ](/news/2004/12/5/french-prime-minister-jean-pierre-raffarin-seeks-to-ban-hizbullah-s-tv-channel-al-manar-from-broadcasting-in-france-due-to-purported-anti-s.md)
-_Context: AIDS, Arab countries, Hizbullah, Israel, Jean-Pierre Raffarin, Prime Minister, Zionist, al-Manar, anti-Semitic_
+_Context: AIDS, Arab countries, French Prime Minister, Hizbullah, Israel, Jean-Pierre Raffarin, Zionist, al-Manar, anti-Semitic_
 
 ##### Iraq
 ### [ More than 20 are killed and many more injured in a series of attacks on Iraqis working for the United States by Iraqi insurgents today. ](/news/2004/12/5/more-than-20-are-killed-and-many-more-injured-in-a-series-of-attacks-on-iraqis-working-for-the-united-states-by-iraqi-insurgents-today.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/18/index.html)  [JSON](2015/08/18/index.json)  [XML](201
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey Ahmet Davutoglu returns his mandate to form a government to the President after failing to form a coalition government. This means that a new election is likely. ](/news/2015/08/18/the-prime-minister-of-turkey-ahmet-davutoalu-returns-his-mandate-to-form-a-government-to-the-president-after-failing-to-form-a-coalition-go.md)
-_Context: Ahmet Davutoglu, President of Turkey, Turkish Prime Minister, mandate_
+_Context: Ahmet Davutoglu, Turkish President, Turkish Prime Minister, mandate_
 
 ##### Food and Drug Administration
 ### [The US Food and Drug Administration approves the use of Flibanserin to help women with Hypoactive Sexual Desire Disorder. ](/news/2015/08/18/the-us-food-and-drug-administration-approves-the-use-of-flibanserin-to-help-women-with-hypoactive-sexual-desire-disorder.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspic
 
 ### [2018-02-26](/news/2018/02/26/index.md)
 
-##### Human Rights in China
+##### Human rights in China
 # Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. 
 
 

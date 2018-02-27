@@ -12,7 +12,7 @@ National Academy of Sciences
 The high court&rsquo;s decision is an important victory for the Obama administration.
 
 ##### Chicago
-### [Chicago, Illinois Mayor Rahm Emanuel asked for and received the resignation of that city's police superintendant Garry McCarthy. Emanuel spoke of the loss of the public's confidence in the city police and announced a task force on police accountability. The change comes in the wake of protests over the release of police footage showing the October 2014 shooting of Laquan McDonald. ](/news/2015/12/1/chicago-illinois-mayor-rahm-emanuel-asked-for-and-received-the-resignation-of-that-cityas-police-superintendant-garry-mccarthy-emanuel-s.md)
+### [Chicago, Illinois Mayor Rahm Emanuel asked for and received the resignation of that city's police superintendent Garry McCarthy. Emanuel spoke of the loss of the public's confidence in the city police and announced a task force on police accountability. The change comes in the wake of protests over the release of police footage showing the October 2014 shooting of Laquan McDonald. ](/news/2015/12/1/chicago-illinois-mayor-rahm-emanuel-asked-for-and-received-the-resignation-of-that-cityas-police-superintendent-garry-mccarthy-emanuel-s.md)
 _Context: Chicago, Garry McCarthy, Illinois, Laquan McDonald, Rahm Emanuel_
 
 ##### Death of Jennifer Laude

@@ -3,13 +3,13 @@ Formats: [HTML](2018/02/26/index.html)  [JSON](2018/02/26/index.json)  [XML](201
 
 ## [2018-02-26](/news/2018/02/26/index.md)
 
-##### Human Rights in China
+##### Human rights in China
 ### [Human rights activist Li Boguang dies in suspicious circumstances in Beijing at the age of 49. ](/news/2018/02/26/human-rights-activist-li-boguang-dies-in-suspicious-circumstances-in-beijing-at-the-age-of-49.md)
-_Context: Beijing, Human Rights in China, Li Boguang_
+_Context: Beijing, Human rights in China, Li Boguang_
 
 ##### Politics of New Zealand
 ### [Simon Bridges is voted in as leader of the National Party. ](/news/2018/02/26/simon-bridges-is-voted-in-as-leader-of-the-national-party.md)
-_Context: National Party, Politics of New Zealand, Simon Bridges_
+Some MPs are still undecided, so a lot lies on the pitch to caucus.
 
 ##### Politics of France
 ### [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-edouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-will.md)

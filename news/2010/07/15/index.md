@@ -51,9 +51,9 @@ Dick Cheney, the former US Vice President, has undergone heart surgery, he has a
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
 By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have rejected an advertisement that urges viewers to protest a mosque bein
 
-##### President of Mexico
+##### Mexican President
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: Felipe Calderon, Fernando Gomez Mont, Mexico's Secretary of the Interior, President of Mexico_
+_Context: Felipe Calderon, Fernando Gomez Mont, Mexican President, Mexico's Secretary of the Interior_
 
 ##### Argentina
 ### [Argentina becomes the first Latin American country to legalise same-sex marriage. ](/news/2010/07/15/argentina-becomes-the-first-latin-american-country-to-legalise-same-sex-marriage.md)
