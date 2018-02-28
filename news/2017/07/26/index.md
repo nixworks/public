@@ -4,7 +4,7 @@ Formats: [HTML](2017/07/26/index.html)  [JSON](2017/07/26/index.json)  [XML](201
 ## [2017-07-26](/news/2017/07/26/index.md)
 
 ##### Corruption in Spain
-### [Spanish Prime Minister, Mariano Rajoy, testify in Audiencia Nacional as a witness in the framework of the investigation into the Gurtel corruption scandal, of the financing of his party. It is the first PM in Spain in service to attend a trial. Although he benefited from this corruption scheme, he denied any knowledge. This situation prompted a no-confidence motion against Rajoy's government, which was debated on 13 June and defeated as expected on 14 June ](/news/2017/07/26/spanish-prime-minister-mariano-rajoy-testify-in-audiencia-nacional-as-a-witness-in-the-framework-of-the-investigation-into-the-ga1-4rtel-cor.md)
+### [Spanish Prime Minister, Mariano Rajoy, testify in Audiencia Nacional as a witness in the framework of the investigation into the Gurtel corruption scandal, of the illegal financing of his party. He is the first PM in Spain in service to attend a trial. Although he benefited from this corruption scheme, he denied any knowledge. This situation prompted a no-confidence motion against Rajoy's government, which was debated on 13 June and defeated as expected on 14 June ](/news/2017/07/26/spanish-prime-minister-mariano-rajoy-testify-in-audiencia-nacional-as-a-witness-in-the-framework-of-the-investigation-into-the-ga1-4rtel-cor.md)
 He vociferously denies any part in an alleged illegal financing scheme swirling around his party.
 
 ##### Efforts to repeal Obamacare
