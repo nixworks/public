@@ -16,7 +16,7 @@ The Ministry of Transport announced that the death toll in a collision between a
 _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
 
 ##### Dick's Sporting Goods
-### [Dick's Sporting Goods commits to not sell military-style semi-automatic weapons anymore and to stop selling firearms to anyone aged under 21, "to do something about" events as the Stoneman Douglas High School shooting. ](/news/2018/02/28/dick-s-sporting-goods-commits-to-not-sell-military-style-semi-automatic-weapons-anymore-and-to-stop-selling-firearms-to-anyone-aged-under-21.md)
+### [Dick's Sporting Goods commits to cease selling anymore military-style semi-automatic weapons and to stop selling firearms to anyone aged under 21, in response to the Stoneman Douglas High School shooting. ](/news/2018/02/28/dick-s-sporting-goods-commits-to-cease-selling-anymore-military-style-semi-automatic-weapons-and-to-stop-selling-firearms-to-anyone-aged-und.md)
 _Context: Dick's Sporting Goods, Stoneman Douglas High School shooting_
 
 ##### Economy of the United Kingdom
