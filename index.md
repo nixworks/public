@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/28/index.md)
 
+##### Hope Hicks
+### [Hope Hicks announces that she is resigning as White House Communications Director. ](/news/2018/02/28/hope-hicks-announces-that-she-is-resigning-as-white-house-communications-director.md)
+The resignation comes one day after Hicks testified before the House intelligence committee for nine hours as part of the Russia investigation
+
 ##### Politics of Afghanistan
 ### [President of Afghanistan Ashraf Ghani offers to recognize the Taliban as a legitimate political formation. ](/news/2018/02/28/president-of-afghanistan-ashraf-ghani-offers-to-recognize-the-taliban-as-a-legitimate-political-formation.md)
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
@@ -17,7 +21,7 @@ _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United 
 
 ##### Dick's Sporting Goods
 ### [Dick's Sporting Goods commits to cease selling anymore military-style semi-automatic weapons and to stop selling firearms to anyone aged under 21, in response to the Stoneman Douglas High School shooting. ](/news/2018/02/28/dick-s-sporting-goods-commits-to-cease-selling-anymore-military-style-semi-automatic-weapons-and-to-stop-selling-firearms-to-anyone-aged-und.md)
-_Context: Dick's Sporting Goods, Stoneman Douglas High School shooting_
+_Context: Dick's Sporting Goods, Stoneman Douglas High School shooting, firearm, semi-automatic_
 
 ##### Economy of the United Kingdom
 ### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3,200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3-200-jobs-at-risk.md)
