@@ -7,6 +7,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [President of Afghanistan Ashraf Ghani offers to recognize the Taliban as a legitimate political formation. ](/news/2018/02/28/president-of-afghanistan-ashraf-ghani-offers-to-recognize-the-taliban-as-a-legitimate-political-formation.md)
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
 
+##### 2017-18 Western Europe windstorm season
+### [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md)
+_Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
+
+##### Economy of the United Kingdom
+### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3,200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3-200-jobs-at-risk.md)
+Two of the UK’s best-known retailers collapsed into administration on Wednesday, putting well over 5,000 jobs at risk and underscoring the pressures stemming from inflation, slumping consumer confidence and the surging popularity of internet shopping. Toys R Us, which had reportedly been wrangling...
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -55,13 +63,17 @@ The French government will abolish jobs-for-life at state-owned railways SNCF. M
 ### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
 
+##### Crime in Belgium
+### [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md)
+The police arrested six people in Oss on Monday after the Belgian authorities discovered 4,500 kilograms of cocaine in a container at the port of Antwerp over the weekend, the police said in a statement. The cocaine was hidden in a banana shipment that came from Colombia. The Belgian authorities rem...
+
 ##### France-Turkey relations
 ### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md)
 France on Monday said that Russia had to use its influence on the Syrian government to ensure it kept to a U.N.-backed nationwide ceasefire, and told Turkey the truce also applied to its operations against Kurdish militants in the Afrin region.
 
 ##### United States-Mexico relations
 ### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S. President, U.S.-Mexico border wall, United States, United States-Mexico relations_
+_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S., U.S. President, U.S.-Mexico border wall, United States-Mexico relations_
 
 ##### Women's rights in Saudi Arabia
 ### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)

@@ -4,10 +4,15 @@ Formats: [HTML](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrest
 ### [2018-02-26](/news/2018/02/26/index.md)
 
 ##### Crime in Belgium
-# Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. {{cn}}
+# Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. 
+
+The police arrested six people in Oss on Monday after the Belgian authorities discovered 4,500 kilograms of cocaine in a container at the port of Antwerp over the weekend, the police said in a statement. The cocaine was hidden in a banana shipment that came from Colombia. The Belgian authorities removed the drugs from the container and sent it on to its delivery address. The Dutch police took over when that delivery address turned out to be in Oss.
 
 
+### Sources:
 
+1. [NL Times](https://nltimes.nl/2018/02/28/4500-kilos-cocaine-found-container-destined-nl-six-arrested)
+1. [Cover Image](https://nltimes.nl/sites/nl-times.nl/files/styles/main/public/2018/02/cocaineoss.jpg)
 
 ### Related:
 
