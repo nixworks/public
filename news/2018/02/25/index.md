@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/25/index.html)  [JSON](2018/02/25/index.json)  [XML](201
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
 ##### Iraq
-### [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md)
+### [An Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/an-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md)
 Thousands of ISIS-affiliated women are surrendering or being detained in Iraq and Syria.
 
 ##### Crime in Puerto Rico

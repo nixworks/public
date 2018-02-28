@@ -3,8 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/27/index.md)
 
+##### Democratic Republic of the Congo general election, 2018
+### [In a statement the foreign ministry of Botswana urges Joseph Kabila, the President of DR Congo, to step down since his term expired in December 2016, and hold the long-delayed new election. ](/news/2018/02/27/in-a-statement-the-foreign-ministry-of-botswana-urges-joseph-kabila-the-president-of-dr-congo-to-step-down-since-his-term-expired-in-decem.md)
+_Context: Botswana, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President of DR Congo, foreign ministry_
+
 ##### 2016-2018 investigations involving Benjamin Netanyahu
-### [The Israeli Prosecutor's Office linked Israeli Prime Minister Benjamin Netanyahu in a corruption case. ](/news/2018/02/27/the-israeli-prosecutor-s-office-linked-israeli-prime-minister-benjamin-netanyahu-in-a-corruption-case.md)
+### [The Israeli Prosecutor's Office links Prime Minister Benjamin Netanyahu in a corruption case. ](/news/2018/02/27/the-israeli-prosecutor-s-office-links-prime-minister-benjamin-netanyahu-in-a-corruption-case.md)
 PM named in court as alleged beneficiary of illicit deal for &#039;adulating coverage in return for regulatory benefits&#039; said worth a billion shekels
 
 ##### Donald Trump presidential campaign, 2020
@@ -15,6 +19,14 @@ Brad Parscale was credited as being a secret weapon for Trump&#039;s 2016 electi
 ### [King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md)
 Army chief of staff, ministers and top commanders of ground and air defence forces replaced, in series of royal decrees.
 
+##### U.S. military
+### [A letter containing an unknown substance opened at a U.S. military base in Arlington, Virginia, leaves 11 people ill and three transported to a hospital. ](/news/2018/02/27/a-letter-containing-an-unknown-substance-opened-at-a-u-s-military-base-in-arlington-virginia-leaves-11-people-ill-and-three-transported-t.md)
+Eleven people fell ill and three were transported to a hospital on Tuesday after a letter was opened at a U.S. military base in Arlington, Virginia, the fire department and a base spokeswoman said.
+
+##### Reuters
+### ["Reuters" reports that North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/reuters-reports-that-north-korean-leader-kim-jong-un-and-his-late-father-kim-jong-il-used-fraudulently-obtained-brazilian-passports-to-app.md)
+North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s, five senior Western European security sources told Reuters.
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -22,10 +34,6 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/02/26/index.md)
-
-##### Presidency of Donald Trump
-### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
-_Context: Joseph Y. Yun, Presidency of Donald Trump, United States Special Representative for North Korea Policy_
 
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
@@ -38,10 +46,6 @@ The French government will abolish jobs-for-life at state-owned railways SNCF. M
 ##### National Party of Australia leadership election, 2018
 ### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
-
-##### Crime in Belgium
-### [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md)
-_Context: Colombia, Crime in Belgium, Dutch, Oss, Port of Antwerp, cocaine_
 
 ##### France-Turkey relations
 ### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md)
@@ -64,7 +68,7 @@ Applications are open in several provinces for roles that do not appear to invol
 China’s Communist party chiefs propose constitutional change to allow president to stay on
 
 ##### Iraq
-### [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md)
+### [An Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/an-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md)
 Thousands of ISIS-affiliated women are surrendering or being detained in Iraq and Syria.
 
 ##### Crime in Puerto Rico

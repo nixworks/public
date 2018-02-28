@@ -12,7 +12,7 @@ Formats: [HTML](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-tow
 ### Sources:
 
 1. [CNN](https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html)
-2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km)
+2. [The United States Geological Survey](https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km)
 2. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:

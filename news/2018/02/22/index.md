@@ -3,10 +3,6 @@ Formats: [HTML](2018/02/22/index.html)  [JSON](2018/02/22/index.json)  [XML](201
 
 ## [2018-02-22](/news/2018/02/22/index.md)
 
-##### National debt
-### [In exchange for some of its national debt being written off, the Seychelles designates two new marine protected areas in the Indian Ocean, covering about 210000 km2. It is the result of a financial deal, brokered in 2016 by The Nature Conservancy. ](/news/2018/02/22/in-exchange-for-some-of-its-national-debt-being-written-off-the-seychelles-designates-two-new-marine-protected-areas-in-the-indian-ocean-c.md)
-A novel deal with donors including Leonardo DiCaprio turned public debt into conservation funding.
-
 ##### 2017-18 United States political sexual scandals
 ### [California State Senator Tony Mendoza resigns after being investigated over sexual harassment claims. ](/news/2018/02/22/california-state-senator-tony-mendoza-resigns-after-being-investigated-over-sexual-harassment-claims.md)
 Mr. Mendoza, a Democratic state senator from the Los Angeles area, was facing an expulsion vote. He is the third legislator in the state to resign over sexual allegations.
@@ -30,6 +26,10 @@ _Context: Alexei Navalny, Leonid Volkov, Russian police, Russian presidential el
 ##### Politics of Romania
 ### [Romanian Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the National Anticorruption Directorate, Laura Codruta Kovesi. The announcement sparks protests. ](/news/2018/02/22/romanian-justice-minister-tudorel-toader-announces-that-he-would-trigger-the-dismissal-procedures-of-the-chief-prosecutor-of-the-national-an.md)
 _Context: Laura Codruta Kovesi, National Anticorruption Directorate, Politics of Romania, Romania, Tudorel Toader_
+
+##### National debt
+### [In exchange for some of its national debt being written off, the Seychelles designates two new marine protected areas in the Indian Ocean, covering about 210000 km2. It is the result of a financial deal, brokered in 2016 by The Nature Conservancy. ](/news/2018/02/22/in-exchange-for-some-of-its-national-debt-being-written-off-the-seychelles-designates-two-new-marine-protected-areas-in-the-indian-ocean-c.md)
+A novel deal with donors including Leonardo DiCaprio turned public debt into conservation funding.
 
 ##### Syrian Civil War
 ### [Russia blocks agreement on a United Nations Security Council resolution calling for a 30-day truce in Syria. A formal vote is postponed. ](/news/2018/02/22/russia-blocks-agreement-on-a-united-nations-security-council-resolution-calling-for-a-30-day-truce-in-syria-a-formal-vote-is-postponed.md)

@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/4/index.html)  [JSON](2018/02/4/index.json)  [XML](2018/
 ## [2018-02-4](/news/2018/02/4/index.md)
 
 ##### Asteroid close approaches to Earth in 2018
-### [A ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6-million-mi.md)
+### [As predicted, a ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/as-predicted-a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6.md)
 A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
 
 ##### Weinstein effect
