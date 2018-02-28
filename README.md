@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [President of Afghanistan Ashraf Ghani offers to recognize the Taliban as a legitimate political formation. ](/news/2018/02/28/president-of-afghanistan-ashraf-ghani-offers-to-recognize-the-taliban-as-a-legitimate-political-formation.md)
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
 
+##### Beheira
+### [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 persons and 40 people are injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-persons-and-40-people-are-injured.md)
+The Ministry of Transport announced that the death toll in a collision between a cargo and a passenger train in Beheira has risen to 15, with 40 people injured. A passenger train collided with a cargo train in Beheira on Wednesday afternoon. The Railway Authority explained in a statement the cause o...
+
 ##### 2017-18 Western Europe windstorm season
 ### [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md)
 _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
@@ -44,12 +48,16 @@ Army chief of staff, ministers and top commanders of ground and air defence forc
 Eleven people fell ill and three were transported to a hospital on Tuesday after a letter was opened at a U.S. military base in Arlington, Virginia, the fire department and a base spokeswoman said.
 
 ##### North Korea
-### [Reports show that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/reports-show-that-north-korean-leader-kim-jong-un-and-his-father-kim-jong-il-used-fraudulently-obtained-brazilian-passports-in-order-to-appl.md)
+### [Five unnamed Western European security sources allege that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/five-unnamed-western-european-security-sources-allege-that-north-korean-leader-kim-jong-un-and-his-father-kim-jong-il-used-fraudulently-obta.md)
 North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s, five senior Western European security sources told Reuters.
 
 ---
 
 ## [Day Before Yesterday](/news/2018/02/26/index.md)
+
+##### 2017-18 North Korea crisis
+### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
+_Context: 2017-18 North Korea crisis, Joseph Y. Yun, United States Special Representative for North Korea Policy_
 
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)

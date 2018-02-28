@@ -3,6 +3,10 @@ Formats: [HTML](2018/02/26/index.html)  [JSON](2018/02/26/index.json)  [XML](201
 
 ## [2018-02-26](/news/2018/02/26/index.md)
 
+##### 2017-18 North Korea crisis
+### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
+_Context: 2017-18 North Korea crisis, Joseph Y. Yun, United States Special Representative for North Korea Policy_
+
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
 Some MPs are still undecided, so a lot lies on the pitch to caucus.

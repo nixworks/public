@@ -24,7 +24,7 @@ Army chief of staff, ministers and top commanders of ground and air defence forc
 Eleven people fell ill and three were transported to a hospital on Tuesday after a letter was opened at a U.S. military base in Arlington, Virginia, the fire department and a base spokeswoman said.
 
 ##### North Korea
-### [Reports show that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/reports-show-that-north-korean-leader-kim-jong-un-and-his-father-kim-jong-il-used-fraudulently-obtained-brazilian-passports-in-order-to-appl.md)
+### [Five unnamed Western European security sources allege that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/five-unnamed-western-european-security-sources-allege-that-north-korean-leader-kim-jong-un-and-his-father-kim-jong-il-used-fraudulently-obta.md)
 North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s, five senior Western European security sources told Reuters.
 
 ## [Previous Day...](/news/2018/02/26/index.md)

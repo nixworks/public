@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/26/united-states-special-representative-for-north-
 
 ### [2018-02-26](/news/2018/02/26/index.md)
 
-##### Presidency of Donald Trump
+##### 2017-18 North Korea crisis
 # United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. 
 
 
@@ -15,8 +15,5 @@ Formats: [HTML](/news/2018/02/26/united-states-special-representative-for-north-
 
 ### Related:
 
-1. [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md) _Context: Presidency of Donald Trump_
-2. [The Trump administration through the U.S. Justice Department announces charges filed against more than 250 defendants in senior-citizen fraud schemes totaling $500 million. ](/news/2018/02/22/the-trump-administration-through-the-u-s-justice-department-announces-charges-filed-against-more-than-250-defendants-in-senior-citizen-frau.md) _Context: Presidency of Donald Trump_
-3. [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md) _Context: Presidency of Donald Trump_
-4. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: Presidency of Donald Trump_
-5. [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md) _Context: Presidency of Donald Trump_
+1. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: 2017-18 North Korea crisis_
+2. [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md) _Context: 2017-18 North Korea crisis_
