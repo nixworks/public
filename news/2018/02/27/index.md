@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/27/index.html)  [JSON](2018/02/27/index.json)  [XML](201
 ## [2018-02-27](/news/2018/02/27/index.md)
 
 ##### Democratic Republic of the Congo general election, 2018
-### [In a statement the foreign ministry of Botswana urges Joseph Kabila, the President of DR Congo, to step down since his term expired in December 2016, and hold the long-delayed new election. ](/news/2018/02/27/in-a-statement-the-foreign-ministry-of-botswana-urges-joseph-kabila-the-president-of-dr-congo-to-step-down-since-his-term-expired-in-decem.md)
+### [In a public statement, the foreign ministry of Botswana urges Joseph Kabila, the President of DR Congo, to step down since his term expired in December 2016, and hold the long-delayed new election. ](/news/2018/02/27/in-a-public-statement-the-foreign-ministry-of-botswana-urges-joseph-kabila-the-president-of-dr-congo-to-step-down-since-his-term-expired.md)
 _Context: Botswana, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President of DR Congo, foreign ministry_
 
 ##### 2016-2018 investigations involving Benjamin Netanyahu
@@ -23,8 +23,8 @@ Army chief of staff, ministers and top commanders of ground and air defence forc
 ### [A letter containing an unknown substance opened at a U.S. military base in Arlington, Virginia, leaves 11 people ill and three transported to a hospital. ](/news/2018/02/27/a-letter-containing-an-unknown-substance-opened-at-a-u-s-military-base-in-arlington-virginia-leaves-11-people-ill-and-three-transported-t.md)
 Eleven people fell ill and three were transported to a hospital on Tuesday after a letter was opened at a U.S. military base in Arlington, Virginia, the fire department and a base spokeswoman said.
 
-##### Reuters
-### ["Reuters" reports that North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/reuters-reports-that-north-korean-leader-kim-jong-un-and-his-late-father-kim-jong-il-used-fraudulently-obtained-brazilian-passports-to-app.md)
+##### North Korea
+### ['Reports show that North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/reports-show-that-north-korean-leader-kim-jong-un-and-his-late-father-kim-jong-il-used-fraudulently-obtained-brazilian-passports-to-apply-f.md)
 North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s, five senior Western European security sources told Reuters.
 
 ## [Previous Day...](/news/2018/02/26/index.md)
