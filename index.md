@@ -15,6 +15,10 @@ The Ministry of Transport announced that the death toll in a collision between a
 ### [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md)
 _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
 
+##### Dick's Sporting Goods
+### [Dick's Sporting Goods commits to not sell military-style semi-automatic weapons anymore and to stop selling firearms to anyone aged under 21, "to do something about" events as the Stoneman Douglas High School shooting. ](/news/2018/02/28/dick-s-sporting-goods-commits-to-not-sell-military-style-semi-automatic-weapons-anymore-and-to-stop-selling-firearms-to-anyone-aged-under-21.md)
+_Context: Dick's Sporting Goods, Stoneman Douglas High School shooting_
+
 ##### Economy of the United Kingdom
 ### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3,200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3-200-jobs-at-risk.md)
 Two of the UK’s best-known retailers collapsed into administration on Wednesday, putting well over 5,000 jobs at risk and underscoring the pressures stemming from inflation, slumping consumer confidence and the surging popularity of internet shopping. Toys R Us, which had reportedly been wrangling...
