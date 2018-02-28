@@ -65,7 +65,7 @@ _Context: 2010 Kentucky Derby, Calvin Borel, Super Saver, thoroughbred racing_
 
 ##### Nazimiye
 ### [Four soldiers are killed and several sustain wounds in a rocket, rifle and grenade attack on a military outpost near Nazimiye in Turkey. ](/news/2010/05/1/four-soldiers-are-killed-and-several-sustain-wounds-in-a-rocket-rifle-and-grenade-attack-on-a-military-outpost-near-nazimiye-in-turkey.md)
-_Context: Nazimiye, Turkey_
+_Context: Nazimiye, Turkish_
 
 ##### Mogadishu bombings
 ### [Dozens of people are killed by twin bomb blasts inside a Mogadishu mosque. ](/news/2010/05/1/dozens-of-people-are-killed-by-twin-bomb-blasts-inside-a-mogadishu-mosque.md)

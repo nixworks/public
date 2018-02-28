@@ -27,7 +27,7 @@ _Context: Philippines_
 ### [ OPEC meets to discuss proposals for a minor increase in oil output proposed by Saudi Arabia and other Gulf states. The meeting decided to increase output by 500,000 barrels a day.](/news/2007/09/11/opec-meets-to-discuss-proposals-for-a-minor-increase-in-oil-output-proposed-by-saudi-arabia-and-other-gulf-states-the-meeting-decided-to-i.md)
 _Context: OPEC, Saudi Arabia_
 
-##### Turkey
+##### Turkish
 ### [ Turkish police foil a bomb attack in Ankara. ](/news/2007/09/11/turkish-police-foil-a-bomb-attack-in-ankara.md)
 Turkish police foiled a bomb attack in Ankara on Tuesday, the sixth anniversary of 9/11 attacks on the United States, averting what officials said would have been a disaster for the capital.
 

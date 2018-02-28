@@ -37,7 +37,7 @@ _Context: Human Rights Watch, Israel, visa, work visa_
 
 ##### Guatemala
 ### [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md)
-_Context: Guatemala, Netherlands, Women on Waves, abortion, army_
+_Context: Dutch, Guatemala, Women on Waves, abortion, army_
 
 ##### JC Penney
 ### [Retail chain JC Penney announces plans to close between 130 and 140 stores, as well as 2 distribution centers, amid sagging store sales. ](/news/2017/02/24/retail-chain-jc-penney-announces-plans-to-close-between-130-and-140-stores-as-well-as-2-distribution-centers-amid-sagging-store-sales.md)

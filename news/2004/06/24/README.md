@@ -9,7 +9,7 @@ _Context: Archduke Franz Ferdinand of Austria, Austria, Browning, Gavrilo Princi
 
 ##### Bombs
 ### [ Bombs explode in Ankara and Istanbul, Turkey, killing three and wounding at least 18. ](/news/2004/06/24/bombs-explode-in-ankara-and-istanbul-turkey-killing-three-and-wounding-at-least-18.md)
-_Context: Ankara, Bombs, Istanbul, Turkey_
+_Context: Ankara, Bombs, Istanbul, Turkish_
 
 ##### Iraq
 ### [ Iraqi insurgents explode multiple car bombs and seize police stations in a six-city offensive, killing over 100 and wounding at least 320, nearly all Iraqis. U.S officials accuse Abu Musab al-Zarqawi's network of involvement. ](/news/2004/06/24/iraqi-insurgents-explode-multiple-car-bombs-and-seize-police-stations-in-a-six-city-offensive-killing-over-100-and-wounding-at-least-320.md)

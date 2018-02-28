@@ -9,7 +9,7 @@ Experts are working on a rescue plan to save the only dolphin unique to Australi
 
 ##### Remembrance of the Dead
 ### [Dozens of people are injured when panic breaks out at the Remembrance of the Dead in Amsterdam, the Netherlands. ](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.md)
-_Context: Amsterdam, Netherlands, Remembrance of the Dead_
+_Context: Amsterdam, Dutch, Remembrance of the Dead_
 
 ##### Hohhot
 ### [At least 10 people die and 14 are injured in a fire at a dormitory for railway workers in Hohhot, Inner Mongolia. ](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.md)

@@ -37,7 +37,7 @@ _Context: Monaco, Prince Rainier, buried_
 
 ##### Human Rights Watch
 ### [ A Human Rights Watch report states that the United States, Britain, the Netherlands and Canada rely on "flimsy" diplomacy in attempts to send foreign terror suspects back to countries that routinely use torture against their Prisoners. ](/news/2005/04/15/a-human-rights-watch-report-states-that-the-united-states-britain-the-netherlands-and-canada-rely-on-flimsy-diplomacy-in-attempts-to-se.md)
-_Context: Canada, Human Rights Watch, Netherlands, United States, diplomatic, jail, torture_
+_Context: Canada, Dutch, Human Rights Watch, United States, diplomatic, jail, torture_
 
 ##### Palestinian
 ### [ A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. ](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.md)

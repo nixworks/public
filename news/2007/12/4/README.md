@@ -3,9 +3,9 @@ Formats: [HTML](2007/12/4/index.html)  [JSON](2007/12/4/index.json)  [XML](2007/
 
 ## [2007-12-4](/news/2007/12/4/index.md)
 
-##### Turkey
+##### Turkish
 ### [ Turkish President Abdullah Gul signs a nuclear energy bill, allowing bids to be made for Turkey's first nuclear reactor. ](/news/2007/12/4/turkish-president-abdullah-ga1-4l-signs-a-nuclear-energy-bill-allowing-bids-to-be-made-for-turkey-s-first-nuclear-reactor.md)
-_Context: Abdullah Gul, Turkey, Turkish President_
+_Context: Abdullah Gul, Turkish, Turkish President_
 
 ##### David Southall
 ### [ Dr. David Southall, a prominent British paediatric scientist, is barred from practice after a General Medical Council panel finds that he abused his position to make unsubstantiated accusations in court, and kept illegal records. ](/news/2007/12/4/dr-david-southall-a-prominent-british-paediatric-scientist-is-barred-from-practice-after-a-general-medical-council-panel-finds-that-he-a.md)

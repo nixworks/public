@@ -7,9 +7,9 @@ Formats: [HTML](2014/07/18/index.html)  [JSON](2014/07/18/index.json)  [XML](201
 ### [Six men are arrested in the Australian state of Victoria in relation to alleged involvement in an international tennis match-fixing syndicate. ](/news/2014/07/18/six-men-are-arrested-in-the-australian-state-of-victoria-in-relation-to-alleged-involvement-in-an-international-tennis-match-fixing-syndicat.md)
 Six men have been arrested in connection to an alleged international tennis match-fixing syndicate.
 
-##### Turkey
+##### Turkish
 ### [Turkish Prime Minister Recep Tayyip Erdogan slams Egyptian President Abdel Fattah el-Sisi as an "illegitimate tyrant", adding that Egypt could not be relied on when negotiating a ceasefire. ](/news/2014/07/18/turkish-prime-minister-recep-tayyip-erdoaan-slams-egyptian-president-abdel-fattah-el-sisi-as-an-illegitimate-tyrant-adding-that-egypt-co.md)
-_Context: Abdel Fattah el-Sisi, Egypt, Operation Protective Edge, Recep Tayyip Erdogan, Turkey_
+_Context: Abdel Fattah el-Sisi, Egypt, Operation Protective Edge, Recep Tayyip Erdogan, Turkish_
 
 ##### Washington
 ### [At least 35 homes have been destroyed in the US state of Washington in the Carlton complex wildfires. ](/news/2014/07/18/at-least-35-homes-have-been-destroyed-in-the-us-state-of-washington-in-the-carlton-complex-wildfires.md)

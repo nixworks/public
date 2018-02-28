@@ -59,9 +59,9 @@ _Context: Citigroup, Financial Times, hackers_
 ### [2011 Yemeni uprising: President Ali Abdullah Saleh undergoes surgery in Saudi Arabia for injuries sustained in a bomb blast. ](/news/2011/06/9/2011-yemeni-uprising-president-ali-abdullah-saleh-undergoes-surgery-in-saudi-arabia-for-injuries-sustained-in-a-bomb-blast.md)
 Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery in Riyadh, Saudi Arabia, where he is being treated for bomb blast wounds, officials said.
 
-##### Turkey
+##### Turkish
 ### [Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. ](/news/2011/06/9/turkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
-_Context: Libya, National Transitional  Council, Turkey_
+_Context: Libya, National Transitional  Council, Turkish_
 
 ##### Afghanistan
 ### [At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. ](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.md)

@@ -49,7 +49,7 @@ A protest for press freedom set to be staged in Quezon City on Friday evening is
 
 ##### Turkish military intervention in Afrin
 ### [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md)
-_Context: Afrin Canton, Kurdish, Turkey, Turkish military intervention in Afrin, YPG_
+_Context: Afrin Canton, Kurdish, Turkish, Turkish military intervention in Afrin, YPG_
 
 ## [Previous Day...](/news/2018/01/18/index.md)
 

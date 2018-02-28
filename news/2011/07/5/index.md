@@ -27,7 +27,7 @@ _Context: NSW, burqa_
 ### [25-year-old navy medic Michael Lyons is found guilty in Plymouth of refusing to attend rifle training; Lyons says he developed a moral objection to the war in Afghanistan due to revelations made public by WikiLeaks. ](/news/2011/07/5/25-year-old-navy-medic-michael-lyons-is-found-guilty-in-plymouth-of-refusing-to-attend-rifle-training-lyons-says-he-developed-a-moral-objec.md)
 _Context: Plymouth, War in Afghanistan (2001-present), WikiLeaks_
 
-##### Netherlands
+##### Dutch
 ### [The Netherlands is held responsible for the deaths of three Bosniaks during the Srebrenica massacre in Bosnia, according to a court ruling in The Hague. ](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.md)
 The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Srebrenica massacre, a court rules, opening the way for more claims.
 

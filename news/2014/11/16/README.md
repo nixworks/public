@@ -13,7 +13,7 @@ PROTESTERS at the G20 burned Australian flags today in a demonstration over indi
 
 ##### Influenza A virus subtype H5N1
 ### [Authorities in the Netherlands ban the sale of poultry and eggs following the discovery of the bird flu virus at a chicken farm. Authorities in the United Kingdom have also confirmed that the virus has been discovered at a Yorkshire duck farm with the birds being culled. ](/news/2014/11/16/authorities-in-the-netherlands-ban-the-sale-of-poultry-and-eggs-following-the-discovery-of-the-bird-flu-virus-at-a-chicken-farm-authorities.md)
-_Context: Influenza A virus subtype H5N1, Netherlands, United Kingdom, Yorkshire, eggs, poultry_
+_Context: Dutch, Influenza A virus subtype H5N1, United Kingdom, Yorkshire, eggs, poultry_
 
 ##### Switzerland
 ### [At least four people are killed in mudslides in southern Switzerland and northern Italy after days of heavy rain. ](/news/2014/11/16/at-least-four-people-are-killed-in-mudslides-in-southern-switzerland-and-northern-italy-after-days-of-heavy-rain.md)

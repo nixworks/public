@@ -33,7 +33,7 @@ _Context: Australia, New Zealand, Nuku'alofa, Tonga, Tongan government, states o
 
 ##### De Volkskrant
 ### [ Dutch newspaper "de Volkskrant" reports that officers of the Military Intelligence and Security Service of the Netherlands have physically abused prisoners in the Iraqi governorate of Al Muthanna. ](/news/2006/11/17/dutch-newspaper-de-volkskrant-reports-that-officers-of-the-military-intelligence-and-security-service-of-the-netherlands-have-physically.md)
-_Context: Al Muthanna Governorate, Iraq, Military Intelligence and Security Service, Netherlands, de Volkskrant, governorate_
+_Context: Al Muthanna Governorate, Dutch, Iraq, Military Intelligence and Security Service, de Volkskrant, governorate_
 
 ##### Government of the Netherlands
 ### [ The Government of the Netherlands announces it will introduce a bill banning the wearing of the burqa in public, stating that burqas disturb public order, citizens and safety. About 5% of the Dutch population is Muslim, but only a small percentage of those wear the burqa. ](/news/2006/11/17/the-government-of-the-netherlands-announces-it-will-introduce-a-bill-banning-the-wearing-of-the-burqa-in-public-stating-that-burqas-distur.md)

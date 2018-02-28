@@ -59,7 +59,7 @@ _Context: French President, Nicolas Sarkozy_
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)
 _Context: Lee Teng-hui, President, Taiwan, embezzlement, indicted_
 
-##### Prime Minister of Israel
+##### Israeli Prime Minister
 ### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.
 

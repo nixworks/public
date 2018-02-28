@@ -15,7 +15,7 @@ Formats: [HTML](/news/2005/01/27/french-national-railways-sncf-are-severely-disr
 
 ### Related:
 
-1. [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-edouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-will.md) _Context: SNCF_
+1. [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-adouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-wil.md) _Context: SNCF_
 2. [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md) _Context: Toulouse_
 3. [At least one person is killed and six others are injured in a shooting in the French city of Toulouse. ](/news/2017/07/3/at-least-one-person-is-killed-and-six-others-are-injured-in-a-shooting-in-the-french-city-of-toulouse.md) _Context: Toulouse_
 4. [Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. ](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.md) _Context: SNCF_

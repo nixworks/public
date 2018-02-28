@@ -21,7 +21,7 @@ _Context: Byzantine, Islam, Islamic world, Manuel II Palaiologos, Muhammad, Pope
 
 ##### U.S. State Department
 ### [ The U.S. State Department's annual report on religious freedom criticizes the governments of Uzbekistan, Iran and China for increasing repression while noting improvement in the practices of the governments of Saudi Arabia, Sudan and Vietnam. ](/news/2006/09/15/the-u-s-state-department-s-annual-report-on-religious-freedom-criticizes-the-governments-of-uzbekistan-iran-and-china-for-increasing-repr.md)
-_Context: Government of Uzbekistan, Iranian government, U.S. State Department, Vietnamese Government, government, government, government, religious freedom_
+_Context: Government of Saudi Arabia, Government of Uzbekistan, Iranian government, U.S. State Department, Vietnamese Government, government, government, religious freedom_
 
 ## [Previous Day...](/news/2006/09/14/index.md)
 

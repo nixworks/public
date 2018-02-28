@@ -5,11 +5,11 @@ Formats: [HTML](2006/07/18/index.html)  [JSON](2006/07/18/index.json)  [XML](200
 
 ##### International Four Days Marches Nijmegen
 ### [ On the first day of the 90th International Four Days Marches Nijmegen, two participants die of heart failure due to exhaustion caused by the exceptionally warm weather in the Netherlands. Because even higher temperatures are predicted for the second day, the organization decides to cancel the remainder of the event. ](/news/2006/07/18/on-the-first-day-of-the-90th-international-four-days-marches-nijmegen-two-participants-die-of-heart-failure-due-to-exhaustion-caused-by-th.md)
-_Context: International Four Days Marches Nijmegen, Netherlands_
+_Context: Dutch, International Four Days Marches Nijmegen_
 
-##### Turkey
+##### Turkish
 ### [ Turkey calls for Iraq and the United States to crack down on Kurdish guerrillas based in northern Iraq, and issued a veiled threat to attack the rebel bases if there was no progress. Meanwhile, the International Crisis Group releases a report entitled "Iraq and the Kurds: The Brewing Battle over Kirkuk" which examines the dangerously neglected looming conflict in and around the northern Iraqi city. ](/news/2006/07/18/turkey-calls-for-iraq-and-the-united-states-to-crack-down-on-kurdish-guerrillas-based-in-northern-iraq-and-issued-a-veiled-threat-to-attac.md)
-_Context: International Crisis Group, Kirkuk, Kurd, Turkey_
+_Context: International Crisis Group, Kirkuk, Kurd, Turkish_
 
 ##### Princess Cruises
 ### [ The Princess Cruises ship "Crown Princess" lists heavily, injuring several passengers. It immediately returns to Port Canaveral. ](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.md)

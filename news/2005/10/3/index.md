@@ -7,9 +7,9 @@ Formats: [HTML](2005/10/3/index.html)  [JSON](2005/10/3/index.json)  [XML](2005/
 ### [ In Canada, the Canadian Broadcasting Corporation and the Canadian Media Guild announce a preliminary agreement to end the current lockout of CMG members in most of the country which seriously impaired corporation's programming since August 17. ](/news/2005/10/3/in-canada-the-canadian-broadcasting-corporation-and-the-canadian-media-guild-announce-a-preliminary-agreement-to-end-the-current-lockout-o.md)
 _Context: August 17, CBC, Canada, Canadian Media Guild, locks out_
 
-##### Turkey
+##### Turkish
 ### [ Turkey and Croatia begin talks about joining the European Union following over a day of debate over an Austrian proposal that Turkey should be offered an associate status short of full membership. ](/news/2005/10/3/turkey-and-croatia-begin-talks-about-joining-the-european-union-following-over-a-day-of-debate-over-an-austrian-proposal-that-turkey-should.md)
-_Context: Austria, Croatia, Turkey, joining the European Union_
+_Context: Austria, Croatia, Turkish, joining the European Union_
 
 ##### NTL
 ### [ NTL, the largest British cable television company, telco and ISP, announces its multi-billion pound purchase of Telewest, the second largest cable company, creating one of the largest companies in the British media industry. ](/news/2005/10/3/ntl-the-largest-british-cable-television-company-telco-and-isp-announces-its-multi-billion-pound-purchase-of-telewest-the-second-larges.md)

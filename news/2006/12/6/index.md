@@ -43,9 +43,9 @@ _Context: Australian House of Representatives, Kay Patterson, Senator, conscienc
 ### [ The Iraq Study Group Report calls the situation in Iraq "grave and deteriorating" and calls for a change in strategy including the removal of most United States troops by early 2008. ](/news/2006/12/6/the-iraq-study-group-report-calls-the-situation-in-iraq-grave-and-deteriorating-and-calls-for-a-change-in-strategy-including-the-removal.md)
 _Context: Iraq, Iraq Study Group Report, United States_
 
-##### Kabila government
+##### Joseph Kabila
 ### [ Joseph Kabila, the first freely elected leader of the Democratic Republic of the Congo in 40 years, is inaugurated as President. ](/news/2006/12/6/joseph-kabila-the-first-freely-elected-leader-of-the-democratic-republic-of-the-congo-in-40-years-is-inaugurated-as-president.md)
-_Context: DR Congo, Kabila government, President, presidential candidate in 2006_
+_Context: DR Congo, Joseph Kabila, President, presidential candidate in 2006_
 
 ## [Previous Day...](/news/2006/12/5/index.md)
 

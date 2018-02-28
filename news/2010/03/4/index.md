@@ -57,7 +57,7 @@ _Context: Baltic Sea_
 
 ##### Committee on Foreign Affairs
 ### [The Committee on Foreign Affairs of the United States House of Representatives accepts a resolution describing the Armenian Genocide as "genocide", prompting Turkey to recall its ambassador and threatening Turkey-United States relations. ](/news/2010/03/4/the-committee-on-foreign-affairs-of-the-united-states-house-of-representatives-accepts-a-resolution-describing-the-armenian-genocide-as-gen.md)
-_Context: Committee on Foreign Affairs, Turkey, Turkey-United States relations, United States House of Representatives, genocide, genocide of Armenians_
+_Context: Committee on Foreign Affairs, Turkey-United States relations, Turkish, United States House of Representatives, genocide, genocide of Armenians_
 
 ##### Mexico City
 ### [A Mexico City law allowing same-sex marriages takes effect. ](/news/2010/03/4/a-mexico-city-law-allowing-same-sex-marriages-takes-effect.md)

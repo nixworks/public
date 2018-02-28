@@ -59,9 +59,9 @@ _Context: India, Maharashtra, bus_
 ### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
 Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank deposits.
 
-##### Turkey
+##### Turkish
 ### [Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party-in-ankara.md)
-_Context: AK Party, Ankara, Justice Minister, Turkey_
+_Context: AK Party, Ankara, Justice Minister, Turkish_
 
 ##### Bombings
 ### [A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)

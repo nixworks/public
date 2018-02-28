@@ -15,7 +15,7 @@ _Context: ''Bal'', 60th Berlin International Film Festival, Golden Bear_
 ### [Lunar Tet New Year holiday road accidents killed almost 300, injured 400 people in Vietnam. Most of the crashes involved alcohol. ](/news/2010/02/20/lunar-tet-new-year-holiday-road-accidents-killed-almost-300-injured-400-people-in-vietnam-most-of-the-crashes-involved-alcohol.md)
 _Context: Lunar Tet New Year holiday, Vietnam_
 
-##### Netherlands
+##### Dutch
 ### [The Dutch cabinet Balkenende IV collapses after a dispute on extending the mandate of Task Force Uruzgan in Afghanistan. ](/news/2010/02/20/the-dutch-cabinet-balkenende-iv-collapses-after-a-dispute-on-extending-the-mandate-of-task-force-uruzgan-in-afghanistan.md)
 Government collapses following disagreement on date for withdrawing troops.
 
@@ -33,7 +33,7 @@ At least 32 killed in floods and mudslides triggered by torrential rain in Madei
 
 ##### Venezuela
 ### [Russian allies, including Venezuela and Turkey, file a dozen requests for Mi-28N Night Hunter attack helicopters from Russia. ](/news/2010/02/20/russian-allies-including-venezuela-and-turkey-file-a-dozen-requests-for-mi-28n-night-hunter-attack-helicopters-from-russia.md)
-_Context: Mi-28, Russia, Turkey, Venezuela_
+_Context: Mi-28, Russia, Turkish, Venezuela_
 
 ##### Justice and Equality Movement
 ### [The Justice and Equality Movement rebel group in Sudan's Darfur region signs a framework ceasefire agreement with the Sudanese government in N'Djamena. ](/news/2010/02/20/the-justice-and-equality-movement-rebel-group-in-sudan-s-darfur-region-signs-a-framework-ceasefire-agreement-with-the-sudanese-government-in.md)

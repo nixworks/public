@@ -55,9 +55,9 @@ _Context: Michael Bloomberg, National September 11 Memorial & Museum, New York M
 ### [2011 Egyptian revolution: Egyptian security forces storm the offices of non-governmental organisations across the country. ](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.md)
 _Context: 2011 Egyptian revolution, non-governmental organisations_
 
-##### Turkey
+##### Turkish
 ### [Turkish warplanes launch airstrikes aimed at Kurdish militants, accidentally killing 35 smugglers that were suspected as guerillas. ](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-kurdish-militants-accidentally-killing-35-smugglers-that-were-suspected-as-guerillas.md)
-_Context: Kurdish, Turkey_
+_Context: Kurdish, Turkish_
 
 ##### Chinese
 ### [Seven kidnappers are killed and two hostages rescued in a police raid in China's Xinjiang Province, according to state media. One police officer was also reportedly killed. ](/news/2011/12/29/seven-kidnappers-are-killed-and-two-hostages-rescued-in-a-police-raid-in-china-s-xinjiang-province-according-to-state-media-one-police-off.md)

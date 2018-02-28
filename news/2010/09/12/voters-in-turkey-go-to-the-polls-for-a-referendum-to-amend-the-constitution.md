@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/12/voters-in-turkey-go-to-the-polls-for-a-referend
 
 ### [2010-09-12](/news/2010/09/12/index.md)
 
-##### Turkey
+##### Turkish
 # Voters in Turkey go to the polls for a referendum to amend the constitution. 
 
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
@@ -25,8 +25,8 @@ With 99 per cent of votes counted, provisional results show referendum passing w
 
 ### Related:
 
-1. [Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament. ](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-election-with-the-ruling-akp-seeking-enough-votes-to-enable-them-to-change-the-constitution.md) _Context: Turkey, constitution_
-2. [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md) _Context: Turkey, constitution_
-3. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkey_
-4. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_
-5. [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md) _Context: Turkey_
+1. [Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament. ](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-election-with-the-ruling-akp-seeking-enough-votes-to-enable-them-to-change-the-constitution.md) _Context: Turkish, constitution_
+2. [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md) _Context: Turkish, constitution_
+3. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkish_
+4. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkish_
+5. [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Turkish_

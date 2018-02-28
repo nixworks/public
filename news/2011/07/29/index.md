@@ -31,7 +31,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-##### Turkey
+##### Turkish
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
 The chief of the Turkish armed forces, Isik Kosaner, resigns along with the heads of the army, navy and air force.
 

@@ -39,9 +39,9 @@ The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intellige
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
 _Context: Bangladesh, Burma, Rohingya_
 
-##### Turkey
+##### Turkish
 ### [ A Turkish court sentences a Kurdish man to life in prison for a minibus bombing in 2005 that killed five people. ](/news/2009/12/29/a-turkish-court-sentences-a-kurdish-man-to-life-in-prison-for-a-minibus-bombing-in-2005-that-killed-five-people.md)
-_Context: Kurdish, Turkey, minibus bombing in 2005_
+_Context: Kurdish, Turkish, minibus bombing in 2005_
 
 ##### Sudanese parliament
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)

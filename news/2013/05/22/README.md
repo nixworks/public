@@ -19,9 +19,9 @@ _Context: Boston Marathon bombings, FBI, Orlando, Florida_
 ### [Australian politician Craig Thomson is charged with an additional 19 charges including 15 of fraud and 4 of theft. ](/news/2013/05/22/australian-politician-craig-thomson-is-charged-with-an-additional-19-charges-including-15-of-fraud-and-4-of-theft.md)
 Independent MP Craig Thomson is facing 19 new charges after appearing in a Melbourne court today.
 
-##### Netherlands
+##### Dutch
 ### [Documents are secured as Dutch authorities execute a tax raid on Spyker Cars' headquarters on behalf of the Swedish tax authorities. ](/news/2013/05/22/documents-are-secured-as-dutch-authorities-execute-a-tax-raid-on-spyker-cars-headquarters-on-behalf-of-the-swedish-tax-authorities.md)
-_Context: Netherlands, Spyker Cars, Sweden_
+_Context: Dutch, Spyker Cars, Sweden_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-un dispatches a special envoy to the People's Republic of China amid signs of strained relations. ](/news/2013/05/22/north-korean-leader-kim-jong-un-dispatches-a-special-envoy-to-the-people-s-republic-of-china-amid-signs-of-strained-relations.md)

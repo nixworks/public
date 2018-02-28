@@ -61,7 +61,7 @@ _Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
 
 ##### Death threat
 ### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)
-_Context: CHP, DYP, Hakkri, Kurdistan Workers Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
+_Context: CHP, DYP, Hakkri, Kurdistan Workers Party, MHP, Turkish, Van, death threat, general elections, ruling party, was mailed_
 
 ##### Jorge Daniel Castro
 ### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)

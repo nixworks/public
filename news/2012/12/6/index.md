@@ -15,9 +15,9 @@ The scale of the battering the Moon received early in its history is revealed in
 ### [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jacksonavanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md)
 Russia denounces an &quot;absurd&quot; trade bill passed by the US Congress that will also penalise Russian officials linked to human rights violations.
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands State Secretary for Economic Affairs Co Verdaas resigns following an expense-affair after only thirty-one days in office. ](/news/2012/12/6/in-the-netherlands-state-secretary-for-economic-affairs-co-verdaas-resigns-following-an-expense-affair-after-only-thirty-one-days-in-office.md)
-_Context: Co Verdaas, Economic Affairs, Netherlands, State Secretary, expense_
+_Context: Co Verdaas, Dutch, Economic Affairs, State Secretary, expense_
 
 ##### Republican
 ### [Republican Jim DeMint announces that he will resign from the Senate of the United States in January to lead the Heritage Foundation. ](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.md)

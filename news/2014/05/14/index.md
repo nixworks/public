@@ -19,9 +19,9 @@ Tensions from clashes in the South China Sea erupt in the most serious outbreak 
 ### [A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/a-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md)
 The Poinsettia Fire has burned approximately 400 acres and several homes in Carlsbad, north of San Diego.
 
-##### Turkey
+##### Turkish
 ### [Turkey's Energy Minister Taner Yildiz raises the death toll from the disaster to at least 274, with 120 people still trapped in the mine and 80 miners injured, four seriously. ](/news/2014/05/14/turkey-s-energy-minister-taner-ya-lda-z-raises-the-death-toll-from-the-disaster-to-at-least-274-with-120-people-still-trapped-in-the-mine-a.md)
-_Context: Taner Yildiz, Turkey_
+_Context: Taner Yildiz, Turkish_
 
 ##### Hyderabad
 ### [At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. ](/news/2014/05/14/at-least-three-people-are-killed-and-15-injured-as-a-result-of-violent-clashes-between-two-religious-communities-in-the-indian-city-of-hyder.md)

@@ -37,7 +37,7 @@ Ms. Jolie Pitt and Mr. Pitt created a mythic version of themselves for public co
 
 ##### DR Congo
 ### [A day after street violence in the Democratic Republic of the Congo between protesters opposed to President Joseph Kabila and security forces left at least 44 dead, armed men in military uniforms burn down the headquarters of the main opposition Union for Democracy and Social Progress (UDPS) in Kinshasa, DR Congo, killing at least two people. ](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.md)
-_Context: DR Congo, Kabila government, Kinshasa, President, Union for Democracy and Social Progress_
+_Context: DR Congo, Joseph Kabila, Kinshasa, President of DR Congo, Union for Democracy and Social Progress_
 
 ## [Previous Day...](/news/2016/09/19/index.md)
 

@@ -49,7 +49,7 @@ _Context: Human Rights Council, Iranian government, human rights abuses_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo recalls its ambassador to the Republic of Congo in connection with a raid on President Joseph Kabila's home in Kinshasa. ](/news/2011/03/25/the-democratic-republic-of-the-congo-recalls-its-ambassador-to-the-republic-of-congo-in-connection-with-a-raid-on-president-joseph-kabila-s.md)
-_Context: DR Congo, Kabila government, Kinshasa, Republic of Congo_
+_Context: DR Congo, Joseph Kabila, Kinshasa, Republic of Congo_
 
 ##### 2011 Burma earthquake
 ### [The death toll from the 2011 Burma earthquake near the Thailand border reaches at least 75 with the potential for "many more casualties" as dozens of buildings are destroyed. ](/news/2011/03/25/the-death-toll-from-the-2011-burma-earthquake-near-the-thailand-border-reaches-at-least-75-with-the-potential-for-many-more-casualties-as.md)

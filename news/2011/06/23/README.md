@@ -45,7 +45,7 @@ _Context: App Store, Apple Inc., Intifada, Israel_
 
 ##### President of Indonesia
 ### [The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. ](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.md)
-_Context: Indonesia, President of Indonesia, Saudi Arabia, Susilo Bambang Yudhoyono, beheading, government_
+_Context: Government of Saudi Arabia, Indonesia, President of Indonesia, Saudi Arabia, Susilo Bambang Yudhoyono, beheading_
 
 ##### Japan
 ### [The Japanese national broadcasting company NHK captures images of the Chinese Navy navigating the high seas between the islands of Japan's Okinawa prefecture. ](/news/2011/06/23/the-japanese-national-broadcasting-company-nhk-captures-images-of-the-chinese-navy-navigating-the-high-seas-between-the-islands-of-japan-s-o.md)

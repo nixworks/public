@@ -47,7 +47,7 @@ _Context: Narathiwat, Thailand, Yala Province_
 ### [Amnesty International calls for an independent investigation into the July 2009 Urumqi riots, while the United States agrees. ](/news/2010/07/2/amnesty-international-calls-for-an-independent-investigation-into-the-july-2009-ara1-4mqi-riots-while-the-united-states-agrees.md)
 US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 
-##### Turkey
+##### Turkish
 ### [Turkish warplanes bomb Kurdistan Workers' Party (PKK) hideouts in the Qandil mountains and the Hakurk region of Iraq, the day after 17 people die in Siirt. ](/news/2010/07/2/turkish-warplanes-bomb-kurdistan-workers-party-pkk-hideouts-in-the-qandil-mountains-and-the-hakurk-region-of-iraq-the-day-after-17-peopl.md)
 Warplanes target PKK bases a day after deadly clashes between rebels and the army.
 

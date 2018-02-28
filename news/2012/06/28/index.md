@@ -79,7 +79,7 @@ _Context: Pakistan, Quetta, Shia_
 ### [The Taliban releases a video of 17 decapitated Pakistani soldiers. ](/news/2012/06/28/the-taliban-releases-a-video-of-17-decapitated-pakistani-soldiers.md)
 _Context: Pakistan Army, Taliban_
 
-##### Turkey
+##### Turkish
 ### [Turkey sends rocket launchers and anti-aircraft guns to its border with Syria following the downing of a Turkish military plane last week. ](/news/2012/06/28/turkey-sends-rocket-launchers-and-anti-aircraft-guns-to-its-border-with-syria-following-the-downing-of-a-turkish-military-plane-last-week.md)
 Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explosions are reported outside court buildings in central Damascus.
 

@@ -37,7 +37,7 @@ _Context: Chinese New Year, fireworks_
 
 ##### Ankara
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
-_Context: Ankara, Turkey_
+_Context: Ankara, Turkish_
 
 ##### Cyclone Yasi
 ### [Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-innisfail.md)

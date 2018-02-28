@@ -3,9 +3,9 @@ Formats: [HTML](2007/03/7/index.html)  [JSON](2007/03/7/index.json)  [XML](2007/
 
 ## [2007-03-7](/news/2007/03/7/index.md)
 
-##### Turkey
+##### Turkish
 ### [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md)
-_Context: Mustafa Kemal Atatrk, Turkey, YouTube, founder, user generated content, video, web site_
+_Context: Mustafa Kemal Atatrk, Turkish, YouTube, founder, user generated content, video, web site_
 
 ##### Iran
 ### [ Iranian general Ali Reza Askari is reported to have to defected to US custody after disappearing on February 7 in Istanbul.](/news/2007/03/7/iranian-general-ali-reza-askari-is-reported-to-have-to-defected-to-us-custody-after-disappearing-on-february-7-in-istanbul.md)

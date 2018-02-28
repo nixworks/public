@@ -81,7 +81,7 @@ _Context: Afghanistan, Kabul, NATO, Taliban_
 
 ##### Government forces
 ### [The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over-the-mediterranean-sea.md)
-_Context: F-4 Phantom II, Mediterranean Sea, Syria, Turkey, government forces_
+_Context: F-4 Phantom II, Mediterranean Sea, Syria, Turkish, government forces_
 
 ## [Previous Day...](/news/2012/06/21/index.md)
 

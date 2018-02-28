@@ -11,9 +11,9 @@ _Context: Charles Ble Goude, Cote d'Ivoire, Young Patriots_
 ### [ A whale, identified as a 5 metre (17') long Northern Bottlenose whale, is observed in the River Thames in Central London passing upstream of the Houses of Parliament. The "River Thames whale" is believed to have passed through the Thames Barrier about 1515 UTC on Thursday afternoon. Attempts are being made to guide it back to the Thames estuary, where a second whale has been sighted off Southend on Sea. ](/news/2006/01/20/a-whale-identified-as-a-5-metre-17-long-northern-bottlenose-whale-is-observed-in-the-river-thames-in-central-london-passing-upstream-o.md)
 _Context: Bottlenose whale, London, Parliament, River Thames, River Thames whale, Southend on Sea, Thames Barrier, whale_
 
-##### Turkey
+##### Turkish
 ### [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md)
-_Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkey_
+_Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkish_
 
 ##### Haneda Airport
 ### [ Japan has halted the import of U.S. beef after an animal spine was found in a beef shipment at Tokyo International Airport. A ban has now been reinstated. ](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.md)

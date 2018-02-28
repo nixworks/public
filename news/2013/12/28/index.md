@@ -17,7 +17,7 @@ _Context: Akademik Shokalskiy, Antarctica, Chinese, Russia, Xue Long, nautical m
 
 ##### Earthquake
 ### [A 5.8-magnitude earthquake strikes in the Mediterranean Sea, 50 miles (80 kilometers) south southwest of Avsallar, Turkey. ](/news/2013/12/28/a-5-8-magnitude-earthquake-strikes-in-the-mediterranean-sea-50-miles-80-kilometers-south-southwest-of-avsallar-turkey.md)
-_Context: Avsallar, Mediterranean Sea, Turkey, earthquake_
+_Context: Avsallar, Mediterranean Sea, Turkish, earthquake_
 
 ##### India
 ### [An express train catches fire in India, leaving at least 23 dead. The train was traveling from Bangalore to Nanded in the western state of Maharashtra. ](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.md)

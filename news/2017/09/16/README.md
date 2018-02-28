@@ -7,7 +7,7 @@ Formats: [HTML](2017/09/16/index.html)  [JSON](2017/09/16/index.json)  [XML](201
 ### [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 
-##### United States presidential election, 2020
+##### 2020
 ### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 

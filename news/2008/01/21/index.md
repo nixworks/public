@@ -27,9 +27,9 @@ _Context: Hugo Chvez, President, exportation, nationalization_
 ### [ An Israeli TecSAR spy satellite is launched aboard an Indian Polar Satellite Launch Vehicle. ](/news/2008/01/21/an-israeli-tecsar-spy-satellite-is-launched-aboard-an-indian-polar-satellite-launch-vehicle.md)
 _Context: India, Israel, PSLV-C38, TecSAR, spy satellite_
 
-##### Turkey
+##### Turkish
 ### [ A Turkish court bans YouTube for the second time because of clips deemed disrespectful to Mustafa Kemal Atatrk. ](/news/2008/01/21/a-turkish-court-bans-youtube-for-the-second-time-because-of-clips-deemed-disrespectful-to-mustafa-kemal-ataturk.md)
-_Context: Mustafa Kemal Atatrk, Turkey, YouTube_
+_Context: Mustafa Kemal Atatrk, Turkish, YouTube_
 
 ## [Previous Day...](/news/2008/01/20/index.md)
 

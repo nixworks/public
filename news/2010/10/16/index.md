@@ -37,7 +37,7 @@ Zambian police investigate claims that managers at a Chinese-run coal mine in th
 
 ##### Israeli Air Force
 ### [The Israeli Air Force and the Hellenic Air Force combine for manoeuvres involving helicopters and jets as Israel seeks new air links following its disagreement with Turkey. ](/news/2010/10/16/the-israeli-air-force-and-the-hellenic-air-force-combine-for-manoeuvres-involving-helicopters-and-jets-as-israel-seeks-new-air-links-followi.md)
-_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkey_
+_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkish_
 
 ##### World Food Day
 ### [On World Food Day, United Nations calls for united front against food shortages, because one billion people are still hungry. ](/news/2010/10/16/on-world-food-day-united-nations-calls-for-united-front-against-food-shortages-because-one-billion-people-are-still-hungry.md)

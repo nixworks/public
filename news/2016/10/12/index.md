@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/12/index.html)  [JSON](2016/10/12/index.json)  [XML](201
 
 ##### Foreign relations of Burundi
 ### [The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal-court.md)
-_Context: Burundi, Foreign relations of Burundi, ICC, Netherlands, Parliament of Burundi_
+_Context: Burundi, Dutch, Foreign relations of Burundi, ICC, Parliament of Burundi_
 
 ##### Concentrix
 ### [The U.S. firm Concentrix, which is used by the British government to cut tax credit payments, suffers a data protection breach where some claimants have had their personal information such as bank statements, self assessment details, and National Insurance numbers sent to other claimants. ](/news/2016/10/12/the-u-s-firm-concentrix-which-is-used-by-the-british-government-to-cut-tax-credit-payments-suffers-a-data-protection-breach-where-some-cl.md)

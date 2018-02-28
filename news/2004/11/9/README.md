@@ -11,9 +11,9 @@ _Context: Cte d'Ivoire, United Nations, airlift_
 ### [ A Muslim school in Uden was set on fire in another of a series of sectarian attacks on Islamic schools in the Netherlands. ](/news/2004/11/9/a-muslim-school-in-uden-was-set-on-fire-in-another-of-a-series-of-sectarian-attacks-on-islamic-schools-in-the-netherlands.md)
 _Context: Uden_
 
-##### Netherlands
+##### Dutch
 ### [ A Dutch police squad comes under a grenade attack, injuring three policemen, following an antiterrorist raid on a house in The Hague. The area's airspace is closed as a precaution. Two arrests have been made.](/news/2004/11/9/a-dutch-police-squad-comes-under-a-grenade-attack-injuring-three-policemen-following-an-antiterrorist-raid-on-a-house-in-the-hague-the-a.md)
-_Context: Netherlands, The Hague, grenade_
+_Context: Dutch, The Hague, grenade_
 
 ##### Illness of Yasser Arafat
 ### [ Muslim cleric Mufti Taissir Dayut Tamimi, a close personal friend of Arafat, flies to Paris to attend to Arafat's spiritual needs. Aides deny reports that Arafat will be taken off life support. ](/news/2004/11/9/muslim-cleric-mufti-taissir-dayut-tamimi-a-close-personal-friend-of-arafat-flies-to-paris-to-attend-to-arafat-s-spiritual-needs-aides-de.md)

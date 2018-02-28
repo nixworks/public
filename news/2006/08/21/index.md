@@ -41,7 +41,7 @@ _Context: French, Italy, Lebanese, United Nations_
 
 ##### Presidential candidate in 2006
 ### [ Democratic Republic of the Congo general election: As a meeting between Bemba and foreign ambassadors representing the International Committee Accompanying the Transition to Democracy (CIAT) is taking place in Kinshasa, clashes break between Kabila and Bemba forces; Bemba's residence, hosting the meeting, comes under attack, reportedly by heavy machine guns and artillery. Several hours later, the UN spokesperson in the DRC, Jean-Tobias Okala, announced the foreign diplomats, including MONUC chief William Swing, were successfully evacuated to UN headquarters. ](/news/2006/08/21/democratic-republic-of-the-congo-general-election-as-a-meeting-between-bemba-and-foreign-ambassadors-representing-the-international-commit.md)
-_Context: Jean-Pierre Bemba, Kabila government, Kinshasa, presidential candidate in 2006_
+_Context: Jean-Pierre Bemba, Joseph Kabila, Kinshasa, presidential candidate in 2006_
 
 ## [Previous Day...](/news/2006/08/20/index.md)
 

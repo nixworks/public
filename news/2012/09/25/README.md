@@ -13,7 +13,7 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 
 ##### Enough Project
 ### [Activists from the Enough Project reveal through "The Guardian" newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-together.md)
-_Context: $, DR Congo, Enough Project, Kabila government, Omar al-Bashir, Sudan, The Guardian, United Kingdom, military aid, pound sterling_
+_Context: $, DR Congo, Enough Project, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, United Kingdom, military aid, pound sterling_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa, the former President of Japan's Olympus Corporation, pleads guilty to fraud for his role in the Olympus scandal. ](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.md)
@@ -43,7 +43,7 @@ _Context: Andy Williams, Branson, Missouri, United States_
 ### [The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. ](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.md)
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
-##### Turkey
+##### Turkish
 ### [A bombing in the eastern Turkish city of Tunceli kills at least seven people. ](/news/2012/09/25/a-bombing-in-the-eastern-turkish-city-of-tunceli-kills-at-least-seven-people.md)
 Seven people - mainly members of the security forces - are killed in a blast in the eastern Turkish city of Tunceli, media report.
 

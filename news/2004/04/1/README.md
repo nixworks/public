@@ -31,9 +31,9 @@ _Context: Astronomer, estimate, star_
 ### [ Following a gun battle, in which Palestinians hiding in a World Health Organization psychiatric hospital, in Bethlehem, opened fire on Israeli troops outside who came to arrest them, 12 of the Palestinians, mostly known militants from al-Aqsa Martyrs Brigades that make up part of Yasser Arafat's Fatah faction, are arrested. ](/news/2004/04/1/following-a-gun-battle-in-which-palestinians-hiding-in-a-world-health-organization-psychiatric-hospital-in-bethlehem-opened-fire-on-isra.md)
 _Context: Bethlehem, Fatah, Israel, Palestinians, World Health Organization, Yasser Arafat, al-Aqsa Martyrs Brigades, gun_
 
-##### Turkey
+##### Turkish
 ### [ The Turkish Interior Ministry states that 41 members of the Revolutionary People's Liberation Party-Front (DHKP-C) are detained in synchronous operations in Turkey, Germany, Italy, Belgium, and the Netherlands. ](/news/2004/04/1/the-turkish-interior-ministry-states-that-41-members-of-the-revolutionary-people-s-liberation-party-front-dhkp-c-are-detained-in-synchron.md)
-_Context: Interior Ministry, Revolutionary People's Liberation Party-Front, Turkey_
+_Context: Interior Ministry, Revolutionary People's Liberation Party-Front, Turkish_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush signs the Unborn Victims of Violence Act, commonly known as Laci and Conner's Law, that states that an act of violence that leads to the death of a pregnant mother and her child can be counted as two offenses. ](/news/2004/04/1/u-s-president-george-w-bush-signs-the-unborn-victims-of-violence-act-commonly-known-as-laci-and-conner-s-law-that-states-that-an-act-of.md)

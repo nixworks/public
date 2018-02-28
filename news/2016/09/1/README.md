@@ -37,7 +37,7 @@ Some of the world’s biggest buyers have stopped trading with Korindo after the
 
 ##### Kurdish-Turkish conflict (1978-present)
 ### [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md)
-_Context: Iraq, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkey, Turkish troops_
+_Context: Iraq, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkish, Turkish troops_
 
 ##### 2016 Gabonese protests
 ### [Large explosions and gunfire are reported in the Gabonese capital Libreville as security forces clash with supporters of opposition presidential candidate Jean Ping protesting the election results indicating a narrow victory by President Ali Bongo Ondimba. ](/news/2016/09/1/large-explosions-and-gunfire-are-reported-in-the-gabonese-capital-libreville-as-security-forces-clash-with-supporters-of-opposition-presiden.md)

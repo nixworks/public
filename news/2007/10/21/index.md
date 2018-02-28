@@ -63,9 +63,9 @@ _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ron
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
 _Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, November 11, Slovenia, Slovenian President, second round_
 
-##### Turkey
+##### Turkish
 ### [ Turkish people vote in favor of a constitutional referendum on electoral reform with a 69% majority. ](/news/2007/10/21/turkish-people-vote-in-favor-of-a-constitutional-referendum-on-electoral-reform-with-a-69-majority.md)
-_Context: Turkey, constitutional referendum, electoral reform_
+_Context: Turkish, constitutional referendum, electoral reform_
 
 ##### Tokelau
 ### [ Tokelauan ex-pats in Samoa go to the polls for the Tokelauan self-determination referendum. ](/news/2007/10/21/tokelauan-ex-pats-in-samoa-go-to-the-polls-for-the-tokelauan-self-determination-referendum.md)

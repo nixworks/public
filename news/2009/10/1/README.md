@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/1/index.html)  [JSON](2009/10/1/index.json)  [XML](2009/
 
 ##### Netherlands Antilles
 ### [ The Netherlands Antilles agrees to disband on October 10, 2010. Bonaire, St. Eustatius and Saba will become Dutch municipalities within the Netherlands, whereas Curaao and Sint Maarten will become self-governing countries within the Kingdom of the Netherlands. ](/news/2009/10/1/the-netherlands-antilles-agrees-to-disband-on-october-10-2010-bonaire-st-eustatius-and-saba-will-become-dutch-municipalities-within-the.md)
-_Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Maarten, St. Eustatius, disband_
+_Context: Bonaire, Curaao, Dutch, Dutch municipalities, Kingdom of the Netherlands, Netherlands Antilles, Saba, Sint Maarten, St. Eustatius, disband_
 
 ##### Pakistan
 ### [ Pakistan is to launch a greater campaign in South Waziristan against the Taliban. ](/news/2009/10/1/pakistan-is-to-launch-a-greater-campaign-in-south-waziristan-against-the-taliban.md)

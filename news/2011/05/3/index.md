@@ -39,7 +39,7 @@ _Context: India, Kirti monastery, New Delhi, Tibet, exiled Tibetan parliament, r
 ### [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md)
 _Context: Bandar Abbas, Catherine Ashton, European Union, Iran_
 
-##### Prime Minister of Israel
+##### Israeli Prime Minister
 ### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as "unacceptable interference". ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)
 As Palestinian political factions prepared Tuesday to formally sign a political reconciliation agreement in Cairo, Israeli Prime Minister Benjamin Netanyahu called on the Palestinian Authority to pull out of the deal, saying it would jeopardize the already-stalled Middle East peace process.
 

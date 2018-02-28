@@ -19,7 +19,7 @@ Israeli naval vessels have stopped a pro-Palestinian boat attempting to reach Ga
 ### [Hundreds of pilgrims are evacuated from the Sanctuary of Our Lady of Lourdes in southern France following severe flooding in the area. ](/news/2012/10/20/hundreds-of-pilgrims-are-evacuated-from-the-sanctuary-of-our-lady-of-lourdes-in-southern-france-following-severe-flooding-in-the-area.md)
 Hundreds of Roman Catholic pilgrims are evacuated from the sanctuary of Lourdes in southern France after heavy flooding in the area.
 
-##### Turkey
+##### Turkish
 ### [Overnight clashes in southeastern Turkey leave 9 people dead, including 6 security officers and 3 suspected Kurdish militants. ](/news/2012/10/20/overnight-clashes-in-southeastern-turkey-leave-9-people-dead-including-6-security-officers-and-3-suspected-kurdish-militants.md)
 Officials say nine people dead in two overnight clashes between army, village guards and Kurdish fighters in southeast.
 

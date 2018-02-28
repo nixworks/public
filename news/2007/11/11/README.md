@@ -19,9 +19,9 @@ _Context: Ieng Sary, Ieng Thirith, Khmer Rouge, Phnom Penh, U.N., genocide tribu
 ### [ Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. ](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.md)
 _Context: 2007 Slovenian presidential elections, Danilo Trk_
 
-##### Netherlands
+##### Dutch
 ### [ A similar survey held in the Netherlands shows that 45% of the Dutch would support a union with Flanders, whereas 49% would oppose such a union. ](/news/2007/11/11/a-similar-survey-held-in-the-netherlands-shows-that-45-of-the-dutch-would-support-a-union-with-flanders-whereas-49-would-oppose-such-a-u.md)
-_Context: Flanders, Netherlands_
+_Context: Dutch, Flanders_
 
 ##### French
 ### [ A majority of French citizens would support a union with the French-speaking Belgian region of Wallonia if Belgium were to cease to exist, according to a survey. ](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.md)

@@ -21,7 +21,7 @@ _Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes at the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2010/09/27/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-at-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-h.md)
-_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Netherlands, Radovan Karadzic, The Hague_
+_Context: Bosnian Serb, Dutch, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, The Hague_
 
 ##### China
 ### [Chinese police investigate claims that a security firm colluded with officials to detain protesters in secret prisons. ](/news/2010/09/27/chinese-police-investigate-claims-that-a-security-firm-colluded-with-officials-to-detain-protesters-in-secret-prisons.md)

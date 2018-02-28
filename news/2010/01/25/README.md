@@ -45,9 +45,9 @@ Military reportedly planning to free opposition leader from house arrest.
 ### [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
 _Context: Ali Hassan al-Majid_
 
-##### Netherlands
+##### Dutch
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
-_Context: 1992, Dutch professional club, FC Wageningen, HFC Haarlem, Netherlands, VCV Zeeland, association football, national champion_
+_Context: 1992, Dutch, Dutch professional club, FC Wageningen, HFC Haarlem, VCV Zeeland, association football, national champion_
 
 ##### G4 bloc
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the 2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)

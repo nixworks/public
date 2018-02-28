@@ -27,7 +27,7 @@ _Context: Antonis Samaras, British Museum, Elgin Marbles, Greece, Greek Prime Mi
 ### [Italian rescue crews discover 17 bodies in the hull of a migrant ship off Libya. ](/news/2014/12/5/italian-rescue-crews-discover-17-bodies-in-the-hull-of-a-migrant-ship-off-libya.md)
 Italian news reports say rescue crews have discovered some 17 bodies in the hull of a migrant ship off Libya in the first reported deaths since the European Union took over Mediterranean rescue operations.
 
-##### Netherlands
+##### Dutch
 ### [A judge in the Netherlands declares Dutch clothing company Mexx bankrupt. The bankruptcy ruling affects over 300 stores worldwide, including 95 locations in Canada. ](/news/2014/12/5/a-judge-in-the-netherlands-declares-dutch-clothing-company-mexx-bankrupt-the-bankruptcy-ruling-affects-over-300-stores-worldwide-including.md)
 The shakeup in women&rsquo;s fashion merchandising continues with the bankruptcy of Dutch fashion chain Mexx.
 

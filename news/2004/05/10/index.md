@@ -3,9 +3,9 @@ Formats: [HTML](2004/05/10/index.html)  [JSON](2004/05/10/index.json)  [XML](200
 
 ## [2004-05-10](/news/2004/05/10/index.md)
 
-##### Netherlands
+##### Dutch
 ### [ The first Dutch soldier dies in the occupation of Iraq. ](/news/2004/05/10/the-first-dutch-soldier-dies-in-the-occupation-of-iraq.md)
-_Context: Netherlands, Occupation of Iraq_
+_Context: Dutch, Occupation of Iraq_
 
 ##### Marathon elections
 ### [ Voting concludes in the marathon elections in India. ](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.md)
@@ -47,9 +47,9 @@ _Context: Arab League, March of this year, Tunis_
 ### [ A judicial recount in the 2004 Taiwanese presidential election begins. ](/news/2004/05/10/a-judicial-recount-in-the-2004-taiwanese-presidential-election-begins.md)
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
-##### Turkey
+##### Turkish
 ### [ Turkey begins construction of a tunnel under the Bosporus. ](/news/2004/05/10/turkey-begins-construction-of-a-tunnel-under-the-bosporus.md)
-_Context: Bosporus, Turkey, tunnel_
+_Context: Bosporus, Turkish, tunnel_
 
 ## [Previous Day...](/news/2004/05/9/index.md)
 

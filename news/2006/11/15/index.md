@@ -39,9 +39,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ India and Pakistan agreed today to set up a panel to combat terrorism during the first peace talks between the countries in almost a year. However, there has been no progress in the core dispute over Kashmir, the mountain region both countries claim. ](/news/2006/11/15/india-and-pakistan-agreed-today-to-set-up-a-panel-to-combat-terrorism-during-the-first-peace-talks-between-the-countries-in-almost-a-year.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### Kabila government
+##### Joseph Kabila
 ### [ Joseph Kabila wins the presidential run-off election in the Democratic Republic of the Congo with 58% of the vote according to the electoral commission. His opponent Jean-Pierre Bemba claims that there were widespread instances of fraud. ](/news/2006/11/15/joseph-kabila-wins-the-presidential-run-off-election-in-the-democratic-republic-of-the-congo-with-58-of-the-vote-according-to-the-electora.md)
-_Context: DR Congo, Jean-Pierre Bemba, Kabila government_
+_Context: DR Congo, Jean-Pierre Bemba, Joseph Kabila_
 
 ##### Magnitude
 ### [ An earthquake measuring 8.1 on the Richter scale occurs at 11:14:19 UTC on the Pacific Ocean seafloor with an epicentre 390 kilometres (244 miles) east of Etorofu island (latitude 46.7 North, longitude 153.5 East). Tsunami warnings and watches are issued by the Pacific Tsunami Warning Center and the East Coast and Alaska Tsunami Warning Center. After expectations of a tsunami at least 2 metres (6 feet) high, the largest wave to hit Hokkaido measures only 40 centimetres (16 inches).](/news/2006/11/15/an-earthquake-measuring-8-1-on-the-richter-scale-occurs-at-11-14-19-utc-on-the-pacific-ocean-seafloor-with-an-epicentre-390-kilometres-244.md)

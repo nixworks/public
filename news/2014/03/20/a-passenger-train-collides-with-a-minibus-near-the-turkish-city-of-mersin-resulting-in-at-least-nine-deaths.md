@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/20/a-passenger-train-collides-with-a-minibus-near-
 
 ### [2014-03-20](/news/2014/03/20/index.md)
 
-##### Turkey
+##### Turkish
 # A passenger train collides with a minibus near the Turkish city of Mersin resulting in at least nine deaths. 
 
 At least nine people are killed and five injured after a passenger train crashes into a minibus carrying people to work in Turkey, local media say.
@@ -16,8 +16,8 @@ At least nine people are killed and five injured after a passenger train crashes
 
 ### Related:
 
-1. [Simultaneous explosions occur at local offices of the pro-Kurdish People's Democratic Party headquarters in the southern Turkish cities of Adana and Mersin. ](/news/2015/05/18/simultaneous-explosions-occur-at-local-offices-of-the-pro-kurdish-people-s-democratic-party-headquarters-in-the-southern-turkish-cities-of-a.md) _Context: Mersin, Turkey_
-2. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkey_
-3. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_
-4. [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md) _Context: Turkey_
-5. [A court in Turkey hands life sentences to six journalists, including Ahmet Altan, Mehmet Altan and Nazli Ilicak. ](/news/2018/02/16/a-court-in-turkey-hands-life-sentences-to-six-journalists-including-ahmet-altan-mehmet-altan-and-nazla-ila-cak.md) _Context: Turkey_
+1. [Simultaneous explosions occur at local offices of the pro-Kurdish People's Democratic Party headquarters in the southern Turkish cities of Adana and Mersin. ](/news/2015/05/18/simultaneous-explosions-occur-at-local-offices-of-the-pro-kurdish-people-s-democratic-party-headquarters-in-the-southern-turkish-cities-of-a.md) _Context: Mersin, Turkish_
+2. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkish_
+3. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkish_
+4. [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Turkish_
+5. [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md) _Context: Turkish_

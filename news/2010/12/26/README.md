@@ -107,9 +107,9 @@ Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
 _Context: Somali pirates, Somalia, Thailand_
 
-##### Turkey
+##### Turkish
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
-_Context: Afghanistan, Turkey_
+_Context: Afghanistan, Turkish_
 
 ##### Nigeria
 ### [Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md)

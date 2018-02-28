@@ -31,7 +31,7 @@ _Context: Chapter 11, Lehman Brothers, bankruptcy, files_
 
 ##### Roll-on/roll-off
 ### [ At least one person has died and 26 are missing after a Ro-ro ferry sinks near the Turkish city of Bandirma. ](/news/2008/09/15/at-least-one-person-has-died-and-26-are-missing-after-a-ro-ro-ferry-sinks-near-the-turkish-city-of-bandirma.md)
-_Context: Bandirma, Roll-on/roll-off, Turkey_
+_Context: Bandirma, Roll-on/roll-off, Turkish_
 
 ##### Indonesia
 ### [ A stampede in the Indonesian town of Pasuruan leaves 21 people dead, most of whom are thought to be women. ](/news/2008/09/15/a-stampede-in-the-indonesian-town-of-pasuruan-leaves-21-people-dead-most-of-whom-are-thought-to-be-women.md)

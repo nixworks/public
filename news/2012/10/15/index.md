@@ -49,7 +49,7 @@ A Pakistani schoolgirl shot in the head by the Taliban has every chance of makin
 
 ##### Syrian civil war
 ### [Syrian civil war: An Armenian plane destined for the Syrian city of Aleppo is searched by Turkish authorities after being grounded in the east of the country. ](/news/2012/10/15/syrian-civil-war-an-armenian-plane-destined-for-the-syrian-city-of-aleppo-is-searched-by-turkish-authorities-after-being-grounded-in-the-ea.md)
-_Context: Aleppo, Armenia, Syrian civil war, Turkey_
+_Context: Aleppo, Armenia, Syrian civil war, Turkish_
 
 ## [Previous Day...](/news/2012/10/14/index.md)
 

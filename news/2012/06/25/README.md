@@ -75,7 +75,7 @@ Two federal police officers suspected of working for drug traffickers opened fir
 ### [At least 40 people are injured due to a fire attack by protesters on a religious shrine in India. ](/news/2012/06/25/at-least-40-people-are-injured-due-to-a-fire-attack-by-protesters-on-a-religious-shrine-in-india.md)
 _Context: India_
 
-##### Turkey
+##### Turkish
 ### [At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/at-least-33-army-officers-including-a-general-defect-to-turkey.md)
 Several high-ranking Syrian military figures reportedly defect to Turkey, amid heightened tensions over the downing of a Turkish warplane.
 

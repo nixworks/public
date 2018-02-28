@@ -35,7 +35,7 @@ Adelaide Catholic Archbishop Philip Wilson is charged with concealing child sexu
 ### [The Philippines submits to The Hague-based Permanent Court of Arbitration a 3,000-page document containing additional volumes of arguments, evidence, and maps seeking to nullify China's sweeping claim over the resource-rich South China Sea. ](/news/2015/03/17/the-philippines-submits-to-the-hague-based-permanent-court-of-arbitration-a-3-000-page-document-containing-additional-volumes-of-arguments.md)
 _Context: Chinese, Permanent Court of Arbitration's, Philippines, South China Sea, sweeping claim_
 
-##### Netherlands
+##### Dutch
 ### [A Dutch military helicopter serving as part of the United Nations peacekeeping mission in Mali crashes near Gao, killing two people. ](/news/2015/03/17/a-dutch-military-helicopter-serving-as-part-of-the-united-nations-peacekeeping-mission-in-mali-crashes-near-gao-killing-two-people.md)
 A Dutch UN peacekeeping helicopter crashes near Gao in northern Mali, killing two crew members, the Dutch defence ministry says.
 

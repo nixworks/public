@@ -25,7 +25,7 @@ _Context: Afghanistan, Taliban insurgency_
 
 ##### Presidential candidate in 2006
 ### [ With nearly all votes counted, the presidential election in the Democratic Republic of Congo heads toward a run-off election after neither candidate wins a fifty percent majority. Full provisional results show Joseph Kabila with 44.81 percent of the vote, to Jean-Pierre Bemba's 20.03 percent. There have been reports of automatic gunfire, and MLC representatives accused Kabila's Republican Guard of killing one of its men and injuring three policemen. ](/news/2006/08/20/with-nearly-all-votes-counted-the-presidential-election-in-the-democratic-republic-of-congo-heads-toward-a-run-off-election-after-neither.md)
-_Context: DR Congo, Jean-Pierre Bemba, Kabila government, presidential candidate in 2006, second round_
+_Context: DR Congo, Jean-Pierre Bemba, Joseph Kabila, presidential candidate in 2006, second round_
 
 ## [Previous Day...](/news/2006/08/19/index.md)
 

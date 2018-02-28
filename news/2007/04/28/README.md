@@ -15,9 +15,9 @@ _Context: 29th Dil, Irish, Irish general election, Mary McAleese, President_
 ### [ An earthquake of magnitude 4.3 on the Richter scale strikes Kent, England. ](/news/2007/04/28/an-earthquake-of-magnitude-4-3-on-the-richter-scale-strikes-kent-england.md)
 _Context: An earthquake, England, Kent, Richter scale_
 
-##### Turkey
+##### Turkish
 ### [ Turkey's army warns against questioning the country's secular system after a disputed first-round presidential vote in parliament. ](/news/2007/04/28/turkey-s-army-warns-against-questioning-the-country-s-secular-system-after-a-disputed-first-round-presidential-vote-in-parliament.md)
-_Context: Turkey, first-round presidential vote_
+_Context: Turkish, first-round presidential vote_
 
 ##### Suicide bombing
 ### [ A suicide bombing in Pakistan kills at least 22 and injures Interior Minister Aftab Ahmad Khan Sherpao. ](/news/2007/04/28/a-suicide-bombing-in-pakistan-kills-at-least-22-and-injures-interior-minister-aftab-ahmad-khan-sherpao.md)

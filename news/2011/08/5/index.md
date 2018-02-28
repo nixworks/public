@@ -51,7 +51,7 @@ _Context: China, Meng Jianzhu, Ministry of Public Security of the People's Repub
 ### [2011 Libyan civil war: Rebels claim that a NATO airstrike has killed Muammar Gaddafi's youngest son Khamis but this is later denied. ](/news/2011/08/5/2011-libyan-civil-war-rebels-claim-that-a-nato-airstrike-has-killed-muammar-gaddafi-s-youngest-son-khamis-but-this-is-later-denied.md)
 Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstrike on Zlitan, a claim government denies.
 
-##### Turkey
+##### Turkish
 ### [Turkey confirms it has seized an Iranian arms shipment to Syria. ](/news/2011/08/5/turkey-confirms-it-has-seized-an-iranian-arms-shipment-to-syria.md)
 Tens of thousands protest across Syria days after the bloody crackdown on the city of Hama where the opposition had taken control.
 

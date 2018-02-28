@@ -19,9 +19,9 @@ _Context: Accenture, Procter & Gamble, Tiger Woods, endorsement deals, golfer, m
 ### [ India successfully test fires its nuclear-capable "Dhanush" missile off the Orissa coast. ](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.md)
 _Context: "Dhanush" missile, India, Orissa State_
 
-##### Turkey
+##### Turkish
 ### [ Violence erupts in Turkey after the Constitutional Court of Turkey bans the Democratic Society Party over its alleged terrorist links. ](/news/2009/12/13/violence-erupts-in-turkey-after-the-constitutional-court-of-turkey-bans-the-democratic-society-party-over-its-alleged-terrorist-links.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Turkey_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Turkish_
 
 ##### Sarejevo
 ### [ The Sarejevo-Belgrade rail link resumes between Bosnia and Herzegovina and Serbia after 18 years. ](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.md)

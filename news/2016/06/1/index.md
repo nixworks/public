@@ -39,9 +39,9 @@ The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where Presid
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
 _Context: Jens Stoltenberg, Secretary General of NATO, membership_
 
-##### Turkey
+##### Turkish
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: German, Recep Tayyip Erdogan, Turkey, Turkish President, genocide of Armenians, recognizing_
+_Context: German, Recep Tayyip Erdogan, Turkish, Turkish President, genocide of Armenians, recognizing_
 
 ##### United States Geological Survey
 ### [The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. ](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitude-earthquake-155-km-95-miles-from-the-west-sumatra-port-city-of-padang-in-indonesia-at-a.md)

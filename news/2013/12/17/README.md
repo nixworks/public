@@ -55,7 +55,7 @@ Six Americans have been killed in a helicopter crash in southern Afghanistan, Fo
 ### [American businessman Jacob Ostreicher escapes Bolivia two years after being imprisoned without charge. ](/news/2013/12/17/american-businessman-jacob-ostreicher-escapes-bolivia-two-years-after-being-imprisoned-without-charge.md)
 An American businessman detained in Bolivia without charge for more than two years has escaped back to the US, officials in both countries say.
 
-##### Turkey
+##### Turkish
 ### [Several prominent Turkish businessmen and the sons of three cabinet ministers are arrested as part of an investigation into alleged bribery and corruption. ](/news/2013/12/17/several-prominent-turkish-businessmen-and-the-sons-of-three-cabinet-ministers-are-arrested-as-part-of-an-investigation-into-alleged-bribery.md)
 Turkish police arrest the sons of three cabinet ministers as part of an investigation into alleged bribery relating to public tenders.
 

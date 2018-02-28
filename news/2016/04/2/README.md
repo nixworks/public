@@ -33,7 +33,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 
 ##### NATO-Russia relations
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Europe, Iceland, NATO-Russia relations, Netherlands, Russia, United States Air Force_
+_Context:  F-15C Eagle, Dutch, Europe, Iceland, NATO-Russia relations, Russia, United States Air Force_
 
 ##### Burundian unrest (2015-present)
 ### [The United Nations Security Council unanimously adopts a resolution setting the stage for the deployment of UN Police to Burundi, where political unrest that has lasted nearly a year killed over 400 people and displaced tens of thousands. The resolution asks Secretary-General Ban Ki-moon to present options within 15 days for the deployment of UN police in order to monitor the security situation, promote respect for human rights and advance the rule of law. ](/news/2016/04/2/the-united-nations-security-council-unanimously-adopts-a-resolution-setting-the-stage-for-the-deployment-of-un-police-to-burundi-where-poli.md)

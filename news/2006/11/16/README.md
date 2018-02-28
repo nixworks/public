@@ -29,7 +29,7 @@ _Context: Darfur, Ethiopia, Sudanese, United Nations, conflict_
 
 ##### Democratic Republic of Congo
 ### [ Democratic Republic of Congo presidential candidate Jean-Pierre Bemba has rejected election results that gave victory to Joseph Kabila. ](/news/2006/11/16/democratic-republic-of-congo-presidential-candidate-jean-pierre-bemba-has-rejected-election-results-that-gave-victory-to-joseph-kabila.md)
-_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kabila government_
+_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Joseph Kabila_
 
 ##### Nancy Pelosi
 ### [ Nancy Pelosi is unanimously nominated by the Democratic Party to become the next Speaker of the United States House of Representatives. Steny Hoyer wins the election over Jack Murtha to become Majority Leader. ](/news/2006/11/16/nancy-pelosi-is-unanimously-nominated-by-the-democratic-party-to-become-the-next-speaker-of-the-united-states-house-of-representatives-ste.md)

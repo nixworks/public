@@ -39,9 +39,9 @@ Punk pioneers the Ramones, British actress and singer Julie Andrews and jazz dru
 ### [The extent of looting of the Egyptian Museum in Cairo during the 2011 Egyptian protests is worse than previously announced. ](/news/2011/02/12/the-extent-of-looting-of-the-egyptian-museum-in-cairo-during-the-2011-egyptian-protests-is-worse-than-previously-announced.md)
 _Context: Cairo, Egyptian Museum, Protesters_
 
-##### Turkey
+##### Turkish
 ### [Turkey releases its inquiry into the Gaza flotilla raid, finding Israel violated international law and used "excessive, indiscriminate and disproportionate force" during the attack. ](/news/2011/02/12/turkey-releases-its-inquiry-into-the-gaza-flotilla-raid-finding-israel-violated-international-law-and-used-excessive-indiscriminate-and-d.md)
-_Context: Gaza flotilla raid, Turkey_
+_Context: Gaza flotilla raid, Turkish_
 
 ##### Suicide bombing
 ### [At least 33 people die following a suicide bombing near the Iraqi city of Samarra. ](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bombing-near-the-iraqi-city-of-samarra.md)

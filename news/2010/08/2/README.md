@@ -69,7 +69,7 @@ _Context: First Folio, William Shakespeare_
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Gaza flotilla raid, Israel, Turkey, United Nations_
+_Context: Gaza flotilla raid, Israel, Turkish, United Nations_
 
 ##### Jordanian
 ### [A Jordanian civilian is killed and three others are wounded as a Grad rocket launched from the Sinai hits the city of Aqaba. Four other rockets land in open areas in the Gulf of Aqaba. Jordan, Israel, Egypt and the United States condemn the attack. ](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.md)

@@ -29,7 +29,7 @@ _Context: Azerbaijan, Baku, Shia_
 
 ##### Venice
 ### [A court in Venice frees Nizamettin Toguc, a senior member of the Kurdistan Workers' Party (PKK) wanted by Turkey. ](/news/2010/08/14/a-court-in-venice-frees-nizamettin-toauass-a-senior-member-of-the-kurdistan-workers-party-pkk-wanted-by-turkey.md)
-_Context: Kurdistan Workers' Party, Nizamettin Toguc, Turkey, Venice_
+_Context: Kurdistan Workers' Party, Nizamettin Toguc, Turkish, Venice_
 
 ##### Somalia
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)

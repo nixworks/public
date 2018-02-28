@@ -43,9 +43,9 @@ _Context: Greece, Patras, migrants_
 ### [ At least 16 people have died, including eight children, in the city of Mian Channu, Pakistan, after a bomb blast in a school. ](/news/2009/07/13/at-least-16-people-have-died-including-eight-children-in-the-city-of-mian-channu-pakistan-after-a-bomb-blast-in-a-school.md)
 _Context: Mian Channu, Pakistan, bomb blast_
 
-##### Turkey
+##### Turkish
 ### [ Turkey, Bulgaria, Romania, Hungary and Austria sign an intergovernmental agreement on the construction of the Nabucco natural gas pipeline. ](/news/2009/07/13/turkey-bulgaria-romania-hungary-and-austria-sign-an-intergovernmental-agreement-on-the-construction-of-the-nabucco-natural-gas-pipeline.md)
-_Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Turkey_
+_Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Turkish_
 
 ##### Henry Okah
 ### [ Henry Okah, a guerrilla leader of the Movement for the Emancipation of the Niger Delta, is released from detainment after accepting an amnesty offered by the Nigerian government. ](/news/2009/07/13/henry-okah-a-guerrilla-leader-of-the-movement-for-the-emancipation-of-the-niger-delta-is-released-from-detainment-after-accepting-an-amne.md)

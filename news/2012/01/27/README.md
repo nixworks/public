@@ -3,7 +3,7 @@ Formats: [HTML](2012/01/27/index.html)  [JSON](2012/01/27/index.json)  [XML](201
 
 ## [2012-01-27](/news/2012/01/27/index.md)
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands, the Council of Ministers vote in favor of a ban on the Burqa, an outer garment worn by women in some Islamic traditions. ](/news/2012/01/27/in-the-netherlands-the-council-of-ministers-vote-in-favor-of-a-ban-on-the-burqa-an-outer-garment-worn-by-women-in-some-islamic-traditions.md)
 The cabinet on Friday voted to ban burkas and other face-covering garments from public places. Once the legislation has passed...
 
@@ -33,7 +33,7 @@ _Context: Efrain Rios Montt, Guatemala, genocide_
 
 ##### Willem Holleeder
 ### [Willem Holleeder, a notorious convicted Dutch felon, is released from jail after serving six years of a nine-year sentence for extortion and blackmail. ](/news/2012/01/27/willem-holleeder-a-notorious-convicted-dutch-felon-is-released-from-jail-after-serving-six-years-of-a-nine-year-sentence-for-extortion-and.md)
-_Context: Netherlands, Willem Holleeder, blackmail, extortion_
+_Context: Dutch, Willem Holleeder, blackmail, extortion_
 
 ##### Cocaine
 ### [Two sacks of cocaine are accidentally delivered to the United Nations Headquarters in New York City. ](/news/2012/01/27/two-sacks-of-cocaine-are-accidentally-delivered-to-the-united-nations-headquarters-in-new-york-city.md)

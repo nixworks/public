@@ -25,7 +25,7 @@ Asian markets rose Thursday morning, after the Dow Jones industrial average clos
 
 ##### Armenia
 ### [ Armenian President Serzh Sargsyan visits Turkey to attend a qualifying match between the nations for the FIFA World Cup. Turkish fans boo the Armenian anthem. ](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.md)
-_Context: Armenia, Armenian President, Serzh Sargsyan, Turkey, World Cup, the Armenian anthem_
+_Context: Armenia, Armenian President, Serzh Sargsyan, Turkish, World Cup, the Armenian anthem_
 
 ##### United Nations
 ### [ The United Nations warns that malnutrition is getting worse. ](/news/2009/10/14/the-united-nations-warns-that-malnutrition-is-getting-worse.md)

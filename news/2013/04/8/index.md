@@ -27,7 +27,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 ### [Lindsay Sandiford loses her appeal against the death penalty in Indonesia for a charge of drug smuggling. ](/news/2013/04/8/lindsay-sandiford-loses-her-appeal-against-the-death-penalty-in-indonesia-for-a-charge-of-drug-smuggling.md)
 Briton Lindsay Sandiford loses her appeal against her death sentence in Bali for drug trafficking, a Bali High Court spokesman says.
 
-##### Netherlands
+##### Dutch
 ### [A Dutch tourist, Richard de Wit, allegedly confesses to killing Sarah Groves, a British fitness instructor from Guernsey, who was found dead with multiple stab wounds on a houseboat in Jammu and Kashmir, India. ](/news/2013/04/8/a-dutch-tourist-richard-de-wit-allegedly-confesses-to-killing-sarah-groves-a-british-fitness-instructor-from-guernsey-who-was-found-dead.md)
 A Dutch tourist has confessed to killing a British fitness instructor on a Kashmir houseboat, Indian police claimed on Sunday.
 

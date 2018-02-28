@@ -49,7 +49,7 @@ Armed men take hostage two French guests from a hotel in Mogadishu as fighting r
 
 ##### Ethnic riots
 ### [ China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: China, Tayyip Erdogan, Turkey, Turkish Prime Minister, Xinjiang, ethnic riots_
+_Context: China, Tayyip Erdogan, Turkish, Turkish Prime Minister, Xinjiang, ethnic riots_
 
 ##### World Health Organization
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)

@@ -41,7 +41,7 @@ Russia grants citizenship to Gerard Depardieu, who has threatened to quit France
 
 ##### M23
 ### [The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. ](/news/2013/01/3/the-march-23-movement-in-the-democratic-republic-of-congo-announces-that-peace-talks-will-only-commence-if-president-joseph-kabila-s-governm.md)
-_Context: Democratic Republic of Congo, Kabila government, M23_
+_Context: Democratic Republic of Congo, Joseph Kabila, M23_
 
 ##### Mexico
 ### [Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md)

@@ -13,7 +13,7 @@ _Context: 3 April presidential election, Chad, Chadian President, Idriss Deby_
 
 ##### DR Congo
 ### [Congolese President Joseph Kabila fires two ministers over corruption and absence. ](/news/2011/03/13/congolese-president-joseph-kabila-fires-two-ministers-over-corruption-and-absence.md)
-_Context: DR Congo, Kabila government, President_
+_Context: DR Congo, Joseph Kabila, President of DR Congo_
 
 ##### Presidential election
 ### [A presidential election takes place in Benin, after previously being delayed. ](/news/2011/03/13/a-presidential-election-takes-place-in-benin-after-previously-being-delayed.md)

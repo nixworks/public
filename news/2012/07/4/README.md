@@ -73,7 +73,7 @@ A man shot dead four people including his partner before killing himself in a si
 
 ##### Bashar al Assad
 ### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
-_Context: Bashar al Assad, Syria, Turkey_
+_Context: Bashar al Assad, Syria, Turkish_
 
 ## [Previous Day...](/news/2012/07/3/index.md)
 

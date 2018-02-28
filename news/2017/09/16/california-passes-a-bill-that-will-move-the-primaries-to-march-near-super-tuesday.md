@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/16/california-passes-a-bill-that-will-move-the-pri
 
 ### [2017-09-16](/news/2017/09/16/index.md)
 
-##### United States presidential election, 2020
+##### 2020
 # California passes a bill that will move the primaries to March near Super Tuesday. 
 
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
@@ -21,8 +21,8 @@ California would allocate its delegates just after early nominating contests in 
 
 ### Related:
 
-1. [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md) _Context: California, Super Tuesday, United States presidential election, 2020_
+1. [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md) _Context: 2020, California, Super Tuesday_
 2. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California, United States presidential primary_
 3. [ John Kerry wins the Super Tuesday primaries in California, Connecticut, Georgia, Maryland, Massachusetts, New York, Ohio, and Rhode Island and caucus in Minnesota, effectively clinching the nomination. Howard Dean wins in his home state of Vermont even though he is no longer actively campaigning. John Edwards is reported to be withdrawing from the race three hours before polls close in California and just as the caucuses begin in Minnesota.](/news/2004/03/2/john-kerry-wins-the-super-tuesday-primaries-in-california-connecticut-georgia-maryland-massachusetts-new-york-ohio-and-rhode-island.md) _Context: California, Super Tuesday_
-4. [California State Senator Tony Mendoza resigns after being investigated over sexual harassment claims. ](/news/2018/02/22/california-state-senator-tony-mendoza-resigns-after-being-investigated-over-sexual-harassment-claims.md) _Context: California_
-5. [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md) _Context: California_
+4. [U.S. President Donald Trump names Brad Parscale as his 2020 presidential campaign manager as he formally declares he is running for re-election, a record 980 days before the election. ](/news/2018/02/27/u-s-president-donald-trump-names-brad-parscale-as-his-2020-presidential-campaign-manager-as-he-formally-declares-he-is-running-for-re-elect.md) _Context: 2020_
+5. [California State Senator Tony Mendoza resigns after being investigated over sexual harassment claims. ](/news/2018/02/22/california-state-senator-tony-mendoza-resigns-after-being-investigated-over-sexual-harassment-claims.md) _Context: California_

@@ -13,7 +13,7 @@ Rescuers were battling to reach more than 180 miners trapped by floods in easter
 
 ##### Atlas Jet
 ### [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md)
-_Context: Antalya, Atlas Jet, Cypriot, Istanbul, Nicosia, Turkey, aircraft piracy_
+_Context: Antalya, Atlas Jet, Cypriot, Istanbul, Nicosia, Turkish, aircraft piracy_
 
 ##### Lesser Antilles
 ### [ Hurricane Dean has already claimed three lives in the Lesser Antilles and is due to pass south of Haiti and the Dominican Republic en route to Jamaica where emergency shelters have been opened. ](/news/2007/08/18/hurricane-dean-has-already-claimed-three-lives-in-the-lesser-antilles-and-is-due-to-pass-south-of-haiti-and-the-dominican-republic-en-route.md)

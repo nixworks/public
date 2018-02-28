@@ -13,7 +13,7 @@ President Trump announced Wednesday that he will be asking for a “major invest
 
 ##### Women's rights
 ### [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md)
-_Context: Belgium, Lilianne Ploumen, Mexico City policy, Netherlands, United States, Women's rights_
+_Context: Belgium, Dutch, Lilianne Ploumen, Mexico City policy, United States, Women's rights_
 
 ##### Domestic violence
 ### [The Russian Duma backs a law decriminalizing a first instance of domestic violence that does "not seriously injure" the person, making it an administrative offense. The bill also includes violence against children. ](/news/2017/01/25/the-russian-duma-backs-a-law-decriminalizing-a-first-instance-of-domestic-violence-that-does-not-seriously-injure-the-person-making-it-an.md)

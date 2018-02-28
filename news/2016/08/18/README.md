@@ -33,7 +33,7 @@ Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern c
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Kurdish-Turkish conflict (2015-present), Turkey_
+_Context: Kurdish-Turkish conflict (2015-present), Turkish_
 
 ## [Previous Day...](/news/2016/08/17/index.md)
 

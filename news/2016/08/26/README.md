@@ -43,9 +43,9 @@ _Context: Belgium, Chimay_
 ### [Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. ](/news/2016/08/26/fires-in-indonesia-burn-and-blow-smoke-into-singapore-engulfing-the-city-state-into-darkness.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-##### Turkey
+##### Turkish
 ### [Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. ](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.md)
-_Context: Istanbul, Turkey, Yavuz Sultan Selim Bridge_
+_Context: Istanbul, Turkish, Yavuz Sultan Selim Bridge_
 
 ##### U.S.
 ### [U.S. President Barack Obama expands the Papahanaumokuakea Marine National Monument off the coast of Hawai'i, making it the largest national park on the planet. ](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.md)

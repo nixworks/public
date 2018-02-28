@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/29/index.html)  [JSON](2006/06/29/index.json)  [XML](200
 
 ##### Forming a government
 ### [ The cabinet Balkenende II of the Netherlands resigns after a row between the coalition partners about the citizenship of former MP Ayaan Hirsi Ali. ](/news/2006/06/29/the-cabinet-balkenende-ii-of-the-netherlands-resigns-after-a-row-between-the-coalition-partners-about-the-citizenship-of-former-mp-ayaan-hi.md)
-_Context: Ayaan Hirsi Ali, Balkenende II, Netherlands, forming a government_
+_Context: Ayaan Hirsi Ali, Balkenende II, Dutch, forming a government_
 
 ##### Kuwait
 ### [ Kuwait holds a Parliamentary election, the country's first with universal suffrage. Opposition parties win a parliamentary majority but no women are elected.](/news/2006/06/29/kuwait-holds-a-parliamentary-election-the-country-s-first-with-universal-suffrage-opposition-parties-win-a-parliamentary-majority-but-no.md)

@@ -33,7 +33,7 @@ _Context: German, Halle, World War II_
 
 ##### 7.1 magnitude earthquake
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)
-_Context: 7.1 magnitude earthquake, Turkey_
+_Context: 7.1 magnitude earthquake, Turkish_
 
 ##### Thailand
 ### [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)

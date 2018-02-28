@@ -33,7 +33,7 @@ Prime Minister Ehud Olmert said that the early stage cancer was not life-threate
 
 ##### Abdullah
 ### [ King Abdullah of Saudi Arabia claims the Government of the United Kingdom failed to act on intelligence given to it by the Government of Saudi Arabia which could have prevented the 7 July 2005 London bombings. ](/news/2007/10/29/king-abdullah-of-saudi-arabia-claims-the-government-of-the-united-kingdom-failed-to-act-on-intelligence-given-to-it-by-the-government-of-sa.md)
-_Context: 7 July, Abdullah, His Majesty's Government, government_
+_Context: 7 July, Abdullah, Government of Saudi Arabia, His Majesty's Government_
 
 ##### Argentine general election, 2007
 ### [ Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. ](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.md)

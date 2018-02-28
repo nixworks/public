@@ -25,7 +25,7 @@ _Context: Dail Eireann, Enda Kenny, Irish, Joe Higgins, Socialist Party, Taoisea
 
 ##### Zendstation Smilde
 ### [A portion of the Zendstation Smilde in Hoogersmilde, Netherlands collapses in a fire. ](/news/2011/07/15/a-portion-of-the-zendstation-smilde-in-hoogersmilde-netherlands-collapses-in-a-fire.md)
-_Context: Hoogersmilde, Netherlands, Zendstation Smilde_
+_Context: Dutch, Hoogersmilde, Zendstation Smilde_
 
 ##### Earthquake
 ### [A magnitude 6 earthquake occurs off the coast of Chile near Valparaiso. ](/news/2011/07/15/a-magnitude-6-earthquake-occurs-off-the-coast-of-chile-near-valparaaso.md)

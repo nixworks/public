@@ -49,7 +49,7 @@ _Context: Bhikkhu, Buddhist, China, Drepung monastery, Tibet_
 
 ##### 
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
-##### 250,000 documents
+##### United States diplomatic cables leak
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -63,7 +63,7 @@ _Context: New START Treaty, Russia, United States Senate, nuclear missile_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: Armenian, Turkey, United States House of Representatives, genocide of Armenians_
+_Context: Armenian, Turkish, United States House of Representatives, genocide of Armenians_
 
 ##### 
 ### [Ongoing flooding in California kills at least three people. ](/news/2010/12/22/ongoing-flooding-in-california-kills-at-least-three-people.md)

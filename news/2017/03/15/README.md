@@ -9,7 +9,7 @@ _Context: Donald Trump, Hawaii, Maryland, United States immigration ban, Washing
 
 ##### Dutch general election, 2017
 ### [Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-minister-mark-rutte-s-people-s-par.md)
-_Context: Dutch general election, 2017, Exit poll, Mark Rutte, Netherlands, Prime Minister, VVD_
+_Context: Dutch, Dutch general election, 2017, Exit poll, Mark Rutte, Prime Minister, VVD_
 
 ##### Tyrol
 ### [An avalanche kills four skiers in Tyrol, Austria. ](/news/2017/03/15/an-avalanche-kills-four-skiers-in-tyrol-austria.md)

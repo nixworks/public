@@ -27,9 +27,9 @@ _Context: Russia, Tula, fire, retirement home_
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
 _Context: Carini, Italy, Palermo, Salvatore Lo Piccolo, Sicily, mafia, police_
 
-##### Netherlands
+##### Dutch
 ### [ The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007 Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007 President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-date-december-2007-several-demonstrating-lawyers-protes.md)
-_Context: George W. Bush, Netherlands, Pervez Musharraf, Sindh, Sindh High Court, U.S. President, arrested, assistance, lawyers, president, states of emergency_
+_Context: Dutch, George W. Bush, Pervez Musharraf, Sindh, Sindh High Court, U.S. President, arrested, assistance, lawyers, president, states of emergency_
 
 ##### Hang Seng Index
 ### [ The Hang Seng Index in Hong Kong drops over 1,500 points, or 5%, three days after a previous sizable decline. The Hang Seng registers its largest daily loss since September 2001. ](/news/2007/11/5/the-hang-seng-index-in-hong-kong-drops-over-1-500-points-or-5-three-days-after-a-previous-sizable-decline-the-hang-seng-registers-its-l.md)

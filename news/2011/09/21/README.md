@@ -7,9 +7,9 @@ Formats: [HTML](2011/09/21/index.html)  [JSON](2011/09/21/index.json)  [XML](201
 ### [The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardons-and-paroles-rej.md)
 Convicted murderer Troy Davis was executed late Wednesday after the U.S. Supreme Court rejected a last-minute appeal.
 
-##### Turkey
+##### Turkish
 ### [Turkey signs an accord with North Cyprus to explore for oil and gas in the Mediterranean in response to a decision by the Government of Cyprus to drill for oil. ](/news/2011/09/21/turkey-signs-an-accord-with-north-cyprus-to-explore-for-oil-and-gas-in-the-mediterranean-in-response-to-a-decision-by-the-government-of-cypr.md)
-_Context: Government of Cyprus, Mediterranean, North Cyprus, Turkey_
+_Context: Government of Cyprus, Mediterranean, North Cyprus, Turkish_
 
 ##### Shane Bauer and Josh Fattal
 ### [Two American hikers, Shane Bauer and Josh Fattal, are set free on bail by Iran as a humanitarian gesture, after being detained in prison for over two years under allegations of espionage. ](/news/2011/09/21/two-american-hikers-shane-bauer-and-josh-fattal-are-set-free-on-bail-by-iran-as-a-humanitarian-gesture-after-being-detained-in-prison-for.md)

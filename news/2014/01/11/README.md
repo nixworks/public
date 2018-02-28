@@ -11,7 +11,7 @@ French President Francois Hollande is under pressure to clarify his personal sit
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
 _Context: Devyani Khobragade incident, India, United States_
 
-##### Prime Minister of Israel
+##### Israeli Prime Minister
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)
 Former PM and general was polarising figure who backed Jewish settlements but pulled out of Gaza.
 

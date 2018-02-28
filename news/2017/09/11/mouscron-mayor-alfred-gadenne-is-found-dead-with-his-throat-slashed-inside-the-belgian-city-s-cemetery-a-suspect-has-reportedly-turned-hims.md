@@ -22,4 +22,5 @@ Formats: [HTML](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-wit
 
 ### Related:
 
-1. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md) _Context: Crime in Belgium_
+1. [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md) _Context: Crime in Belgium_
+2. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md) _Context: Crime in Belgium_

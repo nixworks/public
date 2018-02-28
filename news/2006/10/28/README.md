@@ -3,9 +3,9 @@ Formats: [HTML](2006/10/28/index.html)  [JSON](2006/10/28/index.json)  [XML](200
 
 ## [2006-10-28](/news/2006/10/28/index.md)
 
-##### Kabila government
+##### Joseph Kabila
 ### [ Joseph Kabila and Jean-Pierre Bemba face-off in the presidential run-off election in Democratic Republic of the Congo. ](/news/2006/10/28/joseph-kabila-and-jean-pierre-bemba-face-off-in-the-presidential-run-off-election-in-democratic-republic-of-the-congo.md)
-_Context: DR Congo, Jean-Pierre Bemba, Kabila government, presidential candidate in 2006_
+_Context: DR Congo, Jean-Pierre Bemba, Joseph Kabila, presidential candidate in 2006_
 
 ##### Serbian constitutional referendum, 2006
 ### [ Voting begins on a new Serbian constitution that would make Kosovo officially a part of Serbia; voter turnout on day one was low. ](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.md)

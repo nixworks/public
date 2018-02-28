@@ -35,9 +35,9 @@ _Context: Cambridge University, Oxford University, University Boat Race_
 ### [ A recently released Iranian diplomat claims that he was tortured by the CIA while in captivity in Iraq. ](/news/2007/04/7/a-recently-released-iranian-diplomat-claims-that-he-was-tortured-by-the-cia-while-in-captivity-in-iraq.md)
 _Context: CIA, Foreign relations of Iran, Iran, Iraq, torture_
 
-##### Turkey
+##### Turkish
 ### [ Turkish soldiers are killed in a clash with Kurdistan Workers' Party forces in Sirnak province. ](/news/2007/04/7/turkish-soldiers-are-killed-in-a-clash-with-kurdistan-workers-party-forces-in-aa-rnak-province.md)
-_Context: Kurdistan Workers' Party, Sirnak province, Turkey_
+_Context: Kurdistan Workers' Party, Sirnak province, Turkish_
 
 ## [Previous Day...](/news/2007/04/6/index.md)
 

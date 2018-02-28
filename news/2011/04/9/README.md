@@ -33,7 +33,7 @@ _Context: parliament_
 
 ##### Shooting spree
 ### [A shooting spree in a shopping mall in Alphen aan den Rijn in the Netherlands leaves seven dead, including the perpetrator. ](/news/2011/04/9/a-shooting-spree-in-a-shopping-mall-in-alphen-aan-den-rijn-in-the-netherlands-leaves-seven-dead-including-the-perpetrator.md)
-_Context: Alphen aan den Rijn, Netherlands, shooting spree_
+_Context: Alphen aan den Rijn, Dutch, shooting spree_
 
 ##### Australia
 ### [Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. ](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.md)

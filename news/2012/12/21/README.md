@@ -15,9 +15,9 @@ Three new Expedition 34 crew members were welcomed aboard the station after the 
 ### [After detailed study of the Sutter's Mill meteorite found in California on 22 April 2012, scientists report it contains some of the oldest material in the Solar System. ](/news/2012/12/21/after-detailed-study-of-the-sutter-s-mill-meteorite-found-in-california-on-22-april-2012-scientists-report-it-contains-some-of-the-oldest-m.md)
 One of the fastest and rarest ever. ;
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands, former Deputy Prime Minister Els Borst and former Vice President of the Council of State Herman Tjeenk Willink are granted the rare honorary title of Minister of State. ](/news/2012/12/21/in-the-netherlands-former-deputy-prime-minister-els-borst-and-former-vice-president-of-the-council-of-state-herman-tjeenk-willink-are-grant.md)
-_Context: Deputy Prime Minister of the Netherlands, Els Borst, Herman Tjeenk Willink, Minister of State, Netherlands, Vice President of the Council of State_
+_Context: Deputy Prime Minister of the Netherlands, Dutch, Els Borst, Herman Tjeenk Willink, Minister of State, Vice President of the Council of State_
 
 ##### Irish
 ### [Ireland's Fine Gael food and farming minister Shane McEntee kills himself 2 days after his 56th birthday, triggering a by-election in Meath East. ](/news/2012/12/21/ireland-s-fine-gael-food-and-farming-minister-shane-mcentee-kills-himself-2-days-after-his-56th-birthday-triggering-a-by-election-in-meath.md)

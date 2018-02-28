@@ -19,7 +19,7 @@ The thousands of tons of meat have an estimated value of more than $480 million 
 ### [Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-victims.md)
 Since the federal government reinstated the death penalty in 1988, only three men have been executed.
 
-##### Netherlands
+##### Dutch
 ### [A Dutch court orders the Netherlands to reduce its carbon emissions by at least 25% by 2020. ](/news/2015/06/24/a-dutch-court-orders-the-netherlands-to-reduce-its-carbon-emissions-by-at-least-25-by-2020.md)
 A court in the Netherlands orders the government to cut greenhouse gas emissions by at least 25% by 2020, in a class action suit launched by activists.
 

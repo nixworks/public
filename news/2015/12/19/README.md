@@ -9,7 +9,7 @@ Rwandans vote overwhelmingly to allow President Paul Kagame to extend his term i
 
 ##### European migrant crisis
 ### [Germany's refugee crisis coordinator Peter Altmaier says, in an interview with German magazine "Focus", that he and Austrian special minister Josef Ostermayer are working on a proposal for a common European asylum law. He added other countries such as France and The Netherlands would be approached soon. ](/news/2015/12/19/germany-s-refugee-crisis-coordinator-peter-altmaier-says-in-an-interview-with-german-magazine-focus-that-he-and-austrian-special-ministe.md)
-_Context: Austria, European migrant crisis, French, German magazine ''Focus'', Germany's refugee crisis coordinator, Netherlands, Peter Altmaier, special minister Josef Ostermayer_
+_Context: Austria, Dutch, European migrant crisis, French, German magazine ''Focus'', Germany's refugee crisis coordinator, Peter Altmaier, special minister Josef Ostermayer_
 
 ##### Joint Comprehensive Plan of Action
 ### [Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia-in-the-next-few-days-as-the-countr.md)

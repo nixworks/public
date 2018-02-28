@@ -95,7 +95,7 @@ _Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietna
 ### [The leadership of Secretary-General of the United Nations Ban Ki-moon is attacked. ](/news/2010/07/20/the-leadership-of-secretary-general-of-the-united-nations-ban-ki-moon-is-attacked.md)
 _Context: Ban Ki-moon, United Nations Secretary-General_
 
-##### Turkey
+##### Turkish
 ### [Turkish foreign minister Ahmet Davutoglu and exiled Hamas leader Khaled Mashal meet for talks in Syria. ](/news/2010/07/20/turkish-foreign-minister-ahmet-davutoalu-and-exiled-hamas-leader-khaled-mashal-meet-for-talks-in-syria.md)
 Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Meshaal in Damascus, Anatolia news agency reported.
 
@@ -155,7 +155,7 @@ _Context: Forward Poetry Prize_
 ### [Author Alan Shadrake is released on bail after being arrested while promoting his book on the death penalty in Singapore; a trial is forthcoming on 30 July. ](/news/2010/07/20/author-alan-shadrake-is-released-on-bail-after-being-arrested-while-promoting-his-book-on-the-death-penalty-in-singapore-a-trial-is-forthco.md)
 Writer of book on death penalty out on bail ahead of trial for alleged defamation.
 
-##### Turkey
+##### Turkish
 ### [Turkey says six of its soldiers were killed and fifteen wounded in an attack by Kurdish rebels near the Iraqi border. Turkey also says that one rebel was killed during the attack, and that others were being pursued by the military. ](/news/2010/07/20/turkey-says-six-of-its-soldiers-were-killed-and-fifteen-wounded-in-an-attack-by-kurdish-rebels-near-the-iraqi-border-turkey-also-says-that.md)
 Six Turkish soldiers are killed in an attack by Kurdish rebels near the border with Iraq, Turkish reports say.
 

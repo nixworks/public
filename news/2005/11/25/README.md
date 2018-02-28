@@ -33,7 +33,7 @@ _Context: Conflict in Iraq, German, Iraq, Susanne Osthoff, archaeologist_
 
 ##### European Commission
 ### [ The European Commission starts a legal action against the Bank of Italy and its President, Antonio Fazio, who allegedly favoured the Italian bank Banca Popolare Italiana in the race to acquire Banca Antonveneta, thus penalising Dutch group ABN AMRO. ](/news/2005/11/25/the-european-commission-starts-a-legal-action-against-the-bank-of-italy-and-its-president-antonio-fazio-who-allegedly-favoured-the-italia.md)
-_Context: ABN AMRO, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, Bank of Italy, European Commission, Italy, Netherlands, lawsuit_
+_Context: ABN AMRO, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, Bank of Italy, Dutch, European Commission, Italy, lawsuit_
 
 ##### Defence
 ### [ Polish Minister of National Defence Radek Sikorski opens Warsaw Pact archives to historians. Maps of possible nuclear strikes against Western Europe, as well as the possible nuclear annihilation of 43 Polish cities and 2 million of its citizens by Soviet-controlled forces, are released. ](/news/2005/11/25/polish-minister-of-national-defence-radek-sikorski-opens-warsaw-pact-archives-to-historians-maps-of-possible-nuclear-strikes-against-weste.md)

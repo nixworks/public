@@ -23,7 +23,7 @@ _Context: Michael Applebaum, Montreal, Quebec_
 ### [Former BBC broadcaster Stuart Hall is sentenced to 15 months in jail for sexually abusing girls. ](/news/2013/06/17/former-bbc-broadcaster-stuart-hall-is-sentenced-to-15-months-in-jail-for-sexually-abusing-girls.md)
 BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing girls as it emerges some of his victims plan to sue.
 
-##### Netherlands
+##### Dutch
 ### [A court in the Netherlands finds a 50-year-old man and six teenagers guilty of kicking a volunteer linesman to death in Almere in December 2012. ](/news/2013/06/17/a-court-in-the-netherlands-finds-a-50-year-old-man-and-six-teenagers-guilty-of-kicking-a-volunteer-linesman-to-death-in-almere-in-december-2.md)
 Six teenagers and the father of one of them are found guilty of kicking a volunteer linesman to death in the Netherlands.
 
@@ -35,9 +35,9 @@ The U.S. Supreme Court on Monday struck down an Arizona law that required people
 ### [Talks between the foreign ministers of Britain and Ecuador end with no breakthrough over WikiLeaks founder Julian Assange, who remains in the country's London embassy. ](/news/2013/06/17/talks-between-the-foreign-ministers-of-britain-and-ecuador-end-with-no-breakthrough-over-wikileaks-founder-julian-assange-who-remains-in-th.md)
 Talks between the foreign ministers of Britain and Ecuador have ended with no breakthrough over Wikileaks founder Julian Assange, who remains in the South American country&#39;s London embassy.
 
-##### Turkey
+##### Turkish
 ### [Turkey, South Africa and Russia react angrily to the British government and demand an explanation for the revelations that their politicians and senior officials were spied on and bugged during the 2009 G20 summit in London ](/news/2013/06/17/turkey-south-africa-and-russia-react-angrily-to-the-british-government-and-demand-an-explanation-for-the-revelations-that-their-politicians.md)
-_Context: British government, G20, London, Russia, South Africa, Turkey_
+_Context: British government, G20, London, Russia, South Africa, Turkish_
 
 ##### G8 summit
 ### [The 39th G8 summit gets underway in Northern Ireland with the Syrian civil war high on the agenda. ](/news/2013/06/17/the-39th-g8-summit-gets-underway-in-northern-ireland-with-the-syrian-civil-war-high-on-the-agenda.md)

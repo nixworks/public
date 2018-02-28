@@ -41,7 +41,7 @@ _Context: Stora Enso, UPM-Kymmene, paper industry, strike_
 
 ##### Indonesia
 ### [ In Indonesia, the team that is investigating the death of human rights campaigner Munir Said Thalib states that the Indonesian intelligence agency BIN may be involved. Munir died of arsenic poisoning en route to the Netherlands on September 7, 2004. ](/news/2005/06/23/in-indonesia-the-team-that-is-investigating-the-death-of-human-rights-campaigner-munir-said-thalib-states-that-the-indonesian-intelligence.md)
-_Context: BIN, Indonesia, Munir Said Thalib, Netherlands, arsenic, human rights_
+_Context: BIN, Dutch, Indonesia, Munir Said Thalib, arsenic, human rights_
 
 ##### Ku Klux Klan
 ### [ Elderly former Ku Klux Klansman Edgar Ray Killen was sentenced to 60 years in prison for the 1964 killing of three civil rights workers, the notorious crime that galvanized the civil rights movement and inspired the 1988 movie "Mississippi Burning". Circuit Judge Marcus Gordon handed down the maximum possible sentence for the 80-year-old former Baptist preacher, a punishment which will likely keep him in prison for the rest of his life. ](/news/2005/06/23/elderly-former-ku-klux-klansman-edgar-ray-killen-was-sentenced-to-60-years-in-prison-for-the-1964-killing-of-three-civil-rights-workers-th.md)

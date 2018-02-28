@@ -19,7 +19,7 @@ Australian Prime Minister Julia Gillard calls a general election for 14 Septembe
 ### [Tony McCluskie is sentenced to life imprisonment for the murder of his sister EastEnders-actress Gemma McCluskie in the UK. ](/news/2013/01/30/tony-mccluskie-is-sentenced-to-life-imprisonment-for-the-murder-of-his-sister-eastenders-actress-gemma-mccluskie-in-the-uk.md)
 Gemma McCluskie&#039;s decapitated body was found in a canal in east London a week after it was dumped by her brother.
 
-##### Netherlands
+##### Dutch
 ### [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md)
 Four Nigerian farmers are set to find out whether a Netherlands court will back their pollution legal case against oil giant Shell.
 

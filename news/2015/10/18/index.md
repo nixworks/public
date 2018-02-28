@@ -41,7 +41,7 @@ Two Turkish soldiers were killed when a roadside bomb hit their vehicle in the p
 
 ##### Turkey-ISIL conflict
 ### [Turkish police conduct pre-dawn raids on 17 locations in Istanbul and detain some 50 people suspected of being linked to the Islamic State group, according to Turkey's state-run news agency. ](/news/2015/10/18/turkish-police-conduct-pre-dawn-raids-on-17-locations-in-istanbul-and-detain-some-50-people-suspected-of-being-linked-to-the-islamic-state-g.md)
-_Context: ISIL, Istanbul, Turkey, Turkey-ISIL conflict, Turkish police_
+_Context: ISIL, Istanbul, Turkey-ISIL conflict, Turkish, Turkish police_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [The Israeli military evacuated dozens of Jewish worshippers who were surrounded by Palestinians after entering Joseph's Tomb compound in Nablus, which was recently torched by Palestinians. The area is under full Palestinian control but Jewish prayer is permitted there when coordinated with authorities. The military said Sunday's visit was not, and the worshippers had no permit. ](/news/2015/10/18/the-israeli-military-evacuated-dozens-of-jewish-worshippers-who-were-surrounded-by-palestinians-after-entering-joseph-s-tomb-compound-in-nab.md)

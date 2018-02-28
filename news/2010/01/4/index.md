@@ -17,7 +17,7 @@ _Context: Jacob Zuma, South Africa_
 
 ##### Johan Ferrier
 ### [Johan Ferrier, first President of Suriname and the world's oldest living former head of state, dies in the Netherlands at the age of 99. ](/news/2010/01/4/johan-ferrier-first-president-of-suriname-and-the-world-s-oldest-living-former-head-of-state-dies-in-the-netherlands-at-the-age-of-99.md)
-_Context: Johan Ferrier, Netherlands, President of Suriname, Suriname, oldest living former head of state_
+_Context: Dutch, Johan Ferrier, President of Suriname, Suriname, oldest living former head of state_
 
 ##### Newark Liberty International Airport
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)

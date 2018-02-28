@@ -7,7 +7,7 @@ Formats: [HTML](2010/05/31/index.html)  [JSON](2010/05/31/index.json)  [XML](201
 ### [A court in Pakistan lifts a ban on Facebook imposed two weeks ago after an "Everybody Draw Mohammed Day" group appeared on the site. ](/news/2010/05/31/a-court-in-pakistan-lifts-a-ban-on-facebook-imposed-two-weeks-ago-after-an-everybody-draw-mohammed-day-group-appeared-on-the-site.md)
 _Context: Everybody Draw Mohammed Day, Facebook, Pakistan_
 
-##### Turkey
+##### Turkish
 ### [Six Turkish soldiers are killed in a rocket attack on a navy base by suspected Kurdish rebels in the south of the country. ](/news/2010/05/31/six-turkish-soldiers-are-killed-in-a-rocket-attack-on-a-navy-base-by-suspected-kurdish-rebels-in-the-south-of-the-country.md)
 State media blames Kurdish fighters for attack that killed six soldiers and wounded seven.
 

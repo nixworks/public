@@ -17,7 +17,7 @@ _Context: European Central Bank, Eurozone_
 
 ##### South Africa
 ### [ South Africa's Constitutional Court declares that current marriage laws restricting marriage to opposite-sex couples are unconstitutional and must be changed within a year. Once the change is made, South Africa will be the fifth country in the world where same-sex marriages are recognized, after Canada, Spain, the Netherlands, and Belgium. ](/news/2005/12/1/south-africa-s-constitutional-court-declares-that-current-marriage-laws-restricting-marriage-to-opposite-sex-couples-are-unconstitutional-a.md)
-_Context: Belgium, Canada, Netherlands, South Africa, South African Constitutional Court, Spain, must be changed within a year, same-sex marriages, unconstitutional_
+_Context: Belgium, Canada, Dutch, South Africa, South African Constitutional Court, Spain, must be changed within a year, same-sex marriages, unconstitutional_
 
 ## [Previous Day...](/news/2005/11/30/index.md)
 

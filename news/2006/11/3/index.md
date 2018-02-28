@@ -29,7 +29,7 @@ _Context: Jamaica, Trevor Berbick_
 
 ##### European Commission
 ### [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md)
-_Context: Accession of Turkey to the European Union, European Commission, European Union, Turkey_
+_Context: Accession of Turkey to the European Union, European Commission, European Union, Turkish_
 
 ##### World Meteorological Organisation
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)

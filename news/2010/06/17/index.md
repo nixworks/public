@@ -51,9 +51,9 @@ A &quot;cascading series of errors&quot; led to the 1985 bombing of an Air India
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
 _Context: New York City, Times Square bomber_
 
-##### Turkey
+##### Turkish
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Iraq, Kurdish, Kurdistan Workers' Party, Turkey, disarm_
+_Context: Iraq, Kurdish, Kurdistan Workers' Party, Turkish, disarm_
 
 ##### Los Angeles Lakers
 ### [The Los Angeles Lakers win the 2010 NBA Finals defeating the Boston Celtics 83-79 in Game 7. ](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.md)
@@ -83,7 +83,7 @@ _Context: Anhui, Anhui Province, Bagongshan, Huainan_
 ### [16 people are killed and around 70 others are trapped after a blast at the San Fernando mine in Amaga, Antioquia, in Colombia. ](/news/2010/06/17/16-people-are-killed-and-around-70-others-are-trapped-after-a-blast-at-the-san-fernando-mine-in-amaga-antioquia-in-colombia.md)
 An explosion at a coalmine in Colombia kills at least 16 workers with about 70 still trapped, officials say.
 
-##### Netherlands
+##### Dutch
 ### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
 A novel that Dutch publishers saw as having only a cult appeal has taken this year&rsquo;s International Impac Dublin Literary Award&hellip;
 

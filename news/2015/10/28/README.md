@@ -27,7 +27,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House. There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md)
 Mr. Ryan won the overwhelming support of his colleagues in the nominating contest and is now set to be installed as speaker in a formal vote on Thursday.
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands, the Undersecretary for Infrastructure and Environment Wilma Mansveld resigns following the publication of a damning report about the problems with the international high-speed rail service Fyra. ](/news/2015/10/28/in-the-netherlands-the-undersecretary-for-infrastructure-and-environment-wilma-mansveld-resigns-following-the-publication-of-a-damning-repo.md)
 Junior transport minister Wilma Mansveld has resigned following the publication of a damning report about the Dutch high speed train service Fyra.
 

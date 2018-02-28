@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has
 
 ### [2005-04-7](/news/2005/04/7/index.md)
 
-##### Netherlands
+##### Dutch
 #  Police in the Netherlands arrest a gang that has smuggled Chinese asylum seekers and sold them for cheap labor. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has
 
 ### Related:
 
-1. [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoid.md) _Context: Chinese, Netherlands_
-2. [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md) _Context: Netherlands_
-3. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_
-4. [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md) _Context: Chinese_
-5. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md) _Context: Netherlands_
+1. [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoid.md) _Context: Chinese, Dutch_
+2. [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md) _Context: Dutch_
+3. [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md) _Context: Dutch_
+4. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_
+5. [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md) _Context: Chinese_

@@ -11,9 +11,9 @@ MELTING ICE is pouring off Greenland and Antarctica into the sea far faster than
 ### [ Nigerian politician Waje Yayok, third in command in Kaduna State, is kidnapped. ](/news/2009/09/24/nigerian-politician-waje-yayok-third-in-command-in-kaduna-state-is-kidnapped.md)
 _Context: Kaduna State, Nigeria, Waje Yayok_
 
-##### Turkey
+##### Turkish
 ### [ Five deaths occur in Turkey as a result of flash floods. ](/news/2009/09/24/five-deaths-occur-in-turkey-as-a-result-of-flash-floods.md)
-_Context: Turkey_
+_Context: Turkish_
 
 ##### Tongan Loloahi Tapui
 ### [ Tongan Loloahi Tapui, the housekeeper of Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is arrested alongside her husband over alleged immigration offences. ](/news/2009/09/24/tongan-loloahi-tapui-the-housekeeper-of-attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-arrested.md)

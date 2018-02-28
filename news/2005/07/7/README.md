@@ -11,9 +11,9 @@ _Context: Mexico, Nuevo Laredo, Omar Pimentel_
 ### [ In Hungary, a hoaxed bomb threat forces evacuation of three shopping malls. ](/news/2005/07/7/in-hungary-a-hoaxed-bomb-threat-forces-evacuation-of-three-shopping-malls.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Turkey
+##### Turkish
 ### [ In Turkey, a land mine placed on the tracks derails a freight train. There are no reports of casualties. ](/news/2005/07/7/in-turkey-a-land-mine-placed-on-the-tracks-derails-a-freight-train-there-are-no-reports-of-casualties.md)
-_Context: Turkey, freight, land mine, train_
+_Context: Turkish, freight, land mine, train_
 
 ##### Brazil
 ### [ The Brazilian congress announces a referendum on banning firearms sales. ](/news/2005/07/7/the-brazilian-congress-announces-a-referendum-on-banning-firearms-sales.md)

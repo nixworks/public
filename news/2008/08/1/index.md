@@ -13,7 +13,7 @@ _Context: Colombo, South Asian Association for Regional Cooperation, Sri Lanka, 
 
 ##### Konya Province
 ### [ At least 11 people die following the collapse of a three-story girls' dormitory due to an explosion in the village of Balcilar in Konya Province in central Anatolia, Turkey. ](/news/2008/08/1/at-least-11-people-die-following-the-collapse-of-a-three-story-girls-dormitory-due-to-an-explosion-in-the-village-of-balcilar-in-konya-pro.md)
-_Context: Anatolia, Konya Province, Turkey_
+_Context: Anatolia, Konya Province, Turkish_
 
 ##### King Tupou V
 ### [ King Tupou V is crowned as the 23rd Monarch of Tonga. ](/news/2008/08/1/king-tupou-v-is-crowned-as-the-23rd-monarch-of-tonga.md)

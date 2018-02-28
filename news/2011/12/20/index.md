@@ -7,7 +7,7 @@ Formats: [HTML](2011/12/20/index.html)  [JSON](2011/12/20/index.json)  [XML](201
 ### [Two Earth-sized planets, Kepler-20e and Kepler-20d, are found orbiting a star 950 light-years away from Earth. ](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.md)
 _Context: Earth, Kepler-20e and Kepler-20d_
 
-##### Netherlands
+##### Dutch
 ### [Worldwide controversy erupts over a plan by Dutch scientists to publish findings relating to the development of a mutated strain of H5N1, that could potentially cause a worldwide pandemic that could kill millions. Bioterrorism watchdogs also express immense concern over the development of the virus (which is presently stored in Erasmus MC, Rotterdam). ](/news/2011/12/20/worldwide-controversy-erupts-over-a-plan-by-dutch-scientists-to-publish-findings-relating-to-the-development-of-a-mutated-strain-of-h5n1-th.md)
 A man-made virus that could wipe out half humanity has been deemed a terrorist threat. And while the scientists behind the Frankenstein-flu hoped their research would help find a cure, critics fear they have developed the ultimate bio-weapon.
 
@@ -15,7 +15,7 @@ A man-made virus that could wipe out half humanity has been deemed a terrorist t
 ### [Thousands of Egyptian women demonstrate against abuses by military police. ](/news/2011/12/20/thousands-of-egyptian-women-demonstrate-against-abuses-by-military-police.md)
 The demonstration grew by the minute into an extraordinary expression of anger at the treatment of women by the military police.
 
-##### Kabila government
+##### Joseph Kabila
 ### [Joseph Kabila is sworn in as President of the Democratic Republic of the Congo, despite the presidency being contested by opposition leader Etienne Tshisekedi. ](/news/2011/12/20/joseph-kabila-is-sworn-in-as-president-of-the-democratic-republic-of-the-congo-despite-the-presidency-being-contested-by-opposition-leader.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

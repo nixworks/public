@@ -71,7 +71,7 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 ### [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md)
 _Context: Bo, Sierra Leone, hoax_
 
-##### Netherlands
+##### Dutch
 ### [Dutch officials object to "ridiculous" and "out of the realm of fiction" claims by retired American general John J. Sheehan, a former NATO commander, that the use of gay soldiers in 1995 meant Dutch forces were "under-strength" and "poorly led" when attempting to protect Bosnian civilians in Srebrenica. ](/news/2010/03/19/dutch-officials-object-to-ridiculous-and-out-of-the-realm-of-fiction-claims-by-retired-american-general-john-j-sheehan-a-former-nato-c.md)
 Former US general says 1995 massacre due in part to Dutch army allowing gay troops.
 

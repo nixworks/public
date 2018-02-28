@@ -73,7 +73,7 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ##### Sexual abuse
 ### [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md)
-_Context: German, Netherlands, Pope Benedict XVI, Salzburg, sexual abuse_
+_Context: Dutch, German, Pope Benedict XVI, Salzburg, sexual abuse_
 
 ##### State Department
 ### [The United States Department of State issues an apology for Department spokesman P.J. Crowley's personal comments, which described Libyan leader Muammar al-Gaddafi's comments on the minaret controversy in Switzerland as "lots of words, not necessarily a lot of sense". ](/news/2010/03/9/the-united-states-department-of-state-issues-an-apology-for-department-spokesman-p-j-crowley-s-personal-comments-which-described-libyan-le.md)

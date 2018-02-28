@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-
 
 ### [2006-01-20](/news/2006/01/20/index.md)
 
-##### Turkey
+##### Turkish
 #  Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-
 
 ### Related:
 
-1. [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md) _Context: Mehmet Ali Agca, Turkey_
+1. [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md) _Context: Mehmet Ali Agca, Turkish_
 2. [ Mehmet Ali Agca, who tried to assassinate Pope John Paul&nbsp;II in 1981, is released from jail. ](/news/2006/01/12/mehmet-ali-aaca-who-tried-to-assassinate-pope-john-paul-nbsp-ii-in-1981-is-released-from-jail.md) _Context: Mehmet Ali Agca, Pope John Paul&nbsp;II_
-3. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkey_
-4. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkey_
-5. [Pro-Syrian government forces are sent to help the Kurdish YPG fight against Turkey and the Turkish-backed Free Syrian Army in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurdish-ypg-fight-against-turkey-and-the-turkish-backed-free-syrian-army-in-the-afrin-regi.md) _Context: Turkey_
+3. [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md) _Context: Turkish_
+4. [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md) _Context: Turkish_
+5. [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Turkish_

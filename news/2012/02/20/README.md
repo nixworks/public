@@ -11,9 +11,9 @@ A living plant has been generated from the fruit of a little arctic flower, maki
 ### [In the United Kingdom, Home Secretary Theresa May announces plans to split the UK Border Agency into two separate organisations after revelations that hundreds of thousands of people were let into the country without appropriate checks. ](/news/2012/02/20/in-the-united-kingdom-home-secretary-theresa-may-announces-plans-to-split-the-uk-border-agency-into-two-separate-organisations-after-revela.md)
 Home Secretary Theresa May is to split the UK Border Agency following revelations that hundreds of thousands of people were let into the country without appropriate checks.
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands, Job Cohen, the leader of the Labour Party, resigns his position after increasing criticism of his performance. ](/news/2012/02/20/in-the-netherlands-job-cohen-the-leader-of-the-labour-party-resigns-his-position-after-increasing-criticism-of-his-performance.md)
-_Context: Job Cohen, Labour Party, Netherlands, leader_
+_Context: Dutch, Job Cohen, Labour Party, leader_
 
 ##### Workers' Party of Korea
 ### [The ruling Workers Party in North Korea calls a conference in mid-April to consolidate the transfer of leadership to Kim Jong-un from his father Kim Jong-Il. ](/news/2012/02/20/the-ruling-workers-party-in-north-korea-calls-a-conference-in-mid-april-to-consolidate-the-transfer-of-leadership-to-kim-jong-un-from-his-fa.md)

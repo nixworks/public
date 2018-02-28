@@ -3,9 +3,9 @@ Formats: [HTML](2009/04/18/index.html)  [JSON](2009/04/18/index.json)  [XML](200
 
 ## [2009-04-18](/news/2009/04/18/index.md)
 
-##### Netherlands
+##### Dutch
 ### [ The Netherlands' "Korps Commandotroepen" rescue 20 Yemeni hostages from Somali pirates in the Gulf of Aden. ](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Korps Commandotroepen, Netherlands, Somali pirates, Somalia, Yemen, hostage_
+_Context: Dutch, Gulf of Aden, Korps Commandotroepen, Somali pirates, Somalia, Yemen, hostage_
 
 ##### Abu Sayyaf
 ### [ The Abu Sayyaf Group releases Swiss Red Cross worker Andreas Notter from captivity in the Philippines. ](/news/2009/04/18/the-abu-sayyaf-group-releases-swiss-red-cross-worker-andreas-notter-from-captivity-in-the-philippines.md)

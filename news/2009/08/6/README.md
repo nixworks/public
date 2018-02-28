@@ -21,7 +21,7 @@ _Context: AIDS_
 
 ##### Democratic Republic of Congo
 ### [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md)
-_Context: Democratic Republic of Congo, Kabila government, Paul Kagame, Rwanda_
+_Context: Democratic Republic of Congo, Joseph Kabila, Paul Kagame, Rwanda_
 
 ##### Melle
 ### [ At least nine people are killed and several inhale fumes after a fire at a retirement home in Melle, Belgium. ](/news/2009/08/6/at-least-nine-people-are-killed-and-several-inhale-fumes-after-a-fire-at-a-retirement-home-in-melle-belgium.md)

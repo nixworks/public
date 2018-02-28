@@ -9,7 +9,7 @@ Egypt confirmed on Sunday that it had arrested an Al Jazeera news producer, accu
 
 ##### 2016 Turkish purges
 ### [Turkey probes around 10,000 social media users for allegedly insulting government officials or supporting "terror-related activity." ](/news/2016/12/25/turkey-probes-around-10-000-social-media-users-for-allegedly-insulting-government-officials-or-supporting-terror-related-activity.md)
-_Context: 2016 Turkish purges, Turkey, social media, terrorism_
+_Context: 2016 Turkish purges, Turkish, social media, terrorism_
 
 ##### Pakistan
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)

@@ -17,7 +17,7 @@ _Context: Sonthi Boonyaratglin, Thailand, coup, martial law_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI arrives in Turkey at the start of a four day tour that has sparked protests. ](/news/2006/11/28/pope-benedict-xvi-arrives-in-turkey-at-the-start-of-a-four-day-tour-that-has-sparked-protests.md)
-_Context: Pope Benedict XVI, Turkey_
+_Context: Pope Benedict XVI, Turkish_
 
 ##### Central African Republic
 ### [ Government troops in the Central African Republic, backed by French forces, have launched an offensive to retake the northeast town of Birao from rebels, and have recaptured its airport, a French military spokesman said. ](/news/2006/11/28/government-troops-in-the-central-african-republic-backed-by-french-forces-have-launched-an-offensive-to-retake-the-northeast-town-of-bira.md)

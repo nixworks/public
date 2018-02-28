@@ -13,7 +13,7 @@ Two pilots have surpassed the world distance and durations records for a flight 
 
 ##### King
 ### [King Salman of Saudi Arabia names a new cabinet and replaces officials in several key government positions, removing two sons of the late monarch Abdullah from their regional governorships in the process. ](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.md)
-_Context: Abdullah, King, cabinet, government, king_
+_Context: Abdullah, Government of Saudi Arabia, King, Salman, cabinet_
 
 ##### Zhelyu Zhelev
 ### [Zhelyu Zhelev, who became the first democratically elected president of Bulgaria, dies at 79. ](/news/2015/01/30/zhelyu-zhelev-who-became-the-first-democratically-elected-president-of-bulgaria-dies-at-79.md)

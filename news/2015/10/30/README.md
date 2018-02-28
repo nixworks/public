@@ -41,7 +41,7 @@ School buses were trapped in near San Antonio and a tornado may have touched dow
 
 ##### European migrant crisis
 ### [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md)
-_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, European migrant crisis, Greek Prime Minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkey_
+_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, European migrant crisis, Greek Prime Minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkish_
 
 ##### Construction worker
 ### [One construction worker dies and at least one more is under the rubble from the collapse of a building being demolished to make way for a Starwood Hotels and Resorts Worldwide luxury boutique hotel in New York City. ](/news/2015/10/30/one-construction-worker-dies-and-at-least-one-more-is-under-the-rubble-from-the-collapse-of-a-building-being-demolished-to-make-way-for-a-st.md)

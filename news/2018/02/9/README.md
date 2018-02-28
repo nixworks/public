@@ -13,7 +13,7 @@ STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tis
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Peoples' Democratic Party, Politics of Turkey, Turkey, Turkish military operation in Afrin, opposition_
+_Context: Peoples' Democratic Party, Politics of Turkey, Turkish, Turkish military operation in Afrin, opposition_
 
 ##### Presidency of Donald Trump
 ### [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md)

@@ -9,7 +9,7 @@ The woman who falsely accused three Duke University lacrosse players of rape has
 
 ##### United States
 ### [The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-handelsblad.md)
-_Context: NRC Handelsblad, Netherlands, United States, snooped_
+_Context: Dutch, NRC Handelsblad, United States, snooped_
 
 ##### Windstorm
 ### [At least two people are dead from windstorms in Northern California, U.S. ](/news/2013/11/22/at-least-two-people-are-dead-from-windstorms-in-northern-california-u-s.md)

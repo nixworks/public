@@ -13,7 +13,7 @@ _Context: Anti-corruption campaign in China, Central Commission for Discipline I
 
 ##### PKK rebellion (2015-present)
 ### [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md)
-_Context: Kurdistan Workers Party, PKK rebellion (2015-present), Turkey, Turkish_
+_Context: Kurdistan Workers Party, PKK rebellion (2015-present), Turkish, Turkish_
 
 ##### Kosovo War
 ### [A special court is set up at The Hague to try Kosovo Liberation Army suspects for alleged war crimes against ethnic minorities and political opponents. ](/news/2016/01/15/a-special-court-is-set-up-at-the-hague-to-try-kosovo-liberation-army-suspects-for-alleged-war-crimes-against-ethnic-minorities-and-political.md)

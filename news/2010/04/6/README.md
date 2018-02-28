@@ -35,7 +35,7 @@ _Context: Eugene Terre'Blanche, South Africa, Ventersdorp_
 ### [Baton-wielding Egyptian police disperse a pro-democracy demonstration in Cairo. ](/news/2010/04/6/baton-wielding-egyptian-police-disperse-a-pro-democracy-demonstration-in-cairo.md)
 _Context: Cairo, Egypt_
 
-##### Turkey
+##### Turkish
 ### [Turkish police arrest at least 14 military officers, including four generals, accused of a 2003 coup plot. ](/news/2010/04/6/turkish-police-arrest-at-least-14-military-officers-including-four-generals-accused-of-a-2003-coup-plot.md)
 Police detain at least 14 military officers over alleged plot to topple government.
 
@@ -45,7 +45,7 @@ Chinese hackers have pilfered classified documents from the India&rsquo;s securi
 
 ##### Prime Minister
 ### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
-_Context: Armenia, Prime Minister, Recep Tayyip Erdogan, Turkey_
+_Context: Armenia, Prime Minister, Recep Tayyip Erdogan, Turkish_
 
 ##### North Korea
 ### [Details of North Korea's own Red Star operating system emerge. ](/news/2010/04/6/details-of-north-korea-s-own-red-star-operating-system-emerge.md)

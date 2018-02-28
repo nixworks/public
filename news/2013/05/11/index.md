@@ -37,7 +37,7 @@ An immigrant from Ghana has gone on a rampage with a pickaxe in Milan, killing a
 
 ##### Two car bombings
 ### [43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. ](/news/2013/05/11/43-killed-and-over-100-injured-in-two-car-bombings-in-reyhanla-turkey-near-the-syrian-border.md)
-_Context: Reyhanli, Turkey, two car bombings_
+_Context: Reyhanli, Turkish, two car bombings_
 
 ##### Awami National Party
 ### [A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md)

@@ -67,7 +67,7 @@ _Context: China, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister of Jap
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
 _Context: Afghanistan, Iran_
 
-##### Turkey
+##### Turkish
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
 Complaint filed with International Criminal Court accuses Israel of war crimes including torture, inhuman treatment during IDF raid on Gaza-bound flotilla last May. ICC&#39;s jurisdiction unclear 
 
@@ -83,7 +83,7 @@ _Context: Benjamin Netanyahu, Hezbollah, Iran, Iranian President, Lebanese, Mahm
 ### [American actor and UN peace messenger, George Clooney, calls for the freezing of assets held by Sudan's President Omar al-Bashir, who is wanted by the International Criminal Court for war crimes in Darfur, as a good way of putting pressure on the Sudanese government ](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.md)
 _Context: George Clooney, Omar al-Bashir, UN peace messenger, conflict_
 
-##### Turkey
+##### Turkish
 ### [Floods kill an elderly man in Turkey's Bursa. ](/news/2010/10/14/floods-kill-an-elderly-man-in-turkey-s-bursa.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

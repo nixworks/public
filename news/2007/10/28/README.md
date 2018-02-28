@@ -33,7 +33,7 @@ Baltimore, Maryland issues tickets to legally parked motorists after smart parki
 
 ##### Israeli Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert apologizes to the Prime Minister of Turkey Recep Tayyip Erdogan for possibly violating Turkish airspace. ](/news/2007/10/28/the-prime-minister-of-israel-ehud-olmert-apologizes-to-the-prime-minister-of-turkey-recep-tayyip-erdoaan-for-possibly-violating-turkish-ai.md)
-_Context: Ehud Olmert, Israeli Prime Minister, Recep Tayyip Erdogan, Turkey, Turkish Prime Minister_
+_Context: Ehud Olmert, Israeli Prime Minister, Recep Tayyip Erdogan, Turkish, Turkish Prime Minister_
 
 ##### Roman Catholic Church
 ### [ The Roman Catholic Church beatifies 498 people who were executed during the Spanish Civil War. The decision sparks controversy because most of them were supporters of dictator Francisco Franco. ](/news/2007/10/28/the-roman-catholic-church-beatifies-498-people-who-were-executed-during-the-spanish-civil-war-the-decision-sparks-controversy-because-most.md)

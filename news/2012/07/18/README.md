@@ -17,7 +17,7 @@ Indonesia will send its front-line Sukhoi jet fighters to take part in Australia
 
 ##### Municipal building
 ### [The monumental municipal building in Waalre, a town in the southern Netherlands, is destroyed in an attack after two cars purposefully rammed the building. ](/news/2012/07/18/the-monumental-municipal-building-in-waalre-a-town-in-the-southern-netherlands-is-destroyed-in-an-attack-after-two-cars-purposefully-ramme.md)
-_Context: Netherlands, Waalre, municipal building_
+_Context: Dutch, Waalre, municipal building_
 
 ##### Hungary
 ### [Pressure is raised in Hungary for authorities to arrest alleged former Nazi war criminal Laszlo Csatary, 97, who was discovered living in Hungary. Csatary is wanted in connection with his role in the deportation of Jews to death camps during the Second World War. ](/news/2012/07/18/pressure-is-raised-in-hungary-for-authorities-to-arrest-alleged-former-nazi-war-criminal-la-szla3-csata-ry-97-who-was-discovered-living-in.md)

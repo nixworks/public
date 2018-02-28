@@ -21,7 +21,7 @@ _Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relatio
 
 ##### Turkey-United States relations
 ### [The U.S Air Force deploys six F-15C fighter jets to Turkey's Incirlik Air Base to help defend Turkish airspace against potential intruders. ](/news/2015/11/6/the-u-s-air-force-deploys-six-f-15c-fighter-jets-to-turkey-s-incirlik-air-base-to-help-defend-turkish-airspace-against-potential-intruders.md)
-_Context: F-15, Incirlik Air Base, Turkey, Turkey-United States relations, United States Air Force, airspace_
+_Context: F-15, Incirlik Air Base, Turkey-United States relations, Turkish, United States Air Force, airspace_
 
 ##### European migrant crisis
 ### ["Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-pro.md)

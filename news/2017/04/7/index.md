@@ -11,7 +11,7 @@ Scientists say the artifacts exhumed on the remote island are painting a picture
 ### [Over 50,000 people participate in the ongoing Democratic Alliance protests in South Africa against President Jacob Zuma. ](/news/2017/04/7/over-50-000-people-participate-in-the-ongoing-democratic-alliance-protests-in-south-africa-against-president-jacob-zuma.md)
 Desmond Tutu made an appearance at protests in Cape Town 
 
-##### Kabila government
+##### Joseph Kabila
 ### [President Joseph Kabila appoints Bruno Tshibala of the Union for Democracy and Social Progress as the Prime Minister of the Democratic Republic of the Congo. Kabila's earlier announcement of his decision to appoint a new prime minister prompted Samy Badibanga to resign from the role after less than five months in office. ](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.md)
 Announcement likely to further divide the president&#39;s opponents in a country that has been rocked by violence.
 

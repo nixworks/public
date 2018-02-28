@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/25/index.html)  [JSON](2009/01/25/index.json)  [XML](200
 
 ##### Avalanche
 ### [ An avalanche kills 11 people on Mount Zigana, Gumushane Province in north-eastern Turkey. ](/news/2009/01/25/an-avalanche-kills-11-people-on-mount-zigana-ga1-4ma1-4ahane-province-in-north-eastern-turkey.md)
-_Context: Gumushane Province, Turkey, avalanche_
+_Context: Gumushane Province, Turkish, avalanche_
 
 ##### Collision
 ### [ A road accident kills 15 members of the Nigerian Football Federation's FC Jimeta. ](/news/2009/01/25/a-road-accident-kills-15-members-of-the-nigerian-football-federation-s-fc-jimeta.md)

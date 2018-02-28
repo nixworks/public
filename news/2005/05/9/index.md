@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/9/index.html)  [JSON](2005/05/9/index.json)  [XML](2005/
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, president Joseph Kabila visits Lumumbashi in Katanga province. At least 30 people have been arrested for an attempted separatist coup in the province. ](/news/2005/05/9/in-the-democratic-republic-of-congo-president-joseph-kabila-visits-lumumbashi-in-katanga-province-at-least-30-people-have-been-arrested-f.md)
-_Context: Democratic Republic of Congo, Kabila government, Katanga Province, Lumumbashi_
+_Context: Democratic Republic of Congo, Joseph Kabila, Katanga Province, Lumumbashi_
 
 ##### Andrs Manuel Lpez Obrador
 ### [ Andrs Manuel Lpez Obrador, mayor of Mexico City, announces that he will quit his post on July 31 to concentrate on his campaign to be president of Mexico. ](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.md)

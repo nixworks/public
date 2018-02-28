@@ -41,7 +41,7 @@ _Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Swede
 
 ##### Iranian Foreign Minister
 ### [Iranian Foreign Minister Manouchehr Mottaki said that Iran has agreed to hold talks with the five UN Security Council permanent members and Germany (G5+1) in Turkey. ](/news/2010/11/7/iranian-foreign-minister-manouchehr-mottaki-said-that-iran-has-agreed-to-hold-talks-with-the-five-un-security-council-permanent-members-and.md)
-_Context: G5, German, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
+_Context: G5, German, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkish, UN Security Council_
 
 ##### Commercial air traffic
 ### [Airlines cancel flights to Indonesia due to the Mount Merapi volcanic eruption. ](/news/2010/11/7/airlines-cancel-flights-to-indonesia-due-to-the-mount-merapi-volcanic-eruption.md)

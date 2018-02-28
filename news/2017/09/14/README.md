@@ -7,9 +7,9 @@ Formats: [HTML](2017/09/14/index.html)  [JSON](2017/09/14/index.json)  [XML](201
 ### [The International Union for Conservation of Nature upgrades the conservation status of the snow leopard from endangered to vulnerable. ](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.md)
 Although no longer at imminent risk of extinction, scientists are warning the Himalayan big cat is not out of the woods yet.
 
-##### United States presidential election, 2020
+##### 2020
 ### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
-_Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_
+_Context: 2020, California, Eric Garcetti, Kamala Harris, Super Tuesday, primaries_
 
 ##### Communist
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)

@@ -11,9 +11,9 @@ _Context: 139th, Golf, Louis Oosthuizen, Old Course at St Andrews, Open Champion
 ### [Rhinoceros experts worry after the last female in the Krugersdorp game reserve near Johannesburg is attacked by helicopter, shot with tranquiliser guns, and has her horn hacked off by poachers, slowly bleeding to death. ](/news/2010/07/18/rhinoceros-experts-worry-after-the-last-female-in-the-krugersdorp-game-reserve-near-johannesburg-is-attacked-by-helicopter-shot-with-tranqu.md)
 _Context: Johannesburg, Krugersdorp, rhino_
 
-##### Prime Minister of Israel
+##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu announces that he will oppose a conversion bill that would give the Chief Rabbinate of Israel the legal power to decide whether any conversion is legitimate and could cause immigrants who converted to Judaism abroad to be denied Israeli citizenship. ](/news/2010/07/18/israeli-prime-minister-benjamin-netanyahu-announces-that-he-will-oppose-a-conversion-bill-that-would-give-the-chief-rabbinate-of-israel-the.md)
-_Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli citizenship, Jewish, Prime Minister of Israel_
+_Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli Prime Minister, Israeli citizenship, Jewish_
 
 ##### Grenoble
 ### [Police in Grenoble, France arrest four people for attempted murder whom they claim protested the fatal shooting of a man by police. ](/news/2010/07/18/police-in-grenoble-france-arrest-four-people-for-attempted-murder-whom-they-claim-protested-the-fatal-shooting-of-a-man-by-police.md)

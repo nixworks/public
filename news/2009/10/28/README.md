@@ -49,7 +49,7 @@ _Context: Ares I, Ares I-X, Florida, Kennedy Space Center, Launch Complex 39B, N
 
 ##### German
 ### [ One of Germany's last Nazi war crimes trials begins, with Heinrich Boere charged with the killings of three civilians in the Netherlands. ](/news/2009/10/28/one-of-germany-s-last-nazi-war-crimes-trials-begins-with-heinrich-boere-charged-with-the-killings-of-three-civilians-in-the-netherlands.md)
-_Context: German, Heinrich Boere, Nazi, Netherlands_
+_Context: Dutch, German, Heinrich Boere, Nazi_
 
 ##### United Nations
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)

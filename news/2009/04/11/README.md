@@ -9,7 +9,7 @@ _Context: ''Tanit'', French, French naval, Gulf of Aden, Somali pirates, Somalia
 
 ##### Rotterdam
 ### [ A gunman kills one person and injures three others in Rotterdam, Netherlands. ](/news/2009/04/11/a-gunman-kills-one-person-and-injures-three-others-in-rotterdam-netherlands.md)
-_Context: Netherlands, Rotterdam_
+_Context: Dutch, Rotterdam_
 
 ##### Abdelaziz Bouteflika
 ### [ Abdelaziz Bouteflika is reelected as President of Algeria. ](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.md)

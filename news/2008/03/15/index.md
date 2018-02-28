@@ -11,9 +11,9 @@ _Context: 2008 unrest in Tibet, Qiangba Puncog, Tibet Autonomous Region_
 ### [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md)
 _Context: 11th, Chinese, Hu Jintao, President, Vice-President of the People's Republic of China, Xi Jinping, parliament_
 
-##### Turkey
+##### Turkish
 ### [ Turkish Prime Minister Recep Tayyip Erdogan says prosecutor Abdurrahman Yalcinkaya's proposal to ban the ruling Justice and Development Party is against the "national will". ](/news/2008/03/15/turkish-prime-minister-recep-tayyip-erdoaan-says-prosecutor-abdurrahman-yalassa-nkaya-s-proposal-to-ban-the-ruling-justice-and-development.md)
-_Context: Abdurrahman Yalcinkaya, Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, ruling party_
+_Context: Abdurrahman Yalcinkaya, Recep Tayyip Erdogan, Turkish, Turkish Prime Minister, ruling party_
 
 ##### Protest
 ### [ More than 9,000 people around the world protest against Scientology under the banner of Anonymous. ](/news/2008/03/15/more-than-9-000-people-around-the-world-protest-against-scientology-under-the-banner-of-anonymous.md)
@@ -41,7 +41,7 @@ A giant crane fell and crushed a residential building in Manhattan on Saturday, 
 
 ##### Bomb
 ### [ A bomb explodes at a restaurant in Islamabad, Pakistan, killing a Turkish woman and injuring 10 other people. ](/news/2008/03/15/a-bomb-explodes-at-a-restaurant-in-islamabad-pakistan-killing-a-turkish-woman-and-injuring-10-other-people.md)
-_Context: Islamabad, Pakistan, Turkey, bomb, restaurant_
+_Context: Islamabad, Pakistan, Turkish, bomb, restaurant_
 
 ##### Michael D. Griffin
 ### [ Michael D. Griffin, the current Administrator of NASA, announces the agency will concentrate more on the outer Solar System and less on Mars exploration, due to cuts to its 2009-2012 budget. ](/news/2008/03/15/michael-d-griffin-the-current-administrator-of-nasa-announces-the-agency-will-concentrate-more-on-the-outer-solar-system-and-less-on-mar.md)

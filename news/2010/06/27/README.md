@@ -3,9 +3,9 @@ Formats: [HTML](2010/06/27/index.html)  [JSON](2010/06/27/index.json)  [XML](201
 
 ## [2010-06-27](/news/2010/06/27/index.md)
 
-##### Netherlands
+##### Dutch
 ### [In the Netherlands a helicopter carrying 5 people crashes and 4 people are dead.](/news/2010/06/27/in-the-netherlands-a-helicopter-carrying-5-people-crashes-and-4-people-are-dead.md)
-_Context: Netherlands_
+_Context: Dutch_
 
 ##### NATO
 ### [Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. ](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.md)

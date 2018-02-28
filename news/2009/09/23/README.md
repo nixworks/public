@@ -37,7 +37,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_
 
 ##### India
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: German, India, Moon, Switzerland, Turkey_
+_Context: German, India, Moon, Switzerland, Turkish_
 
 ##### India
 ### [ Indian villagers accuse the actress Julia Roberts of interrupting Navratri. ](/news/2009/09/23/indian-villagers-accuse-the-actress-julia-roberts-of-interrupting-navratri.md)

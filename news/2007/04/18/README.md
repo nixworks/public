@@ -23,9 +23,9 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
 _Context: Australia, Guantanamo Bay detention camp, Nauru, United States, asylum seeker_
 
-##### Turkey
+##### Turkish
 ### [ Three workers at a publishing house in Turkey that prints Bibles are murdered in ongoing sectarian violence. ](/news/2007/04/18/three-workers-at-a-publishing-house-in-turkey-that-prints-bibles-are-murdered-in-ongoing-sectarian-violence.md)
-_Context: Bible, Turkey, sectarian_
+_Context: Bible, Turkish, sectarian_
 
 ##### Secondary school
 ### [ At least 16 secondary school students die in Egypt's Al Jizah governorate as the truck they were traveling to school on collides with another vehicle. ](/news/2007/04/18/at-least-16-secondary-school-students-die-in-egypt-s-al-jizah-governorate-as-the-truck-they-were-traveling-to-school-on-collides-with-anoth.md)

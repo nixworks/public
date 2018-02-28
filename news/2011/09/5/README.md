@@ -55,9 +55,9 @@ _Context: Libya, Sky News, civil war_
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
 _Context: Arbil, Iran, Iraq_
 
-##### Turkey
+##### Turkish
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Kurdish, Kurdistan Workers' Party, Turkey, Turkish Air Force_
+_Context: Kurdish, Kurdistan Workers' Party, Turkish, Turkish Air Force_
 
 ## [Previous Day...](/news/2011/09/4/index.md)
 
