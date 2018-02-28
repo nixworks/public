@@ -3,6 +3,10 @@ Formats: [HTML](2018/02/26/index.html)  [JSON](2018/02/26/index.json)  [XML](201
 
 ## [2018-02-26](/news/2018/02/26/index.md)
 
+##### Presidency of Donald Trump
+### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
+_Context: Joseph Y. Yun, Presidency of Donald Trump, United States Special Representative for North Korea Policy_
+
 ##### Politics of New Zealand
 ### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
 Some MPs are still undecided, so a lot lies on the pitch to caucus.
@@ -14,6 +18,10 @@ The French government will abolish jobs-for-life at state-owned railways SNCF. M
 ##### National Party of Australia leadership election, 2018
 ### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
 _Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
+
+##### Crime in Belgium
+### [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md)
+_Context: Colombia, Crime in Belgium, Dutch, Oss, Port of Antwerp, cocaine_
 
 ##### France-Turkey relations
 ### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md)
