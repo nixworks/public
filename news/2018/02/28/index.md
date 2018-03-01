@@ -12,7 +12,7 @@ The resignation comes one day after Hicks testified before the House intelligenc
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
 
 ##### Weinstein effect
-### [Two former employees of InfoWars founder and radio host Alex Jones accuse him of sexual harassment, racism and antisemitism. ](/news/2018/02/28/two-former-employees-of-infowars-founder-and-radio-host-alex-jones-accuse-him-of-sexual-harassment-racism-and-antisemitism.md)
+### [Two former employees of InfoWars accuse founder and radio host Alex Jones of sexual harassment, racism and antisemitism. ](/news/2018/02/28/two-former-employees-of-infowars-accuse-founder-and-radio-host-alex-jones-of-sexual-harassment-racism-and-antisemitism.md)
 _Context: Alex Jones, InfoWars, Weinstein effect_
 
 ##### Beheira
