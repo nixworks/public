@@ -11,6 +11,10 @@ The resignation comes one day after Hicks testified before the House intelligenc
 ### [Afghan President Ashraf Ghani offers to recognize the Taliban as a legitimate political formation as part of a proposed process aimed at ending more than 16 years of war. ](/news/2018/02/28/afghan-president-ashraf-ghani-offers-to-recognize-the-taliban-as-a-legitimate-political-formation-as-part-of-a-proposed-process-aimed-at-end.md)
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
 
+##### Weinstein effect
+### [Two former employees of InfoWars founder and radio host Alex Jones accuse him of sexual harassment, racism and antisemitism. ](/news/2018/02/28/two-former-employees-of-infowars-founder-and-radio-host-alex-jones-accuse-him-of-sexual-harassment-racism-and-antisemitism.md)
+_Context: Alex Jones, InfoWars, Weinstein effect_
+
 ##### Beheira
 ### [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 people and with a further 40 being injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-people-and-with-a-further-40-being-injured.md)
 The Ministry of Transport announced that the death toll in a collision between a cargo and a passenger train in Beheira has risen to 15, with 40 people injured. A passenger train collided with a cargo train in Beheira on Wednesday afternoon. The Railway Authority explained in a statement the cause o...
