@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/28/index.md)
+## [News](/news/2018/03/1/index.md)
+
+##### Identity theft
+### [Police in Oslo, Norway, say that the FBI now assists in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-now-assists-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-pr.md)
+Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/28/index.md)
 
 ##### Presidency of Donald Trump
 ### [Hope Hicks announces that she will resign as White House Communications Director, one day after being interviewed by the House Intelligence Committee. ](/news/2018/02/28/hope-hicks-announces-that-she-will-resign-as-white-house-communications-director-one-day-after-being-interviewed-by-the-house-intelligence.md)
@@ -35,13 +47,9 @@ Two of the UK’s best-known retailers collapsed into administration on Wednesda
 ### [The death toll from clashes between militias in the Rutshuru Territory of the North Kivu province, DR Congo, rises to 23 people. The renewed violence has been ongoing since February 25. ](/news/2018/02/28/the-death-toll-from-clashes-between-militias-in-the-rutshuru-territory-of-the-north-kivu-province-dr-congo-rises-to-23-people-the-renewed.md)
 We have recorded the death of 16 civilians and seven militiamen since Sunday, Francois Bakundakabo, an aide to the provincial governor, told AFP. 
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/02/27/index.md)
+## [Day Before Yesterday](/news/2018/02/27/index.md)
 
 ##### Democratic Republic of the Congo general election, 2018
 ### [In a public statement, the foreign ministry of Botswana urges Joseph Kabila, the President of DR Congo, to step down since his term expired in December 2016, and hold the long-delayed new election. ](/news/2018/02/27/in-a-public-statement-the-foreign-ministry-of-botswana-urges-joseph-kabila-the-president-of-dr-congo-to-step-down-since-his-term-expired.md)
@@ -69,43 +77,7 @@ North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulentl
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/26/index.md)
-
-##### 2017-18 North Korea crisis
-### [United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. ](/news/2018/02/26/united-states-special-representative-for-north-korea-policy-joseph-y-yun-announces-his-retirement-effective-2-march.md)
-_Context: 2017-18 North Korea crisis, Joseph Y. Yun, United States Special Representative for North Korea Policy_
-
-##### Politics of New Zealand
-### [Simon Bridges is elected as leader of the National Party, becoming the first Maori on that position. ](/news/2018/02/26/simon-bridges-is-elected-as-leader-of-the-national-party-becoming-the-first-maori-on-that-position.md)
-Some MPs are still undecided, so a lot lies on the pitch to caucus.
-
-##### Politics of France
-### [French Prime Minister Edouard Philippe announces plans to overhaul the state-owned railway firm SNCF. The details of the railway reform will be released in March. ](/news/2018/02/26/french-prime-minister-adouard-philippe-announces-plans-to-overhaul-the-state-owned-railway-firm-sncf-the-details-of-the-railway-reform-wil.md)
-The French government will abolish jobs-for-life at state-owned railways SNCF. Macron, who won power in May 2017 pledging to modernize France&#39;s labor market, faces fierce opposition from powerful unions.
-
-##### National Party of Australia leadership election, 2018
-### [The cogoverning National Party of Australia elects Veterans' Affairs Minister Michael McCormack to succeed Barnaby Joyce as their leader. McCormack is later sworn in as Deputy Prime Minister. ](/news/2018/02/26/the-cogoverning-national-party-of-australia-elects-veterans-affairs-minister-michael-mccormack-to-succeed-barnaby-joyce-as-their-leader-mc.md)
-_Context: Barnaby Joyce, Deputy Prime Minister, Michael McCormack, National Party of Australia, National Party of Australia leadership election, 2018, cogoverning_
-
-##### Crime in Belgium
-### [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md)
-The police arrested six people in Oss on Monday after the Belgian authorities discovered 4,500 kilograms of cocaine in a container at the port of Antwerp over the weekend, the police said in a statement. The cocaine was hidden in a banana shipment that came from Colombia. The Belgian authorities rem...
-
-##### France-Turkey relations
-### [French President Emmanuel Macron phones Turkish President Recep Tayyip Erdogan, telling Erdogan that the UN-approved ceasefire in Syria also applies in the Afrin Region. ](/news/2018/02/26/french-president-emmanuel-macron-phones-turkish-president-recep-tayyip-erdoaan-telling-erdoaan-that-the-un-approved-ceasefire-in-syria-al.md)
-France on Monday said that Russia had to use its influence on the Syrian government to ensure it kept to a U.N.-backed nationwide ceasefire, and told Turkey the truce also applied to its operations against Kurdish militants in the Afrin region.
-
-##### United States-Mexico relations
-### [Mexican President Enrique Pena Nieto cancels a scheduled trip to the United States after a heated phone call with U.S. President Donald Trump, in which Trump refused to publicly back down from his pledge of having Mexico pay for the U.S.-Mexico border wall. ](/news/2018/02/26/mexican-president-enrique-pea-a-nieto-cancels-a-scheduled-trip-to-the-united-states-after-a-heated-phone-call-with-u-s-president-donald-tru.md)
-_Context: Donald Trump, Enrique Pena Nieto, Mexican President, Mexico, U.S., U.S. President, U.S.-Mexico border wall, United States-Mexico relations_
-
-##### Women's rights in Saudi Arabia
-### [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md)
-Applications are open in several provinces for roles that do not appear to involve front-line combat.
-
----
-
-## [Previous Day...](/news/2018/02/25/index.md)
+## [Previous Day...](/news/2018/02/26/index.md)
 
 ---
 
