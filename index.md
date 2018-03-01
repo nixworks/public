@@ -24,7 +24,7 @@ _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United 
 Walmart Inc said on Wednesday that it was raising the minimum age at which customers could buy firearms and ammunition to 21 years.
 
 ##### Economy of the United Kingdom
-### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3,200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3-200-jobs-at-risk.md)
+### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3200-jobs-at-risk.md)
 Two of the UK’s best-known retailers collapsed into administration on Wednesday, putting well over 5,000 jobs at risk and underscoring the pressures stemming from inflation, slumping consumer confidence and the surging popularity of internet shopping. Toys R Us, which had reportedly been wrangling...
 
 ##### Kivu conflict
