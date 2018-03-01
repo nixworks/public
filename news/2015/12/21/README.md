@@ -31,7 +31,7 @@ The European Union renewed economic sanctions on Russia for another six months a
 ### [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md)
 _Context: Armenia, Armenia-Russia relations, Armenian, Erebuni Airport, Krasnodar region, Mi-24, Mi-8, Ministry of Defence, Russia, Russian Air Force_
 
-##### United States
+##### U.S.
 ### [The United States Food and Drug Administration (FDA) lifts the 32-year-old, lifetime ban on blood donations from gay and bisexual men. Men can donate if they haven't had sex with another man in the previous year. The FDA stance is in line with other countries, such as Australia, Brazil, Canada, New Zealand, and the U.K., and is consistent with rules on recent blood transfusion or accidental exposure to another individual's blood. ](/news/2015/12/21/the-united-states-food-and-drug-administration-fda-lifts-the-32-year-old-lifetime-ban-on-blood-donations-from-gay-and-bisexual-men-men-c.md)
 Agency will bar men who have had sex with another man in the previous year from donating, a policy activists believe is still discriminatory
 

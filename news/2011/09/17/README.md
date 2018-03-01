@@ -7,9 +7,9 @@ Formats: [HTML](2011/09/17/index.html)  [JSON](2011/09/17/index.json)  [XML](201
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Latvia, parliamentary election_
 
-##### United States
+##### U.S.
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: Arab Spring, Occupy Wall Street, United States, Wall Street, corporate dominance, super-rich_
+_Context: Arab Spring, Occupy Wall Street, U.S., Wall Street, corporate dominance, super-rich_
 
 ##### Tanzania
 ### [Tanzanian authorities charge four people with negligence in relation to the Zanzibar ferry sinking that cost at least 240 lives on September 10. ](/news/2011/09/17/tanzanian-authorities-charge-four-people-with-negligence-in-relation-to-the-zanzibar-ferry-sinking-that-cost-at-least-240-lives-on-september.md)

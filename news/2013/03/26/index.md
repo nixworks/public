@@ -37,11 +37,11 @@ China defends the action of one of its patrol boats which is accused of opening 
 
 ##### North Korea
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, continental United States, military pact_
+_Context: Guam, Hawaii, North Korea, South Korea, U.S., US-South Korea, continental United States, military pact_
 
 ##### Arab League
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian civil war, Taliban, summit_
+_Context: Afghanistan, Arab League, Doha, Politics of Afghanistan, Qatar, Syrian civil war, Taliban, summit_
 
 ##### Italy
 ### [Italy's Court of Cassation overturns the acquittals of Amanda Knox and Raffaele Sollecito in the murder of Meredith Kercher and orders a retrial. However, Knox, who returned home immediately upon release, is not expected to be there as the U.S. tends not to extradite its citizens to face legal action. ](/news/2013/03/26/italy-s-court-of-cassation-overturns-the-acquittals-of-amanda-knox-and-raffaele-sollecito-in-the-murder-of-meredith-kercher-and-orders-a-ret.md)

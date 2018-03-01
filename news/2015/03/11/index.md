@@ -3,7 +3,7 @@ Formats: [HTML](2015/03/11/index.html)  [JSON](2015/03/11/index.json)  [XML](201
 
 ## [2015-03-11](/news/2015/03/11/index.md)
 
-##### United States
+##### U.S.
 ### [A United States immigration appeals panel approves the deportation of former El Salvador Defence Minister Carlos Eugenio Vides Casanova to potentially face human rights abuses charges in his homeland. ](/news/2015/03/11/a-united-states-immigration-appeals-panel-approves-the-deportation-of-former-el-salvador-defence-minister-carlos-eugenio-vides-casanova-to-p.md)
 An appeals panel has upheld the deportation order of a former El Salvadorean defense minister who oversaw the torture and killings of thousands.
 

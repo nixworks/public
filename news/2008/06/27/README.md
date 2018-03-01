@@ -29,7 +29,7 @@ _Context: Andaman and Nicobar Islands, Richter scale, earthquake_
 
 ##### Richard Scruggs
 ### [ Richard Scruggs, a high-profile United States lawyer known for his lawsuits against the tobacco, pharmaceutical and construction industries, is sentenced to five years jail for conspiracy to bribe a judge. ](/news/2008/06/27/richard-scruggs-a-high-profile-united-states-lawyer-known-for-his-lawsuits-against-the-tobacco-pharmaceutical-and-construction-industries.md)
-_Context: Richard Scruggs, United States, pharmaceutical, tobacco_
+_Context: Richard Scruggs, U.S., pharmaceutical, tobacco_
 
 ##### Vinicio Gomez
 ### [ Vinicio Gomez, Guatemala's Interior Minister, dies in a helicopter crash in the central department of Baja Verapaz; deputy minister Edgar Hernandez and two pilots are also killed. ](/news/2008/06/27/vinicio-ga3mez-guatemala-s-interior-minister-dies-in-a-helicopter-crash-in-the-central-department-of-baja-verapaz-deputy-minister-adgar.md)

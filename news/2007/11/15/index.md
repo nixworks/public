@@ -33,11 +33,11 @@ _Context: 2007 Antofagasta earthquake, Chile, Michelle Bachelet, President, afte
 
 ##### Executed
 ### [ The execution of Mark Dean Schwab in Florida is suspended while the United States Supreme Court decides if lethal injection is unconstitutional. ](/news/2007/11/15/the-execution-of-mark-dean-schwab-in-florida-is-suspended-while-the-united-states-supreme-court-decides-if-lethal-injection-is-unconstituti.md)
-_Context: Florida, Mark Dean Schwab, United States, United States Supreme Court, executed, lethal injection_
+_Context: Florida, Mark Dean Schwab, U.S., United States Supreme Court, executed, lethal injection_
 
-##### United States
+##### U.S.
 ### [ The United States Treasury freezes all assets of the Tamils Rehabilitation Organisation, claiming that it acts as a "front to facilitate fundraising" for the Tamil Tigers. ](/news/2007/11/15/the-united-states-treasury-freezes-all-assets-of-the-tamils-rehabilitation-organisation-claiming-that-it-acts-as-a-front-to-facilitate-fu.md)
-_Context: Tamil Tigers, Tamils Rehabilitation Organisation, United States, United States Treasury_
+_Context: Tamil Tigers, Tamils Rehabilitation Organisation, U.S., United States Treasury_
 
 ##### Celestin Chibalonza
 ### [ Celestin Chibalonza, the governor of Sud-Kivu, is impeached for failing to curb violence and mismanaging finances. ](/news/2007/11/15/celestin-chibalonza-the-governor-of-sud-kivu-is-impeached-for-failing-to-curb-violence-and-mismanaging-finances.md)
@@ -49,11 +49,11 @@ _Context: Saudi Arabia, gang rape, lashes_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
-_Context: Iraqi insurgency, Taji, Taji Awakening Council, United States, United States soldier, airstrike_
+_Context: Iraqi insurgency, Taji, Taji Awakening Council, U.S., United States soldier, airstrike_
 
 ##### Supreme Court of Canada
 ### [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md)
-_Context: Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, United States, asylum, desertion_
+_Context: Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, U.S., asylum, desertion_
 
 ##### White House
 ### [ The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md)
@@ -69,7 +69,7 @@ _Context: Balibo Five, East Timor, Indonesia, NSW_
 
 ##### City of Westminster
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, United Kingdom, United States, extradition, terrorism_
+_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, U.S., United Kingdom, extradition, terrorism_
 
 ##### United Nations
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2009/08/14/index.html)  [JSON](2009/08/14/index.json)  [XML](200
 ### [ A University of Glasgow study suggests Asians may view faces differently from others. ](/news/2009/08/14/a-university-of-glasgow-study-suggests-asians-may-view-faces-differently-from-others.md)
 _Context: Asia, University of Glasgow_
 
-##### United States
+##### U.S.
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
-_Context: Burma, Jim Webb, Than Shwe, United States_
+_Context: Burma, Jim Webb, Than Shwe, U.S._
 
 ##### Gaza Strip
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)

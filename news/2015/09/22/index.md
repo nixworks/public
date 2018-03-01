@@ -37,7 +37,7 @@ _Context: 2015 California wildfires, Barack Obama, Lake County, California, U.S.
 
 ##### Xi Jinping
 ### [Xi Jinping begins his first visit to the United States as President of the People's Republic of China, meeting with technology company leaders and representatives in Seattle, Washington. ](/news/2015/09/22/xi-jinping-begins-his-first-visit-to-the-united-states-as-president-of-the-people-s-republic-of-china-meeting-with-technology-company-leade.md)
-_Context: President, Seattle, United States, Washington, Xi Jinping, technology company_
+_Context: President, Seattle, U.S., Washington, Xi Jinping, technology company_
 
 ##### Volkswagen emissions violations
 ### [Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside-6-5-billion-euros-7-2-billion-u.md)

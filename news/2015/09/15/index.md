@@ -15,7 +15,7 @@ Malcolm Turnbull is officially sworn in as Australia&#039;s 29th Prime Minister 
 ### [Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at-preventing-asylum-seeker.md)
 Hungary declares a state of emergency in two southern counties as tough new laws to stop migrants entering illegally come into force.
 
-##### United States
+##### U.S.
 ### [The U.S. Food and Drug Administration orders R. J. Reynolds Tobacco Company to stop further U.S. sale and distribution of four cigarette products because they may be more dangerous than similar older cigarettes. ](/news/2015/09/15/the-u-s-food-and-drug-administration-orders-r-j-reynolds-tobacco-company-to-stop-further-u-s-sale-and-distribution-of-four-cigarette-pro.md)
 Reynolds American Inc can no longer sell Camel Crush Bold or three other cigarette products in the United States because they may be more dangerous than similar older cigarettes, the Food and Drug Administration said on Tuesday.
 

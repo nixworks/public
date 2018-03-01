@@ -15,9 +15,9 @@ _Context: Nigeria, presidential election_
 ### [ Protests against the Bakiyev administration in Kyrgyzstan become violent as protesters fight with government security forces. ](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.md)
 _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
-##### United States
+##### U.S.
 ### [ The United States and Australia issue travel advisories warning their citizens not to go to the Philippines due to a potentially imminent terrorist threat. ](/news/2007/04/21/the-united-states-and-australia-issue-travel-advisories-warning-their-citizens-not-to-go-to-the-philippines-due-to-a-potentially-imminent-t.md)
-_Context: Australia, Philippines, United States, terrorist, travel advisories_
+_Context: Australia, Philippines, U.S., terrorist, travel advisories_
 
 ##### Appeals court
 ### [ An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. ](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidates-in-the-runoff-election-to-decide-the-next-president-of-east-timor-will-be-current-prime-mi.md)

@@ -41,7 +41,7 @@ The sharemarket took investors on another roller-coaster ride today, but in the 
 
 ##### Kabul
 ### [Thousands of mourners gather in Kabul for the funeral of former President of Afghanistan Burhanuddin Rabbani, who was killed by a suicide bomber earlier in the week. ](/news/2011/09/23/thousands-of-mourners-gather-in-kabul-for-the-funeral-of-former-president-of-afghanistan-burhanuddin-rabbani-who-was-killed-by-a-suicide-bo.md)
-_Context: Afghanistan President, Burhanuddin Rabbani, Kabul, suicide bomber_
+_Context: Afghan President, Burhanuddin Rabbani, Kabul, suicide bomber_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md)

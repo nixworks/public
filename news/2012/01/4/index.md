@@ -21,7 +21,7 @@ _Context: Amado Boudou, Cristina Kirchner, President of Argentina, thyroid cance
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Benjamn Arellano Flix, Mexican, United States, money laundering, racketeering_
+_Context: Benjamn Arellano Flix, Mexican, U.S., money laundering, racketeering_
 
 ##### Life imprisonment
 ### [Gary Dobson and David Norris are jailed for life for the 1993 murder of Stephen Lawrence. Dobson is given a minimum of 15 years and two months, and Norris 14 years and three months. ](/news/2012/01/4/gary-dobson-and-david-norris-are-jailed-for-life-for-the-1993-murder-of-stephen-lawrence-dobson-is-given-a-minimum-of-15-years-and-two-mont.md)

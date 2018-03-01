@@ -43,9 +43,9 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 ### [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md)
 A US move to recognise Jerusalem as Israel&#39;s capital would mean the end of President Donald Trump&#39;s peace efforts on the Israeli-Palestinian conflict, a senior Palestinian official warned Tuesday.
 
-##### Tensions
+##### 2017-18 North Korea crisis
 ### [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md)
-_Context: Korean War, tensions_
+_Context: 2017-18 North Korea crisis, Korean War_
 
 ##### Chirajara bridge collapse
 ### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
@@ -77,7 +77,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 
 ##### Syrian Civil War
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkish, United States_
+_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkish, U.S._
 
 ##### India-Pakistan military confrontation (2016-present)
 ### [Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)

@@ -31,7 +31,7 @@ _Context: American football, Dallas Cowboys, Jerry Brown, Josh Brent, vehicular 
 ### [A United Nations climate conference held in Doha, Qatar, agrees to extend the Kyoto Protocol until 2020. ](/news/2012/12/8/a-united-nations-climate-conference-held-in-doha-qatar-agrees-to-extend-the-kyoto-protocol-until-2020.md)
 Seeking to control global warming, nearly 200 countries agreed Saturday to extend the Kyoto Protocol, a treaty that limits the greenhouse gas output of some rich countries, but will only cover about 15 percent of global emissions.
 
-##### Afghanistan President
+##### Afghan President
 ### [The President of Afghanistan Hamid Karzai claims that a suicide bombing attack that injured his security chief was planned in the Pakistani city of Quetta. ](/news/2012/12/8/the-president-of-afghanistan-hamid-karzai-claims-that-a-suicide-bombing-attack-that-injured-his-security-chief-was-planned-in-the-pakistani.md)
 Afghan President Hamid Karzai saidon Saturday that a suicide bombing attack that wounded hisintelligence chief was planned in the Pakistani city of Quetta.
 

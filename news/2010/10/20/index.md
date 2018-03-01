@@ -49,7 +49,7 @@ _Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city,
 
 ##### China
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: China, Europe, Japan, United States, rare earth mineral_
+_Context: China, Europe, Japan, U.S., rare earth mineral_
 
 ##### French
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)

@@ -49,7 +49,7 @@ _Context: Alfonso Cano, Colombia, Colombian Army, Revolutionary Armed Forces of 
 
 ##### John R. Allen
 ### [U.S. General John R. Allen, the head of the International Security Assistance Force in Afghanistan, sacks Maj. Gen. Peter Fuller for making inappropriate comments about Afghan President Hamid Karzai and his government. ](/news/2011/11/4/u-s-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-sacks-maj-gen-peter-fuller-for-making.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, International Security Assistance Force, John R. Allen_
+_Context: Afghan President, Afghanistan, Hamid Karzai, International Security Assistance Force, John R. Allen_
 
 ##### Israeli Navy
 ### [The Israeli Navy boards two ships carrying pro-Palestinian activists en route to the Gaza Strip. ](/news/2011/11/4/the-israeli-navy-boards-two-ships-carrying-pro-palestinian-activists-en-route-to-the-gaza-strip.md)

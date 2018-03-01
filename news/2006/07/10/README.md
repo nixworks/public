@@ -61,7 +61,7 @@ _Context: UK_
 
 ##### United Kingdom
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)
-_Context: Homeland Security Advisory System, United Kingdom, United States_
+_Context: Homeland Security Advisory System, U.S., United Kingdom_
 
 ## [Previous Day...](/news/2006/07/9/index.md)
 

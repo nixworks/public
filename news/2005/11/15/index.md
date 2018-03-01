@@ -17,7 +17,7 @@ The Age 404 Page
 
 ##### Japan
 ### [ Japan: 2005 Sanriku Japan Earthquake A 6.9-magnitude earthquake, as determined by the Japan Meteorological Society, occurred off the northern coast of Japan near Sanriku at 6:39am Japan Standard Time (UTC+9), prompting a tsunami warning to be issued in Japan and the western coast of the United States. ](/news/2005/11/15/japan-2005-sanriku-japan-earthquake-a-6-9-magnitude-earthquake-as-determined-by-the-japan-meteorological-society-occurred-off-the-northe.md)
-_Context: 2005 Sanriku Japan Earthquake, Japan, Japan Standard Time, United States, clock, magnitude, tsunami_
+_Context: 2005 Sanriku Japan Earthquake, Japan, Japan Standard Time, U.S., clock, magnitude, tsunami_
 
 ##### Quebec
 ### [ Quebec, Canada: Former Minister Andr Boisclair is elected Leader of the Parti Qubcois, the provincial official opposition and Quebec's main party promoting separation of the French-speaking province from Canada, in the Parti Qubcois leadership election, 2005. ](/news/2005/11/15/quebec-canada-former-minister-andre-boisclair-is-elected-leader-of-the-parti-quebecois-the-provincial-official-opposition-and-quebec-s-m.md)

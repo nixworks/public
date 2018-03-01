@@ -45,7 +45,7 @@ _Context: Agathon Rwasa, Party for the Liberation of the Hutu People_
 
 ##### Magistrate
 ### [ A gunman shoots dead a magistrate and a Perry County, Kentucky, employee before killing himself in a convenience store near Hazard, Kentucky, United States. ](/news/2008/05/30/a-gunman-shoots-dead-a-magistrate-and-a-perry-county-kentucky-employee-before-killing-himself-in-a-convenience-store-near-hazard-kentuck.md)
-_Context: Hazard, Perry County, Kentucky, United States, magistrate_
+_Context: Hazard, Perry County, Kentucky, U.S., magistrate_
 
 ## [Previous Day...](/news/2008/05/29/index.md)
 

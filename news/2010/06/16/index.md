@@ -13,7 +13,7 @@ Remains found in a Tuscany church almost certainly belong to Renaissance artist 
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: Jesus Christ, Ohio, United States_
+_Context: Jesus Christ, Ohio, U.S._
 
 ##### Dragon Boat Festival
 ### [The annual Dragon Boat Festival starts in Lhasa. ](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.md)
@@ -83,13 +83,13 @@ _Context: Iran, ban on ballistic missile tests, nuclear reactor_
 ### [The United Nations Human Rights Council says Britain is arranging its third enforced removal of Iraqi asylum applicants to Baghdad despite appeals for it to stop amid safety fears for the individuals concerned. ](/news/2010/06/16/the-united-nations-human-rights-council-says-britain-is-arranging-its-third-enforced-removal-of-iraqi-asylum-applicants-to-baghdad-despite-a.md)
 Refugee agencies express concern over reported plans by the UK to deport about 50 Iraqi asylum seekers.
 
-##### United States
+##### U.S.
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
 Seattle police review training procedures after video of an officer punching a teenage girl circulates widely on TV and online.
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: Christopher "Dudus" Coke, Jamaica, Kingston, United States, drug lord_
+_Context: Christopher "Dudus" Coke, Jamaica, Kingston, U.S., drug lord_
 
 ## [Previous Day...](/news/2010/06/15/index.md)
 

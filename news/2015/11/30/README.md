@@ -67,7 +67,7 @@ The capitals of the world&rsquo;s two most populous nations, China and India, we
 ### [One person dies and at least 31 are injured when students and staff at Strathmore University in Nairobi, Kenya, frantically try to escape after hearing nearby gunshots during an "approved safety and security simulation drill." The Strathmore campus did not hear, before or during the test, that this was a drill. Tensions have been high at Kenyan schools since April when 139 were killed during a terrorist attack at Garissa University College. Many Kenyan universities have held security drills; six were hospitalized at the latest at Kenyatta University. ](/news/2015/11/30/one-person-dies-and-at-least-31-are-injured-when-students-and-staff-at-strathmore-university-in-nairobi-kenya-frantically-try-to-escape-af.md)
 A woman has died and at least 31 others have been hospitalised after panic spread during a security exercise at Strathmore University in the Kenyan capital Nairobi.
 
-##### United States
+##### U.S.
 ### [The United States Federal Reserve Board approves a rule prohibiting the government from extending emergency loans to "too big to fail" companies, a practice deemed essential during the global financial crisis of 2008 and 2009. ](/news/2015/11/30/the-united-states-federal-reserve-board-approves-a-rule-prohibiting-the-government-from-extending-emergency-loans-to-too-big-to-fail-compa.md)
 The Federal Reserve Board approved a rule prohibiting the government from extending emergency loans to &quot;too big to fail&quot; companies.
 
@@ -79,7 +79,7 @@ _Context: China, International Monetary Fund, benchmark currency basket, yuan_
 ### [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md)
 _Context: BlackBerry Limited, Canada, Pakistan, government, user privacy_
 
-##### United States
+##### U.S.
 ### [Responding to reports, the American Tribune Publishing Co. states it is not in talks to sell the company. ](/news/2015/11/30/responding-to-reports-the-american-tribune-publishing-co-states-it-is-not-in-talks-to-sell-the-company.md)
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
 

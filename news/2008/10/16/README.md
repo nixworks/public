@@ -13,11 +13,11 @@ _Context: Azerbaijani presidential election, Ilham Aliyev's, Organization for Se
 
 ##### United States economy
 ### [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-off.md)
-_Context: United States, United States economy, consumer price index_
+_Context: U.S., United States economy, consumer price index_
 
-##### United States
+##### U.S.
 ### [ The United States Environmental Protection Agency sets a new standard, cutting the amount of lead that can be released into the atmosphere by 90 percent. ](/news/2008/10/16/the-united-states-environmental-protection-agency-sets-a-new-standard-cutting-the-amount-of-lead-that-can-be-released-into-the-atmosphere.md)
-_Context: Environmental Protection Agency, United States, lead_
+_Context: Environmental Protection Agency, U.S., lead_
 
 ##### Exchange gunfire
 ### [ 2008 Cambodian-Thai stand-off: Cambodia and Thailand agree to joint border controls following a recent clash. ](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.md)

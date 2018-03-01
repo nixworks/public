@@ -17,7 +17,7 @@ _Context: Attorney-General, Australia, Kelvin Thomson, Tony Mokbel_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: The United States Coast Guard stages an exercise in Florida in preparation for a possible mass exodus from Cuba in the event of the death of Cuban leader Fidel Castro. During the drill 40 Cuban exiles reach the United States. ](/news/2007/03/9/cuba-united-states-relations-the-united-states-coast-guard-stages-an-exercise-in-florida-in-preparation-for-a-possible-mass-exodus-from-cu.md)
-_Context: Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida, President, United States, United States Coast Guard, mass exodus_
+_Context: Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida, President, U.S., United States Coast Guard, mass exodus_
 
 ##### Northern Ireland
 ### [ Results from the Northern Ireland Assembly election show the DUP and Sinn Fein making gains, and ensuring that in order for direct rule to cease both parties must agree to cooperate in a powersharing Executive. ](/news/2007/03/9/results-from-the-northern-ireland-assembly-election-show-the-dup-and-sinn-fa-c-in-making-gains-and-ensuring-that-in-order-for-direct-rule-to.md)

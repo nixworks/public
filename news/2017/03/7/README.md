@@ -9,7 +9,7 @@ Rights groups raise concerns as Hungary approves the automatic detention of asyl
 
 ##### Vault 7
 ### [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md)
-_Context: CIA, United States, Vault 7, WikiLeaks_
+_Context: CIA, U.S., Vault 7, WikiLeaks_
 
 ##### South Korea-United States relations
 ### [The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. ](/news/2017/03/7/the-united-states-begins-deploying-the-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-south-korea.md)

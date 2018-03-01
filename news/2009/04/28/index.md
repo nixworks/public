@@ -15,9 +15,9 @@ _Context: Cumbria, England, Ulverston, earthquake, magnitude_
 ### [ Sri Lanka's government denies Swedish Foreign Minister Carl Bildt a visa. ](/news/2009/04/28/sri-lanka-s-government-denies-swedish-foreign-minister-carl-bildt-a-visa.md)
 Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish Foreign Minister Carl Bildt from participating in a mission there with French and British colleagues this week, Bildt said on Tuesday.
 
-##### United States
+##### U.S.
 ### [ United States Senator Arlen Specter of Pennsylvania switches from the Republican to the Democratic Party. ](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylvania-switches-from-the-republican-to-the-democratic-party.md)
-_Context: Arlen Specter, Democrat, Pennsylvania, Republican, United States, United States Senate_
+_Context: Arlen Specter, Democrat, Pennsylvania, Republican, U.S., United States Senate_
 
 ##### Genetically modified organism
 ### [ The first transgenic, fluorescent dogs are cloned in South Korea. ](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.md)

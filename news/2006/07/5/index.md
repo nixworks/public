@@ -17,7 +17,7 @@ _Context: Casino, EDT, GMT, New Jersey, U.S. state_
 
 ##### North Korea
 ### [ A North Korean state-run broadcaster states that his country is ready to cope with any provocation by the United States. ](/news/2006/07/5/a-north-korean-state-run-broadcaster-states-that-his-country-is-ready-to-cope-with-any-provocation-by-the-united-states.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ##### Enron
 ### [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64. ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md)

@@ -35,7 +35,7 @@ _Context: Mount Tongariro, New Zealand, North Island, Tongariro Alpine Crossing_
 ### [Will Rogers World Airport in the U.S. state of Oklahoma is shut down over the discovery of a painted golden object with a hole in the bottom in the luggage of musician Wayne Coyne. The object is mistaken for a live grenade by frightened staff. ](/news/2012/11/21/will-rogers-world-airport-in-the-u-s-state-of-oklahoma-is-shut-down-over-the-discovery-of-a-painted-golden-object-with-a-hole-in-the-bottom.md)
 _Context: Oklahoma, U.S. state, Wayne Coyne, Will Rogers World Airport_
 
-##### United States
+##### U.S.
 ### [The United States bans Tim Pat Coogan, one of Ireland's most recognisable historians and a leading authority on Eamon de Valera and Michael Collins. As a result his book tour is cancelled. The decision is described as a major shock and blot against United States Ambassador to Ireland Dan Rooney. ](/news/2012/11/21/the-united-states-bans-tim-pat-coogan-one-of-ireland-s-most-recognisable-historians-and-a-leading-authority-on-aamon-de-valera-and-michael.md)
 Best selling author and historian Tim Pat Coogan has been forced to cancel a book tour in the U.S. for his new b...
 

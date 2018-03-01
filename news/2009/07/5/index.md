@@ -53,7 +53,7 @@ _Context: Cairo, Irish, Sudan_
 
 ##### Fellowship of Confessing Anglicans
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
 
 ##### Monorail collision
 ### [ One person dies after a monorail collision at Walt Disney World Resort in Orlando, Florida. ](/news/2009/07/5/one-person-dies-after-a-monorail-collision-at-walt-disney-world-resort-in-orlando-florida.md)

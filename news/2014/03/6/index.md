@@ -11,9 +11,9 @@ _Context: 14th Dalai Lama, US Senate, Washington, D.C._
 ### [President of Tunisia Moncef Marzouki lifts a state of emergency that was put in place after the 2011 Tunisian Revolution. ](/news/2014/03/6/president-of-tunisia-moncef-marzouki-lifts-a-state-of-emergency-that-was-put-in-place-after-the-2011-tunisian-revolution.md)
 _Context: Jasmine Revolution of 2011, Moncef Marzouki, President of Tunisia_
 
-##### Afghanistan President
+##### Afghan President
 ### [The brother of the current President of Afghanistan Hamid Karzai, Qayum Karzai, drops out of the Afghan presidential election and endorses Zalmai Rassoul. ](/news/2014/03/6/the-brother-of-the-current-president-of-afghanistan-hamid-karzai-qayum-karzai-drops-out-of-the-afghan-presidential-election-and-endorses-z.md)
-_Context: Afghan presidential election, 2014, Afghanistan President, Hamid Karzai, Qayum Karzai, Zalmai Rassoul_
+_Context: Afghan President, Afghan presidential election, 2014, Hamid Karzai, Qayum Karzai, Zalmai Rassoul_
 
 ##### Niger
 ### [Niger deports Saadi al-Gaddafi, son of Muammar al-Gaddafi, to Libya. ](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.md)
@@ -21,7 +21,7 @@ _Context: Libya, Muammar al-Gaddafi, Niger, Saadi al-Gaddafi_
 
 ##### Venezuela
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)
-_Context: Panama, United States, Venezuela_
+_Context: Panama, U.S., Venezuela_
 
 ##### European Union
 ### [The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-his-advisers.md)

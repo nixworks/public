@@ -51,9 +51,9 @@ _Context: El Salvador, Ilobasco_
 ### [Singapore Airlines grounds three of its Airbus A380 fleet to replace their Rolls-Royce engines. ](/news/2010/11/10/singapore-airlines-grounds-three-of-its-airbus-a380-fleet-to-replace-their-rolls-royce-engines.md)
 _Context: A380, Rolls-Royce, Singapore Airlines_
 
-##### United States
+##### U.S.
 ### [US singer Brad Paisley wins Entertainer of the Year at the 2010 CMA Awards held in Nashville, Tennessee. ](/news/2010/11/10/us-singer-brad-paisley-wins-entertainer-of-the-year-at-the-2010-cma-awards-held-in-nashville-tennessee.md)
-_Context: Brad Paisley, Nashville, Tennessee, Tennessee, United States_
+_Context: Brad Paisley, Nashville, Tennessee, Tennessee, U.S._
 
 ##### 3D Express Coach
 ### [3D Express Coach to be put into trial in Beijing. ](/news/2010/11/10/3d-express-coach-to-be-put-into-trial-in-beijing.md)
@@ -61,7 +61,7 @@ _Context: 3D Express Coach, Beijing_
 
 ##### Film producer
 ### [Italian film producer Dino De Laurentiis ("Serpico", "Death Wish") dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-seven.md)
-_Context: California, Death Wish, Dino De Laurentiis, Italy, Los Angeles, California, Serpico, United States, film producer_
+_Context: California, Death Wish, Dino De Laurentiis, Italy, Los Angeles, California, Serpico, U.S., film producer_
 
 ##### Time
 ### [An article in "Time" states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliated.md)

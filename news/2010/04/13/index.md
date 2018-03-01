@@ -83,7 +83,7 @@ _Context: Chinese, Qinghai, Yangtze River_
 
 ##### U.S. President
 ### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
-_Context: Barack Obama, U.S. President, United States_
+_Context: Barack Obama, U.S., U.S. President_
 
 ## [Previous Day...](/news/2010/04/12/index.md)
 

@@ -31,7 +31,7 @@ _Context: French, French police, NATO, Strasbourg, protest, summit_
 ### [ Former Malaysian Deputy Prime Minister Najib Tun Razak is inaugurated as Prime Minister. ](/news/2009/04/3/former-malaysian-deputy-prime-minister-najib-tun-razak-is-inaugurated-as-prime-minister.md)
 _Context: Deputy Prime Minister, Malaysia, Najib Tun Razak, Prime Minister, inaugurated_
 
-##### United States
+##### U.S.
 ### [ The United States economy lost 663,000 jobs in March, raising the unemployment rate to 8.5%. ](/news/2009/04/3/the-united-states-economy-lost-663-000-jobs-in-march-raising-the-unemployment-rate-to-8-5.md)
 The U.S. unemployment rate reached 8.5 percent, its highest level in a quarter-century, in a sign of the severity of the downturn.
 

@@ -93,7 +93,7 @@ _Context: Brazil, Bruno Fernandes de Souza_
 
 ##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, United Kingdom, United States_
+_Context: Afghanistan, Sangin, U.S., United Kingdom_
 
 ##### Norway
 ### [A Norwegian asylum centre burns to the ground during protests at conditions at the facility. ](/news/2010/07/7/a-norwegian-asylum-centre-burns-to-the-ground-during-protests-at-conditions-at-the-facility.md)

@@ -23,7 +23,7 @@ King Salman ordered the reform in a royal decree delivered on Tuesday night, req
 
 ### Related:
 
-1. [King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Salman_
+1. [Saudi King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/saudi-king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Salman_
 2. [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md) _Context: Women's rights in Saudi Arabia_
 3. [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md) _Context: Women's rights in Saudi Arabia_
 4. [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md) _Context: Salman_

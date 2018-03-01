@@ -15,7 +15,7 @@ Australia&amp;#39;s High Court has upheld the world&amp;#39;s toughest laws on c
 ### [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md)
 _Context: China, Japanese, Jin Matsubara, South Korea, Yasukuni Shrine, Yuichiro Hata_
 
-##### United States
+##### U.S.
 ### [The tour bus of American heavy metal band Baroness falls off a 30-foot viaduct in Monkton Combe, near Bath. All nine passengers on board are injured, two seriously. ](/news/2012/08/15/the-tour-bus-of-american-heavy-metal-band-baroness-falls-off-a-30-foot-viaduct-in-monkton-combe-near-bath-all-nine-passengers-on-board-are.md)
 Two people on a bus used by the US band Baroness were injured when it fell 30ft from a viaduct near Bath, their agents confirm.
 

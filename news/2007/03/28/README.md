@@ -57,7 +57,7 @@ _Context: Congress, Ecuador, Juan Ramirez_
 
 ##### Czech Republic
 ### [ The Czech government announced that it will open negotiations with the US Government over participation in the missile defense shield. ](/news/2007/03/28/the-czech-government-announced-that-it-will-open-negotiations-with-the-us-government-over-participation-in-the-missile-defense-shield.md)
-_Context: Czech Republic, United States, missile defense_
+_Context: Czech Republic, U.S., missile defense_
 
 ##### Guinea
 ### [ As many as 60 people die off the coast of Guinea as a pirogue or open fishing boat carrying 120 people capsizes. ](/news/2007/03/28/as-many-as-60-people-die-off-the-coast-of-guinea-as-a-pirogue-or-open-fishing-boat-carrying-120-people-capsizes.md)

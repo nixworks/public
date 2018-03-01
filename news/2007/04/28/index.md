@@ -3,9 +3,9 @@ Formats: [HTML](2007/04/28/index.html)  [JSON](2007/04/28/index.json)  [XML](200
 
 ## [2007-04-28](/news/2007/04/28/index.md)
 
-##### United States
+##### U.S.
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)
-_Context: Displace Me, United States_
+_Context: Displace Me, U.S._
 
 ##### President
 ### [ President of Ireland Mary McAleese dissolves the 29th Dil and calls for a general election on 24 May 2007. ](/news/2007/04/28/president-of-ireland-mary-mcaleese-dissolves-the-29th-dail-and-calls-for-a-general-election-on-24-may-2007.md)

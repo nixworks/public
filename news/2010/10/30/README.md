@@ -95,7 +95,7 @@ _Context: Christian, Hausa-Fulani, Jos, Muslim, Nigeria, Plateau State_
 ### [Thousands of people flee their homes in Guinea amid ethnic clashes ahead of a presidential run-off. ](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.md)
 _Context: Guinea, November's presidential poll_
 
-##### Afghanistan President
+##### Afghan President
 ### [President of Afghanistan Hamid Karzai reprimands Russia after its forces enter the country without permission and "violate Afghan sovereignty" in a joint mission with United States agents. Karzai orders an investigation. ](/news/2010/10/30/president-of-afghanistan-hamid-karzai-reprimands-russia-after-its-forces-enter-the-country-without-permission-and-violate-afghan-sovereignt.md)
 Afghan President Hamid Karzai calls the first joint operation by Russian and US agents to destroy drug laboratories in his country a violation of sovereignty.
 

@@ -41,7 +41,7 @@ _Context: Bank of Korea, South Korea_
 
 ##### China
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context:  debt, $, China, Dagong Global Credit Rating, United States, creditor, defaults_
+_Context:  debt, $, China, Dagong Global Credit Rating, U.S., creditor, defaults_
 
 ##### NATO
 ### [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md)

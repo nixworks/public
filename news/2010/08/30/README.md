@@ -47,11 +47,11 @@ Expanded assets freeze list is part of a punishment over the sinking of the Sout
 ### [China and North Korea acknowledge the leader of North Korea Kim Jong Il visited China recently where he met with the President of China Hu Jintao. ](/news/2010/08/30/china-and-north-korea-acknowledge-the-leader-of-north-korea-kim-jong-il-visited-china-recently-where-he-met-with-the-president-of-china-hu-j.md)
 North Korean leader Kim Jong-il has arrived in Harbin, the capital of the Chines..
 
-##### United States
+##### U.S.
 ### [United States Vice President Joe Biden pays a surprise visit to Iraq. ](/news/2010/08/30/united-states-vice-president-joe-biden-pays-a-surprise-visit-to-iraq.md)
 American vice president lands in Baghdad on the eve of the formal end of US combat operations.
 
-##### United States
+##### U.S.
 ### [The United States begins patrolling with troops its border with Mexico. ](/news/2010/08/30/the-united-states-begins-patrolling-with-troops-its-border-with-mexico.md)
 The first of more than 1,200 US troops sent to patrol the border with Mexico have begun operating in Arizona.
 

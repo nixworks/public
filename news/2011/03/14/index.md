@@ -9,7 +9,7 @@ _Context: 14th Dalai Lama, Dharamsala, India, Tibet, exiled Tibetan parliament_
 
 ##### Somali pirates
 ### [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md)
-_Context: Somali pirates, USS Nicholas, United States, United States Navy, frigate_
+_Context: Somali pirates, U.S., USS Nicholas, United States Navy, frigate_
 
 ##### Tear gas
 ### [Tear gas is used to control a riot by asylum seekers at the Christmas Island Immigration Detention Centre on Christmas Island off the coast of Australia. ](/news/2011/03/14/tear-gas-is-used-to-control-a-riot-by-asylum-seekers-at-the-christmas-island-immigration-detention-centre-on-christmas-island-off-the-coast.md)

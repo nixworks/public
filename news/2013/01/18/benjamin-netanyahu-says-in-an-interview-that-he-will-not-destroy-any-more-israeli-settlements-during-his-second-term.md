@@ -16,7 +16,7 @@ Israel will not dismantle any West Bank settlements during his next term of offi
 
 ### Related:
 
-1. [The Israeli Prosecutor's Office links Israeli Prime Minister Benjamin Netanyahu in a corruption case. ](/news/2018/02/27/the-israeli-prosecutor-s-office-links-israeli-prime-minister-benjamin-netanyahu-in-a-corruption-case.md) _Context: Benjamin Netanyahu_
+1. [The Israeli Prosecutor's Office links Prime Minister Benjamin Netanyahu in a corruption case. ](/news/2018/02/27/the-israeli-prosecutor-s-office-links-prime-minister-benjamin-netanyahu-in-a-corruption-case.md) _Context: Benjamin Netanyahu_
 2. [Israeli police recommend indicting Israeli Prime Minister Benjamin Netanyahu with charges of corruption and bribery. Netanyahu calls the accusations "baseless". ](/news/2018/02/13/israeli-police-recommend-indicting-israeli-prime-minister-benjamin-netanyahu-with-charges-of-corruption-and-bribery-netanyahu-calls-the-acc.md) _Context: Benjamin Netanyahu_
 3. [In Tel Aviv, up to 20,000 people demonstrate in front of the home of the Attorney General of Israel, Avichai Mandelblit, against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-tel-aviv-up-to-20-000-people-demonstrate-in-front-of-the-home-of-the-attorney-general-of-israel-avichai-mandelblit-against-the-slow-pa.md) _Context: Benjamin Netanyahu_
 4. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md) _Context: Israeli settlement_

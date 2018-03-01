@@ -19,9 +19,9 @@ _Context: 20th congressional district, Democrat, New York, Scott Murphy, special
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
 _Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, bribes, fraud, wire fraud_
 
-##### United States
+##### U.S.
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: Current TV, North Korea, United States, indicted, journalist, trial_
+_Context: Current TV, North Korea, U.S., indicted, journalist, trial_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. ](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-injures-125-more-in-baghdad-iraq.md)

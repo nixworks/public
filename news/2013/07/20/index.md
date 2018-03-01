@@ -35,7 +35,7 @@ Tests confirm high levels of pesticide in samples of the school meal blamed for 
 ### [Two US marine harrier jets forced to drop several unarmed bombs on the world-heritage listed Great Barrier Reef due to an emergency during a training exercise. ](/news/2013/07/20/two-us-marine-harrier-jets-forced-to-drop-several-unarmed-bombs-on-the-world-heritage-listed-great-barrier-reef-due-to-an-emergency-during-a.md)
 TWO US Marine Corps jets have been forced to drop four unarmed bombs on the Great Barrier Reef.
 
-##### United States
+##### U.S.
 ### [American veteran journalist Helen Thomas, who covered the White House for nearly five decades, dies at 92. ](/news/2013/07/20/american-veteran-journalist-helen-thomas-who-covered-the-white-house-for-nearly-five-decades-dies-at-92.md)
 Helen Thomas, a trailblazing journalist who covered the White House for nearly five decades, has died aged 92.
 

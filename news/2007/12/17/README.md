@@ -7,9 +7,9 @@ Formats: [HTML](2007/12/17/index.html)  [JSON](2007/12/17/index.json)  [XML](200
 ### [ Microsoft announces that Internet Explorer version 8 passes tests for standards compliance ](/news/2007/12/17/microsoft-announces-that-internet-explorer-version-8-passes-tests-for-standards-compliance.md)
 _Context: Microsoft_
 
-##### King
+##### Saudi King
 ### [ King Abdullah of Saudi Arabia pardons a rape victim who had been sentenced to six months in prison and 200 lashes. ](/news/2007/12/17/king-abdullah-of-saudi-arabia-pardons-a-rape-victim-who-had-been-sentenced-to-six-months-in-prison-and-200-lashes.md)
-_Context: Abdullah, King, lashes, pardon, prison, rape_
+_Context: Abdullah, Saudi King, lashes, pardon, prison, rape_
 
 ##### Bolivia
 ### [ The Bolivian departments of Beni, Pando, Santa Cruz, and Tarija declare autonomy from Evo Morales' central government. ](/news/2007/12/17/the-bolivian-departments-of-beni-pando-santa-cruz-and-tarija-declare-autonomy-from-evo-morales-central-government.md)

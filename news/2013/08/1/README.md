@@ -31,9 +31,9 @@ Legislators approved the bill, opening the way for the authorities to create one
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
 A top Bangladesh court ruled the registration of the nation’s biggest Islamic group as a political party illegal, barring it from contesting next year’s election and deepening concerns over growing violence.
 
-##### United States
+##### U.S.
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
-_Context: Minnesota, Rhode Island, United States, same-sex marriage in the United States_
+_Context: Minnesota, Rhode Island, U.S., same-sex marriage in the United States_
 
 ##### Greece
 ### [Eight people are arrested in Greece for allegedly trying to smuggle weapons into Turkey. ](/news/2013/08/1/eight-people-are-arrested-in-greece-for-allegedly-trying-to-smuggle-weapons-into-turkey.md)

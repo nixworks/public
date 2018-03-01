@@ -49,7 +49,7 @@ _Context: Moscow, Prime Minister of Ukraine, Ukrainian President, Viktor Yushche
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide car bomb is detonated near interim Prime Minister Iyad Allawi's Iraqi National Accord party office. Officials say Allawi was not in the area at the time and that seven policemen and three civilians were wounded. U.S. military officials confirm the death of one soldier in Mosul and state four of Iraq's 18 provinces, a quarter of the total population and predominantly Sunni, will be unsafe to vote in Sunday's elections. ](/news/2005/01/24/conflict-in-iraq-a-suicide-car-bomb-is-detonated-near-interim-prime-minister-iyad-allawi-s-iraqi-national-accord-party-office-officials-s.md)
-_Context: Conflict in Iraq, Iraq, Iraqi National Accord, Iyad Allawi, Mosul, Sunni, United States, car bomb, legislative election_
+_Context: Conflict in Iraq, Iraq, Iraqi National Accord, Iyad Allawi, Mosul, Sunni, U.S., car bomb, legislative election_
 
 ## [Previous Day...](/news/2005/01/23/index.md)
 

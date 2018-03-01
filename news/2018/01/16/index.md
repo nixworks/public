@@ -29,7 +29,7 @@ Ten people were killed when a Colombian army helicopter crashed near the town of
 
 ##### Nestle
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
-_Context: Ferrero SpA, Nestle, United States, confectionery_
+_Context: Ferrero SpA, Nestle, U.S., confectionery_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average reaches 26,000 points for the first time, after surpassing the 25,000-mark on January 4. ](/news/2018/01/16/the-dow-jones-industrial-average-reaches-26-000-points-for-the-first-time-after-surpassing-the-25-000-mark-on-january-4.md)

@@ -23,7 +23,7 @@ _Context: 2008, British, Unemployment, United Kingdom_
 ### [ Despite a ceasefire in its conflict with Israel, Hamas fires eight mortar shells into the country. ](/news/2009/01/21/despite-a-ceasefire-in-its-conflict-with-israel-hamas-fires-eight-mortar-shells-into-the-country.md)
 _Context: Hamas, Israel, Mortar, ceasefire, conflict_
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama halts the trials of detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/01/21/united-states-president-barack-obama-halts-the-trials-of-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
 Hours after taking office, U.S. President Barack Obama ordered military prosecutors in the Guantanamo war crimes tribunals to ask for a 120-day halt in all pending cases and a judge granted the request on Wednesday in the case against a young Canadian.
 
@@ -35,7 +35,7 @@ Mining giant BHP Billiton will slash 3,300 Australian jobs by June this year and
 ### [ Toyota surpasses General Motors to become the world's largest automaker. ](/news/2009/01/21/toyota-surpasses-general-motors-to-become-the-world-s-largest-automaker.md)
 _Context: General Motors, Toyota, automakers_
 
-##### United States
+##### U.S.
 ### [ The United States Senate confirms Hillary Clinton as Secretary of State. ](/news/2009/01/21/the-united-states-senate-confirms-hillary-clinton-as-secretary-of-state.md)
 The confirmation of Eric H. Holder Jr. still appears all but assured, but Senate Democrats and Republicans began blaming each other.
 

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-r
 
 ### Related:
 
-1. [King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Salman_
+1. [Saudi King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/saudi-king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Salman_
 2. [The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. ](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-allowing-women-to-be-issued-driving-licenses-by-june-2018-saudi-arabia-is-the-world-s-last-soverei.md) _Context: Salman_
 3. [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md) _Context: Salman_
 4. [U.S. President Donald Trump arrives in Saudi Arabia, his first of three scheduled foreign trips. Trump signs an arms deal with King Salman worth more than US$100 billion. ](/news/2017/05/20/u-s-president-donald-trump-arrives-in-saudi-arabia-his-first-of-three-scheduled-foreign-trips-trump-signs-an-arms-deal-with-king-salman-w.md) _Context: Salman_

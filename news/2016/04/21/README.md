@@ -45,11 +45,11 @@ BEIRUT (AP) — The U.N. special envoy for Syria said there was &quot;real but m
 
 ##### Gulf Cooperation Council Summit
 ### [United States President Barack Obama, at the Gulf Cooperation Council Summit in Saudi Arabia, says the United States will continue to deter and confront aggression against Gulf Arab states; joins others in warning the fragile cease-fire in Syria is on the verge of collapse; pledges vigilance about Iran's destabilizing activities in the Middle East; wants Gulf allies to offer more democratic reforms and improve human rights; and, says the U.S. and its Gulf partners should wait to see whether Iraq can resolve its political crisis before committing more financial aid which is impeding the fight against ISIL. ](/news/2016/04/21/united-states-president-barack-obama-at-the-gulf-cooperation-council-summit-in-saudi-arabia-says-the-united-states-will-continue-to-deter.md)
-_Context: Barack Obama, Gulf Arab states, Gulf Cooperation Council, Gulf Cooperation Council Summit, ISIL, Iran, Iraq, Middle East, Saudi Arabia, Syria, Syrian peace process, U.S. President, United States_
+_Context: Barack Obama, Gulf Arab states, Gulf Cooperation Council, Gulf Cooperation Council Summit, ISIL, Iran, Iraq, Middle East, Saudi Arabia, Syria, Syrian peace process, U.S., U.S. President_
 
 ##### Philippines-United States relations
 ### [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md)
-_Context: Australia, Philippine presidential election, 2016, Philippines-United States relations, Rodrigo Duterte, United States, rape_
+_Context: Australia, Philippine presidential election, 2016, Philippines-United States relations, Rodrigo Duterte, U.S., rape_
 
 ##### Bike lane
 ### [At least two people are killed after an oceanfront stretch of an elevated bike lane in Rio de Janeiro, Brazil, collapses when it was hit by a strong wave. Two other people were rescued alive, while another may be missing. The bike lane was among the projects built in preparation for the 2016 Summer Olympics. No Olympic event will be held on the path. ](/news/2016/04/21/at-least-two-people-are-killed-after-an-oceanfront-stretch-of-an-elevated-bike-lane-in-rio-de-janeiro-brazil-collapses-when-it-was-hit-by.md)

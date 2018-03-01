@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/18/index.html)  [JSON](2007/01/18/index.json)  [XML](200
 
 ##### Blizzards
 ### [ 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u-s-states-including-23-in-ok.md)
-_Context: Oklahoma, Texas, United States, blizzards, freezing rain, ice storm_
+_Context: Oklahoma, Texas, U.S., blizzards, freezing rain, ice storm_
 
 ##### Liberia
 ### [ Speaker of the Liberian Parliament Edwin Snowe is sacked following a vote of no confidence. ](/news/2007/01/18/speaker-of-the-liberian-parliament-edwin-snowe-is-sacked-following-a-vote-of-no-confidence.md)
@@ -17,7 +17,7 @@ _Context: Hamas, Israel, Palestinian Authority_
 
 ##### Iraq
 ### [ Iraqi Prime Minister Nouri al-Maliki suggests that if the United States better armed the Iraqi armed forces, they would be able to dramatically draw back U.S. troops "in three to six months". ](/news/2007/01/18/iraqi-prime-minister-nouri-al-maliki-suggests-that-if-the-united-states-better-armed-the-iraqi-armed-forces-they-would-be-able-to-dramatic.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, United States_
+_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S._
 
 ##### European windstorm
 ### [ The European windstorm Kyrill sweeps across Great Britain, the Netherlands and Germany, killing at least nine in Britain and three in the Netherlands. The container ship "MSC Napoli" has to be abandoned in the English channel because of the wind. British and French rescue services pick up 26 crew members. ](/news/2007/01/18/the-european-windstorm-kyrill-sweeps-across-great-britain-the-netherlands-and-germany-killing-at-least-nine-in-britain-and-three-in-the-n.md)

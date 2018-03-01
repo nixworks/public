@@ -9,7 +9,7 @@ _Context: Australia, Eamon Sullivan, freestyle_
 
 ##### North Korea
 ### [ North Korea fired a volley of missiles into the sea warning that it might stop disabling its nuclear facilities unless the United States dropped its demands for more details about North Korea's nuclear arsenal. A day before, North Korea expelled 11 South Korean officials from an industrial park north of the border that separates the two Koreas. ](/news/2008/03/28/north-korea-fired-a-volley-of-missiles-into-the-sea-warning-that-it-might-stop-disabling-its-nuclear-facilities-unless-the-united-states-dr.md)
-_Context: Kaesong area, North Korea, North Korea's nuclear program, South Korea, United States, missiles, nuclear reactors_
+_Context: Kaesong area, North Korea, North Korea's nuclear program, South Korea, U.S., missiles, nuclear reactors_
 
 ##### 2008 unrest in Tibet
 ### [ 2008 unrest in Tibet: About 18 protesting Tibetan exiles scale the walls of the United Nations compound in Kathmandu, Nepal as Nepalese police arrest another 40 protestors. ](/news/2008/03/28/2008-unrest-in-tibet-about-18-protesting-tibetan-exiles-scale-the-walls-of-the-united-nations-compound-in-kathmandu-nepal-as-nepalese-pol.md)

@@ -13,7 +13,7 @@ _Context: Barack Obama, Donald Trump, Federal Vacancies Reform Act, National Lab
 
 ##### Joint Comprehensive Plan of Action
 ### [Tasnim News Agency reports that, in a Nowruz speech, Supreme Leader of Iran Ali Khamenei said experts in his country can enrich uranium to 99 percent. ISNA reports that Iranian Foreign Minister Mohammad Javad Zarif is threatening to quit the Iran nuclear deal if the United States blocks Iran's version of the deal's implementation. ](/news/2017/03/21/tasnim-news-agency-reports-that-in-a-nowruz-speech-supreme-leader-of-iran-ali-khamenei-said-experts-in-his-country-can-enrich-uranium-to-9.md)
-_Context: Ali Khamenei, ISNA, Joint Comprehensive Plan of Action, Mohammad Javad Zarif, Nowruz, Supreme Leader, Tasnim News Agency, United States_
+_Context: Ali Khamenei, ISNA, Joint Comprehensive Plan of Action, Mohammad Javad Zarif, Nowruz, Supreme Leader, Tasnim News Agency, U.S._
 
 ##### War in Somalia
 ### [A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-residence-in-mogad.md)

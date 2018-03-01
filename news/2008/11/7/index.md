@@ -7,13 +7,13 @@ Formats: [HTML](2008/11/7/index.html)  [JSON](2008/11/7/index.json)  [XML](2008/
 ### [ The Kivu conflict in the Democratic Republic of the Congo continues while the United Nations meets to discuss peace talks. ](/news/2008/11/7/the-kivu-conflict-in-the-democratic-republic-of-the-congo-continues-while-the-united-nations-meets-to-discuss-peace-talks.md)
 _Context: DR Congo, Kivu conflict, United Nations_
 
-##### United States
+##### U.S.
 ### [ Unemployment in the United States reaches its highest rate in 14 years. ](/news/2008/11/7/unemployment-in-the-united-states-reaches-its-highest-rate-in-14-years.md)
-_Context: United States_
+_Context: U.S._
 
-##### Afghanistan President
+##### Afghan President
 ### [ President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. ](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Kabul International Airport_
+_Context: Afghan President, Afghanistan, Hamid Karzai, Kabul International Airport_
 
 ##### Malaysia
 ### [ Malaysian blogger Raja Petra Kamarudin is released from detention under the Internal Security Act after a court ruled that his detention was illegal. ](/news/2008/11/7/malaysian-blogger-raja-petra-kamarudin-is-released-from-detention-under-the-internal-security-act-after-a-court-ruled-that-his-detention-wa.md)

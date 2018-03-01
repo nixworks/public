@@ -7,7 +7,7 @@ Formats: [HTML](2009/05/23/index.html)  [JSON](2009/05/23/index.json)  [XML](200
 ### [ A bomb kills two people and injures 12 others in Kathmandu, Nepal. ](/news/2009/05/23/a-bomb-kills-two-people-and-injures-12-others-in-kathmandu-nepal.md)
 _Context: Kathmandu, Nepal, bomb_
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama nominates former astronaut Charles F. Bolden, Jr. as Administrator of the National Aeronautics and Space Administration. ](/news/2009/05/23/united-states-president-barack-obama-nominates-former-astronaut-charles-f-bolden-jr-as-administrator-of-the-national-aeronautics-and-spa.md)
 President Obama will name former astronaut Charles F. Bolden Jr. as NASA administrator, according to three congressional sources. If confirmed by the Senate, the retired Marine Corps general would...
 

@@ -21,7 +21,7 @@ _Context: Iran, Iranian-American, Roxana Saberi, espionage, journalist_
 
 ##### Canada
 ### [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md)
-_Context: Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalia, USS ''Halyburton'', United States, oil tanker_
+_Context: Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalia, U.S., USS ''Halyburton'', oil tanker_
 
 ##### French
 ### [ France's National Police arrest ETA military leader Jurdan Martitegi in Montauriol. ](/news/2009/04/18/france-s-national-police-arrest-eta-military-leader-jurdan-martitegi-in-montauriol.md)

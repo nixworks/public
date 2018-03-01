@@ -11,9 +11,9 @@ A &ldquo;vibrational&rdquo; chemical bond predicted in the 1980s is demonstrated
 ### [Two balloonists, Troy Bradley of the United States and Leonid Tiukhtyaev of Russia, are crossing the Pacific Ocean in the Two Eagles gas balloon and have surpassed the distance and duration records for straight gas balloons. They are set to land in Mexico on Saturday. ](/news/2015/01/30/two-balloonists-troy-bradley-of-the-united-states-and-leonid-tiukhtyaev-of-russia-are-crossing-the-pacific-ocean-in-the-two-eagles-gas-bal.md)
 Two pilots have surpassed the world distance and durations records for a flight in a helium balloon after crossing the Pacific Ocean.
 
-##### King
+##### Saudi King
 ### [King Salman of Saudi Arabia names a new cabinet and replaces officials in several key government positions, removing two sons of the late monarch Abdullah from their regional governorships in the process. ](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.md)
-_Context: Abdullah, Government of Saudi Arabia, King, Salman, cabinet_
+_Context: Abdullah, Government of Saudi Arabia, Salman, Saudi King, cabinet_
 
 ##### Zhelyu Zhelev
 ### [Zhelyu Zhelev, who became the first democratically elected president of Bulgaria, dies at 79. ](/news/2015/01/30/zhelyu-zhelev-who-became-the-first-democratically-elected-president-of-bulgaria-dies-at-79.md)

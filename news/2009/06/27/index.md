@@ -3,7 +3,7 @@ Formats: [HTML](2009/06/27/index.html)  [JSON](2009/06/27/index.json)  [XML](200
 
 ## [2009-06-27](/news/2009/06/27/index.md)
 
-##### United States
+##### U.S.
 ### [ The United States National Transportation Safety Board identifies two incidents similar to the circumstances thought to have occurred on Air France Flight 447. ](/news/2009/06/27/the-united-states-national-transportation-safety-board-identifies-two-incidents-similar-to-the-circumstances-thought-to-have-occurred-on-ai.md)
 Two recent Airbus A330 flights may have had similar computer malfunctions to those suspected in AF Flight 447, the National Transportation Safety Board said.
 

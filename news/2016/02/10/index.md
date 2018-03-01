@@ -33,7 +33,7 @@ _Context: Abingdon, Harford County Sheriff's Office, Maryland_
 
 ##### Rojava conflict
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, Turkish President, United States, terrorist_
+_Context: Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, Turkish President, U.S., terrorist_
 
 ##### European migrant crisis
 ### [NATO, during a two-day meeting, considers request from Turkey and Greece to monitor migrant transit in the Aegean Sea and to combat human traffickers squeezing refugees onto unsafe boats. ](/news/2016/02/10/nato-during-a-two-day-meeting-considers-request-from-turkey-and-greece-to-monitor-migrant-transit-in-the-aegean-sea-and-to-combat-human-tr.md)

@@ -33,7 +33,7 @@ _Context: After 48 rounds of voting, Guatemala, Security Council, United Nations
 
 ##### Iraq War
 ### [ Iraq War: The United States military in Iraq says a marine and nine soldiers have been killed in Iraq, including four in a roadside bombing near Baghdad. ](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.md)
-_Context: Baghdad, Iraq, Iraq War, Marine, United States military_
+_Context: Baghdad, Iraq, Iraq War, Marine, U.S. military_
 
 ## [Previous Day...](/news/2006/10/16/index.md)
 

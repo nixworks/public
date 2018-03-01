@@ -13,7 +13,7 @@ _Context: Baja California Peninsula, Pacific, South Pacific Ocean_
 
 ##### Mujahideen Shura Council
 ### [ The Mujahideen Shura Council, a group linked to Al-Qaeda, posts a tape claiming responsibility for killing three US soldiers in retaliation for the killing of an Iraqi girl Abeer Qassim Hamza, allegedly by members of the same unit that the soldiers belonged to. ](/news/2006/07/11/the-mujahideen-shura-council-a-group-linked-to-al-qaeda-posts-a-tape-claiming-responsibility-for-killing-three-us-soldiers-in-retaliation.md)
-_Context: Abeer Qassim Hamza, Iraq, Mujahideen Shura Council, United States, al-Qaeda_
+_Context: Abeer Qassim Hamza, Iraq, Mujahideen Shura Council, U.S., al-Qaeda_
 
 ##### Mumbai train bombings
 ### [ Eight explosions hit at least four commuter trains in the Indian city of Mumbai (Bombay). India's other major cities are all placed on high alert. At least 174 people are reported dead, and at least 460 are reported injured. A suspect has been arrested in central Delhi. ](/news/2006/07/11/eight-explosions-hit-at-least-four-commuter-trains-in-the-indian-city-of-mumbai-bombay-india-s-other-major-cities-are-all-placed-on-high.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Boston
 ### [ A three ton concrete ceiling tile falls on a car in a tunnel in Boston, United States, killing one female passenger and closing the tunnel. The Governor of Massachusetts, Mitt Romney, announces that the Massachusetts Government will be taking legal action to remove the Chairman of the Massachusetts Turnpike Authority, Matt Amorello. ](/news/2006/07/11/a-three-ton-concrete-ceiling-tile-falls-on-a-car-in-a-tunnel-in-boston-united-states-killing-one-female-passenger-and-closing-the-tunnel.md)
-_Context: Boston, Massachusetts, Massachusetts Turnpike Authority, Massachusetts governor, Matt Amorello, Mitt Romney, United States_
+_Context: Boston, Massachusetts, Massachusetts Turnpike Authority, Massachusetts governor, Matt Amorello, Mitt Romney, U.S._
 
 ##### United States government
 ### [ The United States government agrees to apply parts of the Geneva Convention to detainees held at the Guantanamo Bay detainment camp, but does not change their status from enemy combatants to POWs. ](/news/2006/07/11/the-united-states-government-agrees-to-apply-parts-of-the-geneva-convention-to-detainees-held-at-the-guantanamo-bay-detainment-camp-but-do.md)
@@ -31,9 +31,9 @@ _Context: Geneva Convention, Guantnamo Bay, POW, United States government, enemy
 ### [ News Corp's MySpace.com surpasses Yahoo! Mail for the first time, and has become the number-one most visited website in the United States. ](/news/2006/07/11/news-corp-s-myspace-com-surpasses-yahoo-mail-for-the-first-time-and-has-become-the-number-one-most-visited-website-in-the-united-states.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### United States
+##### U.S.
 ### [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in "Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in-w.md)
-_Context: Bob Novak, CIA leak scandal, United States, Valerie Plame, Who's Who in America_
+_Context: Bob Novak, CIA leak scandal, U.S., Valerie Plame, Who's Who in America_
 
 ##### Occurres
 ### [ A fire and smoke buildup occurres on the CTA Blue Line train in the U.S. city of Chicago. Most injuries are from smoke inhalation. No fatalities have been stated at this time. Emergency personnel are on scene. The cause is from a rear derailment. ](/news/2006/07/11/a-fire-and-smoke-buildup-occurres-on-the-cta-blue-line-train-in-the-u-s-city-of-chicago-most-injuries-are-from-smoke-inhalation-no-fatal.md)

@@ -23,9 +23,9 @@ The Chinese premier Wen Jiabao expressed concern on Friday about China’s $1 tr
 ### [ Japan announces it will intercept North Korea's upcoming satellite launch if the boosters threaten its territory. ](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.md)
 _Context: Japan, North Korea, boosters, satellite_
 
-##### United States
+##### U.S.
 ### [ An American demonstrator from the International Solidarity Movement is critically wounded by Israel's Defense Forces at the West Bank barrier. ](/news/2009/03/13/an-american-demonstrator-from-the-international-solidarity-movement-is-critically-wounded-by-israel-s-defense-forces-at-the-west-bank-barri.md)
-_Context: International Solidarity Movement, Israel, Israeli Army, United States, West Bank, barrier, demonstration_
+_Context: International Solidarity Movement, Israel, Israeli Army, U.S., West Bank, barrier, demonstration_
 
 ##### Pakistani police
 ### [ Police are mobilized in Pakistan as thousands of protestors march toward Islamabad. ](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.md)
@@ -39,9 +39,9 @@ _Context: LTTE, Navanethem Pillay, OCHR, Sri Lanka, Sri Lankan Civil War, United
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed. ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
 _Context: Darfur, Italy, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
 
-##### United States
+##### U.S.
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
-_Context: Guantanamo Bay, Guantanamo Bay detention camp, United States, detainees, enemy combatant, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, Guantanamo Bay detention camp, U.S., detainees, enemy combatant, military base at Guantanamo Bay_
 
 ## [Previous Day...](/news/2009/03/12/index.md)
 

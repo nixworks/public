@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/8/index.html)  [JSON](2011/06/8/index.json)  [XML](2011/
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency successfully launches a Soyuz TMA-02M carrying a Russian, American and Japanese astronaut towards the International Space Station. ](/news/2011/06/8/the-russian-federal-space-agency-successfully-launches-a-soyuz-tma-02m-carrying-a-russian-american-and-japanese-astronaut-towards-the-inter.md)
-_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, United States_
+_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, U.S._
 
 ##### Google
 ### [Major websites, such as Google, Facebook, and others, participate in World IPv6 Day. ](/news/2011/06/8/major-websites-such-as-google-facebook-and-others-participate-in-world-ipv6-day.md)

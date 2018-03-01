@@ -55,9 +55,9 @@ A 97-year-old Hungarian, Sandor Kepiro, goes on trial in Budapest accused of mas
 ### [Former Egyptian interior minister Habib al-Adli is sentenced to 12 years imprisonment on corruption charges. ](/news/2011/05/5/former-egyptian-interior-minister-habib-al-adli-is-sentenced-to-12-years-imprisonment-on-corruption-charges.md)
 _Context: Egypt, Habib al-Adli_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [During a visit to the United Kingdom, Israeli Prime Minister Binyamin Netanyahu says that Iranian Supreme leader Ayatollah Khamenei is the biggest threat to world peace now that Osama bin Laden has been killed. ](/news/2011/05/5/during-a-visit-to-the-united-kingdom-israeli-prime-minister-binyamin-netanyahu-says-that-iranian-supreme-leader-ayatollah-khamenei-is-the-b.md)
-_Context: Ayatollah Khamenei, Binyamin Netanyahu, Israeli Prime Minister, Osama bin Laden, Supreme Leader, father's killing_
+_Context: Ayatollah Khamenei, Binyamin Netanyahu, Osama bin Laden, Prime Minister, Supreme Leader, father's killing_
 
 ##### United Kingdom
 ### [The United Kingdom expels two more Libyan diplomats, a week after expelling the ambassador, in order to increase diplomatic pressure on the regime of Muammar Gaddafi. ](/news/2011/05/5/the-united-kingdom-expels-two-more-libyan-diplomats-a-week-after-expelling-the-ambassador-in-order-to-increase-diplomatic-pressure-on-the.md)

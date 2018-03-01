@@ -27,9 +27,9 @@ Internet security company Kaspersky says software was used to infiltrate venues 
 ### [Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. ](/news/2015/06/11/federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-staff.md)
 Save the children says it was served a notice, denies it has expatriate staff working in Pakistan
 
-##### United States
+##### U.S.
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
-_Context: Middle East respiratory syndrome, South Korea, United States_
+_Context: Middle East respiratory syndrome, South Korea, U.S._
 
 ##### Landslide
 ### [At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. ](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-and-scores-are-missing-in-landslides-in-nepal-s-taplejung-district-caused-by-heavy-rain.md)

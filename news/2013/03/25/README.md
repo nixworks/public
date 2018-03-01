@@ -29,7 +29,7 @@ Japan and the European Union announced they will start free trade talks in April
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
-_Context: Afghanistan President, Hamid Karzai, John Kerry, United States Secretary of State, strained relations_
+_Context: Afghan President, Hamid Karzai, John Kerry, United States Secretary of State, strained relations_
 
 ##### European Union
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
@@ -43,7 +43,7 @@ _Context: Africa, Chinese, Dar es Salaam, President, Tanzania, Xi Jinping_
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)
 South Korea and the United States sign a plan providing for a joint response in the event of &quot;provocations&quot; from North Korea.
 
-##### United States
+##### U.S.
 ### [The United States agrees to hand over Bagram Jail, its main detention facility in Afghanistan, to the country's government. ](/news/2013/03/25/the-united-states-agrees-to-hand-over-bagram-jail-its-main-detention-facility-in-afghanistan-to-the-country-s-government.md)
 Transfer ends one of several bitter standoffs straining bilateral ties as US secretary of state meets Karzai in Kabul.
 

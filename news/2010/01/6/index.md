@@ -29,7 +29,7 @@ _Context: U.S., visa-free travel_
 
 ##### Algeria
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
 
 ##### Dauletabad - Salyp Yar gas pipeline
 ### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)

@@ -13,7 +13,7 @@ _Context: Indonesia, Indonesian Papua_
 
 ##### China-United States relations
 ### [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md)
-_Context: China, China-United States relations, South China Sea, United States_
+_Context: China, China-United States relations, South China Sea, U.S._
 
 ##### Aerosucre
 ### [An Aerosucre Boeing 727-200 Flight 4544, used as a cargo plane, crashes shortly after takeoff in Puerto Carreno's German Olano Airport en route to the Colombian capital Bogota killing five people and injuring one. ](/news/2016/12/20/an-aerosucre-boeing-727-200-flight-4544-used-as-a-cargo-plane-crashes-shortly-after-takeoff-in-puerto-carreno-s-germa-n-olano-airport-en-r.md)

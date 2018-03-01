@@ -9,7 +9,7 @@ Formats: [HTML](2017/02/5/index.html)  [JSON](2017/02/5/index.json)  [XML](2017/
 
 ##### European Union
 ### [Following diplomatic mediation by the European Union and the United States, minority Serbs tear down a concrete wall in Mitrovica. The city's majority Albanians regarded the wall as a provocation. ](/news/2017/02/5/following-diplomatic-mediation-by-the-european-union-and-the-united-states-minority-serbs-tear-down-a-concrete-wall-in-mitrovica-the-city.md)
-_Context: Albanians, European Union, Kosovo Serb, Mitrovica, United States_
+_Context: Albanians, European Union, Kosovo Serb, Mitrovica, U.S._
 
 ##### 2017 Romanian protests
 ### [ More than 600,000 people protest in dozens of cities in Romania and diaspora against Grindeanu Government. ](/news/2017/02/5/more-than-600-000-people-protest-in-dozens-of-cities-in-romania-and-diaspora-against-grindeanu-government.md)

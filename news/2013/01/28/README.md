@@ -23,7 +23,7 @@ Israel has admitted for the first time that it has been giving Ethiopian Jewish 
 ### [A bouncer is critically injured and a woman is also wounded after a gunman opens fire in a bar in the Central District of Seattle, Washington, United States. The perpetrator was killed by authorities. ](/news/2013/01/28/a-bouncer-is-critically-injured-and-a-woman-is-also-wounded-after-a-gunman-opens-fire-in-a-bar-in-the-central-district-of-seattle-washingto.md)
 The gunman shot the bouncer once and his ex-girlfriend multiple times.
 
-##### United States
+##### U.S.
 ### [American fighter aircraft F-16 flying out of Aviano Air Base loses radio contact and crashes in the Adriatic Sea. ](/news/2013/01/28/american-fighter-aircraft-f-16-flying-out-of-aviano-air-base-loses-radio-contact-and-crashes-in-the-adriatic-sea.md)
 A U.S. F-16 fighter jet was feared to have crashed on Monday during a training exercise over the Adriatic Sea, and the U.S. Air Force said the status of its Italy-based pilot was unknown.
 

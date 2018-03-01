@@ -9,7 +9,7 @@ _Context: Afghanistan, British military personnel, Des Browne, Secretary of Stat
 
 ##### U.S. Vice President
 ### [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md)
-_Context: Afghanistan, Afghanistan President, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, Taliban, U.S. Vice President, al-Qaeda, president_
+_Context: Afghan President, Afghanistan, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, Taliban, U.S. Vice President, al-Qaeda, president_
 
 ##### Guatemala
 ### [ Four Guatemalan police officers jailed for the 19 February slaying of three Salvadoran deputies to the Central American Parliament are shot dead inside a maximum security prison; a riot ensues. ](/news/2007/02/26/four-guatemalan-police-officers-jailed-for-the-19-february-slaying-of-three-salvadoran-deputies-to-the-central-american-parliament-are-shot.md)

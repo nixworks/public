@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/05/29/iraq-delivers-a-report-on-security-reconstructi
 
 ### Related:
 
-1. [A Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/a-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Iraq_
+1. [An Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/an-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Iraq_
 2. [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md) _Context: Stockholm_
 3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
 4. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_

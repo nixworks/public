@@ -3,7 +3,7 @@ Formats: [HTML](2016/08/3/index.html)  [JSON](2016/08/3/index.json)  [XML](2016/
 
 ## [2016-08-3](/news/2016/08/3/index.md)
 
-##### United States
+##### U.S.
 ### [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md)
 If accomplished, that feat would win the company, Moon Express, the Google Lunar X Prize competition and an accompanying $20 million reward.
 

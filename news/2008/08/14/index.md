@@ -17,11 +17,11 @@ Defense Secretary Robert M. Gates said Russia’s actions required a reassessmen
 
 ##### Consumer Price Index
 ### [ The Consumer Price Index in the United States rises by .8 per cent in July 2008 giving an annual inflation rate of 5.6 per cent, the highest in 17 years. ](/news/2008/08/14/the-consumer-price-index-in-the-united-states-rises-by-8-per-cent-in-july-2008-giving-an-annual-inflation-rate-of-5-6-per-cent-the-highes.md)
-_Context: Consumer Price Index, July 2008, United States_
+_Context: Consumer Price Index, July 2008, U.S._
 
 ##### Donald Tusk
 ### [ Donald Tusk, the Prime Minister of Poland, announces that the United States and Poland have reached an agreement on basing missile defense in Poland. ](/news/2008/08/14/donald-tusk-the-prime-minister-of-poland-announces-that-the-united-states-and-poland-have-reached-an-agreement-on-basing-missile-defense.md)
-_Context: Donald Tusk, Poland, Polish Prime Minister, United States, missile defense_
+_Context: Donald Tusk, Poland, Polish Prime Minister, U.S., missile defense_
 
 ## [Previous Day...](/news/2008/08/13/index.md)
 

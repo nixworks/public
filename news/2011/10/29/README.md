@@ -9,7 +9,7 @@ _Context: Atchison, Kansas, Kansas, grain elevator_
 
 ##### Nor'easter
 ### [A rare October snow storm hits the northeastern United States and Mid-Atlantic United States, leaving millions without power and killing two. ](/news/2011/10/29/a-rare-october-snow-storm-hits-the-northeastern-united-states-and-mid-atlantic-united-states-leaving-millions-without-power-and-killing-two.md)
-_Context: Mid-Atlantic, United States, nor'easter, northeastern United States_
+_Context: Mid-Atlantic, U.S., nor'easter, northeastern United States_
 
 ##### Footbridge
 ### [Thirty people are feared dead after a footbridge in India's Arunachal Pradesh collapses into the Kameng River. ](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.md)

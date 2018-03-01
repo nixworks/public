@@ -17,17 +17,17 @@ Faithful around the world celebrate Easter Sunday with church services and commu
 
 ##### Gang
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: California, Merced, United States, gang_
+_Context: California, Merced, U.S., gang_
 
 ##### District Attorney
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: District Attorney, Kaufman County, Texas, United States_
+_Context: District Attorney, Kaufman County, Texas, U.S._
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North Korea vows to retain and improve its nuclear arsenal, and to additionally develop a civilian nuclear power program. ](/news/2013/03/31/2013-korean-crisis-north-korea-vows-to-retain-and-improve-its-nuclear-arsenal-and-to-additionally-develop-a-civilian-nuclear-power-program.md)
 Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s &quot;nuclear treasures&quot; will not be swapped for aid.
 
-##### Afghanistan President
+##### Afghan President
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
 Afghan president and Qatari emir discussed opening of office for Taliban in Doha which could help broker an end to war.
 

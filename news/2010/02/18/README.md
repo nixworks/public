@@ -47,7 +47,7 @@ A complaint that a newspaper article about the death of Stephen Gately was inacc
 ### [Irish Minister for Defence Willie O'Dea resigns after a controversy surrounding his remarks on a rival politician's relationship with brothels but denies claims by opposition party Fine Gael that he has committed perjury. Taoiseach Brian Cowen assigns himself temporary responsibility for the Department of Defence. ](/news/2010/02/18/irish-minister-for-defence-willie-o-dea-resigns-after-a-controversy-surrounding-his-remarks-on-a-rival-politician-s-relationship-with-brothe.md)
 Minister for Defence Willie O&#39;Dea has resigned, saying his continuing in office would distract from the important and vital work of the Govt
 
-##### United States
+##### U.S.
 ### [United States President Barack Obama meets with the Dalai Lama amid opposition from China. ](/news/2010/02/18/united-states-president-barack-obama-meets-with-the-dalai-lama-amid-opposition-from-china.md)
 Obama holds talks with exiled Tibetan spiritual leader despite Chinese opposition.
 

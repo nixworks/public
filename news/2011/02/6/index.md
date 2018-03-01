@@ -13,7 +13,7 @@ Move marks effective end to political deadlock that has left Himalayan nation wi
 
 ##### Russia
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, United States_
+_Context: Ashot Egiazaryan, Russia, U.S._
 
 ##### Mexican drug cartel
 ### [Reputed Mexican drug cartel leader Sandra Avila Beltran is sentenced to a year in jail for weapons possession charges. ](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.md)
@@ -41,7 +41,7 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
+_Context: European Union, Israel, Middle East Quartet, Munich, Russia, U.S., United Nations_
 
 ##### Power outage
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)
@@ -63,9 +63,9 @@ Cambodia says a disputed 11th Century temple has been damaged on the third day o
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
 _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
 
-##### Afghanistan President
+##### Afghan President
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai_
+_Context: Afghan President, Afghanistan, Hamid Karzai_
 
 ##### Mutinous soldiers
 ### [At least 50 people have died in a mutiny of the Sudan People's Armed Forces in southern Sudan. ](/news/2011/02/6/at-least-50-people-have-died-in-a-mutiny-of-the-sudan-people-s-armed-forces-in-southern-sudan.md)

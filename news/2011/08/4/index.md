@@ -19,9 +19,9 @@ _Context: Heather Mills, Mirror Group, Paul McCartney, Piers Morgan_
 ### [A judge rules that Donald Rumsfeld can be sued personally for damages by a U.S. Army veteran in his 50s who says he was imprisoned unjustly and tortured by the U.S. military in Iraq. ](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.md)
 _Context: Donald Rumsfeld_
 
-##### United States
+##### U.S.
 ### [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md)
-_Context: Federal Aviation Administration, United States_
+_Context: Federal Aviation Administration, U.S._
 
 ##### Sky News
 ### [Sky News reports new evidence that North Korean officials have been involved in the illegal drugs trade. ](/news/2011/08/4/sky-news-reports-new-evidence-that-north-korean-officials-have-been-involved-in-the-illegal-drugs-trade.md)

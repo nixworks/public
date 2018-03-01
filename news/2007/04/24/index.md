@@ -29,7 +29,7 @@ _Context: Chinese, Ethiopia, Ogaden National Liberation Front, Somalia, oil fiel
 
 ##### Prison riot
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: Indiana, New Castle Correctional Facility, United States, prison riot_
+_Context: Indiana, New Castle Correctional Facility, U.S., prison riot_
 
 ##### Moscow
 ### [ Thousands of people gather in Moscow, Russia to mourn former President Boris Yeltsin. ](/news/2007/04/24/thousands-of-people-gather-in-moscow-russia-to-mourn-former-president-boris-yeltsin.md)

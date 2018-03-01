@@ -9,7 +9,7 @@ _Context: Somalia, amputee_
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
-_Context: Arizona, United States_
+_Context: Arizona, U.S._
 
 ##### Pakistan
 ### [ A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. ](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.md)
@@ -35,7 +35,7 @@ Vietnam jailed six people on Friday for advocating democracy after similar sente
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
 _Context: Philippines_
 
-##### United States
+##### U.S.
 ### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
 The Nobel Peace Prize, which President Obama described as a “call to action,” was an extraordinary recognition for so early in a presidential term and a potential political liability at home.
 

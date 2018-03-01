@@ -15,9 +15,9 @@ _Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukraine_
 ### [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md)
 _Context: 2013-14 Thai political crisis, Prime Minister, Yingluck Shinawatra_
 
-##### United States
+##### U.S.
 ### [United States Federal Reserve hacker Lauri Love is sentenced. ](/news/2014/02/27/united-states-federal-reserve-hacker-lauri-love-is-sentenced.md)
-_Context: Federal Reserve, United States_
+_Context: Federal Reserve, U.S._
 
 ##### Arizona
 ### [Arizona Governor Jan Brewer vetoes a bill that would have allowed businesses to discriminate, based on their religion, against LGBT people. ](/news/2014/02/27/arizona-governor-jan-brewer-vetoes-a-bill-that-would-have-allowed-businesses-to-discriminate-based-on-their-religion-against-lgbt-people.md)

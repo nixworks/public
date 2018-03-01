@@ -7,9 +7,9 @@ Formats: [HTML](2008/12/4/index.html)  [JSON](2008/12/4/index.json)  [XML](2008/
 ### [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md)
 _Context: Governor General of Canada, Michalle Jean, Prime Minister of Canada, Stephen Harper, coalition, proposed opposition coalition, vote of no confidence_
 
-##### Afghanistan President
+##### Afghan President
 ### [ The body of the first President of Afghanistan Mohammed Daoud Khan is identified, three decades after he died. ](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.md)
-_Context: Afghanistan, Afghanistan President, Mohammed Daoud Khan_
+_Context: Afghan President, Afghanistan, Mohammed Daoud Khan_
 
 ##### Argentina
 ### [ The Argentine National Congress approves the seizure of Aerolneas Argentinas, the country's biggest airline carrier. ](/news/2008/12/4/the-argentine-national-congress-approves-the-seizure-of-aerolineas-argentinas-the-country-s-biggest-airline-carrier.md)

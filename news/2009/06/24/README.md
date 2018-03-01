@@ -19,15 +19,15 @@ _Context: Afghanistan, Bagram Air Base_
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)
 _Context: Chechnya, Russia_
 
-##### United States
+##### U.S.
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
-_Context: Syria, United States_
+_Context: Syria, U.S._
 
 ##### Government
 ### [ The Chinese government formally arrests dissident Liu Xiaobo on charges of state subversion. ](/news/2009/06/24/the-chinese-government-formally-arrests-dissident-liu-xiaobo-on-charges-of-state-subversion.md)
 _Context: Liu Xiaobo, dissident, government, subverting_
 
-##### United States
+##### U.S.
 ### [ At least 43 people are killed by United States aircraft in South Waziristan, Pakistan. ](/news/2009/06/24/at-least-43-people-are-killed-by-united-states-aircraft-in-south-waziristan-pakistan.md)
 At least 30 people have been killed in US missile strikes in the South Waziristan region of Pakistan.
 

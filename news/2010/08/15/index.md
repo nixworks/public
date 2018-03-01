@@ -87,9 +87,9 @@ Mexican television network Televisa is targeted in explosive attacks in two diff
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
 _Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkish_
 
-##### United States
+##### U.S.
 ### [A United States missile attack on a militant compound in the village of Essori near Miranshah in the North Waziristan area of Pakistan kills 13 people. ](/news/2010/08/15/a-united-states-missile-attack-on-a-militant-compound-in-the-village-of-essori-near-miranshah-in-the-north-waziristan-area-of-pakistan-kills.md)
-_Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
+_Context: Miranshah, North Waziristan, Pakistan, Taliban, U.S._
 
 ##### Throws a shoe
 ### [A policeman hurls a shoe towards the Chief Minister for Jammu and Kashmir, Omar Abdullah, during the Indian Independence Day function in Srinagar amid protests against Indian rule; 15 policemen are later suspended. ](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-minister-for-jammu-and-kashmir-omar-abdullah-during-the-indian-independence-day-function-in-sri.md)

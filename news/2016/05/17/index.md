@@ -17,7 +17,7 @@ The Nepali government says a British national has been detained for questioning 
 
 ##### North Korea's nuclear program
 ### [Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice "detecting and tracing a hypothetical North Korean missile," said a ministry official. ](/news/2016/05/17/amid-growing-concern-about-north-korea-s-ballistic-missile-capability-south-korea-japan-and-the-u-s-are-to-hold-their-first-ever-joint-an.md)
-_Context: Japan, North Korea, North Korea's nuclear program, South Korea, South Korean Defense Minister, United States, anti-missile_
+_Context: Japan, North Korea, North Korea's nuclear program, South Korea, South Korean Defense Minister, U.S., anti-missile_
 
 ##### 2016 Fort McMurray wildfire
 ### [A flare up of wildfires around Fort McMurray has caused the evacuation of 8,000 workers. ](/news/2016/05/17/a-flare-up-of-wildfires-around-fort-mcmurray-has-caused-the-evacuation-of-8-000-workers.md)

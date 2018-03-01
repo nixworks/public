@@ -19,7 +19,7 @@ Socialist champion Francois Hollande stamped his authority on the French preside
 ### [Russia and China begin naval exercises in the Yellow Sea. ](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.md)
 _Context: China, Russia, Yellow Sea, naval exercise_
 
-##### United States
+##### U.S.
 ### [The United States investigates dozens of its troops in Afghanistan in relation to use and distribution of heroin, morphine or other opiates during 2010 and 2011 as the U.S. military struggles to watch its far-flung troops and monitor for substance abuse. ](/news/2012/04/22/the-united-states-investigates-dozens-of-its-troops-in-afghanistan-in-relation-to-use-and-distribution-of-heroin-morphine-or-other-opiates.md)
 The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or distributing heroin, morphine or other opiates during 2010 and 2011, newly-obtained data shows. Eight soldiers died of drug overdoses during that time.
 

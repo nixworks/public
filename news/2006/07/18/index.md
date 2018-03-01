@@ -25,7 +25,7 @@ _Context: United States House of Representatives, constitutional amendment to ba
 
 ##### A doctor
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, euthanasia, murder_
+_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, U.S., euthanasia, murder_
 
 ##### Car bomb
 ### [ A car bomb kills at least 15 labourers and wounds dozens in the southern Iraqi town of Kufa. ](/news/2006/07/18/a-car-bomb-kills-at-least-15-labourers-and-wounds-dozens-in-the-southern-iraqi-town-of-kufa.md)

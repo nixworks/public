@@ -35,7 +35,7 @@ _Context: Tucson, Arizona_
 ### [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md)
 _Context: 2014 World Cup, Arena Corinthians, Brazil, SGBPo Paulo_
 
-##### United States
+##### U.S.
 ### [A winter weather storm in the United States kills 11 people and causes major travel delays. ](/news/2013/11/27/a-winter-weather-storm-in-the-united-states-kills-11-people-and-causes-major-travel-delays.md)
 More than 200 flights were canceled and more than 5,000 were delayed by a deadly storm that is on track to pounce on the East Coast on the busiest travel day of the year.
 

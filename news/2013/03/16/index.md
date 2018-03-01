@@ -17,27 +17,27 @@ Zimbabweans have been voting in a key referendum on a new constitution that woul
 
 ##### Drive-by shooting
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: California, Galt, United States, drive-by shooting_
+_Context: California, Galt, U.S., drive-by shooting_
 
 ##### Rape
 ### [A group of eight men allegedly rape a 39-year-old Swiss tourist and assault her husband in the central Indian state of Madhya Pradesh. ](/news/2013/03/16/a-group-of-eight-men-allegedly-rape-a-39-year-old-swiss-tourist-and-assault-her-husband-in-the-central-indian-state-of-madhya-pradesh.md)
 A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaulted her husband in the central Indian state of Madhya Pradesh.
 
-##### United States
+##### U.S.
 ### [The United States will spend $1 billion to deploy additional ground-based missile interceptors on the West Coast as part of efforts to enhance the nation's ability to defend itself from attack by North Korea. ](/news/2013/03/16/the-united-states-will-spend-1-billion-to-deploy-additional-ground-based-missile-interceptors-on-the-west-coast-as-part-of-efforts-to-enhan.md)
 The Pentagon will deploy more missile interceptors on the Pacific Coast to counter the growing reach of North Korea’s weapons, a decision accelerated by Pyongyang’s recent belligerence.
 
-##### United States
+##### U.S.
 ### [The United States scraps the final stage of its European missile shield. ](/news/2013/03/16/the-united-states-scraps-the-final-stage-of-its-european-missile-shield.md)
 US Defence Secretary Chuck Hagel scraps the final phase of its European missile defence shield, citing development problems and funding cuts.
 
-##### United States
+##### U.S.
 ### [A United States helicopter crashes near Kandahar in southern Afghanistan, killing one coalition service member and injuring another. ](/news/2013/03/16/a-united-states-helicopter-crashes-near-kandahar-in-southern-afghanistan-killing-one-coalition-service-member-and-injuring-another.md)
 Nato officials say a helicopter has crashed in southern Afghanistan, killing one coalition service member and injuring another. 
 
 ##### Tour bus
 ### [A tour bus carrying the Seton Hill University women's lacrosse team veers off the Pennsylvania Turnpike and strikes a tree near Carlisle, Pennsylvania, United States, killing the team's head coach, her unborn child, and the bus driver. ](/news/2013/03/16/a-tour-bus-carrying-the-seton-hill-university-women-s-lacrosse-team-veers-off-the-pennsylvania-turnpike-and-strikes-a-tree-near-carlisle-pe.md)
-_Context: Carlisle, Pennsylvania, Pennsylvania Turnpike's, Seton Hill University, United States, bus driver, tour bus, women's lacrosse_
+_Context: Carlisle, Pennsylvania, Pennsylvania Turnpike's, Seton Hill University, U.S., bus driver, tour bus, women's lacrosse_
 
 ##### Pakistan Army
 ### [At least 24 Pakistan Army soldiers are killed and 5 are injured after their bus crashes into a ravine in Rawalpindi, Pakistan. ](/news/2013/03/16/at-least-24-pakistan-army-soldiers-are-killed-and-5-are-injured-after-their-bus-crashes-into-a-ravine-in-rawalpindi-pakistan.md)

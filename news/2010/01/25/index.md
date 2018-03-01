@@ -33,9 +33,9 @@ _Context: Perth, Qantas_
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
 Aircraft carrying 90 people plunges into Mediterranean Sea.
 
-##### United States
+##### U.S.
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: Algeria, United States_
+_Context: Algeria, U.S._
 
 ##### Burma
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)

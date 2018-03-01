@@ -13,7 +13,7 @@ _Context: Mahmoud Abbas, Palestinian Authority, Palestinian presidential electio
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S.-led forces in Iraq have destroyed and contaminated precious ancient Babylonian archaeological evidence and sites according to a report by the British Museum. ](/news/2005/01/15/conflict-in-iraq-u-s-led-forces-in-iraq-have-destroyed-and-contaminated-precious-ancient-babylonian-archaeological-evidence-and-sites-acc.md)
-_Context: Babylon, Conflict in Iraq, Iraq, United States_
+_Context: Babylon, Conflict in Iraq, Iraq, U.S._
 
 ##### Zhao Ziyang
 ### [ Zhao Ziyang, former Premier of the People's Republic of China and General Secretary of the Communist Party of China, is in a coma after multiple strokes. ](/news/2005/01/15/zhao-ziyang-former-premier-of-the-people-s-republic-of-china-and-general-secretary-of-the-communist-party-of-china-is-in-a-coma-after-mul.md)

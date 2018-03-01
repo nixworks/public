@@ -29,7 +29,7 @@ Nato invites Montenegro to join the alliance, in its first expansion for six yea
 
 ##### Prime Minister
 ### [Thai Prime Minister Prayuth Chan-ocha orders officials to improve aviation safety standards after the U.S. Federal Aviation Administration (FAA) downgraded Thailand's safety ratings. The lower rating is for failure to tackle commercial aviation standards shortcomings found in an audit this year. The European Aviation Safety Agency is due to announce the results of its own audit later in December. ](/news/2015/12/2/thai-prime-minister-prayuth-chan-ocha-orders-officials-to-improve-aviation-safety-standards-after-the-u-s-federal-aviation-administration.md)
-_Context: European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, United States, aviation safety_
+_Context: European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, U.S., aviation safety_
 
 ##### Japanese government
 ### [Hearings begin in the legal battle between the Japanese government and local officials in Okinawa over plans to move a U.S. military air base on the southern island. This fall, Okinawa Governor Takeshi Onaga revoked his predecessor's authorization for a US Marine Corps air base. ](/news/2015/12/2/hearings-begin-in-the-legal-battle-between-the-japanese-government-and-local-officials-in-okinawa-over-plans-to-move-a-u-s-military-air-bas.md)

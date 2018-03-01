@@ -15,9 +15,9 @@ Police in Gatineau, Que., have identified one of two men who were found dead aft
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
 _Context: Buddhists, Indonesia, Muslims, Myanmar, detention center_
 
-##### United States
+##### U.S.
 ### [The United States agrees to a plan to return some land, used by the US Military's Futenma Airbase in Okinawa, to Japan. ](/news/2013/04/5/the-united-states-agrees-to-a-plan-to-return-some-land-used-by-the-us-military-s-futenma-airbase-in-okinawa-to-japan.md)
-_Context: American soldiers, Japan, Marine Corps Air Station Futenma, Okinawa, United States_
+_Context: American soldiers, Japan, Marine Corps Air Station Futenma, Okinawa, U.S._
 
 ##### Iran
 ### [Iran's negotiator Saeed Jalili defends the nation's controversial nuclear program that involves uranium enrichment, in a new round of talks with P5+1 countries in Kazakhstan. ](/news/2013/04/5/iran-s-negotiator-saeed-jalili-defends-the-nation-s-controversial-nuclear-program-that-involves-uranium-enrichment-in-a-new-round-of-talks.md)

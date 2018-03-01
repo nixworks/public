@@ -15,9 +15,9 @@ _Context: Greek legislative election, September 2015, Panagiotis Lafazanis, Popu
 ### [Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. ](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.md)
 _Context: Prime Minister of Sri Lanka, United National Front for Good Governance, Wickremesinghe, election_
 
-##### United States
+##### U.S.
 ### [The United States halts, then resumes its annual military exercise with South Korea, Foal Eagle, amid rising tensions. ](/news/2015/08/21/the-united-states-halts-then-resumes-its-annual-military-exercise-with-south-korea-foal-eagle-amid-rising-tensions.md)
-_Context: Foal Eagle, South Korea, United States, military exercise_
+_Context: Foal Eagle, South Korea, U.S., military exercise_
 
 ##### North Korea
 ### [Supreme Leader of North Korea Kim Jong-un orders the Korean People's Army to be on a war footing following the exchange of artillery fire with South Korea yesterday. ](/news/2015/08/21/supreme-leader-of-north-korea-kim-jong-un-orders-the-korean-people-s-army-to-be-on-a-war-footing-following-the-exchange-of-artillery-fire-wi.md)

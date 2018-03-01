@@ -8,7 +8,7 @@ Formats: [HTML](2015/09/19/index.html)  [JSON](2015/09/19/index.json)  [XML](201
 The FBI opened an investigation into allegations of money laundering related to transfers of nearly $700 million to accounts allegedly belonging to the prime minister of Malaysia, according to a person familiar with the matter.
 
 ##### Egypt
-### [Egypt's new Cabinet is sworn in before President Abdel Fattah al-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egyptas-new-cabinet-is-sworn-in-before-president-abdel-fattah-al-sisi-a-week-after-the-previous-administration-resigned-following-a-corru.md)
+### [Egypt's new Cabinet is sworn in before President Abdel Fattah el-Sisi, a week after the previous administration resigned following a corruption scandal, and a month before parliamentary elections. The 33-member body has 16 new ministers, including two women. Sherif Ismail, petroleum minister in the last cabinet, is the new prime minister. ](/news/2015/09/19/egypt-s-new-cabinet-is-sworn-in-before-president-abdel-fattah-el-sisi-a-week-after-the-previous-administration-resigned-following-a-corrupt.md)
 Egypt&#039;s new Cabinet was sworn in before President Abdel Fattah al-Sisi at the Presidential Palace Saturday morning. Headed by former petroleum minister Sherif Ismail, the new Cabinet saw 16 replacements and includes 33 portfolios, down from 36 in the previous line-up. The ministries of health a...
 
 ##### European migrant crisis
@@ -43,7 +43,7 @@ Francis, the first Latin American pope, has drawn from his life in Argentina to 
 ### [A Saudi-led military coalition bombards government buildings and residential neighborhoods in the Yemeni capital, Sana'a, killing about 30 people, including civilians. Rescuers continue searching for other possible victims buried under the rubble. ](/news/2015/09/19/a-saudi-led-military-coalition-bombards-government-buildings-and-residential-neighborhoods-in-the-yemeni-capital-sana-a-killing-about-30-p.md)
 SANAA, Yemen – Airstrikes carried out by a Saudi-led coalition against Yemen’s Shiite rebels and their allies have killed 29 people, including civilians, in the capital Sanaa, security and medical officials in the city said Saturday.
 
-##### Turkey-PKK conflict
+##### Kurdish-Turkish conflict
 ### [At least 55 are killed when Turkish warplanes hit Kurdistan Workers Party (PKK) camps in northern Iraq, according to Turkey's security sources. ](/news/2015/09/19/at-least-55-are-killed-when-turkish-warplanes-hit-kurdistan-workers-party-pkk-camps-in-northern-iraq-according-to-turkey-s-security-sourc.md)
 At least 55 militants were killed when Turkish warplanes hit Kurdistan Workers Party (PKK) camps in northern Iraq overnight, security sources said on Saturday, as Ankara shows no sign of easing up strikes on insurgents ahead of a Nov. 1 election.
 

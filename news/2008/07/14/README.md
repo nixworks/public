@@ -35,9 +35,9 @@ _Context: Darfur, ICC, Luis Moreno-Ocampo, Omar al-Bashir, Sudan, crime against 
 ### [ Etihad Airways from the United Arab Emirates buys 100 fuel-efficient aircraft from Airbus and Boeing. ](/news/2008/07/14/etihad-airways-from-the-united-arab-emirates-buys-100-fuel-efficient-aircraft-from-airbus-and-boeing.md)
 _Context: Airbus, Boeing Company, Etihad Airways, United Arab Emirates_
 
-##### United States
+##### U.S.
 ### [ United States President George W. Bush lifts a ban on offshore oil drilling. ](/news/2008/07/14/united-states-president-george-w-bush-lifts-a-ban-on-offshore-oil-drilling.md)
-_Context: George W. Bush, U.S. President, United States, drill for oil_
+_Context: George W. Bush, U.S., U.S. President, drill for oil_
 
 ##### United States Federal Reserve
 ### [ The United States Federal Reserve tightens mortgage regulation in an attempt to stamp out the practices that led to the subprime mortgage crisis. ](/news/2008/07/14/the-united-states-federal-reserve-tightens-mortgage-regulation-in-an-attempt-to-stamp-out-the-practices-that-led-to-the-subprime-mortgage-c.md)

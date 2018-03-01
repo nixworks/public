@@ -7,9 +7,9 @@ Formats: [HTML](2012/05/15/index.html)  [JSON](2012/05/15/index.json)  [XML](201
 ### [American scientists develop a device which uses genetically-engineered viruses to generate electricity. The invention could allow the development of ubiquitous piezoelectric micro-generators which gather energy from everyday vibrations such as closing doors. ](/news/2012/05/15/american-scientists-develop-a-device-which-uses-genetically-engineered-viruses-to-generate-electricity-the-invention-could-allow-the-develo.md)
 Scientists in the US have developed a way to generate electricity using viruses.
 
-##### United States
+##### U.S.
 ### [The United States announces a national plan to develop an effective treatment for Alzheimer's disease by 2025. ](/news/2012/05/15/the-united-states-announces-a-national-plan-to-develop-an-effective-treatment-for-alzheimer-s-disease-by-2025.md)
-_Context: Alzheimer's disease, United States_
+_Context: Alzheimer's disease, U.S._
 
 ##### Greece
 ### [Crisis-wracked Greece is forced to hold new general elections, after efforts by major political parties to form a coalition government end in failure. ](/news/2012/05/15/crisis-wracked-greece-is-forced-to-hold-new-general-elections-after-efforts-by-major-political-parties-to-form-a-coalition-government-end-i.md)

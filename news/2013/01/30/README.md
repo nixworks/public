@@ -25,11 +25,11 @@ Four Nigerian farmers are set to find out whether a Netherlands court will back 
 
 ##### School bus
 ### [A gunman kills a school bus driver and holds a 6-year-old boy hostage in an underground bunker in Midland City, Alabama, United States. ](/news/2013/01/30/a-gunman-kills-a-school-bus-driver-and-holds-a-6-year-old-boy-hostage-in-an-underground-bunker-in-midland-city-alabama-united-states.md)
-_Context: Alabama, Midland City, United States, bunker, hostage, school bus_
+_Context: Alabama, Midland City, U.S., bunker, hostage, school bus_
 
 ##### Shooting
 ### [Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. ](/news/2013/01/30/three-people-are-dead-including-the-shooter-one-person-is-wounded-after-a-shooting-at-an-office-building-in-phoenix-arizona-united-state.md)
-_Context: Arizona, Phoenix, Arizona, United States, office building, shooting_
+_Context: Arizona, Phoenix, Arizona, U.S., office building, shooting_
 
 ##### Tornado outbreak of January 29-30, 2013
 ### [Tornado outbreak of January 29-30, 2013: Severe thunderstorms and tornadoes affect the Midwestern and southern United States with damage reported in several states, from Missouri to Georgia, and at least two people killed. ](/news/2013/01/30/tornado-outbreak-of-january-29a30-2013-severe-thunderstorms-and-tornadoes-affect-the-midwestern-and-southern-united-states-with-damage-r.md)

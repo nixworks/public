@@ -23,7 +23,7 @@ A top US public health official says the Ebola outbreak is set to get worse befo
 ### [The Philippines economy grows by 6.4% in Q2 showing signs of recovery after it was devastated by Typhoon Haiyan in 2013. ](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.md)
 _Context: Philippines, Typhoon Haiyan (Yolanda)_
 
-##### United States
+##### U.S.
 ### [American comedian Joan Rivers is rushed to the hospital after she stopped breathing during throat surgery. ](/news/2014/08/28/american-comedian-joan-rivers-is-rushed-to-the-hospital-after-she-stopped-breathing-during-throat-surgery.md)
 5:00 AM PT (8/29) -- Melissa Rivers released a statement saying Joan is now &quot;resting comfortably.&quot;8:49 AM PT -- The NYPD tells us ... Joan is currently in&hellip;
 

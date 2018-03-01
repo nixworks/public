@@ -51,9 +51,9 @@ Rights watchdog says security forces tried to hide evidence of the killings whic
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
 At least 24 people have been killed by police in DR Congo since the results of disputed elections were announced, a US-based rights group says.
 
-##### United States
+##### U.S.
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: NATO airstrike, Pakistan, United States_
+_Context: NATO airstrike, Pakistan, U.S._
 
 ##### Series of 16 bombing attacks
 ### [At least 72 people are killed and 169 wounded in a series of 16 bombing attacks in the Iraqi capital Baghdad, shortly after the final withdrawal of American forces from Iraq. ](/news/2011/12/22/at-least-72-people-are-killed-and-169-wounded-in-a-series-of-16-bombing-attacks-in-the-iraqi-capital-baghdad-shortly-after-the-final-withdr.md)

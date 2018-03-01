@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/8/index.html)  [JSON](2006/09/8/index.json)  [XML](2006/
 
 ##### Taliban insurgency
 ### [ Taliban insurgency: A suicide car bomb explodes near the United States embassy in Kabul, killing at least ten people. ](/news/2006/09/8/taliban-insurgency-a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-killing-at-least-ten-people.md)
-_Context: Kabul, Taliban insurgency, United States_
+_Context: Kabul, Taliban insurgency, U.S._
 
 ##### Zimbabwe
 ### [ Zimbabwe has failed to keep its promise to build new homes for the thousands whose houses were demolished last year during Operation Murambatsvina. ](/news/2006/09/8/zimbabwe-has-failed-to-keep-its-promise-to-build-new-homes-for-the-thousands-whose-houses-were-demolished-last-year-during-operation-muramb.md)

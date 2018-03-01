@@ -49,7 +49,7 @@ _Context: French, Roma, United Nations_
 
 ##### Muslim
 ### [Muslims protest outside the United States embassy in Jakarta about plans by the Dove World Outreach Center in Gainesville, Florida to burn Korans on the 9th anniversary of the September 11 attacks. ](/news/2010/08/27/muslims-protest-outside-the-united-states-embassy-in-jakarta-about-plans-by-the-dove-world-outreach-center-in-gainesville-florida-to-burn-k.md)
-_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, United States, burn Korans, church_
+_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, U.S., burn Korans, church_
 
 ##### Sri Lanka
 ### [Sri Lanka urges Saudi Arabia to investigate the case of a Sri Lankan maid who had nails and needles pushed into her by her employers as a "punishment". Doctors later remove 24 nails and needles from her body. ](/news/2010/08/27/sri-lanka-urges-saudi-arabia-to-investigate-the-case-of-a-sri-lankan-maid-who-had-nails-and-needles-pushed-into-her-by-her-employers-as-a-p.md)

@@ -29,7 +29,7 @@ Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leavi
 
 ##### Hurricane Sandy
 ### [In the aftermath of Hurricane Sandy, the death toll rises to over 60 in the Mid-Atlantic states of the United States, while electric power for millions is still out, and mass transportation is crippled. ](/news/2012/10/31/in-the-aftermath-of-hurricane-sandy-the-death-toll-rises-to-over-60-in-the-mid-atlantic-states-of-the-united-states-while-electric-power-f.md)
-_Context: Hurricane Sandy, Mid-Atlantic, United States_
+_Context: Hurricane Sandy, Mid-Atlantic, U.S._
 
 ##### Barclays plc
 ### [Barclays plc says that it is the subject of two new regulatory probes after a series of scandals. The bank also announces it made a loss in the third quarter of 2012. ](/news/2012/10/31/barclays-plc-says-that-it-is-the-subject-of-two-new-regulatory-probes-after-a-series-of-scandals-the-bank-also-announces-it-made-a-loss-in.md)

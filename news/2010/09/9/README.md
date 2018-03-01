@@ -17,7 +17,7 @@ Minutes after a woman was suspended from her job at a Kraft Foods plant and esco
 
 ##### US District Court Judge
 ### [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md)
-_Context: First Amendment, US District Court Judge, United States military, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_
+_Context: First Amendment, U.S. military, US District Court Judge, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_
 
 ##### Philippines
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
@@ -33,7 +33,7 @@ Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the
 
 ##### Iran
 ### [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
-_Context: Iran, Sarah Shourd, United Nations, United States, diplomat_
+_Context: Iran, Sarah Shourd, U.S., United Nations, diplomat_
 
 ##### 2010 San Bruno, California fire
 ### [The 2010 San Bruno, California fire begins with a massive explosion in a natural gas line destroying dozens of houses, killing at least 6 people, and continues burning in San Bruno, California near the US city of San Francisco. ](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.md)

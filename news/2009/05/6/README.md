@@ -27,9 +27,9 @@ _Context: Mingora, Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan
 ### [ A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. ](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures-30-others-in-dora-baghdad-iraq.md)
 _Context: Baghdad, Dora, Iraq, car bomb_
 
-##### United States
+##### U.S.
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
-_Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, United States, capital, companies, financial services, stress test_
+_Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, U.S., capital, companies, financial services, stress test_
 
 ##### European Parliament
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)

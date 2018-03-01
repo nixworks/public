@@ -21,7 +21,7 @@ _Context: Egypt, MV, Somali pirates, Somalia, ransom_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: Afghanistan, Russia, Russian government, United States, United States military personnel, nonlethal equipment_
+_Context: Afghanistan, Russia, Russian government, U.S., United States military personnel, nonlethal equipment_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)
@@ -43,7 +43,7 @@ About 84 children have died over the past three months after taking a teething d
 ### [ U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md)
 The losses reinforced the picture of an economy contracting at its fastest pace in decades.
 
-##### United States
+##### U.S.
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
 U.S. health officials on Friday approved the first drug made using genetically engineered animals despite lingering concerns over health and environmental implications.
 

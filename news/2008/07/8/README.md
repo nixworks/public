@@ -25,11 +25,11 @@ _Context: 2050, 34th G8 summit, G8 group of nations, Japan, greenhouse gas_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad indicates that he does not expect an attack by the United States or Israel because he considers George W. Bush to be a lame duck president. ](/news/2008/07/8/the-president-of-iran-mahmoud-ahmadinejad-indicates-that-he-does-not-expect-an-attack-by-the-united-states-or-israel-because-he-considers-g.md)
-_Context: George W. Bush, Iran, Israel, Mahmoud Ahmadinejad, President, United States, lame duck president_
+_Context: George W. Bush, Iran, Israel, Mahmoud Ahmadinejad, President, U.S., lame duck president_
 
-##### United States
+##### U.S.
 ### [ The United States and the Czech Republic sign an initial agreement to base a United States missile defense system in the Czech Republic. ](/news/2008/07/8/the-united-states-and-the-czech-republic-sign-an-initial-agreement-to-base-a-united-states-missile-defense-system-in-the-czech-republic.md)
-_Context: Czech Republic, United States, missile defense_
+_Context: Czech Republic, U.S., missile defense_
 
 ## [Previous Day...](/news/2008/07/7/index.md)
 

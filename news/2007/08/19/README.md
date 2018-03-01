@@ -25,7 +25,7 @@ _Context: Abu Sayyaf, Basilan island, Philippines_
 
 ##### Heat wave
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, United States, heat wave_
+_Context: Memphis, Tennessee, U.S., heat wave_
 
 ##### Minnesota Governor
 ### [ The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-flooding-with-six-deaths-repo.md)

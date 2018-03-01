@@ -7,9 +7,9 @@ Formats: [HTML](2017/09/13/index.html)  [JSON](2017/09/13/index.json)  [XML](201
 ### [Scientists hope to revive the extinct Floreana island tortoise using a 'genetically-informed' captive breeding program with the tortoises closest ancestors. ](/news/2017/09/13/scientists-hope-to-revive-the-extinct-floreana-island-tortoise-using-a-genetically-informed-captive-breeding-program-with-the-tortoises-cl.md)
 Scientists from around the world are hoping to return a lost species of giant tortoise to one of the world-famous Galápagos islands.
 
-##### United States
+##### U.S.
 ### [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md)
-_Context: Chuck Schumer, Democrat, Donald Trump, Nancy Pelosi, U.S. President, United States_
+_Context: Chuck Schumer, Democrat, Donald Trump, Nancy Pelosi, U.S., U.S. President_
 
 ##### European Commission
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
@@ -29,7 +29,7 @@ At issue is whether the congressional map Texas adopted in 2013 violates the Con
 
 ##### Immigration to the United States
 ### [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md)
-_Context: Cambodia, Eritrea, Guinea, Immigration to the United States, Sierra Leone, United States, Visa policy of the United States_
+_Context: Cambodia, Eritrea, Guinea, Immigration to the United States, Sierra Leone, U.S., Visa policy of the United States_
 
 ##### Antivirus software
 ### [United States Homeland Security bans Kaspersky Lab products from government computers due to fears they could be coerced into sharing information with the Russian government. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-they-could-be-coerced-into-sharing-inform.md)

@@ -13,7 +13,7 @@ _Context: HIV, United Nations_
 
 ##### Manouchehr Mottaki
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, U.S._
 
 ##### Twelve days earlier
 ### [ The death toll from the 2007 Zasyadko mine disaster rises to at least 90. ](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.md)

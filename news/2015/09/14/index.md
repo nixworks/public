@@ -21,7 +21,7 @@ The county clerk from Kentucky who was jailed after refusing to issue marriage l
 
 ##### Professor
 ### [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi--the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland--dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippiathe-woman-he-was-liv.md)
-_Context: Cleveland, Delta State University, Gautier, Mississippi, United States, professor_
+_Context: Cleveland, Delta State University, Gautier, Mississippi, U.S., professor_
 
 ##### Colombia
 ### [Colombia accuses Venezuela of violating its airspace for the second time in two days. ](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.md)

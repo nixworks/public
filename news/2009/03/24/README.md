@@ -5,9 +5,9 @@ Formats: [HTML](2009/03/24/index.html)  [JSON](2009/03/24/index.json)  [XML](200
 
 ##### Immaculata University
 ### [ Immaculata University discovers the mass grave of 57 Irish immigrants in East Whiteland Township, Pennsylvania, United States. ](/news/2009/03/24/immaculata-university-discovers-the-mass-grave-of-57-irish-immigrants-in-east-whiteland-township-pennsylvania-united-states.md)
-_Context: East Whiteland Township, Immaculata University, Irish, Pennsylvania, United States, mass grave, migrants_
+_Context: East Whiteland Township, Immaculata University, Irish, Pennsylvania, U.S., mass grave, migrants_
 
-##### United States
+##### U.S.
 ### [ The United States' federal government announces a plan to increase security along its border with Mexico. ](/news/2009/03/24/the-united-states-federal-government-announces-a-plan-to-increase-security-along-its-border-with-mexico.md)
 Mexicans desperate for an end to drug gang murders, abductions and extortion saw a glimmer of hope on Tuesday as the United States vowed to tighten security on the increasingly violent border.
 

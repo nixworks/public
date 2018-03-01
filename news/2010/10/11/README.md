@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/11/index.html)  [JSON](2010/10/11/index.json)  [XML](201
 
 ##### Surgeon
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
+_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
 
 ##### Government of Bolivia
 ### [The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. ](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.md)
@@ -87,9 +87,9 @@ The film adaptation of The Hobbit could become the most expensive movie of all t
 ### [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md)
 _Context: Indian Army, Kashmir_
 
-##### Afghanistan President
+##### Afghan President
 ### [Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-year-war.md)
-_Context: Afghanistan President, Hamid Karzai, Taliban, War in Afghanistan (2001-present)_
+_Context: Afghan President, Hamid Karzai, Taliban, War in Afghanistan (2001-present)_
 
 ##### Telugu Desam
 ### [A Telugu Desam leader is murdered in broad daylight in a restaurant near Srikantam circle in Anantapur, India. ](/news/2010/10/11/a-telugu-desam-leader-is-murdered-in-broad-daylight-in-a-restaurant-near-srikantam-circle-in-anantapur-india.md)

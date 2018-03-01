@@ -17,7 +17,7 @@ _Context: Caspian Airlines, Flight 7908, Iran, black boxes_
 
 ##### Sears Tower
 ### [ The 110-story Sears Tower in Chicago, United States is renamed the Willis Tower. ](/news/2009/07/16/the-110-story-sears-tower-in-chicago-united-states-is-renamed-the-willis-tower.md)
-_Context: Chicago, Sears Tower, United States, Willis Tower_
+_Context: Chicago, Sears Tower, U.S., Willis Tower_
 
 ##### Earthquake
 ### [ A magnitude 6.1 earthquake occurs off the coast of Papua New Guinea but causes little damage. ](/news/2009/07/16/a-magnitude-6-1-earthquake-occurs-off-the-coast-of-papua-new-guinea-but-causes-little-damage.md)

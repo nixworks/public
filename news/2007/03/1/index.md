@@ -19,9 +19,9 @@ _Context: 1975, Balibo, Balibo Five, East Timor, Indonesia, NSW, Yunus Yosfiah, 
 ### [ Eight people die in a landmine explosion in Chhattisgarh, India. ](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.md)
 _Context: Chhattisgarh, India, landmine_
 
-##### United States
+##### U.S.
 ### [ The United States formally charges David Hicks with aiding the Taliban. He will be the first person tried under the new law for military commissions. ](/news/2007/03/1/the-united-states-formally-charges-david-hicks-with-aiding-the-taliban-he-will-be-the-first-person-tried-under-the-new-law-for-military-co.md)
-_Context: David Hicks, Guantanamo military commission, Taliban, United States_
+_Context: David Hicks, Guantanamo military commission, Taliban, U.S._
 
 ##### Senegal
 ### [ Senegalese election officials confirm that Abdoulaye Wade has been re-elected as the President of Senegal. ](/news/2007/03/1/senegalese-election-officials-confirm-that-abdoulaye-wade-has-been-re-elected-as-the-president-of-senegal.md)

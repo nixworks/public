@@ -15,7 +15,7 @@ Formats: [HTML](/news/2006/09/15/the-u-s-state-department-s-annual-report-on-rel
 
 ### Related:
 
-1. [King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Government of Saudi Arabia_
+1. [Saudi King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/saudi-king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md) _Context: Government of Saudi Arabia_
 2. [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md) _Context: Government of Saudi Arabia_
 3. [The U.S. State Department has approved a package of potential arms sales worth more than USD$ 3.8 billion to the Kingdom of Bahrain including F-16 jets, upgrades, missiles and patrol boats. ](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.md) _Context: U.S. State Department_
 4. [The U.S. State Department announces that it will ban travel to North Korea, following the death of Otto Warmbier. ](/news/2017/07/21/the-u-s-state-department-announces-that-it-will-ban-travel-to-north-korea-following-the-death-of-otto-warmbier.md) _Context: U.S. State Department_

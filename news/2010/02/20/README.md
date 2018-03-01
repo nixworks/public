@@ -43,9 +43,9 @@ _Context: Darfur, Justice and Equality Movement, N'Djamena, Sudan, Sudanese gove
 ### [30 people are killed in an air strike by the Pakistan Army in South Waziristan. ](/news/2010/02/20/30-people-are-killed-in-an-air-strike-by-the-pakistan-army-in-south-waziristan.md)
 Army says it targeted fighters in the Shawal mountains of South Waziristan.
 
-##### Afghanistan President
+##### Afghan President
 ### [President of Afghanistan Hamid Karzai, addressing parliament with a photo of an 8-year-old girl who lost 12 relatives to ISAF rocket fire during Operation Moshtarak, urges foreign troops to do more to prevent civilian deaths. ](/news/2010/02/20/president-of-afghanistan-hamid-karzai-addressing-parliament-with-a-photo-of-an-8-year-old-girl-who-lost-12-relatives-to-isaf-rocket-fire-du.md)
-_Context: Afghan civilians, Afghanistan President, Hamid Karzai, International Security Assistance Force, Operation Moshtarak_
+_Context: Afghan President, Afghan civilians, Hamid Karzai, International Security Assistance Force, Operation Moshtarak_
 
 ##### African Union
 ### [The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md)

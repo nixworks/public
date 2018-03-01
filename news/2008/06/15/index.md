@@ -21,7 +21,7 @@ U.S-led and Afghan forces killed more than 15 insurgents in a search for hundred
 
 ##### Shiite
 ### [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md)
-_Context: Iraq, Muqtada al-Sadr, Shiite, United States_
+_Context: Iraq, Muqtada al-Sadr, Shiite, U.S._
 
 ##### Tiger Woods
 ### [ Tiger Woods and Rocco Mediate will play in an 18-hole playoff to determine the winner of the 2008 U.S. Open Golf Championship. ](/news/2008/06/15/tiger-woods-and-rocco-mediate-will-play-in-an-18-hole-playoff-to-determine-the-winner-of-the-2008-u-s-open-golf-championship.md)

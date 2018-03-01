@@ -49,7 +49,7 @@ _Context: Bhikkhu, Buddhist, China, Drepung monastery, Tibet_
 
 ##### 
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
-##### United States diplomatic cables leak
+##### 250,000 documents
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -69,7 +69,7 @@ _Context: Armenian, Turkish, United States House of Representatives, genocide of
 ### [Ongoing flooding in California kills at least three people. ](/news/2010/12/22/ongoing-flooding-in-california-kills-at-least-three-people.md)
 Flood waters on Tuesday ripped through a retirement community in northwestern Arizona, washing away four homes; Utah, Nevada besieged.
 
-##### United States
+##### U.S.
 ### [The United States approves more than $4 billion assistance for rescuers and residents whose health was affected after the September 11 attacks in New York City in 2001. ](/news/2010/12/22/the-united-states-approves-more-than-4-billion-assistance-for-rescuers-and-residents-whose-health-was-affected-after-the-september-11-attac.md)
 More than $4bn committed to help rescuers and residents whose health was affected after 2001 attacks in New York.
 

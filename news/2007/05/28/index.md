@@ -17,7 +17,7 @@ _Context: Minister of Agriculture, Toshikatsu Matsuoka_
 
 ##### Iran
 ### [ Officials from Iran and the United States hold their first talks since 1980 with the topic being the future of Iraq. ](/news/2007/05/28/officials-from-iran-and-the-united-states-hold-their-first-talks-since-1980-with-the-topic-being-the-future-of-iraq.md)
-_Context: 1980, Iran, Iraq, United States_
+_Context: 1980, Iran, Iraq, U.S._
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: At least 19 people die after a car bomb detonates in Baghdad. ](/news/2007/05/28/iraqi-insurgency-at-least-19-people-die-after-a-car-bomb-detonates-in-baghdad.md)

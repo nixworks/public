@@ -11,7 +11,7 @@ _Context: Aung San Suu Kyi, Burma, house arrest_
 ### [Nstor Kirchner is buried amid a mass outpouring of grief in Argentina. ](/news/2010/10/29/nestor-kirchner-is-buried-amid-a-mass-outpouring-of-grief-in-argentina.md)
 Thousands of Argentines filed past a flag-draped coffin to pay their respects to former president Nestor Kirchner last night, then lined the capital&#039;s rain-slicked streets for a glimpse of his hearse as it passed by.
 
-##### United States
+##### U.S.
 ### [An American judge has ruled that a six-year-old may be sued for negligence after crashing into an elderly woman while riding a bicycle at age four.](/news/2010/10/29/an-american-judge-has-ruled-that-a-six-year-old-may-be-sued-for-negligence-after-crashing-into-an-elderly-woman-while-riding-a-bicycle-at-ag.md)
 A girl aged four can be sued for crashing a bicycle into an elderly pedestrian and causing injuries that led to her death, a judge in New York rules.
 

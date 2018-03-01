@@ -11,9 +11,9 @@ Gozitan Mgr Alfred Xuereb, 54, has been asked to serve as personal secretary to 
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)
 UPDATE 12:09 p.m. ET President Barack Obama on Monday highlighted the professional experience as well as the background of Assistant Attorney General Tom Perez, head of the Justice Department&#x27;s Civil Rights Division, as he announced Perez&#x27;s nomination as the next secretary of labor. Obama ...
 
-##### United States
+##### U.S.
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: Hillary Clinton, United States, United States Secretary of State, same-sex marriage_
+_Context: Hillary Clinton, U.S., United States Secretary of State, same-sex marriage_
 
 ##### United Kingdom
 ### [The UK's three main political parties reach an agreement on measures to regulate the British press. ](/news/2013/03/18/the-uk-s-three-main-political-parties-reach-an-agreement-on-measures-to-regulate-the-british-press.md)
@@ -25,7 +25,7 @@ The opposition Syrian National Coalition chose Western-educated former businessm
 
 ##### FBI
 ### [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md)
-_Context: Boston, FBI, Isabella Stewart Gardner Museum, United States, art heist_
+_Context: Boston, FBI, Isabella Stewart Gardner Museum, U.S., art heist_
 
 ##### Student
 ### [James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. ](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the-university-of-central-florida-pulls-the-fire-alarm-and-plans-to-attack-the-school-instead.md)
@@ -49,7 +49,7 @@ WASHINGTON D.C. – North Korea today warned that Japan would &quot;not be exemp
 
 ##### Chinese
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: Chinese, North Korea, United States, Washington, D.C., missile defence_
+_Context: Chinese, North Korea, U.S., Washington, D.C., missile defence_
 
 ##### President of Argentina
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)

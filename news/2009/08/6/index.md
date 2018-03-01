@@ -69,7 +69,7 @@ Brazil announced it was returning 1.500 tonnes of hazardous waste that arrived f
 
 ##### Argentina
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
-_Context: Alvaro Uribe, Argentina, Bolivia, Brazil, Colombia, Colombian President, Peru, United States, Venezuela_
+_Context: Alvaro Uribe, Argentina, Bolivia, Brazil, Colombia, Colombian President, Peru, U.S., Venezuela_
 
 ##### New Zealand
 ### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)

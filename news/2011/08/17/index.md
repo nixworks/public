@@ -47,9 +47,9 @@ Verizon Communications Inc. told 45,000 striking workers that it will suspend ce
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
 _Context: Poland, Przewozy Regionalne_
 
-##### Afghanistan President
+##### Afghan President
 ### [A rocket is fired into the compound of the President of Afghanistan in Kabul. ](/news/2011/08/17/a-rocket-is-fired-into-the-compound-of-the-president-of-afghanistan-in-kabul.md)
-_Context: Afghanistan President, Kabul_
+_Context: Afghan President, Kabul_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

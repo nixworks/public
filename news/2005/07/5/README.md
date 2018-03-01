@@ -57,11 +57,11 @@ _Context: humans lived in the Americas_
 
 ##### United Church of Christ
 ### [ The United Church of Christ becomes the first mainline U.S. Christian denomination to officially support same-sex marriages by passing a resolution calling for member churches to consider wedding policies "that do not discriminate against couples based on gender." It also asks churches to consider supporting legislation granting equal marriage rights to gay and lesbian couples and to work against laws banning gay marriage. ](/news/2005/07/5/the-united-church-of-christ-becomes-the-first-mainline-u-s-christian-denomination-to-officially-support-same-sex-marriages-by-passing-a-re.md)
-_Context: Christian, United Church of Christ, United States, mainline, same-sex marriage_
+_Context: Christian, U.S., United Church of Christ, mainline, same-sex marriage_
 
 ##### Al Jazeera
 ### [ The Al Jazeera Network states it will be expanding by broadcasting English language content into the United States by March 2006. ](/news/2005/07/5/the-al-jazeera-network-states-it-will-be-expanding-by-broadcasting-english-language-content-into-the-united-states-by-march-2006.md)
-_Context: Al Jazeera, United States_
+_Context: Al Jazeera, U.S._
 
 ##### Kansas City Southern Railway
 ### [ Kansas City Southern Railway names Francisco Javier Rin as the new CEO, succeeding interim CEO Vicente Corta Fernandez, for its subsidiary Grupo Transportacin Ferroviaria Mexicana. Before joining TFM, Rin was president of Bombardier's Rail Control Solutions Division in London, England, from 2001 to 2005, president and managing director of Bombardier's Mexican division from 1995 to 2001, and general director of Dina Autobuses-Consorcin-Grupo Dina from 1991 to 1995. ](/news/2005/07/5/kansas-city-southern-railway-names-francisco-javier-rion-as-the-new-ceo-succeeding-interim-ceo-vicente-corta-fernandez-for-its-subsidiary.md)

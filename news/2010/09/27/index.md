@@ -17,7 +17,7 @@ _Context: Korean Workers' Party, North Korea, Pyongyang_
 
 ##### Brandon Joseph Rhode
 ### [Brandon Joseph Rhode is executed at a prison in Jackson, Georgia in the southern United States. ](/news/2010/09/27/brandon-joseph-rhode-is-executed-at-a-prison-in-jackson-georgia-in-the-southern-united-states.md)
-_Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
+_Context: Brandon Joseph Rhode, Georgia, Jackson, U.S._
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes at the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2010/09/27/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-at-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-h.md)

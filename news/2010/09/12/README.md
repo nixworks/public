@@ -91,7 +91,7 @@ Police say they have no information if man suspected of setting off blast in Cop
 ### [Israeli soldiers identify a group of armed men approaching Israel from Gaza near Kibbutz Erez, killing three; Palestinian sources claim that two were farmers. ](/news/2010/09/12/israeli-soldiers-identify-a-group-of-armed-men-approaching-israel-from-gaza-near-kibbutz-erez-killing-three-palestinian-sources-claim-that.md)
 Soldiers identify a group of armed men approaching security fence near Kibbutz Erez and kill 3; IDF reports no soldier casualties.
 
-##### United States
+##### U.S.
 ### [At least 3 people are killed by a United States missile attack on a home where associates of Tehrik-i-Taliban Pakistan chief Hafiz Gul Bahadur were believed to be staying in northwest Pakistan. ](/news/2010/09/12/at-least-3-people-are-killed-by-a-united-states-missile-attack-on-a-home-where-associates-of-tehrik-i-taliban-pakistan-chief-hafiz-gul-bahad.md)
 A suspected U.S. missile strike Sunday killed at least five associates of a warlord who is fighting Western troops in Afghanistan, intelligence officials said.
 

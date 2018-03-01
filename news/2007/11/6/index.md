@@ -15,9 +15,9 @@ Efficient took out the Melbourne Cup with a blinding finish at Flemington this a
 ### [ Scores of students are injured and arrested ahead of protests in Venezuela. The demonstrations, scheduled for Wednesday, are to demand a delay to a referendum aimed at expanding the powers of Hugo Chavez. ](/news/2007/11/6/scores-of-students-are-injured-and-arrested-ahead-of-protests-in-venezuela-the-demonstrations-scheduled-for-wednesday-are-to-demand-a-de.md)
 More than 50 people were injured and 35 arrested as Venezuelan university students clashed with police two days before planned protests against President Hugo Chavez&#039;s constitutional reforms.
 
-##### King
+##### Saudi King
 ### [ King Abdullah of Saudi Arabia visits the Vatican in what is the first audience by the head of the Roman Catholic Church with a Saudi monarch. ](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.md)
-_Context: Abdullah, King, Saudi Arabia, Vatican_
+_Context: Abdullah, Saudi Arabia, Saudi King, Vatican_
 
 ##### Forms a temporary coalition government
 ### [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-a-149-days-have-pas.md)

@@ -47,7 +47,7 @@ _Context: Philippines, World Bank_
 ### [Bombardier Aerospace, a Canadian manufacturer, signs a letter of intent to sell Iraq's national carrier five CSeries jets with options for 11 more. ](/news/2013/11/19/bombardier-aerospace-a-canadian-manufacturer-signs-a-letter-of-intent-to-sell-iraq-s-national-carrier-five-cseries-jets-with-options-for-1.md)
 Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliners to Iraqi Airways, the Canadian plane and train maker said on Tuesday.
 
-##### United States
+##### U.S.
 ### [The United States commemorates the 150th anniversary of the Gettysburg Address. ](/news/2013/11/19/the-united-states-commemorates-the-150th-anniversary-of-the-gettysburg-address.md)
 When president Abraham Lincoln dedicated a cemetery on the Gettysburg battlefield 150 years ago on Tuesday, the US had already been at war with itself for almost three years. The nation would fight on for another 18 months, and by then almost a million people would be dead or wounded.
 

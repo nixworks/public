@@ -51,7 +51,7 @@ A massive fire sweeps through one of the oldest markets in the eastern Indian ci
 ### [A massive fire raging on Mount Kenya devours thousands of hectares of ancient forests and threatens wildlife. ](/news/2012/03/22/a-massive-fire-raging-on-mount-kenya-devours-thousands-of-hectares-of-ancient-forests-and-threatens-wildlife.md)
 Week-long blaze destroys thousands of hectares of forest crucial for water catchment and threatens wildlife.
 
-##### United States
+##### U.S.
 ### [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md)
 The number of first-time filers for unemployment insurance fell to a four-year low last week, hinting that strong job growth likely continued in March.
 

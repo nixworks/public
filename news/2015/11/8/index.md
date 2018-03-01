@@ -55,7 +55,7 @@ Once known as a Polish center, Hamtramck now has big Arab and Bangladeshi popula
 ### [John Lennon's guitar sells for over $2.5 million ](/news/2015/11/8/john-lennon-s-guitar-sells-for-over-2-5-million.md)
 An acoustic guitar thought to be have been used by John Lennon to write hits like Love Me Do sells at auction in California for $2.4m (£1.5m).
 
-##### United States
+##### U.S.
 ### [In the United States, University of Missouri head football coach Gary Pinkel tweets his support for the 30 black football players who, because of racial tensions on campus, are boycotting team activities until the president of the University of Missouri System, Tim Wolfe, is removed. Pinkel and athletics director Mack Rhoades issue a statement that the Tigers will not resume football activities until Missouri student Jonathan Butler ends his hunger strike against Wolfe. ](/news/2015/11/8/in-the-united-states-university-of-missouri-head-football-coach-gary-pinkel-tweets-his-support-for-the-30-black-football-players-who-becau.md)
 In a statement released Sunday evening from head coach Gary Pinkel and athletics director Mack Rhoades, Missouri&#8217;s leadership appeared further in lockstep with their decision to side with the…
 

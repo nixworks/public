@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/30/helping-angels-was-founded-by-poesy-liang.html)
 
 ### [2007-08-30](/news/2007/08/30/index.md)
 
-##### Helping Angels
+##### Poesy Liang
 #  Helping Angels was founded by Poesy Liang.
 
 

@@ -11,7 +11,7 @@ Turkish IHH activist, Viva Palestina organizer set to speak in New York at event
 ### [Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md)
 Ethnic Uzbeks say the military has killed civilians in southern Kyrgyzstan.
 
-##### United States
+##### U.S.
 ### [An American claiming to be hunting Osama bin Laden is arrested with a sword, a pistol and night-vision goggles in northwestern Pakistan.](/news/2010/06/15/an-american-claiming-to-be-hunting-osama-bin-laden-is-arrested-with-a-sword-a-pistol-and-night-vision-goggles-in-northwestern-pakistan.md)
 Pakistan detains US armed man for trying to cross into Afghanistan to hunt al-Qaeda leader.
 

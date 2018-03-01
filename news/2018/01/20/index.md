@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/20/index.html)  [JSON](2018/01/20/index.json)  [XML](201
 
 ##### Odebrecht case in Guatemala
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
+_Context: Manuel Baldizon, Odebrecht case in Guatemala, U.S._
 
 ##### 2018 Women's March
 ### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world in cities such as Rome, Italy internationally, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md)

@@ -49,7 +49,7 @@ Twelve people are detained in two raids targeting groups linked to armed fighter
 
 ##### Extradite
 ### [The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. ](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-bout-from-thailand-to-the-united-states-moves-a-step-closer-after-a-thai-court-dismisses-mone.md)
-_Context: Thailand, United States, Viktor Bout, arms dealer, extradite, money laundering_
+_Context: Thailand, U.S., Viktor Bout, arms dealer, extradite, money laundering_
 
 ##### Societe Generale
 ### [Former Societe Generale trader Jerome Kerviel is sentenced to three years in jail in France for his role in the 2008 Societe Generale trading loss. ](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.md)

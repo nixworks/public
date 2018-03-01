@@ -17,7 +17,7 @@ _Context: England, European City of Culture, La Princesse, Liverpool_
 
 ##### Unemployment
 ### [ The unemployment rate in the United States rises to its highest level since December 2003 after the US economy loses 84,000 jobs in August 2008. ](/news/2008/09/5/the-unemployment-rate-in-the-united-states-rises-to-its-highest-level-since-december-2003-after-the-us-economy-loses-84-000-jobs-in-august.md)
-_Context: August, December 2003, US economy, United States, unemployment_
+_Context: August, December 2003, U.S., US economy, unemployment_
 
 ##### Pakistan
 ### [ Pakistan reinstates Supreme Court judges ousted by former President Pervez Musharraf. ](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.md)

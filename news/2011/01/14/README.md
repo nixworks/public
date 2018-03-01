@@ -13,7 +13,7 @@ _Context: G. K. Pillai, India, Kashmir, New Delhi_
 
 ##### Reince Priebus
 ### [Reince Priebus of Wisconsin is elected as the chairman of the United States Republican National Committee. ](/news/2011/01/14/reince-priebus-of-wisconsin-is-elected-as-the-chairman-of-the-united-states-republican-national-committee.md)
-_Context: Reince Priebus, Republican National Committee, United States, Wisconsin_
+_Context: Reince Priebus, Republican National Committee, U.S., Wisconsin_
 
 ##### Labour Party
 ### [In the UK, Labour wins the Oldham East and Saddleworth by-election with a majority of more than 3,500. ](/news/2011/01/14/in-the-uk-labour-wins-the-oldham-east-and-saddleworth-by-election-with-a-majority-of-more-than-3-500.md)
@@ -57,7 +57,7 @@ WikiLeaks and Founder Julian Assange Will Not Be Added to Economic Terrorist Bla
 
 ##### Barack Obama
 ### [The Obama administration in the United States eases travel and other restrictions on Cuba. ](/news/2011/01/14/the-obama-administration-in-the-united-states-eases-travel-and-other-restrictions-on-cuba.md)
-_Context: Barack Obama, Cuba, Obama administration, United States_
+_Context: Barack Obama, Cuba, Obama administration, U.S._
 
 ##### South Africa
 ### [South Africa's chief rabbi Warren Goldstein criticises a controversial petition launched by three Jewish Capetonians calling for Archbishop Emeritus and Nobel Peace laureate Desmond Tutu to be axed as patron of two Holocaust centers. ](/news/2011/01/14/south-africa-s-chief-rabbi-warren-goldstein-criticises-a-controversial-petition-launched-by-three-jewish-capetonians-calling-for-archbishop.md)
@@ -111,9 +111,9 @@ _Context: BP, Rosneft_
 ### [Thousands of people march through the cities of Amman, Ma'an, Karak, Salt and Irbidin and other parts of Jordan, objecting to the government's inability to stop poverty and increased living costs. Prime Minister Samir Rifai, described as a "coward", is asked to resign. ](/news/2011/01/14/thousands-of-people-march-through-the-cities-of-amman-ma-an-karak-salt-and-irbidin-and-other-parts-of-jordan-objecting-to-the-government.md)
 _Context: Al Karak, Amman, Jordan, Ma'an, Prime Minister, Salt, Samir Rifai_
 
-##### United States
+##### U.S.
 ### [American actress Zsa Zsa Gabor has her leg amputated. ](/news/2011/01/14/american-actress-zsa-zsa-gabor-has-her-leg-amputated.md)
-_Context: United States, Zsa Zsa Gabor_
+_Context: U.S., Zsa Zsa Gabor_
 
 ##### Blues
 ### [Blues musician Etta James is diagnosed with dementia and is undergoing treatment for leukaemia. ](/news/2011/01/14/blues-musician-etta-james-is-diagnosed-with-dementia-and-is-undergoing-treatment-for-leukaemia.md)

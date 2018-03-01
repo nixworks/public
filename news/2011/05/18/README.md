@@ -41,7 +41,7 @@ _Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II
 
 ##### Dmitry Medvedev
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Cold War, Dmitry Medvedev, Russia, Russian President, United States, missile defense_
+_Context: Cold War, Dmitry Medvedev, Russia, Russian President, U.S., missile defense_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)
@@ -75,9 +75,9 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 ### [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md)
 Sudan has carried out another air strike on a village in the troubled western region of Darfur, according to the UN.
 
-##### United States
+##### U.S.
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
-_Context: 2011 Syrian uprising, Bashar al-Assad, President, United States, human rights_
+_Context: 2011 Syrian uprising, Bashar al-Assad, President, U.S., human rights_
 
 ##### Afghanistan
 ### [At least twelve people are killed and 80 injured during a protest in the Afghan city of Taloqan against the killing of four civilians in a NATO raid. ](/news/2011/05/18/at-least-twelve-people-are-killed-and-80-injured-during-a-protest-in-the-afghan-city-of-taloqan-against-the-killing-of-four-civilians-in-a-n.md)

@@ -33,7 +33,7 @@ _Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen_
 
 ##### Afghanistan
 ### [ Afghan President Hamid Karzai's main rival Abdullah Abdullah alleges fraud in the presidential election. ](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.md)
-_Context: Abdullah Abdullah, Afghanistan, Afghanistan President, Hamid Karzai, presidential election_
+_Context: Abdullah Abdullah, Afghan President, Afghanistan, Hamid Karzai, presidential election_
 
 ##### Fidel Castro
 ### [ A new picture of Fidel Castro is published in the "Juventud Rebelde" state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader-in.md)

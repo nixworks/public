@@ -33,7 +33,7 @@ Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion 
 
 ##### Pope Francis%27 visit to the United States
 ### [Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md)
-_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, Italy, United States_
+_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, Italy, U.S._
 
 ##### ISIL
 ### [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md)

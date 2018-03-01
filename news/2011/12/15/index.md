@@ -43,7 +43,7 @@ _Context: China, Ningxia_
 ### [The 2010 United States Census shows 1 in 2 people are classified as low-income or poor. ](/news/2011/12/15/the-2010-united-states-census-shows-1-in-2-people-are-classified-as-low-income-or-poor.md)
 _Context: 2010 Census_
 
-##### United States
+##### U.S.
 ### [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md)
 The flag of American forces in Iraq has been lowered in Baghdad bringing nearly nine years of US military operations in Iraq to a formal end.
 

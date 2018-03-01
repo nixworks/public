@@ -59,9 +59,9 @@ Czech President Vaclav Klaus may be the European Union’s bad boy now, but gene
 ### [ The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md)
 Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, accompanied by his family, partner Andrew Cowles and the other members of Boyzone.
 
-##### United States
+##### U.S.
 ### [ The United States records a budget deficit of $1.42 trillion. ](/news/2009/10/16/the-united-states-records-a-budget-deficit-of-1-42-trillion.md)
-_Context: United States, budget deficits_
+_Context: U.S., budget deficits_
 
 ##### Botswana
 ### [ Voters in Botswana take part in a general election. ](/news/2009/10/16/voters-in-botswana-take-part-in-a-general-election.md)

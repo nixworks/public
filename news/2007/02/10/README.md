@@ -13,11 +13,11 @@ _Context: Ali Mohammed Ghedi, Djibouti, Islamic Courts Union, Ismail Qasim Naji,
 
 ##### Russia
 ### [ Russian President Vladimir Putin criticizes the United States for its "almost uncontained" use of force around the world during his speech at the 43rd annual Munich Conference on Security Policy. ](/news/2007/02/10/russian-president-vladimir-putin-criticizes-the-united-states-for-its-almost-uncontained-use-of-force-around-the-world-during-his-speech.md)
-_Context: Munich Conference on Security Policy, Russia, Russian President, United States, Vladimir Putin, use of force_
+_Context: Munich Conference on Security Policy, Russia, Russian President, U.S., Vladimir Putin, use of force_
 
 ##### Iraq War
 ### [ Iraq War: General David Petraeus takes command of the United States forces in Iraq. ](/news/2007/02/10/iraq-war-general-david-petraeus-takes-command-of-the-united-states-forces-in-iraq.md)
-_Context: David Petraeus, Iraq, Iraq War, United States_
+_Context: David Petraeus, Iraq, Iraq War, U.S._
 
 ## [Previous Day...](/news/2007/02/9/index.md)
 

@@ -31,7 +31,7 @@ _Context: Baltimore, Carlisle, Johns Hopkins Hospital, Pennsylvania, USA_
 ### [The European Commission approves a Spanish government plan to shrink and restructure three major Spanish banks (Bankia, NCG Banco and Catalunya Banc) and sell a fourth (Banco de Valencia). ](/news/2012/11/28/the-european-commission-approves-a-spanish-government-plan-to-shrink-and-restructure-three-major-spanish-banks-bankia-ncg-banco-and-catalu.md)
 The European Commission gives the go-ahead to a major restructuring of four nationalised Spanish banks, which includes bank closures and thousands of job losses.
 
-##### United States
+##### U.S.
 ### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 "Deepwater Horizon" oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
 BP Plc, which agreed to plead guilty to criminal charges after the worst oil spill in U.S. history, will be suspended from winning new contracts from the federal government, the U.S. Environmental Protection Agency said today.
 

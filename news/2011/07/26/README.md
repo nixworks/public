@@ -37,7 +37,7 @@ _Context: Omar Toure, Senegal_
 
 ##### North Korea
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, North Korea, North Korea's nuclear program, United States, six party talks_
+_Context: Kim Kye Gwan, North Korea, North Korea's nuclear program, U.S., six party talks_
 
 ##### Morocco
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)

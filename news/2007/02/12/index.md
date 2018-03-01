@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/12/index.html)  [JSON](2007/02/12/index.json)  [XML](200
 
 ##### Australia
 ### [ Australian Prime Minister John Howard criticizes U.S. Senator Barack Obama (D-IL) for his stance on Iraq, saying that al-Qaeda in Iraq should be praying for Obama to win the election. The opposition Australian Labor Party says that Howard's statement imperiled the relationship Australia might have with the United States under a Democratic administration. ](/news/2007/02/12/australian-prime-minister-john-howard-criticizes-u-s-senator-barack-obama-d-il-for-his-stance-on-iraq-saying-that-al-qaeda-in-iraq-shou.md)
-_Context: 2008, Australia, Australian Labor Party, Barack Obama, Democrat, Illinois, Iraq, John Howard, Prime Minister, United States, United States Senate, al-Qaeda in Iraq, opposition party, relationship_
+_Context: 2008, Australia, Australian Labor Party, Barack Obama, Democrat, Illinois, Iraq, John Howard, Prime Minister, U.S., United States Senate, al-Qaeda in Iraq, opposition party, relationship_
 
 ##### Israel
 ### [ Israel has carried out a successful test of its Arrow missile, the defence ministry says. ](/news/2007/02/12/israel-has-carried-out-a-successful-test-of-its-arrow-missile-the-defence-ministry-says.md)
@@ -13,7 +13,7 @@ _Context: Arrow missile, Israel, defence ministry_
 
 ##### Taiwan
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, U.S., coalition allies, independence_
 
 ##### Sea Shepherd
 ### [ The Sea Shepherd Conservation Society claims that one of its ships has collided with a Japanese whaling vessel in the Ross Sea, leading to the Japanese vessel lodging a distress call. ](/news/2007/02/12/the-sea-shepherd-conservation-society-claims-that-one-of-its-ships-has-collided-with-a-japanese-whaling-vessel-in-the-ross-sea-leading-to.md)
@@ -47,17 +47,17 @@ _Context: Italy, Red Brigades_
 ### [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in-d.md)
 _Context: Dujail, Iraq, Saddam Hussein, Supreme Iraqi Criminal Tribunal, Taha Yassin Ramadan, Vice President, assassination, sentenced to death_
 
-##### United States
+##### U.S.
 ### [ United States Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, announces that tentative agreement has been reached over North Korean nuclear disarmament pending review by the signatories. ](/news/2007/02/12/united-states-assistant-secretary-of-state-for-east-asian-and-pacific-affairs-christopher-r-hill-announces-that-tentative-agreement-has.md)
-_Context: Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, North Korea, United States_
+_Context: Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, North Korea, U.S._
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad states in an interview that Iran does not fear the U.S. and that any foreign attack would be "severely punished". ](/news/2007/02/12/iranian-president-mahmoud-ahmadinejad-states-in-an-interview-that-iran-does-not-fear-the-u-s-and-that-any-foreign-attack-would-be-severel.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, United States_
+_Context: Iran, Mahmoud Ahmadinejad, President, U.S._
 
 ##### Virginia Supreme Court
 ### [ A suspicious brown substance is found in envelope at the Virginia Supreme Court building in Richmond, Virginia, United States, on the same day that Senator John McCain (R-AZ) speaks at the Jefferson Hotel. ](/news/2007/02/12/a-suspicious-brown-substance-is-found-in-envelope-at-the-virginia-supreme-court-building-in-richmond-virginia-united-states-on-the-same.md)
-_Context: Arizona, Jefferson Hotel, John McCain, Republican, Richmond, Virginia, United States, United States Senate, Virginia Supreme Court_
+_Context: Arizona, Jefferson Hotel, John McCain, Republican, Richmond, Virginia, U.S., United States Senate, Virginia Supreme Court_
 
 ##### Mozambique
 ### [ Approximately 60,000 people in Mozambique are evacuated in the Zambezi River valley due to floods caused by three weeks of heavy rain. ](/news/2007/02/12/approximately-60-000-people-in-mozambique-are-evacuated-in-the-zambezi-river-valley-due-to-floods-caused-by-three-weeks-of-heavy-rain.md)

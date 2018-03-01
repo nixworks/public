@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/18/index.html)  [JSON](2009/06/18/index.json)  [XML](200
 
 ##### South Africa
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: South Africa, United States, first case, swine flu_
+_Context: South Africa, U.S., first case, swine flu_
 
 ##### Jon Bon Jovi
 ### [ Jon Bon Jovi and Richie Sambora of rock band Bon Jovi are inducted into the Songwriters Hall of Fame at a ceremony in New York. ](/news/2009/06/18/jon-bon-jovi-and-richie-sambora-of-rock-band-bon-jovi-are-inducted-into-the-songwriters-hall-of-fame-at-a-ceremony-in-new-york.md)
@@ -57,7 +57,7 @@ _Context: altering_
 
 ##### Continental Airlines
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_
+_Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, U.S., pilot_
 
 ##### Atlas V
 ### [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md)

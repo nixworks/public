@@ -21,7 +21,7 @@ Talks planned for Wednesday cancelled after N. and S. Korea can&rsquo;t agree on
 
 ##### Indian Ocean
 ### [A UK government decision to create a controversial marine park in the Indian Ocean gets the go-ahead, though the intentions are questioned by former residents of the Chagos Islands all of whom were expelled by the British between 1965 and 1973 so that an airbase could be built by the United States on Diego Garcia. ](/news/2013/06/11/a-uk-government-decision-to-create-a-controversial-marine-park-in-the-indian-ocean-gets-the-go-ahead-though-the-intentions-are-questioned-b.md)
-_Context: Chagos Islands, Diego Garcia, Indian Ocean, United States_
+_Context: Chagos Islands, Diego Garcia, Indian Ocean, U.S._
 
 ##### Michael Bloomberg
 ### [Michael Bloomberg appeals to the New York Supreme Court's Appellate Division on the invalidation of a law limiting soft drink sales in New York City. ](/news/2013/06/11/michael-bloomberg-appeals-to-the-new-york-supreme-court-s-appellate-division-on-the-invalidation-of-a-law-limiting-soft-drink-sales-in-new-y.md)

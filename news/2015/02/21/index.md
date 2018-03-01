@@ -33,7 +33,7 @@ _Context: Brazil, General Motors_
 
 ##### United Steelworkers
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
-_Context: Motiva, United States, United Steelworkers, refinery_
+_Context: Motiva, U.S., United Steelworkers, refinery_
 
 ##### Islamic State in Iraq and the Levant
 ### [The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-artefacts-from-the-tomb-of-suleyman-shah-i.md)

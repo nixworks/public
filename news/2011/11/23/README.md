@@ -11,9 +11,9 @@ _Context: European Space Agency, Fobos-Grunt, Mars, Russia_
 ### [In a warning to Syrian President Bashar al-Assad to step down, Turkish Prime Minister Recep Tayyip Erdogan calls al-Assad's ongoing crackdown on protests cowardice, comparing al-Assad to past dictators such as Adolf Hitler and Muammar Gaddafi. ](/news/2011/11/23/in-a-warning-to-syrian-president-bashar-al-assad-to-step-down-turkish-prime-minister-recep-tayyip-erdoaan-calls-al-assad-s-ongoing-crackdo.md)
 _Context: 2011 Syrian uprising, Adolf Hitler, Bashar al-Assad, Muammar Gaddafi, Recep Tayyip Erdogan, Syrian President, Turkish Prime Minister_
 
-##### United States
+##### U.S.
 ### [The United States announces that it will stop observing the 1990 Treaty on Conventional Armed Forces in Europe. The decision comes four years after Russia withdrew compliance from the treaty. ](/news/2011/11/23/the-united-states-announces-that-it-will-stop-observing-the-1990-treaty-on-conventional-armed-forces-in-europe-the-decision-comes-four-year.md)
-_Context: Russia, Treaty on Conventional Armed Forces in Europe, United States_
+_Context: Russia, Treaty on Conventional Armed Forces in Europe, U.S._
 
 ##### Superstition Mountains
 ### [Six people, including three children, are killed in an air crash in the Superstition Mountains in the U.S. state of Arizona. ](/news/2011/11/23/six-people-including-three-children-are-killed-in-an-air-crash-in-the-superstition-mountains-in-the-u-s-state-of-arizona.md)

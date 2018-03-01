@@ -29,7 +29,7 @@ Twenty-one Roman Catholic priests are suspended in Philadelphia after the releas
 
 ##### Mexico
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United States_
+_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, U.S._
 
 ##### Syria
 ### [Syrian human rights activist and government critic Haitham al-Maleh is released from prison as part of an amnesty for those convicted of minor crimes and those aged over 70. ](/news/2011/03/8/syrian-human-rights-activist-and-government-critic-haitham-al-maleh-is-released-from-prison-as-part-of-an-amnesty-for-those-convicted-of-min.md)

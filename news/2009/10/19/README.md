@@ -21,7 +21,7 @@ _Context: Czech Republic, Prime Minister, Robert Fico's, Slovakia, Treaty of Lis
 
 ##### United Nations
 ### [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nationsabacked-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md)
-_Context: Afghanistan President, Hamid Karzai, United Nations, electoral fraud, presidential election_
+_Context: Afghan President, Hamid Karzai, United Nations, electoral fraud, presidential election_
 
 ##### Charles Wesley Mumbere
 ### [ Charles Wesley Mumbere is crowned king of the Bakonjo people in the Rwenzururu district of Uganda. ](/news/2009/10/19/charles-wesley-mumbere-is-crowned-king-of-the-bakonjo-people-in-the-rwenzururu-district-of-uganda.md)

@@ -11,9 +11,9 @@ _Context: Aral Sea, Ban Ki-moon, United Nations, United Nations Secretary-Genera
 ### [A 7.2-magnitude earthquake hits Baja California, about 108 miles east-southeast of Tijuana, says the U.S. Geological Survey. ](/news/2010/04/4/a-7-2-magnitude-earthquake-hits-baja-california-about-108-miles-east-southeast-of-tijuana-says-the-u-s-geological-survey.md)
 _Context: 7.2-magnitude earthquake, Baja California, Tijuana, U.S. Geological Survey_
 
-##### Afghanistan President
+##### Afghan President
 ### [President of Afghanistan Hamid Karzai threatens to join the Taliban if the Afghani Parliament refuses to approve his proposal to take control of the electoral apparatus from the United Nations. ](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Taliban, United Nations_
+_Context: Afghan President, Afghanistan, Hamid Karzai, Taliban, United Nations_
 
 ##### Triple bombings
 ### [Three car bombs hit the Egyptian, German and Iranian embassies in the centre of the Iraqi capital, Baghdad, in quick succession, killing at least 30 people. ](/news/2010/04/4/three-car-bombs-hit-the-egyptian-german-and-iranian-embassies-in-the-centre-of-the-iraqi-capital-baghdad-in-quick-succession-killing-at.md)

@@ -9,7 +9,7 @@ _Context: Gabon, Jean Eyeghe Ndong, Paul Biyogh Mba, Prime Minister_
 
 ##### Collision
 ### [ Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. ](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-between-two-muni-metro-light-rail-cars-at-the-west-portal-station-in-san-francisco-united-st.md)
-_Context: Muni Metro, San Francisco, United States, West Portal Station, collision, light rail cars_
+_Context: Muni Metro, San Francisco, U.S., West Portal Station, collision, light rail cars_
 
 ##### China
 ### [ China admits it shot dead 12 rioters in one riot incident in rmqi. ](/news/2009/07/18/china-admits-it-shot-dead-12-rioters-in-one-riot-incident-in-urumqi.md)
@@ -17,7 +17,7 @@ _Context: China, riots, rmqi_
 
 ##### United Kingdom
 ### [ Over 100 UK and US schoolchildren and teachers are quarantined in Beijing due to swine flu. ](/news/2009/07/18/over-100-uk-and-us-schoolchildren-and-teachers-are-quarantined-in-beijing-due-to-swine-flu.md)
-_Context: Beijing, United Kingdom, United States, swine flu_
+_Context: Beijing, U.S., United Kingdom, swine flu_
 
 ##### Brazil
 ### [ Brazil demands the return of over 1,400 tonnes of hazardous British waste. ](/news/2009/07/18/brazil-demands-the-return-of-over-1-400-tonnes-of-hazardous-british-waste.md)

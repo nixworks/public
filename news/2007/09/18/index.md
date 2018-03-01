@@ -41,7 +41,7 @@ _Context: United States Federal Reserve, interest rates, stock market_
 
 ##### Nuclear program
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: Iran, United Nations Security Council, United States, economic sanctions, nuclear program_
+_Context: Iran, U.S., United Nations Security Council, economic sanctions, nuclear program_
 
 ##### Meteorite impact in Peru
 ### [ A supposed meteorite impact in Peru leads to hundreds of nearby villagers falling ill from still unknown causes. ](/news/2007/09/18/a-supposed-meteorite-impact-in-peru-leads-to-hundreds-of-nearby-villagers-falling-ill-from-still-unknown-causes.md)

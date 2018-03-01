@@ -7,7 +7,7 @@ Formats: [HTML](2017/12/19/index.html)  [JSON](2017/12/19/index.json)  [XML](201
 ### [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act.md)
 President Rodrigo Duterte on Tuesday, December 19, signed into law the P3.8-trillion 2018 national budget, and the first package of the much-awaited tax reform program that seeks to raise P130 billion in revenues to bankroll his administration’s economic agenda. 
 
-##### United States
+##### U.S.
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-after-being-sent-to-the-united-stat.md)
 The House passed a sweeping tax bill Tuesday that slashes rates for corporations, adds new breaks for other businesses, and reorganizes the individual tax code
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/27/index.html)  [JSON](2009/11/27/index.json)  [XML](200
 
 ##### Shooting
 ### [ A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. ](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupiter-florida-united-states-kills-four-people-and-critically-wounds-a-fifth.md)
-_Context: Florida, Jupiter, Thanksgiving, United States, shooting_
+_Context: Florida, Jupiter, Thanksgiving, U.S., shooting_
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle "Atlantis" returns to Earth following the completion of its STS-129 mission. ](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.md)

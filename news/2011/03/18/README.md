@@ -11,9 +11,9 @@ Parliament faces a week of political gamesmanship and mounting election speculat
 ### [Former United States Secretary of State Warren Christopher died. ](/news/2011/03/18/former-united-states-secretary-of-state-warren-christopher-died.md)
 _Context: United States Secretary of State, Warren Christopher_
 
-##### King
+##### Saudi King
 ### [King Abdullah of Saudi Arabia addresses the nation in the context of regional unrest. ](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.md)
-_Context: Abdullah, King, regional unrest_
+_Context: Abdullah, Saudi King, regional unrest_
 
 ##### North Korea
 ### [North Korea announces that its Supreme People's Assembly will meet on April 7 in a possible change of leadership. ](/news/2011/03/18/north-korea-announces-that-its-supreme-people-s-assembly-will-meet-on-april-7-in-a-possible-change-of-leadership.md)

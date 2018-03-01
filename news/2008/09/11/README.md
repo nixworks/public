@@ -29,7 +29,7 @@ Seven years after the Sept. 11 attacks, there is no consensus outside the United
 
 ##### U.S. President
 ### [ President George W. Bush is reported to have authorized United States special forces to conduct operations against insurgents inside Pakistan without seeking approval from the Government of Pakistan. ](/news/2008/09/11/president-george-w-bush-is-reported-to-have-authorized-united-states-special-forces-to-conduct-operations-against-insurgents-inside-pakist.md)
-_Context: George W. Bush, U.S. President, United States, government_
+_Context: George W. Bush, U.S., U.S. President, government_
 
 ##### Evacuation
 ### [ Officials order the evacuation of Galveston Island in the U.S. state of Texas before Hurricane Ike makes landfall later in the week. ](/news/2008/09/11/officials-order-the-evacuation-of-galveston-island-in-the-u-s-state-of-texas-before-hurricane-ike-makes-landfall-later-in-the-week.md)

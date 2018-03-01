@@ -19,7 +19,7 @@ _Context: 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain_
 ### [An Indian court convicts 31 people on murder and conspiracy charges in relation to the Godhra train burning. ](/news/2011/02/22/an-indian-court-convicts-31-people-on-murder-and-conspiracy-charges-in-relation-to-the-godhra-train-burning.md)
 Global National with Dawna Friesen is Canada&#039;s early evening national newscast, and provides a distinctive voice and approach to the day&#039;s top stories. The multiple award-winning Global National has been voted Best Newscast by the Radio and Television News Directors Association (RTNDA) of ...
 
-##### United States
+##### U.S.
 ### [United States militant nativist Shawna Forde of the Minutemen Civil Defense Corps is sentenced to death in Arizona for her role in the murders of Raul and Brisenia Flores. ](/news/2011/02/22/united-states-militant-nativist-shawna-forde-of-the-minutemen-civil-defense-corps-is-sentenced-to-death-in-arizona-for-her-role-in-the-murde.md)
 Arizona border vigilante Shawna Forde has been sentenced to death for the 2009 murders of a 9-year-old girl and her father during a robbery to fund her militia.
 

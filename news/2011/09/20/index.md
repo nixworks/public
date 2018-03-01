@@ -15,7 +15,7 @@ _Context: Boca del Rio, Mexican, links to organised crime_
 ### [A group of Italian scientists go on trial for allegedly downplaying the risk of a major earthquake before the 2009 L'Aquila earthquake, which killed 308 people. ](/news/2011/09/20/a-group-of-italian-scientists-go-on-trial-for-allegedly-downplaying-the-risk-of-a-major-earthquake-before-the-2009-l-aquila-earthquake-whic.md)
 A group of Italian scientists went on trial yesterday accused of manslaughter for playing down the risks before an earthquake in L&#039;Aquila in 2009 that killed more than 300 people and razed the medieval city to the ground.
 
-##### United States military
+##### U.S. military
 ### [The United States military officially ends its policy known as "don't ask, don't tell" and allows homosexual personnel to publicly declare their sexual orientation without being dismissed. ](/news/2011/09/20/the-united-states-military-officially-ends-its-policy-known-as-don-t-ask-don-t-tell-and-allows-homosexual-personnel-to-publicly-declare-t.md)
 At 12:01 a.m. Tuesday, 1st Lt. Josh Seefried, who founded an undercover group of 4,000 gay, lesbian, bisexual and transgender active-duty service members, dropped his pseudonym.
 

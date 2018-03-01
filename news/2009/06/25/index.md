@@ -17,7 +17,7 @@ _Context: Honduras, Manuel Zelaya, President, Supreme Court, constitutional refe
 
 ##### Burma
 ### [ Burma denies any link to the North Korean ship "Kang Nam 1" being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violatio.md)
-_Context: Burma, Kang Nam 1, North Korea, United Nations, United States_
+_Context: Burma, Kang Nam 1, North Korea, U.S., United Nations_
 
 ##### Russia
 ### [ The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. ](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.md)

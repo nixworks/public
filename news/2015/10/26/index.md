@@ -35,7 +35,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 ### [The U.S. Navy plans to send guided missile destroyer USS Lassen within 12 nautical miles of artificial islands built by China in the South China Sea. This first freedom of navigation challenge to China's territorial claims in one of the world's busiest sea lanes may occur as soon as tomorrow, according to a U.S. defense official. ](/news/2015/10/26/the-u-s-navy-plans-to-send-guided-missile-destroyer-uss-lassen-within-12-nautical-miles-of-artificial-islands-built-by-china-in-the-south-c.md)
 The United States on Monday sent a guided-missile destroyer to challenge 12-nautical-mile territorial limits that China claims around artificial islands it built in the South China Sea.
 
-##### United States
+##### U.S.
 ### [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to "The Korea Times". The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md)
 U.S. says no to sale of U.S.-South Korean developed trainer jet to Uzbekistan.
 

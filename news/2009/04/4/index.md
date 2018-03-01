@@ -19,7 +19,7 @@ _Context: Islamabad, Pakistan, killed, paramilitary soldiers, suicide attack_
 ### [ Danish Prime Minister Anders Fogh Rasmussen will become NATO's Secretary General on August 1. ](/news/2009/04/4/danish-prime-minister-anders-fogh-rasmussen-will-become-nato-s-secretary-general-on-august-1.md)
 NATO leaders agreed unanimously on Saturday to appoint Danish Prime Minister Anders Fogh Rasmussen as the next head of the alliance after Turkey dropped its objections. NATO Secretary-General Jaap de Hoop Scheffer told a joint news conference with Rasmussen: &quot;You know that there has been discus...
 
-##### United States
+##### U.S.
 ### [ A U.S. drone aircraft's missile kills 13 people in North Waziristan, Pakistan. ](/news/2009/04/4/a-u-s-drone-aircraft-s-missile-kills-13-people-in-north-waziristan-pakistan.md)
 Reports from Pakistan say a US drone aircraft has fired a missile in the country&#039;s north-west, killing 13 people including some foreign militants.
 
@@ -29,7 +29,7 @@ _Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Devel
 
 ##### Police officers
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
-_Context: Pennsylvania, Pittsburgh, United States, killed, police officers_
+_Context: Pennsylvania, Pittsburgh, U.S., killed, police officers_
 
 ##### Llaima
 ### [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md)

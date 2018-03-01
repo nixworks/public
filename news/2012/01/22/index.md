@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/22/index.html)  [JSON](2012/01/22/index.json)  [XML](201
 
 ##### Yemen
 ### [Yemeni President Ali Abdullah Saleh announces that he is to leave for treatment in the United States. ](/news/2012/01/22/yemeni-president-ali-abdullah-saleh-announces-that-he-is-to-leave-for-treatment-in-the-united-states.md)
-_Context: Ali Abdullah Saleh, President, United States, Yemen_
+_Context: Ali Abdullah Saleh, President, U.S., Yemen_
 
 ##### Finnish Presidential election
 ### [The first round of the Presidential election takes place in Finland. ](/news/2012/01/22/the-first-round-of-the-presidential-election-takes-place-in-finland.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2005/11/4/index.html)  [JSON](2005/11/4/index.json)  [XML](2005/
 
 ## [2005-11-4](/news/2005/11/4/index.md)
 
-##### United States
+##### U.S.
 ### [ Massive demonstrations against U.S. President George W. Bush continue to grow at the Fourth Summit of the Americas in Mar del Plata, Argentina. ](/news/2005/11/4/massive-demonstrations-against-u-s-president-george-w-bush-continue-to-grow-at-the-fourth-summit-of-the-americas-in-mar-del-plata-argent.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

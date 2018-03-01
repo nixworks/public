@@ -25,7 +25,7 @@ _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime 
 
 ##### Ambassador
 ### [ The ambassadors from the United States and Italy to Sri Lanka are injured by mortar fire while visiting eastern Sri Lanka. ](/news/2007/02/27/the-ambassadors-from-the-united-states-and-italy-to-sri-lanka-are-injured-by-mortar-fire-while-visiting-eastern-sri-lanka.md)
-_Context: Italy, Mortar, Sri Lanka, United States, ambassador_
+_Context: Italy, Mortar, Sri Lanka, U.S., ambassador_
 
 ##### North Korea
 ### [ North Korea and South Korea meet at a ministerial level for the first time since the conclusion of six-party talks about the North Korean nuclear weapons program. ](/news/2007/02/27/north-korea-and-south-korea-meet-at-a-ministerial-level-for-the-first-time-since-the-conclusion-of-six-party-talks-about-the-north-korean-n.md)

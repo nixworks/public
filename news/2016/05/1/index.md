@@ -43,7 +43,7 @@ _Context: Punjab_
 ### [Kenyan authorities say the death toll from Friday's collapsed "eight-story" residential building in Nairobi has risen to 20, with 73 people missing. Rescuers continue searching for survivors. The building had been declared unfit for human habitation by the country's National Construction Authority, but remained standing. "Note": the building was originally reported as six stories; flooding had sunk the ground and first floors. ](/news/2016/05/1/kenyan-authorities-say-the-death-toll-from-friday-s-collapsed-eight-story-residential-building-in-nairobi-has-risen-to-20-with-73-people.md)
 NAIROBI, Kenya (AP) — Kenyan rescuers continued searching for survivors Sunday of a residential building in a low income area that collapsed Friday, as officials said the death toll has risen to 20 and 73 people remain…
 
-##### United States
+##### U.S.
 ### [In the United States, 14 of 175 cars of a CSX freight train derail in northeastern Washington, D.C., near a city subway station. There were three leaks; one, sodium hydroxide, is a hazardous material. All leaks, and a nearby gas line that was ruptured, are contained. Officials are unable to say when cleanup will be completed nor when train service will be restored. There were no injuries reported, and there was no residential evacuation. Amtrak and a Baltimore-Washington commuter rail service also use the line. ](/news/2016/05/1/in-the-united-states-14-of-175-cars-of-a-csx-freight-train-derail-in-northeastern-washington-d-c-near-a-city-subway-station-there-were.md)
 Crews are expected to work through the night to clean hazardous material spilled after a CSX train derailed in Washington, D.C. Sunday.
 

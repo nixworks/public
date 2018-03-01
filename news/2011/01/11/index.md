@@ -41,7 +41,7 @@ An official investigation in Kyrgyzstan into deadly ethnic clashes last year say
 
 ##### Airline
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
-_Context: Great Lakes, United States, airline, northeastern United States, southern United States_
+_Context: Great Lakes, U.S., airline, northeastern United States, southern United States_
 
 ##### Floods
 ### [The floods in the Australian state of Queensland continue to worsen, with ten people confirmed dead as search and rescue efforts continue to locate dozens of missing people. ](/news/2011/01/11/the-floods-in-the-australian-state-of-queensland-continue-to-worsen-with-ten-people-confirmed-dead-as-search-and-rescue-efforts-continue-to.md)

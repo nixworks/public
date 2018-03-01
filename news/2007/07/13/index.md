@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/13/index.html)  [JSON](2007/07/13/index.json)  [XML](200
 
 ##### North Korea
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: Korean peninsula, North Korea, United States_
+_Context: Korean peninsula, North Korea, U.S._
 
 ##### Luzon
 ### [ The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)

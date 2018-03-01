@@ -25,7 +25,7 @@ Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
 
 ##### Forestville
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: California, Forestville, Sonoma, United States_
+_Context: California, Forestville, Sonoma, U.S._
 
 ##### 2012 Delhi gang rape case
 ### [The trial of five men accused in the 2012 Delhi gang rape case begins today, while President of India Pranab Mukherjee approves the death penalty for rapists. ](/news/2013/02/5/the-trial-of-five-men-accused-in-the-2012-delhi-gang-rape-case-begins-today-while-president-of-india-pranab-mukherjee-approves-the-death-pe.md)

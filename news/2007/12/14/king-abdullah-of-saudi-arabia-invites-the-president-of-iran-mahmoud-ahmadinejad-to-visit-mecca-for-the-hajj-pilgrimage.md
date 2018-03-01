@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/14/king-abdullah-of-saudi-arabia-invites-the-presi
 
 ### [2007-12-14](/news/2007/12/14/index.md)
 
-##### King
+##### Saudi King
 #  King Abdullah of Saudi Arabia invites the President of Iran Mahmoud Ahmadinejad to visit Mecca for the Hajj pilgrimage. 
 
 

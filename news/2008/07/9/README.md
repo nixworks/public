@@ -17,7 +17,7 @@ _Context: Iran, Shahab-3, missile, test-fires_
 
 ##### Turkish police
 ### [ Three members of the Turkish police force are killed during an armed attack on the United States consulate in Istanbul with three attackers also dead. The US ambassador states that it is an "obvious case of terrorism". ](/news/2008/07/9/three-members-of-the-turkish-police-force-are-killed-during-an-armed-attack-on-the-united-states-consulate-in-istanbul-with-three-attackers.md)
-_Context: Istanbul, Turkish police, United States, armed attack_
+_Context: Istanbul, Turkish police, U.S., armed attack_
 
 ##### Peacekeepers
 ### [ Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations-African Union peacekeeping mission in Darfur. ](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-missing-following-an-ambush-on-a-patrol-by-the-joint-united-nations-african-union-peacekeeping.md)

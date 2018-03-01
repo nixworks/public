@@ -9,7 +9,7 @@ A man wanted on suspicion of kidnapping and torturing two women in Oregon is arr
 
 ##### Governor
 ### [Oklahoma Governor Mary Fallin issues a 37-day stay of Richard Glossip's execution that was scheduled for today to allow the American state time to address questions about chemicals and protocol. Pope Francis, who spent last week in the U.S., asked Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the United States, to intercede with the governor and request she commute Glossip's sentence. ](/news/2015/09/30/oklahoma-governor-mary-fallin-issues-a-37-day-stay-of-richard-glossip-s-execution-that-was-scheduled-for-today-to-allow-the-american-state-t.md)
-_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, United States, governor, stay, to the U.S._
+_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, U.S., governor, stay, to the U.S._
 
 ##### Georgia
 ### [The American state of Georgia executes Kelly Gissendaner for her role in the murder of her husband despite several appeals and a plea for clemency by Pope Francis. ](/news/2015/09/30/the-american-state-of-georgia-executes-kelly-gissendaner-for-her-role-in-the-murder-of-her-husband-despite-several-appeals-and-a-plea-for-cl.md)
@@ -59,7 +59,7 @@ A court sentenced five men to death and jailed seven for life on Wednesday for p
 ### [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md)
 The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Afghan military&rsquo;s bid to retake the city.
 
-##### Russian involvement in the Syrian Civil War
+##### Blocks
 ### [The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-armed-forces-outside-its-borders-following-a-req.md)
 The escalation comes after Russia&rsquo;s parliament backed the use of military force in Syria.
 

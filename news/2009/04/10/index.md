@@ -33,7 +33,7 @@ _Context: East Asia Summit, Fourth, Pattaya, Thailand_
 
 ##### Tornado
 ### [ At least 27 tornadoes kill six people throughout the Southern United States. ](/news/2009/04/10/at-least-27-tornadoes-kill-six-people-throughout-the-southern-united-states.md)
-_Context: Southern United States, United States, kill, tornado_
+_Context: Southern United States, U.S., kill, tornado_
 
 ##### Cape Fear Bank
 ### [ Cape Fear Bank in Wilmington, North Carolina, and New Frontier Bank in Greeley, Colorado, are shut down. ](/news/2009/04/10/cape-fear-bank-in-wilmington-north-carolina-and-new-frontier-bank-in-greeley-colorado-are-shut-down.md)

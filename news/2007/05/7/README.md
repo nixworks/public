@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/7/index.html)  [JSON](2007/05/7/index.json)  [XML](2007/
 
 ##### Mexico
 ### [ More than 18,000 Mexicans pose naked for U.S. photographer Spencer Tunick at the Zcalo Plaza in Mexico City. ](/news/2007/05/7/more-than-18-000-mexicans-pose-naked-for-u-s-photographer-spencer-tunick-at-the-zocalo-plaza-in-mexico-city.md)
-_Context: Mexico, Mexico City, Spencer Tunick, United States, Zcalo Plaza, photographer_
+_Context: Mexico, Mexico City, Spencer Tunick, U.S., Zcalo Plaza, photographer_
 
 ##### Bus
 ### [ At least 21 people die in a bus crash in northwest Pakistan. ](/news/2007/05/7/at-least-21-people-die-in-a-bus-crash-in-northwest-pakistan.md)

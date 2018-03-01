@@ -17,7 +17,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Iraqi army
 ### [ Iraqi forces and US troops attack Iraqi insurgents in Tal Afar. ](/news/2005/09/10/iraqi-forces-and-us-troops-attack-iraqi-insurgents-in-tal-afar.md)
-_Context: Iraqi army, Iraqi insurgent, Tal Afar, United States military_
+_Context: Iraqi army, Iraqi insurgent, Tal Afar, U.S. military_
 
 ##### Loyalist
 ### [ Several police have been injured when Loyalist gunmen open fire after the Whiterock Orange Order Parade in Belfast, Northern Ireland. ](/news/2005/09/10/several-police-have-been-injured-when-loyalist-gunmen-open-fire-after-the-whiterock-orange-order-parade-in-belfast-northern-ireland.md)

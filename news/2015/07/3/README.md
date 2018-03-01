@@ -65,7 +65,7 @@ The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Con
 
 ##### Yemeni Crisis (2011-present)
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
-_Context: United States, Yemen, Yemeni Crisis (2011-present)_
+_Context: U.S., Yemen, Yemeni Crisis (2011-present)_
 
 ##### 2015 Sousse attacks
 ### [The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in-tunisia-a-week-ago.md)

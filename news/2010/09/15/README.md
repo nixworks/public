@@ -7,9 +7,9 @@ Formats: [HTML](2010/09/15/index.html)  [JSON](2010/09/15/index.json)  [XML](201
 ### [North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu but sparking speculation about the health of Kim Jong-il. ](/news/2010/09/15/north-korea-s-ruling-workers-party-of-korea-cancels-its-largest-political-convention-in-thirty-years-officially-due-to-floods-caused-by-typ.md)
 _Context: Kim Jong-il, North Korea, Typhoon Kompasu, Workers' Party of Korea, flood_
 
-##### United States
+##### U.S.
 ### [An anti-American protest in Kabul, sparked in part by the 2010 Qur'an-burning controversy, turns violent with five members of the Afghan National Police being injured and two demonstrators being shot. ](/news/2010/09/15/an-anti-american-protest-in-kabul-sparked-in-part-by-the-2010-qur-an-burning-controversy-turns-violent-with-five-members-of-the-afghan-nat.md)
-_Context: 2010 Qur'an-burning controversy, Kabul, United States, police_
+_Context: 2010 Qur'an-burning controversy, Kabul, U.S., police_
 
 ##### Nigeria
 ### [Nigerian President Goodluck Jonathan announces he will contest the presidential election in January 2011. ](/news/2010/09/15/nigerian-president-goodluck-jonathan-announces-he-will-contest-the-presidential-election-in-january-2011.md)
@@ -23,9 +23,9 @@ _Context: Guinea, November's presidential poll_
 ### [Northern Territory Police call for reinforcements as violence breaks out amongst Australian aborigines in the town of Yuendumu following the death of an indigenous man. ](/news/2010/09/15/northern-territory-police-call-for-reinforcements-as-violence-breaks-out-amongst-australian-aborigines-in-the-town-of-yuendumu-following-the.md)
 Police are sheltering a number of people in a house at Yuendumu, as more forces arrive to deal with violence at the remote NT community.
 
-##### United States
+##### U.S.
 ### [The United States and Russia establish a working group to improve relations between the United States military and Russian military. ](/news/2010/09/15/the-united-states-and-russia-establish-a-working-group-to-improve-relations-between-the-united-states-military-and-russian-military.md)
-_Context: Russia, Russian military, United States, United States military_
+_Context: Russia, Russian military, U.S., U.S. military_
 
 ##### China
 ### [A Chinese fishing boat returns to Quanzhou after being captured by the Japan Coast Guard off the disputed Senkaku Islands. ](/news/2010/09/15/a-chinese-fishing-boat-returns-to-quanzhou-after-being-captured-by-the-japan-coast-guard-off-the-disputed-senkaku-islands.md)
@@ -47,7 +47,7 @@ _Context: Economy of Japan, Japan, exchange rate, foreign exchange market, yen_
 ### [A Chinese survey shows that 91 percent of the population oppose raising retirement age. The retirement age in China is generally set at 60 for men and 50-55 for women. ](/news/2010/09/15/a-chinese-survey-shows-that-91-percent-of-the-population-oppose-raising-retirement-age-the-retirement-age-in-china-is-generally-set-at-60-f.md)
 _Context: Chinese, retirement_
 
-##### United States
+##### U.S.
 ### [United States cartoonist Molly Norris of Seattle, Washington, who developed Everybody Draw Mohammed Day, goes into hiding following a death threat from an Islamist radical. ](/news/2010/09/15/united-states-cartoonist-molly-norris-of-seattle-washington-who-developed-everybody-draw-mohammed-day-goes-into-hiding-following-a-death.md)
 A cartoonist has disappeared from public view because she&#39;s on an Islamic cleric&#39;s hitlist for declaring &quot;Everybody Draw Mohammed Day&quot; last spring, according to a newspaper.
 
@@ -55,9 +55,9 @@ A cartoonist has disappeared from public view because she&#39;s on an Islamic cl
 ### [Pieces of an ancient necropolis taken from Egypt in 1999 are discovered in an antiques shop in Spain. ](/news/2010/09/15/pieces-of-an-ancient-necropolis-taken-from-egypt-in-1999-are-discovered-in-an-antiques-shop-in-spain.md)
 Pieces of an ancient Egyptian necropolis which were pillaged from Egypt in 1999 have been discovered in a antiques shop in Spain.
 
-##### United States military
+##### U.S. military
 ### [US and Iraqi forces raid a neighbourhood in Fallujah resulting in at least six casualties. ](/news/2010/09/15/us-and-iraqi-forces-raid-a-neighbourhood-in-fallujah-resulting-in-at-least-six-casualties.md)
-_Context: Fallujah, Iraqi Army, United States military_
+_Context: Fallujah, Iraqi Army, U.S. military_
 
 ##### Real Irish Republican Army
 ### [The Real Irish Republican Army threatens to resume attacks on Mainland Britain including banks. ](/news/2010/09/15/the-real-irish-republican-army-threatens-to-resume-attacks-on-mainland-britain-including-banks.md)
@@ -69,7 +69,7 @@ _Context: Egypt, Gaza Strip, Hamas, Israel, Qassam rocket, mortar_
 
 ##### Pakistan
 ### [At least 12 people die in Pakistan's North Waziristan province as United States drone attacks continue for a second day. ](/news/2010/09/15/at-least-12-people-die-in-pakistan-s-north-waziristan-province-as-united-states-drone-attacks-continue-for-a-second-day.md)
-_Context: North Waziristan, Pakistan, United States, drone attack_
+_Context: North Waziristan, Pakistan, U.S., drone attack_
 
 ##### Ethiopia
 ### [Ethiopian forces, supported by Somaliland, kill 123 members of the rebel Ogaden National Liberation Front in the east of the country and surround a further 90 rebels. ](/news/2010/09/15/ethiopian-forces-supported-by-somaliland-kill-123-members-of-the-rebel-ogaden-national-liberation-front-in-the-east-of-the-country-and-sur.md)

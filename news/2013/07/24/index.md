@@ -29,7 +29,7 @@ At least four people are dead after a boat carrying Australia-bound asylum-seeke
 
 ##### Wells Fargo
 ### [Wells Fargo of the United States becomes the world's largest bank by market capitalisation, replacing the Industrial and Commercial Bank of China amid an economic slowdown in China. ](/news/2013/07/24/wells-fargo-of-the-united-states-becomes-the-world-s-largest-bank-by-market-capitalisation-replacing-the-industrial-and-commercial-bank-of.md)
-_Context: Chinese, Industrial and Commercial Bank of China, United States, Wells Fargo, market capitalisation_
+_Context: Chinese, Industrial and Commercial Bank of China, U.S., Wells Fargo, market capitalisation_
 
 ##### Inter-Services Intelligence
 ### [Four people are killed and at least 40 wounded in a bomb and gun attack on an Inter-Services Intelligence compound in Sukkur, Pakistan. ](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.md)

@@ -35,7 +35,7 @@ A Dutch tourist has confessed to killing a British fitness instructor on a Kashm
 ### [Egypt President Mohamed Morsi condemns sectarian violence and orders a probe after one person is killed in clashes at the Cairo headquarters of the Coptic Christian pope. ](/news/2013/04/8/egypt-president-mohamed-morsi-condemns-sectarian-violence-and-orders-a-probe-after-one-person-is-killed-in-clashes-at-the-cairo-headquarters.md)
 President Morsi orders probe after at least two people killed in clashes at Cairo headquarters of Coptic Christian pope.
 
-##### United States
+##### U.S.
 ### [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md)
 US secretary of state meets Palestinian Authority president in Ramallah and is due to hold talks with Israeli PM.
 

@@ -59,7 +59,7 @@ _Context: French President, Nicolas Sarkozy_
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)
 _Context: Lee Teng-hui, President, Taiwan, embezzlement, indicted_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.
 
@@ -125,7 +125,7 @@ _Context: Fox News, Glenn Beck_
 
 ##### Iraq War
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, United States_
+_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
 
 ##### Al-Shamukh
 ### [Al-Shamukh, a popular jihadist Internet forum, is knocked off the Internet by a fairly sophisticated cyberattack. ](/news/2011/06/30/al-shamukh-a-popular-jihadist-internet-forum-is-knocked-off-the-internet-by-a-fairly-sophisticated-cyberattack.md)

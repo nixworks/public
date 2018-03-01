@@ -25,7 +25,7 @@ Heavy rain triggered a landslide triggered that killed at least 34 people in nor
 
 ##### Washington Mutual
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Chief Executive, Kerry Killinger, United States, Washington Mutual, savings and loan, subprime mortgage crisis_
+_Context: Chief Executive, Kerry Killinger, U.S., Washington Mutual, savings and loan, subprime mortgage crisis_
 
 ##### Roger Federer
 ### [ Roger Federer defeats Andy Murray to win the U.S. Tennis Open for a record-breaking fifth consecutive time. ](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.md)

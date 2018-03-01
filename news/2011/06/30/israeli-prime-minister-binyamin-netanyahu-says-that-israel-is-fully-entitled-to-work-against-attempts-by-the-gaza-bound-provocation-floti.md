@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-
 
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 # Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. 
 
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.

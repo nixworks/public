@@ -17,7 +17,7 @@ A top Chinese policeman in charge of a major crackdown on organised crime goes o
 
 ##### Washington State Legislature
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: United States, Washington State Legislature, same-sex marriage_
+_Context: U.S., Washington State Legislature, same-sex marriage_
 
 ##### Bharatiya Janata Party
 ### [Three Bharatiya Janata Party Ministers in the Indian state of Karnataka &ndash; Laxman Savadi, C C Patil and J. Krishna Palemar &ndash; are forced to resign after footage is shown of them watching a pornographic video in the Legislative Assembly. ](/news/2012/02/8/three-bharatiya-janata-party-ministers-in-the-indian-state-of-karnataka-ndash-laxman-savadi-c-c-patil-and-j-krishna-palemar-ndash-are.md)

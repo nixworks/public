@@ -25,7 +25,7 @@ _Context: 2008-2009 Gaza War, Israel, Palestine, United Nations, war crime_
 
 ##### Russian President
 ### [ Russian President Dmitry Medvedev accuses the United States of "blocking" Russia's accession to the World Trade Organization. ](/news/2009/09/15/russian-president-dmitry-medvedev-accuses-the-united-states-of-blocking-russia-s-accession-to-the-world-trade-organization.md)
-_Context: Dmitry Medvedev, Russia, Russian President, United States, World Trade Organization_
+_Context: Dmitry Medvedev, Russia, Russian President, U.S., World Trade Organization_
 
 ##### Federal Reserve
 ### [ Federal Reserve Chairman Ben S. Bernanke says the worst U.S. recession since the 1930s has likely ended, while warning that growth may not be strong enough to quickly reduce the unemployment rate. ](/news/2009/09/15/federal-reserve-chairman-ben-s-bernanke-says-the-worst-u-s-recession-since-the-1930s-has-likely-ended-while-warning-that-growth-may-not.md)

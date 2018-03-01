@@ -12,7 +12,7 @@ The resignation comes one day after Hicks testified before the House intelligenc
 Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate political group on Wednesday as part of a proposed political process that he said could lead to talks aimed at ending more than 16 years of war.
 
 ##### Beheira
-### [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 persons and 40 people are injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-persons-and-40-people-are-injured.md)
+### [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 people and with a further 40 bring injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-people-and-with-a-further-40-bring-injured.md)
 The Ministry of Transport announced that the death toll in a collision between a cargo and a passenger train in Beheira has risen to 15, with 40 people injured. A passenger train collided with a cargo train in Beheira on Wednesday afternoon. The Railway Authority explained in a statement the cause o...
 
 ##### 2017-18 Western Europe windstorm season
@@ -28,7 +28,7 @@ Walmart Inc said on Wednesday that it was raising the minimum age at which custo
 Two of the UK’s best-known retailers collapsed into administration on Wednesday, putting well over 5,000 jobs at risk and underscoring the pressures stemming from inflation, slumping consumer confidence and the surging popularity of internet shopping. Toys R Us, which had reportedly been wrangling...
 
 ##### Kivu conflict
-### [Clashes between militias have left 23 people dead in the Rutshuru Territory of the North Kivu province, DR Congo. ](/news/2018/02/28/clashes-between-militias-have-left-23-people-dead-in-the-rutshuru-territory-of-the-north-kivu-province-dr-congo.md)
+### [The death toll from clashes between militias in the Rutshuru Territory of the North Kivu province, DR Congo, rises to 23 (16 civilians, 7 militiamen). The renewed violence has been ongoing since 25 February 2018. ](/news/2018/02/28/the-death-toll-from-clashes-between-militias-in-the-rutshuru-territory-of-the-north-kivu-province-dr-congo-rises-to-23-16-civilians-7-mi.md)
 We have recorded the death of 16 civilians and seven militiamen since Sunday, Francois Bakundakabo, an aide to the provincial governor, told AFP. 
 
 ## [Previous Day...](/news/2018/02/27/index.md)

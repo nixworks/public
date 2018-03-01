@@ -45,7 +45,7 @@ _Context: Pakistan, drone_
 
 ##### Russia
 ### [Russia's Proton-M rocket sends a United States SES-1 telecommunications satellite into space. ](/news/2010/04/24/russia-s-proton-m-rocket-sends-a-united-states-ses-1-telecommunications-satellite-into-space.md)
-_Context: Proton-M, Russia, United States, rocket, space, telecommunications satellite_
+_Context: Proton-M, Russia, U.S., rocket, space, telecommunications satellite_
 
 ##### Iraq
 ### [Iraq holds funerals for those killed in yesterday's series of bombings in Baghdad. ](/news/2010/04/24/iraq-holds-funerals-for-those-killed-in-yesterday-s-series-of-bombings-in-baghdad.md)

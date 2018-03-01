@@ -13,7 +13,7 @@ _Context: Oruzgan Province_
 
 ##### Suicide
 ### [ A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. ](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-afghanistan-with-at-least-one-person-dead.md)
-_Context: Afghanistan, Kabul, United States, car bomb, embassies, suicide_
+_Context: Afghanistan, Kabul, U.S., car bomb, embassies, suicide_
 
 ##### Russia
 ### [ Russia and Brazil call for the first BRIC (Brazil, Russia, India, China) summit of major emerging market countries in Russia to respond to the financial crisis in 2009. ](/news/2008/11/27/russia-and-brazil-call-for-the-first-bric-brazil-russia-india-china-summit-of-major-emerging-market-countries-in-russia-to-respond-to.md)

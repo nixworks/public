@@ -35,9 +35,9 @@ A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday mo
 ### [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md)
 The Sanchi goes down a week after a collision with a cargo ship, claiming 32 lives.
 
-##### American-led intervention in the Syrian Civil War
+##### United States and US-backed forces
 ### [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md)
-_Context: American-led intervention in the Syrian Civil War, Syrian Border Security Force, Syrian Democratic Forces, U.S.-led coalition_
+_Context: Syrian Border Security Force, Syrian Democratic Forces, U.S.-led coalition, United States and US-backed forces_
 
 ##### Palestinian tunnel warfare in the Gaza Strip
 ### [The Israel Defense Forces report the complete destruction of an underground tunnel dug by Hamas under the Kerem Shalom crossing. Israel shut down the crossing before its jets bombed the tunnel opening in Gaza Saturday night. The crossing remains closed. ](/news/2018/01/14/the-israel-defense-forces-report-the-complete-destruction-of-an-underground-tunnel-dug-by-hamas-under-the-kerem-shalom-crossing-israel-shut.md)

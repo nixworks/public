@@ -41,9 +41,9 @@ _Context: Russia, banning, enacts, school, smoking, subways_
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, United States_
+_Context: Afghanistan, NATO, U.S._
 
-##### United States
+##### U.S.
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
 C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to promote childhood sex education for AIDS prevention and issued the first government warning about second-hand tobacco smoke, has died. He was 96.
 

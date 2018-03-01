@@ -13,7 +13,7 @@ Between 300 and 400 members of far-right groups, including La Meute and Storm Al
 
 ##### Russia-United States relations
 ### [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md)
-_Context: Czech Republic, LinkedIn hack in 2012, Russia, Russia-United States relations, Russian police, U.S. Justice Department, United States_
+_Context: Czech Republic, LinkedIn hack in 2012, Russia, Russia-United States relations, Russian police, U.S., U.S. Justice Department_
 
 ##### 2017 Zimbabwean coup d'etat
 ### [Former Zimbabwe finance minister Ignatius Chombo, who was arrested during Operation Restore Legacy, is charged in Harare Magistrate's Court with three counts of fraud, abuse of power, and corruption. ](/news/2017/11/25/former-zimbabwe-finance-minister-ignatius-chombo-who-was-arrested-during-operation-restore-legacy-is-charged-in-harare-magistrateas-cour.md)

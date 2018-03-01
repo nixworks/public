@@ -13,7 +13,7 @@ _Context: Felixstowe, Ipswich murder case, Trimley St. Martin_
 
 ##### Six-party talks
 ### [ Six-party talks resume on North Korea's nuclear weapons program with North Korea and the United States being "poles apart" in their opening positions. ](/news/2006/12/18/six-party-talks-resume-on-north-korea-s-nuclear-weapons-program-with-north-korea-and-the-united-states-being-poles-apart-in-their-opening.md)
-_Context: North Korea, Six-party talks, United States_
+_Context: North Korea, Six-party talks, U.S._
 
 ##### Uzbekistan
 ### [ Uzbekistan nearly doubles the price of natural gas it sells to Kyrgyzstan from USD $55 to $100 (GBP51) per 1,000 cubic meters of gas amid growing tension between the two nations over alleged spying. ](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-gas-it-sells-to-kyrgyzstan-from-usd-55-to-100-gbp51-per-1-000-cubic-meters-of-gas-amid-g.md)

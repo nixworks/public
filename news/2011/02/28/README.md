@@ -89,7 +89,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 
 ##### Frank Buckles
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: Charles Town, West Virginia, First World War, Frank Buckles, United States, last surviving veteran_
+_Context: Charles Town, West Virginia, First World War, Frank Buckles, U.S., last surviving veteran_
 
 ##### Yangon
 ### [A bomb explodes in Yangon, Burma, injuring eight people. ](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.md)

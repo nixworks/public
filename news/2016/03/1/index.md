@@ -57,7 +57,7 @@ A U.N. Security Council vote on a resolution to dramatically expand sanctions on
 
 ##### Zika virus outbreak (2015-present)
 ### [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md)
-_Context: New Hampshire, United States, Zika virus, Zika virus outbreak (2015-present)_
+_Context: New Hampshire, U.S., Zika virus, Zika virus outbreak (2015-present)_
 
 ##### Ripley, New York
 ### [Residents from more than 50 homes in Ripley, New York, are evacuated following the derailment of a 34-car Norfolk Southern train carrying hazardous materials in the southwestern part of the state. Ethanol leaked from the two of the 16 derailed cars. A third car carrying propane crashed but did not leak. ](/news/2016/03/1/residents-from-more-than-50-homes-in-ripley-new-york-are-evacuated-following-the-derailment-of-a-34-car-norfolk-southern-train-carrying-ha.md)
@@ -77,7 +77,7 @@ Two Israeli troops were following directions from the Waze app when they drove i
 
 ##### Iraqi Civil War (2014-present)
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S. airstrikes, United States, United States soldier_
+_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S., U.S. airstrikes, United States soldier_
 
 ##### War in Donbass
 ### [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md)

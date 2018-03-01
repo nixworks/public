@@ -25,7 +25,7 @@ _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_
 
 ##### Standard & Poor's
 ### [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md)
-_Context: Case-Shiller index, Standard & Poor's, United States_
+_Context: Case-Shiller index, Standard & Poor's, U.S._
 
 ##### Russia
 ### [ The Russian Constitutional Court meets in its first session since it relocated from Moscow to the historical building of the Governing Senate at the Decembrists Square in Saint Petersburg. ](/news/2008/05/27/the-russian-constitutional-court-meets-in-its-first-session-since-it-relocated-from-moscow-to-the-historical-building-of-the-governing-sena.md)

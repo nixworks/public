@@ -25,7 +25,7 @@ _Context: Austria, EU treaties, SPO_
 
 ##### North Korea
 ### [ North Korea releases details of its nuclear program and the United States removes it from its list of state sponsors of terrorism. ](/news/2008/06/26/north-korea-releases-details-of-its-nuclear-program-and-the-united-states-removes-it-from-its-list-of-state-sponsors-of-terrorism.md)
-_Context: North Korea, United States, begins, terrorism_
+_Context: North Korea, U.S., begins, terrorism_
 
 ##### Taliban
 ### [ A former Taliban fighter claims that members of the Pakistan military secretly supported the insurgency in Afghanistan by providing training and material support. ](/news/2008/06/26/a-former-taliban-fighter-claims-that-members-of-the-pakistan-military-secretly-supported-the-insurgency-in-afghanistan-by-providing-trainin.md)

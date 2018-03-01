@@ -29,7 +29,7 @@ _Context: India, Italian marines, Law of India_
 
 ##### Cairo
 ### [A trial begins in Cairo of 16 Americans and 27 others linked to an Egyptian government crackdown on non-government organizations which has created tension between the United States and Egypt. ](/news/2012/02/26/a-trial-begins-in-cairo-of-16-americans-and-27-others-linked-to-an-egyptian-government-crackdown-on-non-government-organizations-which-has-c.md)
-_Context: American, Cairo, Egypt, Government of Egypt, United States, non-government organizations_
+_Context: American, Cairo, Egypt, Government of Egypt, U.S., non-government organizations_
 
 ##### Burlington train derailment
 ### [A train derails in Burlington, Ontario, Canada killing at least three people and injuring 45.](/news/2012/02/26/a-train-derails-in-burlington-ontario-canada-killing-at-least-three-people-and-injuring-45.md)

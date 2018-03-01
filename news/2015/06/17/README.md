@@ -31,7 +31,7 @@ _Context: South China Sea, Vietnam_
 ### [North Korea runs a campaign to fight water drought, which according to United Nations is the worst within the past 100 years. ](/news/2015/06/17/north-korea-runs-a-campaign-to-fight-water-drought-which-according-to-united-nations-is-the-worst-within-the-past-100-years.md)
 North Korea has been hit by whatit describes as its worst drought in a century, which couldworsen chronic food shortages in a country where the UnitedNations says almost a third of children under five are stuntedbecause of poor nutrition.
 
-##### United States
+##### U.S.
 ### [In the United States, the California Labor Commission ruled that a San Francisco Uber driver is a company employee, not a contractor. Uber is appealing this ruling, that would increase the company's costs and liabilities, to the state's court system. A hearing for a class certification of a similar lawsuit against Uber is scheduled for August 2015. ](/news/2015/06/17/in-the-united-states-the-california-labor-commission-ruled-that-a-san-francisco-uber-driver-is-a-company-employee-not-a-contractor-uber-i.md)
 An Uber driver in San Francisco will be paid more than $4,000 in expenses.
 

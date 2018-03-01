@@ -3,9 +3,9 @@ Formats: [HTML](2015/12/30/index.html)  [JSON](2015/12/30/index.json)  [XML](201
 
 ## [2015-12-30](/news/2015/12/30/index.md)
 
-##### United States
+##### U.S.
 ### [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20 F. Temperatures around the North Pole have surpassed the 32 F threshold for a brief moment, according to the U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50 F-change higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md)
-_Context: Arctic, British Isles, North Pole, Ocean Prediction Center, U.S.  National Oceanic and Atmospheric Administration, United States_
+_Context: Arctic, British Isles, North Pole, Ocean Prediction Center, U.S., U.S.  National Oceanic and Atmospheric Administration_
 
 ##### Central African general election, 2015-16
 ### [Voters in the Central African Republic are heading to the polls for the rescheduled parliamentary elections and the first round of the presidential election, where 30 candidates are running to replace Acting President Catherine Samba-Panza. The presidential runoff election is scheduled for 31 January 2016. The Central African Republic has been rocked by unrest since the March 2013 coup of president Francois Bozize by Seleka, a mostly Muslim alliance of anti-government groups. Thousands have died and about one million people have been displaced in the ongoing sectarian violence between Seleka and the Christian anti-balaka militia. The United Nations peacekeeping mission has promised a heavy security presence today. ](/news/2015/12/30/voters-in-the-central-african-republic-are-heading-to-the-polls-for-the-rescheduled-parliamentary-elections-and-the-first-round-of-the-presi.md)

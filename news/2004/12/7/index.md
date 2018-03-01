@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/7/index.html)  [JSON](2004/12/7/index.json)  [XML](2004/
 
 ##### Hamid Karzai
 ### [ Hamid Karzai is inaugurated as President of Afghanistan. ](/news/2004/12/7/hamid-karzai-is-inaugurated-as-president-of-afghanistan.md)
-_Context: Afghanistan President, Hamid Karzai_
+_Context: Afghan President, Hamid Karzai_
 
 ##### United States armed forces
 ### [ The U.S. military discusses plans for mandatory visibly worn ID badges, forced labor, DNA testing, and retina scans at "citizen processing centers" for all residents of the rebellious Iraqi city of Fallujah, saying they plan to make it a model city for the whole of Iraq. ](/news/2004/12/7/the-u-s-military-discusses-plans-for-mandatory-visibly-worn-id-badges-forced-labor-dna-testing-and-retina-scans-at-citizen-processing.md)

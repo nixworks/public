@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
-##### American-led intervention in the Syrian Civil War
+##### United States and US-backed forces
 # The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. 
 
 The US says it targeted a militant headquarters in the Euphrates valley, in Deir al-Zour province.

@@ -23,7 +23,7 @@ The machete-wielding man shouted &quot;Allahu Akbar&quot; and attacked soldiers 
 ### [The High Court of Australia rules that Rod Culleton was ineligible for election as a candidate for Pauline Hanson's One Nation Party in Western Australia in the Federal election and is ineligible to serve in the Senate of Australia. ](/news/2017/02/3/the-high-court-of-australia-rules-that-rod-culleton-was-ineligible-for-election-as-a-candidate-for-pauline-hanson-s-one-nation-party-in-west.md)
 After a protracted legal battle that began almost as soon as he was elected, Rod Culleton&#039;s election has been ruled ineligible by the High Court.
 
-##### Afghan government's
+##### Politics of Afghanistan
 ### [Per the Afghan government's request, the United Nations drops sanctions against Hezb-e Islami party leader and former Prime Minister Gulbuddin Hekmatyar. This potentially sets up his return to Afghanistan, which is part of the country's peace deal with its second largest militant group, signed in September 2016. ](/news/2017/02/3/per-the-afghan-government-s-request-the-united-nations-drops-sanctions-against-hezb-e-islami-party-leader-and-former-prime-minister-gulbudd.md)
  The United Nations Security Council has dropped sanctions against Afghan strongman Gulbuddin Hekmatyar, potentially paving the way for the notorious warlord to
 

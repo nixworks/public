@@ -13,7 +13,7 @@ _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_
 
 ##### Israel
 ### [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md)
-_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, United States, United States Secretary of State_
+_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, U.S., United States Secretary of State_
 
 ##### Russia
 ### [ Russia is considering arming its Baltic Fleet with nuclear warheads for the first time since the Cold War. ](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.md)

@@ -45,7 +45,7 @@ PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat 
 
 ##### Free trade agreement
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: South Korea, United States, free trade agreement_
+_Context: South Korea, U.S., free trade agreement_
 
 ##### Uganda
 ### [A Ugandan LGBT rights group files a lawsuit against U.S. minister Scott Lively in connection with his alleged involvement in a campaign to persecute gay people in Uganda. ](/news/2012/03/15/a-ugandan-lgbt-rights-group-files-a-lawsuit-against-u-s-minister-scott-lively-in-connection-with-his-alleged-involvement-in-a-campaign-to-p.md)

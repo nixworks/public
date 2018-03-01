@@ -11,7 +11,7 @@ _Context: Citgo, Delaware River, United States Coast Guard, crude oil, oil refin
 ### [ Russia intimates that its opposition to fresh elections might not be unshakable. ](/news/2004/11/28/russia-intimates-that-its-opposition-to-fresh-elections-might-not-be-unshakable.md)
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: 42 primarily Shi'a parties release a statement saying a postponement of elections would be illegal. The U.S. military reports a U.S. soldier is killed by a roadside bomb in Duluiya north of Baghdad and that troops discover 17 more corpses in Mosul, raising the number found to at least 50 in two weeks. Hospital officials in Ramadi say two people are killed and three wounded when U.S. troops fire on suspected insurgents. ](/news/2004/11/28/conflict-in-iraq-42-primarily-shi-a-parties-release-a-statement-saying-a-postponement-of-elections-would-be-illegal-the-u-s-military-rep.md)
-_Context: Baghdad, Conflict in Iraq, Duluiya, Iraqi insurgency, Mosul, Ramadi, Shi'a, United States military_
+_Context: Baghdad, Conflict in Iraq, Duluiya, Iraqi insurgency, Mosul, Ramadi, Shi'a, U.S. military_
 
 ##### Coal miners
 ### [ An explosion in a coal mine in the Chinese central province of Shaanxi leaves 187 men trapped underground. Official figures show 4,153 mining accident deaths in the last nine months, while 119 miners are still missing from a November 20 iron mine fire in Hebei. ](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-central-province-of-shaanxi-leaves-187-men-trapped-underground-official-figures-show-4-153-mini.md)

@@ -21,7 +21,7 @@ _Context: Connecticut, Hollis Center, Maine, New York, Portland, cellular phone_
 
 ##### Law of Brazil
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, United States_
+_Context: Gol Transportes Aereos Flight 1907, Law of Brazil, U.S._
 
 ##### Spain
 ### [The captain of the Prestige oil tanker goes on trial in Spain. ](/news/2012/10/16/the-captain-of-the-prestige-oil-tanker-goes-on-trial-in-spain.md)

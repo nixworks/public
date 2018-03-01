@@ -29,7 +29,7 @@ _Context: Banking in the United States, Mike Pence, Vice President_
 
 ##### Economy of the European Union
 ### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
-_Context: Economy of the European Union, European Banking Authority, European Commission, European Union, United States, Volcker Rule, too big to fail, trading activities_
+_Context: Economy of the European Union, European Banking Authority, European Commission, European Union, U.S., Volcker Rule, too big to fail, trading activities_
 
 ## [Previous Day...](/news/2017/10/23/index.md)
 

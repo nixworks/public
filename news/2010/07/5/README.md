@@ -89,7 +89,7 @@ _Context: AK-47s, AMISOM, African Union, Mogadishu, Somalia, high-powered rifles
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi Arabia, United States_
+_Context: Ahmad Afzali, Imam, Najibullah Zazi, New York City subway, Saudi Arabia, U.S._
 
 ##### Australia
 ### [Australia celebrates indigenous culture with NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/5/australia-celebrates-indigenous-culture-with-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)

@@ -21,7 +21,7 @@ _Context: Spain, diesel, strike, truck drivers_
 
 ##### McDonald's restaurants
 ### [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md)
-_Context: McDonald's restaurants, Salmonellosis, United States, hamburger, tomato_
+_Context: McDonald's restaurants, Salmonellosis, U.S., hamburger, tomato_
 
 ##### Indonesia
 ### [ Indonesia makes the practice of the Ahmadiyya form of Islam in Indonesia a crime punishable by five years in prison. ](/news/2008/06/9/indonesia-makes-the-practice-of-the-ahmadiyya-form-of-islam-in-indonesia-a-crime-punishable-by-five-years-in-prison.md)

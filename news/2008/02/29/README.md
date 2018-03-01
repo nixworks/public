@@ -29,7 +29,7 @@ _Context: Afghanistan, International Security Assistance Force, Ministry of Defe
 
 ##### United States Department of Agriculture
 ### [ The U.S. Department of Agriculture stands down two employees as part of its investigation of the biggest meat recall in United States history. ](/news/2008/02/29/the-u-s-department-of-agriculture-stands-down-two-employees-as-part-of-its-investigation-of-the-biggest-meat-recall-in-united-states-histo.md)
-_Context: United States, United States Department of Agriculture, biggest meat recall_
+_Context: U.S., United States Department of Agriculture, biggest meat recall_
 
 ##### White House
 ### [ A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana "News-Sentinel". ](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.md)

@@ -99,9 +99,9 @@ _Context: Johannesburg, South Africa_
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: Clinical trial, MVA85A, South Africa, tuberculosis, vaccine_
 
-##### United States
+##### U.S.
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
-_Context: India, United States, nuclear co-operation_
+_Context: India, U.S., nuclear co-operation_
 
 ##### United Nations
 ### [ The top United Nations official in Haiti raises concerns about a sharp increase in lynchings and other forms of mob violence. ](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.md)

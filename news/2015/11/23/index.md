@@ -15,11 +15,11 @@ A new United Nations report aims to shine the light on the economic costs of wea
 ### [Hong Kong's pro-democracy movement gets a boost with Umbrella Soldiers winning at least four seats in Sunday's election although the distribution of political power over the district council seats remains broadly the same vis-a-vis the Hong Kong local elections, 2011. ](/news/2015/11/23/hong-kong-s-pro-democracy-movement-gets-a-boost-with-umbrella-soldiers-winning-at-least-four-seats-in-sunday-s-election-although-the-distrib.md)
 Young supporters of Hong Kong&#x27;s democracy movement, known as &#x27;Umbrella Soldiers&#x27;, took seats in the city&#x27;s first vote since mass street protests -- but pro-Beijing forces dominated the polls in a key test of public sentiment. The spotlight was on Sunday&#x27;s district elections ...
 
-##### United States
+##### U.S.
 ### [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md)
-_Context: Boko Haram, Islamic State in Iraq and the Levant, United States, al-Qa'ida_
+_Context: Boko Haram, Islamic State in Iraq and the Levant, U.S., al-Qa'ida_
 
-##### United States
+##### U.S.
 ### [All four crew members aboard a United States military helicopter (UH-60) are killed when their chopper crashes at Fort Hood in Killeen, Texas. ](/news/2015/11/23/all-four-crew-members-aboard-a-united-states-military-helicopter-uh-60-are-killed-when-their-chopper-crashes-at-fort-hood-in-killeen-texa.md)
 The crew was flying a routine training mission when their UH-60 chopper went down, the U.S. Army said. The cause was under investigation.
 
@@ -27,7 +27,7 @@ The crew was flying a routine training mission when their UH-60 chopper went dow
 ### [A highway traffic accident in the Mexican state of Puebla kills 20 people and injures at least 15 others. ](/news/2015/11/23/a-highway-traffic-accident-in-the-mexican-state-of-puebla-kills-20-people-and-injures-at-least-15-others.md)
 _Context: Puebla_
 
-##### United States
+##### U.S.
 ### [A U.S. Apache helicopter crashes in South Korea's Gangwon Province, killing the pilot and one crew member. ](/news/2015/11/23/a-u-s-apache-helicopter-crashes-in-south-korea-s-gangwon-province-killing-the-pilot-and-one-crew-member.md)
 A U.S. Army Apache helicopter crashed in central South Korea on Monday during a training mission, killing two pilots aboard, police and military officials said.
 

@@ -21,7 +21,7 @@ _Context: Japanese, Liancourt Rocks, Liberal Democratic Party, South Korea, sove
 
 ##### North Korea
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: North Korea, North Korea's nuclear program, Six Party talks, United States_
+_Context: North Korea, North Korea's nuclear program, Six Party talks, U.S._
 
 ##### Hurricane Rina
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)

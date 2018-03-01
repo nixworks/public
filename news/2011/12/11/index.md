@@ -29,7 +29,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Panama
 ### [Former leader of Panama Manuel Noriega is extradited home from France and the United States where he has been serving jail sentences for the past 22 years to serve more time for his role in the murder of political opponents. ](/news/2011/12/11/former-leader-of-panama-manuel-noriega-is-extradited-home-from-france-and-the-united-states-where-he-has-been-serving-jail-sentences-for-the.md)
-_Context: French, Manuel Noriega, Panama, United States_
+_Context: French, Manuel Noriega, Panama, U.S._
 
 ##### 2011 United Nations Climate Change Conference
 ### [The 2011 United Nations Climate Change Conference finishes in Durban in South Africa with an agreement to begin negotiations on a new treaty. ](/news/2011/12/11/the-2011-united-nations-climate-change-conference-finishes-in-durban-in-south-africa-with-an-agreement-to-begin-negotiations-on-a-new-treaty.md)

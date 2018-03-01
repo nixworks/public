@@ -27,13 +27,13 @@ _Context: Africa, Europe, clock, solar eclipse, south, west_
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
 _Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
 
-##### United States
+##### U.S.
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
-_Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, Supreme Court of the United States, U.S. President, United States, White House Counsel_
+_Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, Supreme Court of the United States, U.S., U.S. President, White House Counsel_
 
 ##### Heavy metal
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)
-_Context: Bullet For My Valentine, RIAA, The Poison, United States, heavy metal_
+_Context: Bullet For My Valentine, RIAA, The Poison, U.S., heavy metal_
 
 ##### Stampede
 ### [ At least 11 people die during a stampede at a concert in Sangju, South Korea. ](/news/2005/10/3/at-least-11-people-die-during-a-stampede-at-a-concert-in-sangju-south-korea.md)
@@ -47,9 +47,9 @@ _Context: George Best, London, Manchester United, football, intensive care_
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
 _Context: Chinese, Fujian, Typhoon Longwang_
 
-##### United States
+##### U.S.
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)
-_Context: Tom DeLay, U.S. House of Representatives, United States, money laundering_
+_Context: Tom DeLay, U.S., U.S. House of Representatives, money laundering_
 
 ##### Australia
 ### [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium "Helicobacter pylouri" and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md)

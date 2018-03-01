@@ -7,9 +7,9 @@ Formats: [HTML](2008/08/23/index.html)  [JSON](2008/08/23/index.json)  [XML](200
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
 _Context: 2008, Barack Obama, Joe Biden, United States Senate, running mate_
 
-##### United States
+##### U.S.
 ### [ The United States Department of Health and Human Services announces plans to implement a rule that would protect healthcare workers from being fired or otherwise penalized for refusing to provide services they find morally objectionable, such as performing abortions or dispensing contraception. ](/news/2008/08/23/the-united-states-department-of-health-and-human-services-announces-plans-to-implement-a-rule-that-would-protect-healthcare-workers-from-be.md)
-_Context: U.S. Health and Human Services Department's, United States, abortion, contraception_
+_Context: U.S., U.S. Health and Human Services Department's, abortion, contraception_
 
 ##### King Air A-100
 ### [ A King Air A-100 crashes near Moab, Utah, USA, resulting in the death of the pilot and nine passengers. ](/news/2008/08/23/a-king-air-a-100-crashes-near-moab-utah-usa-resulting-in-the-death-of-the-pilot-and-nine-passengers.md)

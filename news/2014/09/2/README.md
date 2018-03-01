@@ -17,7 +17,7 @@ Former presidential hopeful charged with murder of boy.
 
 ##### Iraqi insurgency (2011-present)
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
-_Context: Iraqi insurgency (2011-present), United States_
+_Context: Iraqi insurgency (2011-present), U.S._
 
 ##### Syrian Civil War
 ### [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)

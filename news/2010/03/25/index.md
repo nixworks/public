@@ -21,7 +21,7 @@ The defense secretary announced an interim plan while the Pentagon looks at how 
 
 ##### Tennessee
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
-_Context: Hospital Wing, Tennessee, United States_
+_Context: Hospital Wing, Tennessee, U.S._
 
 ##### U.S. President
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
@@ -39,9 +39,9 @@ Mahmoud Zahar criticizes recent firing of rockets at Israel.
 ### [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md)
 Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously inadequate&#39; his handling of child sexual abuse allegations.
 
-##### United States
+##### U.S.
 ### [The United States weakens proposed sanctions against Iran in a bid to win broader support on the UN Security Council as Iranian President Mahmoud Ahmadinejad dismisses the impact of any new measures to stop Iran's nuclear program. ](/news/2010/03/25/the-united-states-weakens-proposed-sanctions-against-iran-in-a-bid-to-win-broader-support-on-the-un-security-council-as-iranian-president-ma.md)
-_Context: Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Security Council, United States_
+_Context: Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Security Council, U.S._
 
 ##### Gaza Strip
 ### [A Gazan fisherman is critically wounded when the Israeli navy targets his fishing boat in an early morning attack. ](/news/2010/03/25/a-gazan-fisherman-is-critically-wounded-when-the-israeli-navy-targets-his-fishing-boat-in-an-early-morning-attack.md)

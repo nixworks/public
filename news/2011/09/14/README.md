@@ -37,7 +37,7 @@ An increase in forward speed is expected through Thursday
 
 ##### Robert Zoellick
 ### [Robert Zoellick, the President of the World Bank, claims that the world economy has entered the "danger zone", with the United States, European Union and Japan having to make tough decisions. ](/news/2011/09/14/robert-zoellick-the-president-of-the-world-bank-claims-that-the-world-economy-has-entered-the-danger-zone-with-the-united-states-europ.md)
-_Context: European Union, Japan, Robert Zoellick, United States, World Bank_
+_Context: European Union, Japan, Robert Zoellick, U.S., World Bank_
 
 ##### Archaeologist
 ### [Archaeologists in the US state of Maryland claim to have found a fort in the Zekiah Swamp in Charles County built to protect the "friendly" Piscataway Indians in 1680. ](/news/2011/09/14/archaeologists-in-the-us-state-of-maryland-claim-to-have-found-a-fort-in-the-zekiah-swamp-in-charles-county-built-to-protect-the-friendly.md)

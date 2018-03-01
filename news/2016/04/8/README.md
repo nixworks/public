@@ -69,7 +69,7 @@ The 33-year-old from San Diego disappeared after crossing into Syria from Turkey
 
 ##### Egypt-Saudi Arabia relations
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, King, President, Red Sea, Salman, Saudi Arabia, Saudi-Egypt Causeway_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, President, Red Sea, Salman, Saudi Arabia, Saudi King, Saudi-Egypt Causeway_
 
 ##### North Korea-South Korea relations
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
@@ -77,7 +77,7 @@ _Context: Ministry of Unification, North Korea, North Korea-South Korea relation
 
 ##### Angoon
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, Southeast Alaska, United States_
+_Context: Angoon, Southeast Alaska, U.S._
 
 ##### San Jose
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
@@ -85,7 +85,7 @@ _Context: San Jose_
 
 ##### Starwood Hotels and Resorts Worldwide
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: Anbang Insurance Group, Canada, Chinese, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, Chinese, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, U.S., pre-merger, reduced competition and higher prices, shareholders_
 
 ##### North Carolina bathroom bill
 ### [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md)

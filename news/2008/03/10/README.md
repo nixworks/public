@@ -23,9 +23,9 @@ Gov. Eliot Spitzer has been caught on a federal wiretap arranging to meet with a
 ### [ The Serbian government adopts a policy to dismiss the National Assembly of Serbia and hold elections later in the year. ](/news/2008/03/10/the-serbian-government-adopts-a-policy-to-dismiss-the-national-assembly-of-serbia-and-hold-elections-later-in-the-year.md)
 _Context: Serbia, parliament, parliamentary election_
 
-##### United States
+##### U.S.
 ### [ Eight United States Army soldiers are killed in two bombings in Iraq. ](/news/2008/03/10/eight-united-states-army-soldiers-are-killed-in-two-bombings-in-iraq.md)
-_Context: Iraq, United States, United States soldier_
+_Context: Iraq, U.S., United States soldier_
 
 ## [Previous Day...](/news/2008/03/9/index.md)
 

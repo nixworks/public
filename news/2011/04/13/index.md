@@ -39,9 +39,9 @@ Former president to face charges while Ouattara pledges to ask ICC to probe alle
 ### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
 The Palestinian government in the West Bank is now largely ready to govern a state, a United Nations report says.
 
-##### United States
+##### U.S.
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ##### Japan
 ### [Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -67,7 +67,7 @@ _Context: Aleppo, protestors_
 ### [The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. ](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.md)
 _Context: Malaysia, Malaysiakini, Sarawak_
 
-##### Civil war
+##### Muammar Gaddafi
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 

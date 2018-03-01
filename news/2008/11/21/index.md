@@ -21,7 +21,7 @@ Two confidants said Hillary Rodham Clinton would give up her Senate seat and acc
 
 ##### Neil Barofsky
 ### [ Confirmation of Neil Barofsky as special inspector general of the Troubled Assets Relief Program is delayed by an unnamed Republican United States Senator. ](/news/2008/11/21/confirmation-of-neil-barofsky-as-special-inspector-general-of-the-troubled-assets-relief-program-is-delayed-by-an-unnamed-republican-united.md)
-_Context: Neil Barofsky, Republican, Troubled Assets Relief Program, United States, United States Senate, inspector general_
+_Context: Neil Barofsky, Republican, Troubled Assets Relief Program, U.S., United States Senate, inspector general_
 
 ##### Burma
 ### [ Burmese comedian Zarganar is sentenced to 45 years in prison for organising relief for victims of Cyclone Nargis. ](/news/2008/11/21/burmese-comedian-zarganar-is-sentenced-to-45-years-in-prison-for-organising-relief-for-victims-of-cyclone-nargis.md)

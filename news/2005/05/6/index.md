@@ -3,9 +3,9 @@ Formats: [HTML](2005/05/6/index.html)  [JSON](2005/05/6/index.json)  [XML](2005/
 
 ## [2005-05-6](/news/2005/05/6/index.md)
 
-##### United States
+##### U.S.
 ### [ Reports emerge that the United States may be sending detainees to Uzbekistan, a regime notorious for torture. ](/news/2005/05/6/reports-emerge-that-the-united-states-may-be-sending-detainees-to-uzbekistan-a-regime-notorious-for-torture.md)
-_Context: United States, Uzbekistan, detainee, torture_
+_Context: U.S., Uzbekistan, detainee, torture_
 
 ##### Israeli Defence Force
 ### [ A 20-year-old IDF soldier is arrested in Israel after telling military police that he considers himself a "Nazi", and hates Jews, blacks and the State of Israel. ](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.md)

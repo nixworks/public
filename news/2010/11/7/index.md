@@ -67,9 +67,9 @@ The Queen is to join Facebook with a British Monarchy page offering latest news 
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
 _Context: Baghdad, Iraq, Sons of Iraq, imam_
 
-##### United States
+##### U.S.
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, United States, drone aircraft, drone attack_
+_Context: North Waziristan, Pakistan, U.S., drone aircraft, drone attack_
 
 ##### Israel
 ### [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of-r.md)

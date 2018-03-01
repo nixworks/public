@@ -77,7 +77,7 @@ _Context: La Paz, Baja California Sur, Mexico, Teodoro Garcia Simental_
 
 ##### Masoud Alimohammadi
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
 
 ##### China
 ### [China's top search engine Baidu is allegedly attacked by Iranian hackers, sparking a retaliatory attack by Chinese hackers on Iranian sites. ](/news/2010/01/12/china-s-top-search-engine-baidu-is-allegedly-attacked-by-iranian-hackers-sparking-a-retaliatory-attack-by-chinese-hackers-on-iranian-sites.md)

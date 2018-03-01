@@ -13,7 +13,7 @@ Ni Fake found guilty of taking more than $2m in bribes, as senior military offic
 
 ##### Lithuania
 ### [Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed-at-reducing-the-eu-baltic-state-s-heav.md)
-_Context: Baltic state, EU, Lithuania, Russia, United States, liquefied natural gas_
+_Context: Baltic state, EU, Lithuania, Russia, U.S., liquefied natural gas_
 
 ##### ISIL
 ### [A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md)

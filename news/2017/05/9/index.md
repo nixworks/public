@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/9/index.html)  [JSON](2017/05/9/index.json)  [XML](2017/
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md)
-_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, Karen Handel, Tom Price, United States_
+_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, Karen Handel, Tom Price, U.S._
 
 ##### Assembly
 ### [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md)

@@ -39,7 +39,7 @@ _Context: 2008, Charleston, South Carolina, Democrat, YouTube_
 ### [ A wave of car bombings kills at least 17 people in Baghdad. ](/news/2007/07/23/a-wave-of-car-bombings-kills-at-least-17-people-in-baghdad.md)
 The United States accused Iran in talks on Tuesday of increasing support for militias involved in bloodshed in Iraq but, in a rare sign of cooperation, agreed with Tehran to set up a panel to improve security.
 
-##### United States
+##### U.S.
 ### [ The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. ](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexican-citizen-accused-of-making-large-amounts-of-crystal-meth-in-a-laboratory.md)
 The United States arrested on Monday a Mexican laboratory owner accused of helping make huge quantities of crystal meth, four months after police found $206 million cash in his Mexico City mansion.
 

@@ -9,7 +9,7 @@ _Context: Alvaro Colom, Guatemala, Guatemalan President, Rodrigo Rosenberg Marza
 
 ##### Magnitude
 ### [ A 4.7-magnitude earthquake strikes Inglewood and Lennox, California, United States. ](/news/2009/05/17/a-4-7-magnitude-earthquake-strikes-inglewood-and-lennox-california-united-states.md)
-_Context: California, Inglewood, Lennox, United States, magnitude_
+_Context: California, Inglewood, Lennox, U.S., magnitude_
 
 ##### LTTE
 ### [ The Liberation Tigers of Tamil Eelam agree to a ceasefire in Sri Lanka's civil war. ](/news/2009/05/17/the-liberation-tigers-of-tamil-eelam-agree-to-a-ceasefire-in-sri-lanka-s-civil-war.md)

@@ -19,9 +19,9 @@ _Context: India, Mumbai, Russian Circus on Ice, circus_
 ### [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md)
 _Context: 1994 genocide, Aloys Mutabingwa, French, International Criminal Tribunal for Rwanda, Rwanda_
 
-##### United States
+##### U.S.
 ### [ American newscaster Peter Jennings states that he has lung cancer and will begin chemotherapy. ](/news/2005/04/5/american-newscaster-peter-jennings-states-that-he-has-lung-cancer-and-will-begin-chemotherapy.md)
-_Context: Peter Jennings, United States, chemotherapy, lung cancer_
+_Context: Peter Jennings, U.S., chemotherapy, lung cancer_
 
 ##### Italy
 ### [ Preliminary results of the Italian regional elections show heavy losses for the parties in Silvio Berlusconi's centre-right coalition. ](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.md)

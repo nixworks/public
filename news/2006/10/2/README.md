@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Las Vegas
 ### [ Two schools in the Las Vegas Valley, Nevada, United States, are locked down, after a former student reportedly brought an AK-47 or other automatic weapons to school. (Wikinews) ](/news/2006/10/2/two-schools-in-the-las-vegas-valley-nevada-united-states-are-locked-down-after-a-former-student-reportedly-brought-an-ak-47-or-other-au.md)
-_Context: (Wikinews), AK-47s, Las Vegas, Nevada, United States_
+_Context: (Wikinews), AK-47s, Las Vegas, Nevada, U.S._
 
 ##### Russia
 ### [ Four Russian officers arrested as spies in Georgia leave for Moscow after being released. ](/news/2006/10/2/four-russian-officers-arrested-as-spies-in-georgia-leave-for-moscow-after-being-released.md)

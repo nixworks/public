@@ -13,7 +13,7 @@ Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that
 
 ##### Manhattan
 ### [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md)
-_Context: Deep Web, Manhattan, Silk Road, United States, money laundering, narcotics_
+_Context: Deep Web, Manhattan, Silk Road, U.S., money laundering, narcotics_
 
 ##### 100 km/h winds
 ### [100 km-h winds spark a scrub fire near the Christchurch suburb of Hornby in New Zealand destroying two homes with several others damaged. ](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.md)

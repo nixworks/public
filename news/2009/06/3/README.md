@@ -11,9 +11,9 @@ _Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-prese
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
-##### United States
+##### U.S.
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, author, novel_
+_Context: Home, Marilynne Robinson, Orange Prize for Fiction, U.S., author, novel_
 
 ##### Madagascar
 ### [ Former Malagasy President Marc Ravalomanana is sentenced "in absentia" to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)

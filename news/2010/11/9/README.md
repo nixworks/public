@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/9/index.html)  [JSON](2010/11/9/index.json)  [XML](2010/
 
 ##### SpaceShipTwo
 ### [Construction of a factory for the first fleet of commercial spaceships begins at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
-_Context: Mojave Air and Space Port, SpaceShipTwo, United States_
+_Context: Mojave Air and Space Port, SpaceShipTwo, U.S._
 
 ##### Government
 ### [The Chinese government prevents the lawyer for Nobel Peace Prize winner Liu Xiaobo from going to London to speak at a conference organised by the International Bar Association. ](/news/2010/11/9/the-chinese-government-prevents-the-lawyer-for-nobel-peace-prize-winner-liu-xiaobo-from-going-to-london-to-speak-at-a-conference-organised-b.md)

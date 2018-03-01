@@ -9,7 +9,7 @@ _Context: Thailand, Yingluck Shinawatra_
 
 ##### Custodian of the Two Holy Mosques
 ### [Custodian of the Two Holy Mosques King Abdullah of Saudi Arabia dies at the age of 90. His half brother Salman of Saudi Arabia succeeds him. His half brother Muqrin bin Abdulaziz Al Saud becomes the Crown Prince. ](/news/2015/01/23/custodian-of-the-two-holy-mosques-king-abdullah-of-saudi-arabia-dies-at-the-age-of-90-his-half-brother-salman-of-saudi-arabia-succeeds-him.md)
-_Context: Abdullah, Crown Prince, Custodian of the Two Holy Mosques, King, Muqrin bin Abdulaziz Al Saud, Salman_
+_Context: Abdullah, Crown Prince, Custodian of the Two Holy Mosques, Muqrin bin Abdulaziz Al Saud, Salman, Saudi King_
 
 ##### U.S. Southern District of Alabama
 ### [The U.S. Southern District of Alabama strikes down the state ban on same-sex marriage in Alabama, saying it has violated equal protection and due process rights. Alabama becomes the thirty-seventh state where such marriage is legalized. ](/news/2015/01/23/the-u-s-southern-district-of-alabama-strikes-down-the-state-ban-on-same-sex-marriage-in-alabama-saying-it-has-violated-equal-protection-an.md)

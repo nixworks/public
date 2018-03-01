@@ -13,7 +13,7 @@ _Context: Alexander Khloponin, Dmitry Medvedev, North Caucasian Federal District
 
 ##### Storm
 ### [A powerful storm in California, United States, causes the evacuation of at least 200 homes in threat of mudslides, and knocks out power for 65,000 customers. One fatality is reported in Kern County. ](/news/2010/01/19/a-powerful-storm-in-california-united-states-causes-the-evacuation-of-at-least-200-homes-in-threat-of-mudslides-and-knocks-out-power-for.md)
-_Context: California, Kern County, United States, mudslides, storm_
+_Context: California, Kern County, U.S., mudslides, storm_
 
 ##### Guinea
 ### [The Guinean junta appoints opposition leader Jean-Marie Dor as the new prime minister. ](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.md)
@@ -47,13 +47,13 @@ _Context: Christian, Jos, Muslim, Nigeria, events earlier this year_
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md)
 _Context: Afghanistan, GBP, US$, United Nations, bribes_
 
-##### United States
+##### U.S.
 ### [The United States Supreme Court refuses to hear an appeal from the QSI Holdings decision on the 6th Circuit Court of Appeals, limiting bankruptcy trustee avoidance actions against certain owners of ](/news/2010/01/19/the-united-states-supreme-court-refuses-to-hear-an-appeal-from-the-qsi-holdings-decision-on-the-6th-circuit-court-of-appeals-limiting-bankr.md)
-_Context: QSI Holdings, United States, United States Supreme Court_
+_Context: QSI Holdings, U.S., United States Supreme Court_
 
-##### United States
+##### U.S.
 ### [The United States Supreme Court reverses a decision by the Philadelphia Court of Appeals that had blocked the execution of former Black Panther Party member Mumia Abu-Jamal. ](/news/2010/01/19/the-united-states-supreme-court-reverses-a-decision-by-the-philadelphia-court-of-appeals-that-had-blocked-the-execution-of-former-black-pant.md)
-_Context: Black Panther Party, Capital punishment in the United States, Mumia Abu-Jamal, Philadelphia, United States, United States Supreme Court, United States court_
+_Context: Black Panther Party, Capital punishment in the United States, Mumia Abu-Jamal, Philadelphia, U.S., United States Supreme Court, United States court_
 
 ##### Massachusetts
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
@@ -65,7 +65,7 @@ _Context: IAEA, Iran, low-enriched uranium, nuclear fuel, nuclear program_
 
 ##### Great Britain
 ### [British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence-per-share.md)
-_Context: Cadbury, Great Britain, Kraft Foods, United States, confectionery_
+_Context: Cadbury, Great Britain, Kraft Foods, U.S., confectionery_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md)

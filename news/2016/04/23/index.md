@@ -45,7 +45,7 @@ Unidentified attackers hacked to death a university teacher in northwestern Bang
 
 ##### North Korea-United States relations
 ### [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md)
-_Context: North Korea, North Korea's foreign ministry, North Korea-United States relations, Ri Su-yong's, South Korea, United States, nuclear tests_
+_Context: North Korea, North Korea's foreign ministry, North Korea-United States relations, Ri Su-yong's, South Korea, U.S., nuclear tests_
 
 ##### European migrant crisis
 ### [German Chancellor Angela Merkel, European Council President Donald Tusk, and European Commission Vice-President Frans Timmermans meet with Syrian refugees at a camp in the southeastern Turkish town of Nizip prior to talks with a delegation led by Turkish Prime Minister Ahmet Davutoglu. Davutoglu stresses the importance of implementation of European Union visa liberalization for Turkish citizens in assuring the success of Europe's migrant readmission agreement with his country. Tusk announces that the EU will spend 1 billion euros ($1.1 billion) this summer on projects to improve the lives of Syrian migrants. ](/news/2016/04/23/german-chancellor-angela-merkel-european-council-president-donald-tusk-and-european-commission-vice-president-frans-timmermans-meet-with-s.md)

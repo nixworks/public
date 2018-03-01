@@ -7,9 +7,9 @@ Formats: [HTML](2005/11/14/index.html)  [JSON](2005/11/14/index.json)  [XML](200
 ### [ Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon's 1999 primaries campaign. ](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime-minister-of-israel-ariel-sharon-struck-a-deal-with-prosecutors-that-would-see-him-plead-g.md)
 MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illegal political fundraising at Tel Aviv Magistrates court Tuesday. Sharon will address court during sentence hearing, his attorney reports 
 
-##### United States
+##### U.S.
 ### [ The United States government issues warning after receiving credible information that a terrorist threat may exist against official U.S. government facilities in Guangzhou, China. ](/news/2005/11/14/the-united-states-government-issues-warning-after-receiving-credible-information-that-a-terrorist-threat-may-exist-against-official-u-s-go.md)
-_Context: China, Guangzhou, United States_
+_Context: China, Guangzhou, U.S._
 
 ##### Uganda
 ### [ Ugandan opposition leader Kizza Besigye, the main challenger to President Yoweri Museveni in the first multi-party elections since 1986, is arrested by the police. This has sparked off riots. He is accused of having links to the rebel groups People's Redemption Army and Lord's Resistance Army. ](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.md)

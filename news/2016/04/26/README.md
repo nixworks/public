@@ -57,7 +57,7 @@ Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum
 
 ##### Romania-United States relations
 ### [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md)
-_Context: Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania-United States relations, Russia, United States, United States Ambassador to Romania_
+_Context: Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania-United States relations, Russia, U.S., United States Ambassador to Romania_
 
 ##### Chile-Germany relations
 ### [German Foreign Minister Frank-Walter Steinmeier apologizes that, for decades, German diplomats failed to act on abuses at Colonia Dignidad, the secretive German enclave in Chile whose story is told in the movie "Colonia". ](/news/2016/04/26/german-foreign-minister-frank-walter-steinmeier-apologizes-that-for-decades-german-diplomats-failed-to-act-on-abuses-at-colonia-dignidad.md)

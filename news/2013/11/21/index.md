@@ -9,7 +9,7 @@ _Context: Bonin Islands, Japan, Japanese Coast Guard, volcano_
 
 ##### Parole board
 ### [The parole board in the U.S. state of Alabama grants posthumous pardons to three members of the Scottsboro boys falsely accused of raping a white teenager. ](/news/2013/11/21/the-parole-board-in-the-u-s-state-of-alabama-grants-posthumous-pardons-to-three-members-of-the-scottsboro-boys-falsely-accused-of-raping-a.md)
-_Context: Alabama, Scottsboro boys, United States, parole board_
+_Context: Alabama, Scottsboro boys, U.S., parole board_
 
 ##### Metropolitan Police Service
 ### [Metropolitan Police arrested two suspects after three women are rescued from a residential address in Lambeth, South London, after thirty years of captivity. ](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.md)

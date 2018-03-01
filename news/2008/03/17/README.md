@@ -47,9 +47,9 @@ _Context: 2008 Tirana explosions, Albania, Defense Minister, Fatmir Mediu_
 ### [ The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Parliament, by-elections_
 
-##### United States
+##### U.S.
 ### [ United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S. Vice President, United States_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S., U.S. Vice President_
 
 ##### 2008 National People's Congress
 ### [ 2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. ](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.md)

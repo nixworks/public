@@ -23,9 +23,9 @@ _Context: French, Kurdish, Kurdistan Workers Party_
 ### [ Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. ](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.md)
 _Context: Bashar al-Assad, Civil war in Iraq, President, Syria_
 
-##### United States
+##### U.S.
 ### [ U.S. President George W. Bush has submitted a $2.9 trillion budget to Congress including almost $700 billion in new military spending. ](/news/2007/02/5/u-s-president-george-w-bush-has-submitted-a-2-9-trillion-budget-to-congress-including-almost-700-billion-in-new-military-spending.md)
-_Context: $, 110th United States Congress, George W. Bush, U.S. President, United States, United States federal budget, military spending_
+_Context: $, 110th United States Congress, George W. Bush, U.S., U.S. President, United States federal budget, military spending_
 
 ##### Boris Berezovsky
 ### [ Boris Berezovsky tells the BBC that Alexander Litvinenko, on his deathbed, said that Andrei Lugovoi was responsible for his poisoning. ](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.md)

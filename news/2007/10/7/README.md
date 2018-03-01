@@ -3,9 +3,9 @@ Formats: [HTML](2007/10/7/index.html)  [JSON](2007/10/7/index.json)  [XML](2007/
 
 ## [2007-10-7](/news/2007/10/7/index.md)
 
-##### United States
+##### U.S.
 ### [ U.S. college football: On the heels of last week's historic AP Poll shakeup, another one of comparable size occurs, in which four Top Ten teams and eleven ranked teams overall move down the list or off the poll entirely. LSU receives first place from all 65 sports critics, the first time that has occurred for any team since December 2006. #2 California earns its highest rank since 1951, #4 Boston College earns its highest showing since 1984, and #5 South Florida continues its ascent after first moving into the AP Poll three weeks ago. ](/news/2007/10/7/u-s-college-football-on-the-heels-of-last-week-s-historic-ap-poll-shakeup-another-one-of-comparable-size-occurs-in-which-four-top-ten-t.md)
-_Context: AP Poll, Boston College, December 2006, Louisiana State University, United States, University of California, Berkeley, University of South Florida, college football_
+_Context: AP Poll, Boston College, December 2006, Louisiana State University, U.S., University of California, Berkeley, University of South Florida, college football_
 
 ##### Monet
 ### [ Vandals punch a 10-cm (4") tear in the Claude Monet painting "Le Pont d'Argenteuil" at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival. ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanche.md)
@@ -29,7 +29,7 @@ Costa Ricans on Sunday appeared to narrowly vote in favor of joining the Central
 
 ##### Sheriff
 ### [ A sheriff's deputy shoots dead six young people in Crandon, Wisconsin, United States. It was initially believed that he was killed by a police sniper after a manhunt, but is now believed to have committed suicide by multiple gunshots. ](/news/2007/10/7/a-sheriff-s-deputy-shoots-dead-six-young-people-in-crandon-wisconsin-united-states-it-was-initially-believed-that-he-was-killed-by-a-pol.md)
-_Context: Crandon, Wisconsin, United States, killed by a police sniper, manhunt, multiple gunshots, sheriff, shoots_
+_Context: Crandon, Wisconsin, U.S., killed by a police sniper, manhunt, multiple gunshots, sheriff, shoots_
 
 ##### United Auto Workers
 ### [ The United Auto Workers sets a Wednesday deadline to reach a new four-year contract with Chrysler. ](/news/2007/10/7/the-united-auto-workers-sets-a-wednesday-deadline-to-reach-a-new-four-year-contract-with-chrysler.md)

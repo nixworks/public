@@ -43,9 +43,9 @@ _Context: Krasnodar region, Kushchyovskaya, Russia_
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_
 
-##### United States
+##### U.S.
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, United States_
+_Context: Sudan, U.S._
 
 ##### Israel
 ### [Israel has revealed plans to build nearly 1,300 housing units for Jewish settlers in east Jerusalem. ](/news/2010/11/8/israel-has-revealed-plans-to-build-nearly-1-300-housing-units-for-jewish-settlers-in-east-jerusalem.md)

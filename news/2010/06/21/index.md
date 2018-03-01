@@ -49,7 +49,7 @@ _Context: Afghanistan, Australia, NATO, United States army, helicopter, soldiers
 
 ##### The Washington Post
 ### ["The Washington Post" reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members-pu.md)
-_Context: Gizab, Taliban, The Washington Post, United States_
+_Context: Gizab, Taliban, The Washington Post, U.S._
 
 ##### Shirqat
 ### [8 people die and 10 people are wounded in a suicide attack in the northern city of Shirqat of Iraq. ](/news/2010/06/21/8-people-die-and-10-people-are-wounded-in-a-suicide-attack-in-the-northern-city-of-shirqat-of-iraq.md)

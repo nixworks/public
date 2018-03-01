@@ -3,9 +3,9 @@ Formats: [HTML](2009/01/4/index.html)  [JSON](2009/01/4/index.json)  [XML](2009/
 
 ## [2009-01-4](/news/2009/01/4/index.md)
 
-##### United States
+##### U.S.
 ### [ United States President-elect Barack Obama nominates Virginia Governor Tim Kaine to be the Democratic National Committee's next chairperson. ](/news/2009/01/4/united-states-president-elect-barack-obama-nominates-virginia-governor-tim-kaine-to-be-the-democratic-national-committee-s-next-chairperson.md)
-_Context: Barack Obama, Democratic National Committee, Governor of Virginia, President-elect, Tim Kaine, United States, Virginia_
+_Context: Barack Obama, Democratic National Committee, Governor of Virginia, President-elect, Tim Kaine, U.S., Virginia_
 
 ##### New Mexico
 ### [ New Mexico Governor Bill Richardson withdraws his nomination to be the next United States Secretary of Commerce because of an ongoing federal investigation into possible pay-to-play politics. ](/news/2009/01/4/new-mexico-governor-bill-richardson-withdraws-his-nomination-to-be-the-next-united-states-secretary-of-commerce-because-of-an-ongoing-feder.md)

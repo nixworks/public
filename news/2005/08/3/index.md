@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Saudi Arabia
 ### [ In Saudi Arabia the new King Abdullah has been invested. Tony Blair and Jacques Chirac, along with many European Monarchs are present for the "bayaa" ceremony while George H. W. Bush and Dick Cheney will meet with the new King the following day. ](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.md)
-_Context: Abdullah, Dick Cheney, George H. W. Bush, Jacques Chirac, King, Saudi Arabia, Tony Blair, bayaa_
+_Context: Abdullah, Dick Cheney, George H. W. Bush, Jacques Chirac, Saudi Arabia, Saudi King, Tony Blair, bayaa_
 
 ##### Mahmoud Ahmadinejad
 ### [ In Iran, Mahmoud Ahmadinejad officially becomes new president. ](/news/2005/08/3/in-iran-mahmoud-ahmadinejad-officially-becomes-new-president.md)

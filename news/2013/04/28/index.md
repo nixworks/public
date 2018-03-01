@@ -13,7 +13,7 @@ _Context: Enrico Letta, Italian Prime Minister, Italy, Palazzo Chigi_
 
 ##### Albuquerque
 ### [A man stabs and wounds four people at a church in Albuquerque, New Mexico, United States. ](/news/2013/04/28/a-man-stabs-and-wounds-four-people-at-a-church-in-albuquerque-new-mexico-united-states.md)
-_Context: Albuquerque, New Mexico, United States_
+_Context: Albuquerque, New Mexico, U.S._
 
 ##### Thailand
 ### [Four people are killed when a small bridge collapses near Thailand's ancient capital of Ayutthaya. ](/news/2013/04/28/four-people-are-killed-when-a-small-bridge-collapses-near-thailand-s-ancient-capital-of-ayutthaya.md)

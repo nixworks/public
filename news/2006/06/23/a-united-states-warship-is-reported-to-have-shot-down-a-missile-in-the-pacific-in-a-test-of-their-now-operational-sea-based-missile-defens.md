@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/23/a-united-states-warship-is-reported-to-have-sho
 
 ### [2006-06-23](/news/2006/06/23/index.md)
 
-##### United States
+##### U.S.
 #  A United States warship is reported to have shot down a missile in the Pacific, in a test of their now operational sea-based missile defense system. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2006/06/23/a-united-states-warship-is-reported-to-have-sho
 
 ### Related:
 
-1. [The "Plastiki", a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san-f.md) _Context: South Pacific Ocean, United States_
-2. [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md) _Context: South Pacific Ocean, United States_
-3. [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md) _Context: South Pacific Ocean, United States_
-4. [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-ni.md) _Context: South Pacific Ocean, United States_
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: United States_
+1. [The "Plastiki", a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san-f.md) _Context: South Pacific Ocean, U.S._
+2. [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md) _Context: South Pacific Ocean, U.S._
+3. [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md) _Context: South Pacific Ocean, U.S._
+4. [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-ni.md) _Context: South Pacific Ocean, U.S._
+5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._

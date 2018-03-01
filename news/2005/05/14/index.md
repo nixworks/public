@@ -9,7 +9,7 @@ _Context: Islamist Popular Congress Party, Sudan, coup_
 
 ##### Guatemala
 ### [ Suspected Guatemalan drug lord Otto Roberto Herrera Garcia escapes from prison in Mexico City. He was held pending extradition to United States. ](/news/2005/05/14/suspected-guatemalan-drug-lord-otto-roberto-herrera-garcia-escapes-from-prison-in-mexico-city-he-was-held-pending-extradition-to-united-st.md)
-_Context: Guatemala, Mexico City, Otto Roberto Herrera Garcia, United States, extradition_
+_Context: Guatemala, Mexico City, Otto Roberto Herrera Garcia, U.S., extradition_
 
 ##### Peter Gloystein
 ### [ Peter Gloystein, financial minister for the German state Free Hanseatic City of Bremen, resigns from his posts after he was photographed pouring a bottle of wine over a homeless man ](/news/2005/05/14/peter-gloystein-financial-minister-for-the-german-state-free-hanseatic-city-of-bremen-resigns-from-his-posts-after-he-was-photographed-po.md)

@@ -25,15 +25,15 @@ _Context: European People's Party, centre-right, plurality_
 
 ##### Mayor
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
-_Context: China, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
+_Context: China, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, U.S., quarantine, swine flu_
 
 ##### North Korea
 ### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md)
 _Context: North Korea, North Korea's nuclear program, Sea of Japan, Wonsan_
 
-##### United States
+##### U.S.
 ### [ Two American journalists are found guilty of illegally entering North Korea and sentenced to 12 years of penal labour. ](/news/2009/06/8/two-american-journalists-are-found-guilty-of-illegally-entering-north-korea-and-sentenced-to-12-years-of-penal-labour.md)
-_Context: North Korea, United States, found guilty, penal labour_
+_Context: North Korea, U.S., found guilty, penal labour_
 
 ##### Gabon
 ### [ Gabonese President Omar Bongo dies of a heart attack at age 73. ](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.md)

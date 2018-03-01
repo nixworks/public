@@ -37,7 +37,7 @@ _Context: Executive Order 13769, Supreme Court of the United States, legal chall
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: E.U. Ecofin, French, Tax Cuts and Jobs Act of 2017, United States, value added_
+_Context: E.U. Ecofin, French, Tax Cuts and Jobs Act of 2017, U.S., value added_
 
 ##### 2017 North Korea crisis
 ### [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md)

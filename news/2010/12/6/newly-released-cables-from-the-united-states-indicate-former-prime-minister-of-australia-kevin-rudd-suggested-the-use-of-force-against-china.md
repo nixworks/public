@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/6/newly-released-cables-from-the-united-states-ind
 
 ### [2010-12-6](/news/2010/12/6/index.md)
 
-##### United States
+##### U.S.
 # Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. 
 
 Saudi Arabia is the single biggest contributor to the funding of Islamic extremism and is unwilling to cut off the money supply, according to a leaked note from Hillary Clinton.

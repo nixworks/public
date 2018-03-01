@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/7/the-united-states-decides-to-delay-a-long-planne
 
 ### [2013-04-7](/news/2013/04/7/index.md)
 
-##### United States
+##### U.S.
 # The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. 
 
 Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
@@ -23,8 +23,8 @@ Pentagon puts off intercontinental missile launch apparently to avoid stoking te
 
 ### Related:
 
-1. [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md) _Context: North Korea, United States, intercontinental ballistic missile_
-2. [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in an effort to denuclearize the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-an-effort-to-denuclearize-the.md) _Context: North Korea, United States_
+1. [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md) _Context: North Korea, U.S., intercontinental ballistic missile_
+2. [South Korean president Moon Jae-in states that North Korea is willing to enter talks with the United States in an effort to denuclearize the Korean Peninsula. ](/news/2018/02/25/south-korean-president-moon-jae-in-states-that-north-korea-is-willing-to-enter-talks-with-the-united-states-in-an-effort-to-denuclearize-the.md) _Context: North Korea, U.S._
 3. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California, Vandenberg Air Force Base_
-4. [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md) _Context: North Korea, United States_
+4. [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md) _Context: North Korea, U.S._
 5. [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md) _Context: California, Vandenberg Air Force Base_

@@ -21,7 +21,7 @@ _Context: FIFA, Greece, football, government_
 
 ##### North Korea
 ### [ North Korean leaders say that they will respond to any pre-emptive attack from the US with an "annihilating strike and a nuclear war." ](/news/2006/07/3/north-korean-leaders-say-that-they-will-respond-to-any-pre-emptive-attack-from-the-us-with-an-annihilating-strike-and-a-nuclear-war.md)
-_Context: North Korea, United States, nuclear strike_
+_Context: North Korea, U.S., nuclear strike_
 
 ##### Discovery
 ### [ The Space Shuttle "Discovery"'s launch on STS-121 is thrown in doubt when a 3 inch crack is found in the foam insulation of its external tank. Despite the crack, NASA decides to proceed with the launch, scheduled for 2:38 PM ET Tuesday, which would be the first manned launch on the United States Independence Day. ](/news/2006/07/3/the-space-shuttle-discovery-s-launch-on-sts-121-is-thrown-in-doubt-when-a-3-inch-crack-is-found-in-the-foam-insulation-of-its-external-ta.md)

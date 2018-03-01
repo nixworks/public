@@ -27,7 +27,7 @@ _Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presi
 ### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
 _Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox, camel, plastic surgery_
 
-##### American-led intervention in the Syrian Civil War
+##### United States and US-backed forces
 ### [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md)
 The US says it targeted a militant headquarters in the Euphrates valley, in Deir al-Zour province.
 

@@ -45,7 +45,7 @@ _Context: Barcelona Supercomputing Center, Europe, MareNostrum, Spain, booted up
 
 ##### Luis Posada Carriles
 ### [ Anti-Castro militant Luis Posada Carriles applies for asylum in the United States. Fidel Castro accuses the US of hypocrisy for protecting a terrorist. ](/news/2005/04/12/anti-castro-militant-luis-posada-carriles-applies-for-asylum-in-the-united-states-fidel-castro-accuses-the-us-of-hypocrisy-for-protecting.md)
-_Context: Fidel Castro, Luis Posada Carriles, United States, asylum, terrorism_
+_Context: Fidel Castro, Luis Posada Carriles, U.S., asylum, terrorism_
 
 ##### Death toll
 ### [ The death toll in the collapse of a factory in Dacca, Bangladesh rises to 21 and hundreds are still trapped. ](/news/2005/04/12/the-death-toll-in-the-collapse-of-a-factory-in-dacca-bangladesh-rises-to-21-and-hundreds-are-still-trapped.md)

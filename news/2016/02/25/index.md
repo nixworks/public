@@ -41,7 +41,7 @@ _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji, UNICEF, e
 
 ##### Dick Smith
 ### [Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. ](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.md)
-_Context: Australia, Dick Smith, New Zealand, administration_
+_Context: Australia, Dick Smith, New Zealand, collapses into administration_
 
 ##### The Nikkei
 ### ["The Nikkei" reports that Japan's Sharp Corporation has accepted a 700 billion Japanese yen ($6.2 billion) takeover bid from Taiwan's Foxconn Technology Group. ](/news/2016/02/25/the-nikkei-reports-that-japan-s-sharp-corporation-has-accepted-a-700-billion-japanese-yen-6-2-billion-takeover-bid-from-taiwan-s-foxcon.md)

@@ -35,9 +35,9 @@ One in four people charged over the riots in English cities last month had commi
 ### [The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. ](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.md)
 _Context: China, Xinjiang, terrorism_
 
-##### United States
+##### U.S.
 ### [The United States designates the Indian Mujahideen as a terrorist organisation. ](/news/2011/09/15/the-united-states-designates-the-indian-mujahideen-as-a-terrorist-organisation.md)
-_Context: Indian Mujahideen, United States, terrorism_
+_Context: Indian Mujahideen, U.S., terrorism_
 
 ##### UNICEF
 ### [UNICEF releases a child mortality report indicating that the number of children dying under the age of five has fallen from more than 12 million in 1990 to 7.6 million in 2010. ](/news/2011/09/15/unicef-releases-a-child-mortality-report-indicating-that-the-number-of-children-dying-under-the-age-of-five-has-fallen-from-more-than-12-mil.md)

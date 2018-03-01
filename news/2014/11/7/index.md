@@ -29,7 +29,7 @@ _Context: Philippines, Tacloban, Typhoon Haiyan (Yolanda)_
 
 ##### 2014 military intervention against ISIS
 ### [United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md)
-_Context: 2014 military intervention against ISIS, Barack Obama, Iraq, United States_
+_Context: 2014 military intervention against ISIS, Barack Obama, Iraq, U.S._
 
 ## [Previous Day...](/news/2014/11/6/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2011/03/9/index.html)  [JSON](2011/03/9/index.json)  [XML](2011/
 
 ## [2011-03-9](/news/2011/03/9/index.md)
 
-##### United States
+##### U.S.
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, Food and Drug Administration, United States, lupus_
+_Context: Belimumab, Food and Drug Administration, U.S., lupus_
 
 ##### Space Shuttle
 ### [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)

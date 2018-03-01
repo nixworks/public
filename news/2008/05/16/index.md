@@ -13,7 +13,7 @@ _Context: June 27, Morgan Tsvangirai, Movement for Democratic Change, President 
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, George W. Bush, King, Saudi Arabia, U.S. President_
+_Context: Abdullah, George W. Bush, Saudi Arabia, Saudi King, U.S. President_
 
 ##### Sri Lanka
 ### [ A suicide bomber kills at least nine people, including 7 police, and wounds 90 in Sri Lanka's capital Colombo. ](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.md)
@@ -27,13 +27,13 @@ _Context: 2008 Summer Olympics, Court of Arbitration for Sport, IAAF, Oscar Pist
 ### [ The State Peace and Development Council in Burma doubles the death toll from Cyclone Nargis to 78,000 with 55,917 people missing and 19,359 people injured. ](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.md)
 The government’s revised death toll almost doubled, and it also raised the number of missing to 55,917.
 
-##### United States
+##### U.S.
 ### [ The United States reaches a deal with North Korea to resume food aid with 500,000 tonnes of food to be sent to North Korea during the next year. ](/news/2008/05/16/the-united-states-reaches-a-deal-with-north-korea-to-resume-food-aid-with-500-000-tonnes-of-food-to-be-sent-to-north-korea-during-the-next.md)
-_Context: North Korea, United States, food aid, tonne_
+_Context: North Korea, U.S., food aid, tonne_
 
-##### United States
+##### U.S.
 ### [ Former United States Olympic sprinter Tim Montgomery is sentenced to 46 months imprisonment for his involvement in a check fraud and money laundering scheme. ](/news/2008/05/16/former-united-states-olympic-sprinter-tim-montgomery-is-sentenced-to-46-months-imprisonment-for-his-involvement-in-a-check-fraud-and-money.md)
-_Context: Olympic Games, Tim Montgomery, United States, check fraud, money laundering, sprint runner_
+_Context: Olympic Games, Tim Montgomery, U.S., check fraud, money laundering, sprint runner_
 
 ##### Aftershock
 ### [ A strong aftershock to the 2008 Sichuan earthquake knocks out roads and communications to some of the worst affected areas disrupting rescue efforts. ](/news/2008/05/16/a-strong-aftershock-to-the-2008-sichuan-earthquake-knocks-out-roads-and-communications-to-some-of-the-worst-affected-areas-disrupting-rescu.md)

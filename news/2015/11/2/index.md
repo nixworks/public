@@ -55,7 +55,7 @@ The two companies have more than 2.9 billion cards issued on its combined networ
 ### [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md)
 _Context: Airbus, Boeing Company, Chinese, Comac, Comac C919_
 
-##### United States
+##### U.S.
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated KKK-affiliated websites, and warned of more action culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)
 The hacking group revealed emails and phone numbers for alleged members.
 

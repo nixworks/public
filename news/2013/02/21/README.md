@@ -29,7 +29,7 @@ _Context: Bhandara district, India_
 
 ##### Shooting
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: Las Vegas Strip, Nevada, Paradise, Nevada, United States, shooting_
+_Context: Las Vegas Strip, Nevada, Paradise, Nevada, U.S., shooting_
 
 ##### Snowstorm
 ### [A major snowstorm occurs in the Midwestern United States leading to two deaths so far. ](/news/2013/02/21/a-major-snowstorm-occurs-in-the-midwestern-united-states-leading-to-two-deaths-so-far.md)

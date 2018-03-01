@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/17/index.html)  [JSON](2010/01/17/index.json)  [XML](201
 
 ## [2010-01-17](/news/2010/01/17/index.md)
 
-##### United States
+##### U.S.
 ### [A U.S. drone attack kills 15 alleged militants in the Pakistani region of South Waziristan. ](/news/2010/01/17/a-u-s-drone-attack-kills-15-alleged-militants-in-the-pakistani-region-of-south-waziristan.md)
-_Context: Pakistan, South Waziristan, United States, drones launch_
+_Context: Pakistan, South Waziristan, U.S., drones launch_
 
 ##### Duke of Cambridge
 ### [Prince William of Wales arrives in New Zealand for a three-day tour, including the opening of its new Supreme Court building, his first official overseas trip representing Elizabeth II. ](/news/2010/01/17/prince-william-of-wales-arrives-in-new-zealand-for-a-three-day-tour-including-the-opening-of-its-new-supreme-court-building-his-first-offi.md)

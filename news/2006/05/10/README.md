@@ -9,7 +9,7 @@ _Context: 1956, 1960, China, Sino-Soviet split_
 
 ##### Federal Open Market Committee
 ### [ The Federal Open Market Committee of the United States' central bank, the Federal Reserve, decides upon an increase in the federal funds rate by 25 basis points to 5.00%.](/news/2006/05/10/the-federal-open-market-committee-of-the-united-states-central-bank-the-federal-reserve-decides-upon-an-increase-in-the-federal-funds-ra.md)
-_Context: Federal Open Market Committee, Federal Reserve, United States, central bank, federal funds rate_
+_Context: Federal Open Market Committee, Federal Reserve, U.S., central bank, federal funds rate_
 
 ## [Previous Day...](/news/2006/05/9/index.md)
 

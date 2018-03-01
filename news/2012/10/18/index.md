@@ -11,7 +11,7 @@ _Context: anti-austerity protests in Greece_
 ### [Trading of Google stock on NASDAQ is temporarily suspended after it drops 9% following an inadvertent early release of its quarterly report showing a 20% decline in profits. ](/news/2012/10/18/trading-of-google-stock-on-nasdaq-is-temporarily-suspended-after-it-drops-9-following-an-inadvertent-early-release-of-its-quarterly-report.md)
 Trading in Google shares was suspended for over two hours after it released financial results early by mistake, showing a 20% profit fall.
 
-##### United States
+##### U.S.
 ### [American weekly news magazine "Newsweek" announces it will cease print publication on December 31 and will move to an online-only format. ](/news/2012/10/18/american-weekly-news-magazine-newsweek-announces-it-will-cease-print-publication-on-december-31-and-will-move-to-an-online-only-format.md)
 Newsweek announces it will shift to online-only publication after 80 years, with Dec. 31 set to be last print issue. 
 

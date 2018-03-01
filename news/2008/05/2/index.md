@@ -9,15 +9,15 @@ _Context: 2007 royal blackmail plot, gay sex_
 
 ##### Russia
 ### [ Teams in both Russia and the United States identify the remains of Tsarevich Alexei of Russia and his sister Grand Duchess Maria after the discovery of their bone shards on August 23, 2007. ](/news/2008/05/2/teams-in-both-russia-and-the-united-states-identify-the-remains-of-tsarevich-alexei-of-russia-and-his-sister-grand-duchess-maria-after-the.md)
-_Context: Grand Duchess Maria, Russia, Tsarevich Alexei of Russia, United States_
+_Context: Grand Duchess Maria, Russia, Tsarevich Alexei of Russia, U.S._
 
 ##### $
 ### [ A $38 million compensation deal is completed for victims of the I-35W Mississippi River bridge collapse. ](/news/2008/05/2/a-38-million-compensation-deal-is-completed-for-victims-of-the-i-35w-mississippi-river-bridge-collapse.md)
 _Context: $, I-35W Mississippi River bridge, compensation_
 
-##### United States
+##### U.S.
 ### [ United States non-farm payrolls fall by 20,000 jobs with the unemployment rate falling to 5 per cent. ](/news/2008/05/2/united-states-non-farm-payrolls-fall-by-20-000-jobs-with-the-unemployment-rate-falling-to-5-per-cent.md)
-_Context: United States, payroll, unemployment_
+_Context: U.S., payroll, unemployment_
 
 ##### Southern Sudan
 ### [ A plane crash kills more than a dozen in Southern Sudan, including defense minister Dominic Dim Deng. ](/news/2008/05/2/a-plane-crash-kills-more-than-a-dozen-in-southern-sudan-including-defense-minister-dominic-dim-deng.md)
@@ -25,7 +25,7 @@ _Context: Dominic Dim Deng, Southern Sudan_
 
 ##### Foreign minister
 ### [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md)
-_Context: Chinese, French, German, Iran, Russia, United Kingdom, United States, foreign minister, nuclear program_
+_Context: Chinese, French, German, Iran, Russia, U.S., United Kingdom, foreign minister, nuclear program_
 
 ##### Run-off presidential election
 ### [ The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. ](/news/2008/05/2/the-opposition-movement-for-democratic-change-proposes-a-power-sharing-arrangement-with-the-president-of-zimbabwe-robert-mugabe-s-party-th.md)
@@ -37,7 +37,7 @@ _Context: Seoul, South Korea, mad cow disease_
 
 ##### May 1-2, 2008 tornado outbreak
 ### [ May 1-2, 2008 tornado outbreak: Tornadoes affecting the south-central United States kill at least seven in Arkansas. ](/news/2008/05/2/may-1-2-2008-tornado-outbreak-tornadoes-affecting-the-south-central-united-states-kill-at-least-seven-in-arkansas.md)
-_Context: Arkansas, May 1-2, 2008 tornado outbreak, United States, tornado_
+_Context: Arkansas, May 1-2, 2008 tornado outbreak, U.S., tornado_
 
 ##### Olympic flame
 ### [ The Olympic flame is back on Chinese soil as the Olympics torch relay continues in Hong Kong, Special Administrative Region of the People's Republic of China. ](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.md)

@@ -19,13 +19,13 @@ _Context: Han Seung-soo, Prime Minister, South Korea, beef imports, forming a go
 ### [ Water from the Tangjiashan Lake, created in the 2008 Sichuan earthquake, floods the abandoned town of Beichuan. ](/news/2008/06/10/water-from-the-tangjiashan-lake-created-in-the-2008-sichuan-earthquake-floods-the-abandoned-town-of-beichuan.md)
 _Context: Beichuan, Tangjiashan Lake, deadly earthquake, flood_
 
-##### United States
+##### U.S.
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
-_Context: Republican, United States, United States Senate, windfall profits tax_
+_Context: Republican, U.S., United States Senate, windfall profits tax_
 
 ##### U.S. President
 ### [ President George W. Bush attends the final United States-European Union summit of his Presidency with agreements to tighten sanctions against Iran for its nuclear program. ](/news/2008/06/10/president-george-w-bush-attends-the-final-united-states-european-union-summit-of-his-presidency-with-agreements-to-tighten-sanctions-again.md)
-_Context: European Union, George W. Bush, Iran, U.S. President, United States, nuclear program_
+_Context: European Union, George W. Bush, Iran, U.S., U.S. President, nuclear program_
 
 ##### Morocco
 ### [ A Moroccan court sentences 29 people to prison sentences for recruiting people to fight for militants in Iraq. ](/news/2008/06/10/a-moroccan-court-sentences-29-people-to-prison-sentences-for-recruiting-people-to-fight-for-militants-in-iraq.md)

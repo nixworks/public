@@ -13,7 +13,7 @@ China&#039;s leaders faced fresh calls for freedom of speech on Friday after gro
 
 ##### Countrywide Financial
 ### [Former Countrywide Financial Chief Executive Officer Angelo Mozilo and two other senior executives agree to settle United States Securities and Exchange Commission claims that they misled investors and of insider trading. ](/news/2010/10/15/former-countrywide-financial-chief-executive-officer-angelo-mozilo-and-two-other-senior-executives-agree-to-settle-united-states-securities.md)
-_Context: Angelo Mozilo, Chief Executive Officer, Countrywide Financial, Securities and Exchange Commission, United States, insider trading_
+_Context: Angelo Mozilo, Chief Executive Officer, Countrywide Financial, Securities and Exchange Commission, U.S., insider trading_
 
 ##### Iran
 ### [Iran says two Germans arrested for interviewing the son of Sakineh Mohammadi Ashtiani, who has been sentenced to be stoned to death for adultery, have "admitted to breaking the law". ](/news/2010/10/15/iran-says-two-germans-arrested-for-interviewing-the-son-of-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-be-stoned-to-death-for-adul.md)
@@ -67,9 +67,9 @@ Party officials gather to outline five-year economic and social development plan
 ### [Canton Fair opens, China's largest trade fair and a key barometer of its trade and economic development. ](/news/2010/10/15/canton-fair-opens-china-s-largest-trade-fair-and-a-key-barometer-of-its-trade-and-economic-development.md)
 _Context: Canton Fair, barometer_
 
-##### United States
+##### U.S.
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
-_Context: T.I., United States, parole, rapper_
+_Context: T.I., U.S., parole, rapper_
 
 ##### Berlin
 ### [A museum in Berlin opens an exhibition on Adolf Hitler and his relationship with the German people, the first museum in Germany to do so. ](/news/2010/10/15/a-museum-in-berlin-opens-an-exhibition-on-adolf-hitler-and-his-relationship-with-the-german-people-the-first-museum-in-germany-to-do-so.md)

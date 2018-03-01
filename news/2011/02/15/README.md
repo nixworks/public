@@ -49,7 +49,7 @@ The State Department will finance programs to help Internet users around the wor
 
 ##### Argentina
 ### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country. ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
-_Context: Argentina, United States_
+_Context: Argentina, U.S._
 
 ##### Delaware
 ### [The Delaware Chancery Court upholds the use of a poison pill by Airgas, effectively ending a takeover bid launched a year ago by Air Products. ](/news/2011/02/15/the-delaware-chancery-court-upholds-the-use-of-a-poison-pill-by-airgas-effectively-ending-a-takeover-bid-launched-a-year-ago-by-air-product.md)

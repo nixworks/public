@@ -17,7 +17,7 @@ NAU Police Chief G.T. Fowler says the shooting stems from a conflict that develo
 
 ##### Territorial disputes in the South China Sea
 ### [China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-of-navigation-following-a-statement-from-a-p.md)
-_Context: Chinese, Pentagon, South China Sea, Territorial disputes in the South China Sea, United States, freedom of navigation_
+_Context: Chinese, Pentagon, South China Sea, Territorial disputes in the South China Sea, U.S., freedom of navigation_
 
 ##### Tunisian National Dialogue Quartet
 ### [The Tunisian National Dialogue Quartet wins the 2015 Nobel Peace Prize for its "decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011." The Tunisian General Labour Union (UGTT), the Tunisian Confederation of Industry, Trade and Handicrafts (UTICA), the Tunisian Human Rights League (LTDH), and the Tunisian Order of Lawyers comprise the quartet. ](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.md)

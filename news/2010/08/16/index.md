@@ -91,15 +91,15 @@ Passenger dies of heart attack and 114 others are injured in crash.
 ### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
 A group of intellectuals and politicians calls on France to repay 17bn euros (£14bn) &quot;extorted&quot; from Haiti in the 19th Century.
 
-##### United States
+##### U.S.
 ### [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md)
-_Context: Michael Douglas, United States, chemotherapy, tumor_
+_Context: Michael Douglas, U.S., chemotherapy, tumor_
 
 ##### Nadja Benaissa
 ### [Nadja Benaissa, a HIV-positive former singer in the German girl band No Angels, goes on trial for allegedly not advising sexual partners of her condition. ](/news/2010/08/16/nadja-benaissa-a-hiv-positive-former-singer-in-the-german-girl-band-no-angels-goes-on-trial-for-allegedly-not-advising-sexual-partners-of.md)
 German singer Nadja Benaissa admits at her trial to having unprotected sex with several men without warning them she was HIV-positive.
 
-##### Afghanistan President
+##### Afghan President
 ### [The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/the-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four-months-to-disband.md)
 Afghan President Hamid Karzai will give private security firms operating in the war-torn country four months to dissolve.
 

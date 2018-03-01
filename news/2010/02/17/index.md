@@ -17,7 +17,7 @@ Walgreen is buying the Duane Reade chain of 257 drugstores in the New York area 
 
 ##### Reader's Digest
 ### [The UK branch of publishing company "Reader's Digest" files for administration. ](/news/2010/02/17/the-uk-branch-of-publishing-company-reader-s-digest-files-for-administration.md)
-_Context: Reader's Digest, administration_
+_Context: Reader's Digest, collapses into administration_
 
 ##### Supreme Administrative Court of Ukraine
 ### [The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. ](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.md)

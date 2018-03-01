@@ -9,7 +9,7 @@ _Context: Chicago, Cincinnati, Ohio, Cleveland, Detroit, Evansville, Indianapoli
 
 ##### South Korea
 ### [ South Korea agrees to open its market to beef from the United States ahead of trade talks. ](/news/2008/04/18/south-korea-agrees-to-open-its-market-to-beef-from-the-united-states-ahead-of-trade-talks.md)
-_Context: South Korea, United States, beef_
+_Context: South Korea, U.S., beef_
 
 ##### Texas
 ### [ A Texas judge rules that 418 children taken from the YFZ Ranch should remain in state custody for 60 days. ](/news/2008/04/18/a-texas-judge-rules-that-418-children-taken-from-the-yfz-ranch-should-remain-in-state-custody-for-60-days.md)

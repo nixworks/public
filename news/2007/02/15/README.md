@@ -19,9 +19,9 @@ _Context: Antarctic, Australia, Chris Ellison, Japan, Nisshin Maru, Southern Oce
 ### [ The Foreign Minister of China, Li Zhaoxing, is visiting Japan hoping to improve bilateral relations between the nations. The Chinese Prime Minister Wen Jiabao will visit Japan in April. ](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.md)
 _Context: Foreign Minister of China, Japan, Li Zhaoxing, Premier of the People's Republic of China, Wen Jiabao_
 
-##### United States
+##### U.S.
 ### [ The United States will build a military communications facility near Geraldton, Western Australia. ](/news/2007/02/15/the-united-states-will-build-a-military-communications-facility-near-geraldton-western-australia.md)
-_Context: Geraldton, Western Australia, United States_
+_Context: Geraldton, Western Australia, U.S._
 
 ##### South Korea
 ### [ South Korea agrees to resume high level talks with North Korea following the deal over North Korea's nuclear program. ](/news/2007/02/15/south-korea-agrees-to-resume-high-level-talks-with-north-korea-following-the-deal-over-north-korea-s-nuclear-program.md)

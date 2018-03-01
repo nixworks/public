@@ -17,7 +17,7 @@ _Context: Gjorge Ivanov, Republic of Macedonia, VMRO-DPMNE, election, presidenti
 
 ##### Afghanistan
 ### [ Afghanistan's government will review a recently approved version of sharia law that legalizes spousal rape. ](/news/2009/04/6/afghanistan-s-government-will-review-a-recently-approved-version-of-sharia-law-that-legalizes-spousal-rape.md)
-_Context: Afghan government's, Afghanistan, sharia law, spousal rape_
+_Context: Afghanistan, Politics of Afghanistan, sharia law, spousal rape_
 
 ##### Magnitude
 ### [ At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. ](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured-during-a-6-3-magnitude-earthquake-near-l-aquila-italy.md)

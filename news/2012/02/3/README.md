@@ -39,13 +39,13 @@ A state disaster has been declared as floods rise across southeast Qld with the 
 ### [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry Rabaul Queen which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-rabaul-queen-which-san.md)
 _Context: Papua New Guinea_
 
-##### United States
+##### U.S.
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.
 
-##### United States
+##### U.S.
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: Dow Jones Industrial Average, NASDAQ, United States_
+_Context: Dow Jones Industrial Average, NASDAQ, U.S._
 
 ##### Hungarian
 ### [Hungarian airline Malv ceases operation as its aircraft are grounded due to unpaid debts. ](/news/2012/02/3/hungarian-airline-malev-ceases-operation-as-its-aircraft-are-grounded-due-to-unpaid-debts.md)

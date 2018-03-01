@@ -33,7 +33,7 @@ _Context: Abidjan, Ivory Coast, lagoon_
 
 ##### Standard & Poor's
 ### [The Standard & Poor's credit rating agency downgrades the credit rating of the United States from AAA to AA+ with a negative outlook. ](/news/2011/08/5/the-standard-poor-s-credit-rating-agency-downgrades-the-credit-rating-of-the-united-states-from-aaa-to-aa-with-a-negative-outlook.md)
-_Context: Standard & Poor's, United States, credit rating_
+_Context: Standard & Poor's, U.S., credit rating_
 
 ##### Stock market
 ### [Stock markets in Asia and Australia continue falls from Europe and the United States. ](/news/2011/08/5/stock-markets-in-asia-and-australia-continue-falls-from-europe-and-the-united-states.md)

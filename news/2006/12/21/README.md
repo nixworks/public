@@ -21,9 +21,9 @@ _Context: Baidoa, Horn of Africa_
 
 ##### New Jersey
 ### [ New Jersey Governor Jon S. Corzine signs a bill granting civil unions to same-sex couples, with all the rights and privileges of marriage. New Jersey becomes the third U.S. state to offer civil unions, and the fifth to offer some version of marriage to gay couples. ](/news/2006/12/21/new-jersey-governor-jon-s-corzine-signs-a-bill-granting-civil-unions-to-same-sex-couples-with-all-the-rights-and-privileges-of-marriage.md)
-_Context: Jon Corzine, New Jersey, Same-sex marriage in the United States, United States, civil union, gubernatorial elections, marriage_
+_Context: Jon Corzine, New Jersey, Same-sex marriage in the United States, U.S., civil union, gubernatorial elections, marriage_
 
-##### United States
+##### U.S.
 ### [ U.S. military prosecutors charge three Marines with murder in connection with the Haditha killings. ](/news/2006/12/21/u-s-military-prosecutors-charge-three-marines-with-murder-in-connection-with-the-haditha-killings.md)
 Four U.S. marines, including a squad leader, were charged with murder Thursday in the slaughter of 24 Iraqi civilians &mdash; in the biggest American criminal case involving civilian deaths to arise from the Iraqi war.
 

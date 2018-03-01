@@ -7,9 +7,9 @@ Formats: [HTML](2007/06/7/index.html)  [JSON](2007/06/7/index.json)  [XML](2007/
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
 _Context: Cloture, Comprehensive Immigration Reform Act of 2007, United States Senate_
 
-##### United States
+##### U.S.
 ### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
-_Context: Bartonella rochalimae, United States, bacteria, scientist, strain_
+_Context: Bartonella rochalimae, U.S., bacteria, scientist, strain_
 
 ##### Reserve Bank of New Zealand
 ### [ The Reserve Bank of New Zealand raises interest rates in New Zealand to 8%, the highest level of any industrialised nation. ](/news/2007/06/7/the-reserve-bank-of-new-zealand-raises-interest-rates-in-new-zealand-to-8-the-highest-level-of-any-industrialised-nation.md)

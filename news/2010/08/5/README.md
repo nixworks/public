@@ -3,9 +3,9 @@ Formats: [HTML](2010/08/5/index.html)  [JSON](2010/08/5/index.json)  [XML](2010/
 
 ## [2010-08-5](/news/2010/08/5/index.md)
 
-##### United States
+##### U.S.
 ### [In United States baseball, a group led by Nolan Ryan buys the Texas Rangers at a bankruptcy auction. ](/news/2010/08/5/in-united-states-baseball-a-group-led-by-nolan-ryan-buys-the-texas-rangers-at-a-bankruptcy-auction.md)
-_Context: Nolan Ryan, Texas Rangers, United States, baseball_
+_Context: Nolan Ryan, Texas Rangers, U.S., baseball_
 
 ##### Uruguay
 ### [Uruguay striker and 2010 FIFA World Cup player of the tournament Diego Forln is a popular attraction among the inhabitants of Kolkata as he participates in a talent search. ](/news/2010/08/5/uruguay-striker-and-2010-fifa-world-cup-player-of-the-tournament-diego-forlan-is-a-popular-attraction-among-the-inhabitants-of-kolkata-as-he.md)

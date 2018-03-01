@@ -23,7 +23,7 @@ _Context: Catalan Parliament, Catalonia, Constitutional Court, Mariano Rajoy, Pr
 ### [The U.S. Court of Appeals in New Orleans, Louisiana, in a 2-1 decision, upholds a lower court's injunction that blocks implementation of an Executive order to shield from deportation millions of undocumented immigrants who entered the United States as children. The White House is considering an appeal to the U.S. Supreme Court. ](/news/2015/11/9/the-u-s-court-of-appeals-in-new-orleans-louisiana-in-a-2-1-decision-upholds-a-lower-courtas-injunction-that-blocks-implementation-of-a.md)
 The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Court battle.
 
-##### United States
+##### U.S.
 ### [In the United States, the University of Virginia fraternity that was the subject of a "Rolling Stone" article about a brutal campus rape, filed a $25 million defamation lawsuit against the magazine and the article's writer. ](/news/2015/11/9/in-the-united-states-the-university-of-virginia-fraternity-that-was-the-subject-of-a-rolling-stone-article-about-a-brutal-campus-rape-fi.md)
 The UVA frat that was a subject of a sensational article in Rolling Stone about a brutal campus rape filed a defamation lawsuit Monday against the magazine and the article&#x27;s writer for $25 million.
 

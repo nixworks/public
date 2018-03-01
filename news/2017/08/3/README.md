@@ -13,7 +13,7 @@ Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted
 
 ##### 115th United States Congress
 ### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
-_Context: 115th United States Congress, United States, recess_
+_Context: 115th United States Congress, U.S., recess_
 
 ##### Raytheon
 ### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)

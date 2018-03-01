@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/02/11/in-monaco-s-parliamentary-elections-horizon-mon
 
 ### Related:
 
-1. [Primo! Priority Monaco ("Priorite Monaco"), a new political party, wins 21 of the 24 seats in the National Council. ](/news/2018/02/11/primo-priority-monaco-priorita-c-monaco-a-new-political-party-wins-21-of-the-24-seats-in-the-national-council.md) _Context: National Council_
+1. [Primo ! Priorite Monaco, a new political party, wins 21 of the 24 seats in the National Council. ](/news/2018/02/11/primo-priorita-c-monaco-a-new-political-party-wins-21-of-the-24-seats-in-the-national-council.md) _Context: National Council_
 2. [Charlene, Princess of Monaco, wife of Albert II, Prince of Monaco, gives birth to twins Jacques and Gabriella. Jacques will be heir apparent in line with male priority of Monaco's succession laws. ](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.md) _Context: Monaco_
 3. [ Bulgaria, Croatia, Hungary and Monaco jointly recognize Kosovo's independence. ](/news/2008/03/19/bulgaria-croatia-hungary-and-monaco-jointly-recognize-kosovo-s-independence.md) _Context: Monaco_
 4. [ Prince Albert of Monaco is formally enthroned. ](/news/2005/11/19/prince-albert-of-monaco-is-formally-enthroned.md) _Context: Monaco_

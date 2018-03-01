@@ -37,7 +37,7 @@ _Context: Al Qaeda, Government of Kyrgyzstan, Hizb ut-Tahrir, Kyrgyzstan, politi
 
 ##### Storm Worm
 ### [ The Storm Worm Trojan horse infects thousands of computers (mostly private) in Europe and the United States. ](/news/2007/01/19/the-storm-worm-trojan-horse-infects-thousands-of-computers-mostly-private-in-europe-and-the-united-states.md)
-_Context: Europe, Storm Worm, Trojan horse, United States_
+_Context: Europe, Storm Worm, Trojan horse, U.S._
 
 ## [Previous Day...](/news/2007/01/18/index.md)
 

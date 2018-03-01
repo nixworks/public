@@ -59,7 +59,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
 _Context: Arch Coal, Sierra Club, bankruptcy, environmental_
 
-##### United States
+##### U.S.
 ### [The United States announces new rules, that will go into effect on July 6, that amount to a near-total ban on the commercial trade of African elephant ivory. ](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.md)
 The move is the latest step in the Obama administration’s fight against wildlife trafficking.
 

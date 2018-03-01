@@ -33,7 +33,7 @@ _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, Venezuelan governm
 
 ##### Taliban
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghan government's, Afghanistan, Kabul, Taliban, militant_
+_Context: Afghanistan, Kabul, Politics of Afghanistan, Taliban, militant_
 
 ##### Self-immolation
 ### [ A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. ](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immolation-outside-the-government-buildings-in-dublin-ireland.md)
@@ -45,7 +45,7 @@ Union pledges to fight to reverse the decision.
 
 ##### Ford's Theatre
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, U.S. President, United States, Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, U.S., U.S. President, Washington, D.C., assassinated, bicentennial_
 
 ##### Hamas
 ### [ Hamas agrees to an 18-month truce in its conflict with Israel, which has not yet responded. ](/news/2009/02/12/hamas-agrees-to-an-18-month-truce-in-its-conflict-with-israel-which-has-not-yet-responded.md)
@@ -57,15 +57,15 @@ _Context: 1981, Iraq, Iraqi Parliament, Israel, nuclear reactors, reparations_
 
 ##### Republican
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
-_Context: Judd Gregg, New Hampshire, Republican, United States, United States Secretary of Commerce, United States Senate_
+_Context: Judd Gregg, New Hampshire, Republican, U.S., United States Secretary of Commerce, United States Senate_
 
 ##### Pope
 ### [ Pope Benedict XVI condemns any denial of the Holocaust as "intolerable and altogether unacceptable". ](/news/2009/02/12/pope-benedict-xvi-condemns-any-denial-of-the-holocaust-as-intolerable-and-altogether-unacceptable.md)
 The remarks to a Jewish group were among the pope’s strongest since a bishop’s comments set off outrage.
 
-##### United States
+##### U.S.
 ### [ The United States National Transportation Safety Board concludes that Canada geese caused US Airways Flight 1549 to ditch into New York City's Hudson River. ](/news/2009/02/12/the-united-states-national-transportation-safety-board-concludes-that-canada-geese-caused-us-airways-flight-1549-to-ditch-into-new-york-cit.md)
-_Context: Canada geese, Hudson River, NTSB, New York City, US Airways, US Airways Flight 1549, United States, ditches_
+_Context: Canada geese, Hudson River, NTSB, New York City, U.S., US Airways, US Airways Flight 1549, ditches_
 
 ##### Colgan Air
 ### [ Colgan Air Flight 3407 crashes in Clarence Center, New York, killing 50 people. ](/news/2009/02/12/colgan-air-flight-3407-crashes-in-clarence-center-new-york-killing-50-people.md)

@@ -91,7 +91,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [The number of mortgage foreclosures in the United States in September 2010 exceeds 100,000 for the first time. ](/news/2010/10/14/the-number-of-mortgage-foreclosures-in-the-united-states-in-september-2010-exceeds-100-000-for-the-first-time.md)
 The number of homes taken over by banks topped 100,000 for the first time in September, though foreclosures are expected to slow in coming months as lenders work through questionable paperwork, real estate data company RealtyTrac said on Thursday.
 
-##### United States
+##### U.S.
 ### [The shortlist for the United States National Book Award is announced. ](/news/2010/10/14/the-shortlist-for-the-united-states-national-book-award-is-announced.md)
 Acclaimed Australian author Peter Carey might have missed out the Booker Prize, but he has been shortlisted for America&#039;s National Book Awards.
 

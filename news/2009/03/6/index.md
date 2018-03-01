@@ -9,7 +9,7 @@ Safety investigator&#039;s report finds electronic error led to dangerous plunge
 
 ##### North Korea
 ### [ North Korea threatens the safety of South Korean civilian aircraft flying near its territory, on the eve of annual military exercises involving the United States and the South. ](/news/2009/03/6/north-korea-threatens-the-safety-of-south-korean-civilian-aircraft-flying-near-its-territory-on-the-eve-of-annual-military-exercises-invol.md)
-_Context: North Korea, South Korea, United States, military exercise_
+_Context: North Korea, South Korea, U.S., military exercise_
 
 ##### Sweden
 ### [ A Swedish pediatrician at Karolinska University Hospital is remanded on suspicion of manslaughter for injecting a lethal overdose of morphine and sodium thiopental into an infant. ](/news/2009/03/6/a-swedish-pediatrician-at-karolinska-university-hospital-is-remanded-on-suspicion-of-manslaughter-for-injecting-a-lethal-overdose-of-morphi.md)

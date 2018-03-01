@@ -37,7 +37,7 @@ _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World W
 
 ##### Colombia
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: Colombia, United States_
+_Context: Colombia, U.S._
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
