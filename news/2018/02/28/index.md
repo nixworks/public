@@ -3,7 +3,7 @@ Formats: [HTML](2018/02/28/index.html)  [JSON](2018/02/28/index.json)  [XML](201
 
 ## [2018-02-28](/news/2018/02/28/index.md)
 
-##### Timeline of the Trump presidency, 2018 Q1
+##### Presidency of Donald Trump
 ### [Hope Hicks announces that she will resign as White House Communications Director, one day after being interviewed by the House Intelligence Committee. ](/news/2018/02/28/hope-hicks-announces-that-she-will-resign-as-white-house-communications-director-one-day-after-being-interviewed-by-the-house-intelligence.md)
 The resignation comes one day after Hicks testified before the House intelligence committee for nine hours as part of the Russia investigation
 
