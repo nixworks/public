@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/1/index.html)  [JSON](2018/03/1/index.json)  [XML](2018/
 
 ## [2018-03-1](/news/2018/03/1/index.md)
 
+##### Politics of the United States
+### [ A Senate Intelligence Committee report says that a House Intelligence Committee Republican was behind the leak to Fox News of private text messages between a Russian-connected lawyer and Senator Mark Warner, the committee vice-chairman. Committee chairman Richard Burr denies this information, first published by the "The New York Times". ](/news/2018/03/1/a-senate-intelligence-committee-report-says-that-a-house-intelligence-committee-republican-was-behind-the-leak-to-fox-news-of-private-text.md)
+In an extraordinary confrontation, the bipartisan leaders of the Senate Intelligence Committee told the House speaker that his troops had leaked a senator’s texts with a Russia-connected lawyer.
+
 ##### Politics of Iraq
 ### [The Parliament of Iraq votes to oblige the federal government to set a schedule for the withdrawal of foreign troops. ](/news/2018/03/1/the-parliament-of-iraq-votes-to-oblige-the-federal-government-to-set-a-schedule-for-the-withdrawal-of-foreign-troops.md)
 _Context: Parliament of Iraq, Politics of Iraq, federal government, foreign troops_
