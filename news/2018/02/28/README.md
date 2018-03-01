@@ -24,7 +24,7 @@ The Ministry of Transport announced that the death toll in a collision between a
 _Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
 
 ##### Stoneman Douglas High School shooting
-### [Dick's Sporting Goods and Walmart raise the minimum age for purchasing firearms to 21 and stop selling semi-automatic rifles altogether. ](/news/2018/02/28/dick-s-sporting-goods-and-walmart-raise-the-minimum-age-for-purchasing-firearms-to-21-and-stop-selling-semi-automatic-rifles-altogether.md)
+### [Dick's Sporting Goods and Walmart raise the minimum age for purchasing firearms to 21 and stop selling military-style semi-automatic rifles altogether. ](/news/2018/02/28/dick-s-sporting-goods-and-walmart-raise-the-minimum-age-for-purchasing-firearms-to-21-and-stop-selling-military-style-semi-automatic-rifles.md)
 Walmart Inc said on Wednesday that it was raising the minimum age at which customers could buy firearms and ammunition to 21 years.
 
 ##### Economy of the United Kingdom
