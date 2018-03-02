@@ -24,7 +24,7 @@ _Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
 
 ##### U.S. President
-### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports, causing the Dow to drop over 400 points. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports-causing-the-dow-to-drop-over-400-points.md)
+### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports, causing the Dow Jones Industrial Average to drop over 400 points. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports-causing-the-dow-jones-industrial-average-to-dr.md)
 Plans to impose tariffs on steel and aluminium imports bring an angry international response.
 
 ## [Previous Day...](/news/2018/02/28/index.md)
