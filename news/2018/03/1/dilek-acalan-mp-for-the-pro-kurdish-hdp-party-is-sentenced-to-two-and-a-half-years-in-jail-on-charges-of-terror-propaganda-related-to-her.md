@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is
 ### [2018-03-1](/news/2018/03/1/index.md)
 
 ##### Terrorism in Turkey
-# Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. 
+# Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MPs are currently in jail. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is
 ### Changes:
 
 1. [Dilek calan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-ocalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _2018-03-02 00:30:07 (First version)_
-1. [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _(Current version)_
+1. [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MPs are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _(Current version)_
 
 ### Related:
 

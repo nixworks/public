@@ -16,12 +16,16 @@ _Context: Parliament of Iraq, Politics of Iraq, federal government, foreign troo
 Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.
 
 ##### Terrorism in Turkey
-### [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md)
+### [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MPs are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md)
 _Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
 
 ##### Oslo
 ### [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md)
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
+
+##### U.S. President
+### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports.md)
+Plans to impose tariffs on steel and aluminium imports bring an angry international response.
 
 ## [Previous Day...](/news/2018/02/28/index.md)
 
