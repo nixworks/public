@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-uni
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### Central Michigan University
+##### School shootings in the United States
 # Two people are shot dead at Central Michigan University, Michigan, U.S.. The gunman remains at large. 
 
 Central Michigan University campus was on lockdown Friday after two people were fatally shot and police were hunting for an &#x27;armed and dangerous&#x27; gunman.
