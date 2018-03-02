@@ -23,10 +23,6 @@ _Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
 ### [Police in Oslo say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-prize-the.md)
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
 
-##### Crime in Kentucky
-### [A student is accused of bringing a gun to Henry Clay High School in Lexington, Kentucky, according to the school's principal Paul Little. ](/news/2018/03/1/a-student-is-accused-of-bringing-a-gun-to-henry-clay-high-school-in-lexington-kentucky-according-to-the-school-s-principal-paul-little.md)
-_Context: Crime in Kentucky, Henry Clay High School, Lexington, Kentucky_
-
 ##### U.S. President
 ### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports, causing the Dow to drop over 400 points. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports-causing-the-dow-to-drop-over-400-points.md)
 Plans to impose tariffs on steel and aluminium imports bring an angry international response.
