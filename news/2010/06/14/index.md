@@ -33,7 +33,7 @@ Poland holds a suspected Israeli agent wanted in Germany in connection with the 
 
 ##### Iraq
 ### [The Iraqi Council of Representatives convenes in Baghdad three months after inconclusive elections. ](/news/2010/06/14/the-iraqi-council-of-representatives-convenes-in-baghdad-three-months-after-inconclusive-elections.md)
-_Context: Baghdad, Iraq, Iraqi Parliament, elections_
+_Context: Baghdad, Iraq, Parliament of Iraq, elections_
 
 ##### Guinea
 ### [The arrest of several army officers in Guinea is not linked to elections, according to the country's army chief. ](/news/2010/06/14/the-arrest-of-several-army-officers-in-guinea-is-not-linked-to-elections-according-to-the-country-s-army-chief.md)

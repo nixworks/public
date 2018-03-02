@@ -7,7 +7,7 @@ Formats: [HTML](2016/12/27/index.html)  [JSON](2016/12/27/index.json)  [XML](201
 ### [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md)
 _Context: Cuba, Fidel Castro, Parliament, President, died_
 
-##### President of Argentina
+##### Argentine president
 ### [Former President of Argentina Cristina Fernandez de Kirchner is indicted on corruption charges. ](/news/2016/12/27/former-president-of-argentina-cristina-ferna-ndez-de-kirchner-is-indicted-on-corruption-charges.md)
 Former Argentine President Cristina Fernandez was indicted on Tuesday on charges she ran a corruption scheme with a public works secretary who was arrested in June while trying to stash millions of dollars in a convent.
 

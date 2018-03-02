@@ -7,9 +7,9 @@ Formats: [HTML](2012/07/15/index.html)  [JSON](2012/07/15/index.json)  [XML](201
 ### [A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. ](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.md)
 _Context: International Space Station, Soyuz rocket_
 
-##### Israelis
+##### Israeli
 ### [Hundreds of Israeli protesters gather in Tel Aviv, Jerusalem, Haifa and Beersheba to show their solidarity with the man who self immolated on 14 July 2012. ](/news/2012/07/15/hundreds-of-israeli-protesters-gather-in-tel-aviv-jerusalem-haifa-and-beersheba-to-show-their-solidarity-with-the-man-who-self-immolated-o.md)
-_Context: Beersheba, Haifa, Israelis, Jerusalem, Tel Aviv_
+_Context: Beersheba, Haifa, Israeli, Jerusalem, Tel Aviv_
 
 ##### Jason Kidd
 ### [Jason Kidd is arrested by Southampton Town police for alleged drunken driving. ](/news/2012/07/15/jason-kidd-is-arrested-by-southampton-town-police-for-alleged-drunken-driving.md)

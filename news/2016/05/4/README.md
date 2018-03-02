@@ -49,7 +49,7 @@ _Context: Allied Democratic Forces, Allied Democratic Forces insurgency, DR Cong
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-installation-in-turkey-killing-one-soldier-turke.md)
-_Context: Kurdish-Turkish conflict (2015-present), Kurdistan Workers' Party_
+_Context: Kurdish-Turkish conflict (2015-present), PKK_
 
 ##### Syrian Civil War
 ### [Dozens of people have died in heavy fighting between Syrian government and opposition forces in the western Aleppo Governorate. ](/news/2016/05/4/dozens-of-people-have-died-in-heavy-fighting-between-syrian-government-and-opposition-forces-in-the-western-aleppo-governorate.md)

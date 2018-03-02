@@ -75,9 +75,9 @@ _Context: India, Kashmir Valley, Kulgam, Kupwara, Lashkar-e-Toiba_
 ### [58 hostage-takers, hostages and police officers are killed and 67 people wounded when Iraqi forces storm a Baghdad church to free dozens of hostages. ](/news/2010/11/1/58-hostage-takers-hostages-and-police-officers-are-killed-and-67-people-wounded-when-iraqi-forces-storm-a-baghdad-church-to-free-dozens-of.md)
 BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic church in Baghdad was aimed at driving the embattled Christian minority ou...
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [The rebel Kurdistan Workers' Party (PKK) in Turkey announces it will extend a truce until elections next year. ](/news/2010/11/1/the-rebel-kurdistan-workers-party-pkk-in-turkey-announces-it-will-extend-a-truce-until-elections-next-year.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: PKK, Turkish_
 
 ##### Gyles Mackrell
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)

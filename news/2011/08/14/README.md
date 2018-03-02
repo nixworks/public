@@ -29,7 +29,7 @@ _Context: Muammar Gaddafi, Tripoli, Zawiya, civil war_
 
 ##### Iran
 ### [Iran confirms the arrest of the second-in-command of the Kurdistan Workers' Party (PKK), Murat Karayilan, by the country's intelligence agency. ](/news/2011/08/14/iran-confirms-the-arrest-of-the-second-in-command-of-the-kurdistan-workers-party-pkk-murat-karaya-lan-by-the-country-s-intelligence-age.md)
-_Context: Iran, Iranian Intelligence Ministry, Kurdistan Workers' Party, Murat Karayilan_
+_Context: Iran, Iranian Intelligence Ministry, Murat Karayilan, PKK_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Syrian Navy gunboats fire heavy machine guns targeting waterfront districts in Latakia, as ground troops and security agents backed by armor storm several neighborhoods. Up to 26 people are killed. ](/news/2011/08/14/2011-syrian-uprising-syrian-navy-gunboats-fire-heavy-machine-guns-targeting-waterfront-districts-in-latakia-as-ground-troops-and-security.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2008/02/9/index.html)  [JSON](2008/02/9/index.json)  [XML](2008/
 ### [ The military government of Myanmar announces a national referendum to pass a new constitution will be held in May, and that democratic multi-party elections will take place in 2010. ](/news/2008/02/9/the-military-government-of-myanmar-announces-a-national-referendum-to-pass-a-new-constitution-will-be-held-in-may-and-that-democratic-mult.md)
 _Context: 2010, Burmese constitutional referendum, 2008, Myanmar, constitution, general elections, military government_
 
-##### Turkish Parliament
+##### MP
 ### [ The Grand National Assembly of Turkey votes to change the Constitution of Turkey removing a ban on wearing religious head cover in Turkish universities. ](/news/2008/02/9/the-grand-national-assembly-of-turkey-votes-to-change-the-constitution-of-turkey-removing-a-ban-on-wearing-religious-head-cover-in-turkish.md)
 The vote sets the stage for a showdown with the country’s secular elite over Islam’s place in Turkish society.
 

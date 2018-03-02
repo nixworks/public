@@ -3,7 +3,7 @@ Formats: [HTML](2017/01/14/index.html)  [JSON](2017/01/14/index.json)  [XML](201
 
 ## [2017-01-14](/news/2017/01/14/index.md)
 
-##### Turkish Parliament
+##### MP
 ### [The Turkish Parliament approves two constitutional amendments which expand the powers of the president to appoint new legislation and select the cabinet. ](/news/2017/01/14/the-turkish-parliament-approves-two-constitutional-amendments-which-expand-the-powers-of-the-president-to-appoint-new-legislation-and-select.md)
 Turkey’s Parliament has approved two constitutional amendments giving more powers to the president, who will now be able to sponsor new legislation and appoint the cabinet, local media report. The changes come at the expense of MPs’ rights to oversee the government.
 

@@ -71,9 +71,9 @@ _Context: Los Angeles County Coroner's Office, Whitney Houston, cocaine_
 ### [Several thousands of students in Montreal, Canada protest against proposed post-secondary education tuition hikes. ](/news/2012/03/22/several-thousands-of-students-in-montreal-canada-protest-against-proposed-post-secondary-education-tuition-hikes.md)
 _Context: Montreal, Canada_
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: PKK, Turkish_
 
 ##### Syrian armed forces
 ### [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md)

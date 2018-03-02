@@ -31,7 +31,7 @@ _Context: Istiqlal Party, Morocco, parliamentary elections_
 ### [ Justine Henin of Belgium wins the U.S. Open women's tennis singles championship defeating Svetlana Kuznetsova of Russia 6-1 6-3 in the final. ](/news/2007/09/8/justine-henin-of-belgium-wins-the-u-s-open-women-s-tennis-singles-championship-defeating-svetlana-kuznetsova-of-russia-6-1-6-3-in-the-fina.md)
 _Context: Belgium, Justine Henin, Russia, Svetlana Kuznetsova, U.S. Open_
 
-##### President of Argentina
+##### Argentine president
 ### [ Former President of Argentina Carlos Menem is charged with involvement in the illegal sale of weapons to Ecuador and Croatia. ](/news/2007/09/8/former-president-of-argentina-carlos-menem-is-charged-with-involvement-in-the-illegal-sale-of-weapons-to-ecuador-and-croatia.md)
 Former Argentine president Carlos Menem has been charged with involvement in the illegal sale of weapons to Croatia and Ecuador while he was in office between 1989 and 1999.
 

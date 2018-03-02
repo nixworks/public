@@ -9,7 +9,7 @@ _Context: Sunni Waqf Board, Taj Mahal_
 
 ##### Turkish
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: Kurdistan Workers' Party, Turkish, minibus bombing in Kusadasi_
+_Context: PKK, Turkish, minibus bombing in Kusadasi_
 
 ##### Indonesia
 ### [ Representatives of Indonesian government and the Free Aceh Movement reach a tentative peace settlement in negoations in Helsinki, Finland. They intend to sign a formal truce in August 15. ](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.md)

@@ -183,7 +183,7 @@ _Context: Abu Sayeeda, Baqubah, Diyala Governorate, Iraq, Shia, mosque_
 ### [Unidentified gunmen on motorcycles fatally shoot Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md)
 Gunmen have shot dead a civil rights campaigner and environmentalist in the western Indian state of Gujarat, police say.
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-supervision-of-the-united-nations-in-return-for.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 

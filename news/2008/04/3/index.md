@@ -21,7 +21,7 @@ _Context: Kosovo, Serbia, Slobodan Samardzic, UNMIK_
 
 ##### Procedural
 ### [ In a procedural decision, the European Court of Justice overturns the addition of the Kurdish rebel organization PKK to the EU's terrorist blacklist. ](/news/2008/04/3/in-a-procedural-decision-the-european-court-of-justice-overturns-the-addition-of-the-kurdish-rebel-organization-pkk-to-the-eu-s-terrorist.md)
-_Context: European Court of Justice, Kurdish, Kurdistan Workers' Party, procedural_
+_Context: European Court of Justice, Kurdish, PKK, procedural_
 
 ##### Jules Verne
 ### [ "Jules Verne", the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.md)

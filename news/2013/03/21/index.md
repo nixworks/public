@@ -67,7 +67,7 @@ An explosion at a mosque in the Syrian capital on Thursday killed at least 42 pe
 ### [Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/three-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-governorate.md)
 At least five people were killed in Yemen when a pro-government militia attacked al Qaeda-linked Islamist militants on Thursday, residents and militia sources said.
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [Jailed Kurdistan Workers' Party leader Abdullah Ocalan makes historic calls for dialogue with Turkey after almost thirty years of violent conflict. ](/news/2013/03/21/jailed-kurdistan-workers-party-leader-abdullah-acalan-makes-historic-calls-for-dialogue-with-turkey-after-almost-thirty-years-of-violent-c.md)
 Jailed Kurdish rebel leader Abdullah Ocalan calls a truce and urges his fighters to withdraw from Turkey after years of war - a move welcomed by Ankara.
 

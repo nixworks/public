@@ -7,9 +7,9 @@ Formats: [HTML](2014/07/1/index.html)  [JSON](2014/07/1/index.json)  [XML](2014/
 ### [The Cabinet of Japan lifts a ban on the Japan Self-Defense Forces fighting overseas. The move is aimed towards defending allied countries. ](/news/2014/07/1/the-cabinet-of-japan-lifts-a-ban-on-the-japan-self-defense-forces-fighting-overseas-the-move-is-aimed-towards-defending-allied-countries.md)
 Cabinet approves changes to pacifist constitution allowing Japan&#039;s military to fight overseas for the first time since WWII.
 
-##### Iraqi Parliament
+##### Parliament of Iraq
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
-_Context: ISIL, Iraqi Parliament, elections_
+_Context: ISIL, Parliament of Iraq, elections_
 
 ##### Social Democratic Party of Germany
 ### [The German Social Democrat Martin Schulz is reelected President of the European Parliament for another two and a half years. ](/news/2014/07/1/the-german-social-democrat-martin-schulz-is-reelected-president-of-the-european-parliament-for-another-two-and-a-half-years.md)

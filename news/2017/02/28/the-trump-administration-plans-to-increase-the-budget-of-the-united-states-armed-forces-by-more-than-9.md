@@ -21,7 +21,7 @@ Formats: [HTML](/news/2017/02/28/the-trump-administration-plans-to-increase-the-
 
 ### Related:
 
-1. [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md) _Context: Presidency of Donald Trump_
+1. [Hope Hicks announces that she will resign as White House Communications Director, one day after being interviewed by the House Intelligence Committee. ](/news/2018/02/28/hope-hicks-announces-that-she-will-resign-as-white-house-communications-director-one-day-after-being-interviewed-by-the-house-intelligence.md) _Context: Presidency of Donald Trump_
 2. [The Trump administration through the U.S. Justice Department announces charges filed against more than 250 defendants in senior-citizen fraud schemes totaling $500 million. ](/news/2018/02/22/the-trump-administration-through-the-u-s-justice-department-announces-charges-filed-against-more-than-250-defendants-in-senior-citizen-frau.md) _Context: Presidency of Donald Trump_
 3. [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md) _Context: Presidency of Donald Trump_
 4. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: Presidency of Donald Trump_

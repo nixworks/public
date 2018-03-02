@@ -7,9 +7,9 @@ Formats: [HTML](2005/11/4/index.html)  [JSON](2005/11/4/index.json)  [XML](2005/
 ### [ Massive demonstrations against U.S. President George W. Bush continue to grow at the Fourth Summit of the Americas in Mar del Plata, Argentina. ](/news/2005/11/4/massive-demonstrations-against-u-s-president-george-w-bush-continue-to-grow-at-the-fourth-summit-of-the-americas-in-mar-del-plata-argent.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Israelis
+##### Israeli
 ### [ Israelis begin to mark the 10th anniversary of the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/4/israelis-begin-to-mark-the-10th-anniversary-of-the-assassination-of-prime-minister-yitzhak-rabin.md)
-_Context: Israeli Prime Minister, Israelis, Yitzhak Rabin, assassination_
+_Context: Israeli, Israeli Prime Minister, Yitzhak Rabin, assassination_
 
 ##### 2005 Paris suburb riots
 ### [ The 2005 Paris suburb riots continue for an eighth consecutive night. Hundreds of arson attacks have taken place in the last few nights. Shots fired at police and firefighters. Rioting continues to spread. France described as facing a crisis. ](/news/2005/11/4/the-2005-paris-suburb-riots-continue-for-an-eighth-consecutive-night-hundreds-of-arson-attacks-have-taken-place-in-the-last-few-nights-sh.md)

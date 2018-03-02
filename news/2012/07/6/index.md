@@ -31,7 +31,7 @@ _Context: Balochistan, Pakistan, Turbat_
 ### [British police arrest six men from the West Midlands and one from South Yorkshire on suspicion of terrorist offences. ](/news/2012/07/6/british-police-arrest-six-men-from-the-west-midlands-and-one-from-south-yorkshire-on-suspicion-of-terrorist-offences.md)
 _Context: South Yorkshire, West Midlands, police_
 
-##### President of Argentina
+##### Argentine president
 ### [Former "de facto" President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of-at.md)
 Two former military leaders in Argentina have been found guilty of overseeing the systematic theft of babies from political prisoners.
 

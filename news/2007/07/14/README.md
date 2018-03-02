@@ -37,7 +37,7 @@ _Context: Afghanistan, Pakistan, Waziristan, Waziristan conflict (July 2007-pres
 
 ##### Turkish
 ### [ Turkish Foreign Minister Abdullah Gl asked the US for an explanation of alleged delivery of weapons to the PKK terrorist group. Gl said that ties with Turkey-US would collapse if arms to PKK claims confirmed. ](/news/2007/07/14/turkish-foreign-minister-abdullah-gul-asked-the-us-for-an-explanation-of-alleged-delivery-of-weapons-to-the-pkk-terrorist-group-gul-said-t.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: PKK, Turkish_
 
 ## [Previous Day...](/news/2007/07/13/index.md)
 

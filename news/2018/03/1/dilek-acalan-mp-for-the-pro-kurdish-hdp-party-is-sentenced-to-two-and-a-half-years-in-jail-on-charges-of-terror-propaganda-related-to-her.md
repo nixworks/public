@@ -13,6 +13,11 @@ Formats: [HTML](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is
 
 1. [NRT](http://www.nrttv.com/en/Details.aspx?Jimare=19018)
 
+### Changes:
+
+1. [Dilek calan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-ocalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _2018-03-02 00:30:07 (First version)_
+1. [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _(Current version)_
+
 ### Related:
 
 1. [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md) _Context: Kurdish, PKK_

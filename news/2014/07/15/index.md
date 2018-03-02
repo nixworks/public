@@ -13,7 +13,7 @@ Jean-Claude Juncker has been elected as president of the European Commission. He
 
 ##### Salim al-Jabouri
 ### [Salim al-Jabouri is elected as speaker of the Iraqi parliament. ](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.md)
-_Context: Iraqi Parliament, Salim al-Jabouri_
+_Context: Parliament of Iraq, Salim al-Jabouri_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)

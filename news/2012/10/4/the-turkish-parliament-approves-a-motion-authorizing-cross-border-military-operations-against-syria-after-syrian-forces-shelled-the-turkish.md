@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/4/the-turkish-parliament-approves-a-motion-authori
 
 ### [2012-10-4](/news/2012/10/4/index.md)
 
-##### Turkish Parliament
+##### MP
 # The Turkish parliament approves a motion authorizing cross-border military operations against Syria after Syrian forces shelled the Turkish border town of Akcakale on October 3, killing five people. 
 
 World leaders urged Turkey to step back from the brink of war with Syria after its parliament voted to attack Bashar al-Assad&rsquo;s regime at will.

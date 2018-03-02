@@ -37,7 +37,7 @@ _Context: CIA, Foreign relations of Iran, Iran, Iraq, torture_
 
 ##### Turkish
 ### [ Turkish soldiers are killed in a clash with Kurdistan Workers' Party forces in Sirnak province. ](/news/2007/04/7/turkish-soldiers-are-killed-in-a-clash-with-kurdistan-workers-party-forces-in-aa-rnak-province.md)
-_Context: Kurdistan Workers' Party, Sirnak province, Turkish_
+_Context: PKK, Sirnak province, Turkish_
 
 ## [Previous Day...](/news/2007/04/6/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2017/01/3/index.html)  [JSON](2017/01/3/index.json)  [XML](2017/
 
 ## [2017-01-3](/news/2017/01/3/index.md)
 
-##### Turkish Parliament
+##### MP
 ### [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md)
-_Context: Turkish Parliament, last year's attempted coup, states of emergency_
+_Context: MP, last year's attempted coup, states of emergency_
 
 ##### 115th United States Congress
 ### [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md)

@@ -37,7 +37,7 @@ The big DTV moment is here - like New Year&#8217;s Eve, labor pains or the mille
 
 ##### Fourth largest coalition
 ### [ The head of the fourth largest coalition in the Iraqi parliament, Harith al-Obeidi, is assassinated in west Baghdad. ](/news/2009/06/11/the-head-of-the-fourth-largest-coalition-in-the-iraqi-parliament-harith-al-obeidi-is-assassinated-in-west-baghdad.md)
-_Context: Baghdad, Harith al-Obeidi, Iraq, Iraqi Parliament, fourth largest coalition_
+_Context: Baghdad, Harith al-Obeidi, Iraq, Parliament of Iraq, fourth largest coalition_
 
 ##### Pittsburgh Penguins
 ### [ The Pittsburgh Penguins defeat the Detroit Red Wings in game seven to win the 2009 Stanley Cup Finals. ](/news/2009/06/11/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.md)

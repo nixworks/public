@@ -33,7 +33,7 @@ _Context: Juba, Riek Machar, South Sudanese Civil War, Vice-President_
 
 ##### Shi'ites
 ### [Tens of thousands of people, mostly Shi'ites, take to the streets of Baghdad, Iraq in a protest calling for Parliament to vote on a cabinet reshuffle. The protest was called for by powerful Shi'te Muslim critic Muqtada al-Sadr. The proposed cabinet reshuffle is aimed at fighting corruption in the midst of divisions between lawmakers that have hampered the work of the government. ](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.md)
-_Context: Baghdad, Iraq, Iraqi Parliament, Muqtada al-Sadr, Shi'ites_
+_Context: Baghdad, Iraq, Muqtada al-Sadr, Parliament of Iraq, Shi'ites_
 
 ##### 2016 U.S. election
 ### [Voters in the U.S. states of Connecticut, Delaware, Maryland, Pennsylvania and Rhode Island head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/04/26/voters-in-the-u-s-states-of-connecticut-delaware-maryland-pennsylvania-and-rhode-island-head-to-the-polls-to-vote-in-democratic-and-repu.md)

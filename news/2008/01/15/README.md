@@ -21,7 +21,7 @@ The pressure&#39;s on for Republicans to show staying power in a presidential pr
 
 ##### Palestinians
 ### [ 20 Palestinians are killed by the Israeli Defense Forces including 14 fighters and five civilians, with 55 people wounded. Hamas leader Mahmoud Zahar's son is killed. Dozens of rockets are fired into Israel by Hamas, landing in the town of Sderot, injuring 4 Israelis. An Ecuadorian laborer is also shot and killed by Hamas. ](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.md)
-_Context: Ecuadorian, Hamas, Israel, Israeli Defense Forces, Israelis, Mahmoud Zahar, Palestinians, Sderot_
+_Context: Ecuadorian, Hamas, Israel, Israeli, Israeli Defense Forces, Mahmoud Zahar, Palestinians, Sderot_
 
 ## [Previous Day...](/news/2008/01/14/index.md)
 

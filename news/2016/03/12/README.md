@@ -49,7 +49,7 @@ Rebels shot down a Syrian government warplane over western Syria on Saturday, re
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md)
-_Context: Kurdish, Kurdistan Workers' Party, Turkey-PKK conflict (2015-present), Turkish Air Force_
+_Context: Kurdish, PKK, Turkey-PKK conflict (2015-present), Turkish Air Force_
 
 ##### Israeli-Palestinian conflict
 ### [A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.md)

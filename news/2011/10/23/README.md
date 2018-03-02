@@ -9,7 +9,7 @@ _Context: 2007 election, Federal Assembly, Green Liberal Party of Switzerland, S
 
 ##### Argentina
 ### [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md)
-_Context: Argentina, Cristina Kirchner, President of Argentina, exit poll, general election_
+_Context: Argentina, Argentine president, Cristina Kirchner, exit poll, general election_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a presidential election. ](/news/2011/10/23/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election.md)

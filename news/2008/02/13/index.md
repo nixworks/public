@@ -27,9 +27,9 @@ _Context: Damascus, Hezbollah, Imad Mugniyah, Syria_
 ### [ The Swedish government rejects the Nord Stream underwater natural gas pipeline from Russia to Germany. ](/news/2008/02/13/the-swedish-government-rejects-the-nord-stream-underwater-natural-gas-pipeline-from-russia-to-germany.md)
 _Context: German, Nord Stream, Russia, Sweden, line_
 
-##### Iraqi Parliament
+##### Parliament of Iraq
 ### [ The Iraqi Parliament adopts an accord on the budget, detainees and federalism, setting provincial elections for late 2008. ](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.md)
-_Context: Iraqi Parliament, provincial elections_
+_Context: Parliament of Iraq, provincial elections_
 
 ##### Major League Baseball
 ### [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md)

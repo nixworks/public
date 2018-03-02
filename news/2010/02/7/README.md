@@ -43,9 +43,9 @@ _Context: Middletown, Connecticut, explodes_
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
 _Context: Governor of Anambra state, Nigeria, Peter Obi_
 
-##### President of Argentina
+##### Argentine president
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: Argentina, Nstor Kirchner, President of Argentina, carotid artery_
+_Context: Argentina, Argentine president, Nstor Kirchner, carotid artery_
 
 ##### Laura Chinchilla
 ### [Laura Chinchilla is elected President of Costa Rica, the first woman to take the office, following the 2010 general election. ](/news/2010/02/7/laura-chinchilla-is-elected-president-of-costa-rica-the-first-woman-to-take-the-office-following-the-2010-general-election.md)

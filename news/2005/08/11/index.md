@@ -27,9 +27,9 @@ _Context: Babur missile, Pakistan, cruise missile_
 ### [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, "Mirza zaza" and "Microcebus lehilahytsara". ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza-an.md)
 _Context: Microcebus lehilahytsara, Mirza zaza_
 
-##### Israelis
+##### Israeli
 ### [ Tens of thousands of Israelis have converged on Tel Aviv to protest the proposed removal of Israeli settlements from the Gaza Strip. ](/news/2005/08/11/tens-of-thousands-of-israelis-have-converged-on-tel-aviv-to-protest-the-proposed-removal-of-israeli-settlements-from-the-gaza-strip.md)
-_Context: Gaza Strip, Israeli settlement, Israelis, Tel Aviv_
+_Context: Gaza Strip, Israeli, Israeli settlement, Tel Aviv_
 
 ## [Previous Day...](/news/2005/08/10/index.md)
 

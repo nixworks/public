@@ -59,9 +59,9 @@ _Context: Darfur, Ibrahim Khalil, Justice and Equality Movement, Omar Hassan al-
 ### [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md)
 Ethiopian forces capture the central Somali town of Beledweyne from Islamist militants of al-Shabab.
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [Two members of the outlawed Kurdistan Workers' Party die in a battle with Turkish police in the city of Diyarbakir. ](/news/2011/12/31/two-members-of-the-outlawed-kurdistan-workers-party-die-in-a-battle-with-turkish-police-in-the-city-of-diyarbakir.md)
-_Context: Diyarbakir, Kurdistan Workers' Party, Turkish police_
+_Context: Diyarbakir, PKK, Turkish police_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: An Arab League observer witnesses snipers in the Syrian city of Deraa and calls for their immediate removal. ](/news/2011/12/31/2011-syrian-uprising-an-arab-league-observer-witnesses-snipers-in-the-syrian-city-of-deraa-and-calls-for-their-immediate-removal.md)

@@ -57,7 +57,7 @@ For four long years the Damascus suburb of Daraya endured siege, bombardment and
 
 ##### Kurdish-Turkish conflict (1978-present)
 ### [Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint-in-the-town-of-cizre-with-the-pkk-believed.md)
-_Context: Cizre, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkish police_
+_Context: Cizre, Kurdish-Turkish conflict (1978-present), PKK, Turkish police_
 
 ## [Previous Day...](/news/2016/08/25/index.md)
 

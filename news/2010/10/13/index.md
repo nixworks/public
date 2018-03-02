@@ -63,9 +63,9 @@ _Context: Puntland, Said Mohamed Rageh, Somali pirates_
 ### [The death toll has risen to 11 following a U.S. drone strike launched late Wednesday night in the Datta Khell area of Pakistan. ](/news/2010/10/13/the-death-toll-has-risen-to-11-following-a-u-s-drone-strike-launched-late-wednesday-night-in-the-datta-khell-area-of-pakistan.md)
 _Context: Pakistan_
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [Two soldiers died and another one was injured in clash with PKK militants in Ovacik township of southeastern province of Tunceli, Turkey. ](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.md)
-_Context: Kurdistan Workers' Party, Ovacik, Tunceli_
+_Context: Ovacik, PKK, Tunceli_
 
 ## [Previous Day...](/news/2010/10/12/index.md)
 

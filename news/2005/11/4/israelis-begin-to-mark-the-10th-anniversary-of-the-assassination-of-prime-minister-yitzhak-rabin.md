@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/4/israelis-begin-to-mark-the-10th-anniversary-of-t
 
 ### [2005-11-4](/news/2005/11/4/index.md)
 
-##### Israelis
+##### Israeli
 #  Israelis begin to mark the 10th anniversary of the assassination of Prime Minister Yitzhak Rabin. 
 
 

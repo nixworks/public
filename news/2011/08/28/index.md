@@ -41,7 +41,7 @@ _Context: London, Notting Hill Carnival, last year's riots in London, street fes
 
 ##### Suicide bombing
 ### [At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. ](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bombing-in-baghdad-s-largest-sunni-mosque-including-khalid-al-fahdawi-a-member-of-the-council-o.md)
-_Context: Baghdad, Iraqi Parliament, Khalid al-Fahdawi, Sunni Muslim, mosque, suicide bombing_
+_Context: Baghdad, Khalid al-Fahdawi, Parliament of Iraq, Sunni Muslim, mosque, suicide bombing_
 
 ## [Previous Day...](/news/2011/08/27/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/25/index.html)  [JSON](2009/02/25/index.json)  [XML](200
 
 ##### Iraq
 ### [ Iraq's Council of Representatives lifts the immunity of Mohammed al-Dayni, an MP accused of organizing the 2007 bombing of Parliament. ](/news/2009/02/25/iraq-s-council-of-representatives-lifts-the-immunity-of-mohammed-al-dayni-an-mp-accused-of-organizing-the-2007-bombing-of-parliament.md)
-_Context: 2007 bombing of Parliament, Iraq, Iraqi Parliament, MP, Mohammed al-Dayni, immunity_
+_Context: 2007 bombing of Parliament, Iraq, MP, Mohammed al-Dayni, Parliament of Iraq, immunity_
 
 ##### Australia
 ### [ An Australian study classifies a fossilized fish as one of the earliest known vertebrates to use internal fertilization. ](/news/2009/02/25/an-australian-study-classifies-a-fossilized-fish-as-one-of-the-earliest-known-vertebrates-to-use-internal-fertilization.md)

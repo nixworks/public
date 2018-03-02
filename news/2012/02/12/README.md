@@ -65,7 +65,7 @@ Protests grow in the Greek capital, Athens, with buildings set alight as MPs vot
 
 ##### Turkish
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers' Party, Turkish_
+_Context: Iraq, PKK, Turkish_
 
 ##### Arab League
 ### [The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md)

@@ -97,7 +97,7 @@ _Context: Benjamin Netanyahu, Likud, primary election_
 
 ##### Cristina Fernandez de Kirchner
 ### [ Cristina Fernandez de Kirchner, current First Lady of Argentina and candidate to become President of Argentina, announces Julio Cobos, the Governor of Mendoza Province as her running mate. ](/news/2007/08/14/cristina-ferna-ndez-de-kirchner-current-first-lady-of-argentina-and-candidate-to-become-president-of-argentina-announces-julio-cobos-the.md)
-_Context: Argentina, Cristina Fernandez de Kirchner, First Lady, Julio Cobos, Mendoza Province, President of Argentina_
+_Context: Argentina, Argentine president, Cristina Fernandez de Kirchner, First Lady, Julio Cobos, Mendoza Province_
 
 ##### Scott Kelly
 ### [ Scott Kelly, the commander of the Space Shuttle Endeavour, on its current mission expresses confidence that it can return to earth safely without repairs to its heat shield. ](/news/2007/08/14/scott-kelly-the-commander-of-the-space-shuttle-endeavour-on-its-current-mission-expresses-confidence-that-it-can-return-to-earth-safely-w.md)

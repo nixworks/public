@@ -17,7 +17,7 @@ An unprecedented census gives a sobering baseline for managing what’s left of 
 
 ##### Turkish interior ministry
 ### [Turkish Interior Minister Efkan Ala resigns amid criticism over his handling of a string of ISIL and PKK terror attacks, and is replaced by Suleyman Soylu. ](/news/2016/08/31/turkish-interior-minister-efkan-ala-resigns-amid-criticism-over-his-handling-of-a-string-of-isil-and-pkk-terror-attacks-and-is-replaced-by.md)
-_Context: Efkan Ala, ISIL, Kurdistan Workers' Party, Suleyman Soylu, Turkish interior ministry_
+_Context: Efkan Ala, ISIL, PKK, Suleyman Soylu, Turkish interior ministry_
 
 ##### Myanmar
 ### [Myanmar's Aung San Suu Kyi holds historic peace talks to end decades of ethnic conflict in the country. ](/news/2016/08/31/myanmar-s-aung-san-suu-kyi-holds-historic-peace-talks-to-end-decades-of-ethnic-conflict-in-the-country.md)

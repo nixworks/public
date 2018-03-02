@@ -39,7 +39,7 @@ _Context: FBI, attack on the U.S. Consulate in Benghazi, Libya_
 ### [Protesters storm the headquarters of the Libyan General National Congress in the capital Tripoli angry at Prime Minister Mustafa Abushagur's proposed cabinet line-up, saying it is not fully representative of the country. ](/news/2012/10/4/protesters-storm-the-headquarters-of-the-libyan-general-national-congress-in-the-capital-tripoli-angry-at-prime-minister-mustafa-abushagur-s.md)
 _Context: Libyan Parliament, Mustafa Abushagur, Tripoli_
 
-##### Turkish Parliament
+##### MP
 ### [The Turkish parliament approves a motion authorizing cross-border military operations against Syria after Syrian forces shelled the Turkish border town of Akcakale on October 3, killing five people. ](/news/2012/10/4/the-turkish-parliament-approves-a-motion-authorizing-cross-border-military-operations-against-syria-after-syrian-forces-shelled-the-turkish.md)
 World leaders urged Turkey to step back from the brink of war with Syria after its parliament voted to attack Bashar al-Assad&rsquo;s regime at will.
 

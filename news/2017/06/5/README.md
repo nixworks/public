@@ -21,7 +21,7 @@ _Context: Chinese, Paris Agreement, charge d'affaires, climate change mitigation
 
 ##### 2016-17 Turkish purges
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their citizenship unless they return to Turkey within three months and meet government standards. Named suspects include U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citizen.md)
-_Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
+_Context: 2016-17 Turkish purges, Fethullah Gulen, HDP, Turkish interior ministry, citizenship_
 
 ##### Russian interference in the 2016 United States elections
 ### [After "The Intercept" publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-supplier.md)

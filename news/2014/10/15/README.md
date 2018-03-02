@@ -17,7 +17,7 @@ The police pushed protesters out of a park using pepper spray and wrestled some 
 
 ##### Jerusalem
 ### [3 police officers are injured in Jerusalem as Israeli riot police and Palestinian protesters clash before a Jewish festival. ](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.md)
-_Context: Israelis, Jerusalem, Jewish, Palestinian_
+_Context: Israeli, Jerusalem, Jewish, Palestinian_
 
 ##### Ebola virus outbreak in the United States
 ### [A second health worker tests positive for the ebola virus in Dallas, Texas. ](/news/2014/10/15/a-second-health-worker-tests-positive-for-the-ebola-virus-in-dallas-texas.md)

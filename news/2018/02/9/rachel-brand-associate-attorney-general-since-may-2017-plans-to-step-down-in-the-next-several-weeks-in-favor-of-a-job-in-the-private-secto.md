@@ -13,7 +13,3 @@ Formats: [HTML](/news/2018/02/9/rachel-brand-associate-attorney-general-since-ma
 
 1. [USA Today](https://www.usatoday.com/story/news/politics/2018/02/09/rachel-brand-no-3-official-justice-department-step-down-amid-political-attacks/325042002/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
-
-### Related:
-
-1. [Hope Hicks announces that she will resign as White House Communications Director, one day after being interviewed by the House Intelligence Committee. ](/news/2018/02/28/hope-hicks-announces-that-she-will-resign-as-white-house-communications-director-one-day-after-being-interviewed-by-the-house-intelligence.md) _Context: Timeline of the Trump presidency, 2018 Q1_

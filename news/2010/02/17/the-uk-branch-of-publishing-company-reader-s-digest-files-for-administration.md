@@ -16,6 +16,6 @@ Formats: [HTML](/news/2010/02/17/the-uk-branch-of-publishing-company-reader-s-di
 
 ### Related:
 
-1. [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3,200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3-200-jobs-at-risk.md) _Context: collapses into administration_
+1. [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3200-jobs-at-risk.md) _Context: collapses into administration_
 2. [Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. ](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.md) _Context: collapses into administration_
 3. [British music retailer HMV goes into administration after 90 years of trading, becoming the UK's latest large employer to experience financial hardship. ](/news/2013/01/14/british-music-retailer-hmv-goes-into-administration-after-90-years-of-trading-becoming-the-uk-s-latest-large-employer-to-experience-financi.md) _Context: collapses into administration_

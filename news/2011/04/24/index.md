@@ -35,7 +35,7 @@ Security forces in northern Syria reportedly kill three people and injure severa
 ### [After the shooting, Ynet reports "Palestinian sources reported local Palestinian youths gathered around the Joseph Tomb's compound shortly after the incident and set it on fire." ](/news/2011/04/24/after-the-shooting-ynet-reports-palestinian-sources-reported-local-palestinian-youths-gathered-around-the-joseph-tomb-s-compound-shortly-a.md)
 Nablus agitated after shooting of Israelis; masses gather near holy site, several youths try to set compound ablaze. &#39;Sight was reminiscent of Second Indifada,&#39; witness says
 
-##### Israelis
+##### Israeli
 ### [A group of 15 Israeli Jewish worshipers entered the Palestinian city of Nablus to pray in the Jewish holy site Joseph's Tomb, without coordinating their visit with the IDF as required by law. After finishing praying, as the Jewish worshipers were leaving Nablus, their cars came under fire from a Palestinian Authority police jeep. Five Israelis were injured in the attack and the nephew of Israeli Culture and Sport Minister Limor Livnat was killed.](/news/2011/04/24/a-group-of-15-israeli-jewish-worshipers-entered-the-palestinian-city-of-nablus-to-pray-in-the-jewish-holy-site-joseph-s-tomb-without-coordi.md)
 Group of Israelis heading to Joseph&#39;s Tomb for prayers comes under Palestinian fire, which leaves one dead, five in serious to mild condition. IDF, PA investigating: Shooters believed to be Palestinian policemen 
 

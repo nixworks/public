@@ -31,9 +31,9 @@ Northern Ireland Water has set up major emergency incident teams in Belfast and 
 ### [ Jamaican police declare that former Pakistani cricket team coach Bob Woolmer died of natural causes, ending a murder investigation. ](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.md)
 _Context: Bob Woolmer, Jamaica, Pakistani cricket team, murder investigation_
 
-##### Kurdistan Workers' Party
+##### PKK
 ### [ The PKK declares that it will stop attacks on Turkey but will defend itself if attacked. ](/news/2007/06/12/the-pkk-declares-that-it-will-stop-attacks-on-turkey-but-will-defend-itself-if-attacked.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: PKK, Turkish_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md)

@@ -53,7 +53,7 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: Baghdad, ISIL, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal)_
+_Context: Baghdad, ISIL, Iraqi Army, Iraqi insurgency (post-U.S. withdrawal), Parliament of Iraq_
 
 ##### Operation Protective Edge
 ### [Izz ad-Din al-Qassam Brigades, the military wing of Hamas claims responsibility for the over 80 rockets fired into southern Israel Monday evening; the Israeli Air Force carries out overnight airstrikes killing nine Palestinian militants. In response to escalating rocket fire, the Israel Defense Forces calls up 1,500 reservists as southern towns declare a state of emergency. ](/news/2014/07/7/izz-ad-din-al-qassam-brigades-the-military-wing-of-hamas-claims-responsibility-for-the-over-80-rockets-fired-into-southern-israel-monday-ev.md)

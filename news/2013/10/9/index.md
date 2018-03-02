@@ -11,9 +11,9 @@ Formats: [HTML](2013/10/9/index.html)  [JSON](2013/10/9/index.json)  [XML](2013/
 ### [The Nobel Prize in Chemistry is awarded to Martin Karplus, Michael Levitt and Arieh Warshel for their work on multiscale models for complex chemical systems. ](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.md)
 The Nobel Prize in chemistry has been awarded to three scientists who &quot;took the chemical experiment into cyberspace&quot;.
 
-##### President of Argentina
+##### Argentine president
 ### [President Cristina Fernndez de Kirchner of Argentina successfully undergoes surgery to remove a subdural hematoma. Presidential duties will be carried out by Vice President Amado Boudou for the duration of Kirchner's estimated month-long recovery. ](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.md)
-_Context: Amado Boudou, Cristina Kirchner, President of Argentina, subdural hematoma_
+_Context: Amado Boudou, Argentine president, Cristina Kirchner, subdural hematoma_
 
 ##### Azerbaijan
 ### [Voters in Azerbaijan go to the polls for a presidential election with incumbent President Ilham Aliyev expected to be elected amid concerns about the fairness of the election. ](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.md)

@@ -53,7 +53,7 @@ _Context: New York City, Times Square bomber_
 
 ##### Turkish
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Iraq, Kurdish, Kurdistan Workers' Party, Turkish, disarm_
+_Context: Iraq, Kurdish, PKK, Turkish, disarm_
 
 ##### Los Angeles Lakers
 ### [The Los Angeles Lakers win the 2010 NBA Finals defeating the Boston Celtics 83-79 in Game 7. ](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.md)

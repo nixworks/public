@@ -31,7 +31,7 @@ _Context: CCTV, Leamington Spa, M40 motorway, United Kingdom, Warwickshire_
 ### [ Atlanta Falcons quarterback Michael Vick agrees to a plea deal to charges of conspiracy to travel in interstate commerce in aid of unlawful activities and conspiracy to sponsor a dog in an animal fighting venture in Richmond, Virginia, USA. ](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.md)
 Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy prison sentence to avoid additional federal charges in a dogfighting case that has driven his NFL career to a halt.
 
-##### Turkish Parliament
+##### MP
 ### [ The Grand National Assembly starts voting to select a new President of Turkey. The frontrunner Foreign Minister Abdullah Gl fails to achieve a necessary two-thirds majority in the first round with 341 out of 550 but is highly likely to be elected in later rounds when a simple majority of 50 per cent is required. ](/news/2007/08/20/the-grand-national-assembly-starts-voting-to-select-a-new-president-of-turkey-the-frontrunner-foreign-minister-abdullah-gul-fails-to-achie.md)
 The frontrunner to be Turkey&#039;s next president, Foreign Minister Abdullah Gul, has failed to secure election in a first round parliamentary vote, but remained virtually assured of victory in a later ballot.
 

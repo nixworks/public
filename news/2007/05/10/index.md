@@ -11,9 +11,9 @@ _Context: Labour Party, Prime Minister, Tony Blair_
 ### [ Syrian dissident Kamal Labwani is jailed for 12 years for allegedly undermining national security by visiting the United States. ](/news/2007/05/10/syrian-dissident-kamal-labwani-is-jailed-for-12-years-for-allegedly-undermining-national-security-by-visiting-the-united-states.md)
 _Context: Kamal Labwani, Syria, U.S., dissident_
 
-##### Turkish Parliament
+##### MP
 ### [ The Grand National Assembly of Turkey votes overwhelmingly in favour of a proposal for the direct election of the President of Turkey. ](/news/2007/05/10/the-grand-national-assembly-of-turkey-votes-overwhelmingly-in-favour-of-a-proposal-for-the-direct-election-of-the-president-of-turkey.md)
-_Context: Turkish Parliament, Turkish President, direct election_
+_Context: MP, Turkish President, direct election_
 
 ##### President
 ### [ President Bashar al-Assad states that Syria will not cooperate with a United Nations tribunal to try suspects in the suspected assassination of former Prime Minister of Lebanon Rafiq al-Hariri. ](/news/2007/05/10/president-bashar-al-assad-states-that-syria-will-not-cooperate-with-a-united-nations-tribunal-to-try-suspects-in-the-suspected-assassinatio.md)

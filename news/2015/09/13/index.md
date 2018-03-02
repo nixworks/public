@@ -51,7 +51,7 @@ Egyptian security forces kill 12 Mexicans and Egyptians by accident in an attack
 
 ##### Turkey-PKK conflict
 ### [A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey-also-turkish-security.md)
-_Context: Diyarbakir, Kurdistan Workers' Party, Turkey-PKK conflict, Turkish police, Turkish troops_
+_Context: Diyarbakir, PKK, Turkey-PKK conflict, Turkish police, Turkish troops_
 
 ## [Previous Day...](/news/2015/09/12/index.md)
 

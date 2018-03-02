@@ -13,7 +13,7 @@ _Context: 2007 Burmese anti-government protests, Mandalay, Myanmar_
 
 ##### Ali Babacan
 ### [ Turkish Foreign Minister Ali Babacan condemns US support of the PKK terrorist group, which is behind attacks on Turkish forces.](/news/2007/09/22/turkish-foreign-minister-ali-babacan-condemns-us-support-of-the-pkk-terrorist-group-which-is-behind-attacks-on-turkish-forces.md)
-_Context: Ali Babacan, Kurdistan Workers' Party_
+_Context: Ali Babacan, PKK_
 
 ## [Previous Day...](/news/2007/09/21/index.md)
 

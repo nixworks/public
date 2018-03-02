@@ -41,7 +41,7 @@ Nestle has withdrawn Maggi noodles in India due to &quot;an environment of confu
 
 ##### Kurdish
 ### [Two people are killed and more than a hundred injured as bombs explode at rallies held by the pro-Kurdish Peoples' Democratic Party two days ahead of the general election in Diyarbakir. ](/news/2015/06/5/two-people-are-killed-and-more-than-a-hundred-injured-as-bombs-explode-at-rallies-held-by-the-pro-kurdish-peoples-democratic-party-two-days.md)
-_Context: Diyarbakir, Kurdish, Peoples' Democratic Party, election in June_
+_Context: Diyarbakir, HDP, Kurdish, election in June_
 
 ##### Yola
 ### [A bomb explodes in a marketplace in Yola, Nigeria, killing 31 and injuring dozens of others. ](/news/2015/06/5/a-bomb-explodes-in-a-marketplace-in-yola-nigeria-killing-31-and-injuring-dozens-of-others.md)

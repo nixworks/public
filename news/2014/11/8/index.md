@@ -15,9 +15,9 @@ _Context: Akira Amari, Trans-Pacific Partnership_
 ### [Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md)
 Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic Island in Lower Jubba region of southern Somalia...
 
-##### Military intervention against ISIS
+##### Foreign troops
 ### [Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md)
-_Context: Abu Bakr al-Baghdadi, Al-Qa'im, Military intervention against ISIS_
+_Context: Abu Bakr al-Baghdadi, Al-Qa'im, foreign troops_
 
 ## [Previous Day...](/news/2014/11/7/index.md)
 

@@ -49,7 +49,7 @@ _Context: Algeria, Mali, Movement for Oneness and Jihad in West Africa_
 
 ##### Turkish troops
 ### [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md)
-_Context: Kurdish, Kurdistan Workers' Party, Sirnak Province, Turkish troops_
+_Context: Kurdish, PKK, Sirnak Province, Turkish troops_
 
 ##### The Washington Post
 ### ["The Washington Post" reports that U.S. special operations personnel temporarily halt the training of all Afghan army and police recruits while a full background check of 27,000 people is ongoing. 45 NATO troops have been killed this year in so-called green-on-blue attacks. ](/news/2012/09/2/the-washington-post-reports-that-u-s-special-operations-personnel-temporarily-halt-the-training-of-all-afghan-army-and-police-recruits-wh.md)

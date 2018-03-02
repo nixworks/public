@@ -45,7 +45,7 @@ _Context: Adriatic coast, Croatia, Serbia, tourist_
 
 ##### President
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
-_Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
+_Context: Argentine president, Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Bolivia, Tarija, Bolivia_
 
 ##### Thabo Mbeki
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)

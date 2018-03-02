@@ -15,7 +15,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [The United States Justice Department launches an investigation of money laundering associated with the 1Malaysia Development Berhad sovereign wealth fund, as well as the purchase of luxury properties in New York involving shell companies linked to Malaysian Prime Minister Najib Razak's step-son Riza Aziz and businessman Jho Low. ](/news/2015/09/22/the-united-states-justice-department-launches-an-investigation-of-money-laundering-associated-with-the-1malaysia-development-berhad-sovereig.md)
 In February, Anwar was sentenced to a five-year jail term after a sodomy conviction that he and independent observers said was politically motivated.
 
-##### Peoples' Democratic Party
+##### HDP
 ### [Two Cabinet ministers from the Peoples' Democratic Party (HDP) in Turkey's interim government resign over the increased violence in Kurdish areas of the country. Their exit leaves no opposition figures in the government. ](/news/2015/09/22/two-cabinet-ministers-from-the-peoplesa-democratic-party-hdp-in-turkeyas-interim-government-resign-over-the-increased-violence-in-kurd.md)
 Turkey moved swiftly on Tuesday to replace two ministers from a pro-Kurdish party who quit its interim government amid rising tensions after a ceasefire with Kurdish militants collapsed in July.
 

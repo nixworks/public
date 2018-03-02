@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/24/a-group-of-15-israeli-jewish-worshipers-entered
 
 ### [2011-04-24](/news/2011/04/24/index.md)
 
-##### Israelis
+##### Israeli
 # A group of 15 Israeli Jewish worshipers entered the Palestinian city of Nablus to pray in the Jewish holy site Joseph's Tomb, without coordinating their visit with the IDF as required by law. After finishing praying, as the Jewish worshipers were leaving Nablus, their cars came under fire from a Palestinian Authority police jeep. Five Israelis were injured in the attack and the nephew of Israeli Culture and Sport Minister Limor Livnat was killed.
 
 Group of Israelis heading to Joseph&#39;s Tomb for prayers comes under Palestinian fire, which leaves one dead, five in serious to mild condition. IDF, PA investigating: Shooters believed to be Palestinian policemen 

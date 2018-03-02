@@ -57,7 +57,7 @@ _Context: Arbil, Iran, Iraq_
 
 ##### Turkish
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Kurdish, Kurdistan Workers' Party, Turkish, Turkish Air Force_
+_Context: Kurdish, PKK, Turkish, Turkish Air Force_
 
 ## [Previous Day...](/news/2011/09/4/index.md)
 
