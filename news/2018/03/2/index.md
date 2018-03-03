@@ -52,7 +52,7 @@ No one has claimed responsibility for the attack.
 The latest killings were part of a cycle of unrest between the Hema and Lendu communities in the northeastern province, the government told AFP.
 
 ##### 2018 Ouagadougou attack
-### [A terrorist attack at the French embassy and military headquarters in Ouagadougu, Burkina Faso, leaves 28 dead and at least 50 injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-leaves-28-dead-and-at-least-50-injured.md)
+### [A terrorist attack at the French embassy and military headquarters in Ouagadougou, Burkina Faso, leaves 28 dead and at least 50 injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougou-burkina-faso-leaves-28-dead-and-at-least-50-injured.md)
 The French embassy and a military HQ are among the apparent targets in the capital, Ouagadougou.
 
 ## [Previous Day...](/news/2018/03/1/index.md)
