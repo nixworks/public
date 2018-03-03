@@ -12,8 +12,8 @@ The targeted pro-Syrian government troops had entered the region to back Kurdish
 ### Sources:
 
 1. [AP via San Francisco Chronicle](https://www.sfchronicle.com/news/world/article/The-Latest-Turkey-tightens-grip-on-Syrian-12725101.php)
-2. [BBC](http://www.bbc.com/news/world-middle-east-43271148)
-3. [Daily Sabah](https://www.dailysabah.com/war-on-terror/2018/03/03/turkish-soldiers-fsa-capture-strategic-raju-town-of-syrias-afrin)
+2. [Al Masdar News](https://www.almasdarnews.com/article/breaking-turkey-led-forces-seize-major-kurdish-stronghold-west-afrin-prepare-storm-another/)
+3. [BBC](http://www.bbc.com/news/world-middle-east-43271148)
 4. [The Guardian](https://www.theguardian.com/world/2018/mar/03/dozens-of-fighters-killed-in-turkish-airstrikes-in-afrin)
 4. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05vykhm.jpg)
 
