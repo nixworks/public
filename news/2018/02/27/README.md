@@ -19,11 +19,11 @@ Brad Parscale was credited as being a secret weapon for Trump&#039;s 2016 electi
 ### [Saudi King Salman replaces top army commanders and reshuffles key security and government ministries. ](/news/2018/02/27/saudi-king-salman-replaces-top-army-commanders-and-reshuffles-key-security-and-government-ministries.md)
 Army chief of staff, ministers and top commanders of ground and air defence forces replaced, in series of royal decrees.
 
-##### Terrorism in the United States
+##### U.S. military
 ### [A letter containing an unknown substance opened at a U.S. military base in Arlington, Virginia, leaves 11 people ill, with three being hospitalized. ](/news/2018/02/27/a-letter-containing-an-unknown-substance-opened-at-a-u-s-military-base-in-arlington-virginia-leaves-11-people-ill-with-three-being-hospi.md)
 Eleven people fell ill and three were transported to a hospital on Tuesday after a letter was opened at a U.S. military base in Arlington, Virginia, the fire department and a base spokeswoman said.
 
-##### 2017-18 North Korea crisis
+##### North Korea
 ### [Five unnamed Western European security sources allege that North Korean leader Kim Jong-un and his father Kim Jong-il used fraudulently obtained Brazilian passports in order to apply for visas to visit Western countries in the 1990s. ](/news/2018/02/27/five-unnamed-western-european-security-sources-allege-that-north-korean-leader-kim-jong-un-and-his-father-kim-jong-il-used-fraudulently-obta.md)
 North Korean leader Kim Jong Un and his late father Kim Jong Il used fraudulently obtained Brazilian passports to apply for visas to visit Western countries in the 1990s, five senior Western European security sources told Reuters.
 

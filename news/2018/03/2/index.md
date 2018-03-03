@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ## [2018-03-2](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [In Germany the SPD party member vote on the 2018 coalition agreement of Germany which is decisive for the formation of Angela Merkel's new coalition government ended. ](/news/2018/03/2/in-germany-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-which-is-decisive-for-the-formation-of-angela-merkel-s-new-c.md)
+### [In Germany on March 4, the SPD party member vote on the 2018 coalition agreement of Germany may end. Such a result would be decisive for the formation of Angela Merkel's new coalition government. ](/news/2018/03/2/in-germany-on-march-4-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-may-end-such-a-result-would-be-decisive-for-the.md)
 _Context: Angela Merkel, Germany, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
 
 ##### Cellular network standards
@@ -28,7 +28,7 @@ _Context: Cannabis in Greece, Communist Party, Golden Dawn, Greece, Hellenic Par
 _Context: 2016-2018 investigations involving Benjamin Netanyahu, Benjamin Netanyahu, Israel Police, Prime Minister, Sara_
 
 ##### Cuba-United States relations
-### [The United States permanently downgrade their embassy in Havana, making its status 'unaccompanied', meaning a post at which no family members are permitted to reside. The status change comes after alleged health attacks. ](/news/2018/03/2/the-united-states-permanently-downgrade-their-embassy-in-havana-making-its-status-unaccompanied-meaning-a-post-at-which-no-family-member.md)
+### [The United States permanently downgrades their embassy in Havana, making its status 'unaccompanied', meaning a post at which no family members are permitted to reside. The status change comes after alleged health attacks. ](/news/2018/03/2/the-united-states-permanently-downgrades-their-embassy-in-havana-making-its-status-unaccompanied-meaning-a-post-at-which-no-family-membe.md)
 U.S. Secretary of State Rex Tillerson maintains his decision to reduce the diplomatic presence in Havana due to the inexplicable symptoms suffered by at least 24 American victims.
 
 ##### Russia-United States relations
@@ -36,15 +36,15 @@ U.S. Secretary of State Rex Tillerson maintains his decision to reduce the diplo
 The Kremlin on Friday rejected a U.S. allegation that Russia had been developing destabilizing weapons systems for over a decade in direct violations of its treaty obligations.
 
 ##### March 2018 nor'easter
-### [A massive winter storm hits the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-hits-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-flights.md)
+### [A massive winter storm occurs in the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-occurs-in-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-fl.md)
 _Context: East Coast of the United States, March 2018 nor'easter_
 
 ##### 2017-18 European windstorm season
-### [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md)
+### [An avalanche near Entraunes in southeastern France, kills at least four people and leaves another one missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-one-missing.md)
 _Context: 2017-18 European windstorm season, Entraunes, France_
 
 ##### War in Afghanistan (2001-present)
-### [A suicide car bomber kills one person and injures 14 others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-14-others-near-the-australian-embassy-in-kabul-afghanistan.md)
+### [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md)
 No one has claimed responsibility for the attack.
 
 ##### Ituri conflict
@@ -52,7 +52,7 @@ No one has claimed responsibility for the attack.
 The latest killings were part of a cycle of unrest between the Hema and Lendu communities in the northeastern province, the government told AFP.
 
 ##### 2018 Ouagadougou attack
-### [A terrorist attack at the French embassy and military headquarters in Ouagadougou, Burkina Faso, leaves 28 dead and at least 50 injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougou-burkina-faso-leaves-28-dead-and-at-least-50-injured.md)
+### [A terrorist attack at the French embassy and military headquarters in Ouagadougou, Burkina Faso, leaves 28 people dead and at least 50 others injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougou-burkina-faso-leaves-28-people-dead-and-at-least-50-other.md)
 The French embassy and a military HQ are among the apparent targets in the capital, Ouagadougou.
 
 ## [Previous Day...](/news/2018/03/1/index.md)
