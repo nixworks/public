@@ -12,7 +12,8 @@ The US Secret Service says a man shot himself outside the north fence of the bui
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-43273830)
-1. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/13DAE/production/_100262318_mediaitem100262317.jpg)
+2. [CNN](https://edition.cnn.com/2018/03/03/politics/white-house-shots-fired/index.html)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/13DAE/production/_100262318_mediaitem100262317.jpg)
 
 ### Related:
 

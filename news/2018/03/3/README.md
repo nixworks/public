@@ -4,11 +4,11 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 ## [2018-03-3](/news/2018/03/3/index.md)
 
 ##### White House
-### [A man shoots himself in front of the White House while U.S. President Donald Trump is at his Floridan Mar-a-Lago estate. ](/news/2018/03/3/a-man-shoots-himself-in-front-of-the-white-house-while-u-s-president-donald-trump-is-at-his-floridan-mar-a-lago-estate.md)
+### [A man shoots himself in front of the White House. ](/news/2018/03/3/a-man-shoots-himself-in-front-of-the-white-house.md)
 The US Secret Service says a man shot himself outside the north fence of the building.
 
 ##### Protectionism in the United States
-### [In a message on Twitter, President of the United States Donald Trump says the US will "simply apply a Tax" on cars made in the European Union if the EU "further" increase tariffs. ](/news/2018/03/3/in-a-message-on-twitter-president-of-the-united-states-donald-trump-says-the-us-will-simply-apply-a-tax-on-cars-made-in-the-european-unio.md)
+### [In a message on Twitter, U.S. President Donald Trump says the US will "simply apply a Tax" on cars made in the European Union if the EU "further" increase tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-us-will-simply-apply-a-tax-on-cars-made-in-the-european-union-if-the-eu-fur.md)
 In a Twitter post, President Trump threatened to hit car exports from the European Union with a retaliatory tax.
 
 ##### Turkish military operation in Afrin
@@ -16,7 +16,7 @@ In a Twitter post, President Trump threatened to hit car exports from the Europe
 The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
 
 ##### Israeli-Palestinian conflict
-### [Palestinian officials say that Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/palestinian-officials-say-that-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
+### [Gazan officials say that Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-that-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
 An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
 
 ## [Previous Day...](/news/2018/03/2/index.md)
