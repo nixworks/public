@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/1/astronomers-find-that-hot-saturn-exoplanet-wasp-
 ### [2018-03-1](/news/2018/03/1/index.md)
 
 ##### Discoveries of exoplanets
-# Astronomers find that 'hot-Saturn' exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. 
+# Astronomers find that "hot Saturn" exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. 
 
 Scientists used NASA&#039;s Hubble and Spitzer space telescopes to find water &quot;fingerprints&quot; in the atmosphere of a hot, bloated, Saturn-mass exoplanet some 700 light-years away.
 

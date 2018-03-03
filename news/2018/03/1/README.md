@@ -4,10 +4,10 @@ Formats: [HTML](2018/03/1/index.html)  [JSON](2018/03/1/index.json)  [XML](2018/
 ## [2018-03-1](/news/2018/03/1/index.md)
 
 ##### Discoveries of exoplanets
-### [Astronomers find that 'hot-Saturn' exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. ](/news/2018/03/1/astronomers-find-that-hot-saturn-exoplanet-wasp-39b-located-700-light-years-from-earth-has-a-large-amount-of-water-molecules-in-its-atmo.md)
+### [Astronomers find that "hot Saturn" exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. ](/news/2018/03/1/astronomers-find-that-hot-saturn-exoplanet-wasp-39b-located-700-light-years-from-earth-has-a-large-amount-of-water-molecules-in-its-atmo.md)
 Scientists used NASA&#039;s Hubble and Spitzer space telescopes to find water &quot;fingerprints&quot; in the atmosphere of a hot, bloated, Saturn-mass exoplanet some 700 light-years away.
 
-##### Politics of Argentina
+##### 2018 opening of regular sessions of the National Congress of Argentina
 ### [Argentine President Mauricio Macri delivers a speech in the Congress to start the regular sessions for 2018. ](/news/2018/03/1/argentine-president-mauricio-macri-delivers-a-speech-in-the-congress-to-start-the-regular-sessions-for-2018.md)
 Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.
 
@@ -27,7 +27,7 @@ _Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
 ### [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md)
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
 
-##### U.S. President
+##### Presidency of Donald Trump
 ### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports, causing the Dow Jones Industrial Average to drop over 400 points. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports-causing-the-dow-jones-industrial-average-to-dr.md)
 Plans to impose tariffs on steel and aluminium imports bring an angry international response.
 

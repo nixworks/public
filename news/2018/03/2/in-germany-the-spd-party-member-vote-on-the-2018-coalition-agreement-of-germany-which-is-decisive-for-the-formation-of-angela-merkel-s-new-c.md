@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/in-germany-the-spd-party-member-vote-on-the-2018
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### Germany
+##### Politics of Germany
 # In Germany the SPD party member vote on the 2018 coalition agreement of Germany which is decisive for the formation of Angela Merkel's new coalition government ended. 
 
 

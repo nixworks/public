@@ -3,11 +3,11 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 
 ## [2018-03-2](/news/2018/03/2/index.md)
 
-##### Germany
+##### Politics of Germany
 ### [In Germany the SPD party member vote on the 2018 coalition agreement of Germany which is decisive for the formation of Angela Merkel's new coalition government ended. ](/news/2018/03/2/in-germany-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-which-is-decisive-for-the-formation-of-angela-merkel-s-new-c.md)
-_Context: Angela Merkel, Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+_Context: Angela Merkel, Germany, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
 
-##### European Union
+##### Cellular network atandards
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
@@ -27,6 +27,10 @@ _Context: Cannabis in Greece, Communist Party, Golden Dawn, Greece, Hellenic Par
 ### [An Israel Police anti-corruption unit questions Prime Minister Benjamin Netanyahu and his wife Sara. ](/news/2018/03/2/an-israel-police-anti-corruption-unit-questions-prime-minister-benjamin-netanyahu-and-his-wife-sara.md)
 _Context: 2016-2018 investigations involving Benjamin Netanyahu, Benjamin Netanyahu, Israel Police, Prime Minister, Sara_
 
+##### Cuba-United States relations
+### [The United States permanently downgrade their embassy in La Havana, making its status 'unaccompanied', meaning a post at which no family members are permitted to reside. The status change comes after supposed 'health attacks' on US diplomats.](/news/2018/03/2/the-united-states-permanently-downgrade-their-embassy-in-la-havana-making-its-status-unaccompanied-meaning-a-post-at-which-no-family-mem.md)
+U.S. Secretary of State Rex Tillerson maintains his decision to reduce the diplomatic presence in Havana due to the inexplicable symptoms suffered by at least 24 American victims.
+
 ##### Russia-United States relations
 ### [Kremlin spokesman Dmitry Peskov denies White House spokeswoman Sarah Sanders' claim that Russia breached any international arms control pacts, after President Vladimir Putin's March 1 speech on nuclear weapons. ](/news/2018/03/2/kremlin-spokesman-dmitry-peskov-denies-white-house-spokeswoman-sarah-sanders-claim-that-russia-breached-any-international-arms-control-pact.md)
 The Kremlin on Friday rejected a U.S. allegation that Russia had been developing destabilizing weapons systems for over a decade in direct violations of its treaty obligations.
@@ -39,7 +43,7 @@ _Context: March 2018 nor'easter_
 ### [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md)
 _Context: Entraunes, France_
 
-##### Australia
+##### War in Afghanistan (2001-present)
 ### [A suicide car bomber kills one person and injures 14 others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-14-others-near-the-australian-embassy-in-kabul-afghanistan.md)
 No one has claimed responsibility for the attack.
 

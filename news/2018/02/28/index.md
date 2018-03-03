@@ -16,7 +16,7 @@ Afghan President Ashraf Ghani offered recognition of the Taliban as a legitimate
 _Context: Alex Jones, InfoWars, Weinstein effect_
 
 ##### Beheira
-### [A collision between a passenger and a cargo train in Beheira, Egypt kills 15 people and injures 40 more. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-kills-15-people-and-injures-40-more.md)
+### [A collision between a passenger and a cargo train in Beheira, Egypt, kills 15 people and injures 40 more. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-kills-15-people-and-injures-40-more.md)
 The Ministry of Transport announced that the death toll in a collision between a cargo and a passenger train in Beheira has risen to 15, with 40 people injured. A passenger train collided with a cargo train in Beheira on Wednesday afternoon. The Railway Authority explained in a statement the cause o...
 
 ##### 2017-18 Western Europe windstorm season

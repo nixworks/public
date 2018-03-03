@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/24/three-bombs-explode-in-sittwe-the-capital-of-my
 
 ### [2018-02-24](/news/2018/02/24/index.md)
 
-##### 2018 Sittwe bombings
+##### Internal conflict in Myanmar
 # Three bombs explode in Sittwe, the capital of Myanmar's Rakhine State, slightly injuring a police officer. Three other unexploded bombs are defused around the city. It is unclear who was behind the bombs, but most of them were placed next to government-related buildings. 
 
 Police say they do not know who was behind the three explosions in the city of Sittwe.

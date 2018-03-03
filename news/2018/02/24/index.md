@@ -11,7 +11,7 @@ The House Intelligence Committee released a rebuttal by House Democrats to a Rep
 ### [Several companies, including First National Bank of Omaha, Hertz, and United and Delta airlines have cut ties with the NRA following the shooting, saying that the discount deals they have with the NRA are cancelled. ](/news/2018/02/24/several-companies-including-first-national-bank-of-omaha-hertz-and-united-and-delta-airlines-have-cut-ties-with-the-nra-following-the-sho.md)
 The school shooting in Florida has led to fresh calls for tougher gun controls in the US.
 
-##### 2018 Sittwe bombings
+##### Internal conflict in Myanmar
 ### [Three bombs explode in Sittwe, the capital of Myanmar's Rakhine State, slightly injuring a police officer. Three other unexploded bombs are defused around the city. It is unclear who was behind the bombs, but most of them were placed next to government-related buildings. ](/news/2018/02/24/three-bombs-explode-in-sittwe-the-capital-of-myanmar-s-rakhine-state-slightly-injuring-a-police-officer-three-other-unexploded-bombs-are.md)
 Police say they do not know who was behind the three explosions in the city of Sittwe.
 

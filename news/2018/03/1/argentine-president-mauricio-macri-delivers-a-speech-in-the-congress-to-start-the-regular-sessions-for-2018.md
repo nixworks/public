@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/1/argentine-president-mauricio-macri-delivers-a-sp
 
 ### [2018-03-1](/news/2018/03/1/index.md)
 
-##### Politics of Argentina
+##### 2018 opening of regular sessions of the National Congress of Argentina
 # Argentine President Mauricio Macri delivers a speech in the Congress to start the regular sessions for 2018. 
 
 Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-tra
 ### [2018-02-28](/news/2018/02/28/index.md)
 
 ##### Beheira
-# A collision between a passenger and a cargo train in Beheira, Egypt kills 15 people and injures 40 more. 
+# A collision between a passenger and a cargo train in Beheira, Egypt, kills 15 people and injures 40 more. 
 
 The Ministry of Transport announced that the death toll in a collision between a cargo and a passenger train in Beheira has risen to 15, with 40 people injured. A passenger train collided with a cargo train in Beheira on Wednesday afternoon. The Railway Authority explained in a statement the cause of the accident, saying &hellip; Continued
 
@@ -19,7 +19,7 @@ The Ministry of Transport announced that the death toll in a collision between a
 1. [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 persons and 40 people are injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-persons-and-40-people-are-injured.md) _2018-03-01 00:30:06 (First version)_
 2. [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 people and with a further 40 bring injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-people-and-with-a-further-40-bring-injured.md) _2018-03-01 04:02:59 (Update)_
 3. [A collision between a passenger and a cargo train in Beheira, Egypt, causes the death of 15 people and with a further 40 being injured. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-causes-the-death-of-15-people-and-with-a-further-40-being-injured.md) _2018-03-01 10:30:06 (Update)_
-3. [A collision between a passenger and a cargo train in Beheira, Egypt kills 15 people and injures 40 more. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-kills-15-people-and-injures-40-more.md) _(Current version)_
+3. [A collision between a passenger and a cargo train in Beheira, Egypt, kills 15 people and injures 40 more. ](/news/2018/02/28/a-collision-between-a-passenger-and-a-cargo-train-in-beheira-egypt-kills-15-people-and-injures-40-more.md) _(Current version)_
 
 ### Related:
 
