@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ## [2018-03-2](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [In Germany on March 4, the SPD party member vote on the 2018 coalition agreement of Germany may end. Such a result would be decisive for the formation of Angela Merkel's new coalition government. ](/news/2018/03/2/in-germany-on-march-4-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-may-end-such-a-result-would-be-decisive-for-the.md)
-_Context: Angela Merkel, Germany, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+### [Ballots of the SPD party member vote on the 2018 coalition agreement of Germany close. It is decisive for the formation of Angela Merkel's new coalition government. ](/news/2018/03/2/ballots-of-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-close-it-is-decisive-for-the-formation-of-angela-merkel-s-n.md)
+_Context: Angela Merkel, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
 
 ##### Cellular network standards
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
