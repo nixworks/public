@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ## [2018-03-2](/news/2018/03/2/index.md)
 
 ##### Italian general election, 2018
-### [Antonio Tajani, current President of the European Parliament accepted the offer of Silvio Berlusconi to stand as candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-current-president-of-the-european-parliament-accepted-the-offer-of-silvio-berlusconi-to-stand-as-candidate-for-prime-ministe.md)
+### [Antonio Tajani, the current President of the European Parliament, accepts the offer of Silvio Berlusconi to stand as a candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-the-current-president-of-the-european-parliament-accepts-the-offer-of-silvio-berlusconi-to-stand-as-a-candidate-for-prime-m.md)
 _Context: Antonio Tajani, Forza Italia, Italian general election, 2018, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### European Union
@@ -23,6 +23,10 @@ _Context: Cannabis in Greece, Communist Party, Golden Dawn, Greece, Hellenic Par
 ### [An Israel Police anti-corruption unit questions Prime Minister Benjamin Netanyahu and his wife Sara. ](/news/2018/03/2/an-israel-police-anti-corruption-unit-questions-prime-minister-benjamin-netanyahu-and-his-wife-sara.md)
 _Context: 2016-2018 investigations involving Benjamin Netanyahu, Benjamin Netanyahu, Israel Police, Prime Minister, Sara_
 
+##### March 2018 nor'easter
+### [A massive winter storm hits the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-hits-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-flights.md)
+_Context: March 2018 nor'easter_
+
 ##### Entraunes
 ### [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md)
 _Context: Entraunes, France_
@@ -36,7 +40,7 @@ No one has claimed responsibility for the attack.
 The latest killings were part of a cycle of unrest between the Hema and Lendu communities in the northeastern province, the government told AFP.
 
 ##### 2018 Ouagadougou attack
-### [Suspected terrorists attack the French embassy and military headquarters in Ouagadougu, Burkina Faso, killing 28 and injuring at least 50. ](/news/2018/03/2/suspected-terrorists-attack-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-killing-28-and-injuring-at-least-50.md)
+### [A terrorist attack at the French embassy and military headquarters in Ouagadougu, Burkina Faso, leaves 28 dead and at least 50 injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-leaves-28-dead-and-at-least-50-injured.md)
 The French embassy and a military HQ are among the apparent targets in the capital, Ouagadougou.
 
 ## [Previous Day...](/news/2018/03/1/index.md)
