@@ -23,6 +23,10 @@ _Context: Cannabis in Greece, Communist Party, Golden Dawn, Greece, Hellenic Par
 ### [An Israel Police anti-corruption unit questions Prime Minister Benjamin Netanyahu and his wife Sara. ](/news/2018/03/2/an-israel-police-anti-corruption-unit-questions-prime-minister-benjamin-netanyahu-and-his-wife-sara.md)
 _Context: 2016-2018 investigations involving Benjamin Netanyahu, Benjamin Netanyahu, Israel Police, Prime Minister, Sara_
 
+##### Russia-United States relations
+### [Kremlin spokesman Dmitry Peskov denies White House spokeswoman Sarah Sanders' claim that Russia breached any international arms control pacts, after President Vladimir Putin's March 1 speech on nuclear weapons. ](/news/2018/03/2/kremlin-spokesman-dmitry-peskov-denies-white-house-spokeswoman-sarah-sanders-claim-that-russia-breached-any-international-arms-control-pact.md)
+The Kremlin on Friday rejected a U.S. allegation that Russia had been developing destabilizing weapons systems for over a decade in direct violations of its treaty obligations.
+
 ##### March 2018 nor'easter
 ### [A massive winter storm hits the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-hits-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-flights.md)
 _Context: March 2018 nor'easter_
