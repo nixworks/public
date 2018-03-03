@@ -4,8 +4,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/3/index.md)
 
 ##### White House
-### [A man shoots himself in front of the White House. ](/news/2018/03/3/a-man-shoots-himself-in-front-of-the-white-house.md)
+### [A man shoots himself in front of the White House while U.S. President Donald Trump is at his Floridan Mar-a-Lago estate. ](/news/2018/03/3/a-man-shoots-himself-in-front-of-the-white-house-while-u-s-president-donald-trump-is-at-his-floridan-mar-a-lago-estate.md)
 The US Secret Service says a man shot himself outside the north fence of the building.
+
+##### Turkish military operation in Afrin
+### [At least 36 pro-Syrian government troops have been killed by a Turkish air strike in Afrin, Syria. ](/news/2018/03/3/at-least-36-pro-syrian-government-troops-have-been-killed-by-a-turkish-air-strike-in-afrin-syria.md)
+The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
 
 ##### Israeli-Palestinian conflict
 ### [Palestinian officials say that Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/palestinian-officials-say-that-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
@@ -20,8 +24,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [Ballots of the SPD party member vote on the 2018 coalition agreement of Germany close. It is decisive for the formation of Angela Merkel's new coalition government. ](/news/2018/03/2/ballots-of-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-close-it-is-decisive-for-the-formation-of-angela-merkel-s-n.md)
-_Context: Angela Merkel, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+### [Postall ballots of the SPD party member vote on the 2018 coalition agreement of Germany are due. The vote will determine if the SPD is allowed to coalitionize with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-are-due-the-vote-will-determine-if-the-spd-is-allow.md)
+_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
 
 ##### Cellular network standards
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
