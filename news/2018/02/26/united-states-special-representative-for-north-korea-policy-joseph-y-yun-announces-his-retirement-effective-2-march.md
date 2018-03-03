@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/26/united-states-special-representative-for-north-
 
 ### [2018-02-26](/news/2018/02/26/index.md)
 
-##### 2017-18 North Korea crisis
+##### United States-North Korea relations
 # United States Special Representative for North Korea Policy Joseph Y. Yun announces his retirement, effective 2 March. 
 
 
@@ -15,5 +15,4 @@ Formats: [HTML](/news/2018/02/26/united-states-special-representative-for-north-
 
 ### Related:
 
-1. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: 2017-18 North Korea crisis_
-2. [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md) _Context: 2017-18 North Korea crisis_
+1. [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md) _Context: United States-North Korea relations_

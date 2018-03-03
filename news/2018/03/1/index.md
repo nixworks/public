@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/1/index.html)  [JSON](2018/03/1/index.json)  [XML](2018/
 ## [2018-03-1](/news/2018/03/1/index.md)
 
 ##### Politics of Argentina
-### [Argentine president Mauricio Macri delivers a speech in the Congress to start the regular sessions for 2018. ](/news/2018/03/1/argentine-president-mauricio-macri-delivers-a-speech-in-the-congress-to-start-the-regular-sessions-for-2018.md)
+### [Argentine President Mauricio Macri delivers a speech in the Congress to start the regular sessions for 2018. ](/news/2018/03/1/argentine-president-mauricio-macri-delivers-a-speech-in-the-congress-to-start-the-regular-sessions-for-2018.md)
 Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.
 
 ##### Russian interference in the 2016 United States elections
@@ -20,7 +20,7 @@ _Context: Parliament of Iraq, Politics of Iraq, federal government, foreign troo
 _Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
 
 ##### Crime in Norway
-### [Police in Oslo say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-prize-the.md)
+### [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md)
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
 
 ##### U.S. President

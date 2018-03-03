@@ -3,12 +3,16 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 
 ## [2018-03-2](/news/2018/03/2/index.md)
 
-##### 5G
-### [European Union lawmakers strike a deal on opening up 26 and 3.6 GHz bandwidth, by 2020, for a period of 20 years. In the United States, Congress leaders agree to vote a bill on March 6 timetabling the auction of 28 GHz spectrum, starting in November. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-26-and-3-6-ghz-bandwidth-by-2020-for-a-period-of-20-years-in-the-united-states-cong.md)
+##### Italian general election, 2018
+### [Antonio Tajani, current President of the European Parliament accepted the offer of Silvio Berlusconi to stand as candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-current-president-of-the-european-parliament-accepted-the-offer-of-silvio-berlusconi-to-stand-as-candidate-for-prime-ministe.md)
+_Context: Antonio Tajani, Forza Italia, Italian general election, 2018, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi_
+
+##### European Union
+### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
 ##### School shootings in the United States
-### [Two people are shot dead at Central Michigan University, in Mount Pleasant, Michigan, U.S.. The gunman remains at large. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-u-s-the-gunman-remains-at-large.md)
+### [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md)
 Central Michigan University campus was on lockdown Friday after two people were fatally shot and police were hunting for an &#x27;armed and dangerous&#x27; gunman.
 
 ##### Cannabis in Greece

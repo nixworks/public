@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assist
 
 ### [2018-03-1](/news/2018/03/1/index.md)
 
-##### Oslo
+##### Crime in Norway
 # Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. 
 
 Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
@@ -18,7 +18,8 @@ Fakes submitted both this year and last year, head of Norwegian Nobel Institute 
 ### Changes:
 
 1. [Police in Oslo, Norway, say that the FBI now assists in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-now-assists-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-pr.md) _2018-03-01 19:30:07 (First version)_
-1. [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md) _(Current version)_
+2. [Police in Oslo say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-prize-the.md) _2018-03-02 23:30:06 (Update)_
+2. [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md) _(Current version)_
 
 ### Related:
 
