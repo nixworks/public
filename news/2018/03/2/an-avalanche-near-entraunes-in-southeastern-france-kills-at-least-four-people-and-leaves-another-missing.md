@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-fran
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### Entraunes
+##### 2017-18 European windstorm season
 # An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. 
 
 
