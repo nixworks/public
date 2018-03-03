@@ -9,7 +9,7 @@ _Context: India, PSLV-C38_
 
 ##### 2016 U.S. election
 ### [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md)
-_Context: 2016 U.S. election, Green Party of the United States, Jill Stein, Mark A. Goldsmith, Mich., U.S. District Judge for the Eastern District of Michigan_
+_Context: 2016 U.S. election, Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, U.S. District Judge for the Eastern District of Michigan_
 
 ##### Drug crackdown
 ### [Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-leni.md)
@@ -39,7 +39,7 @@ The Dow industrials, S&amp;P 500 and small-cap focused Russell 2000 on Wednesday
 ### [Union leader Chuck Jones criticizes Donald Trump's announcement of kept jobs saying that the numbers mentioned are lower. Jones says that 550 workers would actually lose their livelihoods, while other workers were never scheduled to leave. ](/news/2016/12/7/union-leader-chuck-jones-criticizes-donald-trump-s-announcement-of-kept-jobs-saying-that-the-numbers-mentioned-are-lower-jones-says-that-55.md)
 _Context: Carrier Air Conditioner move to Mexico_
 
-##### U.S.
+##### United States
 ### [President-elect of the United States Donald Trump is named Time Person of the Year. ](/news/2016/12/7/president-elect-of-the-united-states-donald-trump-is-named-time-person-of-the-year.md)
 From the editors of TIME
 

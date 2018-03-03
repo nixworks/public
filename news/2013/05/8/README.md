@@ -25,11 +25,11 @@ A US woman is found guilty of premeditated murder in the shooting and stabbing d
 
 ##### Italy
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi, top court_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi, top court_
 
-##### French
+##### France
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Belgium, Brussels Airport diamond heist, French, Switzerland_
+_Context: Belgium, Brussels Airport diamond heist, France, Switzerland_
 
 ##### World Trade Organization
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday, May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)

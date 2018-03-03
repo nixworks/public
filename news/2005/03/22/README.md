@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, authorities say they have arrested many senior members of militia groups in Ituri, including Thomas Lubanga of the Union of Congolese Patriots. ](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.md)
-_Context: Democratic Republic of Congo, Ituri, Thomas Lubanga, Union of Congolese Patriots, militia_
+_Context: Democratic Republic of Congo, Ituri Province, Thomas Lubanga, Union of Congolese Patriots, militia_
 
 ##### Chile
 ### [ In Chile, Paul Schfer, former leader of Colonia Dignidad, is charged with involvement in the 1976 disappearance of Juan Maino, activist and opponent of the regime of Augusto Pinochet. ](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.md)

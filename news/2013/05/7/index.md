@@ -97,7 +97,7 @@ _Context: Microsoft, Windows 8, operating system_
 
 ##### Bank of China
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: Bank of China, North Korea, North Korea's nuclear program, U.S._
+_Context: Bank of China, North Korea, North Korea's nuclear program, United States_
 
 ##### Americans
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)

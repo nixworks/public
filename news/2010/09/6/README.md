@@ -7,7 +7,7 @@ Formats: [HTML](2010/09/6/index.html)  [JSON](2010/09/6/index.json)  [XML](2010/
 ### [Former Prime Minister of the United Kingdom Tony Blair cancels a London book signing for his memoir, "A Journey," because of protests by the British National Party and anti-Iraq War demonstrators. ](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony-blair-cancels-a-london-book-signing-for-his-memoir-a-journey-because-of-protests-by-the.md)
 _Context: A Journey, British National Party, Prime Minister, Tony Blair, anti-Iraq War, memoir_
 
-##### French
+##### France
 ### [France prepares for a general strike over reform to pensions with two million people expected to participate. ](/news/2010/09/6/france-prepares-for-a-general-strike-over-reform-to-pensions-with-two-million-people-expected-to-participate.md)
 Two million French people will take to the streets on Tuesday to protest against a pension reform seen as crucial for Nicolas Sarkozy&#039;s chances of re-election in 2012.
 
@@ -33,7 +33,7 @@ _Context: Avigdor Lieberman, Foreign Affairs Minister, Israel, West Bank, Yisrae
 
 ##### Bernard Kouchner
 ### [Bernard Kouchner, the French Minister of Foreign Affairs, and the Vatican offer to assist Sakineh Mohammadi Ashtiani sentenced to death by stoning for adultery in Iran. ](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.md)
-_Context: Bernard Kouchner, French, Holy See, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, adultery_
+_Context: Bernard Kouchner, France, Holy See, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, adultery_
 
 ##### North Korea
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
@@ -41,7 +41,7 @@ _Context: China, North Korea, South Korea_
 
 ##### Wildfire
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Colorado, U.S., wildfire_
+_Context: Colorado, United States, wildfire_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Hermine slams into northern Mexico near the border with Texas. ](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.md)

@@ -13,7 +13,7 @@ _Context: Guriel, Somalia, two years of helping_
 
 ##### 2007 Zoe's Ark controversy
 ### [ 2007 Zoe's Ark controversy - Six French aid workers, sentenced to eight years at hard labor by a Chadian court for allegedly attempting to rescue over 100 Chadian children, are flown to France, where they will appear before a French court which will decide how they will serve their sentences. ](/news/2007/12/28/2007-zoa-c-s-ark-controversy-six-french-aid-workers-sentenced-to-eight-years-at-hard-labor-by-a-chadian-court-for-allegedly-attempting-to.md)
-_Context: 2007 Zoe's Ark controversy, Chad, French, aid workers, hard labor_
+_Context: 2007 Zoe's Ark controversy, Chad, France, aid workers, hard labor_
 
 ## [Previous Day...](/news/2007/12/27/index.md)
 

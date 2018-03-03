@@ -17,7 +17,7 @@ _Context: 2008, Democrat, Hillary Clinton_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi, the Prime Minister of Italy, appoints his new Cabinet. ](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, forming a government_
+_Context: Prime Minister of Italy, Silvio Berlusconi, forming a government_
 
 ##### Genome
 ### [ The genome of the platypus is sequenced. ](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.md)

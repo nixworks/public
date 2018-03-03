@@ -55,7 +55,7 @@ _Context: Cypriot, Cyprus Parliament, bailout package, collapse_
 ### [All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-rebels-move-to-within-75km-of-the-capital-bangu.md)
 All non-essential UN staff said to be removed from Central African Republic, as Seleka rebels advance closer to Bangui.
 
-##### French
+##### France
 ### [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md)
 The French presidency confirms &quot;with certainty&quot; reports that Islamist commander Abdelhamid Abou Zeid was killed in fighting in Mali in late February.
 

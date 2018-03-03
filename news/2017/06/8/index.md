@@ -25,7 +25,7 @@ Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylva
 
 ##### Ukraine-United States relations
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
-_Context: Kiev, U.S., Ukraine-United States relations, embassy_
+_Context: Kiev, Ukraine-United States relations, United States, embassy_
 
 ##### Hezbollah
 ### [U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-belonging-to.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-i
 
 ### Related:
 
-1. [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MP's are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _Context: PKK_
+1. [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MPs are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md) _Context: PKK_
 2. [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md) _Context: PKK_
 3. [Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-party-pkk.md) _Context: PKK_
 4. [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md) _Context: PKK_

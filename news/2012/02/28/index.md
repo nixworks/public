@@ -15,9 +15,9 @@ The retirement of the Republican senator from Maine could reconfigure the race f
 ### [Occupy London protesters are evicted from outside St. Paul's Cathedral. ](/news/2012/02/28/occupy-london-protesters-are-evicted-from-outside-st-paul-s-cathedral.md)
 Occupy London: anti-capitalist protesters evicted from St Paul&#039;s Cathedral.
 
-##### Mich.
+##### Michigan
 ### [Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. ](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.md)
-_Context: Arizona, Mich., Mitt Romney, Republican primaries_
+_Context: Arizona, Michigan, Mitt Romney, Republican primaries_
 
 ##### Thai Society
 ### [A Thai court sentences leftist political activist Surachai Danwattananusorn to seven and a half years in jail for lese majeste or insulting the Thai monarchy. ](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.md)

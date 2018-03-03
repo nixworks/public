@@ -35,25 +35,25 @@ _Context: Bosnian Muslims, Serb, Serbia, paramilitaries, war crimes_
 ### [ India's largest private airline, Jet Airways, has restarted talks to purchase Air Sahara. ](/news/2007/04/10/india-s-largest-private-airline-jet-airways-has-restarted-talks-to-purchase-air-sahara.md)
 _Context: Air Sahara, India, Jet Airways, airline_
 
-##### French
+##### France
 ### [ Seven French doctors will face charges related to the deaths of 110 patients who developed Creutzfeldt-Jakob disease after taking growth hormones in the 1980s. ](/news/2007/04/10/seven-french-doctors-will-face-charges-related-to-the-deaths-of-110-patients-who-developed-creutzfeldt-jakob-disease-after-taking-growth-ho.md)
-_Context: 1980s, Creutzfeldt-Jakob disease, French, doctor, growth hormone_
+_Context: 1980s, Creutzfeldt-Jakob disease, France, doctor, growth hormone_
 
 ##### Iraq War
 ### [ Iraq War: United States and Iraqi forces backed by attack helicopters fight gunmen in Baghdad in the heaviest fighting since the launch of a security crackdown in February 2007. ](/news/2007/04/10/iraq-war-united-states-and-iraqi-forces-backed-by-attack-helicopters-fight-gunmen-in-baghdad-in-the-heaviest-fighting-since-the-launch-of.md)
-_Context: Baghdad, February 2007, Iraq, Iraq War, U.S., attack helicopter, launch of a security crackdown_
+_Context: Baghdad, February 2007, Iraq, Iraq War, United States, attack helicopter, launch of a security crackdown_
 
 ##### Iraq War
 ### [ Iraq War: United States military begins construction of a wall around the Sunni district of Baghdad ](/news/2007/04/10/iraq-war-united-states-military-begins-construction-of-a-wall-around-the-sunni-district-of-baghdad.md)
-_Context: Baghdad, Iraq War, Sunni, U.S., three-mile wall_
+_Context: Baghdad, Iraq War, Sunni, United States, three-mile wall_
 
 ##### Sudan
 ### [ Sudan claims that an attack from Chad on its territory led to the loss of 17 Sudanese soldiers. Chad denies the allegations but claims that it repulsed an attack from Sudan. ](/news/2007/04/10/sudan-claims-that-an-attack-from-chad-on-its-territory-led-to-the-loss-of-17-sudanese-soldiers-chad-denies-the-allegations-but-claims-that.md)
 _Context: Chad, Sudan, soldier_
 
-##### U.S.
+##### United States
 ### [ The United States authorises $59 million worth of aid for the Palestinian Authority. ](/news/2007/04/10/the-united-states-authorises-59-million-worth-of-aid-for-the-palestinian-authority.md)
-_Context: Palestinian Authority, U.S._
+_Context: Palestinian Authority, United States_
 
 ##### Somalia
 ### [ A Somali committee estimates the death toll of recent fighting between Ethiopian and Somali Government forces and insurgents in Mogadishu at more than 1,000. ](/news/2007/04/10/a-somali-committee-estimates-the-death-toll-of-recent-fighting-between-ethiopian-and-somali-government-forces-and-insurgents-in-mogadishu-a.md)

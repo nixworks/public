@@ -29,7 +29,7 @@ Ivo Sanader, wanted for corruption, has been arrested by Austrian police near Sa
 
 ##### Italy
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### WikiLeaks
 ### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)
@@ -37,9 +37,9 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 
 ##### World War II
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: French, German, World War II_
+_Context: France, German, World War II_
 
-##### 250,000 documents
+##### United States diplomatic cables leak
 ### [United States diplomatic cables leak: ](/news/2010/12/10/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -55,7 +55,7 @@ A group of 26 former EU leaders urges Brussels to impose sanctions on Israel for
 ### [A new archive of the genocide in Rwanda is unveiled in the capital Kigali. ](/news/2010/12/10/a-new-archive-of-the-genocide-in-rwanda-is-unveiled-in-the-capital-kigali.md)
 Thousands of documents, photographs and audio-visual recordings relating to the 1994 genocide go on display in Rwanda.
 
-##### U.S.
+##### United States
 ### [The United States "loses track" of 119,000 private planes, with uncertainty over who has access to them. ](/news/2010/12/10/the-united-states-loses-track-of-119-000-private-planes-with-uncertainty-over-who-has-access-to-them.md)
 Aviation agency does not know who owns one-third of the aircraft in US, a gap it fears could be exploited by criminals.
 

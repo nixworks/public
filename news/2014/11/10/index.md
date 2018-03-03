@@ -13,7 +13,7 @@ The leaders of China and Japan hold formal talks on the sidelines of a major Asi
 
 ##### Isabel dos Santos
 ### [Isabel dos Santos, a billionaire and the eldest daughter of the President of Angola, has entered an auction for Portugal Telecom, bidding against a France based company, Altice. ](/news/2014/11/10/isabel-dos-santos-a-billionaire-and-the-eldest-daughter-of-the-president-of-angola-has-entered-an-auction-for-portugal-telecom-bidding-ag.md)
-_Context: Angola, French, Isabel dos Santos, Portugal Telecom_
+_Context: Angola, France, Isabel dos Santos, Portugal Telecom_
 
 ##### Israeli-Palestinian conflict
 ### [Killing of Sergeant Almog Shiloni: A Palestinian man fatally stabs an Israeli soldier in Tel Aviv.2014 Alon Shvut stabbing attack: In a separate attack at a bus stop near Alon Shvut in the West Bank, a Palestinian man runs over three people with a vehicle then stabs all three, resulting in the death of 26-year-old occupational therapist Dahlia Lemkus. ](/news/2014/11/10/killing-of-sergeant-almog-shiloni-a-palestinian-man-fatally-stabs-an-israeli-soldier-in-tel-aviv-2014-alon-shvut-stabbing-attack-in-a-sepa.md)

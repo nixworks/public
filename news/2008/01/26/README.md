@@ -11,9 +11,9 @@ _Context: Ana Ivanovic, Andy Ram, Australian Open, Maria Sharapova, Yoni Erlich_
 ### [ Police in Zimbabwe arrest Nicholas van Hoogstraten for allegedly violating the Exchange Control Regulations Act by asking his tenants to pay in foreign currency. He is also accused of violating the Censorship Act for possessing pornography. Police seize Z$20 billion ($0.6m). ](/news/2008/01/26/police-in-zimbabwe-arrest-nicholas-van-hoogstraten-for-allegedly-violating-the-exchange-control-regulations-act-by-asking-his-tenants-to-pa.md)
 _Context: Nicholas van Hoogstraten, USD, Z$, Zimbabwe_
 
-##### U.S.
+##### United States
 ### [ The United States government warns that a spy satellite is losing power and propulsion and could hit the Earth in February or March. ](/news/2008/01/26/the-united-states-government-warns-that-a-spy-satellite-is-losing-power-and-propulsion-and-could-hit-the-earth-in-february-or-march.md)
-_Context: Earth, U.S., spy satellite_
+_Context: Earth, United States, spy satellite_
 
 ##### 2008
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the South Carolina Democratic primary. ](/news/2008/01/26/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-south-carolina-democratic-primary.md)

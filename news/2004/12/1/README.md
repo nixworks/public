@@ -11,9 +11,9 @@ _Context: David Blunkett, Home Secretary, Prime Minister, Tony Blair_
 ### [ The Verkhovna Rada (parliament of Ukraine) passes a vote of no confidence to dismiss Viktor Yanukovich as Prime Minister. The opposition led by Viktor Yushchenko agrees to continue negotiations and end the blockade of official buildings. ](/news/2004/12/1/the-verkhovna-rada-parliament-of-ukraine-passes-a-vote-of-no-confidence-to-dismiss-viktor-yanukovich-as-prime-minister-the-opposition-le.md)
 _Context: Ukrainian presidential election, Viktor Yanukovich, Viktor Yushchenko, parliament, vote of no confidence_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Ariel Sharon ends the Likud-led coalition after he fires ministers from the secular Shinui party, which voted to defeat the annual budget over subsidies to religious parties. ](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.md)
-_Context: Ariel Sharon, Israeli Prime Minister, Likud, Shinui, subsidies_
+_Context: Ariel Sharon, Likud, Prime Minister, Shinui, subsidies_
 
 ##### Palestinian presidential election
 ### [ Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to-10-candidates-drawing-criticism-from-ar.md)

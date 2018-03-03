@@ -45,7 +45,7 @@ A former president of Bosnia accused of war crimes was arrested today at Heathro
 
 ##### Kodjovi Obilale
 ### [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md)
-_Context: 2010 Africa Cup of Nations, Angola, French, Johannesburg, Kodjovi Obilale, Togo national football team attack_
+_Context: 2010 Africa Cup of Nations, Angola, France, Johannesburg, Kodjovi Obilale, Togo national football team attack_
 
 ##### Spain
 ### [Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. ](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-concerning-allegations-that-it-helped-terrorist-groups-euskadi-ta-askatasuna-and-farc-plot-to-k.md)

@@ -33,7 +33,7 @@ _Context: Haditha killings, Marine, military judge_
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France intends to return to the military structure of NATO for the first time since Charles de Gaulle led it out of the organisation in 1966. ](/news/2008/06/17/president-nicolas-sarkozy-announces-that-france-intends-to-return-to-the-military-structure-of-nato-for-the-first-time-since-charles-de-gau.md)
-_Context: 1966, Charles de Gaulle, French, French President, NATO, Nicolas Sarkozy_
+_Context: 1966, Charles de Gaulle, France, French President, NATO, Nicolas Sarkozy_
 
 ##### Boston Celtics
 ### [ The Boston Celtics defeat the Los Angeles Lakers to win the 2008 NBA Finals. ](/news/2008/06/17/the-boston-celtics-defeat-the-los-angeles-lakers-to-win-the-2008-nba-finals.md)

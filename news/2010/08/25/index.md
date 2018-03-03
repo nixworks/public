@@ -21,15 +21,15 @@ _Context: Ottawa, Royal Canadian Mounted Police, terrorism_
 
 ##### Mexican marines
 ### [Mexican Naval Infantry find 72 corpses at a remote ranch in San Fernando, Tamaulipas, near the border with the US state of Texas. The victims were economic migrants from Central America and South America believed to be murdered by a drug cartel. ](/news/2010/08/25/mexican-naval-infantry-find-72-corpses-at-a-remote-ranch-in-san-fernando-tamaulipas-near-the-border-with-the-us-state-of-texas-the-victim.md)
-_Context: Central America, Mexican Drug War, Mexican marines, San Fernando, Tamaulipas, South America, Texas, U.S._
+_Context: Central America, Mexican Drug War, Mexican marines, San Fernando, Tamaulipas, South America, Texas, United States_
 
 ##### Wikileaks
 ### [Wikileaks publishes a CIA analysis claiming that the United States could be perceived as an "exporter of terrorism". ](/news/2010/08/25/wikileaks-publishes-a-cia-analysis-claiming-that-the-united-states-could-be-perceived-as-an-exporter-of-terrorism.md)
-_Context: CIA, U.S., Wikileaks, terrorism_
+_Context: CIA, United States, Wikileaks, terrorism_
 
 ##### U.S. President
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)
-_Context: Aijalon Gomes, Jimmy Carter, North Korea, U.S., U.S. President_
+_Context: Aijalon Gomes, Jimmy Carter, North Korea, U.S. President, United States_
 
 ##### Hurricane
 ### [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffirasimpson-hurricane-scale-and-heads-towards-bermuda.md)

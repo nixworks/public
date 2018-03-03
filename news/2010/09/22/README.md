@@ -35,13 +35,13 @@ Residents in northern Burundi are on alert after the discovery of 14 bodies, som
 ### [Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. ](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.md)
 _Context: Iran, Russia, ban on ballistic missile tests_
 
-##### U.S.
+##### United States
 ### [United States singer Eddie Fisher dies in Berkeley, California. ](/news/2010/09/22/united-states-singer-eddie-fisher-dies-in-berkeley-california.md)
-_Context: Berkeley, California, California, Eddie Fisher, U.S._
+_Context: Berkeley, California, California, Eddie Fisher, United States_
 
-##### U.S.
+##### United States
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
-_Context: Japan, Las Vegas, Nevada, Nevada, Paris Hilton, U.S., celebrity, cocaine_
+_Context: Japan, Las Vegas, Nevada, Nevada, Paris Hilton, United States, celebrity, cocaine_
 
 ##### 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
@@ -61,9 +61,9 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 ### [A Palestinian man is shot dead by an Israeli security guard in the East Jerusalem area of Silwan, during a clash between Israeli settlers and Palestinians. ](/news/2010/09/22/a-palestinian-man-is-shot-dead-by-an-israeli-security-guard-in-the-east-jerusalem-area-of-silwan-during-a-clash-between-israeli-settlers-an.md)
 A Jewish settlement guard kills a Palestinian man in the East Jerusalem neighbourhood of Silwan after residents pelt his car with stones.
 
-##### French
+##### France
 ### [Three French crewman are kidnapped off the coast of Nigeria. ](/news/2010/09/22/three-french-crewman-are-kidnapped-off-the-coast-of-nigeria.md)
-_Context: French, Nigeria_
+_Context: France, Nigeria_
 
 ##### Quetta
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)

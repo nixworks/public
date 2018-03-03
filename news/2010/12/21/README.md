@@ -13,7 +13,7 @@ _Context: lunar eclipse_
 
 ##### 2010 Census
 ### [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md)
-_Context: 2010 Census, U.S., US Census Bureau headquarters_
+_Context: 2010 Census, US Census Bureau headquarters, United States_
 
 ##### Siale'ataonga Tu'ivakano
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)

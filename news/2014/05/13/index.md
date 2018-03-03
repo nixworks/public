@@ -39,7 +39,7 @@ _Context: Christopher Columbus, Haiti, Santa Maria, flagship_
 ### [Villagers in the Nigerian Kala-Balge district of Borno State form a vigilante group and successfully repel an attack from the terrorist Islamist group Boko Haram, seizing three cars and a military vehicle and killing around 200 of the militants. ](/news/2014/05/13/villagers-in-the-nigerian-kala-balge-district-of-borno-state-form-a-vigilante-group-and-successfully-repel-an-attack-from-the-terrorist-isla.md)
 Villagers in northern Nigeria say they have repelled an attack by suspected militants amid reports of unrest amongst disgruntled soldiers in Maiduguri.
 
-##### French
+##### France
 ### [The body of 26-year-old French photojournalist Camille Lepage was found in the Bouar region. The French presidency released a statement saying she was "murdered" and announced that a team of investigators will be dispatched to the scene. ](/news/2014/05/13/the-body-of-26-year-old-french-photojournalist-camille-lepage-was-found-in-the-bouar-region-the-french-presidency-released-a-statement-sayi.md)
 French president orders immediate despatch of team to &#x27;shine light on circumstances of assassination&#x27; of 26-year-old
 

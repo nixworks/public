@@ -13,7 +13,7 @@ _Context: Harry Potter, Harry Potter and the Deathly Hallows_
 
 ##### Rwanda
 ### [ Two Rwandan men wanted for their role in the 1994 genocide are arrested in France. ](/news/2007/07/21/two-rwandan-men-wanted-for-their-role-in-the-1994-genocide-are-arrested-in-france.md)
-_Context: 1994 genocide, French, Rwanda_
+_Context: 1994 genocide, France, Rwanda_
 
 ##### Taliban
 ### [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md)
@@ -31,7 +31,7 @@ Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 m
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
 _Context: Cte d'Ivoire, Morocco, United Nations, peacekeeping_
 
-##### U.S.
+##### United States
 ### [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 

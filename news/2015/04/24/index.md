@@ -19,7 +19,7 @@ _Context: Calbuco, Chile_
 ### [A 6.4 magnitude earthquake occurs near the town of Kaikoura on the South Island of New Zealand. ](/news/2015/04/24/a-6-4-magnitude-earthquake-occurs-near-the-town-of-kaikoura-on-the-south-island-of-new-zealand.md)
 A strong earthquake centered just off Kaikoura has caused problems with the Spark mobile network today. - New Zealand Herald
 
-##### U.S.
+##### United States
 ### [In the United States, the NASDAQ and S&P 500 end at record highs spurred by strong results by tech giants Google, Amazon and Microsoft. ](/news/2015/04/24/in-the-united-states-the-nasdaq-and-s-p-500-end-at-record-highs-spurred-by-strong-results-by-tech-giants-google-amazon-and-microsoft.md)
 The Nasdaq Composite and S&P 500 chalked up record high closes on Friday, propelled by strong results from tech behemoths Google, Amazon and Microsoft.
 

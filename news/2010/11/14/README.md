@@ -15,7 +15,7 @@ _Context: Dail, Gerry Adams, Northern Ireland Assembly, Parliament, Sinn Fein_
 ### [Thousands of cheering supporters greet Burmese democracy leader Aung San Suu Kyi outside the headquarters of the National League for Democracy in Yangon. ](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, Yangon_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Italian Prime Minister Silvio Berlusconi announces he will seek a confidence vote once the 2011 budget is approved. ](/news/2010/11/14/italian-prime-minister-silvio-berlusconi-announces-he-will-seek-a-confidence-vote-once-the-2011-budget-is-approved.md)
 Italian Prime Minister Silvio Berlusconi, fighting for the survival of his government, said on Saturday he would seek a confidence vote in parliament after the 2011 budget has been approved.
 
@@ -43,7 +43,7 @@ _Context: Asia Pacific Economic Cooperation, Free Trade Area of the Asia Pacific
 ### [The Organization of American States urges Nicaragua and Costa Rica to withdraw their security forces from an island in the San Juan river. Google is blamed for the dispute and revises its maps. ](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.md)
 The Organisation of American States urges Nicaragua and Costa Rica to withdraw their security forces from a disputed border region.
 
-##### U.S.
+##### United States
 ### [The United States offers Israel 20 F-35s and opposition to anti-Israel resolutions in the UN if Israel agrees to a partial 90-day freeze in building in the West Bank, excluding east Jerusalem. ](/news/2010/11/14/the-united-states-offers-israel-20-f-35s-and-opposition-to-anti-israel-resolutions-in-the-un-if-israel-agrees-to-a-partial-90-day-freeze-in.md)
 US offers incentives for a 90-day building freeze in West Bank, but the proposal does not include East Jerusalem.
 
@@ -73,7 +73,7 @@ _Context: Mounts Merapi, eruptions_
 
 ##### Dijon
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)
-_Context: Dijon, French_
+_Context: Dijon, France_
 
 ##### 
 ### [The death toll rises to 917. ](/news/2010/11/14/the-death-toll-rises-to-917.md)

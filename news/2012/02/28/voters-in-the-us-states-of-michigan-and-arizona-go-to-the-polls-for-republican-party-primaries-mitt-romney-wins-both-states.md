@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona
 
 ### [2012-02-28](/news/2012/02/28/index.md)
 
-##### Mich.
+##### Michigan
 # Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. 
 
 

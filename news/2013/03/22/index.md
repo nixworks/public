@@ -13,7 +13,7 @@ Former Pakistani President Pervez Musharraf has been granted protective bail in 
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is being investigated over claims of illegal donations received from the country's richest woman, Liliane Bettencourt of L'Oreal. ](/news/2013/03/22/former-president-of-france-nicolas-sarkozy-is-being-investigated-over-claims-of-illegal-donations-received-from-the-country-s-richest-woman.md)
-_Context: French, French President, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, richest woman_
+_Context: France, French President, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, richest woman_
 
 ##### Australian Labor Party
 ### [Several Ministers and Australian Labor Party figures resign or are sacked following a leadership spill including Simon Crean, Martin Ferguson, Chris Bowen, Kim Carr, Richard Marles, Ed Husic and Joel Fitzgibbon. ](/news/2013/03/22/several-ministers-and-australian-labor-party-figures-resign-or-are-sacked-following-a-leadership-spill-including-simon-crean-martin-ferguso.md)
@@ -29,7 +29,7 @@ Burma imposes a state of emergency in the town of Meiktila following three days 
 
 ##### Shooting
 ### [A shooting at Marine Corps Base Quantico in Virginia, United States, kills three people, including the suspected shooter. ](/news/2013/03/22/a-shooting-at-marine-corps-base-quantico-in-virginia-united-states-kills-three-people-including-the-suspected-shooter.md)
-_Context: Marine Corps Base Quantico, U.S., Virginia, shooting_
+_Context: Marine Corps Base Quantico, United States, Virginia, shooting_
 
 ##### Rwanda
 ### [Rwandan accused war criminal Bosco Ntaganda is transferred into the custody of the International Criminal Court. ](/news/2013/03/22/rwandan-accused-war-criminal-bosco-ntaganda-is-transferred-into-the-custody-of-the-international-criminal-court.md)
@@ -61,7 +61,7 @@ Xi Jinping arrives in Russia on the first stop of his maiden overseas tour as pr
 
 ##### U.S. President
 ### [President of the United States Barack Obama visits Jordan and meets with King Abdullah II. He warns of extremist threat in Syria. ](/news/2013/03/22/president-of-the-united-states-barack-obama-visits-jordan-and-meets-with-king-abdullah-ii-he-warns-of-extremist-threat-in-syria.md)
-_Context: Abdullah II of Jordan, Barack Obama, Jordan, Syria, U.S., U.S. President, visit_
+_Context: Abdullah II of Jordan, Barack Obama, Jordan, Syria, U.S. President, United States, visit_
 
 ##### 2013 meat adulteration scandal
 ### [2013 meat adulteration scandal: Britain's Food Standards Agency says that 100kg of horse meat imported from Hungary and labelled as beef has been discovered in Lancashire. ](/news/2013/03/22/2013-meat-adulteration-scandal-britain-s-food-standards-agency-says-that-100kg-of-horse-meat-imported-from-hungary-and-labelled-as-beef-has.md)
@@ -87,7 +87,7 @@ China levied final anti-dumping duties on the chemical resorcinol imported from 
 ### [Australian painter Del Kathryn Barton wins the 2013 Archibald Prize for her portrait of actor Hugo Weaving. ](/news/2013/03/22/australian-painter-del-kathryn-barton-wins-the-2013-archibald-prize-for-her-portrait-of-actor-hugo-weaving.md)
 A portrait of actor Hugo Weaving by Sydney artist Del Kathryn Barton has won this year&#039;s Archibald prize.
 
-##### U.S.
+##### United States
 ### [American alternative rock band My Chemical Romance announces their breakup in one paragraph after a musical career spanning 12 years. ](/news/2013/03/22/american-alternative-rock-band-my-chemical-romance-announces-their-breakup-in-one-paragraph-after-a-musical-career-spanning-12-years.md)
 My Chemical Romance has called it quits, the rock act announced on its website on Friday. The long-running group had been together for over a decade, releasing four studio albums.
 

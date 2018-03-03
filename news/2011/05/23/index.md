@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/23/index.html)  [JSON](2011/05/23/index.json)  [XML](201
 
 ##### Palestine
 ### [Palestinian Prime Minister Salam Fayyad suffers a heart attack and undergoes surgery during a trip to the United States to attend his son's graduation. ](/news/2011/05/23/palestinian-prime-minister-salam-fayyad-suffers-a-heart-attack-and-undergoes-surgery-during-a-trip-to-the-united-states-to-attend-his-son-s.md)
-_Context: Palestine, Prime Minister, Salam Fayyad, U.S._
+_Context: Palestine, Prime Minister, Salam Fayyad, United States_
 
 ##### China
 ### [The People's Republic of China detains 300 Tibetan monks for "legal education" after a monk sets himself on fire. ](/news/2011/05/23/the-people-s-republic-of-china-detains-300-tibetan-monks-for-legal-education-after-a-monk-sets-himself-on-fire.md)

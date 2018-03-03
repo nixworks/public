@@ -7,7 +7,7 @@ Formats: [HTML](2007/03/27/index.html)  [JSON](2007/03/27/index.json)  [XML](200
 ### [ The Blair Government introduces legislation into the Parliament of the United Kingdom to facilitate a power-sharing agreement in Northern Ireland between Ian Paisley's Democratic Unionist Party and Sinn Fin. ](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.md)
 _Context: Democratic Unionist Party, Ian Paisley, Northern Ireland, Parliament, Sinn Fin, Tony Blair_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert and the President of the Palestinian National Authority Mahmoud Abbas agree to limited biweekly peace talks. ](/news/2007/03/27/the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-national-authority-mahmoud-abbas-agree-to-limited-biweekly-pe.md)
 The announcement came after three days of shuttle diplomacy by Secretary of State Condoleezza Rice.
 

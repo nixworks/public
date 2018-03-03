@@ -17,7 +17,7 @@ _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_
 
 ##### Muqtada al-Sadr
 ### [ Muqtada al-Sadr threatens a new rebellion if a United States-Iraqi crackdown against his followers continues. ](/news/2008/04/19/muqtada-al-sadr-threatens-a-new-rebellion-if-a-united-states-iraqi-crackdown-against-his-followers-continues.md)
-_Context: Iraq, Muqtada al-Sadr, U.S., crackdown against his followers_
+_Context: Iraq, Muqtada al-Sadr, United States, crackdown against his followers_
 
 ## [Previous Day...](/news/2008/04/18/index.md)
 

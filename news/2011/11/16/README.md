@@ -13,7 +13,7 @@ _Context: Gordon Lilo Darcy, Milner Tozaka, National Coalition for Reform and Ad
 
 ##### Mario Monti
 ### [Mario Monti is sworn in as Italian prime minister and temporary finance minister, with the task of implementing austerity measures to prevent the euro area's third-biggest economy from collapsing as a result of the debt crisis. ](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.md)
-_Context: Economy Minister, Eurozone, Eurozone crisis, Italian Prime Minister, Mario Monti, third-biggest economy_
+_Context: Economy Minister, Eurozone, Eurozone crisis, Mario Monti, Prime Minister of Italy, third-biggest economy_
 
 ##### White House
 ### [Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. ](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.md)

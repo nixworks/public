@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/11/index.html)  [JSON](2007/02/11/index.json)  [XML](200
 
 ##### Israel
 ### [ A top aide to Israeli Prime Minister Ehud Olmert has been suspended from her job for six months while a corruption inquiry is conducted, officials say. ](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.md)
-_Context: Ehud Olmert, Israel, Israeli Prime Minister, anti-corruption_
+_Context: Ehud Olmert, Israel, Prime Minister, anti-corruption_
 
 ##### Rakhat Aliyev
 ### [ Rakhat Aliyev, son-in-law of Kazakh President Nursultan Nazarbayev and First Vice Foreign Minister, is demoted to ambassador to Austria for the second time amid accusations he stole money from Nurbank bank and alleged involvement in the kidnapping and murdering of two Nurbank officials. ](/news/2007/02/11/rakhat-aliyev-son-in-law-of-kazakh-president-nursultan-nazarbayev-and-first-vice-foreign-minister-is-demoted-to-ambassador-to-austria-for.md)

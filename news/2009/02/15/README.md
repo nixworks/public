@@ -19,9 +19,9 @@ _Context: Cancer Research UK, London Research Institute, cancer, modified immune
 ### [ General strikes over high living costs continue in Guadeloupe and Martinique. ](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.md)
 _Context: General strikes, Guadeloupe, Martinique, living costs_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ Prime Minister Ehud Olmert denies reports that Israel is negotiating with Hamas. ](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.md)
-_Context: Ehud Olmert, Hamas, Israel, Israeli Prime Minister, fire_
+_Context: Ehud Olmert, Hamas, Israel, Prime Minister, fire_
 
 ##### Venezuela
 ### [ Fifty-four percent of participating Venezuelan voters approve a constitutional referendum to remove term limits for elected offices, including the Presidency. ](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.md)

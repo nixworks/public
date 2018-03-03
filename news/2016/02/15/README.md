@@ -11,9 +11,9 @@ SBS World News Radio: Vote-counting in the Central African Republic&#039;s presi
 ### [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md)
 _Context: Al Qaeda, German, intelligence_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. ](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.md)
-_Context: Ehud Olmert, Israeli Prime Minister_
+_Context: Ehud Olmert, Prime Minister_
 
 ##### ASEAN Summit
 ### [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md)

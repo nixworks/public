@@ -3,7 +3,7 @@ Formats: [HTML](2014/06/10/index.html)  [JSON](2014/06/10/index.json)  [XML](201
 
 ## [2014-06-10](/news/2014/06/10/index.md)
 
-##### U.S.
+##### United States
 ### [United States House Majority Leader Eric Cantor is defeated by newcomer Tea Party-backed candidate David Brat in a Virginia congressional primary election. ](/news/2014/06/10/united-states-house-majority-leader-eric-cantor-is-defeated-by-newcomer-tea-party-backed-candidate-david-brat-in-a-virginia-congressional-pr.md)
 The Republican leader is expected to defeat his rival. The question is by how much.
 
@@ -15,7 +15,7 @@ _Context: Israel, President, Reuven Rivlin_
 ### [A student is shot and killed at Reynolds High School in Troutdale, Oregon, and the shooter is dead. ](/news/2014/06/10/a-student-is-shot-and-killed-at-reynolds-high-school-in-troutdale-oregon-and-the-shooter-is-dead.md)
 _Context: Reynolds High School, Troutdale, Oregon_
 
-##### U.S.
+##### United States
 ### [US Olympic swimming gold medal winner Amy Van Dyken severs her spine in a severe ATV accident. ](/news/2014/06/10/us-olympic-swimming-gold-medal-winner-amy-van-dyken-severs-her-spine-in-a-severe-atv-accident.md)
 A six-time US Olympic gold medal-winning swimmer severs her spinal cord in an all-terrain vehicle accident over the weekend.
 

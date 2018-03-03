@@ -31,9 +31,9 @@ Disgraced former Israeli President Moshe Katsav begins a seven-year sentence for
 ### [The board of Japan's Olympus Corporation announces its plans to resign early next year due to its accounting scandal. ](/news/2011/12/7/the-board-of-japan-s-olympus-corporation-announces-its-plans-to-resign-early-next-year-due-to-its-accounting-scandal.md)
 _Context: Japan, Olympus Corp, Olympus scandal_
 
-##### U.S.
+##### United States
 ### [The United States commemorates the 70th anniversary of the attack on Pearl Harbor, Hawai'i. ](/news/2011/12/7/the-united-states-commemorates-the-70th-anniversary-of-the-attack-on-pearl-harbor-hawai-i.md)
-_Context: Hawai'i, Pearl Harbor, U.S., attack on Pearl Harbor_
+_Context: Hawai'i, Pearl Harbor, United States, attack on Pearl Harbor_
 
 ## [Previous Day...](/news/2011/12/6/index.md)
 

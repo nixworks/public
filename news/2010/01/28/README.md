@@ -7,9 +7,9 @@ Formats: [HTML](2010/01/28/index.html)  [JSON](2010/01/28/index.json)  [XML](201
 ### [Iran executes two opposition supporters for their role in the election protests in the country. ](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.md)
 _Context: Iran, protests against the regime_
 
-##### French
+##### France
 ### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
-_Context: ''Clearstream'' affair, Dominique de Villepin, French, French Prime Minister, indicted_
+_Context: ''Clearstream'' affair, Dominique de Villepin, France, French Prime Minister, indicted_
 
 ##### Sudan
 ### [Sudan's ruling National Congress Party endorses South Sudan President Salva Kiir in upcoming elections. ](/news/2010/01/28/sudan-s-ruling-national-congress-party-endorses-south-sudan-president-salva-kiir-in-upcoming-elections.md)

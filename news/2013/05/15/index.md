@@ -53,7 +53,7 @@ _Context: Arizona, Jodi Arias, U.S., first-degree murder, life in prison without
 
 ##### Granbury, Texas
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
-_Context: Granbury, Texas, U.S._
+_Context: Granbury, Texas, United States_
 
 ##### Myanmar
 ### [Authorities in Myanmar and Bangladesh prepare for the arrival of Cyclone Mahasen, which has already killed at least seven people and displaced nearly 4,000 in Sri Lanka. ](/news/2013/05/15/authorities-in-myanmar-and-bangladesh-prepare-for-the-arrival-of-cyclone-mahasen-which-has-already-killed-at-least-seven-people-and-displac.md)

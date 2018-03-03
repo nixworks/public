@@ -43,7 +43,7 @@ _Context: Africa, Chinese, Dar es Salaam, President, Tanzania, Xi Jinping_
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)
 South Korea and the United States sign a plan providing for a joint response in the event of &quot;provocations&quot; from North Korea.
 
-##### U.S.
+##### United States
 ### [The United States agrees to hand over Bagram Jail, its main detention facility in Afghanistan, to the country's government. ](/news/2013/03/25/the-united-states-agrees-to-hand-over-bagram-jail-its-main-detention-facility-in-afghanistan-to-the-country-s-government.md)
 Transfer ends one of several bitter standoffs straining bilateral ties as US secretary of state meets Karzai in Kabul.
 

@@ -21,7 +21,7 @@ _Context: Amnesty International, Arab, Darfur, Janjaweed, Sudan_
 
 ##### Israel
 ### [ Israeli Prime Minister Ariel Sharon calls on French Jews to move to Israel immediately in light of the dramatic rise in French anti-semitism (510 anti-semitic acts or threats in the first six months of 2004, compared to 593 for all of 2003). The French government describes his comments as unacceptable. An Israeli spokesperson later claims that Sharon had been misunderstood. ](/news/2004/07/19/israeli-prime-minister-ariel-sharon-calls-on-french-jews-to-move-to-israel-immediately-in-light-of-the-dramatic-rise-in-french-anti-semitis.md)
-_Context: Ariel Sharon, Israel, Israeli Prime Minister, anti-semitic_
+_Context: Ariel Sharon, Israel, Prime Minister, anti-semitic_
 
 ##### Jordan
 ### [ Jordanian troops detect and intercept four unidentified individuals attempting to "infiltrate to the western side of the Jordan River" (Israel). Three are killed and the fourth arrested. ](/news/2004/07/19/jordanian-troops-detect-and-intercept-four-unidentified-individuals-attempting-to-infiltrate-to-the-western-side-of-the-jordan-river-isr.md)

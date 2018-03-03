@@ -25,7 +25,7 @@ Kenya&#039;s president has attended a status conference at the International Cri
 
 ##### Ebola virus disease in the United States
 ### [The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian-man-dies-in-dallas-texas.md)
-_Context: Dallas, Ebola virus disease in the United States, Liberia, Texas, U.S., ebola_
+_Context: Dallas, Ebola virus disease in the United States, Liberia, Texas, United States, ebola_
 
 ##### Cave painting
 ### [Archaeologists date cave paintings in Maros on the Indonesian island of Sulawesi as being 40,000 years old, which is as old as similar works in Europe. ](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-the-indonesian-island-of-sulawesi-as-being-40-000-years-old-which-is-as-old-as-similar-works.md)

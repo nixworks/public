@@ -17,7 +17,7 @@ _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxfo
 
 ##### Kills
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: Carthage, North Carolina, U.S., kills, nursing home_
+_Context: Carthage, North Carolina, United States, kills, nursing home_
 
 ##### Jenson Button
 ### [ Jenson Button of Brawn GP wins Formula One's 2009 Australian Grand Prix. ](/news/2009/03/29/jenson-button-of-brawn-gp-wins-formula-one-s-2009-australian-grand-prix.md)
@@ -25,7 +25,7 @@ _Context: 2009, Australian Grand Prix, Brawn GP, Formula One, Jenson Button_
 
 ##### Mayotte
 ### [ Mayotte's referendum on becoming an overseas department of France is approved. ](/news/2009/03/29/mayotte-s-referendum-on-becoming-an-overseas-department-of-france-is-approved.md)
-_Context: French, Mayotte, overseas department, referendum_
+_Context: France, Mayotte, overseas department, referendum_
 
 ##### Coalition for a European Montenegro
 ### [ The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. ](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.md)

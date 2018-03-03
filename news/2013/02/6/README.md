@@ -11,9 +11,9 @@ _Context: Barack Obama, CEO, REI, Sally Jewell, Secretary of the Interior, U.S. 
 ### [Chokri Belaid, the general secretary of the Patriotic Democratic Party, is shot dead outside his house in Tunis, leading to reported clashes between the police and hundreds of protesters. The Prime Minister of Tunisia Hamadi Jebali claims that a new government will be formed within one day. ](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.md)
 The prime minister said he would dissolve the Islamist-led government after a politician, Chokri Belaid, was killed and thousands took to the streets in protest.
 
-##### U.S.
+##### United States
 ### [In United States, two children and one woman are killed in a Denver apartment shooting. ](/news/2013/02/6/in-united-states-two-children-and-one-woman-are-killed-in-a-denver-apartment-shooting.md)
-_Context: Denver, U.S._
+_Context: Denver, United States_
 
 ##### Tsunami
 ### [A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthquake-occurs-off-the-coast-of-the-so.md)
@@ -23,7 +23,7 @@ SIX bodies, including that of a child, have been found in the sodden wreckage le
 ### [The U.S. Securities and Exchange Commission hosts a roundtable in which experts and the representatives of affected industries discuss the consequences that decimalisation has had on the market for equity in the U.S., especially regarding small caps. ](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.md)
 _Context: Securities and Exchange Commission, U.S., decimalisation, equity, roundtable, small caps_
 
-##### U.S.
+##### United States
 ### [Authorities in the United States and United Kingdom fine The Royal Bank of Scotland more than $612 million for its role in manipulating the London Interbank Offered Rate or Libor. ](/news/2013/02/6/authorities-in-the-united-states-and-united-kingdom-fine-the-royal-bank-of-scotland-more-than-612-million-for-its-role-in-manipulating-the.md)
 STATE-RESCUED Royal Bank of Scotland says it will pay fines totalling $US612 million ($A596 million) to US and British regulators to settle allegations of Libor interest rate rigging.
 

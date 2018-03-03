@@ -9,7 +9,7 @@ Despite earlier heckling from a protester, Bob Carr is officially endorsed by th
 
 ##### Congress
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: China, Congress, U.S., tariff_
+_Context: China, Congress, United States, tariff_
 
 ##### Hakimullah Mehsud
 ### [Hakimullah Mehsud, leader of the Pakistan Taliban, removes his deputy commander Maulvi Faqir Mohammed in a sign of a growing power struggle. ](/news/2012/03/6/hakimullah-mehsud-leader-of-the-pakistan-taliban-removes-his-deputy-commander-maulvi-faqir-mohammed-in-a-sign-of-a-growing-power-struggle.md)
@@ -35,7 +35,7 @@ For those of us who have never been held hostage, now we know what it feels like
 ### [Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md)
 _Context: Eastern, Libya_
 
-##### U.S.
+##### United States
 ### [Law enforcement agencies in the United States, United Kingdom and Ireland arrest alleged senior members of the computer hacking group Lulz Sec, including a member of the FBI. ](/news/2012/03/6/law-enforcement-agencies-in-the-united-states-united-kingdom-and-ireland-arrest-alleged-senior-members-of-the-computer-hacking-group-lulz-s.md)
 Law enforcement agents on two continents swooped in on top members of the computer hacking group LulzSec early Tuesday, acting largely on evidence gathered by infamous organization’s chief, who sources say has been secretly working for the government for months.
 

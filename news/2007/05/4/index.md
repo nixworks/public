@@ -17,7 +17,7 @@ _Context: Chinese, Intergovernmental Panel on Climate Change, summary report on 
 
 ##### Terrorist
 ### [ Convicted terrorist Carlos the Jackal will face charges in France relating to alleged involvement in deadly bombings in 1982 and 1983. ](/news/2007/05/4/convicted-terrorist-carlos-the-jackal-will-face-charges-in-france-relating-to-alleged-involvement-in-deadly-bombings-in-1982-and-1983.md)
-_Context: 1982, 1983, Carlos the Jackal, French, terrorist_
+_Context: 1982, 1983, Carlos the Jackal, France, terrorist_
 
 ##### Mali
 ### [ Mali's opposition Front for Democracy and the Republic calls on the Constitutional Court to annul last Sunday's presidential election. ](/news/2007/05/4/mali-s-opposition-front-for-democracy-and-the-republic-calls-on-the-constitutional-court-to-annul-last-sunday-s-presidential-election.md)
@@ -39,9 +39,9 @@ _Context: George W. Bush, Lee Hsien Loong, Prime Minister of Singapore, South Ea
 ### [ A heavy-lift "Ariane 5" rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. ](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.md)
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.
 
-##### U.S.
+##### United States
 ### [ Three U.S. Republican legislators from Alaska are charged with accepting bribes to support legislation favorable to oil services company Veco Corp. ](/news/2007/05/4/three-u-s-republican-legislators-from-alaska-are-charged-with-accepting-bribes-to-support-legislation-favorable-to-oil-services-company-ve.md)
-_Context: Alaska, Republican, U.S., Veco Corp, bribe_
+_Context: Alaska, Republican, United States, Veco Corp, bribe_
 
 ##### Greensburg, Kansas Tornado Outbreak
 ### [ Greensburg, Kansas Tornado Outbreak: A massive tornado kills nine people in Kansas including 8 people in Greensburg, Kansas with the town suffering widespread damage. ](/news/2007/05/4/greensburg-kansas-tornado-outbreak-a-massive-tornado-kills-nine-people-in-kansas-including-8-people-in-greensburg-kansas-with-the-town-s.md)

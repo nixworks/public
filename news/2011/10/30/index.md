@@ -27,9 +27,9 @@ QANTAS CEO Alan Joyce says the Federal Government was warned the airline was in 
 ### [The interim Prime Minister of Libya Mahmoud Jibril confirms the presence of chemical weapons in Libya under the Gaddafi regime and announces that weapons inspectors would be visiting the country to help get rid of them. ](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.md)
 _Context: Libya, Libyan Prime Minister, Mahmoud Jibril, Muammar Gaddafi, chemical weapons_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills six militants in Pakistan's North Waziristan region. ](/news/2011/10/30/a-united-states-drone-attack-kills-six-militants-in-pakistan-s-north-waziristan-region.md)
-_Context: North Waziristan, Pakistan, U.S., drones launch_
+_Context: North Waziristan, Pakistan, United States, drones launch_
 
 ## [Previous Day...](/news/2011/10/29/index.md)
 

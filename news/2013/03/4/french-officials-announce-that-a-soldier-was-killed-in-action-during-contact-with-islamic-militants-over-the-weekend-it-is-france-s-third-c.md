@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/4/french-officials-announce-that-a-soldier-was-kil
 
 ### [2013-03-4](/news/2013/03/4/index.md)
 
-##### French
+##### France
 # French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. 
 
 A French soldier is killed in heavy fighting in northern Mali in the same region where Chad said it killed Islamist leader Mokhtar Belmokhtar.
@@ -23,8 +23,8 @@ A French soldier is killed in heavy fighting in northern Mali in the same region
 
 ### Related:
 
-1. [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md) _Context: French, Operation Serval_
-2. [Suspected Islamic militants take over a BP facility in In Amenas, Algeria, killing at least 2 workers and taking up to 40 others hostage, including 13 Norwegians, a number of Americans, as well as nationals from Ireland, Japan, France and the United Kingdom. A previously unknown group allied to al-Qaeda's regional branch says the attack is in revenge for Algeria's support of the French operation against Islamic rebels in Mali. ](/news/2013/01/16/suspected-islamic-militants-take-over-a-bp-facility-in-in-ama-c-nas-algeria-killing-at-least-2-workers-and-taking-up-to-40-others-hostage-i.md) _Context: French, Operation Serval_
-3. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: French_
-4. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: French_
-5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: French_
+1. [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md) _Context: France, Operation Serval_
+2. [Suspected Islamic militants take over a BP facility in In Amenas, Algeria, killing at least 2 workers and taking up to 40 others hostage, including 13 Norwegians, a number of Americans, as well as nationals from Ireland, Japan, France and the United Kingdom. A previously unknown group allied to al-Qaeda's regional branch says the attack is in revenge for Algeria's support of the French operation against Islamic rebels in Mali. ](/news/2013/01/16/suspected-islamic-militants-take-over-a-bp-facility-in-in-ama-c-nas-algeria-killing-at-least-2-workers-and-taking-up-to-40-others-hostage-i.md) _Context: France, Operation Serval_
+3. [Suspected terrorists attack the French embassy and military headquarters in Ouagadougu, Burkina Faso, killing 28 and injuring at least 50. ](/news/2018/03/2/suspected-terrorists-attack-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-killing-28-and-injuring-at-least-50.md) _Context: France_
+4. [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md) _Context: France_
+5. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: France_

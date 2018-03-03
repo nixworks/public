@@ -41,7 +41,7 @@ _Context: Kosovo, Kosovo, Malawi_
 
 ##### Roy E. Disney
 ### [ Roy E. Disney, head of Disney Animation and responsible for guiding the studio through a golden age of animation, dies in a California hospital in the United States. ](/news/2009/12/16/roy-e-disney-head-of-disney-animation-and-responsible-for-guiding-the-studio-through-a-golden-age-of-animation-dies-in-a-california-hosp.md)
-_Context: California, Disney Animation, Roy E. Disney, U.S._
+_Context: California, Disney Animation, Roy E. Disney, United States_
 
 ##### Italy
 ### [ An unarmed 26-year-old man is detained after attempting to enter the hospital room of Italian Prime Minister Silvio Berlusconi as he recuperates from the recent assault. ](/news/2009/12/16/an-unarmed-26-year-old-man-is-detained-after-attempting-to-enter-the-hospital-room-of-italian-prime-minister-silvio-berlusconi-as-he-recupe.md)

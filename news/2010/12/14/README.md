@@ -11,7 +11,7 @@ _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast, President_
 ### [General Hwang Eui-don, the chief of the South Korean Army, resigns. ](/news/2010/12/14/general-hwang-eui-don-the-chief-of-the-south-korean-army-resigns.md)
 _Context: Army, Hwang Eui-don, South Korea_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [The Prime Minister of Italy Silvio Berlusconi narrowly survives (314 to 311) a no-confidence vote in the parliament moved by Gianfranco Fini. A formal complaint about Mr Berlusconi allegedly trying to buy votes is being investigated. ](/news/2010/12/14/the-prime-minister-of-italy-silvio-berlusconi-narrowly-survives-314-to-311-a-no-confidence-vote-in-the-parliament-moved-by-gianfranco-fini.md)
 At least 90 people are injured as police and protesters clash in Rome after Italian PM Silvio Berlusconi narrowly wins a vote of confidence.
 

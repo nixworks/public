@@ -155,7 +155,7 @@ Chinese media is &#034;vulgar&#034; and &#034;kitsch&#034;, according to the cou
 ### [Reykjavik's mayor, Jon Gnarr of the Best Party, dresses in drag for the opening of the city's gay pride festival. ](/news/2010/08/6/reykjavak-s-mayor-ja3n-gnarr-of-the-best-party-dresses-in-drag-for-the-opening-of-the-city-s-gay-pride-festival.md)
 Reykjavik&#039;s comedian-turned-politician mayor, Jon Gnarr, opened the Icelandic capital&#039;s gay pride festival this week in drag, in a blond wig and with bright red lipstick.
 
-##### French
+##### France
 ### [French police dismantle Romani camps in Saint-Etienne by order of the president. ](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.md)
 France begins taking down illegal Roma camps in line with a presidential order, with police dismantling a camp in Saint-Etienne.
 

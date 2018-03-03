@@ -13,7 +13,7 @@ _Context: Ali Larijani, Majlis of Iran, Speaker_
 
 ##### Ehud Barak
 ### [ Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. ](/news/2008/05/28/ehud-barak-the-defense-minister-of-israel-and-leader-of-the-labor-party-calls-for-the-resignation-of-the-prime-minister-of-israel-ehud-ol.md)
-_Context: Defense Minister, Ehud Barak, Ehud Olmert, Israeli Prime Minister, Labor Party, corruption_
+_Context: Defense Minister, Ehud Barak, Ehud Olmert, Labor Party, Prime Minister, corruption_
 
 ##### Dublin
 ### [ In Dublin, over 100 countries, not including the United States, Russia, or China, agree to the Convention on Cluster Munitions banning cluster bombs. ](/news/2008/05/28/in-dublin-over-100-countries-not-including-the-united-states-russia-or-china-agree-to-the-convention-on-cluster-munitions-banning-clus.md)

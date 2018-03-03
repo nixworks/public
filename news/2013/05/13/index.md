@@ -53,7 +53,7 @@ _Context: Sana'a, Yemen_
 
 ##### Kevyn Orr
 ### [Kevyn Orr, a state-appointed emergency manager of the finances of the city of Detroit, Michigan, issues a report describing the city as "clearly insolvent on a cash flow basis." ](/news/2013/05/13/kevyn-orr-a-state-appointed-emergency-manager-of-the-finances-of-the-city-of-detroit-michigan-issues-a-report-describing-the-city-as-cle.md)
-_Context: Detroit, Kevyn Orr, Mich._
+_Context: Detroit, Kevyn Orr, Michigan_
 
 ##### Americans
 ### [Veteran U.S. broadcaster Barbara Walters announces her 2014 retirement. ](/news/2013/05/13/veteran-u-s-broadcaster-barbara-walters-announces-her-2014-retirement.md)

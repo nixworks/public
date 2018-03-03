@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/7/index.html)  [JSON](2008/07/7/index.json)  [XML](2008/
 
 ##### Uranium
 ### [ Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. ](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-lauzon-rivers-from-the-tricastin-nuclear-power-center-in-bollene-france-resulting-in-the-pl.md)
-_Context: Bollne, French, Gaffire, Lauzon rivers, Tricastin Nuclear Power Center, uranium_
+_Context: Bollne, France, Gaffire, Lauzon rivers, Tricastin Nuclear Power Center, uranium_
 
 ##### Church of England
 ### [ The Church of England's governing body votes to allow female bishops. ](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.md)

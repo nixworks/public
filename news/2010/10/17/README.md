@@ -71,7 +71,7 @@ _Context: Iran, Islamic Republic, Mahmoud Ahmadinejad_
 ### [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md)
 Saudi Arabia has warned France it is the target of an imminent al-Qaeda attack, French Interior Minister Brice Hortefeux says.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu says that Israel had recently renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit, who is being held incommunicado by Hamas. ](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.md)
 Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit.
 
@@ -85,11 +85,11 @@ Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, 
 
 ##### Hilton Hotels
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
 
 ##### General Motors
 ### [GM workers protest a drop in wages, from $58,000-year to $30,000-year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)
-_Context: $50 billion government bailout, General Motors, Mich., a new car plant, tax incentive_
+_Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-the-vatican-cit.md)

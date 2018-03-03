@@ -27,13 +27,13 @@ _Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox 
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
 _Context: 2008, Massachusetts governor, Mitt Romney, his campaign_
 
-##### U.S.
+##### United States
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
 Police in the United States and Italy arrested 77 suspected members of the Mafia on Thursday, including some of its most wanted leaders, for an array of crimes going back more than 30 years.
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Abu Hamza al-Masri, Muslim, U.S., extradition_
+_Context: Abu Hamza al-Masri, Muslim, United States, extradition_
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle Atlantis launches successfully on its STS-122 mission. ](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.md)

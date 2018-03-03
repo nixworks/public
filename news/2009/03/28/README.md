@@ -17,7 +17,7 @@ _Context: Dunfermline Building Society, Scotland_
 
 ##### Red River of the North
 ### [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md)
-_Context: Fargo, North Dakota, North Dakota, Red River of the North, U.S., evacuation, rises_
+_Context: Fargo, North Dakota, North Dakota, Red River of the North, United States, evacuation, rises_
 
 ##### Taliban
 ### [ Taliban militants destroy 12 NATO trucks in Peshawar, Pakistan. ](/news/2009/03/28/taliban-militants-destroy-12-nato-trucks-in-peshawar-pakistan.md)
@@ -29,7 +29,7 @@ _Context: Dubai World Cup, United Arab Emirates, Well Armed_
 
 ##### Space Shuttle
 ### [ Space Shuttle "Discovery" lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md)
-_Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, U.S., lands_
+_Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, United States, lands_
 
 ##### Police
 ### [ Police and fans of Northern Ireland and Poland battle after a 2010 FIFA World Cup qualifying match in Belfast. ](/news/2009/03/28/police-and-fans-of-northern-ireland-and-poland-battle-after-a-2010-fifa-world-cup-qualifying-match-in-belfast.md)

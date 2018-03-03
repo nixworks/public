@@ -21,7 +21,7 @@ _Context: Baghdad, Iraq War, car bomb_
 
 ##### Painting
 ### [ Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-paris.md)
-_Context: French, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
+_Context: France, Jacqueline, Maya with Doll, Paris, Picasso, painter, painting_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
@@ -45,7 +45,7 @@ _Context: Airbus, Europe_
 
 ##### Romano Prodi
 ### [ Romano Prodi, the Prime Minister of Italy, survives a no-confidence motion in the Senate. ](/news/2007/02/28/romano-prodi-the-prime-minister-of-italy-survives-a-no-confidence-motion-in-the-senate.md)
-_Context: Italian Prime Minister, Romano Prodi, Senate of Italy_
+_Context: Prime Minister of Italy, Romano Prodi, Senate of Italy_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david-l.md)

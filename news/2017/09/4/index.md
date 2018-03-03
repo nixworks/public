@@ -13,7 +13,7 @@ _Context: 'Ndrangheta, Crime in Italy, Italy, Montevideo, Rocco Morabito, Urugua
 
 ##### Crisis in Venezuela
 ### [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md)
-_Context: Crisis in Venezuela, French_
+_Context: Crisis in Venezuela, France_
 
 ##### 2017 North Korea crisis
 ### [South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly. ](/news/2017/09/4/south-korean-defense-minister-song-young-moo-says-it-is-worth-reviewing-deployment-of-u-s-strategic-assets-aircraft-carriers-nuclear-subm.md)

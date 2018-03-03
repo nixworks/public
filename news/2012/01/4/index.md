@@ -15,13 +15,13 @@ _Context: George Papandreou, Greek Prime Minister, PASOK_
 ### [Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa-caucus-with-candidate-and-former-u-s-senator.md)
 _Context: 2012 Iowa Caucus, Mitt Romney, Rick Santorum, Ron Paul_
 
-##### Argentine president
+##### Argentine President
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
-_Context: Amado Boudou, Argentine president, Cristina Kirchner, thyroid cancer_
+_Context: Amado Boudou, Argentine President, Cristina Kirchner, thyroid cancer_
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Benjamn Arellano Flix, Mexican, U.S., money laundering, racketeering_
+_Context: Benjamn Arellano Flix, Mexican, United States, money laundering, racketeering_
 
 ##### Life imprisonment
 ### [Gary Dobson and David Norris are jailed for life for the 1993 murder of Stephen Lawrence. Dobson is given a minimum of 15 years and two months, and Norris 14 years and three months. ](/news/2012/01/4/gary-dobson-and-david-norris-are-jailed-for-life-for-the-1993-murder-of-stephen-lawrence-dobson-is-given-a-minimum-of-15-years-and-two-mont.md)

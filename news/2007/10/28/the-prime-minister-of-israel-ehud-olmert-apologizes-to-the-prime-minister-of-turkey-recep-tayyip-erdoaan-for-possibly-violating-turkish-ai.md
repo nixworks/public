@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/28/the-prime-minister-of-israel-ehud-olmert-apolog
 
 ### [2007-10-28](/news/2007/10/28/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 #  The Prime Minister of Israel Ehud Olmert apologizes to the Prime Minister of Turkey Recep Tayyip Erdogan for possibly violating Turkish airspace. 
 
 

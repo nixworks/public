@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/7/index.html)  [JSON](2007/07/7/index.json)  [XML](2007/
 
 ##### Live Earth
 ### [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md)
-_Context: Australia, Brazil, Chinese, German, Japan, Live Earth, South Africa, U.S., United Kingdom_
+_Context: Australia, Brazil, Chinese, German, Japan, Live Earth, South Africa, United Kingdom, United States_
 
 ##### Afghanistan
 ### [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md)
-_Context: Afghanistan, Farah Province, Kunar Province, NATO, U.S._
+_Context: Afghanistan, Farah Province, Kunar Province, NATO, United States_
 
 ##### 2007 Amirli bombing
 ### [ 2007 Amirli bombing: At least 105 people are killed when a suicide truck bomber attacks a market in Amirli in northern Iraq with a majority Shiite Turkmen population. ](/news/2007/07/7/2007-amirli-bombing-at-least-105-people-are-killed-when-a-suicide-truck-bomber-attacks-a-market-in-amirli-in-northern-iraq-with-a-majority.md)

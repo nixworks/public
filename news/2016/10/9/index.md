@@ -41,7 +41,7 @@ A U.S. Navy guided missile destroyer was targeted on Sunday in a failed missile 
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [A shooting takes place in Jerusalem that kills two people, including a police officer, injuring six others. The attack was carried out by a Palestinian gunman who opened fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem. Israeli police kill the gunman. ](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-two-people-including-a-police-officer-injuring-six-others-the-attack-was-carried-out-by-a.md)
-_Context: Israeli police, Israeli-Palestinian conflict (2015-present), Jerusalem, Palestinians, shooting_
+_Context: Israel Police, Israeli-Palestinian conflict (2015-present), Jerusalem, Palestinians, shooting_
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md)

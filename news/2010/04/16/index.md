@@ -51,9 +51,9 @@ At least eight people killed and 35 wounded in explosion in Quetta in Balochista
 ### [The United Nations commission investigating the events and circumstances surrounding the assassination of Benazir Bhutto submits its report which states that the murder was "avoidable" and the inquiry was bungled. ](/news/2010/04/16/the-united-nations-commission-investigating-the-events-and-circumstances-surrounding-the-assassination-of-benazir-bhutto-submits-its-report.md)
 _Context: United Nations, assassination of Benazir Bhutto_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Israeli Prime Minister Ehud Olmert is named as the key suspect in "one of the biggest corruption scandals in Israel's history". ](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.md)
-_Context: Ehud Olmert, Israel, Israeli Prime Minister_
+_Context: Ehud Olmert, Israel, Prime Minister_
 
 ##### U.S. Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. ](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.md)

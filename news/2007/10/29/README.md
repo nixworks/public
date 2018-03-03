@@ -21,13 +21,13 @@ Regulators hailed the arrests, made during a nationwide crackdown on tainted foo
 
 ##### UK
 ### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md)
-_Context: Azerbaijan, Baku, UK, embassies_
+_Context: Azerbaijan, Baku, UK, embassy_
 
 ##### Salim Aliyow Ibrow
 ### [ Salim Aliyow Ibrow becomes Prime Minister of Somalia in the Transitional Federal Government as the embattled Ali Mohamed Ghedi resigns. ](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.md)
 _Context: Ali Mohamed Ghedi, Prime Minister of Somalia, Salim Aliyow Ibrow, Transitional Federal Government_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert announces that he has been diagnosed with early-stage prostate cancer. ](/news/2007/10/29/the-prime-minister-of-israel-ehud-olmert-announces-that-he-has-been-diagnosed-with-early-stage-prostate-cancer.md)
 Prime Minister Ehud Olmert said that the early stage cancer was not life-threatening and would not distract from his work.
 
@@ -37,7 +37,7 @@ _Context: 7 July, Abdullah, Government of Saudi Arabia, His Majesty's Government
 
 ##### Argentine general election, 2007
 ### [ Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. ](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.md)
-_Context: Argentine general election, 2007, Argentine president, Cristina Kirchner_
+_Context: Argentine President, Argentine general election, 2007, Cristina Kirchner_
 
 ##### USS ''Arleigh Burke''
 ### [ The USS "Arleigh Burke" enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)

@@ -45,7 +45,7 @@ Latest season of satirical show with same format as US Saturday Night Live had j
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Afghanistan, Drone strikes in Pakistan, Khalid Mehsud, North Waziristan, Tehrik-i-Taliban Pakistan, U.S._
+_Context: Afghanistan, Drone strikes in Pakistan, Khalid Mehsud, North Waziristan, Tehrik-i-Taliban Pakistan, United States_
 
 ## [Previous Day...](/news/2018/02/11/index.md)
 

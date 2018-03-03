@@ -3,9 +3,9 @@ Formats: [HTML](2011/10/9/index.html)  [JSON](2011/10/9/index.json)  [XML](2011/
 
 ## [2011-10-9](/news/2011/10/9/index.md)
 
-##### U.S.
+##### United States
 ### [Having spread across the United States, anti-corruption Occupy Wall Street protests reach Canada, London, and The Hague. ](/news/2011/10/9/having-spread-across-the-united-states-anti-corruption-occupy-wall-street-protests-reach-canada-london-and-the-hague.md)
-_Context: Canada, London, Occupy Wall Street, The Hague, U.S., corruption_
+_Context: Canada, London, Occupy Wall Street, The Hague, United States, corruption_
 
 ##### French Socialist Party
 ### [The French Socialist Party holds a nationwide primary election to choose its candidate for the 2012 presidential election, with over 1 million voters participating and Francois Hollande and Martine Aubry entering a run-off election. ](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.md)

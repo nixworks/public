@@ -3,9 +3,9 @@ Formats: [HTML](2007/08/20/index.html)  [JSON](2007/08/20/index.json)  [XML](200
 
 ## [2007-08-20](/news/2007/08/20/index.md)
 
-##### U.S.
+##### United States
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Protest, Security and Prosperity Partnership of North America, Stephen Harper, U.S., tear gas_
+_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Protest, Security and Prosperity Partnership of North America, Stephen Harper, United States, tear gas_
 
 ##### Eye
 ### [ The eye of Hurricane Dean rapidly moves westward, passing just south of Jamaica, bringing strong hurricane-force winds and storm surges to bear down on the island nation, though the strongest wind is believed to have been offshore. ](/news/2007/08/20/the-eye-of-hurricane-dean-rapidly-moves-westward-passing-just-south-of-jamaica-bringing-strong-hurricane-force-winds-and-storm-surges-to.md)

@@ -29,7 +29,7 @@ _Context: 2005 European floods_
 
 ##### Omri Sharon
 ### [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md)
-_Context: 1999, Ariel Sharon, Israeli Prime Minister, Likud, Omri Sharon, corruption, indicted_
+_Context: 1999, Ariel Sharon, Likud, Omri Sharon, Prime Minister, corruption, indicted_
 
 ##### Hawaii
 ### [ Hawaii, represented by Ewa Beach, Hawaii, defeats Willemstad, Curaao 7-6 in the Little League World Series ](/news/2005/08/28/hawaii-represented-by-ewa-beach-hawaii-defeats-willemstad-curacao-7-6-in-the-little-league-world-series.md)

@@ -25,7 +25,7 @@ _Context: Brazilian federal judge, Norway, Petrobras, Statoil_
 
 ##### Shooting of Robert Godwin
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: Cleveland, FBI, Facebook, Indiana, Mich., New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
+_Context: Cleveland, FBI, Facebook, Indiana, Michigan, New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
 
 ##### North Korea
 ### [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md)
@@ -63,7 +63,7 @@ _Context: China, Guizhou_
 ### [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md)
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
-##### U.S.
+##### United States
 ### [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md)
 (Adds HNA Airport Holding and Dynasty Financial Partners; Updates Ant Financial, Wal-Mart, Williams Partners and EagleClaw Midstream Ventures)
 

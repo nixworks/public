@@ -13,7 +13,7 @@ _Context: French Prime Minister, Manuel Valls, PS, last month's presidential ele
 
 ##### Italian constitutional referendum, 2016
 ### [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md)
-_Context: Italian Prime Minister, Italian constitutional referendum, 2016, Matteo Renzi, the "No" vote_
+_Context: Italian constitutional referendum, 2016, Matteo Renzi, Prime Minister of Italy, the "No" vote_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban-development.md)

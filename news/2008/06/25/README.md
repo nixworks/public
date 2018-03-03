@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/25/index.html)  [JSON](2008/06/25/index.json)  [XML](200
 
 ## [2008-06-25](/news/2008/06/25/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert strikes a deal with the Labor Party to avoid dissolution of the Knesset in return for Olmert holding a leadership contest for the Kadima party by September. ](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.md)
-_Context: Ehud Olmert, Israeli Prime Minister, Kadima, Labor Party, parliament in Israel_
+_Context: Ehud Olmert, Kadima, Labor Party, Prime Minister, parliament in Israel_
 
 ##### New Zealand government
 ### [ The Government of New Zealand agrees to hand over $NZ420 million in forestry assets to seven Maori tribes as part of the reconciliation process. ](/news/2008/06/25/the-government-of-new-zealand-agrees-to-hand-over-nz420-million-in-forestry-assets-to-seven-maori-tribes-as-part-of-the-reconciliation-pro.md)
@@ -25,7 +25,7 @@ _Context: Saudi Arabia, al-Qaeda, insurgency in Saudi Arabia_
 
 ##### Italian Senate
 ### [ The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. ](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.md)
-_Context: Italian Prime Minister, Italian Senate, Silvio Berlusconi, legal troubles_
+_Context: Italian Senate, Prime Minister of Italy, Silvio Berlusconi, legal troubles_
 
 ##### China
 ### [ China reopens Tibet to foreign tourists as a ban imposed during the Tibetan unrest is lifted. ](/news/2008/06/25/china-reopens-tibet-to-foreign-tourists-as-a-ban-imposed-during-the-tibetan-unrest-is-lifted.md)

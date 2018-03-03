@@ -7,7 +7,7 @@ Formats: [HTML](2012/05/12/index.html)  [JSON](2012/05/12/index.json)  [XML](201
 ### [The discovery of a missing piece of the Mayan calendar appears to render the 2012 phenomenon obsolete, by proving that the Maya did not believe 2012 to be the end of the world. ](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.md)
 &#xD;&#xA;The world is not going to end on December 21. No, not even according to the Mayan calendar. And especially&#xD;&#xA; not according to the awesome newly uncovered Mayan calendar -- the &#xD;&#xA;oldest known Mayan cale
 
-##### U.S.
+##### United States
 ### [In the United States, prospective Republican presidential candidate Mitt Romney condemns same-sex marriage as illegitimate. At the evangelical Christian Liberty University in Lynchburg, Virginia, he describes marriage as exclusively "a relationship between one man and one woman." ](/news/2012/05/12/in-the-united-states-prospective-republican-presidential-candidate-mitt-romney-condemns-same-sex-marriage-as-illegitimate-at-the-evangelic.md)
 Presumptive US Republican presidential nominee Mitt Romney restates his opposition to same-sex marriage, days after President Obama backed it.
 

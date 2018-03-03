@@ -13,7 +13,7 @@ _Context: Abdelaziz Bouteflika, Algeria, President_
 
 ##### Steven W. Rhodes
 ### [Bankruptcy judge Steven W. Rhodes says that the court may maintain supervision over the finances of the city of Detroit, Michigan, even after the city emerges from bankruptcy protection. ](/news/2014/04/17/bankruptcy-judge-steven-w-rhodes-says-that-the-court-may-maintain-supervision-over-the-finances-of-the-city-of-detroit-michigan-even-afte.md)
-_Context: Detroit, Mich., Steven W. Rhodes_
+_Context: Detroit, Michigan, Steven W. Rhodes_
 
 ##### Anglo Irish Bank
 ### [Two former Anglo Irish Bank chiefs, Pat Whelan and William McAteer, are found guilty of making loans designed to illegally prop up the bank's share price. ](/news/2014/04/17/two-former-anglo-irish-bank-chiefs-pat-whelan-and-william-mcateer-are-found-guilty-of-making-loans-designed-to-illegally-prop-up-the-bank.md)

@@ -11,9 +11,9 @@ The president’s budget plan, which foresees near-record deficits just ahead, i
 ### [ 2008 submarine cable disruption: the Egyptian transport ministry reports that footage of the areas where cables were snapped or damaged shows no maritime traffic. ](/news/2008/02/4/2008-submarine-cable-disruption-the-egyptian-transport-ministry-reports-that-footage-of-the-areas-where-cables-were-snapped-or-damaged-sho.md)
 _Context: Egypt, break, maritime_
 
-##### U.S.
+##### United States
 ### [ The United States military says that it accidentally killed nine Iraqi civilians in an operation targeting Al-Qaeda south of Baghdad. ](/news/2008/02/4/the-united-states-military-says-that-it-accidentally-killed-nine-iraqi-civilians-in-an-operation-targeting-al-qaeda-south-of-baghdad.md)
-_Context: Baghdad, Iraq, U.S., al-Qaeda, civilian_
+_Context: Baghdad, Iraq, United States, al-Qaeda, civilian_
 
 ##### Chad
 ### [ Chadian rebels claim to have withdrawn voluntarily from N'Djamena. ](/news/2008/02/4/chadian-rebels-claim-to-have-withdrawn-voluntarily-from-n-djamena.md)
@@ -37,7 +37,7 @@ _Context: George W. Bush, U.S. President, U.S. federal court, United States Navy
 
 ##### Congress of France
 ### [ The Versailles Assembly, bringing together both the French Senate and the Chamber of Deputies, votes 560 to 181 in favour of amending the constitution to allow adoption of the EU Lisbon Treaty. ](/news/2008/02/4/the-versailles-assembly-bringing-together-both-the-french-senate-and-the-chamber-of-deputies-votes-560-to-181-in-favour-of-amending-the-c.md)
-_Context: Congress of France, Constitution of France, European Union, French, National Assembly, Senate, Treaty of Lisbon_
+_Context: Congress of France, Constitution of France, European Union, France, National Assembly, Senate, Treaty of Lisbon_
 
 ## [Previous Day...](/news/2008/02/3/index.md)
 

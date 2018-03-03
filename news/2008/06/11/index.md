@@ -37,7 +37,7 @@ _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, the Hague, war crimes_
 
 ##### Sheikh Hasina
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
-_Context: Prime Minister, Sheikh Hasina, U.S., corruption_
+_Context: Prime Minister, Sheikh Hasina, United States, corruption_
 
 ##### Metropolitan Police
 ### [ The Metropolitan Police launches an inquiry after top secret British government intelligence on al-Qaeda is found on a train going from Waterloo Station to Surrey. ](/news/2008/06/11/the-metropolitan-police-launches-an-inquiry-after-top-secret-british-government-intelligence-on-al-qaeda-is-found-on-a-train-going-from-wat.md)
@@ -57,7 +57,7 @@ _Context: Estonia, Finland, Greece, Treaty of Lisbon_
 
 ##### InBev
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
-_Context: $, Anheuser-Busch, InBev, U.S., brewing, takeover_
+_Context: $, Anheuser-Busch, InBev, United States, brewing, takeover_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md)
@@ -79,7 +79,7 @@ Four teenagers were killed and 48 others were injured after a tornado ripped thr
 ### [ NASA launches the Gamma-ray Large Area Space Telescope (GLAST) from Cape Canaveral, Florida. ](/news/2008/06/11/nasa-launches-the-gamma-ray-large-area-space-telescope-glast-from-cape-canaveral-florida.md)
 _Context: Cape Canaveral, Florida, Gamma-ray Large Area Space Telescope, NASA_
 
-##### U.S.
+##### United States
 ### [ The United States Food and Drug Administration has received 167 reported incidents of Salmonellosis from eating tainted tomatoes in 17 states with New Mexico and Texas the worst affected areas. ](/news/2008/06/11/the-united-states-food-and-drug-administration-has-received-167-reported-incidents-of-salmonellosis-from-eating-tainted-tomatoes-in-17-stat.md)
 U.S. health officials said on Wednesday they are still receiving reports of people falling ill from eating Salmonella-tainted tomatoes and that they now have 167 reported cases from 17 states.
 

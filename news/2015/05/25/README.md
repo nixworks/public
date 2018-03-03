@@ -15,7 +15,7 @@ Suriname goes to the polls in general elections on Monday with its convicted dru
 ### [David Cameron, the Prime Minister of the United Kingdom, outlines who will be able to vote in the referendum on the United Kingdom remaining a member of the European Union with the vote restricted to those eligible to vote in British elections rather than European Parliament elections. ](/news/2015/05/25/david-cameron-the-prime-minister-of-the-united-kingdom-outlines-who-will-be-able-to-vote-in-the-referendum-on-the-united-kingdom-remaining.md)
 LONDON (AP) — Britain&#8217;s prime minister on Monday outlined who will be allowed to vote in a referendum on whether Britain should remain in the European Union, opting to exclude most voters from the other&hellip;
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. ](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.md)
 Former Israeli Prime Minister Ehud Olmert is sentenced to eight months in prison for fraud and breach of trust.
 
@@ -29,7 +29,7 @@ The Sudanese government has denied supporting rebels in South Sudan after it acc
 
 ##### Chinese
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: Chinese, South China Sea, U.S._
+_Context: Chinese, South China Sea, United States_
 
 ##### Malaysia
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)

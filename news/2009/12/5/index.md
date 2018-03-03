@@ -19,9 +19,9 @@ _Context: Guinea, Moussa Dadis Camara, Sekouba Konat, junta_
 ### [ Russian President Dmitry Medvedev declares a national day of mourning on December 7 following a nightclub fire which resulted in 109 deaths yesterday. ](/news/2009/12/5/russian-president-dmitry-medvedev-declares-a-national-day-of-mourning-on-december-7-following-a-nightclub-fire-which-resulted-in-109-deaths.md)
 _Context: Dmitry Medvedev, Russian President, national day of mourning, nightclub fire_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [ Tens of thousands of people take to the streets of Rome in a national "No B Day" demonstration demanding the resignation of Prime Minister Silvio Berlusconi. ](/news/2009/12/5/tens-of-thousands-of-people-take-to-the-streets-of-rome-in-a-national-no-b-day-demonstration-demanding-the-resignation-of-prime-minister.md)
-_Context: Italian Prime Minister, Silvio Berlusconi_
+_Context: Prime Minister of Italy, Silvio Berlusconi_
 
 ##### 2009 United Nations Climate Change Conference
 ### [ Tens of thousands of people demonstrate in London and other European capitals ahead of a United Nations climate change summit in Copenhagen. ](/news/2009/12/5/tens-of-thousands-of-people-demonstrate-in-london-and-other-european-capitals-ahead-of-a-united-nations-climate-change-summit-in-copenhagen.md)

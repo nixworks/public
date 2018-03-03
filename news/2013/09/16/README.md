@@ -19,7 +19,7 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 ### [A gunman opens fire at Washington, D.C.'s Naval Yard killing 12; the gunman also dies.](/news/2013/09/16/a-gunman-opens-fire-at-washington-d-c-s-naval-yard-killing-12-the-gunman-also-dies.md)
 Police are looking for the shooter, who is believed to still be on the grounds of the Navy Yard.
 
-##### U.S.
+##### United States
 ### [The United States and Russia agree to a deal to eradicate chemical weapons in Syria. ](/news/2013/09/16/the-united-states-and-russia-agree-to-a-deal-to-eradicate-chemical-weapons-in-syria.md)
 Syria will waste no time in making arrangements to eradicate its chemical arms once the deal has UN approval.
 

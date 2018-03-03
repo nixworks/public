@@ -15,9 +15,9 @@ IDF soldiers clash with Hizbullah gunmen attempting to infiltrate area secured b
 ### [ The first World Outgames are held in Montreal, Canada. Outgames co-president and Canadian Olympian, Mark Tewksbury, states that the event will "bridge the gap between the gay sport movement and the traditional sport movement.](/news/2006/07/28/the-first-world-outgames-are-held-in-montreal-canada-outgames-co-president-and-canadian-olympian-mark-tewksbury-states-that-the-event-w.md)
 _Context: Canada, Mark Tewksbury, Montreal, World Outgames_
 
-##### U.S.
+##### United States
 ### [ The United States should immediately close all secret detention facilities used in its campaign against terror groups, the UN Human Rights Committee has said. ](/news/2006/07/28/the-united-states-should-immediately-close-all-secret-detention-facilities-used-in-its-campaign-against-terror-groups-the-un-human-rights.md)
-_Context: Human Rights Committee, U.S., UN, secret detention facilities_
+_Context: Human Rights Committee, UN, United States, secret detention facilities_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: both Georgia and Abkhazia threaten war over the dispute. ](/news/2006/07/28/2006-kodori-crisis-both-georgia-and-abkhazia-threaten-war-over-the-dispute.md)

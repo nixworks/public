@@ -41,7 +41,7 @@ _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 
 ##### Yemeni Civil War
 ### [Houthi rebels release six foreign hostages; three Americans, two Saudis, and a Briton. ](/news/2015/09/20/houthi-rebels-release-six-foreign-hostages-three-americans-two-saudis-and-a-briton.md)
-_Context: Houthi, Saudi Arabia, U.S., United Kingdom, Yemeni Civil War_
+_Context: Houthi, Saudi Arabia, United Kingdom, United States, Yemeni Civil War_
 
 ##### Syrian Civil War
 ### [At least 14 people are killed as rebels shell a neighborhood in western Aleppo. ](/news/2015/09/20/at-least-14-people-are-killed-as-rebels-shell-a-neighborhood-in-western-aleppo.md)

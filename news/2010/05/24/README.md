@@ -13,7 +13,7 @@ _Context: Iran, Khorramshahr_
 
 ##### Sarah, Duchess of York
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, U.S._
+_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, United States_
 
 ##### Social Democratic and Labour Party
 ### [Social Democratic and Labour Party (SDLP) leader and South Down MP Margaret Ritchie resigns from the Northern Ireland Executive. Alex Attwood is the new Minister for Social Development. ](/news/2010/05/24/social-democratic-and-labour-party-sdlp-leader-and-south-down-mp-margaret-ritchie-resigns-from-the-northern-ireland-executive-alex-attwoo.md)

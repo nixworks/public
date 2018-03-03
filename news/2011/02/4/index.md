@@ -11,9 +11,9 @@ The amount of fish caught in the Arctic has been dramatically under-reported for
 ### [NASA astronaut Mark Kelly, the husband of Rep Gabrielle Giffords shot last month, announces that he will resume training to command the Space Shuttle Endeavour's final mission STS-134 in April. ](/news/2011/02/4/nasa-astronaut-mark-kelly-the-husband-of-rep-gabrielle-giffords-shot-last-month-announces-that-he-will-resume-training-to-command-the-spac.md)
 _Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', United States House of Representatives, astronaut, final mission_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi ignores his recent sex scandals to claim to the media at a summit in Brussels that he is the most popular national leader in the European Union. ](/news/2011/02/4/prime-minister-of-italy-silvio-berlusconi-ignores-his-recent-sex-scandals-to-claim-to-the-media-at-a-summit-in-brussels-that-he-is-the-most.md)
-_Context: Brussels, European Union, Italian Prime Minister, Silvio Berlusconi_
+_Context: Brussels, European Union, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### President
 ### [President of Kazakhstan Nursultan Nazarbayev calls an early election for April 3, rejecting a plan for a referendum intended to allow him to rule for another decade. ](/news/2011/02/4/president-of-kazakhstan-nursultan-nazarbayev-calls-an-early-election-for-april-3-rejecting-a-plan-for-a-referendum-intended-to-allow-him-to.md)

@@ -37,7 +37,7 @@ _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
 
 ##### ISIL
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: ISIL, Kayla Mueller, U.S._
+_Context: ISIL, Kayla Mueller, United States_
 
 ##### Obama Administration
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)

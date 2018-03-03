@@ -21,7 +21,7 @@ _Context: Guam, U.S. territory, stabbed_
 
 ##### 2013 Southern California shootings
 ### [2013 Southern California shootings: Christopher Dorner kills a sheriff's deputy and injures another in the Big Bear Lake, California, United States. He then barricades himself in a cabin, which catches on fire during a police assault. The suspect was killed in the fire. ](/news/2013/02/12/2013-southern-california-shootings-christopher-dorner-kills-a-sheriff-s-deputy-and-injures-another-in-the-big-bear-lake-california-united.md)
-_Context: 2013 Southern California shootings, Big Bear Lake, California, Christopher Dorner, U.S._
+_Context: 2013 Southern California shootings, Big Bear Lake, California, Christopher Dorner, United States_
 
 ##### Manchester Crown Court
 ### [At Manchester Crown Court Dale Cregan pleads guilty to the murders of Police officers Nicola Hughes and Fiona Bone, but denies two other accounts of murder. ](/news/2013/02/12/at-manchester-crown-court-dale-cregan-pleads-guilty-to-the-murders-of-police-officers-nicola-hughes-and-fiona-bone-but-denies-two-other-acc.md)

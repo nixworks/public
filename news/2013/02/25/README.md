@@ -9,7 +9,7 @@ Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica 
 
 ##### Indian Space Research Organisation
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: Andhra Pradesh, French, India, Indian Space Research Organisation, PSLV-C38, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
+_Context: Andhra Pradesh, France, India, Indian Space Research Organisation, PSLV-C38, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
 
 ##### Rodinia
 ### [Scientists announce they have found fragments of Rodinia, an ancient "lost" continent, in what is now the Indian Ocean. ](/news/2013/02/25/scientists-announce-they-have-found-fragments-of-rodinia-an-ancient-lost-continent-in-what-is-now-the-indian-ocean.md)
@@ -41,9 +41,9 @@ _Context: Russia, banning, enacts, school, smoking, subways_
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, U.S._
+_Context: Afghanistan, NATO, United States_
 
-##### U.S.
+##### United States
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
 C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to promote childhood sex education for AIDS prevention and issued the first government warning about second-hand tobacco smoke, has died. He was 96.
 

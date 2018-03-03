@@ -23,9 +23,9 @@ _Context: North Korea, South Korea, South Korea's intelligence agency, wave of c
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
 _Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_
 
-##### French
+##### France
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: French, French President, Jacques Chirac, corruption_
+_Context: France, French President, Jacques Chirac, corruption_
 
 ##### Indigenous Brazilians
 ### [ Native tribesmen in the Amazon Rainforest discover a downed Brazilian military transport plane, finding nine survivors. ](/news/2009/10/30/native-tribesmen-in-the-amazon-rainforest-discover-a-downed-brazilian-military-transport-plane-finding-nine-survivors.md)
@@ -35,9 +35,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
 _Context: African Union, Sudan, conflict_
 
-##### U.S.
+##### United States
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: Anna Nicole Smith, U.S., sex symbol_
+_Context: Anna Nicole Smith, United States, sex symbol_
 
 ##### NASA
 ### [ NASA reveals that a partial parachute failure resulted in damage to the Ares I-X test booster upon splashdown in the Atlantic Ocean following its test flight on Wednesday. ](/news/2009/10/30/nasa-reveals-that-a-partial-parachute-failure-resulted-in-damage-to-the-ares-i-x-test-booster-upon-splashdown-in-the-atlantic-ocean-followi.md)

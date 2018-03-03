@@ -15,7 +15,7 @@ _Context: 2008 Irish pork crisis, Irish, fodder, pork_
 ### [ India arrests two men accused of providing mobile phone cards to the gunmen in the November 2008 Mumbai attacks. ](/news/2008/12/6/india-arrests-two-men-accused-of-providing-mobile-phone-cards-to-the-gunmen-in-the-november-2008-mumbai-attacks.md)
 _Context: India, November terrorist attacks, cards, mobile phone_
 
-##### U.S.
+##### United States
 ### [ United States President-elect Barack Obama nominates General Eric Shinseki to be the next Secretary of Veterans Affairs. ](/news/2008/12/6/united-states-president-elect-barack-obama-nominates-general-eric-shinseki-to-be-the-next-secretary-of-veterans-affairs.md)
 US President-elect Barack Obama has selected retired General Eric Shinseki, who clashed with the Bush administration over the number of troops needed in Iraq, to be the next secretary of veterans affairs.
 

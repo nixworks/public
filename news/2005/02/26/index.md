@@ -3,7 +3,7 @@ Formats: [HTML](2005/02/26/index.html)  [JSON](2005/02/26/index.json)  [XML](200
 
 ## [2005-02-26](/news/2005/02/26/index.md)
 
-##### French
+##### France
 ### [ French Finance Minister Herv Gaymard resigns after a report surfaces about his expensive state-paid apartment. ](/news/2005/02/26/french-finance-minister-herve-gaymard-resigns-after-a-report-surfaces-about-his-expensive-state-paid-apartment.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -17,7 +17,7 @@ _Context: Egypt, Hosni Mubarak_
 
 ##### Canada
 ### [ Canadian Prime Minister Paul Martin announces that the US must get permission first before launching missiles over Canadian airspace, after recently announcing Canada's non-involvement in the controversial US National Missile Defence plan. ](/news/2005/02/26/canadian-prime-minister-paul-martin-announces-that-the-us-must-get-permission-first-before-launching-missiles-over-canadian-airspace-after.md)
-_Context: Canada, National Missile Defence, Paul Martin, U.S., missile_
+_Context: Canada, National Missile Defence, Paul Martin, United States, missile_
 
 ##### Nepal
 ### [ Nepali soldiers kill at least a dozen Maoist rebels in Kailali district. ](/news/2005/02/26/nepali-soldiers-kill-at-least-a-dozen-maoist-rebels-in-kailali-district.md)

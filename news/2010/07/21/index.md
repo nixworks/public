@@ -87,7 +87,7 @@ Floods triggered by torrential rains have claimed the lives of 701 people and le
 ### [The United Nations requests more aid to avoid a humanitarian catastrophe in the Sahel. ](/news/2010/07/21/the-united-nations-requests-more-aid-to-avoid-a-humanitarian-catastrophe-in-the-sahel.md)
 Head of humanitarian affairs warns of acute food shortage in north-central Africa.
 
-##### French
+##### France
 ### [Air traffic controllers in France go on strike in protest at a plan to unify European airspace. ](/news/2010/07/21/air-traffic-controllers-in-france-go-on-strike-in-protest-at-a-plan-to-unify-european-airspace.md)
 French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;strike&#x20;over&#x20;a&#x20;plan&#x20;to&#x20;unify&#x20;European&#x20;airspace.&#x20;The&#x20;strike,&#x20;which&#x20;is&#x20;expected&#x20;to&#x20;cancel&#x20;many&#x20;flights&#x20;in&#x20;and&#x20;out&#x20;of&#x20;Fr...
 
@@ -167,9 +167,9 @@ Four people were killed and many more injured in the eastern Indian state of Ass
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
 _Context: Kabardino-Balkaria, Russia, hydroelectric_
 
-##### U.S.
+##### United States
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, Sea of Japan, U.S._
+_Context: North Korea, Sea of Japan, United States_
 
 ##### Yemen
 ### [At least 34 people are killed in clashes in northern Yemen between Houthi rebels and pro-government tribes. ](/news/2010/07/21/at-least-34-people-are-killed-in-clashes-in-northern-yemen-between-houthi-rebels-and-pro-government-tribes.md)

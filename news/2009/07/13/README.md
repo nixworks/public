@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/13/index.html)  [JSON](2009/07/13/index.json)  [XML](200
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister of Lebanon_
 
-##### U.S.
+##### United States
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Sonia Sotomayor, Supreme Court of the United States, U.S., United States Senate_
+_Context: Sonia Sotomayor, Supreme Court of the United States, United States, United States Senate_
 
 ##### Kabul
 ### [ An explosion in Kabul, Afghanistan, kills a police chief and injures four others. The Taliban are the suspected culprits of the attack. ](/news/2009/07/13/an-explosion-in-kabul-afghanistan-kills-a-police-chief-and-injures-four-others-the-taliban-are-the-suspected-culprits-of-the-attack.md)

@@ -55,13 +55,13 @@ The United States and China are to resume military contacts after a hiatus of mo
 ### [The first inter-Korean military talks between North and South Korea in two years end without progress. ](/news/2010/09/30/the-first-inter-korean-military-talks-between-north-and-south-korea-in-two-years-end-without-progress.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-##### U.S.
+##### United States
 ### [The United States imposes sanctions on a Swiss-based Iranian oil company, the Naftiran Inter-trade Company. ](/news/2010/09/30/the-united-states-imposes-sanctions-on-a-swiss-based-iranian-oil-company-the-naftiran-inter-trade-company.md)
-_Context: Iran, Naftiran Inter-trade Company, U.S._
+_Context: Iran, Naftiran Inter-trade Company, United States_
 
 ##### Tropical Storm Nicole
 ### [Heavy rain from former Tropical Storm Nicole causes flooding the US states of North Carolina and Virginia and delays in airline flights on the east coast. ](/news/2010/09/30/heavy-rain-from-former-tropical-storm-nicole-causes-flooding-the-us-states-of-north-carolina-and-virginia-and-delays-in-airline-flights-on-t.md)
-_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, U.S., Virginia_
+_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, United States, Virginia_
 
 ##### Japan
 ### [Three Japanese mountain climbers and a guide go missing in Nepal after attempting to climb the Himalayan mountain Dhaulagiri. ](/news/2010/09/30/three-japanese-mountain-climbers-and-a-guide-go-missing-in-nepal-after-attempting-to-climb-the-himalayan-mountain-dhaulagiri.md)
@@ -75,9 +75,9 @@ _Context: Indonesia, Papua, earthquake_
 ### [The International Monetary Fund calls for tighter regulation of credit rating agencies. ](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.md)
 Credit rating agencies should improve their procedures, says the International Monetary Fund.
 
-##### U.S.
+##### United States
 ### [US actor Tony Curtis, who appeared in more than 100 films including "Some Like It Hot" and "The Defiant Ones", dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
-_Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, U.S._
+_Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, United States_
 
 ##### Convoy
 ### [A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. ](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for-nato-forces-in-afghanistan-is-attacked-in-pakistan-s-sindh-province.md)

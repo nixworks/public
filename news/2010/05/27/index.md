@@ -31,7 +31,7 @@ _Context: Spain_
 ### [Stanley Kingaipe and Charles Chookole, two ex-officers in Zambia's air force, are awarded 10 million kwacha in damages following claims they were tested and treated for HIV without their knowledge. ](/news/2010/05/27/stanley-kingaipe-and-charles-chookole-two-ex-officers-in-zambia-s-air-force-are-awarded-10-million-kwacha-in-damages-following-claims-they.md)
 A Zambian court orders the air force to pay damages to two ex-pilots who say they were tested for HIV without their knowledge.
 
-##### French
+##### France
 ### [Tens of thousands of workers strike in protest against government plans to raise the retirement age in France. ](/news/2010/05/27/tens-of-thousands-of-workers-strike-in-protest-against-government-plans-to-raise-the-retirement-age-in-france.md)
 Thousands of workers have marched in cities in France to protest over plans to raise the retirement age to 60.
 
@@ -63,7 +63,7 @@ Pro-Palestinian activists have vowed to break through the Israeli blockade of Ga
 ### [Many international leaders stay away from the inauguration of Omar al-Bashir, wanted by the International Criminal Court for war crimes in Darfur, as he is sworn in as President of Sudan but at least five African presidents attend the event along with two UN representatives. ](/news/2010/05/27/many-international-leaders-stay-away-from-the-inauguration-of-omar-al-bashir-wanted-by-the-international-criminal-court-for-war-crimes-in-d.md)
 Government says it will instead prosecute leaders of the anti-government group.
 
-##### French
+##### France
 ### [France detains Rwandan doctor Eugene Rwamucyo, wanted by Interpol since 2006 and accused of involvement in the Rwandan Genocide. ](/news/2010/05/27/france-detains-rwandan-doctor-eugene-rwamucyo-wanted-by-interpol-since-2006-and-accused-of-involvement-in-the-rwandan-genocide.md)
 French authorities arrest a Rwandan doctor accused over the 1994 genocide, a move welcomed in Rwanda.
 

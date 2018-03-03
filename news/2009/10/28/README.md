@@ -13,7 +13,7 @@ Federal authorities said that a leader of what they called a radical group was k
 
 ##### Matthew Shepard Act
 ### [ The Matthew Shepard Act, providing legal protection against hate crimes to lesbian, gay, bisexual, and transgendered people, is signed into law in the United States by President Barack Obama. ](/news/2009/10/28/the-matthew-shepard-act-providing-legal-protection-against-hate-crimes-to-lesbian-gay-bisexual-and-transgendered-people-is-signed-into.md)
-_Context: Barack Obama, Matthew Shepard Act, U.S., gay and bisexual men, hate crimes_
+_Context: Barack Obama, Matthew Shepard Act, United States, gay and bisexual men, hate crimes_
 
 ##### Democratic Party
 ### [ The main opposition Democratic Party wins three out of five seats in by-elections in South Korea. ](/news/2009/10/28/the-main-opposition-democratic-party-wins-three-out-of-five-seats-in-by-elections-in-south-korea.md)

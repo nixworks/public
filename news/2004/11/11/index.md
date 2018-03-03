@@ -13,7 +13,7 @@ _Context: IAEA, Iran, Iran's nuclear program, uranium enrichment_
 
 ##### Milan
 ### [ Ilda Boccassini, an Italian prosecutor in the Milan corruption trial, asks the court to sentence Italian Prime Minister Silvio Berlusconi to eight years' imprisonment for bribing judges. ](/news/2004/11/11/ilda-boccassini-an-italian-prosecutor-in-the-milan-corruption-trial-asks-the-court-to-sentence-italian-prime-minister-silvio-berlusconi-t.md)
-_Context: Italian Prime Minister, Milan, Silvio Berlusconi_
+_Context: Milan, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### U.S. President
 ### [ President of the United States George W Bush states that it is possible for a Palestinian state to arise in the next four years but that it would depend greatly upon who they elect to replace Yasser Arafat. ](/news/2004/11/11/president-of-the-united-states-george-w-bush-states-that-it-is-possible-for-a-palestinian-state-to-arise-in-the-next-four-years-but-that-it.md)

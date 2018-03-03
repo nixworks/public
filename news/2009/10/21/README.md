@@ -37,7 +37,7 @@ _Context: Goa Express, India, Mewar Express, Rajasthan_
 
 ##### Lidl
 ### [ Armed men take six people captive at a Lidl supermarket in Sevran, France. ](/news/2009/10/21/armed-men-take-six-people-captive-at-a-lidl-supermarket-in-sevran-france.md)
-_Context: French, Lidl, Sevran_
+_Context: France, Lidl, Sevran_
 
 ##### Azza Transport Flight 2241
 ### [ Azza Transport Flight 2241 crashes on take-off from Sharjah International Airport, in the United Arab Emirates, killing all six crew. ](/news/2009/10/21/azza-transport-flight-2241-crashes-on-take-off-from-sharjah-international-airport-in-the-united-arab-emirates-killing-all-six-crew.md)
@@ -47,9 +47,9 @@ A Boeing 707-330C cargo plane, registered ST-AKW, was destroyed in an accident 1
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
 
-##### U.S.
+##### United States
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Burma, State Peace and Development Council, U.S._
+_Context: Burma, State Peace and Development Council, United States_
 
 ##### Lima
 ### [ Hundreds of protestors gather in Lima, Peru, as a bill proposing the legalisation of some form of abortion is approved. ](/news/2009/10/21/hundreds-of-protestors-gather-in-lima-peru-as-a-bill-proposing-the-legalisation-of-some-form-of-abortion-is-approved.md)

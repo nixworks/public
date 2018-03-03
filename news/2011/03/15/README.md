@@ -15,13 +15,13 @@ _Context: Angela Merkel, Chancellor, German, Japan, nuclear reactor_
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
 Doctors at an emergency union meeting have called on the government to put a halt to its overhaul of the NHS in England, but have stopped short of opposing the plans outright.
 
-##### U.S.
+##### United States
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: Canadian, English, U.S., William Francis Melchert-Dinkel, suicide_
+_Context: Canadian, English, United States, William Francis Melchert-Dinkel, suicide_
 
-##### U.S.
+##### United States
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: Drug Enforcement Administration, Georgia, U.S., lethal injection_
+_Context: Drug Enforcement Administration, Georgia, United States, lethal injection_
 
 ##### German
 ### [German national Christian Gerhartsreiter is charged with the murder of a San Marino, California man in the 1980s. ](/news/2011/03/15/german-national-christian-gerhartsreiter-is-charged-with-the-murder-of-a-san-marino-california-man-in-the-1980s.md)

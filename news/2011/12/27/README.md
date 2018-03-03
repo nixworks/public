@@ -25,7 +25,7 @@ _Context: Hughes Hubbard & Reed, James Giddens, MF Global, bankruptcy_
 
 ##### Sears Holdings Corporation
 ### [Sears Holdings Corporation announces plans to close over 100 Sears and K-Mart stores in the United States. ](/news/2011/12/27/sears-holdings-corporation-announces-plans-to-close-over-100-sears-and-k-mart-stores-in-the-united-states.md)
-_Context: K-Mart, Sears, Sears Holdings Corporation, U.S._
+_Context: K-Mart, Sears, Sears Holdings Corporation, United States_
 
 ##### Holiday
 ### [Over $30 billion was spent on holiday online shopping in the United States, a 15% increase from last year, according to comScore. ](/news/2011/12/27/over-30-billion-was-spent-on-holiday-online-shopping-in-the-united-states-a-15-increase-from-last-year-according-to-comscore.md)

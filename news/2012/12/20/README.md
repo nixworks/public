@@ -15,7 +15,7 @@ _Context: Laos, Vientiane_
 ### [A U.S. soldier who urinated on the corpse of a dead Afghan combatant is sentenced to 30 days in jail after admitting his action at a court martial. Reports suggest he will not be sent to jail because of a plea deal reached with military prosecutors. ](/news/2012/12/20/a-u-s-soldier-who-urinated-on-the-corpse-of-a-dead-afghan-combatant-is-sentenced-to-30-days-in-jail-after-admitting-his-action-at-a-court-m.md)
 A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating on the body of a dead Afghan combatant.
 
-##### Mich.
+##### Michigan
 ### [Dozens of Michigan schools close early for holidays, sending home 80,000 students, due to rumors related to the Mayan doomsday and the Connecticut shooting. ](/news/2012/12/20/dozens-of-michigan-schools-close-early-for-holidays-sending-home-80-000-students-due-to-rumors-related-to-the-mayan-doomsday-and-the-conne.md)
 The Mayan prediction that the world will end on Friday has caused rumors of violence in schools, including shootings or bomb threats, and a few districts have canceled classes.
 

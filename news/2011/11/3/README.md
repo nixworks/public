@@ -21,7 +21,7 @@ _Context: Occupy Oakland, Port of Oakland, tear gas_
 
 ##### 2011 G-20 summit
 ### [The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing-eurozone-debt-crisis.md)
-_Context: 2011 G-20 summit, Cannes, French, an ongoing debt crisis_
+_Context: 2011 G-20 summit, Cannes, France, an ongoing debt crisis_
 
 ##### Egypt
 ### [An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. ](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.md)

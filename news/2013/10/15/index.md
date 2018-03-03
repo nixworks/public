@@ -29,7 +29,7 @@ Glenn Greenwald, who has made headlines around the world with his reporting on U
 
 ##### Fitch Ratings
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: Fitch Ratings, U.S._
+_Context: Fitch Ratings, United States_
 
 ##### New Zealand
 ### [New Zealand author Eleanor Catton wins the 2013 Man Booker Prize for her work "The Luminaries". ](/news/2013/10/15/new-zealand-author-eleanor-catton-wins-the-2013-man-booker-prize-for-her-work-the-luminaries.md)

@@ -9,7 +9,7 @@ In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed 
 
 ##### Pakistan
 ### [ In Pakistan, all parliament members from the Jamaat-e-Islami political movement resign over fighting between the army and terrorists in Waziristan and General Musharraf's support for the United States in an effort to force Musharraf to step down. ](/news/2006/07/2/in-pakistan-all-parliament-members-from-the-jamaat-e-islami-political-movement-resign-over-fighting-between-the-army-and-terrorists-in-waz.md)
-_Context: General Musharraf, Jamaat-e-Islami, Pakistan, U.S., Waziristan_
+_Context: General Musharraf, Jamaat-e-Islami, Pakistan, United States, Waziristan_
 
 ##### Discovery
 ### [ The launch of the Space Shuttle "Discovery" is postponed until Tuesday at 2:38pm local time due to stormy weather in Florida. ](/news/2006/07/2/the-launch-of-the-space-shuttle-discovery-is-postponed-until-tuesday-at-2-38pm-local-time-due-to-stormy-weather-in-florida.md)

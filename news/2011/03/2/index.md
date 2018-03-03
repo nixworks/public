@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/2/index.html)  [JSON](2011/03/2/index.json)  [XML](2011/
 
 ##### Eastern Cougar
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, U.S._
+_Context: Eastern Cougar, United States_
 
 ##### Elections in the Netherlands
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
@@ -61,7 +61,7 @@ _Context: Frankfurt Airport, German, United States Air Force_
 
 ##### Prosecutor
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
-_Context: French, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
+_Context: France, John Galliano, Paris, Prosecutor, anti-Semitism, fashion designer_
 
 ##### Dust storm
 ### [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md)
@@ -81,7 +81,7 @@ _Context: Apple Inc, iPad 2, tablet computer_
 
 ##### MetLife
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, U.S., life insurance_
+_Context: AIG, MetLife, United States, life insurance_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corporation agrees to sell Sky News in order to be in a position to buy BSkyB without a Competition Commission inquiry. ](/news/2011/03/2/rupert-murdoch-s-news-corporation-agrees-to-sell-sky-news-in-order-to-be-in-a-position-to-buy-bskyb-without-a-competition-commission-inquiry.md)

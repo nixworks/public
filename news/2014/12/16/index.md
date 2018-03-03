@@ -23,7 +23,7 @@ Bradley Stone, the man prosecutors say is responsible for killing his ex-wife an
 ### [India declares a ban on Islamic State of Iraq and the Levant after an engineer was detained for campaigning on behalf of the group on Twitter. Officials worry that such ban will endanger thirty-nine men, believed to be held hostage by the group. ](/news/2014/12/16/india-declares-a-ban-on-islamic-state-of-iraq-and-the-levant-after-an-engineer-was-detained-for-campaigning-on-behalf-of-the-group-on-twitte.md)
 _Context: ISIL_
 
-##### Israeli police
+##### Israel Police
 ### [Israel Police arrest ten members of Lehava, a right-wing organisation that opposes integration of Arabs and Jews, for last month's arson on an Arab&ndash;Jewish school. ](/news/2014/12/16/israel-police-arrest-ten-members-of-lehava-a-right-wing-organisation-that-opposes-integration-of-arabs-and-jews-for-last-month-s-arson-on.md)
 Bentzi Gopshtain and nine others held on suspicion of incitement to violence and terror, day after members charged in bilingual school arson
 

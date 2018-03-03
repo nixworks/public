@@ -23,9 +23,9 @@ Ukraine&#039;s President Viktor Yushchenko has accused Yulia Tymoshenko, the Pri
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
 _Context: Doghmush, Fatah, Gaza, Hamas, Hamas-Fatah conflict_
 
-##### U.S.
+##### United States
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Iraq, Iraq war, Sodertalje, Sweden, U.S._
+_Context: Iraq, Iraq war, Sodertalje, Sweden, United States_
 
 ##### Melbourne
 ### [ Six men have been found guilty of terrorism-related offences in Melbourne, Australia. Abdul Nacer Benbrika was found guilty of intentionally directing the activities of a terrorist organization while five other men were found guilty of being members of the same organization. Four other men were acquitted and the jury is still considering its verdict on two men. ](/news/2008/09/16/six-men-have-been-found-guilty-of-terrorism-related-offences-in-melbourne-australia-abdul-nacer-benbrika-was-found-guilty-of-intentionall.md)

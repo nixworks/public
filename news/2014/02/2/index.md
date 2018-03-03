@@ -19,7 +19,7 @@ Thai government supporters and opposition protesters open fire on each other ahe
 ### [Archaeologists believe to have uncovered the oldest Roman temple ever discovered. ](/news/2014/02/2/archaeologists-believe-to-have-uncovered-the-oldest-roman-temple-ever-discovered.md)
 _Context: Roman_
 
-##### U.S.
+##### United States
 ### [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for "Capote", is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.md)
 Oscar-winning actor Philip Seymour Hoffman was found dead of an apparent heroin overdose — with a hypodermic needle still stuck in his arm and 70 baggies of the drug inside his Greenwich Village pa…
 

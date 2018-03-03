@@ -33,7 +33,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Israel
 ### [ Israeli prime minister Ehud Olmert criticises the European Union for its refusal to condemn the daily Palestinian rocket attacks against Israeli civilians, leaving Israel to take effective measures by itself. ](/news/2006/07/10/israeli-prime-minister-ehud-olmert-criticises-the-european-union-for-its-refusal-to-condemn-the-daily-palestinian-rocket-attacks-against-is.md)
-_Context: Ehud Olmert, European Union, Israel, Israeli Prime Minister, Palestinian Authority, rocket attacks_
+_Context: Ehud Olmert, European Union, Israel, Palestinian Authority, Prime Minister, rocket attacks_
 
 ##### Palestinian
 ### [ A Palestinian girl is critically wounded when a Qassam rocket launched by Palestenian militants hits her home in the Gaza Strip. ](/news/2006/07/10/a-palestinian-girl-is-critically-wounded-when-a-qassam-rocket-launched-by-palestenian-militants-hits-her-home-in-the-gaza-strip.md)
@@ -61,7 +61,7 @@ _Context: UK_
 
 ##### United Kingdom
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)
-_Context: Homeland Security Advisory System, U.S., United Kingdom_
+_Context: Homeland Security Advisory System, United Kingdom, United States_
 
 ## [Previous Day...](/news/2006/07/9/index.md)
 

@@ -29,11 +29,11 @@ _Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
 
 ##### Michael S. Steele
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
-_Context: African-American, Michael S. Steele, Republican National Committee, U.S., chairman, first_
+_Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
-##### U.S.
+##### United States
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Blackwater Worldwide, State Department, U.S., civilian contractor_
+_Context: Blackwater Worldwide, State Department, United States, civilian contractor_
 
 ##### Piper PA-34 Seneca
 ### [ Six people are killed when a Piper PA-34 Seneca crashes near Huntington, West Virginia, United States. ](/news/2009/01/30/six-people-are-killed-when-a-piper-pa-34-seneca-crashes-near-huntington-west-virginia-united-states.md)

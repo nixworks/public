@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/2/french-very-high-resolution-optical-earth-imagin
 
 ### [2012-12-2](/news/2012/12/2/index.md)
 
-##### French
+##### France
 # French very-high-resolution optical Earth-imaging satellite Pleiades-HR 1B is launched successfully via a Russian Soyuz STA rocket out of the Guiana Space Centre, Kourou, French Guiana. 
 
 A Russian-made Soyuz rocket blasted off from French Guiana on Saturday and placed into orbit an Earth observation satellite for France, space officials said.

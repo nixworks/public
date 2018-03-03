@@ -35,7 +35,7 @@ _Context: Australia, Boyne River, Gladstone_
 ### [A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-twenty-others.md)
 At least 10 people have been killed and many injured in a suicide attack in a busy market in the north-eastern city of Kunduz, officials say.
 
-##### French
+##### France
 ### [French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islamist-stronghold-of-gao.md)
 French-led troops in Mali have taken control of the northern Islamist stronghold of Gao, the French defence ministry says.
 

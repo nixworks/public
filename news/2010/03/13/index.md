@@ -47,9 +47,9 @@ A leading member of the conservation group Sea Shepherd, who was detained aboard
 ### [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md)
 _Context:  Georgian, Imedi, Mikheil Saakashvili, President of Georgia, Russia, a fake news item_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Binyamin Netanyahu launches an inquiry into how plans for hundreds of new homes in East Jerusalem were announced.](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.md)
-_Context: Benjamin Netanyahu, East Jerusalem, Israeli Prime Minister_
+_Context: Benjamin Netanyahu, East Jerusalem, Prime Minister_
 
 ##### Archbishop of Armagh
 ### [Archbishop of Armagh and Primacy of Ireland Cardinal Sean Brady admits for the first time that he represented the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/13/archbishop-of-armagh-and-primacy-of-ireland-cardinal-sea-n-brady-admits-for-the-first-time-that-he-represented-the-church-when-two-teenagers.md)

@@ -21,7 +21,7 @@ _Context: 7.9 earthquake in Tonga, Fiji, New Zealand, magnitude, tsunami, warnin
 
 ##### Israel
 ### [ In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. ](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.md)
-_Context: Cabinet of Israel, Ehud Olmert, Israel, Israeli Prime Minister, oath of office_
+_Context: Cabinet of Israel, Ehud Olmert, Israel, Prime Minister, oath of office_
 
 ##### Manasseh Sogavare
 ### [ Manasseh Sogavare is elected Prime Minister of the Solomon Islands, following Snyder Rini's brief period in office. Sogavare was previously prime minister from 2000 to 2001. ](/news/2006/05/4/manasseh-sogavare-is-elected-prime-minister-of-the-solomon-islands-following-snyder-rini-s-brief-period-in-office-sogavare-was-previously.md)

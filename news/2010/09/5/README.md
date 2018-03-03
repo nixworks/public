@@ -33,7 +33,7 @@ A state of emergency is declared in Guatemala where heavy rain has caused widesp
 
 ##### Peter Gumbel
 ### [British academic Peter Gumbel causes controversy in France by alleging in his book that their education system lowers the self-esteem of pupils. ](/news/2010/09/5/british-academic-peter-gumbel-causes-controversy-in-france-by-alleging-in-his-book-that-their-education-system-lowers-the-self-esteem-of-pup.md)
-_Context: French, Peter Gumbel, their education system_
+_Context: France, Peter Gumbel, their education system_
 
 ##### Hugo Awards
 ### [The winners of the 2010 Hugo Awards are announced at Worldcon in Melbourne, Australia. ](/news/2010/09/5/the-winners-of-the-2010-hugo-awards-are-announced-at-worldcon-in-melbourne-australia.md)

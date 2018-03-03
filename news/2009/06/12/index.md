@@ -35,7 +35,7 @@ _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/12/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
 _Context: 2009, North Korea, United Nations Security Council, sanctions, sanctions_
 
-##### U.S.
+##### United States
 ### [ U.S. television stations complete their switch from analog to digital television. ](/news/2009/06/12/u-s-television-stations-complete-their-switch-from-analog-to-digital-television.md)
 The big DTV moment is here - like New Year&#8217;s Eve, labor pains or the millennium. After months of hand-holding public service announcements, intense how-to workshops, television specials and confusion over discount coupons, Americans will finally get their DTV.
 

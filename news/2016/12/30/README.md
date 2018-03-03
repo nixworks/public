@@ -33,7 +33,7 @@ In a head-spinning turn, Mr. Putin decided against actions recommended just hour
 
 ##### Cessna 525
 ### [A Cessna 525 carrying six passengers goes missing shortly after takeoff from Cleveland Burke Lakefront Airport in the United States. ](/news/2016/12/30/a-cessna-525-carrying-six-passengers-goes-missing-shortly-after-takeoff-from-cleveland-burke-lakefront-airport-in-the-united-states.md)
-_Context: Cessna 525, Cleveland Burke Lakefront Airport, U.S._
+_Context: Cessna 525, Cleveland Burke Lakefront Airport, United States_
 
 ##### Coal India
 ### [At least seven people are killed and 30 trapped after a pile of waste collapses in a Coal India mine in Jharkhand. ](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped-after-a-pile-of-waste-collapses-in-a-coal-india-mine-in-jharkhand.md)

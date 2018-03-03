@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/21/united-states-forces-attack-an-insurgent-positi
 
 ### [2007-07-21](/news/2007/07/21/index.md)
 
-##### U.S.
+##### United States
 #  United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. 
 
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
@@ -23,8 +23,8 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ### Related:
 
-1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, U.S._
-2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, U.S._
-3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, U.S._
-4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, U.S._
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._
+1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, United States_
+2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, United States_
+3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, United States_
+4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, United States_
+5. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: United States_

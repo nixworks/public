@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Ariel Sharon
 ### [ Ariel Sharon, the Prime Minister of Israel, and Abu Mazen, the President of the Palestinian National Authority, are invited by Egypt to attend a summit at Sharm el-Sheikh. A Jordanian delegation will also attend. ](/news/2005/02/2/ariel-sharon-the-prime-minister-of-israel-and-abu-mazen-the-president-of-the-palestinian-national-authority-are-invited-by-egypt-to-att.md)
-_Context: Abu Mazen, Ariel Sharon, Egypt, Israeli Prime Minister, Jordan, Palestinian Authority, Sharm el-Sheikh_
+_Context: Abu Mazen, Ariel Sharon, Egypt, Jordan, Palestinian Authority, Prime Minister, Sharm el-Sheikh_
 
 ##### Jerusalem
 ### [ Jerusalem-Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. ](/news/2005/02/2/jerusalem-israel-horst-kaphler-president-of-germany-has-a-special-audience-in-the-knesset-the-highest-chamber-of-israel-speaking-in-ge.md)

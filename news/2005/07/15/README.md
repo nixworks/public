@@ -3,9 +3,9 @@ Formats: [HTML](2005/07/15/index.html)  [JSON](2005/07/15/index.json)  [XML](200
 
 ## [2005-07-15](/news/2005/07/15/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States opens its borders to Canadian live cattle after legal action in its courts. ](/news/2005/07/15/the-united-states-opens-its-borders-to-canadian-live-cattle-after-legal-action-in-its-courts.md)
-_Context: Canada, U.S., cattle, court_
+_Context: Canada, United States, cattle, court_
 
 ##### Paediatrician
 ### [ Paediatrician Sir Roy Meadow is struck off the medical register by the General Medical Council after finding that he had committed "serious professional misconduct" relating to his testimony as an expert witness in the trial of Sally Clark. ](/news/2005/07/15/paediatrician-sir-roy-meadow-is-struck-off-the-medical-register-by-the-general-medical-council-after-finding-that-he-had-committed-serious.md)

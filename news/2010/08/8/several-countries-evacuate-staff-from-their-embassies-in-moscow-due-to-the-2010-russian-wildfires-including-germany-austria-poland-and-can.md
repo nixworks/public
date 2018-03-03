@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/8/several-countries-evacuate-staff-from-their-emba
 
 ### [2010-08-8](/news/2010/08/8/index.md)
 
-##### Embassies
+##### Embassy
 # Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, 
 
 

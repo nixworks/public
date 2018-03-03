@@ -25,7 +25,7 @@ _Context: Avian flu virus, India, Influenza A virus subtype H5N1, West Bengal_
 
 ##### January 2008 stock market downturn
 ### [ January 2008 stock market downturn: After further losses in international markets, the United States Federal Reserve System cuts its primary interest rate by 75 basis points to 3.5%, the largest move in the interest rate since 1982. The Dow Jones Industrial Average recovers after initial losses of almost 500 points to close at 11,971.19, down only 1.06%. ](/news/2008/01/22/january-2008-stock-market-downturn-after-further-losses-in-international-markets-the-united-states-federal-reserve-system-cuts-its-primar.md)
-_Context: 1982, Dow Jones Industrial Average, Federal Reserve System, January 2008 stock market downturn, U.S._
+_Context: 1982, Dow Jones Industrial Average, Federal Reserve System, January 2008 stock market downturn, United States_
 
 ## [Previous Day...](/news/2008/01/21/index.md)
 

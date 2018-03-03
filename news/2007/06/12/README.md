@@ -37,7 +37,7 @@ _Context: PKK, Turkish_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md)
-_Context: Ami Ayalon, Ehud Barak, Israeli Prime Minister, Labor Party_
+_Context: Ami Ayalon, Ehud Barak, Labor Party, Prime Minister_
 
 ##### Nigeria
 ### [ Nigerian author Chinua Achebe wins the Man Booker International Prize in honour of his career. ](/news/2007/06/12/nigerian-author-chinua-achebe-wins-the-man-booker-international-prize-in-honour-of-his-career.md)

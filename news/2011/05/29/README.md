@@ -39,9 +39,9 @@ _Context:  Georgian, Abkhazia, Moscow, President, Sergei Bagapsh_
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
 _Context: Budapest, Ferenc Madl, President of Hungary_
 
-##### Mich.
+##### Michigan
 ### [Storms in the US state of Michigan lead to the loss of power to 100,000 houses. ](/news/2011/05/29/storms-in-the-us-state-of-michigan-lead-to-the-loss-of-power-to-100-000-houses.md)
-_Context: Mich._
+_Context: Michigan_
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)

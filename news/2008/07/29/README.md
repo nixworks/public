@@ -23,9 +23,9 @@ _Context: 2008 Istanbul bombings, Iraq, Kurdistan Workers Party, Turkish_
 ### [ World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. ](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.md)
 _Context: Geneva, World Trade Organisation, trade talks_
 
-##### U.S.
+##### United States
 ### [ United States Senator Ted Stevens of Alaska is indicted on seven counts related to his conduct as a Senator. ](/news/2008/07/29/united-states-senator-ted-stevens-of-alaska-is-indicted-on-seven-counts-related-to-his-conduct-as-a-senator.md)
-_Context: Alaska, Senator, Ted Stevens, U.S., indicted_
+_Context: Alaska, Senator, Ted Stevens, United States, indicted_
 
 ##### International Olympic Committee
 ### [ The International Olympic Committee lifts its ban on Iraqi athletes participating in the Beijing Olympics following assurances from the Government of Iraq about the independence of the Iraqi Olympic Committee. ](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.md)

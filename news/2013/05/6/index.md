@@ -7,7 +7,7 @@ Formats: [HTML](2013/05/6/index.html)  [JSON](2013/05/6/index.json)  [XML](2013/
 ### [The US Senate passes a bill allowing states to tax internet sales. ](/news/2013/05/6/the-us-senate-passes-a-bill-allowing-states-to-tax-internet-sales.md)
 _Context: United States Senate_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Seven-time Prime Minister of Italy Giulio Andreotti dies in Rome at the age of 94 years. ](/news/2013/05/6/seven-time-prime-minister-of-italy-giulio-andreotti-dies-in-rome-at-the-age-of-94-years.md)
 Giulio Andreotti, who served seven times as Christian Democrat prime minister, and was dogged by corruption allegations, dies at the age of 94.
 

@@ -7,9 +7,9 @@ Formats: [HTML](2014/03/23/index.html)  [JSON](2014/03/23/index.json)  [XML](201
 ### [Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/protesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-continue-to-occupy-the-taiwanese-parlia.md)
 _Context: Executive Branch, continue to occupy, legislative chamber, trade deal_
 
-##### French
+##### France
 ### [Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-movement-performing-well.md)
-_Context: French, French municipal elections, 2014, UMP_
+_Context: France, French municipal elections, 2014, UMP_
 
 ##### South Africa
 ### [Shrien Dewani has his extradition date to South Africa set for 7 April to face court for the murder of Anni Dewani. ](/news/2014/03/23/shrien-dewani-has-his-extradition-date-to-south-africa-set-for-7-april-to-face-court-for-the-murder-of-anni-dewani.md)

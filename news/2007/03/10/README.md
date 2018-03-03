@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/10/index.html)  [JSON](2007/03/10/index.json)  [XML](200
 
 ##### Baghdad
 ### [ A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syria-and-the-uni.md)
-_Context: Baghdad, Iran, Iraq, Syria, U.S._
+_Context: Baghdad, Iran, Iraq, Syria, United States_
 
 ##### Kosovo
 ### [ Yearlong talks on the future of Kosovo end in stalemate between the Serbian Government and the ethnic Albanian leaders of the province. ](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.md)
@@ -33,7 +33,7 @@ _Context: Italy, Rome, Italy_
 
 ##### U.S. President
 ### [ President George W. Bush approves 8,200 more United States troops for Iraq and Afghanistan. ](/news/2007/03/10/president-george-w-bush-approves-8-200-more-united-states-troops-for-iraq-and-afghanistan.md)
-_Context: Afghanistan, George W. Bush, Iraq, U.S., U.S. President_
+_Context: Afghanistan, George W. Bush, Iraq, U.S. President, United States_
 
 ##### Flood
 ### [ Twenty people die and 9 are missing after a flood in a coal mine in Fushun, a city in the province of Shenyang in China. ](/news/2007/03/10/twenty-people-die-and-9-are-missing-after-a-flood-in-a-coal-mine-in-fushun-a-city-in-the-province-of-shenyang-in-china.md)

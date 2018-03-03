@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/03/26/a-jury-in-michigan-finds-dr-jack-kevorkian-guil
 
 ### [1999-03-26](/news/1999/03/26/index.md)
 
-##### Mich.
+##### Michigan
 #  A jury in Michigan finds Dr. Jack Kevorkian guilty of second-degree murder for administering a lethal injection to a terminally ill man (the incident was videotaped and aired on September 17, 1998 edition of "60 Minutes")
 
 
@@ -11,8 +11,8 @@ Formats: [HTML](/news/1999/03/26/a-jury-in-michigan-finds-dr-jack-kevorkian-guil
 
 ### Related:
 
-1. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Mich._
-2. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
-3. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
-4. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Mich._
-5. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md) _Context: 60 Minutes_
+1. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: Michigan_
+2. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Michigan_
+3. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
+4. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
+5. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Michigan_

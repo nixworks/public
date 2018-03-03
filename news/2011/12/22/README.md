@@ -7,7 +7,7 @@ Formats: [HTML](2011/12/22/index.html)  [JSON](2011/12/22/index.json)  [XML](201
 ### [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi b 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chi-b-3p.md)
 The first clear evidence for a new particle at the Large Hadron Collider emerges, which may make finding particles such as the Higgs boson easier.
 
-##### French
+##### France
 ### [France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. ](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.md)
 Turkey recalls its ambassador to France in protest at a bill making it illegal to deny that the killing of Armenians in World War I was genocide.
 
@@ -51,9 +51,9 @@ Rights watchdog says security forces tried to hide evidence of the killings whic
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
 At least 24 people have been killed by police in DR Congo since the results of disputed elections were announced, a US-based rights group says.
 
-##### U.S.
+##### United States
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: NATO airstrike, Pakistan, U.S._
+_Context: NATO airstrike, Pakistan, United States_
 
 ##### Series of 16 bombing attacks
 ### [At least 72 people are killed and 169 wounded in a series of 16 bombing attacks in the Iraqi capital Baghdad, shortly after the final withdrawal of American forces from Iraq. ](/news/2011/12/22/at-least-72-people-are-killed-and-169-wounded-in-a-series-of-16-bombing-attacks-in-the-iraqi-capital-baghdad-shortly-after-the-final-withdr.md)

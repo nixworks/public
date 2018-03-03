@@ -39,9 +39,9 @@ _Context: Ankang city, Chinese, Feng Jianmei_
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)
 Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for the 1995 nerve gas attack on the Tokyo subway, ending a 17-year manhunt.
 
-##### Mich.
+##### Michigan
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
-_Context: Detroit, Mich., Windsor, Ontario, a bridge between_
+_Context: Detroit, Michigan, Windsor, Ontario, a bridge between_
 
 ##### Hurricane Carlotta
 ### [Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
@@ -71,7 +71,7 @@ _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 ### [Italy announces it will sell off three state-owned business in hopes of reducing the country's debt problems. ](/news/2012/06/15/italy-announces-it-will-sell-off-three-state-owned-business-in-hopes-of-reducing-the-country-s-debt-problems.md)
 The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off state-owned companies, in a bid to reduce its crippling debt mountain.
 
-##### U.S.
+##### United States
 ### [American singer Chris Brown and Canadian rapper Drake reportedly brawl with each other over fellow popstar Rihanna in a New York nightclub. ](/news/2012/06/15/american-singer-chris-brown-and-canadian-rapper-drake-reportedly-brawl-with-each-other-over-fellow-popstar-rihanna-in-a-new-york-nightclub.md)
 Brown reportedly needed eight stitches to close up his wounds.
 

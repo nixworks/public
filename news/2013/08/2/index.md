@@ -27,7 +27,7 @@ _Context: Eid al-Fitr, UK Foreign Office_
 ### [The United States Department of State announces a worldwide travel alert for U.S. citizens and some embassies throughout Southwest Asia and North Africa will be closed following an al-Qaeda threat. ](/news/2013/08/2/the-united-states-department-of-state-announces-a-worldwide-travel-alert-for-u-s-citizens-and-some-embassies-throughout-southwest-asia-and.md)
 _Context: North Africa, Southwest Asia, State Department, al-Qaeda, travel alert_
 
-##### U.S.
+##### United States
 ### [The United States Food and Drug Administration names Taylor Farms as the source of cyclospora parasite tainted salads that sickened 223 diners in the US states of Nebraska and Iowa. ](/news/2013/08/2/the-united-states-food-and-drug-administration-names-taylor-farms-as-the-source-of-cyclospora-parasite-tainted-salads-that-sickened-223-dine.md)
 Taylor Farms of Mexico, a division of a California-based produce supplier whose greens go to national restaurants including Red Lobster and Olive Garden, shipped parasite-tainted salad mix that has sickened hundreds in Nebraska and Iowa, U.S. health officials said Friday.
 

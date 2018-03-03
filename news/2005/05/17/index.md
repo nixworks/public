@@ -55,9 +55,9 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 ### [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### U.S.
+##### United States
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
-_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, U.S., terrorism_
+_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, United States, terrorism_
 
 ##### Guantanamo Bay Qur'an desecration allegations
 ### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, "Newsweek" explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-expl.md)

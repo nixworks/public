@@ -15,9 +15,9 @@ Australian police holding an Indian doctor suspected of links with the plot to e
 ### [ Iraqi doctor Bilal Abdullah is charged for his alleged involvement in the 2007 Glasgow International Airport attack. ](/news/2007/07/6/iraqi-doctor-bilal-abdullah-is-charged-for-his-alleged-involvement-in-the-2007-glasgow-international-airport-attack.md)
 _Context: Bilal Abdullah, Iraq_
 
-##### French
+##### France
 ### [ Newly declassified French government documents show that as President Franois Mitterrand knowingly supported the Rwandan Genocide because he believed it would limit "Anglo-Saxon influence." ](/news/2007/07/6/newly-declassified-french-government-documents-show-that-as-president-francois-mitterrand-knowingly-supported-the-rwandan-genocide-because.md)
-_Context: Anglo-Saxon, Franois Mitterrand, French, French President, Rwandan Genocide_
+_Context: Anglo-Saxon, France, Franois Mitterrand, French President, Rwandan Genocide_
 
 ##### United States Circuit Court of Appeals
 ### [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-that.md)

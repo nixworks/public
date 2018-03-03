@@ -13,7 +13,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Washington Post
 ### [ According to "Washington Post", US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekista.md)
-_Context: NATO, Russia, U.S., Uzbekistan, Washington Post_
+_Context: NATO, Russia, United States, Uzbekistan, Washington Post_
 
 ##### Mission: SPACE
 ### [ A four-year-old boy is reported dead shortly after losing consciousness while riding Mission: SPACE at Walt Disney World's Epcot. ](/news/2005/06/14/a-four-year-old-boy-is-reported-dead-shortly-after-losing-consciousness-while-riding-mission-space-at-walt-disney-world-s-epcot.md)

@@ -49,7 +49,7 @@ _Context: Busan, South Korea, amusement park, ferris wheel_
 
 ##### War in Iraq
 ### [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md)
-_Context: Al Qaeda, Iran, Iraq, Shiite, Sunni, U.S., War in Iraq_
+_Context: Al Qaeda, Iran, Iraq, Shiite, Sunni, United States, War in Iraq_
 
 ##### Earthquake
 ### [ A 5.3 magnitude earthquake strikes the island of Hawaii about 25 miles south of Hilo, Hawaii. ](/news/2007/08/13/a-5-3-magnitude-earthquake-strikes-the-island-of-hawaii-about-25-miles-south-of-hilo-hawaii.md)

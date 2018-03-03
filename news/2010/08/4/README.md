@@ -27,7 +27,7 @@ _Context: Cabinet formation in the Netherlands, Informateur, Ivo Opstelten, VVD,
 ### [Dokka Umarov denies he has quit as head of Chechnya's armed separatist group. ](/news/2010/08/4/dokka-umarov-denies-he-has-quit-as-head-of-chechnya-s-armed-separatist-group.md)
 Doku Umarov appears in new video posting saying he will not step down from his post.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi survives a no-confidence vote. ](/news/2010/08/4/prime-minister-of-italy-silvio-berlusconi-survives-a-no-confidence-vote.md)
 Berlusconi wins no-confidence vote but result exposes weakness of ruling coalition.
 
@@ -85,7 +85,7 @@ _Context: Croton, Ohio, U.S. state, barn, egg farm_
 
 ##### Eurotunnel
 ### [Eurotunnel has "apologised profusely" after train passengers brought to Calais, France, through the Channel Tunnel are locked into their carriages upon arrival and immediately returned to Kent, England. ](/news/2010/08/4/eurotunnel-has-apologised-profusely-after-train-passengers-brought-to-calais-france-through-the-channel-tunnel-are-locked-into-their-car.md)
-_Context: Calais, Channel Tunnel, England, Eurotunnel, French, Kent_
+_Context: Calais, Channel Tunnel, England, Eurotunnel, France, Kent_
 
 ##### 2010 China floods
 ### [The confirmed death toll from flooding in China rises above 1,000. ](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.md)

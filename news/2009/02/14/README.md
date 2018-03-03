@@ -11,7 +11,7 @@ _Context: ''Chemstar Venus'', Japan, Somali pirates, Somalia, oil tanker_
 ### [ Japan's National Astronomical Observatory completes the first topographic map of the Moon. ](/news/2009/02/14/japan-s-national-astronomical-observatory-completes-the-first-topographic-map-of-the-moon.md)
 _Context: Japan, Moon, National Astronomical Observatory, topographic map_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ Prime Minister Ehud Olmert says Israel will not negotiate any long-term ceasefire in its conflict with Hamas unless prisoner-of-war Gilad Shalit is released. ](/news/2009/02/14/prime-minister-ehud-olmert-says-israel-will-not-negotiate-any-long-term-ceasefire-in-its-conflict-with-hamas-unless-prisoner-of-war-gilad-s.md)
 Ehud Olmert rules out truce with Hamas until seized Israeli soldier is freed.
 

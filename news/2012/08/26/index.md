@@ -31,7 +31,7 @@ _Context: Legionellosis, Quebec City_
 ### [A 7.4 magnitude earthquake occurs in the Pacific Ocean off the coast of El Salvador with tsunami warnings in place for Costa Rica, Nicaragua, El Salvador, Honduras, Guatemala, Panama and Mexico. ](/news/2012/08/26/a-7-4-magnitude-earthquake-occurs-in-the-pacific-ocean-off-the-coast-of-el-salvador-with-tsunami-warnings-in-place-for-costa-rica-nicaragua.md)
 Strong magnitude-7.4 earthquake has struck off the coast of El Salvador and a tsunami warning has been issued.
 
-##### U.S.
+##### United States
 ### [The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/the-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi-and-louisiana-a-state.md)
 Forecasters say Tropical Storm Isaac has gained added strength and should be at or near hurricane force when it reaches the Florida Keys later in the day.
 

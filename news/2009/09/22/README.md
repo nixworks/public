@@ -47,9 +47,9 @@ _Context: Bayo Ohu, Lagos, Nigeria, The Guardian_
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald
 
-##### U.S.
+##### United States
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, U.S._
+_Context: South Africa, United States_
 
 ##### Attorney General for England and Wales
 ### [ Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is fined GBP5,000 after being found to have employed a housekeeper who was not legally allowed to work in the UK. ](/news/2009/09/22/attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-fined-gbp5-000-after-being-found-to-have-employed.md)
@@ -79,9 +79,9 @@ _Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
 _Context: 60th anniversary of the founding, China, Tibet Autonomous Region_
 
-##### French
+##### France
 ### [ French riot police detain 278 migrants in Calais in an operation to dismantle the "jungle" camp. ](/news/2009/09/22/french-riot-police-detain-278-migrants-in-calais-in-an-operation-to-dismantle-the-jungle-camp.md)
-_Context: Calais, French, migrants_
+_Context: Calais, France, migrants_
 
 ##### Irish
 ### [ New figures reveal that for the first time since 1995 more people emigrated from Ireland than immigrated there, with a growth of more than 40% from January&ndash;April 2009. Most of the emigrants are Eastern European or Irish nationals. ](/news/2009/09/22/new-figures-reveal-that-for-the-first-time-since-1995-more-people-emigrated-from-ireland-than-immigrated-there-with-a-growth-of-more-than.md)
@@ -101,7 +101,7 @@ Honduras de facto leader Roberto Micheleti demanded that Brazil hand over depose
 
 ##### U.S. President
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Mahmoud Abbas, Middle East, Palestinian Authority President, U.S. President_
+_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, Prime Minister, U.S. President_
 
 ##### Racial bias
 ### [ A gang of racist youths are sent to jail for a string of attacks on foreigners in Moscow, Russia, in 2008. ](/news/2009/09/22/a-gang-of-racist-youths-are-sent-to-jail-for-a-string-of-attacks-on-foreigners-in-moscow-russia-in-2008.md)

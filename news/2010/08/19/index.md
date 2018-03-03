@@ -51,9 +51,9 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
 North Korea confirmed Thursday that it had seized a South Korean fishing boat carrying four South Koreans and three Chinese, its first official reaction in nearly two weeks.
 
-##### French
+##### France
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: Bulgaria, French, Roma, Romania, xenophobic_
+_Context: Bulgaria, France, Roma, Romania, xenophobic_
 
 ##### United Nations
 ### [The United Nations issues a report stating that Israel restricts with live ammunition access to land used for farming and fishing by Palestinians, causing a loss of livelihood for tens of thousands of Palestinians. ](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.md)
@@ -107,9 +107,9 @@ _Context: Sherlock Holmes, Sir Arthur Conan Doyle, Undershaw_
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.
 
-##### U.S.
+##### United States
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: Iraq, U.S., United States armed forces, brigade_
+_Context: Iraq, United States, United States armed forces, brigade_
 
 ##### Bomb attack
 ### [Seven people are killed and fourteen injured in a bomb attack in China's Xinjiang province. Although the region has recently been embroiled in violence including Muslim separatists and majority Han Chinese, the attack is being investigated as a criminal case. ](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.md)

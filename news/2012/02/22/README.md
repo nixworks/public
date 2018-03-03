@@ -9,7 +9,7 @@ _Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Prime Minist
 
 ##### Yoaz Hendel
 ### [Yoaz Hendel, the top spokesman for Prime Minister of Israel Benjamin Netanyahu, resigns following a disagreement over handling an issue involving another aide. ](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.md)
-_Context: Benjamin Netanyahu, Israeli Prime Minister, Yoaz Hendel_
+_Context: Benjamin Netanyahu, Prime Minister, Yoaz Hendel_
 
 ##### Charlottesville
 ### [In Charlottesville, Virginia, U.S., former University of Virginia men's lacrosse player George Huguely is found guilty of second-degree murder in the 2010 death of former UVA women's lacrosse player Yeardley Love. The jury recommends a 26-year prison sentence, with formal sentencing scheduled for April. ](/news/2012/02/22/in-charlottesville-virginia-u-s-former-university-of-virginia-men-s-lacrosse-player-george-huguely-is-found-guilty-of-second-degree-murd.md)

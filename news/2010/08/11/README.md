@@ -21,7 +21,7 @@ Indigenous groups in the Peruvian Amazon say they plan to launch their own polit
 
 ##### Granddad Bandit
 ### [Michael Mara, a man dubbed the "Granddad Bandit" suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
-_Context: Baton Rouge, Louisiana, Granddad Bandit, Louisiana, U.S., bank robbery_
+_Context: Baton Rouge, Louisiana, Granddad Bandit, Louisiana, United States, bank robbery_
 
 ##### West Bengal
 ### [The Women's Commission of West Bengal says there will be an inquiry into the case of a tribal woman who is reported to have been paraded naked around several villages and filmed in this act via a mobile phone. ](/news/2010/08/11/the-women-s-commission-of-west-bengal-says-there-will-be-an-inquiry-into-the-case-of-a-tribal-woman-who-is-reported-to-have-been-paraded-nak.md)
@@ -47,7 +47,7 @@ Researchers have unearthed evidence that our ancestors used tools and ate meat 8
 ### [Lebanese Defence Minister Elias Murr rejects military offers from the United States after $100 million due to Lebanon is blocked by the United States House of Representatives. ](/news/2010/08/11/lebanese-defence-minister-elias-murr-rejects-military-offers-from-the-united-states-after-100-million-due-to-lebanon-is-blocked-by-the-unit.md)
 _Context: Elias Murr, Lebanese, United States House of Representatives_
 
-##### U.S.
+##### United States
 ### [The United States threatens to sell an anti-ballistic missile to Kuwait to counter alleged "current and future threats". ](/news/2010/08/11/the-united-states-threatens-to-sell-an-anti-ballistic-missile-to-kuwait-to-counter-alleged-current-and-future-threats.md)
 The US says it plans to sell Kuwait its latest Patriot anti-ballistic missile to meet &quot;current and future threats&quot;.
 
@@ -69,7 +69,7 @@ _Context: Brazil, Iran, Luiz Inacio Lula da Silva, United Nations, president_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md)
-_Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization, U.S., diplomatic Quartet_
+_Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization, United States, diplomatic Quartet_
 
 ##### Israel Defense Forces chief
 ### [Lieutenant-General of Israel Gabi Ashkenazi testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. He says force used was "proportionate and correct" and that soldiers "shot those who they needed to shoot". ](/news/2010/08/11/lieutenant-general-of-israel-gabi-ashkenazi-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-floti.md)

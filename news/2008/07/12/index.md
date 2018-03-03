@@ -13,7 +13,7 @@ Six-party talks agree on steps to verify disarmament.
 
 ##### French President
 ### [ French President Nicolas Sarkozy announces that Syria and Lebanon have agreed to establish embassies in each other's capitals. ](/news/2008/07/12/french-president-nicolas-sarkozy-announces-that-syria-and-lebanon-have-agreed-to-establish-embassies-in-each-other-s-capitals.md)
-_Context: French President, Lebanese, Nicolas Sarkozy, Syria, embassies_
+_Context: French President, Lebanese, Nicolas Sarkozy, Syria, embassy_
 
 ##### Okmok Caldera
 ### [ Okmok Caldera on the island of Umnak in the Aleutian Islands erupts, forcing the evacuation of the eastern side of the island to Unalaska Island. ](/news/2008/07/12/okmok-caldera-on-the-island-of-umnak-in-the-aleutian-islands-erupts-forcing-the-evacuation-of-the-eastern-side-of-the-island-to-unalaska-i.md)

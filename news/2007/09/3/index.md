@@ -37,7 +37,7 @@ _Context: High Court of Australia, Susan Kiefel_
 
 ##### Europe
 ### [ European energy companies Gaz de France and Suez agree to merge in what would be a privatisation of the French state-owned Gaz de France. ](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.md)
-_Context: Europe, French, Gaz de France, Suez, privatisation_
+_Context: Europe, France, Gaz de France, Suez, privatisation_
 
 ##### United Nations Secretary-General
 ### [ Secretary-General of the United Nations Ban Ki-Moon arrives in Sudan to press for an end to violence in Darfur. ](/news/2007/09/3/secretary-general-of-the-united-nations-ban-ki-moon-arrives-in-sudan-to-press-for-an-end-to-violence-in-darfur.md)

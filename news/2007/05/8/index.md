@@ -47,7 +47,7 @@ _Context: Andre Boisclair, Canada, Parti Quebecois_
 ### [ Former U.S. President Bill Clinton announces a deal with drug companies to lower the price of anti-AIDS drugs in Third World countries. ](/news/2007/05/8/former-u-s-president-bill-clinton-announces-a-deal-with-drug-companies-to-lower-the-price-of-anti-aids-drugs-in-third-world-countries.md)
 _Context: Bill Clinton, Third World, U.S. President, anti-AIDS drugs_
 
-##### U.S.
+##### United States
 ### [ U.S. police arrest six Islamic men from the Republic of Macedonia and the Middle East based on a tip from a Mount Laurel, NJ resident who discovered their plot to attack Fort Dix, New Jersey, and "kill as many soldiers as possible." ](/news/2007/05/8/u-s-police-arrest-six-islamic-men-from-the-republic-of-macedonia-and-the-middle-east-based-on-a-tip-from-a-mount-laurel-nj-resident-who-d.md)
 Six people have been arrested on allegations of plotting to kill soldiers at an army installation, an official said today.
 

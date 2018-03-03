@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md) _Context: Gerald Ford, Grand Rapids, Mich._
+1. [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md) _Context: Gerald Ford, Grand Rapids, Michigan_
 2. [British Prime Minister Theresa May meets with U.S. President Donald Trump at the White House in Washington, D.C.. This is the first visit by a foreign leader since Trump's inauguration last Friday. ](/news/2017/01/27/british-prime-minister-theresa-may-meets-with-u-s-president-donald-trump-at-the-white-house-in-washington-d-c-this-is-the-first-visit-by.md) _Context: U.S. President, Washington, D.C._
 3. [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md) _Context: U.S. President, Washington, D.C._
 4. [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md) _Context: U.S. President, US_

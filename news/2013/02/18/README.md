@@ -17,7 +17,7 @@ Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes
 
 ##### Murder-suicide
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, Missouri, U.S., murder-suicide_
+_Context: Fairdealing, Missouri, United States, murder-suicide_
 
 ##### Robber
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
@@ -25,7 +25,7 @@ Armed robbers disguised as police escape with a massive haul of diamonds after a
 
 ##### Nestl
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: 2013 meat adulteration scandal, French, Italy, Nestl, Spain, beef, horses for meat, supermarket_
+_Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spain, beef, horses for meat, supermarket_
 
 ##### Indonesia
 ### [At least 15 people are killed in Indonesia after flooding and multiple landslides ravage the North Sulawesi province. ](/news/2013/02/18/at-least-15-people-are-killed-in-indonesia-after-flooding-and-multiple-landslides-ravage-the-north-sulawesi-province.md)

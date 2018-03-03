@@ -87,7 +87,7 @@ _Context: Colombia, FARC, International Red Cross_
 ### [18 people are injured after a car bomb is detonated in Yala, Thailand. ](/news/2011/02/13/18-people-are-injured-after-a-car-bomb-is-detonated-in-yala-thailand.md)
 Eighteen injured in explosion in city of Yala, which triggered a large fire that engulfed nearby shops.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Tens of thousands of women hold nationwide protests in 200 cities against Prime Minister of Italy Silvio Berlusconi, whom they say has damaged the standing of women with his string of sex scandals. ](/news/2011/02/13/tens-of-thousands-of-women-hold-nationwide-protests-in-200-cities-against-prime-minister-of-italy-silvio-berlusconi-whom-they-say-has-damag.md)
 Women hold protests in Italy and abroad against embattled Prime Minister Silvio Berlusconi, saying his recent sex scandals have demeaned women.
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/18/index.html)  [JSON](2010/09/18/index.json)  [XML](201
 
 ##### Bulgaria
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
-_Context: Bulgaria, French, Roma, Sofia_
+_Context: Bulgaria, France, Roma, Sofia_
 
 ##### German
 ### [Tens of thousands of Germans protest in Berlin against the plans of the German government to extend the life of the country's nuclear power plants by another ten years. ](/news/2010/09/18/tens-of-thousands-of-germans-protest-in-berlin-against-the-plans-of-the-german-government-to-extend-the-life-of-the-country-s-nuclear-power.md)

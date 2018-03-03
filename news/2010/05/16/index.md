@@ -31,13 +31,13 @@ Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy gr
 ### [Scientists are finding enormous oil plumes in the deep waters of the Gulf of Mexico, including one as large as 10 miles long, 3 miles wide and 300 feet thick in spots as fresh evidence that the leak from the broken undersea well could be substantially worse than estimates that the United States government and BP have given. ](/news/2010/05/16/scientists-are-finding-enormous-oil-plumes-in-the-deep-waters-of-the-gulf-of-mexico-including-one-as-large-as-10-miles-long-3-miles-wide-a.md)
 The discovery of the plumes, one as large as 10 miles long, is evidence that the leak could be substantially worse than estimates.
 
-##### French
+##### France
 ### [French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. ](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.md)
 Woman arrested after disputed presidential poll, released and on her way home.
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
-_Context: Barack Obama, Gaza Strip, Iron Dome, Israel, Southern Lebanon, U.S., US Congress, military aid_
+_Context: Barack Obama, Gaza Strip, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_
 
 ##### Canada
 ### [Canadian fighter jets escort a Cathay Pacific airliner to land at Vancouver International Airport during a bomb alert and the passengers are removed. ](/news/2010/05/16/canadian-fighter-jets-escort-a-cathay-pacific-airliner-to-land-at-vancouver-international-airport-during-a-bomb-alert-and-the-passengers-are.md)

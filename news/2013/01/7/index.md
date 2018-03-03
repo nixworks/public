@@ -19,7 +19,7 @@ Five men are formally charged with the gang rape and murder of a young woman in 
 ### [An explosion in a coal mine in the Turkish province of Zonguldak kills eight mine workers. ](/news/2013/01/7/an-explosion-in-a-coal-mine-in-the-turkish-province-of-zonguldak-kills-eight-mine-workers.md)
 Eight mine workers were killed yesterday due to a gas leak at a coal mine in the Black Sea province of Zonguldak, Turkey’s coal capital. 
 
-##### U.S.
+##### United States
 ### [For $8.5 billion, ten banks settle to stop mortgage foreclosure process audits. The United States government regulators had been engaged in a loan-by-loan review of home loan practices during the Great Recession. Bank of America, Citigroup Inc, JPMorgan Chase & Co, Wells Fargo & Co, MetLife Bank, Aurora Bank FSB, PNC Financial Services Group Inc, Sovereign Bank NA, SunTrust Banks Inc, and U.S. Bancorp settle with regulators to pay out cash up to $125,000 to homeowners whose homes were being foreclosed when the paperwork problems emerged. Further, Bank of America agrees to pay $11.6 billion to government mortgage finance company Fannie Mae. ](/news/2013/01/7/for-8-5-billion-ten-banks-settle-to-stop-mortgage-foreclosure-process-audits-the-united-states-government-regulators-had-been-engaged-in.md)
 Bank of America Corp announced more than $14 billion of legal settlements over bad mortgages it sold to investors and flaws in its foreclosure process, taking the bank a step closer to ending the home loan problems that have dogged it for years.
 

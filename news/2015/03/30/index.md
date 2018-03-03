@@ -15,7 +15,7 @@ _Context: Elizabeth II, Parliament, newly elected_
 ### [In Fort George G. Meade, Maryland, base perimeter guards shoot and kill one person and injure another person as two men attempt to crash the entrance gate with their vehicle. The incident also injures a guard. The base is the headquarters for the National Security Agency. ](/news/2015/03/30/in-fort-george-g-meade-maryland-base-perimeter-guards-shoot-and-kill-one-person-and-injure-another-person-as-two-men-attempt-to-crash-the.md)
 Officials say two men dressed as women tried to break through a security gate to the National Security Agency headquarters.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [The Jerusalem District Court finds former Prime Minister of Israel Ehud Olmert guilty of accepting cash from an American businessman for personal use. ](/news/2015/03/30/the-jerusalem-district-court-finds-former-prime-minister-of-israel-ehud-olmert-guilty-of-accepting-cash-from-an-american-businessman-for-per.md)
 Former PM found guilty of accepting cash from US Jewish businessman for personal use; defense team: We will appeal, tapes used by prosecution had been manipulated by chronic liar. 
 

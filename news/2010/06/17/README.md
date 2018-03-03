@@ -17,7 +17,7 @@ Bags are to be put over dozens of surveillance cameras in parts of Birmingham wi
 
 ##### Rwanda
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: Rwanda, U.S._
+_Context: Rwanda, United States_
 
 ##### Kenya
 ### [Kenyan Assistant Roads Minister Wilfred Machage is suspended by President Mwai Kibaki after being charged, alongside two other MPs, with inciting hatred yesterday. ](/news/2010/06/17/kenyan-assistant-roads-minister-wilfred-machage-is-suspended-by-president-mwai-kibaki-after-being-charged-alongside-two-other-mps-with-inc.md)

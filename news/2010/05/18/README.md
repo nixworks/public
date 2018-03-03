@@ -25,7 +25,7 @@ _Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian Authority President, Pal
 
 ##### Wealth
 ### [A new study has found that the gap in wealth between white and black Americans increased by more than four times between 1984 and 2007. ](/news/2010/05/18/a-new-study-has-found-that-the-gap-in-wealth-between-white-and-black-americans-increased-by-more-than-four-times-between-1984-and-2007.md)
-_Context: 1984, 2007, U.S., black, wealth, white_
+_Context: 1984, 2007, United States, black, wealth, white_
 
 ## [Previous Day...](/news/2010/05/17/index.md)
 

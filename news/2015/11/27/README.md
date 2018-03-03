@@ -25,7 +25,7 @@ Planned Parenthood shooting: 3 killed, including 1 police officer in Colorado Sp
 
 ##### Krakow
 ### [The appellate prosecutors office in the Polish city of Krakow decides not to appeal a decision against extraditing filmmaker Roman Polanski to the United States to face prosecution for historic child sex offences. ](/news/2015/11/27/the-appellate-prosecutors-office-in-the-polish-city-of-krakow-decides-not-to-appeal-a-decision-against-extraditing-filmmaker-roman-polanski.md)
-_Context: Krakow, Roman Polanski, U.S., extradited_
+_Context: Krakow, Roman Polanski, United States, extradited_
 
 ##### Saenuri Party
 ### [Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. ](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.md)

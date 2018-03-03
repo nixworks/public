@@ -51,9 +51,9 @@ Hundreds of South Koreans cross into North for three-day reunion of families sep
 ### [Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. ](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.md)
 Hurricane Tomas lashes St Lucia and St Vincent in the eastern Caribbean, with high winds ripping roofs off houses.
 
-##### French
+##### France
 ### [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md)
-_Context: Antarctica, Australia, French, find four French nationals, helicopter_
+_Context: Antarctica, Australia, France, find four French nationals, helicopter_
 
 ##### Typhoon Chaba
 ### [Typhoon Chaba heads towards eastern Japan. ](/news/2010/10/30/typhoon-chaba-heads-towards-eastern-japan.md)

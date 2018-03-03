@@ -3,7 +3,7 @@ Formats: [HTML](2009/12/25/index.html)  [JSON](2009/12/25/index.json)  [XML](200
 
 ## [2009-12-25](/news/2009/12/25/index.md)
 
-##### U.S.
+##### United States
 ### [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253 from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to-d.md)
 The Obama administration vows to review security procedures at airports and the government&#39;s system for checking suspicious travelers.
 

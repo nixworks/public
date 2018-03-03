@@ -13,7 +13,7 @@ _Context: Bank of England, Economy of the United Kingdom, GBP, United Kingdom, q
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md)
-_Context: Israel, Israeli police, Jerusalem, Palestinian, bulldozer, militant, squad car, terrorist_
+_Context: Israel, Israel Police, Jerusalem, Palestinian, bulldozer, militant, squad car, terrorist_
 
 ##### China
 ### [ China emphasizes domestic demand and targets 8% economic growth in 2009. ](/news/2009/03/5/china-emphasizes-domestic-demand-and-targets-8-economic-growth-in-2009.md)

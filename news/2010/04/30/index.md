@@ -19,7 +19,7 @@ All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says
 ### [Iran threatens to "cut off Israel's feet" if Israel attacks Syria. ](/news/2010/04/30/iran-threatens-to-cut-off-israel-s-feet-if-israel-attacks-syria.md)
 Ahmadinejad set to speak at UN nuke conference on May 3.
 
-##### U.S.
+##### United States
 ### [The United States announces it will begin mediating indirect peace talks between Israel and Palestine. ](/news/2010/04/30/the-united-states-announces-it-will-begin-mediating-indirect-peace-talks-between-israel-and-palestine.md)
 Israeli and Palestinian negotiators will not be in the same room, many experts agree that the chances of a breakthrough are small, and some say the exercise is just a warm-up.
 

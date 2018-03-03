@@ -11,9 +11,9 @@ Formats: [HTML](2013/10/9/index.html)  [JSON](2013/10/9/index.json)  [XML](2013/
 ### [The Nobel Prize in Chemistry is awarded to Martin Karplus, Michael Levitt and Arieh Warshel for their work on multiscale models for complex chemical systems. ](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.md)
 The Nobel Prize in chemistry has been awarded to three scientists who &quot;took the chemical experiment into cyberspace&quot;.
 
-##### Argentine president
+##### Argentine President
 ### [President Cristina Fernndez de Kirchner of Argentina successfully undergoes surgery to remove a subdural hematoma. Presidential duties will be carried out by Vice President Amado Boudou for the duration of Kirchner's estimated month-long recovery. ](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.md)
-_Context: Amado Boudou, Argentine president, Cristina Kirchner, subdural hematoma_
+_Context: Amado Boudou, Argentine President, Cristina Kirchner, subdural hematoma_
 
 ##### Azerbaijan
 ### [Voters in Azerbaijan go to the polls for a presidential election with incumbent President Ilham Aliyev expected to be elected amid concerns about the fairness of the election. ](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.md)
@@ -37,9 +37,9 @@ _Context: Chinese, Xinjiang, jihad_
 ### [The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. ](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.md)
 _Context: Association of Southeast Asian Nations, Brunei, East Asia Summit_
 
-##### U.S.
+##### United States
 ### [The United States government suspends military and cash aid to Egypt worth hundreds of millions of dollars. ](/news/2013/10/9/the-united-states-government-suspends-military-and-cash-aid-to-egypt-worth-hundreds-of-millions-of-dollars.md)
-_Context: Egypt, U.S._
+_Context: Egypt, United States_
 
 ##### Gazipur
 ### [A fire at a garment factory in Gazipur, Bangladesh, kills 10 people. ](/news/2013/10/9/a-fire-at-a-garment-factory-in-gazipur-bangladesh-kills-10-people.md)

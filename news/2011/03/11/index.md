@@ -17,7 +17,7 @@ _Context: UNASUR Constitutive Treaty, Union of South American Nations, into forc
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghanistan, Blackwater Worldwide, Kabul, U.S., manslaughter by gross negligence_
+_Context: Afghanistan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
@@ -39,7 +39,7 @@ _Context: Colorado, Mary Fallin, Oklahoma, governor, states of emergency, wildfi
 ### [A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10-meters-near-the-epicenter-and-reachi.md)
 Thousands of others were stranded on rooftops, surrounded by water left by the tsunami that washed over the low-lying farmland of the hardest-hit areas, sweeping away homes, cars, railroads and businesses.
 
-##### U.S.
+##### United States
 ### [American actor Mel Gibson is charged with misdemeanor battery for an alleged assault on his ex-girlfriend Oksana Grigorieva in January 2010. ](/news/2011/03/11/american-actor-mel-gibson-is-charged-with-misdemeanor-battery-for-an-alleged-assault-on-his-ex-girlfriend-oksana-grigorieva-in-january-2010.md)
 Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles Superior Court and is scheduled to appear in court at 1:30 PM to accept his plea deal on the case.
 

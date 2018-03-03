@@ -33,7 +33,7 @@ _Context: Golden Lion, Kim Ki-duk, Pieta, Venice Film Festival_
 
 ##### Al-Qaeda in the Islamic Maghreb
 ### [For the first time in nearly eighteen months, a sign of life appears of four French nationals kidnapped by Al-Qa'eda in Arlit, Niger. A videotape shows them healthy; they ask France to negotiate their release. ](/news/2012/09/8/for-the-first-time-in-nearly-eighteen-months-a-sign-of-life-appears-of-four-french-nationals-kidnapped-by-al-qa-eda-in-arlit-niger-a-vide.md)
-_Context: Al-Qaeda in the Islamic Maghreb, Arlit, French, Niger_
+_Context: Al-Qaeda in the Islamic Maghreb, Arlit, France, Niger_
 
 ##### Suicide bombing
 ### [A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. ](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.md)

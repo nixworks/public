@@ -11,7 +11,7 @@ The NHS plans for England need a major re-write to ensure the best interests of 
 ### [Rep Michele Bachmann announces mid-debate that she will seek the Republican Party nomination for President of the United States. ](/news/2011/06/13/rep-michele-bachmann-announces-mid-debate-that-she-will-seek-the-republican-party-nomination-for-president-of-the-united-states.md)
  Rep. Michele Bachmann will seek the Republican presidential nomination, she announced Monday evening during CNN&amp;#146;s GOP presidential debate in New Hampshire.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi is defeated in several referendums. He admits "we must probably say goodbye to... nuclear power" after his attempts to have people boycott a referendum on the issue prove unsuccessful. ](/news/2011/06/13/prime-minister-of-italy-silvio-berlusconi-is-defeated-in-several-referendums-he-admits-we-must-probably-say-goodbye-to-nuclear-power-a.md)
 Italian Prime Minister Silvio Berlusconi accepts the rejection of his nuclear power plans and other policies in a popular referendum.
 
@@ -23,7 +23,7 @@ Najib Mikati gives Hezbollah and its allies 16 posts, prompting resignation by a
 ### [Israel's deputy foreign minister Danny Ayalon tells public radio that he wants re-elected Prime Minister of Turkey Recep Tayyip Erdogan to block what Ayalon considers a "provocative flotilla" of activists bound for Gaza "entering dangerous zones". ](/news/2011/06/13/israel-s-deputy-foreign-minister-danny-ayalon-tells-public-radio-that-he-wants-re-elected-prime-minister-of-turkey-recep-tayyip-erdoaan-to.md)
 _Context: Danny Ayalon, Gaza Strip, Israel, Recep Tayyip Erdogan, Turkish Prime Minister, public radio_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu, speaking alongside Silvio Berlusconi in Italy where he is rallying opposition to the possible recognition of a Palestinian state, expresses a wish for improved relations with Turkey after last year's killing of Turks by Israeli commandos during the Gaza flotilla raid in international waters of the Mediterranean Sea. ](/news/2011/06/13/prime-minister-of-israel-benjamin-netanyahu-speaking-alongside-silvio-berlusconi-in-italy-where-he-is-rallying-opposition-to-the-possible-r.md)
 Mr. Netanyahu says such democratic elections were &quot;something to welcome&quot; in the region
 

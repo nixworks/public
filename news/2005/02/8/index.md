@@ -37,7 +37,7 @@ _Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, last electi
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority. Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel, shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah. Palestinian organization Hamas says it is not bound by the ceasefire. ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palesti.md)
-_Context: Abdullah II of Jordan, Ariel Sharon, Egypt, Hamas, Hosni Mubarak, Israel, Israeli Prime Minister, Israeli-Palestinian Conflict, Jordan, Jordanian King, Mahmoud Abbas, Palestinian, Palestinian Authority, President, President of the Palestinian Authority, Sharm el-Sheikh, truce_
+_Context: Abdullah II of Jordan, Ariel Sharon, Egypt, Hamas, Hosni Mubarak, Israel, Israeli-Palestinian Conflict, Jordan, Jordanian King, Mahmoud Abbas, Palestinian, Palestinian Authority, President, President of the Palestinian Authority, Prime Minister, Sharm el-Sheikh, truce_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Guerrillas in Baquba detonate a car bomb outside an Iraqi police headquarters, killing 15 and wounding 17. A suicide bomber in Mosul kills 12 policemen and injures 4 others. In another area of the city, guerrillas fire a dozen mortar rounds at a police station, killing 3 civilians. ](/news/2005/02/8/conflict-in-iraq-guerrillas-in-baquba-detonate-a-car-bomb-outside-an-iraqi-police-headquarters-killing-15-and-wounding-17-a-suicide-bomb.md)

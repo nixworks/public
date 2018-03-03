@@ -103,9 +103,9 @@ _Context: Brazil, tie knots_
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
 
-##### French
+##### France
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, French, U.S., U.S. President_
+_Context: Afghanistan, Barack Obama, France, U.S. President, United States_
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)

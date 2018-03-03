@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/17/index.html)  [JSON](2015/12/17/index.json)  [XML](201
 
 ##### Russia
 ### [ Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any.md)
-_Context: Donald Trump, Donald Trump presidential campaign, Republican, Russia, Russian President, U.S., Vladimir Putin_
+_Context: Donald Trump, Donald Trump presidential campaign, Republican, Russia, Russian President, United States, Vladimir Putin_
 
 ##### War in Afghanistan
 ### [ "The New York Times" reports the U.S. Navy covered up a Naval Criminal Investigative Service (NCIS) report on Afghan detainee abuses. The NCIS investigation found that Navy SEAL Team 2's abuse resulted in the death of a 24-year old married Afghan detainee with a new baby, and that the SEALs failed to restrain the Afghan Local Police's detainee abuses. This drove some previously cooperative Afghans to leave for Taliban-controlled areas, the "Times" reports. Their commander in Afghanistan recommended these men be forced out of the elite SEAL teams. Two of the SEALs and their lieutenant have since been promoted. Rachel E. VanLandingham, former United States Central Command's chief legal adviser on detainee and interrogation issues from 2006 to 2010, and other military lawyers, have called for the case to be reopened. ](/news/2015/12/17/the-new-york-times-reports-the-u-s-navy-covered-up-a-naval-criminal-investigative-service-ncis-report-on-afghan-detainee-abuses-the-n.md)
@@ -15,7 +15,7 @@ A new report shows the Navy tried to cover-up a 2012 incident in which SEAL Team
 ### [ Japanese journalist Tatsuya Kato is acquitted by a South Korean court of defamation charges resulting from questions he raised about South Korean President Geun-hye Park's whereabouts during the Sewol ferry disaster. ](/news/2015/12/17/japanese-journalist-tatsuya-kato-is-acquitted-by-a-south-korean-court-of-defamation-charges-resulting-from-questions-he-raised-about-south.md)
 The former Seoul bureau chief of the Japanese daily Sankei Shimbun was found inn..
 
-##### U.S.
+##### United States
 ### [ United States federal prosecutors in New York City arrest Martin Shkreli on securities fraud charges for allegedly plundering for personal gain Retrophin, a biopharmaceutical company he ran as CEO from 2012 to 2014. ](/news/2015/12/17/united-states-federal-prosecutors-in-new-york-city-arrest-martin-shkreli-on-securities-fraud-charges-for-allegedly-plundering-for-personal.md)
 A boyish-looking entrepreneur who became the new face of corporate greed when he jacked up the price of a lifesaving drug fiftyfold was led away in handcuffs by the FBI on unrelated fraud charges Thursday in a scene that left more than a few Americans positively gleeful.
 

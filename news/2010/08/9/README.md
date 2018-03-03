@@ -129,7 +129,7 @@ _Context: Japan, Nagasaki, dropped_
 ### [Hezbollah leader Hassan Nasrallah gives a press conference in which he states he has evidence that implicates Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri, who was killed along with 22 others. ](/news/2010/08/9/hezbollah-leader-hassan-nasrallah-gives-a-press-conference-in-which-he-states-he-has-evidence-that-implicates-israel-in-the-2005-assassinati.md)
 Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Israeli involvement in the murder of ex-Lebanese PM Rafik Hariri.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. The testimony is scheduled to last five hours, with some of it closed to the media and public. ](/news/2010/08/9/prime-minister-of-israel-benjamin-netanyahu-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-floti.md)
 JERUSALEM: Israel&#039;s Prime Minister, Benjamin Netanyahu, is expected to assign blame for Israel&#039;s raid on a Gaza-bound aid flotilla on his outgoing military chief when the PM appears today before a judicial inquiry investigating the incident.
 

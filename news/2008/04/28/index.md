@@ -21,7 +21,7 @@ _Context: Baghdad, Mortar, United States military personnel, rocket, soldier_
 
 ##### General Motors
 ### [ General Motors announces that it will cut production of pickup trucks and sport utility vehicles in three plants in Michigan and one in Oshawa, Ontario and negotiate layoffs with the United Auto Workers and Canadian Auto Workers. ](/news/2008/04/28/general-motors-announces-that-it-will-cut-production-of-pickup-trucks-and-sport-utility-vehicles-in-three-plants-in-michigan-and-one-in-osh.md)
-_Context: Canadian Auto Workers, General Motors, Mich., Oshawa, Ontario, United Auto Workers, layoff, pickup truck, sport utility vehicle_
+_Context: Canadian Auto Workers, General Motors, Michigan, Oshawa, Ontario, United Auto Workers, layoff, pickup truck, sport utility vehicle_
 
 ##### Texas Department of Family and Protective Services
 ### [ Officials with the Texas Department of Family and Protective Services find that 31 of the 53 girls between ages 14 and 17 seized from the YFZ Ranch have been, or are currently, pregnant. ](/news/2008/04/28/officials-with-the-texas-department-of-family-and-protective-services-find-that-31-of-the-53-girls-between-ages-14-and-17-seized-from-the-y.md)

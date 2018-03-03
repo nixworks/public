@@ -15,9 +15,9 @@ _Context: Philippines_
 ### [ Belgium holds a general election. Liberal Prime Minister Guy Verhofstadt is expected to lose power to the Christian Democrats of Yves Leterme. ](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.md)
 Belgian voters punished the liberal-socialist government in an election on Sunday and cleared the way for Flemish premier Yves Leterme to become prime minister and pursue a devolution of power to the regions.
 
-##### French
+##### France
 ### [ France holds a parliamentary election; early projections indicate that President Nicolas Sarkozy's center-right UMP party will secure a comfortable victory. ](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.md)
-_Context: French, Nicolas Sarkozy, President, UMP, center-right, go to the polls_
+_Context: France, Nicolas Sarkozy, President, UMP, center-right, go to the polls_
 
 ##### Sunday talk show
 ### [ On the Sunday talk show "Meet the Press", former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-bay.md)

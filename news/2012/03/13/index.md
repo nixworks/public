@@ -35,7 +35,7 @@ At least 28 people - including 22 children - die when a Belgian coach hits a wal
 ### [At least 30 people are dead and dozens missing after the MV Shariatpur 1 ferry carrying 200 people collides with an oil tanker. It capsizes on the Meghna River in Bangladesh's Munshiganj District near the capital Dhaka. ](/news/2012/03/13/at-least-30-people-are-dead-and-dozens-missing-after-the-mv-shariatpur-1-ferry-carrying-200-people-collides-with-an-oil-tanker-it-capsizes.md)
 At least 32 people die and scores are missing after a ferry with some 200 people aboard sinks in southern Bangladesh, police say.
 
-##### U.S.
+##### United States
 ### [Most of the largest financial institutions in the United States pass a Federal Reserve System stress test although Citigroup, MetLife, Ally Financial and SunTrust do not. ](/news/2012/03/13/most-of-the-largest-financial-institutions-in-the-united-states-pass-a-federal-reserve-system-stress-test-although-citigroup-metlife-ally.md)
 Most of the largest banks passed their annual stress test, the Federal Reserve revealed in an earlier-than-expected release of the results, after JPMorgan Chase pulled the trigger on announcing its glowing marks and helped lift the stock market.
 
@@ -43,7 +43,7 @@ Most of the largest banks passed their annual stress test, the Federal Reserve r
 ### [Auto manufacturer Jaguar Land Rover announces plans to hire an additional 1,000 workers in its car plant in Halewood on Merseyside, England. ](/news/2012/03/13/auto-manufacturer-jaguar-land-rover-announces-plans-to-hire-an-additional-1-000-workers-in-its-car-plant-in-halewood-on-merseyside-england.md)
 Jaguar Land Rover says it is creating 1,000 new jobs at its Halewood factory on Merseyside.
 
-##### U.S.
+##### United States
 ### [The United States, Japan, and the European Union file a case against China at the WTO regarding export restrictions on rare earth metals. ](/news/2012/03/13/the-united-states-japan-and-the-european-union-file-a-case-against-china-at-the-wto-regarding-export-restrictions-on-rare-earth-metals.md)
 The US, EU and Japan file a landmark trade case against China over export of rare earths, which are critical to the manufacture of high-tech products.
 

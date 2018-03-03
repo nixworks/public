@@ -3,9 +3,9 @@ Formats: [HTML](2007/08/15/index.html)  [JSON](2007/08/15/index.json)  [XML](200
 
 ## [2007-08-15](/news/2007/08/15/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States declares Iran's Islamic Revolutionary Guard Corps a "specially designated global terrorist," paving the way for increased financial pressure on Iran and its assets abroad. ](/news/2007/08/15/the-united-states-declares-iran-s-islamic-revolutionary-guard-corps-a-specially-designated-global-terrorist-paving-the-way-for-increased.md)
-_Context: Iran, Islamic Revolutionary Guard Corps, U.S._
+_Context: Iran, Islamic Revolutionary Guard Corps, United States_
 
 ##### Bangladesh
 ### [ Bangladesh marks the 32nd anniversary of the assassination of Sheikh Mujibur Rahman, a pioneer of Bengali independence from Pakistan and their first President. ](/news/2007/08/15/bangladesh-marks-the-32nd-anniversary-of-the-assassination-of-sheikh-mujibur-rahman-a-pioneer-of-bengali-independence-from-pakistan-and-th.md)
@@ -65,7 +65,7 @@ _Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kir
 
 ##### Richard Boucher
 ### [ Richard Boucher, the U.S. Assistant Secretary of State, arrives in Pakistan to meet foreign minister Khurshid Mahmud Kasuri and President Pervez Musharraf. ](/news/2007/08/15/richard-boucher-the-u-s-assistant-secretary-of-state-arrives-in-pakistan-to-meet-foreign-minister-khurshid-mahmud-kasuri-and-president-p.md)
-_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S., U.S. Assistant Secretary of State_
+_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State, United States_
 
 ##### Australia
 ### [ Australia's foreign minister, Alexander Downer, confirms Australia will sell uranium and nuclear technology to India. ](/news/2007/08/15/australia-s-foreign-minister-alexander-downer-confirms-australia-will-sell-uranium-and-nuclear-technology-to-india.md)

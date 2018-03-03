@@ -59,9 +59,9 @@ _Context: Kosovo, Parliament of Serbia, United Nations_
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghanistan, Taliban, U.S., redeploys_
+_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
 
 ## [Previous Day...](/news/2007/02/13/index.md)
 

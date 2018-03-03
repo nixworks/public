@@ -23,7 +23,7 @@ _Context: Anwar Ibrahim, Malaysia, by-election in Permatang Pauh, landslide_
 ### [ At least 28 people are killed after a suicide bombing in the province of Diyala, Iraq. ](/news/2008/08/26/at-least-28-people-are-killed-after-a-suicide-bombing-in-the-province-of-diyala-iraq.md)
 _Context: Diyala Governorate, Iraq_
 
-##### U.S.
+##### United States
 ### [ Flight delays hit more than two dozen United States airports because of a communication network problem in a Federal Aviation Administration facility in Atlanta, Georgia. ](/news/2008/08/26/flight-delays-hit-more-than-two-dozen-united-states-airports-because-of-a-communication-network-problem-in-a-federal-aviation-administratio.md)
 Airline operations were expected to return to normal Wednesday after a mysterious failure that severed the communications link at the main facility handling flight-routing plans across the U.S., the...
 

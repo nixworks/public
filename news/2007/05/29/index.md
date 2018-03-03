@@ -13,7 +13,7 @@ _Context: Adam Air, Flight 574, black box_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md)
-_Context: Ami Ayalon, Ehud Barak, Israel, Israeli Prime Minister, Labor Party_
+_Context: Ami Ayalon, Ehud Barak, Israel, Labor Party, Prime Minister_
 
 ##### Zheng Xiaoyu
 ### [ Zheng Xiaoyu, former head of the China's State Food and Drug Administration, is sentenced to death for taking bribes to approve untested medicines as Chinese authorities introduce a recall system for unsafe food products. ](/news/2007/05/29/zheng-xiaoyu-former-head-of-the-china-s-state-food-and-drug-administration-is-sentenced-to-death-for-taking-bribes-to-approve-untested-me.md)
@@ -31,9 +31,9 @@ Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the d
 ### [ Russia successfully tests its new RS-24 ICBM, purportedly designed to defeat present and future anti-missile systems. ](/news/2007/05/29/russia-successfully-tests-its-new-rs-24-icbm-purportedly-designed-to-defeat-present-and-future-anti-missile-systems.md)
 _Context: ICBM, RS-24, Russia, interceptor rockets_
 
-##### U.S.
+##### United States
 ### [ United States health officials quarantine a man who may have exposed passengers on two transatlantic flights to extensively drug resistant tuberculosis. ](/news/2007/05/29/united-states-health-officials-quarantine-a-man-who-may-have-exposed-passengers-on-two-transatlantic-flights-to-extensively-drug-resistant.md)
-_Context: U.S., extensively drug resistant tuberculosis, quarantine, transatlantic flight_
+_Context: United States, extensively drug resistant tuberculosis, quarantine, transatlantic flight_
 
 ##### Lebanese
 ### [ Heavy fighting resumes between the Lebanese army and al Qaeda linked militants at the Nahr el-Bared refugee camp. ](/news/2007/05/29/heavy-fighting-resumes-between-the-lebanese-army-and-al-qaeda-linked-militants-at-the-nahr-el-bared-refugee-camp.md)

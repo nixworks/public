@@ -21,7 +21,7 @@ When Nepalis head to the polls today for the first time since 1999, it will be h
 
 ##### AMIA bombing
 ### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: AMIA bombing, Argentine president, Cristina Fernandez, Hector Timerman, community center, foreign affairs minister_
+_Context: AMIA bombing, Argentine President, Cristina Fernandez, Hector Timerman, community center, foreign affairs minister_
 
 ##### 2016-17 purges in Turkey
 ### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)

@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### November 2015 Paris attacks
 ### [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-ministe.md)
-_Context: Christiane Taubira, Francois Hollande, French, French President, Minister of Justice, November 2015 Paris attacks_
+_Context: Christiane Taubira, France, Francois Hollande, French President, Minister of Justice, November 2015 Paris attacks_
 
 ##### Hilda Heine
 ### [Hilda Heine is elected President of the Marshall Islands by Parliament, becoming the country's first female president, as well as the first woman to serve as president of any Micronesian country. She succeeds outgoing President Casten Nemra, who lost a vote of no confidence on January 26. ](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshall-islands-by-parliament-becoming-the-country-s-first-female-president-as-well-as-the-first.md)

@@ -55,9 +55,9 @@ The move came after President Luiz Inácio Lula da Silva had assured Brazilians 
 ### [ Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
 _Context: 2007 Tour de France, Christian Moreni, Italy, doping_
 
-##### U.S.
+##### United States
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS "Cole". ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
-_Context: $, Sudan, U.S., USS ''Cole''_
+_Context: $, Sudan, USS ''Cole'', United States_
 
 ##### Nurse
 ### [ Nurses in Fiji go on strike over a 5 per cent pay cut imposed on them by the interim government of Frank Bainimarama with teachers and other government workers to join them next week. ](/news/2007/07/25/nurses-in-fiji-go-on-strike-over-a-5-per-cent-pay-cut-imposed-on-them-by-the-interim-government-of-frank-bainimarama-with-teachers-and-othe.md)

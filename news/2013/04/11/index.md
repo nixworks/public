@@ -11,11 +11,11 @@ _Context: memory, sleep_
 ### [Scientist find a rare dinosaur egg with the remaining fossil of an embryo in China. ](/news/2013/04/11/scientist-find-a-rare-dinosaur-egg-with-the-remaining-fossil-of-an-embryo-in-china.md)
 Fast-growing bones point to SUPER-SHORT incubation period
 
-##### French
+##### France
 ### [France's top rabbi, Gilles Bernheim resigns after admitting he does not hold a philosophy degree as claimed and had engaged in plagiarism. ](/news/2013/04/11/france-s-top-rabbi-gilles-bernheim-resigns-after-admitting-he-does-not-hold-a-philosophy-degree-as-claimed-and-had-engaged-in-plagiarism.md)
 After admitting to plagiarism and deception in his academic credentials Rabbi Bernheim decides do step down.
 
-##### U.S.
+##### United States
 ### [In the United States, Maryland Governor Martin O'Malley decides to impose a storm management fee. ](/news/2013/04/11/in-the-united-states-maryland-governor-martin-o-malley-decides-to-impose-a-storm-management-fee.md)
 A controversial new tax for the amount of rain that falls on homes has been imposed by an environmentally-friendly governor.
 
@@ -49,7 +49,7 @@ A powerful US military sea-based radar is now in place to detect any possible mi
 
 ##### Bus
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
-_Context: Irving, Texas, U.S., bus_
+_Context: Irving, Texas, United States, bus_
 
 ##### Tornado
 ### [Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. ](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of-homes-in-the-midwestern-united-states-cutting-off-electricity-in-several-areas-and-prompti.md)
@@ -63,13 +63,13 @@ Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are 
 ### [Maria Tallchief, the first Native American to achieve the rank of prima ballerina at a major ballet company, dies at the age of 88. ](/news/2013/04/11/maria-tallchief-the-first-native-american-to-achieve-the-rank-of-prima-ballerina-at-a-major-ballet-company-dies-at-the-age-of-88.md)
 Ms. Tallchief achieved renown as an early prima ballerina with the New York City Ballet, dancing for George Balanchine and entertaining audiences with her speed, energy and fire.
 
-##### U.S.
+##### United States
 ### [American comedian Jonathan Winters dies at the age of 87 in Montecito, California. ](/news/2013/04/11/american-comedian-jonathan-winters-dies-at-the-age-of-87-in-montecito-california.md)
-_Context: California, Jonathan Winters, Montecito's, U.S., comedian_
+_Context: California, Jonathan Winters, Montecito's, United States, comedian_
 
 ##### Episode
 ### [An episode of the American TV show "Glee" causes controversy by featuring a school shooting scene. ](/news/2013/04/11/an-episode-of-the-american-tv-show-glee-causes-controversy-by-featuring-a-school-shooting-scene.md)
-_Context: Glee, TV show, U.S., episode, school shooting_
+_Context: Glee, TV show, United States, episode, school shooting_
 
 ##### Madonna
 ### [Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. ](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.md)

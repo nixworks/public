@@ -27,7 +27,7 @@ _Context: Three Gorges Dam, Yangtze River_
 ### [Cabinet formation in the Netherlands: Coalition meetings between People's Party for Freedom and Democracy (VVD), Labour Party (PvdA), Democrats 66 (D66) and GreenLeft (GL) fails to form a new Purple government. ](/news/2010/07/20/cabinet-formation-in-the-netherlands-coalition-meetings-between-people-s-party-for-freedom-and-democracy-vvd-labour-party-pvda-democr.md)
 _Context: Cabinet formation in the Netherlands, D66, GreenLeft, Labour Party, Purple government, VVD_
 
-##### U.S.
+##### United States
 ### [Shirley Sherrod, an employee of the United States Department of Agriculture, resigns after a video on the internet surfaced showing her apparently making racist remarks regarding the foreclosure of a farm owned by a white farmer. ](/news/2010/07/20/shirley-sherrod-an-employee-of-the-united-states-department-of-agriculture-resigns-after-a-video-on-the-internet-surfaced-showing-her-appa.md)
 A video has surfaced showing an Agriculture Department official regaling an NAACP audience with a story about how she withheld help to a white farmer facing bankruptcy -- video that now has forced the official to resign
 
@@ -89,7 +89,7 @@ The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very li
 
 ##### ASEAN
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, U.S., Vietnam_
+_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietnam_
 
 ##### United Nations Secretary-General
 ### [The leadership of Secretary-General of the United Nations Ban Ki-moon is attacked. ](/news/2010/07/20/the-leadership-of-secretary-general-of-the-united-nations-ban-ki-moon-is-attacked.md)
@@ -111,7 +111,7 @@ A former North Korean spy who blew up a plane killing 115 people is in Japan to 
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
 _Context: Afghan National Army, Afghan President, Afghanistan, Ban Ki-moon, Hamid Karzai, Kabul, United Nations Secretary-General, police_
 
-##### U.S.
+##### United States
 ### [The United States announces it is to deploy troops along the US-Mexico border in August in what it sees as an effort to improve its security. ](/news/2010/07/20/the-united-states-announces-it-is-to-deploy-troops-along-the-us-mexico-border-in-august-in-what-it-sees-as-an-effort-to-improve-its-security.md)
 US National Guard troops will begin deploying along the US-Mexico border in August to help bolster security, officials say.
 

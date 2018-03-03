@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/3/index.html)  [JSON](2005/05/3/index.json)  [XML](2005/
 
 ##### Senegal
 ### [ Eight people are arrested in Senegal for an advance fee fraud e-mail scam that had fooled at least one American and one Norwegian victim. ](/news/2005/05/3/eight-people-are-arrested-in-senegal-for-an-advance-fee-fraud-e-mail-scam-that-had-fooled-at-least-one-american-and-one-norwegian-victim.md)
-_Context: Norway, Senegal, U.S., advance fee fraud_
+_Context: Norway, Senegal, United States, advance fee fraud_
 
 ##### Mogadishu
 ### [ An explosion in a football stadium in Mogadishu, Somalia kills 15 people when new prime minister Ali Mohammed Ghedi begins his speech. Authorities later state that a security guard accidentally set off a grenade. ](/news/2005/05/3/an-explosion-in-a-football-stadium-in-mogadishu-somalia-kills-15-people-when-new-prime-minister-ali-mohammed-ghedi-begins-his-speech-auth.md)

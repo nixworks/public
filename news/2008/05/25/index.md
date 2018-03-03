@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/25/index.html)  [JSON](2008/05/25/index.json)  [XML](200
 
 ##### Brussels Zaventem International Airport
 ### [ At Brussels Airport, a Boeing 747 cargo airliner from American operator Kalitta Air crashes at the end of the runway during takeoff and breaks in two. All 5 crewmembers survive. ](/news/2008/05/25/at-brussels-airport-a-boeing-747-cargo-airliner-from-american-operator-kalitta-air-crashes-at-the-end-of-the-runway-during-takeoff-and-bre.md)
-_Context: Boeing 747, Brussels Zaventem International Airport, Kalitta Air, U.S., cargo, crashes_
+_Context: Boeing 747, Brussels Zaventem International Airport, Kalitta Air, United States, cargo, crashes_
 
 ##### United Nations Secretary-General
 ### [ The Secretary-General of the United Nations Ban Ki-moon hosts a conference in Myanmar with representatives of 50 nations on how to aid in recovery from Cyclone Nargis. ](/news/2008/05/25/the-secretary-general-of-the-united-nations-ban-ki-moon-hosts-a-conference-in-myanmar-with-representatives-of-50-nations-on-how-to-aid-in-r.md)

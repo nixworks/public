@@ -9,13 +9,13 @@ _Context: Dmitry Medvedev, Russia, Russian President, Vladimir Putin, go to the 
 
 ##### Conrad Black
 ### [ Former media tycoon Conrad Black receives a 78-month jail sentence in the United States for mail fraud and obstruction of justice. ](/news/2007/12/10/former-media-tycoon-conrad-black-receives-a-78-month-jail-sentence-in-the-united-states-for-mail-fraud-and-obstruction-of-justice.md)
-_Context: Conrad Black, U.S., mail fraud, obstruction of justice_
+_Context: Conrad Black, United States, mail fraud, obstruction of justice_
 
 ##### Atlanta Falcons
 ### [ Former Atlanta Falcons quarterback Michael Vick receives a 23-month jail sentence for his involvement in a dogfighting ring. ](/news/2007/12/10/former-atlanta-falcons-quarterback-michael-vick-receives-a-23-month-jail-sentence-for-his-involvement-in-a-dogfighting-ring.md)
 _Context: Atlanta Falcons, Michael Vick, his involvement in a dogfighting ring_
 
-##### U.S.
+##### United States
 ### [ The United States Supreme Court decides that federal district judges have broad discretion to impose what they think are reasonable sentences, even if federal guidelines call for different sentences. The case that they ruled on involved crack cocaine. ](/news/2007/12/10/the-united-states-supreme-court-decides-that-federal-district-judges-have-broad-discretion-to-impose-what-they-think-are-reasonable-sentenc.md)
 The Supreme Court said that federal district judges are free to disagree with sentencing guidelines.
 

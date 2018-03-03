@@ -9,7 +9,7 @@ Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Ve
 
 ##### Italy
 ### [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Italian Prime Minister, Italy, Mario Monti_
+_Context: Italy, Mario Monti, Prime Minister of Italy_
 
 ##### Burma
 ### [The Government of Burma apologises to Buddhist monks injured in a protest outside a copper mine last month. ](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.md)

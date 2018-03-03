@@ -35,9 +35,9 @@ _Context: Christmas tree, North Korea, South Korea_
 ### [The United Nations General Assembly unanimously approves opposition candidate Alassane Ouattara as President of Cte d'Ivoire. ](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.md)
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.
 
-##### French
+##### France
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
-_Context: French, Russia_
+_Context: France, Russia_
 
 ##### Afghanistan
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)

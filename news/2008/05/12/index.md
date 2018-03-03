@@ -3,9 +3,9 @@ Formats: [HTML](2008/05/12/index.html)  [JSON](2008/05/12/index.json)  [XML](200
 
 ## [2008-05-12](/news/2008/05/12/index.md)
 
-##### U.S.
+##### United States
 ### [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md)
-_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma, U.S._
+_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma, United States_
 
 ##### Russia
 ### [ Russia's new Prime Minister Vladimir Putin announces his cabinet. ](/news/2008/05/12/russia-s-new-prime-minister-vladimir-putin-announces-his-cabinet.md)
@@ -17,7 +17,7 @@ _Context: Bolivia, Evo Morales, President of Bolivia, departments, governor, rec
 
 ##### Israel
 ### [ Israeli police raid the Jerusalem city hall to seize documents related to alleged bribes received by Prime Minister Ehud Olmert from businessman Moshe Talansky. ](/news/2008/05/12/israeli-police-raid-the-jerusalem-city-hall-to-seize-documents-related-to-alleged-bribes-received-by-prime-minister-ehud-olmert-from-busine.md)
-_Context: Ehud Olmert, Israel, Israeli Prime Minister, Israeli police, Jerusalem, Moshe Talansky, bribe, city hall_
+_Context: Ehud Olmert, Israel, Israel Police, Jerusalem, Moshe Talansky, Prime Minister, bribe, city hall_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez nationalises steel firm Ternium-Sidor, which is mainly owned by Argentina's Techint. ](/news/2008/05/12/venezuelan-president-hugo-chavez-nationalises-steel-firm-ternium-sidor-which-is-mainly-owned-by-argentina-s-techint.md)

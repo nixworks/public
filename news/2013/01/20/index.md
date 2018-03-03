@@ -39,7 +39,7 @@ A teenager is arrested in New Mexico over the fatal shootings of two adults and 
 ### [The United States Department of State issues a travel warning to United States citizens for the country of Algeria in response to the In Amenas hostage crisis. ](/news/2013/01/20/the-united-states-department-of-state-issues-a-travel-warning-to-united-states-citizens-for-the-country-of-algeria-in-response-to-the-in-ama.md)
 The State Department is warning American citizens about the risks of travel to Algeria and is authorizing the families of State Department staff to leave the country if they choose.
 
-##### French
+##### France
 ### [A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by the cruise ship MV "Orion". ](/news/2013/01/20/a-french-sailor-who-had-spent-three-days-adrift-in-a-life-raft-in-the-southern-ocean-off-the-coast-of-tasmania-in-australia-is-rescued-by-th.md)
 A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by a cruise ship.
 

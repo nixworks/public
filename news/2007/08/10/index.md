@@ -7,9 +7,9 @@ Formats: [HTML](2007/08/10/index.html)  [JSON](2007/08/10/index.json)  [XML](200
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
 _Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_
 
-##### U.S.
+##### United States
 ### [ Envoys from the United States, European Union and Russia visit Serbia and Kosovo seeking a solution to the Kosovo issue. ](/news/2007/08/10/envoys-from-the-united-states-european-union-and-russia-visit-serbia-and-kosovo-seeking-a-solution-to-the-kosovo-issue.md)
-_Context: European Union, Kosovo, Russia, Serbia, U.S._
+_Context: European Union, Kosovo, Russia, Serbia, United States_
 
 ##### East Timor
 ### [ East Timor faces a humanitarian crisis as hundreds of houses are burnt down near Viqueque and affected villagers flee to the mountains. ](/news/2007/08/10/east-timor-faces-a-humanitarian-crisis-as-hundreds-of-houses-are-burnt-down-near-viqueque-and-affected-villagers-flee-to-the-mountains.md)
@@ -45,7 +45,7 @@ _Context: Adriatic coast, Croatia, Serbia, tourist_
 
 ##### President
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
-_Context: Argentine president, Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Bolivia, Tarija, Bolivia_
+_Context: Argentine President, Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Bolivia, Tarija, Bolivia_
 
 ##### Thabo Mbeki
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
@@ -55,9 +55,9 @@ _Context: AIDS, Nozizwe Madlala-Routledge, President of South Africa, Spain, Tha
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)
 _Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
 
-##### U.S.
+##### United States
 ### [ United States share markets finish slightly lower as a $38 billion injection from the Federal Reserve helps to stabilise the situation. ](/news/2007/08/10/united-states-share-markets-finish-slightly-lower-as-a-38-billion-injection-from-the-federal-reserve-helps-to-stabilise-the-situation.md)
-_Context: $, Federal Reserve, U.S._
+_Context: $, Federal Reserve, United States_
 
 ##### Mississippi River
 ### [ Another body is found in the Mississippi River as a result of the I-35W Mississippi River bridge collapse in Minneapolis, Minnesota. ](/news/2007/08/10/another-body-is-found-in-the-mississippi-river-as-a-result-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.md)

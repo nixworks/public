@@ -37,7 +37,7 @@ _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_
 
 ##### Murder-suicide
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Casper College, Casper, Wyoming, U.S., murder-suicide_
+_Context: Casper College, Casper, Wyoming, United States, murder-suicide_
 
 ##### Freight train
 ### [A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. ](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerbach-station-germany-after-a-collision-with-the-railway-platform-there-were-no-reports-of-i.md)

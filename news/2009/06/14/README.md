@@ -3,9 +3,9 @@ Formats: [HTML](2009/06/14/index.html)  [JSON](2009/06/14/index.json)  [XML](200
 
 ## [2009-06-14](/news/2009/06/14/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ Prime Minister of Israel Binyamin Netanyahu states he can visualise a Palestinian state, under certain conditions. ](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.md)
-_Context: Binyamin Netanyahu, Israeli Prime Minister, Palestinian state_
+_Context: Binyamin Netanyahu, Palestinian state, Prime Minister_
 
 ##### United Nations
 ### [ United Nations barges carrying aid and their Sudanese People's Liberation Army escort are attacked by tribesmen on the Sobat River, Sudan. ](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.md)

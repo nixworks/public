@@ -9,7 +9,7 @@ _Context: Somalia, amputee_
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
-_Context: Arizona, U.S._
+_Context: Arizona, United States_
 
 ##### Pakistan
 ### [ A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. ](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.md)
@@ -23,7 +23,7 @@ _Context: India, Maoist, Naxalite_
 ### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
 _Context: Brazil, Canal Livre, Wallace Souza_
 
-##### French
+##### France
 ### [ French police arrest a researcher at the European Organization for Nuclear Research (CERN) for suspected links to Al-Qaeda. ](/news/2009/10/9/french-police-arrest-a-researcher-at-the-european-organization-for-nuclear-research-cern-for-suspected-links-to-al-qaeda.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
@@ -35,7 +35,7 @@ Vietnam jailed six people on Friday for advocating democracy after similar sente
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
 _Context: Philippines_
 
-##### U.S.
+##### United States
 ### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
 The Nobel Peace Prize, which President Obama described as a “call to action,” was an extraordinary recognition for so early in a presidential term and a potential political liability at home.
 

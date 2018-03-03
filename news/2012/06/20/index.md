@@ -23,7 +23,7 @@ Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours a
 ### [Fund for Peace releases its 2012 Failed States Index, with Libya, Japan, and Syria scoring the largest increases since the previous study. ](/news/2012/06/20/fund-for-peace-releases-its-2012-failed-states-index-with-libya-japan-and-syria-scoring-the-largest-increases-since-the-previous-study.md)
 _Context: Failed States Index, Fund for Peace, Japan, Syria_
 
-##### U.S.
+##### United States
 ### [The United States Congress suggests to extend its military presence in Kuwait. ](/news/2012/06/20/the-united-states-congress-suggests-to-extend-its-military-presence-in-kuwait.md)
 Congressional report says more troops should be based in Gulf state to respond to sudden conflicts in oil-rich region.
 

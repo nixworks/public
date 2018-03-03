@@ -3,15 +3,15 @@ Formats: [HTML](2005/01/21/index.html)  [JSON](2005/01/21/index.json)  [XML](200
 
 ## [2005-01-21](/news/2005/01/21/index.md)
 
-##### French
+##### France
 ### [ France extradites Holger Pfahls, former German deputy defence minister suspected of corruption. ](/news/2005/01/21/france-extradites-holger-pfahls-former-german-deputy-defence-minister-suspected-of-corruption.md)
-_Context: French, Holger Pfahls, anti-corruption, extradition_
+_Context: France, Holger Pfahls, anti-corruption, extradition_
 
 ##### Kursk submarine
 ### [ The relatives of victims of Kursk submarine disaster appeal to the European Court of Human Rights for an additional investigation into the catastrophe. ](/news/2005/01/21/the-relatives-of-victims-of-kursk-submarine-disaster-appeal-to-the-european-court-of-human-rights-for-an-additional-investigation-into-the.md)
 The Moscow Times offers everything you need to know about Russia: breaking news, features, analysis, opinion, cultural events and tips.
 
-##### French
+##### France
 ### [ In France, teachers and civil servants join the growing numbers of strikers to protest over job cuts in the public sector. ](/news/2005/01/21/in-france-teachers-and-civil-servants-join-the-growing-numbers-of-strikers-to-protest-over-job-cuts-in-the-public-sector.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

@@ -15,7 +15,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Changes:
 
-1. [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md) _2018-03-01 03:56:33 (First version)_
+1. [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md) _2018-03-02 03:56:14 (First version)_
 1. [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md) _(Current version)_
 
 ### Related:

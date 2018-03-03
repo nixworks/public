@@ -13,11 +13,11 @@ Hundreds of youth took to the streets, burning shops and cars and clashing with 
 
 ##### Government
 ### [ The government of the People's Republic of China lodges a protest for a meeting between French President Nicolas Sarkozy and the Dalai Lama in Poland. ](/news/2008/12/7/the-government-of-the-people-s-republic-of-china-lodges-a-protest-for-a-meeting-between-french-president-nicolas-sarkozy-and-the-dalai-lama.md)
-_Context: China, Dalai Lama, French, French President, Nicolas Sarkozy, Poland, government_
+_Context: China, Dalai Lama, France, French President, Nicolas Sarkozy, Poland, government_
 
 ##### Mary Jo Kilroy
 ### [ Mary Jo Kilroy wins the final outstanding United States House of Representatives seat in the 2008 general elections by capturing the 15th congressional district of Ohio. This translates to an overall gain of 21 seats for the Democratic Party in the House. ](/news/2008/12/7/mary-jo-kilroy-wins-the-final-outstanding-united-states-house-of-representatives-seat-in-the-2008-general-elections-by-capturing-the-15th-c.md)
-_Context: 2008 general elections, Democrat, Mary Jo Kilroy, Ohio, U.S., United States House of Representatives, capturing the 15th congressional district_
+_Context: 2008 general elections, Democrat, Mary Jo Kilroy, Ohio, United States, United States House of Representatives, capturing the 15th congressional district_
 
 ## [Previous Day...](/news/2008/12/6/index.md)
 

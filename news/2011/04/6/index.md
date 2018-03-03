@@ -25,7 +25,7 @@ Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse
 
 ##### Found guilty
 ### [The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. ](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, found guilty_
+_Context: Prime Minister of Italy, Silvio Berlusconi, found guilty_
 
 ##### Ecuador
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)

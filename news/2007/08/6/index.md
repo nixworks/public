@@ -3,7 +3,7 @@ Formats: [HTML](2007/08/6/index.html)  [JSON](2007/08/6/index.json)  [XML](2007/
 
 ## [2007-08-6](/news/2007/08/6/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas meet to discuss the establishment of a Palestinian state. ](/news/2007/08/6/the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-meet-to-discuss-the-establishment-of.md)
 Israeli Prime Minister Ehud Olmert met Palestinian President Mahmoud Abbas on Monday, in the West Bank for the first time, and told him he wanted to restart negotiations soon on establishing a Palestinian state.
 

@@ -13,7 +13,7 @@ John Yettaw, the American who was jailed for breaching the house arrest of Aung 
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. ](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### Prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)
@@ -37,7 +37,7 @@ _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World W
 
 ##### Colombia
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: Colombia, U.S._
+_Context: Colombia, United States_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)

@@ -15,9 +15,9 @@ _Context: Juan Carlos Figarella, Venezuela_
 ### [Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. ](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.md)
 _Context: Hurricane Katrina, New Orleans Police Department_
 
-##### French
+##### France
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
-_Context: French, Islamist_
+_Context: France, Islamist_
 
 ##### ASEAN Summit
 ### [The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. ](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.md)

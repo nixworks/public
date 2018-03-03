@@ -25,7 +25,7 @@ Four people, two of them police, are killed in the Kenyan capital Nairobi by a c
 
 ##### Russia
 ### [Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/russia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-central-african-republic-s-former-presi.md)
-_Context: Central African Republic, Chinese, Francois Bozize, French, Russia, U.N., U.S._
+_Context: Central African Republic, Chinese, France, Francois Bozize, Russia, U.N., United States_
 
 ##### Egypt
 ### [An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/an-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-exploded.md)

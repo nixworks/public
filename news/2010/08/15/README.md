@@ -75,7 +75,7 @@ _Context: Baghdad, Iraq, Sadr City_
 ### [General David Petraeus expresses doubt during an interview on American television that the United States will be able to definitely begin withdrawing from Afghanistan in 2011. ](/news/2010/08/15/general-david-petraeus-expresses-doubt-during-an-interview-on-american-television-that-the-united-states-will-be-able-to-definitely-begin-wi.md)
 The new US commander in Afghanistan, Gen David Petraeus, says US forces will only begin withdrawing in 2011 if conditions allow.
 
-##### French
+##### France
 ### [Thousands are evacuated from the French pilgrimage site of Lourdes due to a bomb threat; it later reopens. ](/news/2010/08/15/thousands-are-evacuated-from-the-french-pilgrimage-site-of-lourdes-due-to-a-bomb-threat-it-later-reopens.md)
 A&#x20;bomb&#x20;scare&#x20;forced&#x20;the&#x20;evacuation&#x20;of&#x20;Roman&#x20;Catholic&#x20;shrines&#x20;at&#x20;Lourdes&#x20;in&#x20;France&#x20;on&#x20;Sunday&#x20;as&#x20;some&#x20;30,000&#x20;worshippers&#x20;celebrated&#x20;the&#x20;Feast&#x20;of&#x20;the&#x20;Assumption.&#x20;Police&#x20...
 
@@ -87,9 +87,9 @@ Mexican television network Televisa is targeted in explosive attacks in two diff
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
 _Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkish_
 
-##### U.S.
+##### United States
 ### [A United States missile attack on a militant compound in the village of Essori near Miranshah in the North Waziristan area of Pakistan kills 13 people. ](/news/2010/08/15/a-united-states-missile-attack-on-a-militant-compound-in-the-village-of-essori-near-miranshah-in-the-north-waziristan-area-of-pakistan-kills.md)
-_Context: Miranshah, North Waziristan, Pakistan, Taliban, U.S._
+_Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
 
 ##### Throws a shoe
 ### [A policeman hurls a shoe towards the Chief Minister for Jammu and Kashmir, Omar Abdullah, during the Indian Independence Day function in Srinagar amid protests against Indian rule; 15 policemen are later suspended. ](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-minister-for-jammu-and-kashmir-omar-abdullah-during-the-indian-independence-day-function-in-sri.md)

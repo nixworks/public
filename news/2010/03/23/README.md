@@ -27,7 +27,7 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 ### [A man in Nanping, China, stabs and kills eight children, and wounds another five at an elementary school. ](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.md)
 _Context: China, Nanping_
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama signs the health care reform bill into law. ](/news/2010/03/23/united-states-president-barack-obama-signs-the-health-care-reform-bill-into-law.md)
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.
 
@@ -63,9 +63,9 @@ The man was shot by fellow soldiers along the Gaza border in an operation aimed 
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
 The head of an outlawed Pakistan-based militant group blamed for the 2008 attack on the Indian commercial capital of Mumbai urged supporters on Tuesday to wage holy war against &quot;oppressors&quot;.
 
-##### U.S.
+##### United States
 ### [United States issues new warnings of Al-Qaeda threat to attack ships off coast of Yemen ](/news/2010/03/23/united-states-issues-new-warnings-of-al-qaeda-threat-to-attack-ships-off-coast-of-yemen.md)
-_Context: U.S., Yemen, al-Qaeda_
+_Context: United States, Yemen, al-Qaeda_
 
 ##### Calcutta
 ### [A fire tears through a combined residential and office building in Calcutta, India, killing 24 people, including two who leapt to their deaths. ](/news/2010/03/23/a-fire-tears-through-a-combined-residential-and-office-building-in-calcutta-india-killing-24-people-including-two-who-leapt-to-their-deat.md)

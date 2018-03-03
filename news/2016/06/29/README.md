@@ -31,7 +31,7 @@ A man who shot at a group of Muslims on their way to a mosque has been charged. 
 ### [Antoine Deltour and Raphael Halet, two whistleblowers who revealed the Luxembourg Leaks financial scandal, are found guilty of leaking the documents and are given a 12 and nine month suspended sentence and fined EUR1,500 and EUR1,000 respectively, while Edouard Perrin, the journalist who was given the leaks, is acquitted of all charges. ](/news/2016/06/29/antoine-deltour-and-raphael-halet-two-whistleblowers-who-revealed-the-luxembourg-leaks-financial-scandal-are-found-guilty-of-leaking-the-d.md)
 Two whistleblowers in &quot;Luxleaks&quot; tax scandal get suspended jail terms as journalist on trial is acquitted
 
-##### Mich.
+##### Michigan
 ### [A prosecutor in Michigan, United States, is considering whether the words of an African grey parrot could be used to try the woman accused of killing the pet parrot's owner. ](/news/2016/06/29/a-prosecutor-in-michigan-united-states-is-considering-whether-the-words-of-an-african-grey-parrot-could-be-used-to-try-the-woman-accused-o.md)
 A prosecutor is considering whether Bud, a 19-year-old African grey parrot, could be used in trial of woman accused of shooting his owner, Martin Duram
 

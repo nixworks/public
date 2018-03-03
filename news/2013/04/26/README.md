@@ -25,7 +25,7 @@ _Context: Beth Israel Deaconess Medical Center, Boston Marathon bombings, Dzhokh
 
 ##### White House
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: Syria, U.S., White House_
+_Context: Syria, United States, White House_
 
 ##### South Korea
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)

@@ -13,7 +13,7 @@ _Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, Sunni Muslim_
 
 ##### Italy
 ### [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md)
-_Context: 2013 Italian parliamentary election, Italian Prime Minister, Italy, Mario Monti_
+_Context: 2013 Italian parliamentary election, Italy, Mario Monti, Prime Minister of Italy_
 
 ##### US President
 ### [US President Barack Obama says he is "modestly optimistic" that a deal to avoid the fiscal cliff is possible, after a last-ditch White House meeting. ](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.md)

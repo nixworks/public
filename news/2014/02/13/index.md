@@ -53,7 +53,7 @@ _Context: Met Office, Winter storms_
 
 ##### Facebook
 ### [Facebook users in the United States are now allowed to customize their gender. ](/news/2014/02/13/facebook-users-in-the-united-states-are-now-allowed-to-customize-their-gender.md)
-_Context: Facebook, U.S._
+_Context: Facebook, United States_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -71,9 +71,9 @@ _Context: Luxor_
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
 _Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
 
-##### U.S.
+##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)

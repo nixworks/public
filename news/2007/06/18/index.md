@@ -37,7 +37,7 @@ _Context: Alan Johnston, BBC, Hamas, Mahmoud al-Zahar, Palestinian Army of Islam
 
 ##### European Union
 ### [ The European Union and United States restore foreign aid to the Palestinian Authority. ](/news/2007/06/18/the-european-union-and-united-states-restore-foreign-aid-to-the-palestinian-authority.md)
-_Context: European Union, Palestinian Authority, U.S., foreign aid_
+_Context: European Union, Palestinian Authority, United States, foreign aid_
 
 ##### Flood
 ### [ Floods kill four people in north Texas. ](/news/2007/06/18/floods-kill-four-people-in-north-texas.md)

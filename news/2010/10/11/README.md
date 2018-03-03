@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/11/index.html)  [JSON](2010/10/11/index.json)  [XML](201
 
 ##### Surgeon
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
+_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
 
 ##### Government of Bolivia
 ### [The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. ](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.md)
@@ -49,7 +49,7 @@ _Context: Chinese, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affair
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
-_Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Palestine_
+_Context: Benjamin Netanyahu, Israel, Palestine, Prime Minister_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Paula forms near Honduras and is expected to become a hurricane by Tuesday. ](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.md)

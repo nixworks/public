@@ -21,7 +21,7 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 
 ##### South Korea
 ### [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md)
-_Context: French, South Korea, ancient Korean royal books_
+_Context: France, South Korea, ancient Korean royal books_
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)

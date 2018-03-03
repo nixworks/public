@@ -11,7 +11,7 @@ _Context: Maria Luis Albuquerque, Vitor Gaspar_
 ### [Former Chilean president Michelle Bachelet gets a landslide victory, becoming the presidential candidate of the "Nueva Mayoria" centre-left coalition for the next November elections. Pablo Longueira, former Minister of Economy, wins the centre-right primary. ](/news/2013/07/1/former-chilean-president-michelle-bachelet-gets-a-landslide-victory-becoming-the-presidential-candidate-of-the-nueva-mayoraa-centre-left.md)
 _Context: Michelle Bachelet, Pablo Longueira, president_
 
-##### U.S.
+##### United States
 ### [Former United States spy agency contractor Edward Snowden applies for political asylum in Russia. ](/news/2013/07/1/former-united-states-spy-agency-contractor-edward-snowden-applies-for-political-asylum-in-russia.md)
 Former U.S. spy agency contractor Edward Snowden has applied for political asylum in Russia, a Russian immigration source close to the matter said on Monday.
 
@@ -19,7 +19,7 @@ Former U.S. spy agency contractor Edward Snowden has applied for political asylu
 ### [Croatia becomes the 28th member of the European Union. ](/news/2013/07/1/croatia-becomes-the-28th-member-of-the-european-union.md)
 Tens of thousands of Croatians cheer the country&#039;s entry into the European Union.
 
-##### U.S.
+##### United States
 ### [The United States commemorates the 150th anniversary of the Battle of Gettysburg, a decisive battle in the American Civil War. ](/news/2013/07/1/the-united-states-commemorates-the-150th-anniversary-of-the-battle-of-gettysburg-a-decisive-battle-in-the-american-civil-war.md)
 Thousands of visitors attended dozens of events in and around historic Gettysburg, Pa., to mark the 150th anniversary of the decisive Civil War battle.
 

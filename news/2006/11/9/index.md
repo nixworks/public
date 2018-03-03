@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times
 
-##### French
+##### France
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: French, M51_
+_Context: France, M51_
 
 ##### Mahathir Mohamad
 ### [ Dr Mahathir Mohamad, the former Prime Minister of Malaysia, is hospitalized following a heart attack. ](/news/2006/11/9/dr-mahathir-mohamad-the-former-prime-minister-of-malaysia-is-hospitalized-following-a-heart-attack.md)
@@ -45,7 +45,7 @@ _Context: Thailand_
 
 ##### Ken Mehlman
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, Republican, Republican National Committee, U.S._
+_Context: Ken Mehlman, Republican, Republican National Committee, United States_
 
 ## [Previous Day...](/news/2006/11/8/index.md)
 

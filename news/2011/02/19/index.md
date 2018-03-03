@@ -31,7 +31,7 @@ _Context: Madagascar, Marc Ravalomanana, President, South Africa_
 ### [Cuba frees Ivan Hernandez, a dissident who refused to go into exile in Spain. ](/news/2011/02/19/cuba-frees-ivan-hernandez-a-dissident-who-refused-to-go-into-exile-in-spain.md)
 The Cuban government frees a jailed dissident journalist who refused to go into exile in Spain as a condition for release.
 
-##### U.S.
+##### United States
 ### [The United States vetoes a draft of a U.N. Security Council resolution critical of Israeli settlements in the West Bank. ](/news/2011/02/19/the-united-states-vetoes-a-draft-of-a-u-n-security-council-resolution-critical-of-israeli-settlements-in-the-west-bank.md)
 The United States on Friday vetoed a draft U.N. Security Council resolution condemning Israeli settlements on Palestinian territory after the Palestinians refused to withdraw the Arab-drafted text.
 
@@ -47,7 +47,7 @@ _Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Fa
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)
 _Context: Dresden, tear gas, water cannon_
 
-##### U.S.
+##### United States
 ### [Pirates seize a yacht with four Americans off the coast of Oman. ](/news/2011/02/19/pirates-seize-a-yacht-with-four-americans-off-the-coast-of-oman.md)
 Fifty-eight foot American-owned yacht seized off the coast of Oman with four US citizens on board, officials say.
 

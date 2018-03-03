@@ -27,7 +27,7 @@ New figures show there will be 4,000 fewer Indian nationals coming to Australia 
 
 ##### Taiwan
 ### [ Taiwan announces plans to reimpose a ban on certain U.S. beef products amid concerns over mad cow disease. ](/news/2009/12/30/taiwan-announces-plans-to-reimpose-a-ban-on-certain-u-s-beef-products-amid-concerns-over-mad-cow-disease.md)
-_Context: Taiwan, U.S., mad cow disease_
+_Context: Taiwan, United States, mad cow disease_
 
 ##### Nigeria
 ### [ The death toll in clashes in the northern Nigerian state of Bauchi rises to 70, with 1,000 displaced. ](/news/2009/12/30/the-death-toll-in-clashes-in-the-northern-nigerian-state-of-bauchi-rises-to-70-with-1-000-displaced.md)
@@ -53,9 +53,9 @@ Hundreds of relatives of prisoners in a Mexican jail have protested the expected
 ### [ Four Canadian soldiers and a journalist, Michelle Lang of the "Calgary Herald, "are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanistan.md)
 Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in a bomb blast Wednesday in Afghanistan.
 
-##### U.S.
+##### United States
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: Afghanistan, Blackwater Worldwide, CIA, Khost, U.S., suicide bomb_
+_Context: Afghanistan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
 
 ## [Previous Day...](/news/2009/12/29/index.md)
 

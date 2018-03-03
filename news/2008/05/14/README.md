@@ -25,7 +25,7 @@ NATO announced a sharp increase in insurgent attacks in east Afghanistan on Wedn
 
 ##### Israel
 ### [ The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md)
-_Context: Ehud Olmert, Hamas, Israel, Israeli Prime Minister_
+_Context: Ehud Olmert, Hamas, Israel, Prime Minister_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. ](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.md)

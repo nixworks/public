@@ -53,7 +53,7 @@ Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowi
 
 ##### Africa
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: Africa, Bill Clinton, DR Congo, Hillary Clinton, U.S., United States Secretary of State_
+_Context: Africa, Bill Clinton, DR Congo, Hillary Clinton, United States, United States Secretary of State_
 
 ##### Joseph Msika
 ### [ At the funeral of Vice-President Joseph Msika, President Robert Mugabe lashes out at "racist" western countries, saying "Zimbabwe need not be tied to any one corner of the world, least of all, to a corner of former imperialist and racist colonisers". ](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.md)

@@ -61,7 +61,7 @@ President Mary McAleese is to convene a meeting of the Council of State next Wed
 
 ##### Marseille
 ### [ A second person dies from the collapse of a stage being built in Marseille for Madonna's forthcoming tour to France. ](/news/2009/07/17/a-second-person-dies-from-the-collapse-of-a-stage-being-built-in-marseille-for-madonna-s-forthcoming-tour-to-france.md)
-_Context: French, Madonna, Marseille_
+_Context: France, Madonna, Marseille_
 
 ##### Pope
 ### [ Pope Benedict XVI slips in the bath in his mountain chalet and is treated for a fractured wrist in Aosta, Italy. ](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.md)

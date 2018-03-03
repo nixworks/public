@@ -23,9 +23,9 @@ _Context: Cambodian People's Party_
 ### [ The United States Supreme Court rules that the Environmental Protection Agency has the authority to regulate the emission of greenhouse gases and must do so unless it can provide some scientific reason proving otherwise. ](/news/2007/04/2/the-united-states-supreme-court-rules-that-the-environmental-protection-agency-has-the-authority-to-regulate-the-emission-of-greenhouse-gas.md)
 The Supreme Court’s ruling that the Clean Air Act expressly authorizes the E.P.A. to regulate carbon dioxide emissions was a strong rebuke to the Bush administration.
 
-##### U.S.
+##### United States
 ### [ The United States and South Korea reach an agreement on bilateral free trade, concluding ten months of negotiations. ](/news/2007/04/2/the-united-states-and-south-korea-reach-an-agreement-on-bilateral-free-trade-concluding-ten-months-of-negotiations.md)
-_Context: South Korea, U.S., agreement, free trade_
+_Context: South Korea, United States, agreement, free trade_
 
 ##### University of Florida
 ### [ The University of Florida Gators defeat the Ohio State Buckeyes 84-75 in the 2007 NCAA Men's Division I Basketball Tournament championship game, becoming the first school in Division I history to win both the men's college basketball and college football titles in the same academic year. ](/news/2007/04/2/the-university-of-florida-gators-defeat-the-ohio-state-buckeyes-84-75-in-the-2007-ncaa-men-s-division-i-basketball-tournament-championship.md)

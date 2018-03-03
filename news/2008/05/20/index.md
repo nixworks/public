@@ -13,7 +13,7 @@ _Context: Liu Chao-shiuan, Ma Ying-jeou, Premier, President, Republic of China (
 
 ##### Strike
 ### [ A 24-hour strike by employees of the National Railway Company of Belgium ends rail services in Belgium and to France, Germany and the Netherlands. ](/news/2008/05/20/a-24-hour-strike-by-employees-of-the-national-railway-company-of-belgium-ends-rail-services-in-belgium-and-to-france-germany-and-the-nethe.md)
-_Context: Belgium, French, German, National Railway Company of Belgium, strike, the Netherlands_
+_Context: Belgium, France, German, National Railway Company of Belgium, strike, the Netherlands_
 
 ##### 2008
 ### [ United States presidential election, 2008: Voters in Oregon and Kentucky go to the polls to vote in primary elections. ](/news/2008/05/20/united-states-presidential-election-2008-voters-in-oregon-and-kentucky-go-to-the-polls-to-vote-in-primary-elections.md)

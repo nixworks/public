@@ -9,7 +9,7 @@ BELGRADE (AFP) - Serbia&#039;s ruling centre-right Serbian Progressive Party (SN
 
 ##### Crimean referendum, 2014
 ### [Voters in Crimea vote overwhelmingly to leave Ukraine and rejoin Russia. Ukraine, the European Union, and the United States condemn the referendum, which did not give voters the option of the status quo. ](/news/2014/03/16/voters-in-crimea-vote-overwhelmingly-to-leave-ukraine-and-rejoin-russia-ukraine-the-european-union-and-the-united-states-condemn-the-refe.md)
-_Context: Crimea, Crimean referendum, 2014, European Union, Russian-controlled Crimea, U.S., leave Ukraine_
+_Context: Crimea, Crimean referendum, 2014, European Union, Russian-controlled Crimea, United States, leave Ukraine_
 
 ## [Previous Day...](/news/2014/03/15/index.md)
 

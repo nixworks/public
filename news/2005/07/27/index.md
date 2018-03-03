@@ -3,13 +3,13 @@ Formats: [HTML](2005/07/27/index.html)  [JSON](2005/07/27/index.json)  [XML](200
 
 ## [2005-07-27](/news/2005/07/27/index.md)
 
-##### French
+##### France
 ### [ Other French court in Bonneville finds 13 people and companies guilty of manslaughter for the March 24 1999 Mont Blanc tunnel fire. Gerard Roncoli, the French head of security, received six months in jail and 24 months of suspended sentence ](/news/2005/07/27/other-french-court-in-bonneville-finds-13-people-and-companies-guilty-of-manslaughter-for-the-march-24-1999-mont-blanc-tunnel-fire-gerard.md)
-_Context: 1999, Bonneville, French, March 24, Mont Blanc tunnel fire, manslaughter by gross negligence_
+_Context: 1999, Bonneville, France, March 24, Mont Blanc tunnel fire, manslaughter by gross negligence_
 
-##### French
+##### France
 ### [ In France, court in Angers sentences 62 members of a child sex ring to up to 28 years in jail. Trial lasted 5 months ](/news/2005/07/27/in-france-court-in-angers-sentences-62-members-of-a-child-sex-ring-to-up-to-28-years-in-jail-trial-lasted-5-months.md)
-_Context: Angers, French_
+_Context: Angers, France_
 
 ##### Spain
 ### [ In Spain, police arrests 6 suspected members of the Basque separatist group ETA ](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.md)

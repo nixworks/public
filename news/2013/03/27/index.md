@@ -61,7 +61,7 @@ _Context: Acropolis, Athens, Greece_
 
 ##### Government
 ### [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md)
-_Context: French, Government, January 2013, Mali, Operation Serval_
+_Context: France, Government, January 2013, Mali, Operation Serval_
 
 ##### Thailand
 ### [The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-long-insurgency.md)

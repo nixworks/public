@@ -23,7 +23,7 @@ Court said climate change regulation is the business of the federal government, 
 ### [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-britishairish-council-including-talks-with-nick-clegg-the-deputy.md)
 Taoiseach Enda Kenny has insisted that a new European Union bailout for Greece, which is being negotiated in Luxembourg today&hellip;
 
-##### French
+##### France
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)
 The French authorities say they are preparing to extradite the former Panamanian military ruler, Manuel Noriega, back to Panama.
 

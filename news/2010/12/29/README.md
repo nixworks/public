@@ -31,9 +31,9 @@ _Context: Cambodia, MP, Thailand_
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
 _Context: Africa, Cote d'Ivoire, Laurent Gbagbo, President_
 
-##### U.S.
+##### United States
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, U.S., visa-free travel_
+_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
 
 ##### Rabbi
 ### [An open letter from about 30 rabbi wives causes controversy due to its call for Israeli girls not to date Arabs or work in places that employ non-jews, three weeks after a similar letter urged Jews not to engage in property trade with non-Jews. ](/news/2010/12/29/an-open-letter-from-about-30-rabbi-wives-causes-controversy-due-to-its-call-for-israeli-girls-not-to-date-arabs-or-work-in-places-that-emplo.md)

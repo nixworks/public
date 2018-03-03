@@ -11,9 +11,9 @@ _Context: British, Fundamental Physics Prize, Higgs boson, Large Hadron Collider
 ### [Hugo Chvez, the President of Venezuela, undergoes cancer surgery in Cuba. ](/news/2012/12/11/hugo-chavez-the-president-of-venezuela-undergoes-cancer-surgery-in-cuba.md)
 _Context: Cuba, Hugo Chvez, President, cancer surgery_
 
-##### Mich.
+##### Michigan
 ### [Michigan's state government passes right to work legislation, making Michigan the 24th state and the most highly unionized state in the US to have such laws. Thousands of union employees protest outside the Michigan State Capitol in Lansing. ](/news/2012/12/11/michigan-s-state-government-passes-right-to-work-legislation-making-michigan-the-24th-state-and-the-most-highly-unionized-state-in-the-us-t.md)
-_Context: Lansing, Mich., Michigan State Capitol, right to work_
+_Context: Lansing, Michigan, Michigan State Capitol, right to work_
 
 ##### Prime Minister of Mali
 ### [The Prime Minister of Mali Cheick Modibo Diarra resigns himself and his government on television after his arrest hours earlier by leaders of the recent Malian coup d'tat. ](/news/2012/12/11/the-prime-minister-of-mali-cheick-modibo-diarra-resigns-himself-and-his-government-on-television-after-his-arrest-hours-earlier-by-leaders-o.md)
@@ -51,7 +51,7 @@ HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing
 ### [The UK government sets out proposals to legalise gay marriages in England and Wales. The Church of England and Church in Wales will be banned from conducting wedding ceremonies for same-sex couples, but other religious organisations will be allowed to conduct gay weddings if they wish. ](/news/2012/12/11/the-uk-government-sets-out-proposals-to-legalise-gay-marriages-in-england-and-wales-the-church-of-england-and-church-in-wales-will-be-banne.md)
 The Church of England and Church in Wales will be banned in law from offering same-sex marriages, the government announces.
 
-##### U.S.
+##### United States
 ### [Schools in the United States plan to drop literature classics such as "To Kill a Mockingbird" and "The Catcher in the Rye" from their curriculum; children there will instead learn from "informational texts" such as "Recommended Levels of Insulation" by the US Environmental Protection Agency and the "Invasive Plant Inventory" by California's Invasive Plant Council in order to be better prepared for workplace reading material. ](/news/2012/12/11/schools-in-the-united-states-plan-to-drop-literature-classics-such-as-to-kill-a-mockingbird-and-the-catcher-in-the-rye-from-their-curric.md)
 Schools in America are to drop classic books such as Harper Lee&#039;s To Kill a Mockingbird and JD Salinger&#039;s Catcher in the Rye from their curriculum in favour of &#039;informational texts&#039;.
 

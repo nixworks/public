@@ -11,7 +11,7 @@ US secretary of state meets Russian foreign minister at ambassador&#x27;s reside
 ### [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-a-struggle-for-the-upcoming-presidential-election.md)
 _Context: Joko Widodo, PDIP, is now president_
 
-##### U.S.
+##### United States
 ### [The United States announces plans to relinquish remaining controls of the Internet following revelations of National Security Agency surveillance last year. ](/news/2014/03/14/the-united-states-announces-plans-to-relinquish-remaining-controls-of-the-internet-following-revelations-of-national-security-agency-surveil.md)
 Move comes after revelations about National Security Agency surveillance
 

@@ -21,7 +21,7 @@ _Context: England, Liverpool, convicted, homeless people_
 
 ##### Chinese
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: Chinese, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, U.S., Vietnam, military presence_
+_Context: Chinese, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
 
 ##### North Korea
 ### [North Korea issues an "ultimatum" to South Korea, demanding blanket apologies and an immediate cessation of anti-DPRK activities. Some protesters in Seoul were noted burning portraits of North Korean leaders on Monday, while North Korea celebrated the birthday of the late Kim Il-sung. The new threat comes amid what is otherwise perceived as an easing of tensions on the Korean Peninsula. North Korean authorities say that an attack may occur without warning at any moment. ](/news/2013/04/16/north-korea-issues-an-ultimatum-to-south-korea-demanding-blanket-apologies-and-an-immediate-cessation-of-anti-dprk-activities-some-prote.md)
@@ -31,9 +31,9 @@ North Korea issued new threats against South Korea on Tuesday, vowing &quot;sled
 ### [A gold mine collapses in Kyekyewere, Ghana, killing 16 people. ](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.md)
 _Context: Ghana, Kyekyewere, gold mine_
 
-##### U.S.
+##### United States
 ### [A United States military Sikorsky CH-53 Sea Stallion helicopter crashes near South Korea's border with North Korea, with no reported casualties. ](/news/2013/04/16/a-united-states-military-sikorsky-ch-53-sea-stallion-helicopter-crashes-near-south-korea-s-border-with-north-korea-with-no-reported-casualt.md)
-_Context: DMZ, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, U.S., United States military personnel_
+_Context: DMZ, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, United States, United States military personnel_
 
 ##### Magnitude
 ### [At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/at-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash-county-sistan-and-baluchestan-province.md)
@@ -41,7 +41,7 @@ Iran is hit by a 7.8-magnitude earthquake, the most powerful for more than 50 ye
 
 ##### American Airlines
 ### [American Airlines grounds flights across the United States due to a glitch in its computer system until 5pm EDT leaving thousands of passengers stranded. ](/news/2013/04/16/american-airlines-grounds-flights-across-the-united-states-due-to-a-glitch-in-its-computer-system-until-5pm-edt-leaving-thousands-of-passeng.md)
-_Context: American Airlines, Eastern Time Zone, U.S., computer system, glitch, grounds, passenger_
+_Context: American Airlines, Eastern Time Zone, United States, computer system, glitch, grounds, passenger_
 
 ##### Goa
 ### [Goa Chief Minister Manohar Parrikar rejects a plan by the adult entertainment company Playboy to open its first club in India. ](/news/2013/04/16/goa-chief-minister-manohar-parrikar-rejects-a-plan-by-the-adult-entertainment-company-playboy-to-open-its-first-club-in-india.md)

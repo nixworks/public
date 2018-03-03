@@ -31,7 +31,7 @@ _Context: 10 January, Karim Masimov, Kazakh President, Nursultan Nazarbayev, Pri
 ### [ Mohammad Tavakoli, an Iranian legislator, announces the arrest of an alleged spy and suspected member of the Mujahedin-e Khalq. Tavakoli said the man leaked information about Iran's nuclear program. ](/news/2007/01/9/mohammad-tavakoli-an-iranian-legislator-announces-the-arrest-of-an-alleged-spy-and-suspected-member-of-the-mujahedin-e-khalq-tavakoli-sa.md)
 _Context: Iran, Iran's nuclear program, Mujahedin-e Khalq_
 
-##### U.S.
+##### United States
 ### [ A top U.S. general says that he believes North Korea may conduct another nuclear test in the future. ](/news/2007/01/9/a-top-u-s-general-says-that-he-believes-north-korea-may-conduct-another-nuclear-test-in-the-future.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

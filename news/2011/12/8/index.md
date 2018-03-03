@@ -25,11 +25,11 @@ _Context: Canada, Japan, POWs, World War II_
 
 ##### Iran
 ### [Iranian state television shows footage of a United States Lockheed Martin RQ-170 Sentinel drone that its forces claim to have shot down. ](/news/2011/12/8/iranian-state-television-shows-footage-of-a-united-states-lockheed-martin-rq-170-sentinel-drone-that-its-forces-claim-to-have-shot-down.md)
-_Context: Iran, Lockheed Martin RQ-170 Sentinel, U.S._
+_Context: Iran, Lockheed Martin RQ-170 Sentinel, United States_
 
 ##### Russia
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
-_Context: Russia, U.S., Vladimir Putin, parliamentary elections_
+_Context: Russia, United States, Vladimir Putin, parliamentary elections_
 
 ##### Philippines
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)

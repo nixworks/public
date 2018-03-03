@@ -31,7 +31,7 @@ _Context: murder_
 ### [A coroner has given his verdict into the death of Linda Norgrove by stating that the soldier who threw the grenade had "acted unaware of Linda's presence". ](/news/2011/02/15/a-coroner-has-given-his-verdict-into-the-death-of-linda-norgrove-by-stating-that-the-soldier-who-threw-the-grenade-had-acted-unaware-of-lin.md)
 _Context: death of Linda Norgrove_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [The Prime Minister of Italy Silvio Berlusconi is indicted on charges of paying for sex with an underaged girl and abuse of power in the so-called Rubygate scandal. ](/news/2011/02/15/the-prime-minister-of-italy-silvio-berlusconi-is-indicted-on-charges-of-paying-for-sex-with-an-underaged-girl-and-abuse-of-power-in-the-so-c.md)
 Italian PM Silvio Berlusconi is indicted to stand trial on charges of paying for sex with an under-age prostitute and abuse of power.
 
@@ -49,7 +49,7 @@ The State Department will finance programs to help Internet users around the wor
 
 ##### Argentina
 ### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country. ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
-_Context: Argentina, U.S._
+_Context: Argentina, United States_
 
 ##### Delaware
 ### [The Delaware Chancery Court upholds the use of a poison pill by Airgas, effectively ending a takeover bid launched a year ago by Air Products. ](/news/2011/02/15/the-delaware-chancery-court-upholds-the-use-of-a-poison-pill-by-airgas-effectively-ending-a-takeover-bid-launched-a-year-ago-by-air-product.md)

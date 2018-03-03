@@ -23,7 +23,7 @@ Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to li
 ### [The President of France Francois Hollande and the Chancellor of Germany Angela Merkel call on the President of Russia Vladimir Putin to implement measures agreed on the Minsk ceasefire. ](/news/2015/05/29/the-president-of-france-franassois-hollande-and-the-chancellor-of-germany-angela-merkel-call-on-the-president-of-russia-vladimir-putin-to-imp.md)
 Moscow&#x20;has&#x20;released&#x20;a&#x20;blacklist&#x20;of&#x20;European&#x20;Union&#x20;politicians&#x20;barred&#x20;from&#x20;Russia&#x20;in&#x20;response&#x20;to&#x20;EU&#x20;sanctions&#x20;over&#x20;Crimea&#x20;and&#x20;Ukraine,&#x20;Dutch&#x20;Prime&#x20;Minister&#x20;Mark&#x20;Rutte&#x20;said...
 
-##### U.S.
+##### United States
 ### [The United States officially removes Cuba from its list of State Sponsors of Terrorism. ](/news/2015/05/29/the-united-states-officially-removes-cuba-from-its-list-of-state-sponsors-of-terrorism.md)
 The U.S. has formally dropped Cuba from the list of state sponsors of terrorism.
 

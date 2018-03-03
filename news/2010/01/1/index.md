@@ -9,7 +9,7 @@ _Context: Council of the European Union, European Union, Spain, Sweden, the Coun
 
 ##### North Korea
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)
-_Context: Korean Peninsula, New Year editorial, North Korea, U.S._
+_Context: Korean Peninsula, New Year editorial, North Korea, United States_
 
 ##### Cambodia
 ### [ A Cambodian court issues an arrest warrant for opposition leader Sam Rainsy, for failing to turn up at court over a border dispute with Vietnam. ](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.md)

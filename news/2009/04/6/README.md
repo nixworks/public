@@ -9,7 +9,7 @@ _Context: 2009 legislative elections, Indonesia, Indonesian National Police, Wes
 
 ##### Somalia
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)
-_Context: French, German, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_
+_Context: France, German, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_
 
 ##### Gjorge Ivanov
 ### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election. ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)

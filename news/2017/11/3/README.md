@@ -9,7 +9,7 @@ _Context: Climate change, U.S. federal government, greenhouse gases, human activ
 
 ##### Human rights in Zimbabwe
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
-_Context: Human rights in Zimbabwe, Robert Mugabe, U.S., Zimbabwe_
+_Context: Human rights in Zimbabwe, Robert Mugabe, United States, Zimbabwe_
 
 ##### War in Afghanistan
 ### [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md)

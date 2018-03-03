@@ -3,7 +3,7 @@ Formats: [HTML](2010/08/7/index.html)  [JSON](2010/08/7/index.json)  [XML](2010/
 
 ## [2010-08-7](/news/2010/08/7/index.md)
 
-##### U.S.
+##### United States
 ### [United States astronauts Douglas H. Wheelock and Tracy Caldwell Dyson fail on the International Space Station (ISS)'s longest spacewalk and sixth longest spacewalk to repair a cooling system, which means two more spacewalks are now required. ](/news/2010/08/7/united-states-astronauts-douglas-h-wheelock-and-tracy-caldwell-dyson-fail-on-the-international-space-station-iss-s-longest-spacewalk-and.md)
 Two International Space Station astronauts achieve only &quot;partial success&quot; in efforts to repair a cooling system, and two more spacewalks will be needed.
 

@@ -17,7 +17,7 @@ _Context:  Georgian, 2006 Georgian-Russian espionage controversy, Gazprom, Russi
 
 ##### United Kingdom
 ### [ The UK Office for National Statistics announces that, in 2005, 565,000 immigrants arrived in the UK, mainly from Poland, India, Pakistan, Bangladesh and Sri Lanka, while there were 380,000 emigrants, over half of whom were UK citizens. The most popular emigration destinations were Australia, Spain, and France. The net immigration total, 185,000, was 17,000 less than 2004's record. ](/news/2006/11/2/the-uk-office-for-national-statistics-announces-that-in-2005-565-000-immigrants-arrived-in-the-uk-mainly-from-poland-india-pakistan-b.md)
-_Context: Australia, Bangladesh, French, India, Office for National Statistics, Pakistan, Poland, Spain, Sri Lanka, United Kingdom_
+_Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Poland, Spain, Sri Lanka, United Kingdom_
 
 ##### Iran
 ### [ Iran fires dozens of unarmed missiles to begin 10 days of military war games, with "ranges from 300 km to up to 2,000 km," some of which have "the capacity to carry 1,400 bombs," Iranian state television reported. ](/news/2006/11/2/iran-fires-dozens-of-unarmed-missiles-to-begin-10-days-of-military-war-games-with-ranges-from-300-km-to-up-to-2-000-km-some-of-which-ha.md)
@@ -29,7 +29,7 @@ _Context: Science_
 
 ##### Ted Haggard
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
-_Context: National Association of Evangelicals, Ted Haggard, U.S._
+_Context: National Association of Evangelicals, Ted Haggard, United States_
 
 ##### Dutch
 ### [ The governments of the Netherlands and the Netherlands Antilles sign an agreement in The Hague, disbanding the Netherlands Antilles on July 1, 2007. The islands of Curaao and Sint Maarten become autonomous associated states within the Kingdom of the Netherlands, while Bonaire, Saba and Sint Eustatius become Dutch municipalities. ](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.md)

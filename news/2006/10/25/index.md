@@ -21,7 +21,7 @@ _Context: Lee Jong-Seok, Roh Moo-Hyun, South Korea, South Korean president, Yoon
 
 ##### General
 ### [ General George W. Casey Jr., the top United States commander in Iraq, has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-w-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-forces-ar.md)
-_Context: General, George W. Casey Jr., Iraq, U.S._
+_Context: General, George W. Casey Jr., Iraq, United States_
 
 ##### Niger
 ### [ The government of Niger announces that due to "difficult relations with indigenous rural populations," the country's 150,000 Mahamid Arab refugee population who have lived in Niger since having fled Chad two decades earlier, will be deported back to Chad. ](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.md)

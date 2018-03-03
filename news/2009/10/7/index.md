@@ -17,7 +17,7 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 
 ##### Constitutional Court
 ### [ The Constitutional Court of Italy overturns a law offering Prime Minister Silvio Berlusconi immunity from prosecution while in office, ruling it unconstitutional. ](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.md)
-_Context: Constitutional Court, Italian Prime Minister, Italy, Silvio Berlusconi, immunity from prosecution_
+_Context: Constitutional Court, Italy, Prime Minister of Italy, Silvio Berlusconi, immunity from prosecution_
 
 ##### Taiwan
 ### [ Taiwan's National Palace Museum refuses to display two artifacts stolen from China 150 years ago. ](/news/2009/10/7/taiwan-s-national-palace-museum-refuses-to-display-two-artifacts-stolen-from-china-150-years-ago.md)
@@ -29,7 +29,7 @@ _Context: Syria, drought_
 
 ##### Somalia
 ### [ Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
-_Context: French, French naval, Somali pirates, Somalia_
+_Context: France, French naval, Somali pirates, Somalia_
 
 ##### Burma
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)

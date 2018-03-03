@@ -33,7 +33,7 @@ _Context: Republican, United States presidential candidate_
 
 ##### Holocaust
 ### [ Holocaust survivors protest outside the Prime Minister of Israel Ehud Olmert's office over the level of support from Israel. ](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.md)
-_Context: Ehud Olmert, Holocaust, Israel, Israeli Prime Minister_
+_Context: Ehud Olmert, Holocaust, Israel, Prime Minister_
 
 ##### Prison
 ### [ Twenty-six people including 14 convicted prisoners escape from the Campsfield House detention centre in Oxfordshire, England. ](/news/2007/08/5/twenty-six-people-including-14-convicted-prisoners-escape-from-the-campsfield-house-detention-centre-in-oxfordshire-england.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-come
 
 ### [2011-04-11](/news/2011/04/11/index.md)
 
-##### French
+##### France
 # The French law banning the burqa and niqab comes into effect. 
 
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.
@@ -17,8 +17,8 @@ FRANCE has officially banned women from wearing full-face veils in public places
 
 ### Related:
 
-1. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _Context: French, burqa_
-2. [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md) _Context: French, burqa_
-3. [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md) _Context: French, burqa_
-4. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: French_
-5. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: French_
+1. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _Context: France, burqa_
+2. [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md) _Context: France, burqa_
+3. [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md) _Context: France, burqa_
+4. [Suspected terrorists attack the French embassy and military headquarters in Ouagadougu, Burkina Faso, killing 28 and injuring at least 50. ](/news/2018/03/2/suspected-terrorists-attack-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-killing-28-and-injuring-at-least-50.md) _Context: France_
+5. [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md) _Context: France_

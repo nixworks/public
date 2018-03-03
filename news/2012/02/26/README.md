@@ -29,7 +29,7 @@ _Context: India, Italian marines, Law of India_
 
 ##### Cairo
 ### [A trial begins in Cairo of 16 Americans and 27 others linked to an Egyptian government crackdown on non-government organizations which has created tension between the United States and Egypt. ](/news/2012/02/26/a-trial-begins-in-cairo-of-16-americans-and-27-others-linked-to-an-egyptian-government-crackdown-on-non-government-organizations-which-has-c.md)
-_Context: American, Cairo, Egypt, Government of Egypt, U.S., non-government organizations_
+_Context: American, Cairo, Egypt, Government of Egypt, United States, non-government organizations_
 
 ##### Burlington train derailment
 ### [A train derails in Burlington, Ontario, Canada killing at least three people and injuring 45.](/news/2012/02/26/a-train-derails-in-burlington-ontario-canada-killing-at-least-three-people-and-injuring-45.md)
@@ -55,7 +55,7 @@ _Context: California, Hollywood, Hollywood and Highland Center Theatre (formerly
 ### [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, kidnapping_
 
-##### French
+##### France
 ### [France and Germany follow the United States and United Kingdom in withdrawing civilian staff from Afghan government facilities following the killing of two senior NATO officers. ](/news/2012/02/26/france-and-germany-follow-the-united-states-and-united-kingdom-in-withdrawing-civilian-staff-from-afghan-government-facilities-following-the.md)
 France and Germany follow the US and Britain in withdrawing civilian staff from Afghan government institutions after the killing of two US Nato officers.
 

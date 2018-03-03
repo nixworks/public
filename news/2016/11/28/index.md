@@ -9,7 +9,7 @@ Jill Stein said she plans to request a recount in Michigan as similar cases prog
 
 ##### 2016 U.S. election
 ### [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md)
-_Context: 2016 U.S. election, Donald Trump, Hillary Clinton, Mich., electoral college_
+_Context: 2016 U.S. election, Donald Trump, Hillary Clinton, Michigan, electoral college_
 
 ##### Yemeni Civil War
 ### [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md)
@@ -45,7 +45,7 @@ Abdul Razak Ali Artan was killed by a police officer after the car-and-knife amb
 
 ##### 2015-16 Zika virus epidemic
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, U.S., Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
 
 ##### 2016 Southeastern United States wildfires
 ### [The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee-as-several-wildfires-burn-out-of-control-i.md)

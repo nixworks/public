@@ -59,7 +59,7 @@ A magnitude 7.2 earthquake has hit Tajikistan, according to the US Geological Su
 ### [ General Electric announces that it has abandoned its plan to sell its appliances business to Sweden's Electrolux. The U.S. Department of Justice had filed an antitrust suit in summer 2015 to block the $3.3 billion acquisition. ](/news/2015/12/7/general-electric-announces-that-it-has-abandoned-its-plan-to-sell-its-appliances-business-to-sweden-s-electrolux-the-u-s-department-of-ju.md)
 General Electric Co. has abandoned a $3.3 billion agreement to sell its appliances business to Electrolux AB of Sweden, walking away from the deal amid a courtroom fight with U.S. antitrust regulators.
 
-##### U.S.
+##### United States
 ### [ The United States Federal Trade Commission (FTC) files an administrative complaint challenging office-supplies giant Staples' proposed $6.3 billion acquisition of top rival Office Depot. The FTC said the deal would significantly reduce national competition in the market for office supplies sold to large business customers. The companies plan to contest the FTC decision. ](/news/2015/12/7/the-united-states-federal-trade-commission-ftc-files-an-administrative-complaint-challenging-office-supplies-giant-staples-proposed-6-3.md)
 Staples Inc. will face a challenge by U.S. antitrust officials, who said the office supply chain&apos;s proposed takeover of Office Depot Inc. should be blocked.
 

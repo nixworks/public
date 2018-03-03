@@ -21,7 +21,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 
 ##### Australia
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Guantanamo Bay detention camp, Nauru, U.S., asylum seeker_
+_Context: Australia, Guantanamo Bay detention camp, Nauru, United States, asylum seeker_
 
 ##### Turkish
 ### [ Three workers at a publishing house in Turkey that prints Bibles are murdered in ongoing sectarian violence. ](/news/2007/04/18/three-workers-at-a-publishing-house-in-turkey-that-prints-bibles-are-murdered-in-ongoing-sectarian-violence.md)
@@ -37,7 +37,7 @@ _Context: Baghdad, series of bombings_
 
 ##### Virginia Tech
 ### [ Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-monday-in-the-united-state.md)
-_Context: U.S., Virginia Tech, shooting spree_
+_Context: United States, Virginia Tech, shooting spree_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)

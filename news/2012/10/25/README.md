@@ -7,7 +7,7 @@ Formats: [HTML](2012/10/25/index.html)  [JSON](2012/10/25/index.json)  [XML](201
 ### [Bishop Richard Williamson, because of his opposition to dialogue and his Holocaust denial, is expelled from the Society of Saint Pius X (SSPX) by its superior, Bishop Bernard Fellay. The SSPX is a formerly breakaway ultra-conservative Roman Catholic society founded by the late Archbishop Marcel Lefebvre that is critical of many of the changes in the Church brought about by Vatican Council II. ](/news/2012/10/25/bishop-richard-williamson-because-of-his-opposition-to-dialogue-and-his-holocaust-denial-is-expelled-from-the-society-of-saint-pius-x-ssp.md)
 _Context: Bernard Fellay, Bishop Richard Williamson, Holocaust denial, Marcel Lefebvre, Roman Catholic, Society of Saint Pius X, Vatican Council II_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister and Likud chairman Benjamin Netanyahu and the Israeli Foreign Minister and Yisrael Beiteinu chairman Avigdor Lieberman announce the unification of their two parties which will run as a single bloc for the upcoming election to be held in January 2013; the joint party will be called "Likud Beiteinu" ("The Likud Is Our Home") and Netanyahu will be number 1 on the list, followed by Liberman who will be number 2 on the list. ](/news/2012/10/25/israeli-prime-minister-and-likud-chairman-benjamin-netanyahu-and-the-israeli-foreign-minister-and-yisrael-beiteinu-chairman-avigdor-lieberma.md)
 PM cites Iran, rising cost of living among challenges to be faced &#8216;with strength&#8217; after elections
 

@@ -19,7 +19,7 @@ Scottish actor best known for his role as Malcolm Tucker in The Thick of It reve
 ### [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-neighbourhood.md)
 _Context: Tunis, Tunisia_
 
-##### U.S.
+##### United States
 ### [The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-attack.md)
 The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday for security reasons, the Department of Foreign Affairs, Trade and Development said on its site.
 

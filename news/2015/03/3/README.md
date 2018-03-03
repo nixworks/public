@@ -15,9 +15,9 @@ Norway&#039;s Nobel Peace Prize committee demotes its controversial chairman Tho
 ### [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md)
 Hundreds of students protesting against an education bill in Myanmar have defied an order to disperse despite being surrounded by police.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint meeting of the United States Congress over the nuclear program of Iran. ](/news/2015/03/3/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-meeting-of-the-united-states-congress-over-the-nuclear-program-of-iran.md)
-_Context: Benjamin Netanyahu, Congress, Israeli Prime Minister, joint session of Congress, nuclear program_
+_Context: Benjamin Netanyahu, Congress, Prime Minister, joint session of Congress, nuclear program_
 
 ##### Same-sex marriage in Slovenia
 ### [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md)

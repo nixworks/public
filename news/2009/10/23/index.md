@@ -25,7 +25,7 @@ _Context: Pakistan, Peshawar_
 
 ##### Swiss Government
 ### [ The Swiss Government says that the United States has formally requested the extradition of film director Roman Polanski for having unlawful sex with an underage girl in 1977. ](/news/2009/10/23/the-swiss-government-says-that-the-united-states-has-formally-requested-the-extradition-of-film-director-roman-polanski-for-having-unlawful.md)
-_Context: 1977, Roman Polanski, Swiss Government, U.S., extradition, sex_
+_Context: 1977, Roman Polanski, Swiss Government, United States, extradition, sex_
 
 ##### Economy of the United Kingdom
 ### [ The UK GDP contracts by 0.4% between July and September, meaning that the United Kingdom has been contracting for 6 successive quarters for the first time since records were kept in 1955. ](/news/2009/10/23/the-uk-gdp-contracts-by-0-4-between-july-and-september-meaning-that-the-united-kingdom-has-been-contracting-for-6-successive-quarters-for.md)

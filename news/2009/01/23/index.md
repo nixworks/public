@@ -33,7 +33,7 @@ Japan launched a satellite onFriday to monitor greenhouse gases around the world
 
 ##### New York
 ### [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md)
-_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, U.S., United States Senate_
+_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, United States, United States Senate_
 
 ##### Internet
 ### [ The number of unique Internet users reached one billion in December 2008. ](/news/2009/01/23/the-number-of-unique-internet-users-reached-one-billion-in-december-2008.md)

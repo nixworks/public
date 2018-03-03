@@ -17,7 +17,7 @@ _Context: 2005 Kashmir earthquake, Islamabad, SOS Children_
 
 ##### Zimbabwe
 ### [ Zimbabwean state-owned media announces that the Zimbabwean government briefly detained the United States ambassador, on Monday, October 10. The United States considers the matter closed following a formal apology. ](/news/2005/10/14/zimbabwean-state-owned-media-announces-that-the-zimbabwean-government-briefly-detained-the-united-states-ambassador-on-monday-october-10.md)
-_Context: U.S., Zimbabwe_
+_Context: United States, Zimbabwe_
 
 ## [Previous Day...](/news/2005/10/13/index.md)
 

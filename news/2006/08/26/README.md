@@ -21,7 +21,7 @@ _Context: Gaza, Israel, Reuters_
 
 ##### Chad
 ### [ Chad orders United States' ChevronTexaco and Malaysia's Petronas out of the country for failing to meet tax obligations. Chadian president, Idriss Dby, stated that Chad, whose new national oil company was to partner with an Exxon Mobil-ChevronTexaco-Petronas consortium, will continue to work with US' Exxon Mobil while attempting to "find a solution with the two other partners." ](/news/2006/08/26/chad-orders-united-states-chevrontexaco-and-malaysia-s-petronas-out-of-the-country-for-failing-to-meet-tax-obligations-chadian-president.md)
-_Context: Chad, ChevronTexaco, Exxon Mobil, Idriss Dby, Malaysia, Petronas, U.S._
+_Context: Chad, ChevronTexaco, Exxon Mobil, Idriss Dby, Malaysia, Petronas, United States_
 
 ##### Andover Inn
 ### [ The Andover Inn Hotel in Liverpool was hit by a mystery fire in the early hours which led to 100 guests being evacuated. ](/news/2006/08/26/the-andover-inn-hotel-in-liverpool-was-hit-by-a-mystery-fire-in-the-early-hours-which-led-to-100-guests-being-evacuated.md)

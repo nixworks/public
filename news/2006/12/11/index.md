@@ -29,7 +29,7 @@ _Context: Holocaust denial, International Conference to Review the Global Vision
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md)
-_Context: George W. Bush administration, Kofi Annan, U.S., United Nations Secretary-General, human rights, multilateralism_
+_Context: George W. Bush administration, Kofi Annan, United Nations Secretary-General, United States, human rights, multilateralism_
 
 ##### Holy See
 ### [ Archaeologists working for the Vatican have found the tomb of Paul of Tarsus. ](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.md)

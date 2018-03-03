@@ -47,7 +47,7 @@ A French legal team arrives in Rwanda to begin a week-long inquiry into the 1994
 ### [The Economic Cooperation Framework Agreement (ECFA), an important trade pact, comes into force between China and Taiwan. Hundreds of thousands of people protested against it in Taiwan but it was unanimously approved by the island's parliament. ](/news/2010/09/12/the-economic-cooperation-framework-agreement-ecfa-an-important-trade-pact-comes-into-force-between-china-and-taiwan-hundreds-of-thousan.md)
 A trade pact between China and Taiwan, seen as the most significant agreement since civil war divided them in 1949, comes into effect.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu states that 10-month restrictions on the building of Israeli settlements in the West Bank will no longer apply after they expire later this month. ](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.md)
 Israeli PM says current restrictions on building in West Bank to end, but indicates possible limits on future building.
 
@@ -71,7 +71,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
 _Context: 2010 ceremony, Bad Romance, Lady Gaga, MTV Video Music Awards_
 
-##### French
+##### France
 ### [French film director Claude Chabrol, a founding member of the French New Wave, dies. ](/news/2010/09/12/french-film-director-claude-chabrol-a-founding-member-of-the-french-new-wave-dies.md)
 Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&#x20;member&#x20;of&#x20;the&#x20;French&#x20;New&#x20;Wave&#x20;group&#x20;of&#x20;film-makers,&#x20;has&#x20;died&#x20;at&#x20;the&#x20;age&#x20;of&#x20;80.
 
@@ -91,7 +91,7 @@ Police say they have no information if man suspected of setting off blast in Cop
 ### [Israeli soldiers identify a group of armed men approaching Israel from Gaza near Kibbutz Erez, killing three; Palestinian sources claim that two were farmers. ](/news/2010/09/12/israeli-soldiers-identify-a-group-of-armed-men-approaching-israel-from-gaza-near-kibbutz-erez-killing-three-palestinian-sources-claim-that.md)
 Soldiers identify a group of armed men approaching security fence near Kibbutz Erez and kill 3; IDF reports no soldier casualties.
 
-##### U.S.
+##### United States
 ### [At least 3 people are killed by a United States missile attack on a home where associates of Tehrik-i-Taliban Pakistan chief Hafiz Gul Bahadur were believed to be staying in northwest Pakistan. ](/news/2010/09/12/at-least-3-people-are-killed-by-a-united-states-missile-attack-on-a-home-where-associates-of-tehrik-i-taliban-pakistan-chief-hafiz-gul-bahad.md)
 A suspected U.S. missile strike Sunday killed at least five associates of a warlord who is fighting Western troops in Afghanistan, intelligence officials said.
 

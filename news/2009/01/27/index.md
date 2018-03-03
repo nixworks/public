@@ -33,7 +33,7 @@ _Context: 2003, 2003 invasion of Iraq, His Majesty's Government, Information Tri
 
 ##### Florida
 ### [ Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. ](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arrested-by-the-united-states-federal-bureau-of-investigation-and-charged-with-fraud.md)
-_Context: Arthur Nadel, FBI, Florida, U.S., fraud, hedge fund_
+_Context: Arthur Nadel, FBI, Florida, United States, fraud, hedge fund_
 
 ##### Seven people die
 ### [ Seven people die in a murder-suicide in Wilmington, California. ](/news/2009/01/27/seven-people-die-in-a-murder-suicide-in-wilmington-california.md)

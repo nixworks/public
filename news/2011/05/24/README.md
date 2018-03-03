@@ -51,11 +51,11 @@ _Context: Malaysia, Muslim, Shia_
 ### [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md)
 Barack Obama has met the Queen and senior royals at the start of a three-day state visit as he hails the &quot;essential relationship&quot; between the US and UK.
 
-##### U.S.
+##### United States
 ### [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md)
 A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to assess the food situation in the reclusive nation.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint session of the United States Congress and says he is prepared to make "far-reaching compromises" for a peace deal with Palestinians, but states that Israel will not return to its pre-1967 borders. ](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.md)
 Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congress Tuesday that he is prepared to make &quot;painful compromises&quot; for a peace deal with Palestinians, but reiterated his insistence that Israel will never return to the boundaries that existed before the 1967 Middl...
 

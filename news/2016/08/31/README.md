@@ -49,7 +49,7 @@ MANILA -- China must cease all provocations in the South China Sea before the Ph
 
 ##### Cuba-United States relations
 ### [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md)
-_Context: Anthony Foxx, Cuba, Cuba-United States relations, Fort Lauderdale, Florida, JetBlue, Santa Clara, Secretary of Transportation, U.S., United States-Cuban Thaw, Villa Clara_
+_Context: Anthony Foxx, Cuba, Cuba-United States relations, Fort Lauderdale, Florida, JetBlue, Santa Clara, Secretary of Transportation, United States, United States-Cuban Thaw, Villa Clara_
 
 ##### Theranos
 ### [Embattled tech company Theranos pulls out of a research project regarding the Zika virus. ](/news/2016/08/31/embattled-tech-company-theranos-pulls-out-of-a-research-project-regarding-the-zika-virus.md)

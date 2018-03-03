@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/17/index.html)  [JSON](2008/03/17/index.json)  [XML](200
 
 ##### Luftwaffe
 ### [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md)
-_Context: Antoine de Saint Exupery, French, Luftwaffe, airplane, pilot, writer_
+_Context: Antoine de Saint Exupery, France, Luftwaffe, airplane, pilot, writer_
 
 ##### World War II
 ### [ World War II Royal Australian Navy warship HMAS "Sydney" is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-years.md)
@@ -27,9 +27,9 @@ _Context: Franko Simatovic, International Criminal Tribunal for the former Yugos
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
 _Context: Angela Merkel, Chancellor, German, Israel_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: 2008 municipal elections, French, French President, Nicolas Sarkozy, UMP_
+_Context: 2008 municipal elections, France, French President, Nicolas Sarkozy, UMP_
 
 ##### David Paterson
 ### [ David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. ](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.md)
@@ -47,9 +47,9 @@ _Context: 2008 Tirana explosions, Albania, Defense Minister, Fatmir Mediu_
 ### [ The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Parliament, by-elections_
 
-##### U.S.
+##### United States
 ### [ United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S., U.S. Vice President_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S. Vice President, United States_
 
 ##### 2008 National People's Congress
 ### [ 2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. ](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2015/11/2/index.html)  [JSON](2015/11/2/index.json)  [XML](2015/
 
 ## [2015-11-2](/news/2015/11/2/index.md)
 
-##### French
+##### France
 ### [French national public television broadcaster France Televisions fires France 2 TV channel's weatherman Philippe Verdier, who has been suspended since mid-October. Verdier, known as "Monsieur Meteo" (Mr Weather), has been promoting his recently published book, "Climat Investigation" (Climate Investigation), in which he throws doubt on the global warning findings of leading climate scientists and political leaders. France Televisions said its rules, "prevent anyone using their professional status ... to push forward their personal opinions." ](/news/2015/11/2/french-national-public-television-broadcaster-france-ta-c-la-c-visions-fires-france-2-tv-channel-s-weatherman-philippe-verdier-who-has-been-sus.md)
 France 2&rsquo;s Philippe Verdier pooh-poohed global warming ahead of UN summit in Paris 
 
@@ -55,7 +55,7 @@ The two companies have more than 2.9 billion cards issued on its combined networ
 ### [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md)
 _Context: Airbus, Boeing Company, Chinese, Comac, Comac C919_
 
-##### U.S.
+##### United States
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated KKK-affiliated websites, and warned of more action culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)
 The hacking group revealed emails and phone numbers for alleged members.
 

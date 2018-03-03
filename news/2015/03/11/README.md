@@ -3,13 +3,13 @@ Formats: [HTML](2015/03/11/index.html)  [JSON](2015/03/11/index.json)  [XML](201
 
 ## [2015-03-11](/news/2015/03/11/index.md)
 
-##### U.S.
+##### United States
 ### [A United States immigration appeals panel approves the deportation of former El Salvador Defence Minister Carlos Eugenio Vides Casanova to potentially face human rights abuses charges in his homeland. ](/news/2015/03/11/a-united-states-immigration-appeals-panel-approves-the-deportation-of-former-el-salvador-defence-minister-carlos-eugenio-vides-casanova-to-p.md)
 An appeals panel has upheld the deportation order of a former El Salvadorean defense minister who oversaw the torture and killings of thousands.
 
 ##### Burgundy
 ### [At least 15 armed assailants ambush two vans on a highway in Burgundy, France carrying millions of euros worth of jewels. It was the latest in a string of big jewel heists in France. ](/news/2015/03/11/at-least-15-armed-assailants-ambush-two-vans-on-a-highway-in-burgundy-france-carrying-millions-of-euros-worth-of-jewels-it-was-the-latest.md)
-_Context: Burgundy, French, jewels_
+_Context: Burgundy, France, jewels_
 
 ##### Boris Nemtsov's assassination
 ### [The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-who-confessed-to-being-part-of-the.md)

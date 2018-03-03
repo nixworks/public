@@ -19,7 +19,7 @@ Israeli forces on Monday killed a wanted Hamas operative who had holed up in a h
 ### [ The United States Supreme Court agrees to hear a case challenging laws that forbid the selling of violent video games to minors. ](/news/2010/04/26/the-united-states-supreme-court-agrees-to-hear-a-case-challenging-laws-that-forbid-the-selling-of-violent-video-games-to-minors.md)
 _Context: United States Supreme Court, video games_
 
-##### U.S.
+##### United States
 ### [By a 6-5 margin, a United States federal appeals court rules that a sex-discrimination lawsuit, the largest employment discrimination case in history, against Wal-Mart can continue. ](/news/2010/04/26/by-a-6-5-margin-a-united-states-federal-appeals-court-rules-that-a-sex-discrimination-lawsuit-the-largest-employment-discrimination-case-i.md)
 Pay and promotions are at the root of a class action case first filed by six women in 2001 against the retailer.
 
@@ -33,7 +33,7 @@ _Context: ''Restaurant'', Copenhagen, Denmark, Noma, annual survey_
 
 ##### Panama
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: French, Manuel Noriega, Panama, U.S., extradition_
+_Context: France, Manuel Noriega, Panama, United States, extradition_
 
 ##### United Kingdom
 ### [The British ambassador to Yemen, Timothy Torlot, survives an attempted suicide bombing. ](/news/2010/04/26/the-british-ambassador-to-yemen-timothy-torlot-survives-an-attempted-suicide-bombing.md)

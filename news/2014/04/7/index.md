@@ -33,7 +33,7 @@ President Michael D Higgins has arrived in London ahead of his State visit to th
 
 ##### Finance Minister
 ### [The Finance Minister of France, Michel Sapin, says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough.md)
-_Context: Finance Minister, French, Michel Sapin_
+_Context: Finance Minister, France, Michel Sapin_
 
 ##### Ukraine
 ### [Pro-Russian activists occupying a government building in the eastern Ukrainian city of Donetsk have proclaimed the creation of a sovereign Donetsk People's Republic independent of the capital Kiev. ](/news/2014/04/7/pro-russian-activists-occupying-a-government-building-in-the-eastern-ukrainian-city-of-donetsk-have-proclaimed-the-creation-of-a-sovereign-d.md)

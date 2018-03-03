@@ -19,9 +19,9 @@ _Context: British Army, Great Britain, Iraq, Ministry of Defence, News of the Wo
 ### [ A royal tomb from the 2nd or 3rd century BC is found in Pella, Greece. It is the largest Greek tomb found to date. This announcement comes a few days after the Egyptian tomb in the Valley of the Kings was found. ](/news/2006/02/12/a-royal-tomb-from-the-2nd-or-3rd-century-bc-is-found-in-pella-greece-it-is-the-largest-greek-tomb-found-to-date-this-announcement-comes.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [ Italian prime minister Silvio Berlusconi causes a political storm by comparing himself to Jesus Christ. ](/news/2006/02/12/italian-prime-minister-silvio-berlusconi-causes-a-political-storm-by-comparing-himself-to-jesus-christ.md)
-_Context: Italian Prime Minister, Jesus Christ, Silvio Berlusconi_
+_Context: Jesus Christ, Prime Minister of Italy, Silvio Berlusconi_
 
 ## [Previous Day...](/news/2006/02/11/index.md)
 

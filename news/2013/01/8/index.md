@@ -3,9 +3,9 @@ Formats: [HTML](2013/01/8/index.html)  [JSON](2013/01/8/index.json)  [XML](2013/
 
 ## [2013-01-8](/news/2013/01/8/index.md)
 
-##### U.S.
+##### United States
 ### [The United States records its hottest year on record in 2012. ](/news/2013/01/8/the-united-states-records-its-hottest-year-on-record-in-2012.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Bob Brown
 ### [Bob Brown, former leader of the Australian Greens, becomes the President of the Sea Shepherd Conservation Society leading the campaign against Japanese whaling in the Southern Ocean. ](/news/2013/01/8/bob-brown-former-leader-of-the-australian-greens-becomes-the-president-of-the-sea-shepherd-conservation-society-leading-the-campaign-again.md)
@@ -13,7 +13,7 @@ Bob Brown will spearhead Sea Shepherd Society&#039;s next anti-whaling protest i
 
 ##### Roberto Maroni
 ### [Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. ](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.md)
-_Context: Italian Prime Minister, Lega Nord, People of Freedom, Roberto Maroni, Silvio Berlusconi_
+_Context: Lega Nord, People of Freedom, Prime Minister of Italy, Roberto Maroni, Silvio Berlusconi_
 
 ##### Venezuela
 ### [The Venezuelan government announces that Hugo Chavez is in stable condition, and is still receiving medical treatment for a respiratory infection. ](/news/2013/01/8/the-venezuelan-government-announces-that-hugo-cha-vez-is-in-stable-condition-and-is-still-receiving-medical-treatment-for-a-respiratory-inf.md)

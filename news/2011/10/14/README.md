@@ -15,7 +15,7 @@ _Context: British Parliament, Cabinet Office, Oliver Letwin, St. James's Park_
 ### [The British Secretary of State for Defence, Liam Fox, resigns amid allegations over his working relationship with lobbyist Adam Werritty. ](/news/2011/10/14/the-british-secretary-of-state-for-defence-liam-fox-resigns-amid-allegations-over-his-working-relationship-with-lobbyist-adam-werritty.md)
 Liam Fox quits as defence secretary amid pressure over his working relationship with his friend Adam Werritty, to be replaced by Philip Hammond.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [The Prime Minister of Italy, Silvio Berlusconi, survives his fifty-third no-confidence vote in the Parliament of Italy by 316 votes to 301. ](/news/2011/10/14/the-prime-minister-of-italy-silvio-berlusconi-survives-his-fifty-third-no-confidence-vote-in-the-parliament-of-italy-by-316-votes-to-301.md)
 The prime minister’s center-right coalition failed to secure a solid majority, making it increasingly difficult for him to pass legislation.
 

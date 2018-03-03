@@ -9,7 +9,7 @@ _Context: 14th Dalai Lama, Dharamsala, India, Tibet, exiled Tibetan parliament_
 
 ##### Somali pirates
 ### [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md)
-_Context: Somali pirates, U.S., USS Nicholas, United States Navy, frigate_
+_Context: Somali pirates, USS Nicholas, United States, United States Navy, frigate_
 
 ##### Tear gas
 ### [Tear gas is used to control a riot by asylum seekers at the Christmas Island Immigration Detention Centre on Christmas Island off the coast of Australia. ](/news/2011/03/14/tear-gas-is-used-to-control-a-riot-by-asylum-seekers-at-the-christmas-island-immigration-detention-centre-on-christmas-island-off-the-coast.md)
@@ -23,7 +23,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 ### [The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and-tsunami-in-northern-japan.md)
 Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on Monday to avoid massive blackouts in…
 
-##### French
+##### France
 ### [The French carmaker Renault apologises to three executives accused of industrial espionage after no credible evidence was found to substantiate the claims. ](/news/2011/03/14/the-french-carmaker-renault-apologises-to-three-executives-accused-of-industrial-espionage-after-no-credible-evidence-was-found-to-substanti.md)
 Carmaker pledges compensation to executives accused in espionage case as prosecutor says company may be victim of fraud.
 

@@ -43,17 +43,17 @@ A planned Obama administration clampdown on Mexico border gun dealers which woul
 ### [South Korea dismisses an offer of unconditional talks by North Korea, saying the offer was part of a propaganda campaign. ](/news/2011/01/6/south-korea-dismisses-an-offer-of-unconditional-talks-by-north-korea-saying-the-offer-was-part-of-a-propaganda-campaign.md)
 _Context: North Korea, South Korea, propaganda_
 
-##### U.S.
+##### United States
 ### [The United States protests strongly to Vietnam after a U.S. diplomat is attacked and injured by Vietnamese police when he went to visit a detained religious dissident.](/news/2011/01/6/the-united-states-protests-strongly-to-vietnam-after-a-u-s-diplomat-is-attacked-and-injured-by-vietnamese-police-when-he-went-to-visit-a-de.md)
-_Context: U.S., Vietnam_
+_Context: United States, Vietnam_
 
 ##### Uttarakhand
 ### [22 people are killed after a bus falls into a gorge in Uttarakhand, northern India. ](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.md)
 Dehra Dun: 22 killed as bus falls into gorge
 
-##### French
+##### France
 ### [A French market regulator approves a takeover defense adopted by the Hermes family, who own the manufacturer of Birkin and Kelly handbags. This improves the odds that Hermes will preserve its independence in the face of a bid by LVMH. ](/news/2011/01/6/a-french-market-regulator-approves-a-takeover-defense-adopted-by-the-herma-s-family-who-own-the-manufacturer-of-birkin-and-kelly-handbags.md)
-_Context: French, Hermes, LVMH_
+_Context: France, Hermes, LVMH_
 
 ##### U.S.
 ### [A U.S. soldier receives 90 days hard labour and must testify in the FOB Ramrod kill team case for keeping war souvenir photos, beating a platoon member and smoking hashish while involved with the FOB Ramrod kill team during the War in Afghanistan. ](/news/2011/01/6/a-u-s-soldier-receives-90-days-hard-labour-and-must-testify-in-the-fob-ramrod-kill-team-case-for-keeping-war-souvenir-photos-beating-a-pla.md)

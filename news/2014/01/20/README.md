@@ -53,9 +53,9 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 
 ##### Iran
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: European Union, Iran, U.S._
+_Context: European Union, Iran, United States_
 
-##### U.S.
+##### United States
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
 Under pressure from the United States, Ban Ki-moon, the United Nations secretary general, rescinded Iran’s invitation to the meeting a day after he offered it.
 

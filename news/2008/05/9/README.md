@@ -9,7 +9,7 @@ _Context: BBC, Zimbabwe, run-off presidential election, war veteran_
 
 ##### Israel
 ### [ Israeli Prime Minister Ehud Olmert denies taking bribes from businessman Moshe Talansky. ](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.md)
-_Context: Ehud Olmert, Israel, Israeli Prime Minister, Moshe Talansky_
+_Context: Ehud Olmert, Israel, Moshe Talansky, Prime Minister_
 
 ##### American soldiers
 ### [ The United States Military denies the capture of al-Qaeda in Iraq leader Abu Ayyub al-Masri. ](/news/2008/05/9/the-united-states-military-denies-the-capture-of-al-qaeda-in-iraq-leader-abu-ayyub-al-masri.md)

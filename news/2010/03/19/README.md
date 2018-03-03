@@ -23,9 +23,9 @@ _Context: Large Hadron Collider_
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
 Indonesia is out of the race to host the 2022 World Cup, FIFA says.
 
-##### U.S.
+##### United States
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9-11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: September 11 attacks, U.S._
+_Context: September 11 attacks, United States_
 
 ##### President
 ### [President of Egypt Hosni Mubarak names Sheikh Ahmed Mohammed Ahmed al-Tayeb as head of Al-Azhar University. ](/news/2010/03/19/president-of-egypt-hosni-mubarak-names-sheikh-ahmed-mohammed-ahmed-al-tayeb-as-head-of-al-azhar-university.md)

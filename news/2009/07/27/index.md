@@ -27,7 +27,7 @@ _Context: sex_
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
 _Context: Alicante, German, Spain, Ulla Schmidt, health minister_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)
 French President Nicolas Sarkozy has left hospital after tests confirmed that his collapse was unrelated to any heart problem.
 
@@ -43,7 +43,7 @@ _Context: Eastern Cape, Mthatha, South Africa, apartheid_
 ### [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md)
 _Context: Charles Taylor, Liberia, The Hague, cannibalism_
 
-##### U.S.
+##### United States
 ### [ The United States and China begin the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/27/the-united-states-and-china-begin-the-first-u-s-china-strategic-and-economic-dialogue.md)
 China is bringing 150 senior officials, including nearly its whole Cabinet, to the United States this week for talks whose symbolic value is likely to trump concrete achievements.
 

@@ -9,7 +9,7 @@ The stroke of midnight ushered in a new era for same-sex couples in the Garden S
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Condoleezza Rice meets with the Prime Minister of Israel Ehud Olmert and the President of the Palestinian National Authority Mahmoud Abbas. ](/news/2007/02/19/united-states-secretary-of-state-condoleezza-rice-meets-with-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian.md)
-_Context: Condoleezza Rice, Ehud Olmert, Israeli Prime Minister, Mahmoud Abbas, Palestinian Authority President, United States Secretary of State_
+_Context: Condoleezza Rice, Ehud Olmert, Mahmoud Abbas, Palestinian Authority President, Prime Minister, United States Secretary of State_
 
 ##### Samjhauta Express bombings
 ### [ Samjhauta Express bombings: At least 66 people die in bomb blasts on the Samjhauta Express travelling from India to Pakistan. The blasts occurred near Deewana, 80 kilometres north of New Delhi. ](/news/2007/02/19/samjhauta-express-bombings-at-least-66-people-die-in-bomb-blasts-on-the-samjhauta-express-travelling-from-india-to-pakistan-the-blasts-oc.md)

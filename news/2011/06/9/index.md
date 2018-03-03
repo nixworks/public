@@ -67,7 +67,7 @@ _Context: Libya, National Transitional  Council, Turkish_
 ### [At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. ](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.md)
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
-##### U.S.
+##### United States
 ### [The United States intensifies air raids against suspected Al-Qaeda members in Yemen amid anti-government protests. ](/news/2011/06/9/the-united-states-intensifies-air-raids-against-suspected-al-qaeda-members-in-yemen-amid-anti-government-protests.md)
 US newspaper says the move is aimed at preventing suspected fighters from consolidating power in strife-torn nation.
 

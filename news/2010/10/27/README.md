@@ -13,7 +13,7 @@ Pictured moments before humans ate it, a snub-nosed monkey represents a new spec
 
 ##### National Assembly
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: French, French President, National Assembly, Nicolas Sarkozy, recent strikes and demonstrations_
+_Context: France, French President, National Assembly, Nicolas Sarkozy, recent strikes and demonstrations_
 
 ##### Nestor Kirchner
 ### [Nestor Kirchner, Secretary General of UNASUR, former President of Argentina and husband of President Cristina Fernandez de Kirchner dies at his home in El Calafate, Santa Cruz Province, with three days of mourning declared. ](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.md)
@@ -103,9 +103,9 @@ _Context: Afghanistan, Baghlan province, Taliban_
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, U.S._
+_Context: Pakistan, United States_
 
 ##### Al-Shabaab
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)

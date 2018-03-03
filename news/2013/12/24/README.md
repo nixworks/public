@@ -15,7 +15,7 @@ Researchers say about quarter of a million PCs have been infected by a virulent 
 ### [Two NASA astronauts at the International Space Station complete a series of spacewalks to replace a faulty ammonia coolant pump. ](/news/2013/12/24/two-nasa-astronauts-at-the-international-space-station-complete-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.md)
 Two space station astronauts popped in a new pump during a rare Christmas Eve spacewalk Tuesday, eager to wrap up urgent repairs to a cooling system.
 
-##### French
+##### France
 ### [Heavy winds and rain disrupt transportation and cut power in parts of France and the United Kingdom, bringing the death toll of the last two days of storms to 6. ](/news/2013/12/24/heavy-winds-and-rain-disrupt-transportation-and-cut-power-in-parts-of-france-and-the-united-kingdom-bringing-the-death-toll-of-the-last-two.md)
 Hurricane-force winds andtorrential rain disrupted transport networks and cut powersupplies in Britain and France on Tuesday, one of the busiesttravel days of the year just before Christmas, pushing the deathtoll to at least six people.
 

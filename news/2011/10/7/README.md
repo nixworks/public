@@ -3,7 +3,7 @@ Formats: [HTML](2011/10/7/index.html)  [JSON](2011/10/7/index.json)  [XML](2011/
 
 ## [2011-10-7](/news/2011/10/7/index.md)
 
-##### U.S.
+##### United States
 ### [In the United States, the Occupy Wall Street protests spread from New York to other major cities. ](/news/2011/10/7/in-the-united-states-the-occupy-wall-street-protests-spread-from-new-york-to-other-major-cities.md)
 Protests against corporate greed and economic inequality spread across America on Thursday and found unlikely sympathy from a top official of one of main targets of scorn -- the Federal Reserve.
 

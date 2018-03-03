@@ -51,9 +51,9 @@ _Context: Biscayne Bay, Miami, basketball_
 ### [A search and rescue operation gets underway after a Roll-on-roll-off ferry carrying about 60 people capsizes off the island of Burias in the Philippines Masbate province. So far 34 people have been rescued and at least one death confirmed. ](/news/2013/06/14/a-search-and-rescue-operation-gets-underway-after-a-roll-on-roll-off-ferry-carrying-about-60-people-capsizes-off-the-island-of-burias-in-the.md)
 The search for survivors continues after a ferry carrying more than 50 people capsized off the Philippines coast.
 
-##### U.S.
+##### United States
 ### [The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemical-weapons-against.md)
-_Context: U.S._
+_Context: United States_
 
 ## [Previous Day...](/news/2013/06/13/index.md)
 

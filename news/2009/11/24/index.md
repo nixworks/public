@@ -47,9 +47,9 @@ Two men accused of murder, rape and using child soldiers go on trial in The Hagu
 ### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
 _Context: Baha'i faith, Hamshahri, Iran, banned_
 
-##### U.S.
+##### United States
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: Adam Lambert, U.S., homosexual_
+_Context: Adam Lambert, United States, homosexual_
 
 ##### Government of Ireland
 ### [ The Government of Ireland announces a EUR10 million humanitarian fund for the worst affected by ongoing floods in the country. ](/news/2009/11/24/the-government-of-ireland-announces-a-a-10-million-humanitarian-fund-for-the-worst-affected-by-ongoing-floods-in-the-country.md)
@@ -63,9 +63,9 @@ Trade unions have announced plans for a second national strike in public sector 
 ### [ Four people are killed in a helicopter crash off the coast of Netanya in northern Israel. ](/news/2009/11/24/four-people-are-killed-in-a-helicopter-crash-off-the-coast-of-netanya-in-northern-israel.md)
 _Context: Israel, Netanya_
 
-##### French
+##### France
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
-_Context: Central African Republic, French_
+_Context: Central African Republic, France_
 
 ##### Casablanca
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)

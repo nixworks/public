@@ -33,7 +33,7 @@ _Context: Chad, Darfur, Janjaweed, Sudanese, militia_
 
 ##### Federal Reserve
 ### [ The Federal Reserve finds that economic growth in the United States is "moderate or mixed" with "widespread cooling" in the housing market. ](/news/2006/10/12/the-federal-reserve-finds-that-economic-growth-in-the-united-states-is-moderate-or-mixed-with-widespread-cooling-in-the-housing-market.md)
-_Context: Federal Reserve, U.S., economic growth, housing market_
+_Context: Federal Reserve, United States, economic growth, housing market_
 
 ## [Previous Day...](/news/2006/10/11/index.md)
 

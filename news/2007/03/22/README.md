@@ -17,7 +17,7 @@ _Context: Amnesty International, Guantanamo Bay, U.S. military_
 
 ##### Ambassador to the United Nations
 ### [ Former U.S. Ambassador to the United Nations John R. Bolton claims the United States deliberately resisted calls for an immediate ceasefire during the 2006 Israel-Lebanon conflict. ](/news/2007/03/22/former-u-s-ambassador-to-the-united-nations-john-r-bolton-claims-the-united-states-deliberately-resisted-calls-for-an-immediate-ceasefire.md)
-_Context: Ambassador to the United Nations, John R. Bolton, U.S., ceasefire, war_
+_Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-Moon is left shocked, but uninjured at a press conference with Iraqi Prime Minister Nouri Maliki in Baghdad as a nearby bomb explodes. ](/news/2007/03/22/united-nations-secretary-general-ban-ki-moon-is-left-shocked-but-uninjured-at-a-press-conference-with-iraqi-prime-minister-nouri-maliki-in.md)
@@ -37,7 +37,7 @@ European Union governments backed a deal with the United States that would open 
 
 ##### Kinshasa
 ### [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md)
-_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
+_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassy, militia, presidential candidate in 2006, recently elected_
 
 ##### 2007 Zimbabwean political crisis
 ### [ 2007 Zimbabwean political crisis: The Roman Catholic Archbishop of Bulawayo Pius Ncube calls for mass protests to force President Robert Mugabe from power. ](/news/2007/03/22/2007-zimbabwean-political-crisis-the-roman-catholic-archbishop-of-bulawayo-pius-ncube-calls-for-mass-protests-to-force-president-robert-mu.md)
@@ -47,9 +47,9 @@ _Context: 2007 Zimbabwean political crisis, Archbishop, Bulawayo, Pius Ncube, Pr
 ### [ NBC, News Limited, AOL, MSN and Yahoo! join forces to develop an ad-supported online video network to compete with YouTube. ](/news/2007/03/22/nbc-news-limited-aol-msn-and-yahoo-join-forces-to-develop-an-ad-supported-online-video-network-to-compete-with-youtube.md)
 _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 
-##### French
+##### France
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
-_Context: CNES, French, UFO, space agency, website_
+_Context: CNES, France, UFO, space agency, website_
 
 ##### Explodes
 ### [ An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. ](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.md)

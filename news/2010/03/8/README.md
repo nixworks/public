@@ -27,7 +27,7 @@ The President of East Timor has called on Ireland to continue its support for th
 ### [Members of Parliament from Federally Administered Tribal Areas in Pakistan refuse a body scan in the USA, and return home. ](/news/2010/03/8/members-of-parliament-from-federally-administered-tribal-areas-in-pakistan-refuse-a-body-scan-in-the-usa-and-return-home.md)
 _Context: Federally Administered Tribal Areas_
 
-##### French
+##### France
 ### [French police shoot tear gas at protesters at oil company Total S.A.'s headquarters in Paris. ](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.md)
 Officers use tear gas after violent demonstrations over closing of Total oil depot.
 
@@ -69,7 +69,7 @@ International Criminal Police Organization announces 27 people now wanted for al
 
 ##### Simin Behbahani
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
-_Context: French, Iran, Simin Behbahani, Tehran International Airport_
+_Context: France, Iran, Simin Behbahani, Tehran International Airport_
 
 ##### Strong earthquake
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)

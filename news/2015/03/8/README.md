@@ -19,7 +19,7 @@ _Context: Chris Johnson, Florida, New York Jets, Orlando, Tennessee Titans, runn
 ### [American writer and producer Sam Simon, co-creator of the longest running animated sitcom, "The Simpsons", dies at the age of 59 after a 3-year battle with terminal colorectal cancer. ](/news/2015/03/8/american-writer-and-producer-sam-simon-co-creator-of-the-longest-running-animated-sitcom-the-simpsons-dies-at-the-age-of-59-after-a-3-y.md)
 Sam Simon, an Emmy-winning writer and producer, gave away much of his money to charity after he was diagnosed with colon cancer.
 
-##### French
+##### France
 ### [A bomb explodes outside French supermarket Carrefour in Alexandria, Egypt, killing one person and wounding six. ](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.md)
 A bomb has exploded outside a branch of a French supermarket chain in Alexandria, Egyptian security officials say. 
 

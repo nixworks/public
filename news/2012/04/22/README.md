@@ -11,7 +11,7 @@ Fan protests at an Italian top league game between Genoa and Siena saw play halt
 ### [The Speaker of the Australian House of Representatives Peter Slipper steps aside while allegations of sexual harassment and fraud against him are investigated. ](/news/2012/04/22/the-speaker-of-the-australian-house-of-representatives-peter-slipper-steps-aside-while-allegations-of-sexual-harassment-and-fraud-against-hi.md)
 Federal Parliament Speaker Peter Slipper has stepped aside while investigations are underway into allegations of sexual harassment against him.
 
-##### French
+##### France
 ### [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md)
 Socialist champion Francois Hollande stamped his authority on the French presidential race Sunday, winning the first round of polling and setting up a May 6 run-off with incumbent Nicolas Sarkozy.
 
@@ -19,7 +19,7 @@ Socialist champion Francois Hollande stamped his authority on the French preside
 ### [Russia and China begin naval exercises in the Yellow Sea. ](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.md)
 _Context: China, Russia, Yellow Sea, naval exercise_
 
-##### U.S.
+##### United States
 ### [The United States investigates dozens of its troops in Afghanistan in relation to use and distribution of heroin, morphine or other opiates during 2010 and 2011 as the U.S. military struggles to watch its far-flung troops and monitor for substance abuse. ](/news/2012/04/22/the-united-states-investigates-dozens-of-its-troops-in-afghanistan-in-relation-to-use-and-distribution-of-heroin-morphine-or-other-opiates.md)
 The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or distributing heroin, morphine or other opiates during 2010 and 2011, newly-obtained data shows. Eight soldiers died of drug overdoses during that time.
 

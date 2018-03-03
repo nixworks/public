@@ -29,7 +29,7 @@ Experts from Chile who helped rescue miners there last October were heading Wedn
 
 ##### Warren
 ### [A building explosion occurs in the US city of Warren, Michigan. ](/news/2011/05/4/a-building-explosion-occurs-in-the-us-city-of-warren-michigan.md)
-_Context: Mich., Warren_
+_Context: Michigan, Warren_
 
 ##### US Highway 30
 ### [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md)

@@ -9,7 +9,7 @@ _Context: England, Garth prison, Lady in the Lake trial_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. ](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.md)
-_Context: Auschwitz, Benjamin Netanyahu, Holocaust and Remembrance Center, Israel, Israeli Prime Minister_
+_Context: Auschwitz, Benjamin Netanyahu, Holocaust and Remembrance Center, Israel, Prime Minister_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen and Prime Minister Gordon Brown meet at Downing Street to discuss the devolution deadlock in Northern Ireland. ](/news/2010/01/25/taoiseach-brian-cowen-and-prime-minister-gordon-brown-meet-at-downing-street-to-discuss-the-devolution-deadlock-in-northern-ireland.md)
@@ -33,9 +33,9 @@ _Context: Perth, Qantas_
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
 Aircraft carrying 90 people plunges into Mediterranean Sea.
 
-##### U.S.
+##### United States
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: Algeria, U.S._
+_Context: Algeria, United States_
 
 ##### Burma
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)

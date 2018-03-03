@@ -35,9 +35,9 @@ Senior aides to former Attorney General Alberto Gonzales broke the law by using 
 ### [ King George Tupou V of Tonga relinquishes many of his powers, ending centuries of absolute monarchy. ](/news/2008/07/28/king-george-tupou-v-of-tonga-relinquishes-many-of-his-powers-ending-centuries-of-absolute-monarchy.md)
 _Context: George Tupou V, King of Tonga, Tonga_
 
-##### U.S.
+##### United States
 ### [ A United States Predator drone launches a missile strike on a Pakistani madrassa killing six people reportedly including al-Qaeda member Abu Khabab al-Masri.](/news/2008/07/28/a-united-states-predator-drone-launches-a-missile-strike-on-a-pakistani-madrassa-killing-six-people-reportedly-including-al-qaeda-member-ab.md)
-_Context: Abu Khabab al-Masri, Pakistan, Predator drone, U.S., al-Qaeda, madrassa_
+_Context: Abu Khabab al-Masri, Pakistan, Predator drone, United States, al-Qaeda, madrassa_
 
 ## [Previous Day...](/news/2008/07/27/index.md)
 

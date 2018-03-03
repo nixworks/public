@@ -9,7 +9,7 @@ _Context: Jupiter, Neptune, planet, triple conjunction_
 
 ##### Russia
 ### [ Russia will supply US$1 billion of uranium to civilian nuclear reactors in the United States. ](/news/2009/05/27/russia-will-supply-us-1-billion-of-uranium-to-civilian-nuclear-reactors-in-the-united-states.md)
-_Context: $, Russia, U.S., civilian, nuclear reactors, uranium_
+_Context: $, Russia, United States, civilian, nuclear reactors, uranium_
 
 ##### White tiger
 ### [ A rare white tiger is euthanized after killing a zookeeper at the Zion Wildlife Gardens in Whangarei, New Zealand. ](/news/2009/05/27/a-rare-white-tiger-is-euthanized-after-killing-a-zookeeper-at-the-zion-wildlife-gardens-in-whangarei-new-zealand.md)
@@ -35,9 +35,9 @@ _Context: 2009, May 25, North Korea, North Korea's nuclear program, missile, nuc
 ### [ FC Barcelona defeats Manchester United F.C. to win the 2008-09 UEFA Champions League Final. ](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.md)
 _Context: 2008-09, 2009 UEFA Champions League Final, FC Barcelona, Manchester United, UEFA, UEFA Champions League_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama nominates Hispanic Roman Catholic theologian Miguel H. Diaz as Ambassador to the Holy See. ](/news/2009/05/27/united-states-president-barack-obama-nominates-hispanic-roman-catholic-theologian-miguel-h-diaz-as-ambassador-to-the-holy-see.md)
-_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, Roman Catholic Church, U.S., U.S. President, theologian_
+_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, Roman Catholic Church, U.S. President, United States, theologian_
 
 ## [Previous Day...](/news/2009/05/26/index.md)
 

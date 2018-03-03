@@ -33,7 +33,7 @@ _Context: Adel Abdul-Mahdi, Bernard Kouchner, Iraq_
 
 ##### Democrat
 ### [ United States Democratic Party's Rules and Bylaws Committee meets to decide on the Florida and Michigan democratic primaries held in violation of scheduling rules. The Committee decides that both states delegate counts would be halved. ](/news/2008/05/31/united-states-democratic-party-s-rules-and-bylaws-committee-meets-to-decide-on-the-florida-and-michigan-democratic-primaries-held-in-violat.md)
-_Context: Democrat, Florida, Mich., primary election_
+_Context: Democrat, Florida, Michigan, primary election_
 
 ##### Landslide
 ### [ At least five people are killed and 13 are missing after a landslide crushes homes in a poor area of the city of Medellin in Colombia. ](/news/2008/05/31/at-least-five-people-are-killed-and-13-are-missing-after-a-landslide-crushes-homes-in-a-poor-area-of-the-city-of-medellan-in-colombia.md)

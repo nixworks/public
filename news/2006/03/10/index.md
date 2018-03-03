@@ -15,9 +15,9 @@ _Context: LaGuardia Airport, New York City_
 ### [ Twenty-six people are killed in Dera Bugti, southwest Pakistan, when their vehicle hits a landmine. The victims were primarily women and children. Both tribal rebels and security forces planted landmines in the area. ](/news/2006/03/10/twenty-six-people-are-killed-in-dera-bugti-southwest-pakistan-when-their-vehicle-hits-a-landmine-the-victims-were-primarily-women-and-ch.md)
 _Context: Dera Bugti, Pakistan, Twenty-six people are killed, landmine, planted landmines_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [ Italian prosecutors ask for Prime Minister Silvio Berlusconi and British lawyer David Mills to be indicted in the on-going alleged bribery case. ](/news/2006/03/10/italian-prosecutors-ask-for-prime-minister-silvio-berlusconi-and-british-lawyer-david-mills-to-be-indicted-in-the-on-going-alleged-bribery.md)
-_Context: David Mills, Italian Prime Minister, Silvio Berlusconi, indicted_
+_Context: David Mills, Prime Minister of Italy, Silvio Berlusconi, indicted_
 
 ##### John Profumo
 ### [ John Profumo, the man at the centre of Britain's most famous political scandal of the 20th century, has died at the age of 91. ](/news/2006/03/10/john-profumo-the-man-at-the-centre-of-britain-s-most-famous-political-scandal-of-the-20th-century-has-died-at-the-age-of-91.md)

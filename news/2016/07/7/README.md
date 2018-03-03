@@ -35,7 +35,7 @@ The president, reacting to a grisly video that showed Mr. Castile being shot by 
 ### [In a so-called "VatiLeaks" case, a Vatican City Court dismisses charges of publishing confidential information against two Italian journalists stating it lacked jurisdiction in this case. Emiliano Fittipaldi and Gianluigi Nuzzi wrote books on the inner workings of the Vatican. The court did convict a Vatican priest to 18 months, and assessed a 10-month suspended sentence on an Italian communications expert, for conspiring to pass documents to the journalists; a fifth defendant was cleared of all charges. ](/news/2016/07/7/in-a-so-called-vatileaks-case-a-vatican-city-court-dismisses-charges-of-publishing-confidential-information-against-two-italian-journalis.md)
 VATICAN CITY (AP) — A Vatican court declared Thursday it had no jurisdiction to prosecute two journalists who wrote books based in part on confidential documents exposing greed, mismanagement and corruption in the Holy…
 
-##### French
+##### France
 ### [A French court sentences two former Rwandan mayors of the town of Kabarondo to life in prison on charges of crimes against humanity and genocide committed during the Rwandan Genocide in 1994. During the genocide, Hutu extremists massacred over 2,000 Tutsi who sought refuge in the town. ](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.md)
 A French court sentences two former Rwandan mayors to life in prison for their role in the mass killings of ethnic Tutsis during the 1994 genocide.
 

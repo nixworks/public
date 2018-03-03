@@ -39,7 +39,7 @@ Two Michigan officials were accused of misleading other officials about the city
 ### [Anders Behring Breivik, a convicted mass murderer in the 2011 Norway attacks, wins a human rights case against the government of Norway. ](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.md)
 Mass murderer Anders Behring Breivik wins part of a human rights case against the Norwegian state, alleging &quot;inhuman or degrading treatment&quot;.
 
-##### U.S.
+##### United States
 ### [The U.S. state of Utah declares pornography a "public health risk" in a move Governor of Utah Gary Herbert says is to "protect our families and our young people". The bill, signed by the governor, does not ban pornography in the state but does call for greater "efforts to prevent pornography exposure and addiction". ](/news/2016/04/20/the-u-s-state-of-utah-declares-pornography-a-public-health-risk-in-a-move-governor-of-utah-gary-herbert-says-is-to-protect-our-families.md)
 The mainly Mormon US state of Utah becomes the first to declare pornography to be a public health risk.
 

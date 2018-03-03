@@ -165,7 +165,7 @@ At least two inmates are killed and more than 80 injured during a prison riot in
 
 ##### United Nations
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: French, Roma, United Nations_
+_Context: France, Roma, United Nations_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)

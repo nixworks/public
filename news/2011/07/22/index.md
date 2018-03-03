@@ -9,7 +9,7 @@ The Senate rejected a conservative plan to require a balanced budget, as officia
 
 ##### Mexican police
 ### [Two Mexican police officers assigned to guard the United States consulate in Monterrey are killed in a drive-by shooting while off duty. ](/news/2011/07/22/two-mexican-police-officers-assigned-to-guard-the-united-states-consulate-in-monterrey-are-killed-in-a-drive-by-shooting-while-off-duty.md)
-_Context: Mexican police, Monterrey, U.S._
+_Context: Mexican police, Monterrey, United States_
 
 ##### Conspiracy to hack mobile phones
 ### [The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-data-protection-in-scotland.md)

@@ -31,7 +31,7 @@ At least four people die and thousands are evacuated as flooding hits parts of t
 
 ##### Somalia
 ### [Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/militants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-who-was-the-target-of-the-unsuccess.md)
-_Context: Al-Shabaab, French, Somalia, intelligence agent, rescue attempt_
+_Context: Al-Shabaab, France, Somalia, intelligence agent, rescue attempt_
 
 ##### Dujail
 ### [Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/two-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md)

@@ -33,7 +33,7 @@ _Context: Abdel Kareem Soliman, Egypt, Hosni Mubarak, Islam, President, prison, 
 
 ##### Italy
 ### [ Leaders of Italy's centre-left coalition have agreed to support Romano Prodi and a 12-point program meaning that he can resume serving as Prime Minister of Italy. ](/news/2007/02/22/leaders-of-italy-s-centre-left-coalition-have-agreed-to-support-romano-prodi-and-a-12-point-program-meaning-that-he-can-resume-serving-as-p.md)
-_Context: Italian Prime Minister, Italy, Romano Prodi_
+_Context: Italy, Prime Minister of Italy, Romano Prodi_
 
 ##### U.S. military
 ### [ The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md)

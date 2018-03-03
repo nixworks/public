@@ -17,7 +17,7 @@ _Context: Shanghai, police_
 
 ##### Starbucks
 ### [ Starbucks announces that it will close 600 underperforming coffee shops in the United States. ](/news/2008/07/1/starbucks-announces-that-it-will-close-600-underperforming-coffee-shops-in-the-united-states.md)
-_Context: Starbucks, U.S., coffee shop_
+_Context: Starbucks, United States, coffee shop_
 
 ##### Pharmaceutical companies
 ### [ A jury orders pharmaceutical companies GlaxoSmithKline and Novartis to pay $114 million in compensation to the Government of Alabama for overcharging for Medicaid prescription drugs. ](/news/2008/07/1/a-jury-orders-pharmaceutical-companies-glaxosmithkline-and-novartis-to-pay-114-million-in-compensation-to-the-government-of-alabama-for-ov.md)

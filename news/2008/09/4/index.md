@@ -19,9 +19,9 @@ _Context: Royal Thai Government, assemble, referendum_
 ### [ The death toll from flooding in Haiti caused by Tropical Storm Hanna rises to 61. ](/news/2008/09/4/the-death-toll-from-flooding-in-haiti-caused-by-tropical-storm-hanna-rises-to-61.md)
 _Context: Haiti, Tropical Storm Hanna, flood_
 
-##### U.S.
+##### United States
 ### [ Former United States political lobbyist Jack Abramoff is sentenced to four years in prison for his role in the Jack Abramoff scandals. ](/news/2008/09/4/former-united-states-political-lobbyist-jack-abramoff-is-sentenced-to-four-years-in-prison-for-his-role-in-the-jack-abramoff-scandals.md)
-_Context: Jack Abramoff, Jack Abramoff scandals, U.S., lobbyist_
+_Context: Jack Abramoff, Jack Abramoff scandals, United States, lobbyist_
 
 ##### Senator
 ### [ Senator John McCain officially accepts the nomination of the Republican Party in the United States presidential election, 2008. ](/news/2008/09/4/senator-john-mccain-officially-accepts-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2008.md)

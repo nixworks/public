@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/11/index.html)  [JSON](2009/03/11/index.json)  [XML](200
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command. ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: French, French President, NATO, Nicolas Sarkozy, military command_
+_Context: France, French President, NATO, Nicolas Sarkozy, military command_
 
 ##### Iraq
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
@@ -23,9 +23,9 @@ _Context: Liberal Democrats, United Kingdom, criminal records, police_
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, China, export_
 
-##### U.S.
+##### United States
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle "Discovery"'s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space-s.md)
-_Context: Discovery, International Space Station, NASA, Space Shuttle, U.S., hydrogen gas, lands, natural gas leak_
+_Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ##### United Nations
 ### [ The United Nations Children's Fund claims that a meningitis epidemic in Nigeria, Niger, Burkina Faso, and Mali has killed 931 people since January 2009. ](/news/2009/03/11/the-united-nations-children-s-fund-claims-that-a-meningitis-epidemic-in-nigeria-niger-burkina-faso-and-mali-has-killed-931-people-since.md)

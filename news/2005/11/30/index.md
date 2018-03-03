@@ -15,9 +15,9 @@ _Context: General Counsel, Giovanni Prezioso, U.S. Securities and Exchange Commi
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
 _Context: Chinese, Death toll, coal mine_
 
-##### French
+##### France
 ### [ Surgeons in France carry out the first human face transplant. ](/news/2005/11/30/surgeons-in-france-carry-out-the-first-human-face-transplant.md)
-_Context: French, face transplant_
+_Context: France, face transplant_
 
 ##### National Strategy for Victory in Iraq
 ### [ New policy document on American involvement in Iraq, "National Strategy for Victory in Iraq", is published by the White House. ](/news/2005/11/30/new-policy-document-on-american-involvement-in-iraq-national-strategy-for-victory-in-iraq-is-published-by-the-white-house.md)

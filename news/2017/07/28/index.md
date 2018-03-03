@@ -21,7 +21,7 @@ _Context: Iran-United States relations, United Nations Security Council Resoluti
 
 ##### North Korea's nuclear program
 ### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
-_Context: 2017 North Korean missile tests, Japan, North Korea's nuclear program, Sea of Japan, South Korea, U.S._
+_Context: 2017 North Korean missile tests, Japan, North Korea's nuclear program, Sea of Japan, South Korea, United States_
 
 ##### Charlie Gard case
 ### [Charlie Gard, an infant with a rare genetic condition known as mitochondrial DNA depletion syndrome, dies at the age of 11 months. ](/news/2017/07/28/charlie-gard-an-infant-with-a-rare-genetic-condition-known-as-mitochondrial-dna-depletion-syndrome-dies-at-the-age-of-11-months.md)

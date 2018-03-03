@@ -3,7 +3,7 @@ Formats: [HTML](2014/01/14/index.html)  [JSON](2014/01/14/index.json)  [XML](201
 
 ## [2014-01-14](/news/2014/01/14/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Prime Minister of Israel, Ariel Sharon, is buried on his ranch in southern Israel following a state funeral at the Knesset attended by foreign dignitaries and Israelis. ](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.md)
 Knesset speeches highlighted late general&#8217;s military successes against Egyptian forces in 1973 war; as PM, Sharon got on well with Sadat, Mubarak
 

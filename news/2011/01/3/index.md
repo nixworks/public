@@ -9,13 +9,13 @@ China has developed its own technologies that will enable it to reprocess spent 
 
 ##### Red-winged blackbird
 ### [Scientists are investigating the sudden dieoff of over 5,000 red-winged blackbirds in Beebe, Arkansas, United States, on New Year's Eve. ](/news/2011/01/3/scientists-are-investigating-the-sudden-dieoff-of-over-5-000-red-winged-blackbirds-in-beebe-arkansas-united-states-on-new-year-s-eve.md)
-_Context: Beebe, Arkansas, U.S., red-winged blackbird_
+_Context: Beebe, Arkansas, United States, red-winged blackbird_
 
 ##### Republican
 ### [Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. ](/news/2011/01/3/republican-u-s-representative-darrell-issa-calls-for-attorney-general-eric-holder-to-resign-over-lack-of-progress-in-prosecuting-julian-ass.md)
 _Context: Darrell Issa, Eric Holder, Julian Assange, Republican, United States Attorney General, United States House of Representatives, Wikileaks, congressional inquiry_
 
-##### U.S.
+##### United States
 ### [A study reports that 61% of Americans believe the best way to solve the budget deficit is to raise taxes for the wealthiest, in contrast to a plan by Republicans to permanently extend Bush-era tax cuts for the wealthiest Americans](/news/2011/01/3/a-study-reports-that-61-of-americans-believe-the-best-way-to-solve-the-budget-deficit-is-to-raise-taxes-for-the-wealthiest-in-contrast-to.md)
 Most Americans think the United States should raise taxes for the rich to balance the budget, according to a 60 Minutes/Vanity Fair poll released on Monday.
 
@@ -29,7 +29,7 @@ _Context: Capital punishment in Iran, Iran's conservative judiciary, Sakineh Moh
 
 ##### 250,000 documents
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
-_Context: 250,000 documents, Craig Stapleton, French, U.S., genetically modified crops_
+_Context: 250,000 documents, Craig Stapleton, France, U.S., genetically modified crops_
 
 ##### Africa
 ### [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md)

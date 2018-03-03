@@ -65,7 +65,7 @@ A small plane crashes in the city of Recife in north-eastern Brazil, killing all
 
 ##### Moody's
 ### [Moody's threatens to cut the debt rating of the United States. ](/news/2011/07/13/moody-s-threatens-to-cut-the-debt-rating-of-the-united-states.md)
-_Context: Moody's, U.S._
+_Context: Moody's, United States_
 
 ##### Tutshill
 ### [The house in Tutshill near Chepstow where J. K. Rowling grew up is for sale. ](/news/2011/07/13/the-house-in-tutshill-near-chepstow-where-j-k-rowling-grew-up-is-for-sale.md)

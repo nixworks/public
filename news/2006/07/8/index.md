@@ -15,7 +15,7 @@ _Context: Shoichi Nakagawa_
 ### [ Israel rejects Hamas terms for a ceasefire - Palestinian PM Ismail Haniya calls for a ceasefire to end several days of fierce fighting in the Gaza Strip. Israel reiterates its demand to release the abducted soldier Gilad Shalit, and end Qassam rocket attacks on Israeli towns, for an immediate cease fire to take place. ](/news/2006/07/8/israel-rejects-hamas-terms-for-a-ceasefire-palestinian-pm-ismail-haniya-calls-for-a-ceasefire-to-end-several-days-of-fierce-fighting-in-t.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### U.S.
+##### United States
 ### [ US diplomat Christopher R. Hill indicates US support for the informal resumption of six party talks aimed at resolving the North Korean nuclear crisis. ](/news/2006/07/8/us-diplomat-christopher-r-hill-indicates-us-support-for-the-informal-resumption-of-six-party-talks-aimed-at-resolving-the-north-korean-nuc.md)
 The Sydney Morning Herald 404 Page
 

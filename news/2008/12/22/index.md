@@ -7,9 +7,9 @@ Formats: [HTML](2008/12/22/index.html)  [JSON](2008/12/22/index.json)  [XML](200
 ### [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)
 Underscoring how the economic crisis is spreading across the global auto industry, Toyota said it will lose money in its core automaking business.
 
-##### U.S.
+##### United States
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
-_Context: Merida Initiative, U.S., money laundering, narcotics_
+_Context: Merida Initiative, United States, money laundering, narcotics_
 
 ##### Dealers
 ### [ Automobile dealers in Mexico demand a US$3 billion bailout package during the automotive crisis. ](/news/2008/12/22/automobile-dealers-in-mexico-demand-a-us-3-billion-bailout-package-during-the-automotive-crisis.md)
@@ -21,7 +21,7 @@ _Context: Chilpancingo, Guerrero, Mexico_
 
 ##### Conspiring to kill soldiers
 ### [ A jury finds five men guilty of conspiring to kill soldiers at Fort Dix, New Jersey, United States. ](/news/2008/12/22/a-jury-finds-five-men-guilty-of-conspiring-to-kill-soldiers-at-fort-dix-new-jersey-united-states.md)
-_Context: Fort Dix, New Jersey, U.S., conspiring to kill soldiers_
+_Context: Fort Dix, New Jersey, United States, conspiring to kill soldiers_
 
 ##### Impoundment
 ### [ An impoundment at the Tennessee Valley Authority's coal-fired power plant in Kingston, Tennessee, fails, resulting in a large volume of fly ash slurry being spilled onto surrounding land and the adjacent Emory and Clinch Rivers. ](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.md)

@@ -13,7 +13,7 @@ Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has ac
 
 ##### Tropical Storm Gabrielle
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)
-_Context: Tropical Storm Gabrielle, U.S., tropical storm_
+_Context: Tropical Storm Gabrielle, United States, tropical storm_
 
 ##### Hindu
 ### [ At least 85 Hindu pilgrims have died after a lorry accident in India. (Wikinews) ](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.md)
@@ -31,7 +31,7 @@ _Context: Istiqlal Party, Morocco, parliamentary elections_
 ### [ Justine Henin of Belgium wins the U.S. Open women's tennis singles championship defeating Svetlana Kuznetsova of Russia 6-1 6-3 in the final. ](/news/2007/09/8/justine-henin-of-belgium-wins-the-u-s-open-women-s-tennis-singles-championship-defeating-svetlana-kuznetsova-of-russia-6-1-6-3-in-the-fina.md)
 _Context: Belgium, Justine Henin, Russia, Svetlana Kuznetsova, U.S. Open_
 
-##### Argentine president
+##### Argentine President
 ### [ Former President of Argentina Carlos Menem is charged with involvement in the illegal sale of weapons to Ecuador and Croatia. ](/news/2007/09/8/former-president-of-argentina-carlos-menem-is-charged-with-involvement-in-the-illegal-sale-of-weapons-to-ecuador-and-croatia.md)
 Former Argentine president Carlos Menem has been charged with involvement in the illegal sale of weapons to Croatia and Ecuador while he was in office between 1989 and 1999.
 

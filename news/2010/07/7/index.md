@@ -31,9 +31,9 @@ A man working for Lagos University Teaching Hospital is arrested in Nigeria, car
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
 When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental activist had been sentenced in Tokyo, they thought he was going to be locked up in Japan for two years.
 
-##### French
+##### France
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: French, French President, Nicolas Sarkozy_
+_Context: France, French President, Nicolas Sarkozy_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls on Iran to stop the execution of Sakineh Mohammadi Ashtiani, a woman convicted of adultery. She denies the charges. ](/news/2010/07/7/human-rights-watch-calls-on-iran-to-stop-the-execution-of-sakineh-mohammadi-ashtiani-a-woman-convicted-of-adultery-she-denies-the-charges.md)
@@ -93,7 +93,7 @@ _Context: Brazil, Bruno Fernandes de Souza_
 
 ##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, U.S., United Kingdom_
+_Context: Afghanistan, Sangin, United Kingdom, United States_
 
 ##### Norway
 ### [A Norwegian asylum centre burns to the ground during protests at conditions at the facility. ](/news/2010/07/7/a-norwegian-asylum-centre-burns-to-the-ground-during-protests-at-conditions-at-the-facility.md)

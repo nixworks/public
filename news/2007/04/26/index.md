@@ -11,9 +11,9 @@ _Context: Istanbul, apartment building_
 ### [ The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is formally installed as the 13th Yang di-Pertuan Agong of Malaysia. ](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.md)
 _Context: Malaysia, Sultan Mizan Zainal Abidin, Sultan of Terengganu, monarch_
 
-##### U.S.
+##### United States
 ### [ A former commander of a United States military detention center in Iraq is detained and under investigation for "aiding the enemy". ](/news/2007/04/26/a-former-commander-of-a-united-states-military-detention-center-in-iraq-is-detained-and-under-investigation-for-aiding-the-enemy.md)
-_Context: Iraq, U.S._
+_Context: Iraq, United States_
 
 ##### 2008
 ### [ United States presidential election, 2008: All eight official Democratic candidates debate in the first 2008 presidential debate, hosted by South Carolina State University and the South Carolina Democratic Party. ](/news/2007/04/26/united-states-presidential-election-2008-all-eight-official-democratic-candidates-debate-in-the-first-2008-presidential-debate-hosted-by.md)

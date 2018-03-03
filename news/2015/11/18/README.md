@@ -19,7 +19,7 @@ A college prank may be at the root of a desperate search for missing Pennsylvani
 ### [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service "Sapo" says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are-hu.md)
 _Context: Sapo, Sweden_
 
-##### U.S.
+##### United States
 ### [U.S. and Cuban officials sign an environmental accord in Havana, the first such agreement since the countries renewed diplomatic relations this summer. ](/news/2015/11/18/u-s-and-cuban-officials-sign-an-environmental-accord-in-havana-the-first-such-agreement-since-the-countries-renewed-diplomatic-relations-t.md)
 On Wednesday, U.S. and Cuban officials signed an environmental accord in Havana, the first such agreement since the diplomatic thaw.
 
@@ -39,7 +39,7 @@ Four people have been killed in out-of-control bushfires on WA&#039;s south coas
 ### [Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md)
 Some 25,000 households will be without electricity overnight as Storm Barney sweeps across the country.
 
-##### U.S.
+##### United States
 ### [Airport workers at seven of the busiest U.S. hubs plan to strike tonight and Thursday over wages and what they allege are threats against unionizing. The Service Employees International Union (SEIU) says some 2,000 plane cleaners, baggage handlers, and other workers will strike at New York City's Kennedy and LaGuardia airports, as well as Newark Liberty, Chicago O'Hare, Boston, Philadelphia, and Fort Lauderdale. ](/news/2015/11/18/airport-workers-at-seven-of-the-busiest-u-s-hubs-plan-to-strike-tonight-and-thursday-over-wages-and-what-they-allege-are-threats-against-un.md)
 Airport workers at seven of thebusiest U.S. hubs plan to strike on Wednesday night and Thursdayover what they say are bad wages and threats against unionizing.
 

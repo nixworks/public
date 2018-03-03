@@ -17,7 +17,7 @@ A South Korean court sentenced the captain of a ferry -- which sank in April, ki
 
 ##### Ebola virus cases in the United States
 ### [Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-released-from-a-new-york-city-hospital-his.md)
-_Context: Doctors Without Borders volunteer, Dr. Craig Spencer, Ebola, Ebola virus cases in the United States, New York City, U.S., hospital_
+_Context: Doctors Without Borders volunteer, Dr. Craig Spencer, Ebola, Ebola virus cases in the United States, New York City, United States, hospital_
 
 ##### Ebola virus epidemic in West Africa
 ### [Mali confirms that it has a new case of Ebola virus, this time in the capital Bamako. ](/news/2014/11/11/mali-confirms-that-it-has-a-new-case-of-ebola-virus-this-time-in-the-capital-bamako.md)

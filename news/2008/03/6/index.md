@@ -27,9 +27,9 @@ _Context: Baghdad, Iraq_
 ### [ At least eight people, including four children, are killed and dozens wounded in a shooting attack on the Mercaz HaRav yeshiva in Jerusalem. ](/news/2008/03/6/at-least-eight-people-including-four-children-are-killed-and-dozens-wounded-in-a-shooting-attack-on-the-mercaz-harav-yeshiva-in-jerusalem.md)
 Get local Miami news plus Miami breaking news, business, green, national, and world news from NBC 6 Miami.
 
-##### U.S.
+##### United States
 ### [ The United States Senate passes legislation providing for more rigorous inspection of toys and other playthings imported into the United States. ](/news/2008/03/6/the-united-states-senate-passes-legislation-providing-for-more-rigorous-inspection-of-toys-and-other-playthings-imported-into-the-united-st.md)
-_Context: Senator, U.S._
+_Context: Senator, United States_
 
 ##### Rings
 ### [ The discovery of the Rings of the Saturnian moon Rhea, the first known rings around a moon, is announced. ](/news/2008/03/6/the-discovery-of-the-rings-of-the-saturnian-moon-rhea-the-first-known-rings-around-a-moon-is-announced.md)

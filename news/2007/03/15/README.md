@@ -3,9 +3,9 @@ Formats: [HTML](2007/03/15/index.html)  [JSON](2007/03/15/index.json)  [XML](200
 
 ## [2007-03-15](/news/2007/03/15/index.md)
 
-##### French
+##### France
 ### [ France's SNCF inaugurates the LGV Est route between Paris and Strasbourg. ](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.md)
-_Context: French, LGV Est, Paris, SNCF, Strasbourg_
+_Context: France, LGV Est, Paris, SNCF, Strasbourg_
 
 ##### Naxalite
 ### [ Naxalite rebels attack a police outpost in the Bijapur district of Chhattisgarh, India, killing at least 49 officers and looting their weapons. ](/news/2007/03/15/naxalite-rebels-attack-a-police-outpost-in-the-bijapur-district-of-chhattisgarh-india-killing-at-least-49-officers-and-looting-their-weap.md)
@@ -37,11 +37,11 @@ _Context: Mars, Planum Australe, planet, polar ice cap, south pole, water_
 
 ##### Willie Brigitte
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
-_Context: Australia, French, Willie Brigitte, jail_
+_Context: Australia, France, Willie Brigitte, jail_
 
-##### U.S.
+##### United States
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, U.S., car bomb_
+_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
 
 ##### Hungary
 ### [ Hungarian police use water cannon and tear gas to disperse a crowd of anti-government protestors in Budapest. ](/news/2007/03/15/hungarian-police-use-water-cannon-and-tear-gas-to-disperse-a-crowd-of-anti-government-protestors-in-budapest.md)

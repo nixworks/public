@@ -21,7 +21,7 @@ _Context: Australian Federal Police, Cabcharge, Peter Slipper, Speaker of the Au
 
 ##### Nicolas Sarkozy
 ### [Presidential candidates Nicolas Sarkozy and Francois Hollande go head-to-head in a televised debate in France. ](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.md)
-_Context: Francois Hollande, French, Nicolas Sarkozy_
+_Context: France, Francois Hollande, Nicolas Sarkozy_
 
 ##### Egypt
 ### [The Egyptian military expresses its willingness to hand over political power on May 24 if an outright winner emerges in the first round of the presidential elections. ](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.md)

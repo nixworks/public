@@ -9,7 +9,7 @@ _Context: Alain Bernard, world record_
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France will reduce its airborne nuclear weapons arsenal by a third. ](/news/2008/03/21/president-nicolas-sarkozy-announces-that-france-will-reduce-its-airborne-nuclear-weapons-arsenal-by-a-third.md)
-_Context: French, French President, Nicolas Sarkozy, nuclear weapons arsenal_
+_Context: France, French President, Nicolas Sarkozy, nuclear weapons arsenal_
 
 ##### Magnitude
 ### [ A 7.2-magnitude earthquake hits western China. ](/news/2008/03/21/a-7-2-magnitude-earthquake-hits-western-china.md)

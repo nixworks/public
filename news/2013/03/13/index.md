@@ -47,7 +47,7 @@ A twin-engine plane has crashed in the Brazilian Amazon state of Para, killing a
 ### [The European Parliament rejects a European Union budget for the first time in its history. ](/news/2013/03/13/the-european-parliament-rejects-a-european-union-budget-for-the-first-time-in-its-history.md)
 _Context: European Parliament, European Union, budget_
 
-##### French
+##### France
 ### [French sociologist of science and anthropologist Bruno Latour wins the 2013 Holberg Prize. ](/news/2013/03/13/french-sociologist-of-science-and-anthropologist-bruno-latour-wins-the-2013-holberg-prize.md)
 Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize laureate. Latour is professor at Sciences Po, Paris. Photo credit: Manuel Braun. The Board of the Ludvig Holberg Memorial Fund has decided to award the 2013 Holberg International Memorial Prize to anthropologist and soci...
 

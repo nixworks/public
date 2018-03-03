@@ -13,7 +13,7 @@ _Context: Australia, Governor, Governor-General of Australia, Kevin Rudd, Prime 
 
 ##### Prime Minister
 ### [ Deputy Prime Minister of Kosovo Hajredin Kui announces that the newly independent country plans to open 20 embassies abroad. ](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.md)
-_Context: Hajredin Kui, Kosovo, Prime Minister, embassies_
+_Context: Hajredin Kui, Kosovo, Prime Minister, embassy_
 
 ##### Robert Zoellick
 ### [ Robert Zoellick, the president of the World Bank, calls for immediate action to tackle rising food prices which have caused rioting in several countries. ](/news/2008/04/13/robert-zoellick-the-president-of-the-world-bank-calls-for-immediate-action-to-tackle-rising-food-prices-which-have-caused-rioting-in-seve.md)

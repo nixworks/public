@@ -19,7 +19,7 @@ The inauguration of Afghanistan&#039;s new parliament has been delayed by a mont
 ### [Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. ](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.md)
 _Context: Communist Party, Nguyen Phu Trong, Nong Duc Manh, Vietnam, elected_
 
-##### U.S.
+##### United States
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.
 
@@ -31,9 +31,9 @@ _Context: Pennsylvania, Philadelphia, Pennsylvania, U.S. state, abortion_
 ### [The British Home Office says that American pastor Terry Jones is excluded from the UK for the public good. ](/news/2011/01/19/the-british-home-office-says-that-american-pastor-terry-jones-is-excluded-from-the-uk-for-the-public-good.md)
 Controversial US pastor Terry Jones, who last year threatened a Koran-burning protest, has been banned from entering the UK, the Home Office says.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi gives a ten-minute television address vowing to punish those investigating him in relation to claims he purchased an under-age prostitute. ](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
+_Context: Prime Minister of Italy, Silvio Berlusconi, prostitute_
 
 ##### South Africa
 ### [Two attempts in South Africa to arrest former Israeli foreign minister Tzipi Livni for alleged war crimes during the war on Gaza are rejected. ](/news/2011/01/19/two-attempts-in-south-africa-to-arrest-former-israeli-foreign-minister-tzipi-livni-for-alleged-war-crimes-during-the-war-on-gaza-are-rejecte.md)

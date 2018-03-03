@@ -17,7 +17,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Jerusalem
 ### [ 40,000 demonstrators protest in Jerusalem against Prime Minister Ariel Sharon's plans to force all Israeli Jews to leave the Gaza Strip and parts of the West Bank. ](/news/2004/09/12/40-000-demonstrators-protest-in-jerusalem-against-prime-minister-ariel-sharon-s-plans-to-force-all-israeli-jews-to-leave-the-gaza-strip-and.md)
-_Context: Ariel Sharon, Gaza Strip, Israel, Israeli Prime Minister, Jerusalem, West Bank_
+_Context: Ariel Sharon, Gaza Strip, Israel, Jerusalem, Prime Minister, West Bank_
 
 ##### Iraq
 ### [ At least 110 Iraqis are killed in a day of widespread violence, as the U.S. engages in new offensives to retake insurgent-held areas before the January elections. An al-Arabiya journalist is killed during a live broadcast when attack helicopters fire at a crowd gathered around a burning Bradley vehicle in Baghdad. Helicopters and tanks fire on residential areas in rebel-occupied Ramadi. More fighting takes place in Tal Afar and Hilla. ](/news/2004/09/12/at-least-110-iraqis-are-killed-in-a-day-of-widespread-violence-as-the-u-s-engages-in-new-offensives-to-retake-insurgent-held-areas-before.md)

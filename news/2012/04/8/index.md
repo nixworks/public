@@ -33,7 +33,7 @@ _Context: Kaduna, Nigeria, car bomb_
 
 ##### Afghanistan
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
-_Context: Afghan government, Afghanistan, U.S._
+_Context: Afghan government, Afghanistan, United States_
 
 ##### Syria
 ### [At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.md)

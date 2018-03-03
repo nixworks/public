@@ -33,7 +33,7 @@ _Context: 2010 general election, United Kingdom, leaders' debates_
 
 ##### Israel
 ### [Former Israeli Prime Minister Ehud Olmert is a prime suspect in a large corruption scandal, law enforcement sources have told the BBC. ](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.md)
-_Context: BBC, Ehud Olmert, Israel, Israeli Prime Minister_
+_Context: BBC, Ehud Olmert, Israel, Prime Minister_
 
 ##### Eruption
 ### [Due to the eruption of Eyjafjallajkull volcano, Belgian, British, Czech, Danish, Dutch, Finnish, French, German, Icelandic, Irish, Norwegian, Polish, Russian and Swedish airspaces are affected by the eruption. ](/news/2010/04/15/due-to-the-eruption-of-eyjafjallajokull-volcano-belgian-british-czech-danish-dutch-finnish-french-german-icelandic-irish-norwegia.md)

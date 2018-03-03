@@ -9,7 +9,7 @@ _Context: Heathrow Airport, London, M25 motorway, M4, National Express Coach cra
 
 ##### United States President
 ### [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md)
-_Context: Gerald Ford, Grand Rapids, Mich., United States President, buried_
+_Context: Gerald Ford, Grand Rapids, Michigan, United States President, buried_
 
 ##### Michael Perham
 ### [ Fourteen-year-old Michael Perham becomes the youngest person to ever sail single-handedly across the Atlantic Ocean, when he completes a six-week voyage from Gibraltar by docking in Antigua. ](/news/2007/01/3/fourteen-year-old-michael-perham-becomes-the-youngest-person-to-ever-sail-single-handedly-across-the-atlantic-ocean-when-he-completes-a-si.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2009/02/8/index.html)  [JSON](2009/02/8/index.json)  [XML](2009/
 
 ## [2009-02-8](/news/2009/02/8/index.md)
 
-##### U.S.
+##### United States
 ### [ United States Treasury Secretary Timothy F. Geithner delays announcing a bailout of the banking industry until Tuesday. ](/news/2009/02/8/united-states-treasury-secretary-timothy-f-geithner-delays-announcing-a-bailout-of-the-banking-industry-until-tuesday.md)
 An administration official said the overhaul of the government&#39;s $700 billion financial rescue program is likely to include a partnership with the private sectors.
 

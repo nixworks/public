@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/28/index.html)  [JSON](2010/11/28/index.json)  [XML](201
 
 ##### Okinawa
 ### [Voters in Okinawa Prefecture, Japan, go to the polls for the gubernatorial election with anti-US base governor Hirokazu Nakaima reelected. ](/news/2010/11/28/voters-in-okinawa-prefecture-japan-go-to-the-polls-for-the-gubernatorial-election-with-anti-us-base-governor-hirokazu-nakaima-reelected.md)
-_Context: Hirokazu Nakaima, Japan, Okinawa, U.S., governor, gubernatorial election_
+_Context: Hirokazu Nakaima, Japan, Okinawa, United States, governor, gubernatorial election_
 
 ##### Catalonia
 ### [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md)

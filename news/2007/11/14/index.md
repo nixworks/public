@@ -21,7 +21,7 @@ _Context: Baghdad, Green Zone, Iraqi insurgency, civilian, roadside bomb_
 
 ##### Hossein Mousavian
 ### [ Hossein Mousavian, a former Iranian nuclear negotiator, is charged with espionage by Iran's intelligence ministry. He allegedly gave classified information to the British embassy. ](/news/2007/11/14/hossein-mousavian-a-former-iranian-nuclear-negotiator-is-charged-with-espionage-by-iran-s-intelligence-ministry-he-allegedly-gave-classi.md)
-_Context: Hossein Mousavian, Iran, United Kingdom, classified information, embassies, espionage, intelligence, negotiation, nuclear program_
+_Context: Hossein Mousavian, Iran, United Kingdom, classified information, embassy, espionage, intelligence, negotiation, nuclear program_
 
 ##### President of Ghana
 ### [ President of Ghana John Kufuor is involved in a car accident in Accra, but is not hurt. ](/news/2007/11/14/president-of-ghana-john-kufuor-is-involved-in-a-car-accident-in-accra-but-is-not-hurt.md)
@@ -43,9 +43,9 @@ _Context: 62-hour train strike, Deutsche Bahn, German, train driver_
 ### [ The 2007 National Book Awards go to Denis Johnson ("Tree of Smoke"), fiction, Tim Weiner ("Legacy of Ashes: The History of the CIA"), non-fiction, Sherman Alexie ("The Absolutely True Diary of a Part-Time Indian"), young people's literature, and Robert Hass ("Time and Materials"), poetry. ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-non-f.md)
 _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book Award's, Robert Hass, Sherman Alexie, The Absolutely True Diary of a Part-Time Indian, Tim Weiner, Time and Materials, Tree of Smoke_
 
-##### French
+##### France
 ### [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md)
-_Context: French, French President, Nicolas Sarkozy, energy, pension reform, rail service, strike, transport_
+_Context: France, French President, Nicolas Sarkozy, energy, pension reform, rail service, strike, transport_
 
 ## [Previous Day...](/news/2007/11/13/index.md)
 

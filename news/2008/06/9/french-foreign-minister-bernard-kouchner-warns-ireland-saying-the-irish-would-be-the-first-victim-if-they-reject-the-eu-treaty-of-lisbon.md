@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/9/french-foreign-minister-bernard-kouchner-warns-i
 
 ### [2008-06-9](/news/2008/06/9/index.md)
 
-##### French
+##### France
 #  French foreign minister Bernard Kouchner warns Ireland, saying the Irish would be the "first victim" if they reject the EU Treaty of Lisbon. 
 
 

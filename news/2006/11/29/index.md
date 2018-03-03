@@ -17,7 +17,7 @@ _Context: Fiji, Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously passes a resolution that extends the mandate of the United States-led multinational force in Iraq until December 31, 2007. The new resolution requires a review of the mandate to begin by June 15, 2007, or sooner if the government of Iraq requests it. The government of Iraq can also revoke the mandate before its end if it chooses to do so. ](/news/2006/11/29/the-united-nations-security-council-unanimously-passes-a-resolution-that-extends-the-mandate-of-the-united-states-led-multinational-force-i.md)
-_Context: Iraq, U.S., U.S.-led troops, United Nations Security Council_
+_Context: Iraq, U.S.-led troops, United Nations Security Council, United States_
 
 ##### Soldiers
 ### [ An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS "Kanimbla" (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". ](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-lost-at-sea-off-the-coast-of-fiji-where-it-had-been-operating-from-hmas-kanimbla-l-51-prepa.md)

@@ -51,7 +51,7 @@ At least 12 people are dead after a landslide in Bali overnight that wiped out s
 ### [ In Hong Kong, over 16 were injured, and an incoherent man was charged with arson after an alleged firebomb attack on a rush hour Hong Kong metro commuter train. The man set fire to himself and others with a flammable liquid for an unspecified personal reason, but officials found no evidence of a terrorist motive. ](/news/2017/02/10/in-hong-kong-over-16-were-injured-and-an-incoherent-man-was-charged-with-arson-after-an-alleged-firebomb-attack-on-a-rush-hour-hong-kong.md)
 Three people remain in critical condition after an alleged firebomb attack on the Hong Kong metro, which hurt at least 16 other commuters. One man, Cheung Kam-fai, 60, was arrested following the incident at Tsim Sha Tsui station, on the Tsuen Wan Line, during the Friday evening rush hour. He has now...
 
-##### French
+##### France
 ### [French police arrest three men and a 16-year-old girl found with bomb-making materials in a Montpellier flat. The female suspect had been spotted online saying she wanted to either leave for the Syria-Iraq conflict or mount an attack in France, and recorded a video in which she pledged allegiance to ISIL. ](/news/2017/02/10/french-police-arrest-three-men-and-a-16-year-old-girl-found-with-bomb-making-materials-in-a-montpellier-flat-the-female-suspect-had-been-sp.md)
 Three men and a girl of 16 are found with bomb-making materials in a police raid in Montpellier.
 

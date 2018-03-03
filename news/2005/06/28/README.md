@@ -51,9 +51,9 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### [ Countries backing the ITER fusion reactor meet in Moscow to decide if the experimental fusion reactor will be built in Cadarache, Southern France, instead of Japan. ](/news/2005/06/28/countries-backing-the-iter-fusion-reactor-meet-in-moscow-to-decide-if-the-experimental-fusion-reactor-will-be-built-in-cadarache-southern.md)
 _Context: Cadarache, ITER, Moscow, nuclear fusion_
 
-##### French
+##### France
 ### [ In France, police search offices of specialty chemicals company Rhodia and finance ministry in the investigation of accounting irregularities and inside trading. Finance minister Thierry Breton was a member of the Rhodia board. ](/news/2005/06/28/in-france-police-search-offices-of-specialty-chemicals-company-rhodia-and-finance-ministry-in-the-investigation-of-accounting-irregulariti.md)
-_Context: French, Rhodia, Thierry Breton, accounting, finance ministry, inside trading_
+_Context: France, Rhodia, Thierry Breton, accounting, finance ministry, inside trading_
 
 ##### Pakistan
 ### [ Pakistan's Supreme Court suspends the acquittal of five men accused of raping Mukhtaran Bibi. ](/news/2005/06/28/pakistan-s-supreme-court-suspends-the-acquittal-of-five-men-accused-of-raping-mukhtaran-bibi.md)

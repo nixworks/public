@@ -33,7 +33,7 @@ _Context: DR Congo, Human Rights Watch, Kinshasa, extrajudicial killing, had kil
 
 ##### November 2014 North American cold wave
 ### [Lake-effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michigan-wisconsin-and-ohio-stranding-hundr.md)
-_Context: Erie County, New York, Lake-effect snow, Mich., New York, November 2014 North American cold wave, Ohio, Pennsylvania, Wisconsin_
+_Context: Erie County, New York, Lake-effect snow, Michigan, New York, November 2014 North American cold wave, Ohio, Pennsylvania, Wisconsin_
 
 ##### South Korea's coast guard
 ### [South Korea launches a new National Safety Agency with more than 10,000 staff to replace the Korea Coast Guard, blamed by President Park Geun-hye for a poor response to the sinking of MV "Sewol". ](/news/2014/11/18/south-korea-launches-a-new-national-safety-agency-with-more-than-10-000-staff-to-replace-the-korea-coast-guard-blamed-by-president-park-geu.md)

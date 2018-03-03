@@ -83,7 +83,7 @@ _Context: U.S. Environmental Protection Agency, West Virginia, coal mine_
 ### [China is reported to have the highest wind power capacity after adding 16GW in 2010, bringing its total to 41.8GW, with the U.S. in second with 40.2GW installed.](/news/2011/01/13/china-is-reported-to-have-the-highest-wind-power-capacity-after-adding-16gw-in-2010-bringing-its-total-to-41-8gw-with-the-u-s-in-second-w.md)
 _Context: China, GW, U.S., wind power_
 
-##### U.S.
+##### United States
 ### [United States banks foreclose on a record one million mortgages in 2010. ](/news/2011/01/13/united-states-banks-foreclose-on-a-record-one-million-mortgages-in-2010.md)
 New figures show US banks foreclosed on a record one million American homes in 2010.
 

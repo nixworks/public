@@ -29,7 +29,7 @@ Decision ends five-year battle by archive holders hoping to sell trove of papers
 
 ##### President of Mauritania
 ### [President of Mauritania Mohamed Ould Abdel Aziz, shot by troops yesterday, is flown to France. ](/news/2012/10/14/president-of-mauritania-mohamed-ould-abdel-aziz-shot-by-troops-yesterday-is-flown-to-france.md)
-_Context: French, Mohamed Ould Abdel Aziz, President of Mauritania_
+_Context: France, Mohamed Ould Abdel Aziz, President of Mauritania_
 
 ##### Occupy activists
 ### [Occupy activists chain themselves to the pulpit of St Paul's Cathedral in an action of solidarity with Pussy Riot, and read a declaration calling on cathedral authorities to stop neglecting their Christian duty - "In the fight for economic justice, Jesus threw the money changers out of the temple, but you invited them in and instead evicted us." ](/news/2012/10/14/occupy-activists-chain-themselves-to-the-pulpit-of-st-paul-s-cathedral-in-an-action-of-solidarity-with-pussy-riot-and-read-a-declaration-ca.md)

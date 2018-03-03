@@ -19,9 +19,9 @@ _Context: District 9, Nigeria_
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)
 Pope Benedict today announced he would hold a special meeting next year of Roman Catholic bishops to discuss the concerns and&hellip;
 
-##### French
+##### France
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: French_
+_Context: France_
 
 ##### Vera Lynn
 ### [ Singer Vera Lynn, aged 92, becomes the oldest artist to obtain a number one album in the United Kingdom. ](/news/2009/09/19/singer-vera-lynn-aged-92-becomes-the-oldest-artist-to-obtain-a-number-one-album-in-the-united-kingdom.md)
@@ -37,7 +37,7 @@ _Context: German, al Qaeda_
 
 ##### Pakistan
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: Pakistan, U.S., security_
+_Context: Pakistan, United States, security_
 
 ##### Takayama
 ### [ Four people are seriously injured in a bear attack in Takayama, Gifu Prefecture, Japan. ](/news/2009/09/19/four-people-are-seriously-injured-in-a-bear-attack-in-takayama-gifu-prefecture-japan.md)
@@ -69,7 +69,7 @@ _Context: Yemen, ceasefire_
 
 ##### Denver
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Colorado, Denver, FBI, U.S._
+_Context: Colorado, Denver, FBI, United States_
 
 ##### Africa
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)

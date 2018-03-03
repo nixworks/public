@@ -17,7 +17,7 @@ _Context: illegitimate, legitimate_
 
 ##### Israel
 ### [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md)
-_Context: Ariel Sharon, Israel, Israeli Prime Minister, Moshe Katsav, assassination_
+_Context: Ariel Sharon, Israel, Moshe Katsav, Prime Minister, assassination_
 
 ##### Philippines
 ### [ In the Philippines, president Gloria Arroyo states that she would welcome impeachment proceedings as an opportunity to refute allegations about vote-rigging. The military has expressed its support of the president amid rumors of a coup. ](/news/2005/07/4/in-the-philippines-president-gloria-arroyo-states-that-she-would-welcome-impeachment-proceedings-as-an-opportunity-to-refute-allegations-a.md)

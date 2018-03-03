@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involveme
 
 ### [2006-07-11](/news/2006/07/11/index.md)
 
-##### U.S.
+##### United States
 #  U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in "Who's Who in America." 
 
 
@@ -20,8 +20,8 @@ Formats: [HTML](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involveme
 
 ### Related:
 
-1. [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md) _Context: CIA leak scandal, U.S., Valerie Plame_
-2. [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md) _Context: CIA leak scandal, U.S._
+1. [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md) _Context: CIA leak scandal, United States, Valerie Plame_
+2. [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md) _Context: CIA leak scandal, United States_
 3. [ A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. ](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by-valerie-plame-against-members-of-the-bush-administration-in-connection-with-the-plame-affa.md) _Context: CIA leak scandal, Valerie Plame_
 4. [ "The New York Times" reporter Judith Miller is released from federal jail after receiving a waiver from her news source, allowing her to testify in the investigation of the outing of CIA operative Valerie Plame. [http:--edition.cnn.com-2005-POLITICS-09-29-cia.leak-index.html (CNN)] [https:--news.yahoo.com-s-ap-20050930-ap_on_go_ca_st_pe-cia_leak_investigation (Yahoo News)] (Link dead as of 00:44, 15 January 2007 (UTC))](/news/2005/09/29/the-new-york-times-reporter-judith-miller-is-released-from-federal-jail-after-receiving-a-waiver-from-her-news-source-allowing-her-to-te.md) _Context: CIA leak scandal, Valerie Plame_
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._
+5. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: United States_

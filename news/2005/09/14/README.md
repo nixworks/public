@@ -29,7 +29,7 @@ _Context: Central African Republic, Kenya, Liberia, Tanzania, UN High Commission
 
 ##### President
 ### [ The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. ](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shakes-hands-with-the-prime-minister-of-israel-ariel-sharon-the-first-time-such-an-encounter.md)
-_Context: Ariel Sharon, Israeli Prime Minister, Pervez Musharraf, president_
+_Context: Ariel Sharon, Pervez Musharraf, Prime Minister, president_
 
 ## [Previous Day...](/news/2005/09/13/index.md)
 

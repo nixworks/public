@@ -3,9 +3,9 @@ Formats: [HTML](2014/01/2/index.html)  [JSON](2014/01/2/index.json)  [XML](2014/
 
 ## [2014-01-2](/news/2014/01/2/index.md)
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Israeli Prime Minister Ariel Sharon is in critical condition following renal failure after being in a coma since 2006. ](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.md)
-_Context: Ariel Sharon, Israeli Prime Minister, coma, renal failure_
+_Context: Ariel Sharon, Prime Minister, coma, renal failure_
 
 ##### Nor'easter
 ### [The East Coast of the United States braces itself for the first Nor'easter of the season set to bring below normal temperatures and heavy snow in places and prompting the governors of Massachusetts, New York, and New Jersey to declare state emergencies. ](/news/2014/01/2/the-east-coast-of-the-united-states-braces-itself-for-the-first-nor-easter-of-the-season-set-to-bring-below-normal-temperatures-and-heavy-sn.md)

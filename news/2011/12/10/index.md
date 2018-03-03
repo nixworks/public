@@ -17,7 +17,7 @@ _Context: Oscar Valds, Peru, Salomn Lerner Ghitis_
 
 ##### Cristina Kirchner
 ### [Cristina Fernndez de Kirchner is sworn as President of Argentina in a second consecutive mandate. ](/news/2011/12/10/cristina-fernandez-de-kirchner-is-sworn-as-president-of-argentina-in-a-second-consecutive-mandate.md)
-_Context: Argentine president, Cristina Kirchner_
+_Context: Argentine President, Cristina Kirchner_
 
 ##### DR Congo
 ### [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md)

@@ -13,7 +13,7 @@ Threat level is reduced but Operation Temperer, which allows military to be depl
 
 ##### Colombey
 ### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
-_Context: Charles de Gaulle, Colombey, French_
+_Context: Charles de Gaulle, Colombey, France_
 
 ##### 43rd G7 summit
 ### [The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change denial. ](/news/2017/05/27/the-meeting-of-group-of-7-leaders-in-taormina-italy-concludes-with-a-disagreement-on-whether-to-uphold-the-paris-agreement-u-s-president.md)

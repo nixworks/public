@@ -13,7 +13,7 @@ Two children died and another 30 were sickened in a mass poisoning at a kinderga
 
 ##### Bernard A. Friedman
 ### [American judge Bernard A. Friedman of the United States District Court for the Eastern District of Michigan overturns Michigan's ban on same-sex marriages. ](/news/2014/03/21/american-judge-bernard-a-friedman-of-the-united-states-district-court-for-the-eastern-district-of-michigan-overturns-michigan-s-ban-on-same.md)
-_Context: Bernard A. Friedman, Mich., U.S. District Judge for the Eastern District of Michigan_
+_Context: Bernard A. Friedman, Michigan, U.S. District Judge for the Eastern District of Michigan_
 
 ##### Ukraine
 ### [Ukraine signs an association accord with the European Union in defiance of Russia. ](/news/2014/03/21/ukraine-signs-an-association-accord-with-the-european-union-in-defiance-of-russia.md)

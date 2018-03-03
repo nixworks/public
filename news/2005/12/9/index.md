@@ -13,7 +13,7 @@ _Context: China, Dongzhou, Guangdong, Tiananmen Square protests of 1989, infill,
 
 ##### George W. Bush
 ### [ The Bush administration summons Canadian ambassador Frank McKenna, and is expected to formally lodge a complaint after Prime Minister Paul Martin's criticism on December 7 of the United States at the Montreal conference on climate change. U.S.-Canada relations are already a major issue in the upcoming Canadian federal election. ](/news/2005/12/9/the-bush-administration-summons-canadian-ambassador-frank-mckenna-and-is-expected-to-formally-lodge-a-complaint-after-prime-minister-paul.md)
-_Context: Canada, Canadian federal election, 2006, Frank McKenna, George W. Bush, Paul Martin, Prime Minister of Canada, U.S., U.S.-Canada relations, United Nations Climate Change Conference, ambassador, criticism on December 7_
+_Context: Canada, Canadian federal election, 2006, Frank McKenna, George W. Bush, Paul Martin, Prime Minister of Canada, U.S.-Canada relations, United Nations Climate Change Conference, United States, ambassador, criticism on December 7_
 
 ##### FIFA
 ### [ The Groups for the 2006 FIFA World Cup to be held in Germany are finalized. ](/news/2005/12/9/the-groups-for-the-2006-fifa-world-cup-to-be-held-in-germany-are-finalized.md)

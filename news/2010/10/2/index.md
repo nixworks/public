@@ -45,7 +45,7 @@ _Context: Sweden, terrorist_
 
 ##### Palestinian Authority
 ### [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md)
-_Context: Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, U.S., West Bank, peace talks_
+_Context: Israel, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, United States, West Bank, peace talks_
 
 ##### Oxygen
 ### [American female television station Oxygen gives the go-ahead to a new reality show set to star American celebrity and heiress Paris Hilton; the show is to follow Hilton in the course of her daily life. ](/news/2010/10/2/american-female-television-station-oxygen-gives-the-go-ahead-to-a-new-reality-show-set-to-star-american-celebrity-and-heiress-paris-hilton.md)

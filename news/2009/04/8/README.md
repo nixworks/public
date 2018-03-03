@@ -21,7 +21,7 @@ _Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia
 
 ##### Temecula
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
-_Context: California, Temecula, U.S._
+_Context: California, Temecula, United States_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. ](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.md)

@@ -11,7 +11,7 @@ _Context: Donald Trump, Immigration policy of Donald Trump, William Orrick, exec
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 
-##### U.S.
+##### United States
 ### [The United States announced it will end a six-year Central-African hunt for Joseph Kony the following day. ](/news/2017/04/25/the-united-states-announced-it-will-end-a-six-year-central-african-hunt-for-joseph-kony-the-following-day.md)
 One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
 
@@ -21,7 +21,7 @@ NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged 
 
 ##### Germany-Israel relations
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Benjamin Netanyahu, Breaking the Silence, Foreign Minister, Germany-Israel relations, Israeli Army, Israeli Prime Minister, NGO, Sigmar Gabriel, veteran_
+_Context: Benjamin Netanyahu, Breaking the Silence, Foreign Minister, Germany-Israel relations, Israeli Army, NGO, Prime Minister, Sigmar Gabriel, veteran_
 
 ##### North Korea-United States relations
 ### [The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-development.md)

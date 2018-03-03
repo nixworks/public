@@ -21,7 +21,7 @@ _Context: Obama administration, abortion, health care, regulation_
 
 ##### Washington Post
 ### [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md)
-_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, U.S., Washington Post_
+_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, United States, Washington Post_
 
 ##### Uganda
 ### [Voters in Uganda go to the polls for the Ugandan general election. ](/news/2011/02/18/voters-in-uganda-go-to-the-polls-for-the-ugandan-general-election.md)
@@ -33,7 +33,7 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 
 ##### Madeleine McCann
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: Madeleine McCann, Portugal, U.S._
+_Context: Madeleine McCann, Portugal, United States_
 
 ##### Turkish
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
@@ -43,7 +43,7 @@ _Context: Ergenekon, Turkish, Turkish government, dissident_
 ### [A Chinese court upholds an eight year sentence for "stealing state secrets" for Chinese American geologist Xue Feng. ](/news/2011/02/18/a-chinese-court-upholds-an-eight-year-sentence-for-stealing-state-secrets-for-chinese-american-geologist-xue-feng.md)
 A Chinese-born US geologist loses his appeal against an eight-year sentence in China on charges of stealing state secrets.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods-u.md)
 Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, days after being charged with having sex with an under-age prostitute.
 

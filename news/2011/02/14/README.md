@@ -73,7 +73,7 @@ Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost dou
 
 ##### General Motors
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, U.S., hourly worker, profit_
+_Context: General Motors, United States, hourly worker, profit_
 
 ##### Lago Agrio
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)

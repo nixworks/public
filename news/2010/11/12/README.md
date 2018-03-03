@@ -11,9 +11,9 @@ _Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
 ### [Irish Health Minister Mary Harney is targeted with eggs and cheese by protestors shouting "Bloody Mary" in response to her healthcare funding cuts. It follows a similar incident involving red paint last week. ](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.md)
 Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she arrived at the Mid Western Regional Hospital in Nenagh.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
-_Context: Ariel Sharon, Israeli Prime Minister_
+_Context: Ariel Sharon, Prime Minister_
 
 ##### Jos Alencar
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)

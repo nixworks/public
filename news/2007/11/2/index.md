@@ -9,7 +9,7 @@ ICANN forms group to hasten non-English domain names
 
 ##### Europe
 ### [ Stocks across Asia drop sharply after a rough Thursday in Europe and the United States, with the Hang Seng Index in Hong Kong losing over 1,000 points, or 3.25%, the biggest loss of any Asian market. London's FTSE 100 Index loses ground for a second day after the news in Asia. ](/news/2007/11/2/stocks-across-asia-drop-sharply-after-a-rough-thursday-in-europe-and-the-united-states-with-the-hang-seng-index-in-hong-kong-losing-over-1.md)
-_Context: Europe, FTSE 100 Index, Hang Seng Index, Hong Kong, U.S._
+_Context: Europe, FTSE 100 Index, Hang Seng Index, Hong Kong, United States_
 
 ##### S. P. Thamilselvan
 ### [ S. P. Thamilselvan, the political chief of the Sri Lankan rebel group Tamil Tigers, is killed in an attack by the Sri Lanka Air Force near Kilinochchi. ](/news/2007/11/2/s-p-thamilselvan-the-political-chief-of-the-sri-lankan-rebel-group-tamil-tigers-is-killed-in-an-attack-by-the-sri-lanka-air-force-near.md)

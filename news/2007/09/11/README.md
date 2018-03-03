@@ -3,7 +3,7 @@ Formats: [HTML](2007/09/11/index.html)  [JSON](2007/09/11/index.json)  [XML](200
 
 ## [2007-09-11](/news/2007/09/11/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-city-washington-dc-and-shanksville-pa.md)
 Osama bin Laden defied the United States with a new tape praising the &quot;19 champions&quot; who carried out the Sept. 11 suicide hijackings, on the day America remembered the nearly 3,000 people who died.
 
@@ -73,7 +73,7 @@ Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late ne
 
 ##### Chinese
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: Chinese, U.S., lead paint, toy_
+_Context: Chinese, United States, lead paint, toy_
 
 ##### Bruce Golding
 ### [ Bruce Golding is sworn in as Prime Minister of Jamaica following the victory of his Jamaica Labour Party in the parliamentary elections. ](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.md)

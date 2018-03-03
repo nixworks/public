@@ -15,7 +15,7 @@ Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the econom
 ### [Voters in Mali go to the polls for the second round of a presidential election. ](/news/2013/08/11/voters-in-mali-go-to-the-polls-for-the-second-round-of-a-presidential-election.md)
 Polls have now closed in Mali in a presidential election run-off aimed at restoring democracy and stability after more than a year of turmoil.
 
-##### French
+##### France
 ### [A coach crash in southern France kills two tourists and injures 30. ](/news/2013/08/11/a-coach-crash-in-southern-france-kills-two-tourists-and-injures-30.md)
 A coach has crashed in southern France, killing two tourists and injuring 30 others. The Eurolines bus was travelling from Marseille to Spain when it
 

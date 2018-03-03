@@ -21,7 +21,7 @@ Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and
 
 ##### 2018 Women's March
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
-_Context: 2018 Women's March, U.S., women's rights_
+_Context: 2018 Women's March, United States, women's rights_
 
 ##### Jordan-United States relations
 ### [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md)

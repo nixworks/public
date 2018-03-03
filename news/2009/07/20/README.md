@@ -13,7 +13,7 @@ _Context: German_
 
 ##### India
 ### [ India and the United States sign a defence pact. ](/news/2009/07/20/india-and-the-united-states-sign-a-defence-pact.md)
-_Context: India, U.S._
+_Context: India, United States_
 
 ##### Wildfire
 ### [ Wildfires force thousands of residents to flee in the Okanagan, western Canada. ](/news/2009/07/20/wildfires-force-thousands-of-residents-to-flee-in-the-okanagan-western-canada.md)

@@ -45,7 +45,7 @@ Taiwan military prosecutors charge a senior general with spying for China - the 
 
 ##### U.S. President
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Six Day War, U.S. President, White House_
+_Context: Barack Obama, Benjamin Netanyahu, Prime Minister, Six Day War, U.S. President, White House_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il reportedly visits China, the third such visit in a year. ](/news/2011/05/20/north-korean-leader-kim-jong-il-reportedly-visits-china-the-third-such-visit-in-a-year.md)

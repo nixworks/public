@@ -7,9 +7,9 @@ Formats: [HTML](2006/12/1/index.html)  [JSON](2006/12/1/index.json)  [XML](2006/
 ### [ Billionaire Kirk Kerkorian sold off the last of his shares in General Motors, the Wall Street Journal reported. It was clear that Kerkorian had sold 14 million shares for $28.75 per share, or about $400 million, slicing his stake to 4.95%. ](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.md)
 _Context: General Motors, Kirk Kerkorian, Wall Street Journal_
 
-##### U.S.
+##### United States
 ### [ The United States warns of a possible al-Qaeda attack to disrupt the stock market and other financial institutions with a cyber attack. ](/news/2006/12/1/the-united-states-warns-of-a-possible-al-qaeda-attack-to-disrupt-the-stock-market-and-other-financial-institutions-with-a-cyber-attack.md)
-_Context: U.S., al-Qaeda, cyber attack, stock market_
+_Context: United States, al-Qaeda, cyber attack, stock market_
 
 ##### Voreqe Bainimarama
 ### [ Fijian military commander Frank Bainimarama says he intends to begin a "clean up" campaign of Government now that his deadline has passed. Laisenia Qarase, the Prime Minister of Fiji, has advised that he has been given a new deadline of noon on Monday. ](/news/2006/12/1/fijian-military-commander-frank-bainimarama-says-he-intends-to-begin-a-clean-up-campaign-of-government-now-that-his-deadline-has-passed.md)

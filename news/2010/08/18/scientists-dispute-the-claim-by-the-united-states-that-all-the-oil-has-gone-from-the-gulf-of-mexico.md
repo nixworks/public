@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-stat
 
 ### [2010-08-18](/news/2010/08/18/index.md)
 
-##### U.S.
+##### United States
 # Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-stat
 
 ### Related:
 
-1. [It is revealed that BP chief executive Tony Hayward is negotiating his terms of exit after being negatively criticised by politicians in the United States over his handling of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/25/it-is-revealed-that-bp-chief-executive-tony-hayward-is-negotiating-his-terms-of-exit-after-being-negatively-criticised-by-politicians-in-the.md) _Context: Gulf of Mexico, U.S._
-2. [Energy company BP announces it is to sell billions worth of assets in Canada, Egypt, Pakistan, United States and Vietnam to part-fund the clean-up cost of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/21/energy-company-bp-announces-it-is-to-sell-billions-worth-of-assets-in-canada-egypt-pakistan-united-states-and-vietnam-to-part-fund-the-cl.md) _Context: Gulf of Mexico, U.S._
-3. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._
-4. [Syria and the Russian Federation once again state that the United States' military presence in Syria is "illegal". United States and US-backed forces now have control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-the-russian-federation-once-again-state-that-the-united-states-military-presence-in-syria-is-illegal-united-states-and-us-back.md) _Context: U.S._
-5. [Mexican authorities arrest American-born Jose Maria Guizar Valencia, the alleged leader of the Zetas drug cartel, as he was entering a hotel in Mexico City's upscale neighborhood of Roma. ](/news/2018/02/8/mexican-authorities-arrest-american-born-jose-maria-guizar-valencia-the-alleged-leader-of-the-zetas-drug-cartel-as-he-was-entering-a-hotel.md) _Context: U.S._
+1. [It is revealed that BP chief executive Tony Hayward is negotiating his terms of exit after being negatively criticised by politicians in the United States over his handling of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/25/it-is-revealed-that-bp-chief-executive-tony-hayward-is-negotiating-his-terms-of-exit-after-being-negatively-criticised-by-politicians-in-the.md) _Context: Gulf of Mexico, United States_
+2. [Energy company BP announces it is to sell billions worth of assets in Canada, Egypt, Pakistan, United States and Vietnam to part-fund the clean-up cost of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/21/energy-company-bp-announces-it-is-to-sell-billions-worth-of-assets-in-canada-egypt-pakistan-united-states-and-vietnam-to-part-fund-the-cl.md) _Context: Gulf of Mexico, United States_
+3. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: United States_
+4. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: United States_
+5. [Syria and the Russian Federation once again state that the United States' military presence in Syria is "illegal". United States and US-backed forces now have control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-the-russian-federation-once-again-state-that-the-united-states-military-presence-in-syria-is-illegal-united-states-and-us-back.md) _Context: United States_

@@ -69,7 +69,7 @@ Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight 
 
 ##### Libyan Civil War (2014-present)
 ### [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md)
-_Context: Benghazi, Benina, Benina International Airport, British, French, ISIL, Libya, Libyan Civil War (2014-present), Libyan National Army, defence minister, special forces, special forces_
+_Context: Benghazi, Benina, Benina International Airport, British, France, ISIL, Libya, Libyan Civil War (2014-present), Libyan National Army, defence minister, special forces, special forces_
 
 ##### Kurdish-Turkish conflict
 ### [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md)

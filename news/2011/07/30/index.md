@@ -9,7 +9,7 @@ A Unity in the Park concert event turned into panic after shots were fired into 
 
 ##### Mexican
 ### [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md)
-_Context: Chihuahua, Jos Antonio Acosta Hernndez, Juarez, La Lnea, Mexican, U.S._
+_Context: Chihuahua, Jos Antonio Acosta Hernndez, Juarez, La Lnea, Mexican, United States_
 
 ##### Conspiracy to hack mobile phones
 ### [The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-by-news-international-journalists.md)

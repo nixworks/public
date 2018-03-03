@@ -29,7 +29,7 @@ _Context: Manila hostage crisis, President, his predecessor_
 
 ##### Miami International Airport
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)
-_Context: Florida, Miami International Airport, U.S._
+_Context: Florida, Miami International Airport, United States_
 
 ##### United Nations Food and Agriculture Organization
 ### [The United Nations Food and Agriculture Organization calls a special meeting for 24 September to discuss rising food prices. ](/news/2010/09/3/the-united-nations-food-and-agriculture-organization-calls-a-special-meeting-for-24-september-to-discuss-rising-food-prices.md)
@@ -57,7 +57,7 @@ At least four people have died and hundreds of homes have been destroyed in a ne
 
 ##### New England
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: Hurricane Earl, New England, U.S., tropical storm_
+_Context: Hurricane Earl, New England, United States, tropical storm_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in North Sumatra, Indonesia, erupts again. ](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.md)

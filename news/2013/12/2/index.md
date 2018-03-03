@@ -13,7 +13,7 @@ _Context: New Hampshire_
 
 ##### Pope Francis
 ### [Pope Francis meets with the Prime Minister of Israel Benjamin Netanyahu at the Vatican to discuss global affairs including the nuclear program of Iran. ](/news/2013/12/2/pope-francis-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-vatican-to-discuss-global-affairs-including-the-nuclear-progr.md)
-_Context: Benjamin Netanyahu, Israeli Prime Minister, Pope Francis, Vatican, nuclear program_
+_Context: Benjamin Netanyahu, Pope Francis, Prime Minister, Vatican, nuclear program_
 
 ##### Brazil
 ### [A five-story building under construction collapses in the Brazilian city of Guarulhos with no casualties. ](/news/2013/12/2/a-five-story-building-under-construction-collapses-in-the-brazilian-city-of-guarulhos-with-no-casualties.md)

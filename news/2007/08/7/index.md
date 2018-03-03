@@ -53,7 +53,7 @@ _Context:  Georgian, Georgian-Russian relations, Russia, Two Russian aircraft al
 
 ##### Juan Carlos Ramirez-Abadia
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, U.S., cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle Cartel, United States, cocaine_
 
 ##### Israel
 ### [ Israel evicts Jewish settlers from Hebron. A dozen religious members of the Israeli Army refuse to participate and are sentenced for up to a month in a military jail. ](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.md)

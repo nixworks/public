@@ -15,9 +15,9 @@ _Context: Cuba, Gulf of Mexico, Russia, petroleum_
 ### [ The International Monetary Fund says it will take "unprecedented" measures to help poor countries cope with the economic downturn. ](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.md)
 _Context: International Monetary Fund_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy claims he is fine after his fainting fit. ](/news/2009/07/29/french-president-nicolas-sarkozy-claims-he-is-fine-after-his-fainting-fit.md)
-_Context: French, French President, Nicolas Sarkozy, fainting, fit_
+_Context: France, French President, Nicolas Sarkozy, fainting, fit_
 
 ##### Sudan
 ### [ The trial of Sudanese journalist and United Nations worker Lubna Ahmed Hussein, who faces 40 lashes for wearing trousers, is adjourned. ](/news/2009/07/29/the-trial-of-sudanese-journalist-and-united-nations-worker-lubna-ahmed-hussein-who-faces-40-lashes-for-wearing-trousers-is-adjourned.md)

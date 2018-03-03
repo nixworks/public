@@ -13,7 +13,7 @@ President Donald Trump says he doesn&apos;t have any recordings of his private c
 
 ##### Immigration to the United States
 ### [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md)
-_Context: Chaldean, Christian, Immigration to the United States, Mich._
+_Context: Chaldean, Christian, Immigration to the United States, Michigan_
 
 ##### Brexit negotiations
 ### [UK Prime Minister Theresa May announces that citizens of the European Union living in the United Kingdom will be able to acquire a "UK settled status" after the UK leaves the EU. ](/news/2017/06/22/uk-prime-minister-theresa-may-announces-that-citizens-of-the-european-union-living-in-the-united-kingdom-will-be-able-to-acquire-a-uk-settl.md)

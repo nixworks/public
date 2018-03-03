@@ -47,7 +47,7 @@ Ninety people took some dosage of experimental drug being tested for Portuguese 
 ### [A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approaches.md)
 The category two cyclone Victor appears to be slowly moving away from the northern Cook Islands, instead tracking towards the main island of Rarotonga.
 
-##### Mich.
+##### Michigan
 ### [The U.S. state of Michigan asks for assistance from the federal government to assist with a water crisis in the city of Flint. ](/news/2016/01/15/the-u-s-state-of-michigan-asks-for-assistance-from-the-federal-government-to-assist-with-a-water-crisis-in-the-city-of-flint.md)
 Michigan Governor Rick Snyder has asked President Barack Obama to declare both an emergency and an expedited major disaster in the county where the city of Flint has been dealing with the fallout from lead-contaminated drinking water.
 

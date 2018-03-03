@@ -13,7 +13,7 @@ _Context: Pervez Musharraf_
 
 ##### Detroit
 ### [A shooting at a barbershop in Detroit, Michigan, U.S. kills 2 people and injures 7 others. ](/news/2013/11/6/a-shooting-at-a-barbershop-in-detroit-michigan-u-s-kills-2-people-and-injures-7-others.md)
-_Context: Detroit, Mich., U.S._
+_Context: Detroit, Michigan, U.S._
 
 ##### 
 ### [Saudi police crackdowns on foreigners working illegally in the kingdom widen with more than 16,000 arrests. ](/news/2013/11/6/saudi-police-crackdowns-on-foreigners-working-illegally-in-the-kingdom-widen-with-more-than-16-000-arrests.md)

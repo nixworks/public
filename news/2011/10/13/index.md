@@ -21,7 +21,7 @@ Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Stre
 
 ##### South Korean president
 ### [The President of South Korea, Lee Myung-bak, gives an address to a joint session of the United States Congress, emphasizing the importance of a recently-concluded free trade deal between South Korea and the United States, and expounding the need to improve relations with North Korea. ](/news/2011/10/13/the-president-of-south-korea-lee-myung-bak-gives-an-address-to-a-joint-session-of-the-united-states-congress-emphasizing-the-importance-o.md)
-_Context: Congress, Lee Myung-bak, North Korea, South Korea, South Korean president, U.S., free trade_
+_Context: Congress, Lee Myung-bak, North Korea, South Korea, South Korean president, United States, free trade_
 
 ##### Central America
 ### [At least 29 people are killed in Central America and Mexico by a series of storms; five of the deaths are caused by Hurricane Jova. ](/news/2011/10/13/at-least-29-people-are-killed-in-central-america-and-mexico-by-a-series-of-storms-five-of-the-deaths-are-caused-by-hurricane-jova.md)

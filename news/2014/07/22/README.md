@@ -7,7 +7,7 @@ Formats: [HTML](2014/07/22/index.html)  [JSON](2014/07/22/index.json)  [XML](201
 ### [Joko Widodo is officially elected as the new president of Indonesia ](/news/2014/07/22/joko-widodo-is-officially-elected-as-the-new-president-of-indonesia.md)
 Joko &quot;Jokowi&quot; Widodo, is officially Indonesia&#039;s seventh president after the General Elections Commission (KPU) concluded its vote recapitulation on Tuesday evening, confirming that the governor of Jakarta and furniture businessman had garnered 53
 
-##### U.S.
+##### United States
 ### [Panels of the United States Fourth and D.C. ("Halbig v. Burwell") Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enroll.md)
 Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Court panel rules.
 

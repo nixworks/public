@@ -25,7 +25,7 @@ _Context: Asian Cup, Iraq, Saudi Arabia_
 
 ##### Alberto Contador
 ### [ Alberto Contador of Spain wins the 2007 Tour de France with Cadel Evans of Australia finishing second and Levi Leipheimer of the United States finishing third. ](/news/2007/07/29/alberto-contador-of-spain-wins-the-2007-tour-de-france-with-cadel-evans-of-australia-finishing-second-and-levi-leipheimer-of-the-united-sta.md)
-_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France, U.S._
+_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France, United States_
 
 ##### Brazil
 ### [ Approximately 5,000 Brazilians demonstrate in So Paulo over the recent crash of TAM Linhas Areas Flight 3054. ](/news/2007/07/29/approximately-5-000-brazilians-demonstrate-in-sao-paulo-over-the-recent-crash-of-tam-linhas-aereas-flight-3054.md)
@@ -43,9 +43,9 @@ _Context: North Atlantic tropical cyclone, Philosophical Transactions of the Roy
 ### [ Six people die in a bus crash while travelling to the Barbados Crop Over Festival. ](/news/2007/07/29/six-people-die-in-a-bus-crash-while-travelling-to-the-barbados-crop-over-festival.md)
 _Context: Barbados Crop Over Festival_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert announces that United States military and defense aid to Israel will total $30 billion over the next ten years. ](/news/2007/07/29/the-prime-minister-of-israel-ehud-olmert-announces-that-united-states-military-and-defense-aid-to-israel-will-total-30-billion-over-the-ne.md)
-_Context: $, Ehud Olmert, Israel, Israeli Prime Minister, U.S._
+_Context: $, Ehud Olmert, Israel, Prime Minister, United States_
 
 ## [Previous Day...](/news/2007/07/28/index.md)
 

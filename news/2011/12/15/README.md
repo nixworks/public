@@ -15,9 +15,9 @@ Congressional negotiators signed off Thursday evening on a $1 trillion spending 
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
 _Context: Alan Keen, Feltham and Heston, Feltham and Heston by-election, Labour Party_
 
-##### French
+##### France
 ### [A French court convicts Venezuela-born terrorist Carlos the Jackal of organising four deadly attacks in the 1980s. ](/news/2011/12/15/a-french-court-convicts-venezuela-born-terrorist-carlos-the-jackal-of-organising-four-deadly-attacks-in-the-1980s.md)
-_Context: Carlos the Jackal, French, Venezuela_
+_Context: Carlos the Jackal, France, Venezuela_
 
 ##### The Sun
 ### [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md)
@@ -43,7 +43,7 @@ _Context: China, Ningxia_
 ### [The 2010 United States Census shows 1 in 2 people are classified as low-income or poor. ](/news/2011/12/15/the-2010-united-states-census-shows-1-in-2-people-are-classified-as-low-income-or-poor.md)
 _Context: 2010 Census_
 
-##### U.S.
+##### United States
 ### [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md)
 The flag of American forces in Iraq has been lowered in Baghdad bringing nearly nine years of US military operations in Iraq to a formal end.
 

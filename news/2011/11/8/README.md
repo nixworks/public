@@ -23,7 +23,7 @@ After months of campaigning and talking to local residents, initial poll results
 ### [Voters in Liberia go to the polls for the second round of a presidential election, with the incumbent President, Ellen Johnson Sirleaf, likely to be re-elected. ](/news/2011/11/8/voters-in-liberia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-the-incumbent-president-ellen-johnson-sirleaf-like.md)
 _Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, President of Liberia_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi narrowly wins a key budget vote in the Italian Parliament, but loses his parliamentary absolute majority as both allied and opposition politicians call on him to resign. ](/news/2011/11/8/prime-minister-of-italy-silvio-berlusconi-narrowly-wins-a-key-budget-vote-in-the-italian-parliament-but-loses-his-parliamentary-absolute-ma.md)
 Italian Prime Minister Silvio Berlusconi said on Tuesday he would resign after suffering a humiliating setback in parliament that showed a party revolt had stripped him of a majority.
 

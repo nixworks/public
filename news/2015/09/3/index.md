@@ -23,7 +23,7 @@ _Context: Alejandro Maldonado, Guatemalan President, Otto Prez Molina_
 ### [A military parade is held in Beijing featuring 12,000 members of the People's Liberation Army, 500 vehicles and 200 People's Liberation Army Air Force air craft. Women of the Chinese military are allowed to participate in this particular parade for the first time. ](/news/2015/09/3/a-military-parade-is-held-in-beijing-featuring-12-000-members-of-the-people-s-liberation-army-500-vehicles-and-200-people-s-liberation-army.md)
 The military parade in Beijing on September 3, celebrating Japan’s surrender in World War II, is going to demonstrate some 500 units of China’s military hardware rolling across Tiananmen Square, accompanied by 12,000 troops.
 
-##### French
+##### France
 ### [French prosecutors state that they believe "with certainty" that a piece of debris that had washed ashore on Reunion Island came from the missing plane. ](/news/2015/09/3/french-prosecutors-state-that-they-believe-with-certainty-that-a-piece-of-debris-that-had-washed-ashore-on-reunion-island-came-from-the-mi.md)
 French prosecutors say &quot;with certainty&quot; that a wing part found on Reunion Island in July came from missing flight MH370.
 

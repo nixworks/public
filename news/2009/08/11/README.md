@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/11/index.html)  [JSON](2009/08/11/index.json)  [XML](200
 
 ##### Kenya
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)
-_Context: Belgium, Bulgaria, French, Kenya, Somalia_
+_Context: Belgium, Bulgaria, France, Kenya, Somalia_
 
 ##### Nepenthes attenboroughii
 ### [ "Nepenthes attenboroughii", a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)

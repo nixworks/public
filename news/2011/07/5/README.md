@@ -55,7 +55,7 @@ _Context: Arizona, Phoenix  Sky Harbor International Airport, Phoenix, Arizona, 
 ### [Brian Schweitzer, the Governor of the US state of Montana declares a state of emergency in counties affected by an oil spill in the Yellowstone River. ](/news/2011/07/5/brian-schweitzer-the-governor-of-the-us-state-of-montana-declares-a-state-of-emergency-in-counties-affected-by-an-oil-spill-in-the-yellowst.md)
 _Context: Brian Schweitzer, Governor, Montana, Yellowstone River, states of emergency_
 
-##### Argentine president
+##### Argentine President
 ### [President of Argentina Cristina Fernandez de Kirchner announces social benefits and tax deferments designed to assist those affected by the eruption of Puyehue-Cordon Caulle. ](/news/2011/07/5/president-of-argentina-cristina-ferna-ndez-de-kirchner-announces-social-benefits-and-tax-deferments-designed-to-assist-those-affected-by-the.md)
 Argentine President Cristina Fernandez unveils economic measures to help the south of the country affected by volcanic ash from neighbouring Chile.
 

@@ -9,7 +9,7 @@ _Context: Charles Clarke, English local elections, Foreign Secretary, Home Secre
 
 ##### Porter Goss
 ### [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md)
-_Context: CIA, Director of the CIA, Porter Goss, U.S._
+_Context: CIA, Director of the CIA, Porter Goss, United States_
 
 ##### Sudan
 ### [ The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. ](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.md)

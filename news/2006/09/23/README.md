@@ -11,7 +11,7 @@ _Context: Solar-B, Uchinoura Space Centre_
 ### [ A car bomb attack on a fuel station in the Sadr City district of Baghdad, Iraq, kills at least 26 people. Many others are injured. ](/news/2006/09/23/a-car-bomb-attack-on-a-fuel-station-in-the-sadr-city-district-of-baghdad-iraq-kills-at-least-26-people-many-others-are-injured.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### French
+##### France
 ### [ French authorities are investigating reports that Osama bin Laden has died of typhoid after a leaked French secret service report. "Time" magazine also cites an unknown Saudi Arabian source that Bin Laden had a waterborne disease and may be dead. However, French and U.S. authorities are unable to confirm these reports. ](/news/2006/09/23/french-authorities-are-investigating-reports-that-osama-bin-laden-has-died-of-typhoid-after-a-leaked-french-secret-service-report-time-m.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

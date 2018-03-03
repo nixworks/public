@@ -27,7 +27,7 @@ _Context: Iraq, elections_
 ### [Thailand deports the five-man crew detained in the country since December after transporting weapons from North Korea. ](/news/2010/02/12/thailand-deports-the-five-man-crew-detained-in-the-country-since-december-after-transporting-weapons-from-north-korea.md)
 _Context: North Korea, Thailand_
 
-##### U.S.
+##### United States
 ### [The United States successfully shoots down a launching ballistic missile using the Boeing YAL-1, a military Boeing 747-400F aircraft mounted with a chemical oxygen iodine laser weapon. ](/news/2010/02/12/the-united-states-successfully-shoots-down-a-launching-ballistic-missile-using-the-boeing-yal-1-a-military-boeing-747-400f-aircraft-mounted.md)
 A U.S. high-powered airbornelaser weapon shot down a ballistic missile in the firstsuccessful test of a futuristic directed energy weapon, theU.S. Missile Defense Agency said on Friday.
 
@@ -37,7 +37,7 @@ The Winter Olympic Games opening ceremony has been launched in a flurry of ticke
 
 ##### Shooting
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
-_Context: U.S., University of Alabama in Huntsville, shooting_
+_Context: United States, University of Alabama in Huntsville, shooting_
 
 ##### Mexico
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
@@ -61,7 +61,7 @@ _Context: Kenya, Mtwapa, homosexual_
 
 ##### Ban Ki-moon
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Ban Ki-moon, Chinese, DPRK, Japan, Russia, Six-Party Talks, South Korea, U.S._
+_Context: Ban Ki-moon, Chinese, DPRK, Japan, Russia, Six-Party Talks, South Korea, United States_
 
 ## [Previous Day...](/news/2010/02/11/index.md)
 

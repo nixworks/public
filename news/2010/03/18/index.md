@@ -3,9 +3,9 @@ Formats: [HTML](2010/03/18/index.html)  [JSON](2010/03/18/index.json)  [XML](201
 
 ## [2010-03-18](/news/2010/03/18/index.md)
 
-##### French
+##### France
 ### [French photographer Sophie Ristelhueber wins the Deutsche Brse Photography Prize. ](/news/2010/03/18/french-photographer-sophie-ristelhueber-wins-the-deutsche-borse-photography-prize.md)
-_Context: Deutsche Brse Photography Prize, French, Sophie Ristelhueber_
+_Context: Deutsche Brse Photography Prize, France, Sophie Ristelhueber_
 
 ##### Sahil Saeed
 ### [Released kidnapped child Sahil Saeed returns home to Manchester in England. ](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.md)

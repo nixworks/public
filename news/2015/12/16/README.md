@@ -53,7 +53,7 @@ _Context: Government of Ukraine, NATO_
 
 ##### Cuba-United States relations
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: Cuba, Cuba-United States relations, U.S., charter flights, commercial flights_
+_Context: Cuba, Cuba-United States relations, United States, charter flights, commercial flights_
 
 ##### Journal of the American Medical Association
 ### [A study published in "JAMA: The Journal of the American Medical Association" reports children with simple appendicitis who started with antibiotic treatment instead of immediate surgery, often recovered without ever needing surgery. They also had a shorter recovery and a smaller healthcare bill. ](/news/2015/12/16/a-study-published-in-jama-the-journal-of-the-american-medical-association-reports-children-with-simple-appendicitis-who-started-with-anti.md)
@@ -63,9 +63,9 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
 The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a signal for starting the engine
 
-##### U.S.
+##### United States
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range. U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: Federal Reserve Board, U.S., benchmark interest rate_
+_Context: Federal Reserve Board, United States, benchmark interest rate_
 
 ##### 2015 Chattanooga shootings
 ### [FBI Director Comey also announces the five military shooting deaths last July in Chattanooga, Tennessee, are now officially classified as a terrorist attack. The shooter, Muhammad Youssef Abdulazeez, was inspired and motivated by foreign terrorist propaganda. U.S. Navy Secretary Ray Mabus announces the Navy will award the Purple Heart to the four Marines and one sailor who were killed, and the one Marine who was injured. ](/news/2015/12/16/fbi-director-comey-also-announces-the-five-military-shooting-deaths-last-july-in-chattanooga-tennessee-are-now-officially-classified-as-a.md)

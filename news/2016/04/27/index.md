@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/27/index.html)  [JSON](2016/04/27/index.json)  [XML](201
 
 ##### Chancellor
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, U.S._
+_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, United States_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
@@ -41,7 +41,7 @@ A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months 
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, French, November 2015 Paris attacks, Salah Abdeslam_
+_Context: Belgium, France, November 2015 Paris attacks, Salah Abdeslam_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)

@@ -9,7 +9,7 @@ The Chunghwa Post Co. yesterday was renamed the Taiwan Post Co. although about 1
 
 ##### Iraq War
 ### [ Iraq War: A report by the U.S. Defense Department's inspector general has found the The Pentagon "purposely manipulated" pre-war intelligence. Senator Carl Levin, D-MI, as chair of the Senate Armed Services Committee has called the report "very damning" and said of its results, "highly disturbing". ](/news/2007/02/9/iraq-war-a-report-by-the-u-s-defense-department-s-inspector-general-has-found-the-the-pentagon-purposely-manipulated-pre-war-intelligen.md)
-_Context: Carl Levin, Democrat, Iraq War, Mich., Senate Armed Services Committee, U.S., U.S. military, United States Senate, United States military, inspector general, pre-war intelligence_
+_Context: Carl Levin, Democrat, Iraq War, Michigan, Senate Armed Services Committee, U.S. military, United States, United States Senate, United States military, inspector general, pre-war intelligence_
 
 ## [Previous Day...](/news/2007/02/8/index.md)
 

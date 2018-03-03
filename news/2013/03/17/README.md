@@ -15,13 +15,13 @@ _Context: Angelus, Pope Francis, Rome, Italy, Saint Peter's Square_
 ### [Two members of the Steubenville High School football team have been found guilty of raping a sixteen-year-old girl in the U.S. town of Steubenville, Ohio. ](/news/2013/03/17/two-members-of-the-steubenville-high-school-football-team-have-been-found-guilty-of-raping-a-sixteen-year-old-girl-in-the-u-s-town-of-steub.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
-##### French
+##### France
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)
 Olivier Metzner, one of France’s best-known lawyers, was found dead from an apparent suicide, the prosecutor’s office in the Brittany city of Vannes said.
 
 ##### Shooting
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: Belle Glade, Florida, U.S., nightclub, shooting_
+_Context: Belle Glade, Florida, United States, nightclub, shooting_
 
 ##### Albania
 ### [An Albanian hitman serving time in Greece takes six people hostage in an apparent escape attempt. ](/news/2013/03/17/an-albanian-hitman-serving-time-in-greece-takes-six-people-hostage-in-an-apparent-escape-attempt.md)

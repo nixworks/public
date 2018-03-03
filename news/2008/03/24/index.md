@@ -25,7 +25,7 @@ _Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini
 
 ##### FBI
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: FBI, Iraq, U.S., kidnap_
+_Context: FBI, Iraq, United States, kidnap_
 
 ##### U.S. Justice Department
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)

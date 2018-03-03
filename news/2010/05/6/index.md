@@ -31,9 +31,9 @@ Stocks plunged 9 percent in the last two hours of trading on Thursday before cla
 ### [Pope Benedict XVI accepts the resignation of Joseph Duffy, a bishop mentioned in the reports into child sexual abuse by clergy. ](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.md)
 Pope Benedict has accepted the resignation of Bishop Joseph Duffy, who is retiring and whose name was tied to the cover-up of a paedophile priest.
 
-##### U.S.
+##### United States
 ### [United States Baptist minister George Rekers, a campaigner who opposes homosexuality, responds to allegations of a holiday in London-Madrid with a male prostitute he met at Rentboy.com. ](/news/2010/05/6/united-states-baptist-minister-george-rekers-a-campaigner-who-opposes-homosexuality-responds-to-allegations-of-a-holiday-in-london-madrid.md)
-_Context: George Rekers, London, Madrid, Rentboy.com, U.S., homosexuality_
+_Context: George Rekers, London, Madrid, Rentboy.com, United States, homosexuality_
 
 ##### Ajmal Kasab
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)

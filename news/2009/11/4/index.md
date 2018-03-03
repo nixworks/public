@@ -35,9 +35,9 @@ Italian political leaders have united to condemn a European court ruling that cr
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
 _Context: Ernest Bai Koroma, President of Sierra Leone, Sierra Leone_
 
-##### U.S.
+##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, U.S._
+_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, United States_
 
 ##### Italy
 ### [ An Italian court convicts 22 CIA agents and 2 Italian agents over the kidnap of Muslim cleric Hassan Mustafa Osama Nasr in Milan in 2003, in the first court case challenging the CIA's "extraordinary rendition" programme. ](/news/2009/11/4/an-italian-court-convicts-22-cia-agents-and-2-italian-agents-over-the-kidnap-of-muslim-cleric-hassan-mustafa-osama-nasr-in-milan-in-2003-i.md)

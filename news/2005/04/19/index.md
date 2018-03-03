@@ -19,9 +19,9 @@ _Context: European Union Constitution, Greece_
 ### [ Auction house Christie's withdraws an ancient Persian relic from sale when Iran states that it was smuggled out of the country illegally. ](/news/2005/04/19/auction-house-christie-s-withdraws-an-ancient-persian-relic-from-sale-when-iran-states-that-it-was-smuggled-out-of-the-country-illegally.md)
 _Context: Christie's, Iran, Persian_
 
-##### French
+##### France
 ### [ French police state that DNA tests confirm that the body found in the French Alps is Anthony Ashley-Cooper, Earl of Shaftesbury. ](/news/2005/04/19/french-police-state-that-dna-tests-confirm-that-the-body-found-in-the-french-alps-is-anthony-ashley-cooper-earl-of-shaftesbury.md)
-_Context: Anthony Ashley-Cooper, DNA test, Earl of Shaftesbury, French, French Alps_
+_Context: Anthony Ashley-Cooper, DNA test, Earl of Shaftesbury, France, French Alps_
 
 ##### Lebanese
 ### [ Lebanese prime minister Najib Mikati forms a new government to lead the country until the May elections. ](/news/2005/04/19/lebanese-prime-minister-najib-mikati-forms-a-new-government-to-lead-the-country-until-the-may-elections.md)

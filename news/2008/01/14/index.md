@@ -7,7 +7,7 @@ Formats: [HTML](2008/01/14/index.html)  [JSON](2008/01/14/index.json)  [XML](200
 ### [ Bobby Jindal is sworn in as the 56th Governor of Louisiana. He is the first Indian American governor in U.S. history. ](/news/2008/01/14/bobby-jindal-is-sworn-in-as-the-56th-governor-of-louisiana-he-is-the-first-indian-american-governor-in-u-s-history.md)
 _Context: Bobby Jindal, Governor of Louisiana, Indian American, Louisiana, U.S. history, governor_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ Prime Minister of Israel Ehud Olmert warns that "all options are being taken into consideration" to stop Iran from going nuclear. ](/news/2008/01/14/prime-minister-of-israel-ehud-olmert-warns-that-all-options-are-being-taken-into-consideration-to-stop-iran-from-going-nuclear.md)
 In one of his harshest remarks against Islamic republic, prime minister tells Knesset&#39;s Foreign Affairs and Defense Committee, &#39;We will not accept a nuclear Iran. All options are being taken into consideration&#39; 
 

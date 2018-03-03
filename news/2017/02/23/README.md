@@ -21,11 +21,11 @@ High winds, heavy snow and torrential rain bring major disruption to roads, trai
 
 ##### Dakota Access Pipeline protests
 ### [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md)
-_Context: Canada, Dakota Access Pipeline, Dakota Access Pipeline protests, U.S., oil pipeline_
+_Context: Canada, Dakota Access Pipeline, Dakota Access Pipeline protests, United States, oil pipeline_
 
-##### U.S.
+##### United States
 ### [American-born panda Bao Bao arrives in China. ](/news/2017/02/23/american-born-panda-bao-bao-arrives-in-china.md)
-_Context: Bao Bao, Chinese, U.S., panda_
+_Context: Bao Bao, Chinese, United States, panda_
 
 ##### Battle of Mosul (2016-17)
 ### [Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and-the-levant.md)

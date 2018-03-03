@@ -7,9 +7,9 @@ Formats: [HTML](2005/01/31/index.html)  [JSON](2005/01/31/index.json)  [XML](200
 ### [ Car bomb explodes in Dushanbe, the capital of Tajikistan. ](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.md)
 _Context: Dushanbe, Tajikistan, car bombings_
 
-##### French
+##### France
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)
-_Context: 1999, French, Mont Blanc Tunnel, manslaughter by gross negligence_
+_Context: 1999, France, Mont Blanc Tunnel, manslaughter by gross negligence_
 
 ##### Sefer Halilovic
 ### [ Sefer Halilovic, former head of the Bosnian army, goes on trial for killing Bosnian Croats during the Yugoslav wars. ](/news/2005/01/31/sefer-halilovia-former-head-of-the-bosnian-army-goes-on-trial-for-killing-bosnian-croats-during-the-yugoslav-wars.md)
@@ -41,7 +41,7 @@ Michael Jackson spoke out Sunday against leaks in his child-molestation case, re
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S. guards shoot dead four Iraqi prisoners following an alleged riot at the Camp Bucca prison in southern Iraq. ](/news/2005/01/31/conflict-in-iraq-u-s-guards-shoot-dead-four-iraqi-prisoners-following-an-alleged-riot-at-the-camp-bucca-prison-in-southern-iraq.md)
-_Context: Camp Bucca, Conflict in Iraq, Iraq, U.S._
+_Context: Camp Bucca, Conflict in Iraq, Iraq, United States_
 
 ##### Arab-Israeli conflict
 ### [ Arab-Israeli conflict: A ten-year-old Palestinian girl dies after being shot in the head as she played in her school playground in Rafah. The source of the gunfire is disputed. Hamas launches mortar shells in retaliation, damaging a house in an Israeli settlement. ](/news/2005/01/31/arabaisraeli-conflict-a-ten-year-old-palestinian-girl-dies-after-being-shot-in-the-head-as-she-played-in-her-school-playground-in-rafah.md)

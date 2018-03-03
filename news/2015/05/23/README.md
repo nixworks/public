@@ -25,7 +25,7 @@ _Context: Myanmar's president's office, Thein Sein_
 
 ##### Nigeria
 ### [Nigerian drug agents arrest senator-elect Buruji Kashamu for extradition to the United States for his alleged involvement in a drug deal 20 years ago that is claimed to be the basis for the television show "Orange is the New Black". ](/news/2015/05/23/nigerian-drug-agents-arrest-senator-elect-buruji-kashamu-for-extradition-to-the-united-states-for-his-alleged-involvement-in-a-drug-deal-20.md)
-_Context: Nigeria, Orange is the New Black, U.S._
+_Context: Nigeria, Orange is the New Black, United States_
 
 ##### Cleveland Police Department
 ### [Cleveland Police Department officer Michael Brelo is acquitted of manslaughter in relation to the 2012 deaths of Timothy Russell and Malissa Williams following a a police chase. There are multiple arrests in protests afterwards ](/news/2015/05/23/cleveland-police-department-officer-michael-brelo-is-acquitted-of-manslaughter-in-relation-to-the-2012-deaths-of-timothy-russell-and-malissa.md)

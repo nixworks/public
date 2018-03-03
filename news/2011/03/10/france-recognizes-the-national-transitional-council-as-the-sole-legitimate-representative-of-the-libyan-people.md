@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/10/france-recognizes-the-national-transitional-cou
 
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-##### French
+##### France
 # France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. 
 
 In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&#x20;opposition,&#x20;France&#x20;has&#x20;become&#x20;the&#x20;first&#x20;country&#x20;to&#x20;formally&#x20;recognise&#x20;Libya&#x2019;s&#x20;rebel&#x20;leadership,&#x20;pledging&#x20;to&#x20;exchange&#x20;ambassadors&#x20;between&#x20;Paris&#x20;and&#x20;the&#x20;Libyan&#x20;opposition&#x20;stronghold&#x20;of&#x20;Benghazi.
@@ -28,8 +28,8 @@ In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&
 
 ### Related:
 
-1. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: French_
-2. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: French_
-3. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: French_
-4. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: French_
-5. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _Context: French_
+1. [Suspected terrorists attack the French embassy and military headquarters in Ouagadougu, Burkina Faso, killing 28 and injuring at least 50. ](/news/2018/03/2/suspected-terrorists-attack-the-french-embassy-and-military-headquarters-in-ouagadougu-burkina-faso-killing-28-and-injuring-at-least-50.md) _Context: France_
+2. [An avalanche near Entraunes in southeastern France kills at least four people and leaves another missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-missing.md) _Context: France_
+3. [Two French soldiers are killed after their armoured vehicle hits a roadside bomb in Mali. ](/news/2018/02/21/two-french-soldiers-are-killed-after-their-armoured-vehicle-hits-a-roadside-bomb-in-mali.md) _Context: France_
+4. [The remains of Maelys de Araujo, a nine-year-old girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-nine-year-old-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nord.md) _Context: France_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_

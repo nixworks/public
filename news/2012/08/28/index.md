@@ -7,13 +7,13 @@ Formats: [HTML](2012/08/28/index.html)  [JSON](2012/08/28/index.json)  [XML](201
 ### [IBM sells a "most powerful and advanced" server. ](/news/2012/08/28/ibm-sells-a-most-powerful-and-advanced-server.md)
 _Context: IBM, most, server_
 
-##### U.S.
+##### United States
 ### [The United States Republican Party officially nominates Mitt Romney as its candidate in the 2012 presidential election at the National Convention in Tampa, Florida. ](/news/2012/08/28/the-united-states-republican-party-officially-nominates-mitt-romney-as-its-candidate-in-the-2012-presidential-election-at-the-national-conve.md)
-_Context: Mitt Romney, National Convention, Republican, Tampa, Florida, U.S., United States presidential election, 2012_
+_Context: Mitt Romney, National Convention, Republican, Tampa, Florida, United States, United States presidential election, 2012_
 
-##### French
+##### France
 ### [French officials open up a murder case in the death of Palestinian leader Yasser Arafat following a "complaint against X" by his widow. ](/news/2012/08/28/french-officials-open-up-a-murder-case-in-the-death-of-palestinian-leader-yasser-arafat-following-a-complaint-against-x-by-his-widow.md)
-_Context: French, Palestine, Yasser Arafat, death_
+_Context: France, Palestine, Yasser Arafat, death_
 
 ##### Israel
 ### [An Israeli court rules that Israel is not responsible for the death of American activist Rachel Corrie at the hands of an Israeli Army bulldozer in the Gaza Strip in 2003. ](/news/2012/08/28/an-israeli-court-rules-that-israel-is-not-responsible-for-the-death-of-american-activist-rachel-corrie-at-the-hands-of-an-israeli-army-bulld.md)

@@ -15,7 +15,7 @@ A sister species of the snow leopard roamed the plateau of Tibet nearly 5 millio
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
 _Context: Antarctica, Pine Island Glacier, Southern Ocean_
 
-##### U.S.
+##### United States
 ### [The United States Government announces that 106,185 people signed up for health insurance through the Health Insurance Marketplace as part of the Patient Protection and Affordable Care Act during its first month of release on October. ](/news/2013/11/13/the-united-states-government-announces-that-106-185-people-signed-up-for-health-insurance-through-the-health-insurance-marketplace-as-part-o.md)
 New data also show that in the first month of open enrollment, 26,794 signed up through the problem-plagued federal exchange, HealthCare.gov, and the rest through state exchanges.
 
@@ -53,7 +53,7 @@ Despite 10 years of western efforts to curb production, a combination of economi
 
 ##### One World Trade Center
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, U.S._
+_Context: One World Trade Center, United States_
 
 ##### Pink diamond
 ### [At the same auction, a pink diamond is sold for US$83.2 million, setting a new world record. ](/news/2013/11/13/at-the-same-auction-a-pink-diamond-is-sold-for-us-83-2-million-setting-a-new-world-record.md)

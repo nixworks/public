@@ -7,9 +7,9 @@ Formats: [HTML](2013/04/9/index.html)  [JSON](2013/04/9/index.json)  [XML](2013/
 ### [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md)
 _Context: Carlyle Glean, Governor General, Grenada, Keith Mitchell, Prime Minister_
 
-##### French
+##### France
 ### [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179a157-vote.md)
-_Context: Bill 344, French, French Senate, gay marriage_
+_Context: Bill 344, France, French Senate, gay marriage_
 
 ##### Kenya
 ### [Kenya officially swears in their new president, Uhuru Kenyatta. ](/news/2013/04/9/kenya-officially-swears-in-their-new-president-uhuru-kenyatta.md)

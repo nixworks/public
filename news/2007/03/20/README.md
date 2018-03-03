@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/20/index.html)  [JSON](2007/03/20/index.json)  [XML](200
 
 ##### Sami Al-Arian
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: Hamas, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
+_Context: Hamas, Sami Al-Arian, U.S. federal court, United States, hunger strike_
 
 ##### Taha Yassin Ramadan
 ### [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the "Ten of Diamonds" in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-in.md)
@@ -19,9 +19,9 @@ _Context: Krasnodar region, Russia, fire, nursing home_
 ### [ European Union High Representative for the Common Foreign and Security Policy Javier Solana says that the EU is doing all it can to find Alan Johnston, the BBC Gaza correspondent who has been missing for 8 days. ](/news/2007/03/20/european-union-high-representative-for-the-common-foreign-and-security-policy-javier-solana-says-that-the-eu-is-doing-all-it-can-to-find-al.md)
 _Context: Alan Johnston, BBC, European Union, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
 
-##### French
+##### France
 ### [ France signs an extradition treaty with the People's Republic of China but will only extradite people in death penalty cases when China agrees that the person will not receive a death penalty. ](/news/2007/03/20/france-signs-an-extradition-treaty-with-the-people-s-republic-of-china-but-will-only-extradite-people-in-death-penalty-cases-when-china-agr.md)
-_Context: China, French, extradition, sentenced to death, treaty_
+_Context: China, France, extradition, sentenced to death, treaty_
 
 ##### United Kingdom
 ### [ United Kingdom Secretary of State for Defence Des Browne orders the military to destroy cluster bombs that lack self-destruct mechanisms in order to avoid harming civilians. ](/news/2007/03/20/united-kingdom-secretary-of-state-for-defence-des-browne-orders-the-military-to-destroy-cluster-bombs-that-lack-self-destruct-mechanisms-in.md)

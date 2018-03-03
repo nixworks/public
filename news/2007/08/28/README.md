@@ -17,7 +17,7 @@ _Context: Abdullah Gl, Turkish President, ruling party_
 
 ##### Federal District Judge
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)
-_Context: Federal District Judge, French, Manuel Noriega, Panamanian President, extradition, in absentia, money-laundering_
+_Context: Federal District Judge, France, Manuel Noriega, Panamanian President, extradition, in absentia, money-laundering_
 
 ##### Colombia
 ### [ Scientists in Colombia discover new poisonous frog, dubbed the 'golden frog of Supat,' in a remote mountainous region. ](/news/2007/08/28/scientists-in-colombia-discover-new-poisonous-frog-dubbed-the-golden-frog-of-supata-in-a-remote-mountainous-region.md)

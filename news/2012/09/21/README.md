@@ -25,7 +25,7 @@ A warrant has been issued for the arrest of firebrand South African politician J
 
 ##### Australia
 ### [Australia temporarily closes its High Commission in the Pakistani capital Islamabad. It says it fears violent protests aimed at Western countries as a result of recent controversies. ](/news/2012/09/21/australia-temporarily-closes-its-high-commission-in-the-pakistani-capital-islamabad-it-says-it-fears-violent-protests-aimed-at-western-coun.md)
-_Context: Australia, Islamabad, Pakistan, attacks and protests, embassies_
+_Context: Australia, Islamabad, Pakistan, attacks and protests, embassy_
 
 ## [Previous Day...](/news/2012/09/20/index.md)
 

@@ -39,7 +39,7 @@ A hemet-mounted camera worn by a firefighter may provide answers in the death of
 ### [The World Bank says that the economies affected by the Great Recession are starting to recover. ](/news/2014/01/15/the-world-bank-says-that-the-economies-affected-by-the-great-recession-are-starting-to-recover.md)
 World Bank looks for &#x27;orderly&#x27; reversion of west&#x27;s monetary policies to avoid provoking crises in emerging markets
 
-##### U.S.
+##### United States
 ### [The United States returns 11th-12th century sculptures stolen by art thieves from temples in India. ](/news/2014/01/15/the-united-states-returns-11th-12th-century-sculptures-stolen-by-art-thieves-from-temples-in-india.md)
 The US returns to India three ancient sculptures that that been smuggled into the US by art dealers and accomplices.
 

@@ -27,7 +27,7 @@ _Context: Hellas Planitia, Los Angeles, Mars, Mars Reconnaissance Orbiter, NASA,
 ### [ The Swedish Parliament ratifies the Treaty of Lisbon. ](/news/2008/11/20/the-swedish-parliament-ratifies-the-treaty-of-lisbon.md)
 _Context: Riksdag, Sweden, Treaty of Lisbon_
 
-##### U.S.
+##### United States
 ### [ United States Attorney General Michael Mukasey collapses while giving a speech to the Federalist Society in Washington, D.C. ](/news/2008/11/20/united-states-attorney-general-michael-mukasey-collapses-while-giving-a-speech-to-the-federalist-society-in-washington-d-c.md)
 Michael Mukasey collapsed while giving a speech to the Federalist Society in Washington.
 

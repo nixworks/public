@@ -35,9 +35,9 @@ _Context: Ninoy Aquino International Airport, Philippines, Presidential Palace, 
 ### [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md)
 _Context: Ban Ki-moon, Bashar al-Assad, President, Syria, Syria peace talks in Vienna, Syrian Civil War, United Nations Secretary-General_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu retracts controversial comments he made about Nazi policies during World War 2, saying he never meant to claim that an Islamic leader Amin al-Husseini persuaded Adolf Hitler to adopt a policy to kill European Jews. ](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.md)
-_Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Islam, Israeli Prime Minister, Nazi, World War 2_
+_Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Islam, Nazi, Prime Minister, World War 2_
 
 ##### Colectiv nightclub fire
 ### [Romanian Prime Minister Victor Ponta declares three days of national mourning. ](/news/2015/10/31/romanian-prime-minister-victor-ponta-declares-three-days-of-national-mourning.md)

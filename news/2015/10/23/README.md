@@ -15,7 +15,7 @@ _Context: Department of Energy, Idaho, shipment, spent nuclear fuel_
 ### [Democratic Party presidential candidates, 2016,Former Rhode Island Governor Lincoln Chafee announces his decision to end his campaign for the 2016 Democratic Party presidential nomination in Washington, D.C. ](/news/2015/10/23/democratic-party-presidential-candidates-2016-former-rhode-island-governor-lincoln-chafee-announces-his-decision-to-end-his-campaign-for-th.md)
 The withdrawal of Lincoln Chafee caps a winnowing week for the Democratic contenders. But the GOP side seems more likely to experience the next dropout.
 
-##### Deadliest high school shooting
+##### School shootings in the United States
 ### [Nineteen-year old Cameron Selmon died during last night's shooting on the Tennessee State University campus when a fight erupted during a dice game, in which a player pulled out a gun and started firing. One of the three injured 18-year-old female students remains hospitalized. The suspect fled the scene on foot and is still at large. The school is closed today but will re-open with Monday classes. ](/news/2015/10/23/nineteen-year-old-cameron-selmon-died-during-last-night-s-shooting-on-the-tennessee-state-university-campus-when-a-fight-erupted-during-a-di.md)
 Mayor Megan Barry pledged to repair the damage violence had done on TSU’s campus and the surrounding neighborhood.
 
@@ -33,7 +33,7 @@ Confucius peace prize chairman defends decision to give award to leader accused 
 
 ##### Kuwait
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: French, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, U.S._
+_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, United States_
 
 ##### 2015 Puisseguin road crash
 ### [At least 43 people die after a bus collides with a truck near the French town of Puisseguin. ](/news/2015/10/23/at-least-43-people-die-after-a-bus-collides-with-a-truck-near-the-french-town-of-puisseguin.md)

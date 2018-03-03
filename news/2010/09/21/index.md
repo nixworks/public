@@ -49,7 +49,7 @@ _Context: Barack Obama, Lawrence Summers, U.S. President, United States National
 
 ##### Al-Qaeda in the Islamic Maghreb
 ### [Al-Qaeda in the Islamic Maghreb claims responsibility for kidnapping five French workers in Niger. ](/news/2010/09/21/al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-kidnapping-five-french-workers-in-niger.md)
-_Context: Al-Qaeda in the Islamic Maghreb, French, Niger, kidnapping_
+_Context: Al-Qaeda in the Islamic Maghreb, France, Niger, kidnapping_
 
 ##### War in Afghanistan (2001-present)
 ### [Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern-afghanistan.md)

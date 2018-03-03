@@ -7,7 +7,7 @@ Formats: [HTML](2012/04/17/index.html)  [JSON](2012/04/17/index.json)  [XML](201
 ### [Hezbollah leader Hassan Nasrallah appears in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange, and announces that Hezbollah are willing to mediate between the Syrian government and the opposition. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-appears-in-his-first-interview-with-the-west-in-six-years-in-the-first-episode-of-a-new-interview-show-t.md)
 Hezbollah chief Hassan Nasrallah says he would be willing to mediate in the Syrian crisis, in a rare interview with Wikileaks founder Julian Assange.
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu receives a Palestinian delegation delivering a letter from Palestinian Authority President Mahmoud Abbas detailing his demands for restarting peace talks after previous negotiations on a two-state solution stalled. ](/news/2012/04/17/israeli-prime-minister-benjamin-netanyahu-receives-a-palestinian-delegation-delivering-a-letter-from-palestinian-authority-president-mahmoud.md)
 Liberman slams PA president after Fayyad avoids meeting; PM pledges to respond to PA with letter within 2 weeks.
 

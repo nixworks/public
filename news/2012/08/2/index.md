@@ -47,9 +47,9 @@ _Context: Japanese, Sharp Corporation_
 ### [Italian football club Inter Milan sells a 15% stake to a Chinese investor group. ](/news/2012/08/2/italian-football-club-inter-milan-sells-a-15-stake-to-a-chinese-investor-group.md)
 Italian football club Inter Milan says that a group of Chinese investors will become its second-largest shareholder.
 
-##### French
+##### France
 ### [French L'Oreal heiress Liliane Bettencourt sells D'Arros Island for $60 million. ](/news/2012/08/2/french-l-ora-c-al-heiress-liliane-bettencourt-sells-d-arros-island-for-60-million.md)
-_Context: D'Arros Island, French, L'Oreal, Liliane Bettencourt_
+_Context: D'Arros Island, France, L'Oreal, Liliane Bettencourt_
 
 ##### Pakistan
 ### [At least 23 people are injured as two blasts hit a fruit market in Pakistan's eastern city of Lahore. ](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.md)

@@ -15,9 +15,9 @@ _Context: Houthi, Sa'dah, Wadi al-Jabara, Yemen_
 ### [Afghan police admit they shot dead seven civilians, including two children, as they collected firewood in Spin Boldak, Kandahar, last Thursday. ](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.md)
 Seven Afghan boys were shot dead on Saturday by police who mistook them for insurgents, a provincial police official said.
 
-##### French
+##### France
 ### [French aid worker, Laurent Maurice, kidnapped in Chad last November, is released after 89 days of captivity, described as "tired but appears to be in good health". ](/news/2010/02/6/french-aid-worker-laurent-maurice-kidnapped-in-chad-last-november-is-released-after-89-days-of-captivity-described-as-tired-but-appears.md)
-_Context: Chad, French, Laurent Maurice_
+_Context: Chad, France, Laurent Maurice_
 
 ##### Mark Durkan
 ### [Mark Durkan, former Deputy First Minister of Northern Ireland, resigns as leader of the Social Democratic and Labour Party (SDLP). ](/news/2010/02/6/mark-durkan-former-deputy-first-minister-of-northern-ireland-resigns-as-leader-of-the-social-democratic-and-labour-party-sdlp.md)

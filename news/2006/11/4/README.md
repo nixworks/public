@@ -15,9 +15,9 @@ _Context: Iraq, United Nations High Commissioner for Refugees, war on Iraq_
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)
 _Context: Africa, Hu Jintao, President, foreign aid_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)
-_Context: Ariel Sharon, Israeli Prime Minister, Sheba Medical Center, Tel Aviv, intensive care unit_
+_Context: Ariel Sharon, Prime Minister, Sheba Medical Center, Tel Aviv, intensive care unit_
 
 ##### Israel
 ### [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md)

@@ -17,7 +17,7 @@ _Context: French regional elections_
 
 ##### Israel
 ### [ Israeli State Attorney Edna Arbel recommends that Prime Minister Ariel Sharon be indicted for taking bribes. ](/news/2004/03/28/israeli-state-attorney-edna-arbel-recommends-that-prime-minister-ariel-sharon-be-indicted-for-taking-bribes.md)
-_Context: Ariel Sharon, Edna Arbel, Israel, Israeli Prime Minister_
+_Context: Ariel Sharon, Edna Arbel, Israel, Prime Minister_
 
 ##### Home Secretary
 ### [ UK Home Secretary David Blunkett prepares to publish a white paper on organized crime that will unveil new details of the Serious Organised Crime Agency, the proposed "British FBI". ](/news/2004/03/28/uk-home-secretary-david-blunkett-prepares-to-publish-a-white-paper-on-organized-crime-that-will-unveil-new-details-of-the-serious-organised.md)

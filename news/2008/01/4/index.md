@@ -9,7 +9,7 @@ _Context: Indonesia, Suharto, anemia, low blood pressure_
 
 ##### North Korea
 ### [ North Korean officials accuse the United States of not fulfilling its promise of humanitarian aid after an international disarmament agreement. ](/news/2008/01/4/north-korean-officials-accuse-the-united-states-of-not-fulfilling-its-promise-of-humanitarian-aid-after-an-international-disarmament-agreem.md)
-_Context: North Korea, U.S., humanitarian aid, international disarmament agreement_
+_Context: North Korea, United States, humanitarian aid, international disarmament agreement_
 
 ##### 2008 Dakar Rally
 ### [ The 2008 Dakar Rally is cancelled due to safety concerns in Mauritania. ](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.md)

@@ -13,7 +13,7 @@ _Context: Mogadishu, Somalia, declares_
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: 14th Dalai Lama, Dalai Lama, French, Paris, honorary citizenship_
+_Context: 14th Dalai Lama, Dalai Lama, France, Paris, honorary citizenship_
 
 ##### United Kingdom
 ### [ Former United Kingdom Cabinet Ministers Hazel Blears, James Purnell, John Hutton, and Caroline Flint coordinated their resignations to compel Prime Minister Gordon Brown to also resign. ](/news/2009/06/7/former-united-kingdom-cabinet-ministers-hazel-blears-james-purnell-john-hutton-and-caroline-flint-coordinated-their-resignations-to-comp.md)
@@ -23,9 +23,9 @@ A co-ordinated plot by British cabinet ministers was behind the resignations las
 ### [ Former Cuban President Fidel Castro dismisses allegations that ex-U.S. State Department employee Kendall Myers spied for his country. ](/news/2009/06/7/former-cuban-president-fidel-castro-dismisses-allegations-that-ex-u-s-state-department-employee-kendall-myers-spied-for-his-country.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### U.S.
+##### United States
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italy, Supreme Court of the United States, U.S., automakers, purchase_
+_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italy, Supreme Court of the United States, United States, automakers, purchase_
 
 ##### Gay pride
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)

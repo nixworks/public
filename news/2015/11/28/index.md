@@ -31,9 +31,9 @@ _Context: North Korea, South Korea, Yonhap, submarine-launched ballistic missile
 ### [A day after Turkey's president Recep Tayyip Erdogan had harsh words for Russia, Turkish Prime Minister Ahmet Davutoglu, in an essay in the London "Times", says the downing of the Russian jet, "was not -- and is not -- an act against a specific country. ... While the measures to defend our territory will remain in place, Turkey will work with Russia and our allies to calm tensions." ](/news/2015/11/28/a-day-after-turkey-s-president-recep-tayyip-erdoaan-had-harsh-words-for-russia-turkish-prime-minister-ahmet-davutoalu-in-an-essay-in-the.md)
 The downing of an unidentified jet in Turkish airspace was not — and is not — an act against a specific country. Turkey took action, based on standing rules of engagement, to protect the integrity...
 
-##### U.S.
+##### United States
 ### [A slow moving wintry storm system is responsible for more than a dozen deaths in the U.S. states of Texas, Oklahoma and Kansas. ](/news/2015/11/28/a-slow-moving-wintry-storm-system-is-responsible-for-more-than-a-dozen-deaths-in-the-u-s-states-of-texas-oklahoma-and-kansas.md)
-_Context: Kansas, Oklahoma, Texas, U.S._
+_Context: Kansas, Oklahoma, Texas, United States_
 
 ##### Egyptology
 ### [Egyptologists announce that radar scans indicate an empty space behind King Tutankhamun's tomb. British archaeologist Dr. Nicholas Reeves speculates if a second chamber exists, it could be Queen Nefertiti's long-lost burial place. Antiquities Minister Mamdouh Eldamaty says work inside the tomb will not begin until all the data from the radar and infrared devices are carefully analyzed by Japanese experts. ](/news/2015/11/28/egyptologists-announce-that-radar-scans-indicate-an-empty-space-behind-king-tutankhamun-s-tomb-british-archaeologist-dr-nicholas-reeves-sp.md)

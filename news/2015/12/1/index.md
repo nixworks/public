@@ -23,7 +23,7 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 ### [The U.S. Health and Human Services Department's Office of Refugee Resettlement notifies all 50 states that if they deny services to any group of refugees, states may risk losing resettlement funding altogether. More than half of the nation's governors have said they will not accept Syrian refugees in their states. ](/news/2015/12/1/the-u-s-health-and-human-services-departmentas-office-of-refugee-resettlement-notifies-all-50-states-that-if-they-deny-services-to-any-gr.md)
 States risk losing all resettlement funding if they try to pick and choose who to let in.
 
-##### U.S.
+##### United States
 ### [The United States Centers for Disease Control announces the number of people newly diagnosed with diabetes declined in 2014 for the fifth consecutive year. Experts do not know whether efforts to prevent diabetes are finally started to work, or if the disease has simply peaked in the population. ](/news/2015/12/1/the-united-states-centers-for-disease-control-announces-the-number-of-people-newly-diagnosed-with-diabetes-declined-in-2014-for-the-fifth-co.md)
 The number of people being diagnosed with diabetes has been on the decline since 2009, after soaring for decades. Doctors say people may be changing their eating and exercise habits for the better.
 

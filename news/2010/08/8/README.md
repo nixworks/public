@@ -71,9 +71,9 @@ _Context: UK Border Agency_
 ### [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md)
 _Context: African Union, Darfur, Omar al-Bashir, Sudanese President, United Nations, mandate_
 
-##### Embassies
+##### Embassy
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, Canada, German, Moscow, Poland, embassies, the recent wildfires_
+_Context: Austria, Canada, German, Moscow, Poland, embassy, the recent wildfires_
 
 ##### Copiapo
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)
@@ -115,11 +115,11 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
 _Context: Anatolian Agency, Mardin Province, Syria, Turkish, Turkish Army_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
-_Context: Benjamin Netanyahu, Israeli Prime Minister, smear_
+_Context: Benjamin Netanyahu, Prime Minister, smear_
 
-##### U.S.
+##### United States
 ### [United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whether-the-lebanese-so.md)
 Florida congressman Ron Klein calls for US to stop military support.
 

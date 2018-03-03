@@ -17,7 +17,7 @@ Roadside bombs killed five foreign troops in Afghanistan on Saturday, military o
 
 ##### South Korea
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
-_Context: South Korea, U.S., beef imports, mad cow disease_
+_Context: South Korea, United States, beef imports, mad cow disease_
 
 ##### Philippines
 ### [ The death toll in the Philippines from Typhoon Fengshen rises to at least 20 from flooding and landslides. Ten people drown after the Rifao River overflows its banks and sweeps away three houses in South Upi, Maguindanao. ](/news/2008/06/21/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flooding-and-landslides-ten-people-drown-after-the-rifao.md)
@@ -39,9 +39,9 @@ _Context: Somalia, United Nations High Commissioner for Refugees, kidnap_
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)
  A NATO base in Afghanistan and a local army compound were attacked from across the border with Pakistan on Saturday, the force said. 
 
-##### French
+##### France
 ### [ France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. ](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.md)
-_Context: Algeria, French, French nuclear power technology_
+_Context: Algeria, France, French nuclear power technology_
 
 ## [Previous Day...](/news/2008/06/20/index.md)
 

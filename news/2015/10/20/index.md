@@ -23,7 +23,7 @@ _Context: French public prosecutor, Marine Le Pen, Muslim street prayers, Nazi o
 ### [The Israel Defense Forces arrest senior Hamas leader Sheikh Hassan Yousef for alleged incitement to commit violence. ](/news/2015/10/20/the-israel-defense-forces-arrest-senior-hamas-leader-sheikh-hassan-yousef-for-alleged-incitement-to-commit-violence.md)
 _Context: Hamas, Hassan Yousef, Israeli Army_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu, in tonight's speech to the World Zionist Congress on "the 10 big lies" told by Palestinians and their backers, said Haj Amin al-Husseini, the Grand Mufti of Jerusalem from 1922-1937, convinced Adolf Hitler and the Nazis to change their original plan of expelling Jews to the so-called Final Solution, i.e., the extermination of Jews. "The Washington Post" states this reinforces Netanyahu's position that Palestinian violence is caused by their old and intractable hatred of Jews, not Israel's 1948 creation. ](/news/2015/10/20/israeli-prime-minister-benjamin-netanyahu-in-tonight-s-speech-to-the-world-zionist-congress-on-the-10-big-lies-told-by-palestinians-and-t.md)
 The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s grand mufti instigated the Nazi plan.
 
@@ -81,7 +81,7 @@ _Context: Ban Ki-moon, Israel, Israeli-Palestinian conflict (2015), Jerusalem, P
 
 ##### Iraqi Civil War (2014-present)
 ### [The United States Chairman of the Joint Chiefs of Staff, Marine Corps General Joseph Dunford arrived in Iraq to discuss the ongoing battle against ISIS. ](/news/2015/10/20/the-united-states-chairman-of-the-joint-chiefs-of-staff-marine-corps-general-joseph-dunford-arrived-in-iraq-to-discuss-the-ongoing-battle-a.md)
-_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, Marine, U.S._
+_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, Marine, United States_
 
 ## [Previous Day...](/news/2015/10/19/index.md)
 

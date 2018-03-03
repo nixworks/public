@@ -27,9 +27,9 @@ _Context: ''Liaoning'', Chinese_
 ### [Heavy monsoon rains and flash floods leave over 200 people dead across India and Pakistan. ](/news/2014/09/6/heavy-monsoon-rains-and-flash-floods-leave-over-200-people-dead-across-india-and-pakistan.md)
 Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 people in India, officials said.
 
-##### U.S.
+##### United States
 ### [The United States says that it will not coordinate with Iran in the fight against the Islamic State of Iraq and Syria. ](/news/2014/09/6/the-united-states-says-that-it-will-not-coordinate-with-iran-in-the-fight-against-the-islamic-state-of-iraq-and-syria.md)
-_Context: Iran, Islamic State of Iraq and Syria, U.S._
+_Context: Iran, Islamic State of Iraq and Syria, United States_
 
 ##### Syrian Air Force
 ### [The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/the-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah-killing-25-people.md)

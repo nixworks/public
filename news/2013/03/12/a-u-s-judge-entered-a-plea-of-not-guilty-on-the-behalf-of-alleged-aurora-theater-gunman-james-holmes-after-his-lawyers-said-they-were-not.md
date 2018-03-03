@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-the
 
 ### [2013-03-12](/news/2013/03/12/index.md)
 
-##### U.S.
+##### United States
 # A U.S. judge entered a plea of not guilty on the behalf of alleged Aurora theater gunman James Holmes, after his lawyers said they were not ready to enter a plea. 
 
 A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Holmes, after his lawyers said they were not ready to enter a plea.
@@ -25,4 +25,4 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 2. [Paperwork filled on behalf of Aurora shooting suspect James Holmes states that he plans to plead not guilty by reason of insanity. ](/news/2013/05/7/paperwork-filled-on-behalf-of-aurora-shooting-suspect-james-holmes-states-that-he-plans-to-plead-not-guilty-by-reason-of-insanity.md) _Context: 2012 Aurora shooting, James Holmes_
 3. [Arapahoe County District Attorney George Brauchler decides, after speaking with survivors and relatives of the deceased, to pursue the death penalty against James Holmes, the perpetrator of the 2012 Aurora shooting; the case is given to a new judge. ](/news/2013/04/1/arapahoe-county-district-attorney-george-brauchler-decides-after-speaking-with-survivors-and-relatives-of-the-deceased-to-pursue-the-death.md) _Context: 2012 Aurora shooting, James Holmes_
 4. [James Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md) _Context: 2012 Aurora shooting, James Holmes_
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._
+5. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: United States_

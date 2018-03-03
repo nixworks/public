@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/26/index.html)  [JSON](2016/11/26/index.json)  [XML](201
 
 ##### 2016 United States presidential election recount and audit
 ### [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md)
-_Context: 2016 United States presidential election recount and audit, Jill Stein, Mich., Pennsylvania, Wisconsin, presidential campaign_
+_Context: 2016 United States presidential election recount and audit, Jill Stein, Michigan, Pennsylvania, Wisconsin, presidential campaign_
 
 ##### Kuwaiti general election, 2016
 ### [Kuwait, where citizens make up around 30 percent of the emirate's 4.4 million population, votes in a snap election following parliament's dissolution on 16 October amid the impact of falling oil prices. This is the first election the opposition has not boycotted in nearly four years. ](/news/2016/11/26/kuwait-where-citizens-make-up-around-30-percent-of-the-emirate-s-4-4-million-population-votes-in-a-snap-election-following-parliament-s-di.md)

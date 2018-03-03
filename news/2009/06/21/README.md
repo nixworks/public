@@ -3,9 +3,9 @@ Formats: [HTML](2009/06/21/index.html)  [JSON](2009/06/21/index.json)  [XML](200
 
 ## [2009-06-21](/news/2009/06/21/index.md)
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: Barack Obama, North Korea, South Pacific Ocean, U.S., U.S. President_
+_Context: Barack Obama, North Korea, South Pacific Ocean, U.S. President, United States_
 
 ##### Salvatore Miceli
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
@@ -27,9 +27,9 @@ At least 72 people are now known to have died in a bombing in the Iraqi city of 
 ### [ Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
 
-##### French
+##### France
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
-_Context: French_
+_Context: France_
 
 ##### Self-rule
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)

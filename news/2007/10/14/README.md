@@ -29,7 +29,7 @@ _Context: BBC, Burma, CNN, Internet, blog_
 
 ##### Israel
 ### [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md)
-_Context: Ehud Olmert, Israel, Israeli Prime Minister, Prime Minister_
+_Context: Ehud Olmert, Israel, Prime Minister, Prime Minister_
 
 ##### Italy
 ### [ Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. ](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.md)

@@ -9,7 +9,7 @@ _Context: Kiev, Movement of New Forces, Ukrainian crisis, parliament_
 
 ##### Corsican territorial election
 ### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md)
-_Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, French, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
+_Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
 
 ##### Ahmed Shafiq
 ### [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md)

@@ -17,7 +17,7 @@ Police chiefs from across the United States called on Monday for universal backg
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md)
-_Context: Arab citizen, Benjamin Netanyahu, East Jerusalem, Israel, Israel's Channel 2, Israeli Prime Minister, Palestinians_
+_Context: Arab citizen, Benjamin Netanyahu, East Jerusalem, Israel, Israel's Channel 2, Palestinians, Prime Minister_
 
 ##### Saudi Royal Family
 ### [A member of the Saudi Royal Family and four other people are detained in Lebanon for attempting to smuggle about two tons of Captagon pills and some cocaine on a private jet. This is the largest drug seizure in the history of Beirut's Rafik Hariri International Airport, according to Lebanon's state-run National News Agency. ](/news/2015/10/26/a-member-of-the-saudi-royal-family-and-four-other-people-are-detained-in-lebanon-for-attempting-to-smuggle-about-two-tons-of-captagon-pills.md)
@@ -35,7 +35,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 ### [The U.S. Navy plans to send guided missile destroyer USS Lassen within 12 nautical miles of artificial islands built by China in the South China Sea. This first freedom of navigation challenge to China's territorial claims in one of the world's busiest sea lanes may occur as soon as tomorrow, according to a U.S. defense official. ](/news/2015/10/26/the-u-s-navy-plans-to-send-guided-missile-destroyer-uss-lassen-within-12-nautical-miles-of-artificial-islands-built-by-china-in-the-south-c.md)
 The United States on Monday sent a guided-missile destroyer to challenge 12-nautical-mile territorial limits that China claims around artificial islands it built in the South China Sea.
 
-##### U.S.
+##### United States
 ### [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to "The Korea Times". The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md)
 U.S. says no to sale of U.S.-South Korean developed trainer jet to Uzbekistan.
 

@@ -7,7 +7,7 @@ Formats: [HTML](2012/01/31/index.html)  [JSON](2012/01/31/index.json)  [XML](201
 ### [Democratic Party candidate Suzanne Bonamici wins a special election to represent the 1st congressional district of Oregon in the United States House of Representatives. ](/news/2012/01/31/democratic-party-candidate-suzanne-bonamici-wins-a-special-election-to-represent-the-1st-congressional-district-of-oregon-in-the-united-stat.md)
 _Context: 1st congressional district, Democrat, Oregon, Suzanne Bonamici, United States House of Representatives, special election_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Israel Benjamin Netanyahu comfortably wins a leadership election for the Likud Party defeating Moshe Feiglin. ](/news/2012/01/31/the-prime-minister-of-israel-benjamin-netanyahu-comfortably-wins-a-leadership-election-for-the-likud-party-defeating-moshe-feiglin.md)
 Prime minister says there is &quot;still time&quot; until general elections; Netanyahu leads over Feiglin by large margin.
 

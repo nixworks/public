@@ -37,7 +37,7 @@ The attack was the most serious breach of an Iraqi government building since Nov
 
 ##### Insurgency in Saudi Arabia
 ### [ Insurgency in Saudi Arabia: At least three French citizens have been shot dead in an attack near the historical site of Madain Saleh. ](/news/2007/02/26/insurgency-in-saudi-arabia-at-least-three-french-citizens-have-been-shot-dead-in-an-attack-near-the-historical-site-of-madain-saleh.md)
-_Context: French, Insurgency in Saudi Arabia, Madain Saleh_
+_Context: France, Insurgency in Saudi Arabia, Madain Saleh_
 
 ##### Talpiot Tomb
 ### [ Talpiot Tomb: Film director James Cameron claims to have found ossuaries that once contained the remains of Jesus of Nazareth, his disciple Mary Magdalene, and their son, named Judah. ](/news/2007/02/26/talpiot-tomb-film-director-james-cameron-claims-to-have-found-ossuaries-that-once-contained-the-remains-of-jesus-of-nazareth-his-disciple.md)

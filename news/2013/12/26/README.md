@@ -7,9 +7,9 @@ Formats: [HTML](2013/12/26/index.html)  [JSON](2013/12/26/index.json)  [XML](201
 ### [Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. ](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.md)
 A visit to the Yasukuni Shrine highlighted Prime Minister Shinzo Abe&#8217;s willingness to take on big political risks as he tries to build a more powerful Japan.
 
-##### Mich.
+##### Michigan
 ### [Thousands of customers are still without power across Michigan, Vermont, Maine, and Southern Ontario after a winter storm earlier this week. ](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.md)
-_Context: Maine, Mich., Southern Ontario, Vermont_
+_Context: Maine, Michigan, Southern Ontario, Vermont_
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India warns users of risks involved in virtual currencies such as Bitcoin and Dogecoin. ](/news/2013/12/26/the-reserve-bank-of-india-warns-users-of-risks-involved-in-virtual-currencies-such-as-bitcoin-and-dogecoin.md)

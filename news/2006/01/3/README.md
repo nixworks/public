@@ -25,7 +25,7 @@ _Context: Bad Reichenhall, children_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md)
-_Context: East Jerusalem, Israeli police, Israeli-Palestinian Conflict, Palestinians, elections_
+_Context: East Jerusalem, Israel Police, Israeli-Palestinian Conflict, Palestinians, elections_
 
 ##### Iraqi insurgency
 ### [ Conflict in Iraq: Six members of the same family of 14 have been confirmed killed following a U.S. airstrike in Northern Iraq. ](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.md)
@@ -45,7 +45,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Israel
 ### [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md)
-_Context: Ariel Sharon, Israel, Israeli Prime Minister, Likud Party, Tel Aviv_
+_Context: Ariel Sharon, Israel, Likud Party, Prime Minister, Tel Aviv_
 
 ##### 
 ### [ U.S. pilots targeting a house outside of Baghdad where they believed insurgents had taken shelter killed a family of 12. ](/news/2006/01/3/u-s-pilots-targeting-a-house-outside-of-baghdad-where-they-believed-insurgents-had-taken-shelter-killed-a-family-of-12.md)

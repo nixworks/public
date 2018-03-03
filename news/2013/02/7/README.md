@@ -29,7 +29,7 @@ _Context: South Korea, world's most heavily armed border_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, Iran, Supreme Leader, Tehran, U.S._
+_Context: Ali Khamenei, Iran, Supreme Leader, Tehran, United States_
 
 ##### Romania
 ### [A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. ](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.md)

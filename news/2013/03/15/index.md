@@ -15,7 +15,7 @@ The Vatican has denied that Pope Francis failed to speak out against human right
 ### [North Korea launches short-range missiles into the Sea of Japan. ](/news/2013/03/15/north-korea-launches-short-range-missiles-into-the-sea-of-japan.md)
 SEOUL - North Korea has tested short-range missiles in the Sea of Japan (known as the East Sea in Korea), in an apparent attempt to counter-act joint U.S.-South Korean military exercises, South Korean news agency Yonhap reported. &quot;North Korea test-launched a short-range missile in the East Sea ...
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [The Prime Minister of Israel Benjamin Netanyahu forms a coalition between his Likud party and the Centrist Yesh Atid, rightist Jewish Home and leftist Hatnuah parties. ](/news/2013/03/15/the-prime-minister-of-israel-benjamin-netanyahu-forms-a-coalition-between-his-likud-party-and-the-centrist-yesh-atid-rightist-jewish-home-a.md)
 Benjamin Netanyahu signed a coalition pact with upstart political movements to ensure Israel has a new government in time for Barack Obama&#039;s first visit to the country as US president next week.
 

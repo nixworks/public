@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/23/index.html)  [JSON](2005/09/23/index.json)  [XML](200
 
 ##### Earl Krugel
 ### [ Earl Krugel, a leader of the Jewish Defence League, is sentenced to 20 years in prison after pleading guilty to a plot to blow up a mosque in Los Angeles and Lebanese-American congressman Darrell Issa's office. His co-accused, Irv Rubin, committed suicide in 2002. ](/news/2005/09/23/earl-krugel-a-leader-of-the-jewish-defence-league-is-sentenced-to-20-years-in-prison-after-pleading-guilty-to-a-plot-to-blow-up-a-mosque.md)
-_Context: 2002, Congressman, Darrell Issa, Earl Krugel, Irv Rubin, Jewish Defence League, Lebanese, Los Angeles, U.S., guilty, mosque, suicide_
+_Context: 2002, Congressman, Darrell Issa, Earl Krugel, Irv Rubin, Jewish Defence League, Lebanese, Los Angeles, United States, guilty, mosque, suicide_
 
 ##### Rita
 ### [ Hurricane Rita: 24 mostly elderly people are feared dead after a bus evacuating them from the path of the hurricane caught fire. ](/news/2005/09/23/hurricane-rita-24-mostly-elderly-people-are-feared-dead-after-a-bus-evacuating-them-from-the-path-of-the-hurricane-caught-fire.md)

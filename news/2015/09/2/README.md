@@ -15,7 +15,7 @@ New research estimates there are 3 trillion trees on Earth, significantly more t
 ### [A judge orders that President of Guatemala Otto Perez Molina be detained for his alleged role in a corruption scandal. ](/news/2015/09/2/a-judge-orders-that-president-of-guatemala-otto-pa-c-rez-molina-be-detained-for-his-alleged-role-in-a-corruption-scandal.md)
 _Context: Guatemalan President, Otto Perez Molina_
 
-##### French
+##### France
 ### [A French probe into the death of former Palestinian leader Yasser Arafat in 2004 closes without bringing any new information. ](/news/2015/09/2/a-french-probe-into-the-death-of-former-palestinian-leader-yasser-arafat-in-2004-closes-without-bringing-any-new-information.md)
 French&#x20;judges&#x20;investigating&#x20;claims&#x20;that&#x20;Palestinian&#x20;leader&#x20;Yasser&#x20;Arafat&#x20;was&#x20;murdered&#x20;have&#x20;closed&#x20;the&#x20;case&#x20;without&#x20;bringing&#x20;any&#x20;charges,&#x20;a&#x20;prosecutor&#x20;said&#x20;Wednesday.
 
@@ -35,7 +35,7 @@ Three persons were killed on Tuesday when police opened fire on a mob which atta
 ### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
 _Context: Barack Obama, Iran, U.S. President, United States Senate, Upcoming congressional votes_
 
-##### French
+##### France
 ### [French police arrest an arsonist for a fire in an apartment in the 18th arrondissement of Paris which killed eight people.](/news/2015/09/2/french-police-arrest-an-arsonist-for-a-fire-in-an-apartment-in-the-18th-arrondissement-of-paris-which-killed-eight-people.md)
 French police arrest a man suspected of starting a fire that killed eight people, including two children, in northern Paris.
 

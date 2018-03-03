@@ -19,7 +19,7 @@ A Taliban group said it would withdraw from a peace deal with the government to 
 ### [ The Pirate Bay, one of the world's largest BitTorrent trackers, confirms today that it would be acquired by Global Gaming Factory X (GGF) for 7.8 million USD. ](/news/2009/06/30/the-pirate-bay-one-of-the-world-s-largest-bittorrent-trackers-confirms-today-that-it-would-be-acquired-by-global-gaming-factory-x-ggf-f.md)
 _Context: BitTorrent, The Pirate Bay_
 
-##### U.S.
+##### United States
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)
 In one neighborhood, results of the American “surge” are evident but sectarian tensions remain.
 

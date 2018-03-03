@@ -29,7 +29,7 @@ _Context: 2011 Egyptian revolution, Egypt_
 
 ##### Uzbekistan
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: French, Islam Karimov, Uzbekistan, dictator_
+_Context: France, Islam Karimov, Uzbekistan, dictator_
 
 ##### China
 ### [Police in China search for a man who threw eggs and a shoe at the creator of the "Great Firewall of China", Fang Binxing. ](/news/2011/05/19/police-in-china-search-for-a-man-who-threw-eggs-and-a-shoe-at-the-creator-of-the-great-firewall-of-china-fang-binxing.md)
@@ -101,7 +101,7 @@ _Context: Libya, Muammar Gaddafi, state media_
 
 ##### Syria
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, U.S., protestors_
+_Context: Bashar al-Assad, President, Syria, United States, protestors_
 
 ## [Previous Day...](/news/2011/05/18/index.md)
 

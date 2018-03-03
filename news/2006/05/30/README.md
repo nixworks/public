@@ -21,11 +21,11 @@ _Context: Chad, Constitutional Council of Chad, Idriss Dby, presidential electio
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules illegal an EU-US agreement to pass airline passenger data to the US authorities, as it does not ensure privacy protection for European passengers. ](/news/2006/05/30/the-european-court-of-justice-rules-illegal-an-eu-us-agreement-to-pass-airline-passenger-data-to-the-us-authorities-as-it-does-not-ensure.md)
-_Context: European Court of Justice, European Union, U.S._
+_Context: European Court of Justice, European Union, United States_
 
 ##### United Nations
 ### [ Seven United Nations peacekeepers are taken hostage by the Nationalist and Integrationist Front militia of Ituri Province, Democratic Republic of the Congo. ](/news/2006/05/30/seven-united-nations-peacekeepers-are-taken-hostage-by-the-nationalist-and-integrationist-front-militia-of-ituri-province-democratic-repub.md)
-_Context: DR Congo, Ituri, Nationalist and Integrationist Front, United Nations, peacekeepers_
+_Context: DR Congo, Ituri Province, Nationalist and Integrationist Front, United Nations, peacekeepers_
 
 ##### Engelhard
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)

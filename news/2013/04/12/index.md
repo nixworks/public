@@ -27,7 +27,7 @@ SALEM, North Carolina (Reuters) - A university in Greensboro, North Carolina, li
 ### [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md)
 _Context: Taipei, Taiwan, Zuoying, bullet train, restroom, timed explosives_
 
-##### French
+##### France
 ### [The French Senate approves same-sex marriage in France putting the bill on track to become law by summer. ](/news/2013/04/12/the-french-senate-approves-same-sex-marriage-in-france-putting-the-bill-on-track-to-become-law-by-summer.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -39,7 +39,7 @@ _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, S
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
 _Context: Chinese, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
-##### U.S.
+##### United States
 ### [The United States imposes sanctions on 18 "Magnitsky list" Russians accused of human rights violations. Russia threatens to retaliate. ](/news/2013/04/12/the-united-states-imposes-sanctions-on-18-magnitsky-list-russians-accused-of-human-rights-violations-russia-threatens-to-retaliate.md)
 The Obama administration imposed sanctions on about two dozen Russians under a new law that has soured ties with Moscow, but avoided targeting many high-level government figures.
 

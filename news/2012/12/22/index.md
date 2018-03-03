@@ -13,7 +13,7 @@ _Context: Irish government, Shane McEntee, austerity, budget_
 
 ##### President of Italy
 ### [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md)
-_Context: Giorgio Napolitano, Italian Prime Minister, Mario Monti, President of Italy, parliament_
+_Context: Giorgio Napolitano, Mario Monti, President of Italy, Prime Minister of Italy, parliament_
 
 ##### Mahmoud Mekki
 ### [Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. ](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.md)

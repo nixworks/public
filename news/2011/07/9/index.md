@@ -13,7 +13,7 @@ _Context: South Sudan, Sudan, sovereign state_
 
 ##### Milan
 ### [A Milan court orders Fininvest, Prime Minister of Italy Silvio Berlusconi's family company, to pay 560 million euros in damages to Compagnie Industriali Riunite in a long running legal dispute. ](/news/2011/07/9/a-milan-court-orders-fininvest-prime-minister-of-italy-silvio-berlusconi-s-family-company-to-pay-560-million-euros-in-damages-to-compagnie.md)
-_Context: Compagnie Industriali Riunite, Fininvest, Italian Prime Minister, Milan, Silvio Berlusconi, euro_
+_Context: Compagnie Industriali Riunite, Fininvest, Milan, Prime Minister of Italy, Silvio Berlusconi, euro_
 
 ##### Inflation
 ### [Inflation in China rises to its highest level in three years. ](/news/2011/07/9/inflation-in-china-rises-to-its-highest-level-in-three-years.md)

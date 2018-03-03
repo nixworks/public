@@ -43,13 +43,13 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 ### [Steven Hayes is found guilty of murdering three women of the same family in Connecticut during a home invasion in 2007, now he is facing the death sentence or life imprisonment.](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.md)
 A paroled burglar was found guilty Tuesday of murdering a mother and her two daughters in a 2007 home invasion in an affluent Connecticut town. The killer, Steven Hayes, one of two men charged in the murders, now could be sentenced to death.
 
-##### French
+##### France
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
 Twelve people are detained in two raids targeting groups linked to armed fighters as country remains on high alert.
 
 ##### Extradite
 ### [The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. ](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-bout-from-thailand-to-the-united-states-moves-a-step-closer-after-a-thai-court-dismisses-mone.md)
-_Context: Thailand, U.S., Viktor Bout, arms dealer, extradite, money laundering_
+_Context: Thailand, United States, Viktor Bout, arms dealer, extradite, money laundering_
 
 ##### Societe Generale
 ### [Former Societe Generale trader Jerome Kerviel is sentenced to three years in jail in France for his role in the 2008 Societe Generale trading loss. ](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.md)

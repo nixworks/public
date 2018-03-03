@@ -11,13 +11,13 @@ Nicolas Maduro says ‘Washington is activating measures at the request of Venez
 ### [ Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-brazil.md)
 Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday amid the worst economic crisis there since the 1930s.
 
-##### U.S.
+##### United States
 ### [The United States Education and Justice Departments advise U.S. public school districts across the country to allow transgender students to use the bathrooms that match their gender identity, rather than their gender at birth. The new guidance comes as Justice and North Carolina battle in federal court over the state's new so-called bathroom bill. ](/news/2016/05/13/the-united-states-education-and-justice-departments-advise-u-s-public-school-districts-across-the-country-to-allow-transgender-students-to.md)
 WASHINGTON (AP) — Public schools must permit transgender students to use bathrooms and locker rooms consistent with their chosen gender identity, according to an Obama administration directive issued amid a court fight…
 
-##### Argentine president
+##### Argentine President
 ### [Former President of Argentina Cristina Fernandez is indicted on fraud charges in relation to alleged irregularities in the sale of United States dollars by the Central Bank during her term in office. ](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.md)
-_Context: Argentine president, Central Bank, Cristina Fernandez, United States dollars_
+_Context: Argentine President, Central Bank, Cristina Fernandez, United States dollars_
 
 ##### Vladimir Putin
 ### [ Russian President Vladimir Putin threatens to "neutralize" a new ballistic missile defense system which the United States has activated in Europe. ](/news/2016/05/13/russian-president-vladimir-putin-threatens-to-neutralize-a-new-ballistic-missile-defense-system-which-the-united-states-has-activated-in.md)

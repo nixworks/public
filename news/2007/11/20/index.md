@@ -13,7 +13,7 @@ _Context: HIV, United Nations_
 
 ##### Manouchehr Mottaki
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, U.S._
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
 
 ##### Twelve days earlier
 ### [ The death toll from the 2007 Zasyadko mine disaster rises to at least 90. ](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.md)
@@ -47,13 +47,13 @@ _Context: OSCE, parliamentary elections_
 ### [ The Cambodia Tribunal holds its first public hearing, evaluating a bail request by Khang Khek Ieu. ](/news/2007/11/20/the-cambodia-tribunal-holds-its-first-public-hearing-evaluating-a-bail-request-by-khang-khek-ieu.md)
 _Context: Cambodia Tribunal, Khang Khek Ieu, bail, public hearing_
 
-##### Israeli Prime Minister
+##### Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-formally-invited-to-the-2007-mide.md)
-_Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Israeli Prime Minister, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority_
+_Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority, Prime Minister_
 
-##### French
+##### France
 ### [ French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md)
-_Context: French, French President, Nicolas Sarkozy, economic, reform_
+_Context: France, French President, Nicolas Sarkozy, economic, reform_
 
 ## [Previous Day...](/news/2007/11/19/index.md)
 

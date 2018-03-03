@@ -21,7 +21,7 @@ _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, U.S._
+_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)
@@ -35,15 +35,15 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
 _Context: Barack Obama, Premier of the People's Republic of China, U.S. President, Wen Jiabao, yuan_
 
-##### U.S.
+##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, U.S., United Kingdom, United Nations General Assembly, United States government, Uruguay_
+_Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, United Kingdom, United Nations General Assembly, United States, United States government, Uruguay_
 
 ##### Iran
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)
 _Context: IAEA, Iran_
 
-##### French
+##### France
 ### [French authorities seek to make contact with Al-Qaeda in the Islamic Maghreb over the kidnapping of five French nationals and two others in Niger, now believed to have been taken to northern Mali. ](/news/2010/09/23/french-authorities-seek-to-make-contact-with-al-qaeda-in-the-islamic-maghreb-over-the-kidnapping-of-five-french-nationals-and-two-others-in.md)
 France wants to contact the al-Qaeda group which abducted five of its citizens in Niger, its defence minister says.
 

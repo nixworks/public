@@ -23,9 +23,9 @@ _Context: 2007 Slovenian presidential elections, Danilo Trk_
 ### [ A similar survey held in the Netherlands shows that 45% of the Dutch would support a union with Flanders, whereas 49% would oppose such a union. ](/news/2007/11/11/a-similar-survey-held-in-the-netherlands-shows-that-45-of-the-dutch-would-support-a-union-with-flanders-whereas-49-would-oppose-such-a-u.md)
 _Context: Dutch, Flanders_
 
-##### French
+##### France
 ### [ A majority of French citizens would support a union with the French-speaking Belgian region of Wallonia if Belgium were to cease to exist, according to a survey. ](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.md)
-_Context: Belgium, French, Wallonia_
+_Context: Belgium, France, Wallonia_
 
 ##### Duke of Cambridge
 ### [ Prince William, an officer in the Blues and Royals, laid a wreath for the first time by the Cenotaph as his grandmother The Queen and his father The Prince of Wales, looked on. ](/news/2007/11/11/prince-william-an-officer-in-the-blues-and-royals-laid-a-wreath-for-the-first-time-by-the-cenotaph-as-his-grandmother-the-queen-and-his-f.md)

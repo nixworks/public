@@ -13,7 +13,7 @@ _Context: Cambridgeshire, United Kingdom, crash, helicopter_
 
 ##### Avigdor Yitzhaki
 ### [ Avigdor Yitzhaki, the chairman and co-founder of Ehud Olmert's Kadima party, calls on Olmert to resign as the Prime Minister of Israel over his handling of the 2006 Lebanon War. Foreign Minister Tzipi Livni later joined calls for Olmert's resignation. ](/news/2007/05/2/avigdor-yitzhaki-the-chairman-and-co-founder-of-ehud-olmert-s-kadima-party-calls-on-olmert-to-resign-as-the-prime-minister-of-israel-over.md)
-_Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli Prime Minister, Israeli-Lebanese war of 2006, Kadima, Tzipi Livni_
+_Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli-Lebanese war of 2006, Kadima, Prime Minister, Tzipi Livni_
 
 ##### Bali Nine
 ### [ All six members of the Bali Nine on death row have the appeal against their sentence heard in Bali and Jakarta. ](/news/2007/05/2/all-six-members-of-the-bali-nine-on-death-row-have-the-appeal-against-their-sentence-heard-in-bali-and-jakarta.md)

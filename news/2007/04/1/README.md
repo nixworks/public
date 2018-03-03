@@ -9,11 +9,11 @@ _Context: Kiev, Ukraine, Ukrainian President, Viktor Yushchenko, parliament_
 
 ##### World Wrestling Entertainment
 ### [ World Wrestling Entertainment's flagship pay-per-view, WrestleMania 23 takes place at Ford Field in Detroit, Michigan, setting an arena record of 80,103. ](/news/2007/04/1/world-wrestling-entertainment-s-flagship-pay-per-view-wrestlemania-23-takes-place-at-ford-field-in-detroit-michigan-setting-an-arena-rec.md)
-_Context: Detroit, Ford Field, Mich., World Wrestling Entertainment, WrestleMania 23, pay-per-view_
+_Context: Detroit, Ford Field, Michigan, World Wrestling Entertainment, WrestleMania 23, pay-per-view_
 
 ##### Iran
 ### [ Iranian Basiji students protest outside the British embassy in Tehran. ](/news/2007/04/1/iranian-basiji-students-protest-outside-the-british-embassy-in-tehran.md)
-_Context: Basij, Iran, Tehran, United Kingdom, demonstration, embassies_
+_Context: Basij, Iran, Tehran, United Kingdom, demonstration, embassy_
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Former United States Secretary of Health and Human Services Tommy Thompson announces his candidacy for President. ](/news/2007/04/1/united-states-presidential-election-2008-former-united-states-secretary-of-health-and-human-services-tommy-thompson-announces-his-candida.md)

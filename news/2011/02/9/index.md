@@ -7,9 +7,9 @@ Formats: [HTML](2011/02/9/index.html)  [JSON](2011/02/9/index.json)  [XML](2011/
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_
 
-##### U.S.
+##### United States
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democrat, Democratic Leadership Council, U.S._
+_Context: Democrat, Democratic Leadership Council, United States_
 
 ##### United States House of Representatives
 ### [US Representative Chris Lee representing New York's 26th congressional district resigns after it is revealed that he sent a racy photo to a woman who was not his wife. ](/news/2011/02/9/us-representative-chris-lee-representing-new-york-s-26th-congressional-district-resigns-after-it-is-revealed-that-he-sent-a-racy-photo-to-a.md)
@@ -25,7 +25,7 @@ _Context: Basque language, Basque nationalists, ETA, Sortu_
 
 ##### Daniel Patrick Boyd
 ### [Daniel Patrick Boyd pleads guilty to terrorism charges in a trial in the US state of North Carolina. ](/news/2011/02/9/daniel-patrick-boyd-pleads-guilty-to-terrorism-charges-in-a-trial-in-the-us-state-of-north-carolina.md)
-_Context: Daniel Patrick Boyd, North Carolina, U.S., terrorism_
+_Context: Daniel Patrick Boyd, North Carolina, United States, terrorism_
 
 ##### President of Liberia
 ### [The trial of former President of Liberia Charles Taylor is adjourned until Friday after he does not attend court in The Hague. ](/news/2011/02/9/the-trial-of-former-president-of-liberia-charles-taylor-is-adjourned-until-friday-after-he-does-not-attend-court-in-the-hague.md)
@@ -39,9 +39,9 @@ Jimmy Lemi Milla, minister for cooperatives and reural development, shot dead al
 ### [Detectives investigating claims over tabloid phone hacking in Britain are re-examining whether a string of high-profile individuals and celebrities were targeted. Scotland Yard is taking a second look. ](/news/2011/02/9/detectives-investigating-claims-over-tabloid-phone-hacking-in-britain-are-re-examining-whether-a-string-of-high-profile-individuals-and-cele.md)
 Listen live to your favourite music and presenters at Radio Aire. Keep up with the latest news and shows, enter competitions, and check out our playlists.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Prime Minister of Italy Silvio Berlusconi brands "disgusting" a request by prosecutors in Milan to have him put on trial immediately in relation to sexual relations with underage prostitutes which allegedly occurred at one of his house parties. ](/news/2011/02/9/prime-minister-of-italy-silvio-berlusconi-brands-disgusting-a-request-by-prosecutors-in-milan-to-have-him-put-on-trial-immediately-in-rela.md)
-_Context: Italian Prime Minister, Milan, Silvio Berlusconi_
+_Context: Milan, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### 
 ### [In a new agreement, Denmark and Russia will for the first time, cooperate within military. ](/news/2011/02/9/in-a-new-agreement-denmark-and-russia-will-for-the-first-time-cooperate-within-military.md)

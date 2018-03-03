@@ -83,7 +83,7 @@ _Context: AIG, Robert Benmosche, cancer, chemotherapy_
 ### [CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md)
 _Context: BP, Bob Dudley, Deepwater Horizon oil spill_
 
-##### U.S.
+##### United States
 ### [US financial regulators launch an investigation into the foreclosure practices of various US financial institutions. ](/news/2010/10/25/us-financial-regulators-launch-an-investigation-into-the-foreclosure-practices-of-various-us-financial-institutions.md)
 US banking regulators plan their own investigation into whether lenders were wrong to repossess hundreds of thousands of homes.
 

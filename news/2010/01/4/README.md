@@ -21,7 +21,7 @@ _Context: Dutch, Johan Ferrier, President of Suriname, Suriname, oldest living f
 
 ##### Newark Liberty International Airport
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)
-_Context: Newark Liberty International Airport, U.S._
+_Context: Newark Liberty International Airport, United States_
 
 ##### Malaysia
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
@@ -53,7 +53,7 @@ _Context: Solomon Islands_
 
 ##### U.S. President
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Barack Obama, Jimmy Carter, Plains, Georgia, U.S., U.S. President, epitaph_
+_Context: Barack Obama, Jimmy Carter, Plains, Georgia, U.S. President, United States, epitaph_
 
 ##### Burj Khalifa
 ### [The Burj Khalifa, the tallest structure ever built, opens to the public in Dubai, United Arab Emirates. ](/news/2010/01/4/the-burj-khalifa-the-tallest-structure-ever-built-opens-to-the-public-in-dubai-united-arab-emirates.md)

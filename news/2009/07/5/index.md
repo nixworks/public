@@ -21,7 +21,7 @@ The annual Orange Order parade in Drumcree passed off peacefully, with the PSNI 
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi is embarrassed by a lesbian kiss at his Sardinian estate. ](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.md)
-_Context: Italian Prime Minister, Italy, Sardinia, Silvio Berlusconi, lesbian_
+_Context: Italy, Prime Minister of Italy, Sardinia, Silvio Berlusconi, lesbian_
 
 ##### United Kingdom
 ### [ A security operation is conducted to protect the personal details of British diplomat John Sawers. ](/news/2009/07/5/a-security-operation-is-conducted-to-protect-the-personal-details-of-british-diplomat-john-sawers.md)
@@ -53,7 +53,7 @@ _Context: Cairo, Irish, Sudan_
 
 ##### Fellowship of Confessing Anglicans
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
 
 ##### Monorail collision
 ### [ One person dies after a monorail collision at Walt Disney World Resort in Orlando, Florida. ](/news/2009/07/5/one-person-dies-after-a-monorail-collision-at-walt-disney-world-resort-in-orlando-florida.md)

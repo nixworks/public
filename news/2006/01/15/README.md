@@ -37,7 +37,7 @@ _Context: Finnish presidential election, Sauli Niinist, Tarja Halonen_
 
 ##### Tracheotomy
 ### [ Doctors perform a tracheotomy on Ariel Sharon, the Prime Minister of Israel, hoping this will help his recovery from a recent stroke. ](/news/2006/01/15/doctors-perform-a-tracheotomy-on-ariel-sharon-the-prime-minister-of-israel-hoping-this-will-help-his-recovery-from-a-recent-stroke.md)
-_Context: Ariel Sharon, Israeli Prime Minister, his recovery, stroke, tracheotomy_
+_Context: Ariel Sharon, Prime Minister, his recovery, stroke, tracheotomy_
 
 ##### Kim Jong-il
 ### [ Kim Jong-il, the leader of North Korea, is alleged to have made a journey to China as part of a fact-finding mission in the region. ](/news/2006/01/15/kim-jong-il-the-leader-of-north-korea-is-alleged-to-have-made-a-journey-to-china-as-part-of-a-fact-finding-mission-in-the-region.md)

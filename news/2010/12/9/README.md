@@ -45,7 +45,7 @@ A group of computer hackers are planning to attack Amazon, the online retailer, 
 
 ##### India
 ### [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airport.md)
-_Context: India, Meera Shankar, U.S._
+_Context: India, Meera Shankar, United States_
 
 ##### African Union
 ### [The African Union suspends Cote d'Ivoire following the disputed presidential election. ](/news/2010/12/9/the-african-union-suspends-ca-te-d-ivoire-following-the-disputed-presidential-election.md)

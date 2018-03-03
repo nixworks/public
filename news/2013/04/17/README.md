@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/17/index.html)  [JSON](2013/04/17/index.json)  [XML](201
 
 ##### Gun politics in the United States
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, U.S., United States Senate_
+_Context: Gun politics in the United States, United States, United States Senate_
 
 ##### Parliament of New Zealand
 ### [Parliament of New Zealand legalizes same-sex marriage in New Zealand. ](/news/2013/04/17/parliament-of-new-zealand-legalizes-same-sex-marriage-in-new-zealand.md)
@@ -63,9 +63,9 @@ Sixteen people are injured in an explosion near the office of a political party 
 ### [Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/two-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no-damage-three-more-rocket.md)
 _Context: Egypt, Eilat, Israel, Jordan, Sinai Peninsula_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md)
-_Context: Pakistan, South Waziristan, U.S., Wana, drones launch_
+_Context: Pakistan, South Waziristan, United States, Wana, drones launch_
 
 ## [Previous Day...](/news/2013/04/16/index.md)
 

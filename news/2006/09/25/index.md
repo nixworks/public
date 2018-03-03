@@ -37,7 +37,7 @@ _Context: Condoleezza Rice, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbay
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
+_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
 
 ##### Cluster bomb
 ### [ Up to a million cluster bomblets discharged by Israel in its conflict with Hezbollah remain unexploded in southern Lebanon, the UN has said. ](/news/2006/09/25/up-to-a-million-cluster-bomblets-discharged-by-israel-in-its-conflict-with-hezbollah-remain-unexploded-in-southern-lebanon-the-un-has-said.md)

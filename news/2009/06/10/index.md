@@ -47,7 +47,7 @@ _Context: Constituent Assembly, Philippines, constitutional constraints, demonst
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)
 _Context: Bathaa, Dhi Qar Governorate_
 
-##### French
+##### France
 ### [ French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md)
 Search crews have now recovered 41 bodies from an area in the Atlantic where an Air France passenger plane went down over a week ago.
 

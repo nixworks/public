@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/28/index.html)  [JSON](2011/03/28/index.json)  [XML](201
 
 ##### Governor
 ### [The Governor of the US state of Michigan Rick Snyder signs legislation lowering the period that jobless workers can claim state unemployment benefits from 26 weeks to 20 weeks. ](/news/2011/03/28/the-governor-of-the-us-state-of-michigan-rick-snyder-signs-legislation-lowering-the-period-that-jobless-workers-can-claim-state-unemployment.md)
-_Context: Governor, Mich., Rick Snyder, unemployment benefits_
+_Context: Governor, Michigan, Rick Snyder, unemployment benefits_
 
 ##### Barry O'Farrell
 ### [Barry O'Farrell is sworn as the Premier of the Australian state of New South Wales following Saturday's state election. ](/news/2011/03/28/barry-o-farrell-is-sworn-as-the-premier-of-the-australian-state-of-new-south-wales-following-saturday-s-state-election.md)
@@ -19,7 +19,7 @@ _Context: Egypt, parliamentary elections_
 ### [A court in southern Vietnam sentences a zoo owner to three years imprisonment for selling the carcasses of dead tigers. ](/news/2011/03/28/a-court-in-southern-vietnam-sentences-a-zoo-owner-to-three-years-imprisonment-for-selling-the-carcasses-of-dead-tigers.md)
 _Context: southern Vietnam, tiger_
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [The trial of Prime Minister of Italy Silvio Berlusconi on corruption charges commences. ](/news/2011/03/28/the-trial-of-prime-minister-of-italy-silvio-berlusconi-on-corruption-charges-commences.md)
 Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer charges of corruption - his first such appearance in more than seven years.
 

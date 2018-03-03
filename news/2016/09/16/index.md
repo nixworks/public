@@ -11,7 +11,7 @@ Libertarian Party presidential candidate Gary Johnson and Green Party hopeful Ji
 ### [Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md)
 UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and tells PM Theresa May to &quot;get on&quot; with Brexit.
 
-##### Italian Prime Minister
+##### Prime Minister of Italy
 ### [Former Prime Minister and President of Italy Carlo Azeglio Ciampi dies at the age of 95. ](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.md)
 Former Italian president, prime minister and central bank governor Carlo Azeglio Ciampi, who played a key role in guiding the country into the European single currency, has died, the government said on Friday.
 
