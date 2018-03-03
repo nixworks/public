@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 
 ## [2018-03-2](/news/2018/03/2/index.md)
 
+##### Germany
+### [In Germany the SPD party member vote on the 2018 coalition agreement of Germany which is decisive for the formation of Angela Merkel's new coalition government ended. ](/news/2018/03/2/in-germany-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-which-is-decisive-for-the-formation-of-angela-merkel-s-new-c.md)
+_Context: Angela Merkel, Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+
 ##### European Union
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
