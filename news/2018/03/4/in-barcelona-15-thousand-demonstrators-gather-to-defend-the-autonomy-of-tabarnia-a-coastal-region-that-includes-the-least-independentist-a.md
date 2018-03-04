@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/4/in-barcelona-15-thousand-demonstrators-gather-to
 
 ### Sources:
 
-1. [Washington Post](https://www.washingtonpost.com/world/europe/spanish-unionist-rally-mocks-catalan-separatist-movement/2018/03/04/03564792-1faa-11e8-946c-9420060cb7bd_story.html?utm_term=.88cb452cc071)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/spanish-unionist-rally-mocks-catalan-separatist-movement/2018/03/04/03564792-1faa-11e8-946c-9420060cb7bd_story.html?utm_term=.88cb452cc071)
 
 ### Changes:
 

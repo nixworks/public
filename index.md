@@ -17,11 +17,15 @@ Populist and anti-immigrant parties could make major gains in an unpredictable c
 
 ##### Constitution of the United States of America
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
-_Context: China, Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping_
+_Context: Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
 ##### China-United States relations
 ### [A senior Chinese diplomat says that China does not want a trade war with the United States. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states.md)
 China does not want a trade war with the United States but will defend its interests, a senior Chinese diplomat said on Sunday.
+
+##### InfoWars
+### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel.md)
+Brands including Nike, Acer, Expedia and ClassPass say they were unaware their ads were running on YouTube channels for InfoWars and Alex Jones. 
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
