@@ -24,7 +24,7 @@ The US president steps up the war of words on trade, condemning the &quot;big tr
 The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
 
 ##### Israeli-Palestinian conflict
-### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
+### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. An Israeli military spokesperson said that he got too close to the border fence. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip-an-israeli-military-spokesperson-said-th.md)
 An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
 
 ## [Previous Day...](/news/2018/03/2/index.md)

@@ -15,16 +15,16 @@ A vote by Social Democrats ends five months of political deadlock - Angela Merke
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
-##### Constitution of the United States of America
+##### Presidency of Donald Trump
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
-_Context: Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
+_Context: Chinese President, Donald Trump, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
 ##### North Korea-South Korea relations
 ### [South Korea president Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korea-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
 _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korea_
 
 ##### North Korea-United States relations
-### [US President Donald Trump stated North Korea was seeking talks with the United States in efforts to denuclearization on the Korean Peninsula. ](/news/2018/03/4/us-president-donald-trump-stated-north-korea-was-seeking-talks-with-the-united-states-in-efforts-to-denuclearization-on-the-korean-peninsula.md)
+### [U.S. President Donald Trump stated North Korea was seeking talks with the United States in efforts to denuclearization on the Korean Peninsula. ](/news/2018/03/4/u-s-president-donald-trump-stated-north-korea-was-seeking-talks-with-the-united-states-in-efforts-to-denuclearization-on-the-korean-peninsu.md)
 President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations

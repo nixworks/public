@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-openin
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### Cellular network standards
+##### European Union
 # European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. 
 
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.

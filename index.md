@@ -15,16 +15,16 @@ A vote by Social Democrats ends five months of political deadlock - Angela Merke
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
-##### Constitution of the United States of America
+##### Presidency of Donald Trump
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
-_Context: Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
+_Context: Chinese President, Donald Trump, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
 ##### North Korea-South Korea relations
 ### [South Korea president Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korea-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
 _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korea_
 
 ##### North Korea-United States relations
-### [US President Donald Trump stated North Korea was seeking talks with the United States in efforts to denuclearization on the Korean Peninsula. ](/news/2018/03/4/us-president-donald-trump-stated-north-korea-was-seeking-talks-with-the-united-states-in-efforts-to-denuclearization-on-the-korean-peninsula.md)
+### [U.S. President Donald Trump stated North Korea was seeking talks with the United States in efforts to denuclearization on the Korean Peninsula. ](/news/2018/03/4/u-s-president-donald-trump-stated-north-korea-was-seeking-talks-with-the-united-states-in-efforts-to-denuclearization-on-the-korean-peninsu.md)
 President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations
@@ -64,7 +64,7 @@ The US president steps up the war of words on trade, condemning the &quot;big tr
 The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
 
 ##### Israeli-Palestinian conflict
-### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
+### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. An Israeli military spokesperson said that he got too close to the border fence. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip-an-israeli-military-spokesperson-said-th.md)
 An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
 
 ---
@@ -75,7 +75,7 @@ An Israeli military spokeswoman said that a &amp;#039;suspect had approached a r
 ### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
 _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
-##### Cellular network standards
+##### European Union
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
