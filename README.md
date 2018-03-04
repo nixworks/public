@@ -24,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
 
 ##### Protectionism in the United States
-### [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. further increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further-i.md)
+### [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md)
 The US president steps up the war of words on trade, condemning the &quot;big trade imbalance&quot;.
 
 ##### Turkish military operation in Afrin
