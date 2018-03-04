@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/4/index.html)  [JSON](2018/03/4/index.json)  [XML](2018/
 ## [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 Spanish constitutional crisis
-### [In Barcelona, 15.000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-areas.md)
+### [In Barcelona, 15 thousand demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-thousand-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-a.md)
 _Context: 2017-18 Spanish constitutional crisis, Barcelona, Tabarnia, autononous community, declaration of independence on October 27, independence_
 
 ##### Politics of Germany

@@ -31,10 +31,6 @@ Walmart Inc said on Wednesday that it was raising the minimum age at which custo
 ### [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3200-jobs-at-risk.md)
 Two of the UK’s best-known retailers collapsed into administration on Wednesday, putting well over 5,000 jobs at risk and underscoring the pressures stemming from inflation, slumping consumer confidence and the surging popularity of internet shopping. Toys R Us, which had reportedly been wrangling...
 
-##### Presidency of Donald Trump
-### [In a rare display of public affection, reaching over his wife Melania, Donald Trump touches Mike Pence's thigh. ](/news/2018/02/28/in-a-rare-display-of-public-affection-reaching-over-his-wife-melania-donald-trump-touches-mike-pence-s-thigh.md)
-The President gently touched his thigh while Mr Pence looked away.
-
 ##### Kivu conflict
 ### [The death toll from clashes between militias in the Rutshuru Territory of the North Kivu province, DR Congo, rises to 23 people. The renewed violence has been ongoing since February 25. ](/news/2018/02/28/the-death-toll-from-clashes-between-militias-in-the-rutshuru-territory-of-the-north-kivu-province-dr-congo-rises-to-23-people-the-renewed.md)
 We have recorded the death of 16 civilians and seven militiamen since Sunday, Francois Bakundakabo, an aide to the provincial governor, told AFP. 
