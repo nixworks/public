@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/4/index.html)  [JSON](2018/03/4/index.json)  [XML](2018/
 
 ## [2018-03-4](/news/2018/03/4/index.md)
 
+##### Politics of Germany
+### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-ending-a-five-month-political-deadlock-a.md)
+A vote by Social Democrats ends five months of political deadlock - Angela Merkel stays chancellor.
+
 ##### Italian general election, 2018
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.

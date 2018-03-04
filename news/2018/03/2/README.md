@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ## [2018-03-2](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [Postall ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with.md)
+### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
 _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
 ##### Cellular network standards

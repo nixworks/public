@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/4/index.md)
 
+##### Politics of Germany
+### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-ending-a-five-month-political-deadlock-a.md)
+A vote by Social Democrats ends five months of political deadlock - Angela Merkel stays chancellor.
+
 ##### Italian general election, 2018
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
@@ -20,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/3/index.md)
 
 ##### "Polish death camp" controversy
-### [Hours after the Polish so-called Holocaust Law takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-takes-effect-the-polish-league-against-defamation-sues-argentinian-newspaper-pa-gina-12-w.md)
+### [Hours after the Polish so-called Holocaust Law about discussing of historical facts takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-about-discussing-of-historical-facts-takes-effect-the-polish-league-against-defamation-sues.md)
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
 
 ##### Protectionism in the United States
@@ -40,7 +44,7 @@ An Israeli military spokeswoman said that a &amp;#039;suspect had approached a r
 ## [Day Before Yesterday](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [Postall ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with.md)
+### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
 _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
 ##### Cellular network standards
