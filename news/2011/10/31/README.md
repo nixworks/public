@@ -29,7 +29,7 @@ _Context: Arizona, Baseline Killer_
 
 ##### UNESCO
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: Palestine, UNESCO, United Nations, United States_
+_Context: Palestinian, UNESCO, United Nations, United States_
 
 ##### United States
 ### [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring GBP4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-gbp4bn-of-eurozone-debt-exposure.md)

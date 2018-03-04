@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-aw
 
 ### Related:
 
-1. [A suicide car bomber kills one person and injures 14 others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-14-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan, Australia_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Afghanistan, Australia_
 2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _Context: Afghanistan, Australia_
 3. [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md) _Context: Afghanistan, Australia_
 4. [British Lance Corporal James Ashworth, who died in southern Afghanistan in 2012 while protecting his colleagues from a grenade blast, is to be awarded the Victoria Cross. ](/news/2013/03/16/british-lance-corporal-james-ashworth-who-died-in-southern-afghanistan-in-2012-while-protecting-his-colleagues-from-a-grenade-blast-is-to.md) _Context: Afghanistan, Victoria Cross_

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/30/hundreds-of-protesters-gather-outside-allende-p
 
 ### [2009-12-30](/news/2009/12/30/index.md)
 
-##### Allende
+##### Veracruz
 #  Hundreds of protesters gather outside Allende prison in Veracruz, Mexico, objecting to the removal of inmates to allow U.S. film director Mel Gibson to shoot a controversial movie. 
 
 Hundreds of relatives of prisoners in a Mexican jail have protested the expected transfer of inmates to make way for a film shoot with US-Australian actor and director Mel Gibson next year.

@@ -41,7 +41,7 @@ _Context: American B-52 strategic bomber, Japan, North Korea, South Korea, Unite
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in a formal visit to Israel and the Palestinian territories, states that "Palestinians deserve a state of their own". ](/news/2013/03/21/u-s-president-barack-obama-in-a-formal-visit-to-israel-and-the-palestinian-territories-states-that-palestinians-deserve-a-state-of-their.md)
-_Context: Barack Obama, Israel, Palestine, Palestine, Palestinians, U.S. President, visit_
+_Context: Barack Obama, Israel, Palestine, Palestinian, Palestinians, U.S. President, visit_
 
 ##### Tornado
 ### [At least 24 people are killed and more than 100 injured in a tornado and hail storm in southern China. ](/news/2013/03/21/at-least-24-people-are-killed-and-more-than-100-injured-in-a-tornado-and-hail-storm-in-southern-china.md)

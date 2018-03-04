@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/13/index.html)  [JSON](2015/03/13/index.json)  [XML](201
 
 ##### NASA
 ### [NASA reports that scientists using the Hubble Space Telescope have found a salty ocean lurking beneath the surface of Jupiter's largest moon, Ganymede. ](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.md)
-_Context: Ganymede, Hubble Space Telescope, Jupiter, NASA, salty_
+_Context: Ganymede, Hubble, Jupiter, NASA, salty_
 
 ##### TeslaCrypt
 ### [TeslaCrypt, a malicious computer virus, targets older games (including World of Warcraft) stopping their users from playing their favorite titles unless they pay a ransom. ](/news/2015/03/13/teslacrypt-a-malicious-computer-virus-targets-older-games-including-world-of-warcraft-stopping-their-users-from-playing-their-favorite-t.md)

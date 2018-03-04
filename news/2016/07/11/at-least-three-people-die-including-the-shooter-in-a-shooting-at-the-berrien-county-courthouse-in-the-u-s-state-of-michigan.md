@@ -21,7 +21,7 @@ At least three people were reportedly killed at the Berrien County Courthouse in
 
 ### Related:
 
-1. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: Michigan, United States_
+1. [A student shoots his parents dead in a dorm at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/a-student-shoots-his-parents-dead-in-a-dorm-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: Michigan, United States_
 2. [A prosecutor in Michigan, United States, is considering whether the words of an African grey parrot could be used to try the woman accused of killing the pet parrot's owner. ](/news/2016/06/29/a-prosecutor-in-michigan-united-states-is-considering-whether-the-words-of-an-african-grey-parrot-could-be-used-to-try-the-woman-accused-o.md) _Context: Michigan, United States_
 3. [Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.md) _Context: Michigan, United States_
 4. [A brief lake effect snowsquall on Interstate 75 in Detroit, Michigan, United States, leads to a 30-car accident that leaves 3 dead and 15 injured. ](/news/2013/01/31/a-brief-lake-effect-snowsquall-on-interstate-75-in-detroit-michigan-united-states-leads-to-a-30-car-accident-that-leaves-3-dead-and-15-in.md) _Context: Michigan, United States_

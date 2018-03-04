@@ -35,9 +35,9 @@ Seventeen detained over alleged involvement in extra-judicial killings caught on
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes in The Hague. ](/news/2010/03/1/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-in-the-hague.md)
 Former Bosnian Serb leader Radovan Karadzic is expected to begin outlining his defence when his genocide trial at The Hague resumes today. - New Zealand Herald
 
-##### Palestine
+##### Palestinian
 ### [The Palestinian cabinet moves its weekly meeting from Ramallah to Hebron in a symbolic protest at the decision by Israel to add Hebron's Cave of the Patriarchs and Rachel's Tomb in Bethlehem to its list of national heritage sites. ](/news/2010/03/1/the-palestinian-cabinet-moves-its-weekly-meeting-from-ramallah-to-hebron-in-a-symbolic-protest-at-the-decision-by-israel-to-add-hebron-s-cav.md)
-_Context: Bethlehem, Cave of the Patriarchs, Hebron, Israel, Palestine, Rachel's Tomb, Ramallah_
+_Context: Bethlehem, Cave of the Patriarchs, Hebron, Israel, Palestinian, Rachel's Tomb, Ramallah_
 
 ##### President of the Federation of Bosnia and Herzegovina
 ### [63-year-old former President of the Federation of Bosnia and Herzegovina Ejup Ganic is detained at London Heathrow Airport while trying to leave the UK to escape charges of war crimes. ](/news/2010/03/1/63-year-old-former-president-of-the-federation-of-bosnia-and-herzegovina-ejup-gania-is-detained-at-london-heathrow-airport-while-trying-to.md)

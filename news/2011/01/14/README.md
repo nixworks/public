@@ -65,7 +65,7 @@ _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_
 
 ##### Guyana
 ### [Guyana formally recognizes Palestine as an independent state as part of its "long-standing and unwavering solidarity with, and commitment to, the just and legitimate aspirations of the people of Palestine for the exercise of their right to self-determination and to achieve a homeland of their own, independent, free, prosperous and at peace", a foreign ministry statement says. ](/news/2011/01/14/guyana-formally-recognizes-palestine-as-an-independent-state-as-part-of-its-long-standing-and-unwavering-solidarity-with-and-commitment-to.md)
-_Context: Guyana, Palestine_
+_Context: Guyana, Palestinian_
 
 ##### New York City
 ### [A closed-door briefing occurs at New York City's United Nations building. Behind it around 150 non-American diplomats object to the American government about a decision by the country's banks to end services for diplomatic missions, with some diplomats suggesting the UN budget could be affected. ](/news/2011/01/14/a-closed-door-briefing-occurs-at-new-york-city-s-united-nations-building-behind-it-around-150-non-american-diplomats-object-to-the-american.md)

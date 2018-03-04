@@ -11,9 +11,9 @@ Responding to a legal challenge filed by supporters of the ruling socialist part
 ### [The Indonesian government plans an appeal to a South Sumatra court's rejection of a Rp 7.8 trillion (SGD 780 million) lawsuit against a pulp and paper company accused of contributing to the recurring Southeast Asian hazes, particularly the recent incident of hazes in 2015. ](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.md)
 The Indonesian government says it will appeal a court decision to reject a $565m (£381m) lawsuit against a plantation company accused of causing forest fires.
 
-##### Russian President
+##### President
 ### [Russian President Vladimir Putin signs an amendment to Russia's law regarding the regulation of the use of weapons, giving the FSB the authority to use lethal force on crowds in order to "prevent acts of terrorism, rescue hostages, or repel attacks on public buildings." ](/news/2015/12/31/russian-president-vladimir-putin-signs-an-amendment-to-russia-s-law-regarding-the-regulation-of-the-use-of-weapons-giving-the-fsb-the-autho.md)
-_Context: Federal Security Service, Russia, Russian President, Vladimir Putin_
+_Context: Federal Security Service, President, Russia, Vladimir Putin_
 
 ##### The Address Downtown Dubai
 ### [A fire breaks out at The Address Downtown Dubai hotel. Fourteen people are reported as injured, with one indirect casualty. ](/news/2015/12/31/a-fire-breaks-out-at-the-address-downtown-dubai-hotel-fourteen-people-are-reported-as-injured-with-one-indirect-casualty.md)

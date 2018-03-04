@@ -23,9 +23,9 @@ A judge in Uganda orders the local Rolling Stone newspaper to stop publishing th
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
 _Context: Kenya, poachers_
 
-##### Russian President
+##### President
 ### [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md)
-_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian President, rival territorial claims_
+_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, President, Russia, rival territorial claims_
 
 ##### Schmalkalden
 ### [A large crater appears in the early hours in the central German town of Schmalkalden. ](/news/2010/11/1/a-large-crater-appears-in-the-early-hours-in-the-central-german-town-of-schmalkalden.md)

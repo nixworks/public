@@ -11,7 +11,7 @@ _Context: Poecilotheria rajaei, Sri Lanka, tarantula_
 ### [Scientists unveil a 3D printer which creates material very similar to human tissue. ](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.md)
 Scientists have built a 3-D printer that creates material resembling human tissues. The novel substance, a deceptively simple network of water droplets coated in lipids, could one day be used to...
 
-##### Hubble Space Telescope
+##### Hubble
 ### [The Hubble Space Telescope observes the most distant supernova on record. ](/news/2013/04/4/the-hubble-space-telescope-observes-the-most-distant-supernova-on-record.md)
 Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#039;s explosion more than 10 billion years ago, making it the most distant supernova yet detected.
 
@@ -83,7 +83,7 @@ Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He
 ### [South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.md)
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/a-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-west-bank-city-of-tulkarem-a-day-af.md)
 Abbas blames Israel for escalation in West Bank violence after two alleged firebombers are killed in Tulkarem
 

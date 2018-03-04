@@ -33,7 +33,7 @@ The United Nations Security Council will hold talks about the situation in Syria
 
 ##### Turkish military intervention in Afrin
 ### [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md)
-_Context: Afrin District, Binali Yildirim, Recep Tayyip Erdogan, Syria, Turkish Army ground troops, Turkish President, Turkish Prime Minister, Turkish military intervention in Afrin_
+_Context: Afrin, Binali Yildirim, Recep Tayyip Erdogan, Syria, Turkish Army ground troops, Turkish President, Turkish Prime Minister, Turkish military intervention in Afrin_
 
 ##### 2018 Inter-Continental Hotel Kabul attack
 ### [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md)

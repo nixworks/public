@@ -55,9 +55,9 @@ _Context: Iraq_
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
 _Context: Mehsud, North Waziristan, Pakistan, Tehreek-i-Taliban Pakistan, Urmuz_
 
-##### Russian President
+##### President
 ### [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md)
-_Context: Petro Poroshenko, Russian President, Ukrainian President-elect, Vladimir Putin, eastern Ukraine_
+_Context: Petro Poroshenko, President, Ukrainian President-elect, Vladimir Putin, eastern Ukraine_
 
 ##### Abdullah Abdullah
 ### [Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-election-survives-a-bombing-attempt.md)

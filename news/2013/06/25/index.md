@@ -39,9 +39,9 @@ Six&#x20;people&#x20;suspected&#x20;of&#x20;planning&#x20;terrorist&#x20;acts&#x
 ### [Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. ](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.md)
 At least nine people have died in gun battles with drug dealers in a favela in the Brazilian city of Rio de Janeiro, police say.
 
-##### Russian President
+##### President
 ### [Russian president Vladimir Putin confirms that Edward Snowden is currently in a Moscow airport's international area; Russia rejects United States extradition demands. ](/news/2013/06/25/russian-president-vladimir-putin-confirms-that-edward-snowden-is-currently-in-a-moscow-airport-s-international-area-russia-rejects-united-s.md)
-_Context: Edward Snowden, Moscow, Russian President, Vladimir Putin, extradition_
+_Context: Edward Snowden, Moscow, President, Vladimir Putin, extradition_
 
 ##### Italian
 ### [Italian police search more than thirty Italian football clubs including SS Lazio and Juventus FC searching for evidence of criminal conspiracy, international tax evasion, money laundering and invoice falsification. ](/news/2013/06/25/italian-police-search-more-than-thirty-italian-football-clubs-including-ss-lazio-and-juventus-fc-searching-for-evidence-of-criminal-conspira.md)

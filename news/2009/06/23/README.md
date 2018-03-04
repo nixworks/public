@@ -9,7 +9,7 @@ The Antigua and Barbuda government has dismissed its chief financial regulator, 
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev meets Egyptian President Hosni Mubarak in Cairo at the start of a four-day trip to Africa. ](/news/2009/06/23/russian-president-dmitry-medvedev-meets-egyptian-president-hosni-mubarak-in-cairo-at-the-start-of-a-four-day-trip-to-africa.md)
-_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Hosni Mubarak, President, Russia, Russian President_
+_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Hosni Mubarak, President, President, Russia_
 
 ##### New York State
 ### [ In the New York State legislative deadlock, Senate Democrats lock themselves into the Senate chamber due to a refusal to accept Pedro Espada as Senate President. ](/news/2009/06/23/in-the-new-york-state-legislative-deadlock-senate-democrats-lock-themselves-into-the-senate-chamber-due-to-a-refusal-to-accept-pedro-espad.md)

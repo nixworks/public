@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
 
 ##### White House
-### [A man shoots and injures himself in front of the White House. ](/news/2018/03/3/a-man-shoots-and-injures-himself-in-front-of-the-white-house.md)
+### [A man shoots and kills himself near the northern fence of the White House. ](/news/2018/03/3/a-man-shoots-and-kills-himself-near-the-northern-fence-of-the-white-house.md)
 The US Secret Service says a man shot himself outside the north fence of the building.
 
 ##### Protectionism in the United States

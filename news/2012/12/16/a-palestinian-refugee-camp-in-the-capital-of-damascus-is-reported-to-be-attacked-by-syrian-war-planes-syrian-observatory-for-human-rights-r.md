@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/16/a-palestinian-refugee-camp-in-the-capital-of-da
 
 ### [2012-12-16](/news/2012/12/16/index.md)
 
-##### Palestine
+##### Palestinian
 # A Palestinian refugee camp in the capital of Damascus is reported to be attacked by Syrian war planes. Syrian Observatory for Human Rights reported at least eight deaths. 
 
 A Palestinian refugee camp in the Syrian capital Damascus has been attacked, activists say, causing an unknown number of casualties.

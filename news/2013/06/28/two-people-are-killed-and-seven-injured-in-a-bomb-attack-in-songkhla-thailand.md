@@ -16,7 +16,7 @@ Formats: [HTML](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bo
 
 ### Changes:
 
-1. [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md) _2018-03-02 03:49:01 (First version)_
+1. [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md) _2018-03-03 03:50:03 (First version)_
 1. [Two people are killed and seven injured in a bomb attack in Songkhla, Thailand. ](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bomb-attack-in-songkhla-thailand.md) _(Current version)_
 
 ### Related:

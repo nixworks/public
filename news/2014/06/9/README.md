@@ -11,7 +11,7 @@ The sentences were the toughest punishment to date in the long-running investiga
 ### [Vietnamese banking tycoon Nguyen Duc Kien is sentenced to 30 years in prison in Vietnam on charges of tax evasion, violating state economic regulations, fraud, and running an illegal business. ](/news/2014/06/9/vietnamese-banking-tycoon-nguyen-duc-kien-is-sentenced-to-30-years-in-prison-in-vietnam-on-charges-of-tax-evasion-violating-state-economic.md)
 _Context: Nguyen Duc Kien, Vietnam_
 
-##### Russian President
+##### President
 ### [Russian President Vladimir Putin's personal envoy warns Finland against joining NATO. ](/news/2014/06/9/russian-president-vladimir-putin-s-personal-envoy-warns-finland-against-joining-nato.md)
 “Does Finland want to start World War III,” asks the Russian President&#039;s personal envoy Sergei Markov ahead of Lavrov´s visit to Turku.
 

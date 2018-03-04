@@ -27,9 +27,9 @@ The House of Representatives Committee on Justice on Tuesday declared the three 
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
 Officials in Brazil say a prison riot in which at least five inmates were killed has ended and the prisoners have been transferred to other jails.
 
-##### Russian President
+##### President
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Belarus, Minsk, Petro Poroshenko, Russian President, Ukraine, Ukrainian President, Vladimir Putin_
+_Context: Belarus, Minsk, Petro Poroshenko, President, Ukraine, Ukrainian President, Vladimir Putin_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)

@@ -61,7 +61,7 @@ _Context: Israel, U.S. Vice President_
 
 ##### Israel
 ### [Israeli authorities plan thousands more homes in settlements in East Jerusalem since Palestinian leaders terminated talks earlier this week due to this issue. ](/news/2010/03/11/israeli-authorities-plan-thousands-more-homes-in-settlements-in-east-jerusalem-since-palestinian-leaders-terminated-talks-earlier-this-week.md)
-_Context: East Jerusalem, Israel, Palestine_
+_Context: East Jerusalem, Israel, Palestinian_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union (ACLU) intervenes when Mississippi bans same-sex relationships and cancels its prom (leavers' dinner) due to the desire of a female student to bring her girlfriend and wear a tuxedo, while one of her teachers tells her "she had to remember where she was". ](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.md)

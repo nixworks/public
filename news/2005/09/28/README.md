@@ -13,7 +13,7 @@ _Context: Asif Chotu, Lashkar-e-Jhangvi, al Qaeda_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli airstrikes on Palestinian areas continue. IDF planes and artillery strike Gaza knocking out power to parts of the city, destroy a bridge in Beit Hanoun, fire missiles at a Fatah Youth Centre, an office and a refugee camp in the central Gaza Strip. Israeli troops later raided offices of Hamas and Islamic Jihad in the West Bank. ](/news/2005/09/28/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-areas-continue-idf-planes-and-artillery-strike-gaza-knocking-out-power-to.md)
-_Context: Beit Hanoun, Fatah, Gaza Strip, Hamas, Israel, Israeli Army, Israeli-Palestinian Conflict, Palestine, Palestinian Islamic Jihad, West Bank, Youth Centre, airstrike, artillery, bridge, refugee_
+_Context: Beit Hanoun, Fatah, Gaza Strip, Hamas, Israel, Israeli Army, Israeli-Palestinian Conflict, Palestinian, Palestinian Islamic Jihad, West Bank, Youth Centre, airstrike, artillery, bridge, refugee_
 
 ##### Unionize
 ### [ Trade unions inflict defeats against the UK Labour Party government, during the party's annual conference, including on the plan to use private companies in the National Health Service. ](/news/2005/09/28/trade-unions-inflict-defeats-against-the-uk-labour-party-government-during-the-party-s-annual-conference-including-on-the-plan-to-use-pri.md)

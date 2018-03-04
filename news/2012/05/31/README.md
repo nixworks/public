@@ -3,7 +3,7 @@ Formats: [HTML](2012/05/31/index.html)  [JSON](2012/05/31/index.json)  [XML](201
 
 ## [2012-05-31](/news/2012/05/31/index.md)
 
-##### Hubble Space Telescope
+##### Hubble
 ### [Astronomers working with the Hubble Space Telescope predict that the Milky Way will collide with the Andromeda Galaxy in four billion years' time. ](/news/2012/05/31/astronomers-working-with-the-hubble-space-telescope-predict-that-the-milky-way-will-collide-with-the-andromeda-galaxy-in-four-billion-years.md)
 The Milky Way is set to collide with its closest neighbor, the Andromeda galaxy, astronomers working with the Hubble Space Telescope said Thursday. Galactic residents need not brace for impact just...
 

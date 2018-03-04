@@ -13,7 +13,7 @@ _Context: DMZ, North Korea, South Korea_
 
 ##### Russia
 ### [ Russian journalist Anna Politkovskaya, famous for her criticism of President Vladimir Putin and his government's actions in Chechnya, is found murdered in Moscow. ](/news/2006/10/7/russian-journalist-anna-politkovskaya-famous-for-her-criticism-of-president-vladimir-putin-and-his-government-s-actions-in-chechnya-is-fo.md)
-_Context: Anna Politkovskaya, Chechnya, Moscow, Russia, Russian President, Vladimir Putin_
+_Context: Anna Politkovskaya, Chechnya, Moscow, President, Russia, Vladimir Putin_
 
 ##### New Guinea
 ### [ New Guinea volcano Rabaul caldera erupts. Two hundred people are evacuated but favourable winds help protect nearby towns from the impact. ](/news/2006/10/7/new-guinea-volcano-rabaul-caldera-erupts-two-hundred-people-are-evacuated-but-favourable-winds-help-protect-nearby-towns-from-the-impact.md)

@@ -9,7 +9,7 @@ _Context: convicted prisoners, held in police cells, its jails, prison service_
 
 ##### European Union
 ### [ European Union leaders gather in Lahti, Finland, for a summit with Russian President Vladimir Putin. ](/news/2006/10/20/european-union-leaders-gather-in-lahti-finland-for-a-summit-with-russian-president-vladimir-putin.md)
-_Context: European Union, Lahti, Russian President, Vladimir Putin_
+_Context: European Union, Lahti, President, Vladimir Putin_
 
 ##### Solomon Islands
 ### [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md)

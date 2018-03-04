@@ -17,7 +17,7 @@ _Context: Baghdad, Conflict in Iraq, Iraqi police, Karbala, Kirkuk, Shia, car bo
 
 ##### Supreme Court
 ### [ The Supreme court of Israel rejects the opinion of International Court of Justice for the removal of Israeli West Bank barrier, but calls on part of the wall to be re-routed so as not to encroach on Palestinian lands. The world court had called the barrier illegal and ordered the wall be torn down. ](/news/2005/09/15/the-supreme-court-of-israel-rejects-the-opinion-of-international-court-of-justice-for-the-removal-of-israeli-west-bank-barrier-but-calls-o.md)
-_Context: International Court of Justice, Israel, Palestine, Supreme Court, barrier_
+_Context: International Court of Justice, Israel, Palestinian, Supreme Court, barrier_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush addresses the nation from Jackson Square in New Orleans saying: "We have witnessed the kind of devastation no citizen of this great and generous nation should ever have to know. We will do what it takes and stay as long as it takes to help New Orleans to return their community and their lives." He provides the Federal Emergency Management Agency (FEMA) phone number to assist families in reuniting: 877-568-3317. ](/news/2005/09/15/u-s-president-george-w-bush-addresses-the-nation-from-jackson-square-in-new-orleans-saying-we-have-witnessed-the-kind-of-devastation-no.md)

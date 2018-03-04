@@ -11,7 +11,7 @@ Lord Sewel is facing a police inquiry after quitting as House of Lords deputy sp
 ### [At least 20 people are killed as gunmen open fire at a wedding celebration in Afghanistan's Baghlan province. ](/news/2015/07/26/at-least-20-people-are-killed-as-gunmen-open-fire-at-a-wedding-celebration-in-afghanistan-s-baghlan-province.md)
 At least 20 people killed by gunmen who opened fire at wedding guests in northern Baghlan province.
 
-##### Palestine
+##### Palestinian
 ### [Palestinian youth and Israeli riot police clash at the Al-Aqsa Mosque as the Muslims attacked Jews celebrating Tisha B'Av with rocks and firecrackers and barricaded themselves inside the mosque. ](/news/2015/07/26/palestinian-youth-and-israeli-riot-police-clash-at-the-al-aqsa-mosque-as-the-muslims-attacked-jews-celebrating-tisha-b-av-with-rocks-and-fir.md)
 In Jerusalem’s Al Aqsa Mosque, Palestinians threw stones and sprayed an unidentified liquid at the police , who responded with stun grenades and tear gas.
 

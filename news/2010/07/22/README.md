@@ -139,7 +139,7 @@ _Context: Amazon.com, Martin Amis, Orhan Pamuk, Philip Roth, Salman Rushdie, V. 
 ### [1984 Nobel Peace Laureate Archbishop Desmond Tutu announces he is to withdraw from public life. ](/news/2010/07/22/1984-nobel-peace-laureate-archbishop-desmond-tutu-announces-he-is-to-withdraw-from-public-life.md)
 Nobel&#x20;peace&#x20;laureate&#x20;Archbishop&#x20;Desmond&#x20;Tutu&#x20;announced&#x20;Thursday&#x20;that&#x20;he&#x20;is&#x20;to&#x20;withdraw&#x20;from&#x20;public&#x20;life&#x20;this&#x20;year&#x20;when&#x20;he&#x20;turns&#x20;79,&#x20;in&#x20;order&#x20;to&#x20;spend&#x20;more&#x20;time&#x20;...
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian militant is killed and seven other people wounded when Israeli troops open fire in northern Gaza. ](/news/2010/07/22/a-palestinian-militant-is-killed-and-seven-other-people-wounded-when-israeli-troops-open-fire-in-northern-gaza.md)
 Israeli troops kill one man and injure at least 10, including a child, in an attack on the northern Gaza Strip.
 

@@ -43,9 +43,9 @@ Chinese President Hu Jintao kicks off a four-day US visit with a rare private di
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
 _Context: Puntland, Somalia_
 
-##### Russian President
+##### President
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: Dmitry Medvedev, East Jerusalem, Russian President, West Bank_
+_Context: Dmitry Medvedev, East Jerusalem, President, West Bank_
 
 ##### Sri Lanka
 ### [Hundreds of flood victims in Sri Lanka protest over the alleged unfair distribution of emergency aid. ](/news/2011/01/18/hundreds-of-flood-victims-in-sri-lanka-protest-over-the-alleged-unfair-distribution-of-emergency-aid.md)

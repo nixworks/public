@@ -51,7 +51,7 @@ _Context: Cyclone Evan, Fiji, Samoa_
 ### [Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/taliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-at-least-four-civilians-and-i.md)
 The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing at least four civilians and injuring 30, officials say.
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian refugee camp in the capital of Damascus is reported to be attacked by Syrian war planes. Syrian Observatory for Human Rights reported at least eight deaths. ](/news/2012/12/16/a-palestinian-refugee-camp-in-the-capital-of-damascus-is-reported-to-be-attacked-by-syrian-war-planes-syrian-observatory-for-human-rights-r.md)
 A Palestinian refugee camp in the Syrian capital Damascus has been attacked, activists say, causing an unknown number of casualties.
 

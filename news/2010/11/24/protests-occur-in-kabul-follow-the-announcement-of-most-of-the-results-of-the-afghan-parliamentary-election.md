@@ -16,7 +16,7 @@ Afghan officials announced most of the long-delayed results from a September par
 
 ### Related:
 
-1. [A suicide car bomber kills one person and injures 14 others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-14-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Kabul_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Kabul_
 2. [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md) _Context: Kabul_
 3. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Kabul_
 4. [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md) _Context: Kabul_

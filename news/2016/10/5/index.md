@@ -31,7 +31,7 @@ Turkey detained 55 military and intelligence agency personnel on Wednesday over 
 ### [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md)
 France is to launch a new push for United Nations backing for a ceasefire in Syria that would allow aid into the city of Aleppo after some of the heaviest bombing of the war.
 
-##### Russia and weapons of mass destruction
+##### Nuclear weapons
 ### [Russian President Vladimir Putin suspends the 2013 nuclear agreement with the United States concerning uranium research. ](/news/2016/10/5/russian-president-vladimir-putin-suspends-the-2013-nuclear-agreement-with-the-united-states-concerning-uranium-research.md)
 Russia further curtailed its cooperation with the United States in nuclear energy on Wednesday, suspending a research agreement and terminating one on uranium conversion, two days after the Kremlin shelved a plutonium pact with Washington.
 

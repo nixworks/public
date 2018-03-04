@@ -49,7 +49,7 @@ Ecuador offers Wikileaks founder Julian Assange residency in the country and opp
 
 ##### Russia
 ### [Russian President Dmitry Medvedev warns of an "arms race" if Russia and the West can not agree on a missile defence system for Europe. ](/news/2010/11/30/russian-president-dmitry-medvedev-warns-of-an-arms-race-if-russia-and-the-west-can-not-agree-on-a-missile-defence-system-for-europe.md)
-_Context: Dmitry Medvedev, Europe, Russia, Russian President, arms race_
+_Context: Dmitry Medvedev, Europe, President, Russia, arms race_
 
 ##### United States
 ### [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)

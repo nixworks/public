@@ -35,9 +35,9 @@ _Context: Chinese, ICC, Russia, United Nations Security Council, mass murders of
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
 BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalat...
 
-##### Russian President
+##### President
 ### [Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-election.md)
-_Context: Russian President, Ukrainian presidential election, Vladimir Putin_
+_Context: President, Ukrainian presidential election, Vladimir Putin_
 
 ##### Chinese
 ### [Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)

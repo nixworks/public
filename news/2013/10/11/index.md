@@ -31,7 +31,7 @@ As many as 500,000 people in India have been evacuated as a massive cyclone swee
 ### [A fire in a hospital in Japan's Fukuoka prefecture kills ten people. ](/news/2013/10/11/a-fire-in-a-hospital-in-japan-s-fukuoka-prefecture-kills-ten-people.md)
 A fire breaks out in a hospital in southern Japan early on Friday, killing eight patients and two workers, police say.
 
-##### Palestine
+##### Palestinian
 ### [An Israeli man is killed and his wife injured after an attack by Palestinian militants inside their house on the West Bank. ](/news/2013/10/11/an-israeli-man-is-killed-and-his-wife-injured-after-an-attack-by-palestinian-militants-inside-their-house-on-the-west-bank.md)
 An Israeli man was killed and his wife injured in what appeared to be an attack by Palestinian militants outside their home in a West Bank settlement overnight Friday, Israeli officials said on Friday.
 

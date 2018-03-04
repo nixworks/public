@@ -53,7 +53,7 @@ The US has been pressed by various government for help with wiretapping criminal
 
 ##### Industry, Trade and Labour Minister of Israel
 ### [Industry, Trade and Labour Minister of Israel Binyamin Ben-Eliezer responds to Ecuador's formal recognition of Palestine as an independent state by saying that the "entire world" could recognise a Palestinian state in the next year. ](/news/2010/12/26/industry-trade-and-labour-minister-of-israel-binyamin-ben-eliezer-responds-to-ecuador-s-formal-recognition-of-palestine-as-an-independent-s.md)
-_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, Palestine_
+_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, Palestinian_
 
 ##### Israel
 ### [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the MV "Mavi Marmara", draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a-ba.md)

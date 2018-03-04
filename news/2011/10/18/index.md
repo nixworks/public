@@ -17,7 +17,7 @@ US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed 
 
 ##### Israel
 ### [Israel and the Palestinian militant organization Hamas begin a major prisoner swap, in which the captured Israeli Army soldier Gilad Shalit is released by Hamas in exchange for 1,027 Palestinian and Israeli-Arab prisoners held in Israel. Among the prisoners released are 280 prisoners serving life sentences for planning and perpetrating terror attacks. ](/news/2011/10/18/israel-and-the-palestinian-militant-organization-hamas-begin-a-major-prisoner-swap-in-which-the-captured-israeli-army-soldier-gilad-shalit.md)
-_Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli Army, Israeli-Arab, Palestine, life in prison_
+_Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli Army, Israeli-Arab, Palestinian, life in prison_
 
 ##### Governor
 ### [The Governor of Bangkok, Sukhumbhand Paribatra, appeals for 1.2 million sandbags to protect the Thai capital from encroaching floods, which have killed over 300 people nationwide since July. ](/news/2011/10/18/the-governor-of-bangkok-sukhumbhand-paribatra-appeals-for-1-2-million-sandbags-to-protect-the-thai-capital-from-encroaching-floods-which.md)

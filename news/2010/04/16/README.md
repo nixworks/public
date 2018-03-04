@@ -9,7 +9,7 @@ _Context: Lady Gaga, YouTube_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Hillary Clinton, Israel, Palestine, United States Secretary of State_
+_Context: Hillary Clinton, Israel, Palestinian, United States Secretary of State_
 
 ##### Arisman Pongruangrong
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)
@@ -71,9 +71,9 @@ _Context: severe storm in India_
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
 _Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President_
 
-##### Palestine
+##### Palestinian
 ### [The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md)
-_Context: Gaza Strip, Israel, Palestine_
+_Context: Gaza Strip, Israel, Palestinian_
 
 ##### Malta
 ### [Benedict prepares for a trip to Malta, his first trip abroad in 2010, where abuse survivors demand to meet him. ](/news/2010/04/16/benedict-prepares-for-a-trip-to-malta-his-first-trip-abroad-in-2010-where-abuse-survivors-demand-to-meet-him.md)

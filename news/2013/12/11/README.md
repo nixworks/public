@@ -7,9 +7,9 @@ Formats: [HTML](2013/12/11/index.html)  [JSON](2013/12/11/index.json)  [XML](201
 ### [Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md)
 Security forces pulled back after seizing control of a large section of the square, setting off clashes with protesters rallying against the Ukrainian government.
 
-##### Russian President
+##### President
 ### [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md)
-_Context: Arctic, Russian President, Vladimir Putin_
+_Context: Arctic, President, Vladimir Putin_
 
 ##### Revenge porn
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)

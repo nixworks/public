@@ -31,9 +31,9 @@ Officials say the 60 per cent benchmark needed to validate secession referendum 
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
 _Context: President, Tunisia, Zine El Abidine Ben Ali_
 
-##### Palestine
+##### Palestinian
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
-_Context: Gaza Strip, Hamas, Israel, Israeli Army, Palestine_
+_Context: Gaza Strip, Hamas, Israel, Israeli Army, Palestinian_
 
 ##### South Korea
 ### [The South Korean Ministry for Reunification advises that it has reopened Red Cross communications with North Korea over the Panmunjom Border Area. ](/news/2011/01/12/the-south-korean-ministry-for-reunification-advises-that-it-has-reopened-red-cross-communications-with-north-korea-over-the-panmunjom-border.md)

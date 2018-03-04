@@ -65,7 +65,7 @@ An edition of the Hindu holy book the Bhagvad Gita escapes a threatened ban in R
 
 ##### Greek Orthodox
 ### [Greek Orthodox and Armenian Apostolic priests fight in the Church of the Nativity in Bethlehem over a cleaning dispute; Palestinian police break up the fighting. ](/news/2011/12/28/greek-orthodox-and-armenian-apostolic-priests-fight-in-the-church-of-the-nativity-in-bethlehem-over-a-cleaning-dispute-palestinian-police-b.md)
-_Context: Armenian Apostolic, Bethlehem, Church of the Nativity, Greek Orthodox, Palestine_
+_Context: Armenian Apostolic, Bethlehem, Church of the Nativity, Greek Orthodox, Palestinian_
 
 ##### Arab
 ### [A bomb is thrown into an Arabic school in southern Nigeria's Delta State, injuring seven people. ](/news/2011/12/28/a-bomb-is-thrown-into-an-arabic-school-in-southern-nigeria-s-delta-state-injuring-seven-people.md)

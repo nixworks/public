@@ -63,7 +63,7 @@ _Context: Fiji, Fijian, Indo-Fijian_
 ### [Archaeologists in Afghanistan discover the remains of a Buddhist site south of the capital Kabul. ](/news/2010/08/17/archaeologists-in-afghanistan-discover-the-remains-of-a-buddhist-site-south-of-the-capital-kabul.md)
 _Context: Afghanistan, Buddhists, Kabul_
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian man from Ramallah threatens to blow up the Turkish embassy in Tel Aviv, Israel if not offered asylum, but is shot by security staff. ](/news/2010/08/17/a-palestinian-man-from-ramallah-threatens-to-blow-up-the-turkish-embassy-in-tel-aviv-israel-if-not-offered-asylum-but-is-shot-by-security.md)
 Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 

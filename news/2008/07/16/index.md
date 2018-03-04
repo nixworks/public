@@ -37,7 +37,7 @@ _Context: President's Emergency Plan for AIDS Relief, United States Senate_
 
 ##### Yukos
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)
-_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Russian President, Yukos_
+_Context: Dmitry Medvedev, Mikhail Khodorkovsky, President, Russia, Yukos_
 
 ##### Marsa Matrouh
 ### [ A train crash near Marsa Matrouh in northern Egypt kills at least 42 people with 40 more injured. ](/news/2008/07/16/a-train-crash-near-marsa-matrouh-in-northern-egypt-kills-at-least-42-people-with-40-more-injured.md)

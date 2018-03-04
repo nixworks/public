@@ -29,7 +29,7 @@ _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, Pr
 
 ##### Palestine-European Union relations
 ### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
-_Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine, Palestine-European Union relations, President of the State of Palestine_
+_Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine-European Union relations, Palestinian, President of the State of Palestine_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-will-open-i.md)

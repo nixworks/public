@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/10/index.html)  [JSON](2007/12/10/index.json)  [XML](200
 
 ##### Russia
 ### [ Russian President Vladimir Putin announces at a party meeting that he will support Dmitry Medvedev as his successor in the March 2008 presidential election. ](/news/2007/12/10/russian-president-vladimir-putin-announces-at-a-party-meeting-that-he-will-support-dmitry-medvedev-as-his-successor-in-the-march-2008-presi.md)
-_Context: Dmitry Medvedev, Russia, Russian President, Vladimir Putin, go to the polls_
+_Context: Dmitry Medvedev, President, Russia, Vladimir Putin, go to the polls_
 
 ##### Conrad Black
 ### [ Former media tycoon Conrad Black receives a 78-month jail sentence in the United States for mail fraud and obstruction of justice. ](/news/2007/12/10/former-media-tycoon-conrad-black-receives-a-78-month-jail-sentence-in-the-united-states-for-mail-fraud-and-obstruction-of-justice.md)

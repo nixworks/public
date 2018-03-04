@@ -57,7 +57,7 @@ _Context: Baramulla, Jammu and Kashmir, Sopore_
 ### [At least a dozen Iranians are killed and 81 are wounded in a bomb attack on a military parade in the Kurdish town of Mahabad according to reports from Iranian Arabic language television Al-Alam. ](/news/2010/09/22/at-least-a-dozen-iranians-are-killed-and-81-are-wounded-in-a-bomb-attack-on-a-military-parade-in-the-kurdish-town-of-mahabad-according-to-re.md)
 Twelve people were killed and more than 70 injured on Wednesday when a bomb exploded among a crowd watching a military parade in northwestern Iran.
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian man is shot dead by an Israeli security guard in the East Jerusalem area of Silwan, during a clash between Israeli settlers and Palestinians. ](/news/2010/09/22/a-palestinian-man-is-shot-dead-by-an-israeli-security-guard-in-the-east-jerusalem-area-of-silwan-during-a-clash-between-israeli-settlers-an.md)
 A Jewish settlement guard kills a Palestinian man in the East Jerusalem neighbourhood of Silwan after residents pelt his car with stones.
 

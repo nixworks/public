@@ -41,7 +41,7 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ##### Israeli-Palestinian conflict
 ### [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md)
-_Context: Israel, Israeli-Palestinian conflict, Palestine_
+_Context: Israel, Israeli-Palestinian conflict, Palestinian_
 
 ##### Saudi-led intervention in Yemen
 ### [Saudi air defenses intercept a Scud missile fired from Yemen as it headed towards the city of Khamis Mushait, in the southwestern 'Asir Region. ](/news/2016/02/14/saudi-air-defenses-intercept-a-scud-missile-fired-from-yemen-as-it-headed-towards-the-city-of-khamis-mushait-in-the-southwestern-asir-regi.md)

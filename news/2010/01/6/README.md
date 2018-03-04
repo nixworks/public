@@ -59,9 +59,9 @@ _Context: China, German, top export market_
 ### [Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. ](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.md)
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
-##### Palestine
+##### Palestinian
 ### [Palestinians kill an Egyptian border guard and 50 people are injured in clashes between pro-Palestinian activists and Egyptian police as a Viva Palestina convoy nears the border with Gaza. ](/news/2010/01/6/palestinians-kill-an-egyptian-border-guard-and-50-people-are-injured-in-clashes-between-pro-palestinian-activists-and-egyptian-police-as-a-v.md)
-_Context: Egypt, Gaza Strip, Palestine, Viva Palestina_
+_Context: Egypt, Gaza Strip, Palestinian, Viva Palestina_
 
 ##### Dagestan
 ### [At least six police officers are killed and another 16 injured in a suicide car bomb attack in Dagestan, southern Russia. ](/news/2010/01/6/at-least-six-police-officers-are-killed-and-another-16-injured-in-a-suicide-car-bomb-attack-in-dagestan-southern-russia.md)

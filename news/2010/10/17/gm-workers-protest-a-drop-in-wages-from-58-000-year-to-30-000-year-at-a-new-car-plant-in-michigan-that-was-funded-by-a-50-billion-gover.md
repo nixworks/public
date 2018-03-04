@@ -17,7 +17,7 @@ Formats: [HTML](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-
 ### Related:
 
 1. [ General Motors announces that it will cut production of pickup trucks and sport utility vehicles in three plants in Michigan and one in Oshawa, Ontario and negotiate layoffs with the United Auto Workers and Canadian Auto Workers. ](/news/2008/04/28/general-motors-announces-that-it-will-cut-production-of-pickup-trucks-and-sport-utility-vehicles-in-three-plants-in-michigan-and-one-in-osh.md) _Context: General Motors, Michigan_
-2. [Two people are shot dead at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/two-people-are-shot-dead-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: Michigan_
+2. [A student shoots his parents dead in a dorm at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/a-student-shoots-his-parents-dead-in-a-dorm-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md) _Context: Michigan_
 3. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Michigan_
 4. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Michigan_
 5. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: General Motors_

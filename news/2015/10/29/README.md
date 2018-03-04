@@ -33,7 +33,7 @@ China decides to end its decades-long policy of allowing couples to have only on
 
 ##### USS ''Ronald Reagan''
 ### [The carrier USS "Ronald Reagan", during a military exercise with South Korea in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes, according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin. ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-figh.md)
-_Context: Cold War, F/A-18 Hornet, IHS Jane's Defence Weekly, Russia, Russian President, Sea of Japan, South Korea, USS ''Ronald Reagan'', United States Navy, Vladimir Putin, international waters, warplanes_
+_Context: Cold War, F/A-18 Hornet, IHS Jane's Defence Weekly, President, Russia, Sea of Japan, South Korea, USS ''Ronald Reagan'', United States Navy, Vladimir Putin, international waters, warplanes_
 
 ##### Lockheed
 ### [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md)

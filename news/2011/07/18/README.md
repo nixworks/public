@@ -43,9 +43,9 @@ Five bloggers arrested in April after calling for political reforms in the Unite
 ### [The United States Secretary of State Hillary Clinton arrives in India for two days of talks with the Indian government. ](/news/2011/07/18/the-united-states-secretary-of-state-hillary-clinton-arrives-in-india-for-two-days-of-talks-with-the-indian-government.md)
 _Context: Hillary Clinton, India, United States Secretary of State_
 
-##### Russian President
+##### President
 ### [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md)
-_Context: Dmitry Medvedev, German, Russian President_
+_Context: Dmitry Medvedev, German, President_
 
 ##### Iran
 ### [Iran claims to have taken control of three Iranian Kurdish PJAK camps inside Iraq. ](/news/2011/07/18/iran-claims-to-have-taken-control-of-three-iranian-kurdish-pjak-camps-inside-iraq.md)

@@ -23,7 +23,7 @@ A Saudi judge has asked several hospitals whether they could damage a man&#039;s
 ### [Russian engineers start loading fuel into Iran's first nuclear reactor at Bushehr Nuclear Power Plant. ](/news/2010/08/21/russian-engineers-start-loading-fuel-into-iran-s-first-nuclear-reactor-at-bushehr-nuclear-power-plant.md)
 _Context: Bushehr power plant, Iran, Russia, engineers, nuclear reactor_
 
-##### Palestine
+##### Palestinian
 ### [Palestinians warn that building on occupied land by Israel would threaten negotiations. ](/news/2010/08/21/palestinians-warn-that-building-on-occupied-land-by-israel-would-threaten-negotiations.md)
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 

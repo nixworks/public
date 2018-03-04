@@ -39,7 +39,7 @@ South Korea plans to break up its coastguard in the wake of the ferry disaster i
 ### [AstraZeneca rejects the latest, and likely the last, takeover price from Pfizer, close to 70 billion pounds or US$118 billion. ](/news/2014/05/19/astrazeneca-rejects-the-latest-and-likely-the-last-takeover-price-from-pfizer-close-to-70-billion-pounds-or-us-118-billion.md)
 _Context: AstraZeneca, Pfizer_
 
-##### Russian President
+##### President
 ### [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md)
 Russia said President Vladimir V. Putin had ordered troops to leave border areas, but NATO’s secretary general said he had seen no sign of movement.
 

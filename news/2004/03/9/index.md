@@ -31,9 +31,9 @@ _Context: Beltway sniper attacks, John Allen Muhammad, Virginia_
 ### [ Opposition members of South Korea's parliament undertake the first steps in impeachment proceedings against President Roh Moo-hyun. ](/news/2004/03/9/opposition-members-of-south-korea-s-parliament-undertake-the-first-steps-in-impeachment-proceedings-against-president-roh-moo-hyun.md)
 _Context: Roh Moo-hyun, South Korea, impeachment_
 
-##### Hubble Space Telescope
+##### Hubble
 ### [ New Hubble Space Telescope images show deepest view of the universe yet. ](/news/2004/03/9/new-hubble-space-telescope-images-show-deepest-view-of-the-universe-yet.md)
-_Context: Hubble Space Telescope_
+_Context: Hubble_
 
 ##### California electricity crisis
 ### [ California electricity crisis: Federal prosecutors plan to indict a Reliant Energy subsidiary for its alleged role in the energy shortage of 2000 and 2001. These would be the first criminal proceedings related to the crisis. ](/news/2004/03/9/california-electricity-crisis-federal-prosecutors-plan-to-indict-a-reliant-energy-subsidiary-for-its-alleged-role-in-the-energy-shortage-o.md)

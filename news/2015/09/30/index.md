@@ -21,7 +21,7 @@ U.N. members voted earlier this month to allow the Palestinian and Vatican flags
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the Palestinian Authority, states that Palestine will no longer abide by the Oslo accords and claims that Israel has not been complying with them. ](/news/2015/09/30/mahmoud-abbas-the-president-of-the-palestinian-authority-states-that-palestine-will-no-longer-abide-by-the-oslo-accords-and-claims-that-is.md)
-_Context: Israel, Mahmoud Abbas, Oslo accords, Palestine, President of the Palestinian Authority_
+_Context: Israel, Mahmoud Abbas, Oslo accords, Palestinian, President of the Palestinian Authority_
 
 ##### Groningen
 ### [An earthquake strikes the Dutch province of Groningen, damaging some buildings. ](/news/2015/09/30/an-earthquake-strikes-the-dutch-province-of-groningen-damaging-some-buildings.md)
@@ -59,7 +59,7 @@ A court sentenced five men to death and jailed seven for life on Wednesday for p
 ### [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md)
 The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Afghan military&rsquo;s bid to retake the city.
 
-##### Blocks
+##### Russian involvement in the Syrian Civil War
 ### [The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-armed-forces-outside-its-borders-following-a-req.md)
 The escalation comes after Russia&rsquo;s parliament backed the use of military force in Syria.
 

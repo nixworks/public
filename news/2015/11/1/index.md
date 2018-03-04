@@ -19,7 +19,7 @@ In accordance with the country’s legislation, the elections will be considered
 ### [Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s-snap-election-with-more-than-49-percent-o.md)
 His gamble paid off, and now Erdogan is in a position to cement his presidential hold on power in Turkey.
 
-##### School shootings in the United States
+##### Deadliest high school shooting
 ### [A campus shooting at around 1:20 AM at Lot W, near Wilson Hall and Gleason-Hairston Terrace, at the Main Campus of Winston-Salem State University, in Winston-Salem, North Carolina, kills at least one person and wounds at least one- the two are believed to be students; the suspected gunman, Jarrett Jerome Moore, is not believed to be a student, and is believed to be still at large. ](/news/2015/11/1/a-campus-shooting-at-around-1-20-am-at-lot-w-near-wilson-hall-and-gleason-hairston-terrace-at-the-main-campus-of-winston-salem-state-unive.md)
 One student was fatally shot and another injured on the campus of Winston-Salem State University early Sunday.
 

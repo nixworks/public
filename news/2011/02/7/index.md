@@ -29,7 +29,7 @@ LONDON: Julian Assange&#039;s defence team is to argue that he cannot be given a
 
 ##### Israel
 ### [Israel approves plans for two new buildings to be built in East Jerusalem, Palestine with the Palestinians currently living there to be evicted.](/news/2011/02/7/israel-approves-plans-for-two-new-buildings-to-be-built-in-east-jerusalem-palestine-with-the-palestinians-currently-living-there-to-be-evic.md)
-_Context: East Jerusalem, Israel, Palestine_
+_Context: East Jerusalem, Israel, Palestinian_
 
 ##### North Korea
 ### [Thirty-one North Koreans arrive in South Korea after crossing the Yellow Sea by boat. ](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.md)

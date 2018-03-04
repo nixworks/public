@@ -15,7 +15,7 @@ _Context: 2007 attack, Australian Federal Police, Mohamed Haneef, planned car bo
 ### [ A shipment of fuel oil arrives in North Korea as part of an agreement to end its nuclear program. International Atomic Energy Agency inspectors are monitoring the shutdown of the Yongbyon reactor. North Korea later advises that it has shut the reactor down. ](/news/2007/07/14/a-shipment-of-fuel-oil-arrives-in-north-korea-as-part-of-an-agreement-to-end-its-nuclear-program-international-atomic-energy-agency-inspec.md)
 A shipment of fuel has arrived in North Korea - the first part of a deal to halt Pyongyang&#039;s nuclear program.
 
-##### Russian President
+##### President
 ### [ The President of Russia Vladimir Putin signs a decree suspending Russia's participation in the Conventional Forces in Europe (CFE) pact. ](/news/2007/07/14/the-president-of-russia-vladimir-putin-signs-a-decree-suspending-russia-s-participation-in-the-conventional-forces-in-europe-cfe-pact.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

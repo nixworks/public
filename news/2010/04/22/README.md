@@ -83,7 +83,7 @@ Protesters blockade parliament amid growing stand-off over presidential decree.
 ### [The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. ](/news/2010/04/22/the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighlin-james-moriarty.md)
 Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leighlin Jim Moriarty.
 
-##### Palestine
+##### Palestinian
 ### [Ahmad Sabah, a Palestinian with a Gaza ID card, claims the new Israeli military order on deportations is behind his release to Gaza instead of the West Bank where he lived before his detainment in 2001. ](/news/2010/04/22/ahmad-sabah-a-palestinian-with-a-gaza-id-card-claims-the-new-israeli-military-order-on-deportations-is-behind-his-release-to-gaza-instead.md)
 Israeli move raises fears of more Palestinians being expelled from Israel and West Bank.
 

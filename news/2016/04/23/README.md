@@ -57,7 +57,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 
 ##### Russia-United States relations
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: Russia, Russia-United States relations, Russian President, U.S. government, Vladimir Putin, plutonium_
+_Context: President, Russia, Russia-United States relations, U.S. government, Vladimir Putin, plutonium_
 
 ##### North Korea's nuclear program
 ### [North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-time.md)

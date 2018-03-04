@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/1/palestine-is-recognised-within-its-1967-borders-
 
 ### [2011-02-1](/news/2011/02/1/index.md)
 
-##### Palestine
+##### Palestinian
 # Palestine is recognised within its 1967 borders by Suriname.
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/02/1/palestine-is-recognised-within-its-1967-borders-
 
 ### Related:
 
-1. [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md) _Context: Palestine, officially recognises_
-2. [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md) _Context: Palestine, officially recognises_
-3. [Peru recognises Palestine "as a free and sovereign state". ](/news/2011/01/24/peru-recognises-palestine-as-a-free-and-sovereign-state.md) _Context: Palestine, officially recognises_
-4. [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md) _Context: Palestine, officially recognises_
-5. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Palestine_
+1. [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md) _Context: Palestinian, officially recognises_
+2. [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md) _Context: Palestinian, officially recognises_
+3. [Peru recognises Palestine "as a free and sovereign state". ](/news/2011/01/24/peru-recognises-palestine-as-a-free-and-sovereign-state.md) _Context: Palestinian, officially recognises_
+4. [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md) _Context: Palestinian, officially recognises_
+5. [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md) _Context: Palestinian_

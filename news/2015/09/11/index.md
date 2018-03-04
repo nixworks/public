@@ -45,7 +45,7 @@ Cuba says it will release more than 3,500 prisoners in a goodwill gesture ahead 
 
 ##### General Assembly
 ### [The UN General Assembly votes in favor of flying the flags of non-member observer states outside the headquarters in New York City. Palestine will raise their flag on September 30, while Vatican City has made no plans yet. ](/news/2015/09/11/the-un-general-assembly-votes-in-favor-of-flying-the-flags-of-non-member-observer-states-outside-the-headquarters-in-new-york-city-palestin.md)
-_Context: General Assembly, New York City, Palestine, Vatican City, observer states_
+_Context: General Assembly, New York City, Palestinian, Vatican City, observer states_
 
 ##### Disaster
 ### [Strong winds cause a construction crane collapse at the Masjid al-Haram mosque killing 107 people and injuring 283 others. Most of the people killed were on the annual Islamic hajj (pilgrimage) to Mecca. ](/news/2015/09/11/strong-winds-cause-a-construction-crane-collapse-at-the-masjid-al-haram-mosque-killing-107-people-and-injuring-283-others-most-of-the-peopl.md)

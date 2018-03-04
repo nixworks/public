@@ -147,7 +147,7 @@ _Context: London Review of Books, baboon, blog, racial bias, rottweiler_
 ### [A Stonewall study indicates that young people rarely see positive portrayals of lesbian and gay people on television, usually depicted as "promiscuous, predatory, or figures of fun", particularly on BBC One. ](/news/2010/07/21/a-stonewall-study-indicates-that-young-people-rarely-see-positive-portrayals-of-lesbian-and-gay-people-on-television-usually-depicted-as-p.md)
 Young people rarely see positive portrayals of lesbian and gay people on television, according to Stonewall.
 
-##### Palestine
+##### Palestinian
 ### [Two Palestinian militants of the Islamic Jihad Movement in Palestine are killed and another six wounded by Israeli shelling as they approached the Gaza Strip-Israel border near Beit Hanoun. A ten-year-old girl is also wounded. ](/news/2010/07/21/two-palestinian-militants-of-the-islamic-jihad-movement-in-palestine-are-killed-and-another-six-wounded-by-israeli-shelling-as-they-approach.md)
 Top Islamic Jihad militant killed as Israeli tanks fire at militants after receiving reports they intended to attack a nearby IDF unit.
 

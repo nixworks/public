@@ -13,7 +13,7 @@ _Context: Chuck Rosenberg, Drug Enforcement Administration, Presidency of Donald
 
 ##### Politics of Russia
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
-_Context: Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian President, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
+_Context: Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, President, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
 
 ##### Senate special election in Alabama, 2017
 ### [Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. Moore is projected to win the primary runoff. ](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strange-face-off-in-alabamaas-special-election-in-what-political-analysts-claim-is-a-deepening-r.md)

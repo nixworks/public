@@ -9,7 +9,7 @@ _Context: B.C., Sea of Galilee, monument, stone_
 
 ##### Russia
 ### [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md)
-_Context: $, Russia, Russian President, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
+_Context: $, President, Russia, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
 
 ##### Iran
 ### [Iran's former nuclear negotiator Hassan Rouhani enters the race to succeed President Mahmoud Ahmadinejad, accusing the incumbent of needlessly incurring crippling economic sanctions. ](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.md)

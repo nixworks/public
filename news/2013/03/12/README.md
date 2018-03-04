@@ -91,7 +91,7 @@ The Better Business Bureau chapter that predominantly served the Los Angeles are
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
 _Context: England, Morrissey, San Francisco, United States, pneumonia_
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west-bank.md)
 Israeli troops shot to death a Palestinian man on Tuesday after he and others hurled rocks and firebombs at them in the West Bank, the military said.
 

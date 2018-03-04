@@ -27,7 +27,7 @@ Opposition activists have detonated small homemade bombs and set fire to several
 ### [Cyprus Finance Minister Michael Sarris resigns after completing talks on a controversial bailout deal and will be replaced by current Labour Minister Charis Georgiades. ](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.md)
 Cypriot Finance Minister Michalis Sarris resigns after completing talks on a controversial bailout deal.
 
-##### Palestine
+##### Palestinian
 ### [The Palestinian Islamic organization Hamas re-elects Khaled Meshaal as its leader. The group also passes a new law ordering gender segregation in Gaza's schools that will go into effect in September. ](/news/2013/04/2/the-palestinian-islamic-organization-hamas-re-elects-khaled-meshaal-as-its-leader-the-group-also-passes-a-new-law-ordering-gender-segregati.md)
 Hamas passes new law ordering gender segregation in schools that will go into effect in September.
 

@@ -13,7 +13,7 @@ _Context: Lech Kaczynski, Poland, Polish President_
 
 ##### Moon
 ### [ Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. ](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings-around-uranus-using-the-hubble-space-telescope.md)
-_Context: Hubble Space Telescope, Uranus, moon, ring system_
+_Context: Hubble, Uranus, moon, ring system_
 
 ##### 2012 Summer Olympics
 ### [ The 2012 Summer Olympics may have been given to London by a voting error, a senior IOC official theorised. ](/news/2005/12/23/the-2012-summer-olympics-may-have-been-given-to-london-by-a-voting-error-a-senior-ioc-official-theorised.md)

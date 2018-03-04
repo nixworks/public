@@ -75,9 +75,9 @@ Lorena Ochoa announced her retirement on Tuesday after three years as the world 
 ### [The Yushu earthquake death toll rises to 2,046. ](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.md)
 Nearly 200 people still missing in Qinghai as government declares day of mourning.
 
-##### Palestine
+##### Palestinian
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
-_Context: Israel, Palestine, West Bank_
+_Context: Israel, Palestinian, West Bank_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir's ruling party agrees to accept the results of the recent general election in Sudan. ](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.md)

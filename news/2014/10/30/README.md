@@ -17,7 +17,7 @@ _Context: 2014 Pennsylvania State Police barracks attack, Eric Frein, Pennsylvan
 
 ##### Sweden
 ### [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md)
-_Context: Israel, Palestine, Sweden, officially recognises, sovereign state_
+_Context: Israel, Palestinian, Sweden, officially recognises, sovereign state_
 
 ##### Super King Air
 ### [A Beechcraft King Air B200 crashes into a FlightSafety International building in Wichita, Kansas - there are four dead. ](/news/2014/10/30/a-beechcraft-king-air-b200-crashes-into-a-flightsafety-international-building-in-wichita-kansas-there-are-four-dead.md)

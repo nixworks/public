@@ -19,7 +19,7 @@ An Egyptian court hands down death sentences to Muslim Brotherhood leader Mohamm
 ### [Italian police arrest four people while 51 others are under investigation for corruption associated with public works including a stretch of the high-speed rail line near Florence. ](/news/2015/03/16/italian-police-arrest-four-people-while-51-others-are-under-investigation-for-corruption-associated-with-public-works-including-a-stretch-of.md)
 _Context: Florence, Italy_
 
-##### Russian President
+##### President
 ### [The President of Russia, Vladimir Putin, orders troops placed on full readiness in snap drills citing increased NATO exercises as the reason. ](/news/2015/03/16/the-president-of-russia-vladimir-putin-orders-troops-placed-on-full-readiness-in-snap-drills-citing-increased-nato-exercises-as-the-reason.md)
 Russian President Vladimir Putin ordered troops placed on full combat readiness in snap drills in western Russia, as Defense Minister Sergei Shoigu warned the country was facing new threats to its security.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/1/the-summit-is-closed-with-accepting-a-600-page-f
 
 ### [2012-09-1](/news/2012/09/1/index.md)
 
-##### Palestine
+##### Palestinian
 # The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". 
 
 

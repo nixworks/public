@@ -15,9 +15,9 @@ _Context: BBC, Channel 4, Director-General, Mark Thompson_
 ### [ The Supreme Court of Canada, in a 5-4 decision, rules in a case between U.S. biotechnology firm Monsanto Company and farmer Percy Schmeiser that Monsanto holds a patent on the Roundup Ready gene inserted in its canola seed and can control the use of the plant. The court previously decided that a higher life form, the Harvard mouse, could not be patented. ](/news/2004/05/21/the-supreme-court-of-canada-in-a-5a4-decision-rules-in-a-case-between-u-s-biotechnology-firm-monsanto-company-and-farmer-percy-schmeis.md)
 _Context: Harvard mouse, Monsanto Company, Percy Schmeiser, Roundup Ready, Supreme Court of Canada, biotechnology, canola, gene, life form, patent, seed_
 
-##### Russian President
+##### President
 ### [ Russian President Vladimir Putin announces that his country will pursue ratification of the Kyoto Protocol. Ratification will make the protocol take effect and impose trade restrictions on non-participating countries, such as Australia and the United States. ](/news/2004/05/21/russian-president-vladimir-putin-announces-that-his-country-will-pursue-ratification-of-the-kyoto-protocol-ratification-will-make-the-prot.md)
-_Context: Kyoto Protocol, Russian President, Vladimir Putin_
+_Context: Kyoto Protocol, President, Vladimir Putin_
 
 ## [Previous Day...](/news/2004/05/20/index.md)
 

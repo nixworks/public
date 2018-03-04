@@ -65,7 +65,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japanese economy, World Bank_
 
 ##### Israeli Army
 ### [Israel Defense Forces launch air strikes on the Gaza Strip after militants fire mortars and rockets at Israel resulting in 19 Palestineans being injured. ](/news/2011/03/21/israel-defense-forces-launch-air-strikes-on-the-gaza-strip-after-militants-fire-mortars-and-rockets-at-israel-resulting-in-19-palestineans-b.md)
-_Context: Gaza Strip, Israel, Israeli Army, Mortar fire, Palestine, air strike_
+_Context: Gaza Strip, Israel, Israeli Army, Mortar fire, Palestinian, air strike_
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Thousands of supporters of incumbent Cote d'Ivoire President Laurent Gbagbo gather to enlist in the army. ](/news/2011/03/21/2010a2011-ivorian-crisis-thousands-of-supporters-of-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-gather-to-enlist-in-the-army.md)

@@ -19,9 +19,9 @@ _Context: U.S. government, United States, Wyoming, environmental activists, need
 ### [The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. ](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.md)
 State media declares dos Santos as president-elect after his MPLA party takes unassailable lead in general elections.
 
-##### Palestine
+##### Palestinian
 ### [The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". ](/news/2012/09/1/the-summit-is-closed-with-accepting-a-600-page-final-document-that-mainly-focuses-on-the-palestinian-issue-as-well-as-on-iran-s-nuclear-ener.md)
-_Context: Chinese, Iran, Palestine, Syrian civil war, nuclear program_
+_Context: Chinese, Iran, Palestinian, Syrian civil war, nuclear program_
 
 ##### Thalidomide
 ### [Now middle-aged victims of Thalidomide ("Softenon", "Contergan")'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-manuf.md)

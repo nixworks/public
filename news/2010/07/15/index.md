@@ -115,7 +115,7 @@ Gunman Raoul Moat told social workers he wanted to see a psychiatrist months bef
 ### [A man claiming to be the killer of three British soldiers in Helmand contacts the BBC to say he was angered at what he described as the murder of civilians, including children, by British troops. ](/news/2010/07/15/a-man-claiming-to-be-the-killer-of-three-british-soldiers-in-helmand-contacts-the-bbc-to-say-he-was-angered-at-what-he-described-as-the-murd.md)
 A man who says he is the Afghan soldier who killed three UK soldiers in Afghanistan tells the BBC he acted alone.
 
-##### Russian President
+##### President
 ### [President of Russia Dmitry Medvedev, speaking in Germany, says Russian investigators have identified the killer of human rights activist Natalya Estemirova and an "international search" is underway. ](/news/2010/07/15/president-of-russia-dmitry-medvedev-speaking-in-germany-says-russian-investigators-have-identified-the-killer-of-human-rights-activist-nat.md)
 The Russian president says the killer of human rights worker Natalia Estemirova has been placed on an international wanted list.
 

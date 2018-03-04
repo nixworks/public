@@ -13,7 +13,7 @@ _Context: Colombo, Jeyaraj Fernandopulle, Sri Lanka_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin hold their final talks in their current positions. ](/news/2008/04/6/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-hold-their-final-talks-in-their-current-positions.md)
-_Context: George W. Bush, Russian President, U.S. President, Vladimir Putin_
+_Context: George W. Bush, President, U.S. President, Vladimir Putin_
 
 ##### University
 ### [ Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md)

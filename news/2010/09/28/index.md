@@ -11,9 +11,9 @@ _Context: 2008 economic meltdown, Althing, Geir Haarde, Iceland, Landsdomur, Pri
 ### [Ed Miliband, the new leader of the UK's Labour Party, makes his first major speech at the party's Annual Conference in Manchester telling delegates that his "new generation" will return the party to power. ](/news/2010/09/28/ed-miliband-the-new-leader-of-the-uk-s-labour-party-makes-his-first-major-speech-at-the-party-s-annual-conference-in-manchester-telling-de.md)
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.
 
-##### Russian President
+##### President
 ### [The President of Russia Dmitry Medvedev fires the Mayor of Moscow Yuri Luzhkov with first Deputy Mayor Vladimir Resin appointed as acting Mayor. ](/news/2010/09/28/the-president-of-russia-dmitry-medvedev-fires-the-mayor-of-moscow-yuri-luzhkov-with-first-deputy-mayor-vladimir-resin-appointed-as-acting-ma.md)
-_Context: Dmitry Medvedev, Mayor of Moscow, Russian President, Vladimir Resin, Yuri Luzhkov_
+_Context: Dmitry Medvedev, Mayor of Moscow, President, Vladimir Resin, Yuri Luzhkov_
 
 ##### Workers' Party of Korea
 ### [The Workers' Party of Korea conference begins in Pyongyang, North Korea. ](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.md)

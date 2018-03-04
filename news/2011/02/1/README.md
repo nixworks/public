@@ -23,9 +23,9 @@ _Context: China, Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, Tibetan B
 ### [U.S. soldier Bradley Manning, the alleged whistleblower who is thought to have revealed secret U.S. government documents to the international public, is reported to be held in solitary confinement awaiting trial by the United States for seven months now, treatment which the United Nations deems a form of torture when used for such prolonged periods. ](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.md)
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.
 
-##### Palestine
+##### Palestinian
 ### [Palestine is recognised within its 1967 borders by Suriname.](/news/2011/02/1/palestine-is-recognised-within-its-1967-borders-by-suriname.md)
-_Context: Palestine, Suriname, officially recognises_
+_Context: Palestinian, Suriname, officially recognises_
 
 ##### North Korea
 ### [North and South Korea agree to hold working-level military talks on 8 February, their first since the attack on Yeonpyeong Island in November last year. ](/news/2011/02/1/north-and-south-korea-agree-to-hold-working-level-military-talks-on-8-february-their-first-since-the-attack-on-yeonpyeong-island-in-novembe.md)

@@ -27,9 +27,9 @@ Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embas
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
 _Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
-##### Palestine
+##### Palestinian
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
-_Context: Palestine, West Bank_
+_Context: Palestinian, West Bank_
 
 ##### Sharm el-Sheikh
 ### [The corpse of a partially eaten 70-year-old female German tourist washes up on Sharm el-Sheikh, believed to have been killed by sharks in the fifth attack this week. ](/news/2010/12/5/the-corpse-of-a-partially-eaten-70-year-old-female-german-tourist-washes-up-on-sharm-el-sheikh-believed-to-have-been-killed-by-sharks-in-th.md)

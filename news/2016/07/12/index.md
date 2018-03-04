@@ -33,7 +33,7 @@ LOS ANGELES (AP) — The owner of the AMC Theatre chain is buying European movie
 
 ##### Church of the Nativity
 ### [Restoration work at the Church of the Nativity in Bethlehem, Palestine reveals a hidden angel mosaic. ](/news/2016/07/12/restoration-work-at-the-church-of-the-nativity-in-bethlehem-palestine-reveals-a-hidden-angel-mosaic.md)
-_Context: Bethlehem, Church of the Nativity, Palestine, mosaic_
+_Context: Bethlehem, Church of the Nativity, Palestinian, mosaic_
 
 ##### Iraqi Civil War
 ### [A car bomb explodes at an outdoor market in Baghdad, killing at least 12 people and injuring 20 more. Bombings elsewhere in Iraq kill five more people. ](/news/2016/07/12/a-car-bomb-explodes-at-an-outdoor-market-in-baghdad-killing-at-least-12-people-and-injuring-20-more-bombings-elsewhere-in-iraq-kill-five-m.md)

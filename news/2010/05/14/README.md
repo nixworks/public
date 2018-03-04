@@ -55,7 +55,7 @@ _Context: Nigeria, People's Democratic Party, Vincent Eze Ogbulafor_
 ### [Pakistan arrests a suspect with connections to a Pakistani group who said he acted as an accomplice to the man accused of trying to bomb Times Square in New York. ](/news/2010/05/14/pakistan-arrests-a-suspect-with-connections-to-a-pakistani-group-who-said-he-acted-as-an-accomplice-to-the-man-accused-of-trying-to-bomb-tim.md)
 _Context: Faisal Shahzad, New York City, Pakistan, Times Square bomber_
 
-##### Palestine
+##### Palestinian
 ### [The body of a Palestinian teenager said to have been shot dead by Jewish settlers is found. He is the first to die since Israel and the Palestinian National Authority began indirect peace talks on Saturday. In a retaliation shooting, the Al-Aqsa Martyrs' Brigades claims responsibility for firing on a car of Jewish civilians in the West Bank. ](/news/2010/05/14/the-body-of-a-palestinian-teenager-said-to-have-been-shot-dead-by-jewish-settlers-is-found-he-is-the-first-to-die-since-israel-and-the-pale.md)
 The body of a Palestinian teenager was found in the occupied West Bank on Friday, and Palestinian police and witnesses said he had been shot dead by Jewish settlers after he threw rocks at their car.
 

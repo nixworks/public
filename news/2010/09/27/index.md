@@ -59,7 +59,7 @@ _Context: Alberto-Culver, Unilever_
 ### [Gloria Stuart, the oldest-ever nominee for an Academy award, specifically the Academy Award for Best Supporting Actress for her role as the elder Rose in the 1997 film "Titanic", dies in Los Angeles, aged 100. ](/news/2010/09/27/gloria-stuart-the-oldest-ever-nominee-for-an-academy-award-specifically-the-academy-award-for-best-supporting-actress-for-her-role-as-the.md)
 _Context: Academy Award for Best Supporting Actress, Academy award, Gloria Stuart, Los Angeles, Titanic_
 
-##### Palestine
+##### Palestinian
 ### [Three Palestinians said to be members of the Islamic Jihad group are killed in an Israeli air strike on the southern part of the Gaza Strip. ](/news/2010/09/27/three-palestinians-said-to-be-members-of-the-islamic-jihad-group-are-killed-in-an-israeli-air-strike-on-the-southern-part-of-the-gaza-strip.md)
 At least three men are killed in the strike that targeted a car outside a refugee camp, near the Israeli-Gaza border.
 

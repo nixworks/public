@@ -23,9 +23,9 @@ The Senate on Wednesday rejected Mitch McConnell&#039;s effort to repeal of Pres
 ### [BBC executive Craig Oliver is chosen to replace Andy Coulson as British Prime Minister David Cameron's Director of Communications. ](/news/2011/02/2/bbc-executive-craig-oliver-is-chosen-to-replace-andy-coulson-as-british-prime-minister-david-cameron-s-director-of-communications.md)
 _Context: Andy Coulson, BBC, Craig Oliver, David Cameron_
 
-##### Russian President
+##### President
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
-_Context: Dmitry Medvedev, Kremlin, Mikhail Khodorkovsky, Russian President, Sergei Magnitsky, human rights_
+_Context: Dmitry Medvedev, Kremlin, Mikhail Khodorkovsky, President, Sergei Magnitsky, human rights_
 
 ##### Prime Minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)

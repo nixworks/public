@@ -17,7 +17,7 @@ Move comes as King Salman decrees a series of financial payouts to ease the cost
 
 ##### Cuba-United States relations
 ### [U.S. Senator Jeff Flake tells Cuban officials there is "no evidence" of a suspected sonic attack on U.S. diplomats at the U.S. embassy in Havana. ](/news/2018/01/6/u-s-senator-jeff-flake-tells-cuban-officials-there-is-no-evidence-of-a-suspected-sonic-attack-on-u-s-diplomats-at-the-u-s-embassy-in-ha.md)
-_Context: Cuba-United States relations, Health-related incidents at the United States Embassy in Havana, Jeff Flake, U.S. embassy in Havana_
+_Context: Cuba-United States relations, Jeff Flake, U.S. embassy in Havana, alleged health attacks_
 
 ##### Germany-Turkey relations
 ### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)

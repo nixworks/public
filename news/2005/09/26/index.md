@@ -9,7 +9,7 @@ _Context: Hamas, Israel, Israeli settlement, Jerusalem, Ramallah, Shin Bet's_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md)
-_Context: Airstrike, Egypt, Gaza Strip, Hamas, Israel, Israeli Army, Israeli-Palestinian conflict, Khan Yunis, Palestine, Palestinian Authority, Rafah_
+_Context: Airstrike, Egypt, Gaza Strip, Hamas, Israel, Israeli Army, Israeli-Palestinian conflict, Khan Yunis, Palestinian, Palestinian Authority, Rafah_
 
 ##### School
 ### [ Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md)

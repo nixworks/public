@@ -19,9 +19,9 @@ _Context: France, Malaysia Airlines Flight 370, Toulouse_
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)
 _Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_
 
-##### Russian President
+##### President
 ### [The President of Russia, Vladimir Putin, places the ancient historic site of Chersonesus under the control of the Russian federal government after a local government made a controversial appointment as site manager. ](/news/2015/08/1/the-president-of-russia-vladimir-putin-places-the-ancient-historic-site-of-chersonesus-under-the-control-of-the-russian-federal-government.md)
-_Context: Chersonesus, Russian President, Russian government, Vladimir Putin_
+_Context: Chersonesus, President, Russian government, Vladimir Putin_
 
 ##### Speech
 ### [The speech by Japanese Emperor Hirohito announcing the unconditional surrender of Japan is released in digital form. ](/news/2015/08/1/the-speech-by-japanese-emperor-hirohito-announcing-the-unconditional-surrender-of-japan-is-released-in-digital-form.md)

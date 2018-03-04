@@ -13,7 +13,7 @@ Fresh clashes lift number killed in four months of violence to more than 100, as
 
 ##### Russia and the United Nations
 ### [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md)
-_Context: Permanent Representative of Russia, Russia and the United Nations, Russian President, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
+_Context: Permanent Representative of Russia, President, Russia and the United Nations, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
 
 ##### Electronic cigarette
 ### [A new study, published in the "The BMJ" medical journal, finds that electronic cigarettes may help smokers stop their habit. The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. ](/news/2017/07/27/a-new-study-published-in-the-the-bmj-medical-journal-finds-that-electronic-cigarettes-may-help-smokers-stop-their-habit-the-researchers.md)

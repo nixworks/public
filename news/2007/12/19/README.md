@@ -7,9 +7,9 @@ Formats: [HTML](2007/12/19/index.html)  [JSON](2007/12/19/index.json)  [XML](200
 ### [ Belgian Prime Minister Guy Verhofstadt forms a temporary coalition government comprising five Socialist and Christian Democrat parties from both main language communities. ](/news/2007/12/19/belgian-prime-minister-guy-verhofstadt-forms-a-temporary-coalition-government-comprising-five-socialist-and-christian-democrat-parties-from.md)
 _Context: Belgium, Guy Verhofstadt, Prime Minister, Socialist and Christian Democrat parties, forms a temporary coalition government_
 
-##### Russian President
+##### President
 ### [ President of Russia Vladimir Putin is ""Time" magazine's Person of the Year". ](/news/2007/12/19/president-of-russia-vladimir-putin-is-time-magazine-s-person-of-the-year.md)
-_Context: Person of the Year, Russia, Russian President, Time, Vladimir Putin_
+_Context: Person of the Year, President, Russia, Time, Vladimir Putin_
 
 ##### Passenger express train derailment
 ### [ A passenger express train derailment in southern Pakistan kills at least 40 and injures 269. ](/news/2007/12/19/a-passenger-express-train-derailment-in-southern-pakistan-kills-at-least-40-and-injures-269.md)

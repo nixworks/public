@@ -41,13 +41,13 @@ The Russian foreign minister warns US lawmakers that any change to the new nucle
 
 ##### Israel
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
-_Context: Israel, Palestine, UN_
+_Context: Israel, Palestinian, UN_
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
 _Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
 
-##### Russian President
+##### President
 ### [President of Russia Dmitry Medvedev sets off for India for a two-day official visit to sign trade deals. ](/news/2010/12/20/president-of-russia-dmitry-medvedev-sets-off-for-india-for-a-two-day-official-visit-to-sign-trade-deals.md)
 Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear and defence contracts worth billions of dollars.
 

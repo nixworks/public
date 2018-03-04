@@ -61,7 +61,7 @@ A Nile boat has sunk off the south Egyptian town of Beni Suef and police sources
 
 ##### Chinese
 ### [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md)
-_Context: Central Asia, Chinese, Russia, Russian President, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
+_Context: Central Asia, Chinese, President, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
 
 ##### Texas
 ### [ Texas oil executive David B. Chalmers, Jr pleads guilty to wire fraud connected with the United Nations oil-for-food program associated with the United Nations. ](/news/2007/08/17/texas-oil-executive-david-b-chalmers-jr-pleads-guilty-to-wire-fraud-connected-with-the-united-nations-oil-for-food-program-associated-wit.md)

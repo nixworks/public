@@ -3,7 +3,7 @@ Formats: [HTML](2014/04/23/index.html)  [JSON](2014/04/23/index.json)  [XML](201
 
 ## [2014-04-23](/news/2014/04/23/index.md)
 
-##### Palestine
+##### Palestinian
 ### [Palestinian rival factions Fatah and Hamas have announced reconciliation to form a unity government. They split up violently in 2007. ](/news/2014/04/23/palestinian-rival-factions-fatah-and-hamas-have-announced-reconciliation-to-form-a-unity-government-they-split-up-violently-in-2007.md)
 Rival Palestinian factions Fatah and Hamas announce a reconciliation deal, saying they will seek to form a unity government in the coming weeks.
 

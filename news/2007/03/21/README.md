@@ -3,9 +3,9 @@ Formats: [HTML](2007/03/21/index.html)  [JSON](2007/03/21/index.json)  [XML](200
 
 ## [2007-03-21](/news/2007/03/21/index.md)
 
-##### Russian President
+##### President
 ### [ President of Russia Vladimir Putin declares a national day of mourning after three separate disasters kill at least 173 people in three days: the Ulyanovskaya Mine disaster, the crash of UT Air Flight 471 and a fire in a retirement home. ](/news/2007/03/21/president-of-russia-vladimir-putin-declares-a-national-day-of-mourning-after-three-separate-disasters-kill-at-least-173-people-in-three-day.md)
-_Context: Russian President, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national day of mourning, retirement home_
+_Context: President, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national day of mourning, retirement home_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md)

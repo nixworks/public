@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-fr
 
 ### [2010-01-7](/news/2010/01/7/index.md)
 
-##### Palestine
+##### Palestinian
 # Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. 
 
 

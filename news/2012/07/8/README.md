@@ -23,7 +23,7 @@ _Context: Afghanistan, Kabul, Taliban, woman accused of adultery_
 ### [Anti-China protests take place in Vietnam amid tensions over the disputed Spratly Islands part of the South China Sea dispute. ](/news/2012/07/8/anti-china-protests-take-place-in-vietnam-amid-tensions-over-the-disputed-spratly-islands-part-of-the-south-china-sea-dispute.md)
 _Context: Anti-China, South China Sea dispute, Spratly Islands, Vietnam_
 
-##### Russian President
+##### President
 ### [The President of Russia Vladimir Putin orders an inquiry into flash floods that have claimed at least 150 lives in the Krasnodar region. ](/news/2012/07/8/the-president-of-russia-vladimir-putin-orders-an-inquiry-into-flash-floods-that-have-claimed-at-least-150-lives-in-the-krasnodar-region.md)
 Russia holds day of mourning for those killed in the floods that swept large areas of the southern Krasnodar region on Saturday.
 

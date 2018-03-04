@@ -49,7 +49,7 @@ REUTERS - Twin car bombs targeting two government buildings killed at least 132 
 
 ##### Israel
 ### [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md)
-_Context: Israel, Jerusalem, Palestine, Temple Mount_
+_Context: Israel, Jerusalem, Palestinian, Temple Mount_
 
 ##### New York Yankees
 ### [ The New York Yankees beat the Los Angeles Angels 5-2 in Game 6 of the 2009 American League Championship Series to advance to the World Series. ](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.md)

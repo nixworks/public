@@ -41,7 +41,7 @@ _Context: NASA_
 ### [ Microsoft denies that it illegally uses its desktop computer operating system monopoly to hurt digital media rivals. ](/news/2004/02/20/microsoft-denies-that-it-illegally-uses-its-desktop-computer-operating-system-monopoly-to-hurt-digital-media-rivals.md)
 _Context: Microsoft, desktop computer, monopoly, operating system_
 
-##### Hubble Space Telescope
+##### Hubble
 ### [ Hubble Space Telescope measurements show that "Dark energy" is pushing apart the universe; this appears to be the constant, repulsive force that Albert Einstein once predicted. Astronomers announce this as evidence that the theory of the cosmological constant proposed, but later discarded, by Einstein may have been right after all. ](/news/2004/02/20/hubble-space-telescope-measurements-show-that-dark-energy-is-pushing-apart-the-universe-this-appears-to-be-the-constant-repulsive-force.md)
 Space.com: Exploding stars further confirm a mysterious dark energy force that appears to dominate the universe.
 

@@ -27,9 +27,9 @@ Australia is investigating claims that an Indonesian counter-terrorism unit fund
 ### [Malaysia's police force is debated following the fatal shooting of a 15-year-old boy. ](/news/2010/09/12/malaysia-s-police-force-is-debated-following-the-fatal-shooting-of-a-15-year-old-boy.md)
 Death of 15-year-old boy sparks debate over police efforts to combat crime.
 
-##### Russian President
+##### President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
-_Context: Dmitry Medvedev, Russia, Russian President, state police_
+_Context: Dmitry Medvedev, President, Russia, state police_
 
 ##### Mexican marines
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)

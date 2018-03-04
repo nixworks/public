@@ -11,7 +11,7 @@ BOGOTA, Colombia (AP) — As peace talks in Colombia advanced over the past year
 ### [The U.S. Supreme Court declines to rehear President Barack Obama's 2014 plan (Deferred Action for Parents of Americans) to spare from deportation millions of immigrants in the country illegally, a case in which the justices split 4&ndash;4 in June. The justices' June 23 decision ("United States v. Texas") is final. ](/news/2016/10/3/the-u-s-supreme-court-declines-to-rehear-president-barack-obama-s-2014-plan-deferred-action-for-parents-of-americans-to-spare-from-deport.md)
 _Context: Barack Obama, Deferred Action for Parents of Americans, Supreme Court of the United States, United States v. Texas_
 
-##### Russia and weapons of mass destruction
+##### Nuclear weapons
 ### [Russian President Vladimir Putin suspends the 2000 treaty with the United States on cleaning up weapons-grade plutonium (Plutonium Management and Disposition Agreement) {{ru icon}}. ](/news/2016/10/3/russian-president-vladimir-putin-suspends-the-2000-treaty-with-the-united-states-on-cleaning-up-weapons-grade-plutonium-plutonium-managemen.md)
 Russian President Vladimir Putin on Monday suspended a treaty with Washington on cleaning up weapons-grade plutonium, signaling he is willing to use nuclear disarmament as a new bargaining chip in disputes with the United States over Ukraine and Syria.
 

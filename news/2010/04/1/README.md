@@ -47,7 +47,7 @@ Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at t
 ### [ Missing four-year-old Paulette Gebara Farah, whose disappearance from her home in Huixquilucan, Edomex, achieved major publicity in Mexico, is found dead under a mattress in her bedroom. ](/news/2010/04/1/missing-four-year-old-paulette-gebara-farah-whose-disappearance-from-her-home-in-huixquilucan-edomex-achieved-major-publicity-in-mexico.md)
 A disabled four-year-old girl whose disappearance last week sparked an outpouring of sympathy across Mexico was found dead in her own bedroom.
 
-##### Russian President
+##### President
 ### [ President of Russia Dmitry Medvedev pays an unexpected visit to Dagestan, the day after the deaths of 12 people occur there in a double suicide attack. ](/news/2010/04/1/president-of-russia-dmitry-medvedev-pays-an-unexpected-visit-to-dagestan-the-day-after-the-deaths-of-12-people-occur-there-in-a-double-sui.md)
 President Dmitry Medvedev on Thursday urged tough anti-terror measures as he made a surprise visit to the North Caucasus region hit by a major suicide attack and linked to the Moscow bombings.
 

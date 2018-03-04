@@ -17,7 +17,7 @@ _Context: Oro Province, Papua New Guinea, cyclone Guba, flooding_
 
 ##### Israel
 ### [ Israel releases 450 Palestinian prisoners ahead of the 2007 Mideast peace conference with the Palestinian Authority. ](/news/2007/11/19/israel-releases-450-palestinian-prisoners-ahead-of-the-2007-mideast-peace-conference-with-the-palestinian-authority.md)
-_Context: 2007 Mideast peace conference, Israel, Palestine, Palestinian Authority, prison_
+_Context: 2007 Mideast peace conference, Israel, Palestinian, Palestinian Authority, prison_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills seven people in the Nimruz Province of Afghanistan, including the son of governor Ghulam Dastageer. ](/news/2007/11/19/a-suicide-bomber-kills-seven-people-in-the-nimruz-province-of-afghanistan-including-the-son-of-governor-ghulam-dastageer.md)

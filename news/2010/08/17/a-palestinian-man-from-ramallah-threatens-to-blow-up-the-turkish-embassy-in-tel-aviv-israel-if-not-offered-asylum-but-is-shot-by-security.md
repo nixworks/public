@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/17/a-palestinian-man-from-ramallah-threatens-to-bl
 
 ### [2010-08-17](/news/2010/08/17/index.md)
 
-##### Palestine
+##### Palestinian
 # A Palestinian man from Ramallah threatens to blow up the Turkish embassy in Tel Aviv, Israel if not offered asylum, but is shot by security staff. 
 
 Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
@@ -22,6 +22,6 @@ Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 
 1. [Turkish construction workers employed in Israel protest in front of the Turkish Embassy in Tel Aviv over fears they may lose their jobs. ](/news/2010/12/28/turkish-construction-workers-employed-in-israel-protest-in-front-of-the-turkish-embassy-in-tel-aviv-over-fears-they-may-lose-their-jobs.md) _Context: Israel, Tel Aviv, Turkish_
 2. [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md) _Context: Israel, Tel Aviv, Turkish_
-3. [The Palestinian cabinet moves its weekly meeting from Ramallah to Hebron in a symbolic protest at the decision by Israel to add Hebron's Cave of the Patriarchs and Rachel's Tomb in Bethlehem to its list of national heritage sites. ](/news/2010/03/1/the-palestinian-cabinet-moves-its-weekly-meeting-from-ramallah-to-hebron-in-a-symbolic-protest-at-the-decision-by-israel-to-add-hebron-s-cav.md) _Context: Israel, Palestine, Ramallah_
-4. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel, Palestine_
-5. [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md) _Context: Israel, Palestine_
+3. [The Palestinian cabinet moves its weekly meeting from Ramallah to Hebron in a symbolic protest at the decision by Israel to add Hebron's Cave of the Patriarchs and Rachel's Tomb in Bethlehem to its list of national heritage sites. ](/news/2010/03/1/the-palestinian-cabinet-moves-its-weekly-meeting-from-ramallah-to-hebron-in-a-symbolic-protest-at-the-decision-by-israel-to-add-hebron-s-cav.md) _Context: Israel, Palestinian, Ramallah_
+4. [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md) _Context: Israel, Palestinian_
+5. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel, Palestinian_

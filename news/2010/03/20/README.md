@@ -43,7 +43,7 @@ _Context: Prime Minister of Russia, Russia, Vladimir Putin_
 ### [Unidentified gunmen assassinate Sheikh Daud Ali Hasan, a senior commander of the Al-Shabab militant group in the southern city of Kismayo, Somalia. ](/news/2010/03/20/unidentified-gunmen-assassinate-sheikh-daud-ali-hasan-a-senior-commander-of-the-al-shabab-militant-group-in-the-southern-city-of-kismayo-s.md)
 A senior official of Somali insurgent group al Shabaab was shot dead on Friday in a rare assassination in the southern port of Kismayu, which is tightly controlled by the al Qaeda-linked rebels.
 
-##### Palestine
+##### Palestinian
 ### [A Palestinian teenager is killed, and another wounded by Israeli Security Forces. According to Israeli authorities, a mob of Palestinians were holding a "violent, illegal riot", and were approaching an Israeli settlement in a "threatening matter", and were dispersed by tear gas and rubber bullets. Israel promises an investigation into the incident. ](/news/2010/03/20/a-palestinian-teenager-is-killed-and-another-wounded-by-israeli-security-forces-according-to-israeli-authorities-a-mob-of-palestinians-we.md)
 Ahead of AIPAC meeting, US Congress leaders express &quot;deep concern&quot; over flap.
 

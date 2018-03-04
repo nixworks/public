@@ -19,7 +19,7 @@ Seattle Mariners outfielder Greg Halman was stabbed to death early Monday and hi
 ### [The trial begins of the three most senior surviving members of Cambodia's Khmer Rouge regime, on charges of genocide and crimes against humanity. ](/news/2011/11/21/the-trial-begins-of-the-three-most-senior-surviving-members-of-cambodia-s-khmer-rouge-regime-on-charges-of-genocide-and-crimes-against-huma.md)
 _Context: Cambodia, Khmer Rouge, crimes against humanity, genocide_
 
-##### Russian President
+##### President
 ### [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md)
 NATO would have expanded by now to admit ex-Soviet republics if Russia had not invaded Georgia in 2008 to defend a rebel region, Russian President Dmitry Medvedev said on Monday.
 

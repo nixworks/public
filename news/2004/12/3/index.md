@@ -17,7 +17,7 @@ _Context: Kosovo, Kosovo Liberation Army, Ramush Haradinaj, war crime_
 
 ##### Yukos
 ### [ Yukos loses an appeal to halt the auctioning off of its main production unit. President of Russia Vladimir Putin, while on his three-day visit to India, says Indian firms are welcomed to bid. ](/news/2004/12/3/yukos-loses-an-appeal-to-halt-the-auctioning-off-of-its-main-production-unit-president-of-russia-vladimir-putin-while-on-his-three-day-vi.md)
-_Context: Russian President, Vladimir Putin, Yukos_
+_Context: President, Vladimir Putin, Yukos_
 
 ## [Previous Day...](/news/2004/12/2/index.md)
 

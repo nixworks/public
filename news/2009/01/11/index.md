@@ -13,7 +13,7 @@ _Context: Europe, European Union, Russia, gas, restarts_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev criticizes Prime Minister Vladimir Putin's government for not acting quickly enough to deal with the current financial crisis. ](/news/2009/01/11/russian-president-dmitry-medvedev-criticizes-prime-minister-vladimir-putin-s-government-for-not-acting-quickly-enough-to-deal-with-the-curr.md)
-_Context: Dmitry Medvedev, Prime Minister of Russia, Russia, Russian President, Russian government, Vladimir Putin, current economic crisis_
+_Context: Dmitry Medvedev, President, Prime Minister of Russia, Russia, Russian government, Vladimir Putin, current economic crisis_
 
 ## [Previous Day...](/news/2009/01/10/index.md)
 

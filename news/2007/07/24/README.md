@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/24/index.html)  [JSON](2007/07/24/index.json)  [XML](200
 
 ##### Bulgaria
 ### [ The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. ](/news/2007/07/24/the-5-bulgarian-nurses-and-the-palestinian-assistant-imprisoned-in-libya-for-8-years-and-that-had-been-sentenced-to-death-in-several-tria.md)
-_Context: AIDS, Bulgaria, Ccilia, HIV trial in Libya, Libya, Palestine, Sofia_
+_Context: AIDS, Bulgaria, Ccilia, HIV trial in Libya, Libya, Palestinian, Sofia_
 
 ##### Sulawesi island
 ### [ Dozens of people are missing in Sulawesi, Indonesia as a result of recent floods and landslides. ](/news/2007/07/24/dozens-of-people-are-missing-in-sulawesi-indonesia-as-a-result-of-recent-floods-and-landslides.md)

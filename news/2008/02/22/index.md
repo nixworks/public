@@ -29,7 +29,7 @@ _Context: Korean War, Medal of Honor, Sioux, U.S. Army National Guard, White Hou
 
 ##### Russia
 ### [ Russian President Vladimir Putin describes the recognition of Kosovo's unilaterally declared independence by several major world powers as "a terrible precedent," ... that "breaks up the entire system of international relations," ... which has taken "centuries to evolve." "And undoubtedly, it may entail a whole chain of unpredictable consequences to other regions in the world" and that will come back to hit the West "in the face." ](/news/2008/02/22/russian-president-vladimir-putin-describes-the-recognition-of-kosovo-s-unilaterally-declared-independence-by-several-major-world-powers-as.md)
-_Context: Kosovo, Russia, Russian President, Vladimir Putin_
+_Context: Kosovo, President, Russia, Vladimir Putin_
 
 ## [Previous Day...](/news/2008/02/21/index.md)
 

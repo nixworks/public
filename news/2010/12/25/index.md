@@ -33,7 +33,7 @@ Israel will apologize for using British passports in the assassination of a Hama
 
 ##### Ecuador
 ### [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md)
-_Context: Ecuador, Palestine, officially recognises_
+_Context: Ecuador, Palestinian, officially recognises_
 
 ##### China
 ### [Three fishermen from the People's Republic of China are released from South Korean custody after their vessel collided with a Coast Guard vessel last week. ](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.md)

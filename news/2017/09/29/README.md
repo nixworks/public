@@ -21,7 +21,7 @@ _Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election,
 
 ##### Cuba-United States relations
 ### [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md)
-_Context: Cuba-United States relations, FBI, State Department, personnel, sonic attacks_
+_Context: Cuba-United States relations, FBI, State Department, embassy in Havana, sonic attacks_
 
 ##### Iraqi Kurdistan independence referendum, 2017
 ### [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md)

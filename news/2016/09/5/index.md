@@ -29,7 +29,7 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 
 ##### 2016 G20 Hangzhou summit
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: 2016 G20 Hangzhou summit, Barack Obama, Russian President, Syrian civil war, U.S. President, Vladimir Putin_
+_Context: 2016 G20 Hangzhou summit, Barack Obama, President, Syrian civil war, U.S. President, Vladimir Putin_
 
 ##### 2015-16 Zika virus epidemic
 ### [The cases of people infected with the Zika virus in Singapore jumps to 240+. ](/news/2016/09/5/the-cases-of-people-infected-with-the-zika-virus-in-singapore-jumps-to-240.md)

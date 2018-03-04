@@ -3,7 +3,7 @@ Formats: [HTML](2016/03/3/index.html)  [JSON](2016/03/3/index.json)  [XML](2016/
 
 ## [2016-03-3](/news/2016/03/3/index.md)
 
-##### Hubble Space Telescope
+##### Hubble
 ### [Astronomers use the Hubble Space Telescope to discover GN-z11, the remotest galaxy yet discovered. ](/news/2016/03/3/astronomers-use-the-hubble-space-telescope-to-discover-gn-z11-the-remotest-galaxy-yet-discovered.md)
 Astronomers discover a galaxy that formed 400 million years after the Big Bang explosion — the most distant galaxy found to date.
 

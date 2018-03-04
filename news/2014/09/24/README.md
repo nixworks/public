@@ -19,7 +19,7 @@ A Virginia man is arrested in the abduction of a British-born student who disapp
 
 ##### Japan
 ### [Japan imposes additional sanctions on Russia due to the Ukraine conflict and a visit by an aide of the President of Russia Vladimir Putin to a contested island off the coast off northern Japan. ](/news/2014/09/24/japan-imposes-additional-sanctions-on-russia-due-to-the-ukraine-conflict-and-a-visit-by-an-aide-of-the-president-of-russia-vladimir-putin-to.md)
-_Context: Japan, Russia, Russian President, Ukraine, Vladimir Putin_
+_Context: Japan, President, Russia, Ukraine, Vladimir Putin_
 
 ##### Flash flood
 ### [At least 55 people are dead as a result of flash floods and mudslides in northeast India following days of heavy rain. ](/news/2014/09/24/at-least-55-people-are-dead-as-a-result-of-flash-floods-and-mudslides-in-northeast-india-following-days-of-heavy-rain.md)

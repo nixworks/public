@@ -69,7 +69,7 @@ The man suspected of gunning down four police officers in a coffee shop is shot 
 
 ##### Israel
 ### [ Israel announces it is likely to release 980 Palestinian prisoners in exchange for captured soldier Gilad Shalit. ](/news/2009/11/29/israel-announces-it-is-likely-to-release-980-palestinian-prisoners-in-exchange-for-captured-soldier-gilad-shalit.md)
-_Context: Gilad Shalit, Israel, Palestine_
+_Context: Gilad Shalit, Israel, Palestinian_
 
 ##### Commonwealth of Nations
 ### [ The Commonwealth of Nations urges the Fijian government to restore democracy in the country. ](/news/2009/11/29/the-commonwealth-of-nations-urges-the-fijian-government-to-restore-democracy-in-the-country.md)

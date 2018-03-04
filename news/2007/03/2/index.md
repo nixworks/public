@@ -33,7 +33,7 @@ The Secretary of the Army, Francis J. Harvey, resigned today amid the fallout ov
 
 ##### Parliament
 ### [ The Parliament of Chechnya appoints Ramzan Kadyrov as the President of Chechnya after his nomination by the President of Russia Vladimir Putin. ](/news/2007/03/2/the-parliament-of-chechnya-appoints-ramzan-kadyrov-as-the-president-of-chechnya-after-his-nomination-by-the-president-of-russia-vladimir-pu.md)
-_Context: Parliament, President of Chechnya, Ramzan Kadyrov, Russian President, Vladimir Putin_
+_Context: Parliament, President, President of Chechnya, Ramzan Kadyrov, Vladimir Putin_
 
 ##### New York Stock Exchange
 ### [ Prices at the New York Stock Exchange and Toronto Stock Exchange continue to drop after a massive sell-off earlier in the week. ](/news/2007/03/2/prices-at-the-new-york-stock-exchange-and-toronto-stock-exchange-continue-to-drop-after-a-massive-sell-off-earlier-in-the-week.md)

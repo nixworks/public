@@ -45,7 +45,7 @@ A British hostage has been freed after more than two-and-a-half years in captivi
 ### [ Two people are found dead following three separate avalanches in Scotland, while a third person who was rescued dies later in hospital. ](/news/2009/12/30/two-people-are-found-dead-following-three-separate-avalanches-in-scotland-while-a-third-person-who-was-rescued-dies-later-in-hospital.md)
 _Context: Scotland_
 
-##### Allende
+##### Veracruz
 ### [ Hundreds of protesters gather outside Allende prison in Veracruz, Mexico, objecting to the removal of inmates to allow U.S. film director Mel Gibson to shoot a controversial movie. ](/news/2009/12/30/hundreds-of-protesters-gather-outside-allende-prison-in-veracruz-mexico-objecting-to-the-removal-of-inmates-to-allow-u-s-film-director-m.md)
 Hundreds of relatives of prisoners in a Mexican jail have protested the expected transfer of inmates to make way for a film shoot with US-Australian actor and director Mel Gibson next year.
 

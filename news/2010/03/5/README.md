@@ -15,9 +15,9 @@ _Context: Northwestern Pakistan, Pakistan army, Peshawar, Taliban_
 ### [At least 16 people are wounded in two grenade attacks in Kigali, one near the city's genocide memorial. A third explosion elsewhere kills at least one person. ](/news/2010/03/5/at-least-16-people-are-wounded-in-two-grenade-attacks-in-kigali-one-near-the-city-s-genocide-memorial-a-third-explosion-elsewhere-kills-at.md)
 _Context: Kigali, genocide_
 
-##### Palestine
+##### Palestinian
 ### [15 Israeli police are "lightly hurt" and several dozen Palestinians are injured and three are arrested after Friday prayers on the Temple Mount and a recent Israeli decision to include two West Bank shrines on a list of national heritage sites.](/news/2010/03/5/15-israeli-police-are-lightly-hurt-and-several-dozen-palestinians-are-injured-and-three-are-arrested-after-friday-prayers-on-the-temple-mo.md)
-_Context: Palestine, Temple Mount_
+_Context: Palestinian, Temple Mount_
 
 ##### Fiji
 ### [Fiji imprisons eight men for an assassination attempt on Commodore Frank Bainimarama in 2007. ](/news/2010/03/5/fiji-imprisons-eight-men-for-an-assassination-attempt-on-commodore-frank-bainimarama-in-2007.md)

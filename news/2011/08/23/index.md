@@ -25,7 +25,7 @@ A judge’s dismissal of the sexual assault case against Dominique Strauss-Kahn 
 
 ##### Thailand
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: Palestine, Thailand, United Nations General Assembly_
+_Context: Palestinian, Thailand, United Nations General Assembly_
 
 ##### Magnitude 5.8 earthquake
 ### [A magnitude 5.8 earthquake strikes near Mineral, Virginia; a nearby nuclear reactor is automatically shutdown due to the quake. This is the most powerful earthquake to hit Virginia since 1897. ](/news/2011/08/23/a-magnitude-5-8-earthquake-strikes-near-mineral-virginia-a-nearby-nuclear-reactor-is-automatically-shutdown-due-to-the-quake-this-is-the.md)

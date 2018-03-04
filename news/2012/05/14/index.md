@@ -19,7 +19,7 @@ Talks on forming a new Greek government end without a breakthrough but will resu
 ### [Tony Blair's former Director of Communications, Alastair Campbell, tells the Leveson Inquiry that there was no "express deal" between Blair and News Corporation CEO Rupert Murdoch in the run-up to the 1997 UK general election. ](/news/2012/05/14/tony-blair-s-former-director-of-communications-alastair-campbell-tells-the-leveson-inquiry-that-there-was-no-express-deal-between-blair.md)
 There was no &quot;express deal&quot; between Labour leader Tony Blair and Rupert Murdoch before the 1997 election, Alastair Campbell tells the Leveson Inquiry.
 
-##### Palestine
+##### Palestinian
 ### [Over 1,500 Palestinian prisoners in Israeli prisons end their mass hunger strike after reaching an agreement with Israeli authorities in an Egyptian-mediated deal. ](/news/2012/05/14/over-1-500-palestinian-prisoners-in-israeli-prisons-end-their-mass-hunger-strike-after-reaching-an-agreement-with-israeli-authorities-in-an.md)
 Palestinian inmates in Israeli jails have agreed to end their mass hunger strike under a deal with Israel to improve prison conditions.
 

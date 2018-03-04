@@ -41,7 +41,7 @@ _Context: Arab Spring, President, Robert Mugabe, Zimbabwe_
 
 ##### United Kingdom
 ### [Britain upgrades its relation with Palestine to a mission, the second-highest rank.](/news/2011/03/7/britain-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank.md)
-_Context: Palestine, United Kingdom, its relation_
+_Context: Palestinian, United Kingdom, its relation_
 
 ##### Robert Gates
 ### [Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. ](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.md)

@@ -41,11 +41,11 @@ _Context: British government, Israel, MP, military equipment, occupied territori
 
 ##### Israeli Army
 ### [The Israel Defense Forces (IDF) fire tear gas at around 200 Palestinians and their allies protesting outside the gates of Ofer Prison at the recent detainment of colleagues. ](/news/2010/03/31/the-israel-defense-forces-idf-fire-tear-gas-at-around-200-palestinians-and-their-allies-protesting-outside-the-gates-of-ofer-prison-at-the.md)
-_Context: Israeli Army, Ofer Prison, Palestine_
+_Context: Israeli Army, Ofer Prison, Palestinian_
 
 ##### Yemen
 ### [Yemeni Minister of Justice Ghazi al-Aghbari and Palestinian ambassador to Yemen Bassem Al-Agha hold discussions on the issue of bilateral judicial cooperation. ](/news/2010/03/31/yemeni-minister-of-justice-ghazi-al-aghbari-and-palestinian-ambassador-to-yemen-bassem-al-agha-hold-discussions-on-the-issue-of-bilateral-ju.md)
-_Context: Bassem Al-Agha, Ghazi al-Aghbari, Palestine, Yemen_
+_Context: Bassem Al-Agha, Ghazi al-Aghbari, Palestinian, Yemen_
 
 ##### Algeria
 ### [Algerian authorities arrest an Israeli spy found with a false Spanish passport under the 35-year-old pseudonym Alberto Vagilo. This was initially reported by some sources as the abduction of a Spanish citizen by an al-Qaeda-linked group. ](/news/2010/03/31/algerian-authorities-arrest-an-israeli-spy-found-with-a-false-spanish-passport-under-the-35-year-old-pseudonym-alberto-vagilo-this-was-init.md)

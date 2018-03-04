@@ -31,7 +31,7 @@ A top Indonesian celebrity is charged over sex tapes said to feature him that ap
 ### [Five people are killed and one is seriously wounded after an attack at a wedding party in Ghrab hamlet in Algeria's Tebessa Province. ](/news/2010/06/25/five-people-are-killed-and-one-is-seriously-wounded-after-an-attack-at-a-wedding-party-in-ghrab-hamlet-in-algeria-s-ta-c-bessa-province.md)
 _Context: Algeria, Ghrab, Tebessa Province_
 
-##### Russian President
+##### President
 ### [President of Russia Dmitry Medvedev and Prime Minister of Britain David Cameron meet and agree to work to renew ties stained by the refusal of both men to hand over men the other man wants. ](/news/2010/06/25/president-of-russia-dmitry-medvedev-and-prime-minister-of-britain-david-cameron-meet-and-agree-to-work-to-renew-ties-stained-by-the-refusal.md)
 Russia and Britain have agreed to renew ties recently strained by suspicions of murder and spying.
 

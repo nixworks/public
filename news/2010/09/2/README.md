@@ -55,7 +55,7 @@ A Pakistani diplomat calls for a probe into allegations that rich landowners div
 ### [The Mexican Army claims to have killed 25 drug cartel gunmen in a clash in Tamaulipas state near the United States border. ](/news/2010/09/2/the-mexican-army-claims-to-have-killed-25-drug-cartel-gunmen-in-a-clash-in-tamaulipas-state-near-the-united-states-border.md)
 _Context: Mexican Army, Tamaulipas, United States, drug cartel_
 
-##### Palestine
+##### Palestinian
 ### [Palestinians stone an Israeli car travelling through the West Bank resulting in a 12-year-old being injured. ](/news/2010/09/2/palestinians-stone-an-israeli-car-travelling-through-the-west-bank-resulting-in-a-12-year-old-being-injured.md)
 Twelve-year-old riding in car driving through Tapuach Junction suffers mild injuries after vehicle is stoned 
 

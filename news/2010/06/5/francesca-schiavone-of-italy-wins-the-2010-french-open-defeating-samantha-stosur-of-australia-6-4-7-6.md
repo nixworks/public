@@ -16,7 +16,7 @@ time grand slam winner since 1969
 
 ### Related:
 
-1. [A suicide car bomber kills one person and injures 14 others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-14-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Australia_
+1. [A suicide car bomber kills one person and injures fourteen others near the Australian embassy in Kabul, Afghanistan. ](/news/2018/03/2/a-suicide-car-bomber-kills-one-person-and-injures-fourteen-others-near-the-australian-embassy-in-kabul-afghanistan.md) _Context: Australia_
 2. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
 3. [U.S. President Donald Trump meets with Australian Prime Minister Malcolm Turnbull in the White House. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/u-s-president-donald-trump-meets-with-australian-prime-minister-malcolm-turnbull-in-the-white-house-trump-indicated-that-there-would-be-ne.md) _Context: Australia_
 4. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
