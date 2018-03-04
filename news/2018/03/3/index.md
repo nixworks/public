@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
 
 ##### White House
-### [A man shoots himself in front of the White House. ](/news/2018/03/3/a-man-shoots-himself-in-front-of-the-white-house.md)
+### [A man shoots and injures himself in front of the White House. ](/news/2018/03/3/a-man-shoots-and-injures-himself-in-front-of-the-white-house.md)
 The US Secret Service says a man shot himself outside the north fence of the building.
 
 ##### Protectionism in the United States
@@ -16,11 +16,11 @@ The US Secret Service says a man shot himself outside the north fence of the bui
 In a Twitter post, President Trump threatened to hit car exports from the European Union with a retaliatory tax.
 
 ##### Turkish military operation in Afrin
-### [According to the London-based SOHR, at least 36 pro-Syrian government troops are killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-london-based-sohr-at-least-36-pro-syrian-government-troops-are-killed-in-a-turkish-airstrike-in-afrin-syria.md)
+### [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md)
 The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
 
 ##### Israeli-Palestinian conflict
-### [Gazan officials say that Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-that-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
+### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
 An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
 
 ## [Previous Day...](/news/2018/03/2/index.md)

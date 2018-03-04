@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/24/index.html)  [JSON](2018/02/24/index.json)  [XML](201
 ## [2018-02-24](/news/2018/02/24/index.md)
 
 ##### Nunes memo
-### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence is released, countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox TV. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-is-released-countering-the-republican-mem.md)
+### [A memo written by Democrats on the United States House Permanent Select Committee on Intelligence is released, countering the Republican memo released on February 2. The memo is "a nothing," President Donald Trump told Fox News. ](/news/2018/02/24/a-memo-written-by-democrats-on-the-united-states-house-permanent-select-committee-on-intelligence-is-released-countering-the-republican-mem.md)
 The House Intelligence Committee released a rebuttal by House Democrats to a Republican memo alleging bias and misconduct by the FBI and Justice Department early in their investigation of Russian election interference.
 
 ##### Stoneman Douglas High School shooting
