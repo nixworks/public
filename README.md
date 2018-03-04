@@ -1,19 +1,31 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/3/index.md)
+## [News](/news/2018/03/4/index.md)
+
+##### China-United States relations
+### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
+_Context: China, China-United States relations, Chinese President, Donald Trump, U.S. President, Xi Jinping_
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/3/index.md)
 
 ##### "Polish death camp" controversy
 ### [Hours after the Polish so-called Holocaust Law takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-takes-effect-the-polish-league-against-defamation-sues-argentinian-newspaper-pa-gina-12-w.md)
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
 
-##### White House
-### [A man shoots and injures himself in front of the White House. ](/news/2018/03/3/a-man-shoots-and-injures-himself-in-front-of-the-white-house.md)
+##### Suicide in the United States
+### [A man shoots and kills himself near the northern fence of the White House. ](/news/2018/03/3/a-man-shoots-and-kills-himself-near-the-northern-fence-of-the-white-house.md)
 The US Secret Service says a man shot himself outside the north fence of the building.
 
 ##### Protectionism in the United States
-### [In a message on Twitter, U.S. President Donald Trump says the U.S. will "simply" apply a tax on cars made in the European Union if the E.U. "further" increase tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-simply-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u.md)
-In a Twitter post, President Trump threatened to hit car exports from the European Union with a retaliatory tax.
+### [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. further increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further-i.md)
+The US president steps up the war of words on trade, condemning the &quot;big trade imbalance&quot;.
 
 ##### Turkish military operation in Afrin
 ### [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md)
@@ -23,17 +35,13 @@ The targeted pro-Syrian government troops had entered the region to back Kurdish
 ### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip.md)
 An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/2/index.md)
+## [Day Before Yesterday](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [Postall ballots of the SPD party member vote on the 2018 coalition agreement of Germany are due. The vote will determine if the SPD is allowed to coalitionize with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-are-due-the-vote-will-determine-if-the-spd-is-allow.md)
-_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+### [Postall ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with.md)
+_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
 ##### Cellular network standards
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
@@ -89,39 +97,7 @@ The French embassy and a military HQ are among the apparent targets in the capit
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/1/index.md)
-
-##### Discoveries of exoplanets
-### [NASA astronomers use the Hubble and Spitzer space telescopes in research implying that "hot Saturn" (high surface-atmosphere temperatures and gas giant-mass) exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. ](/news/2018/03/1/nasa-astronomers-use-the-hubble-and-spitzer-space-telescopes-in-research-implying-that-hot-saturn-high-surface-atmosphere-temperatures-an.md)
-Scientists used NASA&#039;s Hubble and Spitzer space telescopes to find water &quot;fingerprints&quot; in the atmosphere of a hot, bloated, Saturn-mass exoplanet some 700 light-years away.
-
-##### 2018 opening of regular sessions of the National Congress of Argentina
-### [Argentine President Mauricio Macri delivers a speech in the Congress to start the regular sessions for 2018. ](/news/2018/03/1/argentine-president-mauricio-macri-delivers-a-speech-in-the-congress-to-start-the-regular-sessions-for-2018.md)
-Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.
-
-##### Russian interference in the 2016 United States elections
-### [A alleged Senate Intelligence Committee report states that a House Intelligence Committee Republican was behind the leak to Fox News of private text messages between a Russian-connected lawyer and Senator Mark Warner, the committee vice-chairman, concerning an attempt to contact Christopher Steele, author of the Trump-Russia dossier. Committee chairman Richard Burr later denied the leak report. ](/news/2018/03/1/a-alleged-senate-intelligence-committee-report-states-that-a-house-intelligence-committee-republican-was-behind-the-leak-to-fox-news-of-priv.md)
-In an extraordinary confrontation, the bipartisan leaders of the Senate Intelligence Committee told the House speaker that his troops had leaked a senator’s texts with a Russia-connected lawyer.
-
-##### Politics of Iraq
-### [The Parliament of Iraq votes to oblige the federal government to set a schedule for the withdrawal of foreign troops. ](/news/2018/03/1/the-parliament-of-iraq-votes-to-oblige-the-federal-government-to-set-a-schedule-for-the-withdrawal-of-foreign-troops.md)
-_Context: Parliament of Iraq, Politics of Iraq, federal government, foreign troops_
-
-##### Terrorism in Turkey
-### [Dilek Ocalan, MP for the pro-Kurdish HDP party, is sentenced to two and a half years in jail on charges of terror propaganda related to her participation in the 2016 funeral of a PKK fighter. Nine HDP MPs are currently in jail. ](/news/2018/03/1/dilek-acalan-mp-for-the-pro-kurdish-hdp-party-is-sentenced-to-two-and-a-half-years-in-jail-on-charges-of-terror-propaganda-related-to-her.md)
-_Context: Dilek Ocalan, HDP, Kurdish, MP, PKK, Terrorism in Turkey_
-
-##### Crime in Norway
-### [Police in Oslo, Norway, say that the FBI is assisting in the investigation into two forged nominations of Donald Trump for the Nobel Peace Prize. The impersonator allegedly used the same stolen identity twice. ](/news/2018/03/1/police-in-oslo-norway-say-that-the-fbi-is-assisting-in-the-investigation-into-two-forged-nominations-of-donald-trump-for-the-nobel-peace-p.md)
-Fakes submitted both this year and last year, head of Norwegian Nobel Institute says
-
-##### Presidency of Donald Trump
-### [U.S. President Donald Trump announces plans to impose tariffs on steel and aluminium imports. ](/news/2018/03/1/u-s-president-donald-trump-announces-plans-to-impose-tariffs-on-steel-and-aluminium-imports.md)
-Plans to impose tariffs on steel and aluminium imports bring an angry international response.
-
----
-
-## [Previous Day...](/news/2018/02/28/index.md)
+## [Previous Day...](/news/2018/03/1/index.md)
 
 ---
 

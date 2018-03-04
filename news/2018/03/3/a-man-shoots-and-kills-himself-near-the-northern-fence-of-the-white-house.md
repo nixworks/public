@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/3/a-man-shoots-and-kills-himself-near-the-northern
 
 ### [2018-03-3](/news/2018/03/3/index.md)
 
-##### White House
+##### Suicide in the United States
 # A man shoots and kills himself near the northern fence of the White House. 
 
 The US Secret Service says a man shot himself outside the north fence of the building.

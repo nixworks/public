@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ## [2018-03-2](/news/2018/03/2/index.md)
 
 ##### Politics of Germany
-### [Postall ballots of the SPD party member vote on the 2018 coalition agreement of Germany are due. The vote will determine if the SPD is allowed to coalitionize with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-spd-party-member-vote-on-the-2018-coalition-agreement-of-germany-are-due-the-vote-will-determine-if-the-spd-is-allow.md)
-_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany_
+### [Postall ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postall-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with.md)
+_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
 ##### Cellular network standards
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
