@@ -15,5 +15,9 @@ Populist and anti-immigrant parties could make major gains in an unpredictable c
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
 _Context: China, Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping_
 
+##### China-United States relations
+### [A senior Chinese diplomat says that China does not want trade war with the United States. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-trade-war-with-the-united-states.md)
+China does not want a trade war with the United States but will defend its interests, a senior Chinese diplomat said on Sunday.
+
 ## [Previous Day...](/news/2018/03/3/index.md)
 
