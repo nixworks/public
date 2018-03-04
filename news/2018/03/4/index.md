@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/4/index.html)  [JSON](2018/03/4/index.json)  [XML](2018/
 ## [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 Spanish constitutional crisis
-### [In Barcelona, 15,000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-areas.md)
-_Context: 2017-18 Spanish constitutional crisis, Barcelona, Tabarnia, autononous community, declaration of independence on October 27, independence_
+### [In Barcelona, 15,000 demonstrators gather to support the mock region of Tabarnia, a hypothetical area that includes the least independentist areas of Catalonia, as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-support-the-mock-region-of-tabarnia-a-hypothetical-area-that-includes-the-least-independentist.md)
+_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Tabarnia, declaration of independence on October 27_
 
 ##### Politics of Germany
 ### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)

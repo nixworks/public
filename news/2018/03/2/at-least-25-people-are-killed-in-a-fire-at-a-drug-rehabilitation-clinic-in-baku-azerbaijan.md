@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/at-least-25-people-are-killed-in-a-fire-at-a-dru
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### Baku
+##### 2018 Baku fire
 #  At least 25 people are killed in a fire at a drug-rehabilitation clinic in Baku, Azerbaijan. 
 
 

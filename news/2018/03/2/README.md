@@ -35,9 +35,9 @@ U.S. Secretary of State Rex Tillerson maintains his decision to reduce the diplo
 ### [Kremlin spokesman Dmitry Peskov denies White House spokeswoman Sarah Sanders' claim that Russia breached any international arms control pacts, after President Vladimir Putin's March 1 speech on nuclear weapons. ](/news/2018/03/2/kremlin-spokesman-dmitry-peskov-denies-white-house-spokeswoman-sarah-sanders-claim-that-russia-breached-any-international-arms-control-pact.md)
 The Kremlin on Friday rejected a U.S. allegation that Russia had been developing destabilizing weapons systems for over a decade in direct violations of its treaty obligations.
 
-##### Baku
+##### 2018 Baku fire
 ### [ At least 25 people are killed in a fire at a drug-rehabilitation clinic in Baku, Azerbaijan. ](/news/2018/03/2/at-least-25-people-are-killed-in-a-fire-at-a-drug-rehabilitation-clinic-in-baku-azerbaijan.md)
-_Context: Azerbaijan, Baku_
+_Context: 2018 Baku fire, Azerbaijan, Baku_
 
 ##### March 2018 nor'easter
 ### [A massive winter storm occurs in the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-occurs-in-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-fl.md)
