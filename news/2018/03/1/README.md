@@ -12,7 +12,7 @@ Scientists used NASA&#039;s Hubble and Spitzer space telescopes to find water &q
 Argentine President Mauricio Macri said he would propose an amnesty law for informal workers in a speech to Congress on Thursday, a sign his administration is scaling back a previously proposed labor reform that met fierce resistance from unions.
 
 ##### Russian interference in the 2016 United States elections
-### [A alleged Senate Intelligence Committee report states that a House Intelligence Committee Republican was behind the leak to Fox News of private text messages between a Russian-connected lawyer and Senator Mark Warner, the committee vice-chairman, concerning an attempt to contact Christopher Steele, author of the Trump-Russia dossier. Committee chairman Richard Burr later denied the leak report. ](/news/2018/03/1/a-alleged-senate-intelligence-committee-report-states-that-a-house-intelligence-committee-republican-was-behind-the-leak-to-fox-news-of-priv.md)
+### [An alleged Senate Intelligence Committee report states that a House Intelligence Committee Republican was behind the leak to Fox News of private text messages between a Russian-connected lawyer and Senator Mark Warner, the committee vice-chairman, concerning an attempt to contact Christopher Steele, author of the Trump-Russia dossier. Committee chairman Richard Burr later denied the leak report. ](/news/2018/03/1/an-alleged-senate-intelligence-committee-report-states-that-a-house-intelligence-committee-republican-was-behind-the-leak-to-fox-news-of-pri.md)
 In an extraordinary confrontation, the bipartisan leaders of the Senate Intelligence Committee told the House speaker that his troops had leaked a senator’s texts with a Russia-connected lawyer.
 
 ##### Politics of Iraq
