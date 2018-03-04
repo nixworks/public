@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/4/index.html)  [JSON](2018/03/4/index.json)  [XML](2018/
 ## [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 Spanish constitutional crisis
-### [In Barcelona, 15 thousand demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-thousand-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-a.md)
+### [In Barcelona, 15,000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-areas.md)
 _Context: 2017-18 Spanish constitutional crisis, Barcelona, Tabarnia, autononous community, declaration of independence on October 27, independence_
 
 ##### Politics of Germany
@@ -18,6 +18,14 @@ Populist and anti-immigrant parties could make major gains in an unpredictable c
 ##### Constitution of the United States of America
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
 _Context: Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
+
+##### North Korea-South Korea relations
+### [South Korea president Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korea-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
+_Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korea_
+
+##### North Korea-United States relations
+### [US President Donald Trump stated North Korea was seeking talks with the United States in efforts to denuclearization on the Korean Peninsula. ](/news/2018/03/4/us-president-donald-trump-stated-north-korea-was-seeking-talks-with-the-united-states-in-efforts-to-denuclearization-on-the-korean-peninsula.md)
+President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations
 ### [A senior Chinese diplomat says that China does not want a trade war with the United States. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states.md)

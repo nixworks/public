@@ -4,15 +4,19 @@ Formats: [HTML](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-defe
 ### [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 Spanish constitutional crisis
-# In Barcelona, 15.000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. 
+# In Barcelona, 15,000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. 
 
 
 
 
 ### Sources:
 
-1. [El País](https://elpais.com/ccaa/2018/03/04/catalunya/1520162880_273146.html)
-1. [Cover Image](https://ep00.epimg.net/ccaa/imagenes/2018/03/04/catalunya/1520162880_273146_1520162977_rrss_normal.jpg)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/spanish-unionist-rally-mocks-catalan-separatist-movement/2018/03/04/03564792-1faa-11e8-946c-9420060cb7bd_story.html?utm_term=.88cb452cc071)
+
+### Changes:
+
+1. [In Barcelona, 15 thousand demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-thousand-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-a.md) _2018-03-04 20:30:08 (First version)_
+1. [In Barcelona, 15,000 demonstrators gather to defend the autonomy of Tabarnia, a coastal region that includes the least independentist areas of the autononous community, as a way to oppose independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-defend-the-autonomy-of-tabarnia-a-coastal-region-that-includes-the-least-independentist-areas.md) _(Current version)_
 
 ### Related:
 
