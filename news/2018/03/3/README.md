@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 
 ## [2018-03-3](/news/2018/03/3/index.md)
 
+##### Murder of Jan Kuciak
+### [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md)
+Slain Slovak investigative journalist Jan Kuciak was laid to rest in his wedding suit on Saturday as police released seven Italians detained after they were named in his explosive report on alleged high-level corruption linked to Italy&#39;s notorious &#39;Ndrangheta mafia.
+
 ##### "Polish death camp" controversy
 ### [Hours after the Polish so-called Holocaust Law about discussing of historical facts takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-about-discussing-of-historical-facts-takes-effect-the-polish-league-against-defamation-sues.md)
 A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.

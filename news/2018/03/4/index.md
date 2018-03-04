@@ -11,9 +11,9 @@ A vote by Social Democrats ends five months of political deadlock - Angela Merke
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
-##### China-United States relations
+##### Constitution of the United States of America
 ### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-says.md)
-_Context: China, China-United States relations, Chinese President, Donald Trump, U.S. President, Xi Jinping_
+_Context: China, Chinese President, Constitution of the United States of America, Donald Trump, U.S. President, Xi Jinping_
 
 ## [Previous Day...](/news/2018/03/3/index.md)
 
