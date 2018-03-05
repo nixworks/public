@@ -60,11 +60,11 @@ China does not want a trade war with the United States but will defend its inter
 _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat, ready-to-eat, recall_
 
 ##### Online advertising
-### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel after being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel-after-being-contacted-by-cnn.md)
+### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel-many-of-the-brands-say-they-were-not.md)
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards
-### [The 90th Academy Awards ceremony takes place today, honoring the best films and filmmaking of 2017. "The Shape of Water" was the big winner with four awards, including Best Picture. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-today-honoring-the-best-films-and-filmmaking-of-2017-the-shape-of-water-was-the-big-winner.md)
+### [The 90th Academy Awards ceremony takes place, honoring the best films and filmmaking of 2017. "The Shape of Water" was the big winner with four awards, including Best Picture. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-honoring-the-best-films-and-filmmaking-of-2017-the-shape-of-water-was-the-big-winner-with-f.md)
 The winners of the 90th Academy Awards.
 
 ---
