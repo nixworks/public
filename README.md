@@ -4,12 +4,20 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/5/index.md)
 
 ##### Cyberethics
-### [Facebook apologizes after including a question in an user survey on the eventual acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-an-user-survey-on-the-eventual-acceptability-of-soliciting-sexual-pictures-from-minors-on.md)
+### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
-##### Politics of Italy
+##### Italian general election, 2018
 ### [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md)
 Italy entered a period of political instability after national elections boosted populists but failed to produce a winner with enough support to patch together a parliamentary majority.
+
+##### Egypt-Saudi Arabia relations
+### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
+_Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
+
+##### Tongo Tongo ambush
+### [ISIS releases purported footage of an October 2017 attack on American soldiers in Tongo Tongo, Niger. ](/news/2018/03/5/isis-releases-purported-footage-of-an-october-2017-attack-on-american-soldiers-in-tongo-tongo-niger.md)
+The video purports to show US soldiers being ambushed by IS-linked militants in Niger.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,11 +43,11 @@ Voters overwhelmingly oppose a proposal to scrap the annual Swiss Broadcasting C
 ### [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md)
 _Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spain, Spanish unionism, Tabarnia, declaration of independence on October 27_
 
-##### Politics of Germany
+##### SPD party member vote on the 2018 coalition agreement of Germany
 ### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)
 A vote by Social Democrats ends five months of political deadlock - Angela Merkel stays chancellor.
 
-##### General election
+##### Italian general election, 2018
 ### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
@@ -68,7 +76,7 @@ _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards
-### [The 90th Academy Awards ceremony takes place, honoring the best films and filmmaking of 2017. "The Shape of Water" was the big winner with four awards, including Best Picture. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-honoring-the-best-films-and-filmmaking-of-2017-the-shape-of-water-was-the-big-winner-with-f.md)
+### [The 90th Academy Awards ceremony takes place, honoring the Academy-selected best films and film-making of 2017. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-honoring-the-academy-selected-best-films-and-film-making-of-2017.md)
 The winners of the 90th Academy Awards.
 
 ---

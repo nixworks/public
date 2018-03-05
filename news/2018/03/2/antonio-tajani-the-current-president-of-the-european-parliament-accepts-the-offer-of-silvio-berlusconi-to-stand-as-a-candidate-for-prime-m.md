@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/antonio-tajani-the-current-president-of-the-euro
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### General election
+##### Italian general election, 2018
 # Antonio Tajani, the current President of the European Parliament, accepts the offer of Silvio Berlusconi to stand as a candidate for Prime Minister of Italy for Forza Italia. 
 
 

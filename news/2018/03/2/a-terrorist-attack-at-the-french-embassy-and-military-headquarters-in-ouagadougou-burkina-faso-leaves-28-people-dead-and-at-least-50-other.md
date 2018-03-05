@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-mil
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### 2018 Ouagadougou attack
+##### 2018 Ouagadougou attacks
 # A terrorist attack at the French embassy and military headquarters in Ouagadougou, Burkina Faso, leaves 28 people dead and at least 50 others injured. 
 
 The French embassy and a military HQ are among the apparent targets in the capital, Ouagadougou.

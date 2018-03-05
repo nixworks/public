@@ -11,9 +11,9 @@ _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
-##### General election
+##### Italian general election, 2018
 ### [Antonio Tajani, the current President of the European Parliament, accepts the offer of Silvio Berlusconi to stand as a candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-the-current-president-of-the-european-parliament-accepts-the-offer-of-silvio-berlusconi-to-stand-as-a-candidate-for-prime-m.md)
-_Context: Antonio Tajani, Forza Italia, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi, general election_
+_Context: Antonio Tajani, Forza Italia, Italian general election, 2018, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### Central Michigan University shooting
 ### [A student shoots his parents dead in a dorm at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/a-student-shoots-his-parents-dead-in-a-dorm-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md)
@@ -55,7 +55,7 @@ No one has claimed responsibility for the attack.
 ### [An attack on a village, part of the unrest between ethnic Lendu and Hema communities, leaves 49 people dead in the Ituri Province of DR Congo. ](/news/2018/03/2/an-attack-on-a-village-part-of-the-unrest-between-ethnic-lendu-and-hema-communities-leaves-49-people-dead-in-the-ituri-province-of-dr-cong.md)
 The latest killings were part of a cycle of unrest between the Hema and Lendu communities in the northeastern province, the government told AFP.
 
-##### 2018 Ouagadougou attack
+##### 2018 Ouagadougou attacks
 ### [A terrorist attack at the French embassy and military headquarters in Ouagadougou, Burkina Faso, leaves 28 people dead and at least 50 others injured. ](/news/2018/03/2/a-terrorist-attack-at-the-french-embassy-and-military-headquarters-in-ouagadougou-burkina-faso-leaves-28-people-dead-and-at-least-50-other.md)
 The French embassy and a military HQ are among the apparent targets in the capital, Ouagadougou.
 
