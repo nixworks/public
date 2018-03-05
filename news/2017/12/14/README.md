@@ -39,9 +39,9 @@ The death occurred Thursday as officials responded to what is now the fourth-big
 ### [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing six pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-six-pupils-on-the-bus.md)
 A train and a school bus collide in southern France, leaving at least four children dead, officials say.
 
-##### Repeal of net neutrality in the United States
+##### Net neutrality in the United States
 ### [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md)
-_Context: FCC's, Repeal of net neutrality in the United States, net neutrality_
+_Context: FCC's, Net neutrality in the United States, net neutrality_
 
 ##### Economy of Israel
 ### [Israeli company Teva Pharmaceutical, the world's largest generic drug manufacturer, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/israeli-company-teva-pharmaceutical-the-world-s-largest-generic-drug-manufacturer-is-restructuring-in-order-to-pay-off-debt-and-will-be-c.md)
