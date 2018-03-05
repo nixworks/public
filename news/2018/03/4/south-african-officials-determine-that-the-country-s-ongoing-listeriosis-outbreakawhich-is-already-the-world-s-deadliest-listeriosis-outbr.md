@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/4/south-african-officials-determine-that-the-count
 ### [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 South African listeriosis outbreak
-# South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated sausage meat. The Ministry of Health issues recalls of contaminated products. 
+# South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated processed meat from a Tiger Brands subsidiary. The Ministry of Health issues recalls of contaminated products. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/03/4/south-african-officials-determine-that-the-count
 ### Changes:
 
 1. [South African officials determine that the country's ongoing listeriosis outbreak, which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1000 more, was caused by contaminated sausage meat. The Health Ministry issues recalls of contaminated products. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreak-which-is-already-the-world-s-deadliest-listeriosis-outbre.md) _2018-03-05 04:02:44 (First version)_
-1. [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated sausage meat. The Ministry of Health issues recalls of contaminated products. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md) _(Current version)_
+1. [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated processed meat from a Tiger Brands subsidiary. The Ministry of Health issues recalls of contaminated products. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md) _(Current version)_
 
 ### Related:
 
