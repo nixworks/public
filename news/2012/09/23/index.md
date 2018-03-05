@@ -15,9 +15,9 @@ _Context: Bashar al-Assad, Damascus, National Coordination Body, Syria_
 ### [Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. ](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.md)
 _Context: Belarus, parliamentary elections_
 
-##### Italy
+##### Italians
 ### [Police in Italy arrest a man at Turin Caselle Airport on charges of impersonating a pilot. ](/news/2012/09/23/police-in-italy-arrest-a-man-at-turin-caselle-airport-on-charges-of-impersonating-a-pilot.md)
-_Context: Italy, Turin Caselle Airport, pilot_
+_Context: Italians, Turin Caselle Airport, pilot_
 
 ##### Libya
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)

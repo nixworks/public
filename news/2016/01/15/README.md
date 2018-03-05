@@ -67,7 +67,7 @@ _Context: 2016 Atlantic hurricane season, Azores, Hurricane Alex_
 ### [A tour bus carrying skiers runs off the road in Japan's Nagano Prefecture with at least 14 people dead and injuring another 27. ](/news/2016/01/15/a-tour-bus-carrying-skiers-runs-off-the-road-in-japan-s-nagano-prefecture-with-at-least-14-people-dead-and-injuring-another-27.md)
 At least 14 people were killed after a bus carrying skiers flipped over a guardrail after veering off a mountain road in central Japan. Twenty seven people, many in their 20s, were injured.
 
-##### Chinese
+##### China
 ### [China's Haier Group buys General Electric's appliance unit for $5.4 billion. ](/news/2016/01/15/china-s-haier-group-buys-general-electric-s-appliance-unit-for-5-4-billion.md)
 China’s Haier Group agreed to buy General Electric Co.’s appliance business for $5.4 billion in the country’s biggest acquisition of an overseas electronics company.
 

@@ -39,9 +39,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
 _Context: Europe, Irish, United States, mad cow disease_
 
-##### Chinese
+##### China
 ### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
-_Context: Chinese, United States, World Trade Organization, rare earth element_
+_Context: China, United States, World Trade Organization, rare earth element_
 
 ##### Jesus
 ### [The site where Jesus may have been tried, prior to his crucifixion, opens to the public for the first time located under an abandoned prison building, called Kishle, that is part of the Tower of David Museum ground in the Old City of Jerusalem, Israel. ](/news/2015/01/5/the-site-where-jesus-may-have-been-tried-prior-to-his-crucifixion-opens-to-the-public-for-the-first-time-located-under-an-abandoned-prison.md)

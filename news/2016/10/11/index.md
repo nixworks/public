@@ -31,9 +31,9 @@ U.S. investigators believe a Jordanian student pilot was trying to kill himself 
 ### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.
 
-##### Chinese
+##### China
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
-_Context: Chinese, Wenzhou_
+_Context: China, Wenzhou_
 
 ##### Computer security
 ### [Computer security firm Symantec warns a second hacking group, going by the name Odinaff, is trying to rob banks using fraudulent SWIFT messages, the same approach that yielded U.S.$81 million in February's attack on Bangladesh's central bank. So far, the group has infected 10 to 20 organizations with this malware. ](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.md)

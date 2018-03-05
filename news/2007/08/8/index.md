@@ -27,9 +27,9 @@ _Context: Yangtse River Dolphin, extinct_
 ### [ The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. ](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.md)
 _Context: 1996, Australia, Reserve Bank of Australia, interest rates_
 
-##### Chinese
+##### China
 ### [ China sends investigators to investigate illegally-built government offices in 30 provinces. ](/news/2007/08/8/china-sends-investigators-to-investigate-illegally-built-government-offices-in-30-provinces.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Inner Mongolia
 ### [ China's Inner Mongolia Autonomous Region celebrates its 60th Anniversary. Chinese Vice-President Zeng Qinghong visits its capital, Hohhot, and participates in a series of large celebration events. ](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.md)

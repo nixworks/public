@@ -59,9 +59,9 @@ _Context: Alzheimer's, Gammagard, clinical trial_
 ### [India has the highest first day infant mortality rate in the world, according to a new study. ](/news/2013/05/7/india-has-the-highest-first-day-infant-mortality-rate-in-the-world-according-to-a-new-study.md)
 More newborns die on the first day in India than in any other country, according to the latest &lsquo;State Of The World&rsquo;s Mothers 2013&rsquo; report.
 
-##### Italy
+##### Italians
 ### [The Italian cargo ship "Jolly Nero" crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injured.md)
-_Context: Genoa, Italy_
+_Context: Genoa, Italians_
 
 ##### Orissa State
 ### [Bears attack villages in Orissa, India, killing eight people and injuring a dozen more. The bears are said to have become aggressive due to excessive consumption of the mahua flower. ](/news/2013/05/7/bears-attack-villages-in-orissa-india-killing-eight-people-and-injuring-a-dozen-more-the-bears-are-said-to-have-become-aggressive-due-to.md)
@@ -79,9 +79,9 @@ A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killin
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.
 
-##### Chinese
+##### China
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: Chinese, export, import_
+_Context: China, export, import_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)

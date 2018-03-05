@@ -39,7 +39,7 @@ Cambridge police spokesman Jeremy Warnick says there have been some injuries rep
 ### [Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-warehouse-kills-at-least-nine.md)
 The fire broke out at a building known as the Ghost Ship which was being used as an artists&#x27; collective and where a party was being held in Oakland.
 
-##### Chinese
+##### China
 ### [ At least 17 are killed in a coal mine explosion in China. ](/news/2016/12/3/at-least-17-are-killed-in-a-coal-mine-explosion-in-china.md)
 Chinese state media say a coal mine explosion in a northern region has trapped 36 people, killing 17 of them.
 

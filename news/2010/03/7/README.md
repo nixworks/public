@@ -11,7 +11,7 @@ _Context: Glasgow_
 ### [Five Pakistani police officials are suspended due to their negligence in the kidnapping of British Pakistani boy Sahil Saeed. ](/news/2010/03/7/five-pakistani-police-officials-are-suspended-due-to-their-negligence-in-the-kidnapping-of-british-pakistani-boy-sahil-saeed.md)
 _Context: Pakistan, Pakistan, Sahil Saeed_
 
-##### Switzerland
+##### Swiss
 ### [Voters in Switzerland take part in a referendum on whether to provide lawyers for non-human animals and other issues. ](/news/2010/03/7/voters-in-switzerland-take-part-in-a-referendum-on-whether-to-provide-lawyers-for-non-human-animals-and-other-issues.md)
 Voters have the final say on Sunday on a reform of the occupational pension scheme opposed by a coalition of the centre-left parties, ...
 

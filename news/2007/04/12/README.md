@@ -51,7 +51,7 @@ _Context: Accused terrorist, Cuba-United States relations, Luis Posada Carriles,
 ### [ Governor of New Jersey Jon Corzine suffers numerous serious injuries resulting from a hit and run car accident on the Garden State Parkway in Galloway Township. ](/news/2007/04/12/governor-of-new-jersey-jon-corzine-suffers-numerous-serious-injuries-resulting-from-a-hit-and-run-car-accident-on-the-garden-state-parkway.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Italy
+##### Italians
 ### [ Italian riot police clash with hundreds of Chinese merchants in Milan after scuffles break out over traffic problems in Chinatown. ](/news/2007/04/12/italian-riot-police-clash-with-hundreds-of-chinese-merchants-in-milan-after-scuffles-break-out-over-traffic-problems-in-chinatown.md)
 The Age 404 Page
 

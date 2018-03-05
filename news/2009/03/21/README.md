@@ -9,7 +9,7 @@ _Context: India, Somali pirates, Somalia, cargo ship_
 
 ##### Protest
 ### [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md)
-_Context: Camorra, Italy, Mafia, Naples, protest_
+_Context: Camorra, Italians, Mafia, Naples, protest_
 
 ##### Andry Rajoelina
 ### [ Andry Rajoelina is inaugurated as President of Madagascar. ](/news/2009/03/21/andry-rajoelina-is-inaugurated-as-president-of-madagascar.md)

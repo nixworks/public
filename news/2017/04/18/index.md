@@ -65,7 +65,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
 ##### United States
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: Bright Food, Chinese, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
+_Context: Bright Food, China, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
 
 ##### Egypt
 ### [The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. ](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-the-discovery-of-eight-mummies-10-colorful-sarcophagi-and-numerous-figurines-in-a-3-500-yea.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-found
 
 ### [2018-03-4](/news/2018/03/4/index.md)
 
-##### InfoWars
+##### Online advertising
 # Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. 
 
 Brands including Nike, Acer, Expedia and ClassPass say they were unaware their ads were running on YouTube channels for InfoWars and Alex Jones. 

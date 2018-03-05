@@ -7,9 +7,9 @@ Formats: [HTML](2014/06/16/index.html)  [JSON](2014/06/16/index.json)  [XML](201
 ### [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member, during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-man.md)
 _Context: Aziz Duwaik, Hamas, Israel, Speaker of the Palestinian Legislative Council, three kidnapped teenagers_
 
-##### Chinese
+##### China
 ### [The People's Republic of China sentences three men to death for a deadly attack at Beijing's Tiananmen Square last October. ](/news/2014/06/16/the-people-s-republic-of-china-sentences-three-men-to-death-for-a-deadly-attack-at-beijing-s-tiananmen-square-last-october.md)
-_Context: Beijing, Chinese, Tiananmen Square, last October_
+_Context: Beijing, China, Tiananmen Square, last October_
 
 ##### Warrant
 ### [A warrant is issued for the arrest of Peter O'Neill, Prime Minister of Papua New Guinea, in relation to a fraud case related to alleged payment of millions of dollars in illegal payments to a law firm. The Supreme Court of Papua New Guinea later stays the warrant. ](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.md)

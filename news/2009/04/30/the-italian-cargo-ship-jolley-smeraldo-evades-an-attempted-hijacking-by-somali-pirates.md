@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-a
 
 ### [2009-04-30](/news/2009/04/30/index.md)
 
-##### Italy
+##### Italians
 #  The Italian cargo ship "Jolley Smeraldo" evades an attempted hijacking by Somali pirates. 
 
 An Italian-flagged merchant ship evaded an attack by Somali pirates and its 24-person crew was unharmed, shipping line officials said.

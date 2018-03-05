@@ -49,7 +49,7 @@ _Context: Colombia, Tolima department_
 
 ##### Minquan County
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: Chinese, Henan province, Minquan County, bus, pond_
+_Context: China, Henan province, Minquan County, bus, pond_
 
 ##### New Zealand
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)

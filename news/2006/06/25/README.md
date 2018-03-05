@@ -9,7 +9,7 @@ _Context: $, Bill & Melinda Gates Foundation, Warren Buffett, world's third rich
 
 ##### Referendum
 ### [ Italians vote in a referendum on whether to approve the modification of 53 articles in the constitution. Approval would give more power to the prime minister and to the regions, making Italy a federal state. ](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.md)
-_Context: Constitution of Italy, Italy, Prime Minister of Italy, federal state, referendum, regions_
+_Context: Constitution of Italy, Italians, Prime Minister of Italy, federal state, referendum, regions_
 
 ##### Jos Ramos-Horta
 ### [ Jos Ramos-Horta resigns as both Foreign and Interim Defence Minister of East Timor amidst ongoing political turmoil. ](/news/2006/06/25/jose-ramos-horta-resigns-as-both-foreign-and-interim-defence-minister-of-east-timor-amidst-ongoing-political-turmoil.md)

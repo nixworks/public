@@ -27,9 +27,9 @@ _Context: Juan Manuel Santos, Revolutionary Armed Forces of Colombia_
 ### [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md)
 California to be first state to ban a controversial form of psychotherapy aimed at making gay teenagers straight.
 
-##### Chinese
+##### China
 ### [Chinese authorities close down the firm handling dissident artist Ai Weiwei's affairs, possibly saving him from paying the remainder of a 15 million yuan tax fine. ](/news/2012/10/1/chinese-authorities-close-down-the-firm-handling-dissident-artist-ai-weiwei-s-affairs-possibly-saving-him-from-paying-the-remainder-of-a-15.md)
-_Context: Ai Weiwei, Chinese, yuan_
+_Context: Ai Weiwei, China, yuan_
 
 ##### Russia
 ### [The appeal hearing in the Russian band Pussy Riot's case is delayed after one member of the group fired their lawyer. ](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.md)

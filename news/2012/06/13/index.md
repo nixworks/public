@@ -17,7 +17,7 @@ Government report criticises Netanyahu decision-making in 2010 naval raid on Gaz
 
 ##### Aung San Suu Kyi
 ### [Myanmar democracy activist Aung San Suu Kyi returns to Europe after more than two decades for a European tour, including Norway, Switzerland, France, Ireland and Britain. ](/news/2012/06/13/myanmar-democracy-activist-aung-san-suu-kyi-returns-to-europe-after-more-than-two-decades-for-a-european-tour-including-norway-switzerland.md)
-_Context: Aung San Suu Kyi, France, Ireland, Norway, Switzerland, United Kingdom_
+_Context: Aung San Suu Kyi, France, Ireland, Norway, Swiss, United Kingdom_
 
 ##### Manal al Sharif
 ### [Hundreds of people sign a letter written by Manal al Sharif to Saudi King Abdullah urging him to allow women to get behind the wheel on the first anniversary of the Women2Drive campaign, launched in June 2011. ](/news/2012/06/13/hundreds-of-people-sign-a-letter-written-by-manal-al-sharif-to-saudi-king-abdullah-urging-him-to-allow-women-to-get-behind-the-wheel-on-the.md)

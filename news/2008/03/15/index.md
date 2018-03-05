@@ -9,7 +9,7 @@ _Context: 2008 unrest in Tibet, Qiangba Puncog, Tibet Autonomous Region_
 
 ##### 11th
 ### [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md)
-_Context: 11th, Chinese, Hu Jintao, President, Vice-President of the People's Republic of China, Xi Jinping, parliament_
+_Context: 11th, China, Chinese President, Hu Jintao, Vice-President of the People's Republic of China, Xi Jinping, parliament_
 
 ##### Turkish
 ### [ Turkish Prime Minister Recep Tayyip Erdogan says prosecutor Abdurrahman Yalcinkaya's proposal to ban the ruling Justice and Development Party is against the "national will". ](/news/2008/03/15/turkish-prime-minister-recep-tayyip-erdoaan-says-prosecutor-abdurrahman-yalassa-nkaya-s-proposal-to-ban-the-ruling-justice-and-development.md)
@@ -27,9 +27,9 @@ _Context: 2008 Tirana explosions, Albania, Tirana, weapon_
 ### [ Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. ](/news/2008/03/15/three-former-police-officers-are-jailed-over-the-killing-of-ukrainian-investigative-journalist-georgiy-r-gongadze-in-2000.md)
 _Context: Georgiy R. Gongadze, Ukraine, investigative journalist, police officer_
 
-##### Italy
+##### Italians
 ### [ Tens of thousands of Italians gather in Bari to march against the mafia and remember its many victims. ](/news/2008/03/15/tens-of-thousands-of-italians-gather-in-bari-to-march-against-the-mafia-and-remember-its-many-victims.md)
-_Context: Bari, Italy, mafia, victims_
+_Context: Bari, Italians, mafia, victims_
 
 ##### Mayor of Atlanta
 ### [ The Mayor of Atlanta, Shirley Franklin, declares a state of emergency following the previous night's tornado, while northwest Georgia is hit by more tornadoes, causing at least one death. ](/news/2008/03/15/the-mayor-of-atlanta-shirley-franklin-declares-a-state-of-emergency-following-the-previous-night-s-tornado-while-northwest-georgia-is-hi.md)

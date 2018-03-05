@@ -21,7 +21,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### United States Secretary of State
 ### [ US Secretary of State Condoleezza Rice arrives in Beijing for the last leg of her six-country Asian trip. Rice met with President Hu Jintao and Premier Wen Jiabao; talks about North Korea nuclear missiles program and Taiwan are on the top of the agenda. ](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.md)
-_Context: Beijing, Condoleezza Rice, Hu Jintao, North Korea, Premier of the People's Republic of China, President, Taiwan, United States Secretary of State, Wen Jiabao, nuclear missile_
+_Context: Beijing, Chinese President, Condoleezza Rice, Hu Jintao, North Korea, Premier of the People's Republic of China, Taiwan, United States Secretary of State, Wen Jiabao, nuclear missile_
 
 ## [Previous Day...](/news/2005/03/19/index.md)
 

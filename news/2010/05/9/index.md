@@ -29,7 +29,7 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 
 ##### Sandro Bondi
 ### [Sandro Bondi, Italy's minister of culture, calls for a boycott of the 2010 Cannes Film Festival after a documentary on the 2009 L'Aquila earthquake was included in the programme. ](/news/2010/05/9/sandro-bondi-italy-s-minister-of-culture-calls-for-a-boycott-of-the-2010-cannes-film-festival-after-a-documentary-on-the-2009-l-aquila-ear.md)
-_Context: 2009 L'Aquila earthquake, Italy, Sandro Bondi, minister of culture, wins_
+_Context: 2009 L'Aquila earthquake, Italians, Sandro Bondi, minister of culture, wins_
 
 ##### Voted out of office
 ### [The regional coalition of Christian-Democrats (CDU) and Free Democrats (FDP) are voted out of office in North Rhine-Westphalia (NRW), which may lead to the federal government of Chancellor Angela Merkel losing its majority in the upper house. ](/news/2010/05/9/the-regional-coalition-of-christian-democrats-cdu-and-free-democrats-fdp-are-voted-out-of-office-in-north-rhine-westphalia-nrw-which.md)

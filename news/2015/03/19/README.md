@@ -21,7 +21,7 @@ Euro zone leaders told Greece on Thursday its leftist-led government must implem
 
 ##### Diecai Hill
 ### [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md)
-_Context: Chinese, Diecai Hill, Guilin_
+_Context: China, Diecai Hill, Guilin_
 
 ##### Cyclone Pam
 ### [Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md)

@@ -15,7 +15,7 @@ _Context: Australian Electoral Commission, High Court of Australia, Senate elect
 ### [Burma announces the release of 69 political prisoners in ongoing reform. ](/news/2013/11/15/burma-announces-the-release-of-69-political-prisoners-in-ongoing-reform.md)
 Burmese officials say they are releasing 69 political prisoners, including the grandchildren of former leader General Ne Win.
 
-##### Chinese
+##### China
 ### [China is to relax some elements of its one-child policy and announces it will end its "re-education through labour" camps. ](/news/2013/11/15/china-is-to-relax-some-elements-of-its-one-child-policy-and-announces-it-will-end-its-re-education-through-labour-camps.md)
 China is to relax its policy of restricting most couples to having only a single child, state media say, part of a raft of reforms being announced.
 

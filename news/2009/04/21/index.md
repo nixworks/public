@@ -9,7 +9,7 @@ The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth
 
 ##### Killed
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
-_Context: Karatina, Kenya, Mungiki, citizen, killed, organized crime_
+_Context: Karatina, Kenya, Mungiki, citizen, killed, mafia_
 
 ##### United Kingdom
 ### [ The United Kingdom's Retail Prices Index records negative inflation for the first time since 1960. ](/news/2009/04/21/the-united-kingdom-s-retail-prices-index-records-negative-inflation-for-the-first-time-since-1960.md)

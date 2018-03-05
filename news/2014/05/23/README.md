@@ -25,11 +25,11 @@ _Context: 2014 Isla Vista shootings, Santa Barbara, California, University of Ca
 
 ##### Hubei
 ### [A Hubei court finds Chinese tycoon Liu Han, the former head of the conglomerate Hanlong Group, guilty of "organising and leading mafia-style crime and murder" and "obtain[ing] financial gains via illegal activities", sentencing him to death. ](/news/2014/05/23/a-hubei-court-finds-chinese-tycoon-liu-han-the-former-head-of-the-conglomerate-hanlong-group-guilty-of-organising-and-leading-mafia-style.md)
-_Context: Chinese, Hanlong Group, Hubei, sentencing him to death_
+_Context: China, Hanlong Group, Hubei, sentencing him to death_
 
 ##### Russia
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria. ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: Chinese, ICC, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
+_Context: China, ICC, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
 
 ##### Syrian Civil War
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)

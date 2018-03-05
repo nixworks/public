@@ -13,7 +13,7 @@ _Context: Hugo Chavez, President, Venezuela, term limit, the constitution_
 
 ##### Prime Minister
 ### [ The Prime Minister of Kyrgyzstan Almaz Atambayev and the President of the People's Republic of China Hu Jintao meet to discuss Kyrgyz participation in a Turkmenistan-China gas pipeline. ](/news/2007/08/16/the-prime-minister-of-kyrgyzstan-almaz-atambayev-and-the-president-of-the-people-s-republic-of-china-hu-jintao-meet-to-discuss-kyrgyz-parti.md)
-_Context: Almaz Atambayev, Chinese, Hu Jintao, Kyrgyzstan, President, Prime Minister, Turkmenistan_
+_Context: Almaz Atambayev, China, Chinese President, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan_
 
 ##### United States
 ### [ United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-first-phase-of-op.md)
@@ -57,7 +57,7 @@ _Context: British government, Zimbabwe_
 
 ##### Russia
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: Central Asia, Chinese, Iran, Russia, Shanghai Cooperation Organisation, United States_
+_Context: Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation, United States_
 
 ##### Seismic
 ### [ Three people are killed and another six injured as a seismic jolt disrupts an attempted mine rescue effort at the Crandall Canyon Mine near Huntington, Utah, United States. ](/news/2007/08/16/three-people-are-killed-and-another-six-injured-as-a-seismic-jolt-disrupts-an-attempted-mine-rescue-effort-at-the-crandall-canyon-mine-near.md)

@@ -15,7 +15,7 @@ Cuban leader Raul Castro announced on Sunday he would step down from power after
 ### [Nicos Anastasiades of the conservative Democratic Rally party wins the Cypriot presidential election. ](/news/2013/02/24/nicos-anastasiades-of-the-conservative-democratic-rally-party-wins-the-cypriot-presidential-election.md)
 Nicos Anastasiades, leader of Cyprus’s main opposition Disy party, was poised to win his bid to become the country’s seventh president as Cypriots voted to choose a savior for their crisis-ravaged economy.
 
-##### Italy
+##### Italians
 ### [Voters in Italy go to the polls for the first day of a general election. ](/news/2013/02/24/voters-in-italy-go-to-the-polls-for-the-first-day-of-a-general-election.md)
 Why the rest of the world is so nervous.
 

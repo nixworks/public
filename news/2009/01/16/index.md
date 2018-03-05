@@ -9,7 +9,7 @@ _Context: Denmark, Somali pirates, Somalia, cargo ship, ransom_
 
 ##### Trial
 ### [ The trial of two accused murderers of Meredith Kercher begins in Perugia, Italy. ](/news/2009/01/16/the-trial-of-two-accused-murderers-of-meredith-kercher-begins-in-perugia-italy.md)
-_Context: Italy, Perugia, killing Meredith Kercher, trial_
+_Context: Italians, Perugia, killing Meredith Kercher, trial_
 
 ##### Palestinian Authority
 ### [ Palestinian medical sources report 1,010 people have died and 4,700 have been wounded during the conflict with Israel. ](/news/2009/01/16/palestinian-medical-sources-report-1-010-people-have-died-and-4-700-have-been-wounded-during-the-conflict-with-israel.md)

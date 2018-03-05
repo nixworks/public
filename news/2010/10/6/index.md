@@ -7,13 +7,13 @@ Formats: [HTML](2010/10/6/index.html)  [JSON](2010/10/6/index.json)  [XML](2010/
 ### [Richard F. Heck, Ei-ichi Negishi and Akira Suzuki win the 2010 Nobel Prize in Chemistry for developing new ways of linking carbon atoms together. ](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.md)
 _Context: Akira Suzuki, Ei-ichi Negishi, Nobel Prize in Chemistry, Richard F. Heck, atom, carbon_
 
-##### Chinese
+##### China
 ### [China's gross domestic product (GDP) will grow by 10.5 percent in 2010 and 9.6 percent in 2011, ahead of other major economies, according to a report released by the International Monetary Fund. ](/news/2010/10/6/china-s-gross-domestic-product-gdp-will-grow-by-10-5-percent-in-2010-and-9-6-percent-in-2011-ahead-of-other-major-economies-according-to.md)
-_Context: Chinese, International Monetary Fund, gross domestic product_
+_Context: China, International Monetary Fund, gross domestic product_
 
 ##### Pro- and anti
 ### [China's climate negotiator Xie Zhenhua states that the country's voluntary efforts supported by its own resources and technologies only accept "non-invasive" international consultation and analysis at the UNFCCC meeting in Tianjin, China. ](/news/2010/10/6/china-s-climate-negotiator-xie-zhenhua-states-that-the-country-s-voluntary-efforts-supported-by-its-own-resources-and-technologies-only-acce.md)
-_Context: Chinese, Tianjin, UNFCCC, Xie Zhenhua, pro- and anti_
+_Context: China, Tianjin, UNFCCC, Xie Zhenhua, pro- and anti_
 
 ##### Ethiopia
 ### [Ethiopian opposition leader Birtukan Mideksa of the Unity for Democracy and Justice is released from prison after two years of incarceration. ](/news/2010/10/6/ethiopian-opposition-leader-birtukan-mideksa-of-the-unity-for-democracy-and-justice-is-released-from-prison-after-two-years-of-incarceration.md)

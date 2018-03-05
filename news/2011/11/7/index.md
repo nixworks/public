@@ -23,7 +23,7 @@ Venezuelan self-styled revolutionary &quot;Carlos the Jackal&quot; goes on trial
 ### [Conrad Murray is found guilty of involuntary manslaughter in relation to the death of American entertainer Michael Jackson. ](/news/2011/11/7/conrad-murray-is-found-guilty-of-involuntary-manslaughter-in-relation-to-the-death-of-american-entertainer-michael-jackson.md)
 _Context: Conrad Murray, Michael Jackson, death_
 
-##### Italy
+##### Italians
 ### [Flooding continues in Italy with seven people having died in the past week and thousands of people ordered to evacuate in Turin as the Po River continues to rise. ](/news/2011/11/7/flooding-continues-in-italy-with-seven-people-having-died-in-the-past-week-and-thousands-of-people-ordered-to-evacuate-in-turin-as-the-po-ri.md)
 The authorities in Italy issue fresh safety warnings as storms and torrential rain continue to cause havoc across the country.
 

@@ -33,7 +33,7 @@ _Context: American Airlines, Middle East, false alarm, security controls_
 
 ##### Swiss Army
 ### [ Six Swiss Army recruits are killed by an avalanche on the Jungfrau mountain in Switzerland. ](/news/2007/07/12/six-swiss-army-recruits-are-killed-by-an-avalanche-on-the-jungfrau-mountain-in-switzerland.md)
-_Context: Jungfrau, Swiss Army, Switzerland, avalanche, recruits_
+_Context: Jungfrau, Swiss, Swiss Army, avalanche, recruits_
 
 ##### Israel
 ### [ An Israeli soldier is killed by Hamas forces in the Gaza Strip. It is the first Israeli combat casualty since November 2006. ](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.md)

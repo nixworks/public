@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/22/index.html)  [JSON](2009/10/22/index.json)  [XML](200
 
 ##### Department of Homeland Security
 ### [ The U.S. Department of Homeland Security will allow Chinese and Russian tourists to travel to the Northern Mariana Islands without a visa. ](/news/2009/10/22/the-u-s-department-of-homeland-security-will-allow-chinese-and-russian-tourists-to-travel-to-the-northern-mariana-islands-without-a-visa.md)
-_Context: Chinese, Department of Homeland Security, Northern Mariana Islands, Russia, tourists, visa-free travel_
+_Context: China, Department of Homeland Security, Northern Mariana Islands, Russia, tourists, visa-free travel_
 
 ##### Tamil
 ### [ Nearly 6,000 Tamil refugees are released from Sri Lanka's main camp for war-displaced people, to be re-settled over the next few weeks. ](/news/2009/10/22/nearly-6-000-tamil-refugees-are-released-from-sri-lanka-s-main-camp-for-war-displaced-people-to-be-re-settled-over-the-next-few-weeks.md)

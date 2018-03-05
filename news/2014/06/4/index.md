@@ -9,7 +9,7 @@ New Brunswick RCMP have confirmed that three officers were shot and killed and t
 
 ##### International Court of Arbitration
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: Chinese, International Court of Arbitration, Philippines, The Hague, court decision, sweeping claim_
+_Context: China, International Court of Arbitration, Philippines, The Hague, court decision, sweeping claim_
 
 ##### Attorney General of Germany
 ### [The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. ](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.md)
@@ -19,9 +19,9 @@ _Context: Attorney General of Germany, Harald Range, NSA, surveillance of Chance
 ### [35 people, including Giorgio Orsoni, the Mayor of Venice, are arrested in Italy on corruption charges in connection with the MOSE Project. ](/news/2014/06/4/35-people-including-giorgio-orsoni-the-mayor-of-venice-are-arrested-in-italy-on-corruption-charges-in-connection-with-the-mose-project.md)
 The mayor of Venice is among 35 people arrested in Italy over alleged corruption in connection with new flood barriers being built around the city.
 
-##### Chinese
+##### China
 ### [Authorities in China crack down on dissidents on the 25th anniversary of the Tiananmen Square massacre. ](/news/2014/06/4/authorities-in-china-crack-down-on-dissidents-on-the-25th-anniversary-of-the-tiananmen-square-massacre.md)
-_Context: Chinese, Tiananmen Square protests of 1989_
+_Context: China, Tiananmen Square protests of 1989_
 
 ##### Mexico passes a law
 ### [Mexico passes a law that increases the minimal sentence for kidnappers from 20 to 40, and the maximum from 50 to 140. ](/news/2014/06/4/mexico-passes-a-law-that-increases-the-minimal-sentence-for-kidnappers-from-20-to-40-and-the-maximum-from-50-to-140.md)

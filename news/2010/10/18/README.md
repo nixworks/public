@@ -23,9 +23,9 @@ _Context: Central Military Commission, Vice President, Xi Jinping_
 ### [Burma bans all foreign media and international observers from the upcoming general election in November. ](/news/2010/10/18/burma-bans-all-foreign-media-and-international-observers-from-the-upcoming-general-election-in-november.md)
 Election observers and foreign journalists will not be allowed into Burma for its first polls in two decades, officials say.
 
-##### Chinese
+##### China
 ### [China releases the Tibetan writer, Kalsang Tsultrim, who was arrested in China earlier this year for what China termed a "political error". ](/news/2010/10/18/china-releases-the-tibetan-writer-kalsang-tsultrim-who-was-arrested-in-china-earlier-this-year-for-what-china-termed-a-political-error.md)
-_Context: Chinese, Tibet_
+_Context: China, Tibet_
 
 ##### Ajmal Kasab
 ### [The appeal of Ajmal Kasab against the death sentence imposed by an Indian court for his role in the 2008 Mumbai attacks begins in Mumbai. ](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.md)

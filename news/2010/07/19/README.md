@@ -43,7 +43,7 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 ### [Syria bans the full face veil from being worn in its universities. ](/news/2010/07/19/syria-bans-the-full-face-veil-from-being-worn-in-its-universities.md)
 _Context: Syria_
 
-##### Italy
+##### Italians
 ### [Hundreds of Italians commemorate anti-Mafia judge Paolo Borsellino in Palermo, 18 years after he was killed by a car bomb. ](/news/2010/07/19/hundreds-of-italians-commemorate-anti-mafia-judge-paolo-borsellino-in-palermo-18-years-after-he-was-killed-by-a-car-bomb.md)
 Hundreds of Italians gather in Palermo, Sicily, to commemorate anti-Mafia judge Paolo Borsellino 18 years after his murder.
 

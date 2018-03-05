@@ -3,9 +3,9 @@ Formats: [HTML](2012/06/29/index.html)  [JSON](2012/06/29/index.json)  [XML](201
 
 ## [2012-06-29](/news/2012/06/29/index.md)
 
-##### Chinese
+##### China
 ### [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md)
-_Context: Chinese, Shenzhou 9_
+_Context: China, Shenzhou 9_
 
 ##### Japan
 ### [Over 15000 Japanese protest against nuclear power. ](/news/2012/06/29/over-15000-japanese-protest-against-nuclear-power.md)
@@ -63,9 +63,9 @@ Rock of Ages star Tom Cruise and his wife Katie Holmes are divorcing after five 
 ### [Alternative rock band The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours. ](/news/2012/06/29/alternative-rock-band-the-flaming-lips-set-a-new-guinness-world-record-for-performing-the-most-live-shows-in-different-cities-over-24-hours.md)
 US rockers The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours.
 
-##### Italy
+##### Italians
 ### [The sunken Italian World War II flagship "Roma" is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md)
-_Context: Italy, Roma, Sardinia, World War II_
+_Context: Italians, Roma, Sardinia, World War II_
 
 ##### Holocaust
 ### [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md)

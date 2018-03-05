@@ -61,7 +61,7 @@ _Context: Ganesh, Nepal, Ramechhap_
 
 ##### German
 ### [ A German court sentences former Nazi army commander Josef Scheungraber to life in prison for his role in the murder of 10 Italians in Tuscany in 1944. ](/news/2009/08/11/a-german-court-sentences-former-nazi-army-commander-josef-scheungraber-to-life-in-prison-for-his-role-in-the-murder-of-10-italians-in-tusca.md)
-_Context: German, Italy, Josef Scheungraber, Nazi, Tuscany_
+_Context: German, Italians, Josef Scheungraber, Nazi, Tuscany_
 
 ##### Asia
 ### [ Two strong earthquakes hit Asia; a 7.6 magnitude quake off the Indian Andaman Islands and a 6.5 magnitude quake in the Tokyo area of Japan, killing one and injuring dozens. ](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.md)

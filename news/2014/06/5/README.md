@@ -19,7 +19,7 @@ Canadian police on Thursday mounted a massive hunt for a 24-year-old gunman they
 ### [Pakistani police arrest multiple people involved in the stoning of Farzana Parveen, bringing the total number of people in custody to 12. ](/news/2014/06/5/pakistani-police-arrest-multiple-people-involved-in-the-stoning-of-farzana-parveen-bringing-the-total-number-of-people-in-custody-to-12.md)
 _Context: police officers, stoning of Farzana Parveen_
 
-##### Chinese
+##### China
 ### [The People's Republic of China claims to have arrested 29 people following recent terrorist attacks in the Xinjiang region. ](/news/2014/06/5/the-people-s-republic-of-china-claims-to-have-arrested-29-people-following-recent-terrorist-attacks-in-the-xinjiang-region.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

@@ -9,7 +9,7 @@ A magnitude 7.0 earthquake struck off Japan in the Pacific Ocean, the U.S. Geolo
 
 ##### President of Libya
 ### [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md)
-_Context: Libya, Muammar Gaddafi, President of Libya, Switzerland, holy war_
+_Context: Libya, Muammar Gaddafi, President of Libya, Swiss, holy war_
 
 ##### New York
 ### [New York Democratic Governor David Paterson announces he will not run in the New York gubernatorial election of 2010.](/news/2010/02/26/new-york-democratic-governor-david-paterson-announces-he-will-not-run-in-the-new-york-gubernatorial-election-of-2010.md)

@@ -29,7 +29,7 @@ _Context: Donald Trump, Donald Trump presidential campaign, Eric Trump, FBI, Joi
 
 ##### Censorship in China
 ### [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md)
-_Context: Censorship in China, Chinese, Hong Kong, President, Tencent, Xi Jinping_
+_Context: Censorship in China, China, Chinese President, Hong Kong, Tencent, Xi Jinping_
 
 ##### 2016 Brussels police raids
 ### [Salah Abdeslam, the alleged suspect and primary perpetrator of the November 2015 Paris attacks is shot and arrested by Belgian authorities in a Brussels raid. ](/news/2016/03/18/salah-abdeslam-the-alleged-suspect-and-primary-perpetrator-of-the-november-2015-paris-attacks-is-shot-and-arrested-by-belgian-authorities-i.md)
@@ -43,9 +43,9 @@ Politician in court over comments he made about Dutch Moroccans, but insists he 
 ### [ A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the-deaths-of-17-people-since-november-2015.md)
 Officials are searching for the source of the Elizabethkingia anophelis bacteria linked to 18 deaths and 54 reported infections.
 
-##### Switzerland
+##### Swiss
 ### [Swiss research, published in the medical journal "The Lancet", found that paracetamol -- sold as Tylenol and as a generic, acetaminophen, in the United States -- was not effective at reducing pain or improving movement in patients with osteoarthritis of the knee or hip. The analysis examined 74 randomly-selected trials published between 1980 and 2015 with 58,556 patients who had osteoarthritis. The study did find the prescription drug diclofenac, sold in the U.S. as Cataflam or Voltaren, is the most effective NSAID available. McNeil Consumer Healthcare, the makers of Tylenol, disagree with the study's conclusions. ](/news/2016/03/18/swiss-research-published-in-the-medical-journal-the-lancet-found-that-paracetamol-sold-as-tylenol-and-as-a-generic-acetaminophen-in.md)
-_Context: McNeil Consumer Healthcare, NSAID, Switzerland, The Lancet, Tylenol, diclofenac, paracetamol_
+_Context: McNeil Consumer Healthcare, NSAID, Swiss, The Lancet, Tylenol, diclofenac, paracetamol_
 
 ##### European migrant crisis
 ### [ European Union leaders offer Turkey a detailed package of cash and incentives to agree that all migrants attempting to cross the Aegean Sea by raft or boat would be sent back to Turkey which, in effect, becomes the region's migrant holding center. A number of stumbling blocks remain, such as raising the amount of aid from 3 billion euros to at least 6 billion euros; reducing the "72 arduous conditions" the Turks must meet to implement visa-free travel for Turkish citizens; Europe agrees to accelerate talks with Ankara on its EU bid; etc. Human Rights Watch protests the proposed fast-track collective expulsions that fail to take individual circumstances into account and breach peoples' right to seek asylum. ](/news/2016/03/18/european-union-leaders-offer-turkey-a-detailed-package-of-cash-and-incentives-to-agree-that-all-migrants-attempting-to-cross-the-aegean-sea.md)

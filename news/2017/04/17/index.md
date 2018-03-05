@@ -33,7 +33,7 @@ _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice Presi
 
 ##### China-Nepal relations
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China-Nepal relations, Chinese, India, Nepal_
+_Context: China, China-Nepal relations, India, Nepal_
 
 ##### BP
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
@@ -51,7 +51,7 @@ One crew member was killed and two others were injured Monday when a military he
 ### [Five people drowned while eleven are still missing after a boat capsized off the coast of Rumphi District on Lake Malawi. ](/news/2017/04/17/five-people-drowned-while-eleven-are-still-missing-after-a-boat-capsized-off-the-coast-of-rumphi-district-on-lake-malawi.md)
 _Context: Lake Malawi, Rumphi District_
 
-##### Switzerland
+##### Swiss
 ### [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md)
 A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, killing five people.
 

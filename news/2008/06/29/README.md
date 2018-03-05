@@ -27,9 +27,9 @@ _Context: Hezbollah, Israel, forming a government_
 ### [ At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. ](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.md)
 _Context: Assam, India, United Liberation Front of Asom, bomb_
 
-##### Chinese
+##### China
 ### [ China will commence a new range of talks with representatives of the Dalai Lama in early July. ](/news/2008/06/29/china-will-commence-a-new-range-of-talks-with-representatives-of-the-dalai-lama-in-early-july.md)
-_Context: Chinese, Dalai Lama_
+_Context: China, Dalai Lama_
 
 ##### Spain
 ### [ Spain wins the UEFA Euro 2008 championship defeating Germany 1-0 in the final through a goal by Fernando Torres. ](/news/2008/06/29/spain-wins-the-uefa-euro-2008-championship-defeating-germany-1-0-in-the-final-through-a-goal-by-fernando-torres.md)

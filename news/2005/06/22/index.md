@@ -49,7 +49,7 @@ _Context: Chad, Idriss Dby, referendum_
 
 ##### Swiss Federal Railways
 ### [ The entire network of the Swiss Federal Railways shuts down due to a power failure in its overhead wire system. The power failure is also affecting international transit through Switzerland as such intercity trains use the same system. Initial reports indicate that the power failure started with a voltage drop in Ticino (in the St. Gotthard region) that then spread to the entire system. The initial failure happened at about 1700 local time, with some power supplies restored about 2015, but the last trains did not reach their destinations until 0300. ](/news/2005/06/22/the-entire-network-of-the-swiss-federal-railways-shuts-down-due-to-a-power-failure-in-its-overhead-wire-system-the-power-failure-is-also-a.md)
-_Context: St. Gotthard, Swiss Federal Railways, Switzerland, Ticino, overhead wire_
+_Context: St. Gotthard, Swiss, Swiss Federal Railways, Ticino, overhead wire_
 
 ##### BMW
 ### [ German car manufacturer BMW acquires the Formula One team Sauber Petronas. In the next season the new team will be probably known as BMW Sauber. ](/news/2005/06/22/german-car-manufacturer-bmw-acquires-the-formula-one-team-sauber-petronas-in-the-next-season-the-new-team-will-be-probably-known-as-bmw-sa.md)

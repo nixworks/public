@@ -27,7 +27,7 @@ Russia stages its biggest WW2 Victory Day military parade, an event avoided by m
 ### [The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after-weeks-of-no-cases-there.md)
 The World Health Organization (WHO) declares Liberia free of the Ebola virus, as the country has had no new cases in 42 days.
 
-##### Chinese
+##### China
 ### [Ten people are killed after a wall collapses on a construction project in China's Shandong province. ](/news/2015/05/9/ten-people-are-killed-after-a-wall-collapses-on-a-construction-project-in-china-s-shandong-province.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

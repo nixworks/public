@@ -43,9 +43,9 @@ _Context: Oklahoma, Oklahoma City, Texas, flood_
 ### [An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. ](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.md)
 Down south in A.P., among those who succumbed to the killer heat were 40 persons in Prakasam district and 12 in Visakhapatnam. In Telangana, 28 persons died.
 
-##### Chinese
+##### China
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Scotland
 ### [A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. ](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.md)

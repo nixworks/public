@@ -15,9 +15,9 @@ A bill to legalise same-sex marriage has passed into law after its third reading
 ### [Venezuela's opposition leader Henrique Capriles distances himself from post-election street violence after seven people are killed in riots over the results of the presidential election. Capriles had previously planned to march on the National Electoral Council to demand a recount. ](/news/2013/04/17/venezuela-s-opposition-leader-henrique-capriles-distances-himself-from-post-election-street-violence-after-seven-people-are-killed-in-riots.md)
 _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's presidential election, post-election street violence, recount_
 
-##### Italy
+##### Italians
 ### [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md)
-_Context: Giorgio Napolitano, Italian Parliament, Italy, President of Italy, coalition, political parties_
+_Context: Giorgio Napolitano, Italian Parliament, Italians, President of Italy, coalition, political parties_
 
 ##### United Kingdom
 ### [The former British Prime Minister Margaret Thatcher's ceremonial funeral is held in London. ](/news/2013/04/17/the-former-british-prime-minister-margaret-thatcher-s-ceremonial-funeral-is-held-in-london.md)

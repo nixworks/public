@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-com
 
 ### [2015-01-26](/news/2015/01/26/index.md)
 
-##### Chinese
+##### China
 # Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-com
 
 ### Related:
 
-1. [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md) _Context: Chinese, Communist Party Secretary_
+1. [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md) _Context: China, Communist Party Secretary_
 2. [The anti-graft body of the Communist Party of China detains Yang Weize, incumbent Party Secretary of Nanjing, the provincial capital of Jiangsu province, for investigation. ](/news/2015/01/5/the-anti-graft-body-of-the-communist-party-of-china-detains-yang-weize-incumbent-party-secretary-of-nanjing-the-provincial-capital-of-jian.md) _Context: Nanjing, Yang Weize_
-3. [The U.S. Secretary of the Treasury, Timothy Geithner, says at a meeting in Nanjing, China that the "most important problem" in the world's monetary system is that some countries refuse to allow the free flow of the value of their currency. ](/news/2011/03/31/the-u-s-secretary-of-the-treasury-timothy-geithner-says-at-a-meeting-in-nanjing-china-that-the-most-important-problem-in-the-world-s-m.md) _Context: Chinese, Nanjing_
-4. [An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. ](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-china-kills-at-least-12-people-and-injures-hundreds.md) _Context: Chinese, Nanjing_
-5. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_
+3. [The U.S. Secretary of the Treasury, Timothy Geithner, says at a meeting in Nanjing, China that the "most important problem" in the world's monetary system is that some countries refuse to allow the free flow of the value of their currency. ](/news/2011/03/31/the-u-s-secretary-of-the-treasury-timothy-geithner-says-at-a-meeting-in-nanjing-china-that-the-most-important-problem-in-the-world-s-m.md) _Context: China, Nanjing_
+4. [An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. ](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-china-kills-at-least-12-people-and-injures-hundreds.md) _Context: China, Nanjing_
+5. [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md) _Context: China_

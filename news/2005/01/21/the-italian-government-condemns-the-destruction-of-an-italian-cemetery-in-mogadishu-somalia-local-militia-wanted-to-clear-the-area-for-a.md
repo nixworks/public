@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/21/the-italian-government-condemns-the-destruction
 
 ### [2005-01-21](/news/2005/01/21/index.md)
 
-##### Italy
+##### Italians
 #  The Italian government condemns the destruction of an Italian cemetery in Mogadishu, Somalia. Local militia wanted to clear the area for a base. 
 
 

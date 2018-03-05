@@ -7,7 +7,7 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 ### [The Pacific-10 Conference, after being turned down by several Texas and Oklahoma schools in its effort to expand to 12 or more members, invites the University of Utah to become its 12th member. ](/news/2010/06/16/the-pacific-10-conference-after-being-turned-down-by-several-texas-and-oklahoma-schools-in-its-effort-to-expand-to-12-or-more-members-invi.md)
 Utah will join the Pac-10 Conference as its 12th team, with an announcement coming as soon as Friday, a source tells ESPN.
 
-##### Italy
+##### Italians
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)
 Remains found in a Tuscany church almost certainly belong to Renaissance artist Caravaggio, researchers say.
 

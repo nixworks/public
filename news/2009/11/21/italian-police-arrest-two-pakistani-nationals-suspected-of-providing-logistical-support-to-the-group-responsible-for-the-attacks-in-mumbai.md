@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-s
 
 ### [2009-11-21](/news/2009/11/21/index.md)
 
-##### Italy
+##### Italians
 #  Italian police arrest two Pakistani nationals suspected of providing logistical support to the group responsible for the attacks in Mumbai in 2008. 
 
 Italian anti-terrorist police have arrested two Pakistanis suspected of helping to finance the Islamic militant group responsible for the attacks on Mumbai in November 2008, that killed 166 people.

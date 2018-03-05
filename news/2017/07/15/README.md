@@ -25,7 +25,7 @@ Tehran police shot dead a man who attacked a clergyman and other people with a k
 
 ##### South China Sea disputes
 ### [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md)
-_Context: Chinese, Indonesia, Natuna, South China Sea, South China Sea disputes_
+_Context: China, Indonesia, Natuna, South China Sea, South China Sea disputes_
 
 ##### Dakar
 ### [At least eight people are killed in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md)

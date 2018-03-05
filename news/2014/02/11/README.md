@@ -31,9 +31,9 @@ _Context: North Korea, United States_
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
 _Context: Cyprus dispute_
 
-##### Chinese
+##### China
 ### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
-_Context: Chinese, Taiwan_
+_Context: China, Taiwan_
 
 ##### Military transport plane has crashed
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)

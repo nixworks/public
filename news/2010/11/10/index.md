@@ -61,7 +61,7 @@ _Context: 3D Express Coach, Beijing_
 
 ##### Film producer
 ### [Italian film producer Dino De Laurentiis ("Serpico", "Death Wish") dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-seven.md)
-_Context: California, Death Wish, Dino De Laurentiis, Italy, Los Angeles, California, Serpico, United States, film producer_
+_Context: California, Death Wish, Dino De Laurentiis, Italians, Los Angeles, California, Serpico, United States, film producer_
 
 ##### Time
 ### [An article in "Time" states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliated.md)

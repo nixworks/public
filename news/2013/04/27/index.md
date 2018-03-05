@@ -3,7 +3,7 @@ Formats: [HTML](2013/04/27/index.html)  [JSON](2013/04/27/index.json)  [XML](201
 
 ## [2013-04-27](/news/2013/04/27/index.md)
 
-##### Italy
+##### Italians
 ### [A deal on the formation of a new government has been reached in Italy, two months after the 2013 Italian parliamentary election was held. ](/news/2013/04/27/a-deal-on-the-formation-of-a-new-government-has-been-reached-in-italy-two-months-after-the-2013-italian-parliamentary-election-was-held.md)
 A new government is agreed in Italy by PM-designate Enrico Letta, ending two months of political deadlock since the general election.
 

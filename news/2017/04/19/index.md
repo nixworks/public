@@ -27,9 +27,9 @@ _Context: House Oversight Committee, Jason Chaffetz, United States House of Repr
 ### [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md)
 Party supports fixed-term parliaments but says it will not stand in the way of an early election.
 
-##### Caretaker
+##### Federal elections
 ### [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md)
-_Context: Alternative for Germany, Frauke Petry, caretaker_
+_Context: Alternative for Germany, Frauke Petry, federal elections_
 
 ##### Last month's presidential election
 ### [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md)

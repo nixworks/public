@@ -59,7 +59,7 @@ Iranian newspapers retouch a photograph of EU foreign policy chief Baroness Asht
 ### [Former Kyrgyz energy minister Saparbek Balkibekov, who fled the country during the 2010 uprising, is detained in Ireland by an Interpol operation. ](/news/2011/01/26/former-kyrgyz-energy-minister-saparbek-balkibekov-who-fled-the-country-during-the-2010-uprising-is-detained-in-ireland-by-an-interpol-oper.md)
 _Context: 2010 uprising, Interpol, Ireland, Kyrgyzstan_
 
-##### Switzerland
+##### Swiss
 ### [Switzerland adopts European Union sanctions against Iran's energy, nuclear and weapons sectors, but an 18-22 billion euro Swiss EGL gas contract with the National Iranian Gas Export Company has not been canceled. ](/news/2011/01/26/switzerland-adopts-european-union-sanctions-against-iranas-energy-nuclear-and-weapons-sectors-but-an-18-22-billion-euro-swiss-egl-gas-co.md)
 Giant gas deal with Iran still on; sanctions target Iranian energy, nuclear proliferation and weapons sectors.
 
@@ -73,11 +73,11 @@ _Context: Central Bank of West African States, Ivory Coast, Laurent Gbagbo_
 
 ##### World Economic Forum
 ### [The 41st World Economic Forum opens in Davos, Switzerland. ](/news/2011/01/26/the-41st-world-economic-forum-opens-in-davos-switzerland.md)
-_Context: Davos, Switzerland, World Economic Forum_
+_Context: Davos, Swiss, World Economic Forum_
 
-##### Chinese
+##### China
 ### [The newly released figures show China had 6.31 million new college graduates, and about 90.7 percent of them found employment by the end of 2010, which represented a 3 percent year-on-year increase. ](/news/2011/01/26/the-newly-released-figures-show-china-had-6-31-million-new-college-graduates-and-about-90-7-percent-of-them-found-employment-by-the-end-of.md)
-_Context: Chinese, employment, million_
+_Context: China, employment, million_
 
 ##### Canada
 ### [Canadian singer Mary-Lu Zahalan-Kennedy becomes the first person in the world to graduate with a Masters degree in The Beatles, which she studied at Liverpool Hope University. ](/news/2011/01/26/canadian-singer-mary-lu-zahalan-kennedy-becomes-the-first-person-in-the-world-to-graduate-with-a-masters-degree-in-the-beatles-which-she-st.md)

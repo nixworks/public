@@ -53,11 +53,11 @@ _Context: Islamabad, Marriott International, Pakistan, bombed_
 
 ##### China
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China, Denmark, Gulf of Aden, Italy, Navy, People's Liberation Army Navy, Somali pirates, Somalia, merchant vessel_
+_Context: China, Denmark, Gulf of Aden, Italians, Navy, People's Liberation Army Navy, Somali pirates, Somalia, merchant vessel_
 
-##### Switzerland
+##### Swiss
 ### [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md)
-_Context: CEO, Credit Suisse, Oswald Grubel, Switzerland, UBS AG_
+_Context: CEO, Credit Suisse, Oswald Grubel, Swiss, UBS AG_
 
 ##### General Motors
 ### [ General Motors reports a US$9.6 billion loss, due to the current automotive industry crisis. ](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.md)

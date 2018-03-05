@@ -3,17 +3,17 @@ Formats: [HTML](2009/12/29/index.html)  [JSON](2009/12/29/index.json)  [XML](200
 
 ## [2009-12-29](/news/2009/12/29/index.md)
 
-##### Italy
+##### Italians
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Italy, United States_
+_Context: Afghanistan, Badghis Province, Italians, United States_
 
 ##### United States
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
 _Context: China, Christian, Media of North Korea, North Korea, United States_
 
-##### Chinese
+##### China
 ### [ China displaces the U.S. as the largest overall buyer of Japanese goods in 2009. ](/news/2009/12/29/china-displaces-the-u-s-as-the-largest-overall-buyer-of-japanese-goods-in-2009.md)
-_Context: Chinese, Japan, U.S._
+_Context: China, Japan, U.S._
 
 ##### Somali pirates
 ### [ Somali pirates seize UK and Panamanian-flagged ships with international crews on board in the Gulf of Aden. ](/news/2009/12/29/somali-pirates-seize-uk-and-panamanian-flagged-ships-with-international-crews-on-board-in-the-gulf-of-aden.md)

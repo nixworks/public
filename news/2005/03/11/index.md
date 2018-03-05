@@ -15,9 +15,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ The former chess world champion Garry Kasparov announces he is going to retire from professional competitions ](/news/2005/03/11/the-former-chess-world-champion-garry-kasparov-announces-he-is-going-to-retire-from-professional-competitions.md)
 _Context: Garry Kasparov, chess_
 
-##### Switzerland
+##### Swiss
 ### [ President of Switzerland, Samuel Schmid, speaks in Madrid in a conference on terrorism and urges countries to respect international law and human rights ](/news/2005/03/11/president-of-switzerland-samuel-schmid-speaks-in-madrid-in-a-conference-on-terrorism-and-urges-countries-to-respect-international-law-and.md)
-_Context: Madrid, Samuel Schmid, Switzerland, human rights, international law, terrorism_
+_Context: Madrid, Samuel Schmid, Swiss, human rights, international law, terrorism_
 
 ##### Abu Ghraib
 ### [ Released official documents have confirmed that the U.S. held children as young as 11 years old at the Abu Ghraib prison in Iraq. ](/news/2005/03/11/released-official-documents-have-confirmed-that-the-u-s-held-children-as-young-as-11-years-old-at-the-abu-ghraib-prison-in-iraq.md)

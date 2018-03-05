@@ -27,7 +27,7 @@ Fears have been raised about democracy after the National Assembly was stripped 
 ### [Authorities arrest Impeached South Korean President Park Geun-hye on charges of bribery, abuse of authority, coercion, and leaking government secrets. ](/news/2017/03/30/authorities-arrest-impeached-south-korean-president-park-geun-hye-on-charges-of-bribery-abuse-of-authority-coercion-and-leaking-governmen.md)
 Park Geun-hye is taken to a detention centre south of Seoul after a court approves her arrest.
 
-##### Italy
+##### Italians
 ### [Italian police arrest 34 people of a drug gang who reportedly planned to steal Enzo Ferrari's corpse, and hold it for ransom. ](/news/2017/03/30/italian-police-arrest-34-people-of-a-drug-gang-who-reportedly-planned-to-steal-enzo-ferrari-s-corpse-and-hold-it-for-ransom.md)
 Thirty-four people were arrested just as the gang was about to launch its scheme to dig up the founder of Ferrari, police said.
 

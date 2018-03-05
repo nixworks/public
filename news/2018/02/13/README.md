@@ -17,7 +17,7 @@ Russia has threatened to block access to YouTube and Instagram if the sites do n
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Hamburg, Martin Schulz, Olaf Scholz, Politics of Germany, Social Democratic Party of Germany, mayor_
+_Context: Hamburg, Martin Schulz, Olaf Scholz, Politics of Germany, SPD, mayor_
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)

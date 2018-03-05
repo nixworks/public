@@ -61,7 +61,7 @@ With the scandal over alleged manipulation of a critical global interest rate th
 
 ##### Moody's Investor Services
 ### [Moody's Investor Services downgrades Italy's government rating from A3 to Baa2. ](/news/2012/07/13/moody-s-investor-services-downgrades-italy-s-government-rating-from-a3-to-baa2.md)
-_Context: Italy, Moody's Investor Services_
+_Context: Italians, Moody's Investor Services_
 
 ##### Academy Award
 ### [Academy Award winning producer Richard D. Zanuck dies in Los Angeles of a heart attack. ](/news/2012/07/13/academy-award-winning-producer-richard-d-zanuck-dies-in-los-angeles-of-a-heart-attack.md)

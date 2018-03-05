@@ -39,7 +39,7 @@ In remarks that could be viewed as a shot across the bow at Russian intervention
 ### [Hundreds of evacuation centres are activated in Fiji as Cyclone Winston makes landfall in Fiji's outer islands and heads towards islands with higher population. ](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in-fiji-as-cyclone-winston-makes-landfall-in-fiji-s-outer-islands-and-heads-towards-islands-wit.md)
 Hundreds of evacuation centres are activated as a powerful category five cyclone lashes Fiji&#039;s outer islands.
 
-##### Italy
+##### Italians
 ### [Italian refugee documentary "Fire at Sea", directed by Gianfranco Rosi, wins the 66th Berlin International Film Festival's Golden Bear award for best film. ](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directed-by-gianfranco-rosi-wins-the-66th-berlin-international-film-festival-s-golden-bear-award.md)
 “Fire at Sea,” Gianfranco Rosi’s Italian documentary about the refugee crisis on the island of Lampedusa, won the 66th Berlin Film Festival’s Golden Bear for Best Film on Saturday. The pic’s win ca…
 

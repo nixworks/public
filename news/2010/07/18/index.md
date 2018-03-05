@@ -57,7 +57,7 @@ Israel must go beyond easing its blockade of Gaza and throw open its border, EU 
 
 ##### United Kingdom
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan. ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-sou.md)
-_Context: Chinese, Russia, South America, United Kingdom, eastern Europe, international aid_
+_Context: China, Russia, South America, United Kingdom, eastern Europe, international aid_
 
 ##### Prime Minister
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)
@@ -89,7 +89,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Bus
 ### [A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. ](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-autonomous-prefecture-in-southwestern-china-resulting-in-the-death-of-23-people.md)
-_Context: Chinese, Tibetan Autonomous Prefecture of Garze, bus, cliff_
+_Context: China, Tibetan Autonomous Prefecture of Garze, bus, cliff_
 
 ##### Puke
 ### [At least 14 people are killed and at least 12 others sustain wounds after a bus plummets off a cliff in Puke, Albania; a national day of mourning is declared. ](/news/2010/07/18/at-least-14-people-are-killed-and-at-least-12-others-sustain-wounds-after-a-bus-plummets-off-a-cliff-in-puka-albania-a-national-day-of-mo.md)

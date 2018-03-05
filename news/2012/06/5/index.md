@@ -17,7 +17,7 @@ _Context: Der Spiegel, German, Israel, nuclear-tipped cruise missiles, submarine
 
 ##### President
 ### [The President of Russia, Vladimir Putin, begins a three-day visit to China. ](/news/2012/06/5/the-president-of-russia-vladimir-putin-begins-a-three-day-visit-to-china.md)
-_Context: Chinese, President, Vladimir Putin_
+_Context: China, President, Vladimir Putin_
 
 ##### Between
 ### [Amidst growing diplomatic tensions between Romania and Hungary, ignoring an official request not to, the Speaker of the Hungarian Parliament undergoes a visit in Transylvania triggering protests from Romanian state dignitaries. ](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.md)

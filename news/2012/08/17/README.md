@@ -17,7 +17,7 @@ Court sentences three members of band to two-year jail terms for performing prot
 
 ##### Jang Song-thaek
 ### [Jang Song-thaek, the uncle of North Korean leader Kim Jong-un, meets Chinese president Hu Jintao. ](/news/2012/08/17/jang-song-thaek-the-uncle-of-north-korean-leader-kim-jong-un-meets-chinese-president-hu-jintao.md)
-_Context: Chinese, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
+_Context: China, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
 
 ##### Mdecins Sans Frontires
 ### [Mdecins Sans Frontires state that Sudanese refugees are in 'humanitarian disaster' in South Sudan. ](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.md)

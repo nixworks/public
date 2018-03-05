@@ -37,7 +37,7 @@ _Context: Ali Gomaa, Egypt, Grand Mufti, Islam, Lubna al-Hussein, Sudan, lashes_
 
 ##### Car bomb
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghanistan, ISAF, Italy, Kabul, car bomb_
+_Context: Afghanistan, ISAF, Italians, Kabul, car bomb_
 
 ##### Ethiopia
 ### [ Ethiopia's Prime Minister Meles Zenawi denounces an International Crisis Group (ICG) report that warns his country could descend into ethnic violence ahead of its first national election since a 2005 poll triggered deadly street clashes. ](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.md)

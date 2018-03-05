@@ -19,7 +19,7 @@ _Context: Mongolia, Nambaryn Enkhbayar_
 ### [British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/british-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british-prime-minister-to-visit-that-coun.md)
 The Prime Minister David Cameron today called for sanctions against Burma to be eased as he made a historic visit to the country.
 
-##### Chinese
+##### China
 ### [A standoff between Chinese and Filipino ships at the Scarborough Shoal in the South China Sea continues. ](/news/2012/04/13/a-standoff-between-chinese-and-filipino-ships-at-the-scarborough-shoal-in-the-south-china-sea-continues.md)
 * One Chinese ship withdrawn, two remain * Three of 8 Chinese fishing vessels leave shoal * Philippine navy sends ship to disputed area * Diplo
 

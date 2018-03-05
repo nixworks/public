@@ -15,9 +15,9 @@ Los Angeles prosecutors have formally charged Robert Durst, subject of HBO&#8217
 ### [An Egyptian court hands down a death sentence to Muslim Brotherhood leader Mohammed Badie and thirteen others. ](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.md)
 An Egyptian court hands down death sentences to Muslim Brotherhood leader Mohammed Badie and 13 others, state media reports.
 
-##### Italy
+##### Italians
 ### [Italian police arrest four people while 51 others are under investigation for corruption associated with public works including a stretch of the high-speed rail line near Florence. ](/news/2015/03/16/italian-police-arrest-four-people-while-51-others-are-under-investigation-for-corruption-associated-with-public-works-including-a-stretch-of.md)
-_Context: Florence, Italy_
+_Context: Florence, Italians_
 
 ##### President
 ### [The President of Russia, Vladimir Putin, orders troops placed on full readiness in snap drills citing increased NATO exercises as the reason. ](/news/2015/03/16/the-president-of-russia-vladimir-putin-orders-troops-placed-on-full-readiness-in-snap-drills-citing-increased-nato-exercises-as-the-reason.md)

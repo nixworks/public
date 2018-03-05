@@ -17,7 +17,7 @@ _Context: Asia, Pope Francis, Sri Lanka_
 
 ##### Ebola virus epidemic in West Africa
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
-_Context: Chinese, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
+_Context: China, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_
 
 ##### World Health Organization
 ### [The World Health Organization monitors an avian flu outbreak in Taiwan, as H5N8 avian flu virus infects nine farms. ](/news/2015/01/13/the-world-health-organization-monitors-an-avian-flu-outbreak-in-taiwan-as-h5n8-avian-flu-virus-infects-nine-farms.md)

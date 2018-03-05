@@ -17,7 +17,7 @@ _Context: Assam, Brahmaputra river, Floods, India, million_
 
 ##### Kurt Beck
 ### [ Kurt Beck, the chairman of the Social Democratic Party of Germany steps down. According to media reports, Frank Walter Steinmeier will become the candidate for Chancellor of Germany in the 2009 elections. ](/news/2008/09/7/kurt-beck-the-chairman-of-the-social-democratic-party-of-germany-steps-down-according-to-media-reports-frank-walter-steinmeier-will-beco.md)
-_Context: Chancellor, Frank Walter Steinmeier, Kurt Beck, Social Democratic Party of Germany, federal election_
+_Context: Chancellor, Frank Walter Steinmeier, Kurt Beck, SPD, federal election_
 
 ##### Stephen Harper
 ### [ Canadian Prime Minister Stephen Harper has announced an early election scheduled for October 14. ](/news/2008/09/7/canadian-prime-minister-stephen-harper-has-announced-an-early-election-scheduled-for-october-14.md)

@@ -11,9 +11,9 @@ For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet c
 ### [Brazil's Supreme Court voted 8-2 to take over the corruption investigation of former President Luiz Inacio Lula da Silva. Silva alleges Judge Sergio Moro unfairly targets him. The court also overruled Moro's decision to release the recording of Silva's call with President Dilma Rousseff, since it is the only court that can authorize a wiretap on presidential conversations. The full court is still to rule on the injunction that prevents Silva from taking office as the President's Chief of Staff. ](/news/2016/03/31/brazil-s-supreme-court-voted-8-2-to-take-over-the-corruption-investigation-of-former-president-luiz-ina-cio-lula-da-silva-silva-alleges-jud.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Italy
+##### Italians
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
-_Context: Federica Guidi, Italy, Minister of Economic Development_
+_Context: Federica Guidi, Italians, Minister of Economic Development_
 
 ##### National Assembly
 ### [Venezuela's National Assembly, responding to last month's Central Bank of Venezuela report that the country experienced a 180.9 percent inflation increase in 2015, passes legislation, "The Law of Bonds for Food and Medicine for Retirees and Pensioners", that could make it easier for pensioners and retirees to pay for food and medicine. The approved bill has been forwarded for President Nicolas Maduro's signature. ](/news/2016/03/31/venezuela-s-national-assembly-responding-to-last-month-s-central-bank-of-venezuela-report-that-the-country-experienced-a-180-9-percent-infl.md)

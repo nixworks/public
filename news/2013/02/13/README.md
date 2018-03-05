@@ -33,7 +33,7 @@ The EU urges members to conduct random DNA tests on processed beef for three mon
 
 ##### Tibetan Buddhist
 ### [A Tibetan monk sets himself on fire near Boudhanath in Nepal in protest of the Chinese occupation of Tibet. ](/news/2013/02/13/a-tibetan-monk-sets-himself-on-fire-near-boudhanath-in-nepal-in-protest-of-the-chinese-occupation-of-tibet.md)
-_Context: Boudhanath, Chinese, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
+_Context: Boudhanath, China, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
 
 ##### Antonov An-24
 ### [South Airlines Flight 8971: An Antonov An-24 aircraft carrying 44 passengers and 8 crew members crash lands near the Eastern Ukrainian city of Donetsk, killing 4 people on board and injuring 8 others. ](/news/2013/02/13/south-airlines-flight-8971-an-antonov-an-24-aircraft-carrying-44-passengers-and-8-crew-members-crash-lands-near-the-eastern-ukrainian-city.md)

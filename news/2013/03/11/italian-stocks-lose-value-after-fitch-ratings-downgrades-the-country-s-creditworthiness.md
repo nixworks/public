@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-d
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### Italy
+##### Italians
 # Italian stocks lose value after Fitch Ratings downgrades the country's creditworthiness. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-d
 
 ### Related:
 
-1. [Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-including-spain-and-italy-on.md) _Context: Fitch Ratings, Italy_
-2. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
-3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
-4. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
-5. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Italy_
+1. [Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-including-spain-and-italy-on.md) _Context: Fitch Ratings, Italians_
+2. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+3. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
+4. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_
+5. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italians_

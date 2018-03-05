@@ -37,7 +37,7 @@ _Context: Eastern U.S., January 2016 United States blizzard_
 
 ##### January 2016 East Asia cold wave
 ### [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md)
-_Context: Asia, Chinese, January 2016 East Asia cold wave, South Korea, Taiwan_
+_Context: Asia, China, January 2016 East Asia cold wave, South Korea, Taiwan_
 
 ##### Parks system
 ### [Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as "American Falls") within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. ](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.md)

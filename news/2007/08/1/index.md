@@ -19,7 +19,7 @@ _Context: Canary Islands', Gran Canaria, Jose Luis Rodriguez Zapatero, Prime Min
 ### [ The US House of Representatives passes a resolution to lift travel restrictions on Taiwan's president and other high-level officials visiting the United States. ](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.md)
 The House of Representatives passed a resolution Monday that recommends the lifting of restrictions on Taiwan’s president and other high-level officials visiting the United States.
 
-##### Chinese
+##### China
 ### [ Sixty-nine Chinese coal miners are rescued from the Zhijian Mine in Henan province. ](/news/2007/08/1/sixty-nine-chinese-coal-miners-are-rescued-from-the-zhijian-mine-in-henan-province.md)
 Authorities in China say rescuers have pulled out 69 coal miners alive, ending a terrifying three-day ordeal in which the trapped men survived on milk and pumped-in oxygen.
 

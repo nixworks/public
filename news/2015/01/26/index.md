@@ -11,9 +11,9 @@ _Context: Church of England, Libby Lane, United Kingdom, York Minster_
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)
 _Context: Greek elections, Independent Greeks, SYRIZA, coalition_
 
-##### Chinese
+##### China
 ### [Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. ](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-communist-party-secretary-of-nanjing-following-the-investigation-and-dismissal-of-former-party.md)
-_Context: Chinese, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
+_Context: China, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
 
 ##### US Eastern District Court of Virginia
 ### [The US Eastern District Court of Virginia convicts a disgruntled former CIA officer, Jeffrey Alexander Sterling, of leaking secrets to a reporter. All nine charges he faced stem from a secret CIA mission to derail Iran's nuclear weapons program. ](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.md)

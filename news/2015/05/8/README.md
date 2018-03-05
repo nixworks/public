@@ -33,7 +33,7 @@ West African nations implement 2013 ruling by international court of justice to 
 
 ##### Russia
 ### [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md)
-_Context: Chinese, Russia, US$_
+_Context: China, Russia, US$_
 
 ##### Piper PA-32
 ### [A Piper PA-32 plane crashes onto the motorway near DeKalb-Peachtree Airport, Atlanta, Georgia killing all four passengers. Interstate 285 is closed in both directions. ](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.md)

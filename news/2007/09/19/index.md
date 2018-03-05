@@ -3,7 +3,7 @@ Formats: [HTML](2007/09/19/index.html)  [JSON](2007/09/19/index.json)  [XML](200
 
 ## [2007-09-19](/news/2007/09/19/index.md)
 
-##### Chinese
+##### China
 ### [ Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-inland.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.
 

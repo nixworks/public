@@ -15,7 +15,7 @@ _Context: 2016 U.S. election, Connecticut, Gary Johnson, Libertarian_
 ### [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md)
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.
 
-##### Chinese
+##### China
 ### [Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/chinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md)
 The presence of Chinese ships near Scarborough Shoal during a Group of 20 summit meeting unsettled the Philippines, which also claims the reef.
 

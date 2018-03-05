@@ -7,9 +7,9 @@ Formats: [HTML](2006/05/18/index.html)  [JSON](2006/05/18/index.json)  [XML](200
 ### [ Typhoon Chanchu, the strongest storm on record to have entered the South China Sea in May, makes landfall between the cities of Shantou, Guangdong and Xiamen, Fujian in China. ](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Italy
+##### Italians
 ### [ New Italian prime minister Romano Prodi pledges to withdraw Italian troops from Iraq and calls the Iraq war a "grave mistake that has not solved but increased the problem of security". ](/news/2006/05/18/new-italian-prime-minister-romano-prodi-pledges-to-withdraw-italian-troops-from-iraq-and-calls-the-iraq-war-a-grave-mistake-that-has-not-s.md)
-_Context: Iraq, Iraq war, Italy, Romano Prodi, prime minister_
+_Context: Iraq, Iraq war, Italians, Romano Prodi, prime minister_
 
 ##### European Parliament
 ### [ The European Parliament committee examining the claims of para-legal deportations of individuals for torture-based questioning, known as "extraordinary renditions", reports that it has CIA confirmation that between 30 and 50 individuals underwent such deportations to seven "black sites" in Asia, Europe and Africa. Those in Europe have reportedly been closed down following the public outcry, but there is still one such site operating in a North African country. ](/news/2006/05/18/the-european-parliament-committee-examining-the-claims-of-para-legal-deportations-of-individuals-for-torture-based-questioning-known-as-e.md)

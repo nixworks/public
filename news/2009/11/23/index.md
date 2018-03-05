@@ -49,7 +49,7 @@ _Context: Russia, Ulyanovsk, previous explosion at the same site_
 
 ##### Large Hadron Collider
 ### [ The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. ](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.md)
-_Context: CERN, Geneva, Large Hadron Collider, Switzerland_
+_Context: CERN, Geneva, Large Hadron Collider, Swiss_
 
 ##### Maguindanao massacre
 ### [ Forty three people, including a local politician and about a dozen journalists, are killed in a massacre in Maguindanao, Philippines.](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.md)

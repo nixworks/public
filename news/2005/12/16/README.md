@@ -17,7 +17,7 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 
 ##### Liaoyuan
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Changchun, Chinese, Jilin Province, Liaoyuan_
+_Context: Changchun, China, Jilin Province, Liaoyuan_
 
 ##### Hamas
 ### [ Hamas, the main Palestinian opposition party make a large series of gains in the West Bank municipal elections. ](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.md)

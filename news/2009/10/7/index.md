@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/7/index.html)  [JSON](2009/10/7/index.json)  [XML](2009/
 
 ##### The Red Book
 ### [ "The Red Book" by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
-_Context: Carl Jung, Switzerland, The Red Book, psychiatrist_
+_Context: Carl Jung, Swiss, The Red Book, psychiatrist_
 
 ##### Magnitude
 ### [ A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. ](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-followed-15-minutes-later-by-a-7-3-magnitude-aftershock-a-tsunami-warning-is-issued.md)
@@ -17,7 +17,7 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 
 ##### Constitutional Court
 ### [ The Constitutional Court of Italy overturns a law offering Prime Minister Silvio Berlusconi immunity from prosecution while in office, ruling it unconstitutional. ](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.md)
-_Context: Constitutional Court, Italy, Prime Minister of Italy, Silvio Berlusconi, immunity from prosecution_
+_Context: Constitutional Court, Italians, Prime Minister of Italy, Silvio Berlusconi, immunity from prosecution_
 
 ##### Taiwan
 ### [ Taiwan's National Palace Museum refuses to display two artifacts stolen from China 150 years ago. ](/news/2009/10/7/taiwan-s-national-palace-museum-refuses-to-display-two-artifacts-stolen-from-china-150-years-ago.md)

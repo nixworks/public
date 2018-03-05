@@ -39,13 +39,13 @@ _Context: Samuel Ong, sedition, wiretapped_
 ### [ In the Philippines, president Gloria Arroyo's press secretary Ignacio Bunye states that the president is ready to face proper impeachment charges if the opposition follows the proper legal process. Many politicians have expressed support to her. ](/news/2005/06/13/in-the-philippines-president-gloria-arroyo-s-press-secretary-ignacio-bunye-states-that-the-president-is-ready-to-face-proper-impeachment-c.md)
 _Context: Gloria Arroyo, Ignacio Bunye, Philippines, impeachment_
 
-##### Italy
+##### Italians
 ### [ Italians end voting in a two-day referendum about strict fertility treatment laws. The Catholic Church has recommended that Catholics boycott the poll, which needs 50% turnout to be valid. Initial turnout has been low and it is projected not to reach the 50% level. ](/news/2005/06/13/italians-end-voting-in-a-two-day-referendum-about-strict-fertility-treatment-laws-the-catholic-church-has-recommended-that-catholics-boyco.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ##### Flash flood
 ### [ Ninety-two people, almost all children, have died after a flash flood hit a school in Shalan, Heilongjiang province, China. ](/news/2005/06/13/ninety-two-people-almost-all-children-have-died-after-a-flash-flood-hit-a-school-in-shalan-heilongjiang-province-china.md)
-_Context: Chinese, Heilongjiang, Shalan, flash flood_
+_Context: China, Heilongjiang, Shalan, flash flood_
 
 ##### Sweden
 ### [ Swedish diplomat Jan Eliasson is unanimously elected President of the United Nations General Assembly. He will take over the presidency on September 20, 2005. ](/news/2005/06/13/swedish-diplomat-jan-eliasson-is-unanimously-elected-president-of-the-united-nations-general-assembly-he-will-take-over-the-presidency-on.md)

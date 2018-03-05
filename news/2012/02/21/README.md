@@ -29,7 +29,7 @@ SEOUL, Feb. 21 (Yonhap) -- National Assembly Speaker Park Hee-tae was indicted w
 
 ##### Liaoning
 ### [A blast at a steel plant in Liaoning, northeastern China, kills 13 people and injures 17. ](/news/2012/02/21/a-blast-at-a-steel-plant-in-liaoning-northeastern-china-kills-13-people-and-injures-17.md)
-_Context: Chinese, Liaoning_
+_Context: China, Liaoning_
 
 ##### Euro zone
 ### [Euro zone finance ministers reach an agreement on a second Greek bailout. ](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.md)

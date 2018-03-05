@@ -3,9 +3,9 @@ Formats: [HTML](2009/05/18/index.html)  [JSON](2009/05/18/index.json)  [XML](200
 
 ## [2009-05-18](/news/2009/05/18/index.md)
 
-##### Italy
+##### Italians
 ### [ Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. ](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.md)
-_Context: Camorra, Italy, Marbella, Raffaele Amato, Spain_
+_Context: Camorra, Italians, Marbella, Raffaele Amato, Spain_
 
 ##### United States
 ### [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md)

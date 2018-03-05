@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/12/index.html)  [JSON](2009/07/12/index.json)  [XML](200
 ### [ Head of the CIA Leon Panetta accuses former United States Vice President Dick Cheney of hiding an intelligence program from Congress. ](/news/2009/07/12/head-of-the-cia-leon-panetta-accuses-former-united-states-vice-president-dick-cheney-of-hiding-an-intelligence-program-from-congress.md)
 _Context: CIA, Congress, Dick Cheney, Leon Panetta, U.S. Vice President, United States_
 
-##### Italy
+##### Italians
 ### [ Kidnapped Italian Red Cross volunteer Eugenio Vagni is freed by Abu Sayyaf. ](/news/2009/07/12/kidnapped-italian-red-cross-volunteer-eugenio-vagni-is-freed-by-abu-sayyaf.md)
-_Context: Abu Sayyaf, Italy, Red Cross_
+_Context: Abu Sayyaf, Italians, Red Cross_
 
 ##### Democratic Party
 ### [ The opposition Democratic Party of Japan wins the most seats in the Tokyo prefectural election. ](/news/2009/07/12/the-opposition-democratic-party-of-japan-wins-the-most-seats-in-the-tokyo-prefectural-election.md)

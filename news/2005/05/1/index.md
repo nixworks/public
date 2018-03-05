@@ -7,7 +7,7 @@ Formats: [HTML](2005/05/1/index.html)  [JSON](2005/05/1/index.json)  [XML](2005/
 ### [ Honduran president Ricardo Maduro, and his daughter survive with minor injuries when their plane crashes into the sea near Tela. ](/news/2005/05/1/honduran-president-ricardo-maduro-and-his-daughter-survive-with-minor-injuries-when-their-plane-crashes-into-the-sea-near-tela.md)
 _Context: Honduras, Ricardo Maduro, Tela_
 
-##### Italy
+##### Italians
 ### [ Italy intends to publish its own view of the killing of Nicola Calipari. Italian media has released classified details about a report the United States made. ](/news/2005/05/1/italy-intends-to-publish-its-own-view-of-the-killing-of-nicola-calipari-italian-media-has-released-classified-details-about-a-report-the-u.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

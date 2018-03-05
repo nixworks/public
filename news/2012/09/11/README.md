@@ -49,7 +49,7 @@ The 2013 Congress must make progress, ratings agency warns.
 
 ##### Milan
 ### [Two people are shot dead at close range in the center of Milan. Hours later, another shooting in plain view shakes the financial capital of Italy. ](/news/2012/09/11/two-people-are-shot-dead-at-close-range-in-the-center-of-milan-hours-later-another-shooting-in-plain-view-shakes-the-financial-capital-of.md)
-_Context: Italy, Milan_
+_Context: Italians, Milan_
 
 ##### Corte
 ### [Three people are found shot dead in a car near Corte, on the French island of Corsica. ](/news/2012/09/11/three-people-are-found-shot-dead-in-a-car-near-corte-on-the-french-island-of-corsica.md)

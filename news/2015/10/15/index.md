@@ -33,7 +33,7 @@ The Navy is scrambling a ship and an underwater search team to find the missing 
 
 ##### Vietnam
 ### [Vietnam says a Chinese vessel rammed into and sank one of its fishing boats near disputed islands in the South China Sea. More than 20 Vietnamese fishing boats have been attacked by Chinese vessels this year causing tensions between both countries. ](/news/2015/10/15/vietnam-says-a-chinese-vessel-rammed-into-and-sank-one-of-its-fishing-boats-near-disputed-islands-in-the-south-china-sea-more-than-20-vietn.md)
-_Context: Chinese, South China Sea, Vietnam_
+_Context: China, South China Sea, Vietnam_
 
 ##### Papa John's Pizza
 ### [Four Papa John's Pizza franchise owners agree to a settlement of about $500,000 after admitting to paying employees unfair wages, according to Thursday's announcement by New York attorney general Eric Schneiderman and the U.S. Labor Department. Schneiderman has reached settlements with several other Papa John's franchises, including one for over $2 million. Out-of-court settlements have also been reached with other fast-food franchises. ](/news/2015/10/15/four-papa-john-s-pizza-franchise-owners-agree-to-a-settlement-of-about-500-000-after-admitting-to-paying-employees-unfair-wages-according.md)

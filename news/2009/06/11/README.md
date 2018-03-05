@@ -75,17 +75,17 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 ### [ Campaigning in Iran's presidential election ends after three weeks of mass rallies and political rhetoric. ](/news/2009/06/11/campaigning-in-iran-s-presidential-election-ends-after-three-weeks-of-mass-rallies-and-political-rhetoric.md)
 _Context: Iran, re-election_
 
-##### Chinese
+##### China
 ### [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md)
-_Context: Bermuda, Chinese, Guantanamo Bay detention camp, Uyghur_
+_Context: Bermuda, China, Guantanamo Bay detention camp, Uyghur_
 
 ##### RTE
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)
 RTÉ Director-General Cathal Goan has told an Oireachtas Committee that the national broadcaster is not facing bankruptcy.
 
-##### Italy
+##### Italians
 ### [ Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. ](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.md)
-_Context: Italy, Libya, Muammar al-Gaddafi_
+_Context: Italians, Libya, Muammar al-Gaddafi_
 
 ##### World Health Organization
 ### [ The World Health Organization declares the current outbreak of H1N1 to be a "pandemic", the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-apandemica-the-first-since-the-1968-hong-kong-flu.md)

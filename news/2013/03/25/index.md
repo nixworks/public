@@ -35,9 +35,9 @@ _Context: Afghan President, Hamid Karzai, John Kerry, United States Secretary of
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
 The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe following what it called a &quot;successful&quot; constitutional referendum.
 
-##### Chinese
+##### China
 ### [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md)
-_Context: Africa, Chinese, Dar es Salaam, President, Tanzania, Xi Jinping_
+_Context: Africa, China, Chinese President, Dar es Salaam, Tanzania, Xi Jinping_
 
 ##### South Korea
 ### [South Korea signs a new military plan with the United States to counter a possible incursion or a limited attack from North Korea. ](/news/2013/03/25/south-korea-signs-a-new-military-plan-with-the-united-states-to-counter-a-possible-incursion-or-a-limited-attack-from-north-korea.md)

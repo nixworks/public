@@ -31,9 +31,9 @@ _Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, NTSB, Unit
 ### [ Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
 Reports suggest at least 71 people have died from drowning, collapsing walls and electrocution
 
-##### Chinese
+##### China
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
-_Context: Chinese, Zhejiang_
+_Context: China, Zhejiang_
 
 ##### United States
 ### [American, British-based telecommunications and television company Liberty Global announces a GBP3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-agbp3-5bn-us-5-3bn-deal-to-buy-british-multin.md)

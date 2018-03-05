@@ -35,7 +35,7 @@ Officials say the find is linked to a $1bn pyramid scheme involving an internet 
 ### [ Fire destroys a kennel in Wasilla, Alaska, killing 46 Labrador Retrievers. Thirty-two other dogs survive the fire in the licensed shelter. ](/news/2017/01/24/fire-destroys-a-kennel-in-wasilla-alaska-killing-46-labrador-retrievers-thirty-two-other-dogs-survive-the-fire-in-the-licensed-shelter.md)
 _Context: Labrador Retriever, Wasilla, Alaska, kennel_
 
-##### Italy
+##### Italians
 ### [An Italian rescue helicopter, carrying an injured skier from Gran Sasso d'Italia, crashes amid thick fog, killing six people. ](/news/2017/01/24/an-italian-rescue-helicopter-carrying-an-injured-skier-from-gran-sasso-d-italia-crashes-amid-thick-fog-killing-six-people.md)
 The helicopter had just picked up an injured skier from a resort in central Italy when it went down.
 

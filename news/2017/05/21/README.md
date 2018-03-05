@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/21/index.html)  [JSON](2017/05/21/index.json)  [XML](201
 
 ##### Swiss referendums, 2017
 ### [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md)
-_Context: Swiss referendums, 2017, Switzerland, nuclear power in Switzerland_
+_Context: Swiss, Swiss referendums, 2017, nuclear power in Switzerland_
 
 ##### Enes Kanter
 ### [ Enes Kanter, a Turkish player with the NBA's Oklahoma City Thunder, returns to the U.S. after having been briefly detained in Bucharest. Kanter alleged that his public opposition to Turkish president Recep Tayyip Erdogan and support of exiled Islamic cleric Fethullah Gulen had led to the cancellation of his Turkish passport. ](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.md)

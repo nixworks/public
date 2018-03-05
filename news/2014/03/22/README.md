@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/22/index.html)  [JSON](2014/03/22/index.json)  [XML](201
 
 ##### Veneto
 ### [The Veneto region votes to secede from Italy in an informal online referendum. ](/news/2014/03/22/the-veneto-region-votes-to-secede-from-italy-in-an-informal-online-referendum.md)
-_Context: Italy, Veneto, informal online referendum_
+_Context: Italians, Veneto, informal online referendum_
 
 ##### Galveston Bay
 ### [A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/a-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-the-us-state-of-texas-causing-an-oil.md)

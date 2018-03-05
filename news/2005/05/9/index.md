@@ -11,9 +11,9 @@ _Context: Democratic Republic of Congo, Joseph Kabila, Katanga Province, Lumumba
 ### [ Andrs Manuel Lpez Obrador, mayor of Mexico City, announces that he will quit his post on July 31 to concentrate on his campaign to be president of Mexico. ](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
-##### Italy
+##### Italians
 ### [ Italian police in Rome reopen the investigation into the murder of Pier Paolo Pasolini. ](/news/2005/05/9/italian-police-in-rome-reopen-the-investigation-into-the-murder-of-pier-paolo-pasolini.md)
-_Context: Italy, Pier Paolo Pasolini, Rome, Italy, murder_
+_Context: Italians, Pier Paolo Pasolini, Rome, Italy, murder_
 
 ##### Nigeria
 ### [ The Nigerian government charges 80 Biafran separatists with treason. ](/news/2005/05/9/the-nigerian-government-charges-80-biafran-separatists-with-treason.md)
@@ -23,9 +23,9 @@ _Context: Biafra, Nigeria, treason_
 ### [ Hans Blix, former United Nations chief arms inspector, suggests that Iran and Israel could support a ban of uranium enrichment in the Middle East. ](/news/2005/05/9/hans-blix-former-united-nations-chief-arms-inspector-suggests-that-iran-and-israel-could-support-a-ban-of-uranium-enrichment-in-the-middl.md)
 _Context: Hans Blix, Iran, Israel, Middle East, United Nations, uranium enrichment_
 
-##### Italy
+##### Italians
 ### [ In Italy, two Vatican Radio officials, Cardinal Roberto Tucci and Father Pasquale Borgome, have been convicted of polluting the atmosphere with unnecessarily powerful electromagnetic waves that might have causes increased risk of cancer. They receive 10-day suspended sentences. ](/news/2005/05/9/in-italy-two-vatican-radio-officials-cardinal-roberto-tucci-and-father-pasquale-borgome-have-been-convicted-of-polluting-the-atmosphere.md)
-_Context: Italy, Pasquale Borgome, Roberto Tucci, Vatican Radio, cancer, electromagnetic wave_
+_Context: Italians, Pasquale Borgome, Roberto Tucci, Vatican Radio, cancer, electromagnetic wave_
 
 ##### Ecuador
 ### [ In Ecuador, former president Gustavo Noboa is placed under house arrest. ](/news/2005/05/9/in-ecuador-former-president-gustavo-noboa-is-placed-under-house-arrest.md)
@@ -45,7 +45,7 @@ _Context: Indonesia, Suharto_
 
 ##### Peter Friederich
 ### [ Peter Friederich, former Swiss ambassador to Luxembourg, goes on trial for money laundering. ](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.md)
-_Context: Luxembourg, Peter Friederich, Switzerland, money laundering_
+_Context: Luxembourg, Peter Friederich, Swiss, money laundering_
 
 ##### Mars Global Surveyor
 ### [ Re-examination of old images taken by the Mars Global Surveyor several years ago may have led to the identification of the crash site of the Mars Polar Lander, which failed in December 1999. Using insights and techniques developed for analyzing images of the Mars Exploration Rovers, Malin Space Science Systems may have spotted the rocket blast zone, Mars Polar Lander and the parachute. ](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.md)

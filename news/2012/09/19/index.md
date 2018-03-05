@@ -9,7 +9,7 @@ WASHINGTON -- Fourteen federal law enforcement officials -- from field agents in
 
 ##### Police
 ### [A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/a-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-fukuoka-japan.md)
-_Context: Chinese, Fukuoka, Japan, police_
+_Context: China, Fukuoka, Japan, police_
 
 ##### Yoshihiko Noda
 ### [The cabinet of Yoshihiko Noda reverses a pledge made by the Japanese government earlier in the week to end reliance on nuclear power by the 2030s. ](/news/2012/09/19/the-cabinet-of-yoshihiko-noda-reverses-a-pledge-made-by-the-japanese-government-earlier-in-the-week-to-end-reliance-on-nuclear-power-by-the.md)

@@ -9,13 +9,13 @@ _Context: Ivory Coast, Laurent Gbagbo_
 
 ##### Miner
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: Chinese, Henan, coal mine, flood, miner_
+_Context: China, Henan, coal mine, flood, miner_
 
 ##### Victoria
 ### [ Victoria's Labor caucus elects John Brumby as Premier and Rob Hulls as his deputy. ](/news/2007/07/30/victoria-s-labor-caucus-elects-john-brumby-as-premier-and-rob-hulls-as-his-deputy.md)
 A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#039;s premier-elect, with Rob Hulls elected as his deputy.
 
-##### Chinese
+##### China
 ### [ Deaths in China from floods, lightning and landslides during the summer approach 700. ](/news/2007/07/30/deaths-in-china-from-floods-lightning-and-landslides-during-the-summer-approach-700.md)
 Deaths from floods, lightning and landslides across China this summer have reached nearly 700, state media said on Monday, with experts warning that global warming is likely to fuel more violent weather.
 

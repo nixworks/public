@@ -33,7 +33,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Thunderstorm
 ### [At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. ](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-crane-collapses-on-a-temporary-structure-during-a-thunderstorm-in-the-city-of-dongguan-china.md)
-_Context: Chinese, Dongguan, thunderstorm_
+_Context: China, Dongguan, thunderstorm_
 
 ##### 2016 Kumamoto earthquake
 ### [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md)

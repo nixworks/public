@@ -23,7 +23,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### [ United Nations warns that about 90 million Africans could be infected by HIV in the future without further action against the spread of the disease. See AIDS in Africa. ](/news/2005/03/4/united-nations-warns-that-about-90-million-africans-could-be-infected-by-hiv-in-the-future-without-further-action-against-the-spread-of-the.md)
 _Context: AIDS in Africa, Africa, HIV, United Nations_
 
-##### Italy
+##### Italians
 ### [ Abducted Italian journalist Giuliana Sgrena, a reporter for "Il Manifesto", is released in Iraq. An Italian secret service agent, Nicola Calipari, was killed and Sgrena wounded when a U.S. armored vehicle opened fire on her car after it allegedly failed to slow as it approached a checkpoint. ](/news/2005/03/4/abducted-italian-journalist-giuliana-sgrena-a-reporter-for-il-manifesto-is-released-in-iraq-an-italian-secret-service-agent-nicola-ca.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

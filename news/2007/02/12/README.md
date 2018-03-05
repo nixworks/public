@@ -13,7 +13,7 @@ _Context: Arrow missile, Israel, defence ministry_
 
 ##### Taiwan
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China, China, China Shipbuilding Corporation, Chinese Petroleum Corporation, Chunghwa Post, President, Taiwan, Taiwan, United States, coalition allies, independence_
 
 ##### Sea Shepherd
 ### [ The Sea Shepherd Conservation Society claims that one of its ships has collided with a Japanese whaling vessel in the Ross Sea, leading to the Japanese vessel lodging a distress call. ](/news/2007/02/12/the-sea-shepherd-conservation-society-claims-that-one-of-its-ships-has-collided-with-a-japanese-whaling-vessel-in-the-ross-sea-leading-to.md)
@@ -39,9 +39,9 @@ There has been an earthquake off the coast of the Algarve in Portugal.
 ### [ Iraq War: At least 76 people are killed in four bomb attacks in Baghdad. ](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.md)
 _Context: Baghdad, Iraq War, four bomb attacks_
 
-##### Italy
+##### Italians
 ### [ Italian police arrest in raids 15 people who the police claimed were associated with the Red Brigades terrorist group. ](/news/2007/02/12/italian-police-arrest-in-raids-15-people-who-the-police-claimed-were-associated-with-the-red-brigades-terrorist-group.md)
-_Context: Italy, Red Brigades_
+_Context: Italians, Red Brigades_
 
 ##### Iraq
 ### [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in-d.md)

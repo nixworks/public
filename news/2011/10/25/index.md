@@ -27,9 +27,9 @@ _Context: 2011 United States listeriosis outbreak_
 ### [Hurricane Rina strengthens to Category 2 strength as it advances towards Cancun and other resorts on the Mexican Riviera. ](/news/2011/10/25/hurricane-rina-strengthens-to-category-2-strength-as-it-advances-towards-cancun-and-other-resorts-on-the-mexican-riviera.md)
 _Context: Cancun, Category 2, Hurricane Rina, Mexican Riviera_
 
-##### Switzerland
+##### Swiss
 ### [One person is killed and fourteen people injured in an explosion in the Swiss city of Yverdon-les-Bains. ](/news/2011/10/25/one-person-is-killed-and-fourteen-people-injured-in-an-explosion-in-the-swiss-city-of-yverdon-les-bains.md)
-_Context: Switzerland, Yverdon-les-Bains_
+_Context: Swiss, Yverdon-les-Bains_
 
 ##### Ireland
 ### [Following severe flooding in Ireland and parts of the United Kingdom, two apparent flood deaths are reported in the Irish capital Dublin. ](/news/2011/10/25/following-severe-flooding-in-ireland-and-parts-of-the-united-kingdom-two-apparent-flood-deaths-are-reported-in-the-irish-capital-dublin.md)

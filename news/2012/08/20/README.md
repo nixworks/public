@@ -25,7 +25,7 @@ Former tycoon Asil Nadir is found guilty of three counts of stealing millions fr
 
 ##### Gu Kailai
 ### [Gu Kailai, the wife of ousted Chongqing Politburo leader Bo Xilai, is given a suspended death sentence for the murder of Neil Heywood in China. ](/news/2012/08/20/gu-kailai-the-wife-of-ousted-chongqing-politburo-leader-bo-xilai-is-given-a-suspended-death-sentence-for-the-murder-of-neil-heywood-in-chi.md)
-_Context: Bo Xilai, Chinese, Chongqing, Gu Kailai, Neil Heywood, Politburo, suspended death sentence_
+_Context: Bo Xilai, China, Chongqing, Gu Kailai, Neil Heywood, Politburo, suspended death sentence_
 
 ##### Congress
 ### [United States Congressman Todd Akin, who is also a candidate for the United States Senate, says "legitimate rape" would lead to pregnancy only in "really rare" cases. In a follow-up statement, he says that he "clearly misspoke" and that he holds a "deep empathy" for the "thousands of women who are raped each year". He stirs a US-wide controversy over the issue of abortion. ](/news/2012/08/20/united-states-congressman-todd-akin-who-is-also-a-candidate-for-the-united-states-senate-says-legitimate-rape-would-lead-to-pregnancy-on.md)

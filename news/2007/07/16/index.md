@@ -23,7 +23,7 @@ _Context: IAEA, North Korea, Yongbyon Nuclear Scientific Research Center_
 ### [ Israel agrees to remove 178 Palestinian militants from its watch list after they sign a pledge renouncing attacks against it. ](/news/2007/07/16/israel-agrees-to-remove-178-palestinian-militants-from-its-watch-list-after-they-sign-a-pledge-renouncing-attacks-against-it.md)
 _Context: Israel, Palestinian_
 
-##### Chinese
+##### China
 ### [ China punishes 95 officials for allowing workers and children to labour in slave-like conditions in brick kilns. ](/news/2007/07/16/china-punishes-95-officials-for-allowing-workers-and-children-to-labour-in-slave-like-conditions-in-brick-kilns.md)
 China has punished dozens of officials for allowing slave-like exploitation of workers and children in brick kilns, but announced criminal investigations against only six.
 

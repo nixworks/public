@@ -15,7 +15,7 @@ The Ukrainian Verkhovna Rada has appointed Valeriy Heletei defense minister of U
 ### [Russia starts limiting its import of meat from Moldova as a reaction to the European Union Association Agreement signed on 27 June. ](/news/2014/07/3/russia-starts-limiting-its-import-of-meat-from-moldova-as-a-reaction-to-the-european-union-association-agreement-signed-on-27-june.md)
 _Context: Association Agreement, Moldova, Russia_
 
-##### President
+##### Chinese President
 ### [The President of China, Xi Jinping, arrives in South Korea for talks with the President of South Korea, Park Geun-hye, days after a North Korean missile test.](/news/2014/07/3/the-president-of-china-xi-jinping-arrives-in-south-korea-for-talks-with-the-president-of-south-korea-park-geun-hye-days-after-a-north-ko.md)
  Chinese President Xi Jinping arrived in South Korea on Thursday for talks with South Korean President Park Geun-hye, officials said, amid fresh tensions over a series of missile and rocket launches by North Korea.
 

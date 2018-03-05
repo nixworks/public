@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/12/index.html)  [JSON](2009/06/12/index.json)  [XML](200
 
 ##### Japan
 ### [ Two Japanese citizens are detained in Italy after allegedly attempting to take $134 billion worth of U.S. bonds over the border into Switzerland starting the Chiasso financial smuggling case. ](/news/2009/06/12/two-japanese-citizens-are-detained-in-italy-after-allegedly-attempting-to-take-134-billion-worth-of-u-s-bonds-over-the-border-into-switze.md)
-_Context: Chiasso financial smuggling case, Italy, Japan, Switzerland, bonds_
+_Context: Chiasso financial smuggling case, Italians, Japan, Swiss, bonds_
 
 ##### India
 ### [ India is to withdraw troops from Kashmir's towns and cities for the first time in 20 years. ](/news/2009/06/12/india-is-to-withdraw-troops-from-kashmir-s-towns-and-cities-for-the-first-time-in-20-years.md)

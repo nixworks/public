@@ -81,7 +81,7 @@ Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;fo
 
 ##### Civil war
 ### [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md)
-_Context: Italy, Libya, civil war_
+_Context: Italians, Libya, civil war_
 
 ## [Previous Day...](/news/2011/02/22/index.md)
 

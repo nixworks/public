@@ -33,7 +33,7 @@ A Milwaukee gun store will pay $1 million to settle a case with two police offic
 
 ##### North Korea
 ### [North Korea's all-female Moranbong Band, which was formed by leader Kim Jong-un, surprisingly cancels tonight's concert at Beijing's National Centre for the Performing Arts, and two others and returns to Pyongyang. Rumors for the sudden change abound, but no reason has been given. The sudden cancellation could hurt Chinese-North Korean relations, cooler since between Kim assumed power in 2011. ](/news/2015/12/12/north-korea-s-all-female-moranbong-band-which-was-formed-by-leader-kim-jong-un-surprisingly-cancels-tonight-s-concert-at-beijing-s-nationa.md)
-_Context: Beijing, Chinese, Kim Jong-un, Moranbong Band, National Centre for the Performing Arts, North Korea, Pyongyang_
+_Context: Beijing, China, Kim Jong-un, Moranbong Band, National Centre for the Performing Arts, North Korea, Pyongyang_
 
 ##### Japan
 ### [Japan and India sign an agreement on high-speed rail, defence technology and a memorandum of understanding on civil nuclear cooperation. ](/news/2015/12/12/japan-and-india-sign-an-agreement-on-high-speed-rail-defence-technology-and-a-memorandum-of-understanding-on-civil-nuclear-cooperation.md)

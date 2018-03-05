@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/4/switzerland-agrees-to-accept-two-chinese-muslim-
 
 ### [2010-02-4](/news/2010/02/4/index.md)
 
-##### Switzerland
+##### Swiss
 # Switzerland agrees to accept two Chinese Muslim Uyghurs from the Guantanamo Bay detention camp. 
 
 The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds. The Uighurs from the Chinese province of Xinjiang ...

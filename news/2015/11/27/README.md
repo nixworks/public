@@ -11,7 +11,7 @@ As temperatures rise, many American glaciers could vanish in a few decades.
 ### [Yu Weiguo becomes the acting Governor of Fujian province, replacing Su Shulin, who had been detained on suspicion of corruption. ](/news/2015/11/27/yu-weiguo-becomes-the-acting-governor-of-fujian-province-replacing-su-shulin-who-had-been-detained-on-suspicion-of-corruption.md)
 _Context: Fujian, Governor, Su Shulin, Yu Weiguo_
 
-##### Chinese
+##### China
 ### [Chinese President Xi Jinping announced a major overhaul of China's military to make the world's largest army more combat ready and better equipped to project force beyond the country's borders. Under the reorganization, all branches of the armed forces would come under a joint military command. The Chinese president said the reform aimed to "build an elite combat force" and called on the officials to make "breakthroughs" on establishing the joint command by 2020, Xinhua said. ](/news/2015/11/27/chinese-president-xi-jinping-announced-a-major-overhaul-of-chinaas-military-to-make-the-worldas-largest-army-more-combat-ready-and-bette.md)
 President Xi Jinping announced a major overhaul of China’s military to make the world’s largest army more combat ready and better equipped to project force beyond the country’s borders.
 
@@ -51,7 +51,7 @@ Janet Hughes, who died in the huge Pinery bushfire north of Adelaide, had just o
 ### [A new study shows Greece's six-year austerity program is even affecting prostitution. Gregory Laxos, a sociology professor at the Panteion University in Athens, told the "Times of London" the going rate for sex with a prostitute was 50 euros ($53) when the economic crisis began. Now, it's fallen to as low as two euros ($2.12) for a 30-minute session, or to a cheese pie, a sandwich because they are hungry. ](/news/2015/11/27/a-new-study-shows-greece-s-six-year-austerity-program-is-even-affecting-prostitution-gregory-laxos-a-sociology-professor-at-the-panteion-u.md)
 Sex in Greece is some of the cheapest on offer in Europe as six years of financial austerity take a toll.
 
-##### Chinese
+##### China
 ### [China's Shanghai index closed down 5.5%, a drop of almost 200 points in what was its largest single-day decline in three months. ](/news/2015/11/27/china-s-shanghai-index-closed-down-5-5-a-drop-of-almost-200-points-in-what-was-its-largest-single-day-decline-in-three-months.md)
 Investors appeared to be cashing out to invest in new initial public offerings, and they were reacting to news that two brokerage firms were being investigated.
 

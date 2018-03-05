@@ -13,7 +13,7 @@ _Context: Egyptians, Mohamed Morsi, President_
 
 ##### President of the European Parliament
 ### [The President of the European Parliament demands an explanation from the U.S. for allegations of spying, while new sources hint that the NSA could gather information from several European countries and had placed microphones in the Embassy of Italy to the U.S.. Many European leaders declare themselves greatly disappointed and the issue may bring serious political and economical consequences. ](/news/2013/06/30/the-president-of-the-european-parliament-demands-an-explanation-from-the-u-s-for-allegations-of-spying-while-new-sources-hint-that-the-nsa.md)
-_Context: Italy, NSA, President of the European Parliament, U.S. for allegations of spying_
+_Context: Italians, NSA, President of the European Parliament, U.S. for allegations of spying_
 
 ##### Hassan Rouhani
 ### [Hassan Rouhani, President-elect of Iran, criticizes the Islamic Republic of Iran Broadcasting (IRIB) over its news censorship of the Syrian civil war and the 2009-10 election protests. He also says Iran needs a cautious approach in its foreign policy. ](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.md)

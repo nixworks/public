@@ -29,7 +29,7 @@ The spiritual leader of the Kirti monastery, the starting point for a spate of s
 
 ##### Collides
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
-_Context: Chinese, Gansu province, collides_
+_Context: China, Gansu province, collides_
 
 ##### Thai authorities
 ### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md)

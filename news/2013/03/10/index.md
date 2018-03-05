@@ -45,7 +45,7 @@ Canadians in provinces that use daylight saving time during the summer months wi
 
 ##### Nigeria
 ### [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md)
-_Context: Ansaru, Greece, Italy, Nigeria, Northern Nigeria, United Kingdom_
+_Context: Ansaru, Greece, Italians, Nigeria, Northern Nigeria, United Kingdom_
 
 ##### Christian
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)

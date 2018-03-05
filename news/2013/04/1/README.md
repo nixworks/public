@@ -33,7 +33,7 @@ _Context: Police Service of Scotland, Scotland_
 
 ##### Japan
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
-_Context: Chinese, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters_
+_Context: China, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters_
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
@@ -41,7 +41,7 @@ _Context: 2013 Korean crisis, Kim Jong-Un, North Korea, Parliament, Pyongyang, S
 
 ##### Coal mine
 ### [At least six people are killed in a explosion at a coal mine near Baishan, China. ](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at-a-coal-mine-near-baishan-china.md)
-_Context: Baishan, Chinese, coal mine_
+_Context: Baishan, China, coal mine_
 
 ##### Newspaper
 ### [Privately owned newspapers go on sale in Myanmar for the first time since 1964. ](/news/2013/04/1/privately-owned-newspapers-go-on-sale-in-myanmar-for-the-first-time-since-1964.md)
@@ -49,7 +49,7 @@ Private newspapers are published in Burma for the first time in almost 50 years,
 
 ##### Apple Inc.
 ### [Apple Inc. publishes a letter, signed by CEO Tim Cook, to Chinese customers, to address the growing controversy over the company's warranty policies in the country. ](/news/2013/04/1/apple-inc-publishes-a-letter-signed-by-ceo-tim-cook-to-chinese-customers-to-address-the-growing-controversy-over-the-company-s-warranty.md)
-_Context: Apple Inc., CEO, Chinese, Tim Cook_
+_Context: Apple Inc., CEO, China, Tim Cook_
 
 ##### India
 ### [India's Supreme Court rejects a plea by Novartis to patent an updated version of its cancer drug, Glivec (Imatinib), amid concerns that a patent could threaten access to cheap generic versions of drugs in poorer countries. ](/news/2013/04/1/india-s-supreme-court-rejects-a-plea-by-novartis-to-patent-an-updated-version-of-its-cancer-drug-glivec-imatinib-amid-concerns-that-a-pa.md)

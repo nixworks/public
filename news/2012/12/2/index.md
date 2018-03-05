@@ -7,7 +7,7 @@ Formats: [HTML](2012/12/2/index.html)  [JSON](2012/12/2/index.json)  [XML](2012/
 ### [French very-high-resolution optical Earth-imaging satellite Pleiades-HR 1B is launched successfully via a Russian Soyuz STA rocket out of the Guiana Space Centre, Kourou, French Guiana. ](/news/2012/12/2/french-very-high-resolution-optical-earth-imaging-satellite-pla-c-iades-hr-1b-is-launched-successfully-via-a-russian-soyuz-sta-rocket-out-of-t.md)
 A Russian-made Soyuz rocket blasted off from French Guiana on Saturday and placed into orbit an Earth observation satellite for France, space officials said.
 
-##### Italy
+##### Italians
 ### [Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. ](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.md)
 Pier Luigi Bersani won a run-off primary election by a huge margin on Sunday to become the Italian center-left candidate for prime minister in national elections early next year.
 
@@ -29,7 +29,7 @@ _Context: Philippines, Typhoon Bopha, landfall_
 
 ##### Miner
 ### [16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. ](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-mine-was-flooded-in-northeast-china-s-heilongjiang-province.md)
-_Context: Chinese, Heilongjiang province, coal mine, miner_
+_Context: China, Heilongjiang province, coal mine, miner_
 
 ##### Sasago Tunnel
 ### [A section of the Sasago Tunnel in Japan collapses trapping 30 vehicles; at least 9 people are dead. ](/news/2012/12/2/a-section-of-the-sasago-tunnel-in-japan-collapses-trapping-30-vehicles-at-least-9-people-are-dead.md)

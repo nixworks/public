@@ -25,7 +25,7 @@ _Context: China, Hanoi, Vietnam_
 
 ##### Member of the European Parliament
 ### [Italian MEP and diplomat Mario Borghezio is expelled and given a bloody nose during an attempt to access the Suvretta House luxury hotel hosting the Bilderberg Group's secretive annual conference in the Swiss resort of St. Moritz. ](/news/2011/06/12/italian-mep-and-diplomat-mario-borghezio-is-expelled-and-given-a-bloody-nose-during-an-attempt-to-access-the-suvretta-house-luxury-hotel-hos.md)
-_Context: Bilderberg Group, Mario Borghezio, Member of the European Parliament, St. Moritz, Switzerland_
+_Context: Bilderberg Group, Mario Borghezio, Member of the European Parliament, St. Moritz, Swiss_
 
 ##### Eritrea
 ### [A series of moderate magnitude 4-5 earthquakes hit eastern Eritrea, preceding reports of a possible volcanic eruption. ](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.md)

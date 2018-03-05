@@ -27,9 +27,9 @@ _Context: Cyclone Gonu, Oman_
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
 _Context: George W. Bush, President, U.S. President, Vladimir Putin, missile defense_
 
-##### Italy
+##### Italians
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)
-_Context: Italy, Salafist Group for Call and Combat, al Qaeda_
+_Context: Italians, Salafist Group for Call and Combat, al Qaeda_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Police in Sri Lanka force hundreds of the minority Sri Lankan Tamils community out of Colombo for what they say are security reasons. ](/news/2007/06/7/sri-lankan-civil-war-police-in-sri-lanka-force-hundreds-of-the-minority-sri-lankan-tamils-community-out-of-colombo-for-what-they-say-are-s.md)

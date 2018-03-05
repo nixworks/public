@@ -41,7 +41,7 @@ _Context: Berlin, China, German_
 
 ##### President of Sudan
 ### [The President of Sudan Omar Hassan al-Bashir arrives in Beijing for talks with Hu Jintao, the President of the People's Republic of China to discuss the recent partition with Southern Sudan. ](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.md)
-_Context: Beijing, Hu Jintao, Omar Hassan al-Bashir, President, President of Sudan, Southern Sudan_
+_Context: Beijing, Chinese President, Hu Jintao, Omar Hassan al-Bashir, President of Sudan, Southern Sudan_
 
 ##### Flash flood
 ### [Fourteen people die following a flash flood in Davao City in the Philippines. ](/news/2011/06/28/fourteen-people-die-following-a-flash-flood-in-davao-city-in-the-philippines.md)

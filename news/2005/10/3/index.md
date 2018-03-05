@@ -45,7 +45,7 @@ _Context: George Best, London, Manchester United, football, intensive care_
 
 ##### Typhoon Longwang
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
-_Context: Chinese, Fujian, Typhoon Longwang_
+_Context: China, Fujian, Typhoon Longwang_
 
 ##### United States
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)

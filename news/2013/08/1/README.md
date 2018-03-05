@@ -15,9 +15,9 @@ _Context: David Carter, Fairfax New Zealand, Parliament of New Zealand, Speaker_
 ### [The Prime Minister of Tuvalu, Willy Telavi, is removed from office by Governor General Iakoba Italeli after accusations that he allegedly tried to replace Italeli as Governor General. Opposition leader Enele Sopoaga is appointed as the country's acting Prime Minister. ](/news/2013/08/1/the-prime-minister-of-tuvalu-willy-telavi-is-removed-from-office-by-governor-general-iakoba-italeli-after-accusations-that-he-allegedly-tr.md)
 _Context: Enele Sopoaga, Governor General, Iakoba Italeli, Prime Minister of Tuvalu, Willy Telavi_
 
-##### Italy
+##### Italians
 ### [Italy's top court confirms that former Prime Minister Silvio Berlusconi will serve a prison sentence for a tax fraud conviction. ](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.md)
-_Context: Italy, Prime Minister of Italy, Silvio Berlusconi, top court_
+_Context: Italians, Prime Minister of Italy, Silvio Berlusconi, top court_
 
 ##### Ariel Castro
 ### [Ariel Castro is sentenced to life plus a thousand years for kidnapping three women and holding them hostage for a decade in Cleveland, Ohio. ](/news/2013/08/1/ariel-castro-is-sentenced-to-life-plus-a-thousand-years-for-kidnapping-three-women-and-holding-them-hostage-for-a-decade-in-cleveland-ohio.md)

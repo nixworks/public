@@ -73,7 +73,7 @@ State of emergency declared in several regions as heavy flooding kills eight and
 
 ##### Jilin Baoyuanfeng Poultry Plant fire
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: Chinese, Jilin Baoyuanfeng Poultry Plant fire, Jilin Province_
+_Context: China, Jilin Baoyuanfeng Poultry Plant fire, Jilin Province_
 
 ##### Vodafone Group Plc
 ### [Telecommunications company Vodafone is fined Rs. 1,263 crores for under reporting its income from 2007-11. ](/news/2013/06/3/telecommunications-company-vodafone-is-fined-rs-1-263-crores-for-under-reporting-its-income-from-2007-11.md)

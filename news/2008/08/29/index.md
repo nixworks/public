@@ -19,9 +19,9 @@ _Context: Bosnian Serb, Hague, International Criminal Tribunal for the former Yu
 ### [ John McCain picks Alaska Governor Sarah Palin as his vice-presidential running mate for the Republican nomination for the U.S. presidential election. ](/news/2008/08/29/john-mccain-picks-alaska-governor-sarah-palin-as-his-vice-presidential-running-mate-for-the-republican-nomination-for-the-u-s-presidential.md)
 _Context: 2008, Alaska, Governor, John McCain, Republican, Sarah Palin, running mate_
 
-##### Italy
+##### Italians
 ### [ Italian airline Alitalia files for bankruptcy protection. ](/news/2008/08/29/italian-airline-alitalia-files-for-bankruptcy-protection.md)
-_Context: Alitalia, Italy, airline, bankruptcy_
+_Context: Alitalia, Italians, airline, bankruptcy_
 
 #####  Georgian
 ### [ Georgia cuts diplomatic ties with Russia following Russian recognition of South Ossetia and Abkhazia. ](/news/2008/08/29/georgia-cuts-diplomatic-ties-with-russia-following-russian-recognition-of-south-ossetia-and-abkhazia.md)

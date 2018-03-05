@@ -9,7 +9,7 @@ _Context: China_
 
 ##### Rome, Italy
 ### [Over half a million people demonstrate in Rome, Italy, demanding same sex rights. ](/news/2011/06/11/over-half-a-million-people-demonstrate-in-rome-italy-demanding-same-sex-rights.md)
-_Context: Italy, Rome, Italy, same sex rights_
+_Context: Italians, Rome, Italy, same sex rights_
 
 ##### Go on sale
 ### [Media censorship laws in Burma relating to sport, entertainment, lottery and fairytales are eased slightly, though restrictions on news titles remain. ](/news/2011/06/11/media-censorship-laws-in-burma-relating-to-sport-entertainment-lottery-and-fairytales-are-eased-slightly-though-restrictions-on-news-titl.md)

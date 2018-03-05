@@ -25,7 +25,7 @@ At least 30 miners are feared dead in a suspected methane gas blast at a coal mi
 
 ##### Sicily
 ### [South of Sicily, Italy's Coast Guard saves 941 trafficked migrants aboard five motorized dinghies and two larger vessels near southern Italian ports. Authorities cannot account for ten people. ](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.md)
-_Context: Italy, Sicily_
+_Context: Italians, Sicily_
 
 ## [Previous Day...](/news/2015/03/3/index.md)
 

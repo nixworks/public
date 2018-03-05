@@ -25,7 +25,7 @@ _Context: Peru_
 
 ##### Magnitude
 ### [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md)
-_Context: Chinese, Sichuan, earthquake, magnitude, province_
+_Context: China, Sichuan, earthquake, magnitude, province_
 
 ##### Egypt
 ### [Egypt become African Cup of Nations champions for a record third consecutive title after beating Ghana 1-0 in Estdio 11 de Novembro, Luanda, Angola, in the 2010 Africa Cup of Nations final. ](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.md)

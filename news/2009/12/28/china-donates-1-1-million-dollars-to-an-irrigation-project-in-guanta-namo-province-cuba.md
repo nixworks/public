@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigat
 
 ### [2009-12-28](/news/2009/12/28/index.md)
 
-##### Chinese
+##### China
 #  China donates 1.1 million dollars to an irrigation project in Guantanamo Province, Cuba. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigat
 
 ### Related:
 
-1. [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md) _Context: Chinese, Cuba_
-2. [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md) _Context: Chinese, Cuba_
-3. [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md) _Context: Cuba_
-4. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_
-5. [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md) _Context: Chinese_
+1. [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md) _Context: China, Cuba_
+2. [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md) _Context: China, Cuba_
+3. [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md) _Context: China_
+4. [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md) _Context: Cuba_
+5. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: China_

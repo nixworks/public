@@ -37,7 +37,7 @@ _Context: George W. Bush, Samuel Alito, Supreme Court of the United States, Thir
 
 ##### German
 ### [ In Germany, Social Democratic Party chairman Franz Mntefering announces his intention to retire after the party convention on November 14. The decision came after his candidate for Secretary General of the SPD, Kajo Wasserhvel, lost to left-wing candidate Andrea Nahles. ](/news/2005/10/31/in-germany-social-democratic-party-chairman-franz-muntefering-announces-his-intention-to-retire-after-the-party-convention-on-november-14.md)
-_Context: Andrea Nahles, Franz Mntefering, German, Kajo Wasserhvel, November 14, Social Democratic Party of Germany_
+_Context: Andrea Nahles, Franz Mntefering, German, Kajo Wasserhvel, November 14, SPD_
 
 ##### Guinea-Bissau
 ### [ Guinea-Bissau's president, Joo Bernardo Vieira, announces the dissolution of the government headed by his rival Prime Minister Carlos Gomes Junior. ](/news/2005/10/31/guinea-bissau-s-president-joao-bernardo-vieira-announces-the-dissolution-of-the-government-headed-by-his-rival-prime-minister-carlos-gome.md)

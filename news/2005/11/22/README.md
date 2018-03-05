@@ -13,7 +13,7 @@ _Context: Kenya, constitution, referendum_
 
 ##### Angela Merkel
 ### [ After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU-CSU and SPD delegates in the Bundestag. ](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.md)
-_Context: Angela Merkel, Bundestag, CSU, Chancellor, Christian Democratic Union, Social Democratic Party of Germany, grand coalition_
+_Context: Angela Merkel, Bundestag, CSU, Chancellor, Christian Democratic Union, SPD, grand coalition_
 
 ##### Flood
 ### [ Floods and mudslides due to Tropical Storm Gamma, the 24th named storm in the 2005 Atlantic hurricane season, kill at least 32 people in Honduras. ](/news/2005/11/22/floods-and-mudslides-due-to-tropical-storm-gamma-the-24th-named-storm-in-the-2005-atlantic-hurricane-season-kill-at-least-32-people-in-ho.md)

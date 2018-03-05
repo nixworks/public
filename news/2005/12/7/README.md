@@ -3,9 +3,9 @@ Formats: [HTML](2005/12/7/index.html)  [JSON](2005/12/7/index.json)  [XML](2005/
 
 ## [2005-12-7](/news/2005/12/7/index.md)
 
-##### Italy
+##### Italians
 ### [ An Italian court rules that calling someone a "dirty negro" while committing a crime is not necessarily a hate crime. ](/news/2005/12/7/an-italian-court-rules-that-calling-someone-a-dirty-negro-while-committing-a-crime-is-not-necessarily-a-hate-crime.md)
-_Context: Italy, hate crime_
+_Context: Italians, hate crime_
 
 ##### Nobel Prize in Literature
 ### [ Nobel Prize in Literature winner Harold Pinter accuses Britain and the United States of engaging in state terrorism in Iraq and demands the prosecution of George W. Bush and Tony Blair. ](/news/2005/12/7/nobel-prize-in-literature-winner-harold-pinter-accuses-britain-and-the-united-states-of-engaging-in-state-terrorism-in-iraq-and-demands-the.md)

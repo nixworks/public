@@ -9,7 +9,7 @@ Formats: [HTML](2009/08/20/index.html)  [JSON](2009/08/20/index.json)  [XML](200
 ### [ Elizabeth Ramos and Louis Williams, owners of defense contracting company Technical Logistics, admit to bribing an employee of the U.S. Navy's Space and Naval Warfare Systems Command in exchange for defense contracts. ](/news/2009/08/20/elizabeth-ramos-and-louis-williams-owners-of-defense-contracting-company-technical-logistics-admit-to-bribing-an-employee-of-the-u-s-nav.md)
 A couple who own a California defense contracting company have admitted bribing an employee of a Navy installation in San Diego.
 
-##### Switzerland
+##### Swiss
 ### [ Switzerland's president, Hans-Rudolf Merz, apologizes to the Libyan government for last year's arrest of a son of Libyan leader Muammar Gaddafi. ](/news/2009/08/20/switzerland-s-president-hans-rudolf-merz-apologizes-to-the-libyan-government-for-last-year-s-arrest-of-a-son-of-libyan-leader-muammar-gad.md)
 Switzerland&#39;s president apologized to the Libyan government Thursday for last year&#39;s arrest of a son of Libyan leader Moammar Gadhafi, clearing the way for a return to normal diplomatic ties. 
 

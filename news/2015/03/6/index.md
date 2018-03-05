@@ -55,9 +55,9 @@ Two Vietnamese citizens and a Canadian have been charged with running a massive 
 ### [The United Kingdom's National Crime Agency arrests a man as a suspected hacker in western England in connection with a June 15, 2014 cyber attack on the messaging service used by employees at the U.S. Department of Defense. ](/news/2015/03/6/the-united-kingdom-s-national-crime-agency-arrests-a-man-as-a-suspected-hacker-in-western-england-in-connection-with-a-june-15-2014-cyber-a.md)
 British police arrested a 23-year-old man suspected of hacking into a U.S. Department of Defense internal communication system.
 
-##### Chinese
+##### China
 ### [At least two knife-wielding attackers injure nine people at a train station in southern China; the police fatally shoot one of the suspects. ](/news/2015/03/6/at-least-two-knife-wielding-attackers-injure-nine-people-at-a-train-station-in-southern-china-the-police-fatally-shoot-one-of-the-suspects.md)
-_Context: Chinese_
+_Context: China_
 
 ## [Previous Day...](/news/2015/03/5/index.md)
 

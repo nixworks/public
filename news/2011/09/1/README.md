@@ -13,7 +13,7 @@ _Context: Dutch, International Energy Agency, Maria van der Hoeven, Minister of 
 
 ##### Nestle
 ### [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-is.md)
-_Context: Konolfingen, Nestle, Switzerland, euro, francs_
+_Context: Konolfingen, Nestle, Swiss, euro, francs_
 
 ##### Palestine Solidarity Campaign
 ### [Protesters from the Palestine Solidarity Campaign disrupt a concert given by the Israel Philharmonic Orchestra for the BBC Proms at London's Royal Albert Hall. ](/news/2011/09/1/protesters-from-the-palestine-solidarity-campaign-disrupt-a-concert-given-by-the-israel-philharmonic-orchestra-for-the-bbc-proms-at-london-s.md)

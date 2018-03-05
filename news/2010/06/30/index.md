@@ -11,9 +11,9 @@ _Context: 2010 Wimbledon Championships, Czech Republic, Roger Federer, Tomas Ber
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
 _Context: 2010 FIFA World Cup, Goodluck Jonathan, South Africa, national football team_
 
-##### Italy
+##### Italians
 ### [The Italian government appeals to the European Court of Human Rights to overturn a ban on classroom crucifixes. ](/news/2010/06/30/the-italian-government-appeals-to-the-european-court-of-human-rights-to-overturn-a-ban-on-classroom-crucifixes.md)
-_Context: European Court of Human Rights, Italy, crucifix_
+_Context: European Court of Human Rights, Italians, crucifix_
 
 ##### Special Court for Sierra Leone
 ### [The Special Court for Sierra Leone, sitting in The Hague, rules that model Naomi Campbell can be called to testify against former President of Liberia Charles Taylor in relation to her blood diamond. ](/news/2010/06/30/the-special-court-for-sierra-leone-sitting-in-the-hague-rules-that-model-naomi-campbell-can-be-called-to-testify-against-former-president.md)

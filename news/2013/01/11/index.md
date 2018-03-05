@@ -33,7 +33,7 @@ _Context: Doti, Nepal, bus_
 
 ##### Landslide
 ### [18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. ](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-village-in-the-yunnan-province-of-china-while-40-people-are-feared-to-be-buried.md)
-_Context: Chinese, Yunnan, landslide_
+_Context: China, Yunnan, landslide_
 
 ##### Official portrait
 ### [The first official portrait of the Duchess of Cambridge, painted by Paul Emsley, is unveiled to a mixed reception from critics. ](/news/2013/01/11/the-first-official-portrait-of-the-duchess-of-cambridge-painted-by-paul-emsley-is-unveiled-to-a-mixed-reception-from-critics.md)

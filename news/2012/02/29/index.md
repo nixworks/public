@@ -45,7 +45,7 @@ Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troo
 
 ##### Xinjiang
 ### [Violence in the Xinjiang region of China leaves 20 people dead. ](/news/2012/02/29/violence-in-the-xinjiang-region-of-china-leaves-20-people-dead.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

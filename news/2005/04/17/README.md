@@ -37,7 +37,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Great St. Bernard Pass
 ### [ 12 people die and 15 are injured when a coach plunges into a ravine near the Great St. Bernard Pass in Switzerland. ](/news/2005/04/17/12-people-die-and-15-are-injured-when-a-coach-plunges-into-a-ravine-near-the-great-st-bernard-pass-in-switzerland.md)
-_Context: Great St. Bernard Pass, Switzerland_
+_Context: Great St. Bernard Pass, Swiss_
 
 ##### Marla Ruzicka
 ### [ Marla Ruzicka, a US activist and aid worker, is killed by a car bomb in Iraq. ](/news/2005/04/17/marla-ruzicka-a-us-activist-and-aid-worker-is-killed-by-a-car-bomb-in-iraq.md)

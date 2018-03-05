@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Giorgio Orsoni
 ### [Giorgio Orsoni, the mayor of Venice, Italy, resigns over corruption allegations related to the MOSE Project. ](/news/2014/06/13/giorgio-orsoni-the-mayor-of-venice-italy-resigns-over-corruption-allegations-related-to-the-mose-project.md)
-_Context: Giorgio Orsoni, Italy, MOSE Project, Venice_
+_Context: Giorgio Orsoni, Italians, MOSE Project, Venice_
 
 ##### Park Geun-hye
 ### [Park Geun-hye, the President of South Korea, reshuffles her cabinet by replacing seven members after a fall in public support following the sinking of the MV "Sewol" in April. ](/news/2014/06/13/park-geun-hye-the-president-of-south-korea-reshuffles-her-cabinet-by-replacing-seven-members-after-a-fall-in-public-support-following-the.md)

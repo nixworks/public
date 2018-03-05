@@ -31,9 +31,9 @@ _Context: 2015 United Nations Climate Change Conference, Laurent Fabius, foreign
 ### [Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billion-worth-of-losses-as-a-re.md)
 Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its economy from severe rainfall and flooding in November and early December
 
-##### Chinese
+##### China
 ### [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the "South China Morning Post", in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-rep.md)
-_Context: Alibaba Group, Chinese, English, Hong Kong, South China Morning Post, newspaper_
+_Context: Alibaba Group, China, English, Hong Kong, South China Morning Post, newspaper_
 
 ##### DuPont
 ### [Two of the U.S.'s oldest and largest companies, DuPont and Dow Chemical Company, will merge in an all-stock deal valued at $130 billion. The deal, which includes future plans for DowDuPont to split into three independent, public companies, is expected to face intense scrutiny from federal antitrust regulators, who will examine the impact on prices and the availability of vital seeds and herbicides.](/news/2015/12/11/two-of-the-u-s-as-oldest-and-largest-companies-dupont-and-dow-chemical-company-will-merge-in-an-all-stock-deal-valued-at-130-billion-t.md)
@@ -43,7 +43,7 @@ Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stoc
 ### [Chinese tycoon Guo Guangchang, founder and chairman of Fosun, is reported missing amid the Chinese anti-corruption campaign. ](/news/2015/12/11/chinese-tycoon-guo-guangchang-founder-and-chairman-of-fosun-is-reported-missing-amid-the-chinese-anti-corruption-campaign.md)
 Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett – was thought to be missing but was later discovered to be in police custody
 
-##### Switzerland
+##### Swiss
 ### [Swiss police in Geneva, following yesterday's CIA tip, arrest two Syrian nationals. Apparently, traces of explosives were found in their car. President Simonetta Sommaruga says, "There is currently no indication that there was a concrete attack planned." ](/news/2015/12/11/swiss-police-in-geneva-following-yesterday-s-cia-tip-arrest-two-syrian-nationals-apparently-traces-of-explosives-were-found-in-their-car.md)
 Explosive traces are discovered in a car in Geneva, say media reports, as the city is put on a high security alert.
 

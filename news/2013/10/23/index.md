@@ -11,7 +11,7 @@ President Obama&#39;s staff has unmasked and fired a national security official 
 ### [Thousands of opposition supporters protest in the Cambodian capital Phnom Penh following disputed July elections which saw incumbent Prime Minister Hun Sen re-elected. ](/news/2013/10/23/thousands-of-opposition-supporters-protest-in-the-cambodian-capital-phnom-penh-following-disputed-july-elections-which-saw-incumbent-prime-m.md)
 _Context: Cambodia, Hun Sen, July elections, Phnom Penh_
 
-##### Chinese
+##### China
 ### [A Chinese newspaper publishes a rare appeal for the release of one of its journalists held by police. ](/news/2013/10/23/a-chinese-newspaper-publishes-a-rare-appeal-for-the-release-of-one-of-its-journalists-held-by-police.md)
 A Chinese newspaper publishes a full-page appeal for the release of one of its journalists detained by police.
 
@@ -27,7 +27,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [Iran spares the life of a convicted drug trafficker who survived a hanging. ](/news/2013/10/23/iran-spares-the-life-of-a-convicted-drug-trafficker-who-survived-a-hanging.md)
 _Context: Iran, drug trafficking, hanging_
 
-##### Chinese
+##### China
 ### [China and India sign a new border defence agreement aimed at improving bilateral relations. ](/news/2013/10/23/china-and-india-sign-a-new-border-defence-agreement-aimed-at-improving-bilateral-relations.md)
 Agreement between economic powerhouses reached after heads of state meet, following months of exacerbated tensions.
 

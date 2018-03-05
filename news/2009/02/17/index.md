@@ -37,11 +37,11 @@ _Context: The Pirate Bay, trial_
 
 ##### Walter Veltroni
 ### [ Walter Veltroni resigns as Secretary of Italy's Democratic Party. ](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.md)
-_Context: Democratic Party, Italy, Walter Veltroni_
+_Context: Democratic Party, Italians, Walter Veltroni_
 
 ##### United Kingdom
 ### [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md)
-_Context: David Mills, GBP, Italy, Prime Minister of Italy, Silvio Berlusconi, United Kingdom, accepting, bribes_
+_Context: David Mills, GBP, Italians, Prime Minister of Italy, Silvio Berlusconi, United Kingdom, accepting, bribes_
 
 ##### United States
 ### [ The U.S. Securities and Exchange Commission charges Stanford Financial Group Chairman Allen Stanford with fraud. ](/news/2009/02/17/the-u-s-securities-and-exchange-commission-charges-stanford-financial-group-chairman-allen-stanford-with-fraud.md)

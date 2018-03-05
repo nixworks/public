@@ -23,9 +23,9 @@ _Context: BitTorrent, The Pirate Bay_
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)
 In one neighborhood, results of the American “surge” are evident but sectarian tensions remain.
 
-##### Italy
+##### Italians
 ### [ At least 15 people are killed and 40 are injured by the derailment of an Italian freight train and subsequent explosion of two wagons carrying liquified petroleum gas in Viareggio. ](/news/2009/06/30/at-least-15-people-are-killed-and-40-are-injured-by-the-derailment-of-an-italian-freight-train-and-subsequent-explosion-of-two-wagons-carry.md)
-_Context: Italy, Viareggio, liquified petroleum gas, subsequent explosion_
+_Context: Italians, Viareggio, liquified petroleum gas, subsequent explosion_
 
 ##### Central Statistics Office
 ### [ Official figures from the Central Statistics Office show a dramatic contraction in the Irish economy in the first three months of 2009. ](/news/2009/06/30/official-figures-from-the-central-statistics-office-show-a-dramatic-contraction-in-the-irish-economy-in-the-first-three-months-of-2009.md)

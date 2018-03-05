@@ -37,7 +37,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 
 ##### Bhutan-China relations
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md)
-_Context: Bhutan, Bhutan-China relations, China-India relations, Chinese, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
+_Context: Bhutan, Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, Gipmochi, India_
 
 ##### Marawi crisis
 ### [More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md)
@@ -53,7 +53,7 @@ _Context: 1986 EDSA People Power Revolution, Aquino family, Freedom of speech in
 
 ##### Modena Park 2017
 ### [Italian rock singer Vasco Rossi broke the world record of biggest ticketed concert with 220,000 paying guests hosted at Enzo Ferrari Park in Modena, Italy. (Previous record belonged to a-Ha with 198,000 paying guests, set in 1991 in Rio de Janeiro, Brazil) ](/news/2017/07/1/italian-rock-singer-vasco-rossi-broke-the-world-record-of-biggest-ticketed-concert-with-220-000-paying-guests-hosted-at-enzo-ferrari-park-in.md)
-_Context: Enzo Ferrari, Italy, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
+_Context: Enzo Ferrari, Italians, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
 
 ##### Death and funeral of Helmut Kohl
 ### [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md)

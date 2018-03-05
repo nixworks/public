@@ -7,9 +7,9 @@ Formats: [HTML](2013/12/14/index.html)  [JSON](2013/12/14/index.json)  [XML](201
 ### [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md)
 China landed an unmanned spacecraft on the moon on Saturday, state media reported, in the first such &quot;soft-landing&quot; since 1976, joining the United States and the former Soviet Union in managing to accomplish such a feat.
 
-##### Social Democratic Party of Germany
+##### SPD
 ### [The Social Democratic Party of Germany agrees to join a coalition government led by Chancellor Angela Merkel. ](/news/2013/12/14/the-social-democratic-party-of-germany-agrees-to-join-a-coalition-government-led-by-chancellor-angela-merkel.md)
-_Context: Angela Merkel, Chancellor, Social Democratic Party of Germany_
+_Context: Angela Merkel, Chancellor, SPD_
 
 ##### Bogot
 ### [A mass protest is held in Bogot, Colombia, in protest against the unseating of Mayor Gustavo Petro. ](/news/2013/12/14/a-mass-protest-is-held-in-bogota-colombia-in-protest-against-the-unseating-of-mayor-gustavo-petro.md)

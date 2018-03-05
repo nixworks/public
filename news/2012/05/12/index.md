@@ -27,7 +27,7 @@ _Context: Israel, Mahmoud Ahmadinejad, President, mosquito, nuclear program_
 ### [Two Palestinians held in Israeli prisons are reportedly close to death, having refused to eat for 74 days. A further 1,600 prisoners have been on hunger strike since 17 April. Leaders of the strikers wait for a response from the Israeli Prison Service to calls for negotiation on issues such as the allowing of family visits for prisoners from Gaza and the ending of the use of extended solitary confinement. ](/news/2012/05/12/two-palestinians-held-in-israeli-prisons-are-reportedly-close-to-death-having-refused-to-eat-for-74-days-a-further-1-600-prisoners-have-be.md)
 A pair of Palestinian prisoners being held without charge enter day 74 without food as physicians believe their lives are in &#034;immediate danger&#034;.
 
-##### Chinese
+##### China
 ### [China denies that its military has been placed on a war footing amid an ongoing dispute with the Philippines over territorial claims in the South China Sea. ](/news/2012/05/12/china-denies-that-its-military-has-been-placed-on-a-war-footing-amid-an-ongoing-dispute-with-the-philippines-over-territorial-claims-in-the.md)
 China denies reports its military forces are preparing for war amid tensions over a disputed territory in the South China Sea.
 

@@ -63,7 +63,7 @@ _Context: Afghanistan under the Taliban, Obaidullah Akhund, Pakistan_
 ### [ A human case of bird flu is confirmed in China. ](/news/2007/03/1/a-human-case-of-bird-flu-is-confirmed-in-china.md)
 _Context: Avian flu virus_
 
-##### Switzerland
+##### Swiss
 ### [ Switzerland accidentally invades Liechtenstein after 171 infantrymen get lost and cross the Liechtenstein border. ](/news/2007/03/1/switzerland-accidentally-invades-liechtenstein-after-171-infantrymen-get-lost-and-cross-the-liechtenstein-border.md)
 What began as a routine training exercise almost ended in an embarrassing diplomatic incident after a company of Swiss soldiers got lost at night and marched into neighboring Liechtenstein.
 

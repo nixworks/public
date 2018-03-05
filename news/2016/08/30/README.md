@@ -21,7 +21,7 @@ The two officials were executed in early August for disobeying leader Kim Jong U
 
 ##### Rodrigo Duterte
 ### [Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-but-he-might-do-so-in-the.md)
-_Context: Chinese, Rodrigo Duterte, Territorial disputes in the South China Sea_
+_Context: China, Rodrigo Duterte, Territorial disputes in the South China Sea_
 
 ##### 2015-16 Zika virus epidemic
 ### [Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. ](/news/2016/08/30/australia-south-korea-and-taiwan-issue-travel-advisories-concerning-singapore-after-cases-of-zika-virus-infection-in-the-city-state-passes.md)

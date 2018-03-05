@@ -23,7 +23,7 @@ _Context: 2008 Summer Olympics, China, lip-synching_
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
 _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
-##### Italy
+##### Italians
 ### [Nine people, including three Italian medical workers, are detained over accusations of plotting to kill Governor of Helmand Gulab Mangal. ](/news/2010/04/11/nine-people-including-three-italian-medical-workers-are-detained-over-accusations-of-plotting-to-kill-governor-of-helmand-gulab-mangal.md)
 Three medical workers among nine arrested for allegedly plotting to kill Helmand governor.
 
@@ -45,7 +45,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan, president, the recent unrest_
 
 ##### Democratic Front for the Liberation of Palestine
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: Chinese, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
+_Context: China, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
 
 ##### Israel
 ### [Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. ](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.md)

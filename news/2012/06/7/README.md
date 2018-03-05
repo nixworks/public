@@ -39,7 +39,7 @@ _Context: Florida, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Pol
 ### [At least 16 people die and 32 are injured after a bus falls into a ravine north of the Bolivian capital La Paz. ](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.md)
 _Context: Bolivia, La Paz, ravine_
 
-##### Italy
+##### Italians
 ### [Two apartment buildings collapse following a gas leak in the Italian town of Conversano, resulting in four people being missing. ](/news/2012/06/7/two-apartment-buildings-collapse-following-a-gas-leak-in-the-italian-town-of-conversano-resulting-in-four-people-being-missing.md)
 Two apartment buildings collapsed in the southeastern Italian town of Conversano on Thursday after an explosion believed to be caused by a gas leak, and three members of a Dutch family were missing, local authorities said.
 

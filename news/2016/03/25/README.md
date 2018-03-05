@@ -21,7 +21,7 @@ _Context: Fars Province, Iran, Islamic Republic News Agency, air ambulance_
 
 ##### Portuguese nationals
 ### [Twelve Portuguese nationals, who were residents of Fribourg, Switzerland, are killed in a head-on collision between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-truc.md)
-_Context: France, Fribourg, Italy, Paris, Portuguese nationals, Switzerland, minibus_
+_Context: France, Fribourg, Italians, Paris, Portuguese nationals, Swiss, minibus_
 
 ##### Callaway train crash
 ### [The evacuation order for the 200-person town of Callaway, Minnesota, which was emptied after a Canadian Pacific train crashed with a propane truck, is lifted. None of the train cars were carrying hazardous materials. ](/news/2016/03/25/the-evacuation-order-for-the-200-person-town-of-callaway-minnesota-which-was-emptied-after-a-canadian-pacific-train-crashed-with-a-propane.md)

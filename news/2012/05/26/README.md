@@ -23,9 +23,9 @@ _Context: Chen Guangcheng, Chinese_
 ### [A gunman in the town of Hyvinkaa near the Finnish capital Helsinki kills 2 people and injures 7 in a shooting before being arrested. ](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Chinese
+##### China
 ### [China releases an annual report on human rights, criticizing the United States' human rights record, citing the arrest of Occupy Wall Street protesters and Internet restrictions. ](/news/2012/05/26/china-releases-an-annual-report-on-human-rights-criticizing-the-united-states-human-rights-record-citing-the-arrest-of-occupy-wall-street.md)
-_Context: Chinese, Internet, Occupy Wall Street protesters, United States' human rights record, human rights_
+_Context: China, Internet, Occupy Wall Street protesters, United States' human rights record, human rights_
 
 ##### Landslide
 ### [At least six people are dead and another six missing after a landslide at an illegal gold mine in the Bogor district in Indonesia's West Java area. ](/news/2012/05/26/at-least-six-people-are-dead-and-another-six-missing-after-a-landslide-at-an-illegal-gold-mine-in-the-bogor-district-in-indonesia-s-west-jav.md)

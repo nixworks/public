@@ -33,7 +33,7 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 
 ##### War in North-West Pakistan
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: Chinese, ISIL, Pakistan, Quetta, War in North-West Pakistan_
+_Context: China, ISIL, Pakistan, Quetta, War in North-West Pakistan_
 
 ##### Tehran attacks
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)

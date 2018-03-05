@@ -11,7 +11,7 @@ The Rosetta spacecraft has crashed into a comet, bringing to an end one of the m
 ### [The Alabama Court of the Judiciary finds Alabama Supreme Court Chief Justice Roy Moore guilty of six charges of violation of canon of judicial ethics and suspends him for the remainder of his term which is slated to end in 2019. The judge told other judges to ignore the Supreme Court of the United States ruling on gay marriage ("Obergefell v. Hodges"). ](/news/2016/09/30/the-alabama-court-of-the-judiciary-finds-alabama-supreme-court-chief-justice-roy-moore-guilty-of-six-charges-of-violation-of-canon-of-judici.md)
 _Context: Alabama Court of the Judiciary, Alabama Supreme Court, Obergefell v. Hodges, Roy Moore, Supreme Court of the United States_
 
-##### Chinese
+##### China
 ### [China arrests a man, Yang Qingpei, for killing his parents and then killing 17 neighbors in an attempt to cover up his crime in Kunming, the capital of Yunnan Province. ](/news/2016/09/30/china-arrests-a-man-yang-qingpei-for-killing-his-parents-and-then-killing-17-neighbors-in-an-attempt-to-cover-up-his-crime-in-kunming-the.md)
 A Chinese man has confessed to killing his parents and then killing 17 neighbours in an attempt to cover up his crime, state media report.
 

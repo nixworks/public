@@ -15,9 +15,9 @@ _Context: San Antonio, Texas_
 ### [Floods and mudslides in Sri Lanka kill at least twenty-four people and leave eight missing. ](/news/2014/12/28/floods-and-mudslides-in-sri-lanka-kill-at-least-twenty-four-people-and-leave-eight-missing.md)
 Twenty-four people have been killed and eight others are missing due to floods and mudslides caused by incessant rain in Sri Lanka over the past week, offi
 
-##### Italy
+##### Italians
 ### [Two merchant ships collide in rough seas off the Italian Adriatic coast, leaving at least one person dead and two missing. ](/news/2014/12/28/two-merchant-ships-collide-in-rough-seas-off-the-italian-adriatic-coast-leaving-at-least-one-person-dead-and-two-missing.md)
-_Context: Adriatic coast, Italy_
+_Context: Adriatic coast, Italians_
 
 ##### MS ''Norman Atlantic''
 ### [The Italian-owned MS "Norman Atlantic" catches fire on a ferry run from Greece to Italy 44 nautical miles northwest of Corfu, with 222 vehicles, 411 passengers and 5 crew on board. Greek and Italian officials report at least one person is dead. ](/news/2014/12/28/the-italian-owned-ms-norman-atlantic-catches-fire-on-a-ferry-run-from-greece-to-italy-44-nautical-miles-northwest-of-corfu-with-222-vehic.md)

@@ -51,7 +51,7 @@ Foreign Minister Mottaki says, &#39;Expansion of Israeli settlements, destructio
 ### [An explosion triggered a fire in a chemical plant in an east China city, leaving 3 dead, one seriously injured. The explosion occurred at 2:40 p.m. in Haiyi Specialty Chemicals Co., Ltd. in Qingdao, a coastal city in Shandong Province. ](/news/2010/03/26/an-explosion-triggered-a-fire-in-a-chemical-plant-in-an-east-china-city-leaving-3-dead-one-seriously-injured-the-explosion-occurred-at-2.md)
 _Context: Haiyi Specialty Chemicals, Qingdao, Shandong, east China_
 
-##### Chinese
+##### China
 ### [China surpassed the United States last year as the country with the most clean energy investment. China's clean energy investments were $34.6 billion, compared with U.S.A.'s $18.6 billion last year. The US still leads the world in installed renewable energy, with 52.2 gigawatts of wind energy, small hydroelectric, biomass and waste generating capacity, per a report by the nonprofit Pew Charitable Trusts, but has dropped below ten other countries, including Canada and Mexico in investments as a share of the national economy.](/news/2010/03/26/china-surpassed-the-united-states-last-year-as-the-country-with-the-most-clean-energy-investment-china-s-clean-energy-investments-were-34.md)
 China has surpassed the United States as the top investor in clean energy with the rising Asian power becoming a “powerhouse” in the emerging field, a study by environmentalists said.
 

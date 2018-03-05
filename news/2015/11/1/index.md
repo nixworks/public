@@ -23,9 +23,9 @@ His gamble paid off, and now Erdogan is in a position to cement his presidential
 ### [A campus shooting at around 1:20 AM at Lot W, near Wilson Hall and Gleason-Hairston Terrace, at the Main Campus of Winston-Salem State University, in Winston-Salem, North Carolina, kills at least one person and wounds at least one- the two are believed to be students; the suspected gunman, Jarrett Jerome Moore, is not believed to be a student, and is believed to be still at large. ](/news/2015/11/1/a-campus-shooting-at-around-1-20-am-at-lot-w-near-wilson-hall-and-gleason-hairston-terrace-at-the-main-campus-of-winston-salem-state-unive.md)
 One student was fatally shot and another injured on the campus of Winston-Salem State University early Sunday.
 
-##### Switzerland
+##### Swiss
 ### [ Switzerland Named World's Most Positive Country For 2015. ](/news/2015/11/1/switzerland-named-worldas-most-positive-country-for-2015.md)
-_Context: Switzerland_
+_Context: Swiss_
 
 ##### Trilateral summit
 ### [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md)

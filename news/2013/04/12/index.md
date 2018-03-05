@@ -37,7 +37,7 @@ _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, S
 
 ##### Vietnam
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
-_Context: Chinese, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
+_Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
 ##### United States
 ### [The United States imposes sanctions on 18 "Magnitsky list" Russians accused of human rights violations. Russia threatens to retaliate. ](/news/2013/04/12/the-united-states-imposes-sanctions-on-18-magnitsky-list-russians-accused-of-human-rights-violations-russia-threatens-to-retaliate.md)

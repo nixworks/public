@@ -13,7 +13,7 @@ _Context: Maoist supporters, Nepal, Pushpa Kamal Dahal, ceasefire, unilateral_
 
 ##### China
 ### [ People's Republic of China President Hu Jintao has postponed his scheduled visit to Washington in the coming week. He plans to meet with President Bush later in the month while attending the United Nations General Assembly in New York City. ](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-has-postponed-his-scheduled-visit-to-washington-in-the-coming-week-he-plans-to-meet-with-pr.md)
-_Context: China, Hu Jintao, New York City, President, United Nations General Assembly, Washington, D.C._
+_Context: China, Chinese President, Hu Jintao, New York City, United Nations General Assembly, Washington, D.C._
 
 ##### Qatar
 ### [ The oil-rich nation of Qatar has offered the United States $100 million to assist in the humanitarian crisis triggered by Hurricane Katrina. ](/news/2005/09/3/the-oil-rich-nation-of-qatar-has-offered-the-united-states-100-million-to-assist-in-the-humanitarian-crisis-triggered-by-hurricane-katrina.md)

@@ -61,7 +61,7 @@ _Context: Mexico_
 
 ##### United States
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: Chinese, United States, energy security_
+_Context: China, United States, energy security_
 
 ##### Parliament
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)

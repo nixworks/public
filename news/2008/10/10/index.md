@@ -37,7 +37,7 @@ _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel peace prize,
 
 ##### NATO
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: France, German, Italy, NATO_
+_Context: France, German, Italians, NATO_
 
 ##### Oxfam
 ### [ Oxfam says those needing food aid in Ethiopia has risen to 6.4 million, nearly two million more than in June . ](/news/2008/10/10/oxfam-says-those-needing-food-aid-in-ethiopia-has-risen-to-6-4-million-nearly-two-million-more-than-in-june.md)

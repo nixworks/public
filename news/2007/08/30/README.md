@@ -15,17 +15,17 @@ _Context: Anglican Church of Kenya, United States Episcopal Church, consecrate, 
 ### [ A report into the Virginia Tech massacre criticises staff for not acting quickly enough after Seung-Hui Cho's first killings. ](/news/2007/08/30/a-report-into-the-virginia-tech-massacre-criticises-staff-for-not-acting-quickly-enough-after-seung-hui-cho-s-first-killings.md)
 _Context: Seung-Hui Cho, largest mass shooting in US history_
 
-##### Chinese
+##### China
 ### [ The Chinese Finance Minister, Jin Renqing, resigns due to "personal reasons". ](/news/2007/08/30/the-chinese-finance-minister-jin-renqing-resigns-due-to-personal-reasons.md)
-_Context: Chinese, Jin Renqing_
+_Context: China, Jin Renqing_
 
 ##### Cao Gangchuan
 ### [ Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. ](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.md)
 _Context: Cao Gangchuan, China, Japan, Masahiko Komura_
 
-##### Italy
+##### Italians
 ### [ Scores of Italians are arrested in a crackdown on the 'ndrangheta organised crime clans active in Calabria. ](/news/2007/08/30/scores-of-italians-are-arrested-in-a-crackdown-on-the-ndrangheta-organised-crime-clans-active-in-calabria.md)
-_Context: 'ndrangheta, Calabria, Italy_
+_Context: 'ndrangheta, Calabria, Italians_
 
 ##### Al-Aqsa Martyrs Brigades
 ### [ The Al-Aqsa Martyrs Brigades of Fatah claims its militants have fired a missile into southern Israeli city of Sderot in response to Israeli raids on the Gaza Strip. Israeli sources said the rocket landed on a building and caused damages and panic. ](/news/2007/08/30/the-al-aqsa-martyrs-brigades-of-fatah-claims-its-militants-have-fired-a-missile-into-southern-israeli-city-of-sderot-in-response-to-israeli.md)

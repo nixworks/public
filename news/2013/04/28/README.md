@@ -7,9 +7,9 @@ Formats: [HTML](2013/04/28/index.html)  [JSON](2013/04/28/index.json)  [XML](201
 ### [In Valley Springs, California (a rural town of about 2,500 people) authorities are searching for an intruder who fatally stabbed an 8-year-old girl, Leila Fowler, at her home. After her 12-year-old brother discovered him, the intruder fled. ](/news/2013/04/28/in-valley-springs-california-a-rural-town-of-about-2-500-people-authorities-are-searching-for-an-intruder-who-fatally-stabbed-an-8-year-o.md)
 _Context: Valley Springs, California_
 
-##### Italy
+##### Italians
 ### [In Italy, a man shoots and wounds two policemen outside Palazzo Chigi, during the swearing ceremony of the new Prime Minister Enrico Letta. ](/news/2013/04/28/in-italy-a-man-shoots-and-wounds-two-policemen-outside-palazzo-chigi-during-the-swearing-ceremony-of-the-new-prime-minister-enrico-letta.md)
-_Context: Enrico Letta, Italy, Palazzo Chigi, Prime Minister of Italy_
+_Context: Enrico Letta, Italians, Palazzo Chigi, Prime Minister of Italy_
 
 ##### Albuquerque
 ### [A man stabs and wounds four people at a church in Albuquerque, New Mexico, United States. ](/news/2013/04/28/a-man-stabs-and-wounds-four-people-at-a-church-in-albuquerque-new-mexico-united-states.md)

@@ -11,7 +11,7 @@ The federal government has announced the creation of a National Space Agency.
 ### [United States Senator Susan Collins says she will vote "no" on the Graham-Cassidy bill joining Senators John McCain and Rand Paul and possibly ending the most recent effort to repeal Obamacare. ](/news/2017/09/25/united-states-senator-susan-collins-says-she-will-vote-no-on-the-grahamacassidy-bill-joining-senators-john-mccain-and-rand-paul-and-poss.md)
 A last-ditch ObamaCare repeal effort by Republicans was all but dead on Monday after Sen. Susan Collins became the third Republican to oppose the measure.
 
-##### Caretaker
+##### Federal elections
 ### [Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-far-right-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-firs.md)
 Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she will instead serve as independent MP
 

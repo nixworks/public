@@ -7,7 +7,7 @@ Formats: [HTML](2012/12/30/index.html)  [JSON](2012/12/30/index.json)  [XML](201
 ### [The Beijing Subway expands to 442 km with the opening of Line 6, making it the longest metro network in the world. ](/news/2012/12/30/the-beijing-subway-expands-to-442-km-with-the-opening-of-line-6-making-it-the-longest-metro-network-in-the-world.md)
 CHINA: Five further sections of the Beijing metro, with a combined length of 69·8&nbsp;km, were put into revenue service on December 30. Adding...
 
-##### Italy
+##### Italians
 ### [Italian neurologist Rita Levi-Montalcini, the 1986 Nobel laureate in Physiology or Medicine, dies at the age of 103. ](/news/2012/12/30/italian-neurologist-rita-levi-montalcini-the-1986-nobel-laureate-in-physiology-or-medicine-dies-at-the-age-of-103.md)
 The Italian neurologist Rita Levi-Montalcini, who won the Nobel prize for her work on cells, dies at the age of 103.
 

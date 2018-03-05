@@ -25,7 +25,7 @@ Leaked IAEA report says visit to Qom facility raises questions of possible furth
 
 ##### United Nations
 ### [ The United Nations "Hunger Summit" opens in Rome, Italy. ](/news/2009/11/16/the-united-nations-hunger-summit-opens-in-rome-italy.md)
-_Context: Italy, Rome, Italy, United Nations_
+_Context: Italians, Rome, Italy, United Nations_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama arrives in Shanghai, China, and holds a town-hall-style meeting with students. ](/news/2009/11/16/u-s-president-barack-obama-arrives-in-shanghai-china-and-holds-a-town-hall-style-meeting-with-students.md)

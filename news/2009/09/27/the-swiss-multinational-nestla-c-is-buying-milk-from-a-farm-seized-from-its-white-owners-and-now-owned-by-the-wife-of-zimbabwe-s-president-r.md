@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk
 
 ### [2009-09-27](/news/2009/09/27/index.md)
 
-##### Switzerland
+##### Swiss
 #  The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". 
 
 

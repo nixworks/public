@@ -9,7 +9,7 @@ _Context: Comoros, Mount Karthala_
 
 ##### Canadian
 ### [ The body of Canadian diplomat Lewis Brooke Miskell is found in Naples, Italy, three months after his disappearance. ](/news/2006/05/28/the-body-of-canadian-diplomat-lewis-brooke-miskell-is-found-in-naples-italy-three-months-after-his-disappearance.md)
-_Context: Canadian, Italy, Lewis Brooke Miskell, Naples_
+_Context: Canadian, Italians, Lewis Brooke Miskell, Naples_
 
 ## [Previous Day...](/news/2006/05/27/index.md)
 

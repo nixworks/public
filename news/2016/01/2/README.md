@@ -13,7 +13,7 @@ An estimated 300 people joined a protest march in Burns Saturday to support a lo
 
 ##### Mexican Drug War
 ### [Gisela Mota Ocampo, mayor of Temixco in Mexico's Morelos state is assassinated by gunmen at her home, less than a day after taking office. Morelos Governor, Graco Ramirez, attributed Mota's killing to organized crime, without citing a particular drug cartel or gang. ](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.md)
-_Context: Gisela Mota Ocampo, Graco Ramirez, List of politicians killed in the Mexican Drug War, Mexican Drug War, Mexico, Morelos Governor, Morelos's, Temixco, organized crime_
+_Context: Gisela Mota Ocampo, Graco Ramirez, List of politicians killed in the Mexican Drug War, Mexican Drug War, Mexico, Morelos Governor, Morelos's, Temixco, mafia_
 
 ##### Terror-related
 ### [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md)

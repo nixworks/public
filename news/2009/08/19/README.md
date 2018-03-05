@@ -13,7 +13,7 @@ _Context: Basque, ETA, Spain_
 
 ##### United States
 ### [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md)
-_Context: Switzerland, UBS, United States_
+_Context: Swiss, UBS, United States_
 
 ##### Sierra Leone
 ### [ Sierra Leone's annual rains kill 15 people and displace hundreds of others. ](/news/2009/08/19/sierra-leone-s-annual-rains-kill-15-people-and-displace-hundreds-of-others.md)

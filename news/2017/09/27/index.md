@@ -11,7 +11,7 @@ _Context: Facebook, Google, House Intelligence Committee, Russian interference i
 ### [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md)
 California will move its presidential primary from June to March under a bill signed on Wednesday by Democratic Governor Jerry Brown, a change aimed at giving the liberal-leaning state more influence in choosing candidates from either national party.
 
-##### Caretaker
+##### Federal elections
 ### [Former members of the Alternative fur Deutschland party Frauke Petry and Marcus Pretzell may create a new party. ](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.md)
 Two breakaway members of Germany&#39;s right-wing AfD party seem set on forming a separate faction in the Bundestag parliament and even a new party. But a freshly elected AfD leader says the move is &quot;doomed to failure.&quot;
 

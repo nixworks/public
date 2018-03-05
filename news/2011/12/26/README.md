@@ -3,7 +3,7 @@ Formats: [HTML](2011/12/26/index.html)  [JSON](2011/12/26/index.json)  [XML](201
 
 ## [2011-12-26](/news/2011/12/26/index.md)
 
-##### Chinese
+##### China
 ### [The government of China sentences activist Chen Xi to ten years imprisonment for "inciting subversion". ](/news/2011/12/26/the-government-of-china-sentences-activist-chen-xi-to-ten-years-imprisonment-for-inciting-subversion.md)
 A Chinese activist, Chen Xi, has been sentenced to 10 years in jail for subversion, as authorities continue to crack down on critics of the country&#039;s one-party government.
 

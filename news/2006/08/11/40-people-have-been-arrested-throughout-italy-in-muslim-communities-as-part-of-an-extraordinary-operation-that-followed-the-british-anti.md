@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/11/40-people-have-been-arrested-throughout-italy-i
 
 ### [2006-08-11](/news/2006/08/11/index.md)
 
-##### Italy
+##### Italians
 #  40 people have been arrested throughout Italy, in Muslim communities "as part of an extraordinary operation that followed the British anti-terrorist operation." 
 
 Investigators are tracing the money trail back to Pakistan, where one Briton who was arrested there has ties to Al Qaeda, officials believe, as British newspaper reports pin attack dates to next week.
@@ -23,8 +23,8 @@ Investigators are tracing the money trail back to Pakistan, where one Briton who
 
 ### Related:
 
-1. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
-2. [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md) _Context: Islam_
-3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
-4. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
-5. [Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.md) _Context: Islam_
+1. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+2. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
+3. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_
+4. [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md) _Context: Islam_
+5. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italians_

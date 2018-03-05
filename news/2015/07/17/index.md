@@ -23,7 +23,7 @@ Days after a Chicago-area woman, Sandra Bland, was found dead in a Texas jail ce
 ### [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general ""persona non grata"" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-unna.md)
 _Context: Odessa, Ukraine, persona non grata_
 
-##### Chinese
+##### China
 ### [The People's Republic of China releases 10 South African tourists held for allegedly distributing terrorist material. ](/news/2015/07/17/the-people-s-republic-of-china-releases-10-south-african-tourists-held-for-allegedly-distributing-terrorist-material.md)
 All 10 South Africans detained in China a few weeks ago will soon be home, the department of international relations and co-operation has confirmed.
 

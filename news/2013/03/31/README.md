@@ -31,9 +31,9 @@ Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s 
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
 Afghan president and Qatari emir discussed opening of office for Taliban in Doha which could help broker an end to war.
 
-##### Chinese
+##### China
 ### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
-_Context: Chinese, H7N9 avian flu virus, avian influenza_
+_Context: China, H7N9 avian flu virus, avian influenza_
 
 ##### Flooding
 ### [Widespread flooding in Port Louis, Mauritius, leads to at least 11 deaths. ](/news/2013/03/31/widespread-flooding-in-port-louis-mauritius-leads-to-at-least-11-deaths.md)
@@ -55,9 +55,9 @@ A house fire in Saint-Quentin in northern France kills five children between the
 ### [Five members of the South African military are killed when their helicopter crashes while patrolling the Kruger National Park for rhino poachers. ](/news/2013/03/31/five-members-of-the-south-african-military-are-killed-when-their-helicopter-crashes-while-patrolling-the-kruger-national-park-for-rhino-poac.md)
 Five members of the South African military are killed in a helicopter crash as it patrolled the Kruger National Park for rhino poachers.
 
-##### Chinese
+##### China
 ### [Two Chinese provinces pass restrictions on house sales designed to dampen a booming housing market. ](/news/2013/03/31/two-chinese-provinces-pass-restrictions-on-house-sales-designed-to-dampen-a-booming-housing-market.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Nigeria
 ### [The Nigerian Army kills 14 suspected Boko Haram members in a raid on a building, with the death of one soldier and the capture of a potential suicide bomber in a car full of explosives in the northern city of Kano. ](/news/2013/03/31/the-nigerian-army-kills-14-suspected-boko-haram-members-in-a-raid-on-a-building-with-the-death-of-one-soldier-and-the-capture-of-a-potentia.md)

@@ -33,7 +33,7 @@ Once-Tropical Storm Henri will contribute to bring flooding rain and damaging wi
 
 ##### Huaping County
 ### [One person is dead and fourteen missing after floods hit Huaping County in China's Yunnan province. ](/news/2015/09/16/one-person-is-dead-and-fourteen-missing-after-floods-hit-huaping-county-in-china-s-yunnan-province.md)
-_Context: Chinese, Huaping County, Yunnan_
+_Context: China, Huaping County, Yunnan_
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard, which has struggled for years in a declining PC market, will cut up to 33,300 jobs over the next three years, mostly in its enterprise business. ](/news/2015/09/16/hewlett-packard-which-has-struggled-for-years-in-a-declining-pc-market-will-cut-up-to-33-300-jobs-over-the-next-three-years-mostly-in-its.md)

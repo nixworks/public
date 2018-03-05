@@ -43,7 +43,7 @@ Two tourists, an Israeli man and a Norwegian woman, have been kidnapped by armed
 ### [Israel's Prime Minister Benjamin Netanyahu apologizes to his Turkish counterpart Recep Tayyip Erdogan for the death of nine activists during a flotilla raid in Gaza in 2010 and offers compensation for their families. ](/news/2013/03/22/israel-s-prime-minister-benjamin-netanyahu-apologizes-to-his-turkish-counterpart-recep-tayyip-erdoaan-for-the-death-of-nine-activists-durin.md)
 Israel apologises to Turkey for any errors that resulted in the deaths of nine activists during the raid on a flotilla bound for Gaza in 2010.
 
-##### Italy
+##### Italians
 ### [Two Italian marines accused of murdering Indian fishermen in international waters return to India to face legal charges, defusing a standoff between the two countries. ](/news/2013/03/22/two-italian-marines-accused-of-murdering-indian-fishermen-in-international-waters-return-to-india-to-face-legal-charges-defusing-a-standoff.md)
 Arrival of two marines to face murder charges in killing of Indian fishermen ends diplomatic row between two countries.
 

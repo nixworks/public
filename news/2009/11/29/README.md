@@ -55,7 +55,7 @@ _Context: Nevsky Express, Russia, Russian police, the bomb attack, witness_
 ### [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
 _Context: IAEA, Iran, Iran and weapons of mass destruction, government, parliament_
 
-##### Switzerland
+##### Swiss
 ### [ Voters in Switzerland approve a referendum to ban the construction of new minarets in the country. ](/news/2009/11/29/voters-in-switzerland-approve-a-referendum-to-ban-the-construction-of-new-minarets-in-the-country.md)
 To the great surprise of pollsters and the regret of the government, the Swiss on Sunday said yes to a ban on the construction of ...
 

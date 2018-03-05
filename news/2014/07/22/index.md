@@ -29,7 +29,7 @@ _Context: Moscow Metro_
 
 ##### Taiwan
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: Chinese, Taiwan_
+_Context: China, Taiwan_
 
 ##### Suicide bombing
 ### [A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-people.md)

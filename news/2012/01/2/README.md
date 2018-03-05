@@ -7,9 +7,9 @@ Formats: [HTML](2012/01/2/index.html)  [JSON](2012/01/2/index.json)  [XML](2012/
 ### [The Russian Federal Space Agency expects that parts of its failed Fobos-Grunt Mars probe will re-enter the Earth's atmosphere during the next week. ](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.md)
 _Context: Fobos-Grunt, Russian Federal Space Agency_
 
-##### President
+##### Chinese President
 ### [President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". ](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.md)
-_Context: Hu Jintao, President, westernise_
+_Context: Chinese President, Hu Jintao, westernise_
 
 ##### Military government
 ### [The military government of Fiji announces that it is to lift martial law and other emergency regulations. ](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.md)
@@ -41,7 +41,7 @@ _Context: Lee Myung-bak, North Korea, South Korean president, its nuclear progra
 
 ##### India
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
-_Context: Chinese, India_
+_Context: China, India_
 
 ##### Chile
 ### [Firefighters in Chile battle three large wildfires, which have reportedly killed at least one person. ](/news/2012/01/2/firefighters-in-chile-battle-three-large-wildfires-which-have-reportedly-killed-at-least-one-person.md)

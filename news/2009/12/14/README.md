@@ -53,7 +53,7 @@ _Context: Antonio Maria Costa, UN Office on Drugs and Crime, drug traffickers_
 
 ##### Group of 77
 ### [ The Group of 77 (including China, India, UAE, Qatar, and Saudi Arabia) suspends participation in treaty negotiations at the Copenhagen Climate Change Conference, citing the unwillingness of developed nations to live up to the Kyoto Protocol and what they view as a lack of open negotiations. ](/news/2009/12/14/the-group-of-77-including-china-india-uae-qatar-and-saudi-arabia-suspends-participation-in-treaty-negotiations-at-the-copenhagen-clim.md)
-_Context: Chinese, Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, Qatar, Saudi Arabia, UAE_
+_Context: China, Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, Qatar, Saudi Arabia, UAE_
 
 ## [Previous Day...](/news/2009/12/13/index.md)
 

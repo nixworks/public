@@ -9,7 +9,7 @@ SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Pue
 
 ##### Swiss referendums, 2016
 ### [Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2-500-francs-a-month.md)
-_Context: Swiss referendums, 2016, Switzerland, basic income, francs, referenda_
+_Context: Swiss, Swiss referendums, 2016, basic income, francs, referenda_
 
 ##### Romanian local elections, 2016
 ### [Voters in Romania go to the polls to vote in the local elections. ](/news/2016/06/5/voters-in-romania-go-to-the-polls-to-vote-in-the-local-elections.md)

@@ -31,9 +31,9 @@ Edmonton police say an employee of G4S Security faces three counts of first-degr
 ### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
 _Context: Al Arabiya, Jolo, southeast Asia_
 
-##### Chinese
+##### China
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, Chinese, Feng Jianmei_
+_Context: Ankang city, China, Feng Jianmei_
 
 ##### Japan
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)
@@ -67,7 +67,7 @@ _Context: Dutch, ING Bank, Moody's Investor Service, credit rating_
 ### [Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.md)
 _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 
-##### Italy
+##### Italians
 ### [Italy announces it will sell off three state-owned business in hopes of reducing the country's debt problems. ](/news/2012/06/15/italy-announces-it-will-sell-off-three-state-owned-business-in-hopes-of-reducing-the-country-s-debt-problems.md)
 The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off state-owned companies, in a bid to reduce its crippling debt mountain.
 

@@ -25,7 +25,7 @@ _Context: Almaty, Bombardier CRJ200, Kazakhstan, SCAT Air, crashes_
 
 ##### Vittorio Grilli
 ### [Vittorio Grilli, Italy's Economy Minister, contends before a committee of parliament that the central bank's handling of the supervision of Monte dei Paschi has been "attentive and appropriate". ](/news/2013/01/29/vittorio-grilli-italy-s-economy-minister-contends-before-a-committee-of-parliament-that-the-central-bank-s-handling-of-the-supervision-of.md)
-_Context: Bank of Italy, Economy Minister, Italy, Monte dei Paschi, Vittorio Grilli, parliament_
+_Context: Bank of Italy, Economy Minister, Italians, Monte dei Paschi, Vittorio Grilli, parliament_
 
 ##### Queiq River
 ### [At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)

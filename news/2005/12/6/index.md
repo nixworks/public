@@ -7,9 +7,9 @@ Formats: [HTML](2005/12/6/index.html)  [JSON](2005/12/6/index.json)  [XML](2005/
 ### [ South Africa's axed deputy president Jacob Zuma, who lost his job in post-apartheid South Africa's most sensational corruption scandal, has been charged with rape. ](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.md)
 _Context: Deputy President, Jacob Zuma, South Africa, rape_
 
-##### Chinese
+##### China
 ### [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md)
-_Context: Chinese, Hebei, province_
+_Context: China, Hebei, province_
 
 ##### Deposed
 ### [ Deposed Iraq president Saddam Hussein has refused to attend his trial for crimes against humanity, throwing the sometimes chaotic Iraqi proceedings into further confusion. ](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.md)

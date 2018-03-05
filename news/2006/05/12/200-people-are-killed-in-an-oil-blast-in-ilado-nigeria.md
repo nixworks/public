@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _2018-03-03 03:21:34 (First version)_
+1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _2018-03-04 03:21:24 (First version)_
 1. [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md) _(Current version)_
 
 ### Related:

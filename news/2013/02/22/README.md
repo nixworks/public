@@ -37,7 +37,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md)
-_Context: Barack Obama, Chinese, Japan, North Korea, Prime Minister of Japan, Senkaku Islands dispute, Shinzo Abe, U.S. President, United States, White House_
+_Context: Barack Obama, China, Japan, North Korea, Prime Minister of Japan, Senkaku Islands dispute, Shinzo Abe, U.S. President, United States, White House_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration (FDA) approves Kadcyla, a new drug manufactured by Roche, for treating late-stage breast cancer. ](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.md)

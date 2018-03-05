@@ -3,9 +3,9 @@ Formats: [HTML](2014/07/11/index.html)  [JSON](2014/07/11/index.json)  [XML](201
 
 ## [2014-07-11](/news/2014/07/11/index.md)
 
-##### Chinese
+##### China
 ### [The People's Republic of China jails 32 people for allegedly downloading and spreading violent Islamist material via the Internet to Xinjiang. ](/news/2014/07/11/the-people-s-republic-of-china-jails-32-people-for-allegedly-downloading-and-spreading-violent-islamist-material-via-the-internet-to-xinjian.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ##### Vaccine
 ### [An experimental vaccine for dengue fever has been developed in Manila. ](/news/2014/07/11/an-experimental-vaccine-for-dengue-fever-has-been-developed-in-manila.md)

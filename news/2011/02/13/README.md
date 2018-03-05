@@ -23,7 +23,7 @@ Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seve
 ### [Republican and LGBT rights campaigner Fred Karger launches a campaign in the U.S. states of Iowa and New Hampshire aiming to become President of the United States. ](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.md)
 _Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, Republican, U.S. President, U.S. state_
 
-##### Switzerland
+##### Swiss
 ### [Switzerland votes in its gun control referendum, rejecting the proposal. ](/news/2011/02/13/switzerland-votes-in-its-gun-control-referendum-rejecting-the-proposal.md)
 Voters in Switzerland - where gun suicide rates are high - reject proposed tighter controls on weapons ownership in a referendum.
 
@@ -41,7 +41,7 @@ _Context: Immigration to Canada, Jason Kenney, Minister of Citizenship and Immig
 
 ##### Tunisia
 ### [Nearly 1,000 Tunisian refugees arrive on the Italian island of Lampedusa overnight, a day after the government declared a humanitarian emergency. ](/news/2011/02/13/nearly-1-000-tunisian-refugees-arrive-on-the-italian-island-of-lampedusa-overnight-a-day-after-the-government-declared-a-humanitarian-emerg.md)
-_Context: Italy, Lampedusa, Tunisia_
+_Context: Italians, Lampedusa, Tunisia_
 
 ##### Shah Mehmood Qureshi
 ### [Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. ](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.md)

@@ -15,9 +15,9 @@ _Context: Jinggoy Estrada, senators_
 ### [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md)
 min Park and James Pearson
 
-##### Chinese
+##### China
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ##### Yosemite National Park
 ### [Yosemite National Park commemorates the 150th anniversary of Abraham Lincoln signing into law the Yosemite Grant Act, establishing Yosemite as a federally-protected area. ](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.md)

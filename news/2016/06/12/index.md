@@ -21,7 +21,7 @@ The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen t
 
 ##### European migration crisis
 ### [Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. ](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-the-mediterranean-sea-more-than-4-000-people-have-been-saved-at-sea-in-the-past-week.md)
-_Context: Coast Guard, European migration crisis, Italy, Mediterranean Sea_
+_Context: Coast Guard, European migration crisis, Italians, Mediterranean Sea_
 
 ##### 70th Tony Awards
 ### [The 70th Tony Awards are held at the Beacon Theater in New York City with "The Humans" winning the Best Play and "Hamilton" winning the Best Musical. ](/news/2016/06/12/the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton-winning-the-best.md)

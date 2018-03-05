@@ -49,7 +49,7 @@ A Boeing 737 is left with its nose resting against the runway at LaGuardia airpo
 
 ##### Earthquakes
 ### [Two earthquakes strike Gansu province, China, killing at least 89 people and injuring over 500. ](/news/2013/07/22/two-earthquakes-strike-gansu-province-china-killing-at-least-89-people-and-injuring-over-500.md)
-_Context: Chinese, Gansu province, earthquakes_
+_Context: China, Gansu province, earthquakes_
 
 ##### Catherine, Duchess of Cambridge
 ### [Catherine, Duchess of Cambridge, gives birth to a healthy boy, George Alexander Louis. The child, formally known as His Royal Highness Prince George of Cambridge, is third in line to the British throne. ](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.md)

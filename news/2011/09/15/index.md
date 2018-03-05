@@ -79,7 +79,7 @@ International aid group Oxfam launches an emergency appeal to help millions of p
 ### [Stock markets in the United States and Europe rally after major banks, including the European Central Bank and the United States Federal Reserve, initiate a plan to help end the European sovereign debt crisis. ](/news/2011/09/15/stock-markets-in-the-united-states-and-europe-rally-after-major-banks-including-the-european-central-bank-and-the-united-states-federal-res.md)
 _Context: Economy of the United States, Europe, European Central Bank, Eurozone crisis, Stock markets, United States Federal Reserve_
 
-##### Switzerland
+##### Swiss
 ### [Switzerland's UBS reports that it has lost US$2 billion on unauthorised deals by Kweku Adoboli, one of its London-based traders. ](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2-billion-on-unauthorised-deals-by-kweku-adoboli-one-of-its-london-based-traders.md)
 Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a London-based trader at the Swiss bank and
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2
 
 ### [2011-09-15](/news/2011/09/15/index.md)
 
-##### Switzerland
+##### Swiss
 # Switzerland's UBS reports that it has lost US$2 billion on unauthorised deals by Kweku Adoboli, one of its London-based traders. 
 
 Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a London-based trader at the Swiss bank and
@@ -17,8 +17,8 @@ Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a Lond
 
 ### Related:
 
-1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (GBP1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-agbp1-3bn-as-a-result-of-unauthorised-trad.md) _Context: Kweku Adoboli, Switzerland, UBS_
+1. [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (GBP1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-agbp1-3bn-as-a-result-of-unauthorised-trad.md) _Context: Kweku Adoboli, Swiss, UBS_
 2. [Rogue trader at Swiss bank UBS Kweku Adoboli is found guilty and is sentenced to seven years in prison for his role in the 2011 UBS rogue trader scandal. ](/news/2012/11/20/rogue-trader-at-swiss-bank-ubs-kweku-adoboli-is-found-guilty-and-is-sentenced-to-seven-years-in-prison-for-his-role-in-the-2011-ubs-rogue-tr.md) _Context: Kweku Adoboli, UBS_
-3. [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md) _Context: Switzerland, UBS_
+3. [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md) _Context: Swiss, UBS_
 4. [UBS trader Kweku Adoboli is charged with fraud and false accounting. ](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.md) _Context: Kweku Adoboli, UBS_
-5. [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md) _Context: Switzerland, UBS_
+5. [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md) _Context: Swiss, UBS_

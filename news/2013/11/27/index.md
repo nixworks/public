@@ -11,7 +11,7 @@ Autonomous autos are somewhat old hat for commuters in California and Nevada, bu
 ### [A Pakistani Tehreek-e-Insaf (PTI) party official, Shireen Mazari, in connection with a police murder investigation into unnamed persons after a recent drone strike that killed five, reportedly outs the names of two CIA officials, Director John Brennan and the Pakistan Station Chief (U.S. and CIA officials have not yet given official confirmation). ](/news/2013/11/27/a-pakistani-tehreek-e-insaf-pti-party-official-shireen-mazari-in-connection-with-a-police-murder-investigation-into-unnamed-persons-afte.md)
 _Context: John Brennan, Tehreek-e-Insaf_
 
-##### Italian senate
+##### Senate of the Republic
 ### [The Italian Senate votes to expel ex-Prime Minister Silvio Berlusconi from parliament over his conviction for tax fraud. ](/news/2013/11/27/the-italian-senate-votes-to-expel-ex-prime-minister-silvio-berlusconi-from-parliament-over-his-conviction-for-tax-fraud.md)
 The Italian Senate expelled former prime minister Silvio Berlusconi over his tax fraud conviction on Wednesday, humiliating the veteran centre-right leader who vowed to continue leading his party from outside parliament.
 

@@ -57,7 +57,7 @@ _Context: Greenpeace India's, Japan, environmentalist, humpbacks, whaling_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi, Italy's former Prime Minister, announces he will dissolve the Forza Italia party and found a new one called Freedom People's Party. ](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.md)
-_Context: Forza Italia, Freedom People's Party, Italy, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Forza Italia, Freedom People's Party, Italians, Prime Minister of Italy, Silvio Berlusconi_
 
 ## [Previous Day...](/news/2007/11/17/index.md)
 

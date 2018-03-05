@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/29/local-residents-on-italy-s-southern-islands-pro
 
 ### [2011-03-29](/news/2011/03/29/index.md)
 
-##### Italy
+##### Italians
 # Local residents on Italy's southern islands protest over the arrival of more migrants from North Africa on boats. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/03/29/local-residents-on-italy-s-southern-islands-pro
 
 ### Related:
 
-1. [President of France Nicolas Sarkozy and Prime Minister of Italy Silvio Berlusconi meet to discuss what to do about migrants from North Africa who want to join relatives, with reports that the Schengen Agreement is to be amended so the two can deal with the issue. ](/news/2011/04/26/president-of-france-nicolas-sarkozy-and-prime-minister-of-italy-silvio-berlusconi-meet-to-discuss-what-to-do-about-migrants-from-north-afric.md) _Context: Italy, North Africa_
-2. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
-3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
-4. [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md) _Context: North Africa_
-5. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
+1. [President of France Nicolas Sarkozy and Prime Minister of Italy Silvio Berlusconi meet to discuss what to do about migrants from North Africa who want to join relatives, with reports that the Schengen Agreement is to be amended so the two can deal with the issue. ](/news/2011/04/26/president-of-france-nicolas-sarkozy-and-prime-minister-of-italy-silvio-berlusconi-meet-to-discuss-what-to-do-about-migrants-from-north-afric.md) _Context: Italians, North Africa_
+2. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+3. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
+4. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_
+5. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italians_

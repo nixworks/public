@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/28/index.html)  [JSON](2009/07/28/index.json)  [XML](200
 ### [ 22 people are killed, 41 are injured and seven are missing after heavy rain and floods in Sichuan. ](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.md)
 _Context: Sichuan_
 
-##### Italy
+##### Italians
 ### [ Italian officials evacuate a newly built hospital in Agrigento in western Sicily after tests show it risked collapse in an earthquake. ](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.md)
-_Context: Agrigento, Italy, Sicily, earthquake_
+_Context: Agrigento, Italians, Sicily, earthquake_
 
 ##### Vampire
 ### [ Chinese scientists announce the discovery of "vampire gene", Tryp-SPc. ](/news/2009/07/28/chinese-scientists-announce-the-discovery-of-vampire-gene-tryp-spc.md)

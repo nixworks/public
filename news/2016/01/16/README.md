@@ -27,7 +27,7 @@ Word of the exchange came just before longstanding economic sanctions on Iran we
 ### [U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply. ](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.md)
 _Context: Flint water crisis, Flint, Michigan, Legionella, Legionnaires' disease, lead contamination, public health, states of emergency_
 
-##### Italy
+##### Italians
 ### [A suspected gas explosion in the Italian town of Arnasco kills at least five people. ](/news/2016/01/16/a-suspected-gas-explosion-in-the-italian-town-of-arnasco-kills-at-least-five-people.md)
 ROME (Reuters) - An explosion probably caused...
 

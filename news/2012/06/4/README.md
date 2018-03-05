@@ -3,7 +3,7 @@ Formats: [HTML](2012/06/4/index.html)  [JSON](2012/06/4/index.json)  [XML](2012/
 
 ## [2012-06-4](/news/2012/06/4/index.md)
 
-##### Chinese
+##### China
 ### [China blocks Internet access to terms related to the Tiananmen Square protests of 1989 on the 23rd anniversary of the protests. ](/news/2012/06/4/china-blocks-internet-access-to-terms-related-to-the-tiananmen-square-protests-of-1989-on-the-23rd-anniversary-of-the-protests.md)
 Lee Wee and Ben Blanchard
 

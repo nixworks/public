@@ -9,7 +9,7 @@ _Context: Donald Trump, New Hampshire, super PAC_
 
 ##### Wei Hong
 ### [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md)
-_Context: Chinese, Communist Party of China, Sichuan, Wei Hong_
+_Context: China, Communist Party of China, Sichuan, Wei Hong_
 
 ##### Weigh-in
 ### [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md)

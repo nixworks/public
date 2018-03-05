@@ -85,7 +85,7 @@ Chinese artist Ai Weiwei says he has been placed under house arrest to prevent h
 
 ##### Ancient Roman
 ### [The House of the Gladiators in the ancient Roman city of Pompeii collapses, prompting criticism of the Italian government's "neglect" of the site. ](/news/2010/11/6/the-house-of-the-gladiators-in-the-ancient-roman-city-of-pompeii-collapses-prompting-criticism-of-the-italian-government-s-neglect-of-the.md)
-_Context: Italy, Pompeii, ancient Roman_
+_Context: Italians, Pompeii, ancient Roman_
 
 ##### Armenia
 ### [Armenia and Azerbaijan exchange the bodies of deceased soldiers and a civilian under the auspices of the International Committee of the Red Cross. ](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.md)

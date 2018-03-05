@@ -23,7 +23,7 @@ Spanish officials announced the arrest of three suspects who were believed to ha
 ### [Peru seizes $2.3 million in counterfeit U.S. 50 dollar bills heading to other South American countries. ](/news/2012/08/2/peru-seizes-2-3-million-in-counterfeit-u-s-50-dollar-bills-heading-to-other-south-american-countries.md)
 Aug. 2 - Peruvian police seize over $2 million counterfeit U.S. bills heading to other South American countries. Sophia Soo reports.
 
-##### Chinese
+##### China
 ### [20 people are jailed in China on charges of terrorism in the Xinjiang region. ](/news/2012/08/2/20-people-are-jailed-in-china-on-charges-of-terrorism-in-the-xinjiang-region.md)
 Chinese authorities have jailed 20 people in far-western Xinjiang who they said were from five terrorist groups involved in “spreading separatism” through the Internet, amid a “strike hard” campaign t
 
@@ -43,7 +43,7 @@ _Context: Taiwan, Typhoon Saola_
 ### [Japanese media reports that electronics company Sharp Corporation plans to cut 5,000 positions worldwide. ](/news/2012/08/2/japanese-media-reports-that-electronics-company-sharp-corporation-plans-to-cut-5-000-positions-worldwide.md)
 _Context: Japanese, Sharp Corporation_
 
-##### Italy
+##### Italians
 ### [Italian football club Inter Milan sells a 15% stake to a Chinese investor group. ](/news/2012/08/2/italian-football-club-inter-milan-sells-a-15-stake-to-a-chinese-investor-group.md)
 Italian football club Inter Milan says that a group of Chinese investors will become its second-largest shareholder.
 

@@ -57,7 +57,7 @@ _Context: Conservative Party, Labour Party, Liberal Democrats, United Kingdom, c
 
 ##### European Union
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cypriot, Czech Republic, European Parliament, European Union, France, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
+_Context: Cypriot, Czech Republic, European Parliament, European Union, France, Italians, Latvia, Malta, Overseas departments and territories of France, Slovakia, election_
 
 ## [Previous Day...](/news/2009/06/5/index.md)
 

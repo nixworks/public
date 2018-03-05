@@ -11,9 +11,9 @@ The first clear evidence for a new particle at the Large Hadron Collider emerges
 ### [France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. ](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.md)
 Turkey recalls its ambassador to France in protest at a bill making it illegal to deny that the killing of Armenians in World War I was genocide.
 
-##### Italy
+##### Italians
 ### [Italy's senate debates the proposed economic austerity measures of Prime Minister Mario Monti. ](/news/2011/12/22/italy-s-senate-debates-the-proposed-economic-austerity-measures-of-prime-minister-mario-monti.md)
-_Context: Italy, Mario Monti_
+_Context: Italians, Mario Monti_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev proposes political reforms at his final state-of-the-nation address. ](/news/2011/12/22/russian-president-dmitry-medvedev-proposes-political-reforms-at-his-final-state-of-the-nation-address.md)

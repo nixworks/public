@@ -23,7 +23,7 @@ North Korean authorities have indicated flooding may have left up to 300,000 peo
 ### [ The Myanmar government doubles the price of petrol and increases the cost of compressed natural gas fivefold leaving some commuters stranded. ](/news/2007/08/15/the-myanmar-government-doubles-the-price-of-petrol-and-increases-the-cost-of-compressed-natural-gas-fivefold-leaving-some-commuters-strande.md)
 _Context: Myanmar, compressed natural gas, petrol_
 
-##### Italy
+##### Italians
 ### [ Six Italians are found shot to death in the town of Duisburg, Germany. Police say they were connected to 'Ndrangheta. ](/news/2007/08/15/six-italians-are-found-shot-to-death-in-the-town-of-duisburg-germany-police-say-they-were-connected-to-ndrangheta.md)
 Six people were found fatally shot in the town of Duisburg in western Germany, police said Wednesday.
 
@@ -99,7 +99,7 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 ### [ The trial of the President of Zambia Frederick Chiluba for stealing public money resumes today. ](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.md)
 _Context: Frederick Chiluba, President_
 
-##### Chinese
+##### China
 ### [ China will send officials to the United States to discuss food and product safety following a spate of product recalls in recent months. ](/news/2007/08/15/china-will-send-officials-to-the-united-states-to-discuss-food-and-product-safety-following-a-spate-of-product-recalls-in-recent-months.md)
 China will send delegations to the United States in August and September to discuss food and product safety following a spate of product recalls, a Chinese Embassy official said on Wednesday.
 

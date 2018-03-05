@@ -25,7 +25,7 @@ A suicide bomber blew up his explosives-filled car Saturday at a police checkpoi
 
 ##### United Nations
 ### [ The United Nations chief of the Food and Agriculture Organization completes a 24 hour hunger strike in Rome, Italy, ahead of a UN summit next week. ](/news/2009/11/14/the-united-nations-chief-of-the-food-and-agriculture-organization-completes-a-24-hour-hunger-strike-in-rome-italy-ahead-of-a-un-summit-ne.md)
-_Context: Food and Agriculture Organization, Italy, Rome, Italy, United Nations, hunger strike_
+_Context: Food and Agriculture Organization, Italians, Rome, Italy, United Nations, hunger strike_
 
 ##### Jaipur
 ### [ Several people are killed and dozens injured after an express train crashes near Jaipur, India. ](/news/2009/11/14/several-people-are-killed-and-dozens-injured-after-an-express-train-crashes-near-jaipur-india.md)

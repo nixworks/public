@@ -27,9 +27,9 @@ Government rejects resignation
 ### [12 people drown and least 20 others are missing after a boat accident in West Godavari District, Andhra Pradesh in India. ](/news/2010/01/30/12-people-drown-and-least-20-others-are-missing-after-a-boat-accident-in-west-godavari-district-andhra-pradesh-in-india.md)
 Twelve people have died and at least 20 others are missing after a boat jammed with pilgrims capsized in a river in southern India.
 
-##### Italy
+##### Italians
 ### [Judges across Italy stage a walk out over Prime Minister Silvio Berlusconi's proposed judicial reforms. ](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.md)
-_Context: Italy, Silvio Berlusconi_
+_Context: Italians, Silvio Berlusconi_
 
 ##### Shia
 ### [The leader of the Shia Houthi rebel group in northern Yemen, Abdul-Malik al-Houthi, says they will accept a ceasefire if government actions against them cease. ](/news/2010/01/30/the-leader-of-the-shia-houthi-rebel-group-in-northern-yemen-abdul-malik-al-houthi-says-they-will-accept-a-ceasefire-if-government-actions.md)

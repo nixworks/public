@@ -27,9 +27,9 @@ Researchers have discovered antibodies that can protect against a wide range of 
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.
 
-##### Switzerland
+##### Swiss
 ### [The Swiss Solar Impulse project's solar powered plane remains aloft for 24 hours, a record for a solar powered craft. ](/news/2010/07/8/the-swiss-solar-impulse-project-s-solar-powered-plane-remains-aloft-for-24-hours-a-record-for-a-solar-powered-craft.md)
-_Context: Solar Impulse project, Switzerland, aircraft, only by focused light_
+_Context: Solar Impulse project, Swiss, aircraft, only by focused light_
 
 ##### Dolphin
 ### [Dolphin Moko's corpse is believed to have washed up on a beach in New Zealand's North Island. ](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.md)

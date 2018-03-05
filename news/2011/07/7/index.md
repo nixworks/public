@@ -17,7 +17,7 @@ _Context: Crete, Freedom Flotilla II, Gaza Strip, Hellenic Coast Guard_
 
 ##### China
 ### [The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". ](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.md)
-_Context: China, Jiang Zemin, President_
+_Context: China, Chinese President, Jiang Zemin_
 
 ##### General strike
 ### [A general strike continues in Bangladesh over a proposed change to the electoral system. ](/news/2011/07/7/a-general-strike-continues-in-bangladesh-over-a-proposed-change-to-the-electoral-system.md)

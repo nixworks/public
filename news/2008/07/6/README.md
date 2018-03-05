@@ -21,7 +21,7 @@ _Context: NBC, Weather Channel_
 
 ##### Rafael Nadal
 ### [ Rafael Nadal of Spain wins the 2008 Wimbledon Championships for the first time defeating Roger Federer of Switzerland in a marathon match, winning 6-4, 6-4, 6-7 (5), 6-7 (8), 9-7. ](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.md)
-_Context: 2008 Wimbledon Championships, Rafael Nadal, Roger Federer, Spain, Switzerland_
+_Context: 2008 Wimbledon Championships, Rafael Nadal, Roger Federer, Spain, Swiss_
 
 ##### United Nations
 ### [ Gunmen kill a United Nations official in Mogadishu as he leaves a mosque and injure two others. ](/news/2008/07/6/gunmen-kill-a-united-nations-official-in-mogadishu-as-he-leaves-a-mosque-and-injure-two-others.md)

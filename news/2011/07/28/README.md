@@ -55,7 +55,7 @@ _Context: Asiana Airlines Flight 991, Jeju Island, South Korea, South Pacific Oc
 ### [Japanese electronics company Sony reduces sales and profit forecasts due to the 2011 Tohoku earthquake and tsunami, a computer hacking attack and slowing demand in the US and Europe. ](/news/2011/07/28/japanese-electronics-company-sony-reduces-sales-and-profit-forecasts-due-to-the-2011-tahoku-earthquake-and-tsunami-a-computer-hacking-atta.md)
 Sony Corp., Japan’s largest exporter of consumer electronics, cut its annual profit forecast after a slump in demand in the U.S. and Europe led the company to lower its estimate for television sales.
 
-##### Switzerland
+##### Swiss
 ### [Swiss bank Credit Suisse announces plans to cut 2,000 jobs due to poor profit results. ](/news/2011/07/28/swiss-bank-credit-suisse-announces-plans-to-cut-2-000-jobs-due-to-poor-profit-results.md)
 Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading activity and the strong Swiss franc hit second-quarter results.
 

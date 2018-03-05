@@ -29,7 +29,7 @@ The Age 404 Page
 
 ##### Taliban
 ### [ The Taliban claim that they have kidnapped Daniele Mastrogiacomo, an Italian journalist working for "La Repubblica" newspaper. ](/news/2007/03/7/the-taliban-claim-that-they-have-kidnapped-daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-newspaper.md)
-_Context: Italy, La Repubblica, Taliban, journalist, kidnap, newspaper_
+_Context: Italians, La Repubblica, Taliban, journalist, kidnap, newspaper_
 
 ##### Israel Defence Forces
 ### [ The Israel Defence Forces raid the Palestinian Authority's military intelligence headquarters in Ramallah. ](/news/2007/03/7/the-israel-defence-forces-raid-the-palestinian-authority-s-military-intelligence-headquarters-in-ramallah.md)

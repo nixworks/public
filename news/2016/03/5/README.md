@@ -35,9 +35,9 @@ MANILA (AFP) - The Philippines said on Saturday (March 5) it had impounded a Nor
 ### [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.md)
 An initial police investigation suggested the blast was caused by a fuel leak aboard the boat.
 
-##### Chinese
+##### China
 ### [China announces plans to build a railway linking the Tibetan capital Lhasa with Chengdu. ](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.md)
-_Context: Chengdu, Chinese, Lhasa, Tibet_
+_Context: Chengdu, China, Lhasa, Tibet_
 
 ##### Aden unrest (2015-present)
 ### [Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md)

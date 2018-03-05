@@ -15,9 +15,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ In Roraima, Brazil, Macuxi Indians release four policemen they had held as hostages since April 22. The Macuxi protested against the creation of a huge reservation and demanded better living conditions. ](/news/2005/04/30/in-roraima-brazil-macuxi-indians-release-four-policemen-they-had-held-as-hostages-since-april-22-the-macuxi-protested-against-the-creati.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### Italy
+##### Italians
 ### [ US releases a report that clears soldiers who shot Italian intelligence agent Nicola Calipari and journalist Giuliana Sgrena. ](/news/2005/04/30/us-releases-a-report-that-clears-soldiers-who-shot-italian-intelligence-agent-nicola-calipari-and-journalist-giuliana-sgrena.md)
-_Context: Giuliana Sgrena, Italy, Nicola Calipari_
+_Context: Giuliana Sgrena, Italians, Nicola Calipari_
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal ends the state of emergency. Press censorship and ban of political activities continues. ](/news/2005/04/30/king-gyanendra-of-nepal-ends-the-state-of-emergency-press-censorship-and-ban-of-political-activities-continues.md)

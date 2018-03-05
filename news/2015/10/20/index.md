@@ -37,7 +37,7 @@ Saudi Arabia has received U.S. State Department approval for the $11.25 billion 
 
 ##### European migrant crisis
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: European Union, European migrant crisis, Greece, Italy, border guard_
+_Context: European Union, European migrant crisis, Greece, Italians, border guard_
 
 ##### Brazil
 ### [Brazil pulls out of an electoral mission to observe crucial legislative elections in Venezuela over what it says are a lack of guarantees by the government of Venezuela and its veto of the choice to head the delegation. ](/news/2015/10/20/brazil-pulls-out-of-an-electoral-mission-to-observe-crucial-legislative-elections-in-venezuela-over-what-it-says-are-a-lack-of-guarantees-by.md)

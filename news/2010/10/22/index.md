@@ -93,7 +93,7 @@ _Context: National Film Awards, New Delhi, Pratibha Patel_
 
 ##### Iran
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
-_Context: International Religions Today Film Festival, Iran, Italy_
+_Context: International Religions Today Film Festival, Iran, Italians_
 
 ##### Islam
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)

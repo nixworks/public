@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/4/south-korea-president-moon-jae-in-announces-he-i
 ### [2018-03-4](/news/2018/03/4/index.md)
 
 ##### North Korea-South Korea relations
-# South Korea president Moon Jae-in announces he is sending two officials to meet with North Korea. 
+# South Korea President Moon Jae-in announces he is sending two officials to meet with North Korea. 
 
 
 

@@ -3,9 +3,9 @@ Formats: [HTML](2017/03/19/index.html)  [JSON](2017/03/19/index.json)  [XML](201
 
 ## [2017-03-19](/news/2017/03/19/index.md)
 
-##### Social Democratic Party of Germany
+##### SPD
 ### [The Social Democratic Party of Germany endorses Martin Schulz as its leader. ](/news/2017/03/19/the-social-democratic-party-of-germany-endorses-martin-schulz-as-its-leader.md)
-_Context: Martin Schulz, Social Democratic Party of Germany_
+_Context: Martin Schulz, SPD_
 
 ##### New Zealand-United States relations
 ### [New Zealand expels an unnamed United States diplomat after the embassy refused to waive his immunity during a police investigation. ](/news/2017/03/19/new-zealand-expels-an-unnamed-united-states-diplomat-after-the-embassy-refused-to-waive-his-immunity-during-a-police-investigation.md)

@@ -37,7 +37,7 @@ Interior minister Yishai says African migrants should be jailed or expelled; Aha
 
 ##### A 6.0-magnitude earthquake
 ### [At least 6 people are killed and dozens injured when a 6.0-magnitude earthquake strikes northern Italy. ](/news/2012/05/20/at-least-6-people-are-killed-and-dozens-injured-when-a-6-0-magnitude-earthquake-strikes-northern-italy.md)
-_Context: Italy, a 6.0-magnitude earthquake_
+_Context: Italians, a 6.0-magnitude earthquake_
 
 ##### Bee Gees
 ### [Bee Gees singer Robin Gibb dies at the age of 62. ](/news/2012/05/20/bee-gees-singer-robin-gibb-dies-at-the-age-of-62.md)

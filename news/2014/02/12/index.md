@@ -13,7 +13,7 @@ The three main Westminster parties are to declare that whoever forms the next UK
 
 ##### $
 ### [The Philippines recovers US $29 million from Ferdinand Marcos' bank accounts in Switzerland and Singapore. ](/news/2014/02/12/the-philippines-recovers-us-29-million-from-ferdinand-marcos-bank-accounts-in-switzerland-and-singapore.md)
-_Context: $, Ferdinand Marcos, Singapore, Switzerland_
+_Context: $, Ferdinand Marcos, Singapore, Swiss_
 
 ##### Garbage
 ### [Garbage from Canada is discovered to be being dumped in the Philippines. ](/news/2014/02/12/garbage-from-canada-is-discovered-to-be-being-dumped-in-the-philippines.md)

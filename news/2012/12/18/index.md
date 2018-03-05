@@ -49,7 +49,7 @@ Shanghai, China &#8211; Several people were reportedly injured when a shark tank
 
 ##### Palermo
 ### [Four people are killed and seven injured after an apartment block collapses in the center of Palermo in Italy. ](/news/2012/12/18/four-people-are-killed-and-seven-injured-after-an-apartment-block-collapses-in-the-center-of-palermo-in-italy.md)
-_Context: Italy, Palermo_
+_Context: Italians, Palermo_
 
 ##### Quentin Tarantino
 ### [The premiere of Quentin Tarantino's new movie "Django Unchained" is cancelled as a response to the Sandy Hook Elementary School shooting. ](/news/2012/12/18/the-premiere-of-quentin-tarantino-s-new-movie-django-unchained-is-cancelled-as-a-response-to-the-sandy-hook-elementary-school-shooting.md)

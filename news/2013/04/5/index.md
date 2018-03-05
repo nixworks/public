@@ -31,7 +31,7 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 ### [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md)
 _Context: Benin, Nigeria, Ore, bus, petrol tanker_
 
-##### Chinese
+##### China
 ### [A sixth person dies in the People's Republic of China from the Influenza A virus subtype H7N9, after the closure of poultry markets in the city of Shanghai and a mass culling of 20,000 birds. ](/news/2013/04/5/a-sixth-person-dies-in-the-people-s-republic-of-china-from-the-influenza-a-virus-subtype-h7n9-after-the-closure-of-poultry-markets-in-the-c.md)
 China confirmed Friday a sixth death from a lesser known H7N9 strain of the bird flu virus, while 14 people remain infected.
 

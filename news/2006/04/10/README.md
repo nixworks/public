@@ -19,7 +19,7 @@ _Context: April 9-10 elections, House of Freedoms, Italian Chamber of Deputies, 
 
 ##### Matthias Platzeck
 ### [ Matthias Platzeck resigns from the Chair of Germany's Social Democratic Party (SPD) after suffering a major hearing loss in March 2006 because of occupational stress. The next SPD chairman will be Kurt Beck (Minister President of Rhineland-Palatinate). ](/news/2006/04/10/matthias-platzeck-resigns-from-the-chair-of-germany-s-social-democratic-party-spd-after-suffering-a-major-hearing-loss-in-march-2006-beca.md)
-_Context: Kurt Beck, Matthias Platzeck, Rhineland-Palatinate, Social Democratic Party of Germany, hearing loss_
+_Context: Kurt Beck, Matthias Platzeck, Rhineland-Palatinate, SPD, hearing loss_
 
 ##### Shedden massacre
 ### [ Shedden massacre: Ontario Provincial Police announce that five people have been arrested and charged with first-degree murder in connection with the slaying of eight people found dead in southwestern Ontario, Canada. The OPP also confirms that the deaths were connected to an "internal cleansing" of the Bandidos biker gang. ](/news/2006/04/10/shedden-massacre-ontario-provincial-police-announce-that-five-people-have-been-arrested-and-charged-with-first-degree-murder-in-connection.md)

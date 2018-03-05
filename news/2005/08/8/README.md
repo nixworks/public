@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Suicide bomb
 ### [ A suicide bombing kills 1 and injures 32 in Fuzhou, provincial capital of Southeastern China's Fujian Province. ](/news/2005/08/8/a-suicide-bombing-kills-1-and-injures-32-in-fuzhou-provincial-capital-of-southeastern-china-s-fujian-province.md)
-_Context: Chinese, Fujian Province, suicide bomb_
+_Context: China, Fujian Province, suicide bomb_
 
 ##### Iran
 ### [ Iran resumes its nuclear programme at its uranium facility near the city of Isfahan. ](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.md)

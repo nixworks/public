@@ -43,7 +43,7 @@ Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory
 ### [A truck overloaded with passengers crashes near Bambari, Central African Republic, killing at least 78 people and leaving dozens more injured. ](/news/2017/07/5/a-truck-overloaded-with-passengers-crashes-near-bambari-central-african-republic-killing-at-least-78-people-and-leaving-dozens-more-injure.md)
 Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of...
 
-##### Chinese
+##### China
 ### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
 Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
 

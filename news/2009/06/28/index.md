@@ -9,7 +9,7 @@ _Context: Stephen Hawking_
 
 ##### Child pornography
 ### [ An internet child pornography ring, involving at least 2,000 IP addresses in 78 countries, is uncovered in Switzerland. ](/news/2009/06/28/an-internet-child-pornography-ring-involving-at-least-2-000-ip-addresses-in-78-countries-is-uncovered-in-switzerland.md)
-_Context: Switzerland, addresses, child pornography_
+_Context: Swiss, addresses, child pornography_
 
 ##### Russia
 ### [ Russia announces that they will shut down every legal casino in the state by Wednesday, July 1. ](/news/2009/06/28/russia-announces-that-they-will-shut-down-every-legal-casino-in-the-state-by-wednesday-july-1.md)

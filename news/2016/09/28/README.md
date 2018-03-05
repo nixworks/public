@@ -33,7 +33,7 @@ _Context: Indonesia, Lombok, Mount Barujari_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
-_Context: 2016 Pacific typhoon season, Chinese, Taiwan, Typhoon Megi_
+_Context: 2016 Pacific typhoon season, China, Taiwan, Typhoon Megi_
 
 ##### Anti-Defamation League
 ### [The Anti-Defamation League declares that the "Pepe the Frog" meme is a hate symbol, particularly when used alongside other racially-charged symbolism. ](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.md)

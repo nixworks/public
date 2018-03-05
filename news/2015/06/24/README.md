@@ -35,7 +35,7 @@ _Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
 ### [The President of France Francois Hollande warns that France "will not tolerate" acts that threaten its security following claims by Wikileaks that the United States spied on him and his two predecessors Nicolas Sarkozy and Jacques Chirac between 2006 and 2012. ](/news/2015/06/24/the-president-of-france-franassois-hollande-warns-that-france-will-not-tolerate-acts-that-threaten-its-security-following-claims-by-wikilea.md)
 President Obama tells his French counterpart, Francois Hollande, that the US is no longer spying on France after the latest Wikileaks revelations.
 
-##### Chinese
+##### China
 ### [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

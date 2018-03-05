@@ -23,7 +23,7 @@ _Context: Greece_
 ### [ The U.S. military admits publicly for the first time that four U.S. helicopters were downed by ground fire in Iraq. ](/news/2007/02/4/the-u-s-military-admits-publicly-for-the-first-time-that-four-u-s-helicopters-were-downed-by-ground-fire-in-iraq.md)
 _Context: Iraq, Military of the United States, downed by ground fire_
 
-##### Chinese
+##### China
 ### [ Chinese President Hu Jintao continues his eight-nation tour in Africa as he arrives in Lusaka and hold talks with Zambian President Levy Mwanawasa. President Hu launched a copper mining partnership with Zambia and promised more in aid. ](/news/2007/02/4/chinese-president-hu-jintao-continues-his-eight-nation-tour-in-africa-as-he-arrives-in-lusaka-and-hold-talks-with-zambian-president-levy-mw.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

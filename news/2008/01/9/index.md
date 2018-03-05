@@ -23,9 +23,9 @@ _Context: Delhi, India, Pragati Maidan, Tata Motors, Tata Nano_
 ### [ After conducting further research, NASA astronomers have determined that asteroid 2007 WD5 now has a 0.01% chance of striking Mars on January 30, 2008, effectively ruling out an impact. ](/news/2008/01/9/after-conducting-further-research-nasa-astronomers-have-determined-that-asteroid-2007-wd5-now-has-a-0-01-chance-of-striking-mars-on-janua.md)
 _Context: 2007 WD5, Mars, NASA, impact_
 
-##### Chinese
+##### China
 ### [ China will ban stores from handing out plastic bags as of June 2008. ](/news/2008/01/9/china-will-ban-stores-from-handing-out-plastic-bags-as-of-june-2008.md)
-_Context: Chinese_
+_Context: China_
 
 ## [Previous Day...](/news/2008/01/8/index.md)
 

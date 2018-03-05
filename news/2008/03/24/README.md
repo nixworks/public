@@ -21,7 +21,7 @@ _Context: 2008 invasion of Anjouan, African Union, Anjouan, Comoros, drop leafle
 
 ##### Marleen Veldhuis
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
-_Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italy, Marleen Veldhuis, the Netherlands, world record_
+_Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italians, Marleen Veldhuis, the Netherlands, world record_
 
 ##### FBI
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)

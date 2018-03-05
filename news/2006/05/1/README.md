@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/1/index.html)  [JSON](2006/05/1/index.json)  [XML](2006/
 
 ##### Last year's toxic chemical spill
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)
-_Context: Amur, Chinese, Far East, Jilin City, Khabarovsk, Songhua River, last year's toxic chemical spill_
+_Context: Amur, China, Far East, Jilin City, Khabarovsk, Songhua River, last year's toxic chemical spill_
 
 ##### Batticaloa
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)

@@ -103,9 +103,9 @@ _Context: National Council of Structural Engineers Associations, Shanghai, Shang
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_
 
-##### Chinese
+##### China
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Africa, Beijing, China, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
 
 ##### Sahrawi
 ### [A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. ](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.md)

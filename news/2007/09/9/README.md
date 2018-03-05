@@ -21,7 +21,7 @@ Afghan President Hamid Karzai renewed a call for talks with Taliban insurgents o
 
 ##### Jamaica
 ### [ Jamaican Asafa Powell set a new men's world 100 meters record of 9.74 seconds at the IAAF Grand Prix at Rieti, Italy. ](/news/2007/09/9/jamaican-asafa-powell-set-a-new-men-s-world-100-meters-record-of-9-74-seconds-at-the-iaaf-grand-prix-at-rieti-italy.md)
-_Context: Asafa Powell, Italy, Jamaica, Rieti, men's world 100 meters record_
+_Context: Asafa Powell, Italians, Jamaica, Rieti, men's world 100 meters record_
 
 ##### Guatemala
 ### [ Voters in Guatemala go to the polls in the Guatemalan general election, 2007. ](/news/2007/09/9/voters-in-guatemala-go-to-the-polls-in-the-guatemalan-general-election-2007.md)
@@ -33,7 +33,7 @@ Around 5,000 Algerians gathered in central Algiers on Sunday to protest against 
 
 ##### 2007 U.S. Open
 ### [ 2007 U.S. Open: Roger Federer of Switzerland defeats Novak Djokovic in the final of the men's singles in straight sets 7-6 (7-4), 7-6 (7-2), 6-4. ](/news/2007/09/9/2007-u-s-open-roger-federer-of-switzerland-defeats-novak-djokovic-in-the-final-of-the-men-s-singles-in-straight-sets-7-6-7-4-7-6-7-2.md)
-_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Switzerland_
+_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Swiss_
 
 ##### Israel
 ### [ Israeli police arrest eight men originally from the former Soviet Union accused of forming a neo-Nazi cell. ](/news/2007/09/9/israeli-police-arrest-eight-men-originally-from-the-former-soviet-union-accused-of-forming-a-neo-nazi-cell.md)

@@ -13,7 +13,7 @@ _Context: West Africa, ebola virus_
 
 ##### ''Costa Concordia'' disaster
 ### [Efforts to refloat the Italian cruise ship "Costa Concordia" begin off the coast of Italy two and a half years after it sank. ](/news/2014/07/14/efforts-to-refloat-the-italian-cruise-ship-costa-concordia-begin-off-the-coast-of-italy-two-and-a-half-years-after-it-sank.md)
-_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Italy, cruise ship_
+_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Italians, cruise ship_
 
 ##### Australia
 ### [Shareholders in Australian retailer David Jones Limited agree to accept a $2 billion takeover from South African retailer Woolworths. ](/news/2014/07/14/shareholders-in-australian-retailer-david-jones-limited-agree-to-accept-a-2-billion-takeover-from-south-african-retailer-woolworths.md)

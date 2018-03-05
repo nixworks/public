@@ -53,7 +53,7 @@ _Context: Health Ministry, Nicaragua, leptospirosis_
 
 ##### Gotthard Base Tunnel
 ### [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md)
-_Context: Alps, Gotthard Base Tunnel, Switzerland, railway tunnel_
+_Context: Alps, Gotthard Base Tunnel, Swiss, railway tunnel_
 
 ##### Reckitt Benckiser
 ### [United Kingdom consumer goods company Reckitt Benckiser agrees to pay a fine of GBP10.2 million for abusing its market position for Gaviscon in the United Kingdom. ](/news/2010/10/15/united-kingdom-consumer-goods-company-reckitt-benckiser-agrees-to-pay-a-fine-of-agbp10-2-million-for-abusing-its-market-position-for-gavisco.md)

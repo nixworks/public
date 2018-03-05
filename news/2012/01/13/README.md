@@ -21,7 +21,7 @@ Jan 13 - Lions Gate Entertainment Corp boughtprivate studio Summit Entertainment
 
 ##### Standard & Poor's
 ### [The Standard & Poor's credit rating agency lowers its long-term credit ratings on the eurozone countries of Cyprus, Italy, Portugal, and Spain by two notches each and Austria, France, Malta, Slovakia, and Slovenia by one notch each. ](/news/2012/01/13/the-standard-poor-s-credit-rating-agency-lowers-its-long-term-credit-ratings-on-the-eurozone-countries-of-cyprus-italy-portugal-and-spa.md)
-_Context: Austria, Cypriot, France, Italy, Malta, Portugal, Slovakia, Slovenia, Spain, Standard & Poor's, credit ratings, eurozone_
+_Context: Austria, Cypriot, France, Italians, Malta, Portugal, Slovakia, Slovenia, Spain, Standard & Poor's, credit ratings, eurozone_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: Security forces kill at least 13 protesters, including three children, amid ongoing protests in Syria. ](/news/2012/01/13/2011-2012-syrian-uprising-security-forces-kill-at-least-13-protesters-including-three-children-amid-ongoing-protests-in-syria.md)

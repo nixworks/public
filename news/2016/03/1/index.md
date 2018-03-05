@@ -41,7 +41,7 @@ Hundreds of children in western Pennsylvania were sexually assaulted by about 50
 
 ##### South China Sea disputes
 ### [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md)
-_Context: Chinese, Philippines, South China Sea, South China Sea disputes_
+_Context: China, Philippines, South China Sea, South China Sea disputes_
 
 ##### European migrant crisis
 ### [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.md)

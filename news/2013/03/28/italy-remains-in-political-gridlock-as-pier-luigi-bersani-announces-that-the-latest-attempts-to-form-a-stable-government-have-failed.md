@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-lui
 
 ### [2013-03-28](/news/2013/03/28/index.md)
 
-##### Italy
+##### Italians
 # Italy remains in political gridlock as Pier Luigi Bersani announces that the latest attempts to form a stable government have failed. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-lui
 
 ### Related:
 
-1. [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md) _Context: Italy, Pier Luigi Bersani_
-2. [Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. ](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.md) _Context: Italy, Pier Luigi Bersani_
-3. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
-4. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
-5. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
+1. [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md) _Context: Italians, Pier Luigi Bersani_
+2. [Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. ](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.md) _Context: Italians, Pier Luigi Bersani_
+3. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+4. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
+5. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_

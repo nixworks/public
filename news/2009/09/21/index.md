@@ -9,7 +9,7 @@ At least eight people drowned when a small boat carrying dozens of migrants from
 
 ##### Massimo Busacca
 ### [ Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. ](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.md)
-_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Switzerland_
+_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Swiss_
 
 ##### Jade Ewen
 ### [ Singer Jade Ewen is confirmed as the new member of internationally successful girlband Sugababes, replacing the only original member Keisha Buchanan. ](/news/2009/09/21/singer-jade-ewen-is-confirmed-as-the-new-member-of-internationally-successful-girlband-sugababes-replacing-the-only-original-member-keisha.md)
@@ -47,9 +47,9 @@ _Context: Fabio Capello, Gary Lineker, Sir Alex Ferguson, Sir Bobby Robson, asso
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
 _Context: Boris Yeltsin, President, Russia, Russian government_
 
-##### Italy
+##### Italians
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: Afghanistan, Italy, state funeral_
+_Context: Afghanistan, Italians, state funeral_
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)

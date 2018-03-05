@@ -7,9 +7,9 @@ Formats: [HTML](2014/08/8/index.html)  [JSON](2014/08/8/index.json)  [XML](2014/
 ### [Juan Manuel Santos is sworn in for a second term as President of Colombia. ](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.md)
 _Context: Colombian President, Juan Manuel Santos_
 
-##### Italian senate
+##### Senate of the Republic
 ### [The Italian senate votes in favor of a dramatic reduction of its own size and powers to challenge laws proposed in the lower house, and for turning itself into an unelected body. ](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.md)
-_Context: Italian senate, lower house_
+_Context: Chamber of Deputies, Senate of the Republic_
 
 ##### Case
 ### [In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. ](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athletes-u-s-district-court-judge-claudia-wilken-rules-that-the-ncaa-violated-antitrust-law-by.md)

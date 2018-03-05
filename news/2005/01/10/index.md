@@ -17,7 +17,7 @@ _Context: Almatti canal, Bijapur district, Karnataka, India, bus_
 
 ##### Smoking ban
 ### [ A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. ](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohibiting-smoking-in-public-places-it-has-been-reported-that-some-businesses-and-smokers-inten.md)
-_Context: Italy, smoking ban_
+_Context: Italians, smoking ban_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md)

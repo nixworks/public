@@ -37,7 +37,7 @@ Three of the biggest managers of U.S. money market funds said on Wednesday they 
 
 ##### World Economic Forum
 ### [The 2013 World Economic Forum begins in Davos, Switzerland. ](/news/2013/01/23/the-2013-world-economic-forum-begins-in-davos-switzerland.md)
-_Context: Davos, Switzerland, World Economic Forum_
+_Context: Davos, Swiss, World Economic Forum_
 
 ##### Islamist
 ### [Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md)

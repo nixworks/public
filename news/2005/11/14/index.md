@@ -29,7 +29,7 @@ _Context: Mexico, Venezuela_
 
 ##### German
 ### [ Germany: Conferences of the CDU, CSU and SPD approve a coalition deal that will see Angela Merkel become Chancellor on November 22. ](/news/2005/11/14/germany-conferences-of-the-cdu-csu-and-spd-approve-a-coalition-deal-that-will-see-angela-merkel-become-chancellor-on-november-22.md)
-_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German, November 22, Social Democratic Party of Germany_
+_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German, November 22, SPD_
 
 ## [Previous Day...](/news/2005/11/13/index.md)
 

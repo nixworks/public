@@ -25,7 +25,7 @@ _Context: Australian Federal Police, Christmas Island Immigration Reception and 
 
 ##### Italian
 ### [Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-court-rules-against-extraditing-h.md)
-_Context: Brazil, Italian, Italy, Supreme Court, communist_
+_Context: Brazil, Italian, Italians, Supreme Court, communist_
 
 ##### Saudi Arabia
 ### [Five Saudi women are arrested for practising driving. ](/news/2011/06/9/five-saudi-women-are-arrested-for-practising-driving.md)

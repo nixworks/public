@@ -15,7 +15,7 @@ _Context: David Bowie, Dusty Springfield, Elton John, Lesley Duncan, Pink Floyd_
 ### [A teenager is arrested in New Jersey, United States in connection with the recent Wal-Mart announcement telling "all blacks" to leave the shop. ](/news/2010/03/20/a-teenager-is-arrested-in-new-jersey-united-states-in-connection-with-the-recent-wal-mart-announcement-telling-all-blacks-to-leave-the-sh.md)
 Juvenile Arrested in N.J. Bias Incident in Which Blacks Were Told to Leave Store
 
-##### Italy
+##### Italians
 ### [Hundreds of thousands of people attend a rally in support of Italian Prime Minister Silvio Berlusconi in Rome ahead of this month's elections. ](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.md)
 Hundreds of thousands of people have marched through the Italian capital in a massive show of support for PM Silvio Berlusconi ahead of regional elections.
 

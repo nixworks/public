@@ -11,9 +11,9 @@ Cabinet approves changes to pacifist constitution allowing Japan&#039;s military
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
 _Context: ISIL, Parliament of Iraq, elections_
 
-##### Social Democratic Party of Germany
+##### SPD
 ### [The German Social Democrat Martin Schulz is reelected President of the European Parliament for another two and a half years. ](/news/2014/07/1/the-german-social-democrat-martin-schulz-is-reelected-president-of-the-european-parliament-for-another-two-and-a-half-years.md)
-_Context: Martin Schulz, President of the European Parliament, Social Democratic Party of Germany_
+_Context: Martin Schulz, President of the European Parliament, SPD_
 
 ##### Ku Klux Klan
 ### [A Ku Klux Klan flag is erected in the east of Belfast, Northern Ireland, sparking outrage amid a recent surge in racist attacks in the city. ](/news/2014/07/1/a-ku-klux-klan-flag-is-erected-in-the-east-of-belfast-northern-ireland-sparking-outrage-amid-a-recent-surge-in-racist-attacks-in-the-city.md)

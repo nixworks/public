@@ -19,9 +19,9 @@ _Context: 2013 constitution, Commodore, Fiji, Prime Minister, Voreqe Bainimarama
 ### [Chinese politician Bo Xilai speaks out for the first time since his aide attempted to defect at the American consulate. ](/news/2012/03/9/chinese-politician-bo-xilai-speaks-out-for-the-first-time-since-his-aide-attempted-to-defect-at-the-american-consulate.md)
 Bo Xilai, the embattled Communist Party chief of Chongqing, said that he had failed to supervise a trusted aide who recently fled to an American consulate, causing a national sensation.
 
-##### Chinese
+##### China
 ### [China returns 31 North Korean refugees to North Korea, according to activists. ](/news/2012/03/9/china-returns-31-north-korean-refugees-to-north-korea-according-to-activists.md)
-_Context: Chinese, North Korea_
+_Context: China, North Korea_
 
 ##### Bangkok
 ### [One person is killed and 20 injured in a hotel fire in Bangkok, Thailand. ](/news/2012/03/9/one-person-is-killed-and-20-injured-in-a-hotel-fire-in-bangkok-thailand.md)
@@ -47,9 +47,9 @@ _Context: Bleak House, British Film Institute, Charles Dickens_
 ### [Simin Daneshvar, Iranian academic, novelist, fiction writer and translator dies at the age of 90. ](/news/2012/03/9/simin-daneshvar-iranian-academic-novelist-fiction-writer-and-translator-dies-at-the-age-of-90.md)
 _Context: Iran, Simin Daneshvar_
 
-##### Italy
+##### Italians
 ### [Italian President Giorgio Napolitano calls on the British government to explain why it did not inform Italy about an attempt to rescue hostages Chris McManus and Franco Lamolinara until after the operation had been carried out. ](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.md)
-_Context: 10 Downing Street, Giorgio Napolitano, Italy, President of Italy_
+_Context: 10 Downing Street, Giorgio Napolitano, Italians, President of Italy_
 
 ##### Ashkelon Coast Regional Council
 ### [A Thai worker in the Ashkelon Coast Regional Council in Israel is injured by shrapnel of a rocket fired from the Gaza Strip. The Iron Dome mobile air defence system intercepts various rockets fired from the Gaza Strip at Ashdod. ](/news/2012/03/9/a-thai-worker-in-the-ashkelon-coast-regional-council-in-israel-is-injured-by-shrapnel-of-a-rocket-fired-from-the-gaza-strip-the-iron-dome-m.md)

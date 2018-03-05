@@ -41,15 +41,15 @@ _Context: Mars Exploration Rover, Martian dust storm, NASA_
 
 ##### Flood
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
-_Context: Chinese, flood_
+_Context: China, flood_
 
 ##### UK
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
 _Context: Royal Air Force, Summer 2007 United Kingdom floods, UK, flood_
 
-##### Italy
+##### Italians
 ### [ Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. ](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.md)
-_Context: Italy, Morocco, Perugia_
+_Context: Italians, Morocco, Perugia_
 
 ##### Radar
 ### [ A radar failure disrupts international air travel to Brazil causing disruption to thousands of travellers. ](/news/2007/07/21/a-radar-failure-disrupts-international-air-travel-to-brazil-causing-disruption-to-thousands-of-travellers.md)

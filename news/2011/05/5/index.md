@@ -41,7 +41,7 @@ _Context: $, Camorra, Naples, People of Freedom party, Prime Minister of Italy, 
 
 ##### Calisto Tanzi
 ### [Calisto Tanzi, the founder of Italian group Parmalat, is arrested on tax charges. ](/news/2011/05/5/calisto-tanzi-the-founder-of-italian-group-parmalat-is-arrested-on-tax-charges.md)
-_Context: Calisto Tanzi, Italy, Parmalat_
+_Context: Calisto Tanzi, Italians, Parmalat_
 
 ##### Killer of Joanna Yeates
 ### [Dutch man Vincent Tabak pleads guilty to the manslaughter of Joanna Yeates, but denies murdering her. However, the plea is rejected by prosecutors and he is committed for trial in October. ](/news/2011/05/5/dutch-man-vincent-tabak-pleads-guilty-to-the-manslaughter-of-joanna-yeates-but-denies-murdering-her-however-the-plea-is-rejected-by-prose.md)

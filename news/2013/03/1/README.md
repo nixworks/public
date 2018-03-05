@@ -25,7 +25,7 @@ Google Inc. and other news aggregators may continue to show short news items on 
 
 ##### Myanmar
 ### [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md)
-_Context: Chinese, Kunming, Myanmar, Naw Kham, Yunnan Province, drug lord, lethal injection_
+_Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug lord, lethal injection_
 
 ##### Death of Mido Macia
 ### [Death of Mido Macia: Eight South African policemen are arrested on suspicion of murder after dragging a Mozambican man behind their police van earlier in the week. ](/news/2013/03/1/death-of-mido-macia-eight-south-african-policemen-are-arrested-on-suspicion-of-murder-after-dragging-a-mozambican-man-behind-their-police-v.md)

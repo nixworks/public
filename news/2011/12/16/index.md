@@ -57,7 +57,7 @@ Research in Motion stock falls after company delays arrival of new phones next y
 
 ##### Fitch Ratings
 ### [Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-including-spain-and-italy-on.md)
-_Context: Europe, Fitch Ratings, France, Italy, Spain_
+_Context: Europe, Fitch Ratings, France, Italians, Spain_
 
 ##### Russia
 ### [Russia joins the World Trade Organization. ](/news/2011/12/16/russia-joins-the-world-trade-organization.md)

@@ -13,7 +13,7 @@ _Context: Jendayi Frazer, Somali civil war, al Qaeda_
 
 ##### Formula One
 ### [ Retired Formula One driver Clay Regazzoni dies in a car accident when the Chrysler Voyager he was driving hit a lorry head on, outside Parma, Italy. ](/news/2006/12/15/retired-formula-one-driver-clay-regazzoni-dies-in-a-car-accident-when-the-chrysler-voyager-he-was-driving-hit-a-lorry-head-on-outside-parm.md)
-_Context: Chrysler Voyager, Clay Regazzoni, Formula One, Italy, Parma, lorry_
+_Context: Chrysler Voyager, Clay Regazzoni, Formula One, Italians, Parma, lorry_
 
 ##### 2006 Asian Games
 ### [ The 2006 Asian Games is officially closed at the 50,000 seater Khalifa International Stadium in Doha, Qatar marking the end of 15 days of competition.](/news/2006/12/15/the-2006-asian-games-is-officially-closed-at-the-50-000-seater-khalifa-international-stadium-in-doha-qatar-marking-the-end-of-15-days-of-c.md)

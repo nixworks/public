@@ -49,7 +49,7 @@ _Context: United States, heat wave_
 
 ##### Floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
-_Context: Chinese, Sichuan, floods_
+_Context: China, Sichuan, floods_
 
 ##### Mosul
 ### [A bomb detonates inside a teahouse in Mosul, Iraq killing at least 10 people. ](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.md)

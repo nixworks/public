@@ -25,7 +25,7 @@ Exxon Mobil Corp. and OAO Rosneft, Russia’s biggest oil producer, will announc
 
 ##### 68th Venice International Film Festival
 ### [The 68th Venice International Film Festival gets underway in Venice, Italy. ](/news/2011/08/31/the-68th-venice-international-film-festival-gets-underway-in-venice-italy.md)
-_Context: 68th Venice International Film Festival, Italy, Venice_
+_Context: 68th Venice International Film Festival, Italians, Venice_
 
 ##### Syrian Army
 ### [Syrian Army troops reportedly raid neighbourhoods in the town of Hama looking for anti-government activists. ](/news/2011/08/31/syrian-army-troops-reportedly-raid-neighbourhoods-in-the-town-of-hama-looking-for-anti-government-activists.md)

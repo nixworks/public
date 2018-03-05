@@ -9,7 +9,7 @@ Demonstrations are held in London and Manchester against raising university tuit
 
 ##### Burma
 ### [Burma's pro-democracy leader Aung San Suu Kyi addresses the World Economic Forum in Davos, Switzerland. ](/news/2011/01/29/burma-s-pro-democracy-leader-aung-san-suu-kyi-addresses-the-world-economic-forum-in-davos-switzerland.md)
-_Context: Aung San Suu Kyi, Burma, Davos, Switzerland, World Economic Forum, democratic_
+_Context: Aung San Suu Kyi, Burma, Davos, Swiss, World Economic Forum, democratic_
 
 ##### Seanad Eireann
 ### [Seanad Eireann, Ireland's upper house, passes the significant Finance Bill, effectively imposing harsh austerity measures on the Irish public. It is the last act carried out by the government before a general election is called. ](/news/2011/01/29/seanad-aireann-ireland-s-upper-house-passes-the-significant-finance-bill-effectively-imposing-harsh-austerity-measures-on-the-irish-publ.md)

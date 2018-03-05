@@ -31,7 +31,7 @@ Parts of the south and west are on high alert this evening as more rain and high
 ### [ Archbishop of Canterbury Rowan Williams and Pope Benedict XVI agree to "seek closer relations" in a meeting in Rome. ](/news/2009/11/21/archbishop-of-canterbury-rowan-williams-and-pope-benedict-xvi-agree-to-seek-closer-relations-in-a-meeting-in-rome.md)
 The Archbishop of Canterbury and Pope Benedict XVI took significant steps on Saturday to heal the rift between their respective faiths.
 
-##### Italy
+##### Italians
 ### [ Italian police arrest two Pakistani nationals suspected of providing logistical support to the group responsible for the attacks in Mumbai in 2008. ](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.md)
 Italian anti-terrorist police have arrested two Pakistanis suspected of helping to finance the Islamic militant group responsible for the attacks on Mumbai in November 2008, that killed 166 people.
 

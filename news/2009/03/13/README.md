@@ -35,9 +35,9 @@ Police in Pakistan have blocked highways and banned political gatherings in thre
 ### [ United Nations High Commissioner for Human Rights Navanethem Pillay accuses Sri Lanka's Armed Forces and the Tamil Tigers of possible war crimes. ](/news/2009/03/13/united-nations-high-commissioner-for-human-rights-navanethem-pillay-accuses-sri-lanka-s-armed-forces-and-the-tamil-tigers-of-possible-war-c.md)
 _Context: LTTE, Navanethem Pillay, OCHR, Sri Lanka, Sri Lankan Civil War, United Nations, armed forces, war crime_
 
-##### Italy
+##### Italians
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed. ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
-_Context: Darfur, Italy, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
+_Context: Darfur, Italians, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
 
 ##### United States
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)

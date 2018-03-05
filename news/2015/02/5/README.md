@@ -15,7 +15,7 @@ Former glam rocker - real name Paul Gadd - convicted of series of historic child
 ### [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md)
 _Context: American Sniper, Chris Kyle, Stephenville, Texas_
 
-##### Chinese
+##### China
 ### [A China shopping mall fire started by a nine-year-old boy at the city of Huizhou in Guangdong province kills at least 17 people. ](/news/2015/02/5/a-china-shopping-mall-fire-started-by-a-nine-year-old-boy-at-the-city-of-huizhou-in-guangdong-province-kills-at-least-17-people.md)
 A blaze at a southern Chinese shopping centre that killed 17 people was started by a nine-year-old boy playing with a lighter, police say.
 

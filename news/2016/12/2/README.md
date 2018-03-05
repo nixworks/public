@@ -39,9 +39,9 @@ The president-elect spoke by phone with the president of Taiwan in the first suc
 ### [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md)
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.
 
-##### Chinese
+##### China
 ### [The bodies of 21 coal miners are retrieved from an unlicensed coal mine in the Chinese city of Qitaihe in the province of Heilongjiang. Four people have been arrested including the owner of the mine and three managers. ](/news/2016/12/2/the-bodies-of-21-coal-miners-are-retrieved-from-an-unlicensed-coal-mine-in-the-chinese-city-of-qitaihe-in-the-province-of-heilongjiang-four.md)
-_Context: Chinese, Heilongjiang, Qitaihe_
+_Context: China, Heilongjiang, Qitaihe_
 
 ##### 2016 Southeastern United States wildfires
 ### [The death toll from the wildfire that hit the U.S. town of Gatlinburg, Tennessee, rises to 13. ](/news/2016/12/2/the-death-toll-from-the-wildfire-that-hit-the-u-s-town-of-gatlinburg-tennessee-rises-to-13.md)
@@ -49,7 +49,7 @@ _Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee_
 
 ##### Hubei
 ### [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md)
-_Context: Chinese, Hubei_
+_Context: China, Hubei_
 
 ##### U.S. President
 ### [United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. ](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.md)

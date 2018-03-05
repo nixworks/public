@@ -11,9 +11,9 @@ After a historic but awkward comet landing, the robot probe Philae is now stable
 ### [A United States Secret Service report outlines numerous security failures that enabled Omar Gonzalez to enter the White House. ](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.md)
 Layer after layer of measures that were supposed to block an intruder all failed in stunning succession.
 
-##### Switzerland
+##### Swiss
 ### [A spokeswoman for the public prosecutor in Switzerland confirms existence of open criminal investigations regarding several people who may have taken part in manipulation of the currency exchange markets; such investigations are also underway in the United States and Britain. ](/news/2014/11/13/a-spokeswoman-for-the-public-prosecutor-in-switzerland-confirms-existence-of-open-criminal-investigations-regarding-several-people-who-may-h.md)
-_Context: Switzerland_
+_Context: Swiss_
 
 ##### Chhattisgarh
 ### [A doctor is arrested, believed responsible for the deaths of 13 women in a state-run sterilization clinic in Chhattisgarh, India. ](/news/2014/11/13/a-doctor-is-arrested-believed-responsible-for-the-deaths-of-13-women-in-a-state-run-sterilization-clinic-in-chhattisgarh-india.md)

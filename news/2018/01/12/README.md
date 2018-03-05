@@ -9,7 +9,7 @@ Alberto Bazbaz, an ally of the president, has been handed the top intelligence j
 
 ##### Government
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, Social Democratic Party of Germany, caretaker, government, grand coalition_
+_Context: CDU/CSU, SPD, federal elections, government, grand coalition_
 
 ##### European Parliament
 ### [After European Parliament auditors conclude that he used a parliamentary assistant for UKIP party matters instead of for work related to the duties of a Member of the European Parliament, Nigel Farage will now pay back GBP35,500 (EUR40,000) through having half of his salary withheld. ](/news/2018/01/12/after-european-parliament-auditors-conclude-that-he-used-a-parliamentary-assistant-for-ukip-party-matters-instead-of-for-work-related-to-the.md)

@@ -45,7 +45,7 @@ Uruguayan president Tabare Vazquez called for an integrated Mercosur with a grea
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il tells a visiting envoy of Chinese President Hu Jintao he is willing to engage in talks on his country's nuclear programme. ](/news/2009/09/18/north-korean-leader-kim-jong-il-tells-a-visiting-envoy-of-chinese-president-hu-jintao-he-is-willing-to-engage-in-talks-on-his-country-s-nuc.md)
-_Context: China, Hu Jintao, Kim Jong-il, North Korea, President_
+_Context: China, Chinese President, Hu Jintao, Kim Jong-il, North Korea_
 
 ##### Brazil
 ### [ The Brazilian government announces a plan to ban sugarcane farming in the Amazon Rainforest and indigenous areas. ](/news/2009/09/18/the-brazilian-government-announces-a-plan-to-ban-sugarcane-farming-in-the-amazon-rainforest-and-indigenous-areas.md)

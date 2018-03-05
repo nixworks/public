@@ -19,7 +19,7 @@ The CIA condemns Wikileaks over publication of documents from a private email ac
 ### [St. Louis' police chief announces officers are stepping up patrols following fires at six predominantly African-American churches in the past two weeks. No one has been injured in any of the fires. The reward for information leading to an arrest is now $4,000; the St. Louis Police Officers' Association will match the $2,000 reward being offered by the St. Louis Regional Crime Stoppers and the ATF. The American Civil Liberties Union of Missouri and the Anti-Defamation League suggest the fires may be arson sparked by racist motivations. ](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.md)
 Fires have been set at the front doors of six churches in St. Louis and Jennings since Oct. 8.
 
-##### Chinese
+##### China
 ### [Two Chinese consulate staff are killed and a consul general injured after a gunman opened fire on a restaurant in the city of Cebu, the "second city" of the Philippines. Various reports named the gunman as Chinese national Li Qingliang. ](/news/2015/10/21/two-chinese-consulate-staff-are-killed-and-a-consul-general-injured-after-a-gunman-opened-fire-on-a-restaurant-in-the-city-of-cebu-the-sec.md)
 Chinese diplomat injured and two consulate staff shot at an upmarket Philippine restaurant
 
@@ -41,7 +41,7 @@ _Context: Bashar al-Assad, Moscow, President, President, Syrian Civil War, Vladi
 
 ##### American Academy of Pediatrics
 ### [The American Academy of Pediatrics calls for pregnant women to abstain completely from alcohol during the entire three trimesters of the pregnancy, saying no amount of any type of alcohol should be considered safe since the risks, to the baby in particular (such as fetal alcohol syndrome, among many others), are too great. This puts the U.S. alongside other Western developed countries- except Italy and the United Kingdom, which still allow occasional small amounts- in urging complete abstinence. The American College of Obstetricians and Gynecologists and the Centers for Disease Control and Prevention (CDC), the two other U.S. agencies that comment most about this issue, already recommend total alcohol abstinence. ](/news/2015/10/21/the-american-academy-of-pediatrics-calls-for-pregnant-women-to-abstain-completely-from-alcohol-during-the-entire-three-trimesters-of-the-pre.md)
-_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, United Kingdom, fetal alcohol syndrome_
+_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italians, United Kingdom, fetal alcohol syndrome_
 
 ##### United States
 ### [A U.S. F-18 fighter jet crashes into farmland near RAF Lakenheath in Suffolk county, England, killing the pilot. ](/news/2015/10/21/a-u-s-f-18-fighter-jet-crashes-into-farmland-near-raf-lakenheath-in-suffolk-county-england-killing-the-pilot.md)

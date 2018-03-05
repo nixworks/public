@@ -19,9 +19,9 @@ _Context: Hanoi, Viet Nam, first execution, lethal injection_
 ### [The trial of Major Nidal Malik Hasan, a former United States Army Medical Corps officer and the Gunman during the Fort Hood shooting, begins. ](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.md)
 Hasan, paralyzed from the waist down after being shot by police, is representing himself.
 
-##### Switzerland
+##### Swiss
 ### [A hot Air Balloon carrying an American family crashes killing one person and injures four in the Swiss town of Montbovon. ](/news/2013/08/6/a-hot-air-balloon-carrying-an-american-family-crashes-killing-one-person-and-injures-four-in-the-swiss-town-of-montbovon.md)
-_Context: Switzerland_
+_Context: Swiss_
 
 ##### Argentina
 ### [A gas explosion in an apartment block kills five people and injures a dozen in the Argentine city of Rosario. ](/news/2013/08/6/a-gas-explosion-in-an-apartment-block-kills-five-people-and-injures-a-dozen-in-the-argentine-city-of-rosario.md)

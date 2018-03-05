@@ -15,7 +15,7 @@ Benin President Boni Yayi sacked his entire government on Friday &quot;to breath
 ### [A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. ](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-posts-a-picture-of-her-corpse-with-a-confession-onto-facebook-the-picture-is-removed-and-the-m.md)
 _Context: Facebook, Florida_
 
-##### Chinese
+##### China
 ### [Liu Tienan, the deputy head of China's National Development and Reform Commission, is expelled from the Communist Party for corruption. ](/news/2013/08/9/liu-tienan-the-deputy-head-of-china-s-national-development-and-reform-commission-is-expelled-from-the-communist-party-for-corruption.md)
 Liu Tienan, a former top economic official in China, is expelled from the Communist Party and removed from public office, state media report.
 

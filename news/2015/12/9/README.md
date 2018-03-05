@@ -17,7 +17,7 @@ While city officials acknowledged that they can&#x27;t legally stop Trump from t
 
 ##### Chinese state television
 ### [Chinese state television reports Guo Youming, former deputy governor of Hubei province, is found guilty of taking bribes totaling more than 23.8 million yuan ($3.70 million). Guo is the latest to be convicted as a result of President Xi Jinping's anti-corruption campaign that started when Xi took office three years ago. ](/news/2015/12/9/chinese-state-television-reports-guo-youming-former-deputy-governor-of-hubei-province-is-found-guilty-of-taking-bribes-totaling-more-than.md)
-_Context: Anti-corruption campaign in China, Chinese state television, Guo Youming, Hubei, President, Xi Jinping, bribes, yuan_
+_Context: Anti-corruption campaign in China, Chinese President, Chinese state television, Guo Youming, Hubei, Xi Jinping, bribes, yuan_
 
 ##### Australian Federal Police
 ### [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-nakam.md)

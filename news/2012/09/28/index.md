@@ -3,9 +3,9 @@ Formats: [HTML](2012/09/28/index.html)  [JSON](2012/09/28/index.json)  [XML](201
 
 ## [2012-09-28](/news/2012/09/28/index.md)
 
-##### Social Democratic Party of Germany
+##### SPD
 ### [Social Democratic Party of Germany president Sigmar Gabriel proposes Peer Steinbrck as the party's Chancellor candidate for the next German federal election to be held in 2013. ](/news/2012/09/28/social-democratic-party-of-germany-president-sigmar-gabriel-proposes-peer-steinbruck-as-the-party-s-chancellor-candidate-for-the-next-german.md)
-_Context: Chancellor, Peer Steinbrck, Sigmar Gabriel, Social Democratic Party of Germany, next German federal election_
+_Context: Chancellor, Peer Steinbrck, SPD, Sigmar Gabriel, next German federal election_
 
 ##### Politburo
 ### [The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md)

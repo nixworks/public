@@ -3,9 +3,9 @@ Formats: [HTML](2011/11/2/index.html)  [JSON](2011/11/2/index.json)  [XML](2011/
 
 ## [2011-11-2](/news/2011/11/2/index.md)
 
-##### Chinese
+##### China
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
-_Context: Chinese, Shenzhou 8, Tiangong 1, space station_
+_Context: China, Shenzhou 8, Tiangong 1, space station_
 
 ##### Greece
 ### [The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-european-union-s-proposed-econo.md)

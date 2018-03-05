@@ -61,9 +61,9 @@ BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thur
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.
 
-##### Chinese
+##### China
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: 24-hour English TV news channel, China, Chinese, Xinhua_
+_Context: 24-hour English TV news channel, China, China, Xinhua_
 
 ##### Ottawa
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday. ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)

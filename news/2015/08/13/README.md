@@ -21,7 +21,7 @@ _Context: the explosions last year_
 
 ##### 2015 Chinese stock market crash
 ### [The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devaluings.md)
-_Context: 2015 Chinese stock market crash, Chinese, yuan_
+_Context: 2015 Chinese stock market crash, China, yuan_
 
 ##### Solid Energy
 ### [The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. ](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.md)

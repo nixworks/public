@@ -33,7 +33,7 @@ _Context: Philippines, Typhoon Durian, Vietnam_
 
 ##### Nigerian
 ### [ Nigerian gun men attack an Agip oil terminal in the Niger River delta and take three Italians hostage. ](/news/2006/12/7/nigerian-gun-men-attack-an-agip-oil-terminal-in-the-niger-river-delta-and-take-three-italians-hostage.md)
-_Context: Agip, Italy, Niger River, Nigerian_
+_Context: Agip, Italians, Niger River, Nigerian_
 
 ##### Doha Asian Games
 ### [ The Doha Asian Games suffered a tragedy when South Korean rider Kim Hyung-chil died after falling from his horse during the equestrian competition. ](/news/2006/12/7/the-doha-asian-games-suffered-a-tragedy-when-south-korean-rider-kim-hyung-chil-died-after-falling-from-his-horse-during-the-equestrian-comp.md)

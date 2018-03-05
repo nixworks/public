@@ -19,7 +19,7 @@ _Context: Bhumibol Adulyadej, Thailand, cloud seeding, drought, rain_
 ### [ In Russia, Anatoly Chubais, head of Russia's state power monopoly RAO UES, survives an apparent ambush ](/news/2005/03/17/in-russia-anatoly-chubais-head-of-russia-s-state-power-monopoly-rao-ues-survives-an-apparent-ambush.md)
 _Context: Anatoly Chubais, RAO UES, Russia, ambush_
 
-##### Italy
+##### Italians
 ### [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. ](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
@@ -35,13 +35,13 @@ _Context: London, Sumitomo Mitsui Bank_
 ### [ In Bolivia, opposition leader Evo Morales calls off blockades against the government of Carlos Mesa after it raises taxes of foreign energy companies. ](/news/2005/03/17/in-bolivia-opposition-leader-evo-morales-calls-off-blockades-against-the-government-of-carlos-mesa-after-it-raises-taxes-of-foreign-energy.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Chinese
+##### China
 ### [ In China, a bus explosion kills about 30 people in Jiangxi province. ](/news/2005/03/17/in-china-a-bus-explosion-kills-about-30-people-in-jiangxi-province.md)
-_Context: Chinese, Jiangxi, bus_
+_Context: China, Jiangxi, bus_
 
 ##### NGO
 ### [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md)
-_Context: Geneva, NGO, Switzerland, World Water Forum, privatization, water_
+_Context: Geneva, NGO, Swiss, World Water Forum, privatization, water_
 
 ##### Transparency International
 ### [ Transparency International (TI), a nonprofit which works against corruption, warns about US companies overcharging for the rebuilding of Iraq. A TI study showed that a multi-million-dollar deal was awarded to a US company only for it to sub-contract the work to an Iraqi firm for a fraction of the cost. ](/news/2005/03/17/transparency-international-ti-a-nonprofit-which-works-against-corruption-warns-about-us-companies-overcharging-for-the-rebuilding-of-ir.md)

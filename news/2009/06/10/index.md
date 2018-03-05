@@ -9,7 +9,7 @@ Google Inc (GOOG.O) hasreceived formal notice from the U.S. Justice Department t
 
 ##### Libya
 ### [ Libyan leader Muammar Gaddafi arrives in Rome on his first visit to Italy, Libya's former colonial ruler and now its biggest trading partner, wearing a photograph of Omar Mukhtar. ](/news/2009/06/10/libyan-leader-muammar-gaddafi-arrives-in-rome-on-his-first-visit-to-italy-libya-s-former-colonial-ruler-and-now-its-biggest-trading-partne.md)
-_Context: Italy, Libya, Muammar Gaddafi, Omar Mukhtar, Rome, Italy_
+_Context: Italians, Libya, Muammar Gaddafi, Omar Mukhtar, Rome, Italy_
 
 ##### Donetsk
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
@@ -25,7 +25,7 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen state, Myanmar Army, R
 
 ##### Palau
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: Chinese, Guantanamo Bay detention camp, Palau, Uyghur_
+_Context: China, Guantanamo Bay detention camp, Palau, Uyghur_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)

@@ -43,9 +43,9 @@ A Rwandan court gave prosecutors an extra 30 days to complete their investigatio
 ### [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md)
 _Context: Hezbollah, Lebanon's Prime Minister, Rafiq Hariri, Saad Hariri, U.N., killing former prime minister_
 
-##### Chinese
+##### China
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
-_Context:  threatening, Chinese, North Korea, South Korea, U.S., exclusive economic zone_
+_Context:  threatening, China, North Korea, South Korea, U.S., exclusive economic zone_
 
 ##### North Korea
 ### [North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md)

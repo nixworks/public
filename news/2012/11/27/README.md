@@ -31,9 +31,9 @@ France confirms it intends to vote in favour of the Palestinian bid for recognit
 ### [The UK government is to create a new wave of universities both in the private and public sector, the first new universities in the country for two decades. ](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.md)
 About a dozen &quot;new&quot; universities are set to be created in England - as specialist institutions are granted university status.
 
-##### Chinese
+##### China
 ### [A Chinese-made training airplane K-8 crashes during an air force flying exhibition in Venezuela, the two pilots ejected successfully. The French-made military helicopter Cougar sent to rescue the pilots also crashes, no one is injured. ](/news/2012/11/27/a-chinese-made-training-airplane-k-8-crashes-during-an-air-force-flying-exhibition-in-venezuela-the-two-pilots-ejected-successfully-the-fr.md)
-_Context: Chinese, Cougar, France, K-8, Venezuela_
+_Context: China, Cougar, France, K-8, Venezuela_
 
 ##### Eurozone
 ### [The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. ](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros-in-loans-to-greece-from-december-13-for-reducing-greece-s-debt.md)

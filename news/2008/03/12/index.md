@@ -25,7 +25,7 @@ _Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Fore
 
 ##### France
 ### [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md)
-_Context: First World War, France, French Foreign Legion, Italy, Lazare Ponticelli, trench, veteran_
+_Context: First World War, France, French Foreign Legion, Italians, Lazare Ponticelli, trench, veteran_
 
 ##### Southwest Airlines
 ### [ Southwest Airlines grounds 41 jets after the FAA discovers the airline failed to inspect its Boeing 737s for structural flaws during 2006 and 2007. ](/news/2008/03/12/southwest-airlines-grounds-41-jets-after-the-faa-discovers-the-airline-failed-to-inspect-its-boeing-737s-for-structural-flaws-during-2006-a.md)

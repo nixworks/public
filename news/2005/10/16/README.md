@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/16/index.html)  [JSON](2005/10/16/index.json)  [XML](200
 
 ##### Chinese manned spacecraft
 ### [ The reentry module of the Chinese manned spacecraft "Shenzhou 6" lands safely in Inner Mongolia, China. ](/news/2005/10/16/the-reentry-module-of-the-chinese-manned-spacecraft-shenzhou-6-lands-safely-in-inner-mongolia-china.md)
-_Context: Chinese, Chinese manned spacecraft, Inner Mongolia, Shenzhou 6_
+_Context: China, Chinese manned spacecraft, Inner Mongolia, Shenzhou 6_
 
 ##### Palestinian Islamic Jihad
 ### [ A leader of Islamic Jihad is killed in a shoot-out following an Israeli raid into the West Bank town of Jenin. ](/news/2005/10/16/a-leader-of-islamic-jihad-is-killed-in-a-shoot-out-following-an-israeli-raid-into-the-west-bank-town-of-jenin.md)

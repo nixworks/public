@@ -17,7 +17,7 @@ Microsoft Research and Wikipedia have joined forces to launch a beta version of 
 
 ##### Brazil
 ### [The Brazil hydroelectric plant in Foz do Iguacu is second largest hydroelectric plant in world after the Three Gorges in China. ](/news/2010/10/21/the-brazil-hydroelectric-plant-in-foz-do-iguacu-is-second-largest-hydroelectric-plant-in-world-after-the-three-gorges-in-china.md)
-_Context: Brazil, Chinese, Three Gorges, hydroelectric_
+_Context: Brazil, China, Three Gorges, hydroelectric_
 
 ##### Buenos Aires
 ### [Thousands of people protest in Buenos Aires, the capital of Argentina, after a left-wing activist is killed in a dispute between two labor unions. ](/news/2010/10/21/thousands-of-people-protest-in-buenos-aires-the-capital-of-argentina-after-a-left-wing-activist-is-killed-in-a-dispute-between-two-labor-u.md)
@@ -47,9 +47,9 @@ A jealous schoolteacher who doctored the parachute of a love rival causing her t
 ### [Jewish settlers have started building more than 600 homes in the West Bank since a building freeze expired last month. ](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.md)
 Jewish settlers have started work on some 600 West Bank homes since an Israeli construction freeze expired - four times the pace of building before then, a pressure group says.
 
-##### Chinese
+##### China
 ### [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md)
-_Context: African Union - United Nations Hybrid Operation in Darfur, Chinese, Darfur, Sudan, United Nations_
+_Context: African Union - United Nations Hybrid Operation in Darfur, China, Darfur, Sudan, United Nations_
 
 ##### Cuban dissident
 ### [Cuban dissident Guillermo Farinas, who has staged more than 20 hunger strikes, is awarded the Sakharov Prize for Freedom of Thought by the European Parliament. ](/news/2010/10/21/cuban-dissident-guillermo-faria-as-who-has-staged-more-than-20-hunger-strikes-is-awarded-the-sakharov-prize-for-freedom-of-thought-by-the.md)

@@ -23,9 +23,9 @@ Indonesia has captured the head of Southeast Asian militant group Jemaah Islamiy
 ### [ In the UK, seven members of Dhiren Barot's al Qaeda cell are sentenced to a total of 136 years in prison. ](/news/2007/06/15/in-the-uk-seven-members-of-dhiren-barot-s-al-qaeda-cell-are-sentenced-to-a-total-of-136-years-in-prison.md)
 _Context: Dhiren Barot, UK, al Qaeda_
 
-##### Switzerland
+##### Swiss
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)
-_Context: Alps, Ltschberg tunnel, Switzerland, tunnel_
+_Context: Alps, Ltschberg tunnel, Swiss, tunnel_
 
 ##### Mike Nifong
 ### [ Mike Nifong, facing disbarment for his actions in the 2006 Duke University lacrosse case, agrees to resign his position as district attorney for Durham County in the U.S. state of North Carolina. ](/news/2007/06/15/mike-nifong-facing-disbarment-for-his-actions-in-the-2006-duke-university-lacrosse-case-agrees-to-resign-his-position-as-district-attorne.md)

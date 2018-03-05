@@ -3,7 +3,7 @@ Formats: [HTML](2006/08/19/index.html)  [JSON](2006/08/19/index.json)  [XML](200
 
 ## [2006-08-19](/news/2006/08/19/index.md)
 
-##### Chinese
+##### China
 ### [ The Chinese death toll from Typhoon Saomai rises to 436 with 100 new deaths reported in the east of the country. ](/news/2006/08/19/the-chinese-death-toll-from-typhoon-saomai-rises-to-436-with-100-new-deaths-reported-in-the-east-of-the-country.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

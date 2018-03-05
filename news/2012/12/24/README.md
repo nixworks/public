@@ -21,7 +21,7 @@ Pakistan becomes the 98th state to formally recognise Kosovo as an independent c
 
 ##### Minivan
 ### [A minivan carrying 15 children to kindergarten plunges into a roadside pond in a rural area of eastern China, killing 11 children. ](/news/2012/12/24/a-minivan-carrying-15-children-to-kindergarten-plunges-into-a-roadside-pond-in-a-rural-area-of-eastern-china-killing-11-children.md)
-_Context: Chinese, kindergarten, minivan, rural area_
+_Context: China, kindergarten, minivan, rural area_
 
 ##### Rain
 ### [A band of rain sweeping the United Kingdom brings fresh flooding and disrupted rail services to south-west England and Scotland. ](/news/2012/12/24/a-band-of-rain-sweeping-the-united-kingdom-brings-fresh-flooding-and-disrupted-rail-services-to-south-west-england-and-scotland.md)

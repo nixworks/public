@@ -45,7 +45,7 @@ Evacuated villagers to be allowed to return home after an international firefigh
 ### [Hundreds of people evacuate the Australian town of Wagga Wagga as flood waters rise throughout New South Wales. ](/news/2010/12/5/hundreds-of-people-evacuate-the-australian-town-of-wagga-wagga-as-flood-waters-rise-throughout-new-south-wales.md)
 _Context: Australia, NSW, Wagga Wagga_
 
-##### Italy
+##### Italians
 ### [8 people are killed after a car collides with a group of cyclists in Italy. ](/news/2010/12/5/8-people-are-killed-after-a-car-collides-with-a-group-of-cyclists-in-italy.md)
 Italian police say they have arrested a man after his car ploughed into a group of cyclists, killing seven of them.
 

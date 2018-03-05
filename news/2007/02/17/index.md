@@ -3,9 +3,9 @@ Formats: [HTML](2007/02/17/index.html)  [JSON](2007/02/17/index.json)  [XML](200
 
 ## [2007-02-17](/news/2007/02/17/index.md)
 
-##### Italy
+##### Italians
 ### [ Italians demonstrate against the expansion of a United States Army base in Vicenza, home of the 173rd Airborne Brigade. ](/news/2007/02/17/italians-demonstrate-against-the-expansion-of-a-united-states-army-base-in-vicenza-home-of-the-173rd-airborne-brigade.md)
-_Context: 173rd Airborne Brigade, Italy, United States soldier, Vicenza, protest_
+_Context: 173rd Airborne Brigade, Italians, United States soldier, Vicenza, protest_
 
 ##### Suicide bomb
 ### [ A suicide bomb in a district court in Quetta, the capital of Balochistan, Pakistan kills at least 13 people. ](/news/2007/02/17/a-suicide-bomb-in-a-district-court-in-quetta-the-capital-of-balochistan-pakistan-kills-at-least-13-people.md)

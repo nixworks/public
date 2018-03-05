@@ -7,7 +7,7 @@ Formats: [HTML](2010/12/31/index.html)  [JSON](2010/12/31/index.json)  [XML](201
 ### [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country's blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-countryas-blasphemy-laws.md)
 A 24-hour strike organised by Sunni Muslim clerics has taken place across Pakistan to protest against possible changes to blasphemy laws.
 
-##### Italy
+##### Italians
 ### [Italy bans plastic bags. ](/news/2010/12/31/italy-bans-plastic-bags.md)
 A ban on plastic bags is about to come into effect in Italy, where about 20 billion are used every year.
 

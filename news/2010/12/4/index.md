@@ -37,7 +37,7 @@ Negligence, not arson, is the likely cause of the deadly forest fire burning out
 
 ##### China
 ### [10 Chinese sailors are missing and 14 others are rescued after the cargo ship MV Hong Wei founders off the southeast coast of China. ](/news/2010/12/4/10-chinese-sailors-are-missing-and-14-others-are-rescued-after-the-cargo-ship-mv-hong-wei-founders-off-the-southeast-coast-of-china.md)
-_Context: China, Chinese, MV Hong Wei, cargo ship_
+_Context: China, China, MV Hong Wei, cargo ship_
 
 ##### Crashes
 ### [An aircraft crashes at Domodedovo airport in Moscow after undergoing multiple engine failure, with at least 2 deaths and 80 injuries. ](/news/2010/12/4/an-aircraft-crashes-at-domodedovo-airport-in-moscow-after-undergoing-multiple-engine-failure-with-at-least-2-deaths-and-80-injuries.md)

@@ -27,9 +27,9 @@ _Context: China, Middle East, subversion_
 ### [India and Pakistan agree to set up a "terror hotline" to share information about terror threats. ](/news/2011/03/29/india-and-pakistan-agree-to-set-up-a-terror-hotline-to-share-information-about-terror-threats.md)
 _Context: India, Pakistan_
 
-##### Italy
+##### Italians
 ### [Local residents on Italy's southern islands protest over the arrival of more migrants from North Africa on boats. ](/news/2011/03/29/local-residents-on-italy-s-southern-islands-protest-over-the-arrival-of-more-migrants-from-north-africa-on-boats.md)
-_Context: Italy, North Africa_
+_Context: Italians, North Africa_
 
 ##### Alabama
 ### [Nine hospital patients in the US state of Alabama die after being treated with Intravenous therapy feeding bags with the manufacturer withdrawing the product. ](/news/2011/03/29/nine-hospital-patients-in-the-us-state-of-alabama-die-after-being-treated-with-intravenous-therapy-feeding-bags-with-the-manufacturer-withdr.md)

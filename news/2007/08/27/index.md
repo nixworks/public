@@ -49,7 +49,7 @@ _Context: Montreal Metro, The Bay_
 
 ##### Der Spiegel
 ### [ In a "Der Spiegel" report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three-ot.md)
-_Context: Chancellor, Chinese, Der Spiegel, Government of Germany, computer, hackers_
+_Context: Chancellor, China, Der Spiegel, Government of Germany, computer, hackers_
 
 ##### Muhammed Ishaq Khakwani
 ### [ Muhammed Ishaq Khakwani resigns as Pakistan minister of state for Information Technology over General Pervez Musharraf campaigning for re-election as the President of Pakistan while still an army officer. ](/news/2007/08/27/muhammed-ishaq-khakwani-resigns-as-pakistan-minister-of-state-for-information-technology-over-general-pervez-musharraf-campaigning-for-re-e.md)

@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United States
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italy, Supreme Court of the United States, United States, automakers, purchase_
+_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italians, Supreme Court of the United States, United States, automakers, purchase_
 
 ##### Gay pride
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)

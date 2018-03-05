@@ -3,7 +3,7 @@ Formats: [HTML](2016/01/30/index.html)  [JSON](2016/01/30/index.json)  [XML](201
 
 ## [2016-01-30](/news/2016/01/30/index.md)
 
-##### Italy
+##### Italians
 ### [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-leg.md)
 Hundreds of thousands of Italians descended on Rome on Saturday to protest a bill that would legalize same-sex unions across the country.
 

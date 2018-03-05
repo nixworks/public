@@ -69,7 +69,7 @@ Togo threaten to withdraw from competition after a coach carrying the country&rs
 
 ##### Immigrant
 ### [Riots break out amongst immigrants and local inhabitants in the town of Rosarno in southern Italy in a protest against an attack on African workers by white youths. ](/news/2010/01/8/riots-break-out-amongst-immigrants-and-local-inhabitants-in-the-town-of-rosarno-in-southern-italy-in-a-protest-against-an-attack-on-african.md)
-_Context: Africa, Italy, Rosarno, immigrant_
+_Context: Africa, Italians, Rosarno, immigrant_
 
 ##### Malaysia
 ### [Several churches in Malaysia are attacked amid tensions over the use of "Allah" by non-Muslims in the country. ](/news/2010/01/8/several-churches-in-malaysia-are-attacked-amid-tensions-over-the-use-of-allah-by-non-muslims-in-the-country.md)

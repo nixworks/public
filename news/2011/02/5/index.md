@@ -25,7 +25,7 @@ David Cameron criticises &quot;state multiculturalism&quot; in his first speech 
 
 ##### Firefighter
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
-_Context: Chinese, Zhejiang Province, firefighter_
+_Context: China, Zhejiang Province, firefighter_
 
 ##### Uricani Coal Mine
 ### [An explosion at the Uricani Coal Mine in southwestern Romania kills five people. ](/news/2011/02/5/an-explosion-at-the-uricani-coal-mine-in-southwestern-romania-kills-five-people.md)

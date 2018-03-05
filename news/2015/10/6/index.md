@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Typhoon Mujigae (2015)
 ### [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md)
-_Context: Chinese, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015), flash flood_
+_Context: China, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015), flash flood_
 
 ##### European Court of Justice
 ### [The European Court of Justice decides an international agreement, generally known as a Safe Harbor rule, used by thousands of companies for moving people's digital data between the European Union and the United States is invalid, effective immediately. The decision throws into doubt how global technology giants like Facebook, Amazon and Google can collect, manage, and analyze online information from their millions of users in the 28-member bloc. Decisions by this court, the highest legal authority in the EU, cannot be appealed. ](/news/2015/10/6/the-european-court-of-justice-decides-an-international-agreement-generally-known-as-a-safe-harbor-rule-used-by-thousands-of-companies-for.md)

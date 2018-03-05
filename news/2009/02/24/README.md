@@ -7,9 +7,9 @@ Formats: [HTML](2009/02/24/index.html)  [JSON](2009/02/24/index.json)  [XML](200
 ### [ Teachers in Zimbabwe will end their strike action upon receiving government aid. ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md)
 _Context: Politics of Zimbabwe, Teacher, Zimbabwe, strike_
 
-##### Italy
+##### Italians
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: France, French President, Italy, Nicolas Sarkozy, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
+_Context: France, French President, Italians, Nicolas Sarkozy, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
 
 ##### United States
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)

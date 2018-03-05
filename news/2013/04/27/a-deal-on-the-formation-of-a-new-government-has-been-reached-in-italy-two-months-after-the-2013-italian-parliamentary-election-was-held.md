@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/27/a-deal-on-the-formation-of-a-new-government-has
 
 ### [2013-04-27](/news/2013/04/27/index.md)
 
-##### Italy
+##### Italians
 # A deal on the formation of a new government has been reached in Italy, two months after the 2013 Italian parliamentary election was held. 
 
 A new government is agreed in Italy by PM-designate Enrico Letta, ending two months of political deadlock since the general election.
@@ -16,8 +16,8 @@ A new government is agreed in Italy by PM-designate Enrico Letta, ending two mon
 
 ### Related:
 
-1. [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md) _Context: 2013 Italian parliamentary election, Italy_
-2. [Voters in Italy go to the polls for the first day of a general election. ](/news/2013/02/24/voters-in-italy-go-to-the-polls-for-the-first-day-of-a-general-election.md) _Context: 2013 Italian parliamentary election, Italy_
-3. [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md) _Context: 2013 Italian parliamentary election, Italy_
-4. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_
-5. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
+1. [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md) _Context: 2013 Italian parliamentary election, Italians_
+2. [Voters in Italy go to the polls for the first day of a general election. ](/news/2013/02/24/voters-in-italy-go-to-the-polls-for-the-first-day-of-a-general-election.md) _Context: 2013 Italian parliamentary election, Italians_
+3. [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md) _Context: 2013 Italian parliamentary election, Italians_
+4. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+5. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_

@@ -11,9 +11,9 @@ The government considered denying North Korea visas to attend the 1966 World Cup
 ### [The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. ](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.md)
 Japanese scientists are waiting to find out if a space capsule which crashed to Earth in outback South Australia last night contains dust from an ancient, distant asteroid.
 
-##### Switzerland
+##### Swiss
 ### [Freed Swiss businessman Max Goldi is due to leave Libya. ](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.md)
-_Context: Libya, Max Goldi, Switzerland_
+_Context: Libya, Max Goldi, Swiss_
 
 ##### Jock Stirrup
 ### [Britain's most senior military officer, Sir Jock Stirrup, agrees to leave before the end of his term in April 2011, according to the country's Defence Secretary Liam Fox. ](/news/2010/06/13/britain-s-most-senior-military-officer-sir-jock-stirrup-agrees-to-leave-before-the-end-of-his-term-in-april-2011-according-to-the-country.md)

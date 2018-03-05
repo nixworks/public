@@ -3,9 +3,9 @@ Formats: [HTML](2007/01/1/index.html)  [JSON](2007/01/1/index.json)  [XML](2007/
 
 ## [2007-01-1](/news/2007/01/1/index.md)
 
-##### Switzerland
+##### Swiss
 ### [ In Switzerland civil unions for same-sex partners are possible.](/news/2007/01/1/in-switzerland-civil-unions-for-same-sex-partners-are-possible.md)
-_Context: Switzerland, civil union_
+_Context: Swiss, civil union_
 
 ##### Adam Air
 ### [ Adam Air Flight 574 disappears over Indonesia with 102 people on board. ](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.md)

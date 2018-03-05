@@ -19,7 +19,7 @@ _Context: Hugo Chavez, Venezuela, inauguration approaches_
 ### [The Presidential Commission on Good Government, the agency tasked to recover the ill-gotten wealth taken during the dictatorship of Ferdinand Marcos has submitted plans to President Benigno Aquino III to end its operations after 27 years. ](/news/2013/01/2/the-presidential-commission-on-good-government-the-agency-tasked-to-recover-the-ill-gotten-wealth-taken-during-the-dictatorship-of-ferdinan.md)
 THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursue alleged ill-gotten wealth of the Marcoses -- has submitted a draft bill to the Palace seeking to transfer its functions to the Justice and Finance departments as it prepares to end its three-decade existence.
 
-##### Switzerland
+##### Swiss
 ### [An unnamed gunman, 33, kills 3 women and injures 2 men in the village of Daillon, Switzerland, opening fire from his apartment, and pursuing the attack in the street; he threatened police when they arrived and was shot and hospitalized (it is speculated this will renew debate about males retaining their arms after their mandated military service). ](/news/2013/01/2/an-unnamed-gunman-33-kills-3-women-and-injures-2-men-in-the-village-of-daillon-switzerland-opening-fire-from-his-apartment-and-pursuing.md)
 GENEVA (Reuters) - Three people were killed and two wounded late on Wednesday when a gunman opened fire in the Swiss village of Daillon, Swiss police said on Thursday. The suspect threatened police...
 

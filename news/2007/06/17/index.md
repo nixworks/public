@@ -25,7 +25,7 @@ _Context: 24 Hours of Le Mans, Audi, R10, diesel-powered, prototype_
 
 ##### Linate Airport
 ### [ Linate Airport in Milan, Italy is closed for three hours at dawn to allow wildlife experts to trap 80 hares that have bred in recent months and are confusing ground radar. ](/news/2007/06/17/linate-airport-in-milan-italy-is-closed-for-three-hours-at-dawn-to-allow-wildlife-experts-to-trap-80-hares-that-have-bred-in-recent-months.md)
-_Context: Italy, Linate Airport, Milan, hare, radar_
+_Context: Italians, Linate Airport, Milan, hare, radar_
 
 ##### Ngel Cabrera
 ### [ ngel Cabrera wins the 2007 U.S. Open Golf Championship at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/17/angel-cabrera-wins-the-2007-u-s-open-golf-championship-at-oakmont-country-club-in-oakmont-pennsylvania.md)

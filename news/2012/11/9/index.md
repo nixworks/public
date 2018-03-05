@@ -11,9 +11,9 @@ The next Archbishop of Canterbury sets out his support for the ordination of wom
 ### [The UK's Secretary of State for International Development Justine Greening confirms Britain will cease giving financial aid to India by 2015. ](/news/2012/11/9/the-uk-s-secretary-of-state-for-international-development-justine-greening-confirms-britain-will-cease-giving-financial-aid-to-india-by-2015.md)
 The UK is to cease giving direct financial support to India by 2015 in recognition of its status as a major economic force, focusing instead on technical assistance.
 
-##### Chinese
+##### China
 ### [Hundreds of Tibetan students and monks protest against education policies in China's western Qinghai Province, shortly after a series of self-immolations by Tibetan monks. ](/news/2012/11/9/hundreds-of-tibetan-students-and-monks-protest-against-education-policies-in-china-s-western-qinghai-province-shortly-after-a-series-of-sel.md)
-_Context: Chinese, Qinghai Province, Tibet, monks_
+_Context: China, Qinghai Province, Tibet, monks_
 
 ##### Russia
 ### [Russian president Vladimir Putin sacks the chief of the armed forces Nikolai Makarov, three days after sacking the defence minister amid a corruption scandal. ](/news/2012/11/9/russian-president-vladimir-putin-sacks-the-chief-of-the-armed-forces-nikolai-makarov-three-days-after-sacking-the-defence-minister-amid-a-c.md)

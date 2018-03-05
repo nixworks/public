@@ -59,7 +59,7 @@ The UN General Assembly adopts a historic treaty to control the trade in convent
 ### [North Korea announces it will resume activities in the Yongbyon nuclear complex, closed since 2007. ](/news/2013/04/2/north-korea-announces-it-will-resume-activities-in-the-yongbyon-nuclear-complex-closed-since-2007.md)
 China has placed military forces on heightened alert in the northeastern part of the country as tensions mount on the Korean peninsula following recent threats by Pyongyang to attack, U.S. officials said. 
 
-##### Chinese
+##### China
 ### [Authorities in China report four more critical cases of the H7N9 strain of bird flu, taking the total of known cases to seven. ](/news/2013/04/2/authorities-in-china-report-four-more-critical-cases-of-the-h7n9-strain-of-bird-flu-taking-the-total-of-known-cases-to-seven.md)
 China reported four new cases on Tuesday of a strain of bird flu that was previously unknown in humans but has already killed two people, raising the total of known cases to seven.
 

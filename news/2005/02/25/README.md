@@ -7,9 +7,9 @@ Formats: [HTML](2005/02/25/index.html)  [JSON](2005/02/25/index.json)  [XML](200
 ### [ Militia members ambush and kill 9 UN Bangladeshi peacekeepers in the Democratic Republic of Congo. ](/news/2005/02/25/militia-members-ambush-and-kill-9-un-bangladeshi-peacekeepers-in-the-democratic-republic-of-congo.md)
 _Context: Bangladesh, Democratic Republic of Congo, United Nations, peacekeeping_
 
-##### Switzerland
+##### Swiss
 ### [ In Switzerland, the court of appeals rules that Yeslam Binladin, a half-brother of Osama bin Laden, can market products under the brand name "Bin Ladin" ](/news/2005/02/25/in-switzerland-the-court-of-appeals-rules-that-yeslam-binladin-a-half-brother-of-osama-bin-laden-can-market-products-under-the-brand-nam.md)
-_Context: Osama bin Laden, Switzerland, Yeslam Binladin, court of appeals_
+_Context: Osama bin Laden, Swiss, Yeslam Binladin, court of appeals_
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal asks for foreign help to crush Maoist insurgents. He says that he dismissed the elected government to fight terrorism and will return to democracy in three years. Many foreign countries have stopped all aid after his takeover ](/news/2005/02/25/king-gyanendra-of-nepal-asks-for-foreign-help-to-crush-maoist-insurgents-he-says-that-he-dismissed-the-elected-government-to-fight-terrori.md)

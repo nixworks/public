@@ -23,7 +23,7 @@ _Context: 1994 genocide, Aloys Mutabingwa, France, International Criminal Tribun
 ### [ American newscaster Peter Jennings states that he has lung cancer and will begin chemotherapy. ](/news/2005/04/5/american-newscaster-peter-jennings-states-that-he-has-lung-cancer-and-will-begin-chemotherapy.md)
 _Context: Peter Jennings, United States, chemotherapy, lung cancer_
 
-##### Italy
+##### Italians
 ### [ Preliminary results of the Italian regional elections show heavy losses for the parties in Silvio Berlusconi's centre-right coalition. ](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

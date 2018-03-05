@@ -7,9 +7,9 @@ Formats: [HTML](2012/12/8/index.html)  [JSON](2012/12/8/index.json)  [XML](2012/
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)
 Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Venezuela said, adding that his vice president would succeed him if his health worsened.
 
-##### Italy
+##### Italians
 ### [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Italy, Mario Monti, Prime Minister of Italy_
+_Context: Italians, Mario Monti, Prime Minister of Italy_
 
 ##### Burma
 ### [The Government of Burma apologises to Buddhist monks injured in a protest outside a copper mine last month. ](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.md)

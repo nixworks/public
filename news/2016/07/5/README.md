@@ -5,7 +5,7 @@ Formats: [HTML](2016/07/5/index.html)  [JSON](2016/07/5/index.json)  [XML](2016/
 
 ##### Computer security
 ### [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md)
-_Context: Android, Apple Inc., Beijing, Check Point, Chinese, Computer security, HummingBad, India, malware_
+_Context: Android, Apple Inc., Beijing, Check Point, China, Computer security, HummingBad, India, malware_
 
 ##### NASA
 ### [NASA's "Juno" spacecraft reaches Jupiter and enters into its orbit after a five-year flight. ](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.md)

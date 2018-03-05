@@ -7,7 +7,7 @@ Formats: [HTML](2015/01/21/index.html)  [JSON](2015/01/21/index.json)  [XML](201
 ### [Microsoft announces Windows Holographic as part of the Windows 10 operating system which is expected to be released in late 2015. ](/news/2015/01/21/microsoft-announces-windows-holographic-as-part-of-the-windows-10-operating-system-which-is-expected-to-be-released-in-late-2015.md)
 Microsoft debuted its new augmented reality tech at the Windows 10 live event today.
 
-##### Italy
+##### Italians
 ### [Italian police seize 5,361 ancient artifacts worth $64 million from a Swiss-Italian trafficking ring. The discoveries come after various raids on warehouses against Italian art dealer Gianfranco Becchina, who owns an art gallery in Switzerland. ](/news/2015/01/21/italian-police-seize-5-361-ancient-artifacts-worth-64-million-from-a-swiss-italian-trafficking-ring-the-discoveries-come-after-various-rai.md)
 Italian police seize more than 5,000 ancient artefacts in a record haul after dismantling a Swiss-Italian trafficking ring, the Italian government says.
 

@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### After 48 rounds of voting
 ### [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md)
-_Context: After 48 rounds of voting, Belgium, General Assembly, Guatemala, Indonesia, Italy, Latin America and the Caribbean, Security Council, South Africa, United Nations, Venezuela_
+_Context: After 48 rounds of voting, Belgium, General Assembly, Guatemala, Indonesia, Italians, Latin America and the Caribbean, Security Council, South Africa, United Nations, Venezuela_
 
 ## [Previous Day...](/news/2006/10/15/index.md)
 

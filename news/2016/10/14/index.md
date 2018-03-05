@@ -27,7 +27,7 @@ A London-based trader accused of contributing to the 2010 Wall Street &quot;flas
 ### [Surgeons separate craniopagus conjoined twin boys in New York City. ](/news/2016/10/14/surgeons-separate-craniopagus-conjoined-twin-boys-in-new-york-city.md)
 Twin boys who were conjoined at the tops of their heads have been separated by a team of surgeons in New York.
 
-##### Chinese
+##### China
 ### [A bus crashes and catches fire carrying tourists returning from a China tour on the Gyeongbu Expressway near Ulsan, South Korea, leaving ten people killed and nine injured. ](/news/2016/10/14/a-bus-crashes-and-catches-fire-carrying-tourists-returning-from-a-china-tour-on-the-gyeongbu-expressway-near-ulsan-south-korea-leaving-ten.md)
 SEOUL, South Korea (AP) — Ten people were killed and nine others were injured in South Korea after their bus caught fire on a highway, officials said Friday. Twenty people, including the driver, were on the bus when it…
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/22/index.html)  [JSON](2010/02/22/index.json)  [XML](201
 
 ##### Odeon & UCI Cinemas Group
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Alice in Wonderland, Disney, Italy, Odeon & UCI Cinemas Group, Tim Burton_
+_Context: Alice in Wonderland, Disney, Italians, Odeon & UCI Cinemas Group, Tim Burton_
 
 ##### Lufthansa
 ### [A strike by thousands of pilots at Lufthansa, one of the world's largest airlines, is suspended with negotiations expected to resume. ](/news/2010/02/22/a-strike-by-thousands-of-pilots-at-lufthansa-one-of-the-world-s-largest-airlines-is-suspended-with-negotiations-expected-to-resume.md)
@@ -15,7 +15,7 @@ _Context: Lufthansa_
 ### [The European Union and Germany deny a report of a 20-25 billion euro (GBP22 billion) aid plan for Greece, and Athens pledge again to take new steps if needed to keep tough deficit-cutting plans on target. ](/news/2010/02/22/the-european-union-and-germany-deny-a-report-of-a-20-25-billion-euro-agbp22-billion-aid-plan-for-greece-and-athens-pledge-again-to-take-n.md)
 The European Union and Germany on Monday denied a report of a 20-25 billion euro (&pound;17.6 - &pound;22 billion) aid plan for Greece, and Athens pledged again to take new steps if needed to keep tough deficit-cutting plans on target.
 
-##### Switzerland
+##### Swiss
 ### [Swiss businessman Max Goeldi, who hid in the Swiss embassy in Libya for 19 months during a diplomatic argument, is taken away in handcuffs and thrown into jail while his colleague Rachid Hamdani is deported. ](/news/2010/02/22/swiss-businessman-max-goeldi-who-hid-in-the-swiss-embassy-in-libya-for-19-months-during-a-diplomatic-argument-is-taken-away-in-handcuffs-a.md)
 A Swiss businessman who had been hiding in the country&#039;s Tripoli embassy for 19 months has been handed over to Libya to serve four months in jail.
 

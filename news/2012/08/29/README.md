@@ -21,7 +21,7 @@ _Context: Tamaulipas, Tomas Yarrington_
 
 ##### Hu Jintao
 ### [President Hu officially receives Egypt's president Morsi, who is in China for in-depth discussion and cooperation talks. ](/news/2012/08/29/president-hu-officially-receives-egypt-s-president-morsi-who-is-in-china-for-in-depth-discussion-and-cooperation-talks.md)
-_Context: Chinese, Hu Jintao, Mohamed Morsi_
+_Context: China, Hu Jintao, Mohamed Morsi_
 
 ##### Japan
 ### [Japan and North Korea hold their first talks in four years in Beijing. ](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.md)
