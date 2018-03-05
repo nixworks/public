@@ -11,8 +11,9 @@ He vociferously denies any part in an alleged illegal financing scheme swirling 
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-europe-40728431)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/B8FE/production/_97085374_gettyimages-822912642.jpg)
+1. [ABC](http://www.abc.es/espana/abci-garcia-escudero-citado-declarar-juicio-gurtel-201707051240_noticia.html)
+2. [BBC](http://www.bbc.com/news/world-europe-40728431)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/B8FE/production/_97085374_gettyimages-822912642.jpg)
 
 ### Related:
 

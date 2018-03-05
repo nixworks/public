@@ -23,9 +23,13 @@ The man, given refuge in the UK, was one of two exposed to a &quot;substance&quo
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
 _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
 
-##### Global Warming
+##### Global warming
 ### [NIWA declares the previous summer as the hottest in New Zealand history, with an average temperature of 18.8 C. ](/news/2018/03/5/niwa-declares-the-previous-summer-as-the-hottest-in-new-zealand-history-with-an-average-temperature-of-18-8-c.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
+
+##### Economy of China
+### [China aims at around 6.5% GDP growth again in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-again-in-2018-the-same-target-as-in-2017.md)
+_Context: China, Economy of China, GDP_
 
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni in the North Kivu province of DR Congo by the ADF rebel group, which crossed the border from nearby Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-in-the-north-kivu-province-of-dr-congo-by-the-adf-rebel-group-which-crossed-the-bo.md)
@@ -68,8 +72,8 @@ A vote by Social Democrats ends five months of political deadlock - Angela Merke
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and reportedly advocates for similar action to be taken in the United States. ](/news/2018/03/4/u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminating-china-s-presidential-term-limits-and-reportedly-advoc.md)
-_Context: Chinese President, Donald Trump, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
+### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and says, "Maybe we'll have to give that a shot some day." ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
+_Context: Chinese President, Donald Trump, Mar-a-Lago, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korean-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
@@ -85,7 +89,7 @@ China does not want a trade war with the United States but will defend its inter
 
 ##### 2017-18 South African listeriosis outbreak
 ### [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat from RCL Foods and from Tiger Brands subsidiary company Enterprise Food. The Ministry of Health issues a recall of contaminated products and advises the public to avoid all processed meat products that are sold as ready-to-eat. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md)
-_Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat, ready-to-eat, recall_
+_Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat_
 
 ##### Online advertising
 ### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel-many-of-the-brands-say-they-were-not.md)

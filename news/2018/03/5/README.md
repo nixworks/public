@@ -23,9 +23,13 @@ The man, given refuge in the UK, was one of two exposed to a &quot;substance&quo
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
 _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
 
-##### Global Warming
+##### Global warming
 ### [NIWA declares the previous summer as the hottest in New Zealand history, with an average temperature of 18.8 C. ](/news/2018/03/5/niwa-declares-the-previous-summer-as-the-hottest-in-new-zealand-history-with-an-average-temperature-of-18-8-c.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
+
+##### Economy of China
+### [China aims at around 6.5% GDP growth again in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-again-in-2018-the-same-target-as-in-2017.md)
+_Context: China, Economy of China, GDP_
 
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni in the North Kivu province of DR Congo by the ADF rebel group, which crossed the border from nearby Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-in-the-north-kivu-province-of-dr-congo-by-the-adf-rebel-group-which-crossed-the-bo.md)
