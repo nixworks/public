@@ -48,7 +48,7 @@ _Context: Chinese President, Donald Trump, Presidency of Donald Trump, U.S. Pres
 _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korean President_
 
 ##### North Korea-United States relations
-### [U.S. President Donald Trump states North Korea was seeking talks with the United States about denuclearization on the Korean Peninsula. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-seeking-talks-with-the-united-states-about-denuclearization-on-the-korean-peninsula.md)
+### [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md)
 President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations
@@ -64,7 +64,7 @@ _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards
-### [The 90th Academy Awards ceremony takes place today, honoring the best films and filmmaking of 2017. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-today-honoring-the-best-films-and-filmmaking-of-2017.md)
+### [The 90th Academy Awards ceremony takes place today, honoring the best films and filmmaking of 2017. "The Shape of Water" was the big winner with four awards, including Best Picture. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-today-honoring-the-best-films-and-filmmaking-of-2017-the-shape-of-water-was-the-big-winner.md)
 The winners of the 90th Academy Awards.
 
 ---
