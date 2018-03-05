@@ -3,9 +3,9 @@ Formats: [HTML](2018/03/5/index.html)  [JSON](2018/03/5/index.json)  [XML](2018/
 
 ## [2018-03-5](/news/2018/03/5/index.md)
 
-##### China
-### [China keeps the target of 6.5% GDP growth in 2018, says Prime Minister of China Li Keqiang. ](/news/2018/03/5/china-keeps-the-target-of-6-5-gdp-growth-in-2018-says-prime-minister-of-china-li-keqiang.md)
-China aims to expand its economy by around 6.5 percent this year, the same as in 2017, while pressing ahead with its campaign to reduce risks in the financial system, Premier Li Keqiang said Monday.
+##### Economy of China
+### [A senior official says China is confident that it can reach its target of around 6.5% GDP growth again in 2018. ](/news/2018/03/5/a-senior-official-says-china-is-confident-that-it-can-reach-its-target-of-around-6-5-gdp-growth-again-in-2018.md)
+_Context: China, Economy of China, GDP_
 
 ## [Previous Day...](/news/2018/03/4/index.md)
 
