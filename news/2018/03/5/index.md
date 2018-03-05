@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/5/index.html)  [JSON](2018/03/5/index.json)  [XML](2018/
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
 ##### 2017-18 Spanish constitutional crisis
-### [The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he is preventively jailed since 16 October 2017 accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, but he will be a simbolic president with a simbolic government in Brussels. The refusal to invest a president that doesn't give effects to the self-declared Republic by the CUP opens possible new elections. ](/news/2018/03/5/the-speaker-of-the-catalan-parliament-roger-torrent-proposes-jordi-sa-nchez-i-picanyol-as-a-candidate-for-president-of-the-generalitat-of.md)
+### [The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he has been preventively jailed since 16 October 2017, accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, but he will be a symbolic president with a symbolic government in Brussels. The refusal to invest a president that doesn't give effects to the self-declared Republic by the CUP opens possible new elections. ](/news/2018/03/5/the-speaker-of-the-catalan-parliament-roger-torrent-proposes-jordi-sa-nchez-i-picanyol-as-a-candidate-for-president-of-the-generalitat-of.md)
 _Context: 2017-18 Spanish constitutional crisis, Brussels, CUP, Carles Puigdemont, Catalan Parliament, Jordi Sanchez i Picanyol, President of the Generalitat of Catalonia, Republic, Roger Torrent_
 
 ##### Italian general election, 2018
@@ -16,7 +16,7 @@ _Context: 2017-18 Spanish constitutional crisis, Brussels, CUP, Carles Puigdemon
 Italy entered a period of political instability after national elections boosted populists but failed to produce a winner with enough support to patch together a parliamentary majority.
 
 ##### Secret Intelligence Service
-### [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-hospital-in-critical-condition-after-being-exposed-to-an-unknown-sub.md)
+### [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-a-hospital-in-critical-condition-after-being-exposed-to-an-unknown-s.md)
 The man, given refuge in the UK, was one of two exposed to a &quot;substance&quot; in Salisbury, the BBC is told.
 
 ##### Egypt-Saudi Arabia relations

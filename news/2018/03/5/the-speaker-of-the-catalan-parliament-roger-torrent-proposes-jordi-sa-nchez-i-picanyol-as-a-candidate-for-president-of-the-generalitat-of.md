@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/5/the-speaker-of-the-catalan-parliament-roger-torr
 ### [2018-03-5](/news/2018/03/5/index.md)
 
 ##### 2017-18 Spanish constitutional crisis
-# The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he is preventively jailed since 16 October 2017 accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, but he will be a simbolic president with a simbolic government in Brussels. The refusal to invest a president that doesn't give effects to the self-declared Republic by the CUP opens possible new elections. 
+# The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he has been preventively jailed since 16 October 2017, accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, but he will be a symbolic president with a symbolic government in Brussels. The refusal to invest a president that doesn't give effects to the self-declared Republic by the CUP opens possible new elections. 
 
 
 
