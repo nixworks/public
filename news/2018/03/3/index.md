@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 ## [2018-03-3](/news/2018/03/3/index.md)
 
 ##### Stoneman Douglas High School shooting
-### [The Florida Senate rejects a bill to ban assault weapons then immediately pivots to a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-then-immediately-pivots-to-a-moment-of-asilence-and-reflectiona-for-the-parklan.md)
-_Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting_
+### [The Florida Senate rejects a bill to ban "assault weapons" and holds a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-and-holds-a-moment-of-asilence-and-reflectiona-for-the-parkland-florida-vic.md)
+_Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting, assault weapon_
 
 ##### Murder of Jan Kuciak
 ### [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md)

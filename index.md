@@ -3,6 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/4/index.md)
 
+##### Hyperbolic asteroid
+### [Hyperbolic asteroids A-2017 U7 and A-2018 C2 are announced, although their orbit suggests they are not Interstellar in origin. ](/news/2018/03/4/hyperbolic-asteroids-a-2017-u7-and-a-2018-c2-are-announced-although-their-orbit-suggests-they-are-not-interstellar-in-origin.md)
+_Context: A/2017 U7, A/2018 C2, Hyperbolic asteroid, Interstellar_
+
+##### Penguins
+### [ Scientists discover penguins on Danger Island in Antarctica. ](/news/2018/03/4/scientists-discover-penguins-on-danger-island-in-antarctica.md)
+More than 1 million penguins who&#039;ve been hiding in a remote part of Antarctica were recently discovered thanks to images taken from space and ... their own poop. A study in the Scientific Reports journal reveals the Danger Islands find of more than 750,000 pairs of Adélie penguins—a discover...
+
 ##### 2017-18 Spanish constitutional crisis
 ### [In Barcelona, 15,000 demonstrators gather to support the mock region of Tabarnia, a hypothetical area that includes the least independentist areas of Catalonia, as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-support-the-mock-region-of-tabarnia-a-hypothetical-area-that-includes-the-least-independentist.md)
 _Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Tabarnia, declaration of independence on October 27_
@@ -28,7 +36,7 @@ _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Kor
 President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations
-### [A senior Chinese diplomat says that China does not want a trade war with the United States. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states.md)
+### [A senior Chinese diplomat says that China does not want a trade war with the United States, but will respond. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-but-will-respond.md)
 China does not want a trade war with the United States but will defend its interests, a senior Chinese diplomat said on Sunday.
 
 ##### InfoWars
@@ -44,8 +52,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/3/index.md)
 
 ##### Stoneman Douglas High School shooting
-### [The Florida Senate rejects a bill to ban assault weapons then immediately pivots to a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-then-immediately-pivots-to-a-moment-of-asilence-and-reflectiona-for-the-parklan.md)
-_Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting_
+### [The Florida Senate rejects a bill to ban "assault weapons" and holds a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-and-holds-a-moment-of-asilence-and-reflectiona-for-the-parkland-florida-vic.md)
+_Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting, assault weapon_
 
 ##### Murder of Jan Kuciak
 ### [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md)
@@ -75,7 +83,7 @@ An Israeli military spokeswoman said that a &amp;#039;suspect had approached a r
 ### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
 _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
-##### European Union
+##### Politics of the European Union
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 

@@ -3,6 +3,14 @@ Formats: [HTML](2018/03/4/index.html)  [JSON](2018/03/4/index.json)  [XML](2018/
 
 ## [2018-03-4](/news/2018/03/4/index.md)
 
+##### Hyperbolic asteroid
+### [Hyperbolic asteroids A-2017 U7 and A-2018 C2 are announced, although their orbit suggests they are not Interstellar in origin. ](/news/2018/03/4/hyperbolic-asteroids-a-2017-u7-and-a-2018-c2-are-announced-although-their-orbit-suggests-they-are-not-interstellar-in-origin.md)
+_Context: A/2017 U7, A/2018 C2, Hyperbolic asteroid, Interstellar_
+
+##### Penguins
+### [ Scientists discover penguins on Danger Island in Antarctica. ](/news/2018/03/4/scientists-discover-penguins-on-danger-island-in-antarctica.md)
+More than 1 million penguins who&#039;ve been hiding in a remote part of Antarctica were recently discovered thanks to images taken from space and ... their own poop. A study in the Scientific Reports journal reveals the Danger Islands find of more than 750,000 pairs of Adélie penguins—a discover...
+
 ##### 2017-18 Spanish constitutional crisis
 ### [In Barcelona, 15,000 demonstrators gather to support the mock region of Tabarnia, a hypothetical area that includes the least independentist areas of Catalonia, as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/in-barcelona-15-000-demonstrators-gather-to-support-the-mock-region-of-tabarnia-a-hypothetical-area-that-includes-the-least-independentist.md)
 _Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Tabarnia, declaration of independence on October 27_
@@ -28,7 +36,7 @@ _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Kor
 President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
 
 ##### China-United States relations
-### [A senior Chinese diplomat says that China does not want a trade war with the United States. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states.md)
+### [A senior Chinese diplomat says that China does not want a trade war with the United States, but will respond. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-but-will-respond.md)
 China does not want a trade war with the United States but will defend its interests, a senior Chinese diplomat said on Sunday.
 
 ##### InfoWars

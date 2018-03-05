@@ -7,7 +7,7 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 ### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
 _Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
 
-##### European Union
+##### Politics of the European Union
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
