@@ -5,15 +5,15 @@ Formats: [HTML](2018/03/2/index.html)  [JSON](2018/03/2/index.json)  [XML](2018/
 
 ##### Politics of Germany
 ### [Postal ballots of the 2018 SPD coalition party member vote are due. The vote will determine if the SPD is allowed to form a coalition with Angela Merkel's CDU. ](/news/2018/03/2/postal-ballots-of-the-2018-spd-coalition-party-member-vote-are-due-the-vote-will-determine-if-the-spd-is-allowed-to-form-a-coalition-with-a.md)
-_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition_
+_Context: Angela Merkel, CDU, Politics of Germany, SPD party member vote on the 2018 coalition agreement of Germany, coalition government_
 
 ##### Politics of the European Union
 ### [European Union lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new 5G network. ](/news/2018/03/2/european-union-lawmakers-strike-a-deal-on-opening-up-the-3-6-and-26-ghz-bandwidths-by-2020-to-make-room-for-the-new-5g-network.md)
 EU countries and lawmakers have struck a deal to free up radio frequencies for next-generation 5G services that will be valid for 20 years, as the bloc tries to catch up with the United States and China in rolling out internet-connected products.
 
-##### Italian general election, 2018
+##### General election
 ### [Antonio Tajani, the current President of the European Parliament, accepts the offer of Silvio Berlusconi to stand as a candidate for Prime Minister of Italy for Forza Italia. ](/news/2018/03/2/antonio-tajani-the-current-president-of-the-european-parliament-accepts-the-offer-of-silvio-berlusconi-to-stand-as-a-candidate-for-prime-m.md)
-_Context: Antonio Tajani, Forza Italia, Italian general election, 2018, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Antonio Tajani, Forza Italia, President of the European Parliament, Prime Minister of Italy, Silvio Berlusconi, general election_
 
 ##### Central Michigan University shooting
 ### [A student shoots his parents dead in a dorm at Central Michigan University in Mount Pleasant, Michigan, United States. ](/news/2018/03/2/a-student-shoots-his-parents-dead-in-a-dorm-at-central-michigan-university-in-mount-pleasant-michigan-united-states.md)
