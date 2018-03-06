@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/3/index.html)  [JSON](2018/03/3/index.json)  [XML](2018/
 ## [2018-03-3](/news/2018/03/3/index.md)
 
 ##### Stoneman Douglas High School shooting
-### [The Florida Senate rejects a bill to ban "assault weapons" and holds a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-and-holds-a-moment-of-asilence-and-reflectiona-for-the-parkland-florida-vic.md)
+### [The Florida Senate rejects a bill to ban assault weapons and holds a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-and-holds-a-moment-of-asilence-and-reflectiona-for-the-parkland-florida-victi.md)
 _Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting, assault weapon_
 
 ##### Murder of Jan Kuciak

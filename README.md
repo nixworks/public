@@ -7,10 +7,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/6/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
 Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
 
-##### Republican
-### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/6/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
-They’re considering legislation to block him from starting a trade war.
-
 ##### UNICEF
 ### [UNICEF says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/6/unicef-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-been-preven.md)
 _Context: UNICEF_
@@ -30,6 +26,10 @@ A Facebook moderation survey asked if adults should be able to ask for sexual pi
 ##### Antifa
 ### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
+
+##### Republican
+### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/5/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
+They’re considering legislation to block him from starting a trade war.
 
 ##### Politics of New Zealand
 ### [National Party politician and former Minister of Finance Steven Joyce resigns from parliament. ](/news/2018/03/5/national-party-politician-and-former-minister-of-finance-steven-joyce-resigns-from-parliament.md)
@@ -58,10 +58,6 @@ _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, S
 ##### Global warming
 ### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
-
-##### Economy of China
-### [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md)
-_Context: Economy of China, GDP_
 
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni, North Kivu, DR Congo by the Allied Democratic Forces rebel group, which crossed the border from Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-north-kivu-dr-congo-by-the-allied-democratic-forces-rebel-group-which-crossed-th.md)

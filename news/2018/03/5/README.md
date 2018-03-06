@@ -11,6 +11,10 @@ A Facebook moderation survey asked if adults should be able to ask for sexual pi
 ### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
 
+##### Republican
+### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/5/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
+They’re considering legislation to block him from starting a trade war.
+
 ##### Politics of New Zealand
 ### [National Party politician and former Minister of Finance Steven Joyce resigns from parliament. ](/news/2018/03/5/national-party-politician-and-former-minister-of-finance-steven-joyce-resigns-from-parliament.md)
 Mr Joyce told his new leader Simon Bridges this morning, Newshub understands.
@@ -38,10 +42,6 @@ _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, S
 ##### Global warming
 ### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
-
-##### Economy of China
-### [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md)
-_Context: Economy of China, GDP_
 
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni, North Kivu, DR Congo by the Allied Democratic Forces rebel group, which crossed the border from Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-north-kivu-dr-congo-by-the-allied-democratic-forces-rebel-group-which-crossed-th.md)
