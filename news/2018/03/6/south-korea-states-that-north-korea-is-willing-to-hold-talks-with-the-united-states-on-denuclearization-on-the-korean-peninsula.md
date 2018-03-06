@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-t
 ### [2018-03-6](/news/2018/03/6/index.md)
 
 ##### North Korea-South Korea relations
-#  South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. 
+# South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. 
 
 North Korean leader Kim Jong Un promised to not use nuclear or conventional weapons against South Korea and expressed willingness to hold talks with the United States on denuclearization, Seoul said on Tuesday after a rare two-day visit to Pyongyang.
 
@@ -12,7 +12,8 @@ North Korean leader Kim Jong Un promised to not use nuclear or conventional weap
 ### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us.html)
-1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us/_jcr_content/image.img.jpg/0/0/1520340492150.jpg?ve=1)
+2. [Washington Examiner](http://www.washingtonexaminer.com/trump-possible-progress-being-made-in-talks-with-north-korea/article/2650787)
+2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us/_jcr_content/image.img.jpg/0/0/1520340492150.jpg?ve=1)
 
 ### Related:
 
