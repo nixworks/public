@@ -15,9 +15,9 @@ Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to sto
 ### [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md)
 North Korean leader Kim Jong Un promised to not use nuclear or conventional weapons against South Korea and expressed willingness to hold talks with the United States on denuclearization, Seoul said on Tuesday after a rare two-day visit to Pyongyang.
 
-##### Russia
-### [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia Governorate, Syria, killing all 32 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-governorate-syria-killing-all.md)
-_Context: Antonov An-26, Khmeimim Air Base, Latakia Governorate, Russia, Syria_
+##### 2018 Antonov An-26 crash
+### [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia, Syria, killing all 39 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-syria-killing-all-39-people-on.md)
+_Context: 2018 Antonov An-26 crash, Antonov An-26, Khmeimim Air Base, Latakia, Russia, Syria_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
