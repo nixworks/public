@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-
 ### [2018-03-4](/news/2018/03/4/index.md)
 
 ##### Presidency of Donald Trump
-# In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and says, "Maybe we'll have to give that a shot some day." 
+# In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, reportedly advocates for similar action to be taken in the United States. 
 
 
 

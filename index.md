@@ -7,9 +7,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
-##### Politics of Brazil
-### [According to a MDA poll commissioned by the CNT national transport lobby, Lula da Silva would win a second-round runoff against several likely opponents for the office of President of Brazil, if he were allowed to participate in the upcoming election. ](/news/2018/03/6/according-to-a-mda-poll-commissioned-by-the-cnt-national-transport-lobby-lula-da-silva-would-win-a-second-round-runoff-against-several-like.md)
-_Context: Lula da Silva, Politics of Brazil, President of Brazil, election_
+##### Presidency of Donald Trump (2018 Q1)
+### [The U.S. Office of Special Counsel says that Kellyanne Conway violated the Hatch Act of 1939 during two 2017 television interviews. ](/news/2018/03/6/the-u-s-office-of-special-counsel-says-that-kellyanne-conway-violated-the-hatch-act-of-1939-during-two-2017-television-interviews.md)
+Counselor to the president Kellyanne Conway has been found in violation of a federal law prohibiting government employees from engaging in political activities.
 
 ##### 2018 anti-Muslim riots in Kandy, Sri Lanka
 ### [Sri Lanka imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a Sinhalese Buddhist mob attack on Sri Lankan Muslim shops in the region of Kandy, Central Province, had left a Muslim person dead. ](/news/2018/03/6/sri-lanka-imposes-a-nationwide-10-day-state-of-emergency-the-first-since-2011-in-an-effort-to-calm-communal-tensions-the-previous-day-a.md)
@@ -32,7 +32,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/5/index.md)
 
 ##### Maritime archaeology
-### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
+### [A search team led by Microsoft co-founder Paul Allen's company Vulcan, Inc. announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-s-company-vulcan-inc-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv.md)
 Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
 
 ##### Cyberethics
@@ -43,7 +43,7 @@ A Facebook moderation survey asked if adults should be able to ask for sexual pi
 ### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
 
-##### Republican
+##### Politics of the United States
 ### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/5/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
 They’re considering legislation to block him from starting a trade war.
 
@@ -116,7 +116,7 @@ A vote by Social Democrats ends five months of political deadlock - Angela Merke
 Populist and anti-immigrant parties could make major gains in an unpredictable contest.
 
 ##### Presidency of Donald Trump
-### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, and says, "Maybe we'll have to give that a shot some day." ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
+### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, reportedly advocates for similar action to be taken in the United States. ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
 _Context: Chinese President, Donald Trump, Mar-a-Lago, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
 ##### North Korea-South Korea relations
