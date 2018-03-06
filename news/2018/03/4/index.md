@@ -52,8 +52,8 @@ _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards
-### [The 90th Academy Awards ceremony takes place, honoring the Academy-selected best films and film-making of 2017. ](/news/2018/03/4/the-90th-academy-awards-ceremony-takes-place-honoring-the-academy-selected-best-films-and-film-making-of-2017.md)
-The winners of the 90th Academy Awards.
+### ["The Shape of Water" wins a leading four awards, including Best Picture, followed by "Dunkirk", which won three awards. ](/news/2018/03/4/the-shape-of-water-wins-a-leading-four-awards-including-best-picture-followed-by-dunkirk-which-won-three-awards.md)
+However it was still expected to be most-watched non-sporting US television event of 2018.
 
 ## [Previous Day...](/news/2018/03/3/index.md)
 

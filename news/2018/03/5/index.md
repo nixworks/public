@@ -7,6 +7,14 @@ Formats: [HTML](2018/03/5/index.html)  [JSON](2018/03/5/index.json)  [XML](2018/
 ### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
+##### Antifa
+### [Fighting broke out between Antifa members and supporters of white nationalist Richard B. Spencer when he gave a speech at Michigan State University, before they were separated by police. ](/news/2018/03/5/fighting-broke-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gave-a-speech-at-michigan-state-uni.md)
+Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
+
+##### Politics of New Zealand
+### [National Party politician and former Minister of Finance Steven Joyce resigns from parliament. ](/news/2018/03/5/national-party-politician-and-former-minister-of-finance-steven-joyce-resigns-from-parliament.md)
+Mr Joyce told his new leader Simon Bridges this morning, Newshub understands.
+
 ##### 2017-18 Spanish constitutional crisis
 ### [The Speaker of the Catalan Parliament, Roger Torrent, proposes Jordi Sanchez i Picanyol as a candidate for President of the Generalitat of Catalonia, but he has been preventively jailed since 16 October 2017, accused of sedition. This happens after Carles Puigdemont resigns as a possible candidate, who, if elected, would have been a symbolic president with a symbolic government in Brussels. The candidacy of Sanchez also reportedly lacks one seat for a majority. ](/news/2018/03/5/the-speaker-of-the-catalan-parliament-roger-torrent-proposes-jordi-sa-nchez-i-picanyol-as-a-candidate-for-president-of-the-generalitat-of.md)
 _Context: 2017-18 Spanish constitutional crisis, Brussels, Carles Puigdemont, Catalan Parliament, Jordi Sanchez i Picanyol, President of the Generalitat of Catalonia, Roger Torrent_
@@ -28,19 +36,15 @@ _Context: 1975, China, Da Nang Port, USS ''Carl Vinson'', United States-Vietnam 
 _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
 
 ##### Global warming
-### [NIWA declares the previous summer, which had an average temperature of 18.8 C, as the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-the-previous-summer-which-had-an-average-temperature-of-18-8-c-as-the-hottest-in-new-zealand-history.md)
+### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
 
-##### Economy of China
-### [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md)
-_Context: Economy of China, GDP_
-
 ##### Allied Democratic Forces insurgency
-### [Seven people are killed in an attack on the city of Beni in the North Kivu province of DR Congo by the ADF rebel group, which crossed the border from nearby Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-in-the-north-kivu-province-of-dr-congo-by-the-adf-rebel-group-which-crossed-the-bo.md)
-_Context: ADF, Allied Democratic Forces insurgency, Beni, DR Congo, North Kivu, Uganda_
+### [Seven people are killed in an attack on the city of Beni, North Kivu, DR Congo by the Allied Democratic Forces rebel group, which crossed the border from Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-north-kivu-dr-congo-by-the-allied-democratic-forces-rebel-group-which-crossed-th.md)
+_Context: Allied Democratic Forces, Allied Democratic Forces insurgency, Beni, DR Congo, North Kivu, Uganda_
 
 ##### Tongo Tongo ambush
-### [ISIL releases purported footage of an October 2017 attack on American special forces in Tongo Tongo, Niger. ](/news/2018/03/5/isil-releases-purported-footage-of-an-october-2017-attack-on-american-special-forces-in-tongo-tongo-niger.md)
+### [ISIL releases purported footage of the October 2017 attack on American special forces in Tongo Tongo, Niger. ](/news/2018/03/5/isil-releases-purported-footage-of-the-october-2017-attack-on-american-special-forces-in-tongo-tongo-niger.md)
 The video purports to show US soldiers being ambushed by IS-linked militants in Niger.
 
 ## [Previous Day...](/news/2018/03/4/index.md)
