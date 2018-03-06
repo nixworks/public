@@ -39,6 +39,10 @@ _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, S
 ### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
 
+##### Economy of China
+### [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md)
+_Context: Economy of China, GDP_
+
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni, North Kivu, DR Congo by the Allied Democratic Forces rebel group, which crossed the border from Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-north-kivu-dr-congo-by-the-allied-democratic-forces-rebel-group-which-crossed-th.md)
 _Context: Allied Democratic Forces, Allied Democratic Forces insurgency, Beni, DR Congo, North Kivu, Uganda_
