@@ -11,10 +11,11 @@ North Korean leader Kim Jong Un promised to not use nuclear or conventional weap
 
 ### Sources:
 
-1. [Fox News](http://www.foxnews.com/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us.html)
-2. [Localnews8](http://www.localnews8.com/news/national-world/south-korea-delegation-to-propose-pyongyangwashington-talks/711382852)
-3. [Washington Examiner](http://www.washingtonexaminer.com/trump-possible-progress-being-made-in-talks-with-north-korea/article/2650787)
-3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us/_jcr_content/image.img.jpg/0/0/1520340492150.jpg?ve=1)
+1. [CNBC](https://www.cnbc.com/2018/03/06/south-north-korea-to-hold-summit-in-april-south-korea-says.html)
+2. [Fox News](http://www.foxnews.com/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us.html)
+3. [LocalNews8](http://www.localnews8.com/news/national-world/south-korea-delegation-to-propose-pyongyangwashington-talks/711382852)
+4. [The Washington Examiner](http://www.washingtonexaminer.com/trump-possible-progress-being-made-in-talks-with-north-korea/article/2650787)
+4. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/03/06/north-korea-promises-no-nuclear-weapons-use-against-south-hold-talks-with-us/_jcr_content/image.img.jpg/0/0/1520340492150.jpg?ve=1)
 
 ### Related:
 

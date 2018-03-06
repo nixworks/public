@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/6/index.md)
 
+##### Politics of Russia
+### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
+Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
+
 ##### Politics of Brazil
 ### [According to a MDA poll commissioned by the CNT national transport lobby, Lula da Silva would win a second-round runoff against several likely opponents for the office of President of Brazil, if he were allowed to participate in the upcoming election. ](/news/2018/03/6/according-to-a-mda-poll-commissioned-by-the-cnt-national-transport-lobby-lula-da-silva-would-win-a-second-round-runoff-against-several-like.md)
 _Context: Lula da Silva, Politics of Brazil, President of Brazil, election_
