@@ -3,13 +3,9 @@ Formats: [HTML](2018/03/6/index.html)  [JSON](2018/03/6/index.json)  [XML](2018/
 
 ## [2018-03-6](/news/2018/03/6/index.md)
 
-##### Microsoft
-### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/6/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
-Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
-
-##### UNICEF
-### [UNICEF says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/6/unicef-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-been-preven.md)
-_Context: UNICEF_
+##### North Korea-South Korea relations
+### [ South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md)
+North Korean leader Kim Jong Un promised to not use nuclear or conventional weapons against South Korea and expressed willingness to hold talks with the United States on denuclearization, Seoul said on Tuesday after a rare two-day visit to Pyongyang.
 
 ## [Previous Day...](/news/2018/03/5/index.md)
 
