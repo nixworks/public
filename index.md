@@ -1,23 +1,11 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/6/index.md)
+## [News](/news/2018/03/5/index.md)
 
-##### Microsoft
-### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/6/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
+##### Maritime archaeology
+### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
 Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
-
-##### UNICEF
-### [UNICEF says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/6/unicef-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-been-preven.md)
-_Context: UNICEF_
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2018/03/5/index.md)
 
 ##### Cyberethics
 ### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
@@ -55,6 +43,10 @@ _Context: 1975, China, Da Nang Port, USS ''Carl Vinson'', United States-Vietnam 
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
 _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
 
+##### Children's rights
+### [A UNICEF report says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/5/a-unicef-report-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-be.md)
+_Context: Children's rights, UNICEF_
+
 ##### Global warming
 ### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
 2017/18 summer got off to a hot start and the mercury just kept on rising.
@@ -67,9 +59,13 @@ _Context: Allied Democratic Forces, Allied Democratic Forces insurgency, Beni, D
 ### [ISIL releases purported footage of the October 2017 attack on American special forces in Tongo Tongo, Niger. ](/news/2018/03/5/isil-releases-purported-footage-of-the-october-2017-attack-on-american-special-forces-in-tongo-tongo-niger.md)
 The video purports to show US soldiers being ambushed by IS-linked militants in Niger.
 
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2018/03/4/index.md)
+## [Yesterday](/news/2018/03/4/index.md)
 
 ##### Asteroid
 ### [Hyperbolic asteroids A-2017 U7 and A-2018 C2 are announced, although their orbit suggests they are not interstellar in origin. ](/news/2018/03/4/hyperbolic-asteroids-a-2017-u7-and-a-2018-c2-are-announced-although-their-orbit-suggests-they-are-not-interstellar-in-origin.md)
@@ -125,7 +121,35 @@ However it was still expected to be most-watched non-sporting US television even
 
 ---
 
-## [Previous Day...](/news/2018/03/3/index.md)
+## [Day Before Yesterday](/news/2018/03/3/index.md)
+
+##### Stoneman Douglas High School shooting
+### [The Florida Senate rejects a bill to ban assault weapons and holds a moment of "silence and reflection" for the Parkland, Florida, victims. ](/news/2018/03/3/the-florida-senate-rejects-a-bill-to-ban-assault-weapons-and-holds-a-moment-of-asilence-and-reflectiona-for-the-parkland-florida-victi.md)
+_Context: Florida Senate, Parkland, Florida, Stoneman Douglas High School shooting, assault weapon_
+
+##### Murder of Jan Kuciak
+### [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md)
+Slain Slovak investigative journalist Jan Kuciak was laid to rest in his wedding suit on Saturday as police released seven Italians detained after they were named in his explosive report on alleged high-level corruption linked to Italy&#39;s notorious &#39;Ndrangheta mafia.
+
+##### "Polish death camp" controversy
+### [Hours after the Polish so-called Holocaust Law about discussing of historical facts takes effect, the Polish League Against Defamation sues Argentinian newspaper "Pagina-12", which it accuses of suggesting Poland was complicit in the Holocaust. ](/news/2018/03/3/hours-after-the-polish-so-called-holocaust-law-about-discussing-of-historical-facts-takes-effect-the-polish-league-against-defamation-sues.md)
+A Polish campaign group is suing an Argentinian newspaper it says breached a new law that makes it a criminal offense to suggest Poland was complicit in the Holocaust.
+
+##### Protectionism in the United States
+### [In a message on Twitter, U.S. President Donald Trump says the U.S. will apply a tax on cars made in the European Union if the E.U. "further" increases tariffs. ](/news/2018/03/3/in-a-message-on-twitter-u-s-president-donald-trump-says-the-u-s-will-apply-a-tax-on-cars-made-in-the-european-union-if-the-e-u-further.md)
+The US president steps up the war of words on trade, condemning the &quot;big trade imbalance&quot;.
+
+##### Turkish military operation in Afrin
+### [According to the Syrian Observatory for Human Rights, at least 36 pro-Syrian government troops were killed in a Turkish airstrike in Afrin, Syria. ](/news/2018/03/3/according-to-the-syrian-observatory-for-human-rights-at-least-36-pro-syrian-government-troops-were-killed-in-a-turkish-airstrike-in-afrin.md)
+The targeted pro-Syrian government troops had entered the region to back Kurdish militiamen.
+
+##### Israeli-Palestinian conflict
+### [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. An Israeli military spokesperson said that he got too close to the border fence. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip-an-israeli-military-spokesperson-said-th.md)
+An Israeli military spokeswoman said that a &amp;#039;suspect had approached a restricted area in the southern Gaza Strip.&amp;#039;
+
+---
+
+## [Previous Day...](/news/2018/03/2/index.md)
 
 ---
 

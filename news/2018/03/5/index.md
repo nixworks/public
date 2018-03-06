@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/5/index.html)  [JSON](2018/03/5/index.json)  [XML](2018/
 
 ## [2018-03-5](/news/2018/03/5/index.md)
 
+##### Maritime archaeology
+### [A search team led by Microsoft co-founder Paul Allen announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv-2-about-800-km-off-the.md)
+Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
+
 ##### Cyberethics
 ### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
@@ -38,6 +42,10 @@ _Context: 1975, China, Da Nang Port, USS ''Carl Vinson'', United States-Vietnam 
 ##### Egypt-Saudi Arabia relations
 ### [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md)
 _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, Saint Mark's Coptic Orthodox Cathedral, Saudi Arabia_
+
+##### Children's rights
+### [A UNICEF report says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/5/a-unicef-report-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-be.md)
+_Context: Children's rights, UNICEF_
 
 ##### Global warming
 ### [NIWA declares that the previous summer, which had an average temperature of 18.8 C, was the hottest in New Zealand history. ](/news/2018/03/5/niwa-declares-that-the-previous-summer-which-had-an-average-temperature-of-18-8-c-was-the-hottest-in-new-zealand-history.md)
