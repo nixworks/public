@@ -17,7 +17,7 @@ _Context:  Georgian, Abkhazia, Abkhazian, Inguri, soldiers_
 
 ##### Kadima Party
 ### [ Kadima Party leader and Acting Prime Minister of Israel Tzipi Livni abandons efforts to form a coalition government and calls for early elections. ](/news/2008/10/26/kadima-party-leader-and-acting-prime-minister-of-israel-tzipi-livni-abandons-efforts-to-form-a-coalition-government-and-calls-for-early-ele.md)
-_Context: Acting Prime Minister, Israel, Kadima Party, Next Israeli legislative election, Tzipi Livni, coalition_
+_Context: Acting Prime Minister, Israel, Kadima Party, Next Israeli legislative election, Tzipi Livni, coalition government_
 
 ##### Gloucester
 ### [ A light aircraft en route from Gloucester, England, to Kilrush, Ireland, crashes in the Wicklow Mountains of Ireland, killing four people. ](/news/2008/10/26/a-light-aircraft-en-route-from-gloucester-england-to-kilrush-ireland-crashes-in-the-wicklow-mountains-of-ireland-killing-four-people.md)

@@ -17,7 +17,7 @@ _Context: Awami League, Bangladesh, Sheikh Hasina, parliament, supermajority, wi
 
 ##### Jammu and Kashmir
 ### [ Following the Jammu and Kashmir state assembly elections, the National Conference and National Congress parties agree to form a coalition government. ](/news/2008/12/30/following-the-jammu-and-kashmir-state-assembly-elections-the-national-conference-and-national-congress-parties-agree-to-form-a-coalition-g.md)
-_Context: Congress Party, Jammu and Kashmir, National Conference, coalition, state assembly elections_
+_Context: Congress Party, Jammu and Kashmir, National Conference, coalition government, state assembly elections_
 
 ##### Illinois
 ### [ Illinois Governor Rod Blagojevich appoints former Democratic Illinois Attorney General Roland Burris to President-elect Barack Obama's vacated United States Senate seat. Democratic Senate leaders and Secretary of State Jesse White say they will not accept the appointment. ](/news/2008/12/30/illinois-governor-rod-blagojevich-appoints-former-democratic-illinois-attorney-general-roland-burris-to-president-elect-barack-obama-s-vaca.md)

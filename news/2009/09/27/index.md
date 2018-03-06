@@ -19,7 +19,7 @@ _Context: Alzheimer's disease, Discworld, Terry Pratchett, assisted suicide_
 ### [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md)
 _Context: Brazil, Honduras, Manuel Zelaya, President, Tegucigalpa_
 
-##### Italians
+##### Italy
 ### [ Italian Premier Silvio Berlusconi tells a rally in Milan about his encounters with President of the United States Barack Obama, saying: "What's his name? Some tanned guy... Ah, Barack Obama!", also commenting on his wife Michelle: "You won't believe it, but two of them went to the beach because the wife is also tanned". ](/news/2009/09/27/italian-premier-silvio-berlusconi-tells-a-rally-in-milan-about-his-encounters-with-president-of-the-united-states-barack-obama-saying-wh.md)
 Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred to US President Barack Obama as &#034;suntanned&#034;, days after being snubbed by Michelle Obama at the G20 meeting in Pittsburgh.
 

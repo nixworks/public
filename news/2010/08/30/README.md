@@ -11,7 +11,7 @@ The scientists involved in crafting the panel’s climate reports need to be mor
 ### [Talks begin between the government and workers striking for better conditions in South Africa in the third week of a conflict which has seen troops deployed. ](/news/2010/08/30/talks-begin-between-the-government-and-workers-striking-for-better-conditions-in-south-africa-in-the-third-week-of-a-conflict-which-has-seen.md)
 The South African government begins talks with striking workers after President Jacob Zuma tells ministers to find a solution.
 
-##### Italians
+##### Italy
 ### [Italian health minister Ferruccio Fazio apologises while visiting a woman subjected to violent confrontation between two doctors as her baby was on the verge of being born at a hospital in Messina, Sicily. ](/news/2010/08/30/italian-health-minister-ferruccio-fazio-apologises-while-visiting-a-woman-subjected-to-violent-confrontation-between-two-doctors-as-her-baby.md)
 Italy&#039;s health minister traveled to Sicily today to apologise to a new mother for an operating room fistfight between two doctors that led to her botched delivery.
 

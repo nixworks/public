@@ -11,9 +11,9 @@ Japanese researchers claim success after nine years of searching.
 ### [The Mars Curiosity rover, for the first time, discovers what, upon further study, could be determined to be direct evidence of a fast-moving streambed- a past water source- on the planet, moving from speculation to potential proof of past water, a landmark step because such an area would be a logical site for a future base and for the discovery of past life. ](/news/2012/09/27/the-mars-curiosity-rover-for-the-first-time-discovers-what-upon-further-study-could-be-determined-to-be-direct-evidence-of-a-fast-moving.md)
 NASA says landing site of the rover was once covered with fast-moving water that might have supported life.
 
-##### Parliament of Catalonia
+##### Catalan Parliament
 ### [The Parliament of Catalonia votes in favor of a resolution to hold a referendum on self-determination. ](/news/2012/09/27/the-parliament-of-catalonia-votes-in-favor-of-a-resolution-to-hold-a-referendum-on-self-determination.md)
-_Context: Parliament of Catalonia, self-determination_
+_Context: Catalan Parliament, self-determination_
 
 ##### Mass shooting
 ### [A mass shooting takes place at Accent Signage Systems, a sign company in Minneapolis, Minnesota, United States; five people are killed, including the gunman who committed suicide, and four others are wounded. ](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.md)

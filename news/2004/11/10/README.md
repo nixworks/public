@@ -7,9 +7,9 @@ Formats: [HTML](2004/11/10/index.html)  [JSON](2004/11/10/index.json)  [XML](200
 ### [ Alice Munro has won the Giller Prize for her short story collection "Runaway". It is her second Giller. ](/news/2004/11/10/alice-munro-has-won-the-giller-prize-for-her-short-story-collection-runaway-it-is-her-second-giller.md)
 _Context: Alice Munro, Giller Prize_
 
-##### Warming
+##### Global warming
 ### [ Global warming is accelerating rapidly in the Arctic, according to ](/news/2004/11/10/global-warming-is-accelerating-rapidly-in-the-arctic-according-to.md)
-_Context: Arctic, warming_
+_Context: Arctic, Global warming_
 
 ##### Solar panel
 ### [ Spain has announced that solar panels will be mandatory on new and renovated buildings. ](/news/2004/11/10/spain-has-announced-that-solar-panels-will-be-mandatory-on-new-and-renovated-buildings.md)

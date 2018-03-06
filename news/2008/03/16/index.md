@@ -7,9 +7,9 @@ Formats: [HTML](2008/03/16/index.html)  [JSON](2008/03/16/index.json)  [XML](200
 ### [ At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. ](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.md)
 _Context: 2008 National People's Congress, Premier of the People's Republic of China, Wen Jiabao_
 
-##### Italians
+##### Italy
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
-_Context: Air France, Alitalia, EUR, Italians, KLM_
+_Context: Air France, Alitalia, EUR, Italy, KLM_
 
 ##### United States
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)

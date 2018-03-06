@@ -51,9 +51,9 @@ The French air force used its first cruise missiles against Islamic State group 
 ### [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md)
 Brutal weekend attacks on three villages by Boko Haram Islamists in the restive northeast of Nigeria have left 30 dead and 20 others wounded, a vigilante told AFP. &quot;Most of the victims were slaughtered and most of the wounded (had suffered) machete cuts,&quot; Mustapha Karimbe, a civilian helpi...
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-race.md)
-_Context: Scott H. Swift, South China Sea, Territorial disputes in the South China Sea, United States Pacific Fleet_
+_Context: Scott H. Swift, South China Sea, United States Pacific Fleet, tensions in the region_
 
 ##### Syrian Civil War
 ### [The U.N. Office for the Coordination of Humanitarian Affairs reports that increased airstrikes by Russia have forced humanitarian assistance organizations to curtail their relief efforts, exacerbating the humanitarian crisis in northern Syria. ](/news/2015/12/15/the-u-n-office-for-the-coordination-of-humanitarian-affairs-reports-that-increased-airstrikes-by-russia-have-forced-humanitarian-assistance.md)

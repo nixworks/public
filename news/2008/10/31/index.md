@@ -9,7 +9,7 @@ _Context: British Columbia, Canada, Dawson Creek, EnCana Corporation, third pipe
 
 ##### A new study
 ### [ A new study by the University of East Anglia's Climatic Research Unit shows that the warming of Earth's polar regions is caused by humans. ](/news/2008/10/31/a-new-study-by-the-university-of-east-anglia-s-climatic-research-unit-shows-that-the-warming-of-earth-s-polar-regions-is-caused-by-humans.md)
-_Context: A new study, Climatic Research Unit, Earth, Human impact on the environment, University of East Anglia, polar region, warming_
+_Context: A new study, Climatic Research Unit, Earth, Global warming, Human impact on the environment, University of East Anglia, polar region_
 
 ##### Tibet
 ### [ Seven people are killed in Tibet's worst snowstorm in recorded history. ](/news/2008/10/31/seven-people-are-killed-in-tibet-s-worst-snowstorm-in-recorded-history.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/22/index.html)  [JSON](2010/02/22/index.json)  [XML](201
 
 ##### Odeon & UCI Cinemas Group
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Alice in Wonderland, Disney, Italians, Odeon & UCI Cinemas Group, Tim Burton_
+_Context: Alice in Wonderland, Disney, Italy, Odeon & UCI Cinemas Group, Tim Burton_
 
 ##### Lufthansa
 ### [A strike by thousands of pilots at Lufthansa, one of the world's largest airlines, is suspended with negotiations expected to resume. ](/news/2010/02/22/a-strike-by-thousands-of-pilots-at-lufthansa-one-of-the-world-s-largest-airlines-is-suspended-with-negotiations-expected-to-resume.md)

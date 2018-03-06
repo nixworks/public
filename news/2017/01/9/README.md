@@ -33,7 +33,7 @@ Former president’s lawyers claim trial last year contained irregularities and 
 
 ##### January 2017 European cold wave
 ### [Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-flights-frozen-rivers-and-traffi.md)
-_Context: Italians, January 2017 European cold wave, eastern Europe_
+_Context: Italy, January 2017 European cold wave, eastern Europe_
 
 ##### 2016 Irkutsk mass methanol poisoning
 ### [The death toll from people who drank poisonous methanol in Irkutsk, Russia, rises to 76. ](/news/2017/01/9/the-death-toll-from-people-who-drank-poisonous-methanol-in-irkutsk-russia-rises-to-76.md)

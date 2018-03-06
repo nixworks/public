@@ -21,4 +21,5 @@ The weak result compares with 7 percent growth in the previous two quarters, but
 
 ### Related:
 
-1. [China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: Economy of China_
+1. [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md) _Context: Economy of China_
+2. [China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: Economy of China_

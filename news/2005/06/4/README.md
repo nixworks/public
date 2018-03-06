@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/4/index.html)  [JSON](2005/06/4/index.json)  [XML](2005/
 
 ##### Roberto Maroni
 ### [ Roberto Maroni, Italian Minister of Welfare, calls for Italy to stop using the Euro and revert to the Lira. ](/news/2005/06/4/roberto-maroni-italian-minister-of-welfare-calls-for-italy-to-stop-using-the-euro-and-revert-to-the-lira.md)
-_Context: EUR, Italians, Lira, Minister of Welfare, Roberto Maroni_
+_Context: EUR, Italy, Lira, Minister of Welfare, Roberto Maroni_
 
 ##### President of the Palestinian Authority
 ### [ Palestinian President Mahmoud Abbas announces the postponement of legislative elections originally scheduled for July 17. He cited a report from the Palestinian election authority that it needs more time to implement changes in laws concerning seating of legislators. Hamas leaders object to the postponement. ](/news/2005/06/4/palestinian-president-mahmoud-abbas-announces-the-postponement-of-legislative-elections-originally-scheduled-for-july-17-he-cited-a-report.md)

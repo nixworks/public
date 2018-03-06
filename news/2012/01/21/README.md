@@ -21,7 +21,7 @@ Private clinics that charge for pregnancy services including abortions will be a
 
 ##### Sunk
 ### ["Costa Concordia" disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship "Costa Concordia", bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. ](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is-discovered-by-search-teams-aboard-the-stricken-cruise-ship-costa-concordia-bringing-th.md)
-_Context: Costa Concordia, Italians, cruise ship, sunk_
+_Context: Costa Concordia, Italy, cruise ship, sunk_
 
 ##### A series of co-ordinated bombing attacks
 ### [The death toll of a series of co-ordinated bombing attacks in Kano, Nigeria, rises to more than 140. The attacks, which targeted police stations across the city, are attributed to Islamist group Boko Haram. ](/news/2012/01/21/the-death-toll-of-a-series-of-co-ordinated-bombing-attacks-in-kano-nigeria-rises-to-more-than-140-the-attacks-which-targeted-police-stat.md)

@@ -15,9 +15,9 @@ _Context: Barack Obama, ISIL, Pentagon's Office of the Inspector General, U.S. P
 ### [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
-##### South Korean president
+##### South Korean President
 ### [Former President Kim Young-sam, who formally ended decades of military rule in South Korea, dies in a Seoul hospital from a severe blood infection. He was 87. ](/news/2015/11/22/former-president-kim-young-sam-who-formally-ended-decades-of-military-rule-in-south-korea-dies-in-a-seoul-hospital-from-a-severe-blood-inf.md)
-_Context: Kim Young-sam, Seoul, South Korea, South Korean president_
+_Context: Kim Young-sam, Seoul, South Korea, South Korean President_
 
 ##### Argentine general election, 2015
 ### [Voters in Argentina go to the polls for a presidential runoff between Daniel Scioli of the ruling Justicialist Party and Mauricio Macri of the opposition PRO. Mauricio Macri, the mayor of Buenos Aires, was elected with 53% of the vote. ](/news/2015/11/22/voters-in-argentina-go-to-the-polls-for-a-presidential-runoff-between-daniel-scioli-of-the-ruling-justicialist-party-and-mauricio-macri-of-t.md)
@@ -31,7 +31,7 @@ An Iranian court has sentenced Washington Post reporter Jason Rezaian to a priso
 ### [Bangladesh executes two former members of parliament, Salahuddin Quader Chowdhury, of the Bangladesh Nationalist Party, and Ali Ahsan Mohammad Mojaheed, of the Jamaat-e-Islami party, who were convicted in 2013 of war crimes committed during the country's 1971 war of independence. ](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.md)
 Two Bangladesh opposition leaders are executed for war crimes committed during the 1971 independence struggle against Pakistan.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Chinese Vice Foreign Minister Liu Zhenmin says the United States was making political provocations with its patrols in the disputed South China Sea. He also says China is building military facilities on islands and reefs in the South China Sea as part of its national defense policy. Yesterday, U.S. President Barack Obama said, for the sake of regional stability, countries should stop building artificial islands and militarizing their claims in this sea. ](/news/2015/11/22/chinese-vice-foreign-minister-liu-zhenmin-says-the-united-states-was-making-political-provocations-with-its-patrols-in-the-disputed-south-ch.md)
 China is building military facilities on islands and reefs in the South China Sea as part of its national defence policy, a senior foreign official acknowledged Sunday.
 

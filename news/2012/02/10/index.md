@@ -101,7 +101,7 @@ A protester has been shot dead by security forces in the city of Qatif in easter
 
 ##### Cardinal
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Cardinal, Italians, Pope Benedict XVI_
+_Context: Cardinal, Italy, Pope Benedict XVI_
 
 ##### Greece
 ### [People in Greece protest against the latest austerity measures imposed on their country, as more senior politicians resign. ](/news/2012/02/10/people-in-greece-protest-against-the-latest-austerity-measures-imposed-on-their-country-as-more-senior-politicians-resign.md)

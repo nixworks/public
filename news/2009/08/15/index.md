@@ -11,9 +11,9 @@ _Context: Kuwait_
 ### [ Burma is to free detained American John Yettaw, who appeared uninvited at Aung San Suu Kyi's home, after a meeting with US Senator Jim Webb. ](/news/2009/08/15/burma-is-to-free-detained-american-john-yettaw-who-appeared-uninvited-at-aung-san-suu-kyi-s-home-after-a-meeting-with-us-senator-jim-webb.md)
 John Yettaw, the American who was jailed for breaching the house arrest of Aung San Suu Kyi, the Burmese democracy leader, is likely to be deported, it emerged today.
 
-##### Italians
+##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. ](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.md)
-_Context: Italians, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### Prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)

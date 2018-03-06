@@ -16,7 +16,7 @@ MELTING ICE is pouring off Greenland and Antarctica into the sea far faster than
 
 ### Related:
 
-1. [Scientists discover a big colony of the more than 750,000 pairs of Adelie penguins on Danger Island in Antarctica. ](/news/2018/03/4/scientists-discover-a-big-colony-of-the-more-than-750-000-pairs-of-ada-c-lie-penguins-on-danger-island-in-antarctica.md) _Context: Antarctica_
+1. [Scientists discover a big colony of the more than 750,000 pairs of Adelie penguins on the Danger Islands in Antarctica. ](/news/2018/03/4/scientists-discover-a-big-colony-of-the-more-than-750-000-pairs-of-ada-c-lie-penguins-on-the-danger-islands-in-antarctica.md) _Context: Antarctica_
 2. [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md) _Context: Antarctica_
 3. [A giant iceberg covering approximately 6000 km2 breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md) _Context: Antarctica_
 4. [An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md) _Context: Greenland_

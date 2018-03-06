@@ -19,9 +19,9 @@ A Hague-based arbitration panel rules that it can hear a case brought by the Phi
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
 _Context: Austria, Iran, Syria, Syria peace talks in Vienna, Syrian Civil War, Vienna, ceasefire, transitional government_
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: China, European Union, South China Sea, Territorial disputes in the South China Sea, United States_
+_Context: China, European Union, South China Sea, United States, tensions in the region_
 
 ##### Shaker Aamer
 ### [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md)

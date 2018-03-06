@@ -11,7 +11,7 @@ This time, Mauricio “Shogun” Rua made sure the judges were not involved. Rua
 ### [London's Harrod's department store is sold to the Qatari royal family by Mohamed Al-Fayed who retires after 25 years as its chairman. ](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.md)
 _Context: Harrod's, London, Mohamed Al-Fayed, Qatar, Qatari royal family_
 
-##### Italians
+##### Italy
 ### [Italy's first divorce fair, Ex? Punto e a capo, opens in Milan. ](/news/2010/05/8/italy-s-first-divorce-fair-ex-punto-e-a-capo-opens-in-milan.md)
 Italians trapped in unhappy marriages will be heading to the country&#039;s first divorce fair this weekend.
 

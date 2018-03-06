@@ -3,9 +3,9 @@ Formats: [HTML](2013/04/19/index.html)  [JSON](2013/04/19/index.json)  [XML](201
 
 ## [2013-04-19](/news/2013/04/19/index.md)
 
-##### Italians
+##### Italy
 ### [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md)
-_Context: Democratic Party, Italians, Pier Luigi Bersani, President of Italy_
+_Context: Democratic Party, Italy, Pier Luigi Bersani, President of Italy_
 
 ##### Nicols Maduro
 ### [Nicols Maduro is sworn in as the President of Venezuela despite a review of the results of the Venezuelan presidential election. ](/news/2013/04/19/nicolas-maduro-is-sworn-in-as-the-president-of-venezuela-despite-a-review-of-the-results-of-the-venezuelan-presidential-election.md)

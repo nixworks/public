@@ -19,7 +19,7 @@ Please stay tuned to washcoll.edu/updates for information as it becomes availabl
 ### [Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an-evil-terrorist-group-he-said-his-muslim-maj.md)
 _Context: ISIL, Muslim-majority country, Najib Razak, Prime Minister, Reactions to the November 2015 Paris attacks, ideology_
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Japan's prime minister Shinzo Abe says he is considering sending Japanese Navy warships to the South China Sea to back-up U.S. naval operations, saying, "With regard to activity by the Self-Defense Forces in the South China Sea, I will consider it while focusing on what effect the situation has on Japan's security." In response, China's Ministry of Foreign Affairs spokesperson, Hong Lei, told Chinese state media that China will remain on "high alert for intervention by Japan in the South China Sea issue". ](/news/2015/11/21/japan-s-prime-minister-shinza-abe-says-he-is-considering-sending-japanese-navy-warships-to-the-south-china-sea-to-back-up-u-s-naval-operat.md)
 Japanese Prime Minister Shinzo Abe told President Barack Obama he’ll consider sending the country’s maritime forces to back up U.S. operations in the South China Sea.
 

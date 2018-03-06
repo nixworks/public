@@ -11,9 +11,9 @@ _Context: Riek Machar, SPLM-IO, Salva Kiir Mayardit, South Sudan President_
 ### [Incumbent Republican congressman Tim Huelskamp, an active Tea Party favorite with a confrontational, anti-establishment approach running for a fourth term, is defeated (56.5 - 43.5 percent) in the Kansas primary by obstetrician Roger Marshall. ](/news/2016/08/2/incumbent-republican-congressman-tim-huelskamp-an-active-tea-party-favorite-with-a-confrontational-anti-establishment-approach-running-for.md)
 HUTCHINSON, Kan. (AP) — Rep. Tim Huelskamp has been a thorn in the side of the Republican establishment since his election to Congress amid the tea party wave of 2010, and his clashes with former House Speaker John Boehner…
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The Chinese Supreme Court warns people caught fishing in Chinese waters could be jailed for up to a year. ](/news/2016/08/2/the-chinese-supreme-court-warns-people-caught-fishing-in-chinese-waters-could-be-jailed-for-up-to-a-year.md)
-_Context: Chinese Supreme Court, Territorial disputes in the South China Sea_
+_Context: Chinese Supreme Court, tensions in the region_
 
 ##### Democratic National Committee
 ### [Three top staffers leave the Democratic National Committee 100 days before elections in early November as a result of the email leak. ](/news/2016/08/2/three-top-staffers-leave-the-democratic-national-committee-100-days-before-elections-in-early-november-as-a-result-of-the-email-leak.md)

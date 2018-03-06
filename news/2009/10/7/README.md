@@ -17,7 +17,7 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 
 ##### Constitutional Court
 ### [ The Constitutional Court of Italy overturns a law offering Prime Minister Silvio Berlusconi immunity from prosecution while in office, ruling it unconstitutional. ](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.md)
-_Context: Constitutional Court, Italians, Prime Minister of Italy, Silvio Berlusconi, immunity from prosecution_
+_Context: Constitutional Court, Italy, Prime Minister of Italy, Silvio Berlusconi, immunity from prosecution_
 
 ##### Taiwan
 ### [ Taiwan's National Palace Museum refuses to display two artifacts stolen from China 150 years ago. ](/news/2009/10/7/taiwan-s-national-palace-museum-refuses-to-display-two-artifacts-stolen-from-china-150-years-ago.md)

@@ -41,7 +41,7 @@ _Context: Immigration to Canada, Jason Kenney, Minister of Citizenship and Immig
 
 ##### Tunisia
 ### [Nearly 1,000 Tunisian refugees arrive on the Italian island of Lampedusa overnight, a day after the government declared a humanitarian emergency. ](/news/2011/02/13/nearly-1-000-tunisian-refugees-arrive-on-the-italian-island-of-lampedusa-overnight-a-day-after-the-government-declared-a-humanitarian-emerg.md)
-_Context: Italians, Lampedusa, Tunisia_
+_Context: Italy, Lampedusa, Tunisia_
 
 ##### Shah Mehmood Qureshi
 ### [Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. ](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.md)

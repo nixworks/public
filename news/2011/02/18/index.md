@@ -29,7 +29,7 @@ Museveni confident of a fourth term while opposition threatens mass protests if 
 
 ##### New Caledonia
 ### [New Caledonia's coalition government collapses after the pro-independence Caledonian Union party withdraws its support for President Philippe Gomes in a dispute over the use of New Caledonian flags. ](/news/2011/02/18/new-caledonia-s-coalition-government-collapses-after-the-pro-independence-caledonian-union-party-withdraws-its-support-for-president-philipp.md)
-_Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, coalition_
+_Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, coalition government_
 
 ##### Madeleine McCann
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)

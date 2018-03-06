@@ -33,7 +33,7 @@ _Context: Egypt-Saudi Arabia relations, Mohammad bin Salman, Pope Tawadros II, S
 
 ##### Economy of China
 ### [China aims at around 6.5% GDP growth in 2018, the same target as in 2017. ](/news/2018/03/5/china-aims-at-around-6-5-gdp-growth-in-2018-the-same-target-as-in-2017.md)
-_Context: China, Economy of China, GDP_
+_Context: Economy of China, GDP_
 
 ##### Allied Democratic Forces insurgency
 ### [Seven people are killed in an attack on the city of Beni in the North Kivu province of DR Congo by the ADF rebel group, which crossed the border from nearby Uganda. ](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city-of-beni-in-the-north-kivu-province-of-dr-congo-by-the-adf-rebel-group-which-crossed-the-bo.md)

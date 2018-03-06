@@ -41,7 +41,7 @@ _Context: Commonwealth Writers prizes, Emma Martin, Hay, New Zealand, Shehan Kar
 
 ##### Booker Prize
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
-_Context: Barry Unsworth, Booker Prize, Italians_
+_Context: Barry Unsworth, Booker Prize, Italy_
 
 ##### The Roundhouse
 ### [The Roundhouse in Chalk Farm, North London, vows to recognise Amy Winehouse's contribution to music by erecting a statue to her. ](/news/2012/06/8/the-roundhouse-in-chalk-farm-north-london-vows-to-recognise-amy-winehouse-s-contribution-to-music-by-erecting-a-statue-to-her.md)

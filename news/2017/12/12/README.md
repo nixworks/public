@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/12/index.html)  [JSON](2017/12/12/index.json)  [XML](201
 
 ##### Climate change in the Arctic
 ### [This year's Arctic Report Card reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-in.md)
-_Context: Arctic Report Card, Climate change in the Arctic, ocean surface, sea ice, warming_
+_Context: Arctic Report Card, Climate change in the Arctic, Global warming, ocean surface, sea ice_
 
 ##### United States Senate special election in Alabama, 2017
 ### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md)

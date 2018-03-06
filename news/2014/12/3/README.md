@@ -15,7 +15,7 @@ _Context: Stefan Lfven, general election, prime minister, snap general election_
 ### [The Israeli parliament- the Knesset votes to dissolve the government and hold early election on March 17. ](/news/2014/12/3/the-israeli-parliament-the-knesset-votes-to-dissolve-the-government-and-hold-early-election-on-march-17.md)
 _Context: Israel, Israeli legislative election, 2015, parliament in Israel_
 
-##### Italians
+##### Italy
 ### [Italian police arrest a mix of mafia gangsters, corrupt politicians, and one former terrorist in a corruption scandal exploiting migrants and gipsies. ](/news/2014/12/3/italian-police-arrest-a-mix-of-mafia-gangsters-corrupt-politicians-and-one-former-terrorist-in-a-corruption-scandal-exploiting-migrants-an.md)
 Mafia gangsters, corrupt politicians and a one-eyed former terrorist made millions in Rome by exploiting migrants and gipsies
 

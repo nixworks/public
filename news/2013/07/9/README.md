@@ -13,7 +13,7 @@ _Context: Ed Miliband, Falkirk constituency, Labour Party, Unite union_
 
 ##### Francesco Schettino
 ### [Francesco Schettino, former captain of the "Costa Concordia" cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-during.md)
-_Context: Costa Concordia, Francesco Schettino, Italians_
+_Context: Costa Concordia, Francesco Schettino, Italy_
 
 ##### Greece
 ### [Greece secures an additional 6.2 billion euros from the European Commission, the European Central Bank and the International Monetary Fund despite warnings that the Greek government is moving too slow to reform the government. ](/news/2013/07/9/greece-secures-an-additional-6-2-billion-euros-from-the-european-commission-the-european-central-bank-and-the-international-monetary-fund-d.md)

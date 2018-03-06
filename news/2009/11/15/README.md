@@ -49,7 +49,7 @@ _Context: Belle de Jour, Bristol Initiative for Research of Child Health, Brooke
 
 ##### Domenico Raccuglia
 ### [ Domenico Raccuglia, considered one of Italy's 30 most dangerous fugitives, is arrested after 15 years on the run. ](/news/2009/11/15/domenico-raccuglia-considered-one-of-italy-s-30-most-dangerous-fugitives-is-arrested-after-15-years-on-the-run.md)
-_Context: Domenico Raccuglia, Italians, most dangerous fugitives_
+_Context: Domenico Raccuglia, Italy, most dangerous fugitives_
 
 ##### Metro Gold Line extension
 ### [ The Metro Gold Line extension opens in East Los Angeles and Boyle Heights after decades of planning. ](/news/2009/11/15/the-metro-gold-line-extension-opens-in-east-los-angeles-and-boyle-heights-after-decades-of-planning.md)

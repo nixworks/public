@@ -23,7 +23,7 @@ Two men who organised a controversial art exhibition in Moscow are found guilty 
 ### [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-francoapolish-film-director-roman-polanski-to-face-sentencing-on-charges.md)
 Roman Polanski is free after the Swiss government rejected a US extradition request on a charge that the film director had sexual intercourse in 1977 with a 13-year-old girl.
 
-##### Italians
+##### Italy
 ### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md)
 Italian military police general Giampaolo Ganzer is sentenced to 14 years in prison for drug smuggling
 

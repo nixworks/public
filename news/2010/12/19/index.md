@@ -35,9 +35,9 @@ _Context: Alta Verapaz, Guatemala, Guatemalan Military, Mexico, Zetas, state of 
 ### [Flights in and out of Heathrow Airport are at a virtual standstill as severe weather conditions continue across the United Kingdom. ](/news/2010/12/19/flights-in-and-out-of-heathrow-airport-are-at-a-virtual-standstill-as-severe-weather-conditions-continue-across-the-united-kingdom.md)
 Severe disruption caused by freezing weather continues, as Heathrow cancels hundreds of flights and Eurostar queues spill onto the streets.
 
-##### Italians
+##### Italy
 ### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
-_Context: Italians_
+_Context: Italy_
 
 ##### U.S. state
 ### [8 people are seriously injured when a tour bus carrying a church group lost control, slides off a road and rolls onto its side on an icy highway in the U.S. state of Colorado. ](/news/2010/12/19/8-people-are-seriously-injured-when-a-tour-bus-carrying-a-church-group-lost-control-slides-off-a-road-and-rolls-onto-its-side-on-an-icy-hig.md)

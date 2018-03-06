@@ -25,7 +25,7 @@ Michigan must begin its presidential recount at noon Monday, a federal judge rul
 
 ##### Impeachment process against President Park Geun-hye
 ### [The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against-president-park-geun-hye.md)
-_Context: Impeachment process against President Park Geun-hye, Park Geun-Hye, South Korea, South Korean president, parliamentary review_
+_Context: Impeachment process against President Park Geun-hye, Park Geun-Hye, South Korea, South Korean President, parliamentary review_
 
 ##### John Key
 ### [John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. ](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.md)

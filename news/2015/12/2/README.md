@@ -17,7 +17,7 @@ Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesd
 
 ##### Kosovo
 ### [Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. ](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.md)
-_Context: Italians, Kosovo, November 2015 Paris attacks, Pope Francis_
+_Context: Italy, Kosovo, November 2015 Paris attacks, Pope Francis_
 
 ##### Rival territorial claims
 ### [Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry said the new military buildings would help "raise the combat readiness of troops on the eastern frontiers of Russia". ](/news/2015/12/2/russia-is-reportedly-constructing-hundreds-of-buildings-for-military-use-on-the-disputed-kunashir-and-iturup-islands-also-claimed-by-japan.md)

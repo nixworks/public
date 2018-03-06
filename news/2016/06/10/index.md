@@ -53,7 +53,7 @@ BEIRUT (AP) — Kurdish-led fighters completed their encirclement Friday of a ke
 
 ##### Conflict in the Niger Delta
 ### [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md)
-_Context: Conflict in the Niger Delta, Eni, Italians, Niger Delta, Niger Delta Avengers_
+_Context: Conflict in the Niger Delta, Eni, Italy, Niger Delta, Niger Delta Avengers_
 
 ##### 2016 Aktobe shootings
 ### [Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". ](/news/2016/06/10/kazakh-police-kill-five-additional-suspected-militants-in-aktobe-as-part-of-a-counterterrorism-operation.md)

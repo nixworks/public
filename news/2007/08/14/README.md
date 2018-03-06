@@ -123,9 +123,9 @@ _Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present
 ### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)
 _Context: Dagestan, Internet, Russia, Tajikistan, far right_
 
-##### Italians
+##### Italy
 ### [ The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. ](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.md)
-_Context: Italians, Lampedusa, coast guard, illegal immigrant_
+_Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
 ##### Fire
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)

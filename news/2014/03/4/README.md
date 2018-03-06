@@ -7,7 +7,7 @@ Formats: [HTML](2014/03/4/index.html)  [JSON](2014/03/4/index.json)  [XML](2014/
 ### [A New Jersey judge has ruled that the parents of their 18-year-old daughter do not have to pay for her college education after the teen filed a lawsuit against them seeking support and alleging abuse. ](/news/2014/03/4/a-new-jersey-judge-has-ruled-that-the-parents-of-their-18-year-old-daughter-do-not-have-to-pay-for-her-college-education-after-the-teen-file.md)
 Court sets April hearing to revisit question of college tuition
 
-##### Italians
+##### Italy
 ### [Italy releases 2m euros to save the ancient city of Pompeii after flooding causes walls to collapse. ](/news/2014/03/4/italy-releases-2m-euros-to-save-the-ancient-city-of-pompeii-after-flooding-causes-walls-to-collapse.md)
 The Italian government will unblock 2m euros (£1.6m) in emergency funding to save the ancient city of Pompeii, after rain caused walls to collapse.
 

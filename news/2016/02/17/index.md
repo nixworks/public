@@ -39,7 +39,7 @@ The Russian aircraft are in the UK&#039;s &quot;area of interest&quot; and are b
 ### [Germany calls for a no-fly zone in northern Syria which could, among other things, reduce the number of displaced Syrians. Similar requests have been made by Turkey and others throughout the 5-year-old war. Russia rejects this strategy without Syria's consent. ](/news/2016/02/17/germany-calls-for-a-no-fly-zone-in-northern-syria-which-could-among-other-things-reduce-the-number-of-displaced-syrians-similar-requests.md)
 German Chancellor Angela Merkel yesterday reiterated her proposal for a no-fly zone in Syria where civilians would be protected, a suggestion that was promptly rebuffed by Moscow, which said it can only be done with the Syrian government’s consent. In Damascus, over 100 trucks loaded with humanita...
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [A report by the Taiwanese Defense Ministry states that China has placed surface-to-air missiles on the disputed Woody Island. Taiwanese President-elect Tsai Ing-wen called on all parties to "exercise self-control based on the principle of peaceful resolution of disputes in the South China Sea," while Harry B. Harris Jr., commander of the US Pacific Fleet, said that such a move would be "a militarization of the South China Sea in ways" that China's President Xi Jinping had pledged not to make. ](/news/2016/02/17/a-report-by-the-taiwanese-defense-ministry-states-that-china-has-placed-surface-to-air-missiles-on-the-disputed-woody-island-taiwanese-pres.md)
 Taiwan says China has deployed surface-to-air missiles on a disputed island in the South China Sea, but Beijing says it is an invention of the media.
 

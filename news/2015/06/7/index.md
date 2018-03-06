@@ -11,7 +11,7 @@ The election results represented a significant setback to President Recep Tayyip
 ### [Voters in Mexico go to the polls for a legislative election with reports of violence in southern states and widespread voter disillusionment. Exit polls show the ruling Institutional Revolutionary Party of President Enrique Pena Nieto in a position to retain power. ](/news/2015/06/7/voters-in-mexico-go-to-the-polls-for-a-legislative-election-with-reports-of-violence-in-southern-states-and-widespread-voter-disillusionment.md)
 Exit poll puts his PRI party ahead with 33% in the lower house elections dominated by violence and fears about corruption and the economy
 
-##### Italians
+##### Italy
 ### [The number of migrants arriving in Italy from Africa in 2015 passes 50,000 with over 5000 arriving in the past few days. ](/news/2015/06/7/the-number-of-migrants-arriving-in-italy-from-africa-in-2015-passes-50-000-with-over-5000-arriving-in-the-past-few-days.md)
 3,480 people rescued on Saturday from 15 separate boats from Libya, and 14 rescue operations carried out on Sunday
 

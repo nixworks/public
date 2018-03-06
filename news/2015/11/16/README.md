@@ -19,7 +19,7 @@ One person has been arrested in connection with the death of six people, includi
 ### [Nicaragua deploys its military to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the United States. Nicaragua's government said Costa Rica's decision to grant seven-day transit visas to 1,200 Cuban migrants who entered the country through Panama, "violated national sovereignty". Nicaraguan troops and riot police fired tear gas at people attempting to enter in what Costa Rica called a "humanitarian crisis". ](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.md)
 Nicaragua dispatched its military and police to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the U.S.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent Lassen 6 cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-lassen-6-cruise-ne.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

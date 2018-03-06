@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/11/index.html)  [JSON](2007/11/11/index.json)  [XML](200
 
 ##### Gabriele Sandri
 ### [ Gabriele Sandri, a 26-year-old supporter of the sports club S.S. Lazio is killed by police in a service station near Arezzo, Italy. Football fans later clash with police in most Italian stadiums. ](/news/2007/11/11/gabriele-sandri-a-26-year-old-supporter-of-the-sports-club-s-s-lazio-is-killed-by-police-in-a-service-station-near-arezzo-italy-footbal.md)
-_Context: Arezzo, Gabriele Sandri, Italians, Lazio, filling station, footballer, police, stadium_
+_Context: Arezzo, Gabriele Sandri, Italy, Lazio, filling station, footballer, police, stadium_
 
 ##### Ulster Defence Association
 ### [ The Ulster Defence Association announces that its Ulster Freedom Fighters' units are to stand down from midnight. ](/news/2007/11/11/the-ulster-defence-association-announces-that-its-ulster-freedom-fighters-units-are-to-stand-down-from-midnight.md)

@@ -67,7 +67,7 @@ _Context: Dutch, ING Bank, Moody's Investor Service, credit rating_
 ### [Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.md)
 _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 
-##### Italians
+##### Italy
 ### [Italy announces it will sell off three state-owned business in hopes of reducing the country's debt problems. ](/news/2012/06/15/italy-announces-it-will-sell-off-three-state-owned-business-in-hopes-of-reducing-the-country-s-debt-problems.md)
 The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off state-owned companies, in a bid to reduce its crippling debt mountain.
 

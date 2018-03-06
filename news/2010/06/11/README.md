@@ -85,7 +85,7 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ##### Academy Award
 ### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
-_Context: 13th, Academy Award, Canada, Chinese cinema, German, Ireland, Italians, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
+_Context: 13th, Academy Award, Canada, Chinese cinema, German, Ireland, Italy, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
 
 ## [Previous Day...](/news/2010/06/10/index.md)
 

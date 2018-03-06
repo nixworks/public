@@ -11,9 +11,9 @@ Incumbent Paul Kagame expected to win easily as opposition claim intimidation.
 ### [Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. ](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.md)
 Protesters who have been holding a Bolivian city hostage for 10 days have now cut off the rail line to Chile and started a hunger strike.
 
-##### South Korean president
+##### South Korean President
 ### [The President of South Korea Lee Myung-Bak replaces the Prime Minister of South Korea Chung Un-chan with Kim Tae-ho as part of a Cabinet reshuffle with seven other ministers also being replaced. ](/news/2010/08/8/the-president-of-south-korea-lee-myung-bak-replaces-the-prime-minister-of-south-korea-chung-un-chan-with-kim-tae-ho-as-part-of-a-cabinet-res.md)
-_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-Bak, Prime Minister, South Korean president, forming a government_
+_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-Bak, Prime Minister, South Korean President, forming a government_
 
 ##### Mexico City
 ### [More than 1,000 journalists march through Mexico City in protest at the repeated killings and disappearances of their colleagues throughout Mexico. ](/news/2010/08/8/more-than-1-000-journalists-march-through-mexico-city-in-protest-at-the-repeated-killings-and-disappearances-of-their-colleagues-throughout.md)

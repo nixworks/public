@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/8/italian-state-owned-channel-rainews-24-airs-a-co
 
 ### [2005-11-8](/news/2005/11/8/index.md)
 
-##### Italians
+##### Italy
 #  Italian state-owned channel RaiNews 24 airs a controversial documentary in which Iraqi people and ex-U.S. soldiers report that white phosphorus, a chemical weapon, and Mk-77 napalm bombs were used by the U.S. Army against civilians in Fallujah last year. 
 
 

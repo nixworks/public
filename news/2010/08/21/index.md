@@ -27,9 +27,9 @@ _Context: Bushehr power plant, Iran, Russia, engineers, nuclear reactor_
 ### [Palestinians warn that building on occupied land by Israel would threaten negotiations. ](/news/2010/08/21/palestinians-warn-that-building-on-occupied-land-by-israel-would-threaten-negotiations.md)
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 
-##### Italians
+##### Italy
 ### [Italy backs France's crackdown and expulsion of Romani from the country. ](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.md)
-_Context: France, Italians, Roma_
+_Context: France, Italy, Roma_
 
 ##### United States
 ### [The United States is hit by a salmonella scare, with hundreds of people now thought to be ill across the country due to bad eggs; poisoning is expected to increase in the coming weeks. ](/news/2010/08/21/the-united-states-is-hit-by-a-salmonella-scare-with-hundreds-of-people-now-thought-to-be-ill-across-the-country-due-to-bad-eggs-poisoning.md)

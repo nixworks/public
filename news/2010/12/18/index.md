@@ -7,7 +7,7 @@ Formats: [HTML](2010/12/18/index.html)  [JSON](2010/12/18/index.json)  [XML](201
 ### [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md)
 _Context: Hugo Chavez, National Assembly, Venezuela, Venezuelan President, decree_
 
-##### Italians
+##### Italy
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
 Amanda Knox has been granted a review of the forensic evidence used to convict her of the murder of British student Meredith Kercher.
 

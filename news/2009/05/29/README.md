@@ -31,9 +31,9 @@ _Context: Brazil, Piaui, dam_
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
 _Context: Computer security, U.S. military, United States, military command_
 
-##### South Korean president
+##### South Korean President
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: Roh Moo-hyun, Seoul, South Korea, South Korean president, state funeral_
+_Context: Roh Moo-hyun, Seoul, South Korea, South Korean President, state funeral_
 
 ##### Kavya Shivashankar
 ### [ Kavya Shivashankar of Kansas wins the Scripps National Spelling Bee in Washington, D.C. ](/news/2009/05/29/kavya-shivashankar-of-kansas-wins-the-scripps-national-spelling-bee-in-washington-d-c.md)

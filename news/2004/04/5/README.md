@@ -21,7 +21,7 @@ _Context: Islamist, Madrid, arrest warrant_
 
 ##### South Korea
 ### [ In South Korea, Uri Party chairman Chung Dong-young calls on the opposition parties to withdraw the motion for impeachment against President Roh Moo-hyun. ](/news/2004/04/5/in-south-korea-uri-party-chairman-chung-dong-young-calls-on-the-opposition-parties-to-withdraw-the-motion-for-impeachment-against-presiden.md)
-_Context: Chung Dong-young, Roh Moo-hyun, South Korea, South Korean president, Uri Party, chairman, impeachment_
+_Context: Chung Dong-young, Roh Moo-hyun, South Korea, South Korean President, Uri Party, chairman, impeachment_
 
 ##### African-American
 ### [ A United States government study finds that an African-American woman was 23 times more likely to be infected with AIDS than is a white woman. Recent studies suggest that 30 percent of all black bisexual men may be infected with HIV. ](/news/2004/04/5/a-united-states-government-study-finds-that-an-african-american-woman-was-23-times-more-likely-to-be-infected-with-aids-than-is-a-white-wom.md)

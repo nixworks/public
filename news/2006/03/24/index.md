@@ -15,7 +15,7 @@ _Context: EU summit_
 ### [ Lin Liang Ren, 29, is convicted on 21 counts of manslaughter arising from the February 2004 Morecambe Bay cockling disaster. ](/news/2006/03/24/lin-liang-ren-29-is-convicted-on-21-counts-of-manslaughter-arising-from-the-february-2004-morecambe-bay-cockling-disaster.md)
 _Context: February 2004 Morecambe Bay cockling disaster, Lin Liang Ren, manslaughter by gross negligence_
 
-##### South Korean president
+##### South Korean President
 ### [ President Roh Moo-hyun nominates Han Myung-Sook to become the South Korea's first woman prime minister. ](/news/2006/03/24/president-roh-moo-hyun-nominates-han-myung-sook-to-become-the-south-korea-s-first-woman-prime-minister.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

@@ -81,7 +81,7 @@ _Context: Greece, budget deficit, gross domestic product_
 
 ##### France
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: France, Groupe Lactalis, Italians, Parmalat, euro_
+_Context: France, Groupe Lactalis, Italy, Parmalat, euro_
 
 ##### Another France Telecom
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)

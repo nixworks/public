@@ -27,7 +27,7 @@ _Context: Abdullah, Al-Sakhir Palace, Bahrain, Imam Turki bin Abdullah, Sheikh I
 ### [Increasing numbers of women from Saudi Arabia are running away from home, studies by the International Muslim Organization for Women and Family (IMOWF) in Jeddah say. ](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.md)
 _Context: International Muslim Organization for Women and Family, Jeddah, Saudi Arabia_
 
-##### Italians
+##### Italy
 ### [Three Italian aid workers, Matteo Dell'Aria, Marco Garatti and Matteo Pagani, accused of being involved in a plot to assassinate Governor of Helmand Gulab Mangal, are released after being found "not guilty". ](/news/2010/04/18/three-italian-aid-workers-matteo-dell-aria-marco-garatti-and-matteo-pagani-accused-of-being-involved-in-a-plot-to-assassinate-governor-of.md)
 Investigation clears three doctors of plot to kill the governor of Helmand province.
 

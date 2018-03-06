@@ -19,7 +19,7 @@ Before India, the moon has had visitors from the US, former Soviet Union, Japan 
 ### [ The Eurozone enters its first recession as the combined gross domestic product of the 15 members dropped 0.2% in the second and third quarters of 2008. ](/news/2008/11/14/the-eurozone-enters-its-first-recession-as-the-combined-gross-domestic-product-of-the-15-members-dropped-0-2-in-the-second-and-third-quart.md)
 _Context: Eurozone, gross domestic product, recession_
 
-##### Italians
+##### Italy
 ### [ An Italian court convicts 16 and acquits 13 police officers of beating protesters at the 2001 G8 summit in Genoa.](/news/2008/11/14/an-italian-court-convicts-16-and-acquits-13-police-officers-of-beating-protesters-at-the-2001-g8-summit-in-genoa.md)
 An Italian court has cleared 16 senior police officers accused of orchestrating a brutal crackdown on anti-globalisation protesters at the 2001 G8 summit in Genoa.
 

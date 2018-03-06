@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-t
 
 ### [2013-05-7](/news/2013/05/7/index.md)
 
-##### Italians
+##### Italy
 # The Italian cargo ship "Jolly Nero" crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. 
 
 
@@ -21,8 +21,8 @@ Formats: [HTML](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-t
 
 ### Related:
 
-1. [One German and one Italian man are killed and at least 6 are injured near Marseille in a collision between a 26-foot wave and the Greek-Cypriot cruise ship "Louise Majesty" which was travelling with 2,000 passengers from Barcelona to Genoa. ](/news/2010/03/3/one-german-and-one-italian-man-are-killed-and-at-least-6-are-injured-near-marseille-in-a-collision-between-a-26-foot-wave-and-the-greek-cypr.md) _Context: Genoa, Italians_
-2. [ An Italian court convicts 16 and acquits 13 police officers of beating protesters at the 2001 G8 summit in Genoa.](/news/2008/11/14/an-italian-court-convicts-16-and-acquits-13-police-officers-of-beating-protesters-at-the-2001-g8-summit-in-genoa.md) _Context: Genoa, Italians_
-3. [ In Italy, cardinal Tarcisio Bertone, Roman Catholic archbishop of Genoa, speaks against what he describes as "lies" in the popular book "The Da Vinci Code"; the book effectively claims that, among other things, the church suppresses information about Jesus' marriage with Mary Magdalene ](/news/2005/03/15/in-italy-cardinal-tarcisio-bertone-roman-catholic-archbishop-of-genoa-speaks-against-what-he-describes-as-lies-in-the-popular-book-th.md) _Context: Genoa, Italians_
-4. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
-5. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
+1. [One German and one Italian man are killed and at least 6 are injured near Marseille in a collision between a 26-foot wave and the Greek-Cypriot cruise ship "Louise Majesty" which was travelling with 2,000 passengers from Barcelona to Genoa. ](/news/2010/03/3/one-german-and-one-italian-man-are-killed-and-at-least-6-are-injured-near-marseille-in-a-collision-between-a-26-foot-wave-and-the-greek-cypr.md) _Context: Genoa, Italy_
+2. [ An Italian court convicts 16 and acquits 13 police officers of beating protesters at the 2001 G8 summit in Genoa.](/news/2008/11/14/an-italian-court-convicts-16-and-acquits-13-police-officers-of-beating-protesters-at-the-2001-g8-summit-in-genoa.md) _Context: Genoa, Italy_
+3. [ In Italy, cardinal Tarcisio Bertone, Roman Catholic archbishop of Genoa, speaks against what he describes as "lies" in the popular book "The Da Vinci Code"; the book effectively claims that, among other things, the church suppresses information about Jesus' marriage with Mary Magdalene ](/news/2005/03/15/in-italy-cardinal-tarcisio-bertone-roman-catholic-archbishop-of-genoa-speaks-against-what-he-describes-as-lies-in-the-popular-book-th.md) _Context: Genoa, Italy_
+4. [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md) _Context: Italy_
+5. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italy_

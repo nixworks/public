@@ -21,7 +21,7 @@ _Context: Canada, Jean Charest, March 26, Premier, Quebec, Quebec general electi
 
 ##### Romano Prodi
 ### [ Romano Prodi tenders his resignation as Prime Minister of Italy, after a defeat by two votes in the Senate. ](/news/2007/02/21/romano-prodi-tenders-his-resignation-as-prime-minister-of-italy-after-a-defeat-by-two-votes-in-the-senate.md)
-_Context: Italian Senate, Italians, Prime Minister of Italy, Romano Prodi_
+_Context: Italian Senate, Italy, Prime Minister of Italy, Romano Prodi_
 
 ##### Zimbabwe
 ### [ Police in Zimbabwe ban rallies in parts of Harare that are seen as strongholds of the opposition party Movement for Democratic Change. ](/news/2007/02/21/police-in-zimbabwe-ban-rallies-in-parts-of-harare-that-are-seen-as-strongholds-of-the-opposition-party-movement-for-democratic-change.md)

@@ -33,7 +33,7 @@ _Context: China, Jiangxi, Poyang Lake_
 
 ##### Avalanche
 ### [ Seven people die in a series of avalanche incidents in Italy. ](/news/2009/12/28/seven-people-die-in-a-series-of-avalanche-incidents-in-italy.md)
-_Context: Italians, avalanche_
+_Context: Italy, avalanche_
 
 ##### Brazil
 ### [ At least 25 people are confirmed wounded after battles over a fatal stabbing between local people and gold miners from Brazil in Albina, Suriname. ](/news/2009/12/28/at-least-25-people-are-confirmed-wounded-after-battles-over-a-fatal-stabbing-between-local-people-and-gold-miners-from-brazil-in-albina-su.md)

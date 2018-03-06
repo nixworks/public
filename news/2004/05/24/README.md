@@ -17,7 +17,7 @@ _Context: 2004 elections, Gloria Macapagal Arroyo, President_
 
 ##### South Korean politics
 ### [ South Korean politics: South Korean Prime Minister Goh Kun resigns as announced last month. His successor has not yet been named by President Roh Moo-hyun. ](/news/2004/05/24/south-korean-politics-south-korean-prime-minister-goh-kun-resigns-as-announced-last-month-his-successor-has-not-yet-been-named-by-preside.md)
-_Context: Goh Kun, Prime Minister, Roh Moo-hyun, South Korean politics, South Korean president_
+_Context: Goh Kun, Prime Minister, Roh Moo-hyun, South Korean President, South Korean politics_
 
 ##### Islamic militant
 ### [ Pakistan: Police arrest six more members of militant Islamic group Harkat-ul Mujahideen al-Alami after a gun-battle in southern Karachi. ](/news/2004/05/24/pakistan-police-arrest-six-more-members-of-militant-islamic-group-harkat-ul-mujahideen-al-alami-after-a-gun-battle-in-southern-karachi.md)

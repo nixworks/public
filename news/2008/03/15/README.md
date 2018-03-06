@@ -27,9 +27,9 @@ _Context: 2008 Tirana explosions, Albania, Tirana, weapon_
 ### [ Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. ](/news/2008/03/15/three-former-police-officers-are-jailed-over-the-killing-of-ukrainian-investigative-journalist-georgiy-r-gongadze-in-2000.md)
 _Context: Georgiy R. Gongadze, Ukraine, investigative journalist, police officer_
 
-##### Italians
+##### Italy
 ### [ Tens of thousands of Italians gather in Bari to march against the mafia and remember its many victims. ](/news/2008/03/15/tens-of-thousands-of-italians-gather-in-bari-to-march-against-the-mafia-and-remember-its-many-victims.md)
-_Context: Bari, Italians, mafia, victims_
+_Context: Bari, Italy, mafia, victims_
 
 ##### Mayor of Atlanta
 ### [ The Mayor of Atlanta, Shirley Franklin, declares a state of emergency following the previous night's tornado, while northwest Georgia is hit by more tornadoes, causing at least one death. ](/news/2008/03/15/the-mayor-of-atlanta-shirley-franklin-declares-a-state-of-emergency-following-the-previous-night-s-tornado-while-northwest-georgia-is-hi.md)

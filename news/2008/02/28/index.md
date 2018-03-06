@@ -7,7 +7,7 @@ Formats: [HTML](2008/02/28/index.html)  [JSON](2008/02/28/index.json)  [XML](200
 ### [ Applied mathematicians at Brown University have ](/news/2008/02/28/applied-mathematicians-at-brown-university-have.md)
 ##### Kofi Annan
 ### [ Kofi Annan announces that Kenyan President Mwai Kibaki and opposition leader Raila Odinga have agreed to form a coalition government to resolve the country's political crisis. ](/news/2008/02/28/kofi-annan-announces-that-kenyan-president-mwai-kibaki-and-opposition-leader-raila-odinga-have-agreed-to-form-a-coalition-government-to-res.md)
-_Context: Kenya, Kofi Annan, Mwai Kibaki, Raila Odinga, coalition, post-election violence, president_
+_Context: Kenya, Kofi Annan, Mwai Kibaki, Raila Odinga, coalition government, post-election violence, president_
 
 ##### Prime Minister
 ### [ The former Prime Minister of Thailand Thaksin Shinawatra returns to Thailand to face corruption charges. ](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.md)

@@ -9,7 +9,7 @@ _Context: Sydney, Sydney Harbour Bridge_
 
 ##### Finnish parliamentary election
 ### [ Finnish parliamentary election: Voters go to the polls, with the centre-left governing coalition between the Centre Party and the Social Democratic Party continuing for another term under the leadership of Matti Vanhanen. The National Coalition Party had a strong result finishing with one seat less than the Centre Party. ](/news/2007/03/18/finnish-parliamentary-election-voters-go-to-the-polls-with-the-centre-left-governing-coalition-between-the-centre-party-and-the-social-de.md)
-_Context: Centre Party, Finnish parliamentary election, Matti Vanhanen, National Coalition Party, Social Democratic Party, coalition_
+_Context: Centre Party, Finnish parliamentary election, Matti Vanhanen, National Coalition Party, Social Democratic Party, coalition government_
 
 ##### Bob Woolmer
 ### [ Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. ](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.md)

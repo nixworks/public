@@ -27,7 +27,7 @@ _Context: Indonesia, South East Sulawesi, UTC, earthquake, magnitude_
 
 ##### Rome, Italy
 ### [ A massive demonstration in Rome asks for the release of an Italian journalist abducted in Iraq. ](/news/2005/02/19/a-massive-demonstration-in-rome-asks-for-the-release-of-an-italian-journalist-abducted-in-iraq.md)
-_Context: Iraq, Italians, Rome, Italy_
+_Context: Iraq, Italy, Rome, Italy_
 
 ##### Prison
 ### [ 350 inmates escape from a prison in Port-au-Prince, Haiti. ](/news/2005/02/19/350-inmates-escape-from-a-prison-in-port-au-prince-haiti.md)

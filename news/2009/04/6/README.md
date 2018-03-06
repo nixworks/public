@@ -21,7 +21,7 @@ _Context: Afghanistan, Politics of Afghanistan, sharia law, spousal rape_
 
 ##### Magnitude
 ### [ At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. ](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured-during-a-6-3-magnitude-earthquake-near-l-aquila-italy.md)
-_Context: 2009 L'Aquila earthquake, Italians, L'Aquila, magnitude_
+_Context: 2009 L'Aquila earthquake, Italy, L'Aquila, magnitude_
 
 ##### Erupts
 ### [ A "significant explosive event" occurs at the Mount Redoubt volcano in Alaska. ](/news/2009/04/6/a-significant-explosive-event-occurs-at-the-mount-redoubt-volcano-in-alaska.md)

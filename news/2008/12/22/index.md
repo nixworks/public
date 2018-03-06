@@ -33,7 +33,7 @@ _Context: Aboubacar Sompare, Guinea, Lansana Conte, National Assembly, President
 
 ##### Romania
 ### [ Romanian legislative election, 2008: Emil Boc is sworn in as the new Prime Minister and will lead a coalition government of the Democrat Liberals and Social Democrats. ](/news/2008/12/22/romanian-legislative-election-2008-emil-boc-is-sworn-in-as-the-new-prime-minister-and-will-lead-a-coalition-government-of-the-democrat-li.md)
-_Context: Democrat Liberals, Emil Boc, PSD, Prime Minister, Romania, coalition, legislative election, 2008_
+_Context: Democrat Liberals, Emil Boc, PSD, Prime Minister, Romania, coalition government, legislative election, 2008_
 
 ##### Turkmenistan
 ### [ Results of Turkmenistan's parliamentary election of December 14 are announced. ](/news/2008/12/22/results-of-turkmenistan-s-parliamentary-election-of-december-14-are-announced.md)

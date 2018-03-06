@@ -55,7 +55,7 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 ### [Secretary-General of the United Nations Ban Ki-moon requests an independent investigation in into the death of human rights activist Floribert Chebeya in the Democratic Republic of the Congo and promises to help in any way he can. ](/news/2010/06/4/secretary-general-of-the-united-nations-ban-ki-moon-requests-an-independent-investigation-in-into-the-death-of-human-rights-activist-floribe.md)
 UN chief Ban Ki-Moon calls for an independent investigation in DR Congo into the death of human rights activist Floribert Chebeya.
 
-##### Italians
+##### Italy
 ### [Seven Italian officials are investigated for manslaughter relating to the 2009 L'Aquila earthquake. ](/news/2010/06/4/seven-italian-officials-are-investigated-for-manslaughter-relating-to-the-2009-l-aquila-earthquake.md)
 Seven Italian officials are under investigation for manslaughter for failing to give the citizens of L&#039;Aquila warning before last April&#039;s earthquake. The disaster killed more than 300 people and razed the medieval city to the ground.
 

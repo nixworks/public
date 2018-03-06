@@ -9,7 +9,7 @@ _Context: Hat Yai, Songkhla, Thailand_
 
 ##### Marburg virus
 ### [ The Marburg virus death toll in Angola rises to 146, one of them an Italian female physician in Uige. ](/news/2005/04/3/the-marburg-virus-death-toll-in-angola-rises-to-146-one-of-them-an-italian-female-physician-in-uige.md)
-_Context: Angola, Italians, Marburg virus, Uige_
+_Context: Angola, Italy, Marburg virus, Uige_
 
 ##### Sword
 ### [ A man wielding a sword attacks a Tamil church congregation in Stuttgart, Germany, kills a woman and seriously injures three other people. ](/news/2005/04/3/a-man-wielding-a-sword-attacks-a-tamil-church-congregation-in-stuttgart-germany-kills-a-woman-and-seriously-injures-three-other-people.md)

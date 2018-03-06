@@ -3,9 +3,9 @@ Formats: [HTML](2006/06/26/index.html)  [JSON](2006/06/26/index.json)  [XML](200
 
 ## [2006-06-26](/news/2006/06/26/index.md)
 
-##### Italians
+##### Italy
 ### [ Italians reject the modification of their constitution. In a two-day referendum, "No" beats "Yes" approximately 61% to 38%, thus keeping the text unchanged. The Northern League had announced its withdrawal from the centre-right opposition coalition if reform was defeated. Votes of Italians living abroad are still to be counted. ](/news/2006/06/26/italians-reject-the-modification-of-their-constitution-in-a-two-day-referendum-no-beats-yes-approximately-61-to-38-thus-keeping-th.md)
-_Context: Italians, Northern League, constitution_
+_Context: Italy, Northern League, constitution_
 
 ##### Hamas
 ### [ Israel has stated that they will ensure that the Hamas-controlled Palestinian government is "toppled" if their captured soldier, Gilad Shalit, is killed. Three Palestinian groups claiming to hold Shalit refuse to provide information about his health via the Palestine Red Crescent, unless all jailed Palestinian women and teenagers are released from Israeli prisons. Three Qassam rockets are launched from the Gaza Strip against Israeli towns, one of them wounding 4 civilians in Sderot and causing a power outage throughout the city. ](/news/2006/06/26/israel-has-stated-that-they-will-ensure-that-the-hamas-controlled-palestinian-government-is-toppled-if-their-captured-soldier-gilad-shal.md)

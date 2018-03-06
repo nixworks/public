@@ -9,15 +9,15 @@ Transistors are the basic building blocks of electronics; now they can be made w
 
 ##### Maundy Thursday
 ### [As part of the Maundy Thursday service Pope Francis washes the feet of prisoners at a juvenile detention centre in Rome, Italy. ](/news/2013/03/28/as-part-of-the-maundy-thursday-service-pope-francis-washes-the-feet-of-prisoners-at-a-juvenile-detention-centre-in-rome-italy.md)
-_Context: Italians, Maundy Thursday, Pope Francis, Rome, Italy, juvenile detention centre, washes the feet_
+_Context: Italy, Maundy Thursday, Pope Francis, Rome, Italy, juvenile detention centre, washes the feet_
 
 ##### Shroud of Turin
 ### [New research suggests that the cloth in the Shroud of Turin likely dates from between 300 BC and 400 AD. ](/news/2013/03/28/new-research-suggests-that-the-cloth-in-the-shroud-of-turin-likely-dates-from-between-300-bc-and-400-ad.md)
 _Context: AD, B.C., Shroud of Turin_
 
-##### Italians
+##### Italy
 ### [Italy remains in political gridlock as Pier Luigi Bersani announces that the latest attempts to form a stable government have failed. ](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-luigi-bersani-announces-that-the-latest-attempts-to-form-a-stable-government-have-failed.md)
-_Context: Italians, Pier Luigi Bersani, political gridlock_
+_Context: Italy, Pier Luigi Bersani, political gridlock_
 
 ##### President of South Africa
 ### [Former President of South Africa Nelson Mandela is hospitalised with a lung infection. ](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.md)

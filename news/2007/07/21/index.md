@@ -47,9 +47,9 @@ _Context: China, flood_
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
 _Context: Royal Air Force, Summer 2007 United Kingdom floods, UK, flood_
 
-##### Italians
+##### Italy
 ### [ Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. ](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.md)
-_Context: Italians, Morocco, Perugia_
+_Context: Italy, Morocco, Perugia_
 
 ##### Radar
 ### [ A radar failure disrupts international air travel to Brazil causing disruption to thousands of travellers. ](/news/2007/07/21/a-radar-failure-disrupts-international-air-travel-to-brazil-causing-disruption-to-thousands-of-travellers.md)

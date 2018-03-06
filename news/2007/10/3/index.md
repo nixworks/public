@@ -3,7 +3,7 @@ Formats: [HTML](2007/10/3/index.html)  [JSON](2007/10/3/index.json)  [XML](2007/
 
 ## [2007-10-3](/news/2007/10/3/index.md)
 
-##### South Korean president
+##### South Korean President
 ### [ The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md)
 The deal sets a timetable for North Korea to disable all of its nuclear facilities in return for economic aid.
 

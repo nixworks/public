@@ -19,9 +19,9 @@ _Context: India, diclofenac, extinction, vulture_
 ### [ In India, numerous bank workers take part in a one-day strike to protest government reforms and bank merges they say will lead to job cuts. ](/news/2005/03/22/in-india-numerous-bank-workers-take-part-in-a-one-day-strike-to-protest-government-reforms-and-bank-merges-they-say-will-lead-to-job-cuts.md)
 _Context: India, bank, strike_
 
-##### Italians
+##### Italy
 ### [ In Italy, the Council of State allows Alessandra Mussolini to stand in elections. ](/news/2005/03/22/in-italy-the-council-of-state-allows-alessandra-mussolini-to-stand-in-elections.md)
-_Context: Alessandra Mussolini, Italians_
+_Context: Alessandra Mussolini, Italy_
 
 ##### German
 ### [ German airline Lufthansa announces its takeover of Swiss Airlines. ](/news/2005/03/22/german-airline-lufthansa-announces-its-takeover-of-swiss-airlines.md)

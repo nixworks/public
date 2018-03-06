@@ -39,9 +39,9 @@ There has been an earthquake off the coast of the Algarve in Portugal.
 ### [ Iraq War: At least 76 people are killed in four bomb attacks in Baghdad. ](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.md)
 _Context: Baghdad, Iraq War, four bomb attacks_
 
-##### Italians
+##### Italy
 ### [ Italian police arrest in raids 15 people who the police claimed were associated with the Red Brigades terrorist group. ](/news/2007/02/12/italian-police-arrest-in-raids-15-people-who-the-police-claimed-were-associated-with-the-red-brigades-terrorist-group.md)
-_Context: Italians, Red Brigades_
+_Context: Italy, Red Brigades_
 
 ##### Iraq
 ### [ Iraq's High Tribunal sentences former Vice President Taha Yassin Ramadan to death for his role in the 1982 killing of 148 men and boys in Dujail following an unsuccessful assassination attempt against Saddam Hussein. ](/news/2007/02/12/iraq-s-high-tribunal-sentences-former-vice-president-taha-yassin-ramadan-to-death-for-his-role-in-the-1982-killing-of-148-men-and-boys-in-d.md)

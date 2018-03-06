@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-s
 
 ### [2005-02-23](/news/2005/02/23/index.md)
 
-##### Italians
+##### Italy
 #  In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -18,8 +18,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ Italian police in Rome reopen the investigation into the murder of Pier Paolo Pasolini. ](/news/2005/05/9/italian-police-in-rome-reopen-the-investigation-into-the-murder-of-pier-paolo-pasolini.md) _Context: Italians, murder_
-2. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
-3. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
-4. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_
-5. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italians_
+1. [ Italian police in Rome reopen the investigation into the murder of Pier Paolo Pasolini. ](/news/2005/05/9/italian-police-in-rome-reopen-the-investigation-into-the-murder-of-pier-paolo-pasolini.md) _Context: Italy, murder_
+2. [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md) _Context: Italy_
+3. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italy_
+4. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italy_
+5. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_

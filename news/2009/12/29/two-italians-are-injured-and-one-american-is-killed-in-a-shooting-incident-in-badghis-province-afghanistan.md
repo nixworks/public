@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/29/two-italians-are-injured-and-one-american-is-ki
 
 ### [2009-12-29](/news/2009/12/29/index.md)
 
-##### Italians
+##### Italy
 #  Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. 
 
 

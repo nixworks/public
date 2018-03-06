@@ -27,9 +27,9 @@ Moscow, Sep 21 (DPA) At least ten gay activists protesting against the anti-homo
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
 _Context: Japan, Nicky Hilton, Paris Hilton_
 
-##### Italians
+##### Italy
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: Holy See, Italians, USD, euro_
+_Context: Holy See, Italy, USD, euro_
 
 ##### China
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)

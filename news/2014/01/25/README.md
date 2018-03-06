@@ -9,7 +9,7 @@ Three people have died after a shooting incident at a shopping mall in the US st
 
 ##### Vial
 ### [A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. ](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-ii-s-blood-is-stolen-from-the-church-of-san-pietro-della-ienca-in-abruzzo-italy.md)
-_Context: Abruzzo, Italians, Pope John Paul II, vial_
+_Context: Abruzzo, Italy, Pope John Paul II, vial_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md)

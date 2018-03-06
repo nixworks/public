@@ -41,7 +41,7 @@ _Context: Neil Entwistle_
 
 ##### Naples
 ### [Head of Naples police intervention brigade Vittorio Pisani is investigated in Italy after coming under suspicion of leaking information to the mafia. ](/news/2011/06/30/head-of-naples-police-intervention-brigade-vittorio-pisani-is-investigated-in-italy-after-coming-under-suspicion-of-leaking-information-to-t.md)
-_Context: Italians, Naples, Vittorio Pisani, mafia_
+_Context: Italy, Naples, Vittorio Pisani, mafia_
 
 ##### United Nations
 ### [The United Nations-backed Special Tribunal for Lebanon investigating the killing of Lebanon's former prime minister and business tycoon Rafic Hariri in 2005 issues 4 arrest warrants. ](/news/2011/06/30/the-united-nations-backed-special-tribunal-for-lebanon-investigating-the-killing-of-lebanon-s-former-prime-minister-and-business-tycoon-rafi.md)
@@ -103,9 +103,9 @@ _Context: Haiti that has killed thousands of people, United Nations, cholera_
 ### [In the United Kingdom, the cheque guarantee card scheme &ndash; which ensures some cheques are honoured even if the account holder does not have sufficient funds in their account &ndash; is being withdrawn today after operating for over 40 years. ](/news/2011/06/30/in-the-united-kingdom-the-cheque-guarantee-card-scheme-ndash-which-ensures-some-cheques-are-honoured-even-if-the-account-holder-does-not.md)
 The final operating day of cheque guarantee cards - which ensure some cheques are honoured - is on Thursday.
 
-##### Italians
+##### Italy
 ### [Italy's government attempts to bring in its own austerity measures to calm turbulent markets and reassure investors. ](/news/2011/06/30/italy-s-government-attempts-to-bring-in-its-own-austerity-measures-to-calm-turbulent-markets-and-reassure-investors.md)
-_Context: Italians_
+_Context: Italy_
 
 ##### Samsung
 ### [Samsung Electronics lodges a claim with the US International Trade Commission to stop Apple Inc. importing six products including the iPhone, iPod and iPads for alleged patent infringements. ](/news/2011/06/30/samsung-electronics-lodges-a-claim-with-the-us-international-trade-commission-to-stop-apple-inc-importing-six-products-including-the-iphone.md)

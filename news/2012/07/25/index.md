@@ -41,7 +41,7 @@ The UK recession has deepened, latest official figures show, after the output of
 
 ##### Egan-Jones Ratings Company
 ### [Egan-Jones Ratings Company downgrades Italy to CCC+ from B+, saying the country has a one-year default probability of 22%. ](/news/2012/07/25/egan-jones-ratings-company-downgrades-italy-to-ccc-from-b-saying-the-country-has-a-one-year-default-probability-of-22.md)
-_Context: Egan-Jones Ratings Company, Italians_
+_Context: Egan-Jones Ratings Company, Italy_
 
 ##### India
 ### [Nine people are killed overnight in ethnic clashes in the Indian state of Assam with the total death toll since last Friday being 35. ](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.md)

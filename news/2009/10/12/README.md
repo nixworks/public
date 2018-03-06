@@ -21,7 +21,7 @@ _Context: India, Orissa State, Prithvi II_
 
 ##### Milan
 ### [ Two people are injured in a bomb attack in Milan, Italy, after a Libyan man explodes a device at the entrance of an army barracks. ](/news/2009/10/12/two-people-are-injured-in-a-bomb-attack-in-milan-italy-after-a-libyan-man-explodes-a-device-at-the-entrance-of-an-army-barracks.md)
-_Context: Italians, Libya, Milan_
+_Context: Italy, Libya, Milan_
 
 ##### Kremlin
 ### [ The pro-Kremlin United Russia party wins around 80% of regional and local seats in elections held in 76 regions in Russia. Opposition alleges vote rigging ](/news/2009/10/12/the-pro-kremlin-united-russia-party-wins-around-80-of-regional-and-local-seats-in-elections-held-in-76-regions-in-russia-opposition-alleg.md)

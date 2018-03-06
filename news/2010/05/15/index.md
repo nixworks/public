@@ -35,7 +35,7 @@ _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 ### [A by-election begins in Hong Kong. ](/news/2010/05/15/a-by-election-begins-in-hong-kong.md)
 _Context: Hong Kong, by-election_
 
-##### Italians
+##### Italy
 ### [Italy fines Ryanair EUR3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-a-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md)
 Italy has fined Ryanair 3 million euros for failing to help passengers after cancelling their flights during the volcanic ash crisis. Ryanair denies the accusation.
 

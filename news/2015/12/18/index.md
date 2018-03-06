@@ -59,7 +59,7 @@ The African Union said it was ready to send 5,000 peacekeepers to Burundi to pro
 ### [An airstrike by the U.S.-led coalition hit Iraqi forces as the army engaged militants in poor weather conditions south of the city of Fallujah. Official reports state one soldier was killed, and nine were injured, but casualties may be significantly higher. A military medic says he's treated at least 20 for injuries. ](/news/2015/12/18/an-airstrike-by-the-u-s-led-coalition-hit-iraqi-forces-as-the-army-engaged-militants-in-poor-weather-conditions-south-of-the-city-of-falluj.md)
 This is the first friendly fire report by the country&rsquo;s armed forces since U.S. airstrikes on the Islamic State began.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [A U.S. B-52 long-range bomber on a routine mission over the South China Sea mistakenly flew within two nautical miles of an artificial island built by China near the Cuarteron Reef in the disputed Spratly Islands archipelago, according to a senior U.S. defense official. The Chinese Defense Ministry issues a statement accusing the U.S. of deliberately raising tensions in the disputed region. ](/news/2015/12/18/a-u-s-b-52-long-range-bomber-on-a-routine-mission-over-the-south-china-sea-mistakenly-flew-within-two-nautical-miles-of-an-artificial-islan.md)
 US Navy says its B-52 plane had no intention of flying so close to the Chinese-claimed Spratly archipelago in the South China Sea
 

@@ -23,7 +23,7 @@ _Context: 2008 Summer Olympics, China, lip-synching_
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
 _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
-##### Italians
+##### Italy
 ### [Nine people, including three Italian medical workers, are detained over accusations of plotting to kill Governor of Helmand Gulab Mangal. ](/news/2010/04/11/nine-people-including-three-italian-medical-workers-are-detained-over-accusations-of-plotting-to-kill-governor-of-helmand-gulab-mangal.md)
 Three medical workers among nine arrested for allegedly plotting to kill Helmand governor.
 

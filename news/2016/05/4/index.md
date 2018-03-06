@@ -45,7 +45,7 @@ The Palestinian Islamist group claimed that Egypt mediated a truce with Israel a
 
 ##### Allied Democratic Forces insurgency
 ### [Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to-death-in-the-eastern-democratic-repub.md)
-_Context: Allied Democratic Forces, Allied Democratic Forces insurgency, DR Congo_
+_Context: ADF, Allied Democratic Forces insurgency, DR Congo_
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-installation-in-turkey-killing-one-soldier-turke.md)

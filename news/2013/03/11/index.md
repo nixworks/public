@@ -75,9 +75,9 @@ _Context: American Navy, EA-6B Prowler, Spokane, United States, Washington, cras
 ### [Five U.S. service members are killed after a helicopter crash during a rainstorm in Daman district of Kandahar Province, Afghanistan. ](/news/2013/03/11/five-u-s-service-members-are-killed-after-a-helicopter-crash-during-a-rainstorm-in-daman-district-of-kandahar-province-afghanistan.md)
 Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopter crash blamed on a rainstorm, the US says.
 
-##### Italians
+##### Italy
 ### [Italian stocks lose value after Fitch Ratings downgrades the country's creditworthiness. ](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-downgrades-the-country-s-creditworthiness.md)
-_Context: Fitch Ratings, Italians, creditworthiness, stock_
+_Context: Fitch Ratings, Italy, creditworthiness, stock_
 
 ##### European Union
 ### [The European Union bans the sale of cosmetics developed through animal testing. ](/news/2013/03/11/the-european-union-bans-the-sale-of-cosmetics-developed-through-animal-testing.md)

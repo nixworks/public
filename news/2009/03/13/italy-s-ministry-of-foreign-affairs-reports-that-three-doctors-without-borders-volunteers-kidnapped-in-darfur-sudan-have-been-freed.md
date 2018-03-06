@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-tha
 
 ### [2009-03-13](/news/2009/03/13/index.md)
 
-##### Italians
+##### Italy
 #  Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed. 
 
 

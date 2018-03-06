@@ -23,7 +23,7 @@ The president’s tweet that he has a “much bigger” arsenal of nuclear weapo
 
 ### Related:
 
-1. [U.S. President Donald Trump states North Korea was seeking talks with the United States about denuclearization on the Korean Peninsula. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-seeking-talks-with-the-united-states-about-denuclearization-on-the-korean-peninsula.md) _Context: Donald Trump, North Korea, North Korea-United States relations, U.S. President_
+1. [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md) _Context: Donald Trump, North Korea, North Korea-United States relations, U.S. President_
 2. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: Donald Trump, North Korea, North Korea-United States relations, U.S. President_
 3. [U.S. President Donald Trump meets with Australian Prime Minister Malcolm Turnbull in the White House. Trump indicated that there would be new sanctions against the North Korean regime. ](/news/2018/02/23/u-s-president-donald-trump-meets-with-australian-prime-minister-malcolm-turnbull-in-the-white-house-trump-indicated-that-there-would-be-ne.md) _Context: Donald Trump, North Korea, U.S. President_
 4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump, North Korea, U.S. President_

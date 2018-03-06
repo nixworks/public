@@ -17,7 +17,7 @@ _Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President,
 
 ##### Costa Concordia
 ### [The "Costa Concordia" is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md)
-_Context: Costa Concordia, Italians, Tuscany, sunk_
+_Context: Costa Concordia, Italy, Tuscany, sunk_
 
 ##### Army
 ### [Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-in-the-battle-of-zamboanga-city-in-the-ci.md)

@@ -11,9 +11,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ In Mexico, Ral Gibb Guerrero, editor of "La Opinin" newspaper, who covered Mexican drug cartels is killed. ](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.md)
 _Context: La Opinin, Mexico, Ral Gibb Guerrero, drug cartel_
 
-##### Italians
+##### Italy
 ### [ Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. ](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.md)
-_Context: Italians, Marco Follini, Silvio Berlusconi, general election_
+_Context: Italy, Marco Follini, Silvio Berlusconi, general election_
 
 ##### Spain
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)

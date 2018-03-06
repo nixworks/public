@@ -43,7 +43,7 @@ _Context: Taiwan, Typhoon Saola_
 ### [Japanese media reports that electronics company Sharp Corporation plans to cut 5,000 positions worldwide. ](/news/2012/08/2/japanese-media-reports-that-electronics-company-sharp-corporation-plans-to-cut-5-000-positions-worldwide.md)
 _Context: Japanese, Sharp Corporation_
 
-##### Italians
+##### Italy
 ### [Italian football club Inter Milan sells a 15% stake to a Chinese investor group. ](/news/2012/08/2/italian-football-club-inter-milan-sells-a-15-stake-to-a-chinese-investor-group.md)
 Italian football club Inter Milan says that a group of Chinese investors will become its second-largest shareholder.
 

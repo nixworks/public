@@ -11,13 +11,13 @@ France 2&rsquo;s Philippe Verdier pooh-poohed global warming ahead of UN summit 
 ### [The Vatican police arrest Msgr. Lucio Angel Vallejo Balda and Francesca Immacolata Chaouqui, members of a former papal commission charged with studying financial operations of the Holy See, for allegedly leaking confidential documents to the media, a crime since 2013. ](/news/2015/11/2/the-vatican-police-arrest-msgr-lucio-angel-vallejo-balda-and-francesca-immacolata-chaouqui-members-of-a-former-papal-commission-charged-w.md)
 Two members of a commission set up by Pope Francis to study financial overhauls were arrested before the release of two books on Vatican scandals.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Chinese military aircraft conduct training in the South China Sea following the cruise of a U.S. Navy ship in the vicinity of the disputed Spratly Islands. ](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.md)
 Days after a U.S. naval ship sailed by, Chinese officials released photographs of armed aircraft training over disputed territory in the South China Sea.
 
 ##### Trilateral summit
 ### [A day after Sunday's trilateral summit between China, Japan, and South Korea, South Korean President Park Geun-hye and Japanese Prime Minister Shinzo Abe are meeting in Seoul. The two countries haven't met in over three years. Expected topics include trade ties, North Korea's pursuit of nuclear bombs, and long-running disputes over Japanese wartime aggression and behavior. ](/news/2015/11/2/a-day-after-sunday-s-trilateral-summit-between-china-japan-and-south-korea-south-korean-president-park-geun-hye-and-japanese-prime-minist.md)
-_Context: China, North Korea, Park Geun-hye, Prime Minister of Japan, Shinzo Abe, South Korean president, disputes, nuclear warheads, trilateral summit_
+_Context: China, North Korea, Park Geun-hye, Prime Minister of Japan, Shinzo Abe, South Korean President, disputes, nuclear warheads, trilateral summit_
 
 ##### Kogalymavia Flight 9268
 ### [U.S. intelligence analysts conclude the Russian plane was not brought down by surface-to-air missile. An American infrared satellite detected a heat flash at the same time and same place over the Sinai as the plane, but no evidence a missile was involved. Analysts believe it could have been some kind of explosion on the aircraft itself, either a fuel tank or a bomb. U.S. officials do not rule out that ISIL could have been responsible for bringing down the flight. ](/news/2015/11/2/u-s-intelligence-analysts-conclude-the-russian-plane-was-not-brought-down-by-surface-to-air-missile-an-american-infrared-satellite-detecte.md)

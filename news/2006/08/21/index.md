@@ -35,9 +35,9 @@ _Context: 2006 transatlantic aircraft plot, United Kingdom, martyrdom video_
 ### [ The government of Kyrgyzstan warns that the Islamic Movement of Uzbekistan, a terrorist group affiliated with al Qaeda, and other militant Islamic groups, are preparing to attack southern cities like Osh. ](/news/2006/08/21/the-government-of-kyrgyzstan-warns-that-the-islamic-movement-of-uzbekistan-a-terrorist-group-affiliated-with-al-qaeda-and-other-militant.md)
 _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al Qaeda_
 
-##### Italians
+##### Italy
 ### [ Italy offers to lead the United Nations peacekeeping forces in Lebanon instead of France. Italy has offered to provide 2,000 forces, more than any other nation, and France is only offering to provide 200 civil engineers. ](/news/2006/08/21/italy-offers-to-lead-the-united-nations-peacekeeping-forces-in-lebanon-instead-of-france-italy-has-offered-to-provide-2-000-forces-more-t.md)
-_Context: France, Italians, Lebanese, United Nations_
+_Context: France, Italy, Lebanese, United Nations_
 
 ##### Presidential candidate in 2006
 ### [ Democratic Republic of the Congo general election: As a meeting between Bemba and foreign ambassadors representing the International Committee Accompanying the Transition to Democracy (CIAT) is taking place in Kinshasa, clashes break between Kabila and Bemba forces; Bemba's residence, hosting the meeting, comes under attack, reportedly by heavy machine guns and artillery. Several hours later, the UN spokesperson in the DRC, Jean-Tobias Okala, announced the foreign diplomats, including MONUC chief William Swing, were successfully evacuated to UN headquarters. ](/news/2006/08/21/democratic-republic-of-the-congo-general-election-as-a-meeting-between-bemba-and-foreign-ambassadors-representing-the-international-commit.md)

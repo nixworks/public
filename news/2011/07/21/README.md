@@ -41,7 +41,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japanese government_
 
 ##### Euro zone
 ### [Euro zone leaders secure a EUR109 billion bailout for Greece with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as Spain and Italy. ](/news/2011/07/21/euro-zone-leaders-secure-a-a-109-billion-bailout-for-greece-with-the-country-going-into-default-for-a-short-period-but-with-increased-powe.md)
-_Context: Euro zone, Greece, Italians, Spain_
+_Context: Euro zone, Greece, Italy, Spain_
 
 ##### Lee Child
 ### [Author Lee Child &ndash; creator of the Jack Reacher series &ndash; wins the novel of the year award at the Harrogate Crime Writing Festival for his book "61 Hours". ](/news/2011/07/21/author-lee-child-ndash-creator-of-the-jack-reacher-series-ndash-wins-the-novel-of-the-year-award-at-the-harrogate-crime-writing-festival.md)

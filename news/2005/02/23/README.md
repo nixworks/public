@@ -19,7 +19,7 @@ Keep your mind and body sharp with the latest health and fitness news and inform
 ### [ Exiled Cuban writer Guillermo Cabrera Infante dies in London ](/news/2005/02/23/exiled-cuban-writer-guillermo-cabrera-infante-dies-in-london.md)
 _Context: Cuba, Guillermo Cabrera Infante_
 
-##### Italians
+##### Italy
 ### [ In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted ](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-satan-rock-group-is-sentenced-to-30-years-in-prison-for-three-murders-another-member-piet.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

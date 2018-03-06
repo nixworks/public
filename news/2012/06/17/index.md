@@ -13,7 +13,7 @@ _Context: Ahmed Shafik, Egypt, Freedom and Justice Party, Mohamed Morsi, Prime M
 
 ##### Greece
 ### [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md)
-_Context: Greece, coalition, failed, first election on May 6, second legislative election_
+_Context: Greece, coalition government, failed, first election on May 6, second legislative election_
 
 ##### Palestinians
 ### [Two Palestinians who attempt to rob an Israeli truck driver are shot dead in self defense near Hebron in the West Bank. ](/news/2012/06/17/two-palestinians-who-attempt-to-rob-an-israeli-truck-driver-are-shot-dead-in-self-defense-near-hebron-in-the-west-bank.md)

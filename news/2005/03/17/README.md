@@ -19,7 +19,7 @@ _Context: Bhumibol Adulyadej, Thailand, cloud seeding, drought, rain_
 ### [ In Russia, Anatoly Chubais, head of Russia's state power monopoly RAO UES, survives an apparent ambush ](/news/2005/03/17/in-russia-anatoly-chubais-head-of-russia-s-state-power-monopoly-rao-ues-survives-an-apparent-ambush.md)
 _Context: Anatoly Chubais, RAO UES, Russia, ambush_
 
-##### Italians
+##### Italy
 ### [ In Italy, the staff of Milan's La Scala opera vote for the resignation of the famous conductor Riccardo Muti. ](/news/2005/03/17/in-italy-the-staff-of-milan-s-la-scala-opera-vote-for-the-resignation-of-the-famous-conductor-riccardo-muti.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

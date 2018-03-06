@@ -27,7 +27,7 @@ _Context: F-15, Incirlik Air Base, Turkey-United States relations, Turkish, Unit
 ### ["Reuters" reports the Obama Administration will be opening new screening centers for Syrian refugees in Iraq and Lebanon to speed up the process for getting vetted individuals to the United States. ](/news/2015/11/6/reuters-reports-the-obama-administration-will-be-opening-new-screening-centers-for-syrian-refugees-in-iraq-and-lebanon-to-speed-up-the-pro.md)
 The Obama administration is moving to increase and accelerate the number of Syrian refugees who might be admitted into the United States by opening new screening outposts in Iraq and Lebanon, administration officials told Reuters on Friday.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [U.S. officials say the U.S. Navy deliberately avoided military drills or other actions that could have further inflamed tensions with Beijing during the USS Lassen's patrol in the South China Sea last week. For instance, the Lassen turned off its fire-control radars while transiting within 12 nautical miles of Subi Reef. On its part, the Chinese destroyer following the Lassen was, "very cordial the entire time ... before and after the Spratly Islands transit," said the Lassen's commanding officer, Commander Robert Francis. ](/news/2015/11/6/u-s-officials-say-the-u-s-navy-deliberately-avoided-military-drills-or-other-actions-that-could-have-further-inflamed-tensions-with-beijin.md)
 As soon as the guided-missile destroyer USS Lassen breached 12-nautical-mile territorial limits around one of China&#8217;s man-made islands in the disputed South China Sea last week, a Chinese war…
 

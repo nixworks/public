@@ -9,7 +9,7 @@ _Context: Barack Obama, North Korea, South Pacific Ocean, U.S. President, United
 
 ##### Salvatore Miceli
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
-_Context: Italians, Mafia, Salvatore Miceli, Venezuela_
+_Context: Italy, Mafia, Salvatore Miceli, Venezuela_
 
 ##### Belfast
 ### [ An open top sightseeing bus with 40 tourists on board is stoned in Belfast. ](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.md)

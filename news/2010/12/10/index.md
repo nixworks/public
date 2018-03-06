@@ -27,9 +27,9 @@ _Context: Sakineh Mohammadi Ashtiani_
 ### [Prosecutors in Croatia issue an arrest warrant for former Prime Minister Ivo Sanader on suspected corruption charges. He is then arrested. ](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.md)
 Ivo Sanader, wanted for corruption, has been arrested by Austrian police near Salzburgon on an international warrant.
 
-##### Italians
+##### Italy
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)
-_Context: Italians, Prime Minister of Italy, Silvio Berlusconi_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi_
 
 ##### WikiLeaks
 ### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)

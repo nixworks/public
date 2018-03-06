@@ -17,7 +17,7 @@ _Context: Gaza Strip, Hamas, Israel, Israel-Gaza conflict, government_
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak, the President of South Korea, apologises to South Koreans over an unpopular decision to resume importing beef from the United States. ](/news/2008/06/19/lee-myung-bak-the-president-of-south-korea-apologises-to-south-koreans-over-an-unpopular-decision-to-resume-importing-beef-from-the-unite.md)
-_Context: Lee Myung-bak, South Korea, South Korean president, United States, beef imports_
+_Context: Lee Myung-bak, South Korea, South Korean President, United States, beef imports_
 
 ##### Zimbabwe
 ### [ Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others-on-a-wanted-list.md)

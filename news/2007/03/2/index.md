@@ -47,9 +47,9 @@ _Context: 2012, George W. Bush administration, Lawrence Livermore National Labor
 ### [ Cuban foreign minister Felipe Prez Roque claims leader Fidel Castro is recovering from his illness and could come back to lead Cuba again. ](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.md)
 _Context: Cuba, Felipe Prez Roque, Fidel Castro_
 
-##### Italians
+##### Italy
 ### [ Italian leader Romano Prodi is reinstated as prime minister after winning his second and final confidence vote in the Parliament, ending a political crisis that began last week when Prodi resigned after losing a foreign policy vote. ](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.md)
-_Context: Italians, Romano Prodi, parliament_
+_Context: Italy, Romano Prodi, parliament_
 
 ##### Copenhagen
 ### [ Protestors set cars and barricades on fire in Copenhagen over evictions. ](/news/2007/03/2/protestors-set-cars-and-barricades-on-fire-in-copenhagen-over-evictions.md)

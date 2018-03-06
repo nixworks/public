@@ -13,7 +13,7 @@ Many security personnel are feared killed in the attack on a police outpost in B
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta frees two Italian oilworkers that it took captive last year in Nigeria. ](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.md)
-_Context: Italians, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ##### BBC
 ### [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md)

@@ -17,7 +17,7 @@ _Context: Kenya, Maasai, Thomas P. G. Cholmondeley_
 
 ##### Swiss
 ### [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md)
-_Context: Alps, German, Italians, Lotschberg Tunnel, Swiss_
+_Context: Alps, German, Italy, Lotschberg Tunnel, Swiss_
 
 ##### France
 ### [ In France, Bernard Guillet, an aide to former interior minister Charles Pasqua is questioned in connection with the oil for food probe. ](/news/2005/04/28/in-france-bernard-guillet-an-aide-to-former-interior-minister-charles-pasqua-is-questioned-in-connection-with-the-oil-for-food-probe.md)

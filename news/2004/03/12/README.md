@@ -25,7 +25,7 @@ _Context: Camp X-Ray, Daily Mirror, Guantnamo Bay, Jamal al-Harith_
 
 ##### South Korea
 ### [ The parliament of South Korea votes to impeach President Roh Moo-hyun, saying he "breached election rules" by calling for support for the Uri Party. Prime Minister Goh Kun will run the country until the Constitutional Court rules on the issue. Roh's supporters dismiss the move as a power play to influence the upcoming April elections. Thousands protest in support of Roh. ](/news/2004/03/12/the-parliament-of-south-korea-votes-to-impeach-president-roh-moo-hyun-saying-he-breached-election-rules-by-calling-for-support-for-the-u.md)
-_Context: Goh Kun, Prime Minister, Roh Moo-hyun, South Korea, South Korean president, Uri Party, impeachment_
+_Context: Goh Kun, Prime Minister, Roh Moo-hyun, South Korea, South Korean President, Uri Party, impeachment_
 
 ##### March 11, 2004 Madrid attacks
 ### [ March 11, 2004 Madrid attacks: Millions of people pack rainswept streets across Spain in protest against the recent Madrid bombings. ](/news/2004/03/12/march-11-2004-madrid-attacks-millions-of-people-pack-rainswept-streets-across-spain-in-protest-against-the-recent-madrid-bombings.md)

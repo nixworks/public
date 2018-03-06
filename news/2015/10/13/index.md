@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/13/index.html)  [JSON](2015/10/13/index.json)  [XML](201
 ### [Burkina Faso's presidential and parliamentary elections are deferred to November 29 due to a recent coup. ](/news/2015/10/13/burkina-faso-s-presidential-and-parliamentary-elections-are-deferred-to-november-29-due-to-a-recent-coup.md)
 Burkina Faso&#x27;s presidential and parliamentary elections, delayed because of a failed coup, will now take place on November 29, two candidates said Tuesday after a meeting with the country&#x27;s interim authorities. &quot;The date of November 29 has been set by all Burkina Faso&#x27;s political...
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express-s.md)
 The United States and its Pacific ally Australia warned China on Tuesday that they remain committed to freedom of navigation in the waters of the South China Sea.
 

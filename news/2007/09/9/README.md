@@ -21,7 +21,7 @@ Afghan President Hamid Karzai renewed a call for talks with Taliban insurgents o
 
 ##### Jamaica
 ### [ Jamaican Asafa Powell set a new men's world 100 meters record of 9.74 seconds at the IAAF Grand Prix at Rieti, Italy. ](/news/2007/09/9/jamaican-asafa-powell-set-a-new-men-s-world-100-meters-record-of-9-74-seconds-at-the-iaaf-grand-prix-at-rieti-italy.md)
-_Context: Asafa Powell, Italians, Jamaica, Rieti, men's world 100 meters record_
+_Context: Asafa Powell, Italy, Jamaica, Rieti, men's world 100 meters record_
 
 ##### Guatemala
 ### [ Voters in Guatemala go to the polls in the Guatemalan general election, 2007. ](/news/2007/09/9/voters-in-guatemala-go-to-the-polls-in-the-guatemalan-general-election-2007.md)

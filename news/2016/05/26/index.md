@@ -31,9 +31,9 @@ The decisions came after the university concluded that accusations of sexual ass
 ### [Indonesian President Joko Widodo issues an executive order (Perppu) making child sexual abuse punishable by chemical castration and extends the maximum penalty to death. ](/news/2016/05/26/indonesian-president-joko-widodo-issues-an-executive-order-perppu-making-child-sexual-abuse-punishable-by-chemical-castration-and-extends.md)
 Indonesian President Joko Widodo on Wednesday signed an executive order declaring that child sexual abuse is punishable by chemical castration and death.
 
-##### South Korean president
+##### South Korean President
 ### [South Korean President Park Geun-hye, during her state visit to Ethiopia to work toward full-scale defense cooperation, pledges $1 million in aid for drought recovery. Park is expected to continue to Uganda and Kenya after this visit. ](/news/2016/05/26/south-korean-president-park-geun-hye-during-her-state-visit-to-ethiopia-to-work-toward-full-scale-defense-cooperation-pledges-1-million-i.md)
-_Context: Kenya, Park Geun-hye, South Korean president, Uganda_
+_Context: Kenya, Park Geun-hye, South Korean President, Uganda_
 
 ##### South Korea
 ### [ South Korea plans to import arms worth about 3.5 trillion won (US$3 billion) this year to enhance its defense capabilities. ](/news/2016/05/26/south-korea-plans-to-import-arms-worth-about-3-5-trillion-won-us-3-billion-this-year-to-enhance-its-defense-capabilities.md)

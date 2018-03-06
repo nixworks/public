@@ -43,7 +43,7 @@ _Context: Rugby World Cup, South Africa, World Cup_
 ### [ Thousands flee a fresh outbreak of fighting in the east of the Democratic Republic of the Congo. ](/news/2007/10/20/thousands-flee-a-fresh-outbreak-of-fighting-in-the-east-of-the-democratic-republic-of-the-congo.md)
 Thousands flee fresh violence in eastern DR Congo
 
-##### Italians
+##### Italy
 ### [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md)
 Hundreds of thousands of left-wing Italians have marched through Rome, adding to pressure on Prime Minister Romano Prodi&#039;s Government.
 

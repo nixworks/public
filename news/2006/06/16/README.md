@@ -27,9 +27,9 @@ _Context: China, China Industrial Economy News, Hunan province, Shaoyang city, Y
 ### [ An H5 strain of avian influenza has been detected in the Canadian province of Prince Edward Island. The bird flu currently has a "low risk" to humans.](/news/2006/06/16/an-h5-strain-of-avian-influenza-has-been-detected-in-the-canadian-province-of-prince-edward-island-the-bird-flu-currently-has-a-low-risk.md)
 _Context: Canadian, Prince Edward Island, avian influenza_
 
-##### Italians
+##### Italy
 ### [ The Italian pretender, Vittorio Emanuele, Prince of Naples, is arrested as part of an investigation into corruption and prostitution. ](/news/2006/06/16/the-italian-pretender-vittorio-emanuele-prince-of-naples-is-arrested-as-part-of-an-investigation-into-corruption-and-prostitution.md)
-_Context: Italians, Vittorio Emanuele, Prince of Naples, pretender_
+_Context: Italy, Vittorio Emanuele, Prince of Naples, pretender_
 
 ##### North Korea
 ### [ Surveillance and intelligence reports have confirmed that North Korea is preparing to test its Taepodong-2 missiles on Sunday. ](/news/2006/06/16/surveillance-and-intelligence-reports-have-confirmed-that-north-korea-is-preparing-to-test-its-taepodong-2-missiles-on-sunday.md)

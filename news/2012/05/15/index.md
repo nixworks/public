@@ -13,7 +13,7 @@ _Context: Alzheimer's disease, United States_
 
 ##### Greece
 ### [Crisis-wracked Greece is forced to hold new general elections, after efforts by major political parties to form a coalition government end in failure. ](/news/2012/05/15/crisis-wracked-greece-is-forced-to-hold-new-general-elections-after-efforts-by-major-political-parties-to-form-a-coalition-government-end-i.md)
-_Context: Greece, coalition_
+_Context: Greece, coalition government_
 
 ##### Francois Hollande
 ### [Francois Hollande is sworn in as the 24th President of France. Hollande appoints Jean-Marc Ayrault as his Prime Minister. ](/news/2012/05/15/franassois-hollande-is-sworn-in-as-the-24th-president-of-france-hollande-appoints-jean-marc-ayrault-as-his-prime-minister.md)

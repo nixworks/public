@@ -23,7 +23,7 @@ North Korean authorities have indicated flooding may have left up to 300,000 peo
 ### [ The Myanmar government doubles the price of petrol and increases the cost of compressed natural gas fivefold leaving some commuters stranded. ](/news/2007/08/15/the-myanmar-government-doubles-the-price-of-petrol-and-increases-the-cost-of-compressed-natural-gas-fivefold-leaving-some-commuters-strande.md)
 _Context: Myanmar, compressed natural gas, petrol_
 
-##### Italians
+##### Italy
 ### [ Six Italians are found shot to death in the town of Duisburg, Germany. Police say they were connected to 'Ndrangheta. ](/news/2007/08/15/six-italians-are-found-shot-to-death-in-the-town-of-duisburg-germany-police-say-they-were-connected-to-ndrangheta.md)
 Six people were found fatally shot in the town of Duisburg in western Germany, police said Wednesday.
 

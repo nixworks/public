@@ -23,9 +23,9 @@ Cleveland resident Ariel Castro was charged on Wednesday with kidnapping and rap
 ### [Jodi Arias is convicted of the first-degree murder of her boyfriend by a court in Arizona. ](/news/2013/05/8/jodi-arias-is-convicted-of-the-first-degree-murder-of-her-boyfriend-by-a-court-in-arizona.md)
 A US woman is found guilty of premeditated murder in the shooting and stabbing death of her boyfriend in his Arizona home in 2008.
 
-##### Italians
+##### Italy
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
-_Context: Italians, Prime Minister of Italy, Silvio Berlusconi, top court_
+_Context: Italy, Prime Minister of Italy, Silvio Berlusconi, top court_
 
 ##### France
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)

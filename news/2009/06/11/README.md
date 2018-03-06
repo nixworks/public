@@ -83,9 +83,9 @@ _Context: Bermuda, China, Guantanamo Bay detention camp, Uyghur_
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)
 RTÉ Director-General Cathal Goan has told an Oireachtas Committee that the national broadcaster is not facing bankruptcy.
 
-##### Italians
+##### Italy
 ### [ Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. ](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.md)
-_Context: Italians, Libya, Muammar al-Gaddafi_
+_Context: Italy, Libya, Muammar al-Gaddafi_
 
 ##### World Health Organization
 ### [ The World Health Organization declares the current outbreak of H1N1 to be a "pandemic", the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-apandemica-the-first-since-the-1968-hong-kong-flu.md)

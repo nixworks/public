@@ -11,9 +11,9 @@ _Context: Burma, General, Ibrahim Gambari, Than Shwe, United Nations_
 ### [ Manhattan Community Board 5 voted to add the Hotel Pennsylvania to the list of NYC Historic buildings. ](/news/2007/10/2/manhattan-community-board-5-voted-to-add-the-hotel-pennsylvania-to-the-list-of-nyc-historic-buildings.md)
 _Context: Hotel Pennsylvania, Manhattan Community Board 5_
 
-##### South Korean president
+##### South Korean President
 ### [ The President of South Korea Roh Moo-hyun walks across the Korean Demilitarized Zone in travelling to Pyongyang for talks with North Korean leader Kim Jong Il. ](/news/2007/10/2/the-president-of-south-korea-roh-moo-hyun-walks-across-the-korean-demilitarized-zone-in-travelling-to-pyongyang-for-talks-with-north-korean.md)
-_Context: DMZ, Kim Jong Il, North Korea, Pyongyang, Roh Moo-hyun, South Korean president, talks_
+_Context: DMZ, Kim Jong Il, North Korea, Pyongyang, Roh Moo-hyun, South Korean President, talks_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: A suicide bomber blows himself up near a bus carrying policemen killing at least 11 in Kabul. ](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.md)

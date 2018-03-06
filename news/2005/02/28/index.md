@@ -45,7 +45,7 @@ _Context: Anthony Ashley-Cooper, Cannes, Djamilia M'Barek, Earl of Shaftesbury, 
 
 ##### Spain
 ### [ In Spain, police arrest Raffaele Amato, head of a mafia gang that has waged turf wars against other gangs in Naples, Italy. ](/news/2005/02/28/in-spain-police-arrest-raffaele-amato-head-of-a-mafia-gang-that-has-waged-turf-wars-against-other-gangs-in-naples-italy.md)
-_Context: Italians, Naples, Raffaele Amato, Spain, mafia_
+_Context: Italy, Naples, Raffaele Amato, Spain, mafia_
 
 ##### Burundi
 ### [ People of Burundi vote on a new constitution ](/news/2005/02/28/people-of-burundi-vote-on-a-new-constitution.md)

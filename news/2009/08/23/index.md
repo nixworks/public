@@ -41,7 +41,7 @@ _Context: Cuba, Fidel Castro, Juventud Rebelde_
 
 ##### North Korea
 ### [ North Korean envoys meet the South Korean President Lee Myung-bak for the first time since he took office. ](/news/2009/08/23/north-korean-envoys-meet-the-south-korean-president-lee-myung-bak-for-the-first-time-since-he-took-office.md)
-_Context: Lee Myung-bak, North Korea, South Korea, South Korean president_
+_Context: Lee Myung-bak, North Korea, South Korea, South Korean President_
 
 ##### Forest fires
 ### [ Thousands of people are evacuated as forest fires reach the outskirts of the Greek capital, Athens. ](/news/2009/08/23/thousands-of-people-are-evacuated-as-forest-fires-reach-the-outskirts-of-the-greek-capital-athens.md)

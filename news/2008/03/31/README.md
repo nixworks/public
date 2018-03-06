@@ -15,9 +15,9 @@ _Context: Absolut Vodka, France, Pernod Ricard, Vin & Sprit_
 ### [ War in Somalia (2008): Somali Islamists have seized control of a central town after clashes with government forces that left 11 people dead, residents and Islamists said. ](/news/2008/03/31/war-in-somalia-2008-somali-islamists-have-seized-control-of-a-central-town-after-clashes-with-government-forces-that-left-11-people-dead.md)
 _Context: 2008, two years of helping_
 
-##### Italians
+##### Italy
 ### [ The Italian city of Milan is selected to host the 2015 World Exposition after winning 86 to 65 in a vote against Turkish Izmir. ](/news/2008/03/31/the-italian-city-of-milan-is-selected-to-host-the-2015-world-exposition-after-winning-86-to-65-in-a-vote-against-turkish-adegzmir.md)
-_Context: Expo 2015, Italians, Izmir, Milan, Turkish_
+_Context: Expo 2015, Italy, Izmir, Milan, Turkish_
 
 ##### Serbia
 ### [ Serbian Defense Minister Dragan Sutanovac accuses allies of Prime Minister Vojislav Kostunica of coordinating and leading anti-Western riots in Belgrade and Kosovo. ](/news/2008/03/31/serbian-defense-minister-dragan-a-utanovac-accuses-allies-of-prime-minister-vojislav-koa-tunica-of-coordinating-and-leading-anti-western-ri.md)

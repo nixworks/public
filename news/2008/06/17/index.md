@@ -9,7 +9,7 @@ _Context: China, Guangzhou, Shenzhen, Summer 2008 China region floods_
 
 ##### Korean Confederation of Trade Unions
 ### [ The Korean Confederation of Trade Unions calls a one day strike for July 2 in protest at the President of South Korea Lee Myung-bak's economic reform plans. ](/news/2008/06/17/the-korean-confederation-of-trade-unions-calls-a-one-day-strike-for-july-2-in-protest-at-the-president-of-south-korea-lee-myung-bak-s-econo.md)
-_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean president_
+_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean President_
 
 ##### Lebanese
 ### [ Lebanese security officials say that clashes between pro-government and anti-government lead to three deaths in the villages of Taalabaya and Saadnayel in eastern Lebanon. ](/news/2008/06/17/lebanese-security-officials-say-that-clashes-between-pro-government-and-anti-government-lead-to-three-deaths-in-the-villages-of-taalabaya-a.md)

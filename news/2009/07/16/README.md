@@ -49,7 +49,7 @@ _Context: Gurbanguly Berdimuhamedow, Turkmenistan, cotton, president_
 
 ##### South Korea
 ### [ Former South Korean President and Nobel Peace Prize winner Kim Dae-jung is in an intensive care unit in a Seoul hospital being treated for pneumonia. ](/news/2009/07/16/former-south-korean-president-and-nobel-peace-prize-winner-kim-dae-jung-is-in-an-intensive-care-unit-in-a-seoul-hospital-being-treated-for.md)
-_Context: Kim Dae-jung, Nobel Peace Prize, Seoul, South Korea, South Korean president, pneumonia_
+_Context: Kim Dae-jung, Nobel Peace Prize, Seoul, South Korea, South Korean President, pneumonia_
 
 ##### Gholam Reza Aghazadeh
 ### [ Gholam Reza Aghazadeh, head of the Atomic Energy Organization of Iran and Vice President of Iran, resigns for unknown reasons. ](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.md)

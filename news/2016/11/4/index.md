@@ -17,7 +17,7 @@ Selahattin Demirtaş, HDP co-leader known as the ‘Kurdish Obama’, held with 
 
 ##### 2016 South Korean political scandal
 ### [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md)
-_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, South Korean president_
+_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, South Korean President_
 
 ##### Palauan presidential election, 2016
 ### [Incumbent President of Palau Tommy Remengesau narrowly leads his brother-in-law, Surangel Whipps Jr., by 78 votes. Final results are expected to be announced later in November. ](/news/2016/11/4/incumbent-president-of-palau-tommy-remengesau-narrowly-leads-his-brother-in-law-surangel-whipps-jr-by-78-votes-final-results-are-expecte.md)

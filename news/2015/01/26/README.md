@@ -9,7 +9,7 @@ _Context: Church of England, Libby Lane, United Kingdom, York Minster_
 
 ##### SYRIZA
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)
-_Context: Greek elections, Independent Greeks, SYRIZA, coalition_
+_Context: Greek elections, Independent Greeks, SYRIZA, coalition government_
 
 ##### China
 ### [Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. ](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-communist-party-secretary-of-nanjing-following-the-investigation-and-dismissal-of-former-party.md)

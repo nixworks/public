@@ -17,7 +17,7 @@ _Context: 2015 Philadelphia train derailment, Department of Transportation, Nort
 
 ##### Explosion
 ### [A large explosion, which triggers other explosions and a fire (which threatens a nearby forest) at a fireworks factory in southeastern Italy (Modugno, Metropolitan City of Bari, Apulia Region) kills 7 people and injures several more, some seriously. Emergency vehicles were on the scene and the cause is being investigated; it is the peak season for fireworks in Italy because of the summer festivals there. ](/news/2015/07/24/a-large-explosion-which-triggers-other-explosions-and-a-fire-which-threatens-a-nearby-forest-at-a-fireworks-factory-in-southeastern-italy.md)
-_Context: Apulia, Italians, Metropolitan City of Bari, Modugno, explosion, fireworks_
+_Context: Apulia, Italy, Metropolitan City of Bari, Modugno, explosion, fireworks_
 
 ##### Greek government-debt crisis timeline
 ### [Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md)

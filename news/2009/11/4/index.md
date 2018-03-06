@@ -27,7 +27,7 @@ _Context: China, Disney, Shanghai, theme park_
 ### [ Around 700 people are injured in two earthquakes in southern Iran. ](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.md)
 _Context: Iran, earthquake_
 
-##### Italians
+##### Italy
 ### [ Italian politicians and the Vatican condemn a ruling by the European Court of Human Rights that says having a crucifix in a classroom is a breach of human rights. ](/news/2009/11/4/italian-politicians-and-the-vatican-condemn-a-ruling-by-the-european-court-of-human-rights-that-says-having-a-crucifix-in-a-classroom-is-a.md)
 Italian political leaders have united to condemn a European court ruling that crucifixes displayed in schools are a breach of human rights.
 
@@ -39,7 +39,7 @@ _Context: Ernest Bai Koroma, President of Sierra Leone, Sierra Leone_
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
 _Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, United States_
 
-##### Italians
+##### Italy
 ### [ An Italian court convicts 22 CIA agents and 2 Italian agents over the kidnap of Muslim cleric Hassan Mustafa Osama Nasr in Milan in 2003, in the first court case challenging the CIA's "extraordinary rendition" programme. ](/news/2009/11/4/an-italian-court-convicts-22-cia-agents-and-2-italian-agents-over-the-kidnap-of-muslim-cleric-hassan-mustafa-osama-nasr-in-milan-in-2003-i.md)
 Twenty-three US secret agents, accused of seizing imam, sentenced to jail in absentia.
 

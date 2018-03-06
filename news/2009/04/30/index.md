@@ -11,7 +11,7 @@ _Context: Cheikh Hadjibou Soumare, Prime Minister of Senegal, Senegal, Souleyman
 ### [ The Los Angeles Police Department identifies the suspected serial killer John Floyd Thomas, Jr. ](/news/2009/04/30/the-los-angeles-police-department-identifies-the-suspected-serial-killer-john-floyd-thomas-jr.md)
 The first wave of slayings haunted Los Angeles in the mid-1970s. The killer slipped mostly unseen through the night, preying on older women who lived alone. He raped them and squeezed their necks...
 
-##### Italians
+##### Italy
 ### [ The Italian cargo ship "Jolley Smeraldo" evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
 An Italian-flagged merchant ship evaded an attack by Somali pirates and its 24-person crew was unharmed, shipping line officials said.
 

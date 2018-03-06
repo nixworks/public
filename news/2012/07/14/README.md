@@ -27,7 +27,7 @@ A man is killed by a shark while surfing off the coast of Western Australia, in 
 ### [About a quarter of a million people are asked to leave the southern Japanese island of Kyushu after flooding caused by days of heavy rain leaves 20 people dead. ](/news/2012/07/14/about-a-quarter-of-a-million-people-are-asked-to-leave-the-southern-japanese-island-of-kyushu-after-flooding-caused-by-days-of-heavy-rain-le.md)
 Evacuation order issued for 240,000 people hit by heavy rains on main southern island of Kyushu.
 
-##### Italians
+##### Italy
 ### [Italian and French rescue crews recover the bodies of two climbers on Mont Blanc in the Alps, two days following an avalanche that swept away nine climbers. ](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.md)
 Rescue crews in Italy and France say two more climbers have died on Mont Blanc in the Alps following the deaths of nine people last week.
 

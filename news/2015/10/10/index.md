@@ -15,7 +15,7 @@ Egypt signed a contract Saturday to buy two Mistral warships, whose sale to Russ
 ### [North Korea holds a massive military parade in its capital, Pyongyang, to celebrate the 70th anniversary of Workers' Party of Korea rule in the country. Liu Yunshan, the highest-ranking Chinese official to visit North Korea in three years, attends the parade. ](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.md)
 _Context: Liu Yunshan, North Korea, Pyongyang, Workers' Party of Korea_
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-south-china-sea-according-to-chinese-state-media.md)
 The United States and the Philippines opposed the construction, as tensions in the region mount over Beijing’s maritime ambitions
 

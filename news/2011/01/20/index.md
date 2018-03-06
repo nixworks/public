@@ -59,7 +59,7 @@ _Context: Congress, Hu Jintao_
 ### [President of Afghanistan Hamid Karzai, accompanied by ministers and business leaders, arrives in Russia. ](/news/2011/01/20/president-of-afghanistan-hamid-karzai-accompanied-by-ministers-and-business-leaders-arrives-in-russia.md)
 Afghan leader in Moscow to explore military and business deals with former foe, in trip that is said to have upset US.
 
-##### Italians
+##### Italy
 ### [The Vatican is said to be "troubled" by the latest sex scandal engulfing Italy's prime minister Silvio Berlusconi, alleging that Berlusconi purchased an under-age prostitute. ](/news/2011/01/20/the-vatican-is-said-to-be-troubled-by-the-latest-sex-scandal-engulfing-italy-s-prime-minister-silvio-berlusconi-alleging-that-berlusconi.md)
 The Vatican says it is troubled by the latest allegations against Italian PM Silvio Berlusconi, who is accused of paying a under-age prostitute.
 

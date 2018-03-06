@@ -3,7 +3,7 @@ Formats: [HTML](2016/01/30/index.html)  [JSON](2016/01/30/index.json)  [XML](201
 
 ## [2016-01-30](/news/2016/01/30/index.md)
 
-##### Italians
+##### Italy
 ### [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-leg.md)
 Hundreds of thousands of Italians descended on Rome on Saturday to protest a bill that would legalize same-sex unions across the country.
 
@@ -19,7 +19,7 @@ _Context: Orange County Men's Central Jail escape, San Francisco, Santa Ana_
 ### [Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-federation-of-guatemala.md)
 _Context: 2015 FIFA corruption case, FIFA, National Football Federation of Guatemala, Reuters_
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [A United States Navy guided missile destroyer, "USS Curtis Wilbur" (DDG-54), sails within 12 nautical miles of the disputed Triton Island. The Pentagon said that the mission aimed at countering the "excessive maritime claims of parties that claim the Paracel Islands", while China's Ministry of Defense said the U.S. action "severely violated the law." ](/news/2016/01/30/a-united-states-navy-guided-missile-destroyer-uss-curtis-wilbur-ddg-54-sails-within-12-nautical-miles-of-the-disputed-triton-island-t.md)
 The US sails a warship close to a disputed island in the South China Sea, in what China calls a violation of its laws.
 

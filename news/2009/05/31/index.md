@@ -41,7 +41,7 @@ _Context: George Tiller, Kansas, Late-term abortion, United States, Wichita, Kan
 
 ##### Russia
 ### [ Russian cyclist Denis Menchov wins the 2009 Giro d'Italia in Rome, Italy. ](/news/2009/05/31/russian-cyclist-denis-menchov-wins-the-2009-giro-d-italia-in-rome-italy.md)
-_Context: 2009, Denis Menchov, Giro d'Italia, Italians, Rome, Italy, Russia, cyclist_
+_Context: 2009, Denis Menchov, Giro d'Italia, Italy, Rome, Italy, Russia, cyclist_
 
 ##### Parti Keadilan Rakyat
 ### [ The People's Justice Party wins the by-election in Penanti, Penang, Malaysia. ](/news/2009/05/31/the-people-s-justice-party-wins-the-by-election-in-penanti-penang-malaysia.md)

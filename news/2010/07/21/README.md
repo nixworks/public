@@ -35,9 +35,9 @@ David Cameron is criticised after saying the UK was the &quot;junior partner&quo
 ### [Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. ](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.md)
 The Israeli military tells the UN it will limit the use of a controversial weapon in future conflicts.
 
-##### Italians
+##### Italy
 ### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
-_Context: Italians_
+_Context: Italy_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. ](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.md)

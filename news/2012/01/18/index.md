@@ -23,7 +23,7 @@ U.S. prosecutors charged seven people, described as a circle of friends who form
 ### [Severed human hands and feet are found near the Hollywood sign in Los Angeles, California, close to where a man's severed head was recently discovered. Los Angeles police continue their search for more body parts connected with the case. ](/news/2012/01/18/severed-human-hands-and-feet-are-found-near-the-hollywood-sign-in-los-angeles-california-close-to-where-a-man-s-severed-head-was-recently.md)
 _Context: California, Hollywood sign, Los Angeles_
 
-##### Italians
+##### Italy
 ### [Italian cruise ship captain Francesco Schettino admits having made navigational errors that led to the capsizing of the "Costa Concordia" in Italian waters on January 13, killing at least 11 people. ](/news/2012/01/18/italian-cruise-ship-captain-francesco-schettino-admits-having-made-navigational-errors-that-led-to-the-capsizing-of-the-costa-concordia-in.md)
 The captain of the cruise ship that capsized on Friday, Francesco Schettino, has admitted he made a navigation mistake, Italian media say.
 

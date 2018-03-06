@@ -15,7 +15,7 @@ _Context: Moon, Yutu_
 ### [A Virginia judge rules the state's prohibition of gay marriage unconstitutional. ](/news/2014/02/13/a-virginia-judge-rules-the-state-s-prohibition-of-gay-marriage-unconstitutional.md)
 _Context: Virginia, gay marriage_
 
-##### Italians
+##### Italy
 ### [Italy's Prime Minister Enrico Letta holds an emergency meeting after Democratic leader Matteo Renzi called for him to resign. ](/news/2014/02/13/italy-s-prime-minister-enrico-letta-holds-an-emergency-meeting-after-democratic-leader-matteo-renzi-called-for-him-to-resign.md)
 Centre-left mayor of Florence tells Democratic party meeting that Italy urgently needs &#x27;new phase&#x27;
 

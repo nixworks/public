@@ -9,7 +9,7 @@ _Context: Hong Kong, Ukraine, Urmston Channel, the Brothers_
 
 ##### Magdi Allam
 ### [ Magdi Allam, the most prominent Muslim in Italy, converts to Catholicism and is baptized by Pope Benedict XVI. ](/news/2008/03/22/magdi-allam-the-most-prominent-muslim-in-italy-converts-to-catholicism-and-is-baptized-by-pope-benedict-xvi.md)
-_Context: Catholic faithful, Italians, Magdi Allam, Muslim, Pope Benedict XVI, baptized_
+_Context: Catholic faithful, Italy, Magdi Allam, Muslim, Pope Benedict XVI, baptized_
 
 ##### Ma Ying-jeou
 ### [ Ma Ying-jeou is elected President of the Republic of China with more than 58% of the votes in the 2008 presidential election, handing the presidency back to the Kuomintang (KMT) after eight years under the Democratic Progressive Party. ](/news/2008/03/22/ma-ying-jeou-is-elected-president-of-the-republic-of-china-with-more-than-58-of-the-votes-in-the-2008-presidential-election-handing-the-p.md)

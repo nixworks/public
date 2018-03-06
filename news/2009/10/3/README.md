@@ -31,9 +31,9 @@ _Context: Indonesia, United Nations, devastating earthquakes_
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for talks with the military government for the first time since 2008. ](/news/2009/10/3/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-talks-with-the-military-government-for-the-first-time-since-2008.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
 
-##### Italians
+##### Italy
 ### [ The death toll in Italy rises to 21 following sudden extreme spells of rain and mud showers in Messina and other parts of Sicily as the injured total reaches at least eighty. ](/news/2009/10/3/the-death-toll-in-italy-rises-to-21-following-sudden-extreme-spells-of-rain-and-mud-showers-in-messina-and-other-parts-of-sicily-as-the-inj.md)
-_Context: Italians, Messina, Sicily, sudden extreme spells of rain and mud showers_
+_Context: Italy, Messina, Sicily, sudden extreme spells of rain and mud showers_
 
 ##### Typhoon Parma
 ### [ Typhoon Parma hits the Philippines, with early reports indicating at least four deaths as trees are uprooted and roofs torn off houses. ](/news/2009/10/3/typhoon-parma-hits-the-philippines-with-early-reports-indicating-at-least-four-deaths-as-trees-are-uprooted-and-roofs-torn-off-houses.md)

@@ -25,7 +25,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 
 ##### Park Geun-hye
 ### [Park Geun-hye is sworn in as the first female President of South Korea in the capital Seoul. ](/news/2013/02/25/park-geun-hye-is-sworn-in-as-the-first-female-president-of-south-korea-in-the-capital-seoul.md)
-_Context: Park Geun-hye, Seoul, South Korea, South Korean president_
+_Context: Park Geun-hye, Seoul, South Korea, South Korean President_
 
 ##### Italy Common Good
 ### [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/4/italian-scientists-have-found-cocaine-residue-in
 
 ### [2005-08-4](/news/2005/08/4/index.md)
 
-##### Italians
+##### Italy
 #  Italian scientists have found cocaine residue in the Po River water 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2005/08/4/italian-scientists-have-found-cocaine-residue-in
 
 ### Related:
 
-1. [Flooding continues in Italy with seven people having died in the past week and thousands of people ordered to evacuate in Turin as the Po River continues to rise. ](/news/2011/11/7/flooding-continues-in-italy-with-seven-people-having-died-in-the-past-week-and-thousands-of-people-ordered-to-evacuate-in-turin-as-the-po-ri.md) _Context: Italians, Po River_
-2. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
-3. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italians_
-4. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italians_
-5. [Five Dutch nationals and a Colombian are arrested at the staged delivery operation in Oss, Netherlands, of a container with 4,500 kg of cocaine and bananas for cover, originating from Colombia, that was previously intercepted in the Port of Antwerp. ](/news/2018/02/26/five-dutch-nationals-and-a-colombian-are-arrested-at-the-staged-delivery-operation-in-oss-netherlands-of-a-container-with-4-500-kg-of-coca.md) _Context: cocaine_
+1. [Flooding continues in Italy with seven people having died in the past week and thousands of people ordered to evacuate in Turin as the Po River continues to rise. ](/news/2011/11/7/flooding-continues-in-italy-with-seven-people-having-died-in-the-past-week-and-thousands-of-people-ordered-to-evacuate-in-turin-as-the-po-ri.md) _Context: Italy, Po River_
+2. [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md) _Context: Italy_
+3. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italy_
+4. [On the day of the funeral of slain journalist Jan Kuciak, for lack of evidence, police release seven Italian nationals who are accused of links with the 'Ndrangheta mafia in a posthumously published investigative report by Kuciak. ](/news/2018/03/3/on-the-day-of-the-funeral-of-slain-journalist-ja-n-kuciak-for-lack-of-evidence-police-release-seven-italian-nationals-who-are-accused-of-l.md) _Context: Italy_
+5. [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md) _Context: Italy_

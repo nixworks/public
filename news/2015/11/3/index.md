@@ -19,9 +19,9 @@ _Context: Federally Administered Tribal Areas, Northwestern Pakistan, Pakistan, 
 ### [ German Chancellor Angela Merkel announces a plan to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refugee.md)
 German Chancellor Angela Merkel announced a plan to register and distribute incoming refugees evenly throughout the European Union.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Cabinet of Japan, Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Territorial disputes in the South China Sea, Vietnam, port city of Da Nang_
+_Context: Cabinet of Japan, Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Vietnam, port city of Da Nang, tensions in the region_
 
 ##### Libyan Crisis (2011-present)
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)

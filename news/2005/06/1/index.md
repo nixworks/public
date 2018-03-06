@@ -47,9 +47,9 @@ _Context: Vietnam, heroin_
 ### [ Haim Yavin, one of Israel's most respected television news presenters has condemned the Israeli occupation of the Palestinian territories, calling it "brutal", the first time he has spoken publicly on the subject. ](/news/2005/06/1/haim-yavin-one-of-israel-s-most-respected-television-news-presenters-has-condemned-the-israeli-occupation-of-the-palestinian-territories.md)
 _Context: Haim Yavin, Israel, Palestine, television news_
 
-##### Italians
+##### Italy
 ### [ In Italy, court in Bologna gives life sentences to five members of Red Brigades for the murder of government advisor Marco Biagi in 2002. They are suspected members of the Communist Combatant faction of the Brigades ](/news/2005/06/1/in-italy-court-in-bologna-gives-life-sentences-to-five-members-of-red-brigades-for-the-murder-of-government-advisor-marco-biagi-in-2002-t.md)
-_Context: 2002, Bologna, Italians, Marco Biagi, Red Brigades, life sentence_
+_Context: 2002, Bologna, Italy, Marco Biagi, Red Brigades, life sentence_
 
 ##### Cte d'Ivoire
 ### [ In Cte d'Ivoire, renewed violence in the west of the country costs at least 41 lives ](/news/2005/06/1/in-cote-d-ivoire-renewed-violence-in-the-west-of-the-country-costs-at-least-41-lives.md)

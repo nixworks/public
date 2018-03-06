@@ -63,9 +63,9 @@ Rock of Ages star Tom Cruise and his wife Katie Holmes are divorcing after five 
 ### [Alternative rock band The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours. ](/news/2012/06/29/alternative-rock-band-the-flaming-lips-set-a-new-guinness-world-record-for-performing-the-most-live-shows-in-different-cities-over-24-hours.md)
 US rockers The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours.
 
-##### Italians
+##### Italy
 ### [The sunken Italian World War II flagship "Roma" is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md)
-_Context: Italians, Roma, Sardinia, World War II_
+_Context: Italy, Roma, Sardinia, World War II_
 
 ##### Holocaust
 ### [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md)

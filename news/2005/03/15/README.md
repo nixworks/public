@@ -3,7 +3,7 @@ Formats: [HTML](2005/03/15/index.html)  [JSON](2005/03/15/index.json)  [XML](200
 
 ## [2005-03-15](/news/2005/03/15/index.md)
 
-##### Italians
+##### Italy
 ### [ In Italy, cardinal Tarcisio Bertone, Roman Catholic archbishop of Genoa, speaks against what he describes as "lies" in the popular book "The Da Vinci Code"; the book effectively claims that, among other things, the church suppresses information about Jesus' marriage with Mary Magdalene ](/news/2005/03/15/in-italy-cardinal-tarcisio-bertone-roman-catholic-archbishop-of-genoa-speaks-against-what-he-describes-as-lies-in-the-popular-book-th.md)
 A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.
 

@@ -39,9 +39,9 @@ The MoD suspends training flights in aircraft with ejector seats like the one in
 ### [The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
 _Context: Thailand_
 
-##### Italians
+##### Italy
 ### [Italy's cost of borrowing reaches a record high, with interest rates on 10-year loans rising to 7%, as fears grow of an escalating economic crisis. ](/news/2011/11/9/italy-s-cost-of-borrowing-reaches-a-record-high-with-interest-rates-on-10-year-loans-rising-to-7-as-fears-grow-of-an-escalating-economic.md)
-_Context: Italians, escalating economic crisis, interest rate_
+_Context: Italy, escalating economic crisis, interest rate_
 
 ##### Taylor Swift
 ### [Taylor Swift wins Entertainer of the Year at the American Country Music Association Awards. ](/news/2011/11/9/taylor-swift-wins-entertainer-of-the-year-at-the-american-country-music-association-awards.md)

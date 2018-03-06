@@ -15,9 +15,9 @@ _Context: Amazon Rainforest, Brazil, Politics of Brazil, deforestation, legislat
 ### [ An Australian girl spontaneously switches blood types and adopts her donor's immune system following a liver transplant in the first known case of its type. ](/news/2008/01/24/an-australian-girl-spontaneously-switches-blood-types-and-adopts-her-donor-s-immune-system-following-a-liver-transplant-in-the-first-known.md)
 _Context: Australia, blood type, donor, immune system, liver, transplant_
 
-##### Italians
+##### Italy
 ### [ Italian Prime Minister Romano Prodi is forced to resign following a lost vote of confidence in the Senate. ](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.md)
-_Context: Italian Senate, Italians, Prime Minister, Romano Prodi, confidence motion, resign_
+_Context: Italian Senate, Italy, Prime Minister, Romano Prodi, confidence motion, resign_
 
 ##### Karolinska Institute
 ### [ A medical student at the Karolinska Institute in Stockholm is expelled when it turns out that he was paroled from a maximum-security prison after being convicted of murder in 2000. ](/news/2008/01/24/a-medical-student-at-the-karolinska-institute-in-stockholm-is-expelled-when-it-turns-out-that-he-was-paroled-from-a-maximum-security-prison.md)

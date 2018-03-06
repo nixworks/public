@@ -7,7 +7,7 @@ Formats: [HTML](2011/05/15/index.html)  [JSON](2011/05/15/index.json)  [XML](201
 ### [British Prime Minister David Cameron confirms that his government will write into law the principles of the Military Covenant. ](/news/2011/05/15/british-prime-minister-david-cameron-confirms-that-his-government-will-write-into-law-the-principles-of-the-military-covenant.md)
 The government is planning to write into law for the first time the principles of the military covenant, the prime minister confirms.
 
-##### Italians
+##### Italy
 ### [Italy tests the popularity of its controversial prime minister Silvio Berlusconi, who is embroiled in several criminal trials and sex scandals; Berlusconi alleges the opposition does not "wash much". ](/news/2011/05/15/italy-tests-the-popularity-of-its-controversial-prime-minister-silvio-berlusconi-who-is-embroiled-in-several-criminal-trials-and-sex-scanda.md)
 Local elections in Italy are seen as a test of Prime Minister Silvio Berlusconi as he faces corruption trials and sex scandals.
 

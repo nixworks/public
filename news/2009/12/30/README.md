@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/30/index.html)  [JSON](2009/12/30/index.json)  [XML](200
 
 ##### 
 ### [ The US applies tariffs on Chinese steel pipes, as part of a series of tariffs amid at Chinese produced goods. ](/news/2009/12/30/the-us-applies-tariffs-on-chinese-steel-pipes-as-part-of-a-series-of-tariffs-amid-at-chinese-produced-goods.md)
-##### Italians
+##### Italy
 ### [ Police in Italy locate a wooden toy guitar sculpture which co-founder of Cubism Pablo Picasso made for his daughter Paloma. ](/news/2009/12/30/police-in-italy-locate-a-wooden-toy-guitar-sculpture-which-co-founder-of-cubism-pablo-picasso-made-for-his-daughter-paloma.md)
 Pablo Picasso&#039;s &#034;Little Guitar&#034;, a sculpture the artist made for his daughter Paloma, has been recovered from a shoe box in the home of an Italian businessman, police said.
 

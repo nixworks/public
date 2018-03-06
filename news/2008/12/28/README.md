@@ -9,7 +9,7 @@ Listen to highlights from our radio broadcasts, including news, current affairs,
 
 ##### Illegal migrants
 ### [ Four boats carrying approximately 1,700 illegal Libyan migrants arrive on the Italian island of Lampedusa. ](/news/2008/12/28/four-boats-carrying-approximately-1-700-illegal-libyan-migrants-arrive-on-the-italian-island-of-lampedusa.md)
-_Context: Italians, Lampedusa, Libya, illegal migrants, migrants_
+_Context: Italy, Lampedusa, Libya, illegal migrants, migrants_
 
 ##### Mexico
 ### [ Mexican authorities arrest Army Major Arturo Gonzalez Rodriguez for selling information to the Beltran Leyva drug cartel. ](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.md)

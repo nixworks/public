@@ -49,7 +49,7 @@ Bolivia is looking to Russian defense firms to revamp its aging military arsenal
 
 ##### Iran - Italy relations
 ### [ During a visit to Iran, Prime Minister of Italy Matteo Renzi signs various bilateral agreements to enhance relations between the two countries, including plans for cooperation between the Italian electricity and gas company Enel and the National Iranian Oil Company. ](/news/2016/04/12/during-a-visit-to-iran-prime-minister-of-italy-matteo-renzi-signs-various-bilateral-agreements-to-enhance-relations-between-the-two-countr.md)
-_Context: Enel, Iran, Iran - Italy relations, Italians, Matteo Renzi, NIOC, Prime Minister of Italy_
+_Context: Enel, Iran, Iran - Italy relations, Italy, Matteo Renzi, NIOC, Prime Minister of Italy_
 
 ##### North Korea - South Korea relations
 ### [ North Korea accuses South Korea of kidnapping its citizens and demands their immediate return after Seoul's Ministry of Unification said 13 of them had defected to South Korea from China, where they worked in a Pyongyang-operated restaurant. China says that the 13 people, a male manager and 12 young female employees, had legitimate passports and had freely exited China. ](/news/2016/04/12/north-korea-accuses-south-korea-of-kidnapping-its-citizens-and-demands-their-immediate-return-after-seoul-s-ministry-of-unification-said-13.md)

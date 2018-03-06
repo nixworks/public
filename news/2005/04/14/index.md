@@ -57,7 +57,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Czech Republic
 ### [ The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister. ](/news/2005/04/14/the-czech-coalition-government-agrees-to-form-a-new-cabinet-jan-kohout-is-expected-to-succeed-stanislav-gross-as-the-new-prime-minister.md)
-_Context: Czech Republic, Jan Kohout, Stanislav Gross, coalition, prime minister_
+_Context: Czech Republic, Jan Kohout, Stanislav Gross, coalition government, prime minister_
 
 ##### Quito
 ### [ In Quito, Ecuador, riot police clash with demonstrators and strikers that protest against the government of president Lucio Gutierrez. Congress replaced the entire supreme court last December and has not come to an agreement with the political opposition. ](/news/2005/04/14/in-quito-ecuador-riot-police-clash-with-demonstrators-and-strikers-that-protest-against-the-government-of-president-lucio-gutia-c-rrez-con.md)

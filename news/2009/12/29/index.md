@@ -3,9 +3,9 @@ Formats: [HTML](2009/12/29/index.html)  [JSON](2009/12/29/index.json)  [XML](200
 
 ## [2009-12-29](/news/2009/12/29/index.md)
 
-##### Italians
+##### Italy
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Italians, United States_
+_Context: Afghanistan, Badghis Province, Italy, United States_
 
 ##### United States
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)

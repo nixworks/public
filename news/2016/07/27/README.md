@@ -43,7 +43,7 @@ UN express alarm at planned executions of convicts, including citizens from Nige
 ### [During a press conference, Republican nominee Donald Trump calls on Russia to find Hillary Clinton's 30,000 missing emails. ](/news/2016/07/27/during-a-press-conference-republican-nominee-donald-trump-calls-on-russia-to-find-hillary-clinton-s-30-000-missing-emails.md)
 Donald Trump has &quot;actively encouraged&quot; foreign powers to hack his US presidential rival Hillary Clinton, her camp says.
 
-##### Parliament of Catalonia
+##### Catalan Parliament
 ### [The regional Parliament of Catalonia defies the Constitutional Court of Spain by holding an informal and unilateral vote for secession.](/news/2016/07/27/the-regional-parliament-of-catalonia-defies-the-constitutional-court-of-spain-by-holding-an-informal-and-unilateral-vote-for-secession.md)
 In defiance of Spain’s constitutional court separatists held controversial vote approving unilateral disconnection plan
 

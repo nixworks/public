@@ -65,7 +65,7 @@ _Context: 35th G8 Summit, Beijing, China, Chinese President, Hu Jintao, Urumqi, 
 
 ##### 35th G8 Summit
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)
-_Context: 35th G8 Summit, Italians, L'Aquila_
+_Context: 35th G8 Summit, Italy, L'Aquila_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il makes a rare public appearance to mark the 15th anniversary of his father's death. ](/news/2009/07/8/north-korean-leader-kim-jong-il-makes-a-rare-public-appearance-to-mark-the-15th-anniversary-of-his-father-s-death.md)

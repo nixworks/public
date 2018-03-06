@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/25/index.html)  [JSON](2008/02/25/index.json)  [XML](200
 
 ##### Lee Myung-bak
 ### [ Lee Myung-bak is sworn in as President of South Korea. ](/news/2008/02/25/lee-myung-bak-is-sworn-in-as-president-of-south-korea.md)
-_Context: Lee Myung-bak, South Korea, South Korean president_
+_Context: Lee Myung-bak, South Korea, South Korean President_
 
 ##### Hungary
 ### [ Hungary agrees to join the South Stream gas pipeline project. ](/news/2008/02/25/hungary-agrees-to-join-the-south-stream-gas-pipeline-project.md)

@@ -41,7 +41,7 @@ Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 ##### Czech Republic
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: Czech Republic, Italians, Jan Fischer, Rome, Italy, Treaty of Lisbon, deposits_
+_Context: Czech Republic, Italy, Jan Fischer, Rome, Italy, Treaty of Lisbon, deposits_
 
 ##### Snow
 ### [ 38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. ](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.md)

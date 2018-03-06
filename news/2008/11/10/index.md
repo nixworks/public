@@ -11,9 +11,9 @@ _Context: China, Qinghai, Richter scale_
 ### [ India wins the Border-Gavaskar Trophy by defeating Australia 2-0 in the five-Test-match cricket series. ](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.md)
 _Context: Australia, Border-Gavaskar Trophy, India, Test_
 
-##### Italians
+##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi repeats a comment that United States President-elect Barack Obama is "young, handsome and also tanned," refusing to apologize for remarks he insisted are "flattering". ](/news/2008/11/10/italian-prime-minister-silvio-berlusconi-repeats-a-comment-that-united-states-president-elect-barack-obama-is-young-handsome-and-also-tan.md)
-_Context: Barack Obama, Italians, President-elect, Prime Minister of Italy, Silvio Berlusconi, U.S. President, United States_
+_Context: Barack Obama, Italy, President-elect, Prime Minister of Italy, Silvio Berlusconi, U.S. President, United States_
 
 ##### United States
 ### [ The United States government announces a second bailout of American International Group; the total value of the new plan, roughly US$150 billion, represents the largest government support package extended to a private company in US history.](/news/2008/11/10/the-united-states-government-announces-a-second-bailout-of-american-international-group-the-total-value-of-the-new-plan-roughly-us-150-bi.md)

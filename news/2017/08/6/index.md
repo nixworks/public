@@ -3,7 +3,7 @@ Formats: [HTML](2017/08/6/index.html)  [JSON](2017/08/6/index.json)  [XML](2017/
 
 ## [2017-08-6](/news/2017/08/6/index.md)
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.md)
 Southeast Asian foreign ministers ended an impasse on Sunday over how to address disputes with China in the South China Sea, issuing a communique that called for militarization to be avoided and noting concern about island-building.
 

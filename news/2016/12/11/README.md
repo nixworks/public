@@ -13,7 +13,7 @@ _Context: Gambian presidential election, 2016, The Gambia, Yahya Jammeh_
 
 ##### Italian constitutional referendum, 2016
 ### [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md)
-_Context: Italian constitutional referendum, 2016, Italians, Paolo Gentiloni, Prime Minister of Italy_
+_Context: Italian constitutional referendum, 2016, Italy, Paolo Gentiloni, Prime Minister of Italy_
 
 ##### Earlier this month
 ### [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md)

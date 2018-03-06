@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/17/index.html)  [JSON](2009/07/17/index.json)  [XML](200
 
 ##### Sicily
 ### [ 49 members of a Sicilian Mafia syndicate are jailed in Italy in what the government describes as a landmark case. ](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.md)
-_Context: Italians, Sicily_
+_Context: Italy, Sicily_
 
 ##### BBC
 ### [ BBC staff's expenses claims are revealed to include candles, flowers, champagne and a hamper. ](/news/2009/07/17/bbc-staff-s-expenses-claims-are-revealed-to-include-candles-flowers-champagne-and-a-hamper.md)

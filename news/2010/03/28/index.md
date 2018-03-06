@@ -15,9 +15,9 @@ Updated story: 9 Hutaree members face federal charges of conspiracy, attempting 
 ### [First step in Russian time zone reform comes into force. The number of time zones drops from 11 to 9, eliminating Samara Time and Kamchatka Time. ](/news/2010/03/28/first-step-in-russian-time-zone-reform-comes-into-force-the-number-of-time-zones-drops-from-11-to-9-eliminating-samara-time-and-kamchatka.md)
 _Context: Kamchatka Time, Samara Time, time zones_
 
-##### Italians
+##### Italy
 ### [Italians test Silvio Berlusconi in regional elections. ](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.md)
-_Context: Italians, Silvio Berlusconi_
+_Context: Italy, Silvio Berlusconi_
 
 ##### China
 ### [A Chinese dissident lawyer, Gao Zhisheng, who has been missing for over a year, says he is "free" and wanting to spend time away from media attention. ](/news/2010/03/28/a-chinese-dissident-lawyer-gao-zhisheng-who-has-been-missing-for-over-a-year-says-he-is-free-and-wanting-to-spend-time-away-from-media.md)

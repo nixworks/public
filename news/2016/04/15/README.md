@@ -47,7 +47,7 @@ _Context: John Kerry, Russia-United States relations, USS Donald Cook, rules of 
 ### [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md)
 Beijing issues sharp commentary after US and South Korea say regime carried out unsuccessful test-firing of Musudan missile for Kim Il-sung’s birthday
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Presidential candidate Rodrigo Duterte says he will set aside the Philippine claim on the Spratly islands and forge better economic relations with China. ](/news/2016/04/15/presidential-candidate-rodrigo-duterte-says-he-will-set-aside-the-philippine-claim-on-the-spratly-islands-and-forge-better-economic-relation.md)
 The presidential bet says leaving the issue of ownership behind can lead to a better deal with China if there is no progress with the international case being pursued by the Philippines
 

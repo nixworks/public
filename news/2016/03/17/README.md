@@ -19,7 +19,7 @@ Former Brazilian President Luiz Inacio Lula da Silva was sworn in as chief of st
 ### [Judges at the International Criminal Tribunal for the former Yugoslavia announce that they will soon deliver their verdict against radical Serb leader Vojislav Seselj, suspected of crimes against humanity committed during the Breakup of Yugoslavia, despite him being sent back to Serbia for medical reasons. Seselj has vowed not to return to court. ](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.md)
 _Context: Breakup of Yugoslavia, International Criminal Tribunal for the former Yugoslavia, Serbia, Vojislav Seselj, crimes against humanity_
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [Admiral John Richardson says the United States has seen Chinese activity around Scarborough Shoal, which China seized from the Philippines nearly four years ago, in the northern part of the Spratly archipelago of the South China Sea. An international court ruling on a case brought by the Philippines against China over its South China Sea claims is expected within a month. ](/news/2016/03/17/admiral-john-richardson-says-the-united-states-has-seen-chinese-activity-around-scarborough-shoal-which-china-seized-from-the-philippines-n.md)
 The United States has seen Chinese activity around a reef China seized from the Philippines nearly four years ago that could be a precursor to more land reclamation in the disputed South China Sea, the U.S. Navy chief said on Thursday.
 

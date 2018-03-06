@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/22/italy-s-senate-debates-the-proposed-economic-au
 
 ### [2011-12-22](/news/2011/12/22/index.md)
 
-##### Italians
+##### Italy
 # Italy's senate debates the proposed economic austerity measures of Prime Minister Mario Monti. 
 
 
@@ -16,8 +16,8 @@ Formats: [HTML](/news/2011/12/22/italy-s-senate-debates-the-proposed-economic-au
 
 ### Related:
 
-1. [President of Italy Giorgio Napolitano forms two groups of people, both politicians and entrepreneurs, who will propose ideas to solve the Italian economic and political crisis. The government led by Mario Monti will be in charge until a new government can be formed. ](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.md) _Context: Italians, Mario Monti_
-2. [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md) _Context: Italians, Mario Monti_
-3. [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md) _Context: Italians, Mario Monti_
-4. [Technocrat Mario Monti resigns as Prime Minister of Italy after the parliamentary passing of Italy's latest austerity budget. ](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.md) _Context: Italians, Mario Monti_
-5. [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md) _Context: Italians_
+1. [President of Italy Giorgio Napolitano forms two groups of people, both politicians and entrepreneurs, who will propose ideas to solve the Italian economic and political crisis. The government led by Mario Monti will be in charge until a new government can be formed. ](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.md) _Context: Italy, Mario Monti_
+2. [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md) _Context: Italy, Mario Monti_
+3. [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md) _Context: Italy, Mario Monti_
+4. [Technocrat Mario Monti resigns as Prime Minister of Italy after the parliamentary passing of Italy's latest austerity budget. ](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.md) _Context: Italy, Mario Monti_
+5. [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md) _Context: Italy_

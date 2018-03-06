@@ -23,9 +23,9 @@ _Context: Arctic, Denmark, Greenland, Lomonosov Ridge_
 ### [ Five hundred people are evacuated from the slopes of Mount Karangetang, an active volcano that is spewing ash and lava, on the island of Siau in Indonesia. ](/news/2007/08/12/five-hundred-people-are-evacuated-from-the-slopes-of-mount-karangetang-an-active-volcano-that-is-spewing-ash-and-lava-on-the-island-of-si.md)
 More than 500 people have been evacuated from the slopes of Mount Karangetang, which has been spewing lava and hotclouds on the northern Indonesian island of Siau.
 
-##### Italians
+##### Italy
 ### [ Italian police uncover a secret plan to smuggle Russian weapons into Iraq. ](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.md)
-_Context: Iraq, Italians, Russia, smuggle_
+_Context: Iraq, Italy, Russia, smuggle_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, replaces his Oil Minister Kazem Vaziri-Hamaneh with Gholamhossein Nozari, head of the National Iranian Oil Company acting as his deputy. ](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.md)

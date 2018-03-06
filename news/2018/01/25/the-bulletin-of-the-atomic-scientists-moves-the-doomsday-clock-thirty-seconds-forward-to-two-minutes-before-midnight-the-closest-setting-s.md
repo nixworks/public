@@ -16,7 +16,7 @@ The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close
 
 ### Related:
 
-1. [U.S. President Donald Trump states North Korea was seeking talks with the United States about denuclearization on the Korean Peninsula. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-seeking-talks-with-the-united-states-about-denuclearization-on-the-korean-peninsula.md) _Context: 2017-18 North Korea crisis, North Korea_
+1. [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md) _Context: 2017-18 North Korea crisis, North Korea_
 2. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two and a half minutes before midnight. ](/news/2017/01/26/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-and-a-half-minutes-before-midnight.md) _Context: Bulletin of the Atomic Scientists, Doomsday Clock_
 3. [The Doomsday Clock moves two minutes forward, leaving only three minutes from midnight due to the threat of global nuclear war and climate change. It is the closest it has been to midnight since 1984. ](/news/2015/01/23/the-doomsday-clock-moves-two-minutes-forward-leaving-only-three-minutes-from-midnight-due-to-the-threat-of-global-nuclear-war-and-climate-c.md) _Context: Doomsday Clock, climate change_
 4. [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md) _Context: North Korea, nuclear war_

@@ -11,7 +11,7 @@ _Context: 2016 United States Presidential election, Carly Fiorina, Chief Executi
 ### [An analysis of drinking water from three homes in Bradford County, Pennsylvania revealed traces of a compound commonly found in Marcellus Shale drilling fluids. The paper in the Proceedings of the National Academy of Sciences (PNAS) addresses the potential risks to underground drinking water from the drilling technique fracking. ](/news/2015/05/4/an-analysis-of-drinking-water-from-three-homes-in-bradford-county-pennsylvania-revealed-traces-of-a-compound-commonly-found-in-marcellus-sh.md)
 The study, which has been criticized by the industry, noted that the contamination at three houses may have stemmed from faulty drill wells.
 
-##### Italians
+##### Italy
 ### [Italy reports that ten people have died and 5,800 people have been rescued in the Mediterranean Sea as people smugglers attempt to take advantage of calmer waters. ](/news/2015/05/4/italy-reports-that-ten-people-have-died-and-5-800-people-have-been-rescued-in-the-mediterranean-sea-as-people-smugglers-attempt-to-take-adva.md)
 Around 7,000 migrants were rescued from overcrowded boats crossing the Mediterranean to Europe over the weekend and on Monday, including a woman who gave birth to a baby girl on an Italian navy ship, the coast guard said.
 

@@ -49,7 +49,7 @@ Teargas and water cannon deployed outside Elbphilharmonie concert hall while ins
 
 ##### Torre Annunziata
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md)
-_Context: Italians, Naples, Torre Annunziata_
+_Context: Italy, Naples, Torre Annunziata_
 
 ##### 2017 Pacific typhoon season
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)

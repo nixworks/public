@@ -19,7 +19,7 @@ _Context: Attorney General of Delaware, Beau Biden, Iraq War, Joseph Biden, Walt
 ### [A Thai national is arrested in Myanmar in relation to human trafficking offences after the Myanmar Navy rescues more than 200 people from a boat that he allegedly owns. ](/news/2015/05/30/a-thai-national-is-arrested-in-myanmar-in-relation-to-human-trafficking-offences-after-the-myanmar-navy-rescues-more-than-200-people-from-a.md)
  YANGON, May 30 &mdash;&nbsp;A Thai national who allegedly owned a boat that was recently discovered by the Myanmar navy crammed with more than 200 migrants has been arrested, state media said today. The 53-year-old man was detained in the country&rsquo;s biggest
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The United States Secretary of Defense Ashton Carter warns that the People's Republic of China's island building in the South China Sea is undermining security in the Asia-Pacific region and has called for a diplomatic solution. ](/news/2015/05/30/the-united-states-secretary-of-defense-ashton-carter-warns-that-the-people-s-republic-of-china-s-island-building-in-the-south-china-sea-is-u.md)
 US defence secretary expresses deep concern about China’s push to claim resource-rich disputed islands and warns against attempts to find military solution
 

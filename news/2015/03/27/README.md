@@ -13,7 +13,7 @@ _Context: Democrat, Harry Reid, Nevada, Senate Majority Leader, United States Se
 
 ##### Amanda Knox
 ### [Italy's highest court acquits American Amanda Knox and Italian Raffaele Sollecito of the murder of Briton Meredith Kercher. ](/news/2015/03/27/italy-s-highest-court-acquits-american-amanda-knox-and-italian-raffaele-sollecito-of-the-murder-of-briton-meredith-kercher.md)
-_Context: Amanda Knox, British, Italians, Raffaele Sollecito, murder_
+_Context: Amanda Knox, British, Italy, Raffaele Sollecito, murder_
 
 ##### California
 ### [A jury in the U.S. state of California votes for the defendant in a sexual discrimination case brought by Ellen Pao against Silicon Valley venture capital firm Kleiner Perkins Caufield & Byers. ](/news/2015/03/27/a-jury-in-the-u-s-state-of-california-votes-for-the-defendant-in-a-sexual-discrimination-case-brought-by-ellen-pao-against-silicon-valley-v.md)

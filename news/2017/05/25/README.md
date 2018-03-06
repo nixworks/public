@@ -27,9 +27,9 @@ Greg Gianforte, the Republican candidate for a special House election in Montana
 ### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
 In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on Thursday to reinstate his temporary travel ban on people from six Muslim-majority nations, setting the stage for a possible legal showdown in the Supreme Court.
 
-##### Territorial disputes in the South China Sea
+##### Tensions in the region
 ### [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md)
-_Context: Mischief Reef, South China Sea, Territorial disputes in the South China Sea, USS Dewey_
+_Context: Mischief Reef, South China Sea, USS Dewey, tensions in the region_
 
 ##### United Kingdom-United States relations
 ### [British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to "The New York Times". British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.md)
