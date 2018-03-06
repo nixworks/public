@@ -9,7 +9,11 @@ Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the W
 
 ##### Republican
 ### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/6/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
-The US president defended his plan after a top Republican called for the proposal to be scrapped.
+They’re considering legislation to block him from starting a trade war.
+
+##### UNICEF
+### [UNICEF says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/6/unicef-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-been-preven.md)
+_Context: UNICEF_
 
 ## [Previous Day...](/news/2018/03/5/index.md)
 

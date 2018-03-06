@@ -6,13 +6,14 @@ Formats: [HTML](/news/2018/03/6/republicans-raise-concern-about-u-s-president-do
 ##### Republican
 # Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". 
 
-The US president defended his plan after a top Republican called for the proposal to be scrapped.
+They’re considering legislation to block him from starting a trade war.
 
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-us-canada-43290969)
-1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05xpfwl.jpg)
+1. [BBC via RNZ](https://www.radionz.co.nz/news/world/351939/republicans-extremely-worried-by-trump-s-metal-tariffs-plan)
+2. [Vox](https://www.vox.com/policy-and-politics/2018/3/5/17081710/trump-republicans-steel-tariffs-trade-war)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/m8PfeJHP-PpY00ZNpC6P6MK_oZ8=/0x231:3000x1802/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10350377/GettyImages_915817680.jpg)
 
 ### Related:
 

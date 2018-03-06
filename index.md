@@ -9,7 +9,11 @@ Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the W
 
 ##### Republican
 ### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/6/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
-The US president defended his plan after a top Republican called for the proposal to be scrapped.
+They’re considering legislation to block him from starting a trade war.
+
+##### UNICEF
+### [UNICEF says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. ](/news/2018/03/6/unicef-says-that-20-of-girls-under-18-are-married-compared-to-25-ten-years-ago-with-an-estimated-25-million-marriages-having-been-preven.md)
+_Context: UNICEF_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -24,7 +28,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
 ##### Antifa
-### [Fighting broke out between Antifa members and supporters of white nationalist Richard B. Spencer when he gave a speech at Michigan State University, before they were separated by police. ](/news/2018/03/5/fighting-broke-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gave-a-speech-at-michigan-state-uni.md)
+### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
 
 ##### Politics of New Zealand

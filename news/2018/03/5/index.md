@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/5/index.html)  [JSON](2018/03/5/index.json)  [XML](2018/
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
 ##### Antifa
-### [Fighting broke out between Antifa members and supporters of white nationalist Richard B. Spencer when he gave a speech at Michigan State University, before they were separated by police. ](/news/2018/03/5/fighting-broke-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gave-a-speech-at-michigan-state-uni.md)
+### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
 
 ##### Politics of New Zealand
