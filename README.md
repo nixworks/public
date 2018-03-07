@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/7/index.md)
 
+##### Asteroid close approaches to Earth in 2018
+### [ An asteroid named 2017 VR12 is predicted to make a flyby with Earth tonight. ](/news/2018/03/7/an-asteroid-named-2017-vr12-is-predicted-to-make-a-flyby-with-earth-tonight.md)
+_Context: 2017 VR12, Asteroid close approaches to Earth in 2018_
+
 ##### Astronomy
 ### [Astronomers observe the birth of a symbiotic X-ray binary, a star system in which matter is transferred from a red giant star to a closely orbiting neutron star (the remnant of a star gone supernova), forming an accretion disk and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays in August 2017. Further study showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. ](/news/2018/03/7/astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-a-star-system-in-which-matter-is-transferred-from-a-red-giant-star-to-a-closely-o.md)
 Astronomers discovered an unusual moment in the birth of a rare binary star system, made up of a red giant star and a neutron star.
@@ -16,7 +20,7 @@ _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 The helicopter presumably belonged to the Border Guard Service
 
 ##### Message in a bottle
-### [A message in a bottle found in Australia is confirmed to be the oldest found yet at 132 years adrift. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-be-the-oldest-found-yet-at-132-years-adrift.md)
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, the longest time known. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-the-longest-time-known.md)
 _Context: Australia, message in a bottle_
 
 ##### Opinion
@@ -36,7 +40,7 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
 ##### Post-WWII anti-fascism
-### [Anti-fascist protesters disrupt a King's College London event featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-king-s-college-london-event-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causing-injuries-to.md)
+### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. The neo-conservative Henry Jackson Society protests, saying university campuses are becoming "intolerant to free speech." ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causi.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump

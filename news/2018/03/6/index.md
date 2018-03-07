@@ -12,7 +12,7 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
 ##### Post-WWII anti-fascism
-### [Anti-fascist protesters disrupt a King's College London event featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-king-s-college-london-event-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causing-injuries-to.md)
+### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. The neo-conservative Henry Jackson Society protests, saying university campuses are becoming "intolerant to free speech." ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causi.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump
