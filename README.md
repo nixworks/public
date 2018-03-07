@@ -1,15 +1,27 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/6/index.md)
+## [News](/news/2018/03/7/index.md)
+
+##### Australia-East Timor relations
+### [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md)
+_Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/6/index.md)
 
 ##### 2018 in spaceflight
 ### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
 _Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
-##### National Economic Council
-### [U.S. National Economic Council director Gary Cohn announces he is resigning. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-he-is-resigning.md)
-_Context: Gary Cohn, National Economic Council_
+##### Presidency of Donald Trump
+### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
+_Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
@@ -19,6 +31,10 @@ Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental resp
 ### [The U.S. Office of Special Counsel says that Kellyanne Conway violated the Hatch Act of 1939 during two 2017 television interviews. ](/news/2018/03/6/the-u-s-office-of-special-counsel-says-that-kellyanne-conway-violated-the-hatch-act-of-1939-during-two-2017-television-interviews.md)
 Counselor to the president Kellyanne Conway has been found in violation of a federal law prohibiting government employees from engaging in political activities.
 
+##### Foreign relations of New Zealand
+### [New Zealand Prime Minister Jacinda Ardern announces that New Zealand will give NZ$10 million to Tonga to help with rebuilding after the country was struck by Cyclone Gita in February. ](/news/2018/03/6/new-zealand-prime-minister-jacinda-ardern-announces-that-new-zealand-will-give-nz-10-million-to-tonga-to-help-with-rebuilding-after-the-coun.md)
+The PM announced the pledge to Tongan children who had their school damaged in the cyclone. 
+
 ##### North Korea-South Korea relations
 ### [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md)
 North Korean leader Kim Jong Un promised to not use nuclear or conventional weapons against South Korea and expressed willingness to hold talks with the United States on denuclearization, Seoul said on Tuesday after a rare two-day visit to Pyongyang.
@@ -27,17 +43,17 @@ North Korean leader Kim Jong Un promised to not use nuclear or conventional weap
 ### [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia, Syria, killing all 39 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-syria-killing-all-39-people-on.md)
 _Context: 2018 Antonov An-26 crash, Antonov An-26, Khmeimim Air Base, Latakia, Russia, Syria_
 
+##### 2018 anti-Muslim riots in Kandy, Sri Lanka
+### [Sri Lanka imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a Sinhalese Buddhist mob attack on Sri Lankan Muslim shops in the region of Kandy, Central Province, left a Muslim person dead. ](/news/2018/03/6/sri-lanka-imposes-a-nationwide-10-day-state-of-emergency-the-first-since-2011-in-an-effort-to-calm-communal-tensions-the-previous-day-a.md)
+Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to stop the spread of communal violence, a government spokesman said, after clashes erupted between majority Buddhists and members of the minority Muslim community.
+
 ##### Kamwina Nsapu rebellion
 ### [The UN Refugee Agency reports that more than 900,000 people have been displaced by the ongoing fighting in the central provinces of DR Congo between militias and government forces since 2016. ](/news/2018/03/6/the-un-refugee-agency-reports-that-more-than-900-000-people-have-been-displaced-by-the-ongoing-fighting-in-the-central-provinces-of-dr-congo.md)
 UNHCR, the UN Refugee Agency, remains deeply concerned at the situation in the Kasai region of Democratic Republic of the Congo (DRC), where continuing
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/5/index.md)
+## [Day Before Yesterday](/news/2018/03/5/index.md)
 
 ##### Maritime archaeology
 ### [A search team led by Microsoft co-founder Paul Allen's company Vulcan, Inc. announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-s-company-vulcan-inc-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv.md)
@@ -97,63 +113,7 @@ The video purports to show US soldiers being ambushed by IS-linked militants in 
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/4/index.md)
-
-##### Asteroid
-### [Hyperbolic asteroids A-2017 U7 and A-2018 C2 are announced, although their orbit suggests they are not interstellar in origin. ](/news/2018/03/4/hyperbolic-asteroids-a-2017-u7-and-a-2018-c2-are-announced-although-their-orbit-suggests-they-are-not-interstellar-in-origin.md)
-_Context: A/2017 U7, A/2018 C2, asteroid, interstellar_
-
-##### Wildlife of Antarctica
-### [Scientists discover a big colony of the more than 750,000 pairs of Adelie penguins on the Danger Islands in Antarctica. ](/news/2018/03/4/scientists-discover-a-big-colony-of-the-more-than-750-000-pairs-of-ada-c-lie-penguins-on-the-danger-islands-in-antarctica.md)
-More than 1 million penguins who&#039;ve been hiding in a remote part of Antarctica were recently discovered thanks to images taken from space and ... their own poop. A study in the Scientific Reports journal reveals the Danger Islands find of more than 750,000 pairs of Adélie penguins—a discover...
-
-##### Swiss referendums, 2018
-### [Swiss voters reject a proposal to scrap the television licence fee that provides the majority of funding for the Swiss Broadcasting Corporation. Swiss voters also approve the right of the federal government to levy VAT and direct federal tax until 2025. ](/news/2018/03/4/swiss-voters-reject-a-proposal-to-scrap-the-television-licence-fee-that-provides-the-majority-of-funding-for-the-swiss-broadcasting-corporat.md)
-Voters overwhelmingly oppose a proposal to scrap the annual Swiss Broadcasting Corporation fee.
-
-##### 2017-18 Spanish constitutional crisis
-### [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md)
-_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
-
-##### SPD party member vote on the 2018 coalition agreement of Germany
-### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)
-A vote by Social Democrats ends five months of political deadlock - Angela Merkel stays chancellor.
-
-##### Italian general election, 2018
-### [Italians go to the polls today to elect the 630 members of the Chamber of Deputies and the 315 members of the Senate of the Republic. ](/news/2018/03/4/italians-go-to-the-polls-today-to-elect-the-630-members-of-the-chamber-of-deputies-and-the-315-members-of-the-senate-of-the-republic.md)
-Populist and anti-immigrant parties could make major gains in an unpredictable contest.
-
-##### Presidency of Donald Trump
-### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, reportedly advocates for similar action to be taken in the United States. ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
-_Context: Chinese President, Donald Trump, Mar-a-Lago, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
-
-##### North Korea-South Korea relations
-### [South Korean President Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korean-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
-_Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korean President_
-
-##### North Korea-United States relations
-### [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md)
-President Trump said Saturday that North Korea has recently sought talks with the United States and that he &quot;won&apos;t rule out direct talks with Kim Jong Un.&quot;
-
-##### China-United States relations
-### [A senior Chinese diplomat says that China does not want a trade war with the United States after U.S. President Donald Trump announced a plan to put tariffs on steel and aluminium imports. ](/news/2018/03/4/a-senior-chinese-diplomat-says-that-china-does-not-want-a-trade-war-with-the-united-states-after-u-s-president-donald-trump-announced-a-pla.md)
-China does not want a trade war with the United States but will defend its interests, a senior Chinese diplomat said on Sunday.
-
-##### 2017-18 South African listeriosis outbreak
-### [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat from RCL Foods and from Tiger Brands subsidiary company Enterprise Food. The Ministry of Health issues a recall of contaminated products and advises the public to avoid all processed meat products that are sold as ready-to-eat. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md)
-_Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat_
-
-##### Online advertising
-### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel-many-of-the-brands-say-they-were-not.md)
-Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
-
-##### 90th Academy Awards
-### ["The Shape of Water" wins a leading four awards, including Best Picture, followed by "Dunkirk", which won three awards. ](/news/2018/03/4/the-shape-of-water-wins-a-leading-four-awards-including-best-picture-followed-by-dunkirk-which-won-three-awards.md)
-However it was still expected to be most-watched non-sporting US television event of 2018.
-
----
-
-## [Previous Day...](/news/2018/03/3/index.md)
+## [Previous Day...](/news/2018/03/4/index.md)
 
 ---
 

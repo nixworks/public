@@ -8,8 +8,8 @@ Formats: [HTML](2018/03/6/index.html)  [JSON](2018/03/6/index.json)  [XML](2018/
 _Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
 ##### Presidency of Donald Trump
-### [U.S. National Economic Council director Gary Cohn announces he is resigning. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-he-is-resigning.md)
-_Context: Gary Cohn, National Economic Council, Presidency of Donald Trump_
+### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
+_Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
@@ -18,6 +18,10 @@ Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental resp
 ##### Presidency of Donald Trump
 ### [The U.S. Office of Special Counsel says that Kellyanne Conway violated the Hatch Act of 1939 during two 2017 television interviews. ](/news/2018/03/6/the-u-s-office-of-special-counsel-says-that-kellyanne-conway-violated-the-hatch-act-of-1939-during-two-2017-television-interviews.md)
 Counselor to the president Kellyanne Conway has been found in violation of a federal law prohibiting government employees from engaging in political activities.
+
+##### Foreign relations of New Zealand
+### [New Zealand Prime Minister Jacinda Ardern announces that New Zealand will give NZ$10 million to Tonga to help with rebuilding after the country was struck by Cyclone Gita in February. ](/news/2018/03/6/new-zealand-prime-minister-jacinda-ardern-announces-that-new-zealand-will-give-nz-10-million-to-tonga-to-help-with-rebuilding-after-the-coun.md)
+The PM announced the pledge to Tongan children who had their school damaged in the cyclone. 
 
 ##### North Korea-South Korea relations
 ### [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md)
