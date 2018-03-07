@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/4/south-african-officials-determine-that-the-count
 ### [2018-03-4](/news/2018/03/4/index.md)
 
 ##### 2017-18 South African listeriosis outbreak
-# South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat from RCL Foods and from Tiger Brands subsidiary company Enterprise Food. The Ministry of Health issues a recall of contaminated products and advises the public to avoid all processed meat products that are sold as ready-to-eat. 
+# South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat. The Ministry of Health issues a recall of contaminated products from RCL Foods and from Tiger Brands subsidiary company Enterprise Food and advises the public to avoid all processed meat products that are sold as ready-to-eat. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/03/4/south-african-officials-determine-that-the-count
 ### Changes:
 
 1. [South African officials determine that the country's ongoing listeriosis outbreak, which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1000 more, was caused by contaminated sausage meat. The Health Ministry issues recalls of contaminated products. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreak-which-is-already-the-world-s-deadliest-listeriosis-outbre.md) _2018-03-05 04:02:44 (First version)_
-1. [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat from RCL Foods and from Tiger Brands subsidiary company Enterprise Food. The Ministry of Health issues a recall of contaminated products and advises the public to avoid all processed meat products that are sold as ready-to-eat. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md) _(Current version)_
+1. [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat. The Ministry of Health issues a recall of contaminated products from RCL Foods and from Tiger Brands subsidiary company Enterprise Food and advises the public to avoid all processed meat products that are sold as ready-to-eat. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md) _(Current version)_
 
 ### Related:
 
