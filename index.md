@@ -15,10 +15,6 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/6/index.md)
 
-##### 2018 in spaceflight
-### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
-_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
-
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
 _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
@@ -60,7 +56,7 @@ UNHCR, the UN Refugee Agency, remains deeply concerned at the situation in the K
 ## [Day Before Yesterday](/news/2018/03/5/index.md)
 
 ##### Maritime archaeology
-### [A search team led by Microsoft co-founder Paul Allen's company Vulcan, Inc. announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-microsoft-co-founder-paul-allen-s-company-vulcan-inc-announces-the-discovery-of-the-wreck-of-the-uss-lexington-cv.md)
+### [A search team led by Paul Allen's company Vulcan, Inc., using his research vessel "Petrel", announces the discovery of the wreck of the USS "Lexington" (CV-2) about 800 km off the eastern coast of Australia at a depth of around 3 km. The aircraft carrier was lost in the Battle of the Coral Sea during World War II. ](/news/2018/03/5/a-search-team-led-by-paul-allen-s-company-vulcan-inc-using-his-research-vessel-petrel-announces-the-discovery-of-the-wreck-of-the-uss.md)
 Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the World War II carrier USS Lexington (CV-2) at the bottom of the Coral Sea. The crew of his personal research ship R/V Petrel found the missing ship two miles below the surface and about 500 miles off the eastern coast of A...
 
 ##### Cyberethics
@@ -70,6 +66,10 @@ A Facebook moderation survey asked if adults should be able to ask for sexual pi
 ##### Antifa
 ### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
+
+##### Politics of China
+### [China's "two sessions" - the annual meetings of the national legislature and the top political advisory body - opens in Beijing; major announcements include an 8% rise in its military budget and a GDP growth target of around 6.5%. ](/news/2018/03/5/china-s-two-sessions-the-annual-meetings-of-the-national-legislature-and-the-top-political-advisory-body-opens-in-beijing-major-annou.md)
+_Context: "two sessions", Beijing, GDP, Politics of China, military budget_
 
 ##### Politics of the United States
 ### [Republicans raise concern about U.S. President Donald Trump's plan to impose tariffs on metal imports. Speaker of the House Paul Ryan says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". ](/news/2018/03/5/republicans-raise-concern-about-u-s-president-donald-trump-s-plan-to-impose-tariffs-on-metal-imports-speaker-of-the-house-paul-ryan-says-h.md)
