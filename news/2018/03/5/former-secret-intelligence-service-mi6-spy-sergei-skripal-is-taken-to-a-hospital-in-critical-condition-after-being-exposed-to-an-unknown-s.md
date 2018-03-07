@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-serge
 
 ### [2018-03-5](/news/2018/03/5/index.md)
 
-##### Secret Intelligence Service
+##### Russia-United Kingdom relations
 # Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. 
 
 The man, given refuge in the UK, was one of two exposed to a &quot;substance&quot; in Salisbury, the BBC is told.

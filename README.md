@@ -15,6 +15,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/6/index.md)
 
+##### 2018 in spaceflight
+### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
+_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
+
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
 _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
@@ -63,10 +67,6 @@ Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the W
 ### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
-##### Anti-fascist
-### [Fighting breaks out between anti-fascist protesters and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-anti-fascist-protesters-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michiga.md)
-Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
-
 ##### Politics of China
 ### [China's "two sessions" - the annual meetings of the national legislature and the top political advisory body - opens in Beijing; major announcements include an 8% rise in its military budget and a GDP growth target of around 6.5%. ](/news/2018/03/5/china-s-two-sessions-the-annual-meetings-of-the-national-legislature-and-the-top-political-advisory-body-opens-in-beijing-major-annou.md)
 _Context: "two sessions", Beijing, GDP, Politics of China, military budget_
@@ -87,7 +87,7 @@ _Context: 2017-18 Spanish constitutional crisis, Brussels, Carles Puigdemont, Ca
 ### [Italy faces a period of political instability after the results of the general election are almost complete. The populist Five Star Movement (M5S) is projected to be the largest party in the Italian Parliament with 32% of the vote. The party has long stated its hostility towards forming a coalition government. ](/news/2018/03/5/italy-faces-a-period-of-political-instability-after-the-results-of-the-general-election-are-almost-complete-the-populist-five-star-movement.md)
 Italy entered a period of political instability after national elections boosted populists but failed to produce a winner with enough support to patch together a parliamentary majority.
 
-##### Secret Intelligence Service
+##### Russia-United Kingdom relations
 ### [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-a-hospital-in-critical-condition-after-being-exposed-to-an-unknown-s.md)
 The man, given refuge in the UK, was one of two exposed to a &quot;substance&quot; in Salisbury, the BBC is told.
 

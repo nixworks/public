@@ -12,8 +12,9 @@ They’re considering legislation to block him from starting a trade war.
 ### Sources:
 
 1. [BBC via RNZ](https://www.radionz.co.nz/news/world/351939/republicans-extremely-worried-by-trump-s-metal-tariffs-plan)
-2. [Vox](https://www.vox.com/policy-and-politics/2018/3/5/17081710/trump-republicans-steel-tariffs-trade-war)
-2. [Cover Image](https://cdn.vox-cdn.com/thumbor/m8PfeJHP-PpY00ZNpC6P6MK_oZ8=/0x231:3000x1802/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10350377/GettyImages_915817680.jpg)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-fights-michigan-state-richard-spencer-20180305-story.html)
+3. [Vox](https://www.vox.com/policy-and-politics/2018/3/5/17081710/trump-republicans-steel-tariffs-trade-war)
+3. [Cover Image](https://cdn.vox-cdn.com/thumbor/m8PfeJHP-PpY00ZNpC6P6MK_oZ8=/0x231:3000x1802/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10350377/GettyImages_915817680.jpg)
 
 ### Related:
 
