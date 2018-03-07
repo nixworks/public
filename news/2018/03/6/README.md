@@ -11,8 +11,8 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
-##### Freedom of speech
-### [Antifa protestors disrupt a King's College London event featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage.](/news/2018/03/6/antifa-protestors-disrupt-a-king-s-college-london-event-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causing-injuries-to-securi.md)
+##### Post-WWII anti-fascism
+### [Anti-fascist protesters disrupt a King's College London event featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-king-s-college-london-event-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causing-injuries-to.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump
