@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/7/index.md)
 
 ##### Neutron stars
-### [Astronomers discover a neutron star brought back to life. They observed IGR J17329-2731, a red giant star, "revive its dead companion star with a flash of X-rays", describing it as cosmic dawn. ](/news/2018/03/7/astronomers-discover-a-neutron-star-brought-back-to-life-they-observed-igr-j17329-2731-a-red-giant-star-revive-its-dead-companion-star-w.md)
+### [Astronomers observe the birth of a symbiotic X-ray binary, a star system in which matter is transferred from a red giant star to a closely orbiting neutron star (the remnant of a star gone supernova), forming an accretion disk and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays for the first time in August 2017. Further study showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. ](/news/2018/03/7/astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-a-star-system-in-which-matter-is-transferred-from-a-red-giant-star-to-a-closely-o.md)
 Astronomers discovered an unusual moment in the birth of a rare binary star system, made up of a red giant star and a neutron star.
 
 ##### Australia-East Timor relations
@@ -26,6 +26,10 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
+
+##### Freedom of speech
+### [Antifa protestors disrupt a King's College London event featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage.](/news/2018/03/6/antifa-protestors-disrupt-a-king-s-college-london-event-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causing-injuries-to-securi.md)
+Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump
 ### [Porn star Stormy Daniels sues Donald Trump, arguing that a nondisclosure agreement signed by her and Trump's lawyer Michael Dean Cohen is invalid. ](/news/2018/03/6/porn-star-stormy-daniels-sues-donald-trump-arguing-that-a-nondisclosure-agreement-signed-by-her-and-trump-s-lawyer-michael-dean-cohen-is-in.md)
