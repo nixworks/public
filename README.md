@@ -43,7 +43,7 @@ North Korean leader Kim Jong Un promised to not use nuclear or conventional weap
 ### [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia, Syria, killing all 39 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-syria-killing-all-39-people-on.md)
 _Context: 2018 Antonov An-26 crash, Antonov An-26, Khmeimim Air Base, Latakia, Russia, Syria_
 
-##### 2018 anti-Muslim riots in Kandy, Sri Lanka
+##### 2018 anti-Muslim riots in Sri Lanka
 ### [Sri Lanka imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a Sinhalese Buddhist mob attack on Sri Lankan Muslim shops in the region of Kandy, Central Province, left a Muslim person dead. ](/news/2018/03/6/sri-lanka-imposes-a-nationwide-10-day-state-of-emergency-the-first-since-2011-in-an-effort-to-calm-communal-tensions-the-previous-day-a.md)
 Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to stop the spread of communal violence, a government spokesman said, after clashes erupted between majority Buddhists and members of the minority Muslim community.
 

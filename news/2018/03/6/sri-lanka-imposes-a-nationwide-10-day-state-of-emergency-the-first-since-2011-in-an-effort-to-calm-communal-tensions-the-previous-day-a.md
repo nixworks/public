@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/6/sri-lanka-imposes-a-nationwide-10-day-state-of-e
 
 ### [2018-03-6](/news/2018/03/6/index.md)
 
-##### 2018 anti-Muslim riots in Kandy, Sri Lanka
+##### 2018 anti-Muslim riots in Sri Lanka
 # Sri Lanka imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a Sinhalese Buddhist mob attack on Sri Lankan Muslim shops in the region of Kandy, Central Province, left a Muslim person dead. 
 
 Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to stop the spread of communal violence, a government spokesman said, after clashes erupted between majority Buddhists and members of the minority Muslim community.
