@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/7/index.md)
 
+##### Neutron stars
+### [Astronomers discover a neutron star brought back to life. They observed IGR J17329-2731, a red giant star, "revive its dead companion star with a flash of X-rays", describing it as cosmic dawn. ](/news/2018/03/7/astronomers-discover-a-neutron-star-brought-back-to-life-they-observed-igr-j17329-2731-a-red-giant-star-revive-its-dead-companion-star-w.md)
+Astronomers discovered an unusual moment in the birth of a rare binary star system, made up of a red giant star and a neutron star.
+
 ##### Australia-East Timor relations
 ### [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md)
 _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
@@ -14,10 +18,6 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/03/6/index.md)
-
-##### 2018 in spaceflight
-### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
-_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
