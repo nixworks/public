@@ -11,5 +11,13 @@ Astronomers discovered an unusual moment in the birth of a rare binary star syst
 ### [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md)
 _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 
+##### Russian Border Guard Service
+### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
+The helicopter presumably belonged to the Border Guard Service
+
+##### Message in a bottle
+### [A message in a bottle found in Australia is confirmed to be the oldest found yet at 132 years adrift. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-be-the-oldest-found-yet-at-132-years-adrift.md)
+_Context: Australia, message in a bottle_
+
 ## [Previous Day...](/news/2018/03/6/index.md)
 
