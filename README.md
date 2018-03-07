@@ -3,6 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/6/index.md)
 
+##### 2018 in spaceflight
+### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
+_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
+
+##### National Economic Council
+### [U.S. National Economic Council director Gary Cohn announces he is resigning. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-he-is-resigning.md)
+_Context: Gary Cohn, National Economic Council_
+
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
@@ -105,7 +113,7 @@ Voters overwhelmingly oppose a proposal to scrap the annual Swiss Broadcasting C
 
 ##### 2017-18 Spanish constitutional crisis
 ### [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md)
-_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spain, Spanish unionism, Tabarnia, declaration of independence on October 27_
+_Context: 2017-18 Spanish constitutional crisis, Barcelona, Catalan independence, Catalonia, Spanish, Spanish unionism, Tabarnia, declaration of independence on October 27_
 
 ##### SPD party member vote on the 2018 coalition agreement of Germany
 ### [SPD party members approve with 66% in favour to allow to form a coalition with Angela Merkel's CDU-CSU, ending a five-month political deadlock after the federal elections. ](/news/2018/03/4/spd-party-members-approve-with-66-in-favour-to-allow-to-form-a-coalition-with-angela-merkel-s-cdu-csu-ending-a-five-month-political-deadlo.md)
