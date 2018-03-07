@@ -11,9 +11,9 @@ _Context: 2000, Japan, Miyakejima, eruption_
 ### [ The parliament of Slovenia ratifies the European Union Constitution. ](/news/2005/02/2/the-parliament-of-slovenia-ratifies-the-european-union-constitution.md)
 _Context: European Union Constitution, Slovenia_
 
-##### Spain
+##### Spanish
 ### [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md)
-_Context: Basque, Spain, autonomy, independence, referendum_
+_Context: Basque, Spanish, autonomy, independence, referendum_
 
 ##### Robert Mugabe
 ### [ Robert Mugabe, president of Zimbabwe, announces that a general election will be held March 31. The country's main opposition party, Movement for Democratic Change, has not yet decided whether to participate. ](/news/2005/02/2/robert-mugabe-president-of-zimbabwe-announces-that-a-general-election-will-be-held-march-31-the-country-s-main-opposition-party-movemen.md)

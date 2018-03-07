@@ -13,7 +13,7 @@ _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_
 
 ##### Greece
 ### [ While Greece brings the 2007 Greek forest fires under control, 8 people have died in 48 hours in forest fires in northern Algeria, six firefighters die in Croatia and the village of Les Useres in the Valencia region of Spain is evacuated. ](/news/2007/08/31/while-greece-brings-the-2007-greek-forest-fires-under-control-8-people-have-died-in-48-hours-in-forest-fires-in-northern-algeria-six-fire.md)
-_Context: 2007 Greek forest fires, Algeria, Croatia, Greece, Les Useres, Spain, Valencia, forest fire_
+_Context: 2007 Greek forest fires, Algeria, Croatia, Greece, Les Useres, Spanish, Valencia, forest fire_
 
 ##### Prime Minister
 ### [ The Prime Minister of the United Kingdom Gordon Brown and the President of France Nicolas Sarkozy threaten the government of Sudan with sanctions over Darfur. ](/news/2007/08/31/the-prime-minister-of-the-united-kingdom-gordon-brown-and-the-president-of-france-nicolas-sarkozy-threaten-the-government-of-sudan-with-san.md)

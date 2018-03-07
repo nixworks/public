@@ -15,9 +15,9 @@ _Context: Egypt, constitution, referendum_
 ### [ French authorities arrest Chechen named Bislan Ismailov suspected for complicity in the murder of Theo van Gogh ](/news/2005/05/26/french-authorities-arrest-chechen-named-bislan-ismailov-suspected-for-complicity-in-the-murder-of-theo-van-gogh.md)
 _Context: Bislan Ismailov, Chechen, France, Theo van Gogh_
 
-##### Spain
+##### Spanish
 ### [ Spanish court imprisons Arnaldo Otegi, head of Herri Batasuna party in the Basque region for having links to ETA. Batasuna claims that the move undermines peace efforts. Otegi is in prison pending ?400.000 bail. ](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.md)
-_Context: Arnaldo Otegi, Basque, ETA, Herri Batasuna, Spain, bail_
+_Context: Arnaldo Otegi, Basque, ETA, Herri Batasuna, Spanish, bail_
 
 ##### New York City
 ### [ In New York City, United States, attorney general charges insurance company American International Group and two of its former executives for fraud and manipulating the accounts ](/news/2005/05/26/in-new-york-city-united-states-attorney-general-charges-insurance-company-american-international-group-and-two-of-its-former-executives-f.md)

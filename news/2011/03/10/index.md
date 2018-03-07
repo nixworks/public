@@ -65,7 +65,7 @@ _Context: floods, northern_
 
 ##### Moody's
 ### [Moody's downgrades Spain's credit rating to Aa2 due to the cost of restructuring the Spanish banking system. ](/news/2011/03/10/moody-s-downgrades-spain-s-credit-rating-to-aa2-due-to-the-cost-of-restructuring-the-spanish-banking-system.md)
-_Context: Moody's, Spain, credit rating_
+_Context: Moody's, Spanish, credit rating_
 
 ##### Bank of Korea
 ### [The Bank of Korea increases the main interest rate in South Korea by a quarter percentage point to 3% due to concerns over inflation. ](/news/2011/03/10/the-bank-of-korea-increases-the-main-interest-rate-in-south-korea-by-a-quarter-percentage-point-to-3-due-to-concerns-over-inflation.md)

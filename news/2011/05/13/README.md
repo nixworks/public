@@ -25,7 +25,7 @@ _Context: Banja Luka, Bosnian, Catherine Ashton, Milorad Dodik, President, Repub
 
 ##### United Kingdom
 ### [A 62-year-old British woman is beheaded in a supermarket on the Spanish island of Tenerife in what officials say appears to be a random attack. An individual is arrested. ](/news/2011/05/13/a-62-year-old-british-woman-is-beheaded-in-a-supermarket-on-the-spanish-island-of-tenerife-in-what-officials-say-appears-to-be-a-random-atta.md)
-_Context: Spain, Tenerife, United Kingdom_
+_Context: Spanish, Tenerife, United Kingdom_
 
 ##### Durango
 ### [8 decapitated corpses, including that of a deputy prison governor, are located by police in Durango, Northwest Mexico. ](/news/2011/05/13/8-decapitated-corpses-including-that-of-a-deputy-prison-governor-are-located-by-police-in-durango-northwest-mexico.md)

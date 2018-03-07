@@ -49,7 +49,7 @@ The number of people on the Live Register hit 400,000 for the first time last mo
 
 ##### Prime Minister of Italy
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper "El Pais" for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-peop.md)
-_Context: El Pais, Prime Minister of Italy, Sardinia, Silvio Berlusconi, Spain, indecent_
+_Context: El Pais, Prime Minister of Italy, Sardinia, Silvio Berlusconi, Spanish, indecent_
 
 ##### United States
 ### [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md)

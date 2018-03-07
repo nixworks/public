@@ -13,7 +13,7 @@ _Context: Bakir Izetbegovic, Bosnia and Herzegovina general election, 2014, Bosn
 
 ##### 2014 United States Ebola virus outbreak
 ### [A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the-disease-in-the-united-states-of-america.md)
-_Context: 2014 United States Ebola virus outbreak, Texas, United States of America_
+_Context: 2014 United States Ebola virus outbreak, American, Texas_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-visakhapatnam-the-death-toll-in-andhra-p.md)

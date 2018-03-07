@@ -25,7 +25,7 @@ _Context: Kurmanbek Bakiyev, Prime Minister, Supreme Council, constitution, exec
 
 ##### Bomb exploding
 ### [ A bomb exploding in the parking lot of Terminal 4 of Barajas Airport, Madrid, Spain, killes two people, damages cars and buildings. ](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.md)
-_Context: Barajas Airport, Madrid, Spain, bomb exploding_
+_Context: Barajas Airport, Madrid, Spanish, bomb exploding_
 
 ##### Saddam Hussein
 ### [ Saddam Hussein is executed, by hanging, at approximately 06:00 local time (03:00 UTC). ](/news/2006/12/30/saddam-hussein-is-executed-by-hanging-at-approximately-06-00-local-time-03-00-utc.md)

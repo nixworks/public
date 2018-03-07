@@ -47,7 +47,7 @@ _Context: Afghanistan, NATO, United States_
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
 C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to promote childhood sex education for AIDS prevention and issued the first government warning about second-hand tobacco smoke, has died. He was 96.
 
-##### Spain
+##### Spanish
 ### [A study from Spain published in the "New England Journal of Medicine" finds that following a Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables reduces the risk of heart disease. ](/news/2013/02/25/a-study-from-spain-published-in-the-new-england-journal-of-medicine-finds-that-following-a-mediterranean-diet-high-in-olive-oil-nuts-fis.md)
 By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables may help prevent hea
 

@@ -45,7 +45,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 
 ##### Moody's
 ### [Moody's downgrades Spain's credit rating to A1 after Standard & Poor's and Fitch downgraded Spain's rating two weeks ago. ](/news/2011/10/18/moody-s-downgrades-spain-s-credit-rating-to-a1-after-standard-poor-s-and-fitch-downgraded-spain-s-rating-two-weeks-ago.md)
-_Context: Fitch, Moody's, Spain, Standard & Poor's, credit rating_
+_Context: Fitch, Moody's, Spanish, Standard & Poor's, credit rating_
 
 ##### Kenyan Army
 ### [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120 km from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-from.md)

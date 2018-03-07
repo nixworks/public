@@ -109,7 +109,7 @@ _Context: Bosnian, Bosnian War, Ratko Mladic, Serbia, genocide_
 
 ##### Gabon
 ### [ 10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. ](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.md)
-_Context: Gabon, Omar Bongo, President, Spain_
+_Context: Gabon, Omar Bongo, President, Spanish_
 
 ##### Canadian geese
 ### [ Some 2,000 wild Canadian geese are to be killed around New York's main airports to reduce the numbers of the birds that brought down US Airways Flight 1549 in January. ](/news/2009/06/11/some-2-000-wild-canadian-geese-are-to-be-killed-around-new-york-s-main-airports-to-reduce-the-numbers-of-the-birds-that-brought-down-us-air.md)

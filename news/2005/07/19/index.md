@@ -3,9 +3,9 @@ Formats: [HTML](2005/07/19/index.html)  [JSON](2005/07/19/index.json)  [XML](200
 
 ## [2005-07-19](/news/2005/07/19/index.md)
 
-##### Spain
+##### Spanish
 ### [ In Spain, huge forest fire continues to rage, threatening villages of Selas and Ablanque. A group of ten day-trippers has confessed being responsible for the start of the fire and one of them has been charged ](/news/2005/07/19/in-spain-huge-forest-fire-continues-to-rage-threatening-villages-of-selas-and-ablanque-a-group-of-ten-day-trippers-has-confessed-being-r.md)
-_Context: Ablanque, Selas, Spain, day-tripper, forest fire_
+_Context: Ablanque, Selas, Spanish, day-tripper, forest fire_
 
 ##### Lebanese
 ### [ In Lebanon, prime minister Fouad Siniora announces his new cabinet after long negotiations. Cabinet members include representative of Hezbollah when Christian leader Michel Aoun refuses to join ](/news/2005/07/19/in-lebanon-prime-minister-fouad-siniora-announces-his-new-cabinet-after-long-negotiations-cabinet-members-include-representative-of-hezbo.md)

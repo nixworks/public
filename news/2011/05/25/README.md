@@ -43,9 +43,9 @@ _Context: German, Grimsvotn, Iceland, eruption, northern Europe_
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
-##### United States of America
+##### American
 ### [U.S. author Jeffery Deaver unveils his James Bond novel, "Carte Blanche". ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
-_Context: Carte Blanche, James Bond, Jeffery Deaver, United States of America_
+_Context: American, Carte Blanche, James Bond, Jeffery Deaver_
 
 ##### Oprah Winfrey
 ### [Veteran talk show host Oprah Winfrey presents her final "Oprah Winfrey Show", after 25 years on air. ](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.md)

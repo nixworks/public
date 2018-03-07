@@ -25,7 +25,7 @@ _Context: sex_
 
 ##### German
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
-_Context: Alicante, German, Spain, Ulla Schmidt, health minister_
+_Context: Alicante, German, Spanish, Ulla Schmidt, health minister_
 
 ##### France
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)

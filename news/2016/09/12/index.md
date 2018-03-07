@@ -21,7 +21,7 @@ David Cameron has quit as an MP saying that he did not want his disagreements wi
 
 ##### Catalan independence
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)
-_Context: Barcelona, Catalan independence, Madrid, Spain_
+_Context: Barcelona, Catalan independence, Madrid, Spanish_
 
 ##### Indonesia-Philippines relations
 ### [In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a "Manila Bulletin" article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. ](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-president-joko-widodo-and-philippine-president-rodrigo-duterte-widodo-today-says-that-duterte-all.md)

@@ -55,7 +55,7 @@ _Context: BSkyB, James, conspiracy to hack mobile phones_
 ### [Sanctions on Mali by the Economic Community of West African States imposed after the recent coup d'etat result in shortages in the country. ](/news/2012/04/3/sanctions-on-mali-by-the-economic-community-of-west-african-states-imposed-after-the-recent-coup-d-a-c-tat-result-in-shortages-in-the-country.md)
 Malians scramble to stockpile fuel and other items as post-coup embargo by West African neighbours begins to take hold.
 
-##### Spain
+##### Spanish
 ### [Spanish joblessness levels hit a record high yet again, with youth unemployment running at 50%. ](/news/2012/04/3/spanish-joblessness-levels-hit-a-record-high-yet-again-with-youth-unemployment-running-at-50.md)
 The number of Spanish people claiming unemployment benefits rises for the eighth month in a row to a record 4.75 million in March.
 

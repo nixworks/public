@@ -3,9 +3,9 @@ Formats: [HTML](2005/04/21/index.html)  [JSON](2005/04/21/index.json)  [XML](200
 
 ## [2005-04-21](/news/2005/04/21/index.md)
 
-##### Spain
+##### Spanish
 ### [ The parliament of Spain gives initial approval to legalized same-sex marriages and adoption by homosexual couples. ](/news/2005/04/21/the-parliament-of-spain-gives-initial-approval-to-legalized-same-sex-marriages-and-adoption-by-homosexual-couples.md)
-_Context: Spain, same-sex marriage_
+_Context: Spanish, same-sex marriage_
 
 ##### United States
 ### [ Five American Muslims sue the Department of Homeland Security for racial profiling after they were detained for hours on the Canadian border while returning from a religious conference. ](/news/2005/04/21/five-american-muslims-sue-the-department-of-homeland-security-for-racial-profiling-after-they-were-detained-for-hours-on-the-canadian-borde.md)

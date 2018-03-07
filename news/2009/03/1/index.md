@@ -25,7 +25,7 @@ _Context: Canada, Parkinson's disease, Samuel Lunenfeld Research Institute, embr
 
 ##### Basque Nationalist Party
 ### [ The Basque Nationalist Party wins a plurality of seats in Spain's Basque Country's parliamentary elections. ](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.md)
-_Context: Basque, Basque Nationalist Party, Spain, parliamentary elections, plurality_
+_Context: Basque, Basque Nationalist Party, Spanish, parliamentary elections, plurality_
 
 ## [Previous Day...](/news/2009/02/28/index.md)
 

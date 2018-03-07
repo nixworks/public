@@ -33,7 +33,7 @@ _Context: Nepal, bus crash_
 
 ##### Iraq Prime Minister
 ### [ Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." ](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, United States of America, Washington D.C._
+_Context: American, Iraq, Iraq Prime Minister, Nouri al-Maliki, Washington D.C._
 
 ##### Russia
 ### [ The Russian political parties Rodina, the Russian Party of Life and the Russian Pensioners' Party merge to form a new leftist party, Fair Russia, effectively making Sergey Mironov the new leader of the opposition in the Russian legislature. ](/news/2006/10/28/the-russian-political-parties-rodina-the-russian-party-of-life-and-the-russian-pensioners-party-merge-to-form-a-new-leftist-party-fair-r.md)

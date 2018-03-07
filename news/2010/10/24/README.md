@@ -77,7 +77,7 @@ _Context: China, G20, Qingdao Airport, Shandong, Sino-American relations, Timoth
 ### [Charles, Prince of Wales's friend was among those killed in yesterday's helicopter crash. The family express their shock. ](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.md)
 One of three people killed in a helicopter crash in County Down was a personal friend of the Prince of Wales, Clarence House confirms.
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [The United Nations High Commissioner for Refugees starts an emergency airlift to Benin which is suffering its worst flooding in decade. ](/news/2010/10/24/the-united-nations-high-commissioner-for-refugees-starts-an-emergency-airlift-to-benin-which-is-suffering-its-worst-flooding-in-decade.md)
 The UN refugee agency is to start an emergency airlift of tents to the West African nation of Benin which has seen its worst flooding in decades.
 

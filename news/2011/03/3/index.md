@@ -19,9 +19,9 @@ _Context: Fouad Mebazaa, President of Tunisia, constitution_
 ### [Voters in the English constituency of Barnsley Central go to the polls for a by-election with Dan Jarvis of the Labour Party being elected with a strong swing in his favour. ](/news/2011/03/3/voters-in-the-english-constituency-of-barnsley-central-go-to-the-polls-for-a-by-election-with-dan-jarvis-of-the-labour-party-being-elected-w.md)
 Labour hold the Barnsley Central seat in a by-election, while the Lib Dems slip to sixth in the South Yorkshire seat.
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [Former Speaker of the United States House of Representatives Newt Gingrich announces plans to explore a bid for the Republican Party nomination in the 2012 US Presidential election. ](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.md)
-_Context: Newt Gingrich, Republican, U.S. Speaker of the House of Representatives, United States presidential election, 2012_
+_Context: Newt Gingrich, Republican, Speaker of the House, United States presidential election, 2012_
 
 ##### Harvard University
 ### [Harvard University welcomes the United States Reserve Officer Training Corps program back on campus following the lifting of the bans on gays in the military. ](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.md)
@@ -69,7 +69,7 @@ _Context: FBI, Iran, Robert Levinson_
 
 ##### Mexican President
 ### [The President of Mexico Felipe Caldern travels to Washington, D.C., to meet with the President of the United States Barack Obama, the Speaker of the United States House of Representatives and other leading political figures. ](/news/2011/03/3/the-president-of-mexico-felipe-calderon-travels-to-washington-d-c-to-meet-with-the-president-of-the-united-states-barack-obama-the-speak.md)
-_Context: Barack Obama, Felipe Caldern, Mexican President, U.S. Speaker of the House of Representatives_
+_Context: Barack Obama, Felipe Caldern, Mexican President, Speaker of the House_
 
 ##### Gorge
 ### [40 people die in northern India after two vehicles plunge into a deep gorge. ](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicles-plunge-into-a-deep-gorge.md)

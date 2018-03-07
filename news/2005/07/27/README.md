@@ -11,7 +11,7 @@ _Context: 1999, Bonneville, France, March 24, Mont Blanc tunnel fire, manslaught
 ### [ In France, court in Angers sentences 62 members of a child sex ring to up to 28 years in jail. Trial lasted 5 months ](/news/2005/07/27/in-france-court-in-angers-sentences-62-members-of-a-child-sex-ring-to-up-to-28-years-in-jail-trial-lasted-5-months.md)
 _Context: Angers, France_
 
-##### Spain
+##### Spanish
 ### [ In Spain, police arrests 6 suspected members of the Basque separatist group ETA ](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

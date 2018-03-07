@@ -15,9 +15,9 @@ _Context: European Union, Jaroslaw Kaczynski, Poland_
 ### [ The 2006 Zakouma elephant slaughter is the latest of a series of massacres which has killed off over 97 percent of the original (the year 1970) Chadian elephant population of 300,000 animals. ](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.md)
 _Context: 2006 Zakouma elephant slaughter, Chad, elephant, massacres, population_
 
-##### Spain
+##### Spanish
 ### [ Spain approves plans to deploy 1,100 troops to Lebanon as part of a UN peacekeeping force. ](/news/2006/09/1/spain-approves-plans-to-deploy-1-100-troops-to-lebanon-as-part-of-a-un-peacekeeping-force.md)
-_Context: Lebanese, Spain, UN_
+_Context: Lebanese, Spanish, UN_
 
 ##### Israeli-Palestinian conflict
 ### [ The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)

@@ -19,9 +19,9 @@ _Context: David Furnish, Elton John, England, Northern Ireland, Scotland, Wales,
 ### [ Israeli-Palestinian Conflict: Israel bans Palestinians from East Jerusalem from voting in the next Palestinian legislative election throwing the entire election in doubt. Israel claims that it made the ban out of fears that Hamas would do well. ](/news/2005/12/21/israeli-palestinian-conflict-israel-bans-palestinians-from-east-jerusalem-from-voting-in-the-next-palestinian-legislative-election-throwin.md)
 _Context: East Jerusalem, Hamas, Israel, Israeli-Palestinian Conflict, January 2006 legislative elections, Palestinians_
 
-##### Spain
+##### Spanish
 ### [ A bomb explodes near a nightclub in Spain, but no one is hurt. The Basque separatist movement ETA claims responsibility. ](/news/2005/12/21/a-bomb-explodes-near-a-nightclub-in-spain-but-no-one-is-hurt-the-basque-separatist-movement-eta-claims-responsibility.md)
-_Context: Basque, ETA, Spain, separatist_
+_Context: Basque, ETA, Spanish, separatist_
 
 ##### Supreme Court of Canada
 ### [ In a 7-2 ruling, the Supreme Court of Canada rules that swingers clubs do not harm society and are legal as long as there is no exchange of money and the activities are conducted in private. ](/news/2005/12/21/in-a-7-2-ruling-the-supreme-court-of-canada-rules-that-swingers-clubs-do-not-harm-society-and-are-legal-as-long-as-there-is-no-exchange-of.md)

@@ -33,7 +33,7 @@ Hossam Bahgat&#039;s recent investigative reporting has prominently featured the
 
 ##### European migrant crisis
 ### [Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea-are-being-welcomed-for-re.md)
-_Context: Eritrea, European migrant crisis, Jorge Fernandez Diaz, Spain, Syria, interior minister_
+_Context: Eritrea, European migrant crisis, Jorge Fernandez Diaz, Spanish, Syria, interior minister_
 
 ##### United States-Venezuela relations
 ### [Venezuela says a U.S. Coast Guard intelligence plane violated its airspace on November 6. ](/news/2015/11/8/venezuela-says-a-u-s-coast-guard-intelligence-plane-violated-its-airspace-on-november-6.md)

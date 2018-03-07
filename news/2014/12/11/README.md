@@ -39,9 +39,9 @@ _Context: Brazilian military government, National Truth Commission, today's poli
 ### [The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/the-death-toll-from-typhoon-hagupit-rises-to-18.md)
 The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 19, the NatioThe government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 18, the National Disaster Risk Reduction and Management Council (NDRRMC) said Thursday.nal Disaster Ris...
 
-##### United States of America
+##### American
 ### [The American state of California prepares for its worst storm in five years with schools closed in the San Francisco Bay Area. ](/news/2014/12/11/the-american-state-of-california-prepares-for-its-worst-storm-in-five-years-with-schools-closed-in-the-san-francisco-bay-area.md)
-_Context: California, San Francisco Bay Area, United States of America, worst storm in five years_
+_Context: American, California, San Francisco Bay Area, worst storm in five years_
 
 ##### Time capsule
 ### [The oldest time capsule in the United States is unearthed at the Massachusetts State House. The capsule was first buried in the cornerstone by Samuel Adams in 1795 and reburied by Henry Gardner in 1855. Wrapped in cowhide, four silver coins fell out when it was found. ](/news/2014/12/11/the-oldest-time-capsule-in-the-united-states-is-unearthed-at-the-massachusetts-state-house-the-capsule-was-first-buried-in-the-cornerstone.md)

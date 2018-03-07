@@ -23,9 +23,9 @@ The Taoiseach, Bertie Ahern, has said he does not know who the members of the IR
 ### [ In Europe's first national referendum on the proposed European Constitution, the people of Spain vote to endorse the Treaty by a landslide 76.73% to 17.24%. However, turnout is an extremely low 42.32%, even after both the government and the main opposition party campaigned for a "yes" vote. ](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.md)
 _Context: European constitution, referendum_
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [ U.N. High Commissioner for Refugees Ruud Lubbers resigns over allegations of sexual harassment, while continuing to deny them. ](/news/2005/02/20/u-n-high-commissioner-for-refugees-ruud-lubbers-resigns-over-allegations-of-sexual-harassment-while-continuing-to-deny-them.md)
-_Context: Ruud Lubbers, United Nations High Commissioner for Refugees, sexual harassment_
+_Context: Ruud Lubbers, UN Refugee Agency, sexual harassment_
 
 ##### Taiwan Strait
 ### [ The United States and Japan release a joint statement which says that easing tensions in the Taiwan Strait is among their "common strategic objectives". The statement is welcomed by the government of Taiwan, but is condemned by China. ](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.md)

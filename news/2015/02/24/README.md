@@ -63,7 +63,7 @@ _Context: Boko Haram, Cameroon, Chad, Chad Army, Nigeria_
 ### [Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md)
 Up to 75 British military personnel will deploy to Ukraine next month to provide advice and training to government forces, Prime Minister David… 
 
-##### Congolese Army
+##### Forces
 ### [The Congolese Army launches an offensive against FDLR rebels in South Kivu. ](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

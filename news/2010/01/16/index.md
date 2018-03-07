@@ -43,7 +43,7 @@ Diamond oceans are possible on Uranus and Neptune. Learn how scientists discover
 ### [The German government asks its citizens to stop using Microsoft's web browser Internet Explorer to protect their own security. ](/news/2010/01/16/the-german-government-asks-its-citizens-to-stop-using-microsoft-s-web-browser-internet-explorer-to-protect-their-own-security.md)
 The German government has warned against using Internet Explorer after a security flaw left it vulnerable to hackers.
 
-##### Spain
+##### Spanish
 ### [Spanish politician Gaspar Llamazares says the United States's Federal Bureau of Investigation (FBI) use of his photo in its "shameless" digital manipulation of Osama Bin Laden for a wanted poster, has left him insecure and worried about travelling to the United States in future. ](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-united-states-s-federal-bureau-of-investigation-fbi-use-of-his-photo-in-its-shameless-digi.md)
 The FBI has admitted using a photograph of a bearded Spanish politician as the basis for a mocked-up photofit image showing how Osama Bin Laden might look now.
 

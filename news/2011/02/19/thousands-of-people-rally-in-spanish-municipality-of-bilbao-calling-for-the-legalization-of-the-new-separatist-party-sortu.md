@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/19/thousands-of-people-rally-in-spanish-municipali
 
 ### [2011-02-19](/news/2011/02/19/index.md)
 
-##### Spain
+##### Spanish
 # Thousands of people rally in Spanish municipality of Bilbao calling for the legalization of the new separatist party Sortu. 
 
 Thousands of people rally in the Basque city of Bilbao in northern Spain to demand the legalisation of a new separatist party.
@@ -16,8 +16,8 @@ Thousands of people rally in the Basque city of Bilbao in northern Spain to dema
 
 ### Related:
 
-1. [Spain bans the new Basque nationalist political party Sortu.](/news/2011/03/23/spain-bans-the-new-basque-nationalist-political-party-sortu.md) _Context: Sortu, Spain_
-2. [ A bomb explodes near Bilbao in the Basque region of Spain, killing one policeman. ](/news/2009/06/19/a-bomb-explodes-near-bilbao-in-the-basque-region-of-spain-killing-one-policeman.md) _Context: Bilbao, Spain_
-3. [ A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. ](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.md) _Context: Bilbao, Spain_
-4. [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md) _Context: Bilbao, Spain_
-5. [15,000 demonstrators gather in Barcelona, Spain, to support the mock region of Tabarnia--a hypothetical area that includes the least independentist areas of Catalonia--as a way to oppose Catalan independence and the declaration of independence on October 27. ](/news/2018/03/4/15-000-demonstrators-gather-in-barcelona-spain-to-support-the-mock-region-of-tabarniaaa-hypothetical-area-that-includes-the-least-indepe.md) _Context: Spain_
+1. [Spain bans the new Basque nationalist political party Sortu.](/news/2011/03/23/spain-bans-the-new-basque-nationalist-political-party-sortu.md) _Context: Sortu, Spanish_
+2. [ A bomb explodes near Bilbao in the Basque region of Spain, killing one policeman. ](/news/2009/06/19/a-bomb-explodes-near-bilbao-in-the-basque-region-of-spain-killing-one-policeman.md) _Context: Bilbao, Spanish_
+3. [ A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. ](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.md) _Context: Bilbao, Spanish_
+4. [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md) _Context: Bilbao, Spanish_
+5. [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md) _Context: Spanish_

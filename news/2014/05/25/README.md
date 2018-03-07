@@ -43,9 +43,9 @@ _Context: Mahmoud Abbas, Pope Francis, President, President of the State of Pale
 ### [Heavy flooding in Guangdong, China, leaves 15 people dead and 5 more missing. ](/news/2014/05/25/heavy-flooding-in-guangdong-china-leaves-15-people-dead-and-5-more-missing.md)
 The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zhaoqing and Qingyuan cities and caused floods, house collapses and mud flows.
 
-##### Spain
+##### Spanish
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
-_Context: Djibouti, Spain_
+_Context: Djibouti, Spanish_
 
 ##### Homs
 ### [3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)

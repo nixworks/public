@@ -15,7 +15,7 @@ The Greek parliament passes a package of austerity measures despite two days of 
 ### [Britain's three main political parties order their MPs to vote against a Parliamentary motion calling for a referendum on the UK's membership of the European Union, due to be debated on Monday. ](/news/2011/10/20/britain-s-three-main-political-parties-order-their-mps-to-vote-against-a-parliamentary-motion-calling-for-a-referendum-on-the-uk-s-membershi.md)
 Members of the three largest UK parties are being told to vote against a motion calling for a referendum to be held on UK membership of the European Union.
 
-##### Parliament of New Zealand
+##### Parliament
 ### [The Parliament of New Zealand is dissolved in preparation for a general election on November 26. ](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.md)
 Parliament has been dissolved, marking the beginning of the formal process in the lead-up to the election.
 

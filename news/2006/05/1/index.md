@@ -35,9 +35,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
 _Context: Bolivian Gas War, Bolivian military, Evo Morales, President of Bolivia, nationalising, natural gas_
 
-##### Spain
+##### Spanish
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: European Union, Finland, Greece, Irish, Portugal, Spain, Sweden, United Kingdom_
+_Context: European Union, Finland, Greece, Irish, Portugal, Spanish, Sweden, United Kingdom_
 
 ##### President of Chad
 ### [ President of Chad Idriss Dby refuses to delay upcoming presidential elections despite pressure from U.S. diplomat Donald Yamamoto, high ranking Chadian Christian officials, and the head of the Chadian human rights league. However, he announced the Chadian government is negotiating with the United Front for Democratic Change rebel group to avoid violence. ](/news/2006/05/1/president-of-chad-idriss-deby-refuses-to-delay-upcoming-presidential-elections-despite-pressure-from-u-s-diplomat-donald-yamamoto-high-ra.md)

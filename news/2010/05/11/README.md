@@ -29,7 +29,7 @@ _Context: China, Gansu Province_
 
 ##### Canary Islands'
 ### [Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.md)
-_Context: Aena, Canary Islands', Spain_
+_Context: Aena, Canary Islands', Spanish_
 
 ##### United States Coast Guard
 ### [United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-response-to-the-gulf-of-mexico.md)

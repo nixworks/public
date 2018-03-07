@@ -25,7 +25,7 @@ _Context: 90377 Sedna, Pluto, Sun, planetoid_
 
 ##### Elected
 ### [ Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. ](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.md)
-_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister, Spain, U.N., elected_
+_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister, Spanish, U.N., elected_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: Commissioners of Multnomah County, Oregon, dismiss state attorney general Hardy Myers' non-binding opinion that same-sex marriages are illegal and vow to continue issuing marriage licenses to same-sex couples. ](/news/2004/03/15/same-sex-marriage-in-the-united-states-commissioners-of-multnomah-county-oregon-dismiss-state-attorney-general-hardy-myers-non-binding.md)

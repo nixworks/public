@@ -37,7 +37,7 @@ Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administr
 
 ##### Africa
 ### [ African countries boycott the United Nations climate talks in Barcelona, Spain, after saying goals set by industrialised countries are too low. ](/news/2009/11/3/african-countries-boycott-the-united-nations-climate-talks-in-barcelona-spain-after-saying-goals-set-by-industrialised-countries-are-too.md)
-_Context: Africa, Barcelona, Spain, United Nations_
+_Context: Africa, Barcelona, Spanish, United Nations_
 
 ##### North Korea
 ### [ North Korea says it has completed reprocessing 8,000 spent nuclear fuel rods as part of its nuclear program. ](/news/2009/11/3/north-korea-says-it-has-completed-reprocessing-8-000-spent-nuclear-fuel-rods-as-part-of-its-nuclear-program.md)

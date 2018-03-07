@@ -15,9 +15,9 @@ _Context: Colombia, guerrillas, lvaro Uribe, paramilitary_
 ### [ Cuba releases three dissidents, including leader Martha Beatriz Roque. 17 others are still incarcerated after crackdown in Friday ](/news/2005/07/23/cuba-releases-three-dissidents-including-leader-martha-beatriz-roque-17-others-are-still-incarcerated-after-crackdown-in-friday.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Spain
+##### Spanish
 ### [ In Spain, bomb explodes in Santiago de Compostela near regional savings bank Caixa Galicia. There are no casualties. Government blames Galician separatists. Police have arrested two people ](/news/2005/07/23/in-spain-bomb-explodes-in-santiago-de-compostela-near-regional-savings-bank-caixa-galicia-there-are-no-casualties-government-blames-gali.md)
-_Context: Caixa Galicia, Galicia, Santiago de Compostela, Spain_
+_Context: Caixa Galicia, Galicia, Santiago de Compostela, Spanish_
 
 ##### Arsenic
 ### [ A team of scientists from the UK and Australia state that they have found high concentrations of arsenic from the hair of King George III of the United Kingdom. Medication containing arsenic could have caused him bouts of madness ](/news/2005/07/23/a-team-of-scientists-from-the-uk-and-australia-state-that-they-have-found-high-concentrations-of-arsenic-from-the-hair-of-king-george-iii-o.md)

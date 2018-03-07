@@ -7,9 +7,9 @@ Formats: [HTML](2004/11/18/index.html)  [JSON](2004/11/18/index.json)  [XML](200
 ### [ The Great American Smokeout, sponsored by the American Cancer Society is held for the 28th time. ](/news/2004/11/18/the-great-american-smokeout-sponsored-by-the-american-cancer-society-is-held-for-the-28th-time.md)
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
-##### Parliament of New Zealand
+##### Parliament
 ### [ The Parliament of New Zealand finally passes a controversial bill on the foreshore and seabed ownership dispute, which has caused considerable tension between Maori and non-Maori. ](/news/2004/11/18/the-parliament-of-new-zealand-finally-passes-a-controversial-bill-on-the-foreshore-and-seabed-ownership-dispute-which-has-caused-considera.md)
-_Context: Maori, Parliament of New Zealand, foreshore and seabed ownership dispute_
+_Context: Maori, foreshore and seabed ownership dispute, parliament_
 
 ##### Sinai Peninsula
 ### [ Three Egyptian paramilitary security officers stationed at the Sinai-Gaza border are killed by Israeli tank fire, after IDF troops allegedly mistook them for Palestinian terrorists or militants. The Egyptian government accepts an apology from Israeli Prime Minister Ariel Sharon and demands an investigation on the incident. ](/news/2004/11/18/three-egyptian-paramilitary-security-officers-stationed-at-the-sinaiagaza-border-are-killed-by-israeli-tank-fire-after-idf-troops-allege.md)

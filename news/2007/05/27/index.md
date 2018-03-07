@@ -15,9 +15,9 @@ _Context: 2007 Cannes Film Festival, 4 Months, 3 Weeks and 2 Days, Cristian Mung
 ### [ Venezuelan TV station Radio Caracas Television is shut down by the Hugo Chvez administration. ](/news/2007/05/27/venezuelan-tv-station-radio-caracas-television-is-shut-down-by-the-hugo-chavez-administration.md)
 _Context: Hugo Chvez, RCTV, TV station, Venezuela_
 
-##### Spain
+##### Spanish
 ### [ Spanish voters go to the polls in local and regional elections. ](/news/2007/05/27/spanish-voters-go-to-the-polls-in-local-and-regional-elections.md)
-_Context: Spain, local and regional elections_
+_Context: Spanish, local and regional elections_
 
 ##### Ukrainian President
 ### [ President Viktor Yushchenko and Prime Minister Viktor Yanukovych of Ukraine agree to a compromise, with early parliamentary elections to be held on September 30. ](/news/2007/05/27/president-viktor-yushchenko-and-prime-minister-viktor-yanukovych-of-ukraine-agree-to-a-compromise-with-early-parliamentary-elections-to-be.md)

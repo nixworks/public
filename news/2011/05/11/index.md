@@ -7,7 +7,7 @@ Formats: [HTML](2011/05/11/index.html)  [JSON](2011/05/11/index.json)  [XML](201
 ### [Silvana Koch-Mehrin, Vice President of the European Parliament, resigns amid claims that she plagiarised her doctoral thesis. ](/news/2011/05/11/silvana-koch-mehrin-vice-president-of-the-european-parliament-resigns-amid-claims-that-she-plagiarised-her-doctoral-thesis.md)
 Silvana Koch-Mehrin resigns as vice-president of the European Parliament - a second senior German politician to have fallen victim to plagiarism claims.
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [Former Speaker of the House of Representatives Newt Gingrich formally announces that he will be seeking the Republican Party Presidential nomination. ](/news/2011/05/11/former-speaker-of-the-house-of-representatives-newt-gingrich-formally-announces-that-he-will-be-seeking-the-republican-party-presidential-no.md)
 &quot;I&#39;m Newt Gingrich, and I&#39;m announcing my candidacy for President of the United States because I believe we can return America to hope and opportunity, to fu...
 

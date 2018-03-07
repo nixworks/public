@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/14/index.html)  [JSON](2007/02/14/index.json)  [XML](200
 
 ##### Georgina Beyer
 ### [ Georgina Beyer, the world's first transgendered member of parliament, resigns from the Parliament of New Zealand. ](/news/2007/02/14/georgina-beyer-the-world-s-first-transgendered-member-of-parliament-resigns-from-the-parliament-of-new-zealand.md)
-_Context: Georgina Beyer, Parliament of New Zealand, transgender_
+_Context: Georgina Beyer, parliament, transgender_
 
 ##### World Food Program
 ### [ The World Food Program predicts that 285,000 people in Mozambique will require food aid after severe flooding. ](/news/2007/02/14/the-world-food-program-predicts-that-285-000-people-in-mozambique-will-require-food-aid-after-severe-flooding.md)

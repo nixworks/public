@@ -9,7 +9,7 @@ _Context: China, Zhucheng, dinosaur, fossil, found_
 
 ##### Car bomb
 ### [ A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. ](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.md)
-_Context: Basque separatist, Bilbao, ETA, Spain, car bomb, separatist_
+_Context: Basque separatist, Bilbao, ETA, Spanish, car bomb, separatist_
 
 ##### Israel
 ### [ Israel rejects a proposed stoppage of Operation Cast Lead that would also have ceased rocket attacks from Hamas so humanitarian aid could be delivered to affected areas in the Gaza Strip. ](/news/2008/12/31/israel-rejects-a-proposed-stoppage-of-operation-cast-lead-that-would-also-have-ceased-rocket-attacks-from-hamas-so-humanitarian-aid-could-b.md)

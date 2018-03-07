@@ -33,7 +33,7 @@ _Context: Campinas, Campinas massacre, New Year's Eve, murder-suicide, southeast
 
 ##### United Nations Security Council election, 2016
 ### [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md)
-_Context: Angola, Bolivia, Ethiopia, Italy, Kazakhstan, Malaysia, New Zealand, Spain, Sweden, United Nations Security Council election, 2016, Venezuela_
+_Context: Angola, Bolivia, Ethiopia, Italy, Kazakhstan, Malaysia, New Zealand, Spanish, Sweden, United Nations Security Council election, 2016, Venezuela_
 
 ##### United Nations Secretary-General selection, 2016
 ### [Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacing-south-korea-s-ban-ki-moon.md)

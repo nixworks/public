@@ -27,7 +27,7 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 ### [North Korea's efforts to launch a long range rocket ends in apparent failure with the rocket breaking up soon after launch. ](/news/2012/04/13/north-korea-s-efforts-to-launch-a-long-range-rocket-ends-in-apparent-failure-with-the-rocket-breaking-up-soon-after-launch.md)
 _Context: North Korea, failed North Korean rocket launch_
 
-##### Spain
+##### Spanish
 ### [Spain seeks to deter Argentina's nationalization of YPF, an Argentine oil company majority-owned by Spain's Repsol, warning that such a nationalization would make Argentina a "pariah". ](/news/2012/04/13/spain-seeks-to-deter-argentina-s-nationalization-of-ypf-an-argentine-oil-company-majority-owned-by-spain-s-repsol-warning-that-such-a-nati.md)
 The Spanish government warned on Friday that it would take unspecified retaliatory measures against Argentina if it proceeded with plans to take back control of YPF, the large oil and gas producer, from Repsol, its Spanish parent.
 

@@ -37,7 +37,7 @@ Prosecution given extra time to compile final arguments against Nobel prize winn
 
 ##### A line of wildfires
 ### [ Wildfires in the north east of Spain claim the lives of six firefighters in that region. ](/news/2009/07/24/wildfires-in-the-north-east-of-spain-claim-the-lives-of-six-firefighters-in-that-region.md)
-_Context: A line of wildfires, Spain_
+_Context: A line of wildfires, Spanish_
 
 ##### President of Indonesia
 ### [ The President of Indonesia, Susilo Bambang Yudhoyono, is declared as the winner of the Indonesian presidential election. ](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.md)

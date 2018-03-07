@@ -33,7 +33,7 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 
 ##### Senator
 ### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
-_Context: John McCain, Senator, Syria, Syrian civil war, United States of America_
+_Context: American, John McCain, Senator, Syria, Syrian civil war_
 
 ## [Previous Day...](/news/2013/05/27/index.md)
 

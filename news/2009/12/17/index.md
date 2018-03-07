@@ -57,7 +57,7 @@ _Context: Lebanese, MV ''Danny F II'', Panama, Syria, Uruguay_
 
 ##### Europe
 ### [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md)
-_Context: Europe, France, German, Poland, Spain_
+_Context: Europe, France, German, Poland, Spanish_
 
 ## [Previous Day...](/news/2009/12/16/index.md)
 

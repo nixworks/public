@@ -61,7 +61,7 @@ _Context: Andorra_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Bermeo, Somali pirates, Spain_
+_Context: Bermeo, Somali pirates, Spanish_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)

@@ -21,7 +21,7 @@ Shadow immigration minister Phil Woolas vows to fight a decision to declare his 
 
 ##### Pope Benedict XVI
 ### [Protests against the visit of Pope Benedict XVI to Spain take place. ](/news/2010/11/5/protests-against-the-visit-of-pope-benedict-xvi-to-spain-take-place.md)
-_Context: Pope Benedict XVI, Spain_
+_Context: Pope Benedict XVI, Spanish_
 
 ##### Oakland, California
 ### [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2010/07/28/index.html)  [JSON](2010/07/28/index.json)  [XML](201
 
 ## [2010-07-28](/news/2010/07/28/index.md)
 
-##### Spain
+##### Spanish
 ### [The Spanish autonomous community of Catalonia bans bullfighting, the first region on the mainland to do so. ](/news/2010/07/28/the-spanish-autonomous-community-of-catalonia-bans-bullfighting-the-first-region-on-the-mainland-to-do-so.md)
-_Context: Catalonia, Spain, autonomous community, bullfighting_
+_Context: Catalonia, Spanish, autonomous community, bullfighting_
 
 ##### Governor of California
 ### [Governor of the U.S. state of California Arnold Schwarzenegger declares a "fiscal state of emergency" requiring most state employees to take three days a month of unpaid leave until a new budget is enacted. ](/news/2010/07/28/governor-of-the-u-s-state-of-california-arnold-schwarzenegger-declares-a-fiscal-state-of-emergency-requiring-most-state-employees-to-take.md)

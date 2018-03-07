@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/27/index.html)  [JSON](2011/07/27/index.json)  [XML](201
 
 ##### Spanish politicians
 ### [Spanish protesters known as the "Indignants" begin a march from Madrid to Brussels in Belgium to protest at cuts in government expenditure in Spain. ](/news/2011/07/27/spanish-protesters-known-as-the-indignants-begin-a-march-from-madrid-to-brussels-in-belgium-to-protest-at-cuts-in-government-expenditure-i.md)
-_Context: Belgium, Brussels, Madrid, Spain, Spanish politicians_
+_Context: Belgium, Brussels, Madrid, Spanish, Spanish politicians_
 
 ##### Republican
 ### [Republicans in the United States House of Representatives announce they will delay a vote on extending the debt ceiling until Thursday due to concerns over level of proposed savings not being sufficient. ](/news/2011/07/27/republicans-in-the-united-states-house-of-representatives-announce-they-will-delay-a-vote-on-extending-the-debt-ceiling-until-thursday-due-t.md)

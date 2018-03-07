@@ -23,7 +23,7 @@ _Context: Margaret Thatcher, Prime Minister_
 
 ##### Croatia
 ### [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md)
-_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the Former Yugoslavia, Spain, Tenerife, The Hague, Yugoslav wars, war crime_
+_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the Former Yugoslavia, Spanish, Tenerife, The Hague, Yugoslav wars, war crime_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 32 people have died following an attack on a bus in Baghdad. ](/news/2005/12/8/conflict-in-iraq-at-least-32-people-have-died-following-an-attack-on-a-bus-in-baghdad.md)

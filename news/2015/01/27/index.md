@@ -13,7 +13,7 @@ _Context: Boston, January 2015 nor'easter, Massachusetts, New England_
 
 ##### January 26 crash
 ### [The death toll from the January 26 crash of a Hellenic Air Force F-16 fighter jet in southern Spain rises to eleven. ](/news/2015/01/27/the-death-toll-from-the-january-26-crash-of-a-hellenic-air-force-f-16-fighter-jet-in-southern-spain-rises-to-eleven.md)
-_Context: Hellenic Air Force, January 26 crash, Spain_
+_Context: Hellenic Air Force, January 26 crash, Spanish_
 
 ##### Pope Francis
 ### [Pope Francis holds a private meeting with a transsexual man and his fiancee at the Vatican. ](/news/2015/01/27/pope-francis-holds-a-private-meeting-with-a-transsexual-man-and-his-fianca-c-e-at-the-vatican.md)

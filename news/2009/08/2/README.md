@@ -31,7 +31,7 @@ Thousands of people in the Canadian province of British Columbia ordered to leav
 ### [ At least 33 people die and several are injured as a bus flips over thrice in Zimbabwe. ](/news/2009/08/2/at-least-33-people-die-and-several-are-injured-as-a-bus-flips-over-thrice-in-zimbabwe.md)
 _Context: Zimbabwe_
 
-##### Spain
+##### Spanish
 ### [ Hundreds of firefighters on the Spanish island of La Palma in the Canary Islands are continuing to battle wildfires. ](/news/2009/08/2/hundreds-of-firefighters-on-the-spanish-island-of-la-palma-in-the-canary-islands-are-continuing-to-battle-wildfires.md)
 A wildfire is raging out of control on the Canary Island of La Palma a day after it forced 4,000 people to flee their homes and stranded dozens of tourists.
 

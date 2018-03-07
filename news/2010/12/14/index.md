@@ -47,9 +47,9 @@ Kathmandu, Dec 14 (IANS) The shadow of arrest and criminal charges darkened over
 ### [Foreign ministers from the European Union say they would recognise a Palestinian state "when appropriate". ](/news/2010/12/14/foreign-ministers-from-the-european-union-say-they-would-recognise-a-palestinian-state-when-appropriate.md)
 EU foreign ministers say they will recognise a Palestinian state &quot;when appropriate&quot;, following a call from Palestinian leader Mahmoud Abbas.
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [The United Nations High Commissioner for Refugees urges Cambodia to allow more time to resettle Vietnamese refugees after it announced the closure of a refugee camp. ](/news/2010/12/14/the-united-nations-high-commissioner-for-refugees-urges-cambodia-to-allow-more-time-to-resettle-vietnamese-refugees-after-it-announced-the-c.md)
-_Context: Cambodia, United Nations High Commissioner for Refugees, Vietnam_
+_Context: Cambodia, UN Refugee Agency, Vietnam_
 
 ##### Japan
 ### [Japan protests a visit by First Deputy Prime Minister of Russia, Igor Shuvalov, to the disputed Kunashiri and Etorofu islands. ](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.md)

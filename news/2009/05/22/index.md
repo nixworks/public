@@ -11,9 +11,9 @@ President Barack Obama has signed a bill creating new rules for the credit card 
 ### [ Northern Ireland's first sextuplets are born in Belfast. ](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.md)
 A woman in Northern Ireland has given birth to six babies at the Royal Victoria Hospital.
 
-##### Spain
+##### Spanish
 ### [ Spain's National Police Corps arrests 23 people for trafficking Nigerian prostitutes through voodoo. ](/news/2009/05/22/spain-s-national-police-corps-arrests-23-people-for-trafficking-nigerian-prostitutes-through-voodoo.md)
-_Context: National Police Corps, Nigeria, Spain, Trafficking in Persons, arrest, prostitutes, voodoo_
+_Context: National Police Corps, Nigeria, Spanish, Trafficking in Persons, arrest, prostitutes, voodoo_
 
 ##### United Nations
 ### [ The United Nations requests aid for 1,500,000 people who have been displaced by war in northwest Pakistan. ](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.md)

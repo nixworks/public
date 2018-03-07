@@ -13,7 +13,7 @@ _Context: Benazir Bhutto, Pakistan, Prime Minister, Taliban, indicted_
 
 ##### El Hierro
 ### [Residents of El Hierro in Spain's Canary Islands are evacuated following continuing volcanic activity. ](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.md)
-_Context: Canary Islands', El Hierro, Spain_
+_Context: Canary Islands', El Hierro, Spanish_
 
 ##### Coal miner
 ### [Rescuers pull a further 45 trapped coal miners to the surface in Sanmenxia in the People's Republic of China, with eight miners reportedly having died. ](/news/2011/11/5/rescuers-pull-a-further-45-trapped-coal-miners-to-the-surface-in-sanmenxia-in-the-people-s-republic-of-china-with-eight-miners-reportedly-h.md)

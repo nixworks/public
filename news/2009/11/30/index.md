@@ -33,9 +33,9 @@ _Context: River Derwent, Workington, floods, new railway station_
 ### [ Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. ](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.md)
 _Context: Agathon Rwasa, Burundi, National Liberation Forces_
 
-##### Spain
+##### Spanish
 ### [ Three Spanish aid workers are kidnapped in northern Mauritania, after they became separated from an aid convoy. ](/news/2009/11/30/three-spanish-aid-workers-are-kidnapped-in-northern-mauritania-after-they-became-separated-from-an-aid-convoy.md)
-_Context: Mauritanian, Spain_
+_Context: Mauritanian, Spanish_
 
 ##### Tyumen
 ### [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md)

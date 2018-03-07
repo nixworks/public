@@ -5,7 +5,7 @@ Formats: [HTML](2005/04/30/index.html)  [JSON](2005/04/30/index.json)  [XML](200
 
 ##### Severo Moto
 ### [ Severo Moto, exiled politician from Equatorial Guinea, reappears in Spain. He says that he survived an assassination attempt in Croatia. ](/news/2005/04/30/severo-moto-exiled-politician-from-equatorial-guinea-reappears-in-spain-he-says-that-he-survived-an-assassination-attempt-in-croatia.md)
-_Context: Croatia, Equatorial Guinea, Severo Moto, Spain, assassination_
+_Context: Croatia, Equatorial Guinea, Severo Moto, Spanish, assassination_
 
 ##### Honduras
 ### [ In Honduras, six children die in a grenade accident. ](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.md)

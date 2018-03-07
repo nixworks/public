@@ -15,9 +15,9 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 ### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
 _Context: Iraq, Muqtada al-Sadr, U.S._
 
-##### Spain
+##### Spanish
 ### [ Fishermen in Spain, Portugal and Italy strike to protest against high fuel prices; Spain's economy minister says his government cannot cut fuel taxes, but is looking into ways to help fishermen. ](/news/2008/05/30/fishermen-in-spain-portugal-and-italy-strike-to-protest-against-high-fuel-prices-spain-s-economy-minister-says-his-government-cannot-cut.md)
-_Context: Italy, Portugal, Spain, fuel prices_
+_Context: Italy, Portugal, Spanish, fuel prices_
 
 ##### Cyclone Nargis
 ### [ Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes-carrying-relief.md)

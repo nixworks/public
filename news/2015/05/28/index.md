@@ -15,7 +15,7 @@ _Context: 2016 U.S. election, George Pataki, New York Governor, Republican, pres
 ### [Independent lawmaker Catherine Murphy raises fresh allegations in Ireland's Dail against billionaire Denis O'Brien, prompting criticism over the silence of the country's media (much of it owned by O'Brien). ](/news/2015/05/28/independent-lawmaker-catherine-murphy-raises-fresh-allegations-in-ireland-s-da-il-against-billionaire-denis-o-brien-prompting-criticism-ove.md)
 Independent TD Catherine Murphy has spoken in the Dáil about the business relationship between Denis O&#39;Brien and the Irish Bank Resolution Corporation (IBRC) - the former Anglo Irish Bank - including alleged details of his loans.
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is indicted for allegedly trying to evade banking reporting requirements and lying to the Federal Bureau of Investigations. ](/news/2015/05/28/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-indicted-for-allegedly-trying-to-evade-banking-reporting-requ.md)
 Dennis Hastert was charged with structuring cash withdrawals to evade currency transaction reporting requirements and lying to the FBI.
 

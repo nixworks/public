@@ -23,9 +23,9 @@ _Context: German, current financial crisis, unemployment_
 ### [ An Israeli Defense Forces air raid injures nine people in the Gaza Strip in response to continued militant rocket fire. ](/news/2009/01/29/an-israeli-defense-forces-air-raid-injures-nine-people-in-the-gaza-strip-in-response-to-continued-militant-rocket-fire.md)
 At least nine Palestinians wounded in attack as Olmert considers expanded military action.
 
-##### Spain
+##### Spanish
 ### [ Spanish Judge Fernando Andreu investigates a possible Israeli crime against humanity during the 2002 assassination of Salah Shehade. ](/news/2009/01/29/spanish-judge-fernando-andreu-investigates-a-possible-israeli-crime-against-humanity-during-the-2002-assassination-of-salah-shehade.md)
-_Context: 2002, Fernando Andreu, Israel, Judge, Salah Shehade, Spain, assassination, crime against humanity_
+_Context: 2002, Fernando Andreu, Israel, Judge, Salah Shehade, Spanish, assassination, crime against humanity_
 
 ##### Zimbabwe
 ### [ Zimbabwe allows the use of foreign currencies alongside its dollar. ](/news/2009/01/29/zimbabwe-allows-the-use-of-foreign-currencies-alongside-its-dollar.md)

@@ -15,9 +15,9 @@ _Context: Brazil, Iran, Israel, Jordan, Luiz Incio Lula da Silva, Middle East, P
 ### [Colombian legislative election, 2010: Over 2500 candidates can be chosen for 102 Senate seats and 166 Chamber of Representatives seats, as well as 5 Colombian representatives to the Andean Parliament (organ of the Andean Community of Nations) and a people's initiative in the Caribbean Region. ](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.md)
 _Context: Andean Community of Nations, Chamber of Representatives, Colombian legislative election, 2010, Senate_
 
-##### Spain
+##### Spanish
 ### [Spaniard Fernando Alonso wins the 2010 Bahrain Grand Prix Formula One race; Brazilian Felipe Massa comes in second. ](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.md)
-_Context: 2010 Bahrain Grand Prix, Brazil, Felipe Massa, Fernando Alonso, Formula One, Spain_
+_Context: 2010 Bahrain Grand Prix, Brazil, Felipe Massa, Fernando Alonso, Formula One, Spanish_
 
 ##### Drug-related violence
 ### [Drug-related violence kills 24 people in Mexico in 24 hours, 13 of them in the city of Acapulco. ](/news/2010/03/14/drug-related-violence-kills-24-people-in-mexico-in-24-hours-13-of-them-in-the-city-of-acapulco.md)

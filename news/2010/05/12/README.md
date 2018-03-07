@@ -15,7 +15,7 @@ _Context: North Korea, nuclear fusion_
 ### [Pope Benedict XVI, accompanied by tens of thousands of pilgrims, visits the famous Catholic shrine to the Virgin Mary in Fatima, as part of his four-day visit to Portugal, and recalls the assassination attempt on his predecessor there. ](/news/2010/05/12/pope-benedict-xvi-accompanied-by-tens-of-thousands-of-pilgrims-visits-the-famous-catholic-shrine-to-the-virgin-mary-in-fatima-as-part-of.md)
 Tens of thousands of pilgrims have flocked to one of Christianity&#39;s most popular shrines ahead of Pope Benedict XVI arrival in Fatima.
 
-##### Spain
+##### Spanish
 ### [Spain's Prime Minister Jos Luis Rodrguez Zapatero announces wage cuts for state employees and a reduction in investment in response to his country's budget deficit. ](/news/2010/05/12/spain-s-prime-minister-jose-luis-rodriguez-zapatero-announces-wage-cuts-for-state-employees-and-a-reduction-in-investment-in-response-to-his.md)
 Prime minister unveils plans to cut wages of state employees to tackle budget deficit.
 

@@ -57,7 +57,7 @@ Russia, Afghanistan, Pakistan and Tajikistan agreed to step up joint fight again
 
 ##### Mauritanian
 ### [Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. ](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.md)
-_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spain_
+_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spanish_
 
 ##### Morocco
 ### [Moroccan activists blockading a Spanish enclave in protest at alleged abuses by border police agree to suspend the action during Ramadan. ](/news/2010/08/18/moroccan-activists-blockading-a-spanish-enclave-in-protest-at-alleged-abuses-by-border-police-agree-to-suspend-the-action-during-ramadan.md)

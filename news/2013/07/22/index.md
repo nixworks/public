@@ -35,9 +35,9 @@ _Context: Colombia, Venezuela_
 ### [The European Union announces the addition of the military wing of Hezbollah to its official list of terrorist organizations. ](/news/2013/07/22/the-european-union-announces-the-addition-of-the-military-wing-of-hezbollah-to-its-official-list-of-terrorist-organizations.md)
 _Context: European Union, the military wing of Hezbollah_
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [The United Nations High Commissioner for Refugees states that there are approximately 625,000 refugees from the Syrian civil war living in Lebanon. ](/news/2013/07/22/the-united-nations-high-commissioner-for-refugees-states-that-there-are-approximately-625-000-refugees-from-the-syrian-civil-war-living-in-l.md)
-_Context: Lebanese, Syrian civil war, United Nations High Commissioner for Refugees_
+_Context: Lebanese, Syrian civil war, UN Refugee Agency_
 
 ##### Pope Francis
 ### [Pope Francis begins a week-long official visit to Brazil, his first foreign trip since assuming the pontificate. ](/news/2013/07/22/pope-francis-begins-a-week-long-official-visit-to-brazil-his-first-foreign-trip-since-assuming-the-pontificate.md)

@@ -83,9 +83,9 @@ _Context: AFP, India, Internet, Wikimedia_
 ### [Kings of Leon are announced as headliner of the 30th anniversary of Ireland's Slane Concert, to be held at Slane Castle in May 2011. ](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.md)
 American rock band The Kings of Leon have been confirmed as the headline act for the Slane Castle concert next summer.
 
-##### Parliament of New Zealand
+##### Parliament
 ### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of "The Hobbit" film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
-_Context: ''The Hobbit'' film project, Parliament of New Zealand, Warner Bros._
+_Context: ''The Hobbit'' film project, Warner Bros., parliament_
 
 ##### United Kingdom
 ### [Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/law-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious-packages-are-found-on-flights-arriving-from-yemen-a-sim.md)

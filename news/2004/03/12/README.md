@@ -29,7 +29,7 @@ _Context: Goh Kun, Prime Minister, Roh Moo-hyun, South Korea, South Korean Presi
 
 ##### March 11, 2004 Madrid attacks
 ### [ March 11, 2004 Madrid attacks: Millions of people pack rainswept streets across Spain in protest against the recent Madrid bombings. ](/news/2004/03/12/march-11-2004-madrid-attacks-millions-of-people-pack-rainswept-streets-across-spain-in-protest-against-the-recent-madrid-bombings.md)
-_Context: 2004 Madrid train bombings, March 11, 2004 Madrid attacks, Spain_
+_Context: 2004 Madrid train bombings, March 11, 2004 Madrid attacks, Spanish_
 
 ##### Utah
 ### [ A Utah woman is charged with murder when her child is stillborn, after allegedly refusing a Caesarean section. ](/news/2004/03/12/a-utah-woman-is-charged-with-murder-when-her-child-is-stillborn-after-allegedly-refusing-a-caesarean-section.md)

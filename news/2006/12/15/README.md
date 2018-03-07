@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/15/index.html)  [JSON](2006/12/15/index.json)  [XML](200
 
 ##### Newt Gingrich
 ### [ Newt Gingrich, former Speaker of the U.S. House of Representatives, says the six men involved in the Flying Imams controversy should have been "arrested and prosecuted for pretending to be terrorists." ](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.md)
-_Context: Flying Imams controversy, Newt Gingrich, U.S. Speaker of the House of Representatives_
+_Context: Flying Imams controversy, Newt Gingrich, Speaker of the House_
 
 ##### Jendayi Frazer
 ### [ Assistant Secretary of State Jendayi Frazer announces that the United States has no plans to commit troops to intervene in the Somali civil war to root out al Qaeda cells operating in the country. ](/news/2006/12/15/assistant-secretary-of-state-jendayi-frazer-announces-that-the-united-states-has-no-plans-to-commit-troops-to-intervene-in-the-somali-civil.md)

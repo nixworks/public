@@ -41,7 +41,7 @@ _Context: Attila the Hun, Hungary_
 
 ##### MareNostrum
 ### [ MareNostrum, Europe's most powerful (and the world's fourth most powerful) supercomputer, is booted up for the first time in the Barcelona Supercomputing Center, Spain. ](/news/2005/04/12/marenostrum-europe-s-most-powerful-and-the-world-s-fourth-most-powerful-supercomputer-is-booted-up-for-the-first-time-in-the-barcelona.md)
-_Context: Barcelona Supercomputing Center, Europe, MareNostrum, Spain, booted up, supercomputer_
+_Context: Barcelona Supercomputing Center, Europe, MareNostrum, Spanish, booted up, supercomputer_
 
 ##### Luis Posada Carriles
 ### [ Anti-Castro militant Luis Posada Carriles applies for asylum in the United States. Fidel Castro accuses the US of hypocrisy for protecting a terrorist. ](/news/2005/04/12/anti-castro-militant-luis-posada-carriles-applies-for-asylum-in-the-united-states-fidel-castro-accuses-the-us-of-hypocrisy-for-protecting.md)

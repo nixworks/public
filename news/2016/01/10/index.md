@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/10/index.html)  [JSON](2016/01/10/index.json)  [XML](201
 
 ##### Catalan independence
 ### [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md)
-_Context: Artur Mas i Gavarro, Carles Puigdemont, Catalan independence, President of the Generalitat of Catalonia, Spain_
+_Context: Artur Mas i Gavarro, Carles Puigdemont, Catalan independence, President of the Generalitat of Catalonia, Spanish_
 
 ##### Mexican Drug War
 ### [Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by "Rolling Stone" magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. ](/news/2016/01/10/mexican-authorities-want-to-question-american-actor-sean-penn-and-mexican-actress-kate-del-castillo-about-a-secret-october-meeting-and-inter.md)

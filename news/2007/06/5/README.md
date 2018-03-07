@@ -11,7 +11,7 @@ Ten people have been killed and dozens injured in Australia&#39;s worst rail cra
 ### [ Thailand's interim government removes a ban on political party activities. ](/news/2007/06/5/thailand-s-interim-government-removes-a-ban-on-political-party-activities.md)
 _Context: Thailand, ban, political party_
 
-##### Spain
+##### Spanish
 ### [ Spanish Basque separatist group ETA announces it will end its 15-month cease-fire tonight at midnight (CEST). ](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.md)
 ETA has said it will end its 15-month-old ceasefire at midnight tonight and has warned the Spanish government of new attacks.
 

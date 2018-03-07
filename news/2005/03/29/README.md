@@ -11,9 +11,9 @@ _Context: Kenya, ambassador, diplomat, embassy_
 ### [ Political activists in Mongolia demonstrate in Ulan Bator for new elections. ](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.md)
 _Context: Mongolia, Ulan Bator_
 
-##### Spain
+##### Spanish
 ### [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md)
-_Context: Hugo Chavez, Jose Luis Rodriguez Zapatero, Mariano Rajoy, Spain, Venezuela, warships_
+_Context: Hugo Chavez, Jose Luis Rodriguez Zapatero, Mariano Rajoy, Spanish, Venezuela, warships_
 
 ##### Brazil
 ### [ The leaders of Brazil, Venezuela, Colombia and Spain meet in Ciudad Guayana, Venezuela. They agree to resist drug trafficking, terrorism and poverty. ](/news/2005/03/29/the-leaders-of-brazil-venezuela-colombia-and-spain-meet-in-ciudad-guayana-venezuela-they-agree-to-resist-drug-trafficking-terrorism-an.md)

@@ -37,7 +37,7 @@ European Union governments backed a deal with the United States that would open 
 
 ##### Kinshasa
 ### [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md)
-_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassy, militia, presidential candidate in 2006, recently elected_
+_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spanish, United Nations, embassy, militia, presidential candidate in 2006, recently elected_
 
 ##### 2007 Zimbabwean political crisis
 ### [ 2007 Zimbabwean political crisis: The Roman Catholic Archbishop of Bulawayo Pius Ncube calls for mass protests to force President Robert Mugabe from power. ](/news/2007/03/22/2007-zimbabwean-political-crisis-the-roman-catholic-archbishop-of-bulawayo-pius-ncube-calls-for-mass-protests-to-force-president-robert-mu.md)

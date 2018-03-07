@@ -47,9 +47,9 @@ Research In Motion posted a net loss and its first slump in BlackBerry shipments
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
 _Context: 10 Downing Street, United Kingdom, petrol stations_
 
-##### Spain
+##### Spanish
 ### [Workers in Spain commence a general strike over government austerity measures. ](/news/2012/03/29/workers-in-spain-commence-a-general-strike-over-government-austerity-measures.md)
-_Context: Spain, general strike_
+_Context: Spanish, general strike_
 
 ##### Adrienne Rich
 ### [The death is announced of award-winning poet, essayist and public intellectual Adrienne Rich, credited with bringing the oppression of women and lesbians to the forefront of poetic discourse. ](/news/2012/03/29/the-death-is-announced-of-award-winning-poet-essayist-and-public-intellectual-adrienne-rich-credited-with-bringing-the-oppression-of-women.md)

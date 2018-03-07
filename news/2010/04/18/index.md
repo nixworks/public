@@ -7,9 +7,9 @@ Formats: [HTML](2010/04/18/index.html)  [JSON](2010/04/18/index.json)  [XML](201
 ### [A recently unearthed track by The Rolling Stones is released as a limited edition 7" single for Record Store Day. The first song recorded by Blur's original line-up since guitarist Graham Coxon quit in 2002 is also released for the same purpose. ](/news/2010/04/18/a-recently-unearthed-track-by-the-rolling-stones-is-released-as-a-limited-edition-7-single-for-record-store-day-the-first-song-recorded-by.md)
 _Context: Blur, Graham Coxon, Record Store Day, The Rolling Stones, first song recorded_
 
-##### Spain
+##### Spanish
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
-_Context: Milan, Placido Domingo, Spain, Teatro alla Scala, colorectal cancer_
+_Context: Milan, Placido Domingo, Spanish, Teatro alla Scala, colorectal cancer_
 
 ##### U.S. President
 ### [Former President of the United States George Washington owes $300,000 for overdue library books he borrowed from New York Society Library five months into his presidency and which he failed to return. ](/news/2010/04/18/former-president-of-the-united-states-george-washington-owes-300-000-for-overdue-library-books-he-borrowed-from-new-york-society-library-fi.md)

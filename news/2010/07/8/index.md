@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/8/index.html)  [JSON](2010/07/8/index.json)  [XML](2010/
 
 ##### Running of the Bulls
 ### [Two people are gored and five injured during the Running of the Bulls at the San Fermin festival in Spain. ](/news/2010/07/8/two-people-are-gored-and-five-injured-during-the-running-of-the-bulls-at-the-san-ferman-festival-in-spain.md)
-_Context: Running of the Bulls, San Fermin, Spain_
+_Context: Running of the Bulls, San Fermin, Spanish_
 
 ##### NBA
 ### [NBA free agent LeBron James announces in an hour-long TV special that he plans to sign with the Miami Heat for the upcoming season. ](/news/2010/07/8/nba-free-agent-lebron-james-announces-in-an-hour-long-tv-special-that-he-plans-to-sign-with-the-miami-heat-for-the-upcoming-season.md)

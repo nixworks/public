@@ -49,7 +49,7 @@ German unemployment falls to its lowest rate in December since 1991, official fi
 
 ##### Unemployment
 ### [Unemployment in Spain reaches a record high. ](/news/2012/01/3/unemployment-in-spain-reaches-a-record-high.md)
-_Context: Spain, Unemployment_
+_Context: Spanish, Unemployment_
 
 ##### Suicide bomber
 ### [A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md)

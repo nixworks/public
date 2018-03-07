@@ -17,7 +17,7 @@ North Korean leader Kim Jong Il is reported to be in failing health. North Korea
 
 ##### European Commission
 ### [ The European Commission predicts the U.K., Germany, and Spain 'to fall into recession'; the outlook for rest of the Eurozone is gloomy. ](/news/2008/09/10/the-european-commission-predicts-the-u-k-germany-and-spain-to-fall-into-recession-the-outlook-for-rest-of-the-eurozone-is-gloomy.md)
-_Context: European Commission, Eurozone, German, Spain, U.K._
+_Context: European Commission, Eurozone, German, Spanish, U.K._
 
 ##### U.S.
 ### [ U.S.-based financial services company Lehman Brothers announces a third-quarter loss of $4.9 billion and plans to sell assets. ](/news/2008/09/10/u-s-based-financial-services-company-lehman-brothers-announces-a-third-quarter-loss-of-4-9-billion-and-plans-to-sell-assets.md)

@@ -27,7 +27,7 @@ _Context: FBI, Holland Tunnel, Lower Manhattan, plot to bomb_
 ### [ Iran's president, Mahmoud Ahmadinejad, warns of an "explosion" in the Islamic world and it would target Israel and its supporters in the Western world, if Israel doesn't cease its activity in the Gaza Strip. Ahmadinejad said during a rally in Tehran that, "This (Israel) is a fake regime ... it won't be able to survive. I think the only way (forward) is that those who created it (the West) take it away themselves." ](/news/2006/07/7/iran-s-president-mahmoud-ahmadinejad-warns-of-an-explosion-in-the-islamic-world-and-it-would-target-israel-and-its-supporters-in-the-we.md)
 _Context: Islam, Israel, Mahmoud Ahmadinejad, Operation Summer Rains, Tehran, Westerners_
 
-##### Spain
+##### Spanish
 ### [ Spain has had its first case of H5N1 bird flu, a laboratory has confirmed. The country has forbidden the transport within a 3 km, 1.8 mi, zone around where the virus was found. ](/news/2006/07/7/spain-has-had-its-first-case-of-h5n1-bird-flu-a-laboratory-has-confirmed-the-country-has-forbidden-the-transport-within-a-3-km-1-8-mi-z.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

@@ -23,9 +23,9 @@ _Context: Italy, Turin Caselle Airport, pilot_
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)
 Two groups in eastern city of Derna announce they will lay down arms, as Tripoli bans all non-state-sanctioned militias.
 
-##### United States of America
+##### American
 ### [Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. ](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-america-deny-visas-to-20-out-of-160-iranian-officials-of-which-two-are-ministers-impeaching.md)
-_Context: Iran, New York City, United Nations General Assembly, United States of America, visa-free travel_
+_Context: American, Iran, New York City, United Nations General Assembly, visa-free travel_
 
 ##### Iran
 ### [Iran blocks use of the Google search engine, as it prepares to switch its citizens to a domestic internet network. ](/news/2012/09/23/iran-blocks-use-of-the-google-search-engine-as-it-prepares-to-switch-its-citizens-to-a-domestic-internet-network.md)

@@ -25,7 +25,7 @@ _Context: Guillaume Soro, Prime Minister of Ivory Coast_
 
 ##### Fossil
 ### [ Spanish scientists find fossil evidence of humans living in Europe over a million years ago in Burgos, Spain. ](/news/2007/06/29/spanish-scientists-find-fossil-evidence-of-humans-living-in-europe-over-a-million-years-ago-in-burgos-spain.md)
-_Context: Burgos, Europe, Spain, fossil_
+_Context: Burgos, Europe, Spanish, fossil_
 
 ##### European Pressurized Reactor
 ### [ The EPR nuclear power plant, under construction in Finland and 18 months behind schedule, is reported as having a number of safety-related design and manufacturing "deficiencies." ](/news/2007/06/29/the-epr-nuclear-power-plant-under-construction-in-finland-and-18-months-behind-schedule-is-reported-as-having-a-number-of-safety-related.md)

@@ -9,7 +9,7 @@ _Context: 2008 UEFA Cup, Rangers F.C., Russia, Scotland, Zenit St Petersburg, as
 
 ##### Car bomb
 ### [ A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. ](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-in-the-town-of-legutiano-in-the-basque-country-of-spain-killing-at-least-one-person-and-inju.md)
-_Context: Basque, Legutiano, Spain, barracks, car bomb_
+_Context: Basque, Legutiano, Spanish, barracks, car bomb_
 
 ##### Cyclone Nargis
 ### [ The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md)

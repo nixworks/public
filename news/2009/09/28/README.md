@@ -27,9 +27,9 @@ _Context: Kim Jong-il, North Korea, communism, constitution, human rights_
 ### [ Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 "Mural". ](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impressionist-jackson-pollock-camouflaged-his-signature-as-a-hidden-message-inside-his-famous-1.md)
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.
 
-##### Spain
+##### Spanish
 ### [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md)
-_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spain_
+_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spanish_
 
 ##### G20
 ### [ A police officer who served at the G20 demonstrations in London in April 2009 is to face a charge of assaulting a woman with a baton after becoming involved in a confrontation at a vigil for Ian Tomlinson. ](/news/2009/09/28/a-police-officer-who-served-at-the-g20-demonstrations-in-london-in-april-2009-is-to-face-a-charge-of-assaulting-a-woman-with-a-baton-after.md)

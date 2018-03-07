@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/4/index.html)  [JSON](2006/11/4/index.json)  [XML](2006/
 ### [ Fijian Prime Minister Laisenia Qarase drops amnesty provisions for the leaders of the 2000 coup after threats from the military to remove him from office. ](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.md)
 _Context: 2000 coup, Fiji, Laisenia Qarase, Prime Minister, military government_
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [ The United Nations High Commissioner for Refugees says that the humanitarian crisis in Iraq is greater than at the beginning of the war on Iraq with 1.6 million Iraqis displaced internally and 1.8 million in overseas countries. ](/news/2006/11/4/the-united-nations-high-commissioner-for-refugees-says-that-the-humanitarian-crisis-in-iraq-is-greater-than-at-the-beginning-of-the-war-on.md)
-_Context: Iraq, United Nations High Commissioner for Refugees, war on Iraq_
+_Context: Iraq, UN Refugee Agency, war on Iraq_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)

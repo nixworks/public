@@ -25,7 +25,7 @@ _Context: Guinea, November's presidential poll, states of emergency_
 
 ##### Republican
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democrat, John Boehner, Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, United States House of Representatives, caucus_
+_Context: Democrat, John Boehner, Minority Leader, Nancy Pelosi, Republican, Speaker of the House, United States House of Representatives, caucus_
 
 ##### Cook Islands
 ### [People in the Pacific island nation of Cook Islands go to the polls for the general election as well as a referendum on reducing the number of MPs. ](/news/2010/11/17/people-in-the-pacific-island-nation-of-cook-islands-go-to-the-polls-for-the-general-election-as-well-as-a-referendum-on-reducing-the-number.md)

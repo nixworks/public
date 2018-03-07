@@ -7,9 +7,9 @@ Formats: [HTML](2018/03/6/index.html)  [JSON](2018/03/6/index.json)  [XML](2018/
 ### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
 _Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
-##### National Economic Council
+##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces he is resigning. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-he-is-resigning.md)
-_Context: Gary Cohn, National Economic Council_
+_Context: Gary Cohn, National Economic Council, Presidency of Donald Trump_
 
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
@@ -26,6 +26,10 @@ North Korean leader Kim Jong Un promised to not use nuclear or conventional weap
 ##### 2018 Antonov An-26 crash
 ### [A Russian Antonov An-26 transport plane crashes during an attempted landing at Khmeimim Air Base in Latakia, Syria, killing all 39 people onboard. ](/news/2018/03/6/a-russian-antonov-an-26-transport-plane-crashes-during-an-attempted-landing-at-khmeimim-air-base-in-latakia-syria-killing-all-39-people-on.md)
 _Context: 2018 Antonov An-26 crash, Antonov An-26, Khmeimim Air Base, Latakia, Russia, Syria_
+
+##### 2018 anti-Muslim riots in Kandy, Sri Lanka
+### [Sri Lanka imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a Sinhalese Buddhist mob attack on Sri Lankan Muslim shops in the region of Kandy, Central Province, left a Muslim person dead. ](/news/2018/03/6/sri-lanka-imposes-a-nationwide-10-day-state-of-emergency-the-first-since-2011-in-an-effort-to-calm-communal-tensions-the-previous-day-a.md)
+Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to stop the spread of communal violence, a government spokesman said, after clashes erupted between majority Buddhists and members of the minority Muslim community.
 
 ##### Kamwina Nsapu rebellion
 ### [The UN Refugee Agency reports that more than 900,000 people have been displaced by the ongoing fighting in the central provinces of DR Congo between militias and government forces since 2016. ](/news/2018/03/6/the-un-refugee-agency-reports-that-more-than-900-000-people-have-been-displaced-by-the-ongoing-fighting-in-the-central-provinces-of-dr-congo.md)

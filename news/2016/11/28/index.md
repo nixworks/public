@@ -55,7 +55,7 @@ _Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee, Grea
 ### [A Canadian pilot is killed when his CF-18 fighter jet crashes near an army facility in Cold Lake, Alberta. ](/news/2016/11/28/a-canadian-pilot-is-killed-when-his-cf-18-fighter-jet-crashes-near-an-army-facility-in-cold-lake-alberta.md)
 A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near an army facility in Cold Lake, northeast of Edmonton.
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state. ](/news/2016/11/28/three-unhcr-workers-one-from-sudan-and-two-from-nepal-are-kidnapped-by-unidentified-gunmen-in-geneina-the-capital-of-the-west-darfur-st.md)
 Two Nepalese and one Sudanese UN staff taken to an unknown location by unidentified gunmen.
 

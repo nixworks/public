@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/8/index.html)  [JSON](2015/10/8/index.json)  [XML](2015/
 
 ##### United States House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: John Boehner, Kevin McCarthy, Majority Leader, Speaker of the United States House of Representatives election, October 2015, U.S. Speaker of the House of Representatives, United States House of Representatives_
+_Context: John Boehner, Kevin McCarthy, Majority Leader, Speaker of the House, Speaker of the United States House of Representatives election, October 2015, United States House of Representatives_
 
 ##### European migrant crisis
 ### [The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migrants-back-to-austria-and-c.md)

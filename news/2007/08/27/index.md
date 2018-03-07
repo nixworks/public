@@ -13,7 +13,7 @@ Polluters along two of China&#039;s main rivers have defied years of clean-up ef
 
 ##### Vatican City
 ### [ The Vatican establishes a low cost charter flight service to Catholic shrines in France, Poland, Spain and the Middle East for pilgrims. ](/news/2007/08/27/the-vatican-establishes-a-low-cost-charter-flight-service-to-catholic-shrines-in-france-poland-spain-and-the-middle-east-for-pilgrims.md)
-_Context: Catholic, France, Middle East, Poland, Spain, Vatican City, charter flight, pilgrim, shrine_
+_Context: Catholic, France, Middle East, Poland, Spanish, Vatican City, charter flight, pilgrim, shrine_
 
 ##### Jebel Ali
 ### [ A fire breaks out at the Jebel Ali port in the United Arab Emirates, triggering explosions at a chemical storage depot. ](/news/2007/08/27/a-fire-breaks-out-at-the-jebel-ali-port-in-the-united-arab-emirates-triggering-explosions-at-a-chemical-storage-depot.md)

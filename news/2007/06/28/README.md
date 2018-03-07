@@ -37,7 +37,7 @@ _Context: Alan Johnson, Alistair Darling, Attorney General, Baroness Ashton, Bar
 
 ##### Italy
 ### [ An Italian man is arrested in Spain on suspicion of bribery in connection with the kidnapping of Madeleine McCann. ](/news/2007/06/28/an-italian-man-is-arrested-in-spain-on-suspicion-of-bribery-in-connection-with-the-kidnapping-of-madeleine-mccann.md)
-_Context: Italy, Madeleine McCann, Spain, bribes_
+_Context: Italy, Madeleine McCann, Spanish, bribes_
 
 ##### Libya
 ### [ Former Libyan intelligence agent Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103, wins a case for an appeal in the Scottish Criminal Cases Review Commission. ](/news/2007/06/28/former-libyan-intelligence-agent-abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-wins-a-case-for-an-appeal-in-the-sco.md)

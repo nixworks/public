@@ -67,7 +67,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 ### [An investigation by "The Independent" uncovers the first evidence of a UK-based rendition recruitment drive, free of American involvement, suggesting MI5 was directly involved in the 2004 "illegal" transfer of a Moroccan national from a Belgian prison to London. ](/news/2010/07/23/an-investigation-by-the-independent-uncovers-the-first-evidence-of-a-uk-based-rendition-recruitment-drive-free-of-american-involvement-s.md)
 MI5 was directly involved in the rendition of a Moroccan national, illegally taken from a Belgian prison to work for Britain&#039;s Security Services in London, an investigation by The Independent has discovered.
 
-##### Spain
+##### Spanish
 ### [Two Spaniards and a journalist sue Prime Minister of Israel Benjamin Netanyahu, plus other Israeli ministers and officials, as a result of the Gaza flotilla raid. ](/news/2010/07/23/two-spaniards-and-a-journalist-sue-prime-minister-of-israel-benjamin-netanyahu-plus-other-israeli-ministers-and-officials-as-a-result-of-t.md)
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 

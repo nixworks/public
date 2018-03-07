@@ -25,7 +25,7 @@ _Context: Nawaz Sharif_
 
 ##### United Kingdom
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
-_Context: Costa Blanca, Spain, United Kingdom_
+_Context: Costa Blanca, Spanish, United Kingdom_
 
 ##### Valley Springs, California
 ### [A 12-year-old boy is arrested in connection to the April 27 Valley Springs, California, United States stabbing of his 8-year-old sister. ](/news/2013/05/12/a-12-year-old-boy-is-arrested-in-connection-to-the-april-27-valley-springs-california-united-states-stabbing-of-his-8-year-old-sister.md)

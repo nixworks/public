@@ -9,7 +9,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 
 ##### Roman Catholic Church
 ### [The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. ](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.md)
-_Context: Cuba, Roman Catholic Church, Spain, political prisoner_
+_Context: Cuba, Roman Catholic Church, Spanish, political prisoner_
 
 ##### Tunisia
 ### [One person is killed after security forces open fire on protesters in Bouziane, Tunisia. ](/news/2010/12/24/one-person-is-killed-after-security-forces-open-fire-on-protesters-in-bouziane-tunisia.md)

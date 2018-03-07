@@ -71,7 +71,7 @@ _Context: Car Allowance Rebate System, United States House of Representatives_
 ### [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-before.md)
 _Context: National Assembly, Venezuela, freedom of speech_
 
-##### Spain
+##### Spanish
 ### [ Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 

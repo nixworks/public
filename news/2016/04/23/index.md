@@ -75,7 +75,7 @@ _Context: Caspian Sea, Russia, Turkmenistan, oil tanker_
 ### [Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-later-tonight.md)
 _Context: 2015-16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
 
-##### Spain
+##### Spanish
 ### [Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes. ](/news/2016/04/23/spain-commemorates-the-400th-anniversary-of-the-death-of-its-most-famous-author-miguel-de-cervantes.md)
 Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death&#x20;of&#x20;its&#x20;most&#x20;famous&#x20;author&#x20;Miguel&#x20;de&#x20;Cervantes&#x20;this&#x20;week&#x20;with&#x20;hundreds&#x20;of&#x20;events&#x20;ranging&#x20;from&#x20;cultural&#x20;to&#x20;quirky...and&#x20;a...
 

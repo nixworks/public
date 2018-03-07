@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-a
 
 ### [2012-09-23](/news/2012/09/23/index.md)
 
-##### United States of America
+##### American
 # Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. 
 
 

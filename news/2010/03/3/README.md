@@ -31,9 +31,9 @@ Five Italians and two Iranians arrested for suspected weapons trafficking to Ira
 ### [5 police officials in Chiniot, Punjab, are detained after footage of them whipping people in their custody are broadcast across national television channels. ](/news/2010/03/3/5-police-officials-in-chiniot-punjab-are-detained-after-footage-of-them-whipping-people-in-their-custody-are-broadcast-across-national-tel.md)
 _Context: Chiniot, Punjab_
 
-##### Spain
+##### Spanish
 ### [Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. ](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.md)
-_Context: ETA, Spain, Venezuela_
+_Context: ETA, Spanish, Venezuela_
 
 ##### President
 ### [President of Nigeria Umaru Yar'Adua does not attend a cabinet meeting in Abuja after his arrival home from medical treatment in Saudi Arabia. Acting President Goodluck Jonathan chairs instead. ](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.md)

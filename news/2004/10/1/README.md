@@ -5,7 +5,7 @@ Formats: [HTML](2004/10/1/index.html)  [JSON](2004/10/1/index.json)  [XML](2004/
 
 ##### Same-sex marriage
 ### [ Same-sex marriage debates: The cabinet of Spanish Prime Minister Jos Luis Rodrguez Zapatero approves a bill to legalize same-sex marriage; the government believes that the bill will pass the full parliament. ](/news/2004/10/1/same-sex-marriage-debates-the-cabinet-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-approves-a-bill-to-legalize-same-sex-marriage.md)
-_Context: Jos Luis Rodrguez Zapatero, Spain, forming a government, same-sex marriage, same-sex marriage_
+_Context: Jos Luis Rodrguez Zapatero, Spanish, forming a government, same-sex marriage, same-sex marriage_
 
 ##### Samarra
 ### [ U.S. and Iraqi government forces attack the insurgent-held city of Samarra in northern Iraq. U.S. officials say over 100 militants were killed and 37 were captured, while local doctors say at least 80 people died, and 100 were wounded, including civilians. ](/news/2004/10/1/u-s-and-iraqi-government-forces-attack-the-insurgent-held-city-of-samarra-in-northern-iraq-u-s-officials-say-over-100-militants-were-kil.md)

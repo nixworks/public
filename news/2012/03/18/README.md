@@ -61,7 +61,7 @@ _Context: Canadians, London, Ontario_
 
 ##### Don Benito
 ### [Three people are killed in a shooting incident in the city of Don Benito, Spain. ](/news/2012/03/18/three-people-are-killed-in-a-shooting-incident-in-the-city-of-don-benito-spain.md)
-_Context: Don Benito, Spain_
+_Context: Don Benito, Spanish_
 
 ## [Previous Day...](/news/2012/03/17/index.md)
 

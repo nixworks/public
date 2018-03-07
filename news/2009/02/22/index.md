@@ -49,7 +49,7 @@ A bomb killed a French teenager and wounded at least 20 other people in a crowde
 
 ##### Slumdog Millionaire
 ### [ "Slumdog Millionaire" wins eight Academy Awards, including Best Picture and Director for Danny Boyle. Sean Penn wins Best Actor for "Milk" and Kate Winslet wins Best Actress for "The Reader". ](/news/2009/02/22/slumdog-millionaire-wins-eight-academy-awards-including-best-picture-and-director-for-danny-boyle-sean-penn-wins-best-actor-for-milk.md)
-_Context: Academy Award, Academy Award for Best Actor, Academy Award for Best Director, Academy Award for Best Picture, Academy Awards, Danny Boyle, Kate Winslet, Milk, Sean Penn, Slumdog Millionaire, The Reader_
+_Context: Academy Award, Academy Award for Best Actor, Academy Award for Best Director, Academy Awards, Best Picture, Danny Boyle, Kate Winslet, Milk, Sean Penn, Slumdog Millionaire, The Reader_
 
 ## [Previous Day...](/news/2009/02/21/index.md)
 

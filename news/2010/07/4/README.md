@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/4/index.html)  [JSON](2010/07/4/index.json)  [XML](2010/
 
 ##### Rafael Nadal
 ### [Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. ](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.md)
-_Context: 2010 Wimbledon Championships, Rafael Nadal, Spain, men's singles titles_
+_Context: 2010 Wimbledon Championships, Rafael Nadal, Spanish, men's singles titles_
 
 ##### State
 ### [In a referendum, voters in the German state of Bavaria vote to ban smoking at all pubs and restaurants. ](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.md)

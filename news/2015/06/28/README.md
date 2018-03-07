@@ -21,7 +21,7 @@ Convicted murderer and escaped inmate David Sweat was shot near the Canadian bor
 
 ##### Diphtheria
 ### [A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. ](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-have-him-vaccinated-dies-of-diphtheria-the-first-case-in-spain-since-1987.md)
-_Context: Spain, diphtheria_
+_Context: Spanish, diphtheria_
 
 ##### Recent MERS outbreak
 ### [The number of deaths from MERS in South Korea rises to 32, with the number of cases stabilizing at 182. ](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.md)

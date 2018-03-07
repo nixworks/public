@@ -19,9 +19,9 @@ _Context: Egypt, Gaza Strip, Muslim Brotherhood_
 ### [China defends its censorship of the internet in a document laying out the government's attitude towards the web. ](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.md)
 _Context: China, blocks mentions_
 
-##### Spain
+##### Spanish
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
-_Context: Spain_
+_Context: Spanish_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)

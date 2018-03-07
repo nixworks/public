@@ -17,7 +17,7 @@ _Context: Argentina, Buenos Aires, Dolores, Mar del Plata_
 
 ##### Socialist Workers' Party
 ### [ The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. ](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.md)
-_Context: People's Party, Socialist Workers' Party, Spain, general election_
+_Context: People's Party, Socialist Workers' Party, Spanish, general election_
 
 ##### France
 ### [ French voters go to the polls for the municipal elections. ](/news/2008/03/9/french-voters-go-to-the-polls-for-the-municipal-elections.md)

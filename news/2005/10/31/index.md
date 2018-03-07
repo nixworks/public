@@ -9,9 +9,9 @@ _Context: Aceh, Bakhtiar Abdullah, GAM, Indonesia_
 
 ##### Infanta Leonor
 ### [ Infanta Leonor of Spain, second in the succession line to the Spanish throne, is born in Madrid at 01:46 AM, local time. ](/news/2005/10/31/infanta-leonor-of-spain-second-in-the-succession-line-to-the-spanish-throne-is-born-in-madrid-at-01-46-am-local-time.md)
-_Context: Infanta Leonor, Madrid, Spain, succession line to the Spanish throne_
+_Context: Infanta Leonor, Madrid, Spanish, succession line to the Spanish throne_
 
-##### Spain
+##### Spanish
 ### [ The Spanish telco Telefnica announces a GBP18 billion deal to buy the British mobile network operator O2 plc. ](/news/2005/10/31/the-spanish-telco-telefonica-announces-a-gbp18-billion-deal-to-buy-the-british-mobile-network-operator-o2-plc.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

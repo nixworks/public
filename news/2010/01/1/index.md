@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/1/index.html)  [JSON](2010/01/1/index.json)  [XML](2010/
 
 ## [2010-01-1](/news/2010/01/1/index.md)
 
-##### Spain
+##### Spanish
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
-_Context: Council of the European Union, European Union, Spain, Sweden, the Council of_
+_Context: Council of the European Union, European Union, Spanish, Sweden, the Council of_
 
 ##### North Korea
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)

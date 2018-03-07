@@ -67,9 +67,9 @@ _Context: ASEAN, Burma_
 ### [Samoa announces that it will switch time zones. ](/news/2011/05/6/samoa-announces-that-it-will-switch-time-zones.md)
 _Context: Samoa, time zone_
 
-##### Spain
+##### Spanish
 ### [Spanish maritime rescue services look for 22 would-be immigrants missing after their boat capsized south of Spain. ](/news/2011/05/6/spanish-maritime-rescue-services-look-for-22-would-be-immigrants-missing-after-their-boat-capsized-south-of-spain.md)
-_Context: Spain_
+_Context: Spanish_
 
 ##### Sabinas
 ### [Rescuers recover a seventh body from inside a coal mine near Sabinas, Mexico, more than three days after an explosion there; seven remaining miners trapped inside are presumed dead. ](/news/2011/05/6/rescuers-recover-a-seventh-body-from-inside-a-coal-mine-near-sabinas-mexico-more-than-three-days-after-an-explosion-there-seven-remaining.md)

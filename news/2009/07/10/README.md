@@ -21,7 +21,7 @@ _Context: Iran_
 
 ##### Running of the Bulls
 ### [ One person is killed by a bull, (the third fatality since 1980), during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-third-fatality-since-1980-during-the-running-of-the-bulls-in-pamplona-spain.md)
-_Context: Pamplona, Running of the Bulls, Spain_
+_Context: Pamplona, Running of the Bulls, Spanish_
 
 ##### Earthquake
 ### [ More than 400,000 people are evacuated following an earthquake in Yunnan, China. ](/news/2009/07/10/more-than-400-000-people-are-evacuated-following-an-earthquake-in-yunnan-china.md)

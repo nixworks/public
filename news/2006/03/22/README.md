@@ -13,7 +13,7 @@ _Context: Martial arts, Shaolin Temple, Vladimir Putin, state visit_
 
 ##### Basque
 ### [ Basque separatist group ETA announce a permanent ceasefire to their 38-year campaign for independence from Spain, which has cost over 800 lives. ](/news/2006/03/22/basque-separatist-group-eta-announce-a-permanent-ceasefire-to-their-38-year-campaign-for-independence-from-spain-which-has-cost-over-800-l.md)
-_Context: Basque, ETA, Spain_
+_Context: Basque, ETA, Spanish_
 
 ##### MV ''Queen of the North''
 ### [ The MV "Queen of the North", a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks. All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after-mi.md)

@@ -16,7 +16,7 @@ If true, Mokhtar Belmokhtar’s claim would put one of the Sahel’s most harden
 
 ### Related:
 
-1. [ISIL releases purported footage of an October 2017 attack on American special forces in Tongo Tongo, Niger. ](/news/2018/03/5/isil-releases-purported-footage-of-an-october-2017-attack-on-american-special-forces-in-tongo-tongo-niger.md) _Context: Niger_
+1. [ISIL releases purported footage of the October 2017 attack on American special forces in Tongo Tongo, Niger. ](/news/2018/03/5/isil-releases-purported-footage-of-the-october-2017-attack-on-american-special-forces-in-tongo-tongo-niger.md) _Context: Niger_
 2. [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md) _Context: suicide bombing_
 3. [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md) _Context: suicide bombing_
 4. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Niger_

@@ -15,9 +15,9 @@ _Context: Mr Gay China_
 ### [In the Kamsar area, north of Muzaffarabad, Kashmir, a Chinese road-building firm digs up a van containing 17 decomposed corpses which went missing during a 2005 earthquake. ](/news/2010/01/15/in-the-kamsar-area-north-of-muzaffarabad-kashmir-a-chinese-road-building-firm-digs-up-a-van-containing-17-decomposed-corpses-which-went-m.md)
 _Context: 2005 Kashmir earthquake, Kamsar, Kashmir, Muzaffarabad_
 
-##### Spain
+##### Spanish
 ### [Spain's government sees a video showing three aid workers who have been held hostage by Al-Qaeda in Mali since November 2009. ](/news/2010/01/15/spain-s-government-sees-a-video-showing-three-aid-workers-who-have-been-held-hostage-by-al-qaeda-in-mali-since-november-2009.md)
-_Context: Mali, Spain, al-Qaeda_
+_Context: Mali, Spanish, al-Qaeda_
 
 ##### Sundumbili
 ### [23 security guards are detained after clashing over the care of a taxi rank in Sundumbili, KwaZulu-Natal. ](/news/2010/01/15/23-security-guards-are-detained-after-clashing-over-the-care-of-a-taxi-rank-in-sundumbili-kwazulu-natal.md)

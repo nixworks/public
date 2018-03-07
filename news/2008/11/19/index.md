@@ -9,7 +9,7 @@ _Context: Interplanetary Internet, NASA, communications protocol, space_
 
 ##### Trachea
 ### [ The first successful trachea transplant using a tissue-engineered organ is performed in Spain. ](/news/2008/11/19/the-first-successful-trachea-transplant-using-a-tissue-engineered-organ-is-performed-in-spain.md)
-_Context: Spain, tissue-engineered organ, trachea, transplant_
+_Context: Spanish, tissue-engineered organ, trachea, transplant_
 
 ##### John Key
 ### [ John Key is officially sworn in as the Prime Minister of New Zealand by Governor-General Anand Satyanand. ](/news/2008/11/19/john-key-is-officially-sworn-in-as-the-prime-minister-of-new-zealand-by-governor-general-anand-satyanand.md)

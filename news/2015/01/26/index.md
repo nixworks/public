@@ -29,7 +29,7 @@ _Context: UAV, United States Secret Service, White House_
 
 ##### F-16
 ### [An F-16 jet belonging to the Hellenic Air Force crashes in southern Spain during a NATO exercise, killing ten people and injuring 21. ](/news/2015/01/26/an-f-16-jet-belonging-to-the-hellenic-air-force-crashes-in-southern-spain-during-a-nato-exercise-killing-ten-people-and-injuring-21.md)
-_Context: F-16, Hellenic Air Force, January 26 crash, NATO, Spain_
+_Context: F-16, Hellenic Air Force, January 26 crash, NATO, Spanish_
 
 ##### January 2015 nor'easter
 ### [The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-through-new-york-and-new-e.md)

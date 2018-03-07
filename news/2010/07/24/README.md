@@ -27,7 +27,7 @@ _Context: Iran, Israel, United States, United States House of Representatives_
 ### [An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. ](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.md)
 _Context: U.S. military, child pornography_
 
-##### Spain
+##### Spanish
 ### [Two Spanish activists and a journalist arrested in an Israeli raid on a Gaza-bound flotilla file charges against Israel's prime minister Benjamin Netanyahu. ](/news/2010/07/24/two-spanish-activists-and-a-journalist-arrested-in-an-israeli-raid-on-a-gaza-bound-flotilla-file-charges-against-israel-s-prime-minister-ben.md)
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 

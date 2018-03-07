@@ -25,7 +25,7 @@ _Context: Asian Cup, Iraq, Saudi Arabia_
 
 ##### Alberto Contador
 ### [ Alberto Contador of Spain wins the 2007 Tour de France with Cadel Evans of Australia finishing second and Levi Leipheimer of the United States finishing third. ](/news/2007/07/29/alberto-contador-of-spain-wins-the-2007-tour-de-france-with-cadel-evans-of-australia-finishing-second-and-levi-leipheimer-of-the-united-sta.md)
-_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France, United States_
+_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spanish, Tour de France, United States_
 
 ##### Brazil
 ### [ Approximately 5,000 Brazilians demonstrate in So Paulo over the recent crash of TAM Linhas Areas Flight 3054. ](/news/2007/07/29/approximately-5-000-brazilians-demonstrate-in-sao-paulo-over-the-recent-crash-of-tam-linhas-aereas-flight-3054.md)

@@ -61,7 +61,7 @@ SINGAPORE and Malaysia announced that they will build a high-speed rail link bet
 
 ##### European sovereign-debt crisis
 ### [European sovereign-debt crisis: Workers for the Spanish flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
-_Context: European sovereign-debt crisis, Iberia, Spain, airline, flag carrier_
+_Context: European sovereign-debt crisis, Iberia, Spanish, airline, flag carrier_
 
 ##### Country Club Plaza
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)

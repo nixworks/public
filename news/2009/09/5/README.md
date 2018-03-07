@@ -13,7 +13,7 @@ Hundreds of people clashed in Birmingham city centre yesterday as right-wing pro
 
 ##### Venezuela
 ### [ Thousands of people attend rival demonstrations for or against the policies of Venezuelan President Hugo Chvez in Venezuela, Spain, Honduras and in other Latin American capitals. ](/news/2009/09/5/thousands-of-people-attend-rival-demonstrations-for-or-against-the-policies-of-venezuelan-president-hugo-chavez-in-venezuela-spain-hondur.md)
-_Context: Honduras, Hugo Chvez, President, Spain, Venezuela_
+_Context: Honduras, Hugo Chvez, President, Spanish, Venezuela_
 
 ##### Libya
 ### [ An oil deal and trade concerns with Libya were at one point considered as factors in the Lockerbie bomber's release, British Justice Secretary Jack Straw says in an interview. ](/news/2009/09/5/an-oil-deal-and-trade-concerns-with-libya-were-at-one-point-considered-as-factors-in-the-lockerbie-bomber-s-release-british-justice-secret.md)

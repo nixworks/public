@@ -57,7 +57,7 @@ A NUMBER of people have been attacked and stabbed in Brussels city centre.
 
 ##### Syrian Civil War
 ### [According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. ](/news/2017/03/30/according-to-the-united-nations-high-commissioner-for-refugees-the-total-number-of-refugees-from-syria-reaches-over-five-million.md)
-_Context: Syrian Civil War, United Nations High Commissioner for Refugees, refugees from Syria_
+_Context: Syrian Civil War, UN Refugee Agency, refugees from Syria_
 
 ## [Previous Day...](/news/2017/03/29/index.md)
 

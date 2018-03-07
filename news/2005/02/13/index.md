@@ -13,7 +13,7 @@ _Context: 1917, Fatima, Lucia de Jesus Santos, Nun, Portugal, Virgin Mary, appea
 
 ##### Windsor Tower
 ### [ Windsor Tower in central Madrid, Spain, one of the most prominent buildings in the city, is destroyed in a dramatic fire starting around 23:30 of February 12, Madrid time. Part of the building has been empty for renovations since 2003, but it still held offices for Deloitte & Touche. The Mayor of Madrid says that it is a critical situation and the building may collapse. The cause of the fire is not yet known, but a short-circuit on the 21st floor is suspected. ](/news/2005/02/13/windsor-tower-in-central-madrid-spain-one-of-the-most-prominent-buildings-in-the-city-is-destroyed-in-a-dramatic-fire-starting-around-23.md)
-_Context: Deloitte & Touche, February 12, Mayor of Madrid, Spain, Windsor Tower, central Madrid, time zone_
+_Context: Deloitte & Touche, February 12, Mayor of Madrid, Spanish, Windsor Tower, central Madrid, time zone_
 
 ##### Aftershock
 ### [ Two strong aftershocks strike tsunami-devastated Aceh, Indonesia, leading to some panic. ](/news/2005/02/13/two-strong-aftershocks-strike-tsunami-devastated-aceh-indonesia-leading-to-some-panic.md)

@@ -59,9 +59,9 @@ _Context: A$, Australia, Australia-China relations, China, Julia Gillard, Prime 
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
 _Context: Asia, Boao, Boao Forum for Asia, China, Chinese President, Hainan, Xi Jinping, entrepreneur_
 
-##### Spain
+##### Spanish
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)
-_Context: Madrid, Sara Montiel, Spain_
+_Context: Madrid, Sara Montiel, Spanish_
 
 ##### Annette Funicello
 ### [American actress Annette Funicello dies at the age of 70. ](/news/2013/04/8/american-actress-annette-funicello-dies-at-the-age-of-70.md)

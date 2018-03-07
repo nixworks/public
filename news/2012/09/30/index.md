@@ -11,9 +11,9 @@ _Context: Bo Guagua, Bo Xilai, China_
 ### [Nippon Steel & Sumitomo Metal Corporation's stock debuts on the Tokyo Stock Exchange. The formal merger of Nippon Steel and Sumitomo Metal Industries creates the world's second-largest steelmaker. ](/news/2012/09/30/nippon-steel-sumitomo-metal-corporation-s-stock-debuts-on-the-tokyo-stock-exchange-the-formal-merger-of-nippon-steel-and-sumitomo-metal-i.md)
 _Context: Nippon Steel, Sumitomo Metal Industries, Tokyo Stock Exchange, second-largest steelmaker_
 
-##### Spain
+##### Spanish
 ### [Spain's government says it expects debt levels to increase next year. ](/news/2012/09/30/spain-s-government-says-it-expects-debt-levels-to-increase-next-year.md)
-_Context: Spain_
+_Context: Spanish_
 
 ##### George Michael
 ### [Singer George Michael cancels the Australian leg of his tour due to "major anxiety", resulting from his recovery from life-threatening pneumonia last November. ](/news/2012/09/30/singer-george-michael-cancels-the-australian-leg-of-his-tour-due-to-major-anxiety-resulting-from-his-recovery-from-life-threatening-pneum.md)

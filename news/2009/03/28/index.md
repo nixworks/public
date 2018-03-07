@@ -3,7 +3,7 @@ Formats: [HTML](2009/03/28/index.html)  [JSON](2009/03/28/index.json)  [XML](200
 
 ## [2009-03-28](/news/2009/03/28/index.md)
 
-##### Spain
+##### Spanish
 ### [ Spain's Central Court of Instruction will investigate whether former United States Attorney General Alberto Gonzales and five other American officials violated international law by justifying torture. ](/news/2009/03/28/spain-s-central-court-of-instruction-will-investigate-whether-former-united-states-attorney-general-alberto-gonzales-and-five-other-america.md)
 A case that could lead to arrest warrants will examine whether officials wrongly contrived a legal framework that led to abuses of prisoners at Guantánamo Bay, Cuba.
 

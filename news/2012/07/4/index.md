@@ -27,9 +27,9 @@ _Context: Shifang, copper_
 ### [Hundreds of protesters clash with police in the Ukrainian capital Kiev and the parliament speaker offers to resign over moves to boost the status of the Russian language in the country. ](/news/2012/07/4/hundreds-of-protesters-clash-with-police-in-the-ukrainian-capital-kiev-and-the-parliament-speaker-offers-to-resign-over-moves-to-boost-the-s.md)
 Hundreds clash with police in central Kiev and parliament speaker offers to resign amid row over language decision.
 
-##### Spain
+##### Spanish
 ### [Spain's national court opens a criminal investigation into last year's listing of Bankia SA on the stock market, with former chairman Rodrigo Rato and 32 others listed as suspects. ](/news/2012/07/4/spain-s-national-court-opens-a-criminal-investigation-into-last-year-s-listing-of-bankia-sa-on-the-stock-market-with-former-chairman-rodrig.md)
-_Context: Bankia, Rodrigo Rato, Spain_
+_Context: Bankia, Rodrigo Rato, Spanish_
 
 ##### Qatar
 ### [The Qatari-owned satellite channel, Al Jazeera, reports that traces of radioactive polonium-210 have been found in some personal effects of former PLO Chairman Yasser Arafat, who died in 2004; the PLO and Arafat's widow agree to his exhumation to investigate if he had been poisoned. ](/news/2012/07/4/the-qatari-owned-satellite-channel-al-jazeera-reports-that-traces-of-radioactive-polonium-210-have-been-found-in-some-personal-effects-of.md)

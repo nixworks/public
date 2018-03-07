@@ -25,7 +25,7 @@ _Context: China, Shenzhou 6, manned launch_
 
 ##### ABC
 ### [ ABC investigative reporter Brian Ross reports that security at nuclear reactors on U.S. college campuses is easily compromised. ](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.md)
-_Context: ABC, United States of America_
+_Context: ABC, American_
 
 ##### United Nations
 ### [ The United Nations is to evacuate some staff from Sudan's West Darfur state because of an increase in violence. U.N. officials said that the violence had hindered aid access to 650,000 refugees in the region. ](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.md)

@@ -31,7 +31,7 @@ Police beef up airport presence in anticipation of pro-Palestinians&#8217; arriv
 ### [China loosens controls on the yuan, allowing it to fluctuate up to 1% in trading against the United States dollar, up from 0.5%. ](/news/2012/04/15/china-loosens-controls-on-the-yuan-allowing-it-to-fluctuate-up-to-1-in-trading-against-the-united-states-dollar-up-from-0-5.md)
 China loosens its currency controls in a move that may spur gains in the value of the yuan.
 
-##### Spain
+##### Spanish
 ### [Spanish King Juan Carlos is criticised for going on a hunting trip to Botswana while his country is in an economic crisis. ](/news/2012/04/15/spanish-king-juan-carlos-is-criticised-for-going-on-a-hunting-trip-to-botswana-while-his-country-is-in-an-economic-crisis.md)
 Spain&#039;s King Juan Carlos has come under fire for going on a hunting trip to Botswana while Spaniards continue to grapple with an economic crisis.
 

@@ -13,7 +13,7 @@ A NZ court orders Pike River Coal to pay nearly $3m in compensation over the 201
 
 ##### Bolivia
 ### [Bolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land "en route" to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/bolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u-s-embassy-in-boliv.md)
-_Context: Bolivia, Edward Snowden, Eurozone, Evo Morales, France, Italy, Portugal, Spain, U.S. embassy in Bolivia, Vienna_
+_Context: Bolivia, Edward Snowden, Eurozone, Evo Morales, France, Italy, Portugal, Spanish, U.S. embassy in Bolivia, Vienna_
 
 ##### China
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
@@ -29,7 +29,7 @@ More than two dozen people were injured when a wood platform holding live firewo
 
 ##### European Central Bank
 ### [The European Central Bank and the European Commission release a joint report on the banking system in Spain, indicating that system is solvent and will not require "further program disbursements." ](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.md)
-_Context: European Central Bank, European Commission, Spain_
+_Context: European Central Bank, European Commission, Spanish_
 
 ##### Samsung
 ### [Samsung Electronics announces its second quarter results, missing its forecasts and disappointing investors. ](/news/2013/07/5/samsung-electronics-announces-its-second-quarter-results-missing-its-forecasts-and-disappointing-investors.md)

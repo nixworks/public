@@ -33,7 +33,7 @@ Donald Trump says it is hard to believe South Korea and Japan will put up with t
 
 ##### European migrant crisis
 ### [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md)
-_Context: Alboran Island, European migrant crisis, Morocco, Spain_
+_Context: Alboran Island, European migrant crisis, Morocco, Spanish_
 
 ##### Dhaka
 ### [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md)

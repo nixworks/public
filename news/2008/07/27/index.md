@@ -13,7 +13,7 @@ The man accused of killing two people and wounding seven at a church apparently 
 
 ##### Carlos Sastre
 ### [ Carlos Sastre of Spain wins the 2008 Tour de France. ](/news/2008/07/27/carlos-sastre-of-spain-wins-the-2008-tour-de-france.md)
-_Context: 2008 Tour de France, Carlos Sastre, Spain_
+_Context: 2008 Tour de France, Carlos Sastre, Spanish_
 
 ##### 2008 Istanbul bombings
 ### [ At least 16 people are killed and over 150 wounded in two blasts in Istanbul. ](/news/2008/07/27/at-least-16-people-are-killed-and-over-150-wounded-in-two-blasts-in-istanbul.md)

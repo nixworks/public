@@ -11,9 +11,9 @@ _Context: Pope Benedict XVI, Prague, spider_
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
 _Context: Abuja, Nigeria, President, Saudi Arabia, Umaru Yar'Adua_
 
-##### Spain
+##### Spanish
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: Spain, abortion_
+_Context: Spanish, abortion_
 
 ##### Geelong
 ### [ Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.md)

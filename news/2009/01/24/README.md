@@ -9,7 +9,7 @@ Three men have died following an avalanche on a mountain near Glencoe in Scotlan
 
 ##### Europe
 ### [ A European windstorm across France and Spain kills 15 people with hurricane-force winds. ](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.md)
-_Context: Europe, European windstorm, France, Spain, hurricane-force, kills_
+_Context: Europe, European windstorm, France, Spanish, hurricane-force, kills_
 
 ##### Suicide bombing
 ### [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md)

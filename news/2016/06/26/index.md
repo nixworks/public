@@ -9,7 +9,7 @@ Labour leader Jeremy Corbyn announces a reshaped shadow cabinet following a wave
 
 ##### Spanish general election, 2016
 ### [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md)
-_Context: Spain, Spanish general election, 2016_
+_Context: Spanish, Spanish general election, 2016_
 
 ##### White pride
 ### [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-cou.md)

@@ -16,4 +16,5 @@ Formats: [HTML](/news/2017/09/9/film-director-guillermo-del-toro-wins-for-the-sh
 
 ### Related:
 
-1. [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md) _Context: The Shape of Water_
+1. ["The Shape of Water" wins a leading four awards, including Best Picture, followed by "Dunkirk", which won three awards. ](/news/2018/03/4/the-shape-of-water-wins-a-leading-four-awards-including-best-picture-followed-by-dunkirk-which-won-three-awards.md) _Context: The Shape of Water_
+2. [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md) _Context: The Shape of Water_

@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/6/index.html)  [JSON](2013/04/6/index.json)  [XML](2013/
 
 ##### Pope Francis
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders, his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain_
+_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spanish_
 
 ##### Lebanese
 ### [In Lebanon, President Michel Suleiman asks Tammam Salam, a legislator and a former minister of culture, to head a new cabinet after a vast majority of the members of Parliament chose him for the job. ](/news/2013/04/6/in-lebanon-president-michel-suleiman-asks-tammam-salam-a-legislator-and-a-former-minister-of-culture-to-head-a-new-cabinet-after-a-vast-m.md)

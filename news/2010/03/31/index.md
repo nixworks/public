@@ -49,7 +49,7 @@ _Context: Bassem Al-Agha, Ghazi al-Aghbari, Palestinian, Yemen_
 
 ##### Algeria
 ### [Algerian authorities arrest an Israeli spy found with a false Spanish passport under the 35-year-old pseudonym Alberto Vagilo. This was initially reported by some sources as the abduction of a Spanish citizen by an al-Qaeda-linked group. ](/news/2010/03/31/algerian-authorities-arrest-an-israeli-spy-found-with-a-false-spanish-passport-under-the-35-year-old-pseudonym-alberto-vagilo-this-was-init.md)
-_Context: Algeria, Israel, Spain_
+_Context: Algeria, Israel, Spanish_
 
 ## [Previous Day...](/news/2010/03/30/index.md)
 

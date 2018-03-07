@@ -9,7 +9,7 @@ _Context: African Union, IGAD, IGASOM, Somalia, peacekeeping_
 
 ##### Mahon Airport
 ### [ A partial roof collapse occurred in part of the Mahon Airport terminal building in Menorca, Spain while undergoing renovations-construction work. The collapse may have been caused by a build-up of heavy rain water. The debris temporarily trapped 20 and injured three workers ](/news/2006/09/14/a-partial-roof-collapse-occurred-in-part-of-the-mahon-airport-terminal-building-in-menorca-spain-while-undergoing-renovations-construction.md)
-_Context: Mahon Airport, Menorca, Spain_
+_Context: Mahon Airport, Menorca, Spanish_
 
 ##### Amnesty International
 ### [ Amnesty International accuses Hezbollah of war crimes, in its deliberate targeting of civilians in Israel during the recent Israel-Lebanon conflict. ](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.md)

@@ -59,9 +59,9 @@ _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Sc
 ### [ Ireland's National Ploughing Championships, the largest ploughing championship in the world and the largest outdoor agricultural event in Europe, begins in Athy, County Kildare. ](/news/2009/09/22/ireland-s-national-ploughing-championships-the-largest-ploughing-championship-in-the-world-and-the-largest-outdoor-agricultural-event-in-e.md)
 An estimated 49,000 people attended the National Ploughing Championship today.
 
-##### Spain
+##### Spanish
 ### [ A Spanish doctor, identified as AM, is sentenced to a year in prison for his role in the death of the former First Lady of Nigeria, Stella Obasanjo. ](/news/2009/09/22/a-spanish-doctor-identified-as-am-is-sentenced-to-a-year-in-prison-for-his-role-in-the-death-of-the-former-first-lady-of-nigeria-stella.md)
-_Context: First Lady, Nigeria, Spain, Stella Obasanjo_
+_Context: First Lady, Nigeria, Spanish, Stella Obasanjo_
 
 ##### Tehran
 ### [ An Iranian military airplane crashes during a military parade in Tehran. ](/news/2009/09/22/an-iranian-military-airplane-crashes-during-a-military-parade-in-tehran.md)

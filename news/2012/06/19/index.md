@@ -39,7 +39,7 @@ At least eight Turkish soldiers and 10 Kurdish PKK fighters are killed following
 ### [Palestinian footballer Mahmoud Sarsak, on hunger strike over his detention without charge for three years in an Israeli jail, agrees to resume eating if released from captivity. ](/news/2012/06/19/palestinian-footballer-mahmoud-sarsak-on-hunger-strike-over-his-detention-without-charge-for-three-years-in-an-israeli-jail-agrees-to-resu.md)
 _Context: Israel, Mahmoud Sarsak_
 
-##### Spain
+##### Spanish
 ### [Striking miners and riot police clash in northern Spain as Mariano Rajoy's austerity drive causes escalating violence. ](/news/2012/06/19/striking-miners-and-riot-police-clash-in-northern-spain-as-mariano-rajoy-s-austerity-drive-causes-escalating-violence.md)
 Spanish miners on strike fire homemade rockets at police as austerity protests escalate into violence.
 

@@ -23,7 +23,7 @@ _Context: India, Jammu and Kashmir, landslide_
 ### [Search crews locate the wreckage of a missing Sikorsky H-34 helicopter near Mt. Mamarosa in southern Peru, with all 14 on board confirmed dead. ](/news/2012/06/9/search-crews-locate-the-wreckage-of-a-missing-sikorsky-h-34-helicopter-near-mt-mamarosa-in-southern-peru-with-all-14-on-board-confirmed-de.md)
 The wreckage of a helicopter missing in southern Peru has been found with all 14 on board, who include foreign nationals, confirmed dead.
 
-##### Spain
+##### Spanish
 ### [Spain's economy and finance minister Luis de Guindos confirms the receipt of up to 100 billion euros ($125 billion) in loans to help shore up its struggling banks, with the exact amount to be determined by the end of the month. ](/news/2012/06/9/spain-s-economy-and-finance-minister-luis-de-guindos-confirms-the-receipt-of-up-to-100-billion-euros-125-billion-in-loans-to-help-shore-u.md)
 Spain is to get up to 100bn euros ($125bn; £80bn) in loans from eurozone funds to try to help shore up its struggling banks, it is announced.
 

@@ -17,7 +17,7 @@ _Context: OSCE_
 
 ##### United Nations
 ### [ The UN's refugee agency, the UNHCR, says it has been ordered to leave Uzbekistan within one month. ](/news/2006/03/20/the-un-s-refugee-agency-the-unhcr-says-it-has-been-ordered-to-leave-uzbekistan-within-one-month.md)
-_Context: United Nations, United Nations High Commissioner for Refugees, Uzbekistan_
+_Context: UN Refugee Agency, United Nations, Uzbekistan_
 
 ## [Previous Day...](/news/2006/03/19/index.md)
 

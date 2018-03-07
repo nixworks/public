@@ -43,9 +43,9 @@ At least 2 killed during pro-Aristide demonstration in Haiti.
 ### [ Cannes police, investigating the November 2004 disappearance of Earl of Shaftesbury Anthony Ashley-Cooper, arrest his estranged wife Djamilia M'Barek. Her brother, Mohammed, is arrested in Munich. ](/news/2005/02/28/cannes-police-investigating-the-november-2004-disappearance-of-earl-of-shaftesbury-anthony-ashley-cooper-arrest-his-estranged-wife-djamil.md)
 _Context: Anthony Ashley-Cooper, Cannes, Djamilia M'Barek, Earl of Shaftesbury, Mohammed, Munich_
 
-##### Spain
+##### Spanish
 ### [ In Spain, police arrest Raffaele Amato, head of a mafia gang that has waged turf wars against other gangs in Naples, Italy. ](/news/2005/02/28/in-spain-police-arrest-raffaele-amato-head-of-a-mafia-gang-that-has-waged-turf-wars-against-other-gangs-in-naples-italy.md)
-_Context: Italy, Naples, Raffaele Amato, Spain, mafia_
+_Context: Italy, Naples, Raffaele Amato, Spanish, mafia_
 
 ##### Burundi
 ### [ People of Burundi vote on a new constitution ](/news/2005/02/28/people-of-burundi-vote-on-a-new-constitution.md)
@@ -69,7 +69,7 @@ The president of Lebanon reappointed Omar Karami as the country&#39;s prime mini
 
 ##### Old Bailey
 ### [ At the Old Bailey, Briton Saajid Badat pleads guilty to planning a suicide attack on a US bound aircraft. Badat subsequently withdrew from the conspiracy, leaving fellow "shoe bomber" Richard Reid to act alone. ](/news/2005/02/28/at-the-old-bailey-briton-saajid-badat-pleads-guilty-to-planning-a-suicide-attack-on-a-us-bound-aircraft-badat-subsequently-withdrew-from.md)
-_Context: Old Bailey, Richard Reid, Saajid Badat, United Kingdom, United States of America_
+_Context: American, Old Bailey, Richard Reid, Saajid Badat, United Kingdom_
 
 ##### Steve Fossett
 ### [ Steve Fossett prepares to set off on his attempt to be the first person to circumnavigate the globe, without refuelling, in a jet-powered plane &ndash; the Virgin Atlantic GlobalFlyer. ](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.md)

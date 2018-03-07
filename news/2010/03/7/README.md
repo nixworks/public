@@ -25,7 +25,7 @@ _Context: Australia, Melbourne, Queensland, a once-in-a-century thunderstorm of 
 
 ##### Abortion
 ### [Tens of thousands demonstrate against an abortion bill in several Spanish cities. ](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.md)
-_Context: Spain, abortion_
+_Context: Spanish, abortion_
 
 ##### Christian
 ### [Hundreds of Christian villagers are hacked to death with machetes by Muslim herders in Dogo-Nahawa, Nigeria. ](/news/2010/03/7/hundreds-of-christian-villagers-are-hacked-to-death-with-machetes-by-muslim-herders-in-dogo-nahawa-nigeria.md)

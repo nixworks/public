@@ -63,7 +63,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 ### [ Iran's supreme leader Ayatollah Ali Khamenei appoints Mohammed Ali Jafari to replace General Yahya Rahim Safavi as the leader of the Revolutionary Guard. ](/news/2007/09/1/iran-s-supreme-leader-ayatollah-ali-khamenei-appoints-mohammed-ali-jafari-to-replace-general-yahya-rahim-safavi-as-the-leader-of-the-revolu.md)
 _Context: Ayatollah Ali Khamenei, General, Iran, Iranian Revolutionary guards, Mohammed Ali Jafari, Yahya Rahim Safavi_
 
-##### Spain
+##### Spanish
 ### [ French and Spanish police foil an ETA car bomb plot and arrest the man who is alleged to be the organisations top bombmaker and his accomplices. ](/news/2007/09/1/french-and-spanish-police-foil-an-eta-car-bomb-plot-and-arrest-the-man-who-is-alleged-to-be-the-organisations-top-bombmaker-and-his-accompl.md)
 French and Spanish police foiled a car bomb plot by Basque separatist group ETA, netting its alleged top bomb maker and three colleagues in what analysts termed a major blow for ETA.
 

@@ -61,7 +61,7 @@ _Context: 2010 Canterbury earthquake, Christchurch, New Zealand Army, states of 
 
 ##### Alfredo Perez Rubalcaba
 ### [Alfredo Perez Rubalcaba, Spain's Interior Minister, dismisses ETA's ceasefire offer as insufficient for a peace process. ](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.md)
-_Context: Alfredo Perez Rubalcaba, ETA, Spain, ceasefire_
+_Context: Alfredo Perez Rubalcaba, ETA, Spanish, ceasefire_
 
 ##### International Security Assistance Force
 ### [The number of deaths for members of the International Security Assistance Force in the War in Afghanistan reaches 500 for the first 9 months of 2010 as opposed to 521 for all of 2009. ](/news/2010/09/6/the-number-of-deaths-for-members-of-the-international-security-assistance-force-in-the-war-in-afghanistan-reaches-500-for-the-first-9-months.md)

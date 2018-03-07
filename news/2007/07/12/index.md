@@ -67,7 +67,7 @@ Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nat
 ### [ Cecilia Sarkozy, the wife of French President Nicolas Sarkozy, flies to Libya and visits the Bulgarian medics condemned to death for allegedly infecting children with HIV and also the families of the infected children. She will also meet Colonel Muammar al-Gaddafi, the President of Libya. ](/news/2007/07/12/ca-c-cilia-sarkozy-the-wife-of-french-president-nicolas-sarkozy-flies-to-libya-and-visits-the-bulgarian-medics-condemned-to-death-for-alleg.md)
 _Context: Bulgaria, Cecilia Sarkozy, Colonel, France, French President, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of Libya, capital punishment_
 
-##### Spain
+##### Spanish
 ### [ The Spanish Civil Guard raids a boat operated by Odyssey Marine Exploration that it claims may have taken treasure worth hundreds of millions of dollars from a Spanish galleon. ](/news/2007/07/12/the-spanish-civil-guard-raids-a-boat-operated-by-odyssey-marine-exploration-that-it-claims-may-have-taken-treasure-worth-hundreds-of-millio.md)
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.
 

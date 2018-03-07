@@ -13,7 +13,7 @@ _Context: Irakli Garibashvili, Prime Minister of Georgia_
 
 ##### Election
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spain, election_
+_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spanish, election_
 
 ##### Russia
 ### [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md)

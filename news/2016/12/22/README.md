@@ -41,7 +41,7 @@ The results are in from the clinical trials of a new vaccine — and it looks li
 
 ##### Pinos Puente
 ### [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md)
-_Context: El Gordo, Granada, Pinos Puente, Spain_
+_Context: El Gordo, Granada, Pinos Puente, Spanish_
 
 ##### Yemeni Civil War
 ### [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md)

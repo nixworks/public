@@ -29,7 +29,7 @@ The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist
 
 ##### Banning
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
-_Context: Spain, banning_
+_Context: Spanish, banning_
 
 ##### Bomb scare
 ### [A false-alarm bomb scare temporarily shuts down the Egyptian-Israeli border to over 1,000 Nigerian Christians on pilgrimage to Israel. ](/news/2011/01/2/a-false-alarm-bomb-scare-temporarily-shuts-down-the-egyptian-israeli-border-to-over-1-000-nigerian-christians-on-pilgrimage-to-israel.md)

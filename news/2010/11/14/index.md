@@ -51,9 +51,9 @@ US offers incentives for a 90-day building freeze in West Bank, but the proposal
 ### [The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. ](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.md)
 _Context: Cabinet of Israel, Ethiopians of Jewish descent_
 
-##### Spain
+##### Spanish
 ### [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md)
-_Context: Morocco, Spain, Western Sahara_
+_Context: Morocco, Spanish, Western Sahara_
 
 ##### UNAMID
 ### [The head of the joint UN-African Union mission in Darfur expresses concern that military tensions between north and south Sudan over the Southern Sudanese independence referendum could spill over into the separate Darfur conflict, undermining troubled peace efforts there. ](/news/2010/11/14/the-head-of-the-joint-un-african-union-mission-in-darfur-expresses-concern-that-military-tensions-between-north-and-south-sudan-over-the-sou.md)

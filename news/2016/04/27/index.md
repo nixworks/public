@@ -35,7 +35,7 @@ _Context: Censorship in Iran, Hassan Rouhani, Iran, Iran's conservative judiciar
 ### [Iraqi authorities ban Qatar-based satellite television network Al Jazeera from broadcasting in the country and closes its offices in Baghdad, accusing it of violating government guidelines issued in 2014 to regulate media "during the war on terror". ](/news/2016/04/27/iraqi-authorities-ban-qatar-based-satellite-television-network-al-jazeera-from-broadcasting-in-the-country-and-closes-its-offices-in-baghdad.md)
 Iraqi authorities have revoked the operating licence of the pan-Arab satellite network Al Jazeera and closed its offices in Baghdad, accusing it of violating government guidelines issued in 2014 to regulate media “during the war on terror.”
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
 A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months in prison for evading banking rules in what prosecutors said was a bid to hide sexual misconduct allegations from decades ago.
 

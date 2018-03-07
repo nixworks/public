@@ -15,9 +15,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released ](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.md)
 _Context: Somalia, United Nations, World Food Programme_
 
-##### Spain
+##### Spanish
 ### [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md)
-_Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
+_Context: Amorebieta, Basque, Bilbao, ETA, Spanish, power station_
 
 ##### Myanmar
 ### [ In Myanmar (Burma), the government begins a trial against Khin Nyunt, former prime minister, accused of bribery and corruption. The trial is held inside Insein prison in Rangoon. ](/news/2005/07/12/in-myanmar-burma-the-government-begins-a-trial-against-khin-nyunt-former-prime-minister-accused-of-bribery-and-corruption-the-trial-i.md)
@@ -51,9 +51,9 @@ _Context: Elias Murr, Lebanese, Syria_
 ### [ The European Court supports tighter controls over vitamin and mineral supplements. ](/news/2005/07/12/the-european-court-supports-tighter-controls-over-vitamin-and-mineral-supplements.md)
 _Context: European Court of Justice, vitamin_
 
-##### Spain
+##### Spanish
 ### [ In Spain, a bomb explosion in Barcelona injures a policeman. ](/news/2005/07/12/in-spain-a-bomb-explosion-in-barcelona-injures-a-policeman.md)
-_Context: Barcelona, Spain_
+_Context: Barcelona, Spanish_
 
 ##### China
 ### [ In China, the death toll of the Xinjiang mine explosion rises to 65. Eighteen are still missing. ](/news/2005/07/12/in-china-the-death-toll-of-the-xinjiang-mine-explosion-rises-to-65-eighteen-are-still-missing.md)

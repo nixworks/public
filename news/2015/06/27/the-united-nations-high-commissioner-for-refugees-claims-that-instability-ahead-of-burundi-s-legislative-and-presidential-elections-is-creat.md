@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/27/the-united-nations-high-commissioner-for-refuge
 
 ### [2015-06-27](/news/2015/06/27/index.md)
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 # The United Nations High Commissioner for Refugees claims that instability ahead of Burundi's Legislative and presidential elections is creating a refugee crisis. 
 
 Political strife in Burundi forces hundreds to flee daily to neighbouring nations days ahead of polls.

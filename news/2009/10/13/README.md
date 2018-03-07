@@ -27,9 +27,9 @@ Both countries had forced out each other’s citizens; some had fled war, while 
 ### [ North and South Korea agree to hold talks on flood control and family reunions, after North Korea fired several short range missiles earlier this week. ](/news/2009/10/13/north-and-south-korea-agree-to-hold-talks-on-flood-control-and-family-reunions-after-north-korea-fired-several-short-range-missiles-earlie.md)
 _Context: North Korea, South Korea_
 
-##### Spain
+##### Spanish
 ### [ Spanish authorities arrest five members of the banned Basque political group Batasuna. ](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.md)
-_Context: Basque, Batasuna, Spain_
+_Context: Basque, Batasuna, Spanish_
 
 ##### Russia
 ### [ A Russian court rejects a libel suit by Yevgeny Dzhugashvili, the grandson of Joseph Stalin, who claimed the "Novaya Gazeta" newspaper lied about Stalin personally signing death warrants. ](/news/2009/10/13/a-russian-court-rejects-a-libel-suit-by-yevgeny-dzhugashvili-the-grandson-of-joseph-stalin-who-claimed-the-novaya-gazeta-newspaper-lied.md)

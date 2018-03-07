@@ -9,7 +9,7 @@ _Context: Hirokazu Nakaima, Japan, Okinawa, United States, governor, gubernatori
 
 ##### Catalonia
 ### [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md)
-_Context: Catalonia, Spain, parliamentary elections_
+_Context: Catalonia, Spanish, parliamentary elections_
 
 ##### Moldova
 ### [Voters in Moldova go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-moldova-go-to-the-polls-for-parliamentary-elections.md)

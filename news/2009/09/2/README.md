@@ -25,7 +25,7 @@ _Context: Gulf of Aden, Somalia_
 
 ##### Barcelona
 ### [ A woman kills a man by jumping on top of him in Barcelona, Spain. ](/news/2009/09/2/a-woman-kills-a-man-by-jumping-on-top-of-him-in-barcelona-spain.md)
-_Context: Barcelona, Spain_
+_Context: Barcelona, Spanish_
 
 ##### Prime minister
 ### [ Prime Minister of Burkina Faso Tertius Zongo confirms least three people were swept away by floods and thousands are left homeless in Ouagadougou and its suburbs. ](/news/2009/09/2/prime-minister-of-burkina-faso-tertius-zongo-confirms-least-three-people-were-swept-away-by-floods-and-thousands-are-left-homeless-in-ouaga.md)

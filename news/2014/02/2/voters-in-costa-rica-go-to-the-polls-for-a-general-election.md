@@ -18,7 +18,7 @@ On Feb. 2, Costa Ricans will head to the polls to elect a new president and memb
 
 1. [Costa Rican general election, 2014:: Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/costa-rican-general-election-2014-voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:25 (First version)_
 2. [Costa Rican general election, 2014:Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/costa-rican-general-election-2014-pvoters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _2018-02-06 13:49:25 (Update)_
-3. [Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md) _2018-03-05 03:50:25 (Update)_
+3. [Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md) _2018-03-06 03:50:43 (Update)_
 3. [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _(Current version)_
 
 ### Related:

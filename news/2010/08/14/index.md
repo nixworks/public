@@ -39,9 +39,9 @@ Puntland court jails journalist for interviewing Muslim leader with ties to figh
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
 _Context: Louis Berger Group, U.S. Agency for International Development, United States, foreign aid, prosecutor_
 
-##### Spain
+##### Spanish
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
+_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spanish, Tokyo, extradited_
 
 ##### Jean-Marie Le Pen
 ### [European politicians, including Jean-Marie Le Pen and Adam Walker, visit Yasukuni Shrine in Chiyoda, Tokyo; visits to this shrine have traditionally been a sensitive point in international politics between Japan, Korea, and China. ](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.md)

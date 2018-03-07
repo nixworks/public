@@ -13,7 +13,7 @@ _Context: Sri Lanka, Tamil Tigers, overnight clashes_
 
 ##### Prime Minister
 ### [ The Prime Minister of Australia, John Howard, announces plans to buy three Spanish-designed warships and two large Spanish landing ships for the Royal Australian Navy at a cost of $A11-billion. ](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.md)
-_Context: A$, John Howard, Prime Minister, Royal Australian Navy, Spain, landing ship, warships_
+_Context: A$, John Howard, Prime Minister, Royal Australian Navy, Spanish, landing ship, warships_
 
 ##### Ehud Barak
 ### [ Ehud Barak, the new Minister for Defense, states that Israel will admit "humanitarian cases" of Palestinians fleeing the Hamas-controlled Gaza Strip. ](/news/2007/06/20/ehud-barak-the-new-minister-for-defense-states-that-israel-will-admit-humanitarian-cases-of-palestinians-fleeing-the-hamas-controlled-g.md)

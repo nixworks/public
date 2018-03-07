@@ -15,7 +15,7 @@ UBS will pay $885 million in a settlement with a U.S. regulator over allegations
 ### [Ariel Castro, a 53-year-old man charged with the kidnappings of three women from Cleveland, Ohio, between 2002 and 2004, is sentenced to life imprisonment without the possibility of parole after accepting a plea deal with prosecutors. ](/news/2013/07/26/ariel-castro-a-53-year-old-man-charged-with-the-kidnappings-of-three-women-from-cleveland-ohio-between-2002-and-2004-is-sentenced-to-lif.md)
 Ariel Castro agrees to plead guilty to raping and holding three women captive for about a decade in his Ohio home and will serve life in prison.
 
-##### Spain
+##### Spanish
 ### [Police in Spain formally detain the driver of a high-speed train that derailed and crashed in Santiago de Compostela, killing 78, on July 24. The driver is accused of manslaughter and reckless driving. ](/news/2013/07/26/police-in-spain-formally-detain-the-driver-of-a-high-speed-train-that-derailed-and-crashed-in-santiago-de-compostela-killing-78-on-july-24.md)
 The driver of a train that derailed in Spain killing 78 people refuses to answer questions after being accused of &quot;crimes related to the accident&quot;.
 

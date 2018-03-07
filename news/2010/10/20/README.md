@@ -19,9 +19,9 @@ George Osborne unveils the biggest spending cuts in decades - with welfare, coun
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
 _Context: Guinea, November's presidential poll_
 
-##### Spain
+##### Spanish
 ### [Spanish Prime Minister Jos Luis Rodrguez Zapatero reshuffles his cabinet in a move to strengthen his government. ](/news/2010/10/20/spanish-prime-minister-jose-luis-rodriguez-zapatero-reshuffles-his-cabinet-in-a-move-to-strengthen-his-government.md)
-_Context: Jos Luis Rodrguez Zapatero, Spain_
+_Context: Jos Luis Rodrguez Zapatero, Spanish_
 
 ##### Tibet
 ### [At least 1,000 Tibetan students protest in China against a new language policy which they say erodes their culture. ](/news/2010/10/20/at-least-1-000-tibetan-students-protest-in-china-against-a-new-language-policy-which-they-say-erodes-their-culture.md)

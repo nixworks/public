@@ -23,7 +23,7 @@ _Context: Chechnya, Russia, Russian Army_
 ### [ Over 100 people are feared dead following heavy rains and flooding in northern Thailand. ](/news/2006/05/24/over-100-people-are-feared-dead-following-heavy-rains-and-flooding-in-northern-thailand.md)
 _Context: Thailand, flood_
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [ The ABC News claims that Speaker of the United States House of Representatives Dennis Hastert is under investigation for corruption, but the Justice Department issues a denial. ](/news/2006/05/24/the-abc-news-claims-that-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-under-investigation-for-corruption-but-th.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 

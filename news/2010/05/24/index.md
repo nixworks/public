@@ -37,7 +37,7 @@ _Context: Manchester, Plane Stupid_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
-_Context: International Monetary Fund, Spain_
+_Context: International Monetary Fund, Spanish_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad is met with protests during a speech in Khorramshahr. ](/news/2010/05/24/president-of-iran-mahmoud-ahmadinejad-is-met-with-protests-during-a-speech-in-khorramshahr.md)

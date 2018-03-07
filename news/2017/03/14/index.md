@@ -9,7 +9,7 @@ A 15-year-old girl is missing out of Maury County and believed to be with a 50-y
 
 ##### Europol
 ### [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md)
-_Context: Arms trader, Europol, Spain_
+_Context: Arms trader, Europol, Spanish_
 
 ##### March 2017 North American blizzard
 ### [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4 feet of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md)

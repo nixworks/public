@@ -7,9 +7,9 @@ Formats: [HTML](2004/06/30/index.html)  [JSON](2004/06/30/index.json)  [XML](200
 ### [ The Israeli Supreme Court issues a landmark ruling that a 30-kilometer planned stretch of the separation barrier in eastern Jerusalem violates the legal rights of the local Palestinian population to an extent not justified by security concerns, and therefore must be changed. ](/news/2004/06/30/the-israeli-supreme-court-issues-a-landmark-ruling-that-a-30-kilometer-planned-stretch-of-the-separation-barrier-in-eastern-jerusalem-viola.md)
 _Context: Israel, barrier_
 
-##### Spain
+##### Spanish
 ### [ The Spanish minister of justice, Juan Fernando Lopez Aguilar, announces a number of social bills to be introduced, including one that will legalize same-sex marriage in Spain, one that will introduce rights for common-law couples, and one that will allow transgendered people to legally change their name and sex designation without the requirement of surgery. ](/news/2004/06/30/the-spanish-minister-of-justice-juan-fernando-la3pez-aguilar-announces-a-number-of-social-bills-to-be-introduced-including-one-that-will.md)
-_Context: Spain, common-law couples, legalize same-sex marriage, name, sex reassignment surgery, transgender_
+_Context: Spanish, common-law couples, legalize same-sex marriage, name, sex reassignment surgery, transgender_
 
 ##### Occupation of Iraq
 ### [ Iraq Occupation and resistance: The United States formally hands over legal custody of Saddam Hussein to the new Iraqi government. The trial of Saddam Hussein is expected to take place in January. ](/news/2004/06/30/iraq-occupation-and-resistance-the-united-states-formally-hands-over-legal-custody-of-saddam-hussein-to-the-new-iraqi-government-the-tria.md)

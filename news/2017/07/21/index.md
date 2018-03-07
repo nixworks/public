@@ -21,7 +21,7 @@ A powerful magnitude-6.7 earthquake kills two people and causes a small tsunami 
 
 ##### Salvador Dali
 ### [The remains of surrealist painter Salvador Dali are exhumed following a Madrid court order on settling the paternity claim of a woman who is allegedly the painter's natural daughter. Various experts contest the claim, noting Dali's sexual eccentrism (including a public boast about his "impotency") and that the action being against the state (Dali bequeathed his estate to Spain). If proven, this woman could assume part of Dali's estate. ](/news/2017/07/21/the-remains-of-surrealist-painter-salvador-dala-are-exhumed-following-a-madrid-court-order-on-settling-the-paternity-claim-of-a-woman-who-i.md)
-_Context: Salvador Dali, Spain_
+_Context: Salvador Dali, Spanish_
 
 ##### CPP-NPA-NDF rebellion
 ### [President of the Philippines Rodrigo Duterte indefinitely freezes the peace talks with the Communist Party of the Philippines after numerous attacks by the communist rebels on government forces. The President also vowed to re-orient anew the offensive against the Party's armed wing the New People's Army. ](/news/2017/07/21/president-of-the-philippines-rodrigo-duterte-indefinitely-freezes-the-peace-talks-with-the-communist-party-of-the-philippines-after-numerous.md)

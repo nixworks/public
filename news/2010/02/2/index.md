@@ -9,7 +9,7 @@ _Context: Paul Volcker, United States Senate, United States Senate Committee on 
 
 ##### 82nd Academy Awards
 ### [Nominations for the 82nd Academy Awards are announced. "Avatar" and "The Hurt Locker" lead the way with nine nominations each, and are both among ten nominees for Best Picture, the first time more than five films have been up for consideration since 1943. ](/news/2010/02/2/nominations-for-the-82nd-academy-awards-are-announced-avatar-and-the-hurt-locker-lead-the-way-with-nine-nominations-each-and-are-both.md)
-_Context: 1943, 82nd Academy Awards, Academy Award for Best Picture, Avatar, The Hurt Locker_
+_Context: 1943, 82nd Academy Awards, Avatar, Best Picture, The Hurt Locker_
 
 ##### Finance Minister of Germany
 ### [Finance Minister of Germany Wolfgang Schaeuble says that the German government will buy stolen information on Swiss bank accounts, offered in a CD that contained 1,500 names in exchange for 2.5&nbsp;million euros, to pursue tax evasion. ](/news/2010/02/2/finance-minister-of-germany-wolfgang-schaeuble-says-that-the-german-government-will-buy-stolen-information-on-swiss-bank-accounts-offered-i.md)

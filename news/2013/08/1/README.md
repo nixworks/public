@@ -7,9 +7,9 @@ Formats: [HTML](2013/08/1/index.html)  [JSON](2013/08/1/index.json)  [XML](2013/
 ### [Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". ](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.md)
 _Context: Movement for Democratic Change, Robert Mugabe, ZANU-PF, recent elections_
 
-##### Parliament of New Zealand
+##### Parliament
 ### [Geoff Thorn, the General Manager of Parliamentary Service in the Parliament of New Zealand, submits his resignation to the Speaker David Carter after phone and other data belonging to Fairfax New Zealand journalist Andrea Vance were released to an inquiry without her permission. ](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.md)
-_Context: David Carter, Fairfax New Zealand, Parliament of New Zealand, Speaker_
+_Context: David Carter, Fairfax New Zealand, Speaker, parliament_
 
 ##### Prime Minister of Tuvalu
 ### [The Prime Minister of Tuvalu, Willy Telavi, is removed from office by Governor General Iakoba Italeli after accusations that he allegedly tried to replace Italeli as Governor General. Opposition leader Enele Sopoaga is appointed as the country's acting Prime Minister. ](/news/2013/08/1/the-prime-minister-of-tuvalu-willy-telavi-is-removed-from-office-by-governor-general-iakoba-italeli-after-accusations-that-he-allegedly-tr.md)

@@ -57,7 +57,7 @@ _Context: Timbuktu, United Nations_
 
 ##### Eurozone
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
-_Context: Eurozone, Italy, Spain_
+_Context: Eurozone, Italy, Spanish_
 
 ##### The Wall Street Journal
 ### ["The Wall Street Journal" reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-and.md)

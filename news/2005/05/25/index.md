@@ -33,7 +33,7 @@ _Context: Guinea-Bissau, Kumba Iala, former President, presidential palace_
 
 ##### ETA
 ### [ An ETA car bomb explodes near Madrid, Spain after a warning call. ](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.md)
-_Context: ETA, Madrid, Spain_
+_Context: ETA, Madrid, Spanish_
 
 ##### Soledad Alvear
 ### [ Soledad Alvear, former Chilean foreign minister, withdraws her presidential candidacy and supports Michelle Bachelet. ](/news/2005/05/25/soledad-alvear-former-chilean-foreign-minister-withdraws-her-presidential-candidacy-and-supports-michelle-bachelet.md)

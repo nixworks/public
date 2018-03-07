@@ -51,7 +51,7 @@ _Context: Dresden, tear gas, water cannon_
 ### [Pirates seize a yacht with four Americans off the coast of Oman. ](/news/2011/02/19/pirates-seize-a-yacht-with-four-americans-off-the-coast-of-oman.md)
 Fifty-eight foot American-owned yacht seized off the coast of Oman with four US citizens on board, officials say.
 
-##### Spain
+##### Spanish
 ### [Thousands of people rally in Spanish municipality of Bilbao calling for the legalization of the new separatist party Sortu. ](/news/2011/02/19/thousands-of-people-rally-in-spanish-municipality-of-bilbao-calling-for-the-legalization-of-the-new-separatist-party-sortu.md)
 Thousands of people rally in the Basque city of Bilbao in northern Spain to demand the legalisation of a new separatist party.
 

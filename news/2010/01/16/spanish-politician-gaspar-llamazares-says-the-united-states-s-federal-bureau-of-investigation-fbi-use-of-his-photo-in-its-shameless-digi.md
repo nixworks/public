@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-u
 
 ### [2010-01-16](/news/2010/01/16/index.md)
 
-##### Spain
+##### Spanish
 # Spanish politician Gaspar Llamazares says the United States's Federal Bureau of Investigation (FBI) use of his photo in its "shameless" digital manipulation of Osama Bin Laden for a wanted poster, has left him insecure and worried about travelling to the United States in future. 
 
 The FBI has admitted using a photograph of a bearded Spanish politician as the basis for a mocked-up photofit image showing how Osama Bin Laden might look now.

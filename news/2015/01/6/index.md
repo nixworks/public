@@ -9,7 +9,7 @@ THREE new planets, roughly the size of Earth, have been found in the ‘not too 
 
 ##### United States House of Representatives
 ### [The US Congress re-elects John Boehner to his third term as Speaker. ](/news/2015/01/6/the-us-congress-re-elects-john-boehner-to-his-third-term-as-speaker.md)
-_Context: John Boehner, U.S. Speaker of the House of Representatives, United States House of Representatives_
+_Context: John Boehner, Speaker of the House, United States House of Representatives_
 
 ##### 114th United States Congress
 ### [The 114th United States Congress begins. ](/news/2015/01/6/the-114th-united-states-congress-begins.md)

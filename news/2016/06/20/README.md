@@ -27,7 +27,7 @@ Falling commodity prices are prompting land grabs by mining and forestry compani
 ### [Bahraini authorities strip Isa Qassim, the kingdom's most influential Shia cleric, of his citizenship after they accused him of promoting "sectarianism and violence". ](/news/2016/06/20/bahraini-authorities-strip-isa-qassim-the-kingdom-s-most-influential-shia-cleric-of-his-citizenship-after-they-accused-him-of-promoting-s.md)
 _Context: Bahrain, Human rights in Bahrain, Isa Qassim, Shia_
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [According to the United Nations High Commissioner for Refugees, the number of people displaced by conflicts in the world is at its highest level ever recorded, with an estimated 65.3 million people either being refugees, internally displaced or asylum seekers. ](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.md)
 More than 65m people worldwide are displaced by conflict and war, the UN refugee agency says, half from Syria, Afghanistan and Somalia.
 

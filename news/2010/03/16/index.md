@@ -41,7 +41,7 @@ Sri Lanka&#039;s former army chief, Sarath Fonseka, appeared in a military court
 
 ##### Roman Catholic
 ### [A man who used to teach at a Roman Catholic religious order's schools in Spain is arrested in Chile on suspicion of sexually abusing children. ](/news/2010/03/16/a-man-who-used-to-teach-at-a-roman-catholic-religious-order-s-schools-in-spain-is-arrested-in-chile-on-suspicion-of-sexually-abusing-childre.md)
-_Context: Chile, Roman Catholic, Spain_
+_Context: Chile, Roman Catholic, Spanish_
 
 ##### Archbishop of Armagh
 ### [Archbishop of Armagh and Primate of All Ireland Cardinal Sen Brady is accused of using the "Nuremberg defence" and is told to resign by politicians, including Martin McGuinness, over his representation of the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/16/archbishop-of-armagh-and-primate-of-all-ireland-cardinal-sean-brady-is-accused-of-using-the-nuremberg-defence-and-is-told-to-resign-by-pol.md)

@@ -15,7 +15,7 @@ _Context: George W. Bush, John Negroponte, U.S. National Intelligence Director, 
 
 ##### Nancy Pelosi
 ### [ Nancy Pelosi is elected speaker of the United States House of Representatives, and becomes the first woman to hold that post. ](/news/2007/01/4/nancy-pelosi-is-elected-speaker-of-the-united-states-house-of-representatives-and-becomes-the-first-woman-to-hold-that-post.md)
-_Context: Nancy Pelosi, U.S. Speaker of the House of Representatives, United States House of Representatives_
+_Context: Nancy Pelosi, Speaker of the House, United States House of Representatives_
 
 ##### Quadrantids
 ### [ Quadrantids meteor shower of 2007: An irregular metallic object, the size of a golf ball and the weight of a can of soup, severely damages a house in Freehold Township, New Jersey. No one is injured. ](/news/2007/01/4/quadrantids-meteor-shower-of-2007-an-irregular-metallic-object-the-size-of-a-golf-ball-and-the-weight-of-a-can-of-soup-severely-damages.md)

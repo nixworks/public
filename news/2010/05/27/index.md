@@ -23,9 +23,9 @@ New Zealand anti-whaling activist Peter Bethune has pleaded guilty to four charg
 ### [French Polynesia Vice President Edouard Fritch is arrested in a bribery probe. ](/news/2010/05/27/french-polynesia-vice-president-edouard-fritch-is-arrested-in-a-bribery-probe.md)
 _Context: Edouard Fritch, French Polynesia, Vice President, bribes_
 
-##### Spain
+##### Spanish
 ### [Spain's parliament approves by one vote a EUR15 billion austerity package to rein in the country's budget deficit. ](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-a-15-billion-austerity-package-to-rein-in-the-country-s-budget-deficit.md)
-_Context: Spain_
+_Context: Spanish_
 
 ##### Stanley Kingaipe and Charles Chookole
 ### [Stanley Kingaipe and Charles Chookole, two ex-officers in Zambia's air force, are awarded 10 million kwacha in damages following claims they were tested and treated for HIV without their knowledge. ](/news/2010/05/27/stanley-kingaipe-and-charles-chookole-two-ex-officers-in-zambia-s-air-force-are-awarded-10-million-kwacha-in-damages-following-claims-they.md)

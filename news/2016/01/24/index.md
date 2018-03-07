@@ -17,7 +17,7 @@ Two people die and more than 100 are injured as a cold air mass grips the nation
 
 ##### Syrian Civil War
 ### [The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-under-rebel-control-s.md)
-_Context: Latakia province, Rabia, Syria, Syrian Army, Syrian Civil War, Turkmen_
+_Context: Latakia, Rabia, Syria, Syrian Army, Syrian Civil War, Turkmen_
 
 ## [Previous Day...](/news/2016/01/23/index.md)
 

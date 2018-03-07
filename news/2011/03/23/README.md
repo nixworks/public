@@ -3,9 +3,9 @@ Formats: [HTML](2011/03/23/index.html)  [JSON](2011/03/23/index.json)  [XML](201
 
 ## [2011-03-23](/news/2011/03/23/index.md)
 
-##### Spain
+##### Spanish
 ### [Spain bans the new Basque nationalist political party Sortu.](/news/2011/03/23/spain-bans-the-new-basque-nationalist-political-party-sortu.md)
-_Context: Basque separatist, Sortu, Spain_
+_Context: Basque separatist, Sortu, Spanish_
 
 ##### Prime Minister of Portugal
 ### [The Prime Minister of Portugal Jose Socrates resigns after the parliament rejects austerity measures. ](/news/2011/03/23/the-prime-minister-of-portugal-josa-c-sa3crates-resigns-after-the-parliament-rejects-austerity-measures.md)

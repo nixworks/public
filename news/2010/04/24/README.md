@@ -27,9 +27,9 @@ _Context: Wang Lequan, Xinjiang, Zhang Chunxian_
 ### [Former Nazi corporal and founder of Villa Baviera in Chile Paul Schfer dies in prison at the age of 88. ](/news/2010/04/24/former-nazi-corporal-and-founder-of-villa-baviera-in-chile-paul-schafer-dies-in-prison-at-the-age-of-88.md)
 _Context: Chile, Nazi, Paul Schfer, Villa Baviera_
 
-##### Spain
+##### Spanish
 ### [Marchers march in a dozen Spanish cities, including thousands in Madrid, to support Judge Baltasar Garzn who has been told he may face a trial for launching an inquiry into the acts of General Francisco Franco. Falange arranges a smaller protest in Madrid in opposition to Garzn. ](/news/2010/04/24/marchers-march-in-a-dozen-spanish-cities-including-thousands-in-madrid-to-support-judge-baltasar-garzon-who-has-been-told-he-may-face-a-tr.md)
-_Context: Baltasar Garzn, Falange, Franco, Madrid, Spain_
+_Context: Baltasar Garzn, Falange, Franco, Madrid, Spanish_
 
 ##### Yerevan
 ### [Tens of thousands of people rally and lay flowers at a monument in Yerevan to the victims on the 95th anniversary of the Armenian Genocide. ](/news/2010/04/24/tens-of-thousands-of-people-rally-and-lay-flowers-at-a-monument-in-yerevan-to-the-victims-on-the-95th-anniversary-of-the-armenian-genocide.md)

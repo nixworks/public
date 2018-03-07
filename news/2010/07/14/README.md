@@ -57,7 +57,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 
 ##### Cuba
 ### [Two more Cuban dissidents arrive in Spain out of the 52 political prisoners due to be released on humanitarian grounds. ](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.md)
-_Context: Cuba, Spain_
+_Context: Cuba, Spanish_
 
 ##### Cannabis
 ### [Police find 48 kilograms of illegal cannabis in Launceston and charge two men, after a week-long operation in one of the largest seizures of the drug in Tasmanian history. ](/news/2010/07/14/police-find-48-kilograms-of-illegal-cannabis-in-launceston-and-charge-two-men-after-a-week-long-operation-in-one-of-the-largest-seizures-of.md)

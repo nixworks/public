@@ -11,7 +11,7 @@ The Vatican&rsquo;s nine communications offices will soon be consolidated under 
 ### [The Hellenic Parliament approves the holding of a referendum on a proposed bailout on Sunday 5 July 2015. ](/news/2015/06/27/the-hellenic-parliament-approves-the-holding-of-a-referendum-on-a-proposed-bailout-on-sunday-5-july-2015.md)
 Greek parliament approves motion to hold referendum on creditors&#39; fiscal reform proposal - @AP, @Reuters
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [The United Nations High Commissioner for Refugees claims that instability ahead of Burundi's Legislative and presidential elections is creating a refugee crisis. ](/news/2015/06/27/the-united-nations-high-commissioner-for-refugees-claims-that-instability-ahead-of-burundi-s-legislative-and-presidential-elections-is-creat.md)
 Political strife in Burundi forces hundreds to flee daily to neighbouring nations days ahead of polls.
 

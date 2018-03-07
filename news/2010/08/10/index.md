@@ -75,9 +75,9 @@ _Context: South Pacific Ocean, Vanuatu, earthquake, tsunami_
 ### [The Niger River bursts its banks forcing 5,000 people to lose their homes and crops. ](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.md)
 _Context: Niger River_
 
-##### Spain
+##### Spanish
 ### [A much-publicised project backed by Spain's government sells just 16 of the 2,000 electric cars it had intended so far in 2010. ](/news/2010/08/10/a-much-publicised-project-backed-by-spain-s-government-sells-just-16-of-the-2-000-electric-cars-it-had-intended-so-far-in-2010.md)
-_Context: Spain_
+_Context: Spanish_
 
 ##### Israel
 ### [Israel's Foreign Ministry alleges Hezbollah leader Hassan Nasrallah's press conference yesterday, in which he stated he has evidence that implicates Israel in the 2005 assassination of former Prime Minister of Lebanon Rafic Hariri and 22 others, was full of "ridiculous lies". ](/news/2010/08/10/israel-s-foreign-ministry-alleges-hezbollah-leader-hassan-nasrallah-s-press-conference-yesterday-in-which-he-stated-he-has-evidence-that-im.md)

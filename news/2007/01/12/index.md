@@ -13,7 +13,7 @@ _Context: ''Casino Royale'', BAFTA, The Queen_
 
 ##### Argentina
 ### [ An Argentinian judge issues an arrest warrant for former president Isabel Martinez de Peron, implicated in the disappearance of a human-rights activist in 1976. Peron has been living in Spain since 1981. ](/news/2007/01/12/an-argentinian-judge-issues-an-arrest-warrant-for-former-president-isabel-martanez-de-pera3n-implicated-in-the-disappearance-of-a-human-r.md)
-_Context: 1976, 1981, Argentina, Isabel Martinez de Peron, Spain_
+_Context: 1976, 1981, Argentina, Isabel Martinez de Peron, Spanish_
 
 ##### Capture
 ### [ Somali government and Ethiopian forces capture the town of Ras Kamboni, and pursue fleeing Islamist forces. ](/news/2007/01/12/somali-government-and-ethiopian-forces-capture-the-town-of-ras-kamboni-and-pursue-fleeing-islamist-forces.md)

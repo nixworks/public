@@ -29,7 +29,7 @@ _Context: 2011 Norway attacks, Anders Behring Breivik, NRK, Norway, Oslo, bomb, 
 
 ##### Scorpion
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)
-_Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spain, scorpion_
+_Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spanish, scorpion_
 
 ##### Caritas International
 ### [A fire at a Caritas International workshop for the disabled in Titisee-Neustadt, Baden-Wurttemberg, Germany, kills at least 14 and injures several others. ](/news/2012/11/26/a-fire-at-a-caritas-international-workshop-for-the-disabled-in-titisee-neustadt-baden-wa1-4rttemberg-germany-kills-at-least-14-and-injures.md)

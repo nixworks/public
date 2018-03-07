@@ -7,9 +7,9 @@ Formats: [HTML](2005/04/20/index.html)  [JSON](2005/04/20/index.json)  [XML](200
 ### [ An explosion in a mining explosives factory near the Chambishi copper mine in Zambia kills 46. ](/news/2005/04/20/an-explosion-in-a-mining-explosives-factory-near-the-chambishi-copper-mine-in-zambia-kills-46.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Spain
+##### Spanish
 ### [ Spanish officials state that they are "concerned" about an apparent disappearance of Severo Moto, leader of an opposition political movement in Equatorial Guinea, who has lived in Spain in exile. His wife reported him missing. ](/news/2005/04/20/spanish-officials-state-that-they-are-concerned-about-an-apparent-disappearance-of-severo-moto-leader-of-an-opposition-political-movemen.md)
-_Context: Equatorial Guinea, Severo Moto, Spain_
+_Context: Equatorial Guinea, Severo Moto, Spanish_
 
 ##### European Union
 ### [ European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. ](/news/2005/04/20/european-union-representatives-cancel-meeting-with-a-pakistan-delegation-because-of-the-inclusion-of-hardliner-maulana-sami-ul-haq-who-all.md)

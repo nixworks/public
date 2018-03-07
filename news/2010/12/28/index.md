@@ -31,9 +31,9 @@ _Context: Nepal_
 ### [A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. ](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.md)
 _Context: China_
 
-##### Spain
+##### Spanish
 ### [Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. ](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.md)
-_Context: Russia, Spain_
+_Context: Russia, Spanish_
 
 ##### Benin
 ### [The leaders of Benin, Cape Verde and Sierra Leone arrive in Cote d'Ivoire to urge Laurent Gbagbo to resign as President. ](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.md)

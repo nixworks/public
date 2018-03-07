@@ -29,7 +29,7 @@ _Context: Belgium, Police, United Kingdom, animal rights, the Netherlands_
 
 ##### Apartment
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
-_Context: Palencia, Spain, apartment_
+_Context: Palencia, Spanish, apartment_
 
 ##### July elections
 ### [ Turkish presidential election, 2007: The Constitutional Court of Turkey annuls last Friday's presidential vote in the Grand National Assembly after a challenge by opposition parties. ](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.md)

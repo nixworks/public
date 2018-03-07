@@ -23,7 +23,7 @@ _Context: Central Asia, Kyrgyzstan, parliamentary democracy_
 ### [Interpol issues an arrest warrant for Julian Assange, the founder of WikiLeaks, to face sexual assault charges in Sweden. ](/news/2010/11/30/interpol-issues-an-arrest-warrant-for-julian-assange-the-founder-of-wikileaks-to-face-sexual-assault-charges-in-sweden.md)
 _Context: Interpol, Julian Assange, Sweden, WikiLeaks, arrest warrant, sexual assault_
 
-##### Spain
+##### Spanish
 ### [An orderly at a Spanish retirement home admits to killing 11 residents. ](/news/2010/11/30/an-orderly-at-a-spanish-retirement-home-admits-to-killing-11-residents.md)
 An orderly at a retirement home in north-eastern Spain has admitted killing 11 elderly residents, reports say.
 

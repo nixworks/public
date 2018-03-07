@@ -43,7 +43,7 @@ Hundreds of people demonstrate after Nato-led raid in the eastern province of Ja
 ### [Tens of thousands of people protest in Tirana against last years election, demanding a recount. ](/news/2010/05/14/tens-of-thousands-of-people-protest-in-tirana-against-last-years-election-demanding-a-recount.md)
 _Context: Tirana_
 
-##### Spain
+##### Spanish
 ### [Spanish judge Baltasar Garzon is suspended ahead of his trial. ](/news/2010/05/14/spanish-judge-baltasar-garza3n-is-suspended-ahead-of-his-trial.md)
 Baltasar Garzon suspended from his post ahead of trial for overreaching his authority.
 

@@ -33,7 +33,7 @@ Helicopters managed to extract 65 people from the gondolas late on Thursday — 
 
 ##### Train derails
 ### [A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. ](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-porria-o-in-galicia-spain-killing-at-least-four-people.md)
-_Context: Galicia, O Porrino, Spain, train derails_
+_Context: Galicia, O Porrino, Spanish, train derails_
 
 ##### Nigeria
 ### [Millions of people in Nigeria are at risk of famine. ](/news/2016/09/9/millions-of-people-in-nigeria-are-at-risk-of-famine.md)

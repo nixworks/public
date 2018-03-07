@@ -47,9 +47,9 @@ A former president of Bosnia accused of war crimes was arrested today at Heathro
 ### [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md)
 _Context: 2010 Africa Cup of Nations, Angola, France, Johannesburg, Kodjovi Obilale, Togo national football team attack_
 
-##### Spain
+##### Spanish
 ### [Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. ](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-concerning-allegations-that-it-helped-terrorist-groups-euskadi-ta-askatasuna-and-farc-plot-to-k.md)
-_Context: Alvaro Uribe, Colombia, Colombian President, Euskadi Ta Askatasuna, FARC, Spain, Venezuela_
+_Context: Alvaro Uribe, Colombia, Colombian President, Euskadi Ta Askatasuna, FARC, Spanish, Venezuela_
 
 #####  Georgian
 ### [Georgia and Russia re-open their only usable land border crossing, located on the Caucasus Mountains, for traffic and trade for the first time in four years. ](/news/2010/03/1/georgia-and-russia-re-open-their-only-usable-land-border-crossing-located-on-the-caucasus-mountains-for-traffic-and-trade-for-the-first-ti.md)

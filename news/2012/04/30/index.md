@@ -35,7 +35,7 @@ A major fire destroys the Best Western Falmouth Beach Hotel in Cornwall, after a
 ### [An overloaded ferry capsizes on the Brahmaputra River in India killing at least 103 people. ](/news/2012/04/30/an-overloaded-ferry-capsizes-on-the-brahmaputra-river-in-india-killing-at-least-103-people.md)
 _Context: Brahmaputra River, India, ferry capsizes_
 
-##### Spain
+##### Spanish
 ### [Spain's economy double dips, with a quarter of the population out of work. ](/news/2012/04/30/spain-s-economy-double-dips-with-a-quarter-of-the-population-out-of-work.md)
 Latest figures come amid quarterly unemployment data showing nearly 25 per cent of the population as out of work.
 

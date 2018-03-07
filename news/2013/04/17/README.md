@@ -7,7 +7,7 @@ Formats: [HTML](2013/04/17/index.html)  [JSON](2013/04/17/index.json)  [XML](201
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
 _Context: Gun politics in the United States, United States, United States Senate_
 
-##### Parliament of New Zealand
+##### Parliament
 ### [Parliament of New Zealand legalizes same-sex marriage in New Zealand. ](/news/2013/04/17/parliament-of-new-zealand-legalizes-same-sex-marriage-in-new-zealand.md)
 A bill to legalise same-sex marriage has passed into law after its third reading in Parliament tonight, after months of emotional debate, parliamentary submissions, and passionate - New Zealand Herald
 

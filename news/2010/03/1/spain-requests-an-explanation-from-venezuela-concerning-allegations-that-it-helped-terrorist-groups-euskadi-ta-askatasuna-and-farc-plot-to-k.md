@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/1/spain-requests-an-explanation-from-venezuela-con
 
 ### [2010-03-1](/news/2010/03/1/index.md)
 
-##### Spain
+##### Spanish
 # Spain requests an explanation from Venezuela concerning allegations that it helped terrorist groups Euskadi Ta Askatasuna and FARC plot to kill Colombian President Alvaro Uribe and other Colombian personalities in Spanish soil. 
 
 

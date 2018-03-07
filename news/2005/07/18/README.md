@@ -45,7 +45,7 @@ Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the
 
 ##### Federal Constitutional Court of Germany
 ### [ The Federal Constitutional Court, the highest Court in Germany, has ordered the release of Mamoun Darkazanli who has been accused by Spain of having funded the September 11, 2001 attacks. ](/news/2005/07/18/the-federal-constitutional-court-the-highest-court-in-germany-has-ordered-the-release-of-mamoun-darkazanli-who-has-been-accused-by-spain.md)
-_Context: Court, Federal Constitutional Court of Germany, German, Mamoun Darkazanli, September 11, 2001 attacks, Spain_
+_Context: Court, Federal Constitutional Court of Germany, German, Mamoun Darkazanli, September 11, 2001 attacks, Spanish_
 
 ##### Serb
 ### [ Eight former Serbian secret police officers, and supporters of Slobodan Milosevic, have been found guilty of the murder of former President Ivan Stambolic and sentenced to between 15 and 40 years in prison. ](/news/2005/07/18/eight-former-serbian-secret-police-officers-and-supporters-of-slobodan-miloa-evia-have-been-found-guilty-of-the-murder-of-former-preside.md)

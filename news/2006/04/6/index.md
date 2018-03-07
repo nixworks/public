@@ -7,9 +7,9 @@ Formats: [HTML](2006/04/6/index.html)  [JSON](2006/04/6/index.json)  [XML](2006/
 ### [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. ](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu.md)
 _Context: Avian flu virus, Scotland, swan_
 
-##### Parliament of New Zealand
+##### Parliament
 ### [ The Parliament of New Zealand passes a bill that on receiving Royal Assent will make New Zealand Sign Language the third official language of New Zealand, alongside English and Maori. ](/news/2006/04/6/the-parliament-of-new-zealand-passes-a-bill-that-on-receiving-royal-assent-will-make-new-zealand-sign-language-the-third-official-language.md)
-_Context: Maori, New Zealand Sign Language, Parliament of New Zealand, Royal Assent_
+_Context: Maori, New Zealand Sign Language, Royal Assent, parliament_
 
 ##### Israel
 ### [ Israeli police arrest and release Khaled Abu Arafa, minister of Jerusalem affairs in the new Hamas-led government of the Palestinian Authority. ](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.md)

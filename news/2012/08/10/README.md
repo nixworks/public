@@ -29,7 +29,7 @@ A top Libyan defence official is shot dead in the eastern city of Benghazi, in t
 
 ##### Sinaloa Cartel
 ### [Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/four-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most-wanted-drug-lord.md)
-_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spain_
+_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spanish_
 
 ## [Previous Day...](/news/2012/08/9/index.md)
 

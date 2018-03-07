@@ -29,7 +29,7 @@ _Context: Iran, Russia, nuclear reactor, nuclear weapon_
 
 ##### Villajoyosa
 ### [ A small bomb explodes at a hotel in Villajoyosa, Spain, after a warning by the Basque separatist group ETA. No one is injured. ](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.md)
-_Context: ETA, Spain, Villajoyosa_
+_Context: ETA, Spanish, Villajoyosa_
 
 ##### World Health Organization
 ### [ The World Health Organization's Framework Convention on Tobacco Control becomes legally binding upon ratifying countries. ](/news/2005/02/27/the-world-health-organization-s-framework-convention-on-tobacco-control-becomes-legally-binding-upon-ratifying-countries.md)

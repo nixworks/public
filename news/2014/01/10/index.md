@@ -39,9 +39,9 @@ President Michel Djotodia resigns as he is unable to stop the ethnic fighting in
 ### [Francois Hollande's photo with actress Julie Gayet is removed from the tabloid magazine "Closer" after an injuction by Gayet's lawyer. ](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.md)
 _Context: Closer, Francois Hollande, Julie Gayet, tabloid_
 
-##### Spain
+##### Spanish
 ### [Spain invites Sephardic Jews to return after 500 years of exile. ](/news/2014/01/10/spain-invites-sephardic-jews-to-return-after-500-years-of-exile.md)
-_Context: Sephardic Jews, Spain_
+_Context: Sephardic Jews, Spanish_
 
 ## [Previous Day...](/news/2014/01/9/index.md)
 

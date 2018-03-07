@@ -7,9 +7,9 @@ Formats: [HTML](2006/10/24/index.html)  [JSON](2006/10/24/index.json)  [XML](200
 ### [ Firefox 2.0 is released. ](/news/2006/10/24/firefox-2-0-is-released.md)
 _Context: Firefox_
 
-##### U.S. Speaker of the House of Representatives
+##### Speaker of the House
 ### [ Speaker of the United States House of Representatives Dennis Hastert sits down with ethics investigators trying to determine when he and his staff learned about ex-Rep. Mark Foley's come-ons to former male pages and what they did to stop it. ](/news/2006/10/24/speaker-of-the-united-states-house-of-representatives-dennis-hastert-sits-down-with-ethics-investigators-trying-to-determine-when-he-and-hi.md)
-_Context: Dennis Hastert, Mark Foley, U.S. Speaker of the House of Representatives, United States House of Representatives, come-ons to former male pages_
+_Context: Dennis Hastert, Mark Foley, Speaker of the House, United States House of Representatives, come-ons to former male pages_
 
 ##### Associated Press
 ### [ An Associated Press photographer is released after a day in the hands of Palestinian gunmen. ](/news/2006/10/24/an-associated-press-photographer-is-released-after-a-day-in-the-hands-of-palestinian-gunmen.md)

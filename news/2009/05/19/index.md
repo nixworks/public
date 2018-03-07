@@ -17,7 +17,7 @@ _Context: German, lemur, skeleton, species_
 
 ##### European Parliament
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
-_Context: European Parliament, Spain, reform_
+_Context: European Parliament, Spanish, reform_
 
 ##### Brazil
 ### [ Brazilian oil company Petrobras and the People's Republic of China finalize a US$10-billion agreement. ](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.md)

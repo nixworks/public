@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Madrid Train Bombing
 ### [ Madrid Train Bombing: A 16-year-old Spaniard has been jailed for six years for his part in the bombing which killed 191. ](/news/2004/11/16/madrid-train-bombing-a-16-year-old-spaniard-has-been-jailed-for-six-years-for-his-part-in-the-bombing-which-killed-191.md)
-_Context: Madrid Train Bombing, Spain_
+_Context: Madrid Train Bombing, Spanish_
 
 ##### Kashmir
 ### [ Indian military officials announce that a withdrawal of troops will begin from the Indian-administered part of Kashmir during Prime Minister Manmohan Singh's first visit to the disputed, Muslim-majority region which sparked two of the Indo-Pakistani Wars and a 15-year separatist movement. ](/news/2004/11/16/indian-military-officials-announce-that-a-withdrawal-of-troops-will-begin-from-the-indian-administered-part-of-kashmir-during-prime-ministe.md)

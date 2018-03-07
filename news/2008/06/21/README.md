@@ -31,9 +31,9 @@ _Context: Chevron Corporation, Delta State, Nigeria_
 ### [ The Government of the Central African Republic signs a peace deal with two rebel groups which promises amnesty for rebel soldiers. ](/news/2008/06/21/the-government-of-the-central-african-republic-signs-a-peace-deal-with-two-rebel-groups-which-promises-amnesty-for-rebel-soldiers.md)
 _Context: Central African Republic, amnesty_
 
-##### United Nations High Commissioner for Refugees
+##### UN Refugee Agency
 ### [ An employee for the United Nations High Commissioner for Refugees in Somalia is kidnapped. ](/news/2008/06/21/an-employee-for-the-united-nations-high-commissioner-for-refugees-in-somalia-is-kidnapped.md)
-_Context: Somalia, United Nations High Commissioner for Refugees, kidnap_
+_Context: Somalia, UN Refugee Agency, kidnap_
 
 ##### Pakistan
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)

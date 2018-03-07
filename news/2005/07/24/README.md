@@ -27,9 +27,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ The United States wins the 2005 CONCACAF Gold Cup, defeating Panama after two overtime rounds and a penalty shootout. ](/news/2005/07/24/the-united-states-wins-the-2005-concacaf-gold-cup-defeating-panama-after-two-overtime-rounds-and-a-penalty-shootout.md)
 _Context: 2005 CONCACAF Gold Cup_
 
-##### United States of America
+##### American
 ### [ American cyclist and cancer survivor Lance Armstrong wins his seventh consecutive Tour de France. Armstrong has announced that this will be his last tour and he will be retiring from the sport. ](/news/2005/07/24/american-cyclist-and-cancer-survivor-lance-armstrong-wins-his-seventh-consecutive-tour-de-france-armstrong-has-announced-that-this-will-be.md)
-_Context: Lance Armstrong, Tour de France, United States of America, cancer, cyclist_
+_Context: American, Lance Armstrong, Tour de France, cancer, cyclist_
 
 ##### Israel
 ### [ Two Israeli civilians and two Palestinian terrorists have been killed. The Israelis were killed by Palestinian terrorists on the Kisufim road in the Gaza Strip, and the IDF Engineering forces killed the two terrorists. The al-Aqsa Martyrs' Brigades, the Popular Resistance Committees and Islamic Jihad all claimed responsibility for the attack. ](/news/2005/07/24/two-israeli-civilians-and-two-palestinian-terrorists-have-been-killed-the-israelis-were-killed-by-palestinian-terrorists-on-the-kisufim-ro.md)

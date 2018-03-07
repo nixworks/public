@@ -3,7 +3,7 @@ Formats: [HTML](2009/07/5/index.html)  [JSON](2009/07/5/index.json)  [XML](2009/
 
 ## [2009-07-5](/news/2009/07/5/index.md)
 
-##### United States of America
+##### American
 ### [ US Vice President Joe Biden says in an ABC interview that Washington will not interfere in an Israeli attack on Iran. ](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.md)
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.
 

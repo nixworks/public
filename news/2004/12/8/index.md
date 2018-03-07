@@ -29,7 +29,7 @@ _Context: Anthony Principi, George W. Bush, John W. Snow, U.S. President, U.S. S
 
 ##### Civil Unions and Relationships Acts
 ### [ Civil unions in New Zealand: Parliament passes civil union legislation by 65 votes to 55. The new law provides a way for "de facto" couples, including same-sex couples, to gain legal recognition of their relationships, but stops short of same-sex marriage. ](/news/2004/12/8/civil-unions-in-new-zealand-parliament-passes-civil-union-legislation-by-65-votes-to-55-the-new-law-provides-a-way-for-de-facto-couples.md)
-_Context: Civil Unions and Relationships Acts, Parliament of New Zealand, civil union, same-sex marriage_
+_Context: Civil Unions and Relationships Acts, civil union, parliament, same-sex marriage_
 
 ##### Israel
 ### [ The Israeli government indicates that it will recognize same-sex partnerships for certain benefits, and will introduce legislation formalizing this status. ](/news/2004/12/8/the-israeli-government-indicates-that-it-will-recognize-same-sex-partnerships-for-certain-benefits-and-will-introduce-legislation-formaliz.md)

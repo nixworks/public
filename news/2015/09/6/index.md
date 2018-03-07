@@ -31,7 +31,7 @@ Former USF football player was killed and football player was wounded in an earl
 ### [Pope Francis asks Catholic faithful in Europe to host refugee families fleeing death from war and hunger, and announces the Vatican's two churches will welcome two families of refugees. ](/news/2015/09/6/pope-francis-asks-catholic-faithful-in-europe-to-host-refugee-families-fleeing-death-from-war-and-hunger-and-announces-the-vatican-s-two-ch.md)
 _Context: Catholic faithful, Europe, European migrant crisis, Pope Francis, Vatican City_
 
-##### Spain
+##### Spanish
 ### [A Spain car rally race crash leaves six dead after a car veers off a straight section into spectators. ](/news/2015/09/6/a-spain-car-rally-race-crash-leaves-six-dead-after-a-car-veers-off-a-straight-section-into-spectators.md)
 Six people, including a pregnant woman, are killed after a car veers off the road during a car rally in north-western Spain.
 

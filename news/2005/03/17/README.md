@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Statue
 ### [ The only remaining statue in Madrid of the Spanish dictator Francisco Franco is removed on government orders. ](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-spanish-dictator-francisco-franco-is-removed-on-government-orders.md)
-_Context: Franco, Madrid, Spain, dictator, statue_
+_Context: Franco, Madrid, Spanish, dictator, statue_
 
 ##### London
 ### [ London police say they have foiled an attempt to steal GBP220 million from the London offices of the Sumitomo Mitsui Bank. ](/news/2005/03/17/london-police-say-they-have-foiled-an-attempt-to-steal-gbp220-million-from-the-london-offices-of-the-sumitomo-mitsui-bank.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/27/spanish-prime-minister-josa-c-maraa-aznar-perso
 
 ### [2003-02-27](/news/2003/02/27/index.md)
 
-##### Spain
+##### Spanish
 #  Spanish Prime Minister Jose Maria Aznar personally asks United States President George W. Bush to silence Secretary of Defense Donald Rumsfeld, indicating that Rumsfeld's numerous public remarks on European countries' Iraq policies are generally viewed as inflammatory and overwhelmingly counterproductive within the European diplomatic community. Aznar indicated a preference for Secretary of State Colin Powell.
 
 

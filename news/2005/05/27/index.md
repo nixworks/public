@@ -17,7 +17,7 @@ _Context: BBC, United Kingdom_
 
 ##### Basque
 ### [ The majority of members of Basque parliament, Spain, condemn the ETA bomb attack in Madrid, though the communists abstain. A bomb explodes later in a Basque train station. ](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.md)
-_Context: Basque, Basque, ETA, Madrid, Spain, abstain_
+_Context: Basque, Basque, ETA, Madrid, Spanish, abstain_
 
 ##### World Trade Organization
 ### [ The 148 members of the World Trade Organization officially appoint the former European Union Trade Commissioner, Pascal Lamy, as its 5th Director-General. ](/news/2005/05/27/the-148-members-of-the-world-trade-organization-officially-appoint-the-former-european-union-trade-commissioner-pascal-lamy-as-its-5th-di.md)
