@@ -11,8 +11,8 @@ Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the W
 ### [Facebook apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. ](/news/2018/03/5/facebook-apologizes-after-including-a-question-in-a-user-survey-on-the-acceptability-of-soliciting-sexual-pictures-from-minors-on-its-platfo.md)
 A Facebook moderation survey asked if adults should be able to ask for sexual pictures from young girls.
 
-##### Antifa
-### [Fighting breaks out between Antifa members and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-antifa-members-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michigan-state-u.md)
+##### Anti-fascist
+### [Fighting breaks out between anti-fascist protesters and supporters of white nationalist Richard B. Spencer when he gives a speech at Michigan State University, before they are separated by police. ](/news/2018/03/5/fighting-breaks-out-between-anti-fascist-protesters-and-supporters-of-white-nationalist-richard-b-spencer-when-he-gives-a-speech-at-michiga.md)
 Fights broke out between white supremacists and protesters Monday near Michigan State University to counter a planned speech by Richard Spencer.
 
 ##### Politics of China
