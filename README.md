@@ -4,8 +4,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/7/index.md)
 
 ##### Asteroid close approaches to Earth in 2018
-### [ An asteroid named 2017 VR12 is predicted to make a flyby with Earth tonight. ](/news/2018/03/7/an-asteroid-named-2017-vr12-is-predicted-to-make-a-flyby-with-earth-tonight.md)
-_Context: 2017 VR12, Asteroid close approaches to Earth in 2018_
+### [ An asteroid named 2017 VR is predicted to make a flyby with Earth tonight. ](/news/2018/03/7/an-asteroid-named-2017-vr-is-predicted-to-make-a-flyby-with-earth-tonight.md)
+_Context: Asteroid close approaches to Earth in 2018_
 
 ##### Astronomy
 ### [Astronomers observe the birth of a symbiotic X-ray binary, a star system in which matter is transferred from a red giant star to a closely orbiting neutron star (the remnant of a star gone supernova), forming an accretion disk and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays in August 2017. Further study showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. ](/news/2018/03/7/astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-a-star-system-in-which-matter-is-transferred-from-a-red-giant-star-to-a-closely-o.md)
@@ -23,9 +23,9 @@ _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 ### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
 The helicopter presumably belonged to the Border Guard Service
 
-##### Message in a bottle
-### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, the longest time known. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-the-longest-time-known.md)
-_Context: Australia, message in a bottle_
+##### A
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years.md)
+_Context: A, Australia, for almost 132 years, message in a bottle_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -34,6 +34,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/03/6/index.md)
+
+##### 2018 in spaceflight
+### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
+_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
@@ -44,7 +48,7 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
 ##### Post-WWII anti-fascism
-### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin, causing injuries to security guards and property damage. The neo-conservative Henry Jackson Society protests, saying university campuses are becoming "intolerant to free speech." ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-causi.md)
+### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin, reportedly causing injuries to security guards and property damage. The neo-conservative Henry Jackson Society protests, saying university campuses are becoming "intolerant to free speech." ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin-repor.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump
