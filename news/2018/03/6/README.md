@@ -15,6 +15,10 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
+##### Legal affairs of Donald Trump
+### [Porn star Stormy Daniels sues Donald Trump, arguing that a nondisclosure agreement signed by her and Trump's lawyer Michael Dean Cohen is invalid. ](/news/2018/03/6/porn-star-stormy-daniels-sues-donald-trump-arguing-that-a-nondisclosure-agreement-signed-by-her-and-trump-s-lawyer-michael-dean-cohen-is-in.md)
+The adult film star says a 2016 agreement not to discuss their alleged &quot;intimate&quot; relationship is not valid because then-candidate Trump never signed it.
+
 ##### Presidency of Donald Trump
 ### [The U.S. Office of Special Counsel says that Kellyanne Conway violated the Hatch Act of 1939 during two 2017 television interviews. ](/news/2018/03/6/the-u-s-office-of-special-counsel-says-that-kellyanne-conway-violated-the-hatch-act-of-1939-during-two-2017-television-interviews.md)
 Counselor to the president Kellyanne Conway has been found in violation of a federal law prohibiting government employees from engaging in political activities.
