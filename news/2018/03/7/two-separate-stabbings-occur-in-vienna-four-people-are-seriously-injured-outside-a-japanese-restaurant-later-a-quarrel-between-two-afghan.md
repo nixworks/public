@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-peop
 ### [2018-03-7](/news/2018/03/7/index.md)
 
 ##### 2018 Vienna stabbing
-# Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghani men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. 
+# Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. 
 
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in Vienna’s Second District, which includes the famous Prater park as well as the Praterstern transport hub. It also houses much of Vienna’s small Jewish community.
 

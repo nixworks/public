@@ -12,7 +12,7 @@ Is this the end of eight decades of mystery?
 _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 
 ##### Observational astronomy
-### [European astronomers observe the birth of a symbiotic X-ray binary from the Galactic Center using INTEGRAL space telescope. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-from-the-galactic-center-using-integral-space-telescope.md)
+### [European astronomers observe the "birth" of a symbiotic X-ray binary, IGR J17329-2731, described as a transient, from the Galactic Center using INTEGRAL space telescope. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-igr-j17329-2731-described-as-a-transient-from-the-galactic-center-us.md)
  ESA’s Integral space observatory has witnessed a rare event: the moment that winds emitted by a swollen red giant star revived its slow-spinning companion, the core of a dead star, bringing it back to life in a flash of X-rays. 
 
 ##### Stoneman Douglas High School shooting
@@ -20,7 +20,7 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghani men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
+### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Islamophobia in the United Kingdom

@@ -3,9 +3,13 @@ Formats: [HTML](2018/03/8/index.html)  [JSON](2018/03/8/index.json)  [XML](2018/
 
 ## [2018-03-8](/news/2018/03/8/index.md)
 
-##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghani men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/8/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
-Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
+##### 2017-18 North Korea crisis
+### [ Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are long ways from negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-apotentially-positive-signalsa-coming-from-north-korea-but-that-the-two-countri.md)
+Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
+
+##### Rif Dimashq offensive (February 2018-present)
+### [Militants shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/militants-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor.md)
+Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ## [Previous Day...](/news/2018/03/7/index.md)
 
