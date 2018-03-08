@@ -12,7 +12,7 @@ Is this the end of eight decades of mystery?
 _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 
 ##### Observational astronomy
-### [European Astronomers observe the birth of a symbiotic X-ray binary from the Galactic Center. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-from-the-galactic-center.md)
+### [European astronomers observe the birth of a symbiotic X-ray binary from the Galactic Center using INTEGRAL space telescope. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-from-the-galactic-center-using-integral-space-telescope.md)
  ESA’s Integral space observatory has witnessed a rare event: the moment that winds emitted by a swollen red giant star revived its slow-spinning companion, the core of a dead star, bringing it back to life in a flash of X-rays. 
 
 ##### Stoneman Douglas High School shooting

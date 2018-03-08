@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/8/index.md)
 
 ##### 2018 Vienna stabbing
-### [Four people are seriously injured in a stabbing attack in Vienna. The perpetrator is an Afghan man. ](/news/2018/03/8/four-people-are-seriously-injured-in-a-stabbing-attack-in-vienna-the-perpetrator-is-an-afghan-man.md)
+### [Two separate stabbings occurred in Vienna. Four people are seriously injured outside a Japanese restaurant. Later that evening a quarrel between two Afghani men resulted in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/8/two-separate-stabbings-occurred-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-that-evening-a-quarrel-bet.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Opinion
@@ -24,7 +24,7 @@ Is this the end of eight decades of mystery?
 _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 
 ##### Observational astronomy
-### [European Astronomers observe the birth of a symbiotic X-ray binary from the Galactic Center. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-from-the-galactic-center.md)
+### [European astronomers observe the birth of a symbiotic X-ray binary from the Galactic Center using INTEGRAL space telescope. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-from-the-galactic-center-using-integral-space-telescope.md)
  ESA’s Integral space observatory has witnessed a rare event: the moment that winds emitted by a swollen red giant star revived its slow-spinning companion, the core of a dead star, bringing it back to life in a flash of X-rays. 
 
 ##### Stoneman Douglas High School shooting
@@ -50,10 +50,6 @@ _Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 
 ---
 
 ## [Day Before Yesterday](/news/2018/03/6/index.md)
-
-##### 2018 in spaceflight
-### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
-_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
