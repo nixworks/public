@@ -12,7 +12,7 @@ Billionaire-turned-explorer Paul Allen has discovered the missing wreck of the W
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-australia-43296489)
-2. [USNI News](https://news.usni.org/2018/03/05/video-billionaire-paul-allen-finds-lost-world-war-ii-carrier-uss-lexington)
+2. [United States Naval Institute](https://news.usni.org/2018/03/05/video-billionaire-paul-allen-finds-lost-world-war-ii-carrier-uss-lexington)
 2. [Cover Image](https://news.usni.org/wp-content/uploads/2018/03/lexington_.png)
 
 ### Changes:

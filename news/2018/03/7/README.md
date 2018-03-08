@@ -16,7 +16,7 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
  ESA’s Integral space observatory has witnessed a rare event: the moment that winds emitted by a swollen red giant star revived its slow-spinning companion, the core of a dead star, bringing it back to life in a flash of X-rays. 
 
 ##### Stoneman Douglas High School shooting
-### [Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, devices which allow users to pull a firearm's trigger at a higher rate. ](/news/2018/03/7/florida-s-house-of-representatives-votes-67a50-to-approve-a-gun-and-school-safety-bill-that-would-raise-the-age-to-buy-firearms-from-18-to.md)
+### [Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, and creates a program for the arming of some teachers. ](/news/2018/03/7/florida-s-house-of-representatives-votes-67a50-to-approve-a-gun-and-school-safety-bill-that-would-raise-the-age-to-buy-firearms-from-18-to.md)
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
 ##### 2018 Vienna stabbing
@@ -30,6 +30,10 @@ The leaders of far-right extremist group Britain First have been jailed for anti
 ##### Australia-East Timor relations
 ### [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md)
 _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
+
+##### March 6-8, 2018 nor'easter
+### [A second winter storm occurs in the East Coast of the United States, only days after another comparable storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-days-after-another-comparable-storm.md)
+A dangerous winter storm will lead to whiteout conditions, and likely many more outages.
 
 ##### Accidents and incidents involving helicopters
 ### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
