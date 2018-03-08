@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symb
 
 ### Sources:
 
-1. [ESA](http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion)
+1. [European Space Agency](http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion)
 1. [Cover Image](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/red_giant_and_neutron_star_interaction/17397841-1-eng-GB/Red_giant_and_neutron_star_interaction_large_fb.gif)
 
 ### Changes:
