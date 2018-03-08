@@ -31,9 +31,9 @@ _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 ### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
 The helicopter presumably belonged to the Border Guard Service
 
-##### Paula (1876 barque) ''SS Message in a bottle find''
+##### ''Paula'' (1876 barque)
 ### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years.md)
-_Context: Australia, Paula (1876 barque) ''SS Message in a bottle find'', almost 132 years, message in a bottle_
+_Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 years_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
