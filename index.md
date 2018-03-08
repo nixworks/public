@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/8/index.md)
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occurred in Vienna. Four people are seriously injured outside a Japanese restaurant. Later that evening a quarrel between two Afghani men resulted in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/8/two-separate-stabbings-occurred-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-that-evening-a-quarrel-bet.md)
+### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghani men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/8/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Opinion
@@ -44,7 +44,7 @@ _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 The helicopter presumably belonged to the Border Guard Service
 
 ##### ''Paula'' (1876 barque)
-### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years.md)
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, setting a new record. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-setting-a-new-record.md)
 _Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 years_
 
 ---
