@@ -4,16 +4,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/8/index.md)
 
 ##### 2017-18 North Korea crisis
-### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-apotentially-positive-signalsa-coming-from-north-korea-but-that-the-two-countrie.md)
+### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-potentially-positive-signals-coming-from-north-korea-but-that-the-two-countries-ar.md)
 Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
 
 ##### Turkish military operation in Afrin
 ### [Turkish-backed Free Syrian Army forces seize control of Jindires in Syria's Afrin District from the Kurdish YPG. The town has suffered extensive destruction due to Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/turkish-backed-free-syrian-army-forces-seize-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-has-suffered-exten.md)
 _Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
-
-##### Rif Dimashq offensive (February 2018-present)
-### [Rebels shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/rebels-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor-thr.md)
-Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -40,7 +36,7 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
+### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Hate crime in the United Kingdom
@@ -59,9 +55,9 @@ A dangerous winter storm will lead to whiteout conditions, and likely many more 
 ### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
 The helicopter presumably belonged to the Border Guard Service
 
-##### ''Paula'' (1876 barque)
-### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known.md)
-_Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 years_
+##### A message in a bottle
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known message in a bottle. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known-messag.md)
+_Context: A message in a bottle, Australia, almost 132 years, message in a bottle_
 
 ---
 

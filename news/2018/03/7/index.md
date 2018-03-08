@@ -20,7 +20,7 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
+### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Hate crime in the United Kingdom
@@ -39,9 +39,9 @@ A dangerous winter storm will lead to whiteout conditions, and likely many more 
 ### [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md)
 The helicopter presumably belonged to the Border Guard Service
 
-##### ''Paula'' (1876 barque)
-### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known.md)
-_Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 years_
+##### A message in a bottle
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known message in a bottle. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known-messag.md)
+_Context: A message in a bottle, Australia, almost 132 years, message in a bottle_
 
 ## [Previous Day...](/news/2018/03/6/index.md)
 
