@@ -7,7 +7,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 ### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Some scientists in the field state that the sample may have been contaminated with modern DNA weakening the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
 New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
-##### DREAM Act
+##### Nancy Pelosi
 ### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop, pleading for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-spoke-for-eigh.md)
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
