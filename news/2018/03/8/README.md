@@ -3,8 +3,12 @@ Formats: [HTML](2018/03/8/index.html)  [JSON](2018/03/8/index.json)  [XML](2018/
 
 ## [2018-03-8](/news/2018/03/8/index.md)
 
+##### Donald Trump
+### [U.S. President Donald Trump signs proclamations which will impose a 25% tariff on imported steel and 10% on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect in 15 days. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-a-25-tariff-on-imported-steel-and-10-on-aluminum-from-most-countries-ca.md)
+Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
+
 ##### United States recognition of Jerusalem as capital of Israel
-### [Secretary-General of the Arab League Ahmed Aboul Gheit demanded that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel said that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demanded-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jer.md)
+### [Secretary-General of the Arab League Ahmed Aboul Gheit demands that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel says that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demands-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jeru.md)
 _Context: Ahmed Aboul Gheit, Guatemala, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
 
 ##### 2017-18 North Korea crisis

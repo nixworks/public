@@ -23,8 +23,8 @@ Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and 
 ### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
-##### Censorship in the United Kingdom
-### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
+##### Hate crime in the United Kingdom
+### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen to 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
 The leaders of far-right extremist group Britain First have been jailed for anti-Muslim hate crimes after targeting people they incorrectly believed were involved in an ongoing rape trial.
 
 ##### Australia-East Timor relations

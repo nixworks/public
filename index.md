@@ -3,8 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/8/index.md)
 
+##### Donald Trump
+### [U.S. President Donald Trump signs proclamations which will impose a 25% tariff on imported steel and 10% on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect in 15 days. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-a-25-tariff-on-imported-steel-and-10-on-aluminum-from-most-countries-ca.md)
+Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
+
 ##### United States recognition of Jerusalem as capital of Israel
-### [Secretary-General of the Arab League Ahmed Aboul Gheit demanded that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel said that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demanded-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jer.md)
+### [Secretary-General of the Arab League Ahmed Aboul Gheit demands that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel says that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demands-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jeru.md)
 _Context: Ahmed Aboul Gheit, Guatemala, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
 
 ##### 2017-18 North Korea crisis
@@ -43,8 +47,8 @@ Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and 
 ### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
-##### Censorship in the United Kingdom
-### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
+##### Hate crime in the United Kingdom
+### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen to 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
 The leaders of far-right extremist group Britain First have been jailed for anti-Muslim hate crimes after targeting people they incorrectly believed were involved in an ongoing rape trial.
 
 ##### Australia-East Timor relations
@@ -66,6 +70,10 @@ _Context: A message in a bottle, Australia, almost 132 years, message in a bottl
 ---
 
 ## [Day Before Yesterday](/news/2018/03/6/index.md)
+
+##### 2018 in spaceflight
+### [SpaceX successfully launches Spanish communications satellite Hispasat 30W-6 into orbit on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. ](/news/2018/03/6/spacex-successfully-launches-spanish-communications-satellite-hispasat-30w-6-into-orbit-on-a-falcon-9-full-thrust-rocket-from-cape-canaveral.md)
+_Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full Thrust, Hispasat 30W-6, SpaceX, Spanish_
 
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
