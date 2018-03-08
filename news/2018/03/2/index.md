@@ -39,9 +39,9 @@ The Kremlin on Friday rejected a U.S. allegation that Russia had been developing
 ### [ At least 25 people are killed in a fire at a drug-rehabilitation clinic in Baku, Azerbaijan. ](/news/2018/03/2/at-least-25-people-are-killed-in-a-fire-at-a-drug-rehabilitation-clinic-in-baku-azerbaijan.md)
 _Context: 2018 Baku fire, Azerbaijan, Baku_
 
-##### March 2018 nor'easter
+##### March 1-3, 2018 nor'easter
 ### [A massive winter storm occurs in the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. ](/news/2018/03/2/a-massive-winter-storm-occurs-in-the-east-coast-of-the-united-states-leaving-millions-without-power-and-cancelling-thousands-of-airplane-fl.md)
-_Context: East Coast of the United States, March 2018 nor'easter_
+_Context: East Coast of the United States, March 1-3, 2018 nor'easter_
 
 ##### 2017-18 European windstorm season
 ### [An avalanche near Entraunes in southeastern France, kills at least four people and leaves another one missing. ](/news/2018/03/2/an-avalanche-near-entraunes-in-southeastern-france-kills-at-least-four-people-and-leaves-another-one-missing.md)

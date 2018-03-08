@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/2/a-massive-winter-storm-occurs-in-the-east-coast-
 
 ### [2018-03-2](/news/2018/03/2/index.md)
 
-##### March 2018 nor'easter
+##### March 1-3, 2018 nor'easter
 # A massive winter storm occurs in the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. 
 
 
