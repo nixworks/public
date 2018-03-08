@@ -4,11 +4,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/8/index.md)
 
 ##### 2017-18 North Korea crisis
-### [ Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are long ways from negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-apotentially-positive-signalsa-coming-from-north-korea-but-that-the-two-countri.md)
+### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-apotentially-positive-signalsa-coming-from-north-korea-but-that-the-two-countrie.md)
 Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
 
+##### Turkish military operation in Afrin
+### [Turkish-backed Free Syrian Army forces seize control of Jindires in Syria's Afrin District from the Kurdish YPG. The town has suffered extensive destruction due to Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/turkish-backed-free-syrian-army-forces-seize-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-has-suffered-exten.md)
+_Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
+
 ##### Rif Dimashq offensive (February 2018-present)
-### [Militants shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/militants-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor.md)
+### [Rebels shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/rebels-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor-thr.md)
 Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ##### Opinion
@@ -39,8 +43,8 @@ Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and 
 ### [Two separate stabbings occur in Vienna. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear as of now. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-two-afghan.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
-##### Islamophobia in the United Kingdom
-### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-golding.md)
+##### Hate crime in the United Kingdom
+### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
 The leaders of far-right extremist group Britain First have been jailed for anti-Muslim hate crimes after targeting people they incorrectly believed were involved in an ongoing rape trial.
 
 ##### Australia-East Timor relations

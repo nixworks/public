@@ -11,7 +11,7 @@ A dangerous winter storm will lead to whiteout conditions, and likely many more 
 
 ### Sources:
 
-1. [Weather](https://weather.com/storms/winter/news/2018-03-07-winter-storm-quinn-noreaster-snow-wind-forecast)
+1. [The Weather Company](https://weather.com/storms/winter/news/2018-03-07-winter-storm-quinn-noreaster-snow-wind-forecast)
 1. [Cover Image](https://s.w-x.co/quinn_prim_0308am.jpg)
 
 ### Related:
