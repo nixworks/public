@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy
 
 ### [2018-03-7](/news/2018/03/7/index.md)
 
-##### Hate crime in the United Kingdom
+##### Censorship in the United Kingdom
 # Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. 
 
 The leaders of far-right extremist group Britain First have been jailed for anti-Muslim hate crimes after targeting people they incorrectly believed were involved in an ongoing rape trial.

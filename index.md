@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/8/index.md)
 
+##### United States recognition of Jerusalem as capital of Israel
+### [Secretary-General of the Arab League Ahmed Aboul Gheit demanded that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel said that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demanded-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jer.md)
+_Context: Ahmed Aboul Gheit, Guatemala, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
+
 ##### 2017-18 North Korea crisis
 ### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-potentially-positive-signals-coming-from-north-korea-but-that-the-two-countries-ar.md)
 Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
@@ -36,10 +40,10 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
+### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
-##### Hate crime in the United Kingdom
+##### Censorship in the United Kingdom
 ### [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md)
 The leaders of far-right extremist group Britain First have been jailed for anti-Muslim hate crimes after targeting people they incorrectly believed were involved in an ongoing rape trial.
 
