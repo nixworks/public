@@ -11,7 +11,7 @@ Four people were seriously wounded in two knife attacks in a district of the Aus
 
 ### Sources:
 
-1. [Independent](http://www.independent.co.uk/news/world/europe/austria-stabbings-latest-updates-vienna-attack-family-knife-a8245171.html)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/austria-stabbings-latest-updates-vienna-attack-family-knife-a8245171.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/08/02/austria-knife-fight-.jpg)
 
 ### Changes:

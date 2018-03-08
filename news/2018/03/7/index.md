@@ -32,7 +32,7 @@ _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 The helicopter presumably belonged to the Border Guard Service
 
 ##### ''Paula'' (1876 barque)
-### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, setting a new record. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-setting-a-new-record.md)
+### [A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years, making it reportedly the oldest known. ](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-confirmed-to-have-been-adrift-for-almost-132-years-making-it-reportedly-the-oldest-known.md)
 _Context: ''Paula'' (1876 barque), A message in a bottle, Australia, almost 132 years_
 
 ## [Previous Day...](/news/2018/03/6/index.md)
