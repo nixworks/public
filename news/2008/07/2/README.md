@@ -3,9 +3,9 @@ Formats: [HTML](2008/07/2/index.html)  [JSON](2008/07/2/index.json)  [XML](2008/
 
 ## [2008-07-2](/news/2008/07/2/index.md)
 
-##### Mi-8
+##### Mil Mi-8
 ### [ Nine oil workers are killed when a civilian Mi-8 helicopter carrying 16 people crashes in Siberia. ](/news/2008/07/2/nine-oil-workers-are-killed-when-a-civilian-mi-8-helicopter-carrying-16-people-crashes-in-siberia.md)
-_Context: Mi-8, Siberia_
+_Context: Mil Mi-8, Siberia_
 
 ##### 2008 Jerusalem bulldozer rampage
 ### [ 2008 Jerusalem bulldozer rampage: A man drives a construction loader into several vehicles on Jaffa Road in Jerusalem, killing three and leaving dozens other injured, before being shot dead by an off-duty IDF officer. ](/news/2008/07/2/2008-jerusalem-bulldozer-rampage-a-man-drives-a-construction-loader-into-several-vehicles-on-jaffa-road-in-jerusalem-killing-three-and-le.md)

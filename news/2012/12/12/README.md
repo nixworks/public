@@ -3,7 +3,7 @@ Formats: [HTML](2012/12/12/index.html)  [JSON](2012/12/12/index.json)  [XML](201
 
 ## [2012-12-12](/news/2012/12/12/index.md)
 
-##### United Kingdom
+##### British
 ### [A British research team launches a long-awaited project to hunt for life in Lake Ellsworth hidden beneath the ice-sheet in Antarctica. ](/news/2012/12/12/a-british-research-team-launches-a-long-awaited-project-to-hunt-for-life-in-lake-ellsworth-hidden-beneath-the-ice-sheet-in-antarctica.md)
 A British research team in Antarctica has launched a long-awaited project to hunt for life in a lake hidden beneath the ice-sheet.
 

@@ -45,7 +45,7 @@ _Context: Adidas, Amer Sports, Finland, Wilson Sporting Goods_
 
 ##### Newcastle upon Tyne
 ### [ Guardsman Anthony John Wakefield, from Newcastle upon Tyne, has been killed in Iraq after being injured in hostile action in the southern town of Al Amarah, bringing the total of UK servicemen killed in the Iraq conflict to 87. ](/news/2005/05/2/guardsman-anthony-john-wakefield-from-newcastle-upon-tyne-has-been-killed-in-iraq-after-being-injured-in-hostile-action-in-the-southern-t.md)
-_Context: Al Amarah, Iraq, Newcastle upon Tyne, United Kingdom_
+_Context: Al Amarah, British, Iraq, Newcastle upon Tyne_
 
 ##### Pagja
 ### [ Dozens of people reportedly die after a large explosion in a munitions dump in Pagja, Afghanistan 50 miles north of Kabul. ](/news/2005/05/2/dozens-of-people-reportedly-die-after-a-large-explosion-in-a-munitions-dump-in-pagja-afghanistan-50-miles-north-of-kabul.md)

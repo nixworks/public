@@ -13,7 +13,7 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 
 ##### Enough Project
 ### [Activists from the Enough Project reveal through "The Guardian" newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-together.md)
-_Context: $, DR Congo, Enough Project, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, United Kingdom, military aid, pound sterling_
+_Context: $, British, DR Congo, Enough Project, Joseph Kabila, Omar al-Bashir, Sudan, The Guardian, military aid, pound sterling_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa, the former President of Japan's Olympus Corporation, pleads guilty to fraud for his role in the Olympus scandal. ](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.md)

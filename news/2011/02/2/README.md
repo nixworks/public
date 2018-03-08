@@ -27,9 +27,9 @@ _Context: Andy Coulson, BBC, Craig Oliver, David Cameron_
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
 _Context: Dmitry Medvedev, Kremlin, Mikhail Khodorkovsky, President, Sergei Magnitsky, human rights_
 
-##### Prime Minister
+##### New Zealand Prime Minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)
-_Context: John Key, Prime Minister, general election_
+_Context: John Key, New Zealand Prime Minister, general election_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits rural Jinzhai County in Jiangxi province to celebrate Chinese New Year with local farmers. ](/news/2011/02/2/chinese-premier-wen-jiabao-visits-rural-jinzhai-county-in-jiangxi-province-to-celebrate-chinese-new-year-with-local-farmers.md)

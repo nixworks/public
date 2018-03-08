@@ -9,7 +9,7 @@ _Context: China, moon, physiognomy, satellites_
 
 ##### Cruise liner
 ### [ The starboard engine of the cruise liner "The Calypso", sailing from Tilbury to St Peter Port on Guernsey, catches fire at 4 am, 16 miles off Eastbourne, southeast of the British coast. Its crew puts the fire out, after its 708 passengers are moved into its lifeboats. Rescue lifeboats attend but neither these nor the ship's lifeboats are needed.](/news/2006/05/6/the-starboard-engine-of-the-cruise-liner-the-calypso-sailing-from-tilbury-to-st-peter-port-on-guernsey-catches-fire-at-4-am-16-miles-o.md)
-_Context: ''The Calypso'', Eastbourne, Guernsey, St Peter Port, Tilbury, United Kingdom, crew, cruise liner, lifeboat, lifeboat_
+_Context: ''The Calypso'', British, Eastbourne, Guernsey, St Peter Port, Tilbury, crew, cruise liner, lifeboat, lifeboat_
 
 ##### People's Action Party
 ### [ The People's Action Party is returned to government in Singapore for the twelfth time, winning 82 out of 84 seats with the ruling party winning 66.6% of the total votes in the 2006 general election. ](/news/2006/05/6/the-people-s-action-party-is-returned-to-government-in-singapore-for-the-twelfth-time-winning-82-out-of-84-seats-with-the-ruling-party-win.md)

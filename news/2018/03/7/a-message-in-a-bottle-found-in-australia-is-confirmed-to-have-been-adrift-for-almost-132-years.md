@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/7/a-message-in-a-bottle-found-in-australia-is-conf
 
 ### [2018-03-7](/news/2018/03/7/index.md)
 
-##### A
+##### Oldest-known message in a bottle
 # A message in a bottle found in Australia is confirmed to have been adrift for almost 132 years. 
 
 

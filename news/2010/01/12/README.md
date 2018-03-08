@@ -21,7 +21,7 @@ The 1980s British pop star Shakin&#39; Stevens has been convicted of assaulting 
 
 ##### Kent
 ### [Police in Kent, UK, admit the unlawful searching of two 11-year-old children who were left "crying and shaking" after being targeted at a demonstration near Hoo. ](/news/2010/01/12/police-in-kent-uk-admit-the-unlawful-searching-of-two-11-year-old-children-who-were-left-crying-and-shaking-after-being-targeted-at-a-de.md)
-_Context: Hoo, Kent, United Kingdom_
+_Context: British, Hoo, Kent_
 
 ##### Crown Court
 ### [Four men feature in the first Crown Court criminal trial to be held without a jury in England and Wales for more than 350 years. ](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.md)
@@ -35,9 +35,9 @@ _Context: Saudi Arabia, Thailand_
 ### [A gunman kills two people at a bar in Habikino, Japan, before turning the gun on himself. ](/news/2010/01/12/a-gunman-kills-two-people-at-a-bar-in-habikino-japan-before-turning-the-gun-on-himself.md)
 _Context: Habikino, Japan, gunman kills two people_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom bans the Islamist organisation Al-Muhajiroun and an offshoot group, Islam4UK. ](/news/2010/01/12/the-united-kingdom-bans-the-islamist-organisation-al-muhajiroun-and-an-offshoot-group-islam4uk.md)
-_Context: Al-Muhajiroun, Islam4UK, Islamist, United Kingdom_
+_Context: Al-Muhajiroun, British, Islam4UK, Islamist_
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that powers contained in the UK Terrorism Act 2000 violate the European Convention on Human Rights. ](/news/2010/01/12/the-european-court-of-human-rights-rules-that-powers-contained-in-the-uk-terrorism-act-2000-violate-the-european-convention-on-human-rights.md)

@@ -12,7 +12,7 @@ _Context: 2010 Wimbledon Championships, Rafael Nadal, Spanish, men's singles tit
 The Oktoberfest beer festival in Munich is to become smoke-free after a referendum.
 
 ##### Mexican gubernatorial elections, 2010
-### [Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md)
+### [Voters in 14 Mexican states vote to elect governors and mayors. ](/news/2010/07/4/voters-in-14-mexican-states-vote-to-elect-governors-and-mayors.md)
 Opposition party set to gain from frustration over drug violence and weak economy.
 
 ##### Polish presidential election, 2010

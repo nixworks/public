@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/27/index.html)  [JSON](2009/07/27/index.json)  [XML](200
 ### [ Albanian Prime Minister Sali Berisha's alliance wins enough seats to form a government, though it fell one seat short of a majority. ](/news/2009/07/27/albanian-prime-minister-sali-berisha-s-alliance-wins-enough-seats-to-form-a-government-though-it-fell-one-seat-short-of-a-majority.md)
 _Context: Albania, Prime Minister, Sali Berisha_
 
-##### United Kingdom
+##### British
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
+_Context: Afghanistan, British, Helmand Province, Operation Panther's Claw, Taliban_
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)

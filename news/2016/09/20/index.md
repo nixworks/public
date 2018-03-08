@@ -23,7 +23,7 @@ _Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Mani
 ### [A United States Air Force U-2 reconnaissance aircraft crashes in Northern California, shortly after takeoff from Beale Air Force Base, killing one pilot and injuring another. ](/news/2016/09/20/a-united-states-air-force-u-2-reconnaissance-aircraft-crashes-in-northern-california-shortly-after-takeoff-from-beale-air-force-base-killi.md)
 Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just north of Sacramento, according to the U.S. Air Force.
 
-##### Mi-8
+##### Mil Mi-8
 ### [An Mi-8 transport helicopter crashes near the eastern Libyan city of Tobruk, killing at least six people. ](/news/2016/09/20/an-mi-8-transport-helicopter-crashes-near-the-eastern-libyan-city-of-tobruk-killing-at-least-six-people.md)
 Libyan medics say a helicopter crashed near the eastern city where the internationally-recognized parliament is based, killing all six people on board, including the military adviser of a powerful general.
 

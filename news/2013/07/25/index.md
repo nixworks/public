@@ -3,9 +3,9 @@ Formats: [HTML](2013/07/25/index.html)  [JSON](2013/07/25/index.json)  [XML](201
 
 ## [2013-07-25](/news/2013/07/25/index.md)
 
-##### United Kingdom
+##### British
 ### [British scientists discover the mechanism which causes human allergy to cats, and state that a general cure for the condition could become available within five years. ](/news/2013/07/25/british-scientists-discover-the-mechanism-which-causes-human-allergy-to-cats-and-state-that-a-general-cure-for-the-condition-could-become-a.md)
-_Context: United Kingdom, allergy to cats_
+_Context: British, allergy to cats_
 
 ##### Recent parliamentary election
 ### [Voters in Togo go to the polls for a parliamentary election, which was delayed from October 2012 due to mass protests. ](/news/2013/07/25/voters-in-togo-go-to-the-polls-for-a-parliamentary-election-which-was-delayed-from-october-2012-due-to-mass-protests.md)

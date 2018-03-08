@@ -25,7 +25,7 @@ The US carries out air strikes in Libya on positions of so-called Islamic State 
 
 ##### Syrian civil war
 ### [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md)
-_Context: Mi-8, Russia, Syria, Syrian civil war_
+_Context: Mil Mi-8, Russia, Syria, Syrian civil war_
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban claims responsibility for a truck bombing in a military complex in Kabul. ](/news/2016/08/1/the-taliban-claims-responsibility-for-a-truck-bombing-in-a-military-complex-in-kabul.md)

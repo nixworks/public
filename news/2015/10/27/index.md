@@ -7,9 +7,9 @@ Formats: [HTML](2015/10/27/index.html)  [JSON](2015/10/27/index.json)  [XML](201
 ### [Partial results from Sunday's election give Ivory Coast's President Alassane Ouattara an overwhelming lead (83.18 percent) on the way to a second five-year term. This weekend's vote was judged to be peaceful and transparent by observers, making it the first in Cote d'Ivoire's history not to be marred by serious rights violations or irregularities. ](/news/2015/10/27/partial-results-from-sunday-s-election-give-ivory-coast-s-president-alassane-ouattara-an-overwhelming-lead-83-18-percent-on-the-way-to-a-s.md)
 _Context: Alassane Ouattara, Ivorian presidential election, 2015, Ivory Coast, President, observers, serious rights violations or irregularities_
 
-##### United Kingdom
+##### British
 ### [Britain is reviewing the powers of the House of Lords after the unelected peers stalled legislation yesterday that would have eliminated some tax allowances for the nation's poor. Senior Conservatives say the upper chamber of Parliament stepped out of their usual roles as technical overseers of legislation. However, Conservative MP David Davis warned that such a move was "bully politics" that would "disgust" the public. ](/news/2015/10/27/britain-is-reviewing-the-powers-of-the-house-of-lords-after-the-unelected-peers-stalled-legislation-yesterday-that-would-have-eliminated-som.md)
-_Context: Conservatives, David Davis, House of Lords, MP, Parliament, United Kingdom, bully politics_
+_Context: British, Conservatives, David Davis, House of Lords, MP, Parliament, bully politics_
 
 ##### Guatemala
 ### [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md)

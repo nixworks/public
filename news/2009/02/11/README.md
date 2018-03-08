@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/11/index.html)  [JSON](2009/02/11/index.json)  [XML](200
 
 ## [2009-02-11](/news/2009/02/11/index.md)
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, United Kingdom, Wikipedia, painter_
+_Context: British, Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, Wikipedia, painter_
 
 ##### Oscar Temaru
 ### [ Oscar Temaru is elected President of French Polynesia for the fourth time in five years. ](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.md)

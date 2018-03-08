@@ -59,7 +59,7 @@ _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
 _Context: Afghanistan, Azizollah Yarmal, Kandahar, mosque_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom is accused of complicity in torture in Afghanistan as peace campaigner Maya Evans seeks a judicial review of the government's role in the extraordinary rendition of suspects. ](/news/2010/04/20/the-united-kingdom-is-accused-of-complicity-in-torture-in-afghanistan-as-peace-campaigner-maya-evans-seeks-a-judicial-review-of-the-governme.md)
 Britain has been accused of complicity in the torture of Taliban suspects arrested and handed over to the Afghan security forces to face &quot;horrible abuse&quot;.
 

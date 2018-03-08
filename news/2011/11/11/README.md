@@ -41,7 +41,7 @@ _Context: Francisco Blake Mora, Mexico, Mexico's Secretary of the Interior_
 
 ##### First-person shooter
 ### [First-person shooter video game "Modern Warfare 3", published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kingd.md)
-_Context: Activision, First-person shooter, Modern Warfare 3, North America, United Kingdom_
+_Context: Activision, British, First-person shooter, Modern Warfare 3, North America_
 
 ##### Ferry
 ### [An armed hijacker claiming to have a bomb takes control of a ferry on the Sea of Marmara near the Turkish port of Izmit but is later killed by the Turkish military. ](/news/2011/11/11/an-armed-hijacker-claiming-to-have-a-bomb-takes-control-of-a-ferry-on-the-sea-of-marmara-near-the-turkish-port-of-izmit-but-is-later-killed.md)

@@ -19,9 +19,9 @@ _Context: England, European title, Germany, UEFA Women's Euro 2009, association 
 ### [ Greek militant group Revolutionary Struggle threatens to attack the "golden boys" it blames for the economic crisis as it claims responsibility for the Athens stock market bombing. ](/news/2009/09/10/greek-militant-group-revolutionary-struggle-threatens-to-attack-the-golden-boys-it-blames-for-the-economic-crisis-as-it-claims-responsibi.md)
 Greek militant group Revolutionary Struggle have threatened to attack the &#39;golden boys&#39; it blames for the economic crisis.
 
-##### United Kingdom
+##### British
 ### [ British consul John Terry is murdered in Jamaica. ](/news/2009/09/10/british-consul-john-terry-is-murdered-in-jamaica.md)
-_Context: Jamaica, United Kingdom_
+_Context: British, Jamaica_
 
 ##### Afghanistan
 ### [ Afghan journalists express anger over the killing of local reporter Sultan Munadi during a rescue operation that saved his colleague Stephen Farrell. ](/news/2009/09/10/afghan-journalists-express-anger-over-the-killing-of-local-reporter-sultan-munadi-during-a-rescue-operation-that-saved-his-colleague-stephe.md)
@@ -55,7 +55,7 @@ _Context: Du Jun, Hong Kong, Morgan Stanley_
 ### [ Libyan leader Muammar al-Gaddafi says he will demand a permanent place in the United Nations Security Council for Africa and compensation worth 777 trillion dollars for years of colonialism in New York later this month. ](/news/2009/09/10/libyan-leader-muammar-al-gaddafi-says-he-will-demand-a-permanent-place-in-the-united-nations-security-council-for-africa-and-compensation-w.md)
 _Context: Africa, Libya, Muammar al-Gaddafi, New York, United Nations_
 
-##### United Kingdom
+##### British
 ### [ British Prime Minister Gordon Brown apologises for the post-war treatment of celebrated WWII code-breaker Alan Turing, who was chemically castrated for having homosexual relations. ](/news/2009/09/10/british-prime-minister-gordon-brown-apologises-for-the-post-war-treatment-of-celebrated-wwii-code-breaker-alan-turing-who-was-chemically-c.md)
 British Prime Minister Gordon Brown apologized Friday for the &quot;inhumane&quot; treatment of Second World War code-breaker Alan Turing who was convicted of gross indecency for being homosexual at a time when it was illegal in Britain.
 

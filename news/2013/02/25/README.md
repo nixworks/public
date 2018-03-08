@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/25/index.html)  [JSON](2013/02/25/index.json)  [XML](201
 
 ## [2013-02-25](/news/2013/02/25/index.md)
 
-##### United Kingdom
+##### British
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)
 Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica hailed as the last great polar challenge because of severe frostbite.
 
@@ -73,7 +73,7 @@ BlackBerry launched its first smartphone from its BlackBerry 10 line in India on
 
 ##### BT
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: BT, ESPN, Irish, United Kingdom, sports broadcasting_
+_Context: BT, British, ESPN, Irish, sports broadcasting_
 
 ##### Syrian civil war
 ### [For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-rebels-in-hopes-of-a.md)

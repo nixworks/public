@@ -27,7 +27,7 @@ A human rights organization says it has collected evidence of two previously unr
 
 ##### Annecy murders
 ### [A toddler is found alive, hours after a shooting leaves four dead and another child heavily injured in a wood in Chevaline, Haute-Savoie near Lake Annecy, France. A car with a British licence plate is involved. British tourists, the male Iraqi-passport-holding driver and two women in the car, and a local inhabitant on a cycle, who was on paternity leave, are among the deaths. ](/news/2012/09/6/a-toddler-is-found-alive-hours-after-a-shooting-leaves-four-dead-and-another-child-heavily-injured-in-a-wood-in-chevaline-haute-savoie-nea.md)
-_Context: Annecy murders, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy, United Kingdom_
+_Context: Annecy murders, British, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy_
 
 ##### 61 people
 ### [61 people, illegal immigrants traveling below deck, die after a fishing boat capsizes fifty meters off the Izmir Province coast of Turkey, near the Greek Aegean islands. ](/news/2012/09/6/61-people-illegal-immigrants-traveling-below-deck-die-after-a-fishing-boat-capsizes-fifty-meters-off-the-izmir-province-coast-of-turkey-n.md)

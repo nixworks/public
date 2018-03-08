@@ -15,9 +15,9 @@ _Context: France, biometric_
 ### [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md)
 _Context: England, Green Party, Wales, climate change_
 
-##### United Kingdom
+##### British
 ### [ UK passport applicants must give fingerprints. Preparation for ID cards goes ahead without parliament. ](/news/2005/04/15/uk-passport-applicants-must-give-fingerprints-preparation-for-id-cards-goes-ahead-without-parliament.md)
-_Context: United Kingdom, fingerprint_
+_Context: British, fingerprint_
 
 ##### Canada
 ### [ Canada's Federal Court of Appeal denies Chinese businessman Lai Changxing refugee status. China wants him for large-scale smuggling. ](/news/2005/04/15/canada-s-federal-court-of-appeal-denies-chinese-businessman-lai-changxing-refugee-status-china-wants-him-for-large-scale-smuggling.md)
@@ -45,7 +45,7 @@ _Context: Fatah, Golan Heights, Israeli Army, Palestinian, Syria_
 
 ##### United Nations
 ### [ UN Secretary General Kofi Annan accuses the United States and Britain of not accepting enough responsibility for the Oil for Food Scandal. ](/news/2005/04/15/un-secretary-general-kofi-annan-accuses-the-united-states-and-britain-of-not-accepting-enough-responsibility-for-the-oil-for-food-scandal.md)
-_Context: Kofi Annan, Secretary General, United Kingdom, United Nations, United States, oil-for-food programme_
+_Context: British, Kofi Annan, Secretary General, United Nations, United States, oil-for-food programme_
 
 ##### NASA
 ### [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic disruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-disruption-in-northern.md)

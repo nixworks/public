@@ -13,7 +13,7 @@ _Context: Spanish, tissue-engineered organ, trachea, transplant_
 
 ##### John Key
 ### [ John Key is officially sworn in as the Prime Minister of New Zealand by Governor-General Anand Satyanand. ](/news/2008/11/19/john-key-is-officially-sworn-in-as-the-prime-minister-of-new-zealand-by-governor-general-anand-satyanand.md)
-_Context: Anand Satyanand, Governor-General, John Key, New Zealand, Prime Minister, sworn in_
+_Context: Anand Satyanand, Governor-General, John Key, New Zealand, New Zealand Prime Minister, sworn in_
 
 ##### New Zealand
 ### [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin ("Megadyptes waitaha"), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new-ze.md)

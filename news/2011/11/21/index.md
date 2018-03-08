@@ -25,7 +25,7 @@ NATO would have expanded by now to admit ex-Soviet republics if Russia had not i
 
 ##### United States
 ### [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md)
-_Context: Canada, Iran, United Kingdom, United States, nuclear program, sanctions_
+_Context: British, Canada, Iran, United States, nuclear program, sanctions_
 
 ##### Syria
 ### [Two people are injured after Syrian soldiers attack buses carrying Turkish citizens returning through Syria from a hajj pilgrimage to Saudi Arabia. ](/news/2011/11/21/two-people-are-injured-after-syrian-soldiers-attack-buses-carrying-turkish-citizens-returning-through-syria-from-a-hajj-pilgrimage-to-saudi.md)

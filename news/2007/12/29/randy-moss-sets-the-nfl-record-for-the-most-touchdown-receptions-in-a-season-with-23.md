@@ -11,7 +11,7 @@ Formats: [HTML](/news/2007/12/29/randy-moss-sets-the-nfl-record-for-the-most-tou
 
 ### Changes:
 
-1. [ Tom Brady sets the NFL record for Most Touchdown Passes in a season with 50.](/news/2007/12/29/tom-brady-sets-the-nfl-record-for-most-touchdown-passes-in-a-season-with-50.md) _2018-03-06 03:26:40 (First version)_
+1. [ Tom Brady sets the NFL record for Most Touchdown Passes in a season with 50.](/news/2007/12/29/tom-brady-sets-the-nfl-record-for-most-touchdown-passes-in-a-season-with-50.md) _2018-03-07 03:26:36 (First version)_
 1. [ Randy Moss sets the NFL record for the Most Touchdown Receptions in a season with 23.](/news/2007/12/29/randy-moss-sets-the-nfl-record-for-the-most-touchdown-receptions-in-a-season-with-23.md) _(Current version)_
 
 ### Related:

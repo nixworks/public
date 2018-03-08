@@ -29,7 +29,7 @@ _Context: Channel Tunnel, France, UK_
 
 ##### 2006 transatlantic aircraft plot
 ### [ Eleven suspects are charged over the 2006 transatlantic aircraft plot in the United Kingdom as police find bomb-making equipment and martyrdom videos during their inquiries. ](/news/2006/08/21/eleven-suspects-are-charged-over-the-2006-transatlantic-aircraft-plot-in-the-united-kingdom-as-police-find-bomb-making-equipment-and-martyr.md)
-_Context: 2006 transatlantic aircraft plot, United Kingdom, martyrdom video_
+_Context: 2006 transatlantic aircraft plot, British, martyrdom video_
 
 ##### Kyrgyzstan
 ### [ The government of Kyrgyzstan warns that the Islamic Movement of Uzbekistan, a terrorist group affiliated with al Qaeda, and other militant Islamic groups, are preparing to attack southern cities like Osh. ](/news/2006/08/21/the-government-of-kyrgyzstan-warns-that-the-islamic-movement-of-uzbekistan-a-terrorist-group-affiliated-with-al-qaeda-and-other-militant.md)

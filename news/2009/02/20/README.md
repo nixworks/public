@@ -41,7 +41,7 @@ _Context: Israel, Israeli settlement, Palestinian Authority, West Bank_
 
 ##### United States
 ### [ The United States will return Benyam Mohammed to the United Kingdom after four years of imprisonment at Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/20/the-united-states-will-return-benyam-mohammed-to-the-united-kingdom-after-four-years-of-imprisonment-at-guantanamo-bay-naval-base-s-detenti.md)
-_Context: Benyam Mohammed, Guantanamo Bay detention camp, United Kingdom, United States, military base at Guantanamo Bay_
+_Context: Benyam Mohammed, British, Guantanamo Bay detention camp, United States, military base at Guantanamo Bay_
 
 ##### LTTE
 ### [ The Tamil Tigers aerially attack Colombo, Sri Lanka, killing two people and injuring at least 40 others. ](/news/2009/02/20/the-tamil-tigers-aerially-attack-colombo-sri-lanka-killing-two-people-and-injuring-at-least-40-others.md)

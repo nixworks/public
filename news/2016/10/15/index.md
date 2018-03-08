@@ -71,7 +71,7 @@ Turkish-backed rebels in Syria are advancing on the symbolically important IS st
 ### [Saudi Arabia accepts the finding of the Joint Incidents Assessment Team, a setup of coalition states to investigate complaints against coalitions conduct in Decisive Storm, that the October 8 coalition's bombardment at a funeral ceremony in Sana'a, in which over 140 people were killed and more than 600 injured, was based on wrong information. ](/news/2016/10/15/saudi-arabia-accepts-the-finding-of-the-joint-incidents-assessment-team-a-setup-of-coalition-states-to-investigate-complaints-against-coali.md)
 JEDDAH: A joint investigation team on Saturday found that the Saudi-led Coalition bombed a funeral ceremony in Sanaa last week based on wrong information that the hall was packed with Houthi leaders. Some 140 people were killed in the bombing and more than 600 were wounded in the air strike on Oct.
 
-##### Russian border patrol
+##### Russian Border Guard Service
 ### [Russian border patrol officers open fire on a North Korean fishing vessel, leaving one fisherman dead, and eight others injured. ](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.md)
 Russian border patrol was forced to open fire during inspection of a fishing vessel with North Korean crew onboard. The crew resisted search, behaved aggressively, and tried to flee with the members of the Russian security forces on board, according to the Russian Federal Security Service (FSB).
 

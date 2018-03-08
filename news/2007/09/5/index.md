@@ -61,7 +61,7 @@ The event unfolded like the judicial equivalent of a bride left at the altar.The
 
 ##### Human Fertilisation and Embryology Authority
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
+_Context: British, Human Fertilisation and Embryology Authority, animal, embryo, human, hybrid_
 
 ##### World Bank
 ### [ The World Bank launches its Lighting Africa initiative, aiming to provide modern lighting by renewable or mechanical means to 250 million people in sub-Saharan Africa who lack access to electricity. ](/news/2007/09/5/the-world-bank-launches-its-lighting-africa-initiative-aiming-to-provide-modern-lighting-by-renewable-or-mechanical-means-to-250-million-p.md)

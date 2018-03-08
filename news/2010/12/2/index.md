@@ -25,7 +25,7 @@ Former president Chen Shui-bian (陳水扁) will now be identified by his person
 
 ##### Iranian police
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: CIA, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, United States, nuclear physicists_
+_Context: British, CIA, Iran, Iranian police, Israel, MI6, Mossad, United States, nuclear physicists_
 
 ##### Dick Cheney
 ### [Dick Cheney faces charges in Nigeria over $180 million dollars in bribes a subsidiary of Halliburton, of which Cheney was chief executive, paid to Nigerian officials. ](/news/2010/12/2/dick-cheney-faces-charges-in-nigeria-over-180-million-dollars-in-bribes-a-subsidiary-of-halliburton-of-which-cheney-was-chief-executive-p.md)
@@ -83,7 +83,7 @@ An office of Ivory Coast opposition leader Alassane Ouattara is attacked in Abid
 ### [One of 12 American soldiers admits acting on orders and shooting unarmed Afghan farmers. He is sentenced to nine months imprisonment and demotion, but allowed to stay in the military. ](/news/2010/12/2/one-of-12-american-soldiers-admits-acting-on-orders-and-shooting-unarmed-afghan-farmers-he-is-sentenced-to-nine-months-imprisonment-and-dem.md)
 A US soldier, one of 12 facing charges, pleads guilty to shooting unarmed Afghans.
 
-##### United Kingdom
+##### British
 ### [A joint investigation by the United Kingdom and the United States finds that aid worker Linda Norgrove was killed by a grenade thrown by an American soldier during an operation to rescue her. ](/news/2010/12/2/a-joint-investigation-by-the-united-kingdom-and-the-united-states-finds-that-aid-worker-linda-norgrove-was-killed-by-a-grenade-thrown-by-an.md)
 Aid worker Linda Norgrove was killed by a grenade thrown by a US soldier sent to rescue her, a joint US-UK investigation finds.
 

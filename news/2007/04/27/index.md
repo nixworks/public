@@ -15,9 +15,9 @@ _Context: $, Saudi Arabia, suicide attack, weapon_
 ### [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md)
 _Context: Abdul Hadi al Iraqi, CIA, Guantanamo Bay detention camp, United States, United States military, al-Qaeda_
 
-##### Mi-8
+##### Mil Mi-8
 ### [ A Russian Mi-8 military transport helicopter is shot down during the fighting near Shatoy, Chechnya by Chechen rebels, resulting in the death of at least 20 Russian soldiers. ](/news/2007/04/27/a-russian-mi-8-military-transport-helicopter-is-shot-down-during-the-fighting-near-shatoy-chechnya-by-chechen-rebels-resulting-in-the-dea.md)
-_Context: Chechen War, Chechnya, Mi-8, Russia, Russian security forces, Shatoy, helicopter, the fighting_
+_Context: Chechen War, Chechnya, Mil Mi-8, Russia, Russian security forces, Shatoy, helicopter, the fighting_
 
 ## [Previous Day...](/news/2007/04/26/index.md)
 

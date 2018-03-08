@@ -27,9 +27,9 @@ _Context: Azerbaijan, Baku, State Oil Academy, killed_
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
 _Context: Colombia, Colombian Army, Revolutionary Armed Forces of Colombia, internal conflict, soldier_
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom ends combat operations in the Iraq War. ](/news/2009/04/30/the-united-kingdom-ends-combat-operations-in-the-iraq-war.md)
-_Context: Iraq, Iraq War, United Kingdom, military operation_
+_Context: British, Iraq, Iraq War, military operation_
 
 ##### India
 ### [ The third round of India's general election takes place. ](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.md)

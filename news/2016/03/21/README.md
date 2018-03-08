@@ -21,7 +21,7 @@ Court’s conviction of Jean-Pierre Bemba by command responsibility hailed as hi
 
 ##### Tea tape scandal
 ### [New Zealand Prime Minister John Key settles a defamation case with freelance cameraman Bradley Ambrose, acknowledging comments he made about the man caused him professional and personal harm. ](/news/2016/03/21/new-zealand-prime-minister-john-key-settles-a-defamation-case-with-freelance-cameraman-bradley-ambrose-acknowledging-comments-he-made-about.md)
-_Context: John Key, Prime Minister, Tea tape scandal, defamation_
+_Context: John Key, New Zealand Prime Minister, Tea tape scandal, defamation_
 
 ##### United States-Cuban Thaw
 ### [At a 55-minute joint press conference, following their two-hour closed door meeting, United States President Barrack Obama and Cuban President Raul Castro agreed this "new day" of openness between the two countries benefits the entire hemisphere as well. Each acknowledged more needs to be done. Obama said he spoke frankly about human rights, free expression, and democracy; Castro said the U.S. needs to remove the military base at Guantanamo Bay, and completely end the U.S. embargo. Obama's experience gave him an advantage when journalists delved into sensitive areas. ](/news/2016/03/21/at-a-55-minute-joint-press-conference-following-their-two-hour-closed-door-meeting-united-states-president-barrack-obama-and-cuban-preside.md)

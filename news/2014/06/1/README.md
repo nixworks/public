@@ -23,9 +23,9 @@ _Context: Heathrow Airport, Syria_
 ### [A Muslim Frenchman with connections to Syrian jihadists is arrested for murdering four Jewish people in the Jewish Museum of Belgium shooting. ](/news/2014/06/1/a-muslim-frenchman-with-connections-to-syrian-jihadists-is-arrested-for-murdering-four-jewish-people-in-the-jewish-museum-of-belgium-shootin.md)
 Officials in Belgium and France say Mehdi Nemmouche displayed the weapons he allegedly used to kill four
 
-##### Mi-8
+##### Mil Mi-8
 ### [A Mil Mi-8 helicopter crashes near Munozero (Munozero (derevnia) in northern Russia's Murmansk Oblast with nineteen people onboard with two confirmed survivors and the fate of the other passengers unclear. ](/news/2014/06/1/a-mil-mi-8-helicopter-crashes-near-munozero-dnd1-2d3-4d-dund3-4-d-dundud2d1-2n-in-northern-russia-s-murmansk-oblast-with-nineteen-people-onb.md)
-_Context: Mi-8, Munozero, Murmansk Oblast_
+_Context: Mil Mi-8, Munozero, Murmansk Oblast_
 
 ##### EGX30
 ### [Stocks in Egypt fall sharply with the EGX30 losing 4.2% and the EGX100 losing 5% after the government proposed a new 10% capital gains tax. ](/news/2014/06/1/stocks-in-egypt-fall-sharply-with-the-egx30-losing-4-2-and-the-egx100-losing-5-after-the-government-proposed-a-new-10-capital-gains-tax.md)

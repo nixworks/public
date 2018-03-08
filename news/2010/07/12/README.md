@@ -47,7 +47,7 @@ _Context: Google_
 ### [The EU agree to impose tougher sanctions against member countries that violate the Stability and Growth Pact. ](/news/2010/07/12/the-eu-agree-to-impose-tougher-sanctions-against-member-countries-that-violate-the-stability-and-growth-pact.md)
 _Context: European Union, Stability and Growth Pact_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom Secretary of State for Health Andrew Lansley outlines a radical proposal to reform the country's National Health Service, including the privatisation of hospitals. ](/news/2010/07/12/the-united-kingdom-secretary-of-state-for-health-andrew-lansley-outlines-a-radical-proposal-to-reform-the-country-s-national-health-service.md)
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
@@ -63,7 +63,7 @@ Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to
 ### [An Israeli military probe into the naval raid on the Gaza-bound flotilla praises the naval commandos who killed eight Turks and one Turkish-American but criticises poor Israeli intelligence that did not have a sufficient backup plan for its troops in the event that the Flotilla's passengers reacted violently to the raid. ](/news/2010/07/12/an-israeli-military-probe-into-the-naval-raid-on-the-gaza-bound-flotilla-praises-the-naval-commandos-who-killed-eight-turks-and-one-turkish.md)
 The killing of nine Turks in a raid on a Gaza-bound flotilla last month followed intelligence and planning &quot;mistakes&quot;, according to an Israel Defence Force (IDF)-commissioned report.
 
-##### United Kingdom
+##### British
 ### [The UK Ministry of Defence unveils "Taranis", its new long-range unmanned plane intended to damage enemy territory. Tests are due to begin in 2011. ](/news/2010/07/12/the-uk-ministry-of-defence-unveils-taranis-its-new-long-range-unmanned-plane-intended-to-damage-enemy-territory-tests-are-due-to-begin-i.md)
 The Ministry of Defence unveils its new prototype stealthy unmanned combat air vehicle as the first step towards pilotless strike aircraft.
 

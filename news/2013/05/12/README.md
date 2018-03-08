@@ -23,9 +23,9 @@ _Context: Boyko Borisov, Bulgaria, GERB, Sergei Stanishev, Socialist Party, parl
 ### [Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obtain-an-absolute-majority-in-the-34.md)
 _Context: Nawaz Sharif_
 
-##### United Kingdom
+##### British
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
-_Context: Costa Blanca, Spanish, United Kingdom_
+_Context: British, Costa Blanca, Spanish_
 
 ##### Valley Springs, California
 ### [A 12-year-old boy is arrested in connection to the April 27 Valley Springs, California, United States stabbing of his 8-year-old sister. ](/news/2013/05/12/a-12-year-old-boy-is-arrested-in-connection-to-the-april-27-valley-springs-california-united-states-stabbing-of-his-8-year-old-sister.md)

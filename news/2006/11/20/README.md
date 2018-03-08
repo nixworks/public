@@ -29,7 +29,7 @@ _Context: Berlin underground_
 
 ##### Ken Livingstone
 ### [ Ken Livingstone, the Mayor of London, accuses Home Secretary Jack Straw of participating in "demonization of Muslims only comparable to the demonization of Jews from the end of the 19th century" for his comments regarding veils. ](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.md)
-_Context: 19th century, Home Secretary, Jack Straw, Ken Livingstone, Mayor of London, anti-Muslim, veil_
+_Context: 19th century, Home Secretary, Islamophobic, Jack Straw, Ken Livingstone, Mayor of London, veil_
 
 ##### Kazakh Government
 ### [ The Kazakh Government arrests 11 suspected terrorists in Stepnogorsk. ](/news/2006/11/20/the-kazakh-government-arrests-11-suspected-terrorists-in-stepnogorsk.md)

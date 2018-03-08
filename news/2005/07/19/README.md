@@ -15,7 +15,7 @@ After three weeks of political squabbling over key posts Lebanon&#39;s Prime Min
 ### [ Former Bosnian Croat soldier Miroslav Bralo pleads guilty for war crimes in the UN war crimes tribunal in the Hague ](/news/2005/07/19/former-bosnian-croat-soldier-miroslav-bralo-pleads-guilty-for-war-crimes-in-the-un-war-crimes-tribunal-in-the-hague.md)
 _Context: Miroslav Bralo, war crime_
 
-##### United Kingdom
+##### British
 ### [ UK court sentences Afghan warlord Faryadi Sarwar Zardad for 20 years in jail for war crimes ](/news/2005/07/19/uk-court-sentences-afghan-warlord-faryadi-sarwar-zardad-for-20-years-in-jail-for-war-crimes.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 

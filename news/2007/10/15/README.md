@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/15/index.html)  [JSON](2007/10/15/index.json)  [XML](200
 
 ##### Richard Brunstrom
 ### [ Richard Brunstrom, the Chief Constable of North Wales Police, calls for all classified drugs to be legalised in the United Kingdom. He argues that the current policy of prohibition is not working, and is based on dogma. ](/news/2007/10/15/richard-brunstrom-the-chief-constable-of-north-wales-police-calls-for-all-classified-drugs-to-be-legalised-in-the-united-kingdom-he-argu.md)
-_Context: Chief Constable, North Wales Police, Richard Brunstrom, United Kingdom, dogma, drug_
+_Context: British, Chief Constable, North Wales Police, Richard Brunstrom, dogma, drug_
 
 ##### 17th Party Congress
 ### [ The 17th National Congress of the Communist Party of China opens in Beijing, China, marking the beginning of a 7-day conclave of China's top leadership. General Secretary Hu Jintao delivers the work report for the past five years, and sets the party's direction in the coming five years. Hu also said in the keynote speech that the Communist Party has "fallen short of the people's expectations". ](/news/2007/10/15/the-17th-national-congress-of-the-communist-party-of-china-opens-in-beijing-china-marking-the-beginning-of-a-7-day-conclave-of-china-s-to.md)
@@ -33,7 +33,7 @@ _Context: Eric S. Maskin, Leonid Hurwicz, Nobel Prize in Economics, Roger B. Mye
 
 ##### Menzies Campbell
 ### [ Sir Menzies Campbell resigns as the leader of the Liberal Democrats in the United Kingdom, starting a leadership election. ](/news/2007/10/15/sir-menzies-campbell-resigns-as-the-leader-of-the-liberal-democrats-in-the-united-kingdom-starting-a-leadership-election.md)
-_Context: Liberal Democrats, Menzies Campbell, United Kingdom, leadership election_
+_Context: British, Liberal Democrats, Menzies Campbell, leadership election_
 
 ##### Battle of Las Anod
 ### [ Battle of Las Anod: Troops from the breakaway Somali republic of Somaliland seize a town inside Puntland, a rival region loyal to the interim Somali government, killing at least 10 people. ](/news/2007/10/15/battle-of-las-anod-troops-from-the-breakaway-somali-republic-of-somaliland-seize-a-town-inside-puntland-a-rival-region-loyal-to-the-inter.md)

@@ -29,7 +29,7 @@ Kenyan police are hunting for an alleged cult leader who instructed a self-confe
 
 ##### Norway
 ### [Two Norwegians, including one with British citizenship, Joshua French and Tjostolv Moland, are sentenced to death by a military court in the Democratic Republic of the Congo on charges of murder and espionage. ](/news/2010/06/10/two-norwegians-including-one-with-british-citizenship-joshua-french-and-tjostolv-moland-are-sentenced-to-death-by-a-military-court-in-the.md)
-_Context: DR Congo, Joshua French and Tjostolv Moland, Norway, United Kingdom_
+_Context: British, DR Congo, Joshua French and Tjostolv Moland, Norway_
 
 ##### Max Goeldi
 ### [Max Goeldi, the Swiss businessman at the centre of a long-running diplomatic row between Libya and Switzerland, is released from prison in Tripoli. ](/news/2010/06/10/max-goeldi-the-swiss-businessman-at-the-centre-of-a-long-running-diplomatic-row-between-libya-and-switzerland-is-released-from-prison-in-t.md)
@@ -47,7 +47,7 @@ UN court delivers life sentence to two men involved in the Srebrenica massacre.
 ### [Former president of Taiwan Chen Shui-bian's life sentence is cut to twenty years in prison. ](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.md)
 _Context: Chen Shui-bian, President, Taiwan_
 
-##### United Kingdom
+##### British
 ### [Seven former British soldiers join 98 American soldiers to sue American defence firm KBR, who they say exposed them to dangerous levels of toxic chemicals in Iraq. ](/news/2010/06/10/seven-former-british-soldiers-join-98-american-soldiers-to-sue-american-defence-firm-kbr-who-they-say-exposed-them-to-dangerous-levels-of-t.md)
 Seven former British soldiers are suing an American defence firm, accusing it of exposing them to dangerous levels of toxic chemicals in Iraq.
 

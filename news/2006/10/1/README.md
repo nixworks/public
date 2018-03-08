@@ -9,7 +9,7 @@ _Context: Brisbane Broncos, Melbourne Storm, National Rugby League, premiership-
 
 ##### Age discrimination
 ### [ New laws against age discrimination in the workplace - officially titled the Employment Equality (Age) Regulations 2006 - come into force in the United Kingdom. ](/news/2006/10/1/new-laws-against-age-discrimination-in-the-workplace-officially-titled-the-employment-equality-age-regulations-2006-come-into-force-i.md)
-_Context: United Kingdom, age discrimination_
+_Context: British, age discrimination_
 
 ##### Israel
 ### [ The last Israeli troops leave Lebanon in accordance with UN Resolution 1701, two months after occupying the territory. UNIFIL officials, however, claim that they still occupy the border village of Ghajar. ](/news/2006/10/1/the-last-israeli-troops-leave-lebanon-in-accordance-with-un-resolution-1701-two-months-after-occupying-the-territory-unifil-officials-ho.md)

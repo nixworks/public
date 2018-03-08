@@ -37,7 +37,7 @@ _Context: Afak, Iraq_
 
 ##### Foot and mouth disease
 ### [ A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. ](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-identified-but-not-confirmed-by-united-kingdom-government-vets-on-a-farm-near-chertsey-surrey.md)
-_Context: Chertsey, Surrey, United Kingdom, foot and mouth disease_
+_Context: British, Chertsey, Surrey, foot and mouth disease_
 
 ##### O.J. Simpson
 ### [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md)

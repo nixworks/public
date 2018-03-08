@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/02/9/a-car-crash-on-the-pomona-freeway-in-los-angeles
 
 ### Changes:
 
-1. [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md) _2018-03-06 03:50:44 (First version)_
+1. [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md) _2018-03-07 03:50:47 (First version)_
 1. [A car crash on the Pomona Freeway in Los Angeles, California, kills 6 people. ](/news/2014/02/9/a-car-crash-on-the-pomona-freeway-in-los-angeles-california-kills-6-people.md) _(Current version)_
 
 ### Related:

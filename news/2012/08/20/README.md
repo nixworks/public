@@ -57,7 +57,7 @@ _Context: Caracas, Venezuela, riot in the Yare I prison_
 
 ##### War in Afghanistan (2001-present)
 ### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
-_Context: Afghanistan, John Key, Prime Minister, War in Afghanistan (2001-present)_
+_Context: Afghanistan, John Key, New Zealand Prime Minister, War in Afghanistan (2001-present)_
 
 ##### United Nations
 ### [United Nations observers leave the country as their mandate expires. The total number of casualties over the previous weekend is now estimated at more than 100 deaths. The UN envoy describes the conflict as a civil war. Russia says only the UN should decide on force against Syria. The U.S. claims it has "contingency plans" and threatens to change its "calculus" if it finds Syria moving or using chemical or biological weapons. Fighting continues. ](/news/2012/08/20/united-nations-observers-leave-the-country-as-their-mandate-expires-the-total-number-of-casualties-over-the-previous-weekend-is-now-estimat.md)

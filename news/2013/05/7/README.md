@@ -15,7 +15,7 @@ Would Ice Age man understand us? It depends on the words we use. Digging through
 ### [A new study by the University of California, Davis suggests that all Europeans are related to small group of ancestors dating back only 1,000 years. ](/news/2013/05/7/a-new-study-by-the-university-of-california-davis-suggests-that-all-europeans-are-related-to-small-group-of-ancestors-dating-back-only-1-00.md)
 Researchers claim people from all corners of the European continent share a common genetic footprint that dates back just a mere thousand years ago.
 
-##### United Kingdom
+##### British
 ### [The United Kingdom's Queen Elizabeth II announces she will miss a Commonwealth meeting for the first time in 40 years. Prince Charles will attend on her behalf. ](/news/2013/05/7/the-united-kingdom-s-queen-elizabeth-ii-announces-she-will-miss-a-commonwealth-meeting-for-the-first-time-in-40-years-prince-charles-will-a.md)
 LONDON &ndash; Ending four decades of perfect attendance, Queen Elizabeth II will skip the biennial meeting of Commonwealth leaders later this year as part of a rethink by palace officials of...
 

@@ -15,9 +15,9 @@ _Context: Commonwealth of Nations, Don McKinnon, Fiji, Laisenia Qarase, Prime Mi
 ### [ Gazprom, Russia's state-controlled natural gas monopoly, intends to double the price it charges Georgia. This follows the 2006 Georgian-Russian espionage controversy in early October. ](/news/2006/11/2/gazprom-russia-s-state-controlled-natural-gas-monopoly-intends-to-double-the-price-it-charges-georgia-this-follows-the-2006-georgian-rus.md)
 _Context:  Georgian, 2006 Georgian-Russian espionage controversy, Gazprom, Russia, natural gas_
 
-##### United Kingdom
+##### British
 ### [ The UK Office for National Statistics announces that, in 2005, 565,000 immigrants arrived in the UK, mainly from Poland, India, Pakistan, Bangladesh and Sri Lanka, while there were 380,000 emigrants, over half of whom were UK citizens. The most popular emigration destinations were Australia, Spain, and France. The net immigration total, 185,000, was 17,000 less than 2004's record. ](/news/2006/11/2/the-uk-office-for-national-statistics-announces-that-in-2005-565-000-immigrants-arrived-in-the-uk-mainly-from-poland-india-pakistan-b.md)
-_Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Poland, Spanish, Sri Lanka, United Kingdom_
+_Context: Australia, Bangladesh, British, France, India, Office for National Statistics, Pakistan, Poland, Spanish, Sri Lanka_
 
 ##### Iran
 ### [ Iran fires dozens of unarmed missiles to begin 10 days of military war games, with "ranges from 300 km to up to 2,000 km," some of which have "the capacity to carry 1,400 bombs," Iranian state television reported. ](/news/2006/11/2/iran-fires-dozens-of-unarmed-missiles-to-begin-10-days-of-military-war-games-with-ranges-from-300-km-to-up-to-2-000-km-some-of-which-ha.md)

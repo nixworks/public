@@ -11,9 +11,9 @@ _Context: Pilots, Spirit Airlines, United States, low-cost carrier, strike_
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
 _Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_
 
-##### United Kingdom
+##### British
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President, United Kingdom_
+_Context: Barack Obama, British, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
 
 ##### Buddhist monks
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)

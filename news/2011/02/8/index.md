@@ -17,7 +17,7 @@ Disgraced Barnsley Central MP resigns days before he is due to be sentenced for 
 
 ##### George Osborne
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: Chancellor of the Exchequer, George Osborne, United Kingdom, tax_
+_Context: British, Chancellor of the Exchequer, George Osborne, tax_
 
 ##### Philippines
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
@@ -69,7 +69,7 @@ _Context: Changsha, Drought, Hunan province, Xiangjiang River, central China_
 
 ##### London Stock Exchange
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, United Kingdom, stock exchanges_
+_Context: British, Canada, London Stock Exchange, Montreal, TMX Group, Toronto, stock exchanges_
 
 ##### Ultimate Electronics
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)

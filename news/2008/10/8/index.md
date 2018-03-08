@@ -11,7 +11,7 @@ _Context: Maldives, Maumoon Abdul Gayoom, democratic, first democratic election_
 ### [ The RTS and MICEX stock exchanges halt trading until Friday after opening for just more than half an hour as prices plummeted in tune with the overall situation in the world's stock markets and falling oil prices. ](/news/2008/10/8/the-rts-and-micex-stock-exchanges-halt-trading-until-friday-after-opening-for-just-more-than-half-an-hour-as-prices-plummeted-in-tune-with.md)
 _Context: MICEX, RTS_
 
-##### United Kingdom
+##### British
 ### [ Britain's Chancellor of the Exchequer Alistair Darling releases details of a rescue package aimed at restoring confidence in British Banks. As part of the deal the British Government will provide GBP50bn of investment, provide a further GBP200bn in short term loans and guarantee up to GBP250bn of intra-bank loans ](/news/2008/10/8/britain-s-chancellor-of-the-exchequer-alistair-darling-releases-details-of-a-rescue-package-aimed-at-restoring-confidence-in-british-banks.md)
 Emergency interest rate cuts Wednesday by the Federal Reserve and five other central banks left in doubt whether government efforts to cure the financial crisis would show results fast enough to...
 

@@ -5,7 +5,7 @@ Formats: [HTML](2012/05/4/index.html)  [JSON](2012/05/4/index.json)  [XML](2012/
 
 ##### Labour Party
 ### [The Labour Party make significant gains in local elections throughout the United Kingdom. ](/news/2012/05/4/the-labour-party-make-significant-gains-in-local-elections-throughout-the-united-kingdom.md)
-_Context: Labour Party, United Kingdom, local elections_
+_Context: British, Labour Party, local elections_
 
 ##### Boris Johnson
 ### [Boris Johnson is reelected as the Mayor of London for a second term. ](/news/2012/05/4/boris-johnson-is-reelected-as-the-mayor-of-london-for-a-second-term.md)

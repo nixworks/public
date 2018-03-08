@@ -15,9 +15,9 @@ _Context: 3 August, British Columbia, Canada, Ernest "Smokey" Smith, Vancouver, 
 ### [ German Chancellor Gerhard Schrder warns the U.S. to back away from the possibility of military action against Iran over its nuclear program. ](/news/2005/08/13/german-chancellor-gerhard-schroder-warns-the-u-s-to-back-away-from-the-possibility-of-military-action-against-iran-over-its-nuclear-progra.md)
 _Context: Chancellor, Gerhard Schrder, Iran, United States_
 
-##### Prime Minister
+##### New Zealand Prime Minister
 ### [ Former Prime Minister David Lange of New Zealand dies. His 1984&ndash;1989 administration has left a permanent mark on New Zealand. ](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.md)
-_Context: David Lange, New Zealand, Prime Minister_
+_Context: David Lange, New Zealand, New Zealand Prime Minister_
 
 ##### US Soldiers
 ### [ Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md)

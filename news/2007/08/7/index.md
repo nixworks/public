@@ -39,7 +39,7 @@ _Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
 ### [ Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. ](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.md)
 Breaking News from Perth and Western Australia | Perth Now
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom asks United States Secretary of State Condoleezza Rice to release five residents of the UK from the Guantanamo Bay detention camp. ](/news/2007/08/7/the-united-kingdom-asks-united-states-secretary-of-state-condoleezza-rice-to-release-five-residents-of-the-uk-from-the-guantanamo-bay-deten.md)
 Foreign secretary asks that five men, who previously lived in the U.K. but are not British nationals, be released from terror detention facility in Cuba.
 

@@ -73,7 +73,7 @@ _Context: Alvaro Uribe, Argentina, Bolivia, Brazil, Colombia, Colombian Presiden
 
 ##### New Zealand
 ### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
-_Context: Commodore, Fiji, John Key, New Zealand, Pacific Islands Forum, Prime Minister, Prime Minister, Voreqe Bainimarama_
+_Context: Commodore, Fiji, John Key, New Zealand, New Zealand Prime Minister, Pacific Islands Forum, Prime Minister, Voreqe Bainimarama_
 
 ##### Madagascar
 ### [ Malagasy crisis talks resume between interim leader Andry Rajoelina, ousted president Marc Ravalomanana and former presidents Didier Ratsiraka and Albert Zafy in Maputo, Mozambique. ](/news/2009/08/6/malagasy-crisis-talks-resume-between-interim-leader-andry-rajoelina-ousted-president-marc-ravalomanana-and-former-presidents-didier-ratsir.md)

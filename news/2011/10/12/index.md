@@ -19,7 +19,7 @@ _Context: Seal Beach, California, a shooting at a hair salon_
 ### [The death toll from the 2011 United States listeriosis outbreak reaches a total of 23 dead with 116 affected, making it the deadliest outbreak of foodborne illness in the U.S. in 25 years. ](/news/2011/10/12/the-death-toll-from-the-2011-united-states-listeriosis-outbreak-reaches-a-total-of-23-dead-with-116-affected-making-it-the-deadliest-outbre.md)
 _Context: 2011 United States listeriosis outbreak, foodborne illness_
 
-##### Prime Minister
+##### New Zealand Prime Minister
 ### [The Prime Minister of New Zealand John Key warns that the container ship Rena which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-break-up-a.md)
 The second officer of the Rena is facing a charge under the Maritime Transport Act as the fears grow that the stricken ship will disintegrate.
 

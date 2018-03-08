@@ -7,9 +7,9 @@ Formats: [HTML](2005/11/17/index.html)  [JSON](2005/11/17/index.json)  [XML](200
 ### [ Members of the European Parliament pass an item of controversial chemical safety testing legislation, known as the Registration, Evaluation and Authorization of Chemicals (REACH) law. ](/news/2005/11/17/members-of-the-european-parliament-pass-an-item-of-controversial-chemical-safety-testing-legislation-known-as-the-registration-evaluation.md)
 _Context: European Parliament, Registration, Evaluation and Authorization of Chemicals_
 
-##### United Kingdom
+##### British
 ### [ British Secretary of State for Education Ruth Kelly promises that student selection will not return to schools. ](/news/2005/11/17/british-secretary-of-state-for-education-ruth-kelly-promises-that-student-selection-will-not-return-to-schools.md)
-_Context: Ruth Kelly, Secretary of State for Education, United Kingdom, student selection_
+_Context: British, Ruth Kelly, Secretary of State for Education, student selection_
 
 ##### French Police
 ### [ French Police declare a "return to normalcy throughout France" as civil unrest subsides. ](/news/2005/11/17/french-police-declare-a-return-to-normalcy-throughout-france-as-civil-unrest-subsides.md)

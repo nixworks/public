@@ -13,7 +13,7 @@ _Context: Kenya, Nairobi, Nakumatt, burns_
 
 ##### Strike
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
-_Context: United Kingdom, refinery, strike_
+_Context: British, refinery, strike_
 
 ##### Heat wave
 ### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45 C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md)

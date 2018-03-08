@@ -19,9 +19,9 @@ The killings served as a vicious reminder that the months-long decline in daily 
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
 _Context: Aigars Kalvitis, Latvia, Prime Minister_
 
-##### United Kingdom
+##### British
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: Lithuania, United Kingdom, Vilnius, khat_
+_Context: British, Lithuania, Vilnius, khat_
 
 ##### National Television
 ### [ Swedish National Television reveals systematic food safety irregularities at ICA, the leading grocery store chain in Sweden. ](/news/2007/12/5/swedish-national-television-reveals-systematic-food-safety-irregularities-at-ica-the-leading-grocery-store-chain-in-sweden.md)

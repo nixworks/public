@@ -15,9 +15,9 @@ Mathematician lost his job and was given experimental &#x27;chemical castration&
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)
 _Context: Bancorp South, Tupelo, Mississippi_
 
-##### United Kingdom
+##### British
 ### [Former UK MP Denis MacShane is sentenced to six months in jail for expenses fraud after he admitted to submitting 19 false receipts totaling GBP12,900. ](/news/2013/12/23/former-uk-mp-denis-macshane-is-sentenced-to-six-months-in-jail-for-expenses-fraud-after-he-admitted-to-submitting-19-false-receipts-totaling.md)
-_Context: Denis MacShane, United Kingdom_
+_Context: British, Denis MacShane_
 
 ##### Maria Alyokhina
 ### [Political activists Maria Alyokhina and Nadezhda Tolokonnikova, of the Russian band Pussy Riot, are given amnesty less than three months before the end of their sentences. They had been convicted of "hooliganism motivated by religious hatred". ](/news/2013/12/23/political-activists-maria-alyokhina-and-nadezhda-tolokonnikova-of-the-russian-band-pussy-riot-are-given-amnesty-less-than-three-months-bef.md)

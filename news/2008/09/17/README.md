@@ -13,7 +13,7 @@ _Context: Haumea, Hawaiian goddess, International Astronomical Union, Solar Syst
 
 ##### BAA Limited
 ### [ BAA Limited decides to sell Gatwick Airport following a recent ruling by the United Kingdom Competition Commission. ](/news/2008/09/17/baa-limited-decides-to-sell-gatwick-airport-following-a-recent-ruling-by-the-united-kingdom-competition-commission.md)
-_Context: BAA Limited, Competition Commission, Gatwick Airport, United Kingdom_
+_Context: BAA Limited, British, Competition Commission, Gatwick Airport_
 
 ##### Assemble
 ### [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md)

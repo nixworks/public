@@ -31,7 +31,7 @@ _Context: Libya, Libyan Civil War, Muammar Gaddafi_
 ### [Due to flooding, residents are asked to evacuate the Australian town of St George, Queensland, and the body is found of a woman missing in Roma. ](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.md)
 _Context: Australia, Queensland, Roma, St George_
 
-##### United Kingdom
+##### British
 ### [Heavy snow falls across much of the United Kingdom, leading to the cancellation of hundreds of flights at Heathrow Airport and the closure of the runway at Luton Airport. ](/news/2012/02/5/heavy-snow-falls-across-much-of-the-united-kingdom-leading-to-the-cancellation-of-hundreds-of-flights-at-heathrow-airport-and-the-closure-o.md)
 Snow has fallen across much of the UK, with up to 10cm expected in places, causing disruption to flights and leaving roads treacherous.
 

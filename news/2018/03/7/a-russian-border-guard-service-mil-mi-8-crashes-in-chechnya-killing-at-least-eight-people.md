@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-
 
 ### [2018-03-7](/news/2018/03/7/index.md)
 
-##### Russian Border Guard Service
+##### Aviation accidents involving helicopters
 # A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. 
 
 The helicopter presumably belonged to the Border Guard Service

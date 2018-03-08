@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/05/23/a-bomb-kills-two-people-and-injures-12-others-i
 
 ### Changes:
 
-1. [ A car bomb kills at least six people and injures 70 others in Peshawar, Pakistan. ](/news/2009/05/23/a-car-bomb-kills-at-least-six-people-and-injures-70-others-in-peshawar-pakistan.md) _2018-03-06 03:30:38 (First version)_
+1. [ A car bomb kills at least six people and injures 70 others in Peshawar, Pakistan. ](/news/2009/05/23/a-car-bomb-kills-at-least-six-people-and-injures-70-others-in-peshawar-pakistan.md) _2018-03-07 03:30:38 (First version)_
 1. [ A bomb kills two people and injures 12 others in Kathmandu, Nepal. ](/news/2009/05/23/a-bomb-kills-two-people-and-injures-12-others-in-kathmandu-nepal.md) _(Current version)_
 
 ### Related:

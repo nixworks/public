@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/27/a-suicide-bomber-kills-5-in-a-targeted-attack-o
 
 ### [2014-11-27](/news/2014/11/27/index.md)
 
-##### United Kingdom
+##### British
 # A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. 
 
 A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with a British worker and an Afghan staff member among those killed.

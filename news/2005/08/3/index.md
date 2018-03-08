@@ -57,7 +57,7 @@ _Context: Mo Mowlam, Northern Ireland Secretary_
 
 ##### Council of Mosques and Imams
 ### [ The chairman of the British Council of Mosques and Imams has advised British Muslim women to refrain from wearing clothing, such as the Hijab, which identifies them as Muslim following a large increase in "Islamophobia" and Hate crimes. ](/news/2005/08/3/the-chairman-of-the-british-council-of-mosques-and-imams-has-advised-british-muslim-women-to-refrain-from-wearing-clothing-such-as-the-hij.md)
-_Context: Council of Mosques and Imams, Hate crime, Hijab, Muslim, anti-Muslim_
+_Context: Council of Mosques and Imams, Hate crime, Hijab, Islamophobic, Muslim_
 
 ##### BBC
 ### [ The BBC has uncovered documents which reveal that in 1958 the British Government helped Israel attain nuclear weapons. ](/news/2005/08/3/the-bbc-has-uncovered-documents-which-reveal-that-in-1958-the-british-government-helped-israel-attain-nuclear-weapons.md)

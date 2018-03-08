@@ -39,9 +39,9 @@ David Cameron hailed a landmark deal on Friday he said gave Britain &quot;specia
 ### [Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. ](/news/2016/02/19/serbia-closes-its-southern-border-with-macedonia-to-migrants-from-countries-not-affected-by-war-as-part-of-measures-to-prevent-illegal-immig.md)
 Serbia has closed its border with Macedonia to unregistered refugees, imposing stricter border controls for the purpose of preventing illegal migration, local state TV reported citing officials.
 
-##### Prime Minister
+##### New Zealand Prime Minister
 ### [New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-de.md)
-_Context: Asia, Australia, John Key, Middle East, Nauru, Pacific island nations, Prime Minister, detention camps, imminent danger, people smugglers_
+_Context: Asia, Australia, John Key, Middle East, Nauru, New Zealand Prime Minister, Pacific island nations, detention camps, imminent danger, people smugglers_
 
 ##### U.S. Consumer Product Safety Commission
 ### [The U.S. Consumer Product Safety Commission orders manufacturers of self-balancing scooters (hoverboards) to ensure their products meet safety standards or face recall, or seizure at ports. CPSC Chairman Elliot Kaye tells NBC News no hoverboard currently on the market meets these standards. ](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orders-manufacturers-of-self-balancing-scooters-hoverboards-to-ensure-their-products-meet-safe.md)

@@ -27,7 +27,7 @@ On the anniversary of the Islamic Revolution, Iran’s president sent forces ont
 ### [A court in Beijing upholds a sentence against Chinese dissident Liu Xiaobo who was sentenced to 11 years imprisonment on charges of subversion. ](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.md)
 _Context: Beijing, China, Liu Xiaobo, dissident, subversion_
 
-##### United Kingdom
+##### British
 ### [British fashion designer Alexander McQueen is found dead at his home in London at the age of 40, on the eve of his mother's funeral, in an apparent suicide. ](/news/2010/02/11/british-fashion-designer-alexander-mcqueen-is-found-dead-at-his-home-in-london-at-the-age-of-40-on-the-eve-of-his-mother-s-funeral-in-an-a.md)
 The fashion world&#039;s leading voices have paid tribute to the outlandish avant-garde &#034;genius&#034; of Alexander McQueen, the British designer found dead at home in London, after an apparent suicide.
 

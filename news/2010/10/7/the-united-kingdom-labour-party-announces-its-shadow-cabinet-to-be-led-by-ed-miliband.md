@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-sh
 
 ### [2010-10-7](/news/2010/10/7/index.md)
 
-##### United Kingdom
+##### British
 # The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-sh
 
 ### Related:
 
-1. [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md) _Context: Labour Party, United Kingdom_
-2. [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md) _Context: Labour Party, United Kingdom_
-3. [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md) _Context: Ed Miliband, United Kingdom_
-4. [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md) _Context: Ed Miliband, United Kingdom_
-5. [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-a-hospital-in-critical-condition-after-being-exposed-to-an-unknown-s.md) _Context: United Kingdom_
+1. [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md) _Context: British, Labour Party_
+2. [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md) _Context: British, Labour Party_
+3. [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md) _Context: British, Ed Miliband_
+4. [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md) _Context: British, Ed Miliband_
+5. [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-golding.md) _Context: British_

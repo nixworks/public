@@ -3,7 +3,7 @@ Formats: [HTML](2017/04/22/index.html)  [JSON](2017/04/22/index.json)  [XML](201
 
 ## [2017-04-22](/news/2017/04/22/index.md)
 
-##### United Kingdom
+##### British
 ### [The United Kingdom, on Friday, did not derive energy from any coal-fired source, the first continuous 24-hour, coal-free period for the UK since use of the fossil fuel began. Coal accounted for just 9 percent of the electricity generated last year. ](/news/2017/04/22/the-united-kingdom-on-friday-did-not-derive-energy-from-any-coal-fired-source-the-first-continuous-24-hour-coal-free-period-for-the-uk-s.md)
 The country has its first full day without using coal to generate electricity since the 1800s in a &quot;watershed moment&quot; for energy.
 

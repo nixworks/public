@@ -81,7 +81,7 @@ Pope Benedict calls on Christians to join God in love as he delivers his traditi
 
 ##### Christmas
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's "Thought for the Day" programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: BBC Radio 4, Christmas, Pope Benedict XVI, Thought for the Day, United Kingdom_
+_Context: BBC Radio 4, British, Christmas, Pope Benedict XVI, Thought for the Day_
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)

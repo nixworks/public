@@ -23,9 +23,9 @@ _Context: Bangladesh, December 18, December 29, Electoral Commission, wins_
 ### [ Flooding in the Southern Brazilian state of Santa Catarina causes at least 45 deaths and forces the evacuation of 20,000 people. ](/news/2008/11/24/flooding-in-the-southern-brazilian-state-of-santa-catarina-causes-at-least-45-deaths-and-forces-the-evacuation-of-20-000-people.md)
 _Context: 2008 Santa Catarina floods, Brazil, Santa Catarina, Southern_
 
-##### United Kingdom
+##### British
 ### [ United Kingdom Prime Minister Gordon Brown outlines plans to raise the income tax rate for the first time since 1975. ](/news/2008/11/24/united-kingdom-prime-minister-gordon-brown-outlines-plans-to-raise-the-income-tax-rate-for-the-first-time-since-1975.md)
-_Context: 1975, Gordon Brown, Prime Minister, United Kingdom, tax_
+_Context: 1975, British, Gordon Brown, Prime Minister, tax_
 
 ##### United States
 ### [ United States President-elect Barack Obama announces his Treasury team, which includes Timothy F. Geithner as Secretary, Lawrence Summers as president of the National Economic Council, and Christina Romer as chair of the Council of Economic Advisers. ](/news/2008/11/24/united-states-president-elect-barack-obama-announces-his-treasury-team-which-includes-timothy-f-geithner-as-secretary-lawrence-summers-a.md)

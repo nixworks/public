@@ -27,9 +27,9 @@ Chinese premier Wen Jiabao on Wednesday expressed concern over self-immolation b
 ### [Bo Xilai is replaced as the Communist Party boss in the city of Chongqing by 3rd Vice Premier Zhang Dejiang as a result of an ideological dispute. ](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.md)
 _Context: Bo Xilai, Chongqing, Communist Party of China, Vice Premier, Zhang Dejiang_
 
-##### Prime Minister
+##### New Zealand Prime Minister
 ### [The Prime Minister of New Zealand John Key announces a cut of 2000 positions in the public service. ](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.md)
-_Context: John Key, Prime Minister, public service_
+_Context: John Key, New Zealand Prime Minister, public service_
 
 ##### Governor of Illinois
 ### [Former Governor of Illinois Rod Blagojevich arrives at a US federal prison in Colorado to begin a 14 year sentence on corruption charges. ](/news/2012/03/15/former-governor-of-illinois-rod-blagojevich-arrives-at-a-us-federal-prison-in-colorado-to-begin-a-14-year-sentence-on-corruption-charges.md)

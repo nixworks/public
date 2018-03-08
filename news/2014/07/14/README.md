@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/14/index.html)  [JSON](2014/07/14/index.json)  [XML](201
 
 ##### William Hague
 ### [William Hague stands down as the United Kingdom Secretary of State for Foreign and Commonwealth Affairs as part of a cabinet reshuffle by Prime Minister David Cameron. ](/news/2014/07/14/william-hague-stands-down-as-the-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-as-part-of-a-cabinet-reshuffle-by-pr.md)
-_Context: David Cameron, Foreign Secretary, Prime Minister, United Kingdom, William Hague_
+_Context: British, David Cameron, Foreign Secretary, Prime Minister, William Hague_
 
 ##### Ebola virus
 ### [The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md)

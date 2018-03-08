@@ -25,7 +25,7 @@ _Context: Indonesia_
 
 ##### France
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
-_Context: Conservative Party, France, Pierre Lellouche, United Kingdom_
+_Context: British, Conservative Party, France, Pierre Lellouche_
 
 ##### United Nations
 ### [ The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. ](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.md)

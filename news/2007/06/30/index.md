@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/30/index.html)  [JSON](2007/06/30/index.json)  [XML](200
 
 ##### Hong Kong
 ### [ Hong Kong celebrates the tenth anniversary of the handover from the United Kingdom to the People's Republic of China. ](/news/2007/06/30/hong-kong-celebrates-the-tenth-anniversary-of-the-handover-from-the-united-kingdom-to-the-people-s-republic-of-china.md)
-_Context: China, Hong Kong, United Kingdom, the handover_
+_Context: British, China, Hong Kong, the handover_
 
 ##### East Timor
 ### [ East Timorese voters go to the polls to elect a new Parliament of East Timor. ](/news/2007/06/30/east-timorese-voters-go-to-the-polls-to-elect-a-new-parliament-of-east-timor.md)

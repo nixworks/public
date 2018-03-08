@@ -31,7 +31,7 @@ _Context: Chhattisgarh, India, Jharkhand, Raipur_
 ### [Alberta Premier Rachel Notley says the wildfire has destroyed about 1,600 structures in Fort McMurray, which is in Canada's oil sands region. No major oil sands facilities are in the fire's path, though two Royal Dutch Shell mines are closing, and a Suncor Energy facility is reducing crude production. The fire is threatening the Alberta Highway 63 bridge across the Athabasca River, the sole route south. The Canadian Red Cross is encouraging people to donate funds rather than clothing. ](/news/2016/05/4/alberta-premier-rachel-notley-says-the-wildfire-has-destroyed-about-1-600-structures-in-fort-mcmurray-which-is-in-canada-s-oil-sands-region.md)
 The 88,000 residents who fled a wildfire that has ravaged the Canadian oil town of Fort McMurray in Alberta will not be able to return home anytime soon, officials warned on Thursday, even as the inferno edged slowly south.
 
-##### United Kingdom
+##### British
 ### [British publisher Trinity Mirror announces that its daily newspaper, "The New Day", will close after just two months since its launch, after sales fell to around 30,000 copies per day. The last edition will be printed on May 6. ](/news/2016/05/4/british-publisher-trinity-mirror-announces-that-its-daily-newspaper-the-new-day-will-close-after-just-two-months-since-its-launch-after.md)
 Publisher Trinity Mirror to announce closure of experimental national newspaper after sales fall to around 30,000 copies
 

@@ -17,7 +17,7 @@ _Context: PlayStation 2, Sony_
 
 ##### Petrol station
 ### [ Many petrol stations across the United Kingdom experienced increased demand ahead of the 2005 fuel protests. ](/news/2005/09/13/many-petrol-stations-across-the-united-kingdom-experienced-increased-demand-ahead-of-the-2005-fuel-protests.md)
-_Context: 2005 fuel protests, United Kingdom, petrol station_
+_Context: 2005 fuel protests, British, petrol station_
 
 ##### National Liberation Front
 ### [ The rebel National Liberation Front of Burundi breaks off peace negotiations with the new government of Pierre Nkurunziza. ](/news/2005/09/13/the-rebel-national-liberation-front-of-burundi-breaks-off-peace-negotiations-with-the-new-government-of-pierre-nkurunziza.md)

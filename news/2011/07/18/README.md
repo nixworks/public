@@ -15,9 +15,9 @@ _Context: Alaska, Bob Stenehjem, North Dakota, Senate Majority Leader_
 ### [David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-world-phone-hacking-affair-inqui.md)
 One of Scotland Yard&rsquo;s most senior detectives, John Yates, is set to be investigated over his links with former News of the World executive Neil Wallis, in a fresh twist to the hacking scandal.
 
-##### United Kingdom
+##### British
 ### [United Kingdom Secretary of State for Defence, Liam Fox announces plans to reduce the British Army to its smallest size since the start of the Second Boer War just over a century ago. By 2020, troop numbers will be reduced from the present 101,000 to 82,000, with a greater reliability on Territorial Army soldiers. ](/news/2011/07/18/united-kingdom-secretary-of-state-for-defence-liam-fox-announces-plans-to-reduce-the-british-army-to-its-smallest-size-since-the-start-of-t.md)
-_Context: British Army, Liam Fox, Second Boer War, Secretary of State for Defence, Territorial Army, United Kingdom_
+_Context: British, British Army, Liam Fox, Second Boer War, Secretary of State for Defence, Territorial Army_
 
 ##### Cabinet
 ### [A new Cabinet is sworn in in Egypt, with half the former members being replaced due to ongoing protests since the 2011 Egyptian revolution. ](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.md)

@@ -13,7 +13,7 @@ A total lunar eclipse has been visible in much of the Americas and East Asia, th
 
 ##### John Key
 ### [John Key is sworn in for his third term as Prime Minister of New Zealand. ](/news/2014/10/8/john-key-is-sworn-in-for-his-third-term-as-prime-minister-of-new-zealand.md)
-_Context: John Key, Prime Minister_
+_Context: John Key, New Zealand Prime Minister_
 
 ##### European Parliament
 ### [With 13 votes for and 122 against, the European Parliament rejects former Slovenian Prime Minister Alenka Bratusek's candidacy for Vice-President of the European Commission and as Commissioner for the Energy Union. ](/news/2014/10/8/with-13-votes-for-and-122-against-the-european-parliament-rejects-former-slovenian-prime-minister-alenka-bratua-ek-s-candidacy-for-vice-pre.md)

@@ -95,9 +95,9 @@ _Context: Android, Bing Search_
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
 President Barack Obama will nominate a state bank regulator to be director of the U.S. agency that oversees mortgage giants Fannie Mae FNMA.OB and Freddie Mac FMCC.OB, the White House said on Friday.
 
-##### United Kingdom
+##### British
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: Pontin's, United Kingdom_
+_Context: British, Pontin's_
 
 ##### Economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)

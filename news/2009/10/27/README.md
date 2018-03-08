@@ -23,9 +23,9 @@ _Context: Al-Shabaab, Burundi, Somalia, Uganda, al-Qaeda_
 ### [ North Korea says a South Korean man has defected to the North across the Korean Demilitarized Zone. ](/news/2009/10/27/north-korea-says-a-south-korean-man-has-defected-to-the-north-across-the-korean-demilitarized-zone.md)
 _Context: DMZ, North Korea, South Korea_
 
-##### United Kingdom
+##### British
 ### [ A British couple are missing after their yacht is hijacked by Somali pirates off the Seychelles. ](/news/2009/10/27/a-british-couple-are-missing-after-their-yacht-is-hijacked-by-somali-pirates-off-the-seychelles.md)
-_Context: Seychelles, Somali pirates, United Kingdom_
+_Context: British, Seychelles, Somali pirates_
 
 ##### Honduras
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)

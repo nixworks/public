@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/1/a-mil-mi-8-helicopter-crashes-near-munozero-dnd1
 
 ### [2014-06-1](/news/2014/06/1/index.md)
 
-##### Mi-8
+##### Mil Mi-8
 # A Mil Mi-8 helicopter crashes near Munozero (Munozero (derevnia) in northern Russia's Murmansk Oblast with nineteen people onboard with two confirmed survivors and the fate of the other passengers unclear. 
 
 
@@ -21,8 +21,8 @@ Formats: [HTML](/news/2014/06/1/a-mil-mi-8-helicopter-crashes-near-munozero-dnd1
 
 ### Related:
 
-1. [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md) _Context: Mi-8_
-2. [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md) _Context: Mi-8_
-3. [An Mi-8 transport helicopter crashes near the eastern Libyan city of Tobruk, killing at least six people. ](/news/2016/09/20/an-mi-8-transport-helicopter-crashes-near-the-eastern-libyan-city-of-tobruk-killing-at-least-six-people.md) _Context: Mi-8_
-4. [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md) _Context: Mi-8_
-5. [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md) _Context: Mi-8_
+1. [A Russian Border Guard Service Mil Mi-8 crashes in Chechnya, killing at least eight people. ](/news/2018/03/7/a-russian-border-guard-service-mil-mi-8-crashes-in-chechnya-killing-at-least-eight-people.md) _Context: Mil Mi-8_
+2. [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md) _Context: Mil Mi-8_
+3. [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md) _Context: Mil Mi-8_
+4. [An Mi-8 transport helicopter crashes near the eastern Libyan city of Tobruk, killing at least six people. ](/news/2016/09/20/an-mi-8-transport-helicopter-crashes-near-the-eastern-libyan-city-of-tobruk-killing-at-least-six-people.md) _Context: Mil Mi-8_
+5. [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md) _Context: Mil Mi-8_

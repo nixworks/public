@@ -19,7 +19,7 @@ A protest at UC Berkeley over a scheduled appearance by right-wing provocateur M
 ### [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md)
 _Context: Amona, Mateh Binyamin, Israel, Palestine, Ramallah, Supreme Court, West Bank, unauthorized outpost_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom's House of Commons backs the Brexit bill by 498 votes to 114. ](/news/2017/02/1/the-united-kingdom-s-house-of-commons-backs-the-brexit-bill-by-498-votes-to-114.md)
 The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s E.U. departure.&nbsp;
 

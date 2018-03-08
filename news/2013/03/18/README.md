@@ -15,7 +15,7 @@ UPDATE 12:09 p.m. ET President Barack Obama on Monday highlighted the profession
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
 _Context: Hillary Clinton, United States, United States Secretary of State, same-sex marriage_
 
-##### United Kingdom
+##### British
 ### [The UK's three main political parties reach an agreement on measures to regulate the British press. ](/news/2013/03/18/the-uk-s-three-main-political-parties-reach-an-agreement-on-measures-to-regulate-the-british-press.md)
 Plans for a new press watchdog able to impose million-pound fines and demand apologies are set out as a deal is struck between the three main parties after the phone-hacking scandal.
 
@@ -53,7 +53,7 @@ _Context: China, North Korea, United States, Washington, D.C., missile defence_
 
 ##### Argentine President
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: Argentina, Argentine President, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, United Kingdom_
+_Context: Argentina, Argentine President, British, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis_
 
 ##### Japan
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)

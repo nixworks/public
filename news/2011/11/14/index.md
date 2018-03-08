@@ -39,9 +39,9 @@ _Context: Interpol, Libya, Muammar Gaddafi, National Transitional Council, Niger
 ### [The death toll from the 2011 Thailand floods rises to 562. ](/news/2011/11/14/the-death-toll-from-the-2011-thailand-floods-rises-to-562.md)
 _Context: floods_
 
-##### United Kingdom
+##### British
 ### [British television soap "Coronation Street" becomes the first prime time television show in the UK to use product placement after signing a deal with the Nationwide Building Society. A Nationwide cash machine is seen on screen in an episode. ](/news/2011/11/14/british-television-soap-coronation-street-becomes-the-first-prime-time-television-show-in-the-uk-to-use-product-placement-after-signing-a.md)
-_Context: ATM, Coronation Street, Nationwide Building Society, United Kingdom, product placement_
+_Context: ATM, British, Coronation Street, Nationwide Building Society, product placement_
 
 ## [Previous Day...](/news/2011/11/13/index.md)
 

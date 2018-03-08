@@ -37,7 +37,7 @@ Mensch faces maximum sentence of 90 days in jail and $300 fine
 
 ##### Louis Bacon
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the "Denver Post" and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosure.md)
-_Context: Denver Post, Louis Bacon, United Kingdom, United States, Wikipedia, WordPress_
+_Context: British, Denver Post, Louis Bacon, United States, Wikipedia, WordPress_
 
 ##### Governor
 ### [The Governor of Arizona Jan Brewer asks the United States Supreme Court to overturn a ruling putting parts of its 2010 Immigration Law on hold. ](/news/2011/05/9/the-governor-of-arizona-jan-brewer-asks-the-united-states-supreme-court-to-overturn-a-ruling-putting-parts-of-its-2010-immigration-law-on-ho.md)

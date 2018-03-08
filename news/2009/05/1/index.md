@@ -17,7 +17,7 @@ _Context: Allied Irish Banks, executives, resign_
 
 ##### Carol Ann Duffy
 ### [ Carol Ann Duffy becomes the United Kingdom's first female Poet Laureate. ](/news/2009/05/1/carol-ann-duffy-becomes-the-united-kingdom-s-first-female-poet-laureate.md)
-_Context: Carol Ann Duffy, Poet Laureate, United Kingdom_
+_Context: British, Carol Ann Duffy, Poet Laureate_
 
 ##### Attacked
 ### [ The man who attacked the Netherlands' Royal Family on Queen's Day dies. ](/news/2009/05/1/the-man-who-attacked-the-netherlands-royal-family-on-queen-s-day-dies.md)

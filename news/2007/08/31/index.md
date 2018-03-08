@@ -63,9 +63,9 @@ Russian officials say a powerful explosion in the country&#039;s south has kille
 ### [ Mike Nifong, the prosecutor in the 2006 Duke University lacrosse case, is found in criminal contempt of court for lying to a judge in the case and is sentenced to a day in jail. ](/news/2007/08/31/mike-nifong-the-prosecutor-in-the-2006-duke-university-lacrosse-case-is-found-in-criminal-contempt-of-court-for-lying-to-a-judge-in-the-c.md)
 _Context: 2006 Duke University lacrosse case, Mike Nifong, contempt of court_
 
-##### United Kingdom
+##### British
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
-_Context: England, Meteorological Office, United Kingdom_
+_Context: British, England, Meteorological Office_
 
 ##### Hugo Chavez
 ### [ Hugo Chavez, the President of Venezuela, states that he will meet with FARC guerillas to mediate a dispute with the Government of Colombia about the release of captives. ](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.md)

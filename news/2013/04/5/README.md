@@ -41,7 +41,7 @@ _Context: Bank of Japan, Japan, Nikkei 225, index, stock market_
 
 ##### Elizabeth II
 ### [Queen Elizabeth of the United Kingdom receives an honorary BAFTA award for her support of British film and television and she is honored as the "most memorable Bond girl" for her appearance at the 2012 London Olympics. ](/news/2013/04/5/queen-elizabeth-of-the-united-kingdom-receives-an-honorary-bafta-award-for-her-support-of-british-film-and-television-and-she-is-honored-as.md)
-_Context: 2012 London Olympics, BAFTA award, Bond girl, British film, Elizabeth II, Television in the United Kingdom, United Kingdom_
+_Context: 2012 London Olympics, BAFTA award, Bond girl, British, British film, Elizabeth II, Television in the United Kingdom_
 
 ##### Explosive-laden donkey
 ### [An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. ](/news/2013/04/5/an-explosive-laden-donkey-is-used-in-an-attack-on-a-police-security-post-in-the-alingar-district-of-laghman-province-in-eastern-afghanistan.md)
