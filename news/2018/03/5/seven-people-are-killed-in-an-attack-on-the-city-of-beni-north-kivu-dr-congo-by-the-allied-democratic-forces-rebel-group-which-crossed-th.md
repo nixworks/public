@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/5/seven-people-are-killed-in-an-attack-on-the-city
 
 ### Sources:
 
-1. [Xinhua](http://www.xinhuanet.com/english/2018-03/05/c_137015999.htm)
+1. [Xinhua News Agency](http://www.xinhuanet.com/english/2018-03/05/c_137015999.htm)
 
 ### Changes:
 

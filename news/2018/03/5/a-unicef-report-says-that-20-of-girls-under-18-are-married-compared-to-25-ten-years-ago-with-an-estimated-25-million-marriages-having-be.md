@@ -12,7 +12,7 @@ Formats: [HTML](/news/2018/03/5/a-unicef-report-says-that-20-of-girls-under-18-a
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-43297085)
-2. [VoA](https://www.voanews.com/a/indian-child-brides-decrease/4282162.html)
+2. [Voice of America](https://www.voanews.com/a/indian-child-brides-decrease/4282162.html)
 2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/4B77/production/_100291391_gettyimages-523114174.jpg)
 
 ### Related:

@@ -48,7 +48,7 @@ China does not want a trade war with the United States but will defend its inter
 _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat_
 
 ##### Online advertising
-### [Advertisers remove their ads from InfoWars founder and conspiracy theorist Alex Jones' YouTube channel. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-and-conspiracy-theorist-alex-jones-youtube-channel-many-of-the-brands-say-they-were-not.md)
+### [Advertisers remove their ads from InfoWars founder Alex Jones' YouTube channels. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-alex-jones-youtube-channels-many-of-the-brands-say-they-were-not-aware-their-adverts-we.md)
 Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards

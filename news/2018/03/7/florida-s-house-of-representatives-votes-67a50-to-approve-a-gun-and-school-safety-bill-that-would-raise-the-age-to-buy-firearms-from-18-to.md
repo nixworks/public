@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/7/florida-s-house-of-representatives-votes-67a50-t
 ### [2018-03-7](/news/2018/03/7/index.md)
 
 ##### Stoneman Douglas High School shooting
-# Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, devices which allow semi-automatic firearms to fire faster. 
+# Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, devices which allow users to pull a firearm's trigger at a higher rate. 
 
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
