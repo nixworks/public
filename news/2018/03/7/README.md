@@ -44,7 +44,7 @@ The helicopter presumably belonged to the Border Guard Service
 _Context: A message in a bottle, Australia, almost 132 years, message in a bottle_
 
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna, Austria: four people are seriously injured outside a Japanese restaurant, and later a quarrel between two men results in another stabbing. The perpetrator in the second case has been arrested. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-and-later-a-quarrel-betwee.md)
+### [Two separate stabbings occured in Vienna, Austria: four people were seriously injured outside a Japanese restaurant, and later a quarrel between two men resulted in another stabbing. The perpetrator in the second case was arrested. ](/news/2018/03/7/two-separate-stabbings-occured-in-vienna-austria-four-people-were-seriously-injured-outside-a-japanese-restaurant-and-later-a-quarrel-bet.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ## [Previous Day...](/news/2018/03/6/index.md)
