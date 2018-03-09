@@ -16,7 +16,7 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
 ##### Free speech zones on college and university campuses
-### [Violence breaks out as protesters storm an event organized by the King's College Libertarian Society which featured the controversial YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-kingas-college-libertarian-society-which-featured-the-controversial-yout.md)
+### [Violence breaks out as protesters storm an event organized by the King's College London Libertarian Society which featured Yaron Brook (Ayn Rand Institute) and the antifeminist YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-king-s-college-london-libertarian-society-which-featured-yaron-brook-ayn.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump
