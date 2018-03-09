@@ -31,7 +31,7 @@ Mexico has ordered the arrest of an outgoing state governor in the ruling party 
 ### [NASA's "Juno" probe, in orbit around Jupiter, enters safe mode. ](/news/2016/10/19/nasa-s-juno-probe-in-orbit-around-jupiter-enters-safe-mode.md)
 Nasa announces Juno craft circling gas giant had to shut down camera and instruments, while ESA says Schiaparelli lander may have crashed on red planet
 
-##### European Space Agency
+##### European astronomers
 ### [The European Space Agency fails to contact its "Schiaparelli" lander during its descent through the atmosphere of the planet Mars. ](/news/2016/10/19/the-european-space-agency-fails-to-contact-its-schiaparelli-lander-during-its-descent-through-the-atmosphere-of-the-planet-mars.md)
 Nasa announces Juno craft circling gas giant had to shut down camera and instruments, while ESA says Schiaparelli lander may have crashed on red planet
 

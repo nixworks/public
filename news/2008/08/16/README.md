@@ -21,7 +21,7 @@ _Context: Kidapawan City, Mlang, Philippines_
 
 ##### 2008 Atlantic Hurricane season
 ### [ 2008 Atlantic Hurricane season: The Governor of Florida Charlie Crist declares a state of emergency as Tropical Storm Fay is due to hit Florida on Monday, possibly at hurricane strength. ](/news/2008/08/16/2008-atlantic-hurricane-season-the-governor-of-florida-charlie-crist-declares-a-state-of-emergency-as-tropical-storm-fay-is-due-to-hit-flo.md)
-_Context: 2008 Atlantic Hurricane season, Charlie Crist, Florida, Governor of Florida, Tropical Storm Fay, hurricane, states of emergency_
+_Context: 2008 Atlantic Hurricane season, Charlie Crist, Florida, Governor, Tropical Storm Fay, hurricane, states of emergency_
 
 ##### Abkhazia
 ### [ Georgian officials claim Abkhazian army, backed by the Armed Forces of the Russian Federation, takes control of 13 Georgian villages. ](/news/2008/08/16/georgian-officials-claim-abkhazian-army-backed-by-the-armed-forces-of-the-russian-federation-takes-control-of-13-georgian-villages.md)

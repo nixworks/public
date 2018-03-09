@@ -7,9 +7,9 @@ Formats: [HTML](2011/10/10/index.html)  [JSON](2011/10/10/index.json)  [XML](201
 ### [The trial of Vincent Tabak, who is accused of murdering British landscape architect Joanna Yeates, begins at Bristol Crown Court. ](/news/2011/10/10/the-trial-of-vincent-tabak-who-is-accused-of-murdering-british-landscape-architect-joanna-yeates-begins-at-bristol-crown-court.md)
 The man accused of murdering landscape architect Jo Yeates drove to Asda with her body in his car, a court hears.
 
-##### Governor of Florida
+##### Governor
 ### [Governor Rick Scott of Florida signs the death warrant for Oba Chandler, convicted of the murder of three women in 1989, with the execution set for November 15. ](/news/2011/10/10/governor-rick-scott-of-florida-signs-the-death-warrant-for-oba-chandler-convicted-of-the-murder-of-three-women-in-1989-with-the-execution.md)
-_Context: Florida, Governor of Florida, Oba Chandler, Rick Scott_
+_Context: Florida, Governor, Oba Chandler, Rick Scott_
 
 ##### South Africa
 ### [The trial of two South African farm workers for the murder of Afrikaner Weerstandsbeweging white supremacist Eugene Terre'Blanche begins. ](/news/2011/10/10/the-trial-of-two-south-african-farm-workers-for-the-murder-of-afrikaner-weerstandsbeweging-white-supremacist-euga-ne-terre-blanche-begins.md)

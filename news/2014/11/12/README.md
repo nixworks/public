@@ -3,7 +3,7 @@ Formats: [HTML](2014/11/12/index.html)  [JSON](2014/11/12/index.json)  [XML](201
 
 ## [2014-11-12](/news/2014/11/12/index.md)
 
-##### European Space Agency
+##### European astronomers
 ### [The European Space Agency's "Rosetta" lands the "Philae" probe on the comet 67P-Churyumov-Gerasimenko. ](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.md)
 Even before the Philae landing probe approaches the surface of Comet 67P/Churyumov-Gerasimenko today, scientists know the space rock is not what they imagined when the mission launched in 2004. Data collected by the Rosetta orbiter shows that the comet is warmer and shaped differently than expected,...
 

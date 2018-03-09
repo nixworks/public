@@ -19,7 +19,7 @@ _Context: Chile, Ernesto "Tito" Beltran, Sweden, rape_
 ### [ The U.S. Senate votes to grant immunity to telecommunications companies for their role in NSA call database. ](/news/2008/02/12/the-u-s-senate-votes-to-grant-immunity-to-telecommunications-companies-for-their-role-in-nsa-call-database.md)
 The vote, a major victory for the White House, also gives legal protection to phone companies that aided government wiretapping.
 
-##### European Space Agency
+##### European astronomers
 ### [ European Space Agency's Columbus module is attached to the International Space Station. ](/news/2008/02/12/european-space-agency-s-columbus-module-is-attached-to-the-international-space-station.md)
 Europe’s new Columbus science module became a permanent part of the International Space Station on Monday.
 

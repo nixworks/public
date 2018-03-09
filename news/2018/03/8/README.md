@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/8/index.html)  [JSON](2018/03/8/index.json)  [XML](2018/
 
 ## [2018-03-8](/news/2018/03/8/index.md)
 
+##### Democratic Republic of the Congo general election, 2018
+### [Prime Minister Bruno Tshibala assures that the election, delayed repeatedly since President Joseph Kabila's term expired in December 2016, will occur in December 2018. ](/news/2018/03/8/prime-minister-bruno-tshibala-assures-that-the-election-delayed-repeatedly-since-president-joseph-kabila-s-term-expired-in-december-2016-w.md)
+_Context: Bruno Tshibala, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President, Prime Minister_
+
 ##### Protectionism in the United States
 ### [U.S. President Donald Trump signs proclamations which will impose a 25% tariff on imported steel and 10% on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect in 15 days. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-a-25-tariff-on-imported-steel-and-10-on-aluminum-from-most-countries-ca.md)
 Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
@@ -15,13 +19,13 @@ _Context: Ahmed Aboul Gheit, Guatemala, Jerusalem, Minister of Foreign Affairs o
 ### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-potentially-positive-signals-coming-from-north-korea-but-that-the-two-countries-ar.md)
 Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
 
+##### Toys "R" Us
+### [Toys "R" Us is considering closing all stores in the United States. ](/news/2018/03/8/toys-r-us-is-considering-closing-all-stores-in-the-united-states.md)
+Toys R Us had already begun liquidation sales ahead of its plans to close about 180 stores in the U.S.
+
 ##### Turkish military operation in Afrin
 ### [Turkish-backed Free Syrian Army forces seize control of Jindires in Syria's Afrin District from the Kurdish YPG. The town has suffered extensive destruction due to Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/turkish-backed-free-syrian-army-forces-seize-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-has-suffered-exten.md)
 _Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
-
-##### Rif Dimashq offensive (February 2018-present)
-### [Rebels shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/rebels-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor-thr.md)
-Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ## [Previous Day...](/news/2018/03/7/index.md)
 

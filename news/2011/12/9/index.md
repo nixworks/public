@@ -3,9 +3,9 @@ Formats: [HTML](2011/12/9/index.html)  [JSON](2011/12/9/index.json)  [XML](2011/
 
 ## [2011-12-9](/news/2011/12/9/index.md)
 
-##### President of DR Congo
+##### President
 ### [Incumbent President of the Democratic Republic of the Congo Joseph Kabila is declared the winner of the Congolese general election but lead opposition candidate Etienne Tshisekedi disputes the outcome. ](/news/2011/12/9/incumbent-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-declared-the-winner-of-the-congolese-general-election-but-lead.md)
-_Context: Etienne Tshisekedi, Joseph Kabila, President of DR Congo, presidential election_
+_Context: Etienne Tshisekedi, Joseph Kabila, President, presidential election_
 
 ##### Camorra
 ### [Camorra's Michele Zagaria caught in underground bunker ](/news/2011/12/9/camorra-s-michele-zagaria-caught-in-underground-bunker.md)

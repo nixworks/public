@@ -75,9 +75,9 @@ The former chief executive of Italian food conglomerate Parmalat is sentenced to
 ### [An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
 _Context: Coronation Street, soap opera_
 
-##### Governor of Florida
+##### Governor
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
-_Context: Charlie Crist, Doors, Florida, Governor of Florida, Jim Morrison, indecent exposure_
+_Context: Charlie Crist, Doors, Florida, Governor, Jim Morrison, indecent exposure_
 
 ##### Dame Helen Mirren
 ### [Dame Helen Mirren, speaking as she received an award in Beverly Hills, USA, criticises the intentions of Hollywood filmmakers who "worship at the altar of the 18- to 25-year-old male and his penis". ](/news/2010/12/9/dame-helen-mirren-speaking-as-she-received-an-award-in-beverly-hills-usa-criticises-the-intentions-of-hollywood-filmmakers-who-worship-a.md)

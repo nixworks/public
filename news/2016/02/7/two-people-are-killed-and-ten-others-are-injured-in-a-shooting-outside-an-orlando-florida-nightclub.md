@@ -16,7 +16,7 @@ Formats: [HTML](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured
 
 ### Changes:
 
-1. [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md) _2018-03-07 03:56:41 (First version)_
+1. [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md) _2018-03-08 03:56:42 (First version)_
 1. [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md) _(Current version)_
 
 ### Related:

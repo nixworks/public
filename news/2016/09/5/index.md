@@ -3,9 +3,9 @@ Formats: [HTML](2016/09/5/index.html)  [JSON](2016/09/5/index.json)  [XML](2016/
 
 ## [2016-09-5](/news/2016/09/5/index.md)
 
-##### European Space Agency
+##### European astronomers
 ### [The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P-Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chury.md)
-_Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, Philae, lander_
+_Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European astronomers, Philae, lander_
 
 ##### 2016 U.S. election
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)

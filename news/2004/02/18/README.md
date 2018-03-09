@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/18/index.html)  [JSON](2004/02/18/index.json)  [XML](200
 
 ##### NASA
 ### [ Scientists at NASA and the ESA witness a supermassive black hole in galaxy RXJ1242-11 graze, partially consume, and tear apart a star. This is the first time such a phenomenon has been observed. ](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.md)
-_Context: European Space Agency, NASA, black hole, galaxy_
+_Context: European astronomers, NASA, black hole, galaxy_
 
 ##### Miriam Goldman Cedarbaum
 ### [ A federal appeals court in the United States ruled that district court judge Miriam Goldman Cedarbaum, presiding judge in the much-watched Martha Stewart trial, was in the wrong in barring the media from the voir dire process at the beginning of that trial. ](/news/2004/02/18/a-federal-appeals-court-in-the-united-states-ruled-that-district-court-judge-miriam-goldman-cedarbaum-presiding-judge-in-the-much-watched.md)

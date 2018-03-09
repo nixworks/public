@@ -3,7 +3,7 @@ Formats: [HTML](2016/03/14/index.html)  [JSON](2016/03/14/index.json)  [XML](201
 
 ## [2016-03-14](/news/2016/03/14/index.md)
 
-##### European Space Agency
+##### European astronomers
 ### [The joint European Space Agency and Russian Federal Space Agency ExoMars Trace Gas Orbiter blasts off from the Baikonur Cosmodrome in Kazakhstan. ](/news/2016/03/14/the-joint-european-space-agency-and-russian-federal-space-agency-exomars-trace-gas-orbiter-blasts-off-from-the-baikonur-cosmodrome-in-kazakh.md)
 Europe and Russia have launched a joint mission to the Red Planet.
 

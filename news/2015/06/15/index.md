@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/15/index.html)  [JSON](2015/06/15/index.json)  [XML](201
 
 ##### Bush family
 ### [Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nomination.md)
-_Context: Bush family, Governor of Florida, Jeb Bush, Republican_
+_Context: Bush family, Governor, Jeb Bush, Republican_
 
 ##### The Vatican to hold first paedophilia trial
 ### [The Vatican announces that the first hearing in the trial of Jozef Wesolowski, a former papal ambassador to the Dominican Republic and a Polish former prelate of the Roman Catholic Church, is scheduled for July 11. ](/news/2015/06/15/the-vatican-announces-that-the-first-hearing-in-the-trial-of-ja3zef-wesoaowski-a-former-papal-ambassador-to-the-dominican-republic-and-a-p.md)

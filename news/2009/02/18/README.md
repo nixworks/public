@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/18/index.html)  [JSON](2009/02/18/index.json)  [XML](200
 
 ##### NASA
 ### [ The National Aeronautics and Space Administration and European Space Agency will continue with their Europa Jupiter System Mission and Titan Saturn System Missions. ](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.md)
-_Context: Europa Jupiter System Mission, European Space Agency, NASA, Titan Saturn System Missions_
+_Context: Europa Jupiter System Mission, European astronomers, NASA, Titan Saturn System Missions_
 
 ##### Russia
 ### [ Russia's Border Guard Service sinks a Hong Kong-owned merchant vessel, killing eight people. ](/news/2009/02/18/russia-s-border-guard-service-sinks-a-hong-kong-owned-merchant-vessel-killing-eight-people.md)

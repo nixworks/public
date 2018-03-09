@@ -3,9 +3,9 @@ Formats: [HTML](2012/02/13/index.html)  [JSON](2012/02/13/index.json)  [XML](201
 
 ## [2012-02-13](/news/2012/02/13/index.md)
 
-##### European Space Agency
+##### European astronomers
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
-_Context: European Space Agency, Guiana Space Centre, Vega_
+_Context: European astronomers, Guiana Space Centre, Vega_
 
 ##### New Jersey
 ### [The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. ](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.md)

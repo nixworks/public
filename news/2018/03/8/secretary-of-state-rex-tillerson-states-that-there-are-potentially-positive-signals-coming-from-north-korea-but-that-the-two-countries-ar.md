@@ -11,9 +11,11 @@ Secretary of State Rex Tillerson cautioned, however, that the two countries are 
 
 ### Sources:
 
-1. [NBC News](https://www.nbcnews.com/news/world/tillerson-says-u-s-getting-potentially-positive-signals-north-korea-n854771)
-2. [The Japan Times](https://www.japantimes.co.jp/news/2018/03/08/national/politics-diplomacy/abe-urges-caution-north-korea-talks/#.WqF1kb1yg0M)
-2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2018_10/2354726/180306-tillerson-adis-ababa-mc-1137_0e946d1c041a4bea885b28379988229d.nbcnews-fp-1200-630.jpg)
+1. [CBC](http://www.cbc.ca/beta/news/world/kim-jong-un-and-donald-trump-to-meet-says-south-korea-1.4568583)
+2. [Fox 19](http://m.fox19.com/story/37683404/watch-live-7-major-announcement-regarding-north-korea)
+3. [NBC News](https://www.nbcnews.com/news/world/tillerson-says-u-s-getting-potentially-positive-signals-north-korea-n854771)
+4. [The Japan Times](https://www.japantimes.co.jp/news/2018/03/08/national/politics-diplomacy/abe-urges-caution-north-korea-talks/#.WqF1kb1yg0M)
+4. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2018_10/2354726/180306-tillerson-adis-ababa-mc-1137_0e946d1c041a4bea885b28379988229d.nbcnews-fp-1200-630.jpg)
 
 ### Changes:
 
