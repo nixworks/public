@@ -31,10 +31,6 @@ Populist and anti-immigrant parties could make major gains in an unpredictable c
 ### [In a private speech to Republican donors at Mar-a-Lago, U.S. President Donald Trump congratulates Chinese President Xi Jinping on eliminating China's presidential term limits, reportedly advocates for similar action to be taken in the United States. ](/news/2018/03/4/in-a-private-speech-to-republican-donors-at-mar-a-lago-u-s-president-donald-trump-congratulates-chinese-president-xi-jinping-on-eliminatin.md)
 _Context: Chinese President, Donald Trump, Mar-a-Lago, Presidency of Donald Trump, U.S. President, Xi Jinping, eliminating China's presidential term limits_
 
-##### Online advertising
-### [Advertisers remove their ads from InfoWars founder Alex Jones' YouTube channels. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-alex-jones-youtube-channels-many-of-the-brands-say-they-were-not-aware-their-adverts-we.md)
-Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
-
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in announces he is sending two officials to meet with North Korea. ](/news/2018/03/4/south-korean-president-moon-jae-in-announces-he-is-sending-two-officials-to-meet-with-north-korea.md)
 _Context: Moon Jae-in, North Korea, North Korea-South Korea relations, South Korean President_
@@ -50,6 +46,10 @@ China does not want a trade war with the United States but will defend its inter
 ##### 2017-18 South African listeriosis outbreak
 ### [South African officials determine that the country's ongoing listeriosis outbreak--which is already the world's deadliest listeriosis outbreak, killing over 180 people and sickening 1,000 more--was caused by contaminated "Polony" processed meat. The Ministry of Health issues a recall of contaminated products from RCL Foods and from Tiger Brands subsidiary company Enterprise Food and advises the public to avoid all processed meat products that are sold as ready-to-eat. ](/news/2018/03/4/south-african-officials-determine-that-the-country-s-ongoing-listeriosis-outbreakawhich-is-already-the-world-s-deadliest-listeriosis-outbr.md)
 _Context: 2017-18 South African listeriosis outbreak, Ministry of Health, Polony, RCL Foods, South Africa, Tiger Brands, contaminated, listeriosis, processed meat_
+
+##### Online advertising
+### [Advertisers remove their ads from InfoWars founder Alex Jones' YouTube channels. Many of the brands say they were not aware their adverts were being shown on the channel until being contacted by CNN. ](/news/2018/03/4/advertisers-remove-their-ads-from-infowars-founder-alex-jones-youtube-channels-many-of-the-brands-say-they-were-not-aware-their-adverts-we.md)
+Several leading brands have reportedly sought to pull their ads from YouTube channels of the far-right conspiracy site InfoWars. Ads from a number of major firms and organisations - including Nike, 20th Century Fox, Expedia, the Mormon Church, Alibaba and the National Rifle Association - were being ...
 
 ##### 90th Academy Awards
 ### ["The Shape of Water" wins a leading four awards, including Best Picture, followed by "Dunkirk", which won three awards. ](/news/2018/03/4/the-shape-of-water-wins-a-leading-four-awards-including-best-picture-followed-by-dunkirk-which-won-three-awards.md)
