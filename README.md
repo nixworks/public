@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/8/index.md)
 
-##### Donald Trump
+##### Protectionism in the United States
 ### [U.S. President Donald Trump signs proclamations which will impose a 25% tariff on imported steel and 10% on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect in 15 days. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-a-25-tariff-on-imported-steel-and-10-on-aluminum-from-most-countries-ca.md)
 Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
 
@@ -18,6 +18,10 @@ Secretary of State Rex Tillerson cautioned, however, that the two countries are 
 ##### Turkish military operation in Afrin
 ### [Turkish-backed Free Syrian Army forces seize control of Jindires in Syria's Afrin District from the Kurdish YPG. The town has suffered extensive destruction due to Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/turkish-backed-free-syrian-army-forces-seize-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-has-suffered-exten.md)
 _Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
+
+##### Rif Dimashq offensive (February 2018-present)
+### [Rebels shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/rebels-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor-thr.md)
+Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
