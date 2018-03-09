@@ -12,7 +12,7 @@ _Context: Bruno Tshibala, Democratic Republic of the Congo general election, 201
 Eleven countries signed a slimmed-down version of the Trans-Pacific Partnership as they try to counter Washington’s new protectionism.
 
 ##### Protectionism in the United States
-### [U.S. President Donald Trump imposes his tariffs of 25% on steel and 10% on aluminum imported from most countries. The reason invoked is one of national security. The tariffs will take effect on March 23. ](/news/2018/03/8/u-s-president-donald-trump-imposes-his-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-countries-the-reason-invoked-is-one.md)
+### [Citing national security reasons, U.S. President Donald Trump imposes his tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-his-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-cou.md)
 Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
 
 ##### United States recognition of Jerusalem as capital of Israel
