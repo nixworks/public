@@ -3,25 +3,37 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/8/index.md)
 
+##### Yerkes Observatory
+### [The Yerkes Observatory announces that it will close in October. ](/news/2018/03/8/the-yerkes-observatory-announces-that-it-will-close-in-october.md)
+WILLIAMS BAY &mdash; After more than a century of scientific exploration on the shores of Geneva Lake, the Yerkes Observatory is ceasing operations.
+
+##### Democratic Republic of the Congo general election, 2018
+### [Prime Minister Bruno Tshibala assures that the election - delayed repeatedly since President Joseph Kabila's term expired in December 2016 - will occur this December. ](/news/2018/03/8/prime-minister-bruno-tshibala-assures-that-the-election-a-delayed-repeatedly-since-president-joseph-kabila-s-term-expired-in-december-2016.md)
+_Context: Bruno Tshibala, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President, Prime Minister_
+
+##### Comprehensive and Progressive Agreement for Trans-Pacific Partnership
+### [Eleven countries in Asia, North America, Oceania, and South America sign the revised Trans-Pacific Partnership trade agreement. ](/news/2018/03/8/eleven-countries-in-asia-north-america-oceania-and-south-america-sign-the-revised-trans-pacific-partnership-trade-agreement.md)
+Eleven countries signed a slimmed-down version of the Trans-Pacific Partnership as they try to counter Washington’s new protectionism.
+
 ##### Protectionism in the United States
-### [U.S. President Donald Trump signs proclamations which will impose a 25% tariff on imported steel and 10% on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect in 15 days. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-a-25-tariff-on-imported-steel-and-10-on-aluminum-from-most-countries-ca.md)
+### [U.S. President Donald Trump signs proclamations which will impose 25% tariffs on imported steel and 10% tariffs on aluminum from most countries. Canada and Mexico are initially exempted from these tariffs while they talk with the U.S. about renegotiating NAFTA. The tariffs will go into effect on March 23. ](/news/2018/03/8/u-s-president-donald-trump-signs-proclamations-which-will-impose-25-tariffs-on-imported-steel-and-10-tariffs-on-aluminum-from-most-countr.md)
 Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
 
 ##### United States recognition of Jerusalem as capital of Israel
-### [Secretary-General of the Arab League Ahmed Aboul Gheit demands that Guatemala decline its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel says that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demands-that-guatemala-decline-its-decision-to-move-its-embassy-from-tel-aviv-to-jeru.md)
-_Context: Ahmed Aboul Gheit, Guatemala, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
+### [Secretary-General of the Arab League Ahmed Aboul Gheit demands that Guatemala reverse its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel says that the decision to move the embassy is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demands-that-guatemala-reverse-its-decision-to-move-its-embassy-from-tel-aviv-to-jeru.md)
+_Context: Ahmed Aboul Gheit, Guatemala, Israel-United States relations, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
 
 ##### 2017-18 North Korea crisis
 ### [Secretary of State Rex Tillerson states that there are "potentially positive signals" coming from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-states-that-there-are-potentially-positive-signals-coming-from-north-korea-but-that-the-two-countries-ar.md)
 Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
 
+##### Toys "R" Us
+### [Toys "R" Us is considering closing all their stores in the United States. ](/news/2018/03/8/toys-r-us-is-considering-closing-all-their-stores-in-the-united-states.md)
+Toys R Us had already begun liquidation sales ahead of its plans to close about 180 stores in the U.S.
+
 ##### Turkish military operation in Afrin
 ### [Turkish-backed Free Syrian Army forces seize control of Jindires in Syria's Afrin District from the Kurdish YPG. The town has suffered extensive destruction due to Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/turkish-backed-free-syrian-army-forces-seize-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-has-suffered-exten.md)
 _Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
-
-##### Rif Dimashq offensive (February 2018-present)
-### [Rebels shell a convoy of 300 families attempting to leave the eastern Ghouta suburb of Damascus, Syria, through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. ](/news/2018/03/8/rebels-shell-a-convoy-of-300-families-attempting-to-leave-the-eastern-ghouta-suburb-of-damascus-syria-through-a-humanitarian-corridor-thr.md)
-Militants entrenched in the Damascus suburb of Eastern Ghouta have attacked a convoy of civilians trying to exit Ghouta, and shelled the area where their relatives and journalists had been waiting, Russian military said.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -32,11 +44,11 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/7/index.md)
 
 ##### Forensic anthropology
-### [Emeritus University of Tennessee professor Richard Jantz claims that bones found in 1940 on Nikumaroro island, Kiribati, in the South Pacific Ocean, almost certainly belong to lost aviation pioneer Amelia Earhart. ](/news/2018/03/7/emeritus-university-of-tennessee-professor-richard-jantz-claims-that-bones-found-in-1940-on-nikumaroro-island-kiribati-in-the-south-pacifi.md)
+### [Emeritus University of Tennessee Professor Richard Jantz claims that bones found in 1940 on Nikumaroro, Kiribati, almost certainly belong to lost aviation pioneer Amelia Earhart. ](/news/2018/03/7/emeritus-university-of-tennessee-professor-richard-jantz-claims-that-bones-found-in-1940-on-nikumaroro-kiribati-almost-certainly-belong-to.md)
 Is this the end of eight decades of mystery?
 
 ##### Asteroid close approaches to Earth in 2018
-### [Asteroid 2017 VR is predicted to make a flyby past Earth tonight. ](/news/2018/03/7/asteroid-2017-vr-is-predicted-to-make-a-flyby-past-earth-tonight.md)
+### [Asteroid 2017 VR makes a flyby past Earth. ](/news/2018/03/7/asteroid-2017-vr-makes-a-flyby-past-earth.md)
 _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 
 ##### Observational astronomy
@@ -47,8 +59,12 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 ### [Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, and creates a program for the arming of some teachers. ](/news/2018/03/7/florida-s-house-of-representatives-votes-67a50-to-approve-a-gun-and-school-safety-bill-that-would-raise-the-age-to-buy-firearms-from-18-to.md)
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
+##### United States
+### [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md)
+In new details, former fraud prosecutor admits stealing dozens of secret lawsuits to sell to companies under investigation.
+
 ##### 2018 Vienna stabbing
-### [Two separate stabbings occur in Vienna, Austria. Four people are seriously injured outside a Japanese restaurant; later, a quarrel between two Afghan men results in another stabbing. The perpetrator in the second case has been arrested. Connections between the two events are unclear. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-later-a-quarrel-between-t.md)
+### [Two separate stabbings occur in Vienna, Austria: four people are seriously injured outside a Japanese restaurant, and later a quarrel between two men results in another stabbing. The perpetrator in the second case has been arrested. ](/news/2018/03/7/two-separate-stabbings-occur-in-vienna-austria-four-people-are-seriously-injured-outside-a-japanese-restaurant-and-later-a-quarrel-betwee.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ##### Hate crime in the United Kingdom
@@ -60,7 +76,7 @@ The leaders of far-right extremist group Britain First have been jailed for anti
 _Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
 
 ##### March 6-8, 2018 nor'easter
-### [A second winter storm occurs in the East Coast of the United States, only days after another comparable storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-days-after-another-comparable-storm.md)
+### [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md)
 A dangerous winter storm will lead to whiteout conditions, and likely many more outages.
 
 ##### Accidents and incidents involving helicopters
@@ -87,8 +103,8 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
-##### Post-WWII anti-fascism
-### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin. ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin.md)
+##### Free speech zones on college and university campuses
+### [Violence breaks out as protesters storm an event organized by the King's College Libertarian Society which featured the controversial YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-kingas-college-libertarian-society-which-featured-the-controversial-yout.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump

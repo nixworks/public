@@ -15,8 +15,8 @@ _Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)
 Russian Deputy Prime Minister Vitaly Mutko will no longer have governmental responsibility for the World Cup, the latest soccer-related role he has left after being implicated in the state-sponsored doping scheme. Another deputy minister, Arkady Dvorkovich, has been appointed chairman of...
 
-##### Post-WWII anti-fascism
-### [Anti-fascist protesters disrupt a libertarian event at King's College London featuring speakers such as Yaron Brook and Carl Benjamin. ](/news/2018/03/6/anti-fascist-protesters-disrupt-a-libertarian-event-at-king-s-college-london-featuring-speakers-such-as-yaron-brook-and-carl-benjamin.md)
+##### Free speech zones on college and university campuses
+### [Violence breaks out as protesters storm an event organized by the King's College Libertarian Society which featured the controversial YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-kingas-college-libertarian-society-which-featured-the-controversial-yout.md)
 Protesters stormed a King&rsquo;s College London event featuring a controversial anti-feminist YouTube star, with the university accused of prioritising &ldquo;safe space&rdquo; policies over protecting students from violence.
 
 ##### Legal affairs of Donald Trump

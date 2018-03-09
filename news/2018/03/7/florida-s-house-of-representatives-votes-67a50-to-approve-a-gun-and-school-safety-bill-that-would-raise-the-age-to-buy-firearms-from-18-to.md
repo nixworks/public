@@ -11,7 +11,7 @@ Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and 
 
 ### Sources:
 
-1. [NBC News](https://www.nbcnews.com/news/us-news/florida-legislature-sends-gun-school-safety-bill-governor-n854701)
+1. [NBC News](https://www.nbcnews.com/news/us-news/florida-legislature-sends-gun-school-safety-bill-governor-n854701)
 1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2018_10/2354436/180307-florida-capitol-tallahassee-ew-703p_b8c6757728260aa140ce6c37a22eea49.nbcnews-fp-1200-630.jpg)
 
 ### Related:
