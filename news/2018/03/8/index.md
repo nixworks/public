@@ -5,7 +5,7 @@ Formats: [HTML](2018/03/8/index.html)  [JSON](2018/03/8/index.json)  [XML](2018/
 
 ##### Democratic Republic of the Congo general election, 2018
 ### [Prime Minister Bruno Tshibala says the election - delayed repeatedly since President Joseph Kabila's term expired in December 2016 - will occur this December. ](/news/2018/03/8/prime-minister-bruno-tshibala-says-the-election-a-delayed-repeatedly-since-president-joseph-kabila-s-term-expired-in-december-2016-a-wil.md)
-_Context: Bruno Tshibala, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President, Prime Minister_
+_Context: Bruno Tshibala, Congolese President, Democratic Republic of the Congo general election, 2018, Joseph Kabila, Prime Minister_
 
 ##### Comprehensive and Progressive Agreement for Trans-Pacific Partnership
 ### [Eleven countries in Asia, North America, Oceania, and South America sign the revised Trans-Pacific Partnership trade agreement. ](/news/2018/03/8/eleven-countries-in-asia-north-america-oceania-and-south-america-sign-the-revised-trans-pacific-partnership-trade-agreement.md)
