@@ -8,7 +8,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 The lawsuit says the bill violates the rights of young women as they are less likely to be violent.
 
 ##### 2017-18 North Korea crisis
-### [Jeju Island emerges as a possible location for US-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-us-north-korea-summit-talks-in-may.md)
+### [Jeju Island emerges as a possible location for U.S.-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-u-s-anorth-korea-summit-talks-in-may.md)
 North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
 
 ##### Environmental issues in Chile
@@ -48,8 +48,8 @@ Shkreli was convicted last summer of securities fraud charges linked to hedge fu
 The bodies were found at the home in Northern California hours after the gunman had fired at a deputy, the authorities said.
 
 ##### 2017-18 North Korea crisis
-### [Australian Prime Minister Malcolm Turnbull urges U.S. President Donald Trump to be cautious in North Korea talks. Turnbull also said that Australia must retain sanctions on North Korea. ](/news/2018/03/9/australian-prime-minister-malcolm-turnbull-urges-u-s-president-donald-trump-to-be-cautious-in-north-korea-talks-turnbull-also-said-that-au.md)
-PM says an unprecedented meeting between Donald Trump and Kim Jong-un should be welcomed cautiously.
+### [White House Press Secretary Sarah Huckabee Sanders says that the White House needs to see "concrete and verifiable steps" toward the denuclearization of North Korea before meeting with Kim Jong-un. ](/news/2018/03/9/white-house-press-secretary-sarah-huckabee-sanders-says-that-the-white-house-needs-to-see-concrete-and-verifiable-steps-toward-the-denucle.md)
+The White House press secretary said the president &quot;will not have the meeting without seeing concrete steps and concrete actions take place by North Korea.&quot;
 
 ##### Media of the United Kingdom
 ### [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md)

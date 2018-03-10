@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/10/index.html)  [JSON](2018/03/10/index.json)  [XML](201
 The lawsuit says the bill violates the rights of young women as they are less likely to be violent.
 
 ##### 2017-18 North Korea crisis
-### [Jeju Island emerges as a possible location for US-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-us-north-korea-summit-talks-in-may.md)
+### [Jeju Island emerges as a possible location for U.S.-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-u-s-anorth-korea-summit-talks-in-may.md)
 North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
 
 ##### Environmental issues in Chile
