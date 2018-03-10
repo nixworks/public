@@ -12,15 +12,15 @@ _Context: 2018 in spaceflight, Arianespace, Guiana Space Centre, O3b, SES, Soyuz
 Mauritian President Ameenah Gurib-Fakim will step down next week, the prime minister said on Friday, after she was accused of using a credit card issued by an international non-governmental organisation to buy clothes and jewellery.
 
 ##### Federal pardons in the United States
-### [U.S. President Donald Trump pardons Kristian Saucier, who was convicted of unauthorized possession and retention of national defense information. ](/news/2018/03/9/u-s-president-donald-trump-pardons-kristian-saucier-who-was-convicted-of-unauthorized-possession-and-retention-of-national-defense-informa.md)
+### [U.S. President Donald Trump pardons Kristian Saucier, who had served a one-year sentence for unauthorized possession and retention of national defense information. ](/news/2018/03/9/u-s-president-donald-trump-pardons-kristian-saucier-who-had-served-a-one-year-sentence-for-unauthorized-possession-and-retention-of-nation.md)
 President had said previously that Kristian Saucier&rsquo;s prosecution showed that Hillary Clinton was treated too leniently.
 
 ##### Crime in New York
 ### [A Brooklyn federal court sentences Martin Shkreli to seven years in prison for securities fraud in his hedge fund and pharmaceutical companies. ](/news/2018/03/9/a-brooklyn-federal-court-sentences-martin-shkreli-to-seven-years-in-prison-for-securities-fraud-in-his-hedge-fund-and-pharmaceutical-compani.md)
 Shkreli was convicted last summer of securities fraud charges linked to hedge funds and a drug company he founded.
 
-##### Crime in California
-### [A gunman takes three women hostage at the Veterans Home of California in Yountville, California. Hours later, local law enforcement find all four of them dead. ](/news/2018/03/9/a-gunman-takes-three-women-hostage-at-the-veterans-home-of-california-in-yountville-california-hours-later-local-law-enforcement-find-all.md)
+##### Yountville hostage crisis
+### [An Afghan War veteran and recently expelled resident takes an executive director and two psychologists hostage at the Veterans Home of California in Yountville, California. Seven hours later, California Highway Patrol officers find all of them shot dead. ](/news/2018/03/9/an-afghan-war-veteran-and-recently-expelled-resident-takes-an-executive-director-and-two-psychologists-hostage-at-the-veterans-home-of-calif.md)
 The bodies were found at the home in Northern California hours after the gunman had fired at a deputy, the authorities said.
 
 ##### 2017-18 North Korea crisis
