@@ -19,8 +19,12 @@ President had said previously that Kristian Saucier&rsquo;s prosecution showed t
 ### [A Brooklyn federal court sentences Martin Shkreli to seven years in prison for securities fraud in his hedge fund and pharmaceutical companies. ](/news/2018/03/9/a-brooklyn-federal-court-sentences-martin-shkreli-to-seven-years-in-prison-for-securities-fraud-in-his-hedge-fund-and-pharmaceutical-compani.md)
 Shkreli was convicted last summer of securities fraud charges linked to hedge funds and a drug company he founded.
 
-##### Australia-North Korea relations
-### [ Australia Prime Minister Malcolm Turnbull urges US President Donald Trump to be cautious in North Korea talks. Furthermore, Turnbull stated that Australia must retain sanctions on North Korea. ](/news/2018/03/9/australia-prime-minister-malcolm-turnbull-urges-us-president-donald-trump-to-be-cautious-in-north-korea-talks-furthermore-turnbull-stated.md)
+##### Crime in California
+### [A gunman takes three women hostage at the Veterans Home of California in Yountville, California. Hours later, local law enforcement find all four of them dead. ](/news/2018/03/9/a-gunman-takes-three-women-hostage-at-the-veterans-home-of-california-in-yountville-california-hours-later-local-law-enforcement-find-all.md)
+The bodies were found at the home in Northern California hours after the gunman had fired at a deputy, the authorities said.
+
+##### 2017-18 North Korea crisis
+### [Australian Prime Minister Malcolm Turnbull urges U.S. President Donald Trump to be cautious in North Korea talks. Turnbull also said that Australia must retain sanctions on North Korea. ](/news/2018/03/9/australian-prime-minister-malcolm-turnbull-urges-u-s-president-donald-trump-to-be-cautious-in-north-korea-talks-turnbull-also-said-that-au.md)
 PM says an unprecedented meeting between Donald Trump and Kim Jong-un should be welcomed cautiously.
 
 ##### Media of the United Kingdom
