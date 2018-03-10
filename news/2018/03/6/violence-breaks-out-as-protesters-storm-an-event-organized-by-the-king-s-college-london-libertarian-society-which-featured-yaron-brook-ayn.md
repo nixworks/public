@@ -17,7 +17,8 @@ Protesters stormed a King&rsquo;s College London event featuring a controversial
 ### Changes:
 
 1. [Violence breaks out as protesters storm an event organized by the King's College Libertarian Society which featured the controversial YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-kingas-college-libertarian-society-which-featured-the-controversial-yout.md) _2018-03-09 16:30:07 (First version)_
-1. [Violence breaks out as protesters storm an event organized by the King's College London Libertarian Society which featured Yaron Brook (Ayn Rand Institute) and the antifeminist YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-king-s-college-london-libertarian-society-which-featured-yaron-brook-ayn.md) _(Current version)_
+2. [Violence breaks out as protesters storm an event that is organized by the King's College Libertarian Society which features the controversial YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-that-is-organized-by-the-king-s-college-libertarian-society-which-features-the-controversia.md) _2018-03-10 12:30:07 (Update)_
+2. [Violence breaks out as protesters storm an event organized by the King's College London Libertarian Society which featured Yaron Brook (Ayn Rand Institute) and the antifeminist YouTuber Sargon of Akkad. ](/news/2018/03/6/violence-breaks-out-as-protesters-storm-an-event-organized-by-the-king-s-college-london-libertarian-society-which-featured-yaron-brook-ayn.md) _(Current version)_
 
 ### Related:
 
