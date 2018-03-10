@@ -25,7 +25,7 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 
 ##### Tom Horne
 ### [Tom Horne, the Arizona Attorney General takes the United States Department of Justice to court over the states medical marijuana laws. ](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.md)
-_Context: Arizona Attorney General, Tom Horne, U.S. Justice Department, medical marijuana_
+_Context: Arizona Attorney General, Department of Justice, Tom Horne, medical marijuana_
 
 ##### Serbia
 ### [A Serbian court rules that former Bosnian Serb military leader Ratko Mladic is fit to stand a genocide trial at The Hague. ](/news/2011/05/27/a-serbian-court-rules-that-former-bosnian-serb-military-leader-ratko-mladia-is-fit-to-stand-a-genocide-trial-at-the-hague.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2011/11/30/index.html)  [JSON](2011/11/30/index.json)  [XML](201
 ### [Researchers at Washington State University develop an artificial bone "scaffold" which can be produced using 3D printers, potentially allowing doctors to quickly print replacement bone tissue for injured patients. ](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.md)
 Engineers say they have developed a bone-like substance that can be created by 3D printers to create a scaffold for new bone tissue to grow over.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton arrives in Burma to urge political reforms. ](/news/2011/11/30/united-states-secretary-of-state-hillary-clinton-arrives-in-burma-to-urge-political-reforms.md)
-_Context: Burma, Hillary Clinton, Reforms in Burma, United States Secretary of State_
+_Context: Burma, Hillary Clinton, Reforms in Burma, Secretary of State_
 
 ##### Iran
 ### [The Iranian Foreign Ministry calls the attacks "unacceptable", stating that they happened despite the efforts of the embassy guards. Police arrest 12 protesters in connection with the attacks. ](/news/2011/11/30/the-iranian-foreign-ministry-calls-the-attacks-unacceptable-stating-that-they-happened-despite-the-efforts-of-the-embassy-guards-police.md)

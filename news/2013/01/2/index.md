@@ -3,9 +3,9 @@ Formats: [HTML](2013/01/2/index.html)  [JSON](2013/01/2/index.json)  [XML](2013/
 
 ## [2013-01-2](/news/2013/01/2/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
-_Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
+_Context: Hillary Clinton, NewYork-Presbyterian Hospital, Secretary of State, blood clot_
 
 ##### U.S. President
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)

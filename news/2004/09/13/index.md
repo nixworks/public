@@ -15,9 +15,9 @@ _Context: Afghanistan, Taliban, Zabul, al-Qaeda, stronghold_
 ### [ The "pre-election offensive" against the Iraqi resistance continues in the rebel-held city of Fallujah, with air-strikes killing at least 16, including women and children. Joint U.S.-Iraqi forces say that they are targeting Jordanian militant Abu Musab al-Zarqawi, who is linked to al-Qaeda. The U.S. military says it is investigating an incident that occurred September 12 in Baghdad in which five people, including an "al-Arabiya" journalist broadcasting live, were killed in a helicopter attack. ](/news/2004/09/13/the-pre-election-offensive-against-the-iraqi-resistance-continues-in-the-rebel-held-city-of-fallujah-with-air-strikes-killing-at-least-1.md)
 _Context: Abu Musab al-Zarqawi, Baghdad, Fallujah, Iraqi, Jordan, al-Arabiya, al-Qaeda, helicopter, rebel-held_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ United States Secretary of State Colin Powell says that he saw no direct connection between Saddam Hussein's former regime in Iraq and the September 11, 2001, attacks. During an interview on NBC's "Meet the Press," Powell also said he believes that if John Kerry were president at the time of a terrorist attack he would respond in a "robust" way. ](/news/2004/09/13/united-states-secretary-of-state-colin-powell-says-that-he-saw-no-direct-connection-between-saddam-hussein-s-former-regime-in-iraq-and-the.md)
-_Context: Colin Powell, Iraq, John Kerry, Meet the Press, NBC, Saddam Hussein, September 11, 2001, attacks, U.S. President, United States Secretary of State, terrorist attack_
+_Context: Colin Powell, Iraq, John Kerry, Meet the Press, NBC, Saddam Hussein, Secretary of State, September 11, 2001, attacks, U.S. President, terrorist attack_
 
 ##### Fathers 4 Justice
 ### [ A Fathers 4 Justice protester dressed as Batman breaches security at Buckingham Palace and scales a wall. He remains on a balcony for five hours before being arrested by police. ](/news/2004/09/13/a-fathers-4-justice-protester-dressed-as-batman-breaches-security-at-buckingham-palace-and-scales-a-wall-he-remains-on-a-balcony-for-five.md)

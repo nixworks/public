@@ -9,7 +9,7 @@ _Context: Georgiy R. Gongadze, Ministry of Internal Affairs, Oleksiy Pukach, Ukr
 
 ##### United States
 ### [ U.S. Secretary of State Hillary Clinton warns that it could arm its allies in the Gulf and extend a "defense umbrella" over the region, if Iran goes nuclear. ](/news/2009/07/22/u-s-secretary-of-state-hillary-clinton-warns-that-it-could-arm-its-allies-in-the-gulf-and-extend-a-defense-umbrella-over-the-region-if.md)
-_Context: Hillary Clinton, Iran, Persian Gulf, United States, United States Secretary of State, nuclear warheads_
+_Context: Hillary Clinton, Iran, Persian Gulf, Secretary of State, United States, nuclear warheads_
 
 ##### Irish
 ### [ Ireland's Council of State meets to consider two pieces of controversial legislation at ras an Uachtarin in Dublin. ](/news/2009/07/22/ireland-s-council-of-state-meets-to-consider-two-pieces-of-controversial-legislation-at-aras-an-uachtarain-in-dublin.md)

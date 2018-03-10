@@ -27,7 +27,7 @@ A supporter of accused leaker Bradley Manning is suing the U.S. government for c
 ### [A human rights group urges Iranian authorities not to put acid in the eyes of a man found guilty of blinding a woman who scorned him; a seni-official Iranian news agency reports that the punishment has been postponed. ](/news/2011/05/14/a-human-rights-group-urges-iranian-authorities-not-to-put-acid-in-the-eyes-of-a-man-found-guilty-of-blinding-a-woman-who-scorned-him-a-seni.md)
 A human rights group on Saturday urged Iranian authorities not to put acid in the eyes of a man found guilty of blinding a woman who scorned him.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The US Justice Department says that two South Florida imams and a third family member were arrested on charges of providing support to the Pakistani Taliban. ](/news/2011/05/14/the-us-justice-department-says-that-two-south-florida-imams-and-a-third-family-member-were-arrested-on-charges-of-providing-support-to-the-p.md)
 Two South Florida imams and a third family member were arrested Saturday on charges of providing support to the Pakistani Taliban, the Justice Department said.
 

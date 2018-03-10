@@ -57,7 +57,7 @@ _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ##### Deputy Attorney General
 ### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
-_Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
+_Context: Department of Justice, Deputy Attorney General, Paul McNulty_
 
 ##### Death threat
 ### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)

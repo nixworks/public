@@ -61,7 +61,7 @@ Document detailing attacks by Rwandan and Ugandan troops against civilians toned
 
 ##### Tropical Storm Nicole
 ### [A massive rainstorm, formed from the combination of the remnants of Tropical Storm Nicole and a second extratropical low, drenches the East Coast of the United States from North Carolina to Maine. ](/news/2010/10/1/a-massive-rainstorm-formed-from-the-combination-of-the-remnants-of-tropical-storm-nicole-and-a-second-extratropical-low-drenches-the-east.md)
-_Context: East Coast of the United States, Maine, North Carolina, Tropical Storm Nicole_
+_Context: East Coast, Maine, North Carolina, Tropical Storm Nicole_
 
 ##### Bob Dudley
 ### [American Bob Dudley succeeds Tony Hayward as the new CEO of BP after the recent controversies over the Oil Spill crisis in the Deepwater Horizon. ](/news/2010/10/1/american-bob-dudley-succeeds-tony-hayward-as-the-new-ceo-of-bp-after-the-recent-controversies-over-the-oil-spill-crisis-in-the-deepwater-hor.md)

@@ -57,7 +57,7 @@ _Context: African Union, British, European Union, Gordon Brown, Lisbon, Lus Amad
 
 ##### United States
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
-_Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, U.S. President, United States, United States Secretary of State, White House_
+_Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, Secretary of State, U.S. President, United States, White House_
 
 ##### Transport
 ### [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md)

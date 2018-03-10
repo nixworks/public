@@ -35,9 +35,9 @@ _Context: Legislative Assembly, Queensland, Scott Driscoll, State_
 ### [The Philippines says that it is willing to accept 3,000 Rohingya refugees after an accusation by a newspaper was made. Last week Indonesia turned away boats carrying over 1,000 Rohingya refugees. ](/news/2015/05/18/the-philippines-says-that-it-is-willing-to-accept-3-000-rohingya-refugees-after-an-accusation-by-a-newspaper-was-made-last-week-indonesia-t.md)
 _Context: Indonesia, Philippines, Rohingya_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State, John Kerry, assures South Korea of "ironclad" American security commitments on a visit to Seoul while accusing North Korea of a litany of crimes. ](/news/2015/05/18/the-united-states-secretary-of-state-john-kerry-assures-south-korea-of-ironclad-american-security-commitments-on-a-visit-to-seoul-while.md)
-_Context: John Kerry, North Korea, Seoul, South Korea, United States Secretary of State_
+_Context: John Kerry, North Korea, Secretary of State, Seoul, South Korea_
 
 ##### Landslide
 ### [At least 52 people die in a landslide caused by heavy rains in the Colombian town of Salgar, Antioquia. ](/news/2015/05/18/at-least-52-people-die-in-a-landslide-caused-by-heavy-rains-in-the-colombian-town-of-salgar-antioquia.md)

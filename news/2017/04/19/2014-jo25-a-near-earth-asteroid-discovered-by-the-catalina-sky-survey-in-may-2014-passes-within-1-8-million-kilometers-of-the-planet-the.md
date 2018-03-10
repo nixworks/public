@@ -16,5 +16,6 @@ A large asteroid the size of the Rock of Gibraltar has passed safely by Earth.
 
 ### Related:
 
-1. [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md) _Context: near-Earth asteroid_
-2. [Near-Earth Asteroid 2011 MD passed within 12,000 kilometres (7,500 miles) of the Earth's surface at about 13:00 EDT flying over the South Atlantic Ocean, off the coast of Antarctica. ](/news/2011/06/27/near-earth-asteroid-2011-md-passed-within-12-000-kilometres-7-500-miles-of-the-earth-s-surface-at-about-13-00-edt-flying-over-the-south-at.md) _Context: near-Earth asteroid_
+1. [Near-Earth asteroid 2017 VR makes a flyby past Earth. ](/news/2018/03/7/near-earth-asteroid-2017-vr-makes-a-flyby-past-earth.md) _Context: Near-Earth_
+2. [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md) _Context: Near-Earth_
+3. [Near-Earth Asteroid 2011 MD passed within 12,000 kilometres (7,500 miles) of the Earth's surface at about 13:00 EDT flying over the South Atlantic Ocean, off the coast of Antarctica. ](/news/2011/06/27/near-earth-asteroid-2011-md-passed-within-12-000-kilometres-7-500-miles-of-the-earth-s-surface-at-about-13-00-edt-flying-over-the-south-at.md) _Context: Near-Earth_

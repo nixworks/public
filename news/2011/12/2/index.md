@@ -7,9 +7,9 @@ Formats: [HTML](2011/12/2/index.html)  [JSON](2011/12/2/index.json)  [XML](2011/
 ### [The United Nations Human Rights Council denounces the crimes against humanity during the 2011 Syrian uprising which killed over 4,000 people since the uprising started in March. ](/news/2011/12/2/the-united-nations-human-rights-council-denounces-the-crimes-against-humanity-during-the-2011-syrian-uprising-which-killed-over-4-000-people.md)
 _Context: 2011 Syrian uprising, Human Rights Council, crimes against humanity_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton meets with Aung San Suu Kyi, Burma's pre-eminent pro-democracy activist, to promote democratic reforms. ](/news/2011/12/2/united-states-secretary-of-state-hillary-clinton-meets-with-aung-san-suu-kyi-burma-s-pre-eminent-pro-democracy-activist-to-promote-democra.md)
-_Context: Aung San Suu Kyi, Burma, Hillary Clinton, United States Secretary of State, democratic reforms_
+_Context: Aung San Suu Kyi, Burma, Hillary Clinton, Secretary of State, democratic reforms_
 
 ##### Agriculture Committee
 ### [In the U.S., the Agriculture Committee of the U.S. House of Representatives votes to issue a subpoena to Jon Corzine, former Governor of New Jersey, in connection with the collapse of MF Global and the disappearance of customer funds. ](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.md)

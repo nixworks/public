@@ -61,7 +61,7 @@ _Context: Iran, Naftiran Inter-trade Company, United States_
 
 ##### Tropical Storm Nicole
 ### [Heavy rain from former Tropical Storm Nicole causes flooding the US states of North Carolina and Virginia and delays in airline flights on the east coast. ](/news/2010/09/30/heavy-rain-from-former-tropical-storm-nicole-causes-flooding-the-us-states-of-north-carolina-and-virginia-and-delays-in-airline-flights-on-t.md)
-_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, United States, Virginia_
+_Context: East Coast, North Carolina, Tropical Storm Nicole, United States, Virginia_
 
 ##### Japan
 ### [Three Japanese mountain climbers and a guide go missing in Nepal after attempting to climb the Himalayan mountain Dhaulagiri. ](/news/2010/09/30/three-japanese-mountain-climbers-and-a-guide-go-missing-in-nepal-after-attempting-to-climb-the-himalayan-mountain-dhaulagiri.md)

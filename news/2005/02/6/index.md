@@ -23,9 +23,9 @@ _Context: Faure Gnassingb, Gnassingb Eyadma, Togo_
 ### [ Thai Prime Minister Thaksin Shinawatra wins an unprecedented second term as prime minister, in the greatest electoral sweep in the nation's history. ](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.md)
 _Context: Prime Minister, Thaksin Shinawatra, greatest electoral sweep_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ US Secretary of State Condoleezza Rice arrives in Israel to meet with Israeli Prime Minister Ariel Sharon and Palestinian Authority President Mahmoud Abbas. ](/news/2005/02/6/us-secretary-of-state-condoleezza-rice-arrives-in-israel-to-meet-with-israeli-prime-minister-ariel-sharon-and-palestinian-authority-preside.md)
-_Context: Ariel Sharon, Condoleezza Rice, Israel, Mahmoud Abbas, President of the Palestinian Authority, Prime Minister, United States Secretary of State_
+_Context: Ariel Sharon, Condoleezza Rice, Israel, Mahmoud Abbas, President of the Palestinian Authority, Prime Minister, Secretary of State_
 
 ##### New England Patriots
 ### [ The New England Patriots win the Super Bowl, defeating the Philadelphia Eagles 24-21. ](/news/2005/02/6/the-new-england-patriots-win-the-super-bowl-defeating-the-philadelphia-eagles-24-21.md)

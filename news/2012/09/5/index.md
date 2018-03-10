@@ -27,7 +27,7 @@ A masked gunman wearing a blue bathrobe opened fire during a midnight victory ra
 ### [Mauritania extradites former Libyan intelligence chief Abdullah Senussi, who was arrested in the capital Nouakchott in March after fleeing Libya during the civil war in 2011. The United States insist on a fair trial for the suspect, a "milestone in (Libya's) democratic transition". ](/news/2012/09/5/mauritania-extradites-former-libyan-intelligence-chief-abdullah-senussi-who-was-arrested-in-the-capital-nouakchott-in-march-after-fleeing-l.md)
 _Context: Abdullah Senussi, Libya, Libyan Civil War, Mauritanian, Nouakchott, fair trial, government officials, insist_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [Secretary of State Hillary Clinton does not meet Vice President Xi Jinping. ](/news/2012/09/5/secretary-of-state-hillary-clinton-does-not-meet-vice-president-xi-jinping.md)
 Despite Vice President Xi Jinping&#039;s cancellation, Clinton met with President Hu Jintao and other top Chinese leaders in Beijing on Tuesday and Wednesday
 

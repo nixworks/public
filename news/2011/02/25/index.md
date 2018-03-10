@@ -45,7 +45,7 @@ _Context: Peru, ravine_
 
 ##### Snowstorm
 ### [A heavy snowstorm hits the East Coast of the United States causing flight cancellations and school closures. ](/news/2011/02/25/a-heavy-snowstorm-hits-the-east-coast-of-the-united-states-causing-flight-cancellations-and-school-closures.md)
-_Context: East Coast of the United States, snowstorm_
+_Context: East Coast, snowstorm_
 
 ##### 2011 Canterbury earthquake
 ### [The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md)

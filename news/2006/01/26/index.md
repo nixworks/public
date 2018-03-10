@@ -29,7 +29,7 @@ _Context: David Mulford, Iran's nuclear program, United Nations Security Council
 
 ##### Liberal Democrats
 ### [ Liberal Democrat MEP for London, Sarah Ludford, who is leading a European Parliament investigation into the U.S. policy of "extraordinary rendition", says she may invite Vice President of the United States Dick Cheney, United States Secretary of Defense Donald Rumsfeld or United States Secretary of State Condoleezza Rice to testify. ](/news/2006/01/26/liberal-democrat-mep-for-london-sarah-ludford-who-is-leading-a-european-parliament-investigation-into-the-u-s-policy-of-extraordinary-r.md)
-_Context: Condoleezza Rice, Dick Cheney, Donald Rumsfeld, European Parliament, Liberal Democrats, London, Member of the European Parliament, Sarah Ludford, U.S. Vice President, United States Secretary of Defense, United States Secretary of State, extraordinary rendition_
+_Context: Condoleezza Rice, Dick Cheney, Donald Rumsfeld, European Parliament, Liberal Democrats, London, Member of the European Parliament, Sarah Ludford, Secretary of State, U.S. Vice President, United States Secretary of Defense, extraordinary rendition_
 
 ##### President
 ### [ Pakistani President Pervez Musharraf rejects US objections to a proposed Iran-Pakistan-India pipeline for natural gas saying "It is in our economic interest. If somebody wants to stop us they should compensate us ... But at the moment we are going ahead". Musharraf also repeats his condemnation of the recent U.S. air strike in northern Pakistan which killed 18 people, including women and children. ](/news/2006/01/26/pakistani-president-pervez-musharraf-rejects-us-objections-to-a-proposed-iranapakistanaindia-pipeline-for-natural-gas-saying-it-is-in.md)

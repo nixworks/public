@@ -3,7 +3,7 @@ Formats: [HTML](2014/03/14/index.html)  [JSON](2014/03/14/index.json)  [XML](201
 
 ## [2014-03-14](/news/2014/03/14/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State John Kerry and Russian Foreign Affairs Minister Sergey Lavrov meet in London, United Kingdom, to discuss the current Crimean crisis. ](/news/2014/03/14/united-states-secretary-of-state-john-kerry-and-russian-foreign-affairs-minister-sergey-lavrov-meet-in-london-united-kingdom-to-discuss-th.md)
 US secretary of state meets Russian foreign minister at ambassador&#x27;s residence in London as he tries to halt Crimea referendum• Crimea&#x27;s referendum: how did we get here?
 

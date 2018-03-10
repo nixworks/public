@@ -55,7 +55,7 @@ _Context: Mahmoud Abbas, Moscow, Palestinian Authority President, Russia_
 ### [ Bedouin clash with Egyptian riot police near the Gaza Strip. ](/news/2007/07/30/bedouin-clash-with-egyptian-riot-police-near-the-gaza-strip.md)
 Thousands of Egyptian riot police have clashed with Bedouin protesting against the Government near the border with the Gaza Strip, and witnesses say several civilians were shot and wounded.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and the United States Secretary of Defense Robert Gates travel to the Middle East to offer increased aid to allies of the United States and to seek advice on Iraq. ](/news/2007/07/30/the-united-states-secretary-of-state-condoleezza-rice-and-the-united-states-secretary-of-defense-robert-gates-travel-to-the-middle-east-to.md)
 U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates headed for the Middle East on Monday, armed with big military aid plans for allies and seeking their help with Iraq.
 

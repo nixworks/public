@@ -63,9 +63,9 @@ _Context: Lee Teng-hui, President, Taiwan, embezzlement, indicted_
 ### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton is in Budapest today. ](/news/2011/06/30/united-states-secretary-of-state-hillary-clinton-is-in-budapest-today.md)
-_Context: Budapest, Hillary Clinton, United States Secretary of State_
+_Context: Budapest, Hillary Clinton, Secretary of State_
 
 ##### Duke of Cambridge
 ### [Prince William, Duke of Cambridge and Catherine, Duchess of Cambridge start a nine-day 2011 royal tour of Canada. ](/news/2011/06/30/prince-william-duke-of-cambridge-and-catherine-duchess-of-cambridge-start-a-nine-day-2011-royal-tour-of-canada.md)

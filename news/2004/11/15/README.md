@@ -7,9 +7,9 @@ Formats: [HTML](2004/11/15/index.html)  [JSON](2004/11/15/index.json)  [XML](200
 ### [ US troops in Falluja have launched new air strikes and artillery attacks against suspected rebel positions. ](/news/2004/11/15/us-troops-in-falluja-have-launched-new-air-strikes-and-artillery-attacks-against-suspected-rebel-positions.md)
 _Context: Falluja, US troops_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State is to visit the West Bank next week for talks, Palestinian Foreign Minister Nabil Shaath said today. ](/news/2004/11/15/the-united-states-secretary-of-state-is-to-visit-the-west-bank-next-week-for-talks-palestinian-foreign-minister-nabil-shaath-said-today.md)
-_Context: Nabil Shaath, Palestinian, United States Secretary of State, West Bank_
+_Context: Nabil Shaath, Palestinian, Secretary of State, West Bank_
 
 ##### 2012 Summer Olympics
 ### [ Candidate cities for the 2012 Summer Olympics (Paris, London, Madrid, Moscow, and New York City) submit 120 copies of their candidate files to the International Olympic Committee. The IOC will announce the winning candidate in Singapore in July 2005. ](/news/2004/11/15/candidate-cities-for-the-2012-summer-olympics-paris-london-madrid-moscow-and-new-york-city-submit-120-copies-of-their-candidate-files.md)

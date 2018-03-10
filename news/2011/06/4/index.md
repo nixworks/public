@@ -3,9 +3,9 @@ Formats: [HTML](2011/06/4/index.html)  [JSON](2011/06/4/index.json)  [XML](2011/
 
 ## [2011-06-4](/news/2011/06/4/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 ### [Former United States Secretary of State Lawrence Eagleburger dies. ](/news/2011/06/4/former-united-states-secretary-of-state-lawrence-eagleburger-dies.md)
-_Context: Lawrence Eagleburger, United States Secretary of State_
+_Context: Lawrence Eagleburger, Secretary of State_
 
 ##### Guru
 ### [Indian guru Swami Ramdev starts a hunger strike against corruption in the Government with thousands joining in but the camp is broken up. ](/news/2011/06/4/indian-guru-swami-ramdev-starts-a-hunger-strike-against-corruption-in-the-government-with-thousands-joining-in-but-the-camp-is-broken-up.md)

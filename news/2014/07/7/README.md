@@ -31,7 +31,7 @@ _Context: Afghan presidential election, 2014, Ashraf Ghani_
 ### [Judge Anita B. Brody of the United States District Court for the Eastern District of Pennsylvania approves a preliminary settlement between the National Football League and lawyers for 4,500 former players over damages caused by concussion. ](/news/2014/07/7/judge-anita-b-brody-of-the-united-states-district-court-for-the-eastern-district-of-pennsylvania-approves-a-preliminary-settlement-between.md)
 Retired players and their beneficiaries can now vote on the deal, which includes a promise from the N.F.L. to pay an unlimited amount of awards to players with certain neurological conditions.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [An antitrust trial begins pitting the U.S. Justice Department against American Express over tactics the latter has employed in the credit card market. ](/news/2014/07/7/an-antitrust-trial-begins-pitting-the-u-s-justice-department-against-american-express-over-tactics-the-latter-has-employed-in-the-credit-ca.md)
 American Express Co (AXP.N) has hindered price competition in the U.S. credit card market and prevented merchants and consumers from reaping cost savings, a lawyer for the U.S. government said on Monday during the first day of a trial in Brooklyn federal court.
 

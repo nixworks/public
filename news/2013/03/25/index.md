@@ -27,9 +27,9 @@ _Context: British media, Daily Mail, Lucy Meadows, primary school, teacher_
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
 Japan and the European Union announced they will start free trade talks in April, as Japanese Prime Minister Shinzo Abe pushes for deregulation in a bid to revive the world’s third-largest economy.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
-_Context: Afghan President, Hamid Karzai, John Kerry, United States Secretary of State, strained relations_
+_Context: Afghan President, Hamid Karzai, John Kerry, Secretary of State, strained relations_
 
 ##### European Union
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)

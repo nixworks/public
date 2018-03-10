@@ -9,7 +9,7 @@ _Context: Drug Enforcement Administration, Michele Leonhart, drug cartel_
 
 ##### Death of Freddie Gray
 ### [The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-custody-in-the-city-of-ba.md)
-_Context: Baltimore, Death of Freddie Gray, U.S. Justice Department_
+_Context: Baltimore, Death of Freddie Gray, Department of Justice_
 
 ##### U.S. Justice Department
 ### [The U.S. Justice Department has charged Navinder Singh Sarao with commodities fraud and related offenses, alleging that he played a part in the flash crash of May 2010. ](/news/2015/04/21/the-u-s-justice-department-has-charged-navinder-singh-sarao-with-commodities-fraud-and-related-offenses-alleging-that-he-played-a-part-in.md)

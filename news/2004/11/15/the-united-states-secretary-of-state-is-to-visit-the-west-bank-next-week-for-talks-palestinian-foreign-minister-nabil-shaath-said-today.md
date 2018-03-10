@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/15/the-united-states-secretary-of-state-is-to-visi
 
 ### [2004-11-15](/news/2004/11/15/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 #  The United States Secretary of State is to visit the West Bank next week for talks, Palestinian Foreign Minister Nabil Shaath said today. 
 
 

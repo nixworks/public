@@ -33,7 +33,7 @@ _Context: Asif Ali Zardari, Pakistan, Taliban, extremist, negotiate, president, 
 
 ##### United States
 ### [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md)
-_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, United States, United States Secretary of State, West Bank_
+_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, Secretary of State, United States, West Bank_
 
 ##### China
 ### [ China plans to increase its military budget by 14.9% in 2009. ](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.md)

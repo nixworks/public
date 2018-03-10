@@ -29,7 +29,7 @@ _Context: Discovery, STS-124_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, criticises a planned expansion of Israeli housing in East Jerusalem as "not helpful" to the Middle East peace process. ](/news/2008/06/14/condoleezza-rice-the-united-states-secretary-of-state-criticises-a-planned-expansion-of-israeli-housing-in-east-jerusalem-as-not-helpful.md)
-_Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, United States Secretary of State_
+_Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, Secretary of State_
 
 ##### Argentina
 ### [ Argentine police arrest farm leader Alfredo de Angeli and 14 other farmers in an order to end the farmers strike. ](/news/2008/06/14/argentine-police-arrest-farm-leader-alfredo-de-angeli-and-14-other-farmers-in-an-order-to-end-the-farmers-strike.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/9/british-music-journalism-magazine-new-musical-ex
 
 ### [2018-03-9](/news/2018/03/9/index.md)
 
-##### British
+##### Media of the United Kingdom
 # British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. 
 
 NME marked an end of an era today after announcing plans to cease print production after 66 years. The publisher’s parent group Time Inc UK announced today that the weekly publication is “no longer financially viable”, and the brand will now focus its attention solely on its online edition.&nbsp;

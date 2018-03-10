@@ -19,7 +19,7 @@ The county prosecutor charged the 50-year-old man who struck nine bicyclists Tue
 ### [The search continues for three missing people in the Australian states of New South Wales and Tasmania. Four deaths have so far been confirmed in the Australian Capital Territory, Tasmania and NSW. ](/news/2016/06/7/the-search-continues-for-three-missing-people-in-the-australian-states-of-new-south-wales-and-tasmania-four-deaths-have-so-far-been-confirm.md)
 Deadly storms in NSW and the ACT have claimed three lives amid grave concerns for three people missing in floods in Tasmania, and one man off Bondi Beach.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The U.S. Justice Department announces pharmaceutical companies Genentech Inc. and OSI Pharmaceuticals Inc. will pay $67 million to settle False Claims Act allegations for misleading statements about the effectiveness of the drug Tarceva in treating non-small-cell lung carcinoma. ](/news/2016/06/7/the-u-s-justice-department-announces-pharmaceutical-companies-genentech-inc-and-osi-pharmaceuticals-inc-will-pay-67-million-to-settle-fa.md)
 Pharmaceutical firms Genentech Inc. and OSI Pharmaceuticals LLC will pay $67 million to settle False Claims Act allegations involving cancer drug Tarceva.
 

@@ -21,7 +21,7 @@ _Context: Oregon, Portland, Oregon, kills two people and injures seven others_
 
 ##### United States
 ### [ United States pharmaceutical company Pfizer announces it will buy rival Wyeth in a US$68-billion deal. ](/news/2009/01/26/united-states-pharmaceutical-company-pfizer-announces-it-will-buy-rival-wyeth-in-a-us-68-billion-deal.md)
-_Context: $, Pfizer, United States, Wyeth, pharmaceutical companies_
+_Context: $, Pfizer, United States, Wyeth, pharmaceutical_
 
 ##### Iceland
 ### [ Icelandic Prime Minister Geir Haarde announces the collapse of his coalition government in the wake of the country's financial crisis. ](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.md)

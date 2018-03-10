@@ -8,8 +8,8 @@ Formats: [HTML](2018/03/7/index.html)  [JSON](2018/03/7/index.json)  [XML](2018/
 Is this the end of eight decades of mystery?
 
 ##### Asteroid close approaches to Earth in 2018
-### [Asteroid 2017 VR makes a flyby past Earth. ](/news/2018/03/7/asteroid-2017-vr-makes-a-flyby-past-earth.md)
-_Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
+### [Near-Earth asteroid 2017 VR makes a flyby past Earth. ](/news/2018/03/7/near-earth-asteroid-2017-vr-makes-a-flyby-past-earth.md)
+_Context: Asteroid close approaches to Earth in 2018, Earth, Near-Earth, asteroid_
 
 ##### Observational astronomy
 ### [European astronomers observe the "birth" of a symbiotic X-ray binary, IGR J17329-2731, described as a transient, from the Galactic Center using INTEGRAL space telescope. ](/news/2018/03/7/european-astronomers-observe-the-birth-of-a-symbiotic-x-ray-binary-igr-j17329-2731-described-as-a-transient-from-the-galactic-center-us.md)
@@ -19,7 +19,7 @@ _Context: Asteroid, Asteroid close approaches to Earth in 2018, Earth_
 ### [Florida's House of Representatives votes 67-50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to Governor Rick Scott to sign into law. The measure also prohibits bump stocks, and creates a program for the arming of some teachers. ](/news/2018/03/7/florida-s-house-of-representatives-votes-67a50-to-approve-a-gun-and-school-safety-bill-that-would-raise-the-age-to-buy-firearms-from-18-to.md)
 Florida&#x27;s House of Representatives on Wednesday voted to approve a gun and school safety bill that would raise the age to buy all firearms to 21 — and potentially put guns into the hands of some educators.
 
-##### United States
+##### Crime in the United States
 ### [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md)
 In new details, former fraud prosecutor admits stealing dozens of secret lawsuits to sell to companies under investigation.
 

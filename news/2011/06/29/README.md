@@ -69,7 +69,7 @@ News Corporation sells its ailing social networking site MySpace for a fraction 
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Alderney Gambling Control Commission, Full Tilt Poker, U.S. Justice Department, indicted_
+_Context: Alderney Gambling Control Commission, Department of Justice, Full Tilt Poker, indicted_
 
 ##### British
 ### [Approximately 750,000 workers in the United Kingdom commence strike action over pension reform plans. ](/news/2011/06/29/approximately-750-000-workers-in-the-united-kingdom-commence-strike-action-over-pension-reform-plans.md)

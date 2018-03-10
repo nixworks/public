@@ -19,7 +19,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 ### [Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding U.S. citizens from a fake call center. ](/news/2016/10/5/police-in-the-western-indian-city-of-thane-arrest-more-than-750-people-suspected-of-defrauding-u-s-citizens-from-a-fake-call-center.md)
 Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding US citizens via a fake call centre.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. ](/news/2016/10/5/the-united-states-department-of-justice-charges-a-top-secret-security-clearance-national-security-agency-contractor-harold-thomas-martin-ii.md)
 A National Security Agency contractor is accused of stealing top secret files that could have caused &quot;exceptionally grave damage to national security&quot;.
 

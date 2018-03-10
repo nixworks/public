@@ -17,7 +17,7 @@ _Context: Alex Azar, Cabinet of Donald Trump, Donald Trump, Eli Lilly's, HHS dep
 
 ##### Russia-United States relations
 ### [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md)
-_Context: RT America, Russia-United States relations, U.S. Justice Department, foreign agent_
+_Context: Department of Justice, RT America, Russia-United States relations, foreign agent_
 
 ##### Lasting peace
 ### [The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. ](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.md)

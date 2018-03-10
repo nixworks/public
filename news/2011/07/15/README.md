@@ -15,7 +15,7 @@ Charlie Gilmour, the son of the Pink Floyd guitarist Dave Gilmour, has been jail
 ### [U.S. president Barack Obama makes a phone call to the International Space Station (ISS) and jokes with astronauts about pizza. ](/news/2011/07/15/u-s-president-barack-obama-makes-a-phone-call-to-the-international-space-station-iss-and-jokes-with-astronauts-about-pizza.md)
 US President Barack Obama makes a telephone call to the International Space Station to discuss the end of the shuttle programme and the future of human spaceflight.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md)
 The move gives the rebels access to $30 billion in frozen Libyan assets in the United States and increases pressure on Col. Muammar el-Qaddafi to resign.
 

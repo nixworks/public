@@ -31,7 +31,7 @@ Park Geun-hye is taken to a detention centre south of Seoul after a court approv
 ### [Italian police arrest 34 people of a drug gang who reportedly planned to steal Enzo Ferrari's corpse, and hold it for ransom. ](/news/2017/03/30/italian-police-arrest-34-people-of-a-drug-gang-who-reportedly-planned-to-steal-enzo-ferrari-s-corpse-and-hold-it-for-ransom.md)
 Thirty-four people were arrested just as the gang was about to launch its scheme to dig up the founder of Ferrari, police said.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Rex Tillerson says he thinks the longer term status of president Bashar al-Assad is to be "decided by the Syrian people". This appears as a policy shift, since under president Barack Obama's administration, the United States made the departure of Assad a key policy aim. ](/news/2017/03/30/united-states-secretary-of-state-rex-tillerson-says-he-thinks-the-longer-term-status-of-president-bashar-al-assad-is-to-be-decided-by-the-s.md)
 US secretary of state highlights cooperation with Turkey, but his Turkish counterpart notes deep divide over Kurdish fighters
 

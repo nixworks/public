@@ -31,7 +31,7 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 ### [The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauline-marois-becoming-the-first-fem.md)
 Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female premier after her sovereigntist party won a minority government and ended nearly a decade of Liberal rule in a tense election. But as she delivered her victory speech late Tuesday night, Marois was suddenly whisked off sta...
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;
 
@@ -61,7 +61,7 @@ _Context: North Korea, won_
 
 ##### 
 ### [India and China plan bilateral military exercises in 2013, the first since 2008. ](/news/2012/09/4/india-and-china-plan-bilateral-military-exercises-in-2013-the-first-since-2008.md)
-##### United States Secretary of State
+##### Secretary of State
 ### [U.S. Secretary of State Clinton meets China's Foreign Minister Yang in Beijing. ](/news/2012/09/4/u-s-secretary-of-state-clinton-meets-china-s-foreign-minister-yang-in-beijing.md)
 China warned the United States not to get involved in South China Sea territorial disputes on Tuesday as U.S. Secretary of State Hillary Clinton arrived in Beijing pledging to pass on a strong message on the need to calm regional tension.
 

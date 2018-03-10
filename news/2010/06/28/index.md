@@ -23,7 +23,7 @@ _Context: Australia, CIA_
 ### [In a 5-4 decision, the Supreme Court of the United States rules that Chicago's handgun ban is unconstitutional. ](/news/2010/06/28/in-a-5-4-decision-the-supreme-court-of-the-united-states-rules-that-chicago-s-handgun-ban-is-unconstitutional.md)
 The US Supreme Court restricts the rights of state and city governments to enforce controls on gun ownership.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice announces that ten people have been arrested for allegedly spying for Russia. ](/news/2010/06/28/the-united-states-department-of-justice-announces-that-ten-people-have-been-arrested-for-allegedly-spying-for-russia.md)
 Ten people in the US are held and charged with spying for Russia, but Moscow says the allegations are contradictory.
 

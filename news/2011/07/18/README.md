@@ -39,9 +39,9 @@ _Context: Al-Shabaab, Minneapolis, Minnesota, Omer Abdi Mohamed, Somali, Somalia
 ### [The trial of five bloggers in the United Arab Emirates for advocating democratic reforms resumes. ](/news/2011/07/18/the-trial-of-five-bloggers-in-the-united-arab-emirates-for-advocating-democratic-reforms-resumes.md)
 Five bloggers arrested in April after calling for political reforms in the United Arab Emirates.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton arrives in India for two days of talks with the Indian government. ](/news/2011/07/18/the-united-states-secretary-of-state-hillary-clinton-arrives-in-india-for-two-days-of-talks-with-the-indian-government.md)
-_Context: Hillary Clinton, India, United States Secretary of State_
+_Context: Hillary Clinton, India, Secretary of State_
 
 ##### President
 ### [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md)

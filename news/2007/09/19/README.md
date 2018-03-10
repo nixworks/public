@@ -51,9 +51,9 @@ Flooded regions across Africa have been warned to expect further heavy rain afte
 ### [ Jose Mourinho, manager of Chelsea Football Club, leaves the club by mutual consent. ](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.md)
 _Context: Chelsea F.C., Jose Mourinho_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice cautions the International Atomic Energy Agency that it "is not in the business of diplomacy." ](/news/2007/09/19/the-united-states-secretary-of-state-condoleezza-rice-cautions-the-international-atomic-energy-agency-that-it-is-not-in-the-business-of-di.md)
-_Context: Condoleezza Rice, IAEA, United States Secretary of State_
+_Context: Condoleezza Rice, IAEA, Secretary of State_
 
 ##### Fossil
 ### [ Four fossil skeletons of early human ancestors are discovered in Georgia. ](/news/2007/09/19/four-fossil-skeletons-of-early-human-ancestors-are-discovered-in-georgia.md)

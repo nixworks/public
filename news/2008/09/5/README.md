@@ -25,7 +25,7 @@ _Context: Pakistan, Pervez Musharraf, Supreme Court, president_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice becomes the first United States Secretary of State to visit Libya since 1953. ](/news/2008/09/5/condoleezza-rice-becomes-the-first-united-states-secretary-of-state-to-visit-libya-since-1953.md)
-_Context: 1953, Condoleezza Rice, Libya, United States Secretary of State_
+_Context: 1953, Condoleezza Rice, Libya, Secretary of State_
 
 ##### Global warming
 ### [ Estimates of sea-level rise due to global warming are scaled back. ](/news/2008/09/5/estimates-of-sea-level-rise-due-to-global-warming-are-scaled-back.md)

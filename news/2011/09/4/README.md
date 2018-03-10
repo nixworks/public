@@ -15,7 +15,7 @@ _Context: Texas, Wildfire_
 ### [Tropical Storm Lee makes landfall near the US city of Lafayette, Louisiana, with the Gulf Coast hit by tornados. ](/news/2011/09/4/tropical-storm-lee-makes-landfall-near-the-us-city-of-lafayette-louisiana-with-the-gulf-coast-hit-by-tornados.md)
 Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf Coast to the Florida panhandle on Sunday, and at least one death was reported from a traffic accident related to the storm.
 
-##### 2011 Syrian uprising
+##### Syria
 ### [At least 24 people are killed in violence across Syria. ](/news/2011/09/4/at-least-24-people-are-killed-in-violence-across-syria.md)
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the
 

@@ -79,9 +79,9 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [As many as 30 children die of lead poisoning in northern Nigeria. ](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in-northern-nigeria.md)
 As many as 30 children are reportedly dead in northern Nigeria from lead poisoning caused by illegal gold-miners.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md)
-_Context: Continental Airlines, U.S. Justice Department, United, antitrust_
+_Context: Continental Airlines, Department of Justice, United, antitrust_
 
 ##### Ben Bernanke
 ### [Ben Bernanke, the Chair of the Federal Reserve, says the United States Federal Reserve is prepared to act against the prospects of deflation but expects economic growth to continue during the latter half of 2010 "albeit at a relatively modest pace." ](/news/2010/08/27/ben-bernanke-the-chair-of-the-federal-reserve-says-the-united-states-federal-reserve-is-prepared-to-act-against-the-prospects-of-deflation.md)

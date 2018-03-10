@@ -23,9 +23,9 @@ _Context: Seoul, South Korea_
 ### [The President of Sudan Omar Hassan al-Bashir cancels planned meetings with the government of South Sudan following border clashes yesterday. ](/news/2012/03/27/the-president-of-sudan-omar-hassan-al-bashir-cancels-planned-meetings-with-the-government-of-south-sudan-following-border-clashes-yesterday.md)
 _Context: 2012 South Sudan-Sudan border conflict, Omar Hassan al-Bashir, South Sudan, Sudan, Sudanese President_
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice says that it will not invoke antitrust laws to stop the merger of Humana with Arcadian Management Services, two important health insurance companies. ](/news/2012/03/27/the-united-states-department-of-justice-says-that-it-will-not-invoke-antitrust-laws-to-stop-the-merger-of-humana-with-arcadian-management-se.md)
-_Context: Arcadian Management Services, Humana, U.S. Justice Department, antitrust laws, health insurance_
+_Context: Arcadian Management Services, Department of Justice, Humana, antitrust laws, health insurance_
 
 ##### Apple Inc
 ### [Apple Inc Chief Executive Tim Cook arrives in China for talks with government officials to clear up problems in the firm's biggest growth market, including the contested iPad trademark and treatment of local labor. ](/news/2012/03/27/apple-inc-chief-executive-tim-cook-arrives-in-china-for-talks-with-government-officials-to-clear-up-problems-in-the-firm-s-biggest-growth-ma.md)

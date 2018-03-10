@@ -9,7 +9,7 @@ A bill to make California a sanctuary state, by preventing police from inquiring
 
 ##### LGBT employment discrimination in the United States
 ### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
-_Context: LGBT employment discrimination in the United States, Obama administration, Title VII of the Civil Rights Act, Trump administration, U.S. Justice Department, discrimination, executive order, policy, transgender_
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama administration, Title VII of the Civil Rights Act, Trump administration, discrimination, executive order, policy, transgender_
 
 ##### Cybercrime
 ### [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was speculated to have possibly been through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md)

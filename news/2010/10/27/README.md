@@ -55,9 +55,9 @@ _Context: India, Malaysia, free trade_
 ### [North Korea demands 500,000 tonnes of rice and 300,000 of fertilizer from South Korea in return for family reunions. ](/news/2010/10/27/north-korea-demands-500-000-tonnes-of-rice-and-300-000-of-fertilizer-from-south-korea-in-return-for-family-reunions.md)
 _Context: North Korea, South Korea_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [A surprise trip by U.S. Secretary of State Hillary Clinton to China has been confirmed. ](/news/2010/10/27/a-surprise-trip-by-u-s-secretary-of-state-hillary-clinton-to-china-has-been-confirmed.md)
-_Context: China, Hillary Clinton, United States Secretary of State_
+_Context: China, Hillary Clinton, Secretary of State_
 
 ##### Factory fishing ship
 ### [Factory fishing ship FV catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-fv-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)

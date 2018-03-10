@@ -43,7 +43,7 @@ _Context: Islam, Malaysia, Muslim, Valentine's Day_
 ### [The UNASUR Constitutive Treaty of the Union of South American Nations will come into force on March 11th, following the deposit of its ninth instrument of ratification, by the Uruguayan government. ](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.md)
 _Context: UNASUR Constitutive Treaty, Union of South American Nations, Uruguayan government_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedomdate=August 2017. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedomdate-august-2017.md)
 The State Department will finance programs to help Internet users around the world limit surveillance.
 

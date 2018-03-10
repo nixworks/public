@@ -41,7 +41,7 @@ _Context: Norsk Hydro, US$, bauxite_
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md)
-_Context: Hillary Clinton, Mahmoud Ahmadinejad, New York City, Nuclear Non-proliferation Treaty, President, Review Conference, United Nations Headquarters, United States Secretary of State_
+_Context: Hillary Clinton, Mahmoud Ahmadinejad, New York City, Nuclear Non-proliferation Treaty, President, Review Conference, Secretary of State, United Nations Headquarters_
 
 ##### Irish Aviation Authority
 ### [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md)

@@ -47,7 +47,7 @@ _Context: Cairo, Egypt, Ismalia_
 ### [S&P Dow Jones Indices announces it will add the company Apple Inc. to its Dow Jones Industrial Average index of stocks on March 19, replacing AT&T. ](/news/2015/03/6/s-p-dow-jones-indices-announces-it-will-add-the-company-apple-inc-to-its-dow-jones-industrial-average-index-of-stocks-on-march-19-replacin.md)
 The step is a reminder of the soaring valuations among consumer-driven technology and social media companies.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The U.S. Justice Department charges two Vietnamese citizens (Quoc Nguyen and Giang Hoang Vu) and a Canadian (David-Manuel Santos Da Silva) with running a massive cyberfraud ring that stole one billion email addresses, then sent spam offering knockoff software products of Adobe Systems Inc with the hacking having occurred between February 2009 and June 2012. The victim breaches include a massive 2011 attack on email marketing firm Epsilon, a unit of Alliance Data Systems Corp. Although the other two are in custody, Nguyen remains at large. The charge against Da Silva is conspiracy to commit money laundering. ](/news/2015/03/6/the-u-s-justice-department-charges-two-vietnamese-citizens-quoc-nguyen-and-giang-hoang-vu-and-a-canadian-david-manuel-santos-da-silva-w.md)
 Two Vietnamese citizens and a Canadian have been charged with running a massive cyberfraud ring that stole 1 billion email addresses, then sent spam offering knockoff software products, the U.S. Department of Justice said on Friday.
 

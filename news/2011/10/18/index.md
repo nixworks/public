@@ -11,7 +11,7 @@ There has been a fall of just over 20% in the number of deaths from malaria worl
 ### [About 400,000 illegal immigrants were deported from the United States in the 2011 fiscal year, the most deportations ever in United States history, according to a report released by U.S. Immigration and Customs Enforcement. ](/news/2011/10/18/about-400-000-illegal-immigrants-were-deported-from-the-united-states-in-the-2011-fiscal-year-the-most-deportations-ever-in-united-states-h.md)
 _Context: U.S. Immigration and Customs Enforcement, United States history, deported, fiscal year, illegal immigrants_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton makes an unannounced visit to the Libyan capital Tripoli, aiming to strengthen ties between the United States and the National Transitional Council, which has established itself as Libya's ruling body following the ousting of Muammar Gaddafi. ](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.md)
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.
 

@@ -11,7 +11,7 @@ Space radiation exposure could accelerate Alzheimer&#039;s disease in the brains
 ### [Venezuelan Cabinet ministers get together to pray for the recovery of President Hugo Chavez, who is in Cuba recovering from a cancer operation. ](/news/2012/12/31/venezuelan-cabinet-ministers-get-together-to-pray-for-the-recovery-of-president-hugo-cha-vez-who-is-in-cuba-recovering-from-a-cancer-operat.md)
 Venezuelan cabinet ministers gather at the presidential palace to pray for the health of President Hugo Chavez, who is being treated for cancer.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [U.S. Secretary of State Hillary Clinton making "excellent progress" at NewYork-Presbyterian Hospital after a blood clot in a vein was found in a sinus between her brain and skull. ](/news/2012/12/31/u-s-secretary-of-state-hillary-clinton-making-excellent-progress-at-newyorkapresbyterian-hospital-after-a-blood-clot-in-a-vein-was-foun.md)
 US Secretary of State Hillary Clinton is making &quot;excellent progress&quot; after a blood clot was found between her brain and skull, doctors say.
 

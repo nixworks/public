@@ -3,7 +3,7 @@ Formats: [HTML](2015/10/23/index.html)  [JSON](2015/10/23/index.json)  [XML](201
 
 ## [2015-10-23](/news/2015/10/23/index.md)
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The U.S. Department of Justice decides not to prosecute Lois Lerner or others in connection with the 2013 IRS targeting controversy. ](/news/2015/10/23/the-u-s-department-of-justice-decides-not-to-prosecute-lois-lerner-or-others-in-connection-with-the-2013-irs-targeting-controversy.md)
 Lerner is the former IRS official who was at the center of a controversy over the processing of applications for tax-exempt status
 

@@ -29,7 +29,7 @@ _Context: California, Los Angeles, deadliest high school shooting_
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Enrique Pena Nieto, Luis Videgaray, Mexican President, Mexico, Rex Tillerson, United States Secretary of State, United States-Mexico relations_
+_Context: Enrique Pena Nieto, Luis Videgaray, Mexican President, Mexico, Rex Tillerson, Secretary of State, United States-Mexico relations_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)

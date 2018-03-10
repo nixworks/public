@@ -79,7 +79,7 @@ _Context: Caracas, Ramn Carrizales, Venezuela_
 
 ##### Live Nation
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, Ticketmaster, U.S. Justice Department_
+_Context: Department of Justice, Live Nation, Ticketmaster_
 
 ## [Previous Day...](/news/2010/01/24/index.md)
 

@@ -21,7 +21,7 @@ _Context: Gulf of Honduras, earthquake, magnitude_
 
 ##### United States
 ### [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md)
-_Context: Barack Obama, Hillary Clinton, Israel, Israeli settlement, U.S. President, United States, United States Secretary of State, West Bank_
+_Context: Barack Obama, Hillary Clinton, Israel, Israeli settlement, Secretary of State, U.S. President, United States, West Bank_
 
 ##### Chile
 ### [ Former Chilean Army conscript Jos Adolfo Paredes Mrquez is charged with murdering activist-singer Vctor Jara during General Augusto Pinochet's coup d'tat in 1973. ](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.md)

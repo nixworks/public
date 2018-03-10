@@ -23,9 +23,9 @@ _Context: Ethiopia, Human Rights Watch, government_
 ### [The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. ](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.md)
 _Context: Kenya, Mwai Kibaki, William Ruto_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton says that she understands the trial of two hikers will start on November 6. ](/news/2010/10/19/the-united-states-secretary-of-state-hillary-clinton-says-that-she-understands-the-trial-of-two-hikers-will-start-on-november-6.md)
-_Context: Hillary Clinton, United States Secretary of State, two American citizens_
+_Context: Hillary Clinton, Secretary of State, two American citizens_
 
 ##### ICC
 ### [The International Criminal Court (ICC) agrees to pursue the criminal trial of former Vice-President of the Democratic Republic of the Congo Jean-Pierre Bemba. ](/news/2010/10/19/the-international-criminal-court-icc-agrees-to-pursue-the-criminal-trial-of-former-vice-president-of-the-democratic-republic-of-the-congo.md)

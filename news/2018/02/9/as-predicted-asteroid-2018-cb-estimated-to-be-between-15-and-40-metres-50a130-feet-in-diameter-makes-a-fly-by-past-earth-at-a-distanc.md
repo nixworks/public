@@ -22,7 +22,7 @@ The space rock 2018 CB is up to 40m long and will come within 64,000km of the pl
 
 ### Related:
 
-1. [Asteroid 2017 VR is predicted to make a flyby past Earth tonight. ](/news/2018/03/7/asteroid-2017-vr-is-predicted-to-make-a-flyby-past-earth-tonight.md) _Context: Asteroid close approaches to Earth in 2018, Earth_
+1. [Near-Earth asteroid 2017 VR makes a flyby past Earth. ](/news/2018/03/7/near-earth-asteroid-2017-vr-makes-a-flyby-past-earth.md) _Context: Asteroid close approaches to Earth in 2018, Earth_
 2. [NASA astronomers use the Hubble and Spitzer space telescopes in research implying that "hot Saturn" (high surface-atmosphere temperatures and gas giant-mass) exoplanet WASP-39b, located 700 light-years from Earth, has a large amount of water molecules in its atmosphere. ](/news/2018/03/1/nasa-astronomers-use-the-hubble-and-spitzer-space-telescopes-in-research-implying-that-hot-saturn-high-surface-atmosphere-temperatures-an.md) _Context: Earth_
 3. [As predicted, a ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/as-predicted-a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6.md) _Context: Asteroid close approaches to Earth in 2018_
 4. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Earth_

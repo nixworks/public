@@ -7,9 +7,9 @@ Formats: [HTML](2011/03/18/index.html)  [JSON](2011/03/18/index.json)  [XML](201
 ### [The Canadian Opposition accuses the Conservative Party of Canada and Harper Government of Contempt of Parliament after a ruling by the Speaker of the House of Commons, signalling a possible spring federal election. ](/news/2011/03/18/the-canadian-opposition-accuses-the-conservative-party-of-canada-and-harper-government-of-contempt-of-parliament-after-a-ruling-by-the-speak.md)
 Parliament faces a week of political gamesmanship and mounting election speculation
 
-##### United States Secretary of State
+##### Secretary of State
 ### [Former United States Secretary of State Warren Christopher died. ](/news/2011/03/18/former-united-states-secretary-of-state-warren-christopher-died.md)
-_Context: United States Secretary of State, Warren Christopher_
+_Context: Secretary of State, Warren Christopher_
 
 ##### Saudi King
 ### [King Abdullah of Saudi Arabia addresses the nation in the context of regional unrest. ](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.md)

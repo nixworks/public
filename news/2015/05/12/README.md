@@ -19,7 +19,7 @@ A secular blogger is hacked to death by suspected Islamists in Bangladesh, the t
 ### [Democrats in the United States Senate block passage of a fast-track for the Trans-Pacific Partnership sought by President Barack Obama. ](/news/2015/05/12/democrats-in-the-united-states-senate-block-passage-of-a-fast-track-for-the-trans-pacific-partnership-sought-by-president-barack-obama.md)
 The Senate voted against moving to fast-track trade legislation.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State John Kerry will meet President of Russia Vladimir Putin during his first visit to Russia since the Ukraine crisis began. ](/news/2015/05/12/united-states-secretary-of-state-john-kerry-will-meet-president-of-russia-vladimir-putin-during-his-first-visit-to-russia-since-the-ukraine.md)
 US Secretary of State John Kerry has a &quot;frank meeting&quot; with President Vladimir Putin on his first visit to Russia since the Ukraine crisis began.
 

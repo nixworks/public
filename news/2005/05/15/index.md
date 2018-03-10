@@ -15,9 +15,9 @@ _Context: Cote d'Ivoire, June 27_
 ### [ After a couple of days of delay, Zimbabwe frees 61 alleged mercenaries accused of connection to coup attempt in Equatorial Guinea and allows them return to South Africa. The men say they were told they were hired to guard mines in the Democratic Republic of the Congo. One man remains in Zimbabwe due to tuberculosis. ](/news/2005/05/15/after-a-couple-of-days-of-delay-zimbabwe-frees-61-alleged-mercenaries-accused-of-connection-to-coup-attempt-in-equatorial-guinea-and-allow.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ US Secretary of State Condoleezza Rice visits Iraq and calls for patience in the political struggle against the insurgency. Meanwhile, the bodies of 34 people are found at locations in Baghdad, Iskandariya, and Ramadi, all apparently having been executed. ](/news/2005/05/15/us-secretary-of-state-condoleezza-rice-visits-iraq-and-calls-for-patience-in-the-political-struggle-against-the-insurgency-meanwhile-the.md)
-_Context: Baghdad, Condoleezza Rice, Iraq, Iskandariya, Ramadi, United States Secretary of State_
+_Context: Baghdad, Condoleezza Rice, Iraq, Iskandariya, Ramadi, Secretary of State_
 
 ##### Unrest
 ### [ Amid continuing unrest In Uzbekistan, the city of Andijan is sealed. British Foreign Secretary Jack Straw says there has been "a clear abuse of human rights" in Uzbekistan. ](/news/2005/05/15/amid-continuing-unrest-in-uzbekistan-the-city-of-andijan-is-sealed-british-foreign-secretary-jack-straw-says-there-has-been-a-clear-abus.md)

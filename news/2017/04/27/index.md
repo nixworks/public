@@ -33,7 +33,7 @@ All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coast
 
 ##### Donald Trump
 ### [U.S. President Donald Trump announces that he intends to renegotiate the North American Free Trade Agreement, softening earlier claims that he would terminate the trade bloc. ](/news/2017/04/27/u-s-president-donald-trump-announces-that-he-intends-to-renegotiate-the-north-american-free-trade-agreement-softening-earlier-claims-that.md)
-_Context: Donald Trump, North American Free Trade Agreement, trade bloc_
+_Context: Donald Trump, NAFTA, trade bloc_
 
 ##### Muslim cleric
 ### [A congress of female Islamic clerics in Cirebon, Indonesia, issues several fatwas, one of which opposes child marriage. ](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon-indonesia-issues-several-fatwas-one-of-which-opposes-child-marriage.md)

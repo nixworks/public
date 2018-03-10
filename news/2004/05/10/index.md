@@ -11,9 +11,9 @@ _Context: Dutch, Occupation of Iraq_
 ### [ Voting concludes in the marathon elections in India. ](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.md)
 _Context: marathon elections_
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [ The United States Department of Justice reopens an investigation into the 1955 murder of Emmett Till, an important event during the American civil rights movement. ](/news/2004/05/10/the-united-states-department-of-justice-reopens-an-investigation-into-the-1955-murder-of-emmett-till-an-important-event-during-the-america.md)
-_Context: American civil rights movement, Emmett Till, U.S. Justice Department, investigation_
+_Context: American civil rights movement, Department of Justice, Emmett Till, investigation_
 
 ##### Chuck Guite
 ### [ Canadian bureaucrat Chuck Guite and GroupeAction president Jean Brault have been arrested and charged with six counts each of fraud in connection with the Liberal sponsorship scandal. ](/news/2004/05/10/canadian-bureaucrat-chuck-guite-and-groupeaction-president-jean-brault-have-been-arrested-and-charged-with-six-counts-each-of-fraud-in-conn.md)

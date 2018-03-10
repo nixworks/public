@@ -15,11 +15,11 @@ NASA has officially ordered its first commercial crew mission from private space
 ### [The first stage of the voting process to potentially select a new flag of New Zealand starts. ](/news/2015/11/20/the-first-stage-of-the-voting-process-to-potentially-select-a-new-flag-of-new-zealand-starts.md)
 Voting begins in New Zealand in the first stage of a referendum which could see the country getting a new national flag.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [USPlabs and S.K. Laboratory are indicted following a U.S. Department of Justice investigation finds synthetic ingredients manufactured in China were added to workout boosters and weight-loss products the firms claimed to be natural. Supplements from these companies were previously implicated in consumer illnesses and death. Several other defendants from the companies face additional charges. ](/news/2015/11/20/usplabs-and-s-k-laboratory-are-indicted-following-a-u-s-department-of-justice-investigation-finds-synthetic-ingredients-manufactured-in-ch.md)
 The makers of dietary supplements Jack3d and OxyElite Pro face criminal charges following a Justice Department investigation that alleges key ingredients in thwere made in a Chinese laboratory rather than extracted from natural ingredients as claimed
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The U.S. Justice Department files criminal charges against three individuals and three companies--Black Elk, Grand Isle Shipyard and oil field services company Wood Group--in connection with a 2012 oil platform incident in the Gulf of Mexico that left three workers dead. The charges range from manslaughter to violations of the federal Clean Water Act. ](/news/2015/11/20/the-u-s-justice-department-files-criminal-charges-against-three-individuals-and-three-companies-black-elk-grand-isle-shipyard-and-oil-fie.md)
 The U.S. Justice Department said it filed criminal charges in response to a 2012 oil platform incident in the Gulf of Mexico that left three workers dead.
 

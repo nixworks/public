@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/18/united-states-secretary-of-state-hillary-clinto
 
 ### [2011-10-18](/news/2011/10/18/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 # United States Secretary of State Hillary Clinton makes an unannounced visit to the Libyan capital Tripoli, aiming to strengthen ties between the United States and the National Transitional Council, which has established itself as Libya's ruling body following the ousting of Muammar Gaddafi. 
 
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.

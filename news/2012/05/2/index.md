@@ -43,7 +43,7 @@ The owner has been found of a Harley-Davidson motorcycle that drifted to Canada 
 ### [Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. ](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.md)
 _Context: Budapest, Li Keqiang, Viktor Orban_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-government-of-china-she-also-contacts-dis.md)
 Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing and will stay in China, amid reports his family had been threatened.
 

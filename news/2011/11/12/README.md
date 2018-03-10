@@ -15,7 +15,7 @@ Silvio Berlusconi resigned on Saturday to make way for an emergency government I
 ### [Prosecutors at the U.N.-backed Special Tribunal for Lebanon set up to prosecute the killers of former Lebanese Prime Minister Rafik Hariri ask judges to defer a decision to hold a trial "in absentia" for four Hezbollah members indicted in Hariri's assassination. ](/news/2011/11/12/prosecutors-at-the-u-n-backed-special-tribunal-for-lebanon-set-up-to-prosecute-the-killers-of-former-lebanese-prime-minister-rafik-hariri-a.md)
 The Special Tribunal for Lebanon’s most high-profile hearing to date ended in stalemate Friday as rival counsels traded blows over in-absentia trials for suspects.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton demands that Iran respond soon to the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. ](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.md)
 Secretary of State says Iran must &quot;answer the serious questions&quot; raised by IAEA report, repeats calls for Assad to step down.
 

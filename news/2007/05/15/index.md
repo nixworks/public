@@ -19,9 +19,9 @@ _Context: Philippine general election_
 ### [ Canadian publisher The Thomson Corporation agrees to buy Reuters for GBP8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-gbp8-7-billion-creating-the-world-s-biggest-financial-news-and-data-gr.md)
 _Context: Canada, Reuters, The Thomson Corporation_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice meets with the President of Russia Vladimir Putin. ](/news/2007/05/15/the-united-states-secretary-of-state-condoleezza-rice-meets-with-the-president-of-russia-vladimir-putin.md)
-_Context: Condoleezza Rice, President, United States Secretary of State, Vladimir Putin_
+_Context: Condoleezza Rice, President, Secretary of State, Vladimir Putin_
 
 ##### Clashes
 ### [ Palestinian factional violence claims 8 more lives as violence erupts on the Israeli border with Fatah and Hamas fighting for dominance at the Karni cargo crossing in Gaza, ending Monday night's ceasefire agreement. ](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.md)

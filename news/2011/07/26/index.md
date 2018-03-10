@@ -45,7 +45,7 @@ A Hercules military transport plane crashes in southern Morocco, killing 78 peop
 
 ##### Al Franken
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)
-_Context: AT&T, Al Franken, FCC's, Minnesota, T-Mobile USA, U.S. Justice Department_
+_Context: AT&T, Al Franken, Department of Justice, FCC's, Minnesota, T-Mobile USA_
 
 ##### Trinity Mirror
 ### [Britain's Trinity Mirror reviews its editorial guidelines in light of the "News of the World" phone hacking affair. ](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.md)

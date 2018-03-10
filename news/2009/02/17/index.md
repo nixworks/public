@@ -17,7 +17,7 @@ _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, Kang Kek I
 
 ##### United States
 ### [ U.S. Secretary of State Hillary Clinton arrives in Japan to deliberate the global economic crisis and international security. ](/news/2009/02/17/u-s-secretary-of-state-hillary-clinton-arrives-in-japan-to-deliberate-the-global-economic-crisis-and-international-security.md)
-_Context: Hillary Clinton, Japan, United States, United States Secretary of State, current financial crisis, international security_
+_Context: Hillary Clinton, Japan, Secretary of State, United States, current financial crisis, international security_
 
 ##### California
 ### [ California will lay off 20,000 government workers, due to the State Legislature's failure to pass a budget. ](/news/2009/02/17/california-will-lay-off-20-000-government-workers-due-to-the-state-legislature-s-failure-to-pass-a-budget.md)

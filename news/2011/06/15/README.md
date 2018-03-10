@@ -21,7 +21,7 @@ _Context: Australian Broadcasting Corporation, Papua New Guinea, Prime Minister,
 
 ##### Liberia
 ### [Liberia suspends diplomatic ties with Libya, after United States Secretary of State Hillary Clinton called on countries to sever ties with Libya. ](/news/2011/06/15/liberia-suspends-diplomatic-ties-with-libya-after-united-states-secretary-of-state-hillary-clinton-called-on-countries-to-sever-ties-with-l.md)
-_Context: Hillary Clinton, Liberia, Libya, United States Secretary of State_
+_Context: Hillary Clinton, Liberia, Libya, Secretary of State_
 
 ##### Yonhap
 ### [The Yonhap news agency reports that nine North Koreans have defected to South Korea across the Yellow Sea. ](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.md)

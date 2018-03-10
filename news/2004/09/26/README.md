@@ -17,7 +17,7 @@ _Context: Amjad Farooqi, Daniel Pearl, Pakistan, al-Qaeda_
 
 ##### Rebel-held
 ### [ Conflict in Iraq: U.S. Secretary of State Colin Powell says, in an interview on the ABC television interview program "This Week," that the insurgency in Iraq is worsening, and that the aim of the insurgents is to disrupt the upcoming elections. ](/news/2004/09/26/conflict-in-iraq-u-s-secretary-of-state-colin-powell-says-in-an-interview-on-the-abc-television-interview-program-this-week-that-the.md)
-_Context: ABC, Colin Powell, Iraq, This Week, United States Secretary of State, election, insurgency, rebel-held_
+_Context: ABC, Colin Powell, Iraq, Secretary of State, This Week, election, insurgency, rebel-held_
 
 ## [Previous Day...](/news/2004/09/25/index.md)
 

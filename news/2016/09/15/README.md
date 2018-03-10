@@ -45,7 +45,7 @@ _Context: Aung San Suu Kyi, Barack Obama, Myanmar_
 
 ##### Obama administration
 ### [The Obama administration through the U.S. Justice Department seeks a fine of $14 billion against Deutsche Bank in regards to mortgage securities. ](/news/2016/09/15/the-obama-administration-through-the-u-s-justice-department-seeks-a-fine-of-14-billion-against-deutsche-bank-in-regards-to-mortgage-securi.md)
-_Context: Deutsche Bank, Obama administration, U.S. Justice Department_
+_Context: Department of Justice, Deutsche Bank, Obama administration_
 
 ## [Previous Day...](/news/2016/09/14/index.md)
 

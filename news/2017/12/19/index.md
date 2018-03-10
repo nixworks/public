@@ -13,7 +13,7 @@ The House passed a sweeping tax bill Tuesday that slashes rates for corporations
 
 ##### Canada-United States relations
 ### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
-_Context: Canada-United States relations, Canadian counterpart, Chrystia Freeland, North Korea's nuclear program, Rex Tillerson, United States Secretary of State, Vancouver_
+_Context: Canada-United States relations, Canadian counterpart, Chrystia Freeland, North Korea's nuclear program, Rex Tillerson, Secretary of State, Vancouver_
 
 ##### Mexico
 ### [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md)

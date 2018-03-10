@@ -25,7 +25,7 @@ _Context: New York City, disappearance of Etan Patz_
 
 ##### Death of Freddie Gray
 ### [The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death-of-freddie-gray.md)
-_Context: Death of Freddie Gray, Police Department, U.S. Justice Department_
+_Context: Death of Freddie Gray, Department of Justice, Police Department_
 
 ##### Burkina Faso
 ### [Burkina Faso and Niger agree to exchange 18 towns in order to resolve a long-running border dispute with Burkina Faso receiving 14 and Niger 4. ](/news/2015/05/8/burkina-faso-and-niger-agree-to-exchange-18-towns-in-order-to-resolve-a-long-running-border-dispute-with-burkina-faso-receiving-14-and-niger.md)

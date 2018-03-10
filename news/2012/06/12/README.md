@@ -39,7 +39,7 @@ A 32-year legal mystery has came to an end in a case that split national opinion
 ### [John Major, who was British Prime Minister between 1990 and 1997, tells the Leveson Inquiry that Rupert Murdoch warned him before the 1997 general election to switch policy on Europe or his newspapers would not support him. The Conservative Party subsequently lost power to Labour, with Murdoch's "The Sun" tabloid daily supporting Major's rival Tony Blair. ](/news/2012/06/12/john-major-who-was-british-prime-minister-between-1990-and-1997-tells-the-leveson-inquiry-that-rupert-murdoch-warned-him-before-the-1997-g.md)
 Rupert Murdoch warned John Major to change his policy on Europe or his papers would not support him, the former PM tells the Leveson Inquiry.
 
-##### NME
+##### New Musical Express
 ### [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md)
 The NME publicly apologises to singer Morrissey for an article it published in 2007 which, the singer claimed, suggested he was racist.
 

@@ -23,9 +23,9 @@ _Context: Abu Musab al-Zarqawi, Abu Zubair, Conflict in Iraq, Mosul, ambush_
 ### [ Israel begins the Gaza Strip pullout plan. The Kissufim Roadblock was shut down at midnight between August 14 and August 15. Palestinian leader Mahmoud Abbas hailed the move as "historic" but said Israel should also pull out of the West Bank. ](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.md)
 _Context: Gaza Strip, Israel, Kissufim, Mahmoud Abbas, West Bank, unilateral disengagement_
 
-##### North American Free Trade Agreement
+##### NAFTA
 ### [ The U.S. refused to abide by a North American Free Trade Agreement (NAFTA) ruling on the U.S.-Canada softwood lumber dispute, leading to Canada's Finance Minister Ralph Goodale saying he was considering trade sanctions on the US. ](/news/2005/08/15/the-u-s-refused-to-abide-by-a-north-american-free-trade-agreement-nafta-ruling-on-the-u-s-canada-softwood-lumber-dispute-leading-to-ca.md)
-_Context: North American Free Trade Agreement, Ralph Goodale, U.S.-Canada softwood lumber dispute_
+_Context: NAFTA, Ralph Goodale, U.S.-Canada softwood lumber dispute_
 
 ##### National Assembly of Iraq
 ### [ The Parliament of Iraq grants an extension to the nation's leaders to draw up a new Constitution. ](/news/2005/08/15/the-parliament-of-iraq-grants-an-extension-to-the-nation-s-leaders-to-draw-up-a-new-constitution.md)

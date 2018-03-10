@@ -65,7 +65,7 @@ _Context: Palestinian Islamic Jihad, Sami Al-Arian_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, travels to the Middle East to talk with Israel and the Palestinian National Authority about the peace process. ](/news/2007/03/23/condoleezza-rice-the-united-states-secretary-of-state-travels-to-the-middle-east-to-talk-with-israel-and-the-palestinian-national-authori.md)
-_Context: Condoleezza Rice, Israel, Middle East, Palestinian Authority, United States Secretary of State_
+_Context: Condoleezza Rice, Israel, Middle East, Palestinian Authority, Secretary of State_
 
 ## [Previous Day...](/news/2007/03/22/index.md)
 

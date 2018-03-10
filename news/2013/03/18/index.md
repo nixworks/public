@@ -13,7 +13,7 @@ UPDATE 12:09 p.m. ET President Barack Obama on Monday highlighted the profession
 
 ##### United States
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: Hillary Clinton, United States, United States Secretary of State, same-sex marriage_
+_Context: Hillary Clinton, Secretary of State, United States, same-sex marriage_
 
 ##### British
 ### [The UK's three main political parties reach an agreement on measures to regulate the British press. ](/news/2013/03/18/the-uk-s-three-main-political-parties-reach-an-agreement-on-measures-to-regulate-the-british-press.md)

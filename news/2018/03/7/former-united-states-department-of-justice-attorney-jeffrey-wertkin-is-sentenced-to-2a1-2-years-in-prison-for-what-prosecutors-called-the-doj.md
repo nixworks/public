@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/7/former-united-states-department-of-justice-attor
 
 ### [2018-03-7](/news/2018/03/7/index.md)
 
-##### United States
+##### Crime in the United States
 # Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. 
 
 In new details, former fraud prosecutor admits stealing dozens of secret lawsuits to sell to companies under investigation.

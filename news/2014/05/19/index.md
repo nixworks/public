@@ -19,7 +19,7 @@ _Context: Constitution, Oregon, same-sex couples_
 ### [Saudi Arabia closes its embassy in Tripoli over security concerns in Libya. ](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.md)
 _Context: Libya, Saudi Arabia, Tripoli_
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-sector-american-companies-in-a-bid.md)
 The US charges five Chinese army officers with hacking into private-sector companies to gain trade secrets, in the first espionage case of its kind.
 

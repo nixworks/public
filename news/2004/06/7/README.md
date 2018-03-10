@@ -11,9 +11,9 @@ Ruslan Fedotenko scored twice, including the critical first goal, as the resilie
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
 _Context: $, Antitrust, California, Oracle Corporation, PeopleSoft, San Francisco_
 
-##### North American Free Trade Agreement
+##### NAFTA
 ### [ North American Free Trade Agreement: The United States Supreme Court opens US roads to trucks from Mexico, enforcing a key component of the NAFTA agreement over the protests of some environmentalists and Teamsters. ](/news/2004/06/7/north-american-free-trade-agreement-the-united-states-supreme-court-opens-us-roads-to-trucks-from-mexico-enforcing-a-key-component-of-the.md)
-_Context: Mexico, North American Free Trade Agreement, Teamsters, United States Supreme Court, environmentalist_
+_Context: Mexico, NAFTA, Teamsters, United States Supreme Court, environmentalist_
 
 ##### U.S. presence in Iraq
 ### [ U.S.-led occupation of Iraq: The UN Security Council reaches a compromise agreement on the draft resolution on Iraq. ](/news/2004/06/7/u-s-led-occupation-of-iraq-the-un-security-council-reaches-a-compromise-agreement-on-the-draft-resolution-on-iraq.md)

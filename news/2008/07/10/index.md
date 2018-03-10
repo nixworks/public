@@ -11,9 +11,9 @@ _Context: Man Booker Prize, Midnight's Children, Salman Rushdie, The Best of the
 ### [ Georgia recalls its ambassador from Moscow after Russian fighters entered Georgian airspace. ](/news/2008/07/10/georgia-recalls-its-ambassador-from-moscow-after-russian-fighters-entered-georgian-airspace.md)
 _Context:  Georgian, Moscow, Russia, recalls_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its-allies.md)
-_Context: Condoleezza Rice, Israel, United States, United States Secretary of State_
+_Context: Condoleezza Rice, Israel, Secretary of State, United States_
 
 ##### Senator
 ### [ The Senate of the United States confirms the appointment of General David Petraeus as the Commander of the United States Central Command and Raymond T. Odierno as the Commander of the Multinational Force Iraq replacing General Petraeus. ](/news/2008/07/10/the-senate-of-the-united-states-confirms-the-appointment-of-general-david-petraeus-as-the-commander-of-the-united-states-central-command-an.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-
 
 ### [2005-03-20](/news/2005/03/20/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 #  US Secretary of State Condoleezza Rice arrives in Beijing for the last leg of her six-country Asian trip. Rice met with President Hu Jintao and Premier Wen Jiabao; talks about North Korea nuclear missiles program and Taiwan are on the top of the agenda. 
 
 

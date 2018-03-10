@@ -23,7 +23,7 @@ _Context: Forum for Democratic Change, Kizza Besigye, Ugandan general election, 
 ### [John McAfee, creator of the anti-virus software McAfee, Inc. and former CEO, offers to unlock an iPhone that belonged to San Bernardino attacker Syed Farook for the FBI for free after Apple Inc. refused to comply with a court order asking it to unlock the device. McAfee said "It will take us three weeks," with access to a super-computer in an article published by the "Business Insider". ](/news/2016/02/19/john-mcafee-creator-of-the-anti-virus-software-mcafee-inc-and-former-ceo-offers-to-unlock-an-iphone-that-belonged-to-san-bernardino-atta.md)
 Anti-virus creator John McAfee claims he can break the encryption on an iPhone used by San Bernardino killer Syed Farook.
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice files a motion to compel Apple Inc. to comply with a court order to help the FBI hack a phone used by an attacker in the 2015 San Bernardino attack. ](/news/2016/02/19/the-united-states-department-of-justice-files-a-motion-to-compel-apple-inc-to-comply-with-a-court-order-to-help-the-fbi-hack-a-phone-used-b.md)
 The Justice Department is seeking to force Apple to comply with an order to help the FBI crack a phone used by one of the San Bernardino attackers.
 

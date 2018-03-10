@@ -27,7 +27,7 @@ At least 12 people were killed and 27 injured as hailstones, lashing rain and ga
 ### [More than forty people die in the tornado outbreak of April 14-16, 2011, with North Carolina being the worst affected state. ](/news/2011/04/17/more-than-forty-people-die-in-the-tornado-outbreak-of-april-14a16-2011-with-north-carolina-being-the-worst-affected-state.md)
 _Context: North Carolina, tornado outbreak of April 14-16, 2011_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton visits Japan to announce US assistance for the recovery effort following the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/17/the-united-states-secretary-of-state-hillary-clinton-visits-japan-to-announce-us-assistance-for-the-recovery-effort-following-the-2011-taho.md)
 Hillary Clinton announces joint reconstruction plans as she visits Japan to show US solidarity five weeks after the quake disaster.
 

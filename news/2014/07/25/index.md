@@ -31,7 +31,7 @@ _Context: Jordanian Air Force, Mafraq Governorate, Syrian refugees_
 ### [U.S. President Barack Obama speaks by phone with Netherlands Prime Minister Mark Rutte and they both agree on the need to impose more sanctions on Russia for continuing to arm pro-Russian separatists in Ukraine. ](/news/2014/07/25/u-s-president-barack-obama-speaks-by-phone-with-netherlands-prime-minister-mark-rutte-and-they-both-agree-on-the-need-to-impose-more-sancti.md)
 U.S. President Barack Obama spoke by phone with Netherlands Prime Minister Mark Rutte on Thursday and the White House said both agreed on the need to impose more sanctions on Russia for continuing to arm pro-Russian separatists in Ukraine.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [A cease fire deal proposed by U.S. Secretary of State John Kerry is rejected by Israel and not commented on by Hamas. Israel agrees to a uni-lateral 12 hour humanitarian ceasefire as negotiations continue. ](/news/2014/07/25/a-cease-fire-deal-proposed-by-u-s-secretary-of-state-john-kerry-is-rejected-by-israel-and-not-commented-on-by-hamas-israel-agrees-to-a-uni.md)
 Ya&#8217;alon warns ground operation may expand; heavy West Bank clashes after Hamas urges Third Intifada; IDF gen. says Hamas morale weakening
 

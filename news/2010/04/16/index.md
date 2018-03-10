@@ -7,9 +7,9 @@ Formats: [HTML](2010/04/16/index.html)  [JSON](2010/04/16/index.json)  [XML](201
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)
 _Context: Lady Gaga, YouTube_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Hillary Clinton, Israel, Palestinian, United States Secretary of State_
+_Context: Hillary Clinton, Israel, Palestinian, Secretary of State_
 
 ##### Arisman Pongruangrong
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)

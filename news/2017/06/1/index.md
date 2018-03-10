@@ -13,7 +13,7 @@ According to Musk’s own tweets, he had lobbied Trump for months for the U.S. t
 
 ##### United States immigration ban
 ### [The Department of Justice asks the Supreme Court for expedited review of the Fourth Circuit Appeals Court's May 25 ruling that affirmed the Maryland district court decision to prevent implementation of revised Executive Order 13780, and let the travel ban take effect. The Appeals Court of the Ninth Circuit has not announced its decision on a similar ruling from Hawaii. ](/news/2017/06/1/the-department-of-justice-asks-the-supreme-court-for-expedited-review-of-the-fourth-circuit-appeals-court-s-may-25-ruling-that-affirmed-the.md)
-_Context: Executive Order 13780, Fourth Circuit Appeals Court, Supreme Court of the United States, U.S. Justice Department, United States Court of Appeals for the Ninth Circuit, United States immigration ban_
+_Context: Department of Justice, Executive Order 13780, Fourth Circuit Appeals Court, Supreme Court of the United States, United States Court of Appeals for the Ninth Circuit, United States immigration ban_
 
 ##### 2017 Bilderberg Conference
 ### [The secretive Bilderberg Group meet in Chantilly, Virginia, for its annual conference. ](/news/2017/06/1/the-secretive-bilderberg-group-meet-in-chantilly-virginia-for-its-annual-conference.md)

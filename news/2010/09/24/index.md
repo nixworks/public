@@ -15,9 +15,9 @@ _Context: Don't ask, don't tell, Judge, Maj. Margaret Witt, Ronald B. Leighton, 
 ### [A senior Nicaraguan diplomat is found dead in an apartment in New York City. ](/news/2010/09/24/a-senior-nicaraguan-diplomat-is-found-dead-in-an-apartment-in-new-york-city.md)
 _Context: New York City, Nicaragua_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton meets with the President of the Palestinian National Authority Mahmoud Abbas to discuss an extension of the Middle East peace process. ](/news/2010/09/24/the-united-states-secretary-of-state-hillary-clinton-meets-with-the-president-of-the-palestinian-national-authority-mahmoud-abbas-to-discuss.md)
-_Context: Hillary Clinton, Mahmoud Abbas, Middle East peace process, Palestinian Authority President, United States Secretary of State_
+_Context: Hillary Clinton, Mahmoud Abbas, Middle East peace process, Palestinian Authority President, Secretary of State_
 
 ##### Japan
 ### [Japanese prosecutors release the Chinese fishing boat captain recently captured in disputed waters in the East China Sea after pressure from the Chinese government. ](/news/2010/09/24/japanese-prosecutors-release-the-chinese-fishing-boat-captain-recently-captured-in-disputed-waters-in-the-east-china-sea-after-pressure-from.md)

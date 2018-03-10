@@ -11,9 +11,9 @@ _Context: Hugo Chavez, Venezuela_
 ### [Egyptian president Mohammed Mursi's order to reopen parliament is rejected by the highest court, stating that its ruling dissolving the assembly is binding. ](/news/2012/07/9/egyptian-president-mohammed-mursi-s-order-to-reopen-parliament-is-rejected-by-the-highest-court-stating-that-its-ruling-dissolving-the-asse.md)
 _Context: Egypt, Mohammed Mursi_
 
-##### U.S. Justice Department
+##### Department of Justice
 ### [The United States Department of Justice unseals an indictment charging five people for their alleged involvement in the murder of Border Patrol agent Brian Terry and offers up to $1 million reward for information leading to their arrest. ](/news/2012/07/9/the-united-states-department-of-justice-unseals-an-indictment-charging-five-people-for-their-alleged-involvement-in-the-murder-of-border-pat.md)
-_Context: Brian Terry, U.S. Border Patrol, U.S. Justice Department, indicted_
+_Context: Brian Terry, Department of Justice, U.S. Border Patrol, indicted_
 
 ##### Drug cartel
 ### [The Mexican drug cartel known as Los Zetas laundered millions of dollars through accounts at Bank of America; that money was then used to finance a horse racing business in the United States, allegedly ran by Jose Trevino Morales. ](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laundered-millions-of-dollars-through-accounts-at-bank-of-america-that-money-was-then-used-to-fi.md)

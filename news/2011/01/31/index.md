@@ -11,9 +11,9 @@ _Context: Ahlia University, Islamic University of Omdurman, Sudan, government_
 ### [The 40th Canadian Parliament returns to session amid speculation of an impending election after an extended "holiday break". ](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.md)
 Canadian Prime Minister Stephen Harper will be under pressure from opposition lawmakers to reverse corporate tax cuts and extend government stimulus as a condition for keeping his government in power when Parliament reconvenes today.
 
-##### United States Secretary of State
+##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
-_Context: Hillary Clinton, United States, United States Secretary of State, ambassadors_
+_Context: Hillary Clinton, Secretary of State, United States, ambassadors_
 
 ##### Elected
 ### [Presidential and parliamentary elections are held in Niger following one year of military rule. ](/news/2011/01/31/presidential-and-parliamentary-elections-are-held-in-niger-following-one-year-of-military-rule.md)

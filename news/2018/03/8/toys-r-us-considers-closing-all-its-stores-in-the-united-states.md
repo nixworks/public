@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-th
 
 ### [2018-03-8](/news/2018/03/8/index.md)
 
-##### Toys "R" Us
+##### Economy of the United States
 # Toys "R" Us considers closing all its stores in the United States. 
 
 Toys R Us had already begun liquidation sales ahead of its plans to close about 180 stores in the U.S.
@@ -22,7 +22,7 @@ Toys R Us had already begun liquidation sales ahead of its plans to close about 
 ### Related:
 
 1. [U.S. toy and juvenile-products retailer Toys "R" Us collapses into administration in the United Kingdom, putting 3200 jobs at risk. ](/news/2018/02/28/u-s-toy-and-juvenile-products-retailer-toys-r-us-collapses-into-administration-in-the-united-kingdom-putting-3200-jobs-at-risk.md) _Context: Toys "R" Us, United States_
-2. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: United States_
-3. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: United States_
-4. [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md) _Context: United States_
-5. [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md) _Context: United States_
+2. [Multinational U.S. conglomerate Honeywell announces plans to spinoff its Homes, ADI Global Distribution, and Transportation Systems businesses into two separate, publicly-traded companies by the end of 2018. ](/news/2017/10/10/multinational-u-s-conglomerate-honeywell-announces-plans-to-spinoff-its-homes-adi-global-distribution-and-transportation-systems-business.md) _Context: Economy of the United States, United States_
+3. [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md) _Context: Economy of the United States, United States_
+4. [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md) _Context: Economy of the United States, United States_
+5. [ The United States economy lost 663,000 jobs in March, raising the unemployment rate to 8.5%. ](/news/2009/04/3/the-united-states-economy-lost-663-000-jobs-in-march-raising-the-unemployment-rate-to-8-5.md) _Context: Economy of the United States, United States_

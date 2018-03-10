@@ -15,7 +15,7 @@ _Context: China, Japan, Tokyo, Type 051B, World War II, destroyer_
 ### [ Harry Redknapp, the manager of Portsmouth F.C., is one of five men arrested as part of an ongoing investigation of alleged corruption in British football. ](/news/2007/11/28/harry-redknapp-the-manager-of-portsmouth-f-c-is-one-of-five-men-arrested-as-part-of-an-ongoing-investigation-of-alleged-corruption-in-br.md)
 _Context: British, Harry Redknapp, Portsmouth, alleged corruption, football, manager_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice announces that retired United States Marine Corps General James L. Jones will be a special envoy for Middle East security. ](/news/2007/11/28/the-united-states-secretary-of-state-condoleezza-rice-announces-that-retired-united-states-marine-corps-general-james-l-jones-will-be-a-sp.md)
 U.S. Secretary of State Condoleezza Rice on Wednesday named retired Marine Gen. James Jones as special envoy for Middle East security, focusing on Palestinian and Israeli security issues.
 

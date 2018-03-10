@@ -29,7 +29,7 @@ The River Seine has burst its banks in places, and is expected to reach its peak
 
 ##### Energy in Europe
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
-_Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
+_Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, Secretary of State, energy security_
 
 ##### Military
 ### [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md)

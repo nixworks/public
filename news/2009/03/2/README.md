@@ -21,7 +21,7 @@ _Context: Bissau, Guinea-Bissau, Joo Bernardo Vieira, acting president, assassin
 
 ##### Winter storm
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: East Coast of the United States, United States, electricity, winter storm_
+_Context: East Coast, United States, electricity, winter storm_
 
 ##### Consumer spending
 ### [ Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md)

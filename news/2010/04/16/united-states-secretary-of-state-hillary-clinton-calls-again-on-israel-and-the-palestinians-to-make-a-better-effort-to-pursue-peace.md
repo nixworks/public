@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/16/united-states-secretary-of-state-hillary-clinto
 
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 # United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/04/16/united-states-secretary-of-state-hillary-clinto
 
 ### Related:
 
-1. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Hillary Clinton, Israel, United States Secretary of State_
+1. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Hillary Clinton, Israel, Secretary of State_
 2. [Gazan officials say Israeli soldiers killed a Palestinian farmer on his own land in the Gaza Strip. An Israeli military spokesperson said that he got too close to the border fence. ](/news/2018/03/3/gazan-officials-say-israeli-soldiers-killed-a-palestinian-farmer-on-his-own-land-in-the-gaza-strip-an-israeli-military-spokesperson-said-th.md) _Context: Israel, Palestinian_
 3. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel, Palestinian_
 4. [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md) _Context: Israel, Palestinian_

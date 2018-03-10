@@ -19,9 +19,9 @@ A Greek journalist is arrested after publishing what he says is a list of Greeks
 ### [The SpaceX Dragon capsule on a re-supply mission to the International Space Station returns to Earth. ](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.md)
 A capsule owned by the private SpaceX company returns to Earth after the first commercial re-supply mission to the International Space Station.
 
-##### East Coast of the United States
+##### East Coast
 ### [The East Coast of the United States prepares for Hurricane Sandy, which has killed at least 67 people and caused widespread damage in the Caribbean. ](/news/2012/10/28/the-east-coast-of-the-united-states-prepares-for-hurricane-sandy-which-has-killed-at-least-67-people-and-caused-widespread-damage-in-the-ca.md)
-_Context: Caribbean, East Coast of the United States, Hurricane Sandy_
+_Context: Caribbean, East Coast, Hurricane Sandy_
 
 ##### United Nations
 ### [The United Nations calls for action to end renewed hostilities between ethnic Buddhists and Muslim Rohingya in Myanmar's western Rakhine State that have killed dozens and displaced more than 22,500. ](/news/2012/10/28/the-united-nations-calls-for-action-to-end-renewed-hostilities-between-ethnic-buddhists-and-muslim-rohingya-in-myanmar-s-western-rakhine-sta.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/9/united-states-secretary-of-state-colin-powell-de
 
 ### [2004-09-9](/news/2004/09/9/index.md)
 
-##### United States Secretary of State
+##### Secretary of State
 #  United States Secretary of State Colin Powell declares that the actions of the Janjaweed Arab militia in Darfur constitute genocide. Powell holds the government of Sudan responsible. Up to 50,000 ethnic Africans have been killed and 2.2 million displaced into refugee camps in neighboring Chad by ethnic Arab militias. 
 
 

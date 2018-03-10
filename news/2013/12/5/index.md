@@ -23,9 +23,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
 _Context: Myanmar, Philippines, Thein Sein, his predecessor, mass media, renewable energy, visa-free travel_
 
-##### United States Secretary of State
+##### Secretary of State
 ### [United States Secretary of State John Kerry meets with the Prime Minister of Israel Benjamin Netanyahu in Jerusalem to talk about many topics including the nuclear program of Iran. ](/news/2013/12/5/united-states-secretary-of-state-john-kerry-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-in-jerusalem-to-talk-about-many-topic.md)
-_Context: Benjamin Netanyahu, Jerusalem, John Kerry, Prime Minister, United States Secretary of State, nuclear program_
+_Context: Benjamin Netanyahu, Jerusalem, John Kerry, Prime Minister, Secretary of State, nuclear program_
 
 ##### U.S. Vice President
 ### [Vice President of the United States Joe Biden criticizes the People's Republic of China for a recent crackdown of foreign journalists in the country. ](/news/2013/12/5/vice-president-of-the-united-states-joe-biden-criticizes-the-people-s-republic-of-china-for-a-recent-crackdown-of-foreign-journalists-in-the.md)
