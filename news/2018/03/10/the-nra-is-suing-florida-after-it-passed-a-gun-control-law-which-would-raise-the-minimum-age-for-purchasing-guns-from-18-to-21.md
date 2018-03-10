@@ -13,7 +13,8 @@ The lawsuit says the bill violates the rights of young women as they are less li
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-43352078)
 2. [CNN](https://edition.cnn.com/2018/03/09/us/nra-sues-florida-gun-law/index.html)
-2. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/15E37/production/_100355698_hi045421618.jpg)
+3. [Reuters](https://www.reuters.com/article/us-usa-guns-bumpstocks/justice-department-files-regulation-to-ban-bump-stocks-idUSKCN1GM0JN)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/15E37/production/_100355698_hi045421618.jpg)
 
 ### Related:
 

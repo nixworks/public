@@ -20,7 +20,7 @@ President had said previously that Kristian Saucier&rsquo;s prosecution showed t
 Shkreli was convicted last summer of securities fraud charges linked to hedge funds and a drug company he founded.
 
 ##### Yountville hostage crisis
-### [An Afghan War veteran and recently expelled resident takes an executive director and two psychologists hostage at the Veterans Home of California in Yountville, California. Seven hours later, California Highway Patrol officers find all of them shot dead. ](/news/2018/03/9/an-afghan-war-veteran-and-recently-expelled-resident-takes-an-executive-director-and-two-psychologists-hostage-at-the-veterans-home-of-calif.md)
+### [An Afghan War veteran and recently expelled resident takes an executive director and two psychologists into a room at the Veterans Home of California in Yountville, California. Seven hours later, California Highway Patrol officers find all of them shot dead. ](/news/2018/03/9/an-afghan-war-veteran-and-recently-expelled-resident-takes-an-executive-director-and-two-psychologists-into-a-room-at-the-veterans-home-of-c.md)
 The bodies were found at the home in Northern California hours after the gunman had fired at a deputy, the authorities said.
 
 ##### 2017-18 North Korea crisis
