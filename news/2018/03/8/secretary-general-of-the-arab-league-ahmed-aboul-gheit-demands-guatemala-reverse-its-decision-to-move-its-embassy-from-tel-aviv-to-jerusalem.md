@@ -11,7 +11,8 @@ Formats: [HTML](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul
 
 ### Sources:
 
-1. [Xinhua News Agency](http://www.xinhuanet.com/english/2018-03/09/c_137025494.htm)
+1. [JPost](http://www.jpost.com/Arab-Israeli-Conflict/Arab-league-secretary-general-urges-Guatemala-to-cancel-embassy-move-544659)
+1. [Cover Image](http://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/399816)
 
 ### Changes:
 

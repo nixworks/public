@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/8/prime-minister-bruno-tshibala-says-the-election-
 
 ### Sources:
 
-1. [StandardMedia](https://www.standardmedia.co.ke/article/2001272503/congo-presidential-election-on-course-for-december-says-prime-minister)
+1. [Reuters via ''Standard Digital](https://www.standardmedia.co.ke/article/2001272503/congo-presidential-election-on-course-for-december-says-prime-minister)
 1. [Cover Image](http://www.standardmedia.co.ke/images/thursday/congo_presidential_p5aa1a2de94555.jpg)
 
 ### Changes:
