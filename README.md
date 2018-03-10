@@ -8,8 +8,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 The lawsuit says the bill violates the rights of young women as they are less likely to be violent.
 
 ##### 2017-18 North Korea crisis
-### [US President Donald Trump is confident that North Korea wouldn't do any missile tests during talks with North Korea. ](/news/2018/03/10/us-president-donald-trump-is-confident-that-north-korea-wouldnat-do-any-missile-tests-during-talks-with-north-korea.md)
-WASHINGTON (AP) — President Donald Trump said Saturday he believes North Korea will abide by its pledge to suspend missile tests while he prepares for a summit by May with the North&#x27;s leader, Kim Jong Un.
+### [Jeju Island emerges as a possible location for US-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-us-north-korea-summit-talks-in-may.md)
+North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
 
 ##### Environmental issues in Chile
 ### [Outgoing Chilean President Michele Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michele-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area-o.md)
