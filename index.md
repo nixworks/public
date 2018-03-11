@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/11/index.md)
 
+##### 2018 anti-Muslim riots in Sri Lanka
+### [The suspension of Facebook remains in place until the riots end. ](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-until-the-riots-end.md)
+_Context: 2018 anti-Muslim riots in Sri Lanka, Facebook_
+
 ##### 2018 National People's Congress
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
@@ -15,8 +19,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/10/index.md)
 
-##### Freedom of speech
-### [ Identitarian leader Martin Sellner and Brittany Pettibone are detained in the United Kingdom with reasons given that for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leader-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-with-reasons-given-that-for-wanting-to-hold-a.md)
+##### Censorship in the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
 The UK has detained Identitarian leader Martin Sellner and his girlfriend Brittany Pettibone for having the audacity of wanting to hold a speech at the Speaker’s Corner in London. The place is known for being an open space for all to come and make their voices heard, but apparently that is no long...
 
 ##### Stoneman Douglas High School shooting

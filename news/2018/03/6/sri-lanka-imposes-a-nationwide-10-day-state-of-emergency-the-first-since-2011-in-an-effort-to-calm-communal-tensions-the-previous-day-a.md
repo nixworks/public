@@ -17,7 +17,7 @@ Sri Lanka declared a nationwide state of emergency for 10 days on Tuesday to sto
 
 ### Related:
 
-1. [The suspension of Facebook service is extended. [http:--www.sundaytimes.lk-180311-news-facebook-shut-down-till-emergency-is-lifted-285695.html ("The Sunday Times" (Sri Lanka))]](/news/2018/03/11/the-suspension-of-facebook-service-is-extended-http-www-sundaytimes-lk-180311-news-facebook-shut-down-till-emergency-is-lifted-285695-ht.md) _Context: 2018 anti-Muslim riots in Sri Lanka_
+1. [The suspension of Facebook remains in place until the riots end. ](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-until-the-riots-end.md) _Context: 2018 anti-Muslim riots in Sri Lanka_
 2. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: Sri Lanka_
 3. [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _Context: Sri Lanka_
 4. [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-di.md) _Context: Sri Lanka_

@@ -3,8 +3,8 @@ Formats: [HTML](2018/03/10/index.html)  [JSON](2018/03/10/index.json)  [XML](201
 
 ## [2018-03-10](/news/2018/03/10/index.md)
 
-##### Freedom of speech
-### [ Identitarian leader Martin Sellner and Brittany Pettibone are detained in the United Kingdom with reasons given that for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leader-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-with-reasons-given-that-for-wanting-to-hold-a.md)
+##### Censorship in the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
 The UK has detained Identitarian leader Martin Sellner and his girlfriend Brittany Pettibone for having the audacity of wanting to hold a speech at the Speaker’s Corner in London. The place is known for being an open space for all to come and make their voices heard, but apparently that is no long...
 
 ##### Stoneman Douglas High School shooting
