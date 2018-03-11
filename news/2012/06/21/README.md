@@ -15,7 +15,7 @@ He had been on a medical leave of absence since June 11, following a seizure and
 ### [The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
 _Context: American football, Jerry Sandusky, inappropriate_
 
-##### President
+##### Chilean President
 ### [The father of previous President of Chile Michelle Bachelet was probably tortured to death after the 1973 coup led by Augusto Pinochet, a judge says. ](/news/2012/06/21/the-father-of-previous-president-of-chile-michelle-bachelet-was-probably-tortured-to-death-after-the-1973-coup-led-by-augusto-pinochet-a-ju.md)
 The father of ex-Chilean President Michelle Bachelet probably died as a result of torture after the 1973 coup led by Pinochet, a judge says.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/6/president-of-chile-sebastia-n-pia-era-makes-his-
 
 ### [2011-03-6](/news/2011/03/6/index.md)
 
-##### President
+##### Chilean President
 # President of Chile Sebastian Pinera, makes his first official visit to Israel and the Palestinian territories. 
 
 Peres lauds Pinera for heroism and determination in rescuing trapped miners.

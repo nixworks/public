@@ -7,7 +7,7 @@ Formats: [HTML](2016/11/17/index.html)  [JSON](2016/11/17/index.json)  [XML](201
 ### [James R. Clapper resigns as U.S. Director of National Intelligence. ](/news/2016/11/17/james-r-clapper-resigns-as-u-s-director-of-national-intelligence.md)
 Director of National Intelligence James Clapper offered his resignation as the Obama administration hands off to President-elect Donald Trump&#x27;s team.
 
-##### President
+##### Congolese President
 ### [President Joseph Kabila appoints Samy Badibanga as the new Prime Minister of the Democratic Republic of the Congo as part of a power-sharing deal agreed by the opposition and government. ](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.md)
 Democratic Republic of Congo opposition leader Samy Badibanga has been named prime minister on Thursday as part of a power-sharing deal signed in October by the opposition and government.
 

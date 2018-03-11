@@ -37,7 +37,7 @@ _Context: Yerevan, genocide of Armenians_
 
 ##### Chile
 ### [In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/in-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hour-to-discuss-the-child-sexual-abuse-scandal-and-ag.md)
-_Context: Catholic Church, Chile, President, Sebastin Piera_
+_Context: Catholic Church, Chile, Chilean President, Sebastin Piera_
 
 ##### Drone
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)

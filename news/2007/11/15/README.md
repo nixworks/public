@@ -29,7 +29,7 @@ _Context: Burma, Insein Prison, Paulo Sergio Pinheiro, Su Su Nway, United Nation
 
 ##### Aftershock
 ### [ Powerful aftershocks hit Chile after the Antofagasta earthquake, as President Michelle Bachelet visits the affected areas. ](/news/2007/11/15/powerful-aftershocks-hit-chile-after-the-antofagasta-earthquake-as-president-michelle-bachelet-visits-the-affected-areas.md)
-_Context: 2007 Antofagasta earthquake, Chile, Michelle Bachelet, President, aftershock_
+_Context: 2007 Antofagasta earthquake, Chile, Chilean President, Michelle Bachelet, aftershock_
 
 ##### Executed
 ### [ The execution of Mark Dean Schwab in Florida is suspended while the United States Supreme Court decides if lethal injection is unconstitutional. ](/news/2007/11/15/the-execution-of-mark-dean-schwab-in-florida-is-suspended-while-the-united-states-supreme-court-decides-if-lethal-injection-is-unconstituti.md)

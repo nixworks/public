@@ -67,9 +67,9 @@ _Context: Action democratique du Quebec, Liberal Party, Parti Quebecois, Quebec 
 ### [ A Guatemalan prison riot results in the death of three prisoners. Carlos Vielman, the Interior Minister, resigns over police involvement in the killing of three politicians from El Salvador last month. ](/news/2007/03/26/a-guatemalan-prison-riot-results-in-the-death-of-three-prisoners-carlos-vielman-the-interior-minister-resigns-over-police-involvement-in.md)
 _Context: Carlos Vielman, El Salvador, Guatemala_
 
-##### President
+##### Chilean President
 ### [ President of Chile Michelle Bachelet sacks several ministers including the Minister for National Defence Vivianne Blanlot Soza and the Minister for Justice Isidro Solis Palma for perceived poor performance as well as her Chief of Staff. The Minister for Transport Sergio Espejo Yaksic is sacked for problems with Santiago's new transport system Transantiago. ](/news/2007/03/26/president-of-chile-michelle-bachelet-sacks-several-ministers-including-the-minister-for-national-defence-vivianne-blanlot-soza-and-the-mini.md)
-_Context: Isidro Solis Palma, Michelle Bachelet, President, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
+_Context: Chilean President, Isidro Solis Palma, Michelle Bachelet, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
 
 ## [Previous Day...](/news/2007/03/25/index.md)
 

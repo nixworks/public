@@ -21,7 +21,7 @@ The swearing-in of the 290-member assembly comes at a critical time for reformis
 
 ##### Chile
 ### [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her-da.md)
-_Context: Chile, Michelle Bachelet, Natalia Compagnon, President_
+_Context: Chile, Chilean President, Michelle Bachelet, Natalia Compagnon_
 
 ##### Brazilian police
 ### [Brazilian Police say they have identified and are searching for four of the more than 30 men suspected in last Saturday's gang rape of a 16-year-old girl in Rio de Janeiro. The assault came to light after several men posted about the attack online. ](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.md)

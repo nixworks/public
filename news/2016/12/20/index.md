@@ -33,7 +33,7 @@ The Class of 2017 also includes Journey, Electric Light Orchestra and Yes, and a
 
 ##### December 2016 Congolese protests
 ### [Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-joseph-kabila-reportedly-leave-more-th.md)
-_Context: DR Congo, December 2016 Congolese protests, Joseph Kabila, President_
+_Context: Congolese President, DR Congo, December 2016 Congolese protests, Joseph Kabila_
 
 ##### Al-Karak
 ### [Four police officers and one suspect have been killed following a raid on an apartment near Al-Karak in Jordan. Two more suspects have been arrested under suspicions of connections with Sunday's attack in the city by the Islamic State. ](/news/2016/12/20/four-police-officers-and-one-suspect-have-been-killed-following-a-raid-on-an-apartment-near-al-karak-in-jordan-two-more-suspects-have-been.md)

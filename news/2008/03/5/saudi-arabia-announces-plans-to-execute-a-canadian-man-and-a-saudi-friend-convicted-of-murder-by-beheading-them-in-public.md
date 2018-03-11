@@ -16,7 +16,7 @@ Formats: [HTML](/news/2008/03/5/saudi-arabia-announces-plans-to-execute-a-canadi
 
 ### Related:
 
-1. [Citing national security reasons, U.S. President Donald Trump imposes his tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-his-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-cou.md) _Context: Canada_
+1. [Citing national security reasons, U.S. President Donald Trump imposes tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-countri.md) _Context: Canada_
 2. [Saudi Arabian Prince Mohammad bin Salman meets Pope Tawadros II at Saint Mark's Coptic Orthodox Cathedral. ](/news/2018/03/5/saudi-arabian-prince-mohammad-bin-salman-meets-pope-tawadros-ii-at-saint-mark-s-coptic-orthodox-cathedral.md) _Context: Saudi Arabia_
 3. [Saudi Arabia opens applications for women to join its armed forces for the first time. ](/news/2018/02/26/saudi-arabia-opens-applications-for-women-to-join-its-armed-forces-for-the-first-time.md) _Context: Saudi Arabia_
 4. [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md) _Context: Canada_

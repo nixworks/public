@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/27/index.html)  [JSON](2018/02/27/index.json)  [XML](201
 
 ##### Democratic Republic of the Congo general election, 2018
 ### [In a public statement, the foreign ministry of Botswana urges Joseph Kabila, the President of DR Congo, to step down since his term expired in December 2016, and hold the long-delayed new election. ](/news/2018/02/27/in-a-public-statement-the-foreign-ministry-of-botswana-urges-joseph-kabila-the-president-of-dr-congo-to-step-down-since-his-term-expired.md)
-_Context: Botswana, Democratic Republic of the Congo general election, 2018, Joseph Kabila, President, foreign ministry_
+_Context: Botswana, Congolese President, Democratic Republic of the Congo general election, 2018, Joseph Kabila, foreign ministry_
 
 ##### 2016-2018 investigations involving Benjamin Netanyahu
 ### [The Israeli Prosecutor's Office links Prime Minister Benjamin Netanyahu in a corruption case. ](/news/2018/02/27/the-israeli-prosecutor-s-office-links-prime-minister-benjamin-netanyahu-in-a-corruption-case.md)

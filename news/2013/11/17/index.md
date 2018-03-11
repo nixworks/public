@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/17/index.html)  [JSON](2013/11/17/index.json)  [XML](201
 
 ##### Chile
 ### [Voters in Chile go to the polls for a general election of president, senators, deputies, and regional advisers. The presidential election looks likely to go to a runoff between former President Michelle Bachelet and Evelyn Matthei of the ruling Coalition. ](/news/2013/11/17/voters-in-chile-go-to-the-polls-for-a-general-election-of-president-senators-deputies-and-regional-advisers-the-presidential-election-lo.md)
-_Context: Chile, Evelyn Matthei, Michelle Bachelet, President, president, regional advisers, senators, deputies_
+_Context: Chile, Chilean President, Evelyn Matthei, Michelle Bachelet, president, regional advisers, senators, deputies_
 
 ##### Giorgi Margvelashvili
 ### [Giorgi Margvelashvili is sworn in as the President of Georgia following the victory in the October election. ](/news/2013/11/17/giorgi-margvelashvili-is-sworn-in-as-the-president-of-georgia-following-the-victory-in-the-october-election.md)

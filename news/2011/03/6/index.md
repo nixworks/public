@@ -43,7 +43,7 @@ _Context: North Korea, South Korea_
 ### [Ron Prosor is appointed Israel's ambassador to the United Nations. ](/news/2011/03/6/ron-prosor-is-appointed-israel-s-ambassador-to-the-united-nations.md)
 _Context: Israel, Ron Prosor, United Nations_
 
-##### President
+##### Chilean President
 ### [President of Chile Sebastian Pinera, makes his first official visit to Israel and the Palestinian territories. ](/news/2011/03/6/president-of-chile-sebastia-n-pia-era-makes-his-first-official-visit-to-israel-and-the-palestinian-territories.md)
 Peres lauds Pinera for heroism and determination in rescuing trapped miners.
 
