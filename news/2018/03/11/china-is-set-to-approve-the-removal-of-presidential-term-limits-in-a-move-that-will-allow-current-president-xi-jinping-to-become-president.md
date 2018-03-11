@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/11/china-is-set-to-approve-the-removal-of-presiden
 
 ### [2018-03-11](/news/2018/03/11/index.md)
 
-##### Politics of the People's Republic of China
+##### 2018 National People's Congress
 # China is set to approve the removal of presidential term limits, in a move that will allow current president Xi Jinping to become president for life. 
 
 
