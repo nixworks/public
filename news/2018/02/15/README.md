@@ -7,10 +7,6 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
 _Context: Discoveries of exoplanets, Kepler, NASA, exoplanet, space telescope_
 
-##### Politics of South Africa
-### [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. ](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa.md)
-Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
-
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
 Hailemariam Desalegn said he was stepping down in a bid to end unrest and a political crisis.

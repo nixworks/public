@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/11/index.html)  [JSON](2018/03/11/index.json)  [XML](201
 ## [2018-03-11](/news/2018/03/11/index.md)
 
 ##### 2018 National People's Congress
-### [China is set to approve the removal of presidential term limits, in a move that will allow current president Xi Jinping to become president for life. ](/news/2018/03/11/china-is-set-to-approve-the-removal-of-presidential-term-limits-in-a-move-that-will-allow-current-president-xi-jinping-to-become-president.md)
-_Context: 2018 National People's Congress, China, Xi Jinping, president, president for life_
+### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
+_Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ## [Previous Day...](/news/2018/03/10/index.md)
 
