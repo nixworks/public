@@ -14,6 +14,11 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 1. [PBS](https://www.pbs.org/newshour/world/cyril-ramaphosa-elected-as-south-africas-new-president)
 1. [Cover Image](https://d3i6fh83elv35t.cloudfront.net/static/2018/02/RTX4X28H-1024x754.jpg)
 
+### Changes:
+
+1. [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. [https:--www.pbs.org-newshour-world-cyril-ramaphosa-elected-as-south-africas-new-president (PBS)]Birthday in Tanzania the birth of King Albert Luambano Jr. The new Chief of the Luambano clan come after his father Frank Albert Luambano.](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa-https-www-pbs-org-newshour-world-cyril-ramaphosa-electe.md) _2018-03-11 12:30:05 (First version)_
+1. [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. ](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa.md) _(Current version)_
+
 ### Related:
 
 1. [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md) _Context: Cyril Ramaphosa, Politics of South Africa, President of South Africa_
