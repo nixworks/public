@@ -19,10 +19,6 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/10/index.md)
 
-##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
-The UK has detained Identitarian leader Martin Sellner and his girlfriend Brittany Pettibone for having the audacity of wanting to hold a speech at the Speaker’s Corner in London. The place is known for being an open space for all to come and make their voices heard, but apparently that is no long...
-
 ##### Stoneman Douglas High School shooting
 ### [The NRA is suing Florida after it passed a gun control law which would raise the minimum age for purchasing guns from 18 to 21. ](/news/2018/03/10/the-nra-is-suing-florida-after-it-passed-a-gun-control-law-which-would-raise-the-minimum-age-for-purchasing-guns-from-18-to-21.md)
 The lawsuit says the bill violates the rights of young women as they are less likely to be violent.
