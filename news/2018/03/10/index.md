@@ -12,7 +12,7 @@ The lawsuit says the bill violates the rights of young women as they are less li
 North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
 
 ##### Environmental issues in Chile
-### [Outgoing Chilean President Michele Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michele-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area-o.md)
+### [Outgoing Chilean President Michelle Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michelle-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area.md)
 President Michele Bachelet has signed a decree creating a new protectionist policy towards the sea.
 
 ##### Congolese President

@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/10/index.md)
+## [News](/news/2018/03/11/index.md)
+
+##### Politics of the People's Republic of China
+### [China is set to approve the removal of presidential term limits, in a move that will allow current president Xi Jinping to become president for life. ](/news/2018/03/11/china-is-set-to-approve-the-removal-of-presidential-term-limits-in-a-move-that-will-allow-current-president-xi-jinping-to-become-president.md)
+_Context: China, Politics of the People's Republic of China, Xi Jinping, president, president for life_
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/10/index.md)
 
 ##### Stoneman Douglas High School shooting
 ### [The NRA is suing Florida after it passed a gun control law which would raise the minimum age for purchasing guns from 18 to 21. ](/news/2018/03/10/the-nra-is-suing-florida-after-it-passed-a-gun-control-law-which-would-raise-the-minimum-age-for-purchasing-guns-from-18-to-21.md)
@@ -12,20 +24,16 @@ The lawsuit says the bill violates the rights of young women as they are less li
 North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
 
 ##### Environmental issues in Chile
-### [Outgoing Chilean President Michele Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michele-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area-o.md)
+### [Outgoing Chilean President Michelle Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michelle-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area.md)
 President Michele Bachelet has signed a decree creating a new protectionist policy towards the sea.
 
 ##### Congolese President
-### [Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, in spite of opposition from the foreign companies. ](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-that-increases-taxes-on-mining-and-government-royalties-on-international-mining-companies-work.md)
+### [Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, despite the opposition from foreign companies. ](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-that-increases-taxes-on-mining-and-government-royalties-on-international-mining-companies-work.md)
 The new law, which raises government royalties, was strongly opposed by international companies.
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2018/03/9/index.md)
+## [Day Before Yesterday](/news/2018/03/9/index.md)
 
 ##### 2018 in spaceflight
 ### [Arianespace launches mission VS18 from the Guiana Space Centre, a Soyuz rocket carrying a payload of four O3b communications satellites for SES. ](/news/2018/03/9/arianespace-launches-mission-vs18-from-the-guiana-space-centre-a-soyuz-rocket-carrying-a-payload-of-four-o3b-communications-satellites-for.md)
@@ -57,39 +65,7 @@ NME marked an end of an era today after announcing plans to cease print producti
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/8/index.md)
-
-##### Democratic Republic of the Congo general election, 2018
-### [Prime Minister Bruno Tshibala says the election - delayed repeatedly since President Joseph Kabila's term expired in December 2016 - will occur this December. ](/news/2018/03/8/prime-minister-bruno-tshibala-says-the-election-a-delayed-repeatedly-since-president-joseph-kabila-s-term-expired-in-december-2016-a-wil.md)
-_Context: Bruno Tshibala, Congolese President, Democratic Republic of the Congo general election, 2018, Joseph Kabila, Prime Minister_
-
-##### Comprehensive and Progressive Agreement for Trans-Pacific Partnership
-### [Eleven countries in Asia, North America, Oceania, and South America sign the revised Trans-Pacific Partnership trade agreement. ](/news/2018/03/8/eleven-countries-in-asia-north-america-oceania-and-south-america-sign-the-revised-trans-pacific-partnership-trade-agreement.md)
-Eleven countries signed a slimmed-down version of the Trans-Pacific Partnership as they try to counter Washington’s new protectionism.
-
-##### Protectionism in the United States
-### [Citing national security reasons, U.S. President Donald Trump imposes tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-countri.md)
-Trump signed proclamations Thursday that will institute a 25-percent tariff on steel and a 10-percent tariff on aluminum with exemptions for Canada and Mexico until NAFTA is renegotiated
-
-##### United States recognition of Jerusalem as capital of Israel
-### [Secretary-General of the Arab League Ahmed Aboul Gheit demands Guatemala reverse its decision to move its embassy from Tel Aviv to Jerusalem. The Minister of Foreign Affairs of Guatemala, Sandra Jovel says the move is "irreversible." ](/news/2018/03/8/secretary-general-of-the-arab-league-ahmed-aboul-gheit-demands-guatemala-reverse-its-decision-to-move-its-embassy-from-tel-aviv-to-jerusalem.md)
-_Context: Ahmed Aboul Gheit, Foreign relations of Guatemala, Guatemala, Jerusalem, Minister of Foreign Affairs of Guatemala, Sandra Jovel, Secretary-General of the Arab League, Tel Aviv, United States recognition of Jerusalem as capital of Israel_
-
-##### 2017-18 North Korea crisis
-### [Secretary of State Rex Tillerson says "potentially positive signals" come from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-says-potentially-positive-signals-come-from-north-korea-but-that-the-two-countries-are-still-a-long-way.md)
-Secretary of State Rex Tillerson cautioned, however, that the two countries are still &quot;a long way&quot; from direct negotiations about Pyongyang&#x27;s nuclear program.
-
-##### Economy of the United States
-### [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md)
-Toys R Us had already begun liquidation sales ahead of its plans to close about 180 stores in the U.S.
-
-##### Turkish military operation in Afrin
-### [The Turkish-backed Free Syrian Army seizes control of Jindires in Syria's Afrin District from the Kurdish YPG. The town is extensively destroyed by Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/the-turkish-backed-free-syrian-army-seizes-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-is-extensively-destr.md)
-_Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
-
----
-
-## [Previous Day...](/news/2018/03/7/index.md)
+## [Previous Day...](/news/2018/03/8/index.md)
 
 ---
 
