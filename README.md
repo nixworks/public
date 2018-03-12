@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
 
+##### Apple Inc.
+### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
+Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
