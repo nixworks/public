@@ -6,13 +6,12 @@ Formats: [HTML](/news/2018/03/12/ameenah-gurib-announces-her-resignation-as-pres
 ##### Ameenah Gurib
 # Ameenah Gurib announces her resignation as President of Mauritius 
 
-Mauritian President Ameenah Gurib-Fakim will step down, Prime Minister Pravind Jugnauth said, amid allegations she spent money from a charity on shopping in Dubai.
+
 
 
 ### Sources:
 
-1. [Bloomberg](https://www.bloomberg.com/news/articles/2018-03-09/mauritian-president-gurib-fakim-to-resign-prime-minister-says)
-1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJcGgAGFpo8k/v0/1200x832.jpg)
+1. [Bloomberg News](https://www.bloomberg.com/news/articles/2018-03-09/mauritian-president-gurib-fakim-to-resign-prime-minister-says.)
 
 ### Related:
 
