@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-
 
 ### [2018-03-12](/news/2018/03/12/index.md)
 
-##### US-Bangla Airlines
+##### US Bangla Airlines Flight 211
 # An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal. 
 
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.

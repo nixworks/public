@@ -17,4 +17,5 @@ Mauritian President Ameenah Gurib-Fakim will step down next week, the prime mini
 
 ### Related:
 
-1. [The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. ](/news/2014/12/10/the-opposition-mmm-pmsd-coalition-wins-a-majority-in-the-national-assembly-ending-the-ruling-mlp-mmm-alliance-s-plan-to-grant-more-powers-t.md) _Context: Mauritian President_
+1. [Ameenah Gurib announces her resignation as President of Mauritius ](/news/2018/03/12/ameenah-gurib-announces-her-resignation-as-president-of-mauritius.md) _Context: President of Mauritius_
+2. [The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. ](/news/2014/12/10/the-opposition-mmm-pmsd-coalition-wins-a-majority-in-the-national-assembly-ending-the-ruling-mlp-mmm-alliance-s-plan-to-grant-more-powers-t.md) _Context: President of Mauritius_
