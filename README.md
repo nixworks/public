@@ -15,6 +15,10 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
+##### Cyclone Hola
+### [Cyclone Hola makes landfall in New Zealand. ](/news/2018/03/11/cyclone-hola-makes-landfall-in-new-zealand.md)
+Rain is beginning to clear in the far north.
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -34,6 +38,10 @@ North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future an
 ##### Environmental issues in Chile
 ### [Outgoing Chilean President Michelle Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michelle-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area.md)
 President Michele Bachelet has signed a decree creating a new protectionist policy towards the sea.
+
+##### East-Central Africa Division of Seventh-day Adventists
+### [Lightning strikes a Seventh-day Adventist Church in Nyaruguru District, Rwanda, killing 16 people and injuring dozens. ](/news/2018/03/10/lightning-strikes-a-seventh-day-adventist-church-in-nyaruguru-district-rwanda-killing-16-people-and-injuring-dozens.md)
+At least 16 people were killed and dozens more injured at a Seventh-Day Adventist church in the south.
 
 ##### Congolese President
 ### [Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, despite the opposition from foreign companies. ](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-that-increases-taxes-on-mining-and-government-royalties-on-international-mining-companies-work.md)
