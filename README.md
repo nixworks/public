@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/12/index.md)
 
 ##### US-Bangla Airlines Flight 211
-### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing at least 40. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-at-leas.md)
+### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
 
 ##### Opinion
@@ -27,8 +27,8 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
-##### Zagros Mountains
-### [A plane crashes in the Zagros Mountains in Iran, killing Turkish socialite Mina Basaran along with, according to Iranian state media, ten other people on board. ](/news/2018/03/11/a-plane-crashes-in-the-zagros-mountains-in-iran-killing-turkish-socialite-mina-baaaran-along-with-according-to-iranian-state-media-ten-o.md)
+##### 2018 Bombardier Challenger 604 crash
+### [A private plane from Sharjah to Istanbul crashes in the Zagros Mountains in Iran, killing Turkish socialite Mina Basaran along with, according to Iranian state media, ten other people on board. ](/news/2018/03/11/a-private-plane-from-sharjah-to-istanbul-crashes-in-the-zagros-mountains-in-iran-killing-turkish-socialite-mina-baaaran-along-with-accord.md)
 The daughter of a top businessman and her seven friends died along with three crew members when a private plane crashed&nbsp;on Sunday&nbsp;
 
 ##### Manhattan
