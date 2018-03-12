@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-ki
 ### [2018-03-11](/news/2018/03/11/index.md)
 
 ##### Manhattan
-# A helicopter crash in Manhattan's east river kills 5 people. 
+# A helicopter crash in Manhattan's East River kills 5 people. 
 
 Five people died after a helicopter experienced engine trouble and crashed in the East River in Manhattan Sunday evening.
 

@@ -12,7 +12,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ##### Manhattan
-### [A helicopter crash in Manhattan's east river kills 5 people. ](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-kills-5-people.md)
+### [A helicopter crash in Manhattan's East River kills 5 people. ](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-kills-5-people.md)
 Five people died after a helicopter experienced engine trouble and crashed in the East River in Manhattan Sunday evening.
 
 ##### Cyclone Hola
