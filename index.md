@@ -3,12 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/12/index.md)
 
-##### Ameenah Gurib
-### [Ameenah Gurib announces her resignation as President of Mauritius ](/news/2018/03/12/ameenah-gurib-announces-her-resignation-as-president-of-mauritius.md)
-_Context: Ameenah Gurib, President of Mauritius_
-
 ##### US-Bangla Airlines Flight 211
-### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal.md)
+### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing at least 40. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-at-leas.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
 
 ##### Opinion
@@ -38,10 +34,6 @@ Rain is beginning to clear in the far north.
 ---
 
 ## [Day Before Yesterday](/news/2018/03/10/index.md)
-
-##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
-_Context: Censorship in the United Kingdom, Identitarian, Speaker's Corner, Tommy Robinson, UK_
 
 ##### Stoneman Douglas High School shooting
 ### [The NRA is suing Florida after it passed a gun control law which would raise the minimum age for purchasing guns from 18 to 21. ](/news/2018/03/10/the-nra-is-suing-florida-after-it-passed-a-gun-control-law-which-would-raise-the-minimum-age-for-purchasing-guns-from-18-to-21.md)
