@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/12/index.html)  [JSON](2018/03/12/index.json)  [XML](201
 ## [2018-03-12](/news/2018/03/12/index.md)
 
 ##### Terrorism in the United States
-### [Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-co.md)
+### [Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-co.md)
 _Context: Austin, Texas, Terrorism in the United States_
 
 ##### US-Bangla Airlines Flight 211

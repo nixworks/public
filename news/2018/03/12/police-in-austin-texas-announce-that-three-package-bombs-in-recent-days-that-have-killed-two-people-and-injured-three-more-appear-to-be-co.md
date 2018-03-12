@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/12/police-in-austin-texas-announce-that-three-pack
 ### [2018-03-12](/news/2018/03/12/index.md)
 
 ##### Terrorism in the United States
-# Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service police say. 
+# Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. 
 
 
 
