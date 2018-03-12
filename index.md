@@ -3,11 +3,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/12/index.md)
 
+##### Terrorism in the United States
+### [Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-co.md)
+_Context: Austin, Texas, Terrorism in the United States_
+
 ##### US-Bangla Airlines Flight 211
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
 
-##### Apple Inc.
+##### Acquisitions by Apple
 ### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
 Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 
 
@@ -28,7 +32,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ##### Visa policy of the United Kingdom
-### [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md)
+### [Far-right activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-give.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### 2018 Bombardier Challenger 604 crash
@@ -47,8 +51,8 @@ Rain is beginning to clear in the far north.
 
 ## [Day Before Yesterday](/news/2018/03/10/index.md)
 
-##### Visa policy of the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are refused entry to the UK.](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-refused-entry-to-the-uk.md)
+##### Censorship in the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### Stoneman Douglas High School shooting

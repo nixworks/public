@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-ap
 
 ### [2018-03-12](/news/2018/03/12/index.md)
 
-##### Apple Inc.
+##### Acquisitions by Apple
 # Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. 
 
 Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 
