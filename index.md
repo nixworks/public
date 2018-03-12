@@ -15,6 +15,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/11/index.md)
 
+##### Elizabeth Warren
+### [Senator Elizabeth Warren rejects a suggestion by a Massachusetts newspaper to take a DNA test to prove her Native American heritage. The request was made to put the issue at rest as it has been a heated political talking point. ](/news/2018/03/11/senator-elizabeth-warren-rejects-a-suggestion-by-a-massachusetts-newspaper-to-take-a-dna-test-to-prove-her-native-american-heritage-the-req.md)
+_Context: Elizabeth Warren_
+
 ##### Chilean general election, 2017
 ### [Sebastian Pinera takes office for the second time as President of Chile. ](/news/2018/03/11/sebastian-pia-era-takes-office-for-the-second-time-as-president-of-chile.md)
 Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his second term after being outsted in 2014, with promises to revive the economy.
@@ -24,7 +28,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ##### Zagros Mountains
-### [A plane crashes in the Zagros Mountains in Iran, killing Turkish socialite Mina Basaran along with ten other people. ](/news/2018/03/11/a-plane-crashes-in-the-zagros-mountains-in-iran-killing-turkish-socialite-mina-baaaran-along-with-ten-other-people.md)
+### [A plane crashes in the Zagros Mountains in Iran, killing Turkish socialite Mina Basaran along with, according to Iranian state media, ten other people on board. ](/news/2018/03/11/a-plane-crashes-in-the-zagros-mountains-in-iran-killing-turkish-socialite-mina-baaaran-along-with-according-to-iranian-state-media-ten-o.md)
 The daughter of a top businessman and her seven friends died along with three crew members when a private plane crashed&nbsp;on Sunday&nbsp;
 
 ##### Manhattan
