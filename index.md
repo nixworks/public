@@ -23,8 +23,8 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
-##### Censorship in the United Kingdom
-### [Activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-u.md)
+##### Visa policy of the United Kingdom
+### [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### 2018 Bombardier Challenger 604 crash
@@ -43,8 +43,8 @@ Rain is beginning to clear in the far north.
 
 ## [Day Before Yesterday](/news/2018/03/10/index.md)
 
-##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
+##### Visa policy of the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are refused entry to the UK.](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-refused-entry-to-the-uk.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### Stoneman Douglas High School shooting
