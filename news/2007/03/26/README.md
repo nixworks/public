@@ -23,9 +23,9 @@ _Context: Honshu Island, Noto Peninsula, Tokyo, aftershock, earthquake_
 ### [ The military commission process begins for detainees accused by the United States of war crimes, with the first person to face trial being Australian David Hicks. Hicks pleads guilty to providing material support for terrorists.](/news/2007/03/26/the-military-commission-process-begins-for-detainees-accused-by-the-united-states-of-war-crimes-with-the-first-person-to-face-trial-being.md)
 A dispute over the proper role of military defense lawyers is intensifying as military commissions reopen at Guantánamo Bay, Cuba.
 
-##### Chinese President
+##### President
 ### [ President of the People's Republic of China Hu Jintao begins a three-day tour of Russia to promote trade and energy ties. ](/news/2007/03/26/president-of-the-people-s-republic-of-china-hu-jintao-begins-a-three-day-tour-of-russia-to-promote-trade-and-energy-ties.md)
-_Context: Chinese President, Hu Jintao, Russia, energy, trade_
+_Context: Hu Jintao, Russia, energy, president, trade_
 
 ##### Jakarta
 ### [ Health officials meet in Jakarta to resolve a dispute between Indonesia and the World Health Organisation about access to H5N1 vaccines. ](/news/2007/03/26/health-officials-meet-in-jakarta-to-resolve-a-dispute-between-indonesia-and-the-world-health-organisation-about-access-to-h5n1-vaccines.md)
@@ -67,9 +67,9 @@ _Context: Action democratique du Quebec, Liberal Party, Parti Quebecois, Quebec 
 ### [ A Guatemalan prison riot results in the death of three prisoners. Carlos Vielman, the Interior Minister, resigns over police involvement in the killing of three politicians from El Salvador last month. ](/news/2007/03/26/a-guatemalan-prison-riot-results-in-the-death-of-three-prisoners-carlos-vielman-the-interior-minister-resigns-over-police-involvement-in.md)
 _Context: Carlos Vielman, El Salvador, Guatemala_
 
-##### Chilean President
+##### President of Chile
 ### [ President of Chile Michelle Bachelet sacks several ministers including the Minister for National Defence Vivianne Blanlot Soza and the Minister for Justice Isidro Solis Palma for perceived poor performance as well as her Chief of Staff. The Minister for Transport Sergio Espejo Yaksic is sacked for problems with Santiago's new transport system Transantiago. ](/news/2007/03/26/president-of-chile-michelle-bachelet-sacks-several-ministers-including-the-minister-for-national-defence-vivianne-blanlot-soza-and-the-mini.md)
-_Context: Chilean President, Isidro Solis Palma, Michelle Bachelet, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
+_Context: Isidro Solis Palma, Michelle Bachelet, President of Chile, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
 
 ## [Previous Day...](/news/2007/03/25/index.md)
 

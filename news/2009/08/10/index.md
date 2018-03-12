@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/10/index.html)  [JSON](2009/08/10/index.json)  [XML](200
 
 ##### Namibia
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: China, Chinese President, Hu Jintao, Namibia, Windhoek_
+_Context: China, Hu Jintao, Namibia, Windhoek, president_
 
 ##### Ecuador
 ### [ Ecuador's Health Minister Caroline Chang says South America's twelve nations have pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A-H1N1 flu pandemic. ](/news/2009/08/10/ecuadoras-health-minister-caroline-chang-says-south-americaas-twelve-nations-have-pledged-to-respect-regional-vaccine-price-ceilings-to.md)

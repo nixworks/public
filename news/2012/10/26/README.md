@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/26/index.html)  [JSON](2012/10/26/index.json)  [XML](201
 
 ##### China
 ### [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md)
-_Context: Bo Xilai, China, parliament_
+_Context: Bo Xilai, China, National People's Congress_
 
 ##### Italy
 ### [Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. ](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.md)

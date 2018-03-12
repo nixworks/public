@@ -17,7 +17,7 @@ _Context: Mongolia, snowstorms_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China calls for resumption of official talks between mainland China and Taiwan in a meeting with Wu Po-hsiung, the Chairman of Taiwan's ruling party the Kuomintang. ](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.md)
-_Context: China, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung_
+_Context: China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung, president_
 
 ##### Zamboanga International Airport
 ### [ A bomb at Edwin Andrews Air Base in Zamboanga City in the southern Philippines kills two people and injures another 17. ](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.md)

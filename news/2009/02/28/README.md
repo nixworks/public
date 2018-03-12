@@ -29,11 +29,11 @@ _Context: Arnold Schwarzenegger, California, Governor of California, drought, st
 
 ##### Standing Committee of the National People's Congress
 ### [ The Standing Committee of China's NPC approves the Food Safety Law, which will enhance supervision and strengthen quality standards. ](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.md)
-_Context: China, Food Safety, Standing Committee of the National People's Congress, binding rules, parliament, quality standards_
+_Context: China, Food Safety, National People's Congress, Standing Committee of the National People's Congress, binding rules, quality standards_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao holds the first online discussion with Internet users before the National People's Congress's annual plenary session. ](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.md)
-_Context: China, Internet, National People's Congress, Premier, Wen Jiabao, parliament_
+_Context: China, Internet, National People's Congress, National People's Congress, Premier, Wen Jiabao_
 
 ##### Burma
 ### [ Burma's government announces it will allow Rohingyas who have fled to neighboring countries to return only if they identify themselves as Bengalis. ](/news/2009/02/28/burma-s-government-announces-it-will-allow-rohingyas-who-have-fled-to-neighboring-countries-to-return-only-if-they-identify-themselves-as-b.md)

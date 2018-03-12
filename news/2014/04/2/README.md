@@ -23,9 +23,9 @@ The 5 to 4 decision
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
 _Context: High Court of Australia, third gender_
 
-##### Chilean President
+##### President of Chile
 ### [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md)
-_Context: Arica y Parinacota, Chile, Chilean President, Michelle Bachelet, Tarapaca_
+_Context: Arica y Parinacota, Chile, Michelle Bachelet, President of Chile, Tarapaca_
 
 ##### Chrysler
 ### [Chrysler recalls nearly 870,000 SUVs from its Jeep and Dodge brands, citing brake issues. ](/news/2014/04/2/chrysler-recalls-nearly-870-000-suvs-from-its-jeep-and-dodge-brands-citing-brake-issues.md)

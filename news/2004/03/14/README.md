@@ -15,9 +15,9 @@ _Context: Pope John Paul II, Pope Pius&nbsp;IX, Saint Peter, longest reigning po
 ### [ Voting takes place in the Russian presidential election. Incumbent Vladimir Putin wins by a large majority. The election is widely criticised by external observers who said Russian state television was very biased towards Putin during the campaign. ](/news/2004/03/14/voting-takes-place-in-the-russian-presidential-election-incumbent-vladimir-putin-wins-by-a-large-majority-the-election-is-widely-criticis.md)
 _Context: Vladimir Putin, presidential election_
 
-##### Parliament
+##### National People's Congress
 ### [ The National People's Congress of China changes the constitution to protect private property, in order to stop state officials from requisitioning property and private possessions. ](/news/2004/03/14/the-national-people-s-congress-of-china-changes-the-constitution-to-protect-private-property-in-order-to-stop-state-officials-from-requisi.md)
-_Context: country's constitution, parliament_
+_Context: National People's Congress, country's constitution_
 
 ##### March 11, 2004 Madrid attacks
 ### [ Madrid bombings: Spanish police receives a videotape where a man identifying himself as an al-Qaeda spokesman says the organisation claims responsibility for the attack, according to an announcement from the country's interior minister. The authenticity of the video has not been verified. The al-Qaeda claim overshadows voting in the general election. ](/news/2004/03/14/madrid-bombings-spanish-police-receives-a-videotape-where-a-man-identifying-himself-as-an-al-qaeda-spokesman-says-the-organisation-claims.md)

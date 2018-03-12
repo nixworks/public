@@ -23,7 +23,7 @@ _Context: Chief Justice, Elections in Nepal, Khil Raj Regmi, Nepal, Prime Minist
 ### [The Constitutional Court of Armenia upholds the reelection of President Serzh Sargsyan in the recent presidential election. ](/news/2013/03/14/the-constitutional-court-of-armenia-upholds-the-reelection-of-president-serzh-sargsyan-in-the-recent-presidential-election.md)
 _Context: Armenia, Armenian President, Constitutional Court, Serzh Sargsyan, presidential election_
 
-##### Parliament
+##### National People's Congress
 ### [The National People's Congress names CPC General Secretary Xi Jinping as the new President of the People's Republic of China, Politburo member Li Yuanchao as the new Vice President, Li Keqiang as the new Premier, and Politburo standing member Zhang Dejiang as the Chairman of the NPC Standing Committee. ](/news/2013/03/14/the-national-people-s-congress-names-cpc-general-secretary-xi-jinping-as-the-new-president-of-the-people-s-republic-of-china-politburo-memb.md)
 China&#039;s parliament has named Xi Jinping as the country&#039;s new president at the annual parliament session.
 

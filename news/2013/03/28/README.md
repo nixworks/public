@@ -23,9 +23,9 @@ _Context: Italy, Pier Luigi Bersani, political gridlock_
 ### [Former President of South Africa Nelson Mandela is hospitalised with a lung infection. ](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.md)
 _Context: Nelson Mandela, President of South Africa, South Africa, lung infection_
 
-##### Chilean President
+##### President of Chile
 ### [Former President of Chile Michelle Bachelet announces that she is running in the Chilean presidential election on November 17. ](/news/2013/03/28/former-president-of-chile-michelle-bachelet-announces-that-she-is-running-in-the-chilean-presidential-election-on-november-17.md)
-_Context: Chile, Chilean President, Michelle Bachelet, president_
+_Context: Chile, Michelle Bachelet, President of Chile, president_
 
 ##### Government
 ### [Former British Cabinet minister Andrew Mitchell says he will take legal action against "The Sun" over claims he swore and called police officers plebs in a row in Downing Street. ](/news/2013/03/28/former-british-cabinet-minister-andrew-mitchell-says-he-will-take-legal-action-against-the-sun-over-claims-he-swore-and-called-police-offi.md)

@@ -25,7 +25,7 @@ _Context: California, Temecula, United States_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. ](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.md)
-_Context: Beijing, China, Chinese President, Hu Jintao, Hugo Chavez, Venezuela, Venezuelan President_
+_Context: Beijing, China, Hu Jintao, Hugo Chavez, Venezuela, Venezuelan President, president_
 
 ##### Red shirt
 ### [ Thirty thousand National United Front demonstrators assemble at Government House in Bangkok, Thailand. ](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.md)

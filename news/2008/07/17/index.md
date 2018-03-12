@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/17/index.html)  [JSON](2008/07/17/index.json)  [XML](200
 
 ##### China
 ### [ The Chinese National People's Congress holds a press conference and releases mid-year financial statistics on the nation's gross domestic product. ](/news/2008/07/17/the-chinese-national-people-s-congress-holds-a-press-conference-and-releases-mid-year-financial-statistics-on-the-nation-s-gross-domestic-p.md)
-_Context: China, gross domestic product, parliament_
+_Context: China, National People's Congress, gross domestic product_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI speaks to 150,000 pilgrims in Sydney for World Youth Day 2008. ](/news/2008/07/17/pope-benedict-xvi-speaks-to-150-000-pilgrims-in-sydney-for-world-youth-day-2008.md)

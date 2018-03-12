@@ -29,7 +29,7 @@ _Context: Dugway Proving Ground, Stardust spacecraft, Wild 2, comet_
 
 ##### Michelle Bachelet
 ### [ Michelle Bachelet is elected the first female President of Chile. ](/news/2006/01/15/michelle-bachelet-is-elected-the-first-female-president-of-chile.md)
-_Context: Chilean President, Michelle Bachelet, elected_
+_Context: Michelle Bachelet, President of Chile, elected_
 
 ##### Finnish presidential election
 ### [ The first round of voting in the Presidential election in Finland was held with no conclusive victor. Tarja Halonen and Sauli Niinist will continue to the second round which is held 29 January. ](/news/2006/01/15/the-first-round-of-voting-in-the-presidential-election-in-finland-was-held-with-no-conclusive-victor-tarja-halonen-and-sauli-niinisto-will.md)

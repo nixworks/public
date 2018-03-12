@@ -35,9 +35,9 @@ _Context: John Allen Muhammad, Lee Boyd Malvo, Tucson, Washington D.C._
 ### [ Thousands of young Muslim men demonstrate in the Somali capital of Mogadishu in support of a call for a holy war against Ethiopia. ](/news/2006/10/27/thousands-of-young-muslim-men-demonstrate-in-the-somali-capital-of-mogadishu-in-support-of-a-call-for-a-holy-war-against-ethiopia.md)
 _Context: Ethiopia, Mogadishu, Muslim, Somalia, holy war_
 
-##### Chilean President
+##### President of Chile
 ### [ A judge orders the arrest of former President of Chile Augusto Pinochet for torture, murder and kidnapping (Villa Grimaldi case) in the early years of his regime, from 1973 to 1990. ](/news/2006/10/27/a-judge-orders-the-arrest-of-former-president-of-chile-augusto-pinochet-for-torture-murder-and-kidnapping-villa-grimaldi-case-in-the-ear.md)
-_Context: Augusto Pinochet, Chilean President, Villa Grimaldi_
+_Context: Augusto Pinochet, President of Chile, Villa Grimaldi_
 
 ##### Baseball game
 ### [ Baseball: The St. Louis Cardinals win the 2006 World Series, beating the Detroit Tigers 4 games to 1. This is the Cardinals' first title since 1982. David Eckstein is named the World Series MVP, winning his second ring. ](/news/2006/10/27/baseball-the-st-louis-cardinals-win-the-2006-world-series-beating-the-detroit-tigers-4-games-to-1-this-is-the-cardinals-first-title-si.md)

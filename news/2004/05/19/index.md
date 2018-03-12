@@ -17,7 +17,7 @@ _Context: 9/11 Commission, Rudy Giuliani_
 
 ##### Hong Kong
 ### [ A third outspoken Hong Kong radio talk show host, Allen Lee, quits his program, questioning the status of media freedom in the special administrative region; he also resigns from his seat in the Chinese National People's Congress. ](/news/2004/05/19/a-third-outspoken-hong-kong-radio-talk-show-host-allen-lee-quits-his-program-questioning-the-status-of-media-freedom-in-the-special-admi.md)
-_Context: Allen Lee, Hong Kong, Special Administrative Region, parliament, talk show_
+_Context: Allen Lee, Hong Kong, National People's Congress, Special Administrative Region, talk show_
 
 ##### Kuomintang (Chinese Nationalist Party)
 ### [ The Nationalist Party of China (KMT) and the People First Party announce plans to merge after a unanimous vote by the KMT Central Standing Committee. ](/news/2004/05/19/the-nationalist-party-of-china-kmt-and-the-people-first-party-announce-plans-to-merge-after-a-unanimous-vote-by-the-kmt-central-standing.md)

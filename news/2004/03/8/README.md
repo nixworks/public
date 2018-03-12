@@ -25,7 +25,7 @@ _Context: Haiti, Jean-Bertrand Aristide, Marine, Port-au-Prince_
 
 ##### Jiang Yanyong
 ### [ Dr. Jiang Yanyong, who exposed the SARS coverup in the People's Republic of China, sends a letter to the National People's Congress calling the forceful suppression of the Tiananmen Square protests of 1989 a "mistake." ](/news/2004/03/8/dr-jiang-yanyong-who-exposed-the-sars-coverup-in-the-people-s-republic-of-china-sends-a-letter-to-the-national-people-s-congress-calling.md)
-_Context: Jiang Yanyong, SARS, Tiananmen Square protests of 1989, parliament_
+_Context: Jiang Yanyong, National People's Congress, SARS, Tiananmen Square protests of 1989_
 
 ##### Todd Bertuzzi
 ### [ Todd Bertuzzi of the Vancouver Canucks ice hockey team hits rookie Steve Moore of the Colorado Avalanche in the middle of a game, fracturing vertebrae in Moore's neck and probably ending his career. In the same game, Trevor Linden passed Stan Smyl in career point scoring for the Vancouver Canucks. ](/news/2004/03/8/todd-bertuzzi-of-the-vancouver-canucks-ice-hockey-team-hits-rookie-steve-moore-of-the-colorado-avalanche-in-the-middle-of-a-game-fracturin.md)

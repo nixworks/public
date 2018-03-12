@@ -33,7 +33,7 @@ _Context: China, Zhao Ziyang_
 
 ##### Standing Committee of the National People's Congress
 ### [ The Standing Committee of the National People's Congress rules that the right to amend the Basic Law of Hong Kong belongs to the National People's Congress. The Standing Committee also issued an "interpretation" (effectively an amendment) of the Basic Law which set out an additional step required for any changes in Hong Kong's political structures. ](/news/2004/04/6/the-standing-committee-of-the-national-people-s-congress-rules-that-the-right-to-amend-the-basic-law-of-hong-kong-belongs-to-the-national-p.md)
-_Context: Basic Law of Hong Kong, Standing Committee of the National People's Congress, parliament_
+_Context: Basic Law of Hong Kong, National People's Congress, Standing Committee of the National People's Congress_
 
 ## [Previous Day...](/news/2004/04/5/index.md)
 

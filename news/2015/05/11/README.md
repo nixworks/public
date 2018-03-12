@@ -7,7 +7,7 @@ Formats: [HTML](2015/05/11/index.html)  [JSON](2015/05/11/index.json)  [XML](201
 ### [The Prime Minister of the United Kingdom David Cameron announces a new Cabinet consisting of members of the Conservative Party. ](/news/2015/05/11/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-new-cabinet-consisting-of-members-of-the-conservative-party.md)
 _Context: Conservatives, David Cameron, Prime Minister, Second Cameron ministry_
 
-##### Chilean President
+##### President of Chile
 ### [The President of Chile Michelle Bachelet approves a new cabinet following a fall in popularity caused by a corruption scandal. ](/news/2015/05/11/the-president-of-chile-michelle-bachelet-approves-a-new-cabinet-following-a-fall-in-popularity-caused-by-a-corruption-scandal.md)
 Chilean President Michelle Bachelet names a new cabinet as she seeks to overcome a fall in popularity and a series of political scandals.
 

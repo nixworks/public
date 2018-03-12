@@ -15,6 +15,10 @@ North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future an
 ### [Outgoing Chilean President Michelle Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michelle-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area.md)
 President Michele Bachelet has signed a decree creating a new protectionist policy towards the sea.
 
+##### East-Central Africa Division of Seventh-day Adventists
+### [Lightning strikes a Seventh-day Adventist Church in Nyaruguru District, Rwanda, killing 16 people and injuring dozens. ](/news/2018/03/10/lightning-strikes-a-seventh-day-adventist-church-in-nyaruguru-district-rwanda-killing-16-people-and-injuring-dozens.md)
+At least 16 people were killed and dozens more injured at a Seventh-Day Adventist church in the south.
+
 ##### Congolese President
 ### [Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, despite the opposition from foreign companies. ](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-that-increases-taxes-on-mining-and-government-royalties-on-international-mining-companies-work.md)
 The new law, which raises government royalties, was strongly opposed by international companies.

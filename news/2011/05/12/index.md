@@ -17,7 +17,7 @@ _Context: Michael Somare, National Alliance Party, Papua New Guinea, Prime Minis
 
 ##### China
 ### [A petition is delivered to the Chinese parliament by underground Christian churches asking for their religious freedom to be respected. ](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.md)
-_Context: China, Christian, parliament, religious freedom_
+_Context: China, Christian, National People's Congress, religious freedom_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood in Egypt says it will expel any member that attempts to run for President. ](/news/2011/05/12/the-muslim-brotherhood-in-egypt-says-it-will-expel-any-member-that-attempts-to-run-for-president.md)

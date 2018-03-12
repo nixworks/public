@@ -15,9 +15,9 @@ _Context: Junior Eurovision Song Contest 2006, Russia_
 ### [ Madagascar holds an election with incumbent Marc Ravalomanana expected to be elected as the President of Madagascar. ](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.md)
 _Context: Madagascar, Marc Ravalomanana, President of Madagascar, holds an election_
 
-##### Chilean President
+##### President of Chile
 ### [ Former President of Chile Augusto Pinochet is in a military hospital after having had a heart attack. Doctors decide to perform coronary artery bypass surgery. ](/news/2006/12/3/former-president-of-chile-augusto-pinochet-is-in-a-military-hospital-after-having-had-a-heart-attack-doctors-decide-to-perform-coronary-ar.md)
-_Context: Augusto Pinochet, Chilean President, coronary artery bypass surgery, heart attack_
+_Context: Augusto Pinochet, President of Chile, coronary artery bypass surgery, heart attack_
 
 ##### Philippines
 ### [ At least 804 people are dead or missing in the Philippines as a result of Typhoon Durian with the death toll expected to rise further. ](/news/2006/12/3/at-least-804-people-are-dead-or-missing-in-the-philippines-as-a-result-of-typhoon-durian-with-the-death-toll-expected-to-rise-further.md)
