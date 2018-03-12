@@ -3,10 +3,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/11/index.md)
 
-##### 2018 anti-Muslim riots in Sri Lanka
-### [The suspension of Facebook remains in place until the riots end. ](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-until-the-riots-end.md)
-_Context: 2018 anti-Muslim riots in Sri Lanka, Facebook_
-
 ##### Chilean general election, 2017
 ### [Sebastian Piera takes office for the second time as President of Chile. ](/news/2018/03/11/sebastian-pinera-takes-office-for-the-second-time-as-president-of-chile.md)
 Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his second term after being outsted in 2014, with promises to revive the economy.
@@ -14,6 +10,10 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 ##### 2018 National People's Congress
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
+
+##### Manhattan
+### [A helicopter crash in Manhattan's east river kills 5 people. ](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-kills-5-people.md)
+Five people died after a helicopter experienced engine trouble and crashed in the East River in Manhattan Sunday evening.
 
 ##### Cyclone Hola
 ### [Cyclone Hola makes landfall in New Zealand. ](/news/2018/03/11/cyclone-hola-makes-landfall-in-new-zealand.md)
@@ -26,6 +26,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2018/03/10/index.md)
+
+##### Censorship in the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
+_Context: Censorship in the United Kingdom, Identitarian, Speaker's Corner, Tommy Robinson, UK_
 
 ##### Stoneman Douglas High School shooting
 ### [The NRA is suing Florida after it passed a gun control law which would raise the minimum age for purchasing guns from 18 to 21. ](/news/2018/03/10/the-nra-is-suing-florida-after-it-passed-a-gun-control-law-which-would-raise-the-minimum-age-for-purchasing-guns-from-18-to-21.md)

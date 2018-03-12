@@ -6,13 +6,13 @@ Formats: [HTML](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittan
 ##### Censorship in the United Kingdom
 #  Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. 
 
-The UK has detained Identitarian leader Martin Sellner and his girlfriend Brittany Pettibone for having the audacity of wanting to hold a speech at the Speaker’s Corner in London. The place is known for being an open space for all to come and make their voices heard, but apparently that is no longer the caseRead More
+
 
 
 ### Sources:
 
-1. [Voice of Europe](https://voiceofeurope.com/2018/03/identitarian-leader-martin-sellner-and-brittany-pettibone-arrested-in-police-state-britain/)
-1. [Cover Image](https://voiceofeurope.com/wp-content/uploads/2018/03/19237873_667320410145050_1422382716487795895_o-e1520709017275.jpg)
+1. [Demokracija](http://demokracija.si/migracije/britanske-oblasti-pridrzale-clana-identitarnega-gibanja-da-bi-jima-preprecili-nastop-o-svobodi-govora.html)
+1. [Cover Image](http://demokracija.si/media/k2/items/cache/884076e32a85fde4d5ab4fe1dc1af0d4_XS.jpg)
 
 ### Changes:
 
