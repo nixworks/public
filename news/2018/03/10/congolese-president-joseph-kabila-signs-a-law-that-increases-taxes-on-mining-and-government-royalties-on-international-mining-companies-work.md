@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-t
 
 ### [2018-03-10](/news/2018/03/10/index.md)
 
-##### Congolese President
+##### Economy of the Democratic Republic of the Congo
 # Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, despite the opposition from foreign companies. 
 
 The new law, which raises government royalties, was strongly opposed by international companies.
