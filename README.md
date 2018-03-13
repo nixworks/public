@@ -1,7 +1,23 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/12/index.md)
+## [News](/news/2018/03/13/index.md)
+
+##### Presidency of Donald Trump
+### [U.S. President Donald Trump fires Rex Tillerson as United States Secretary of State, replacing him with CIA director Mike Pompeo. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-united-states-secretary-of-state-replacing-him-with-cia-director-mike-pompeo.md)
+The move bring major changes as the United States deals with delicate foreign policy efforts such as possible outreach to North Korea.
+
+##### Argentine Navy
+### [The Argentine Navy rescues four United States Antarctic Program scientists and a contractor stranded on Joinville Island in Antarctica after their icebreaker RV "Laurence M. Gould" encountered thick sea-ice. ](/news/2018/03/13/the-argentine-navy-rescues-four-united-states-antarctic-program-scientists-and-a-contractor-stranded-on-joinville-island-in-antarctica-after.md)
+The scientists and a contractor were carrying out research on Joinville Island off Antarctica.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/12/index.md)
 
 ##### Russian interference in the 2016 United States elections
 ### [Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, there was no collusion between the 2016 Trump campaign and the Russian government, and, contrary to the intelligence community's conclusions, that Russia did not have a preference for Donald Trump as a candidate. ](/news/2018/03/12/republicans-on-the-house-intelligence-committee-announce-the-end-of-their-russia-investigation-against-the-objections-of-democratic-members.md)
@@ -19,13 +35,9 @@ There were about 67 people on the US-Bangla aircraft and there are casualties, o
 ### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
 Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/11/index.md)
+## [Day Before Yesterday](/news/2018/03/11/index.md)
 
 ##### 2018 anti-Muslim riots in Sri Lanka
 ### [The suspension of Facebook remains in place until the riots end. ](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-until-the-riots-end.md)
@@ -57,35 +69,7 @@ Rain is beginning to clear in the far north.
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/10/index.md)
-
-##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md)
-Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
-
-##### Stoneman Douglas High School shooting
-### [The NRA is suing Florida after it passed a gun control law which would raise the minimum age for purchasing guns from 18 to 21. ](/news/2018/03/10/the-nra-is-suing-florida-after-it-passed-a-gun-control-law-which-would-raise-the-minimum-age-for-purchasing-guns-from-18-to-21.md)
-The lawsuit says the bill violates the rights of young women as they are less likely to be violent.
-
-##### 2017-18 North Korea crisis
-### [Jeju Island emerges as a possible location for U.S.-North Korea summit talks in May. ](/news/2018/03/10/jeju-island-emerges-as-a-possible-location-for-u-s-anorth-korea-summit-talks-in-may.md)
-North Korean Foreign Minister Ri Yong Ho will visit Sweden in the near future and meet with his Swedish counterpart, Margot Wallstrom, the Swedish newspape
-
-##### Environmental issues in Chile
-### [Outgoing Chilean President Michelle Bachelet signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. ](/news/2018/03/10/outgoing-chilean-president-michelle-bachelet-signs-a-new-law-which-creates-nine-marine-reserves-the-new-legislation-will-increase-the-area.md)
-President Michele Bachelet has signed a decree creating a new protectionist policy towards the sea.
-
-##### East-Central Africa Division of Seventh-day Adventists
-### [Lightning strikes a Seventh-day Adventist Church in Nyaruguru District, Rwanda, killing 16 people and injuring dozens. ](/news/2018/03/10/lightning-strikes-a-seventh-day-adventist-church-in-nyaruguru-district-rwanda-killing-16-people-and-injuring-dozens.md)
-At least 16 people were killed and dozens more injured at a Seventh-Day Adventist church in the south.
-
-##### Economy of the Democratic Republic of the Congo
-### [Congolese President Joseph Kabila signs a law that increases taxes on mining and government royalties on international mining companies working in DR Congo, including on the mining of cobalt, despite the opposition from foreign companies. ](/news/2018/03/10/congolese-president-joseph-kabila-signs-a-law-that-increases-taxes-on-mining-and-government-royalties-on-international-mining-companies-work.md)
-The new law, which raises government royalties, was strongly opposed by international companies.
-
----
-
-## [Previous Day...](/news/2018/03/9/index.md)
+## [Previous Day...](/news/2018/03/10/index.md)
 
 ---
 
