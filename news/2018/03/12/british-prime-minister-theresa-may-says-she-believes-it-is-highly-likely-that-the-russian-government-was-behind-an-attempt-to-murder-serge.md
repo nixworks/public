@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/12/british-prime-minister-theresa-may-says-she-bel
 ### [2018-03-12](/news/2018/03/12/index.md)
 
 ##### Poisoning of Sergei and Yulia Skripal
-# British Prime Minister Theresa May says she believes it is "highly likely" that the Russian government was behind an attempt to murder Sergei Skripal and his daughter using the Novichok agent. 
+# British Prime Minister Theresa May says she believes it is "highly likely" that the Russian government was behind an attempt to murder Sergei Skripal and his daughter using a Novichok agent. 
 
 British PM Theresa May told Parliament that a Russian-produced nerve agent had been used to poison Sergei Skripal and his daughter in Salisbury. The US has said those responsible should face &quot;serious consequences.&quot;
 
