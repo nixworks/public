@@ -23,7 +23,7 @@ Canadian far right activist Lauren Southern has been refused entry to the UK. Ms
 ### [A private plane from Sharjah to Istanbul crashes in the Zagros Mountains in Iran, killing Turkish socialite Mina Basaran along with, according to Iranian state media, ten other people on board. ](/news/2018/03/11/a-private-plane-from-sharjah-to-istanbul-crashes-in-the-zagros-mountains-in-iran-killing-turkish-socialite-mina-baaaran-along-with-accord.md)
 The daughter of a top businessman and her seven friends died along with three crew members when a private plane crashed&nbsp;on Sunday&nbsp;
 
-##### 2018 New York City helicopter incident
+##### 2018 New York City helicopter crash
 ### [A helicopter crash in Manhattan's East River kills five people. ](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-kills-five-people.md)
 Five people died after a helicopter experienced engine trouble and crashed in the East River in Manhattan Sunday evening.
 

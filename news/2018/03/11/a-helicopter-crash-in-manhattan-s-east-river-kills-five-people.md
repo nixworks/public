@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/11/a-helicopter-crash-in-manhattan-s-east-river-ki
 
 ### [2018-03-11](/news/2018/03/11/index.md)
 
-##### 2018 New York City helicopter incident
+##### 2018 New York City helicopter crash
 # A helicopter crash in Manhattan's East River kills five people. 
 
 Five people died after a helicopter experienced engine trouble and crashed in the East River in Manhattan Sunday evening.
