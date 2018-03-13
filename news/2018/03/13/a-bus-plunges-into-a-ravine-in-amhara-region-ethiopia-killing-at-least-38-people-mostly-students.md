@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/13/a-bus-plunges-into-a-ravine-in-amhara-region-et
 
 ### [2018-03-13](/news/2018/03/13/index.md)
 
-##### Amhara Region
+##### Bus plunge
 # A bus plunges into a ravine in Amhara Region, Ethiopia, killing at least 38 people, mostly students. 
 
 ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged into a ravine in Ethiopia&#039;s mountainous north on Monday, police said. Ten people survived the crash that took place in the Amhara region, police commander Mohammed Ahmed said. &#034;The majority of victims were students,&#034; he told Amhara Mass Media Agency. Deadly traffic accidents are common in Ethiopia, where driving standards are poor and many vehicles badly maintained. (Reporting by Aaron Maasho; editing by Elias Biryabarema)
@@ -20,4 +20,4 @@ ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged
 2. [Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. ](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.md) _Context: Ethiopia_
 3. [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md) _Context: Amhara Region_
 4. [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md) _Context: Ethiopia_
-5. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Ethiopia_
+5. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: bus plunge_

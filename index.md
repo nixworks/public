@@ -11,7 +11,11 @@ The move brings major changes as the United States deals with delicate foreign p
 ### [Iraqi Prime Minister Haider al-Abadi lifts a ban on international air travel to the Kurdistan Region. ](/news/2018/03/13/iraqi-prime-minister-haider-al-abadi-lifts-a-ban-on-international-air-travel-to-the-kurdistan-region.md)
 Iraqi&#x20;Prime&#x20;Minister&#x20;Haider&#x20;al-Abadi&#x20;said&#x20;in&#x20;a&#x20;decree&#x20;on&#x20;Tuesday&#x20;he&#x20;would&#x20;lift&#x20;a&#x20;ban&#x20;on&#x20;international&#x20;air&#x20;traffic&#x20;to&#x20;the&#x20;Kurdistan&#x20;Region&#x20;and&#x20;flights&#x20;could&#x20;resume&#x...
 
-##### Amhara Region
+##### Germany-United States relations
+### [German deputy foreign minister Michael Roth states that the firing of U.S. Secretary of State Rex Tillerson will "not lead" to an improvement in the countries' ties. ](/news/2018/03/13/german-deputy-foreign-minister-michael-roth-states-that-the-firing-of-u-s-secretary-of-state-rex-tillerson-will-not-lead-to-an-improvemen.md)
+The firing of U.S. Secretary of State Rex Tillerson will not lead to an improvement in strained ties with Germany, Deputy Foreign Minister Michael Roth said on Tuesday.
+
+##### Bus plunge
 ### [A bus plunges into a ravine in Amhara Region, Ethiopia, killing at least 38 people, mostly students. ](/news/2018/03/13/a-bus-plunges-into-a-ravine-in-amhara-region-ethiopia-killing-at-least-38-people-mostly-students.md)
 ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged into a ravine in Ethiopia&#039;s mountainous north on Monday, police said. Ten people survived the crash that took place in the Amhara region, police commander Mohammed Ahmed said. &#034;The majority of victims were stu...
 
@@ -28,12 +32,16 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/12/index.md)
 
 ##### Russian interference in the 2016 United States elections
-### [Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, there was no collusion between the 2016 Trump campaign and the Russian government, and, contrary to the intelligence community's conclusions, that Russia did not have a preference for Donald Trump as a candidate. ](/news/2018/03/12/republicans-on-the-house-intelligence-committee-announce-the-end-of-their-russia-investigation-against-the-objections-of-democratic-members.md)
+### [Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, the 2016 Trump campaign did not collude with the Russian government, and, contrary to the U.S. intelligence community's previous conclusions, Russia did not have a preference for Donald Trump as a presidential candidate. ](/news/2018/03/12/republicans-on-the-house-intelligence-committee-announce-the-end-of-their-russia-investigation-against-the-objections-of-democratic-members.md)
 House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
 
 ##### Austin package explosions
 ### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured one more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-one-more-appear-to-be-conne.md)
 _Context: Austin package explosions, Austin, Texas_
+
+##### Poisoning of Sergei and Yulia Skripal
+### [British Prime Minister Theresa May says she believes it is "highly likely" that the Russian government was behind an attempt to murder Sergei Skripal and his daughter using the Novichok agent. ](/news/2018/03/12/british-prime-minister-theresa-may-says-she-believes-it-is-highly-likely-that-the-russian-government-was-behind-an-attempt-to-murder-serge.md)
+British PM Theresa May told Parliament that a Russian-produced nerve agent had been used to poison Sergei Skripal and his daughter in Salisbury. The US has said those responsible should face &quot;serious consequences.&quot;
 
 ##### US-Bangla Airlines Flight 211
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)

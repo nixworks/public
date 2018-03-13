@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/12/republicans-on-the-house-intelligence-committee
 ### [2018-03-12](/news/2018/03/12/index.md)
 
 ##### Russian interference in the 2016 United States elections
-# Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, there was no collusion between the 2016 Trump campaign and the Russian government, and, contrary to the intelligence community's conclusions, that Russia did not have a preference for Donald Trump as a candidate. 
+# Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, the 2016 Trump campaign did not collude with the Russian government, and, contrary to the U.S. intelligence community's previous conclusions, Russia did not have a preference for Donald Trump as a presidential candidate. 
 
 House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
 
