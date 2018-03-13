@@ -29,7 +29,7 @@ The leaders of far-right extremist group Britain First have been jailed for anti
 
 ##### Australia-East Timor relations
 ### [Australia and East Timor sign a treaty for a permanent maritime border in the Timor Sea, ending a decade-long dispute over rights to the sea's rich oil and gas reserves. ](/news/2018/03/7/australia-and-east-timor-sign-a-treaty-for-a-permanent-maritime-border-in-the-timor-sea-ending-a-decade-long-dispute-over-rights-to-the-sea.md)
-_Context: Australia, Australia-East Timor relations, East Timor, Timor Sea_
+_Context: Australia, Australia-East Timor relations, East Timor, Timor Sea, treaty_
 
 ##### March 6-8, 2018 nor'easter
 ### [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md)
@@ -44,7 +44,7 @@ The helicopter presumably belonged to the Border Guard Service
 _Context: A message in a bottle, Australia, almost 132 years, message in a bottle_
 
 ##### 2018 Vienna stabbing
-### [Two connected stabbings occured in Vienna, Austria: three people were seriously injured outside a Japanese restaurant, and one man in a later stabbing. The perpetrator was arrested. ](/news/2018/03/7/two-connected-stabbings-occured-in-vienna-austria-three-people-were-seriously-injured-outside-a-japanese-restaurant-and-one-man-in-a-late.md)
+### [Two connected stabbings occurred in Vienna, Austria: three people were seriously injured outside a Japanese restaurant, and one man in a later stabbing. The perpetrator was arrested. ](/news/2018/03/7/two-connected-stabbings-occurred-in-vienna-austria-three-people-were-seriously-injured-outside-a-japanese-restaurant-and-one-man-in-a-lat.md)
 Four people were seriously wounded in two knife attacks in a district of the Austrian capital, Vienna, on Wednesday evening, but a motive or any connection between the assaults was unclear, a police spokesman said. The stabbings – the first of which took place at 7:45 p.m. (1845 GMT), occurred in ...
 
 ## [Previous Day...](/news/2018/03/6/index.md)

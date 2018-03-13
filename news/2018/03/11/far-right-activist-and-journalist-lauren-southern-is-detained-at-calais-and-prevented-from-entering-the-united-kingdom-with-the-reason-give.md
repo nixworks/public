@@ -11,14 +11,14 @@ Canadian far right activist Lauren Southern has been refused entry to the UK. Ms
 
 ### Sources:
 
-1. [Newsweek](http://www.newsweek.com/us-blogger-among-three-alt-right-activists-denied-entry-uk-840782)
-2. [The Evening Standard](https://www.standard.co.uk/news/uk/right-wing-canadian-activist-lauren-southern-detained-at-calais-and-barred-from-entering-uk-a3787886.html)
+1. [Fox News](http://www.foxnews.com/world/2018/03/12/right-wing-journalist-lauren-southern-denied-entry-to-uk-purportedly-over-criticism-islam.html)
+2. [The London Evening Standard](https://www.standard.co.uk/news/uk/right-wing-canadian-activist-lauren-southern-detained-at-calais-and-barred-from-entering-uk-a3787886.html)
 2. [Cover Image](https://www.standard.co.uk/s3fs-public/thumbnails/image/2018/03/12/15/laurensouthern1203a.jpg)
 
 ### Changes:
 
 1. [Activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-u.md) _2018-03-12 19:30:06 (First version)_
-2. [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md) _2018-03-12 21:30:06 (Update)_
+2. [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md) _2018-03-13 06:30:06 (Update)_
 2. [Far-right activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-give.md) _(Current version)_
 
 ### Related:
