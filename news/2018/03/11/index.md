@@ -16,7 +16,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ##### Visa policy of the United Kingdom
-### [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md)
+### [Far-right activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-give.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### 2018 Bombardier Challenger 604 crash
