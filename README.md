@@ -3,9 +3,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/12/index.md)
 
-##### Terrorism in the United States
-### [Police in Austin, Texas, announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-co.md)
-_Context: Austin, Texas, Terrorism in the United States_
+##### Russian interference in the 2016 United States elections
+### [Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, there was no collusion between the 2016 Trump campaign and the Russian government, and, contrary to the intelligence community's conclusions, that Russia did not have a preference for Donald Trump as a candidate. ](/news/2018/03/12/republicans-on-the-house-intelligence-committee-announce-the-end-of-their-russia-investigation-against-the-objections-of-democratic-members.md)
+House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
+
+##### Austin package explosions
+### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-con.md)
+_Context: Austin package explosions, Austin, Texas_
 
 ##### US-Bangla Airlines Flight 211
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
@@ -55,8 +59,8 @@ Rain is beginning to clear in the far north.
 
 ## [Day Before Yesterday](/news/2018/03/10/index.md)
 
-##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md)
+##### Visa policy of the United Kingdom
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are refused entry to the United Kingdom.](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-refused-entry-to-the-united-kingdom.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### Stoneman Douglas High School shooting
