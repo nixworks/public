@@ -3,9 +3,9 @@ Formats: [HTML](2007/08/10/index.html)  [JSON](2007/08/10/index.json)  [XML](200
 
 ## [2007-08-10](/news/2007/08/10/index.md)
 
-##### British
+##### United Kingdom
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
-_Context: British, Debby Reynolds, England, outbreak of 2007_
+_Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_
 
 ##### United States
 ### [ Envoys from the United States, European Union and Russia visit Serbia and Kosovo seeking a solution to the Kosovo issue. ](/news/2007/08/10/envoys-from-the-united-states-european-union-and-russia-visit-serbia-and-kosovo-seeking-a-solution-to-the-kosovo-issue.md)

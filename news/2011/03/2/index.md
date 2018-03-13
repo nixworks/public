@@ -35,9 +35,9 @@ _Context: Cypriot, Nicosia, Turkish, Turkish government_
 ### [Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. ](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.md)
 They&#39;re off the payroll until they decide about 2012.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
-_Context: British, British military personnel_
+_Context: British military personnel, United Kingdom_
 
 ##### German
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)

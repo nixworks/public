@@ -51,9 +51,9 @@ _Context: Iran, Sajjil, medium-range missile, nuclear program, surface-to-surfac
 ### [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md)
 Flood-hit south-east Queensland has been declared a natural disaster zone after the death of a man on the Gold Coast this afternoon.
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom's House of Lords suspends Thomas Taylor and Peter Truscott until November for misconduct. ](/news/2009/05/20/the-united-kingdom-s-house-of-lords-suspends-thomas-taylor-and-peter-truscott-until-november-for-misconduct.md)
-_Context: British, House of Lords, Peter Truscott, Thomas Taylor, misconduct, suspends_
+_Context: House of Lords, Peter Truscott, Thomas Taylor, United Kingdom, misconduct, suspends_
 
 ## [Previous Day...](/news/2009/05/19/index.md)
 

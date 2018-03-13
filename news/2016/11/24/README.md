@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/24/index.html)  [JSON](2016/11/24/index.json)  [XML](201
 
 ##### Grenadian constitutional referendum, 2016
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
-_Context: British, Grenada, Grenadian constitutional referendum, 2016_
+_Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_
 
 ##### Austrian presidential election, 2016
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)

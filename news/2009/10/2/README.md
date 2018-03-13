@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/2/index.html)  [JSON](2009/10/2/index.json)  [XML](2009/
 
 ##### BBC
 ### [ A bid to force publication of an internal BBC review of its Middle East coverage, "EastEnders" and "Top Gear" is rejected in the British High Court of Justice. ](/news/2009/10/2/a-bid-to-force-publication-of-an-internal-bbc-review-of-its-middle-east-coverage-eastenders-and-top-gear-is-rejected-in-the-british-hi.md)
-_Context: BBC, British, EastEnders, High Court, Middle East, Top Gear_
+_Context: BBC, EastEnders, High Court, Middle East, Top Gear, United Kingdom_
 
 ##### Mosque
 ### [ Thousands of people gather at a mosque in Guinea's capital, Conakry, to identify those killed in Monday's opposition rally against military rule. ](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.md)

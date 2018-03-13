@@ -43,7 +43,7 @@ _Context: Great St. Bernard Pass, Swiss_
 ### [ Marla Ruzicka, a US activist and aid worker, is killed by a car bomb in Iraq. ](/news/2005/04/17/marla-ruzicka-a-us-activist-and-aid-worker-is-killed-by-a-car-bomb-in-iraq.md)
 _Context: Iraq, Marla Ruzicka, activist, aid worker, car bomb_
 
-##### British
+##### United Kingdom
 ### [ Privacy groups in the United Kingdom along with opposition Liberal Democrats decry fingerprint passports as 'ID card by stealth'. ](/news/2005/04/17/privacy-groups-in-the-united-kingdom-along-with-opposition-liberal-democrats-decry-fingerprint-passports-as-id-card-by-stealth.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 

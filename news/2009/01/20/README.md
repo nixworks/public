@@ -15,9 +15,9 @@ _Context: 41st, Barack Obama, U.S. President, United States, black, first, inaug
 ### [ The Rwandan Defense Forces and Congolese Armed Forces jointly search the Democratic Republic of the Congo for Hutu leaders who participated in the 1994 Rwandan genocide. ](/news/2009/01/20/the-rwandan-defense-forces-and-congolese-armed-forces-jointly-search-the-democratic-republic-of-the-congo-for-hutu-leaders-who-participated.md)
 _Context: 1994, DR Congo, Hutu, Military of the Democratic Republic of the Congo, Rwanda, Rwandan Genocide, Rwandan army_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md)
-_Context: 2008, British_
+_Context: 2008, United Kingdom_
 
 ##### Kidnapped
 ### [ Kidnappers release Greek shipping magnate Periklis Panagopoulos after a record ransom payment. ](/news/2009/01/20/kidnappers-release-greek-shipping-magnate-periklis-panagopoulos-after-a-record-ransom-payment.md)

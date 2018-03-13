@@ -43,7 +43,7 @@ An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “nat
 ### [Australia's 2Day FM says it will donate advertising profits to a fund for the family of King Edward VII's Hospital nurse Jacintha Saldanha. ](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.md)
 The Australian radio station whose DJs made a hoax call to a nurse who was later found dead is to donate at least £320,000 to a fund set up for her family.
 
-##### British
+##### United Kingdom
 ### [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md)
 HSBC is to pay US authorities record penalties of $1.9bn (£1.2bn) after failing to prevent money passing to &quot;drug kingpins and rogue nations&quot;.
 

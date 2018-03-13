@@ -35,7 +35,7 @@ _Context: Boeing 737-300, Indonesia, Manokwari, Rendani Airport, overruns the ru
 
 ##### Conservative Party
 ### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
-_Context: 2010 general election, British, Conservative Party, David Cameron_
+_Context: 2010 general election, Conservative Party, David Cameron, United Kingdom_
 
 ##### Pakistan
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)

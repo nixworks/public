@@ -27,7 +27,7 @@ A senior Defense official told NBC News Monday that an American infrared satelli
 ### [At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean-with-flooding-reported-in-hadibu-the-pr.md)
 A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlled city of Mukalla, after battering the island of Socotra.
 
-##### British
+##### United Kingdom
 ### [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md)
 Scores of flights are cancelled and many more delayed by a second day of dense fog across much of the UK.
 

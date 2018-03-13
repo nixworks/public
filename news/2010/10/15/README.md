@@ -83,9 +83,9 @@ _Context: England, G4S, Jimmy Mubenga_
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
 _Context: 5th Stryker Brigade Combat Team, Afghanistan, United States soldier, court martial_
 
-##### British
+##### United Kingdom
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: British, Save the Children, Somalia_
+_Context: Save the Children, Somalia, United Kingdom_
 
 ##### United Nations
 ### [United Nations envoy Margot Wallstrom says Congolese government troops may have committed rape and murder in the Democratic Republic of the Congo weeks after similar attacks by rebels. ](/news/2010/10/15/united-nations-envoy-margot-wallstrapm-says-congolese-government-troops-may-have-committed-rape-and-murder-in-the-democratic-republic-of-the.md)

@@ -33,7 +33,7 @@ Military says two tunnels targeted while witnesses report several other explosio
 
 ##### Somali pirates
 ### [Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars-620-miles-off-the.md)
-_Context: British, Gulf of Aden, Horn of Africa, Indonesia, Somali pirates, seize_
+_Context: Gulf of Aden, Horn of Africa, Indonesia, Somali pirates, United Kingdom, seize_
 
 ##### Uganda
 ### [The Ugandan army announces it has killed Bok Abudema, a senior member of the Lord's Resistance Army, in the Central African Republic. ](/news/2010/01/2/the-ugandan-army-announces-it-has-killed-bok-abudema-a-senior-member-of-the-lord-s-resistance-army-in-the-central-african-republic.md)

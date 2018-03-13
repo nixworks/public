@@ -27,9 +27,9 @@ _Context: Brazil, Landless Workers' Movement_
 ### [ Monaco's Prince Rainier III dies at age 81. ](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.md)
 _Context: Monaco, Prince Rainier_
 
-##### British
+##### United Kingdom
 ### [ Murdered British banker Alistair Wilson is buried in Nairn. The murderer is still at large. ](/news/2005/04/6/murdered-british-banker-alistair-wilson-is-buried-in-nairn-the-murderer-is-still-at-large.md)
-_Context: Alistair Wilson, British, Nairn_
+_Context: Alistair Wilson, Nairn, United Kingdom_
 
 ##### United Nations
 ### [ The United Nations is looking at the allegations that some UN staff added false details to a UN document about the conflict of Rwanda and Democratic Republic of Congo. William Church, former UN employee and US intelligence analyst, says that some UN staff added false information about Rwandan military incursions to Congo last year. ](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.md)

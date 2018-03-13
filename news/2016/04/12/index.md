@@ -3,7 +3,7 @@ Formats: [HTML](2016/04/12/index.html)  [JSON](2016/04/12/index.json)  [XML](201
 
 ## [2016-04-12](/news/2016/04/12/index.md)
 
-##### British
+##### United Kingdom
 ### [ British cosmologist Stephen Hawking and Russian venture capitalist and physicist Yuri Milner announce " Breaktrough Starshot," a $100 million effort to plan a trip to the sun's closest stellar neighbor, Alpha Centauri, via developing nanotechnology that would put the craft within the star system roughly 20 years after leaving Earth. ](/news/2016/04/12/british-cosmologist-stephen-hawking-and-russian-venture-capitalist-and-physicist-yuri-milner-announce-breaktrough-starshot-a-100-milli.md)
 Russian venture capitalist and physicist Yuri Milner is teaming up with famed cosmologist Stephen Hawking on an ambitious space travel project.
 

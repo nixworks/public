@@ -37,7 +37,7 @@ _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
 
 ##### Strike
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
-_Context: British, London, National Union of Rail, Maritime and Transport Workers, strike_
+_Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
 
 ##### Demonstration
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)

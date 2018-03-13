@@ -9,7 +9,7 @@ A man with &quot;political and religious motives&quot; killed a soldier just out
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)
-_Context: British, Movement for the Emancipation of the Niger Delta, Niger Delta, hostage_
+_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, United Kingdom, hostage_
 
 ##### Taliban
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)

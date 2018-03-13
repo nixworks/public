@@ -45,7 +45,7 @@ _Context: North Korea, satellite_
 
 ##### Argentina
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
-_Context: Antarctica, Argentina, British, Chile, disputed region, territory_
+_Context: Antarctica, Argentina, Chile, United Kingdom, disputed region, territory_
 
 ##### United States
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
@@ -63,7 +63,7 @@ _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern
 ### [ Palau officially recognizes Kosovo. ](/news/2009/03/9/palau-officially-recognizes-kosovo.md)
 _Context: Kosovo, Kosovo, Palau_
 
-##### British
+##### United Kingdom
 ### [ A government in the United Kingdom is criticised by churches, politicians and Rowan Atkinson for its proposal to outlaw homophobic hatred. ](/news/2009/03/9/a-government-in-the-united-kingdom-is-criticised-by-churches-politicians-and-rowan-atkinson-for-its-proposal-to-outlaw-homophobic-hatred.md)
 Popular television characters could disappear from our screens if the Government succeeds in passing making homophobia a crime, the comedian Rowan Atkinson has warned.
 

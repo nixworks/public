@@ -11,9 +11,9 @@ _Context: Abidjan, Charles Konan Banny, Cte d'Ivoire, Prime Minister_
 ### [ Japan's Princess Kiko gives birth to a son by caesarean section. The as-yet unnamed boy is the first male heir born to the Japanese Imperial Family in more than 40 years, and will ultimately become Emperor if the current succession laws are unchanged. The child's father, Prince Akishino is the second son of Emperor Akihito. ](/news/2006/09/6/japan-s-princess-kiko-gives-birth-to-a-son-by-caesarean-section-the-as-yet-unnamed-boy-is-the-first-male-heir-born-to-the-japanese-imperia.md)
 _Context: Akihito, Japan, Prince Akishino, Princess Kiko, caesarean section_
 
-##### British
+##### United Kingdom
 ### [ In the United Kingdom junior defense minister Tom Watson and six Parliamentary Private Secretaries (Khalid Mahmood, Wayne David, Ian Lucas, Mark Tami, Chris Mole and David Wright) resign over Tony Blair's continuing refusal to declare when he will step down as Prime Minister. ](/news/2006/09/6/in-the-united-kingdom-junior-defense-minister-tom-watson-and-six-parliamentary-private-secretaries-khalid-mahmood-wayne-david-ian-lucas.md)
-_Context: British, Chris Mole, David Wright, Ian Lucas, Khalid Mahmood, Mark Tami, PPS, Prime Minister, Tom Watson, Tony Blair, Wayne David_
+_Context: Chris Mole, David Wright, Ian Lucas, Khalid Mahmood, Mark Tami, PPS, Prime Minister, Tom Watson, Tony Blair, United Kingdom, Wayne David_
 
 ##### Singaporean economy
 ### [ The Singaporean economy tops a list of 175 economies as the most business-friendly economy in the world in a survey conducted by the World Bank's International Finance Corporation. ](/news/2006/09/6/the-singaporean-economy-tops-a-list-of-175-economies-as-the-most-business-friendly-economy-in-the-world-in-a-survey-conducted-by-the-world.md)

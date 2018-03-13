@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/27/a-british-led-military-offensive-operation-pant
 
 ### [2009-07-27](/news/2009/07/27/index.md)
 
-##### British
+##### United Kingdom
 #  A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. 
 
 

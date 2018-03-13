@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/8/index.html)  [JSON](2012/10/8/index.json)  [XML](2012/
 
 ##### Strathclyde Police
 ### [Strathclyde Police warns against use of the legal intoxicant "Annihilation" (or "Mary Joy"), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shetland.md)
-_Context: Lancashire, Mary Joy, Shetland Isles, Strathclyde Police, Tyneside, legal intoxicant_
+_Context: Lancashire, Mary Joy, Shetland Isles, Strathclyde Police, Tyneside_
 
 ##### John B. Gurdon
 ### [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-sta.md)

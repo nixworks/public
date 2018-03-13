@@ -23,9 +23,9 @@ _Context: Reader's Digest, collapses into administration_
 ### [The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. ](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.md)
 _Context: Electoral Commission, Prime Minister of Ukraine, Supreme Administrative Court of Ukraine, Ukrainian presidential election, Viktor Yanukovych, Yulia Tymoshenko_
 
-##### British
+##### United Kingdom
 ### [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md)
-_Context: Belgium, British, Dutch, France, German, Halle train collision_
+_Context: Belgium, Dutch, France, German, Halle train collision, United Kingdom_
 
 ##### Kenya
 ### [Police in Kenya free five suspects held in connection with organising a gay wedding in a Mtwapa hotel. ](/news/2010/02/17/police-in-kenya-free-five-suspects-held-in-connection-with-organising-a-gay-wedding-in-a-mtwapa-hotel.md)

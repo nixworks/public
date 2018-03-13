@@ -9,7 +9,7 @@ _Context: Egypt, MV, Somali pirates, Somalia_
 
 ##### Bank of England
 ### [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-agbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
-_Context: Bank of England, British, Economy of the United Kingdom, GBP, quantitative easing_
+_Context: Bank of England, Economy of the United Kingdom, GBP, United Kingdom, quantitative easing_
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md)

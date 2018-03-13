@@ -25,11 +25,11 @@ Delphine Boël&#8217;s has been declared inadmissible by the Belgian Court in Br
 
 ##### Brexit
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
-_Context: Article 50 of the Treaty on European Union, Brexit, British, European Council, European Union, Prime Minister, Theresa May, signs a letter invoking_
+_Context: Article 50 of the Treaty on European Union, Brexit, European Council, European Union, Prime Minister, Theresa May, United Kingdom, signs a letter invoking_
 
 ##### Georgia-European Union relations
 ### [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md)
-_Context:  Georgian, British, European Union, Georgia-European Union relations, Irish, member states_
+_Context:  Georgian, European Union, Georgia-European Union relations, Irish, United Kingdom, member states_
 
 ##### Peruvian Airlines Flight 112
 ### [All 141 people on board Peruvian Airlines Flight 112 escape when the aircraft crashes on landing at Francisco Carle Airport, Jauja, Peru. ](/news/2017/03/28/all-141-people-on-board-peruvian-airlines-flight-112-escape-when-the-aircraft-crashes-on-landing-at-francisco-carle-airport-jauja-peru.md)

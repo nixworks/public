@@ -47,7 +47,7 @@ A replay of the controversial World Cup play-off match between France and the Re
 ### [ 200 European football matches are under investigation in a match-fixing inquiry, at least three from the UEFA Champions League and 12 from the UEFA Europa League as Europe's biggest ever match-fixing scandal is revealed. ](/news/2009/11/20/200-european-football-matches-are-under-investigation-in-a-match-fixing-inquiry-at-least-three-from-the-uefa-champions-league-and-12-from.md)
 _Context: Europe, Europe's biggest ever match-fixing scandal, UEFA Champions League, UEFA Europa League, football_
 
-##### British
+##### United Kingdom
 ### [ Officials from the United Kingdom, France, Germany, Russia, China and the United States express "regret" at Iran's refusal to accept nuclear proposals. ](/news/2009/11/20/officials-from-the-united-kingdom-france-germany-russia-china-and-the-united-states-express-regret-at-iran-s-refusal-to-accept-nuclea.md)
 Senior officials from six world powers expressed disappointment Friday that Iran had not accepted proposals intended to delay its potential ability to make nuclear bombs, and urged Tehran to reconsider.
 

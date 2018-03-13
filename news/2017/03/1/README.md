@@ -33,7 +33,7 @@ Russia and China have vetoed a UN Security Council proposal that would have bann
 
 ##### Georgia-European Union relations
 ### [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md)
-_Context:  Georgian, British, European Union, Georgia-European Union relations, Irish, member states_
+_Context:  Georgian, European Union, Georgia-European Union relations, Irish, United Kingdom, member states_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average rises above 21,000 points, reaching an all-time high. ](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2009/07/11/index.html)  [JSON](2009/07/11/index.json)  [XML](200
 
 ## [2009-07-11](/news/2009/07/11/index.md)
 
-##### British
+##### United Kingdom
 ### [ The UK announces that 8 British soldiers are killed in Afghanistan, the country's worst death toll in a 24-hour period. ](/news/2009/07/11/the-uk-announces-that-8-british-soldiers-are-killed-in-afghanistan-the-country-s-worst-death-toll-in-a-24-hour-period.md)
 Latest fatalities in Helmand push British death toll in the country past that in Iraq.
 

@@ -39,7 +39,7 @@ _Context: Cote d'Ivoire, ECOWAS_
 ### [Severe weather also continues in Ireland with water shortages in parts and public anger over incorrect weather forecasts. ](/news/2010/12/7/severe-weather-also-continues-in-ireland-with-water-shortages-in-parts-and-public-anger-over-incorrect-weather-forecasts.md)
 MET Eireann was the focus of public anger today as heavy falls of fresh snow came down, contrary to earlier forecasts.
 
-##### British
+##### United Kingdom
 ### [Hundreds of people are stranded in the United Kingdom as a cold spell continues. ](/news/2010/12/7/hundreds-of-people-are-stranded-in-the-united-kingdom-as-a-cold-spell-continues.md)
 Thousands of children enjoy a day off as heavy falls of fresh snow affect parts of Scotland, Northern Ireland and northern England.
 

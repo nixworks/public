@@ -19,9 +19,9 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 ### [Former South African president Nelson Mandela is discharged after spending nine days in hospital. ](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.md)
 Former president Nelson Mandela has been discharged after spending nine days in hospital for treatment for pneumonia, the presidency says. 
 
-##### British
+##### United Kingdom
 ### [A 24-year-old British tourist is found dead in a houseboat in Jammu and Kashmir, India. ](/news/2013/04/6/a-24-year-old-british-tourist-is-found-dead-in-a-houseboat-in-jammu-and-kashmir-india.md)
-_Context: British, India, Jammu and Kashmir, houseboat_
+_Context: India, Jammu and Kashmir, United Kingdom, houseboat_
 
 ##### Muslims
 ### [Five people are killed in clashes between Muslims and Christians on the outskirts of Cairo, Egypt. ](/news/2013/04/6/five-people-are-killed-in-clashes-between-muslims-and-christians-on-the-outskirts-of-cairo-egypt.md)

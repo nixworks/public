@@ -27,9 +27,9 @@ _Context: Ben Bernanke, Chairman of the Federal Reserve, Charles Plosser, Econom
 ### [ Steve Jobs takes a six-month medical leave of absence as CEO of Apple Inc. ](/news/2009/01/14/steve-jobs-takes-a-six-month-medical-leave-of-absence-as-ceo-of-apple-inc.md)
 _Context: Apple Inc., CEO, Steve Jobs, leave of absence_
 
-##### British
+##### United Kingdom
 ### [ United Kingdom Opposition Leader David Cameron pledges to hold a referendum on the European Union's Lisbon Treaty if his Conservative Party is elected later this year. ](/news/2009/01/14/united-kingdom-opposition-leader-david-cameron-pledges-to-hold-a-referendum-on-the-european-union-s-lisbon-treaty-if-his-conservative-party.md)
-_Context: British, Conservative Party, David Cameron, European Union, Leader, Opposition, Treaty of Lisbon, referendum_
+_Context: Conservative Party, David Cameron, European Union, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
 
 ## [Previous Day...](/news/2009/01/13/index.md)
 

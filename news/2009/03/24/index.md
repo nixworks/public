@@ -23,9 +23,9 @@ A Tunisian pilot who paused to pray instead of taking emergency measures before 
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
 _Context: India, Indian Army, Insurgency in Jammu and Kashmir, Jammu and Kashmir, Kupwara District, militant, soldier_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
-_Context: British, Retail Prices Index_
+_Context: Retail Prices Index, United Kingdom_
 
 ##### South Africa
 ### [ South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. ](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.md)

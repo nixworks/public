@@ -37,7 +37,7 @@ _Context: Bauchi State, Nigeria_
 ### [ Former President of Indonesia Abdurrahman Wahid dies at the age of 69. ](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.md)
 _Context: Abdurrahman Wahid, Indonesia, President of Indonesia_
 
-##### British
+##### United Kingdom
 ### [ A British hostage is released alive in Iraq following over two and a half years of captivity in Iraq and Iran. ](/news/2009/12/30/a-british-hostage-is-released-alive-in-iraq-following-over-two-and-a-half-years-of-captivity-in-iraq-and-iran.md)
 A British hostage has been freed after more than two-and-a-half years in captivity in Iraq.
 

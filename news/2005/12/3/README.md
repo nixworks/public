@@ -21,7 +21,7 @@ _Context: Democratic Progressive Party, Kuomintang (Chinese Nationalist Party), 
 
 ##### European Union
 ### [ Talks on the new EU budget may not be completed under the United Kingdom's presidency, the UK's minister for Europe warns. ](/news/2005/12/3/talks-on-the-new-eu-budget-may-not-be-completed-under-the-united-kingdom-s-presidency-the-uk-s-minister-for-europe-warns.md)
-_Context: British, European Union_
+_Context: European Union, United Kingdom_
 
 ## [Previous Day...](/news/2005/12/2/index.md)
 

@@ -27,9 +27,9 @@ _Context: Finland, GAM, Indonesia, Jusuf Kalla, independence_
 ### [ Human Rights Watch states that tough methods of Thai leader Thaksin Shinawatra in the south of the country may serve to invite more trouble ](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.md)
 _Context: Human Rights Watch, Thailand, Thaksin Shinawatra_
 
-##### British
+##### United Kingdom
 ### [ Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. ](/news/2005/02/25/three-british-soldiers-convicted-earlier-this-week-of-abusing-iraqi-prisoners-are-jailed-for-periods-between-five-months-and-two-years-and.md)
-_Context: British, Iraq_
+_Context: Iraq, United Kingdom_
 
 ##### Amsterdam
 ### [ At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. ](/news/2005/02/25/at-amsterdam-s-schiphol-airport-an-armoured-car-is-hijacked-on-the-cargo-ramp-unconfirmed-reports-say-that-it-contained-diamonds-and-other.md)

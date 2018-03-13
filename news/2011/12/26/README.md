@@ -17,7 +17,7 @@ _Context: Scandinavians_
 
 ##### Brazil
 ### [Brazil surpasses the United Kingdom to become the world's sixth-largest economy. ](/news/2011/12/26/brazil-surpasses-the-united-kingdom-to-become-the-world-s-sixth-largest-economy.md)
-_Context: Brazil, British, sixth-largest economy_
+_Context: Brazil, United Kingdom, sixth-largest economy_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Renewed violence takes place in the city of Homs as Arab League observers arrive in Syria to monitor the country's ongoing uprising. ](/news/2011/12/26/2011-syrian-uprising-renewed-violence-takes-place-in-the-city-of-homs-as-arab-league-observers-arrive-in-syria-to-monitor-the-country-s-ong.md)

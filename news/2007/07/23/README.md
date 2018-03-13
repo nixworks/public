@@ -43,9 +43,9 @@ The United States accused Iran in talks on Tuesday of increasing support for mil
 ### [ The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. ](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexican-citizen-accused-of-making-large-amounts-of-crystal-meth-in-a-laboratory.md)
 The United States arrested on Monday a Mexican laboratory owner accused of helping make huge quantities of crystal meth, four months after police found $206 million cash in his Mexico City mansion.
 
-##### British
+##### United Kingdom
 ### [ The British MP George Galloway is thrown out of the House of Commons chamber and then suspended for 18 days after an inquiry into his Mariam Appeal campaign. ](/news/2007/07/23/the-british-mp-george-galloway-is-thrown-out-of-the-house-of-commons-chamber-and-then-suspended-for-18-days-after-an-inquiry-into-his-maria.md)
-_Context: British, British House of Commons, George Galloway, Mariam Appeal_
+_Context: British House of Commons, George Galloway, Mariam Appeal, United Kingdom_
 
 ## [Previous Day...](/news/2007/07/22/index.md)
 

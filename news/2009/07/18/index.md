@@ -15,9 +15,9 @@ _Context: Muni Metro, San Francisco, United States, West Portal Station, collisi
 ### [ China admits it shot dead 12 rioters in one riot incident in rmqi. ](/news/2009/07/18/china-admits-it-shot-dead-12-rioters-in-one-riot-incident-in-urumqi.md)
 _Context: China, riots, rmqi_
 
-##### British
+##### United Kingdom
 ### [ Over 100 UK and US schoolchildren and teachers are quarantined in Beijing due to swine flu. ](/news/2009/07/18/over-100-uk-and-us-schoolchildren-and-teachers-are-quarantined-in-beijing-due-to-swine-flu.md)
-_Context: Beijing, British, United States, swine flu_
+_Context: Beijing, United Kingdom, United States, swine flu_
 
 ##### Brazil
 ### [ Brazil demands the return of over 1,400 tonnes of hazardous British waste. ](/news/2009/07/18/brazil-demands-the-return-of-over-1-400-tonnes-of-hazardous-british-waste.md)

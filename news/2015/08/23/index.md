@@ -15,9 +15,9 @@ The remains of two dozen people have been found near the border with Thailand, p
 ### [North and South Korea resume talks in the border village of Panmunjon in efforts to defuse recent tensions. ](/news/2015/08/23/north-and-south-korea-resume-talks-in-the-border-village-of-panmunjon-in-efforts-to-defuse-recent-tensions.md)
 _Context: North Korea, Panmunjon, South Korea_
 
-##### British
+##### United Kingdom
 ### [Britain and Iran reopen embassies in each others' capitals that had been closed after Iranian protesters stormed the British embassy on November 29, 2011. ](/news/2015/08/23/britain-and-iran-reopen-embassies-in-each-others-capitals-that-had-been-closed-after-iranian-protesters-stormed-the-british-embassy-on-nove.md)
-_Context: British, Iran_
+_Context: Iran, United Kingdom_
 
 ##### 2015 Shoreham Airshow crash
 ### [The number of fatalities in the 2015 Shoreham Airshow crash is "highly likely" to have risen to 11. ](/news/2015/08/23/the-number-of-fatalities-in-the-2015-shoreham-airshow-crash-is-highly-likely-to-have-risen-to-11.md)

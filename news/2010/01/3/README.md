@@ -21,7 +21,7 @@ _Context: Alberto Fujimori, President, Supreme Court of Peru, human rights_
 
 ##### United States
 ### [The United States and United Kingdom close their embassies in Yemen, citing threats from Al-Qaeda. ](/news/2010/01/3/the-united-states-and-united-kingdom-close-their-embassies-in-yemen-citing-threats-from-al-qaeda.md)
-_Context: British, United States, Yemen, al-Qaeda_
+_Context: United Kingdom, United States, Yemen, al-Qaeda_
 
 ##### Diesel fuel
 ### [Hundreds of people attempt to control a large diesel leak into a major tributary of the Yellow River, the Wei River, in Shaanxi, China. ](/news/2010/01/3/hundreds-of-people-attempt-to-control-a-large-diesel-leak-into-a-major-tributary-of-the-yellow-river-the-wei-river-in-shaanxi-china.md)

@@ -23,7 +23,7 @@ _Context: Homo floresiensis, dwarfism, microcephaly_
 ### [ U.S. President Barack Obama's job approval rating slips below 50 percent in a daily tracking survey by Gallup poll. ](/news/2009/11/21/u-s-president-barack-obama-s-job-approval-rating-slips-below-50-percent-in-a-daily-tracking-survey-by-gallup-poll.md)
 _Context: Barack Obama, Gallup poll, U.S. President_
 
-##### British
+##### United Kingdom
 ### [ British Prime Minister Gordon Brown travels to Cumbria to meet victims of the floods that have affected the area. ](/news/2009/11/21/british-prime-minister-gordon-brown-travels-to-cumbria-to-meet-victims-of-the-floods-that-have-affected-the-area.md)
 Parts of the south and west are on high alert this evening as more rain and high winds are forecast.
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/2/index.html)  [JSON](2009/02/2/index.json)  [XML](2009/
 
 ##### Wildcat strikes
 ### [ Wildcat strikes spread across the United Kingdom. ](/news/2009/02/2/wildcat-strikes-spread-across-the-united-kingdom.md)
-_Context: British, Wildcat strikes, spread_
+_Context: United Kingdom, Wildcat strikes, spread_
 
 ##### Israel
 ### [ The Israel Defense Forces bomb the Gaza Strip in response to Palestinian rocket and mortar fire. ](/news/2009/02/2/the-israel-defense-forces-bomb-the-gaza-strip-in-response-to-palestinian-rocket-and-mortar-fire.md)

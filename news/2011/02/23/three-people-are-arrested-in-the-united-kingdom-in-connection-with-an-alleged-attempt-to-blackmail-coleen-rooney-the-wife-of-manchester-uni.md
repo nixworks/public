@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom
 
 ### [2011-02-23](/news/2011/02/23/index.md)
 
-##### British
+##### United Kingdom
 # Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom
 
 ### Related:
 
-1. [The United Kingdom Professional Footballers' Association votes Wayne Rooney as "player of the year". ](/news/2010/04/25/the-united-kingdom-professional-footballers-association-votes-wayne-rooney-as-player-of-the-year.md) _Context: British, Wayne Rooney_
-2. [ Wikipedia is ordered by a senior British judge to breach its confidentiality after a woman pleaded for help in identifying an alleged blackmailer. ](/news/2009/12/2/wikipedia-is-ordered-by-a-senior-british-judge-to-breach-its-confidentiality-after-a-woman-pleaded-for-help-in-identifying-an-alleged-black.md) _Context: British, blackmail_
-3. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: British_
-4. [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen to 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md) _Context: British_
-5. [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-a-hospital-in-critical-condition-after-being-exposed-to-an-unknown-s.md) _Context: British_
+1. [The United Kingdom Professional Footballers' Association votes Wayne Rooney as "player of the year". ](/news/2010/04/25/the-united-kingdom-professional-footballers-association-votes-wayne-rooney-as-player-of-the-year.md) _Context: United Kingdom, Wayne Rooney_
+2. [ Wikipedia is ordered by a senior British judge to breach its confidentiality after a woman pleaded for help in identifying an alleged blackmailer. ](/news/2009/12/2/wikipedia-is-ordered-by-a-senior-british-judge-to-breach-its-confidentiality-after-a-woman-pleaded-for-help-in-identifying-an-alleged-black.md) _Context: United Kingdom, blackmail_
+3. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: United Kingdom_
+4. [Paul Golding and Jayda Fransen, leader and deputy of the British far-right organization Britain First, are convicted of hate crimes for posting things deemed offensive online. Golding is sentenced to 36 weeks in prison and Fransen to 18 weeks in prison for promoting Islamophobic activities and harassment. ](/news/2018/03/7/paul-golding-and-jayda-fransen-leader-and-deputy-of-the-british-far-right-organization-britain-first-are-convicted-of-hate-crimes-for-post.md) _Context: United Kingdom_
+5. [Former Secret Intelligence Service (MI6) spy Sergei Skripal is taken to a hospital in critical condition after being exposed to an unknown substance in Wiltshire, United Kingdom. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and Russia in 2010. ](/news/2018/03/5/former-secret-intelligence-service-mi6-spy-sergei-skripal-is-taken-to-a-hospital-in-critical-condition-after-being-exposed-to-an-unknown-s.md) _Context: United Kingdom_

@@ -3,7 +3,7 @@ Formats: [HTML](2010/06/13/index.html)  [JSON](2010/06/13/index.json)  [XML](201
 
 ## [2010-06-13](/news/2010/06/13/index.md)
 
-##### British
+##### United Kingdom
 ### [Official documents say the United Kingdom's government considered denying the Korea DPR national football team visas to attend the 1966 FIFA World Cup in England for fear of "diplomatic shockwaves" brought on by Communism. ](/news/2010/06/13/official-documents-say-the-united-kingdom-s-government-considered-denying-the-korea-dpr-national-football-team-visas-to-attend-the-1966-fifa.md)
 The government considered denying North Korea visas to attend the 1966 World Cup, official documents have revealed.
 

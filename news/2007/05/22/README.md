@@ -7,9 +7,9 @@ Formats: [HTML](2007/05/22/index.html)  [JSON](2007/05/22/index.json)  [XML](200
 ### [ Iraq War: A car bomb kills 25 people and injures at least 60 in a commercial area in southwestern Baghdad. ](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.md)
 _Context: Baghdad, Iraq War, car bomb_
 
-##### British
+##### United Kingdom
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, British, Crown Prosecution Service, KGB_
+_Context: Alexander Litvinenko, Andrei Lugovoi, Crown Prosecution Service, KGB, United Kingdom_
 
 ##### United States
 ### [ The U.S. National Oceanic and Atmospheric Administration issues its forecast for an above-normal 2007 Atlantic hurricane season with 13 to 17 named storms, 7 to 10 hurricanes and 3 to 5 major hurricanes. ](/news/2007/05/22/the-u-s-national-oceanic-and-atmospheric-administration-issues-its-forecast-for-an-above-normal-2007-atlantic-hurricane-season-with-13-to.md)

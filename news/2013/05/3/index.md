@@ -27,7 +27,7 @@ _Context: Arizona Cardinals, Daryl Washington, NFL, Phoenix, Arizona_
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
 _Context: Benazir Bhutto, Federal Investigation Agency, Islamabad, Pakistan, Pervez Musharraf, president_
 
-##### British
+##### United Kingdom
 ### [British Brian Shivers is acquitted of any involvement in the 2009 Massereene Barracks shooting. Mr. Shivers, who has cystic fibrosis, has his life sentence overturned, having been jailed since January 2012 in what his solicitor describes as a miscarriage of justice. ](/news/2013/05/3/british-brian-shivers-is-acquitted-of-any-involvement-in-the-2009-massereene-barracks-shooting-mr-shivers-who-has-cystic-fibrosis-has-hi.md)
 There has been mixed reaction over the Brian Shivers not guilty verdict.
 

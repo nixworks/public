@@ -33,7 +33,7 @@ _Context: New Zealand_
 
 ##### Manchester
 ### [ In Manchester, UK, 30 police raid a house at 5 a.m. and arrest a 40-year-old man on suspicion of involvement in suicide bombings in Iraq. Another man resident in the same house is believed to have gone to Iraq in February to carry out a bombing. Last week, police in Spain and Germany also made arrests in connection with bombings in Iraq, but it is not known if the cases are related. ](/news/2005/06/21/in-manchester-uk-30-police-raid-a-house-at-5-a-m-and-arrest-a-40-year-old-man-on-suspicion-of-involvement-in-suicide-bombings-in-iraq-a.md)
-_Context: British, German, Iraq, Manchester, Spanish, suicide bomb_
+_Context: German, Iraq, Manchester, Spanish, United Kingdom, suicide bomb_
 
 ##### Israel
 ### [ In Israel 8 people are killed and about 200 injured when a train is reported to have struck a truck on a level crossing near Kiryat Gat. ](/news/2005/06/21/in-israel-8-people-are-killed-and-about-200-injured-when-a-train-is-reported-to-have-struck-a-truck-on-a-level-crossing-near-kiryat-gat.md)

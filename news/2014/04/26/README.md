@@ -15,7 +15,7 @@ _Context: Abdullah Abdullah, Afghan, Afghan presidential election, 2014, Ashraf 
 ### [The death toll from recent flooding in northern Afghanistan rises to 123. ](/news/2014/04/26/the-death-toll-from-recent-flooding-in-northern-afghanistan-rises-to-123.md)
 _Context: Afghanistan_
 
-##### British
+##### United Kingdom
 ### [Five British ISAF personnel are killed in a military helicopter crash in Kandahar province in southern Afghanistan. ](/news/2014/04/26/five-british-isaf-personnel-are-killed-in-a-military-helicopter-crash-in-kandahar-province-in-southern-afghanistan.md)
 A UK helicopter has crashed in southern Afghanistan, killing all five British personnel on board, four of whom were stationed at the same Hampshire base.
 

@@ -29,7 +29,7 @@ _Context: Borneo, World Wildlife Fund, civet, lemur, mammal, mongoose, new speci
 
 ##### David Cameron
 ### [ David Cameron wins the leadership election for the United Kingdom Conservative Party. ](/news/2005/12/6/david-cameron-wins-the-leadership-election-for-the-united-kingdom-conservative-party.md)
-_Context: British, Conservative Party, David Cameron, leadership election_
+_Context: Conservative Party, David Cameron, United Kingdom, leadership election_
 
 ##### Iran
 ### [ An Iranian C-130 Hercules airplane crashes into a ten-story building in a civilian area of the Iranian capital Tehran, killing all 94 people aboard and 34 residents of the building - a total of 128+ people. ](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.md)

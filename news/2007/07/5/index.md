@@ -69,7 +69,7 @@ A forceful 6.1 magnitude earthquake shook two poor southern Mexican farming stat
 
 ##### Nigeria
 ### [ The Nigerian kidnappers of three-year-old British toddler Margaret Hill threaten to kill her, unless her father, Port Harcourt bar owner Mike Hill, takes her place. ](/news/2007/07/5/the-nigerian-kidnappers-of-three-year-old-british-toddler-margaret-hill-threaten-to-kill-her-unless-her-father-port-harcourt-bar-owner-mi.md)
-_Context: British, Nigeria, Port Harcourt_
+_Context: Nigeria, Port Harcourt, United Kingdom_
 
 ##### New York-New York Hotel & Casino
 ### [ A gunman opens fire at the New York-New York Hotel & Casino in Las Vegas, Nevada, wounding three before being captured. ](/news/2007/07/5/a-gunman-opens-fire-at-the-new-york-new-york-hotel-casino-in-las-vegas-nevada-wounding-three-before-being-captured.md)

@@ -11,9 +11,9 @@ _Context: California, State Route 118, U.S. Route 101, wildfire_
 ### [ The government of Macau takes over the management of Banco Delta Asia bank, after a US report on its North Korea ties caused a panic run on deposits. ](/news/2005/09/29/the-government-of-macau-takes-over-the-management-of-banco-delta-asia-bank-after-a-us-report-on-its-north-korea-ties-caused-a-panic-run-on.md)
 _Context: Banco Delta Asia, Macau, North Korea_
 
-##### British
+##### United Kingdom
 ### [ The UK Prime Minister Tony Blair has apologised to Walter Wolfgang, an 82-year old Labour Party activist thrown out of the party's annual conference by stewards for heckling Jack Straw. He was controversially arrested under anti-terrorist legislation. ](/news/2005/09/29/the-uk-prime-minister-tony-blair-has-apologised-to-walter-wolfgang-an-82-year-old-labour-party-activist-thrown-out-of-the-party-s-annual-c.md)
-_Context: British, Jack Straw, Labour Party, Prime Minister, Tony Blair, Walter Wolfgang_
+_Context: Jack Straw, Labour Party, Prime Minister, Tony Blair, United Kingdom, Walter Wolfgang_
 
 ##### Ian Huntley
 ### [ Ian Huntley, convicted of murdering two young girls, the Soham Murders, is sentenced to a minimum forty years in prison by a British court. ](/news/2005/09/29/ian-huntley-convicted-of-murdering-two-young-girls-the-soham-murders-is-sentenced-to-a-minimum-forty-years-in-prison-by-a-british-court.md)

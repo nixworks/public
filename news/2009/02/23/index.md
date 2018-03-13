@@ -41,7 +41,7 @@ _Context: Antarctica, Latham 47, Norway, Roald Amundsen, Royal Navy, explorer, f
 
 ##### MP
 ### [ Member of Parliament Peter Archer's report into the United Kingdom's tainted blood scandal chiefly blames United States pharmaceutical companies that provided contaminated blood plasma, thus infecting approximately 5,700 hemophiliacs with HIV or hepatitis C. ](/news/2009/02/23/member-of-parliament-peter-archer-s-report-into-the-united-kingdom-s-tainted-blood-scandal-chiefly-blames-united-states-pharmaceutical-comp.md)
-_Context: British, HIV, MP, Parliament, Peter Archer, United States, blood plasma, contaminated, hemophiliacs, hepatitis C, infecting, pharmaceutical, tainted blood scandal_
+_Context: HIV, MP, Parliament, Peter Archer, United Kingdom, United States, blood plasma, contaminated, hemophiliacs, hepatitis C, infecting, pharmaceutical, tainted blood scandal_
 
 ## [Previous Day...](/news/2009/02/22/index.md)
 

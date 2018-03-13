@@ -31,7 +31,7 @@ China sends 2,500 soldiers to boost rescue efforts in Yunnan province, after an 
 ### [Russian low-cost Dobrolet Airlines, Aeroflot's 100% subsidiary, suspends all flights, including to Crimea, over sanctions introduced by the European Union. ](/news/2014/08/4/russian-low-cost-dobrolet-airlines-aeroflot-s-100-subsidiary-suspends-all-flights-including-to-crimea-over-sanctions-introduced-by-the.md)
 _Context: Aeroflot, Crimea, Dobrolet Airlines, European Union_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom commemorates the 100th anniversary of its declaration of war against Germany in the First World War. ](/news/2014/08/4/the-united-kingdom-commemorates-the-100th-anniversary-of-its-declaration-of-war-against-germany-in-the-first-world-war.md)
 It is a date that marks the start of events that would go on to change the course of millions of lives – tomorrow is the 100th anniversary of the day Britain declared war on Germany and the First World War began.
 

@@ -7,9 +7,9 @@ Formats: [HTML](2007/02/8/index.html)  [JSON](2007/02/8/index.json)  [XML](2007/
 ### [ Seven alleged members of the Islamic Movement of Uzbekistan, an organization affiliated with Al-Qaeda, are on trial in Tajikistan. ](/news/2007/02/8/seven-alleged-members-of-the-islamic-movement-of-uzbekistan-an-organization-affiliated-with-al-qaeda-are-on-trial-in-tajikistan.md)
 _Context: Islamic Movement of Uzbekistan, Tajikistan, al-Qaeda_
 
-##### British
+##### United Kingdom
 ### [ British police arrest Abu Izzadeen, the spokesman for al Ghurabaa, an organization the British government has designated as terrorist, on charges of inciting terrorism. ](/news/2007/02/8/british-police-arrest-abu-izzadeen-the-spokesman-for-al-ghurabaa-an-organization-the-british-government-has-designated-as-terrorist-on-c.md)
-_Context: Abu Izzadeen, British, His Majesty's Government, al Ghurabaa_
+_Context: Abu Izzadeen, His Majesty's Government, United Kingdom, al Ghurabaa_
 
 ## [Previous Day...](/news/2007/02/7/index.md)
 

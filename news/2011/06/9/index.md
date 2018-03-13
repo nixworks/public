@@ -33,7 +33,7 @@ _Context: Saudi Arabia_
 
 ##### Eritrea
 ### [Eritrea accuses four Britons of espionage and terrorism. ](/news/2011/06/9/eritrea-accuses-four-britons-of-espionage-and-terrorism.md)
-_Context: British, Eritrea, espionage, terrorism_
+_Context: Eritrea, United Kingdom, espionage, terrorism_
 
 ##### IAEA
 ### [The International Atomic Energy Agency votes to report Syria to the United Nations Security Council over its alleged covert nuclear programme. ](/news/2011/06/9/the-international-atomic-energy-agency-votes-to-report-syria-to-the-united-nations-security-council-over-its-alleged-covert-nuclear-programm.md)

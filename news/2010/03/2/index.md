@@ -15,7 +15,7 @@ One of the killers of UK toddler James Bulger has been put back behind bars afte
 ### [A landslide in the Bududa District of Uganda results in at least 100 deaths. ](/news/2010/03/2/a-landslide-in-the-bududa-district-of-uganda-results-in-at-least-100-deaths.md)
 _Context: Bududa District, Monday night's mudslide, Uganda_
 
-##### British
+##### United Kingdom
 ### [In the United Kingdom, BBC Director General Mark Thompson confirms plans to close BBC 6 Music and the BBC Asian Network as part of a cost-cutting drive. The proposals will also see BBC Radio 7 rebranded as "BBC Radio 4 Extra" and cutbacks to the BBC website. ](/news/2010/03/2/in-the-united-kingdom-bbc-director-general-mark-thompson-confirms-plans-to-close-bbc-6-music-and-the-bbc-asian-network-as-part-of-a-cost-cu.md)
 The BBC will spend 90p of every licence fee pound on programmes, according to Mark Thompson, the head of the corporation.
 

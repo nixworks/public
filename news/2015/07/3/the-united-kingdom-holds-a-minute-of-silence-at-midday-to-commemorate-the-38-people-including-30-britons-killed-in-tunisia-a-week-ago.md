@@ -21,7 +21,7 @@ Formats: [HTML](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-
 
 ### Related:
 
-1. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _Context: British, Tunisia_
+1. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _Context: Tunisia, United Kingdom_
 2. [ Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md) _Context: 2015 Sousse attacks, Tunisia_
 3. [Tunisia arrests 127 people suspected of being members of terrorist groups following last month's attack. ](/news/2015/07/12/tunisia-arrests-127-people-suspected-of-being-members-of-terrorist-groups-following-last-month-s-attack.md) _Context: 2015 Sousse attacks, Tunisia_
 4. [Tunisia deploys an additional 1000 police in resorts and beaches following the attack on tourists on Friday. ](/news/2015/06/28/tunisia-deploys-an-additional-1000-police-in-resorts-and-beaches-following-the-attack-on-tourists-on-friday.md) _Context: 2015 Sousse attacks, Tunisia_

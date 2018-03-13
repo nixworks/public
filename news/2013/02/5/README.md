@@ -11,7 +11,7 @@ _Context: Curtis Cooper, University of Central Missouri, prime number_
 ### [The University of Dsseldorf strips German Minister of Education and Research Annette Schavan of a doctorate and degree following allegations of plagiarism. ](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.md)
 A German university votes to strip Education Minister Annette Schavan of her doctorate after an investigation into plagiarism allegations.
 
-##### British
+##### United Kingdom
 ### [The United Kingdom's House of Commons votes overwhelmingly in favour of government legislation to introduce same-sex marriages. ](/news/2013/02/5/the-united-kingdom-s-house-of-commons-votes-overwhelmingly-in-favour-of-government-legislation-to-introduce-same-sex-marriages.md)
 MPs approve same-sex marriage in England and Wales in a key Commons vote, although more Conservative MPs voted against the bill than for it.
 

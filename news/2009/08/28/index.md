@@ -33,7 +33,7 @@ _Context: Los Angeles County, California, Michael Jackson, United States, corone
 
 ##### Iceland
 ### [ Iceland's Althing votes in favour of repaying more than US$5 billion owed to the governments of the Netherlands and the United Kingdom as a result of the collapse of the Icesave bank. ](/news/2009/08/28/iceland-s-althing-votes-in-favour-of-repaying-more-than-us-5-billion-owed-to-the-governments-of-the-netherlands-and-the-united-kingdom-as-a.md)
-_Context: $, Althing, British, Dutch, Iceland, Icesave_
+_Context: $, Althing, Dutch, Iceland, Icesave, United Kingdom_
 
 ##### Japan
 ### [ Japan's unemployment rate reaches a record high of 5.7%. ](/news/2009/08/28/japan-s-unemployment-rate-reaches-a-record-high-of-5-7.md)

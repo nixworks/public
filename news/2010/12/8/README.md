@@ -7,7 +7,7 @@ Formats: [HTML](2010/12/8/index.html)  [JSON](2010/12/8/index.json)  [XML](2010/
 ### [Reproduction scientists in University of Texas MD Anderson Cancer Center create mice with nuclear DNA solely from two fathers, using iPStechnology. ](/news/2010/12/8/reproduction-scientists-in-university-of-texas-md-anderson-cancer-center-create-mice-with-nuclear-dna-solely-from-two-fathers-using-ipstech.md)
 _Context: University of Texas MD Anderson Cancer Center, iPS, nuclear DNA_
 
-##### British
+##### United Kingdom
 ### [A joint team of British and US astronomers announce the discovery of Wasp 12b, a planet (1200 light years away) with an ultra-high concentration of carbon, and the first of its type. ](/news/2010/12/8/a-joint-team-of-british-and-us-astronomers-announce-the-discovery-of-wasp-12b-a-planet-1200-light-years-away-with-an-ultra-high-concentra.md)
 A US-British team of astronomers has discovered the first planet with ultra-high concentrations of carbon.
 

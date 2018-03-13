@@ -25,7 +25,7 @@ _Context: Central Committee of the Communist Party of China, Communist Party of 
 
 ##### Yemeni Crisis (2011-present)
 ### [The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-terrorist-activities-and-continue.md)
-_Context: British, France, United States, Yemen, Yemeni Crisis (2011-present)_
+_Context: France, United Kingdom, United States, Yemen, Yemeni Crisis (2011-present)_
 
 ##### ''Costa Concordia'' disaster
 ### [A court in the city of Grosseto convicts the former captain of the "Costa Concordia", Francesco Schettino, of manslaughter for his part in the ship's January 2012 sinking, and sentences him to 16 years in jail. ](/news/2015/02/11/a-court-in-the-city-of-grosseto-convicts-the-former-captain-of-the-costa-concordia-francesco-schettino-of-manslaughter-for-his-part-in-t.md)

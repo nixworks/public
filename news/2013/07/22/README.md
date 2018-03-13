@@ -23,7 +23,7 @@ _Context: Mexico, Michoacan_
 ### [British Prime Minister David Cameron announces plans for every household in the UK to automatically have pornography blocked by their internet service provider, unless they choose otherwise. ](/news/2013/07/22/british-prime-minister-david-cameron-announces-plans-for-every-household-in-the-uk-to-automatically-have-pornography-blocked-by-their-intern.md)
 Most households in the UK will have pornography blocked by their internet provider unless they choose to receive it, David Cameron announces.
 
-##### British
+##### United Kingdom
 ### [British pharmaceutical company GlaxoSmithKline admits that some of its senior executives in China appear to have broken the law as part of a bribery scandal. ](/news/2013/07/22/british-pharmaceutical-company-glaxosmithkline-admits-that-some-of-its-senior-executives-in-china-appear-to-have-broken-the-law-as-part-of-a.md)
 British drugmaker GlaxoSmithKline said on Monday some of its executives in China appeared to have broken the law in a bribery scandal, as it promised changes in its business model that would lower the cost of medicine in the country.
 

@@ -19,9 +19,9 @@ _Context: 2009 ICC World Twenty20, England, India_
 ### [ Leaders gather in Yekaterinburg, Russia, ahead of a Shanghai Cooperation Organisation and the first ever BRIC summit. ](/news/2009/06/15/leaders-gather-in-yekaterinburg-russia-ahead-of-a-shanghai-cooperation-organisation-and-the-first-ever-bric-summit.md)
 _Context: BRIC, Russia, Shanghai Cooperation Organisation, Yekaterinburg, first ever_
 
-##### British
+##### United Kingdom
 ### [ British Prime Minister Gordon Brown announces that an independent inquiry into the country's role in the Iraq War will be held in private. ](/news/2009/06/15/british-prime-minister-gordon-brown-announces-that-an-independent-inquiry-into-the-country-s-role-in-the-iraq-war-will-be-held-in-private.md)
-_Context: British, Gordon Brown, Iraq War, Prime Minister, in private, independent inquiry_
+_Context: Gordon Brown, Iraq War, Prime Minister, United Kingdom, in private, independent inquiry_
 
 ##### Pierre Ngaiohni
 ### [ Pierre Ngaiohni is elected Vice President of New Caledonia. ](/news/2009/06/15/pierre-ngaiohni-is-elected-vice-president-of-new-caledonia.md)

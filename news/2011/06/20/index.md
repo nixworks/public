@@ -77,7 +77,7 @@ London Assembly Member Jenny Jones calls on the Westminster Council to put up a 
 
 ##### Anglican Church
 ### [The Anglican Church in the United Kingdom considers guidelines allowing openly homosexual clergy to become bishops. ](/news/2011/06/20/the-anglican-church-in-the-united-kingdom-considers-guidelines-allowing-openly-homosexual-clergy-to-become-bishops.md)
-_Context: Anglican Church, British, gay_
+_Context: Anglican Church, United Kingdom, gay_
 
 ##### Nepal
 ### [Nepal experiences its first lesbian wedding ceremony as a lawyer and a college professor tie the knot. ](/news/2011/06/20/nepal-experiences-its-first-lesbian-wedding-ceremony-as-a-lawyer-and-a-college-professor-tie-the-knot.md)

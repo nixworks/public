@@ -9,7 +9,7 @@ _Context: Donald Trump, Tax Cuts and Jobs Act of 2017, Tax reform in the United 
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Brexit, British, British passport, European Union, Home Office_
+_Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ##### Legislature
 ### [ Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament-while-the-unionist-citizens-party-secures-the-highest-n.md)

@@ -27,9 +27,9 @@ _Context: Baoding, Dasha River, Wangkuai Reservoir, coal tar_
 ### [ A video of a U.S. Marine singing a song, entitled "Hadji Girl", about the killing of Iraqi civilians, sparks outrage after being widely distributed on the Internet. Amidst huge condemnation, Cpl Joshua Belile issues an apology. A Marine spokesman, Lt. Col. Scott Fazekas, said that they were investigating. ](/news/2006/06/15/a-video-of-a-u-s-marine-singing-a-song-entitled-hadji-girl-about-the-killing-of-iraqi-civilians-sparks-outrage-after-being-widely-dis.md)
 A Marine corporal seen in a video singing about killing members of an Iraqi family says the song was a joke.
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom agrees to jail former Liberian president Charles Taylor if he is convicted, removing a key obstacle to a proposed trial to be held at The Hague under the auspices of the Special Court for Sierra Leone. ](/news/2006/06/15/the-united-kingdom-agrees-to-jail-former-liberian-president-charles-taylor-if-he-is-convicted-removing-a-key-obstacle-to-a-proposed-trial.md)
-_Context: British, Charles G. Taylor, Liberia, Special Court for Sierra Leone, The Hague_
+_Context: Charles G. Taylor, Liberia, Special Court for Sierra Leone, The Hague, United Kingdom_
 
 ##### United States armed forces
 ### [ The U.S. military suffers its 2500th fatal casualty in the Iraq war. 18,490 have been wounded. ](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.md)

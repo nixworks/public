@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/22/index.html)  [JSON](2005/12/22/index.json)  [XML](200
 
 ##### Tony Blair
 ### [ Tony Blair makes a surprise visit to Basra in Iraq, to address 4,000 British soldiers and discuss withdrawal. He states that "we can eventually draw down our own capability" once the Iraqi forces "build up their own strength". ](/news/2005/12/22/tony-blair-makes-a-surprise-visit-to-basra-in-iraq-to-address-4-000-british-soldiers-and-discuss-withdrawal-he-states-that-we-can-eventu.md)
-_Context: Basra, British, Iraq, Tony Blair, soldier_
+_Context: Basra, Iraq, Tony Blair, United Kingdom, soldier_
 
 ##### Acetylene
 ### [ Acetylene and hydrogen cyanide, precursors to life's basic ingredients (DNA and proteins), are found around a star in the constellation Ophiuchus. ](/news/2005/12/22/acetylene-and-hydrogen-cyanide-precursors-to-life-s-basic-ingredients-dna-and-proteins-are-found-around-a-star-in-the-constellation-oph.md)

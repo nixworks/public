@@ -17,5 +17,5 @@ Sony and Naughty Dog&#8217;s &#8220;The Last of Us&#8221; has received 13 D.I.C.
 
 ### Changes:
 
-1. ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md) _2018-03-11 03:50:58 (First version)_
+1. ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md) _2018-03-12 03:49:57 (First version)_
 1. ["The Last of Us" leads the nominations for the 17th DICE Awards. ](/news/2014/01/16/the-last-of-us-leads-the-nominations-for-the-17th-dice-awards.md) _(Current version)_

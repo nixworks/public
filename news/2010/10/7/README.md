@@ -11,9 +11,9 @@ Anti-apartheid figurehead Archbishop Desmond Tutu is retiring from public life, 
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
 _Context: Beatrix, Dutch, Mark Rutte, Prime Minister, VVD_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: British, Ed Miliband, Labour Party, Shadow Cabinet_
+_Context: Ed Miliband, Labour Party, Shadow Cabinet, United Kingdom_
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai charges his President Robert Mugabe with violating the constitution and unilateral decision-making. Mugabe and his party fail to respond in public. ](/news/2010/10/7/zimbabwean-prime-minister-morgan-tsvangirai-charges-his-president-robert-mugabe-with-violating-the-constitution-and-unilateral-decision-maki.md)

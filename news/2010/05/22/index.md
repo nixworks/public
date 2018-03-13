@@ -3,7 +3,7 @@ Formats: [HTML](2010/05/22/index.html)  [JSON](2010/05/22/index.json)  [XML](201
 
 ## [2010-05-22](/news/2010/05/22/index.md)
 
-##### British
+##### United Kingdom
 ### [A range of activities occur across the United Kingdom to mark the International Day for Biological Diversity. ](/news/2010/05/22/a-range-of-activities-occur-across-the-united-kingdom-to-mark-the-international-day-for-biological-diversity.md)
 A wide range of activities take place across the UK to celebrate International Day for Biological Diversity.
 

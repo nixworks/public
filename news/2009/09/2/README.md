@@ -67,7 +67,7 @@ _Context: Gmail, Google_
 ### [ A 7.3 magnitude earthquake occurs on at 14:55 local time on the Indonesian island of Java, killing at least 32 people. ](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.md)
 The death toll from a powerful earthquake in Indonesia, which killed at least 42 people and forced thousands to flee buildings, is likely to rise, government agencies said early on Thursday morning.
 
-##### British
+##### United Kingdom
 ### [ British energy company BP says it has drilled one of the deepest wells ever in the oil and gas industry as it made a "giant" discovery in the Gulf of Mexico. ](/news/2009/09/2/british-energy-company-bp-says-it-has-drilled-one-of-the-deepest-wells-ever-in-the-oil-and-gas-industry-as-it-made-a-giant-discovery-in-t.md)
 BP says it has drilled to one of the lowest depths ever in the oil and gas industry as it touts a “giant” discovery.
 

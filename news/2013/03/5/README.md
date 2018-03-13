@@ -15,7 +15,7 @@ Japanese carrier Willcom has just announced the Phone Strap 2 WX06A, which it ca
 ### [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md)
 _Context: California, Eric Garcetti, Los Angeles, United States, Wendy Greuel, mayoral election, second round_
 
-##### British
+##### United Kingdom
 ### [UK Secretary of State for Defence Philip Hammond announces the closure of four Army bases as part of a shake-up to accommodate the return of thousands of British troops stationed in Germany. ](/news/2013/03/5/uk-secretary-of-state-for-defence-philip-hammond-announces-the-closure-of-four-army-bases-as-part-of-a-shake-up-to-accommodate-the-return-of.md)
 Four Army bases are to close as part of a shake-up to accommodate thousands of troops returning from Germany.
 

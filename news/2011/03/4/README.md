@@ -79,7 +79,7 @@ Yemeni President Ali Abdullah Saleh rejected an opposition plan for him to step 
 ### [A bomb explodes outside a mosque in Peshawar in the Pakistani province of Khyber-Pakhtunkhwa with casualties feared. ](/news/2011/03/4/a-bomb-explodes-outside-a-mosque-in-peshawar-in-the-pakistani-province-of-khyber-pakhtunkhwa-with-casualties-feared.md)
 _Context: Khyber-Pakhtunkhwa, Pakistan, Peshawar, bomb, mosque_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom Foreign and Commonwealth Office is investigating claims that a man from the English city of Manchester has been killed in the 2011 Libyan civil war. ](/news/2011/03/4/the-united-kingdom-foreign-and-commonwealth-office-is-investigating-claims-that-a-man-from-the-english-city-of-manchester-has-been-killed-in.md)
 Libyan forces loyal to leader Muammar Gaddafi fought their way into a town near the capital that has for days defied his rule, killing a rebel commander and pinning fighters into pockets of resistance.
 

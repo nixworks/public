@@ -39,9 +39,9 @@ _Context: Tunisia_
 ### [A court in Zimbabwe frees 38 people detained for weeks on charges of attempting to overthrow President Robert Mugabe, after they watched videos of the Arab Spring. ](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.md)
 _Context: Arab Spring, President, Robert Mugabe, Zimbabwe_
 
-##### British
+##### United Kingdom
 ### [Britain upgrades its relation with Palestine to a mission, the second-highest rank.](/news/2011/03/7/britain-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank.md)
-_Context: British, Palestinian, its relation_
+_Context: Palestinian, United Kingdom, its relation_
 
 ##### Robert Gates
 ### [Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. ](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.md)

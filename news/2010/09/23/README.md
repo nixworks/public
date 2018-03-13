@@ -37,7 +37,7 @@ _Context: Barack Obama, Premier of the People's Republic of China, U.S. Presiden
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgium, British, Israel, Mahmoud Ahmadinejad, President, Spanish, Sweden, United Nations General Assembly, United States, United States government, Uruguay_
+_Context: 9/11 attacks, Australia, Belgium, Israel, Mahmoud Ahmadinejad, President, Spanish, Sweden, United Kingdom, United Nations General Assembly, United States, United States government, Uruguay_
 
 ##### Iran
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)

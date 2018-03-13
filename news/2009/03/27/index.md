@@ -7,9 +7,9 @@ Formats: [HTML](2009/03/27/index.html)  [JSON](2009/03/27/index.json)  [XML](200
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
 _Context: Claude Erignac, Corse-du-Sud, Corsica, Prefect, Yvan Colonna, life in prison, murder, nationalist_
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, British, Economy of the United Kingdom, first fiscal quarter_
+_Context: 4th quarter of 2007 and the second quarter of 2009, Economy of the United Kingdom, United Kingdom, first fiscal quarter_
 
 ##### The Lancet
 ### [ "The Lancet" accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)

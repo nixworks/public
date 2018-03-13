@@ -3,9 +3,9 @@ Formats: [HTML](2007/06/26/index.html)  [JSON](2007/06/26/index.json)  [XML](200
 
 ## [2007-06-26](/news/2007/06/26/index.md)
 
-##### British
+##### United Kingdom
 ### [ In the United Kingdom, hundreds of people are evacuated from villages in South Yorkshire, and a section of the M1 motorway is closed amid fears of an imminent collapse of the dam at the Ulley reservoir following heavy rainfall and widespread flooding across the UK. ](/news/2007/06/26/in-the-united-kingdom-hundreds-of-people-are-evacuated-from-villages-in-south-yorkshire-and-a-section-of-the-m1-motorway-is-closed-amid-f.md)
-_Context: British, June 2007 United Kingdom floods, M1 motorway, South Yorkshire, Ulley reservoir_
+_Context: June 2007 United Kingdom floods, M1 motorway, South Yorkshire, Ulley reservoir, United Kingdom_
 
 ##### Tony Blair
 ### [ Tony Blair and Arnold Schwarzenegger hold talks at 10 Downing Street on Blair's last day as Prime Minister; the environment and climate change are the primary issue. ](/news/2007/06/26/tony-blair-and-arnold-schwarzenegger-hold-talks-at-10-downing-street-on-blair-s-last-day-as-prime-minister-the-environment-and-climate-cha.md)

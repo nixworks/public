@@ -43,7 +43,7 @@ Members of eBay are being made to change their passwords after a cyber-attack co
 ### [General Motors announces that it is recalling 218,000 older model Chevrolet Aveos due to a fire hazard. ](/news/2014/05/21/general-motors-announces-that-it-is-recalling-218-000-older-model-chevrolet-aveos-due-to-a-fire-hazard.md)
 General Motors Co is recalling more than 284,000 older Chevrolet small cars in the United States and other markets because of a potential fire hazard, bringing U.S. recalls at the automaker this year to 29 and a record number of vehicles.
 
-##### British
+##### United Kingdom
 ### [Graham Phillips, a British national and reporter for the Russian TV network RT, is detained in Mariupol by the SBU. ](/news/2014/05/21/graham-phillips-a-british-national-and-reporter-for-the-russian-tv-network-rt-is-detained-in-mariupol-by-the-sbu.md)
 A British national working as a journalist for a Russian TV station is detained in Ukraine.
 
