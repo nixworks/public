@@ -23,6 +23,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/11/index.md)
 
+##### 2018 anti-Muslim riots in Sri Lanka
+### [The suspension of Facebook remains in place until the riots end. ](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-until-the-riots-end.md)
+_Context: 2018 anti-Muslim riots in Sri Lanka, Facebook_
+
 ##### Chilean general election, 2017
 ### [Sebastian Pinera takes office for the second time as President of Chile. ](/news/2018/03/11/sebastian-pia-era-takes-office-for-the-second-time-as-president-of-chile.md)
 Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his second term after being outsted in 2014, with promises to revive the economy.
@@ -52,7 +56,7 @@ Rain is beginning to clear in the far north.
 ## [Day Before Yesterday](/news/2018/03/10/index.md)
 
 ##### Censorship in the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md)
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### Stoneman Douglas High School shooting

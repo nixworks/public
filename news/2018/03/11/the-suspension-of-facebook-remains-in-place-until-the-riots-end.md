@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/11/the-suspension-of-facebook-remains-in-place-unt
 
 ### Sources:
 
-1. [The Sunday Times'' (Sri Lanka](http://www.sundaytimes.lk/180311/news/facebook-shut-down-till-emergency-is-lifted-285695.html)
+1. [The Sunday Times](http://www.sundaytimes.lk/180311/news/facebook-shut-down-till-emergency-is-lifted-285695.html)
 
 ### Related:
 
