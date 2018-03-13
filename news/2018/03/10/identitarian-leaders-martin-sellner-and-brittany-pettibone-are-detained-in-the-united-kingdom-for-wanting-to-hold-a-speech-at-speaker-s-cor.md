@@ -11,15 +11,16 @@ Canadian far right activist Lauren Southern has been refused entry to the UK. Ms
 
 ### Sources:
 
-1. [The London Evening Standard](https://www.standard.co.uk/news/uk/right-wing-canadian-activist-lauren-southern-detained-at-calais-and-barred-from-entering-uk-a3787886.html)
+1. [London Evening Standard](https://www.standard.co.uk/news/uk/right-wing-canadian-activist-lauren-southern-detained-at-calais-and-barred-from-entering-uk-a3787886.html)
 1. [Cover Image](https://www.standard.co.uk/s3fs-public/thumbnails/image/2018/03/12/15/laurensouthern1203a.jpg)
 
 ### Changes:
 
 1. [ Identitarian leader Martin Sellner and Brittany Pettibone are detained in the United Kingdom with reasons given that for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leader-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-with-reasons-given-that-for-wanting-to-hold-a.md) _2018-03-11 18:30:08 (First version)_
 2. [ Identitarian leaders Martin Sellner and Brittany Pettibone are refused entry to the UK.](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-refused-entry-to-the-uk.md) _2018-03-12 21:30:06 (Update)_
-3. [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md) _2018-03-12 23:30:07 (Update)_
-3. [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md) _(Current version)_
+3. [ Identitarian leaders Martin Sellner and Brittany Pettibone are refused entry to the United Kingdom.](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-refused-entry-to-the-united-kingdom.md) _2018-03-13 06:30:06 (Update)_
+4. [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the UK for wanting to hold a speech at Speaker's Corner in London and wanting to interview Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-uk-for-wanting-to-hold-a-speech-at-speaker-s-corner-in-londo.md) _2018-03-13 11:30:06 (Update)_
+4. [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md) _(Current version)_
 
 ### Related:
 
