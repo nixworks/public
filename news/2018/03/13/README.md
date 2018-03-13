@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/13/index.html)  [JSON](2018/03/13/index.json)  [XML](201
 ## [2018-03-13](/news/2018/03/13/index.md)
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump fires Rex Tillerson as United States Secretary of State, replacing him with CIA director Mike Pompeo. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-united-states-secretary-of-state-replacing-him-with-cia-director-mike-pompeo.md)
+### [U.S. President Donald Trump fires Rex Tillerson as United States Secretary of State, moving to replace him with CIA director Mike Pompeo. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-united-states-secretary-of-state-moving-to-replace-him-with-cia-director-mike-pompeo.md)
 The move bring major changes as the United States deals with delicate foreign policy efforts such as possible outreach to North Korea.
 
 ##### Argentine Navy

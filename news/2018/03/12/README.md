@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/12/index.html)  [JSON](2018/03/12/index.json)  [XML](201
 House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
 
 ##### Austin package explosions
-### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-con.md)
+### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured one more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-one-more-appear-to-be-conne.md)
 _Context: Austin package explosions, Austin, Texas_
 
 ##### US-Bangla Airlines Flight 211

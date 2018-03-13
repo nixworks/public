@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/13/index.md)
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump fires Rex Tillerson as United States Secretary of State, replacing him with CIA director Mike Pompeo. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-united-states-secretary-of-state-replacing-him-with-cia-director-mike-pompeo.md)
+### [U.S. President Donald Trump fires Rex Tillerson as United States Secretary of State, moving to replace him with CIA director Mike Pompeo. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-united-states-secretary-of-state-moving-to-replace-him-with-cia-director-mike-pompeo.md)
 The move bring major changes as the United States deals with delicate foreign policy efforts such as possible outreach to North Korea.
 
 ##### Argentine Navy
@@ -24,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
 
 ##### Austin package explosions
-### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured three more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-three-more-appear-to-be-con.md)
+### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured one more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-one-more-appear-to-be-conne.md)
 _Context: Austin package explosions, Austin, Texas_
 
 ##### US-Bangla Airlines Flight 211
@@ -52,7 +52,7 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
 ##### Visa policy of the United Kingdom
-### [Far-right activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-give.md)
+### [Far-right activist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-given-by-the-uk-hom.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### 2018 Bombardier Challenger 604 crash
