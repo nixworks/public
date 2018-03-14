@@ -11,6 +11,10 @@ The move brings major changes as the United States deals with delicate foreign p
 ### [Iraqi Prime Minister Haider al-Abadi lifts a ban on international air travel to the Kurdistan Region. ](/news/2018/03/13/iraqi-prime-minister-haider-al-abadi-lifts-a-ban-on-international-air-travel-to-the-kurdistan-region.md)
 Iraqi&#x20;Prime&#x20;Minister&#x20;Haider&#x20;al-Abadi&#x20;said&#x20;in&#x20;a&#x20;decree&#x20;on&#x20;Tuesday&#x20;he&#x20;would&#x20;lift&#x20;a&#x20;ban&#x20;on&#x20;international&#x20;air&#x20;traffic&#x20;to&#x20;the&#x20;Kurdistan&#x20;Region&#x20;and&#x20;flights&#x20;could&#x20;resume&#x...
 
+##### Japan-North Korea relations
+### [Japanese Prime Minister Shinzo Abe says that Japan is considering a summit meeting with North Korean leader Kim Jong-Un. ](/news/2018/03/13/japanese-prime-minister-shinza-abe-says-that-japan-is-considering-a-summit-meeting-with-north-korean-leader-kim-jong-un.md)
+_Context: Japan, Japan-North Korea relations, Japanese Prime Minister, Kim Jong-Un, North Korea, Shinzo Abe_
+
 ##### Amhara Region
 ### [A bus plunges into a ravine in the Amhara Region, Ethiopia, killing at least 38 people, mostly students. ](/news/2018/03/13/a-bus-plunges-into-a-ravine-in-the-amhara-region-ethiopia-killing-at-least-38-people-mostly-students.md)
 ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged into a ravine in Ethiopia&#039;s mountainous north on Monday, police said. Ten people survived the crash that took place in the Amhara region, police commander Mohammed Ahmed said. &#034;The majority of victims were stu...
