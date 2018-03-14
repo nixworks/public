@@ -8,10 +8,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
 ##### 2018 United States gun violence protests
-### [Students throughout the United States participate in walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-walkout-protest-against-gun-violence.md)
+### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
 
-##### Philippine
+##### International law and order
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 

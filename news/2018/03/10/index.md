@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/10/index.html)  [JSON](2018/03/10/index.json)  [XML](201
 ## [2018-03-10](/news/2018/03/10/index.md)
 
 ##### Visa policy of the United Kingdom
-### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom. ](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom.md)
+### [ Identitarian leaders Martin Sellner and Brittany Pettibone are detained in the United Kingdom for wanting to hold a speech at Speaker's Corner in London and wanting to interview English Defence League founder Tommy Robinson](/news/2018/03/10/identitarian-leaders-martin-sellner-and-brittany-pettibone-are-detained-in-the-united-kingdom-for-wanting-to-hold-a-speech-at-speaker-s-cor.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...
 
 ##### Stoneman Douglas High School shooting
