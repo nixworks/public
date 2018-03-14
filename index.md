@@ -7,11 +7,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Democrat Conor Lamb declares victory in the special election of Pennsylvania's 18th congressional district. The final vote could still be determined by a recount if at least three voters in each precinct petition for one. ](/news/2018/03/14/democrat-conor-lamb-declares-victory-in-the-special-election-of-pennsylvania-s-18th-congressional-district-the-final-vote-could-still-be-de.md)
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
+##### Politics of Germany
+### [Angela Merkel, Chancellor of Germany is elected and sworn in for a new term. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-chancellor-of-germany-is-elected-and-sworn-in-for-a-new-term-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chancel.md)
+Close vote before swear-in appears to underline scale of task at home and abroad for new government
+
 ##### 2018 United States gun violence protests
 ### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
 
-##### International law and order
+##### World order
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
@@ -40,7 +44,7 @@ The move brings major changes as the United States deals with delicate foreign p
 Iraqi&#x20;Prime&#x20;Minister&#x20;Haider&#x20;al-Abadi&#x20;said&#x20;in&#x20;a&#x20;decree&#x20;on&#x20;Tuesday&#x20;he&#x20;would&#x20;lift&#x20;a&#x20;ban&#x20;on&#x20;international&#x20;air&#x20;traffic&#x20;to&#x20;the&#x20;Kurdistan&#x20;Region&#x20;and&#x20;flights&#x20;could&#x20;resume&#x...
 
 ##### Japan-North Korea relations
-### [Anonymous government sources say that Japan is considering a summit meeting between Japanese Prime Minister Shinzo Abe and North Korean leader Kim Jong-Un. ](/news/2018/03/13/anonymous-government-sources-say-that-japan-is-considering-a-summit-meeting-between-japanese-prime-minister-shinza-abe-and-north-korean-lea.md)
+### [Anonymous Japanese government sources say that Japan is considering a summit meeting between Japanese Prime Minister Shinzo Abe and North Korean leader Kim Jong-Un. ](/news/2018/03/13/anonymous-japanese-government-sources-say-that-japan-is-considering-a-summit-meeting-between-japanese-prime-minister-shinza-abe-and-north-k.md)
 _Context: Japan, Japan-North Korea relations, Japanese Prime Minister, Kim Jong-Un, North Korea, Shinzo Abe_
 
 ##### Amhara Region

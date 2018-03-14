@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-
 
 ### [2018-03-14](/news/2018/03/14/index.md)
 
-##### International law and order
+##### World order
 # Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. 
 
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
