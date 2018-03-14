@@ -3,7 +3,7 @@ Formats: [HTML](2016/10/31/index.html)  [JSON](2016/10/31/index.json)  [XML](201
 
 ## [2016-10-31](/news/2016/10/31/index.md)
 
-##### Donald Trump presidential campaign
+##### 2016 Trump campaign
 ### [Kurt Eichenwald claims that Donald Trump and his businesses have been destroying documents, even in ongoing court cases and under subpoena, during the last decades. ](/news/2016/10/31/kurt-eichenwald-claims-that-donald-trump-and-his-businesses-have-been-destroying-documents-even-in-ongoing-court-cases-and-under-subpoena.md)
 The Trump strategy was deny, impede and delay, while destroying documents the court had ordered them to hand over.
 

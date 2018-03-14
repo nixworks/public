@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/08/14/9-people-are-killed-during-clashes-in-puntland.
 
 ### Changes:
 
-1. [2 more people are killed during protests in Kashmir. ](/news/2010/08/14/2-more-people-are-killed-during-protests-in-kashmir.md) _2018-03-12 03:36:33 (First version)_
+1. [2 more people are killed during protests in Kashmir. ](/news/2010/08/14/2-more-people-are-killed-during-protests-in-kashmir.md) _2018-03-13 03:36:52 (First version)_
 1. [9 people are killed during clashes in Puntland. ](/news/2010/08/14/9-people-are-killed-during-clashes-in-puntland.md) _(Current version)_
 
 ### Related:

@@ -31,9 +31,9 @@ _Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunh
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture "Monument to Humanity" -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
 _Context: $, Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdogan, Turkish, lira_
 
-##### Director of the CIA
+##### Director
 ### [Former CIA director and U.S. Army officer David Petraeus pleads guilty in federal court to a charge of unauthorized removal and retention of classified information. ](/news/2015/03/3/former-cia-director-and-u-s-army-officer-david-petraeus-pleads-guilty-in-federal-court-to-a-charge-of-unauthorized-removal-and-retention-of.md)
-_Context: David Petraeus, Director of the CIA, United States soldier_
+_Context: David Petraeus, Director, United States soldier_
 
 ##### North Korea
 ### [North Korea lifts restrictions on entry into the country imposed ostensibly to stop the spread of the Ebola virus. ](/news/2015/03/3/north-korea-lifts-restrictions-on-entry-into-the-country-imposed-ostensibly-to-stop-the-spread-of-the-ebola-virus.md)

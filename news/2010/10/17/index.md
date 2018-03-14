@@ -31,9 +31,9 @@ _Context: Rome, Italy_
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
 _Context: Afghanistan, Hossein Zolfaqari, Iran_
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md)
-_Context: Ayad Allawi, Iran, Iraq Prime Minister, Middle East_
+_Context: Ayad Allawi, Iran, Iraqi Prime Minister, Middle East_
 
 ##### Rwanda
 ### [A Rwandan opposition party, the United Democratic Forces, says that their, leader Victoire Ingabire Umuhoza, arrested last week, is being held in "intolerable and immoral" conditions without food or water. ](/news/2010/10/17/a-rwandan-opposition-party-the-united-democratic-forces-says-that-their-leader-victoire-ingabire-umuhoza-arrested-last-week-is-being-he.md)

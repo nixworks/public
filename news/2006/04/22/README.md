@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Iraq
 ### [ The Iraqi Parliament meet to vote on choosing a Prime Minister, only the second time since the December elections. The nominee Jawad al-Maliki has been put forward by the dominant Shia block. ](/news/2006/04/22/the-iraqi-parliament-meet-to-vote-on-choosing-a-prime-minister-only-the-second-time-since-the-december-elections-the-nominee-jawad-al-mal.md)
-_Context: Iraq, Iraq Prime Minister, Jawad al-Maliki, Shia_
+_Context: Iraq, Iraqi Prime Minister, Jawad al-Maliki, Shia_
 
 ##### Re-elected
 ### [ The first city-wide election in New Orleans after Hurricane Katrina takes place. ](/news/2006/04/22/the-first-city-wide-election-in-new-orleans-after-hurricane-katrina-takes-place.md)

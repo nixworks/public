@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/21/index.html)  [JSON](2015/12/21/index.json)  [XML](201
 
 ##### Future Iraqi Kurdistan independence referendum
 ### [President Massoud Barzani of Iraqi Kurdistan instructs senior party officials to work on preparations for holding a referendum to decide whether to secede from Iraq, a long-standing Kurdish aspiration. ](/news/2015/12/21/president-massoud-barzani-of-iraqi-kurdistan-instructs-senior-party-officials-to-work-on-preparations-for-holding-a-referendum-to-decide-whe.md)
-_Context: Future Iraqi Kurdistan independence referendum, Kurdish, Massoud Barzani_
+_Context: Future Iraqi Kurdistan independence referendum, Kurdistan Region, Massoud Barzani_
 
 ##### Israel
 ### [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-career.md)

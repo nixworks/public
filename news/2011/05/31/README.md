@@ -13,7 +13,7 @@ The Irish Independent, along with sister newspaper The Belfast Telegraph, have o
 
 ##### Adil Abdul-Mahdi
 ### [Adil Abdul-Mahdi, First Vice President of Iraq, resigns after Prime Minister Nouri Al-Maliki fends off critics who say he has not delivered on power-sharing promises. ](/news/2011/05/31/adil-abdul-mahdi-first-vice-president-of-iraq-resigns-after-prime-minister-nouri-al-maliki-fends-off-critics-who-say-he-has-not-delivered.md)
-_Context: Adil Abdul-Mahdi, Iraq Prime Minister, Nouri Al-Maliki, Vice President_
+_Context: Adil Abdul-Mahdi, Iraqi Prime Minister, Nouri Al-Maliki, Vice President_
 
 ##### Dalai Lama
 ### [The Dalai Lama formally relinquishes his political and administrative powers, following the exiled Tibetan parliament's amendment to its charter to relieve him of his political role; the Dalai Lama remains Tibetan Buddhists' spiritual figurehead. ](/news/2011/05/31/the-dalai-lama-formally-relinquishes-his-political-and-administrative-powers-following-the-exiled-tibetan-parliament-s-amendment-to-its-cha.md)

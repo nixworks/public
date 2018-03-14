@@ -21,7 +21,7 @@ _Context: Nikolai Makarov, Russia, Vladimir Putin_
 
 ##### CIA
 ### [CIA Director David Petraeus submits his resignation to President Barack Obama, citing an extramarital affair he had. ](/news/2012/11/9/cia-director-david-petraeus-submits-his-resignation-to-president-barack-obama-citing-an-extramarital-affair-he-had.md)
-_Context: Barack Obama, CIA, David Petraeus, Director of the CIA_
+_Context: Barack Obama, CIA, David Petraeus, Director_
 
 ##### ITV
 ### [The UK broadcaster ITV faces an investigation by the media regulator Ofcom after television presenter Phillip Schofield handed Prime Minister David Cameron an internet-generated list of potential suspects in a child abuse case involving a care home during a live interview on Thursday, and asked him to comment. ](/news/2012/11/9/the-uk-broadcaster-itv-faces-an-investigation-by-the-media-regulator-ofcom-after-television-presenter-phillip-schofield-handed-prime-ministe.md)

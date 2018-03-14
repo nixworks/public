@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/11/index.html)  [JSON](2015/08/11/index.json)  [XML](201
 
 ##### Iraq's parliament
 ### [The Parliament of Iraq approves a package of measures proposed by Prime Minister Haider al-Abadi to tackle corruption and to abolish senior posts. ](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.md)
-_Context: Haider al-Abadi, Iraq Prime Minister, Iraq's parliament_
+_Context: Haider al-Abadi, Iraq's parliament, Iraqi Prime Minister_
 
 ##### Puyallup, Washington
 ### [In Puyallup, Washington, a gunman on a mass shooting spree kills a man, then fired at homes and people before driving a stolen SUV through the garage door, crashing into several cars, and shooting at police until stopped when his SUV was rammed by a police car. ](/news/2015/08/11/in-puyallup-washington-a-gunman-on-a-mass-shooting-spree-kills-a-man-then-fired-at-homes-and-people-before-driving-a-stolen-suv-through-t.md)

@@ -15,7 +15,7 @@ President Dilma Rousseff of Brazil could lose the support of the biggest party i
 ### [Thousands of people take to the streets of Warsaw and other cities in Poland in protest against the government after it refused to publish the Constitutional Court's ruling that the government cannot change how the court works. ](/news/2016/03/12/thousands-of-people-take-to-the-streets-of-warsaw-and-other-cities-in-poland-in-protest-against-the-government-after-it-refused-to-publish-t.md)
 Thousands of people are protesting in the Polish capital Warsaw as a constitutional crisis between the government and the top court deepens.
 
-##### Donald Trump presidential campaign
+##### 2016 Trump campaign
 ### [A protestor attempts to storm the stage as Donald Trump was talking at a rally in Dayton, Ohio, causing Secret Service agents to jump on the stage and form a wall around the presidential candidate amid the chaos. The suspect was identified as Thomas Dimassimo, 32, and was charged with disorderly conduct and inducing panic, according to Chief Mike Etter of the Dayton Police Department. Dimassimo is a Black Lives Matter activist. ](/news/2016/03/12/a-protestor-attempts-to-storm-the-stage-as-donald-trump-was-talking-at-a-rally-in-dayton-ohio-causing-secret-service-agents-to-jump-on-the.md)
 &quot;I was ready for him, but it&#x27;s much easier if the cops do it,&quot; Trump said after the disturbance ended.
 
@@ -49,7 +49,7 @@ Rebels shot down a Syrian government warplane over western Syria on Saturday, re
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md)
-_Context: Kurdish, PKK, Turkey-PKK conflict (2015-present), Turkish Air Force_
+_Context: Kurdistan Region, PKK, Turkey-PKK conflict (2015-present), Turkish Air Force_
 
 ##### Israeli-Palestinian conflict
 ### [A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.md)

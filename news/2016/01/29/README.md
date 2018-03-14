@@ -45,7 +45,7 @@ Mexico will on Friday launch a long-delayed tender for one of the largest infras
 
 ##### Iraqi Civil War (2014-present)
 ### [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md)
-_Context: Iraqi Civil War (2014-present), Kurdish_
+_Context: Iraqi Civil War (2014-present), Kurdistan Region_
 
 ##### Terrorism in Saudi Arabia
 ### [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md)

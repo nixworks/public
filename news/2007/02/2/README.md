@@ -33,7 +33,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Ali Hassan Al Majeed
 ### [ Ali Hassan Al Majeed, commonly known as Chemical Ali, admits he ordered Iraqi troops to engage in genocide against the Kurds of Iraqi Kurdistan. He says the "emptying" of villages was justified because the Kurds assisted Iran forces in the Iran-Iraq war. ](/news/2007/02/2/ali-hassan-al-majeed-commonly-known-as-chemical-ali-admits-he-ordered-iraqi-troops-to-engage-in-genocide-against-the-kurds-of-iraqi-kurdi.md)
-_Context: Ali Hassan Al Majeed, Iran, Iran-Iraq war, Iraqi troops, Kurd, Kurdish, genocide_
+_Context: Ali Hassan Al Majeed, Iran, Iran-Iraq war, Iraqi troops, Kurd, Kurdistan Region, genocide_
 
 ## [Previous Day...](/news/2007/02/1/index.md)
 

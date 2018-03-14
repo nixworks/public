@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/19/index.html)  [JSON](2016/01/19/index.json)  [XML](201
 
 ##### 2016 U.S. election
 ### [Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin-endorses-republican-party-presidential-can.md)
-_Context: 2016 U.S. election, Donald Trump, Donald Trump presidential campaign, Governor of Alaska, Republican, Sarah Palin, Tea Party, U.S. President, vice presidential candidate_
+_Context: 2016 Trump campaign, 2016 U.S. election, Donald Trump, Governor of Alaska, Republican, Sarah Palin, Tea Party, U.S. President, vice presidential candidate_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court agrees to hear an appeal that may redefine the boundaries of insider trading in U.S. law and regulation, especially as it relates to tips shared among family and friends. ](/news/2016/01/19/the-u-s-supreme-court-agrees-to-hear-an-appeal-that-may-redefine-the-boundaries-of-insider-trading-in-u-s-law-and-regulation-especially-a.md)

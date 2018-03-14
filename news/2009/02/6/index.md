@@ -29,7 +29,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, government_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md)
-_Context: Ban Ki-moon, Iraq, Iraq Prime Minister, Nouri al-Maliki, United Nations, United Nations Secretary-General_
+_Context: Ban Ki-moon, Iraq, Iraqi Prime Minister, Nouri al-Maliki, United Nations, United Nations Secretary-General_
 
 ##### Pakistan
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. ](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.md)

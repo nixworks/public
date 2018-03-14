@@ -33,7 +33,7 @@ A poisonous gas leak at a fertiliser plant in south-west China has killed six pe
 
 ##### Nouri al-Maliki
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, states talks with the United States on a long-term security agreement have reached "a dead end". ](/news/2008/06/13/nouri-al-maliki-the-prime-minister-of-iraq-states-talks-with-the-united-states-on-a-long-term-security-agreement-have-reached-a-dead-end.md)
-_Context: Iraq Prime Minister, Nouri al-Maliki, United States_
+_Context: Iraqi Prime Minister, Nouri al-Maliki, United States_
 
 ##### Governor of Iowa
 ### [ The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as-flooding-leads-to-evacuations-in-cedar-r.md)

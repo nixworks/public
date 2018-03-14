@@ -17,7 +17,7 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 
 ##### July 2016 Baghdad bombings
 ### [Iraqi Interior Minister Mohammed Salem Al-Ghabban says he has submitted his resignation. Al-Ghabban cited a lack of "coordination among security systems" demonstrated by Sunday's bombings in Baghdad that killed over 200 people and injured at least 175 others. No report yet that Prime Minister Haider al-Abadi has accepted this resignation. ](/news/2016/07/5/iraqi-interior-minister-mohammed-salem-al-ghabban-says-he-has-submitted-his-resignation-al-ghabban-cited-a-lack-of-coordination-among-secu.md)
-_Context: Haider al-Abadi, Iraq Prime Minister, Iraqi Interior Minister, July 2016 Baghdad bombings, Mohammed Salem Al-Ghabban_
+_Context: Haider al-Abadi, Iraqi Interior Minister, Iraqi Prime Minister, July 2016 Baghdad bombings, Mohammed Salem Al-Ghabban_
 
 ##### Hillary Clinton email investigation
 ### [The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. ](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-about-her-actions-no-charges-be-filed-against-hillary-clinton-over-her-emails.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/15/index.html)  [JSON](2014/08/15/index.json)  [XML](201
 
 ##### Grand Ayatollah
 ### [Several influential Iraqis, including Grand Ayatollah Ali al-Sistani, Ali Hatem al-Suleiman, and a group of six leaders from Sunni provinces, state that they are willing to work with the new Prime Minister of Iraq, Haider Al-Abadi, if certain conditions are met. ](/news/2014/08/15/several-influential-iraqis-including-grand-ayatollah-ali-al-sistani-ali-hatem-al-suleiman-and-a-group-of-six-leaders-from-sunni-provinces.md)
-_Context: Ali Hatem al-Suleiman, Ali al-Sistani, Grand Ayatollah, Haider Al-Abadi, Iraq Prime Minister_
+_Context: Ali Hatem al-Suleiman, Ali al-Sistani, Grand Ayatollah, Haider Al-Abadi, Iraqi Prime Minister_
 
 ##### Philippines
 ### [The Philippines and the Moro Islamic Liberation Front reach a consensus regarding the creation of Bangsamoro. ](/news/2014/08/15/the-philippines-and-the-moro-islamic-liberation-front-reach-a-consensus-regarding-the-creation-of-bangsamoro.md)

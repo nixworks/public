@@ -65,7 +65,7 @@ _Context: 2015 Burundian unrest, Bujumbura, Burundi, assassinated_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Kurdish, PKK, Turkey-PKK conflict, Turkish Air Force_
+_Context: Kurdistan Region, PKK, Turkey-PKK conflict, Turkish Air Force_
 
 ##### Boko Haram insurgency
 ### [An improvised explosive device in a Yola, Nigeria displacement camp kills 7 people. ](/news/2015/09/11/an-improvised-explosive-device-in-a-yola-nigeria-displacement-camp-kills-7-people.md)

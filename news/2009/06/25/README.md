@@ -37,7 +37,7 @@ Venezuela and the United States said yesterday they will restore their ambassado
 
 ##### Legislative
 ### [ Campaigning begins for a legislative election in Iraqi Kurdistan. ](/news/2009/06/25/campaigning-begins-for-a-legislative-election-in-iraqi-kurdistan.md)
-_Context: Kurdish, legislative_
+_Context: Kurdistan Region, legislative_
 
 ##### Iran
 ### [ A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)

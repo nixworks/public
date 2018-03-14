@@ -15,7 +15,7 @@ The head of a Taiwanese company at the centre of a widening food safety scandal 
 ### [At least 29 people are missing after the ferry MV "Maharlika II" sinks off the Philippines coast. ](/news/2014/09/13/at-least-29-people-are-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-coast.md)
 _Context: Philippines_
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/the-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by-the-islamic-state-where-there-are-civ.md)
 Terrorist group ISIS released a video Saturday purportedly showing the execution of British aid worker David Cawthorne Haines.
 

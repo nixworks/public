@@ -3,7 +3,7 @@ Formats: [HTML](2014/08/14/index.html)  [JSON](2014/08/14/index.json)  [XML](201
 
 ## [2014-08-14](/news/2014/08/14/index.md)
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [Prime Minister Nouri al-Maliki withdraws both his candidacy and his complaint against President Fuad Masum for allegedly violating the Iraqi constitution. ](/news/2014/08/14/prime-minister-nouri-al-maliki-withdraws-both-his-candidacy-and-his-complaint-against-president-fuad-masum-for-allegedly-violating-the-iraqi.md)
 Iraqi Prime Minister Nouri Maliki resigns to end a political crisis in Baghdad, in a move that is welcomed by the US and UN.
 

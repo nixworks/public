@@ -27,9 +27,9 @@ _Context: ABN Amro, Barclays plc, euro_
 ### [ Three of the six members of the Bali Nine &ndash; Tan Duc Thanh Nguyen, Si Yi Chen and Matthew Norman &ndash; who were sentenced to death have launched a judicial review appeal with Denpasar's District Court. ](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.md)
 _Context: Bali Nine, Denpasar, Matthew Norman, Si Yi Chen, Tan Duc Thanh Nguyen, judicial review_
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [ Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-military-around-the.md)
-_Context: Adhamiyah, Baghdad, Iraq, Iraq Prime Minister, Nouri Maliki, Sunni, U.S. military, protest, three-mile wall_
+_Context: Adhamiyah, Baghdad, Iraq, Iraqi Prime Minister, Nouri Maliki, Sunni, U.S. military, protest, three-mile wall_
 
 ##### Russia
 ### [ Former Russian President Boris Yeltsin dies at the age of 76. ](/news/2007/04/23/former-russian-president-boris-yeltsin-dies-at-the-age-of-76.md)

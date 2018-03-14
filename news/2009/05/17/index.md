@@ -21,7 +21,7 @@ _Context: Armed Forces, National Police, Peru, indigenous Amazon groups_
 
 ##### Oil companies
 ### [ Four oil companies announce a plan to supply Europe with natural gas from Kurdistan, Iraq, via the Nabucco pipeline. ](/news/2009/05/17/four-oil-companies-announce-a-plan-to-supply-europe-with-natural-gas-from-kurdistan-iraq-via-the-nabucco-pipeline.md)
-_Context: Europe, Iraq, Kurdish, Nabucco, line, natural gas, oil companies_
+_Context: Europe, Iraq, Kurdistan Region, Nabucco, line, natural gas, oil companies_
 
 ##### Al-Shabaab
 ### [ Al-Shabaab captures Jowhar, Somalia, from the Transitional Federal Government. ](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.md)

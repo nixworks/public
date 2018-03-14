@@ -29,7 +29,7 @@ _Context: Iran, Russia, nuclear power_
 
 ##### Iraq
 ### [ Iraq's largest Sunni Arab bloc, The Iraqi Accordance Front, suspends its membership in Prime Minister Nouri al-Maliki's coalition government. ](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.md)
-_Context: Arab, Iraq, Iraq Prime Minister, Iraqi Accordance Front, Nouri al-Maliki, Sunni, coalition government_
+_Context: Arab, Iraq, Iraqi Accordance Front, Iraqi Prime Minister, Nouri al-Maliki, Sunni, coalition government_
 
 ##### Arab League
 ### [ The first delegation from the Arab League comprising the foreign ministers of Egypt and Jordan visits Israel to talk about the Arab Peace Initiative. ](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.md)

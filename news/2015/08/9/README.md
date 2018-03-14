@@ -7,7 +7,7 @@ Formats: [HTML](2015/08/9/index.html)  [JSON](2015/08/9/index.json)  [XML](2015/
 ### [Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-capital-port-au-prince-forced-to-close.md)
 AU-PRINCE, Haiti (Reuters) - Haitians lined up to vote on Sunday for the first time in four years, in a test of stability for an impoverished country continually rocked by political turmoil.
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [The Prime Minister of Iraq Haider al-Abadi calls for abolishing the positions of Vice President and Deputy Prime Minister and says he is opening graft investigations. The previous vice president Tariq al-Hashimi was sentenced in absentia to death over political murders. ](/news/2015/08/9/the-prime-minister-of-iraq-haider-al-abadi-calls-for-abolishing-the-positions-of-vice-president-and-deputy-prime-minister-and-says-he-is-ope.md)
 Iraqi Prime Minister Haidar Al-Abadi, backed by the nation’s top Shiite cleric, vowed to investigate corruption and proposed abolishing key government posts in a move that will test his authority in the fractured country.
 

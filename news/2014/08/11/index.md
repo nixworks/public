@@ -13,7 +13,7 @@ Artillery shells hit a prison in rebel-held Donetsk in eastern Ukraine, sparking
 
 ##### Iraqi insurgency (2011-present)
 ### [Iraq's embattled Prime Minister Nouri al-Maliki says that he will file a legal complaint against President Fuad Masum for opposing Maliki's reappointment. ](/news/2014/08/11/iraq-s-embattled-prime-minister-nouri-al-maliki-says-that-he-will-file-a-legal-complaint-against-president-fuad-masum-for-opposing-maliki-s.md)
-_Context: Fuad Masum, Iraq, Iraq Prime Minister, Iraqi insurgency (2011-present), Nouri al-Maliki, President of Iraq_
+_Context: Fuad Masum, Iraq, Iraqi Prime Minister, Iraqi insurgency (2011-present), Nouri al-Maliki, President of Iraq_
 
 ##### 2014 Israel-Gaza conflict
 ### [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md)

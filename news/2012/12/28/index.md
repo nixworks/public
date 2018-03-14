@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/28/index.html)  [JSON](2012/12/28/index.json)  [XML](201
 
 ##### Sunni Muslim
 ### [Massive Sunni-led demonstrations erupt across Iraq demanding the resignation of Prime Minister Nouri al-Maliki. ](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, Sunni Muslim_
+_Context: Iraq, Iraqi Prime Minister, Nouri al-Maliki, Sunni Muslim_
 
 ##### Philippines
 ### [Philippine President Benigno Aquino III signs into law the Responsible Parenthood and Reproductive Health Act, informally known as the RH Law. ](/news/2012/12/28/philippine-president-benigno-aquino-iii-signs-into-law-the-responsible-parenthood-and-reproductive-health-act-informally-known-as-the-rh-la.md)

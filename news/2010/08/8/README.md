@@ -55,7 +55,7 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 ### [New President of Colombia Juan Manuel Santos and President of Venezuela Hugo Chavez agree to meet for talks on Tuesday, following a recent diplomatic disagreement. ](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.md)
 _Context: Colombia-Venezuela relations, Colombian President, Hugo Chavez, Juan Manuel Santos, Venezuelan President_
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [Prime Minister of Iraq Nouri al-Maliki visits Irbil to talk with President of Kurdistan Massoud Barzani. ](/news/2010/08/8/prime-minister-of-iraq-nouri-al-maliki-visits-irbil-to-talk-with-president-of-kurdistan-massoud-barzani.md)
 Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiations.
 

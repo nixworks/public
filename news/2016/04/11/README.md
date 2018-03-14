@@ -31,7 +31,7 @@ _Context: Israeli-Palestinian conflict (2015-present), Palestinian, West Bank_
 ### [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md)
 _Context: Indian police, Kollam temple fire, Puttingal Temple_
 
-##### Director of the CIA
+##### Director
 ### [CIA Director John Brennan, in an exclusive interview to air on NBC News tonight, says the United States intelligence agency will not use harsh, enhanced interrogation techniques, including waterboarding, even if ordered by a future president. Presidential candidates Donald Trump and Ted Cruz have discussed using waterboarding if elected. ](/news/2016/04/11/cia-director-john-brennan-in-an-exclusive-interview-to-air-on-nbc-news-tonight-says-the-united-states-intelligence-agency-will-not-use-har.md)
 CIA Director John Brennan told NBC News his agency will not engage in harsh &#x27;enhanced interrogation&#x27; practices, even if ordered to by a new president.
 

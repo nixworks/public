@@ -18,7 +18,7 @@ Hundreds protest against the arrest of Julian Assange and accuse the Australian 
 
 ### Changes:
 
-1. [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md) _2018-03-12 03:39:01 (First version)_
+1. [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md) _2018-03-13 03:39:17 (First version)_
 1. [Demonstrations in favour of the WikiLeaks website and its spokesperson Julian Assange are held across Australia. The Australian government is accused of opposing freedom of speech. ](/news/2010/12/10/demonstrations-in-favour-of-the-wikileaks-website-and-its-spokesperson-julian-assange-are-held-across-australia-the-australian-government-i.md) _(Current version)_
 
 ### Related:

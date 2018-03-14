@@ -13,7 +13,7 @@ _Context: British Columbia, EnCana Corporation, fourth bomb, line_
 
 ##### President-elect
 ### [ United States President-elect Barack Obama nominates Leon Panetta to be the Central Intelligence Agency's next Director. ](/news/2009/01/5/united-states-president-elect-barack-obama-nominates-leon-panetta-to-be-the-central-intelligence-agency-s-next-director.md)
-_Context: Barack Obama, CIA, Director of the CIA, Leon Panetta, President-elect, nomination_
+_Context: Barack Obama, CIA, Director, Leon Panetta, President-elect, nomination_
 
 ## [Previous Day...](/news/2009/01/4/index.md)
 

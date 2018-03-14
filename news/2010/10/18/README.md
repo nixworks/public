@@ -59,7 +59,7 @@ _Context: Chinese, Japan, Naoto Kan, Prime Minister of Japan_
 ### [The Convention on Biological Diversity (CBD), a major United Nations gathering, meets in Japan to work out why governments have failed to stop the rapid rate of extinction and loss of habitats by 2010, as they vowed 8 years ago. ](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.md)
 _Context: Convention on Biological Diversity, Holocene extinction, Japan, United Nations_
 
-##### Iraq Prime Minister
+##### Iraqi Prime Minister
 ### [Iraqi Prime Minister Nouri al-Maliki visits Iran, where he is told to "get rid of America". ](/news/2010/10/18/iraqi-prime-minister-nouri-al-maliki-visits-iran-where-he-is-told-to-get-rid-of-america.md)
 Iran has demonstrated its hold over the future of Iraqi politics, telling Nouri al-Maliki, the prime minister, to &#034;get rid of America&#034; as he arrived to ask Tehran&#039;s blessing for a second term in office.
 
