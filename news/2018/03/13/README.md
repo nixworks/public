@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/13/index.html)  [JSON](2018/03/13/index.json)  [XML](201
 
 ## [2018-03-13](/news/2018/03/13/index.md)
 
+##### Toba catastrophe theory
+### [ A study was made that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-was-made-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
+Glass tephra, or the rock shards ejected by volcanic explosions, was found in two of the African sites - at the same level as remnants of human activity.
+
 ##### Asteroid
 ### [2015 TH (previously known as V774104), a 100-400 kilometer asteroid, is announced as possibly the fourth most distant known Solar System object from the Sun at nearly 90 (+-10) times Earth's distance from the Sun. ](/news/2018/03/13/2015-th-previously-known-as-v774104-a-100a400-kilometer-asteroid-is-announced-as-possibly-the-fourth-most-distant-known-solar-system-o.md)
 _Context: Earth's distance from the Sun, Solar System, asteroid_

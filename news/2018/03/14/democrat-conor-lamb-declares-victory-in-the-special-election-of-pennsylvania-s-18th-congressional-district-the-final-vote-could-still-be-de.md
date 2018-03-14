@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/14/democrat-conor-lamb-declares-victory-in-the-spe
 
 ### [2018-03-14](/news/2018/03/14/index.md)
 
-##### Democrat
+##### Pennsylvania's 18th congressional district special election, 2018
 # Democrat Conor Lamb declares victory in the special election of Pennsylvania's 18th congressional district. The final vote could still be determined by a recount if at least three voters in each precinct petition for one. 
 
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
@@ -12,7 +12,7 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 ### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2018/03/14/pennsylvania-special-house-election-too-close-to-call-winner-may-be-determined-by-recount.html)
-2. [New York Times](https://www.nytimes.com/2018/03/14/us/politics/pennsylvania-congressional-race-conor-lamb-trump.html)
+2. [The New York Times](https://www.nytimes.com/2018/03/14/us/politics/pennsylvania-congressional-race-conor-lamb-trump.html)
 2. [Cover Image](https://static01.nyt.com/images/2018/03/15/us/15dc-penn-assess1/15dc-penn-assess1-facebookJumbo.jpg)
 
 ### Changes:
