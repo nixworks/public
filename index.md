@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/14/index.md)
 
-##### Facebook
+##### Internet censorship
 ### [Facebook blocks Britain First, a far right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. ](/news/2018/03/14/facebook-blocks-britain-first-a-far-right-group-that-has-been-deregistered-as-a-political-party-in-the-united-kingdom-because-leaders-paul.md)
 The move comes a week after two leaders were convicted of hate crimes and months after the president elevated their inflammatory views on Twitter.
 
@@ -31,7 +31,7 @@ Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK di
 ### [Australian Home Affairs Minister Peter Dutton says white South African farmers could receive fast-track visas on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. ](/news/2018/03/14/australian-home-affairs-minister-peter-dutton-says-white-south-african-farmers-could-receive-fast-track-visas-on-humanitarian-grounds-amid.md)
 _Context: Australia, Australia-South Africa relations, Home Affairs Minister, Peter Dutton, South Africa, South African farm attacks, visas_
 
-##### Philippine
+##### Philippines and the United Nations
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
@@ -52,7 +52,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/03/13/index.md)
 
 ##### Toba catastrophe theory
-### [ A study was made that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-was-made-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
+### [ A study is released suggesting that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-is-released-suggesting-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
 Glass tephra, or the rock shards ejected by volcanic explosions, was found in two of the African sites - at the same level as remnants of human activity.
 
 ##### Asteroid

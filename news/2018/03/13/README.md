@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/13/index.html)  [JSON](2018/03/13/index.json)  [XML](201
 ## [2018-03-13](/news/2018/03/13/index.md)
 
 ##### Toba catastrophe theory
-### [ A study was made that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-was-made-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
+### [ A study is released suggesting that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-is-released-suggesting-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
 Glass tephra, or the rock shards ejected by volcanic explosions, was found in two of the African sites - at the same level as remnants of human activity.
 
 ##### Asteroid
