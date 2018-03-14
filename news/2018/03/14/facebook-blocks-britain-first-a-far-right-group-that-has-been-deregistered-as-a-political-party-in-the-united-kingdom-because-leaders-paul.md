@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/14/facebook-blocks-britain-first-a-far-right-group
 ### [2018-03-14](/news/2018/03/14/index.md)
 
 ##### Internet censorship
-# Facebook blocks Britain First, a far right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. 
+# Facebook blocks Britain First, a far-right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. 
 
 The move comes a week after two leaders were convicted of hate crimes and months after the president elevated their inflammatory views on Twitter.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/14/australian-home-affairs-minister-peter-dutton-s
 
 ### [2018-03-14](/news/2018/03/14/index.md)
 
-##### Australia-South Africa relations
+##### South African farm attacks
 # Australian Home Affairs Minister Peter Dutton says white South African farmers could receive fast-track visas on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. 
 
 
