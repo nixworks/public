@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/14/index.html)  [JSON](2018/03/14/index.json)  [XML](201
 
 ## [2018-03-14](/news/2018/03/14/index.md)
 
+##### Facebook
+### [Facebook blocks Britain First, a far right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. ](/news/2018/03/14/facebook-blocks-britain-first-a-far-right-group-that-has-been-deregistered-as-a-political-party-in-the-united-kingdom-because-leaders-paul.md)
+The move comes a week after two leaders were convicted of hate crimes and months after the president elevated their inflammatory views on Twitter.
+
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump appoints conservative commentator Lawrence Kudlow as National Economic Council director, replacing outgoing Gary Cohn. ](/news/2018/03/14/u-s-president-donald-trump-appoints-conservative-commentator-lawrence-kudlow-as-national-economic-council-director-replacing-outgoing-gary.md)
 The CNBC contributor says he will lead the National Economic Council after Gary Cohn quit.
@@ -12,12 +16,16 @@ The CNBC contributor says he will lead the National Economic Council after Gary 
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
 ##### Politics of Germany
-### [Angela Merkel, Chancellor of Germany is elected and sworn in for a new term. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-chancellor-of-germany-is-elected-and-sworn-in-for-a-new-term-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chancel.md)
+### [Angela Merkel is elected and sworn in for a new term as Chancellor of Germany. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-is-elected-and-sworn-in-for-a-new-term-as-chancellor-of-germany-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chanc.md)
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
 
 ##### 2018 United States gun violence protests
 ### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
+
+##### Russia-United Kingdom relations
+### [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a military-grade nerve agent attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-military-grade-nerve-agent-at.md)
+Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK diplomats
 
 ##### Australia-South Africa relations
 ### [Australian Home Affairs Minister Peter Dutton says white South African farmers could receive fast-track visas on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. ](/news/2018/03/14/australian-home-affairs-minister-peter-dutton-says-white-south-african-farmers-could-receive-fast-track-visas-on-humanitarian-grounds-amid.md)

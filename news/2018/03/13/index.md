@@ -32,7 +32,7 @@ ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged
 The scientists and a contractor were carrying out research on Joinville Island off Antarctica.
 
 ##### Naxalite-Maoist insurgency
-### [Maoists blow up a mine-protected vehicle of CRPF personnel with an IED killing at least nine and injuring two others in Sukma district, Chhattisgarh, India. ](/news/2018/03/13/maoists-blow-up-a-mine-protected-vehicle-of-crpf-personnel-with-an-ied-killing-at-least-nine-and-injuring-two-others-in-sukma-district-chha.md)
+### [Maoists blow up a mine-protected vehicle of CRPF personnel with an IED, killing at least nine and injuring two others in Sukma district, Chhattisgarh, India. ](/news/2018/03/13/maoists-blow-up-a-mine-protected-vehicle-of-crpf-personnel-with-an-ied-killing-at-least-nine-and-injuring-two-others-in-sukma-district-chh.md)
 Home minister Rajnath&thinsp;Singh and Chhattisgarh chief minister Raman Singh both condemned the attack on the 212 CRPF Battalion&rsquo;s patrolling team that was going from Kistaram to Palodi.
 
 ## [Previous Day...](/news/2018/03/12/index.md)
