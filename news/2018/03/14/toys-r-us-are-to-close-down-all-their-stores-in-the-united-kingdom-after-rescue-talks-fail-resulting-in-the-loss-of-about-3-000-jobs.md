@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/14/toys-r-us-are-to-close-down-all-their-stores-in
 ### [2018-03-14](/news/2018/03/14/index.md)
 
 ##### Economy of the United Kingdom
-# "Toys "R" Us" are to close down all their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. 
+# Toys "R" Us are to close down all their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. 
 
 Retailer to start closing shops from Thursday as rescue talks fail to find a buyer
 

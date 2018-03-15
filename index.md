@@ -44,7 +44,7 @@ The Philippines said on Wednesday it is withdrawing from the International Crimi
 Firm at the center of controversy over tax evasion cites economic and reputational damage in announcement
 
 ##### Economy of the United Kingdom
-### ["Toys "R" Us" are to close down all their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-are-to-close-down-all-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-about-3-000-jobs.md)
+### [Toys "R" Us are to close down all their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-are-to-close-down-all-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-about-3-000-jobs.md)
 Retailer to start closing shops from Thursday as rescue talks fail to find a buyer
 
 ##### Stephen Hawking
