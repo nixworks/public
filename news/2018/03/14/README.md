@@ -35,7 +35,7 @@ Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK di
 ### [Australian Home Affairs Minister Peter Dutton says white South African farmers could receive fast-track visas on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. ](/news/2018/03/14/australian-home-affairs-minister-peter-dutton-says-white-south-african-farmers-could-receive-fast-track-visas-on-humanitarian-grounds-amid.md)
 _Context: Australia, Home Affairs Minister, Peter Dutton, Racism in South Africa, South Africa, South African farm attacks, visas_
 
-##### Philippines and the United Nations
+##### Philippine President
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
