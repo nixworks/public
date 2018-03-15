@@ -19,6 +19,10 @@ British PM Theresa May told Parliament that a Russian-produced nerve agent had b
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
 
+##### United States antitrust law
+### [Citing national security concerns, U.S. President Donald Trump blocks Broadcom's proposed acquisition of Qualcomm. ](/news/2018/03/12/citing-national-security-concerns-u-s-president-donald-trump-blocks-broadcom-s-proposed-acquisition-of-qualcomm.md)
+President Donald Trump killed Broadcom&#039;s proposed buyout of Qualcomm on Monday, citing national security concerns.
+
 ##### Acquisitions by Apple
 ### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
 Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 

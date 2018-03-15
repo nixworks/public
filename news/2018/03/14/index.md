@@ -39,9 +39,17 @@ _Context: Australia, Home Affairs Minister, Peter Dutton, Racism in South Africa
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
+##### U.S. Navy
+### [Two U.S. Navy aviators, a pilot and a weapons officer, are killed after they ejected from their afire FA-18 fighter jet, which crashed into the sea off Key West, Florida. ](/news/2018/03/14/two-u-s-navy-aviators-a-pilot-and-a-weapons-officer-are-killed-after-they-ejected-from-their-afire-fa-18-fighter-jet-which-crashed-into.md)
+A U.S. Navy fighter jet crashed Wednesday off the coast of Key West, Florida, killing its two crew members.
+
 ##### Panama Papers
 ### [Panamanian law firm Mossack Fonseca announces that it is shutting down due to the economic and reputational damage inflicted by its role in the global tax evasion scandal. ](/news/2018/03/14/panamanian-law-firm-mossack-fonseca-announces-that-it-is-shutting-down-due-to-the-economic-and-reputational-damage-inflicted-by-its-role-in.md)
 Firm at the center of controversy over tax evasion cites economic and reputational damage in announcement
+
+##### Economy of the United States
+### [Shortly after the announcement of the closure of Toys "R" Us stores in the United Kingdom, the company announced that they will close down all 800 stores in the United States, resulting in the loss of about 33,000 jobs.](/news/2018/03/14/shortly-after-the-announcement-of-the-closure-of-toys-r-us-stores-in-the-united-kingdom-the-company-announced-that-they-will-close-down-a.md)
+The retailer informed employees of plans on Wednesday.
 
 ##### Economy of the United Kingdom
 ### [Toys "R" Us announce that they will close down all of their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-announce-that-they-will-close-down-all-of-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-a.md)

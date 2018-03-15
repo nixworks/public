@@ -11,9 +11,10 @@ The physicist and author of A Brief History of Time has died at his home in Camb
 
 ### Sources:
 
-1. [The Guardian](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76)
-2. [The New York Times](https://www.nytimes.com/2018/03/14/science/stephen-hawking-timeline.html)
-2. [Cover Image](https://i.guim.co.uk/img/media/97cc7652d663e11e706e4dbb37cbaba2c203d3b6/413_338_2369_1423/master/2369.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=5af3c35e32216fb8e5c5d4d060b97b3a)
+1. [BBC](http://www.bbc.com/news/uk-43396008)
+2. [The Guardian](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76)
+3. [The New York Times](https://www.nytimes.com/2018/03/14/science/stephen-hawking-timeline.html)
+3. [Cover Image](https://i.guim.co.uk/img/media/97cc7652d663e11e706e4dbb37cbaba2c203d3b6/413_338_2369_1423/master/2369.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=5af3c35e32216fb8e5c5d4d060b97b3a)
 
 ### Changes:
 

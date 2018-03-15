@@ -39,16 +39,24 @@ _Context: Australia, Home Affairs Minister, Peter Dutton, Racism in South Africa
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
+##### U.S. Navy
+### [Two U.S. Navy aviators, a pilot and a weapons officer, are killed after they ejected from their afire FA-18 fighter jet, which crashed into the sea off Key West, Florida. ](/news/2018/03/14/two-u-s-navy-aviators-a-pilot-and-a-weapons-officer-are-killed-after-they-ejected-from-their-afire-fa-18-fighter-jet-which-crashed-into.md)
+A U.S. Navy fighter jet crashed Wednesday off the coast of Key West, Florida, killing its two crew members.
+
 ##### Panama Papers
 ### [Panamanian law firm Mossack Fonseca announces that it is shutting down due to the economic and reputational damage inflicted by its role in the global tax evasion scandal. ](/news/2018/03/14/panamanian-law-firm-mossack-fonseca-announces-that-it-is-shutting-down-due-to-the-economic-and-reputational-damage-inflicted-by-its-role-in.md)
 Firm at the center of controversy over tax evasion cites economic and reputational damage in announcement
 
+##### Economy of the United States
+### [Shortly after the announcement of the closure of Toys "R" Us stores in the United Kingdom, the company announced that they will close down all 800 stores in the United States, resulting in the loss of about 33,000 jobs.](/news/2018/03/14/shortly-after-the-announcement-of-the-closure-of-toys-r-us-stores-in-the-united-kingdom-the-company-announced-that-they-will-close-down-a.md)
+The retailer informed employees of plans on Wednesday.
+
 ##### Economy of the United Kingdom
-### [Toys "R" Us are to close down all their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-are-to-close-down-all-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-about-3-000-jobs.md)
+### [Toys "R" Us announce that they will close down all of their stores in the United Kingdom after rescue talks fail, resulting in the loss of about 3,000 jobs. ](/news/2018/03/14/toys-r-us-announce-that-they-will-close-down-all-of-their-stores-in-the-united-kingdom-after-rescue-talks-fail-resulting-in-the-loss-of-a.md)
 Retailer to start closing shops from Thursday as rescue talks fail to find a buyer
 
-##### Stephen Hawking
-### [British physicist and cosmologist Stephen Hawking dies at age 76 at his home in Cambridge. ](/news/2018/03/14/british-physicist-and-cosmologist-stephen-hawking-dies-at-age-76-at-his-home-in-cambridge.md)
+##### United Kingdom
+### [British physicist and cosmologist Stephen Hawking dies aged 76 at his home in Cambridge. ](/news/2018/03/14/british-physicist-and-cosmologist-stephen-hawking-dies-aged-76-at-his-home-in-cambridge.md)
 The physicist and author of A Brief History of Time has died at his home in Cambridge. His children said: ‘We will miss him for ever’
 
 ##### Opinion
@@ -110,6 +118,10 @@ British PM Theresa May told Parliament that a Russian-produced nerve agent had b
 ##### US-Bangla Airlines Flight 211
 ### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
 There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
+
+##### United States antitrust law
+### [Citing national security concerns, U.S. President Donald Trump blocks Broadcom's proposed acquisition of Qualcomm. ](/news/2018/03/12/citing-national-security-concerns-u-s-president-donald-trump-blocks-broadcom-s-proposed-acquisition-of-qualcomm.md)
+President Donald Trump killed Broadcom&#039;s proposed buyout of Qualcomm on Monday, citing national security concerns.
 
 ##### Acquisitions by Apple
 ### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
