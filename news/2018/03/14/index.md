@@ -23,7 +23,11 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 ### [Angela Merkel is elected and sworn in for a new term as Chancellor of Germany. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-is-elected-and-sworn-in-for-a-new-term-as-chancellor-of-germany-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chanc.md)
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
 
-##### Brazil
+##### Telford child sex abuse ring
+### [After a 18-month Sunday Mirror investigation, Theresa May has called for an inquiry "as quickly as possible" on reported Asian grooming gangs in Telford whereby up to 1,000 girls were lured from their families to be drugged, beaten, raped and even murdered. ](/news/2018/03/14/after-a-18-month-sunday-mirror-investigation-theresa-may-has-called-for-an-inquiry-as-quickly-as-possible-on-reported-asian-grooming-gang.md)
+_Context: Sunday Mirror, Telford, Telford child sex abuse ring, Theresa May, grooming_
+
+##### Crime in Brazil
 ### [Brazilian politician and outspoken police critic Marielle Franco is killed along with her driver in a drive-by shooting in Rio de Janeiro. ](/news/2018/03/14/brazilian-politician-and-outspoken-police-critic-marielle-franco-is-killed-along-with-her-driver-in-a-drive-by-shooting-in-rio-de-janeiro.md)
 Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
 

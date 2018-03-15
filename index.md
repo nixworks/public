@@ -3,6 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/15/index.md)
 
+##### Russia-United Kingdom relations
+### [Sergey Lavrov, the Minister of Foreign Affairs of the Russian Federation, says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/sergey-lavrov-the-minister-of-foreign-affairs-of-the-russian-federation-says-russia-will-definitely-expel-british-diplomats.md)
+The Russian Foreign Ministry and the Kremlin have spoken out a day after the UK prime minister announced the expulsion of Russian diplomats as a response the alleged poisoning of former intelligence officer Sergei Skripal.
+
+##### Countering America's Adversaries Through Sanctions Act
+### [The Trump administration imposes financial sanctions on the 13 Russian government hackers and spy agencies indicted in the Special Counsel investigation. ](/news/2018/03/15/the-trump-administration-imposes-financial-sanctions-on-the-13-russian-government-hackers-and-spy-agencies-indicted-in-the-special-counsel-i.md)
+The Trump administration announced sanctions on 13 Russian nationals and three Russian entities charged in the special counsel Robert Mueller&#039;s investigation.
+
 ##### North Korea-Sweden relations
 ### [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md)
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
@@ -39,7 +47,11 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 ### [Angela Merkel is elected and sworn in for a new term as Chancellor of Germany. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-is-elected-and-sworn-in-for-a-new-term-as-chancellor-of-germany-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chanc.md)
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
 
-##### Brazil
+##### Telford child sex abuse ring
+### [After a 18-month Sunday Mirror investigation, Theresa May has called for an inquiry "as quickly as possible" on reported Asian grooming gangs in Telford whereby up to 1,000 girls were lured from their families to be drugged, beaten, raped and even murdered. ](/news/2018/03/14/after-a-18-month-sunday-mirror-investigation-theresa-may-has-called-for-an-inquiry-as-quickly-as-possible-on-reported-asian-grooming-gang.md)
+_Context: Sunday Mirror, Telford, Telford child sex abuse ring, Theresa May, grooming_
+
+##### Crime in Brazil
 ### [Brazilian politician and outspoken police critic Marielle Franco is killed along with her driver in a drive-by shooting in Rio de Janeiro. ](/news/2018/03/14/brazilian-politician-and-outspoken-police-critic-marielle-franco-is-killed-along-with-her-driver-in-a-drive-by-shooting-in-rio-de-janeiro.md)
 Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
 
