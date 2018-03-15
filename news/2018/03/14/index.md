@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/14/index.html)  [JSON](2018/03/14/index.json)  [XML](201
 The move comes a week after two leaders were convicted of hate crimes and months after the president elevated their inflammatory views on Twitter.
 
 ##### Presidency of Donald Trump
-### [U.S. President Donald Trump appoints conservative commentator Lawrence Kudlow as National Economic Council director, replacing outgoing Gary Cohn. ](/news/2018/03/14/u-s-president-donald-trump-appoints-conservative-commentator-lawrence-kudlow-as-national-economic-council-director-replacing-outgoing-gary.md)
+### [U.S. President Donald Trump appoints conservative commentator Larry Kudlow as National Economic Council director, replacing outgoing Gary Cohn. ](/news/2018/03/14/u-s-president-donald-trump-appoints-conservative-commentator-larry-kudlow-as-national-economic-council-director-replacing-outgoing-gary-co.md)
 The CNBC contributor says he will lead the National Economic Council after Gary Cohn quit.
 
 ##### Pennsylvania's 18th congressional district special election, 2018
@@ -28,11 +28,11 @@ Close vote before swear-in appears to underline scale of task at home and abroad
 Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
 
 ##### 2018 United States gun violence protests
-### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
+### [Students throughout the United States participate in a walkout against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
 
 ##### Russia-United Kingdom relations
-### [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a reportedly military-grade nerve agent attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-reportedly-military-grade-ner.md)
+### [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a reported attack with the Novichok military-grade nerve agent, an attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-reported-attack-with-the-novi.md)
 Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK diplomats
 
 ##### South African farm attacks
@@ -44,7 +44,7 @@ _Context: Australia, Home Affairs Minister, Peter Dutton, Racism in South Africa
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 
 ##### U.S. Navy
-### [Two U.S. Navy aviators - a pilot and a weapons officer - are killed after they ejected from their afire FA-18 fighter jet, which crashed into the sea off Key West, Florida. ](/news/2018/03/14/two-u-s-navy-aviators-a-a-pilot-and-a-weapons-officer-a-are-killed-after-they-ejected-from-their-afire-fa-18-fighter-jet-which-crashed.md)
+### [Two U.S. Navy aviators - a pilot and a weapons officer - are killed after they eject from their FA-18 fighter jet, which crashes into the sea off Key West, Florida. ](/news/2018/03/14/two-u-s-navy-aviators-a-a-pilot-and-a-weapons-officer-a-are-killed-after-they-eject-from-their-fa-18-fighter-jet-which-crashes-into-th.md)
 A U.S. Navy fighter jet crashed Wednesday off the coast of Key West, Florida, killing its two crew members.
 
 ##### Panama Papers
