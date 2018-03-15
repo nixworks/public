@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/27/japanese-prime-minister-yoshihiko-noda-meets-wi
 
 ### [2012-09-27](/news/2012/09/27/index.md)
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 # Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". 
 
 Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AFP

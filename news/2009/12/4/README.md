@@ -39,9 +39,9 @@ _Context: Afghanistan, International Security Assistance Force, North Atlantic T
 ### [ An Italian jury finds Amanda Knox and Raffaele Sollecito guilty in the case of the 2007 murder of Meredith Kercher in Perugia. Knox is sentenced to 26 years in prison, Sollecito to 25. ](/news/2009/12/4/an-italian-jury-finds-amanda-knox-and-raffaele-sollecito-guilty-in-the-case-of-the-2007-murder-of-meredith-kercher-in-perugia-knox-is-sent.md)
 _Context: Amanda Knox, Italy, Perugia, Raffaele Sollecito, murder_
 
-##### Philippines
+##### Philippine
 ### [ Security forces in the Philippines raid the compounds of clans suspected of being involved in the Maguindanao massacre. ](/news/2009/12/4/security-forces-in-the-philippines-raid-the-compounds-of-clans-suspected-of-being-involved-in-the-maguindanao-massacre.md)
-_Context: Maguindanao massacre, Philippines_
+_Context: Maguindanao massacre, Philippine_
 
 ##### Rwanda
 ### [ Two Rwandan soldiers are killed while on a peacekeeping mission in Darfur. ](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.md)

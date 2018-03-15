@@ -11,7 +11,7 @@ _Context: ''E. coli'', E. coli blamed for 46 deaths, World Health Organization_
 ### [Mitt Romney announces plans to seek the Republican Party nomination as President of the United States. ](/news/2011/06/2/mitt-romney-announces-plans-to-seek-the-republican-party-nomination-as-president-of-the-united-states.md)
 Saying President Obama &ldquo;has failed America,&rdquo; former Massachusetts governor Mitt Romney launched his bid for the 2012 GOP presidential nomination.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)
 Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vote in parliamentlater on Thursday, will resign in the autumn or later, privatebroadcaster TBS reported.
 

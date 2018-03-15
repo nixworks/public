@@ -111,7 +111,7 @@ _Context: Americans, Ray Harryhausen, special effects_
 ### [An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md)
 The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly siege on the northeastern town of Bama on Tuesday that left 55 people dead.
 
-##### Philippines
+##### Philippine
 ### [Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/four-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-israeli-annexed-golan.md)
 Four Filipino UN peacekeepers are seized while patrolling the demilitarised area between Syria and the Israeli-occupied Golan Heights.
 

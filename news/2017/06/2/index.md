@@ -25,7 +25,7 @@ _Context: Kabul, May 2017 Kabul attack, War in Afghanistan (2015-present)_
 
 ##### 2017 Resorts World Manila attack
 ### [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md)
-_Context: 2017 Resorts World Manila attack, Philippines, Resorts World Manila_
+_Context: 2017 Resorts World Manila attack, Philippine, Resorts World Manila_
 
 ##### Russia-Turkey relations
 ### [Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md)

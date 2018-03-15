@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/22/index.html)  [JSON](2013/09/22/index.json)  [XML](201
 
 ##### German
 ### [Voters in Germany go to the polls for a federal election, with Chancellor Angela Merkel's Christian Democratic Union achieving its highest vote since 1990. ](/news/2013/09/22/voters-in-germany-go-to-the-polls-for-a-federal-election-with-chancellor-angela-merkel-s-christian-democratic-union-achieving-its-highest-v.md)
-_Context: Angela Merkel, Chancellor, Christian Democratic Union, German, federal election_
+_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, German, federal election_
 
 ##### Chinese
 ### [A Chinese court finds former senior politician Bo Xilai guilty of bribery, embezzlement and abuse of power and sentences him to life imprisonment. ](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.md)
@@ -13,7 +13,7 @@ A Chinese court sentences disgraced former top politician Bo Xilai to life after
 
 ##### Hong Kong
 ### [Hong Kong braces for the impact of Typhoon Usagi after two people are killed in the Philippines. ](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.md)
-_Context: Hong Kong, Philippines, Typhoon Usagi_
+_Context: Hong Kong, Philippine, Typhoon Usagi_
 
 ##### 65th Primetime Emmy Awards
 ### [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md)

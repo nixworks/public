@@ -37,7 +37,7 @@ _Context: Orsk, Russia, cafe_
 
 ##### House of Councillors
 ### [ The House of Councillors passes rules for revising the pacifist Constitution of Japan, a central goal of Prime Minister Shinzo Abe. ](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.md)
-_Context: House of Councillors, Prime Minister of Japan, Shinzo Abe, constitution, pacifist_
+_Context: House of Councillors, Japanese Prime Minister, Shinzo Abe, constitution, pacifist_
 
 ##### 2007 Pakistan unrest
 ### [ 2007 Pakistan unrest: A strike in Pakistan closes shops and clears transport from the roads after two days of violence in Karachi left 41 people dead. ](/news/2007/05/14/2007-pakistan-unrest-a-strike-in-pakistan-closes-shops-and-clears-transport-from-the-roads-after-two-days-of-violence-in-karachi-left-41-p.md)
@@ -69,7 +69,7 @@ _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wire
 
 ##### Philippine general election
 ### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine general election, Philippines_
+_Context: Philippine, Philippine general election_
 
 ## [Previous Day...](/news/2007/05/13/index.md)
 

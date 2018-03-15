@@ -43,7 +43,7 @@ _Context: Gaza Strip, Hamas, Mahmoud al-Zahar_
 ### [At least four people are killed and dozens of others are wounded in a bombing at Ramadi's provincial government building. ](/news/2010/07/4/at-least-four-people-are-killed-and-dozens-of-others-are-wounded-in-a-bombing-at-ramadi-s-provincial-government-building.md)
 Female suicide bomber kills at least four people in western province of Anbar.
 
-##### Philippines
+##### Philippine
 ### [At least 15 people are killed and 48 are injured after the driver of a runaway bus smashes into a concrete wall in the Philippines. ](/news/2010/07/4/at-least-15-people-are-killed-and-48-are-injured-after-the-driver-of-a-runaway-bus-smashes-into-a-concrete-wall-in-the-philippines.md)
 FIFTEEN people have been killed and 48 others injured after the brakes of an overloaded bus failed and it slammed into a concrete fence while careening down a curve in the central Philippines.
 

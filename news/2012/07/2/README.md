@@ -23,7 +23,7 @@ _Context: German, Heinz Fromm, neo-Nazi_
 ### [Power broker Ichiro Ozawa announces that he is leaving the ruling Democratic Party of Japan along with 51 other lawmakers with anticipation that they will form a new party. ](/news/2012/07/2/power-broker-ichiro-ozawa-announces-that-he-is-leaving-the-ruling-democratic-party-of-japan-along-with-51-other-lawmakers-with-anticipation.md)
 Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, amid a bitter row over the sales tax rise.
 
-##### ICC
+##### International Criminal Court
 ### [Four officials from the International Criminal Court, including Melinda Taylor, are released after they were held in the Libyan city of Zintan for four weeks on suspicion of spying. ](/news/2012/07/2/four-officials-from-the-international-criminal-court-including-melinda-taylor-are-released-after-they-were-held-in-the-libyan-city-of-zint.md)
 Four staff members from the International Criminal Court held in Libya for four weeks over accusations of spying are released.
 

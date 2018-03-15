@@ -71,7 +71,7 @@ _Context: Anshun, Guizhou, Huanghegou, Xixiu_
 ### [Six people were killed and five injured Sunday after a wall of a factory building under construction collapsed in east China's Shandong Province. ](/news/2010/10/3/six-people-were-killed-and-five-injured-sunday-after-a-wall-of-a-factory-building-under-construction-collapsed-in-east-china-s-shandong-prov.md)
 ##### Adolf Hitler
 ### [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md)
-_Context: Adolf Hitler, Cornish, Foreign Minister, German invasion of Britain, Joachim von Ribbentrop, World War II_
+_Context: Adolf Hitler, Cornish, Federal Minister of Foreign Affairs, German invasion of Britain, Joachim von Ribbentrop, World War II_
 
 ##### Venice
 ### [International cultural experts attack the Italian government's policy of tolerating oversized advertisements on historic Venetian sights as being "probably illegal". They say it violates the city's UNESCO ranking as a World Heritage Site. ](/news/2010/10/3/international-cultural-experts-attack-the-italian-government-s-policy-of-tolerating-oversized-advertisements-on-historic-venetian-sights-as.md)

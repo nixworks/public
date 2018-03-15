@@ -77,7 +77,7 @@ A 55-year-old woman has died after a tree fell on her car during 24 hours of sev
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: Mount Bulusan, Philippines, volcano_
+_Context: Mount Bulusan, Philippine, volcano_
 
 ##### Nursing home
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)

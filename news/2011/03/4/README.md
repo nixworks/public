@@ -49,7 +49,7 @@ _Context: Deepwater Horizon oil spill, U.S. Chemical Safety and Hazard Investiga
 
 ##### Earthquake
 ### [An earthquake occurs offshore near the Philippines city of Surigao causing property damage. ](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.md)
-_Context: Philippines, Surigao City, earthquake_
+_Context: Philippine, Surigao City, earthquake_
 
 ##### Government Accountability Office
 ### [A report by the Government Accountability Office claims that the US Government could save $5.5 billion over the next 30 years by replacing dollar bills with coins. ](/news/2011/03/4/a-report-by-the-government-accountability-office-claims-that-the-us-government-could-save-5-5-billion-over-the-next-30-years-by-replacing-d.md)

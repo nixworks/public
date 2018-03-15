@@ -13,7 +13,7 @@ Mike Campbell - the white Zimbabwean farmer who took President Robert Mugabe to 
 
 ##### Kenya
 ### [Three officials from Kenya, including the deputy prime minister, go on trial at the International Criminal Court (ICC). ](/news/2011/04/8/three-officials-from-kenya-including-the-deputy-prime-minister-go-on-trial-at-the-international-criminal-court-icc.md)
-_Context: ICC, Kenya_
+_Context: International Criminal Court, Kenya_
 
 ##### Nursultan Nazarbayev
 ### [Nursultan Nazarbayev is sworn in as President of Kazakhstan for another five year term, in a vote criticized as flawed. ](/news/2011/04/8/nursultan-nazarbayev-is-sworn-in-as-president-of-kazakhstan-for-another-five-year-term-in-a-vote-criticized-as-flawed.md)

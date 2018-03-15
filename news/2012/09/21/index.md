@@ -15,9 +15,9 @@ _Context: Harvard Theological Review, Jesus of Nazareth, my wife_
 ### [Witnesses see Ansar al-Sharia Islamists in Benghazi evacuate their headquarters after demonstrations by thousands of Libyan people. ](/news/2012/09/21/witnesses-see-ansar-al-sharia-islamists-in-benghazi-evacuate-their-headquarters-after-demonstrations-by-thousands-of-libyan-people.md)
 _Context: Ansar al-Sharia, Benghazi, Libya_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan, Yoshihiko Noda, wins a leadership ballot held by the Democratic Party of Japan. ](/news/2012/09/21/the-prime-minister-of-japan-yoshihiko-noda-wins-a-leadership-ballot-held-by-the-democratic-party-of-japan.md)
-_Context: Democratic Party, Prime Minister of Japan, Yoshihiko Noda_
+_Context: Democratic Party, Japanese Prime Minister, Yoshihiko Noda_
 
 ##### South Africa
 ### [Authorities in South Africa issue a warrant for the arrest of Julius Malema on charges of corruption. ](/news/2012/09/21/authorities-in-south-africa-issue-a-warrant-for-the-arrest-of-julius-malema-on-charges-of-corruption.md)

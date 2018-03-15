@@ -3,9 +3,9 @@ Formats: [HTML](2016/04/27/index.html)  [JSON](2016/04/27/index.json)  [XML](201
 
 ## [2016-04-27](/news/2016/04/27/index.md)
 
-##### Chancellor
+##### Chancellor of Germany
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, United States_
+_Context: Angela Merkel, BND, Chancellor of Germany, Gerhard Schindler, National Security Agency, United States_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)

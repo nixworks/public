@@ -11,9 +11,9 @@ _Context: Blackwater Worldwide, CIA, United States, drones launch_
 ### [ Golfer Tiger Woods announces he is taking an indefinite break from the sport after a scandal over his infidelity in order to focus on "being a better husband, father, and person". ](/news/2009/12/12/golfer-tiger-woods-announces-he-is-taking-an-indefinite-break-from-the-sport-after-a-scandal-over-his-infidelity-in-order-to-focus-on-bein.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
-##### Philippines
+##### Philippine
 ### [ President of the Philippines Gloria Arroyo lifts martial law in Maguindanao in the south of the country, where 57 people were killed in political violence there last month. ](/news/2009/12/12/president-of-the-philippines-gloria-arroyo-lifts-martial-law-in-maguindanao-in-the-south-of-the-country-where-57-people-were-killed-in-pol.md)
-_Context: Gloria Arroyo, Maguindanao, Maguindanao massacre, Philippines, martial law_
+_Context: Gloria Arroyo, Maguindanao, Maguindanao massacre, Philippine, martial law_
 
 #####  Georgian
 ### [ The Georgian breakaway region of Abkhazia holds its first presidential elections. ](/news/2009/12/12/the-georgian-breakaway-region-of-abkhazia-holds-its-first-presidential-elections.md)

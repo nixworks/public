@@ -13,7 +13,7 @@ _Context: Mexico City, World Water Forum, privatization, water_
 
 ##### Thomas Lubanga
 ### [ Thomas Lubanga, former leader of the Union of Congolese Patriots militia in the Democratic Republic of the Congo, becomes the first person arrested on behalf of, and then referred to the International Criminal Court for war crimes. ](/news/2006/03/17/thomas-lubanga-former-leader-of-the-union-of-congolese-patriots-militia-in-the-democratic-republic-of-the-congo-becomes-the-first-person.md)
-_Context: DR Congo, ICC, Thomas Lubanga, Union of Congolese Patriots, war crime_
+_Context: DR Congo, International Criminal Court, Thomas Lubanga, Union of Congolese Patriots, war crime_
 
 ##### Avian flu virus
 ### [ Following an outbreak of bird flu in Israel, Europe bans imports of Israeli chicken; Ministry of Agriculture halts exports of unprocessed birds; Kibbutzim in the south, heart of Israel put under closure; four people hospitalized in the south are found not to be infected with the disease. ](/news/2006/03/17/following-an-outbreak-of-bird-flu-in-israel-europe-bans-imports-of-israeli-chicken-ministry-of-agriculture-halts-exports-of-unprocessed-b.md)

@@ -25,11 +25,11 @@ _Context: Spanish_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
-_Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Emperor Akihito, Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Noynoy Aquino
 ### [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md)
-_Context: Joseph Estrada, Noynoy Aquino, Philippine presidential election, Philippines, President_
+_Context: Joseph Estrada, Noynoy Aquino, Philippine, Philippine presidential election, President_
 
 ##### Cocaine
 ### [At least 2 tonnes of cocaine worth around US$1 billion bound for Europe is seized in The Gambia. ](/news/2010/06/8/at-least-2-tonnes-of-cocaine-worth-around-us-1-billion-bound-for-europe-is-seized-in-the-gambia.md)

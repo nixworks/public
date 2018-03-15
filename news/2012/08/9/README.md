@@ -19,9 +19,9 @@ Disgraced Chinese politician Bo Xilai&#039;s wife goes on trial for murder in a 
 ### [Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. ](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.md)
 _Context: Hurricane Ernesto, Mexico, Veracruz_
 
-##### Philippines
+##### Philippine
 ### [The death toll from floods in the Philippines over the past ten days rises to 70. ](/news/2012/08/9/the-death-toll-from-floods-in-the-philippines-over-the-past-ten-days-rises-to-70.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### Barclays
 ### [Barclays appoints Sir David Walker as its new chairman following the Libor scandal. ](/news/2012/08/9/barclays-appoints-sir-david-walker-as-its-new-chairman-following-the-libor-scandal.md)

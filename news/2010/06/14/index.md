@@ -59,9 +59,9 @@ Colombian forces rescue three of their men held hostage for more than a decade b
 ### [10 police are killed and several others are wounded in an ambush by drug hitmen in Zitacuaro Michoacan. ](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.md)
 Armed attacks on Mexican federal police Monday in violent Michoacan state sparked shootouts that killed at least 10 officers and an unknown number of gunmen, authorities said.The twin ambushes in...
 
-##### Philippines
+##### Philippine
 ### [At least 14 people are killed and at least 30 are injured when a tourist bus disappears over the edge of a ravine in the Philippines. ](/news/2010/06/14/at-least-14-people-are-killed-and-at-least-30-are-injured-when-a-tourist-bus-disappears-over-the-edge-of-a-ravine-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### Ganges River
 ### [At least 35 people are feared drowned and 50 people disappear after a boat capsizes on the Ganges River in northern India. ](/news/2010/06/14/at-least-35-people-are-feared-drowned-and-50-people-disappear-after-a-boat-capsizes-on-the-ganges-river-in-northern-india.md)

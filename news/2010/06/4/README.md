@@ -17,7 +17,7 @@ Information about government spending has been published as part of a drive to o
 
 ##### Naoto Kan
 ### [Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. ](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.md)
-_Context: Democratic Party, Emperor Akihito, Naoto Kan, Prime Minister of Japan_
+_Context: Democratic Party, Emperor Akihito, Japanese Prime Minister, Naoto Kan_
 
 ##### Myanmar
 ### [An investigation by an anti-government Myanmar broadcaster finds evidence that it says shows the country's military regime has begun a programme to develop nuclear weapons. ](/news/2010/06/4/an-investigation-by-an-anti-government-myanmar-broadcaster-finds-evidence-that-it-says-shows-the-country-s-military-regime-has-begun-a-progr.md)

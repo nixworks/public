@@ -21,7 +21,7 @@ NZ Finance Minister Bill English is set to be appointed prime minister after two
 
 ##### Drug crackdown
 ### [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md)
-_Context: Oplan Tokhang, Philippine National Police, Philippines, constitutional constraints, drug crackdown, senators_
+_Context: Oplan Tokhang, Philippine, Philippine National Police, constitutional constraints, drug crackdown, senators_
 
 ##### 2016 Aceh earthquake
 ### [International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes-100.md)

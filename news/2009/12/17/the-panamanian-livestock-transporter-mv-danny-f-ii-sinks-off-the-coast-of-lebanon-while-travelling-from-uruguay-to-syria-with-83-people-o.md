@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f
 
 ### [2009-12-17](/news/2009/12/17/index.md)
 
-##### Panama
+##### Panamanian
 #  The Panamanian livestock transporter MV "Danny F II" sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. 
 
 

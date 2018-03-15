@@ -31,9 +31,9 @@ _Context: OpenLeaks, WikiLeaks_
 ### [Protests by garment workers in Bangladesh over low wages spread to other areas of the country. ](/news/2010/12/13/protests-by-garment-workers-in-bangladesh-over-low-wages-spread-to-other-areas-of-the-country.md)
 _Context: Bangladesh_
 
-##### Philippines
+##### Philippine
 ### [The Philippine parliament blocks a government effort to provide free condoms to poor people, amid a debate over funding for family planning. ](/news/2010/12/13/the-philippine-parliament-blocks-a-government-effort-to-provide-free-condoms-to-poor-people-amid-a-debate-over-funding-for-family-planning.md)
-_Context: Philippines, condom_
+_Context: Philippine, condom_
 
 ##### Minni Minnawi
 ### [Minni Minnawi, the only Darfur faction leader to sign the Darfur Peace Agreement with the Sudanese government, declares its failure and leaves his post. ](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.md)

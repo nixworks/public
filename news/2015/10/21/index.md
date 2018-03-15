@@ -25,7 +25,7 @@ Chinese diplomat injured and two consulate staff shot at an upmarket Philippine 
 
 ##### Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu's speech yesterday that the Grand Mufti of Jerusalem persuaded the Nazis to adopt their Final Solution to exterminate 6 million Jews is reproached by Holocaust experts and survivors, historians, world leaders, etc. Palestine Liberation Organization's Saeb Erakat and Israel's Zionist Union party's Isaac Herzog both blasted Netanyahu's claim. German Chancellor Angela Merkel said, "All Germans know the history of the murderous race mania of the Nazis that led to ... the Holocaust." Mehnaz Afridi, a Manhattan College professor who promotes Muslim-Jewish dialogue said, "this ... really is a terrible statement to make at this time." ](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.md)
-_Context: Amin al-Husseini, Angela Merkel, Benjamin Netanyahu, Chancellor, Final Solution, Holocaust, Isaac Herzog, Israel, Jewish, Manhattan College, Nazis, Palestine Liberation Organization, Prime Minister, Saeb Erakat, Zionist Union party's_
+_Context: Amin al-Husseini, Angela Merkel, Benjamin Netanyahu, Chancellor of Germany, Final Solution, Holocaust, Isaac Herzog, Israel, Jewish, Manhattan College, Nazis, Palestine Liberation Organization, Prime Minister, Saeb Erakat, Zionist Union party's_
 
 ##### Holy See
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
@@ -49,7 +49,7 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 
 ##### 2015 Pacific typhoon season
 ### [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md)
-_Context: 2015 Pacific typhoon season, Philippines, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
+_Context: 2015 Pacific typhoon season, Philippine, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
 
 ##### Boko Haram insurgency
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)

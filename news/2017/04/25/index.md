@@ -21,7 +21,7 @@ NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged 
 
 ##### Germany-Israel relations
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Benjamin Netanyahu, Breaking the Silence, Foreign Minister, Germany-Israel relations, Israeli Army, NGO, Prime Minister, Sigmar Gabriel, veteran_
+_Context: Benjamin Netanyahu, Breaking the Silence, Federal Minister of Foreign Affairs, Germany-Israel relations, Israeli Army, NGO, Prime Minister, Sigmar Gabriel, veteran_
 
 ##### North Korea-United States relations
 ### [The USS "Michigan" docks at Busan, South Korea, amid growing concerns over North Korean weapons development. ](/news/2017/04/25/the-uss-michigan-docks-at-busan-south-korea-amid-growing-concerns-over-north-korean-weapons-development.md)

@@ -29,7 +29,7 @@ Germany has recruited 8,500 teachers to teach German to thousands of child refug
 
 ##### Japan-South Korea relations
 ### [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md)
-_Context: Japan, Japan-South Korea relations, Korean, Prime Minister of Japan, Shinzo Abe, South Korea, World War II, comfort women, military, sex slaves_
+_Context: Japan, Japan-South Korea relations, Japanese Prime Minister, Korean, Shinzo Abe, South Korea, World War II, comfort women, military, sex slaves_
 
 ##### 2015 Shenzhen landslide
 ### [A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city's Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city-of-shenzhen-that-killed.md)

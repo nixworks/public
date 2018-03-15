@@ -19,9 +19,9 @@ _Context: Madagascar, Marc Ravalomanana, President of Madagascar, holds an elect
 ### [ Former President of Chile Augusto Pinochet is in a military hospital after having had a heart attack. Doctors decide to perform coronary artery bypass surgery. ](/news/2006/12/3/former-president-of-chile-augusto-pinochet-is-in-a-military-hospital-after-having-had-a-heart-attack-doctors-decide-to-perform-coronary-ar.md)
 _Context: Augusto Pinochet, President of Chile, coronary artery bypass surgery, heart attack_
 
-##### Philippines
+##### Philippine
 ### [ At least 804 people are dead or missing in the Philippines as a result of Typhoon Durian with the death toll expected to rise further. ](/news/2006/12/3/at-least-804-people-are-dead-or-missing-in-the-philippines-as-a-result-of-typhoon-durian-with-the-death-toll-expected-to-rise-further.md)
-_Context: Philippines, Typhoon Durian_
+_Context: Philippine, Typhoon Durian_
 
 ##### Venezuela
 ### [ Venezuela holds elections, with incumbent president Hugo Chvez facing a challenge from Manuel Rosales, Governor of the western state of Zulia. With 78% of votes counted by the National Electoral Council, Chvez wins with 61% over 38% for Rosales. ](/news/2006/12/3/venezuela-holds-elections-with-incumbent-president-hugo-chavez-facing-a-challenge-from-manuel-rosales-governor-of-the-western-state-of-zu.md)

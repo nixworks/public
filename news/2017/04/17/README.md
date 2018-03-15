@@ -59,7 +59,7 @@ A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, kill
 ### [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md)
 _Context: China, Guizhou_
 
-##### Philippines
+##### Philippine
 ### [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md)
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 

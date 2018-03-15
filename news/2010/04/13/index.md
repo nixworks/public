@@ -43,7 +43,7 @@ _Context: Pakistan_
 
 ##### Isabela City
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
-_Context: Abu Sayyaf, Isabela City, Philippines_
+_Context: Abu Sayyaf, Isabela City, Philippine_
 
 ##### First Lady
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)

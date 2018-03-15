@@ -7,7 +7,7 @@ Formats: [HTML](2014/08/14/index.html)  [JSON](2014/08/14/index.json)  [XML](201
 ### [Prime Minister Nouri al-Maliki withdraws both his candidacy and his complaint against President Fuad Masum for allegedly violating the Iraqi constitution. ](/news/2014/08/14/prime-minister-nouri-al-maliki-withdraws-both-his-candidacy-and-his-complaint-against-president-fuad-masum-for-allegedly-violating-the-iraqi.md)
 Iraqi Prime Minister Nouri Maliki resigns to end a political crisis in Baghdad, in a move that is welcomed by the US and UN.
 
-##### Philippines
+##### Philippine
 ### [Philippines President Benigno Aquino III announces that he plans to run for a second term in the 2016 election contrary to provisions on term limits in the constitution of the Philippines set up by his mother, Corazon Aquino. ](/news/2014/08/14/philippines-president-benigno-aquino-iii-announces-that-he-plans-to-run-for-a-second-term-in-the-2016-election-contrary-to-provisions-on-ter.md)
 Philippine President BenignoAquino said on Wednesday he was considering constitutionalchanges including adjustment of term limits for officials thatmight allow him to serve a second six-year term.
 

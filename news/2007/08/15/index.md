@@ -41,7 +41,7 @@ _Context: Boris Yeltsin, Finland, Karelia, Russia_
 
 ##### Japan
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
-_Context: Japan, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine_
+_Context: Japan, Japanese Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_
 
 ##### German
 ### [ Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-kabul.md)

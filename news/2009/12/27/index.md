@@ -21,7 +21,7 @@ _Context: Mir-Hossein Mousavi_
 
 ##### Verde Island
 ### [ At least six people are dead and many missing after a ferry sinks off Verde Island near Batangas, Philippines, the second such disaster in as many days. ](/news/2009/12/27/at-least-six-people-are-dead-and-many-missing-after-a-ferry-sinks-off-verde-island-near-batangas-philippines-the-second-such-disaster-in.md)
-_Context: Batangas, Philippines, Verde Island_
+_Context: Batangas, Philippine, Verde Island_
 
 ##### Yemen
 ### [ Officials in Yemen say top Houthi leader Abdul-Malik al-Houthi has been killed during an offensive in the north of the country. ](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.md)

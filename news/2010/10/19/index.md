@@ -27,9 +27,9 @@ _Context: Kenya, Mwai Kibaki, William Ruto_
 ### [The United States Secretary of State Hillary Clinton says that she understands the trial of two hikers will start on November 6. ](/news/2010/10/19/the-united-states-secretary-of-state-hillary-clinton-says-that-she-understands-the-trial-of-two-hikers-will-start-on-november-6.md)
 _Context: Hillary Clinton, Secretary of State, two American citizens_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court (ICC) agrees to pursue the criminal trial of former Vice-President of the Democratic Republic of the Congo Jean-Pierre Bemba. ](/news/2010/10/19/the-international-criminal-court-icc-agrees-to-pursue-the-criminal-trial-of-former-vice-president-of-the-democratic-republic-of-the-congo.md)
-_Context: DR Congo, ICC, Jean-Pierre Bemba_
+_Context: DR Congo, International Criminal Court, Jean-Pierre Bemba_
 
 ##### United Kingdom
 ### [A British court finds Saudi Prince Abdulaziz bin Nasser al Saud guilty of murdering his servant in a hotel. ](/news/2010/10/19/a-british-court-finds-saudi-prince-abdulaziz-bin-nasser-al-saud-guilty-of-murdering-his-servant-in-a-hotel.md)
@@ -37,7 +37,7 @@ UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering serv
 
 ##### Typhoon Megi
 ### [The death toll from Typhoon Megi in the Philippines rises to three as heavy rain falls on the island of Luzon for a second consecutive day. ](/news/2010/10/19/the-death-toll-from-typhoon-megi-in-the-philippines-rises-to-three-as-heavy-rain-falls-on-the-island-of-luzon-for-a-second-consecutive-day.md)
-_Context: Luzon, Philippines, Typhoon Megi_
+_Context: Luzon, Philippine, Typhoon Megi_
 
 ##### Crystal Cathedral
 ### [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly "The Hour of Power" television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hour.md)

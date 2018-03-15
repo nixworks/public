@@ -25,7 +25,7 @@ _Context: 2008 general elections, Edward Natapei, Ham Lini, Prime Minister of Va
 
 ##### Liberal Democratic Party (Japan) leadership election, 2008
 ### [ Liberal Democratic Party (Japan) leadership election, 2008: Japan's ruling Liberal Democratic Party chooses former Foreign Minister of Japan Taro Aso as the next Prime Minister of Japan replacing Yasuo Fukuda. ](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.md)
-_Context: Foreign Minister of Japan, Japan, Liberal Democratic Party, Liberal Democratic Party (Japan) leadership election, 2008, Prime Minister of Japan, Taro Aso, Yasuo Fukuda_
+_Context: Foreign Minister of Japan, Japan, Japanese Prime Minister, Liberal Democratic Party, Liberal Democratic Party (Japan) leadership election, 2008, Taro Aso, Yasuo Fukuda_
 
 ##### Computer server
 ### [ More than 18,000 archived radio programs are indefinitely lost after the main computer server at Sweden's National Radio crashed last month. ](/news/2008/09/22/more-than-18-000-archived-radio-programs-are-indefinitely-lost-after-the-main-computer-server-at-sweden-s-national-radio-crashed-last-month.md)

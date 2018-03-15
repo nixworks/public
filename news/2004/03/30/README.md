@@ -15,9 +15,9 @@ _Context: Terrorism Act, ammonium nitrate_
 ### [ The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. ](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.md)
 _Context: Condoleezza Rice, National Security Advisor, September 11, 2001 attacks, White House_
 
-##### Philippines
+##### Philippine
 ### [ The Philippines prevents a "Madrid-level attack" after arresting four members of the Muslim extremist Abu Sayyaf group. ](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.md)
-_Context: Abu Sayyaf, Philippines_
+_Context: Abu Sayyaf, Philippine_
 
 ##### Uzbekistan
 ### [ Police in Uzbekistan raid a militant's hideout south of the capital, Tashkent. Fighting has caused 23 deaths in the area. ](/news/2004/03/30/police-in-uzbekistan-raid-a-militant-s-hideout-south-of-the-capital-tashkent-fighting-has-caused-23-deaths-in-the-area.md)

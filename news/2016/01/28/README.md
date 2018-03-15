@@ -17,7 +17,7 @@ Ivory Coast ex-President Laurent Gbagbo denies charges of crimes against humanit
 
 ##### Russo-Georgian War
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
-_Context:  Georgian, 2008 South Ossetia war, ICC, Russo-Georgian War_
+_Context:  Georgian, 2008 South Ossetia war, International Criminal Court, Russo-Georgian War_
 
 ##### European migrant crisis
 ### [Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-about-45-percent-of-asylum-ap.md)

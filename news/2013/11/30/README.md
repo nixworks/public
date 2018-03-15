@@ -19,7 +19,7 @@ A Mozambique Airlines plane en route to Angola crashed in a game park in northea
 ### [Gaia Cauchi of Malta, wins the Junior Eurovision Song Contest 2013 in Kiev, Ukraine, with her song "The Start." ](/news/2013/11/30/gaia-cauchi-of-malta-wins-the-junior-eurovision-song-contest-2013-in-kiev-ukraine-with-her-song-the-start.md)
 _Context: Gaia Cauchi, Junior Eurovision Song Contest 2013, Kiev, Malta, Ukraine_
 
-##### Philippines
+##### Philippine
 ### [The Philippines commemorates the 150th birth anniversary of national hero and revolutionary leader Andrs Bonifacio. ](/news/2013/11/30/the-philippines-commemorates-the-150th-birth-anniversary-of-national-hero-and-revolutionary-leader-andres-bonifacio.md)
 MANILA -- President Benigno Aquino III paid tribute to the life and legacy of Andres Bonifacio and highlighted the importance of everyday heroes in the country, especially during trying times. 
 

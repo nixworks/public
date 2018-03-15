@@ -29,7 +29,7 @@ Faisal Abedin Deepan killed on same day as attacks on publisher Ahmed Rahim Tutu
 
 ##### Presidential Palace
 ### [The Presidential Palace and the Philippine Senate investigate an extortion scam involving the Ninoy Aquino International Airport. ](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.md)
-_Context: Ninoy Aquino International Airport, Philippines, Presidential Palace, extortion, senators_
+_Context: Ninoy Aquino International Airport, Philippine, Presidential Palace, extortion, senators_
 
 ##### Syrian Civil War
 ### [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md)

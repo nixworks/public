@@ -25,7 +25,7 @@ Floods are devastating several regions of India. In Mumbai, Central Railway serv
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Philippines, Taiwan, Typhoon Nanmadol_
+_Context: Philippine, Taiwan, Typhoon Nanmadol_
 
 ##### United States
 ### [Stock, bond and commodities markets open as usual in the United States despite the impact of Hurricane Irene on New York City. ](/news/2011/08/29/stock-bond-and-commodities-markets-open-as-usual-in-the-united-states-despite-the-impact-of-hurricane-irene-on-new-york-city.md)

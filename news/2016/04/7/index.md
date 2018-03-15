@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Panama Papers
 ### [The government of Panama announces that it is creating an "international panel" to help improve transparency in its offshore financial industry. The move follows the leak of millions of documents from law firm Mossack Fonseca, showing it helped some clients evade tax and avoid sanctions. ](/news/2016/04/7/the-government-of-panama-announces-that-it-is-creating-an-international-panel-to-help-improve-transparency-in-its-offshore-financial-indus.md)
-_Context: Mossack Fonseca, Panama, Panama Papers_
+_Context: Mossack Fonseca, Panama Papers, Panamanian_
 
 ##### Attacks on secularists in Bangladesh
 ### [Attackers in Bangladesh wielding machetes kill Nazimuddin Samad, a liberal blogger. ](/news/2016/04/7/attackers-in-bangladesh-wielding-machetes-kill-nazimuddin-samad-a-liberal-blogger.md)

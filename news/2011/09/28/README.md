@@ -31,9 +31,9 @@ _Context: line 10, metro_
 ### [A stampede on a docked ferry in Indonesia's East Java province results in eight deaths and dozens more injured. ](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-east-java-province-results-in-eight-deaths-and-dozens-more-injured.md)
 _Context: East Java, Indonesia, stampede_
 
-##### Philippines
+##### Philippine
 ### [Residents and authorities in the Philippines clean up after Typhoon Nesat which killed at least 20 people, most in and near the capital Manila. ](/news/2011/09/28/residents-and-authorities-in-the-philippines-clean-up-after-typhoon-nesat-which-killed-at-least-20-people-most-in-and-near-the-capital-mani.md)
-_Context: Manila, Philippines, Typhoon Nesat_
+_Context: Manila, Philippine, Typhoon Nesat_
 
 ##### Centers for Disease Control and Prevention
 ### [The United States Centers for Disease Control and Prevention links an outbreak of listeriosis that has caused 13 deaths and 72 illnesses in 18 states to infected cantaloupes from Colorado. ](/news/2011/09/28/the-united-states-centers-for-disease-control-and-prevention-links-an-outbreak-of-listeriosis-that-has-caused-13-deaths-and-72-illnesses-in.md)

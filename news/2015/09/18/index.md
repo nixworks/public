@@ -29,7 +29,7 @@ Croatia closes seven of its eight border crossings with Serbia as thousands of d
 
 ##### Government
 ### [The government of Prime Minister Shinzo Abe moves to enact legislation allowing the Japan Self-Defense Forces to serve overseas. Yesterday, fist-fights erupted in the parliament over this legislation. ](/news/2015/09/18/the-government-of-prime-minister-shinzo-abe-moves-to-enact-legislation-allowing-the-japan-self-defense-forces-to-serve-overseas-yesterday.md)
-_Context: Prime Minister of Japan, Shinzo Abe, government, legislation, military_
+_Context: Japanese Prime Minister, Shinzo Abe, government, legislation, military_
 
 ##### Ebola virus epidemic in West Africa
 ### [United States authorities announce mandatory Ebola screening will end for travelers from Liberia to five U.S. airports, effective September 21, 2015. Screening of travelers from Sierra Leone and Guinea will continue. ](/news/2015/09/18/united-states-authorities-announce-mandatory-ebola-screening-will-end-for-travelers-from-liberia-to-five-u-s-airports-effective-september.md)

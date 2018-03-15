@@ -25,7 +25,7 @@ _Context: Iran, Iraq, Royal Navy, Shatt al-Arab, seizes_
 
 ##### UN
 ### [ UN Secretary-General Kofi Annan warns Security Council members not to grant the United States another exemption from prosecution by the International Criminal Court, stating that it was wrong, especially after the abuse of prisoners in Iraq. ](/news/2004/06/21/un-secretary-general-kofi-annan-warns-security-council-members-not-to-grant-the-united-states-another-exemption-from-prosecution-by-the-int.md)
-_Context: Abu Ghraib prisoner abuse, ICC, Kofi Annan, Security Council, UN, United Nations Secretary-General, members_
+_Context: Abu Ghraib prisoner abuse, International Criminal Court, Kofi Annan, Security Council, UN, United Nations Secretary-General, members_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States, in Hiibel v. Sixth Judicial District Court of Nevada, rules that mandatory disclosure of identity to the police, when asked, does not violate the Fifth Amendment, and the Miranda warning does not apply. ](/news/2004/06/21/the-supreme-court-of-the-united-states-in-hiibel-v-sixth-judicial-district-court-of-nevada-rules-that-mandatory-disclosure-of-identity-t.md)

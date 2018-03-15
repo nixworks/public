@@ -45,7 +45,7 @@ _Context: Baghdad, Iraqi insurgency (2011-present)_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine National Police, Philippines, President, Supreme Court of the Philippines, Zulkifli Abdhir, his predecessor, peace deal, peace treaty_
+_Context: Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine, Philippine National Police, President, Supreme Court of the Philippines, Zulkifli Abdhir, his predecessor, peace deal, peace treaty_
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)

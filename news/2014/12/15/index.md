@@ -35,9 +35,9 @@ Chancellor Angela Merkel warned Germans Monday not to be duped by far-right rhet
 ### [Authorized by the United Nations Convention on the Law of the Sea, Denmark becomes the first country to officially submit a claim on the North Pole. ](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.md)
 Denmark filed an official claim on the North Pole, making it the first country to do so.
 
-##### Philippines
+##### Philippine
 ### [Philippine prosecutors charge a United States Marine with murder over the death of Jennifer Laude, a Filipino transgender woman. ](/news/2014/12/15/philippine-prosecutors-charge-a-united-states-marine-with-murder-over-the-death-of-jennifer-laude-a-filipino-transgender-woman.md)
-_Context: 2014 killing of a transwoman, Filipino, Philippines, U.S. Marine, transgender_
+_Context: 2014 killing of a transwoman, Filipino, Philippine, U.S. Marine, transgender_
 
 ##### 2014 Indonesia landslide
 ### [The death toll of the 2014 Indonesia landslide rises to 56. ](/news/2014/12/15/the-death-toll-of-the-2014-indonesia-landslide-rises-to-56.md)

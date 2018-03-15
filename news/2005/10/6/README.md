@@ -49,7 +49,7 @@ _Context: 27 November, Gabon, ballot_
 
 ##### Lord's Resistance Army
 ### [ Five leaders of the Lord's Resistance Army, a rebel group begun in Uganda, are targeted by the first arrest warrants to be issued by the International Criminal Court. ](/news/2005/10/6/five-leaders-of-the-lord-s-resistance-army-a-rebel-group-begun-in-uganda-are-targeted-by-the-first-arrest-warrants-to-be-issued-by-the-in.md)
-_Context: ICC, Lord's Resistance Army, Uganda_
+_Context: International Criminal Court, Lord's Resistance Army, Uganda_
 
 ## [Previous Day...](/news/2005/10/5/index.md)
 

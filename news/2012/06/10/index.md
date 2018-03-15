@@ -21,7 +21,7 @@ _Context: Auburn University, Auburn, Alabama_
 
 ##### Saif al-Islam
 ### [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md)
-_Context: ICC, Libya, Muammar Gaddafi, Saif al-Islam_
+_Context: International Criminal Court, Libya, Muammar Gaddafi, Saif al-Islam_
 
 ##### Southeastern United States
 ### [Heavy rainfall damages roadways and bridges the Southeastern United States, with 20 inches falling in Escambia County, Florida. ](/news/2012/06/10/heavy-rainfall-damages-roadways-and-bridges-the-southeastern-united-states-with-20-inches-falling-in-escambia-county-florida.md)

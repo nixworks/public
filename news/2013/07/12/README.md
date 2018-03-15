@@ -69,7 +69,7 @@ MOGADISHU, July 12 - At least three people were killed Friday when a car bomb ta
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Basilan island, Moro National Liberation Front, Philippines_
+_Context: Basilan island, Moro National Liberation Front, Philippine_
 
 ## [Previous Day...](/news/2013/07/11/index.md)
 

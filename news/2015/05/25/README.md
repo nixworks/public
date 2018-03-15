@@ -33,7 +33,7 @@ _Context: China, South China Sea, United States_
 
 ##### Malaysia
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)
-_Context: Malaysia, Philippines, a dispute regarding the ownership of Sabah_
+_Context: Malaysia, Philippine, a dispute regarding the ownership of Sabah_
 
 ##### Gold mine
 ### [Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. ](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodies-from-a-collapsed-gold-mine-in-colombia-with-15-people-recovered.md)

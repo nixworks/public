@@ -13,7 +13,7 @@ _Context: Hwang Kyo-ahn, Kim Byong-joon, Park Geun-hye, Prime Minister, politica
 
 ##### Philippines-United States relations
 ### [United States State Department blocks the sale of firearms to the Philippines due to concerns of human rights violations. ](/news/2016/11/2/united-states-state-department-blocks-the-sale-of-firearms-to-the-philippines-due-to-concerns-of-human-rights-violations.md)
-_Context: Philippines, Philippines-United States relations, State Department, United States, drug crackdown, firearms, human rights violations_
+_Context: Philippine, Philippines-United States relations, State Department, United States, drug crackdown, firearms, human rights violations_
 
 ##### Chinese state media
 ### [Chinese state media reports that all 33 miners trapped underground have been found dead on Monday after a gas explosion at Jinshangou Coal Mine in Laisu Town of Yongchuan District in Chongqing, and preliminary investigations have been started. ](/news/2016/11/2/chinese-state-media-reports-that-all-33-miners-trapped-underground-have-been-found-dead-on-monday-after-a-gas-explosion-at-jinshangou-coal-m.md)

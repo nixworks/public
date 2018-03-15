@@ -19,9 +19,9 @@ _Context: Japan, Lee Myung-bak, Liancourt Rocks, South Korea, South Korean Presi
 ### [The United States says they are planning to help clean up herbicide Agent Orange from areas of Vietnam, the first time since the Vietnam War ended in 1975. ](/news/2012/08/10/the-united-states-says-they-are-planning-to-help-clean-up-herbicide-agent-orange-from-areas-of-vietnam-the-first-time-since-the-vietnam-war.md)
 _Context: Agent Orange, United States, Vietnam, Vietnam War_
 
-##### Philippines
+##### Philippine
 ### [The death toll from recent floods in the Philippines capital Manila and surrounding regions rises to 60. ](/news/2012/08/10/the-death-toll-from-recent-floods-in-the-philippines-capital-manila-and-surrounding-regions-rises-to-60.md)
-_Context: Manila, Philippines_
+_Context: Manila, Philippine_
 
 ##### Mohammed Hadia al Feitouri
 ### [A Libyan army general Mohammed Hadia al Feitouri is shot dead in Benghazi. ](/news/2012/08/10/a-libyan-army-general-mohammed-hadia-al-feitouri-is-shot-dead-in-benghazi.md)

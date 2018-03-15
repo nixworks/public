@@ -13,7 +13,7 @@ The New York Times said on Tuesday its Moscow bureau was targeted by a cyber att
 
 ##### Drug crackdown
 ### [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md)
-_Context: Commission on Human Rights, ICC, drug crackdown_
+_Context: Commission on Human Rights, International Criminal Court, drug crackdown_
 
 ##### 2015 Bangkok bombing
 ### [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md)

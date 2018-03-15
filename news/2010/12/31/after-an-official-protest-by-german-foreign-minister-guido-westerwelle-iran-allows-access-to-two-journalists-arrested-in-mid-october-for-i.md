@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/31/after-an-official-protest-by-german-foreign-min
 
 ### [2010-12-31](/news/2010/12/31/index.md)
 
-##### Foreign Minister
+##### Federal Minister of Foreign Affairs
 # After an official protest by German Foreign Minister, Guido Westerwelle, Iran allows access to two journalists arrested in mid-October for interviewing family members of Sakineh Mohammadi Ashtiani, sentenced to death by stoning for alleged adultery. 
 
 The two journalists were arrested in mid-October for interviewing family members of woman sentenced to death by stoning for alleged adultery.

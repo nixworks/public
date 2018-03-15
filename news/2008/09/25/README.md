@@ -17,7 +17,7 @@ _Context: Kgalema Motlanthe, President of South Africa, apartheid_
 
 ##### Typhoon Hagupit
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)
-_Context: China, Philippines, Typhoon Hagupit_
+_Context: China, Philippine, Typhoon Hagupit_
 
 ##### British Energy
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)

@@ -15,7 +15,7 @@ _Context: Htin Kyaw, Myanmar, parliament_
 ### [The United States Supreme Court, in a 6-2 ruling, essentially upholds the state of Colorado's legalization of marijuana, turning down complaints by the neighboring states of Nebraska and Oklahoma that, by federal and their state law, Colorado's statutes allow "illegal marijuana" to pour into their states. Last year, the justices asked the federal government to weigh in; in December, Solicitor General Donald Verrilli Jr. urged the court to turn away the lawsuit. Justices Clarence Thomas and Samuel Alito dissented. ](/news/2016/03/21/the-united-states-supreme-court-in-a-6-2-ruling-essentially-upholds-the-state-of-colorado-s-legalization-of-marijuana-turning-down-compla.md)
 WASHINGTON — The Supreme Court on Monday rejected a conservative challenge to the marijuana legalization laws adopted in Colorado and elsewhere that permit adults to buy, sell or use an ounce of the drug. By a 6-2 vote, the justices turned away a lawsuit brought by Nebraska and Oklahoma, whose sta...
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court finds ex-Vice President of the Democratic Republic of the Congo Jean-Pierre Bemba guilty of war crimes. Bemba is accused of not taking steps to stop his militia from committing mass murder, rape and pillage in neighbouring Central African Republic. ](/news/2016/03/21/the-international-criminal-court-finds-ex-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-guilty-of-war-crimes-bem.md)
 Court’s conviction of Jean-Pierre Bemba by command responsibility hailed as historic moment for victims of sexual violence
 

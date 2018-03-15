@@ -45,7 +45,7 @@ Cairo says newly elected leader will not be attending conference in Tehran
 
 ##### Standard & Poor's
 ### [Standard & Poor's raises the credit rating of the Philippines to BB+. ](/news/2012/07/4/standard-poor-s-raises-the-credit-rating-of-the-philippines-to-bb.md)
-_Context: Philippines, Standard & Poor's_
+_Context: Philippine, Standard & Poor's_
 
 ##### Bob Diamond
 ### [Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-select-committee-on-the-bank-s-manipu.md)

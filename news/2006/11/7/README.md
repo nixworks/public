@@ -33,7 +33,7 @@ _Context: ''Generalitat'', Catalonia, ERC, EUiA, ICV, Jos Montilla, PSC, electio
 
 ##### After 48 rounds of voting
 ### [ After 48 rounds of voting, Panama is elected to a non-permanent seat on the United Nations Security Council. ](/news/2006/11/7/after-48-rounds-of-voting-panama-is-elected-to-a-non-permanent-seat-on-the-united-nations-security-council.md)
-_Context: After 48 rounds of voting, Panama, Security Council, United Nations_
+_Context: After 48 rounds of voting, Panamanian, Security Council, United Nations_
 
 ##### Daniel Ortega
 ### [ Daniel Ortega is elected President of Nicaragua in the 2006 general election, after rival candidate Eduardo Montealegre concedes defeat. ](/news/2006/11/7/daniel-ortega-is-elected-president-of-nicaragua-in-the-2006-general-election-after-rival-candidate-eduardo-montealegre-concedes-defeat.md)

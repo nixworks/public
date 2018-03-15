@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Kota Ternate
 ### [A 7.1 magnitude earthquake occurs in waters off Kota Ternate in Indonesia with the potential to trigger a tsunami to hit Indonesia and the Philippines. ](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.md)
-_Context: Indonesia, Kota Ternate, Philippines, tsunami_
+_Context: Indonesia, Kota Ternate, Philippine, tsunami_
 
 ##### Magnitude earthquake
 ### [A 5.4 magnitude earthquake causes serious damage in the Lake Region of Kyrgyzstan. ](/news/2014/11/15/a-5-4-magnitude-earthquake-causes-serious-damage-in-the-lake-region-of-kyrgyzstan.md)

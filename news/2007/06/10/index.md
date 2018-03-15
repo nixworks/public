@@ -7,9 +7,9 @@ Formats: [HTML](2007/06/10/index.html)  [JSON](2007/06/10/index.json)  [XML](200
 ### [ The hit tv series The Sopranos aired its final episode. ](/news/2007/06/10/the-hit-tv-series-the-sopranos-aired-its-final-episode.md)
 _Context: The Sopranos, tv series_
 
-##### Philippines
+##### Philippine
 ### [ Five people are killed in a ferry fire in the Philippines. ](/news/2007/06/10/five-people-are-killed-in-a-ferry-fire-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### Belgium
 ### [ Belgium holds a general election. Liberal Prime Minister Guy Verhofstadt is expected to lose power to the Christian Democrats of Yves Leterme. ](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.md)

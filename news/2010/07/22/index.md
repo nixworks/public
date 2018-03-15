@@ -85,7 +85,7 @@ _Context: Fiji, Voreqe Bainimarama_
 
 ##### Chad
 ### [Chad suggests the International Criminal Court is biased against African leaders. ](/news/2010/07/22/chad-suggests-the-international-criminal-court-is-biased-against-african-leaders.md)
-_Context: Chad, ICC_
+_Context: Chad, International Criminal Court_
 
 ##### Belarus
 ### [Belarus and Georgia form political alliance against Russia. ](/news/2010/07/22/belarus-and-georgia-form-political-alliance-against-russia.md)

@@ -29,7 +29,7 @@ _Context: Bolivia, La Paz, Sucre_
 
 ##### China
 ### [ China shuts down a chemical plant associated with deaths in Panama from tainted medicine and two petfood plants associated with the deaths of pets in the United States. ](/news/2007/07/20/china-shuts-down-a-chemical-plant-associated-with-deaths-in-panama-from-tainted-medicine-and-two-petfood-plants-associated-with-the-deaths.md)
-_Context: China, Panama, United States_
+_Context: China, Panamanian, United States_
 
 ##### UK
 ### [ The UK Crown Prosecution Service ends its inquiry into the "Cash for honours" claims with a finding that the evidence is not sufficient to warrant charges being laid. ](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.md)

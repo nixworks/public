@@ -27,9 +27,9 @@ _Context: Iran, MPs_
 ### [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court issues an arrest warrant for Abdelrahim Mohamed Hussein, Sudan's Defence Minister, on war crimes charges in connection to Darfur. ](/news/2012/03/2/the-international-criminal-court-issues-an-arrest-warrant-for-abdelrahim-mohamed-hussein-sudan-s-defence-minister-on-war-crimes-charges-in.md)
-_Context: Abdelrahim Mohamed Hussein, Darfur, ICC, Sudan, war crimes_
+_Context: Abdelrahim Mohamed Hussein, Darfur, International Criminal Court, Sudan, war crimes_
 
 ##### India
 ### [The Indian Intelligence Bureau launches an inquiry into whether the office of Defence Minister A. K. Antony had been bugged. ](/news/2012/03/2/the-indian-intelligence-bureau-launches-an-inquiry-into-whether-the-office-of-defence-minister-a-k-antony-had-been-bugged.md)

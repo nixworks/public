@@ -33,7 +33,7 @@ Pyongyang says it is will restart disarmament talks as UN condemns South Korea s
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md)
-_Context: Japan, Naoto Kan, Prime Minister of Japan, loses its majority_
+_Context: Japan, Japanese Prime Minister, Naoto Kan, loses its majority_
 
 ##### National League for Democracy
 ### [A breakaway group from the National League for Democracy in Burma registers to participate in the general election later this year. ](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.md)

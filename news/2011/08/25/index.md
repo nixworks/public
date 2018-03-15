@@ -25,7 +25,7 @@ The number of people arrested over rioting and looting in London earlier this mo
 
 ##### 2011 Pacific typhoon season
 ### [2011 Pacific typhoon season: At least one person in the Philippines is missing and several towns are flooded as a result of Typhoon Nanmadol which is now heading for Taiwan. ](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.md)
-_Context: 2011 Pacific typhoon season, Philippines, Taiwan, Typhoon Nanmadol_
+_Context: 2011 Pacific typhoon season, Philippine, Taiwan, Typhoon Nanmadol_
 
 ##### New York City
 ### [New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane-irene.md)

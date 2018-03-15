@@ -9,7 +9,7 @@ _Context: 2018 in spaceflight, Cape Canaveral Air Force Station, Falcon 9 Full T
 
 ##### Presidency of Donald Trump
 ### [U.S. National Economic Council director Gary Cohn announces his resignation. ](/news/2018/03/6/u-s-national-economic-council-director-gary-cohn-announces-his-resignation.md)
-_Context: Gary Cohn, Presidency of Donald Trump, U.S. National Economic Council_
+_Context: Gary Cohn, National Economic Council, Presidency of Donald Trump_
 
 ##### Politics of Russia
 ### [Deputy Prime Minister Arkady Dvorkovich replaces Deputy Prime Minister Vitaly Mutko as the Russian government executive in charge of the 2018 FIFA World Cup. ](/news/2018/03/6/deputy-prime-minister-arkady-dvorkovich-replaces-deputy-prime-minister-vitaly-mutko-as-the-russian-government-executive-in-charge-of-the-201.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/28/index.html)  [JSON](2007/03/28/index.json)  [XML](200
 
 ##### Teacher
 ### [ Armed gunmen take 32 children and two teachers hostage in the centre of Manila, the capital of the Philippines. The gunmen later surrendered and released the hostages. ](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.md)
-_Context: Manila, Philippines, teacher_
+_Context: Manila, Philippine, teacher_
 
 ##### Tank
 ### [ Pakistani militants attack security bases in the town of Tank in the North-West Frontier Province of Pakistan resulting in two deaths. ](/news/2007/03/28/pakistani-militants-attack-security-bases-in-the-town-of-tank-in-the-north-west-frontier-province-of-pakistan-resulting-in-two-deaths.md)

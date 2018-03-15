@@ -25,7 +25,7 @@ _Context: EU Constitution, European Union, Ireland, The Irish Times, opinion pol
 
 ##### Sudan
 ### [ Sudan rejects the UN's decision to use the International Criminal Court to try criminals in relation to the atrocities of the Darfur conflict, and instead opens its own recently-created special court. ](/news/2005/06/14/sudan-rejects-the-un-s-decision-to-use-the-international-criminal-court-to-try-criminals-in-relation-to-the-atrocities-of-the-darfur-confli.md)
-_Context: Darfur conflict, ICC, Sudan, UN_
+_Context: Darfur conflict, International Criminal Court, Sudan, UN_
 
 ##### George Best
 ### [ George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-bailed-on-suspicion-of-indecently-assaulting-a.md)

@@ -9,7 +9,7 @@ PORT-AU-PRINCE, Haiti (AP) — Prime Minister Laurent Lamothe announced early Su
 
 ##### 2014
 ### [Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its-junior-coalition-partner-win-325.md)
-_Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
+_Context: 2014, Japanese, Japanese Prime Minister, Komeito, Liberal Democratic Party, Shinzo Abe_
 
 ##### Turkish
 ### [Turkish police arrest 24 journalists, all of whom are supporters of Fethullah Gulen who is a rival of current Turkish President Recep Tayyip Erdogan and is currently in self-imposed exile in the United States. ](/news/2014/12/14/turkish-police-arrest-24-journalists-all-of-whom-are-supporters-of-fethullah-ga1-4len-who-is-a-rival-of-current-turkish-president-recep-tayyi.md)

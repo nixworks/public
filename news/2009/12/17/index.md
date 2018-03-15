@@ -51,9 +51,9 @@ The Vatican has confirmed that Pope Benedict XVI has accepted the resignation of
 ### [ Ireland exits "one of Europe's worst recessions". ](/news/2009/12/17/ireland-exits-one-of-europe-s-worst-recessions.md)
 GDP grew slightly during the third quarter but the Central Statistics Office (CSO) has urged caution on calling an end to recession&hellip;
 
-##### Panama
+##### Panamanian
 ### [ The Panamanian livestock transporter MV "Danny F II" sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people-o.md)
-_Context: Lebanese, MV ''Danny F II'', Panama, Syria, Uruguay_
+_Context: Lebanese, MV ''Danny F II'', Panamanian, Syria, Uruguay_
 
 ##### Europe
 ### [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md)

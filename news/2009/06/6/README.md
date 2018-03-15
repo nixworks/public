@@ -23,9 +23,9 @@ _Context: Harvard University, coagulation, molecular mechanism_
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
 _Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, police officer, spy_
 
-##### Philippines
+##### Philippine
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippines, army, communist insurgency_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippine, army, communist insurgency_
 
 ##### Air France
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)

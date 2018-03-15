@@ -31,7 +31,7 @@ _Context: Richard Kramer, San Francisco, marriage, unconstitutional_
 ### [ Bangladesh bans smoking in public places. ](/news/2005/03/14/bangladesh-bans-smoking-in-public-places.md)
 _Context: Bangladesh, smokers_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, inmates of a Camp Bagong Diwa maximum security prison in Manila took hostages during an attempted jailbreak and demand to talk with authorities. At least four guards and one prisoner have been killed. Prisoners claim to hold 100 hostages; police dispute this number. According to the police, the attempt was led by imprisoned members of Abu Sayyaf. ](/news/2005/03/14/in-the-philippines-inmates-of-a-camp-bagong-diwa-maximum-security-prison-in-manila-took-hostages-during-an-attempted-jailbreak-and-demand.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

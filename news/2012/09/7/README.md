@@ -27,9 +27,9 @@ _Context: Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, 
 ### [South Korea offers food aid to North Korea after recent floods which have killed over 500 North Koreans. ](/news/2012/09/7/south-korea-offers-food-aid-to-north-korea-after-recent-floods-which-have-killed-over-500-north-koreans.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
-##### Foreign Minister
+##### Federal Minister of Foreign Affairs
 ### [Germany and France's foreign ministers say they are in favour of new sanctions to target Iranian finance, trade and oil in around ten days, if talks about Iran's nuclear program do not "make any substantial progress." ](/news/2012/09/7/germany-and-france-s-foreign-ministers-say-they-are-in-favour-of-new-sanctions-to-target-iranian-finance-trade-and-oil-in-around-ten-days.md)
-_Context: Foreign Minister, France's foreign ministers, talks about Iran's nuclear program_
+_Context: Federal Minister of Foreign Affairs, France's foreign ministers, talks about Iran's nuclear program_
 
 ##### Canada
 ### [Canada closes its embassy in Iran and orders all Iranian diplomatic staff out of Canada, citing Iran's support for Syrian President Bashar al-Assad, Iran's "among the worst" human rights record, its lack of respect for the Vienna conventions, its nuclear program and the security of Canadian diplomatic personnel. It sees Iran as the world's "most significant threat to global peace and security." Minister of foreign affairs Baird says the Canadian government files Iran as a "state sponsor of terrorism" under the Canadian ](/news/2012/09/7/canada-closes-its-embassy-in-iran-and-orders-all-iranian-diplomatic-staff-out-of-canada-citing-iran-s-support-for-syrian-president-bashar-a.md)

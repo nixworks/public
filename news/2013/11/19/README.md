@@ -41,7 +41,7 @@ At least 18 people are killed in flooding after a cyclone lashes the island of S
 
 ##### World Bank
 ### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
-_Context: Philippines, World Bank_
+_Context: Philippine, World Bank_
 
 ##### Bombardier Aerospace
 ### [Bombardier Aerospace, a Canadian manufacturer, signs a letter of intent to sell Iraq's national carrier five CSeries jets with options for 11 more. ](/news/2013/11/19/bombardier-aerospace-a-canadian-manufacturer-signs-a-letter-of-intent-to-sell-iraq-s-national-carrier-five-cseries-jets-with-options-for-1.md)

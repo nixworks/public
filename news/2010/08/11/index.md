@@ -81,7 +81,7 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 
 ##### Seychelles
 ### [The Seychelles becomes the 112 th country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112-th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md)
-_Context: ICC, Rome Statute, Seychelles_
+_Context: International Criminal Court, Rome Statute, Seychelles_
 
 ##### NTSB
 ### [National Transportation Safety Board investigators arrive at the scene of the 2010 Alaska plane crash near Aleknagik, Alaska. ](/news/2010/08/11/national-transportation-safety-board-investigators-arrive-at-the-scene-of-the-2010-alaska-plane-crash-near-aleknagik-alaska.md)

@@ -83,9 +83,9 @@ _Context: China, smoking_
 ### [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md)
 _Context: California, Raymond Chandler, San Diego, U.S. state_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan vows to find the remains of the 12,000 Japanese soldiers still missing after the Battle of Iwo Jima of World War II. ](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.md)
-_Context: Battle of Iwo Jima, Imperial Japanese Army, Naoto Kan, Prime Minister of Japan, World War II_
+_Context: Battle of Iwo Jima, Imperial Japanese Army, Japanese Prime Minister, Naoto Kan, World War II_
 
 ##### Philippine government
 ### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)

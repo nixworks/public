@@ -9,7 +9,7 @@ TheINQUIRER publishes daily news, reviews on the latest gadgets and devices, and
 
 ##### War crimes
 ### [ The United States abandons an attempt to shield its soldiers from war crimes prosecution by the International Criminal Court. ](/news/2004/06/23/the-united-states-abandons-an-attempt-to-shield-its-soldiers-from-war-crimes-prosecution-by-the-international-criminal-court.md)
-_Context: ICC, war crimes_
+_Context: International Criminal Court, war crimes_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia offers an amnesty from execution to any al Qaida-affiliated militants within the kingdom who turn themselves in within the next month. ](/news/2004/06/23/saudi-arabia-offers-an-amnesty-from-execution-to-any-al-qaida-affiliated-militants-within-the-kingdom-who-turn-themselves-in-within-the-nex.md)

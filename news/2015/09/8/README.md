@@ -5,7 +5,7 @@ Formats: [HTML](2015/09/8/index.html)  [JSON](2015/09/8/index.json)  [XML](2015/
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, is reelected (unopposed) President of the Liberal Democratic Party. ](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.md)
-_Context: Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
+_Context: Japanese Prime Minister, Liberal Democratic Party, Shinzo Abe_
 
 ##### Matrimonial nullity trial reforms of Pope Francis
 ### [Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declarations-of-nullity-marriage-annulments.md)

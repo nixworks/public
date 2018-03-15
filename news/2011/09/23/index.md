@@ -25,7 +25,7 @@ The Middle East Quartet urges Israel and the Palestinians to resume peace talks 
 
 ##### Flood
 ### [Floods in the Filipino province of Maguindanao affect 16,000 families. ](/news/2011/09/23/floods-in-the-filipino-province-of-maguindanao-affect-16-000-families.md)
-_Context: Flood, Maguindanao, Philippines_
+_Context: Flood, Maguindanao, Philippine_
 
 ##### Fitch Ratings
 ### [Fitch Ratings predicts that financial returns on commercial property in the United States will stabilize, though slowly, in the months ahead. ](/news/2011/09/23/fitch-ratings-predicts-that-financial-returns-on-commercial-property-in-the-united-states-will-stabilize-though-slowly-in-the-months-ahead.md)

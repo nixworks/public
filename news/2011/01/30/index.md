@@ -43,7 +43,7 @@ A series of explosions at an arms depot in Venezuela leaves one person dead and 
 
 ##### Navotas City
 ### [12 people are killed and 360 families left homeless after a fire in Navotas City, near Manila, Philippines. ](/news/2011/01/30/12-people-are-killed-and-360-families-left-homeless-after-a-fire-in-navotas-city-near-manila-philippines.md)
-_Context: Manila, Navotas City, Philippines_
+_Context: Manila, Navotas City, Philippine_
 
 ##### Alpha Natural Resources
 ### [Alpha Natural Resources buys out Massey Energy for $7.1billion, making Alpha the second largest U.S. coal mining company by market value.](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.md)

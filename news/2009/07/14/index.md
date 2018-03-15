@@ -37,7 +37,7 @@ _Context: Charles Taylor, Liberia, President of Liberia, trial_
 
 ##### Japan
 ### [ Japanese Prime Minister Taro Aso survives a vote of no-confidence. ](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.md)
-_Context: Japan, Prime Minister of Japan, Taro Aso_
+_Context: Japan, Japanese Prime Minister, Taro Aso_
 
 ##### Saudi Arabia
 ### [ 323 people &ndash; 289 Saudis and 41 foreigners &ndash; are sentenced at a court in Saudi Arabia for links to anti-government groups. ](/news/2009/07/14/323-people-ndash-289-saudis-and-41-foreigners-ndash-are-sentenced-at-a-court-in-saudi-arabia-for-links-to-anti-government-groups.md)

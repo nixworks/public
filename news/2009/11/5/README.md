@@ -47,9 +47,9 @@ _Context: Morgan Tsvangirai, Prime Minister, Zimbabwe_
 ### [ A United Nations court imposes a defense lawyer on former Bosnian Serb leader Radovan Karadzic, and postpones his trial until March 2010. ](/news/2009/11/5/a-united-nations-court-imposes-a-defense-lawyer-on-former-bosnian-serb-leader-radovan-karada3-4ia-and-postpones-his-trial-until-march-2010.md)
 Radovan Karadzic will have a defence lawyer imposed on him after United Nations judges ruled that he had &#039;substantially and persistently obstructed&#039; his trial for genocide and war crimes.
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court is to open an investigation into the 2007 Kenyan post-election violence in which more than 1,000 people died. ](/news/2009/11/5/the-international-criminal-court-is-to-open-an-investigation-into-the-2007-kenyan-post-election-violence-in-which-more-than-1-000-people-di.md)
-_Context: ICC, Kenya, post-election violence_
+_Context: International Criminal Court, Kenya, post-election violence_
 
 ##### Fort Hood massacre
 ### [ 13 people die and 30 people are injured in a shooting at the Fort Hood U.S. Army base in Texas. ](/news/2009/11/5/13-people-die-and-30-people-are-injured-in-a-shooting-at-the-fort-hood-u-s-army-base-in-texas.md)

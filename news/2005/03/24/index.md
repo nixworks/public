@@ -13,7 +13,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### France
 ### [ France presents a draft resolution to vote at the United Nations. It would give war crime cases in Darfur region of Sudan to the International Criminal Court in the Hague. US resists the idea. ](/news/2005/03/24/france-presents-a-draft-resolution-to-vote-at-the-united-nations-it-would-give-war-crime-cases-in-darfur-region-of-sudan-to-the-internatio.md)
-_Context: Darfur, France, ICC, Sudan, United Nations, the Hague, war crime_
+_Context: Darfur, France, International Criminal Court, Sudan, United Nations, the Hague, war crime_
 
 ##### World Health Organization
 ### [ The World Health Organization states that tuberculosis cases in some African countries have tripled since 1990. There are also resistant strains of tuberculosis in Russia. ](/news/2005/03/24/the-world-health-organization-states-that-tuberculosis-cases-in-some-african-countries-have-tripled-since-1990-there-are-also-resistant-st.md)

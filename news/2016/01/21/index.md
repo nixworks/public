@@ -17,7 +17,7 @@ _Context: Mejlis of the Crimean Tatar People, Mustafa Dzhemilev, State Council o
 
 ##### Dominic Ongwen
 ### [Dominic Ongwen, a former commander of the Lord's Resistance Army in Uganda, appears before the International Criminal Court in a hearing to determine whether a criminal trial should go ahead. ](/news/2016/01/21/dominic-ongwen-a-former-commander-of-the-lord-s-resistance-army-in-uganda-appears-before-the-international-criminal-court-in-a-hearing-to.md)
-_Context: Dominic Ongwen, ICC, Lord's Resistance Army, Uganda_
+_Context: Dominic Ongwen, International Criminal Court, Lord's Resistance Army, Uganda_
 
 ##### Burundian unrest (2015-present)
 ### [Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-peacekeeping-troops-in-burundi-to-prev.md)

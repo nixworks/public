@@ -59,9 +59,9 @@ _Context: Cambodia, corruption_
 ### [Thousands of asylum seekers from Ethiopia and Somalia are stranded in camps in northern Mozambique after measures adopted by the government to restrict their movements. ](/news/2011/05/12/thousands-of-asylum-seekers-from-ethiopia-and-somalia-are-stranded-in-camps-in-northern-mozambique-after-measures-adopted-by-the-government.md)
 Thousands of frustrate
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md)
-_Context: Djibouti, ICC, Omar al-Bashir, Sudan, United Nations Security Council, war crime_
+_Context: Djibouti, International Criminal Court, Omar al-Bashir, Sudan, United Nations Security Council, war crime_
 
 ##### Flooding
 ### [Flooding along the Mississippi River in the United States threatens $2-4 billion estimated damages. ](/news/2011/05/12/flooding-along-the-mississippi-river-in-the-united-states-threatens-2-4-billion-estimated-damages.md)

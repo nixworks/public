@@ -19,9 +19,9 @@ _Context: Mikhail Khodorkovsky, Platon Lebedev, Supreme Court of Russia, Yukos_
 ### [Swedish sex club owner Mille Markovic is shot dead in Stockholm. ](/news/2014/01/23/swedish-sex-club-owner-mille-markovic-is-shot-dead-in-stockholm.md)
 _Context: Mille Markovic, sex club_
 
-##### Philippines
+##### Philippine
 ### [Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". ](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.md)
-_Context: Gloria Macapagal-Arroyo, Imelda Marcos, Philippines, his predecessor_
+_Context: Gloria Macapagal-Arroyo, Imelda Marcos, Philippine, his predecessor_
 
 ##### Justin Bieber
 ### [Pop star Justin Bieber is arrested for drunken driving and resisting arrest. ](/news/2014/01/23/pop-star-justin-bieber-is-arrested-for-drunken-driving-and-resisting-arrest.md)

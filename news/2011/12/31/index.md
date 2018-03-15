@@ -37,7 +37,7 @@ _Context: Cuddalore, Cyclone Thane, India_
 
 ##### Firecracker
 ### [More than 200 people are injured by illegally huge firecrackers and celebratory gunfire in the Philippines. ](/news/2011/12/31/more-than-200-people-are-injured-by-illegally-huge-firecrackers-and-celebratory-gunfire-in-the-philippines.md)
-_Context: Philippines, firecracker_
+_Context: Philippine, firecracker_
 
 ##### Chile
 ### [Authorities in Chile close the Torres del Paine National Park, amid an ongoing forest fire in Patagonia. ](/news/2011/12/31/authorities-in-chile-close-the-torres-del-paine-national-park-amid-an-ongoing-forest-fire-in-patagonia.md)

@@ -53,7 +53,7 @@ Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in
 
 ##### Indonesian foreign ministry
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
-_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
+_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippine_
 
 ##### Iran and weapons of mass destruction
 ### [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md)

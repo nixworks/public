@@ -33,7 +33,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 
 ##### Japanese government
 ### [The Japanese government led by Prime Minister Naoto Kan announces that it is firing three senior bureaucrats responsible for nuclear energy policy as a result of the Fukushima Daiichi nuclear disaster earlier this year. ](/news/2011/08/4/the-japanese-government-led-by-prime-minister-naoto-kan-announces-that-it-is-firing-three-senior-bureaucrats-responsible-for-nuclear-energy.md)
-_Context: Fukushima Daiichi nuclear disaster, Japanese government, Naoto Kan, Prime Minister of Japan, nuclear program_
+_Context: Fukushima Daiichi nuclear disaster, Japanese Prime Minister, Japanese government, Naoto Kan, nuclear program_
 
 ##### Tropical Storm Emily
 ### [Tropical Storm Emily is expected to make landfall on Haiti where it is expected to cause heavy flooding. ](/news/2011/08/4/tropical-storm-emily-is-expected-to-make-landfall-on-haiti-where-it-is-expected-to-cause-heavy-flooding.md)

@@ -19,9 +19,9 @@ _Context: illegitimate, legitimate_
 ### [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md)
 _Context: Ariel Sharon, Israel, Moshe Katsav, Prime Minister, assassination_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, president Gloria Arroyo states that she would welcome impeachment proceedings as an opportunity to refute allegations about vote-rigging. The military has expressed its support of the president amid rumors of a coup. ](/news/2005/07/4/in-the-philippines-president-gloria-arroyo-states-that-she-would-welcome-impeachment-proceedings-as-an-opportunity-to-refute-allegations-a.md)
-_Context: Gloria Arroyo, Philippines, coup, impeachment_
+_Context: Gloria Arroyo, Philippine, coup, impeachment_
 
 ##### Vicente Carrillo Fuentes
 ### [ Mexican police believe that they have arrested Vicente Carrillo Fuentes, leader of a Jurez drug cartel. ](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.md)

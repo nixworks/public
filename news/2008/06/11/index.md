@@ -17,7 +17,7 @@ Pakistan lodged a strong protest with the United States over what it called an u
 
 ##### Japan
 ### [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md)
-_Context: House of Councillors, Japan, Prime Minister of Japan, World War II, Yasuo Fukuda, censure motion_
+_Context: House of Councillors, Japan, Japanese Prime Minister, World War II, Yasuo Fukuda, censure motion_
 
 ##### British House of Commons
 ### [ The British House of Commons considers anti-terrorism legislation extending the period of preventive detention to 42 days with a close vote expected due to a backbench revolt in the Labour Party. The House eventually passes the bill by 315 votes to 306. ](/news/2008/06/11/the-british-house-of-commons-considers-anti-terrorism-legislation-extending-the-period-of-preventive-detention-to-42-days-with-a-close-vote.md)

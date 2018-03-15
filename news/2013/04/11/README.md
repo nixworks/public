@@ -35,7 +35,7 @@ _Context: India, Mumbai, bribes, policemen_
 ### [Two women are beheaded while another woman and her two daughters await the same fate as they are held captive on accusations of sorcery in Bougainville, Papua New Guinea. ](/news/2013/04/11/two-women-are-beheaded-while-another-woman-and-her-two-daughters-await-the-same-fate-as-they-are-held-captive-on-accusations-of-sorcery-in-b.md)
 Two women have been beheaded while another woman and her two daughters await the same fate as a they are held captive on accusations of sorcery in Papua New Guinea. - New Zealand Herald
 
-##### Chancellor
+##### Chancellor of Germany
 ### [Former Chancellor of Germany Helmut Kohl blames recently deceased former British Prime Minister Margaret Thatcher's hostility towards a closer Europe as the cause for ongoing tensions between the United Kingdom and the European Union. ](/news/2013/04/11/former-chancellor-of-germany-helmut-kohl-blames-recently-deceased-former-british-prime-minister-margaret-thatcher-s-hostility-towards-a-clos.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 

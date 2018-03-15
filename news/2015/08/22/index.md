@@ -11,7 +11,7 @@ _Context: Mahmoud Abbas, Palestinian Liberation Organisation, President of the S
 ### [An incident in the Quetzaltepeque penitentiary in El Salvador leaves fourteen members of the Barrio 18 street gang killed; the killings are believed to be a result of a power struggle within the gang. ](/news/2015/08/22/an-incident-in-the-quetzaltepeque-penitentiary-in-el-salvador-leaves-fourteen-members-of-the-barrio-18-street-gang-killed-the-killings-are.md)
 Fourteen members of one of El Salvador&#x27;s most powerful street gangs were killed in a prison on Saturday in what appeared to be an internal gang purge, authorities said. El Salvador has been racked by rising violence over the past year, with murders surging since the breakdown of a gang truce be...
 
-##### Philippines
+##### Philippine
 ### [An unknown attacker kills a second journalist in the Philippines in a week. ](/news/2015/08/22/an-unknown-attacker-kills-a-second-journalist-in-the-philippines-in-a-week.md)
 Sorsogon radioman Teodoro Escanilla of DZMS was gunned down in his home on Tuesday night (August 19). But before Escanilla was killed, Davao del Norte Press and Radio-TV Club (DNPRC) president Gregorio Ybanez was also fatally shot by an unidentified gun man.
 

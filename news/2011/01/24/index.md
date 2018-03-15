@@ -103,7 +103,7 @@ Two separate bomb attacks targeting Shia pilgrims in the Iraqi city of Karbala h
 ### [Zimbabwean ministers condemn the invasion of tourist lodges by supporters of Robert Mugabe who say they were implementing government policy. ](/news/2011/01/24/zimbabwean-ministers-condemn-the-invasion-of-tourist-lodges-by-supporters-of-robert-mugabe-who-say-they-were-implementing-government-policy.md)
 Ministers condemn the invasion of several tourist lodges in Zimbabwe by people saying they are implementing government policy.
 
-##### Philippines
+##### Philippine
 ### [Rebels in the Philippines kill five policemen in the first attack since an agreement to restart peace talks. ](/news/2011/01/24/rebels-in-the-philippines-kill-five-policemen-in-the-first-attack-since-an-agreement-to-restart-peace-talks.md)
 It is the first major assault since the government and communist rebels agreed to restart peace talks in Oslo.
 

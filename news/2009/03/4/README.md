@@ -15,9 +15,9 @@ _Context: Balmoral, Fred Olsen, Gulf of Aden, Norway, Somali pirates, Somalia, U
 ### [ Ukraine's Security Service raids Naftogas's headquarters in Kiev. ](/news/2009/03/4/ukraine-s-security-service-raids-naftogas-s-headquarters-in-kiev.md)
 _Context: Kiev, Naftogas, SBU, Ukraine_
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court issues an arrest warrant for Sudanese President Omar al-Bashir for a five-year campaign of violence in Darfur. ](/news/2009/03/4/the-international-criminal-court-issues-an-arrest-warrant-for-sudanese-president-omar-al-bashir-for-a-five-year-campaign-of-violence-in-dar.md)
-_Context: Darfur, ICC, Omar al-Bashir, President, Sudan, arrest warrant, conflict_
+_Context: Darfur, International Criminal Court, Omar al-Bashir, President, Sudan, arrest warrant, conflict_
 
 ##### ITV
 ### [ Independent Television reports a loss of GBP2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-gbp2-7-billion-for-2008-and-will-cut-600-jobs.md)

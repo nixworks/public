@@ -33,7 +33,7 @@ OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday 
 
 ##### Luzon
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md)
-_Context: Luzon, Philippines_
+_Context: Luzon, Philippine_
 
 ##### Alphabet Inc.
 ### [Alphabet Inc. announces Executive Chairman Eric Schmidt, who has been chief executive of Google-Alphabet since 2001, will step down in January 2018. Schmidt will continue to serve on Alphabet's board of directors. ](/news/2017/12/21/alphabet-inc-announces-executive-chairman-eric-schmidt-who-has-been-chief-executive-of-google-alphabet-since-2001-will-step-down-in-janua.md)

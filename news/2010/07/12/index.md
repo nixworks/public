@@ -31,7 +31,7 @@ Italian military police general Giampaolo Ganzer is sentenced to 14 years in pri
 ### [Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. ](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.md)
 _Context: Cuba, exile, political prisoner_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court charges Sudanese President Omar al-Bashir with three counts of genocide for his role in the Darfur conflict. ](/news/2010/07/12/the-international-criminal-court-charges-sudanese-president-omar-al-bashir-with-three-counts-of-genocide-for-his-role-in-the-darfur-conflict.md)
 The International Criminal Court (ICC) yesterday charged Sudanese President Omar al-Bashir with three counts of genocide in Darfur – a move that piled further diplomatic pressure on his isolated regime and marked the first time the tribunal had issued genocide charges.
 

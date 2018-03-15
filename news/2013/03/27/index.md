@@ -37,7 +37,7 @@ Communist state says it is cutting all direct military contact with South Korea.
 
 ##### Tornado
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
-_Context: Philippines, motorboat, tornado_
+_Context: Philippine, motorboat, tornado_
 
 ##### 2013 Nantou earthquake
 ### [2013 Nantou earthquake: At least one person is killed and 19 others are injured when a 6.0-magnitude earthquake strikes near Taipei, Taiwan, causing a fire and shaking buildings. ](/news/2013/03/27/2013-nantou-earthquake-at-least-one-person-is-killed-and-19-others-are-injured-when-a-6-0-magnitude-earthquake-strikes-near-taipei-taiwan.md)

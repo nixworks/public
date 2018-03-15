@@ -33,7 +33,7 @@ _Context: China, Hu Jintao, Kazakhstan-China oil pipeline_
 
 ##### Islam
 ### [ Over 100 suspected Islamic militants break into a prison in the Philippine city of Isabela, freeing at least 31 inmates and killing two, including a prison guard. ](/news/2009/12/13/over-100-suspected-islamic-militants-break-into-a-prison-in-the-philippine-city-of-isabela-freeing-at-least-31-inmates-and-killing-two-in.md)
-_Context: Isabela City, Islam, Philippines_
+_Context: Isabela City, Islam, Philippine_
 
 ##### Chile
 ### [ Voters in Chile go to the polls in presidential and parliamentary elections. ](/news/2009/12/13/voters-in-chile-go-to-the-polls-in-presidential-and-parliamentary-elections.md)

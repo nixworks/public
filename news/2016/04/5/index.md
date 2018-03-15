@@ -35,7 +35,7 @@ _Context: LGBT rights in the United States, Mississippi Governor, Phil Bryant's,
 ### [The Military junta of Thailand gives the Royal Thai Armed Forces broad police-like powers. The military is now allowed to prevent or suppress over 27 types of offenses. The move created an outcry from human rights organizations and prompted the United States to express its concern over the growing influence of the military in the country. ](/news/2016/04/5/the-military-junta-of-thailand-gives-the-royal-thai-armed-forces-broad-police-like-powers-the-military-is-now-allowed-to-prevent-or-suppres.md)
 The US and human rights groups call for Thailand’s coup leaders to limit military influence over civilian authorities
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court terminates the case against Kenya's Deputy President William Ruto and ends his trial, saying there is insufficient evidence he was involved in deadly violence that erupted after his country's 2007 presidential election. ](/news/2016/04/5/the-international-criminal-court-terminates-the-case-against-kenya-s-deputy-president-william-ruto-and-ends-his-trial-saying-there-is-insuf.md)
 The ICC has terminated the case against Kenya&#39;s deputy president over insufficient evidence.
 

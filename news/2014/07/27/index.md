@@ -3,7 +3,7 @@ Formats: [HTML](2014/07/27/index.html)  [JSON](2014/07/27/index.json)  [XML](201
 
 ## [2014-07-27](/news/2014/07/27/index.md)
 
-##### Philippines
+##### Philippine
 ### [The population of the Philippines reaches 100 million. ](/news/2014/07/27/the-population-of-the-philippines-reaches-100-million.md)
 A baby girl born early Sunday has officially pushed the population of the Philippines to 100 million, highlighting the challenge of providing for more people in the already-impoverished nation. The child, Jennalyn Sentino, was one of 100 babies born in state hospitals all over the archipelago who re...
 

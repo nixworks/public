@@ -85,7 +85,7 @@ Pirates off the coast of Somalia captured a German vessel with 12 men on board b
 ### [Callixte Mbarushimana, the rebel leader accused of committing war crimes in the Democratic Republic of the Congo, is extradited from France to the International Criminal Court in The Hague. ](/news/2011/01/25/callixte-mbarushimana-the-rebel-leader-accused-of-committing-war-crimes-in-the-democratic-republic-of-the-congo-is-extradited-from-france.md)
 A Rwandan rebel leader is extradited from France to The Hague, as his group is accused of attacking a Congolese wildlife park.
 
-##### Philippines
+##### Philippine
 ### [Four people are killed and 18 injured after a bus bombing in the Philippine capital Manila. ](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.md)
 A woman injured in the powerful bomb explosion in a bus in the Philippine capital of Manila died Wednesday, raising the death toll to five, authorities said.
 

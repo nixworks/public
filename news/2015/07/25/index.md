@@ -13,7 +13,7 @@ Water-bombers were called in Saturday to try to contain a forest fire burning on
 
 ##### Chris Brown
 ### [Chris Brown leaves the Philippines after he is prevented from leaving for four days due to a financial dispute between Brown and the Christian sect Iglesia ni Cristo. ](/news/2015/07/25/chris-brown-leaves-the-philippines-after-he-is-prevented-from-leaving-for-four-days-due-to-a-financial-dispute-between-brown-and-the-christi.md)
-_Context: Chris Brown, Iglesia ni Cristo, Philippines_
+_Context: Chris Brown, Iglesia ni Cristo, Philippine_
 
 ##### Suicide bombing
 ### [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md)

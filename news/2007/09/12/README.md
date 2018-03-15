@@ -9,7 +9,7 @@ _Context: 2007, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Trop
 
 ##### Shinzo Abe
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
-_Context: Prime Minister of Japan, Shinzo Abe, with the election of his successor_
+_Context: Japanese Prime Minister, Shinzo Abe, with the election of his successor_
 
 ##### President
 ### [ Former President of the Philippines Joseph Estrada is found guilty of corruption in his 6-year trial and sentenced to Life Imprisonment. ](/news/2007/09/12/former-president-of-the-philippines-joseph-estrada-is-found-guilty-of-corruption-in-his-6-year-trial-and-sentenced-to-life-imprisonment.md)

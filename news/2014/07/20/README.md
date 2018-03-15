@@ -13,7 +13,7 @@ China has sent a spy ship to international waters off of Hawaii during a giant U
 
 ##### 2014 Pacific typhoon season
 ### [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md)
-_Context: 2014 Pacific typhoon season, China, Philippines, Typhoon Rammasun (Glenda)_
+_Context: 2014 Pacific typhoon season, China, Philippine, Typhoon Rammasun (Glenda)_
 
 ##### Monty Python
 ### [Monty Python perform their last ever comedy show at the The O2 Arena in London. ](/news/2014/07/20/monty-python-perform-their-last-ever-comedy-show-at-the-the-o2-arena-in-london.md)

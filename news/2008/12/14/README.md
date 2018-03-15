@@ -21,7 +21,7 @@ _Context: Egypt, Minya, Egypt_
 
 ##### Ferry
 ### [ At least 28 people are dead and 22 missing after the ferry "Maejan" capsizes in the northern Philippines. ](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-after-the-ferry-maejan-capsizes-in-the-northern-philippines.md)
-_Context: Philippines, ferry_
+_Context: Philippine, ferry_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

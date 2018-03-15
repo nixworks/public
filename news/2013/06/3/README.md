@@ -15,9 +15,9 @@ Highly respected technology consultant and evangelist Atul Chitnis, hailed by ma
 ### [Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. ](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.md)
 In a function here on Monday, UP chief minister Akhilesh Yadav distributed laptops to about 8,000 students from Ghaziabad and Noida in the presence of senior party leaders.
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court delays the trial of Kenyan Deputy President William Ruto for "crimes against humanity" until September. ](/news/2013/06/3/the-international-criminal-court-delays-the-trial-of-kenyan-deputy-president-william-ruto-for-crimes-against-humanity-until-september.md)
-_Context: ICC, William Ruto_
+_Context: International Criminal Court, William Ruto_
 
 ##### Sao Paulo
 ### [More than 3 million people take part in "the world's largest gay pride parade" in Sao Paulo, Brazil. ](/news/2013/06/3/more-than-3-million-people-take-part-in-the-world-s-largest-gay-pride-parade-in-sao-paulo-brazil.md)
@@ -65,7 +65,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 
 ##### Cebu Pacific
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Cebu Pacific, Davao City, Manila, Philippines_
+_Context: Cebu Pacific, Davao City, Manila, Philippine_
 
 ##### 
 ### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)

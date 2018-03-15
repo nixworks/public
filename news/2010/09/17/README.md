@@ -7,9 +7,9 @@ Formats: [HTML](2010/09/17/index.html)  [JSON](2010/09/17/index.json)  [XML](201
 ### [Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. ](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.md)
 _Context: Prime Minister, Thailand, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan announces a Ministerial reshuffle with Seiji Maehara announced as the new Minister for Foreign Affairs. ](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.md)
-_Context: Foreign Minister, Naoto Kan, Prime Minister of Japan, Seiji Maehara, forming a government_
+_Context: Foreign Minister, Japanese Prime Minister, Naoto Kan, Seiji Maehara, forming a government_
 
 ##### Police
 ### [Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. ](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints-across-afghanistan-to-prepare-for-taliban-attacks-on-voting-in-the-parliamentary-election-on.md)

@@ -161,7 +161,7 @@ France begins taking down illegal Roma camps in line with a presidential order, 
 
 ##### Zamboanga International Airport
 ### [An explosion at Zamboanga International Airport in the southern Philippines kills two people and injures 24. ](/news/2010/08/6/an-explosion-at-zamboanga-international-airport-in-the-southern-philippines-kills-two-people-and-injures-24.md)
-_Context: Philippines, Zamboanga International Airport_
+_Context: Philippine, Zamboanga International Airport_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)

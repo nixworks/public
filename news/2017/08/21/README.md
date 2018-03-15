@@ -13,7 +13,7 @@ Gov. Terry McAuliffe &ldquo;wants to see arrests and prosecutions&rdquo; in the 
 
 ##### Drug crackdown
 ### [After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
-_Context: EDSA, Philippine Catholic Church, Philippines, drug crackdown, shooting of Kian Loyd delos Santos_
+_Context: EDSA, Philippine, Philippine Catholic Church, drug crackdown, shooting of Kian Loyd delos Santos_
 
 ##### Chemical weapons
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)

@@ -9,7 +9,7 @@ _Context: 2008 Summer Olympics, Olympia, Greece, Olympic Torch, Reporters Withou
 
 ##### President
 ### [ Former President of the Philippines Corazon Aquino, the leader of the 1986 People Power Revolution, is diagnosed with colon cancer. ](/news/2008/03/24/former-president-of-the-philippines-corazon-aquino-the-leader-of-the-1986-people-power-revolution-is-diagnosed-with-colon-cancer.md)
-_Context: 1986 People Power Revolution, Corazon Aquino, Philippines, President, colon cancer_
+_Context: 1986 People Power Revolution, Corazon Aquino, Philippine, President, colon cancer_
 
 ##### Yusuf Raza Gillani
 ### [ Yusuf Raza Gillani of the Pakistan Peoples Party is elected Prime Minister of Pakistan by the National Assembly and vows to free Chief Justice Iftikhar Chaudhry and other judges from house arrest. ](/news/2008/03/24/yusuf-raza-gillani-of-the-pakistan-peoples-party-is-elected-prime-minister-of-pakistan-by-the-national-assembly-and-vows-to-free-chief-just.md)

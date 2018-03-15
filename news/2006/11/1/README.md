@@ -41,7 +41,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Venezuela
 ### [ Venezuela and Guatemala have agreed to withdraw from the race for a seat on the United Nations Security Council; both agreeing to support Panama after 47 rounds of voting. ](/news/2006/11/1/venezuela-and-guatemala-have-agreed-to-withdraw-from-the-race-for-a-seat-on-the-united-nations-security-council-both-agreeing-to-support-p.md)
-_Context: Guatemala, Panama, United Nations Security Council, Venezuela_
+_Context: Guatemala, Panamanian, United Nations Security Council, Venezuela_
 
 ##### Bolivia
 ### [ Bolivian President Evo Morales retracts plans to nationalize the country's mining industry, promising to do so at an unspecified later date. ](/news/2006/11/1/bolivian-president-evo-morales-retracts-plans-to-nationalize-the-country-s-mining-industry-promising-to-do-so-at-an-unspecified-later-date.md)

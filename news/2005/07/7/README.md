@@ -27,9 +27,9 @@ _Context: AIDS, circumcising_
 ### [ Egypt confirms its most senior envoy to Iraq, Ihab al-Sherif, has been killed after being kidnapped last week. A group related to Abu Musab al-Zarqawi has claimed responsibility. ](/news/2005/07/7/egypt-confirms-its-most-senior-envoy-to-iraq-ihab-al-sherif-has-been-killed-after-being-kidnapped-last-week-a-group-related-to-abu-musab.md)
 _Context: Abu Musab al-Zarqawi, Egypt, Ihab al-Sherif, Iraq, kidnapping_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, president Gloria Arroyo asks all the members of her cabinet to resign. ](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.md)
-_Context: Gloria Arroyo, Philippines_
+_Context: Gloria Arroyo, Philippine_
 
 ##### Malta
 ### [ Malta becomes the 12th European Union member to ratify the EU constitution and the first to do so unanimously. ](/news/2005/07/7/malta-becomes-the-12th-european-union-member-to-ratify-the-eu-constitution-and-the-first-to-do-so-unanimously.md)

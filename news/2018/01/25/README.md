@@ -25,7 +25,7 @@ The US president says the Palestinians must pursue peace with Israel if they wan
 
 ##### Germany-Turkey relations
 ### [Chancellor Angela Merkel and Foreign Minister Sigmar Gabriel, for the German caretaker government, decide to delay a decision on upgrading Turkey's German-built Leopard 2 tanks until after the formation of a new government coalition. Foreign Minister of Turkey Mevlut Cavusoglu says Turkey expects "solidarity and support" from its ally. ](/news/2018/01/25/chancellor-angela-merkel-and-foreign-minister-sigmar-gabriel-for-the-german-caretaker-government-decide-to-delay-a-decision-on-upgrading-t.md)
-_Context: Angela Merkel, Chancellor, Foreign Minister, Foreign Minister of Turkey, Germany-Turkey relations, Leopard 2, Mevlut Cavusoglu, Sigmar Gabriel, federal elections, government_
+_Context: Angela Merkel, Chancellor of Germany, Federal Minister of Foreign Affairs, Foreign Minister of Turkey, Germany-Turkey relations, Leopard 2, Mevlut Cavusoglu, Sigmar Gabriel, federal elections, government_
 
 ##### Pioltello train derailment
 ### [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md)

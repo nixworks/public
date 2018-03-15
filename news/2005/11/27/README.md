@@ -33,7 +33,7 @@ _Context: U.S. state, tornado outbreak_
 
 ##### 23rd Southeast Asian Games
 ### [ 23rd Southeast Asian Games formally opens in Manila, Philippines. ](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.md)
-_Context: 23rd Southeast Asian Games, Manila, Philippines_
+_Context: 23rd Southeast Asian Games, Manila, Philippine_
 
 ## [Previous Day...](/news/2005/11/26/index.md)
 

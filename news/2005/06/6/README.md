@@ -15,9 +15,9 @@ _Context: Bougainville Island, Joseph Kabui, autonomous government_
 ### [ Protests against privatisation of essential utilities continue in Bolivia ](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.md)
 _Context: Bolivia_
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court announces an investigation into crimes against humanity in Darfur ](/news/2005/06/6/the-international-criminal-court-announces-an-investigation-into-crimes-against-humanity-in-darfur.md)
-_Context: Darfur, ICC, crimes against humanity_
+_Context: Darfur, International Criminal Court, crimes against humanity_
 
 ##### Condoleezza Rice
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)

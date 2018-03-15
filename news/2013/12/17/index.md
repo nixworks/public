@@ -13,7 +13,7 @@ _Context: Japan, military_
 
 ##### Angela Merkel
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
-_Context: Angela Merkel, Chancellor_
+_Context: Angela Merkel, Chancellor of Germany_
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relationship-between.md)
@@ -69,7 +69,7 @@ It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won 
 
 ##### Bea Rose Santiago
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Bea Rose Santiago, Miss International 2013, Philippines_
+_Context: Bea Rose Santiago, Miss International 2013, Philippine_
 
 ##### Cat Stevens
 ### [Cat Stevens, Hall & Oates, Kiss, Linda Ronstadt, and Nirvana are to be inducted into the Rock and Roll Hall of Fame. ](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.md)

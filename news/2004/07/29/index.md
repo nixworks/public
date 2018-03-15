@@ -15,9 +15,9 @@ Find a local lawyer and free legal information at FindLaw, the award-winning web
 ### [ In Vietnam, dissident pro-democracy activist Dr Nguyen Dan Que is sentenced by the Ho Chi Minh People's Court for "abusing democratic rights to jeopardise the interests of the state, and the legitimate rights and interests of social organisations and citizens". Que is the third dissident this month to be jailed after using the Internet to criticise the ruling Communist government. ](/news/2004/07/29/in-vietnam-dissident-pro-democracy-activist-dr-nguyen-dan-que-is-sentenced-by-the-ho-chi-minh-people-s-court-for-abusing-democratic-right.md)
 Things to do in Miami
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court says it will launch an investigation into ongoing atrocities at the Barlonyo refugee camp in northern Uganda. Reports say that more than 200 people have killed by rebels from the Lord's Resistance Army since the beginning of the year. ](/news/2004/07/29/the-international-criminal-court-says-it-will-launch-an-investigation-into-ongoing-atrocities-at-the-barlonyo-refugee-camp-in-northern-ugan.md)
-_Context: Barlonyo, ICC, Lord's Resistance Army, Uganda_
+_Context: Barlonyo, International Criminal Court, Lord's Resistance Army, Uganda_
 
 ##### Sydney Opera House
 ### [ Two Australian anti-war protestors who daubed "No War" in red paint on the top sail of the Sydney Opera House on March 18, 2003, take their case to the New South Wales Court of Appeal. David Burgess, 33, and Will Saunders, 42, claim their defence of self-defence was not heard by their original trial judge. ](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.md)

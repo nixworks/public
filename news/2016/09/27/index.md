@@ -7,7 +7,7 @@ Formats: [HTML](2016/09/27/index.html)  [JSON](2016/09/27/index.json)  [XML](201
 ### [Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatollah-ali-khamenei-has-previously-advise.md)
 TEHRAN (Tasnim) – Former Iranian president Mahmoud Ahmadinejad said he does not have any plans for running in the country’s 12th presidential election due to be held on May 19, 2017.
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court sentences Ahmad al-Faqi al-Mahdi to nine years in jail for leading the destruction of nine of Timbuktu's mausoleums and the centuries-old door of the Malian city's Sidi Yahya Mosque. ](/news/2016/09/27/the-international-criminal-court-sentences-ahmad-al-faqi-al-mahdi-to-nine-years-in-jail-for-leading-the-destruction-of-nine-of-timbuktu-s-ma.md)
 An Islamist militant who destroyed ancient shrines in Timbuktu is jailed by an international court for nine years in the first case of its kind.
 

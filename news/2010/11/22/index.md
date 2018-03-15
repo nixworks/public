@@ -33,7 +33,7 @@ _Context: Hubei, melamine_
 
 ##### DR Congo
 ### [Former Vice President of the Democratic Republic of the Congo, Jean-Pierre Bemba, goes on trial for crimes against humanity and war crimes at the International Criminal Court in The Hague. ](/news/2010/11/22/former-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-goes-on-trial-for-crimes-against-humanity-and-war-crimes-a.md)
-_Context: DR Congo, ICC, Jean-Pierre Bemba, The Hague, crimes against humanity, war crime_
+_Context: DR Congo, International Criminal Court, Jean-Pierre Bemba, The Hague, crimes against humanity, war crime_
 
 ##### Somalia
 ### [Ten Somalis go on trial in Germany for attacking a German ship in the country's first pirate trial in 400 years. ](/news/2010/11/22/ten-somalis-go-on-trial-in-germany-for-attacking-a-german-ship-in-the-country-s-first-pirate-trial-in-400-years.md)

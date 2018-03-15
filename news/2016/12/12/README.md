@@ -37,7 +37,7 @@ Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the 
 
 ##### Kenya
 ### [Kenya threatens to leave the International Criminal Court. ](/news/2016/12/12/kenya-threatens-to-leave-the-international-criminal-court.md)
-_Context: ICC, Kenya_
+_Context: International Criminal Court, Kenya_
 
 ##### Cuba-European Union relations
 ### [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md)

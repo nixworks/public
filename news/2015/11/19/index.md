@@ -45,7 +45,7 @@ More Mexicans are leaving the United States than entering it according to a repo
 
 ##### APEC Philippines 2015
 ### [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md)
-_Context: APEC Philippines 2015, Asia-Pacific Economic Cooperation, November 2015 Paris attacks, Pacific, Philippines, terrorism_
+_Context: APEC Philippines 2015, Asia-Pacific Economic Cooperation, November 2015 Paris attacks, Pacific, Philippine, terrorism_
 
 ##### American Medical Association
 ### [The American Medical Association urges Congress and-or the FDA to ban direct-to-consumer advertising of prescription drugs and medical devices. The AMA says that the ads increase demand for inappropriate, expensive treatments even if cheaper ones have the same potentials. ](/news/2015/11/19/the-american-medical-association-urges-congress-and-or-the-fda-to-ban-direct-to-consumer-advertising-of-prescription-drugs-and-medical-devic.md)

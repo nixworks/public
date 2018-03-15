@@ -35,7 +35,7 @@ _Context: Venezuela_
 ### [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper "Kaltio", Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove-a.md)
 _Context: Finland, Jyllands-Posten Muhammad cartoons controversy, Kaltio_
 
-##### Philippines
+##### Philippine
 ### [ Philippine President Gloria Macapagal-Arroyo declares a state of emergency in attempt to subdue a possible military coup. ](/news/2006/02/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-attempt-to-subdue-a-possible-military-coup.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

@@ -23,9 +23,9 @@ _Context: Aveiro, Braga, Porto, Portugal, forest fire_
 ### [ The African Union suspends Mauritania from the group after the recent coup. ](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.md)
 _Context: African Union, Mauritanian, coup_
 
-##### Philippines
+##### Philippine
 ### [ Negotiations between the Philippines government and the National Democratic Front, the political wings of the Communist Party of the Philippines, break down. The Government has ended immunity of their members from arrest ](/news/2005/08/4/negotiations-between-the-philippines-government-and-the-national-democratic-front-the-political-wings-of-the-communist-party-of-the-philip.md)
-_Context: Communist, Philippines_
+_Context: Communist, Philippine_
 
 ##### Labour Party
 ### [ New Zealand's ruling Labour Party state that they plan to set limit to claims to Waitangi Tribunals to 2008 and settlements to 2020 ](/news/2005/08/4/new-zealand-s-ruling-labour-party-state-that-they-plan-to-set-limit-to-claims-to-waitangi-tribunals-to-2008-and-settlements-to-2020.md)

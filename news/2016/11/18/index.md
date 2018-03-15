@@ -37,7 +37,7 @@ Al Jazeera crew captures dramatic footage of attack as babies are rescued from i
 
 ##### Moro conflict
 ### [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
-_Context: Abu Sayyaf, Moro conflict, Philippines, Sulu_
+_Context: Abu Sayyaf, Moro conflict, Philippine, Sulu_
 
 ## [Previous Day...](/news/2016/11/17/index.md)
 

@@ -59,9 +59,9 @@ A leading Muslim cleric has sparked controversy in Britain by claiming that it i
 ### [Canada's PM Stephen Harper and Lan Lijun, China's Ambassador to Canada, take part in a ceremony to mark the 40th anniversary of Sino-Canadian relations. ](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.md)
 _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
-_Context: China, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister of Japan_
+_Context: China, Japanese Prime Minister, Liu Xiaobo, Naoto Kan, Nobel Peace Prize_
 
 ##### Afghanistan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)

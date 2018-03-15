@@ -25,7 +25,7 @@ The BBC has appointed Tony Hall - Lord Hall of Birkenhead - as the new Director 
 
 ##### Japan
 ### [Japanese police rescue four hostages from a Toyokawa Shinkin bank and arrest the knife-wielding man who had held them captive for more than 12 hours while demanding that Prime Minister Yoshihiko Noda resign. ](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.md)
-_Context: Japan, Prime Minister of Japan, Shinkin bank, Toyokawa, Yoshihiko Noda, hostage, police_
+_Context: Japan, Japanese Prime Minister, Shinkin bank, Toyokawa, Yoshihiko Noda, hostage, police_
 
 ##### Israel
 ### [Israeli police and Shin Bet arrest several suspects in relation to the bombing of a public bus in Tel Aviv. The suspects claim affiliation with Hamas and Islamic Jihad and reveal they planted the bomb on the bus and detonated it remotely using a cell phone. ](/news/2012/11/22/israeli-police-and-shin-bet-arrest-several-suspects-in-relation-to-the-bombing-of-a-public-bus-in-tel-aviv-the-suspects-claim-affiliation-w.md)

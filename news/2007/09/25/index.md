@@ -21,7 +21,7 @@ _Context: 2002 Bali bombings, Imam Samudra, Indonesia, Mukhlas, Supreme Court_
 
 ##### House of Representatives
 ### [ The House of Representatives of Japan elects Yasuo Fukuda as the new Prime Minister of Japan. ](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.md)
-_Context: House of Representatives, Prime Minister of Japan, Yasuo Fukuda_
+_Context: House of Representatives, Japanese Prime Minister, Yasuo Fukuda_
 
 ##### Myanmar
 ### [ Myanmar's junta places dusk-till-dawn curfews on the country's two largest cities, Yangon and Mandalay. ](/news/2007/09/25/myanmar-s-junta-places-dusk-till-dawn-curfews-on-the-country-s-two-largest-cities-yangon-and-mandalay.md)

@@ -75,9 +75,9 @@ Government says the men died while preparing or planting bombs in two separate i
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
 _Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_
 
-##### Philippines
+##### Philippine
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippines, United States_
+_Context: Philippine, United States_
 
 ##### Venezuela
 ### [A Venezuelan soldier opens fire at an army base in the capital Caracas, killing two officers and injuring six others. ](/news/2010/08/22/a-venezuelan-soldier-opens-fire-at-an-army-base-in-the-capital-caracas-killing-two-officers-and-injuring-six-others.md)

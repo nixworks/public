@@ -13,7 +13,7 @@ The most anticipated meeting of the Asia-Europe summit (ASEM) in Milan will take
 
 ##### Kyodo
 ### [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md)
-_Context: China, Kyodo, Prime Minister of Japan, Shinzo Abe, South Korea, Tokyo, Yasukuni Shrine_
+_Context: China, Japanese Prime Minister, Kyodo, Shinzo Abe, South Korea, Tokyo, Yasukuni Shrine_
 
 ##### Ebola virus cases in the United States
 ### [The President of the United States Barack Obama names lawyer and former political operative Ron Klain as "ebola czar" to coordinate US response to the Ebola outbreak. ](/news/2014/10/17/the-president-of-the-united-states-barack-obama-names-lawyer-and-former-political-operative-ron-klain-as-ebola-czar-to-coordinate-us-respo.md)

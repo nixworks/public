@@ -39,9 +39,9 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
 _Context: Marine, Marine Corps Base Camp Pendleton, Southern California, ordnance_
 
-##### Philippines
+##### Philippine
 ### [The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/the-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### Starbucks
 ### [Starbucks is ordered to pay Kraft Foods $2.76 billion in damages over a dispute about packaged coffee. ](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.md)

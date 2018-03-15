@@ -17,7 +17,7 @@ An Indonesian court will proceed with a controversial blasphemy trial against Ja
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md)
-_Context: Empire of Japan, Hawaii, Japan, Japan-United States relations, Naval Station Pearl Harbor, Pearl Harbor, Prime Minister of Japan, Shinzo Abe, attack on Pearl Harbor_
+_Context: Empire of Japan, Hawaii, Japan, Japan-United States relations, Japanese Prime Minister, Naval Station Pearl Harbor, Pearl Harbor, Shinzo Abe, attack on Pearl Harbor_
 
 ##### Israel
 ### [ Israel's Foreign Ministry announces that it is "reducing" ties with some of the UN Security Council countries that voted to pass United Nations Security Council Resolution 2334. ](/news/2016/12/27/israel-s-foreign-ministry-announces-that-it-is-reducing-ties-with-some-of-the-un-security-council-countries-that-voted-to-pass-united-nat.md)

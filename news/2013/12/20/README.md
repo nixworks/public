@@ -53,7 +53,7 @@ A security official in Egypt says clashes between soldiers and wanted al-Qaida-i
 
 ##### Airport terminal
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
-_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippines, airport terminal_
+_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippine, airport terminal_
 
 ## [Previous Day...](/news/2013/12/19/index.md)
 

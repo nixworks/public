@@ -49,7 +49,7 @@ _Context: Gangnam Style, Psy, South Korea, YouTube_
 
 ##### Czech Republic
 ### [23-year-old Czech beauty queen Tereza Fajksov wins Miss Earth 2012, the 12th edition of the Miss Earth pageant, in Alabang, Muntinlupa City, Philippines. ](/news/2012/11/24/23-year-old-czech-beauty-queen-tereza-fajksova-wins-miss-earth-2012-the-12th-edition-of-the-miss-earth-pageant-in-alabang-muntinlupa-city.md)
-_Context: Alabang, Czech Republic, Miss Earth, Miss Earth 2012, Muntinlupa City, Philippines, Tereza Fajksov_
+_Context: Alabang, Czech Republic, Miss Earth, Miss Earth 2012, Muntinlupa City, Philippine, Tereza Fajksov_
 
 ##### Thai police
 ### [Royal Thai Police use tear gas against thousands of protesters calling for the overthrow of the Prime Minister, Yingluck Shinawatra, in Bangkok, Thailand. At least 61 people are injured. ](/news/2012/11/24/royal-thai-police-use-tear-gas-against-thousands-of-protesters-calling-for-the-overthrow-of-the-prime-minister-yingluck-shinawatra-in-bang.md)

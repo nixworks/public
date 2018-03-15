@@ -7,9 +7,9 @@ Formats: [HTML](2008/06/22/index.html)  [JSON](2008/06/22/index.json)  [XML](200
 ### [ A large bus collides head-on with a smaller minibus in Cox's Bazar, Bangladesh, leaving nine dead. ](/news/2008/06/22/a-large-bus-collides-head-on-with-a-smaller-minibus-in-cox-s-bazar-bangladesh-leaving-nine-dead.md)
 _Context: Bangladesh, Cox's Bazar_
 
-##### Philippines
+##### Philippine
 ### [ The death toll in the Philippines from Typhoon Fengshen rises to at least 155 according to Red Cross estimates with 59 people dead and 40 people missing in Iloilo province alone. ](/news/2008/06/22/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-155-according-to-red-cross-estimates-with-59-people-dead-and-40-p.md)
-_Context: Iloilo, Philippines, Red Cross_
+_Context: Iloilo, Philippine, Red Cross_
 
 ##### Zimbabwe
 ### [ Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.md)

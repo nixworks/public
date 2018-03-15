@@ -21,7 +21,7 @@ _Context: Lebanese, Lubna al-Hussein, Sudan_
 
 ##### German
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Angela Merkel, Chancellor, Christian Democratic Union, German, Vera Lengsfeld_
+_Context: Angela Merkel, Chancellor of Germany, Christian Democratic Union, German, Vera Lengsfeld_
 
 ##### New Zealand Navy
 ### [ New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)

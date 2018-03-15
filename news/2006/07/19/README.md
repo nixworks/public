@@ -23,7 +23,7 @@ _Context: Gaza Strip, Palestinians, West Bank_
 ### [ Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-kofi-annan-has-said.md)
 _Context: Hezbollah, Israel, Kofi Annan, Lebanese, UN_
 
-##### Censoring the Internet
+##### Internet censorship
 ### [ Internet censorship: In an unprecedented move for a leading democracy, India bans some blogs; Huge outrage reported. ](/news/2006/07/19/internet-censorship-in-an-unprecedented-move-for-a-leading-democracy-india-bans-some-blogs-huge-outrage-reported.md)
 Indian bloggers have reacted with anger and confusion, accusing the government of censorship and demanding to know why their sites have been jammed.
 

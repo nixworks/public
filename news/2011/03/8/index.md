@@ -35,9 +35,9 @@ _Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United
 ### [Syrian human rights activist and government critic Haitham al-Maleh is released from prison as part of an amnesty for those convicted of minor crimes and those aged over 70. ](/news/2011/03/8/syrian-human-rights-activist-and-government-critic-haitham-al-maleh-is-released-from-prison-as-part-of-an-amnesty-for-those-convicted-of-min.md)
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
-##### ICC
+##### International Criminal Court
 ### [International Criminal Court judges order two Darfur rebels to stand trial for a deadly 2007 attack on peacekeepers. ](/news/2011/03/8/international-criminal-court-judges-order-two-darfur-rebels-to-stand-trial-for-a-deadly-2007-attack-on-peacekeepers.md)
-_Context: Darfur, ICC_
+_Context: Darfur, International Criminal Court_
 
 ##### St Louis police
 ### [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri. The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gun.md)
@@ -57,7 +57,7 @@ _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_
 
 ##### China
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: China, Philippines, Spratly Islands, Vietnam_
+_Context: China, Philippine, Spratly Islands, Vietnam_
 
 ##### Harrisburg, PA
 ### [7 children die in a farmhouse fire near Harrisburg, PA. ](/news/2011/03/8/7-children-die-in-a-farmhouse-fire-near-harrisburg-pa.md)

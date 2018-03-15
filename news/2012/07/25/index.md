@@ -25,7 +25,7 @@ _Context: Beijing, China, Guo Jinlong, Mayor, Wang Anshun_
 
 ##### South Korea
 ### [A private South Korean committee announces that it plans to file a lawsuit with the International Criminal Court against North Korea over repatriation of prisoners of war and remains of soldiers killed in the Korean War. ](/news/2012/07/25/a-private-south-korean-committee-announces-that-it-plans-to-file-a-lawsuit-with-the-international-criminal-court-against-north-korea-over-re.md)
-_Context: ICC, Korean War, North Korea, South Korea, prisoners of war_
+_Context: International Criminal Court, Korean War, North Korea, South Korea, prisoners of war_
 
 ##### Leonid Khabarov
 ### [The court hearings are rescheduled for Leonid Khabarov, an alleged mastermind behind the new Russian revolution. ](/news/2012/07/25/the-court-hearings-are-rescheduled-for-leonid-khabarov-an-alleged-mastermind-behind-the-new-russian-revolution.md)

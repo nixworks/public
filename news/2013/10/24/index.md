@@ -9,7 +9,7 @@ Portuguese police reopen their inquiry into the disappearance of British girl Ma
 
 ##### United States
 ### [Germany summons the United States Ambassador over claims that the US monitored Chancellor of Germany Angela Merkel's mobile phone. ](/news/2013/10/24/germany-summons-the-united-states-ambassador-over-claims-that-the-us-monitored-chancellor-of-germany-angela-merkel-s-mobile-phone.md)
-_Context: Angela Merkel, Chancellor, German, United States_
+_Context: Angela Merkel, Chancellor of Germany, German, United States_
 
 ##### World Health Organization
 ### [The World Health Organization reports that a polio outbreak has begun in the war-torn city of Deir Ezzor, Syria. ](/news/2013/10/24/the-world-health-organization-reports-that-a-polio-outbreak-has-begun-in-the-war-torn-city-of-deir-ezzor-syria.md)

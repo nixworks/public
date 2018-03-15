@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/23/index.html)  [JSON](2007/11/23/index.json)  [XML](200
 
 ##### Typhoon Mitag
 ### [ Typhoon Mitag remains stationary but threatens the Bicol Region, east of the Philippines, and is expected to make landfall in Virac, Catanduanes tomorrow. ](/news/2007/11/23/typhoon-mitag-remains-stationary-but-threatens-the-bicol-region-east-of-the-philippines-and-is-expected-to-make-landfall-in-virac-catand.md)
-_Context: Bicol Region, Catanduanes, Philippines, Typhoon Mitag, Virac, landfall_
+_Context: Bicol Region, Catanduanes, Philippine, Typhoon Mitag, Virac, landfall_
 
 ##### Paris Metro
 ### [ Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.md)

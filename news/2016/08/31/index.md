@@ -43,7 +43,7 @@ _Context: $, Chris Brown_
 ### [U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexico-city-after-accepting-an-invitat.md)
 _Context: 2016 U.S. election, Donald Trump, Enrique Pena Nieto, Mexican President, Mexico City, Mexico-United States relations, Republican_
 
-##### Philippines
+##### Philippine
 ### [The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-china-sea.md)
 MANILA -- China must cease all provocations in the South China Sea before the Philippines will agree to bilateral talks, Philippine Secretary of Forei
 
@@ -71,7 +71,7 @@ _Context: Hokkaido, Honshu Island, Japan, Typhoon Lionrock_
 ### [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md)
 Twelve people are taken to hospital after transatlantic turbulence prompts an emergency landing at Shannon Airport.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. ](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.md)
 Missile defenses are a major focus amid challenges from North Korea and China. But the budget proposal is a test of Japan’s commitment to pacifism.
 

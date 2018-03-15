@@ -45,7 +45,7 @@ _Context: 2016 SGBPo Paulo flood and mudslide, Brazil, SGBPo Paulo_
 
 ##### Japan
 ### [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md)
-_Context: 2011 Tohoku earthquake and tsunami, Emperor, Fukushima Daiichi nuclear disaster, Japan, Prime Minister of Japan, recovery_
+_Context: 2011 Tohoku earthquake and tsunami, Emperor, Fukushima Daiichi nuclear disaster, Japan, Japanese Prime Minister, recovery_
 
 ##### General Motors
 ### [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md)

@@ -59,7 +59,7 @@ _Context: Alejandro Garcia Padilla, Puerto Rican government-debt crisis, Puerto 
 ### [Australian tech entrepreneur Craig Steven Wright claims he is Satoshi Nakamoto, the creator of the Bitcoin currency. There are about 15.5 million bitcoins in circulation. However, questions have been raised as to authenticity of his assertion. ](/news/2016/05/2/australian-tech-entrepreneur-craig-steven-wright-claims-he-is-satoshi-nakamoto-the-creator-of-the-bitcoin-currency-there-are-about-15-5-mi.md)
 Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin creator Satoshi Nakamoto.
 
-##### Philippines
+##### Philippine
 ### [The Philippines stock market suffers the biggest drop since February amid uncertainty about the upcoming elections. ](/news/2016/05/2/the-philippines-stock-market-suffers-the-biggest-drop-since-february-amid-uncertainty-about-the-upcoming-elections.md)
 Philippine stocks fell the most since February after a poll showed tough-talking Davao City Mayor Rodrigo Duterte maintaining a comfortable lead a week before the presidential election.
 

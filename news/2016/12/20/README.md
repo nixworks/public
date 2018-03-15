@@ -41,7 +41,7 @@ One suspect among five dead after raid on apartment in Jordanian province which 
 
 ##### Drug crackdown
 ### [A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-controversial-drug-purge-c.md)
-_Context: Catanduanes, Philippines, drug crackdown_
+_Context: Catanduanes, Philippine, drug crackdown_
 
 ##### Last week's attack on a Christmas market in Berlin
 ### [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md)

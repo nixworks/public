@@ -15,7 +15,7 @@ The former president of Argentina, Nestor Kirchner, has surgery to clear a block
 ### [Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
 
-##### Philippines
+##### Philippine
 ### [Airplane cleaners in the Philippines locate a newborn male baby human which had been discarded in a toilet bin. ](/news/2010/09/12/airplane-cleaners-in-the-philippines-locate-a-newborn-male-baby-human-which-had-been-discarded-in-a-toilet-bin.md)
 Cleaners sweeping through a passenger jet that landed at the Philippines&#039; main international airport found a newborn baby dumped in a bin in a toilet on Sunday.
 

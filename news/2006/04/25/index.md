@@ -11,7 +11,7 @@ _Context: Cyclone Monica, Darwin_
 ### [ The Communist Party of Vietnam announces at the closing of the Tenth National Congress that Nong Duc Manh will be re-appointed as its general secretary for another five-year term. Other key positions, such as those of prime minister and president, are yet to be appointed. New faces are expected. ](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.md)
 _Context: Communist Party, Nong Duc Manh, Tenth National Congress, general secretary_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, 49 people are charged with rebellion over an alleged plot to overthrow President Gloria Macapagal-Arroyo in February 2006. ](/news/2006/04/25/in-the-philippines-49-people-are-charged-with-rebellion-over-an-alleged-plot-to-overthrow-president-gloria-macapagal-arroyo-in-february-20.md)
 The Philippines government has charged 49 people with rebellion over an alleged plot to overthrow President Gloria Arroyo in February.
 

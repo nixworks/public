@@ -39,7 +39,7 @@ _Context: David Viens, Lomita, Los Angeles, chef, second-degree murder_
 ### [The United States announces that it will seek to lift its ban on imported goods from Myanmar. ](/news/2012/09/27/the-united-states-announces-that-it-will-seek-to-lift-its-ban-on-imported-goods-from-myanmar.md)
 _Context: Myanmar, United States_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". ](/news/2012/09/27/japanese-prime-minister-yoshihiko-noda-meets-with-un-general-secretary-ban-ki-moon-explaining-to-him-that-the-islands-are-japan-s-inherent.md)
 Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AFP
 

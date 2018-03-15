@@ -17,7 +17,7 @@ _Context: Iraq Inquiry, John Chilcot, Prime Minister, Tony Blair_
 
 ##### Lava
 ### [ Lava flows and ash explosions continue to emerge from Philippine volcano Mount Mayon while scientists predict a major eruption in the coming weeks and 30,000 people remain in temporary shelter. ](/news/2009/12/18/lava-flows-and-ash-explosions-continue-to-emerge-from-philippine-volcano-mount-mayon-while-scientists-predict-a-major-eruption-in-the-comin.md)
-_Context: Lava, Mount Mayon, Philippines, ash, eruption, volcano_
+_Context: Lava, Mount Mayon, Philippine, ash, eruption, volcano_
 
 ##### Crater
 ### [ A large crater, dubbed the "Fried Egg" because of its shape, is discovered off the coast of The Azores in the Atlantic Ocean, prompting speculation that it may have been caused up to 17 million years ago by meteor impact. ](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-its-shape-is-discovered-off-the-coast-of-the-azores-in-the-atlantic-ocean-prompting-spe.md)

@@ -25,7 +25,7 @@ _Context: Movement for Democratic Change, Zanu-PF, Zimbabwe, opposition party, p
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council votes to refer those suspected of war crimes in Darfur to the International Criminal Court. ](/news/2005/04/1/the-united-nations-security-council-votes-to-refer-those-suspected-of-war-crimes-in-darfur-to-the-international-criminal-court.md)
-_Context: Darfur, ICC, United Nations Security Council, war crime_
+_Context: Darfur, International Criminal Court, United Nations Security Council, war crime_
 
 ##### Pope
 ### [ Pope John Paul II is on the verge of death as a result of his recent health problems. The Vatican announces that the pope has suffered cardiovascular collapse and septic shock. ](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.md)

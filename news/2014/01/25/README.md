@@ -25,7 +25,7 @@ _Context: Egypt, Libya, Tripoli_
 
 ##### Civil conflict in the Philippines
 ### [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
-_Context: Civil conflict in the Philippines, Filipino Muslims, Philippines, peace deal_
+_Context: Civil conflict in the Philippines, Filipino Muslims, Philippine, peace deal_
 
 ## [Previous Day...](/news/2014/01/24/index.md)
 

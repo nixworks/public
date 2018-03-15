@@ -11,7 +11,7 @@ We measure the grounding line retreat of glaciers draining the Amundsen Sea sect
 ### [Four students and another person are injured during a shooting near Therrell High School's campus in Atlanta, Georgia, U.S. A 17-year-old suspect is arrested. ](/news/2014/05/13/four-students-and-another-person-are-injured-during-a-shooting-near-therrell-high-school-s-campus-in-atlanta-georgia-u-s-a-17-year-old-su.md)
 Police have arrested a 17-year-old boy and charged him with five counts of aggravated assault after he allegedly shot and injured five people near a southwest Atlanta high school on Tuesday, according to a published report.
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court will conduct a preliminary examination in the claims that United Kingdom forces abused Iraqi detainees between 2003 and 2008. ](/news/2014/05/13/the-international-criminal-court-will-conduct-a-preliminary-examination-in-the-claims-that-united-kingdom-forces-abused-iraqi-detainees-betw.md)
 An initial investigation into claims that UK forces abused Iraqi detainees is to be opened by the International Criminal Court.
 

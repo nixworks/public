@@ -9,7 +9,7 @@ Brian Lenihan has said the latest report from the ESRI indicated that there was 
 
 ##### MV ''Princess of the Stars
 ### [ Divers see bodies in the wreck of the MV "Princess of the Stars" off the coast of the Philippines, but no sign of survivors. ](/news/2008/06/24/divers-see-bodies-in-the-wreck-of-the-mv-princess-of-the-stars-off-the-coast-of-the-philippines-but-no-sign-of-survivors.md)
-_Context: MV ''Princess of the Stars, Philippines_
+_Context: MV ''Princess of the Stars, Philippine_
 
 ##### Franz Josef Jung
 ### [ Franz Josef Jung, the German Minister of Defence, announces plans to commit a thousand extra troops to Afghanistan. ](/news/2008/06/24/franz-josef-jung-the-german-minister-of-defence-announces-plans-to-commit-a-thousand-extra-troops-to-afghanistan.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/15/the-international-criminal-court-opens-an-inves
 
 ### [2009-10-15](/news/2009/10/15/index.md)
 
-##### ICC
+##### International Criminal Court
 #  The International Criminal Court opens an investigation into the suppression of an opposition protest in Guinea, in which dozens of people were killed. 
 
 

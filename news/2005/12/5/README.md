@@ -25,7 +25,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### 23rd Southeast Asian Games
 ### [ The 23rd Southeast Asian Games officially closes with Philippines gaining the top medal ranking for the first time. ](/news/2005/12/5/the-23rd-southeast-asian-games-officially-closes-with-philippines-gaining-the-top-medal-ranking-for-the-first-time.md)
-_Context: 23rd Southeast Asian Games, Philippines_
+_Context: 23rd Southeast Asian Games, Philippine_
 
 ## [Previous Day...](/news/2005/12/4/index.md)
 

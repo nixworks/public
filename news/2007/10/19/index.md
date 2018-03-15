@@ -17,7 +17,7 @@ A capsized passenger ferry close to a port on the Indonesian island of Sulawesi 
 
 ##### Explosion
 ### [ An explosion kills up to eight civilians Glorietta Mall in Makati City, PhilippinesJee Ann De Gracia was one of the 11th victim of Bombing. ](/news/2007/10/19/an-explosion-kills-up-to-eight-civilians-glorietta-mall-in-makati-city-philippinesjee-ann-de-gracia-was-one-of-the-11th-victim-of-bombing.md)
-_Context: Glorietta, Makati City, Philippines, explosion_
+_Context: Glorietta, Makati City, Philippine, explosion_
 
 ##### 2007 Karachi bombings
 ### [ 2007 Karachi bombings: The death toll from the bombings rises to 136 with 387 people wounded. ](/news/2007/10/19/2007-karachi-bombings-the-death-toll-from-the-bombings-rises-to-136-with-387-people-wounded.md)

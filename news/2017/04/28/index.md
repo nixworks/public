@@ -41,7 +41,7 @@ Sgt Alexander Blackman is released after his conviction for murder was reduced t
 
 ##### Earthquake
 ### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
-_Context: Mindanao, Philippines, earthquake, tsunami_
+_Context: Mindanao, Philippine, earthquake, tsunami_
 
 ## [Previous Day...](/news/2017/04/27/index.md)
 

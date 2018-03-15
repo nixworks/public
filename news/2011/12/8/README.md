@@ -31,9 +31,9 @@ _Context: Iran, Lockheed Martin RQ-170 Sentinel, United States_
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
 _Context: Russia, United States, Vladimir Putin, parliamentary elections_
 
-##### Philippines
+##### Philippine
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)
-_Context: China, Filipino, Philippines, President, drug trafficking, his predecessor_
+_Context: China, Filipino, Philippine, President, drug trafficking, his predecessor_
 
 ##### A storm
 ### [A storm causes damage, flooding and power cuts across the north of the British Isles, particularly Scotland with winds up to 165&nbsp;mph (264&nbsp;km-h). ](/news/2011/12/8/a-storm-causes-damage-flooding-and-power-cuts-across-the-north-of-the-british-isles-particularly-scotland-with-winds-up-to-165-nbsp-mph-2.md)

@@ -33,7 +33,7 @@ _Context: Abu Sayyaf, ISIL, Marawi crisis_
 
 ##### Communist rebels
 ### [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md)
-_Context: Communist, Mindanao, Philippine government, Philippines, Rodrigo Duterte, communist rebels, martial law_
+_Context: Communist, Mindanao, Philippine, Philippine government, Rodrigo Duterte, communist rebels, martial law_
 
 ## [Previous Day...](/news/2017/05/27/index.md)
 

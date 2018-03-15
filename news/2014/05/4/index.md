@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/4/index.html)  [JSON](2014/05/4/index.json)  [XML](2014/
 
 ##### Panamanian general election, 2014
 ### [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md)
-_Context: Panama, Panamanian general election, 2014_
+_Context: Panamanian, Panamanian general election, 2014_
 
 ##### The Sunday Herald
 ### ["The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.md)

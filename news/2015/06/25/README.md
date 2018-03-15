@@ -29,7 +29,7 @@ _Context: Dominican Republic, Evans Paul, Haiti, Prime Minister of Haiti_
 
 ##### South Africa
 ### [South Africa reviews its participation in the International Criminal Court following a failed attempt to arrest the President of Sudan, Omar al-Bashir, on South African soil. ](/news/2015/06/25/south-africa-reviews-its-participation-in-the-international-criminal-court-following-a-failed-attempt-to-arrest-the-president-of-sudan-omar.md)
-_Context: ICC, Omar al-Bashir, President of Sudan, South Africa_
+_Context: International Criminal Court, Omar al-Bashir, President of Sudan, South Africa_
 
 ##### India
 ### [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md)

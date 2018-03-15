@@ -27,9 +27,9 @@ _Context: 2007 presidential election, Nicolas Sarkozy, Sgolne Royal, televised d
 ### [ Iraq War: U.S. President George W. Bush meets with Democratic Party officials in Congress to try find ways to fund the Iraq War. ](/news/2007/05/2/iraq-war-u-s-president-george-w-bush-meets-with-democratic-party-officials-in-congress-to-try-find-ways-to-fund-the-iraq-war.md)
 _Context: Democrat, George W. Bush, Iraq War, U.S. Congress, U.S. President_
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court issues arrest warrants for Sudanese humanitarian affairs minister Ahmed Haroun and Janjaweed leader Ali Kushayb on charges of war crimes committed during the Darfur conflict. ](/news/2007/05/2/the-international-criminal-court-issues-arrest-warrants-for-sudanese-humanitarian-affairs-minister-ahmed-haroun-and-janjaweed-leader-ali-ku.md)
-_Context: Ahmed Haroun, Ali Kushayb, Darfur conflict, ICC, Janjaweed, Sudan, arrest warrant, war crime_
+_Context: Ahmed Haroun, Ali Kushayb, Darfur conflict, International Criminal Court, Janjaweed, Sudan, arrest warrant, war crime_
 
 ##### Antonio Villaraigosa
 ### [ Antonio Villaraigosa, the Mayor of Los Angeles, California, orders an inquiry into a clash that occurred at a May Day Rally between the Los Angeles Police Department and pro-immigration demonstrators. ](/news/2007/05/2/antonio-villaraigosa-the-mayor-of-los-angeles-california-orders-an-inquiry-into-a-clash-that-occurred-at-a-may-day-rally-between-the-los.md)

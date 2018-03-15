@@ -37,7 +37,7 @@ _Context: 62nd, August: Osage County, Best Musical, Best Play, In the Heights, T
 
 ##### Kuratong baleleng
 ### [ Six members of the Kuratong baleleng Philippines crime gang, as well as a police officer are killed in a shootout with police officers in Manila. ](/news/2008/06/15/six-members-of-the-kuratong-baleleng-philippines-crime-gang-as-well-as-a-police-officer-are-killed-in-a-shootout-with-police-officers-in-m.md)
-_Context: Kuratong baleleng, Manila, Philippine National Police, Philippines_
+_Context: Kuratong baleleng, Manila, Philippine, Philippine National Police_
 
 ##### Anjouan
 ### [ Anjouan, an island part of the Union of the Comoros, hold its first presidential election since the 2008 invasion of Anjouan which ousted Mohamed Bacar. ](/news/2008/06/15/anjouan-an-island-part-of-the-union-of-the-comoros-hold-its-first-presidential-election-since-the-2008-invasion-of-anjouan-which-ousted-m.md)

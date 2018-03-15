@@ -37,7 +37,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, armed forces_
 
 ##### National Islamic Front
 ### [ National Islamic Front founder Hassan al-Turabi is released after seven weeks of incarceration for suggesting that Sudanese President Omar al-Bashir should surrender to the International Criminal Court. ](/news/2009/03/9/national-islamic-front-founder-hassan-al-turabi-is-released-after-seven-weeks-of-incarceration-for-suggesting-that-sudanese-president-omar.md)
-_Context: Hassan al-Turabi, ICC, National Islamic Front, Omar al-Bashir, President, Sudan, incarceration, surrender_
+_Context: Hassan al-Turabi, International Criminal Court, National Islamic Front, Omar al-Bashir, President, Sudan, incarceration, surrender_
 
 ##### North Korea
 ### [ North Korea says an interception of its upcoming "satellite" launch would "mean a war." ](/news/2009/03/9/north-korea-says-an-interception-of-its-upcoming-satellite-launch-would-mean-a-war.md)

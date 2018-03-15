@@ -11,7 +11,7 @@ Two studies in Africa show AIDS drugs taken daily can cut the chance of HIV infe
 ### [The President of the United States Barack Obama reportedly walks out of negotiations with Republican Party leaders on tackling debt and deficits as Moody's Investor Services warns of a potential loss of a AAA credit rating. ](/news/2011/07/13/the-president-of-the-united-states-barack-obama-reportedly-walks-out-of-negotiations-with-republican-party-leaders-on-tackling-debt-and-defi.md)
 _Context: Barack Obama, Moody's, Republican, U.S. President_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Prime Minister of Japan Naoto Kan tells a news conference of his plans to wean the country off nuclear energy after the Fukushima Daiichi nuclear disaster. ](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.md)
 Japanese prime minister vows to move country towards renewable energy after disaster-triggered Fukushima meltdown.
 

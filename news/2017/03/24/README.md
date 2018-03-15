@@ -21,7 +21,7 @@ _Context: Donald Trump, Keystone XL, United States_
 
 ##### Warlord
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)
-_Context: Germain Katanga, ICC, warlord_
+_Context: Germain Katanga, International Criminal Court, warlord_
 
 ##### The Gambia
 ### [The Gambia's justice minister Abubacarr Tambadou states that the country will establish a Truth and Reconciliation Commission "within the next six months" to investigate allegations of abuse dating from the time of former President Yahya Jammeh. According to Tambadou, public hearings are scheduled to get underway by year's end. ](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.md)

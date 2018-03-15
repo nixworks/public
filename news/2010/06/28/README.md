@@ -79,7 +79,7 @@ _Context: European Union, Gaza flotilla raid, Israel, NATO, Turkish, United Stat
 ### [Kyrgyzstan approves a new constitution with 90.6 percent of voters backing a constitution that would pave the way for a parliamentary election in October, following the violence of the recent uprising and riots. ](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.md)
 Tens of thousands of people who fled ethnic fighting in Kyrgyzstan earlier this month streamed back into the country over the course of a few days last week. 
 
-##### Panama
+##### Panamanian
 ### [Former Panamaian leader Manuel Noriega goes on trial in Paris. ](/news/2010/06/28/former-panamaian-leader-manuel-noriega-goes-on-trial-in-paris.md)
 Ex-Panama leader faces charges of laundering Colombian drug money in French banks.
 

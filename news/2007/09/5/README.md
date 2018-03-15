@@ -77,7 +77,7 @@ Sen. Larry Craig has all but dropped any notion of trying to complete his term, 
 
 ##### William Hoeveler
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradition_
+_Context: France, Manuel Noriega, Panamanian, United States, William Hoeveler, extradition_
 
 ##### Fred Thompson
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)

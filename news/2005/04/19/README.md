@@ -9,7 +9,7 @@ _Context: Zanzibar_
 
 ##### Pakistan
 ### [ President of Pakistan Pervez Musharraf meets the president of the Philippines, Gloria Arroyo, in Manila. ](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.md)
-_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippines_
+_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippine_
 
 ##### Greece
 ### [ The parliament of Greece ratifies the European Union Constitution. ](/news/2005/04/19/the-parliament-of-greece-ratifies-the-european-union-constitution.md)

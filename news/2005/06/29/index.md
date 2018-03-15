@@ -13,7 +13,7 @@ _Context: Gyude Bryant, Liberia, gboyo, human sacrifice, sentenced to death_
 
 ##### International Federation for Human Rights
 ### [ International Federation for Human Rights demands that International Criminal Court investigate human rights abuses of Colombian paramilitary group Self-Defense Forces of Colombia (AUC) ](/news/2005/06/29/international-federation-for-human-rights-demands-that-international-criminal-court-investigate-human-rights-abuses-of-colombian-paramilita.md)
-_Context: Colombia, ICC, International Federation for Human Rights, Self-Defense Forces of Colombia, human rights_
+_Context: Colombia, International Criminal Court, International Federation for Human Rights, Self-Defense Forces of Colombia, human rights_
 
 ##### Venezuela
 ### [ Venezuela forms Petrocaribe, an energy cooperation pact with 13 Caribbean states to supply them with cheaper oil. Trinidad and Tobago and Barbados opt out ](/news/2005/06/29/venezuela-forms-petrocaribe-an-energy-cooperation-pact-with-13-caribbean-states-to-supply-them-with-cheaper-oil-trinidad-and-tobago-and-b.md)

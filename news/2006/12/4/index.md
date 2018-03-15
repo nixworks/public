@@ -17,7 +17,7 @@ _Context: Australian Labor Party, Julia Gillard, Kevin Rudd, Kim Beazley, caucus
 
 ##### Marine
 ### [ A US Marine is jailed for raping a woman at Subic Bay after joint exercises with the Philippines. Three other Marines were acquitted in a case which caused anti-American protests. ](/news/2006/12/4/a-us-marine-is-jailed-for-raping-a-woman-at-subic-bay-after-joint-exercises-with-the-philippines-three-other-marines-were-acquitted-in-a-c.md)
-_Context: Marine, Philippines, Subic Bay, anti-American_
+_Context: Marine, Philippine, Subic Bay, anti-American_
 
 ##### President
 ### [ President of the Philippines Gloria Arroyo declares a "state of national calamity" following the death and destruction caused by Typhoon Durian. ](/news/2006/12/4/president-of-the-philippines-gloria-arroyo-declares-a-state-of-national-calamity-following-the-death-and-destruction-caused-by-typhoon-du.md)

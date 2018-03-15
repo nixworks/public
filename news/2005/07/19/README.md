@@ -31,9 +31,9 @@ _Context: India, Indian Prime Minister, Manmohan Singh, US Congress, United Stat
 ### [ The Canadian Senate passes Bill C-38 to legalize same-sex marriage in Canada. The bill will become law when it receives Royal Assent from Governor General Adrienne Clarkson, scheduled for tomorrow. ](/news/2005/07/19/the-canadian-senate-passes-bill-c-38-to-legalize-same-sex-marriage-in-canada-the-bill-will-become-law-when-it-receives-royal-assent-from-g.md)
 _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General of Canada, Royal Assent, same-sex marriage in Canada_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, President Gloria Arroyo announces that she intends to form a "truth commission" to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud-ag.md)
-_Context: Gloria Arroyo, Philippines, President, serious rights violations or irregularities, truth commission_
+_Context: Gloria Arroyo, Philippine, President, serious rights violations or irregularities, truth commission_
 
 ##### Russia
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)

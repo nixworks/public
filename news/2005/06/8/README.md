@@ -11,9 +11,9 @@ _Context: European Commission, Jos Manuel Barroso, no confidence vote_
 ### [ Ethiopian general elections: At least 22 Ethiopians are killed at demonstrations in Addis Ababa between police and students who accuse the ruling party of fraud in last month's general elections. ](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.md)
 _Context: 2005 elections, Addis Ababa, EPRDF, Ethiopia_
 
-##### Philippines
+##### Philippine
 ### [ The Philippine senate is evacuated after a bomb threat. ](/news/2005/06/8/the-philippine-senate-is-evacuated-after-a-bomb-threat.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### Bolivia
 ### [ In Bolivia, widespread demonstrations continue. Ex-president Carlos Mesa, who has already offered his resignation, states that there is a threat of civil war without immediate elections. Congress will decide on Thursday whether to accept the resignation ](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.md)

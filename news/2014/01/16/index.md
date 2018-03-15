@@ -17,7 +17,7 @@ _Context: Danish, Delhi, gang-rape_
 
 ##### Child trafficking
 ### [A child trafficking ring is smashed in the Philippines through the efforts of British, American, and Australian authorities. ](/news/2014/01/16/a-child-trafficking-ring-is-smashed-in-the-philippines-through-the-efforts-of-british-american-and-australian-authorities.md)
-_Context: Australia, Philippines, United Kingdom, United States, child trafficking_
+_Context: Australia, Philippine, United Kingdom, United States, child trafficking_
 
 ##### German court
 ### [A German court in Munich rules that Formula One boss Bernie Ecclestone should face bribery charges. ](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.md)

@@ -17,7 +17,7 @@ Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she w
 
 ##### Japanese general election, 2017
 ### [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md)
-_Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
+_Context: Japanese Prime Minister, Japanese general election, 2017, Shinzo Abe_
 
 ##### Iraqi Kurdistan independence referendum, 2017
 ### [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2008/06/23/index.html)  [JSON](2008/06/23/index.json)  [XML](200
 ### [ An Australian air safety group claims that Yogyakarta International Airport was operating illegally with no valid license at the time Garuda Indonesia Flight 200 crashed, killing 21. They also accuse two other airports of similar violations and three official bodies of keeping it from public knowledge. ](/news/2008/06/23/an-australian-air-safety-group-claims-that-yogyakarta-international-airport-was-operating-illegally-with-no-valid-license-at-the-time-garud.md)
 _Context: Australia, Marwoto Komar, Yogyakarta International Airport_
 
-##### Philippines
+##### Philippine
 ### [ An additional 28 survivors from the MV "Princess of the Stars" are found but there are still more than 800 missing from the vessel that sunk during Typhoon Fengshen. ](/news/2008/06/23/an-additional-28-survivors-from-the-mv-princess-of-the-stars-are-found-but-there-are-still-more-than-800-missing-from-the-vessel-that-sun.md)
 Rescuers scoured theseas around a capsized ferry in the Philippines on Monday formore than 800 people missing after it sank two days ago, as theofficial death toll from a typhoon rose to about 160.
 

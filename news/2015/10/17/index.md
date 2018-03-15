@@ -33,7 +33,7 @@ AT least 15 members of a wedding party, including three children, have been kill
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md)
-_Context: 2015 Pacific typhoon season, Luzon, Philippines_
+_Context: 2015 Pacific typhoon season, Luzon, Philippine_
 
 ##### US Airways
 ### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013. ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)

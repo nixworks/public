@@ -19,9 +19,9 @@ _Context: Australia, China, Indian Ocean, Malaysia, Western Australia_
 ### [Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-discuss-the-crisis.md)
 A top US public health official says the Ebola outbreak is set to get worse before it gets better, as West African health ministers meet in Ghana.
 
-##### Philippines
+##### Philippine
 ### [The Philippines economy grows by 6.4% in Q2 showing signs of recovery after it was devastated by Typhoon Haiyan in 2013. ](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.md)
-_Context: Philippines, Typhoon Haiyan (Yolanda)_
+_Context: Philippine, Typhoon Haiyan (Yolanda)_
 
 ##### United States
 ### [American comedian Joan Rivers is rushed to the hospital after she stopped breathing during throat surgery. ](/news/2014/08/28/american-comedian-joan-rivers-is-rushed-to-the-hospital-after-she-stopped-breathing-during-throat-surgery.md)

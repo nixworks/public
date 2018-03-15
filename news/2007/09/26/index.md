@@ -19,9 +19,9 @@ A section of a bridge under construction in southern Vietnam collapsed Wednesday
 ### [ The United Auto Workers announces a tentative agreement with General Motors ending a two-day strike. ](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.md)
 The United Auto Workers and General Motors Corp. said Wednesday they have reached a tentative contract agreement that ends a two-day nationwide strike immediately.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [ The new Prime Minister of Japan Yasuo Fukuda is sworn into office with his Cabinet. ](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.md)
-_Context: Prime Minister of Japan, Yasuo Fukuda, forming a government_
+_Context: Japanese Prime Minister, Yasuo Fukuda, forming a government_
 
 ##### Madeleine McCann
 ### [ A photo possibly showing missing Madeleine McCann in Morocco is being examined by British experts. ](/news/2007/09/26/a-photo-possibly-showing-missing-madeleine-mccann-in-morocco-is-being-examined-by-british-experts.md)

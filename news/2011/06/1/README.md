@@ -9,7 +9,7 @@ The US space shuttle Endeavour brings its 19-year operational career to a close 
 
 ##### Japan
 ### [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md)
-_Context: Diet, Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Diet, Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Iran
 ### [Iran's parliament finds that the President of Iran Mahmoud Ahmadinejad acted illegally by appointing himself as Oil Minister and refers it to the Judiciary, increasing pressure on him to resign. ](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.md)

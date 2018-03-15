@@ -13,9 +13,9 @@ A journalist with dual Irish and British citizenship who was held captive for fo
 
 ##### 
 ### [ North Korea holds celebrations to mark the 61st anniversary of its founding. ](/news/2009/09/9/north-korea-holds-celebrations-to-mark-the-61st-anniversary-of-its-founding.md)
-##### Philippines
+##### Philippine
 ### [ The son of former Filipino President Corazon Aquino, Benigno Aquino III, announces his intention to run for the presidency. ](/news/2009/09/9/the-son-of-former-filipino-president-corazon-aquino-benigno-aquino-iii-announces-his-intention-to-run-for-the-presidency.md)
-_Context: Corazon Aquino, Philippines, President, his predecessor_
+_Context: Corazon Aquino, Philippine, President, his predecessor_
 
 ##### Hypodermic needle
 ### [ A new series of hypodermic needle stabbings occur in rmqi, northwestern China. ](/news/2009/09/9/a-new-series-of-hypodermic-needle-stabbings-occur-in-urumqi-northwestern-china.md)

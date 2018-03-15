@@ -23,9 +23,9 @@ _Context: Malaysia, United Malays National Organisation_
 ### [ Finland becomes the first country in the world to declare Internet broadband access a legal right. ](/news/2009/10/15/finland-becomes-the-first-country-in-the-world-to-declare-internet-broadband-access-a-legal-right.md)
 _Context: Finland, Internet, broadband, legal right_
 
-##### ICC
+##### International Criminal Court
 ### [ The International Criminal Court opens an investigation into the suppression of an opposition protest in Guinea, in which dozens of people were killed. ](/news/2009/10/15/the-international-criminal-court-opens-an-investigation-into-the-suppression-of-an-opposition-protest-in-guinea-in-which-dozens-of-people.md)
-_Context: Guinea, ICC, massacre of opposition protesters_
+_Context: Guinea, International Criminal Court, massacre of opposition protesters_
 
 ##### Ethnic riots
 ### [ A further six people are sentenced to death over ethnic unrest in China's Xinjiang region in July. ](/news/2009/10/15/a-further-six-people-are-sentenced-to-death-over-ethnic-unrest-in-china-s-xinjiang-region-in-july.md)

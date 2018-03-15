@@ -69,9 +69,9 @@ Stormy conditions have battered the country, with strong winds and heavy rain sp
 ### [Severe gales batter large parts of England, Northern Ireland and Wales with some bridges being closed. ](/news/2010/11/11/severe-gales-batter-large-parts-of-england-northern-ireland-and-wales-with-some-bridges-being-closed.md)
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.
 
-##### Panama
+##### Panamanian
 ### [A Panama registered cargo ship sinks off Japan's southern islands. Only 5 out a total 25 crew have been accounted for, with 1 body found. ](/news/2010/11/11/a-panama-registered-cargo-ship-sinks-off-japan-s-southern-islands-only-5-out-a-total-25-crew-have-been-accounted-for-with-1-body-found.md)
-_Context: Japan, Panama_
+_Context: Japan, Panamanian_
 
 ##### Worst epidemic of cholera
 ### [Cholera in Haiti has now caused at least 724 deaths. ](/news/2010/11/11/cholera-in-haiti-has-now-caused-at-least-724-deaths.md)
@@ -123,7 +123,7 @@ _Context: Darfur, Sudan, Sudanese government troops_
 
 ##### Somali pirates
 ### [Somali pirates seize a Panamanian-flagged chemical tanker almost 900 nmi from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-from-the-horn-of-africa.md)
-_Context: Horn of Africa, Panama, Somali pirates_
+_Context: Horn of Africa, Panamanian, Somali pirates_
 
 ## [Previous Day...](/news/2010/11/10/index.md)
 

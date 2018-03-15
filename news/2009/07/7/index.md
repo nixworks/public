@@ -7,9 +7,9 @@ Formats: [HTML](2009/07/7/index.html)  [JSON](2009/07/7/index.json)  [XML](2009/
 ### [ Al Franken is sworn in as a U.S. Senator, the 60th caucusing with the Democratic Party which is a filibuster-proof majority. ](/news/2009/07/7/al-franken-is-sworn-in-as-a-u-s-senator-the-60th-caucusing-with-the-democratic-party-which-is-a-filibuster-proof-majority.md)
 _Context: Al Franken, Democrat, U.S. Senator, filibuster_
 
-##### ICC
+##### International Criminal Court
 ### [ Prosecutors at the International Criminal Court challenge a tribunal's decision not to indict Sudanese President Omar al-Bashir on charges of genocide in Darfur. ](/news/2009/07/7/prosecutors-at-the-international-criminal-court-challenge-a-tribunal-s-decision-not-to-indict-sudanese-president-omar-al-bashir-on-charges.md)
-_Context: Darfur, ICC, Omar al-Bashir, President of Sudan, Sudan, conflict_
+_Context: Darfur, International Criminal Court, Omar al-Bashir, President of Sudan, Sudan, conflict_
 
 ##### Iran
 ### [ Iranian opposition leaders call for the release of people who demonstrated in the aftermath of the disputed presidential election. ](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.md)
@@ -41,7 +41,7 @@ _Context: Benedict XVI, Pope_
 
 ##### Explode
 ### [ Two bombs explode in the southern Philippines, killing two and injuring 53. ](/news/2009/07/7/two-bombs-explode-in-the-southern-philippines-killing-two-and-injuring-53.md)
-_Context: Philippines, explode_
+_Context: Philippine, explode_
 
 ##### United Nations
 ### [ The United Nations says around 204,000 people have fled violence in Mogadishu, Somalia as a result of a militant offensive against government forces. ](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.md)

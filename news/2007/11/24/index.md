@@ -21,7 +21,7 @@ _Context: Garry Kasparov, The Other Russia, opposition leader_
 
 ##### Typhoon Mitag
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Aurora, Isabela, Philippine Sea, Philippines, Typhoon Mitag, landfall_
+_Context: Aurora, Isabela, Philippine, Philippine Sea, Typhoon Mitag, landfall_
 
 ##### Wildfire
 ### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md)

@@ -79,7 +79,7 @@ _Context: Balad, Iraq_
 ### [Rampant sexual abuse is uncovered in the British police, with victims of crime among those targeted by sexual predators. ](/news/2012/06/29/rampant-sexual-abuse-is-uncovered-in-the-british-police-with-victims-of-crime-among-those-targeted-by-sexual-predators.md)
 ##### Naxalite-Maoist insurgency
 ### [Sixteen Naxalite Maoist insurgents are killed by Central Reserve Police Force in the Indian state of Chhattisgarh. ](/news/2012/06/29/sixteen-naxalite-maoist-insurgents-are-killed-by-central-reserve-police-force-in-the-indian-state-of-chhattisgarh.md)
-_Context: Chhattisgarh, India, Indian Reserve policemen, Naxalite-Maoist insurgency_
+_Context: CRPF, Chhattisgarh, India, Naxalite-Maoist insurgency_
 
 ##### Texas
 ### [The GPS system of a flying drone is "hacked" in Texas, USA. ](/news/2012/06/29/the-gps-system-of-a-flying-drone-is-hacked-in-texas-usa.md)

@@ -25,7 +25,7 @@ A tram popular with tourists derails in the Brazilian city of Rio de Janeiro kil
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. ](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.md)
-_Context: Philippines, Taiwan, Typhoon Nanmadol_
+_Context: Philippine, Taiwan, Typhoon Nanmadol_
 
 ##### Delaware
 ### [A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md)

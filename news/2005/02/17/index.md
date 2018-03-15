@@ -5,7 +5,7 @@ Formats: [HTML](2005/02/17/index.html)  [JSON](2005/02/17/index.json)  [XML](200
 
 ##### Sudanese cabinet
 ### [ The government of Sudan rejects the United Nations' demand that the suspects of war crimes in the violence ridden western Sudanese region of Darfur would be put before the International Criminal Court in The Hague. ](/news/2005/02/17/the-government-of-sudan-rejects-the-united-nations-demand-that-the-suspects-of-war-crimes-in-the-violence-ridden-western-sudanese-region-o.md)
-_Context: Darfur, Darfur conflict, ICC, Sudan, Sudanese cabinet, The Hague, United Nations, war crime_
+_Context: Darfur, Darfur conflict, International Criminal Court, Sudan, Sudanese cabinet, The Hague, United Nations, war crime_
 
 ##### Politics of Brazil
 ### [ The Brazilian government intends to create a protected rainforest region in the aftermath of the murder of US missionary Dorothy Stang. ](/news/2005/02/17/the-brazilian-government-intends-to-create-a-protected-rainforest-region-in-the-aftermath-of-the-murder-of-us-missionary-dorothy-stang.md)

@@ -19,9 +19,9 @@ _Context: aggravated murder, child murders_
 ### [Indian police arrest three alleged members of Lashkar-e-Taiba in Delhi who are claimed to have been planning a major terrorist attack. ](/news/2012/03/1/indian-police-arrest-three-alleged-members-of-lashkar-e-taiba-in-delhi-who-are-claimed-to-have-been-planning-a-major-terrorist-attack.md)
 A suspected terrorist who was arrested in Jharkhand and on whose tip off two more alleged members of the Lashkar-e-Taiba were arrested in the national capital yesterday will be handed over to the Delhi Police, an officer said today.
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court issues an arrest warrant for the Sudanese defence minister Abdelrahim Mohamed Hussein. ](/news/2012/03/1/the-international-criminal-court-issues-an-arrest-warrant-for-the-sudanese-defence-minister-abdelrahim-mohamed-hussein.md)
-_Context: Abdelrahim Mohamed Hussein, ICC, Sudan_
+_Context: Abdelrahim Mohamed Hussein, International Criminal Court, Sudan_
 
 ##### Europe
 ### [European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-president-of-the-european-counci.md)

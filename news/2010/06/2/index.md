@@ -65,7 +65,7 @@ A four-storey building collapses in the Bangladeshi capital, Dhaka, leaving at l
 
 ##### Minibus
 ### [15 people die after a minibus drives off a cliff in the Philippines. ](/news/2010/06/2/15-people-die-after-a-minibus-drives-off-a-cliff-in-the-philippines.md)
-_Context: Philippines, minibus_
+_Context: Philippine, minibus_
 
 ##### Kenya
 ### [The Government of Kenya announces that 2.3 million bags of maize are unfit for human consumption due to contamination with high levels of aflatoxins, which have killed at least one child. ](/news/2010/06/2/the-government-of-kenya-announces-that-2-3-million-bags-of-maize-are-unfit-for-human-consumption-due-to-contamination-with-high-levels-of-af.md)

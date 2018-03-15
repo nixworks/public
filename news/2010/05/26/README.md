@@ -31,7 +31,7 @@ Vehicles damaged in blast in southern province of Kandahar but no deaths reporte
 ### [A Lusaka court convicts former Zambian Finance Minister Katele Kalumba of corruption and sentences him to five years with hard labour. Six other people, including former officials in the finance ministry, are also found guilty of corruption. ](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.md)
 Former Zambian Finance Minister Katele Kalumba is jailed for five years with hard labour for corruption.
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court reports Sudan to the United Nations Security Council for refusing to arrest former Minister Ahmed Haroun and militia leader Ali Muhammad Al Abd-Al-Rahman. ](/news/2010/05/26/the-international-criminal-court-reports-sudan-to-the-united-nations-security-council-for-refusing-to-arrest-former-minister-ahmed-haroun-an.md)
 The International Criminal Court reports Sudan to the UN Security Council for refusing to arrest two suspected Darfur war criminals.
 
@@ -75,7 +75,7 @@ Ethiopian Prime Minister Meles Zenawi rejected opposition calls for a fresh elec
 ### [Jamaican police arrest more than 500 people after an unsuccessful attempt to arrest a suspected drug kingpin in Kingston, the capital, results in violence that leaves at least 44 people dead. ](/news/2010/05/26/jamaican-police-arrest-more-than-500-people-after-an-unsuccessful-attempt-to-arrest-a-suspected-drug-kingpin-in-kingston-the-capital-resul.md)
 The anti-drug offensive in the Jamaican capital claims at least 44 lives as battles between police and gunmen continue.
 
-##### ICC
+##### International Criminal Court
 ### [International Criminal Court judges tell the UN Security Council that the Sudanese government is protecting suspects wanted for war crimes in Darfur instead of arresting them to face trial. ](/news/2010/05/26/international-criminal-court-judges-tell-the-un-security-council-that-the-sudanese-government-is-protecting-suspects-wanted-for-war-crimes-i.md)
 Judges at the International Criminal Court want action on crimes committed during the Darfur crisis where more than 300,000 have died since 2003
 

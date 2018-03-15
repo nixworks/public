@@ -23,7 +23,7 @@ Pacific walrus unable to find sea ice on which to rest in Arctic waters are comi
 ### [U.S. Senator Patrick Leahy writes to Internet Service Providers asking them to commit to net neutrality, that is, to refrain from engaging in "paid prioritization." ](/news/2014/10/1/u-s-senator-patrick-leahy-writes-to-internet-service-providers-asking-them-to-commit-to-net-neutrality-that-is-to-refrain-from-engaging-i.md)
 U.S. Senate Judiciary Committee Chairman Patrick Leahy on Thursday pressed large Internet providers to pledge that they will not strike deals that may help some websites load faster than others or give similar &quot;fast lanes&quot; to affiliated services.
 
-##### Philippines
+##### Philippine
 ### [The Philippines government confiscates art owned by Imelda Marcos, including a Michaelangelo, a Gauguin, and a Picasso, alleging that these were bought using embezzled funds. ](/news/2014/10/1/the-philippines-government-confiscates-art-owned-by-imelda-marcos-including-a-michaelangelo-a-gauguin-and-a-picasso-alleging-that-these.md)
 Artworks belonging to former Philippine first lady Imelda Marcos are seized by authorities who claim they were acquired with embezzled state funds.
 

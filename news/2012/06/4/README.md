@@ -11,7 +11,7 @@ Lee Wee and Ben Blanchard
 ### [Indian cricketer Sachin Tendulkar is sworn in as a member of Parliament's upper house the Rajya Sabha. ](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.md)
 _Context: Indians, Rajya Sabha, Sachin Tendulkar_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. ](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.md)
 Japanese Prime Minister Yoshihiko Noda reshuffled his Cabinet in an effort to win opposition backing for his bill to double the consumption tax, after his bid to heal a breach in the ruling party failed.
 

@@ -49,7 +49,7 @@ _Context: 1994 genocide, Gacaca, Rwanda, community court_
 
 ##### Vienna Convention on Consular Relations
 ### [ US withdraws from part of the Vienna Convention on Consular Relations that gave the International Criminal Court the right to intervene in cases of foreigners held in death rows in US jails ](/news/2005/03/10/us-withdraws-from-part-of-the-vienna-convention-on-consular-relations-that-gave-the-international-criminal-court-the-right-to-intervene-in.md)
-_Context: ICC, Vienna Convention on Consular Relations, death row, jail_
+_Context: International Criminal Court, Vienna Convention on Consular Relations, death row, jail_
 
 ##### Paul Schfer
 ### [ Paul Schfer, former leader of Colonia Dignidad community in Chile, is arrested in Argentina accused of child sexual abuse. He has been on the run for 8 years. ](/news/2005/03/10/paul-schafer-former-leader-of-colonia-dignidad-community-in-chile-is-arrested-in-argentina-accused-of-child-sexual-abuse-he-has-been-on.md)

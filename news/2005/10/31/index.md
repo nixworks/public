@@ -29,7 +29,7 @@ _Context: 2004, Iraq, United States military_
 
 ##### Japan
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
-_Context: Chief Cabinet Secretary, Foreign Minister, Heizo Takenaka, Interior Minister, Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe, Taro Aso_
+_Context: Chief Cabinet Secretary, Foreign Minister, Heizo Takenaka, Interior Minister, Japan, Japanese Prime Minister, Junichiro Koizumi, Liberal Democratic Party, Shinzo Abe, Taro Aso_
 
 ##### United States
 ### [ U.S. President George W. Bush nominates Judge Samuel Alito of the Third Circuit Court of Appeals to the U.S. Supreme Court. ](/news/2005/10/31/u-s-president-george-w-bush-nominates-judge-samuel-alito-of-the-third-circuit-court-of-appeals-to-the-u-s-supreme-court.md)

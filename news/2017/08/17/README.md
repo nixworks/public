@@ -17,7 +17,7 @@ President Donald Trump will not move forward with a planned Advisory Council on 
 
 ##### International Criminal Court investigation in Mali
 ### [The International Criminal Court has ruled that Ahmad al-Faqi al-Mahdi is liable for about EUR 2.7 million in personal damages for the destruction of Timbuktu's heritage sites, and that the victims (including Mali itself and the international community) be paid "individual, collective, and symbolic" reparations. The Trust Fund for Victims is to decide until 16 February 2018 how the amount will be paid (the Court has also recognized that the penniless al-Mahdi would be unable to pay). ](/news/2017/08/17/the-international-criminal-court-has-ruled-that-ahmad-al-faqi-al-mahdi-is-liable-for-about-a-2-7-million-in-personal-damages-for-the-destr.md)
-_Context: Ahmad al-Faqi al-Mahdi, EUR, ICC, International Criminal Court investigation in Mali, Mali, Timbuktu's heritage sites, destruction_
+_Context: Ahmad al-Faqi al-Mahdi, EUR, International Criminal Court, International Criminal Court investigation in Mali, Mali, Timbuktu's heritage sites, destruction_
 
 ##### Politics of Hong Kong
 ### [Hong Kong opposition activists Alex Chow, Joshua Wong, and Nathan Law are sentenced between six to eight months in prison and barred from holding office until 2022 as the Hong Kong government imposes harsher punishments on the individuals for their role in the Umbrella Movement. ](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.md)

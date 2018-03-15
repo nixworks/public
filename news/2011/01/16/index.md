@@ -29,7 +29,7 @@ The Irish prime minister announces he will not be standing down as leader of the
 
 ##### Japan
 ### [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md)
-_Context: Cabinet of Japan, Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Cabinet of Japan, Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Iran
 ### [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper "Aftenposten" reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on-i.md)

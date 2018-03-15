@@ -21,7 +21,7 @@ _Context: ''Rdhuset'' court house, Carl Westman, Stockholm_
 
 ##### Luis Moreno-Ocampo
 ### [ Prosecutor Luis Moreno-Ocampo of the International Criminal Court reports that crimes in the War in Darfur "required the sustained mobilization of the entire State apparatus" of Sudan. ](/news/2008/06/5/prosecutor-luis-moreno-ocampo-of-the-international-criminal-court-reports-that-crimes-in-the-war-in-darfur-required-the-sustained-mobiliza.md)
-_Context: ICC, Luis Moreno-Ocampo, Sudanese cabinet, conflict_
+_Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, conflict_
 
 ##### Khalid Sheikh Mohammed
 ### [ Khalid Sheikh Mohammed and four others are arraigned at Guantanamo Bay detention camp under the Military Commissions Act of 2006, and charged with crimes related to the September 11, 2001 attacks. ](/news/2008/06/5/khalid-sheikh-mohammed-and-four-others-are-arraigned-at-guantanamo-bay-detention-camp-under-the-military-commissions-act-of-2006-and-charg.md)

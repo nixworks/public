@@ -19,9 +19,9 @@ _Context: Malaysia, exorcism_
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
 _Context: China, Shanghai, Typhoon, Zhejiang_
 
-##### Philippines
+##### Philippine
 ### [Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. ](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.md)
-_Context: Manila, Philippines_
+_Context: Manila, Philippine_
 
 ##### Tuareg rebellion (2012)
 ### [Tuareg rebellion (2012): Burkina Faso's foreign minister Djibrill Bassole visits fighters linked to Al-Qaeda in northern Mali in an attempt to solve an ongoing crisis. ](/news/2012/08/7/tuareg-rebellion-2012-burkina-faso-s-foreign-minister-djibrill-bassole-visits-fighters-linked-to-al-qaeda-in-northern-mali-in-an-attempt.md)

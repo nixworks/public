@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/11/index.html)  [JSON](2016/10/11/index.json)  [XML](201
 
 ##### 2014 UZ224
 ### [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md)
-_Context: 2014 UZ224, Astronomical unit, Eris, Solar System, Sun, V774104_
+_Context: 2014 UZ224, Earth's distance from the Sun, Eris, Solar System, Sun, V774104_
 
 ##### Oklahoma City
 ### [The Office of the Chief Medical Examiner in Oklahoma City reports that an unarmed black man, Terence Crutcher, shot dead on September 16, by a white police officer, Betty Jo Shelby, had acute PCP intoxication. Authorities charged her with first-degree manslaughter. ](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-oklahoma-city-reports-that-an-unarmed-black-man-terence-crutcher-shot-dead-on-september-16-by.md)

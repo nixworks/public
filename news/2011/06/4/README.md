@@ -19,9 +19,9 @@ _Context: Cairo Criminal Court, Youssef Boutros Ghali, in absentia_
 ### [Japan and the People's Republic of China agree to resume defense relationships suspended since a disagreement over the Senkaku Islands. ](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.md)
 _Context: Senkaku Islands_
 
-##### Philippines
+##### Philippine
 ### [The Philippines accuses China of intimidating rival claimants to areas of the South China Sea, and violating its territorial waters. ](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.md)
-_Context: Philippines, South China Sea_
+_Context: Philippine, South China Sea_
 
 ##### Chile
 ### [Thousands of people are evacuated in Chile ahead of a possible eruption of the Puyehue-Cordn Caulle volcano. ](/news/2011/06/4/thousands-of-people-are-evacuated-in-chile-ahead-of-a-possible-eruption-of-the-puyehue-cordon-caulle-volcano.md)

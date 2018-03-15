@@ -33,7 +33,7 @@ _Context: Holy See, Italy, USD, euro_
 
 ##### China
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)
-_Context: China, Japan, Naoto Kan, Prime Minister of Japan, United Nations_
+_Context: China, Japan, Japanese Prime Minister, Naoto Kan, United Nations_
 
 ##### 2010 Atlantic hurricane season
 ### [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2014/11/14/index.html)  [JSON](2014/11/14/index.json)  [XML](201
 
 ## [2014-11-14](/news/2014/11/14/index.md)
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Japanese Prime Minister Shinzo Abe is preparing to dissolve the Lower House of the Diet on Tuesday and call a snap election on December 14th in order to seek a public mandate on whether to delay a scheduled increase in the consumption tax. ](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.md)
-_Context: House of Representatives, Prime Minister of Japan, Shinzo Abe, on December 14th, snap election_
+_Context: House of Representatives, Japanese Prime Minister, Shinzo Abe, on December 14th, snap election_
 
 ##### Sweden
 ### [Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grainy-image-shows-underwater-tra.md)

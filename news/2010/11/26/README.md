@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/26/index.html)  [JSON](2010/11/26/index.json)  [XML](201
 
 ##### Police in the UK
 ### [Police in the UK are seeking the power to take down websites they deem "criminal", with critics worried over the lack of judicial oversight. ](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.md)
-_Context: Police in the UK, censoring the Internet, judicial_
+_Context: Internet censorship, Police in the UK, judicial_
 
 ##### Pearse Doherty
 ### [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md)

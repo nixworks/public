@@ -21,7 +21,7 @@ _Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gal
 
 ##### Japan
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
-_Context: Japan, Prime Minister of Japan, Shinzo Abe_
+_Context: Japan, Japanese Prime Minister, Shinzo Abe_
 
 ##### Sinaloa
 ### [A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. ](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.md)

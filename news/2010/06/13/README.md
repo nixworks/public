@@ -33,7 +33,7 @@ _Context: Aruba, Joran Van der Sloot, Natalee Holloway, Peru_
 
 ##### Wen Jiabao
 ### [Wen Jiabao, the Premier of the People's Republic of China and Prime Minister of Japan Naoto Kan agree to establish a Prime Ministerial hotline between the two heads of government. ](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.md)
-_Context: Naoto Kan, Premier of the People's Republic of China, Prime Minister of Japan, Wen Jiabao, hotline_
+_Context: Japanese Prime Minister, Naoto Kan, Premier of the People's Republic of China, Wen Jiabao, hotline_
 
 ##### FIFA
 ### [FIFA says it will assist Al Jazeera Sports in its investigation of the 2010 FIFA World Cup signal sabotage. ](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.md)

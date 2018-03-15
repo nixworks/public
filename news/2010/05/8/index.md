@@ -29,7 +29,7 @@ _Context: Ban Ki-moon, Bolivia, Evo Morales Ayma, President of Bolivia, United N
 
 ##### Naxalite
 ### [Naxalite rebels blow up a bullet-proof vehicle of the Central Reserve Police Force in the Bijapur district of Chhattisgarh, India, killing seven officers. ](/news/2010/05/8/naxalite-rebels-blow-up-a-bullet-proof-vehicle-of-the-central-reserve-police-force-in-the-bijapur-district-of-chhattisgarh-india-killing-s.md)
-_Context: Bijapur, Chhattisgarh, India, Indian Reserve policemen, Naxalite_
+_Context: Bijapur, CRPF, Chhattisgarh, India, Naxalite_
 
 ##### Vilnius
 ### [Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. ](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.md)

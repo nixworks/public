@@ -21,7 +21,7 @@ _Context: 2017 Australian parliamentary eligibility crisis, President of the Aus
 
 ##### Japanese general election, 2017
 ### [Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
-_Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
+_Context: Japanese Prime Minister, Japanese general election, 2017, Shinzo Abe_
 
 ##### Thornton shooting
 ### [A gunman opens fire in a Walmart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.md)

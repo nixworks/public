@@ -11,7 +11,7 @@ Liberal candidate Yvonne Jones won the federal byelection in Labrador on Monday,
 ### [Siddaramaiah of the Indian National Congress party is sworn in as the 22nd Chief Minister of the southern Indian state of Karnataka. ](/news/2013/05/13/siddaramaiah-of-the-indian-national-congress-party-is-sworn-in-as-the-22nd-chief-minister-of-the-southern-indian-state-of-karnataka.md)
 Siddaramaiah was on Monday sworn in as the 22nd Chief Minister of Karnataka at a grand show at a stadium here, marking the return of the administration back to the hands of Congress after more than seven years.
 
-##### Philippines
+##### Philippine
 ### [Voters in the Philippines go to the polls for House of Representatives and Senate elections with police on heightened security. ](/news/2013/05/13/voters-in-the-philippines-go-to-the-polls-for-house-of-representatives-and-senate-elections-with-police-on-heightened-security.md)
 MANILA - The Philippines goes to the polls Monday to choose thousands of local leaders plus national legislators in what is seen as a referendum on the presidency of reformist Benigno Aquino.
 

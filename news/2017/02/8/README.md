@@ -23,7 +23,7 @@ Motion follows biggest protests in decades against decree that would have decrim
 ### [The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-country-following-a-failed-c.md)
 Dismissals come hours after first phone call between presidents Trump and Erdoğan hints at closer ties between US and Turkey
 
-##### Philippines
+##### Philippine
 ### [More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. ](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.md)
 A massive fire swept through crowded shanty town near the docks in Manila, destroying houses and leaving 15,000 people homeless, authorities in the Philippine capital said on Wednesday.
 

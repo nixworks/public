@@ -33,7 +33,7 @@ A new Russian Sukhoi Superjet passenger plane carrying 50 people goes missing on
 
 ##### Butuan City
 ### [17 people are killed in a blaze at a clothing store in Butuan City, Philippines. ](/news/2012/05/9/17-people-are-killed-in-a-blaze-at-a-clothing-store-in-butuan-city-philippines.md)
-_Context: Butuan City, Philippines_
+_Context: Butuan City, Philippine_
 
 ##### The Jockey Club
 ### [The Jockey Club, British horse racing's largest commercial group, is to increase prize money after a rise in turnover and profits. ](/news/2012/05/9/the-jockey-club-british-horse-racing-s-largest-commercial-group-is-to-increase-prize-money-after-a-rise-in-turnover-and-profits.md)

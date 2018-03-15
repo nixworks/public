@@ -11,9 +11,9 @@ _Context: Alberta, CAN$, Premier of Alberta, Ralph Klein, billion, province, pub
 ### [ The United States Department of Homeland Security asks the Justice Department's office of legal counsel to research on the legal requirements for postponing the November elections, stating that they are concerned that terrorists might disrupt the elections. ](/news/2004/07/12/the-united-states-department-of-homeland-security-asks-the-justice-department-s-office-of-legal-counsel-to-research-on-the-legal-requiremen.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
-##### Philippines
+##### Philippine
 ### [ The Philippines announces the withdrawal of its forces from Iraq. ](/news/2004/07/12/the-philippines-announces-the-withdrawal-of-its-forces-from-iraq.md)
-_Context: Iraq, Philippines_
+_Context: Iraq, Philippine_
 
 ##### Pedro Santana Lopes
 ### [ Pedro Santana Lopes becomes the prime minister of Portugal. ](/news/2004/07/12/pedro-santana-lopes-becomes-the-prime-minister-of-portugal.md)

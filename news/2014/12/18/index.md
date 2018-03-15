@@ -17,7 +17,7 @@ _Context: Death Penalty Information Center, executed in the United States_
 
 ##### Death of Jennifer Laude
 ### [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md)
-_Context: Death of Jennifer Laude, Philippines, U.S. Marine, United States, murder_
+_Context: Death of Jennifer Laude, Philippine, U.S. Marine, United States, murder_
 
 ##### International sanctions during the 2014 pro-Russian unrest in Ukraine
 ### [The European Union imposes sanctions on Russia-occupied Crimea by banning investments and tourism in the region and halting oil explorations. ](/news/2014/12/18/the-european-union-imposes-sanctions-on-russia-occupied-crimea-by-banning-investments-and-tourism-in-the-region-and-halting-oil-explorations.md)

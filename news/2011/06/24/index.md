@@ -33,7 +33,7 @@ _Context: Minot, North Dakota, Souris River, levee_
 
 ##### 2011 Pacific typhoon season
 ### [Tropical Storm Meari hits the Philippines, leaving 11 people missing and over 40,000 displaced. ](/news/2011/06/24/tropical-storm-meari-hits-the-philippines-leaving-11-people-missing-and-over-40-000-displaced.md)
-_Context: 2011 Pacific typhoon season, Philippines_
+_Context: 2011 Pacific typhoon season, Philippine_
 
 ##### Mudslide
 ### [Mudslides isolate 1,200 in Japan's Nagano Prefecture. ](/news/2011/06/24/mudslides-isolate-1-200-in-japan-s-nagano-prefecture.md)

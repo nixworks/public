@@ -11,7 +11,7 @@ Russians drop armed guards on to the deck and round up the crew of the Arctic Su
 ### [Iranian President Hassan Rouhani calls for "constructive dialogue" and an end to "unhealthy rivalries". ](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.md)
 _Context: Hassan Rouhani, Iran_
 
-##### Philippines
+##### Philippine
 ### [The Philippines evacuates coastal villages, suspends ferry services and calls in fishing boats as category 5 Typhoon Usagi approaches. ](/news/2013/09/20/the-philippines-evacuates-coastal-villages-suspends-ferry-services-and-calls-in-fishing-boats-as-category-5-typhoon-usagi-approaches.md)
 The Philippines evacuated northern coastal villages, suspended ferry services and called in fishing boats on Friday as an approaching category-five storm, already labelled a super typhoon, gained strength on a path set for southern China.
 

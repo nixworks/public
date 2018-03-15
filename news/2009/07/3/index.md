@@ -73,7 +73,7 @@ _Context: India, Mysore, mosque_
 
 ##### African Union
 ### [ The African Union stops cooperation with the International Criminal Court because it charged Sudanese President Omar al-Bashir with war crimes. ](/news/2009/07/3/the-african-union-stops-cooperation-with-the-international-criminal-court-because-it-charged-sudanese-president-omar-al-bashir-with-war-cri.md)
-_Context: African Union, ICC, Omar al-Bashir, President of Sudan, Sudan, war crime_
+_Context: African Union, International Criminal Court, Omar al-Bashir, President of Sudan, Sudan, war crime_
 
 ## [Previous Day...](/news/2009/07/2/index.md)
 

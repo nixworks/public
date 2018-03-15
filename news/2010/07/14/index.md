@@ -35,7 +35,7 @@ France stages its annual Bastille Day parade, amid criticism of the presence of 
 ### [Beijing authorities begin to gate and lock some lower-income villages, imposing curfews in order to control the flow of migrant workers. ](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.md)
 _Context: Beijing, curfew, migrant worker_
 
-##### Chancellor
+##### Chancellor of Germany
 ### [Chancellor of Germany Angela Merkel and nearly half her cabinet begin a five-day visit to Russia, China and Kazakhstan as part of an attempt to boost trade, energy and security links. ](/news/2010/07/14/chancellor-of-germany-angela-merkel-and-nearly-half-her-cabinet-begin-a-five-day-visit-to-russia-china-and-kazakhstan-as-part-of-an-attempt.md)
 Angela Merkel starts a five-day visit to Russia, China and Kazakhstan, in a bid to boost trade, energy and security links.
 

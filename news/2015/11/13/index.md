@@ -29,7 +29,7 @@ _Context: Austria, Iran, John Kerry, Saudi Arabia, Secretary of State, Syria, Sy
 
 ##### European migrant crisis
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
-_Context: Angela Merkel, Chancellor, European migrant crisis, German_
+_Context: Angela Merkel, Chancellor of Germany, European migrant crisis, German_
 
 ##### United States
 ### [U.S. diplomats, amid growing international concern the violence could spiral into an ethnic conflict, push for peace talks in Burundi. The European Union advises non-essential staff to evacuate the Central African nation amid rising violence and an uptick in political rhetoric. The head of the opposition UPRONA group urges the United Nations to send peacekeepers quickly. Yesterday, the UN Security Council called on the Burundi Government to protect human rights and cooperate with regional African mediators to immediately convene "an inclusive and genuine inter-Burundian dialogue" to find a peaceful resolution of the crisis. ](/news/2015/11/13/u-s-diplomats-amid-growing-international-concern-the-violence-could-spiral-into-an-ethnic-conflict-push-for-peace-talks-in-burundi-the-e.md)

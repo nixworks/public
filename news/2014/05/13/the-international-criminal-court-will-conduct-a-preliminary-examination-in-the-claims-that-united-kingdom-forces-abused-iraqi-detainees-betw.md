@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/13/the-international-criminal-court-will-conduct-a
 
 ### [2014-05-13](/news/2014/05/13/index.md)
 
-##### ICC
+##### International Criminal Court
 # The International Criminal Court will conduct a preliminary examination in the claims that United Kingdom forces abused Iraqi detainees between 2003 and 2008. 
 
 An initial investigation into claims that UK forces abused Iraqi detainees is to be opened by the International Criminal Court.

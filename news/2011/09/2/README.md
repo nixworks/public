@@ -3,9 +3,9 @@ Formats: [HTML](2011/09/2/index.html)  [JSON](2011/09/2/index.json)  [XML](2011/
 
 ## [2011-09-2](/news/2011/09/2/index.md)
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Yoshihiko Noda announces his new Cabinet with Jun Azumi as Minister of Finance and Koichiro Genba as Minister for Foreign Affairs. ](/news/2011/09/2/the-prime-minister-of-japan-yoshihiko-noda-announces-his-new-cabinet-with-jun-azumi-as-minister-of-finance-and-kaichira-genba-as-minister.md)
-_Context: Foreign Minister, Jun Azumi, Koichiro Genba, Minister of Finance, Prime Minister of Japan, Yoshihiko Noda_
+_Context: Foreign Minister, Japanese Prime Minister, Jun Azumi, Koichiro Genba, Minister of Finance, Yoshihiko Noda_
 
 ##### Turkish
 ### [Turkey expels Israel's ambassador and cancels all military agreements with Israel, hours before a UN report investigating the raid is published. ](/news/2011/09/2/turkey-expels-israel-s-ambassador-and-cancels-all-military-agreements-with-israel-hours-before-a-un-report-investigating-the-raid-is-publis.md)

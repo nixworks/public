@@ -15,9 +15,9 @@ Get local Bay Area news plus Bay Area breaking news, business, green, national, 
 ### [ A column of Ethiopian Army vehicles invades Somalia, reaching the town of Baidoa. They have stated that they are willing to defend Somalia's Transitional Federal Parliament from the Islamic Courts Union. ](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.md)
 _Context: Baidoa, Ethiopia, Islamic Courts Union, MPs, Somalia, invades_
 
-##### Censoring the Internet
+##### Internet censorship
 ### [ Internet censorship: In India, public outcry at the recent blocking of some blogs results in a statement by that country's government that the occurrence was a "technological error," and that immediate steps will be taken to resolve the issue. ](/news/2006/07/20/internet-censorship-in-india-public-outcry-at-the-recent-blocking-of-some-blogs-results-in-a-statement-by-that-country-s-government-that.md)
-_Context: India, blog, censoring the Internet_
+_Context: India, Internet censorship, blog_
 
 ##### Iran
 ### [ Iran states that it is determined to produce nuclear fuel on its territory. It will respond officially to a Western incentive package on August 22, 2006. ](/news/2006/07/20/iran-states-that-it-is-determined-to-produce-nuclear-fuel-on-its-territory-it-will-respond-officially-to-a-western-incentive-package-on-au.md)

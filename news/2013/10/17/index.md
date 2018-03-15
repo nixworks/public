@@ -15,9 +15,9 @@ Rescue workers were combing through piles of debris from mudslides that buried p
 ### [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah, significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah-s.md)
 Fire services have issued several emergency warnings in NSW as serious fires burn in Sydney&#x27;s Blue Mountains and near Newcastle.
 
-##### Philippines
+##### Philippine
 ### [The death toll in the Philippines from the 2013 Bohol earthquake rises to 156 with 374 people injured. ](/news/2013/10/17/the-death-toll-in-the-philippines-from-the-2013-bohol-earthquake-rises-to-156-with-374-people-injured.md)
-_Context: 2013 Bohol earthquake, Philippines_
+_Context: 2013 Bohol earthquake, Philippine_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs a bipartisan deal approved by Congress to end the Government shutdown and the debt ceiling crisis. ](/news/2013/10/17/president-of-the-united-states-barack-obama-signs-a-bipartisan-deal-approved-by-congress-to-end-the-government-shutdown-and-the-debt-ceiling.md)

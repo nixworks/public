@@ -43,9 +43,9 @@ _Context: Chile_
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)
 _Context: Tokyo Electric Power Company_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: 2011 Tohoku earthquake and tsunami, Naoto Kan, Prime Minister of Japan_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese Prime Minister, Naoto Kan_
 
 ##### Omagh
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)

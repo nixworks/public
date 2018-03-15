@@ -3,9 +3,9 @@ Formats: [HTML](2014/10/20/index.html)  [JSON](2014/10/20/index.json)  [XML](201
 
 ## [2014-10-20](/news/2014/10/20/index.md)
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. ](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.md)
-_Context: Midori Matsushima, Prime Minister of Japan, Shinzo Abe, Yuko Obuchi_
+_Context: Japanese Prime Minister, Midori Matsushima, Shinzo Abe, Yuko Obuchi_
 
 ##### Joko Widodo
 ### [Joko Widodo is sworn in as President of Indonesia. ](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.md)

@@ -31,9 +31,9 @@ _Context: Joseph Vaz, Shrine of Our Lady of Madhu_
 ### [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
 China announced new commercial flight routes along its southeastern coast today, as Taiwan warned the move created safety risks and threatened to “evict” any planes that strayed into its airspace.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md)
-_Context: China, East China Sea, Japan, Lockheed Martin F-35 Lightning II, Prime Minister of Japan, Shinzo Abe_
+_Context: China, East China Sea, Japan, Japanese Prime Minister, Lockheed Martin F-35 Lightning II, Shinzo Abe_
 
 ##### Floods devastate
 ### [Floods devastate Mozambique and Malawi, with at least 73 deaths and over 70,000 homeless. ](/news/2015/01/14/floods-devastate-mozambique-and-malawi-with-at-least-73-deaths-and-over-70-000-homeless.md)

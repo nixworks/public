@@ -29,7 +29,7 @@ A German controller who was operating the tracks where two trains collided in Fe
 
 ##### Panama Papers
 ### [ Authorities in Panama raid law firm Mossack Fonseca, the source of the data leaked about offshore companies. ](/news/2016/04/12/authorities-in-panama-raid-law-firm-mossack-fonseca-the-source-of-the-data-leaked-about-offshore-companies.md)
-_Context: Mossack Fonseca, Panama, Panama Papers, offshore companies_
+_Context: Mossack Fonseca, Panama Papers, Panamanian, offshore companies_
 
 ##### North Carolina House Bill 2
 ### [ North Carolina Governor Pat McCrory signs Executive Order 73 that addresses some, but not all, troublesome provisions in House Bill 2 that caused businesses, traveling recording stars, etc., to stay clear of the state. The order does expand the state's anti-discrimination employment policy to include LBGT protection, but reiterates that people use the marked facility consistent with "... their biological sex." The American Civil Liberties Union says the order, "... fall(s) far short of correcting the damage done ... (and that)... transgender people are still explicitly targeted by being forced to use the wrong restroom." Equality North Carolina says, "... the order doubles down on the Governor's support for some of the most problematic provisions of HB2." ](/news/2016/04/12/north-carolina-governor-pat-mccrory-signs-executive-order-73-that-addresses-some-but-not-all-troublesome-provisions-in-house-bill-2-that.md)

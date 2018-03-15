@@ -19,7 +19,7 @@ _Context: Greece, Serb, Srebrenica massacre_
 ### [ In Mexico, Subcomandante Marcos of the Zapatistas announces a "new political initiative" after a week-long meeting in the jungle. ](/news/2005/06/27/in-mexico-subcomandante-marcos-of-the-zapatistas-announces-a-new-political-initiative-after-a-week-long-meeting-in-the-jungle.md)
 _Context: Mexico, Subcomandante Marcos, Zapatista_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, president Gloria Arroyo apologizes and admits that she took a phonecall to an election official during the presidential elections last. She denies any vote fixing and refuses to resign. ](/news/2005/06/27/in-the-philippines-president-gloria-arroyo-apologizes-and-admits-that-she-took-a-phonecall-to-an-election-official-during-the-presidential.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

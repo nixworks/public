@@ -9,7 +9,7 @@ The protesters are believed to be linked to nationalist politician Vyacheslav Ma
 
 ##### Protests against Rodrigo Duterte
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md)
-_Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
+_Context: Philippine, Philippine Catholic Church, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
 
 ##### Crime in Kentucky
 ### [United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. ](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.md)

@@ -15,7 +15,7 @@ _Context: Beijing-Shanghai High-Speed Railway, Chinese, bullet train_
 ### [2011 Syrian uprising: Massive protests are planned against the President Bashar al-Assad, after recent raids by the Army. ](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.md)
 _Context: 2011 Syrian uprising, Bashar al-Assad, President, Syrian Army_
 
-##### Philippines
+##### Philippine
 ### [Two bombers kill themselves in an attempted attack in the Philippines city of Kidapawan in Cotabato province. ](/news/2011/08/12/two-bombers-kill-themselves-in-an-attempted-attack-in-the-philippines-city-of-kidapawan-in-cotabato-province.md)
 A portal of daily newspapers covering Philippine news headlines, business, lifestyle, advertisement, sports and entertainment. Also delivers Manila and Cebu news.
 

@@ -13,7 +13,7 @@ All escaped exotic animals from Ohio private farm accounted for; Final death tol
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, meets with the Prime Minister of Japan, Yoshihiko Noda, in Seoul. ](/news/2011/10/19/the-president-of-south-korea-lee-myung-bak-meets-with-the-prime-minister-of-japan-yoshihiko-noda-in-seoul.md)
-_Context: Lee Myung-bak, Prime Minister of Japan, Seoul, South Korean President, Yoshihiko Noda_
+_Context: Japanese Prime Minister, Lee Myung-bak, Seoul, South Korean President, Yoshihiko Noda_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II commences her 16th visit to Australia in the capital Canberra. ](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.md)

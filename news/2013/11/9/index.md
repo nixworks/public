@@ -19,7 +19,7 @@ _Context: Bangladesh, Bangladesh Nationalist Party_
 ### [British foreign secretary William Hague urged negotiatiors to "seize the moment" on talks about Iran's nuclear program. ](/news/2013/11/9/british-foreign-secretary-william-hague-urged-negotiatiors-to-seize-the-moment-on-talks-about-iran-s-nuclear-program.md)
 _Context: Iran, William Hague_
 
-##### Philippines
+##### Philippine
 ### [Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-tacloban-and-200-i.md)
 The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one of the most powerful-ever tropical typhoons, blows through the Philippines. Local authorities earlier put the death toll at nearer 100.
 

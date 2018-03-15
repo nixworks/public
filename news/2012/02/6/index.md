@@ -29,7 +29,7 @@ A three-storey factory collapsed on Monday in the Pakistani city of Lahore after
 
 ##### 2012 Negros Oriental earthquake
 ### [A 6.9 magnitude earthquake hits near the central Philippines off the coast of Negros Island causing at least 13 deaths and 29 people missing with houses buried in a landslide in Guihulngan. ](/news/2012/02/6/a-6-9-magnitude-earthquake-hits-near-the-central-philippines-off-the-coast-of-negros-island-causing-at-least-13-deaths-and-29-people-missing.md)
-_Context: 2012 Negros Oriental earthquake, Guihulngan, Negros Island, Philippines_
+_Context: 2012 Negros Oriental earthquake, Guihulngan, Negros Island, Philippine_
 
 ##### Greek government debt crisis
 ### [Greek government debt crisis: The government of Greece fails to reach agreement over the terms of a new bailout from the European Union, but retracts the deadline they had given themselves to do so, 30 minutes before the deadline would have passed. ](/news/2012/02/6/greek-government-debt-crisis-the-government-of-greece-fails-to-reach-agreement-over-the-terms-of-a-new-bailout-from-the-european-union-but.md)

@@ -29,7 +29,7 @@ The new Aegis Ashore ballistic missile defense system at Romania’s Deveselu ai
 
 ##### Australia-Japan relations
 ### [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md)
-_Context: Australia-Japan relations, Japan, Malcolm Turnbull, Prime Minister, Prime Minister of Japan, Shinzo Abe, Tokyo, Tony Abbott, whaling_
+_Context: Australia-Japan relations, Japan, Japanese Prime Minister, Malcolm Turnbull, Prime Minister, Shinzo Abe, Tokyo, Tony Abbott, whaling_
 
 ##### Pollution in China
 ### [The Chinese government warns residents in Northern China to prepare for a wave of choking smog arriving over the weekend and lasting through Tuesday, with Beijing affected hardest. The capital city issues its second-ever "red alert" -- the first was announced on December 7, 2015. This alert triggers the odd-even license plate system to halve cars on the road, and recommends schools close. China's National Meteorological Center reports the pollution will stretch from Xi'an, across part of Central China, through Beijing and up into Shenyang and Harbin in China's frigid northeast. ](/news/2015/12/18/the-chinese-government-warns-residents-in-northern-china-to-prepare-for-a-wave-of-choking-smog-arriving-over-the-weekend-and-lasting-through.md)

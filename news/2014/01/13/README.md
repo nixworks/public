@@ -15,9 +15,9 @@ _Context: Tampa, Florida_
 ### [The Sandiganbayan rules the jewelry collection of Imelda Marcos, valued about $150,000 in 1986, property of the government of the Philippines and orders the Marcos family to forfeit it. ](/news/2014/01/13/the-sandiganbayan-rules-the-jewelry-collection-of-imelda-marcos-valued-about-150-000-in-1986-property-of-the-government-of-the-philippine.md)
 _Context: Imelda Marcos, Sandiganbayan, government of the Philippines_
 
-##### Philippines
+##### Philippine
 ### [Heavy rain and landslides kill 20 people in the southeastern Philippines, mostly in the Mindanao provinces of Davao Oriental and Compostela Valley. Another 13 are missing. ](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.md)
-_Context: Compostela Valley, Davao Oriental, Mindanao, Philippines_
+_Context: Compostela Valley, Davao Oriental, Mindanao, Philippine_
 
 ##### Tonga
 ### [Tonga restores contact with the Ha'apai islands after Cyclone Ian passed through during the weekend, killing one person and significantly damaging structures. ](/news/2014/01/13/tonga-restores-contact-with-the-ha-apai-islands-after-cyclone-ian-passed-through-during-the-weekend-killing-one-person-and-significantly-da.md)

@@ -25,7 +25,7 @@ _Context: Catholic Church's diocese in Oslo, Norway, kroner_
 
 ##### France
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: France, Francois Hollande, French President, Marion Cotillard, Melanie Laurent, Philippines, climate change_
+_Context: France, Francois Hollande, French President, Marion Cotillard, Melanie Laurent, Philippine, climate change_
 
 ##### ISIL
 ### ["Jihadi John", an ISIL terrorist featured in many beheading videos, is identified as Mohammed Emwazi, a Kuwaiti-born man who lived in the United Kingdom and was on a terrorism watch list. ](/news/2015/02/26/jihadi-john-an-isil-terrorist-featured-in-many-beheading-videos-is-identified-as-mohammed-emwazi-a-kuwaiti-born-man-who-lived-in-the-un.md)

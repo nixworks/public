@@ -131,7 +131,7 @@ _Context: Kokoda, Papua New Guinea, high altitude, human settlement_
 ### [TVNZ "Breakfast" race row: ](/news/2010/10/4/tvnz-breakfast-race-row.md)
 Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion and reader comment from New Zealand and around the World - NZ Herald
 
-##### Indian Reserve policemen
+##### CRPF
 ### [4 people, including two Central Reserve Police Force men, are killed and 2 others are injured in an evening landmine blast in the remote parts of South Gadchiroli. The attack is carried out by Maoists. ](/news/2010/10/4/4-people-including-two-central-reserve-police-force-men-are-killed-and-2-others-are-injured-in-an-evening-landmine-blast-in-the-remote-par.md)
 Four securitymen killed as Naxals trigger blast in Gadchiroli - Initial reports suggest that the Maoists blew off a landmine at Perimili village, 200 km from the district headquarters.
 

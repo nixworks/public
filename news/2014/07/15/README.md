@@ -27,7 +27,7 @@ _Context: 2009 Black Saturday bushfires, Australia, SP AusNet, Victoria, Victori
 ### [A train derails on the Moscow Metro, killing at least 20 and injuring more than 100 others, 50 of whom seriously. ](/news/2014/07/15/a-train-derails-on-the-moscow-metro-killing-at-least-20-and-injuring-more-than-100-others-50-of-whom-seriously.md)
 A rush-hour train derails on the Moscow metro, killing 21 people, the Russian authorities say, with scores more injured.
 
-##### Philippines
+##### Philippine
 ### [The Philippines braces for the impact of Typhoon Rammasun (Glenda) which is expected to pass over the capital Manila causing flooding. Thousands have fled to evacuation centres and ports and airports in the country are closed ](/news/2014/07/15/the-philippines-braces-for-the-impact-of-typhoon-rammasun-glenda-which-is-expected-to-pass-over-the-capital-manila-causing-flooding-thous.md)
 Thousands are preparing to evacuate Philippines coastal areas as Typhoon Rammasun approaches.
 

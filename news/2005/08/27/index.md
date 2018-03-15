@@ -9,7 +9,7 @@ _Context: Hamas, Israel, Muhammad Deif_
 
 ##### Lamitan, Basilan
 ### [ Over 30 are injured in a bomb blast on a ferry at Lamitan, Basilan, Philippines, a stronghold of the Abu Sayyaf group. ](/news/2005/08/27/over-30-are-injured-in-a-bomb-blast-on-a-ferry-at-lamitan-basilan-philippines-a-stronghold-of-the-abu-sayyaf-group.md)
-_Context: Abu Sayyaf, Lamitan, Basilan, Philippines_
+_Context: Abu Sayyaf, Lamitan, Basilan, Philippine_
 
 ## [Previous Day...](/news/2005/08/26/index.md)
 

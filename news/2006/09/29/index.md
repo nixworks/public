@@ -17,7 +17,7 @@ _Context: Lenovo, Sony_
 
 ##### Typhoon Xangsane
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
-_Context: Philippines, Typhoon Xangsane_
+_Context: Philippine, Typhoon Xangsane_
 
 ##### Soyuz TMA-8
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)

@@ -23,9 +23,9 @@ Israel Keyes was found dead in his cell; authorities say he may be linked to sev
 ### [Egypt's Supreme Constitutional Court defers a ruling on whether the Constituent Assembly is legal following pressure from supporters of President Mohamed Morsi. ](/news/2012/12/2/egypt-s-supreme-constitutional-court-defers-a-ruling-on-whether-the-constituent-assembly-is-legal-following-pressure-from-supporters-of-pres.md)
 _Context: Constituent Assembly of Egypt, Egypt, Mohamed Morsi, President, Supreme Constitutional Court_
 
-##### Philippines
+##### Philippine
 ### [The Philippines warns citizens about Typhoon Bopha expected to make landfall on Tuesday, December 4. ](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.md)
-_Context: Philippines, Typhoon Bopha, landfall_
+_Context: Philippine, Typhoon Bopha, landfall_
 
 ##### Miner
 ### [16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. ](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-mine-was-flooded-in-northeast-china-s-heilongjiang-province.md)

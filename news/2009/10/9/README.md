@@ -31,9 +31,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ Six Vietnamese pro-democracy activists are sentenced to up to six years in prison for "spreading propaganda" against the government. ](/news/2009/10/9/six-vietnamese-pro-democracy-activists-are-sentenced-to-up-to-six-years-in-prison-for-spreading-propaganda-against-the-government.md)
 Vietnam jailed six people on Friday for advocating democracy after similar sentences to three others earlier in the week, moves that analysts say look choreographed to deter dissent in the run up to a major Communist meeting.
 
-##### Philippines
+##### Philippine
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ##### United States
 ### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)

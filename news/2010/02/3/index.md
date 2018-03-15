@@ -23,9 +23,9 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 ### [Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. ](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.md)
 _Context: North Korea, Somali pirates, Somalia, Yemen_
 
-##### ICC
+##### International Criminal Court
 ### [Judges at the International Criminal Court rule that Sudan's president Omar al-Bashir could face charges of genocide over the War in Darfur. ](/news/2010/02/3/judges-at-the-international-criminal-court-rule-that-sudan-s-president-omar-al-bashir-could-face-charges-of-genocide-over-the-war-in-darfur.md)
-_Context: ICC, Omar al-Bashir, Sudan, conflict, genocide_
+_Context: International Criminal Court, Omar al-Bashir, Sudan, conflict, genocide_
 
 ##### Avatar
 ### ["Avatar" becomes the highest grossing film in the U.S. and Canada while surpassing the 2 billion dollars mark in worldwide sales. ](/news/2010/02/3/avatar-becomes-the-highest-grossing-film-in-the-u-s-and-canada-while-surpassing-the-2-billion-dollars-mark-in-worldwide-sales.md)

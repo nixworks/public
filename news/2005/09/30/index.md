@@ -17,7 +17,7 @@ _Context: Europe, Geneva, Internet, U.S. Commerce Department_
 
 ##### Osaka
 ### [ An Osaka High Court judge rules that the visit by Japanese Prime Minister Junichiro Koizumi to the Yasukuni Shrine violates the constitution's separation of church and state. The visit by a Japanese head of government to the war shrine is a sensitive issue with China and South Korea. ](/news/2005/09/30/an-osaka-high-court-judge-rules-that-the-visit-by-japanese-prime-minister-junichiro-koizumi-to-the-yasukuni-shrine-violates-the-constitutio.md)
-_Context: China, Junichiro Koizumi, Osaka, Prime Minister of Japan, South Korea, Yasukuni Shrine, constitution_
+_Context: China, Japanese Prime Minister, Junichiro Koizumi, Osaka, South Korea, Yasukuni Shrine, constitution_
 
 ##### Flu
 ### [ The new United Nations coordinator for human and avian influenza warns that 5-150 million people could die in a flu epidemic. Humans have no natural immunity to the virus. ](/news/2005/09/30/the-new-united-nations-coordinator-for-human-and-avian-influenza-warns-that-5-150-million-people-could-die-in-a-flu-epidemic-humans-have-n.md)

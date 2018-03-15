@@ -11,9 +11,9 @@ _Context: Andres Manuel Lopez Obrador, Enrique Pena Nieto, Mexican presidential 
 ### [A federal judge in Alabama sentences Ulugbek Kodirov, an Uzbek national, to 15 years in prison for plotting to kill Barack Obama. ](/news/2012/07/13/a-federal-judge-in-alabama-sentences-ulugbek-kodirov-an-uzbek-national-to-15-years-in-prison-for-plotting-to-kill-barack-obama.md)
 An Uzbek man who came to America pursuing an Ivy League medical degree but wound up working seven days a week at a mall kiosk in Alabama was sentenced to more than 15 years in prison Friday for ...
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court issues an arrest warrant for war crimes against Sylvestre Mudacumura, the commander of the Congolese rebel group, the Democratic Forces for the Liberation of Rwanda. ](/news/2012/07/13/the-international-criminal-court-issues-an-arrest-warrant-for-war-crimes-against-sylvestre-mudacumura-the-commander-of-the-congolese-rebel.md)
-_Context: DR Congo, Democratic Forces for the Liberation of Rwanda, ICC, Sylvestre Mudacumura, war crime_
+_Context: DR Congo, Democratic Forces for the Liberation of Rwanda, International Criminal Court, Sylvestre Mudacumura, war crime_
 
 ##### Tetra Pak
 ### [Tetra Pak heir Hans Kristian Rausing is arrested on suspicion of involvement in the death of his wife, Eva Rausing. ](/news/2012/07/13/tetra-pak-heir-hans-kristian-rausing-is-arrested-on-suspicion-of-involvement-in-the-death-of-his-wife-eva-rausing.md)

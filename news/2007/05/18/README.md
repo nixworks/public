@@ -9,7 +9,7 @@ _Context: China, Guangxi Zhuang, government, one-child policy_
 
 ##### Bus terminal
 ### [ A home-made bomb explodes in a bus terminal in Cotabato in the southern Philippines, killing 3 people and injuring 15. ](/news/2007/05/18/a-home-made-bomb-explodes-in-a-bus-terminal-in-cotabato-in-the-southern-philippines-killing-3-people-and-injuring-15.md)
-_Context: Cotabato City, Philippines, bus terminal_
+_Context: Cotabato City, Philippine, bus terminal_
 
 ##### Parliament
 ### [ The Parliament of Kazakhstan votes to allow the President of Kazakhstan Nursultan Nazarbayev to stand for an unlimited number of terms. ](/news/2007/05/18/the-parliament-of-kazakhstan-votes-to-allow-the-president-of-kazakhstan-nursultan-nazarbayev-to-stand-for-an-unlimited-number-of-terms.md)

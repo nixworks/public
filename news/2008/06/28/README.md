@@ -3,9 +3,9 @@ Formats: [HTML](2008/06/28/index.html)  [JSON](2008/06/28/index.json)  [XML](200
 
 ## [2008-06-28](/news/2008/06/28/index.md)
 
-##### Philippines
+##### Philippine
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Daz, Manny Pacquiao, Philippines, United States, WBC_
+_Context: David Daz, Manny Pacquiao, Philippine, United States, WBC_
 
 ##### Pakistan
 ### [ Pakistan commences a military operation against Taliban militants in the Khyber Agency near Peshawar. ](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.md)

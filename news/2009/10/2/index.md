@@ -29,7 +29,7 @@ Around 50 activists of a Tamil outfit on Friday barged into the office of Sri La
 
 ##### Kenya
 ### [ Kenya says it will cooperate with the International Criminal Court over post-election unrest in 2007. ](/news/2009/10/2/kenya-says-it-will-cooperate-with-the-international-criminal-court-over-post-election-unrest-in-2007.md)
-_Context: ICC, Kenya, post-election violence_
+_Context: International Criminal Court, Kenya, post-election violence_
 
 ##### Burma
 ### [ A Burmese court rejects Aung San Suu Kyi's appeal against her extended detention. ](/news/2009/10/2/a-burmese-court-rejects-aung-san-suu-kyi-s-appeal-against-her-extended-detention.md)

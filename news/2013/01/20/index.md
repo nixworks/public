@@ -13,7 +13,7 @@ _Context: Austria, army, community service, national referendum, professional ar
 
 ##### German
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Angela Merkel, Chancellor, German, Lower Saxony state election_
+_Context: Angela Merkel, Chancellor of Germany, German, Lower Saxony state election_
 
 ##### India
 ### [Indian Cabinet Committee on Political Affairs on Thursday decided to raise the cap on subsidised liquefied petroleum gas to nine cylinders per household in a year from existing six. ](/news/2013/01/20/indian-cabinet-committee-on-political-affairs-on-thursday-decided-to-raise-the-cap-on-subsidised-liquefied-petroleum-gas-to-nine-cylinders-p.md)

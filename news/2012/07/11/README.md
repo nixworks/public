@@ -69,7 +69,7 @@ _Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_
 
 ##### Abu Sayyaf
 ### [An ambush by suspected Abu Sayyaf rebels kills 6 rubber plantation workers and injures a further 22 in the southern Philippines. ](/news/2012/07/11/an-ambush-by-suspected-abu-sayyaf-rebels-kills-6-rubber-plantation-workers-and-injures-a-further-22-in-the-southern-philippines.md)
-_Context: Abu Sayyaf, Philippines_
+_Context: Abu Sayyaf, Philippine_
 
 ##### Suicide bombing
 ### [A suicide bombing at a police academy in the Yemeni capital of Sana'a kills at least 20 people. ](/news/2012/07/11/a-suicide-bombing-at-a-police-academy-in-the-yemeni-capital-of-sana-a-kills-at-least-20-people.md)

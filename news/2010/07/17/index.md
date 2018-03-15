@@ -77,7 +77,7 @@ _Context: Gaza Strip, Israel_
 
 ##### Typhoon Conson
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Philippines, Typhoon Conson, Vietnam_
+_Context: Hai Phong, Philippine, Typhoon Conson, Vietnam_
 
 ##### Israel
 ### [Israeli settlements dump untreated chemical waste directly into a sewage canal that runs through agricultural land in the West Bank, giving Palestinians skin and respiratory illnesses. ](/news/2010/07/17/israeli-settlements-dump-untreated-chemical-waste-directly-into-a-sewage-canal-that-runs-through-agricultural-land-in-the-west-bank-giving.md)

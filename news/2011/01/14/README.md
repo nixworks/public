@@ -19,9 +19,9 @@ _Context: Reince Priebus, Republican National Committee, United States, Wisconsi
 ### [In the UK, Labour wins the Oldham East and Saddleworth by-election with a majority of more than 3,500. ](/news/2011/01/14/in-the-uk-labour-wins-the-oldham-east-and-saddleworth-by-election-with-a-majority-of-more-than-3-500.md)
 Labour win the Oldham East and Saddleworth by-election with a majority of more than 3,500, holding off the challenge of the Liberal Democrats.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [Prime Minister of Japan Naoto Kan reshuffles his Cabinet. ](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.md)
-_Context: Cabinet of Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Cabinet of Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Nigeria
 ### [Nigeria's ruling People's Democratic Party nominates incumbent President Goodluck Jonathan as its candidate for April presidential elections. ](/news/2011/01/14/nigeria-s-ruling-people-s-democratic-party-nominates-incumbent-president-goodluck-jonathan-as-its-candidate-for-april-presidential-elections.md)

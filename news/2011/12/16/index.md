@@ -35,9 +35,9 @@ Hollywood actor Christian Bale was roughed up by Chinese security guards as he a
 ### [Russian customs seize radioactive material bound for Iran. ](/news/2011/12/16/russian-customs-seize-radioactive-material-bound-for-iran.md)
 _Context: Iran, Russia, radioactive_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court dismisses charges against Callixte Mbarushimana, a Rwandan rebel accused of the torture, rape and murder of Congolese villagers by Hutu militia in 2009. ](/news/2011/12/16/the-international-criminal-court-dismisses-charges-against-callixte-mbarushimana-a-rwandan-rebel-accused-of-the-torture-rape-and-murder-of.md)
-_Context: Callixte Mbarushimana, DR Congo, Hutu, ICC, Rwanda_
+_Context: Callixte Mbarushimana, DR Congo, Hutu, International Criminal Court, Rwanda_
 
 ##### United States
 ### [The United States and North Korea are expected to hold diplomatic talks regarding North Korea's nuclear program. The talks are the first meeting after the six-party talks stalled in 2008. ](/news/2011/12/16/the-united-states-and-north-korea-are-expected-to-hold-diplomatic-talks-regarding-north-korea-s-nuclear-program-the-talks-are-the-first-mee.md)

@@ -71,7 +71,7 @@ The Vatican issues new instructions to speed up the handling of the &quot;most u
 ### [An Iraqi court orders a search for a man, who disappeared yesterday, accused of involvement in the murder of aid worker Margaret Hassan in 2004. ](/news/2010/07/15/an-iraqi-court-orders-a-search-for-a-man-who-disappeared-yesterday-accused-of-involvement-in-the-murder-of-aid-worker-margaret-hassan-in-2.md)
 _Context: Iraq, Margaret Hassan_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court orders the first accused at The Hague, Thomas Lubanga from the Democratic Republic of the Congo accused of allegedly recruiting child soldiers, be freed. ](/news/2010/07/15/the-international-criminal-court-orders-the-first-accused-at-the-hague-thomas-lubanga-from-the-democratic-republic-of-the-congo-accused-of.md)
 Judges at the International Criminal Court order the accused in its first case - Thomas Lubanga from DR Congo - to be freed but not for at least five days.
 

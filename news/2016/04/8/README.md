@@ -37,7 +37,7 @@ For more than a week, vast nocturnal gatherings have spread across France in a c
 
 ##### Panama Papers
 ### [El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. ](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipment-during-a-raid-of-the-local-offices-of-panamanian-law-firm-mossack-fonseca-attorney-gene.md)
-_Context: El Salvador, Mossack Fonseca, Panama, Panama Papers_
+_Context: El Salvador, Mossack Fonseca, Panama Papers, Panamanian_
 
 ##### November 2015 Paris attacks
 ### [Six people are arrested in Belgium including:Mohamed Abrini, wanted in connection with the 2015 Paris attacks, is arrested in Belgium. ](/news/2016/04/8/six-people-are-arrested-in-belgium-including-mohamed-abrini-wanted-in-connection-with-the-2015-paris-attacks-is-arrested-in-belgium.md)

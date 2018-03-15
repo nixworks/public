@@ -73,7 +73,7 @@ A finish court has found a Rwandan man guilty of taking part in the African coun
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)

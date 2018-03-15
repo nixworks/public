@@ -9,7 +9,7 @@ A group of &#39;murderous misfits&#39; planned to massacre as many people as pos
 
 ##### Journalist
 ### [A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. ](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.md)
-_Context: Philippines, his predecessor, journalist_
+_Context: Philippine, his predecessor, journalist_
 
 ##### President of Chad
 ### [Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. ](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.md)

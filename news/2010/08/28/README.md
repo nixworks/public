@@ -19,9 +19,9 @@ _Context: Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 ### [Rwanda threatens to limit cooperation with the United Nations after a report accused the country of war crimes in neighbouring Democratic Republic of the Congo. ](/news/2010/08/28/rwanda-threatens-to-limit-cooperation-with-the-united-nations-after-a-report-accused-the-country-of-war-crimes-in-neighbouring-democratic-re.md)
 _Context: DR Congo, Rwanda, United Nations, war crime_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
-_Context: ICC, Kenya, Omar al-Bashir, Sudan, Sudanese President, United Nations Security Council_
+_Context: International Criminal Court, Kenya, Omar al-Bashir, Sudan, Sudanese President, United Nations Security Council_
 
 ##### Cuba
 ### [Cuba eases property laws, allowing foreign investors to lease government land for up to 99 years. ](/news/2010/08/28/cuba-eases-property-laws-allowing-foreign-investors-to-lease-government-land-for-up-to-99-years.md)

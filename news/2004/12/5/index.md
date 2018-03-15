@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/5/index.html)  [JSON](2004/12/5/index.json)  [XML](2004/
 
 ##### Agriculture
 ### [ With more than 1000 people dead or missing, devastation in the northern agricultural regions, and damaged infrastructure after Monday's storm and Thursday's Typhoon Nanmadol, Philippines President Gloria Macapagal-Arroyo suspends logging and pledges to prosecute violators. ](/news/2004/12/5/with-more-than-1000-people-dead-or-missing-devastation-in-the-northern-agricultural-regions-and-damaged-infrastructure-after-monday-s-sto.md)
-_Context: Gloria Macapagal-Arroyo, Philippines, President, Typhoon Nanmadol, agriculture_
+_Context: Gloria Macapagal-Arroyo, Philippine, President, Typhoon Nanmadol, agriculture_
 
 ##### Prisoner exchange
 ### [ In a prisoner exchange between Israel and Egypt, Egypt releases Azzam Azzam, an Israeli Druze businessman sentenced to 15 years imprisonment by Egypt in 1997 on charges of spying for Israel, while Israel releases six Egyptian students who allegedly infiltrated Israel to kidnap soldiers. ](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.md)

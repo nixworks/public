@@ -27,7 +27,7 @@ The incident occurred in Gaddafi Town Landhi when Zakaria Express collided with 
 ### [Security forces killed at least 2 insurgents and another 5 were injured in Cairo. ](/news/2016/11/3/security-forces-killed-at-least-2-insurgents-and-another-5-were-injured-in-cairo.md)
 ##### Moro conflict
 ### [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md)
-_Context: Malacanang Palace, Moro National Liberation Front, Moro conflict, Nur Misuari, Philippines, Rodrigo Duterte_
+_Context: Malacanang Palace, Moro National Liberation Front, Moro conflict, Nur Misuari, Philippine, Rodrigo Duterte_
 
 ##### War in Afghanistan (2015-present)
 ### [Battle of Boz Qandahari: Two United States military personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the Taliban in Kunduz province, Afghanistan. ](/news/2016/11/3/battle-of-boz-qandahari-two-united-states-military-personnel-four-afghan-commandos-and-30-civilians-are-killed-in-clashes-with-the-taliba.md)

@@ -33,7 +33,7 @@ _Context: Francisco Rafael Arellano Felix, Los Cabos, Baja California Sur, Tijua
 
 ##### Yoshitaka Shindo
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: China, Philippines, South Korea, Yasukuni Shrine, Yoshitaka Shindo_
+_Context: China, Philippine, South Korea, Yasukuni Shrine, Yoshitaka Shindo_
 
 ##### Prime Minister of Canada
 ### [The Prime Minister of Canada and the European Union tentatively sign a free trade and copyright agreement. ](/news/2013/10/18/the-prime-minister-of-canada-and-the-european-union-tentatively-sign-a-free-trade-and-copyright-agreement.md)

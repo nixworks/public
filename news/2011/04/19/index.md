@@ -29,7 +29,7 @@ _Context: Chernobyl, containment shell_
 
 ##### Manila
 ### [Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City squatter community. ](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.md)
-_Context: Makati City, Manila, Philippines_
+_Context: Makati City, Manila, Philippine_
 
 ##### Seagate Technology
 ### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. ](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)

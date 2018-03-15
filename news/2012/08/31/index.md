@@ -33,7 +33,7 @@ Armenia is severing diplomatic ties with Hungary after the release of an Azeri a
 
 ##### Magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: Eastern Samar, Philippines, earthquake, magnitude_
+_Context: Eastern Samar, Philippine, earthquake, magnitude_
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office reports that Sage Stallone died of natural causes. ](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.md)

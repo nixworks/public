@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/24/index.html)  [JSON](2008/09/24/index.json)  [XML](200
 
 ##### Typhoon Hagupit
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
-_Context: China, Philippines, Typhoon Hagupit, Vietnam_
+_Context: China, Philippine, Typhoon Hagupit, Vietnam_
 
 ##### Tomislav Nikolic
 ### [ Tomislav Nikolic announces that his party (a splinter from the Serbian Radical Party) will be called Serbian Progressive Party and that it will be founded on 21 October 2008. ](/news/2008/09/24/tomislav-nikolia-announces-that-his-party-a-splinter-from-the-serbian-radical-party-will-be-called-serbian-progressive-party-and-that-it.md)
@@ -13,7 +13,7 @@ _Context: Serbian Progressive Party, Serbian Radical Party, Tomislav Nikolic_
 
 ##### Diet
 ### [ The Diet elects Taro Aso of the Liberal Democratic Party as the new Prime Minister of Japan. ](/news/2008/09/24/the-diet-elects-taro-aso-of-the-liberal-democratic-party-as-the-new-prime-minister-of-japan.md)
-_Context: Diet, Liberal Democratic Party, Prime Minister of Japan, Taro Aso_
+_Context: Diet, Japanese Prime Minister, Liberal Democratic Party, Taro Aso_
 
 ##### American Geophysical Union
 ### [ Preliminary findings made for the American Geophysical Union that support the Clathrate gun hypothesis, indicate the possible release of millions of tons of methane, a greenhouse gas, from Arctic seabeds. ](/news/2008/09/24/preliminary-findings-made-for-the-american-geophysical-union-that-support-the-clathrate-gun-hypothesis-indicate-the-possible-release-of-mi.md)

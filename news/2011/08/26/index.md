@@ -17,7 +17,7 @@ _Context: Deloitte, First Minister of Northern Ireland, Iris Robinson, Peter Rob
 
 ##### Naoto Kan
 ### [Naoto Kan announces his resignation as Prime Minister of Japan after the Parliament passes two key pieces of legislation. ](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.md)
-_Context: Naoto Kan, Parliament of Japan, Prime Minister of Japan_
+_Context: Japanese Prime Minister, Naoto Kan, Parliament of Japan_
 
 ##### Oh Se-hoon
 ### [Oh Se-hoon resigns as the Mayor of Seoul after losing a referendum on free school lunches. ](/news/2011/08/26/oh-se-hoon-resigns-as-the-mayor-of-seoul-after-losing-a-referendum-on-free-school-lunches.md)

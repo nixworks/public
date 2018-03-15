@@ -21,7 +21,7 @@ B.C. has seen more than 50 new wildfires over the weekend that have put people o
 
 ##### 2015 Pacific typhoon season
 ### [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md)
-_Context: 2015 Pacific typhoon season, Palawan, Philippines_
+_Context: 2015 Pacific typhoon season, Palawan, Philippine_
 
 ##### UNESCO
 ### [UNESCO adds more sites to the World Heritage List including the San Antonio Missions National Historical Park in the US city of San Antonio, Texas and Scotland's Forth Bridge. ](/news/2015/07/5/unesco-adds-more-sites-to-the-world-heritage-list-including-the-san-antonio-missions-national-historical-park-in-the-us-city-of-san-antonio.md)

@@ -13,7 +13,7 @@ _Context: Jupiter, NASA, Shoemaker-Levy 9, impact event_
 
 ##### Japan
 ### [ Japanese Prime Minister Taro Aso dissolves the House of Representatives, setting the stage for a general election on August 30. ](/news/2009/07/21/japanese-prime-minister-taro-aso-dissolves-the-house-of-representatives-setting-the-stage-for-a-general-election-on-august-30.md)
-_Context: House of Representatives, Japan, Prime Minister of Japan, Taro Aso_
+_Context: House of Representatives, Japan, Japanese Prime Minister, Taro Aso_
 
 ## [Previous Day...](/news/2009/07/20/index.md)
 

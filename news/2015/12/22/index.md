@@ -25,7 +25,7 @@ Citizens of the CAR have voted for a new constitution that will replace a transi
 
 ##### Philippine presidential election, 2016
 ### [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md)
-_Context: Commission on Elections, Grace Poe, Mar Roxas, Philippine presidential election, 2016, Philippines, his predecessor, politically motivated_
+_Context: Commission on Elections, Grace Poe, Mar Roxas, Philippine, Philippine presidential election, 2016, his predecessor, politically motivated_
 
 ##### Colombian President
 ### [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md)
@@ -35,7 +35,7 @@ _Context: Colombia, Colombian President, Juan Manuel Santos, Legality of cannabi
 ### [According to industry sources, the Indian health ministry is considering Sanofi Pasteur's dengue fever vaccine for large-scale clinical trial exemption which would accelerate approval for marketing. India reported a record number of dengue fever cases this year. ](/news/2015/12/22/according-to-industry-sources-the-indian-health-ministry-is-considering-sanofi-pasteur-s-dengue-fever-vaccine-for-large-scale-clinical-tria.md)
 _Context: India, India's health ministry, Sanofi Pasteur, clinical trial, dengue fever vaccine_
 
-##### Philippines
+##### Philippine
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
 Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being reviewed by around 20 countries in Asia and Latin America
 

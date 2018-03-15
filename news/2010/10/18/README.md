@@ -13,7 +13,7 @@ The Australian government unveils plans for two more detention centres to accomm
 
 ##### Sudanese cabinet
 ### [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the "Sudan Tribune" calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect-th.md)
-_Context: ICC, Omar al-Bashir, Sudan Tribune, Sudanese cabinet, conflict_
+_Context: International Criminal Court, Omar al-Bashir, Sudan Tribune, Sudanese cabinet, conflict_
 
 ##### Vice President
 ### [China's Vice President Xi Jinping is named vice-chair of the Central Military Commission. ](/news/2010/10/18/china-s-vice-president-xi-jinping-is-named-vice-chair-of-the-central-military-commission.md)
@@ -43,17 +43,17 @@ Somali Islamist group al-Shabab orders mobile phone companies to stop their popu
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
 _Context: PKK, Turkish_
 
-##### Philippines
+##### Philippine
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Philippines, Saudi Arabia, migrant workers_
+_Context: Philippine, Saudi Arabia, migrant workers_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates' highest court rules in a domestic violence case that a man can beat his wife and children as long as he leaves no physical marks. ](/news/2010/10/18/the-united-arab-emirates-highest-court-rules-in-a-domestic-violence-case-that-a-man-can-beat-his-wife-and-children-as-long-as-he-leaves-no.md)
 A man can beat his wife and kids as long as no physical marks are left, the highest court in the United Arab Emirates has found.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md)
-_Context: Chinese, Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Chinese, Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Convention on Biological Diversity
 ### [The Convention on Biological Diversity (CBD), a major United Nations gathering, meets in Japan to work out why governments have failed to stop the rapid rate of extinction and loss of habitats by 2010, as they vowed 8 years ago. ](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.md)

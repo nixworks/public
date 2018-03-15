@@ -61,7 +61,7 @@ PM orders panel to freeze deliberations on construction in capital.
 
 ##### Luis Moreno-Ocampo
 ### [Luis Moreno-Ocampo, Prosecutor of the International Criminal Court (ICC), says that monitoring Sudan's election next month would be like monitoring a vote in Hitler's Germany. ](/news/2010/03/24/luis-moreno-ocampo-prosecutor-of-the-international-criminal-court-icc-says-that-monitoring-sudan-s-election-next-month-would-be-like-mon.md)
-_Context: Hitler, ICC, Luis Moreno-Ocampo, Nazi, Sudan_
+_Context: Hitler, International Criminal Court, Luis Moreno-Ocampo, Nazi, Sudan_
 
 ##### European Union
 ### [The European Union calls for Iran to halt internet censorship and jamming of radio broadcasts. ](/news/2010/03/24/the-european-union-calls-for-iran-to-halt-internet-censorship-and-jamming-of-radio-broadcasts.md)

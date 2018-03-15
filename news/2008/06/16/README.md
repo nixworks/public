@@ -39,9 +39,9 @@ _Context: Global food price crisis, Office for the Coordination of Humanitarian 
 ### [ Israel and Syria conclude talks on the Golan Heights issue held in Turkey. ](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.md)
 _Context: Golan Heights, Israel, Syria_
 
-##### ICC
+##### International Criminal Court
 ### [ International Criminal Court judges severely criticize prosecutors in the case against Thomas Lubanga. ](/news/2008/06/16/international-criminal-court-judges-severely-criticize-prosecutors-in-the-case-against-thomas-lubanga.md)
-_Context: ICC, Thomas Lubanga_
+_Context: International Criminal Court, Thomas Lubanga_
 
 ##### Ban
 ### [ Same-sex marriage in California comes into effect following a court ruling on May 15, 2008. ](/news/2008/06/16/same-sex-marriage-in-california-comes-into-effect-following-a-court-ruling-on-may-15-2008.md)

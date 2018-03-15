@@ -15,7 +15,7 @@ The oil-rich nation has prohibited future public celebrations of Christmas as pa
 ### [The Obama administration fines Honda $70 million for failing to report deaths and injury complaints from 2003 to 2014. ](/news/2015/01/8/the-obama-administration-fines-honda-70-million-for-failing-to-report-deaths-and-injury-complaints-from-2003-to-2014.md)
 The government says it is fining Honda $70 million for not reporting to safety regulators more than 1,700 complaints that its vehicles caused deaths and injuries, and for not reporting warranty claims,...
 
-##### Philippines
+##### Philippine
 ### [An unknown gunman shoots dead Nerlita Ledesma, a journalist from the Philippine tabloid "Abante" in the province of Bataan; her death is the 172nd murder of a journalist since the return of democracy in 1986 and the 31st during the presidency of Benigno Aquino III. ](/news/2015/01/8/an-unknown-gunman-shoots-dead-nerlita-ledesma-a-journalist-from-the-philippine-tabloid-abante-in-the-province-of-bataan-her-death-is-the.md)
 (2nd UPDATE) Abante reporter Nerlita Ledesma is gunned down in Balanga City, Bataan, while waiting for transportation to get to work
 

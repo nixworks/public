@@ -25,7 +25,7 @@ _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, 
 
 ##### Explosion
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
-_Context: Congressman, Philippine lower House, Philippines, Quezon City, Wahab Akbar, explosion_
+_Context: Congressman, Philippine, Philippine lower House, Quezon City, Wahab Akbar, explosion_
 
 ##### France
 ### [ In France, rail workers and Paris Mtro personnel go on strike in the first wave of public-sector strikes. ](/news/2007/11/13/in-france-rail-workers-and-paris-metro-personnel-go-on-strike-in-the-first-wave-of-public-sector-strikes.md)

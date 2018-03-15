@@ -17,7 +17,7 @@ _Context: EU-Ukraine Free Trade deal_
 
 ##### Manila
 ### [About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. ](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.md)
-_Context: Manila, New Year's Eve, Philippines, Tondo, firecracker_
+_Context: Manila, New Year's Eve, Philippine, Tondo, firecracker_
 
 ##### Jesus
 ### [A new 28-foot tall statue of Jesus, dubbed "Jesus de Greatest," is unveiled on New Year's Day outside St. Aloysius Catholic Church in Abajah village, Nigeria's Imo state, which is described as the tallest Jesus statue in Africa. ](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.md)

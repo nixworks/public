@@ -9,7 +9,7 @@ _Context: Barcelona, Catalan independence, National Day of Catalonia, secession_
 
 ##### Politics of the Philippines
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Justice, Philippines, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
+_Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
 
 ##### Deferred Action for Childhood Arrivals
 ### [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md)

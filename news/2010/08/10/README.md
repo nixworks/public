@@ -51,7 +51,7 @@ A US engineer of Indian origin is convicted of selling military secrets about th
 ### [Iran digs mass graves in Khuzestan province, using psychological warfare in preparation for an invasion by the United States armed forces after the United Nations Security Council Resolution 1929, and warns that Iran will attack American bases in the Middle East if American forces attack. ](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.md)
 _Context: Iran, Khuzestan, United States armed forces, ban on ballistic missile tests, mass grave, psychological warfare_
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan apologises to South Korea for colonising the Korean peninsula for three decades in the early 1900s and promises to return cultural relics in the near future. ](/news/2010/08/10/the-prime-minister-of-japan-naoto-kan-apologises-to-south-korea-for-colonising-the-korean-peninsula-for-three-decades-in-the-early-1900s-and.md)
 Japan apologises to South Korea for colonising the peninsula and promises to return cultural relics.
 

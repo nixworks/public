@@ -47,9 +47,9 @@ _Context: Interior Minister, Jasmine Revolution of 2011, Lampedusa, Roberto Maro
 ### [The Tokyo Metropolitan Government Bureau of Waterworks says levels of radioactive iodine in city tap water are two times the recommended limit for infants. ](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.md)
 Tokyo residents were warned not to give babies tap water because of radiation leaking from a nuclear plant crippled in the earthquake and tsunami that devastated northeast Japan.
 
-##### Prime Minister of Japan
+##### Japanese Prime Minister
 ### [The Prime Minister of Japan Naoto Kan instructs the Governor of Fukushima Prefecture Yuhei Sato to advise residents to avoid eating leafy vegetables, due to the Fukushima I nuclear accidents. ](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.md)
-_Context: Fukushima I nuclear accidents, Fukushima Prefecture, Governor, Naoto Kan, Prime Minister of Japan, Yuhei Sato, leafy vegetables_
+_Context: Fukushima I nuclear accidents, Fukushima Prefecture, Governor, Japanese Prime Minister, Naoto Kan, Yuhei Sato, leafy vegetables_
 
 ##### U.S.
 ### [A U.S. federal court judge dismisses part of a lawsuit brought by Lions Gate Entertainment against its shareholder, Carl Icahn, holding that Icahn had met certain statutory disclosure requirements. ](/news/2011/03/23/a-u-s-federal-court-judge-dismisses-part-of-a-lawsuit-brought-by-lions-gate-entertainment-against-its-shareholder-carl-icahn-holding-that.md)

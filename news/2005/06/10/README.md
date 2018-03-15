@@ -23,9 +23,9 @@ _Context: Bolivia, Carlos Mesa, Eduardo Rodrguez_
 ### [ The Colima volcano in Mexico increases its eruptive activity, with strong explosions. ](/news/2005/06/10/the-colima-volcano-in-mexico-increases-its-eruptive-activity-with-strong-explosions.md)
 _Context: Colima, Mexico_
 
-##### Philippines
+##### Philippine
 ### [ In the Philippines, whistleblower Samuel Ong accuses, with audio evidence, President Gloria Macapagal-Arroyo of rigging the 2004 elections, thus starting an electoral crisis. ](/news/2005/06/10/in-the-philippines-whistleblower-samuel-ong-accuses-with-audio-evidence-president-gloria-macapagal-arroyo-of-rigging-the-2004-elections.md)
-_Context: 2004 elections, Gloria Macapagal-Arroyo, Philippine electoral crisis, 2005, Philippines, Samuel Ong, whistleblower_
+_Context: 2004 elections, Gloria Macapagal-Arroyo, Philippine, Philippine electoral crisis, 2005, Samuel Ong, whistleblower_
 
 ## [Previous Day...](/news/2005/06/9/index.md)
 

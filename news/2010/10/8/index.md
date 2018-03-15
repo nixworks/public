@@ -39,9 +39,9 @@ _Context: Aung San Suu Kyi, Burma, house arrest_
 ### [Pakistani army Chief of Staff General Ashfaq Parvez Kayani orders an investigation into a video showing the firing squad execution of 6 blindfolded Pakistanis by men dressed in what appear to be Pakistani army uniforms. ](/news/2010/10/8/pakistani-army-chief-of-staff-general-ashfaq-parvez-kayani-orders-an-investigation-into-a-video-showing-the-firing-squad-execution-of-6-blin.md)
 _Context: Ashfaq Parvez Kayani, Chief of Army Staff, Pakistan army, Pakistani, firing squad_
 
-##### ICC
+##### International Criminal Court
 ### [The International Criminal Court orders the resumption of the war crimes trial of Congolese militia leader Thomas Lubanga, who is on trial for using children under the age of 15 to fight for his militia during the civil war in the Democratic Republic of Congo. ](/news/2010/10/8/the-international-criminal-court-orders-the-resumption-of-the-war-crimes-trial-of-congolese-militia-leader-thomas-lubanga-who-is-on-trial-f.md)
-_Context: ICC, Thomas Lubanga, children under the age of 15 to fight, civil war in the Democratic Republic of Congo_
+_Context: International Criminal Court, Thomas Lubanga, children under the age of 15 to fight, civil war in the Democratic Republic of Congo_
 
 ##### Arab League
 ### [Arab League leaders meeting in Libya announce their support for Palestinian Authority President Mahmoud Abbas's decision to stop peace talks with Israel over Israel's recently expired moratorium on construction in the West Bank. ](/news/2010/10/8/arab-league-leaders-meeting-in-libya-announce-their-support-for-palestinian-authority-president-mahmoud-abbas-s-decision-to-stop-peace-talks.md)
@@ -65,7 +65,7 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 
 ##### Malta
 ### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
-_Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
+_Context: Brittany, France, Malta, Panamanian, Tanker, cargo ship_
 
 ##### Prime Minister
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)

@@ -35,7 +35,7 @@ _Context: Portuguese government_
 ### [Lieutenant General Sir John Kiszely resigns as president of the Royal British Legion following claims of his involvement with defense contract lobbying. ](/news/2012/10/15/lieutenant-general-sir-john-kiszely-resigns-as-president-of-the-royal-british-legion-following-claims-of-his-involvement-with-defense-contra.md)
 The president of the Royal British Legion, Lt Gen Sir John Kiszely, resigns over claims he was involved in defence contract lobbying.
 
-##### Philippines
+##### Philippine
 ### [The Philippine government and the largest rebel group, the Moro Islamic Liberation Front, sign a peace pact. ](/news/2012/10/15/the-philippine-government-and-the-largest-rebel-group-the-moro-islamic-liberation-front-sign-a-peace-pact.md)
 The peace pact outlines steps to end the conflict in the island of Mindanao by 2016.
 

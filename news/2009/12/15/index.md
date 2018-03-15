@@ -13,7 +13,7 @@ A Canadian doctor who treated top athletes reportedly gave them performance-enha
 
 ##### Albay Province
 ### [ Evacuations begin in the Albay province of the Philippines as the Mayon Volcano oozes lava, with an eruption possible. ](/news/2009/12/15/evacuations-begin-in-the-albay-province-of-the-philippines-as-the-mayon-volcano-oozes-lava-with-an-eruption-possible.md)
-_Context: Albay Province, Mayon Volcano, Philippines, lava_
+_Context: Albay Province, Mayon Volcano, Philippine, lava_
 
 ##### Chile
 ### [ Chile receives an official invitation to become a member of the Organisation for Economic Co-operation and Development. ](/news/2009/12/15/chile-receives-an-official-invitation-to-become-a-member-of-the-organisation-for-economic-co-operation-and-development.md)

@@ -19,9 +19,9 @@ With many Venezuelans angry at the government and planning to sit out a July 30 
 ### [Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-second-round-defeating-former-prime-minis.md)
 Khaltmaa Battulga won more than 50 percent of the votes in a scandal-ridden presidential runoff campaign.
 
-##### Panama
+##### Panamanian
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
-_Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
+_Context: Edwin Torres, Miami, Panamanian, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
 
 ##### Legal challenges to Executive Order 13780
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)

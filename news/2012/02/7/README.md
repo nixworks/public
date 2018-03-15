@@ -39,7 +39,7 @@ Argentina will make a formal complaint to the UN about British &quot;militarisat
 ### [The death toll from a factory collapse in the Pakistani city of Lahore rises to 17 with 20 more people trapped in the rubble. ](/news/2012/02/7/the-death-toll-from-a-factory-collapse-in-the-pakistani-city-of-lahore-rises-to-17-with-20-more-people-trapped-in-the-rubble.md)
 _Context: Lahore, Pakistan_
 
-##### Philippines
+##### Philippine
 ### [Rescuers in the Philippines search for survivors of the 2012 Negros Oriental earthquake with the death toll so far confirmed at 43. ](/news/2012/02/7/rescuers-in-the-philippines-search-for-survivors-of-the-2012-negros-oriental-earthquake-with-the-death-toll-so-far-confirmed-at-43.md)
 Rescuers in the Philippines are digging through rubble with shovels and their bare hands after a powerful earthquake triggered landslides, killing 43.
 
