@@ -23,6 +23,10 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 ### [Angela Merkel is elected and sworn in for a new term as Chancellor of Germany. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-is-elected-and-sworn-in-for-a-new-term-as-chancellor-of-germany-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chanc.md)
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
 
+##### Brazil
+### [Brazilian politician and outspoken police critic Marielle Franco is killed along with her driver in a drive-by shooting in Rio de Janeiro. ](/news/2018/03/14/brazilian-politician-and-outspoken-police-critic-marielle-franco-is-killed-along-with-her-driver-in-a-drive-by-shooting-in-rio-de-janeiro.md)
+Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
+
 ##### 2018 United States gun violence protests
 ### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.

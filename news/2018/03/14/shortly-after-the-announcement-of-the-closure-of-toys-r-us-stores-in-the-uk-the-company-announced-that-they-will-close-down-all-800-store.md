@@ -11,7 +11,9 @@ The retailer informed employees of plans on Wednesday.
 
 ### Sources:
 
-1. [Washington Post](https://www.washingtonpost.com/news/business/wp/2018/03/14/toys-r-us-to-close-all-800-of-its-u-s-stores/?utm_term=.b1aeca52f3c6)
+1. [CNN](http://money.cnn.com/2018/03/14/news/companies/ford-steering-wheel-recall/index.html)
+2. [Washington Post](https://www.washingtonpost.com/news/business/wp/2018/03/14/toys-r-us-to-close-all-800-of-its-u-s-stores/?utm_term=.b1aeca52f3c6)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/180314104204-ford-fusion-recall-780x439.jpg)
 
 ### Changes:
 

@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/14/index.md)
+## [News](/news/2018/03/15/index.md)
+
+##### North Korea-Sweden relations
+### [ North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md)
+Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/14/index.md)
 
 ##### Internet censorship
 ### [Facebook blocks Britain First, a far-right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. ](/news/2018/03/14/facebook-blocks-britain-first-a-far-right-group-that-has-been-deregistered-as-a-political-party-in-the-united-kingdom-because-leaders-paul.md)
@@ -22,6 +34,10 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 ##### Politics of Germany
 ### [Angela Merkel is elected and sworn in for a new term as Chancellor of Germany. Olaf Scholz and Heiko Maas assume the positions of Vice-Chancellor and Federal Minister of Foreign Affairs respectively. ](/news/2018/03/14/angela-merkel-is-elected-and-sworn-in-for-a-new-term-as-chancellor-of-germany-olaf-scholz-and-heiko-maas-assume-the-positions-of-vice-chanc.md)
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
+
+##### Brazil
+### [Brazilian politician and outspoken police critic Marielle Franco is killed along with her driver in a drive-by shooting in Rio de Janeiro. ](/news/2018/03/14/brazilian-politician-and-outspoken-police-critic-marielle-franco-is-killed-along-with-her-driver-in-a-drive-by-shooting-in-rio-de-janeiro.md)
+Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
 
 ##### 2018 United States gun violence protests
 ### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
@@ -59,13 +75,9 @@ Retailer to start closing shops from Thursday as rescue talks fail to find a buy
 ### [British physicist and cosmologist Stephen Hawking dies aged 76 at his home in Cambridge. ](/news/2018/03/14/british-physicist-and-cosmologist-stephen-hawking-dies-aged-76-at-his-home-in-cambridge.md)
 The physicist and author of A Brief History of Time has died at his home in Cambridge. His children said: ‘We will miss him for ever’
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/13/index.md)
+## [Day Before Yesterday](/news/2018/03/13/index.md)
 
 ##### Toba catastrophe theory
 ### [ A study is released suggesting that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-is-released-suggesting-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
@@ -101,35 +113,7 @@ Home minister Rajnath&thinsp;Singh and Chhattisgarh chief minister Raman Singh b
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/12/index.md)
-
-##### Russian interference in the 2016 United States elections
-### [Republicans on the House Intelligence Committee announce the end of their Russia investigation, against the objections of Democratic members. According to the investigation's preliminary findings, the 2016 Trump campaign did not collude with the Russian government, and, contrary to the U.S. intelligence community's previous conclusions, Russia did not have a preference for Donald Trump as a presidential candidate. ](/news/2018/03/12/republicans-on-the-house-intelligence-committee-announce-the-end-of-their-russia-investigation-against-the-objections-of-democratic-members.md)
-House Republicans investigating foreign interference in the 2016 election say they found no evidence that Russia colluded with the Trump campaign.
-
-##### Austin package explosions
-### [Police in Austin, Texas announce that three package bombs in recent days that have killed two people and injured one more appear to be connected. The packages were left off at three separate locations and were not placed there by any delivery service, police say. ](/news/2018/03/12/police-in-austin-texas-announce-that-three-package-bombs-in-recent-days-that-have-killed-two-people-and-injured-one-more-appear-to-be-conne.md)
-_Context: Austin package explosions, Austin, Texas_
-
-##### Poisoning of Sergei and Yulia Skripal
-### [British Prime Minister Theresa May says she believes it is "highly likely" that the Russian government was behind an attempt to murder Sergei Skripal and his daughter using a Novichok agent. ](/news/2018/03/12/british-prime-minister-theresa-may-says-she-believes-it-is-highly-likely-that-the-russian-government-was-behind-an-attempt-to-murder-serge.md)
-British PM Theresa May told Parliament that a Russian-produced nerve agent had been used to poison Sergei Skripal and his daughter in Salisbury. The US has said those responsible should face &quot;serious consequences.&quot;
-
-##### US-Bangla Airlines Flight 211
-### [An aircraft operated by Bangladeshi airline US-Bangla Airlines crashes at Tribhuvan International Airport, Kathmandu, Nepal, killing 49 of the 71 people on board. ](/news/2018/03/12/an-aircraft-operated-by-bangladeshi-airline-us-bangla-airlines-crashes-at-tribhuvan-international-airport-kathmandu-nepal-killing-49-of-t.md)
-There were about 67 people on the US-Bangla aircraft and there are casualties, officials say.
-
-##### United States antitrust law
-### [Citing national security concerns, U.S. President Donald Trump blocks Broadcom's proposed acquisition of Qualcomm. ](/news/2018/03/12/citing-national-security-concerns-u-s-president-donald-trump-blocks-broadcom-s-proposed-acquisition-of-qualcomm.md)
-President Donald Trump killed Broadcom&#039;s proposed buyout of Qualcomm on Monday, citing national security concerns.
-
-##### Acquisitions by Apple
-### [Apple Inc. buys digital magazine subscription app Texture for an undisclosed sum. ](/news/2018/03/12/apple-inc-buys-digital-magazine-subscription-app-texture-for-an-undisclosed-sum.md)
-Apple didn&#039;t say how much it would pay for Texture, which includes gives users access to 200 magazines for one monthly fee. 
-
----
-
-## [Previous Day...](/news/2018/03/11/index.md)
+## [Previous Day...](/news/2018/03/12/index.md)
 
 ---
 
