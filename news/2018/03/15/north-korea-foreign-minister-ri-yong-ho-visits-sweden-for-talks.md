@@ -11,8 +11,9 @@ Correction at 2145 KST: A previous version of this article suggested that Choe K
 
 ### Sources:
 
-1. [NK news](https://www.nknews.org/2018/03/north-korean-foreign-minister-headed-to-sweden-for-talks/)
-1. [Cover Image](https://www.nknews.org/wp-content/uploads/2018/03/Ri-Yong-Ho_KCNA--657x358.jpg)
+1. [CNN](https://www.cnn.com/2018/03/15/asia/north-korea-sweden-intl/index.html)
+2. [NK news](https://www.nknews.org/2018/03/north-korean-foreign-minister-headed-to-sweden-for-talks/)
+2. [Cover Image](https://www.nknews.org/wp-content/uploads/2018/03/Ri-Yong-Ho_KCNA--657x358.jpg)
 
 ### Related:
 

@@ -16,7 +16,7 @@ The CNBC contributor says he will lead the National Economic Council after Gary 
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
 ##### Politics of Slovenia
-### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to an annulment of a referendum. ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-an-annulment-of-a-referendum.md)
+### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to a court's annulment of a referendum. ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-a-court-s-annulment-of-a-referendum.md)
  LJUBLJANA, Slovenia (AP) — Slovenia&#39;s prime minister said Wednesday he is resigning after the country&#39;s top court annulled last year&#39;s referendum on a key railway project and orde
 
 ##### Politics of Germany
@@ -32,7 +32,7 @@ Marielle Franco was a vocal critic of police violence and the military deploymen
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
 
 ##### Russia-United Kingdom relations
-### [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a military-grade nerve agent attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-military-grade-nerve-agent-at.md)
+### [The United Kingdom expels 23 Russian diplomats and cuts off all top-level ties with Russia as punishment for a reportedly military-grade nerve agent attack which Prime Minister Theresa May described as an "unlawful use of force by the Russian state against the United Kingdom". ](/news/2018/03/14/the-united-kingdom-expels-23-russian-diplomats-and-cuts-off-all-top-level-ties-with-russia-as-punishment-for-a-reportedly-military-grade-ner.md)
 Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK diplomats
 
 ##### South African farm attacks
