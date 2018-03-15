@@ -16,7 +16,7 @@ The Trump administration announced sanctions on 13 Russian nationals and three R
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
 
 ##### Economy of the United States
-### [iHeartMedia files for Chapter 11 bankruptcy. ](/news/2018/03/15/iheartmedia-files-for-chapter-11-bankruptcy.md)
+### [America's largest broadcaster iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating $20 billion in debt. ](/news/2018/03/15/america-s-largest-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-20-billion-in-de.md)
 The beleaguered company announced it has reached an agreement with investors to restructure its massive debt load. 
 
 ##### Opinion
@@ -40,7 +40,7 @@ The CNBC contributor says he will lead the National Economic Council after Gary 
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
 ##### Politics of Slovenia
-### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to a court's annulment of a referendum. ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-a-court-s-annulment-of-a-referendum.md)
+### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to the Supreme Court of Slovenia's annulment of the referendum that approved building a railway between Koper and Divaca, a project which he calls "strategic". ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-the-supreme-court-of-slovenia-s-annulment-of-the-referendum-that.md)
  LJUBLJANA, Slovenia (AP) — Slovenia&#39;s prime minister said Wednesday he is resigning after the country&#39;s top court annulled last year&#39;s referendum on a key railway project and orde
 
 ##### Politics of Germany

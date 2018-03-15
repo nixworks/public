@@ -16,7 +16,7 @@ The CNBC contributor says he will lead the National Economic Council after Gary 
 Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen House candidate Tuesday, helping Conor Lamb, the Democrat, take a slight lead.
 
 ##### Politics of Slovenia
-### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to a court's annulment of a referendum. ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-a-court-s-annulment-of-a-referendum.md)
+### [Miro Cerar announces his resignation as Prime Minister of Slovenia, due to the Supreme Court of Slovenia's annulment of the referendum that approved building a railway between Koper and Divaca, a project which he calls "strategic". ](/news/2018/03/14/miro-cerar-announces-his-resignation-as-prime-minister-of-slovenia-due-to-the-supreme-court-of-slovenia-s-annulment-of-the-referendum-that.md)
  LJUBLJANA, Slovenia (AP) — Slovenia&#39;s prime minister said Wednesday he is resigning after the country&#39;s top court annulled last year&#39;s referendum on a key railway project and orde
 
 ##### Politics of Germany
