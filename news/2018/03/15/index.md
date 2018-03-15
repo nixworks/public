@@ -15,7 +15,7 @@ The Trump administration announced sanctions on 13 Russian nationals and three R
 ### [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md)
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
 
-##### FIU pedestrian bridge collapse
+##### Florida International University pedestrian bridge collapse
 ### [A pedestrian bridge near Florida International University collapses, killing several people. Five to six vehicles were crushed in the collapse, according to the Florida Highway Patrol. ](/news/2018/03/15/a-pedestrian-bridge-near-florida-international-university-collapses-killing-several-people-five-to-six-vehicles-were-crushed-in-the-collap.md)
 First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
 

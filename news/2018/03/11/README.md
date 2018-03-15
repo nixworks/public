@@ -15,6 +15,10 @@ Billionaire Sebastian Pinera has been inaugurated as Chile&#039;s president, his
 ### [China's National People's Congress approves the removal of presidential term limits, in a move that allows current president Xi Jinping to remain president for life. ](/news/2018/03/11/china-s-national-people-s-congress-approves-the-removal-of-presidential-term-limits-in-a-move-that-allows-current-president-xi-jinping-to-r.md)
 _Context: 2018 National People's Congress, China, National People's Congress, Xi Jinping, president, president for life_
 
+##### 2018 Vienna embassy stabbing
+### [An Austrian soldier was stabbed and injured in front of the Iranian embassy in Vienna. The attacker, which had Islamist sympathies according to the authorities, was shot dead.](/news/2018/03/11/an-austrian-soldier-was-stabbed-and-injured-in-front-of-the-iranian-embassy-in-vienna-the-attacker-which-had-islamist-sympathies-according.md)
+The man who stabbed a soldier outside the residence of the Iranian ambassador to Austria sympathized with radical Islamist ideology but it is too early to say what his motive was, the Interior Ministry said on Tuesday.
+
 ##### Visa policy of the United Kingdom
 ### [Far-right activist and journalist Lauren Southern is detained at Calais and prevented from entering the United Kingdom, with the reason given by the UK Home Office that her presence 'was not conducive to the public good'. ](/news/2018/03/11/far-right-activist-and-journalist-lauren-southern-is-detained-at-calais-and-prevented-from-entering-the-united-kingdom-with-the-reason-give.md)
 Canadian far right activist Lauren Southern has been refused entry to the UK. Ms Southern was held by Border Force officials in Coquelles, France, this morning. She was refused entry after it was deemed her presence “was not conducive to the public good”, the Home Office said. Following the deci...

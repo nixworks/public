@@ -32,7 +32,7 @@ _Context: Sunday Mirror, Telford, Telford child sex abuse ring, Theresa May, gro
 Marielle Franco was a vocal critic of police violence and the military deployment in the favelas.
 
 ##### 2018 United States gun violence protests
-### [Students throughout the United States participate in a walkout against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-against-gun-violence.md)
+### [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md)
 The event will be at 10 a.m. today across every time zone and last 17 minutes.
 
 ##### Russia-United Kingdom relations

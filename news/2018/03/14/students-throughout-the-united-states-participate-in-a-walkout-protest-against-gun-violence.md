@@ -17,7 +17,8 @@ The event will be at 10 a.m. today across every time zone and last 17 minutes.
 ### Changes:
 
 1. [Students throughout the United States participate in walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-walkout-protest-against-gun-violence.md) _2018-03-14 16:30:06 (First version)_
-1. [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md) _(Current version)_
+2. [Students throughout the United States participate in a walkout against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-against-gun-violence.md) _2018-03-15 21:30:06 (Update)_
+2. [Students throughout the United States participate in a walkout protest against gun violence. ](/news/2018/03/14/students-throughout-the-united-states-participate-in-a-walkout-protest-against-gun-violence.md) _(Current version)_
 
 ### Related:
 

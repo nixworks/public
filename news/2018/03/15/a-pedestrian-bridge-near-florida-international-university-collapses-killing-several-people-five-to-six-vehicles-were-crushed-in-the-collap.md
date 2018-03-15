@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/15/a-pedestrian-bridge-near-florida-international-
 
 ### [2018-03-15](/news/2018/03/15/index.md)
 
-##### FIU pedestrian bridge collapse
+##### Florida International University pedestrian bridge collapse
 # A pedestrian bridge near Florida International University collapses, killing several people. Five to six vehicles were crushed in the collapse, according to the Florida Highway Patrol. 
 
 First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
