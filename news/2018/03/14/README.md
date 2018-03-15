@@ -24,7 +24,7 @@ Voters who turned out for Donald Trump in 2016 appeared to turn on his chosen Ho
 Close vote before swear-in appears to underline scale of task at home and abroad for new government
 
 ##### Telford child sex abuse ring
-### [After a 18-month Sunday Mirror investigation, Theresa May has called for an inquiry "as quickly as possible" on reported Asian grooming gangs in Telford whereby up to 1,000 girls were lured from their families to be drugged, beaten, raped and even murdered. ](/news/2018/03/14/after-a-18-month-sunday-mirror-investigation-theresa-may-has-called-for-an-inquiry-as-quickly-as-possible-on-reported-asian-grooming-gang.md)
+### [After a 18-month "Sunday Mirror" investigation, Theresa May has called for an inquiry "as quickly as possible" on reported Asian grooming gangs in Telford whereby up to 1,000 girls were lured from their families to be drugged, beaten, raped and even murdered. ](/news/2018/03/14/after-a-18-month-sunday-mirror-investigation-theresa-may-has-called-for-an-inquiry-as-quickly-as-possible-on-reported-asian-grooming-ga.md)
 _Context: Sunday Mirror, Telford, Telford child sex abuse ring, Theresa May, grooming_
 
 ##### Crime in Brazil
