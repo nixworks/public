@@ -55,7 +55,7 @@ The African Union suspends Ivory Coast, following a disputed presidential electi
 ### [Residents are ordered to evacuate from the Australian city of Queanbeyan with Steve Whan, the New South Wales Minister for Emergency Services, declaring it a natural disaster area due to flooding. ](/news/2010/12/9/residents-are-ordered-to-evacuate-from-the-australian-city-of-queanbeyan-with-steve-whan-the-new-south-wales-minister-for-emergency-service.md)
 Queanbeyan, south-east of Canberra, has been declared a natural disaster zone after experiencing its worst flooding in decades.
 
-##### Panamanian
+##### Panama
 ### [Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. ](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.md)
 Panama is latest of countries in region to be hit by floods this week after Colombia and Venezuela.
 

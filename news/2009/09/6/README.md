@@ -17,7 +17,7 @@ _Context: Gabon, Port-Gentil, disputed presidential election_
 
 ##### Ferry
 ### [ Hundreds of people are rescued and a further 88 are missing after a ferry sank off the coast of the southern Philippines. ](/news/2009/09/6/hundreds-of-people-are-rescued-and-a-further-88-are-missing-after-a-ferry-sank-off-the-coast-of-the-southern-philippines.md)
-_Context: Philippine, ferry_
+_Context: Philippines, ferry_
 
 ##### Kilkenny
 ### [ Kilkenny beat Tipperary in the 2009 All-Ireland Senior Hurling Championship Final to achieve a record-equalling fourth consecutive victory. ](/news/2009/09/6/kilkenny-beat-tipperary-in-the-2009-all-ireland-senior-hurling-championship-final-to-achieve-a-record-equalling-fourth-consecutive-victory.md)

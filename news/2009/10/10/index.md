@@ -35,9 +35,9 @@ At least 325 MPs will be ordered this week to repay money or provide further det
 ### [ Ireland's Green Party votes by 84% to endorse a new Programme for Government with government partners Fianna Fail.](/news/2009/10/10/ireland-s-green-party-votes-by-84-to-endorse-a-new-programme-for-government-with-government-partners-fianna-fa-il.md)
 The Green Party has overwhelmingly endorsed the new Programme for Government, and rejected a motion calling on the party to oppose the NAMA legislation in the Dáil.
 
-##### Philippine
+##### Philippines
 ### [ 186 people are killed by landslides in the Philippines. ](/news/2009/10/10/186-people-are-killed-by-landslides-in-the-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ##### Tanker
 ### [ At least 70 people are killed after a fuel tanker explodes in Nigeria. ](/news/2009/10/10/at-least-70-people-are-killed-after-a-fuel-tanker-explodes-in-nigeria.md)

@@ -21,7 +21,7 @@ _Context: 2004 legislative elections, Adrian Nastase, Justice and Truth, Romania
 
 ##### Landslide
 ### [ More than 300 persons have died in flooding and landslides in Quezon Province, in the northern Philippines. Illegal logging is blamed. ](/news/2004/11/30/more-than-300-persons-have-died-in-flooding-and-landslides-in-quezon-province-in-the-northern-philippines-illegal-logging-is-blamed.md)
-_Context: Philippine, Quezon, landslide_
+_Context: Philippines, Quezon, landslide_
 
 ##### International Committee of the Red Cross
 ### [ A report from the International Committee of the Red Cross, recently leaked to the "New York Times", describes the treatment of prisoners at the U.S. base in Guantnamo Bay, Cuba as being "tantamount to torture". The U.S. military disputes this. ](/news/2004/11/30/a-report-from-the-international-committee-of-the-red-cross-recently-leaked-to-the-new-york-times-describes-the-treatment-of-prisoners-a.md)

@@ -41,7 +41,7 @@ _Context: Yuan Guiren, Zhou Ji, corruption_
 
 ##### Typhoon Mirinae
 ### [ At least 14 people are dead after Typhoon Mirinae hits the Philippines. ](/news/2009/11/1/at-least-14-people-are-dead-after-typhoon-mirinae-hits-the-philippines.md)
-_Context: Philippine, Typhoon Mirinae_
+_Context: Philippines, Typhoon Mirinae_
 
 ##### Nigeria
 ### [ Nigeria's main rebel group, the Movement for the Emancipation of the Niger Delta, threatens to call off its ceasefire with the government if foreign oil companies do not leave their land. ](/news/2009/11/1/nigeria-s-main-rebel-group-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-call-off-its-ceasefire-with-the-government-i.md)

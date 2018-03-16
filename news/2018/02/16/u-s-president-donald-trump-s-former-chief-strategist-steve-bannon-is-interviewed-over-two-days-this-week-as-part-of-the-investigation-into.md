@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strat
 
 ### [2018-02-16](/news/2018/02/16/index.md)
 
-##### Special Counsel investigation (2017-present)
+##### Special Counsel investigation
 # U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian interference in the 2016 United States elections. 
 
 Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours with investigators.

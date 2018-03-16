@@ -35,9 +35,9 @@ London commuters are in for more chaos and disruption as unions set to embark up
 ### [ Israel threatens to cut off electricity, water and fuel supplies to the Gaza Strip for hours if Hamas launches rocket attacks. ](/news/2007/09/4/israel-threatens-to-cut-off-electricity-water-and-fuel-supplies-to-the-gaza-strip-for-hours-if-hamas-launches-rocket-attacks.md)
 Israeli Deputy Prime Minister Haim Ramon has threatened to cut electricity, water and fuel supplies into Gaza if militants in the Hamas-ruled territory continue to fire rockets into Israel.
 
-##### United States Navy
+##### U.S. Navy
 ### [ The United States Navy, Royal Australian Navy, Indian Navy, the Japan Maritime Self-Defense Force and Republic of Singapore Navy conduct exercises in the Bay of Bengal, ](/news/2007/09/4/the-united-states-navy-royal-australian-navy-indian-navy-the-japan-maritime-self-defense-force-and-republic-of-singapore-navy-conduct-ex.md)
-_Context: Bay of Bengal, Indian Navy, Japanese Navy, Republic of Singapore Navy, Royal Australian Navy, United States Navy_
+_Context: Bay of Bengal, Indian Navy, Japanese Navy, Republic of Singapore Navy, Royal Australian Navy, U.S. Navy_
 
 ##### 2007 Pacific Hurricane season
 ### [ 2007 Pacific Hurricane season: Tropical Storm Henriette becomes Hurricane Henriette on its way to Baja California. ](/news/2007/09/4/2007-pacific-hurricane-season-tropical-storm-henriette-becomes-hurricane-henriette-on-its-way-to-baja-california.md)

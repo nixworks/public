@@ -55,9 +55,9 @@ _Context: China, Henan province, Minquan County, bus, pond_
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)
 _Context: 2011 Christchurch earthquake, CTV Building, New Zealand, Royal Commission_
 
-##### Philippine
+##### Philippines
 ### [The death toll in the Philippines from Typhoon Bopha rises to 647 with 780 people still missing. ](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.md)
-_Context: Philippine, Typhoon Bopha_
+_Context: Philippines, Typhoon Bopha_
 
 ##### Google
 ### [Google begins selling basic laptop computers for $99, meeting the $100 price point set out as a challenge by a prominent professor at the Massachusetts Institute of Technology (Nicholas Negroponte) eight years ago. ](/news/2012/12/10/google-begins-selling-basic-laptop-computers-for-99-meeting-the-100-price-point-set-out-as-a-challenge-by-a-prominent-professor-at-the-ma.md)

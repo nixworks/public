@@ -29,7 +29,7 @@ _Context: China, sentenced to death_
 
 ##### Philippine lower House
 ### [Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. ](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.md)
-_Context: Hong Kong, Philippine, Philippine lower House, Ronald Singson, cocaine_
+_Context: Hong Kong, Philippine lower House, Philippines, Ronald Singson, cocaine_
 
 ##### Burma
 ### [Burma jails five more dissidents on charges including associating with dissident groups abroad. ](/news/2011/02/25/burma-jails-five-more-dissidents-on-charges-including-associating-with-dissident-groups-abroad.md)

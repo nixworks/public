@@ -17,7 +17,7 @@ _Context: National Assembly of Mauritania, slavery_
 
 ##### Abu Sayyaf
 ### [ Suspected Abu Sayyaf militants ambush Philippines Government troops on the island of Jolo, killing nine. More than 50 people died in fighting during the day between the army, Abu Sayyaf and elements of the Moro National Liberation Front. ](/news/2007/08/9/suspected-abu-sayyaf-militants-ambush-philippines-government-troops-on-the-island-of-jolo-killing-nine-more-than-50-people-died-in-fighti.md)
-_Context: Abu Sayyaf, Jolo, Moro National Liberation Front, Philippine_
+_Context: Abu Sayyaf, Jolo, Moro National Liberation Front, Philippines_
 
 ##### United Liberation Front of Asom
 ### [ Twelve people are killed by suspected United Liberation Front of Asom separatist gunmen in two different incidents in Assam. ](/news/2007/08/9/twelve-people-are-killed-by-suspected-united-liberation-front-of-asom-separatist-gunmen-in-two-different-incidents-in-assam.md)

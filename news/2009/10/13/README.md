@@ -39,7 +39,7 @@ Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabi
 ### [ The Romanian government loses a motion of no confidence, the first government to fall in 20 years since the fall of communism in the country. ](/news/2009/10/13/the-romanian-government-loses-a-motion-of-no-confidence-the-first-government-to-fall-in-20-years-since-the-fall-of-communism-in-the-countr.md)
 The Democratic Liberal Government led by Emil Boc lost a censure motion vote in Parliament on Tuesday, becoming the first government of Romania to fall in such a manner in the country&#39;s 20 years
 
-##### Philippine
+##### Philippines
 ### [ The Philippines deploys soldiers and gunboats to surround the strongholds of suspected militants and pressure them to release an abducted Irish priest. ](/news/2009/10/13/the-philippines-deploys-soldiers-and-gunboats-to-surround-the-strongholds-of-suspected-militants-and-pressure-them-to-release-an-abducted-i.md)
 The Philippines deployed soldiers and gunboats Tuesday to surround the strongholds of suspected Muslim militants and pressure them to release an abducted Irish priest.
 

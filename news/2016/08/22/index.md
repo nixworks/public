@@ -11,9 +11,9 @@ Millions of people are reporting that a Windows 10 update has stopped their webc
 ### [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md)
 Former leader says key issue for France is ‘how to defend our lifestyle without cutting ourselves off from the world’
 
-##### President
+##### Philippine President
 ### [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md)
-_Context: President, Rodrigo Duterte, his predecessor_
+_Context: Philippine President, Rodrigo Duterte, his predecessor_
 
 ##### Drug crackdown
 ### [The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. ](/news/2016/08/22/the-death-toll-estimates-for-the-crackdown-on-recreational-drugs-in-the-philippines-reaches-1-800-amid-a-senate-investigation-of-the-killing.md)

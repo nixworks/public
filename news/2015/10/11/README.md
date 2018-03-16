@@ -33,7 +33,7 @@ Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Sau
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's military reports bombing a convoy possibly carrying Islamic State of Iraq and the Levant leader, Abu Bakr al-Baghdadi. The group was headed to a meeting in the western Al Anbar Governorate, close to the Syrian border. Eight senior ISIS figures were killed, but al-Baghdadi did not appear to be among them according to Iraqi officials. ](/news/2015/10/11/iraq-s-military-reports-bombing-a-convoy-possibly-carrying-islamic-state-of-iraq-and-the-levant-leader-abu-bakr-al-baghdadi-the-group-was.md)
-_Context: Abu Bakr al-Baghdadi, Anbar province, ISIL, Iraq, Iraqi Civil War (2014-present), Syria_
+_Context: Abu Bakr al-Baghdadi, Al Anbar Governorate, ISIL, Iraq, Iraqi Civil War (2014-present), Syria_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-turkish-security-officials.md)

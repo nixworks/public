@@ -51,9 +51,9 @@ _Context: National Counterterrorism Center, al-Qaeda_
 ### [ An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
 _Context: Government of Iraq, Iraq, U.S. Congress, interim_
 
-##### Philippine
+##### Philippines
 ### [ A Philippines ferry, the MV "Blue Water Princess", sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being-de.md)
-_Context: Luzon, Philippine, ferry_
+_Context: Luzon, Philippines, ferry_
 
 ##### Lebanese
 ### [ The Lebanese army has resumed shelling Fatah al-Islam positions inside the Nahr al-Bared refugee camp near Tripoli. All of the refugees have left the camp after recent fighting. ](/news/2007/07/12/the-lebanese-army-has-resumed-shelling-fatah-al-islam-positions-inside-the-nahr-al-bared-refugee-camp-near-tripoli-all-of-the-refugees-hav.md)

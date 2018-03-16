@@ -35,7 +35,7 @@ Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy
 ### [ The Grand National Assembly starts voting to select a new President of Turkey. The frontrunner Foreign Minister Abdullah Gl fails to achieve a necessary two-thirds majority in the first round with 341 out of 550 but is highly likely to be elected in later rounds when a simple majority of 50 per cent is required. ](/news/2007/08/20/the-grand-national-assembly-starts-voting-to-select-a-new-president-of-turkey-the-frontrunner-foreign-minister-abdullah-gul-fails-to-achie.md)
 The frontrunner to be Turkey&#039;s next president, Foreign Minister Abdullah Gul, has failed to secure election in a first round parliamentary vote, but remained virtually assured of victory in a later ballot.
 
-##### Philippine
+##### Philippines
 ### [ An earthquake of 6.5 magnitude hits south of the Philippines. ](/news/2007/08/20/an-earthquake-of-6-5-magnitude-hits-south-of-the-philippines.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 

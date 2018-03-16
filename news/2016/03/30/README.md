@@ -69,7 +69,7 @@ Foxconn Technology Group Chairman Terry Gou finally clinched a deal to buy Sharp
 
 ##### Naxalite-Maoist insurgency
 ### [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md)
-_Context: CRPF, Chhattisgarh, Dantewada district, India, Naxalite, Naxalite-Maoist insurgency, roadside bomb_
+_Context: CRPF, Chhattisgarh, Dantewada district, IED, India, Naxalite, Naxalite-Maoist insurgency_
 
 ##### Libyan Civil War (2014-present)
 ### [Blasts and gunfire are reported in Tripoli. ](/news/2016/03/30/blasts-and-gunfire-are-reported-in-tripoli.md)

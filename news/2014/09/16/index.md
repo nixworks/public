@@ -25,7 +25,7 @@ Hong Kong was shuttered today as a powerful typhoon swept past the city, bringin
 
 ##### Mayon Volcano
 ### [Twelve thousand people have been evacuated from the area near the Mayon Volcano on the Philippines island of Luzon due to concerns over a possible eruption. ](/news/2014/09/16/twelve-thousand-people-have-been-evacuated-from-the-area-near-the-mayon-volcano-on-the-philippines-island-of-luzon-due-to-concerns-over-a-po.md)
-_Context: Luzon, Mayon Volcano, Philippine_
+_Context: Luzon, Mayon Volcano, Philippines_
 
 ##### Syrian Air Force
 ### [Islamic State fighters shoot down a Syrian Air Force warplane conducting an airstrike on Raqqa. ](/news/2014/09/16/islamic-state-fighters-shoot-down-a-syrian-air-force-warplane-conducting-an-airstrike-on-raqqa.md)

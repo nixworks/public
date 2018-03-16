@@ -9,7 +9,7 @@ _Context: Gujarat, India, Indian state, hepatitis B virus, outbreak_
 
 ##### Northwest Airlines
 ### [ Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. ](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.md)
-_Context: Japan, Northwest Airlines, Philippine, turbulence_
+_Context: Japan, Northwest Airlines, Philippines, turbulence_
 
 ##### Suicide attack
 ### [ A suicide attack kills 25 people in Dera Ismail Khan, Pakistan. ](/news/2009/02/20/a-suicide-attack-kills-25-people-in-dera-ismail-khan-pakistan.md)

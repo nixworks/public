@@ -101,7 +101,7 @@ President Lula da Silva said that Brazil is climbing out, and strengthened, from
 
 ##### Corazon Aquino
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
-_Context: Asia, Corazon Aquino, Philippine, President, first female_
+_Context: Asia, Corazon Aquino, Philippine President, Philippines, first female_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad is officially sworn in as President of Iran for a second term. ](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.md)

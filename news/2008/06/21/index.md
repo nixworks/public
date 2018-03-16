@@ -19,7 +19,7 @@ Roadside bombs killed five foreign troops in Afghanistan on Saturday, military o
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
 _Context: South Korea, United States, beef imports, mad cow disease_
 
-##### Philippine
+##### Philippines
 ### [ The death toll in the Philippines from Typhoon Fengshen rises to at least 20 from flooding and landslides. Ten people drown after the Rifao River overflows its banks and sweeps away three houses in South Upi, Maguindanao. ](/news/2008/06/21/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flooding-and-landslides-ten-people-drown-after-the-rifao.md)
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 

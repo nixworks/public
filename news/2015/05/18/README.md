@@ -31,9 +31,9 @@ _Context: Barack Obama, U.S. President, police department_
 ### [Scott Driscoll, a former member of the Legislative Assembly of the Australian state of Queensland, has been committed to stand trial on fraud charges. ](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.md)
 _Context: Legislative Assembly, Queensland, Scott Driscoll, State_
 
-##### Philippine
+##### Philippines
 ### [The Philippines says that it is willing to accept 3,000 Rohingya refugees after an accusation by a newspaper was made. Last week Indonesia turned away boats carrying over 1,000 Rohingya refugees. ](/news/2015/05/18/the-philippines-says-that-it-is-willing-to-accept-3-000-rohingya-refugees-after-an-accusation-by-a-newspaper-was-made-last-week-indonesia-t.md)
-_Context: Indonesia, Philippine, Rohingya_
+_Context: Indonesia, Philippines, Rohingya_
 
 ##### Secretary of State
 ### [The United States Secretary of State, John Kerry, assures South Korea of "ironclad" American security commitments on a visit to Seoul while accusing North Korea of a litany of crimes. ](/news/2015/05/18/the-united-states-secretary-of-state-john-kerry-assures-south-korea-of-ironclad-american-security-commitments-on-a-visit-to-seoul-while.md)

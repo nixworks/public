@@ -69,7 +69,7 @@ _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wire
 
 ##### Philippine general election
 ### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine, Philippine general election_
+_Context: Philippine general election, Philippines_
 
 ## [Previous Day...](/news/2007/05/13/index.md)
 

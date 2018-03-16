@@ -69,7 +69,7 @@ _Context: 2015 Thalys attack, Francois Hollande, French President, Legion d'honn
 
 ##### Turkey-PKK conflict
 ### [A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-others.md)
-_Context: Hakkari Province, Semdinli, Turkey-PKK conflict, Turkish Army, roadside bomb_
+_Context: Hakkari Province, IED, Semdinli, Turkey-PKK conflict, Turkish Army_
 
 ## [Previous Day...](/news/2015/08/23/index.md)
 

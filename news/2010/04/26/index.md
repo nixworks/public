@@ -31,9 +31,9 @@ _Context: 6.5~6.9 earthquake, Taitung, Taiwan_
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in "Restaurant" magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
 _Context: ''Restaurant'', Copenhagen, Denmark, Noma, annual survey_
 
-##### Panamanian
+##### Panama
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: France, Manuel Noriega, Panamanian, United States, extradition_
+_Context: France, Manuel Noriega, Panama, United States, extradition_
 
 ##### United Kingdom
 ### [The British ambassador to Yemen, Timothy Torlot, survives an attempted suicide bombing. ](/news/2010/04/26/the-british-ambassador-to-yemen-timothy-torlot-survives-an-attempted-suicide-bombing.md)

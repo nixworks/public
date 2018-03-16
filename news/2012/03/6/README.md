@@ -73,7 +73,7 @@ _Context: Fukushima Daiichi nuclear disaster, Human Rights Watch, Japanese gover
 
 ##### Earthquake
 ### [A 5.2 magnitude earthquake occurs in the Philippines near Masbate City on the island of Masbate causing some injuries. ](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.md)
-_Context: Masbate, Masbate City, Philippine, earthquake_
+_Context: Masbate, Masbate City, Philippines, earthquake_
 
 ##### Australia
 ### [Approximately 9,000 residents of the Australian town of Wagga Wagga, New South Wales, are evacuated as the Murrumbidgee River nears record levels threatening the town's levee. ](/news/2012/03/6/approximately-9-000-residents-of-the-australian-town-of-wagga-wagga-new-south-wales-are-evacuated-as-the-murrumbidgee-river-nears-record-l.md)

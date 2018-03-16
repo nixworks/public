@@ -9,7 +9,7 @@ Formats: [HTML](2008/08/11/index.html)  [JSON](2008/08/11/index.json)  [XML](200
 
 ##### Autonomous Region in Muslim Mindanao
 ### [ The Autonomous Region in Muslim Mindanao in the Philippines are holding elections using for the first-time electronic voting as precedent to the Presidential elections in 2010. ](/news/2008/08/11/the-autonomous-region-in-muslim-mindanao-in-the-philippines-are-holding-elections-using-for-the-first-time-electronic-voting-as-precedent-t.md)
-_Context: 2010, Autonomous Region in Muslim Mindanao, Philippine, elections, electronic voting_
+_Context: 2010, Autonomous Region in Muslim Mindanao, Philippines, elections, electronic voting_
 
 ##### Taliban
 ### [ Taliban fighters force Pakistani troops to retreat from an outpost near the border with Afghanistan. ](/news/2008/08/11/taliban-fighters-force-pakistani-troops-to-retreat-from-an-outpost-near-the-border-with-afghanistan.md)

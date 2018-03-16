@@ -11,9 +11,9 @@ Police say they have disrupted a terrorist plot targeting Melbourne&#039;s CBD, 
 ### [The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isra.md)
 The United States in the past has used its veto on similar resolutions but abstained from the vote Friday.
 
-##### Philippine
+##### Philippines
 ### [Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. ](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.md)
-_Context: Joseph Estrada, Manila, Philippine, pneumonia_
+_Context: Joseph Estrada, Manila, Philippines, pneumonia_
 
 ##### Bonanza Creek Energy
 ### [Bonanza Creek Energy says it plans to file for bankruptcy on or by January 5, 2017 and hopes to exit the process quickly, within the first quarter. ](/news/2016/12/23/bonanza-creek-energy-says-it-plans-to-file-for-bankruptcy-on-or-by-january-5-2017-and-hopes-to-exit-the-process-quickly-within-the-first-q.md)

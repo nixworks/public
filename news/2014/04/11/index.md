@@ -45,7 +45,7 @@ _Context: Cape Flattery, Cooktown, Queensland_
 
 ##### Coldwater Creek
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
-_Context: Chapter 11, Coldwater Creek_
+_Context: Coldwater Creek, chapter 11 bankruptcy_
 
 ##### Peter Gabriel
 ### [Peter Gabriel, Hall & Oates, KISS, Nirvana, Linda Ronstadt, and Cat Stevens are inducted into the Rock and Roll Hall of Fame. ](/news/2014/04/11/peter-gabriel-hall-oates-kiss-nirvana-linda-ronstadt-and-cat-stevens-are-inducted-into-the-rock-and-roll-hall-of-fame.md)

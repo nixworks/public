@@ -37,7 +37,7 @@ _Context: Arab Cup of Ice Hockey, Kuwait, UAE_
 
 ##### Landslide
 ### [ At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengshen-hits-the-philippines.md)
-_Context: Cotabato City, Mindanao, Philippine, landslide_
+_Context: Cotabato City, Mindanao, Philippines, landslide_
 
 ##### Iran
 ### [ A female Iranian student who accused the vice-chancellor of her university of sexually harassing her was arrested. The charges against her aren't clear. The vice-chancellor was also arrested.](/news/2008/06/20/a-female-iranian-student-who-accused-the-vice-chancellor-of-her-university-of-sexually-harassing-her-was-arrested-the-charges-against-her.md)

@@ -49,7 +49,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 
 ##### Kills eight people
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Kawit, Philippine, kills eight people_
+_Context: Kawit, Philippines, kills eight people_
 
 ##### Russia
 ### [Six Russian tourists are killed and two tourists are seriously injured after a snowmobile towing a sled veers off a ski slope, crashes into a barrier, and flies into a ditch on Italy's Mount Cermis. ](/news/2013/01/4/six-russian-tourists-are-killed-and-two-tourists-are-seriously-injured-after-a-snowmobile-towing-a-sled-veers-off-a-ski-slope-crashes-into.md)

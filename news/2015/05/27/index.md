@@ -53,7 +53,7 @@ _Context: Chinese, Henan, Pingdingshan_
 
 ##### Islamic State in Iraq and the Levant
 ### [Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-province-killing-at-least-17-people.md)
-_Context: Anbar province, Iraqi Army, Islamic State in Iraq and the Levant, suicide bombing_
+_Context: Al Anbar Governorate, Iraqi Army, Islamic State in Iraq and the Levant, suicide bombing_
 
 ## [Previous Day...](/news/2015/05/26/index.md)
 

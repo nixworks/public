@@ -27,9 +27,9 @@ _Context: Lithuania, anti-government, demonstration, parliament, police, protest
 ### [ Computer worm Conficker infects more than eight million Microsoft Windows-based personal computers. ](/news/2009/01/16/computer-worm-conficker-infects-more-than-eight-million-microsoft-windows-based-personal-computers.md)
 _Context: Computer worm, Conficker, Microsoft Windows, PC_
 
-##### Panamanian
+##### Panama
 ### [ Panama officially recognizes Kosovo. ](/news/2009/01/16/panama-officially-recognizes-kosovo.md)
-_Context: Kosovo, Panamanian, officially recognizes_
+_Context: Kosovo, Panama, officially recognizes_
 
 ## [Previous Day...](/news/2009/01/15/index.md)
 

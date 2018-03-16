@@ -31,7 +31,7 @@ Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim ce
 
 ##### Albert del Rosario
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
-_Context: Albert del Rosario, Filipino, Golan Heights, Philippine, Philippines Foreign Secretary, Syria_
+_Context: Albert del Rosario, Filipino, Golan Heights, Philippines, Philippines Foreign Secretary, Syria_
 
 ##### Libya
 ### [Bombs explode outside two police stations in Libya's eastern city of Benghazi. ](/news/2013/05/10/bombs-explode-outside-two-police-stations-in-libya-s-eastern-city-of-benghazi.md)

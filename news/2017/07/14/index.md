@@ -19,7 +19,7 @@ U.S. lays out criteria for visa applicants from six Muslim nationsVisa applicant
 ### [A court of Lima orders 18 months of pre-trial imprisonment for former president Ollanta Humala and his wife Nadine Heredia for alleged money laundering. Both have turned themselves in. ](/news/2017/07/14/a-court-of-lima-orders-18-months-of-pre-trial-imprisonment-for-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-alleged-money.md)
 The former leader and his wife hand themselves in while corruption charges are prepared.
 
-##### President
+##### Philippine President
 ### [Former President of the Philippines Benigno "Noynoy" Aquino III is indicted (among others) by the Office of the Ombudsman for his failure in handling the 2015 Mamasapano clash, which resulted in the deaths of 44 members of the Special Action Forces of the Philippine National Police. Aquino's legal team has vowed to appeal for a motion for reconsideration; as well as the group Volunteers Against Crime and Corruption (representing the victims' families), against what they call a "weak case" (citing Aquino's charges of "graft" & "usurpation of authority", instead of "reckless imprudence resulting in multiple homicide") ](/news/2017/07/14/former-president-of-the-philippines-benigno-noynoy-aquino-iii-is-indicted-among-others-by-the-office-of-the-ombudsman-for-his-failure-in.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
 

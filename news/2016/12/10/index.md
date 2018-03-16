@@ -9,7 +9,7 @@ _Context: Democrat, Foster Campbell, John N. Kennedy, Louisiana, Republican, Uni
 
 ##### Human Rights Day
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Burial of Ferdinand Marcos, Human Rights Day, Libingan ng mga Bayani, Philippine, Rodrigo Duterte, drug crackdown_
+_Context: Burial of Ferdinand Marcos, Human Rights Day, Libingan ng mga Bayani, Philippines, Rodrigo Duterte, drug crackdown_
 
 ##### Gambian presidential election, 2016
 ### [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md)

@@ -17,7 +17,7 @@ Eight of the 10 men reportedly jailed for the attempted assassination of Pakista
 
 ##### His predecessor
 ### [Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. ](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-says-that-his-government-will-start-discussions-with-japan-about-allowing-japan-self-defen.md)
-_Context: Japan, President, South China Sea, his predecessor, military_
+_Context: Japan, Philippine President, South China Sea, his predecessor, military_
 
 ##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 ### [Four people have now died of MERS in South Korea with five new cases reported. ](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.md)

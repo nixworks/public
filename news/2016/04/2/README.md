@@ -33,7 +33,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 
 ##### NATO-Russia relations
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Dutch, Europe, Iceland, NATO-Russia relations, Russia, United States Air Force_
+_Context:  F-15C Eagle, Dutch, Europe, Iceland, NATO-Russia relations, Russia, U.S. Air Force_
 
 ##### Burundian unrest (2015-present)
 ### [The United Nations Security Council unanimously adopts a resolution setting the stage for the deployment of UN Police to Burundi, where political unrest that has lasted nearly a year killed over 400 people and displaced tens of thousands. The resolution asks Secretary-General Ban Ki-moon to present options within 15 days for the deployment of UN police in order to monitor the security situation, promote respect for human rights and advance the rule of law. ](/news/2016/04/2/the-united-nations-security-council-unanimously-adopts-a-resolution-setting-the-stage-for-the-deployment-of-un-police-to-burundi-where-poli.md)
@@ -65,7 +65,7 @@ Five soldiers and one special forces police officer have been killed in a bomb a
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
+_Context: Al Anbar Governorate, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ##### Libyan Civil War (2014-present)
 ### [Two security guards are killed while repelling an ISIL attack on the Bayda oil field, near the town of Marada, Libya. ](/news/2016/04/2/two-security-guards-are-killed-while-repelling-an-isil-attack-on-the-bayda-oil-field-near-the-town-of-marada-libya.md)

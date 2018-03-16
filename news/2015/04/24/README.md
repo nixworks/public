@@ -41,7 +41,7 @@ _Context: Boko Haram, Boko Haram insurgency, Marte, Nigerian Army_
 
 ##### ISIL
 ### [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md)
-_Context: Anbar province, ISIL, Iraqi Army_
+_Context: Al Anbar Governorate, ISIL, Iraqi Army_
 
 ##### Yemeni Civil War (2015)
 ### [UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recruited-hundreds-more.md)

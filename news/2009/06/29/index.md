@@ -27,9 +27,9 @@ _Context: Iran, Tehran_
 ### [ Two passenger trains collide in Chenzhou, Hunan in central China, leaving at least three people dead and 60 injured. ](/news/2009/06/29/two-passenger-trains-collide-in-chenzhou-hunan-in-central-china-leaving-at-least-three-people-dead-and-60-injured.md)
 _Context: Chenzhou, Hunan, collide_
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ The United States Air Force test fires an unarmed Minuteman III intercontinental ballistic missile from the coast of California to a point in the Pacific Ocean about 4,200 miles (6,750 km) away. ](/news/2009/06/29/the-united-states-air-force-test-fires-an-unarmed-minuteman-iii-intercontinental-ballistic-missile-from-the-coast-of-california-to-a-point.md)
-_Context: California, Minuteman III, United States Air Force, intercontinental ballistic missile_
+_Context: California, Minuteman III, U.S. Air Force, intercontinental ballistic missile_
 
 ##### Bernard Madoff
 ### [ Bernard Madoff is sentenced to 150 years in prison for investment fraud. ](/news/2009/06/29/bernard-madoff-is-sentenced-to-150-years-in-prison-for-investment-fraud.md)

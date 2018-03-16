@@ -21,8 +21,8 @@ The strikes would likely be conducted by drones, and would be part of an officia
 
 ### Related:
 
-1. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: Marawi, Maute group, Philippine_
+1. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: Marawi, Maute group, Philippines_
 2. [The Philippines Armed Forces declares an end to military operations in the southern city of Marawi after 5 months of fighting. ](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.md) _Context: Battle of Marawi, Marawi_
 3. [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md) _Context: Battle of Marawi, Marawi_
-4. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Philippine_
+4. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Philippines_
 5. [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md) _Context: Marawi, Maute group_

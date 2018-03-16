@@ -29,7 +29,7 @@ _Context: Chile, wildfire_
 
 ##### Landslide
 ### [At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. ](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.md)
-_Context: Compostela Valley Province, Philippine, gold mining, landslide_
+_Context: Compostela Valley Province, Philippines, gold mining, landslide_
 
 ##### Pakistan Taliban
 ### [The Pakistan Taliban claims to have killed 15 security force members it kidnapped last month. ](/news/2012/01/5/the-pakistan-taliban-claims-to-have-killed-15-security-force-members-it-kidnapped-last-month.md)

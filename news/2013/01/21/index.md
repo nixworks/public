@@ -61,7 +61,7 @@ Film director and newspaper columnist Michael Winner dies, aged 77.
 
 ##### Nigeria
 ### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Abidjan, Ivory Coast, Nigeria, Panamanian_
+_Context: Abidjan, Ivory Coast, Nigeria, Panama_
 
 ##### France
 ### [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md)

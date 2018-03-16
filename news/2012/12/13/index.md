@@ -51,7 +51,7 @@ Millions of assets of ex-Egyptian president and associates located, including Ma
 ### [The European Court of Human Rights rules that Khalid El-Masri, a German citizen, was an innocent victim of extraordinary rendition by the Central Intelligence Agency and orders Macedonia to pay him EUR60,000 after it arrested him and sent him to the CIA. CIA agents then transferred him to a detention facility in Afghanistan. ](/news/2012/12/13/the-european-court-of-human-rights-rules-that-khalid-el-masri-a-german-citizen-was-an-innocent-victim-of-extraordinary-rendition-by-the-ce.md)
 European Court of Human Rights rules that German citizen was an innocent victim of extraordinary rendition by US agents.
 
-##### Philippine
+##### Philippines
 ### [The death toll in the Philippines from Typhoon Bopha rises over 900 with hundreds still unaccounted for. ](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.md)
 THE death toll from the strongest typhoon to hit the Philippines this year has climbed above 900, with hundreds still missing, the government says.
 

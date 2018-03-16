@@ -27,7 +27,7 @@ At least 30 people are killed in a blast at a weapons depot in southern Libya am
 ### [A 5.6 earthquake in Iran kills seven people and injures 30. ](/news/2013/11/28/a-5-6-earthquake-in-iran-kills-seven-people-and-injures-30.md)
 The epicentre lies 35 miles from the Bushehr nuclear plant, where concerns have been expressed in the past about possible leaks.
 
-##### Philippine
+##### Philippines
 ### [The death toll in the Philippines from Typhoon Haiyan reaches 5,560. ](/news/2013/11/28/the-death-toll-in-the-philippines-from-typhoon-haiyan-reaches-5-560.md)
 MANILA &ndash; The official death toll from super typhoon &quot;Yolanda&quot; is now at least 5,560, the National Disaster Risk Reduction and Management (NDRRMC) said.
 

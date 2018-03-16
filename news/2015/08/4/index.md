@@ -27,9 +27,9 @@ _Context: Brooklyn, sinkhole_
 ### [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising GBP2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-gbp2-1bn.md)
 The Government has sold a 5.4% stake in Royal Bank of Scotland for £2.1bn, but the taxpayer has made a loss of around £1bn on the sale. 
 
-##### United States Navy
+##### U.S. Navy
 ### [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the John Warner, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-john-warner-joins-the-fleet-in-a-commissioning-ceremon.md)
-_Context: Norfolk Naval Station, Norfolk, Virginia, United States Navy, Virginia-class submarine, submarine_
+_Context: Norfolk Naval Station, Norfolk, Virginia, U.S. Navy, Virginia-class submarine, submarine_
 
 ##### Yemeni Civil War (2015)
 ### [Roughly 1,500 United Arab Emirates Army troops deploy with tanks and heavy equipment to the strategic southern Yemeni city of Aden which has been the scene of heavy fighting between Houthi militants and fighters loyal to the previous regime of Abd Rabbuh Mansur Hadi. Previous attempts by the Saudi Arabian Army and Royal Saudi Air Force to defeat the Houthis were unsuccessful. ](/news/2015/08/4/roughly-1-500-united-arab-emirates-army-troops-deploy-with-tanks-and-heavy-equipment-to-the-strategic-southern-yemeni-city-of-aden-which-has.md)

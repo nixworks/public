@@ -11,7 +11,7 @@ _Context: Asaduzzaman Khan, Bangladesh, Dhaka, Myanmar, Rohingya, Rohingya refug
 ### [Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. ](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.md)
 The move is aimed at stemming a wave of anti-government protests, state media reports.
 
-##### Special Counsel investigation (2017-present)
+##### Special Counsel investigation
 ### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian interference in the 2016 United States elections. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md)
 Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours with investigators.
 

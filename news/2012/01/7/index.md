@@ -13,7 +13,7 @@ _Context: Bosnian, Historical Museum, National Gallery, National Library, Nation
 
 ##### Iran
 ### [Iran praises the United States Navy after American sailors rescued Iranian fishermen from armed pirates in the Arabian Sea. ](/news/2012/01/7/iran-praises-the-united-states-navy-after-american-sailors-rescued-iranian-fishermen-from-armed-pirates-in-the-arabian-sea.md)
-_Context: Arabian Sea, Iran, United States Navy, pirate_
+_Context: Arabian Sea, Iran, U.S. Navy, pirate_
 
 ##### Two days of attacks
 ### [At least 37 people are killed in two days of attacks in northeastern Nigeria, after radical Islamic group Boko Haram issues an ultimatum for all Christians to leave the north. ](/news/2012/01/7/at-least-37-people-are-killed-in-two-days-of-attacks-in-northeastern-nigeria-after-radical-islamic-group-boko-haram-issues-an-ultimatum-for.md)

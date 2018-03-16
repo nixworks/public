@@ -25,7 +25,7 @@ The Gambia and Tanzania, both countries where more than 30% of girls are married
 
 ##### Human rights in the Philippines
 ### [The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations-conducted-during-its-drug-war.md)
-_Context: Human rights in the Philippines, Philippine, drug crackdown, human rights violations_
+_Context: Human rights in the Philippines, Philippines, drug crackdown, human rights violations_
 
 ##### Bahamian-United States relations
 ### [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md)

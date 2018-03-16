@@ -31,7 +31,7 @@ _Context: Arab Spring, Saudi Arabia, Sheikh Nimr, Shiite cleric, Supreme Court, 
 ### [Indian fugitive gangster Chhota Rajan is arrested at Ngurah Rai International Airport in Bali. ](/news/2015/10/26/indian-fugitive-gangster-chhota-rajan-is-arrested-at-ngurah-rai-international-airport-in-bali.md)
 Police in Indonesia say they have arrested an alleged Indian underworld don who has been on the run for 20 years.
 
-##### United States Navy
+##### U.S. Navy
 ### [The U.S. Navy plans to send guided missile destroyer USS Lassen within 12 nautical miles of artificial islands built by China in the South China Sea. This first freedom of navigation challenge to China's territorial claims in one of the world's busiest sea lanes may occur as soon as tomorrow, according to a U.S. defense official. ](/news/2015/10/26/the-u-s-navy-plans-to-send-guided-missile-destroyer-uss-lassen-within-12-nautical-miles-of-artificial-islands-built-by-china-in-the-south-c.md)
 The United States on Monday sent a guided-missile destroyer to challenge 12-nautical-mile territorial limits that China claims around artificial islands it built in the South China Sea.
 

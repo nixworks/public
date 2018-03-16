@@ -9,7 +9,7 @@ Twitter offered several examples of Internet Research Agency content, including 
 
 ##### Atlas V
 ### [An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. ](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fourth-sbirs-satellite-for-the-united-states-air-force-this-launch-completes-the-geosynchronous.md)
-_Context: Atlas V, SBIRS, United States Air Force, geosynchronous_
+_Context: Atlas V, SBIRS, U.S. Air Force, geosynchronous_
 
 ##### Political appointments by Donald Trump
 ### [Carl Higbie, Corporation for National and Community Service Chief of External Affairs, apologizes and resigns from his position with the agency that runs AmeriCorps after racist and anti-Muslim remarks he made in 2013 are reported by CNN. ](/news/2018/01/19/carl-higbie-corporation-for-national-and-community-service-chief-of-external-affairs-apologizes-and-resigns-from-his-position-with-the-age.md)

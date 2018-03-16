@@ -61,7 +61,7 @@ Forty-four people were killed and 103 injured when one Iranian passenger train c
 
 ##### 2016 Pacific typhoon season
 ### [Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the-philippines-caused-by-tropic.md)
-_Context: 2016 Pacific typhoon season, Manila, Ninoy Aquino International Airport, Philippine_
+_Context: 2016 Pacific typhoon season, Manila, Ninoy Aquino International Airport, Philippines_
 
 ##### Saudi Arabia
 ### [Saudi Arabia tells its partners in the Organization of Petroleum Exporting Countries that it will not attend a planned November 28 meeting in Vienna, out of unhappiness about intransigence from Iraq and Iran with regard to production cuts. ](/news/2016/11/25/saudi-arabia-tells-its-partners-in-the-organization-of-petroleum-exporting-countries-that-it-will-not-attend-a-planned-november-28-meeting-i.md)

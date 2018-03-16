@@ -25,7 +25,7 @@ _Context: Galkayo, Islamic Courts Union, Mudug province, Somali Civil War, Somal
 
 ##### F-16
 ### [ A U.S. F-16 fighter aircraft has gone down near the city of Fallujah in western Iraq. The United States Air Force said the plane's pilot was missing and an investigation into the cause of the incident has been launched. ](/news/2006/11/27/a-u-s-f-16-fighter-aircraft-has-gone-down-near-the-city-of-fallujah-in-western-iraq-the-united-states-air-force-said-the-plane-s-pilot-wa.md)
-_Context: F-16, Fallujah, Iraq, United States Air Force, downed by ground fire_
+_Context: F-16, Fallujah, Iraq, U.S. Air Force, downed by ground fire_
 
 ##### Supreme Court of the Democratic Republic of the Congo
 ### [ The Supreme Court of the Democratic Republic of the Congo confirms that Joseph Kabila had won the 2006 presidential election. ](/news/2006/11/27/the-supreme-court-of-the-democratic-republic-of-the-congo-confirms-that-joseph-kabila-had-won-the-2006-presidential-election.md)

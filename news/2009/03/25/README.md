@@ -13,7 +13,7 @@ _Context: Board of Control for Cricket, India, Indian Premier League, South Afri
 
 ##### United States
 ### [ A United States Air Force F-22 Raptor crashes near Edwards AF Base in California, killing its pilot. ](/news/2009/03/25/a-united-states-air-force-f-22-raptor-crashes-near-edwards-af-base-in-california-killing-its-pilot.md)
-_Context: California, Edwards Air Force Base, United States, United States Air Force, incidents, most advanced fighter jets, pilot_
+_Context: California, Edwards Air Force Base, U.S. Air Force, United States, incidents, most advanced fighter jets, pilot_
 
 ##### Sweden
 ### [ Sweden's Parliament will abolish the 50-ore coin on September 30, 2010. ](/news/2009/03/25/sweden-s-parliament-will-abolish-the-50-apre-coin-on-september-30-2010.md)

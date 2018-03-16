@@ -13,7 +13,7 @@ _Context: Hurricane Ingrid, Mexico, Veracruz_
 
 ##### Moro National Liberation Front
 ### [Moro National Liberation Front rebel soldiers continue to hold 100 people hostage in the Philippine city of Zamboanga as they exchange gunfire with Philippine Army troops. ](/news/2013/09/14/moro-national-liberation-front-rebel-soldiers-continue-to-hold-100-people-hostage-in-the-philippine-city-of-zamboanga-as-they-exchange-gunfi.md)
-_Context: Moro National Liberation Front, Philippine, Zamboanga City, army_
+_Context: Moro National Liberation Front, Philippines, Zamboanga City, army_
 
 ##### United States
 ### [The United States and Russia reach a deal on Syrian chemical weapons. ](/news/2013/09/14/the-united-states-and-russia-reach-a-deal-on-syrian-chemical-weapons.md)

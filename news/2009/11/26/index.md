@@ -41,7 +41,7 @@ _Context: Bogot, Jaime Usctegui, Mapiripn Massacre in 1997, Supreme Court, far r
 
 ##### Committee to Protect Journalists
 ### [ The Committee to Protect Journalists (CPJ) labels the Maguindanao massacre in the Philippines the "single deadliest event for the press" ever documented. ](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.md)
-_Context: Committee to Protect Journalists, Maguindanao massacre, Philippine, media_
+_Context: Committee to Protect Journalists, Maguindanao massacre, Philippines, media_
 
 ##### Namibia
 ### [ The Namibian National Society for Human Rights announces it will approach the High Court after the electoral commission withdraws its observer status for the general election on Friday. ](/news/2009/11/26/the-namibian-national-society-for-human-rights-announces-it-will-approach-the-high-court-after-the-electoral-commission-withdraws-its-obser.md)

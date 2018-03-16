@@ -15,9 +15,9 @@ China has banned the use in toothpaste of a chemical linked to the recall of Chi
 ### [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md)
 _Context: Bulgaria, HIV trial in Libya, Libya, Palestinian, sentenced to death_
 
-##### Philippine
+##### Philippines
 ### [ 14 Philippines Marines are killed by insurgents in fighting. ](/news/2007/07/11/14-philippines-marines-are-killed-by-insurgents-in-fighting.md)
-_Context: Philippine, killed by insurgents_
+_Context: Philippines, killed by insurgents_
 
 ##### Indonesia
 ### [ Indonesia evacuates thousands of people living near Mount Gamkonora as it appears likely to explode. ](/news/2007/07/11/indonesia-evacuates-thousands-of-people-living-near-mount-gamkonora-as-it-appears-likely-to-explode.md)

@@ -13,7 +13,7 @@ _Context: FIFA Club World Championship, Japan, Liverpool, SGBPo Paulo, Yokohama_
 
 ##### 2005 ASEAN Para Games
 ### [ Philippines finish in 5th place in the medal tally for the 2005 ASEAN Para Games in the Philippines. Thailand finishes with 84 golds, followed by Malaysia. ](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.md)
-_Context: 2005 ASEAN Para Games, Malaysia, Philippine, Thailand_
+_Context: 2005 ASEAN Para Games, Malaysia, Philippines, Thailand_
 
 ##### Bono
 ### [ Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md)

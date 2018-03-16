@@ -25,7 +25,7 @@ _Context: Kim Tae-Young, ROKS ''Cheonan'', South Korea, sinking_
 
 ##### Philippine general election, 2010
 ### [Presidential elections, legislative elections and local elections start today in the Philippines. ](/news/2010/05/10/presidential-elections-legislative-elections-and-local-elections-start-today-in-the-philippines.md)
-_Context: Philippine, Philippine general election, 2010_
+_Context: Philippine general election, 2010, Philippines_
 
 ##### Albanians
 ### [A mass grave containing the bodies of 250 ethnic Albanians from the Kosovo War is discovered in Serbia. ](/news/2010/05/10/a-mass-grave-containing-the-bodies-of-250-ethnic-albanians-from-the-kosovo-war-is-discovered-in-serbia.md)

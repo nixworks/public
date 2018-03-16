@@ -11,7 +11,7 @@ Burglars who broke into an F.B.I. field office in 1971 and stole files that reve
 ### [Infanta Cristina, the youngest daughter of the King of Spain, Juan Carlos I, is charged by a magistrate with tax evasion and money laundering. ](/news/2014/01/7/infanta-cristina-the-youngest-daughter-of-the-king-of-spain-juan-carlos-i-is-charged-by-a-magistrate-with-tax-evasion-and-money-launderin.md)
 Princess Christina, the younger daughter of King Juan Carlos of Spain, has been charged with money laundering and tax evasion. After a lengthy
 
-##### United States Air Force
+##### U.S. Air Force
 ### [Four killed in US Air Force HH-60 Pave Hawk crash in England's Norfolk coast. ](/news/2014/01/7/four-killed-in-us-air-force-hh-60-pave-hawk-crash-in-england-s-norfolk-coast.md)
 An investigation is underway after four crew members were killed when a US military helicopter on a training mission crashed near the north Norfolk coast.
 

@@ -21,7 +21,7 @@ Geneva-based team will investigate ‘abuses that amount to international crimes
 
 ##### Philippine presidential election, 2016
 ### [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president-le.md)
-_Context: Bongbong Marcos, Leni Robredo, Philippine, Philippine presidential election, 2016, Supreme Court of the Philippines_
+_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Philippines, Supreme Court of the Philippines_
 
 ##### Legal challenges to U.S. immigration suspension order
 ### [The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one. Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. ](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circuit-court-of-appeals-that-it-won-t-be-seeking-further-action-by-the-court-since-this-executi.md)

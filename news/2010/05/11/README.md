@@ -49,7 +49,7 @@ Egyptian opposition groups bash decision to extend 29-year-old emergency law for
 
 ##### Corazon Aquino
 ### [The son of Corazon Aquino, Benigno Aquino III, appears set to win the presidency in the Philippine elections, which have been marred by deadly violence and malfunctioning voting machines. ](/news/2010/05/11/the-son-of-corazon-aquino-benigno-aquino-iii-appears-set-to-win-the-presidency-in-the-philippine-elections-which-have-been-marred-by-dead.md)
-_Context: Corazon Aquino, Noynoy Aquino, Philippine general election, 2010, President_
+_Context: Corazon Aquino, Noynoy Aquino, Philippine President, Philippine general election, 2010_
 
 ##### Conservative Party
 ### [The Conservative Party's David Cameron kisses the hands of Queen Elizabeth II to become Prime Minister of the United Kingdom after Gordon Brown resigns as Prime Minister and as Leader of the British Labour Party. ](/news/2010/05/11/the-conservative-party-s-david-cameron-kisses-the-hands-of-queen-elizabeth-ii-to-become-prime-minister-of-the-united-kingdom-after-gordon-br.md)

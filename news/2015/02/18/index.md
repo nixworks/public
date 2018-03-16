@@ -29,7 +29,7 @@ _Context: Blackshades, Swede, United States, hackers, software_
 
 ##### Australian
 ### [Australian David Hicks wins an appeal in the U.S. Court of Military Commission Review against his conviction for providing material support to terrorism in 2007 in a U.S. Navy court in Guantanamo Bay. ](/news/2015/02/18/australian-david-hicks-wins-an-appeal-in-the-u-s-court-of-military-commission-review-against-his-conviction-for-providing-material-support.md)
-_Context: Australian, David Hicks, Guantanamo Bay, U.S. Court of Military Commission Review, United States Navy, terrorism_
+_Context: Australian, David Hicks, Guantanamo Bay, U.S. Court of Military Commission Review, U.S. Navy, terrorism_
 
 ##### Islamic State
 ### [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md)

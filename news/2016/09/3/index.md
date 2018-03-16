@@ -19,9 +19,9 @@ North Korea said on Saturday that 15 people were missing in the northern city of
 ### [Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-zika-virus.md)
 Dorchester County, in South Carolina, was worried about the risk posed by Zika. So officials recently ordered that a pesticide be sprayed from planes. Local beehives have been devastated.
 
-##### President
+##### Philippine President
 ### [The President of the Philippines Rodrigo Duterte declares a nationwide "state of lawlessness" after yesterday's bombing in Davao City that has killed at least 14 people. ](/news/2016/09/3/the-president-of-the-philippines-rodrigo-duterte-declares-a-nationwide-state-of-lawlessness-after-yesterday-s-bombing-in-davao-city-that-h.md)
-_Context: 2016 Davao City bombing, Davao City, President, Rodrigo Duterte_
+_Context: 2016 Davao City bombing, Davao City, Philippine President, Rodrigo Duterte_
 
 ## [Previous Day...](/news/2016/09/2/index.md)
 

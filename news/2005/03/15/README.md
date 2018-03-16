@@ -35,9 +35,9 @@ _Context: Democratic Republic of Congo, International Criminal Court, civil war,
 ### [ In Kosovo, an explosion hits the motorcade of president Ibrahim Rugova in the capital Pristina. ](/news/2005/03/15/in-kosovo-an-explosion-hits-the-motorcade-of-president-ibrahim-rugova-in-the-capital-pristina.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, police storm the Camp Bagong Diwa prison. 26 die during the fighting, three of them Abu Sayyaf members. Six police officers are wounded. ](/news/2005/03/15/in-the-philippines-police-storm-the-camp-bagong-diwa-prison-26-die-during-the-fighting-three-of-them-abu-sayyaf-members-six-police-offi.md)
-_Context: Abu Sayyaf, Camp Bagong Diwa prison, Philippine_
+_Context: Abu Sayyaf, Camp Bagong Diwa prison, Philippines_
 
 ##### Holocaust and Remembrance Center
 ### [ The dedication of the new Yad Vashem Holocaust museum in Jerusalem, Israel: leaders from 40 states and the UN General Secretary Kofi Annan attend inauguration of Holocaust museum. President of Israel Moshe Katzav said that the new museum serves as "an important signpost to all of humankind, a signpost that warns how short the distance is between hatred and murder, between racism and genocide." ](/news/2005/03/15/the-dedication-of-the-new-yad-vashem-holocaust-museum-in-jerusalem-israel-leaders-from-40-states-and-the-un-general-secretary-kofi-annan.md)

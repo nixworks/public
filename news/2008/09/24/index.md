@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/24/index.html)  [JSON](2008/09/24/index.json)  [XML](200
 
 ##### Typhoon Hagupit
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
-_Context: China, Philippine, Typhoon Hagupit, Vietnam_
+_Context: China, Philippines, Typhoon Hagupit, Vietnam_
 
 ##### Tomislav Nikolic
 ### [ Tomislav Nikolic announces that his party (a splinter from the Serbian Radical Party) will be called Serbian Progressive Party and that it will be founded on 21 October 2008. ](/news/2008/09/24/tomislav-nikolia-announces-that-his-party-a-splinter-from-the-serbian-radical-party-will-be-called-serbian-progressive-party-and-that-it.md)

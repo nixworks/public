@@ -19,9 +19,9 @@ Minutes after a woman was suspended from her job at a Kraft Foods plant and esco
 ### [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md)
 _Context: First Amendment, U.S. military, US District Court Judge, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_
 
-##### Philippine
+##### Philippines
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
-_Context: Manila Police District, Manila hostage crisis, Philippine_
+_Context: Manila Police District, Manila hostage crisis, Philippines_
 
 ##### Corruption
 ### [Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. ](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.md)

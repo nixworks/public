@@ -27,7 +27,7 @@ At least three crew members died when a cargo ship carrying cars sank after coll
 ### [At least 8 people are killed and 12 others injured after a 5.6 earthquake strikes Iran's South Khorasan Province. ](/news/2012/12/5/at-least-8-people-are-killed-and-12-others-injured-after-a-5-6-earthquake-strikes-iran-s-south-khorasan-province.md)
 At least five people have been killed and several injured by a 5.5 magnitude earthquake in eastern Iran, say officials.
 
-##### Philippine
+##### Philippines
 ### [Rescue crews head to areas of the Philippines severely affected by Typhoon Bopha. At least 283 are now believed to have died as a result of the storm, with 339 injured, hundreds more missing and over 87,000 evacuated. ](/news/2012/12/5/rescue-crews-head-to-areas-of-the-philippines-severely-affected-by-typhoon-bopha-at-least-283-are-now-believed-to-have-died-as-a-result-of.md)
 The death toll from a powerful storm battering the southern Philippines rises to about 200, as rescue teams head for affected areas.
 

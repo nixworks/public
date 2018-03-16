@@ -3,7 +3,7 @@ Formats: [HTML](2017/05/7/index.html)  [JSON](2017/05/7/index.json)  [XML](2017/
 
 ## [2017-05-7](/news/2017/05/7/index.md)
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md)
 Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space Center Sunday, closing out a 718-day flight
 

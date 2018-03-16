@@ -11,9 +11,9 @@ _Context: Baghdad, Conflict in Iraq, Falluja, Iraqi National Guard, Mortar, Mosu
 ### [ Prosecutors in France file charges against former Chilean leader Augusto Pinochet for the disappearance and torture of four French citizens in the 1970s. ](/news/2004/10/23/prosecutors-in-france-file-charges-against-former-chilean-leader-augusto-pinochet-for-the-disappearance-and-torture-of-four-french-citizens.md)
 _Context: Augusto Pinochet, Chile, Prosecutor, citizen, torture_
 
-##### United States Navy
+##### U.S. Navy
 ### [ The United States Navy commissions the USS "Virginia", the lead ship of the Virginia class. ](/news/2004/10/23/the-united-states-navy-commissions-the-uss-virginia-the-lead-ship-of-the-virginia-class.md)
-_Context: USS ''Virginia'', United States Navy, Virginia class, lead ship_
+_Context: U.S. Navy, USS ''Virginia'', Virginia class, lead ship_
 
 ##### Abdullahi Yusuf Ahmed
 ### [ Abdullahi Yusuf Ahmed, Somalia's new president, requests 20,000 African Union troops to help secure the country. ](/news/2004/10/23/abdullahi-yusuf-ahmed-somalia-s-new-president-requests-20-000-african-union-troops-to-help-secure-the-country.md)

@@ -39,7 +39,7 @@ _Context: Mali, Muslim, imam_
 
 ##### Mount Bulusan
 ### [Mount Bulusan on the island of Luzon in the Philippines erupts. ](/news/2011/02/21/mount-bulusan-on-the-island-of-luzon-in-the-philippines-erupts.md)
-_Context: Luzon, Mount Bulusan, Philippine_
+_Context: Luzon, Mount Bulusan, Philippines_
 
 ##### Influenza A virus subtype H5N1
 ### [Bird flu is discovered in the Indian state of Andhra Pradesh. ](/news/2011/02/21/bird-flu-is-discovered-in-the-indian-state-of-andhra-pradesh.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2008/03/6/index.html)  [JSON](2008/03/6/index.json)  [XML](2008/
 
 ## [2008-03-6](/news/2008/03/6/index.md)
 
-##### Philippine
+##### Philippines
 ### [ Philippine authorities arrest three people accused of plotting terrorist attacks on foreign embassies in Manila. ](/news/2008/03/6/philippine-authorities-arrest-three-people-accused-of-plotting-terrorist-attacks-on-foreign-embassies-in-manila.md)
-_Context: Manila, Philippine_
+_Context: Manila, Philippines_
 
 ##### A bomb causes minor damage
 ### [ A bomb causes minor damage to the door of a U.S. military recruiting center in Times Square, New York City. ](/news/2008/03/6/a-bomb-causes-minor-damage-to-the-door-of-a-u-s-military-recruiting-center-in-times-square-new-york-city.md)

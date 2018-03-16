@@ -13,7 +13,7 @@ Japan ordered its military on Monday to be ready at any time to shoot down any N
 
 ##### 2016 U.S. election
 ### [A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. ](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-republican-u-s-presidential-candidate-donald-trump-from-entering-the-philippines-after-trump-co.md)
-_Context: 2016 U.S. election, Donald Trump, Philippine, Republican, terrorists_
+_Context: 2016 U.S. election, Donald Trump, Philippines, Republican, terrorists_
 
 ##### 2016 Pacific hurricane season
 ### [Remnants of Hurricane Earl helped form Tropical Storm Javier which is southeast of the Mexican resort of Cabo San Lucas on the Baja California Peninsula. A hurricane warning is issued for the southern portion of the peninsula. Rainfall from the storm is expected to impact the American Southwest, starting Tuesday evening. ](/news/2016/08/8/remnants-of-hurricane-earl-helped-form-tropical-storm-javier-which-is-southeast-of-the-mexican-resort-of-cabo-san-lucas-on-the-baja-californ.md)

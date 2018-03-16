@@ -17,7 +17,7 @@ Irom Sharmila, the iconic activist who didn&#039;t eat for 16 years in protest a
 
 ##### Drug crackdown
 ### [Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md)
-_Context: Philippine, Rodrigo Duterte, Supreme Court of the Philippines, drug crackdown, martial law_
+_Context: Philippines, Rodrigo Duterte, Supreme Court of the Philippines, drug crackdown, martial law_
 
 ##### 2016 Portugal wildfires
 ### [A raging wildfire destroys dozens of homes and prompts the evacuation of more than 400 people from Portugal's Madeira island as flames spread near the island's capital, Funchal. Regional President Miguel Albuquerque says one person had suffered serious burns and scores of others had needed treatment for the effects of smoke. Flights have also been disrupted at Madeira Airport due to smoke. ](/news/2016/08/9/a-raging-wildfire-destroys-dozens-of-homes-and-prompts-the-evacuation-of-more-than-400-people-from-portugal-s-madeira-island-as-flames-sprea.md)

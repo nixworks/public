@@ -73,7 +73,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### National Assembly of Panama
 ### [ The National Assembly of Panama selects Pedro Miguel Gonzalez Pinzon as its President despite the fact that he is wanted in the United States for an alleged murder of a United States Army sergeant and the attempted murder of another. Gonzalez has been cleared by a Panamanian court of these charges. ](/news/2007/09/1/the-national-assembly-of-panama-selects-pedro-miguel-gonza-lez-pinza3n-as-its-president-despite-the-fact-that-he-is-wanted-in-the-united-st.md)
-_Context: National Assembly of Panama, Panamanian, Pedro Miguel Gonzalez Pinzon, United States, United States soldier_
+_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, United States, United States soldier_
 
 ##### Air show
 ### [ Two small planes collide during an air show in Radom, Poland resulting in the deaths of both pilots (Marek Dubkiewicz and Sebastian Chrzaszcz). ](/news/2007/09/1/two-small-planes-collide-during-an-air-show-in-radom-poland-resulting-in-the-deaths-of-both-pilots-marek-dubkiewicz-and-sebastian-chrzas.md)

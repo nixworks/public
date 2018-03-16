@@ -15,7 +15,7 @@ New Zealand police on Thursday charged AC/DC drummer Phil Rudd with attempting t
 ### [The title of the seventh installment of the Star Wars film franchise is revealed to be "The Force Awakens". ](/news/2014/11/6/the-title-of-the-seventh-installment-of-the-star-wars-film-franchise-is-revealed-to-be-the-force-awakens.md)
 The upcoming installment of the &quot;Star Wars&quot; film franchise has finished shooting and will be called &quot;Star Wars: The Force Awakens,&quot; Walt Disney Studios said on Thursday.
 
-##### Philippine
+##### Philippines
 ### [A bus bombing in the Philippines injures four people. ](/news/2014/11/6/a-bus-bombing-in-the-philippines-injures-four-people.md)
 Four passengers were hurt Thursday when a powerful explosion ripped through a bus in Maramag town in the province while en route to Cagayan de Oro City. 
 

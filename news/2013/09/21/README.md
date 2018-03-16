@@ -21,7 +21,7 @@ Mullah Abdul Ghani Baradar, co-founder of the Afghan Taliban, is released from p
 
 ##### Typhoon Usagi
 ### [Typhoon Usagi hits the northern Philippines causing flooding and landslides and disrupting transport, communications and power supplies. ](/news/2013/09/21/typhoon-usagi-hits-the-northern-philippines-causing-flooding-and-landslides-and-disrupting-transport-communications-and-power-supplies.md)
-_Context: Philippine, Typhoon Usagi_
+_Context: Philippines, Typhoon Usagi_
 
 ##### Exxon Mobil
 ### [Exxon Mobil, BP and BG decline to take part in the upcoming international bidding for rights to explore Brazil's deep-water Libra oil field, one of the largest pre-salt fields yet to be explored in that country. ](/news/2013/09/21/exxon-mobil-bp-and-bg-decline-to-take-part-in-the-upcoming-international-bidding-for-rights-to-explore-brazil-s-deep-water-libra-oil-field.md)
@@ -37,7 +37,7 @@ At least 60 people have been killed and 120 injured at a funeral in the mainly S
 
 ##### Zamboanga City crisis
 ### [Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.md)
-_Context: Moro National Liberation Front, Philippine, Zamboanga City, Zamboanga City crisis, army_
+_Context: Moro National Liberation Front, Philippines, Zamboanga City, Zamboanga City crisis, army_
 
 ## [Previous Day...](/news/2013/09/20/index.md)
 

@@ -31,9 +31,9 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 ### [A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md)
 _Context: Libya, National Oil Corp., Tripoli_
 
-##### Philippine
+##### Philippines
 ### [At least 16 people are killed and 13 injured in the Philippines in a terrorist attack by Islamic group Abu Sayyaf. ](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.md)
-_Context: Abu Sayyaf, Philippine_
+_Context: Abu Sayyaf, Philippines_
 
 ##### Savur-Mohyla
 ### [Ukrainian forces recapture control of the strategic height of Savur-Mohyla in Donetsk oblast from pro-Russian insurgents. ](/news/2014/07/28/ukrainian-forces-recapture-control-of-the-strategic-height-of-savur-mohyla-in-donetsk-oblast-from-pro-russian-insurgents.md)

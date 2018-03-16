@@ -23,7 +23,7 @@ _Context: Israel, Wikipedia_
 ### [Jeremy Ractliffe resigns from the board of the Nelson Mandela Children's Fund after revealing he kept diamonds given to him by Naomi Campbell. ](/news/2010/08/18/jeremy-ractliffe-resigns-from-the-board-of-the-nelson-mandela-children-s-fund-after-revealing-he-kept-diamonds-given-to-him-by-naomi-campbel.md)
 _Context: Jeremy Ractliffe, Naomi Campbell, Nelson Mandela Children's Fund_
 
-##### Philippine
+##### Philippines
 ### [The Philippines is shocked by mobile phone footage apparently demonstrating police torture of a naked man charged with theft; many suspensions occur. ](/news/2010/08/18/the-philippines-is-shocked-by-mobile-phone-footage-apparently-demonstrating-police-torture-of-a-naked-man-charged-with-theft-many-suspensio.md)
 The authorities in the Philippines investigate mobile phone footage that appears to show police torturing a naked man.
 
@@ -69,7 +69,7 @@ _Context: Dunedin, New Zealand, South Island, South Korea, fishing boat_
 
 ##### Bus
 ### [A bus plunges into a 100 metre ravine in the Philippines Benguet province resulting in 39 deaths. ](/news/2010/08/18/a-bus-plunges-into-a-100-metre-ravine-in-the-philippines-benguet-province-resulting-in-39-deaths.md)
-_Context: Benguet, Philippine, bus, ravine_
+_Context: Benguet, Philippines, bus, ravine_
 
 ##### The deadly tsunami
 ### [Scientists blame a peculiar double earthquake for the deadly tsunami responsible for the deaths of 192 people in the South Pacific last September, and described as "unlike anything seismologists have seen before". ](/news/2010/08/18/scientists-blame-a-peculiar-double-earthquake-for-the-deadly-tsunami-responsible-for-the-deaths-of-192-people-in-the-south-pacific-last-sept.md)

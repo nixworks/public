@@ -25,7 +25,7 @@ Flights from Miami and Fort Lauderdale figure heavily in new commercial service.
 
 ##### Russia-United States relations
 ### [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS "Porter". The USS "Porter" arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-porter.md)
-_Context: Bulgaria, Foreign Ministry, Russia, Russia-United States relations, USS ''Porter'', United States Navy, Varna_
+_Context: Bulgaria, Foreign Ministry, Russia, Russia-United States relations, U.S. Navy, USS ''Porter'', Varna_
 
 ##### Israel-Palestine relations
 ### [Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel-aviv-shooting.md)

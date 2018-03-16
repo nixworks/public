@@ -61,7 +61,7 @@ _Context: Afghanistan, Helmand Province, Lashkar Gah, suicide bomber_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
-_Context: Abu Sayyaf, Basilan Island, Philippine, Sumisip_
+_Context: Abu Sayyaf, Basilan Island, Philippines, Sumisip_
 
 ##### Syrian Army
 ### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)

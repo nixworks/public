@@ -13,7 +13,7 @@ Thai nationals working for a Cambodian air traffic control firm were suspended a
 
 ##### Philippine
 ### [ Philippine President Gloria Macapagal-Arroyo steps down as head of the ruling Lakas-Kampi-CMD party and endorses her former defense minister Gilberto Teodoro for President. ](/news/2009/11/19/philippine-president-gloria-macapagal-arroyo-steps-down-as-head-of-the-ruling-lakas-kampi-cmd-party-and-endorses-her-former-defense-ministe.md)
-_Context: Gilberto Teodoro, Gloria Macapagal-Arroyo, Lakas-Kampi-CMD, Philippine, President_
+_Context: Gilberto Teodoro, Gloria Macapagal-Arroyo, Lakas-Kampi-CMD, Philippine, Philippine President_
 
 ##### Russia
 ### [ The Russian Constitutional Court prolongs a ban on the death penalty. The moratorium had been due to expire on January 1. ](/news/2009/11/19/the-russian-constitutional-court-prolongs-a-ban-on-the-death-penalty-the-moratorium-had-been-due-to-expire-on-january-1.md)

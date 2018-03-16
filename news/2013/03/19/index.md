@@ -7,7 +7,7 @@ Formats: [HTML](2013/03/19/index.html)  [JSON](2013/03/19/index.json)  [XML](201
 ### [NASA publishes LRO images of the two craters on the Moon, where twin GRAIL probes ended their gravity-mapping mission in December 2012. ](/news/2013/03/19/nasa-publishes-lro-images-of-the-two-craters-on-the-moon-where-twin-grail-probes-ended-their-gravity-mapping-mission-in-december-2012.md)
 NASA ended its successful GRAIL mission by intentionally crashing the twin spacecraft into the moon. Another satellite observed the event.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The United States Air Force successfully launches an Atlas V 401 rocket carrying a missile defense satellite SBIRS-GEO 2. ](/news/2013/03/19/the-united-states-air-force-successfully-launches-an-atlas-v-401-rocket-carrying-a-missile-defense-satellite-sbirs-geo-2.md)
 The U.S. Air Force launched its second next-generation missile defense satellite into orbit on Tuesday (March 19). See photos of the SBIRS GEO-2 satellite launch.
 

@@ -19,9 +19,9 @@ _Context: Kenya_
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017. ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
 _Context: Conservative Party, European Union, United Kingdom withdrawal from the European Union_
 
-##### President
+##### Philippine President
 ### [Former President of the Philippines Joseph Estrada is declared as the winner of the mayoral election in the capital Manila. ](/news/2013/05/14/former-president-of-the-philippines-joseph-estrada-is-declared-as-the-winner-of-the-mayoral-election-in-the-capital-manila.md)
-_Context: Joseph Estrada, Manila, President_
+_Context: Joseph Estrada, Manila, Philippine President_
 
 ##### Canada
 ### [Voters in Canada's British Columbia Province go to the polls to select members to the province's Legislative Assembly. ](/news/2013/05/14/voters-in-canada-s-british-columbia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly.md)

@@ -31,9 +31,9 @@ _Context: U.S. Secret Service, White House, cyanide_
 ### [In Australia, the New South Wales Police charge the Roman Catholic Archbishop of Adelaide, Philip Wilson, with allegedly covering up a child sexual abuse crime committed by another priest, James Fletcher, in the 1970s. ](/news/2015/03/17/in-australia-the-new-south-wales-police-charge-the-roman-catholic-archbishop-of-adelaide-philip-wilson-with-allegedly-covering-up-a-child.md)
 Adelaide Catholic Archbishop Philip Wilson is charged with concealing child sexual abuse in relation to convicted paedophile priest Jim Fletcher, whom he worked with in the 1970s.
 
-##### Philippine
+##### Philippines
 ### [The Philippines submits to The Hague-based Permanent Court of Arbitration a 3,000-page document containing additional volumes of arguments, evidence, and maps seeking to nullify China's sweeping claim over the resource-rich South China Sea. ](/news/2015/03/17/the-philippines-submits-to-the-hague-based-permanent-court-of-arbitration-a-3-000-page-document-containing-additional-volumes-of-arguments.md)
-_Context: China, Permanent Court of Arbitration's, Philippine, South China Sea, sweeping claim_
+_Context: China, Permanent Court of Arbitration's, Philippines, South China Sea, sweeping claim_
 
 ##### Dutch
 ### [A Dutch military helicopter serving as part of the United Nations peacekeeping mission in Mali crashes near Gao, killing two people. ](/news/2015/03/17/a-dutch-military-helicopter-serving-as-part-of-the-united-nations-peacekeeping-mission-in-mali-crashes-near-gao-killing-two-people.md)

@@ -31,9 +31,9 @@ LONDON (AP) — Known on the one hand for his starring role in &quot;Lawrence of
 ### [A grenade is thrown onto a bus in Nairobi, Kenya, killing at least four people and injuring 15 others. ](/news/2013/12/14/a-grenade-is-thrown-onto-a-bus-in-nairobi-kenya-killing-at-least-four-people-and-injuring-15-others.md)
 At least four people are killed and 15 injured by a grenade thrown onto a bus in the Kenyan capital, Nairobi, the interior ministry says.
 
-##### Philippine
+##### Philippines
 ### [Philippine President Benigno Aquino III downplays the significance of the recent surge of violence against journalists in the country after three deaths. ](/news/2013/12/14/philippine-president-benigno-aquino-iii-downplays-the-significance-of-the-recent-surge-of-violence-against-journalists-in-the-country-after.md)
-_Context: Philippine, President, his predecessor_
+_Context: Philippine President, Philippines, his predecessor_
 
 ##### Car bomb
 ### [A car bombing in the Malian town of Kidal kills two United Nations peacekeepers. ](/news/2013/12/14/a-car-bombing-in-the-malian-town-of-kidal-kills-two-united-nations-peacekeepers.md)

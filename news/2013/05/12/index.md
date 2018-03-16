@@ -55,7 +55,7 @@ _Context: Sichuan Province, mining accident_
 ### [The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. ](/news/2013/05/12/the-death-toll-reaches-1-126-with-many-people-still-missing-the-accident-is-now-the-third-worst-industrial-disaster-in-history.md)
 _Context: industrial disaster_
 
-##### Philippine
+##### Philippines
 ### [Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md)
 BEIRUT--Syrian rebels released four U.N. peacekeepers Sunday, five days after the Filipino troops were seized in the increasingly volatile buffer zone between Syria and the Israeli-occupied Golan...
 

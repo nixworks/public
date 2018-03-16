@@ -13,7 +13,7 @@ _Context: 2016 U.S. election, Green Party of the United States, Jill Stein, Mark
 
 ##### Drug crackdown
 ### [Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-leni.md)
-_Context: Leni Robredo, Liberal Party, Philippine, Rodrigo Duterte, drug crackdown_
+_Context: Leni Robredo, Liberal Party, Philippines, Rodrigo Duterte, drug crackdown_
 
 ##### Ghanaian general election, 2016
 ### [Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race-between-incumbent-president-john.md)

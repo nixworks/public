@@ -41,7 +41,7 @@ _Context: Port Mansfield, San Luis Pass, Texas, Tropical Storm Don, tropical sto
 
 ##### 2011 Pacific typhoon season
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
-_Context: 2011 Pacific typhoon season, Philippine_
+_Context: 2011 Pacific typhoon season, Philippines_
 
 ##### United Nations
 ### [The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. ](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.md)

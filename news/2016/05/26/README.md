@@ -51,7 +51,7 @@ For the first time, researchers have found a person in the United States carryin
 ### [At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. ](/news/2016/05/26/at-least-20-people-drown-in-the-southern-mediterranean-sea-when-a-repurposed-fishing-boat-sinks-35-nautical-miles-north-of-zuwara-libya.md)
 Repurposed fishing boat thought to have had Syrians on board sinks off coast of Libya
 
-##### United States Navy
+##### U.S. Navy
 ### [Two United States Navy FA-18's crash in the Atlantic Ocean near the Outer Banks off the coast of the US state of North Carolina. The four pilots safely ejected from the planes and are being examined in Sentara Norfolk General Hospital in Virginia. ](/news/2016/05/26/two-united-states-navy-fa-18-s-crash-in-the-atlantic-ocean-near-the-outer-banks-off-the-coast-of-the-us-state-of-north-carolina-the-four-pi.md)
 The jets were assigned to Strike Fighter Squadron 211 at Oceana Naval Air Station and were on a routine training mission when the crash occurred, the Navy said in a
 

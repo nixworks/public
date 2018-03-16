@@ -55,9 +55,9 @@ _Context: California, Robert F. Kennedy, Sirhan Sirhan, parole_
 ### [The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. ](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.md)
 The US military has brought 22 new charges against the junior soldier accused of leaking hundreds of thousands of sensitive US government documents that were published by WikiLeaks.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [Two United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/two-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-in-germany-a-suspec.md)
-_Context: Frankfurt Airport, German, United States Air Force_
+_Context: Frankfurt Airport, German, U.S. Air Force_
 
 ##### Prosecutor
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)

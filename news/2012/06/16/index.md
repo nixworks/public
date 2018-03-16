@@ -3,7 +3,7 @@ Formats: [HTML](2012/06/16/index.html)  [JSON](2012/06/16/index.json)  [XML](201
 
 ## [2012-06-16](/news/2012/06/16/index.md)
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission. ](/news/2012/06/16/the-united-states-air-force-s-robotic-boeing-x-37b-spaceplane-returns-to-earth-after-a-classified-469-day-orbital-mission.md)
 The U.S. Air Force&#039;s secretive X-37B space plane landed after completing its hush-hush second mission, which officials have deemed a &quot;spectacular success.&quot;
 

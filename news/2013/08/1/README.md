@@ -45,7 +45,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Manila
 ### [In talks in Manila, the Philippines and Vietnam agree to work together on a framework for resolving maritime territorial disputes in the South China Sea. ](/news/2013/08/1/in-talks-in-manila-the-philippines-and-vietnam-agree-to-work-together-on-a-framework-for-resolving-maritime-territorial-disputes-in-the-sou.md)
-_Context: Manila, Philippine, Vietnam_
+_Context: Manila, Philippines, Vietnam_
 
 ##### National Security Agency
 ### [American National Security Agency whistleblower Edward Snowden is granted a one-year temporary political asylum in Russia and leaves Moscow's Sheremetyevo Airport. ](/news/2013/08/1/american-national-security-agency-whistleblower-edward-snowden-is-granted-a-one-year-temporary-political-asylum-in-russia-and-leaves-moscow.md)

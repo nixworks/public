@@ -7,9 +7,9 @@ Formats: [HTML](2015/07/27/index.html)  [JSON](2015/07/27/index.json)  [XML](201
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
 _Context: France, German, farmers_
 
-##### Philippine
+##### Philippines
 ### [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016. He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md)
-_Context: Bangsamoro Basic Law, Philippine, Philippine presidential election, 2016, State of the Nation Address, anti-dynasty bill, his predecessor_
+_Context: Bangsamoro Basic Law, Philippine presidential election, 2016, Philippines, State of the Nation Address, anti-dynasty bill, his predecessor_
 
 ##### Turkish police
 ### [The Turkish National Police warns of possible bomb attacks on crowded places in central Istanbul, including metro stations and bus stops, following the escalation of Turkey-ISIL conflict. ](/news/2015/07/27/the-turkish-national-police-warns-of-possible-bomb-attacks-on-crowded-places-in-central-istanbul-including-metro-stations-and-bus-stops-fo.md)

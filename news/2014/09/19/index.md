@@ -53,7 +53,7 @@ _Context: Indonesia, Mount Slamet_
 
 ##### Luzon
 ### [Between 20,000 to 30,000 people are evacuated in Luzon as the Philippine volcano Mayon spews lava. ](/news/2014/09/19/between-20-000-to-30-000-people-are-evacuated-in-luzon-as-the-philippine-volcano-mayon-spews-lava.md)
-_Context: Luzon, Mayon Volcano, Philippine, lava_
+_Context: Luzon, Mayon Volcano, Philippines, lava_
 
 ##### Tropical Storm Fung-wong
 ### [Manila is inundated by massive flooding causing flights to the international airport to be cancelled and businesses to shut down. ](/news/2014/09/19/manila-is-inundated-by-massive-flooding-causing-flights-to-the-international-airport-to-be-cancelled-and-businesses-to-shut-down.md)

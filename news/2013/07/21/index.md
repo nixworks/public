@@ -13,7 +13,7 @@ _Context: House of Councillors (Japan's upper house), Japan, Shinzo Abe_
 
 ##### Muslim
 ### [At least 12 people have been killed or wounded in a clash between two Muslim families in the province of Lanao del Sur in the southern Philippines. ](/news/2013/07/21/at-least-12-people-have-been-killed-or-wounded-in-a-clash-between-two-muslim-families-in-the-province-of-lanao-del-sur-in-the-southern-phili.md)
-_Context: Lanao del Sur, Muslim, Philippine_
+_Context: Lanao del Sur, Muslim, Philippines_
 
 ##### Egyptian Army
 ### [Fifteen Egyptian Army soldiers are killed and another injured after their bus crashes into a truck on a highway on the Mediterranean coast. ](/news/2013/07/21/fifteen-egyptian-army-soldiers-are-killed-and-another-injured-after-their-bus-crashes-into-a-truck-on-a-highway-on-the-mediterranean-coast.md)

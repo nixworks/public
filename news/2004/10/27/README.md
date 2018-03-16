@@ -43,9 +43,9 @@ _Context: Flores, Homo floresiensis, Indonesia, cm, feet_
 ### [ Palestinian Authority President Yasser Arafat's health declines sharply, and a team of doctors is called in to treat him. Doctors performed a minor diagnostic procedure on Arafat on Monday, after he complained of stomach pains. ](/news/2004/10/27/palestinian-authority-president-yasser-arafat-s-health-declines-sharply-and-a-team-of-doctors-is-called-in-to-treat-him-doctors-performed.md)
 _Context: Palestinian Authority, Yasser Arafat, doctor, stomach_
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ The US Air Force commissions its first F-22 Raptor jet, the world's most expensive fighter aircraft. The Air Force has ordered 277 of the planes. ](/news/2004/10/27/the-us-air-force-commissions-its-first-f-22-raptor-jet-the-world-s-most-expensive-fighter-aircraft-the-air-force-has-ordered-277-of-the-p.md)
-_Context: United States Air Force, fighter aircraft, most advanced fighter jets_
+_Context: U.S. Air Force, fighter aircraft, most advanced fighter jets_
 
 ## [Previous Day...](/news/2004/10/26/index.md)
 

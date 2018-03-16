@@ -21,7 +21,7 @@ The two journalists, accused of trying to obtain official documents illegally, c
 
 ##### Proclamation No. 216
 ### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
-_Context: Congress of the Philippines, Mindanao, President, Proclamation No. 216, Rodrigo Duterte, martial law_
+_Context: Congress of the Philippines, Mindanao, Philippine President, Proclamation No. 216, Rodrigo Duterte, martial law_
 
 ##### Marine Corps Air Station Futenma
 ### [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md)

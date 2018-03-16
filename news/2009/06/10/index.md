@@ -41,7 +41,7 @@ _Context: London, National Union of Rail, Maritime and Transport Workers, United
 
 ##### Demonstration
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)
-_Context: Constituent Assembly, Philippine, constitutional constraints, demonstration_
+_Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_
 
 ##### Bathaa
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)

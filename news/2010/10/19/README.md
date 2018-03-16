@@ -37,7 +37,7 @@ UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering serv
 
 ##### Typhoon Megi
 ### [The death toll from Typhoon Megi in the Philippines rises to three as heavy rain falls on the island of Luzon for a second consecutive day. ](/news/2010/10/19/the-death-toll-from-typhoon-megi-in-the-philippines-rises-to-three-as-heavy-rain-falls-on-the-island-of-luzon-for-a-second-consecutive-day.md)
-_Context: Luzon, Philippine, Typhoon Megi_
+_Context: Luzon, Philippines, Typhoon Megi_
 
 ##### Crystal Cathedral
 ### [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly "The Hour of Power" television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hour.md)

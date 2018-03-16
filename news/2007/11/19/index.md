@@ -37,7 +37,7 @@ _Context: Rescue, labour unions, miner, twelve days earlier_
 
 ##### Philippine
 ### [ Philippine President Gloria Arroyo says her country will not ratify the new Association of Southeast Asian Nations Charter unless the State Peace and Development Council frees opposition leader Aung San Suu Kyi. ](/news/2007/11/19/philippine-president-gloria-arroyo-says-her-country-will-not-ratify-the-new-association-of-southeast-asian-nations-charter-unless-the-state.md)
-_Context: Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, President, State Peace and Development Council, charter, opposition_
+_Context: Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, Philippine President, State Peace and Development Council, charter, opposition_
 
 ## [Previous Day...](/news/2007/11/18/index.md)
 

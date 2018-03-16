@@ -21,7 +21,7 @@ _Context: Chuck Guite, GroupeAction, Jean Brault, Liberal sponsorship scandal, f
 
 ##### Philippine elections
 ### [ Philippine elections: About 40 million Filipinos go to the polls to elect candidates for national and local positions from the President down to municipal councilors. ](/news/2004/05/10/philippine-elections-about-40-million-filipinos-go-to-the-polls-to-elect-candidates-for-national-and-local-positions-from-the-president-do.md)
-_Context: Philippine elections, President, municipal_
+_Context: Philippine President, Philippine elections, municipal_
 
 ##### United States military personnel
 ### [ The United States Armed Forces destroy the Baghdad headquarters of Moqtada al-Sadr. The building had been evacuated by al-Sadr's forces. There were no casualties. ](/news/2004/05/10/the-united-states-armed-forces-destroy-the-baghdad-headquarters-of-moqtada-al-sadr-the-building-had-been-evacuated-by-al-sadr-s-forces-th.md)

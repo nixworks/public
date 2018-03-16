@@ -23,9 +23,9 @@ Two volcanoes erupted Monday in Indonesia, prompting warnings for flights and ev
 ### [At least twenty people are dead after an Egyptian train collides with a minibus and other vehicles south of Cairo. ](/news/2013/11/18/at-least-twenty-people-are-dead-after-an-egyptian-train-collides-with-a-minibus-and-other-vehicles-south-of-cairo.md)
 _Context: Cairo, Egypt, minibus_
 
-##### President
+##### Philippine President
 ### [Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-criticism-for-his-di.md)
-_Context: President, Tacloban, his predecessor_
+_Context: Philippine President, Tacloban, his predecessor_
 
 ##### Attacks
 ### [A gunman attacks the offices of the newspaper "Libration" and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices-of.md)

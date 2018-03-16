@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/11/index.html)  [JSON](2008/10/11/index.json)  [XML](200
 
 ##### Kill
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. ](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights.md)
-_Context: Commission on Human Rights, Philippine, kill_
+_Context: Commission on Human Rights, Philippines, kill_
 
 ##### Austria
 ### [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-his.md)

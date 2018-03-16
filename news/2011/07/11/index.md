@@ -17,7 +17,7 @@ Canada is boycotting a UN body dedicated to disarmament to protest against North
 
 ##### Republic of Korea Air Force
 ### [The Republic of Korea Air Force announces that it will conduct regular midair refuelling drills with the United States Air Force commencing later this year. ](/news/2011/07/11/the-republic-of-korea-air-force-announces-that-it-will-conduct-regular-midair-refuelling-drills-with-the-united-states-air-force-commencing.md)
-_Context: Republic of Korea Air Force, United States Air Force_
+_Context: Republic of Korea Air Force, U.S. Air Force_
 
 ##### Israeli parliament
 ### [The Israeli parliament passes a controversial law that will punish any Israeli individual or organisation boycotting West Bank settlements. ](/news/2011/07/11/the-israeli-parliament-passes-a-controversial-law-that-will-punish-any-israeli-individual-or-organisation-boycotting-west-bank-settlements.md)

@@ -53,7 +53,7 @@ At least nine construction workers were killed and five injured when a partially
 
 ##### Mount Mayon's
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
-_Context: Mount Mayon's, Philippine_
+_Context: Mount Mayon's, Philippines_
 
 ##### Mezzanine
 ### [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md)

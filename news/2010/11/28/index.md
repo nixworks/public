@@ -69,7 +69,7 @@ Leslie Nielsen went from drama to inspired bumbling as a hapless doctor in Airpl
 
 ##### 
 ### [Israeli soldiers shoot and wound four Palestinians who were digging for gravel in northern Gaza Strip. ](/news/2010/11/28/israeli-soldiers-shoot-and-wound-four-palestinians-who-were-digging-for-gravel-in-northern-gaza-strip.md)
-##### United States Navy
+##### U.S. Navy
 ### [The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/the-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-from-north-korea.md)
 gyun and Jo Yong-hak
 

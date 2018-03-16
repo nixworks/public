@@ -41,9 +41,9 @@ _Context: Lima, medicine_
 ### [ In Pakistan, a collision of three express trains near Ghotki leaves at least 120 dead after 13 carriages derail, according to Pakistan Railways and local police. ](/news/2005/07/13/in-pakistan-a-collision-of-three-express-trains-near-ghotki-leaves-at-least-120-dead-after-13-carriages-derail-according-to-pakistan-rail.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, thousands of protestors gather in Manila to demand the resignation of president Gloria Arroyo, who has reshuffled her cabinet. The military is on alert in case of violence. ](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.md)
-_Context: Gloria Arroyo, Manila, Philippine_
+_Context: Gloria Arroyo, Manila, Philippines_
 
 ##### Mounts Merapi
 ### [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md)

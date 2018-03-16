@@ -41,7 +41,7 @@ _Context: Abortion in the Republic of Ireland, European Court of Human Rights, I
 
 ##### Maguindanao massacre
 ### [ 24 people are charged with rebellion after 57 people were killed during the Maguindanao massacre in the southern Philippines last month. ](/news/2009/12/9/24-people-are-charged-with-rebellion-after-57-people-were-killed-during-the-maguindanao-massacre-in-the-southern-philippines-last-month.md)
-_Context: Maguindanao massacre, Philippine_
+_Context: Maguindanao massacre, Philippines_
 
 ##### Irish Bishops Conference
 ### [ The Irish Bishops Conference apologises for the sexual abuse suffered by its children after spending the first day of its winter conference examining the Murphy Report. ](/news/2009/12/9/the-irish-bishops-conference-apologises-for-the-sexual-abuse-suffered-by-its-children-after-spending-the-first-day-of-its-winter-conference.md)

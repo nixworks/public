@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/9/index.html)  [JSON](2015/05/9/index.json)  [XML](2015/
 
 ##### Moro Islamic Liberation Front
 ### [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md)
-_Context: Moro Islamic Liberation Front, Philippine, United Bangsamoro Justice Party_
+_Context: Moro Islamic Liberation Front, Philippines, United Bangsamoro Justice Party_
 
 ##### Hattiesburg
 ### [Two police officers are shot dead in the American town of Hattiesburg, Mississippi. ](/news/2015/05/9/two-police-officers-are-shot-dead-in-the-american-town-of-hattiesburg-mississippi.md)
@@ -45,7 +45,7 @@ Ana has weakened but will still continue to soak eastern North Carolina through 
 
 ##### 2015 Pacific typhoon season
 ### [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md)
-_Context: 2015 Pacific typhoon season, Luzon, Philippine_
+_Context: 2015 Pacific typhoon season, Luzon, Philippines_
 
 ##### Naxalite-Maoist insurgency
 ### [Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh-state.md)

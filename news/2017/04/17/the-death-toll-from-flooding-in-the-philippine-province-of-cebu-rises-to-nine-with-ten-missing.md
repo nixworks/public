@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
-##### Philippine
+##### Philippines
 # The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. 
 
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
@@ -16,8 +16,8 @@ The death toll from the flash floods in the province of Cebu has risen to nine, 
 
 ### Related:
 
-1. [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md) _Context: Cebu, Philippine_
-2. [A Canadian man shoots dead two people in a court in Cebu, Philippines, and seriously injures another. ](/news/2013/01/22/a-canadian-man-shoots-dead-two-people-in-a-court-in-cebu-philippines-and-seriously-injures-another.md) _Context: Cebu, Philippine_
-3. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippine_
-4. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippine_
-5. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippine_
+1. [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md) _Context: Cebu, Philippines_
+2. [A Canadian man shoots dead two people in a court in Cebu, Philippines, and seriously injures another. ](/news/2013/01/22/a-canadian-man-shoots-dead-two-people-in-a-court-in-cebu-philippines-and-seriously-injures-another.md) _Context: Cebu, Philippines_
+3. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippines_
+4. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+5. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_

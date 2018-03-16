@@ -21,7 +21,7 @@ _Context: David Lange, New Zealand, New Zealand Prime Minister_
 
 ##### US Soldiers
 ### [ Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md)
-_Context: Iraq, Iraqi insurgency, Tuz Khormato, US Soldiers, roadside bomb_
+_Context: IED, Iraq, Iraqi insurgency, Tuz Khormato, US Soldiers_
 
 ## [Previous Day...](/news/2005/08/12/index.md)
 

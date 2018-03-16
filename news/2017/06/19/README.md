@@ -17,7 +17,7 @@ CINCINNATI (AP) — Otto Warmbier, an American college student who was released 
 
 ##### Kidnappings
 ### [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md)
-_Context: Celebes, Indonesia, Malaysia, Philippine, Sulu Sea, kidnappings, pirate_
+_Context: Celebes, Indonesia, Malaysia, Philippines, Sulu Sea, kidnappings, pirate_
 
 ##### United Kingdom withdrawal from the European Union
 ### [Brexit negotiations begin in Brussels. ](/news/2017/06/19/brexit-negotiations-begin-in-brussels.md)

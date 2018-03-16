@@ -49,7 +49,7 @@ _Context: Elizabeth II, Zara Phillips_
 
 ##### Japanese
 ### [One of the last Japanese soldiers to surrender from World War II, Hiroo Onoda, who surrendered in the Philippines in 1974, dies at the age of 91. ](/news/2014/01/17/one-of-the-last-japanese-soldiers-to-surrender-from-world-war-ii-hiroo-onoda-who-surrendered-in-the-philippines-in-1974-dies-at-the-age-o.md)
-_Context: Hiroo Onoda, Japanese, Philippine, World War II_
+_Context: Hiroo Onoda, Japanese, Philippines, World War II_
 
 ##### Egyptian Muslim Brotherhood
 ### [Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md)

@@ -101,7 +101,7 @@ _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghanistan, ISAF, NATO, roadside bomb_
+_Context: Afghanistan, IED, ISAF, NATO_
 
 ## [Previous Day...](/news/2010/10/13/index.md)
 

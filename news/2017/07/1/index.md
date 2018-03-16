@@ -49,7 +49,7 @@ The overhaul existing laws was carried out at a special midnight session of parl
 
 ##### Freedom of speech in the Philippines
 ### [President of the Philippines Rodrigo Duterte threatens the "Philippine Daily Inquirer" with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time-a.md)
-_Context: 1986 EDSA People Power Revolution, Aquino family, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, Presidency of Rodrigo Duterte, President, Rodrigo Duterte, Vice President of the Philippines, expose_
+_Context: 1986 EDSA People Power Revolution, Aquino family, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, Philippine President, Presidency of Rodrigo Duterte, Rodrigo Duterte, Vice President of the Philippines, expose_
 
 ##### Modena Park 2017
 ### [Italian rock singer Vasco Rossi broke the world record of biggest ticketed concert with 220,000 paying guests hosted at Enzo Ferrari Park in Modena, Italy. (Previous record belonged to a-Ha with 198,000 paying guests, set in 1991 in Rio de Janeiro, Brazil) ](/news/2017/07/1/italian-rock-singer-vasco-rossi-broke-the-world-record-of-biggest-ticketed-concert-with-220-000-paying-guests-hosted-at-enzo-ferrari-park-in.md)

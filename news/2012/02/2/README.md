@@ -55,9 +55,9 @@ _Context: Mexican Army, Michoacn_
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
 _Context: Yemen_
 
-##### Philippine
+##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippine, Umbra Jumdail, Zulkifli bin Hir_
+_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Zulkifli bin Hir_
 
 ## [Previous Day...](/news/2012/02/1/index.md)
 

@@ -15,7 +15,7 @@ _Context: Miami International Airport_
 ### [Malala Yousafzai will be awarded with Honorary Canadian citizenship. ](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.md)
 _Context: Honorary Canadian citizenship, Malala Yousafzai_
 
-##### Panamanian
+##### Panama
 ### [A Panamanian registered ship sinks off the coast of South Korea, killing 9 sailors and leaving 2 others missing. Coast Guard officials rescue another 8 crew members. ](/news/2013/10/16/a-panamanian-registered-ship-sinks-off-the-coast-of-south-korea-killing-9-sailors-and-leaving-2-others-missing-coast-guard-officials-rescu.md)
 (ATTN: RECASTS headline, lead; UPDATES with more information in 3, 5, 7-9 paras) POHANG, South Korea, Oct. 16 (Yonhap) -- Nine foreign crewmembers were killed and two others remain missing after a Panamanian-registered cargo ship sank off the eastern coast of South Korea, the coast guard said Wednes...
 

@@ -69,7 +69,7 @@ It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won 
 
 ##### Bea Rose Santiago
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Bea Rose Santiago, Miss International 2013, Philippine_
+_Context: Bea Rose Santiago, Miss International 2013, Philippines_
 
 ##### Cat Stevens
 ### [Cat Stevens, Hall & Oates, Kiss, Linda Ronstadt, and Nirvana are to be inducted into the Rock and Roll Hall of Fame. ](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.md)

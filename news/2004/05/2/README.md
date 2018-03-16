@@ -19,7 +19,7 @@ Thomas Hamill is tired after his hostage ordeal in Iraq and excited to soon be r
 
 ##### Martn Torrijos
 ### [ Martn Torrijos wins Panama's presidential election. ](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.md)
-_Context: Martn Torrijos, Panamanian, presidential election_
+_Context: Martn Torrijos, Panama, presidential election_
 
 ##### Israel
 ### [ Israel's Likud Party votes in a referendum not to pull out of the Gaza Strip unilaterally. The referendum's defeat is seen as a major blow to the Sharon government. Sharon subsequently says that he will not resign and may modify the plan. ](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.md)

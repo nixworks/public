@@ -55,7 +55,7 @@ A truce reached by Yemen’s government and dissidents, who have been locked in 
 ### [The bodies of ousted Libyan dictator Muammar Gaddafi, his son and advisor Mutassim Gaddafi, and former defence minister Abu-Bakr Yunis Jabr are buried in unmarked graves by the National Transitional Council. ](/news/2011/10/25/the-bodies-of-ousted-libyan-dictator-muammar-gaddafi-his-son-and-advisor-mutassim-gaddafi-and-former-defence-minister-abu-bakr-yunis-jabr.md)
 The bodies of former Libyan leader Muammar Gaddafi, his son and defence minister were buried in a secret location in the desert at dawn, officials say.
 
-##### Philippine
+##### Philippines
 ### [A Philippine civil defence official estimates that approximately 10,000 people in the southern Philippines have fled their homes due to fighting between Abu Sayyaf rebels and government forces. ](/news/2011/10/25/a-philippine-civil-defence-official-estimates-that-approximately-10-000-people-in-the-southern-philippines-have-fled-their-homes-due-to-figh.md)
 ABOUT 10,000 people have fled their homes amid fighting between Muslim rebels and government forces in the southern Philippines, a civil defence official says.
 

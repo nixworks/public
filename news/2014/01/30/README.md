@@ -35,7 +35,7 @@ _Context: Boston Marathon bombing, Capital punishment in the United States, Dzho
 ### [182 inmates escape from a provincial jail in Leyte, Philippines, which was previously affected by Typhoon Haiyan, citing squalid conditions and a lack of food. 148 are recaptured hours later. ](/news/2014/01/30/182-inmates-escape-from-a-provincial-jail-in-leyte-philippines-which-was-previously-affected-by-typhoon-haiyan-citing-squalid-conditions.md)
 Philippine police say 182 inmates complaining of hunger and squalid conditions have escaped from a provincial jail in an eastern province that was devastated by a monster storm in November.
 
-##### Philippine
+##### Philippines
 ### [The Philippines refuses to apologize to Hong Kong for the Manila hostage crisis a day after visa-free access was revoked by the territory. ](/news/2014/01/30/the-philippines-refuses-to-apologize-to-hong-kong-for-the-manila-hostage-crisis-a-day-after-visa-free-access-was-revoked-by-the-territory.md)
 The Philippines has rejected demands from Hong Kong for an apology to victims of a 2010 hostage crisis in Manila and said it regrets sanctions imposed by the Chinese city.
 

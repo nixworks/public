@@ -77,7 +77,7 @@ _Context: Burundi, Pierre Nkurunziza_
 
 ##### His predecessor
 ### [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md)
-_Context: Jejomar Binay, President, Vice President of the Philippines, his predecessor_
+_Context: Jejomar Binay, Philippine President, Vice President of the Philippines, his predecessor_
 
 ##### Sudan
 ### [Sudan releases its opposition leader Hassan al-Turabi after a month and a half. ](/news/2010/06/30/sudan-releases-its-opposition-leader-hassan-al-turabi-after-a-month-and-a-half.md)

@@ -9,7 +9,7 @@ New Brunswick RCMP have confirmed that three officers were shot and killed and t
 
 ##### International Court of Arbitration
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: China, International Court of Arbitration, Philippine, The Hague, court decision, sweeping claim_
+_Context: China, International Court of Arbitration, Philippines, The Hague, court decision, sweeping claim_
 
 ##### Attorney General of Germany
 ### [The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. ](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.md)

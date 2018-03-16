@@ -25,7 +25,7 @@ _Context: Ukraine, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_
 
 ##### Cebu City
 ### [ Cebu leads the "soft-opening" of the 23rd Southeast Asian Games in the Philippines. Games will formally start on November 27, 2005, at Manila's Quirino Grandstand. ](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.md)
-_Context: Cebu City, Manila, Philippine, Southeast Asian Games_
+_Context: Cebu City, Manila, Philippines, Southeast Asian Games_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: German archaeologist Susanne Osthoff is kidnapped in Iraq. ](/news/2005/11/25/conflict-in-iraq-german-archaeologist-susanne-osthoff-is-kidnapped-in-iraq.md)

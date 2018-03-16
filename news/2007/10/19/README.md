@@ -17,7 +17,7 @@ A capsized passenger ferry close to a port on the Indonesian island of Sulawesi 
 
 ##### Explosion
 ### [ An explosion kills up to eight civilians Glorietta Mall in Makati City, PhilippinesJee Ann De Gracia was one of the 11th victim of Bombing. ](/news/2007/10/19/an-explosion-kills-up-to-eight-civilians-glorietta-mall-in-makati-city-philippinesjee-ann-de-gracia-was-one-of-the-11th-victim-of-bombing.md)
-_Context: Glorietta, Makati City, Philippine, explosion_
+_Context: Glorietta, Makati City, Philippines, explosion_
 
 ##### 2007 Karachi bombings
 ### [ 2007 Karachi bombings: The death toll from the bombings rises to 136 with 387 people wounded. ](/news/2007/10/19/2007-karachi-bombings-the-death-toll-from-the-bombings-rises-to-136-with-387-people-wounded.md)
@@ -31,9 +31,9 @@ _Context: Gordon Brown, President of the European Council, Reform Treaty, Tony B
 ### [ Sam Brownback, Senator for Kansas, pulls out of the United States presidential election, 2008 due to a lack of support and funds. ](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.md)
 Republican Sen. Sam Brownback abandoned his 2008 presidential bid Friday, his White House aspirations dashed by a lack of money and a failure to gain traction nationally
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md)
-_Context: 2007 United States Air Force nuclear weapons incident, B-52, Barksdale Air Force Base, Louisiana, Minot Air Force Base, North Dakota, United States Air Force, bomber_
+_Context: 2007 United States Air Force nuclear weapons incident, B-52, Barksdale Air Force Base, Louisiana, Minot Air Force Base, North Dakota, U.S. Air Force, bomber_
 
 ##### Village
 ### [ Tens of thousands of people are evacuated from villages near Mount Kelud on Java as the volcano threatens to erupt. ](/news/2007/10/19/tens-of-thousands-of-people-are-evacuated-from-villages-near-mount-kelud-on-java-as-the-volcano-threatens-to-erupt.md)

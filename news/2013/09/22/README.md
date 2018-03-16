@@ -13,7 +13,7 @@ A Chinese court sentences disgraced former top politician Bo Xilai to life after
 
 ##### Hong Kong
 ### [Hong Kong braces for the impact of Typhoon Usagi after two people are killed in the Philippines. ](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.md)
-_Context: Hong Kong, Philippine, Typhoon Usagi_
+_Context: Hong Kong, Philippines, Typhoon Usagi_
 
 ##### 65th Primetime Emmy Awards
 ### [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md)

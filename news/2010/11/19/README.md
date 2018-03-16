@@ -27,9 +27,9 @@ The Democratic Party which has dominated Cook Islands politics for the last deca
 ### [Major fishing nations meet in Paris to discuss quota limits for fishing of the critically endangered Atlantic bluefin tuna; many nations are urging that lower fishing rates are needed.](/news/2010/11/19/major-fishing-nations-meet-in-paris-to-discuss-quota-limits-for-fishing-of-the-critically-endangered-atlantic-bluefin-tuna-many-nations-are.md)
 Fishing nations came under fresh pressure on Friday to cut Atlantic bluefin tuna quotas as negotiators got into the thick of annual wrangling over limits at talks in Paris.
 
-##### Panamanian
+##### Panama
 ### [Panama grants asylum to Maria del Pilar Hurtado, the former head of Colombia's Administrative Department of Security wanted for allegedly illegal wiretapping. ](/news/2010/11/19/panama-grants-asylum-to-maraa-del-pilar-hurtado-the-former-head-of-colombia-s-administrative-department-of-security-wanted-for-allegedly-i.md)
-_Context: Administrative Department of Security, Colombia, Maria del Pilar Hurtado, Panamanian, wiretapped_
+_Context: Administrative Department of Security, Colombia, Maria del Pilar Hurtado, Panama, wiretapped_
 
 ##### Jakarta
 ### [Demonstrators outside the Saudi embassy in Jakarta demand justice for migrant workers after a Saudi Arabian employer kills an Indonesian maid and another maid was severely beaten by her Saudi employer; the Indonesian Foreign Minister Marty Natalegawa summons the Saudi Arabian ambassador to protest. ](/news/2010/11/19/demonstrators-outside-the-saudi-embassy-in-jakarta-demand-justice-for-migrant-workers-after-a-saudi-arabian-employer-kills-an-indonesian-mai.md)

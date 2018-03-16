@@ -19,7 +19,7 @@ _Context: 2015-16 Zika virus epidemic, Centre for Health Protection, Hong Kong, 
 ### [The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. ](/news/2016/08/25/the-search-continues-for-survivors-in-central-italy-with-the-death-toll-now-241-an-aftershock-of-4-7-mms-hits-further-east-in-the-province.md)
 The death toll from the central Italy earthquake reaches 250, amid fears many more bodies remain buried in the rubble.
 
-##### Philippine
+##### Philippines
 ### [Miners in the Philippines criticize the government after a crackdown on mining closed more nickel and copper mines. ](/news/2016/08/25/miners-in-the-philippines-criticize-the-government-after-a-crackdown-on-mining-closed-more-nickel-and-copper-mines.md)
 Philippine miners claim the government’s environmental crackdown is a “demolition campaign” against mineral producers and are seeking to meet President Rodrigo Duterte amid a spate of shutdowns stemming from the probe, an industry official said.
 

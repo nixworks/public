@@ -3,7 +3,7 @@ Formats: [HTML](2016/02/26/index.html)  [JSON](2016/02/26/index.json)  [XML](201
 
 ## [2016-02-26](/news/2016/02/26/index.md)
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association's annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-associationas-annual-air-warfar.md)
 It has been designated the B-21.
 

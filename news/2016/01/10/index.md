@@ -21,7 +21,7 @@ Poland criticises German politicians for what it calls &quot;anti-Polish&quot; c
 
 ##### Nuclear test
 ### [A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea-close-to-the-korean-demilitariz.md)
-_Context: American B-52 strategic bomber, DMZ, Guam, North Korea, South Korea, United States Air Force, nuclear test_
+_Context: American B-52 strategic bomber, DMZ, Guam, North Korea, South Korea, U.S. Air Force, nuclear test_
 
 ##### Nipigon River Bridge
 ### [The two-month-old Nipigon River Bridge near Nipigon, Ontario is closed to traffic after a mechanical failure, severing the Trans-Canada Highway and forcing a detour into the United States. ](/news/2016/01/10/the-two-month-old-nipigon-river-bridge-near-nipigon-ontario-is-closed-to-traffic-after-a-mechanical-failure-severing-the-trans-canada-high.md)

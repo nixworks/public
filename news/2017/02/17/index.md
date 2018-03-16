@@ -13,7 +13,7 @@ Scott Pruitt has attracted scorn from Democrats and environmentalists and praise
 
 ##### Leila de Lima
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
-_Context: Leila de Lima, Philippine, Vitaliano Aguirre II, drug crackdown_
+_Context: Leila de Lima, Philippines, Vitaliano Aguirre II, drug crackdown_
 
 ##### Cristina
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)

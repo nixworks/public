@@ -11,7 +11,7 @@ The private discussions will convene in Ryan&rsquo;s office suite shortly after 
 ### [Martin McGuinness of Sinn Fein resigns as the NI deputy first minister in protest of handling by the Democratic Unionist Party of a failed energy scheme that cost Northern Irish taxpayers GBP490 million. His decision will likely lead to a snap election. ](/news/2017/01/9/martin-mcguinness-of-sinn-fa-c-in-resigns-as-the-ni-deputy-first-minister-in-protest-of-handling-by-the-democratic-unionist-party-of-a-failed.md)
 Martin McGuinness steps down in protest against the handling of a botched energy scheme - a move likely to spark a snap election in Northern Ireland.
 
-##### President
+##### Philippine President
 ### [The cabinet of Philippine President Rodrigo Duterte investigates an email leak that allegedly indicates the involvement of the vice president Leni Robredo in attempts to overthrow Duterte. ](/news/2017/01/9/the-cabinet-of-philippine-president-rodrigo-duterte-investigates-an-email-leak-that-allegedly-indicates-the-involvement-of-the-vice-presiden.md)
 Malacanang is investigating the alleged &quot;LeniLeaks&quot; controversy that shows a supposed plot by supporters of Vice President Leni Robredo to discredit and eventually unseat President Rodrigo Duterte. 
 

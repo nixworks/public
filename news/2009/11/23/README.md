@@ -21,7 +21,7 @@ Asylum seekers involved in a wild brawl on Christmas Island are being threatened
 
 ##### Maguindanao
 ### [ 21 bodies are discovered so far after a convoy of around 50 people including politicians, journalists and supporters is hijacked by dozens of armed gunmen in Maguindanao, southern Philippines. ](/news/2009/11/23/21-bodies-are-discovered-so-far-after-a-convoy-of-around-50-people-including-politicians-journalists-and-supporters-is-hijacked-by-dozens.md)
-_Context: Maguindanao, Philippine_
+_Context: Maguindanao, Philippines_
 
 ##### Yellow fever
 ### [ The world's largest mass immunisation against yellow fever begins in West Africa, targeting 12 million people. ](/news/2009/11/23/the-world-s-largest-mass-immunisation-against-yellow-fever-begins-in-west-africa-targeting-12-million-people.md)
@@ -53,7 +53,7 @@ _Context: CERN, Geneva, Large Hadron Collider, Swiss_
 
 ##### Maguindanao massacre
 ### [ Forty three people, including a local politician and about a dozen journalists, are killed in a massacre in Maguindanao, Philippines.](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.md)
-_Context: Maguindanao, Maguindanao massacre, Philippine_
+_Context: Maguindanao, Maguindanao massacre, Philippines_
 
 ## [Previous Day...](/news/2009/11/22/index.md)
 

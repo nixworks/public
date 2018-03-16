@@ -13,7 +13,7 @@ _Context: Ahmed Qurei, Palestinian Authority_
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md)
-_Context: Angelo de la Cruz, Gloria Arroyo, Iraq, Philippine, President_
+_Context: Angelo de la Cruz, Gloria Arroyo, Iraq, Philippine President, Philippines_
 
 ##### Prime Minister of Canada
 ### [ Canadian Prime minister Paul Martin announces his new cabinet, which includes new faces such as ice hockey great Ken Dryden and former BC premier Ujjal Dosanjh. ](/news/2004/07/20/canadian-prime-minister-paul-martin-announces-his-new-cabinet-which-includes-new-faces-such-as-ice-hockey-great-ken-dryden-and-former-bc-p.md)

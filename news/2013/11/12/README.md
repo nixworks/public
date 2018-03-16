@@ -15,9 +15,9 @@ _Context: Jon Corzine, MF Global, New Jersey Governor, U.S. District Court, Vict
 ### [Hawaii becomes the 15th state in the United States to legalize same-sex marriage. ](/news/2013/11/12/hawaii-becomes-the-15th-state-in-the-united-states-to-legalize-same-sex-marriage.md)
 The Aloha State is poised to allow gay couples to get married beginning Dec. 2.
 
-##### Philippine
+##### Philippines
 ### [The Philippines faces a health crisis in the aftermath of Typhoon Haiyan with the official death toll at 1,774 and expected to rise quickly. ](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.md)
-_Context: Philippine, Typhoon Haiyan (Yolanda), health_
+_Context: Philippines, Typhoon Haiyan (Yolanda), health_
 
 ##### Stock exchanges
 ### [U.S. stock exchanges jointly announce a plan to improve the technical functioning of their markets, in the face of recent high-profile glitches such as the trading halt in Nasdaq in August. ](/news/2013/11/12/u-s-stock-exchanges-jointly-announce-a-plan-to-improve-the-technical-functioning-of-their-markets-in-the-face-of-recent-high-profile-glitc.md)

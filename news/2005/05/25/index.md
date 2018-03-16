@@ -19,9 +19,9 @@ _Context: NATO, Radovan Karadzic_
 ### [ In Bolivia, Commander-in-chief of Bolivian army, Luis Aranda, refutes claims that military is planning a coup. ](/news/2005/05/25/in-bolivia-commander-in-chief-of-bolivian-army-luis-aranda-refutes-claims-that-military-is-planning-a-coup.md)
 _Context: Bolivia, Luis Aranda, coup_
 
-##### Panamanian
+##### Panama
 ### [ In Panama, police has clashed for three days with demonstrators that protest new pension reforms of president Martin Torrijos ](/news/2005/05/25/in-panama-police-has-clashed-for-three-days-with-demonstrators-that-protest-new-pension-reforms-of-president-martan-torrijos.md)
-_Context: Martin Torrijos, Panamanian, pension_
+_Context: Martin Torrijos, Panama, pension_
 
 ##### Canada
 ### [ Accused Canadian serial killer Robert Pickton is charged with a total of 27 murders ](/news/2005/05/25/accused-canadian-serial-killer-robert-pickton-is-charged-with-a-total-of-27-murders.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/22/the-philippines-becomes-the-first-country-in-as
 
 ### [2015-12-22](/news/2015/12/22/index.md)
 
-##### Philippine
+##### Philippines
 # The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. 
 
 Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being reviewed by around 20 countries in Asia and Latin America
@@ -17,8 +17,8 @@ Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being rev
 
 ### Related:
 
-1. [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md) _Context: Asia, Philippine_
+1. [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md) _Context: Asia, Philippines_
 2. [Eleven countries in Asia, North America, Oceania, and South America sign the revised Trans-Pacific Partnership trade agreement. ](/news/2018/03/8/eleven-countries-in-asia-north-america-oceania-and-south-america-sign-the-revised-trans-pacific-partnership-trade-agreement.md) _Context: Asia_
 3. [Citing national security reasons, U.S. President Donald Trump imposes tariffs of 25% on steel and 10% on aluminum imported from most countries. Canada and Mexico are provisionally exempt pending NAFTA renegotiations. The tariffs will take effect on March 23. ](/news/2018/03/8/citing-national-security-reasons-u-s-president-donald-trump-imposes-tariffs-of-25-on-steel-and-10-on-aluminum-imported-from-most-countri.md) _Context: Mexico_
-4. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippine_
+4. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippines_
 5. [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md) _Context: Mexico_

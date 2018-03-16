@@ -23,9 +23,9 @@ _Context: Aceh, Indonesia, earthquake_
 ### [ A special prosecutor clears South Korean president-elect Lee Myung-bak of fraud allegations. ](/news/2008/02/21/a-special-prosecutor-clears-south-korean-president-elect-lee-myung-bak-of-fraud-allegations.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
-##### United States Navy
+##### U.S. Navy
 ### [ The United States Navy shoots down USA 193, a spy satellite in a decaying orbit, over the Pacific Ocean. ](/news/2008/02/21/the-united-states-navy-shoots-down-usa-193-a-spy-satellite-in-a-decaying-orbit-over-the-pacific-ocean.md)
-_Context: South Pacific Ocean, USA 193, United States Navy_
+_Context: South Pacific Ocean, U.S. Navy, USA 193_
 
 ##### Serbian
 ### [ At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md)

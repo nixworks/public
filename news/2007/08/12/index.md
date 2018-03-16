@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/12/index.html)  [JSON](2007/08/12/index.json)  [XML](200
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, the President of the Philippines, sends the chief of the army Romeo Tolentino to Zamboanga in the southern Philippines to direct operations against militants. ](/news/2007/08/12/gloria-arroyo-the-president-of-the-philippines-sends-the-chief-of-the-army-romeo-tolentino-to-zamboanga-in-the-southern-philippines-to-di.md)
-_Context: Gloria Arroyo, Philippine, President, Romeo Tolentino, Zamboanga City_
+_Context: Gloria Arroyo, Philippine President, Philippines, Romeo Tolentino, Zamboanga City_
 
 ##### Fossil
 ### [ Fossilised remains of an ancient cypress forest estimated at 8 million years old are discovered in an open cast coal mine in Bkkbrny, Hungary. ](/news/2007/08/12/fossilised-remains-of-an-ancient-cypress-forest-estimated-at-8-million-years-old-are-discovered-in-an-open-cast-coal-mine-in-bukkabrany-hu.md)

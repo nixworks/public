@@ -65,7 +65,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 
 ##### Cebu Pacific
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Cebu Pacific, Davao City, Manila, Philippine_
+_Context: Cebu Pacific, Davao City, Manila, Philippines_
 
 ##### 
 ### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)

@@ -23,13 +23,13 @@ _Context: life imprisonment, riots_
 ### [Indian Maoists release Italian hostage Paolo Bosusco after holding him for nearly a month. ](/news/2012/04/12/indian-maoists-release-italian-hostage-paolo-bosusco-after-holding-him-for-nearly-a-month.md)
 After being in captivity for nearly a month, Italian national Paolo Bosusco has been released by Maoists in Odisha today. Mr Bosusco, 51, was handed over by the Maoists to their mediator Dandapani Mohanty and some journalists in the forest of tribal-dominated Kandhamal district. On his arrival in th...
 
-##### Philippine
+##### Philippines
 ### [The Philippines sends another ship to join the current ship it has involved in a confrontation with two Chinese surveillance ships on the South China Sea, although both sides claim to be committed to a peaceful solution. ](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.md)
 The Philippines says it has withdrawn its largest warship from a stand-off with Chinese vessels in the South China Sea, as both sides pledge diplomacy.
 
 ##### Japan
 ### [Japan and the Philippines are on alert for the North Korean rocket launch over the next few days. ](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.md)
-_Context: Japan, North Korea, Philippine_
+_Context: Japan, North Korea, Philippines_
 
 ##### Google
 ### [Google says that first quarter earnings rose over 24%, with net profit increasing to $8.14 billion. ](/news/2012/04/12/google-says-that-first-quarter-earnings-rose-over-24-with-net-profit-increasing-to-8-14-billion.md)

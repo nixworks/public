@@ -23,7 +23,7 @@ THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent
 ### [A stolen dinosaur skeleton is returned to Mongolia. ](/news/2013/05/6/a-stolen-dinosaur-skeleton-is-returned-to-mongolia.md)
 It&apos;s bad enough to go from roaming the earth as a fearsome predator to being uprooted and dragged across three continents, but to end up in a basement in Queens? No wonder the Tyrannosaurus Bataar was broken up. Literally. But not for long. Prosecutors and customs officials Monday loaded up box...
 
-##### United States Air Force
+##### U.S. Air Force
 ### [U.S. Air Force Lieutenant Colonel Jeff Krusinski, who was in charge of the Sexual Assault Prevention and Response Office, is arrested on charges of sexual assault. ](/news/2013/05/6/u-s-air-force-lieutenant-colonel-jeff-krusinski-who-was-in-charge-of-the-sexual-assault-prevention-and-response-office-is-arrested-on-cha.md)
 An Air Force officer in charge of the Sexual Assault Prevention and Response Office was arrested and charged with sexual battery over the weekend in a D.C. suburb.
 

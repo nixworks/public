@@ -25,7 +25,7 @@ _Context: Avian flu virus, University of Wisconsin-Madison, bird flu_
 
 ##### Bankruptcy
 ### [ A bankruptcy court judge in New York has authorized the creation of an equity holders' committee in connection with the reorganization of auto parts maker Delphi Corporation, ](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-authorized-the-creation-of-an-equity-holders-committee-in-connection-with-the-reorganization-of-a.md)
-_Context: Chapter 11, Delphi Corporation, New York, bankruptcy_
+_Context: Delphi Corporation, New York, bankruptcy, chapter 11 bankruptcy_
 
 ## [Previous Day...](/news/2006/03/21/index.md)
 

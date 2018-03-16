@@ -9,7 +9,7 @@ Scientists have detected a new particle at the Large Hadron Collider at Cern
 
 ##### Supreme Court of the Philippines
 ### [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md)
-_Context: Philippine, President, Rodrigo Duterte, Supreme Court of the Philippines, martial law_
+_Context: Philippine President, Philippines, Rodrigo Duterte, Supreme Court of the Philippines, martial law_
 
 ##### Elections in Vanuatu
 ### [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md)

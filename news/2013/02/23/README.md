@@ -29,7 +29,7 @@ _Context: Australia, Bellingen, Kempsey, NSW, Port Macquarie, flooding_
 
 ##### United States
 ### [The United States Air Force grounds its entire $400 billion fleet of 51 F-35 jets due to a major engine technical issue. During a routine inspection of the aircraft, maintenance personnel detected a cracked engine blade. ](/news/2013/02/23/the-united-states-air-force-grounds-its-entire-400-billion-fleet-of-51-f-35-jets-due-to-a-major-engine-technical-issue-during-a-routine-in.md)
-_Context: F-35, United States, United States Air Force, United States dollars, aircraft, engine, grounds_
+_Context: F-35, U.S. Air Force, United States, United States dollars, aircraft, engine, grounds_
 
 ##### Iran
 ### [Iran announces that it has discovered new uranium deposits and that it is planning to build 16 new nuclear power plants. ](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.md)

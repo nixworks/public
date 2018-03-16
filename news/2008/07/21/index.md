@@ -7,7 +7,7 @@ Formats: [HTML](2008/07/21/index.html)  [JSON](2008/07/21/index.json)  [XML](200
 ### [ Pope Benedict XVI holds a special mass in Sydney for victims of sexual abuse by Roman Catholic Church clergy. ](/news/2008/07/21/pope-benedict-xvi-holds-a-special-mass-in-sydney-for-victims-of-sexual-abuse-by-roman-catholic-church-clergy.md)
 Benedict XVI holds private mass with victims of clergy sex abuse in Australia.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ A United States Air Force B-52 bomber crashes near Guam in the western Pacific Ocean. ](/news/2008/07/21/a-united-states-air-force-b-52-bomber-crashes-near-guam-in-the-western-pacific-ocean.md)
 All six crew members aboard a B-52 bomber that crashed off Guam were killed, the Air Force said Wednesday.
 

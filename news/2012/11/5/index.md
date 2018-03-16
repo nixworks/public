@@ -19,7 +19,7 @@ _Context: British Prime Minister, Conservative Party, David Cameron_
 ### [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asiaaeurope-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md)
 _Context: Asia-Europe Meeting, China, Choummaly Sayasone, Laos, Vientiane, Wen Jiabao_
 
-##### United States Navy
+##### U.S. Navy
 ### [The biennial naval training exercise Keen Sword between the United States Navy and the Japan Maritime Self-Defense Force commences off the shore off Okinawa amid tension with China. ](/news/2012/11/5/the-biennial-naval-training-exercise-keen-sword-between-the-united-states-navy-and-the-japan-maritime-self-defense-force-commences-off-the-s.md)
 The US and Japan begin joint military exercises, amid simmering tensions with China over disputed islands in the East China Sea.
 

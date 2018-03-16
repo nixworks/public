@@ -27,7 +27,7 @@ _Context: Costa Rica, Santa Elena de Monteverde, hostage_
 ### [ Syria says its troops will leave Lebanon before parliamentary elections in May ](/news/2005/03/9/syria-says-its-troops-will-leave-lebanon-before-parliamentary-elections-in-may.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, 29 children from San Jose Elementary School die from food poisoning after eating cassava balls. ](/news/2005/03/9/in-the-philippines-29-children-from-san-jose-elementary-school-die-from-food-poisoning-after-eating-cassava-balls.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

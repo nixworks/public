@@ -33,7 +33,7 @@ _Context: Buddhists, Chinese flag, Communist Party of China, Tibet_
 
 ##### ISIL
 ### [Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostly-police-officers-on-the-border-with-s.md)
-_Context: Anbar province, ISIL, Iraq, Iraqi police, Syria_
+_Context: Al Anbar Governorate, ISIL, Iraq, Iraqi police, Syria_
 
 ##### War in Afghanistan (2015-present)
 ### [Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-city-of-mazar-e-sharif.md)

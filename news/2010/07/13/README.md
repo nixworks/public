@@ -27,9 +27,9 @@ Torrential rains in southwestern China triggered landslides that have killed 17 
 ### [The company behind the Green Dam Youth Escort internet filtering software in China has closed its operation, due to lack of funding. ](/news/2010/07/13/the-company-behind-the-green-dam-youth-escort-internet-filtering-software-in-china-has-closed-its-operation-due-to-lack-of-funding.md)
 _Context: Green Dam Youth Escort_
 
-##### Philippine
+##### Philippines
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
-_Context: Manila, Philippine_
+_Context: Manila, Philippines_
 
 ##### United States Senate
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)

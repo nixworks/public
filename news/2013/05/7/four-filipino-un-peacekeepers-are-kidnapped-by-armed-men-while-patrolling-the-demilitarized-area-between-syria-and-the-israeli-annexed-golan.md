@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/7/four-filipino-un-peacekeepers-are-kidnapped-by-a
 
 ### [2013-05-7](/news/2013/05/7/index.md)
 
-##### Philippine
+##### Philippines
 # Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. 
 
 Four Filipino UN peacekeepers are seized while patrolling the demilitarised area between Syria and the Israeli-occupied Golan Heights.
@@ -23,8 +23,8 @@ Four Filipino UN peacekeepers are seized while patrolling the demilitarised area
 
 ### Related:
 
-1. [Thirty-two United Nations peacekeepers from the Philippines were evacuated under fire from the Golan Heights border checkpoint between Syria and Israel, while others remain under fire from groups including the Al-Nusra Front. ](/news/2014/08/31/thirty-two-united-nations-peacekeepers-from-the-philippines-were-evacuated-under-fire-from-the-golan-heights-border-checkpoint-between-syria.md) _Context: Golan Heights, Philippine, United Nations_
+1. [Thirty-two United Nations peacekeepers from the Philippines were evacuated under fire from the Golan Heights border checkpoint between Syria and Israel, while others remain under fire from groups including the Al-Nusra Front. ](/news/2014/08/31/thirty-two-united-nations-peacekeepers-from-the-philippines-were-evacuated-under-fire-from-the-golan-heights-border-checkpoint-between-syria.md) _Context: Golan Heights, Philippines, United Nations_
 2. [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _Context: Golan Heights, United Nations, peacekeepers_
 3. [Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/three-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-the-united-nations.md) _Context: Golan Heights, Israel, United Nations_
-4. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippine, United Nations_
+4. [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md) _Context: Philippines, United Nations_
 5. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations, peacekeepers_

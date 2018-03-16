@@ -59,7 +59,7 @@ _Context: Rwanda, Victoire Ingabire, genocide, terrorist_
 ### [South Korea claims it has uncovered a North Korean plot to assassinate the most senior official to defect from the North to the South, Hwang Jang-yop. ](/news/2010/04/21/south-korea-claims-it-has-uncovered-a-north-korean-plot-to-assassinate-the-most-senior-official-to-defect-from-the-north-to-the-south-hwang.md)
 Two North Korean spies have been arrested for plotting to assassinate a high-ranking North Korean defector, the prosecution in Seoul announced Tuesday.
 
-##### Philippine
+##### Philippines
 ### [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md)
 More suspects in Philippines massacre indicted as suspected ring-leader denies guilt.
 

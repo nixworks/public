@@ -29,7 +29,7 @@ _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, s
 
 ##### His predecessor
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
-_Context: Manila hostage crisis, President, his predecessor_
+_Context: Manila hostage crisis, Philippine President, his predecessor_
 
 ##### United Kingdom
 ### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)

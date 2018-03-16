@@ -7,9 +7,9 @@ Formats: [HTML](2009/12/5/index.html)  [JSON](2009/12/5/index.json)  [XML](2009/
 ### [ Six doctors in the United Kingdom are taking legal action to demand a formal inquest into the death of government scientist David Christopher Kelly. ](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.md)
 _Context: David Christopher Kelly_
 
-##### President
+##### Philippine President
 ### [ The President of the Philippines Gloria Macapagal-Arroyo declares martial law in Maguindanao following the Maguindanao massacre. ](/news/2009/12/5/the-president-of-the-philippines-gloria-macapagal-arroyo-declares-martial-law-in-maguindanao-following-the-maguindanao-massacre.md)
-_Context: Gloria Macapagal-Arroyo, Maguindanao, Maguindanao massacre, President, martial law_
+_Context: Gloria Macapagal-Arroyo, Maguindanao, Maguindanao massacre, Philippine President, martial law_
 
 ##### Guinea
 ### [ Guinea's vice-president and defence minister Sekouba Konat of the ruling National Council for Democracy and Development takes charge of the country after leader Moussa Dadis Camara was shot in an assassination attempt. ](/news/2009/12/5/guinea-s-vice-president-and-defence-minister-sekouba-konate-of-the-ruling-national-council-for-democracy-and-development-takes-charge-of-th.md)

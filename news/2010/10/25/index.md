@@ -15,9 +15,9 @@ _Context: ABC1, John Howard, Prime Minister, Q&A_
 ### [Voters across all municipalities in Ontario go to the polls for the Ontario municipal elections, 2010. ](/news/2010/10/25/voters-across-all-municipalities-in-ontario-go-to-the-polls-for-the-ontario-municipal-elections-2010.md)
 _Context: Ontario, Ontario municipal elections, 2010_
 
-##### Philippine
+##### Philippines
 ### [Voters in Philippines go to the polls for the Philippine barangay and Sangguniang Kabataan elections. ](/news/2010/10/25/voters-in-philippines-go-to-the-polls-for-the-philippine-barangay-and-sangguniang-kabataan-elections.md)
-_Context: Philippine, Philippine barangay and Sangguniang Kabataan elections_
+_Context: Philippine barangay and Sangguniang Kabataan elections, Philippines_
 
 ##### Piran
 ### [Voters in Piran, Slovenia elect Ghanaian-born Peter Bossman as its mayor, the first time a person of African descent has been elected mayor in any Slovenian cities and towns. ](/news/2010/10/25/voters-in-piran-slovenia-elect-ghanaian-born-peter-bossman-as-its-mayor-the-first-time-a-person-of-african-descent-has-been-elected-mayor.md)

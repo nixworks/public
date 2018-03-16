@@ -19,9 +19,9 @@ Disgraced Barnsley Central MP resigns days before he is due to be sentenced for 
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
 _Context: Chancellor of the Exchequer, George Osborne, United Kingdom, tax_
 
-##### Philippine
+##### Philippines
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
-_Context: Angelo Reyes, Philippine, suicide_
+_Context: Angelo Reyes, Philippines, suicide_
 
 ##### Protesters
 ### [The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-crowds-the-biggest-yet.md)

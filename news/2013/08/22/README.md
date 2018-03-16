@@ -25,7 +25,7 @@ _Context: Monterey Park, California_
 
 ##### Typhoon Nari
 ### [Severe tropical storm Trami arrives in southern China after killing seventeen people in the Philippines. ](/news/2013/08/22/severe-tropical-storm-trami-arrives-in-southern-china-after-killing-seventeen-people-in-the-philippines.md)
-_Context: China, Philippine, Typhoon Nari_
+_Context: China, Philippines, Typhoon Nari_
 
 ##### NASDAQ
 ### [The American electronic stock exchange NASDAQ shuts down for 3 hours due to a computer problem. ](/news/2013/08/22/the-american-electronic-stock-exchange-nasdaq-shuts-down-for-3-hours-due-to-a-computer-problem.md)

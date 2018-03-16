@@ -29,7 +29,7 @@ _Context: Emperor Akihito, Japan, Japanese Prime Minister, Naoto Kan_
 
 ##### Noynoy Aquino
 ### [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md)
-_Context: Joseph Estrada, Noynoy Aquino, Philippine, Philippine presidential election, President_
+_Context: Joseph Estrada, Noynoy Aquino, Philippine President, Philippine presidential election, Philippines_
 
 ##### Cocaine
 ### [At least 2 tonnes of cocaine worth around US$1 billion bound for Europe is seized in The Gambia. ](/news/2010/06/8/at-least-2-tonnes-of-cocaine-worth-around-us-1-billion-bound-for-europe-is-seized-in-the-gambia.md)

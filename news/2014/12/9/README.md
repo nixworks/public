@@ -31,9 +31,9 @@ Former rugby league star Craig Field is found guilty of killing a man outside a 
 ### [Al Qaeda in the Islamic Maghreb release Serge Lazarevic, a French hostage seized three years ago in Mali. ](/news/2014/12/9/al-qaeda-in-the-islamic-maghreb-release-serge-lazarevic-a-french-hostage-seized-three-years-ago-in-mali.md)
 President Fran&#231;ois Hollande said Serge Lazarevic, kidnapped in Mali, had been the last French hostage anywhere in the world.
 
-##### Philippine
+##### Philippines
 ### [Another bomb explodes (the previous was November 6, 2014) on a passenger bus, killing at least 11 people and injuring 21 in the southern Philippines province of Bukidnon. ](/news/2014/12/9/another-bomb-explodes-the-previous-was-november-6-2014-on-a-passenger-bus-killing-at-least-11-people-and-injuring-21-in-the-southern-phi.md)
-_Context: Bukidnon, Philippine_
+_Context: Bukidnon, Philippines_
 
 ##### Turkish Army
 ### [Three Turkish Army soldiers die by gunfire in the town of Ceylanpinar. The local Turkish governor begins an investigation of whether the gunfire came from the Syrian side of the border. ](/news/2014/12/9/three-turkish-army-soldiers-die-by-gunfire-in-the-town-of-ceylanpinar-the-local-turkish-governor-begins-an-investigation-of-whether-the-gun.md)

@@ -35,9 +35,9 @@ Six men in the UK have been charged with terrorism offences a week after they we
 ### [Tuvaluan Prime Minister Willy Telavi signs an agreement to establish diplomatic relations with Abkhazia during an official visit to Sukhumi. ](/news/2011/09/26/tuvaluan-prime-minister-willy-telavi-signs-an-agreement-to-establish-diplomatic-relations-with-abkhazia-during-an-official-visit-to-sukhumi.md)
 _Context: Abkhazia, Prime Minister of Tuvalu, Sukhumi, Tuvalu, Willy Telavi, diplomatic relations_
 
-##### Philippine
+##### Philippines
 ### [More than 100,000 people in the Philippines are evacuated ahead of Typhoon Nesat, with Albay province lying directly in the storm's pathway. ](/news/2011/09/26/more-than-100-000-people-in-the-philippines-are-evacuated-ahead-of-typhoon-nesat-with-albay-province-lying-directly-in-the-storm-s-pathway.md)
-_Context: 2011 Pacific typhoon season, Albay Province, Philippine_
+_Context: 2011 Pacific typhoon season, Albay Province, Philippines_
 
 ##### Asia
 ### [Asian and European stock markets open lower in response to the ongoing sovereign debt crisis in Europe. ](/news/2011/09/26/asian-and-european-stock-markets-open-lower-in-response-to-the-ongoing-sovereign-debt-crisis-in-europe.md)

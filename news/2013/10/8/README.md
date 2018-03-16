@@ -27,7 +27,7 @@ North Korea said on Tuesday its military would be put on high alert and be ready
 ### [At least four people are killed and hundreds of thousands of people evacuated as Typhoon Fitow hit eastern China yesterday. ](/news/2013/10/8/at-least-four-people-are-killed-and-hundreds-of-thousands-of-people-evacuated-as-typhoon-fitow-hit-eastern-china-yesterday.md)
 Four people were killed and hundreds of thousands evacuated after Typhoon Fitow hit eastern China, destroying houses and farmlands and closing ports and airports.
 
-##### Philippine
+##### Philippines
 ### [Heavy flooding in the Philippines city of Zamboanga leads to thousands of families being displaced and schools and most government offices being closed. ](/news/2013/10/8/heavy-flooding-in-the-philippines-city-of-zamboanga-leads-to-thousands-of-families-being-displaced-and-schools-and-most-government-offices-b.md)
 MANILA &ndash; Classes and work in government offices in Zamboanga City were suspended Tuesday due to continuous rains and severe flooding.
 

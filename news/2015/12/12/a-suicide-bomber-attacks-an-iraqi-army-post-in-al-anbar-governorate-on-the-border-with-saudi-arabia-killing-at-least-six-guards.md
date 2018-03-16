@@ -20,7 +20,7 @@ Formats: [HTML](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-
 
 ### Related:
 
-1. [The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. ](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.md) _Context: Anbar province, Iraqi Army, Iraqi Civil War (2014-present)_
+1. [The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. ](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.md) _Context: Al Anbar Governorate, Iraqi Army, Iraqi Civil War (2014-present)_
 2. [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_
 3. [The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. ](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-the-main-government-building-in-mosul.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_
 4. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: Iraqi Army, Iraqi Civil War (2014-present)_

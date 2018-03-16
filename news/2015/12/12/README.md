@@ -65,7 +65,7 @@ Syria has suffered another day of death and destruction. This time in the centra
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md)
-_Context: Anbar province, Iraqi Army, Iraqi Civil War (2014-present), Saudi Arabia, suicide bomber_
+_Context: Al Anbar Governorate, Iraqi Army, Iraqi Civil War (2014-present), Saudi Arabia, suicide bomber_
 
 ## [Previous Day...](/news/2015/12/11/index.md)
 

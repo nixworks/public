@@ -59,7 +59,7 @@ Move comes as Turkey says it should not be expected to become a &lsquo;concentra
 ### [Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks. In a major teaching document in June, the encyclical Laudato Si' (Latin: Praised be), Francis denounced what he called the "structurally perverse" fossil fuel-based world economy that exploits the poor and destroys the habitability of the Earth for humans. ](/news/2015/10/19/pope-francis-encourages-bishops-from-around-the-world-to-sign-an-appeal-to-world-leaders-meeting-in-paris-next-month-for-crucial-climate-c.md)
 _Context: 2015 United Nations Climate Change Conference, Laudato Si', Paris, Pope Francis, climate change, encyclical, fossil fuel, habitable, world economy, world leaders_
 
-##### United States Navy
+##### U.S. Navy
 ### [The United States Navy and the Japanese Maritime Self-Defense Force held a triennial fleet review off Tokyo Bay. Prime Minister Shinzo Abe became the first sitting Japanese leader to board a U.S. aircraft carrier when he visited the USS "Ronald Reagan". ](/news/2015/10/19/the-united-states-navy-and-the-japanese-maritime-self-defense-force-held-a-triennial-fleet-review-off-tokyo-bay-prime-minister-shinzo-abe-b.md)
 Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to set foot on a U.S. aircraft carrier when he boarded the USS Ronald Reagan,
 

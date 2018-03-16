@@ -11,9 +11,9 @@ _Context: Afghanistan, Blackwater Worldwide, Robert Gates, United States, United
 ### [Iceland holds a referendum about compensating the United Kingdom and the Netherlands after the collapse of the Icesave bank, with a 95% "no" vote recorded. ](/news/2010/03/6/iceland-holds-a-referendum-about-compensating-the-united-kingdom-and-the-netherlands-after-the-collapse-of-the-icesave-bank-with-a-95-no.md)
 With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,092 are votes to reject December&#039;s Icesave law and 1,284 (1.5 percent) have v...
 
-##### Philippine
+##### Philippines
 ### [At least 11 Philippine soldiers are killed in an ambush by communist rebels in Mansalay, Mindoro. ](/news/2010/03/6/at-least-11-philippine-soldiers-are-killed-in-an-ambush-by-communist-rebels-in-mansalay-mindoro.md)
-_Context: Mansalay, Mindoro, Philippine, communism_
+_Context: Mansalay, Mindoro, Philippines, communism_
 
 ##### Egypt
 ### [Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. ](/news/2010/03/6/egyptian-president-hosni-mubarak-temporarily-hands-over-power-due-to-surgery-on-his-gallbladder.md)

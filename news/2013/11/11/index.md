@@ -15,7 +15,7 @@ _Context: Puntland, Somalia_
 ### [At least four people are killed and eight injured as a seven story building catches fire in Vikhroli, a suburb of the Indian city of Mumbai. ](/news/2013/11/11/at-least-four-people-are-killed-and-eight-injured-as-a-seven-story-building-catches-fire-in-vikhroli-a-suburb-of-the-indian-city-of-mumbai.md)
 _Context: India, Mumbai, Vikhroli_
 
-##### Philippine
+##### Philippines
 ### [An international aid effort is underway to help the Philippines cope with the aftermath of Typhoon Haiyan. ](/news/2013/11/11/an-international-aid-effort-is-underway-to-help-the-philippines-cope-with-the-aftermath-of-typhoon-haiyan.md)
 Nations scramble to deliver aid and assistance to the Philippines in the wake the devastating Typhoon Haiyan.
 

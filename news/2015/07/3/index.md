@@ -7,9 +7,9 @@ Formats: [HTML](2015/07/3/index.html)  [JSON](2015/07/3/index.json)  [XML](2015/
 ### [The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavigation-trip-starting-in.md)
 Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii after making a historic 7,200km flight across the Pacific from Japan.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
-_Context: Mach, Mica Endsley, United States Air Force, hypersonic_
+_Context: Mach, Mica Endsley, U.S. Air Force, hypersonic_
 
 ##### Danish general election, 2015
 ### [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)

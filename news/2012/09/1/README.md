@@ -45,7 +45,7 @@ _Context: Carlo Maria Martini, Catholic Church_
 
 ##### Davao City
 ### [An unidentified man throws a grenade to spectators of a festival in Paquibato district near Davao City, Philippines, wounding 41 people. ](/news/2012/09/1/an-unidentified-man-throws-a-grenade-to-spectators-of-a-festival-in-paquibato-district-near-davao-city-philippines-wounding-41-people.md)
-_Context: Davao City, Philippine_
+_Context: Davao City, Philippines_
 
 ##### Islamist
 ### [Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md)

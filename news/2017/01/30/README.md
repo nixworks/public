@@ -41,7 +41,7 @@ _Context: Gorno-Badakhshan, Tajikistan_
 
 ##### Miss Universe 2016
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippine_
+_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippines_
 
 ##### Quebec City mosque shooting
 ### [French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. ](/news/2017/01/30/french-canadian-student-alexandre-bissonnette-is-charged-with-six-counts-of-murder-and-five-counts-of-attempted-murder-in-relation-to-an-att.md)

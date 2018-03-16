@@ -3,7 +3,7 @@ Formats: [HTML](2007/06/1/index.html)  [JSON](2007/06/1/index.json)  [XML](2007/
 
 ## [2007-06-1](/news/2007/06/1/index.md)
 
-##### United States Navy
+##### U.S. Navy
 ### [ A United States Navy destroyer, the USS "Chafee", fires on suspected terrorists staying in Puntland, in northern Somalia. The three suspects are accused in taking part in the 1998 bombings of the United States embassies in Kenya and Tanzania. ](/news/2007/06/1/a-united-states-navy-destroyer-the-uss-chafee-fires-on-suspected-terrorists-staying-in-puntland-in-northern-somalia-the-three-suspect.md)
 The destroyer USS Chafee fired her deck guns at two or three suspected &quot;high-value terrorist targets&quot; in the Puntland area along the northern coast of Somalia on Saturday, U.S. officials told NBC News. 
 

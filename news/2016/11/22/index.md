@@ -17,7 +17,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md)
-_Context: 2016 Atlantic hurricane season, Bluefields, Hurricane Otto, Nicaragua, Panamanian_
+_Context: 2016 Atlantic hurricane season, Bluefields, Hurricane Otto, Nicaragua, Panama_
 
 ##### Multiple-vehicle collision
 ### [A 56-vehicle pile-up on the G5 Beijing-Kunming Expressway in China's northern Shanxi province, leaves at least 17 people dead and 37 others injured. ](/news/2016/11/22/a-56-vehicle-pile-up-on-the-g5-beijingakunming-expressway-in-china-s-northern-shanxi-province-leaves-at-least-17-people-dead-and-37-other.md)

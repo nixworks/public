@@ -3,9 +3,9 @@ Formats: [HTML](2004/12/22/index.html)  [JSON](2004/12/22/index.json)  [XML](200
 
 ## [2004-12-22](/news/2004/12/22/index.md)
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, the funeral of Fernando Poe, Jr, movie star and presidential candidate, attracts large numbers of supporters. Security is high due to rumors of potential anti-government revolt. The detained ex-president Joseph Estrada condemns incumbent president Gloria Arroyo in his eulogy. ](/news/2004/12/22/in-the-philippines-the-funeral-of-fernando-poe-jr-movie-star-and-presidential-candidate-attracts-large-numbers-of-supporters-security.md)
-_Context: Fernando Poe, Jr, Gloria Arroyo, Joseph Estrada, Philippine, eulogy_
+_Context: Fernando Poe, Jr, Gloria Arroyo, Joseph Estrada, Philippines, eulogy_
 
 ##### Mozambique
 ### [ In Mozambique, the national election commission declares Armando Guebuza, presidential candidate of ruling party Frelimo, the winner of the election. He received 64% of the vote despite alleged irregularities. ](/news/2004/12/22/in-mozambique-the-national-election-commission-declares-armando-guebuza-presidential-candidate-of-ruling-party-frelimo-the-winner-of-the.md)

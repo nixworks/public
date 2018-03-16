@@ -17,7 +17,7 @@ _Context: Haiti, Laurent Lamothe, alcohol, cigarettes, gambling_
 
 ##### President Benigno Aquino
 ### [President Benigno Aquino of the Philippines announces that the Philippine government has reached an outline peace agreement with the Moro Islamic Liberation Front over the disputed Mindanao region. ](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippine, President Benigno Aquino_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippines, President Benigno Aquino_
 
 ##### Mustafa A.G. Abushagur
 ### [Mustafa A.G. Abushagur, the first elected prime minister of Libya, is elected out of office after the Libyan parliament passed a vote of no confidence; Abdurrahim El-Keib assumes the post again. ](/news/2012/10/8/mustafa-a-g-abushagur-the-first-elected-prime-minister-of-libya-is-elected-out-of-office-after-the-libyan-parliament-passed-a-vote-of-no.md)

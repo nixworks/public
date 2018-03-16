@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/12/index.html)  [JSON](2004/12/12/index.json)  [XML](200
 
 ##### General Santos City
 ### [ A bomb blast in a General Santos City, Philippines, supermarket leaves at least 58 people injured and 15 dead.](/news/2004/12/12/a-bomb-blast-in-a-general-santos-city-philippines-supermarket-leaves-at-least-58-people-injured-and-15-dead.md)
-_Context: General Santos City, Philippine_
+_Context: General Santos City, Philippines_
 
 ##### Election fraud
 ### [ The U.S. House Committee on the Judiciary will be holding a congressional forum in Columbus concerning new evidence of election irregularities and fraud in Ohio, the issue of Ohio electors meeting while recounts and litigation are pending, and to discuss legislative and other responses to the problems, on Dec. 13. ](/news/2004/12/12/the-u-s-house-committee-on-the-judiciary-will-be-holding-a-congressional-forum-in-columbus-concerning-new-evidence-of-election-irregularit.md)

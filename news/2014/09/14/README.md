@@ -17,7 +17,7 @@ The boat, packed with up to 250 African migrants trying to reach Europe, sank ea
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: 2014 Pacific typhoon season, Philippine, Typhoon Kalmaegi_
+_Context: 2014 Pacific typhoon season, Philippines, Typhoon Kalmaegi_
 
 ##### 2014 Pacific hurricane season
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
@@ -31,9 +31,9 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 ### [India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-rescue.md)
 _Context: Jammu and Kashmir_
 
-##### Philippine
+##### Philippines
 ### [At least 70 people are still missing after the ferry MV "Maharlika II" sinks off the Philippines island of Leyte. ](/news/2014/09/14/at-least-70-people-are-still-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-island-of-leyte.md)
-_Context: Leyte, Philippine_
+_Context: Leyte, Philippines_
 
 ##### War in Donbass
 ### [Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-the-terminal-is-b.md)

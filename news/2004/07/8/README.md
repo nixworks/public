@@ -13,7 +13,7 @@ _Context: Mercosur, Mexico, Venezuela_
 
 ##### Marine
 ### [ US Marine Corporal Wassef Ali Hassoun appears unharmed at the US Embassy in Beirut. Hassoun disappeared from his unit in Iraq on June 21, and was incorrectly reported as having been beheaded by the group that captured him. The United States Navy has launched an investigation into the incident. ](/news/2004/07/8/us-marine-corporal-wassef-ali-hassoun-appears-unharmed-at-the-us-embassy-in-beirut-hassoun-disappeared-from-his-unit-in-iraq-on-june-21-a.md)
-_Context: Beirut, Iraq, Marine, United States Navy, Wassef Ali Hassoun_
+_Context: Beirut, Iraq, Marine, U.S. Navy, Wassef Ali Hassoun_
 
 ## [Previous Day...](/news/2004/07/7/index.md)
 

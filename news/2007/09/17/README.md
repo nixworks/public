@@ -17,7 +17,7 @@ A total of 55 foreigners, including one Australian, have been confirmed among th
 
 ##### Bat
 ### [ A new species of bat, the Mindoro Stripe-Faced Fruit bat, is discovered on Mindoro Island in the Philippines. ](/news/2007/09/17/a-new-species-of-bat-the-mindoro-stripe-faced-fruit-bat-is-discovered-on-mindoro-island-in-the-philippines.md)
-_Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippine, bat_
+_Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippines, bat_
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: The death toll from Typhoon Nari in South Korea rises to nine. ](/news/2007/09/17/2007-pacific-typhoon-season-the-death-toll-from-typhoon-nari-in-south-korea-rises-to-nine.md)

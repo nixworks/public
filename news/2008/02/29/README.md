@@ -37,7 +37,7 @@ _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 
 ##### Northrop Grumman
 ### [ Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. ](/news/2008/02/29/northrop-grumman-and-eads-win-a-us-35-billion-u-s-air-force-contract-to-build-a-new-refueling-plane-the-kc-45-shutting-out-boeing.md)
-_Context: $, Boeing Company, EADS, KC-45, Northrop Grumman, United States Air Force, aerial refueling tankers_
+_Context: $, Boeing Company, EADS, KC-45, Northrop Grumman, U.S. Air Force, aerial refueling tankers_
 
 ## [Previous Day...](/news/2008/02/28/index.md)
 

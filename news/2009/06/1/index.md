@@ -17,7 +17,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 
 ##### General Motors
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
-_Context: Bankruptcy in the United States, Chapter 11, General Motors, bankruptcy, sells_
+_Context: Bankruptcy in the United States, General Motors, bankruptcy, chapter 11 bankruptcy, sells_
 
 ##### United States
 ### [ The United States Congressional Research Service reports that China is aiding the development of Pakistan's program of nuclear weaponry. ](/news/2009/06/1/the-united-states-congressional-research-service-reports-that-china-is-aiding-the-development-of-pakistan-s-program-of-nuclear-weaponry.md)

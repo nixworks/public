@@ -39,9 +39,9 @@ Activists face charges of rioting in wake of disputed presidential vote.
 ### [ Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. ](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.md)
 _Context: Collective Security Treaty Organisation, Kyrgyzstan, Russia_
 
-##### President
+##### Philippine President
 ### [ Former President of the Philippines Corazon Aquino dies at the age of 76 of cardiopulmonary arrest after complications of colon cancer. A memorial service and funeral is scheduled for August 5. ](/news/2009/08/1/former-president-of-the-philippines-corazon-aquino-dies-at-the-age-of-76-of-cardiopulmonary-arrest-after-complications-of-colon-cancer-a-m.md)
-_Context: Corazon Aquino, President, cardiopulmonary arrest, colon cancer_
+_Context: Corazon Aquino, Philippine President, cardiopulmonary arrest, colon cancer_
 
 ##### Canary Islands'
 ### [ 4,000 people are evacuated from the Canary Islands due to severe forest fires. ](/news/2009/08/1/4-000-people-are-evacuated-from-the-canary-islands-due-to-severe-forest-fires.md)

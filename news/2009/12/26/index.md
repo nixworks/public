@@ -11,9 +11,9 @@ _Context: China, Vietnam, execution by firing squad, history_
 ### [ Ten people die and two more receive injuries after being pierced by a metal guard rail during a bus crash on a major highway in Ipoh, Malaysia. ](/news/2009/12/26/ten-people-die-and-two-more-receive-injuries-after-being-pierced-by-a-metal-guard-rail-during-a-bus-crash-on-a-major-highway-in-ipoh-malay.md)
 _Context: Ipoh, Malaysia_
 
-##### Philippine
+##### Philippines
 ### [ It is confirmed that all nine missing crew members &mdash; six Filipinos and three Greeks &mdash; from yesterday's ship fire disaster off the coast of Venezuela are dead. ](/news/2009/12/26/it-is-confirmed-that-all-nine-missing-crew-members-mdash-six-filipinos-and-three-greeks-mdash-from-yesterday-s-ship-fire-disaster-off-t.md)
-_Context: Greece, Philippine, Venezuela_
+_Context: Greece, Philippines, Venezuela_
 
 ##### Chambal River
 ### [ A bridge over the Chambal River in Kota, India, collapses with 45 people thought to have been killed. ](/news/2009/12/26/a-bridge-over-the-chambal-river-in-kota-india-collapses-with-45-people-thought-to-have-been-killed.md)

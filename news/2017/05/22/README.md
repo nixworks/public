@@ -39,7 +39,7 @@ Redistricting is part of a bare-knuckled fight in North Carolina, where Democrat
 ### [Turkey summons United States Ambassador John R. Bass to protest alleged "aggressive and unprofessional actions" by American security personnel against Turkish bodyguards, calling for the United States to conduct a full investigation on the May 17 clashes. The American ambassador told Turkey's government that its guards violated U.S. laws. Last week, the U.S. summoned Turkish Ambassador Serdar Kilic to discuss about Turkish security officers hitting and kicking peaceful protesters outside the Turkish ambassador's residence in Washington, D.C. ](/news/2017/05/22/turkey-summons-united-states-ambassador-john-r-bass-to-protest-alleged-aggressive-and-unprofessional-actions-by-american-security-personn.md)
 Turkey is calling for a full investigation of &quot;aggressive&quot; actions taken by American security personnel following a protest-turned-brawl outside the Turkish Embassy in Washington, D.C.
 
-##### Philippine
+##### Philippines
 ### [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md)
 President Rodrigo Duterte said Xi Jinping had warned him there would be war if the Philippines tried to search for oil in the South China Sea.
 

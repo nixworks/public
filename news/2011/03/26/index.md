@@ -49,7 +49,7 @@ Militant groups in Gaza say that they will agree to a ceasefire with Israel if I
 
 ##### New People's Army
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)
-_Context: New People's Army, Philippine, Tampakan_
+_Context: New People's Army, Philippines, Tampakan_
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapture-brega.md)

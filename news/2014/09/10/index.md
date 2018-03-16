@@ -15,9 +15,9 @@ Gold futures gave up earlier gains, settling at a fresh three-month low Wednesda
 ### [The President of the United States Barack Obama authorises $25 million for "immediate military assistance" to the Iraqi government and Kurdistan Regional Government. He also outlines plans to expand US operations against Islamic State in Iraq and the Levant to Syria in a televised address to the nation. ](/news/2014/09/10/the-president-of-the-united-states-barack-obama-authorises-25-million-for-immediate-military-assistance-to-the-iraqi-government-and-kurdi.md)
 President Barack Obama authorized $25 million in &quot;immediate military assistance&quot; on Wednesday for the Iraqi government and Kurdistan Regional Government to help with military education and training, according to a memorandum posted on the White House website.
 
-##### Philippine
+##### Philippines
 ### [Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-give-autonomy-to-filipino-muslims-in-ba.md)
-_Context: Bangsamoro, Congress of the Philippines, Filipino Muslims, Mindanao, Philippine, bill, his predecessor, peace_
+_Context: Bangsamoro, Congress of the Philippines, Filipino Muslims, Mindanao, Philippines, bill, his predecessor, peace_
 
 ## [Previous Day...](/news/2014/09/9/index.md)
 

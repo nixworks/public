@@ -83,9 +83,9 @@ _Context: Financial Times, People's Liberation Army, United States military, hac
 ### [ Six expatriate judges resign from the Fijian legal system following disagreements with the military-appointed acting Chief Justice Anthony Gates. ](/news/2007/09/3/six-expatriate-judges-resign-from-the-fijian-legal-system-following-disagreements-with-the-military-appointed-acting-chief-justice-anthony.md)
 _Context: Anthony Gates, Chief Justice, Fiji, judge_
 
-##### Panamanian
+##### Panama
 ### [ Panama begins work on its GBP2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-agbp2-7-billion-panama-canal-expansion-project.md)
-_Context: Panamanian, expanded, pound sterling_
+_Context: Panama, expanded, pound sterling_
 
 ##### China
 ### [ The People's Republic of China charges human rights activist Yang Chunlin, who gathered 10,000 signatures to an open letter opposing the Beijing Olympics on human rights grounds, with attempting to subvert state power. ](/news/2007/09/3/the-people-s-republic-of-china-charges-human-rights-activist-yang-chunlin-who-gathered-10-000-signatures-to-an-open-letter-opposing-the-be.md)

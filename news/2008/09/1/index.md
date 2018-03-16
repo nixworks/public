@@ -29,7 +29,7 @@ _Context: ACLU, National Security Letter, gag order_
 
 ##### Military of the United States
 ### [ The U.S. military hands control of Al Anbar Governorate over to the Iraqi government. ](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.md)
-_Context: Anbar province, Iraq, Military of the United States_
+_Context: Al Anbar Governorate, Iraq, Military of the United States_
 
 ##### U.S.
 ### [ U.S. Republican Vice Presidential candidate Sarah Palin's 17-year-old daughter Bristol is revealed to be five months pregnant. ](/news/2008/09/1/u-s-republican-vice-presidential-candidate-sarah-palin-s-17-year-old-daughter-bristol-is-revealed-to-be-five-months-pregnant.md)

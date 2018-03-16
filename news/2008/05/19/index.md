@@ -13,7 +13,7 @@ _Context: Association of Southeast Asian Nations, Cyclone Nargis, Foreign Minist
 
 ##### Calamba City
 ### [ A gunman kills eight people in Calamba City in the Philippines. ](/news/2008/05/19/a-gunman-kills-eight-people-in-calamba-city-in-the-philippines.md)
-_Context: Calamba City, Philippine_
+_Context: Calamba City, Philippines_
 
 ##### Deadly earthquake
 ### [ Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)

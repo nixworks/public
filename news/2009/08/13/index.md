@@ -25,7 +25,7 @@ _Context: Afghan President, Afghanistan, Ali Abad District, Burhanuddin Rabbani,
 
 ##### Islam
 ### [ At least 23 government soldiers and more than 20 Muslim extremists are killed in a day-long clash in the southern Philippines. ](/news/2009/08/13/at-least-23-government-soldiers-and-more-than-20-muslim-extremists-are-killed-in-a-day-long-clash-in-the-southern-philippines.md)
-_Context: Islam, Philippine_
+_Context: Islam, Philippines_
 
 ##### Russia
 ### [ Eleven people, including four policemen, are killed in several separate insurgent attacks in Russia's Republic of Dagestan. ](/news/2009/08/13/eleven-people-including-four-policemen-are-killed-in-several-separate-insurgent-attacks-in-russia-s-republic-of-dagestan.md)

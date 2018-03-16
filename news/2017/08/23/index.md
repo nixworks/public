@@ -23,7 +23,7 @@ Aftershocks are expected from the quake; no injuries or damage yet reported.
 ### [A passenger train collided with a dump truck on the line at Auraiya, India, and was derailed. Twenty-five people were injured. ](/news/2017/08/23/a-passenger-train-collided-with-a-dump-truck-on-the-line-at-auraiya-india-and-was-derailed-twenty-five-people-were-injured.md)
 At least one out of 10 derailed coaches capsized causing injuries to passengers
 
-##### United States Navy
+##### U.S. Navy
 ### [The United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following four collisions in Asia this year that claimed the lives of 17 sailors. ](/news/2017/08/23/the-united-states-navy-relieves-vice-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-four-collisions-in-asia.md)
 Divers found the remains of missing sailors in a search of the Navy destroyer John S. McCain that collided with an oil tanker on Monday near Singapore.
 

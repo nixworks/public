@@ -17,7 +17,7 @@ Theresa May will visit Buckingham Palace to seek to form a government with backi
 
 ##### Space launch market competition
 ### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
-_Context: Space launch market competition, SpaceX, United Launch Alliance, United States Air Force, miniature X-37B space plane_
+_Context: Space launch market competition, SpaceX, U.S. Air Force, United Launch Alliance, miniature X-37B space plane_
 
 ##### Cinema of the United States
 ### [Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies-from-leukemia.md)

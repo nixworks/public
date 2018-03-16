@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/6/index.html)  [JSON](2016/08/6/index.json)  [XML](2016/
 
 ##### 2016 U.S. election
 ### [Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. ](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donald-trump-for-calling-the-philippines-a-terrorist-country.md)
-_Context: 2016 U.S. election, Brian Schatz, Donald Trump, Hawaii, Philippine_
+_Context: 2016 U.S. election, Brian Schatz, Donald Trump, Hawaii, Philippines_
 
 ##### Tensions in the region
 ### [China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.md)
@@ -25,7 +25,7 @@ Nissan Motor Co (7201.T) is in talks with Panasonic Corp (6752.T) and overseas c
 
 ##### Moro conflict
 ### [Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mindanao-no-group.md)
-_Context: Abu Sayyaf, Autonomous Region in Muslim Mindanao, Moro conflict, Patikul, Sulu, Philippine_
+_Context: Abu Sayyaf, Autonomous Region in Muslim Mindanao, Moro conflict, Patikul, Sulu, Philippines_
 
 ##### 2016 stabbing of Charleroi police officers
 ### [A man attacks two policewomen with a machete in Charleroi, Belgium, whilst reportedly shouting Allahu Akbar. The attacker was shot dead by another police officer. The policewomen are being treated in hospital for non-life-threatening wounds. The attack is being investigated as a possible act of terrorism. ](/news/2016/08/6/a-man-attacks-two-policewomen-with-a-machete-in-charleroi-belgium-whilst-reportedly-shouting-allahu-akbar-the-attacker-was-shot-dead-by-a.md)

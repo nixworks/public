@@ -27,9 +27,9 @@ FORECASTERS say tropical storm Isaac continues to move west toward the Caribbean
 ### [At least 20 people in the Democratic Republic of the Congo die from the Ebola virus disease. ](/news/2012/08/21/at-least-20-people-in-the-democratic-republic-of-the-congo-die-from-the-ebola-virus-disease.md)
 _Context: DR Congo, Ebola_
 
-##### Philippine
+##### Philippines
 ### [A search and rescue team recovers the body of former Philippines Interior and Local Government Secretary Jesse Robredo after a crash that claimed his life and two others on Saturday off Masbate. ](/news/2012/08/21/a-search-and-rescue-team-recovers-the-body-of-former-philippines-interior-and-local-government-secretary-jesse-robredo-after-a-crash-that-cl.md)
-_Context: Jesse Robredo, Masbate, Philippine, crash_
+_Context: Jesse Robredo, Masbate, Philippines, crash_
 
 ##### Oil imports
 ### [Oil imports to China from Iran fall 28 percent in July and 30 percent in 2012. ](/news/2012/08/21/oil-imports-to-china-from-iran-fall-28-percent-in-july-and-30-percent-in-2012.md)

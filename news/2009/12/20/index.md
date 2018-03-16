@@ -11,9 +11,9 @@ _Context: Joe McElderry, Killing in the Name, Rage Against the Machine, The X Fa
 ### [ Two people are killed and four people are wounded by flying concrete during a huge demolition of a Soviet war memorial in Georgia. ](/news/2009/12/20/two-people-are-killed-and-four-people-are-wounded-by-flying-concrete-during-a-huge-demolition-of-a-soviet-war-memorial-in-georgia.md)
 _Context:  Georgian, Soviet_
 
-##### Philippine
+##### Philippines
 ### [ Philippine officials warn an eruption at the Mayon Volcano could happen within the next few days. ](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.md)
-_Context: Mayon Volcano, Philippine_
+_Context: Mayon Volcano, Philippines_
 
 ##### Colombia
 ### [ Colombia and Venezuela move closer to war. ](/news/2009/12/20/colombia-and-venezuela-move-closer-to-war.md)

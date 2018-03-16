@@ -23,9 +23,9 @@ _Context: Occupy Wall Street_
 ### [Iran releases two Kuwaiti journalists accused of spying. ](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.md)
 _Context: Iran, Kuwait, spying_
 
-##### Philippine
+##### Philippines
 ### [The Philippines Red Cross estimates that the death toll from the floods caused by Tropical Storm Washi has risen to 521. ](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.md)
-_Context: Philippine, Red Cross, Tropical Storm Washi_
+_Context: Philippines, Red Cross, Tropical Storm Washi_
 
 ##### Drilling rig
 ### [The drilling rig "Kolskaya" with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-result.md)

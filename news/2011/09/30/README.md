@@ -11,7 +11,7 @@ _Context: Myitsone Dam, Thein Sein_
 ### [The Supreme Court of Canada rules in a 9-0 decision that Insite, a safe injection site in Vancouver, can remain open. ](/news/2011/09/30/the-supreme-court-of-canada-rules-in-a-9-0-decision-that-insite-a-safe-injection-site-in-vancouver-can-remain-open.md)
 _Context: Insite, Supreme Court of Canada_
 
-##### Philippine
+##### Philippines
 ### [The death toll in the Philippines from Typhoon Nesat reaches 43 with Typhoon Nalgae expected to cause further flood problems. ](/news/2011/09/30/the-death-toll-in-the-philippines-from-typhoon-nesat-reaches-43-with-typhoon-nalgae-expected-to-cause-further-flood-problems.md)
 THE death toll from a typhoon that pummelled the Philippines has climbed to 43 and authorities are warning another storm is set to strike and endanger nearly a million people enduring horror floods.
 

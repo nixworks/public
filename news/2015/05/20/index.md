@@ -57,7 +57,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### People's Liberation Army Navy
 ### [The Chinese navy issues warnings eight times as a United States Navy surveillance plane flies over manmade islands in the South China Sea. ](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.md)
-_Context: People's Liberation Army Navy, South China Sea, United States Navy_
+_Context: People's Liberation Army Navy, South China Sea, U.S. Navy_
 
 ##### Islamic State in Iraq and the Levant
 ### [Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site. ](/news/2015/05/20/islamic-state-captures-the-syrian-city-of-tadmur-from-the-syrian-army-with-grave-concerns-held-about-the-palmyra-site.md)

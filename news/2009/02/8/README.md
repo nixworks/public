@@ -27,9 +27,9 @@ _Context: European Union, Swiss, freedom of movement for workers, referendum_
 ### [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md)
 _Context: Gaza Strip, Israel, Palestinian, militant, rocket_
 
-##### Roadside bomb
+##### IED
 ### [ A roadside bomb kills at least two people and injures 11 near Karbala, Iraq. ](/news/2009/02/8/a-roadside-bomb-kills-at-least-two-people-and-injures-11-near-karbala-iraq.md)
-_Context: Iraq, Karbala, roadside bomb_
+_Context: IED, Iraq, Karbala_
 
 ##### Venezuela
 ### [ Venezuela arrests 11 people over an attack last week on a Caracas synagogue. ](/news/2009/02/8/venezuela-arrests-11-people-over-an-attack-last-week-on-a-caracas-synagogue.md)

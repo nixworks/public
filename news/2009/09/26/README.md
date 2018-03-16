@@ -57,7 +57,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 
 ##### Metro Manila
 ### [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md)
-_Context: Metro Manila, Philippine, Tropical Storm Ketsana_
+_Context: Metro Manila, Philippines, Tropical Storm Ketsana_
 
 ##### United Nations
 ### [ More than 100 ministers and heads of state attend a United Nations meeting on the global hunger crisis. Bangladesh Prime Minister Sheikh Hasina tables a five-pronged set of recommendations to raise a hunger-free world. ](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.md)

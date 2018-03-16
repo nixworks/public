@@ -21,7 +21,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Myanmar
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
-_Context: Myanmar, Philippine, Thein Sein, his predecessor, mass media, renewable energy, visa-free travel_
+_Context: Myanmar, Philippines, Thein Sein, his predecessor, mass media, renewable energy, visa-free travel_
 
 ##### Secretary of State
 ### [United States Secretary of State John Kerry meets with the Prime Minister of Israel Benjamin Netanyahu in Jerusalem to talk about many topics including the nuclear program of Iran. ](/news/2013/12/5/united-states-secretary-of-state-john-kerry-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-in-jerusalem-to-talk-about-many-topic.md)

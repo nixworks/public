@@ -41,7 +41,7 @@ _Context: May 5-10, 2015 tornado outbreak sequence, United States_
 
 ##### Typhoon Noul
 ### [Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md)
-_Context: Japan, Philippine, Typhoon Noul_
+_Context: Japan, Philippines, Typhoon Noul_
 
 ##### Udhampur district
 ### [At least 15 people are dead and 20 others injured after a bus falls into a gorge in the Udhampur district in India's Jammu and Kashmir state. ](/news/2015/05/11/at-least-15-people-are-dead-and-20-others-injured-after-a-bus-falls-into-a-gorge-in-the-udhampur-district-in-india-s-jammu-and-kashmir-state.md)

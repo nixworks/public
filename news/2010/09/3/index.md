@@ -23,9 +23,9 @@ President Mahmoud Ahmadinejad addresses thousands in Tehran, saying that Middle 
 ### [Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. ](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-children-in-the-casa-pia-child-sex-abuse-trial-in-lisbon-portugal.md)
 _Context: Casa Pia, Lisbon, Portugal, child abuse, child sex abuse_
 
-##### President
+##### Philippine President
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
-_Context: Manila hostage crisis, President, his predecessor_
+_Context: Manila hostage crisis, Philippine President, his predecessor_
 
 ##### Miami International Airport
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)

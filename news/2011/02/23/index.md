@@ -39,9 +39,9 @@ _Context: China, North Korea, North Korea's nuclear program, United Nations Secu
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
 _Context: Iran, Senegal, diplomatic relations_
 
-##### President
+##### Philippine President
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: President, Taiwan, his predecessor_
+_Context: Philippine President, Taiwan, his predecessor_
 
 ##### ConstanGBPa
 ### [Snow and heavy winds affecting areas around ConstanGBPa, Romania, are predicted to continue until late Friday evening. ](/news/2011/02/23/snow-and-heavy-winds-affecting-areas-around-constanagbpa-romania-are-predicted-to-continue-until-late-friday-evening.md)

@@ -19,9 +19,9 @@ _Context: Human Rights Watch, Uzbekistan, massacre_
 ### [ In Chile, the Santiago Court of Appeals cancels Augusto Pinochet's immunity from prosecution. Among other things, he faces charges of tax fraud. However, the court also ruled that he is too ill to face charges of human rights violations ](/news/2005/06/7/in-chile-the-santiago-court-of-appeals-cancels-augusto-pinochet-s-immunity-from-prosecution-among-other-things-he-faces-charges-of-tax-f.md)
 _Context: Augusto Pinochet, Chile, Santiago Court of Appeals, human rights, tax fraud_
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, the government orders the National Bureau of Investigation to investigate a case where opposition tapped the telephone conversation of president Gloria Arroyo. They allegedly used it to create a tape where she is supposedly talking about electoral fraud ](/news/2005/06/7/in-the-philippines-the-government-orders-the-national-bureau-of-investigation-to-investigate-a-case-where-opposition-tapped-the-telephone.md)
-_Context: Gloria Arroyo, Philippine, electoral fraud, phone tapping_
+_Context: Gloria Arroyo, Philippines, electoral fraud, phone tapping_
 
 ##### National Assembly of the Republic of China
 ### [ The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.md)

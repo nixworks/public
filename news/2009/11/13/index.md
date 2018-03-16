@@ -87,9 +87,9 @@ _Context: Cambodia, Thailand_
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
 _Context: Kurd, Turkish, disarm_
 
-##### Philippine
+##### Philippines
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: Gloria Arroyo, Philippine, President, torture_
+_Context: Gloria Arroyo, Philippine President, Philippines, torture_
 
 ## [Previous Day...](/news/2009/11/12/index.md)
 

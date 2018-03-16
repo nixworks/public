@@ -13,7 +13,7 @@ _Context: Parliament, Prime Minister, Yingluck Shinawatra_
 
 ##### Philippine
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
-_Context: Moro Islamic Liberation Front, Philippine, President, Tokyo, his predecessor_
+_Context: Moro Islamic Liberation Front, Philippine, Philippine President, Tokyo, his predecessor_
 
 ##### Ukraine
 ### [Former Prime Minister of Ukraine, and leader of the most numerous opposition party Yulia Tymoshenko is arrested in Kiev. ](/news/2011/08/5/former-prime-minister-of-ukraine-and-leader-of-the-most-numerous-opposition-party-yulia-tymoshenko-is-arrested-in-kiev.md)

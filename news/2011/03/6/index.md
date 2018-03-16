@@ -79,9 +79,9 @@ The onset of Carnival sends many Brazilians scrambling to buy tickets to legenda
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
 _Context: Afghan President, Afghanistan, David Petraeus, General, Hamid Karzai, NATO, U.S. military, War in Afghanistan (2001-present)_
 
-##### United States Navy
+##### U.S. Navy
 ### [United States Navy commandos from the destroyer USS "Bulkeley" capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-guana.md)
-_Context: Japan, MV Guanabara, USS ''Bulkeley'', United States Navy, commando, destroyer, oil tanker, pirates_
+_Context: Japan, MV Guanabara, U.S. Navy, USS ''Bulkeley'', commando, destroyer, oil tanker, pirates_
 
 ##### The Washington Post
 ### ["The Washington Post" reports that the military forces imprisoned alleged whistleblower Bradley Manning to strip each night and sleep naked, having confiscated his boxers earlier this week following Manning's protest that restrictions imposed on him were "absurd". A spokesperson for the facility denies "any sort of humiliation or embarrassment" is intended. ](/news/2011/03/6/the-washington-post-reports-that-the-military-forces-imprisoned-alleged-whistleblower-bradley-manning-to-strip-each-night-and-sleep-naked.md)

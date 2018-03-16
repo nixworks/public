@@ -13,7 +13,7 @@ _Context: Bayelsa, Nigeria_
 
 ##### Bomb attack
 ### [ Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. ](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-in-the-town-of-makilala-in-the-philippines-two-others-are-killed-and-four-injured-in-a-blast.md)
-_Context: Makilala, Philippine, Sultan Kudarat, Tacurong, bomb attack_
+_Context: Makilala, Philippines, Sultan Kudarat, Tacurong, bomb attack_
 
 ##### Insurgents
 ### [ Iraqi police announce they have found a total of 110 corpses at locations across Baghdad in the previous 48 hours, thought to be more victims of insurgent death squads. In addition, a bomb planted under a car explodes in the city's southern district of Doura, killing 10 people. ](/news/2006/10/10/iraqi-police-announce-they-have-found-a-total-of-110-corpses-at-locations-across-baghdad-in-the-previous-48-hours-thought-to-be-more-victi.md)

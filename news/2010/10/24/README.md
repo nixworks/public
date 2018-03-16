@@ -159,7 +159,7 @@ _Context: 2010 G-20 Seoul summit, North Korea, South Korea, United States, Yello
 
 ##### Palid
 ### [Six killed in shooting rampage inside militia outpost in Palid, Ipil town, in the Zamboanga Sibugay province of the South Philippines. ](/news/2010/10/24/six-killed-in-shooting-rampage-inside-militia-outpost-in-palid-ipil-town-in-the-zamboanga-sibugay-province-of-the-south-philippines.md)
-_Context: Ipil, Palid, Philippine, South, Zamboanga Sibugay_
+_Context: Ipil, Palid, Philippines, South, Zamboanga Sibugay_
 
 ## [Previous Day...](/news/2010/10/23/index.md)
 

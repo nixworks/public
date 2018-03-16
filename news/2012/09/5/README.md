@@ -41,7 +41,7 @@ At least 54 persons were burned to death and 50 injured today in a devastating b
 
 ##### 7.6-magnitude earthquake
 ### [A 7.6-magnitude earthquake 87 miles west of the Costa Rican capital of San Jos triggers a tsunami alert for the coastlines of Costa Rica, Panama and Nicaragua. ](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.md)
-_Context: 7.6-magnitude earthquake, Costa Rica, Nicaragua, Panamanian, San Jos, tsunami_
+_Context: 7.6-magnitude earthquake, Costa Rica, Nicaragua, Panama, San Jos, tsunami_
 
 ##### UNCTAD
 ### [The UNCTAD releases a report detailing the further deterioration of the occupied Palestinian territories's economic environment. ](/news/2012/09/5/the-unctad-releases-a-report-detailing-the-further-deterioration-of-the-occupied-palestinian-territories-s-economic-environment.md)

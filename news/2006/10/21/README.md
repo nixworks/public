@@ -17,7 +17,7 @@ _Context: Cabo Corrientes, Jalisco, Mexico, South Pacific Ocean, hurricane_
 
 ##### Earthquake
 ### [ An earthquake of magnitude 5.2 hits the central Philippines. The quake struck at 10:30 p.m. with its epicenter some 35 kilometers south of Boac, Marinduque. The temblor was felt at intensity 4 in the capital Manila. ](/news/2006/10/21/an-earthquake-of-magnitude-5-2-hits-the-central-philippines-the-quake-struck-at-10-30-p-m-with-its-epicenter-some-35-kilometers-south-of.md)
-_Context: Boac, Manila, Marinduque, Philippine, Richter scale, earthquake, epicenter_
+_Context: Boac, Manila, Marinduque, Philippines, Richter scale, earthquake, epicenter_
 
 ##### Dariga Nazarbayev
 ### [ Dariga Nazarbayeva, daughter of Kazakh President Nursultan Nazarbayev, says it is time for Kazakhstan to "stop behaving like an obedient colony that bows to a foreign gentleman," referring to Lakshmi Mittal of Arcelor Mittal, "whose name appears on the "Forbes" magazine list." ](/news/2006/10/21/dariga-nazarbayeva-daughter-of-kazakh-president-nursultan-nazarbayev-says-it-is-time-for-kazakhstan-to-stop-behaving-like-an-obedient-co.md)

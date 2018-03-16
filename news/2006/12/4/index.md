@@ -17,11 +17,11 @@ _Context: Australian Labor Party, Julia Gillard, Kevin Rudd, Kim Beazley, caucus
 
 ##### Marine
 ### [ A US Marine is jailed for raping a woman at Subic Bay after joint exercises with the Philippines. Three other Marines were acquitted in a case which caused anti-American protests. ](/news/2006/12/4/a-us-marine-is-jailed-for-raping-a-woman-at-subic-bay-after-joint-exercises-with-the-philippines-three-other-marines-were-acquitted-in-a-c.md)
-_Context: Marine, Philippine, Subic Bay, anti-American_
+_Context: Marine, Philippines, Subic Bay, anti-American_
 
-##### President
+##### Philippine President
 ### [ President of the Philippines Gloria Arroyo declares a "state of national calamity" following the death and destruction caused by Typhoon Durian. ](/news/2006/12/4/president-of-the-philippines-gloria-arroyo-declares-a-state-of-national-calamity-following-the-death-and-destruction-caused-by-typhoon-du.md)
-_Context: Gloria Arroyo, President, Typhoon Durian_
+_Context: Gloria Arroyo, Philippine President, Typhoon Durian_
 
 ##### Kazakhstan
 ### [ It is now widely expected that Kazakhstan will head the Organization for Security and Co-operation in Europe in 2009 despite strong opposition from the United States. Kazakh President Nazarbayev is visiting Brussels, Belgium, which supports Kazakhstan's bid, and he recently visited London, meeting with Prime Minister Tony Blair, whose government also supports Kazakhstan. ](/news/2006/12/4/it-is-now-widely-expected-that-kazakhstan-will-head-the-organization-for-security-and-co-operation-in-europe-in-2009-despite-strong-opposit.md)

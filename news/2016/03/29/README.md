@@ -53,7 +53,7 @@ Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in
 
 ##### Indonesian foreign ministry
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
-_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippine_
+_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
 
 ##### Iran and weapons of mass destruction
 ### [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md)
@@ -75,7 +75,7 @@ Women who have endometriosis may face a 60 percent higher risk of developing hea
 ### [Terminix, in the U.S. District Court in St. Thomas, Virgin Islands, admits it "knowingly" applied fumigants including methyl bromide, which the EPA banned for residential use in 1984, at a resort in St. John that seriously sickened a family of four, and agrees to pay $10 million in fines and restitution. ](/news/2016/03/29/terminix-in-the-u-s-district-court-in-st-thomas-virgin-islands-admits-it-knowingly-applied-fumigants-including-methyl-bromide-which.md)
 A family of four was severely sickened following a Terminix fumigation at a U.S. Virgin Islands resort last year, federal authorities said.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan. The pilot ejected safely and was recovered by coalition forces, according to a U.S. military statement. ](/news/2016/03/29/a-united-states-air-force-f-16-crashes-during-takeoff-from-bagram-airfield-in-afghanistan-the-pilot-ejected-safely-and-was-recovered-by-coa.md)
 A U.S. Air Force F-16 plane crashed during takeoff near Bagram Air Base in Afghanistan, though the pilot was able to safely eject from the plane, the Pentagon spokesman said on Tuesday.
 

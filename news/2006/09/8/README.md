@@ -19,9 +19,9 @@ _Context: India, Maharashtra, Malegaon, Nashik, bomb blasts_
 ### [ Shuji Nakamura is awarded the 2nd Millennium Technology Prize for his work on blue and white LEDs. The first recipient of the award was Tim Berners-Lee, developer of the World Wide Web. ](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.md)
 _Context: LED, Millennium Technology Prize, Shuji Nakamura, Sir Timothy John Berners-Lee, World Wide Web_
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ Missing United States Air Force officer Major Jill Metzger who disappeared in Bishkek, Kyrgyzstan earlier this week is found in good health. Metzger says she was kidnapped by three men and a woman. ](/news/2006/09/8/missing-united-states-air-force-officer-major-jill-metzger-who-disappeared-in-bishkek-kyrgyzstan-earlier-this-week-is-found-in-good-health.md)
-_Context: Bishkek, Jill Metzger, Kyrgyzstan, United States Air Force_
+_Context: Bishkek, Jill Metzger, Kyrgyzstan, U.S. Air Force_
 
 ##### United States Senate
 ### [ The United States Senate states there is no evidence of formal links between Iraqi ex-leader Saddam Hussein and al-Qaeda leaders in Iraq prior to the 2003 Iraq War. ](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.md)

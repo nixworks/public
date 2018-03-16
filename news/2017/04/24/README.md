@@ -25,7 +25,7 @@ Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor 
 
 ##### Drug crackdown
 ### [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md)
-_Context: Dutch, International Criminal Court, Philippine, Rodrigo Duterte, The Hague, crimes against humanity, drug crackdown, mass murder_
+_Context: Dutch, International Criminal Court, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, drug crackdown, mass murder_
 
 ##### Paraguay
 ### [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md)

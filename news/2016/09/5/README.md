@@ -61,7 +61,7 @@ _Context: Freddie Mercury_
 
 ##### Drug crackdown
 ### [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md)
-_Context: President, Rodrigo Duterte, drug crackdown_
+_Context: Philippine President, Rodrigo Duterte, drug crackdown_
 
 ##### Syrian civil war
 ### [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md)

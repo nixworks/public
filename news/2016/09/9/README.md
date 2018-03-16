@@ -41,7 +41,7 @@ _Context: Nigeria, famine_
 
 ##### Mayon Volcano
 ### [The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. ](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-philippines-is-increased-after-more-than-a-hundred-earthquakes-were-detected-in-its-vicinity.md)
-_Context: Mayon Volcano, Philippine_
+_Context: Mayon Volcano, Philippines_
 
 ##### United Kingdom
 ### [One or more unnamed authors at the European Commission, in their internal discussion, regards the United Kingdom as having lost direction in its Brexit policy and planning and thinks the UK will eventually 'plead' for a deal. ](/news/2016/09/9/one-or-more-unnamed-authors-at-the-european-commission-in-their-internal-discussion-regards-the-united-kingdom-as-having-lost-direction-in.md)

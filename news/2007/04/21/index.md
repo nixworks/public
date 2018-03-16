@@ -17,7 +17,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
 ##### United States
 ### [ The United States and Australia issue travel advisories warning their citizens not to go to the Philippines due to a potentially imminent terrorist threat. ](/news/2007/04/21/the-united-states-and-australia-issue-travel-advisories-warning-their-citizens-not-to-go-to-the-philippines-due-to-a-potentially-imminent-t.md)
-_Context: Australia, Philippine, United States, terrorist, travel advisories_
+_Context: Australia, Philippines, United States, terrorist, travel advisories_
 
 ##### Appeals court
 ### [ An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. ](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidates-in-the-runoff-election-to-decide-the-next-president-of-east-timor-will-be-current-prime-mi.md)
@@ -27,7 +27,7 @@ _Context: Francisco Guterres, Fretilin, Jos Ramos-Horta, President, Prime Minist
 ### [ Mohammed al-Attar is sentenced to 15 years in an Egyptian prison after being convicted of being a Mossad agent. ](/news/2007/04/21/mohammed-al-attar-is-sentenced-to-15-years-in-an-egyptian-prison-after-being-convicted-of-being-a-mossad-agent.md)
 _Context: Egypt, Mohammed al-Attar, Mossad, prison_
 
-##### United States Navy
+##### U.S. Navy
 ### [ An aircraft of the United States Navy's Blue Angels precision flight team crashes during an air show in Beaufort, South Carolina, killing the pilot and injuring eight people on the ground. ](/news/2007/04/21/an-aircraft-of-the-united-states-navy-s-blue-angels-precision-flight-team-crashes-during-an-air-show-in-beaufort-south-carolina-killing-t.md)
 Investigators looked through wreckage Sunday to determine what caused a Navy Blue Angel jet to crash during a maneuver, while the military identified the fallen pilot as a 32-year-old who was performing in one of his first air shows with the team.
 

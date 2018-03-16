@@ -25,7 +25,7 @@ The death toll from the Shoreham air crash where a vintage jet plummeted into tr
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md)
-_Context: 2015 Pacific typhoon season, Philippine, Typhoon Goni_
+_Context: 2015 Pacific typhoon season, Philippines, Typhoon Goni_
 
 ##### Flood
 ### [The death toll from floods in the Indian state of Assam rises to seven, with 650,000 people displaced. ](/news/2015/08/23/the-death-toll-from-floods-in-the-indian-state-of-assam-rises-to-seven-with-650-000-people-displaced.md)

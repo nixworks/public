@@ -57,7 +57,7 @@ _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_
 
 ##### China
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: China, Philippine, Spratly Islands, Vietnam_
+_Context: China, Philippines, Spratly Islands, Vietnam_
 
 ##### Harrisburg, PA
 ### [7 children die in a farmhouse fire near Harrisburg, PA. ](/news/2011/03/8/7-children-die-in-a-farmhouse-fire-near-harrisburg-pa.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/20/index.html)  [JSON](2014/08/20/index.json)  [XML](201
 
 ##### Tarsier
 ### [A new species of tarsier is discovered in Dinagat, Philippines. ](/news/2014/08/20/a-new-species-of-tarsier-is-discovered-in-dinagat-philippines.md)
-_Context: Dinagat, Philippine, tarsier_
+_Context: Dinagat, Philippines, tarsier_
 
 ##### IAEA
 ### [IAEA reports that Iran is continuing to meet its commitments under the interim accord that it reached with the P5+1. ](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.md)

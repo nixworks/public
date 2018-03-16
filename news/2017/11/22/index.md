@@ -19,7 +19,7 @@ The United States on Wednesday called the Myanmar military operation against the
 ### [The Palestinian National Authority suspends contact with the United States after the Palestine Liberation Organization office in Washington, D.C. was closed. ](/news/2017/11/22/the-palestinian-national-authority-suspends-contact-with-the-united-states-after-the-palestine-liberation-organization-office-in-washington.md)
 _Context: Palestine Liberation Organization, Palestine-United States relations, Palestinian Authority, United States, Washington, D.C._
 
-##### United States Navy
+##### U.S. Navy
 ### [A U.S. Navy C-2A Greyhound, operating off the aircraft carrier USS "Ronald Reagan", crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c-2a-greyhound-operating-off-the-aircraft-carrier-uss-ronald-reagan-crashes-in-the-philippine-sea-eight-sailors-are-rescued.md)
 The U.S. Navy said the cause of the crash is not known at this time. 
 

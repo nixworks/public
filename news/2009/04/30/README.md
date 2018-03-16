@@ -41,7 +41,7 @@ _Context: Apeldoorn, Dutch, Queen's Day, attacked, parade_
 
 ##### Chrysler
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
-_Context: Chapter 11, Chrysler, United States, bankruptcy, federal offenses, sustain_
+_Context: Chrysler, United States, bankruptcy, chapter 11 bankruptcy, federal offenses, sustain_
 
 ##### Mexican President
 ### [ President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)

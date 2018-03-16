@@ -59,7 +59,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 ### [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md)
  A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry ne
 
-##### Philippine
+##### Philippines
 ### [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md)
 (4th UPDATE) A Leomarick Trans bus traveling from Isabela province to Ilocos Sur falls into a ravine in Carranglan town in Nueva Ecija
 

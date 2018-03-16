@@ -9,7 +9,7 @@ The Church of England votes in favour of proposals which could see final approva
 
 ##### Supreme Court of the Philippines
 ### [The Supreme Court of the Philippines abolishes the Priority Development Assistance Fund, otherwise known as the 'pork barrel', prompting Philippine President Benigno Aquino III to fly back to Manila. ](/news/2013/11/20/the-supreme-court-of-the-philippines-abolishes-the-priority-development-assistance-fund-otherwise-known-as-the-pork-barrel-prompting-phi.md)
-_Context: Manila, Philippine, President, Priority Development Assistance Fund, Supreme Court of the Philippines, his predecessor, pork barrel_
+_Context: Manila, Philippine President, Philippines, Priority Development Assistance Fund, Supreme Court of the Philippines, his predecessor, pork barrel_
 
 ##### Trey Radel
 ### [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-rafl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md)

@@ -35,9 +35,9 @@ An archaeological excavation in Dublin has uncovered the foundations of a 17th c
 ### [ Iranian reformists call for a probe of the Supreme Leader Ali Khamenei and his ability to rule. ](/news/2009/08/14/iranian-reformists-call-for-a-probe-of-the-supreme-leader-ali-khamenei-and-his-ability-to-rule.md)
 _Context: Ali Khamenei, Iran, Supreme Leader_
 
-##### Philippine
+##### Philippines
 ### [ After launching a major offensive attack on a suspected ASG training camp, the day-long clash in the Southern Philippines resulted in 23 government casualties and 31 casualties from the Abu Sayyaf Group. ](/news/2009/08/14/after-launching-a-major-offensive-attack-on-a-suspected-asg-training-camp-the-day-long-clash-in-the-southern-philippines-resulted-in-23-go.md)
-_Context: Abu Sayyaf Group, Philippine_
+_Context: Abu Sayyaf Group, Philippines_
 
 ##### Montevideo
 ### [ In Montevideo, President of Mexico Felipe Calderon and President of Uruguay Tabare Vazquez sign a Strategic Association accord to strengthen political dialogue and bilateral trade relations. ](/news/2009/08/14/in-montevideo-president-of-mexico-felipe-caldera3n-and-president-of-uruguay-tabara-c-va-zquez-sign-a-strategic-association-accord-to-streng.md)

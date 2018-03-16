@@ -21,7 +21,7 @@ PARIS (AP) — Hundreds of empty, parked cars go up in flames in France each New
 
 ##### Celebratory gunfire
 ### [Celebratory gunfire kills a four-year-old boy and more than 400 others are injured by powerful firecrackers in typically rowdy New Year celebrations in the Philippines. ](/news/2013/01/1/celebratory-gunfire-kills-a-four-year-old-boy-and-more-than-400-others-are-injured-by-powerful-firecrackers-in-typically-rowdy-new-year-cele.md)
-_Context: Celebratory gunfire, New Year, Philippine, firecracker_
+_Context: Celebratory gunfire, New Year, Philippines, firecracker_
 
 ##### Sacramento, California
 ### [Two people are killed and three wounded in a shooting in Sacramento during the New Year's Eve celebrations. ](/news/2013/01/1/two-people-are-killed-and-three-wounded-in-a-shooting-in-sacramento-during-the-new-year-s-eve-celebrations.md)

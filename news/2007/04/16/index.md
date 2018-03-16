@@ -45,7 +45,7 @@ _Context: Baofeng, China, Henan, coal, miner_
 
 ##### Ekmeleddin Ihsanoglu
 ### [ Ekmeleddin Ihsanoglu, the Secretary-General of the Organisation of the Islamic Conference, calls for an end of fighting between the Philippines government and the Moro National Liberation Front, which has killed at least 12 people over the past few days. ](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.md)
-_Context: Ekmeleddin Ihsanoglu, Moro National Liberation Front, Organisation of Islamic Cooperation, Philippine_
+_Context: Ekmeleddin Ihsanoglu, Moro National Liberation Front, Organisation of Islamic Cooperation, Philippines_
 
 ##### 2007 Pulitzer Prize
 ### [ Winners of the 2007 Pulitzer Prize are announced. Author Ray Bradbury and jazz saxophonist John Coltrane receive special citations. ](/news/2007/04/16/winners-of-the-2007-pulitzer-prize-are-announced-author-ray-bradbury-and-jazz-saxophonist-john-coltrane-receive-special-citations.md)

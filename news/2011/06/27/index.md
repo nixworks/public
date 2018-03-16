@@ -127,7 +127,7 @@ A train carrying South Sudanese back home from the north is attacked by a northe
 ### [The Pakistani Taliban said two of the three suicide bombers who killed 10 police officers Saturday in northwestern Pakistan were a married couple; 15 policemen were taken hostage by other miltants before security forces killed six of them. ](/news/2011/06/27/the-pakistani-taliban-said-two-of-the-three-suicide-bombers-who-killed-10-police-officers-saturday-in-northwestern-pakistan-were-a-married-c.md)
 The Pakistani Taliban said two of the three suicide bombers who killed 10 police officers Saturday in northwestern Pakistan were a married Uzbek couple. 
 
-##### Roadside bomb
+##### IED
 ### [Seven civilians, including children, are killed by two separate roadside mines in Afghanistan's eastern Ghazni Province; an 8-year-old girl was killed when militants gave her a remote-controlled explosive in a bag and told her to give it to police officers in Oruzgan Province. ](/news/2011/06/27/seven-civilians-including-children-are-killed-by-two-separate-roadside-mines-in-afghanistan-s-eastern-ghazni-province-an-8-year-old-girl.md)
 Afghanistan says the Pakistani military is behind recent deadly rocket attacks, but Islamabad says it is not responsible.
 

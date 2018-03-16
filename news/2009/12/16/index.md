@@ -19,9 +19,9 @@ Yegor T. Gaidar oversaw the transition from Communism to capitalism as the first
 ### [ North Korea reportedly bans all foreigners from entering the country until early February 2010, for unknown reasons. ](/news/2009/12/16/north-korea-reportedly-bans-all-foreigners-from-entering-the-country-until-early-february-2010-for-unknown-reasons.md)
 North Korea reportedly plans to ban foreigners from the country from Sunday unti..
 
-##### Philippine
+##### Philippines
 ### [ The Philippine province of Albay is put under a "state of imminent disaster" as activity at the Mayon Volcano increases. ](/news/2009/12/16/the-philippine-province-of-albay-is-put-under-a-state-of-imminent-disaster-as-activity-at-the-mayon-volcano-increases.md)
-_Context: Albay Province, Mayon Volcano, Philippine_
+_Context: Albay Province, Mayon Volcano, Philippines_
 
 ##### Toumba Diakite
 ### [ Toumba Diakite, an aide to Guinea's military leader Moussa Dadis Camara admits to shooting him after the junta leader wanted him to take responsibility for the massacre of opposition protesters in September. ](/news/2009/12/16/toumba-diakite-an-aide-to-guinea-s-military-leader-moussa-dadis-camara-admits-to-shooting-him-after-the-junta-leader-wanted-him-to-take-re.md)

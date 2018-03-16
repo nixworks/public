@@ -49,7 +49,7 @@ _Context: Somalia, Spanish Navy_
 
 ##### Quezon City
 ### [A huge fire destroys hundreds of homes and leaves thousands homeless in Quezon City, Philippines. ](/news/2010/04/25/a-huge-fire-destroys-hundreds-of-homes-and-leaves-thousands-homeless-in-quezon-city-philippines.md)
-_Context: Philippine, Quezon City_
+_Context: Philippines, Quezon City_
 
 ##### Beirut
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)

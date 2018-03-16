@@ -27,7 +27,7 @@ FBI agents arrest a Bangladeshi man for plotting to detonate what he thought was
 ### [The UK's Lancashire Police apologises after an officer used a Taser on a blind man whose white cane was mistaken for a samurai sword. The matter is also referred to the Independent Police Complaints Commission. ](/news/2012/10/17/the-uk-s-lancashire-police-apologises-after-an-officer-used-a-taser-on-a-blind-man-whose-white-cane-was-mistaken-for-a-samurai-sword-the-ma.md)
 _Context: Independent Police Complaints Commission, Lancashire Police, Taser, samurai sword, white cane_
 
-##### United States Navy
+##### U.S. Navy
 ### [Two U.S. sailors are arrested over an alleged rape of a Japanese woman on Okinawa. ](/news/2012/10/17/two-u-s-sailors-are-arrested-over-an-alleged-rape-of-a-japanese-woman-on-okinawa.md)
 Two US troops are arrested over the alleged rape of a Japanese woman in Okinawa, amid ongoing opposition to the US military footprint there.
 

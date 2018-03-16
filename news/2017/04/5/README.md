@@ -23,7 +23,7 @@ SEOUL, South Korea (AP) — North Korea fired a newly developed powerful ballist
 ### [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md)
  A powerful earthquake struck northeast Iran on Wednesday near the holy city of Mashhad, leaving at least one person dead and several injured.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. ](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.md)
 A military fighter jet that left Joint Base Andrews Wednesday morning crashed about two miles south on Wednesday.
 

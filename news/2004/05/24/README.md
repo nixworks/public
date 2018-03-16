@@ -13,7 +13,7 @@ _Context: Israel, Madonna_
 
 ##### 2004 elections
 ### [ Philippine general election, 2004: Incumbent Philippine President Gloria Macapagal Arroyo wins another term according to a senior election official who leaks the narrow winning margin of about 3% or 900,000 votes. An independent watchdog group confirms the figures. ](/news/2004/05/24/philippine-general-election-2004-incumbent-philippine-president-gloria-macapagal-arroyo-wins-another-term-according-to-a-senior-election.md)
-_Context: 2004 elections, Gloria Macapagal Arroyo, President_
+_Context: 2004 elections, Gloria Macapagal Arroyo, Philippine President_
 
 ##### South Korean politics
 ### [ South Korean politics: South Korean Prime Minister Goh Kun resigns as announced last month. His successor has not yet been named by President Roh Moo-hyun. ](/news/2004/05/24/south-korean-politics-south-korean-prime-minister-goh-kun-resigns-as-announced-last-month-his-successor-has-not-yet-been-named-by-preside.md)

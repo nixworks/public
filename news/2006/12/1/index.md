@@ -21,7 +21,7 @@ _Context: Australian Labor Party, Jenny Macklin, Julia Gillard, Kevin Rudd, Kim 
 
 ##### Typhoon Durian
 ### [ Typhoon Durian has killed at least 388 people in Albay province on the island of Luzon in the Philippines with the death toll expected to climb as rescuers get to affected villages. ](/news/2006/12/1/typhoon-durian-has-killed-at-least-388-people-in-albay-province-on-the-island-of-luzon-in-the-philippines-with-the-death-toll-expected-to-c.md)
-_Context: Albay Province, Luzon, Philippine, Typhoon Durian_
+_Context: Albay Province, Luzon, Philippines, Typhoon Durian_
 
 ##### Felipe Caldern
 ### [ Felipe Caldern becomes the President of Mexico. ](/news/2006/12/1/felipe-calderon-becomes-the-president-of-mexico.md)

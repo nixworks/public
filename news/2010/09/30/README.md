@@ -33,7 +33,7 @@ _Context: Aba, Nigeria_
 
 ##### Somali pirates
 ### [Somali pirates seize a Panamanian-flagged ship with 15 Indian crewmen on board, off the coast of Tanzania. ](/news/2010/09/30/somali-pirates-seize-a-panamanian-flagged-ship-with-15-indian-crewmen-on-board-off-the-coast-of-tanzania.md)
-_Context: India, Panamanian, Somali pirates, Tanzania_
+_Context: India, Panama, Somali pirates, Tanzania_
 
 ##### China
 ### [58 people, including 34 former government officials, are given sentences in China over a deadly landslide at an illegal iron ore mine that killed 277 people in 2008. ](/news/2010/09/30/58-people-including-34-former-government-officials-are-given-sentences-in-china-over-a-deadly-landslide-at-an-illegal-iron-ore-mine-that-k.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2009/11/25/index.html)  [JSON](2009/11/25/index.json)  [XML](200
 
 ## [2009-11-25](/news/2009/11/25/index.md)
 
-##### Philippine
+##### Philippines
 ### [ Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-massacre.md)
 MANILA - Police on Wednesday named a political ally of President Gloria Arroyo as the prime suspect in an election-linked massacre of at least 50 people.
 

@@ -33,7 +33,7 @@ Intense rains and snowstorms in central and southern Chile have left four people
 
 ##### USS ''Fitzgerald'' and MV ''ACX Crystal'' collision
 ### [The USS "Fitzgerald", a United States Navy destroyer, collides with a merchant ship MV "ACX Crystal" off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2-30-a.md)
-_Context: Japan, MV ''ACX Crysta''l, USS ''Fitzgerald'', USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, United States Navy, collides_
+_Context: Japan, MV ''ACX Crysta''l, U.S. Navy, USS ''Fitzgerald'', USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, collides_
 
 ##### Colombian conflict
 ### [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-and-injures-at-least-1.md)

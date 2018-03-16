@@ -99,7 +99,7 @@ At least 41 people killed and dozens injured after a suicide bombing near a mosq
 
 ##### New People's Army
 ### [Communist rebels in the Philippines kill 10 soldiers as they returned to base to observe a Christmas truce. ](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.md)
-_Context: Christmas, New People's Army, Philippine_
+_Context: Christmas, New People's Army, Philippines_
 
 ## [Previous Day...](/news/2010/12/14/index.md)
 

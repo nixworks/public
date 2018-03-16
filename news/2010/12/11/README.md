@@ -81,7 +81,7 @@ Suspected drug lord Nazario Moreno was gunned down late on Thursday by security 
 
 ##### New People's Army
 ### [Leftist New People's Army rebels capture a village official and tribal chieftain during an attack on a militia outpost in Davao City, southern Philippines. ](/news/2010/12/11/leftist-new-people-s-army-rebels-capture-a-village-official-and-tribal-chieftain-during-an-attack-on-a-militia-outpost-in-davao-city-southe.md)
-_Context: Davao City, New People's Army, Philippine_
+_Context: Davao City, New People's Army, Philippines_
 
 ## [Previous Day...](/news/2010/12/10/index.md)
 

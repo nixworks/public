@@ -107,7 +107,7 @@ The Palestinian Authority calls on President Obama to end tax breaks on US donat
 ### [A bomb rips through the engine and coach of a passenger train in Assam, India, killing one person. ](/news/2010/07/8/a-bomb-rips-through-the-engine-and-coach-of-a-passenger-train-in-assam-india-killing-one-person.md)
 _Context: Assam, India_
 
-##### Philippine
+##### Philippines
 ### [A fugitive rebel captain in the Philippines, Nicanor Faeldon, accused of participation in the Oakwood mutiny, turns himself in after three years. ](/news/2010/07/8/a-fugitive-rebel-captain-in-the-philippines-nicanor-faeldon-accused-of-participation-in-the-oakwood-mutiny-turns-himself-in-after-three-y.md)
 A rebel soldier who took part in the 2007 occupation of a luxury hotel in Manila surrenders to the new Philippine government.
 

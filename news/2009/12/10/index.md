@@ -13,7 +13,7 @@ _Context: Northern Norway, RSM-56 Bulava, Russia, mysterious spiral light_
 
 ##### Agusan del Sur
 ### [ 18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. ](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.md)
-_Context: Agusan del Sur, Mindanao, Philippine_
+_Context: Agusan del Sur, Mindanao, Philippines_
 
 ##### India
 ### [ India announces it is to create a new state, Telangana, out of Andhra Pradesh, with some officials resigning in protest. ](/news/2009/12/10/india-announces-it-is-to-create-a-new-state-telangana-out-of-andhra-pradesh-with-some-officials-resigning-in-protest.md)

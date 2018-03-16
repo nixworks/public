@@ -39,9 +39,9 @@ Afghan President Hamid Karzai saidon Saturday that a suicide bombing attack that
 ### [Eight people, including four children, are killed after fire rages through a popular night market in the Cambodian town of Siem Reap. ](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.md)
 A blaze rages for two hours in the night market, a popular tourist attraction, and destroys some 100 stalls selling souvenirs.
 
-##### President
+##### Philippine President
 ### [The President of the Philippines Benigno Aquino declares a state of national calamity in the country following Typhoon Bopha, which has claimed over 450 lives. ](/news/2012/12/8/the-president-of-the-philippines-benigno-aquino-declares-a-state-of-national-calamity-in-the-country-following-typhoon-bopha-which-has-clai.md)
-_Context: President, Typhoon Bopha, his predecessor_
+_Context: Philippine President, Typhoon Bopha, his predecessor_
 
 ##### Presidential palace
 ### [Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md)

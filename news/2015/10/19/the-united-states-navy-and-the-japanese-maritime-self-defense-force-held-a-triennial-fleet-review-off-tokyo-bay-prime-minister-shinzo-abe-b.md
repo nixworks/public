@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/19/the-united-states-navy-and-the-japanese-maritim
 
 ### [2015-10-19](/news/2015/10/19/index.md)
 
-##### United States Navy
+##### U.S. Navy
 # The United States Navy and the Japanese Maritime Self-Defense Force held a triennial fleet review off Tokyo Bay. Prime Minister Shinzo Abe became the first sitting Japanese leader to board a U.S. aircraft carrier when he visited the USS "Ronald Reagan". 
 
 Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to set foot on a U.S. aircraft carrier when he boarded the USS Ronald Reagan,

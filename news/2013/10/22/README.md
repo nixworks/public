@@ -15,7 +15,7 @@ GAY marriage has been legalised in the ACT in an Australian first.
 ### [Apple announces the introduction of iPad Air and the availability of the newest version of OS X, Mavericks. ](/news/2013/10/22/apple-announces-the-introduction-of-ipad-air-and-the-availability-of-the-newest-version-of-os-x-mavericks.md)
 _Context: Apple Inc., Mavericks, OS X, iPad Air_
 
-##### Anbar province
+##### Al Anbar Governorate
 ### [Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md)
 Militants killed at least 22 members of the security forces in Iraq on Tuesday, mostly in attacks on police and military checkpoints, with the western Anbar province bearing the brunt of the violence, sources said.
 

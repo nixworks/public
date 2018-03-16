@@ -19,9 +19,9 @@ _Context: Caribbean, Cayman Islands, Dominica, Hurricane Dean, Jamaica, Martiniq
 ### [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yeste.md)
 In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s party has won 88 per cent of the vote.
 
-##### Philippine
+##### Philippines
 ### [ The Philippines army captures an Abu Sayyaf base on the island of Basilan following a heavy struggle with at least 35 soldiers and militants killed in the battle. ](/news/2007/08/19/the-philippines-army-captures-an-abu-sayyaf-base-on-the-island-of-basilan-following-a-heavy-struggle-with-at-least-35-soldiers-and-militant.md)
-_Context: Abu Sayyaf, Basilan island, Philippine_
+_Context: Abu Sayyaf, Basilan island, Philippines_
 
 ##### Heat wave
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)

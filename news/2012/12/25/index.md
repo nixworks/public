@@ -31,7 +31,7 @@ A Chinese man has rammed his car into a group of schoolchildren and attempted to
 ### [Iran rebuffs a Stuxnet-style computer worm attack on a power plant in southern Iran. Tehran accuses Israel and the United States of planting the malware. ](/news/2012/12/25/iran-rebuffs-a-stuxnet-style-computer-worm-attack-on-a-power-plant-in-southern-iran-tehran-accuses-israel-and-the-united-states-of-planting.md)
 A power plant in southern Iran is targeted by the Stuxnet computer worm but the cyber attack is rebuffed, an Iranian official says.
 
-##### Philippine
+##### Philippines
 ### [At least eight people have died and thousands been left homeless in the Philippines after two fires struck Manila on Christmas Day. A fire has sparked violent clashes between residents and firefighters. ](/news/2012/12/25/at-least-eight-people-have-died-and-thousands-been-left-homeless-in-the-philippines-after-two-fires-struck-manila-on-christmas-day-a-fire-h.md)
 Thousands of people are left homeless after the fires ripped through a slum and apartment blocks in the capital city.
 

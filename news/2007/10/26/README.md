@@ -15,9 +15,9 @@ _Context: Asia, Kallang-Paya Lebar Expressway, Singapore, subterranean, tunnel_
 ### [ Leaders of the European Union and Russia meet for their annual summit in Lisbon. ](/news/2007/10/26/leaders-of-the-european-union-and-russia-meet-for-their-annual-summit-in-lisbon.md)
 _Context: European Union, Lisbon, Russia_
 
-##### President
+##### Philippine President
 ### [ Former President of the Philippines Joseph Estrada is freed after receiving a pardon from the current President Gloria Arroyo. ](/news/2007/10/26/former-president-of-the-philippines-joseph-estrada-is-freed-after-receiving-a-pardon-from-the-current-president-gloria-arroyo.md)
-_Context: Gloria Arroyo, Joseph Estrada, President_
+_Context: Gloria Arroyo, Joseph Estrada, Philippine President_
 
 ##### Explosion
 ### [ An explosion shakes the Mexican consulate in New York City. The explosion was caused by two thrown hand grenades aided by additional explosive material. 7 injuries were reported, with several windows blown out and debris entering the building. ](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-new-york-city-the-explosion-was-caused-by-two-thrown-hand-grenades-aided-by-additional-explos.md)

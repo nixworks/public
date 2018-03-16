@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/28/the-united-states-navy-and-south-korean-navy-ho
 
 ### [2010-11-28](/news/2010/11/28/index.md)
 
-##### United States Navy
+##### U.S. Navy
 # The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. 
 
 gyun and Jo Yong-hak

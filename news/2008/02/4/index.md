@@ -33,7 +33,7 @@ _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_
 
 ##### U.S. federal court
 ### [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md)
-_Context: George W. Bush, U.S. President, U.S. federal court, United States Navy, judge, sonar_
+_Context: George W. Bush, U.S. Navy, U.S. President, U.S. federal court, judge, sonar_
 
 ##### Congress of France
 ### [ The Versailles Assembly, bringing together both the French Senate and the Chamber of Deputies, votes 560 to 181 in favour of amending the constitution to allow adoption of the EU Lisbon Treaty. ](/news/2008/02/4/the-versailles-assembly-bringing-together-both-the-french-senate-and-the-chamber-of-deputies-votes-560-to-181-in-favour-of-amending-the-c.md)

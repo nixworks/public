@@ -21,7 +21,7 @@ _Context: China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese National
 
 ##### Zamboanga International Airport
 ### [ A bomb at Edwin Andrews Air Base in Zamboanga City in the southern Philippines kills two people and injures another 17. ](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.md)
-_Context: Philippine, Zamboanga City, Zamboanga International Airport_
+_Context: Philippines, Zamboanga City, Zamboanga International Airport_
 
 ##### Suicide bombing
 ### [ At least 20 people are killed and 42 injured after two suicide bombings in northern Iraq. ](/news/2008/05/29/at-least-20-people-are-killed-and-42-injured-after-two-suicide-bombings-in-northern-iraq.md)

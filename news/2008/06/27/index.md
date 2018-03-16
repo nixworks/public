@@ -7,7 +7,7 @@ Formats: [HTML](2008/06/27/index.html)  [JSON](2008/06/27/index.json)  [XML](200
 ### [ American Foam Corporation offers to pay $6.3 million to settle legal action filed against them for manufacturing dangerous foam that contributed to the Station nightclub fire. 100 people died in the disaster. ](/news/2008/06/27/american-foam-corporation-offers-to-pay-6-3-million-to-settle-legal-action-filed-against-them-for-manufacturing-dangerous-foam-that-contri.md)
 _Context: American Foam, the Station nightclub fire_
 
-##### Philippine
+##### Philippines
 ### [ The discovery that the sunken Philippines ferry MV "Princess of the Stars" was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfan.md)
 Philippine officials suspended the retrieval Friday of hundreds of bodies believed trapped inside a sunken ferry due to fears divers may be exposed to toxic chemicals in the cargo hold.
 

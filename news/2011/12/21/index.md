@@ -39,7 +39,7 @@ _Context: Indonesia, Maluku Islands_
 ### [Health authorities in Hong Kong start slaughtering 17,000 chickens after a carcass infected with bird flu H5N1 is found at a poultry market. ](/news/2011/12/21/health-authorities-in-hong-kong-start-slaughtering-17-000-chickens-after-a-carcass-infected-with-bird-flu-h5n1-is-found-at-a-poultry-market.md)
 The culling is part of a series of precautionary steps being taken after the chicken carcass was found to have a “highly pathogenic H5N1 avian influenza virus,” officials said.
 
-##### Philippine
+##### Philippines
 ### [The death toll from flooding in the Philippines caused by Tropical Storm Washi reaches 1,002 and is set to rise further. ](/news/2011/12/21/the-death-toll-from-flooding-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-002-and-is-set-to-rise-further.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

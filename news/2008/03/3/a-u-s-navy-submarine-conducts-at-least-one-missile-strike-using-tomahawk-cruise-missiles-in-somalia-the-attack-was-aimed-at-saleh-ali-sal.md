@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/3/a-u-s-navy-submarine-conducts-at-least-one-missi
 
 ### [2008-03-3](/news/2008/03/3/index.md)
 
-##### United States Navy
+##### U.S. Navy
 #  A U.S. Navy submarine conducts at least one missile strike using Tomahawk cruise missiles in Somalia. The attack was aimed at Saleh Ali Saleh Nabhan, an al-Qaeda terrorist. 
 
 
@@ -21,4 +21,4 @@ Formats: [HTML](/news/2008/03/3/a-u-s-navy-submarine-conducts-at-least-one-missi
 2. [Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-african-union-force-in-somalia.md) _Context: Somalia, al-Qaeda_
 3. [The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. ](/news/2013/03/6/the-united-nations-security-council-adopts-resolution-2093-that-partially-lifts-a-decades-old-arms-embargo-on-somalia-for-one-year-allowing.md) _Context: Somalia, al-Qaeda_
 4. [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md) _Context: Somalia, al-Qaeda_
-5. [A United States court sentences a Somali to 30 years in jail for piracy after an unsuccessful attack on a United States Navy flotilla. ](/news/2010/11/29/a-united-states-court-sentences-a-somali-to-30-years-in-jail-for-piracy-after-an-unsuccessful-attack-on-a-united-states-navy-flotilla.md) _Context: Somalia, United States Navy_
+5. [A United States court sentences a Somali to 30 years in jail for piracy after an unsuccessful attack on a United States Navy flotilla. ](/news/2010/11/29/a-united-states-court-sentences-a-somali-to-30-years-in-jail-for-piracy-after-an-unsuccessful-attack-on-a-united-states-navy-flotilla.md) _Context: Somalia, U.S. Navy_

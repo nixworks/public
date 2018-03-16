@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/23/index.html)  [JSON](2013/12/23/index.json)  [XML](201
 
 ## [2013-12-23](/news/2013/12/23/index.md)
 
-##### Philippine
+##### Philippines
 ### [Former Philippine President Joseph Estrada visits former President Gloria Arroyo in the hospital where she is currently detained. ](/news/2013/12/23/former-philippine-president-joseph-estrada-visits-former-president-gloria-arroyo-in-the-hospital-where-she-is-currently-detained.md)
 Not too long ago, she was the president and he was held without bail in the same hospital for plunder. 
 

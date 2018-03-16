@@ -49,7 +49,7 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 
 ##### 2015 Pacific typhoon season
 ### [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md)
-_Context: 2015 Pacific typhoon season, Philippine, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
+_Context: 2015 Pacific typhoon season, Philippines, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
 
 ##### Boko Haram insurgency
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)

@@ -43,9 +43,9 @@ _Context: Colectiv nightclub fire_
 ### [Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the-crash-is-known.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### United States Navy
+##### U.S. Navy
 ### [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the El Faro which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-el-faro-wh.md)
-_Context: Hurricane Joaquin, United States Navy, the Bahamas_
+_Context: Hurricane Joaquin, U.S. Navy, the Bahamas_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [One Palestinian is killed and three Israeli soldiers injured in two attacks in the West Bank. According to the Israeli army, the Palestinian was shot dead after attempting to stab soldiers at a military checkpoint near the Beit Einun village in Hebron. In a second incident in the same area, a driver rammed and injured three Israeli paramilitary border policemen with his car before fleeing the scene. None of the three were injured seriously. ](/news/2015/11/1/one-palestinian-is-killed-and-three-israeli-soldiers-injured-in-two-attacks-in-the-west-bank-according-to-the-israeli-army-the-palestinian.md)

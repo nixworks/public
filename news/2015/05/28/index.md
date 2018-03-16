@@ -35,7 +35,7 @@ _Context: 2015 Indian heat wave, Andhra Pradesh_
 ### [The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/the-death-toll-from-the-recent-storms-in-the-american-states-of-texas-and-oklahoma-rises-to-21-with-11-people-missing-fourteen-more-people.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### United States Air Force
+##### U.S. Air Force
 ### [The United States Air Force says that as many as 22 people have been inadvertently exposed to anthrax during a laboratory training exercise at Osan Air Base in South Korea. ](/news/2015/05/28/the-united-states-air-force-says-that-as-many-as-22-people-have-been-inadvertently-exposed-to-anthrax-during-a-laboratory-training-exercise.md)
 As many as 22 personnel may have been exposed to anthrax during a laboratory training exercise at a US military base in South Korea, a military statement said Thursday.
 

@@ -65,7 +65,7 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 
 ##### Malta
 ### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
-_Context: Brittany, France, Malta, Panamanian, Tanker, cargo ship_
+_Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
 
 ##### Prime Minister
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)

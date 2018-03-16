@@ -17,7 +17,7 @@ _Context: Gaza Strip, Ghazi al-Jabali, Jenin Martyrs' Brigade, Palestinian, Pale
 
 ##### Iraq
 ### [ Acceding to the demands of Iraqi militants who kidnapped and threaten to behead truck driver Angelo de la Cruz, the Philippines agrees to withdraw from Iraq. Eleven soldiers leave today, while the remaining 32 are slated to withdraw at a later date. ](/news/2004/07/16/acceding-to-the-demands-of-iraqi-militants-who-kidnapped-and-threaten-to-behead-truck-driver-angelo-de-la-cruz-the-philippines-agrees-to-w.md)
-_Context: Angelo de la Cruz, Iraq, Philippine_
+_Context: Angelo de la Cruz, Iraq, Philippines_
 
 ##### Martha Stewart
 ### [ American celebrity Martha Stewart is sentenced to five months in a federal prison, five months of house arrest, two years probation, and ordered to pay a $30,000 fine, for attempting to cover up illegal stock trading. The sentence is stayed pending appeal. ](/news/2004/07/16/american-celebrity-martha-stewart-is-sentenced-to-five-months-in-a-federal-prison-five-months-of-house-arrest-two-years-probation-and-or.md)

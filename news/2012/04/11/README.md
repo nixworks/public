@@ -29,7 +29,7 @@ _Context: House of Reeves, last year's riots in London_
 
 ##### Philippine Navy
 ### [Vessels from the Philippine Navy and Chinese maritime surveillance are at a standoff after the Philippines attempted to arrest Chinese fishermen in the South China Sea. ](/news/2012/04/11/vessels-from-the-philippine-navy-and-chinese-maritime-surveillance-are-at-a-standoff-after-the-philippines-attempted-to-arrest-chinese-fishe.md)
-_Context: Chinese, Philippine, Philippine Navy, South China Sea_
+_Context: Chinese, Philippine Navy, Philippines, South China Sea_
 
 ##### Miner
 ### [Nine miners are rescued from a collapsed copper mine in southern Peru. ](/news/2012/04/11/nine-miners-are-rescued-from-a-collapsed-copper-mine-in-southern-peru.md)
@@ -43,9 +43,9 @@ Two U.S. soldiers were killed and two others injured when a helicopter crashed o
 ### [An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/an-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-issued-there-are-five-ind.md)
 AS IT HAPPENED: A magnitude-8.2 aftershock has followed a massive 8.6 quake that struck off the western coast of the Indonesian island of Sumatra, sparking scenes of panic and triggering a tsunami warning across the Indian Ocean.
 
-##### Philippine
+##### Philippines
 ### [A bomb on a bus kills at least two people in the Philippines town of Carmen in Cotabato Province. ](/news/2012/04/11/a-bomb-on-a-bus-kills-at-least-two-people-in-the-philippines-town-of-carmen-in-cotabato-province.md)
-_Context: Carmen, Cotabato Province, Philippine_
+_Context: Carmen, Cotabato Province, Philippines_
 
 ##### Sudan
 ### [Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/sudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)

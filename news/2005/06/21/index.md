@@ -11,9 +11,9 @@ _Context: Administrative Procedures Act, Court of Appeals, board of directors, m
 ### [ In Zambia, former health ministry official Kashiba Bulaya has been charged again with accepting a bribe from a Bulgarian firm that manufactures anti-retrovirus drugs against AIDS. Government's decision to halt the case a month ago aroused protests. ](/news/2005/06/21/in-zambia-former-health-ministry-official-kashiba-bulaya-has-been-charged-again-with-accepting-a-bribe-from-a-bulgarian-firm-that-manufact.md)
 _Context: AIDS, Bulgaria, Kashiba Bulaya, Zambia, anti-retrovirus drug, bribe_
 
-##### Philippine
+##### Philippines
 ### [ In the Philippines, congress begins an inquiry into allegations that president Gloria Arroyo had rigged votes in last year's presidential elections. President states that she will comment on the process later. Her supporters and the opposition demonstrate in Manila ](/news/2005/06/21/in-the-philippines-congress-begins-an-inquiry-into-allegations-that-president-gloria-arroyo-had-rigged-votes-in-last-year-s-presidential-e.md)
-_Context: Gloria Arroyo, Manila, Philippine_
+_Context: Gloria Arroyo, Manila, Philippines_
 
 ##### Lebanese
 ### [ In Lebanon, a remote control bomb that had been placed under the passenger seat of his car kills anti-Syrian politician George Hawi, former secretary general of Lebanese Communist Party ](/news/2005/06/21/in-lebanon-a-remote-control-bomb-that-had-been-placed-under-the-passenger-seat-of-his-car-kills-anti-syrian-politician-george-hawi-former.md)

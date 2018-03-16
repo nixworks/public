@@ -19,9 +19,9 @@ Rioters hurled bricks, looted businesses and set fires in Baltimore on Monday in
 ### [Opposition activists protest for a second day over President of Burundi Pierre Nkurunziza's decision to run for a third term in office. At least two people were killed yesterday in protests. ](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.md)
 _Context: Pierre Nkurunziza, Presidents_
 
-##### Philippine
+##### Philippines
 ### [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking. ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md)
-_Context: Indonesia, Joko Widodo, Mary Jane Veloso, Philippine, domestic worker, his predecessor_
+_Context: Indonesia, Joko Widodo, Mary Jane Veloso, Philippines, domestic worker, his predecessor_
 
 ##### Suspicions
 ### [The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-people-are-homeless-there-are.md)

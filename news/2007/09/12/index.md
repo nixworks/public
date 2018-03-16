@@ -11,9 +11,9 @@ _Context: 2007, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Trop
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
 _Context: Japanese Prime Minister, Shinzo Abe, with the election of his successor_
 
-##### President
+##### Philippine President
 ### [ Former President of the Philippines Joseph Estrada is found guilty of corruption in his 6-year trial and sentenced to Life Imprisonment. ](/news/2007/09/12/former-president-of-the-philippines-joseph-estrada-is-found-guilty-of-corruption-in-his-6-year-trial-and-sentenced-to-life-imprisonment.md)
-_Context: 6-year trial, Joseph Estrada, President, corruption_
+_Context: 6-year trial, Joseph Estrada, Philippine President, corruption_
 
 ##### Anna Bligh
 ### [ Anna Bligh is endorsed as the next Premier of Queensland by the Queensland Labor Party caucus with Paul Lucas as her deputy. ](/news/2007/09/12/anna-bligh-is-endorsed-as-the-next-premier-of-queensland-by-the-queensland-labor-party-caucus-with-paul-lucas-as-her-deputy.md)

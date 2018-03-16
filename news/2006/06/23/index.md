@@ -33,7 +33,7 @@ _Context: George W. Bush, U.S. President, United States, executive order_
 
 ##### United States
 ### [ Director of the United States Missile Defense Agency, Air Force Lt. Gen. Henry A. Obering III, stated that he is "very confident" any North Korean missile headed towards the United States would be destroyed mid-flight by interceptor missiles if approved by the President. ](/news/2006/06/23/director-of-the-united-states-missile-defense-agency-air-force-lt-gen-henry-a-obering-iii-stated-that-he-is-very-confident-any-north.md)
-_Context: George W. Bush, Missile Defense Agency, North Korea, United States, United States Air Force_
+_Context: George W. Bush, Missile Defense Agency, North Korea, U.S. Air Force, United States_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch estimates that several hundred civilians in eastern Chad have been massacred by Sudanese Janjaweed and UFDC attacks in the past week alone. HRW also accuses the Government of Sudan of using child soldiers. HRW Africa Director Peter Takirambudde refers to the attacks as "havoc," and that civilians "are trapped between the carnage in Darfur and Chad's downward spiral into chaos." ](/news/2006/06/23/human-rights-watch-estimates-that-several-hundred-civilians-in-eastern-chad-have-been-massacred-by-sudanese-janjaweed-and-ufdc-attacks-in-t.md)

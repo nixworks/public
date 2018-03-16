@@ -47,9 +47,9 @@ U.S. President George W. Bush on Thursday said a vote in Myanmar this month woul
 ### [ Sudanese cameraman Sami Mohy El Din Muhammed Al Hajj is released from the Guantanamo Bay detention camp after more than six years in captivity. ](/news/2008/05/1/sudanese-cameraman-sami-mohy-el-din-muhammed-al-hajj-is-released-from-the-guantanamo-bay-detention-camp-after-more-than-six-years-in-captiv.md)
 _Context: Guantanamo Bay detention camp, Sami Mohy El Din Muhammed Al Hajj, Sudan, cameraman_
 
-##### United States Air Force
+##### U.S. Air Force
 ### [ The United States Air Force grounds all T-38C training aircraft following two fatal accidents within 8 days. ](/news/2008/05/1/the-united-states-air-force-grounds-all-t-38c-training-aircraft-following-two-fatal-accidents-within-8-days.md)
-_Context: T-38C, United States Air Force_
+_Context: T-38C, U.S. Air Force_
 
 ## [Previous Day...](/news/2008/04/30/index.md)
 

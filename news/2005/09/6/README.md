@@ -3,9 +3,9 @@ Formats: [HTML](2005/09/6/index.html)  [JSON](2005/09/6/index.json)  [XML](2005/
 
 ## [2005-09-6](/news/2005/09/6/index.md)
 
-##### President
+##### Philippine President
 ### [ Philippine President Gloria Macapagal-Arroyo survives the 2005 political crisis as the plenary session of the House of Representatives of the Philippines dropped the impeachment complaint filed against her. ](/news/2005/09/6/philippine-president-gloria-macapagal-arroyo-survives-the-2005-political-crisis-as-the-plenary-session-of-the-house-of-representatives-of-t.md)
-_Context: 2005 political crisis, Gloria Macapagal-Arroyo, Philippine, Philippine lower House, President_
+_Context: 2005 political crisis, Gloria Macapagal-Arroyo, Philippine President, Philippine lower House, Philippines_
 
 ##### Australia
 ### [ Australian telecommunication company Telstra's share price tumbles to a two year low of $4.32AU as Prime Minister John Howard condemns their new management team as disgraceful and the Australian Securities and Investment Commission launches a criminal probe of Telstra's leaked and negative statements. ](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.md)

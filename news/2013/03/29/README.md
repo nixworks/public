@@ -43,9 +43,9 @@ Move prevents adoption of first-ever international treaty to regulate the $70bn 
 ### [A study published in "The Journal of Pediatrics" confirms that there is no scientific evidence of a link between vaccines and autism. ](/news/2013/03/29/a-study-published-in-the-journal-of-pediatrics-confirms-that-there-is-no-scientific-evidence-of-a-link-between-vaccines-and-autism.md)
 Kids with and without autism received the same amount of antigens, which cause the body to create antibodies to fight disease, by 2
 
-##### United States Navy
+##### U.S. Navy
 ### [A United States Navy SEAL is killed in a training accident. ](/news/2013/03/29/a-united-states-navy-seal-is-killed-in-a-training-accident.md)
-_Context: United States Navy, United States Navy SEAL_
+_Context: U.S. Navy, United States Navy SEAL_
 
 ##### Ice floes
 ### [More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. ](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.md)

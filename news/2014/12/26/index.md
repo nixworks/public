@@ -27,9 +27,9 @@ _Context: 2004 Indian Ocean earthquake and tsunami, Indian Ocean_
 ### [Flooding in Peninsular Malaysia forces the evacuation of over 100,000 people. ](/news/2014/12/26/flooding-in-peninsular-malaysia-forces-the-evacuation-of-over-100-000-people.md)
 _Context: 2014 Southeast Asian floods, Peninsular Malaysia_
 
-##### Philippine
+##### Philippines
 ### [The Philippines and the local Communist Party agree to renew talks that may lead to a peace treaty which could end the 46-year communist insurgency in the country. ](/news/2014/12/26/the-philippines-and-the-local-communist-party-agree-to-renew-talks-that-may-lead-to-a-peace-treaty-which-could-end-the-46-year-communist-ins.md)
-_Context: Communist, Philippine, communist rebels, peace treaty_
+_Context: Communist, Philippines, communist rebels, peace treaty_
 
 ##### War in Donbass
 ### [Ukraine and pro-Russia rebels exchange nearly 370 prisoners in the largest such exchange since hostilities began in April this year. ](/news/2014/12/26/ukraine-and-pro-russia-rebels-exchange-nearly-370-prisoners-in-the-largest-such-exchange-since-hostilities-began-in-april-this-year.md)

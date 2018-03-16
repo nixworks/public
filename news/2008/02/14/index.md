@@ -11,9 +11,9 @@ _Context: Cologne, Monet, Wallraf-Richartz Museum_
 ### [ Kiribati now has the largest protected marine reserve in the world. ](/news/2008/02/14/kiribati-now-has-the-largest-protected-marine-reserve-in-the-world.md)
 _Context: Kiribati, marine reserve_
 
-##### United States Navy
+##### U.S. Navy
 ### [ The United States Navy will use an SM-3 missile to destroy USA 193, a broken National Reconnaissance Office spy satellite which contains unused hydrazine fuel. ](/news/2008/02/14/the-united-states-navy-will-use-an-sm-3-missile-to-destroy-usa-193-a-broken-national-reconnaissance-office-spy-satellite-which-contains-un.md)
-_Context: National Reconnaissance Office, SM-3, USA 193, United States Navy, hydrazine, spy satellite_
+_Context: National Reconnaissance Office, SM-3, U.S. Navy, USA 193, hydrazine, spy satellite_
 
 ##### Vladimir Putin
 ### [ President Vladimir Putin says Russia would target its missiles at Ukraine if it threatened Russia's national security. ](/news/2008/02/14/president-vladimir-putin-says-russia-would-target-its-missiles-at-ukraine-if-it-threatened-russia-s-national-security.md)

@@ -9,7 +9,7 @@ _Context: Mandala Airlines, Mandala Airlines Flight 091, Medan, North Sumatra, R
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Two British Soldiers have been killed following a roadside IED bomb in Basra, southern Iraq. ](/news/2005/09/5/conflict-in-iraq-two-british-soldiers-have-been-killed-following-a-roadside-ied-bomb-in-basra-southern-iraq.md)
-_Context: Basra, British Soldiers, Conflict in Iraq, Iraq, roadside bomb_
+_Context: Basra, British Soldiers, Conflict in Iraq, IED, Iraq_
 
 ##### Ibrahim Rugova
 ### [ Ibrahim Rugova, the President of Kosovo, has announced that he has lung cancer but will not be stepping down. ](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.md)

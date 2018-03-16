@@ -15,7 +15,7 @@ _Context: Conservatives, David Davis, House of Lords, MP, Parliament, United Kin
 ### [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md)
 _Context: Alvaro Colom, Guatemala, Guatemalan President, United Nations, kickback scheme, mafia, public hospital_
 
-##### President
+##### Philippine President
 ### [ President Benigno Aquino III says the Philippines doesn't have the capacity to permanently house Manus Island refugees from Australian-run detention camps. ](/news/2015/10/27/president-benigno-aquino-iii-says-the-philippines-doesn-t-have-the-capacity-to-permanently-house-manus-island-refugees-from-australian-run.md)
 Philippines President Benigno Aquino said his country has &#034;no capacity&#034; to resettle refugees from Australia, adding his government was &#034;challenged to meet the needs of its own people right now.&#034;
 

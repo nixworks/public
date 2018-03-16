@@ -19,9 +19,9 @@ _Context: Darfur, Jan Pronk, Sudan, United Nations, blog_
 ### [ Icelandic fisherman kill a Fin Whale, breaking the International Whaling Commission's ban on commercial whaling. ](/news/2006/10/22/icelandic-fisherman-kill-a-fin-whale-breaking-the-international-whaling-commission-s-ban-on-commercial-whaling.md)
 _Context: Fin Whale, Iceland, International Whaling Commission, whaling_
 
-##### Panamanian
+##### Panama
 ### [ Based on extraofficial partial results, Panama has approved in a referendum a $5.25 billion USD plan to expand the Panama Canal by 79% (40% of votes counted). ](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.md)
-_Context: Panama Canal, Panamanian, approved in a referendum, plan to expand_
+_Context: Panama, Panama Canal, approved in a referendum, plan to expand_
 
 ##### Baqouba
 ### [ Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md)

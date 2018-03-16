@@ -33,7 +33,7 @@ _Context: ''Columbia'' disaster, Discovery, February 2003, May 22, STS-114_
 
 ##### Israel
 ### [ Three Israeli soldiers are hurt when their jeep triggers an IED roadside bomb, near the Karni crossing, on the edge of the Gaza Strip. ](/news/2005/04/21/three-israeli-soldiers-are-hurt-when-their-jeep-triggers-an-ied-roadside-bomb-near-the-karni-crossing-on-the-edge-of-the-gaza-strip.md)
-_Context: Gaza Strip, Israel, cargo terminals, jeep, roadside bomb_
+_Context: Gaza Strip, IED, Israel, cargo terminals, jeep_
 
 ##### American Israel Public Affairs Committee
 ### [ The American Israel Public Affairs Committee (AIPAC) fires two members suspected of passing on U.S. secrets to Israel. ](/news/2005/04/21/the-american-israel-public-affairs-committee-aipac-fires-two-members-suspected-of-passing-on-u-s-secrets-to-israel.md)

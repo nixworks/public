@@ -59,7 +59,7 @@ Without clear signs that Obama will fulfill promise to close facility, more deta
 ### [Two Tunisian soldiers are killed and two wounded by a roadside bomb while hunting Al-Qaeda militants in a mountainous region near the Algerian border. ](/news/2013/06/6/two-tunisian-soldiers-are-killed-and-two-wounded-by-a-roadside-bomb-while-hunting-al-qaeda-militants-in-a-mountainous-region-near-the-algeri.md)
 Two Tunisian soldiers are killed and at least another two wounded in a roadside explosion as they hunt al-Qaeda-linked militants near the border with Algeria, the army says.
 
-##### Anbar province
+##### Al Anbar Governorate
 ### [Gunmen ambush a bus in Al Anbar Governorate, Iraq, killing 10 border police and 5 civilians. ](/news/2013/06/6/gunmen-ambush-a-bus-in-al-anbar-governorate-iraq-killing-10-border-police-and-5-civilians.md)
 Gunmen ambushed a bus and killed 15 passengers in the Iraqi desert on Wednesday, security officials said, as growing sectarian violence raises fears of a return to civil war.
 

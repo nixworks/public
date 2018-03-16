@@ -19,7 +19,7 @@ _Context: Conseil d'Etat, France, Villeneuve-Loubet, burkini, commune_
 ### [The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md)
 _Context: North Gauteng High Court, Oscar Pistorius, Trial of Oscar Pistorius_
 
-##### Philippine
+##### Philippines
 ### [Philippine president Rodrigo Duterte unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchange.md)
 President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjartan Sekkingstad, who has yet to be released by the Abu Sayyaf
 

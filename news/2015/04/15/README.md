@@ -45,7 +45,7 @@ Nokia has announced its intention to acquire telecoms equipment company Alcatel-
 
 ##### ISIL
 ### [Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-capital-ramadi.md)
-_Context: Anbar province, ISIL, Iraq, Ramadi_
+_Context: Al Anbar Governorate, ISIL, Iraq, Ramadi_
 
 ## [Previous Day...](/news/2015/04/14/index.md)
 

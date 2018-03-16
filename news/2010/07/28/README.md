@@ -39,9 +39,9 @@ British PM David Cameron warns Pakistan not to have any relationship with groups
 ### [A boat sinks on the Kasai river in the Democratic Republic of the Congo, killing as many as 140. ](/news/2010/07/28/a-boat-sinks-on-the-kasai-river-in-the-democratic-republic-of-the-congo-killing-as-many-as-140.md)
 About 140 people are feared dead as a boat capsizes on a river in the western Bandundu province of the Democratic Republic of Congo.
 
-##### United States Air Force
+##### U.S. Air Force
 ### [A United States Air Force Boeing C-17 crashes at the Elmendorf Air Force Base in Alaska. ](/news/2010/07/28/a-united-states-air-force-boeing-c-17-crashes-at-the-elmendorf-air-force-base-in-alaska.md)
-_Context: Alaska, Boeing C-17, Elmendorf Air Force Base, United States Air Force_
+_Context: Alaska, Boeing C-17, Elmendorf Air Force Base, U.S. Air Force_
 
 ##### Airblue
 ### [Airblue Flight 202 crashes in the Margalla Hills outside Islamabad, Pakistan, killing all 152 people aboard. ](/news/2010/07/28/airblue-flight-202-crashes-in-the-margalla-hills-outside-islamabad-pakistan-killing-all-152-people-aboard.md)

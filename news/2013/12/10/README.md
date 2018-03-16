@@ -19,9 +19,9 @@ _Context: Looters in Argentina_
 ### [Jean-Claude Mas, the founder of Poly Implant Prothse is sentenced in a French court to four years in prison for fraud for selling faulty breast implants. ](/news/2013/12/10/jean-claude-mas-the-founder-of-poly-implant-prothese-is-sentenced-in-a-french-court-to-four-years-in-prison-for-fraud-for-selling-faulty-br.md)
 _Context: Poly Implant Prothse, breast implant_
 
-##### Philippine
+##### Philippines
 ### [The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md)
-_Context: Filipino, Philippine, Yemen_
+_Context: Filipino, Philippines, Yemen_
 
 ##### National Security Agency
 ### [The United States National Security Agency played "World of Warcraft", "Second Life", and games on the Xbox 360 to spy on gamers. ](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.md)

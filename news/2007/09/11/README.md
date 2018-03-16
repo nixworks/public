@@ -19,9 +19,9 @@ _Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Is
 ### [ The European Union decides the United Kingdom can continue to use imperial measurements for the foreseeable future. ](/news/2007/09/11/the-european-union-decides-the-united-kingdom-can-continue-to-use-imperial-measurements-for-the-foreseeable-future.md)
 _Context: European Union, United Kingdom, imperial measurement_
 
-##### Philippine
+##### Philippines
 ### [ Police in the Philippines arrest seven militants suspected of plotting to bomb tourist and shopping locations in the southern Philippines. ](/news/2007/09/11/police-in-the-philippines-arrest-seven-militants-suspected-of-plotting-to-bomb-tourist-and-shopping-locations-in-the-southern-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ##### OPEC
 ### [ OPEC meets to discuss proposals for a minor increase in oil output proposed by Saudi Arabia and other Gulf states. The meeting decided to increase output by 500,000 barrels a day.](/news/2007/09/11/opec-meets-to-discuss-proposals-for-a-minor-increase-in-oil-output-proposed-by-saudi-arabia-and-other-gulf-states-the-meeting-decided-to-i.md)

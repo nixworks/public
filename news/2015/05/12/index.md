@@ -47,9 +47,9 @@ Drivers of the Delhi Transport Cooperation (DTC) today called off their strike p
 ### [Verizon Communications Inc. announces that it will buy AOL Inc. for US$4.4 billion. ](/news/2015/05/12/verizon-communications-inc-announces-that-it-will-buy-aol-inc-for-us-4-4-billion.md)
 _Context: AOL Inc., Verizon Communications_
 
-##### Philippine
+##### Philippines
 ### [The Philippines establishes regulations for ride-sharing apps, like Uber, making it the first country to do so. ](/news/2015/05/12/the-philippines-establishes-regulations-for-ride-sharing-apps-like-uber-making-it-the-first-country-to-do-so.md)
-_Context: Philippine, Uber_
+_Context: Philippines, Uber_
 
 ##### Christianity
 ### [Christianity in the United States falls to its lowest percentage levels while irreligion rises. ](/news/2015/05/12/christianity-in-the-united-states-falls-to-its-lowest-percentage-levels-while-irreligion-rises.md)

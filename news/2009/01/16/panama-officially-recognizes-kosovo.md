@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/16/panama-officially-recognizes-kosovo.html)  [JSO
 
 ### [2009-01-16](/news/2009/01/16/index.md)
 
-##### Panamanian
+##### Panama
 #  Panama officially recognizes Kosovo. 
 
 

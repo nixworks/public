@@ -17,9 +17,9 @@ EU members states have accepted Bosnia&#39;s membership application, starting a 
 
 ##### 2015-16 Zika virus epidemic
 ### [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md)
-_Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Manila, Philippine, Visayas, Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Manila, Philippines, Visayas, Zika virus_
 
-##### United States Air Force
+##### U.S. Air Force
 ### [A United States Air Force U-2 reconnaissance aircraft crashes in Northern California, shortly after takeoff from Beale Air Force Base, killing one pilot and injuring another. ](/news/2016/09/20/a-united-states-air-force-u-2-reconnaissance-aircraft-crashes-in-northern-california-shortly-after-takeoff-from-beale-air-force-base-killi.md)
 Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just north of Sacramento, according to the U.S. Air Force.
 

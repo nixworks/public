@@ -19,7 +19,7 @@ _Context: Italy, NSA, President of the European Parliament, U.S. for allegations
 ### [Hassan Rouhani, President-elect of Iran, criticizes the Islamic Republic of Iran Broadcasting (IRIB) over its news censorship of the Syrian civil war and the 2009-10 election protests. He also says Iran needs a cautious approach in its foreign policy. ](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.md)
 _Context: 2009-10 Iranian election protests, Censorship in Iran, Foreign relations of Iran, Hassan Rouhani, Iran, Islamic Republic of Iran Broadcasting, President, Syrian civil war_
 
-##### President
+##### Philippine President
 ### [Former President of the Philippines Joseph Estrada is sworn-in as the newly elected Mayor of Manila, the nation's capital. ](/news/2013/06/30/former-president-of-the-philippines-joseph-estrada-is-sworn-in-as-the-newly-elected-mayor-of-manila-the-nation-s-capital.md)
 Exactly 15 years after he was sworn as Philippine president, Joseph Estrada takes his oath as the chief executive of Manila
 

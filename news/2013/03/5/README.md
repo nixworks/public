@@ -45,7 +45,7 @@ _Context: 2013, China, Korean Armistice Agreement, Korean War, North Korea, Unit
 
 ##### Venezuela
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: U.S., United States, United States Air Force, Venezuela, embassy, military attache_
+_Context: U.S., U.S. Air Force, United States, Venezuela, embassy, military attache_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average surpasses pre-financial crisis levels, reaching an all-time high, last set in October 2007, after the release of better than expected economic data from the United States and Europe and the Chinese growth target. ](/news/2013/03/5/the-dow-jones-industrial-average-surpasses-pre-financial-crisis-levels-reaching-an-all-time-high-last-set-in-october-2007-after-the-relea.md)

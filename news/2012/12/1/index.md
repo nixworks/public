@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/1/index.html)  [JSON](2012/12/1/index.json)  [XML](2012/
 
 ##### Aircraft carrier
 ### [The Enterprise 6, the world's first nuclear-powered aircraft carrier, is officially inactivated in ceremonies held at Naval Station Norfolk, Virginia, completing a 51-year career in the United States Navy. In a pre-recorded speech, U.S. Secretary of the Navy Ray Mabus announces that the U.S. Navy's third Gerald R. Ford carrier, CVN-80, will be named "Enterprise". ](/news/2012/12/1/the-enterprise-6-the-world-s-first-nuclear-powered-aircraft-carrier-is-officially-inactivated-in-ceremonies-held-at-naval-station-norfolk.md)
-_Context: CVN-80, Naval Station Norfolk, Ray Mabus, Secretary of the Navy, United States Navy, aircraft carrier_
+_Context: CVN-80, Naval Station Norfolk, Ray Mabus, Secretary of the Navy, U.S. Navy, aircraft carrier_
 
 ##### Kuwait
 ### [Voters in Kuwait go to the polls for a parliamentary election with the Opposition holding a boycott. The lowest voter turnout in the Kuwaiti election history is observed. ](/news/2012/12/1/voters-in-kuwait-go-to-the-polls-for-a-parliamentary-election-with-the-opposition-holding-a-boycott-the-lowest-voter-turnout-in-the-kuwaiti.md)

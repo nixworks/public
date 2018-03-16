@@ -39,7 +39,7 @@ THE Australian car industry is all but dead and South Australia is in shock foll
 ### ["Time" magazine names Pope Francis its Person of the Year. ](/news/2013/12/11/time-magazine-names-pope-francis-its-person-of-the-year.md)
 The magazine makes its annual pick from a shortlist which this year included Pope Francis, Bashar al Assad and Miley Cyrus.
 
-##### Philippine
+##### Philippines
 ### [Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-concerns-regarding-the-security-situati.md)
 Mindanao broadcaster Rogelio Butalib shot dead, marking the third fatal attack against a journalist in two weeks.
 

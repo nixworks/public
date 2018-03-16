@@ -9,7 +9,7 @@ _Context: Korean peninsula, North Korea, United States_
 
 ##### Luzon
 ### [ The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
-_Context: Luzon, Philippine_
+_Context: Luzon, Philippines_
 
 ##### Iran
 ### [ Iran and the International Atomic Energy Agency reach agreement on resolving the disputes over the Iranian nuclear program. ](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.md)

@@ -33,7 +33,7 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 
 ##### Kyrgyzstan
 ### [ Kyrgyzstan's Supreme Council approves the closure of the U.S. Air Force's Manas Air Base. ](/news/2009/02/19/kyrgyzstan-s-supreme-council-approves-the-closure-of-the-u-s-air-force-s-manas-air-base.md)
-_Context: Kyrgyzstan, Manas Air Base, Supreme Council, United States, United States Air Force_
+_Context: Kyrgyzstan, Manas Air Base, Supreme Council, U.S. Air Force, United States_
 
 ##### General Motors
 ### [ General Motors says it may provide its struggling Swedish subsidiary Saab Automobile with US$400 million. ](/news/2009/02/19/general-motors-says-it-may-provide-its-struggling-swedish-subsidiary-saab-automobile-with-us-400-million.md)

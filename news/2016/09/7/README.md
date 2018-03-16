@@ -29,7 +29,7 @@ _Context: Ajamu Baraka, Green Party of the United States, Jill Stein, Morton Cou
 
 ##### Russia-United States relations
 ### [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md)
-_Context: Black Sea, P-8A Poseidon, Russia, Russia-United States relations, Russian SU-27 fighter jet, United States Navy_
+_Context: Black Sea, P-8A Poseidon, Russia, Russia-United States relations, Russian SU-27 fighter jet, U.S. Navy_
 
 ##### Iran-Saudi Arabia relations
 ### [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md)

@@ -17,7 +17,7 @@ Two Texas firefighters died and two others were seriously injured battling a fir
 
 ##### Magnitude
 ### [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md)
-_Context: Mindanao, Philippine, earthquake, hits, magnitude_
+_Context: Mindanao, Philippines, earthquake, hits, magnitude_
 
 ##### G20
 ### [A G20 finance ministers meeting occurs in Moscow, Russia, with the focus on so-called currency wars. ](/news/2013/02/16/a-g20-finance-ministers-meeting-occurs-in-moscow-russia-with-the-focus-on-so-called-currency-wars.md)

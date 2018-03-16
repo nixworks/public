@@ -3,7 +3,7 @@ Formats: [HTML](2013/11/9/index.html)  [JSON](2013/11/9/index.json)  [XML](2013/
 
 ## [2013-11-9](/news/2013/11/9/index.md)
 
-##### United States Navy
+##### U.S. Navy
 ### [The United States Navy christened the USS "Gerald R. Ford" - the $15.5 billion aircraft carrier is the most technologically advanced ship ever built. ](/news/2013/11/9/the-united-states-navy-christened-the-uss-gerald-r-ford-the-15-5-billion-aircraft-carrier-is-the-most-technologically-advanced-ship-ev.md)
 The Navy christened the USS Gerald Ford on Saturday with the traditional smashing of a bottle of sparkling wine across the bow of the ship -- the most technologically advanced aircraft carrier the United States has built.
 
@@ -19,7 +19,7 @@ _Context: Bangladesh, Bangladesh Nationalist Party_
 ### [British foreign secretary William Hague urged negotiatiors to "seize the moment" on talks about Iran's nuclear program. ](/news/2013/11/9/british-foreign-secretary-william-hague-urged-negotiatiors-to-seize-the-moment-on-talks-about-iran-s-nuclear-program.md)
 _Context: Iran, William Hague_
 
-##### Philippine
+##### Philippines
 ### [Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-tacloban-and-200-i.md)
 The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one of the most powerful-ever tropical typhoons, blows through the Philippines. Local authorities earlier put the death toll at nearer 100.
 

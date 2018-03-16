@@ -25,7 +25,7 @@ _Context: Austria, President, Thomas Klestil, heart attack_
 
 ##### Harry Schmidt
 ### [ Major Harry Schmidt of the United States Air Force is found guilty of dereliction of duty in a "friendly fire" bombing that killed four and seriously wounded eight Canadian soldiers in Afghanistan in 2002, given an official reprimand and fined US$5,672, which will be made in two monthly payments of US$2,836. ](/news/2004/07/6/major-harry-schmidt-of-the-united-states-air-force-is-found-guilty-of-dereliction-of-duty-in-a-friendly-fire-bombing-that-killed-four-and.md)
-_Context: Afghanistan, Harry Schmidt, United States Air Force, dereliction of duty, friendly fire_
+_Context: Afghanistan, Harry Schmidt, U.S. Air Force, dereliction of duty, friendly fire_
 
 ## [Previous Day...](/news/2004/07/5/index.md)
 

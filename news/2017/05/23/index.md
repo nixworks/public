@@ -51,7 +51,7 @@ Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during
 ### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
 At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 
-##### President
+##### Philippine President
 ### [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 

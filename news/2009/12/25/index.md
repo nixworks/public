@@ -7,9 +7,9 @@ Formats: [HTML](2009/12/25/index.html)  [JSON](2009/12/25/index.json)  [XML](200
 ### [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253 from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to-d.md)
 The Obama administration vows to review security procedures at airports and the government&#39;s system for checking suspicious travelers.
 
-##### Philippine
+##### Philippines
 ### [ Six Filipino sailors and three Greek officers are missing after fire engulfs a ship in an incident off the coast of Venezuela. ](/news/2009/12/25/six-filipino-sailors-and-three-greek-officers-are-missing-after-fire-engulfs-a-ship-in-an-incident-off-the-coast-of-venezuela.md)
-_Context: Greece, Philippine, Venezuela_
+_Context: Greece, Philippines, Venezuela_
 
 ##### Queen Elizabeth
 ### [ Elizabeth II of the United Kingdom remembers the dead soldiers of Afghanistan in the Royal Christmas Message. ](/news/2009/12/25/elizabeth-ii-of-the-united-kingdom-remembers-the-dead-soldiers-of-afghanistan-in-the-royal-christmas-message.md)
