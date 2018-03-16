@@ -3,12 +3,16 @@ Formats: [HTML](2018/03/15/index.html)  [JSON](2018/03/15/index.json)  [XML](201
 
 ## [2018-03-15](/news/2018/03/15/index.md)
 
+##### Rohingya refugees in Bangladesh
+### [The government of Myanmar agrees to repatriate 374 Rohingya refugees from a list of 8,000 submitted by the government of Bangladesh. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. ](/news/2018/03/15/the-government-of-myanmar-agrees-to-repatriate-374-rohingya-refugees-from-a-list-of-8-000-submitted-by-the-government-of-bangladesh-myanmar.md)
+Of list of 8,000 people submitted by Bangladesh government, Myanmar deems only 374 eligible for repatriation
+
 ##### Russia-United Kingdom relations
 ### [Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavrov-says-russia-will-definitely-expel-british-diplomats.md)
 The Russian Foreign Ministry and the Kremlin have spoken out a day after the UK prime minister announced the expulsion of Russian diplomats as a response the alleged poisoning of former intelligence officer Sergei Skripal.
 
 ##### Countering America's Adversaries Through Sanctions Act
-### [The Trump administration imposes financial sanctions on the 13 Russian nationals including government hackers and spy agencies indicted in the Special Counsel investigation. ](/news/2018/03/15/the-trump-administration-imposes-financial-sanctions-on-the-13-russian-nationals-including-government-hackers-and-spy-agencies-indicted-in-t.md)
+### [The Trump administration imposes financial sanctions on 19 Russian nationals, including 12 of those indicted in the Special Counsel investigation. ](/news/2018/03/15/the-trump-administration-imposes-financial-sanctions-on-19-russian-nationals-including-12-of-those-indicted-in-the-special-counsel-investig.md)
 The Trump administration announced sanctions on 13 Russian nationals and three Russian entities charged in the special counsel Robert Mueller&#039;s investigation.
 
 ##### 2017-18 North Korea crisis
@@ -20,11 +24,11 @@ Correction at 2145 KST: A previous version of this article suggested that Choe K
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....
 
 ##### Florida International University pedestrian bridge collapse
-### [A touted pedestrian bridge at Florida International University, Miami, collapses, killing several people. Five to six vehicles are crushed in the collapse, according to the Florida Highway Patrol. ](/news/2018/03/15/a-touted-pedestrian-bridge-at-florida-international-university-miami-collapses-killing-several-people-five-to-six-vehicles-are-crushed-i.md)
+### [An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least four people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. ](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-the-eight-lane-tamiami-trail-at-florida-international-university-miami-collapses-killing-at-l.md)
 First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
 
 ##### Economy of the United States
-### [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating $20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-20-billion-in-de.md)
+### [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating US$20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-us-20-billion-in.md)
 The beleaguered company announced it has reached an agreement with investors to restructure its massive debt load. 
 
 ## [Previous Day...](/news/2018/03/14/index.md)
