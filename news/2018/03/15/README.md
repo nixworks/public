@@ -4,8 +4,8 @@ Formats: [HTML](2018/03/15/index.html)  [JSON](2018/03/15/index.json)  [XML](201
 ## [2018-03-15](/news/2018/03/15/index.md)
 
 ##### Politics of Slovakia
-### [Prime Minister of Slovakia Robert Fico resigns. ](/news/2018/03/15/prime-minister-of-slovakia-robert-fico-resigns.md)
-_Context: Politics of Slovakia, Prime Minister of Slovakia, Robert Fico_
+### [Prime Minister of Slovakia Robert Fico resigns amid controversy over the murder of Jan Kuciak. ](/news/2018/03/15/prime-minister-of-slovakia-robert-fico-resigns-amid-controversy-over-the-murder-of-ja-n-kuciak.md)
+_Context: Politics of Slovakia, Prime Minister of Slovakia, Robert Fico, murder of Jan Kuciak_
 
 ##### Rohingya refugees in Bangladesh
 ### [The government of Myanmar agrees to repatriate 374 Rohingya refugees from a list of 8,000 submitted by the government of Bangladesh. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. ](/news/2018/03/15/the-government-of-myanmar-agrees-to-repatriate-374-rohingya-refugees-from-a-list-of-8-000-submitted-by-the-government-of-bangladesh-myanmar.md)
@@ -24,7 +24,7 @@ The Trump administration announced sanctions on 13 Russian nationals and three R
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
 
 ##### Accidents and incidents involving helicopters
-### [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate with seven people on board. A rescue mission has been launched. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-with-seven-people-on-board-a-rescu.md)
+### [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate, killing all seven people on board. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-killing-all-seven-people-on-board.md)
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....
 
 ##### Florida International University pedestrian bridge collapse
