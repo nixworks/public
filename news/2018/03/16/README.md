@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/16/index.html)  [JSON](2018/03/16/index.json)  [XML](201
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
 ##### South African Arms Deal
-### [South Africa's National Prosecuting Authority Director Shaun Abrahams says former President Jacob Zuma will be prosecuted for corruption, relating to a 30bn-rand (GBP1.8bn) arms deal in the late 1990s. Zuma disputes all the allegations against him. ](/news/2018/03/16/south-africa-s-national-prosecuting-authority-director-shaun-abrahams-says-former-president-jacob-zuma-will-be-prosecuted-for-corruption-re.md)
+### [South Africa's National Prosecuting Authority Director Shaun Abrahams says former President Jacob Zuma will be prosecuted for corruption, relating to a R30 billion arms deal in the late 1990s. Zuma disputes all the allegations against him. ](/news/2018/03/16/south-africa-s-national-prosecuting-authority-director-shaun-abrahams-says-former-president-jacob-zuma-will-be-prosecuted-for-corruption-re.md)
 Chief prosecutor says ex-president will face prosecution on charges that dogged him in office
 
 ##### 2017-18 North Korea crisis

@@ -11,8 +11,8 @@ South Korea will seek high-level talks with North Korea this month as preparatio
 
 ### Sources:
 
-1. [Malay Mail](http://themalaymailonline.com/world/article/report-s.-korea-us-to-scale-down-military-drills)
-2. [Reuters](https://www.reuters.com/article/us-northkorea-missiles/south-korea-aims-for-high-level-talks-about-talks-with-north-idUSKCN1GS0B0)
+1. [Reuters](https://www.reuters.com/article/us-northkorea-missiles/south-korea-aims-for-high-level-talks-about-talks-with-north-idUSKCN1GS0B0)
+2. [The Malay Mail](http://themalaymailonline.com/world/article/report-s.-korea-us-to-scale-down-military-drills)
 2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20180316&t=2&i=1241463915&w=1200&r=LYNXNPEE2F078)
 
 ### Changes:
@@ -22,8 +22,8 @@ South Korea will seek high-level talks with North Korea this month as preparatio
 
 ### Related:
 
-1. [White House Press Secretary Sarah Huckabee Sanders says that the White House needs to see "concrete and verifiable steps" toward the denuclearization of North Korea before meeting with Kim Jong-un. ](/news/2018/03/9/white-house-press-secretary-sarah-huckabee-sanders-says-that-the-white-house-needs-to-see-concrete-and-verifiable-steps-toward-the-denucle.md) _Context: 2017-18 North Korea crisis_
-2. [Secretary of State Rex Tillerson says "potentially positive signals" come from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-says-potentially-positive-signals-come-from-north-korea-but-that-the-two-countries-are-still-a-long-way.md) _Context: 2017-18 North Korea crisis_
-3. [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md) _Context: 2017-18 North Korea crisis_
-4. [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md) _Context: 2017-18 North Korea crisis_
-5. [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md) _Context: 2017-18 North Korea crisis_
+1. [South Korea states that North Korea is willing to hold talks with the United States on denuclearization on the Korean Peninsula. ](/news/2018/03/6/south-korea-states-that-north-korea-is-willing-to-hold-talks-with-the-united-states-on-denuclearization-on-the-korean-peninsula.md) _Context: 2017-18 North Korea crisis, North Korea, South Korea_
+2. [Secretary of State Rex Tillerson says "potentially positive signals" come from North Korea, but that the two countries are "still a long way" from direct negotiations. ](/news/2018/03/8/secretary-of-state-rex-tillerson-says-potentially-positive-signals-come-from-north-korea-but-that-the-two-countries-are-still-a-long-way.md) _Context: 2017-18 North Korea crisis, North Korea_
+3. [U.S. President Donald Trump states North Korea was recently seeking talks with the United States. ](/news/2018/03/4/u-s-president-donald-trump-states-north-korea-was-recently-seeking-talks-with-the-united-states.md) _Context: 2017-18 North Korea crisis, North Korea_
+4. [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md) _Context: 2017-18 North Korea crisis, North Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea, South Korea_
