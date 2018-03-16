@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/15/index.md)
+## [News](/news/2018/03/16/index.md)
+
+##### 2018 inter-Korean summit
+### [ South Korea stated they want high-level talks before the summit. ](/news/2018/03/16/south-korea-stated-they-want-high-level-talks-before-the-summit.md)
+South Korea will seek high-level talks with North Korea this month as preparations for a summit began on Friday, the presidential chief of staff said, while officials in the South expressed interest in a separate summit with the United States.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/15/index.md)
 
 ##### Rohingya refugees in Bangladesh
 ### [The government of Myanmar agrees to repatriate 374 Rohingya refugees from a list of 8,000 submitted by the government of Bangladesh. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. ](/news/2018/03/15/the-government-of-myanmar-agrees-to-repatriate-374-rohingya-refugees-from-a-list-of-8-000-submitted-by-the-government-of-bangladesh-myanmar.md)
@@ -24,20 +36,16 @@ Correction at 2145 KST: A previous version of this article suggested that Choe K
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....
 
 ##### Florida International University pedestrian bridge collapse
-### [An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least four people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. ](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-the-eight-lane-tamiami-trail-at-florida-international-university-miami-collapses-killing-at-l.md)
-First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
+### [An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least six people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. ](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-the-eight-lane-tamiami-trail-at-florida-international-university-miami-collapses-killing-at-l.md)
+_Context: Florida International University, Florida International University pedestrian bridge collapse, Miami, Tamiami Trail, pedestrian bridge_
 
 ##### Economy of the United States
 ### [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating US$20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-us-20-billion-in.md)
 The beleaguered company announced it has reached an agreement with investors to restructure its massive debt load. 
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/14/index.md)
+## [Day Before Yesterday](/news/2018/03/14/index.md)
 
 ##### Internet censorship
 ### [Facebook blocks Britain First, a far-right group that has been deregistered as a political party in the United Kingdom, because leaders Paul Golding and Jayda Fransen have repeatedly violated its community standards. ](/news/2018/03/14/facebook-blocks-britain-first-a-far-right-group-that-has-been-deregistered-as-a-political-party-in-the-united-kingdom-because-leaders-paul.md)
@@ -105,43 +113,7 @@ The physicist and author of A Brief History of Time has died at his home in Camb
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/13/index.md)
-
-##### Toba catastrophe theory
-### [ A study is released suggesting that humanity flourished even after Lake Toba erupted 74,000 years ago. ](/news/2018/03/13/a-study-is-released-suggesting-that-humanity-flourished-even-after-lake-toba-erupted-74-000-years-ago.md)
-Glass tephra, or the rock shards ejected by volcanic explosions, was found in two of the African sites - at the same level as remnants of human activity.
-
-##### Asteroid
-### [2015 TH (previously known as V774104), a 100-400 kilometer asteroid, is announced as possibly the fourth most distant known Solar System object from the Sun at nearly 90 (+-10) times Earth's distance from the Sun. ](/news/2018/03/13/2015-th-previously-known-as-v774104-a-100a400-kilometer-asteroid-is-announced-as-possibly-the-fourth-most-distant-known-solar-system-o.md)
-_Context: Earth's distance from the Sun, Solar System, asteroid_
-
-##### Cabinet of Donald Trump
-### [U.S. President Donald Trump fires Rex Tillerson as Secretary of State, moving to replace him with CIA Director Mike Pompeo. Trump selects CIA Deputy Director Gina Haspel to replace Pompeo as director. ](/news/2018/03/13/u-s-president-donald-trump-fires-rex-tillerson-as-secretary-of-state-moving-to-replace-him-with-cia-director-mike-pompeo-trump-selects-ci.md)
-The move brings major changes as the United States deals with delicate foreign policy efforts such as possible outreach to North Korea.
-
-##### Transport in Iraq
-### [Iraqi Prime Minister Haider al-Abadi lifts a ban on international air travel to the Kurdistan Region. ](/news/2018/03/13/iraqi-prime-minister-haider-al-abadi-lifts-a-ban-on-international-air-travel-to-the-kurdistan-region.md)
-Iraqi&#x20;Prime&#x20;Minister&#x20;Haider&#x20;al-Abadi&#x20;said&#x20;in&#x20;a&#x20;decree&#x20;on&#x20;Tuesday&#x20;he&#x20;would&#x20;lift&#x20;a&#x20;ban&#x20;on&#x20;international&#x20;air&#x20;traffic&#x20;to&#x20;the&#x20;Kurdistan&#x20;Region&#x20;and&#x20;flights&#x20;could&#x20;resume&#x...
-
-##### Japan-North Korea relations
-### [Anonymous Japanese government sources say that Japan is considering a summit meeting between Japanese Prime Minister Shinzo Abe and North Korean leader Kim Jong-Un. ](/news/2018/03/13/anonymous-japanese-government-sources-say-that-japan-is-considering-a-summit-meeting-between-japanese-prime-minister-shinza-abe-and-north-k.md)
-_Context: Japan, Japan-North Korea relations, Japanese Prime Minister, Kim Jong-Un, North Korea, Shinzo Abe_
-
-##### Amhara Region
-### [A bus plunges into a ravine in the Amhara Region, Ethiopia, killing at least 38 people, mostly students. ](/news/2018/03/13/a-bus-plunges-into-a-ravine-in-the-amhara-region-ethiopia-killing-at-least-38-people-mostly-students.md)
-ADDIS ABABA: At least 38 people, mostly students, were killed when a bus plunged into a ravine in Ethiopia&#039;s mountainous north on Monday, police said. Ten people survived the crash that took place in the Amhara region, police commander Mohammed Ahmed said. &#034;The majority of victims were stu...
-
-##### Argentine Navy
-### [The Argentine Navy rescues four United States Antarctic Program scientists and a contractor stranded on Joinville Island in Antarctica after their icebreaker RV "Laurence M. Gould" encountered thick sea-ice. ](/news/2018/03/13/the-argentine-navy-rescues-four-united-states-antarctic-program-scientists-and-a-contractor-stranded-on-joinville-island-in-antarctica-after.md)
-The scientists and a contractor were carrying out research on Joinville Island off Antarctica.
-
-##### Naxalite-Maoist insurgency
-### [Maoists blow up a mine-protected vehicle of CRPF personnel with an IED, killing at least nine and injuring two others in Sukma district, Chhattisgarh, India. ](/news/2018/03/13/maoists-blow-up-a-mine-protected-vehicle-of-crpf-personnel-with-an-ied-killing-at-least-nine-and-injuring-two-others-in-sukma-district-chh.md)
-Home minister Rajnath&thinsp;Singh and Chhattisgarh chief minister Raman Singh both condemned the attack on the 212 CRPF Battalion&rsquo;s patrolling team that was going from Kistaram to Palodi.
-
----
-
-## [Previous Day...](/news/2018/03/12/index.md)
+## [Previous Day...](/news/2018/03/13/index.md)
 
 ---
 

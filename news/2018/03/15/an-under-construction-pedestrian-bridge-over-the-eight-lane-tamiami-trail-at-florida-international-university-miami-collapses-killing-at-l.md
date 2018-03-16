@@ -4,16 +4,14 @@ Formats: [HTML](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-th
 ### [2018-03-15](/news/2018/03/15/index.md)
 
 ##### Florida International University pedestrian bridge collapse
-# An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least four people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. 
+# An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least six people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. 
 
-First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
+
 
 
 ### Sources:
 
-1. [ABC News](http://abcnews.go.com/US/pedestrian-bridge-florida-international-university-collapses/story?id=53774444)
-2. [Miami Herald](http://www.miamiherald.com/news/local/community/miami-dade/west-miami-dade/article205316174.html)
-2. [Cover Image](https://s.abcnews.com/images/US/florida-bridge-collpase-ap-hb-180315_hpMain_16x9_992.jpg)
+1. [The Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2018/03/16/recovery-efforts-continue-following-florida-bridge-collapse-at-least-6-dead/?utm_term=.aed822acb8ff)
 
 ### Related:
 
