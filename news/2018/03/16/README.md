@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/16/index.html)  [JSON](2018/03/16/index.json)  [XML](201
 ## [2018-03-16](/news/2018/03/16/index.md)
 
 ##### Discoveries of exoplanets
-### [ European astronauts discover 8 new exoplanets classified as hot Jupiter. ](/news/2018/03/16/european-astronauts-discover-8-new-exoplanets-classified-as-hot-jupiter.md)
+### [ European astronomers discover 8 new exoplanets classified as Hot Jupiter. ](/news/2018/03/16/european-astronomers-discover-8-new-exoplanets-classified-as-hot-jupiter.md)
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
 ##### South African Arms Deal

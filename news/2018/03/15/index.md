@@ -28,7 +28,7 @@ Correction at 2145 KST: A previous version of this article suggested that Choe K
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....
 
 ##### Florida International University pedestrian bridge collapse
-### [An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University, Miami, collapses killing at least six people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. ](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-the-eight-lane-tamiami-trail-at-florida-international-university-miami-collapses-killing-at-l.md)
+### [An under-construction pedestrian bridge over the eight-lane Tamiami Trail at Florida International University in Miami collapses killing at least six people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. ](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-the-eight-lane-tamiami-trail-at-florida-international-university-in-miami-collapses-killing-at.md)
 _Context: Florida International University, Florida International University pedestrian bridge collapse, Miami, Tamiami Trail, pedestrian bridge_
 
 ##### Economy of the United States
