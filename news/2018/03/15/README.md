@@ -4,11 +4,11 @@ Formats: [HTML](2018/03/15/index.html)  [JSON](2018/03/15/index.json)  [XML](201
 ## [2018-03-15](/news/2018/03/15/index.md)
 
 ##### Russia-United Kingdom relations
-### [ Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavrov-says-russia-will-definitely-expel-british-diplomats.md)
+### [Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavrov-says-russia-will-definitely-expel-british-diplomats.md)
 The Russian Foreign Ministry and the Kremlin have spoken out a day after the UK prime minister announced the expulsion of Russian diplomats as a response the alleged poisoning of former intelligence officer Sergei Skripal.
 
 ##### Countering America's Adversaries Through Sanctions Act
-### [The Trump administration imposes financial sanctions on the 13 Russian government hackers and spy agencies indicted in the Special Counsel investigation. ](/news/2018/03/15/the-trump-administration-imposes-financial-sanctions-on-the-13-russian-government-hackers-and-spy-agencies-indicted-in-the-special-counsel-i.md)
+### [The Trump administration imposes financial sanctions on the 13 Russian nationals including government hackers and spy agencies indicted in the Special Counsel investigation. ](/news/2018/03/15/the-trump-administration-imposes-financial-sanctions-on-the-13-russian-nationals-including-government-hackers-and-spy-agencies-indicted-in-t.md)
 The Trump administration announced sanctions on 13 Russian nationals and three Russian entities charged in the special counsel Robert Mueller&#039;s investigation.
 
 ##### 2017-18 North Korea crisis
@@ -20,7 +20,7 @@ Correction at 2145 KST: A previous version of this article suggested that Choe K
 First responders could be seen loading injured victims onto stretchers and searching for people under the rubble.
 
 ##### Economy of the United States
-### [America's largest broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating $20 billion in debt. ](/news/2018/03/15/america-s-largest-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-20-billion-in-d.md)
+### [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating $20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-20-billion-in-de.md)
 The beleaguered company announced it has reached an agreement with investors to restructure its massive debt load. 
 
 ## [Previous Day...](/news/2018/03/14/index.md)

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavr
 ### [2018-03-15](/news/2018/03/15/index.md)
 
 ##### Russia-United Kingdom relations
-#  Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. 
+# Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. 
 
 The Russian Foreign Ministry and the Kremlin have spoken out a day after the UK prime minister announced the expulsion of Russian diplomats as a response the alleged poisoning of former intelligence officer Sergei Skripal.
 
@@ -17,7 +17,7 @@ The Russian Foreign Ministry and the Kremlin have spoken out a day after the UK 
 ### Changes:
 
 1. [Sergey Lavrov, the Minister of Foreign Affairs of the Russian Federation, says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/sergey-lavrov-the-minister-of-foreign-affairs-of-the-russian-federation-says-russia-will-definitely-expel-british-diplomats.md) _2018-03-15 20:30:06 (First version)_
-1. [ Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavrov-says-russia-will-definitely-expel-british-diplomats.md) _(Current version)_
+1. [Russian Minister of Foreign Affairs Sergey Lavrov says Russia will "definitely" expel British diplomats. ](/news/2018/03/15/russian-minister-of-foreign-affairs-sergey-lavrov-says-russia-will-definitely-expel-british-diplomats.md) _(Current version)_
 
 ### Related:
 
