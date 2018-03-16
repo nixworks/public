@@ -15,6 +15,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/03/15/index.md)
 
+##### Politics of Slovakia
+### [Prime Minister of Slovakia Robert Fico resigns. ](/news/2018/03/15/prime-minister-of-slovakia-robert-fico-resigns.md)
+_Context: Politics of Slovakia, Prime Minister of Slovakia, Robert Fico_
+
 ##### Rohingya refugees in Bangladesh
 ### [The government of Myanmar agrees to repatriate 374 Rohingya refugees from a list of 8,000 submitted by the government of Bangladesh. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. ](/news/2018/03/15/the-government-of-myanmar-agrees-to-repatriate-374-rohingya-refugees-from-a-list-of-8-000-submitted-by-the-government-of-bangladesh-myanmar.md)
 Of list of 8,000 people submitted by Bangladesh government, Myanmar deems only 374 eligible for repatriation
@@ -31,7 +35,7 @@ The Trump administration announced sanctions on 13 Russian nationals and three R
 ### [North Korea foreign minister Ri Yong-ho visits Sweden for talks. ](/news/2018/03/15/north-korea-foreign-minister-ri-yong-ho-visits-sweden-for-talks.md)
 Correction at 2145 KST: A previous version of this article suggested that Choe Kang Il would also be heading to Sweden - that remains unclear, and it has been amended to reflect that fact. North Korean foreign minister Ri Yong Ho is on his way to Sweden for a two-day trip, the Swedish Ministry for F...
 
-##### U.S. Air Force
+##### Accidents and incidents involving helicopters
 ### [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate with seven people on board. A rescue mission has been launched. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-with-seven-people-on-board-a-rescu.md)
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the.....
 
@@ -87,7 +91,7 @@ Russia’s ambassador to Britain says Moscow will reciprocate by expelling UK di
 ### [Australian Home Affairs Minister Peter Dutton says white South African farmers could receive fast-track visas on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. ](/news/2018/03/14/australian-home-affairs-minister-peter-dutton-says-white-south-african-farmers-could-receive-fast-track-visas-on-humanitarian-grounds-amid.md)
 _Context: Australia, Home Affairs Minister, Peter Dutton, Racism in South Africa, South Africa, South African farm attacks, visas_
 
-##### Philippine President
+##### Foreign relations of the Philippines
 ### [Philippine President Rodrigo Duterte announces the withdrawal of the Philippines from the International Criminal Court (ICC) over "outrageous attacks" by United Nations officials. ](/news/2018/03/14/philippine-president-rodrigo-duterte-announces-the-withdrawal-of-the-philippines-from-the-international-criminal-court-icc-over-outrageou.md)
 The Philippines said on Wednesday it is withdrawing from the International Criminal Court (ICC) due to what President Rodrigo Duterte called &quot;outrageous&quot; attacks by U.N. officials and violations of due process by the ICC.
 

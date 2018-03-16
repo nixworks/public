@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/15/an-under-construction-pedestrian-bridge-over-th
 
 ### Sources:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2018/03/16/recovery-efforts-continue-following-florida-bridge-collapse-at-least-6-dead/?utm_term=.aed822acb8ff)
+1. [The Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2018/03/16/recovery-efforts-continue-following-florida-bridge-collapse-at-least-6-dead/)
 
 ### Related:
 

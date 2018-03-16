@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-cras
 
 ### [2018-03-15](/news/2018/03/15/index.md)
 
-##### U.S. Air Force
+##### Accidents and incidents involving helicopters
 # A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate with seven people on board. A rescue mission has been launched. 
 
 An American HH-60 Pave Hawk helicopter has crashed in western Iraq on Thursday and at least some aboard were killed, according to a U.S. official. The official said the aircraft went down near al Qaim in western Anbar Province. A separate official told ABC News there were seven people on board the...
