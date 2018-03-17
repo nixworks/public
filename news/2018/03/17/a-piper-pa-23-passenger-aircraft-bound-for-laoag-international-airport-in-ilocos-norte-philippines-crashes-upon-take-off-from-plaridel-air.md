@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/17/a-piper-pa-23-passenger-aircraft-bound-for-laoa
 
 ### [2018-03-17](/news/2018/03/17/index.md)
 
-##### 2018 Philippine Piper PA-23 Apache Crash
+##### 2018 Philippine Piper PA-23 Apache crash
 # A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines, crashes upon take off from Plaridel Airport in Bulacan, killing five people onboard and five on the ground. 
 
 Seven people died when a small plane crashed into a house north of the Philippine capital on Saturday, aviation and police officials said.
