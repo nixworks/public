@@ -27,9 +27,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [European astronomers discover eight new exoplanets classified as Hot Jupiters as part of the WASP project. ](/news/2018/03/16/european-astronomers-discover-eight-new-exoplanets-classified-as-hot-jupiters-as-part-of-the-wasp-project.md)
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
-##### U.S. Attorney General
+##### Presidency of Donald Trump
 ### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure ("leak") and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
-_Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, U.S. Attorney General_
+_Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, Presidency of Donald Trump, U.S. Attorney General_
 
 ##### Aviation in the United States
 ### [The Federal Aviation Administration of the United States restricts "doors off" aircraft flights following a helicopter crash that killed 5 people. ](/news/2018/03/16/the-federal-aviation-administration-of-the-united-states-restricts-doors-off-aircraft-flights-following-a-helicopter-crash-that-killed-5-p.md)
