@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/16/index.html)  [JSON](2018/03/16/index.json)  [XML](201
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
 ##### Presidency of Donald Trump
-### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure ("leak") and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
+### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
 _Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, Presidency of Donald Trump, U.S. Attorney General_
 
 ##### Aviation in the United States

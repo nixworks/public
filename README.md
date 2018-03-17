@@ -12,7 +12,7 @@ With the South Australian election coming up, will these predictions be correct 
 Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
 
 ##### Russia-United Kingdom relations
-### [Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal. ](/news/2018/03/17/russia-expels-23-british-diplomats-and-closes-the-consulate-general-of-the-united-kingdom-in-saint-petersburg-the-move-comes-in-response-to.md)
+### [ In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-russia-expels-23-britis.md)
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
 ##### 2018 Philippine Piper PA-23 Apache crash
@@ -32,7 +32,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
 ##### Presidency of Donald Trump
-### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure ("leak") and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
+### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
 _Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, Presidency of Donald Trump, U.S. Attorney General_
 
 ##### Aviation in the United States
