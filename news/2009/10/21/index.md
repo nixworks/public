@@ -3,9 +3,9 @@ Formats: [HTML](2009/10/21/index.html)  [JSON](2009/10/21/index.json)  [XML](200
 
 ## [2009-10-21](/news/2009/10/21/index.md)
 
-##### President of South Africa
+##### President
 ### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, "Straight Speaking for Africa". ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
-_Context: Denis Sassou Nguesso, Nelson Mandela, President, President of South Africa, Republic of the Congo, South Africa, foreword_
+_Context: Denis Sassou Nguesso, Nelson Mandela, President, President, Republic of the Congo, South Africa, foreword_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)

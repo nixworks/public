@@ -41,7 +41,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### South African Communist Party
 ### [ The South African Communist Party launches an investigation into what happened to a political donation of 500,000 rand allegedly made in 2002. ](/news/2007/08/23/the-south-african-communist-party-launches-an-investigation-into-what-happened-to-a-political-donation-of-500-000-rand-allegedly-made-in-20.md)
-_Context: South African Communist Party, rand_
+_Context: R, South African Communist Party_
 
 ##### Ermera
 ### [ Two people are killed in Ermera, East Timor in another outbreak of political violence. ](/news/2007/08/23/two-people-are-killed-in-ermera-east-timor-in-another-outbreak-of-political-violence.md)

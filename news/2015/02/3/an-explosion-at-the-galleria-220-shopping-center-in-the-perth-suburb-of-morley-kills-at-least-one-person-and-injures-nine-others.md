@@ -16,4 +16,5 @@ TWO people are dead and up to eight more are injured after an explosion at Galle
 
 ### Related:
 
-1. [A surfer is killed by a shark off near Wedge Island, about 160km (100 miles) north of Perth in Australia. ](/news/2012/07/14/a-surfer-is-killed-by-a-shark-off-near-wedge-island-about-160km-100-miles-north-of-perth-in-australia.md) _Context: Perth_
+1. [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md) _Context: Perth_
+2. [A surfer is killed by a shark off near Wedge Island, about 160km (100 miles) north of Perth in Australia. ](/news/2012/07/14/a-surfer-is-killed-by-a-shark-off-near-wedge-island-about-160km-100-miles-north-of-perth-in-australia.md) _Context: Perth_

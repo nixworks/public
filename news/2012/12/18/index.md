@@ -11,7 +11,7 @@ Sen. Patrick Leahy was officially sworn in as the third-in-line for the presiden
 ### [The President of Iraq Jalal Talabani has a stroke with his condition reported as stable. ](/news/2012/12/18/the-president-of-iraq-jalal-talabani-has-a-stroke-with-his-condition-reported-as-stable.md)
 _Context: Jalal Talabani, President of Iraq_
 
-##### President of South Africa
+##### President
 ### [Incumbent President of South Africa Jacob Zuma wins a landslide victory in the African National Congress leadership contest opening the way for likely reelection in 2014. ](/news/2012/12/18/incumbent-president-of-south-africa-jacob-zuma-wins-a-landslide-victory-in-the-african-national-congress-leadership-contest-opening-the-way.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 

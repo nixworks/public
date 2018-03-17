@@ -17,7 +17,7 @@ _Context: Joyce Banda, President of Malawi_
 
 ##### Jacob Zuma
 ### [Jacob Zuma is sworn in for a second term as President of South Africa following his recent election victory. ](/news/2014/05/24/jacob-zuma-is-sworn-in-for-a-second-term-as-president-of-south-africa-following-his-recent-election-victory.md)
-_Context: Jacob Zuma, President of South Africa, election_
+_Context: Jacob Zuma, President, election_
 
 ##### Newly elected
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvia-malta-slovakia-and-the-cze.md)

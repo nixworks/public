@@ -65,7 +65,7 @@ Thirty-five people missing after series of blasts at depot outside city of Ulyan
 
 ##### South Africa
 ### [ South African President Jacob Zuma says the police do not have a "licence to kill" after recent incidents of innocent people being killed by police. ](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.md)
-_Context: Jacob Zuma, President of South Africa, South Africa_
+_Context: Jacob Zuma, President, South Africa_
 
 ##### NASA
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)

@@ -15,7 +15,7 @@ _Context: Kim Jong-il, Kim Jong-nam, North Korea_
 ### [Taoiseach Brian Cowen promises to dissolve Dail Eireann next Tuesday and to announce the date of the Irish general election, 2011. ](/news/2011/01/28/taoiseach-brian-cowen-promises-to-dissolve-da-il-aireann-next-tuesday-and-to-announce-the-date-of-the-irish-general-election-2011.md)
 Taoiseach Brian Cowen has said he will seek to dissolve the Dáil next Tuesday and announce the date of the General Election.
 
-##### President of South Africa
+##### President
 ### [Former President of South Africa Nelson Mandela is discharged from hospital following two days of tests. ](/news/2011/01/28/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-following-two-days-of-tests.md)
 South African ex-President Nelson Mandela leaves a Johannesburg hospital and is said to be in good spirits after spending two nights there for tests.
 

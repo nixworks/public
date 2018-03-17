@@ -65,7 +65,7 @@ Initial results indicate that party advocating a split of Belgium wins general e
 
 ##### Slovakia
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
-_Context: Ivan Gasparovic, President, Prime Minister, Robert Fico's, Slovakia_
+_Context: Ivan Gasparovic, President, Prime Minister, Robert Fico, Slovakia_
 
 ##### Gaza Strip
 ### [Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-arab-league-amr-moussa-calls-for.md)

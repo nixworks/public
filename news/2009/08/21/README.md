@@ -49,7 +49,7 @@ _Context: Botswana, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Serets
 
 ##### South Africa
 ### [ South African President Jacob Zuma makes a pilgrimage to a former anti-apartheid guerrilla camp in Angola where he lays a wreath and pays tribute to fallen comrades. ](/news/2009/08/21/south-african-president-jacob-zuma-makes-a-pilgrimage-to-a-former-anti-apartheid-guerrilla-camp-in-angola-where-he-lays-a-wreath-and-pays-t.md)
-_Context: Angola, Jacob Zuma, President of South Africa, South Africa, apartheid_
+_Context: Angola, Jacob Zuma, President, South Africa, apartheid_
 
 ##### Brazil
 ### [ Brazil becomes Chile's third largest trading partner, displacing Japan, according to recently released government trade figures. ](/news/2009/08/21/brazil-becomes-chile-s-third-largest-trading-partner-displacing-japan-according-to-recently-released-government-trade-figures.md)

@@ -7,9 +7,9 @@ Formats: [HTML](2017/03/31/index.html)  [JSON](2017/03/31/index.json)  [XML](201
 ### [Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek-r.md)
 Violence broke out amid street protests against a bill allowing the president to run for re-election.
 
-##### President of South Africa
+##### President
 ### [President of South Africa Jacob Zuma fires finance minister Pravin Gordhan amid a major cabinet reshuffle. The South African rand plunges. ](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.md)
-_Context: Jacob Zuma, Pravin Gordhan, President of South Africa, finance minister, rand_
+_Context: Jacob Zuma, Pravin Gordhan, President, R, finance minister_
 
 ##### New York City
 ### [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md)

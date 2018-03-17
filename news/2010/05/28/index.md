@@ -35,9 +35,9 @@ The owner of a Chinese electronics factory where several employees have committe
 ### [The BBC intervenes and tensions escalate after the UK cabinet members' threat to boycott "Question Time" unless Alastair Campbell, former adviser to Tony Blair, is removed from the panel. ](/news/2010/05/28/the-bbc-intervenes-and-tensions-escalate-after-the-uk-cabinet-members-threat-to-boycott-question-time-unless-alastair-campbell-former-ad.md)
 The UK government refused to field a cabinet minister on the BBC&#39;s Question Time because the panel featured Alastair Campbell.
 
-##### President of South Africa
+##### President
 ### [President of South Africa Jacob Zuma, in a rare disagreement with another African state, issues a statement of condemnation following Malawi's sentencing of a same-sex couple to 14 years in jail. ](/news/2010/05/28/president-of-south-africa-jacob-zuma-in-a-rare-disagreement-with-another-african-state-issues-a-statement-of-condemnation-following-malawi.md)
-_Context: Jacob Zuma, Malawi, President of South Africa, same-sex couples_
+_Context: Jacob Zuma, Malawi, President, same-sex couples_
 
 ##### Peru
 ### [Peruvian AIDESEP indigenous leader Alberto Pizango, detained on Wednesday as he returned from almost a year in exile in Nicaragua and charged with objecting to oil digging in the rainforest, is released on bail. ](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.md)

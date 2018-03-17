@@ -65,7 +65,7 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 
 ##### South Africa
 ### [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md)
-_Context: Chief Justice, Jacob Zuma, President of South Africa, Sandile Ngcobo, South Africa_
+_Context: Chief Justice, Jacob Zuma, President, Sandile Ngcobo, South Africa_
 
 ## [Previous Day...](/news/2009/08/9/index.md)
 

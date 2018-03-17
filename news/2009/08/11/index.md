@@ -85,7 +85,7 @@ Leaders from the Union of South American Nations, Unasur meeting in a regional s
 
 ##### Pretoria
 ### [ A court ruling in Pretoria bars President Jacob Zuma from appointing a successor to axed prosecutions chief Vusi Pikoli. ](/news/2009/08/11/a-court-ruling-in-pretoria-bars-president-jacob-zuma-from-appointing-a-successor-to-axed-prosecutions-chief-vusi-pikoli.md)
-_Context: Jacob Zuma, President of South Africa, Pretoria, Vusi Pikoli_
+_Context: Jacob Zuma, President, Pretoria, Vusi Pikoli_
 
 ##### President
 ### [ President of Costa Rica, Oscar Arias Sanchez is diagnosed with Influenza AH1N1 but his condition is stable, according to official reports. ](/news/2009/08/11/president-of-costa-rica-ascar-arias-sa-nchez-is-diagnosed-with-influenza-ah1n1-but-his-condition-is-stable-according-to-official-reports.md)

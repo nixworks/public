@@ -49,7 +49,7 @@ _Context: Swaziland, absolute monarchy, general strike_
 
 ##### Eugene de Kock
 ### [ Jailed policeman Eugene de Kock claims in an interview from prison that former South African President Frederik Willem de Klerk had hands "soaked in blood" and had ordered political killings and other crimes during the anti-apartheid conflict. ](/news/2007/07/27/jailed-policeman-eugene-de-kock-claims-in-an-interview-from-prison-that-former-south-african-president-frederik-willem-de-klerk-had-hands.md)
-_Context: Eugene de Kock, Frederik Willem de Klerk, President of South Africa, South Africa, apartheid, political killings_
+_Context: Eugene de Kock, Frederik Willem de Klerk, President, South Africa, apartheid, political killings_
 
 ##### France
 ### [ Former French Prime Minister Dominique de Villepin is charged with "complicity in slanderous denunciations" and "complicity in using forgeries" for allegedly trying to discredit current President Nicolas Sarkozy. ](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.md)

@@ -41,7 +41,7 @@ _Context: North Korea, State Department, state sponsor of terrorism_
 
 ##### South Africa
 ### [ Former South African President Thabo Mbeki will mediate between the Movement for Democratic Change and Zimbabwean President Robert Mugabe's government after Mugabe takes control of ministries that command the military and the police, an action that allegedly violates the power-sharing agreement reached last month. ](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.md)
-_Context: Movement for Democratic Change, Politics of Zimbabwe, President, President of South Africa, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
+_Context: Movement for Democratic Change, Politics of Zimbabwe, President, President, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)

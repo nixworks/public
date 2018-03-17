@@ -53,7 +53,7 @@ _Context: Afghanistan, Italy, state funeral_
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)
-_Context: African National Congress, Congress of South African Trade Unions, Jacob Zuma, President of South Africa, South Africa_
+_Context: African National Congress, Congress of South African Trade Unions, Jacob Zuma, President, South Africa_
 
 ##### Darfur
 ### [ New clashes break out in the Darfur region of Sudan. ](/news/2009/09/21/new-clashes-break-out-in-the-darfur-region-of-sudan.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/26/index.html)  [JSON](2010/12/26/index.json)  [XML](201
 
 ##### Cape Town
 ### [Cape Town is to name a street after former President of South Africa, Nelson Mandela. ](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.md)
-_Context: Cape Town, Nelson Mandela, President of South Africa_
+_Context: Cape Town, Nelson Mandela, President_
 
 ##### Sri Lanka
 ### [The Sri Lankan government says more than 210 former Tamil Tiger rebels have passed a university entrance exam, with 40 qualifying for entry; the Movement for the Release of Political Prisoners calls for the release of all political prisoners. ](/news/2010/12/26/the-sri-lankan-government-says-more-than-210-former-tamil-tiger-rebels-have-passed-a-university-entrance-exam-with-40-qualifying-for-entry.md)

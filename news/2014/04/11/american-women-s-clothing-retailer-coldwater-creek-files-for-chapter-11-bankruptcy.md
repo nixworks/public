@@ -16,7 +16,7 @@ Formats: [HTML](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-cr
 
 ### Related:
 
-1. [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating $20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-20-billion-in-de.md) _Context: chapter 11 bankruptcy_
+1. [The largest U.S. broadcaster, iHeartMedia, owner of 850 radio stations, files for chapter 11 bankruptcy after accumulating US$20 billion in debt. ](/news/2018/03/15/the-largest-u-s-broadcaster-iheartmedia-owner-of-850-radio-stations-files-for-chapter-11-bankruptcy-after-accumulating-us-20-billion-in.md) _Context: chapter 11 bankruptcy_
 2. [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md) _Context: chapter 11 bankruptcy_
 3. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _Context: chapter 11 bankruptcy_
 4. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: chapter 11 bankruptcy_

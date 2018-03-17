@@ -3,7 +3,7 @@ Formats: [HTML](2013/09/1/index.html)  [JSON](2013/09/1/index.json)  [XML](2013/
 
 ## [2013-09-1](/news/2013/09/1/index.md)
 
-##### President of South Africa
+##### President
 ### [Former President of South Africa Nelson Mandela is discharged from hospital in the capital Pretoria. ](/news/2013/09/1/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-in-the-capital-pretoria.md)
 Former South African President Nelson Mandela leaves hospital and returns to his Johannesburg home, where he continues to receive intensive care.
 

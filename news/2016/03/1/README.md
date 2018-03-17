@@ -17,7 +17,7 @@ Taoiseach Enda Kenny has performed a dramatic U-turn on his pre-election promise
 
 ##### Corruption in South Africa
 ### [President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-allegations-against-him.md)
-_Context: Corruption in South Africa, Jacob Zuma, President of South Africa, South African Parliament_
+_Context: Corruption in South Africa, Jacob Zuma, President, South African Parliament_
 
 ##### 2016 U.S. election
 ### [Voters in the U.S. states of Alabama, Alaska, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia, and the overseas territory of American Samoa go to the polls to vote on Super Tuesday. ](/news/2016/03/1/voters-in-the-u-s-states-of-alabama-alaska-arkansas-colorado-georgia-massachusetts-minnesota-oklahoma-tennessee-texas-vermont-vi.md)

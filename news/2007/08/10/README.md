@@ -49,7 +49,7 @@ _Context: Argentine President, Evo Morales, Hugo Chvez, Nstor Kirchner, Presiden
 
 ##### Thabo Mbeki
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
-_Context: AIDS, Nozizwe Madlala-Routledge, President of South Africa, Spanish, Thabo Mbeki, hospital_
+_Context: AIDS, Nozizwe Madlala-Routledge, President, Spanish, Thabo Mbeki, hospital_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)

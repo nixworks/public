@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/11/28/voters-in-moldova-go-to-the-polls-for-parliamen
 
 ### Changes:
 
-1. [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md) _2018-03-15 03:38:48 (First version)_
+1. [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md) _2018-03-16 03:38:40 (First version)_
 1. [Voters in Moldova go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-moldova-go-to-the-polls-for-parliamentary-elections.md) _(Current version)_
 
 ### Related:

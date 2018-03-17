@@ -31,7 +31,7 @@ _Context: Belgium, Melle_
 ### [ Sonia Sotomayor is confirmed by the United States Senate as Associate Justice of the United States Supreme Court, replacing David Souter. ](/news/2009/08/6/sonia-sotomayor-is-confirmed-by-the-united-states-senate-as-associate-justice-of-the-united-states-supreme-court-replacing-david-souter.md)
 Judge Sonia Sotomayor won approval on Thursday to become the first Hispanic on the U.S. Supreme Court in a Senate vote that President Barack Obama said broke another social barrier.
 
-##### President of South Africa
+##### President
 ### [ President Jacob Zuma names Sandile Ngcobo as Chief Justice of South Africa. ](/news/2009/08/6/president-jacob-zuma-names-sandile-ngcobo-as-chief-justice-of-south-africa.md)
 Will Judge Sandile Ngcobo be chief justice for just two years before giving way, perhaps to controversial Western Cape Judge President John Hlophe?
 

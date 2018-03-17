@@ -9,7 +9,7 @@ The shadowy program began in 2007 and was largely funded at the request of Harry
 
 ##### Politics of South Africa
 ### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md)
-_Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa, President of South Africa, gather, term expires in 2019_
+_Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa, President, gather, term expires in 2019_
 
 ##### Politics of Australia
 ### [The Coalition keep a one-seat majority in the Australian House of Representatives after the Liberals win the Bennelong by-election. ](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-the-liberals-win-the-bennelong-by-election.md)

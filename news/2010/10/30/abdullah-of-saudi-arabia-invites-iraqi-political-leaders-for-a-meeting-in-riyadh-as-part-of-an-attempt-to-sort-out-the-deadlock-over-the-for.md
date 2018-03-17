@@ -16,7 +16,7 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 
 ### Related:
 
-1. [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate with seven people on board. A rescue mission has been launched. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-with-seven-people-on-board-a-rescu.md) _Context: Iraq_
+1. [A U.S. Air Force HH-60 Pave Hawk helicopter crashes near Al-Qa'im in Iraq's western Al Anbar Governorate, killing all seven people on board. ](/news/2018/03/15/a-u-s-air-force-hh-60-pave-hawk-helicopter-crashes-near-al-qa-im-in-iraq-s-western-al-anbar-governorate-killing-all-seven-people-on-board.md) _Context: Iraq_
 2. [An Iraqi court sentences 15 Turkish women to death by hanging after they were found guilty of joining the ISIS group as brides. ](/news/2018/02/25/an-iraqi-court-sentences-15-turkish-women-to-death-by-hanging-after-they-were-found-guilty-of-joining-the-isis-group-as-brides.md) _Context: Iraq_
 3. [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md) _Context: Riyadh_
 4. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_

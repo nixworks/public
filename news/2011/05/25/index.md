@@ -57,7 +57,7 @@ Injuries reported as authorities move in with tear gas and truncheons to break u
 
 ##### South Africa
 ### [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md)
-_Context: African Union, Jacob Zuma, Libya, Muammar Gaddafi, President of South Africa, South Africa, civil war_
+_Context: African Union, Jacob Zuma, Libya, Muammar Gaddafi, President, South Africa, civil war_
 
 ##### 2011 Yemeni uprising
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)

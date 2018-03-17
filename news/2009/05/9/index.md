@@ -13,7 +13,7 @@ _Context: Chad, Sudan, Union of Forces for Democracy and Development, United Nat
 
 ##### Jacob Zuma
 ### [ Jacob Zuma is inaugurated as President of South Africa. ](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.md)
-_Context: Jacob Zuma, President of South Africa, South Africa, inaugurated_
+_Context: Jacob Zuma, President, South Africa, inaugurated_
 
 ##### Democratic Party
 ### [ The Democratic Party wins a plurality of seats in Indonesia's People's Consultative Assembly. ](/news/2009/05/9/the-democratic-party-wins-a-plurality-of-seats-in-indonesia-s-people-s-consultative-assembly.md)

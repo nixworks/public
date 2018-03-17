@@ -37,7 +37,7 @@ _Context: Al-Aqsa, Hamas, Israel, Mosque, Ramallah, Sheikh Hassan Yousef_
 
 ##### South Africa
 ### [ Former South African President FW de Klerk has called for a new political party to be set up following the dissolution of the New National Party. ](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.md)
-_Context: FW de Klerk, New National Party, President of South Africa, South Africa, political party_
+_Context: FW de Klerk, New National Party, President, South Africa, political party_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao pushed for cooperation between India and the PRC to dominate high-tech industries. Urging the historical rivals to forget past tension, Wen said cooperation "will signify the coming of the Asian century of the IT industry." ](/news/2005/04/10/chinese-premier-wen-jiabao-pushed-for-cooperation-between-india-and-the-prc-to-dominate-high-tech-industries-urging-the-historical-rivals.md)

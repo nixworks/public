@@ -33,7 +33,7 @@ Rejected by the U.S. Supreme Court, Nebraska Attorney General Doug Peterson and 
 
 ##### South Africa
 ### [A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. ](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.md)
-_Context: Jacob Zuma, President of South Africa, South Africa_
+_Context: Jacob Zuma, President, South Africa_
 
 ##### North Korea
 ### [North Korea sentences South Korean-born American businessman Kim Dong Chul to ten years imprisonment for alleged spying. ](/news/2016/04/29/north-korea-sentences-south-korean-born-american-businessman-kim-dong-chul-to-ten-years-imprisonment-for-alleged-spying.md)

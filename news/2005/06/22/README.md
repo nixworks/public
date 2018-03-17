@@ -29,7 +29,7 @@ _Context: 2000, Alberto Fujimori, Peru_
 
 ##### South Africa
 ### [ In South Africa, President Thabo Mbeki names energy and minerals minister Phumzile Mlambo-Ngcuka as his deputy president. She is the first woman to hold the position. ](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.md)
-_Context: Deputy President, Phumzile Mlambo-Ngcuka, President of South Africa, South Africa, Thabo Mbeki_
+_Context: Deputy President, Phumzile Mlambo-Ngcuka, President, South Africa, Thabo Mbeki_
 
 ##### International Whaling Commission
 ### [ International Whaling Commission meeting in Ulsan, South Korea, does not support Japan's suggestion to resume coastal whaling or increase its own scientific one. Commission also voted down a request that Japan could catch 150 minke whales a year ](/news/2005/06/22/international-whaling-commission-meeting-in-ulsan-south-korea-does-not-support-japan-s-suggestion-to-resume-coastal-whaling-or-increase-i.md)

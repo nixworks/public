@@ -13,7 +13,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ##### Kgalema Motlanthe
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)
-_Context: Kgalema Motlanthe, President of South Africa, apartheid_
+_Context: Kgalema Motlanthe, President, apartheid_
 
 ##### Typhoon Hagupit
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/23/index.html)  [JSON](2013/06/23/index.json)  [XML](201
 
 ##### Nelson Mandela
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
-_Context: Nelson Mandela, President of South Africa_
+_Context: Nelson Mandela, President_
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the Palestinian National Authority, accepts the resignation of Prime Minister Rami Hamdallah who had offered his resignation on Thursday. ](/news/2013/06/23/mahmoud-abbas-the-president-of-the-palestinian-national-authority-accepts-the-resignation-of-prime-minister-rami-hamdallah-who-had-offered.md)

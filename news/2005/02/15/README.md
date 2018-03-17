@@ -15,9 +15,9 @@ _Context: European Union, Joschka Fischer, immigration_
 ### [ United States, India and European Union countries recall their ambassadors from Nepal in protest of the takeover by King Gyanendra. ](/news/2005/02/15/united-states-india-and-european-union-countries-recall-their-ambassadors-from-nepal-in-protest-of-the-takeover-by-king-gyanendra.md)
 _Context: European Union, Gyanendra of Nepal, Nepal, ambassador_
 
-##### President of South Africa
+##### President
 ### [ In South Africa, President Thabo Mbeki announces that the country's elite crime-fighting unit Scorpions will be investigated. There have been claims of political vendettas and mismanagement of funds. ](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.md)
-_Context: President of South Africa, Scorpions, Thabo Mbeki, management, vendetta_
+_Context: President, Scorpions, Thabo Mbeki, management, vendetta_
 
 ##### European Court of Human Rights
 ### [ The European Court of Human Rights, deciding about the so-called McLibel case, rules in favour of environmental campaigners Helen Steel and David Morris and their claim that their trial was unfair. The pair said their human rights were violated when their criticism of McDonald's was ruled libel. The case has taken 15 years. ](/news/2005/02/15/the-european-court-of-human-rights-deciding-about-the-so-called-mclibel-case-rules-in-favour-of-environmental-campaigners-helen-steel-and.md)

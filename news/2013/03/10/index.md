@@ -3,9 +3,9 @@ Formats: [HTML](2013/03/10/index.html)  [JSON](2013/03/10/index.json)  [XML](201
 
 ## [2013-03-10](/news/2013/03/10/index.md)
 
-##### President of South Africa
+##### President
 ### [Former President of South Africa Nelson Mandela is released from the hospital after "successful" medical tests. ](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.md)
-_Context: Nelson Mandela, President of South Africa, South Africa, medical tests_
+_Context: Nelson Mandela, President, South Africa, medical tests_
 
 ##### Falkland Islands
 ### [Residents of the Falkland Islands begin voting in a two day sovereignty referendum on whether the islands should remain a British overseas territory. ](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.md)
