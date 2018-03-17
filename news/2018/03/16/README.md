@@ -24,7 +24,7 @@ RIGA, Latvia (JTA) &#8212; Police arrested a man for displaying a poster of sold
 Chief prosecutor says ex-president will face prosecution on charges that dogged him in office
 
 ##### Crime in the United Kingdom
-### [The death of Russian businessman Nikolai Glushkov, who lived in exile in the United Kingdom, is confirmed by a coroner's examination to be a murder. The killing happened a week after the poisoning of Sergei and Yulia Skripal. ](/news/2018/03/16/the-death-of-russian-businessman-nikolai-glushkov-who-lived-in-exile-in-the-united-kingdom-is-confirmed-by-a-coroner-s-examination-to-be-a.md)
+### [The death of Russian businessman Nikolai Glushkov, who lived in exile in the United Kingdom, is confirmed by a coroner's examination to be a murder. The killing happened eight days after the poisoning of Sergei and Yulia Skripal. ](/news/2018/03/16/the-death-of-russian-businessman-nikolai-glushkov-who-lived-in-exile-in-the-united-kingdom-is-confirmed-by-a-coroner-s-examination-to-be-a.md)
 UK police launch murder investigation after death of Russian businessman Nikolai Glushkov in south-west London
 
 ##### 2017-18 North Korea crisis

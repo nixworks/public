@@ -4,15 +4,16 @@ Formats: [HTML](/news/2018/03/17/a-piper-pa-23-passenger-aircraft-bound-for-laoa
 ### [2018-03-17](/news/2018/03/17/index.md)
 
 ##### Piper PA-23
-# A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines crashes upon take off from Plaridel Airport in Bulacan, killing all six people onboard and one on the ground. 
+# A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines crashes upon take off from Plaridel Airport in Bulacan, killing five people onboard and five on the ground. 
 
 Seven people died when a small plane crashed into a house north of the Philippine capital on Saturday, aviation and police officials said.
 
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-philippines-crash/small-plane-crashes-outside-philippine-capital-killing-seven-idUSKCN1GT06T)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Rappler](https://www.rappler.com/nation/198366-small-plane-crash-lands-plaridel-bulacan)
+2. [Reuters](https://www.reuters.com/article/us-philippines-crash/small-plane-crashes-outside-philippine-capital-killing-seven-idUSKCN1GT06T)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
