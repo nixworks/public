@@ -8,7 +8,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 With the South Australian election coming up, will these predictions be correct again?
 
 ##### Russia-United Kingdom relations
-### [Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal in Salisbury on 4 March, 2018. ](/news/2018/03/17/russia-expels-23-british-diplomats-and-closes-the-consulate-general-of-the-united-kingdom-in-saint-petersburg-the-move-comes-in-response-to.md)
+### [Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal. ](/news/2018/03/17/russia-expels-23-british-diplomats-and-closes-the-consulate-general-of-the-united-kingdom-in-saint-petersburg-the-move-comes-in-response-to.md)
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
 ##### 2018 Philippine Piper PA-23 Apache crash

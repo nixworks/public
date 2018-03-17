@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/17/russia-expels-23-british-diplomats-and-closes-t
 ### [2018-03-17](/news/2018/03/17/index.md)
 
 ##### Russia-United Kingdom relations
-# Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal in Salisbury on 4 March, 2018. 
+# Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal. 
 
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
