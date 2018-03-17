@@ -8,11 +8,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 With the South Australian election coming up, will these predictions be correct again?
 
 ##### Vice President of Iran
-### [Former Vice President of Iran Esfandiar Rahim Mashaei and a close ally to Mahmoud Ahmadinejad was arrested after criticizing Iran's Judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-and-a-close-ally-to-mahmoud-ahmadinejad-was-arrested-after-criticizing-iran-s-judiciar.md)
+### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's Judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)
 Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
 
 ##### Russia-United Kingdom relations
-### [ In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-russia-expels-23-britis.md)
+### [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, Russia expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-russia-expels-23-british.md)
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
 ##### 2018 Philippine Piper PA-23 Apache crash
