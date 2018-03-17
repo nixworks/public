@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/16/the-death-of-russian-businessman-nikolai-glushk
 
 ### [2018-03-16](/news/2018/03/16/index.md)
 
-##### Russia-United Kingdom relations
+##### Crime in the United Kingdom
 # The death of Russian businessman Nikolai Glushkov, who lived in exile in the United Kingdom, is confirmed by a coroner's examination to be a murder. The killing happened a week after the poisoning of Sergei and Yulia Skripal. 
 
 UK police launch murder investigation after death of Russian businessman Nikolai Glushkov in south-west London
