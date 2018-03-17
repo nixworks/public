@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former
 ### [2018-03-16](/news/2018/03/16/index.md)
 
 ##### U.S. Attorney General
-# U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure and lacking candor on multiple occasions. 
+# U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure ("leak") and lacking candor on multiple occasions. 
 
 
 

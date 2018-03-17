@@ -7,7 +7,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
 With the South Australian election coming up, will these predictions be correct again?
 
-##### Russia-United Kingdom relations
+##### Reactions to the poisoning of Sergei and Yulia Skripal
 ### [Russia expels 23 British diplomats and closes the Consulate-General of the United Kingdom in Saint Petersburg. The move comes in response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal in Salisbury on 4 March, 2018. ](/news/2018/03/17/russia-expels-23-british-diplomats-and-closes-the-consulate-general-of-the-united-kingdom-in-saint-petersburg-the-move-comes-in-response-to.md)
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
@@ -28,7 +28,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
 
 ##### U.S. Attorney General
-### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
+### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure ("leak") and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
 _Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, U.S. Attorney General_
 
 ##### Aviation in the United States
