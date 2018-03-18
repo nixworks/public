@@ -31,7 +31,7 @@ Southeast Asian nations will seek to raise $2 billion later this year to complet
 ### [ Ten people are arrested in Russia over the murder of investigative journalist Anna Politkovskaya. ](/news/2007/08/27/ten-people-are-arrested-in-russia-over-the-murder-of-investigative-journalist-anna-politkovskaya.md)
 _Context: Anna Politkovskaya, Russia, investigative journalist_
 
-##### United States Attorney General
+##### U.S. Attorney General
 ### [ United States Attorney General Alberto Gonzales announces his resignation. ](/news/2007/08/27/united-states-attorney-general-alberto-gonzales-announces-his-resignation.md)
 President Bush today praised Attorney General Alberto R. Gonzales, whose tenure has been marred by accusations of perjury before Congress, as “a man of integrity, decency and principle.”
 

@@ -37,7 +37,7 @@ _Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, 
 
 ##### Foot-and-mouth disease
 ### [ A new case of Foot-and-mouth disease in the UK was confirmed after it was assumed that the outbreak of 2007 had been under control. ](/news/2007/09/12/a-new-case-of-foot-and-mouth-disease-in-the-uk-was-confirmed-after-it-was-assumed-that-the-outbreak-of-2007-had-been-under-control.md)
-_Context: Foot-and-mouth disease, United Kingdom, outbreak of 2007_
+_Context: British, Foot-and-mouth disease, outbreak of 2007_
 
 ##### Eritrea
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)

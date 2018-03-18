@@ -15,7 +15,7 @@ Formats: [HTML](/news/2013/09/8/eleven-people-were-killed-after-a-collision-betw
 
 ### Changes:
 
-1. [Six people were killed and nine injured after a collision between car and minibus in Jakarta, Indonesia. ](/news/2013/09/8/six-people-were-killed-and-nine-injured-after-a-collision-between-car-and-minibus-in-jakarta-indonesia.md) _2018-03-16 03:48:52 (First version)_
+1. [Six people were killed and nine injured after a collision between car and minibus in Jakarta, Indonesia. ](/news/2013/09/8/six-people-were-killed-and-nine-injured-after-a-collision-between-car-and-minibus-in-jakarta-indonesia.md) _2018-03-17 03:49:46 (First version)_
 1. [Eleven people were killed after a collision between a minibus and a train near Iasi, Romania. ](/news/2013/09/8/eleven-people-were-killed-after-a-collision-between-a-minibus-and-a-train-near-iaei-romania.md) _(Current version)_
 
 ### Related:

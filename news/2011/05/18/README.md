@@ -37,11 +37,11 @@ Nuclear power plant has reached critical mass, will be powered up within weeks, 
 
 ##### UK royal state visit to Ireland
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
-_Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_
+_Context: Bloody Sunday massacre of 1920, British, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland_
 
 ##### Dmitry Medvedev
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Cold War, Dmitry Medvedev, President, Russia, United States, missile defense_
+_Context: Cold War, Dmitry Medvedev, President of Russia, Russia, United States, missile defense_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)

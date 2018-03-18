@@ -19,9 +19,9 @@ _Context: India, Latehar, Naxalite, Naxalite-Maoist insurgency, hostage_
 ### [ South Africa's general election begins. ](/news/2009/04/22/south-africa-s-general-election-begins.md)
 _Context: South Africa, loses_
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom's new government budget will increase borrowing and tax high-income earners to 50%. ](/news/2009/04/22/the-united-kingdom-s-new-government-budget-will-increase-borrowing-and-tax-high-income-earners-to-50.md)
-_Context: His Majesty's Government, United Kingdom, budget, high-income earners, national debt, tax_
+_Context: British, His Majesty's Government, budget, high-income earners, national debt, tax_
 
 ## [Previous Day...](/news/2009/04/21/index.md)
 

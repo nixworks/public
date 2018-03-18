@@ -17,7 +17,7 @@ _Context: Baghdad, civil war, insurgents, sectarian_
 
 ##### Darfur conflict
 ### [ Darfur conflict: On the eve of the International Day for Darfur, British Prime Minister Tony Blair insists the government of Sudan must start to "live up to its obligations" towards the war-torn region. ](/news/2006/09/16/darfur-conflict-on-the-eve-of-the-international-day-for-darfur-british-prime-minister-tony-blair-insists-the-government-of-sudan-must-sta.md)
-_Context: Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair, United Kingdom_
+_Context: British, Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair_
 
 ##### Hurricane Lane
 ### [ Hurricane Lane strengthens to a Category 3 hurricane with nearly 125 mph winds as it approaches Mexico's Pacific coast. ](/news/2006/09/16/hurricane-lane-strengthens-to-a-category-3-hurricane-with-nearly-125-mph-winds-as-it-approaches-mexico-s-pacific-coast.md)

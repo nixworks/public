@@ -7,7 +7,7 @@ Formats: [HTML](2009/11/29/index.html)  [JSON](2009/11/29/index.json)  [XML](200
 ### [ Rwanda is admitted under the Edinburgh criteria as the second member of the Commonwealth of Nations without any historical ties to the United Kingdom. ](/news/2009/11/29/rwanda-is-admitted-under-the-edinburgh-criteria-as-the-second-member-of-the-commonwealth-of-nations-without-any-historical-ties-to-the-unit.md)
 The republic of Rwanda was admitted to the Commonwealth on Saturday, becoming the 54th nation to join the post-colonial group.
 
-##### United Kingdom
+##### British
 ### [ British scientists at the University of East Anglia, who are criticised, say they will publish their figures in full. ](/news/2009/11/29/british-scientists-at-the-university-of-east-anglia-who-are-criticised-say-they-will-publish-their-figures-in-full.md)
 Latest environmental news, features and updates. Pictures, video and more. 
 

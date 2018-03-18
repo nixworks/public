@@ -9,7 +9,7 @@ Formats: [HTML](2008/12/27/index.html)  [JSON](2008/12/27/index.json)  [XML](200
 
 ##### Woolworths Group
 ### [ On the eve of its centenary, Woolworths Group begins closing its stores in the United Kingdom. ](/news/2008/12/27/on-the-eve-of-its-centenary-woolworths-group-begins-closing-its-stores-in-the-united-kingdom.md)
-_Context: United Kingdom, Woolworths Group_
+_Context: British, Woolworths Group_
 
 ##### Yule goat
 ### [ The Gavle goat, a large Swedish yule goat, is torched by vandals for the 23rd time since its construction in 1966. ](/news/2008/12/27/the-ga-vle-goat-a-large-swedish-yule-goat-is-torched-by-vandals-for-the-23rd-time-since-its-construction-in-1966.md)

@@ -49,7 +49,7 @@ Ecuador offers Wikileaks founder Julian Assange residency in the country and opp
 
 ##### Russia
 ### [Russian President Dmitry Medvedev warns of an "arms race" if Russia and the West can not agree on a missile defence system for Europe. ](/news/2010/11/30/russian-president-dmitry-medvedev-warns-of-an-arms-race-if-russia-and-the-west-can-not-agree-on-a-missile-defence-system-for-europe.md)
-_Context: Dmitry Medvedev, Europe, President, Russia, arms race_
+_Context: Dmitry Medvedev, Europe, President of Russia, Russia, arms race_
 
 ##### United States
 ### [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
@@ -63,7 +63,7 @@ _Context: Falcon, President, Venezuela, mudslide, states of emergency_
 ### [Ireland is hit by snow and record low November temperatures that disrupt the nation. ](/news/2010/11/30/ireland-is-hit-by-snow-and-record-low-november-temperatures-that-disrupt-the-nation.md)
 _Context: Ireland_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom continues to face blizzard conditions with many schools closed, long queues on the M8 motorway in Scotland, and Edinburgh Airport closed. ](/news/2010/11/30/the-united-kingdom-continues-to-face-blizzard-conditions-with-many-schools-closed-long-queues-on-the-m8-motorway-in-scotland-and-edinburgh.md)
 Snow contnues to fall across much of the UK, bringing disruption to roads and airports, and closing hundreds of schools.
 

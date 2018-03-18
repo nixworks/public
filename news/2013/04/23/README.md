@@ -19,7 +19,7 @@ _Context: 2013 ricin letters, Barack Obama, US President, ricin_
 ### [President of Myanmar Thein Sein grants amnesty to 93 prisoners. Some prisoners are reported as prisoners of conscience and political prisoners. ](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.md)
 _Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
 
-##### United Kingdom
+##### British
 ### [British businessman James McCormick is convicted at the Old Bailey on three counts of fraud after selling fake bomb detectors based on a device for finding golf balls to countries including Iraq and Georgia. ](/news/2013/04/23/british-businessman-james-mccormick-is-convicted-at-the-old-bailey-on-three-counts-of-fraud-after-selling-fake-bomb-detectors-based-on-a-dev.md)
 A millionaire businessman who sold fake bomb detectors to countries including Iraq and Georgia, knowing they did not work, is convicted of fraud.
 

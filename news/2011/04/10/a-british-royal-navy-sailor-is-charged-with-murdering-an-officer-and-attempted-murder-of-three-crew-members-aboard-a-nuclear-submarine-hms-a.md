@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/10/a-british-royal-navy-sailor-is-charged-with-mur
 
 ### [2011-04-10](/news/2011/04/10/index.md)
 
-##### United Kingdom
+##### British
 # A British Royal Navy sailor is charged with murdering an officer and attempted murder of three crew members aboard a nuclear submarine HMS Astute on Friday night in Southampton. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/04/10/a-british-royal-navy-sailor-is-charged-with-mur
 
 ### Related:
 
-1. [ The British Royal Navy's nuclear submarine HMS "Vanguard" and the French Navy's "Le Triomphant" collide in the Atlantic Ocean on February 3 or 4. ](/news/2009/02/16/the-british-royal-navy-s-nuclear-submarine-hms-vanguard-and-the-french-navy-s-le-triomphant-collide-in-the-atlantic-ocean-on-february-3.md) _Context: Royal Navy, United Kingdom, nuclear submarine_
-2. [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md) _Context: Royal Navy, United Kingdom_
-3. [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md) _Context: Royal Navy, United Kingdom_
+1. [ The British Royal Navy's nuclear submarine HMS "Vanguard" and the French Navy's "Le Triomphant" collide in the Atlantic Ocean on February 3 or 4. ](/news/2009/02/16/the-british-royal-navy-s-nuclear-submarine-hms-vanguard-and-the-french-navy-s-le-triomphant-collide-in-the-atlantic-ocean-on-february-3.md) _Context: British, Royal Navy, nuclear submarine_
+2. [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md) _Context: British, Royal Navy_
+3. [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md) _Context: British, Royal Navy_
 4. [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS "Tireless" in the Arctic Ocean. [http:--www.news.com.au-story-0,10117,21426111-2,00.html (AFP via News Limited)] (Wikinews)](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean-htt.md) _Context: Royal Navy, nuclear submarine_
-5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: United Kingdom_
+5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: British_

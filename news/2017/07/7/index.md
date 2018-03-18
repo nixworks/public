@@ -27,9 +27,9 @@ _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistr
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
 _Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
 
-##### United States Attorney General
+##### U.S. Attorney General
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)
-_Context: Dan Coats, Deputy Attorney General, Guantanamo Bay Detention Camp, Jeff Sessions, National Intelligence Director, Rod Rosenstein, United States Attorney General_
+_Context: Dan Coats, Deputy Attorney General, Guantanamo Bay Detention Camp, Jeff Sessions, National Intelligence Director, Rod Rosenstein, U.S. Attorney General_
 
 ##### South Korea
 ### [South Korea's National Police raid the headquarters of Korean Air as part of an investigation into embezzlement and breach of trust related to misappropriated funds alleged to have been used to fund construction at the residence of Korean Air Chairman Cho Yang-ho (father of Heather Cho, instigator of the "Nut rage incident" in 2014). The company's shares continue to drop. ](/news/2017/07/7/south-korea-s-national-police-raid-the-headquarters-of-korean-air-as-part-of-an-investigation-into-embezzlement-and-breach-of-trust-related.md)

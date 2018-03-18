@@ -7,9 +7,9 @@ Formats: [HTML](2005/11/20/index.html)  [JSON](2005/11/20/index.json)  [XML](200
 ### [ "Harry Potter and the Goblet of Fire", the latest film based on the books by J. K. Rowling, earns US$101.4 million in its first three days of release across North America, making it the fourth-largest opening ever. ](/news/2005/11/20/harry-potter-and-the-goblet-of-fire-the-latest-film-based-on-the-books-by-j-k-rowling-earns-us-101-4-million-in-its-first-three-days.md)
 _Context: Harry Potter and the Goblet of Fire, J. K. Rowling, fourth-largest opening_
 
-##### President
+##### President of Russia
 ### [ Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md)
-_Context: Japan, President, Vladimir Putin_
+_Context: Japan, President of Russia, Vladimir Putin_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush attends a church service during his visit to People's Republic of China as he presses for greater freedoms of expression and faith during his east Asian tour. ](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.md)

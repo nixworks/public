@@ -11,7 +11,7 @@ Team at Nasa unveils and describes new high-resolution photographs and data sent
 ### [ The circumnavigation attempt of Earth by the solar-powered Solar Impulse plane, currently in Hawaii, has been suspended for the rest of 2015 in order to perform necessary repairs. ](/news/2015/07/15/the-circumnavigation-attempt-of-earth-by-the-solar-powered-solar-impulse-plane-currently-in-hawaii-has-been-suspended-for-the-rest-of-201.md)
 The Swiss team trying to fly a solar-powered plane around the world has abandoned its effort for this year because of the damage sustained by its batteries on the last leg of its global quest.
 
-##### President
+##### President of Russia
 ### [ President of Russia Vladimir Putin signs a law that sets the date for an early parliamentary election on 18 September 2016. ](/news/2015/07/15/president-of-russia-vladimir-putin-signs-a-law-that-sets-the-date-for-an-early-parliamentary-election-on-18-september-2016.md)
 Russian President Vladimir Putin set the date for early parliamentary elections in September next year as his country slides into its first recession since 2009.
 

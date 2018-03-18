@@ -9,7 +9,7 @@ _Context: B.C., Sea of Galilee, monument, stone_
 
 ##### Russia
 ### [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md)
-_Context: $, President, Russia, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
+_Context: $, President of Russia, Russia, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
 
 ##### Iran
 ### [Iran's former nuclear negotiator Hassan Rouhani enters the race to succeed President Mahmoud Ahmadinejad, accusing the incumbent of needlessly incurring crippling economic sanctions. ](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.md)
@@ -51,7 +51,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 ### [Israel reopens a trade route in the Gaza Strip after closing it for several days earlier in response to rocket fire from the Palestinian enclave. ](/news/2013/04/12/israel-reopens-a-trade-route-in-the-gaza-strip-after-closing-it-for-several-days-earlier-in-response-to-rocket-fire-from-the-palestinian-enc.md)
 Israel reopened a goods crossing into the Gaza Strip on Friday, officials said, after closing it several days earlier in response to rocket fire from the besieged Palestinian enclave.
 
-##### United Kingdom
+##### British
 ### [British Prime Minister David Cameron travels to Berlin to discuss his demands for sweeping reform of the European Union with German Chancellor Angela Merkel. ](/news/2013/04/12/british-prime-minister-david-cameron-travels-to-berlin-to-discuss-his-demands-for-sweeping-reform-of-the-european-union-with-german-chancell.md)
 David Cameron and German Chancellor Angela Merkel agree on the &quot;urgent need&quot; to make Europe more &quot;competitive and flexible&quot;, Downing Street says.
 

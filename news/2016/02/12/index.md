@@ -53,7 +53,7 @@ _Context: 2016 Taiwan earthquake, Tainan_
 
 ##### Evgeny Lebedev
 ### [Evgeny Lebedev, the owner of the British national newspaper, "The Independent", announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-will.md)
-_Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_
+_Context: British, Evgeny Lebedev, The Independent, newspaper_
 
 ##### Yemeni Civil War (2015-present)
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)

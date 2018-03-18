@@ -23,9 +23,9 @@ _Context: Al Muthanna Governorate, Iraq, Mohammed Ali al-Hasani, Samawa, Shia_
 ### [ An earthquake of 5.2 magnitude hits northern Tanzania 85 kilometres north of Arusha. ](/news/2007/08/20/an-earthquake-of-5-2-magnitude-hits-northern-tanzania-85-kilometres-north-of-arusha.md)
 _Context: Arusha, Tanzania_
 
-##### United Kingdom
+##### British
 ### [ British police have released CCTV footage of a motorcyclist shortly before his murder on the M40 motorway near Leamington Spa, Warwickshire. ](/news/2007/08/20/british-police-have-released-cctv-footage-of-a-motorcyclist-shortly-before-his-murder-on-the-m40-motorway-near-leamington-spa-warwickshire.md)
-_Context: CCTV, Leamington Spa, M40 motorway, United Kingdom, Warwickshire_
+_Context: British, CCTV, Leamington Spa, M40 motorway, Warwickshire_
 
 ##### Atlanta Falcons
 ### [ Atlanta Falcons quarterback Michael Vick agrees to a plea deal to charges of conspiracy to travel in interstate commerce in aid of unlawful activities and conspiracy to sponsor a dog in an animal fighting venture in Richmond, Virginia, USA. ](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.md)

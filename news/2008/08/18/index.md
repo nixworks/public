@@ -13,7 +13,7 @@ _Context: Indirect presidential elections, Pakistan, Pakistan Presidential Impea
 
 ##### Moscow
 ### [ According to general staff in Moscow, Russia has begun troop withdrawals from Georgia, following a pledge by President Dmitry Medvedev. However, 'Moscow saying it has the right to keep some troops as peacekeepers in a buffer zone around South Ossetia'. ](/news/2008/08/18/according-to-general-staff-in-moscow-russia-has-begun-troop-withdrawals-from-georgia-following-a-pledge-by-president-dmitry-medvedev-how.md)
-_Context:  Georgian, Dmitry Medvedev, Moscow, President, Russia_
+_Context:  Georgian, Dmitry Medvedev, Moscow, President of Russia, Russia_
 
 ##### Yelena Isinbayeva
 ### [ Russia's Yelena Isinbayeva sets a new world record of 5.05 m outdoors in the women's pole vault at the Summer Olympics Games in Beijing. ](/news/2008/08/18/russia-s-yelena-isinbayeva-sets-a-new-world-record-of-5-05-m-outdoors-in-the-women-s-pole-vault-at-the-summer-olympics-games-in-beijing.md)

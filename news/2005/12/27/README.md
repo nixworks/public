@@ -21,7 +21,7 @@ _Context: Iraq, Poland_
 
 ##### Andrei Illarionov
 ### [ Andrei Illarionov, an adviser to Russian President Vladimir Putin quits, saying Russia is "no longer free". ](/news/2005/12/27/andrei-illarionov-an-adviser-to-russian-president-vladimir-putin-quits-saying-russia-is-no-longer-free.md)
-_Context: Andrei Illarionov, President, Russia, Vladimir Putin_
+_Context: Andrei Illarionov, President of Russia, Russia, Vladimir Putin_
 
 ## [Previous Day...](/news/2005/12/26/index.md)
 

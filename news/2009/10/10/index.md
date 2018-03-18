@@ -27,7 +27,7 @@ _Context: Guinea, massacre of opposition protesters_
 ### [ Three people are sentenced to death for being involved in forbidden groups after being arrested during protests against Iran's disputed presidential election earlier this year. ](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.md)
 Three people arrested during protests over disputed presidential poll are sentenced.
 
-##### United Kingdom
+##### British
 ### [ Over 300 British MPs will be asked to repay or explain expenses after controversy earlier this year. ](/news/2009/10/10/over-300-british-mps-will-be-asked-to-repay-or-explain-expenses-after-controversy-earlier-this-year.md)
 At least 325 MPs will be ordered this week to repay money or provide further details of their parliamentary allowances by the head of an official inquiry into the Commons expenses scandal.
 

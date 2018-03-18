@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/28/vice-president-of-iran-mohammad-reza-rahimi-del
 
 ### [2012-06-28](/news/2012/06/28/index.md)
 
-##### First Vice President
+##### Vice President of Iran
 # Vice President of Iran Mohammad-Reza Rahimi delivers an anti-Semitic speech at a United Nations conference on the illegal drug trade saying that a central Jewish text, the Talmud, was responsible for the spread of illegal drugs around the world; his speech draws condemnation from U.N. and the European Union diplomats. 
 
 EU foreign policy chief also slams Iranian VP for blaming world drug problems on Jews during UN conference

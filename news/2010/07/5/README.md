@@ -3,7 +3,7 @@ Formats: [HTML](2010/07/5/index.html)  [JSON](2010/07/5/index.json)  [XML](2010/
 
 ## [2010-07-5](/news/2010/07/5/index.md)
 
-##### United Kingdom
+##### British
 ### [United Kingdom - Deputy Prime Minister Nick Clegg announces that a referendum on introducing the alternative vote system for national elections will be held on 5 May 2011. ](/news/2010/07/5/united-kingdom-deputy-prime-minister-nick-clegg-announces-that-a-referendum-on-introducing-the-alternative-vote-system-for-national-electi.md)
 The deputy prime minister confirms plans for fewer MPs, a voting referendum and fixed-term parliaments.
 

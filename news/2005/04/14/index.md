@@ -15,7 +15,7 @@ _Context: Massachusetts Institute of Technology, Rooter: A Methodology for the T
 ### [ In Zimbabwe, two British journalists, "Sunday Telegraph" correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they-w.md)
 _Context: Julian Simmonds, Sunday Telegraph, Toby Harnden, Zimbabwe, bail, visa-free travel_
 
-##### United States Attorney General
+##### U.S. Attorney General
 ### [ United States Attorney General Alberto Gonzales announces that law enforcement agencies have arrested 10,340 fugitives in Operation Falcon between April 4-10. ](/news/2005/04/14/united-states-attorney-general-alberto-gonzales-announces-that-law-enforcement-agencies-have-arrested-10-340-fugitives-in-operation-falcon.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 

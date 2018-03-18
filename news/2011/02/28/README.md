@@ -71,9 +71,9 @@ _Context: Bandeira do Sul, Brazil, Brazilian Carnival_
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
 _Context: Deepwater Horizon oil spill, Noble Energy, United States Government, deepwater drilling_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md)
-_Context: HSBC, United Kingdom_
+_Context: British, HSBC_
 
 ##### Crude oil
 ### [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md)

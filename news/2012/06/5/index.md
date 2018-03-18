@@ -15,9 +15,9 @@ RACINE &mdash; In a crucial election that swings control of the state Senate to 
 ### [Der Spiegel reports that Israel is arming submarines supplied by Germany with nuclear-tipped cruise missiles, provoking debate within Germany and internationally. ](/news/2012/06/5/der-spiegel-reports-that-israel-is-arming-submarines-supplied-by-germany-with-nuclear-tipped-cruise-missiles-provoking-debate-within-german.md)
 _Context: Der Spiegel, German, Israel, nuclear-tipped cruise missiles, submarines_
 
-##### President
+##### President of Russia
 ### [The President of Russia, Vladimir Putin, begins a three-day visit to China. ](/news/2012/06/5/the-president-of-russia-vladimir-putin-begins-a-three-day-visit-to-china.md)
-_Context: China, President, Vladimir Putin_
+_Context: China, President of Russia, Vladimir Putin_
 
 ##### Between
 ### [Amidst growing diplomatic tensions between Romania and Hungary, ignoring an official request not to, the Speaker of the Hungarian Parliament undergoes a visit in Transylvania triggering protests from Romanian state dignitaries. ](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.md)

@@ -39,9 +39,9 @@ Two people are dead and thousands evacuated as powerful typhoon Goni approaches 
 ### [The Dow Jones Industrial Average drops and closes down 530.94 points, or 3.12 percent, with the NASDAQ and S&P 500 also down more than 3%. ](/news/2015/08/21/the-dow-jones-industrial-average-drops-and-closes-down-530-94-points-or-3-12-percent-with-the-nasdaq-and-s-p-500-also-down-more-than-3.md)
 Fears of a China-led global economic slowdown drove Wall Street to its steepest one-day drop in nearly four years on Friday and left the Dow industrials more than 10 percent below a May record.
 
-##### United Kingdom
+##### British
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove, from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-imp.md)
-_Context: Google, Information Commissioner's Office, United Kingdom, right to be forgotten_
+_Context: British, Google, Information Commissioner's Office, right to be forgotten_
 
 ##### George Parker Bidder III
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)

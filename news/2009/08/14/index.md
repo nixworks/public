@@ -15,9 +15,9 @@ _Context: Burma, Jim Webb, Than Shwe, United States_
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
 _Context: Gaza Strip_
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: Turks and Caicos Islands, United Kingdom, direct rule, government_
+_Context: British, Turks and Caicos Islands, direct rule, government_
 
 ##### Lockerbie bombing
 ### [ Lawyers for the Lockerbie bomber, Abdelbaset al-Megrahi, say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya. ](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.md)

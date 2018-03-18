@@ -13,7 +13,7 @@ The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of 
 
 ##### Parliament
 ### [The Parliament of the United Kingdom gather for a special session to debate the legacy of former Prime Minister Margaret Thatcher. ](/news/2013/04/10/the-parliament-of-the-united-kingdom-gather-for-a-special-session-to-debate-the-legacy-of-former-prime-minister-margaret-thatcher.md)
-_Context: Margaret Thatcher, Parliament, Prime Minister, United Kingdom, legacy, special session_
+_Context: British, Margaret Thatcher, Parliament, Prime Minister, legacy, special session_
 
 ##### May 5
 ### [A May 5 date is set for the 2013 Malaysian general election. ](/news/2013/04/10/a-may-5-date-is-set-for-the-2013-malaysian-general-election.md)

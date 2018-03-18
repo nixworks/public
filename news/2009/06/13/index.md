@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/13/index.html)  [JSON](2009/06/13/index.json)  [XML](200
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth II of the United Kingdom celebrates her 83rd birthday at Trooping the Colour. ](/news/2009/06/13/queen-elizabeth-ii-of-the-united-kingdom-celebrates-her-83rd-birthday-at-trooping-the-colour.md)
-_Context: Queen Elizabeth, Trooping the Colour, United Kingdom_
+_Context: British, Queen Elizabeth, Trooping the Colour_
 
 ##### Pakistan
 ### [ Pakistani warplanes strike a stronghold of Taliban leader Baitullah Mehsud in South Waziristan. ](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.md)

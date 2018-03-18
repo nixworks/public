@@ -19,9 +19,9 @@ _Context: Beni Department, Bolivia, Evo Morales, Pando, Santa Cruz, Tarija Depar
 ### [ Russia delivers its first shipment of nuclear fuel to the Bushehr nuclear reactor in Iran. ](/news/2007/12/17/russia-delivers-its-first-shipment-of-nuclear-fuel-to-the-bushehr-nuclear-reactor-in-iran.md)
 _Context: Bushehr, Iran, Russia, nuclear fuel, nuclear reactor_
 
-##### President
+##### President of Russia
 ### [ President of Russia Vladimir Putin agrees to become Prime Minister after his term as president ends. ](/news/2007/12/17/president-of-russia-vladimir-putin-agrees-to-become-prime-minister-after-his-term-as-president-ends.md)
-_Context: President, Prime Minister of Russia, Russia, Vladimir Putin_
+_Context: President of Russia, Prime Minister of Russia, Russia, Vladimir Putin_
 
 ##### Islam
 ### [ Zarkasih, the leader of the Islamic militant organisation Jemaah Islamiyah, goes on trial in Indonesia on terrorism charges. ](/news/2007/12/17/zarkasih-the-leader-of-the-islamic-militant-organisation-jemaah-islamiyah-goes-on-trial-in-indonesia-on-terrorism-charges.md)

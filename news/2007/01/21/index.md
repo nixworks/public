@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Angela Merkel
 ### [ Angela Merkel, the Chancellor of Germany, holds talks with Vladimir Putin, the President of Russia over energy security issues. ](/news/2007/01/21/angela-merkel-the-chancellor-of-germany-holds-talks-with-vladimir-putin-the-president-of-russia-over-energy-security-issues.md)
-_Context: Angela Merkel, Chancellor, President, Vladimir Putin_
+_Context: Angela Merkel, Chancellor, President of Russia, Vladimir Putin_
 
 ##### Palestinian Authority
 ### [ Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Mashal meet together in Syria to try to end violence between the two factions. However, differences remain and talks will resume possibly next week. ](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.md)

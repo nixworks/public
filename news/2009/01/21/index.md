@@ -15,9 +15,9 @@ President McAleese has signed the Anglo Irish Bank Bill at Áras an Uachtaráin.
 ### [ China Central Television omits sensitive portions of U.S. President Obama's inaugural address. ](/news/2009/01/21/china-central-television-omits-sensitive-portions-of-u-s-president-obama-s-inaugural-address.md)
 The official Chinese translation of President Barack Obama&#39;s inauguration speech omitted his references to communism and dissent.
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom reports that 1.92 million Britons were unemployed in December 2008. ](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-britons-were-unemployed-in-december-2008.md)
-_Context: 2008, British, Unemployment, United Kingdom_
+_Context: 2008, British, British, Unemployment_
 
 ##### Ceasefire
 ### [ Despite a ceasefire in its conflict with Israel, Hamas fires eight mortar shells into the country. ](/news/2009/01/21/despite-a-ceasefire-in-its-conflict-with-israel-hamas-fires-eight-mortar-shells-into-the-country.md)

@@ -9,7 +9,7 @@ _Context: Russia, Yamal-402, communications satellite, geostationary orbit_
 
 ##### Russia
 ### [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md)
-_Context: Moscow, President, Russia, Russian police, Vladimir Putin, rally_
+_Context: Moscow, President of Russia, Russia, Russian police, Vladimir Putin, rally_
 
 ##### Secretary of State
 ### [United States Secretary of State Hillary Clinton sustained a concussion after fainting from dehydration at her home. ](/news/2012/12/15/united-states-secretary-of-state-hillary-clinton-sustained-a-concussion-after-fainting-from-dehydration-at-her-home.md)

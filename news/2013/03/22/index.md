@@ -73,7 +73,7 @@ About 30 people die in a fire at a camp housing Burmese refugees in northern Tha
 
 ##### Snowfall
 ### [Heavy snowfall causes widespread disruption to many parts of the United Kingdom, while torrential rain brings floods to South West England. ](/news/2013/03/22/heavy-snowfall-causes-widespread-disruption-to-many-parts-of-the-united-kingdom-while-torrential-rain-brings-floods-to-south-west-england.md)
-_Context: South West England, United Kingdom, snowfall_
+_Context: British, South West England, snowfall_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: Minister of Finance of Cyprus Michael Sarris says that his talks with officials in Russia about a possible rescue package for Cypriot banks have led nowhere. ](/news/2013/03/22/2012a2013-cypriot-financial-crisis-minister-of-finance-of-cyprus-michael-sarris-says-that-his-talks-with-officials-in-russia-about-a-poss.md)

@@ -13,7 +13,7 @@ South Australian senator Cory Bernardi officially quits the Liberal Party to est
 
 ##### Women in Russia
 ### [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md)
-_Context: President, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
+_Context: President of Russia, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
 
 ##### U.S. immigration suspension
 ### [The Ninth Circuit Court of Appeals holds a hearing, by telephone, for the U.S. Justice Department and plaintiffs (states of Washington and Minnesota) arguments whether or not to reinstate the travel ban suspended on Friday by U.S. District Court Judge James Robart. Judge Michelle Friedland states the court will work to deliver its decision quickly. ](/news/2017/02/7/the-ninth-circuit-court-of-appeals-holds-a-hearing-by-telephone-for-the-u-s-justice-department-and-plaintiffs-states-of-washington-and-m.md)

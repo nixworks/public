@@ -11,9 +11,9 @@ _Context: Free State, Harmony Gold, South Africa, die, gold mine_
 ### [ Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. ](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.md)
 Pakistani soldiers Tuesday rescued scores of students and staff from a military-run college who were abducted by Taliban militants in the northwest of the country, a military spokesman said.
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom experiences its first critical case of A(H1N1) influenza. ](/news/2009/06/2/the-united-kingdom-experiences-its-first-critical-case-of-a-h1n1-influenza.md)
-_Context: H1N1, United Kingdom, current outbreak, swine flu_
+_Context: British, H1N1, current outbreak, swine flu_
 
 ##### Defense
 ### [ The defense in Burmese National League for Democracy General Secretary Aung San Suu Kyi's trial alleges that intruder John William Yettaw "acted alone". ](/news/2009/06/2/the-defense-in-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-alleges-that-intruder-john-william-yettaw.md)
@@ -35,9 +35,9 @@ _Context: Dutch, headache, research, space_
 ### [ The Community of the People wins Greenland's parliamentary election. ](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.md)
 _Context: Greenland, Inuit Ataqatigiit, election, parliament seats_
 
-##### United Kingdom
+##### British
 ### [ United Kingdom Home Secretary Jacqui Smith announces her resignation. ](/news/2009/06/2/united-kingdom-home-secretary-jacqui-smith-announces-her-resignation.md)
-_Context: Home Secretary, Jacqui Smith, United Kingdom, resignation_
+_Context: British, Home Secretary, Jacqui Smith, resignation_
 
 ##### General Motors
 ### [ General Motors sells its Hummer brand to the Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.md)

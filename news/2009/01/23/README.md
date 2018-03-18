@@ -3,9 +3,9 @@ Formats: [HTML](2009/01/23/index.html)  [JSON](2009/01/23/index.json)  [XML](200
 
 ## [2009-01-23](/news/2009/01/23/index.md)
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom enters a recession. ](/news/2009/01/23/the-united-kingdom-enters-a-recession.md)
-_Context: United Kingdom, recession_
+_Context: British, recession_
 
 ##### China
 ### [ The 30-man crew of Chinese cargo ship "Zhenhua 4" receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)

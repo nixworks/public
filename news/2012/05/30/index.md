@@ -15,7 +15,7 @@ Scientists have sequenced the tomato genome and say it will yield tastier fruit 
 ### [The Prime Minister of Lesotho, Pakalitha Mosisili, resigns after his Democratic Congress party failed to win a majority in the recent general election, while opposition parties form a coalition. ](/news/2012/05/30/the-prime-minister-of-lesotho-pakalitha-mosisili-resigns-after-his-democratic-congress-party-failed-to-win-a-majority-in-the-recent-genera.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
-##### United Kingdom
+##### British
 ### [Doctors in the United Kingdom agree to stage a day of industrial action on 21 June, the first such action by the British medical profession since 1975. The strike will lead to cancellations of routine medical appointments, but will not affect emergency care. ](/news/2012/05/30/doctors-in-the-united-kingdom-agree-to-stage-a-day-of-industrial-action-on-21-june-the-first-such-action-by-the-british-medical-profession.md)
 Doctors will stop providing non-urgent care for a day next month in the first industrial action by the profession for nearly 40 years.
 

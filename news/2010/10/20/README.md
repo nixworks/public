@@ -11,7 +11,7 @@ _Context: Astronomer, UDFy-38135539, distant object, galaxy_
 ### [The Obama administration notifies the United States Congress of plans for a $60billion-dollar weapons deal with Saudi Arabia in a move to threaten Iran. ](/news/2010/10/20/the-obama-administration-notifies-the-united-states-congress-of-plans-for-a-60billion-dollar-weapons-deal-with-saudi-arabia-in-a-move-to-th.md)
 The United States plans to sell up to $60 billion worth of military aircraft to Saudi Arabia, the U.S. State Department announced on Wednesday in a move designed to shore up a region overshadowed by Iran.
 
-##### United Kingdom
+##### British
 ### [In the United Kingdom, Chancellor George Osborne outlines a Comprehensive Spending Review which will see the biggest spending cuts in decades, totalling GBP81bn, with welfare, local government and police particularly affected. ](/news/2010/10/20/in-the-united-kingdom-chancellor-george-osborne-outlines-a-comprehensive-spending-review-which-will-see-the-biggest-spending-cuts-in-decade.md)
 George Osborne unveils the biggest spending cuts in decades - with welfare, councils and police all hit.
 
@@ -55,9 +55,9 @@ _Context: China, Europe, Japan, United States, rare earth mineral_
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
-##### United Kingdom
+##### British
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United Kingdom, boyband, hip-hop_
+_Context: British, JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, boyband, hip-hop_
 
 ##### Somalia
 ### [Somali gunmen release a British security consultant for Save the Children after six days in captivity. ](/news/2010/10/20/somali-gunmen-release-a-british-security-consultant-for-save-the-children-after-six-days-in-captivity.md)

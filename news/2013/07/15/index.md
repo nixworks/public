@@ -19,7 +19,7 @@ News, email and search are just the beginning. Discover more every day. Find you
 ### [Thein Sein, the President of Burma (Myanmar) visits the United Kingdom. ](/news/2013/07/15/thein-sein-the-president-of-burma-myanmar-visits-the-united-kingdom.md)
 Britain will offer Myanmar military training and official assistance to tackle its internal conflicts when President Thein Sein meets David Cameron in London on Monday.
 
-##### United Kingdom
+##### British
 ### [Two British soldiers die during a training exercise as they take part in a gruelling selection process for the elite SAS unit on the hottest day of the year. ](/news/2013/07/15/two-british-soldiers-die-during-a-training-exercise-as-they-take-part-in-a-gruelling-selection-process-for-the-elite-sas-unit-on-the-hottest.md)
 Two British soldiers have died during a training exercise over the weekend as they took part in a gruelling selection process for the elite SAS unit on the hottest day of the year.
 

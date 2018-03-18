@@ -33,7 +33,7 @@ US President Barack Obama visits the Demilitarised Zone (DMZ) separating the Kor
 
 ##### Kofi Annan
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
-_Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, President, Syria, UN_
+_Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, President of Russia, Syria, UN_
 
 ##### Kandahar massacre
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)

@@ -103,9 +103,9 @@ Bangladesh has suspended six trading houses on the main Dhaka Stock Exchange.
 ### [MSNBC terminates a contract with their highest-rated cable news host, Keith Olbermann. ](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.md)
 _Context: Keith Olbermann, MSNBC_
 
-##### United Kingdom
+##### British
 ### [A group of engineers from United Kingdom are teaming up with the Royal Air Force in this year in order to excavate a long-forgotten escape tunnel from the Second World War. ](/news/2011/01/21/a-group-of-engineers-from-united-kingdom-are-teaming-up-with-the-royal-air-force-in-this-year-in-order-to-excavate-a-long-forgotten-escape-t.md)
-_Context: Royal Air Force, Second World War, United Kingdom_
+_Context: British, Royal Air Force, Second World War_
 
 ##### South Korea
 ### [The South Korean navy directs an operation against Somali pirates who hijacked a South Korean ship, rescuing all 21 hostages, while eight pirates are killed and five are captured. ](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.md)

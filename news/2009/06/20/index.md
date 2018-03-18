@@ -19,7 +19,7 @@ _Context: David S. Rohde, Taliban, The New York Times_
 ### [ An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md)
 Two teenagers have been charged in connection with racist attacks on Romanian families in Belfast.
 
-##### United Kingdom
+##### British
 ### [ The bodies of two British hostages in Iraq are discovered. ](/news/2009/06/20/the-bodies-of-two-british-hostages-in-iraq-are-discovered.md)
 Two British hostages held in Iraq since 2007 are feared dead after two bodies were discovered in Baghdad, the Foreign Office has disclosed.
 

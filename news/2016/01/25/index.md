@@ -27,7 +27,7 @@ The Zika virus is likely to spread across nearly all of the Americas, the World 
 ### [A MiG-31 fighter jet crashes in the Krasnoyarsk Krai region in Siberia, Russia. The pilots were able to eject safely, according to the Russian Defence Ministry. ](/news/2016/01/25/a-mig-31-fighter-jet-crashes-in-the-krasnoyarsk-krai-region-in-siberia-russia-the-pilots-were-able-to-eject-safely-according-to-the-russi.md)
 A Russian MiG-31 fighter jet has crashed in the Krasnoyarsk region in Siberia, according to the Russian Defense Ministry. The pilots were able to eject safely and no casualties have been reported.
 
-##### United Kingdom
+##### British
 ### [British explorer Henry Worsley dies at the age of 55 while attempting to be the first person to cross Antarctica unaided. ](/news/2016/01/25/british-explorer-henry-worsley-dies-at-the-age-of-55-while-attempting-to-be-the-first-person-to-cross-antarctica-unaided.md)
 Explorer Henry Worsley dies during a solo attempt to cross Antarctica and complete the unfinished journey of his hero Sir Ernest Shackleton.
 

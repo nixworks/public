@@ -27,9 +27,9 @@ _Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Sweden_
 ### [ A pilot flying from England to Ireland is airlifted to safety after his two-man aircraft crashes into the Irish Sea near Tuskar Rock. ](/news/2009/08/11/a-pilot-flying-from-england-to-ireland-is-airlifted-to-safety-after-his-two-man-aircraft-crashes-into-the-irish-sea-near-tuskar-rock.md)
 A man has been rescued after his light aircraft ditched into the sea off Co Wexford this afternoon.
 
-##### President
+##### President of Russia
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, President, Ukraine_
+_Context: Dmitry Medvedev, President of Russia, Ukraine_
 
 ##### NASA
 ### [ The NASA Spitzer Space Telescope finds evidence of a high-speed collision between two burgeoning planets orbiting a young star. ](/news/2009/08/11/the-nasa-spitzer-space-telescope-finds-evidence-of-a-high-speed-collision-between-two-burgeoning-planets-orbiting-a-young-star.md)

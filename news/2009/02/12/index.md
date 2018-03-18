@@ -13,7 +13,7 @@ Microsoft is offering a $250,000 reward for information leading to the convictio
 
 ##### Dutch
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Dutch, Geert Wilders, Islam, MP, Parliament, United Kingdom, anti-Islamic_
+_Context: British, Dutch, Geert Wilders, Islam, MP, Parliament, anti-Islamic_
 
 ##### India
 ### [ Indian businessman Moninder Singh Pandher and his servant, Surender Koli, are convicted of murder. ](/news/2009/02/12/indian-businessman-moninder-singh-pandher-and-his-servant-surender-koli-are-convicted-of-murder.md)

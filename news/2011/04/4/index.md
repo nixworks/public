@@ -3,7 +3,7 @@ Formats: [HTML](2011/04/4/index.html)  [JSON](2011/04/4/index.json)  [XML](2011/
 
 ## [2011-04-4](/news/2011/04/4/index.md)
 
-##### United Kingdom
+##### British
 ### [As part of the British government's package of welfare reforms, from today the one-and-a-half million people in the United Kingdom who claim incapacity benefit will begin to receive letters asking them to attend a work capability assessment. The tests are part of government plans to reduce the number of long-term claimants and will take until 2014 to complete. ](/news/2011/04/4/as-part-of-the-british-government-s-package-of-welfare-reforms-from-today-the-one-and-a-half-million-people-in-the-united-kingdom-who-claim.md)
 The 1.5 million people who claim incapacity benefit will start to receive letters this week asking them to be tested on their ability to work.
 

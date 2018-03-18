@@ -55,7 +55,7 @@ _Context: South Korea, Tanzania_
 ### [ The "News of the World" and "Daily Mail" newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after-prin.md)
 _Context: Daily Mail, England, England, Fabio Capello, Italy, News of the World, mud-bath_
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom's largest haul of Anglo-Saxon treasure, a collection of 1,500 gold and silver pieces comparable to the Book of Kells, is discovered buried beneath a field in Staffordshire. ](/news/2009/09/24/the-united-kingdom-s-largest-haul-of-anglo-saxon-treasure-a-collection-of-1-500-gold-and-silver-pieces-comparable-to-the-book-of-kells-is.md)
 The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items. Here are some of the collection&#039;s highlights:
 

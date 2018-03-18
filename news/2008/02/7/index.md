@@ -13,7 +13,7 @@ _Context: BHP Billiton, Rio Tinto, hostile takeover_
 
 ##### Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Afghanistan, Condoleezza Rice, David Miliband, Foreign Secretary, Secretary of State, United Kingdom_
+_Context: Afghanistan, British, Condoleezza Rice, David Miliband, Foreign Secretary, Secretary of State_
 
 ##### Afghanistan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)

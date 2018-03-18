@@ -3,9 +3,9 @@ Formats: [HTML](2007/03/21/index.html)  [JSON](2007/03/21/index.json)  [XML](200
 
 ## [2007-03-21](/news/2007/03/21/index.md)
 
-##### President
+##### President of Russia
 ### [ President of Russia Vladimir Putin declares a national day of mourning after three separate disasters kill at least 173 people in three days: the Ulyanovskaya Mine disaster, the crash of UT Air Flight 471 and a fire in a retirement home. ](/news/2007/03/21/president-of-russia-vladimir-putin-declares-a-national-day-of-mourning-after-three-separate-disasters-kill-at-least-173-people-in-three-day.md)
-_Context: President, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national day of mourning, retirement home_
+_Context: President of Russia, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national day of mourning, retirement home_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md)
@@ -37,7 +37,7 @@ _Context: Ambassador to the United Nations, Dayton Peace Accords, Kosovo, Richar
 
 ##### Gordon Brown
 ### [ Gordon Brown, Chancellor of the Exchequer in the United Kingdom, delivers the 2007 budget. The main rates of corporation tax and income tax will both be reduced by 2% from April 2008, but other taxes are increased. ](/news/2007/03/21/gordon-brown-chancellor-of-the-exchequer-in-the-united-kingdom-delivers-the-2007-budget-the-main-rates-of-corporation-tax-and-income-tax.md)
-_Context: Chancellor of the Exchequer, Gordon Brown, United Kingdom, budget, corporation tax, income tax_
+_Context: British, Chancellor of the Exchequer, Gordon Brown, budget, corporation tax, income tax_
 
 ## [Previous Day...](/news/2007/03/20/index.md)
 

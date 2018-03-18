@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-
 
 ### [2011-01-3](/news/2011/01/3/index.md)
 
-##### Iran's conservative judiciary
+##### Judicial system of Iran
 # An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. 
 
 

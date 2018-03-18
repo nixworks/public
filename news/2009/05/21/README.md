@@ -21,7 +21,7 @@ _Context: Apa, Mount Everest_
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government will allow retired Gurkhas who served in the Armed Forces to settle in the United Kingdom. ](/news/2009/05/21/her-majesty-s-government-will-allow-retired-gurkhas-who-served-in-the-armed-forces-to-settle-in-the-united-kingdom.md)
-_Context: British military personnel, Gurkha, His Majesty's Government, United Kingdom_
+_Context: British, British military personnel, Gurkha, His Majesty's Government_
 
 ##### President of Serbia
 ### [ A man who entered the President's official residence in Belgrade, Serbia, with at least one hand grenade surrenders. ](/news/2009/05/21/a-man-who-entered-the-president-s-official-residence-in-belgrade-serbia-with-at-least-one-hand-grenade-surrenders.md)

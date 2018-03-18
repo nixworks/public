@@ -3,7 +3,7 @@ Formats: [HTML](2015/11/28/index.html)  [JSON](2015/11/28/index.json)  [XML](201
 
 ## [2015-11-28](/news/2015/11/28/index.md)
 
-##### United Kingdom
+##### British
 ### [The United Kingdom's Minister of State for International Development, Grant Shapps, resigns amid claims he failed to act on allegations of in-party bullying of a young Conservative Party activist who committed suicide in September. ](/news/2015/11/28/the-united-kingdom-s-minister-of-state-for-international-development-grant-shapps-resigns-amid-claims-he-failed-to-act-on-allegations-of-i.md)
 Grant Shapps quits as a minister amid claims he failed to act on allegations of bullying in the Tory youth wing, saying the &quot;buck should stop with me&quot;.
 

@@ -25,7 +25,7 @@ A massive fire at a Ukrainian fuel depot killed five people on Tuesday, official
 
 ##### HSBC
 ### [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.md)
-_Context: HSBC, United Kingdom_
+_Context: British, HSBC_
 
 ##### Syrian Civil War
 ### [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md)

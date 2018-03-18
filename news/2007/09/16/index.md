@@ -29,7 +29,7 @@ _Context: Alexander Litvinenko, Andrei Lugovoy, KGB, Liberal Democratic Party of
 
 ##### Michael B. Mukasey
 ### [ Michael B. Mukasey, a retired federal judge from New York, will be nominated to replace Alberto Gonzales as United States Attorney General and President Bush will announce his selection on Monday. ](/news/2007/09/16/michael-b-mukasey-a-retired-federal-judge-from-new-york-will-be-nominated-to-replace-alberto-gonzales-as-united-states-attorney-general.md)
-_Context: Alberto Gonzales, George W. Bush, Michael B. Mukasey, New York City, United States Attorney General_
+_Context: Alberto Gonzales, George W. Bush, Michael B. Mukasey, New York City, U.S. Attorney General_
 
 ##### Iraq
 ### [ An Iraqi police colonel is gunned down in Afak, the third government official killed in that Iraqi town. ](/news/2007/09/16/an-iraqi-police-colonel-is-gunned-down-in-afak-the-third-government-official-killed-in-that-iraqi-town.md)
@@ -37,7 +37,7 @@ _Context: Afak, Iraq_
 
 ##### Foot and mouth disease
 ### [ A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. ](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-identified-but-not-confirmed-by-united-kingdom-government-vets-on-a-farm-near-chertsey-surrey.md)
-_Context: Chertsey, Surrey, United Kingdom, foot and mouth disease_
+_Context: British, Chertsey, Surrey, foot and mouth disease_
 
 ##### O.J. Simpson
 ### [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md)

@@ -25,7 +25,7 @@ A Sri Lankan reporter, recently named by US President Barack Obama as an example
 
 ##### British government
 ### [ Documents released by the British government show that the United Kingdom gave in to Libyan demands that the Lockerbie bomber be eligible for transfer home to serve his sentence there. ](/news/2009/09/1/documents-released-by-the-british-government-show-that-the-united-kingdom-gave-in-to-libyan-demands-that-the-lockerbie-bomber-be-eligible-f.md)
-_Context: British government, Libyan, Lockerbie bomber, United Kingdom_
+_Context: British, British government, Libyan, Lockerbie bomber_
 
 ##### Illegally fish
 ### [ 91 countries agree to the first ever global treaty focused specifically on the problem of IUU fishing. ](/news/2009/09/1/91-countries-agree-to-the-first-ever-global-treaty-focused-specifically-on-the-problem-of-iuu-fishing.md)

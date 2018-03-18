@@ -53,7 +53,7 @@ _Context: Benjamin Netanyahu, Egypt, Israel, Nuclear Non-Proliferation Treaty, P
 
 ##### United States
 ### [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md)
-_Context: Barack Obama, Dmitry Medvedev, President, Russia, U.S. President, United States, new arms reduction treaty_
+_Context: Barack Obama, Dmitry Medvedev, President of Russia, Russia, U.S. President, United States, new arms reduction treaty_
 
 ##### Diyala Governorate
 ### [5 people are killed and 11 others are injured in separate attacks in Diyala and Nineveh. ](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.md)

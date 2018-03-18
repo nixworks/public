@@ -27,13 +27,13 @@ _Context: Falun Gong, Hong Kong_
 ### [ The Indian Space Research Organization launches a mapping satellite, CARTOSAT-1 and an Amateur Radio satellite HAMSAT, into Earth orbit ](/news/2005/05/5/the-indian-space-research-organization-launches-a-mapping-satellite-cartosat-1-and-an-amateur-radio-satellite-hamsat-into-earth-orbit.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
-##### United Kingdom
+##### British
 ### [ An explosion outside the United Kingdom consulate in New York City occurs at 07:35 GMT. There were no reported injuries. Police say they have found fragments of an explosive device. (Wikinews) ](/news/2005/05/5/an-explosion-outside-the-united-kingdom-consulate-in-new-york-city-occurs-at-07-35-gmt-there-were-no-reported-injuries-police-say-they-ha.md)
-_Context: (Wikinews), GMT, New York City, United Kingdom, consulate_
+_Context: (Wikinews), British, GMT, New York City, consulate_
 
-##### United Kingdom
+##### British
 ### [ British polls open in the 2005 general election. Voters will elect 645 of the 646 members of the House of Commons. Most expect Tony Blair and his Labour Party to win, but both Michael Howard and the Conservative Party along with Charles Kennedy and the Liberal Democrats are expected to make major gains in Parliament. (Wikinews) ](/news/2005/05/5/british-polls-open-in-the-2005-general-election-voters-will-elect-645-of-the-646-members-of-the-house-of-commons-most-expect-tony-blair-a.md)
-_Context: (Wikinews), 2005 general election, British House of Commons, Charles Kennedy, Conservative Party, Labour Party, Liberal Democrats, Michael Howard, Tony Blair, United Kingdom_
+_Context: (Wikinews), 2005 general election, British, British House of Commons, Charles Kennedy, Conservative Party, Labour Party, Liberal Democrats, Michael Howard, Tony Blair_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: An Israeli commander is suspended, pending a full inquiry, from his position following the deaths of two teenage cousins in Beit Lakia, near Ramallah, on May 4. ](/news/2005/05/5/israeli-palestinian-conflict-an-israeli-commander-is-suspended-pending-a-full-inquiry-from-his-position-following-the-deaths-of-two-teen.md)

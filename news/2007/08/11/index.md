@@ -19,9 +19,9 @@ President George W. Bush and French President Nicolas Sarkozy on Saturday stress
 ### [ Thai insurgents attack several positions held by Thai security forces at Yala Province. ](/news/2007/08/11/thai-insurgents-attack-several-positions-held-by-thai-security-forces-at-yala-province.md)
 _Context: Thailand, Yala Province_
 
-##### President
+##### President of Russia
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
-_Context: Lekhtusi, President, St Petersburg, Vladimir Putin, air defense, radar_
+_Context: Lekhtusi, President of Russia, St Petersburg, Vladimir Putin, air defense, radar_
 
 ##### President
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)

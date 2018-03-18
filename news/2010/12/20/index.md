@@ -47,7 +47,7 @@ _Context: Israel, Palestinian, UN_
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
 _Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
 
-##### President
+##### President of Russia
 ### [President of Russia Dmitry Medvedev sets off for India for a two-day official visit to sign trade deals. ](/news/2010/12/20/president-of-russia-dmitry-medvedev-sets-off-for-india-for-a-two-day-official-visit-to-sign-trade-deals.md)
 Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear and defence contracts worth billions of dollars.
 

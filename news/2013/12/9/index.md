@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/9/index.html)  [JSON](2013/12/9/index.json)  [XML](2013/
 
 ## [2013-12-9](/news/2013/12/9/index.md)
 
-##### President
+##### President of Russia
 ### [President of Russia Vladimir Putin announces that RIA Novosti, Voice of Russia, and the State Fund of Television and Radio Programs will immediately be shut down. Newly created Rossia Segodnya (Russia Today) will take RIA Novosti's place as the government news agency. ](/news/2013/12/9/president-of-russia-vladimir-putin-announces-that-ria-novosti-voice-of-russia-and-the-state-fund-of-television-and-radio-programs-will-imm.md)
 The decision to dissolve RIA Novosti, along with its international radio broadcaster, came as a complete surprise and signaled a major state media reorganization in Russia.
 

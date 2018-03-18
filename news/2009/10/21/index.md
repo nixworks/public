@@ -9,7 +9,7 @@ _Context: Denis Sassou Nguesso, Nelson Mandela, President, President, Republic o
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)
-_Context: Dmitry Medvedev, President, Russia_
+_Context: Dmitry Medvedev, President of Russia, Russia_
 
 ##### Japan
 ### [ A Japanese convict who served seventeen years in prison for the murder of a four-year-old girl pleads not guilty during a retrial. ](/news/2009/10/21/a-japanese-convict-who-served-seventeen-years-in-prison-for-the-murder-of-a-four-year-old-girl-pleads-not-guilty-during-a-retrial.md)

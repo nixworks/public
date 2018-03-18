@@ -21,7 +21,7 @@ _Context: German, John Demjanjuk, World War II, accessory to murder_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev makes his first visit to South Ossetia. ](/news/2009/07/13/russian-president-dmitry-medvedev-makes-his-first-visit-to-south-ossetia.md)
-_Context: Dmitry Medvedev, President, Russia, South Ossetia_
+_Context: Dmitry Medvedev, President of Russia, Russia, South Ossetia_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta claims an attack on a oil depot in Lagos, Nigeria. ](/news/2009/07/13/the-movement-for-the-emancipation-of-the-niger-delta-claims-an-attack-on-a-oil-depot-in-lagos-nigeria.md)
@@ -31,9 +31,9 @@ By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEN
 ### [ Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. ](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.md)
 _Context: Urumqi, Uyghur_
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
-_Context: 2008-2009 Gaza War, Israel, United Kingdom_
+_Context: 2008-2009 Gaza War, British, Israel_
 
 ##### Greece
 ### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade. ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)

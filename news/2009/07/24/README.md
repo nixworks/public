@@ -29,7 +29,7 @@ _Context: Aria Air, Flight 1525, Iran, Mashhad_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad is urged to dismiss his choice of Vice President, Esfandiar Rahim Mashaei. ](/news/2009/07/24/iranian-president-mahmoud-ahmadinejad-is-urged-to-dismiss-his-choice-of-vice-president-esfandiar-rahim-mashaei.md)
-_Context: Esfandiar Rahim Mashaei, First Vice President, Iran, Mahmoud Ahmadinejad, President_
+_Context: Esfandiar Rahim Mashaei, Iran, Mahmoud Ahmadinejad, President, Vice President of Iran_
 
 ##### Burma
 ### [ The trial of Burmese National League for Democracy General Secretary Aung San Suu Kyi nears its end. ](/news/2009/07/24/the-trial-of-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-nears-its-end.md)

@@ -31,7 +31,7 @@ President Mahmoud Ahmadinejad says Iran &quot;will not budge&quot; from its nucl
 ### [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md)
 More than a dozen buildings, including at least one hotel, collapsed.
 
-##### United Kingdom
+##### British
 ### [The British Ministry of Defence suspends training flights in aircraft with ejector seats similar to that which killed a Red Arrows pilot on Tuesday. ](/news/2011/11/9/the-british-ministry-of-defence-suspends-training-flights-in-aircraft-with-ejector-seats-similar-to-that-which-killed-a-red-arrows-pilot-on.md)
 The MoD suspends training flights in aircraft with ejector seats like the one in which Red Arrows pilot Flt Lt Sean Cunningham died.
 

@@ -49,7 +49,7 @@ _Context: Islamic Human Rights Commission, July 2005 London bombings_
 
 ##### Tornado
 ### [ The strongest tornado in Britain in 25 years, rating a 2 on the Fujita scale, hits Birmingham, damaging homes and injuring 20 people. ](/news/2005/07/28/the-strongest-tornado-in-britain-in-25-years-rating-a-2-on-the-fujita-scale-hits-birmingham-damaging-homes-and-injuring-20-people.md)
-_Context: Birmingham, Fujita scale, United Kingdom, tornado_
+_Context: Birmingham, British, Fujita scale, tornado_
 
 ##### IRA
 ### [ The Provisional IRA issues a statement formally ordering an end to the armed campaign it has pursued since 1969 and ordering all its units to dump their arms, with effect from 1600 BST today (1500 UTC). The IRA has been on "cease-fire" since 1996 and said it would follow a democratic path ending more than 30 years of violence. It will not, however, disband.](/news/2005/07/28/the-provisional-ira-issues-a-statement-formally-ordering-an-end-to-the-armed-campaign-it-has-pursued-since-1969-and-ordering-all-its-units.md)

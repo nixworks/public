@@ -71,9 +71,9 @@ News Corporation sells its ailing social networking site MySpace for a fraction 
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
 _Context: Alderney Gambling Control Commission, Department of Justice, Full Tilt Poker, indicted_
 
-##### United Kingdom
+##### British
 ### [Approximately 750,000 workers in the United Kingdom commence strike action over pension reform plans. ](/news/2011/06/29/approximately-750-000-workers-in-the-united-kingdom-commence-strike-action-over-pension-reform-plans.md)
-_Context: United Kingdom_
+_Context: British_
 
 ##### Hellenic Parliament
 ### [The Greek parliament votes in favor of austerity measures to deal with the country's economic crisis; global markets rise as a result. ](/news/2011/06/29/the-greek-parliament-votes-in-favor-of-austerity-measures-to-deal-with-the-country-s-economic-crisis-global-markets-rise-as-a-result.md)

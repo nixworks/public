@@ -9,7 +9,7 @@ Formats: [HTML](2013/12/31/index.html)  [JSON](2013/12/31/index.json)  [XML](201
 ### [Thousands of protestors gather at Dataran Merdeka, Kuala Lumpur to begin protests against the Malaysian government's introduction of price hikes. ](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.md)
 _Context: Dataran Merdeka, Kuala Lumpur, protests_
 
-##### President
+##### President of Russia
 ### [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year's speeches instead of one. The second New Year's address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-yearas-speeches-in.md)
 Russia&rsquo;s president travels seven time zones away to change the subject from fear to optimism.
 

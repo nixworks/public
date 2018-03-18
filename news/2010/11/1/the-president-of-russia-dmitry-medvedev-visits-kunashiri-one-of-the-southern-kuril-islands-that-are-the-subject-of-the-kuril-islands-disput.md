@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-k
 
 ### [2010-11-1](/news/2010/11/1/index.md)
 
-##### President
+##### President of Russia
 # The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. 
 
 

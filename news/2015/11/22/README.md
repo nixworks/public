@@ -23,7 +23,7 @@ _Context: Kim Young-sam, Seoul, South Korea, South Korean President_
 ### [Voters in Argentina go to the polls for a presidential runoff between Daniel Scioli of the ruling Justicialist Party and Mauricio Macri of the opposition PRO. Mauricio Macri, the mayor of Buenos Aires, was elected with 53% of the vote. ](/news/2015/11/22/voters-in-argentina-go-to-the-polls-for-a-presidential-runoff-between-daniel-scioli-of-the-ruling-justicialist-party-and-mauricio-macri-of-t.md)
 _Context: Argentina, Argentine general election, 2015, Buenos Aires, Daniel Scioli, Justicialist Party, Mauricio Macri, PRO_
 
-##### Iran's conservative judiciary
+##### Judicial system of Iran
 ### [Iranian Judiciary spokesman Gholamhossein Mohseni Ejei says an Iranian court sentenced "Washington Post" reporter Jason Rezaian to a prison term, length unspecified, for espionage. Mohseni Eje said, "I cannot give details." Post foreign editor Douglas Jehl said this might move the case closer to a final resolution in the judiciary, so it can then go to Iranian leaders who can make things right. ](/news/2015/11/22/iranian-judiciary-spokesman-gholamhossein-mohseni-ejei-says-an-iranian-court-sentenced-washington-post-reporter-jason-rezaian-to-a-prison.md)
 An Iranian court has sentenced Washington Post reporter Jason Rezaian to a prison term, the state news agency said on Sunday quoting a judiciary spokesman, a case that is a sensitive issue in contentious U.S.-Iranian relations.
 
@@ -53,7 +53,7 @@ A landslide near a jade mine in northern Myanmar killed about 100 people, most o
 
 ##### United Kingdom withdrawal from the European Union
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: European Union, Moody's Investors Service, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: British, European Union, Moody's Investors Service, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md)

@@ -25,7 +25,7 @@ _Context: Cyclone Gonu, Oman_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: George W. Bush, President, U.S. President, Vladimir Putin, missile defense_
+_Context: George W. Bush, President of Russia, U.S. President, Vladimir Putin, missile defense_
 
 ##### Italy
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)

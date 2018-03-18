@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/1/president-of-russia-dmitry-medvedev-pays-an-unex
 
 ### [2010-04-1](/news/2010/04/1/index.md)
 
-##### President
+##### President of Russia
 #  President of Russia Dmitry Medvedev pays an unexpected visit to Dagestan, the day after the deaths of 12 people occur there in a double suicide attack. 
 
 President Dmitry Medvedev on Thursday urged tough anti-terror measures as he made a surprise visit to the North Caucasus region hit by a major suicide attack and linked to the Moscow bombings.
@@ -18,8 +18,8 @@ President Dmitry Medvedev on Thursday urged tough anti-terror measures as he mad
 
 ### Related:
 
-1. [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md) _Context: Dmitry Medvedev, President_
-2. [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md) _Context: Dmitry Medvedev, President_
-3. [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md) _Context: Dmitry Medvedev, President_
-4. [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md) _Context: Dmitry Medvedev, President_
-5. [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md) _Context: Dmitry Medvedev, President_
+1. [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md) _Context: Dmitry Medvedev, President of Russia_
+2. [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md) _Context: Dmitry Medvedev, President of Russia_
+3. [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md) _Context: Dmitry Medvedev, President of Russia_
+4. [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md) _Context: Dmitry Medvedev, President of Russia_
+5. [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md) _Context: Dmitry Medvedev, President of Russia_

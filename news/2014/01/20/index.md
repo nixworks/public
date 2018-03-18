@@ -91,7 +91,7 @@ Credit card details from almost half of all South Koreans have been stolen and s
 ### [Two car bombs hit a rebel-held post on the Syrian border with Turkey, killing at least 16 people amidst continuing fighting between Turkey-supported rebels and Saudi-supported rebels. ](/news/2014/01/20/two-car-bombs-hit-a-rebel-held-post-on-the-syrian-border-with-turkey-killing-at-least-16-people-amidst-continuing-fighting-between-turkey-s.md)
 Two car bombs hit a rebel-held post on the Syrian border with Turkey on Monday, killing at least 16 people and closing the frontier, opposition activists and fighters said.
 
-##### United Kingdom
+##### British
 ### [The United Kingdom rejects its involvement in combat drone attacks by the United States in Pakistan. ](/news/2014/01/20/the-united-kingdom-rejects-its-involvement-in-combat-drone-attacks-by-the-united-states-in-pakistan.md)
 Judges reject a legal challenge against the UK government by the son of a man killed in Pakistan by a US drone.
 

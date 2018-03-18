@@ -91,7 +91,7 @@ _Context: Calais, Channel Tunnel, England, Eurotunnel, France, Kent_
 ### [The confirmed death toll from flooding in China rises above 1,000. ](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.md)
 _Context: 2010 China floods_
 
-##### President
+##### President of Russia
 ### [President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-officials-after-wildfires-destroy.md)
 Russian president critical of government response to fire disaster.
 

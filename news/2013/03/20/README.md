@@ -39,7 +39,7 @@ Cypriot leaders are set to decide on a new bailout plan as the US central bank p
 ### [The last surviving member of the 1953 British Mount Everest Expedition George Lowe dies at the age of 89 after a long illness. ](/news/2013/03/20/the-last-surviving-member-of-the-1953-british-mount-everest-expedition-george-lowe-dies-at-the-age-of-89-after-a-long-illness.md)
 _Context: 1953 British Mount Everest Expedition, George Lowe_
 
-##### United Kingdom
+##### British
 ### [British horror writer James Herbert dies at the age of 69 in Sussex, England. ](/news/2013/03/20/british-horror-writer-james-herbert-dies-at-the-age-of-69-in-sussex-england.md)
 Best-selling author James Herbert who wrote the horror classic The Rats, dies aged 69.
 

@@ -19,9 +19,9 @@ _Context: Italy, Marco Follini, Silvio Berlusconi, general election_
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
 _Context: ETA, Hernani, San Sebastin, Spanish_
 
-##### United Kingdom
+##### British
 ### [ British carmaker MG Rover receives a loan of GBP6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-gbp6-5-million-from-the-british-government.md)
-_Context: MG Rover, United Kingdom_
+_Context: British, MG Rover_
 
 ##### Earthquake
 ### [ A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. ](/news/2005/04/10/a-magnitude-6-1-earthquake-strikes-tokyo-there-are-no-reports-of-serious-damages.md)

@@ -21,7 +21,7 @@ Survivors of the Rwandan genocide in 1994 say they are concerned about their saf
 
 ##### U.S. President
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Barack Obama, Iran, President, Syrian uprising (2011-present), U.S. President, Vladimir Putin_
+_Context: Barack Obama, Iran, President of Russia, Syrian uprising (2011-present), U.S. President, Vladimir Putin_
 
 ##### Los Cabos, Baja California Sur
 ### [The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md)

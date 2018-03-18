@@ -7,7 +7,7 @@ Formats: [HTML](2007/09/7/index.html)  [JSON](2007/09/7/index.json)  [XML](2007/
 ### [ 2007 Pacific typhoon season: Typhoon Fitow passes over Tokyo with one casualty occurring in Nagano Prefecture last night. ](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.md)
 _Context: 2007 Pacific typhoon season, Nagano Prefecture, Tokyo_
 
-##### President
+##### President of Russia
 ### [ The President of Russia Vladimir Putin signs a uranium deal with the Prime Minister of Australia John Howard before meeting with the President of the United States George W. Bush. ](/news/2007/09/7/the-president-of-russia-vladimir-putin-signs-a-uranium-deal-with-the-prime-minister-of-australia-john-howard-before-meeting-with-the-presid.md)
 Russian President Vladimir Putinis set to sign a nuclear energy deal with Australia and holdtough talks with U.S. President George W. Bush after arrivingfor the APEC meetings on Friday.
 

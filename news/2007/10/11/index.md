@@ -3,9 +3,9 @@ Formats: [HTML](2007/10/11/index.html)  [JSON](2007/10/11/index.json)  [XML](200
 
 ## [2007-10-11](/news/2007/10/11/index.md)
 
-##### United Kingdom
+##### British
 ### [ The British writer Doris Lessing wins the 2007 Nobel Prize in Literature. ](/news/2007/10/11/the-british-writer-doris-lessing-wins-the-2007-nobel-prize-in-literature.md)
-_Context: Doris Lessing, Nobel Prize in Literature, United Kingdom, writer_
+_Context: British, Doris Lessing, Nobel Prize in Literature, writer_
 
 ##### Turkish
 ### [ Turkey recalls its ambassador to the United States due to anger over an upcoming House of Representatives vote on recognizing the Armenian Genocide. ](/news/2007/10/11/turkey-recalls-its-ambassador-to-the-united-states-due-to-anger-over-an-upcoming-house-of-representatives-vote-on-recognizing-the-armenian.md)

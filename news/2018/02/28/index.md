@@ -21,7 +21,7 @@ The Ministry of Transport announced that the death toll in a collision between a
 
 ##### 2017-18 Western Europe windstorm season
 ### [The Met Office issues its highest level warning, a red alert for parts of Scotland due to heavy snow. It is the first time a red alert has ever been issued in Scotland, and only the second time anywhere in the United Kingdom. ](/news/2018/02/28/the-met-office-issues-its-highest-level-warning-a-red-alert-for-parts-of-scotland-due-to-heavy-snow-it-is-the-first-time-a-red-alert-has-e.md)
-_Context: 2017-18 Western Europe windstorm season, Met Office, Scotland, United Kingdom_
+_Context: 2017-18 Western Europe windstorm season, British, Met Office, Scotland_
 
 ##### Stoneman Douglas High School shooting
 ### [Dick's Sporting Goods and Walmart raise the minimum age for purchasing firearms to 21 and stop selling military-style semi-automatic rifles altogether. ](/news/2018/02/28/dick-s-sporting-goods-and-walmart-raise-the-minimum-age-for-purchasing-firearms-to-21-and-stop-selling-military-style-semi-automatic-rifles.md)

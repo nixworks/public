@@ -13,7 +13,7 @@ _Context: Albert Fert, Nobel Prize in Physics, Peter Grnberg, giant magnetoresis
 
 ##### French President
 ### [ The President of France Nicolas Sarkozy travels to Moscow to meet with the President of Russia Vladimir Putin to discuss a broad range of policies including Kosovo, Chechnya, and Iran. ](/news/2007/10/9/the-president-of-france-nicolas-sarkozy-travels-to-moscow-to-meet-with-the-president-of-russia-vladimir-putin-to-discuss-a-broad-range-of-p.md)
-_Context: Chechnya, French President, Iran, Kosovo, Moscow, Nicolas Sarkozy, President, Vladimir Putin_
+_Context: Chechnya, French President, Iran, Kosovo, Moscow, Nicolas Sarkozy, President of Russia, Vladimir Putin_
 
 ##### Japan
 ### [ Japan extends sanctions against North Korea, citing a lack of progress in a dispute about the abduction of Japanese nationals. ](/news/2007/10/9/japan-extends-sanctions-against-north-korea-citing-a-lack-of-progress-in-a-dispute-about-the-abduction-of-japanese-nationals.md)

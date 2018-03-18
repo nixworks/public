@@ -35,7 +35,7 @@ _Context: South Yorkshire, West Midlands, police_
 ### [Former "de facto" President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of-at.md)
 Two former military leaders in Argentina have been found guilty of overseeing the systematic theft of babies from political prisoners.
 
-##### United Kingdom
+##### British
 ### [More than 80 flood alerts are issued in the United Kingdom as the north of England and East Anglia prepares for torrential rain. ](/news/2012/07/6/more-than-80-flood-alerts-are-issued-in-the-united-kingdom-as-the-north-of-england-and-east-anglia-prepares-for-torrential-rain.md)
 Persistent rain continues to fall over much of the country, with very heavy rain beginning to affect the South West.
 

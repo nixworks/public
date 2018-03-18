@@ -21,7 +21,7 @@ A security guard sets fire to a childcare centre, killing four children and a te
 
 ##### Russia-Saudi Arabia relations
 ### [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md)
-_Context: King Salman, Moscow Kremlin, President, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
+_Context: King Salman, Moscow Kremlin, President of Russia, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
 
 ##### Tropical Storm Nate
 ### [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md)
@@ -33,7 +33,7 @@ The firm says &quot;changed circumstances&quot; led to the decision to abandon t
 
 ##### Nobel Prize in Literature
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
-_Context: Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature, United Kingdom_
+_Context: British, Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
 
 ##### Battle of Hawija
 ### [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md)

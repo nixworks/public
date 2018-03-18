@@ -21,7 +21,7 @@ _Context: Lotta Lotass, Seat 1, Sten Rudholm, Sweden, Swedish Academy_
 
 ##### Protest
 ### [ A protestor from Plane Stupid throws custard at United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson during a low-carbon summit in London. ](/news/2009/03/6/a-protestor-from-plane-stupid-throws-custard-at-united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mand.md)
-_Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, custard, low-carbon, protest, summit_
+_Context: British, London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, custard, low-carbon, protest, summit_
 
 ##### Zimbabwe
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai is injured and his wife, Susan, killed in a car accident south of Harare. ](/news/2009/03/6/zimbabwean-prime-minister-morgan-tsvangirai-is-injured-and-his-wife-susan-killed-in-a-car-accident-south-of-harare.md)

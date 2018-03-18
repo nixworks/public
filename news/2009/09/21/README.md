@@ -45,7 +45,7 @@ _Context: Fabio Capello, Gary Lineker, Sir Alex Ferguson, Sir Bobby Robson, asso
 
 ##### Russia
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
-_Context: Boris Yeltsin, President, Russia, Russian government_
+_Context: Boris Yeltsin, President of Russia, Russia, Russian government_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)

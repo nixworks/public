@@ -165,7 +165,7 @@ _Context: Rwanda, Uganda, United Nations, attacks_
 
 ##### William Hague
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Foreign Secretary, United Kingdom, William Hague_
+_Context: Afghanistan, British, British Army, Foreign Secretary, William Hague_
 
 ##### Thailand
 ### [Thailand's government lifts a state of emergency in 3 provinces; it remains in 16 others, including Bangkok. ](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.md)

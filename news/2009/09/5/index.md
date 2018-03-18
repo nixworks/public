@@ -17,7 +17,7 @@ _Context: Honduras, Hugo Chvez, President, Spanish, Venezuela_
 
 ##### Libya
 ### [ An oil deal and trade concerns with Libya were at one point considered as factors in the Lockerbie bomber's release, British Justice Secretary Jack Straw says in an interview. ](/news/2009/09/5/an-oil-deal-and-trade-concerns-with-libya-were-at-one-point-considered-as-factors-in-the-lockerbie-bomber-s-release-british-justice-secret.md)
-_Context: Jack Straw, Libya, Lockerbie bomber, United Kingdom_
+_Context: British, Jack Straw, Libya, Lockerbie bomber_
 
 ##### Irish
 ### [ Ireland's Minister for Foreign Affairs Michel Martin travels to Khartoum for meetings with the Sudanese government over the kidnapping of aid workers Sharon Commins and Hilda Kawuki nine weeks ago. ](/news/2009/09/5/ireland-s-minister-for-foreign-affairs-micheal-martin-travels-to-khartoum-for-meetings-with-the-sudanese-government-over-the-kidnapping-of.md)

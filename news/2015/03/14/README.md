@@ -3,7 +3,7 @@ Formats: [HTML](2015/03/14/index.html)  [JSON](2015/03/14/index.json)  [XML](201
 
 ## [2015-03-14](/news/2015/03/14/index.md)
 
-##### President
+##### President of Russia
 ### [The cancellation of several of Russian President Vladimir Putin's scheduled meetings leads to widespread social media speculations regarding the reason for his public absence. ](/news/2015/03/14/the-cancellation-of-several-of-russian-president-vladimir-putin-s-scheduled-meetings-leads-to-widespread-social-media-speculations-regarding.md)
 President Vladimir V. Putin of Russia has not been seen in public since last week, and the rumor mill has gone into overdrive, churning out possible explanations from the simple to the salacious to the sinister.
 

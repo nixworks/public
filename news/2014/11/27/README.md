@@ -51,7 +51,7 @@ _Context: Mubi, Nigeria_
 ### [At least 133 people were killed and 100 wounded, in the aftermath of clashes between Awlad Omran and Al-Ziyoud groups of the Mesiria tribe. The clashes occurred in the Kwak area of the West Kurdufan state, Sudan. ](/news/2014/11/27/at-least-133-people-were-killed-and-100-wounded-in-the-aftermath-of-clashes-between-awlad-omran-and-al-ziyoud-groups-of-the-mesiria-tribe.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
-##### United Kingdom
+##### British
 ### [A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/a-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md)
 A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with a British worker and an Afghan staff member among those killed.
 

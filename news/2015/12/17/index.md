@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/17/index.html)  [JSON](2015/12/17/index.json)  [XML](201
 
 ##### Russia
 ### [ Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any.md)
-_Context: 2016 Trump campaign, Donald Trump, President, Republican, Russia, United States, Vladimir Putin_
+_Context: 2016 Trump campaign, Donald Trump, President of Russia, Republican, Russia, United States, Vladimir Putin_
 
 ##### War in Afghanistan
 ### [ "The New York Times" reports the U.S. Navy covered up a Naval Criminal Investigative Service (NCIS) report on Afghan detainee abuses. The NCIS investigation found that Navy SEAL Team 2's abuse resulted in the death of a 24-year old married Afghan detainee with a new baby, and that the SEALs failed to restrain the Afghan Local Police's detainee abuses. This drove some previously cooperative Afghans to leave for Taliban-controlled areas, the "Times" reports. Their commander in Afghanistan recommended these men be forced out of the elite SEAL teams. Two of the SEALs and their lieutenant have since been promoted. Rachel E. VanLandingham, former United States Central Command's chief legal adviser on detainee and interrogation issues from 2006 to 2010, and other military lawyers, have called for the case to be reopened. ](/news/2015/12/17/the-new-york-times-reports-the-u-s-navy-covered-up-a-naval-criminal-investigative-service-ncis-report-on-afghan-detainee-abuses-the-n.md)

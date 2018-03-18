@@ -15,9 +15,9 @@ _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavi
 ### [ Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board-q.md)
 _Context: Australia, Australian Transport Safety Bureau, Qantas Flight 30, oxygen cylinder, safety_
 
-##### United Kingdom
+##### British
 ### [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md)
-_Context: Appellate Committee of the House of Lords, Gary McKinnon, NASA, United Kingdom, United States, United States military, computer, extradition, hacker_
+_Context: Appellate Committee of the House of Lords, British, Gary McKinnon, NASA, United States, United States military, computer, extradition, hacker_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush signs The Housing and Economic Recovery Act of 2008 in response to the subprime mortgage crisis. ](/news/2008/07/30/u-s-president-george-w-bush-signs-the-housing-and-economic-recovery-act-of-2008-in-response-to-the-subprime-mortgage-crisis.md)

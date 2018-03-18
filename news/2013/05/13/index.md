@@ -35,7 +35,7 @@ An Iranian man and his Nigerian accomplice are found guilty of smuggling weapons
 ### [In Mexico City, Mexico, two men are arrested in connection with the May 9 murder of 28-year-old American Malcolm Shabazz, the grandson and first male descendant of Malcolm X. ](/news/2013/05/13/in-mexico-city-mexico-two-men-are-arrested-in-connection-with-the-may-9-murder-of-28-year-old-american-malcolm-shabazz-the-grandson-and-f.md)
 Two men have been arrested in connection with the murder of Malcolm Shabazz, the grandson of civil rights-era leader Malcolm X who died Thursday in Mexico City. The men, who work at a bar Shabazz visited, reportedly face charges of homicide and robbery.
 
-##### United States Attorney General
+##### U.S. Attorney General
 ### [Attorney General Eric Holder, acting for the Obama Administration, testifies before the House Judiciary Committee that he was not party to the U.S. Justice Department's secret seizure of telephone records of the news agency the Associated Press. The Justice Department seized two months worth of telephone records from AP offices and reporters. ](/news/2013/05/13/attorney-general-eric-holder-acting-for-the-obama-administration-testifies-before-the-house-judiciary-committee-that-he-was-not-party-to-t.md)
 Attorney General Eric Holder said Tuesday that the deputy attorney general was the one who ultimately authorized the subpoena to secretly obtain phone records from The Associated Press, as he revealed he had recused himself early on in the related investigation into leaks of sensitive information.
 

@@ -23,9 +23,9 @@ _Context: California, Torrance_
 ### [American actor Michael Jace is arrested in relation to the shooting death of his wife in Los Angeles. ](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.md)
 Actor Michael Jace, who played a Los Angeles police officer in the FX drama The Shield, has been arrested in the shooting death of his wife, police said.
 
-##### President
+##### President of Russia
 ### [The President of Russia Vladimir Putin arrives in the People's Republic of China for a state visit. ](/news/2014/05/20/the-president-of-russia-vladimir-putin-arrives-in-the-people-s-republic-of-china-for-a-state-visit.md)
-_Context: China, President, Vladimir Putin_
+_Context: China, President of Russia, Vladimir Putin_
 
 ##### Singer-songwriter
 ### [Singer-songwriter Josh Kaufman becomes the Season 6 winner on NBC's "The Voice" as a member of Usher's team. ](/news/2014/05/20/singer-songwriter-josh-kaufman-becomes-the-season-6-winner-on-nbc-s-the-voice-as-a-member-of-usher-s-team.md)

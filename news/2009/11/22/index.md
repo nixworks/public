@@ -25,7 +25,7 @@ _Context: 2009 Azerbaijan-Armenia negotiations in Munich, Armenia, Azerbaijan, A
 
 ##### Iran
 ### [ Former Iranian Vice President Mohammad-Ali Abtahi who was sentenced to six years imprisonment in connection with the June election protests is released on bail. ](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.md)
-_Context: First Vice President, Iran, Mohammad-Ali Abtahi, protests against the regime_
+_Context: Iran, Mohammad-Ali Abtahi, Vice President of Iran, protests against the regime_
 
 ##### Jeong Nam-gyu
 ### [ Jeong Nam-gyu, one of South Korea's most prolific serial killers, commits suicide in his cell on death row. ](/news/2009/11/22/jeong-nam-gyu-one-of-south-korea-s-most-prolific-serial-killers-commits-suicide-in-his-cell-on-death-row.md)

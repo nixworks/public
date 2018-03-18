@@ -25,7 +25,7 @@ _Context: Congo Free State, Democratic Republic of Congo, King Lopold of the Bel
 
 ##### Alberto Gonzales
 ### [ United States: Alberto Gonzales becomes the first Hispanic U.S. Attorney General, confirmed by a 60-36 Senate vote split across party lines. ](/news/2005/02/4/united-states-alberto-gonzales-becomes-the-first-hispanic-u-s-attorney-general-confirmed-by-a-60-36-senate-vote-split-across-party-lines.md)
-_Context: Alberto Gonzales, Hispanic, United States Attorney General, United States Senate_
+_Context: Alberto Gonzales, Hispanic, U.S. Attorney General, United States Senate_
 
 ##### Arecibo radio telescope
 ### [ New observations from the Arecibo radio telescope confirm that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005), once briefly considered an impact risk, will pass Earth on April 13 2029 at a distance of 36,350 km (22,600 mi) and will reach magnitude 3.3, easily visible to the naked eye from Europe, Africa and western Asia. ](/news/2005/02/4/new-observations-from-the-arecibo-radio-telescope-confirm-that-asteroid-2004-mn-4-later-named-99942-apophis-in-july-2005-once-briefly-co.md)

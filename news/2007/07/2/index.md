@@ -33,7 +33,7 @@ _Context: Hezbollah, Iran, Iraq, Shia, United States_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush holds talks with the President of Russia Vladimir Putin in Kennebunkport, Maine discussing missile defense and Iran. ](/news/2007/07/2/u-s-president-george-w-bush-holds-talks-with-the-president-of-russia-vladimir-putin-in-kennebunkport-maine-discussing-missile-defense-an.md)
-_Context: George W. Bush, Iran, Kennebunkport, Maine, President, U.S. President, Vladimir Putin, missile defense_
+_Context: George W. Bush, Iran, Kennebunkport, Maine, President of Russia, U.S. President, Vladimir Putin, missile defense_
 
 ##### Wesfarmers
 ### [ Wesfarmers buys Coles Group for $A22 billion in Australia's biggest corporate deal. ](/news/2007/07/2/wesfarmers-buys-coles-group-for-a22-billion-in-australia-s-biggest-corporate-deal.md)

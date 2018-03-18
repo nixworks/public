@@ -13,7 +13,7 @@ _Context: Beebe, Arkansas, United States, red-winged blackbird_
 
 ##### Republican
 ### [Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. ](/news/2011/01/3/republican-u-s-representative-darrell-issa-calls-for-attorney-general-eric-holder-to-resign-over-lack-of-progress-in-prosecuting-julian-ass.md)
-_Context: Darrell Issa, Eric Holder, Julian Assange, Republican, United States Attorney General, United States House of Representatives, Wikileaks, congressional inquiry_
+_Context: Darrell Issa, Eric Holder, Julian Assange, Republican, U.S. Attorney General, United States House of Representatives, Wikileaks, congressional inquiry_
 
 ##### United States
 ### [A study reports that 61% of Americans believe the best way to solve the budget deficit is to raise taxes for the wealthiest, in contrast to a plan by Republicans to permanently extend Bush-era tax cuts for the wealthiest Americans](/news/2011/01/3/a-study-reports-that-61-of-americans-believe-the-best-way-to-solve-the-budget-deficit-is-to-raise-taxes-for-the-wealthiest-in-contrast-to.md)
@@ -23,9 +23,9 @@ Most Americans think the United States should raise taxes for the rich to balanc
 ### [The second-largest party in Pakistan's coalition, Muttahida Qaumi Movement, quits the government leaving it with a minority in parliament. ](/news/2011/01/3/the-second-largest-party-in-pakistan-s-coalition-muttahida-qaumi-movement-quits-the-government-leaving-it-with-a-minority-in-parliament.md)
 _Context: Muttahida Qaumi Movement, Pakistan_
 
-##### Iran's conservative judiciary
+##### Judicial system of Iran
 ### [An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. ](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-mohammadi-ashtiani-could-be-spared-execution-by-stoning-for-murder-manslaughter-and-adulte.md)
-_Context: Capital punishment in Iran, Iran's conservative judiciary, Sakineh Mohammadi Ashtiani, adultery, manslaughter by gross negligence, murder_
+_Context: Capital punishment in Iran, Judicial system of Iran, Sakineh Mohammadi Ashtiani, adultery, manslaughter by gross negligence, murder_
 
 ##### 250,000 documents
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)

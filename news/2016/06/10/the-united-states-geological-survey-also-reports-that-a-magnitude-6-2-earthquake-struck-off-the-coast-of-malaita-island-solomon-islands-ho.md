@@ -16,7 +16,7 @@ A shallow magnitude 6.2 earthquake has struck in Solomon Islands.
 
 ### Changes:
 
-1. [The United States Geological Survey (USGS) reports a magnitude 5.1 earthquake strikes near Borrego Springs, Southern California. The Los Angeles County Fire Department and Riverside County Sheriff's Department say they have received no reports of serious damage. ](/news/2016/06/10/the-united-states-geological-survey-usgs-reports-a-magnitude-5-1-earthquake-strikes-near-borrego-springs-southern-california-the-los-ang.md) _2018-03-16 03:57:20 (First version)_
+1. [The United States Geological Survey (USGS) reports a magnitude 5.1 earthquake strikes near Borrego Springs, Southern California. The Los Angeles County Fire Department and Riverside County Sheriff's Department say they have received no reports of serious damage. ](/news/2016/06/10/the-united-states-geological-survey-usgs-reports-a-magnitude-5-1-earthquake-strikes-near-borrego-springs-southern-california-the-los-ang.md) _2018-03-17 03:58:27 (First version)_
 1. [The United States Geological Survey also reports that a magnitude 6.2 earthquake struck off the coast of Malaita island, Solomon Islands. However, no tsunami warning has been issued. ](/news/2016/06/10/the-united-states-geological-survey-also-reports-that-a-magnitude-6-2-earthquake-struck-off-the-coast-of-malaita-island-solomon-islands-ho.md) _(Current version)_
 
 ### Related:

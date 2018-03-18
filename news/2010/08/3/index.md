@@ -85,7 +85,7 @@ _Context: European Union, German, President of Zimbabwe, Robert Mugabe, United S
 
 ##### President
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
-_Context: Asif Ali Zardari, David Cameron, United Kingdom, president_
+_Context: Asif Ali Zardari, British, David Cameron, president_
 
 ##### Pacific Islands Forum Leaders Summit
 ### [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md)

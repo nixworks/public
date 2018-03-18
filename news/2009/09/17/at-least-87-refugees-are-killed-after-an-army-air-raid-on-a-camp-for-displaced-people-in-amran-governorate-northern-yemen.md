@@ -19,7 +19,7 @@ Formats: [HTML](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-a
 
 ### Changes:
 
-1. [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md) _2018-03-16 03:31:31 (First version)_
+1. [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md) _2018-03-17 03:31:53 (First version)_
 1. [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md) _(Current version)_
 
 ### Related:

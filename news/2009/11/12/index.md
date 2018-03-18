@@ -33,7 +33,7 @@ _Context: Sarath Fonseka, Sri Lanka, armed forces_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev calls for an overhaul of the Russian economy and democratic modernisation in an annual state of nation address. ](/news/2009/11/12/russian-president-dmitry-medvedev-calls-for-an-overhaul-of-the-russian-economy-and-democratic-modernisation-in-an-annual-state-of-nation-ad.md)
-_Context: Dmitry Medvedev, President, Russia, Russian economy_
+_Context: Dmitry Medvedev, President of Russia, Russia, Russian economy_
 
 ##### Glasgow North East by-election
 ### [ In the Glasgow North East by-election, voters pick Labour candidate Willie Bain as the replacement for former Speaker of the British House of Commons Michael Martin. ](/news/2009/11/12/in-the-glasgow-north-east-by-election-voters-pick-labour-candidate-willie-bain-as-the-replacement-for-former-speaker-of-the-british-house.md)

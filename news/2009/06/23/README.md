@@ -9,7 +9,7 @@ The Antigua and Barbuda government has dismissed its chief financial regulator, 
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev meets Egyptian President Hosni Mubarak in Cairo at the start of a four-day trip to Africa. ](/news/2009/06/23/russian-president-dmitry-medvedev-meets-egyptian-president-hosni-mubarak-in-cairo-at-the-start-of-a-four-day-trip-to-africa.md)
-_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Hosni Mubarak, President, President, Russia_
+_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Hosni Mubarak, President, President of Russia, Russia_
 
 ##### New York State
 ### [ In the New York State legislative deadlock, Senate Democrats lock themselves into the Senate chamber due to a refusal to accept Pedro Espada as Senate President. ](/news/2009/06/23/in-the-new-york-state-legislative-deadlock-senate-democrats-lock-themselves-into-the-senate-chamber-due-to-a-refusal-to-accept-pedro-espad.md)
@@ -35,9 +35,9 @@ _Context: France, French National Assembly, burqa_
 ### [ Boeing delays the first test flight of its lightweight jet, the 787, because of stress found where the wings attach to the sides of the plane. ](/news/2009/06/23/boeing-delays-the-first-test-flight-of-its-lightweight-jet-the-787-because-of-stress-found-where-the-wings-attach-to-the-sides-of-the-pla.md)
 Additional stress was found where the wings attach to the sides of the plane, but executives said that minor modifications would fix the problem.
 
-##### United Kingdom
+##### British
 ### [ United Kingdom Commons speaker John Bercow breaks with tradition by abandoning the traditional court dress worn by his predecessor Michael Martin. ](/news/2009/06/23/united-kingdom-commons-speaker-john-bercow-breaks-with-tradition-by-abandoning-the-traditional-court-dress-worn-by-his-predecessor-michael.md)
-_Context: British House of Commons, John Bercow, Michael Martin, United Kingdom_
+_Context: British, British House of Commons, John Bercow, Michael Martin_
 
 ## [Previous Day...](/news/2009/06/22/index.md)
 

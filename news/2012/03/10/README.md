@@ -13,7 +13,7 @@ _Context: Lima, Peru, cyclist_
 
 ##### Rally
 ### [New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. ](/news/2012/03/10/new-protests-erupt-in-russia-after-last-week-s-election-of-vladimir-putin-as-president-for-a-third-term.md)
-_Context: President, Vladimir Putin, last week's election, rally_
+_Context: President of Russia, Vladimir Putin, last week's election, rally_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md)

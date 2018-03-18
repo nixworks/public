@@ -11,7 +11,7 @@ _Context: North America, Northern Lights, coronal mass ejection_
 ### [Ghulam Nabi Azad, India's Minister of Health and Family Welfare, reports that the country has almost entirely eradicated polio through a vaccination program which immunises over 170 million children every year. No new polio cases have been reported in India for over nine months. ](/news/2011/10/24/ghulam-nabi-azad-india-s-minister-of-health-and-family-welfare-reports-that-the-country-has-almost-entirely-eradicated-polio-through-a-vac.md)
 India has &quot;never been closer&quot; to wiping out polio, Health Minister Ghulam Nabi Azad declares as he marks World Polio Day.
 
-##### United Kingdom
+##### British
 ### [The British House of Commons votes to reject a proposed referendum on Britain's membership of the European Union, with 483 MPs voting against the proposal and 111 voting in favour. Among those who supported the proposal were 81 Conservative Party members, who rebelled against the anti-referendum stance of Prime Minister David Cameron, the leader of the Conservative Party. ](/news/2011/10/24/the-british-house-of-commons-votes-to-reject-a-proposed-referendum-on-britain-s-membership-of-the-european-union-with-483-mps-voting-agains.md)
 The prime minister comfortably defeats an attempt to bring about a referendum on Europe, despite a sizeable rebellion by Conservative MPs.
 
@@ -19,7 +19,7 @@ The prime minister comfortably defeats an attempt to bring about a referendum on
 ### [Following Tunisia's first election since the ousting of President Zine El Abidine Ben Ali in January, the moderate Islamist Renaissance Party declares victory, with their centre-left rivals, the Progressive Democratic Party, conceding defeat. The official results of the election are due to be released next week. ](/news/2011/10/24/following-tunisia-s-first-election-since-the-ousting-of-president-zine-el-abidine-ben-ali-in-january-the-moderate-islamist-renaissance-part.md)
 _Context: Islamist, Jasmine Revolution of 2011, Progressive Democratic Party, Renaissance Party, Tunisian Constituent Assembly, Zine El Abidine Ben Ali_
 
-##### United Kingdom
+##### British
 ### [Torrential rain causes flooding in parts of the United Kingdom, with Cornwall, West Devon, Pembrokeshire and Northern Ireland most affected. ](/news/2011/10/24/torrential-rain-causes-flooding-in-parts-of-the-united-kingdom-with-cornwall-west-devon-pembrokeshire-and-northern-ireland-most-affected.md)
 Parts of south-west England, Northern Ireland and Wales begin to clear up after flooding on Monday, while north-east Scotland is warned to prepare for heavy rain.
 

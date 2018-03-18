@@ -37,7 +37,7 @@ _Context: Ukraine_
 
 ##### World Chess Champion
 ### [ Former World Chess Champion Garry Kasparov is selected Presidential Candidate for Other Russia in the 2008 presidentials. ](/news/2007/09/30/former-world-chess-champion-garry-kasparov-is-selected-presidential-candidate-for-other-russia-in-the-2008-presidentials.md)
-_Context: Garry Kasparov, President, The Other Russia, World Chess Champion, go to the polls_
+_Context: Garry Kasparov, President of Russia, The Other Russia, World Chess Champion, go to the polls_
 
 ##### Sonthi Boonyaratglin
 ### [ General Sonthi Boonyaratglin, who helped depose Prime Minister Thaksin Shinawatra in the 2006 Thai coup d'etat, resigned as head of the Council for National Security. ](/news/2007/09/30/general-sonthi-boonyaratglin-who-helped-depose-prime-minister-thaksin-shinawatra-in-the-2006-thai-coup-d-a-c-tat-resigned-as-head-of-the-co.md)

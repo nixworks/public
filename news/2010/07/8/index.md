@@ -23,7 +23,7 @@ One of the largest ever finds of Roman coins in Britain has been made by a man u
 ### [Scientists discover antibodies that may eventually lead to the development of a vaccine against AIDS. ](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.md)
 Researchers have discovered antibodies that can protect against a wide range of AIDS viruses and said they may be able to use them to design a vaccine against the fatal and incurable virus.
 
-##### United Kingdom
+##### British
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.
 

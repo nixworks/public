@@ -27,7 +27,7 @@ _Context: Carl Lewis, Democrat, New Jersey State Senate, United States court, pr
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
 _Context: Barack Obama, Ground Zero, New York City, September 11 attacks, U.S. President, death of Osama bin Laden_
 
-##### United Kingdom
+##### British
 ### [Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for-the-house-of-commo.md)
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
@@ -59,7 +59,7 @@ _Context: Egypt, Habib al-Adli_
 ### [During a visit to the United Kingdom, Israeli Prime Minister Binyamin Netanyahu says that Iranian Supreme leader Ayatollah Khamenei is the biggest threat to world peace now that Osama bin Laden has been killed. ](/news/2011/05/5/during-a-visit-to-the-united-kingdom-israeli-prime-minister-binyamin-netanyahu-says-that-iranian-supreme-leader-ayatollah-khamenei-is-the-b.md)
 _Context: Ayatollah Khamenei, Binyamin Netanyahu, Osama bin Laden, Prime Minister, Supreme Leader, father's killing_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom expels two more Libyan diplomats, a week after expelling the ambassador, in order to increase diplomatic pressure on the regime of Muammar Gaddafi. ](/news/2011/05/5/the-united-kingdom-expels-two-more-libyan-diplomats-a-week-after-expelling-the-ambassador-in-order-to-increase-diplomatic-pressure-on-the.md)
 Foreign Secretary William Hague ordered the expulsion of two more Libyan diplomats from the UK today in a attempt to ratchet up the pressure on the Gaddafi regime.
 

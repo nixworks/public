@@ -25,7 +25,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 
 ##### European Union
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: Dutch, European Parliament, European Union, United Kingdom, election_
+_Context: British, Dutch, European Parliament, European Union, election_
 
 ##### U.S. President
 ### [ The President of the United States, Barack Obama, addresses the Muslim world in Cairo, Egypt. ](/news/2009/06/4/the-president-of-the-united-states-barack-obama-addresses-the-muslim-world-in-cairo-egypt.md)

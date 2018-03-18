@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/4/a-lone-gunman-shoots-and-kills-a-british-tourist
 
 ### [2006-09-4](/news/2006/09/4/index.md)
 
-##### United Kingdom
+##### British
 #  A lone gunman shoots and kills a British tourist and wounds six others in Amman, Jordan. The gunman is arrested, and police are investigating if the gunman belongs to any groups. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

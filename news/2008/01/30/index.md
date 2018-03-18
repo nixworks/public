@@ -29,7 +29,7 @@ In lowering its benchmark rate by a half-point to 3 percent, the Fed said that i
 
 ##### Russia
 ### [ Russian Finance Minister Alexei Kudrin and state electricity chief Anatoly Chubais call for a less hawkish foreign policy. Analysts claim the two are close to the likely next President of Russia Dmitry Medvedev. ](/news/2008/01/30/russian-finance-minister-alexei-kudrin-and-state-electricity-chief-anatoly-chubais-call-for-a-less-hawkish-foreign-policy-analysts-claim-t.md)
-_Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, President, Russia_
+_Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, President of Russia, Russia_
 
 ##### United States District Court
 ### [ United States District Court judge Stanwood Duval dismisses a class action suit against the U.S. Army Corps of Engineers over flooding from a levee breach in New Orleans, Louisiana after Hurricane Katrina. ](/news/2008/01/30/united-states-district-court-judge-stanwood-duval-dismisses-a-class-action-suit-against-the-u-s-army-corps-of-engineers-over-flooding-from.md)

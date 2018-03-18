@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/6/voters-in-the-united-kingdom-head-to-the-polls-t
 
 ### [2010-05-6](/news/2010/05/6/index.md)
 
-##### United Kingdom
+##### British
 # Voters in the United Kingdom head to the polls to elect Members of Parliament. 
 
 
@@ -26,8 +26,8 @@ Formats: [HTML](/news/2010/05/6/voters-in-the-united-kingdom-head-to-the-polls-t
 
 ### Related:
 
-1. [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md) _Context: 2010 general election, United Kingdom_
-2. [The leaders of the United Kingdom's three main political parties take part in the first of three televised debates ahead of the 2010 General Election. ](/news/2010/04/15/the-leaders-of-the-united-kingdom-s-three-main-political-parties-take-part-in-the-first-of-three-televised-debates-ahead-of-the-2010-general.md) _Context: 2010 general election, United Kingdom_
-3. [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md) _Context: 2010 general election, United Kingdom_
-4. [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md) _Context: 2010 general election, United Kingdom_
-5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: United Kingdom_
+1. [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md) _Context: 2010 general election, British_
+2. [The leaders of the United Kingdom's three main political parties take part in the first of three televised debates ahead of the 2010 General Election. ](/news/2010/04/15/the-leaders-of-the-united-kingdom-s-three-main-political-parties-take-part-in-the-first-of-three-televised-debates-ahead-of-the-2010-general.md) _Context: 2010 general election, British_
+3. [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md) _Context: 2010 general election, British_
+4. [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md) _Context: 2010 general election, British_
+5. [British music journalism magazine "New Musical Express" (NME) issues its final print edition after 66 years, becoming a purely digital medium. ](/news/2018/03/9/british-music-journalism-magazine-new-musical-express-nme-issues-its-final-print-edition-after-66-years-becoming-a-purely-digital-mediu.md) _Context: British_

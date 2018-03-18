@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/7/index.html)  [JSON](2008/05/7/index.json)  [XML](2008/
 
 ##### Dmitry Medvedev
 ### [ Dmitry Medvedev assumes the role of the President of Russia. ](/news/2008/05/7/dmitry-medvedev-assumes-the-role-of-the-president-of-russia.md)
-_Context: Dmitry Medvedev, President_
+_Context: Dmitry Medvedev, President of Russia_
 
 ##### Brian Cowen
 ### [ Brian Cowen, TD is elected as Irish Taoiseach by 88 votes to 76. ](/news/2008/05/7/brian-cowen-td-is-elected-as-irish-taoiseach-by-88-votes-to-76.md)

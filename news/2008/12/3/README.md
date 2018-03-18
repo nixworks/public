@@ -13,7 +13,7 @@ _Context: 2008 cholera outbreak, Zimbabwe, police_
 
 ##### Speaker
 ### [ Speaker of the House of Commons of the United Kingdom Michael Martin accuses Scotland Yard of not having a search warrant before its officers entered Member of Parliament Damian Green's Commons office and failing to inform Serjeant-at-Arms Jill Pay that she was entitled to request one. ](/news/2008/12/3/speaker-of-the-house-of-commons-of-the-united-kingdom-michael-martin-accuses-scotland-yard-of-not-having-a-search-warrant-before-its-office.md)
-_Context: Damian Green, MP, Michael Martin, Parliament, Scotland Yard, Serjeant-at-Arms, Speaker, United Kingdom, the House of Commons, warrant_
+_Context: British, Damian Green, MP, Michael Martin, Parliament, Scotland Yard, Serjeant-at-Arms, Speaker, the House of Commons, warrant_
 
 ## [Previous Day...](/news/2008/12/2/index.md)
 

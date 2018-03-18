@@ -29,7 +29,7 @@ _Context: Edmund Daukoru, Financial Times, Nigeria, Organization of Petroleum Ex
 
 ##### European Central Bank
 ### [ The European Central Bank raises its interest rate from 3% to 3.25% representing the fifth rise in eleven months. The Bank of England decides to leave interest rates in the United Kingdom unchanged. ](/news/2006/10/5/the-european-central-bank-raises-its-interest-rate-from-3-to-3-25-representing-the-fifth-rise-in-eleven-months-the-bank-of-england-decid.md)
-_Context: Bank of England, European Central Bank, United Kingdom, interest rate_
+_Context: Bank of England, British, European Central Bank, interest rate_
 
 ##### Abu Ayyub al-Masri
 ### [ Reports indicate that Abu Ayyub al-Masri, also known as Abu Hamza al-Muhajir, the leader of Al-Qaeda in Iraq who succeeded Abu Musab al-Zarqawi after his death, may have been killed in Haditha. A body initially tentatively identified as his is undergoing DNA analysis but most government sources are skeptical. ](/news/2006/10/5/reports-indicate-that-abu-ayyub-al-masri-also-known-as-abu-hamza-al-muhajir-the-leader-of-al-qaeda-in-iraq-who-succeeded-abu-musab-al-zar.md)

@@ -43,7 +43,7 @@ A treaty between South Korea and Japan will encourage the sharing of military da
 ### [The Metropolitan Police Service's extradition unit delivers a notice to WikiLeaks editor-in-chief Julian Assange at Ecuador's London embassy. ](/news/2012/06/28/the-metropolitan-police-service-s-extradition-unit-delivers-a-notice-to-wikileaks-editor-in-chief-julian-assange-at-ecuador-s-london-embassy.md)
 Wikileaks founder Julian Assange has been served with an extradition notice by the Metropolitan Police
 
-##### First Vice President
+##### Vice President of Iran
 ### [Vice President of Iran Mohammad-Reza Rahimi delivers an anti-Semitic speech at a United Nations conference on the illegal drug trade saying that a central Jewish text, the Talmud, was responsible for the spread of illegal drugs around the world; his speech draws condemnation from U.N. and the European Union diplomats. ](/news/2012/06/28/vice-president-of-iran-mohammad-reza-rahimi-delivers-an-anti-semitic-speech-at-a-united-nations-conference-on-the-illegal-drug-trade-saying.md)
 EU foreign policy chief also slams Iranian VP for blaming world drug problems on Jews during UN conference
 

@@ -11,9 +11,9 @@ _Context: Egyptian Revolution of 2011, Hosni Mubarak, National Democratic Party_
 ### [Six people are injured in a knife attack at a Chinese train station in Guangzhou. ](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.md)
 At least six people are injured in a knife attack at a station in Guangzhou, Chinese officials say, in the third such attack on a transport hub in three months.
 
-##### President
+##### President of Russia
 ### [Russian President Vladimir Putin signs into law a bill that bans profanity at arts, cultural and entertainment events. ](/news/2014/05/6/russian-president-vladimir-putin-signs-into-law-a-bill-that-bans-profanity-at-arts-cultural-and-entertainment-events.md)
-_Context: President, Vladimir Putin_
+_Context: President of Russia, Vladimir Putin_
 
 ##### Boko Haram
 ### [Eight additional Nigerian girls are abducted by suspected Boko Haram militants following the Chibok kidnappings. ](/news/2014/05/6/eight-additional-nigerian-girls-are-abducted-by-suspected-boko-haram-militants-following-the-chibok-kidnappings.md)

@@ -15,9 +15,9 @@ _Context: Iraq, Irish radio, Live 95FM, Marine, Shannon Airport, depleted uraniu
 ### [ Coretta Scott King, widow of assassinated civil rights leader Martin Luther King, Jr, dies at age 78. ](/news/2006/01/31/coretta-scott-king-widow-of-assassinated-civil-rights-leader-martin-luther-king-jr-dies-at-age-78.md)
 Coretta Scott King, who turned a life shattered by her husband&#8217;s assassination into one devoted to enshrining his legacy of human rights and equality, has died. She was 78.
 
-##### President
+##### President of Russia
 ### [ Russian President Vladimir Putin has voiced renewed opposition to the U.S. decision to abandon the 30-year-old Anti-Ballistic Missile Treaty in favour of missile defence saying it would damage world security. He also claimed that Russia has developed a new category of hypersonic intercontinental missile which can zig-zag in flight and is immune to any missile defense system. ](/news/2006/01/31/russian-president-vladimir-putin-has-voiced-renewed-opposition-to-the-u-s-decision-to-abandon-the-30-year-old-anti-ballistic-missile-treat.md)
-_Context: Anti-Ballistic Missile Treaty, President, Vladimir Putin, hypersonic, missile defence_
+_Context: Anti-Ballistic Missile Treaty, President of Russia, Vladimir Putin, hypersonic, missile defence_
 
 ##### 
 ### [ In the United States, a female ex-postal worker opens fire in a mail-processing plant, killing six people and critically wounding another before committing suicide in what's believed to be the deadliest workplace shooting ever carried out by a woman in U.S. history. ](/news/2006/01/31/in-the-united-states-a-female-ex-postal-worker-opens-fire-in-a-mail-processing-plant-killing-six-people-and-critically-wounding-another-b.md)

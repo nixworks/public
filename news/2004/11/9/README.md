@@ -37,7 +37,7 @@ _Context: Fallujah, Iraq, Iyad Allawi, Prime Minister, hostage_
 
 ##### White House Counsel
 ### [ White House Counsel Alberto R. Gonzales has been announced by President George W. Bush as his nominee for United States Attorney General, succeeding John Ashcroft. ](/news/2004/11/9/white-house-counsel-alberto-r-gonzales-has-been-announced-by-president-george-w-bush-as-his-nominee-for-united-states-attorney-general-s.md)
-_Context: Alberto R. Gonzales, George W. Bush, John Ashcroft, United States Attorney General, White House Counsel_
+_Context: Alberto R. Gonzales, George W. Bush, John Ashcroft, U.S. Attorney General, White House Counsel_
 
 ##### Darfur conflict
 ### [ Darfur conflict: Sudanese Police beat people and tear gas women and children at a refugee camp ](/news/2004/11/9/darfur-conflict-sudanese-police-beat-people-and-tear-gas-women-and-children-at-a-refugee-camp.md)

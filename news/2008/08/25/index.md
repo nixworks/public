@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/25/index.html)  [JSON](2008/08/25/index.json)  [XML](200
 
 ##### Federation Council
 ### [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md)
-_Context:  Georgian, Abkhazia, Federal Assembly, Federation Council, President, Russia, South Ossetia_
+_Context:  Georgian, Abkhazia, Federal Assembly, Federation Council, President of Russia, Russia, South Ossetia_
 
 ##### Lovemore Moyo
 ### [ Lovemore Moyo is elected Speaker of the House of Assembly of Zimbabwe. He is the first opposition speaker since the country's independence in 1980. ](/news/2008/08/25/lovemore-moyo-is-elected-speaker-of-the-house-of-assembly-of-zimbabwe-he-is-the-first-opposition-speaker-since-the-country-s-independence.md)

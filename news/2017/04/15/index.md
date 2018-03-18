@@ -13,7 +13,7 @@ _Context: Alaska, Australia, Bill Walker, F-35, Indonesia, Japan, Mike Pence, So
 
 ##### Re-elected
 ### [Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies-as-registration-closes-the-final-li.md)
-_Context: Eshaq Jahangiri, First Vice President, Mayor of Tehran, Mohammad-Bagher Ghalibaf, Tehran, re-elected_
+_Context: Eshaq Jahangiri, Mayor of Tehran, Mohammad-Bagher Ghalibaf, Tehran, Vice President of Iran, re-elected_
 
 ##### Legal affairs of Donald Trump
 ### [U.S. President Donald Trump's lawyers tell a federal court, in a case alleging negligence and incitement to riot during a 2016 campaign rally in Louisville, Kentucky, that he is "immune from suit because he is President of the United States." A lawyer for the plaintiffs responds that, in "Clinton v. Jones", the Supreme Court found the president could be sued for events that occurred before he took office. ](/news/2017/04/15/u-s-president-donald-trump-s-lawyers-tell-a-federal-court-in-a-case-alleging-negligence-and-incitement-to-riot-during-a-2016-campaign-rall.md)

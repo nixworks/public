@@ -11,7 +11,7 @@ _Context: Afghan presidential election, 2014, Afghanistan, Taliban_
 ### [Alexander Stubb is elected new leader of the National Coalition Party and thus the new prime minister of Finland, the first Swedish-speaking Finn to hold the post since 1959. ](/news/2014/06/14/alexander-stubb-is-elected-new-leader-of-the-national-coalition-party-and-thus-the-new-prime-minister-of-finland-the-first-swedish-speaking.md)
 _Context: 1959, Alexander Stubb, National Coalition Party, Swedish-speaking Finn, prime minister of Finland_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom celebrates the Queen's Official Birthday with the Trooping of the Colour and the Birthday Honours. ](/news/2014/06/14/the-united-kingdom-celebrates-the-queen-s-official-birthday-with-the-trooping-of-the-colour-and-the-birthday-honours.md)
 More than 1,000 soldiers have paraded in front of the Queen as she celebrated her official birthday at the annual Trooping the Colour ceremony.
 

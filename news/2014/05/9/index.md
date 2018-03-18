@@ -15,9 +15,9 @@ _Context: Pakistan, Shaheed Benazir Abad District_
 ### [South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-from-north-korea.md)
 _Context: North Korea, South Korea, South Korean Defense Minister_
 
-##### President
+##### President of Russia
 ### [Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/russian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-victory-day-celebrations.md)
-_Context: Annexation of Crimea by the Russian Federation, Crimea, President, Sevastopol, Victory Day, Vladimir Putin_
+_Context: Annexation of Crimea by the Russian Federation, Crimea, President of Russia, Sevastopol, Victory Day, Vladimir Putin_
 
 ##### Bloomberg
 ### [Bloomberg reports that Rupert Murdoch plans to unite various European pay TV entities into a single $14 billion entity. ](/news/2014/05/9/bloomberg-reports-that-rupert-murdoch-plans-to-unite-various-european-pay-tv-entities-into-a-single-14-billion-entity.md)

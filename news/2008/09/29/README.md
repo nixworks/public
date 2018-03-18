@@ -23,9 +23,9 @@ A car bomb exploded near a military bus carrying troops going to work in norther
 ### [ The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md)
 _Context: U.S. House of Representatives, United States, proposed bailout of the U.S. financial system_
 
-##### United States Attorney General
+##### U.S. Attorney General
 ### [ United States Attorney General Michael Mukasey announces the appointment of a special prosecutor to investigate the firings of nine U.S. attorneys in 2006. ](/news/2008/09/29/united-states-attorney-general-michael-mukasey-announces-the-appointment-of-a-special-prosecutor-to-investigate-the-firings-of-nine-u-s-at.md)
-_Context: Michael Mukasey, United States Attorney General, chief federal prosecutors, firings, special prosecutor_
+_Context: Michael Mukasey, U.S. Attorney General, chief federal prosecutors, firings, special prosecutor_
 
 ##### Three bombs
 ### [ Three bombs go off in western India, killing 8 people and injuring 30. ](/news/2008/09/29/three-bombs-go-off-in-western-india-killing-8-people-and-injuring-30.md)

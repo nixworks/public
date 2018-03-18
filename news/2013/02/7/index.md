@@ -11,9 +11,9 @@ _Context: Ariane 5, Azerbaijan, Azerspace-1, French Guiana, launch rocket, satel
 ### [Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. ](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.md)
 _Context: Canadian Senator, Conservative Party's, Patrick Brazeau, caucus_
 
-##### United Kingdom
+##### British
 ### [UK Secretary of State for Education Michael Gove confirms that plans to replace the General Certificate of Secondary Education with a new English Baccalaureate qualification have been abandoned. ](/news/2013/02/7/uk-secretary-of-state-for-education-michael-gove-confirms-that-plans-to-replace-the-general-certificate-of-secondary-education-with-a-new-en.md)
-_Context: English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education, United Kingdom_
+_Context: British, English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education_
 
 ##### Tunisia
 ### [A major crisis deepens in Tunisia after the murder of Chokri Belaid. The leading party Ennahda states that it will not accept a new government, even if suggested by its leading member, Prime Minister Hamadi Jebali. In today's clashes at least one person died. ](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.md)

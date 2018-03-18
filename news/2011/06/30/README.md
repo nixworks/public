@@ -23,7 +23,7 @@ _Context: 2009 legislative elections, Indonesian National Police, forgery_
 ### [2011 Spanish protests: Riot police in full gear surround scores of "indignados" protesting against austerity, political corruption and rising unemployment and evict them from their six-week encampment in Barcelona's Plaza de Catalunya. ](/news/2011/06/30/2011-spanish-protests-riot-police-in-full-gear-surround-scores-of-indignados-protesting-against-austerity-political-corruption-and-risin.md)
 _Context: 2011 Spanish protests, Barcelona, Plaza de Catalunya_
 
-##### United Kingdom
+##### British
 ### [Hundreds of thousands of people go on strike across the United Kingdom in relation to worsening pension conditions being discussed by the government and opposition, while MPs from both the government and opposition condemn them for going on strike. ](/news/2011/06/30/hundreds-of-thousands-of-people-go-on-strike-across-the-united-kingdom-in-relation-to-worsening-pension-conditions-being-discussed-by-the-go.md)
 Schools, courts and jobcentres are among the services affected across the UK as public sector workers strike against proposed pension changes.
 
@@ -99,7 +99,7 @@ Imported fenugreek seedsfrom Egypt may be the source of highly toxic E. coli out
 ### [According to a study by a team of epidemiologists and physicians, evidence "strongly suggests" that United Nations peacekeepers brought a cholera strain to Haiti that has killed thousands of people. ](/news/2011/06/30/according-to-a-study-by-a-team-of-epidemiologists-and-physicians-evidence-strongly-suggests-that-united-nations-peacekeepers-brought-a-ch.md)
 _Context: Haiti that has killed thousands of people, United Nations, cholera_
 
-##### United Kingdom
+##### British
 ### [In the United Kingdom, the cheque guarantee card scheme &ndash; which ensures some cheques are honoured even if the account holder does not have sufficient funds in their account &ndash; is being withdrawn today after operating for over 40 years. ](/news/2011/06/30/in-the-united-kingdom-the-cheque-guarantee-card-scheme-ndash-which-ensures-some-cheques-are-honoured-even-if-the-account-holder-does-not.md)
 The final operating day of cheque guarantee cards - which ensure some cheques are honoured - is on Thursday.
 

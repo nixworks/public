@@ -11,9 +11,9 @@ _Context: England, National Assembly for Wales, Scotland, winning the most seats
 ### [ The Ulster Volunteer Force, a loyalist paramilitary group in Northern Ireland, renounces the use of force. ](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.md)
 There has been a broad welcome for the announcement by the loyalist paramilitary organisation, the UVF, that it is renouncing violence.
 
-##### United Kingdom
+##### British
 ### [ The United Kingdom's Ministry of Defence announces plans to release their UFO files to the public, seven weeks after France's space agency CNES opened its UFO files to the public. ](/news/2007/05/3/the-united-kingdom-s-ministry-of-defence-announces-plans-to-release-their-ufo-files-to-the-public-seven-weeks-after-france-s-space-agency.md)
-_Context: CNES, France, Ministry of Defence, UFO files, United Kingdom_
+_Context: British, CNES, France, Ministry of Defence, UFO files_
 
 ##### 2008
 ### [ United States presidential election, 2008: Republican presidential candidates debate at the Ronald Reagan Presidential Library in Simi Valley, California. ](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.md)

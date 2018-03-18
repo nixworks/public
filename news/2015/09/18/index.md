@@ -35,7 +35,7 @@ _Context: Japanese Prime Minister, Shinzo Abe, government, legislation, military
 ### [United States authorities announce mandatory Ebola screening will end for travelers from Liberia to five U.S. airports, effective September 21, 2015. Screening of travelers from Sierra Leone and Guinea will continue. ](/news/2015/09/18/united-states-authorities-announce-mandatory-ebola-screening-will-end-for-travelers-from-liberia-to-five-u-s-airports-effective-september.md)
 _Context: Ebola, Ebola virus cases in the United States, Ebola virus epidemic in West Africa, Guinea, Liberia, Sierra Leone, United States authorities_
 
-##### United Kingdom
+##### British
 ### [A national alert is issued in the United Kingdom about a strain of gonorrhea that is highly drug resistant after 15 cases are reported in northern England. ](/news/2015/09/18/a-national-alert-is-issued-in-the-united-kingdom-about-a-strain-of-gonorrhea-that-is-highly-drug-resistant-after-15-cases-are-reported-in-no.md)
 A national alert has been issued after an outbreak of highly drug-resistant gonorrhoea in Britain where authorities are extremely worried about its spread.
 

@@ -25,7 +25,7 @@ _Context: Assets Recovery Agency, England, Irish Republican Army, Manchester_
 
 ##### European Court of Human Rights
 ### [ The European Court of Human Rights rules the United Kingdom's ban on voting rights for prisoners is unlawful. ](/news/2005/10/6/the-european-court-of-human-rights-rules-the-united-kingdom-s-ban-on-voting-rights-for-prisoners-is-unlawful.md)
-_Context: European Court of Human Rights, United Kingdom_
+_Context: British, European Court of Human Rights_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: As Iraqi president Jalal Talabani tells UK Prime Minister Tony Blair any troop withdrawal would be a "catastrophe" ](/news/2005/10/6/conflict-in-iraq-as-iraqi-president-jalal-talabani-tells-uk-prime-minister-tony-blair-any-troop-withdrawal-would-be-a-catastrophe.md)

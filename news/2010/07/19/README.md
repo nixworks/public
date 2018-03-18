@@ -95,9 +95,9 @@ Death came at express speed to the sleepy station of Sainthia early Monday when 
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
 _Context: United States_
 
-##### United Kingdom
+##### British
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Gateshead, United Kingdom_
+_Context: British, Gateshead_
 
 ##### Fromelles Military Cemetery
 ### [The Fromelles Military Cemetery is opened in Fromelles in northern France containing the graves of 250 Australian and British soldiers who died in the Battle of Fromelles in World War I and had previously been buried in a mass grave. ](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.md)
