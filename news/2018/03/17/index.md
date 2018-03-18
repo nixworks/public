@@ -5,7 +5,7 @@ Formats: [HTML](2018/03/17/index.html)  [JSON](2018/03/17/index.json)  [XML](201
 
 ##### Batman by-election, 2018
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
-With the South Australian election coming up, will these predictions be correct again?
+State to have new government for the first time in 16 years. Join us as we follow the night’s developments
 
 ##### Vice President of Iran
 ### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's Judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)

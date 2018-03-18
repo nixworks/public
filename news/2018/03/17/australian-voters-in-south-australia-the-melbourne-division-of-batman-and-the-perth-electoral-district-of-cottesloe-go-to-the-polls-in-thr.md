@@ -6,12 +6,15 @@ Formats: [HTML](/news/2018/03/17/australian-voters-in-south-australia-the-melbou
 ##### Batman by-election, 2018
 # Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. 
 
-With the South Australian election coming up, will these predictions be correct again?
+State to have new government for the first time in 16 years. Join us as we follow the night’s developments
 
 
 ### Sources:
 
-1. [Switzer Daily](http://www.switzer.com.au/the-experts/malcolm-mackerras---political-expert/banks-and-reid20180903/)
+1. [SBS News](https://www.sbs.com.au/news/batman-by-election-labor-hails-great-victory-as-libs-bite-back)
+2. [Switzer Daily](http://www.switzer.com.au/the-experts/malcolm-mackerras---political-expert/banks-and-reid20180903/)
+3. [The Guardian](https://www.theguardian.com/australia-news/live/2018/mar/17/south-australian-election-plus-batman-byelection-results-live)
+3. [Cover Image](https://i.guim.co.uk/img/media/6441dc30c387205d323d16a1a19f770fbd333ca4/0_200_5568_3341/master/5568.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMi8xNi9mYWNlYm9va19saXZlLnBuZw&amp;s=ea732ee918a371b6e0c49b605bf04f41)
 
 ### Related:
 
