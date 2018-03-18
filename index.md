@@ -4,8 +4,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
-### [Voters in Russia cast their votes for the President of Russia; opinion polling predicts incumbent Vladimir Putin is highly likely to win a fourth term in office, with over 60% of the popular choice, and no other candidates above 10% ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-opinion-polling-predicts-incumbent-vladimir-putin-is-highly-likely-to-win-a-f.md)
+### [Voters in Russia cast their votes for the President of Russia; opinion polling predicts incumbent Vladimir Putin is highly likely to win a fourth term in office, with over 60% of the popular choice. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-opinion-polling-predicts-incumbent-vladimir-putin-is-highly-likely-to-win-a-f.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin, opinion polling_
+
+##### Manila
+### [Four people are killed in a fire at the Manila Pavilion Hotel in the Philippines; about 20 people are trapped on the fifth floor. ](/news/2018/03/18/four-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines-about-20-people-are-trapped-on-the-fifth-floor.md)
+A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -32,7 +36,7 @@ _Context: Esfandiar Rahim Mashaei, Iran, Judicial system of Iran, Mahmoud Ahmadi
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
 ##### 2018 Philippine Piper PA-23 Apache crash
-### [A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines, crashes upon take off from Plaridel Airport in Bulacan, killing five people onboard and five on the ground. ](/news/2018/03/17/a-piper-pa-23-passenger-aircraft-bound-for-laoag-international-airport-in-ilocos-norte-philippines-crashes-upon-take-off-from-plaridel-air.md)
+### [A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines, crashes upon take off from Plaridel Airport in Bulacan, killing all five people onboard as well as five on the ground. ](/news/2018/03/17/a-piper-pa-23-passenger-aircraft-bound-for-laoag-international-airport-in-ilocos-norte-philippines-crashes-upon-take-off-from-plaridel-air.md)
 Seven people died when a small plane crashed into a house north of the Philippine capital on Saturday, aviation and police officials said.
 
 ---
