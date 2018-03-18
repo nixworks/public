@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-presi
 ### [2018-03-18](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
-# Voters in Russia cast their votes for the President of Russia; opinion polling predicts incumbent Vladimir Putin is highly likely to win a fourth term in office. 
+# Voters in Russia cast their votes for the President of Russia; opinion polling predicts incumbent Vladimir Putin is highly likely to win a fourth term in office, with over 60% of the popular choice, and no other candidates above 10% 
 
 
 
