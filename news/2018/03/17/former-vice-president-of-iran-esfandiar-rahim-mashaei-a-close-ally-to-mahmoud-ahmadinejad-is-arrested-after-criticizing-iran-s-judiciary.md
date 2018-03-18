@@ -6,12 +6,13 @@ Formats: [HTML](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-m
 ##### Judicial system of Iran
 # Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's judiciary. 
 
-
+Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
 
 
 ### Sources:
 
-1. [AP via ''Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2018/03/17/Iran-detains-close-ally-of-former-president-Ahmadi-nejad.html)
+1. [AP via ''Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2018/03/17/Iran-detains-close-ally-of-former-president-Ahmadinejad.html)
+1. [Cover Image](https://vid.alarabiya.net/images/2018/03/17/f6191cbf-dccc-45e4-8c5c-1225ce5290a1/f6191cbf-dccc-45e4-8c5c-1225ce5290a1_16x9_788x442.jpg)
 
 ### Changes:
 

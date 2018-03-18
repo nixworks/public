@@ -17,7 +17,7 @@ Four deaths and six injuries have been linked to crashes where air bags failed t
 
 ##### Judicial system of Iran
 ### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)
-_Context: Esfandiar Rahim Mashaei, Iran, Judicial system of Iran, Mahmoud Ahmadinejad, Vice President of Iran, judiciary_
+Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
 
 ##### Russia-United Kingdom relations
 ### [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, Russia expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-russia-expels-23-british.md)
