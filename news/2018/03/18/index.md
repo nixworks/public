@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/18/index.html)  [JSON](2018/03/18/index.json)  [XML](201
 ### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with over 70% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-over-70-of-the-p.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin_
 
+##### Crime in California
+### [A woman is killed and the suspect, her ex-husband, hospitalized after a murder-suicide attempt at a mall in Thousand Oaks, California. ](/news/2018/03/18/a-woman-is-killed-and-the-suspect-her-ex-husband-hospitalized-after-a-murder-suicide-attempt-at-a-mall-in-thousand-oaks-california.md)
+The Oaks mall in Thousand Oaks was evacuated after the shooting.
+
 ##### 2018 anti-Muslim riots in Sri Lanka
 ### [Sri Lanka ends the state of emergency declared on March 6, 2018. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6-2018.md)
 The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
