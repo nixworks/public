@@ -19,5 +19,9 @@ Police recovered five bodies from the wreckage Saturday and said a sixth person 
 ### [Four people are killed in a fire at the Manila Pavilion Hotel in the Philippines; about 20 people are trapped on the fifth floor. ](/news/2018/03/18/four-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines-about-20-people-are-trapped-on-the-fifth-floor.md)
 A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
 
+##### Turkish military operation in Afrin
+### [The Turkish Army and Free Syrian Army seize the Kurdish stronghold of Afrin from the YPG in northern Syria, raising the Turkish flag above the city centre. A statue of the Kurdish legendary figure, Kaveh the Blacksmith, is bulldozed by Turkish-backed forces. ](/news/2018/03/18/the-turkish-army-and-free-syrian-army-seize-the-kurdish-stronghold-of-afrin-from-the-ypg-in-northern-syria-raising-the-turkish-flag-above-t.md)
+Turkish-backed forces wave flags and remove a Kurdish statue after seizing the centre of Afrin.
+
 ## [Previous Day...](/news/2018/03/17/index.md)
 
