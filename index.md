@@ -11,6 +11,10 @@ _Context: President of Russia, Russia, Russian presidential election, 2018, Vlad
 ### [Sri Lanka ends the state of emergency declared on March 6th. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6th.md)
 The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
 
+##### Florida International University pedestrian bridge collapse
+### [The Miami Police state that they believe they have recovered the last of the victims killed by the bridge's collapse. ](/news/2018/03/18/the-miami-police-state-that-they-believe-they-have-recovered-the-last-of-the-victims-killed-by-the-bridge-s-collapse.md)
+Police recovered five bodies from the wreckage Saturday and said a sixth person died at the hospital. Florida International University said engineers met hours before the collapse to discuss safety.
+
 ##### Manila
 ### [Four people are killed in a fire at the Manila Pavilion Hotel in the Philippines; about 20 people are trapped on the fifth floor. ](/news/2018/03/18/four-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines-about-20-people-are-trapped-on-the-fifth-floor.md)
 A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
