@@ -11,6 +11,10 @@ A US attorney general is investigating reports that millions of Facebook profile
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
 State to have new government for the first time in 16 years. Join us as we follow the night’s developments
 
+##### National Highway Traffic Safety Administration
+### [The National Highway Traffic Safety Administration of the United States launches an investigation into potential defects in the airbag control systems of some Kia and Hyundai models. ](/news/2018/03/17/the-national-highway-traffic-safety-administration-of-the-united-states-launches-an-investigation-into-potential-defects-in-the-airbag-contr.md)
+Four deaths and six injuries have been linked to crashes where air bags failed to deploy, and an estimated 425,000 Hyundai and Kia vehicles are under investigation.
+
 ##### Judicial system of Iran
 ### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)
 _Context: Esfandiar Rahim Mashaei, Iran, Judicial system of Iran, Mahmoud Ahmadinejad, Vice President of Iran, judiciary_

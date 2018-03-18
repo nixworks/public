@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Voters in Russia cast their votes for the President of Russia; opinion polling predicts incumbent Vladimir Putin is highly likely to win a fourth term in office, with over 60% of the popular choice. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-opinion-polling-predicts-incumbent-vladimir-putin-is-highly-likely-to-win-a-f.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin, opinion polling_
 
+##### Sri Lanka
+### [Sri Lanka ends the state of emergency declared on March 6th. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6th.md)
+The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
+
 ##### Manila
 ### [Four people are killed in a fire at the Manila Pavilion Hotel in the Philippines; about 20 people are trapped on the fifth floor. ](/news/2018/03/18/four-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines-about-20-people-are-trapped-on-the-fifth-floor.md)
 A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
@@ -26,6 +30,10 @@ A US attorney general is investigating reports that millions of Facebook profile
 ##### Batman by-election, 2018
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
 State to have new government for the first time in 16 years. Join us as we follow the night’s developments
+
+##### National Highway Traffic Safety Administration
+### [The National Highway Traffic Safety Administration of the United States launches an investigation into potential defects in the airbag control systems of some Kia and Hyundai models. ](/news/2018/03/17/the-national-highway-traffic-safety-administration-of-the-united-states-launches-an-investigation-into-potential-defects-in-the-airbag-contr.md)
+Four deaths and six injuries have been linked to crashes where air bags failed to deploy, and an estimated 425,000 Hyundai and Kia vehicles are under investigation.
 
 ##### Judicial system of Iran
 ### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)
