@@ -4,7 +4,7 @@ Formats: [HTML](2018/03/18/index.html)  [JSON](2018/03/18/index.json)  [XML](201
 ## [2018-03-18](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
-### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with over 70% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-over-70-of-the-p.md)
+### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin_
 
 ##### Crime in California
@@ -15,7 +15,7 @@ The Oaks mall in Thousand Oaks was evacuated after the shooting.
 ### [Sri Lanka ends the state of emergency declared on March 6, 2018. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6-2018.md)
 The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
 
-##### Cirque du Soleil fatality accidents
+##### Cirque du Soleil fatal accidents
 ### [A Cirque du Soleil performer dies from his injuries after he fell 15 feet during a performance in Tampa, Florida, the night before. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-from-his-injuries-after-he-fell-15-feet-during-a-performance-in-tampa-florida-the-night-before.md)
 Cirque du Soleil issued a statement Sunday afternoon, saying that Yann Arnaud was transported to a nearby hospital where he died of his injuries.
 

@@ -61,7 +61,7 @@ According to several Kurdish social media activists, the People&#039;s Protectio
 
 ##### PKK rebellion (2015-present)
 ### [At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-the-southeast-aa-rnak-province.md)
-_Context: PKK, PKK rebellion (2015-present), Sirnak Province, Turkish Land Forces_
+_Context: PKK, PKK rebellion (2015-present), Sirnak Province, Turkish Army_
 
 ##### Boko Haram insurgency
 ### [ Two female suicide bombers kill more than 58 people at a camp for displaced people in Dikwa, Nigeria. ](/news/2016/02/10/two-female-suicide-bombers-kill-more-than-58-people-at-a-camp-for-displaced-people-in-dikwa-nigeria.md)

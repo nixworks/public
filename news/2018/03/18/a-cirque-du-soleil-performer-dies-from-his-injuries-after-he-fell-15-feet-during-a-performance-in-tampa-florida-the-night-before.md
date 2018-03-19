@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/18/a-cirque-du-soleil-performer-dies-from-his-inju
 
 ### [2018-03-18](/news/2018/03/18/index.md)
 
-##### Cirque du Soleil fatality accidents
+##### Cirque du Soleil fatal accidents
 # A Cirque du Soleil performer dies from his injuries after he fell 15 feet during a performance in Tampa, Florida, the night before. 
 
 Cirque du Soleil issued a statement Sunday afternoon, saying that Yann Arnaud was transported to a nearby hospital where he died of his injuries.

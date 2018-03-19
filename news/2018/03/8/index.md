@@ -29,7 +29,7 @@ Toys R Us had already begun liquidation sales ahead of its plans to close about 
 
 ##### Turkish military operation in Afrin
 ### [The Turkish-backed Free Syrian Army seizes control of Jindires in Syria's Afrin District from the Kurdish YPG. The town is extensively destroyed by Turkish airstrikes, according to the Syrian Observatory for Human Rights. ](/news/2018/03/8/the-turkish-backed-free-syrian-army-seizes-control-of-jindires-in-syria-s-afrin-district-from-the-kurdish-ypg-the-town-is-extensively-destr.md)
-_Context: Afrin District, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, Turkish-backed Free Syrian Army, YPG_
+_Context: Afrin District, Free Syrian Army, Jindires, Kurdish, Syria, Syrian Observatory for Human Rights, Turkish military operation in Afrin, YPG_
 
 ## [Previous Day...](/news/2018/03/7/index.md)
 

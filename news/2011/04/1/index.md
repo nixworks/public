@@ -39,7 +39,7 @@ _Context:  Georgian, Abkhazia, International Court of Justice, Russia, South Oss
 ### [Former chief executive of nationalised Anglo Irish Bank David Drumm is questioned about the bank's debts and his declaration of bankruptcy in Massachusetts. Drumm bans the press from attending. ](/news/2011/04/1/former-chief-executive-of-nationalised-anglo-irish-bank-david-drumm-is-questioned-about-the-bank-s-debts-and-his-declaration-of-bankruptcy-i.md)
 _Context: Anglo Irish Bank, Massachusetts_
 
-##### The U.S. National Highway Traffic Safety Administration
+##### National Highway Traffic Safety Administration
 ### [The US National Highway Traffic Safety Administration reports that the number of traffic deaths has fallen to 32,788 in 2010, the lowest level since 1949. ](/news/2011/04/1/the-us-national-highway-traffic-safety-administration-reports-that-the-number-of-traffic-deaths-has-fallen-to-32-788-in-2010-the-lowest-lev.md)
 An estimated 32,788 people were killed in traffic accidents in 2010, the fewest in more than 60 years.
 
