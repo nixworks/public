@@ -4,19 +4,19 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
-### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with over 70% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-over-70-of-the-p.md)
+### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin_
-
-##### Crime in California
-### [A woman is killed and the suspect, her ex-husband, hospitalized after a murder-suicide attempt at a mall in Thousand Oaks, California. ](/news/2018/03/18/a-woman-is-killed-and-the-suspect-her-ex-husband-hospitalized-after-a-murder-suicide-attempt-at-a-mall-in-thousand-oaks-california.md)
-The Oaks mall in Thousand Oaks was evacuated after the shooting.
 
 ##### 2018 anti-Muslim riots in Sri Lanka
 ### [Sri Lanka ends the state of emergency declared on March 6, 2018. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6-2018.md)
 The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
 
-##### Cirque du Soleil fatality accidents
-### [A Cirque du Soleil performer dies from his injuries after he fell 15 feet during a performance in Tampa, Florida, the night before. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-from-his-injuries-after-he-fell-15-feet-during-a-performance-in-tampa-florida-the-night-before.md)
+##### 2017-18 Australian bushfire season
+### [A bushfire destroys dozens of buildings in Tathra, New South Wales, Australia. ](/news/2018/03/18/a-bushfire-destroys-dozens-of-buildings-in-tathra-new-south-wales-australia.md)
+More than 70 homes and buildings are feared lost after the blaze, authorities say.
+
+##### Cirque du Soleil fatal accidents
+### [A Cirque du Soleil performer dies after falling 15 ft during a performance in Tampa, Florida. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-after-falling-15-ft-during-a-performance-in-tampa-florida.md)
 Cirque du Soleil issued a statement Sunday afternoon, saying that Yann Arnaud was transported to a nearby hospital where he died of his injuries.
 
 ##### Florida International University pedestrian bridge collapse
