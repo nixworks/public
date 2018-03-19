@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/19/index.md)
 
+##### Turkish military operation in Afrin
+### [Turkish-backed rebels loot the Syrian city of Afrin. ](/news/2018/03/19/turkish-backed-rebels-loot-the-syrian-city-of-afrin.md)
+Rebel fighters reportedly raid homes and shops after seizing the Syrian city from Kurdish forces.
+
 ##### Austin package explosions
 ### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
@@ -68,7 +72,7 @@ Four deaths and six injuries have been linked to crashes where air bags failed t
 Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
 
 ##### Russia-United Kingdom relations
-### [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, Russia expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-russia-expels-23-british.md)
+### [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, the Russian Federation expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-the-russian-federation-e.md)
 It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
 
 ##### 2018 Philippine Piper PA-23 Apache crash
