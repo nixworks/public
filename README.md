@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/19/index.md)
 
+##### Turpin case
+### [Seven of the "Turpin children" (all adults) are reported to have been released from the Corona Regional Medical Center and placed into an undisclosed residential home to lead normal lives. ](/news/2018/03/19/seven-of-the-turpin-children-all-adults-are-reported-to-have-been-released-from-the-corona-regional-medical-center-and-placed-into-an-un.md)
+The &quot;siblings want to be known as survivors, not victims,&quot; their lawyer said.
+
 ##### Austin package explosions
 ### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
