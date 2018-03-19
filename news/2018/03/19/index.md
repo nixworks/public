@@ -3,12 +3,16 @@ Formats: [HTML](2018/03/19/index.html)  [JSON](2018/03/19/index.json)  [XML](201
 
 ## [2018-03-19](/news/2018/03/19/index.md)
 
+##### Democratic Republic of the Congo general election, 2018
+### [The UN reports that from January 2017 to January 2018 a total of 47 people were killed in protests against Congolese President Joseph Kabila. ](/news/2018/03/19/the-un-reports-that-from-january-2017-to-january-2018-a-total-of-47-people-were-killed-in-protests-against-congolese-president-joseph-kabila.md)
+A government crackdown on demonstrations against President Joseph Kabila in Democratic Republic of Congo has led to the killing of 47 people in just over a year, a UN report seen by AFP said Monday. &quot;Between 1 January 2017 and 31 January 2018, at least 47 people, including women and children, w...
+
 ##### Federal drug policy of the United States
 ### [U.S. President Donald Trump unveils his plan to combat America's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-america-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffickers-incl.md)
-_Context: Donald Trump, Federal drug policy of the United States, U.S. President, opioid epidemic_
+_Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
 
-##### Turkish police
-### [Turkish police discover 1.4 kg of Californium in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-californium-in-a-car-in-ankara.md)
+##### Crime in Turkey
+### [Turkish police discover 1.4 kg of californium in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-californium-in-a-car-in-ankara.md)
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
 ##### Turpin case

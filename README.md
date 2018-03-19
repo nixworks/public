@@ -3,12 +3,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/19/index.md)
 
+##### Democratic Republic of the Congo general election, 2018
+### [The UN reports that from January 2017 to January 2018 a total of 47 people were killed in protests against Congolese President Joseph Kabila. ](/news/2018/03/19/the-un-reports-that-from-january-2017-to-january-2018-a-total-of-47-people-were-killed-in-protests-against-congolese-president-joseph-kabila.md)
+A government crackdown on demonstrations against President Joseph Kabila in Democratic Republic of Congo has led to the killing of 47 people in just over a year, a UN report seen by AFP said Monday. &quot;Between 1 January 2017 and 31 January 2018, at least 47 people, including women and children, w...
+
 ##### Federal drug policy of the United States
 ### [U.S. President Donald Trump unveils his plan to combat America's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-america-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffickers-incl.md)
-_Context: Donald Trump, Federal drug policy of the United States, U.S. President, opioid epidemic_
+_Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
 
-##### Turkish police
-### [Turkish police discover 1.4 kg of Californium in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-californium-in-a-car-in-ankara.md)
+##### Crime in Turkey
+### [Turkish police discover 1.4 kg of californium in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-californium-in-a-car-in-ankara.md)
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
 ##### Turpin case
@@ -71,19 +75,11 @@ Turkish-backed forces wave flags and remove a Kurdish statue after seizing the c
 
 ## [Day Before Yesterday](/news/2018/03/17/index.md)
 
-##### Massachusetts Attorney General
-### [Massachusetts Attorney General Maura Healey launches an investigation into alleged harvesting of Facebook profiles by Cambridge Analytica, a firm employed by Donald Trump's 2016 election campaign. ](/news/2018/03/17/massachusetts-attorney-general-maura-healey-launches-an-investigation-into-alleged-harvesting-of-facebook-profiles-by-cambridge-analytica-a.md)
-A US attorney general is investigating reports that millions of Facebook profiles were accessed.
-
 ##### Batman by-election, 2018
 ### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
 State to have new government for the first time in 16 years. Join us as we follow the night’s developments
 
-##### Austin, Texas
-### [A man is arrested in Austin, Texas for threatening, via email, to bomb the SXSW festival. ](/news/2018/03/17/a-man-is-arrested-in-austin-texas-for-threatening-via-email-to-bomb-the-sxsw-festival.md)
-The bomb threat forced the shutdown of a concert by the hip-hop band The Roots, and follows several package bomb explosions in Austin, Texas.
-
-##### National Highway Traffic Safety Administration
+##### Crime in the United States
 ### [The National Highway Traffic Safety Administration of the United States launches an investigation into potential defects in the airbag control systems of some Kia and Hyundai models. ](/news/2018/03/17/the-national-highway-traffic-safety-administration-of-the-united-states-launches-an-investigation-into-potential-defects-in-the-airbag-contr.md)
 Four deaths and six injuries have been linked to crashes where air bags failed to deploy, and an estimated 425,000 Hyundai and Kia vehicles are under investigation.
 
