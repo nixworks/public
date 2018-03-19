@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/18/index.md)
+## [News](/news/2018/03/19/index.md)
+
+##### Austin package explosions
+### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
+Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
 ### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
@@ -31,13 +43,9 @@ A fire broke out at a hotel in the Philippine capital on Sunday, killing four pe
 ### [The Turkish Army and Free Syrian Army seize the Kurdish stronghold of Afrin from the YPG in northern Syria, raising the Turkish flag above the city centre. A statue of the Kurdish legendary figure, Kaveh the Blacksmith, is bulldozed by Turkish-backed forces. ](/news/2018/03/18/the-turkish-army-and-free-syrian-army-seize-the-kurdish-stronghold-of-afrin-from-the-ypg-in-northern-syria-raising-the-turkish-flag-above-t.md)
 Turkish-backed forces wave flags and remove a Kurdish statue after seizing the centre of Afrin.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/17/index.md)
+## [Day Before Yesterday](/news/2018/03/17/index.md)
 
 ##### Massachusetts Attorney General
 ### [Massachusetts Attorney General Maura Healey launches an investigation into alleged harvesting of Facebook profiles by Cambridge Analytica, a firm employed by Donald Trump's 2016 election campaign. ](/news/2018/03/17/massachusetts-attorney-general-maura-healey-launches-an-investigation-into-alleged-harvesting-of-facebook-profiles-by-cambridge-analytica-a.md)
@@ -69,39 +77,7 @@ Seven people died when a small plane crashed into a house north of the Philippin
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/16/index.md)
-
-##### Discoveries of exoplanets
-### [European astronomers discover eight new exoplanets classified as Hot Jupiters as part of the WASP project. ](/news/2018/03/16/european-astronomers-discover-eight-new-exoplanets-classified-as-hot-jupiters-as-part-of-the-wasp-project.md)
-A team of European astronomers claims to have discovered eight new exoplanets - hot Jupiters - as part of the WASP project. The newly discovered gas giants have short orbital periods and masses ranging from
-
-##### Presidency of Donald Trump
-### [U.S. Attorney General Jeff Sessions fires former Deputy FBI Director Andrew McCabe because of a report from the Office of Professional Responsibility accusing McCabe of making an unauthorized news media disclosure and lacking candor on multiple occasions. ](/news/2018/03/16/u-s-attorney-general-jeff-sessions-fires-former-deputy-fbi-director-andrew-mccabe-because-of-a-report-from-the-office-of-professional-respo.md)
-_Context: Andrew McCabe, Deputy FBI Director, Jeff Sessions, Office of Professional Responsibility, Presidency of Donald Trump, U.S. Attorney General_
-
-##### Aviation in the United States
-### [The Federal Aviation Administration of the United States restricts "doors off" aircraft flights following a helicopter crash that killed 5 people. ](/news/2018/03/16/the-federal-aviation-administration-of-the-united-states-restricts-doors-off-aircraft-flights-following-a-helicopter-crash-that-killed-5-p.md)
-_Context: Aviation in the United States, Federal Aviation Administration, helicopter crash that killed 5 people_
-
-##### The Holocaust in Latvia
-### [Police arrest a man at the Freedom Monument displaying a poster of soldiers killing Jews as a protest against an annual march in Riga, Latvia, honoring two Latvian SS divisions during World War II. ](/news/2018/03/16/police-arrest-a-man-at-the-freedom-monument-displaying-a-poster-of-soldiers-killing-jews-as-a-protest-against-an-annual-march-in-riga-latvi.md)
-RIGA, Latvia (JTA) &#8212; Police arrested a man for displaying a poster of soldiers killing Jews at the annual march by local veterans of two SS divisions that made up the Latvian Legion during World War II. The man was arrested Friday morning on the margins of the annual march of the Remembrance D...
-
-##### South African Arms Deal
-### [South Africa's National Prosecuting Authority Director Shaun Abrahams says former President Jacob Zuma will be prosecuted for corruption, relating to a R30 billion arms deal in the late 1990s. Zuma disputes all the allegations against him. ](/news/2018/03/16/south-africa-s-national-prosecuting-authority-director-shaun-abrahams-says-former-president-jacob-zuma-will-be-prosecuted-for-corruption-re.md)
-Chief prosecutor says ex-president will face prosecution on charges that dogged him in office
-
-##### Crime in the United Kingdom
-### [The death of Russian businessman Nikolai Glushkov, who lived in exile in the United Kingdom, is confirmed by a coroner's examination to be a murder. The killing happened eight days after the poisoning of Sergei and Yulia Skripal. ](/news/2018/03/16/the-death-of-russian-businessman-nikolai-glushkov-who-lived-in-exile-in-the-united-kingdom-is-confirmed-by-a-coroner-s-examination-to-be-a.md)
-UK police launch murder investigation after death of Russian businessman Nikolai Glushkov in south-west London
-
-##### 2017-18 North Korea crisis
-### [South Korea states that they want high-level talks with North Korea before the summit. ](/news/2018/03/16/south-korea-states-that-they-want-high-level-talks-with-north-korea-before-the-summit.md)
-South Korea will seek high-level talks with North Korea this month as preparations for a summit began on Friday, the presidential chief of staff said, while officials in the South expressed interest in a separate summit with the United States.
-
----
-
-## [Previous Day...](/news/2018/03/15/index.md)
+## [Previous Day...](/news/2018/03/16/index.md)
 
 ---
 
