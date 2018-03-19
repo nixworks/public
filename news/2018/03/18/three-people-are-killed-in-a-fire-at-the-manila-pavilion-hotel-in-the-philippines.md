@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/18/three-people-are-killed-in-a-fire-at-the-manila
 
 ### [2018-03-18](/news/2018/03/18/index.md)
 
-##### Manila
+##### 2018 Manila Pavilion Hotel fire
 # Three people are killed in a fire at the Manila Pavilion Hotel in the Philippines. 
 
 A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.

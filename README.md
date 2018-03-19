@@ -35,7 +35,7 @@ Cirque du Soleil issued a statement Sunday afternoon, saying that Yann Arnaud wa
 ### [The Miami Police Department states that they believe they have recovered the last of the victims killed by the bridge's collapse. ](/news/2018/03/18/the-miami-police-department-states-that-they-believe-they-have-recovered-the-last-of-the-victims-killed-by-the-bridge-s-collapse.md)
 Police recovered five bodies from the wreckage Saturday and said a sixth person died at the hospital. Florida International University said engineers met hours before the collapse to discuss safety.
 
-##### Manila
+##### 2018 Manila Pavilion Hotel fire
 ### [Three people are killed in a fire at the Manila Pavilion Hotel in the Philippines. ](/news/2018/03/18/three-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines.md)
 A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
 
