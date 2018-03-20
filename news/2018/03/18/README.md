@@ -7,6 +7,10 @@ Formats: [HTML](2018/03/18/index.html)  [JSON](2018/03/18/index.json)  [XML](201
 ### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
 _Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin_
 
+##### Censorship in the United Kingdom
+### [Lutz Bachmann, the founder of the German nationalist group Pegida was detained and prevented from speaking at a free speech rally at Speakers' Corner in Hyde Park, London, where activist Tommy Robinson was also speaking at.](/news/2018/03/18/lutz-bachmann-the-founder-of-the-german-nationalist-group-pegida-was-detained-and-prevented-from-speaking-at-a-free-speech-rally-at-speaker.md)
+The founder of far right anti-Islam group Pegida has been barred from entry to the UK and deported from Stansted airport. Lutz Bachmann, who has led anti-immigration marches of tens of thousands of people, landed at Stansted airport on Saturday night. He was detained and subsequently expelled from t...
+
 ##### 2018 anti-Muslim riots in Sri Lanka
 ### [Sri Lanka ends the state of emergency declared on March 6, 2018. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6-2018.md)
 The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
