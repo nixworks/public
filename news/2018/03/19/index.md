@@ -4,11 +4,11 @@ Formats: [HTML](2018/03/19/index.html)  [JSON](2018/03/19/index.json)  [XML](201
 ## [2018-03-19](/news/2018/03/19/index.md)
 
 ##### Federal drug policy of the United States
-### [U.S. President Donald Trump unveils his plan to combat America's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-america-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffickers-incl.md)
+### [U.S. President Donald Trump unveils his plan to combat the United States's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-the-united-states-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffic.md)
 _Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
 
 ##### Crime in Turkey
-### [Turkish police discover 1.4 kg of radioactive-labelled material (claimed implausibly to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-implausibly-to-be-californium-in-a-car-in-ankara.md)
+### [Turkish police discover 1.4 kg of radioactive-labelled material (claimed by the police to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-by-the-police-to-be-californium-in-a-car-in-ankara.md)
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
 ##### Turpin case
