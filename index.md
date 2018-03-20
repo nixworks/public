@@ -32,11 +32,11 @@ _Context: Great Mills, Great Mills High School, Maryland, School shootings in th
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
 
 ##### Censorship in the United Kingdom
-### [Mark "Count Dankula" Meechan is found guilty in Scotland of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/mark-count-dankula-meechan-is-found-guilty-in-scotland-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salu.md)
-_Context: Censorship in the United Kingdom, Nazi salute, Scotland, United Kingdom, freedom of speech_
+### [YouTuber Mark "Count Dankula" Meechan is found guilty of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/youtuber-mark-count-dankula-meechan-is-found-guilty-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salute.md)
+_Context: Censorship in the United Kingdom, Nazi salute, United Kingdom, YouTube, freedom of speech_
 
 ##### United States recognition of Jerusalem as capital of Israel
-### [ The Palestinian leader Mahmoud Abbas insults US Ambassador to Israel David M. Friedman, calling him "son of dog". US blasted his comments and warned him to choose between hate and peace.](/news/2018/03/20/the-palestinian-leader-mahmoud-abbas-insults-us-ambassador-to-israel-david-m-friedman-calling-him-ason-of-doga-us-blasted-his-commen.md)
+### [Palestinian leader Mahmoud Abbas insults U.S. Ambassador to Israel David M. Friedman, calling him "son of dog". The U.S. warns him to choose between hate and peace. ](/news/2018/03/20/palestinian-leader-mahmoud-abbas-insults-u-s-ambassador-to-israel-david-m-friedman-calling-him-ason-of-doga-the-u-s-warns-him-to-ch.md)
 White House urges Abbas to choose hate or peace &nbsp; RAMALLAH: Palestinian president Mahmud Abbas labeled the US ambassador to Israel David Friedman a &#8220;son of a dog&#8221; on Monday during an attack on Donald Trump&#8217;s policies. The scathing comments come with US President Trump still ex...
 
 ##### South Korea-United States relations
@@ -52,7 +52,7 @@ The U.S. and South Korea delayed exercises until after the Olympics.
 An eyewitness has described seeing a &amp;#8220;big fireball&amp;#8221; after a Red Arrows jet crashed following an incident at RAF Valley in north Wales.
 
 ##### Economy of India
-### [India's fifth-largest wireless provider, Aircel declares bankruptcy. ](/news/2018/03/20/india-s-fifth-largest-wireless-provider-aircel-declares-bankruptcy.md)
+### [India's fifth-largest wireless provider Aircel declares bankruptcy. ](/news/2018/03/20/india-s-fifth-largest-wireless-provider-aircel-declares-bankruptcy.md)
 _Context: Aircel, Economy of India, India, bankruptcy, wireless provider_
 
 ##### Weinstein effect
@@ -83,7 +83,7 @@ More than 1kg of the element Californium is found in an anti-smuggling raid in A
 ### [The seven adults of the "Turpin children" are reported to have been released from the Corona Regional Medical Center in California and placed into an undisclosed residential home to lead normal lives. ](/news/2018/03/19/the-seven-adults-of-the-turpin-children-are-reported-to-have-been-released-from-the-corona-regional-medical-center-in-california-and-place.md)
 The &quot;siblings want to be known as survivors, not victims,&quot; their lawyer said.
 
-##### Austin package explosions
+##### Austin serial bombings
 ### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
 

@@ -15,7 +15,7 @@ More than 1kg of the element Californium is found in an anti-smuggling raid in A
 ### [The seven adults of the "Turpin children" are reported to have been released from the Corona Regional Medical Center in California and placed into an undisclosed residential home to lead normal lives. ](/news/2018/03/19/the-seven-adults-of-the-turpin-children-are-reported-to-have-been-released-from-the-corona-regional-medical-center-in-california-and-place.md)
 The &quot;siblings want to be known as survivors, not victims,&quot; their lawyer said.
 
-##### Austin package explosions
+##### Austin serial bombings
 ### [In Austin, Texas, a fourth bomb detonates, injuring two men. The Austin Police Department believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the SXSW festival. ](/news/2018/03/19/in-austin-texas-a-fourth-bomb-detonates-injuring-two-men-the-austin-police-department-believes-it-is-connected-to-the-other-parcel-bombi.md)
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
 

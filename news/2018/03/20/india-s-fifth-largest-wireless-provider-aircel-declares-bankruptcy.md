@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/20/india-s-fifth-largest-wireless-provider-aircel-
 ### [2018-03-20](/news/2018/03/20/index.md)
 
 ##### Economy of India
-# India's fifth-largest wireless provider, Aircel declares bankruptcy. 
+# India's fifth-largest wireless provider Aircel declares bankruptcy. 
 
 
 
