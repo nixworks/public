@@ -3,9 +3,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/20/index.md)
 
-##### Northern white rhinoceros
-### [The last known male Northern white rhinoceros dies in captivity, leaving two females as the only surviving members of the virtually extinct species. ](/news/2018/03/20/the-last-known-male-northern-white-rhinoceros-dies-in-captivity-leaving-two-females-as-the-only-surviving-members-of-the-virtually-extinct.md)
+##### Extinction threshold
+### [Sudan, the last known male Northern white rhinoceros, dies in captivity, leaving two females as the only surviving members of the subspecies. ](/news/2018/03/20/sudan-the-last-known-male-northern-white-rhinoceros-dies-in-captivity-leaving-two-females-as-the-only-surviving-members-of-the-subspecies.md)
 Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
+
+##### School shootings in the United States
+### [A shooting occurs at Great Mills High School in St. Mary's County, Maryland. Three are reported injured. ](/news/2018/03/20/a-shooting-occurs-at-great-mills-high-school-in-st-mary-s-county-maryland-three-are-reported-injured.md)
+Three people were injured in a shooting at Great Mills High School in Southern Maryland on Tuesday morning, according to a county spokesman. No fatalities have been confirmed.
 
 ##### Austin package explosions
 ### [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombs. The ATF reports that there were no injuries. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombs-the-atf-report.md)
