@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/07/20/the-shortlist-for-the-forward-poetry-prize-is-a
 
 ### Changes:
 
-1. [The shortlist for the 2010 Mercury Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-2010-mercury-prize-is-announced.md) _2018-03-18 03:36:07 (First version)_
+1. [The shortlist for the 2010 Mercury Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-2010-mercury-prize-is-announced.md) _2018-03-19 03:36:00 (First version)_
 1. [The shortlist for the Forward Poetry Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-forward-poetry-prize-is-announced.md) _(Current version)_
 
 ### Related:

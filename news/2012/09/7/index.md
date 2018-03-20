@@ -61,7 +61,7 @@ _Context: Chile_
 
 ##### Al-Shabaab
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: Al-Shabaab, Kismayo, Somalia, United States, drone attack, killed_
+_Context: Al-Shabaab, Kismayo, Somalia, U.S., drone attack, killed_
 
 ##### Friday mass prayer
 ### [A bomb kills five policemen after Friday prayer outside Rukniyeh mosque in Rukn Eddeen, central Damascus. ](/news/2012/09/7/a-bomb-kills-five-policemen-after-friday-prayer-outside-rukniyeh-mosque-in-rukn-eddeen-central-damascus.md)

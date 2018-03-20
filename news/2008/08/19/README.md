@@ -13,7 +13,7 @@ _Context: Algiers, Issers, bomb, paramilitary_
 
 ##### North Korea
 ### [ North Korea declares Sweden its enemy and a United States war puppet. ](/news/2008/08/19/north-korea-declares-sweden-its-enemy-and-a-united-states-war-puppet.md)
-_Context: North Korea, Sweden, United States_
+_Context: North Korea, Sweden, U.S._
 
 ##### Egypt
 ### [ Egypt's upper house of Parliament is destroyed in a huge fire. ](/news/2008/08/19/egypt-s-upper-house-of-parliament-is-destroyed-in-a-huge-fire.md)

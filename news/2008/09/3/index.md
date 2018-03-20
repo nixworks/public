@@ -17,7 +17,7 @@ _Context: 8th U.S. Circuit Court of Appeals', Wikipedia_
 
 ##### Japan
 ### [ Japan's Kyodo news agency reports that North Korea has started rebuilding the Yongbyon Nuclear Scientific Research Center in retaliation for the United States failing to remove it from a list of states that sponsor terrorism. ](/news/2008/09/3/japan-s-kyodo-news-agency-reports-that-north-korea-has-started-rebuilding-the-yongbyon-nuclear-scientific-research-center-in-retaliation-fo.md)
-_Context: Japan, Kyodo, North Korea, United States, Yongbyon Nuclear Scientific Research Center, terrorism_
+_Context: Japan, Kyodo, North Korea, U.S., Yongbyon Nuclear Scientific Research Center, terrorism_
 
 ##### GMAC
 ### [ GMAC's Residential Capital mortgage provider announces plans to dramatically reduce the size of its business resulting in the loss of 5,000 jobs. ](/news/2008/09/3/gmac-s-residential-capital-mortgage-provider-announces-plans-to-dramatically-reduce-the-size-of-its-business-resulting-in-the-loss-of-5-000.md)

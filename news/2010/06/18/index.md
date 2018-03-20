@@ -17,9 +17,9 @@ _Context: 2010 FIFA World Cup, England, FIFA, South Africa_
 
 ##### Tornado
 ### [Two people die during a series of tornadoes in Wadena and Otter Tail County, Minnesota, United States. ](/news/2010/06/18/two-people-die-during-a-series-of-tornadoes-in-wadena-and-otter-tail-county-minnesota-united-states.md)
-_Context: Otter Tail County, Minnesota, United States, Wadena, tornado_
+_Context: Otter Tail County, Minnesota, U.S., Wadena, tornado_
 
-##### United States
+##### U.S.
 ### [The United States welcomes alleged genocide denial lawyer Peter Erlinder's release on health grounds by Rwanda. ](/news/2010/06/18/the-united-states-welcomes-alleged-genocide-denial-lawyer-peter-erlinder-s-release-on-health-grounds-by-rwanda.md)
 The US welcomes the release by a Rwandan court of genocide lawyer Peter Erlinder on medical grounds.
 
@@ -59,7 +59,7 @@ _Context: LTTE, President of Sri Lanka, Rajapaksa_
 ### [International Monetary Fund (IMF) head Dominique Strauss-Kahn meets with Prime Minister of Spain Jose Luis Rodriguez Zapatero in Madrid. ](/news/2010/06/18/international-monetary-fund-imf-head-dominique-strauss-kahn-meets-with-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-in-madrid.md)
 _Context: Dominique Strauss-Kahn, International Monetary Fund, Jose Luis Rodriguez Zapatero, Madrid, Prime Minister_
 
-##### United States
+##### U.S.
 ### [American Envoy to the Middle East and former Senator George J. Mitchell arrives in Ramallah and holds an immediate meeting with Palestinian President Mahmoud Abbas. ](/news/2010/06/18/american-envoy-to-the-middle-east-and-former-senator-george-j-mitchell-arrives-in-ramallah-and-holds-an-immediate-meeting-with-palestinian.md)
 Palestinian president urges George Mitchell to press Israel to lift its blockade on Gaza.
 

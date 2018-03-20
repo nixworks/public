@@ -33,7 +33,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Colombia
 ### [ Colombian authorities release seized videos of 16 hostages being held by the FARC rebel group; these include former senator and presidential candidate ngrid Betancourt, last heard from in 2002, and three U.S. defence contractors abducted in 2003. ](/news/2007/11/30/colombian-authorities-release-seized-videos-of-16-hostages-being-held-by-the-farc-rebel-group-these-include-former-senator-and-presidentia.md)
-_Context: Colombia, FARC, United States, ngrid Betancourt_
+_Context: Colombia, FARC, U.S., ngrid Betancourt_
 
 ## [Previous Day...](/news/2007/11/29/index.md)
 

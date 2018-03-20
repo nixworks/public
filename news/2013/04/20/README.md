@@ -41,7 +41,7 @@ TUCSON -- At least five people were killed and 17 injured when a van crashed dur
 
 ##### California
 ### [In southern California, United States, 200 residents are evacuated due to a brush fire. ](/news/2013/04/20/in-southern-california-united-states-200-residents-are-evacuated-due-to-a-brush-fire.md)
-_Context: California, United States, brush fire_
+_Context: California, U.S., brush fire_
 
 ##### Snowboarders
 ### [Five snowboarders are killed in a backcountry avalanche on Loveland Pass in the U.S. state of Colorado in the deadliest US avalanche since 1962. ](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-avalanche-on-loveland-pass-in-the-u-s-state-of-colorado-in-the-deadliest-us-avalanche-since-1.md)

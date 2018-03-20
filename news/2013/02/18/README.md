@@ -17,7 +17,7 @@ Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes
 
 ##### Murder-suicide
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, Missouri, United States, murder-suicide_
+_Context: Fairdealing, Missouri, U.S., murder-suicide_
 
 ##### Robber
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)

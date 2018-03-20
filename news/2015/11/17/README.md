@@ -35,7 +35,7 @@ Three German backpackers and a WA farmer are believed dead after becoming trappe
 ### [In the Pacific Northwest region of the United States, a windstorm with gusts as high as 119 mph kills 4 people and leaves more than 1 million without electricity; some rivers in Western Washington also experience moderate to severe flooding. Washington Governor Jay Inslee declares a state of emergency after the storm, requesting federal assistance with cleanup efforts. ](/news/2015/11/17/in-the-pacific-northwest-region-of-the-united-states-a-windstorm-with-gusts-as-high-as-119-mph-kills-4-people-and-leaves-more-than-1-millio.md)
 A large storm system has brought widespread damage to the Northwest. Here&#039;s the latest.
 
-##### United States
+##### U.S.
 ### [In the United States, the National Weather Service issues a blizzard warning for northeastern Colorado and western Kansas with an expected snowfall by midday of 12 inches in Denver, Colorado. Denver International Airport cancels 143 arriving and departing flighits. Several tornadoes occur overnight in northern Texas, western Kansas, and southern Nebraska. ](/news/2015/11/17/in-the-united-states-the-national-weather-service-issues-a-blizzard-warning-for-northeastern-colorado-and-western-kansas-with-an-expected-s.md)
 More than 100 flights were canceled at Denver International Airport on Tuesday as a powerful storm system dropped snow over the Rocky Mountains, while tornadoes were reported from Texas to Nebraska, officials said.
 
@@ -43,7 +43,7 @@ More than 100 flights were canceled at Denver International Airport on Tuesday a
 ### [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2 mi killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-6-2-mi-killing-at-least-two-people-the-quake-damages-the.md)
 A 6.5-magnitude earthquake struck southwest of Ioannina in Greece at a depth of some 10 kilometers, according to the US Geological Service. Two people have been reported dead. 
 
-##### United States
+##### U.S.
 ### [American actor Charlie Sheen confirms he has HIV. ](/news/2015/11/17/american-actor-charlie-sheen-confirms-he-has-hiv.md)
 A look at celebrities with HIV/AIDS
 

@@ -119,7 +119,7 @@ _Context: Anatolian Agency, Mardin Province, Syria, Turkish, Turkish Army_
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
 _Context: Benjamin Netanyahu, Prime Minister, smear_
 
-##### United States
+##### U.S.
 ### [United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whether-the-lebanese-so.md)
 Florida congressman Ron Klein calls for US to stop military support.
 

@@ -25,7 +25,7 @@ _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
 
 ##### Magnitude
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
-_Context: Chicago, United States, magnitude_
+_Context: Chicago, U.S., magnitude_
 
 ##### Britain's Court of Appeal
 ### [The Court of Appeal of England and Wales rules that open air funeral pyres can be accommodated under the 1902 Cremation Act as amended. ](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.md)

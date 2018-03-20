@@ -35,9 +35,9 @@ _Context: Cuba, Guantnamo Bay, UK, US_
 ### [ Wal-Mart is ordered to pay $78 million in compensation to current and former employees for breaking labor laws in the U.S. state of Pennsylvania by forcing its employees to work through rest breaks and off clock. ](/news/2006/10/13/wal-mart-is-ordered-to-pay-78-million-in-compensation-to-current-and-former-employees-for-breaking-labor-laws-in-the-u-s-state-of-pennsyl.md)
 _Context: Pennsylvania, U.S. state, Wal-Mart_
 
-##### United States
+##### U.S.
 ### [ The U.S. Federal Aviation Administration bans fixed-wing aircraft from the East River corridor in New York City unless they are in contact with air traffic control. The change follows a crash of a plane into an apartment building earlier in the week. ](/news/2006/10/13/the-u-s-federal-aviation-administration-bans-fixed-wing-aircraft-from-the-east-river-corridor-in-new-york-city-unless-they-are-in-contact.md)
-_Context: East River, Federal Aviation Administration, New York City, United States, air traffic control, fixed-wing aircraft_
+_Context: East River, Federal Aviation Administration, New York City, U.S., air traffic control, fixed-wing aircraft_
 
 ##### Ban Ki-Moon
 ### [ Ban Ki-Moon is elected to be the eighth Secretary-General of the United Nations, to succeed Kofi Annan in January 2007. ](/news/2006/10/13/ban-ki-moon-is-elected-to-be-the-eighth-secretary-general-of-the-united-nations-to-succeed-kofi-annan-in-january-2007.md)

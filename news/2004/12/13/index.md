@@ -33,7 +33,7 @@ _Context: Augusto Pinochet, forcibly disappeared, house arrest_
 
 ##### Jury
 ### [ The jury in the Scott Peterson trial recommends that he be sentenced to death for the murder of his wife and unborn son. ](/news/2004/12/13/the-jury-in-the-scott-peterson-trial-recommends-that-he-be-sentenced-to-death-for-the-murder-of-his-wife-and-unborn-son.md)
-_Context: Capital punishment in the United States, Scott Peterson, jury_
+_Context: Scott Peterson, death penalty, jury_
 
 ##### Conseil d'tat
 ### [ France's highest administrative court, the "Conseil d'tat", bans Hizbullah's "al-Manar" TV station on the grounds that it incites racial hatred and antisemitism. ](/news/2004/12/13/france-s-highest-administrative-court-the-conseil-d-etat-bans-hizbullah-s-al-manar-tv-station-on-the-grounds-that-it-incites-racial-h.md)

@@ -45,7 +45,7 @@ A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on
 
 ##### Heat wave
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
-_Context: United States, heat wave_
+_Context: U.S., heat wave_
 
 ##### Floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)

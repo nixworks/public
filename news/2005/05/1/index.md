@@ -27,7 +27,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Astronomers have directly confirmed the existence of an extrasolar planet orbiting the brown dwarf numbered 2M1207a. The team says that this is the first-ever infrared view of an exoplanet. ](/news/2005/05/1/astronomers-have-directly-confirmed-the-existence-of-an-extrasolar-planet-orbiting-the-brown-dwarf-numbered-2m1207a-the-team-says-that-thi.md)
 _Context: 2M1207a, Astronomers, brown dwarf, confirmed, exoplanet, planet_
 
-##### United States
+##### U.S.
 ### [ The United States informs Japan that North Korea may have launched another test missile towards the Sea of Japan. The report is now said to be confirmed. ](/news/2005/05/1/the-united-states-informs-japan-that-north-korea-may-have-launched-another-test-missile-towards-the-sea-of-japan-the-report-is-now-said-to.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

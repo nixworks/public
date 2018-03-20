@@ -23,9 +23,9 @@ _Context: France, Overseas departments and territories of France, indigenous lan
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_
 
-##### United States
+##### U.S.
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Philadelphia, Pennsylvania, Sicilian Mafia, United States_
+_Context: FBI, Philadelphia, Pennsylvania, Sicilian Mafia, U.S._
 
 ##### Malaysia
 ### [The sodomy trial of Malaysian opposition leader Anwar Ibrahim is delayed after the presiding judge Mohamad Zabidin Diah dismisses the defence's efforts to have him replaced. ](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.md)
@@ -103,9 +103,9 @@ _Context: Kaduqli, South Kordofan, South Sudan, Sudan_
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
 Armed men killed sevensoldiers and wounded 12 others in clashes in the southern Yemenicity of Zinjibar on Monday, a local official and witnesses said.
 
-##### United States
+##### U.S.
 ### [Two United States drone missiles kill 14 people in Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
+_Context: Pakistani Taliban, South Waziristan, U.S., Wana, drone_
 
 ##### 2011 Bahraini protests
 ### [2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. ](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.md)

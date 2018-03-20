@@ -31,9 +31,9 @@ _Context: IAEA, North Korea, United States Government_
 ### [ The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-presiden.md)
 _Context: 2007 Peru earthquake, Alan Garca, President, looting_
 
-##### United States
+##### U.S.
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
-_Context: Europe, Federal Reserve, United States, subprime mortgage crisis_
+_Context: Europe, Federal Reserve, U.S., subprime mortgage crisis_
 
 ##### Hurricane
 ### [ Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md)

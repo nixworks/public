@@ -45,7 +45,7 @@ Unity: President Joko &acirc;Jokowi&acirc; Widodo welcomes Palestinian P
 
 ##### South Korea-United States relations
 ### [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md)
-_Context: North Korea, South Korea, South Korea-United States relations, United States_
+_Context: North Korea, South Korea, South Korea-United States relations, U.S._
 
 ##### Altamont Corridor Express
 ### [In the United States, an Altamont Corridor Express (ACE) San Francisco Bay Area commuter train bound for Stockton, California, derails and falls into a creek, injuring 14 people, four in serious condition. The crash shuts down service along the ACE system through Tuesday. ](/news/2016/03/7/in-the-united-states-an-altamont-corridor-express-ace-san-francisco-bay-area-commuter-train-bound-for-stockton-california-derails-and-f.md)

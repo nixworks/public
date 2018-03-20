@@ -21,7 +21,7 @@ Former nightclub doorman Levi Bellfield is found guilty of murdering 13-year-old
 
 ##### Fraud
 ### [Accused fraudster and US TV pitchman Don Lapre is arrested in Tempe, Arizona. ](/news/2011/06/23/accused-fraudster-and-us-tv-pitchman-don-lapre-is-arrested-in-tempe-arizona.md)
-_Context: Arizona, Don Lapre, Tempe, fraud, pitchman_
+_Context: Arizona, Don Lapre, Tempe, Arizona, fraud, pitchman_
 
 ##### Hackers
 ### [Hacker group LulzSec releases material belonging to the Department of Public Safety in the US state of Arizona in response to immigration law SB 1070. ](/news/2011/06/23/hacker-group-lulzsec-releases-material-belonging-to-the-department-of-public-safety-in-the-us-state-of-arizona-in-response-to-immigration-la.md)
@@ -105,7 +105,7 @@ Noam Schalit asks why it took Israeli governments five years to make move; Hamas
 
 ##### France
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, France, U.S. President, United States_
+_Context: Afghanistan, Barack Obama, France, U.S., U.S. President_
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)

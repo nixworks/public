@@ -35,9 +35,9 @@ _Context: Bank of Canada, Canada, recession_
 ### [ Two Swedish passenger ferries sailing between the mainland and Gotland collide in fog just off the port of Nynshamn south of Stockholm, injuring at least 15 people. ](/news/2009/07/23/two-swedish-passenger-ferries-sailing-between-the-mainland-and-gotland-collide-in-fog-just-off-the-port-of-nynashamn-south-of-stockholm-in.md)
 _Context: Gotland, Nynshamn, Stockholm, Sweden, ferry, fog_
 
-##### United States
+##### U.S.
 ### [ The United States signs the Treaty of Amity and Cooperation in Southeast Asia. ](/news/2009/07/23/the-united-states-signs-the-treaty-of-amity-and-cooperation-in-southeast-asia.md)
-_Context: Treaty of Amity and Cooperation in Southeast Asia, United States_
+_Context: Treaty of Amity and Cooperation in Southeast Asia, U.S._
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes above 9000 for the first time since January. ](/news/2009/07/23/the-dow-jones-industrial-average-closes-above-9000-for-the-first-time-since-january.md)

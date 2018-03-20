@@ -19,7 +19,7 @@ _Context: DR Congo, flood_
 ### [ Curlin wins the Breeders' Cup Classic at the Monmouth Park racecourse. In the same race, European star George Washington is euthanized after breaking down in the stretch. ](/news/2007/10/27/curlin-wins-the-breeders-cup-classic-at-the-monmouth-park-racecourse-in-the-same-race-european-star-george-washington-is-euthanized-afte.md)
 _Context: Breeders' Cup Classic, Curlin, George Washington, Monmouth Park, euthanizing animals_
 
-##### United States
+##### U.S.
 ### [ United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md)
 U.S.-led forces killed about 80 Taliban fighters during a battle in Southern Afghanistan on Saturday, officials said.
 

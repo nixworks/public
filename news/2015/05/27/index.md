@@ -35,9 +35,9 @@ Officials were arrested in Switzerland, which is also probing corruption in awar
 ### [Former Prime Minister of the United Kingdom Tony Blair resigns as the peace envoy of the Quartet on the Middle East. ](/news/2015/05/27/former-prime-minister-of-the-united-kingdom-tony-blair-resigns-as-the-peace-envoy-of-the-quartet-on-the-middle-east.md)
 Former British prime minister Tony Blair resigns as envoy of the Middle East Quartet diplomatic group.
 
-##### United States
+##### U.S.
 ### [Representatives from the United States, Japan and South Korea meet in Seoul on how to respond to North Korea's nuclear weapons program. ](/news/2015/05/27/representatives-from-the-united-states-japan-and-south-korea-meet-in-seoul-on-how-to-respond-to-north-korea-s-nuclear-weapons-program.md)
-_Context: Japan, North Korea's nuclear program, Seoul, South Korea, United States_
+_Context: Japan, North Korea's nuclear program, Seoul, South Korea, U.S._
 
 ##### 2015 Indian heat wave
 ### [The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md)

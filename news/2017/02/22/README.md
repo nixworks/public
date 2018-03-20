@@ -45,7 +45,7 @@ _Context: Houthi, Mocha, Yemen, Yemeni Civil War (2015-present), government sold
 
 ##### Raqqa offensive
 ### [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md)
-_Context: ISIS, Raqqa, Raqqa offensive, Syrian Democratic Forces, United States_
+_Context: ISIS, Raqqa, Raqqa offensive, Syrian Democratic Forces, U.S._
 
 ## [Previous Day...](/news/2017/02/21/index.md)
 

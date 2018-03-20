@@ -7,7 +7,7 @@ Formats: [HTML](2008/05/6/index.html)  [JSON](2008/05/6/index.json)  [XML](2008/
 ### [ Prominent Malaysian blogger and political activist, Raja Petra Kamaruddin, is charged with sedition. ](/news/2008/05/6/prominent-malaysian-blogger-and-political-activist-raja-petra-kamaruddin-is-charged-with-sedition.md)
 _Context: Malaysia, Raja Petra Kamaruddin, sedition_
 
-##### United States
+##### U.S.
 ### [ United States voters go to the polls in the North Carolina and Indiana Democratic Party primaries. Illinois Senator Barack Obama wins North Carolina by 14 per cent while New York Senator Hillary Clinton narrowly wins in Indiana. ](/news/2008/05/6/united-states-voters-go-to-the-polls-in-the-north-carolina-and-indiana-democratic-party-primaries-illinois-senator-barack-obama-wins-north.md)
 Barack Obama won a commanding victory in the North Carolina primary but fell short in Indiana as Hillary Rodham Clinton prevailed by a narrow margin.
 

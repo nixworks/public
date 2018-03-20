@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/21/index.html)  [JSON](2016/05/21/index.json)  [XML](201
 
 ##### Lake Mead
 ### [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md)
-_Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, United States, reservoir_
+_Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, U.S., reservoir_
 
 ##### Chile
 ### [ At least one person is dead in protests that have turned violent in Chile. ](/news/2016/05/21/at-least-one-person-is-dead-in-protests-that-have-turned-violent-in-chile.md)

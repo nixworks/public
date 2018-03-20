@@ -13,7 +13,7 @@ During a special meeting, Shas head says opposition&#8217;s main goal is to topp
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: Joran van der Sloot, United States_
+_Context: Joran van der Sloot, U.S._
 
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)

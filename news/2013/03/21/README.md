@@ -17,7 +17,7 @@ _Context: Australian Labor Party, Julia Gillard, a spill_
 
 ##### Shooting
 ### [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md)
-_Context: Colorado, Montague County, Texas, United States, shooting, shootout_
+_Context: Colorado, Montague County, Texas, U.S., shooting, shootout_
 
 ##### BBC
 ### [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electronic.md)
@@ -25,7 +25,7 @@ The BBC has become the latest victim of Twitter hackers as several of its feeds,
 
 ##### Nightclub
 ### [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md)
-_Context: Chicago, Illinois, United States, nightclub_
+_Context: Chicago, Illinois, U.S., nightclub_
 
 ##### India
 ### [India's Supreme Court sentences actor and politician Sanjay Dutt to 5 years in prison over illegal arms possession, related to the 1993 Mumbai bombings. The death sentence of Yakub Memon, convicted mastermind of the bombings, has been upheld. ](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.md)

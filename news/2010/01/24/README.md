@@ -23,7 +23,7 @@ A candidate who opposed a plan to move a U.S. air base won, raising pressure on 
 ### [Sri Lankan opposition candidate General Sarath Fonseka receives the support of former President Chandrika Kumaratunga in the 2010 presidential election. ](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.md)
 _Context: Chandrika Kumaratunga, General, President of Sri Lanka, Sarath Fonseka, Sri Lanka, opposition, presidential election_
 
-##### United States
+##### U.S.
 ### [A spokesman for U.S. President Barack Obama expresses the administration's support for a second term for the incumbent Chairman of the Federal Reserve, Ben Bernanke, and says lawmakers would send a bad message by "playing politics in any way" with Bernanke's confirmation. ](/news/2010/01/24/a-spokesman-for-u-s-president-barack-obama-expresses-the-administration-s-support-for-a-second-term-for-the-incumbent-chairman-of-the-feder.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
@@ -57,7 +57,7 @@ _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on l
 
 ##### China
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md)
-_Context: China, China Daily, Google, United States, cyber attacks, government, hypocrisy_
+_Context: China, China Daily, Google, U.S., cyber attacks, government, hypocrisy_
 
 ##### Gryfino
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)

@@ -27,15 +27,15 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md)
 Law enforcement agencies in Melbourne, Britain and Spain have launched raids over claims of corrupt conduct by the currency subsidiary of the Reserve Bank of Australia.
 
-##### United States
+##### U.S.
 ### [United States Federal Bureau of Investigation agents arrest dozens of Puerto Rico police officers accused of aiding drug traffickers. ](/news/2010/10/6/united-states-federal-bureau-of-investigation-agents-arrest-dozens-of-puerto-rico-police-officers-accused-of-aiding-drug-traffickers.md)
-_Context: FBI, Puerto Rico, United States, police officers_
+_Context: FBI, Puerto Rico, U.S., police officers_
 
 ##### Federal Court of Canada
 ### [A Federal Court of Canada judge rejects a request by francophone groups outside Quebec to overturn the Conservative government's decision to scrap the longform census. ](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.md)
 _Context: Conservative Party's, Federal Court of Canada, Quebec, census, francophone_
 
-##### United States
+##### U.S.
 ### [The first civilian trial of a person formerly imprisoned by the United States in Guantanamo Bay begins in New York. According to his lawyers Ahmed Ghailani of Tanzania was tortured. ](/news/2010/10/6/the-first-civilian-trial-of-a-person-formerly-imprisoned-by-the-united-states-in-guanta-namo-bay-begins-in-new-york-according-to-his-lawyer.md)
 The judge in the first civilian case against an ex-Guantanamo inmate bars a key government witness, in a blow to US prosecutors.
 
@@ -49,7 +49,7 @@ _Context: European Union, South Korea, free trade agreement_
 
 ##### Tornado
 ### [Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. ](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest-of-the-united-states-resulting-in-at-least-seven-people-being-injured.md)
-_Context: Arizona, Bellemont, United States, tornado_
+_Context: Arizona, Bellemont, U.S., tornado_
 
 ##### Vishwas Nagar
 ### [A firefighter is killed and 17 others injured in a major fire in Vishwas Nagar, India. ](/news/2010/10/6/a-firefighter-is-killed-and-17-others-injured-in-a-major-fire-in-vishwas-nagar-india.md)
@@ -81,7 +81,7 @@ _Context: Hanoi, My Dinh National Stadium_
 
 ##### Autopsy
 ### [An autopsy finds that the death of United States actor Gary Coleman in Salt Lake City, Utah was an accident. ](/news/2010/10/6/an-autopsy-finds-that-the-death-of-united-states-actor-gary-coleman-in-salt-lake-city-utah-was-an-accident.md)
-_Context: Gary Coleman, Salt Lake City, United States, Utah, autopsy_
+_Context: Gary Coleman, Salt Lake City, U.S., Utah, autopsy_
 
 ##### Ireland
 ### [Irish poet Seamus Heaney wins the Forward Poetry Prize. ](/news/2010/10/6/irish-poet-seamus-heaney-wins-the-forward-poetry-prize.md)

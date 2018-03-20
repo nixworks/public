@@ -45,7 +45,7 @@ Abdul Razak Ali Artan was killed by a police officer after the car-and-knife amb
 
 ##### 2015-16 Zika virus epidemic
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, U.S., Zika virus_
 
 ##### 2016 Southeastern United States wildfires
 ### [The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee-as-several-wildfires-burn-out-of-control-i.md)

@@ -43,9 +43,9 @@ Martin McGuinness has described racist attacks on a group of Romanian families i
 ### [ Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following-the-presidential-election.md)
 The Iranian soccer team made a political statement in World Cup qualifying, but will have to wait and see if they still have a chance of advancing to the 2010 tournament in South Africa.
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama extends some benefits to the same-sex partners of federal government workers. ](/news/2009/06/17/united-states-president-barack-obama-extends-some-benefits-to-the-same-sex-partners-of-federal-government-workers.md)
-_Context: Barack Obama, U.S. President, United States, some benefits_
+_Context: Barack Obama, U.S., U.S. President, some benefits_
 
 ##### Kitty Ussher
 ### [ Kitty Ussher resigns as Exchequer Secretary to the Treasury and announces that she will stand down as Member of Parliament for Burnley at the next general election following involvement in the United Kingdom Parliamentary expenses scandal. ](/news/2009/06/17/kitty-ussher-resigns-as-exchequer-secretary-to-the-treasury-and-announces-that-she-will-stand-down-as-member-of-parliament-for-burnley-at-t.md)

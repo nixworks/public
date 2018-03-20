@@ -11,9 +11,9 @@ _Context: Kwangmyongsong-2, North Korea, Taepodong-2, ballistic missile_
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League to South Africa. ](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.md)
 _Context: Board of Control for Cricket, India, Indian Premier League, South Africa, win_
 
-##### United States
+##### U.S.
 ### [ A United States Air Force F-22 Raptor crashes near Edwards AF Base in California, killing its pilot. ](/news/2009/03/25/a-united-states-air-force-f-22-raptor-crashes-near-edwards-af-base-in-california-killing-its-pilot.md)
-_Context: California, Edwards Air Force Base, U.S. Air Force, United States, incidents, most advanced fighter jets, pilot_
+_Context: California, Edwards Air Force Base, U.S., U.S. Air Force, incidents, most advanced fighter jets, pilot_
 
 ##### Sweden
 ### [ Sweden's Parliament will abolish the 50-ore coin on September 30, 2010. ](/news/2009/03/25/sweden-s-parliament-will-abolish-the-50-apre-coin-on-september-30-2010.md)

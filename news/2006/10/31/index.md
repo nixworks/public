@@ -13,7 +13,7 @@ _Context: 2000 coup, George Speight, Laisenia Qarase, Prime Minister, Suva, Vore
 
 ##### Chenagai airstrike
 ### [ Chenagai airstrike: Pakistani officials confirm that a strike on a madrassah was based on United States intelligence that senior members of al-Qaeda were hiding there. The attack has generated protests by religious and tribal leaders in Pakistan. ](/news/2006/10/31/chenagai-airstrike-pakistani-officials-confirm-that-a-strike-on-a-madrassah-was-based-on-united-states-intelligence-that-senior-members-of.md)
-_Context: Chenagai airstrike, Pakistan, United States, al-Qaeda, madrassah_
+_Context: Chenagai airstrike, Pakistan, U.S., al-Qaeda, madrassah_
 
 ##### Taliban insurgency
 ### [ Taliban insurgency: Suspected militants attack a convoy of NATO troops in Afghanistan's eastern province of Nuristan killing three soldiers. ](/news/2006/10/31/taliban-insurgency-suspected-militants-attack-a-convoy-of-nato-troops-in-afghanistan-s-eastern-province-of-nuristan-killing-three-soldiers.md)
@@ -39,9 +39,9 @@ _Context: Borat, Democratic Choice of Kazakhstan, Galymzhan Zhakiyanov, Governme
 ### [ Hassan Nasrallah, the Secretary-General of Hezbollah, says that it has started negotiating with Israel on prisoner exchange. ](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.md)
 _Context: Hassan Nasrallah, Hezbollah, Israel, Secretary-General_
 
-##### United States
+##### U.S.
 ### [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md)
-_Context: United States, cigarette, tobacco_
+_Context: U.S., cigarette, tobacco_
 
 ##### Esperanza Fire
 ### [ California authorities arrest a man who is suspected of intentionally starting two wildfires this summer and is considered a person of interest in the Esperanza Fire. A fifth firefighter dies as a result of injuries obtained fighting the Esperanza Fire near Palm Springs, California started by arson. ](/news/2006/10/31/california-authorities-arrest-a-man-who-is-suspected-of-intentionally-starting-two-wildfires-this-summer-and-is-considered-a-person-of-inte.md)

@@ -15,9 +15,9 @@ Second generation Labor MP and new party leader Annastacia Palaszczuk has set he
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)
 African delegation set to arrive to press for restoration of democracy, as thousands march in support of mutineers.
 
-##### United States
+##### U.S.
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)

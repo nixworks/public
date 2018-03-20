@@ -9,7 +9,7 @@ The US space shuttle Atlantis has touched down in California&#039;s Mojave Deser
 
 ##### Director
 ### [ Director Michael Hayden of the United States Central Intelligence Agency announces plans to declassify documents detailing illegal activities performed by the agency between 1950 and 1980, including assassination plots, domestic spying and wiretapping, kidnapping, and human experiments. ](/news/2007/06/22/director-michael-hayden-of-the-united-states-central-intelligence-agency-announces-plans-to-declassify-documents-detailing-illegal-activiti.md)
-_Context: 1950, 1980, CIA, Director, Michael Hayden, United States, assassination, domestic spying, family jewels, human experiment, wiretapped_
+_Context: 1950, 1980, CIA, Director, Michael Hayden, U.S., assassination, domestic spying, family jewels, human experiment, wiretapped_
 
 ##### 2007 Israel-Gaza conflict
 ### [ 2007 Israel-Gaza conflict: IDF soldiers near Hebron shoot an unarmed Palestinian, who later died. The IDF states that the man was trying to run through the gate; the soldiers yelled for him to halt, which he did not; they then shot the man. ](/news/2007/06/22/2007-israel-gaza-conflict-idf-soldiers-near-hebron-shoot-an-unarmed-palestinian-who-later-died-the-idf-states-that-the-man-was-trying-to.md)

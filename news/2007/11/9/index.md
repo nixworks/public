@@ -33,7 +33,7 @@ _Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San 
 
 ##### China
 ### [ The People's Republic of China suspends the export of toys covered in a toxic chemical 1,4-butanediol that have been recalled in both the United States and China. ](/news/2007/11/9/the-people-s-republic-of-china-suspends-the-export-of-toys-covered-in-a-toxic-chemical-1-4-butanediol-that-have-been-recalled-in-both-the-u.md)
-_Context: 1,4-butanediol, China, China, United States, toy_
+_Context: 1,4-butanediol, China, China, U.S., toy_
 
 ##### Constitutional amendments
 ### [ Student protests against the 2007 Venezuelan constitutional referendum continue. Five people are wounded in Mrida in a clash between rival student groups. ](/news/2007/11/9/student-protests-against-the-2007-venezuelan-constitutional-referendum-continue-five-people-are-wounded-in-merida-in-a-clash-between-rival.md)

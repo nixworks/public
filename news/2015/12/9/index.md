@@ -11,7 +11,7 @@ Indonesia has successfully pulled off its first regional elections that were hel
 ### [The Republican Speaker of the House Paul Ryan and Senate Majority Leader Mitch McConnell distance the party from presidential candidate Donald Trump's recent comments calling for a ban on Muslims entering the United States. While not entering into a political fray - in view of U.S. partnerships with Muslim nations and Muslim personnel serving in the United States Armed Forces - the Pentagon press secretary calls anti-Muslim rhetoric a national security threat. ](/news/2015/12/9/the-republican-speaker-of-the-house-paul-ryan-and-senate-majority-leader-mitch-mcconnell-distance-the-party-from-presidential-candidate-dona.md)
 Pentagon Press Secretary Peter Cook insists that the U.S. is not at war with Islam.
 
-##### United States
+##### U.S.
 ### [A group of mayors and officials from American cities such as Philadelphia and New York City say that if they had their way Donald Trump would be banned from their cities for his comments on Muslims. ](/news/2015/12/9/a-group-of-mayors-and-officials-from-american-cities-such-as-philadelphia-and-new-york-city-say-that-if-they-had-their-way-donald-trump-woul.md)
 While city officials acknowledged that they can&#x27;t legally stop Trump from traveling into their communities, many joined the backlash against him.
 
@@ -23,9 +23,9 @@ _Context: Anti-corruption campaign in China, Chinese state television, Guo Youmi
 ### [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-nakam.md)
 The AFP raids the home of a Sydney-based digital-currency entrepreneur linked to the creation of Bitcoin.
 
-##### United States
+##### U.S.
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ##### Floods in the United States: 2001-present
 ### [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md)

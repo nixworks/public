@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2015 Atlantic hurricane season
 ### [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md)
-_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, NTSB, United States, voyage data recorder_
+_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, NTSB, U.S., voyage data recorder_
 
 ##### 2015 North Indian Ocean cyclone season
 ### [ Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
@@ -35,11 +35,11 @@ Reports suggest at least 71 people have died from drowning, collapsing walls and
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
 _Context: China, Zhejiang_
 
-##### United States
+##### U.S.
 ### [American, British-based telecommunications and television company Liberty Global announces a GBP3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-agbp3-5bn-us-5-3bn-deal-to-buy-british-multin.md)
 Liberty Global announces &pound;3.5bn deal to buy London-listed cable provider as billionaire John Malone plans further expansion in Latin America and the Caribbean
 
-##### United States
+##### U.S.
 ### [In the United States, federal and state authorities announce Education Management Corp., a company that enrolls more than 100,000 students at North American for-profit trade schools and colleges, agrees to pay $95.5 million to settle claims it illegally paid recruiters and exaggerated the career-placement abilities of its schools. EDMC also agreed to forgive $102.8 million in loans made to more than 80,000 former students. ](/news/2015/11/16/in-the-united-states-federal-and-state-authorities-announce-education-management-corp-a-company-that-enrolls-more-than-100-000-students-a.md)
 Federal and state authorities announced a $95.5-million settlement Monday with the nation&apos;s second-largest chain of for-profit colleges.
 

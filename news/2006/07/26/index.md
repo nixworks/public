@@ -11,9 +11,9 @@ Formats: [HTML](2006/07/26/index.html)  [JSON](2006/07/26/index.json)  [XML](200
 ### [ 2006 Kodori Gorge clashes: Georgian forces attack surrounded rebels after an ultimatum expires. ](/news/2006/07/26/2006-kodori-gorge-clashes-georgian-forces-attack-surrounded-rebels-after-an-ultimatum-expires.md)
 _Context:  Georgian, 2006 Kodori Gorge clashes_
 
-##### United States
+##### U.S.
 ### [ United States National Park Service director Fran P. Mainella announces her resignation. ](/news/2006/07/26/united-states-national-park-service-director-fran-p-mainella-announces-her-resignation.md)
-_Context: Fran P. Mainella, National Park Service, United States_
+_Context: Fran P. Mainella, National Park Service, U.S._
 
 ##### Fragments of a Psalter
 ### [ Fragments of a Psalter, a prayer book, are found in a bog in Ireland, where it has been for an estimated 1200 years. ](/news/2006/07/26/fragments-of-a-psalter-a-prayer-book-are-found-in-a-bog-in-ireland-where-it-has-been-for-an-estimated-1200-years.md)

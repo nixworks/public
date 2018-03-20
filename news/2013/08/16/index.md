@@ -9,7 +9,7 @@ _Context: Ada, Oklahoma, East Central University, Oklahoma, accessory to murder 
 
 ##### Area 51
 ### [The infamous Area 51 is officially acknowledged by the United States. ](/news/2013/08/16/the-infamous-area-51-is-officially-acknowledged-by-the-united-states.md)
-_Context: Area 51, United States_
+_Context: Area 51, U.S._
 
 ##### Ali Akbar Salehi
 ### [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md)

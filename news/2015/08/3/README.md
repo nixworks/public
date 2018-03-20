@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/3/index.html)  [JSON](2015/08/3/index.json)  [XML](2015/
 
 ##### 2012 Aurora shooting
 ### [In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-still-eligible-for-the-d.md)
-_Context: 2012 Aurora shooting, Capital punishment in the United States, James Eagan Holmes_
+_Context: 2012 Aurora shooting, James Eagan Holmes, death penalty_
 
 ##### India
 ### [After days of heavy rain, a fifty-year-old building collapses in the Indian city of Thane killing at least twelve people with many more feared trapped in the rubble. ](/news/2015/08/3/after-days-of-heavy-rain-a-fifty-year-old-building-collapses-in-the-indian-city-of-thane-killing-at-least-twelve-people-with-many-more-fear.md)

@@ -9,7 +9,7 @@ _Context: International Union of Pure and Applied Chemistry, atomic number, fina
 
 ##### Governor
 ### [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md)
-_Context: Governor, John Kasich, Ohio, United States, medical marijuana_
+_Context: Governor, John Kasich, Ohio, U.S., medical marijuana_
 
 ##### Eritrea
 ### [Eritrean Mered Medhanie, aka "The General", leader of one of the largest criminal operations unsafely smuggling migrants from Africa to Europe for up to EUR5,000 (GBP3,900; $5,680), is extradited to Italy. Police say in one attempt at least 359 migrants died when their boat sank near the Italian island of Lampedusa in October 2013. ](/news/2016/06/8/eritrean-mered-medhanie-aka-the-general-leader-of-one-of-the-largest-criminal-operations-unsafely-smuggling-migrants-from-africa-to-euro.md)

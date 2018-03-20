@@ -25,7 +25,7 @@ Looking at the GameStop sales of Grand Theft Auto IV it may look like the Xbox &
 
 ##### Economy of the United States
 ### [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-20.md)
-_Context: Case-Shiller index, Economy of the United States, Standard & Poor's, United States, real estate pricing_
+_Context: Case-Shiller index, Economy of the United States, Standard & Poor's, U.S., real estate pricing_
 
 ## [Previous Day...](/news/2008/04/28/index.md)
 

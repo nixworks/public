@@ -11,9 +11,9 @@ _Context: Politics of Zimbabwe, Teacher, Zimbabwe, strike_
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
 _Context: France, French President, Italy, Nicolas Sarkozy, Prime Minister of Italy, Silvio Berlusconi, nuclear power_
 
-##### United States
+##### U.S.
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, Japan, Japanese Prime Minister, Taro Aso, U.S. President, United States, protectionism, stimulating economic demand_
+_Context: Barack Obama, Japan, Japanese Prime Minister, Taro Aso, U.S., U.S. President, protectionism, stimulating economic demand_
 
 ##### Heavy fighting
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
@@ -21,7 +21,7 @@ _Context: Mogadishu, Somalia, heavy fighting_
 
 ##### Iraq
 ### [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md)
-_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, United States, United States military personnel, interpreter_
+_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, U.S., United States military personnel, interpreter_
 
 ##### Garda
 ### [ Garda from Ireland's Criminal Investigation Bureau conduct a search for illegal documentation at the Anglo Irish Bank headquarters in Saint Stephen's Green, Dublin. ](/news/2009/02/24/gardai-from-ireland-s-criminal-investigation-bureau-conduct-a-search-for-illegal-documentation-at-the-anglo-irish-bank-headquarters-in-sain.md)
@@ -49,7 +49,7 @@ _Context: Crown Princess, Crown Princess Victoria, Daniel Westling, Sweden, enga
 
 ##### Shooting
 ### [ Six people and an infant are injured in a shooting during Mardi Gras in New Orleans, United States. ](/news/2009/02/24/six-people-and-an-infant-are-injured-in-a-shooting-during-mardi-gras-in-new-orleans-united-states.md)
-_Context: Mardi Gras, New Orleans, United States, shooting_
+_Context: Mardi Gras, New Orleans, U.S., shooting_
 
 ##### Iraq
 ### [ Iraq's National Museum reopens for the first time since being looted during the U.S. Armed Forces' invasion in 2003. ](/news/2009/02/24/iraq-s-national-museum-reopens-for-the-first-time-since-being-looted-during-the-u-s-armed-forces-invasion-in-2003.md)
@@ -59,7 +59,7 @@ Minister says only fraction of items stolen following US-ivasion have been retur
 ### [ Two people are killed and 28 injured in an apartment-building fire in New York City's Chinatown. ](/news/2009/02/24/two-people-are-killed-and-28-injured-in-an-apartment-building-fire-in-new-york-city-s-chinatown.md)
 _Context: Chinatown, New York City, apartment-building_
 
-##### United States
+##### U.S.
 ### [ The U.S. Senate confirms Hilda Solis as the Secretary of Labor. ](/news/2009/02/24/the-u-s-senate-confirms-hilda-solis-as-the-secretary-of-labor.md)
 Earlier we reported that the Senate would hold a vote to cut off debate today on the nomination of Rep. Hilda Solis, D-Calif., as secretary of Labor. Now comes word that senators have reached an agreement to avoid that and...
 

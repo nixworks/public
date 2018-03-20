@@ -43,7 +43,7 @@ Council asks UN secretary general to present options within 15 days for police d
 ### [Austria plans to deploy soldiers on its border with Italy to stem an expected increase in migrants trying to get to northern Europe, according to Austrian Defence Minister Hans Peter Doskozil. "As the EU's external borders are not yet effectively protected, Austria will soon ramp up strict border controls. That means massive border controls on the Brenner Pass, and with soldiers," Doskozil told German daily newspaper "Die Welt". ](/news/2016/04/2/austria-plans-to-deploy-soldiers-on-its-border-with-italy-to-stem-an-expected-increase-in-migrants-trying-to-get-to-northern-europe-accordi.md)
 Austria plans to deploy soldiers at the Brenner border with Italy to stem an expected increase in migrants trying to get to northern Europe, Defence Minister Hans Peter Doskozil told news outlets on Saturday.
 
-##### United States
+##### U.S.
 ### [In the United States, a Lancair IV plane crashes into a car stopped along a highway, 50 miles north of San Diego, California, killing car passenger Antoinette "Toni" Frances Isbelle, a member of the WFTDA's San Diego Starlettes roller derby team. Five others, including the pilot, are hospitalized. ](/news/2016/04/2/in-the-united-states-a-lancair-iv-plane-crashes-into-a-car-stopped-along-a-highway-50-miles-north-of-san-diego-california-killing-car-pa.md)
 A small plane landed on northbound Interstate 15 in Fallbrook Saturday morning and slammed into the back of a car, killing a woman in the car’s backseat and injuring five others, including the pilot, officials said.
 

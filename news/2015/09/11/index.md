@@ -31,7 +31,7 @@ A special court convicts 12 out of 13 men accused of planning bombings on commut
 ### [Mark Karpeles, the CEO of defunct Bitcoin exchange Mt. Gox, is charged with embezzlement in Japan. Karpeles asserts his own innocence. ](/news/2015/09/11/mark-karpela-s-the-ceo-of-defunct-bitcoin-exchange-mt-gox-is-charged-with-embezzlement-in-japan-karpeles-asserts-his-own-innocence.md)
 _Context: Bitcoin, Japan, Mark Karpeles, Mt. Gox, embezzlement_
 
-##### United States
+##### U.S.
 ### [Defense lawyers say the United States continues to block the release of 116 pages of the lawyers' notes detailing the torture that Guantanimo Bay prisoner Abu Zubaydah says he experienced in CIA custody. Zubaydah has yet to be charged with any crime despite being held since 2002. ](/news/2015/09/11/defense-lawyers-say-the-united-states-continues-to-block-the-release-of-116-pages-of-the-lawyers-notes-detailing-the-torture-that-guantanim.md)
 Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA custody, remain classified.
 

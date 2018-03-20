@@ -45,7 +45,7 @@ _Context: Japan Airlines_
 
 ##### North American International Auto Show
 ### [The North American International Auto Show (NAIAS) is held in Detroit, Michigan, US. Green vehicles are seen as a response to the late 2000s recession. Automotive News World Congress is held at the Renaissance Center. ](/news/2010/01/13/the-north-american-international-auto-show-naias-is-held-in-detroit-michigan-us-green-vehicles-are-seen-as-a-response-to-the-late-2000s.md)
-_Context: Detroit, Green vehicle, Michigan, North American International Auto Show, Renaissance Center, United States, late 2000s recession_
+_Context: Detroit, Green vehicle, Michigan, North American International Auto Show, Renaissance Center, U.S., late 2000s recession_
 
 ##### United States trade deficit
 ### [The United States trade deficit rose 9.7% to 36.4 billion US dollars in November. ](/news/2010/01/13/the-united-states-trade-deficit-rose-9-7-to-36-4-billion-us-dollars-in-november.md)

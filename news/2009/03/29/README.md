@@ -17,7 +17,7 @@ _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxfo
 
 ##### Kills
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: Carthage, North Carolina, United States, kills, nursing home_
+_Context: Carthage, North Carolina, U.S., kills, nursing home_
 
 ##### Jenson Button
 ### [ Jenson Button of Brawn GP wins Formula One's 2009 Australian Grand Prix. ](/news/2009/03/29/jenson-button-of-brawn-gp-wins-formula-one-s-2009-australian-grand-prix.md)

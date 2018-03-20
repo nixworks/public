@@ -39,9 +39,9 @@ _Context: Mars, Planum Australe, planet, polar ice cap, south pole, water_
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
 _Context: Australia, France, Willie Brigitte, jail_
 
-##### United States
+##### U.S.
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
+_Context: Baghdad, Iraq, Iskandariya, U.S., car bomb_
 
 ##### Hungary
 ### [ Hungarian police use water cannon and tear gas to disperse a crowd of anti-government protestors in Budapest. ](/news/2007/03/15/hungarian-police-use-water-cannon-and-tear-gas-to-disperse-a-crowd-of-anti-government-protestors-in-budapest.md)

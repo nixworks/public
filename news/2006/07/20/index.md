@@ -7,7 +7,7 @@ Formats: [HTML](2006/07/20/index.html)  [JSON](2006/07/20/index.json)  [XML](200
 ### [ The opposition Cook Islands Party wins a byelection in Matavera, leaving the Government without a majority. Prime Minister Jim Marurai is not conceding defeat. ](/news/2006/07/20/the-opposition-cook-islands-party-wins-a-byelection-in-matavera-leaving-the-government-without-a-majority-prime-minister-jim-marurai-is-n.md)
 _Context: Cook Islands Party, Jim Marurai, Prime Minister_
 
-##### United States
+##### U.S.
 ### [ The U.S. grand jury investigating baseball player Barry Bonds for possible perjury and tax evasion charges is set to expire today. It was extended and Bonds was not indicted. Greg Anderson, Bonds' trainer, was released from a federal prison in Dublin, California, after having been jailed for refusing to give evidence. ](/news/2006/07/20/the-u-s-grand-jury-investigating-baseball-player-barry-bonds-for-possible-perjury-and-tax-evasion-charges-is-set-to-expire-today-it-was-e.md)
 Get local Bay Area news plus Bay Area breaking news, business, green, national, and world news from NBC Bay Area.
 

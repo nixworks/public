@@ -43,7 +43,7 @@ _Context: Asia Pacific Economic Cooperation, Free Trade Area of the Asia Pacific
 ### [The Organization of American States urges Nicaragua and Costa Rica to withdraw their security forces from an island in the San Juan river. Google is blamed for the dispute and revises its maps. ](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.md)
 The Organisation of American States urges Nicaragua and Costa Rica to withdraw their security forces from a disputed border region.
 
-##### United States
+##### U.S.
 ### [The United States offers Israel 20 F-35s and opposition to anti-Israel resolutions in the UN if Israel agrees to a partial 90-day freeze in building in the West Bank, excluding east Jerusalem. ](/news/2010/11/14/the-united-states-offers-israel-20-f-35s-and-opposition-to-anti-israel-resolutions-in-the-un-if-israel-agrees-to-a-partial-90-day-freeze-in.md)
 US offers incentives for a 90-day building freeze in West Bank, but the proposal does not include East Jerusalem.
 

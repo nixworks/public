@@ -49,7 +49,7 @@ _Context: Finland, National Bank, SKr, Sweden, separation_
 
 ##### U.S. President
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: Barack Obama, George W. Bush, U.S. President, United States, terrorism_
+_Context: Barack Obama, George W. Bush, U.S., U.S. President, terrorism_
 
 ##### British
 ### [ British Member of Parliament John McDonnell (Hayes and Harlington) is suspended after manhandling the ceremonial mace during House of Commons proceedings. ](/news/2009/01/15/british-member-of-parliament-john-mcdonnell-hayes-and-harlington-is-suspended-after-manhandling-the-ceremonial-mace-during-house-of-commo.md)

@@ -15,9 +15,9 @@ _Context: Ethiopia, Meles Zenawi, Somalia, prime minister_
 ### [ Nissan Motor Co. begins recalling over 130,000 vehicles globally including 80,000 in North America because of an ignition key defect. ](/news/2006/10/19/nissan-motor-co-begins-recalling-over-130-000-vehicles-globally-including-80-000-in-north-america-because-of-an-ignition-key-defect.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
-##### United States
+##### U.S.
 ### [ The United States has adopted a document that rejects any proposals to ban space weapons. ](/news/2006/10/19/the-united-states-has-adopted-a-document-that-rejects-any-proposals-to-ban-space-weapons.md)
-_Context: United States, space weapon_
+_Context: U.S., space weapon_
 
 ##### New York City
 ### [ A spokesman for New York Attorney General Eliot Spitzer says that a judge has ordered former New York Stock Exchange Chairman and Chief Executive Richard Grasso to repay part of his deferred compensation pay package. ](/news/2006/10/19/a-spokesman-for-new-york-attorney-general-eliot-spitzer-says-that-a-judge-has-ordered-former-new-york-stock-exchange-chairman-and-chief-exe.md)
@@ -49,7 +49,7 @@ _Context: Baghdad, Iraqi insurgency, Operation Together Forward, United States s
 
 ##### U.S. federal court
 ### [ U.S. District Judge Royce Lamberth rules that Mohammad Munaf, a United States citizen, can be transferred to Iraqi authorities to face a death sentence over the kidnapping of three Romanian journalists in 2005 around Baghdad. ](/news/2006/10/19/u-s-district-judge-royce-lamberth-rules-that-mohammad-munaf-a-united-states-citizen-can-be-transferred-to-iraqi-authorities-to-face-a-de.md)
-_Context: 2005, Baghdad, Iraq, Mohammad Munaf, Royce Lamberth, U.S. federal court, United States, sentenced to death_
+_Context: 2005, Baghdad, Iraq, Mohammad Munaf, Royce Lamberth, U.S., U.S. federal court, sentenced to death_
 
 ## [Previous Day...](/news/2006/10/18/index.md)
 

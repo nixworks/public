@@ -31,7 +31,7 @@ _Context: Iraq, Islamic Dawa Party, Saddam Hussein, Tariq Aziz_
 ### [Hungarian-born multibillionaire George Soros donates $1 million to the Drug Policy Alliance to fund California's Proposition 19 in the upcoming November 2, 2010 elections that would legalize marijuana in the state if passed. ](/news/2010/10/26/hungarian-born-multibillionaire-george-soros-donates-1-million-to-the-drug-policy-alliance-to-fund-california-s-proposition-19-in-the-upcom.md)
 _Context: California, Drug Policy Alliance, George Soros, Hungary, November 2, 2010 elections, Proposition 19, cannabis_
 
-##### United States
+##### U.S.
 ### [The United States has fallen to a new low of 22nd place in Transparency International's rating of the least corrupt nations, noting various financial scandals and a lack of regulation leading to power being bought. ](/news/2010/10/26/the-united-states-has-fallen-to-a-new-low-of-22nd-place-in-transparency-international-s-rating-of-the-least-corrupt-nations-noting-various.md)
 The United States has dropped out of the &quot;top 20&quot; in a global league table of least corrupt nations, tarnished by financial scandals and the influence of money in politics, Transparency International said on Tuesday.
 
@@ -67,9 +67,9 @@ _Context: Cameroon, cholera_
 ### [After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his-visit-program-to-china-and-vietnam-indonesian-public-welf.md)
 A tsunami that pounded remote islands in western Indonesia following an earthquake off the coast of Sumatra killed more than 100 people, officials said on Tuesday, and hundreds more were missing.
 
-##### United States
+##### U.S.
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
-_Context: Morton, United States, Washington_
+_Context: Morton, U.S., Washington_
 
 ##### Economy of the United Kingdom
 ### [The UK economy grew by 0.8% in the third quarter, higher than expectations, but lower than second quarter's growth rate of 1.2%. ](/news/2010/10/26/the-uk-economy-grew-by-0-8-in-the-third-quarter-higher-than-expectations-but-lower-than-second-quarter-s-growth-rate-of-1-2.md)

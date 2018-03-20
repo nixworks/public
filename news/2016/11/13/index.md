@@ -29,7 +29,7 @@ _Context: Maute group, Moro conflict, Philippine, Rodrigo Duterte, habeas corpus
 
 ##### Australia-United States relations
 ### [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md)
-_Context: Australia, Australia-United States relations, Manus Island, Nauru, Papua New Guinea, United States_
+_Context: Australia, Australia-United States relations, Manus Island, Nauru, Papua New Guinea, U.S._
 
 ##### Magnitude
 ### [A 6.2 magnitude earthquake strikes northwest Argentina, near Chilecito in La Rioja Province. No reports of damages or injuries. ](/news/2016/11/13/a-6-2-magnitude-earthquake-strikes-northwest-argentina-near-chilecito-in-la-rioja-province-no-reports-of-damages-or-injuries.md)

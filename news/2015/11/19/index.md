@@ -3,9 +3,9 @@ Formats: [HTML](2015/11/19/index.html)  [JSON](2015/11/19/index.json)  [XML](201
 
 ## [2015-11-19](/news/2015/11/19/index.md)
 
-##### United States
+##### U.S.
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: Barack Obama, Iraq, Syria, United States, United States House of Representatives, United States Senate, veto_
+_Context: Barack Obama, Iraq, Syria, U.S., United States House of Representatives, United States Senate, veto_
 
 ##### Peter Robinson
 ### [Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. ](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.md)

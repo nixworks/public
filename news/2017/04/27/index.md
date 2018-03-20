@@ -25,7 +25,7 @@ Sky sources say the 27-year-old man, who was carrying a rucksack containing kniv
 
 ##### South Korea-United States relations
 ### [A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. ](/news/2017/04/27/a-south-korean-adviser-says-it-is-impossible-for-south-korea-to-purchase-the-thaad-missile-complex-since-control-of-its-operation-would-re.md)
-_Context: Donald Trump, South Korea, South Korea-United States relations, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, United States_
+_Context: Donald Trump, South Korea, South Korea-United States relations, U.S., U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
 
 ##### Russian Navy spy ship
 ### [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md)

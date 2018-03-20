@@ -7,9 +7,9 @@ Formats: [HTML](2009/04/5/index.html)  [JSON](2009/04/5/index.json)  [XML](2009/
 ### [ The second round of Macedonia's presidential election takes place. ](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.md)
 _Context: Republic of Macedonia, election, presidential, second round_
 
-##### United States
+##### U.S.
 ### [ U.S. President Barack Obama announces his plan for worldwide nuclear disarmament. ](/news/2009/04/5/u-s-president-barack-obama-announces-his-plan-for-worldwide-nuclear-disarmament.md)
-_Context: Barack Obama, U.S. President, United States, free, nuclear warheads_
+_Context: Barack Obama, U.S., U.S. President, free, nuclear warheads_
 
 ##### Strategic Command systems
 ### [ North American Aerospace Defense Command and United States Northern Command report that North Korea's Bright Star-2 communications satellite did not reach Earth's orbit. ](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.md)

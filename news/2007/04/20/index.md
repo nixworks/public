@@ -27,9 +27,9 @@ _Context: Ethiopia, Mogadishu, heavy clashes_
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: U.S. state, Virginia, day of mourning, largest mass shooting in US history_
 
-##### United States
+##### U.S.
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, Iran, United States_
+_Context: India, Iran, U.S._
 
 ##### India
 ### [ India and the People's Republic of China resume talks to resolve border disputes. ](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.md)

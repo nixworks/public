@@ -3,7 +3,7 @@ Formats: [HTML](2015/12/23/index.html)  [JSON](2015/12/23/index.json)  [XML](201
 
 ## [2015-12-23](/news/2015/12/23/index.md)
 
-##### United States
+##### U.S.
 ### [ The United States National Center for Health Statistics reports the rate of twin births has hit an historic high. Researchers say the increase in twin births may be affected by changes in reproductive technology, including in vitro fertilization, and by more women giving birth later in life--a time when the occurrence of twins is higher. ](/news/2015/12/23/the-united-states-national-center-for-health-statistics-reports-the-rate-of-twin-births-has-hit-an-historic-high-researchers-say-the-incre.md)
 A new government report released by the Centers for Disease Control and Prevention&#039;s National Center for Health Statistics shows that the rate of twin births has hit an historic high.
 

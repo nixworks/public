@@ -33,7 +33,7 @@ At least 18 people killed after two trains collide southwest of Cairo.
 
 ##### North Korea
 ### [ Senior envoys from North Korea and the United States hold rare talks on North Korea's nuclear programme in New York City. ](/news/2009/10/24/senior-envoys-from-north-korea-and-the-united-states-hold-rare-talks-on-north-korea-s-nuclear-programme-in-new-york-city.md)
-_Context: New York City, North Korea, North Korea's nuclear program, United States_
+_Context: New York City, North Korea, North Korea's nuclear program, U.S._
 
 ##### Rosanna Al-Yami
 ### [ Rosanna Al-Yami, a female journalist in Saudi Arabia, is sentenced to sixty lashes and a two-year travel ban for her involvement in a controversial sex programme. ](/news/2009/10/24/rosanna-al-yami-a-female-journalist-in-saudi-arabia-is-sentenced-to-sixty-lashes-and-a-two-year-travel-ban-for-her-involvement-in-a-contr.md)

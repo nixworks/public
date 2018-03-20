@@ -3,9 +3,9 @@ Formats: [HTML](2009/12/12/index.html)  [JSON](2009/12/12/index.json)  [XML](200
 
 ## [2009-12-12](/news/2009/12/12/index.md)
 
-##### United States
+##### U.S.
 ### [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md)
-_Context: Blackwater Worldwide, CIA, United States, drones launch_
+_Context: Blackwater Worldwide, CIA, U.S., drones launch_
 
 ##### Golf
 ### [ Golfer Tiger Woods announces he is taking an indefinite break from the sport after a scandal over his infidelity in order to focus on "being a better husband, father, and person". ](/news/2009/12/12/golfer-tiger-woods-announces-he-is-taking-an-indefinite-break-from-the-sport-after-a-scandal-over-his-infidelity-in-order-to-focus-on-bein.md)

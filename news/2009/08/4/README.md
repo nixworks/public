@@ -63,7 +63,7 @@ Police have conducted mass counter terrorism raids across Melbourne.
 ### [ The Russian and U.S. Presidents discuss in a phone conversation the Georgian situation and "the need to decrease tensions in the region," America's White House claims. ](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region-a.md)
 _Context: Georgia, Russia, White House_
 
-##### United States
+##### U.S.
 ### [ Former United States President Bill Clinton arrives in Pyongyang, North Korea, and secures the freedom of two detained American journalists, Laura Ling and Euna Lee. ](/news/2009/08/4/former-united-states-president-bill-clinton-arrives-in-pyongyang-north-korea-and-secures-the-freedom-of-two-detained-american-journalists.md)
 Ex-US president is in Pyongyang in bid to negotiate release of jailed US reporters.
 

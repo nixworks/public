@@ -63,9 +63,9 @@ Gunmen in Nigeria free more than 100 inmates from a jail in the centre of the co
 ### [The Syrian Army attacks the Free Syrian Army positions in the town of Deraa. ](/news/2012/02/16/the-syrian-army-attacks-the-free-syrian-army-positions-in-the-town-of-deraa.md)
 _Context: Deraa, Free Syrian Army, Syrian Army_
 
-##### United States
+##### U.S.
 ### [A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. ](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.md)
-_Context: Pakistan, Spalga, United States, drone attack, north Waziristan_
+_Context: Pakistan, Spalga, U.S., drone attack, north Waziristan_
 
 ## [Previous Day...](/news/2012/02/15/index.md)
 

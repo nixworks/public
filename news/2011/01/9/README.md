@@ -37,7 +37,7 @@ US secretary of state says there must be continued international pressure on Ira
 
 ##### Iceland
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: Birgitta Jonsdottir, Iceland, United States_
+_Context: Birgitta Jonsdottir, Iceland, U.S._
 
 ##### Israel
 ### [Israeli bulldozers begin demolishing a 1930s East Jerusalem hotel to build 20 new settler homes, "destroying all the US efforts and ending any possibility of a return to negotiations" according to a spokesperson for Palestinian President Mahmoud Abbas. ](/news/2011/01/9/israeli-bulldozers-begin-demolishing-a-1930s-east-jerusalem-hotel-to-build-20-new-settler-homes-destroying-all-the-us-efforts-and-ending-a.md)

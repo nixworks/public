@@ -45,7 +45,7 @@ A fire that swept through a South Korean indoor shooting range killed at least 1
 
 ##### Ultra-orthodox
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
-_Context: Intel, Israel, Jew, Sabbath, United States, ultra-orthodox_
+_Context: Intel, Israel, Jew, Sabbath, U.S., ultra-orthodox_
 
 ##### Saudi Arabia
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)

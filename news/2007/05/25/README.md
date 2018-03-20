@@ -29,7 +29,7 @@ _Context: Japan, Kyodo, North Korea, Sea of Japan, fires seven more missiles_
 
 ##### British
 ### [ Six foreign oil workers (two British, three American and one South African) have been kidnapped in Nigeria. ](/news/2007/05/25/six-foreign-oil-workers-two-british-three-american-and-one-south-african-have-been-kidnapped-in-nigeria.md)
-_Context: British, South African, United States_
+_Context: British, South African, U.S._
 
 ##### Widow
 ### [ The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the murder of her husband. ](/news/2007/05/25/the-widow-of-anthony-ashley-cooper-10th-earl-of-shaftesbury-and-her-brother-are-found-guilty-of-the-murder-of-her-husband.md)

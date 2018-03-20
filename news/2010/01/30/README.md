@@ -17,7 +17,7 @@ _Context: Google, Internet Explorer 6, cyber attack_
 
 ##### China
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: China, Taiwan, United States_
+_Context: China, Taiwan, U.S._
 
 ##### Central Bank
 ### [The President of the Central Bank of Argentina resigns after a row with the country's President, Cristina Fernndez de Kirchner. ](/news/2010/01/30/the-president-of-the-central-bank-of-argentina-resigns-after-a-row-with-the-country-s-president-cristina-fernandez-de-kirchner.md)
@@ -43,7 +43,7 @@ Chinese police have detained two people after a domestic flight from the restles
 ### [Tunisian journalist Taoufik Ben Brik, who criticised the country's leader and who is, according to Amnesty International, a "prisoner of conscience", loses his appeal against a six-month prison sentence for assault. ](/news/2010/01/30/tunisian-journalist-taoufik-ben-brik-who-criticised-the-country-s-leader-and-who-is-according-to-amnesty-international-a-prisoner-of-con.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
-##### United States
+##### U.S.
 ### [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md)
 The United States has suspended its evacuations of critically injured Haitians until a dispute over who will pay for their care in Florida and other states is settled.
 

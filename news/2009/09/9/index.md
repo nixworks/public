@@ -41,9 +41,9 @@ Flash floods killed 31 people in northwest Turkey, sweeping through the city of 
 ### [ Aeromxico Flight 576, a Boeing 737 carrying 104 people, is hijacked shortly after take-off from Cancn, and forced to land at Mexico City International Airport. ](/news/2009/09/9/aeromexico-flight-576-a-boeing-737-carrying-104-people-is-hijacked-shortly-after-take-off-from-cancun-and-forced-to-land-at-mexico-city.md)
 _Context: Aeromxico Flight 576, Boeing 737, Cancn, Mexico City International Airport_
 
-##### United States
+##### U.S.
 ### [ US Representative Joe Wilson (R-SC) interrupts President Barack Obama's health care speech to the Congress with an audible shout of "You lie!" ](/news/2009/09/9/us-representative-joe-wilson-r-sc-interrupts-president-barack-obama-s-health-care-speech-to-the-congress-with-an-audible-shout-of-you-li.md)
-_Context: Barack Obama, Congress, Joe Wilson, Representative, Republican, South Carolina, United States_
+_Context: Barack Obama, Congress, Joe Wilson, Representative, Republican, South Carolina, U.S._
 
 ## [Previous Day...](/news/2009/09/8/index.md)
 

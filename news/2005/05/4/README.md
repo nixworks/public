@@ -3,9 +3,9 @@ Formats: [HTML](2005/05/4/index.html)  [JSON](2005/05/4/index.json)  [XML](2005/
 
 ## [2005-05-4](/news/2005/05/4/index.md)
 
-##### United States
+##### U.S.
 ### [ U.S. firefighter Donald Herbert, blind and virtually silent due to brain injury since 1995, recovers unexpectedly, regaining the powers of speech. ](/news/2005/05/4/u-s-firefighter-donald-herbert-blind-and-virtually-silent-due-to-brain-injury-since-1995-recovers-unexpectedly-regaining-the-powers-of.md)
-_Context: 1995, Donald Herbert, United States, brain injury, firefighter_
+_Context: 1995, Donald Herbert, U.S., brain injury, firefighter_
 
 ##### Italy
 ### [ Italy's supreme court clears three men who had received a life sentence for 1969 bombing in Milan bank. ](/news/2005/05/4/italy-s-supreme-court-clears-three-men-who-had-received-a-life-sentence-for-1969-bombing-in-milan-bank.md)

@@ -13,7 +13,7 @@ Canadian Prime Minister Stephen Harper will be under pressure from opposition la
 
 ##### Secretary of State
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
-_Context: Hillary Clinton, Secretary of State, United States, ambassadors_
+_Context: Hillary Clinton, Secretary of State, U.S., ambassadors_
 
 ##### Elected
 ### [Presidential and parliamentary elections are held in Niger following one year of military rule. ](/news/2011/01/31/presidential-and-parliamentary-elections-are-held-in-niger-following-one-year-of-military-rule.md)
@@ -53,7 +53,7 @@ Oman says it has uncovered a UAE spy network in the Gulf Arab state that targete
 
 ##### European Union
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: Alexander Lukashenko, Belarus, European Union, United States_
+_Context: Alexander Lukashenko, Belarus, European Union, U.S._
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. ](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.md)

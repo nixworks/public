@@ -21,7 +21,7 @@ _Context: Austria, Iran, Syria, Syria peace talks in Vienna, Syrian Civil War, V
 
 ##### Tensions in the region
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: China, European Union, South China Sea, United States, tensions in the region_
+_Context: China, European Union, South China Sea, U.S., tensions in the region_
 
 ##### Shaker Aamer
 ### [Shaker Aamer, the last British resident held at the Guantanamo Bay detention camp, is released. Aamer faces no charges in Britain; Scotland Yard detectives questioned him for three days during his detention. ](/news/2015/10/30/shaker-aamer-the-last-british-resident-held-at-the-guantanamo-bay-detention-camp-is-released-aamer-faces-no-charges-in-britain-scotland.md)

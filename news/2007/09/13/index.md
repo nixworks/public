@@ -37,7 +37,7 @@ _Context: Islamabad, Pakistani troops, Terbella Ghazi_
 
 ##### United Nations General Assembly
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
+_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, U.S., United Nations General Assembly_
 
 ##### Ethiopia
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)

@@ -69,7 +69,7 @@ Three men have been arrested following demonstrations as Iran&#39;s Foreign Mini
 
 ##### Georgia
 ### [The U.S. state of Georgia executes its 24th death row inmate Melbert Ford by lethal injection. ](/news/2010/06/9/the-u-s-state-of-georgia-executes-its-24th-death-row-inmate-melbert-ford-by-lethal-injection.md)
-_Context: Capital punishment in the United States, Georgia, Melbert Ford, death row, lethal injection_
+_Context: Georgia, Melbert Ford, death penalty, death row, lethal injection_
 
 ##### Senegal
 ### [France closes its military bases in Senegal and removes 900 of its 1,200 troops based there. ](/news/2010/06/9/france-closes-its-military-bases-in-senegal-and-removes-900-of-its-1-200-troops-based-there.md)

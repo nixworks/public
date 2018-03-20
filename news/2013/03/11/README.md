@@ -69,7 +69,7 @@ Three earthquakes have shaken Southern California, according to the U.S. Geologi
 
 ##### EA-6B Prowler
 ### [An EA-6B Prowler military plane crashes about 50 miles west of Spokane, Washington, United States, and kills three American Navy crew members. ](/news/2013/03/11/an-ea-6b-prowler-military-plane-crashes-about-50-miles-west-of-spokane-washington-united-states-and-kills-three-american-navy-crew-member.md)
-_Context: American Navy, EA-6B Prowler, Spokane, United States, Washington, crashes_
+_Context: American Navy, EA-6B Prowler, Spokane, U.S., Washington, crashes_
 
 ##### U.S.
 ### [Five U.S. service members are killed after a helicopter crash during a rainstorm in Daman district of Kandahar Province, Afghanistan. ](/news/2013/03/11/five-u-s-service-members-are-killed-after-a-helicopter-crash-during-a-rainstorm-in-daman-district-of-kandahar-province-afghanistan.md)

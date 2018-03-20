@@ -7,9 +7,9 @@ Formats: [HTML](2009/06/5/index.html)  [JSON](2009/06/5/index.json)  [XML](2009/
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
 _Context: David Bain, Dunedin, New Zealand, murdering, retrial_
 
-##### United States
+##### U.S.
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, Kendall Myers, State Department, United States, government, spy_
+_Context: Cuba, Kendall Myers, State Department, U.S., government, spy_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 38 people at a mosque in Upper Dir District, Pakistan. ](/news/2009/06/5/a-suicide-attack-kills-at-least-38-people-at-a-mosque-in-upper-dir-district-pakistan.md)
@@ -51,7 +51,7 @@ The number of people on the Live Register hit 400,000 for the first time last mo
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper "El Pais" for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-peop.md)
 _Context: El Pais, Prime Minister of Italy, Sardinia, Silvio Berlusconi, Spanish, indecent_
 
-##### United States
+##### U.S.
 ### [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md)
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
 

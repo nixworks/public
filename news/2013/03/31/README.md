@@ -17,11 +17,11 @@ Faithful around the world celebrate Easter Sunday with church services and commu
 
 ##### Gang
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: California, Merced, United States, gang_
+_Context: California, Merced, U.S., gang_
 
 ##### District Attorney
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: District Attorney, Kaufman County, Texas, United States_
+_Context: District Attorney, Kaufman County, Texas, U.S._
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North Korea vows to retain and improve its nuclear arsenal, and to additionally develop a civilian nuclear power program. ](/news/2013/03/31/2013-korean-crisis-north-korea-vows-to-retain-and-improve-its-nuclear-arsenal-and-to-additionally-develop-a-civilian-nuclear-power-program.md)

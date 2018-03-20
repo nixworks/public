@@ -27,9 +27,9 @@ _Context: British, MG Rover_
 ### [ A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. ](/news/2005/04/10/a-magnitude-6-1-earthquake-strikes-tokyo-there-are-no-reports-of-serious-damages.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### United States
+##### U.S.
 ### [ American spammer Jeremy Jaynes is sentenced for nine years in prison. The sentence is suspended until further appeals. ](/news/2005/04/10/american-spammer-jeremy-jaynes-is-sentenced-for-nine-years-in-prison-the-sentence-is-suspended-until-further-appeals.md)
-_Context: Jeremy Jaynes, United States, spam_
+_Context: Jeremy Jaynes, U.S., spam_
 
 ##### Israel
 ### [ Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ramallah-to-the-al-aqsa-mosque-to.md)

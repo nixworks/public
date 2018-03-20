@@ -53,7 +53,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### NATO-Russia relations
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Cold War II, Curtis Scaparrotti, Eastern Europe, Europe, NATO-Russia relations, Russia, United States, United States military personnel_
+_Context: Cold War II, Curtis Scaparrotti, Eastern Europe, Europe, NATO-Russia relations, Russia, U.S., United States military personnel_
 
 ##### 2015 United Nations Climate Change Conference
 ### [A record 175 states sign the United Nations climate agreement in New York on opening day. The agreement will enter into force once 55 countries representing at least 55 percent of global emissions formally join it. ](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.md)
@@ -65,7 +65,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 
 ##### United Kingdom withdrawal from the European Union
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, European Union, Mayor of London, United Kingdom withdrawal from the European Union, United States_
+_Context: Barack Obama, Boris Johnson, European Union, Mayor of London, U.S., United Kingdom withdrawal from the European Union_
 
 ##### Petroleos Mexicanos
 ### [State oil company Petroleos Mexicanos reports the death toll has risen to 28 from Wednesday's explosion at Petroquimica Mexicana de Vinilo's Clorados 3 petrochemical plant in the Gulf port city of Coatzacoalcos, Veracruz. Some workers are still missing while 18 others remain hospitalized. Officials say the explosion came from an unspecified leak. The plant produces the hazardous industrial chemical vinyl chloride. ](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.md)

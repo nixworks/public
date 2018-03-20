@@ -3,9 +3,9 @@ Formats: [HTML](2015/01/27/index.html)  [JSON](2015/01/27/index.json)  [XML](201
 
 ## [2015-01-27](/news/2015/01/27/index.md)
 
-##### United States
+##### U.S.
 ### [American 1964 Nobel Prize-winning physicist Charles Hard Townes, who helped invent the now-ubiquitous laser, dies at the age of 99. ](/news/2015/01/27/american-1964-nobel-prize-winning-physicist-charles-hard-townes-who-helped-invent-the-now-ubiquitous-laser-dies-at-the-age-of-99.md)
-_Context: Charles Hard Townes, Nobel Prize, Nobel Prize in Physics, United States, laser_
+_Context: Charles Hard Townes, Nobel Prize, Nobel Prize in Physics, U.S., laser_
 
 ##### January 2015 nor'easter
 ### [New England sees the worst of the blizzard with Boston, Massachusetts covered in two feet of snow. ](/news/2015/01/27/new-england-sees-the-worst-of-the-blizzard-with-boston-massachusetts-covered-in-two-feet-of-snow.md)

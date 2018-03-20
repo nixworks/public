@@ -81,7 +81,7 @@ _Context: Ban Ki-moon, Israel, Israeli-Palestinian conflict (2015), Jerusalem, P
 
 ##### Iraqi Civil War (2014-present)
 ### [The United States Chairman of the Joint Chiefs of Staff, Marine Corps General Joseph Dunford arrived in Iraq to discuss the ongoing battle against ISIS. ](/news/2015/10/20/the-united-states-chairman-of-the-joint-chiefs-of-staff-marine-corps-general-joseph-dunford-arrived-in-iraq-to-discuss-the-ongoing-battle-a.md)
-_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, Marine, United States_
+_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, Marine, U.S._
 
 ## [Previous Day...](/news/2015/10/19/index.md)
 

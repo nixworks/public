@@ -7,9 +7,9 @@ Formats: [HTML](2014/03/18/index.html)  [JSON](2014/03/18/index.json)  [XML](201
 ### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
 _Context: Kuomintang (Chinese Nationalist Party), Taiwan, continue to occupy, legislative chamber, trade deal_
 
-##### United States
+##### U.S.
 ### [The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md)
-_Context: Syrian, United States, Washington D.C., embassy_
+_Context: Syrian, U.S., Washington D.C., embassy_
 
 ##### Simferopol Incident
 ### [Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of-crimea-from-ukraine.md)

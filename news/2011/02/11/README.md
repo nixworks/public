@@ -25,7 +25,7 @@ _Context: Charles Taylor, President of Liberia, The Hague_
 
 ##### McAfee
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: China, Greece, Kazakhstan, McAfee, Taiwan, United States, attack, hackers, oil companies_
+_Context: China, Greece, Kazakhstan, McAfee, Taiwan, U.S., attack, hackers, oil companies_
 
 ##### North Korea
 ### [North Korea asks its embassies worldwide to appeal for aid to feed its population. ](/news/2011/02/11/north-korea-asks-its-embassies-worldwide-to-appeal-for-aid-to-feed-its-population.md)

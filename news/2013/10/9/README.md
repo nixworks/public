@@ -37,9 +37,9 @@ _Context: China, Xinjiang, jihad_
 ### [The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. ](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.md)
 _Context: Association of Southeast Asian Nations, Brunei, East Asia Summit_
 
-##### United States
+##### U.S.
 ### [The United States government suspends military and cash aid to Egypt worth hundreds of millions of dollars. ](/news/2013/10/9/the-united-states-government-suspends-military-and-cash-aid-to-egypt-worth-hundreds-of-millions-of-dollars.md)
-_Context: Egypt, United States_
+_Context: Egypt, U.S._
 
 ##### Gazipur
 ### [A fire at a garment factory in Gazipur, Bangladesh, kills 10 people. ](/news/2013/10/9/a-fire-at-a-garment-factory-in-gazipur-bangladesh-kills-10-people.md)

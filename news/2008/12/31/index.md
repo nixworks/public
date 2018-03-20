@@ -17,7 +17,7 @@ _Context: Gaza Strip, Hamas, Israel, fire, humanitarian aid, truce_
 
 ##### Bomb
 ### [ Several bombs and further threats by a disgruntled resident lead police to evacuate downtown Aspen, Colorado, United States. ](/news/2008/12/31/several-bombs-and-further-threats-by-a-disgruntled-resident-lead-police-to-evacuate-downtown-aspen-colorado-united-states.md)
-_Context: Aspen, Colorado, United States, bomb_
+_Context: Aspen, Colorado, U.S., bomb_
 
 ## [Previous Day...](/news/2008/12/30/index.md)
 

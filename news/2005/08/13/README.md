@@ -13,7 +13,7 @@ _Context: 3 August, British Columbia, Canada, Ernest "Smokey" Smith, Vancouver, 
 
 ##### Chancellor
 ### [ German Chancellor Gerhard Schrder warns the U.S. to back away from the possibility of military action against Iran over its nuclear program. ](/news/2005/08/13/german-chancellor-gerhard-schroder-warns-the-u-s-to-back-away-from-the-possibility-of-military-action-against-iran-over-its-nuclear-progra.md)
-_Context: Chancellor, Gerhard Schrder, Iran, United States_
+_Context: Chancellor, Gerhard Schrder, Iran, U.S._
 
 ##### New Zealand Prime Minister
 ### [ Former Prime Minister David Lange of New Zealand dies. His 1984&ndash;1989 administration has left a permanent mark on New Zealand. ](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.md)

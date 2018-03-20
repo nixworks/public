@@ -13,7 +13,7 @@ _Context: China, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_
 
 ##### Linguistic analysis
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: Linguistic analysis, Moon, Neil Armstrong, United States, article, astronaut, phrase, walked_
+_Context: Linguistic analysis, Moon, Neil Armstrong, U.S., article, astronaut, phrase, walked_
 
 ##### Australia
 ### [ Australian Minister for Defense Joel Fitzgibbon resigns. ](/news/2009/06/4/australian-minister-for-defense-joel-fitzgibbon-resigns.md)

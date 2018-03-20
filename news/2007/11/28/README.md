@@ -37,7 +37,7 @@ _Context: Broadway_
 
 ##### Clearbrook
 ### [ An explosion and fire southeast of Clearbrook, Minnesota, kills two workers and forced the closure of a pipeline that carries nearly a fifth of U.S. crude oil imports from Canada. ](/news/2007/11/28/an-explosion-and-fire-southeast-of-clearbrook-minnesota-kills-two-workers-and-forced-the-closure-of-a-pipeline-that-carries-nearly-a-fift.md)
-_Context: Canada, Clearbrook, Minnesota, United States, crude oil, line_
+_Context: Canada, Clearbrook, Minnesota, U.S., crude oil, line_
 
 ## [Previous Day...](/news/2007/11/27/index.md)
 

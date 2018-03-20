@@ -9,7 +9,7 @@ US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to 
 
 ##### Shooting
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: Florida, Miami, United States, shooting_
+_Context: Florida, Miami, U.S., shooting_
 
 ##### GERB
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
@@ -27,7 +27,7 @@ _Context: Bolivia, cocaine_
 ### [ A Government delegation including hostage negotiators, led by Ireland's Ambassador to Egypt Gerard Corr continue efforts in Khartoum to locate two Irish and Ugandan aid workers who were kidnapped in Sudan. ](/news/2009/07/6/a-government-delegation-including-hostage-negotiators-led-by-ireland-s-ambassador-to-egypt-gerard-corr-continue-efforts-in-khartoum-to-loc.md)
 A team of diplomats and negotiators are seeking to locate an Irish aid worker and her Ugandan colleague who have been kidnapped in Darfur.
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama and Russian President Dmitry Medvedev agree on cutting their nuclear warheads and cooperate on military action in Afghanistan. ](/news/2009/07/6/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-agree-on-cutting-their-nuclear-warheads-and-cooperate-on-militar.md)
 U.S. President Barack Obama and Russian President Dmitry Medvedev agreed Monday to keep talking about a joint response to ballistic missile proliferation, a thorny issue between their countries.
 

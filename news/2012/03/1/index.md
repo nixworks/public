@@ -45,7 +45,7 @@ Residents in parts of Goulburn are being ordered to leave their homes and busine
 
 ##### Brazil
 ### [Brazil announces the continuation of a "currency war" with the European Union and the United States with the extension of a financial transaction tax on foreign borrowings. ](/news/2012/03/1/brazil-announces-the-continuation-of-a-currency-war-with-the-european-union-and-the-united-states-with-the-extension-of-a-financial-transa.md)
-_Context: Brazil, European Union, United States, financial transaction tax_
+_Context: Brazil, European Union, U.S., financial transaction tax_
 
 ##### Euro zone
 ### [Unemployment in the Euro zone rises to 10.7 per cent, the highest level in its history. ](/news/2012/03/1/unemployment-in-the-euro-zone-rises-to-10-7-per-cent-the-highest-level-in-its-history.md)

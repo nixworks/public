@@ -47,7 +47,7 @@ _Context: Allen Stanford, Stanford Financial Group_
 ### [ Ireland's Taoiseach Brian Cowen secures binding concessions in EU talks on the Lisbon Treaty. ](/news/2009/06/19/ireland-s-taoiseach-brian-cowen-secures-binding-concessions-in-eu-talks-on-the-lisbon-treaty.md)
 _Context: Brian Cowen, European Union, Irish, Taoiseach, Treaty of Lisbon_
 
-##### United States
+##### U.S.
 ### [ The U.S. begins deploying missile interceptors and radar to defend Hawaii from a North Korean long-range rocket. ](/news/2009/06/19/the-u-s-begins-deploying-missile-interceptors-and-radar-to-defend-hawaii-from-a-north-korean-long-range-rocket.md)
 The Pentagon said that it planned to &#8220;vigorously enforce&#8221; sanctions on North Korea&#8217;s nuclear program.
 

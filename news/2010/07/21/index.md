@@ -167,9 +167,9 @@ Four people were killed and many more injured in the eastern Indian state of Ass
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
 _Context: Kabardino-Balkaria, Russia, hydroelectric_
 
-##### United States
+##### U.S.
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, Sea of Japan, United States_
+_Context: North Korea, Sea of Japan, U.S._
 
 ##### Yemen
 ### [At least 34 people are killed in clashes in northern Yemen between Houthi rebels and pro-government tribes. ](/news/2010/07/21/at-least-34-people-are-killed-in-clashes-in-northern-yemen-between-houthi-rebels-and-pro-government-tribes.md)

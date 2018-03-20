@@ -17,7 +17,7 @@ _Context: Ladislav Niznansky, Nazism, Slovakia, World War II, acquitted_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: An insurgent group broadcasts a video over the Internet of what they claim is the death of American Ronald Allen Schulz. ](/news/2005/12/19/conflict-in-iraq-an-insurgent-group-broadcasts-a-video-over-the-internet-of-what-they-claim-is-the-death-of-american-ronald-allen-schulz.md)
-_Context: Conflict in Iraq, Iraqi insurgency, Ronald Allen Schulz, United States_
+_Context: Conflict in Iraq, Iraqi insurgency, Ronald Allen Schulz, U.S._
 
 ##### GAM
 ### [ The Free Aceh Movement surrenders the last of its weapons following a peace agreement with the Government of Indonesia. ](/news/2005/12/19/the-free-aceh-movement-surrenders-the-last-of-its-weapons-following-a-peace-agreement-with-the-government-of-indonesia.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/03/21/index.html)  [JSON](2011/03/21/index.json)  [XML](201
 
 ##### Surgeon
 ### [Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. ](/news/2011/03/21/surgeons-at-the-brigham-and-women-s-hospital-in-boston-massachusetts-perform-the-first-full-face-transplant-in-the-united-states.md)
-_Context: Boston, Brigham and Women's Hospital, Surgeon, United States, face transplant_
+_Context: Boston, Brigham and Women's Hospital, Surgeon, U.S., face transplant_
 
 ##### Guatemalan President
 ### [The President of Guatemala Alvaro Colom and his wife Sandra Torres file for divorce so that she can stand in the presidential election. ](/news/2011/03/21/the-president-of-guatemala-alvaro-colom-and-his-wife-sandra-torres-file-for-divorce-so-that-she-can-stand-in-the-presidential-election.md)
@@ -27,7 +27,7 @@ The Commons votes overwhelmingly to support UN-backed action in Libya, after Dav
 ### [The perjury trial of U.S. baseball star Barry Bonds begins in federal court in San Francisco, California. ](/news/2011/03/21/the-perjury-trial-of-u-s-baseball-star-barry-bonds-begins-in-federal-court-in-san-francisco-california.md)
 The long-awaited perjury trial of Barry Bonds, 46, never a media darling and hardly a sympathetic figure, began Monday with jury selection.
 
-##### United States
+##### U.S.
 ### [The United States and Chile sign a nuclear accord. ](/news/2011/03/21/the-united-states-and-chile-sign-a-nuclear-accord.md)
 The United States signs a nuclear accord with Chile, despite growing misgivings in the country about the safety of nuclear power.
 

@@ -31,9 +31,9 @@ _Context: Afghanistan, Khost, suicide bombing_
 ### [ 2008 Garamba offensive: Uganda's People's Defence Force accuses the Lord's Resistance Army of hacking to death 45 people in a church in the Democratic Republic of the Congo. ](/news/2008/12/28/2008-garamba-offensive-uganda-s-people-s-defence-force-accuses-the-lord-s-resistance-army-of-hacking-to-death-45-people-in-a-church-in-the.md)
 _Context: 2008 Garamba offensive, DR Congo, Lord's Resistance Army, Uganda, Ugandan soldier_
 
-##### United States
+##### U.S.
 ### [The United States vetoes a United Nations Security Council resolution aimed at stopping Israeli airstrikes against Gaza. UN Secretary-General Ban Ki-moon and the United Kingdom, European Union, Russia, France, and China all call for a ceasefire. ](/news/2008/12/28/the-united-states-vetoes-a-united-nations-security-council-resolution-aimed-at-stopping-israeli-airstrikes-against-gaza-un-secretary-genera.md)
-_Context: Ban Ki-moon, British, China, European Union, France, Russia, United Nations, United Nations Secretary-General, United Nations Security Council, United Nations Security Council resolution, United States, ceasefire, vetoes_
+_Context: Ban Ki-moon, British, China, European Union, France, Russia, U.S., United Nations, United Nations Secretary-General, United Nations Security Council, United Nations Security Council resolution, ceasefire, vetoes_
 
 ##### Israel
 ### [The Israel Defense Forces continue airstrikes against Hamas in the Gaza Strip as the number of Palestinian casualties approaches 300. ](/news/2008/12/28/the-israel-defense-forces-continue-airstrikes-against-hamas-in-the-gaza-strip-as-the-number-of-palestinian-casualties-approaches-300.md)

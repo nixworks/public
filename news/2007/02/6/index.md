@@ -13,7 +13,7 @@ _Context: British, Iraq War, The Sun, U.S. pilot, friendly fire_
 
 ##### Iranian government
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
-_Context: Baghdad, Iran, Iranian government, Iraqi army, United States_
+_Context: Baghdad, Iran, Iranian government, Iraqi army, U.S._
 
 ##### British
 ### [ UK Prime Minister Tony Blair says people are "increasingly alarmed" by Iran's nuclear program but military action was not being planned against it. ](/news/2007/02/6/uk-prime-minister-tony-blair-says-people-are-increasingly-alarmed-by-iran-s-nuclear-program-but-military-action-was-not-being-planned-aga.md)

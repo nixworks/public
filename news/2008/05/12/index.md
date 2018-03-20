@@ -3,9 +3,9 @@ Formats: [HTML](2008/05/12/index.html)  [JSON](2008/05/12/index.json)  [XML](200
 
 ## [2008-05-12](/news/2008/05/12/index.md)
 
-##### United States
+##### U.S.
 ### [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md)
-_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma, United States_
+_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma, U.S._
 
 ##### Russia
 ### [ Russia's new Prime Minister Vladimir Putin announces his cabinet. ](/news/2008/05/12/russia-s-new-prime-minister-vladimir-putin-announces-his-cabinet.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2013/05/28/index.html)  [JSON](2013/05/28/index.json)  [XML](201
 
 ## [2013-05-28](/news/2013/05/28/index.md)
 
-##### United States
+##### U.S.
 ### [The United States launches a prosecution against Liberty Reserve, based in Costa Rica, for money laundering worth $6 billion. ](/news/2013/05/28/the-united-states-launches-a-prosecution-against-liberty-reserve-based-in-costa-rica-for-money-laundering-worth-6-billion.md)
 US prosecutors have announced what they say is the biggest international money laundering prosecution in history - a $US6 billion trail that allegedly includes $US36.9 million deposited in Westpac Bank accounts in Australia.
 

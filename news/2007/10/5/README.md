@@ -21,7 +21,7 @@ Marion Jones has admitted that she took banned drugs during her career, in a mov
 
 ##### War in Iraq
 ### [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md)
-_Context: Shiite, United States, War in Iraq, militia_
+_Context: Shiite, U.S., War in Iraq, militia_
 
 ##### Burma
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)

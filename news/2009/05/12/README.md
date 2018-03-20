@@ -3,9 +3,9 @@ Formats: [HTML](2009/05/12/index.html)  [JSON](2009/05/12/index.json)  [XML](200
 
 ## [2009-05-12](/news/2009/05/12/index.md)
 
-##### United States
+##### U.S.
 ### [ The United States obtains its first seat on the United Nations Human Rights Council. ](/news/2009/05/12/the-united-states-obtains-its-first-seat-on-the-united-nations-human-rights-council.md)
-_Context: Human Rights Council, United Nations, United States_
+_Context: Human Rights Council, U.S., United Nations_
 
 ##### Declares
 ### [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md)

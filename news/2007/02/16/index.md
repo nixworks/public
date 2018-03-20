@@ -13,7 +13,7 @@ _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
 
 ##### Italians
 ### [ An Italian judge has ordered 26 U.S. citizens, most of them CIA agents, to stand trial over the kidnapping of an Egyptian cleric in Milan in 2003. ](/news/2007/02/16/an-italian-judge-has-ordered-26-u-s-citizens-most-of-them-cia-agents-to-stand-trial-over-the-kidnapping-of-an-egyptian-cleric-in-milan-i.md)
-_Context: 2003, CIA, Hassan Mustafa Osama Nasr, Italians, Milan, United States_
+_Context: 2003, CIA, Hassan Mustafa Osama Nasr, Italians, Milan, U.S._
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives passes House Concurrent Resolution 63; a non-binding resolution criticising U.S. President George W. Bush's Surge Plan in Iraq. ](/news/2007/02/16/the-united-states-house-of-representatives-passes-house-concurrent-resolution-63-a-non-binding-resolution-criticising-u-s-president-georg.md)

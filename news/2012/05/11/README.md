@@ -19,9 +19,9 @@ _Context: China, photon, quantum teleportation_
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_
 
-##### United States
+##### U.S.
 ### [William Balfour is found guilty of murdering the mother, brother and nephew of American entertainer Jennifer Hudson. ](/news/2012/05/11/william-balfour-is-found-guilty-of-murdering-the-mother-brother-and-nephew-of-american-entertainer-jennifer-hudson.md)
-_Context: Jennifer Hudson, United States_
+_Context: Jennifer Hudson, U.S._
 
 ##### Arson
 ### [A woman is arrested on suspicion of murder after five children die in a suspected arson fire in the English city of Derby. ](/news/2012/05/11/a-woman-is-arrested-on-suspicion-of-murder-after-five-children-die-in-a-suspected-arson-fire-in-the-english-city-of-derby.md)

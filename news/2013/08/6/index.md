@@ -53,7 +53,7 @@ A shootout between rival drug gangs in Honduras leaves 17 people dead in a regio
 
 ##### State Department
 ### [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md)
-_Context: State Department, United States, Yemen, al-Qaida_
+_Context: State Department, U.S., Yemen, al-Qaida_
 
 ##### Danish police
 ### [Danish police evacuate part of central Copenhagen after a parked car is found with wires attached to it. ](/news/2013/08/6/danish-police-evacuate-part-of-central-copenhagen-after-a-parked-car-is-found-with-wires-attached-to-it.md)

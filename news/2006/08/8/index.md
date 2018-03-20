@@ -15,13 +15,13 @@ Foreign Ministry recalls envoy following Venezuelan president&#39;s comments com
 ### [ As Chadian President Idriss Dby is sworn-in to his third term in office, he hugs Sudanese President Omar al-Bashir, who only a few days ago was overseeing a campaign to overthrow the second Dby administration. ](/news/2006/08/8/as-chadian-president-idriss-deby-is-sworn-in-to-his-third-term-in-office-he-hugs-sudanese-president-omar-al-bashir-who-only-a-few-days-ag.md)
 _Context: Chadian President, Idriss Dby, Omar al-Bashir, Sudanese President, second Dby administration_
 
-##### United States
+##### U.S.
 ### [ Amid news of slower-than expected growth and a quarterly rise in the unemployment rate in the United States, Federal Reserve System Chairman Ben Bernanke announced that there will be no increase to the Fed fund rate, ending a two-year period of rising interest rates. ](/news/2006/08/8/amid-news-of-slower-than-expected-growth-and-a-quarterly-rise-in-the-unemployment-rate-in-the-united-states-federal-reserve-system-chairma.md)
-_Context: Ben Bernanke, Federal Reserve System, United States_
+_Context: Ben Bernanke, Federal Reserve System, U.S._
 
 ##### CBS News
 ### [ CBS News's Mike Wallace holds an interview with Mahmoud Ahmadinejad, the president of Iran. In the interview, Ahmadinejad said that the letter he sent to George W. Bush was meant to "open a window towards the light" for Bush to "see that one can look on the world through a different perspective." He responded to his nation's nuclear program and possible weapons program saying that Iran was "studying" the offer presented by the United States and the European Union. He also claimed that Bush "believes that his power emanates from his nuclear warhead arsenals." ](/news/2006/08/8/cbs-news-s-mike-wallace-holds-an-interview-with-mahmoud-ahmadinejad-the-president-of-iran-in-the-interview-ahmadinejad-said-that-the-let.md)
-_Context: CBS News, European Union, George W. Bush, Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Mike Wallace, President, United States, letter he sent, the nation's nuclear program_
+_Context: CBS News, European Union, George W. Bush, Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Mike Wallace, President, U.S., letter he sent, the nation's nuclear program_
 
 ## [Previous Day...](/news/2006/08/7/index.md)
 

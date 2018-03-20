@@ -123,9 +123,9 @@ Residents of Maiduguri flee the Nigerian city following a spate of recent attack
 ### [Miners clash with police in Chile. ](/news/2011/07/12/miners-clash-with-police-in-chile.md)
 _Context: Chile_
 
-##### United States
+##### U.S.
 ### [7 people are killed and 3 others are injured by a United States drone attack in Pakistan's South Waziristan region. ](/news/2011/07/12/7-people-are-killed-and-3-others-are-injured-by-a-united-states-drone-attack-in-pakistan-s-south-waziristan-region.md)
-_Context: Pakistan, South Waziristan, United States, drones launch_
+_Context: Pakistan, South Waziristan, U.S., drones launch_
 
 ## [Previous Day...](/news/2011/07/11/index.md)
 

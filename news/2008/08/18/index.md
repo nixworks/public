@@ -21,7 +21,7 @@ All the latest Sports News, Scores, Fantasy Games.
 
 ##### Taliban
 ### [ Taliban militants unsuccessfully attack the United States base Camp Saleno in Khost Province. ](/news/2008/08/18/taliban-militants-unsuccessfully-attack-the-united-states-base-camp-saleno-in-khost-province.md)
-_Context: Khost, Taliban, United States_
+_Context: Khost, Taliban, U.S._
 
 ## [Previous Day...](/news/2008/08/17/index.md)
 

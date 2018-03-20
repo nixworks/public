@@ -51,9 +51,9 @@ _Context: Rio de Janeiro_
 ### [ Darfur rebels accuse the Sudanese Government of bombing South Darfur. ](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.md)
 Darfur rebels have accused the Sudanese Government of bombing South Darfur, the latest attack in an aerial campaign that has driven thousands of people from their homes over the past month.
 
-##### United States
+##### U.S.
 ### [ United States health officials issue a consumer alert for people to check their freezers for contaminated meat. ](/news/2007/08/30/united-states-health-officials-issue-a-consumer-alert-for-people-to-check-their-freezers-for-contaminated-meat.md)
-_Context: United States, consumer, freezer, meat_
+_Context: U.S., consumer, freezer, meat_
 
 ##### Iowa
 ### [ An Iowa district court rules that same-sex couples can marry based on the Iowa constitution guarantee of equal protection. ](/news/2007/08/30/an-iowa-district-court-rules-that-same-sex-couples-can-marry-based-on-the-iowa-constitution-guarantee-of-equal-protection.md)
@@ -73,7 +73,7 @@ _Context: Mali, land mine_
 
 ##### Rocket
 ### [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md)
-_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States Senate, rocket_
+_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, U.S., United States House of Representatives, United States Senate, rocket_
 
 ## [Previous Day...](/news/2007/08/29/index.md)
 

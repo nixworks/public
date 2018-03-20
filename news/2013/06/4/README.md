@@ -85,13 +85,13 @@ _Context: Essen, Krystian Zimerman, North Rhine-Westphalia, YouTube_
 ### [A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in-syria.md)
 UN investigators say they have reasonable grounds to believe chemical weapons were used in Syria.
 
-##### United States
+##### U.S.
 ### [The United States expands its military presence in Jordan, sending a Patriot missile battery and an undeclared number of F-16 fighters to the area. ](/news/2013/06/4/the-united-states-expands-its-military-presence-in-jordan-sending-a-patriot-missile-battery-and-an-undeclared-number-of-f-16-fighters-to-th.md)
 Washington says weapons may remain there after exercise to help Amman deal with threat from conflict in Syria.
 
 ##### Narkh
 ### [Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/three-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whose-deaths-locals-blame-on-the-presence.md)
-_Context: Maidan Shar, Narkh, United States_
+_Context: Maidan Shar, Narkh, U.S._
 
 ##### Turkish
 ### [Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md)

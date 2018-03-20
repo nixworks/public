@@ -21,7 +21,7 @@ Russian PM Vladimir Putin meets the Russian agents deported from the US and says
 
 ##### United States House of Representatives
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: Iran, Israel, United States, United States House of Representatives_
+_Context: Iran, Israel, U.S., United States House of Representatives_
 
 ##### U.S. military
 ### [An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. ](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.md)
@@ -71,7 +71,7 @@ At least 50 bodies are recovered from a mass grave in a part of northern Mexico 
 ### [The Royal Air Force tests fighter jets with which it intends to use to shoot down any rogue passenger planes. ](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.md)
 _Context: Royal Air Force, fighter jet_
 
-##### United States
+##### U.S.
 ### [The United States and South Korea begin showing off their navy and air force by maneuvering dozens of ships and planes and thousands of troops in the Sea of Japan with intent to "rattle" North Korea. ](/news/2010/07/24/the-united-states-and-south-korea-begin-showing-off-their-navy-and-air-force-by-maneuvering-dozens-of-ships-and-planes-and-thousands-of-troo.md)
 The US and South Korea hold a major military exercise in the Sea of Japan, despite threats of retaliation from North Korea.
 

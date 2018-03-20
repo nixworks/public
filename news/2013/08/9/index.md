@@ -51,9 +51,9 @@ Turkey advises its nationals to leave Lebanon after two Turkish pilots were seiz
 ### [Gunmen open fire at a Sunni mosque in the city of Quetta killing at least eight people and injuring 24. ](/news/2013/08/9/gunmen-open-fire-at-a-sunni-mosque-in-the-city-of-quetta-killing-at-least-eight-people-and-injuring-24.md)
 At least 10 people killed on Eid, day after suicide bomber killed 37 and amid US security alert.
 
-##### United States
+##### U.S.
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
-_Context: Lahore, Pakistan, United States_
+_Context: Lahore, Pakistan, U.S._
 
 ##### Al Qaeda
 ### [An American drone strike kills five suspected Al Qaeda terrorists in eastern Yemen. ](/news/2013/08/9/an-american-drone-strike-kills-five-suspected-al-qaeda-terrorists-in-eastern-yemen.md)

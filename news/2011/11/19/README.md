@@ -3,7 +3,7 @@ Formats: [HTML](2011/11/19/index.html)  [JSON](2011/11/19/index.json)  [XML](201
 
 ## [2011-11-19](/news/2011/11/19/index.md)
 
-##### United States
+##### U.S.
 ### [The United States successfully tests a new hypersonic weapon system, capable of striking targets 3700 km away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-3700-km-away-in-under-30-minutes-as-part-o.md)
 The US test-fires a weapon that can travel at five times the speed of sound, as part of plans to develop a new long-range rapid strike force.
 

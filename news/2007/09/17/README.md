@@ -45,7 +45,7 @@ Sierra Leone&#039;s Opposition leader has been sworn in as the country&#039;s ne
 
 ##### Iraq
 ### [ Iraq and the United States have pledged a "fair and transparent" investigation into a gunfight involving private security firm Blackwater Security that left eight people dead in Baghdad. ](/news/2007/09/17/iraq-and-the-united-states-have-pledged-a-fair-and-transparent-investigation-into-a-gunfight-involving-private-security-firm-blackwater-s.md)
-_Context: Baghdad, Blackwater Security, Iraq, United States_
+_Context: Baghdad, Blackwater Security, Iraq, U.S._
 
 ##### Bernard Kouchner
 ### [ Bernard Kouchner, the French Foreign Minister, warns of the possibility of war over Iran's nuclear program. ](/news/2007/09/17/bernard-kouchner-the-french-foreign-minister-warns-of-the-possibility-of-war-over-iran-s-nuclear-program.md)

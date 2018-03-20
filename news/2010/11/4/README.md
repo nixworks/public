@@ -55,7 +55,7 @@ _Context: Haiti, Jamaica, Tropical Storm Tomas_
 ### [United Kingdom - Business Secretary Vince Cable orders Ofcom to investigate News Corporation's plan to take full control of BSkyB. ](/news/2010/11/4/united-kingdom-business-secretary-vince-cable-orders-ofcom-to-investigate-news-corporation-s-plan-to-take-full-control-of-bskyb.md)
 _Context: BSkyB, News Corporation, Ofcom, Vince Cable_
 
-##### United States
+##### U.S.
 ### [A United States jury rules that Citigroup did not mislead Terra Firma Capital Partners in its bid for music group EMI. ](/news/2010/11/4/a-united-states-jury-rules-that-citigroup-did-not-mislead-terra-firma-capital-partners-in-its-bid-for-music-group-emi.md)
 A US jury rules that investment bank Citigroup did not trick private equity firm Terra Firma in its takeover of music group EMI.
 

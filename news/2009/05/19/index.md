@@ -39,9 +39,9 @@ _Context: Ethiopia, Ethiopian Army, Somalia, declares_
 ### [ The Association of Southeast Asian Nations expresses "grave concern" about National League for Democracy General Secretary Aung San Suu Kyi's trial. ](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.md)
 _Context: ASEAN, Aung San Suu Kyi, General Secretary, National League for Democracy, trial_
 
-##### United States
+##### U.S.
 ### [ The U.S. and Russia begin negotiations to replace the expiring Strategic Arms Reduction Treaty. ](/news/2009/05/19/the-u-s-and-russia-begin-negotiations-to-replace-the-expiring-strategic-arms-reduction-treaty.md)
-_Context: Russia, Strategic Arms Reduction Treaty, United States, negotiation_
+_Context: Russia, Strategic Arms Reduction Treaty, U.S., negotiation_
 
 ##### LTTE
 ### [ Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. ](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.md)
@@ -63,9 +63,9 @@ _Context: British, Michael Martin, Speaker of the UK House of Commons, the House
 ### [ President Mahmoud Abbas inaugurates the Palestinian National Authority's new government. ](/news/2009/05/19/president-mahmoud-abbas-inaugurates-the-palestinian-national-authority-s-new-government.md)
 _Context: Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, form of government, inaugurated_
 
-##### United States
+##### U.S.
 ### [ The United States Government Accountability Office warns that the Global Positioning System could fail by 2010. ](/news/2009/05/19/the-united-states-government-accountability-office-warns-that-the-global-positioning-system-could-fail-by-2010.md)
-_Context: 2010, Global Positioning System, Government Accountability Office, United States_
+_Context: 2010, Global Positioning System, Government Accountability Office, U.S._
 
 ## [Previous Day...](/news/2009/05/18/index.md)
 

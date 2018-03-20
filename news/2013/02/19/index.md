@@ -41,7 +41,7 @@ Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remembe
 
 ##### Shooting spree
 ### [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md)
-_Context: California, Orange County, United States, shooting spree_
+_Context: California, Orange County, U.S., shooting spree_
 
 ##### North Korea
 ### [North Korea threatens the "final destruction" of South Korea during a United Nations conference on disarmament. ](/news/2013/02/19/north-korea-threatens-the-final-destruction-of-south-korea-during-a-united-nations-conference-on-disarmament.md)
@@ -65,7 +65,7 @@ _Context: European sovereign-debt crisis, Iberia, Spanish, airline, flag carrier
 
 ##### Country Club Plaza
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)
-_Context: Country Club Plaza, Kansas City, Missouri, United States_
+_Context: Country Club Plaza, Kansas City, Missouri, U.S._
 
 ##### Yemeni Air Force
 ### [A Yemeni Air Force plane crashes in Sana'a, the capital of Yemen, killing 12 people and injuring 11 others. ](/news/2013/02/19/a-yemeni-air-force-plane-crashes-in-sana-a-the-capital-of-yemen-killing-12-people-and-injuring-11-others.md)

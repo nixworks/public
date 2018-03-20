@@ -29,7 +29,7 @@ Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival 
 
 ##### Police
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
-_Context: Colton Harris-Moore, Eleuthera, Police, United States, northwestern Bahamas_
+_Context: Colton Harris-Moore, Eleuthera, Police, U.S., northwestern Bahamas_
 
 ##### Liberia
 ### [Liberian deputy parliamentary speaker Togba Mulbah is released after briefly being held under house arrest in Monrovia for allegedly ordering the beating unconscious of a policeman. ](/news/2010/07/11/liberian-deputy-parliamentary-speaker-togba-mulbah-is-released-after-briefly-being-held-under-house-arrest-in-monrovia-for-allegedly-orderin.md)

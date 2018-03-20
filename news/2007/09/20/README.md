@@ -21,11 +21,11 @@ _Context: New Zealand parliament, Qian Xun Xue case, court order_
 
 ##### Al Qaeda
 ### [ Al Qaeda's Deputy Leader Ayman al-Zawahri claims that the United States is being defeated in Iraq, Afghanistan, Somalia and North Africa. ](/news/2007/09/20/al-qaeda-s-deputy-leader-ayman-al-zawahri-claims-that-the-united-states-is-being-defeated-in-iraq-afghanistan-somalia-and-north-africa.md)
-_Context: Afghanistan, Al Qaeda, Ayman al-Zawahri, Iraq, North Africa, Somalia, United States_
+_Context: Afghanistan, Al Qaeda, Ayman al-Zawahri, Iraq, North Africa, Somalia, U.S._
 
 ##### CNN
 ### [ CNN reports that Iran has released Iranian-American social scientist Kian Tajbakhsh. ](/news/2007/09/20/cnn-reports-that-iran-has-released-iranian-american-social-scientist-kian-tajbakhsh.md)
-_Context: CNN, Iran, Kian Tajbakhsh, United States, social scientist_
+_Context: CNN, Iran, Kian Tajbakhsh, U.S., social scientist_
 
 ##### Howard University
 ### [ Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of six black teenagers involved in a schoolyard brawl. ](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.md)
@@ -35,7 +35,7 @@ _Context:  six black teenagers, Howard University, Jena, Louisiana, NAACP, U.S._
 ### [ Osama bin Laden calls on the people of Pakistan to rise up in a "holy war" and overthrow President Pervez Musharraf. ](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.md)
 _Context: Osama bin Laden, Pakistan, Pervez Musharraf, president_
 
-##### United States
+##### U.S.
 ### [ American cyclist Floyd Landis is officially stripped of his win in the 2006 Tour de France and banned from competition for two years after an arbitration panel finds him guilty of doping during the 2006 Tour. He has 30 days to appeal to the Court of Arbitration for Sport. ](/news/2007/09/20/american-cyclist-floyd-landis-is-officially-stripped-of-his-win-in-the-2006-tour-de-france-and-banned-from-competition-for-two-years-after.md)
 Cyclist Floyd Landis has received a two-year ban for doping, The Associated Press has learned.
 

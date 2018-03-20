@@ -125,7 +125,7 @@ _Context: Fox News, Glenn Beck_
 
 ##### Iraq War
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, United States_
+_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
 
 ##### Al-Shamukh
 ### [Al-Shamukh, a popular jihadist Internet forum, is knocked off the Internet by a fairly sophisticated cyberattack. ](/news/2011/06/30/al-shamukh-a-popular-jihadist-internet-forum-is-knocked-off-the-internet-by-a-fairly-sophisticated-cyberattack.md)

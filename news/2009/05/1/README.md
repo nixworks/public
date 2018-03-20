@@ -9,7 +9,7 @@ _Context: Corte-Real, Portugal, Somali pirates, Somalia, explosives, frigate, pi
 
 ##### Justice
 ### [ Associate Justice David Souter announces he will retire from the United States Supreme Court in June. ](/news/2009/05/1/associate-justice-david-souter-announces-he-will-retire-from-the-united-states-supreme-court-in-june.md)
-_Context: David Souter, Justice, Supreme Court of the United States, United States_
+_Context: David Souter, Justice, Supreme Court of the United States, U.S._
 
 ##### Executives
 ### [ Three executives of Allied Irish Banks resign. ](/news/2009/05/1/three-executives-of-allied-irish-banks-resign.md)

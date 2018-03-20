@@ -41,7 +41,7 @@ _Context: France, ISIL, Marseille, Marseille stabbing, Saint Charles_
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
-_Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, United States, Yemen, Yemeni Crisis (2011-present)_
+_Context: Houthi, MQ-9 Reaper, Saba News Agency, Sana'a, U.S., Yemen, Yemeni Crisis (2011-present)_
 
 ## [Previous Day...](/news/2017/09/30/index.md)
 

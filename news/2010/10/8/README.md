@@ -9,7 +9,7 @@ Anthropologists say they have confirmed long-running suspicions that a germ call
 
 ##### Russia
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
+_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, U.S., astronaut, cosmonaut_
 
 ##### Chang'e-2
 ### [China's second lunar probe, Chang'e-2 completes final braking, enters working. ](/news/2010/10/8/china-s-second-lunar-probe-chang-e-2-completes-final-braking-enters-working.md)
@@ -23,7 +23,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 ### [A senior North Korean official, Yang Hyong Sop, confirms that Kim Jong-un will succeed his father Kim Jong-il in an interview with the Associated Press. ](/news/2010/10/8/a-senior-north-korean-official-yang-hyong-sop-confirms-that-kim-jong-un-will-succeed-his-father-kim-jong-il-in-an-interview-with-the-assoc.md)
 _Context: Associated Press, Kim Jong-il, Kim Jong-un, North Korea, Yang Hyong Sop_
 
-##### United States
+##### U.S.
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 
 
@@ -83,7 +83,7 @@ _Context: BlackBerry, United Arab Emirates_
 ### [The Government of Japan approves a $60 billion economic stimulus package. ](/news/2010/10/8/the-government-of-japan-approves-a-60-billion-economic-stimulus-package.md)
 _Context: Japanese government, economic stimulus_
 
-##### United States
+##### U.S.
 ### [The United States economy shed 95,000 more jobs than expected in September. ](/news/2010/10/8/the-united-states-economy-shed-95-000-more-jobs-than-expected-in-september.md)
 Economy loses 95,000 jobs in September in the last monthly labour snapshot ahead of mid-term elections.
 
@@ -91,9 +91,9 @@ Economy loses 95,000 jobs in September in the last monthly labour snapshot ahead
 ### [The International Civil Aviation Organization (ICAO) concluded its 37th session of its assembly on Friday at its headquarters in Montreal, making progresses on aviation emissions. ](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.md)
 _Context: International Civil Aviation Organization, Montreal_
 
-##### United States
+##### U.S.
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
-_Context: Albertina Walker, United States, gospel music_
+_Context: Albertina Walker, U.S., gospel music_
 
 ##### German
 ### [German film "The White Ribbon" wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
@@ -113,7 +113,7 @@ A Taiwanese ship reported to have been seized by pirates east of Madagascar had 
 
 ##### German
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, United States_
+_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, U.S._
 
 ##### Kunduz
 ### [At least 16 people, including the governor of Kunduz province, Mohammad Omar, are killed in a bombing. ](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.md)

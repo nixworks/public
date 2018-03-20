@@ -45,7 +45,7 @@ _Context: Australia, Keli Lane, water polo_
 
 ##### Texas
 ### [Wildfires in Texas, United States destroy dozens of homes and kill a firefighter. ](/news/2011/04/15/wildfires-in-texas-united-states-destroy-dozens-of-homes-and-kill-a-firefighter.md)
-_Context: Texas, United States_
+_Context: Texas, U.S._
 
 ##### Oklahoma
 ### [Two people in Oklahoma and seven in Arkansas are killed by a strong tornado outbreak. ](/news/2011/04/15/two-people-in-oklahoma-and-seven-in-arkansas-are-killed-by-a-strong-tornado-outbreak.md)

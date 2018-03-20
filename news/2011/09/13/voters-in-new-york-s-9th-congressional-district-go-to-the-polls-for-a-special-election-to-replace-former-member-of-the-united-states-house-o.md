@@ -18,7 +18,7 @@ Voters went to the polls in a closely watched race to replace the former Represe
 
 ### Changes:
 
-1. [Voters in Nevada's 2nd congressional district go to the polls for a special election to replace former member of the United States House of Representatives, Senator Dean Heller, with Republican Mark Amodei defeating Democrat Kate Marshall. ](/news/2011/09/13/voters-in-nevada-s-2nd-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-of.md) _2018-03-18 03:42:55 (First version)_
+1. [Voters in Nevada's 2nd congressional district go to the polls for a special election to replace former member of the United States House of Representatives, Senator Dean Heller, with Republican Mark Amodei defeating Democrat Kate Marshall. ](/news/2011/09/13/voters-in-nevada-s-2nd-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-of.md) _2018-03-19 03:42:49 (First version)_
 1. [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md) _(Current version)_
 
 ### Related:

@@ -37,7 +37,7 @@ Israel approves the construction of hundreds of homes for Jewish settlers in the
 
 ##### Pacific Northwest
 ### [A wind and rainstorm in the Pacific Northwest of the United States results in the loss of power to 114,000 in Portland, Oregon. ](/news/2011/03/13/a-wind-and-rainstorm-in-the-pacific-northwest-of-the-united-states-results-in-the-loss-of-power-to-114-000-in-portland-oregon.md)
-_Context: Pacific Northwest, Portland, Oregon, United States_
+_Context: Pacific Northwest, Portland, Oregon, U.S._
 
 ##### Shinmoedake
 ### [The Shinmoedake volcano in Kagoshima Prefecture, Japan explodes again. ](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.md)

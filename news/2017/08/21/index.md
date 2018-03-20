@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/21/index.html)  [JSON](2017/08/21/index.json)  [XML](201
 
 ##### Solar eclipse of August 21, 2017
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
-_Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
+_Context: North America, Solar eclipse of August 21, 2017, U.S., contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
 ##### Beating of DeAndre Harris
 ### [Virginia Governor Terry McAuliffe calls for arrests related to the beating of a black counterprotester by white supremacists during the Unite the Right rally. (](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.md)

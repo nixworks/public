@@ -3,9 +3,9 @@ Formats: [HTML](2009/12/20/index.html)  [JSON](2009/12/20/index.json)  [XML](200
 
 ## [2009-12-20](/news/2009/12/20/index.md)
 
-##### United States
+##### U.S.
 ### [ American band Rage Against the Machine top the UK Christmas Singles Chart with 1992 song "Killing in the Name". Its popularity arose from an internet campaign to prevent "X Factor" winner Joe McElderry from topping the charts. ](/news/2009/12/20/american-band-rage-against-the-machine-top-the-uk-christmas-singles-chart-with-1992-song-killing-in-the-name-its-popularity-arose-from-a.md)
-_Context: Joe McElderry, Killing in the Name, Rage Against the Machine, The X Factor, UK Christmas Singles Chart, United States_
+_Context: Joe McElderry, Killing in the Name, Rage Against the Machine, The X Factor, U.S., UK Christmas Singles Chart_
 
 ##### Soviet
 ### [ Two people are killed and four people are wounded by flying concrete during a huge demolition of a Soviet war memorial in Georgia. ](/news/2009/12/20/two-people-are-killed-and-four-people-are-wounded-by-flying-concrete-during-a-huge-demolition-of-a-soviet-war-memorial-in-georgia.md)

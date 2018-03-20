@@ -65,7 +65,7 @@ The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for a
 
 ##### BBC
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
 
 ##### Iran
 ### [Talks between Iran and the five permanent members of the UN Security Council plus Germany break down without an agreement to end the eight-year-old impasse over Iran's nuclear program, after Iranian officials refused to negotiate unless preconditions including an immediate halt to UN sanctions on Iran were met. ](/news/2011/01/23/talks-between-iran-and-the-five-permanent-members-of-the-un-security-council-plus-germany-break-down-without-an-agreement-to-end-the-eight-y.md)

@@ -29,7 +29,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### New Haven
 ### [ New Haven, Connecticut becomes the first United States city to give identification cards to undocumented immigrants. ](/news/2007/07/24/new-haven-connecticut-becomes-the-first-united-states-city-to-give-identification-cards-to-undocumented-immigrants.md)
-_Context: Connecticut, New Haven, United States, identification card, undocumented immigrant_
+_Context: Connecticut, New Haven, U.S., identification card, undocumented immigrant_
 
 ##### Team Astana
 ### [ Team Astana retires from the 2007 Tour de France following Kazakh rider Alexander Vinokourov testing positive for a banned blood transfusion. ](/news/2007/07/24/team-astana-retires-from-the-2007-tour-de-france-following-kazakh-rider-alexander-vinokourov-testing-positive-for-a-banned-blood-transfusio.md)

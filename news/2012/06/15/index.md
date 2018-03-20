@@ -71,7 +71,7 @@ _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 ### [Italy announces it will sell off three state-owned business in hopes of reducing the country's debt problems. ](/news/2012/06/15/italy-announces-it-will-sell-off-three-state-owned-business-in-hopes-of-reducing-the-country-s-debt-problems.md)
 The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off state-owned companies, in a bid to reduce its crippling debt mountain.
 
-##### United States
+##### U.S.
 ### [American singer Chris Brown and Canadian rapper Drake reportedly brawl with each other over fellow popstar Rihanna in a New York nightclub. ](/news/2012/06/15/american-singer-chris-brown-and-canadian-rapper-drake-reportedly-brawl-with-each-other-over-fellow-popstar-rihanna-in-a-new-york-nightclub.md)
 Brown reportedly needed eight stitches to close up his wounds.
 

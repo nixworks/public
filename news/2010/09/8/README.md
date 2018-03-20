@@ -29,11 +29,11 @@ _Context: Iran, South Korea, nuclear program, sanctions_
 
 ##### Tropical Storm Hermine
 ### [The remnants of Tropical Storm Hermine causes widespread flooding in the US states of Texas and Oklahoma with at least two people dead. ](/news/2010/09/8/the-remnants-of-tropical-storm-hermine-causes-widespread-flooding-in-the-us-states-of-texas-and-oklahoma-with-at-least-two-people-dead.md)
-_Context: Oklahoma, Texas, Tropical Storm Hermine, United States_
+_Context: Oklahoma, Texas, Tropical Storm Hermine, U.S._
 
 ##### Wildfire
 ### [Eight people are missing and at least fifty-four houses are destroyed in a wildfire burning west of Boulder, Colorado, in the United States. ](/news/2010/09/8/eight-people-are-missing-and-at-least-fifty-four-houses-are-destroyed-in-a-wildfire-burning-west-of-boulder-colorado-in-the-united-states.md)
-_Context: Boulder, Colorado, United States, wildfire_
+_Context: Boulder, Colorado, U.S., wildfire_
 
 ##### States of emergency
 ### [The state of emergency in Christchurch, New Zealand, is extended for another week following an aftershock to Saturday's earthquake in Lyttelton. ](/news/2010/09/8/the-state-of-emergency-in-christchurch-new-zealand-is-extended-for-another-week-following-an-aftershock-to-saturday-s-earthquake-in-lyttel.md)

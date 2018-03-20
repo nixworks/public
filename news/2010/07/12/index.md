@@ -55,7 +55,7 @@ The NHS in England is to undergo one of the biggest restructuring in its history
 ### [French President Nicolas Sarkozy goes on national TV to dismiss allegations that he received illegal campaign donations from Liliane Bettencourt. ](/news/2010/07/12/french-president-nicolas-sarkozy-goes-on-national-tv-to-dismiss-allegations-that-he-received-illegal-campaign-donations-from-liliane-bettenc.md)
 In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;defended&#x20;embattled&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth,&#x20;who&#x20;is&#x20;at&#x20;the&#x20;centre&#x20;of&#x20;corruption&#x20;allegations&#x20;involving&#x20;France&#x...
 
-##### United States
+##### U.S.
 ### [The United States is pleased after Russia suggests Iran could build a nuclear weapon in future, an unusual admission from Moscow. ](/news/2010/07/12/the-united-states-is-pleased-after-russia-suggests-iran-could-build-a-nuclear-weapon-in-future-an-unusual-admission-from-moscow.md)
 Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to build a nuclear bomb, remarks welcomed in Washington as a sign of growing international unity behind a tough line toward Tehran.
 

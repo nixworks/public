@@ -25,7 +25,7 @@ _Context: Geneva II_
 
 ##### North Korea
 ### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ##### Cyprus dispute
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)

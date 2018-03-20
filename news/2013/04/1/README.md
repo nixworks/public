@@ -37,7 +37,7 @@ _Context: China, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
-_Context: 2013 Korean crisis, Kim Jong-Un, North Korea, Parliament, Pyongyang, South Korea, Supreme People's Assembly, United States_
+_Context: 2013 Korean crisis, Kim Jong-Un, North Korea, Parliament, Pyongyang, South Korea, Supreme People's Assembly, U.S._
 
 ##### Coal mine
 ### [At least six people are killed in a explosion at a coal mine near Baishan, China. ](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at-a-coal-mine-near-baishan-china.md)

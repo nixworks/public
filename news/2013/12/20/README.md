@@ -17,7 +17,7 @@ _Context: Uganda, law_
 
 ##### Same-sex marriage
 ### [Same-sex marriage becomes legal in the U.S. state of Utah, and gay couples begin receiving marriage licenses, after a federal judge strikes down a provision of the Utah Constitution. ](/news/2013/12/20/same-sex-marriage-becomes-legal-in-the-u-s-state-of-utah-and-gay-couples-begin-receiving-marriage-licenses-after-a-federal-judge-strikes.md)
-_Context: Same-sex marriage, United States, Utah, Utah Constitution_
+_Context: Same-sex marriage, U.S., Utah, Utah Constitution_
 
 ##### Supreme Court of Canada
 ### [The Supreme Court of Canada strikes down anti-prostitution laws in the country. ](/news/2013/12/20/the-supreme-court-of-canada-strikes-down-anti-prostitution-laws-in-the-country.md)

@@ -19,7 +19,7 @@ _Context: Algeria, Bouira_
 ### [ Spanair Flight JK 5022 with 178 on board crashes on takeoff at Madrid's Barajas International Airport, causing 154 fatalities. ](/news/2008/08/20/spanair-flight-jk-5022-with-178-on-board-crashes-on-takeoff-at-madrid-s-barajas-international-airport-causing-154-fatalities.md)
 _Context: Barajas International Airport, Madrid, Spanair Flight JK 5022_
 
-##### United States
+##### U.S.
 ### [ The United States and Poland sign an agreement to place an American missile defense base on Polish territory with Russia warning that its response will go beyond diplomacy.](/news/2008/08/20/the-united-states-and-poland-sign-an-agreement-to-place-an-american-missile-defense-base-on-polish-territory-with-russia-warning-that-its-r.md)
 The agreement to place an American missile defense base on Polish territory is fiercely opposed by Russia.
 

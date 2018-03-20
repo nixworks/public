@@ -13,7 +13,7 @@ _Context: Governor Jerry Brown, euthanasia_
 
 ##### Trans-Pacific Partnership
 ### [The Trans-Pacific Partnership between the United States and 11 Pacific Rim countries is finalized in the American city of Atlanta. According to wikileaks, the main point of the deal will be that trans-national corporations will not be subjected to the laws of individual countries. Instead, an international system will be formed with the right to overrule national laws and legal decisions. ](/news/2015/10/5/the-trans-pacific-partnership-between-the-united-states-and-11-pacific-rim-countries-is-finalized-in-the-american-city-of-atlanta-according.md)
-_Context: Atlanta, Pacific Rim, Trans-Pacific Partnership, United States_
+_Context: Atlanta, Pacific Rim, Trans-Pacific Partnership, U.S._
 
 ##### Independent Commission Against Corruption
 ### [The Independent Commission Against Corruption charges former Chief Executive of Hong Kong Donald Tsang with corruption. ](/news/2015/10/5/the-independent-commission-against-corruption-charges-former-chief-executive-of-hong-kong-donald-tsang-with-corruption.md)

@@ -29,7 +29,7 @@ _Context: Mexico_
 
 ##### Somalia
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Al-Shabaab, Islam, Saleh Ali Saleh Nabhan, Somalia, United States_
+_Context: Al-Shabaab, Islam, Saleh Ali Saleh Nabhan, Somalia, U.S._
 
 ##### China
 ### [ China says it has foiled a possible terrorist attack in Xinjiang, detaining six people. ](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.md)

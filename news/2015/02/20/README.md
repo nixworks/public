@@ -23,9 +23,9 @@ _Context: Australia, Crime and Corruption Commission, Karmichael Hunt, Queenslan
 ### [Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md)
 Liberia said Friday it was lifting nationwide curfews and re-opening borders shut last year at the height of the Ebola crisis, after the retreat of an epidemic that has killed thousands.
 
-##### United States
+##### U.S.
 ### [At least 23 people die this week in the United States due to cold weather, with 18 dead in the state of Tennessee. ](/news/2015/02/20/at-least-23-people-die-this-week-in-the-united-states-due-to-cold-weather-with-18-dead-in-the-state-of-tennessee.md)
-_Context: Tennessee, United States_
+_Context: Tennessee, U.S._
 
 ##### Dubai Torch Tower
 ### [A fire rips through The Marina Torch apartment complex in Dubai, one of the tallest residential apartment buildings in the world. ](/news/2015/02/20/a-fire-rips-through-the-marina-torch-apartment-complex-in-dubai-one-of-the-tallest-residential-apartment-buildings-in-the-world.md)

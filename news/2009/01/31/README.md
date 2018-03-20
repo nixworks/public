@@ -29,7 +29,7 @@ _Context: Bangkok, Prime Minister, Thai police, Thailand, Thaksin Shinawatra_
 
 ##### Serena Williams
 ### [ Serena Williams of the United States defeats Dinara Safina of Russia to win the 2009 Australian Open women's singles. ](/news/2009/01/31/serena-williams-of-the-united-states-defeats-dinara-safina-of-russia-to-win-the-2009-australian-open-women-s-singles.md)
-_Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United States, women's singles_
+_Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, U.S., women's singles_
 
 ##### Russia
 ### [ Thousands of Russians protest in response to the government's handling of the current economic crisis. ](/news/2009/01/31/thousands-of-russians-protest-in-response-to-the-government-s-handling-of-the-current-economic-crisis.md)
@@ -49,7 +49,7 @@ _Context: Caracas, Sephardic, Venezuela, synagogue_
 
 ##### Cuba
 ### [ Former Cuban President Fidel Castro criticizes United States President Barack Obama for supporting "Israeli genocide" against the Palestinian people. ](/news/2009/01/31/former-cuban-president-fidel-castro-criticizes-united-states-president-barack-obama-for-supporting-israeli-genocide-against-the-palestini.md)
-_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, U.S. President, United States, genocide_
+_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, U.S., U.S. President, genocide_
 
 ## [Previous Day...](/news/2009/01/30/index.md)
 

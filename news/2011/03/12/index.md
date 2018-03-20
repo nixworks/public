@@ -7,9 +7,9 @@ Formats: [HTML](2011/03/12/index.html)  [JSON](2011/03/12/index.json)  [XML](201
 ### [Tens of thousands of Portuguese young people march in protest at budget cuts. ](/news/2011/03/12/tens-of-thousands-of-portuguese-young-people-march-in-protest-at-budget-cuts.md)
 _Context: Portugal_
 
-##### United States
+##### U.S.
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)
-_Context: Cuba, Government of Cuba, United States_
+_Context: Cuba, Government of Cuba, U.S._
 
 ##### Asylum seeker
 ### [Up to 80 asylum seekers break out of the Australian detention centre on Christmas Island. ](/news/2011/03/12/up-to-80-asylum-seekers-break-out-of-the-australian-detention-centre-on-christmas-island.md)

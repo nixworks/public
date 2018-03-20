@@ -43,9 +43,9 @@ After unrest erupts in the remote Black Sea territory of Abkhazia, sandwiched be
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar Province, Baghdad, Iraq, Iraqi Insurgency_
 
-##### United States
+##### U.S.
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghanistan-for-a-year-after-the-withdrawal.md)

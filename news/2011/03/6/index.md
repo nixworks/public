@@ -23,9 +23,9 @@ _Context: Khaled bin Hilal bin Saud al-Busaidi, Nasr bin Hamoud bin Ahmed al Kin
 ### [Egyptian Army General Mansour el-Essawy is named as the new Minister of Interior responsible for security replacing Mahmoud Wagdy. ](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.md)
 _Context: Egyptian Army, Egyptian interior minister, Mahmoud Wagdy, Mansour el-Essawy_
 
-##### United States
+##### U.S.
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
-_Context: Ciudad Juarez, Mexico, United States_
+_Context: Ciudad Juarez, Mexico, U.S._
 
 ##### Kenya
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)

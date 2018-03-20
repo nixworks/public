@@ -11,7 +11,7 @@ About 2,000 protesters with the Occupy Wall Street movement marched through New 
 ### [U.S. energy company Kinder Morgan agrees to buy natural gas exploration and pipeline company El Paso for $21.1 billion in cash and stock. ](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.md)
 _Context: El Paso, Kinder Morgan, natural gas_
 
-##### United States
+##### U.S.
 ### [The United States Department of Commerce reports that U.S. retail sales rose at their fastest rate for seven months in September, having risen by 1.1% over the previous month. ](/news/2011/10/15/the-united-states-department-of-commerce-reports-that-u-s-retail-sales-rose-at-their-fastest-rate-for-seven-months-in-september-having-ris.md)
 US retail sales rose by 1.1% in September, with vehicle sales showing the biggest gain, but grocery store sales fall.
 

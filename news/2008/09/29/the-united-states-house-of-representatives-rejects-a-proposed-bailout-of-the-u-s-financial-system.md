@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/29/the-united-states-house-of-representatives-reje
 
 ### [2008-09-29](/news/2008/09/29/index.md)
 
-##### United States
+##### U.S.
 #  The United States House of Representatives rejects a proposed bailout of the U.S. financial system.
 
 
@@ -33,8 +33,8 @@ Formats: [HTML](/news/2008/09/29/the-united-states-house-of-representatives-reje
 
 ### Related:
 
-1. [The U.S. House of Representatives voted overwhelmingly to end a Jackson-Vanik amendment, long-standing trade restriction with Russia. Also Magnitsky Law was adopted instead, it requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death, three years ago, of Sergei Magnitsky. ([https:--www.washingtonpost.com-world-europe-russia-chafes-as-house-passes-magnitsky-bill-2012-11-16-b589e544-300f-11e2-a30e-5ca76eeec857_story.html Washington Post])](/news/2012/11/16/the-u-s-house-of-representatives-voted-overwhelmingly-to-end-a-jacksonavanik-amendment-long-standing-trade-restriction-with-russia-also.md) _Context: U.S. House of Representatives, United States_
-2. [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md) _Context: U.S. House of Representatives, United States_
-3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: United States_
-4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: United States_
-5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: United States_
+1. [The U.S. House of Representatives voted overwhelmingly to end a Jackson-Vanik amendment, long-standing trade restriction with Russia. Also Magnitsky Law was adopted instead, it requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death, three years ago, of Sergei Magnitsky. ([https:--www.washingtonpost.com-world-europe-russia-chafes-as-house-passes-magnitsky-bill-2012-11-16-b589e544-300f-11e2-a30e-5ca76eeec857_story.html Washington Post])](/news/2012/11/16/the-u-s-house-of-representatives-voted-overwhelmingly-to-end-a-jacksonavanik-amendment-long-standing-trade-restriction-with-russia-also.md) _Context: U.S., U.S. House of Representatives_
+2. [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md) _Context: U.S., U.S. House of Representatives_
+3. [Toys "R" Us considers closing all its stores in the United States. ](/news/2018/03/8/toys-r-us-considers-closing-all-its-stores-in-the-united-states.md) _Context: U.S._
+4. [Former United States Department of Justice attorney Jeffrey Wertkin is sentenced to 21/2 years in prison for what prosecutors called the DoJ's "most serious" example of public corruption, which involved stealing more than 40 whistleblower fraud cases in 2016 with intentions to sell the secret information to companies under federal investigation. ](/news/2018/03/7/former-united-states-department-of-justice-attorney-jeffrey-wertkin-is-sentenced-to-2a1-2-years-in-prison-for-what-prosecutors-called-the-doj.md) _Context: U.S._
+5. [A second winter storm occurs in the East Coast of the United States, only a few days after another storm. ](/news/2018/03/7/a-second-winter-storm-occurs-in-the-east-coast-of-the-united-states-only-a-few-days-after-another-storm.md) _Context: U.S._

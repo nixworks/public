@@ -17,7 +17,7 @@ Controversial mayor, known as The Punisher, gets more than 16 million votes afte
 
 ##### Joaquin "El Chapo" Guzman
 ### [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md)
-_Context: Joaquin "El Chapo" Guzman, Secretary of Foreign Affairs, Sinaloa Cartel, United States_
+_Context: Joaquin "El Chapo" Guzman, Secretary of Foreign Affairs, Sinaloa Cartel, U.S._
 
 ##### Iran
 ### [Over 30 college students in Iran were arrested and punished with 99 lashes each for attending a co-ed graduation party. ](/news/2016/05/27/over-30-college-students-in-iran-were-arrested-and-punished-with-99-lashes-each-for-attending-a-co-ed-graduation-party.md)

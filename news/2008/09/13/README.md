@@ -23,7 +23,7 @@ _Context: China, Shanxi province, deadly landslide_
 ### [ Abullah Wardak, the Governor of the Lowgar Province of Afghanistan, is assassinated in a car bomb. ](/news/2008/09/13/abullah-wardak-the-governor-of-the-lowgar-province-of-afghanistan-is-assassinated-in-a-car-bomb.md)
 _Context: Afghanistan, Lowgar Province_
 
-##### United States
+##### U.S.
 ### [ Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md)
 A tropical storm warning remains in effect from east of sargent texas eastward to morgan city Louisiana. The warning will likely be discontinued later this afternoon or evening. For storm information specific to your area, including possible inland watches and...
 

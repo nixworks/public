@@ -25,7 +25,7 @@ _Context: Human Rights Watch_
 
 ##### Explosives
 ### [Authorities find the largest cache of homemade explosives ever discovered in the United States, in two houses near Escondido, California. ](/news/2010/11/26/authorities-find-the-largest-cache-of-homemade-explosives-ever-discovered-in-the-united-states-in-two-houses-near-escondido-california.md)
-_Context: Escondido, California, United States, explosives_
+_Context: Escondido, California, U.S., explosives_
 
 ##### Saudi Arabia
 ### [Authorities in Saudi Arabia arrest 149 people with links to al-Qaeda suspected of planning attacks on government officials and journalists. ](/news/2010/11/26/authorities-in-saudi-arabia-arrest-149-people-with-links-to-al-qaeda-suspected-of-planning-attacks-on-government-officials-and-journalists.md)
@@ -59,9 +59,9 @@ There has been a third explosion at the Pike River coal mine in New Zealand, whe
 ### [Irish financial crisis. Widespread speculation that senior bondholders of Irish banks will have to take a "haircut" -- i.e. share in the costs of an EU bailout -- leads to downgrades in the credit worthiness of the institutions that hads the most at stake in the ballooning property values of recent years. ](/news/2010/11/26/irish-financial-crisis-widespread-speculation-that-senior-bondholders-of-irish-banks-will-have-to-take-a-haircut-i-e-share-in-the-cos.md)
 Ireland&#039;s banks suffered a string of credit downgrades Friday&mdash;one reduced to junk-bond status &mdash;as speculation mounted that an EU-IMF bailout of Ireland could require senior bondholders to share the massive bill. 
 
-##### United States
+##### U.S.
 ### [United States country music singer Willie Nelson is charged with marijuana possession. ](/news/2010/11/26/united-states-country-music-singer-willie-nelson-is-charged-with-marijuana-possession.md)
-_Context: United States, Willie Nelson, country music, marijuana_
+_Context: U.S., Willie Nelson, country music, marijuana_
 
 ##### Houthi
 ### [A suicide bomb explodes at a rebel Houthi procession in northern Yemen, killing several people. ](/news/2010/11/26/a-suicide-bomb-explodes-at-a-rebel-houthi-procession-in-northern-yemen-killing-several-people.md)

@@ -37,7 +37,7 @@ American Express Co (AXP.N) has hindered price competition in the U.S. credit ca
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, says that if allegations that a German intelligence officer was working for the United States are true, it would be a "clear contradiction" of trust between allies. ](/news/2014/07/7/angela-merkel-the-chancellor-of-germany-says-that-if-allegations-that-a-german-intelligence-officer-was-working-for-the-united-states-are.md)
-_Context: Angela Merkel, Chancellor of Germany, German intelligence, United States_
+_Context: Angela Merkel, Chancellor of Germany, German intelligence, U.S._
 
 ##### 6.9 magnitude earthquake
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)

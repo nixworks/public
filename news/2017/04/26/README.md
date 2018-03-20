@@ -27,7 +27,7 @@ TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledglin
 ### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer whom Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along Anchorage's expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-whom-ritchie-had-tried-to-kill-in-the-fa.md)
 Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
 
-##### United States
+##### U.S.
 ### [The United States ended a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/26/the-united-states-ended-a-six-year-central-african-hunt-for-joseph-kony.md)
 One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
 

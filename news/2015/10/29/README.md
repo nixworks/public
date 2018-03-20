@@ -37,11 +37,11 @@ _Context: Cold War, FA-18 fighter jet, IHS Jane's Defence Weekly, President of R
 
 ##### Lockheed
 ### [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md)
-_Context: Lockheed, National Press Club, South Korea, South Korean Defense Minister, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, U.S. military, United States, Washington, D.C._
+_Context: Lockheed, National Press Club, South Korea, South Korean Defense Minister, U.S., U.S. Terminal High Altitude Area Defense (THAAD) system launchers, U.S. military, Washington, D.C._
 
 ##### Tensions in the region
 ### [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md)
-_Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, United States, United States Chief of Naval Operations, man-made islands, tensions in the region_
+_Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, U.S., United States Chief of Naval Operations, man-made islands, tensions in the region_
 
 ##### European Union
 ### [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md)

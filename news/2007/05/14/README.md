@@ -49,7 +49,7 @@ _Context: Military of the United States, MySpace, YouTube, video clips_
 
 ##### U.S. President
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, U.S. President, United States_
+_Context: Auto, George W. Bush, U.S., U.S. President_
 
 ##### Palestinian
 ### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)

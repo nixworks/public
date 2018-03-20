@@ -15,9 +15,9 @@ _Context: 2008, All-Ireland Senior Football Championship, Kerry, Tyrone_
 ### [ Israeli Prime Minister Ehud Olmert officially submits his resignation to President Shimon Peres. Foreign Minister Tzipi Livni begins talks on forming a new government. ](/news/2008/09/21/israeli-prime-minister-ehud-olmert-officially-submits-his-resignation-to-president-shimon-peres-foreign-minister-tzipi-livni-begins-talks.md)
 _Context: Ehud Olmert, Foreign Affairs Minister, Israel, President, Prime Minister, Shimon Peres, Tzipi Livni_
 
-##### United States
+##### U.S.
 ### [ The United States wins the Ryder Cup for the first time since 1999. ](/news/2008/09/21/the-united-states-wins-the-ryder-cup-for-the-first-time-since-1999.md)
-_Context: 1999, Ryder Cup, United States_
+_Context: 1999, Ryder Cup, U.S._
 
 ##### Social Democrats
 ### [ The Social Democrats, led by Borut Pahor, presumably win the Slovenian parliamentary election. ](/news/2008/09/21/the-social-democrats-led-by-borut-pahor-presumably-win-the-slovenian-parliamentary-election.md)

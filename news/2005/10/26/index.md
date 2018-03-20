@@ -45,7 +45,7 @@ _Context: 1917, 2005 World Series, Chicago White Sox, Houston Astros, Jermaine D
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Three U.S. Soldiers die in two separate insurgent attacks in Baghdad and near Baqouba. ](/news/2005/10/26/conflict-in-iraq-three-u-s-soldiers-die-in-two-separate-insurgent-attacks-in-baghdad-and-near-baqouba.md)
-_Context: Baghdad, Baqouba, Conflict in Iraq, Iraqi insurgency, United States, United States soldier_
+_Context: Baghdad, Baqouba, Conflict in Iraq, Iraqi insurgency, U.S., United States soldier_
 
 ## [Previous Day...](/news/2005/10/25/index.md)
 

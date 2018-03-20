@@ -19,7 +19,7 @@ The inauguration of Afghanistan&#039;s new parliament has been delayed by a mont
 ### [Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. ](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.md)
 _Context: Communist Party, Nguyen Phu Trong, Nong Duc Manh, Vietnam, elected_
 
-##### United States
+##### U.S.
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.
 

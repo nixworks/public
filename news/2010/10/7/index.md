@@ -39,7 +39,7 @@ More than 1,000 teachers have been sacked in Kenya for sexually abusing girls ov
 ### [Israel buys 20 F-35I variant radar-evading fighter jets from the United States, Israel's first batch of advanced fighter jets which arm the country with the most sophisticated combat aircraft in the Middle East. Officials at The Pentagon acknowledge the sale. ](/news/2010/10/7/israel-buys-20-f-35i-variant-radar-evading-fighter-jets-from-the-united-states-israel-s-first-batch-of-advanced-fighter-jets-which-arm-the.md)
 Agreement signed for deal worth &#036;2.75 billion including Israeli industries in production process, simulators, spare parts, will maintain Israel&#39;s qualitative military advantage in region
 
-##### United States
+##### U.S.
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.
 
@@ -79,7 +79,7 @@ _Context: $, Japan, United States Federal Reserve, currency, quantitative easing
 ### [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servants.md)
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.
 
-##### United States
+##### U.S.
 ### [United States film studio Metro Goldwyn Mayer begins plans to file for Chapter 11 bankruptcy in a bid to rid itself of $4 billion in debts. ](/news/2010/10/7/united-states-film-studio-metro-goldwyn-mayer-begins-plans-to-file-for-chapter-11-bankruptcy-in-a-bid-to-rid-itself-of-4-billion-in-debts.md)
 Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy protection to try to rid itself of $4bn of debts.
 

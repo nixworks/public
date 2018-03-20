@@ -11,7 +11,7 @@ _Context: 1953, Miller-Urey experiment, Stanley Miller, amino acid_
 ### [ Russia reports that two soldiers were killed and seven were wounded in an ambush by local Muslim separatists in Ingushetia. Other reports suggested as many as 40 Russian troops were killed. ](/news/2008/10/18/russia-reports-that-two-soldiers-were-killed-and-seven-were-wounded-in-an-ambush-by-local-muslim-separatists-in-ingushetia-other-reports-s.md)
 _Context: Ingushetia, Muslim, Russia_
 
-##### United States
+##### U.S.
 ### [ United States President George W. Bush meets with French President Nicolas Sarkozy and European Commission President Jos Manuel Barroso to discuss a proposal for a summit of world leaders to discuss the current economic crisis. ](/news/2008/10/18/united-states-president-george-w-bush-meets-with-french-president-nicolas-sarkozy-and-european-commission-president-jose-manuel-barroso-to.md)
 President Bush and European leaders agreed to take steps toward a series of international meetings to address the economic crisis, the White House said.
 

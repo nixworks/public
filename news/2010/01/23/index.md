@@ -15,9 +15,9 @@ With forecasters saying tornadoes are a possibility Thursday, some are wondering
 ### [Former Thai Prime Minister Thaksin Shinawatra leaves Cambodia on the eve of anti-government protests in Thailand. ](/news/2010/01/23/former-thai-prime-minister-thaksin-shinawatra-leaves-cambodia-on-the-eve-of-anti-government-protests-in-thailand.md)
 _Context: Cambodia, Prime Minister, Thai Society, Thailand, Thaksin Shinawatra_
 
-##### United States
+##### U.S.
 ### [A new assessment by the U.S. Geological Survey says Venezuela may hold double the oil reserves of Saudi Arabia. ](/news/2010/01/23/a-new-assessment-by-the-u-s-geological-survey-says-venezuela-may-hold-double-the-oil-reserves-of-saudi-arabia.md)
-_Context: Saudi Arabia, United States, United States Geological Survey, Venezuela, oil reserve_
+_Context: Saudi Arabia, U.S., United States Geological Survey, Venezuela, oil reserve_
 
 ##### Jim McCormick
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)
@@ -25,7 +25,7 @@ _Context: ADE 651, British, Jim McCormick, bomb detectors, fraud_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union condemns a U.S. Justice Department report that suggested 47 Guantanamo Bay detainees should be held indefinitely without trial. ](/news/2010/01/23/the-american-civil-liberties-union-condemns-a-u-s-justice-department-report-that-suggested-47-guanta-namo-bay-detainees-should-be-held-inde.md)
-_Context: American Civil Liberties Union, Guantanamo Bay, United States, United States Justice Department, detainees, indefinitely without trial_
+_Context: American Civil Liberties Union, Guantanamo Bay, U.S., United States Justice Department, detainees, indefinitely without trial_
 
 ##### Japan
 ### [Japanese prosecutors question Representative Ichiro Ozawa over an alleged party funding scandal. ](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.md)
@@ -47,9 +47,9 @@ _Context: Indonesia, Sulawesi island, landslide_
 ### [Thousands of protesters demonstrate in Venezuela for and against the polices of President Hugo Chavez amid a currency revaluation and energy shortages in the country. ](/news/2010/01/23/thousands-of-protesters-demonstrate-in-venezuela-for-and-against-the-polices-of-president-hugo-cha-vez-amid-a-currency-revaluation-and-energ.md)
 Thousands of Venezuelans marched for and against President Hugo Chavez on Saturday amid political and economic tensions fueled by a currency devaluation and shortages of water and power.
 
-##### United States
+##### U.S.
 ### [U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md)
-_Context: Iraq, Joe Biden, U.S. Vice President, United States, elections, political leader_
+_Context: Iraq, Joe Biden, U.S., U.S. Vice President, elections, political leader_
 
 ##### Haiti
 ### [The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/the-haitian-government-declares-earthquake-rescue-operations-over.md)

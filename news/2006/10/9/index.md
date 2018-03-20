@@ -3,7 +3,7 @@ Formats: [HTML](2006/10/9/index.html)  [JSON](2006/10/9/index.json)  [XML](2006/
 
 ## [2006-10-9](/news/2006/10/9/index.md)
 
-##### United States
+##### U.S.
 ### [ American Edmund S. Phelps wins the 2006 Nobel Memorial Prize in Economic Sciences for work on the trade-offs between inflation and unemployment. ](/news/2006/10/9/american-edmund-s-phelps-wins-the-2006-nobel-memorial-prize-in-economic-sciences-for-work-on-the-trade-offs-between-inflation-and-unemploy.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 

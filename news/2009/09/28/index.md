@@ -73,7 +73,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Roman Polanski
 ### [ Roman Polanski officially challenges his proposed extradition from Switzerland to the United States to face child sexual abuse charges stemming from a 1977 incident. ](/news/2009/09/28/roman-polanski-officially-challenges-his-proposed-extradition-from-switzerland-to-the-united-states-to-face-child-sexual-abuse-charges-stem.md)
-_Context: Roman Polanski, Swiss, United States, extradition, sexually assaulted_
+_Context: Roman Polanski, Swiss, U.S., extradition, sexually assaulted_
 
 ##### Typhoon Ketsana
 ### [ The death toll in the worst flooding in the Philippines for forty years reaches 140 as the capital Manila is "overwhelmed". ](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.md)

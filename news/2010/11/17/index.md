@@ -55,7 +55,7 @@ More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 The number of U.S. mortgage applications dropped last week by the most this year as an increase in borrowing costs caused refinancing to plunge.
 
-##### United States
+##### U.S.
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 Barclays Plc said disputes over an $11 billion profit it allegedly made buying bankrupt Lehman Brothers Holdings Inc.’s brokerage may not all be resolved in a current trial and might need “further adjudication.”
 

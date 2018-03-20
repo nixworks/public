@@ -63,7 +63,7 @@ _Context: Labour Party, manifesto_
 ### [U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security-in-particular-how-to-keep.md)
 _Context: Barack Obama, Nuclear Security Summit, terrorists_
 
-##### United States
+##### U.S.
 ### [The United States opens fire on a bus in Afghanistan, knocking the driver unconscious, killing as many as five civilians, including a woman, and wounding at least 18 other passengers.](/news/2010/04/12/the-united-states-opens-fire-on-a-bus-in-afghanistan-knocking-the-driver-unconscious-killing-as-many-as-five-civilians-including-a-woman.md)
 An attack that killed as many as five people infuriated leaders in Kandahar before an important offensive.
 

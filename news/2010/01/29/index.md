@@ -47,7 +47,7 @@ _Context: Bolivia, Peru, states of emergency_
 ### [Haiti acknowledges the immediate international assistance it received from Cuba, the Dominican Republic and Venezuela following the recent earthquake and confirms the death toll has reached 150,000. ](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.md)
 _Context: 2010 Haiti earthquake, Cuba, Dominican Republic, Haiti, Venezuela_
 
-##### United States
+##### U.S.
 ### [The United States approves a US$6 billion arms sales package to Taiwan. ](/news/2010/01/29/the-united-states-approves-a-us-6-billion-arms-sales-package-to-taiwan.md)
 That move has enraged China and may complicate President Obama’s effort to enlist that country’s cooperation in curbing Iran’s nuclear aspirations.
 

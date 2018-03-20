@@ -25,7 +25,7 @@ Local support is waning with people in the town of Burns expressing dismay at me
 
 ##### U.S. airstrikes
 ### [A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md)
-_Context: Mosul, U.S. airstrikes, United States_
+_Context: Mosul, U.S., U.S. airstrikes_
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 51 people are reportedly killed in an attack on a shopping centre in Iraq's capital, Baghdad, and a car bombing outside an illegal casino in Miqdadiyah, east of Baghdad, with the Islamic State of Iraq and the Levant claiming responsibility for both attacks. ](/news/2016/01/11/at-least-51-people-are-reportedly-killed-in-an-attack-on-a-shopping-centre-in-iraq-s-capital-baghdad-and-a-car-bombing-outside-an-illegal.md)

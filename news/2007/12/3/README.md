@@ -19,9 +19,9 @@ _Context: Muttiah Muralitharan, Shane Warne, Sri Lanka, test cricket, wicket_
 ### [ The Sudanese President Omar al-Bashir pardons a teacher at Unity High School for her alleged insult in the naming of her class's teddy bear "Muhammad". ](/news/2007/12/3/the-sudanese-president-omar-al-bashir-pardons-a-teacher-at-unity-high-school-for-her-alleged-insult-in-the-naming-of-her-class-s-teddy-bear.md)
 _Context: Muhammad, Omar al-Bashir, President of Sudan, Sudan, Unity High School, naming of her class's teddy bear_
 
-##### United States
+##### U.S.
 ### [ The United States National Intelligence Estimate of November 2007 reports with "high confidence" that Iran stopped its nuclear weapons program in the fall of 2003 and has probably not restarted it since. ](/news/2007/12/3/the-united-states-national-intelligence-estimate-of-november-2007-reports-with-high-confidence-that-iran-stopped-its-nuclear-weapons-prog.md)
-_Context: 2003, Iran, Iran and weapons of mass destruction, National Intelligence Estimate, November 2007, United States_
+_Context: 2003, Iran, Iran and weapons of mass destruction, National Intelligence Estimate, November 2007, U.S._
 
 ## [Previous Day...](/news/2007/12/2/index.md)
 

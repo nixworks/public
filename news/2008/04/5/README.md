@@ -13,7 +13,7 @@ Texas officials removed more people on Sunday from a ranch belonging to a breaka
 
 ##### High school
 ### [ A bus carrying high school band students tips over on Interstate 94 northwest of Minneapolis, Minnesota, United States, killing one person and leaving three others in critical condition. ](/news/2008/04/5/a-bus-carrying-high-school-band-students-tips-over-on-interstate-94-northwest-of-minneapolis-minnesota-united-states-killing-one-person.md)
-_Context: Interstate 94, Minneapolis, Minnesota, United States, high school_
+_Context: Interstate 94, Minneapolis, Minnesota, U.S., high school_
 
 ## [Previous Day...](/news/2008/04/4/index.md)
 

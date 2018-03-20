@@ -23,7 +23,7 @@ _Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners
 ### [British businessman James McCormick is convicted at the Old Bailey on three counts of fraud after selling fake bomb detectors based on a device for finding golf balls to countries including Iraq and Georgia. ](/news/2013/04/23/british-businessman-james-mccormick-is-convicted-at-the-old-bailey-on-three-counts-of-fraud-after-selling-fake-bomb-detectors-based-on-a-dev.md)
 A millionaire businessman who sold fake bomb detectors to countries including Iraq and Georgia, knowing they did not work, is convicted of fraud.
 
-##### United States
+##### U.S.
 ### [The United States stock market undergoes a flash crash (similar to 2010) of 1 percent when the Twitter feed from the Associated Press news agency is hacked and erroneously states that several explosions have injured President Barack Obama. ](/news/2013/04/23/the-united-states-stock-market-undergoes-a-flash-crash-similar-to-2010-of-1-percent-when-the-twitter-feed-from-the-associated-press-news-a.md)
 A news agency tweet, that turned out to be fake about explosions at the White House injuring President Obama, sent markets on a round trip roller coaster ride.
 

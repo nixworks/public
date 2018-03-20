@@ -9,7 +9,7 @@ A man wanted on suspicion of kidnapping and torturing two women in Oregon is arr
 
 ##### Governor
 ### [Oklahoma Governor Mary Fallin issues a 37-day stay of Richard Glossip's execution that was scheduled for today to allow the American state time to address questions about chemicals and protocol. Pope Francis, who spent last week in the U.S., asked Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the United States, to intercede with the governor and request she commute Glossip's sentence. ](/news/2015/09/30/oklahoma-governor-mary-fallin-issues-a-37-day-stay-of-richard-glossip-s-execution-that-was-scheduled-for-today-to-allow-the-american-state-t.md)
-_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, United States, governor, stay, to the U.S._
+_Context: Archbishop Carlo Maria Vigano, Mary Fallin, Pope Francis, Richard Glossip's, U.S., governor, stay, to the U.S._
 
 ##### Georgia
 ### [The American state of Georgia executes Kelly Gissendaner for her role in the murder of her husband despite several appeals and a plea for clemency by Pope Francis. ](/news/2015/09/30/the-american-state-of-georgia-executes-kelly-gissendaner-for-her-role-in-the-murder-of-her-husband-despite-several-appeals-and-a-plea-for-cl.md)

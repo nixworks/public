@@ -15,7 +15,7 @@ _Context: Hugo Chavez, President, Venezuela, term limit, the constitution_
 ### [ The Prime Minister of Kyrgyzstan Almaz Atambayev and the President of the People's Republic of China Hu Jintao meet to discuss Kyrgyz participation in a Turkmenistan-China gas pipeline. ](/news/2007/08/16/the-prime-minister-of-kyrgyzstan-almaz-atambayev-and-the-president-of-the-people-s-republic-of-china-hu-jintao-meet-to-discuss-kyrgyz-parti.md)
 _Context: Almaz Atambayev, China, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan, president_
 
-##### United States
+##### U.S.
 ### [ United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-first-phase-of-op.md)
 U.S. forces launched an airborne assault on a desert compound south of Baghdad on Thursday, the first air strike in a major new offensive.
 
@@ -31,7 +31,7 @@ A powerful earthquake has devastated several Peruvian cities killing at least 33
 ### [ 2007 Atlantic hurricane season: Hurricane Dean becomes the first hurricane of the season, threatening the Lesser Antilles, while Tropical Storm Erin threatens Texas. At least five people died in thunderstorms resulting from Erin while another two people went missing. ](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.md)
 _Context: 2007, Hurricane Dean, Lesser Antilles, Texas, Tropical Storm Erin, hurricane_
 
-##### United States
+##### U.S.
 ### [ The United States and Israel agree to a $30 billion military aid package. ](/news/2007/08/16/the-united-states-and-israel-agree-to-a-30-billion-military-aid-package.md)
 The aid deal signed in a ceremony in Jerusalem represents a 25 percent rise in U.S. military aid to Israel, from a current $2.4 billion each year to $3 billion a year over 10 years.
 
@@ -43,7 +43,7 @@ North Korea detailed a picture of widespread devastation on Wednesday after heav
 ### [ Human rights in Iran: Over 200 people are arrested in Iran for attending an "illegal rock concert" which included alcohol and female singers. ](/news/2007/08/16/human-rights-in-iran-over-200-people-are-arrested-in-iran-for-attending-an-illegal-rock-concert-which-included-alcohol-and-female-singer.md)
 _Context: Human rights in Iran, Iran, alcohol, female singers, rock concert_
 
-##### United States
+##### U.S.
 ### [ U.S. jihadist Jose Padilla is convicted on all counts of supporting terrorism. ](/news/2007/08/16/u-s-jihadist-josa-c-padilla-is-convicted-on-all-counts-of-supporting-terrorism.md)
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.
 
@@ -57,7 +57,7 @@ _Context: British government, Zimbabwe_
 
 ##### Russia
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation, United States_
+_Context: Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation, U.S._
 
 ##### Seismic
 ### [ Three people are killed and another six injured as a seismic jolt disrupts an attempted mine rescue effort at the Crandall Canyon Mine near Huntington, Utah, United States. ](/news/2007/08/16/three-people-are-killed-and-another-six-injured-as-a-seismic-jolt-disrupts-an-attempted-mine-rescue-effort-at-the-crandall-canyon-mine-near.md)

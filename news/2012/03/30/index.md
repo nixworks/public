@@ -39,7 +39,7 @@ _Context: Indonesian, Malaysia_
 
 ##### Huanglongbing
 ### [Huanglongbing or citrus greening, a disease which has killed millions of citrus trees in Brazil and Florida, is discovered in a residential section of Los Angeles County, California, in the United States. ](/news/2012/03/30/huanglongbing-or-citrus-greening-a-disease-which-has-killed-millions-of-citrus-trees-in-brazil-and-florida-is-discovered-in-a-residential.md)
-_Context: Brazil, Florida, Huanglongbing, Los Angeles County, California, United States, citrus_
+_Context: Brazil, Florida, Huanglongbing, Los Angeles County, California, U.S., citrus_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md)
@@ -47,7 +47,7 @@ World-record prize increases by $100 million hours before much-anticipated late-
 
 ##### VISA
 ### [VISA and MasterCard warn banks across the United States about a "massive" breach of security with more than ten million credit card numbers potentially compromised. ](/news/2012/03/30/visa-and-mastercard-warn-banks-across-the-united-states-about-a-massive-breach-of-security-with-more-than-ten-million-credit-card-numbers.md)
-_Context: MasterCard, United States, VISA, credit card_
+_Context: MasterCard, U.S., VISA, credit card_
 
 ##### 
 ### [The Spanish government cuts 27 billion euros from the country's budget as part of one of the toughest austerity drives in its history. ](/news/2012/03/30/the-spanish-government-cuts-27-billion-euros-from-the-country-s-budget-as-part-of-one-of-the-toughest-austerity-drives-in-its-history.md)
@@ -69,9 +69,9 @@ A Palestinian man has been shot dead by Israeli security forces in the Gaza Stri
 ### [Gunmen kill Zain-ul-Abdeen, a leader of the ethnic Pashtun Awami National Party, in Karachi. ](/news/2012/03/30/gunmen-kill-zain-ul-abdeen-a-leader-of-the-ethnic-pashtun-awami-national-party-in-karachi.md)
 _Context: Awami National Party, Karachi, Pashtun, Zain-ul-Abdeen_
 
-##### United States
+##### U.S.
 ### [A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
-_Context: Miran Shah, North Waziristan, United States, drones launch_
+_Context: Miran Shah, North Waziristan, U.S., drones launch_
 
 ##### 2011-2012 Syrian uprising
 ### [Syrian uprising:The Syrian government says that the revolt against the regime of President Bashar al-Assad has ended, but it will still keep soldiers inside cities, "for security". ](/news/2012/03/30/syrian-uprising-the-syrian-government-says-that-the-revolt-against-the-regime-of-president-bashar-al-assad-has-ended-but-it-will-still-keep.md)

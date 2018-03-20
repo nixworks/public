@@ -7,9 +7,9 @@ Formats: [HTML](2011/02/9/index.html)  [JSON](2011/02/9/index.json)  [XML](2011/
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_
 
-##### United States
+##### U.S.
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democrat, Democratic Leadership Council, United States_
+_Context: Democrat, Democratic Leadership Council, U.S._
 
 ##### United States House of Representatives
 ### [US Representative Chris Lee representing New York's 26th congressional district resigns after it is revealed that he sent a racy photo to a woman who was not his wife. ](/news/2011/02/9/us-representative-chris-lee-representing-new-york-s-26th-congressional-district-resigns-after-it-is-revealed-that-he-sent-a-racy-photo-to-a.md)
@@ -25,7 +25,7 @@ _Context: Basque language, Basque nationalists, ETA, Sortu_
 
 ##### Daniel Patrick Boyd
 ### [Daniel Patrick Boyd pleads guilty to terrorism charges in a trial in the US state of North Carolina. ](/news/2011/02/9/daniel-patrick-boyd-pleads-guilty-to-terrorism-charges-in-a-trial-in-the-us-state-of-north-carolina.md)
-_Context: Daniel Patrick Boyd, North Carolina, United States, terrorism_
+_Context: Daniel Patrick Boyd, North Carolina, U.S., terrorism_
 
 ##### President of Liberia
 ### [The trial of former President of Liberia Charles Taylor is adjourned until Friday after he does not attend court in The Hague. ](/news/2011/02/9/the-trial-of-former-president-of-liberia-charles-taylor-is-adjourned-until-friday-after-he-does-not-attend-court-in-the-hague.md)

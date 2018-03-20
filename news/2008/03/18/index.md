@@ -31,13 +31,13 @@ _Context: India, Manipur_
 ### [ The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter." ](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.md)
 _Context: Colombia, Ecuador, Organization of American States_
 
-##### United States
+##### U.S.
 ### [ The United States embassy in Yemen is closed after three mortar shells detonate near the embassy compound. Two people are killed in the attack. ](/news/2008/03/18/the-united-states-embassy-in-yemen-is-closed-after-three-mortar-shells-detonate-near-the-embassy-compound-two-people-are-killed-in-the-att.md)
-_Context: Mortar, United States, Yemen, embassy_
+_Context: Mortar, U.S., Yemen, embassy_
 
-##### United States
+##### U.S.
 ### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
-_Context: Federal Reserve System, United States, federal funds rate_
+_Context: Federal Reserve System, U.S., federal funds rate_
 
 ##### Israel
 ### [ In an address to the Israeli Knesset, German Chancellor Angela Merkel says "Germany will always stand by the Jewish state." ](/news/2008/03/18/in-an-address-to-the-israeli-knesset-german-chancellor-angela-merkel-says-germany-will-always-stand-by-the-jewish-state.md)

@@ -3,9 +3,9 @@ Formats: [HTML](2007/06/2/index.html)  [JSON](2007/06/2/index.json)  [XML](2007/
 
 ## [2007-06-2](/news/2007/06/2/index.md)
 
-##### United States
+##### U.S.
 ### [ The United States Federal Bureau of Investigation names Alexis Flores as the 487th person placed on the FBI Ten Most Wanted Fugitives list. He is wanted for the kidnapping, rape and murder of a five-year-old girl in Philadelphia, Pennsylvania. ](/news/2007/06/2/the-united-states-federal-bureau-of-investigation-names-alexis-flores-as-the-487th-person-placed-on-the-fbi-ten-most-wanted-fugitives-list.md)
-_Context: 10 Most Wanted Fugitives list, Alexis Flores, FBI, Philadelphia, Pennsylvania, United States, kidnapping, murder, rape_
+_Context: 10 Most Wanted Fugitives list, Alexis Flores, FBI, Philadelphia, Pennsylvania, U.S., kidnapping, murder, rape_
 
 ##### President
 ### [ The President of Algeria Abdelaziz Bouteflika accepts the resignation of his Cabinet after recent elections. The Prime Minister of Algeria Abdelaziz Belkhadem is expected to retain his position when a new Cabinet is chosen. ](/news/2007/06/2/the-president-of-algeria-abdelaziz-bouteflika-accepts-the-resignation-of-his-cabinet-after-recent-elections-the-prime-minister-of-algeria.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2015/03/20/index.html)  [JSON](2015/03/20/index.json)  [XML](201
 
 ## [2015-03-20](/news/2015/03/20/index.md)
 
-##### United States
+##### U.S.
 ### [The United States Food and Drug Administration approves genetically modified potatoes and apples. ](/news/2015/03/20/the-united-states-food-and-drug-administration-approves-genetically-modified-potatoes-and-apples.md)
 Genetically modified apples and potatoes approved by FDA
 

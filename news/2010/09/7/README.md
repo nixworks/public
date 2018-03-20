@@ -33,9 +33,9 @@ _Context: Srinagar_
 
 ##### Mark David Chapman
 ### [Mark David Chapman, John Lennon's killer, is denied parole by the New York State Division of Parole in the U.S.. ](/news/2010/09/7/mark-david-chapman-john-lennon-s-killer-is-denied-parole-by-the-new-york-state-division-of-parole-in-the-u-s.md)
-_Context: John Lennon, Mark David Chapman, New York City, United States, parole_
+_Context: John Lennon, Mark David Chapman, New York City, U.S., parole_
 
-##### United States
+##### U.S.
 ### [Around 85 fires break out in the U.S. city of Detroit, Michigan, with at least 20 homes destroyed. Winds of 40 to 50 mph cause 113,000 customers to lose electricity. ](/news/2010/09/7/around-85-fires-break-out-in-the-u-s-city-of-detroit-michigan-with-at-least-20-homes-destroyed-winds-of-40-to-50-mph-cause-113-000-custo.md)
 A rash of fires were blazing this evening in four separate Detroit neighborhoods, destroying at least 20 homes, according to witnesses and local reports.
 

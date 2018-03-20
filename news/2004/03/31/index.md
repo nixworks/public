@@ -25,7 +25,7 @@ _Context: British House of Commons, Higher Education Bill, Wales, second reading
 
 ##### International Court of Justice
 ### [ The International Court of Justice rules that the US violated the rights of 51 Mexican citizens on death row for murder and orders a review of their cases. ](/news/2004/03/31/the-international-court-of-justice-rules-that-the-us-violated-the-rights-of-51-mexican-citizens-on-death-row-for-murder-and-orders-a-review.md)
-_Context: Capital punishment in the United States, International Court of Justice, Mexico, murder_
+_Context: International Court of Justice, Mexico, death penalty, murder_
 
 ##### The Guardian
 ### [ The "Guardian" newspaper quotes British security service sources as believing that yesterday's raids may have stopped a major terrorist bombing. The sources state that MI5 and MI6 worked with police during the investigation leading to the raids. ](/news/2004/03/31/the-guardian-newspaper-quotes-british-security-service-sources-as-believing-that-yesterday-s-raids-may-have-stopped-a-major-terrorist-bom.md)

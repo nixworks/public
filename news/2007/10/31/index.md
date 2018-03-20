@@ -33,7 +33,7 @@ _Context: Togliatti, Russia, bomb_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush nominates Fmr. Governor of North Dakota Ed Schafer for United States Secretary of Agriculture. ](/news/2007/10/31/the-president-of-the-united-states-george-w-bush-nominates-fmr-governor-of-north-dakota-ed-schafer-for-united-states-secretary-of-agricul.md)
-_Context: Ed Schafer, George W. Bush, Governor, North Dakota, U.S. President, United States, United States Secretary of Agriculture_
+_Context: Ed Schafer, George W. Bush, Governor, North Dakota, U.S., U.S. President, United States Secretary of Agriculture_
 
 ##### United States Federal Reserve
 ### [ The United States Federal Reserve reduces short-term interest rates to 4.5 per cent, the second cut in three months. ](/news/2007/10/31/the-united-states-federal-reserve-reduces-short-term-interest-rates-to-4-5-per-cent-the-second-cut-in-three-months.md)

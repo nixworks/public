@@ -9,7 +9,7 @@ _Context: Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, coup
 
 ##### North Korea
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: China, North Korea, United States_
+_Context: China, North Korea, U.S._
 
 ##### Thailand
 ### [ The Thai Government lifts martial law in 41 of the country's 76 provinces as recommended by coup leader Sonthi Boonyaratglin. ](/news/2006/11/28/the-thai-government-lifts-martial-law-in-41-of-the-country-s-76-provinces-as-recommended-by-coup-leader-sonthi-boonyaratglin.md)
@@ -29,7 +29,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Ben Bernanke
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
-_Context: Ben Bernanke, Federal Reserve, United States, inflation_
+_Context: Ben Bernanke, Federal Reserve, U.S., inflation_
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons supports a motion recognising the people of Quebec as a separate nation within a united Canada. ](/news/2006/11/28/the-canadian-house-of-commons-supports-a-motion-recognising-the-people-of-quebec-as-a-separate-nation-within-a-united-canada.md)

@@ -63,7 +63,7 @@ _Context: China, Guizhou_
 ### [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md)
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
-##### United States
+##### U.S.
 ### [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md)
 (Adds HNA Airport Holding and Dynasty Financial Partners; Updates Ant Financial, Wal-Mart, Williams Partners and EagleClaw Midstream Ventures)
 

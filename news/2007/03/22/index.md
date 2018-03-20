@@ -17,7 +17,7 @@ _Context: Amnesty International, Guantanamo Bay, U.S. military_
 
 ##### Ambassador to the United Nations
 ### [ Former U.S. Ambassador to the United Nations John R. Bolton claims the United States deliberately resisted calls for an immediate ceasefire during the 2006 Israel-Lebanon conflict. ](/news/2007/03/22/former-u-s-ambassador-to-the-united-nations-john-r-bolton-claims-the-united-states-deliberately-resisted-calls-for-an-immediate-ceasefire.md)
-_Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
+_Context: Ambassador to the United Nations, John R. Bolton, U.S., ceasefire, war_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-Moon is left shocked, but uninjured at a press conference with Iraqi Prime Minister Nouri Maliki in Baghdad as a nearby bomb explodes. ](/news/2007/03/22/united-nations-secretary-general-ban-ki-moon-is-left-shocked-but-uninjured-at-a-press-conference-with-iraqi-prime-minister-nouri-maliki-in.md)

@@ -11,7 +11,7 @@ _Context: Finlyandsky Rail Terminal, Lenin, Russia, Saint Petersburg, bomb, stat
 ### [ Sweden's Parliament legalizes same-sex marriage. ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)
 _Context: Riksdag, Sweden, legalizes, same-sex marriage_
 
-##### United States
+##### U.S.
 ### [ The United States' World War II motor ship City of Rayville is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-is-located-near-australia.md)
 Researchers mapping the sea floor off Victoria have uncovered the rusting wreck of the first American vessel to be sunk during World War II.
 
@@ -43,13 +43,13 @@ _Context: Ukraine, Ukrainian President, election_
 ### [ Local government in England undergoes structural changes. ](/news/2009/04/1/local-government-in-england-undergoes-structural-changes.md)
 _Context: England, local government, structural changes_
 
-##### United States
+##### U.S.
 ### [ The United States and Russia begin Strategic Arms Limitation Talks. ](/news/2009/04/1/the-united-states-and-russia-begin-strategic-arms-limitation-talks.md)
-_Context: Russia, Strategic Arms Limitation Talks, United States_
+_Context: Russia, Strategic Arms Limitation Talks, U.S._
 
-##### United States
+##### U.S.
 ### [ The 72-year-old American soap opera "Guiding Light" will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
-_Context: Guiding Light, United States, broadcaster, soap opera_
+_Context: Guiding Light, U.S., broadcaster, soap opera_
 
 ## [Previous Day...](/news/2009/03/31/index.md)
 

@@ -21,7 +21,7 @@ A Carnival cruise ship in the Caribbean is operating on emergency power in the w
 
 ##### Bell 206
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
-_Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, United States, helicopter_
+_Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, U.S., helicopter_
 
 ##### Lifeboat
 ### [A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. ](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomson-majesty-while-it-was-docked-in-the-port-of-santa-cruz-de-la-palma-in-the-canary-islands-ki.md)
@@ -29,7 +29,7 @@ A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea,
 
 ##### 2013 Hattiesburg, Mississippi tornado
 ### [2013 Hattiesburg, Mississippi tornado: A tornado causes significant damage to the American town of Hattiesburg, Mississippi. ](/news/2013/02/10/2013-hattiesburg-mississippi-tornado-a-tornado-causes-significant-damage-to-the-american-town-of-hattiesburg-mississippi.md)
-_Context: 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, United States, tornado_
+_Context: 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, U.S., tornado_
 
 ##### 2013 Kumbh Mela stampede
 ### [2013 Kumbh Mela stampede: A stampede of people at the Allahabad railway station, India, coming back from bathing in the Ganges River during the Kumbh Mela festival, kills 36 and injures 39 many others. ](/news/2013/02/10/2013-kumbh-mela-stampede-a-stampede-of-people-at-the-allahabad-railway-station-india-coming-back-from-bathing-in-the-ganges-river-during.md)

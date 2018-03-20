@@ -13,7 +13,7 @@ New Likud leader addresses ruling party activists following primaries win, says 
 
 ##### Transport Workers Union
 ### [ Local 100 of the Transport Workers Union declares a New York City transit strike after talks fail, shutting down the subway and bus system that constitute the largest transportation system in the United States. (Wikinews) ](/news/2005/12/20/local-100-of-the-transport-workers-union-declares-a-new-york-city-transit-strike-after-talks-fail-shutting-down-the-subway-and-bus-system.md)
-_Context: (Wikinews), 2005 New York City transit strike, Transport Workers Union, United States, subways_
+_Context: (Wikinews), 2005 New York City transit strike, Transport Workers Union, U.S., subways_
 
 ##### Pakistan
 ### [ At least 20 people die as a bus in Pakistani-controlled Kashmir skids from the road, tumbles down a hill and lands in the river Jhelum. ](/news/2005/12/20/at-least-20-people-die-as-a-bus-in-pakistani-controlled-kashmir-skids-from-the-road-tumbles-down-a-hill-and-lands-in-the-river-jhelum.md)

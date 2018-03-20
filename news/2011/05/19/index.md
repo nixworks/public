@@ -101,7 +101,7 @@ _Context: Libya, Muammar Gaddafi, state media_
 
 ##### Syria
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, United States, protestors_
+_Context: Bashar al-Assad, President, Syria, U.S., protestors_
 
 ## [Previous Day...](/news/2011/05/18/index.md)
 

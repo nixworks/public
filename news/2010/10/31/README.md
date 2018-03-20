@@ -19,9 +19,9 @@ _Context: Brazil, Brazilian presidential election, Dilma Rousseff, Jos Serra, pr
 ### [The Somali parliament approves Mohamed Abdullahi Mohamed as Prime Minister. ](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.md)
 Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x2...
 
-##### United States
+##### U.S.
 ### [A United States military commission sentences Guantanamo Bay detainee Omar Khadr to eight more years in prison after pleading guilty to the murder of an American soldier in 2002. ](/news/2010/10/31/a-united-states-military-commission-sentences-guantanamo-bay-detainee-omar-khadr-to-eight-more-years-in-prison-after-pleading-guilty-to-the.md)
-_Context: Guantanamo Bay, Guantanamo military commission, Omar Khadr, United States_
+_Context: Guantanamo Bay, Guantanamo military commission, Omar Khadr, U.S._
 
 ##### New Zealand
 ### [Six New Zealanders return home after breaking Israel's blockade of Gaza claiming to have delivered medical aid and a message of international solidarity. ](/news/2010/10/31/six-new-zealanders-return-home-after-breaking-israel-s-blockade-of-gaza-claiming-to-have-delivered-medical-aid-and-a-message-of-internationa.md)
@@ -67,7 +67,7 @@ A suicide bomb blast in the centre of Istanbul injures 32 people, including 15 p
 ### [Nigeria intercepts a weapons shipment including artillery rockets, originating in Iran, after Israeli officials accused Iran of trying to smuggle the weapons into the Hamas-controlled Gaza Strip. ](/news/2010/10/31/nigeria-intercepts-a-weapons-shipment-including-artillery-rockets-originating-in-iran-after-israeli-officials-accused-iran-of-trying-to-sm.md)
 Confirmation comes after Israeli officials accuse Teheran of attempting to smuggle shipment including rockets into Gaza through Africa.
 
-##### United States
+##### U.S.
 ### [The US, UK, France and Germany ban all air freight from Yemen at their respective countries' airports following the discovery of two explosive packages. ](/news/2010/10/31/the-us-uk-france-and-germany-ban-all-air-freight-from-yemen-at-their-respective-countries-airports-following-the-discovery-of-two-explosi.md)
 Al-Qaida in Yemen suspected of sending cargo bombs reportedly destined for two Chicago synagogues; two women arrested; UK: Plane may have been target.
 

@@ -49,7 +49,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Emperor, Fukushima Daiichi nuclear
 
 ##### General Motors
 ### [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md)
-_Context: General Motors, San Francisco, self-driving cars, software company_
+_Context: General Motors, San Francisco, self-driving car, software company_
 
 ##### Bangladesh Bank money laundering case
 ### [Bangladeshi bank officials say unknown hackers installed malware in the bank's computer systems in last month's attempt to steal nearly $1 billion from the central bank's account at the Federal Reserve Bank of New York. ](/news/2016/03/11/bangladeshi-bank-officials-say-unknown-hackers-installed-malware-in-the-bank-s-computer-systems-in-last-month-s-attempt-to-steal-nearly-1-b.md)

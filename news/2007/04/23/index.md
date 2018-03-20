@@ -7,9 +7,9 @@ Formats: [HTML](2007/04/23/index.html)  [JSON](2007/04/23/index.json)  [XML](200
 ### [ VA allows Wiccan symbols on headstones. ](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.md)
 After a lawsuit advocating the usage of Wiccan pentacles on headstones, the US Department of Veterans Affairs added the symbol to its list of approved emblems.
 
-##### United States
+##### U.S.
 ### [ The United States' 391st National Park Unit, Sand Creek Massacre National Historic Site, is formally established. ](/news/2007/04/23/the-united-states-391st-national-park-unit-sand-creek-massacre-national-historic-site-is-formally-established.md)
-_Context: National Park Unit, Sand Creek Massacre National Historic Site, United States_
+_Context: National Park Unit, Sand Creek Massacre National Historic Site, U.S._
 
 ##### NASA
 ### [ NASA releases the first 3D images of the Sun acquired by the STEREO spacecraft. ](/news/2007/04/23/nasa-releases-the-first-3d-images-of-the-sun-acquired-by-the-stereo-spacecraft.md)

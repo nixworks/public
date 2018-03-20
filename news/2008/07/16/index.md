@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/16/index.html)  [JSON](2008/07/16/index.json)  [XML](200
 
 ##### Afghanistan
 ### [ Afghan authorities confirm that 52 civilians were killed by an American airstrike at a wedding on Sunday. ](/news/2008/07/16/afghan-authorities-confirm-that-52-civilians-were-killed-by-an-american-airstrike-at-a-wedding-on-sunday.md)
-_Context: Afghanistan, United States, airstrike_
+_Context: Afghanistan, U.S., airstrike_
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md)

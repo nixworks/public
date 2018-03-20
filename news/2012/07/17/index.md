@@ -33,7 +33,7 @@ _Context: Bombardier CRJ200, SkyWest Airlines, St. George Municipal Airport, Uta
 
 ##### Delta Air Lines
 ### [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md)
-_Context: Amsterdam Airport Schiphol, Delta Air Lines, Dutch, FBI, United States_
+_Context: Amsterdam Airport Schiphol, Delta Air Lines, Dutch, FBI, U.S._
 
 ##### Kapisa province
 ### [An Afghan soldier, Abdul Saboor, who killed five French soldiers in a remote part of Kapisa province in January 2012, is sentenced to death by an Afghan military court. ](/news/2012/07/17/an-afghan-soldier-abdul-saboor-who-killed-five-french-soldiers-in-a-remote-part-of-kapisa-province-in-january-2012-is-sentenced-to-death.md)

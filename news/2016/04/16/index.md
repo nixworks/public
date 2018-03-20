@@ -23,7 +23,7 @@ _Context: Mexico, Salvador Cienfuegos Zepeda, Secretary of National Defence_
 ### [A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatened-by-a-russian-sukhoi-su-27-fighter-jet-in-inte.md)
 A Russian fighter jet flew dangerously close to a U.S. RC-135 reconnaissance aircraft on Thursday in the latest military provocation by Moscow over the Baltic Sea, the U.S. European Command said Saturday.
 
-##### United States
+##### U.S.
 ### [The United States announces that it will transfer nine Yemeni detainees from the Guantanamo Bay detention camp to Saudi Arabia. ](/news/2016/04/16/the-united-states-announces-that-it-will-transfer-nine-yemeni-detainees-from-the-guantanamo-bay-detention-camp-to-saudi-arabia.md)
 MIAMI (AP) — The U.S. has released nine more prisoners from its base at Guantanamo Bay, Cuba, and sent them to Saudi Arabia for resettlement, officials said Saturday. The move announced in a Pentagon statement is part…
 

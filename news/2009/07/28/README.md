@@ -63,9 +63,9 @@ _Context: Kashmir, Omar Abdullah, prostitution, sex_
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_
 
-##### United States
+##### U.S.
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: China, U.S.-China Strategic and Economic Dialogue, United States_
+_Context: China, U.S., U.S.-China Strategic and Economic Dialogue_
 
 ##### England
 ### [ England and Japan will stage the Rugby World Cup in 2015 and 2019 respectively. ](/news/2009/07/28/england-and-japan-will-stage-the-rugby-world-cup-in-2015-and-2019-respectively.md)

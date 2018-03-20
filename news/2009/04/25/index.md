@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/25/index.html)  [JSON](2009/04/25/index.json)  [XML](200
 
 ##### University of Georgia
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
-_Context: Athens, George Zinkhan, Georgia, Professor, United States, University of Georgia_
+_Context: Athens, George Zinkhan, Georgia, Professor, U.S., University of Georgia_
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Patriot" and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/5/index.html)  [JSON](2005/10/5/index.json)  [XML](2005/
 
 ##### Veto
 ### [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md)
-_Context: Democrat, George W. Bush, Republican, United States, United States Senate, veto_
+_Context: Democrat, George W. Bush, Republican, U.S., United States Senate, veto_
 
 ##### Stan
 ### [ Hurricane Stan strikes Mexico and Central America, at least 66 people have died, most of them in landslides in El Salvador. ](/news/2005/10/5/hurricane-stan-strikes-mexico-and-central-america-at-least-66-people-have-died-most-of-them-in-landslides-in-el-salvador.md)
@@ -31,7 +31,7 @@ _Context: 10 Downing Street, AS-28, British, Kamchatka Peninsula, Order of Marit
 ### [ The Roman Catholic bishops of England, Wales, and Scotland issue a teaching guide which explains biblical passages should not be taken literally. The Creation, Garden of Eden and the creation of Eve from Adam's rib are considered to be "symbolic language". ](/news/2005/10/5/the-roman-catholic-bishops-of-england-wales-and-scotland-issue-a-teaching-guide-which-explains-biblical-passages-should-not-be-taken-lite.md)
 _Context: Adam, Bible, Creation, England, Garden of Eden, Roman Catholic, Scotland, Wales_
 
-##### United States
+##### U.S.
 ### [ U.S. Marine Leandro Aragoncillo is indicted for espionage, accused of passing classified information from the Vice President's office to the Philippines. ](/news/2005/10/5/u-s-marine-leandro-aragoncillo-is-indicted-for-espionage-accused-of-passing-classified-information-from-the-vice-president-s-office-to-th.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 

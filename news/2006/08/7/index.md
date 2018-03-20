@@ -19,9 +19,9 @@ _Context: Alaskan pipeline, BP, Brent crude, Prudhoe Bay, futures_
 ### [ Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-had-changed-two-images-from-the.md)
 News organization withdraws photograph of Israeli fighter jet, admits image was doctored, fires photographer. Reuters pledges &#39;tighter editing procedure for images of the Middle East conflict&#39;
 
-##### United States
+##### U.S.
 ### [ A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-members-were.md)
-_Context: United States_
+_Context: U.S._
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-west-bank.md)

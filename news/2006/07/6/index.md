@@ -25,7 +25,7 @@ _Context: North Korea, South Korea, launch_
 
 ##### Taiwan
 ### [ Taiwan plans to test a missile capable of hitting mainland China. This has alarmed the island's main ally, the United States. ](/news/2006/07/6/taiwan-plans-to-test-a-missile-capable-of-hitting-mainland-china-this-has-alarmed-the-island-s-main-ally-the-united-states.md)
-_Context: China, Taiwan, United States, test_
+_Context: China, Taiwan, U.S., test_
 
 ##### New York Court of Appeals
 ### [ The New York Court of Appeals rules in a 4-2 decision that gay marriage is not allowed under state law. ](/news/2006/07/6/the-new-york-court-of-appeals-rules-in-a-4-2-decision-that-gay-marriage-is-not-allowed-under-state-law.md)
@@ -49,11 +49,11 @@ _Context: 13-day mission, Discovery, International Space Station, Space Shuttle,
 
 ##### North Korea
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
-_Context: Hawaii, North Korea, U.S. state, United States, launch_
+_Context: Hawaii, North Korea, U.S., U.S. state, launch_
 
 ##### Kenneth Lay
 ### [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md)
-_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S. President, United States_
+_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S., U.S. President_
 
 ## [Previous Day...](/news/2006/07/5/index.md)
 

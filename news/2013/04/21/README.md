@@ -29,7 +29,7 @@ Egyptian Justice Minister Ahmed Mekky resigns, following demands from Islamist s
 
 ##### Federal Way
 ### [Five people are killed in a shooting incident at an apartment complex in Federal Way, Washington, south of Seattle, United States. ](/news/2013/04/21/five-people-are-killed-in-a-shooting-incident-at-an-apartment-complex-in-federal-way-washington-south-of-seattle-united-states.md)
-_Context: Federal Way, Seattle, United States, Washington_
+_Context: Federal Way, Seattle, U.S., Washington_
 
 ##### Brazil
 ### [Twenty-three Brazilian police officers are sentenced to 156 years in jail each for their involvement in the 1992 Carandiru prison massacre. ](/news/2013/04/21/twenty-three-brazilian-police-officers-are-sentenced-to-156-years-in-jail-each-for-their-involvement-in-the-1992-carandiru-prison-massacre.md)
@@ -41,7 +41,7 @@ North Korea has moved two more missile launchers to its east coast, where prepar
 
 ##### Flooding
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
-_Context: Mississippi River, Missouri, St. Louis, United States, crest, flooding, midwestern_
+_Context: Mississippi River, Missouri, St. Louis, U.S., crest, flooding, midwestern_
 
 ##### Mining accident
 ### [A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. ](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kills-at-least-18-people-and-injures-12-others.md)

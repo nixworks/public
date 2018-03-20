@@ -49,7 +49,7 @@ _Context: China, Fujian, Putian, factory_
 
 ##### Washington Institute for Near East Policy
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear weapon_
+_Context: Dick Cheney, Iran, U.S., U.S. Vice President, Washington Institute for Near East Policy, nuclear weapon_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz people go to the polls to vote on a constitutional referendum called by President Kurmanbek Bakiyev. ](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.md)

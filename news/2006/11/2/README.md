@@ -29,7 +29,7 @@ _Context: Science_
 
 ##### Ted Haggard
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
-_Context: National Association of Evangelicals, Ted Haggard, United States_
+_Context: National Association of Evangelicals, Ted Haggard, U.S._
 
 ##### Dutch
 ### [ The governments of the Netherlands and the Netherlands Antilles sign an agreement in The Hague, disbanding the Netherlands Antilles on July 1, 2007. The islands of Curaao and Sint Maarten become autonomous associated states within the Kingdom of the Netherlands, while Bonaire, Saba and Sint Eustatius become Dutch municipalities. ](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.md)

@@ -23,7 +23,7 @@ _Context: British, Conservative Party, David Cameron, David Davis, Liam Fox, Mem
 ### [ Two weeks after the Kashmir earthquake death toll reaches 79,000, the UN estimates that 500,000 people are cut off from relief aid. The UN appeals to the international community for more aid, warning that tens of thousands of people could die if aid does not reach them before the harsh winter. ](/news/2005/10/20/two-weeks-after-the-kashmir-earthquake-death-toll-reaches-79-000-the-un-estimates-that-500-000-people-are-cut-off-from-relief-aid-the-un.md)
 _Context: 2005 Kashmir earthquake, United Nations_
 
-##### United States
+##### U.S.
 ### [ In a bid to stay in step with its largest trading partner, the United States, Ontario announces it will become the first Canadian province to extend daylight saving time. ](/news/2005/10/20/in-a-bid-to-stay-in-step-with-its-largest-trading-partner-the-united-states-ontario-announces-it-will-become-the-first-canadian-province.md)
 Ontario announced Thursday it will follow the U.S. lead and extend daylight time, beginning in 2007.
 

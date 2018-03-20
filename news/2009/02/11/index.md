@@ -11,7 +11,7 @@ _Context: British, Conservative Party, Gordon Brown, Italy, Prime Minister, Titi
 ### [ Oscar Temaru is elected President of French Polynesia for the fourth time in five years. ](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.md)
 _Context: French Polynesia, Oscar Temaru, President, elected_
 
-##### United States
+##### U.S.
 ### [ U.S. Democrat John Dingell of Michigan becomes the House of Representatives' longest-serving member. ](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.md)
 Michigan Democrat John Dingell today becomes the longest-serving member of the House in history.
 

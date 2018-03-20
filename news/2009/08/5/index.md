@@ -31,7 +31,7 @@ _Context: FC Schalke 04, Islam, Muhammad, Prophet_
 ### [ Austrian police probe the shooting of two adolescents who allegedly broke into a supermarket and died by police. ](/news/2009/08/5/austrian-police-probe-the-shooting-of-two-adolescents-who-allegedly-broke-into-a-supermarket-and-died-by-police.md)
 _Context: Austria_
 
-##### United States
+##### U.S.
 ### [ The United States White House defends its decision to award its Presidential Medal of Freedom to former President of Ireland Mary Robinson. ](/news/2009/08/5/the-united-states-white-house-defends-its-decision-to-award-its-presidential-medal-of-freedom-to-former-president-of-ireland-mary-robinson.md)
 The White House has defended its decision to award the highest civilian honour in the United States to former president Mary &hellip;
 
@@ -69,19 +69,19 @@ _Context: Airbus A320, Paris-Orly Airport, catches fire_
 
 ##### Shot
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
-_Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_
+_Context: Collier Township, LA Fitness, Pennsylvania, U.S., shot_
 
-##### United States
+##### U.S.
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Anwar El Sadat, Egypt, I Love You, Man, President, United States, blog_
+_Context: Anwar El Sadat, Egypt, I Love You, Man, President, U.S., blog_
 
 ##### Madagascar
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
 
-##### United States
+##### U.S.
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, United States, detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S., U.S. President, detained_
 
 ##### Nile
 ### [ 11 men drown when a boat sinks on the Nile near Khartoum, Sudan. ](/news/2009/08/5/11-men-drown-when-a-boat-sinks-on-the-nile-near-khartoum-sudan.md)

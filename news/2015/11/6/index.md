@@ -3,7 +3,7 @@ Formats: [HTML](2015/11/6/index.html)  [JSON](2015/11/6/index.json)  [XML](2015/
 
 ## [2015-11-6](/news/2015/11/6/index.md)
 
-##### United States
+##### U.S.
 ### [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inter.md)
 The FCC decided Friday that it can&#x27;t force Internet companies like Google, Facebook and ad providers from tracking users online.
 
@@ -17,7 +17,7 @@ A dispute in Okinawa is escalating after the governor of the island refused to r
 
 ##### Egypt-United States relations
 ### [Egypt receives the final four of its order of 20 Lockheed Martin F-16 Block 52 multi-role fighters, according to the Defense Ministry. The United States had delayed delivery following the 2013 coup d'etat. ](/news/2015/11/6/egypt-receives-the-final-four-of-its-order-of-20-lockheed-martin-f-16-block-52-multi-role-fighters-according-to-the-defense-ministry-the-u.md)
-_Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relations, Lockheed Martin F-16 Block 52 multi-role fighters, United States_
+_Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relations, Lockheed Martin F-16 Block 52 multi-role fighters, U.S._
 
 ##### Turkey-United States relations
 ### [The U.S Air Force deploys six F-15C fighter jets to Turkey's Incirlik Air Base to help defend Turkish airspace against potential intruders. ](/news/2015/11/6/the-u-s-air-force-deploys-six-f-15c-fighter-jets-to-turkey-s-incirlik-air-base-to-help-defend-turkish-airspace-against-potential-intruders.md)
@@ -55,7 +55,7 @@ Russia orders the suspension of all flights to Egypt following indications that 
 ### [U.S. President Barack Obama announces that the State Department has rejected TransCanada's application to complete the Keystone XL pipeline. ](/news/2015/11/6/u-s-president-barack-obama-announces-that-the-state-department-has-rejected-transcanada-s-application-to-complete-the-keystone-xl-pipeline.md)
 The president’s decision was a major victory for environmentalists and a bitter loss for the oil industry.
 
-##### United States
+##### U.S.
 ### [U.S. job growth for October 2015 saw the biggest gains since December 2014, fueling hopes that the Federal Reserve Board will increase near-zero interest rates at its December meeting. ](/news/2015/11/6/u-s-job-growth-for-october-2015-saw-the-biggest-gains-since-december-2014-fueling-hopes-that-the-federal-reserve-board-will-increase-near.md)
 U.S. job growth surged in October and the unemployment rate hit a 7-1/2-year low of 5.0 percent in a show of economic strength that makes it much more likely the Federal Reserve will raise interest rates in December.
 

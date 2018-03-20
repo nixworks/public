@@ -3,7 +3,7 @@ Formats: [HTML](2016/11/4/index.html)  [JSON](2016/11/4/index.json)  [XML](2016/
 
 ## [2016-11-4](/news/2016/11/4/index.md)
 
-##### Donald Trump's 2016 election campaign
+##### 2016 Trump campaign
 ### [A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-trump-s-work-history-shows-that-she-was-an-i.md)
 The company that owns the National Enquirer, a backer of Donald Trump, agreed to pay $150,000 to a former Playboy centerfold model for her story of an affair a decade ago with the Republican presidential nominee, but then didn’t publish it, according to documents reviewed by The Wall Street Journa...
 
@@ -55,7 +55,7 @@ A federal judge on Friday saidinvestors seeking to hold banks liable for helping
 ### [Singer Michael Buble's son is diagnosed with cancer. ](/news/2016/11/4/singer-michael-bubla-c-s-son-is-diagnosed-with-cancer.md)
 Singer Michael Buble says he is &quot;devastated&quot; after his young son Noah is diagnosed with cancer.
 
-##### United States
+##### U.S.
 ### [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jafr.md)
 Jordanian army says car failed to stop at gate of airbase in al-Jafr, leading to exchange of fire
 

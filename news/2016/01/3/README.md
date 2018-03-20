@@ -19,7 +19,7 @@ Saudi Arabia says it has broken off diplomatic ties with Iran, amid a row over t
 ### [The United Kingdom designates Ascension Island and its surrounding waters in the Atlantic Ocean as a Marine protected area. The reserve will be almost as big as the UK with just over half of the protected area completely closed to fishing. ](/news/2016/01/3/the-united-kingdom-designates-ascension-island-and-its-surrounding-waters-in-the-atlantic-ocean-as-a-marine-protected-area-the-reserve-will.md)
 The government is to create a marine reserve almost as big as the UK in the Atlantic waters of Ascension Island.
 
-##### United States
+##### U.S.
 ### [In the United States, New York Governor Andrew M. Cuomo orders communities statewide to place homeless people in shelters when temperatures reach freezing. ](/news/2016/01/3/in-the-united-states-new-york-governor-andrew-m-cuomo-orders-communities-statewide-to-place-homeless-people-in-shelters-when-temperatures.md)
 A roundup of news from across the nation.
 

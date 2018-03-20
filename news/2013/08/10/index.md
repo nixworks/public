@@ -13,7 +13,7 @@ More than 50 police officers are injured in what have been described as &quot;sh
 
 ##### Manitou Springs
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Colorado, Manitou Springs, United States_
+_Context: Colorado, Manitou Springs, U.S._
 
 ##### Al Hoceima
 ### [A bus accident in Al Hoceima, Morocco, kills at least 16 Royal Guardsmen. ](/news/2013/08/10/a-bus-accident-in-al-hoceima-morocco-kills-at-least-16-royal-guardsmen.md)

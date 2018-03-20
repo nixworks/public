@@ -13,7 +13,7 @@ Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has ac
 
 ##### Tropical Storm Gabrielle
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)
-_Context: Tropical Storm Gabrielle, United States, tropical storm_
+_Context: Tropical Storm Gabrielle, U.S., tropical storm_
 
 ##### Hindu
 ### [ At least 85 Hindu pilgrims have died after a lorry accident in India. (Wikinews) ](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.md)

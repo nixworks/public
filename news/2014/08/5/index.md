@@ -33,7 +33,7 @@ _Context: Donetsk, Marinka_
 
 ##### War in Afghanistan
 ### [A U.S. major general Harold J. Greene is killed, and a German brigadier general and several American troops are among the 15 wounded, in a attack by an Afghan soldier gunman - who was killed by Afghan soldiers - at Kabul's Marshal Fahim National Defense University. ](/news/2014/08/5/a-u-s-major-general-harold-j-greene-is-killed-and-a-german-brigadier-general-and-several-american-troops-are-among-the-15-wounded-in-a-a.md)
-_Context: German, Harold J. Greene, Kabul, United States, War in Afghanistan, brigadier general, major general_
+_Context: German, Harold J. Greene, Kabul, U.S., War in Afghanistan, brigadier general, major general_
 
 ## [Previous Day...](/news/2014/08/4/index.md)
 

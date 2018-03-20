@@ -41,7 +41,7 @@ continues to be well supported by a large, diversified and highly competitive ec
 
 ##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: European Union, Google, Motorola Mobility, United States, smartphone_
+_Context: European Union, Google, Motorola Mobility, U.S., smartphone_
 
 ##### Rangers F.C.
 ### [Rangers F.C. announces an intent to enter administration. ](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.md)

@@ -49,7 +49,7 @@ _Context: Eastern Cape, Shosholoza, South Africa_
 
 ##### Late Show with David Letterman
 ### [The last edition of the "Late Show with David Letterman" goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-david.md)
-_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, United States_
+_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, U.S._
 
 ##### Lake Turkana
 ### [Tools found near Lake Turkana in Kenya by Sonia Harmand and Jason Lewis of Stony Brook University are dated at 3.3 million years making them the oldest yet discovered. ](/news/2015/05/20/tools-found-near-lake-turkana-in-kenya-by-sonia-harmand-and-jason-lewis-of-stony-brook-university-are-dated-at-3-3-million-years-making-them.md)

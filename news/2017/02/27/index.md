@@ -21,7 +21,7 @@ Explosion hits close to army checkpoint after al-Shabab threatens attacks agains
 
 ##### War in Afghanistan (2015-present)
 ### [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md)
-_Context: Afghan Interior Ministry, Kunduz Province, Taliban, United States, War in Afghanistan (2015-present)_
+_Context: Afghan Interior Ministry, Kunduz Province, Taliban, U.S., War in Afghanistan (2015-present)_
 
 ##### Syrian Civil War
 ### [The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-capturing-territory-fro.md)

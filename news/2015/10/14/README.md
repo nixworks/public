@@ -41,7 +41,7 @@ _Context: Israeli Army, Israeli-Palestinian conflict, Palestinians_
 
 ##### ISIL
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Abu Mutaz al-Qurashi, ISIL, ISIL, Mosul, U.S. airstrikes, United States_
+_Context: Abu Mutaz al-Qurashi, ISIL, ISIL, Mosul, U.S., U.S. airstrikes_
 
 ##### Syrian Civil War
 ### [Two officers from the Iranian Revolutionary Guards are reportedly killed in Syria. ](/news/2015/10/14/two-officers-from-the-iranian-revolutionary-guards-are-reportedly-killed-in-syria.md)

@@ -9,7 +9,7 @@ A new European militarytransport plane, the Airbus EAD.PA A400M, took to the ski
 
 ##### North Korea
 ### [ North Korea acknowledges "the need to resume" the stalled six-party talks on its nuclear program, after talks with U.S. envoy Stephen Bosworth. ](/news/2009/12/11/north-korea-acknowledges-the-need-to-resume-the-stalled-six-party-talks-on-its-nuclear-program-after-talks-with-u-s-envoy-stephen-boswo.md)
-_Context: North Korea, North Korea's nuclear program, Stephen Bosworth, United States, six-party talks_
+_Context: North Korea, North Korea's nuclear program, Stephen Bosworth, U.S., six-party talks_
 
 ##### Triassic
 ### [ The discovery of the Triassic theropod dinosaur genus "Tawa" is announced. ](/news/2009/12/11/the-discovery-of-the-triassic-theropod-dinosaur-genus-tawa-is-announced.md)

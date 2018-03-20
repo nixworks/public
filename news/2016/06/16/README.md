@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/16/index.html)  [JSON](2016/06/16/index.json)  [XML](201
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
 
 ##### Senator Murphy gun control filibuster
 ### [ Connecticut Senator Chris Murphy ends a nearly 15-hour filibuster after Republican Party leaders reportedly agree to allow votes on two proposed gun control measures. ](/news/2016/06/16/connecticut-senator-chris-murphy-ends-a-nearly-15-hour-filibuster-after-republican-party-leaders-reportedly-agree-to-allow-votes-on-two-pro.md)

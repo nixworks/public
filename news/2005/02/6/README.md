@@ -13,7 +13,7 @@ _Context: United States court of appeals, tobacco industry_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Guerrilla fighting leaves 22 dead, including two US troops. ](/news/2005/02/6/conflict-in-iraq-guerrilla-fighting-leaves-22-dead-including-two-us-troops.md)
-_Context: Conflict in Iraq, United States, guerillas_
+_Context: Conflict in Iraq, U.S., guerillas_
 
 ##### Togo
 ### [ The Togolese parliament tries to legalize the accession to power of Faure Gnassingb, son of Gnassingb Eyadma, by voting to change a constitutional amendment. ](/news/2005/02/6/the-togolese-parliament-tries-to-legalize-the-accession-to-power-of-faure-gnassingbe-son-of-gnassingbe-eyadema-by-voting-to-change-a-cons.md)

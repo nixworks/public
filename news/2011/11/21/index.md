@@ -23,9 +23,9 @@ _Context: Cambodia, Khmer Rouge, crimes against humanity, genocide_
 ### [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md)
 NATO would have expanded by now to admit ex-Soviet republics if Russia had not invaded Georgia in 2008 to defend a rebel region, Russian President Dmitry Medvedev said on Monday.
 
-##### United States
+##### U.S.
 ### [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md)
-_Context: British, Canada, Iran, United States, nuclear program, sanctions_
+_Context: British, Canada, Iran, U.S., nuclear program, sanctions_
 
 ##### Syria
 ### [Two people are injured after Syrian soldiers attack buses carrying Turkish citizens returning through Syria from a hajj pilgrimage to Saudi Arabia. ](/news/2011/11/21/two-people-are-injured-after-syrian-soldiers-attack-buses-carrying-turkish-citizens-returning-through-syria-from-a-hajj-pilgrimage-to-saudi.md)

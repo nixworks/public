@@ -51,7 +51,7 @@ _Context: Malaysia, Muslim, Shia_
 ### [U.S. President Barack Obama meets Queen Elizabeth II and Prince Philip, Duke of Edinburgh and senior royals at the start of a three-day state visit to the United Kingdom. ](/news/2011/05/24/u-s-president-barack-obama-meets-queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-and-senior-royals-at-the-start-of-a-three-day-stat.md)
 Barack Obama has met the Queen and senior royals at the start of a three-day state visit as he hails the &quot;essential relationship&quot; between the US and UK.
 
-##### United States
+##### U.S.
 ### [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md)
 A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to assess the food situation in the reclusive nation.
 

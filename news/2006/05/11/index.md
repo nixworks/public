@@ -7,9 +7,9 @@ Formats: [HTML](2006/05/11/index.html)  [JSON](2006/05/11/index.json)  [XML](200
 ### [ Ernie Fletcher, Republican governor of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscondu.md)
 _Context: Ernie Fletcher, Kentucky, Republican_
 
-##### United States
+##### U.S.
 ### [ The United States National Security Agency is reported to operate "the largest database ever assembled in the world", containing a record of all calls (domestic and international) placed through AT&T, Verizon and BellSouth. Qwest Communications refused to provide customer records, citing the need for a warrant. ](/news/2006/05/11/the-united-states-national-security-agency-is-reported-to-operate-the-largest-database-ever-assembled-in-the-world-containing-a-record-o.md)
-_Context: AT&T, BellSouth Corporation, NSA call database, National Security Agency, Qwest Communications, United States, Verizon, warrant_
+_Context: AT&T, BellSouth Corporation, NSA call database, National Security Agency, Qwest Communications, U.S., Verizon, warrant_
 
 ##### Baidu Baike
 ### [ Baidu Baike, a collaborative online encyclopedia, is launched in People's Republic of China by Baidu.com, modelled on Wikipedia but heavily self censored. Wikipedia is largely inaccessible without a proxy in China. ](/news/2006/05/11/baidu-baike-a-collaborative-online-encyclopedia-is-launched-in-people-s-republic-of-china-by-baidu-com-modelled-on-wikipedia-but-heavily.md)

@@ -31,9 +31,9 @@ _Context: California, Los Angeles, Santa Catalina Island, California, evacuation
 ### [ Pope Benedict XVI canonizes Brazil's first native-born saint, Frei Galvo, an 18th century Franciscan monk. ](/news/2007/05/11/pope-benedict-xvi-canonizes-brazil-s-first-native-born-saint-frei-galvao-an-18th-century-franciscan-monk.md)
 _Context: 18th century, Brazil, Franciscan, Frei Galvo, Pope Benedict XVI, canonize, monk, saint_
 
-##### United States
+##### U.S.
 ### [ The United States and European Union nations circulate a United Nations resolution on independence for Kosovo with international supervision. ](/news/2007/05/11/the-united-states-and-european-union-nations-circulate-a-united-nations-resolution-on-independence-for-kosovo-with-international-supervisio.md)
-_Context: European Union, Kosovo, United Nations, United States_
+_Context: European Union, Kosovo, U.S., United Nations_
 
 ##### Samoa
 ### [ Samoa's Head of State Malietoa Tanumafili II dies at the age of 94. ](/news/2007/05/11/samoa-s-head-of-state-malietoa-tanumafili-ii-dies-at-the-age-of-94.md)

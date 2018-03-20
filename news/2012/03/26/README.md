@@ -31,7 +31,7 @@ _Context: BBC, News Corporation, Panorama_
 ### [Dominique Strauss-Kahn, the former head of the International Monetary Fund, is placed under formal investigation in France over alleged involvement in a prostitution ring. ](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.md)
 The former head of the International Monetary Fund, Dominique Strauss-Kahn, faces possible charges in France over an alleged prostitution ring.
 
-##### United States
+##### U.S.
 ### [The United States and China agree to co-ordinate their responses if a proposed North Korean rocket launch commences. ](/news/2012/03/26/the-united-states-and-china-agree-to-co-ordinate-their-responses-if-a-proposed-north-korean-rocket-launch-commences.md)
 China and the US will co-ordinate their response to a controversial North Korean rocket launch, the White House says, as Korea tensions rise.
 

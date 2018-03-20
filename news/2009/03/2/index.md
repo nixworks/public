@@ -21,13 +21,13 @@ _Context: Bissau, Guinea-Bissau, Joo Bernardo Vieira, acting president, assassin
 
 ##### Winter storm
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: East Coast, United States, electricity, winter storm_
+_Context: East Coast, U.S., electricity, winter storm_
 
 ##### Consumer spending
 ### [ Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md)
 Consumer spending rose in January after falling for a record six straight months, pushed higher by purchases of food and other nondurable items.
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama nominates Kansas Governor Kathleen Sebelius as Secretary of Health and Human Services. ](/news/2009/03/2/united-states-president-barack-obama-nominates-kansas-governor-kathleen-sebelius-as-secretary-of-health-and-human-services.md)
 Kansas Gov. Kathleen Sebelius will help overhaul a health care system whose cost has risen four times as fast as people&#39;s wages in recent years. 
 

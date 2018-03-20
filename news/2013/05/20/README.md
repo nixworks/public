@@ -17,7 +17,7 @@ _Context: Efran Ros Montt, Guatemala, genocide_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar Thein Sein visits the White House as part of his visit to the United States, the first by a Burmese head of state in 47 years. ](/news/2013/05/20/the-president-of-myanmar-thein-sein-visits-the-white-house-as-part-of-his-visit-to-the-united-states-the-first-by-a-burmese-head-of-state-i.md)
-_Context: Myanmar's president's office, Thein Sein, United States, White House_
+_Context: Myanmar's president's office, Thein Sein, U.S., White House_
 
 ##### North Korea
 ### [North Korea confirms a bird flu outbreak that has forced authorities to kill over 160,000 ducks in Pyongyang. ](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.md)
@@ -39,7 +39,7 @@ Rail services in Wellington have returned to normal after delays caused by a tra
 ### [A 6.5 magnitude earthquake strikes off the coast of Chile. ](/news/2013/05/20/a-6-5-magnitude-earthquake-strikes-off-the-coast-of-chile.md)
 6.8 Chile earthquake: The USGS revised the original report of a 6.8 earthquake down to 6.5. The earthquake struck off Chile Monday morning. No tsunami warning was issued.
 
-##### United States
+##### U.S.
 ### [A massive two mile wide tornado strikes south of the US city of Oklahoma City, causing widespread damage and causing the National Weather Service to issue a rare tornado emergency. ](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.md)
 Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 

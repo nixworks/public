@@ -15,9 +15,9 @@ _Context: Mayor of Chicago, Rahm Emanuel_
 ### [The Egyptian Army now names Operation Eagle as Operation Sinai. ](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.md)
 _Context: Egyptian Army, Operation Eagle, Operation Sinai_
 
-##### United States
+##### U.S.
 ### [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md)
-_Context: Leon Panetta, United States, United States Secretary of Defense, maritime border disputes_
+_Context: Leon Panetta, U.S., United States Secretary of Defense, maritime border disputes_
 
 ##### Japan
 ### [Japan's ambassador designate to China, Shinichi Nishimiya, dies after suddenly collapsing outside his home in Tokyo on Thursday. ](/news/2012/09/16/japan-s-ambassador-designate-to-china-shinichi-nishimiya-dies-after-suddenly-collapsing-outside-his-home-in-tokyo-on-thursday.md)

@@ -15,9 +15,9 @@ A homemade bomb exploded in a central Athens avenue late on Thursday, causing se
 ### [ Somali pirates hijack the Greek cargo ship MV "Titan". ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
 _Context: Greece, MV, Somali pirates, Somalia, cargo ship_
 
-##### United States
+##### U.S.
 ### [ The United States Navy's USS "Hartford" and USS "New Orleans" collide in the Strait of Hormuz. ](/news/2009/03/20/the-united-states-navy-s-uss-hartford-and-uss-new-orleans-collide-in-the-strait-of-hormuz.md)
-_Context: Strait of Hormuz, U.S. Navy, USS ''Hartford'', USS ''New Orleans'', United States, collide_
+_Context: Strait of Hormuz, U.S., U.S. Navy, USS ''Hartford'', USS ''New Orleans'', collide_
 
 ## [Previous Day...](/news/2009/03/19/index.md)
 

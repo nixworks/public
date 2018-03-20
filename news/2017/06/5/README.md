@@ -49,7 +49,7 @@ Police say they are treating yesterday&#039;s shooting and hostage situation in 
 
 ##### Shoots and kills five people
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando, United States, shoots and kills five people_
+_Context: Florida, Orlando, U.S., shoots and kills five people_
 
 ## [Previous Day...](/news/2017/06/4/index.md)
 

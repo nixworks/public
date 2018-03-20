@@ -77,7 +77,7 @@ _Context: Ministry of Unification, North Korea, North Korea-South Korea relation
 
 ##### Angoon
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, Southeast Alaska, United States_
+_Context: Angoon, Southeast Alaska, U.S._
 
 ##### San Jose
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
@@ -85,7 +85,7 @@ _Context: San Jose_
 
 ##### Starwood Hotels and Resorts Worldwide
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, U.S., pre-merger, reduced competition and higher prices, shareholders_
 
 ##### North Carolina bathroom bill
 ### [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md)

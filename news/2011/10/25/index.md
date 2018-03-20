@@ -7,7 +7,7 @@ Formats: [HTML](2011/10/25/index.html)  [JSON](2011/10/25/index.json)  [XML](201
 ### [Space telescope observations indicate that the supernova RCW 86, first seen by Chinese astronomers in 185 AD, expanded at an unprecedented rate due to the formation of a vacuum-like "cavity" around it in the early stages of the death of its star. The supernova's rapid expansion had previously been one of astronomy's most enduring mysteries. ](/news/2011/10/25/space-telescope-observations-indicate-that-the-supernova-rcw-86-first-seen-by-chinese-astronomers-in-185-ad-expanded-at-an-unprecedented-r.md)
 Space telescopes unravel the mystery of a gigantic, fast-growing supernova that was first recorded by Chinese astronomers nearly 2,000 years ago.
 
-##### United States
+##### U.S.
 ### [The last of the United States' nine-megaton B53 warheads, formerly the most powerful nuclear weapons in the country's nuclear arsenal, is disassembled near Amarillo, Texas, having been in service since 1962. ](/news/2011/10/25/the-last-of-the-united-states-nine-megaton-b53-warheads-formerly-the-most-powerful-nuclear-weapons-in-the-country-s-nuclear-arsenal-is-di.md)
 The last B53 nuclear bomb, a powerful weapon some 600 times more powerful than the Hiroshima bomb, is dismantled in Texas.
 

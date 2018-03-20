@@ -7,9 +7,9 @@ Formats: [HTML](2009/05/21/index.html)  [JSON](2009/05/21/index.json)  [XML](200
 ### [ The Communist Party kills 16 police officers near Nagpur, Maharashtra, India. ](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.md)
 _Context: Communist Party of India, India, Indian police, Maharashtra, Nagpur, Naxalite-Maoist insurgency_
 
-##### United States
+##### U.S.
 ### [ The U.S. develops a framework to provide the United Arab Emirates with nuclear energy. ](/news/2009/05/21/the-u-s-develops-a-framework-to-provide-the-united-arab-emirates-with-nuclear-energy.md)
-_Context: United Arab Emirates, United States, framework, nuclear program_
+_Context: U.S., United Arab Emirates, framework, nuclear program_
 
 ##### Israel
 ### [ Israel evicts Jewish settlers from a hilltop in the West Bank. ](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.md)
@@ -33,7 +33,7 @@ _Context: Egypt, Hisham Talaat Moustafa, Lebanese, Suzanne Tamim, businessman, c
 
 ##### Arrest
 ### [ Four men are arrested for planning to bomb two synagogues and destroy military aircraft in New York, United States. ](/news/2009/05/21/four-men-are-arrested-for-planning-to-bomb-two-synagogues-and-destroy-military-aircraft-in-new-york-united-states.md)
-_Context: New York City, United States, arrest, bomb, military plane, synagogue_
+_Context: New York City, U.S., arrest, bomb, military plane, synagogue_
 
 ## [Previous Day...](/news/2009/05/20/index.md)
 

@@ -23,7 +23,7 @@ It took two agonising hours for the magistrate to deliver his verdict, but when 
 ### [Six people are stabbed and wounded in downtown Los Angeles, California. Two suspects are arrested. ](/news/2013/02/22/six-people-are-stabbed-and-wounded-in-downtown-los-angeles-california-two-suspects-are-arrested.md)
 _Context: California, Los Angeles, downtown_
 
-##### United States
+##### U.S.
 ### [The United States Justice Department joins a lawsuit against cyclist Lance Armstrong for allegedly defrauding the United States Postal Service by using money from it to buy performance-enhancing drugs. ](/news/2013/02/22/the-united-states-justice-department-joins-a-lawsuit-against-cyclist-lance-armstrong-for-allegedly-defrauding-the-united-states-postal-servi.md)
 Lance Armstrong fortune in jeopardy after Justice Department backs Landis in whistleblower suit.
 
@@ -37,7 +37,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md)
-_Context: Barack Obama, China, Japan, Japanese Prime Minister, North Korea, Senkaku Islands dispute, Shinzo Abe, U.S. President, United States, White House_
+_Context: Barack Obama, China, Japan, Japanese Prime Minister, North Korea, Senkaku Islands dispute, Shinzo Abe, U.S., U.S. President, White House_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration (FDA) approves Kadcyla, a new drug manufactured by Roche, for treating late-stage breast cancer. ](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.md)

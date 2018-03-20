@@ -27,13 +27,13 @@ Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred t
 ### [ Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. ](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.md)
 Iranian media say the Islamic Republic has tested short-range missiles and plans..
 
-##### United States
+##### U.S.
 ### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
-_Context: Family Guy, Legality of cannabis, United States, Venezuela, an episode, marijuana_
+_Context: Family Guy, Legality of cannabis, U.S., Venezuela, an episode, marijuana_
 
-##### United States
+##### U.S.
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
-_Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan_
+_Context: General, International Security Assistance Force, Stanley McChrystal, U.S., War in Afghanistan_
 
 ##### Swiss
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)

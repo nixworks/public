@@ -29,7 +29,7 @@ AMERICAN Amanda Knox has been found guilty of the gruesome murder of a British s
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder announces that federal prosecutors will seek the death penalty against Boston Marathon bombing suspect Dzhokhar Tsarnaev. ](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.md)
-_Context: Boston Marathon bombing, Capital punishment in the United States, Dzhokhar Tsarnaev, Eric Holder_
+_Context: Boston Marathon bombing, Dzhokhar Tsarnaev, Eric Holder, death penalty_
 
 ##### Leyte
 ### [182 inmates escape from a provincial jail in Leyte, Philippines, which was previously affected by Typhoon Haiyan, citing squalid conditions and a lack of food. 148 are recaptured hours later. ](/news/2014/01/30/182-inmates-escape-from-a-provincial-jail-in-leyte-philippines-which-was-previously-affected-by-typhoon-haiyan-citing-squalid-conditions.md)

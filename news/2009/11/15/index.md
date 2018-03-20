@@ -27,9 +27,9 @@ _Context: Colombia, National Guard, Venezuela_
 ### [ APEC leaders say a deal on global warming will not be possible before next month's United Nations summit in Denmark. ](/news/2009/11/15/apec-leaders-say-a-deal-on-global-warming-will-not-be-possible-before-next-month-s-united-nations-summit-in-denmark.md)
 _Context: APEC, Denmark, United Nations, global warming_
 
-##### United States
+##### U.S.
 ### [ U.S. President Barack Obama becomes the first U.S. President to meet with Burma's military government, calling for the release of Aung San Suu Kyi and other political prisoners. ](/news/2009/11/15/u-s-president-barack-obama-becomes-the-first-u-s-president-to-meet-with-burma-s-military-government-calling-for-the-release-of-aung-san.md)
-_Context: Aung San Suu Kyi, Barack Obama, Burma, State Peace and Development Council, U.S. President, United States_
+_Context: Aung San Suu Kyi, Barack Obama, Burma, State Peace and Development Council, U.S., U.S. President_
 
 ##### Kosovo
 ### [ Kosovars go to the polls for the first local elections since declaring independence from Serbia. ](/news/2009/11/15/kosovars-go-to-the-polls-for-the-first-local-elections-since-declaring-independence-from-serbia.md)

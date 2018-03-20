@@ -51,7 +51,7 @@ Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Chr
 ### [Australia adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". ](/news/2017/04/20/australia-adds-stricter-requirements-to-its-citizenship-application-process-including-harder-tests-on-english-language-skills-and-the-requi.md)
 Applicants will face stricter tests on their English and &quot;Australian values&quot;, the government says.
 
-##### Capital punishment in the United States
+##### Death penalty
 ### [Arkansas executes Ledell Lee, the first inmate executed in the state since 2005. ](/news/2017/04/20/arkansas-executes-ledell-lee-the-first-inmate-executed-in-the-state-since-2005.md)
 Arkansas has executed an inmate for the first time in nearly a dozen years as part of its plan to execute several inmates before a drug expires April 30, despite court rulings that have already spared three men.
 

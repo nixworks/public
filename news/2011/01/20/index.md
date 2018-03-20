@@ -23,7 +23,7 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 ### [The "Daily Nation" publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amnest.md)
 Kenyan authorities suspend three policemen after a newspaper published a picture of an officer apparently shooting a man dead.
 
-##### United States
+##### U.S.
 ### [Agents of the United States charge 127 alleged mafia members in the northeast of the country. ](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.md)
 US federal agents charge 127 suspected mobsters in the New York region in the largest single-day FBI mafia crackdown in US history.
 

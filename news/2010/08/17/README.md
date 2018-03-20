@@ -79,7 +79,7 @@ A Uganda MP accuses soldiers of carrying out torture and killings in a campaign 
 ### [Hezbollah states it has passed on evidence said to implicate Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri. ](/news/2010/08/17/hezbollah-states-it-has-passed-on-evidence-said-to-implicate-israel-in-the-2005-assassination-of-then-prime-minister-of-lebanon-rafic-hariri.md)
 Hezbollah hands a tribunal what it claims is evidence of Israeli involvement in the murder of ex-Lebanese PM Rafik Hariri.
 
-##### United States
+##### U.S.
 ### [The United States confirms the existence of videotapes - found under a Central Intelligence Agency (CIA) desk - of the alleged 2002 interrogation of a suspect the country had detained at a secret prison. ](/news/2010/08/17/the-united-states-confirms-the-existence-of-videotapes-found-under-a-central-intelligence-agency-cia-desk-of-the-alleged-2002-interrog.md)
 US officials confirm the existence of videotapes of the 2002 interrogation of an alleged 9/11 plotter, reportedly at a secret prison.
 

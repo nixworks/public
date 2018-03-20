@@ -29,7 +29,7 @@ The UK economy shrank by 0.3% in the first three months of the year, more than p
 ### [Elton John checks into Cedars-Sinai Medical Center in Los Angeles, California, due to a respiratory infection, according to the singer's publicist. ](/news/2012/05/24/elton-john-checks-into-cedars-sinai-medical-center-in-los-angeles-california-due-to-a-respiratory-infection-according-to-the-singer-s-pub.md)
 _Context: California, Cedars-Sinai Medical Center, Elton John, Los Angeles, respiratory infection_
 
-##### United States
+##### U.S.
 ### [A United States drone attack kills ten people in the North Waziristan region of Pakistan. ](/news/2012/05/24/a-united-states-drone-attack-kills-ten-people-in-the-north-waziristan-region-of-pakistan.md)
 A U.S. drone strike on suspected Islamist militants in northwest Pakistan killed 10 people on Thursday, Pakistani intelligence officials said, an attack likely to raise tensions in a standoff with Washington over NATO supply routes to Afghanistan.
 

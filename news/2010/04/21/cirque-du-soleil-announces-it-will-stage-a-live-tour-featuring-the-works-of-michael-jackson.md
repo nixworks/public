@@ -20,7 +20,7 @@ Formats: [HTML](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live
 
 ### Related:
 
-1. [A Cirque du Soleil performer dies from his injuries after he fell 15 feet during a performance in Tampa, Florida, the night before. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-from-his-injuries-after-he-fell-15-feet-during-a-performance-in-tampa-florida-the-night-before.md) _Context: Cirque du Soleil_
+1. [A Cirque du Soleil performer dies after falling 15 ft during a performance in Tampa, Florida. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-after-falling-15-ft-during-a-performance-in-tampa-florida.md) _Context: Cirque du Soleil_
 2. [Dr Conrad Murray is released from prison in the American city of Los Angeles for involuntary manslaughter in the death of Michael Jackson. ](/news/2013/10/28/dr-conrad-murray-is-released-from-prison-in-the-american-city-of-los-angeles-for-involuntary-manslaughter-in-the-death-of-michael-jackson.md) _Context: Michael Jackson_
 3. [The jury in the Michael Jackson Estate vs. AEG Live court case finds AEG Live not guilty of negligence in hiring musician Michael Jackson's physician Conrad Murray. Murray was found guilty of involuntary manslaughter in 2011. ](/news/2013/10/2/the-jury-in-the-michael-jackson-estate-vs-aeg-live-court-case-finds-aeg-live-not-guilty-of-negligence-in-hiring-musician-michael-jackson-s.md) _Context: Michael Jackson_
 4. [Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. ](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.md) _Context: Michael Jackson_

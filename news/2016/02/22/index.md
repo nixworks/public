@@ -49,7 +49,7 @@ Austria&#x27;s decision to only accept 80 asylum seekers a day while letting tho
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
-_Context: Open Skies Treaty, Russia-United States relations, United States_
+_Context: Open Skies Treaty, Russia-United States relations, U.S._
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)

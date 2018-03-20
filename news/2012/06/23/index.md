@@ -23,9 +23,9 @@ Political and economic transitions that evolved over centuries in other lands ha
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
 _Context: Daily Mail, Evening Standard, High Court, PhD, University of Sussex, international relations, the November 2010 march against government cuts_
 
-##### United States
+##### U.S.
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Apple Inc., Motorola, United States_
+_Context: Apple Inc., Motorola, U.S._
 
 ##### United Nations
 ### [The United Nations sustainable development summit ends in Brazil with a warning on corporate power. ](/news/2012/06/23/the-united-nations-sustainable-development-summit-ends-in-brazil-with-a-warning-on-corporate-power.md)

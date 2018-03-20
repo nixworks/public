@@ -43,7 +43,7 @@ _Context: Eastern Cape, Mthatha, South Africa, apartheid_
 ### [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md)
 _Context: Charles Taylor, Liberia, The Hague, cannibalism_
 
-##### United States
+##### U.S.
 ### [ The United States and China begin the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/27/the-united-states-and-china-begin-the-first-u-s-china-strategic-and-economic-dialogue.md)
 China is bringing 150 senior officials, including nearly its whole Cabinet, to the United States this week for talks whose symbolic value is likely to trump concrete achievements.
 

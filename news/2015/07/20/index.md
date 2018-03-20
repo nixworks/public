@@ -11,9 +11,9 @@ Ling Jihua, a top aide to China&#8217;s former president, was also removed from 
 ### [ The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md)
 Europe&#39;s robot lab Philae has fallen &quot;silent&quot; on the surface of a comet zipping towards the sun. Ground controllers fear it may have shifted out of radio contact indefinitely.
 
-##### United States
+##### U.S.
 ### [The United States and Cuba resume full diplomatic relations after five decades. ](/news/2015/07/20/the-united-states-and-cuba-resume-full-diplomatic-relations-after-five-decades.md)
-_Context: Cuba, Cuba-United States relations, United States_
+_Context: Cuba, Cuba-United States relations, U.S._
 
 ##### Joint Comprehensive Plan of Action
 ### [The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-six-world-powers-in-return-for-sanctio.md)

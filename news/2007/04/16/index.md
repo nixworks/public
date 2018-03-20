@@ -23,9 +23,9 @@ _Context: International Criminal Tribunal for the Former Yugoslavia, Johan Tarcu
 ### [ Kalyk Imankulov, the former Chairman of the Kyrgyz National Security Service, joins the United Front For A Worthy Future For Kyrgyzstan political alliance. The alliance is staging its sixth day of protests as it calls for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/16/kalyk-imankulov-the-former-chairman-of-the-kyrgyz-national-security-service-joins-the-united-front-for-a-worthy-future-for-kyrgyzstan-pol.md)
 Kyrgyzstan entered its sixth day of anti-government protests on April 16, after a tense weekend that included several violent encounters. With the estimated turnout lower than opposition organizers ha
 
-##### United States
+##### U.S.
 ### [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md)
-_Context: India, Japan, South Pacific Ocean, United States, navy_
+_Context: India, Japan, South Pacific Ocean, U.S., navy_
 
 ##### Prosperous Armenia
 ### [ The offices of the Prosperous Armenia political party in Yerevan are bombed. No one is killed and no one has claimed responsibility. ](/news/2007/04/16/the-offices-of-the-prosperous-armenia-political-party-in-yerevan-are-bombed-no-one-is-killed-and-no-one-has-claimed-responsibility.md)

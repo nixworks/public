@@ -23,7 +23,7 @@ Rory McIlroy today equalled the lowest ever round in a major championship with a
 ### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
 _Context: Old World Monkey, Saadanius hijazensis, ape, primate_
 
-##### United States
+##### U.S.
 ### [World Trade Center site workers in the United States excavate a 32 foot-long ship hull said to have been buried in the 18th century. ](/news/2010/07/15/world-trade-center-site-workers-in-the-united-states-excavate-a-32-foot-long-ship-hull-said-to-have-been-buried-in-the-18th-century.md)
 Workers at the World Trade Center site excavate a ship believed to have been buried in the 18th Century to help fill lower Manhattan.
 
@@ -35,7 +35,7 @@ Scores of Russians have died in the past few weeks amid a heatwave - many drowni
 ### [BP reports that no oil is leaking into the Gulf of Mexico from the Deepwater Horizon oil spill for the first time since it began in April. ](/news/2010/07/15/bp-reports-that-no-oil-is-leaking-into-the-gulf-of-mexico-from-the-deepwater-horizon-oil-spill-for-the-first-time-since-it-began-in-april.md)
 * Early test shows no leak in broken BP well * Obama calls the development a &quot;positive sign&quot; * BP shares jump after initial test results
 
-##### United States
+##### U.S.
 ### [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md)
 The bill aims at reigning in banks and protecting consumers from risky lending pratices.
 

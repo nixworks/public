@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/26/index.html)  [JSON](2009/02/26/index.json)  [XML](200
 
 ## [2009-02-26](/news/2009/02/26/index.md)
 
-##### United States
+##### U.S.
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghanistan, Iraq, U.S. military, United States, United States military personnel, coffin, news agencies_
+_Context: Afghanistan, Iraq, U.S., U.S. military, United States military personnel, coffin, news agencies_
 
 ##### Svalbard Global Seed Vault
 ### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples. ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)
@@ -75,9 +75,9 @@ Leaders of the rival Palestinian groups Hamas and Fatah declared Thursday a “h
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty, government_
 
-##### United States
+##### U.S.
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq, Iraq War, U.S. President, United States, United States military personnel_
+_Context: Barack Obama, Iraq, Iraq War, U.S., U.S. President, United States military personnel_
 
 ## [Previous Day...](/news/2009/02/25/index.md)
 

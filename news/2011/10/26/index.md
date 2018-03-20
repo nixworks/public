@@ -45,7 +45,7 @@ _Context: Cancun, Hurricane Rina, Mexico_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: British, Japan, Olympus Corp, Tsuyoshi Kikukawa, United States_
+_Context: British, Japan, Olympus Corp, Tsuyoshi Kikukawa, U.S._
 
 ##### Composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)

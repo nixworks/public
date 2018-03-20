@@ -15,7 +15,7 @@ _Context: Fly540 Logistics Ltd., Fokker F27-500, Somalia_
 ### [ The Russian President Dmitry Medvedev announces a national day of mourning in Russia in connection with the Battle of Tskhinvali and the death of a large number of Russian citizens there. Georgian Orthodox Church Patriarch Ilia II announced the national day of mourning for soldiers and civilians who died during the 2008 South Ossetia war. ](/news/2008/08/13/the-russian-president-dmitry-medvedev-announces-a-national-day-of-mourning-in-russia-in-connection-with-the-battle-of-tskhinvali-and-the-de.md)
 The first of C-17 planes carrying humanitarian supplies has arrived in Tbilisi, Georgia, White House Press Secretary Dana Perino said Wednesday. Another is scheduled to arrive tomorrow with additional supplies.
 
-##### United States
+##### U.S.
 ### [ American swimmer Michael Phelps breaks the record for most Olympic gold medals won by an individual athlete at the Beijing Olympics. ](/news/2008/08/13/american-swimmer-michael-phelps-breaks-the-record-for-most-olympic-gold-medals-won-by-an-individual-athlete-at-the-beijing-olympics.md)
 Michael Phelps has become the winningest Olympic athlete ever, earning his fourth gold medal of the Beijing Games with a world record in the 200-meter butterfly.
 

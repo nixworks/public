@@ -33,7 +33,7 @@ _Context: Nigeria, President, Supreme Court, Umaru Yar'Adua, government_
 
 ##### Europe
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, U.S. President, United States, banking_
+_Context: Barack Obama, Europe, U.S., U.S. President, banking_
 
 ##### Electoral Synod
 ### [The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. ](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.md)
@@ -43,13 +43,13 @@ _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Chur
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
 _Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
 
-##### United States
+##### U.S.
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: China, James Fondren, Tai Shen Kuo, U.S. Air Force, United States, classified document, espionage, lieutenant colonel, prison_
+_Context: China, James Fondren, Tai Shen Kuo, U.S., U.S. Air Force, classified document, espionage, lieutenant colonel, prison_
 
-##### United States
+##### U.S.
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
-_Context: Guantanamo Bay detention camp, United States, United States Justice Department, detainees, detention camps, task force_
+_Context: Guantanamo Bay detention camp, U.S., United States Justice Department, detainees, detention camps, task force_
 
 ##### British
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
@@ -57,7 +57,7 @@ _Context: Alan Johnson, British, Home Secretary, Joint Terrorism Analysis Centre
 
 ##### China
 ### [China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-countries.md)
-_Context: China, Sino-American relations, United States, blocks mentions_
+_Context: China, Sino-American relations, U.S., blocks mentions_
 
 ##### Rhinoceros
 ### [Ten rhinoceros horns seized in recent weeks at Shannon Airport in Ireland are said to be "rare" and "of international significance". ](/news/2010/01/22/ten-rhinoceros-horns-seized-in-recent-weeks-at-shannon-airport-in-ireland-are-said-to-be-rare-and-of-international-significance.md)

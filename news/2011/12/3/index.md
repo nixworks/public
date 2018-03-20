@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/3/index.html)  [JSON](2011/12/3/index.json)  [XML](2011/
 
 ##### Herman Cain
 ### [Herman Cain announces that he will suspend his campaign for Republican nomination in the United States presidential election following a series of sexual harassment and other misconduct allegations. ](/news/2011/12/3/herman-cain-announces-that-he-will-suspend-his-campaign-for-republican-nomination-in-the-united-states-presidential-election-following-a-ser.md)
-_Context: Herman Cain, Republican, United States, United States presidential election, 2012, his campaign, nomination, sexual harassment_
+_Context: Herman Cain, Republican, U.S., United States presidential election, 2012, his campaign, nomination, sexual harassment_
 
 ##### Australian Labor Party
 ### [The governing Australian Labor Party changes its platform in support of gay marriage at its conference in Sydney, paving the way for legislation. ](/news/2011/12/3/the-governing-australian-labor-party-changes-its-platform-in-support-of-gay-marriage-at-its-conference-in-sydney-paving-the-way-for-legisla.md)
