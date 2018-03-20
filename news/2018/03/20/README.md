@@ -12,12 +12,16 @@ Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
 French officials have been investigating claims that former President Nicolas Sarkozy took 50 million euros from the Libyan regime to fund his successful 2007 presidential bid.
 
 ##### School shootings in the United States
-### [A shooting occurs at Great Mills High School in St. Mary's County, Maryland. Two students are reported injured; the shooter is confirmed dead by the St. Mary's County Sheriff's Office. ](/news/2018/03/20/a-shooting-occurs-at-great-mills-high-school-in-st-mary-s-county-maryland-two-students-are-reported-injured-the-shooter-is-confirmed-dea.md)
-_Context: Great Mills High School, Maryland, School shootings in the United States, St. Mary's County, St. Mary's County Sheriff's Office_
+### [A shooting occurs at Great Mills High School in Great Mills, Maryland. Two students are reported injured; the shooter is confirmed dead by the St. Mary's County Sheriff's Office. ](/news/2018/03/20/a-shooting-occurs-at-great-mills-high-school-in-great-mills-maryland-two-students-are-reported-injured-the-shooter-is-confirmed-dead-by-t.md)
+_Context: Great Mills, Great Mills High School, Maryland, School shootings in the United States, St. Mary's County Sheriff's Office_
 
 ##### Austin package explosions
-### [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombs. The ATF reports that there were no injuries. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombs-the-atf-report.md)
+### [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombings in the area. The ATF reports that there were no injuries. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombings-in-the-area.md)
 _Context: ATF, Austin package explosions, FBI, FedEx, San Antonio, Texas_
+
+##### South Korea-United States relations
+### [ South Korea and the United States announce that the Foal Eagle and Key Resolve military drills will start on April 1 and last for four weeks. ](/news/2018/03/20/south-korea-and-the-united-states-announce-that-the-foal-eagle-and-key-resolve-military-drills-will-start-on-april-1-and-last-for-four-week.md)
+The U.S. and South Korea delayed exercises until after the Olympics.
 
 ##### Red Arrows
 ### [A Red Arrows jet crashes in North Wales. The fate of the occupants is not reported. ](/news/2018/03/20/a-red-arrows-jet-crashes-in-north-wales-the-fate-of-the-occupants-is-not-reported.md)
