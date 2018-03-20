@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/20/former-president-of-france-nicolas-sarkozy-is-h
 ### [2018-03-20](/news/2018/03/20/index.md)
 
 ##### Crime in France
-# Former President of France Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Lybian leader Muammar Gaddafi to finance his bid in the 2007 French presidential election. 
+# Former President of France Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Libyan leader Muammar Gaddafi to finance his bid in the 2007 French presidential election. 
 
 French officials have been investigating claims that former President Nicolas Sarkozy took 50 million euros from the Libyan regime to fund his successful 2007 presidential bid.
 

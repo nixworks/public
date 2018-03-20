@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-l
 ### [2018-03-19](/news/2018/03/19/index.md)
 
 ##### Crime in Turkey
-# Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of Polystyrene sulfonate. 
+# Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of polystyrene sulfonate. 
 
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
@@ -19,7 +19,7 @@ More than 1kg of the element Californium is found in an anti-smuggling raid in A
 
 1. [Turkish police discover 1.4 kg of radioactive-labelled material (claimed implausibly to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-implausibly-to-be-californium-in-a-car-in-ankara.md) _2018-03-20 10:30:07 (First version)_
 2. [Turkish police discover 1.4 kg of radioactive-labelled material (claimed by the police to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-by-the-police-to-be-californium-in-a-car-in-ankara.md) _2018-03-20 11:30:07 (Update)_
-2. [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of Polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-the-material-is-lat.md) _(Current version)_
+2. [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-the-material-is-lat.md) _(Current version)_
 
 ### Related:
 
