@@ -6,13 +6,13 @@ Formats: [HTML](/news/2018/03/20/sudan-the-last-known-male-northern-white-rhinoc
 ##### Extinction threshold
 # Sudan, the last known male Northern white rhinoceros, dies in captivity, leaving two females as the only surviving members of the subspecies. 
 
-Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
+
 
 
 ### Sources:
 
-1. [BBC News](http://www.bbc.co.uk/news/av/world-africa-43471837/last-male-northern-white-rhino-dies-in-kenya)
-1. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/C241/production/_100492794_p061q5fz.jpg)
+1. [BBC](http://www.bbc.com/news/world-africa-43468066)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p061q5fz.jpg)
 
 ### Changes:
 
