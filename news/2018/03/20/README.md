@@ -12,8 +12,12 @@ A telescope to study planets beyond our Solar System is selected by the European
 _Context: Extinction threshold, Northern white rhinoceros, Sudan_
 
 ##### Eschatology in Norse mythology
-### [A study reveals that the Eldgja volcanic eruption in Iceland from spring 939 to autumn 940 may have inspired part of the poem, Voluspa, telling of destruction of the old Norse gods written around 20 years later. ](/news/2018/03/20/a-study-reveals-that-the-eldgja-volcanic-eruption-in-iceland-from-spring-939-to-autumn-940-may-have-inspired-part-of-the-poem-vapluspa-t.md)
-_Context: Eldgja, Eschatology in Norse mythology, Iceland, Voluspa_
+### [Analysis of ancient ice cores extracted from Greenland dates an eruption on Eldgja volcano in Iceland. Iceland's largest eruption in the last 2000 years.](/news/2018/03/20/analysis-of-ancient-ice-cores-extracted-from-greenland-dates-an-eruption-on-eldgja-volcano-in-iceland-icelandas-largest-eruption-in-the.md)
+_Context: Eldgja, Eschatology in Norse mythology, Greenland, Iceland_
+
+##### Shooting of Justine Damond
+### [Minneapolis Police formally charge Mohamed Noor with Third-degree murder and Second-degree manslaughter for the shooting death of Justine Damond. ](/news/2018/03/20/minneapolis-police-formally-charge-mohamed-noor-with-third-degree-murder-and-second-degree-manslaughter-for-the-shooting-death-of-justine-da.md)
+_Context: Minneapolis Police, Shooting of Justine Damond_
 
 ##### Crime in France
 ### [Former French President Nicolas Sarkozy is held for up to 48 hours and questioned by police in Nanterre over allegations that he illegally accepted EUR50 million from Libyan leader Muammar Gaddafi to finance his bid in the 2007 French presidential election. ](/news/2018/03/20/former-french-president-nicolas-sarkozy-is-held-for-up-to-48-hours-and-questioned-by-police-in-nanterre-over-allegations-that-he-illegally-a.md)
@@ -23,9 +27,13 @@ French officials have been investigating claims that former President Nicolas Sa
 ### [A shooting occurs at Great Mills High School in Great Mills, Maryland. Two students are reported injured; the shooter is killed by police. ](/news/2018/03/20/a-shooting-occurs-at-great-mills-high-school-in-great-mills-maryland-two-students-are-reported-injured-the-shooter-is-killed-by-police.md)
 _Context: Great Mills, Great Mills High School, Maryland, School shootings in the United States_
 
-##### Austin package explosions
+##### Austin serial bombings
 ### [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombings in the area. The ATF reports that there were no serious injuries. Both the bomb's point of origin and intended destination were in Austin. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombings-in-the-area.md)
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
+
+##### Censorship in the United Kingdom
+### [Mark "Count Dankula" Meechan is found guilty in Scotland of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/mark-count-dankula-meechan-is-found-guilty-in-scotland-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salu.md)
+_Context: Censorship in the United Kingdom, Nazi salute, Scotland, United Kingdom, freedom of speech_
 
 ##### United States recognition of Jerusalem as capital of Israel
 ### [ The Palestinian leader Mahmoud Abbas insults US Ambassador to Israel David M. Friedman, calling him "son of dog". US blasted his comments and warned him to choose between hate and peace.](/news/2018/03/20/the-palestinian-leader-mahmoud-abbas-insults-us-ambassador-to-israel-david-m-friedman-calling-him-ason-of-doga-us-blasted-his-commen.md)
@@ -36,7 +44,7 @@ White House urges Abbas to choose hate or peace &nbsp; RAMALLAH: Palestinian pre
 The U.S. and South Korea delayed exercises until after the Olympics.
 
 ##### Toyota
-### [Toyota pulls all its self-driving cars off US roads in the wake of a fatal accident involving an Uber vehicle. ](/news/2018/03/20/toyota-pulls-all-its-self-driving-cars-off-us-roads-in-the-wake-of-a-fatal-accident-involving-an-uber-vehicle.md)
+### [Toyota pulls all its self-driving cars off U.S. roads in the wake of a fatal accident involving an Uber vehicle. ](/news/2018/03/20/toyota-pulls-all-its-self-driving-cars-off-u-s-roads-in-the-wake-of-a-fatal-accident-involving-an-uber-vehicle.md)
 &quot;We feel the incident may have an emotional effect on our test drivers.&quot;
 
 ##### Red Arrows
@@ -45,15 +53,15 @@ An eyewitness has described seeing a &amp;#8220;big fireball&amp;#8221; after a 
 
 ##### Economy of India
 ### [India's fifth-largest wireless provider, Aircel declares bankruptcy. ](/news/2018/03/20/india-s-fifth-largest-wireless-provider-aircel-declares-bankruptcy.md)
-_Context: Aircel, Economy of India, India's, bankruptcy, wireless provider_
+_Context: Aircel, Economy of India, India, bankruptcy, wireless provider_
 
 ##### Weinstein effect
 ### [After a series of allegations of sexual misconduct against co-founder Harvey Weinstein, The Weinstein Company files for chapter 11 bankruptcy. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Weinstein. ](/news/2018/03/20/after-a-series-of-allegations-of-sexual-misconduct-against-co-founder-harvey-weinstein-the-weinstein-company-files-for-chapter-11-bankruptc.md)
 The studio co-founded by disgraced movie mogul Harvey Weinstein has been crippled by the sexual harassment and assault allegations that were first made against him late last year. 
 
 ##### Syrian Civil War
-### [A rocket fired from rebel-held Eastern Ghouta strikes a popular market in Damascus, killing at least 29 people, according to Syrian state TV SANA. ](/news/2018/03/20/a-rocket-fired-from-rebel-held-eastern-ghouta-strikes-a-popular-market-in-damascus-killing-at-least-29-people-according-to-syrian-state-tv.md)
-AMMAN: At least 29 people were killed and scores injured on Tuesday when a rocket landed in a busy market place in an eastern suburb of the Syrian capital Damascus, state media said. The rocket landed in the Kashkoul market close to rebel-held parts of Eastern Ghouta, which has been under heavy bomb...
+### [A rocket fired from rebel-held Eastern Ghouta strikes a popular market in Damascus, killing at least 35 people, according to Syrian state TV SANA. ](/news/2018/03/20/a-rocket-fired-from-rebel-held-eastern-ghouta-strikes-a-popular-market-in-damascus-killing-at-least-35-people-according-to-syrian-state-tv.md)
+At least 35 people were killed on Tuesday when a rocket hit a busy market place in an eastern suburb of the Syrian capital Damascus, state media said, while rescuers said Syrian and Russian airstrikes killed dozens in nearby rebel-held areas.
 
 ## [Previous Day...](/news/2018/03/19/index.md)
 
