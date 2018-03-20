@@ -1,14 +1,34 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/19/index.md)
+## [News](/news/2018/03/20/index.md)
+
+##### Northern white rhinoceros
+### [The last known male Northern white rhinoceros dies in captivity, leaving two females as the only surviving members of the species. ](/news/2018/03/20/the-last-known-male-northern-white-rhinoceros-dies-in-captivity-leaving-two-females-as-the-only-surviving-members-of-the-species.md)
+Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
+
+##### Austin package explosions
+### [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombs. The ATF reports that there were no injuries. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombs-the-atf-report.md)
+_Context: ATF, Austin package explosions, FBI, FedEx, San Antonio, Texas_
+
+##### Weinstein effect
+### [After a series of allegations of sexual misconduct, the Weinstein Company files for chapter 11 bankruptcy. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Harvey Weinstein. ](/news/2018/03/20/after-a-series-of-allegations-of-sexual-misconduct-the-weinstein-company-files-for-chapter-11-bankruptcy-the-company-also-states-that-it-w.md)
+The studio co-founded by disgraced movie mogul Harvey Weinstein has been crippled by the sexual harassment and assault allegations that were first made against him late last year. 
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/19/index.md)
 
 ##### Federal drug policy of the United States
 ### [U.S. President Donald Trump unveils his plan to combat the United States's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-the-united-states-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffic.md)
 _Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
 
 ##### Crime in Turkey
-### [Turkish police discover 1.4 kg of radioactive-labelled material (claimed by the police to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-by-the-police-to-be-californium-in-a-car-in-ankara.md)
+### [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of Polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-the-material-is-lat.md)
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
 ##### Turpin case
@@ -35,13 +55,9 @@ A government crackdown on demonstrations against President Joseph Kabila in Demo
 ### [The Turkish-backed Free Syrian Army rebels loot the Syrian city of Afrin. ](/news/2018/03/19/the-turkish-backed-free-syrian-army-rebels-loot-the-syrian-city-of-afrin.md)
 Rebel fighters reportedly raid homes and shops after seizing the Syrian city from Kurdish forces.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/18/index.md)
+## [Day Before Yesterday](/news/2018/03/18/index.md)
 
 ##### Russian presidential election, 2018
 ### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
@@ -77,31 +93,7 @@ Turkish-backed forces wave flags and remove a Kurdish statue after seizing the c
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/17/index.md)
-
-##### Batman by-election, 2018
-### [Australian voters in South Australia, the Melbourne division of Batman, and the Perth electoral district of Cottesloe go to the polls in three separate elections. ](/news/2018/03/17/australian-voters-in-south-australia-the-melbourne-division-of-batman-and-the-perth-electoral-district-of-cottesloe-go-to-the-polls-in-thr.md)
-State to have new government for the first time in 16 years. Join us as we follow the night’s developments
-
-##### Crime in the United States
-### [The National Highway Traffic Safety Administration of the United States launches an investigation into potential defects in the airbag control systems of some Kia and Hyundai models. ](/news/2018/03/17/the-national-highway-traffic-safety-administration-of-the-united-states-launches-an-investigation-into-potential-defects-in-the-airbag-contr.md)
-Four deaths and six injuries have been linked to crashes where air bags failed to deploy, and an estimated 425,000 Hyundai and Kia vehicles are under investigation.
-
-##### Judicial system of Iran
-### [Former Vice President of Iran Esfandiar Rahim Mashaei, a close ally to Mahmoud Ahmadinejad, is arrested after criticizing Iran's judiciary. ](/news/2018/03/17/former-vice-president-of-iran-esfandiar-rahim-mashaei-a-close-ally-to-mahmoud-ahmadinejad-is-arrested-after-criticizing-iran-s-judiciary.md)
-Iran&rsquo;s semi-official ILNA news agency is reporting that authorities have detained a close ally
-
-##### Russia-United Kingdom relations
-### [In response to the UK's decision to expel 23 Russian diplomats following the poisoning of Sergei and Yulia Skripal, the Russian Federation expels 23 British diplomats, closes the British Council in Russia and closes the Consulate-General of the United Kingdom in Saint Petersburg. ](/news/2018/03/17/in-response-to-the-uk-s-decision-to-expel-23-russian-diplomats-following-the-poisoning-of-sergei-and-yulia-skripal-the-russian-federation-e.md)
-It also closes the British Council in Russia - amid tensions over the nerve agent attack on an ex-spy.
-
-##### 2018 Philippine Piper PA-23 Apache crash
-### [A Piper PA-23 passenger aircraft bound for Laoag International Airport in Ilocos Norte, Philippines, crashes upon take off from Plaridel Airport in Bulacan, killing all five people onboard as well as five on the ground. ](/news/2018/03/17/a-piper-pa-23-passenger-aircraft-bound-for-laoag-international-airport-in-ilocos-norte-philippines-crashes-upon-take-off-from-plaridel-air.md)
-Seven people died when a small plane crashed into a house north of the Philippine capital on Saturday, aviation and police officials said.
-
----
-
-## [Previous Day...](/news/2018/03/16/index.md)
+## [Previous Day...](/news/2018/03/17/index.md)
 
 ---
 

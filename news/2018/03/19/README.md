@@ -8,7 +8,7 @@ Formats: [HTML](2018/03/19/index.html)  [JSON](2018/03/19/index.json)  [XML](201
 _Context: Donald Trump, Federal drug policy of the United States, U.S. President, death penalty, drug traffickers, opioid epidemic_
 
 ##### Crime in Turkey
-### [Turkish police discover 1.4 kg of radioactive-labelled material (claimed by the police to be californium) in a car in Ankara. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-claimed-by-the-police-to-be-californium-in-a-car-in-ankara.md)
+### [Turkish police discover 1.4 kg of radioactive-labelled material in a car in Ankara. Initially claimed to be californium, the material is later identified as a type of Polystyrene sulfonate. ](/news/2018/03/19/turkish-police-discover-1-4-kg-of-radioactive-labelled-material-in-a-car-in-ankara-initially-claimed-to-be-californium-the-material-is-lat.md)
 More than 1kg of the element Californium is found in an anti-smuggling raid in Ankara, police say.
 
 ##### Turpin case
