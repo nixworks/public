@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/20/index.md)
 
 ##### Northern white rhinoceros
-### [The last known male Northern white rhinoceros dies in captivity, leaving two females as the only surviving members of the species. ](/news/2018/03/20/the-last-known-male-northern-white-rhinoceros-dies-in-captivity-leaving-two-females-as-the-only-surviving-members-of-the-species.md)
+### [The last known male Northern white rhinoceros dies in captivity, leaving two females as the only surviving members of the virtually extinct species. ](/news/2018/03/20/the-last-known-male-northern-white-rhinoceros-dies-in-captivity-leaving-two-females-as-the-only-surviving-members-of-the-virtually-extinct.md)
 Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
 
 ##### Austin package explosions
@@ -12,7 +12,7 @@ Sudan died in a Kenyan conservancy at the age of 45, after months of ill health.
 _Context: ATF, Austin package explosions, FBI, FedEx, San Antonio, Texas_
 
 ##### Weinstein effect
-### [After a series of allegations of sexual misconduct, the Weinstein Company files for chapter 11 bankruptcy. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Harvey Weinstein. ](/news/2018/03/20/after-a-series-of-allegations-of-sexual-misconduct-the-weinstein-company-files-for-chapter-11-bankruptcy-the-company-also-states-that-it-w.md)
+### [After a series of allegations of sexual misconduct, The Weinstein Company files for chapter 11 bankruptcy. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Harvey Weinstein. ](/news/2018/03/20/after-a-series-of-allegations-of-sexual-misconduct-the-weinstein-company-files-for-chapter-11-bankruptcy-the-company-also-states-that-it-w.md)
 The studio co-founded by disgraced movie mogul Harvey Weinstein has been crippled by the sexual harassment and assault allegations that were first made against him late last year. 
 
 ##### Opinion
@@ -40,7 +40,7 @@ The &quot;siblings want to be known as survivors, not victims,&quot; their lawye
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
 
 ##### History of autonomous cars
-### [A woman in Tempe, Arizona, dies after being hit by a self-driving car operated by Uber, in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities. ](/news/2018/03/19/a-woman-in-tempe-arizona-dies-after-being-hit-by-a-self-driving-car-operated-by-uber-in-what-appears-to-be-the-first-death-of-a-pedestria.md)
+### [A woman in Tempe, Arizona, dies after being hit by a self-driving car operated by Uber, in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities as well as Toronto. ](/news/2018/03/19/a-woman-in-tempe-arizona-dies-after-being-hit-by-a-self-driving-car-operated-by-uber-in-what-appears-to-be-the-first-death-of-a-pedestria.md)
 Tempe police said car was in autonomous mode at the time of the crash and that the vehicle hit a woman who later died at a hospital
 
 ##### Economy of the United States

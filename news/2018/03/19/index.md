@@ -20,7 +20,7 @@ The &quot;siblings want to be known as survivors, not victims,&quot; their lawye
 Austin police say the explosion, following deadly parcel bombings, may have been tripwire-activated.
 
 ##### History of autonomous cars
-### [A woman in Tempe, Arizona, dies after being hit by a self-driving car operated by Uber, in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities. ](/news/2018/03/19/a-woman-in-tempe-arizona-dies-after-being-hit-by-a-self-driving-car-operated-by-uber-in-what-appears-to-be-the-first-death-of-a-pedestria.md)
+### [A woman in Tempe, Arizona, dies after being hit by a self-driving car operated by Uber, in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities as well as Toronto. ](/news/2018/03/19/a-woman-in-tempe-arizona-dies-after-being-hit-by-a-self-driving-car-operated-by-uber-in-what-appears-to-be-the-first-death-of-a-pedestria.md)
 Tempe police said car was in autonomous mode at the time of the crash and that the vehicle hit a woman who later died at a hospital
 
 ##### Economy of the United States
