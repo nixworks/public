@@ -12,7 +12,7 @@ A telescope to study planets beyond our Solar System is selected by the European
 _Context: Extinction threshold, Northern white rhinoceros, Sudan_
 
 ##### Eschatology in Norse mythology
-### [A study reveals that the Eldgja volcanic eruption in Iceland from spring 939 to autumn 940 may have slated the Icelandic gods of Voluspa, written around 20 years later. ](/news/2018/03/20/a-study-reveals-that-the-eldgja-volcanic-eruption-in-iceland-from-spring-939-to-autumn-940-may-have-slated-the-icelandic-gods-of-vapluspa.md)
+### [A study reveals that the Eldgja volcanic eruption in Iceland from spring 939 to autumn 940 may have inspired part of the poem, Voluspa, telling of destruction of the old Norse gods written around 20 years later. ](/news/2018/03/20/a-study-reveals-that-the-eldgja-volcanic-eruption-in-iceland-from-spring-939-to-autumn-940-may-have-inspired-part-of-the-poem-vapluspa-t.md)
 _Context: Eldgja, Eschatology in Norse mythology, Iceland, Voluspa_
 
 ##### Crime in France
@@ -28,12 +28,16 @@ _Context: Great Mills, Great Mills High School, Maryland, School shootings in th
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
 
 ##### United States recognition of Jerusalem as capital of Israel
-### [ The Palestinian leader Mahmoud Abbas insults US Ambasador to Israel David Friedman, calling him "son of dog". US blasted his comments and warned him to choose between hate and peace.](/news/2018/03/20/the-palestinian-leader-mahmoud-abbas-insults-us-ambasador-to-israel-david-friedman-calling-him-ason-of-doga-us-blasted-his-comments-a.md)
+### [ The Palestinian leader Mahmoud Abbas insults US Ambassador to Israel David M. Friedman, calling him "son of dog". US blasted his comments and warned him to choose between hate and peace.](/news/2018/03/20/the-palestinian-leader-mahmoud-abbas-insults-us-ambassador-to-israel-david-m-friedman-calling-him-ason-of-doga-us-blasted-his-commen.md)
 White House urges Abbas to choose hate or peace &nbsp; RAMALLAH: Palestinian president Mahmud Abbas labeled the US ambassador to Israel David Friedman a &#8220;son of a dog&#8221; on Monday during an attack on Donald Trump&#8217;s policies. The scathing comments come with US President Trump still ex...
 
 ##### South Korea-United States relations
 ### [ South Korea and the United States announce that the Foal Eagle and Key Resolve military drills will start on April 1 and last for four weeks. ](/news/2018/03/20/south-korea-and-the-united-states-announce-that-the-foal-eagle-and-key-resolve-military-drills-will-start-on-april-1-and-last-for-four-week.md)
 The U.S. and South Korea delayed exercises until after the Olympics.
+
+##### Toyota
+### [Toyota pulls all its self-driving cars off US roads in the wake of a fatal accident involving an Uber vehicle. ](/news/2018/03/20/toyota-pulls-all-its-self-driving-cars-off-us-roads-in-the-wake-of-a-fatal-accident-involving-an-uber-vehicle.md)
+&quot;We feel the incident may have an emotional effect on our test drivers.&quot;
 
 ##### Red Arrows
 ### [A Red Arrows jet crashes in North Wales, killing an engineer. ](/news/2018/03/20/a-red-arrows-jet-crashes-in-north-wales-killing-an-engineer.md)
