@@ -5,7 +5,7 @@ Formats: [HTML](2018/03/15/index.html)  [JSON](2018/03/15/index.json)  [XML](201
 
 ##### Politics of Slovakia
 ### [Prime Minister of Slovakia Robert Fico resigns amid controversy over the murder of Jan Kuciak. ](/news/2018/03/15/prime-minister-of-slovakia-robert-fico-resigns-amid-controversy-over-the-murder-of-ja-n-kuciak.md)
-_Context: Politics of Slovakia, Prime Minister of Slovakia, Robert Fico, murder of Jan Kuciak_
+_Context: Politics of Slovakia, Prime Minister, Robert Fico, murder of Jan Kuciak_
 
 ##### Rohingya refugees in Bangladesh
 ### [The government of Myanmar agrees to repatriate 374 Rohingya refugees from a list of 8,000 submitted by the government of Bangladesh. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. ](/news/2018/03/15/the-government-of-myanmar-agrees-to-repatriate-374-rohingya-refugees-from-a-list-of-8-000-submitted-by-the-government-of-bangladesh-myanmar.md)

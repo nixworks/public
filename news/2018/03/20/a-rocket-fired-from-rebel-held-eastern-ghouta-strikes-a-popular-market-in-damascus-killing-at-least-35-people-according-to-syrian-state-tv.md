@@ -11,9 +11,10 @@ At least 35 people were killed on Tuesday when a rocket hit a busy market place 
 
 ### Sources:
 
-1. [Channel News Asia](https://www.channelnewsasia.com/news/world/rocket-attack-kills-at-least-29-in-damascus-market---syrian-state-media-10061232)
-2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-damascus/scores-killed-in-rocket-attack-on-damascus-market-and-rebel-held-douma-idUSKBN1GW2I1?il=0)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-43470147)
+2. [Channel News Asia](https://www.channelnewsasia.com/news/world/rocket-attack-kills-at-least-29-in-damascus-market---syrian-state-media-10061232)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-damascus/scores-killed-in-rocket-attack-on-damascus-market-and-rebel-held-douma-idUSKBN1GW2I1?il=0)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 
