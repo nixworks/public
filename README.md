@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/21/index.md)
 
 ##### Discoveries of exoplanets
-### [ 15 new alien worlds are discovered. 3 exoplanets larger than Earth are also discovered around K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/15-new-alien-worlds-are-discovered-3-exoplanets-larger-than-earth-are-also-discovered-around-k2-155-furthermore-a-3d-climate-simulation.md)
+### [ Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
 ##### Politics of Myanmar
@@ -14,6 +14,10 @@ _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 ##### Austin serial bombings
 ### [A suspect in the bombings is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. ](/news/2018/03/21/a-suspect-in-the-bombings-is-dead-after-detonating-a-bomb-in-his-vehicle-police-warn-residents-that-while-they-believe-the-bomber-is-deceas.md)
 _Context: Austin serial bombings_
+
+##### Israel-Syria relations
+### [Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September, 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sept.md)
+Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -91,6 +95,10 @@ Major victory for cross-party group as appeal judges say case raises point ‘of
 ### [Turkish President Recep Tayyip Erdogan asserts his nation will secure Northern Cyprus' access to natural hydrocarbon resources off the Cypriot coast. The comments come amid disputes as to sovereign rights and access to offshore resources on the island. ](/news/2018/03/20/turkish-president-recep-tayyip-erdoaan-asserts-his-nation-will-secure-northern-cyprus-access-to-natural-hydrocarbon-resources-off-the-cypr.md)
 Amid recent escalation in the Eastern Mediterranean that stemmed from unilateral moves by Greek Cyprus concerning hydrocarbon resources, Ankara continuously reiterates its position to protect its and Turkish Cyprus’s rights
 
+##### Chinese
+### [Chinese diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident Yang Jianli's testimony to the United Nations Human Rights Council. ](/news/2018/03/20/chinese-diplomat-chen-cheng-repeatedly-interrupts-and-objects-to-exiled-dissident-yang-jianli-s-testimony-to-the-united-nations-human-rights.md)
+Yang Jianli, a dissident in exile in the US, was disrupted seconds into his remarks by Chen Cheng of China’s diplomatic mission
+
 ##### United States recognition of Jerusalem as capital of Israel
 ### [Palestinian leader Mahmoud Abbas insults U.S. Ambassador to Israel David M. Friedman, calling him a "son of a dog" when he says Israeli settlers build on their land in the occupied West Bank. The U.S. warns Abbas to "choose between hate and peace". ](/news/2018/03/20/palestinian-leader-mahmoud-abbas-insults-u-s-ambassador-to-israel-david-m-friedman-calling-him-a-son-of-a-dog-when-he-says-israeli-sett.md)
 White House urges Abbas to choose hate or peace &nbsp; RAMALLAH: Palestinian president Mahmud Abbas labeled the US ambassador to Israel David Friedman a &#8220;son of a dog&#8221; on Monday during an attack on Donald Trump&#8217;s policies. The scathing comments come with US President Trump still ex...
@@ -101,7 +109,7 @@ The U.S. and South Korea delayed exercises until after the Olympics.
 
 ##### China-South Korea relations
 ### [Japan, China, and South Korea agree in principle to hold a trilateral summit in May. ](/news/2018/03/20/japan-china-and-south-korea-agree-in-principle-to-hold-a-trilateral-summit-in-may.md)
-_Context: China, China-South Korea relations, Japan, Japan-South Korea relations, South Korea_
+_Context: China-South Korea relations, Chinese, Japan, Japan-South Korea relations, South Korea_
 
 ##### 2017-18 North Korea crisis
 ### [Delegations from North Korea, South Korea, and the United States meet in the outskirts of Helsinki, Finland. ](/news/2018/03/20/delegations-from-north-korea-south-korea-and-the-united-states-meet-in-the-outskirts-of-helsinki-finland.md)

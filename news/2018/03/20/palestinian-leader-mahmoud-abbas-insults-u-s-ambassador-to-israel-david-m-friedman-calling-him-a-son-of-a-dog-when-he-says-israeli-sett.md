@@ -11,10 +11,11 @@ White House urges Abbas to choose hate or peace &nbsp; RAMALLAH: Palestinian pre
 
 ### Sources:
 
-1. [Jerusalem Online](http://www.jerusalemonline.com/news/world-news/around-the-globe/us-slams-abbas-for-hateful-rhetoric-35127)
-2. [The Kuwait Times](http://news.kuwaittimes.net/website/palestinian-leader-insults-us-ambassador-to-israel/)
-3. [The Telegraph](https://www.telegraph.co.uk/news/2018/03/20/palestinian-president-mahmoud-abbas-calls-us-ambassador-son/)
-3. [Cover Image](http://news.kuwaittimes.net/website/wp-content/uploads/2018/03/palest.jpg)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2018-03-20/palestinians-plan-mass-gaza-march-as-u-s-embassy-move-nears)
+2. [Jerusalem Online](http://www.jerusalemonline.com/news/world-news/around-the-globe/us-slams-abbas-for-hateful-rhetoric-35127)
+3. [The Kuwait Times](http://news.kuwaittimes.net/website/palestinian-leader-insults-us-ambassador-to-israel/)
+4. [The Telegraph](https://www.telegraph.co.uk/news/2018/03/20/palestinian-president-mahmoud-abbas-calls-us-ambassador-son/)
+4. [Cover Image](http://news.kuwaittimes.net/website/wp-content/uploads/2018/03/palest.jpg)
 
 ### Changes:
 
