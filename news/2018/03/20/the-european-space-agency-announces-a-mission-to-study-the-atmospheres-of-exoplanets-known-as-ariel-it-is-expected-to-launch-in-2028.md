@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/20/the-european-space-agency-announces-a-mission-t
 ### [2018-03-20](/news/2018/03/20/index.md)
 
 ##### ESA missions
-# The European Space Agency announces a mission to study the atmospheres of exoplanets. Known as Ariel, it is expected to launch in 2028. 
+# The European Space Agency announces a mission to study the atmospheres of exoplanets. Known as ARIEL, it is expected to launch in 2028. 
 
 A telescope to study planets beyond our Solar System is selected by the European Space Agency.
 

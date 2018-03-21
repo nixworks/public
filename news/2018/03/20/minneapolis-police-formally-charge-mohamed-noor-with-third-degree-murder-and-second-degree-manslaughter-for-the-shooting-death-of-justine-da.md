@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/20/minneapolis-police-formally-charge-mohamed-noor
 ### [2018-03-20](/news/2018/03/20/index.md)
 
 ##### Shooting of Justine Damond
-# Minneapolis Police formally charge Mohamed Noor with Third-degree murder and Second-degree manslaughter for the shooting death of Justine Damond. 
+# Minneapolis Police formally charge Mohamed Noor with third-degree murder and second-degree manslaughter for the shooting death of Justine Damond. 
 
 
 
