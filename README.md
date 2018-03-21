@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/21/index.md)
 
 ##### Politics of Myanmar
-### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen within a week. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
+### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
 ##### Opinion
