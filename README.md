@@ -7,9 +7,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
+##### Impeachment process against Pedro Pablo Kuczynski
+### [Peruvian President Pedro Pablo Kuczynski resigns amid a vote buying scandal. ](/news/2018/03/21/peruvian-president-pedro-pablo-kuczynski-resigns-amid-a-vote-buying-scandal.md)
+Pedro Pablo Kuczynski has been implicated in a vote-buying scandal but denies wrongdoing.
+
 ##### 2017-18 Spanish constitutional crisis
-### [Catalan activist Jordi Sanchez, imprisoned accused of sedition, drops his bid to lead the Catalan government. ](/news/2018/03/21/catalan-activist-jordi-sa-nchez-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government.md)
-_Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez_
+### [Catalan activist Jordi Sanchez i Picanyol, imprisoned accused of sedition, drops his bid to lead the Catalan government. Jordi Turull i Negre, ex-member of the dismissed regional government, who was imprisoned amid sedition and under investigation due to his connection in a corruption scandal involving CiU, is the next candidate in a possible investiture for Thursday, March 22.](/news/2018/03/21/catalan-activist-jordi-sa-nchez-i-picanyol-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government-jordi-turull-i-neg.md)
+_Context: 2017-18 Spanish constitutional crisis, Catalan, CiU, Jordi Sanchez i Picanyol_
 
 ##### Politics of Myanmar
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
@@ -31,7 +35,7 @@ The Public Order and Safety (Special Powers) Act aims to reduce the risk of secu
 ### [Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sept.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
 
-##### Whitsunday Islands
+##### Eurocopter 120
 ### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
@@ -74,6 +78,10 @@ Sylvi Listhaug, who was poised to lose confidence vote over terrorism comment, c
 ##### Legal status of cryptocurrencies
 ### [U.S. President Donald Trump issues an executive order banning U.S. entities from trading in the Venezuelan Petro cryptocurrency. Trump calls the digital currency, launched last month, an "attempt to circumvent U.S. sanctions". ](/news/2018/03/20/u-s-president-donald-trump-issues-an-executive-order-banning-u-s-entities-from-trading-in-the-venezuelan-petro-cryptocurrency-trump-calls.md)
 US calls the digital currency an attempt by the Venezuelan government to &#39;circumvent US sanctions&#39;. 
+
+##### Human rights in the United Kingdom
+### [The Department for Work and Pensions wins a court case case holding that benefits claimants cannot raise arguments based on the European Convention on Human Rights at tribunals, and must instead go via the High Court. ](/news/2018/03/20/the-department-for-work-and-pensions-wins-a-court-case-case-holding-that-benefits-claimants-cannot-raise-arguments-based-on-the-european-con.md)
+_Context: Department for Work and Pensions, European Convention on Human Rights, Human rights in the United Kingdom_
 
 ##### Human rights in Turkey
 ### [The United Nations issues a report calling for an end to the nation's state of emergency, claiming it has been used to violate human rights. Turkey responds, calling the report "biased" and "unacceptable". ](/news/2018/03/20/the-united-nations-issues-a-report-calling-for-an-end-to-the-nation-s-state-of-emergency-claiming-it-has-been-used-to-violate-human-rights.md)

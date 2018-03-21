@@ -35,6 +35,10 @@ Sylvi Listhaug, who was poised to lose confidence vote over terrorism comment, c
 ### [U.S. President Donald Trump issues an executive order banning U.S. entities from trading in the Venezuelan Petro cryptocurrency. Trump calls the digital currency, launched last month, an "attempt to circumvent U.S. sanctions". ](/news/2018/03/20/u-s-president-donald-trump-issues-an-executive-order-banning-u-s-entities-from-trading-in-the-venezuelan-petro-cryptocurrency-trump-calls.md)
 US calls the digital currency an attempt by the Venezuelan government to &#39;circumvent US sanctions&#39;. 
 
+##### Human rights in the United Kingdom
+### [The Department for Work and Pensions wins a court case case holding that benefits claimants cannot raise arguments based on the European Convention on Human Rights at tribunals, and must instead go via the High Court. ](/news/2018/03/20/the-department-for-work-and-pensions-wins-a-court-case-case-holding-that-benefits-claimants-cannot-raise-arguments-based-on-the-european-con.md)
+_Context: Department for Work and Pensions, European Convention on Human Rights, Human rights in the United Kingdom_
+
 ##### Human rights in Turkey
 ### [The United Nations issues a report calling for an end to the nation's state of emergency, claiming it has been used to violate human rights. Turkey responds, calling the report "biased" and "unacceptable". ](/news/2018/03/20/the-united-nations-issues-a-report-calling-for-an-end-to-the-nation-s-state-of-emergency-claiming-it-has-been-used-to-violate-human-rights.md)
 Turkey acted illegally by detaining two prominent journalists who were arrested in the wake of the military coup attempt in July 2016, the European
