@@ -1,7 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/03/20/index.md)
+## [News](/news/2018/03/21/index.md)
+
+##### Politics of Myanmar
+### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen within a week. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
+_Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/03/20/index.md)
 
 ##### UK
 ### [A study commissioned by the UK government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to US$3 trillion (GBP2 trillion) by 2030. ](/news/2018/03/20/a-study-commissioned-by-the-uk-government-concludes-marine-plastic-debris-may-treble-within-ten-years-and-predicts-the-ocean-economy-will.md)
@@ -54,6 +66,10 @@ _Context: Great Mills, Great Mills High School, Maryland, School shootings in th
 ##### Austin serial bombings
 ### [A bomb detonates overnight at a FedEx facility in San Antonio, Texas, United States. The FBI believes the bombing is linked to the other bombings in the area. The ATF reports that there were no serious injuries. Both the bomb's point of origin and intended destination were in Austin. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-fedex-facility-in-san-antonio-texas-united-states-the-fbi-believes-the-bombing-is-linked-to-the-other-bom.md)
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
+
+##### Censorship in the United Kingdom
+### [YouTuber Mark "Count Dankula" Meechan is found guilty of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/youtuber-mark-count-dankula-meechan-is-found-guilty-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salute.md)
+_Context: Censorship in the United Kingdom, Nazi salute, United Kingdom, YouTube, freedom of speech, pug_
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md)
@@ -119,13 +135,9 @@ Indian government says DNA analysis of remains prove that workers Isis kidnapped
 ### [A rocket fired from rebel-held Eastern Ghouta strikes a popular market in Damascus, killing at least 35 people, according to Syrian state TV SANA. ](/news/2018/03/20/a-rocket-fired-from-rebel-held-eastern-ghouta-strikes-a-popular-market-in-damascus-killing-at-least-35-people-according-to-syrian-state-tv.md)
 At least 35 people were killed on Tuesday when a rocket hit a busy market place in an eastern suburb of the Syrian capital Damascus, state media said, while rescuers said Syrian and Russian airstrikes killed dozens in nearby rebel-held areas.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/03/19/index.md)
+## [Day Before Yesterday](/news/2018/03/19/index.md)
 
 ##### Federal drug policy of the United States
 ### [U.S. President Donald Trump unveils his plan to combat the United States's opioid epidemic which includes harsher penalties for drug traffickers, including the death penalty. ](/news/2018/03/19/u-s-president-donald-trump-unveils-his-plan-to-combat-the-united-states-s-opioid-epidemic-which-includes-harsher-penalties-for-drug-traffic.md)
@@ -161,43 +173,7 @@ Rebel fighters reportedly raid homes and shops after seizing the Syrian city fro
 
 ---
 
-## [Day Before Yesterday](/news/2018/03/18/index.md)
-
-##### Russian presidential election, 2018
-### [Voters in Russia cast their votes for the President of Russia. Incumbent Vladimir Putin wins a fourth term in office, with just over 75% of the popular vote. ](/news/2018/03/18/voters-in-russia-cast-their-votes-for-the-president-of-russia-incumbent-vladimir-putin-wins-a-fourth-term-in-office-with-just-over-75-of.md)
-_Context: President of Russia, Russia, Russian presidential election, 2018, Vladimir Putin_
-
-##### Censorship in the United Kingdom
-### [Lutz Bachmann, the founder of the German nationalist group Pegida was detained and prevented from speaking at a free speech rally at Speakers' Corner in Hyde Park, London, where activist Tommy Robinson was also speaking at.](/news/2018/03/18/lutz-bachmann-the-founder-of-the-german-nationalist-group-pegida-was-detained-and-prevented-from-speaking-at-a-free-speech-rally-at-speaker.md)
-The founder of far right anti-Islam group Pegida has been barred from entry to the UK and deported from Stansted airport. Lutz Bachmann, who has led anti-immigration marches of tens of thousands of people, landed at Stansted airport on Saturday night. He was detained and subsequently expelled from t...
-
-##### 2018 anti-Muslim riots in Sri Lanka
-### [Sri Lanka ends the state of emergency declared on March 6, 2018. ](/news/2018/03/18/sri-lanka-ends-the-state-of-emergency-declared-on-march-6-2018.md)
-The measure was in place earlier this month to stop violent attacks against Muslims by Buddhist
-
-##### 2017-18 Australian bushfire season
-### [A bushfire destroys dozens of buildings in Tathra, New South Wales, Australia. ](/news/2018/03/18/a-bushfire-destroys-dozens-of-buildings-in-tathra-new-south-wales-australia.md)
-More than 70 homes and buildings are feared lost after the blaze, authorities say.
-
-##### Cirque du Soleil fatal accidents
-### [A Cirque du Soleil performer dies after falling 15 ft during a performance in Tampa, Florida. ](/news/2018/03/18/a-cirque-du-soleil-performer-dies-after-falling-15-ft-during-a-performance-in-tampa-florida.md)
-Cirque du Soleil issued a statement Sunday afternoon, saying that Yann Arnaud was transported to a nearby hospital where he died of his injuries.
-
-##### Florida International University pedestrian bridge collapse
-### [The Miami Police Department states that they believe they have recovered the last of the victims killed by the bridge's collapse. ](/news/2018/03/18/the-miami-police-department-states-that-they-believe-they-have-recovered-the-last-of-the-victims-killed-by-the-bridge-s-collapse.md)
-Police recovered five bodies from the wreckage Saturday and said a sixth person died at the hospital. Florida International University said engineers met hours before the collapse to discuss safety.
-
-##### 2018 Manila Pavilion Hotel fire
-### [Three people are killed in a fire at the Manila Pavilion Hotel in the Philippines. ](/news/2018/03/18/three-people-are-killed-in-a-fire-at-the-manila-pavilion-hotel-in-the-philippines.md)
-A fire broke out at a hotel in the Philippine capital on Sunday, killing four people and trapping several on the fifth floor, a rescue official said.
-
-##### Turkish military operation in Afrin
-### [The Turkish Army and Free Syrian Army seize the Kurdish stronghold of Afrin from the YPG in northern Syria, raising the Turkish flag above the city centre. A statue of the Kurdish legendary figure, Kaveh the Blacksmith, is bulldozed by Turkish-backed forces. ](/news/2018/03/18/the-turkish-army-and-free-syrian-army-seize-the-kurdish-stronghold-of-afrin-from-the-ypg-in-northern-syria-raising-the-turkish-flag-above-t.md)
-Turkish-backed forces wave flags and remove a Kurdish statue after seizing the centre of Afrin.
-
----
-
-## [Previous Day...](/news/2018/03/17/index.md)
+## [Previous Day...](/news/2018/03/18/index.md)
 
 ---
 

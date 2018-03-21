@@ -55,6 +55,10 @@ _Context: Great Mills, Great Mills High School, Maryland, School shootings in th
 ### [A bomb detonates overnight at a FedEx facility in San Antonio, Texas, United States. The FBI believes the bombing is linked to the other bombings in the area. The ATF reports that there were no serious injuries. Both the bomb's point of origin and intended destination were in Austin. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-fedex-facility-in-san-antonio-texas-united-states-the-fbi-believes-the-bombing-is-linked-to-the-other-bom.md)
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
 
+##### Censorship in the United Kingdom
+### [YouTuber Mark "Count Dankula" Meechan is found guilty of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/youtuber-mark-count-dankula-meechan-is-found-guilty-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salute.md)
+_Context: Censorship in the United Kingdom, Nazi salute, United Kingdom, YouTube, freedom of speech, pug_
+
 ##### Poisoning of Sergei and Yulia Skripal
 ### [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md)
 The latest updates as the 23 Russian diplomats expelled by Britain over the Salisbury nerve agent attack leave the UK.
