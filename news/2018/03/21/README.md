@@ -7,13 +7,17 @@ Formats: [HTML](2018/03/21/index.html)  [JSON](2018/03/21/index.json)  [XML](201
 ### [Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
+##### Antiguan general election, 2018
+### [Voters in Antigua and Barbuda go to the polls, with Barbudan residents having to travel to Antigua in order to participate. ](/news/2018/03/21/voters-in-antigua-and-barbuda-go-to-the-polls-with-barbudan-residents-having-to-travel-to-antigua-in-order-to-participate.md)
+Barbudans have for the first time in their history been forced to travel by fishing boat, ferry and charter plane to neighbouring Antigua to vote in their elections &ndash; a move many on the hurricane-ravaged island see as a ploy to discourage them from voting.
+
 ##### Impeachment process against Pedro Pablo Kuczynski
 ### [Peruvian President Pedro Pablo Kuczynski resigns amid a vote buying scandal. ](/news/2018/03/21/peruvian-president-pedro-pablo-kuczynski-resigns-amid-a-vote-buying-scandal.md)
 Pedro Pablo Kuczynski has been implicated in a vote-buying scandal but denies wrongdoing.
 
 ##### 2017-18 Spanish constitutional crisis
-### [Catalan activist Jordi Sanchez i Picanyol, imprisoned accused of sedition, drops his bid to lead the Catalan government. Jordi Turull i Negre, ex-member of the dismissed regional government, who was imprisoned amid sedition and under investigation due to his connection in a corruption scandal involving CiU, is the next candidate in a possible investiture for Thursday, March 22.](/news/2018/03/21/catalan-activist-jordi-sa-nchez-i-picanyol-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government-jordi-turull-i-neg.md)
-_Context: 2017-18 Spanish constitutional crisis, Catalan, CiU, Jordi Sanchez i Picanyol_
+### [Catalan activist Jordi Sanchez i Picanyol, imprisoned accused of sedition, drops his bid to lead the Catalan government. ](/news/2018/03/21/catalan-activist-jordi-sa-nchez-i-picanyol-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government.md)
+_Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picanyol_
 
 ##### Politics of Myanmar
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
@@ -24,20 +28,32 @@ _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 Six girls are still unaccounted for
 
 ##### Austin serial bombings
-### [Mark Anthony Conditt, a suspect in the bombings, is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. ](/news/2018/03/21/mark-anthony-conditt-a-suspect-in-the-bombings-is-dead-after-detonating-a-bomb-in-his-vehicle-police-warn-residents-that-while-they-belie.md)
-_Context: Austin serial bombings_
+### [Mark Anthony Conditt, the main suspect in the serial bombings, dies after detonating a bomb in his vehicle while being pursued by Austin police officers. The police chief warns residents that while they believe the bomber is deceased, he may have sent more packages before his death. ](/news/2018/03/21/mark-anthony-conditt-the-main-suspect-in-the-serial-bombings-dies-after-detonating-a-bomb-in-his-vehicle-while-being-pursued-by-austin-pol.md)
+_Context: Austin police officers, Austin serial bombings_
 
 ##### Censorship in Singapore
 ### [The Singaporean Parliament approves the Public Order and Safety (Special Powers) Act, which makes it a crime to take pictures and relay information during terror attacks. ](/news/2018/03/21/the-singaporean-parliament-approves-the-public-order-and-safety-special-powers-act-which-makes-it-a-crime-to-take-pictures-and-relay-info.md)
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
+##### Austria-Israel relations
+### [Austrian foreign minister Karin Kneissl recalls diplomat Jurgen-Michael Kleppich from Israel after he is photographed wearing a t-shirt with slogans linked to Nazism. ](/news/2018/03/21/austrian-foreign-minister-karin-kneissl-recalls-diplomat-ja1-4rgen-michael-kleppich-from-israel-after-he-is-photographed-wearing-a-t-shirt-wit.md)
+_Context: Austria, Austria-Israel relations, Israel, Karin Kneissl_
+
 ##### Israel-Syria relations
-### [Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sept.md)
+### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
+
+##### 2015 Shoreham Airshow crash
+### [The Crown Prosecution Service charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at Shoreham Airshow in England. ](/news/2018/03/21/the-crown-prosecution-service-charges-pilot-andrew-hill-with-11-counts-of-manslaughter-by-gross-negligence-and-one-count-of-endangering-an-a.md)
+The pilot of an aircraft which crashed and killed 11 people has been charged with 11 counts of manslaughter by gross negligence.
 
 ##### Eurocopter 120
 ### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
+
+##### Royal Saudi Air Force
+### [Rebels claim to have shot down a Royal Saudi Air Force jet over Sa'da, Yemen. ](/news/2018/03/21/rebels-claim-to-have-shot-down-a-royal-saudi-air-force-jet-over-sa-da-yemen.md)
+_Context: Royal Saudi Air Force, Yemen_
 
 ## [Previous Day...](/news/2018/03/20/index.md)
 
