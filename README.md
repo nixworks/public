@@ -35,9 +35,17 @@ _Context: Austin police officers, Austin serial bombings_
 ### [The Singaporean Parliament approves the Public Order and Safety (Special Powers) Act, which makes it a crime to take pictures and relay information during terror attacks. ](/news/2018/03/21/the-singaporean-parliament-approves-the-public-order-and-safety-special-powers-act-which-makes-it-a-crime-to-take-pictures-and-relay-info.md)
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
+##### Poisoning of Sergei and Yulia Skripal
+### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
+British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
+
+##### Economy of the African Union
+### [The leaders of 44 African Union states sign an agreement in Kigali, Rwanda, to create the African Continental Free Trade Area (CFTA). ](/news/2018/03/21/the-leaders-of-44-african-union-states-sign-an-agreement-in-kigali-rwanda-to-create-the-african-continental-free-trade-area-cfta.md)
+It is hoped the deal could boost industry and make more than a billion people more prosperous.
+
 ##### Austria-Israel relations
 ### [Austrian foreign minister Karin Kneissl recalls diplomat Jurgen-Michael Kleppich from Israel after he is photographed wearing a t-shirt with slogans linked to Nazism. ](/news/2018/03/21/austrian-foreign-minister-karin-kneissl-recalls-diplomat-ja1-4rgen-michael-kleppich-from-israel-after-he-is-photographed-wearing-a-t-shirt-wit.md)
-_Context: Austria, Austria-Israel relations, Israel, Karin Kneissl_
+_Context: Austria, Austria-Israel relations, Israel, Karin Kneissl, Nazism_
 
 ##### Israel-Syria relations
 ### [Israel admits for the first time that it carried out an airstrike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstrike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sep.md)
@@ -51,9 +59,13 @@ The pilot of an aircraft which crashed and killed 11 people has been charged wit
 ### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
-##### Royal Saudi Air Force
-### [Rebels claim to have shot down a Royal Saudi Air Force jet over Sa'da, Yemen. ](/news/2018/03/21/rebels-claim-to-have-shot-down-a-royal-saudi-air-force-jet-over-sa-da-yemen.md)
-_Context: Royal Saudi Air Force, Yemen_
+##### Syria
+### [The Syrian government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held Harasta, Eastern Ghouta. ](/news/2018/03/21/the-syrian-government-and-rebel-forces-reach-an-agreement-to-allow-7-500-people-to-evacuate-from-rebel-held-harasta-eastern-ghouta.md)
+Syrian state TV and Ahrar al-Sham rebel group say 7,500 people will evacuate Ghouta town of Harasta on Thursday.
+
+##### Saudi Arabian-led intervention in Yemen
+### [Houthis claim to have shot down a Royal Saudi Air Force F-15 jet over Sa'da province, Yemen. ](/news/2018/03/21/houthis-claim-to-have-shot-down-a-royal-saudi-air-force-f-15-jet-over-sa-da-province-yemen.md)
+_Context: F-15, Houthis, Royal Saudi Air Force, Sa'da province, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
