@@ -11,7 +11,7 @@ Recently, the researchers have discovered 15 new planets in the Universe. They a
 
 ### Sources:
 
-1. [healththoroughfare](https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135)
+1. [Health Thoroughfare](https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135)
 1. [Cover Image](https://www.healththoroughfare.com/wp-content/uploads/2018/03/15-New-Alien-Worlds-Discovered-Recently.jpg)
 
 ### Changes:

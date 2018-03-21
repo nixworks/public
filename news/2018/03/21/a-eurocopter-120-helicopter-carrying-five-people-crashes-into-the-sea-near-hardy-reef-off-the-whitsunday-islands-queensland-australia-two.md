@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-peopl
 ### [2018-03-21](/news/2018/03/21/index.md)
 
 ##### Whitsunday Islands
-# A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two are killed. 
+# A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two people are killed. 
 
 Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
