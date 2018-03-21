@@ -9,7 +9,7 @@ _Context: Arthur Andersen, Enron, U.S. Supreme Court, jury_
 
 ##### Bob Geldof
 ### [ Bob Geldof announces plans for a concert similar to Live Aid, which took place in 1985, to coincide with the G8 Summit in Edinburgh this July. The concert, named 'Live 8', will take place in Hyde Park, London on 2 July, with other concerts in Paris, Rome, Berlin and Philadelphia, and is intended to raise awareness of the Make Poverty History campaign. It is expected to include acts such as Sir Paul McCartney, Robbie Williams, Madonna, the Rolling Stones, Coldplay and U2, as well as a rumoured reunion of the Spice Girls. ](/news/2005/05/31/bob-geldof-announces-plans-for-a-concert-similar-to-live-aid-which-took-place-in-1985-to-coincide-with-the-g8-summit-in-edinburgh-this-ju.md)
-_Context: 1985, 2 July, Berlin, Bob Geldof, Coldplay, Edinburgh, Group of Eight, Hyde Park, Live 8, Live Aid, Madonna, Make Poverty History, Paris, Paul McCartney, Philadelphia, Robbie Williams, Rolling Stones, Rome, Italy, Spice Girls, U2_
+_Context: 1985, 2 July, Berlin, Bob Geldof, Coldplay, Edinburgh, Group of Eight, Hyde Park, London, Live 8, Live Aid, Madonna, Make Poverty History, Paris, Paul McCartney, Philadelphia, Robbie Williams, Rolling Stones, Rome, Italy, Spice Girls, U2_
 
 ##### Indonesia
 ### [ Indonesia intends to vaccinate 6.4 million children against polio in the next couple of days. There are already 16 cases in the country. ](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.md)

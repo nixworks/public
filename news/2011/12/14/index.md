@@ -35,7 +35,7 @@ South 24 Parganas officials fear death toll could rise further
 ### [A state of emergency is declared in the Nelson region of New Zealand due to heavy floods. ](/news/2011/12/14/a-state-of-emergency-is-declared-in-the-nelson-region-of-new-zealand-due-to-heavy-floods.md)
 A state of emergency has been declared in the Nelson region due to heavy flooding. - New Zealand Herald
 
-##### British
+##### United Kingdom
 ### [United Kingdom unemployment rises to 2.64m. ](/news/2011/12/14/united-kingdom-unemployment-rises-to-2-64m.md)
 UK unemployment rose by 128,000 in the three months to October to 2.64 million, as youth unemployment hits a new record high.
 

@@ -51,7 +51,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 ### [Israel reopens a trade route in the Gaza Strip after closing it for several days earlier in response to rocket fire from the Palestinian enclave. ](/news/2013/04/12/israel-reopens-a-trade-route-in-the-gaza-strip-after-closing-it-for-several-days-earlier-in-response-to-rocket-fire-from-the-palestinian-enc.md)
 Israel reopened a goods crossing into the Gaza Strip on Friday, officials said, after closing it several days earlier in response to rocket fire from the besieged Palestinian enclave.
 
-##### British
+##### United Kingdom
 ### [British Prime Minister David Cameron travels to Berlin to discuss his demands for sweeping reform of the European Union with German Chancellor Angela Merkel. ](/news/2013/04/12/british-prime-minister-david-cameron-travels-to-berlin-to-discuss-his-demands-for-sweeping-reform-of-the-european-union-with-german-chancell.md)
 David Cameron and German Chancellor Angela Merkel agree on the &quot;urgent need&quot; to make Europe more &quot;competitive and flexible&quot;, Downing Street says.
 

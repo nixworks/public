@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/3/index.html)  [JSON](2009/06/3/index.json)  [XML](2009/
 
 ##### Al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, British, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, United Kingdom, al-Qaeda, hostage_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
@@ -37,7 +37,7 @@ _Context: Challenger Deep, Mariana Trench, Nereus, South Pacific Ocean, remotely
 
 ##### Labour Party
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: British, Gordon Brown, Labour Party, MP, Parliament, Prime Minister, e-mail_
+_Context: Gordon Brown, Labour Party, MP, Parliament, Prime Minister, United Kingdom, e-mail_
 
 ##### Organization of American States
 ### [ The Organization of American States revokes its 47-year suspension of Cuba. ](/news/2009/06/3/the-organization-of-american-states-revokes-its-47-year-suspension-of-cuba.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/26/index.html)  [JSON](2015/01/26/index.json)  [XML](201
 
 ##### Church of England
 ### [The Church of England ordains Libby Lane as their first female bishop, at York Minster, United Kingdom. ](/news/2015/01/26/the-church-of-england-ordains-libby-lane-as-their-first-female-bishop-at-york-minster-united-kingdom.md)
-_Context: British, Church of England, Libby Lane, York Minster_
+_Context: Church of England, Libby Lane, United Kingdom, York Minster_
 
 ##### SYRIZA
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)

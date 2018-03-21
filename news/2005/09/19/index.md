@@ -13,7 +13,7 @@ _Context: Beirut, Kuwait, Lebanese, capital_
 
 ##### Letter bomb
 ### [ One person is injured following an apparent letter bomb attack in the British Embassy in the Croatian capital Zagreb. ](/news/2005/09/19/one-person-is-injured-following-an-apparent-letter-bomb-attack-in-the-british-embassy-in-the-croatian-capital-zagreb.md)
-_Context: British, Croatia, Embassy, Zagreb, capital, letter bomb_
+_Context: Croatia, Embassy, United Kingdom, Zagreb, capital, letter bomb_
 
 ##### New Orleans
 ### [ At least 154 of the dead in New Orleans were patients in hospitals and nursing homes. They represent more than 25 percent of the bodies recovered to date. ](/news/2005/09/19/at-least-154-of-the-dead-in-new-orleans-were-patients-in-hospitals-and-nursing-homes-they-represent-more-than-25-percent-of-the-bodies-rec.md)

@@ -9,7 +9,7 @@ _Context: Alabama, space shuttle_
 
 ##### Helicopter
 ### [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md)
-_Context: British, Cambridgeshire, crash, helicopter_
+_Context: Cambridgeshire, United Kingdom, crash, helicopter_
 
 ##### Avigdor Yitzhaki
 ### [ Avigdor Yitzhaki, the chairman and co-founder of Ehud Olmert's Kadima party, calls on Olmert to resign as the Prime Minister of Israel over his handling of the 2006 Lebanon War. Foreign Minister Tzipi Livni later joined calls for Olmert's resignation. ](/news/2007/05/2/avigdor-yitzhaki-the-chairman-and-co-founder-of-ehud-olmert-s-kadima-party-calls-on-olmert-to-resign-as-the-prime-minister-of-israel-over.md)
@@ -19,9 +19,9 @@ _Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli-Leb
 ### [ All six members of the Bali Nine on death row have the appeal against their sentence heard in Bali and Jakarta. ](/news/2007/05/2/all-six-members-of-the-bali-nine-on-death-row-have-the-appeal-against-their-sentence-heard-in-bali-and-jakarta.md)
 _Context: Bali, Bali Nine, Jakarta, death row_
 
-##### 2007 presidential election
+##### 2007 French presidential election
 ### [ French presidential election, 2007: Candidates Nicolas Sarkozy and Sgolne Royal participate in a televised debate. ](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.md)
-_Context: 2007 presidential election, Nicolas Sarkozy, Sgolne Royal, televised debate_
+_Context: 2007 French presidential election, Nicolas Sarkozy, Sgolne Royal, televised debate_
 
 ##### Iraq War
 ### [ Iraq War: U.S. President George W. Bush meets with Democratic Party officials in Congress to try find ways to fund the Iraq War. ](/news/2007/05/2/iraq-war-u-s-president-george-w-bush-meets-with-democratic-party-officials-in-congress-to-try-find-ways-to-fund-the-iraq-war.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2015/10/21/index.html)  [JSON](2015/10/21/index.json)  [XML](201
 ### [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md)
 More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave Republicans behind Dec. 10 Donald Trump backs out of his Israel trip Dec. 9 Some U.S. mayors want Donald Trump to stay out of their cities Dec. 8 Hillary Clinton looks to tie GOP candidates to Trump&apos;s rhetoric abou...
 
-##### British
+##### United Kingdom
 ### [A British lawyer and his wife are found dead by their gardener at their home on the Caribbean island of Tobago. The Trinidad and Tobago Police Service believe the couple were murdered during a suspected robbery. ](/news/2015/10/21/a-british-lawyer-and-his-wife-are-found-dead-by-their-gardener-at-their-home-on-the-caribbean-island-of-tobago-the-trinidad-and-tobago-poli.md)
 A British man has been murdered alongside his wife during a suspected robbery at their home on a Caribbean island. Richard Wheeler, 73, and his wife Grace were found dead by their gardener in the village of Carnbee in Tobago. A spokesperson for the Trinidad and Tobago Police Service said Mrs Wheeler...
 
@@ -41,7 +41,7 @@ _Context: Bashar al-Assad, Moscow, President, President of Russia, Syrian Civil 
 
 ##### American Academy of Pediatrics
 ### [The American Academy of Pediatrics calls for pregnant women to abstain completely from alcohol during the entire three trimesters of the pregnancy, saying no amount of any type of alcohol should be considered safe since the risks, to the baby in particular (such as fetal alcohol syndrome, among many others), are too great. This puts the U.S. alongside other Western developed countries- except Italy and the United Kingdom, which still allow occasional small amounts- in urging complete abstinence. The American College of Obstetricians and Gynecologists and the Centers for Disease Control and Prevention (CDC), the two other U.S. agencies that comment most about this issue, already recommend total alcohol abstinence. ](/news/2015/10/21/the-american-academy-of-pediatrics-calls-for-pregnant-women-to-abstain-completely-from-alcohol-during-the-entire-three-trimesters-of-the-pre.md)
-_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, British, Centers for Disease Control and Prevention, Italy, fetal alcohol syndrome_
+_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, United Kingdom, fetal alcohol syndrome_
 
 ##### U.S.
 ### [A U.S. F-18 fighter jet crashes into farmland near RAF Lakenheath in Suffolk county, England, killing the pilot. ](/news/2015/10/21/a-u-s-f-18-fighter-jet-crashes-into-farmland-near-raf-lakenheath-in-suffolk-county-england-killing-the-pilot.md)

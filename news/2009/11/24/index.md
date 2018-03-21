@@ -29,7 +29,7 @@ _Context: Benin, Ukraine_
 
 ##### Inquiry opens
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
-_Context: British, Iraq War, inquiry opens_
+_Context: Iraq War, United Kingdom, inquiry opens_
 
 ##### European Parliament
 ### [ The European Parliament approves a major overhaul of telecommunications systems in the European Union aimed at boosting the rights of mobile and internet users. ](/news/2009/11/24/the-european-parliament-approves-a-major-overhaul-of-telecommunications-systems-in-the-european-union-aimed-at-boosting-the-rights-of-mobil.md)

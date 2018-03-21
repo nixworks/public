@@ -31,9 +31,9 @@ _Context: European Union, Herman Van Rompuy_
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.
 
-##### British
+##### United Kingdom
 ### [British author Alan Shadrake is jailed for six weeks in Singapore for contempt of court. ](/news/2010/11/16/british-author-alan-shadrake-is-jailed-for-six-weeks-in-singapore-for-contempt-of-court.md)
-_Context: Alan Shadrake, British, Singapore, contempt of court_
+_Context: Alan Shadrake, Singapore, United Kingdom, contempt of court_
 
 ##### Thailand
 ### [Thailand extradites suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges. ](/news/2010/11/16/thailand-extradites-suspected-russian-arms-dealer-viktor-bout-to-the-united-states-to-face-terrorism-charges.md)

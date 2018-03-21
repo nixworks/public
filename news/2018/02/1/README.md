@@ -23,9 +23,9 @@ Morgan Geyser pleaded guilty to attempted first-degree intentional homicide earl
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
 Israel hails decision as &#039;necessary step in the fight against global terrorism,&#039; says other countries should &#039;follow American leadership&#039;
 
-##### Deadliest high school shooting
+##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
-_Context: California, Los Angeles, deadliest high school shooting_
+_Context: California, Los Angeles, School shootings in the United States_
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)

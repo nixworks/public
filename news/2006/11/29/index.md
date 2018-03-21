@@ -7,9 +7,9 @@ Formats: [HTML](2006/11/29/index.html)  [JSON](2006/11/29/index.json)  [XML](200
 ### [ The Liberal Party of Canada opens its leadership convention, expected to be the most contentious in decades, with a keynote speech by Howard Dean. ](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.md)
 _Context: Howard Dean, Liberal Party's, leadership convention_
 
-##### British
+##### United Kingdom
 ### [ In the United Kingdom, the "News of the World" newspaper's royal editor Clive Goodman pleads guilty to conspiring to intercept the voicemail messages of Princes William and Harry. ](/news/2006/11/29/in-the-united-kingdom-the-news-of-the-world-newspaper-s-royal-editor-clive-goodman-pleads-guilty-to-conspiring-to-intercept-the-voicemai.md)
-_Context: British, British Royal Family, Duke of Cambridge, News of the World, Prince Harry_
+_Context: British Royal Family, Duke of Cambridge, News of the World, Prince Harry, United Kingdom_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase meets with Fijian military commander Commodore Frank Bainimarama in emergency talks in Wellington, New Zealand aimed at averting a coup. ](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.md)

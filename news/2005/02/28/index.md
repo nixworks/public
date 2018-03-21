@@ -51,9 +51,9 @@ _Context: Italy, Naples, Raffaele Amato, Spanish, mafia_
 ### [ People of Burundi vote on a new constitution ](/news/2005/02/28/people-of-burundi-vote-on-a-new-constitution.md)
 _Context: Burundi, constitution_
 
-##### British
+##### United Kingdom
 ### [ UK aid agency Oxfam states that atrocities still continue in Darfur ](/news/2005/02/28/uk-aid-agency-oxfam-states-that-atrocities-still-continue-in-darfur.md)
-_Context: British, Darfur, Oxfam_
+_Context: Darfur, Oxfam, United Kingdom_
 
 ##### Suicide car bomb explodes
 ### [ A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.md)
@@ -69,7 +69,7 @@ The president of Lebanon reappointed Omar Karami as the country&#39;s prime mini
 
 ##### Old Bailey
 ### [ At the Old Bailey, Briton Saajid Badat pleads guilty to planning a suicide attack on a US bound aircraft. Badat subsequently withdrew from the conspiracy, leaving fellow "shoe bomber" Richard Reid to act alone. ](/news/2005/02/28/at-the-old-bailey-briton-saajid-badat-pleads-guilty-to-planning-a-suicide-attack-on-a-us-bound-aircraft-badat-subsequently-withdrew-from.md)
-_Context: American, British, Old Bailey, Richard Reid, Saajid Badat_
+_Context: American, Old Bailey, Richard Reid, Saajid Badat, United Kingdom_
 
 ##### Steve Fossett
 ### [ Steve Fossett prepares to set off on his attempt to be the first person to circumnavigate the globe, without refuelling, in a jet-powered plane &ndash; the Virgin Atlantic GlobalFlyer. ](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.md)

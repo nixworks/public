@@ -11,7 +11,7 @@ _Context: Uganda Wildlife Authority_
 ### [The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. ](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.md)
 _Context: International Space Station, Kazakhstan, Soyuz TMA-18_
 
-##### British
+##### United Kingdom
 ### [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md)
 Ed Miliband beats his brother David by a wafer thin margin to be elected leader of the Labour Party.
 

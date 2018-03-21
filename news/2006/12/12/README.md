@@ -9,7 +9,7 @@ _Context: Vietnam, World Trade Organization_
 
 ##### Ipswich
 ### [ Police in Ipswich, UK are hunting a possible serial killer after five prostitutes are found dead within the last ten days. ](/news/2006/12/12/police-in-ipswich-uk-are-hunting-a-possible-serial-killer-after-five-prostitutes-are-found-dead-within-the-last-ten-days.md)
-_Context: British, Ipswich, Ipswich murder case, prostitute_
+_Context: Ipswich, Ipswich murder case, United Kingdom, prostitute_
 
 ##### Palestinian Authority President
 ### [ The President of the Palestinian National Authority, Mahmoud Abbas, orders security forces to deploy across the Gaza Strip in response to the murder of a Fatah security chief's three sons. ](/news/2006/12/12/the-president-of-the-palestinian-national-authority-mahmoud-abbas-orders-security-forces-to-deploy-across-the-gaza-strip-in-response-to-t.md)

@@ -69,7 +69,7 @@ _Context: U.S., Yemen, Yemeni Crisis (2011-present)_
 
 ##### 2015 Sousse attacks
 ### [The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in-tunisia-a-week-ago.md)
-_Context: 2015 Sousse attacks, British, Tunisia_
+_Context: 2015 Sousse attacks, Tunisia, United Kingdom_
 
 ##### Boko Haram insurgency
 ### [Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md)

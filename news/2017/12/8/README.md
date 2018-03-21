@@ -33,7 +33,7 @@ Opponents see bill as an erosion of judicial independence under populist Law and
 
 ##### Brexit negotiations
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
-_Context: Brexit negotiations, British, European Union, Irish_
+_Context: Brexit negotiations, European Union, Irish, United Kingdom_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md)

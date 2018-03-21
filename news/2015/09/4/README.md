@@ -15,7 +15,7 @@ A teacher in New York is arrested on charges of flying and crashing a drone into
 ### [Two British VICE News journalists, Jake Hanrahan and Philip Pendlebury, arrested on 28 August in Diyarbakir Province in southeastern Turkey on terror charges, are released while their colleague, translator Mohammed Ismael Rasool, remains in custody. ](/news/2015/09/4/two-british-vice-news-journalists-jake-hanrahan-and-philip-pendlebury-arrested-on-28-august-in-diyarbakir-province-in-southeastern-turkey.md)
 _Context: British, Diyarbakir Province, VICE News, southeast Turkey_
 
-##### British
+##### United Kingdom
 ### [Forty one people are injured when a British tourist bus and four trucks are involved in a collision between Sempach and Sursee in Switzerland. ](/news/2015/09/4/forty-one-people-are-injured-when-a-british-tourist-bus-and-four-trucks-are-involved-in-a-collision-between-sempach-and-sursee-in-switzerlan.md)
 Forty-one people have been injured in central Switzerland when a British tourist bus and four trucks were involved in a collision.
 

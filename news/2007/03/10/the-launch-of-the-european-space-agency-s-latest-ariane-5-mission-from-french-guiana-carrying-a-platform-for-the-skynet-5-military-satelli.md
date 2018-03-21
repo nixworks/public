@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/10/the-launch-of-the-european-space-agency-s-lates
 
 ### [2007-03-10](/news/2007/03/10/index.md)
 
-##### European astronomers
+##### European Space Agency
 #  The launch of the European Space Agency's latest Ariane 5 mission from French Guiana, carrying a platform for the Skynet 5 military satellite system for use by the UK Ministry of Defence, is postponed due to a minor technical failure 
 
 

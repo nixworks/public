@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/16/index.html)  [JSON](2016/10/16/index.json)  [XML](201
 
 ##### ExoMars project
 ### [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md)
-_Context: ''Schiaparelli'' lander, European astronomers, ExoMars Trace Gas Orbiter, ExoMars project, Mars, Roscosmos_
+_Context: ''Schiaparelli'' lander, European Space Agency, ExoMars Trace Gas Orbiter, ExoMars project, Mars, Roscosmos_
 
 ##### Montenegrin parliamentary election, 2016
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)

@@ -55,9 +55,9 @@ _Context: NATO, Navoiy Airport, Politics of Uzbekistan, Uzbekistan, lease_
 ### [ President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. ](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.md)
 _Context: LTTE, President of Sri Lanka, Rajapaksa, Sri Lanka, Sri Lankan Civil War_
 
-##### British
+##### United Kingdom
 ### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
-_Context: British, Michael Martin, Speaker of the UK House of Commons, the House of Commons_
+_Context: Michael Martin, Speaker of the UK House of Commons, United Kingdom, the House of Commons_
 
 ##### Palestinian Authority President
 ### [ President Mahmoud Abbas inaugurates the Palestinian National Authority's new government. ](/news/2009/05/19/president-mahmoud-abbas-inaugurates-the-palestinian-national-authority-s-new-government.md)

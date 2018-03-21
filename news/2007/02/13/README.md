@@ -13,7 +13,7 @@ _Context: Beirut, Lebanon, Bikfaya_
 
 ##### Japan
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: Australia, British, International Whaling Commission, Japan, U.S., boycott, whaling_
+_Context: Australia, International Whaling Commission, Japan, U.S., United Kingdom, boycott, whaling_
 
 ##### Kosovo
 ### [ Fatmir Rexhepi, the Interior Minister of Kosovo, resigns after two people died in recent protests. ](/news/2007/02/13/fatmir-rexhepi-the-interior-minister-of-kosovo-resigns-after-two-people-died-in-recent-protests.md)

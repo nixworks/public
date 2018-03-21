@@ -35,9 +35,9 @@ _Context: Indonesia, Jakarta, World Health Organisation, bird flu, vaccine_
 ### [ Egyptians go to the polls to vote on 34 amendments to the constitution of Egypt which the government claims will help combat terrorism. Opposition groups are boycotting the referendum claiming that they will erode civil liberties. The amendments achieved approval with 76% of the vote but with only a 27% turnout. ](/news/2007/03/26/egyptians-go-to-the-polls-to-vote-on-34-amendments-to-the-constitution-of-egypt-which-the-government-claims-will-help-combat-terrorism-opp.md)
 Issues of politics were overshadowed by more basic concerns, like lack of jobs, inadequate housing and the price of food.
 
-##### 2007 presidential election
+##### 2007 French presidential election
 ### [ French presidential election: Nicolas Sarkozy resigns as Interior Minister to concentrate on his presidential candidacy. ](/news/2007/03/26/french-presidential-election-nicolas-sarkozy-resigns-as-interior-minister-to-concentrate-on-his-presidential-candidacy.md)
-_Context: 2007 presidential election, Nicolas Sarkozy, minister of the interior, presidential_
+_Context: 2007 French presidential election, Nicolas Sarkozy, minister of the interior, presidential_
 
 ##### Japanese Prime Minister
 ### [ Prime Minister of Japan Shinzo Abe apologizes for Japan's use of women as sex slaves in frontline brothels during World War II. ](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.md)

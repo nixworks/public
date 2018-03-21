@@ -73,7 +73,7 @@ IN THE largest student protest for a generation, at least 25,000 voiced their op
 
 ##### Singapore
 ### [A Singapore court convicts British author Alan Shadrake of insulting the judicial system in his book "Once a Jolly Hangman: Singapore Justice in the Dock". ](/news/2010/11/3/a-singapore-court-convicts-british-author-alan-shadrake-of-insulting-the-judicial-system-in-his-book-once-a-jolly-hangman-singapore-justic.md)
-_Context: Alan Shadrake, British, Singapore, judicial system_
+_Context: Alan Shadrake, Singapore, United Kingdom, judicial system_
 
 ##### South Korean Navy
 ### [The South Korean Navy fires warning shots at a North Korean fishing boat at the Northern Limit Line maritime border. ](/news/2010/11/3/the-south-korean-navy-fires-warning-shots-at-a-north-korean-fishing-boat-at-the-northern-limit-line-maritime-border.md)

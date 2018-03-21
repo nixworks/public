@@ -3,9 +3,9 @@ Formats: [HTML](2014/01/22/index.html)  [JSON](2014/01/22/index.json)  [XML](201
 
 ## [2014-01-22](/news/2014/01/22/index.md)
 
-##### European astronomers
+##### European Space Agency
 ### [Scientists from the European Space Agency and other institutions detect the presence of water vapour on Ceres. ](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.md)
-_Context: Ceres, European astronomers_
+_Context: Ceres, European Space Agency_
 
 ##### NASA
 ### [New data published independently by NASA and the National Oceanic and Atmospheric Administration show that the global warming trend is continuing. ](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.md)

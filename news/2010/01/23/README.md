@@ -21,7 +21,7 @@ _Context: Saudi Arabia, U.S., United States Geological Survey, Venezuela, oil re
 
 ##### Jim McCormick
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)
-_Context: ADE 651, British, Jim McCormick, bomb detectors, fraud_
+_Context: ADE 651, Jim McCormick, United Kingdom, bomb detectors, fraud_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union condemns a U.S. Justice Department report that suggested 47 Guantanamo Bay detainees should be held indefinitely without trial. ](/news/2010/01/23/the-american-civil-liberties-union-condemns-a-u-s-justice-department-report-that-suggested-47-guanta-namo-bay-detainees-should-be-held-inde.md)

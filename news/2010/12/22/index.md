@@ -49,7 +49,7 @@ _Context: Bhikkhu, Buddhist, China, Drepung monastery, Tibet_
 
 ##### 
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
-##### United States diplomatic cables leak
+##### 250,000 documents
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 

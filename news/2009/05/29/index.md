@@ -57,7 +57,7 @@ _Context: Lana Clarkson, Phil Spector, U.S., murder, record producer_
 
 ##### MP
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: 2010 general election, British, Elliot Morley, MP, Parliament, Scunthorpe, resignation_
+_Context: 2010 general election, Elliot Morley, MP, Parliament, Scunthorpe, United Kingdom, resignation_
 
 ## [Previous Day...](/news/2009/05/28/index.md)
 

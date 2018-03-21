@@ -9,7 +9,7 @@ The Prime Minister announces that he will suspend collective responsibility ahea
 
 ##### 2016 U.S. election
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: 10 Downing Street, 2016 U.S. election, British, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, U.S., hate speech_
+_Context: 10 Downing Street, 2016 U.S. election, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, U.S., United Kingdom, hate speech_
 
 ##### Deputy Communist Party Secretary
 ### [Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. ](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.md)

@@ -15,9 +15,9 @@ _Context: GAM, Helsinki, Indonesia_
 ### [ In Spain, a bomb explodes at a hotel in the southwest town Denia injuring one. Police officials say the detonation occurred after a telephone warning from the Basque ETA group. Spanish parliament is scheduled to debate and vote on a Basque plan for independence from Spain in two days. ](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.md)
 _Context: Basque, Denia, ETA, Spanish_
 
-##### British
+##### United Kingdom
 ### [ Former UK Labour Culture Secretary, Chris Smith, states he has been HIV positive for 17 years. ](/news/2005/01/30/former-uk-labour-culture-secretary-chris-smith-states-he-has-been-hiv-positive-for-17-years.md)
-_Context: British, Chris Smith, HIV, Labour Party, Secretary of State for Culture, Media and Sport_
+_Context: Chris Smith, HIV, Labour Party, Secretary of State for Culture, Media and Sport, United Kingdom_
 
 ##### Sudan
 ### [ In eastern Sudan, demonstrators on their way to a meeting with tribal leaders clash with police leaving up to 17 protestors dead. A Sudanese general states that the protestors were looting and inciting violence against his men. Members of eastern tribes, mainly Beja, presented a list of demands which included better representation to the provincial governor three days ago. ](/news/2005/01/30/in-eastern-sudan-demonstrators-on-their-way-to-a-meeting-with-tribal-leaders-clash-with-police-leaving-up-to-17-protestors-dead-a-sudanes.md)

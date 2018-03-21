@@ -15,9 +15,9 @@ _Context: Muslim, TV, Taliban, War in Afghanistan (2001-present)_
 ### [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md)
 _Context: Baghdad, Iraq, Iraqi insurgency, United States soldier_
 
-##### British
+##### United Kingdom
 ### [ In the United Kingdom, David Cameron and David Davis go through to a runoff vote of Conservative Party members after a second round of voting amongst Tory MPs in the party's leadership election. Liam Fox is eliminated. ](/news/2005/10/20/in-the-united-kingdom-david-cameron-and-david-davis-go-through-to-a-runoff-vote-of-conservative-party-members-after-a-second-round-of-voti.md)
-_Context: British, Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, leadership election_
+_Context: Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, United Kingdom, leadership election_
 
 ##### 2005 Kashmir earthquake
 ### [ Two weeks after the Kashmir earthquake death toll reaches 79,000, the UN estimates that 500,000 people are cut off from relief aid. The UN appeals to the international community for more aid, warning that tens of thousands of people could die if aid does not reach them before the harsh winter. ](/news/2005/10/20/two-weeks-after-the-kashmir-earthquake-death-toll-reaches-79-000-the-un-estimates-that-500-000-people-are-cut-off-from-relief-aid-the-un.md)

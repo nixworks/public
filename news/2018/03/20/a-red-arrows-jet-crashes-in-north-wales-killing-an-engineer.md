@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/03/20/a-red-arrows-jet-crashes-in-north-wales-killing
 
 ### [2018-03-20](/news/2018/03/20/index.md)
 
-##### RAF Valley Red Arrow crash
+##### RAF Valley Red Arrows crash
 # A Red Arrows jet crashes in North Wales, killing an engineer. 
 
 An eyewitness has described seeing a &amp;#8220;big fireball&amp;#8221; after a Red Arrows jet crashed following an incident at RAF Valley in north Wales.

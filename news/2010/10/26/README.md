@@ -41,7 +41,7 @@ _Context: Ecuador, Hiram Bingham III, Machu Picchu, Peru, Yale, ancient artifact
 
 ##### Emir of Qatar
 ### [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md)
-_Context: British, Elizabeth II, Emir of Qatar, Windsor Castle_
+_Context: Elizabeth II, Emir of Qatar, United Kingdom, Windsor Castle_
 
 ##### Vertebrate
 ### [Approximately 1 in 5 vertebrate species are threatened with extinction according to scientist taking part in the Nagoya talks.](/news/2010/10/26/approximately-1-in-5-vertebrate-species-are-threatened-with-extinction-according-to-scientist-taking-part-in-the-nagoya-talks.md)

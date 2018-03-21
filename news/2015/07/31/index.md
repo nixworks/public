@@ -17,7 +17,7 @@ _Context: 160 small pockets of land, Bangladesh, India_
 
 ##### 2015 West Bank Arson attack
 ### [ Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an-attack-that-drew-palestinia.md)
-_Context: 2015 West Bank Arson attack, Israel, Jewish settlers, Palestine, West Bank_
+_Context: 2015 West Bank Arson attack, Israel, Jewish settlers, Palestinian, West Bank_
 
 ##### Bin Laden family
 ### [Four people including members of the Bin Laden family are killed in a business jet crash close to Blackbushe Airport in the United Kingdom. ](/news/2015/07/31/four-people-including-members-of-the-bin-laden-family-are-killed-in-a-business-jet-crash-close-to-blackbushe-airport-in-the-united-kingdom.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2013/03/26/index.html)  [JSON](2013/03/26/index.json)  [XML](201
 
 ## [2013-03-26](/news/2013/03/26/index.md)
 
-##### British
+##### United Kingdom
 ### [Former British Foreign Secretary David Miliband confirms he is to resign as an MP and move to the United States to become head of the International Rescue Committee in New York. ](/news/2013/03/26/former-british-foreign-secretary-david-miliband-confirms-he-is-to-resign-as-an-mp-and-move-to-the-united-states-to-become-head-of-the-intern.md)
 Former Labour Foreign Secretary David Miliband is to leave Parliament to move to New York to work for a charity, a close friend confirms to the BBC.
 

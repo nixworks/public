@@ -3,9 +3,9 @@ Formats: [HTML](2005/05/17/index.html)  [JSON](2005/05/17/index.json)  [XML](200
 
 ## [2005-05-17](/news/2005/05/17/index.md)
 
-##### British
+##### United Kingdom
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: British, Prime Minister, Tony Blair, immigration, national identity card_
+_Context: Prime Minister, Tony Blair, United Kingdom, immigration, national identity card_
 
 ##### Kenya
 ### [ A Kenyan court drops the murder charge of Thomas Cholmondeley for insufficient evidence. ](/news/2005/05/17/a-kenyan-court-drops-the-murder-charge-of-thomas-cholmondeley-for-insufficient-evidence.md)

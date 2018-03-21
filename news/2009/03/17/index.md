@@ -11,9 +11,9 @@ _Context: Barack Obama, Brian Cowen, Irish, Martin McGuinness, Northern Ireland,
 ### [ At least 11 people are killed and four injured in an bus accident outside Saltillo, Coahuila, Mexico. ](/news/2009/03/17/at-least-11-people-are-killed-and-four-injured-in-an-bus-accident-outside-saltillo-coahuila-mexico.md)
 _Context: Coahuila, Mexico, Saltillo, collision_
 
-##### European astronomers
+##### European Space Agency
 ### [ The European Space Agency's Gravity Field and Steady-State Ocean Circulation Explorer launches from the Plesetsk Cosmodrome in Arkhangelsk Oblast, Russia. ](/news/2009/03/17/the-european-space-agency-s-gravity-field-and-steady-state-ocean-circulation-explorer-launches-from-the-plesetsk-cosmodrome-in-arkhangelsk.md)
-_Context: Arkhangelsk Oblast, European astronomers, Goce, Plesetsk Cosmodrome, Russia_
+_Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, Russia_
 
 ##### North Korea
 ### [ North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. ](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.md)

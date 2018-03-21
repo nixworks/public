@@ -25,7 +25,7 @@ _Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, U.S.
 
 ##### France
 ### [ The French centrist and pro-European Union leader of the Union for French Democracy Franois Bayrou announces the foundation of the Democratic Party in the run-up to the 2007 legislative election after his strong showing in the presidential election. ](/news/2007/04/25/the-french-centrist-and-pro-european-union-leader-of-the-union-for-french-democracy-francois-bayrou-announces-the-foundation-of-the-democra.md)
-_Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
+_Context: 2007 French presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ##### Assistant Secretary of State for European and Eurasian Affairs
 ### [ U.S. Deputy Assistant Secretary of State for European and Eurasian Affairs David Kramer, speaking on behalf of the U.S. government, offers to normalize relations with Belarus if it releases imprisoned politicians. ](/news/2007/04/25/u-s-deputy-assistant-secretary-of-state-for-european-and-eurasian-affairs-david-kramer-speaking-on-behalf-of-the-u-s-government-offers.md)

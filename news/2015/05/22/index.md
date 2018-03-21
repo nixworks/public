@@ -25,7 +25,7 @@ A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; t
 
 ##### Wembley Stadium
 ### [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md)
-_Context: British, London, Wembley Stadium, World War II, bomb, the Blitz_
+_Context: London, United Kingdom, Wembley Stadium, World War II, bomb, the Blitz_
 
 ##### Li Hejun
 ### [Li Hejun, formerly China's richest man, loses an estimated US$14 billion when his energy shares plunge nearly 50%. ](/news/2015/05/22/li-hejun-formerly-china-s-richest-man-loses-an-estimated-us-14-billion-when-his-energy-shares-plunge-nearly-50.md)

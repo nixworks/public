@@ -47,7 +47,7 @@ The U.S. and South Korea delayed exercises until after the Olympics.
 ### [Toyota pulls all its self-driving cars off U.S. roads in the wake of a fatal accident involving an Uber vehicle. ](/news/2018/03/20/toyota-pulls-all-its-self-driving-cars-off-u-s-roads-in-the-wake-of-a-fatal-accident-involving-an-uber-vehicle.md)
 &quot;We feel the incident may have an emotional effect on our test drivers.&quot;
 
-##### RAF Valley Red Arrow crash
+##### RAF Valley Red Arrows crash
 ### [A Red Arrows jet crashes in North Wales, killing an engineer. ](/news/2018/03/20/a-red-arrows-jet-crashes-in-north-wales-killing-an-engineer.md)
 An eyewitness has described seeing a &amp;#8220;big fireball&amp;#8221; after a Red Arrows jet crashed following an incident at RAF Valley in north Wales.
 

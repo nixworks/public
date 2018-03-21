@@ -21,7 +21,7 @@ Three US police officers have been killed and three injured in a shooting in the
 
 ##### Breighton Aerodrome
 ### [A helicopter crashes at Breighton Aerodrome in the United Kingdom, with reports of five casualties. ](/news/2016/07/17/a-helicopter-crashes-at-breighton-aerodrome-in-the-united-kingdom-with-reports-of-five-casualties.md)
-_Context: Breighton Aerodrome, British_
+_Context: Breighton Aerodrome, United Kingdom_
 
 ##### Longkou
 ### [Local officials report eight people were killed on Friday when their elevator fell 18 stories in an under-construction apartment building in the port city of Longkou in Shandong province of eastern China. ](/news/2016/07/17/local-officials-report-eight-people-were-killed-on-friday-when-their-elevator-fell-18-stories-in-an-under-construction-apartment-building-in.md)

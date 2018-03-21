@@ -31,7 +31,7 @@ _Context: Chile, Michelle Bachelet, President of Chile, president_
 ### [Former British Cabinet minister Andrew Mitchell says he will take legal action against "The Sun" over claims he swore and called police officers plebs in a row in Downing Street. ](/news/2013/03/28/former-british-cabinet-minister-andrew-mitchell-says-he-will-take-legal-action-against-the-sun-over-claims-he-swore-and-called-police-offi.md)
 Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore and called police officers plebs in a row in Downing Street, his lawyer says.
 
-##### British
+##### United Kingdom
 ### [British-Italian fraudster Giovanni Di Stefano is sentenced to 14 years in jail for fraud. ](/news/2013/03/28/britishaitalian-fraudster-giovanni-di-stefano-is-sentenced-to-14-years-in-jail-for-fraud.md)
 A bogus lawyer who tricked people into thinking he was a bona fide legal professional is jailed for 14 years.
 

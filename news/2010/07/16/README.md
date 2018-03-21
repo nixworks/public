@@ -31,7 +31,7 @@ Guinea has released the son of former president Lansana Conte, held for the past
 ### [Pakistan's foreign minister criticises the behaviour of the Indian foreign minister during their first talks in two years. ](/news/2010/07/16/pakistan-s-foreign-minister-criticises-the-behaviour-of-the-indian-foreign-minister-during-their-first-talks-in-two-years.md)
 _Context: Pakistan_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom and United States decide last year's release from a Scottish prison of Libyan Abdelbaset al-Megrahi was "a mistake". ](/news/2010/07/16/the-united-kingdom-and-united-states-decide-last-year-s-release-from-a-scottish-prison-of-libyan-abdelbaset-al-megrahi-was-a-mistake.md)
 Release of Lockerbie convict last year should not have happened, Clinton says.
 

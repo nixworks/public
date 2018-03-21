@@ -31,7 +31,7 @@ _Context: Bank of Italy, Economy Minister, Italy, Monte dei Paschi, Vittorio Gri
 ### [At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)
 The bodies of at least 71 young men, all apparently summarily executed, have been found in the northern Syrian city of Aleppo, rebels and activists say.
 
-##### British
+##### United Kingdom
 ### [The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/the-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in-support-of-french-forces-operating-in-the.md)
 The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
 

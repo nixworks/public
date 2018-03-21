@@ -33,7 +33,7 @@ _Context: China, Zhejiang_
 
 ##### Daily fantasy sports
 ### [Daily fantasy sports companies DraftKings and FanDuel, who are fighting New York's cease-and-desist order that their industry is gambling in the U.S. state, apparently are OK with that label in the United Kingdom. DraftKings obtained a British gambling license in August and FanDuel applied for one earlier this month. ](/news/2015/11/15/daily-fantasy-sports-companies-draftkings-and-fanduel-who-are-fighting-new-york-s-cease-and-desist-order-that-their-industry-is-gambling-in.md)
-_Context: British, Daily fantasy sports, DraftKings, FanDuel, New York_
+_Context: Daily fantasy sports, DraftKings, FanDuel, New York, United Kingdom_
 
 ##### France-led coalition intervention against ISIL
 ### [France launches a series of airstrikes on Raqqa, the Islamic State's de facto capital in Syria, destroying a jihadi training camp and a munitions dump. ](/news/2015/11/15/france-launches-a-series-of-airstrikes-on-raqqa-the-islamic-state-s-de-facto-capital-in-syria-destroying-a-jihadi-training-camp-and-a-muni.md)

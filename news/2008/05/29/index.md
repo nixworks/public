@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/29/index.html)  [JSON](2008/05/29/index.json)  [XML](200
 
 ##### Flash flood
 ### [ Torrential rain causes flash flooding across half of Somerset, United Kingdom. ](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-half-of-somerset-united-kingdom.md)
-_Context: British, Somerset, flash flood_
+_Context: Somerset, United Kingdom, flash flood_
 
 ##### Iraq
 ### [ Iraq delivers a report on security, reconstruction, and economic progress at the U.N. conference on Iraq in Stockholm. Iraq seeks debt forgiveness and foreign investment to aid with reconstruction. ](/news/2008/05/29/iraq-delivers-a-report-on-security-reconstruction-and-economic-progress-at-the-u-n-conference-on-iraq-in-stockholm-iraq-seeks-debt-forg.md)

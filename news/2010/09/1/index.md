@@ -11,7 +11,7 @@ More than 150 Israeli academics say they will no longer lecture or work in Jewis
 ### [Christopher Myers, a special adviser to UK Foreign Secretary William Hague, resigns due to "untrue and malicious" allegations amid questions surrounding Hague's marriage. ](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.md)
 The Foreign Secretary, William Hague, was forced to issue an extraordinary public statement yesterday denying that he was gay, after his special adviser and long-term friend resigned over &quot;untrue and malicious&quot; rumours about the relationship between the two men.
 
-##### British
+##### United Kingdom
 ### [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md)
 Labour Party members begin voting on which one of five candidates will replace Gordon Brown as leader, with the result announced later this month.
 
@@ -97,7 +97,7 @@ _Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., 
 
 ##### Prime Minister
 ### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
-_Context: A Journey, British, Prime Minister, Tony Blair, autobiography, bestseller_
+_Context: A Journey, Prime Minister, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md)

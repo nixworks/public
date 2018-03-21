@@ -3,7 +3,7 @@ Formats: [HTML](2013/01/17/index.html)  [JSON](2013/01/17/index.json)  [XML](201
 
 ## [2013-01-17](/news/2013/01/17/index.md)
 
-##### European astronomers
+##### European Space Agency
 ### [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md)
 NASA signed an agreement for the European Space Agency to provide a service module for the Orion spacecraft&#039;s Exploration Mission-1 in 2017.
 

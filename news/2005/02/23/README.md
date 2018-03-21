@@ -39,7 +39,7 @@ _Context: E Kaushalyan, Sri Lanka, Tamil Tigers, ceasefire_
 ### [ Bhutan bans smoking in public places ](/news/2005/02/23/bhutan-bans-smoking-in-public-places.md)
 _Context: Bhutan, smokers_
 
-##### British
+##### United Kingdom
 ### [ Three British soldiers are found guilty of abusing Iraqi prisoners; more British soldiers face the possibility of conviction. ](/news/2005/02/23/three-british-soldiers-are-found-guilty-of-abusing-iraqi-prisoners-more-british-soldiers-face-the-possibility-of-conviction.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 

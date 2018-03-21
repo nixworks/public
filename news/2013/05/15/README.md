@@ -27,9 +27,9 @@ NASA’s planet-hunting Kepler space telescope has shut down due to an apparent 
 ### [In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md)
 Breakthrough sets up showdown with induced adult lines.
 
-##### British
+##### United Kingdom
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
-_Context: British, European Union, House of Commons, Queen's Speech_
+_Context: European Union, House of Commons, Queen's Speech, United Kingdom_
 
 ##### U.S.
 ### [Steven Miller, the acting commissioner of the U.S. Internal Revenue Service, resigns amidst pressure from the fallout surrounding the agency's targeting of Tea Party groups. ](/news/2013/05/15/steven-miller-the-acting-commissioner-of-the-u-s-internal-revenue-service-resigns-amidst-pressure-from-the-fallout-surrounding-the-agency.md)
@@ -45,7 +45,7 @@ Deposits of oil, gas and minerals in the region have set off a global competitio
 
 ##### U.S.
 ### [According to the U.S. ATF, no evidence has yet been found that a bomb blast was responsible for the April West Fertilizer Company explosion that killed fifteen people in West, Texas. ](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.md)
-_Context: Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S., West Fertilizer Company explosion, West, Texas_
+_Context: ATF, U.S., West Fertilizer Company explosion, West, Texas_
 
 ##### U.S.
 ### [The jury in the U.S. state of Arizona that convicted Jodi Arias of first-degree murder last week quickly decide that she should either face the death penalty or life in prison without parole during the penalty phase of trial. ](/news/2013/05/15/the-jury-in-the-u-s-state-of-arizona-that-convicted-jodi-arias-of-first-degree-murder-last-week-quickly-decide-that-she-should-either-face.md)

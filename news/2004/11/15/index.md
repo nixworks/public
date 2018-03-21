@@ -27,9 +27,9 @@ _Context: Serge Vohor, Taiwan, Vanuatu, diplomatic relations_
 ### [ Media magnate Conrad Black has been sued for fraud by the U.S. Securities and Exchange Commission. ](/news/2004/11/15/media-magnate-conrad-black-has-been-sued-for-fraud-by-the-u-s-securities-and-exchange-commission.md)
 _Context: Conrad Black, U.S. Securities and Exchange Commission, fraud_
 
-##### European astronomers
+##### European Space Agency
 ### [ The European Space Agency's ion propulsion spacecraft SMART-1 enters into lunar orbit, 14 months after its launch. ](/news/2004/11/15/the-european-space-agency-s-ion-propulsion-spacecraft-smart-1-enters-into-lunar-orbit-14-months-after-its-launch.md)
-_Context: European astronomers, SMART-1, ion propulsion_
+_Context: European Space Agency, SMART-1, ion propulsion_
 
 ##### China and the United Nations
 ### [ China and the United Nations: The President of the Republic of China Chen Shui-bian declares he will push to get the ROC included in the United Nations under the name "Taiwan". The People's Republic of China condemns the move as a political trick to create an independent Taiwan. ](/news/2004/11/15/china-and-the-united-nations-the-president-of-the-republic-of-china-chen-shui-bian-declares-he-will-push-to-get-the-roc-included-in-the-un.md)

@@ -3,7 +3,7 @@ Formats: [HTML](2015/06/14/index.html)  [JSON](2015/06/14/index.json)  [XML](201
 
 ## [2015-06-14](/news/2015/06/14/index.md)
 
-##### European astronomers
+##### European Space Agency
 ### [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P-Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer-to.md)
 The European Space Agency says its comet lander, Philae, has woken up and contacted Earth, seven months after it lost power.
 

@@ -31,7 +31,7 @@ _Context: Hillary Clinton, Secretary of State, two American citizens_
 ### [The International Criminal Court (ICC) agrees to pursue the criminal trial of former Vice-President of the Democratic Republic of the Congo Jean-Pierre Bemba. ](/news/2010/10/19/the-international-criminal-court-icc-agrees-to-pursue-the-criminal-trial-of-former-vice-president-of-the-democratic-republic-of-the-congo.md)
 _Context: DR Congo, International Criminal Court, Jean-Pierre Bemba_
 
-##### British
+##### United Kingdom
 ### [A British court finds Saudi Prince Abdulaziz bin Nasser al Saud guilty of murdering his servant in a hotel. ](/news/2010/10/19/a-british-court-finds-saudi-prince-abdulaziz-bin-nasser-al-saud-guilty-of-murdering-his-servant-in-a-hotel.md)
 UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering servant in London hotel.
 

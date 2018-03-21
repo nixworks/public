@@ -41,7 +41,7 @@ _Context: Pakistan, Pervez Musharraf, Supreme Court_
 
 ##### Turkey-United Kingdom relations
 ### [ Turkey deports British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance; there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-istanbul-who-is-charged-with-making-t.md)
-_Context: Bilgi University, British, Foreign and Commonwealth Office, Istanbul, Turkey-United Kingdom relations, Turkish, academic, computer science_
+_Context: Bilgi University, Foreign and Commonwealth Office, Istanbul, Turkey-United Kingdom relations, Turkish, United Kingdom, academic, computer science_
 
 ##### Syrian Civil War
 ### [ The delegation of the government of Syria rules out starting any direct talks with the opposition delegation as U.N. sponsored peace talks enter a third day in Geneva. ](/news/2016/03/16/the-delegation-of-the-government-of-syria-rules-out-starting-any-direct-talks-with-the-opposition-delegation-as-u-n-sponsored-peace-talks.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2011/11/7/index.html)  [JSON](2011/11/7/index.json)  [XML](2011/
 ### [Voters in the Canadian province of Saskatchewan go to the polls with the Saskatchewan Party led by Premier Brad Wall winning in a landslide. ](/news/2011/11/7/voters-in-the-canadian-province-of-saskatchewan-go-to-the-polls-with-the-saskatchewan-party-led-by-premier-brad-wall-winning-in-a-landslide.md)
 _Context: Brad Wall, Canada, Premier, Saskatchewan, Saskatchewan Party, go to the polls_
 
-##### British
+##### United Kingdom
 ### [An inquiry is launched following claims identity checks on travellers entering the United Kingdom from outside Europe were scaled back during the summer. Home Secretary Theresa May tells the House of Commons she does not know how many entered the country without proper checks. ](/news/2011/11/7/an-inquiry-is-launched-following-claims-identity-checks-on-travellers-entering-the-united-kingdom-from-outside-europe-were-scaled-back-durin.md)
 Home Secretary Theresa May admits she does not know how many foreigners came into the UK without proper checks.
 

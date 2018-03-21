@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/5/index.html)  [JSON](2006/05/5/index.json)  [XML](2006/
 
 ##### Labour Party
 ### [ Following significant Labour Party losses in the English local elections, British Prime Minister Tony Blair announces the largest Cabinet reshuffle of his tenure. The changes include sacking embattled Home Secretary Charles Clarke, the demotion of long-serving Foreign Secretary Jack Straw, and the stripping from Deputy Prime Minister John Prescott of his departmental portfolio. ](/news/2006/05/5/following-significant-labour-party-losses-in-the-english-local-elections-british-prime-minister-tony-blair-announces-the-largest-cabinet-r.md)
-_Context: British, Charles Clarke, English local elections, Foreign Secretary, Home Secretary, Jack Straw, John Prescott, Labour Party, Prime Minister, Tony Blair, changes, government, reshuffle_
+_Context: Charles Clarke, English local elections, Foreign Secretary, Home Secretary, Jack Straw, John Prescott, Labour Party, Prime Minister, Tony Blair, United Kingdom, changes, government, reshuffle_
 
 ##### Porter Goss
 ### [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md)

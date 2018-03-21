@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-
 
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-##### British
+##### United Kingdom
 # A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. 
 
 

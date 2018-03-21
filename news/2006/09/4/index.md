@@ -11,7 +11,7 @@ _Context: Great Internet Mersenne Prime Search, Mersenne prime_
 ### [ Steve Irwin, "The Crocodile Hunter", is killed by a stingray while filming a documentary on Australia's Great Barrier Reef. ](/news/2006/09/4/steve-irwin-the-crocodile-hunter-is-killed-by-a-stingray-while-filming-a-documentary-on-australia-s-great-barrier-reef.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### British
+##### United Kingdom
 ### [ A lone gunman shoots and kills a British tourist and wounds six others in Amman, Jordan. The gunman is arrested, and police are investigating if the gunman belongs to any groups. ](/news/2006/09/4/a-lone-gunman-shoots-and-kills-a-british-tourist-and-wounds-six-others-in-amman-jordan-the-gunman-is-arrested-and-police-are-investigati.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

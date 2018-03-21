@@ -31,9 +31,9 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 ### [ The World Health Organization is investigating several bird flu deaths for a possible person-to-person transmission chain. ](/news/2006/05/24/the-world-health-organization-is-investigating-several-bird-flu-deaths-for-a-possible-person-to-person-transmission-chain.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom government announces plans to overhaul the pension system ](/news/2006/05/24/the-united-kingdom-government-announces-plans-to-overhaul-the-pension-system.md)
-_Context: British, Labour Party, pension_
+_Context: Labour Party, United Kingdom, pension_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

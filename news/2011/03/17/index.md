@@ -7,7 +7,7 @@ Formats: [HTML](2011/03/17/index.html)  [JSON](2011/03/17/index.json)  [XML](201
 ### [NASA's MESSENGER space probe becomes the first space craft ever to enter into orbit around Mercury. ](/news/2011/03/17/nasa-s-messenger-space-probe-becomes-the-first-space-craft-ever-to-enter-into-orbit-around-mercury.md)
 A well-traveled NASA probe made history Thursday, becoming the first spacecraft ever to enter into orbit around Mercury.
 
-##### European astronomers
+##### European Space Agency
 ### [At a two-day council meeting of the European Space Agency (ESA) in Paris, Europe comes to an agreement to extend its operations at the International Space Station (ISS) until 2020. ](/news/2011/03/17/at-a-two-day-council-meeting-of-the-european-space-agency-esa-in-paris-europe-comes-to-an-agreement-to-extend-its-operations-at-the-inter.md)
 Member states of the European Space Agency formally agree to the extension of operations at the International Space Station until 2020.
 

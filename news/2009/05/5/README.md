@@ -17,7 +17,7 @@ _Context:  Georgian, Mikheil Saakashvili, President of Georgia, assassinated, go
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government reveals the names of 16 of the 22 people banned from entering the United Kingdom. ](/news/2009/05/5/her-majesty-s-government-reveals-the-names-of-16-of-the-22-people-banned-from-entering-the-united-kingdom.md)
-_Context: British, His Majesty's Government_
+_Context: His Majesty's Government, United Kingdom_
 
 ##### Current outbreak
 ### [ The confirmed worldwide number of cases of swine influenza reaches 1,490. ](/news/2009/05/5/the-confirmed-worldwide-number-of-cases-of-swine-influenza-reaches-1-490.md)

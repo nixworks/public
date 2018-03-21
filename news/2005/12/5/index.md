@@ -17,7 +17,7 @@ _Context: 2005 Kashmir earthquake, Pakistan, SOS Children_
 
 ##### Civil Partnership Act 2004
 ### [ Civil Partnership Act 2004: The United Kingdom begins registration of civil unions for same-sex couples. ](/news/2005/12/5/civil-partnership-act-2004-the-united-kingdom-begins-registration-of-civil-unions-for-same-sex-couples.md)
-_Context: British, Civil Partnership Act 2004, civil unions for same-sex couples_
+_Context: Civil Partnership Act 2004, United Kingdom, civil unions for same-sex couples_
 
 ##### Earthquake
 ### [ An earthquake strikes the Democratic Republic of the Congo (formerly Zaire). Many people are feared dead after an earthquake measuring 6.8 on the Richter scale struck Lake Tanganyika near the town of Kalemie. ](/news/2005/12/5/an-earthquake-strikes-the-democratic-republic-of-the-congo-formerly-zaire-many-people-are-feared-dead-after-an-earthquake-measuring-6-8.md)

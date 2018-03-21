@@ -19,9 +19,9 @@ _Context: North Korea_
 ### [ NATO plans on sending seven warships to protect United Nations food aid from Piracy in Somalia. ](/news/2008/10/9/nato-plans-on-sending-seven-warships-to-protect-united-nations-food-aid-from-piracy-in-somalia.md)
 _Context: NATO, Somali pirates, United Nations_
 
-##### British
+##### United Kingdom
 ### [ Court in the United Kingdom hears of how two doctors planned car bomb attacks on London and Glasgow airports in revenge for how UK was treating Muslims ](/news/2008/10/9/court-in-the-united-kingdom-hears-of-how-two-doctors-planned-car-bomb-attacks-on-london-and-glasgow-airports-in-revenge-for-how-uk-was-trea.md)
-_Context: British, Glasgow, London, planned car bomb attacks_
+_Context: Glasgow, London, United Kingdom, planned car bomb attacks_
 
 ##### NATO
 ### [ NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md)

@@ -13,3 +13,7 @@ Formats: [HTML](/news/2017/01/22/a-shootout-between-armed-robbers-and-civilian-b
 
 1. [Reuters](https://www.reuters.com/article/us-texas-shooting-idUSKBN15616J)
 1. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Related:
+
+1. [A bomb detonates overnight at a San Antonio, Texas FedEx facility. The FBI believes the bombing is linked to the other bombings in the area. The ATF reports that there were no serious injuries. Both the bomb's point of origin and intended destination were in Austin. ](/news/2018/03/20/a-bomb-detonates-overnight-at-a-san-antonio-texas-fedex-facility-the-fbi-believes-the-bombing-is-linked-to-the-other-bombings-in-the-area.md) _Context: San Antonio_

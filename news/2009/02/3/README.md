@@ -3,9 +3,9 @@ Formats: [HTML](2009/02/3/index.html)  [JSON](2009/02/3/index.json)  [XML](2009/
 
 ## [2009-02-3](/news/2009/02/3/index.md)
 
-##### British
+##### United Kingdom
 ### [ The United Kingdom struggles to cope with its heaviest snowfalls since 1991. ](/news/2009/02/3/the-united-kingdom-struggles-to-cope-with-its-heaviest-snowfalls-since-1991.md)
-_Context: British_
+_Context: United Kingdom_
 
 ##### Taliban
 ### [ Suspected Taliban militants suspend NATO supply lines by destroying a bridge on the Pakistan-Afghanistan border. ](/news/2009/02/3/suspected-taliban-militants-suspend-nato-supply-lines-by-destroying-a-bridge-on-the-pakistan-afghanistan-border.md)

@@ -63,7 +63,7 @@ _Context: Falcon, President, Venezuela, mudslide, states of emergency_
 ### [Ireland is hit by snow and record low November temperatures that disrupt the nation. ](/news/2010/11/30/ireland-is-hit-by-snow-and-record-low-november-temperatures-that-disrupt-the-nation.md)
 _Context: Ireland_
 
-##### British
+##### United Kingdom
 ### [The United Kingdom continues to face blizzard conditions with many schools closed, long queues on the M8 motorway in Scotland, and Edinburgh Airport closed. ](/news/2010/11/30/the-united-kingdom-continues-to-face-blizzard-conditions-with-many-schools-closed-long-queues-on-the-m8-motorway-in-scotland-and-edinburgh.md)
 Snow contnues to fall across much of the UK, bringing disruption to roads and airports, and closing hundreds of schools.
 

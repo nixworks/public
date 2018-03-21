@@ -79,9 +79,9 @@ _Context: Luis Echeverria, Mexican President, Mexico, genocide_
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
-##### British
+##### United Kingdom
 ### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth GBP300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
-_Context: Accra, British, Ghana, Kotoka International Airport, cocaine_
+_Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 
 ##### Africa
 ### [ The African kingdom of Lesotho declares a food crisis due to UN report showing a "major food gap" for 20% of the population. ](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.md)

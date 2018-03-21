@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/23/united-states-federal-agents-are-combing-three-
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
-##### Bureau of Alcohol, Tobacco, Firearms and Explosives
+##### ATF
 # United States Federal agents are combing three states for 32 cases of commercial grade explosives, about 500 pounds of 21/2 to 5 inch aerial shells, stolen from a CSX train traveling from Chicago, Illinois, through Ohio that arrived in Detroit, Michigan, on Wednesday. 
 
 &#8203;Federal law enforcement investigators are searching in at least three states for more than 500 pounds of explosives stolen from a CSX train

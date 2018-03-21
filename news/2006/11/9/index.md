@@ -3,7 +3,7 @@ Formats: [HTML](2006/11/9/index.html)  [JSON](2006/11/9/index.json)  [XML](2006/
 
 ## [2006-11-9](/news/2006/11/9/index.md)
 
-##### British
+##### United Kingdom
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times
 

@@ -47,7 +47,7 @@ South Korea says it will go ahead with a military drill on a disputed island, de
 ### [Kenya calls on African nations to oust Ivory Coast incumbent President Laurent Gbagbo from office, by force if necessary, if he does not step down. ](/news/2010/12/18/kenya-calls-on-african-nations-to-oust-ivory-coast-incumbent-president-laurent-gbagbo-from-office-by-force-if-necessary-if-he-does-not-ste.md)
 Kenyan PM calls on African nations to oust Ivorian incumbent president Gbagbo if he refuses to step down.
 
-##### British
+##### United Kingdom
 ### [Roads, railways and airports across the United Kingdom are severely affected by further heavy snowfall. Severe weather warnings have been issued for many areas. ](/news/2010/12/18/roads-railways-and-airports-across-the-united-kingdom-are-severely-affected-by-further-heavy-snowfall-severe-weather-warnings-have-been-is.md)
 Travellers face chaotic journeys as heavy snow falls across the UK, although some outgoing Heathrow flights are expected to resume from 0600 GMT.
 

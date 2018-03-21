@@ -27,7 +27,7 @@ Government will not allow Riek Machar back until international monitors verify n
 ### [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md)
 _Context: Human rights, Leni Robredo, Philippine presidential election, 2016, labor rights_
 
-##### Bureau of Alcohol, Tobacco, Firearms and Explosives
+##### ATF
 ### [United States Federal agents are combing three states for 32 cases of commercial grade explosives, about 500 pounds of 21/2 to 5 inch aerial shells, stolen from a CSX train traveling from Chicago, Illinois, through Ohio that arrived in Detroit, Michigan, on Wednesday. ](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.md)
 &#8203;Federal law enforcement investigators are searching in at least three states for more than 500 pounds of explosives stolen from a CSX train
 

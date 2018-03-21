@@ -3,9 +3,9 @@ Formats: [HTML](2012/02/13/index.html)  [JSON](2012/02/13/index.json)  [XML](201
 
 ## [2012-02-13](/news/2012/02/13/index.md)
 
-##### European astronomers
+##### European Space Agency
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
-_Context: European astronomers, Guiana Space Centre, Vega_
+_Context: European Space Agency, Guiana Space Centre, Vega_
 
 ##### New Jersey
 ### [The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. ](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.md)
@@ -21,7 +21,7 @@ _Context: Gurbanguli Berdymukhamedov, Turkmenistan, wins a new five-year term_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: Abu Qatada, British, European Court of Human Rights, Islamic extremist group_
+_Context: Abu Qatada, European Court of Human Rights, Islamic extremist group, United Kingdom_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)

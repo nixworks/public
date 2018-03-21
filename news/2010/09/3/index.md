@@ -9,7 +9,7 @@ _Context: cerebral cortex, mushroom bodies_
 
 ##### Royal Mail
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: British, Royal Mail, image recognition, postage stamp_
+_Context: Royal Mail, United Kingdom, image recognition, postage stamp_
 
 ##### Australia
 ### [Militant Australian Islamic preacher Feiz Mohammad calls for Dutch politician Geert Wilders to be "beheaded" for denigrating Islam. ](/news/2010/09/3/militant-australian-islamic-preacher-feiz-mohammad-calls-for-dutch-politician-geert-wilders-to-be-beheaded-for-denigrating-islam.md)

@@ -7,7 +7,7 @@ Formats: [HTML](2005/04/26/index.html)  [JSON](2005/04/26/index.json)  [XML](200
 ### [ Following Canadian Prime Minister Paul Martin's plea on national television that a re-election ought to be delayed until the Gomery Commission has completed its report on the sponsorship scandal, a deal between the governing Liberal Party and the New Democratic Party may avoid the election in the near future as predicted earlier last week. ](/news/2005/04/26/following-canadian-prime-minister-paul-martin-s-plea-on-national-television-that-a-re-election-ought-to-be-delayed-until-the-gomery-commiss.md)
 _Context: Canada, Gomery Commission, Liberal Party's, New Democratic Party, Paul Martin, Prime Minister of Canada, election, sponsorship scandal_
 
-##### British
+##### United Kingdom
 ### [ British Labour Party member Brian Sedgemore moves to the Liberal Democrats. ](/news/2005/04/26/british-labour-party-member-brian-sedgemore-moves-to-the-liberal-democrats.md)
 News and opinion from The Times &amp; The Sunday Times
 

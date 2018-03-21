@@ -45,7 +45,7 @@ PayPal launched a European version of its PayPal Here mobile payments service fo
 
 ##### Michael Edwards
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
-_Context: Academie francaise, British, Michael Edwards, writer_
+_Context: Academie francaise, Michael Edwards, United Kingdom, writer_
 
 ##### India
 ### [At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md)

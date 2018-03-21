@@ -15,9 +15,9 @@ _Context: Kosovo, Serbia, ethnic Albanian_
 ### [ Zambia starts a program of mass demolition of illegal housing starting in the capital Lusaka. The demolitions are to end corruption in the distribution of land plots highlighted by the recent sacking of Lands Minister Gladys Nyirongo. ](/news/2007/03/10/zambia-starts-a-program-of-mass-demolition-of-illegal-housing-starting-in-the-capital-lusaka-the-demolitions-are-to-end-corruption-in-the.md)
 _Context: Gladys Nyirongo, Lusaka, Zambia_
 
-##### European astronomers
+##### European Space Agency
 ### [ The launch of the European Space Agency's latest Ariane 5 mission from French Guiana, carrying a platform for the Skynet 5 military satellite system for use by the UK Ministry of Defence, is postponed due to a minor technical failure ](/news/2007/03/10/the-launch-of-the-european-space-agency-s-latest-ariane-5-mission-from-french-guiana-carrying-a-platform-for-the-skynet-5-military-satelli.md)
-_Context: Ariane 5, European astronomers, French Guiana, Skynet 5, UK Ministry of Defence, satellite_
+_Context: Ariane 5, European Space Agency, French Guiana, Skynet 5, UK Ministry of Defence, satellite_
 
 ##### Madrid
 ### [ Tens of thousands of people in Madrid protest the release of jailed Basque separatist Jos Ignacio de Juana Chaos. ](/news/2007/03/10/tens-of-thousands-of-people-in-madrid-protest-the-release-of-jailed-basque-separatist-jose-ignacio-de-juana-chaos.md)

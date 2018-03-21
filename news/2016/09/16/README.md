@@ -19,7 +19,7 @@ Former Italian president, prime minister and central bank governor Carlo Azeglio
 ### [In response to American criticism of the Duterte regime, Filipino foreign secretary Perfecto Yasay says the Philippines cannot remain as the "little brown brother" of the United States. ](/news/2016/09/16/in-response-to-american-criticism-of-the-duterte-regime-filipino-foreign-secretary-perfecto-yasay-says-the-philippines-cannot-remain-as-the.md)
 The European Parliament has condemned the current wave of extrajudicial killings in the Philippines and urged the government to “put an end” to these amid the war against illegal drugs. 
 
-##### British
+##### United Kingdom
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)
 An autistic man suspected of hacking into US government computer systems is to be extradited from Britain to face trial, a court rules.
 

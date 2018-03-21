@@ -9,7 +9,7 @@ _Context: Christopher Weeramantry, Stockholm, Sweden_
 
 ##### Space Shuttle
 ### [ The launch of Space Shuttle "Atlantis"'s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is-d.md)
-_Context: Columbus module, European astronomers, International Space Station, STS-122, Space Shuttle, Space Shuttle Atlantis_
+_Context: Columbus module, European Space Agency, International Space Station, STS-122, Space Shuttle, Space Shuttle Atlantis_
 
 ##### Letter bomb
 ### [ One person is killed and one is seriously injured after a letter bomb explosion in a law office building in the 8th arrondissement of Paris, France. ](/news/2007/12/6/one-person-is-killed-and-one-is-seriously-injured-after-a-letter-bomb-explosion-in-a-law-office-building-in-the-8th-arrondissement-of-paris.md)
