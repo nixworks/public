@@ -4,12 +4,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/03/21/index.md)
 
 ##### Discoveries of exoplanets
-### [ Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
+### [Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
-
-##### Eurocopter 120
-### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
-Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
 ##### 2017-18 Spanish constitutional crisis
 ### [Catalan activist Jordi Sanchez, imprisoned accused of sedition, drops his bid to lead the Catalan government. ](/news/2018/03/21/catalan-activist-jordi-sa-nchez-imprisoned-accused-of-sedition-drops-his-bid-to-lead-the-catalan-government.md)
@@ -19,8 +15,12 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez_
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### Dapchi schoolgirls kidnapping
+### [Boko Haram releases most of the 110 Nigerian schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. ](/news/2018/03/21/boko-haram-releases-most-of-the-110-nigerian-schoolgirls-it-had-kidnapped-in-february-2018-and-warns-against-sending-them-back-to-school.md)
+Six girls are still unaccounted for
+
 ##### Austin serial bombings
-### [Mark Anthony Conditt, a suspect in the bombings is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. ](/news/2018/03/21/mark-anthony-conditt-a-suspect-in-the-bombings-is-dead-after-detonating-a-bomb-in-his-vehicle-police-warn-residents-that-while-they-believ.md)
+### [Mark Anthony Conditt, a suspect in the bombings, is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. ](/news/2018/03/21/mark-anthony-conditt-a-suspect-in-the-bombings-is-dead-after-detonating-a-bomb-in-his-vehicle-police-warn-residents-that-while-they-belie.md)
 _Context: Austin serial bombings_
 
 ##### Censorship in Singapore
@@ -28,8 +28,12 @@ _Context: Austin serial bombings_
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
 ##### Israel-Syria relations
-### [Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September, 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sept.md)
+### [Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. ](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carried-out-an-airstike-on-a-suspected-nuclear-reactor-in-deir-ez-zor-governorate-syria-on-6-sept.md)
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
+
+##### Whitsunday Islands
+### [A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the Whitsunday Islands, Queensland, Australia. Two are killed. ](/news/2018/03/21/a-eurocopter-120-helicopter-carrying-five-people-crashes-into-the-sea-near-hardy-reef-off-the-whitsunday-islands-queensland-australia-two.md)
+Eurocopter 120 was carrying five people when it went down near Hardy Reef in north Queensland
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -135,7 +139,7 @@ _Context: Antonov An-148, Russia, Saratov Airlines, Saratov Airlines Flight 703_
 ### [A bus falls off a bridge in Occidental Mindoro, Philippines, killing at least 19 people and injuring 21 others. ](/news/2018/03/20/a-bus-falls-off-a-bridge-in-occidental-mindoro-philippines-killing-at-least-19-people-and-injuring-21-others.md)
 (3rd UPDATE) Public transport regulators say they may suspend the franchise of the operator of the bus involved in the incident
 
-##### World Health Organisation
+##### 2017-18 South African listeriosis outbreak
 ### [The World Health Organisation says a listeria outbreak spread via infected food responsible for 200 deaths in South Africa may have spread to Namibia. The organisation reaches out to 16 African nations it assesses as at risk. ](/news/2018/03/20/the-world-health-organisation-says-a-listeria-outbreak-spread-via-infected-food-responsible-for-200-deaths-in-south-africa-may-have-spread-t.md)
 The World Health Organization has reached out to 16 African nations to provide support for preparedness and response to a listeriosis outbreak that started in South Africa last year.
 

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/21/israel-admits-for-the-first-time-that-it-carrie
 ### [2018-03-21](/news/2018/03/21/index.md)
 
 ##### Israel-Syria relations
-# Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September, 2007. The strike allegedly killed ten North Korean workers. 
+# Israel admits for the first time that it carried out an airstike on a suspected nuclear reactor in Deir ez-Zor Governorate, Syria, on 6 September 2007. The strike allegedly killed ten North Korean workers. 
 
 Israel for the first time admitted that it bombed a suspected Syrian nuclear reactor in 2007 and said on Wednesday the strike should be a warning to Iran that it would not be allowed to develop nuclear weapons.
 

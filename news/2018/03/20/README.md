@@ -99,7 +99,7 @@ _Context: Antonov An-148, Russia, Saratov Airlines, Saratov Airlines Flight 703_
 ### [A bus falls off a bridge in Occidental Mindoro, Philippines, killing at least 19 people and injuring 21 others. ](/news/2018/03/20/a-bus-falls-off-a-bridge-in-occidental-mindoro-philippines-killing-at-least-19-people-and-injuring-21-others.md)
 (3rd UPDATE) Public transport regulators say they may suspend the franchise of the operator of the bus involved in the incident
 
-##### World Health Organisation
+##### 2017-18 South African listeriosis outbreak
 ### [The World Health Organisation says a listeria outbreak spread via infected food responsible for 200 deaths in South Africa may have spread to Namibia. The organisation reaches out to 16 African nations it assesses as at risk. ](/news/2018/03/20/the-world-health-organisation-says-a-listeria-outbreak-spread-via-infected-food-responsible-for-200-deaths-in-south-africa-may-have-spread-t.md)
 The World Health Organization has reached out to 16 African nations to provide support for preparedness and response to a listeriosis outbreak that started in South Africa last year.
 

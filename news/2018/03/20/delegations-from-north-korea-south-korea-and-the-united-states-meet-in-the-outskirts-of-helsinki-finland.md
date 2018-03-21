@@ -12,7 +12,8 @@ Denuclearization is not on the agenda of a meeting in Finland between delegation
 ### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-finland/north-korea-denuclearization-not-on-the-agenda-in-helsinki-talks-finland-idUSKBN1GW0RZ)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180320&t=2&i=1242937897&w=1200&r=LYNXMPEE2J1B6)
+2. [SBS news](https://www.sbs.com.au/news/north-korea-denies-sanctions-prompted-peace-push)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180320&t=2&i=1242937897&w=1200&r=LYNXMPEE2J1B6)
 
 ### Related:
 

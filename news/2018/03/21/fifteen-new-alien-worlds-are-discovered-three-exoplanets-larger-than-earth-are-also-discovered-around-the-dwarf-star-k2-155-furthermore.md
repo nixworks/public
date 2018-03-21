@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-e
 ### [2018-03-21](/news/2018/03/21/index.md)
 
 ##### Discoveries of exoplanets
-#  Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. 
+# Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. 
 
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
 
@@ -17,7 +17,7 @@ Recently, the researchers have discovered 15 new planets in the Universe. They a
 ### Changes:
 
 1. [ 15 new alien worlds are discovered. 3 exoplanets larger than Earth are also discovered around K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/15-new-alien-worlds-are-discovered-3-exoplanets-larger-than-earth-are-also-discovered-around-k2-155-furthermore-a-3d-climate-simulation.md) _2018-03-21 16:30:10 (First version)_
-1. [ Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md) _(Current version)_
+1. [Fifteen new alien worlds are discovered. Three exoplanets, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-alien-worlds-are-discovered-three-exoplanets-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore.md) _(Current version)_
 
 ### Related:
 
