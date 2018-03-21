@@ -11,8 +11,9 @@ Formats: [HTML](/news/2018/03/20/toyota-pulls-all-its-self-driving-cars-off-u-s-
 
 ### Sources:
 
-1. [The Verge](https://www.theverge.com/2018/3/20/17143838/toyota-av-testing-uber-self-driving-car-crash)
-1. [Cover Image](https://cdn.vox-cdn.com/thumbor/7eQih5W3jqNxawX79J5UyedfRMY=/0x245:4500x2601/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9975797/Full_car_front_B.jpg)
+1. [AZ Central](https://www.azcentral.com/story/news/local/tempe/2018/03/20/tempe-police-chief-fatal-uber-crash-pedestrian-likely-unavoidable/442829002/)
+2. [The Verge](https://www.theverge.com/2018/3/20/17143838/toyota-av-testing-uber-self-driving-car-crash)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/7eQih5W3jqNxawX79J5UyedfRMY=/0x245:4500x2601/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9975797/Full_car_front_B.jpg)
 
 ### Changes:
 
