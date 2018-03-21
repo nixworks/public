@@ -12,7 +12,8 @@ The beleaguered company announced it has reached an agreement with investors to 
 ### Sources:
 
 1. [CNN](http://money.cnn.com/2018/03/15/media/iheartmedia-bankruptcy/index.html)
-1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/180315154625-iheartmedia-780x439.jpg)
+2. [CNN](http://money.cnn.com/2018/03/15/news/companies/winn-dixie-bankruptcy/index.html)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/180315154625-iheartmedia-780x439.jpg)
 
 ### Changes:
 
