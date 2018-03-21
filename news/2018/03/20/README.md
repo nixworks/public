@@ -56,8 +56,8 @@ _Context: Great Mills, Great Mills High School, Maryland, School shootings in th
 The package blew up on a conveyor belt, and law enforcement investigated a second suspicious package in the FedEx system. Austin police received 1,257 calls about suspicious packages in the last week.
 
 ##### Censorship in the United Kingdom
-### [YouTuber Mark "Count Dankula" Meechan is found guilty of "communicating a grossly offensive" video depicting a pug performing a Nazi salute on cue. The case has led to a discussion of freedom of speech in the United Kingdom. ](/news/2018/03/20/youtuber-mark-count-dankula-meechan-is-found-guilty-of-communicating-a-grossly-offensive-video-depicting-a-pug-performing-a-nazi-salute.md)
-_Context: Censorship in the United Kingdom, Nazi salute, United Kingdom, YouTube, freedom of speech, pug_
+### [YouTuber Mark "Count Dankula" Meechan is convicted of a hate crime for communicating a "grossly offensive" video, depicting a pug performing a Nazi salute in response to far-right slogans.](/news/2018/03/20/youtuber-mark-count-dankula-meechan-is-convicted-of-a-hate-crime-for-communicating-a-grossly-offensive-video-depicting-a-pug-performing.md)
+_Context: Censorship in the United Kingdom, Nazi salute, pug_
 
 ##### Poisoning of Sergei and Yulia Skripal
 ### [All 23 Russian diplomats expelled from the UK and their families depart on a flight to Moscow. ](/news/2018/03/20/all-23-russian-diplomats-expelled-from-the-uk-and-their-families-depart-on-a-flight-to-moscow.md)
@@ -67,7 +67,7 @@ The latest updates as the 23 Russian diplomats expelled by Britain over the Sali
 ### [The Court of Session allows an appeal by a cross-party group of Scottish politicians seeking court permission for a referral to the European Court of Justice. The group wish for a ruling that the UK can abandon Brexit without permission from the European Union's other member states. A lower court will examine the claim. ](/news/2018/03/20/the-court-of-session-allows-an-appeal-by-a-cross-party-group-of-scottish-politicians-seeking-court-permission-for-a-referral-to-the-european.md)
 Major victory for cross-party group as appeal judges say case raises point ‘of great importance’
 
-##### Cyprus problem
+##### Cyprus dispute
 ### [Turkish President Recep Tayyip Erdogan asserts his nation will secure Northern Cyprus' access to natural hydrocarbon resources off the Cypriot coast. The comments come amid disputes as to sovereign rights and access to offshore resources on the island. ](/news/2018/03/20/turkish-president-recep-tayyip-erdoaan-asserts-his-nation-will-secure-northern-cyprus-access-to-natural-hydrocarbon-resources-off-the-cypr.md)
 Amid recent escalation in the Eastern Mediterranean that stemmed from unilateral moves by Greek Cyprus concerning hydrocarbon resources, Ankara continuously reiterates its position to protect its and Turkish Cyprus’s rights
 
