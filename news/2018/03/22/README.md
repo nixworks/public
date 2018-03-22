@@ -3,7 +3,15 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 
 ## [2018-03-22](/news/2018/03/22/index.md)
 
-##### Cyprus problem
+##### US
+### [John Dowd, the most senior lawyer advising US President Donald Trump on allegations of Russian electoral interference, resigns. ](/news/2018/03/22/john-dowd-the-most-senior-lawyer-advising-us-president-donald-trump-on-allegations-of-russian-electoral-interference-resigns.md)
+John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
+
+##### Poisoning of Sergei and Yulia Skripal
+### [Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned Russian dissidents, is discharged from hospital. ](/news/2018/03/22/detective-sergeant-nick-bailey-wounded-when-he-came-to-the-aid-of-the-poisoned-russian-dissidents-is-discharged-from-hospital.md)
+Det Sgt Nick Bailey said life would &quot;probably never be the same&quot; after being exposed to a nerve agent.
+
+##### Cyprus dispute
 ### [Turkey announces it is to send a drilling boat to disputed waters claimed by both Cyprus and Northern Cyprus. ](/news/2018/03/22/turkey-announces-it-is-to-send-a-drilling-boat-to-disputed-waters-claimed-by-both-cyprus-and-northern-cyprus.md)
 President Erdoğan says he will not let natural reserves be exploited by Greek Cypriots
 
