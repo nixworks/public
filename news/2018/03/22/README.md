@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 
 ## [2018-03-22](/news/2018/03/22/index.md)
 
+##### Cyprus problem
+### [Turkey announces it is to send a drilling boat to disputed waters claimed by both Cyprus and Northern Cyprus. ](/news/2018/03/22/turkey-announces-it-is-to-send-a-drilling-boat-to-disputed-waters-claimed-by-both-cyprus-and-northern-cyprus.md)
+President Erdoğan says he will not let natural reserves be exploited by Greek Cypriots
+
 ##### France
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, general strike_
