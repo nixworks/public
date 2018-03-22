@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/03/22/a-car-bomb-blast-in-mogadishu-near-the-weheliye
 
 ### Sources:
 
-1. [AP via MSN.com](https://www.msn.com/en-us/news/world/at-least-14-dead-several-hurt-in-car-bomb-in-somali-capital/ar-BBKyXh4?ocid=spartandhp)
+1. [AP via MSN](https://www.msn.com/en-us/news/world/at-least-14-dead-several-hurt-in-car-bomb-in-somali-capital/ar-BBKyXh4?ocid=spartandhp)
 
 ### Related:
 

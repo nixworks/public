@@ -7,6 +7,18 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 ### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
 Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
 
+##### Presidency of Donald Trump
+### [U.S. President Donald Trump announces former United States Ambassador to the United Nations John R. Bolton will become his National Security Advisor, replacing the outgoing H. R. McMaster. ](/news/2018/03/22/u-s-president-donald-trump-announces-former-united-states-ambassador-to-the-united-nations-john-r-bolton-will-become-his-national-security.md)
+_Context: Donald Trump, H. R. McMaster, John R. Bolton, National Security Advisor, Presidency of Donald Trump, U.S. President, United States Ambassador to the United Nations_
+
+##### Peru
+### [Peruvian Vice President Martin Vizcarra returns from Canada, where he is his nation's ambassador, in preparation to take over the Presidency. ](/news/2018/03/22/peruvian-vice-president-martan-vizcarra-returns-from-canada-where-he-is-his-nation-s-ambassador-in-preparation-to-take-over-the-presidenc.md)
+_Context: Canada, Martin Vizcarra, Peru_
+
+##### 2017-18 Spanish constitutional crisis
+### [Jordi Turull fails in the first vote to become President of the Generalitat. The next session will be held on Saturday, March 24. ](/news/2018/03/22/jordi-turull-fails-in-the-first-vote-to-become-president-of-the-generalitat-the-next-session-will-be-held-on-saturday-march-24.md)
+_Context: 2017-18 Spanish constitutional crisis, President of the Generalitat_
+
 ##### Russian interference in the 2016 United States elections
 ### [John Dowd, the most senior lawyer advising U.S. President Donald Trump on allegations of Russian electoral interference, resigns. ](/news/2018/03/22/john-dowd-the-most-senior-lawyer-advising-u-s-president-donald-trump-on-allegations-of-russian-electoral-interference-resigns.md)
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
@@ -22,10 +34,6 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
-
-##### Malta
-### [Malta imposes a freeze on Pilatus Bank. The bank's Iranian chairman Ali Sadr Hashemi Nejad was arrested and charged in the United States earlier this week, accused of breaching U.S. sanctions against Iran. ](/news/2018/03/22/malta-imposes-a-freeze-on-pilatus-bank-the-bank-s-iranian-chairman-ali-sadr-hashemi-nejad-was-arrested-and-charged-in-the-united-states-ear.md)
-_Context: Ali Sadr Hashemi Nejad, Iran, Malta, Pilatus Bank_
 
 ##### Peru
 ### [A Peruvian court confirms it will consider a request to impose a travel ban on President Pedro Pablo Kuczynski if his resignation is confirmed by lawmakers, who are considering whether to accept it. Some politicians have vowed to resist the resignation in favour of instead impeaching Kuczynski. ](/news/2018/03/22/a-peruvian-court-confirms-it-will-consider-a-request-to-impose-a-travel-ban-on-president-pedro-pablo-kuczynski-if-his-resignation-is-confirm.md)
@@ -51,6 +59,10 @@ _Context: Nadiya Savchenko, Ukrainian, Ukrainian crisis_
 ### [Afghan immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of refugee immigration to Germany. ](/news/2018/03/22/afghan-immigrant-hussein-khavari-is-convicted-of-rape-and-murder-in-a-case-that-provoked-widespread-discussion-of-refugee-immigration-to-ger.md)
 The rape and murder of a medical student in 2016 fuelled tensions over the mass influx of migrants.
 
+##### Foreign relations of Poland
+### [Poland's ruling Law and Justice proposes changes to planned judicial reforms in response to European Union criticisms the plans threaten judicial independence. The European Commission is threatening Poland with sanctions over the reforms. ](/news/2018/03/22/poland-s-ruling-law-and-justice-proposes-changes-to-planned-judicial-reforms-in-response-to-european-union-criticisms-the-plans-threaten-jud.md)
+The opposition dismissed the changes as &quot;a lie&quot; and warned the EU against accepting the &quot;cosmetic changes.&quot; The ruling Law and Justice (PiS) party had resisted any concessions for months before Thursday&#39;s announcement.
+
 ##### Qatar
 ### [Qatar's Interior Ministry releases a list of individuals and entities it says are linked to terrorism. Bahrain, Saudi Arabia, the United Arab Emirates, and Egypt, who had demanded the list amid tensions with Qatar, welcome its release but criticise the time taken to prepare it. ](/news/2018/03/22/qatar-s-interior-ministry-releases-a-list-of-individuals-and-entities-it-says-are-linked-to-terrorism-bahrain-saudi-arabia-the-united-ara.md)
 Saudi Arabia the UAE Bahrain and Egypt have long complained of Qatar s support for terror
@@ -67,8 +79,8 @@ Six people have been killed in an explosion at a chemical plant in the Czech Rep
 ### [U.S. Trade Representative Robert Lighthizer tells a Senate panel that President Donald Trump has decided to "pause" tariffs on steel and aluminium imports from the European Union, Argentina, Australia, Brazil, Canada, Mexico, and South Korea. ](/news/2018/03/22/u-s-trade-representative-robert-lighthizer-tells-a-senate-panel-that-president-donald-trump-has-decided-to-pause-tariffs-on-steel-and-alu.md)
 The US trade representative says the import duties have been &quot;paused&quot; while further talks take place.
 
-##### Harasta
-### [Evacuations of 7,500 people from defeated rebel-held town Harasta, Easter Ghouta begin. Rebels agreed with Syria and Russia for the displaced people to be exiled in Idlib. ](/news/2018/03/22/evacuations-of-7-500-people-from-defeated-rebel-held-town-harasta-easter-ghouta-begin-rebels-agreed-with-syria-and-russia-for-the-displace.md)
+##### Syrian Civil War
+### [Evacuations of 7,500 people from rebel-held Harasta, Eastern Ghouta begin. Rebels agree with the Syrian government and Russia for the displaced people to be exiled in Idlib Governorate. ](/news/2018/03/22/evacuations-of-7-500-people-from-rebel-held-harasta-eastern-ghouta-begin-rebels-agree-with-the-syrian-government-and-russia-for-the-displa.md)
 Thousands of fighters to be deported after deal with Russian and Syrian officials
 
 ##### Atlanta
