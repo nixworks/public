@@ -3,6 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/03/22/index.md)
 
+##### DNA
+### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
+Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
+
 ##### Russian interference in the 2016 United States elections
 ### [John Dowd, the most senior lawyer advising U.S. President Donald Trump on allegations of Russian electoral interference, resigns. ](/news/2018/03/22/john-dowd-the-most-senior-lawyer-advising-u-s-president-donald-trump-on-allegations-of-russian-electoral-interference-resigns.md)
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
@@ -18,6 +22,14 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
+
+##### Cow vigilante violence in India since 2014
+### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md)
+_Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
+
+##### Brazil
+### [An open letter from international politicians, activists, journalists, and academics demands an independent commission be formed to investigate the assassination of Brazilian human rights activist Marielle Franco and her driver. ](/news/2018/03/22/an-open-letter-from-international-politicians-activists-journalists-and-academics-demands-an-independent-commission-be-formed-to-investig.md)
+An open letter by activists, writers, journalists, actors and politicians calls for an investigation of murder by an independent commission
 
 ##### Alleged Libyan influence in the 2007 French elections
 ### [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md)
@@ -91,6 +103,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picany
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### 2017 Parsons Green bombing
+### ["The Independent" claims the Metropolitan Police misidentified material in convicted bomber Ahmad Hassan's possession as not related to ISIS when in fact it was produced by the group. The newspaper says it has submitted evidence to the Central Criminal Court that could affect Hassan's sentence. ](/news/2018/03/21/the-independent-claims-the-metropolitan-police-misidentified-material-in-convicted-bomber-ahmad-hassan-s-possession-as-not-related-to-isis.md)
+Police botched their investigation into Isis propaganda that inspired the Parsons Green attacker and failed to link him to the terrorist group, The Independent can reveal. Ahmed Hassan, an 18-year-old Iraqi asylum seeker, is facing life imprisonment for attempting to bomb a District Line train in Lo...
+
 ##### Alleged Libyan influence in the 2007 French elections
 ### [Former President of France Nicolas Sarkozy is preliminarily charged with illegal funding of his 2007 presidential campaign, passive corruption and receiving money from Libyan embezzlement. ](/news/2018/03/21/former-president-of-france-nicolas-sarkozy-is-preliminarily-charged-with-illegal-funding-of-his-2007-presidential-campaign-passive-corrupti.md)
 _Context: Alleged Libyan influence in the 2007 French elections, Libya, Nicolas Sarkozy, President of France_
@@ -112,7 +128,7 @@ _Context: Austin police officers, Austin serial bombings_
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of "withholding evidence." ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
+### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
 British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
 
 ##### Economy of the African Union

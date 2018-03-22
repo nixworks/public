@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-for
 ### [2018-03-21](/news/2018/03/21/index.md)
 
 ##### Poisoning of Sergei and Yulia Skripal
-# Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of "withholding evidence." 
+# Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. 
 
 British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
 

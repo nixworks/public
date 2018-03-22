@@ -12,7 +12,7 @@ Several leading brands have reportedly sought to pull their ads from YouTube cha
 ### Sources:
 
 1. [CNN](http://money.cnn.com/2018/03/03/technology/youtube-ads-infowars-alex-jones/index.html)
-2. [The Independent](http://www.independent.co.uk/news/world/americas/infowars-leading-brands-youtube-pull-alex-jones-a8239371.html)
+2. [The Independent](https://www.independent.co.uk/news/world/americas/infowars-leading-brands-youtube-pull-alex-jones-a8239371.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/25/10/alex-jones-infowars.jpg)
 
 ### Changes:

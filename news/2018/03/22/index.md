@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/22/index.html)  [JSON](2018/03/22/index.json)  [XML](201
 
 ## [2018-03-22](/news/2018/03/22/index.md)
 
+##### DNA
+### [DNA tests confirm Ata, an unusual six-inch-long mummy found in Chile in 2003, to be the remains of a newborn human with genetic mutations. ](/news/2018/03/22/dna-tests-confirm-ata-an-unusual-six-inch-long-mummy-found-in-chile-in-2003-to-be-the-remains-of-a-newborn-human-with-genetic-mutations.md)
+Scientists investigate an unusual, small, mummified skeleton from Chile to establish its medical history.
+
 ##### Russian interference in the 2016 United States elections
 ### [John Dowd, the most senior lawyer advising U.S. President Donald Trump on allegations of Russian electoral interference, resigns. ](/news/2018/03/22/john-dowd-the-most-senior-lawyer-advising-u-s-president-donald-trump-on-allegations-of-russian-electoral-interference-resigns.md)
 John Dowd is reported to have concluded that Mr Trump was increasingly ignoring his advice.
@@ -18,6 +22,14 @@ President Erdoğan says he will not let natural reserves be exploited by Greek C
 ##### Protests against Emmanuel Macron
 ### [People in 150 places across France take to the streets peacefully in a general strike to protest President Macron's economic reforms. Railways, airways, schools and power generation are affected. ](/news/2018/03/22/people-in-150-places-across-france-take-to-the-streets-peacefully-in-a-general-strike-to-protest-president-macron-s-economic-reforms-railwa.md)
 _Context: France, President Macron's economic reforms, Protests against Emmanuel Macron, general strike_
+
+##### Cow vigilante violence in India since 2014
+### [An Indian court convicts eleven Hindus of murdering a Muslim man they discovered transporting a cow, sentencing them to life. It is the first successful prosecution of cow vigilantism violence in India. ](/news/2018/03/22/an-indian-court-convicts-eleven-hindus-of-murdering-a-muslim-man-they-discovered-transporting-a-cow-sentencing-them-to-life-it-is-the-firs.md)
+_Context: Cow vigilante violence in India since 2014, Hindus, India, Muslim_
+
+##### Brazil
+### [An open letter from international politicians, activists, journalists, and academics demands an independent commission be formed to investigate the assassination of Brazilian human rights activist Marielle Franco and her driver. ](/news/2018/03/22/an-open-letter-from-international-politicians-activists-journalists-and-academics-demands-an-independent-commission-be-formed-to-investig.md)
+An open letter by activists, writers, journalists, actors and politicians calls for an investigation of murder by an independent commission
 
 ##### Alleged Libyan influence in the 2007 French elections
 ### [In a statement to French investigating magistrates, ex-President Nicolas Sarkozy refutes corruption charges relating to alleged receipt of funding from the then President of Libya, Muammar Gaddafi, in 2007. ](/news/2018/03/22/in-a-statement-to-french-investigating-magistrates-ex-president-nicolas-sarkozy-refutes-corruption-charges-relating-to-alleged-receipt-of-f.md)

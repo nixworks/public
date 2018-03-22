@@ -12,7 +12,7 @@ The leaders of far-right extremist group Britain First have been jailed for anti
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-england-43320121)
-2. [The Independent](http://www.independent.co.uk/news/uk/crime/paul-golding-jayda-fransen-britain-first-leaders-guilty-religious-muslim-hate-crime-a8244161.html)
+2. [The Independent](https://www.independent.co.uk/news/uk/crime/paul-golding-jayda-fransen-britain-first-leaders-guilty-religious-muslim-hate-crime-a8244161.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/07/15/paul-golding-jayda-fransen-folkestone.jpg)
 
 ### Changes:

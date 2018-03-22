@@ -31,6 +31,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picany
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
 
+##### 2017 Parsons Green bombing
+### ["The Independent" claims the Metropolitan Police misidentified material in convicted bomber Ahmad Hassan's possession as not related to ISIS when in fact it was produced by the group. The newspaper says it has submitted evidence to the Central Criminal Court that could affect Hassan's sentence. ](/news/2018/03/21/the-independent-claims-the-metropolitan-police-misidentified-material-in-convicted-bomber-ahmad-hassan-s-possession-as-not-related-to-isis.md)
+Police botched their investigation into Isis propaganda that inspired the Parsons Green attacker and failed to link him to the terrorist group, The Independent can reveal. Ahmed Hassan, an 18-year-old Iraqi asylum seeker, is facing life imprisonment for attempting to bomb a District Line train in Lo...
+
 ##### Alleged Libyan influence in the 2007 French elections
 ### [Former President of France Nicolas Sarkozy is preliminarily charged with illegal funding of his 2007 presidential campaign, passive corruption and receiving money from Libyan embezzlement. ](/news/2018/03/21/former-president-of-france-nicolas-sarkozy-is-preliminarily-charged-with-illegal-funding-of-his-2007-presidential-campaign-passive-corrupti.md)
 _Context: Alleged Libyan influence in the 2007 French elections, Libya, Nicolas Sarkozy, President of France_
@@ -52,7 +56,7 @@ _Context: Austin police officers, Austin serial bombings_
 The Public Order and Safety (Special Powers) Act aims to reduce the risk of security operations being compromised by unauthorised communications.
 
 ##### Poisoning of Sergei and Yulia Skripal
-### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of "withholding evidence." ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
+### [Russia holds a briefing on the case for all foreign diplomats in Moscow, where it accuses the United Kingdom of withholding evidence. ](/news/2018/03/21/russia-holds-a-briefing-on-the-case-for-all-foreign-diplomats-in-moscow-where-it-accuses-the-united-kingdom-of-withholding-evidence.md)
 British diplomat attending Moscow briefing to foreign ambassadors condemns its ‘disinformation’
 
 ##### Economy of the African Union
