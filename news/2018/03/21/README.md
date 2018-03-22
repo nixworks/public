@@ -3,6 +3,10 @@ Formats: [HTML](2018/03/21/index.html)  [JSON](2018/03/21/index.json)  [XML](201
 
 ## [2018-03-21](/news/2018/03/21/index.md)
 
+##### American
+### [Three people (two American, one Russian) launch successfully from the Baikonur Cosmodrome aboard Soyuz MS-08 to the International Space Station as part of Expedition 55. ](/news/2018/03/21/three-people-two-american-one-russian-launch-successfully-from-the-baikonur-cosmodrome-aboard-soyuz-ms-08-to-the-international-space-stat.md)
+Three crew members, including NASA astronauts Drew Feustel and Ricky Arnold, are on their way to the International Space Station after launching from the Baikonur Cosmodrome in Kazakhstan at 1:44 p.m. EDT Wednesday (11:44 p.m. Baikonur time).
+
 ##### Discoveries of exoplanets
 ### [Fifteen new exoplanets are discovered. Three of them, larger than Earth, are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if K2-155d has water. ](/news/2018/03/21/fifteen-new-exoplanets-are-discovered-three-of-them-larger-than-earth-are-also-discovered-around-the-dwarf-star-k2-155-furthermore-a-3d.md)
 Recently, the researchers have discovered 15 new planets in the Universe. They are found around some cool stars called ‘red dwarfs’. What’s even more amazing is the fact that one of these exoplanet…
@@ -26,6 +30,10 @@ _Context: 2017-18 Spanish constitutional crisis, Catalan, Jordi Sanchez i Picany
 ##### Politics of Myanmar
 ### [Myanmar President Htin Kyaw resigns due to ill health. Vice-President Myint Swe, a former general, will become acting president until a new president is chosen. ](/news/2018/03/21/myanmar-president-htin-kyaw-resigns-due-to-ill-health-vice-president-myint-swe-a-former-general-will-become-acting-president-until-a-new.md)
 _Context: Htin Kyaw, Myanmar President, Myint Swe, Politics of Myanmar_
+
+##### Crime in France
+### [Former President of France Nicolas Sarkozy is preliminarily charged with illegal funding of his 2007 presidential campaign, passive corruption and receiving money from Libyan embezzlement. ](/news/2018/03/21/former-president-of-france-nicolas-sarkozy-is-preliminarily-charged-with-illegal-funding-of-his-2007-presidential-campaign-passive-corrupti.md)
+_Context: Crime in France, Libyan, Nicolas Sarkozy, President of France_
 
 ##### Crime in the United Kingdom
 ### [James Ibori, a former governor of Delta State, Nigeria, launches a bid to overturn his guilty pleas on corruption charges in the UK alleging police corruption. ](/news/2018/03/21/james-ibori-a-former-governor-of-delta-state-nigeria-launches-a-bid-to-overturn-his-guilty-pleas-on-corruption-charges-in-the-uk-alleging.md)
